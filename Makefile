@@ -9,14 +9,10 @@ setup:
 	$(PY) -m pip install -U pip
 	$(PY) -m pip install -r requirements.txt
 
-# Run the generator. Does not hardcode output; pass any flags via ARGS.
-# Optional: TEXT="..." to override input.txt
-# Examples:
-#   make generate
-#   make generate TEXT="银行 人民币 得" ARGS="--verbose"
-#   make generate ARGS="--outdir custom/out --verbose"
+# Run the generators. First parse inputs, then build flashcards.
 generate:
-	$(PY) generate.py $(if $(TEXT),--text "$(TEXT)",) $(ARGS)
+	$(PY) generate.input.py --verbose $(ARGS)
+	$(PY) generate.output.py --verbose $(ARGS)
 
 clean-venv:
 	rm -rf $(VENV)

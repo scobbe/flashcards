@@ -1,831 +1,191 @@
 import argparse
+import json
 import os
-import re
 import sys
-import time
-from datetime import datetime
-from typing import Dict, List, Optional, Tuple
-
-import requests
-from bs4 import BeautifulSoup
+from pathlib import Path
+from typing import Iterable, List, Sequence, Set, Tuple
 
 from openai_helper import OpenAIClient
 
-# Auto-load .env if present
-try:
-    from dotenv import load_dotenv
-    _ENV_PATH = os.path.join(os.path.abspath(os.path.dirname(__file__)), ".env")
-    if os.path.exists(_ENV_PATH):
-        load_dotenv(_ENV_PATH)
-except Exception:
-    pass
 
-# Ensure pronunciation normalizer exists before any usage
-if 'normalize_pronunciation' not in globals():
-    def normalize_pronunciation(raw: str) -> str:
-        if not raw:
-            return ""
-        s = raw
-        # Keep only the first segment before 'also' or semicolons
-        s = re.split(r"(?i)\balso\b|;", s)[0]
-        s = re.sub(r"(?i)mandarin\s*\(.*?\)\s*:\s*", "", s)
-        s = re.sub(r"(?i)mandarin:\s*", "", s)
-        s = re.sub(r"(?i)pinyin:\s*", "", s)
-        s = re.split(r"(?i)\bcantonese:\b", s)[0]
-        s = re.sub(r"\([^\)]*\)", "", s)
-        s = s.replace("；", ";")
-        parts = re.split(r"\s*(?:;|,|/|\.|\bor\b|\band\b|\balso\b)\s*", s, flags=re.IGNORECASE)
-        kept: List[str] = []
-        token_re = re.compile(r"^[A-Za-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ ]+$")
-        for p in parts:
-            pt = p.strip()
-            if not pt:
-                continue
-            if token_re.match(pt) and not re.search(r"\d", pt):
-                kept.append(pt)
-        if not kept:
-            return s.strip()
-        # Use only the first pinyin reading to avoid noisy alternates
-        return kept[0]
-
-
-RUNTIME_DIR = os.path.abspath(os.path.dirname(__file__))
-WORK_ROOT = os.path.join(RUNTIME_DIR, "output")
-
-
-def ensure_dir(path: str) -> None:
-    if not os.path.isdir(path):
-        os.makedirs(path, exist_ok=True)
-
-
-def now_ts() -> str:
-    return datetime.now().strftime("%Y%m%d_%H%M%S")
-
-
-# Regex validators
-REGEX = {
-    "front": re.compile(r"^##\s+[A-Za-z0-9 ,;:()'\"./-]+(\s+\(archaic\))?$"),
-    "front_sub": re.compile(r"^(###\s+(subword\s+in|component\s+of)\s+\"[A-Za-z0-9 ,;:()'\"./-]+\")?$"),
-    "divider": re.compile(r"^---$"),
-    # obsolete in new schema
-    "label_def": re.compile(r"^- \*\*Definition:\*\* .+$"),
-    "label_usage": re.compile(r"^- \*\*Contemporary usage:\*\*$"),
-    "label_usage_item": re.compile(r"^  - .+ \([a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ' ]+\) - .+$"),
-    "label_usage_none": re.compile(r"^None$"),
-    "label_etym": re.compile(r"^- \*\*Etymology \([^\)]+\):\*\*$"),
-    "label_etym_type": re.compile(r"^  - \*\*Type:\*\* .+$"),
-    "label_etym_desc": re.compile(r"^  - \*\*Description:\*\* .+$"),
-    "label_etym_interp": re.compile(r"^  - \*\*Interpretation:\*\* .+$"),
-    "label_etym_ref": re.compile(r"^  - \*\*Reference:\*\* (\[[^\]]+ — Wiktionary\]\(https://en\.wiktionary\.org/wiki/[^/\s\)]+\)|https://[^\s\)]+|None)$"),
-    "label_simplified": re.compile(r"^- \*\*Simplified:\*\* (.+|None)$"),
-    "label_traditional": re.compile(r"^- \*\*Traditional:\*\* (.+|None)$"),
-    "label_simpl_rule": re.compile(r"^  - \*\*Simplification rule(?: \([^\)]+\))?:\*\* .+$"),
-    "term": re.compile(r"^(%%%|---|##|###|- \*\*|  - ).*$"),
-}
-
-
-class WiktionaryClient:
-    def __init__(self) -> None:
-        self.session = requests.Session()
-        self.session.headers.update({
-            "User-Agent": "flashcards-cli/1.0 (https://example.local)"
-        })
-
-    @staticmethod
-    def make_url_for_headword(headword: str) -> str:
-        from urllib.parse import quote
-
-        return f"https://en.wiktionary.org/wiki/{quote(headword, safe='')}"
-
-    def fetch_page(self, url: str) -> Tuple[int, str]:
-        last_err: Optional[Exception] = None
-        for _ in range(3):
-            try:
-                resp = self.session.get(url, timeout=(10, 40))
-                return resp.status_code, resp.text
-            except requests.exceptions.RequestException as e:
-                last_err = e
-        raise last_err  # type: ignore
-
-    def search_then_open(self, headword: str) -> Tuple[Optional[str], Optional[str]]:
-        url = self.make_url_for_headword(headword)
-        status, html = self.fetch_page(url)
-        if status == 200:
-            return url, html
-        return None, None
-
-
-def _collect_text_until(next_node, stop_tags: Tuple[str, ...]) -> str:
-    parts: List[str] = []
-    node = next_node
-    while node is not None:
-        if getattr(node, 'name', None) in stop_tags:
-            break
-        parts.append(node.get_text("\n") if hasattr(node, 'get_text') else str(node))
-        node = node.next_sibling
-    return "\n".join(parts)
-
-
-def extract_chinese_sections(html: str) -> Dict[str, str]:
-    soup = BeautifulSoup(html, "html.parser")
-    result = {"chinese_text": "", "etym_text": "", "glyph_text": "", "pron_text": ""}
-    # Find the Chinese language section
-    chinese_span = soup.find(id="Chinese")
-    if chinese_span is None:
-        # fallback to full text
-        txt = soup.get_text("\n")
-        result["chinese_text"] = txt
-        result["etym_text"] = ""
-        return result
-    # h2 parent
-    h2 = chinese_span.find_parent(["h2", "h3"]) or chinese_span.parent
-    chinese_text = _collect_text_until(h2.next_sibling, ("h2",))
-    result["chinese_text"] = chinese_text
-    # Inside Chinese section, find Etymology subsection
-    ety_span = None
-    glyph_span = None
-    pron_span = None
-    for sp in h2.find_all_next("span", id=True):
-        # stop when next language section reached
-        par = sp.find_parent(["h2", "h3"]) or sp.parent
-        if par and par.name == "h2" and sp.get("id") != "Chinese":
-            break
-        if sp.get("id", "").startswith("Etymology"):
-            ety_span = sp
-        if sp.get("id", "") == "Pronunciation":
-            pron_span = sp
-        if sp.get("id", "") == "Glyph_origin":
-            glyph_span = sp
-    if ety_span is not None:
-        ety_header = ety_span.find_parent(["h3", "h4"]) or ety_span.parent
-        ety_text = _collect_text_until(ety_header.next_sibling, ("h3", "h2"))
-        result["etym_text"] = ety_text
-    if pron_span is not None:
-        pron_header = pron_span.find_parent(["h3", "h4"]) or pron_span.parent
-        pron_text = _collect_text_until(pron_header.next_sibling, ("h3", "h2"))
-        result["pron_text"] = pron_text
-    if glyph_span is not None:
-        glyph_header = glyph_span.find_parent(["h3", "h4"]) or glyph_span.parent
-        glyph_text = _collect_text_until(glyph_header.next_sibling, ("h3", "h2"))
-        result["glyph_text"] = glyph_text
-    return result
-
-
-_CJK_RANGES = (
-    "\u3400-\u9FFF"
-    "\uF900-\uFAFF"
-    "\u2E80-\u2EFF"
-    "\u2F00-\u2FDF"
-    "\u3000-\u303F"
-)
-
-
-def _is_cjk_char(ch: str) -> bool:
+def is_cjk_char(ch: str) -> bool:
     code = ord(ch)
-    return (
-        0x3400 <= code <= 0x9FFF or
-        0xF900 <= code <= 0xFAFF or
-        0x2E80 <= code <= 0x2EFF or
-        0x2F00 <= code <= 0x2FDF or
-        0x3000 <= code <= 0x303F
-    )
-
-
-def normalize_text_for_cjk(text: str) -> str:
-    t = text.replace("\u200b", "").replace("\u200d", "")
-    chars: List[str] = []
-    prev_cjk = False
-    for ch in t:
-        if ch.isspace():
-            if prev_cjk:
-                continue
-            else:
-                chars.append(" ")
-                prev_cjk = False
-                continue
-        if _is_cjk_char(ch):
-            if chars and chars[-1] == " ":
-                j = len(chars) - 2
-                while j >= 0 and chars[j] == " ":
-                    j -= 1
-                if j >= 0 and _is_cjk_char(chars[j]):
-                    chars.pop()
-            chars.append(ch)
-            prev_cjk = True
-        else:
-            chars.append(ch)
-            prev_cjk = False
-    return "".join(chars)
-def _is_missing_text(val: Optional[str]) -> bool:
-    if val is None:
+    if 0x3400 <= code <= 0x9FFF:
         return True
-    s = str(val).strip().lower()
-    return s in {"", "missing", "none", "n/a", "null"}
+    if 0xF900 <= code <= 0xFAFF:
+        return True
+    if 0x2E80 <= code <= 0x2EFF:
+        return True
+    if 0x2F00 <= code <= 0x2FDF:
+        return True
+    if 0x20000 <= code <= 0x2EBEF:
+        return True
+    if 0x30000 <= code <= 0x3134F:
+        return True
+    return False
 
 
+def keep_only_cjk(text: str) -> str:
+    return "".join(ch for ch in text if is_cjk_char(ch))
 
 
-def fallback_extract_headwords(text: str, max_items: int = 12) -> List[str]:
-    pattern = re.compile(r"[\u3400-\u9FFF\uF900-\uFAFF\u2E80-\u2EFF\u2F00-\u2FDF]{2,}")
-    found = pattern.findall(text)
-    seen = set()
+def unique_preserve_order(items: Iterable[str]) -> List[str]:
+    seen: Set[str] = set()
     ordered: List[str] = []
-    for tok in found:
-        if tok not in seen:
-            seen.add(tok)
-            ordered.append(tok)
-        if len(ordered) >= max_items:
-            break
+    for item in items:
+        if item not in seen:
+            seen.add(item)
+            ordered.append(item)
     return ordered
 
 
-def prompt_openai_parse_headwords(client: OpenAIClient, raw_input_text: str) -> List[str]:
-    system = (
-        "You are a strict extractor. Given arbitrary Chinese learning text, "
-        "return a JSON array of distinct top-level vocabulary headwords to process, "
-        "keeping original spacing and script for each headword."
-    )
-    user = raw_input_text
-    data = client.complete_json(system=system, user=user, schema_hint="array of strings")
-    if isinstance(data, list):
-        return [str(x) for x in data]
-    return []
+def filter_substrings(words: Sequence[str]) -> List[str]:
+    result: List[str] = []
+    for i, w in enumerate(words):
+        keep = True
+        for j, other in enumerate(words):
+            if i == j:
+                continue
+            if len(other) > len(w) and w and w in other:
+                keep = False
+                break
+        if keep:
+            result.append(w)
+    return result
 
 
-def prompt_openai_single_char_fields(
-    client: OpenAIClient,
-    headword: str,
-    chinese_page_text: str,
-    pron_text: str = "",
-) -> Dict[str, str]:
+def call_openai_for_vocab(text: str, model: str | None = None) -> List[str]:
+    client = OpenAIClient(model=model)
     system = (
-        "Extract strictly from Wiktionary Chinese content below.\n"
-        "Return JSON with keys: english_sense, definition, examples (max 2), etymology_type, etymology_description, etymology_interpretation, script_form (simplified|traditional), other_form (if mapping exists), simplification_explanation (if applicable).\n"
-        "Rules:\n"
-        "- Definition: pick the most common modern sense for learners (not archaic/rare). Keep it short.\n"
-        "- Examples: Format each as 'ZH (pinyin) - EN'.\n"
-        "- Etymology Type: if the character changed over time, summarize stages as an arrow chain, e.g., 'pictogram → phono‑semantic'. Otherwise a single stage.\n"
-        "- Etymology Description: output ONLY as a minimal arrow chain with roles and senses, like 'pictogram of <CHAR> (pinyin, gloss) → semantic: <CHAR> (pinyin, gloss), phonetic: <CHAR> (pinyin, gloss)'. No extra words. No IPA/OC, no starred forms.\n"
-        "- Character references: whenever you mention a Chinese character anywhere in Description or Interpretation, format it as 字 (pinyin, meaning). If the page does not explicitly provide pinyin/meaning for that referenced character, you may rely on general knowledge to supply the most common pinyin and a basic learner‑friendly gloss.\n"
-        "- Etymology Interpretation: in plain language, explain WHY the formation yields the meaning: what image the pictogram evokes, how the semantic part’s sense supports the definition, and that the phonetic part supplies the sound. If scribes changed the graph, explicitly motivate WHY they did so in general terms (signal the intended meaning while preserving the sound). Include a brief historical note if relevant, but keep it simple. Focus on concrete intuition, not terminology. 1–3 short sentences, no arrows, no IPA/OC.\n"
-        "- Only use facts present; if absent after full scan, set MISSING."
+        "You are a precise Chinese vocabulary extractor. "
+        "Given a raw study note text, extract ONLY the top-level headwords (vocabulary entries). "
+        "Ignore examples, sentences, subcomponents/decompositions, and parts-of-speech annotations. "
+        "Return a JSON object with a single key 'vocab' whose value is an array of strings. "
+        "Each string MUST contain ONLY Chinese characters (no spaces, no Latin letters, no punctuation). "
+        "Deduplicate entries. If a word is a substring of another longer word present, exclude the substring."
     )
     user = (
-        f"Headword: {headword}\n\n"
-        f"Chinese section text:\n\n{chinese_page_text}\n\nPronunciation section (if any):\n\n{pron_text}"
+        "Extract top-level vocabulary headwords from this text and return JSON of the form "
+        "{\"vocab\":[\"...\"]}.\n\n" + text
     )
     data = client.complete_json(system=system, user=user)
-    if not isinstance(data, dict):
-        return {}
-    return data
-
-
-def prompt_openai_multi_word_fields(
-    client: OpenAIClient,
-    headword: str,
-) -> Dict[str, object]:
-    system = (
-        "For a multi-character Chinese word, generate JSON fields: "
-        "pronunciation (Hanyu Pinyin with tone marks), definition (most common learner sense, concise), examples (0-2; 'ZH (pinyin) - EN'), "
-        "etymology_type, etymology_description, etymology_interpretation, reference_url (https URL or None). "
-        "Etymology Description/Interpretation should be succinct (one short line each). Do not scrape Wiktionary here; general knowledge allowed."
-    )
-    user = f"Headword: {headword}"
-    data = client.complete_json(system=system, user=user)
-    if not isinstance(data, dict):
-        return {}
-    return data
-
-
-def prompt_openai_pick_english_sense(
-    client: OpenAIClient,
-    definition_text: str,
-) -> str:
-    system = (
-        "Pick a concise English noun/short phrase (ASCII only) to use as a flashcard front, "
-        "based ONLY on the provided Chinese definition text. Return a bare JSON string."
-    )
-    user = f"Definition text:\n\n{definition_text}"
-    data = client.complete_json(system=system, user=user)
-    if isinstance(data, str):
-        return data.strip()
-    return ""
-
-
-def render_card_front(title: str, subline: Optional[str] = None) -> List[str]:
-    lines = [f"## {title}"]
-    if subline:
-        lines.append(subline)
-    return lines
-
-
-def render_card_body(
-    simplified: Optional[str],
-    traditional: Optional[str],
-    definition: str,
-    examples: List[str],
-    etym_type: str,
-    etym_desc: str,
-    etym_interp: str,
-    reference: str,
-    simplification_rule: Optional[str] = None,
-) -> List[str]:
-    lines: List[str] = ["---"]
-    lines.append(f"- **Traditional:** {traditional if traditional else 'None'}")
-    lines.append(f"- **Simplified:** {simplified if simplified else 'None'}")
-    lines.append(f"- **Definition:** {definition}")
-    lines.append("- **Contemporary usage:**")
-    if examples:
-        for e in examples[:2]:
-            lines.append(f"  - {e}")
-    else:
-        lines.append("None")
-    ety_suffix = traditional if traditional else "traditional form"
-    lines.append(f"- **Etymology ({ety_suffix}):**")
-    lines.append(f"  - **Type:** {etym_type}")
-    lines.append(f"  - **Description:** {etym_desc}")
-    lines.append(f"  - **Interpretation:** {etym_interp}")
-    lines.append(f"  - **Reference:** {reference}")
-    if simplified:
-        lines.append(f"  - **Simplification rule ({simplified}):** {simplification_rule if simplification_rule else 'None'}")
-    else:
-        lines.append("  - **Simplification rule:** None, no simplified form")
-    lines.append("%%%")
-    return lines
-
-
-def validate_card_lines(lines: List[str]) -> Tuple[bool, str]:
-    if not lines:
-        return False, "empty card block"
-    idx = 0
-    if not REGEX["front"].match(lines[idx]):
-        return False, f"invalid front header: '{lines[idx]}'"
-    idx += 1
-    if idx < len(lines) and lines[idx].startswith("###"):
-        if not REGEX["front_sub"].match(lines[idx]):
-            return False, f"invalid subline format: '{lines[idx]}'"
-        idx += 1
-    if idx >= len(lines) or not REGEX["divider"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"missing or invalid divider after front, got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_traditional"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Traditional:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_simplified"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Simplified:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_def"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Definition:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_usage"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Contemporary usage:**', got '{got}'"
-    idx += 1
-    while idx < len(lines) and (lines[idx].startswith("  - ") or REGEX["label_usage_none"].match(lines[idx])):
-        if REGEX["label_usage_none"].match(lines[idx]):
-            idx += 1
-            break
-        if not REGEX["label_usage_item"].match(lines[idx]):
-            return False, f"invalid usage example format: '{lines[idx]}'"
-        idx += 1
-    if idx >= len(lines) or not REGEX["label_etym"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Etymology (traditional form):**', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_etym_type"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '  - **Type:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_etym_desc"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '  - **Description:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_etym_interp"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '  - **Interpretation:** ...', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_etym_ref"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '  - **Reference:** <url>' or 'None', got '{got}'"
-    idx += 1
-    if idx >= len(lines) or not REGEX["label_simpl_rule"].match(lines[idx]):
-        got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '  - **Simplification rule:** ...', got '{got}'"
-    if lines[-1] != "%%%":
-        return False, "missing terminating '%%%' line"
-    return True, ""
-
-
-def write_cards_file(headword: str, all_cards_lines: List[List[str]], outdir: Optional[str] = None) -> Tuple[str, int]:
-    target_dir = outdir or WORK_ROOT
-    if not os.path.isabs(target_dir):
-        target_dir = os.path.abspath(os.path.join(RUNTIME_DIR, target_dir))
-    ensure_dir(target_dir)
-    filename = f"{headword}.md"
-    path = os.path.join(target_dir, filename)
-    with open(path, "w", encoding="utf-8") as f:
-        for block in all_cards_lines:
-            for line in block:
-                f.write(line + "\n")
-    return path, len(all_cards_lines)
-
-
-def clean_pinyin_text(py: str) -> str:
-    # Keep only ASCII letters, tone-marked vowels, spaces, and apostrophes
-    allowed = re.compile(r"[A-Za-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ' ]+")
-    pieces = allowed.findall(py or "")
-    cleaned = "".join(pieces)
-    # Collapse spaces
-    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    vocab = data.get("vocab") if isinstance(data, dict) else None
+    if not isinstance(vocab, list):
+        return []
+    cleaned: List[str] = []
+    for item in vocab:
+        if not isinstance(item, str):
+            continue
+        only_cjk = keep_only_cjk(item)
+        if only_cjk:
+            cleaned.append(only_cjk)
+    cleaned = unique_preserve_order(cleaned)
+    cleaned = filter_substrings(cleaned)
     return cleaned
 
 
-def normalize_examples(items: List[object]) -> List[str]:
-    out: List[str] = []
-    for it in items:
-        if isinstance(it, dict):
-            zh = str(it.get("zh", "") or it.get("hanzi", "")).strip()
-            py_raw = str(it.get("pinyin", "") or it.get("py", "")).strip()
-            en = str(it.get("en", "") or it.get("english", "")).strip()
-            py = clean_pinyin_text(py_raw)
-            if zh and en and py:
-                out.append(f"{zh} ({py}) - {en}")
-        elif isinstance(it, str):
-            s = it.strip()
-            # Try to parse and sanitize pinyin inside parentheses
-            m = re.match(r"^(?P<zh>.+?)\s*\((?P<py>[^\)]*)\)\s*-\s*(?P<en>.+)$", s)
-            if m:
-                zh = m.group("zh").strip()
-                py = clean_pinyin_text(m.group("py"))
-                en = m.group("en").strip()
-                if zh and py and en:
-                    out.append(f"{zh} ({py}) - {en}")
-            elif " - " in s and "(" in s and ")" in s:
-                # Fallback accept as-is if it looks close enough
-                out.append(s)
-    return out
+def heuristic_extract_headwords(text: str) -> List[str]:
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    candidates: List[str] = []
+    for ln in lines:
+        # Find the first contiguous run of CJK characters after any leading numbering
+        processed = ln
+        # strip leading numbering like "1 ." or "10 ." or "1." or "1 -"
+        idx = 0
+        while idx < len(processed) and processed[idx].isdigit():
+            idx += 1
+        while idx < len(processed) and processed[idx] in {".", "-", ":", " "}:
+            idx += 1
+        # Now collect CJK run
+        head = []
+        while idx < len(processed) and is_cjk_char(processed[idx]):
+            head.append(processed[idx])
+            idx += 1
+        token = "".join(head)
+        if token:
+            candidates.append(token)
+    candidates = unique_preserve_order(candidates)
+    candidates = filter_substrings(candidates)
+    return candidates
 
 
-def read_extracted_list(path: str) -> List[str]:
-    if not os.path.exists(path):
-        return []
-    words: List[str] = []
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            m = re.match(r"^\s*(\d+)\s*\.\s*(.+)$", line.strip())
-            if m:
-                words.append(m.group(2).strip())
-            else:
-                t = line.strip()
-                if t:
-                    words.append(t)
-    seen = set()
-    result: List[str] = []
-    for w in words:
-        if w not in seen:
-            seen.add(w)
-            result.append(w)
-    return result
+def format_numbered(words: Sequence[str]) -> str:
+    lines = [f"{i}. {w}" for i, w in enumerate(words, start=1)]
+    return "\n".join(lines) + ("\n" if lines else "")
 
 
-def write_extracted_list(path: str, words: List[str]) -> None:
-    ensure_dir(os.path.dirname(path))
-    with open(path, "w", encoding="utf-8") as f:
-        for i, w in enumerate(words, 1):
-            f.write(f"{i}. {w}\n")
+def find_raw_input_files(root: Path) -> List[Path]:
+    return [
+        Path(p) for p in sorted(root.rglob("raw.input.txt")) if Path(p).is_file()
+    ]
 
 
-def extract_headwords_numbered(raw_text: str) -> List[str]:
-    lines = raw_text.splitlines()
-    words: List[str] = []
-    cjk_seq = re.compile(r"[\u3400-\u9FFF\uF900-\uFAFF\u2E80-\u2EFF\u2F00-\u2FDF]{1,}")
-    for line in lines:
-        s = normalize_text_for_cjk(line)
-        if re.match(r"^\s*\d+\s*[\.．]", s):
-            rest = re.sub(r"^\s*\d+\s*[\.．]\s*", "", s)
-            m = cjk_seq.search(rest)
-            if m:
-                words.append(m.group(0))
-                continue
-        m2 = re.match(r"^\s*([\u3400-\u9FFF\uF900-\uFAFF\u2E80-\u2EFF\u2F00-\u2FDF]{1,})\s+(N|V|Adv|Prep|VO|PN|Nu|M)\b", s)
-        if m2:
-            words.append(m2.group(1))
-            continue
-    seen = set()
-    result: List[str] = []
-    for w in words:
-        if w not in seen:
-            seen.add(w)
-            result.append(w)
-    return result
+def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[str]]:
+    text = raw_path.read_text(encoding="utf-8", errors="ignore")
+    if verbose:
+        print(f"[info] Extracting vocab via OpenAI: {raw_path}")
+    try:
+        vocab = call_openai_for_vocab(text, model=model)
+    except Exception as e:
+        if verbose:
+            print(f"[warn] OpenAI extraction failed: {e}; falling back to heuristic parsing")
+        vocab = heuristic_extract_headwords(text)
+
+    # Final cleaning and filtering just in case
+    vocab = [keep_only_cjk(w) for w in vocab if keep_only_cjk(w)]
+    vocab = unique_preserve_order(vocab)
+    vocab = filter_substrings(vocab)
+
+    out_path = raw_path.with_name("parsed.input.txt")
+    out_path.write_text(format_numbered(vocab), encoding="utf-8")
+    if verbose:
+        print(f"[ok] Wrote {out_path} ({len(vocab)} items)")
+    return out_path, vocab
 
 
-def prompt_openai_decompose_components(
-    client: OpenAIClient,
-    headword: str,
-    etym_text: str,
-) -> List[Dict[str, str]]:
-    system = (
-        "You are a strict extractor. Use ONLY the Chinese Etymology subsection text below.\n"
-        "If and only if the Etymology explicitly lists named components (e.g., phono-semantic composition), "
-        "return a JSON array of { component_headword, english_sense? }. Otherwise return an empty array.\n"
-        "Do not infer from glyph shape; do not guess."
+def main(argv: List[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Parse vocab from output/**/raw.input.txt")
+    parser.add_argument(
+        "--root",
+        default=str(Path(__file__).parent / "output"),
+        help="Root directory to scan (default: ./output)",
     )
-    user = (
-        f"Headword: {headword}\n\n"
-        f"Chinese Etymology text:\n\n{etym_text}"
+    parser.add_argument(
+        "--model",
+        default=os.environ.get("OPENAI_MODEL"),
+        help="OpenAI model name (overrides OPENAI_MODEL)",
     )
-    data = client.complete_json(system=system, user=user)
-    if not isinstance(data, list):
-        return []
-    return data
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Enable verbose logging",
+    )
+    # Kept for compatibility with Makefile, though unused for this generator
+    parser.add_argument("--text", default=None, help=argparse.SUPPRESS)
 
+    args, unknown = parser.parse_known_args(argv)
+    root = Path(args.root)
+    if not root.exists():
+        print(f"[error] Root directory does not exist: {root}", file=sys.stderr)
+        return 2
 
-def build_component_cards(
-    client: OpenAIClient,
-    wikiclient: WiktionaryClient,
-    parent_english: str,
-    headword: str,
-    visited: Optional[set] = None,
-) -> List[List[str]]:
-    if visited is None:
-        visited = set()
-    if headword in visited:
-        return []
-    visited.add(headword)
-
-    url, html = wikiclient.search_then_open(headword)
-    if not url or not html:
-        return []
-    sections = extract_chinese_sections(html)
-    chinese_text = sections.get("chinese_text") or sections.get("full_text") or ""
-    etym_or_glyph = sections.get("etym_text") or sections.get("glyph_text") or ""
-    components = prompt_openai_decompose_components(client, headword, etym_or_glyph)
-    results: List[List[str]] = []
-    for comp in components:
-        comp_hw = str(comp.get("component_headword", "")).strip()
-        if not comp_hw:
-            continue
-        # Fetch component fields
-        u2, h2 = wikiclient.search_then_open(comp_hw)
-        if not u2 or not h2:
-            continue
-        sec2 = extract_chinese_sections(h2)
-        fields = prompt_openai_single_char_fields(client, comp_hw, sec2.get("chinese_text") or sec2.get("full_text") or "") or {}
-        examples = normalize_examples(fields.get("examples", []))[:2]
-        english_sense = str(comp.get("english_sense") or fields.get("english_sense") or "").strip()
-        if not english_sense:
-            english_sense = prompt_openai_pick_english_sense(client, str(fields.get("definition", "")))
-        front = render_card_front(
-            title=english_sense,
-            subline=f"### component of \"{parent_english}\"",
-        )
-        script_form_comp = str(fields.get("script_form", "")).lower()
-        other_form_comp_raw = fields.get("other_form")
-        other_form_comp = None if _is_missing_text(other_form_comp_raw) else str(other_form_comp_raw).strip()
-        simplified_comp: Optional[str] = None
-        traditional_comp: Optional[str] = None
-        if script_form_comp.startswith("simplified"):
-            simplified_comp = comp_hw
-            traditional_comp = other_form_comp or None
-        elif script_form_comp.startswith("traditional"):
-            traditional_comp = comp_hw
-            simplified_comp = other_form_comp or None
-        body = render_card_body(
-            simplified=simplified_comp,
-            traditional=traditional_comp,
-            definition=str(fields.get("definition", "")),
-            examples=examples,
-            etym_type=str(fields.get("etymology_type", "")),
-            etym_desc=str(fields.get("etymology_description", "")),
-            etym_interp=str(fields.get("etymology_interpretation", "")),
-            reference=f"[{comp_hw} — Wiktionary]({wikiclient.make_url_for_headword(comp_hw)})",
-            simplification_rule=None if _is_missing_text(fields.get("simplification_explanation")) else str(fields.get("simplification_explanation")),
-        )
-        block = front + body
-        ok, reason = validate_card_lines(block)
-        if ok:
-            results.append(block)
-            # Recurse deeper
-            results.extend(build_component_cards(client, wikiclient, english_sense, comp_hw, visited))
-    return results
-
-
-def process_headword(client: OpenAIClient, wikiclient: WiktionaryClient, headword: str, outdir: Optional[str] = None, verbose: bool = False) -> Tuple[Optional[str], Optional[str]]:
-    cards: List[List[str]] = []
-    is_multi = len(headword) >= 2
-
-    url, html = wikiclient.search_then_open(headword)
-    parent_english = ""
-    if url and html:
-        sections = extract_chinese_sections(html)
-        chinese_text = sections.get("chinese_text") or sections.get("full_text") or ""
-        fields = prompt_openai_single_char_fields(client, headword, chinese_text, sections.get("pron_text", "")) or {}
-        # Simplified/traditional handling for parent
-        script_form = str(fields.get("script_form", "")).lower()
-        other_form_raw = fields.get("other_form")
-        other_form = None if _is_missing_text(other_form_raw) else str(other_form_raw).strip()
-        simplified_hw: Optional[str] = None
-        traditional_hw: Optional[str] = None
-        if script_form.startswith("simplified"):
-            simplified_hw = headword
-            traditional_hw = other_form or headword
-            if other_form:
-                # Prefer traditional reference URL for single-character context
-                u_tr, h_tr = wikiclient.search_then_open(other_form)
-                if u_tr and h_tr:
-                    url = u_tr
-        elif script_form.startswith("traditional"):
-            traditional_hw = headword
-            simplified_hw = other_form or headword
-        examples = normalize_examples(fields.get("examples", []))[:2]
-        parent_english = (str(fields.get("english_sense", "")) or
-                          prompt_openai_pick_english_sense(client, str(fields.get("definition", ""))) or
-                          headword)
-        front = render_card_front(title=parent_english)
-        body = render_card_body(
-            simplified=simplified_hw,
-            traditional=traditional_hw,
-            definition=str(fields.get("definition", "unspecified")),
-            examples=examples,
-            etym_type=str(fields.get("etymology_type", "unspecified")),
-            etym_desc=str(fields.get("etymology_description", "unspecified")),
-            etym_interp=str(fields.get("etymology_interpretation", "unspecified")),
-            reference=f"[{headword} — Wiktionary]({url})",
-            simplification_rule=None if _is_missing_text(fields.get("simplification_explanation")) else str(fields.get("simplification_explanation")),
-        )
-        block = front + body
-        ok, reason = validate_card_lines(block)
-        if not ok:
-            return None, f"BLOCKED: invalid card shape for '{headword}': {reason}"
-        cards.append(block)
-    else:
-        if is_multi:
-            multi = prompt_openai_multi_word_fields(client, headword)
-            examples = normalize_examples(multi.get("examples", []))[:2]
-            parent_english = str(multi.get("english", "")).strip() or str(multi.get("definition", "")).strip() or headword
-            front = render_card_front(title=parent_english)
-            body = render_card_body(
-                simplified=None,
-                traditional=None,
-                definition=str(multi.get("definition", "")),
-                examples=examples,
-                etym_type=str(multi.get("etymology_type", "unspecified")),
-                etym_desc=str(multi.get("etymology_description", "unspecified")),
-                etym_interp=str(multi.get("etymology_interpretation", "unspecified")),
-                reference=str(multi.get("reference_url") or "None"),
-                simplification_rule=None,
-            )
-            block = front + body
-            ok, reason = validate_card_lines(block)
-            if not ok:
-                return None, f"BLOCKED: invalid card shape for '{headword}': {reason}"
-            cards.append(block)
-        else:
-            return None, f"BLOCKED: missing Wiktionary entry for '{headword}' — could not retrieve via web"
-
-    # If multi-character, add subword character cards and component recursion
-    if is_multi:
-        for ch in list(headword):
-            u_ch, h_ch = wikiclient.search_then_open(ch)
-            if not u_ch or not h_ch:
-                return None, f"BLOCKED: missing Wiktionary entry for '{ch}' — could not retrieve via web"
-            sec_ch = extract_chinese_sections(h_ch)
-            f_ch = prompt_openai_single_char_fields(client, ch, sec_ch.get("chinese_text") or sec_ch.get("full_text") or "", sec_ch.get("pron_text", "")) or {}
-            examples_ch = normalize_examples(f_ch.get("examples", []))[:2]
-            english_ch = str(f_ch.get("english_sense", "")).strip() or prompt_openai_pick_english_sense(client, str(f_ch.get("definition", "")))
-            # Simplified/traditional handling for subword character
-            script_ch = str(f_ch.get("script_form", "")).lower()
-            other_ch_raw = f_ch.get("other_form")
-            other_ch = None if _is_missing_text(other_ch_raw) else str(other_ch_raw).strip()
-            simplified_ch: Optional[str] = None
-            traditional_ch: Optional[str] = None
-            if script_ch.startswith("simplified"):
-                simplified_ch = ch
-                traditional_ch = other_ch or ch
-                if other_ch:
-                    u_ct, h_ct = wikiclient.search_then_open(other_ch)
-                    if u_ct and h_ct:
-                        u_ch = u_ct
-            elif script_ch.startswith("traditional"):
-                traditional_ch = ch
-                simplified_ch = other_ch or ch
-            front_ch = render_card_front(
-                title=english_ch,
-                subline=f"### subword in \"{parent_english}\"",
-            )
-            body_ch = render_card_body(
-                simplified=simplified_ch,
-                traditional=traditional_ch,
-                definition=str(f_ch.get("definition", "")),
-                examples=examples_ch,
-                etym_type=str(f_ch.get("etymology_type", "")),
-                etym_desc=str(f_ch.get("etymology_description", "")),
-                etym_interp=str(f_ch.get("etymology_interpretation", "")),
-                reference=f"[{ch} — Wiktionary]({u_ch})",
-                simplification_rule=str(f_ch.get("simplification_explanation") or "") or None,
-            )
-            block_ch = front_ch + body_ch
-            ok, reason = validate_card_lines(block_ch)
-            if not ok:
-                return None, f"BLOCKED: invalid subword card shape for '{ch}': {reason}"
-            cards.append(block_ch)
-
-            # Component recursion
-            comp_cards = build_component_cards(client, wikiclient, english_ch, ch)
-            for b in comp_cards:
-                okc, reasonc = validate_card_lines(b)
-                if not okc:
-                    return None, f"BLOCKED: invalid component card for '{ch}': {reasonc}"
-            cards.extend(comp_cards)
-
-    path, n_cards = write_cards_file(headword, cards, outdir=outdir)
-    return f"Wrote {os.path.basename(path)} with {n_cards} card(s) for {headword}.", None
-
-
-def find_instances(root: str) -> List[str]:
-    instances: List[str] = []
-    for dirpath, dirnames, filenames in os.walk(root):
-        if "input.txt" in filenames:
-            instances.append(dirpath)
-    return sorted(instances)
-
-
-def interactive_loop(args: argparse.Namespace) -> int:
-    ensure_dir(WORK_ROOT)
-    wikiclient = WiktionaryClient()
-    client: Optional[OpenAIClient] = None
-
-    if args.rules_only:
-        print("Rules loaded. Awaiting input.")
+    raw_files = find_raw_input_files(root)
+    if args.verbose:
+        print(f"[info] Found {len(raw_files)} raw.input.txt file(s) under {root}")
+    if not raw_files:
         return 0
 
-    if client is None:
-        client = OpenAIClient()
+    total_items = 0
+    for raw_path in raw_files:
+        _, items = process_file(raw_path, model=args.model, verbose=args.verbose)
+        total_items += len(items)
 
-    instance_dirs = find_instances(WORK_ROOT)
-    if not instance_dirs:
-        print("No instances found under ./output (create an input.txt in a subdirectory).")
-        return 0
-
-    for inst in instance_dirs:
-        print(f"[instance] {inst}")
-        input_path = os.path.join(inst, "input.txt")
-        extracted_path = os.path.join(inst, "extracted.txt")
-        with open(input_path, "r", encoding="utf-8") as f:
-            raw_text = f.read()
-        if os.path.exists(extracted_path):
-            headwords = read_extracted_list(extracted_path)
-            print(f"[info] Using existing extracted list: {extracted_path} ({len(headwords)} items)")
-        else:
-            print("[step] Extracting headwords from numbered entries and POS tags…")
-            headwords = extract_headwords_numbered(raw_text)
-            if not headwords:
-                headwords = fallback_extract_headwords(normalize_text_for_cjk(raw_text))
-            if not headwords:
-                print("No headwords found for this instance.")
-                continue
-            write_extracted_list(extracted_path, headwords)
-            print(f"[ok] Wrote extracted list to {extracted_path}")
-        print(f"[plan] Will process {len(headwords)} headwords → {inst}")
-        # Process headwords, skipping existing files
-        for idx, hw in enumerate(headwords, 1):
-            out_path = os.path.join(inst, f"{hw}.md")
-            if os.path.exists(out_path):
-                print(f"[skip] {idx}/{len(headwords)} {hw} — already exists at {os.path.basename(out_path)}")
-                continue
-            print(f"[proc] {idx}/{len(headwords)} {hw} — start")
-            msg, err = process_headword(client, wikiclient, hw, outdir=inst, verbose=args.verbose)
-            if err:
-                print(f"[error] {hw} — {err}")
-                print("[halt] Stopping due to BLOCKED. Fix input or schema and re-run; existing files will be skipped.")
-                return 1
-            print(f"[ok] {hw} — {msg}")
-    print("[done] All instances processed.")
+    if args.verbose:
+        print(f"[done] Total items written: {total_items}")
     return 0
 
 
-def build_argparser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="Chinese flashcards generator CLI")
-    p.add_argument("--rules-only", action="store_true", help="Emit rules loaded line and exit")
-    p.add_argument("--verbose", action="store_true", help="Print progress for streaming-like feedback")
-    return p
-
-
-def main() -> int:
-    parser = build_argparser()
-    args = parser.parse_args()
-    try:
-        return interactive_loop(args)
-    except KeyboardInterrupt:
-        return 130
-
-
 if __name__ == "__main__":
-    sys.exit(main())
+    raise SystemExit(main())
 
 
