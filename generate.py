@@ -67,17 +67,19 @@ REGEX = {
     "front": re.compile(r"^##\s+[A-Za-z0-9 ,;:()'\"./-]+(\s+\(archaic\))?$"),
     "front_sub": re.compile(r"^(###\s+(subword\s+in|component\s+of)\s+\"[A-Za-z0-9 ,;:()'\"./-]+\")?$"),
     "divider": re.compile(r"^---$"),
-    "label_character": re.compile(r"^- \*\*Character:\*\* .+$"),
-    "label_pron": re.compile(r"^- \*\*Pronunciation:\*\* [a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ/ ]+$"),
+    # obsolete in new schema
     "label_def": re.compile(r"^- \*\*Definition:\*\* .+$"),
     "label_usage": re.compile(r"^- \*\*Contemporary usage:\*\*$"),
     "label_usage_item": re.compile(r"^  - .+ \([a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ' ]+\) - .+$"),
     "label_usage_none": re.compile(r"^None$"),
-    "label_etym": re.compile(r"^- \*\*Etymology(\s\([^\)]+\))?:\*\*$"),
+    "label_etym": re.compile(r"^- \*\*Etymology \([^\)]+\):\*\*$"),
     "label_etym_type": re.compile(r"^  - \*\*Type:\*\* .+$"),
     "label_etym_desc": re.compile(r"^  - \*\*Description:\*\* .+$"),
     "label_etym_interp": re.compile(r"^  - \*\*Interpretation:\*\* .+$"),
     "label_etym_ref": re.compile(r"^  - \*\*Reference:\*\* (\[[^\]]+ — Wiktionary\]\(https://en\.wiktionary\.org/wiki/[^/\s\)]+\)|https://[^\s\)]+|None)$"),
+    "label_simplified": re.compile(r"^- \*\*Simplified:\*\* (.+|None)$"),
+    "label_traditional": re.compile(r"^- \*\*Traditional:\*\* (.+|None)$"),
+    "label_simpl_rule": re.compile(r"^  - \*\*Simplification rule(?: \([^\)]+\))?:\*\* .+$"),
     "term": re.compile(r"^(%%%|---|##|###|- \*\*|  - ).*$"),
 }
 
@@ -126,7 +128,7 @@ def _collect_text_until(next_node, stop_tags: Tuple[str, ...]) -> str:
 
 def extract_chinese_sections(html: str) -> Dict[str, str]:
     soup = BeautifulSoup(html, "html.parser")
-    result = {"chinese_text": "", "etym_text": "", "pron_text": ""}
+    result = {"chinese_text": "", "etym_text": "", "glyph_text": "", "pron_text": ""}
     # Find the Chinese language section
     chinese_span = soup.find(id="Chinese")
     if chinese_span is None:
@@ -141,6 +143,7 @@ def extract_chinese_sections(html: str) -> Dict[str, str]:
     result["chinese_text"] = chinese_text
     # Inside Chinese section, find Etymology subsection
     ety_span = None
+    glyph_span = None
     pron_span = None
     for sp in h2.find_all_next("span", id=True):
         # stop when next language section reached
@@ -151,6 +154,8 @@ def extract_chinese_sections(html: str) -> Dict[str, str]:
             ety_span = sp
         if sp.get("id", "") == "Pronunciation":
             pron_span = sp
+        if sp.get("id", "") == "Glyph_origin":
+            glyph_span = sp
     if ety_span is not None:
         ety_header = ety_span.find_parent(["h3", "h4"]) or ety_span.parent
         ety_text = _collect_text_until(ety_header.next_sibling, ("h3", "h2"))
@@ -159,6 +164,10 @@ def extract_chinese_sections(html: str) -> Dict[str, str]:
         pron_header = pron_span.find_parent(["h3", "h4"]) or pron_span.parent
         pron_text = _collect_text_until(pron_header.next_sibling, ("h3", "h2"))
         result["pron_text"] = pron_text
+    if glyph_span is not None:
+        glyph_header = glyph_span.find_parent(["h3", "h4"]) or glyph_span.parent
+        glyph_text = _collect_text_until(glyph_header.next_sibling, ("h3", "h2"))
+        result["glyph_text"] = glyph_text
     return result
 
 
@@ -207,6 +216,13 @@ def normalize_text_for_cjk(text: str) -> str:
             chars.append(ch)
             prev_cjk = False
     return "".join(chars)
+def _is_missing_text(val: Optional[str]) -> bool:
+    if val is None:
+        return True
+    s = str(val).strip().lower()
+    return s in {"", "missing", "none", "n/a", "null"}
+
+
 
 
 def fallback_extract_headwords(text: str, max_items: int = 12) -> List[str]:
@@ -244,13 +260,14 @@ def prompt_openai_single_char_fields(
 ) -> Dict[str, str]:
     system = (
         "Extract strictly from Wiktionary Chinese content below.\n"
-        "Return JSON with keys: english_sense, pronunciation, definition, examples (max 2), etymology_type, etymology_description, etymology_interpretation, script_form (simplified|traditional), other_form (if mapping exists), simplification_explanation (if applicable).\n"
+        "Return JSON with keys: english_sense, definition, examples (max 2), etymology_type, etymology_description, etymology_interpretation, script_form (simplified|traditional), other_form (if mapping exists), simplification_explanation (if applicable).\n"
         "Rules:\n"
-        "- Pronunciation: Hanyu Pinyin with tone marks; multiple readings separated by ' / '. Extract only the Pinyin from the Pronunciation section; strip IPA/Bopomofo/other languages; prefer the primary reading that matches the most common modern definition.\n"
         "- Definition: pick the most common modern sense for learners (not archaic/rare). Keep it short.\n"
         "- Examples: Format each as 'ZH (pinyin) - EN'.\n"
-        "- Etymology Description: preserve the order of details as presented in Wiktionary. Be succinct (one short line).\n"
-        "- Etymology Interpretation: explain WHY the Description leads to the current meaning and reading in an intuitive, first‑principles way (e.g., why a pictogram was re‑analyzed into semantic 日 + a new phonetic, and how this shift supports meaning and sound). Err on the side of clarity over brevity. If needed, you may use general knowledge to interpret the WHY, but do not invent facts.\n"
+        "- Etymology Type: if the character changed over time, summarize stages as an arrow chain, e.g., 'pictogram → phono‑semantic'. Otherwise a single stage.\n"
+        "- Etymology Description: output ONLY as a minimal arrow chain with roles and senses, like 'pictogram of <CHAR> (pinyin, gloss) → semantic: <CHAR> (pinyin, gloss), phonetic: <CHAR> (pinyin, gloss)'. No extra words. No IPA/OC, no starred forms.\n"
+        "- Character references: whenever you mention a Chinese character anywhere in Description or Interpretation, format it as 字 (pinyin, meaning). If the page does not explicitly provide pinyin/meaning for that referenced character, you may rely on general knowledge to supply the most common pinyin and a basic learner‑friendly gloss.\n"
+        "- Etymology Interpretation: in plain language, explain WHY the formation yields the meaning: what image the pictogram evokes, how the semantic part’s sense supports the definition, and that the phonetic part supplies the sound. If scribes changed the graph, explicitly motivate WHY they did so in general terms (signal the intended meaning while preserving the sound). Include a brief historical note if relevant, but keep it simple. Focus on concrete intuition, not terminology. 1–3 short sentences, no arrows, no IPA/OC.\n"
         "- Only use facts present; if absent after full scan, set MISSING."
     )
     user = (
@@ -303,20 +320,19 @@ def render_card_front(title: str, subline: Optional[str] = None) -> List[str]:
 
 
 def render_card_body(
-    character: str,
-    pronunciation: str,
+    simplified: Optional[str],
+    traditional: Optional[str],
     definition: str,
     examples: List[str],
     etym_type: str,
     etym_desc: str,
     etym_interp: str,
     reference: str,
-    simplification_explanation: Optional[str] = None,
-    etym_label_suffix: Optional[str] = None,
+    simplification_rule: Optional[str] = None,
 ) -> List[str]:
     lines: List[str] = ["---"]
-    lines.append(f"- **Character:** {character}")
-    lines.append(f"- **Pronunciation:** {pronunciation}")
+    lines.append(f"- **Traditional:** {traditional if traditional else 'None'}")
+    lines.append(f"- **Simplified:** {simplified if simplified else 'None'}")
     lines.append(f"- **Definition:** {definition}")
     lines.append("- **Contemporary usage:**")
     if examples:
@@ -324,14 +340,16 @@ def render_card_body(
             lines.append(f"  - {e}")
     else:
         lines.append("None")
-    etymlabel = "- **Etymology:**" if not etym_label_suffix else f"- **Etymology ({etym_label_suffix}):**"
-    lines.append(etymlabel)
+    ety_suffix = traditional if traditional else "traditional form"
+    lines.append(f"- **Etymology ({ety_suffix}):**")
     lines.append(f"  - **Type:** {etym_type}")
     lines.append(f"  - **Description:** {etym_desc}")
     lines.append(f"  - **Interpretation:** {etym_interp}")
     lines.append(f"  - **Reference:** {reference}")
-    if simplification_explanation:
-        lines.append(f"  - **Simplification explanation:** {simplification_explanation}")
+    if simplified:
+        lines.append(f"  - **Simplification rule ({simplified}):** {simplification_rule if simplification_rule else 'None'}")
+    else:
+        lines.append("  - **Simplification rule:** None, no simplified form")
     lines.append("%%%")
     return lines
 
@@ -351,13 +369,13 @@ def validate_card_lines(lines: List[str]) -> Tuple[bool, str]:
         got = lines[idx] if idx < len(lines) else "<EOF>"
         return False, f"missing or invalid divider after front, got '{got}'"
     idx += 1
-    if idx >= len(lines) or not REGEX["label_character"].match(lines[idx]):
+    if idx >= len(lines) or not REGEX["label_traditional"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Character:** ...', got '{got}'"
+        return False, f"expected '- **Traditional:** ...', got '{got}'"
     idx += 1
-    if idx >= len(lines) or not REGEX["label_pron"].match(lines[idx]):
+    if idx >= len(lines) or not REGEX["label_simplified"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Pronunciation:** <pinyin>', got '{got}'"
+        return False, f"expected '- **Simplified:** ...', got '{got}'"
     idx += 1
     if idx >= len(lines) or not REGEX["label_def"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
@@ -376,7 +394,7 @@ def validate_card_lines(lines: List[str]) -> Tuple[bool, str]:
         idx += 1
     if idx >= len(lines) or not REGEX["label_etym"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
-        return False, f"expected '- **Etymology:**', got '{got}'"
+        return False, f"expected '- **Etymology (traditional form):**', got '{got}'"
     idx += 1
     if idx >= len(lines) or not REGEX["label_etym_type"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
@@ -393,6 +411,10 @@ def validate_card_lines(lines: List[str]) -> Tuple[bool, str]:
     if idx >= len(lines) or not REGEX["label_etym_ref"].match(lines[idx]):
         got = lines[idx] if idx < len(lines) else "<EOF>"
         return False, f"expected '  - **Reference:** <url>' or 'None', got '{got}'"
+    idx += 1
+    if idx >= len(lines) or not REGEX["label_simpl_rule"].match(lines[idx]):
+        got = lines[idx] if idx < len(lines) else "<EOF>"
+        return False, f"expected '  - **Simplification rule:** ...', got '{got}'"
     if lines[-1] != "%%%":
         return False, "missing terminating '%%%' line"
     return True, ""
@@ -541,7 +563,8 @@ def build_component_cards(
         return []
     sections = extract_chinese_sections(html)
     chinese_text = sections.get("chinese_text") or sections.get("full_text") or ""
-    components = prompt_openai_decompose_components(client, headword, sections.get("etym_text", ""))
+    etym_or_glyph = sections.get("etym_text") or sections.get("glyph_text") or ""
+    components = prompt_openai_decompose_components(client, headword, etym_or_glyph)
     results: List[List[str]] = []
     for comp in components:
         comp_hw = str(comp.get("component_headword", "")).strip()
@@ -561,15 +584,27 @@ def build_component_cards(
             title=english_sense,
             subline=f"### component of \"{parent_english}\"",
         )
+        script_form_comp = str(fields.get("script_form", "")).lower()
+        other_form_comp_raw = fields.get("other_form")
+        other_form_comp = None if _is_missing_text(other_form_comp_raw) else str(other_form_comp_raw).strip()
+        simplified_comp: Optional[str] = None
+        traditional_comp: Optional[str] = None
+        if script_form_comp.startswith("simplified"):
+            simplified_comp = comp_hw
+            traditional_comp = other_form_comp or None
+        elif script_form_comp.startswith("traditional"):
+            traditional_comp = comp_hw
+            simplified_comp = other_form_comp or None
         body = render_card_body(
-            character=f"{comp_hw}",
-            pronunciation=normalize_pronunciation(str(fields.get("pronunciation", ""))),
+            simplified=simplified_comp,
+            traditional=traditional_comp,
             definition=str(fields.get("definition", "")),
             examples=examples,
             etym_type=str(fields.get("etymology_type", "")),
             etym_desc=str(fields.get("etymology_description", "")),
             etym_interp=str(fields.get("etymology_interpretation", "")),
             reference=f"[{comp_hw} — Wiktionary]({wikiclient.make_url_for_headword(comp_hw)})",
+            simplification_rule=None if _is_missing_text(fields.get("simplification_explanation")) else str(fields.get("simplification_explanation")),
         )
         block = front + body
         ok, reason = validate_card_lines(block)
@@ -591,41 +626,37 @@ def process_headword(client: OpenAIClient, wikiclient: WiktionaryClient, headwor
         chinese_text = sections.get("chinese_text") or sections.get("full_text") or ""
         fields = prompt_openai_single_char_fields(client, headword, chinese_text, sections.get("pron_text", "")) or {}
         # Simplified/traditional handling for parent
-        etym_label_suffix: Optional[str] = None
-        char_label_text = headword
         script_form = str(fields.get("script_form", "")).lower()
-        other_form = str(fields.get("other_form", "")).strip()
-        if script_form.startswith("simplified") and other_form:
-            # Fetch traditional page and override critical fields from it
-            u_tr, h_tr = wikiclient.search_then_open(other_form)
-            if u_tr and h_tr:
-                sec_tr = extract_chinese_sections(h_tr)
-                tr_text = sec_tr.get("chinese_text") or sec_tr.get("full_text") or ""
-                fields_tr = prompt_openai_single_char_fields(client, other_form, tr_text, sec_tr.get("pron_text", "")) or {}
-                if fields_tr:
-                    for k in ("pronunciation","definition","etymology_type","etymology_description","etymology_interpretation"):
-                        if fields_tr.get(k):
-                            fields[k] = fields_tr.get(k)
-                    # Prefer traditional reference URL for single-character context
+        other_form_raw = fields.get("other_form")
+        other_form = None if _is_missing_text(other_form_raw) else str(other_form_raw).strip()
+        simplified_hw: Optional[str] = None
+        traditional_hw: Optional[str] = None
+        if script_form.startswith("simplified"):
+            simplified_hw = headword
+            traditional_hw = other_form or headword
+            if other_form:
+                # Prefer traditional reference URL for single-character context
+                u_tr, h_tr = wikiclient.search_then_open(other_form)
+                if u_tr and h_tr:
                     url = u_tr
-            etym_label_suffix = other_form
-            # Avoid redundant parenthetical (X (X))
-            char_label_text = f"{headword} ({other_form})" if other_form != headword else headword
+        elif script_form.startswith("traditional"):
+            traditional_hw = headword
+            simplified_hw = other_form or headword
         examples = normalize_examples(fields.get("examples", []))[:2]
         parent_english = (str(fields.get("english_sense", "")) or
                           prompt_openai_pick_english_sense(client, str(fields.get("definition", ""))) or
                           headword)
         front = render_card_front(title=parent_english)
         body = render_card_body(
-            character=char_label_text,
-            pronunciation=normalize_pronunciation(str(fields.get("pronunciation", ""))),
-            definition=str(fields.get("definition", "")),
+            simplified=simplified_hw,
+            traditional=traditional_hw,
+            definition=str(fields.get("definition", "unspecified")),
             examples=examples,
             etym_type=str(fields.get("etymology_type", "unspecified")),
             etym_desc=str(fields.get("etymology_description", "unspecified")),
             etym_interp=str(fields.get("etymology_interpretation", "unspecified")),
             reference=f"[{headword} — Wiktionary]({url})",
-            etym_label_suffix=etym_label_suffix,
+            simplification_rule=None if _is_missing_text(fields.get("simplification_explanation")) else str(fields.get("simplification_explanation")),
         )
         block = front + body
         ok, reason = validate_card_lines(block)
@@ -639,14 +670,15 @@ def process_headword(client: OpenAIClient, wikiclient: WiktionaryClient, headwor
             parent_english = str(multi.get("english", "")).strip() or str(multi.get("definition", "")).strip() or headword
             front = render_card_front(title=parent_english)
             body = render_card_body(
-                character=headword,
-                pronunciation=normalize_pronunciation(str(multi.get("pronunciation", ""))),
+                simplified=None,
+                traditional=None,
                 definition=str(multi.get("definition", "")),
                 examples=examples,
                 etym_type=str(multi.get("etymology_type", "unspecified")),
                 etym_desc=str(multi.get("etymology_description", "unspecified")),
                 etym_interp=str(multi.get("etymology_interpretation", "unspecified")),
                 reference=str(multi.get("reference_url") or "None"),
+                simplification_rule=None,
             )
             block = front + body
             ok, reason = validate_card_lines(block)
@@ -667,38 +699,35 @@ def process_headword(client: OpenAIClient, wikiclient: WiktionaryClient, headwor
             examples_ch = normalize_examples(f_ch.get("examples", []))[:2]
             english_ch = str(f_ch.get("english_sense", "")).strip() or prompt_openai_pick_english_sense(client, str(f_ch.get("definition", "")))
             # Simplified/traditional handling for subword character
-            etym_suffix_ch: Optional[str] = None
-            char_label_ch = ch
             script_ch = str(f_ch.get("script_form", "")).lower()
-            other_ch = str(f_ch.get("other_form", "")).strip()
-            if script_ch.startswith("simplified") and other_ch:
-                u_ct, h_ct = wikiclient.search_then_open(other_ch)
-                if u_ct and h_ct:
-                    sec_ct = extract_chinese_sections(h_ct)
-                    text_ct = sec_ct.get("chinese_text") or sec_ct.get("full_text") or ""
-                    f_ct = prompt_openai_single_char_fields(client, other_ch, text_ct, sec_ct.get("pron_text", "")) or {}
-                    if f_ct:
-                        for k in ("pronunciation","definition","etymology_type","etymology_description","etymology_interpretation"):
-                            if f_ct.get(k):
-                                f_ch[k] = f_ct.get(k)
+            other_ch_raw = f_ch.get("other_form")
+            other_ch = None if _is_missing_text(other_ch_raw) else str(other_ch_raw).strip()
+            simplified_ch: Optional[str] = None
+            traditional_ch: Optional[str] = None
+            if script_ch.startswith("simplified"):
+                simplified_ch = ch
+                traditional_ch = other_ch or ch
+                if other_ch:
+                    u_ct, h_ct = wikiclient.search_then_open(other_ch)
+                    if u_ct and h_ct:
                         u_ch = u_ct
-                etym_suffix_ch = other_ch
-                # Avoid redundant parenthetical (X (X))
-                char_label_ch = f"{ch} ({other_ch})" if other_ch != ch else ch
+            elif script_ch.startswith("traditional"):
+                traditional_ch = ch
+                simplified_ch = other_ch or ch
             front_ch = render_card_front(
                 title=english_ch,
                 subline=f"### subword in \"{parent_english}\"",
             )
             body_ch = render_card_body(
-                character=char_label_ch,
-                pronunciation=normalize_pronunciation(str(f_ch.get("pronunciation", ""))),
+                simplified=simplified_ch,
+                traditional=traditional_ch,
                 definition=str(f_ch.get("definition", "")),
                 examples=examples_ch,
                 etym_type=str(f_ch.get("etymology_type", "")),
                 etym_desc=str(f_ch.get("etymology_description", "")),
                 etym_interp=str(f_ch.get("etymology_interpretation", "")),
                 reference=f"[{ch} — Wiktionary]({u_ch})",
-                etym_label_suffix=etym_suffix_ch,
+                simplification_rule=str(f_ch.get("simplification_explanation") or "") or None,
             )
             block_ch = front_ch + body_ch
             ok, reason = validate_card_lines(block_ch)
