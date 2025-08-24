@@ -149,6 +149,22 @@ def _parse_component_english_map(description: str) -> Dict[str, str]:
     return mapping
 
 
+# Map common radical variants to their primary standalone characters
+RADICAL_VARIANT_TO_PRIMARY: Dict[str, str] = {
+    "钅": "金",
+    "氵": "水",
+    "忄": "心",
+    "扌": "手",
+    "纟": "糸",
+    "艹": "艸",
+    "饣": "食",
+    "讠": "言",
+    "阝": "阜",
+}
+
+def _map_radical_variant_to_primary(ch: str) -> str:
+    return RADICAL_VARIANT_TO_PRIMARY.get(ch, ch)
+
 def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
     comps: List[str] = []
     if not isinstance(back_fields, dict):
@@ -156,17 +172,24 @@ def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
     et = back_fields.get("etymology")
     if isinstance(et, dict):
         # Prefer explicit components list if present (schema key normalized)
-        raw = et.get("components_characters")
+        raw = et.get("component_characters")
         if isinstance(raw, list):
             for item in raw:
-                if isinstance(item, str) and len(item) == 1 and is_cjk_char(item) and item not in comps:
-                    comps.append(item)
+                if isinstance(item, str):
+                    # Allow values like "金 (钅)"; take the first CJK character
+                    first_cjk = next((c for c in item if is_cjk_char(c)), "")
+                    if first_cjk:
+                        mapped = _map_radical_variant_to_primary(first_cjk)
+                        if mapped not in comps:
+                            comps.append(mapped)
         if not comps:
             desc = et.get("description") if isinstance(et.get("description"), str) else ""
             english_map = _parse_component_english_map(str(desc))
             for ch in english_map.keys():
-                if len(ch) == 1 and is_cjk_char(ch) and ch not in comps:
-                    comps.append(ch)
+                if len(ch) == 1 and is_cjk_char(ch):
+                    mapped = _map_radical_variant_to_primary(ch)
+                    if mapped not in comps:
+                        comps.append(mapped)
     return comps
 
 
@@ -187,11 +210,12 @@ def _generate_component_subtree(
 ) -> None:
     if depth > max_depth:
         return
-    if ch in visited:
+    target_ch = _map_radical_variant_to_primary(ch)
+    if target_ch in visited:
         return
-    visited.add(ch)
+    visited.add(target_ch)
 
-    word_id = f"{prefix}.{ch}"
+    word_id = f"{prefix}.{target_ch}"
     md_path = out_dir / f"{word_id}.md"
     if md_path.exists():
         if verbose:
@@ -206,7 +230,7 @@ def _generate_component_subtree(
     else:
         combined_sections: List[str] = []
         fetched_set: Dict[str, bool] = {}
-        for form in [ch]:
+        for form in [target_ch]:
             form = (form or "").strip()
             if not form or form in fetched_set:
                 continue
@@ -227,15 +251,15 @@ def _generate_component_subtree(
 
     # Generate back fields for this component (with cache)
     back: Dict[str, object] | object
-    if comp_cache is not None and ch in comp_cache:
-        log_debug(debug, f"cache hit for component '{ch}'")
-        back = comp_cache[ch]
+    if comp_cache is not None and target_ch in comp_cache:
+        log_debug(debug, f"cache hit for component '{target_ch}'")
+        back = comp_cache[target_ch]
     else:
         if verbose:
             print(f"[info] OpenAI back-fields for {word_id} (model={model or 'default'})")
         back = extract_back_fields_from_html(
-            simplified=ch,
-            traditional=ch,
+            simplified=target_ch,
+            traditional=target_ch,
             english=component_english,
             html=combined_html,
             model=model,
@@ -243,7 +267,7 @@ def _generate_component_subtree(
             parent_word=parent_english,
         )
         if comp_cache is not None and isinstance(back, dict):
-            comp_cache[ch] = back
+            comp_cache[target_ch] = back
     # Try to get pinyin from back fields (may be empty); AI fills when not in CSV
     pin = ""
     if isinstance(back, dict):
@@ -256,8 +280,8 @@ def _generate_component_subtree(
         out_dir,
         word_id,
         component_english,
-        ch,
-        ch,
+        target_ch,
+        target_ch,
         pin,
         f'sub-component of "{parent_english}"',
         back_fields=back,
@@ -276,11 +300,12 @@ def _generate_component_subtree(
     )
     english_map = _parse_component_english_map(str(desc))
     for sub_ch in comps:
-        sub_eng = english_map.get(sub_ch, "")
+        mapped_sub = _map_radical_variant_to_primary(sub_ch)
+        sub_eng = english_map.get(mapped_sub, "")
         _generate_component_subtree(
             out_dir,
             prefix=word_id,
-            ch=sub_ch,
+            ch=mapped_sub,
             component_english=sub_eng,
             parent_english=component_english,
             model=model,
@@ -491,7 +516,14 @@ def extract_back_fields_from_html(
                             if ck in src:
                                 val = src.get(ck)
                                 if ch.field_type == "sublist" and isinstance(val, list):
-                                    dst[ck] = [str(_clean_value(str(it))).strip() for it in val if str(it).strip()]
+                                    cleaned_items: List[str] = []
+                                    for it in val:
+                                        s = str(_clean_value(str(it))).strip()
+                                        if s.startswith("- "):
+                                            s = s[2:].strip()
+                                        if s:
+                                            cleaned_items.append(s)
+                                    dst[ck] = cleaned_items
                                 elif isinstance(val, str):
                                     dst[ck] = _clean_value(val.strip())
             else:
@@ -499,7 +531,14 @@ def extract_back_fields_from_html(
                 if f.ai_prompt is not None and k in data:
                     val = data.get(k)
                     if f.field_type == "sublist" and isinstance(val, list):
-                        result[k] = [str(_clean_value(str(it))).strip() for it in val if str(it).strip()]
+                        cleaned_items: List[str] = []
+                        for it in val:
+                            s = str(_clean_value(str(it))).strip()
+                            if s.startswith("- "):
+                                s = s[2:].strip()
+                            if s:
+                                cleaned_items.append(s)
+                        result[k] = cleaned_items
                     elif isinstance(val, str):
                         result[k] = _clean_value(val.strip())
     if verbose:
@@ -596,14 +635,14 @@ def write_simple_card_md(
                     max_items = None
                 if isinstance(max_items, int) and max_items > 0:
                     items = items[:max_items]
+                # Always print the header line for sublists
+                parts.append(f"{pad}- **{label}:**")
                 if items:
-                    parts.append(f"{pad}- **{label}:**")
                     for item in items:
                         parts.append(f"{pad}  - {str(item)}")
                 else:
                     fallback = getattr(field, "empty_fallback", None) or ""
                     if fallback:
-                        parts.append(f"{pad}- **{label}:**")
                         parts.append(f"{pad}  - {fallback}")
                 return
             # line
@@ -756,6 +795,24 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
                 print(f"[error] {word}: {e}")
         if delay_s > 0:
             time.sleep(delay_s)
+    # After processing the folder, concatenate all .md files into -output.md
+    try:
+        output_md = out_dir / "-output.md"
+        md_files = [p for p in sorted(out_dir.glob("*.md")) if p.name != "-output.md"]
+        parts: List[str] = []
+        for p in md_files:
+            try:
+                parts.append(p.read_text(encoding="utf-8", errors="ignore"))
+            except Exception:
+                if verbose:
+                    print(f"[warn] failed reading {p.name} for -output.md")
+        content = "\n\n".join(parts) + ("\n" if parts else "")
+        output_md.write_text(content, encoding="utf-8")
+        if verbose:
+            print(f"[ok] Wrote {output_md.name} ({len(content)} bytes) with {len(md_files)} files")
+    except Exception as e:
+        if verbose:
+            print(f"[warn] failed to write -output.md: {e}")
     return len(rows), successes
 
 

@@ -98,20 +98,24 @@ BACK_SCHEMA = CardSchema(
             name="contemporary usage",
             required=True,
             description=(
-                "Short sublist of example phrases for the relevant (modern) sense (from input HTML only), formatted strictly as: "
-                "<chinese character> (<pinyin>, \"<english>\"). Pinyin MUST use diacritical tone marks (no tone numbers). "
-                "If none present, return exactly: None, not in contemporary use."
+                "Short sublist of example phrases/compounds for the relevant modern sense (from input HTML primarily). "
+                "Items MUST be multi-character (no single-character items)."
             ),
             ai_prompt=(
-                "From the provided Wiktionary HTML only, output a short sublist of example PHRASES for the relevant sense.\n"
+                "From the provided Wiktionary HTML only, output a short sublist of example PHRASES or COMPOUND VOCAB WORDS for the relevant modern sense.\n"
                 "STRICT FORMAT RULES:\n"
                 "- Each line MUST start with '- ' (dash and space).\n"
-                "- Each line MUST be: <chinese character> (<pinyin>, \"<english>\").\n"
+                "- Each line MUST be: <CJK phrase> (<pinyin>, \"<english>\").\n"
+                "- The CJK phrase MUST be at least TWO characters long (no single-character items).\n"
                 "- pinyin MUST use diacritical tone marks (e.g., hǎo), do NOT use tone numbers.\n"
                 "- CHINESE: only CJK characters (no Latin).\n"
                 "- English: concise phrase (2–8 words) in double quotes, no trailing period.\n"
                 "- No extra text, labels, or headers.\n"
                 "- Output EXACTLY 3 items.\n"
+                "HEADWORD MATCHING (H):\n"
+                "- Let H be the exact headword string.\n"
+                "- If len(H) == 1 (single character): each CJK phrase MUST be a common modern compound or phrase CONTAINING H (preferably starting with H), and MUST be length >= 2. Do NOT output H alone.\n"
+                "- If len(H) > 1 (multi-character): each CJK phrase MUST begin with H and represent common modern compounds/phrases formed from H; ensure length >= len(H) + 1.\n"
                 "SOURCES WITHIN HTML (in priority order):\n"
                 "1) Usage examples (including glossed examples) under the target sense.\n"
                 "2) Compounds/Derived terms that are in common/modern use.\n"
@@ -162,7 +166,7 @@ BACK_SCHEMA = CardSchema(
                         "STRICT FORMAT RULES:\n"
                         "- Use terse tokens like: pictogram of <chinese character> (<pinyin>, \"<english>\"), semantic: <chinese character> (<pinyin>, \"<english>\"), phonetic: <chinese character> (<pinyin>, \"<english>\"), ideogrammic: <chinese character> (<pinyin>, \"<english>\") + <chinese character> (<pinyin>, \"<english>\").\n"
                         "- EVERY Chinese element MUST be rendered exactly as: <chinese character> (<pinyin>, \"<english>\").\n"
-                        "- Keep it minimal, no extra sentences, no trailing period.\n"
+                        "- END THE LINE WITH A PERIOD.\n"
                         "Use general reasoning only if the HTML is insufficient."
                     ),
                     field_type="line",
@@ -175,26 +179,27 @@ BACK_SCHEMA = CardSchema(
                     ),
                     ai_prompt=(
                         "Rely primarily on the provided Wiktionary HTML. In 1–2 short sentences, explain in plain, intuitive terms how A → B → C flows, why changes happened, and what it meant—no scholarly tone.\n"
-                        "If you reference specific components, render Chinese as <chinese character> (<pinyin>, \"<english>\"). Be brief and accessible. Use general reasoning only as a last resort."
+                        "If you reference specific components, render Chinese as <chinese character> (<pinyin>, \"<english>\"). Be brief and accessible. END WITH A PERIOD. Use general reasoning only as a last resort."
                     ),
                     field_type="line",
                 ),
                 CardField(
-                    name="components (characters)",
+                    name="component characters",
                     required=False,
                     description=(
-                        "Distinct single-character components explicitly mentioned in the etymology description."
+                        "List ALL UNIQUE single Chinese characters that appear in the etymology description field; deduplicate and preserve description order."
                     ),
                     ai_prompt=(
-                        "From your own etymology description, extract the DISTINCT Chinese CHARACTER components that are explicitly mentioned.\n"
+                        "From the etymology.description STRING YOU OUTPUT, list every UNIQUE SINGLE Chinese CHARACTER that appears anywhere in that description, in order of FIRST appearance.\n"
                         "STRICT FORMAT RULES:\n"
                         "- Output a short list, one item per line, each item starting with '- '.\n"
-                        "- Each item MUST be a SINGLE CJK character ONLY (no pinyin, no quotes, no parentheses).\n"
-                        "- No duplicates. Preserve order of first appearance.\n"
-                        "- Do NOT include Latin letters, punctuation, radicals without their standalone character, or multi-character strings."
+                        "- Each item MUST be exactly ONE CJK character (no pinyin, no quotes, no parentheses, no Latin).\n"
+                        "- Deduplicate; preserve the order they first appear in the DESCRIPTION string.\n"
+                        "- Do not infer or add characters not present in the description."
                     ),
                     field_type="sublist",
                     max_items=12,
+                    empty_fallback="None, character is in atomic form",
                 ),
                 CardField(
                     name="reference",
@@ -211,7 +216,7 @@ BACK_SCHEMA = CardSchema(
                     ),
                     ai_prompt=(
                         "Using only the provided HTML and general knowledge of Chinese simplification, explain briefly why "
-                        "this simplified form was adopted (e.g., component replacement, stroke reduction, graphic regularization)."
+                        "this simplified form was adopted (e.g., component replacement, stroke reduction, graphic regularization). END WITH A PERIOD."
                     ),
                     field_type="line",
                     skip_if=lambda ctx: (ctx.get("traditional") or "") == (ctx.get("simplified") or ""),

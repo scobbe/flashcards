@@ -110,6 +110,7 @@ def heuristic_extract_headwords(text: str) -> List[str]:
 def format_with_subwords_csv(
     triples: Sequence[Tuple[str, str, str, str]],
     sub_map: Dict[str, Tuple[str, str, str, str]],
+    parent_multi: Dict[str, List[str]],
 ) -> str:
     # CSV columns: simplified, traditional, pinyin, english, relation
     # relation for subwords: sub-word of "<parent english>"; empty for main rows
@@ -119,12 +120,18 @@ def format_with_subwords_csv(
         writer.writerow([simp, trad, pinyin, english, ""])
         word = simp or trad
         if len(word) > 1:
-            seen_chars: Set[str] = set()
+            seen_tokens: Set[str] = set()
             for ch in word:
-                if not is_cjk_char(ch) or ch in seen_chars:
+                if not is_cjk_char(ch) or ch in seen_tokens:
                     continue
-                seen_chars.add(ch)
+                seen_tokens.add(ch)
                 s_simp, s_trad, s_pin, s_eng = sub_map.get(ch, (ch, ch, "", ""))
+                writer.writerow([s_simp, s_trad, s_pin, s_eng, f'sub-word of "{english}"'])
+            for sub in parent_multi.get(word, []):
+                if not sub or sub in seen_tokens:
+                    continue
+                seen_tokens.add(sub)
+                s_simp, s_trad, s_pin, s_eng = sub_map.get(sub, (sub, sub, "", ""))
                 writer.writerow([s_simp, s_trad, s_pin, s_eng, f'sub-word of "{english}"'])
     return buf.getvalue()
 
@@ -186,6 +193,84 @@ def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List
     return triples
 
 
+def call_openai_subwords_for_words(
+    parents: Sequence[str], model: str | None
+) -> Dict[str, List[Tuple[str, str, str, str]]]:
+    """
+    Ask OpenAI to propose meaningful SUBWORDS for each multi-character parent word.
+
+    Returns a mapping: parent -> list of (simplified, traditional, pinyin, english).
+
+    Guidance to the model (enforced in the prompt):
+    - Only include subwords that are meaningful lexical items.
+    - Prefer contiguous substrings within the parent of length >= 2 (e.g., 人民 in 人民币).
+    - You may also include distinct single-character components if they are meaningful on their own.
+    - Do not include the parent itself as a subword.
+    - Pinyin must use tone marks. Forms must be Chinese characters only.
+    - Keep 0–4 subwords per parent; deduplicate and preserve order of first occurrence.
+    """
+    client = OpenAIClient(model=model)
+    # Filter to only multi-character parents to conserve tokens
+    parents = [p for p in parents if isinstance(p, str) and keep_only_cjk(p) and len(p) > 1]
+    if not parents:
+        return {}
+
+    system = (
+        "You decompose each multi-character Chinese headword into a SHORT list of meaningful subwords. "
+        "Follow these STRICT rules and return ONLY JSON.\n"
+        "Rules:\n"
+        "- Consider only the provided parents.\n"
+        "- Prefer contiguous substrings of length >= 2 that are common words (e.g., 人民 in 人民币).\n"
+        "- You may also include single characters from the parent that are meaningful standalone words.\n"
+        "- Do NOT include the parent itself; do NOT include duplicates.\n"
+        "- Limit to the most salient 0–4 items per parent.\n"
+        "- Use only Chinese characters for forms. Pinyin MUST use diacritical tone marks.\n"
+        "Output shape: {\"items\":[{\"parent\": P, \"subwords\":[{\"simplified\": S, \"traditional\": T, \"pinyin\": Py, \"english\": En}, ...]}]}"
+    )
+    user = "Parents (comma-separated, in order):\n" + ", ".join(parents)
+
+    data = client.complete_json(system=system, user=user)
+    result: Dict[str, List[Tuple[str, str, str, str]]] = {}
+    items = data.get("items") if isinstance(data, dict) else None
+    if isinstance(items, list):
+        for it in items:
+            if not isinstance(it, dict):
+                continue
+            parent = keep_only_cjk(str(it.get("parent", "")))
+            if not parent:
+                continue
+            subs_raw = it.get("subwords")
+            sub_list: List[Tuple[str, str, str, str]] = []
+            if isinstance(subs_raw, list):
+                for sub in subs_raw:
+                    if not isinstance(sub, dict):
+                        continue
+                    s = keep_only_cjk(str(sub.get("simplified", "")).strip())
+                    t = keep_only_cjk(str(sub.get("traditional", "")).strip())
+                    # Normalize missing forms
+                    if not s and t:
+                        s = t
+                    if not t and s:
+                        t = s
+                    if not (s or t):
+                        continue
+                    if s == parent or t == parent:
+                        continue
+                    pinyin = str(sub.get("pinyin", "")).strip()
+                    english = str(sub.get("english", "")).strip()
+                    sub_list.append((s or t, t or s, pinyin, english))
+            # Deduplicate while preserving order
+            seen_keys: Set[str] = set()
+            cleaned: List[Tuple[str, str, str, str]] = []
+            for s, t, p, e in sub_list:
+                key = s or t
+                if key and key not in seen_keys:
+                    seen_keys.add(key)
+                    cleaned.append((s, t, p, e))
+            if cleaned:
+                result[parent] = cleaned
+    return result
+
 def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[Tuple[str, str, str, str]]]:
     triples: List[Tuple[str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
@@ -208,7 +293,7 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
     except Exception:
         triples = [(w, w, "", "") for w in vocab]
 
-    # Build subword set to ensure we have english for sub-characters
+    # Build subword set to ensure we have english/pinyin for sub-characters
     main_char_map: Dict[str, Tuple[str, str, str, str]] = {}
     for s, t, p, e in triples:
         if len(s or t) == 1:
@@ -224,6 +309,24 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
                 seen_sub.add(ch)
                 subchars.append(ch)
     sub_map: Dict[str, Tuple[str, str, str, str]] = dict(main_char_map)
+    # Discover multi-character sub-words via OpenAI
+    parent_multi: Dict[str, List[str]] = {}
+    multi_inputs = [s or t for s, t, _, _ in triples if len((s or t)) > 1]
+    if multi_inputs:
+        try:
+            subwords_info = call_openai_subwords_for_words(multi_inputs, model=model)
+        except Exception:
+            subwords_info = {}
+        for parent, subs in subwords_info.items():
+            token_list: List[str] = []
+            for ss, tt, pp, ee in subs:
+                key = ss or tt
+                if key and key not in sub_map:
+                    sub_map[key] = (ss, tt, pp, ee)
+                if key:
+                    token_list.append(key)
+            if token_list:
+                parent_multi[parent] = token_list
     if subchars:
         try:
             sub_triples = call_openai_forms_for_words(subchars, model=model)
@@ -240,7 +343,7 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
         if verbose:
             print(f"[skip] Already exists: {out_path}")
         return out_path, triples
-    out_path.write_text(format_with_subwords_csv(triples, sub_map), encoding="utf-8")
+    out_path.write_text(format_with_subwords_csv(triples, sub_map, parent_multi), encoding="utf-8")
     if verbose:
         print(f"[ok] Wrote {out_path} ({len(triples)} items + subwords)")
     return out_path, triples
