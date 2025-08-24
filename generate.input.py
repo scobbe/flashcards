@@ -108,15 +108,15 @@ def heuristic_extract_headwords(text: str) -> List[str]:
 
 
 def format_with_subwords_csv(
-    triples: Sequence[Tuple[str, str, str]],
-    sub_map: Dict[str, Tuple[str, str, str]],
+    triples: Sequence[Tuple[str, str, str, str]],
+    sub_map: Dict[str, Tuple[str, str, str, str]],
 ) -> str:
-    # CSV columns: simplified, traditional, english, relation
-    # relation for subwords: subword of "<parent english>"; empty for main rows
+    # CSV columns: simplified, traditional, pinyin, english, relation
+    # relation for subwords: sub-word of "<parent english>"; empty for main rows
     buf = io.StringIO()
     writer = csv.writer(buf)
-    for simp, trad, english in triples:
-        writer.writerow([simp, trad, english, ""])
+    for simp, trad, pinyin, english in triples:
+        writer.writerow([simp, trad, pinyin, english, ""])
         word = simp or trad
         if len(word) > 1:
             seen_chars: Set[str] = set()
@@ -124,8 +124,8 @@ def format_with_subwords_csv(
                 if not is_cjk_char(ch) or ch in seen_chars:
                     continue
                 seen_chars.add(ch)
-                s_simp, s_trad, s_eng = sub_map.get(ch, (ch, ch, ""))
-                writer.writerow([s_simp, s_trad, s_eng, f'subword of "{english}"'])
+                s_simp, s_trad, s_pin, s_eng = sub_map.get(ch, (ch, ch, "", ""))
+                writer.writerow([s_simp, s_trad, s_pin, s_eng, f'sub-word of "{english}"'])
     return buf.getvalue()
 
 
@@ -136,27 +136,42 @@ def find_raw_input_files(root: Path) -> List[Path]:
     ]
 
 
-def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List[Tuple[str, str, str]]:
+def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List[Tuple[str, str, str, str]]:
     # Ask OpenAI to map each word to simplified/traditional plus a short English definition.
     client = OpenAIClient(model=model)
     system = (
-        "You convert Chinese vocabulary to their Simplified and Traditional forms and provide a short English gloss. "
-        "Return JSON {\"items\": [{\"simplified\": S, \"traditional\": T, \"english\": E}, ...]} in the same length and order as input. "
-        "Use only Chinese characters for forms. English must be a short phrase (2–8 words), not a single word, "
-        "and not a full sentence; avoid trailing punctuation. If a form is identical, repeat it."
+        "You convert Chinese vocabulary to their Simplified and Traditional forms and provide up to TWO short English senses with aligned Pinyin. "
+        "Return JSON {\"items\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P|[P1,P2], \"english\": E|[E1,E2]}, ...]} in the same length and order as input. "
+        "Use only Chinese characters for forms. For English, include at most TWO senses (2–8 words each), ordered by commonness; if only one sense is clear, return one. "
+        "IMPORTANT: Within a single sense, separate near-synonyms with ' or ' (spaces around 'or'). Separate DIFFERENT senses with '; ' (semicolon+space). Return at most two senses. "
+        "If two distinct pronunciations map to the two senses, return pinyin as a two-element array aligned by sense; otherwise return a single pinyin string. "
+        "Pinyin MUST use tone marks (no numbers). If a form is identical, repeat it."
     )
     user = (
         "Words (comma-separated) in order:\n" + ", ".join(words)
     )
     data: Dict[str, object] = client.complete_json(system=system, user=user)
-    triples: List[Tuple[str, str, str]] = []
+    triples: List[Tuple[str, str, str, str]] = []
     items = data.get("items") if isinstance(data, dict) else None
     if isinstance(items, list):
         for it in items:
             if isinstance(it, dict):
                 s = str(it.get("simplified", "")).strip()
                 t = str(it.get("traditional", "")).strip()
-                e = str(it.get("english", "")).strip()
+                # pinyin may be string or array of up to two
+                raw_p = it.get("pinyin", "")
+                if isinstance(raw_p, list):
+                    p_list = [str(x).strip() for x in raw_p if isinstance(x, str) and str(x).strip()]
+                    p = "; ".join(p_list[:2])
+                else:
+                    p = str(raw_p).strip()
+                # english may be string or array of up to two
+                raw_e = it.get("english", "")
+                if isinstance(raw_e, list):
+                    e_list = [str(x).strip() for x in raw_e if isinstance(x, str) and str(x).strip()]
+                    e = "; ".join(e_list[:2])
+                else:
+                    e = str(raw_e).strip()
                 s = "".join(ch for ch in s if is_cjk_char(ch))
                 t = "".join(ch for ch in t if is_cjk_char(ch))
                 if s or t:
@@ -164,15 +179,15 @@ def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List
                         s = t
                     if not t and s:
                         t = s
-                    triples.append((s, t, e))
+                    triples.append((s, t, p, e))
     # Fallback if sizes mismatch
     if len(triples) != len(words):
-        triples = [(w, w, "") for w in words]
+        triples = [(w, w, "", "") for w in words]
     return triples
 
 
-def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[Tuple[str, str, str]]]:
-    triples: List[Tuple[str, str, str]] = []
+def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[Tuple[str, str, str, str]]]:
+    triples: List[Tuple[str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
     if verbose:
         print(f"[info] Extracting vocab via OpenAI: {raw_path}")
@@ -191,16 +206,16 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
     try:
         triples = call_openai_forms_for_words(vocab, model=model)
     except Exception:
-        triples = [(w, w, "") for w in vocab]
+        triples = [(w, w, "", "") for w in vocab]
 
     # Build subword set to ensure we have english for sub-characters
-    main_char_map: Dict[str, Tuple[str, str, str]] = {}
-    for s, t, e in triples:
+    main_char_map: Dict[str, Tuple[str, str, str, str]] = {}
+    for s, t, p, e in triples:
         if len(s or t) == 1:
-            main_char_map[s or t] = (s, t, e)
+            main_char_map[s or t] = (s, t, p, e)
     subchars: List[str] = []
     seen_sub: Set[str] = set()
-    for s, t, e in triples:
+    for s, t, p, e in triples:
         word = s or t
         if len(word) > 1:
             for ch in word:
@@ -208,16 +223,16 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
                     continue
                 seen_sub.add(ch)
                 subchars.append(ch)
-    sub_map: Dict[str, Tuple[str, str, str]] = dict(main_char_map)
+    sub_map: Dict[str, Tuple[str, str, str, str]] = dict(main_char_map)
     if subchars:
         try:
             sub_triples = call_openai_forms_for_words(subchars, model=model)
         except Exception:
-            sub_triples = [(ch, ch, "") for ch in subchars]
-        for s, t, e in sub_triples:
+            sub_triples = [(ch, ch, "", "") for ch in subchars]
+        for s, t, p, e in sub_triples:
             key = s or t
             if key and key not in sub_map:
-                sub_map[key] = (s, t, e)
+                sub_map[key] = (s, t, p, e)
 
     out_path = raw_path.with_name("-input.parsed.csv")
     # If parsed already exists, skip writing to preserve idempotency

@@ -1,8 +1,10 @@
-.PHONY: setup generate clean-venv
+.PHONY: setup generate generate-debug clean-venv
 
 SHELL := /bin/zsh
 VENV := .venv
 PY := $(VENV)/bin/python
+
+
 
 setup:
 	python3 -m venv $(VENV)
@@ -13,6 +15,10 @@ setup:
 generate:
 	$(PY) generate.input.py --verbose $(ARGS)
 	$(PY) generate.output.py --verbose $(ARGS)
+
+generate-debug:
+	$(PY) generate.input.py --verbose
+	$(PY) generate.output.py --verbose --debug
 
 clean-venv:
 	rm -rf $(VENV)
