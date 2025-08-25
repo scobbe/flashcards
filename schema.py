@@ -48,7 +48,7 @@ FRONT_SCHEMA = CardSchema(
             required=False,
             description=(
                 "Optional additional header on the front. Render as a third-level header (### ...). "
-                "For decomposed cards, subword lines use the pattern: '### <subword> of \"<english>\"'."
+                "For decomposed cards, subword lines use the pattern: '### SUBWORD of \"english\"' (no angle brackets)."
             ),
         ),
     ],
@@ -105,10 +105,12 @@ BACK_SCHEMA = CardSchema(
                 "From the provided Wiktionary HTML only, output a short sublist of example PHRASES or COMPOUND VOCAB WORDS for the relevant modern sense.\n"
                 "STRICT FORMAT RULES:\n"
                 "- Each line MUST start with '- ' (dash and space).\n"
-                "- Each line MUST be: <CJK phrase> (<pinyin>, \"<english>\").\n"
+                "- Each line MUST be: CJK phrase (pinyin, \"english\").\n"
+                "- Do NOT use angle brackets around Chinese, pinyin, or English.\n"
                 "- The CJK phrase MUST be at least TWO characters long (no single-character items).\n"
                 "- pinyin MUST use diacritical tone marks (e.g., hǎo), do NOT use tone numbers.\n"
-                "- CHINESE: only CJK characters (no Latin).\n"
+                "- CHINESE phrase: write in SIMPLIFIED characters; ASCII parentheses are allowed for annotations. No Latin letters.\n"
+                "- HARD RULE: For EVERY Simplified character in the phrase that has a DISTINCT Traditional form, INSERT its Traditional character in ASCII parentheses IMMEDIATELY after that character (no spaces). Example: 宝贝 → 宝(寶)贝(貝). Do NOT annotate characters where Simplified == Traditional.\n"
                 "- English: concise phrase (2–8 words) in double quotes, no trailing period.\n"
                 "- No extra text, labels, or headers.\n"
                 "- Output EXACTLY 3 items.\n"
@@ -159,13 +161,14 @@ BACK_SCHEMA = CardSchema(
                     name="description",
                     required=True,
                     description=(
-                        "VERY concise arrow sequence A → B → C that shows the formation flow. Each Chinese element MUST be rendered exactly as <chinese character> (<pinyin>, \"<english>\")."
+                        "VERY concise arrow sequence A → B → C that shows the formation flow. HARD RULE: EVERY Chinese element MUST be rendered as Simplified(Traditional) (pinyin, \"english\"); omit (Traditional) if identical. Do NOT use angle brackets."
                     ),
                     ai_prompt=(
                         "Rely primarily on the provided Wiktionary HTML. Output a SINGLE LINE arrow sequence (A → B → C…) that shows the formation flow.\n"
                         "STRICT FORMAT RULES:\n"
-                        "- Use terse tokens like: pictogram of <chinese character> (<pinyin>, \"<english>\"), semantic: <chinese character> (<pinyin>, \"<english>\"), phonetic: <chinese character> (<pinyin>, \"<english>\"), ideogrammic: <chinese character> (<pinyin>, \"<english>\") + <chinese character> (<pinyin>, \"<english>\").\n"
-                        "- EVERY Chinese element MUST be rendered exactly as: <chinese character> (<pinyin>, \"<english>\").\n"
+                        "- Use terse tokens like: pictogram of Simplified(Traditional) (pinyin, \"english\"), semantic: Simplified(Traditional) (pinyin, \"english\"), phonetic: Simplified(Traditional) (pinyin, \"english\"), ideogrammic: Simplified(Traditional) (pinyin, \"english\") + Simplified(Traditional) (pinyin, \"english\").\n"
+                        "- HARD RULE: EVERY Chinese element MUST be rendered as Simplified(Traditional) (pinyin, \"english\"); omit (Traditional) if identical. Use Simplified as the base form. Do NOT use angle brackets.\n"
+                        "- If the TYPE is pictogram, you MUST explicitly state what it depicts (e.g., 'pictogram: depiction of calyx of a flower'), not an abstract concept.\n"
                         "- END THE LINE WITH A PERIOD.\n"
                         "Use general reasoning only if the HTML is insufficient."
                     ),
@@ -178,8 +181,14 @@ BACK_SCHEMA = CardSchema(
                         "Simple, intuitive explanation of how A → B → C flows; avoid scholarly tone and jargon."
                     ),
                     ai_prompt=(
-                        "Rely primarily on the provided Wiktionary HTML. In 1–2 short sentences, explain in plain, intuitive terms how A → B → C flows, why changes happened, and what it meant—no scholarly tone.\n"
-                        "If you reference specific components, render Chinese as <chinese character> (<pinyin>, \"<english>\"). Be brief and accessible. END WITH A PERIOD. Use general reasoning only as a last resort."
+                        "Rely primarily on the provided Wiktionary HTML. In 2–3 short sentences, explain in plain, accurate terms how A → B → C flows and why changes happened.\n"
+                        "HARD RULES:\n"
+                        "- If the TYPE is pictogram, FIRST name the concrete thing depicted (e.g., 'depicts the calyx of a flower'), THEN describe later semantic shifts (e.g., borrowing/extension via compositions like 否 leading to 'no/negation'), making clear which is original vs later.\n"
+                        "- Do NOT claim a pictogram 'represents the idea of' an abstract notion; describe the depiction explicitly instead.\n"
+                        "- If credible alternative interpretations are mentioned in the HTML (e.g., Shuowen, Karlgren, Wieger), briefly note them as alternatives.\n"
+                        "- If you reference specific components, render Chinese as Simplified(Traditional) (pinyin, \"english\") without angle brackets; omit (Traditional) if identical. Use Simplified as the base form.\n"
+                        "- Critically: explain WHY the SEMANTIC component applies to the MODERN meaning(s). If phono-semantic, explicitly identify the semantic determinative vs the phonetic, and state how the semantic determinative matches the word's domain today. If semantic/ideogrammic, state how the parts combine to yield the current sense. If meaning was borrowed/extended, explain the mechanism and why that newer sense persisted.\n"
+                        "- Be concise and factual. END WITH A PERIOD. Use general reasoning only as a last resort."
                     ),
                     field_type="line",
                 ),
@@ -187,15 +196,16 @@ BACK_SCHEMA = CardSchema(
                     name="component characters",
                     required=False,
                     description=(
-                        "List ALL UNIQUE single Chinese characters that appear in the etymology description field; deduplicate and preserve description order."
+                        "List ALL UNIQUE single Chinese characters that appear in the etymology description field; EXCLUDE the headword itself; deduplicate and preserve description order."
                     ),
                     ai_prompt=(
                         "From the etymology.description STRING YOU OUTPUT, list every UNIQUE SINGLE Chinese CHARACTER that appears anywhere in that description, in order of FIRST appearance.\n"
                         "STRICT FORMAT RULES:\n"
                         "- Output a short list, one item per line, each item starting with '- '.\n"
-                        "- Each item MUST be exactly ONE CJK character (no pinyin, no quotes, no parentheses, no Latin).\n"
+                        "- HARD RULE: Each item MUST be formatted as: Simplified(Traditional) (pinyin, \"english\"); if Traditional == Simplified, write only Simplified without parentheses. Use diacritic tone marks for pinyin. Keep English gloss concise (1–3 words).\n"
                         "- Deduplicate; preserve the order they first appear in the DESCRIPTION string.\n"
-                        "- Do not infer or add characters not present in the description."
+                        "- Do not infer or add characters not present in the description.\n"
+                        "- EXCLUDE the HEADWORD character itself if it appears (do not include the card's own character)."
                     ),
                     field_type="sublist",
                     max_items=12,

@@ -3,6 +3,8 @@ import os
 import sys
 import time
 import re
+import json
+import hashlib
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -51,6 +53,28 @@ def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str]]
             if simp:
                 rows.append((simp, trad, pin, eng, rel))
     return rows
+
+
+def write_parsed_csv_cache(folder: Path, parsed_path: Path) -> None:
+    cache_path = folder / "-input.cache.json"
+    try:
+        existing: Dict[str, object] = {}
+        if cache_path.exists():
+            try:
+                existing = json.loads(cache_path.read_text(encoding="utf-8"))
+                if not isinstance(existing, dict):
+                    existing = {}
+            except Exception:
+                existing = {}
+        payload: Dict[str, object] = dict(existing)
+        payload["parsed_sha256"] = _sha256_file(parsed_path)
+        payload["parsed_file"] = parsed_path.name
+        raw_path = folder / "-input.raw.txt"
+        if raw_path.exists():
+            payload["raw_sha256"] = _sha256_file(raw_path)
+        cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    except Exception:
+        pass
 
 
 def wiktionary_url_for_word(word: str) -> str:
@@ -137,15 +161,34 @@ def ensure_dir(path: Path) -> None:
 
 
 def _parse_component_english_map(description: str) -> Dict[str, str]:
-    # Parse tokens like: X (pinyin, "english") and map single CJK char X -> english
+    # Parse tokens like: Simplified(Traditional) (pinyin, "english") and map single CJK simplified char -> english
     mapping: Dict[str, str] = {}
     if not isinstance(description, str) or not description:
         return mapping
     for m in re.finditer(r"([^\s()]+)\s*\([^)]*,\s*\"([^\"]+)\"\)", description):
-        han = m.group(1)
+        token = m.group(1)
         en = m.group(2).strip()
-        if len(han) == 1 and is_cjk_char(han) and han not in mapping:
-            mapping[han] = en
+        # Take the first CJK char in the token as the simplified/base
+        simp = next((c for c in token if is_cjk_char(c)), "")
+        if simp and simp not in mapping:
+            mapping[simp] = en
+    return mapping
+
+
+def _parse_component_forms_map(description: str) -> Dict[str, Tuple[str, str]]:
+    # Parse tokens like: Simplified(Traditional) (pinyin, "english") to map simplified -> (simplified, traditional)
+    mapping: Dict[str, Tuple[str, str]] = {}
+    if not isinstance(description, str) or not description:
+        return mapping
+    # Match: TOKEN [ (TRAD) ] (pinyin, "english")
+    pattern = re.compile(r"([^\s()]+)(?:\(([^)]+)\))?\s*\([^)]*,\s*\"[^\"]+\"\)")
+    for m in pattern.finditer(description):
+        simp_token = m.group(1) or ""
+        trad_token = m.group(2) or ""
+        simp = next((c for c in simp_token if is_cjk_char(c)), "")
+        trad = next((c for c in trad_token if is_cjk_char(c)), "")
+        if simp:
+            mapping[simp] = (simp, trad or simp)
     return mapping
 
 
@@ -207,6 +250,8 @@ def _generate_component_subtree(
     depth: int,
     max_depth: int = 5,
     comp_cache: Optional[Dict[str, object]] = None,
+    simp_form: Optional[str] = None,
+    trad_form: Optional[str] = None,
 ) -> None:
     if depth > max_depth:
         return
@@ -214,6 +259,9 @@ def _generate_component_subtree(
     if target_ch in visited:
         return
     visited.add(target_ch)
+
+    simplified_form = simp_form or target_ch
+    traditional_form = trad_form or simplified_form
 
     word_id = f"{prefix}.{target_ch}"
     md_path = out_dir / f"{word_id}.md"
@@ -230,7 +278,7 @@ def _generate_component_subtree(
     else:
         combined_sections: List[str] = []
         fetched_set: Dict[str, bool] = {}
-        for form in [target_ch]:
+        for form in [simplified_form, traditional_form]:
             form = (form or "").strip()
             if not form or form in fetched_set:
                 continue
@@ -258,8 +306,8 @@ def _generate_component_subtree(
         if verbose:
             print(f"[info] OpenAI back-fields for {word_id} (model={model or 'default'})")
         back = extract_back_fields_from_html(
-            simplified=target_ch,
-            traditional=target_ch,
+            simplified=simplified_form,
+            traditional=traditional_form,
             english=component_english,
             html=combined_html,
             model=model,
@@ -280,8 +328,8 @@ def _generate_component_subtree(
         out_dir,
         word_id,
         component_english,
-        target_ch,
-        target_ch,
+        traditional_form,
+        simplified_form,
         pin,
         f'sub-component of "{parent_english}"',
         back_fields=back,
@@ -299,9 +347,14 @@ def _generate_component_subtree(
         else ""
     )
     english_map = _parse_component_english_map(str(desc))
+    forms_map = _parse_component_forms_map(str(desc))
+    # Initialize this component's per-head child cache with blank hashes
+    child_bases = [f"{word_id}.{sub}" for sub in comps]
+    init_head_children(out_dir, word_id, child_bases)
     for sub_ch in comps:
         mapped_sub = _map_radical_variant_to_primary(sub_ch)
         sub_eng = english_map.get(mapped_sub, "")
+        sub_simp, sub_trad = forms_map.get(mapped_sub, (mapped_sub, mapped_sub))
         _generate_component_subtree(
             out_dir,
             prefix=word_id,
@@ -316,7 +369,14 @@ def _generate_component_subtree(
             depth=depth + 1,
             max_depth=max_depth,
             comp_cache=comp_cache,
+            simp_form=sub_simp,
+            trad_form=sub_trad,
         )
+        # After writing child, update its hash
+        child_base = f"{word_id}.{mapped_sub}"
+        child_md = out_dir / f"{child_base}.md"
+        if child_md.exists():
+            update_head_child_hash(out_dir, word_id, child_base, _sha256_file(child_md))
 def _field_name_to_key(name: str) -> str:
     # Lowercase, strip parenthetical placeholders, replace spaces/hyphens with underscores
     key = name.lower()
@@ -547,6 +607,339 @@ def extract_back_fields_from_html(
     return result  # type: ignore[return-value]
 
 
+def _sha256_file(path: Path) -> str:
+    try:
+        with path.open("rb") as f:
+            h = hashlib.sha256()
+            for chunk in iter(lambda: f.read(8192), b""):
+                h.update(chunk)
+            return h.hexdigest()
+    except Exception:
+        return ""
+
+
+def _headword_files(out_dir: Path, file_base: str) -> List[Path]:
+    # Include top-level and all descendants (md and input.html)
+    prefix = f"{file_base}."
+    results: List[Path] = []
+    # Top-level
+    for suffix in (".md",):
+        p = out_dir / f"{file_base}{suffix}"
+        if p.exists():
+            results.append(p)
+    # Descendants
+    for p in out_dir.iterdir():
+        if not p.is_file():
+            continue
+        name = p.name
+        if name.startswith(prefix) and name.endswith(".md"):
+            results.append(p)
+    return results
+
+
+def write_headword_cache(out_dir: Path, file_base: str) -> None:
+    files = _headword_files(out_dir, file_base)
+    mapping: Dict[str, str] = {}
+    for p in files:
+        mapping[p.name] = _sha256_file(p)
+    cache_path = out_dir / f"{file_base}.cache.json"
+    cache_path.write_text(json.dumps({"files": mapping}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def verify_headword_cache(out_dir: Path, file_base: str, verbose: bool = False) -> None:
+    # Deprecated destructive verify; kept for compatibility (no-op)
+    return
+
+
+#########################################
+# Global cache (-input.cache.json)
+#########################################
+
+def _global_cache_path(folder: Path) -> Path:
+    return folder / "-output.cache.json"
+
+
+def load_global_cache(folder: Path) -> Dict[str, object]:
+    path = _global_cache_path(folder)
+    if not path.exists():
+        return {"words": []}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and isinstance(data.get("words"), list):
+            return data
+    except Exception:
+        pass
+    return {"words": []}
+
+
+def save_global_cache(folder: Path, cache: Dict[str, object]) -> None:
+    path = _global_cache_path(folder)
+    path.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def ensure_words_initialized(cache: Dict[str, object], bases: List[str]) -> None:
+    words = cache.setdefault("words", [])
+    assert isinstance(words, list)
+    existing = {w.get("base"): w for w in words if isinstance(w, dict)}
+    for base in bases:
+        if base not in existing:
+            words.append({"base": base, "md": ""})
+
+
+def _find_word_entry(cache: Dict[str, object], base: str) -> Dict[str, object]:
+    words = cache.get("words") if isinstance(cache, dict) else None
+    if not isinstance(words, list):
+        return {}
+    for w in words:
+        if isinstance(w, dict) and w.get("base") == base:
+            return w
+    return {}
+
+
+def set_word_md_hash(cache: Dict[str, object], base: str, md_hash: str) -> None:
+    w = _find_word_entry(cache, base)
+    if w:
+        w["md"] = md_hash
+
+
+#########################################
+# Per-head child cache (one level down)
+#########################################
+
+def _head_cache_path(out_dir: Path, base: str) -> Path:
+    return out_dir / f"{base}.cache.json"
+
+
+def load_head_cache(out_dir: Path, base: str) -> Dict[str, object]:
+    p = _head_cache_path(out_dir, base)
+    if not p.exists():
+        return {"children": []}
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and isinstance(data.get("children"), list):
+            return data
+    except Exception:
+        pass
+    return {"children": []}
+
+
+def save_head_cache(out_dir: Path, base: str, cache: Dict[str, object]) -> None:
+    _head_cache_path(out_dir, base).write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+
+
+def init_head_children(out_dir: Path, base: str, child_bases: List[str]) -> None:
+    cache = load_head_cache(out_dir, base)
+    seen = {c.get("base"): c for c in cache.get("children", []) if isinstance(c, dict)}
+    children_list: List[Dict[str, str]] = []
+    for cb in child_bases:
+        children_list.append(seen.get(cb) or {"base": cb, "md": ""})
+    cache["children"] = children_list
+    save_head_cache(out_dir, base, cache)
+
+
+def update_head_child_hash(out_dir: Path, base: str, child_base: str, md_hash: str) -> None:
+    cache = load_head_cache(out_dir, base)
+    children = cache.get("children") if isinstance(cache, dict) else None
+    if not isinstance(children, list):
+        children = []
+    found = False
+    for c in children:
+        if isinstance(c, dict) and c.get("base") == child_base:
+            c["md"] = md_hash
+            found = True
+            break
+    if not found:
+        children.append({"base": child_base, "md": md_hash})
+    cache["children"] = children
+    save_head_cache(out_dir, base, cache)
+
+
+def first_invalid_cached_name(out_dir: Path, file_base: str) -> Optional[str]:
+    cache = load_global_cache(out_dir)
+    entry = _find_word_entry(cache, file_base)
+    head_md = out_dir / f"{file_base}.md"
+    md_hash = _sha256_file(head_md) if head_md.exists() else ""
+    expected_head = entry.get("md") if isinstance(entry, dict) else ""
+    if not isinstance(expected_head, str) or not head_md.exists() or not expected_head or expected_head != md_hash:
+        return f"{file_base}.md"
+    # Check immediate children only via per-head cache
+    hcache = load_head_cache(out_dir, file_base)
+    children = hcache.get("children") if isinstance(hcache, dict) else []
+    if not isinstance(children, list):
+        return None
+    for c in children:
+        if not isinstance(c, dict):
+            continue
+        cb = c.get("base")
+        chash = c.get("md")
+        if not isinstance(cb, str) or not cb:
+            continue
+        child_md = out_dir / f"{cb}.md"
+        if not child_md.exists():
+            return f"{cb}.md"
+        actual = _sha256_file(child_md)
+        if not isinstance(chash, str) or not chash or actual != chash:
+            return f"{cb}.md"
+    return None
+
+
+def first_invalid_cached_name_recursive(out_dir: Path, top_base: str, *, verbose: bool = False) -> Optional[str]:
+    # Validate the top-level base against the global cache
+    bad = first_invalid_cached_name(out_dir, top_base)
+    if bad is not None and bad.endswith('.md') and bad[:-3] != top_base:
+        # It already found an invalid immediate child
+        return bad
+    if bad is not None and bad == f"{top_base}.md":
+        return bad
+    # DFS over children using per-head caches at each depth
+    visited: set[str] = set()
+    stack: list[str] = [top_base]
+    while stack:
+        parent = stack.pop()
+        if parent in visited:
+            continue
+        visited.add(parent)
+        if verbose and parent != top_base:
+            print(f"[check-child] {parent}")
+        hcache = load_head_cache(out_dir, parent)
+        children = hcache.get("children") if isinstance(hcache, dict) else []
+        # If the per-head cache is missing or empty, derive children from the filesystem (one level down)
+        if not isinstance(children, list) or not children:
+            # Discover immediate children by filename pattern: parent.*.md with exactly one extra token
+            prefix = parent + "."
+            discovered: list[str] = []
+            for p in out_dir.iterdir():
+                if not p.is_file() or not p.name.endswith(".md"):
+                    continue
+                stem = p.name[:-3]
+                if not stem.startswith(prefix):
+                    continue
+                tail = stem[len(prefix):]
+                if "." in tail:
+                    # deeper than one level under this parent
+                    continue
+                discovered.append(stem)
+            if discovered:
+                # Initialize cache entries with blank hashes so validation will detect and fix
+                init_head_children(out_dir, parent, discovered)
+                hcache = load_head_cache(out_dir, parent)
+                children = hcache.get("children") if isinstance(hcache, dict) else []
+                if not isinstance(children, list):
+                    children = []
+        for c in children:
+            if not isinstance(c, dict):
+                continue
+            cb = c.get("base")
+            chash = c.get("md")
+            if not isinstance(cb, str) or not cb:
+                continue
+            child_md = out_dir / f"{cb}.md"
+            if not child_md.exists():
+                if verbose:
+                    print(f"[mismatch] missing: {cb}.md")
+                return f"{cb}.md"
+            actual = _sha256_file(child_md)
+            if not isinstance(chash, str) or not chash or actual != chash:
+                if verbose:
+                    print(f"[mismatch] hash: {cb}.md")
+                return f"{cb}.md"
+            stack.append(cb)
+    return None
+
+
+def regenerate_single_file(
+    out_dir: Path,
+    file_base: str,
+    target_name: str,
+    simp: str,
+    trad: str,
+    eng: str,
+    model: Optional[str],
+    verbose: bool,
+    debug: bool,
+    delay_s: float,
+) -> None:
+    # If the invalid file is the head markdown, rebuild the headword card (normal flow)
+    if target_name in (f"{file_base}.md",):
+        # Build combined HTML
+        combined_sections: List[str] = []
+        fetched_set: Dict[str, bool] = {}
+        for form in [simp, trad]:
+            form = (form or "").strip()
+            if not form or form in fetched_set:
+                continue
+            fetched_set[form] = True
+            form_html, form_status = fetch_wiktionary_html_status(form)
+            if verbose:
+                print(f"[info] Wiktionary GET {form} -> {form_status}")
+            if form_status == 200 and form_html:
+                combined_sections.append(section_header(form) + sanitize_html(form_html))
+            else:
+                combined_sections.append(section_header(form))
+            if delay_s > 0:
+                time.sleep(delay_s)
+        combined_html = "\n\n".join(combined_sections)
+        back = extract_back_fields_from_html(
+            simplified=simp or trad,
+            traditional=trad or simp,
+            english=eng,
+            html=combined_html,
+            model=model,
+            verbose=verbose,
+            parent_word=None,
+        )
+        write_simple_card_md(
+            out_dir,
+            file_base,
+            eng,
+            trad or (simp or trad),
+            simp or (trad or simp),
+            "",
+            "",
+            back_fields=back,
+        )
+        # Update global cache for head md
+        gcache = load_global_cache(out_dir)
+        head_md = out_dir / f"{file_base}.md"
+        set_word_md_hash(gcache, file_base, _sha256_file(head_md))
+        save_global_cache(out_dir, gcache)
+        return
+    # Otherwise, regenerate the specific sub-component card using subtree generator
+    # Parse target name into prefix + last character
+    stem = target_name
+    if stem.endswith(".md"):
+        stem = stem[:-3]
+    # stem starts with file_base + optional chain
+    if not stem.startswith(file_base + "."):
+        return
+    chain = stem.split(".")
+    # last token is target char; prefix is stem without last token
+    if len(chain) < 2:
+        return
+    target_char = chain[-1]
+    parent_prefix = ".".join(chain[:-1])
+    _generate_component_subtree(
+        out_dir=out_dir,
+        prefix=parent_prefix,
+        ch=target_char,
+        component_english="",
+        parent_english=eng,
+        model=model,
+        verbose=verbose,
+        debug=debug,
+        delay_s=delay_s,
+        visited=set(),
+        depth=1,
+        comp_cache={},
+    )
+    # Update the immediate parent's cache with this child's hash
+    child_base = f"{parent_prefix}.{target_char}"
+    child_md = out_dir / f"{child_base}.md"
+    if child_md.exists():
+        update_head_child_hash(out_dir, parent_prefix, child_base, _sha256_file(child_md))
+
 
 def build_row_map(rows: List[Tuple[str, str, str, str, str]]) -> Dict[str, Dict[str, str]]:
     mapping: Dict[str, Dict[str, str]] = {}
@@ -606,6 +999,9 @@ def write_simple_card_md(
             value = pinyin
         parts.append(f"- **{label}:**: {value}")
 
+    # Track fields that have already been rendered to avoid duplicates
+    rendered_keys = {"traditional", "simplified", "pronunciation", "definition"}
+
     # AI-derived fields from schema
     if back_fields:
         ctx = {"traditional": traditional, "simplified": simplified}
@@ -642,6 +1038,17 @@ def write_simple_card_md(
                         parts.append(f"{pad}  - {str(item)}")
                 else:
                     fallback = getattr(field, "empty_fallback", None) or ""
+                    # Special-case: for component characters, use a different fallback for multi-character headwords
+                    try:
+                        fk = _field_name_to_key(field.name)
+                    except Exception:
+                        fk = ""
+                    if fk == "component_characters":
+                        simp_len = len((ctx.get("simplified") or ""))
+                        trad_len = len((ctx.get("traditional") or ""))
+                        is_compound = max(simp_len, trad_len) > 1
+                        if is_compound:
+                            fallback = "None, compound word"
                     if fallback:
                         parts.append(f"{pad}  - {fallback}")
                 return
@@ -651,9 +1058,11 @@ def write_simple_card_md(
                 parts.append(f"{pad}- **{label}:**: {clean}")
 
         # Render all AI-generated fields at top level (including sections)
-        # Render all fields from schema using field types; no special-casing
+        # Render all fields from schema using field types; avoid re-rendering already printed core fields
         for f in BACK_SCHEMA.fields:
             k = _field_name_to_key(f.name)
+            if k in rendered_keys:
+                continue
             v = back_fields.get(k) if isinstance(back_fields, dict) else None
             render_field(f, v, indent=0)
     parts.append("%%%")
@@ -670,61 +1079,66 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
             print(f"[skip] No -input.parsed.csv in {folder}")
         return 0, 0
     rows = read_parsed_input(parsed_path)
+    # Persist current parsed CSV hash for idempotence tracking
+    write_parsed_csv_cache(folder, parsed_path)
     if verbose:
         print(f"[info] {folder}: {len(rows)} word(s)")
     log_debug(debug, f"parsed rows sample: {rows[:3]}")
     out_dir = folder
     successes = 0
     comp_cache: Dict[str, object] = {}
-    for simp, trad, pin, eng, rel in rows:
-        word = simp or trad
+    # Initialize global cache for all words upfront with blank hashes
+    file_bases = [f"{i}.{(s or t)}" for i, (s, t, *_rest) in enumerate(rows, start=1)]
+    gcache = load_global_cache(out_dir)
+    ensure_words_initialized(gcache, file_bases)
+    save_global_cache(out_dir, gcache)
+
+    for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
+        headword = simp or trad
+        file_base = f"{idx}.{headword}"
         try:
-            md_path = out_dir / f"{word}.md"
+            md_path = out_dir / f"{file_base}.md"
             if md_path.exists():
                 if verbose:
-                    print(f"[skip] Card already exists: {md_path.name}")
-                continue
-            html_path = out_dir / f"{word}.input.html"
-            if html_path.exists():
-                combined_html = html_path.read_text(encoding="utf-8", errors="ignore")
-                if verbose:
-                    print(f"[info] Using cached HTML for {word}")
-                log_debug(debug, f"cached html bytes for {word}: {len(combined_html)}")
-            else:
-                # Build combined HTML: simplified/traditional sections (if distinct)
-                combined_sections: List[str] = []
-                fetched_set: Dict[str, bool] = {}
-                # Fetch simplified and traditional forms distinctly (avoid redundant fetches)
-                for form in [simp, trad]:
-                    form = (form or "").strip()
-                    if not form or form in fetched_set:
-                        continue
-                    fetched_set[form] = True
-                    form_html, form_status = fetch_wiktionary_html_status(form)
+                    print(f"[check] Validating subtree: {file_base}")
+                # Validate the entire subtree once; do NOT auto-repair
+                bad = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
+                if bad is None:
                     if verbose:
-                        print(f"[info] Wiktionary GET {form} -> {form_status}")
-                    if form_status == 200 and form_html:
-                        combined_sections.append(section_header(form) + sanitize_html(form_html))
-                        log_debug(debug, f"fetched html bytes for {form}: {len(form_html)}")
-                    else:
-                        combined_sections.append(section_header(form))
-                    if delay_s > 0:
-                        time.sleep(delay_s)
-                combined_html = "\n\n".join(combined_sections)
-                # Always write a .input.html, even if empty sections
-                html_path.write_text(combined_html, encoding="utf-8")
+                        print(f"[ok] Subtree healthy: {file_base}")
+                    continue
+                # Cache mismatch: fail loudly (no auto-repair)
+                print(f"[error] Cache mismatch: {bad}")
+                raise RuntimeError(f"cache mismatch for {file_base}: {bad}")
+            # Always fetch fresh HTML for current generation
+            combined_sections: List[str] = []
+            fetched_set: Dict[str, bool] = {}
+            for form in [simp, trad]:
+                form = (form or "").strip()
+                if not form or form in fetched_set:
+                    continue
+                fetched_set[form] = True
+                form_html, form_status = fetch_wiktionary_html_status(form)
                 if verbose:
-                    print(f"[ok] Wrote {html_path.name} ({len(combined_html)} bytes)")
-                log_debug(debug, f"combined html size for {word}: {len(combined_html)}")
+                    print(f"[info] Wiktionary GET {form} -> {form_status}")
+                if form_status == 200 and form_html:
+                    combined_sections.append(section_header(form) + sanitize_html(form_html))
+                else:
+                    combined_sections.append(section_header(form))
+                if delay_s > 0:
+                    time.sleep(delay_s)
+            combined_html = "\n\n".join(combined_sections)
+            if verbose:
+                log_debug(debug, f"combined html size for {file_base}: {len(combined_html)}")
             # Build single card markdown, enriching with AI-derived back fields
             if verbose:
                 print(
-                    f"[info] OpenAI back-fields for {word} (model={model or 'default'}), HTML bytes={len(combined_html)}"
+                    f"[info] OpenAI back-fields for {file_base} (model={model or 'default'}), HTML bytes={len(combined_html)}"
                 )
-            log_debug(debug, f"calling extract_back_fields_from_html for {word}; pinyin='{pin}'")
+            log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'")
             back = extract_back_fields_from_html(
-                simplified=word,
-                traditional=trad or word,
+                simplified=simp or trad,
+                traditional=trad or simp,
                 english=eng,
                 html=combined_html,
                 model=model,
@@ -737,23 +1151,27 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
                 et_sr = et.get("simplification_rule") if isinstance(et, dict) else ""
                 sr_flag = "present" if (simp and trad and simp != trad and et_sr) else "skipped"
                 print(f"[ok] Back fields extracted: etymology.type='{et_type}', simplification={sr_flag}")
-            log_debug(debug, f"back keys for {word}: {list(back.keys()) if isinstance(back, dict) else type(back)}")
+            log_debug(debug, f"back keys for {headword}: {list(back.keys()) if isinstance(back, dict) else type(back)}")
             write_simple_card_md(
                 out_dir,
-                word,
+                file_base,
                 eng,
-                trad or word,
-                simp or word,
+                trad or headword,
+                simp or headword,
                 pin,
                 rel,
                 back_fields=back,
             )
-            log_debug(debug, f"wrote md for {word}: pinyin='{pin}', relation='{rel}'")
+            # Update global cache: headword md hash immediately after writing
+            gcache = load_global_cache(out_dir)
+            set_word_md_hash(gcache, file_base, _sha256_file(md_path))
+            save_global_cache(out_dir, gcache)
+            log_debug(debug, f"wrote md for {file_base}: pinyin='{pin}', relation='{rel}'")
             # If this is a single-character headword, generate full sub-component subtree based on etymology
             try:
-                if isinstance(back, dict) and isinstance(word, str) and len(word) == 1:
+                if isinstance(back, dict) and isinstance(headword, str) and len(headword) == 1:
                     comp_list = _collect_components_from_back(back)
-                    log_debug(debug, f"components for {word}: {comp_list}")
+                    log_debug(debug, f"components for {headword}: {comp_list}")
                     if comp_list:
                         desc = (
                             back.get("etymology", {}).get("description")
@@ -761,12 +1179,17 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
                             else ""
                         )
                         english_map = _parse_component_english_map(str(desc))
-                        visited: set = set([word])
+                        forms_map = _parse_component_forms_map(str(desc))
+                        visited: set = set([headword])
+                        # Initialize per-head child cache with blank hashes
+                        child_bases = [f"{file_base}.{ch}" for ch in comp_list]
+                        init_head_children(out_dir, file_base, child_bases)
                         for ch in comp_list:
-                            log_debug(debug, f"recurse into {word}.{ch} english='{english_map.get(ch, '')}'")
+                            log_debug(debug, f"recurse into {file_base}.{ch} english='{english_map.get(ch, '')}'")
+                            sub_simp, sub_trad = forms_map.get(ch, (ch, ch))
                             _generate_component_subtree(
                                 out_dir=out_dir,
-                                prefix=word,
+                                prefix=file_base,
                                 ch=ch,
                                 component_english=english_map.get(ch, ""),
                                 parent_english=eng,
@@ -777,24 +1200,35 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
                                 visited=visited,
                                 depth=1,
                                 comp_cache=comp_cache,
+                                simp_form=sub_simp,
+                                trad_form=sub_trad,
                             )
+                            # After each child is written, update its hash in head cache
+                            child_base = f"{file_base}.{ch}"
+                            child_md = out_dir / f"{child_base}.md"
+                            if child_md.exists():
+                                update_head_child_hash(out_dir, file_base, child_base, _sha256_file(child_md))
+                        # Validate once after generation; do NOT auto-repair
+                        bad2 = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
+                        if bad2 is not None:
+                            print(f"[error] Cache mismatch after generation: {bad2}")
+                            raise RuntimeError(f"cache mismatch after generation for {file_base}: {bad2}")
             except Exception as e:
                 if verbose:
-                    print(f"[warn] sub-component generation failed for {word}: {e}")
+                    print(f"[warn] sub-component generation failed for {file_base}: {e}")
                 # Always fail hard on sub-component generation errors
                 raise
             successes += 1
             if verbose:
-                print(f"[ok] Card for {word}")
+                print(f"[ok] Card for {file_base}")
         except KeyboardInterrupt:
             if verbose:
-                print("[info] Interrupted by user; stopping folder processing")
-            return len(rows), successes
+                print("[cancelled]")
+                return successes, len(rows)
         except Exception as e:
             if verbose:
-                print(f"[error] {word}: {e}")
-        if delay_s > 0:
-            time.sleep(delay_s)
+                print(f"[error] Failed to build card for {(simp or trad)}: {e}")
+                raise
     # After processing the folder, concatenate all .md files into -output.md
     try:
         output_md = out_dir / "-output.md"

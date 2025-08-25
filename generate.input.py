@@ -3,6 +3,9 @@ import csv
 import io
 import os
 import sys
+import hashlib
+import json
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable, List, Sequence, Set, Tuple, Dict
 
@@ -271,7 +274,7 @@ def call_openai_subwords_for_words(
                 result[parent] = cleaned
     return result
 
-def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[Tuple[str, str, str, str]]]:
+def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebuild: bool = False) -> Tuple[Path, List[Tuple[str, str, str, str]]]:
     triples: List[Tuple[str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
     if verbose:
@@ -338,15 +341,44 @@ def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path
                 sub_map[key] = (s, t, p, e)
 
     out_path = raw_path.with_name("-input.parsed.csv")
-    # If parsed already exists, skip writing to preserve idempotency
-    if out_path.exists():
+    # If parsed already exists and not forcing, skip writing to preserve idempotency
+    if out_path.exists() and not force_rebuild:
         if verbose:
             print(f"[skip] Already exists: {out_path}")
         return out_path, triples
-    out_path.write_text(format_with_subwords_csv(triples, sub_map, parent_multi), encoding="utf-8")
+    out_path.write_text(
+        format_with_subwords_csv(triples, sub_map, parent_multi), encoding="utf-8"
+    )
     if verbose:
         print(f"[ok] Wrote {out_path} ({len(triples)} items + subwords)")
     return out_path, triples
+
+
+def _sha256_file(path: Path) -> str:
+    h = hashlib.sha256()
+    with path.open("rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def _read_cache(cache_path: Path) -> Dict[str, str]:
+    if not cache_path.exists():
+        return {}
+    try:
+        data = json.loads(cache_path.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except Exception:
+        return {}
+
+
+def _write_cache(cache_path: Path, raw_sha256: str, parsed_filename: str) -> None:
+    payload = {
+        "raw_sha256": raw_sha256,
+        "parsed_file": parsed_filename,
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+    }
+    cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main(argv: List[str] | None = None) -> int:
@@ -382,15 +414,33 @@ def main(argv: List[str] | None = None) -> int:
 
     total_items = 0
     for raw_path in raw_files:
-        # Skip if CSV already exists (new format). Ignore legacy parsed .txt files.
-        parsed_dash_csv = raw_path.with_name("-input.parsed.csv")
-        parsed_csv = raw_path.with_name("input.parsed.csv")
-        if parsed_dash_csv.exists() or parsed_csv.exists():
+        cache_path = raw_path.with_name("-input.cache.json")
+        parsed_path = raw_path.with_name("-input.parsed.csv")
+        # Compute current raw hash
+        current_hash = _sha256_file(raw_path)
+        cache = _read_cache(cache_path)
+        cached_hash = cache.get("raw_sha256", "")
+        # Decide if we need to (re)generate parsed CSV
+        need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
+        if need_regen:
             if args.verbose:
-                which = parsed_dash_csv if parsed_dash_csv.exists() else parsed_csv
-                print(f"[skip] Parsed file already present: {which}")
-            continue
-        _, items = process_file(raw_path, model=args.model, verbose=args.verbose)
+                reason = "hash changed" if current_hash != cached_hash else "parsed missing"
+                print(f"[info] Regenerating parsed CSV for {raw_path.name} ({reason})")
+            _, items = process_file(
+                raw_path, model=args.model, verbose=args.verbose, force_rebuild=True
+            )
+            # Update cache
+            _write_cache(cache_path, current_hash, parsed_path.name)
+        else:
+            if args.verbose:
+                print(f"[skip] Up-to-date: {raw_path.name}")
+            # Count existing items quickly
+            try:
+                with parsed_path.open("r", encoding="utf-8") as f:
+                    items = [ln for ln in f.read().splitlines() if ln.strip()]
+            except Exception:
+                items = []
+        total_items += len(items)
         total_items += len(items)
 
     if args.verbose:
