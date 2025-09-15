@@ -22,7 +22,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BE%97
 %%%
 
-
 ## hand
 ### sub-component
 #### structural particle; get or obtain
@@ -32,15 +31,15 @@
 - **pronunciation:**: yòu
 - **definition:**: hand
 - **contemporary usage:**
-  - 又名 (yòu míng, "also known as")
-  - 又说(說)又笑 (yòu shuō yòu xiào, "talking and laughing")
+  - 又名 (yòu míng, "also called")
   - 又红(紅)又专(專) (yòu hóng yòu zhuān, "red and expert")
+  - 又惊(驚)又喜 (yòu jīng yòu xǐ, "surprised and delighted")
 - **etymology (又):**
   - **type:**: pictogram
-  - **description:**: pictogram of right hand → original form of 右 (yòu, "right").
-  - **interpretation:**: It depicts a right hand; this pictograph served as the original graph for 右 (yòu, "right"), meaning the right-hand side.
+  - **description:**: pictogram: depiction of 手 (shǒu, "hand"), specifically the right hand.
+  - **interpretation:**: Depicts a right hand. The modern adverbial sense again/also is not from the pictographic meaning but is an adverbial derivation of 有 (yǒu, "to have"). It is also noted as the original form of 右 (yòu, "right").
   - **component characters:**
-    - 右 (yòu, "right")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%88
 %%%
 
@@ -65,6 +64,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%B3
 %%%
 
+
 ## mouth; speech
 ### sub-component
 #### right
@@ -86,6 +86,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%A3
 %%%
 
+
 ## inch
 ### sub-component
 #### structural particle; get or obtain
@@ -95,13 +96,13 @@
 - **pronunciation:**: cùn
 - **definition:**: inch
 - **contemporary usage:**
-  - 分寸 (fēn cùn, "sense of propriety")
-  - 寸土寸金 (cùn tǔ cùn jīn, "land is precious")
-  - 寸步不离(離) (cùn bù bù lí, "never leaves one's side")
+  - 寸土寸金 (cùn tǔ cùn jīn, "every inch is precious")
+  - 寸步不离(離) (cùn bù bù lí, "always together")
+  - 寸步难(難)行 (cùn bù nán xíng, "unable to move")
 - **etymology (寸):**
-  - **type:**: phonetic loan
-  - **description:**: phonetic: 尊 (zūn, "vessel") → 寸 (cùn, "inch").
-  - **interpretation:**: An abbreviated form of 尊 (zūn, "vessel") was borrowed for the similar-sounding word 寸 (cùn, "inch"). It then became the standard character for the measurement unit.
+  - **type:**: ideogram
+  - **description:**: ideogram: 手 (shǒu, "hand") + 丶 (zhǔ, "dot") → mark indicating the wrist pulse position.
+  - **interpretation:**: An ideographic mark on a hand indicates the wrist pulse point. The short distance from the wrist to that point was taken as a convenient measure, yielding the unit of length and later figurative senses for something very small. Some analyses also treat the unit sense as a loan use from another graph, but the wrist-pulse explanation is traditional.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AF%B8
@@ -129,6 +130,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%8A
 %%%
 
+
 ## wine
 ### sub-component
 #### vessel
@@ -151,6 +153,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%85%8B
 %%%
 
+
 ## eight
 ### sub-component
 #### wine
@@ -171,6 +174,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
+
 
 ## wine vessel
 ### sub-component
@@ -193,6 +197,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%85%89
 %%%
 
+
 ## step
 ### sub-component
 #### structural particle; get or obtain
@@ -202,13 +207,13 @@
 - **pronunciation:**: chì
 - **definition:**: step
 - **contemporary usage:**
-  - 彳亍 (chì chù, "amble about")
-  - 彳亍而行 (chì chù ér xíng, "amble along")
-  - 彳亍不前 (chì chù bù qián, "hesitate to advance")
+  - 彳亍 (chì chù, "pace to and fro")
+  - 彳部 (chì bù, "radical 彳 section")
+  - 彳部首 (chì bù shǒu, "radical 彳")
 - **etymology (彳):**
   - **type:**: pictogram
-  - **description:**: pictogram of 行 (xíng, "intersection").
-  - **interpretation:**: It depicts a street intersection seen from above. This visual led to the sense of stepping and slow movement, used as a radical in motion-related characters.
+  - **description:**: pictogram: depiction of a street intersection seen from above.
+  - **interpretation:**: It depicts a crossroads viewed from above, evoking paths and movement on foot. Later it served as a semantic determinative for motion and walking-related characters; some analyses also describe it as the left part of 行 (xíng, "go"), reflecting the same crossroads imagery.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BD%B3
@@ -235,6 +240,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A1%8C
 %%%
 
+
 ## step
 ### sub-component
 #### intersection
@@ -255,6 +261,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8D
 %%%
+
 
 ## one
 ### sub-component
@@ -277,6 +284,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
+
 ## nail
 ### sub-component
 #### step
@@ -298,6 +306,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%81
 %%%
 
+
 ## hook
 ### sub-component
 #### nail
@@ -317,6 +326,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%85
 %%%
 
+
 ## dawn
 ### sub-component
 #### structural particle; get or obtain
@@ -326,16 +336,37 @@
 - **pronunciation:**: dàn
 - **definition:**: dawn
 - **contemporary usage:**
+  - 通宵达(達)旦 (tōng xiāo dá dàn, "through the night till dawn")
   - 元旦 (yuán dàn, "New Year's Day")
-  - 通宵达(達)旦 (tōng xiāo dá dàn, "all night until dawn")
-  - 危在旦夕 (wēi zài dàn xī, "imminent danger")
+  - 危在旦夕 (wēi zài dàn xī, "in imminent danger")
 - **etymology (旦):**
-  - **type:**: ideogrammic compound
-  - **description:**: semantic: 日 (rì, "sun") + phonetic: 丁 (dīng, "nail").
-  - **interpretation:**: Combines 日 (rì, "sun") with 丁 (dīng, "nail") used for its sound, yielding the idea of dawn when the sun appears. The phonetic 丁 guides the reading while 日 supplies the meaning.
+  - **type:**: phono-semantic compound
+  - **description:**: phono-semantic: semantic: 日 (rì, "sun") + phonetic: 丁 (dīng, "fourth stem").
+  - **interpretation:**: 日 provides the semantic field of daylight, matching the sense “dawn/day”. 丁 serves as the phonetic indicator for the reading dàn. An alternative folk analysis in Shuowen interprets it as 日 over 一 (sun above the horizon), but this is not original.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A6
+%%%
+
+## nail
+### sub-component
+#### dawn
+---
+- **traditional:**: 丁
+- **simplified:**: 丁
+- **pronunciation:**: 
+- **definition:**: nail
+- **contemporary usage:**
+  - 丁字路口 (dīng zì lù kǒu, "T intersection")
+  - 丁克 (dīng kè, "DINK couple")
+  - 丁点(點)儿(兒) (dīng diǎn ér, "tiny bit")
+- **etymology (丁):**
+  - **type:**: pictogram
+  - **description:**: pictogram: depiction of a nail or spike with head 一 (yī, "one") and shank 亅 (jué, "hook").
+  - **interpretation:**: It depicts a nail or spike with a flat head and a shaft. The form later served as the name of the fourth Heavenly Stem and, by extension, appears in modern compounds for T-shaped things such as 丁字 (dīng zì, "T-shape").
+  - **component characters:**
+    - None, character is in atomic form
+  - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%81
 %%%
 
 ## sun
@@ -347,13 +378,13 @@
 - **pronunciation:**: rì
 - **definition:**: sun
 - **contemporary usage:**
-  - 日班 (rì bān, "day shift")
-  - 日历(曆) (rì lì, "calendar")
-  - 日程 (rì chéng, "schedule")
+  - 日班 (rìbān, "day shift")
+  - 日期 (rìqī, "date")
+  - 日历(曆) (rìlì, "calendar")
 - **etymology (日):**
   - **type:**: pictogram
   - **description:**: pictogram of 日 (rì, "sun").
-  - **interpretation:**: It pictures the sun with an inner mark; the central stroke was added to distinguish it from similar graphs like 囗 (wéi, "enclosure").
+  - **interpretation:**: Depicts the Sun. A central dot or line was added in early forms to distinguish it from 囗 (wéi, "enclosure"). By extension it also came to mean "day" and remains productive in date- and time-related words.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A5
@@ -368,40 +399,38 @@
 - **pronunciation:**: mù
 - **definition:**: eye
 - **contemporary usage:**
-  - 目录(錄) (mùlù, "table of contents")
-  - 目标(標) (mùbiāo, "target objective")
-  - 目的 (mùdì, "purpose or goal")
+  - 目标(標) (mù biāo, "target or goal")
+  - 目的 (mù dì, "purpose or aim")
+  - 目录(錄) (mù lù, "table of contents")
 - **etymology (目):**
   - **type:**: pictogram
-  - **description:**: pictogram of 目 (mù, "eye").
-  - **interpretation:**: It depicts a human eye and was later rotated 90 degrees in standard script.
+  - **description:**: pictogram of 眼 (yǎn, "eye") → rotated 90 degrees in modern script.
+  - **interpretation:**: It depicts a human eye, originally drawn upright, later standardized as a form rotated 90 degrees. The concrete meaning ‘eye’ broadened via extension to headings and listed items, giving modern senses seen in common compounds.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%9B%AE
 %%%
 
-## # sub-component
+## 
 ### sub-component
 #### structural particle; get or obtain
 ---
-- **traditional:**: 貝
+- **traditional:**: 贝
 - **simplified:**: 贝
 - **pronunciation:**: bèi
-- **definition:**: # sub-component
+- **definition:**: 
 - **contemporary usage:**
-  - 宝(寶)贝(貝) (bǎobèi, "darling baby")
-  - 分贝(貝) (fēnbèi, "sound level unit")
-  - 扇贝(貝) (shànbèi, "edible scallop")
-- **etymology (貝):**
+  - 宝(寶)贝(貝) (bǎobèi, "darling")
+  - 分贝(貝) (fēnbèi, "decibel")
+  - 拷贝(貝) (kǎobèi, "copy")
+- **etymology (贝):**
   - **type:**: pictogram
-  - **description:**: pictogram of 贝(貝) (bèi, "cowrie").
-  - **interpretation:**: It depicts a cowry shell once used as money. The simplified form follows a cursive outline, keeping the same meaning.
+  - **description:**: pictogram of 贝(貝) (bèi, "cowrie shell").
+  - **interpretation:**: Depicts a cowrie shell. Because cowries were used as money in ancient China, the character extended to mean money and valuables, and as a radical it marks words related to wealth.
   - **component characters:**
     - None, character is in atomic form
-  - **reference:**: https://en.wiktionary.org/wiki/%E8%B2%9D
-  - **simplification rule (贝):**: Reduced strokes by adopting the cursive outline of 貝 and regularizing it into a compact four-stroke form.
+  - **reference:**: https://en.wiktionary.org/wiki/%E8%B4%9D
 %%%
-
 
 ## exchange 'or' change
 ---
@@ -423,7 +452,6 @@
   - **simplification rule (换):**: The traditional right-side phonetic 奐 was simplified to 奂 to reduce strokes, while the left-hand 扌 component was retained, yielding 换.
 %%%
 
-
 ## British pound 'or' pound sterling
 ---
 - **traditional:**: 英鎊
@@ -443,7 +471,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%8B%B1%E9%8E%8A
   - **simplification rule (英镑):**: 镑 simplifies 鎊 by replacing the metal radical 釒 with 钅 and regularizing the right component to reduce strokes.
 %%%
-
 
 ## English; Britain
 ### sub-word
@@ -465,6 +492,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E8%8B%B1
 %%%
+
 
 ## pound (currency)
 ### sub-word
@@ -489,6 +517,7 @@
   - **simplification rule (镑):**: Simplified by replacing the left-side component 釒 with its simplified form 钅 while retaining the phonetic 旁.
 %%%
 
+
 ## beside
 ### sub-component
 #### pound (currency)
@@ -498,63 +527,103 @@
 - **pronunciation:**: páng / bàng / péng / bēng
 - **definition:**: beside
 - **contemporary usage:**
-  - 旁边(邊) (pángbiān, "by the side")
-  - 旁听(聽) (pángtīng, "audit a class")
-  - 旁白 (pángbái, "voiceover narration")
+  - 旁边(邊) (pángbiān, "next to")
+  - 旁听(聽) (pángtīng, "attend as auditor")
+  - 旁白 (pángbái, "voice-over narration")
 - **etymology (旁):**
   - **type:**: phono-semantic compound
-  - **description:**: phono-semantic: semantic: 辛 (xīn, "punishment") + phonetic: 方 (fāng, "direction").
-  - **interpretation:**: The character combines a top element interpreted as 辛 (xīn, "punishment") as the semantic indicator with 方 (fāng, "direction") providing the pronunciation páng. The semantic top has varied historically (e.g., forms like 用 (yòng, "use") or 凡 (fán, "ordinary")), but it likely suggested marking or separation at the periphery, which later generalized to the sense “side/beside.”
+  - **description:**: phono-semantic: semantic: 辛 (xīn, "branding"), phonetic: 方 (fāng, "square").
+  - **interpretation:**: This is a phono-semantic compound with phonetic 方 (fāng, "square") and a semantic top interpreted in the standard form as 辛 (xīn, "branding"), proposed to suggest movement to the remote or side. Historical forms show variation in the upper element—冖 (mì, "cover"), 凡 (fán, "all"), 辛 (xīn, "branding"), 用 (yòng, "use")—so its exact semantic force is uncertain; the phonetic 方 explains the páng reading, while the sense extends to ‘side/beside’.
   - **component characters:**
-    - None, character is in atomic form
+    - 辛 (xīn, "branding")
+    - 方 (fāng, "square")
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%81
 %%%
 
-## metal
+## square
+### sub-component
+#### beside
+---
+- **traditional:**: 方
+- **simplified:**: 方
+- **pronunciation:**: fāng
+- **definition:**: square
+- **contemporary usage:**
+  - 正方形 (zhèng fāng xíng, "square shape")
+  - 长(長)方形 (cháng fāng xíng, "rectangular shape")
+  - 方桌 (fāng zhuō, "square table")
+- **etymology (方):**
+  - **type:**: ideogrammic compound
+  - **description:**: ideogrammic: 一 (yī, "one") + 刀 (dāo, "blade") → tip of a blade.
+  - **interpretation:**: Combines 一 (yī, "one") as a short mark with 刀 (dāo, "blade") to depict the pointed tip of a blade. The character was later borrowed to mean “side”. Other theories are also mentioned.
+  - **component characters:**
+    - 一
+    - 刀
+  - **reference:**: https://en.wiktionary.org/wiki/%E6%96%B9
+%%%
+
+
+## branding
+### sub-component
+#### beside
+---
+- **traditional:**: 辛
+- **simplified:**: 辛
+- **pronunciation:**: xīn
+- **definition:**: branding
+- **contemporary usage:**
+  - 辛辣 (xīnlà, "spicy")
+  - 辛苦 (xīnkǔ, "hard work")
+  - 辛酸 (xīnsuān, "bitter sorrow")
+- **etymology (辛):**
+  - **type:**: pictogram
+  - **description:**: pictogram: depiction of a chisel or awl used for branding.
+  - **interpretation:**: It depicts a sharp branding tool such as a chisel or awl. The painful, biting quality motivated senses like 'pungent/spicy' and figurative 'hardship/sorrow' that persist in modern compounds.
+  - **component characters:**
+    - None, character is in atomic form
+  - **reference:**: https://en.wiktionary.org/wiki/%E8%BE%9B
+%%%
+
+
+## 
 ### sub-component
 #### pound (currency)
 ---
 - **traditional:**: 金
 - **simplified:**: 金
 - **pronunciation:**: jīn
-- **definition:**: metal
+- **definition:**: 
 - **contemporary usage:**
-  - 现(現)金 (xiànjīn, "ready cash")
-  - 资(資)金 (zījīn, "capital funds")
-  - 金发(髮) (jīnfà, "blond hair")
+  - 合金 (hé jīn, "metal alloy")
+  - 金发(髮) (jīn fà, "blond hair")
+  - 金钱(錢) (jīn qián, "money and currency")
 - **etymology (金):**
   - **type:**: phono-semantic compound
-  - **description:**: phono-semantic: semantic: 士 (shì, "ritual axe") + semantic: 丷 (bā, "metal blocks") + phonetic: 亼 (jí, "open mouth").
-  - **interpretation:**: 士 and 丷 act as semantic indicators of metal implements and pieces, matching the character’s core senses of metal and later gold. 亼 functions as the phonetic (an ancient form related to 今), indicating the reading; Shuowen alternatively explained it as “metal in earth,” and folk tradition sometimes misreads the semantic part as 王.
+  - **description:**: phono-semantic compound: semantic: 士 (shì, "ritual axe") + semantic: 丷 (bā, "two metals") + phonetic: 亼 (jí, "now").
+  - **interpretation:**: The graph combines 士 as a stylized ritual axe and 丷 as two metal nuggets to signal the semantic field of metals, while 亼 (the ancient form of 今) provides the pronunciation. The word originally meant copper, then broadened to metals and later narrowed to gold as a key sense today. Shuowen alternatively explains it as “metal in earth” with 亼 as phonetic, but early forms lack the earth element.
   - **component characters:**
-    - 士 (shì, "ritual axe")
-    - 丷 (bā, "metal blocks")
-    - 亼 (jí, "open mouth")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%87%91
 %%%
 
-
-## metal blocks
+## two metals
 ### sub-component
-#### metal
+#### pound (currency)
 ---
 - **traditional:**: 丷
 - **simplified:**: 丷
-- **pronunciation:**: bā / dào bā zì
-- **definition:**: metal blocks
+- **pronunciation:**: bā
+- **definition:**: two metals
 - **contemporary usage:**
-  - 丷偏旁 (dào bā zì piān páng, "character component")
-  - 丷字形 (dào bā zì zì xíng, "glyph form")
-  - 丷部件 (dào bā zì bù jiàn, "component piece")
+  - None, not in contemporary use.
 - **etymology (丷):**
-  - **type:**: pictogram
-  - **description:**: pictogram: depiction of two diverging strokes indicating separation → adopted as the component variant of 八 (bā, "eight").
-  - **interpretation:**: It depicts two strokes spreading apart, symbolizing separation. It later specialized as the component form corresponding to 八 and is now used purely as a graphic element in the tops of characters.
+  - **type:**: ideogram
+  - **description:**: ideogram: 八 (bā, "eight") indicating two diverging strokes meaning separation → positional component variant used atop characters.
+  - **interpretation:**: 丷 is the component form of 八. 八 originated as an ideogram of two diverging strokes indicating separation and was later associated with the numeral eight. 丷 is a positional, abbreviated shape used at the top of composite characters and carries no independent lexical meaning today.
   - **component characters:**
-    - 八 (bā, "eight")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%B7
 %%%
-
 
 ## eight
 ### sub-component
@@ -577,47 +646,89 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
 
-## open mouth
+
+## now
 ### sub-component
-#### metal
+#### pound (currency)
 ---
 - **traditional:**: 亼
 - **simplified:**: 亼
 - **pronunciation:**: 
-- **definition:**: open mouth
+- **definition:**: now
 - **contemporary usage:**
   - None, not in contemporary use.
 - **etymology (亼):**
   - **type:**: ideogrammic compound
   - **description:**: ideogrammic: 入 (rù, "enter") + 一 (yī, "one").
-  - **interpretation:**: Combining 入 “enter” with 一 “one/line” is taken to depict things entering toward a line or center, hence the idea of gathering, which links this form to the sense associated with 集. An alternative view in the source treats it as an upside-down 口 “open mouth” and identifies it as the original form of 今.
+  - **interpretation:**: It combines 入 “enter” over 一 “one” to show things moving in toward a single point/line, hence “gather.” Some sources instead see it as an upside-down 口 (kǒu, "mouth") and regard it as the original form of 今 (jīn, "now"); the character was later associated with 集 (jí, "gather").
   - **component characters:**
-    - None, character is in atomic form
+    - 入 (rù, "enter")
+    - 一 (yī, "one")
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BC
 %%%
 
+## one
+### sub-component
+#### now
+---
+- **traditional:**: 一
+- **simplified:**: 一
+- **pronunciation:**: yī
+- **definition:**: one
+- **contemporary usage:**
+  - 一起 (yìqǐ, "together")
+  - 一共 (yígòng, "in total")
+  - 一样(樣) (yíyàng, "the same")
+- **etymology (一):**
+  - **type:**: ideogram
+  - **description:**: ideogram: horizontal stroke 一 (yī, "one") indicating the number "one".
+  - **interpretation:**: Depicts a single horizontal mark used to tally or denote one. The graphic directly expresses the quantity, so its meaning stayed literal and remains the basic numeral and a prefix meaning “one/whole” in modern usage.
+  - **component characters:**
+    - None, character is in atomic form
+  - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
+%%%
+
+## enter
+### sub-component
+#### now
+---
+- **traditional:**: 入
+- **simplified:**: 入
+- **pronunciation:**: rù
+- **definition:**: enter
+- **contemporary usage:**
+  - 入口 (rù kǒu, "entrance")
+  - 入学(學) (rù xué, "enter school")
+  - 入职(職) (rù zhí, "start a job")
+- **etymology (入):**
+  - **type:**: ideogram
+  - **description:**: ideogram: depiction of an arrowhead pointing inward → meaning "enter".
+  - **interpretation:**: It depicts an arrowhead entering or pointing into a space, directly conveying the action of entering. This simple directional graphic was abstracted into the verb "to enter," which remains the core meaning in modern usage.
+  - **component characters:**
+    - None, character is in atomic form
+  - **reference:**: https://en.wiktionary.org/wiki/%E5%85%A5
+%%%
 
 ## ritual axe
 ### sub-component
-#### metal
+#### pound (currency)
 ---
 - **traditional:**: 士
 - **simplified:**: 士
 - **pronunciation:**: shì
 - **definition:**: ritual axe
 - **contemporary usage:**
-  - 博士 (bó shì, "doctoral degree")
-  - 女士 (nǚ shì, "polite title for women")
-  - 护(護)士 (hù shì, "medical nurse")
+  - 博士 (bóshì, "doctoral degree")
+  - 护(護)士 (hùshì, "nurse")
+  - 女士 (nǚshì, "lady")
 - **etymology (士):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of a ritual axe.
-  - **interpretation:**: It depicts a ritual axe, a concrete ceremonial weapon. The sense broadened from warrior to soldier and then to a person of rank or learning, which underlies its modern use as a suffix for professionals and intellectuals.
+  - **description:**: pictogram: depiction of a ritual war axe.
+  - **interpretation:**: It depicts a ritual axe used in ancient ceremonies. The concrete weapon sense was later extended to “soldier” and then to “officer, intellectual,” reflecting the status of the educated governing class. Some discussions note association with ritual and authority alongside 王 (wáng, "king"), 圭 (guī, "jade tablet"), and 金 (jīn, "metal").
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A3%AB
 %%%
-
 
 ## renminbi 'or' Chinese yuan
 ---
@@ -639,44 +750,39 @@
   - **simplification rule (人民币):**: The traditional 幣 was simplified to 币 through radical reduction and stroke merging as part of Script Simplification; thus 人民幣 became 人民币.
 %%%
 
-
 ## person
-### sub-word
-#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 人
 - **simplified:**: 人
 - **pronunciation:**: rén
 - **definition:**: person
 - **contemporary usage:**
-  - 人类(類) (rénlèi, "humanity")
+  - 人们(們) (rénmen, "people")
+  - 人类(類) (rénlèi, "humankind")
   - 人口 (rénkǒu, "population")
-  - 人生 (rénshēng, "human life")
 - **etymology (人):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of 人 (rén, "person").
-  - **interpretation:**: Depicts a standing human figure. The meaning has remained “person” and it serves as a semantic radical in many characters related to people.
+  - **description:**: pictogram: depiction of a standing person.
+  - **interpretation:**: It depicts a standing human figure, with two strokes suggesting torso and legs. The original concrete drawing directly yielded the meaning “person,” which remains the modern sense.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
 ## people; citizen
-### sub-word
-#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 民
 - **simplified:**: 民
 - **pronunciation:**: mín
 - **definition:**: people; citizen
 - **contemporary usage:**
-  - 人民 (rénmín, "the people")
-  - 公民 (gōngmín, "citizen")
-  - 国(國)民 (guómín, "nationals")
+  - 国(國)民 (guó mín, "national citizens")
+  - 人民 (rén mín, "the people")
+  - 公民 (gōng mín, "a citizen")
 - **etymology (民):**
-  - **type:**: pictogram
-  - **description:**: pictogram: depiction of 目 (mù, "eye") pierced by 刀 (dāo, "knife") → semantic: 盲 (máng, "blind").
-  - **interpretation:**: It depicts an eye being pierced, evoking blinding or subjugation. This was interpreted as related to 盲 "blind" or the idea of enslaving by blinding, hence "subjects/people", which later generalized to the modern sense "the people; citizens".
+  - **type:**: phonetic loan
+  - **description:**: unknown original glyph → phonetic loan: 民 (mín, "people").
+  - **interpretation:**: The original graphic meaning is unknown. The character was later borrowed as a jiajie to write mín “people” on phonetic grounds, and this borrowed sense became standard. An alternative claim that it depicts an eye pierced by a dagger, or that it is the original form of 盲 (máng, "blind"), is rejected here due to lack of evidence and phonetic mismatch.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%B0%91
@@ -705,6 +811,7 @@
   - **simplification rule (币):**: Simplified from 幣 by replacing the complex phonetic component 敝 with a single stroke 丿 above 巾, reducing strokes through component replacement and graphic regularization.
 %%%
 
+
 ## towel
 ### sub-component
 #### currency; coin
@@ -725,6 +832,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%BE
 %%%
+
 
 ## worn
 ### sub-component
@@ -747,6 +855,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%95%9D
 %%%
 
+
 ## the people
 ### sub-word
 #### renminbi 'or' Chinese yuan
@@ -768,6 +877,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA%E6%B0%91
 %%%
 
+
 ## to use
 ---
 - **traditional:**: 用
@@ -786,7 +896,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%94%A8
 %%%
-
 
 ## early or in advance; good morning
 ---
@@ -807,7 +916,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A9
 %%%
 
-
 ## sun
 ### sub-component
 #### early or in advance; good morning
@@ -818,12 +926,12 @@
 - **definition:**: sun
 - **contemporary usage:**
   - 日班 (rì bān, "day shift")
-  - 日历(曆) (rì lì, "calendar")
-  - 日程 (rì chéng, "schedule")
+  - 日记(記) (rì jì, "diary")
+  - 日历(歷) (rì lì, "calendar")
 - **etymology (日):**
   - **type:**: pictogram
-  - **description:**: pictogram of 日 (rì, "sun").
-  - **interpretation:**: It pictures the sun with an inner mark; the central stroke was added to distinguish it from similar graphs like 囗 (wéi, "enclosure").
+  - **description:**: pictogram of 日 (rì, "sun") → central dot/line added to distinguish from 囗 (wéi, "enclosure") and 丁 (dīng, "nail").
+  - **interpretation:**: Depicts the sun. A central mark was added to differentiate it from enclosure-shaped graphs, yielding the familiar squared form. From the original sense "sun", it naturally extended to mean "day" in everyday usage.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A5
@@ -838,13 +946,13 @@
 - **pronunciation:**: jiǎ
 - **definition:**: first
 - **contemporary usage:**
-  - 甲级(級)联(聯)赛(賽) (jiǎ jí lián sài, "first-division league")
-  - 修指甲 (xiū zhǐ jiǎ, "do a manicure")
-  - 六十甲子 (liù shí jiǎ zǐ, "sexagenary cycle")
+  - 甲级(級)联(聯)赛(賽) (jiǎjí liánsài, "A Division league")
+  - 修指甲 (xiū zhǐjiǎ, "do nails")
+  - 六十甲子 (liùshí jiǎzǐ, "sixty-year cycle")
 - **etymology (甲):**
   - **type:**: pictogram
   - **description:**: pictogram of 龟(龜) (guī, "turtle") shell.
-  - **interpretation:**: It depicts a turtle shell, so it first meant a shell and then protective armor; later it came to mark the first in the ten heavenly stems, hence “first”.
+  - **interpretation:**: It depicts a turtle shell. From the idea of a hard protective shell came senses like plate armor and fingernail. It was later used to label the first of the ten heavenly stems, yielding the sense “first”.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%94%B2
@@ -871,7 +979,6 @@
   - **simplification rule (刚):**: Simplified from 剛 by replacing the phonetic component 岡 with its simplified form 冈 while retaining the right-side knife component 刂, reducing strokes.
 %%%
 
-
 ## # sub-component
 ### sub-component
 #### just now
@@ -896,7 +1003,6 @@
   - **simplification rule (冈):**: Simplified from 岡 by compressing the top 𦉰 component and dropping/merging the bottom 山, yielding a reduced-stroke form 冈.
 %%%
 
-
 ## mountain
 ### sub-component
 #### just now
@@ -917,7 +1023,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B1%B1
 %%%
-
 
 ## # sub-component
 ### sub-component
@@ -941,7 +1046,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%B6%B2
 %%%
 
-
 ## # sub-component
 ### sub-component
 #### just now
@@ -960,7 +1064,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%B3%B8
 %%%
-
 
 ## deceive
 ### sub-component
@@ -984,7 +1087,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%BD%94
 %%%
 
-
 ## die
 ### sub-component
 #### deceive
@@ -1006,6 +1108,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%A1
 %%%
 
+
 ## # sub-component
 ### sub-component
 #### deceive
@@ -1026,7 +1129,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%BD%91
 %%%
-
 
 ## # sub-component
 ### sub-component
@@ -1050,7 +1152,6 @@
   - **simplification rule (网):**: Simplified by adopting the ancient graph 网 as the whole character, replacing the composite 糸 + 罔 structure of 網 and reducing strokes.
 %%%
 
-
 ## knife
 ### sub-component
 #### just now
@@ -1072,6 +1173,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%88%82
 %%%
 
+
 ## from 'or' since
 ---
 - **traditional:**: 從
@@ -1092,7 +1194,6 @@
   - **simplification rule (从):**: The simplified form 从 was standardized by removing the walking components of 從 (彳 and 龰), reverting to the older two-person form to reduce strokes and complexity.
 %%%
 
-
 ## very 'or' extremely
 ---
 - **traditional:**: 非常
@@ -1111,7 +1212,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9D%9E%E5%B8%B8
 %%%
-
 
 ## not; wrong
 ### sub-word
@@ -1133,6 +1233,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9D%9E
 %%%
+
 
 ## often; common
 ### sub-word
@@ -1156,6 +1257,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B8%B8
 %%%
 
+
 ## still
 ### sub-component
 #### often; common
@@ -1176,6 +1278,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%9A
 %%%
+
 
 ## cloth
 ### sub-component
@@ -1198,6 +1301,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%BE
 %%%
 
+
 ## time 'or' occurrence; secondary 'or' next
 ---
 - **traditional:**: 次
@@ -1218,7 +1322,6 @@
     - 冫 (bīng, "ice")
   - **reference:**: https://en.wiktionary.org/wiki/%E6%AC%A1
 %%%
-
 
 ## two
 ### sub-component
@@ -1241,6 +1344,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8C
 %%%
 
+
 ## ice
 ### sub-component
 #### time 'or' occurrence; secondary 'or' next
@@ -1261,6 +1365,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%86%AB
 %%%
+
 
 ## yawn
 ### sub-component
@@ -1283,6 +1388,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%AC%A0
 %%%
 
+
 ## visit 'or' tour
 ---
 - **traditional:**: 參觀
@@ -1302,7 +1408,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%83%E8%A7%80
   - **simplification rule (参观):**: Both characters were simplified by component reduction and stroke simplification: 參 → 参 and 觀 → 观, replacing complex components with streamlined forms.
 %%%
-
 
 ## to participate
 ### sub-word
@@ -1325,6 +1430,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%83
   - **simplification rule (参):**: Simplified by reducing the strokes of 參, compressing the multi-part 晶+光+彡 structure into a compact, regularized form while retaining 彡.
 %%%
+
 
 ## to observe; view
 ### sub-word
@@ -1350,6 +1456,7 @@
   - **simplification rule (观):**: Simplified by replacing the original phonetic 雚 with 又 and the semantic 見 with 见, reducing strokes via component substitution and graphic regularization.
 %%%
 
+
 ## again
 ### sub-component
 #### to observe; view
@@ -1370,6 +1477,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%88
 %%%
+
 
 ## see
 ### sub-component
@@ -1392,6 +1500,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A7%81
 %%%
 
+
 ## reeds
 ### sub-component
 #### to observe; view
@@ -1410,6 +1519,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9B%9A
 %%%
+
 
 ## Terracotta Army
 ---
@@ -1431,7 +1541,6 @@
   - **simplification rule (兵马俑):**: The traditional 馬 was simplified to 马 within the multi-character term; other characters remained unchanged.
 %%%
 
-
 ## bank or financial institution
 ---
 - **traditional:**: 銀行
@@ -1451,7 +1560,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%8A%80%E8%A1%8C
   - **simplification rule (银行):**: 銀 was simplified to 银 by replacing the metal radical 金 with its simplified form 钅 and reducing strokes; 行 remained unchanged.
 %%%
-
 
 ## soldier or troops; military or army
 ### sub-word
@@ -1475,6 +1583,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%B5
 %%%
 
+
 ## two hands
 ### sub-component
 #### soldier or troops; military or army
@@ -1496,6 +1605,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BB%BE
 %%%
 
+
 ## short axe
 ### sub-component
 #### soldier or troops; military or army
@@ -1516,6 +1626,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%96%A4
 %%%
+
 
 ## horse or steed
 ### sub-word
@@ -1539,6 +1650,7 @@
   - **simplification rule (马):**: Simplified from 馬 by adopting its cursive-derived outline, merging and reducing strokes into the compact 3-stroke form 马.
 %%%
 
+
 ## figurine
 ### sub-word
 #### Terracotta Army
@@ -1561,6 +1673,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BF%91
 %%%
 
+
 ## human
 ### sub-component
 #### figurine
@@ -1582,6 +1695,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
+
 ## use
 ### sub-component
 #### figurine
@@ -1602,6 +1716,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%94%A8
 %%%
+
 
 ## troops; soldiers and horses
 ### sub-word
@@ -1625,6 +1740,7 @@
   - **simplification rule (兵马):**: Traditional 馬 was simplified to 马 through stroke reduction and component replacement, while 兵 remained unchanged.
 %%%
 
+
 ## a postcard
 ---
 - **traditional:**: 明信片
@@ -1643,7 +1759,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E6%98%8E%E4%BF%A1%E7%89%87
 %%%
-
 
 ## bright or clear; Ming dynasty
 ### sub-word
@@ -1665,6 +1780,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%98%8E
 %%%
+
 
 ## letter or mail; to believe or trust
 ### sub-word
@@ -1688,6 +1804,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BF%A1
 %%%
 
+
 ## person
 ### sub-component
 #### letter or mail; to believe or trust
@@ -1708,6 +1825,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
+
 
 ## speech
 ### sub-component
@@ -1730,6 +1848,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A8%80
 %%%
 
+
 ## slice; sheet; card
 ### sub-word
 #### a postcard
@@ -1750,6 +1869,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%89%87
 %%%
+
 
 ## postcard
 ### sub-word
@@ -1791,7 +1911,6 @@
   - **simplification rule (该):**: Simplified by replacing 訁 with the abbreviated speech radical 讠 while keeping the phonetic component 亥 unchanged.
 %%%
 
-
 ## earthly branch
 ### sub-component
 #### should 'or' ought to; the above-mentioned 'or' said
@@ -1812,6 +1931,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%A5
 %%%
+
 
 ## speech
 ### sub-component
@@ -1834,49 +1954,44 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A8%80
 %%%
 
-
 ## silver; money
-### sub-word
-#### bank or financial institution
 ---
 - **traditional:**: 銀
 - **simplified:**: 银
 - **pronunciation:**: yín
 - **definition:**: silver; money
 - **contemporary usage:**
-  - 银(銀)行 (yín háng, "bank")
-  - 银(銀)行卡 (yín háng kǎ, "bank card")
-  - 银(銀)色 (yín sè, "silver color")
+  - 白银(銀) (bái yín, "silver bullion")
+  - 银(銀)仔 (yín zǎi, "coin")
+  - 几(幾)千银(銀) (jǐ qiān yín, "a few thousand bucks")
 - **etymology (銀):**
   - **type:**: phono-semantic compound
-  - **description:**: semantic: 金 (jīn, "metal") + phonetic: 艮 (gèn, "stopping").
-  - **interpretation:**: 金 (jīn, "metal") indicates the category of metals, and 艮 (gèn, "stopping") serves as the phonetic cue. The combination names the metal silver and, by extension, money.
+  - **description:**: semantic: 金 (jīn, "metal") + phonetic: 艮 (gèn, "stop") → meaning "silver".
+  - **interpretation:**: 金 provides the semantic domain of metals, signaling that the word refers to a metallic substance. 艮 serves as the phonetic component approximating the historical pronunciation that led to yín. The metal determinative matches the modern senses of a metal and, by extension, money.
   - **component characters:**
-    - 金 (jīn, "metal")
-    - 艮 (gèn, "stopping")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%8A%80
-  - **simplification rule (银):**: The traditional form 銀 was simplified by replacing the left-side metal radical 金 with the abbreviated form 钅 to reduce strokes and standardize metal characters.
+  - **simplification rule (银):**: Simplified by replacing the left component 金 with the simplified radical 钅 to reduce strokes, while retaining 艮 unchanged.
 %%%
 
-## stopping
+## stop
 ### sub-component
 #### silver; money
 ---
 - **traditional:**: 艮
 - **simplified:**: 艮
 - **pronunciation:**: gèn / gěn
-- **definition:**: stopping
+- **definition:**: stop
 - **contemporary usage:**
-  - 儒艮 (rúgèn, "sea cow")
+  - 儒艮 (rú gèn, "dugong")
   - 艮卦 (gèn guà, "Gen trigram")
-  - 艮萝(蘿)卜 (gěn luóbo, "tough radish")
+  - 艮位 (gèn wèi, "northeast sector")
 - **etymology (艮):**
   - **type:**: ideogrammic compound
-  - **description:**: ideogrammic: 目 (mù, "eye") + 人 (rén, "person") → 艮 (gèn, "stopping").
-  - **interpretation:**: Combining 目 (mù, "eye") and 人 (rén, "person") depicts someone glancing back, implying hesitation or refusal to proceed. From this image the sense of stopping or setting a limit arose.
+  - **description:**: ideogrammic: 目 (mù, "eye") + 人 (rén, "person") → person looking back indicating disobedience or limit.
+  - **interpretation:**: Combines an eye and a person to depict someone looking back. The image suggests turning back or refusing to proceed, yielding senses of stop and limit; it also underlies the Gen trigram associated with stillness. Dialectal extensions like blunt or chewy reflect an unyielding, stiff quality.
   - **component characters:**
-    - 目 (mù, "eye")
-    - 人 (rén, "person")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E8%89%AE
 %%%
 
@@ -1901,6 +2016,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
+
 ## eye
 ### sub-component
 #### stopping
@@ -1922,6 +2038,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%9B%AE
 %%%
 
+
 ## metal
 ### sub-component
 #### silver; money
@@ -1931,36 +2048,34 @@
 - **pronunciation:**: jīn
 - **definition:**: metal
 - **contemporary usage:**
-  - 金发(髮) (jīn fà, "blond hair")
-  - 金表(錶) (jīn biǎo, "gold watch")
-  - 金钱(錢) (jīn qián, "currency")
+  - 金钱(錢) (jīnqián, "money")
+  - 金发(髮) (jīnfà, "blond hair")
+  - 金表 (jīnbiǎo, "gold watch")
 - **etymology (金):**
   - **type:**: phono-semantic compound
-  - **description:**: phono-semantic: semantic: 士 (shì, "ritual axe") + semantic: 丷 (bā, "two metal blocks") + phonetic: 亼 (jí, "open mouth") → 金.
-  - **interpretation:**: 士 (shì, "ritual axe") and 丷 (bā, "two metal blocks") evoke metal, while 亼 (jí, "open mouth") supplies the sound. The meaning broadened from copper to metals and then to gold.
+  - **description:**: semantic: 士 (shì, "ritual axe") + semantic: 丷 (bā, "two blocks of metal") + phonetic: 亼 (jí, "gather") → 金 (jīn, "metal; gold").
+  - **interpretation:**: The semantic parts 士 (shì, "ritual axe") and 丷 (bā, "two blocks of metal") point to metal objects and pieces, while 亼 (jí, "gather") supplies the sound for the whole character. This aligns with early use referring to copper, later generalized to metals and then specifically to gold, matching modern senses. An alternative Shuowen view interprets it as metal in earth with 亼 as phonetic, though early forms lack the earth element.
   - **component characters:**
-    - 士 (shì, "ritual axe")
-    - 丷 (bā, "two metal blocks")
-    - 亼 (jí, "open mouth")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%87%91
 %%%
 
-## two metal blocks
+## two blocks of metal
 ### sub-component
 #### metal
 ---
 - **traditional:**: 丷
 - **simplified:**: 丷
 - **pronunciation:**: bā / dào bā zì
-- **definition:**: two metal blocks
+- **definition:**: two blocks of metal
 - **contemporary usage:**
-  - None, not in contemporary use.
+  - None, not in contemporary use
 - **etymology (丷):**
-  - **type:**: ideogram
-  - **description:**: ideogram of 八 (bā, "eight").
-  - **interpretation:**: It shows two short strokes spreading apart like 八 (bā, "eight"). As a component, it is the inverted-slant form placed at the top.
+  - **type:**: pictogram
+  - **description:**: pictogram: depiction of two diverging strokes → component variant of 八 (bā, "eight").
+  - **interpretation:**: It depicts two strokes splaying apart and is simply the form taken when 八 appears as a top component. Its origin and meaning track that of 八, while serving purely as a positional variant in modern characters.
   - **component characters:**
-    - 八 (bā, "eight")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%B7
 %%%
 
@@ -1985,62 +2100,84 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
 
-## open mouth
+
+## gather
 ### sub-component
 #### metal
 ---
 - **traditional:**: 亼
 - **simplified:**: 亼
 - **pronunciation:**: 
-- **definition:**: open mouth
+- **definition:**: gather
 - **contemporary usage:**
   - None, not in contemporary use.
 - **etymology (亼):**
   - **type:**: ideogrammic compound
   - **description:**: ideogrammic: 入 (rù, "enter") + 一 (yī, "one").
-  - **interpretation:**: It combines 入 (rù, "enter") with 一 (yī, "one") to depict things entering and gathering to a single point or line.
+  - **interpretation:**: Combines 入 (rù, "enter") with 一 (yī, "one") to indicate things entering toward a single line or point, hence ‘gather’. An alternative view in the HTML notes an inverted 口 (kǒu, "mouth") and identifies it as the original form of 今 (jīn, "now"), but the gathering sense explains its connection with 集 in later characters.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BC
 %%%
 
+## one
+### sub-component
+#### gather
+---
+- **traditional:**: 一
+- **simplified:**: 一
+- **pronunciation:**: yī
+- **definition:**: one
+- **contemporary usage:**
+  - 一起 (yìqǐ, "together")
+  - 一共 (yígòng, "in total")
+  - 一样(樣) (yíyàng, "the same")
+- **etymology (一):**
+  - **type:**: ideogram
+  - **description:**: ideogram: horizontal stroke 一 (yī, "one") indicating the number "one".
+  - **interpretation:**: Depicts a single horizontal mark used to tally or denote one. The graphic directly expresses the quantity, so its meaning stayed literal and remains the basic numeral and a prefix meaning “one/whole” in modern usage.
+  - **component characters:**
+    - None, character is in atomic form
+  - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
+%%%
+
 ## enter
 ### sub-component
-#### open mouth
+#### gather
 ---
 - **traditional:**: 入
 - **simplified:**: 入
 - **pronunciation:**: rù
 - **definition:**: enter
 - **contemporary usage:**
-  - 入口 (rù kǒu, "entrance")
-  - 进(進)入 (jìn rù, "to enter")
-  - 入学(學) (rù xué, "enter school")
+  - 进(進)入 (jìn rù, "enter into")
+  - 入口 (rù kǒu, "entry point")
+  - 输(輸)入 (shū rù, "data input")
 - **etymology (入):**
   - **type:**: ideogram
-  - **description:**: ideogram of 入 (rù, "enter").
-  - **interpretation:**: The graph depicts an arrowhead pointing inward, representing the act of moving into a space.
+  - **description:**: ideogram: depiction of an arrowhead pointing inward to indicate entering.
+  - **interpretation:**: It depicts an arrowhead indicating inward movement, which directly expresses the action of entering. This directional sign was extended to cover general senses like physical entry, admission, and input in modern usage.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%A5
 %%%
 
-## ritual axe
+## upside-down ritual axe
 ### sub-component
 #### metal
 ---
 - **traditional:**: 士
 - **simplified:**: 士
 - **pronunciation:**: shì
-- **definition:**: ritual axe
+- **definition:**: upside-down ritual axe
 - **contemporary usage:**
-  - 士兵 (shìbīng, "enlisted soldier")
-  - 博士 (bóshì, "doctoral degree")
-  - 女士 (nǚshì, "honorific lady")
+  - 博士 (bó shì, "doctoral degree")
+  - 护(護)士 (hù shì, "medical nurse")
+  - 女士 (nǚ shì, "honorific for women")
 - **etymology (士):**
   - **type:**: pictogram
-  - **description:**: pictogram of ritual axe → semantic: 王 (wáng, "king"), 圭 (guī, "jade tablet"), and 金 (jīn, "metal") as ritual regalia → semantic: "soldier" → semantic: "officer, intellectual".
-  - **interpretation:**: Originally a drawing of a ritual war axe; the meaning shifted from warriors to officials and intellectuals. Its association with 王 (wáng, "king"), 圭 (guī, "jade tablet"), and 金 (jīn, "metal") reflects ceremonial regalia and prestige.
+  - **description:**: pictogram: depiction of a ritual war axe.
+  - **interpretation:**: It depicts a ritual war axe (held upside down). The meaning broadened from the weapon and its wielder to ‘soldier’, and later to ‘officer’ and ‘intellectual’; some sources also note links to 王 (wáng, "king"), 圭 (guī, "jade tablet"), and 金 (jīn, "metal"), suggesting a jade ceremonial axe.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A3%AB
@@ -2067,6 +2204,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%9C%AD
 %%%
 
+
 ## king
 ### sub-component
 #### ritual axe
@@ -2087,6 +2225,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B
 %%%
+
 
 ## one
 ### sub-component
@@ -2109,6 +2248,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
+
 ## earth
 ### sub-component
 #### king
@@ -2129,6 +2269,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%9C%9F
 %%%
+
 
 ## ten
 ### sub-component
@@ -2151,6 +2292,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8D%81
 %%%
 
+
 ## staff 'or' personnel
 ---
 - **traditional:**: 工作人員
@@ -2170,7 +2312,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%93%A1
   - **simplification rule (工作人员):**: 員 was simplified to 员 through component reduction, yielding the simplified form 工作人员.
 %%%
-
 
 ## work or labor; engineering or craft
 ### sub-word
@@ -2193,6 +2334,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%A5
 %%%
 
+
 ## to do or make; work of art
 ### sub-word
 #### staff 'or' personnel
@@ -2214,6 +2356,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BD%9C
 %%%
 
+
 ## person
 ### sub-word
 #### staff 'or' personnel
@@ -2234,6 +2377,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
+
 
 ## member or staff
 ### sub-word
@@ -2257,6 +2401,7 @@
   - **simplification rule (员):**: Component replacement: the 貝 component in 員 was simplified to 贝 under 口 to reduce strokes, yielding 员.
 %%%
 
+
 ## ding
 ### sub-component
 #### member or staff
@@ -2278,6 +2423,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%BC%8E
 %%%
 
+
 ## work; job
 ### sub-word
 #### staff 'or' personnel
@@ -2298,6 +2444,7 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%A5%E4%BD%9C
 %%%
+
 
 ## personnel; staff
 ### sub-word
@@ -2321,6 +2468,7 @@
   - **simplification rule (人员):**: Traditional 員 was simplified to 员 via component replacement and stroke reduction; 人 remained unchanged.
 %%%
 
+
 ## a thousand
 ---
 - **traditional:**: 千
@@ -2339,7 +2487,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8D%83
 %%%
-
 
 ## number 'or' figure; to count 'or' enumerate
 ---
@@ -2363,7 +2510,6 @@
   - **simplification rule (数):**: Simplified by replacing the phonetic component 婁 with its simplified form 娄 while retaining the semantic component 攵, reducing strokes and regularizing the graph.
 %%%
 
-
 ## # sub-component
 ### sub-component
 #### number 'or' figure; to count 'or' enumerate
@@ -2386,7 +2532,6 @@
   - **simplification rule (娄):**: Component replacement and stroke reduction: 婁 was simplified to 娄 by condensing the complex upper structure to 米 and retaining 女 below, reducing strokes for easier writing.
 %%%
 
-
 ## middle
 ### sub-component
 #### number 'or' figure; to count 'or' enumerate
@@ -2407,6 +2552,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%AD
 %%%
+
 
 ## woman
 ### sub-component
@@ -2429,6 +2575,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A5%B3
 %%%
 
+
 ## mother
 ### sub-component
 #### number 'or' figure; to count 'or' enumerate
@@ -2449,6 +2596,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%AF%8D
 %%%
+
 
 ## hands
 ### sub-component
@@ -2471,7 +2619,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%88%AA
 %%%
 
-
 ## horn
 ### sub-component
 #### number 'or' figure; to count 'or' enumerate
@@ -2492,6 +2639,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A7%92
 %%%
+
 
 ## # sub-component
 ### sub-component
@@ -2514,7 +2662,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A9%81
 %%%
 
-
 ## rap; action
 ### sub-component
 #### number 'or' figure; to count 'or' enumerate
@@ -2533,6 +2680,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%94%B4
 %%%
+
 
 ## tap
 ### sub-component
@@ -2553,6 +2701,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%94%B5
 %%%
 
+
 ## Wangfujing Street
 ---
 - **traditional:**: 王府井
@@ -2572,87 +2721,83 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B%E5%BA%9C%E4%BA%95
 %%%
 
-
-## line of business; firm
-### sub-word
-#### bank or financial institution
+## to go; OK
 ---
 - **traditional:**: 行
 - **simplified:**: 行
-- **pronunciation:**: háng
-- **definition:**: line of business; firm
+- **pronunciation:**: xíng
+- **definition:**: to go; OK
 - **contemporary usage:**
-  - 行业(業) (háng yè, "line of business")
-  - 银(銀)行 (yín háng, "a bank")
-  - 同行 (tóng háng, "industry peer")
+  - 行程 (xíng chéng, "itinerary")
+  - 行装(裝) (xíng zhuāng, "travel luggage")
+  - 行营(營) (xíng yíng, "field camp")
 - **etymology (行):**
   - **type:**: pictogram
-  - **description:**: pictogram of 行 (xíng, "street intersection") → semantic: 彳 (chì, "step") + 亍 (chù, "step").
-  - **interpretation:**: It originally depicted a crossroads. Later it was analyzed as 彳 (chì, "step") on the left and 亍 (chù, "step") on the right, suggesting movement along a path.
+  - **description:**: pictogram: depiction of a street intersection.
+  - **interpretation:**: It depicts a street intersection. From the image of crossing roads, the sense extended to moving or proceeding, hence modern meanings like “to go” and, by extension, “OK/feasible” when something can proceed. Some later analyses parse it as 彳 (chì, “step”) plus 亍 (chù, “step”), but this is retrospective rather than original.
   - **component characters:**
-    - 彳 (chì, "step")
-    - 亍 (chù, "step")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A1%8C
 %%%
 
-## step
+## 
 ### sub-component
-#### line of business; firm
+#### to go; OK
 ---
 - **traditional:**: 亍
 - **simplified:**: 亍
 - **pronunciation:**: chù
-- **definition:**: step
+- **definition:**: 
 - **contemporary usage:**
-  - 彳亍 (chì chù, "pace to and fro")
-  - 彳亍徘徊 (chì chù pái huái, "pace and hesitate")
-  - 彳亍而行 (chì chù ér xíng, "walk slowly")
+  - 彳亍 (chì chù, "to pace slowly")
+  - 亍道 (jiē dào, "urban subdistrict")
+  - 前亍 (qián jiē, "Front Street")
 - **etymology (亍):**
-  - **type:**: ideogrammic compound
-  - **description:**: ideogrammic: 一 (yī, "one") + 丁 (dīng, "nail") → semantic: 行 (xíng, "to walk") right-side.
-  - **interpretation:**: Combining 一 (yī, "one") and 丁 (dīng, "nail") forms the component that is the right side of 行 (xíng, "to walk"), evoking a slight halt or step. As a standalone graph it came to denote a small step or pacing.
+  - **type:**: ideogram
+  - **description:**: ideogram: right-half of 行 (xíng, "walk") representing a single step.
+  - **interpretation:**: 亍 is understood as the right-side element of 行, which denotes walking; isolating this half came to represent a single, tentative step. This aligns with senses like stepping with the right foot, taking small steps, or pausing briefly.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8D
 %%%
 
-## one
+## 
 ### sub-component
-#### step
+#### to go; OK
 ---
 - **traditional:**: 一
 - **simplified:**: 一
 - **pronunciation:**: yī
-- **definition:**: one
+- **definition:**: 
 - **contemporary usage:**
-  - 一起 (yì qǐ, "together")
-  - 一样(樣) (yí yàng, "the same")
-  - 一定 (yí dìng, "definitely")
+  - 一起 (yìqǐ, "together")
+  - 一定 (yídìng, "definitely")
+  - 一样(樣) (yíyàng, "the same")
 - **etymology (一):**
   - **type:**: ideogram
-  - **description:**: ideogram of 一 (yī, "one").
-  - **interpretation:**: A single horizontal stroke directly depicts the number one. It represents the concept visually without any phonetic element.
+  - **description:**: ideogram: horizontal stroke → numeral "one".
+  - **interpretation:**: A single horizontal stroke marks one unit, so it directly denotes the number one. The form is minimal and iconic, which helped it persist unchanged as the written numeral and morpheme in later scripts.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
-## nail
+## 
 ### sub-component
-#### step
+#### to go; OK
 ---
 - **traditional:**: 丁
 - **simplified:**: 丁
 - **pronunciation:**: 
-- **definition:**: nail
+- **definition:**: 
 - **contemporary usage:**
-  - 丁字路口 (dīng zì lù kǒu, "T-intersection")
-  - 丁字裤(褲) (dīng zì kù, "thong")
-  - 丁烷 (dīng wán, "butane")
+  - 丁字路口 (dīng zì lù kǒu, "T intersection")
+  - 丁克 (dīng kè, "DINK couple")
+  - 丁点(點)儿(兒) (dīng diǎn ér, "tiny bit")
 - **etymology (丁):**
-  - **type:**: ideogrammic compound
-  - **description:**: ideogrammic: 一 (yī, "one") + 亅 (jué, "hook").
-  - **interpretation:**: A horizontal line 一 (yī, "one") and a downward hook 亅 (jué, "hook") combine to depict a T-shaped spike; the simple shape became the character.
+  - **type:**: pictogram
+  - **description:**: pictogram: depiction of a nail or spike with head 一 (yī, "one") and shank 亅 (jué, "hook").
+  - **interpretation:**: It depicts a nail or spike with a flat head and a shaft. The form later served as the name of the fourth Heavenly Stem and, by extension, appears in modern compounds for T-shaped things such as 丁字 (dīng zì, "T-shape").
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%81
@@ -2660,7 +2805,7 @@
 
 ## hook
 ### sub-component
-#### nail
+#### to go; OK
 ---
 - **traditional:**: 亅
 - **simplified:**: 亅
@@ -2670,29 +2815,29 @@
   - None, not in contemporary use.
 - **etymology (亅):**
   - **type:**: pictogram
-  - **description:**: pictogram of 亅 (jué, "hook").
-  - **interpretation:**: It depicts a simple hook shape. The form was later standardized as the radical representing a hooked stroke.
+  - **description:**: pictogram: depiction of a hook.
+  - **interpretation:**: Depicts a hook, matching the radical’s name and basic meaning. Historically described as a backward hook, it functions primarily as a radical indicating a hooked form rather than as an independent word today.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%85
 %%%
 
-## step
+## 
 ### sub-component
-#### line of business; firm
+#### to go; OK
 ---
 - **traditional:**: 彳
 - **simplified:**: 彳
 - **pronunciation:**: chì
-- **definition:**: step
+- **definition:**: 
 - **contemporary usage:**
-  - 彳亍 (chì chù, "amble about")
-  - 彳亍而行 (chì chù ér xíng, "amble along")
-  - 彳亍不前 (chì chù bù qián, "hesitate to advance")
+  - 彳亍 (chìchù, "walk slowly")
+  - 彳亍之间(間) (chìchù zhījiān, "amid wandering")
+  - 彳亍而行 (chìchù ér xíng, "walk slowly")
 - **etymology (彳):**
   - **type:**: pictogram
-  - **description:**: pictogram of 行 (xíng, "intersection").
-  - **interpretation:**: It depicts a street intersection seen from above. This visual led to the sense of stepping and slow movement, used as a radical in motion-related characters.
+  - **description:**: pictogram: depiction of a street intersection seen from above → semantic: 行 (xíng, "to walk") left-side component extracted and used independently.
+  - **interpretation:**: It depicts a street intersection viewed from above, evoking movement along paths. The left-side component of 行 (to walk) was abstracted to mark stepping or movement and later standardized as an independent form meaning slow or hesitant steps.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BD%B3
@@ -2719,6 +2864,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B
 %%%
 
+
 ## government office; residence or mansion
 ### sub-word
 #### Wangfujing Street
@@ -2739,6 +2885,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BA%9C
 %%%
+
 
 ## pay
 ### sub-component
@@ -2762,6 +2909,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BB%98
 %%%
 
+
 ## person
 ### sub-component
 #### pay
@@ -2780,6 +2928,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BB
 %%%
+
 
 ## hand
 ### sub-component
@@ -2801,6 +2950,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AF%B8
 %%%
+
 
 ## # sub-component
 ### sub-component
@@ -2824,7 +2974,6 @@
   - **simplification rule (广):**: The traditional form 廣 was simplified by deleting the phonetic component 黃 and retaining only the semantic radical 广, greatly reducing strokes.
 %%%
 
-
 ## well
 ### sub-word
 #### Wangfujing Street
@@ -2845,6 +2994,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%95
 %%%
+
 
 ## prince’s residence
 ### sub-word
@@ -2867,6 +3017,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B%E5%BA%9C
 %%%
 
+
 ## Xi'an City
 ---
 - **traditional:**: 西安
@@ -2885,7 +3036,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A5%BF%E5%AE%89
 %%%
-
 
 ## west
 ### sub-word
@@ -2907,6 +3057,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A5%BF
 %%%
+
 
 ## peace; safe
 ### sub-word
@@ -2930,6 +3081,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AE%89
 %%%
 
+
 ## kneeling woman
 ### sub-component
 #### peace; safe
@@ -2950,6 +3102,7 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A5%B3
 %%%
+
 
 ## house
 ### sub-component
@@ -2972,6 +3125,7 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AE%80
 %%%
 
+
 ## few 'or' little; young 'or' youthful
 ---
 - **traditional:**: 少
@@ -2991,7 +3145,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%91
 %%%
 
-
 ## small
 ### sub-component
 #### few 'or' little; young 'or' youthful
@@ -3001,13 +3154,13 @@
 - **pronunciation:**: xiǎo
 - **definition:**: small
 - **contemporary usage:**
-  - 小学(學) (xiǎoxué, "primary school")
-  - 小孩 (xiǎohái, "young child")
-  - 小猫(貓) (xiǎomāo, "young cat")
+  - 小孩 (xiǎohái, "child")
+  - 小狗 (xiǎogǒu, "puppy")
+  - 小猫(貓) (xiǎomāo, "kitten")
 - **etymology (小):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of three granules of sand → small.
-  - **interpretation:**: It depicts three granules of sand, and by extension came to mean "small" in general because grains are tiny. Some sources also interpret it as an ideogram of three small dots; Shuowen later misclassified elongated bronze forms as an ideogrammic compound, but this is considered erroneous.
+  - **description:**: pictogram: depiction of three granules of 沙 (shā, "sand") → meaning "small".
+  - **interpretation:**: It depicts three granules of 沙 (shā, "sand"), highlighting minuteness. This pictorial origin yielded the meaning "small"; some sources alternatively view it as an ideogram of three dots, and Shuowen’s later ideogrammic-compound analysis is considered erroneous.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%8F
@@ -3033,50 +3186,45 @@
   - **simplification rule (排队):**: 队 is the simplified form of 隊, created by reducing strokes and regularizing components under the 阝 radical series; the complex right-side element of 隊 was replaced with a simpler form.
 %%%
 
-
 ## to line up; arrange
-### sub-word
-#### line up 'or' queue
 ---
 - **traditional:**: 排
 - **simplified:**: 排
 - **pronunciation:**: pái
 - **definition:**: to line up; arrange
 - **contemporary usage:**
+  - 排球 (páiqiú, "volleyball sport")
   - 并(並)排 (bìngpái, "side by side")
   - 彩排 (cǎipái, "dress rehearsal")
-  - 排球 (páiqiú, "volleyball")
 - **etymology (排):**
   - **type:**: phono-semantic compound
-  - **description:**: semantic: 扌 (shǒu, "hand") + phonetic: 非 (fēi, "not") → 排.
-  - **interpretation:**: 扌 serves as the semantic determinative, indicating a hand-related action of arranging or lining up, while 非 provides the phonetic cue for the reading pái. The hand semantic matches modern senses like ordering and lining up, yielding the idea of placing things in line. A comparative note in the entry links the verb to a Proto‑Tibeto‑Burman root meaning ‘to throw’, but this concerns lexical history rather than graphic formation.
+  - **description:**: phono-semantic: semantic: 扌 (shǒu, "hand") + phonetic: 非 (fēi, "not") → 排 (pái, "to place in line").
+  - **interpretation:**: 扌 serves as the semantic determinative indicating a hand-related action, fitting senses like arranging or pushing into order. 非 provides the phonetic value (OC *pɯl, in the 非 series), yielding the modern reading pái while the meaning specializes to "to place in line" and extends to related actions such as rejecting or expelling.
   - **component characters:**
-    - 扌 (shǒu, "hand")
-    - 非 (fēi, "not")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%8E%92
 %%%
 
-## # sub-component
+## 
 ### sub-component
 #### to line up; arrange
 ---
 - **traditional:**: 手
 - **simplified:**: 手
 - **pronunciation:**: shǒu
-- **definition:**: # sub-component
+- **definition:**: 
 - **contemporary usage:**
   - 手机(機) (shǒujī, "mobile phone")
   - 手册(冊) (shǒucè, "handbook")
   - 手指 (shǒuzhǐ, "finger")
 - **etymology (手):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of a human hand with five fingers (top stroke as bent middle finger; horizontals as pairs of fingers) → 手 (shǒu, "hand").
-  - **interpretation:**: It depicts a human hand: the top stroke is the bent middle finger and the horizontal strokes represent pairs of fingers. The graph has consistently shown five fingers, which directly yields the modern meaning “hand.”
+  - **description:**: pictogram of 手 (shǒu, "hand").
+  - **interpretation:**: Depicts a human hand with five fingers; the top stroke is a bent middle finger and the two horizontal strokes represent pairs of fingers. As a direct drawing of a hand, it straightforwardly came to mean the human hand in modern usage.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%89%8B
 %%%
-
 
 ## not
 ### sub-component
@@ -3087,44 +3235,40 @@
 - **pronunciation:**: fēi
 - **definition:**: not
 - **contemporary usage:**
-  - 非常 (fēicháng, "very")
-  - 非法 (fēifǎ, "illegal")
-  - 非洲 (fēizhōu, "Africa")
+  - 非常 (fēicháng, "very; extremely")
+  - 非法 (fēifǎ, "against the law")
+  - 非得 (fēi děi, "have to")
 - **etymology (非):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of two wings facing opposite directions → semantic: 违(違) (wéi, "disobey") → phonetic loan to mean "not to be".
-  - **interpretation:**: It depicts a pair of wings set in opposite directions, originally meaning wings. Xu Shen interpreted it with the sense 违(違) (wéi, “disobey”). It later came to be used, perhaps as a phonetic loan, for the negative sense “not; is not”.
+  - **description:**: pictogram of 翅 (chì, "wing") → semantic: 违(違) (wéi, "leave; disobey") → phonetic: 不 (bù, "not") + 惟 (wéi, "to be").
+  - **interpretation:**: Depicts two wings facing opposite directions. It first meant "wings", then (per Xu Shen) extended to 违(違) (wéi, "leave; disobey"). Later it was used as a phonetic loan for the fused phrase 不 (bù, "not") + 惟 (wéi, "to be") meaning "is not", which underlies the modern negative sense and its use as a negative prefix.
   - **component characters:**
-    - 违(違) (wéi, "disobey")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9D%9E
 %%%
 
-## # sub-component
+## 
 ### sub-component
 #### not
 ---
-- **traditional:**: 違
+- **traditional:**: 违
 - **simplified:**: 违
 - **pronunciation:**: wéi
-- **definition:**: # sub-component
+- **definition:**: 
 - **contemporary usage:**
-  - 违(違)规(規) (wéiguī, "violate regulations")
-  - 违(違)反 (wéifǎn, "violate law")
-  - 违(違)宪(憲) (wéixiàn, "be unconstitutional")
-- **etymology (違):**
+  - 违(違)规(規) (wéi guī, "rule violation")
+  - 违(違)反 (wéi fǎn, "violate rules")
+  - 违(違)宪(憲) (wéi xiàn, "unconstitutional act")
+- **etymology (违):**
   - **type:**: phono-semantic compound
-  - **description:**: semantic: 辶 (chuò, "walk") + phonetic: 韦(韋) (wéi, "tanned leather") → phono-semantic compound.
-  - **interpretation:**: Formed with 辶 as the semantic determinative for movement or a path, and 韦 as the phonetic element giving the reading wéi. The movement/path sense motivates meanings like ‘to go, depart’ and extends to ‘to go against/violate’ established paths, rules, or orders.
+  - **description:**: semantic: 辶 (chuò, "walk") + phonetic: 韦(韋) (wéi, "tanned leather").
+  - **interpretation:**: This is a phono-semantic compound with 辶 as the semantic determinative indicating movement or going, fitting the idea of deviating or going against. 韦(韋) supplies the sound wéi while not contributing meaning; the combination yields the sense of ‘to go against/violate’, which matches modern legal and rule-related usages.
   - **component characters:**
     - None, character is in atomic form
-  - **reference:**: https://en.wiktionary.org/wiki/%E9%81%95
-  - **simplification rule (违):**: Simplified by replacing the component 韋 with its simplified form 韦, reducing strokes while keeping 辶 unchanged.
+  - **reference:**: https://en.wiktionary.org/wiki/%E8%BF%9D
 %%%
 
-
 ## team; line
-### sub-word
-#### line up 'or' queue
 ---
 - **traditional:**: 隊
 - **simplified:**: 队
@@ -3133,34 +3277,31 @@
 - **contemporary usage:**
   - 乐(樂)队(隊) (yuèduì, "band")
   - 军(軍)队(隊) (jūnduì, "army")
-  - 排队(隊) (páiduì, "line up")
+  - 团(團)队(隊) (tuánduì, "team")
 - **etymology (隊):**
-  - **type:**: phono-semantic compound → ideogrammic compound
-  - **description:**: phono-semantic: semantic 阜 (fù, "mound") + phonetic 㒸 (suì, "phonetic") → ideogrammic: 阝 (fù, "mound") + 人 (rén, "people").
-  - **interpretation:**: Traditional 隊 was formed with 阜 as the semantic determinative and 㒸 as the phonetic, yielding the reading duì for a troop or team. In simplification, the complex phonetic 㒸 was replaced by 人, making an ideogrammic form 阝 + 人 that visually conveys “many people,” aligning with the modern senses ‘team’ and ‘line’.
+  - **type:**: ideogrammic compound
+  - **description:**: ideogrammic: 阜 (fù, "many") + 人 (rén, "people").
+  - **interpretation:**: As a simplified form, 队 combines 阜 (fù, "many") with 人 (rén, "people") to express “many people together,” matching the senses ‘team’ and ‘line’. The traditional form was phono-semantic, but the simplified graph makes the meaning transparent as a semantic compound.
   - **component characters:**
-    - 阜 (fù, "mound")
-    - 㒸 (suì, "phonetic")
-    - 阝 (fù, "mound")
-    - 人 (rén, "person")
+    - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9A%8A
-  - **simplification rule (队):**: The traditional right-side phonetic 㒸 was replaced by the simpler 人, retaining the 阝 radical and reducing strokes while recasting the character as an ideogrammic form.
+  - **simplification rule (队):**: Component replacement and stroke reduction: the traditional form was simplified by replacing the phonetic component with 人 and regularizing 阜 to its abbreviated 阝, yielding a lower-stroke ideogrammic form.
 %%%
 
-## phonetic
+## 
 ### sub-component
 #### team; line
 ---
 - **traditional:**: 㒸
 - **simplified:**: 㒸
 - **pronunciation:**: suì
-- **definition:**: phonetic
+- **definition:**: 
 - **contemporary usage:**
   - None, not in contemporary use.
 - **etymology (㒸):**
   - **type:**: phono-semantic compound
-  - **description:**: semantic: 丷 (bā, "divide") + phonetic: 豕 (shǐ, "pig").
-  - **interpretation:**: The top 丷 acts as a semantic indicator meaning ‘divide’, while 豕 provides the phonetic value (noted in Old Chinese). The semantic link to the original sense ‘comply; follow along’ is stated as unclear, and the graph was later used as an ancient form of 歲 ‘year’.
+  - **description:**: phono-semantic: semantic: 丷 (bā, "eight") + phonetic: 豕 (shǐ, "pig").
+  - **interpretation:**: The top element 丷 serves as the semantic determinative, while 豕 provides the sound suì. The source notes that how “divide” from 丷 relates to the original sense “comply, follow along” is unclear, so the semantic component is likely classificatory rather than literal.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E3%92%B8
@@ -3175,34 +3316,34 @@
 - **pronunciation:**: 
 - **definition:**: people
 - **contemporary usage:**
-  - 人民 (rén mín, "the people")
-  - 人类(類) (rén lèi, "human species")
-  - 人们(們) (rén men, "ordinary people")
+  - 人民 (rénmín, "the people")
+  - 人口 (rénkǒu, "population size")
+  - 人权(權) (rénquán, "human rights")
 - **etymology (人):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of 人 (rén, "person").
-  - **interpretation:**: It depicts a standing human figure with legs apart. This concrete image directly conveys the meaning ‘person’, which remains the character’s core sense in modern usage.
+  - **description:**: pictogram of 人 (rén, "person").
+  - **interpretation:**: It depicts a standing human figure with two legs. The graph kept this concrete sense and thus means "person; people" in modern usage, and serves as a general human-related determinant in many characters.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-## mound
+## many
 ### sub-component
 #### team; line
 ---
 - **traditional:**: 阜
 - **simplified:**: 阜
 - **pronunciation:**: fù
-- **definition:**: mound
+- **definition:**: many
 - **contemporary usage:**
+  - 物阜民丰(豐) (wù fù mín fēng, "abundance and peace")
   - 阜阳(陽) (fù yáng, "Fuyang city")
   - 曲阜 (qū fù, "Qufu city")
-  - 阴(陰)阜 (yīn fù, "mons pubis")
 - **etymology (阜):**
   - **type:**: pictogram
-  - **description:**: pictogram: depiction of a stepped hill.
-  - **interpretation:**: It depicts a hillside with steps or terraces. This directly yielded the meaning 'mound; hill', and later extended in set phrases to 'abundant' (e.g., goods piled high), which persists in literary usage.
+  - **description:**: pictogram: depiction of a stepped earthen mound or hill.
+  - **interpretation:**: Depicts a row of steps on a hill, representing a terraced mound. This concrete image yielded the literary sense 'mound' and, by extension to things being plentifully heaped up, the sense 'abundant, rich'.
   - **component characters:**
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%98%9C

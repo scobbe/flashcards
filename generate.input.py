@@ -146,6 +146,13 @@ def find_raw_input_files(root: Path) -> List[Path]:
     ]
 
 
+def find_raw_grammar_files(root: Path) -> List[Path]:
+    # Grammar input format: -input.raw.grammar.txt
+    return [
+        Path(p) for p in sorted(root.rglob("-input.raw.grammar.txt")) if Path(p).is_file()
+    ]
+
+
 def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List[Tuple[str, str, str, str]]:
     # Ask OpenAI to map each word to simplified/traditional plus a short English definition.
     client = OpenAIClient(model=model)
@@ -194,6 +201,54 @@ def call_openai_forms_for_words(words: Sequence[str], model: str | None) -> List
     if len(triples) != len(words):
         triples = [(w, w, "", "") for w in words]
     return triples
+def call_openai_for_grammar(text: str, model: str | None) -> List[Dict[str, object]]:
+    """
+    Extract grammar rules from free-form notes.
+    Output: list of {description: str, usage_cn: str, examples: [str, ...]}
+    """
+    client = OpenAIClient(model=model)
+    system = (
+        "You extract concise Chinese grammar rules from study notes. "
+        "Return ONLY JSON: {\"rules\":[{\"description\":string,\"usage_cn\":string,\"examples\":[string,...]}]} . "
+        "Examples should be short, max 5 items total across each rule."
+    )
+    user = "Extract grammar rules from:\n\n" + text
+    data = client.complete_json(system=system, user=user)
+    rules = data.get("rules") if isinstance(data, dict) else None
+    if not isinstance(rules, list):
+        return []
+    out: List[Dict[str, object]] = []
+    for r in rules:
+        if not isinstance(r, dict):
+            continue
+        desc = str(r.get("description", "")).strip()
+        usage = str(r.get("usage_cn", "")).strip()
+        ex_raw = r.get("examples", [])
+        examples: List[str] = []
+        if isinstance(ex_raw, list):
+            for it in ex_raw:
+                s = str(it).strip()
+                if s:
+                    examples.append(s)
+        if desc:
+            out.append({"description": desc, "usage_cn": usage, "examples": examples})
+    return out
+
+
+def write_parsed_grammar_csv(raw_path: Path, rules: List[Dict[str, object]], verbose: bool = False) -> Path:
+    import csv, json as _json
+    out_path = raw_path.with_name("-input.parsed.grammar.csv")
+    with out_path.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        for r in rules:
+            desc = str(r.get("description", ""))
+            usage = str(r.get("usage_cn", ""))
+            ex = r.get("examples", [])
+            ex_json = _json.dumps(ex, ensure_ascii=False) if isinstance(ex, list) else "[]"
+            w.writerow([desc, usage, ex_json])
+    if verbose:
+        print(f"[ok] Wrote {out_path} ({len(rules)} rules)")
+    return out_path
 
 
 def call_openai_subwords_for_words(
@@ -407,9 +462,11 @@ def main(argv: List[str] | None = None) -> int:
         return 2
 
     raw_files = find_raw_input_files(root)
+    grammar_files = find_raw_grammar_files(root)
     if args.verbose:
         print(f"[info] Found {len(raw_files)} -input.raw.txt file(s) under {root}")
-    if not raw_files:
+        print(f"[info] Found {len(grammar_files)} -input.raw.grammar.txt file(s) under {root}")
+    if not raw_files and not grammar_files:
         return 0
 
     total_items = 0
@@ -442,6 +499,29 @@ def main(argv: List[str] | None = None) -> int:
                 items = []
         total_items += len(items)
         total_items += len(items)
+
+    # Process grammar files
+    for gpath in grammar_files:
+        gcache_path = gpath.with_name("-input.grammar.cache.json")
+        parsed_path = gpath.with_name("-input.parsed.grammar.csv")
+        current_hash = _sha256_file(gpath)
+        cache = _read_cache(gcache_path)
+        cached_hash = cache.get("raw_sha256", "")
+        need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
+        if need_regen:
+            if args.verbose:
+                reason = "hash changed" if current_hash != cached_hash else "parsed missing"
+                print(f"[info] Regenerating parsed grammar CSV for {gpath.name} ({reason})")
+            text = gpath.read_text(encoding="utf-8", errors="ignore")
+            try:
+                rules = call_openai_for_grammar(text, model=args.model)
+            except Exception:
+                rules = []
+            write_parsed_grammar_csv(gpath, rules, verbose=args.verbose)
+            _write_cache(gcache_path, current_hash, parsed_path.name)
+        else:
+            if args.verbose:
+                print(f"[skip] Up-to-date grammar: {gpath.name}")
 
     if args.verbose:
         print(f"[done] Total items written: {total_items}")

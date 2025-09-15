@@ -81,6 +81,37 @@ def _extract_english_heading(md_text: str) -> str:
 
 # Global lock to serialize writes to the global cache (-output.cache.json)
 GLOBAL_CACHE_LOCK = threading.Lock()
+_LOG_ROOT: Optional[Path] = None
+_REPO_ROOT: Path = Path(__file__).parent.resolve()
+_THREAD_IDX_LOCK = threading.Lock()
+_THREAD_IDX_MAP: Dict[int, int] = {}
+_THREAD_IDX_NEXT = 0
+# Thread-local log context (e.g., folder path)
+_LOG_CTX = threading.local()
+
+def set_thread_log_context(folder_path: str) -> None:
+    try:
+        folder_str = folder_path
+        try:
+            resolved = Path(folder_path).resolve()
+            if _LOG_ROOT is not None:
+                try:
+                    rel = resolved.relative_to(_LOG_ROOT.resolve())
+                    folder_str = str(rel)
+                except Exception:
+                    pass
+            # If we ended up with '.' or empty, fall back to repo-relative path
+            if folder_str in (".", ""):
+                try:
+                    repo_rel = resolved.relative_to(_REPO_ROOT)
+                    folder_str = str(repo_rel)
+                except Exception:
+                    folder_str = str(resolved)
+        except Exception:
+            pass
+        _LOG_CTX.folder = folder_str
+    except Exception:
+        pass
 
 def _set_head_md_hash_threadsafe(out_dir: Path, file_base: str, md_hash: str) -> None:
     with GLOBAL_CACHE_LOCK:
@@ -124,19 +155,70 @@ class _ThreadPrefixedWriter:
     def write(self, s: str) -> int:
         if not isinstance(s, str):
             return 0
+        # If this is just a newline from print's second write, don't prefix
+        if s == "\n":
+            with self._lock:
+                try:
+                    self._wrapped.write("\n")
+                    self._wrapped.flush()
+                except Exception:
+                    pass
+            return 1
         tid = threading.get_ident()
-        prefix = f"[t{tid}] "
+        # Map OS thread id to small stable index t00..t24 etc.
+        with _THREAD_IDX_LOCK:
+            idx = _THREAD_IDX_MAP.get(tid)
+            if idx is None:
+                global _THREAD_IDX_NEXT
+                idx = _THREAD_IDX_NEXT
+                _THREAD_IDX_MAP[tid] = idx
+                _THREAD_IDX_NEXT = (_THREAD_IDX_NEXT + 1) % 100
+        short_tid = f"t{idx:02d}"
+        try:
+            folder = getattr(_LOG_CTX, 'folder', '')
+        except Exception:
+            folder = ''
+        folder_tag = f"[{folder}] " if folder else "[.] "
+        prefix = f"[{short_tid}] {folder_tag}"
+        # Simple emoji mapping for status tags
+        def _emoji_for(line: str) -> str:
+            try:
+                if not line.startswith("["):
+                    return ""
+                end = line.find("]")
+                if end == -1:
+                    return ""
+                tag = line[1:end]
+            except Exception:
+                return ""
+            mapping = {
+                "check": "🧪",
+                "check-child": "🔍",
+                "ok": "✅",
+                "regen": "♻️",
+                "mismatch": "⚠️",
+                "skip": "⏭️",
+                "info": "ℹ️",
+                "warn": "⚠️",
+                "error": "❌",
+                "done": "🏁",
+                "api": "🤖",
+                "debug": "🐞",
+                "cancelled": "🛑",
+            }
+            return mapping.get(tag, "")
         with self._lock:
-            # Split lines to avoid prefixing partial fragments excessively
+            # Split lines and prefix only actual content lines
             parts = s.split("\n")
             for i, part in enumerate(parts):
                 if part == "" and i == len(parts) - 1:
-                    # trailing newline case: just write newline
+                    # Ignore trailing empty fragment (print will send a separate \n)
+                    continue
+                emoji = _emoji_for(part)
+                spacer = (emoji + " ") if emoji else ""
+                self._wrapped.write(prefix + spacer + part)
+                if i < len(parts) - 1:
                     self._wrapped.write("\n")
-                else:
-                    self._wrapped.write(prefix + part)
-                    if i < len(parts) - 1:
-                        self._wrapped.write("\n")
             try:
                 self._wrapped.flush()
             except Exception:
@@ -283,6 +365,8 @@ def _clean_value(text: str) -> str:
 
 
 def is_cjk_char(ch: str) -> bool:
+    if ch == "〇":
+        return True
     code = ord(ch)
     if 0x3400 <= code <= 0x9FFF:
         return True
@@ -387,6 +471,12 @@ def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
             desc = et.get("description") if isinstance(et.get("description"), str) else ""
             english_map = _parse_component_english_map(str(desc))
             for ch in english_map.keys():
+                if len(ch) == 1 and is_cjk_char(ch):
+                    mapped = _map_radical_variant_to_primary(ch)
+                    if mapped not in comps:
+                        comps.append(mapped)
+            # Also include every CJK character appearing anywhere in description
+            for ch in str(desc):
                 if len(ch) == 1 and is_cjk_char(ch):
                     mapped = _map_radical_variant_to_primary(ch)
                     if mapped not in comps:
@@ -837,6 +927,61 @@ def write_headword_cache(out_dir: Path, file_base: str) -> None:
     cache_path.write_text(json.dumps({"files": mapping}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def rebuild_caches_for_folder(folder: Path, verbose: bool = False) -> None:
+    """Recompute caches to match on-disk files for ALL levels in this folder.
+
+    - Global cache: top-level heads (N.<word>) md hash
+    - Per-head caches: for every parent base that exists on disk, set its immediate children and hashes
+    """
+    md_files = [p for p in sorted(folder.glob("*.md")) if p.name != "-output.md"]
+    stems = [p.stem for p in md_files]
+    stems_set = set(stems)
+
+    # Identify top-level heads N.<word> with no extra dots
+    heads: List[str] = []
+    for st in stems:
+        if '.' in st:
+            idx, rest = st.split('.', 1)
+            if idx.isdigit() and ('.' not in rest):
+                heads.append(st)
+
+    # Build mapping: parent_base -> sorted immediate children bases
+    parent_to_children: Dict[str, List[str]] = {}
+    for st in stems:
+        # For each stem, add it as a child of its immediate parent (if any)
+        if '.' not in st:
+            continue
+        parent = st.rsplit('.', 1)[0]
+        parent_to_children.setdefault(parent, [])
+    # Now fill children lists for each known parent by scanning stems
+    for parent in list(parent_to_children.keys()):
+        prefix = parent + '.'
+        children: List[str] = []
+        for st in stems:
+            if st.startswith(prefix):
+                tail = st[len(prefix):]
+                if tail and ('.' not in tail):
+                    children.append(st)
+        parent_to_children[parent] = sorted(children)
+
+    # Update global cache for heads
+    gcache = load_global_cache(folder)
+    ensure_words_initialized(gcache, heads)
+    for base in heads:
+        md_path = folder / f"{base}.md"
+        if md_path.exists():
+            set_word_md_hash(gcache, base, _sha256_file(md_path))
+    save_global_cache(folder, gcache)
+
+    # Update per-head caches for every parent we discovered (all levels)
+    for parent, children in parent_to_children.items():
+        init_head_children(folder, parent, children)
+        for child in children:
+            cpath = folder / f"{child}.md"
+            if cpath.exists():
+                update_head_child_hash(folder, parent, child, _sha256_file(cpath))
+
+
 def verify_headword_cache(out_dir: Path, file_base: str, verbose: bool = False) -> None:
     # Deprecated destructive verify; kept for compatibility (no-op)
     return
@@ -947,6 +1092,16 @@ def update_head_child_hash(out_dir: Path, base: str, child_base: str, md_hash: s
     save_head_cache(out_dir, base, cache)
 
 
+def remove_head_child(out_dir: Path, base: str, child_base: str) -> None:
+    cache = load_head_cache(out_dir, base)
+    children = cache.get("children") if isinstance(cache, dict) else None
+    if not isinstance(children, list):
+        children = []
+    children = [c for c in children if not (isinstance(c, dict) and c.get("base") == child_base)]
+    cache["children"] = children
+    save_head_cache(out_dir, base, cache)
+
+
 def first_invalid_cached_name(out_dir: Path, file_base: str) -> Optional[str]:
     cache = load_global_cache(out_dir)
     entry = _find_word_entry(cache, file_base)
@@ -1023,9 +1178,12 @@ def first_invalid_cached_name_recursive(out_dir: Path, top_base: str, *, verbose
                 continue
             child_md = out_dir / f"{cb}.md"
             if not child_md.exists():
+                # Instead of regenerating missing children, drop them from the cache
                 if verbose:
                     print(f"[mismatch] missing: {cb}.md")
-                return f"{cb}.md"
+                remove_head_child(out_dir, parent, cb)
+                # Continue DFS without forcing regeneration
+                continue
             actual = _sha256_file(child_md)
             if not isinstance(chash, str) or not chash or actual != chash:
                 if verbose:
@@ -1266,6 +1424,25 @@ def write_simple_card_md(
                     max_items = None
                 if isinstance(max_items, int) and max_items > 0:
                     items = items[:max_items]
+                # If this is component_characters and items is empty but description exists,
+                # synthesize items from all CJK characters in etymology.description
+                try:
+                    fk = _field_name_to_key(field.name)
+                except Exception:
+                    fk = ""
+                if fk == "component_characters" and not items:
+                    try:
+                        et = back_fields.get("etymology") if isinstance(back_fields, dict) else None
+                        desc_any = et.get("description") if isinstance(et, dict) else ""
+                        synthesized: List[str] = []
+                        for ch in str(desc_any):
+                            if len(ch) == 1 and is_cjk_char(ch):
+                                mapped = _map_radical_variant_to_primary(ch)
+                                if mapped not in synthesized:
+                                    synthesized.append(mapped)
+                        items = synthesized
+                    except Exception:
+                        pass
                 # Always print the header line for sublists
                 parts.append(f"{pad}- **{label}:**")
                 if items:
@@ -1274,10 +1451,6 @@ def write_simple_card_md(
                 else:
                     fallback = getattr(field, "empty_fallback", None) or ""
                     # Special-case: for component characters, use a different fallback for multi-character headwords
-                    try:
-                        fk = _field_name_to_key(field.name)
-                    except Exception:
-                        fk = ""
                     if fk == "component_characters":
                         simp_len = len((ctx.get("simplified") or ""))
                         trad_len = len((ctx.get("traditional") or ""))
@@ -1306,6 +1479,68 @@ def write_simple_card_md(
     return md_path
 
 
+def render_grammar_folder_cards(folder: Path, verbose: bool = False) -> int:
+    import csv, json as _json
+    path = folder / "-input.parsed.grammar.csv"
+    if not path.exists():
+        return 0
+    written = 0
+    with path.open("r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for idx, row in enumerate(reader, start=1):
+            try:
+                desc = (row[0] if len(row) > 0 else "").strip()
+                usage_cn = (row[1] if len(row) > 1 else "").strip()
+                ex_json = (row[2] if len(row) > 2 else "[]").strip()
+                try:
+                    examples = _json.loads(ex_json)
+                except Exception:
+                    examples = []
+                if not isinstance(examples, list):
+                    examples = []
+            except Exception:
+                continue
+            if not desc:
+                continue
+            base = f"G{idx}.grammar"
+            md_path = folder / f"{base}.md"
+            parts: List[str] = []
+            parts.append(f"## {desc}")
+            parts.append(f"### grammar rule")
+            parts.append("---")
+            parts.append(f"- **description:**: {desc}")
+            parts.append(f"- **usage in Chinese:**: {usage_cn}")
+            parts.append(f"- **examples:**")
+            for ex in examples:
+                parts.append(f"  - {str(ex)}")
+            parts.append("%%%")
+            content = "\n".join(parts) + "\n"
+            md_path.write_text(content, encoding="utf-8")
+            written += 1
+            if verbose:
+                print(f"[ok] Grammar card: {md_path.name}")
+    # Append to -output.md
+    try:
+        output_md = folder / "-output.md"
+        md_files = [p for p in sorted(folder.glob("*.md")) if p.name != "-output.md"]
+        parts2: List[str] = []
+        for p in md_files:
+            try:
+                parts2.append(p.read_text(encoding="utf-8", errors="ignore"))
+            except Exception:
+                continue
+        output_md.write_text("\n\n".join(parts2) + ("\n" if parts2 else ""), encoding="utf-8")
+        if verbose:
+            print(f"[ok] Wrote {output_md.name} ({len(parts2)} files)")
+    except Exception:
+        pass
+    return written
+
+
+def render_grammar_folder(folder: Path, verbose: bool = False) -> None:
+    render_grammar_folder_cards(folder, verbose=verbose)
+
+
 def _process_single_row(
     folder: Path,
     idx: int,
@@ -1327,6 +1562,8 @@ def _process_single_row(
     md_path = out_dir / f"{file_base}.md"
     successes_local = 0
     if md_path.exists():
+        # Before validation, set log context for this thread
+        set_thread_log_context(str(folder))
         if verbose:
             print(f"[check] Validating subtree: {file_base}")
         repair_iter = 0
@@ -1338,6 +1575,26 @@ def _process_single_row(
                 break
             if verbose:
                 print(f"[regen] Rebuilding: {bad}")
+            # Defensive: if regeneration target is the head md and only hash mismatch, update cache instead
+            if bad == f"{file_base}.md" and md_path.exists():
+                # Update global cache hash to current file without re-generating
+                _set_head_md_hash_threadsafe(out_dir, file_base, _sha256_file(md_path))
+                # Re-check after updating hash
+                repair_iter += 1
+                if repair_iter > 200:
+                    raise RuntimeError(f"repair loop exceeded limit for {file_base}")
+                continue
+            # If the target is an immediate or nested child and the file exists, update the parent's child hash
+            if bad.endswith('.md'):
+                child_stem = bad[:-3]
+                child_path = out_dir / f"{child_stem}.md"
+                if child_path.exists():
+                    parent = child_stem.rsplit('.', 1)[0] if '.' in child_stem else file_base
+                    update_head_child_hash(out_dir, parent, child_stem, _sha256_file(child_path))
+                    repair_iter += 1
+                    if repair_iter > 200:
+                        raise RuntimeError(f"repair loop exceeded limit for {file_base}")
+                    continue
             regenerate_single_file(
                 out_dir=out_dir,
                 file_base=file_base,
@@ -1599,6 +1856,18 @@ def find_parsed_folders(root: Path) -> List[Path]:
     return folders
 
 
+def find_grammar_folders(root: Path) -> List[Path]:
+    folders: List[Path] = []
+    seen = set()
+    for path in root.rglob("-input.parsed.grammar.csv"):
+        parent = Path(path).parent
+        if parent not in seen:
+            folders.append(parent)
+            seen.add(parent)
+    folders.sort()
+    return folders
+
+
 def main(argv: List[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Generate flashcard .md files from parsed vocab (one-to-one) and fetch combined HTML")
     parser.add_argument(
@@ -1627,23 +1896,51 @@ def main(argv: List[str] | None = None) -> int:
         action="store_true",
         help="Enable extremely verbose debugging logs",
     )
+    parser.add_argument(
+        "--rebuild-caches-only",
+        action="store_true",
+        help="Recompute and rewrite cache files to match current markdown files without regeneration",
+    )
     args = parser.parse_args(argv)
 
     root = Path(args.root)
+    # Configure log root for relative folder paths
+    try:
+        global _LOG_ROOT
+        _LOG_ROOT = root
+    except Exception:
+        pass
     if not root.exists():
         print(f"[error] Root directory does not exist: {root}", file=sys.stderr)
         return 2
 
     try:
+        if args.rebuild_caches_only:
+            if args.verbose:
+                print(f"[info] Rebuilding caches under {root}")
+            for folder in sorted({p.parent for p in root.rglob('*.md')}):
+                rebuild_caches_for_folder(folder, verbose=args.verbose)
+            if args.verbose:
+                print("[done] Cache rebuild complete")
+            return 0
         folders = find_parsed_folders(root)
+        grammar_folders = find_grammar_folders(root)
         if args.verbose or args.debug:
             print(f"[info] Found {len(folders)} folder(s) with -input.parsed.csv under {root}")
+            print(f"[info] Found {len(grammar_folders)} folder(s) with -input.parsed.grammar.csv under {root}")
         total_words = 0
         total_cards = 0
         for folder in folders:
             words, cards = process_folder(folder, args.model, args.verbose, args.debug, args.delay)
             total_words += words
             total_cards += cards
+        # Render grammar cards
+        for gfolder in grammar_folders:
+            try:
+                render_grammar_folder(gfolder, args.verbose)
+            except Exception as e:
+                if args.verbose:
+                    print(f"[warn] grammar rendering failed in {gfolder}: {e}")
 
         if args.verbose or args.debug:
             print(f"[done] Processed {total_words} word(s), created {total_cards} card(s)")

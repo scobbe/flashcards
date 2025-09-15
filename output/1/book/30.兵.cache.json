@@ -1,12 +1,12 @@
 {
   "children": [
     {
-      "base": "30.兵.斤",
-      "md": "706e3d06bb12131099b011a956eaff3d3f60de23b28932bc83ea94859d7dbe89"
+      "base": "30.兵.廾",
+      "md": "324e34e066d3ac4633310dbeb9a65250be865cd991619db4e73754d33c525f30"
     },
     {
-      "base": "30.兵.廾",
-      "md": "7d76b7cf610b8ea56a04b61c8aef15283e0b949c0da1071f7c567bf1ac7e1a27"
+      "base": "30.兵.斤",
+      "md": "6f0e9cc5f7a0e65a492d97a9d73fc1fea3ddc8a46dfe08497e28b71614392da5"
     }
   ]
 }

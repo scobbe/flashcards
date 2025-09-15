@@ -1,7 +1,7 @@
 # Project Rules for Cursor
 
-- Command execution: Use Make targets exclusively; do not run scripts or interpreters directly.
+- Command execution: Use Make targets for standard workflows only. One-off maintenance/debug tasks should use standalone scripts checked in under `scripts/` and run directly.
   - Examples: `make setup`, `make generate`, `make generate-debug`.
-  - If a new operation is needed, add a Make target first, then use it.
+  - For ad-hoc ops (e.g., cache rebuilds, mass edits), prefer `scripts/*.py` or `scripts/*.sh` instead of adding new Make targets.
 
 - Shell assumptions: zsh on macOS. Prefer absolute paths when passing file or directory arguments.
