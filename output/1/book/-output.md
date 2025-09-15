@@ -24,7 +24,8 @@
 
 
 ## hand
-### sub-component of "structural particle; get or obtain"
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 又
 - **simplified:**: 又
@@ -43,9 +44,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%88
 %%%
 
-
 ## right
-### sub-component of "hand"
+### sub-component
+#### hand
 ---
 - **traditional:**: 右
 - **simplified:**: 右
@@ -64,9 +65,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%B3
 %%%
 
-
 ## mouth; speech
-### sub-component of "right"
+### sub-component
+#### right
 ---
 - **traditional:**: 口
 - **simplified:**: 口
@@ -85,9 +86,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%A3
 %%%
 
-
 ## inch
-### sub-component of "structural particle; get or obtain"
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 寸
 - **simplified:**: 寸
@@ -106,9 +107,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AF%B8
 %%%
 
-
 ## vessel
-### sub-component of "inch"
+### sub-component
+#### inch
 ---
 - **traditional:**: 尊
 - **simplified:**: 尊
@@ -128,9 +129,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%8A
 %%%
 
-
 ## wine
-### sub-component of "vessel"
+### sub-component
+#### vessel
 ---
 - **traditional:**: 酋
 - **simplified:**: 酋
@@ -150,9 +151,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%85%8B
 %%%
 
-
 ## eight
-### sub-component of "wine"
+### sub-component
+#### wine
 ---
 - **traditional:**: 八
 - **simplified:**: 八
@@ -171,9 +172,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
 
-
 ## wine vessel
-### sub-component of "wine"
+### sub-component
+#### wine
 ---
 - **traditional:**: 酉
 - **simplified:**: 酉
@@ -192,9 +193,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%85%89
 %%%
 
-
 ## step
-### sub-component of "structural particle; get or obtain"
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 彳
 - **simplified:**: 彳
@@ -213,9 +214,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BD%B3
 %%%
 
-
 ## intersection
-### sub-component of "step"
+### sub-component
+#### step
 ---
 - **traditional:**: 行
 - **simplified:**: 行
@@ -234,9 +235,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A1%8C
 %%%
 
-
 ## step
-### sub-component of "intersection"
+### sub-component
+#### intersection
 ---
 - **traditional:**: 亍
 - **simplified:**: 亍
@@ -255,9 +256,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8D
 %%%
 
-
 ## one
-### sub-component of "step"
+### sub-component
+#### step
 ---
 - **traditional:**: 一
 - **simplified:**: 一
@@ -276,9 +277,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
-
 ## nail
-### sub-component of "step"
+### sub-component
+#### step
 ---
 - **traditional:**: 丁
 - **simplified:**: 丁
@@ -297,9 +298,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%81
 %%%
 
-
 ## hook
-### sub-component of "nail"
+### sub-component
+#### nail
 ---
 - **traditional:**: 亅
 - **simplified:**: 亅
@@ -316,9 +317,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%85
 %%%
 
-
 ## dawn
-### sub-component of "structural particle; get or obtain"
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 旦
 - **simplified:**: 旦
@@ -337,9 +338,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A6
 %%%
 
-
 ## sun
-### sub-component of "dawn"
+### sub-component
+#### dawn
 ---
 - **traditional:**: 日
 - **simplified:**: 日
@@ -358,9 +359,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A5
 %%%
 
-
 ## eye
-### sub-component of "structural particle; get or obtain"
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 目
 - **simplified:**: 目
@@ -379,14 +380,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%9B%AE
 %%%
 
-
-## 
-### sub-component of "structural particle; get or obtain"
+## # sub-component
+### sub-component
+#### structural particle; get or obtain
 ---
 - **traditional:**: 貝
 - **simplified:**: 贝
 - **pronunciation:**: bèi
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 宝(寶)贝(貝) (bǎobèi, "darling baby")
   - 分贝(貝) (fēnbèi, "sound level unit")
@@ -445,7 +446,8 @@
 
 
 ## English; Britain
-### sub-word of "British pound 'or' pound sterling"
+### sub-word
+#### British pound 'or' pound sterling
 ---
 - **traditional:**: 英
 - **simplified:**: 英
@@ -464,9 +466,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%8B%B1
 %%%
 
-
 ## pound (currency)
-### sub-word of "British pound 'or' pound sterling"
+### sub-word
+#### British pound 'or' pound sterling
 ---
 - **traditional:**: 鎊
 - **simplified:**: 镑
@@ -487,9 +489,9 @@
   - **simplification rule (镑):**: Simplified by replacing the left-side component 釒 with its simplified form 钅 while retaining the phonetic 旁.
 %%%
 
-
 ## beside
-### sub-component of "pound (currency)"
+### sub-component
+#### pound (currency)
 ---
 - **traditional:**: 旁
 - **simplified:**: 旁
@@ -508,14 +510,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%81
 %%%
 
-
-## 
-### sub-component of "pound (currency)"
+## metal
+### sub-component
+#### pound (currency)
 ---
 - **traditional:**: 金
 - **simplified:**: 金
 - **pronunciation:**: jīn
-- **definition:**: 
+- **definition:**: metal
 - **contemporary usage:**
   - 现(現)金 (xiànjīn, "ready cash")
   - 资(資)金 (zījīn, "capital funds")
@@ -533,7 +535,8 @@
 
 
 ## metal blocks
-### sub-component of ""
+### sub-component
+#### metal
 ---
 - **traditional:**: 丷
 - **simplified:**: 丷
@@ -554,7 +557,8 @@
 
 
 ## eight
-### sub-component of "metal blocks"
+### sub-component
+#### metal blocks
 ---
 - **traditional:**: 八
 - **simplified:**: 八
@@ -573,9 +577,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
 
-
 ## open mouth
-### sub-component of ""
+### sub-component
+#### metal
 ---
 - **traditional:**: 亼
 - **simplified:**: 亼
@@ -594,7 +598,8 @@
 
 
 ## ritual axe
-### sub-component of ""
+### sub-component
+#### metal
 ---
 - **traditional:**: 士
 - **simplified:**: 士
@@ -636,7 +641,8 @@
 
 
 ## person
-### sub-word of "renminbi 'or' Chinese yuan"
+### sub-word
+#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -655,9 +661,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## people; citizen
-### sub-word of "renminbi 'or' Chinese yuan"
+### sub-word
+#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 民
 - **simplified:**: 民
@@ -676,9 +682,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%B0%91
 %%%
 
-
 ## currency; coin
-### sub-word of "renminbi 'or' Chinese yuan"
+### sub-word
+#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 幣
 - **simplified:**: 币
@@ -699,9 +705,9 @@
   - **simplification rule (币):**: Simplified from 幣 by replacing the complex phonetic component 敝 with a single stroke 丿 above 巾, reducing strokes through component replacement and graphic regularization.
 %%%
 
-
 ## towel
-### sub-component of "currency; coin"
+### sub-component
+#### currency; coin
 ---
 - **traditional:**: 巾
 - **simplified:**: 巾
@@ -720,9 +726,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%BE
 %%%
 
-
 ## worn
-### sub-component of "currency; coin"
+### sub-component
+#### currency; coin
 ---
 - **traditional:**: 敝
 - **simplified:**: 敝
@@ -741,9 +747,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%95%9D
 %%%
 
-
 ## the people
-### sub-word of "renminbi 'or' Chinese yuan"
+### sub-word
+#### renminbi 'or' Chinese yuan
 ---
 - **traditional:**: 人民
 - **simplified:**: 人民
@@ -761,7 +767,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA%E6%B0%91
 %%%
-
 
 ## to use
 ---
@@ -804,7 +809,8 @@
 
 
 ## sun
-### sub-component of "early or in advance; good morning"
+### sub-component
+#### early or in advance; good morning
 ---
 - **traditional:**: 日
 - **simplified:**: 日
@@ -823,9 +829,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%97%A5
 %%%
 
-
 ## first
-### sub-component of "early or in advance; good morning"
+### sub-component
+#### early or in advance; good morning
 ---
 - **traditional:**: 甲
 - **simplified:**: 甲
@@ -843,7 +849,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E7%94%B2
 %%%
-
 
 ## just now
 ---
@@ -867,13 +872,14 @@
 %%%
 
 
-## 
-### sub-component of "just now"
+## # sub-component
+### sub-component
+#### just now
 ---
 - **traditional:**: 岡
 - **simplified:**: 冈
 - **pronunciation:**: gāng / gǎng
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 冈(岡)比亚(亞) (gāngbǐyà, "Gambia")
   - 冈(岡)峦(巒) (gāngluán, "mountain ridges")
@@ -892,7 +898,8 @@
 
 
 ## mountain
-### sub-component of ""
+### sub-component
+#### just now
 ---
 - **traditional:**: 山
 - **simplified:**: 山
@@ -912,13 +919,14 @@
 %%%
 
 
-## 
-### sub-component of ""
+## # sub-component
+### sub-component
+#### just now
 ---
 - **traditional:**: 網
 - **simplified:**: 網
 - **pronunciation:**: wǎng
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 上网(網) (shàngwǎng, "go online")
   - 网(網)络(絡) (wǎngluò, "network")
@@ -934,13 +942,14 @@
 %%%
 
 
-## 
-### sub-component of ""
+## # sub-component
+### sub-component
+#### just now
 ---
 - **traditional:**: 糸
 - **simplified:**: 糸
 - **pronunciation:**: mì
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - None, not in contemporary use.
 - **etymology (糸):**
@@ -954,7 +963,8 @@
 
 
 ## deceive
-### sub-component of ""
+### sub-component
+#### just now
 ---
 - **traditional:**: 罔
 - **simplified:**: 罔
@@ -976,7 +986,8 @@
 
 
 ## die
-### sub-component of "deceive"
+### sub-component
+#### deceive
 ---
 - **traditional:**: 亡
 - **simplified:**: 亡
@@ -995,14 +1006,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%A1
 %%%
 
-
-## 
-### sub-component of "deceive"
+## # sub-component
+### sub-component
+#### deceive
 ---
 - **traditional:**: 网
 - **simplified:**: 网
 - **pronunciation:**: 
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 网(網)络(絡) (wǎng luò, "network")
   - 网(網)站 (wǎng zhàn, "website")
@@ -1017,13 +1028,14 @@
 %%%
 
 
-## 
-### sub-component of ""
+## # sub-component
+### sub-component
+#### just now
 ---
 - **traditional:**: 網
 - **simplified:**: 网
 - **pronunciation:**: wǎng
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 网(網)络(絡) (wǎngluò, "computer network")
   - 网(網)站 (wǎngzhàn, "web site")
@@ -1040,7 +1052,8 @@
 
 
 ## knife
-### sub-component of "just now"
+### sub-component
+#### just now
 ---
 - **traditional:**: 刂
 - **simplified:**: 刂
@@ -1058,7 +1071,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%88%82
 %%%
-
 
 ## from 'or' since
 ---
@@ -1102,7 +1114,8 @@
 
 
 ## not; wrong
-### sub-word of "very 'or' extremely"
+### sub-word
+#### very 'or' extremely
 ---
 - **traditional:**: 非
 - **simplified:**: 非
@@ -1121,9 +1134,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9D%9E
 %%%
 
-
 ## often; common
-### sub-word of "very 'or' extremely"
+### sub-word
+#### very 'or' extremely
 ---
 - **traditional:**: 常
 - **simplified:**: 常
@@ -1143,9 +1156,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B8%B8
 %%%
 
-
 ## still
-### sub-component of "often; common"
+### sub-component
+#### often; common
 ---
 - **traditional:**: 尚
 - **simplified:**: 尚
@@ -1164,9 +1177,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%9A
 %%%
 
-
 ## cloth
-### sub-component of "often; common"
+### sub-component
+#### often; common
 ---
 - **traditional:**: 巾
 - **simplified:**: 巾
@@ -1184,7 +1197,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%BE
 %%%
-
 
 ## time 'or' occurrence; secondary 'or' next
 ---
@@ -1209,7 +1221,8 @@
 
 
 ## two
-### sub-component of "time 'or' occurrence; secondary 'or' next"
+### sub-component
+#### time 'or' occurrence; secondary 'or' next
 ---
 - **traditional:**: 二
 - **simplified:**: 二
@@ -1228,9 +1241,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8C
 %%%
 
-
 ## ice
-### sub-component of "time 'or' occurrence; secondary 'or' next"
+### sub-component
+#### time 'or' occurrence; secondary 'or' next
 ---
 - **traditional:**: 冫
 - **simplified:**: 冫
@@ -1249,9 +1262,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%86%AB
 %%%
 
-
 ## yawn
-### sub-component of "time 'or' occurrence; secondary 'or' next"
+### sub-component
+#### time 'or' occurrence; secondary 'or' next
 ---
 - **traditional:**: 欠
 - **simplified:**: 欠
@@ -1269,7 +1282,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%AC%A0
 %%%
-
 
 ## visit 'or' tour
 ---
@@ -1293,7 +1305,8 @@
 
 
 ## to participate
-### sub-word of "visit 'or' tour"
+### sub-word
+#### visit 'or' tour
 ---
 - **traditional:**: 參
 - **simplified:**: 参
@@ -1313,9 +1326,9 @@
   - **simplification rule (参):**: Simplified by reducing the strokes of 參, compressing the multi-part 晶+光+彡 structure into a compact, regularized form while retaining 彡.
 %%%
 
-
 ## to observe; view
-### sub-word of "visit 'or' tour"
+### sub-word
+#### visit 'or' tour
 ---
 - **traditional:**: 觀
 - **simplified:**: 观
@@ -1337,9 +1350,9 @@
   - **simplification rule (观):**: Simplified by replacing the original phonetic 雚 with 又 and the semantic 見 with 见, reducing strokes via component substitution and graphic regularization.
 %%%
 
-
 ## again
-### sub-component of "to observe; view"
+### sub-component
+#### to observe; view
 ---
 - **traditional:**: 又
 - **simplified:**: 又
@@ -1358,9 +1371,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8F%88
 %%%
 
-
 ## see
-### sub-component of "to observe; view"
+### sub-component
+#### to observe; view
 ---
 - **traditional:**: 见
 - **simplified:**: 见
@@ -1379,9 +1392,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A7%81
 %%%
 
-
 ## reeds
-### sub-component of "to observe; view"
+### sub-component
+#### to observe; view
 ---
 - **traditional:**: 雚
 - **simplified:**: 雚
@@ -1397,7 +1410,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9B%9A
 %%%
-
 
 ## Terracotta Army
 ---
@@ -1442,7 +1454,8 @@
 
 
 ## soldier or troops; military or army
-### sub-word of "Terracotta Army"
+### sub-word
+#### Terracotta Army
 ---
 - **traditional:**: 兵
 - **simplified:**: 兵
@@ -1462,9 +1475,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%B5
 %%%
 
-
 ## two hands
-### sub-component of "soldier or troops; military or army"
+### sub-component
+#### soldier or troops; military or army
 ---
 - **traditional:**: 廾
 - **simplified:**: 廾
@@ -1483,9 +1496,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BB%BE
 %%%
 
-
 ## short axe
-### sub-component of "soldier or troops; military or army"
+### sub-component
+#### soldier or troops; military or army
 ---
 - **traditional:**: 斤
 - **simplified:**: 斤
@@ -1504,9 +1517,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%96%A4
 %%%
 
-
 ## horse or steed
-### sub-word of "Terracotta Army"
+### sub-word
+#### Terracotta Army
 ---
 - **traditional:**: 馬
 - **simplified:**: 马
@@ -1526,9 +1539,9 @@
   - **simplification rule (马):**: Simplified from 馬 by adopting its cursive-derived outline, merging and reducing strokes into the compact 3-stroke form 马.
 %%%
 
-
 ## figurine
-### sub-word of "Terracotta Army"
+### sub-word
+#### Terracotta Army
 ---
 - **traditional:**: 俑
 - **simplified:**: 俑
@@ -1548,9 +1561,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BF%91
 %%%
 
-
 ## human
-### sub-component of "figurine"
+### sub-component
+#### figurine
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -1569,9 +1582,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## use
-### sub-component of "figurine"
+### sub-component
+#### figurine
 ---
 - **traditional:**: 用
 - **simplified:**: 用
@@ -1590,9 +1603,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%94%A8
 %%%
 
-
 ## troops; soldiers and horses
-### sub-word of "Terracotta Army"
+### sub-word
+#### Terracotta Army
 ---
 - **traditional:**: 兵馬
 - **simplified:**: 兵马
@@ -1611,7 +1624,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%B5%E9%A6%AC
   - **simplification rule (兵马):**: Traditional 馬 was simplified to 马 through stroke reduction and component replacement, while 兵 remained unchanged.
 %%%
-
 
 ## a postcard
 ---
@@ -1634,7 +1646,8 @@
 
 
 ## bright or clear; Ming dynasty
-### sub-word of "a postcard"
+### sub-word
+#### a postcard
 ---
 - **traditional:**: 明
 - **simplified:**: 明
@@ -1653,9 +1666,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%98%8E
 %%%
 
-
 ## letter or mail; to believe or trust
-### sub-word of "a postcard"
+### sub-word
+#### a postcard
 ---
 - **traditional:**: 信
 - **simplified:**: 信
@@ -1675,9 +1688,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BF%A1
 %%%
 
-
 ## person
-### sub-component of "letter or mail; to believe or trust"
+### sub-component
+#### letter or mail; to believe or trust
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -1696,9 +1709,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## speech
-### sub-component of "letter or mail; to believe or trust"
+### sub-component
+#### letter or mail; to believe or trust
 ---
 - **traditional:**: 言
 - **simplified:**: 言
@@ -1717,9 +1730,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A8%80
 %%%
 
-
 ## slice; sheet; card
-### sub-word of "a postcard"
+### sub-word
+#### a postcard
 ---
 - **traditional:**: 片
 - **simplified:**: 片
@@ -1738,9 +1751,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%89%87
 %%%
 
-
 ## postcard
-### sub-word of "a postcard"
+### sub-word
+#### a postcard
 ---
 - **traditional:**: 信片
 - **simplified:**: 信片
@@ -1755,7 +1768,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BF%A1%E7%89%87
 %%%
-
 
 ## should 'or' ought to; the above-mentioned 'or' said
 ---
@@ -1781,7 +1793,8 @@
 
 
 ## earthly branch
-### sub-component of "should 'or' ought to; the above-mentioned 'or' said"
+### sub-component
+#### should 'or' ought to; the above-mentioned 'or' said
 ---
 - **traditional:**: 亥
 - **simplified:**: 亥
@@ -1800,14 +1813,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%A5
 %%%
 
-
-## 
-### sub-component of "should 'or' ought to; the above-mentioned 'or' said"
+## speech
+### sub-component
+#### should 'or' ought to; the above-mentioned 'or' said
 ---
 - **traditional:**: 言
 - **simplified:**: 言
 - **pronunciation:**: yán
-- **definition:**: 
+- **definition:**: speech
 - **contemporary usage:**
   - 语(語)言 (yǔyán, "language")
   - 诺(諾)言 (nuòyán, "promise")
@@ -1823,7 +1836,8 @@
 
 
 ## silver; money
-### sub-word of "bank or financial institution"
+### sub-word
+#### bank or financial institution
 ---
 - **traditional:**: 銀
 - **simplified:**: 银
@@ -1844,9 +1858,9 @@
   - **simplification rule (银):**: The traditional form 銀 was simplified by replacing the left-side metal radical 金 with the abbreviated form 钅 to reduce strokes and standardize metal characters.
 %%%
 
-
 ## stopping
-### sub-component of "silver; money"
+### sub-component
+#### silver; money
 ---
 - **traditional:**: 艮
 - **simplified:**: 艮
@@ -1866,9 +1880,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%89%AE
 %%%
 
-
 ## person
-### sub-component of "stopping"
+### sub-component
+#### stopping
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -1887,9 +1901,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## eye
-### sub-component of "stopping"
+### sub-component
+#### stopping
 ---
 - **traditional:**: 目
 - **simplified:**: 目
@@ -1908,9 +1922,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%9B%AE
 %%%
 
-
 ## metal
-### sub-component of "silver; money"
+### sub-component
+#### silver; money
 ---
 - **traditional:**: 金
 - **simplified:**: 金
@@ -1931,9 +1945,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%87%91
 %%%
 
-
 ## two metal blocks
-### sub-component of "metal"
+### sub-component
+#### metal
 ---
 - **traditional:**: 丷
 - **simplified:**: 丷
@@ -1950,9 +1964,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%B7
 %%%
 
-
 ## eight
-### sub-component of "two metal blocks"
+### sub-component
+#### two metal blocks
 ---
 - **traditional:**: 八
 - **simplified:**: 八
@@ -1971,9 +1985,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%AB
 %%%
 
-
 ## open mouth
-### sub-component of "metal"
+### sub-component
+#### metal
 ---
 - **traditional:**: 亼
 - **simplified:**: 亼
@@ -1990,9 +2004,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BC
 %%%
 
-
 ## enter
-### sub-component of "open mouth"
+### sub-component
+#### open mouth
 ---
 - **traditional:**: 入
 - **simplified:**: 入
@@ -2011,9 +2025,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%85%A5
 %%%
 
-
 ## ritual axe
-### sub-component of "metal"
+### sub-component
+#### metal
 ---
 - **traditional:**: 士
 - **simplified:**: 士
@@ -2032,9 +2046,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A3%AB
 %%%
 
-
 ## jade tablet
-### sub-component of "ritual axe"
+### sub-component
+#### ritual axe
 ---
 - **traditional:**: 圭
 - **simplified:**: 圭
@@ -2053,9 +2067,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%9C%AD
 %%%
 
-
 ## king
-### sub-component of "ritual axe"
+### sub-component
+#### ritual axe
 ---
 - **traditional:**: 王
 - **simplified:**: 王
@@ -2074,9 +2088,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B
 %%%
 
-
 ## one
-### sub-component of "king"
+### sub-component
+#### king
 ---
 - **traditional:**: 一
 - **simplified:**: 一
@@ -2095,9 +2109,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
-
 ## earth
-### sub-component of "king"
+### sub-component
+#### king
 ---
 - **traditional:**: 土
 - **simplified:**: 土
@@ -2116,9 +2130,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%9C%9F
 %%%
 
-
 ## ten
-### sub-component of "earth"
+### sub-component
+#### earth
 ---
 - **traditional:**: 十
 - **simplified:**: 十
@@ -2136,7 +2150,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%8D%81
 %%%
-
 
 ## staff 'or' personnel
 ---
@@ -2160,7 +2173,8 @@
 
 
 ## work or labor; engineering or craft
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 工
 - **simplified:**: 工
@@ -2179,9 +2193,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%A5
 %%%
 
-
 ## to do or make; work of art
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 作
 - **simplified:**: 作
@@ -2200,9 +2214,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BD%9C
 %%%
 
-
 ## person
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -2221,9 +2235,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## member or staff
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 員
 - **simplified:**: 员
@@ -2243,9 +2257,9 @@
   - **simplification rule (员):**: Component replacement: the 貝 component in 員 was simplified to 贝 under 口 to reduce strokes, yielding 员.
 %%%
 
-
 ## ding
-### sub-component of "member or staff"
+### sub-component
+#### member or staff
 ---
 - **traditional:**: 鼎
 - **simplified:**: 鼎
@@ -2264,9 +2278,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%BC%8E
 %%%
 
-
 ## work; job
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 工作
 - **simplified:**: 工作
@@ -2285,9 +2299,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B7%A5%E4%BD%9C
 %%%
 
-
 ## personnel; staff
-### sub-word of "staff 'or' personnel"
+### sub-word
+#### staff 'or' personnel
 ---
 - **traditional:**: 人員
 - **simplified:**: 人员
@@ -2306,7 +2320,6 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA%E5%93%A1
   - **simplification rule (人员):**: Traditional 員 was simplified to 员 via component replacement and stroke reduction; 人 remained unchanged.
 %%%
-
 
 ## a thousand
 ---
@@ -2351,13 +2364,14 @@
 %%%
 
 
-## 
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+## # sub-component
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 婁
 - **simplified:**: 娄
 - **pronunciation:**: lóu / lǘ / lǚ
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 娄(婁)子 (lóu zi, "big trouble")
   - 捅娄(婁)子 (tǒng lóu zi, "stir up trouble")
@@ -2374,7 +2388,8 @@
 
 
 ## middle
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 中
 - **simplified:**: 中
@@ -2393,9 +2408,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%AD
 %%%
 
-
 ## woman
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 女
 - **simplified:**: 女
@@ -2414,9 +2429,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A5%B3
 %%%
 
-
 ## mother
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 母
 - **simplified:**: 母
@@ -2435,9 +2450,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%AF%8D
 %%%
 
-
 ## hands
-### sub-component of ""
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 爪
 - **simplified:**: 爪
@@ -2458,7 +2473,8 @@
 
 
 ## horn
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 角
 - **simplified:**: 角
@@ -2477,14 +2493,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A7%92
 %%%
 
-
-## 
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+## # sub-component
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 婁
 - **simplified:**: 婁
 - **pronunciation:**: lóu / lǘ / lǚ
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 娄(婁)子 (lóu zi, "a mess")
   - 捅娄(婁)子 (tǒng lóu zi, "stir up trouble")
@@ -2500,7 +2516,8 @@
 
 
 ## rap; action
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 攴
 - **simplified:**: 攴
@@ -2517,9 +2534,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%94%B4
 %%%
 
-
 ## tap
-### sub-component of "number 'or' figure; to count 'or' enumerate"
+### sub-component
+#### number 'or' figure; to count 'or' enumerate
 ---
 - **traditional:**: 攵
 - **simplified:**: 攵
@@ -2535,7 +2552,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E6%94%B5
 %%%
-
 
 ## Wangfujing Street
 ---
@@ -2558,7 +2574,8 @@
 
 
 ## line of business; firm
-### sub-word of "bank or financial institution"
+### sub-word
+#### bank or financial institution
 ---
 - **traditional:**: 行
 - **simplified:**: 行
@@ -2578,9 +2595,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A1%8C
 %%%
 
-
 ## step
-### sub-component of "line of business; firm"
+### sub-component
+#### line of business; firm
 ---
 - **traditional:**: 亍
 - **simplified:**: 亍
@@ -2599,9 +2616,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%8D
 %%%
 
-
 ## one
-### sub-component of "step"
+### sub-component
+#### step
 ---
 - **traditional:**: 一
 - **simplified:**: 一
@@ -2620,9 +2637,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%80
 %%%
 
-
 ## nail
-### sub-component of "step"
+### sub-component
+#### step
 ---
 - **traditional:**: 丁
 - **simplified:**: 丁
@@ -2641,9 +2658,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%B8%81
 %%%
 
-
 ## hook
-### sub-component of "nail"
+### sub-component
+#### nail
 ---
 - **traditional:**: 亅
 - **simplified:**: 亅
@@ -2660,9 +2677,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%85
 %%%
 
-
 ## step
-### sub-component of "line of business; firm"
+### sub-component
+#### line of business; firm
 ---
 - **traditional:**: 彳
 - **simplified:**: 彳
@@ -2681,9 +2698,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BD%B3
 %%%
 
-
 ## king or monarch; surname Wang
-### sub-word of "Wangfujing Street"
+### sub-word
+#### Wangfujing Street
 ---
 - **traditional:**: 王
 - **simplified:**: 王
@@ -2702,9 +2719,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B
 %%%
 
-
 ## government office; residence or mansion
-### sub-word of "Wangfujing Street"
+### sub-word
+#### Wangfujing Street
 ---
 - **traditional:**: 府
 - **simplified:**: 府
@@ -2723,9 +2740,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%BA%9C
 %%%
 
-
 ## pay
-### sub-component of "government office; residence or mansion"
+### sub-component
+#### government office; residence or mansion
 ---
 - **traditional:**: 付
 - **simplified:**: 付
@@ -2745,9 +2762,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BB%98
 %%%
 
-
 ## person
-### sub-component of "pay"
+### sub-component
+#### pay
 ---
 - **traditional:**: 亻
 - **simplified:**: 亻
@@ -2764,9 +2781,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BB
 %%%
 
-
 ## hand
-### sub-component of "pay"
+### sub-component
+#### pay
 ---
 - **traditional:**: 寸
 - **simplified:**: 寸
@@ -2785,14 +2802,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AF%B8
 %%%
 
-
-## 
-### sub-component of "government office; residence or mansion"
+## # sub-component
+### sub-component
+#### government office; residence or mansion
 ---
 - **traditional:**: 廣
 - **simplified:**: 广
 - **pronunciation:**: guǎng / guàng / kuàng / guāng / yǎn
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 广(廣)泛 (guǎng fàn, "wide-ranging")
   - 广(廣)场(場) (guǎng chǎng, "public square")
@@ -2809,7 +2826,8 @@
 
 
 ## well
-### sub-word of "Wangfujing Street"
+### sub-word
+#### Wangfujing Street
 ---
 - **traditional:**: 井
 - **simplified:**: 井
@@ -2828,9 +2846,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%95
 %%%
 
-
 ## prince’s residence
-### sub-word of "Wangfujing Street"
+### sub-word
+#### Wangfujing Street
 ---
 - **traditional:**: 王府
 - **simplified:**: 王府
@@ -2848,7 +2866,6 @@
     - None, compound word
   - **reference:**: https://en.wiktionary.org/wiki/%E7%8E%8B%E5%BA%9C
 %%%
-
 
 ## Xi'an City
 ---
@@ -2871,7 +2888,8 @@
 
 
 ## west
-### sub-word of "Xi'an City"
+### sub-word
+#### Xi'an City
 ---
 - **traditional:**: 西
 - **simplified:**: 西
@@ -2890,9 +2908,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E8%A5%BF
 %%%
 
-
 ## peace; safe
-### sub-word of "Xi'an City"
+### sub-word
+#### Xi'an City
 ---
 - **traditional:**: 安
 - **simplified:**: 安
@@ -2912,9 +2930,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AE%89
 %%%
 
-
 ## kneeling woman
-### sub-component of "peace; safe"
+### sub-component
+#### peace; safe
 ---
 - **traditional:**: 女
 - **simplified:**: 女
@@ -2933,9 +2951,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E5%A5%B3
 %%%
 
-
 ## house
-### sub-component of "peace; safe"
+### sub-component
+#### peace; safe
 ---
 - **traditional:**: 宀
 - **simplified:**: 宀
@@ -2953,7 +2971,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%AE%80
 %%%
-
 
 ## few 'or' little; young 'or' youthful
 ---
@@ -2976,7 +2993,8 @@
 
 
 ## small
-### sub-component of "few 'or' little; young 'or' youthful"
+### sub-component
+#### few 'or' little; young 'or' youthful
 ---
 - **traditional:**: 小
 - **simplified:**: 小
@@ -2994,7 +3012,6 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E5%B0%8F
 %%%
-
 
 ## line up 'or' queue
 ---
@@ -3018,7 +3035,8 @@
 
 
 ## to line up; arrange
-### sub-word of "line up 'or' queue"
+### sub-word
+#### line up 'or' queue
 ---
 - **traditional:**: 排
 - **simplified:**: 排
@@ -3038,14 +3056,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E6%8E%92
 %%%
 
-
-## 
-### sub-component of "to line up; arrange"
+## # sub-component
+### sub-component
+#### to line up; arrange
 ---
 - **traditional:**: 手
 - **simplified:**: 手
 - **pronunciation:**: shǒu
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 手机(機) (shǒujī, "mobile phone")
   - 手册(冊) (shǒucè, "handbook")
@@ -3061,7 +3079,8 @@
 
 
 ## not
-### sub-component of "to line up; arrange"
+### sub-component
+#### to line up; arrange
 ---
 - **traditional:**: 非
 - **simplified:**: 非
@@ -3080,14 +3099,14 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E9%9D%9E
 %%%
 
-
-## 
-### sub-component of "not"
+## # sub-component
+### sub-component
+#### not
 ---
 - **traditional:**: 違
 - **simplified:**: 违
 - **pronunciation:**: wéi
-- **definition:**: 
+- **definition:**: # sub-component
 - **contemporary usage:**
   - 违(違)规(規) (wéiguī, "violate regulations")
   - 违(違)反 (wéifǎn, "violate law")
@@ -3104,7 +3123,8 @@
 
 
 ## team; line
-### sub-word of "line up 'or' queue"
+### sub-word
+#### line up 'or' queue
 ---
 - **traditional:**: 隊
 - **simplified:**: 队
@@ -3127,9 +3147,9 @@
   - **simplification rule (队):**: The traditional right-side phonetic 㒸 was replaced by the simpler 人, retaining the 阝 radical and reducing strokes while recasting the character as an ideogrammic form.
 %%%
 
-
 ## phonetic
-### sub-component of "team; line"
+### sub-component
+#### team; line
 ---
 - **traditional:**: 㒸
 - **simplified:**: 㒸
@@ -3146,9 +3166,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E3%92%B8
 %%%
 
-
 ## people
-### sub-component of "team; line"
+### sub-component
+#### team; line
 ---
 - **traditional:**: 人
 - **simplified:**: 人
@@ -3167,9 +3187,9 @@
   - **reference:**: https://en.wiktionary.org/wiki/%E4%BA%BA
 %%%
 
-
 ## mound
-### sub-component of "team; line"
+### sub-component
+#### team; line
 ---
 - **traditional:**: 阜
 - **simplified:**: 阜
@@ -3187,4 +3207,3 @@
     - None, character is in atomic form
   - **reference:**: https://en.wiktionary.org/wiki/%E9%98%9C
 %%%
-

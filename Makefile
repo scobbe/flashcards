@@ -29,3 +29,4 @@ commit:
 
 push:
 	git push
+

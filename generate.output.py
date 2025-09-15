@@ -1172,14 +1172,30 @@ def write_simple_card_md(
 ) -> Path:
     md_path = out_dir / f"{word}.md"
     parts: List[str] = []
-    parts.append(f"## {english}")
-    # If relation indicates sub-word, add subheader
+    # Custom header layout for sub-word and sub-component relations
     rel = relation.strip()
+    parent_english = ""
+    rel_type = ""
     if rel:
-        # Normalize legacy relation labels
         rel_norm = rel.replace("subword", "sub-word").replace("subcomponent", "sub-component")
-        # Expecting format like: sub-word of "<parent>"
-        parts.append(f"### {rel_norm}")
+        if rel_norm.startswith("sub-word of ") or rel_norm.startswith("sub-component of "):
+            rel_type = "sub-word" if rel_norm.startswith("sub-word of ") else "sub-component"
+            # Extract parent english between quotes, if present
+            q1 = rel_norm.find('"')
+            q2 = rel_norm.rfind('"')
+            if q1 != -1 and q2 != -1 and q2 > q1:
+                parent_english = rel_norm[q1 + 1 : q2]
+            # New header layout: child english as H2, relation as H3, parent english as H4
+            parts.append(f"## {english}")
+            parts.append(f"### {rel_type}")
+            if parent_english:
+                parts.append(f"#### {parent_english}")
+        else:
+            # Fallback to original if relation does not match expected pattern
+            parts.append(f"## {english}")
+            parts.append(f"### {rel_norm}")
+    else:
+        parts.append(f"## {english}")
     parts.append("---")
 
     # Helper to render schema label with placeholders
