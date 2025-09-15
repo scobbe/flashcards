@@ -1,4 +1,4 @@
-.PHONY: setup generate generate-debug clean-venv
+.PHONY: setup generate generate-debug clean-venv commit push
 
 SHELL := /bin/zsh
 VENV := .venv
@@ -13,8 +13,8 @@ setup:
 
 # Run the generators. First parse inputs, then build flashcards.
 generate:
-	$(PY) generate.input.py --verbose $(ARGS)
-	$(PY) generate.output.py --verbose $(ARGS)
+	$(PY) generate.input.py --verbose
+	$(PY) generate.output.py --verbose
 
 generate-debug:
 	$(PY) generate.input.py --verbose
@@ -22,3 +22,10 @@ generate-debug:
 
 clean-venv:
 	rm -rf $(VENV)
+
+commit:
+	git add -A
+	git commit -m "feat(generator): parallel workers, shared cache, repair repair-loop; Makefile default parallel; add .cursorrules"
+
+push:
+	git push

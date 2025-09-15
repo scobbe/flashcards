@@ -6,12 +6,159 @@ import re
 import json
 import hashlib
 from pathlib import Path
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Dict, List, Optional, Tuple
 
 import requests
 from bs4 import BeautifulSoup  # type: ignore
 from openai_helper import OpenAIClient
 from schema import BACK_SCHEMA, CardField
+
+# Load .env variables (if present) before any OpenAI calls
+_DEF_ENV_LOADED = False
+
+def _load_env_file() -> None:
+    global _DEF_ENV_LOADED
+    if _DEF_ENV_LOADED:
+        return
+    _DEF_ENV_LOADED = True
+    try:
+        here = Path(__file__).parent
+        candidates = [here / ".env", here.parent / ".env"]
+        for p in candidates:
+            if not p.exists():
+                continue
+            for raw in p.read_text(encoding="utf-8", errors="ignore").splitlines():
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if line.startswith("export "):
+                    line = line[len("export "):].strip()
+                if "=" not in line:
+                    continue
+                k, v = line.split("=", 1)
+                key = k.strip()
+                val = v.strip().strip('"').strip("'")
+                if key and os.environ.get(key) is None:
+                    os.environ[key] = val
+    except Exception:
+        pass
+
+# Call once on import
+_load_env_file()
+
+# Helpers to extract component English from parent markdown
+def _read_md(out_dir: Path, base: str) -> str:
+    p = out_dir / f"{base}.md"
+    try:
+        return p.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        return ""
+
+
+def _extract_description_line(md_text: str) -> str:
+    if not isinstance(md_text, str) or not md_text:
+        return ""
+    for line in md_text.splitlines():
+        if "**description:**:" in line:
+            try:
+                return line.split("**description:**:", 1)[1].strip()
+            except Exception:
+                continue
+    return ""
+
+
+def _extract_english_heading(md_text: str) -> str:
+    if not isinstance(md_text, str) or not md_text:
+        return ""
+    for line in md_text.splitlines():
+        line = line.strip()
+        if line.startswith("## "):
+            return line[3:].strip()
+    return ""
+
+
+# Global lock to serialize writes to the global cache (-output.cache.json)
+GLOBAL_CACHE_LOCK = threading.Lock()
+
+def _set_head_md_hash_threadsafe(out_dir: Path, file_base: str, md_hash: str) -> None:
+    with GLOBAL_CACHE_LOCK:
+        gcache = load_global_cache(out_dir)
+        set_word_md_hash(gcache, file_base, md_hash)
+        save_global_cache(out_dir, gcache)
+
+# Ensure logs from worker threads flush promptly to terminal
+try:
+    sys.stdout.reconfigure(line_buffering=True)
+except Exception:
+    pass
+
+# Hardcoded number of parallel workers for output generation
+DEFAULT_PARALLEL_WORKERS = 5
+
+# Global shared component back-fields cache across threads (keyed by simplified char)
+_GLOBAL_COMPONENT_CACHE: Dict[str, object] = {}
+_GLOBAL_COMPONENT_CACHE_LOCK = threading.Lock()
+
+def _get_cached_back_for_char(ch: str) -> Optional[object]:
+    if not isinstance(ch, str) or not ch:
+        return None
+    with _GLOBAL_COMPONENT_CACHE_LOCK:
+        return _GLOBAL_COMPONENT_CACHE.get(ch)
+
+def _set_cached_back_for_char(ch: str, back: object) -> None:
+    if not isinstance(ch, str) or not ch:
+        return
+    if not isinstance(back, dict):
+        return
+    with _GLOBAL_COMPONENT_CACHE_LOCK:
+        _GLOBAL_COMPONENT_CACHE[ch] = back
+
+
+class _ThreadPrefixedWriter:
+    def __init__(self, wrapped):
+        self._wrapped = wrapped
+        self._lock = threading.Lock()
+
+    def write(self, s: str) -> int:
+        if not isinstance(s, str):
+            return 0
+        tid = threading.get_ident()
+        prefix = f"[t{tid}] "
+        with self._lock:
+            # Split lines to avoid prefixing partial fragments excessively
+            parts = s.split("\n")
+            for i, part in enumerate(parts):
+                if part == "" and i == len(parts) - 1:
+                    # trailing newline case: just write newline
+                    self._wrapped.write("\n")
+                else:
+                    self._wrapped.write(prefix + part)
+                    if i < len(parts) - 1:
+                        self._wrapped.write("\n")
+            try:
+                self._wrapped.flush()
+            except Exception:
+                pass
+        return len(s)
+
+    def flush(self) -> None:
+        try:
+            self._wrapped.flush()
+        except Exception:
+            pass
+
+    def isatty(self) -> bool:
+        try:
+            return bool(self._wrapped.isatty())
+        except Exception:
+            return False
+
+try:
+    sys.stdout = _ThreadPrefixedWriter(sys.stdout)
+except Exception:
+    pass
 
 
 def log_debug(enabled: bool, message: str) -> None:
@@ -208,6 +355,15 @@ RADICAL_VARIANT_TO_PRIMARY: Dict[str, str] = {
 def _map_radical_variant_to_primary(ch: str) -> str:
     return RADICAL_VARIANT_TO_PRIMARY.get(ch, ch)
 
+def _etymology_complete(back: object) -> bool:
+    if not isinstance(back, dict):
+        return False
+    et = back.get("etymology")
+    if not isinstance(et, dict):
+        return False
+    t = et.get("type"); d = et.get("description"); i = et.get("interpretation")
+    return isinstance(t, str) and t.strip() and isinstance(d, str) and d.strip() and isinstance(i, str) and i.strip()
+
 def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
     comps: List[str] = []
     if not isinstance(back_fields, dict):
@@ -215,6 +371,7 @@ def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
     et = back_fields.get("etymology")
     if isinstance(et, dict):
         # Prefer explicit components list if present (schema key normalized)
+        raw_present = "component_characters" in et
         raw = et.get("component_characters")
         if isinstance(raw, list):
             for item in raw:
@@ -225,7 +382,8 @@ def _collect_components_from_back(back_fields: Dict[str, object]) -> List[str]:
                         mapped = _map_radical_variant_to_primary(first_cjk)
                         if mapped not in comps:
                             comps.append(mapped)
-        if not comps:
+        # Only fall back to parsing description if the explicit list is ABSENT (not present at all)
+        if not comps and not raw_present:
             desc = et.get("description") if isinstance(et.get("description"), str) else ""
             english_map = _parse_component_english_map(str(desc))
             for ch in english_map.keys():
@@ -265,9 +423,20 @@ def _generate_component_subtree(
 
     word_id = f"{prefix}.{target_ch}"
     md_path = out_dir / f"{word_id}.md"
-    if md_path.exists():
+    # Skip only if file exists AND cache has matching hash for this child
+    expected_hash = ""
+    parent_cache = load_head_cache(out_dir, prefix)
+    children = parent_cache.get("children") if isinstance(parent_cache, dict) else []
+    if isinstance(children, list):
+        for c in children:
+            if isinstance(c, dict) and c.get("base") == word_id:
+                val = c.get("md")
+                expected_hash = val if isinstance(val, str) else ""
+                break
+    actual_hash = _sha256_file(md_path) if md_path.exists() else ""
+    if md_path.exists() and expected_hash and actual_hash == expected_hash:
         if verbose:
-            print(f"[skip] Component already exists: {md_path.name}")
+            print(f"[skip] Component up-to-date: {md_path.name}")
         return
     # Prepare HTML for this component (cached by path)
     html_path = out_dir / f"{word_id}.input.html"
@@ -299,8 +468,13 @@ def _generate_component_subtree(
 
     # Generate back fields for this component (with cache)
     back: Dict[str, object] | object
-    if comp_cache is not None and target_ch in comp_cache:
-        log_debug(debug, f"cache hit for component '{target_ch}'")
+    # Prefer global shared cache first
+    cached_global = _get_cached_back_for_char(target_ch)
+    if isinstance(cached_global, dict):
+        log_debug(debug, f"global cache hit for component '{target_ch}'")
+        back = cached_global
+    elif comp_cache is not None and target_ch in comp_cache:
+        log_debug(debug, f"local cache hit for component '{target_ch}'")
         back = comp_cache[target_ch]
     else:
         if verbose:
@@ -314,8 +488,22 @@ def _generate_component_subtree(
             verbose=verbose,
             parent_word=parent_english,
         )
-        if comp_cache is not None and isinstance(back, dict):
-            comp_cache[target_ch] = back
+        if not _etymology_complete(back):
+            if verbose:
+                print(f"[warn] Incomplete etymology for {word_id}; retrying once")
+            back = extract_back_fields_from_html(
+                simplified=simplified_form,
+                traditional=traditional_form,
+                english=component_english,
+                html=combined_html,
+                model=model,
+                verbose=verbose,
+                parent_word=parent_english,
+            )
+        if isinstance(back, dict):
+            _set_cached_back_for_char(target_ch, back)
+            if comp_cache is not None:
+                comp_cache[target_ch] = back
     # Try to get pinyin from back fields (may be empty); AI fills when not in CSV
     pin = ""
     if isinstance(back, dict):
@@ -353,6 +541,9 @@ def _generate_component_subtree(
     init_head_children(out_dir, word_id, child_bases)
     for sub_ch in comps:
         mapped_sub = _map_radical_variant_to_primary(sub_ch)
+        # Prevent self-recursion: skip if child equals current target
+        if mapped_sub == target_ch:
+            continue
         sub_eng = english_map.get(mapped_sub, "")
         sub_simp, sub_trad = forms_map.get(mapped_sub, (mapped_sub, mapped_sub))
         _generate_component_subtree(
@@ -809,7 +1000,7 @@ def first_invalid_cached_name_recursive(out_dir: Path, top_base: str, *, verbose
         if not isinstance(children, list) or not children:
             # Discover immediate children by filename pattern: parent.*.md with exactly one extra token
             prefix = parent + "."
-            discovered: list[str] = []
+            derived: list[Dict[str, str]] = []
             for p in out_dir.iterdir():
                 if not p.is_file() or not p.name.endswith(".md"):
                     continue
@@ -820,14 +1011,9 @@ def first_invalid_cached_name_recursive(out_dir: Path, top_base: str, *, verbose
                 if "." in tail:
                     # deeper than one level under this parent
                     continue
-                discovered.append(stem)
-            if discovered:
-                # Initialize cache entries with blank hashes so validation will detect and fix
-                init_head_children(out_dir, parent, discovered)
-                hcache = load_head_cache(out_dir, parent)
-                children = hcache.get("children") if isinstance(hcache, dict) else []
-                if not isinstance(children, list):
-                    children = []
+                # No cache write here; missing hash is treated as mismatch to force regeneration
+                derived.append({"base": stem, "md": ""})
+            children = derived
         for c in children:
             if not isinstance(c, dict):
                 continue
@@ -890,6 +1076,18 @@ def regenerate_single_file(
             verbose=verbose,
             parent_word=None,
         )
+        if not _etymology_complete(back):
+            if verbose:
+                print(f"[warn] Incomplete etymology for {file_base}; retrying once")
+            back = extract_back_fields_from_html(
+                simplified=simp or trad,
+                traditional=trad or simp,
+                english=eng,
+                html=combined_html,
+                model=model,
+                verbose=verbose,
+                parent_word=None,
+            )
         write_simple_card_md(
             out_dir,
             file_base,
@@ -920,17 +1118,26 @@ def regenerate_single_file(
         return
     target_char = chain[-1]
     parent_prefix = ".".join(chain[:-1])
+    # Derive component English and immediate parent English from parent's markdown
+    parent_md = _read_md(out_dir, parent_prefix)
+    parent_english = _extract_english_heading(parent_md)
+    desc_line = _extract_description_line(parent_md)
+    comp_eng_map = _parse_component_english_map(desc_line)
+    comp_eng = comp_eng_map.get(target_char, "")
+    # Initialize visited from ancestor tokens only to prevent cycles.
+    # Do NOT include the target child itself, or generation would be skipped.
+    init_visited = set(tok for tok in chain[:-1] if len(tok) == 1 and is_cjk_char(tok))
     _generate_component_subtree(
         out_dir=out_dir,
         prefix=parent_prefix,
         ch=target_char,
-        component_english="",
-        parent_english=eng,
+        component_english=comp_eng,
+        parent_english=parent_english or eng,
         model=model,
         verbose=verbose,
         debug=debug,
         delay_s=delay_s,
-        visited=set(),
+        visited=init_visited,
         depth=1,
         comp_cache={},
     )
@@ -990,13 +1197,25 @@ def write_simple_card_md(
     for base_key in ("traditional", "simplified", "pronunciation", "definition"):
         label = render_label(name_by_key.get(base_key, base_key))
         if base_key == "definition":
-            value = english
+            # Prefer provided english; fallback to AI back_fields if available
+            bf_def = ""
+            if isinstance(back_fields, dict):
+                v = back_fields.get("definition")
+                if isinstance(v, str):
+                    bf_def = v.strip()
+            value = english or bf_def
         elif base_key == "traditional":
             value = traditional
         elif base_key == "simplified":
             value = simplified
         else:
-            value = pinyin
+            # pronunciation
+            bf_pin = ""
+            if isinstance(back_fields, dict):
+                v = back_fields.get("pronunciation")
+                if isinstance(v, str):
+                    bf_pin = v.strip()
+            value = pinyin or bf_pin
         parts.append(f"- **{label}:**: {value}")
 
     # Track fields that have already been rendered to avoid duplicates
@@ -1071,6 +1290,192 @@ def write_simple_card_md(
     return md_path
 
 
+def _process_single_row(
+    folder: Path,
+    idx: int,
+    simp: str,
+    trad: str,
+    pin: str,
+    eng: str,
+    rel: str,
+    model: Optional[str],
+    verbose: bool,
+    debug: bool,
+    delay_s: float,
+    comp_cache: Dict[str, object],
+) -> Tuple[int, int]:
+    # Returns (words_processed, cards_created_increment)
+    headword = simp or trad
+    file_base = f"{idx}.{headword}"
+    out_dir = folder
+    md_path = out_dir / f"{file_base}.md"
+    successes_local = 0
+    if md_path.exists():
+        if verbose:
+            print(f"[check] Validating subtree: {file_base}")
+        repair_iter = 0
+        while True:
+            bad = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
+            if bad is None:
+                if verbose:
+                    print(f"[ok] Subtree healthy: {file_base}")
+                break
+            if verbose:
+                print(f"[regen] Rebuilding: {bad}")
+            regenerate_single_file(
+                out_dir=out_dir,
+                file_base=file_base,
+                target_name=bad,
+                simp=simp,
+                trad=trad,
+                eng=eng,
+                model=model,
+                verbose=verbose,
+                debug=debug,
+                delay_s=delay_s,
+            )
+            repair_iter += 1
+            if repair_iter > 200:
+                raise RuntimeError(f"repair loop exceeded limit for {file_base}")
+        return 1, 0
+    # Build combined HTML fresh
+    combined_sections: List[str] = []
+    fetched_set: Dict[str, bool] = {}
+    for form in [simp, trad]:
+        form = (form or "").strip()
+        if not form or form in fetched_set:
+            continue
+        fetched_set[form] = True
+        form_html, form_status = fetch_wiktionary_html_status(form)
+        if verbose:
+            print(f"[info] Wiktionary GET {form} -> {form_status}")
+        if form_status == 200 and form_html:
+            combined_sections.append(section_header(form) + sanitize_html(form_html))
+        else:
+            combined_sections.append(section_header(form))
+        if delay_s > 0:
+            time.sleep(delay_s)
+    combined_html = "\n\n".join(combined_sections)
+    if verbose:
+        log_debug(debug, f"combined html size for {file_base}: {len(combined_html)}")
+    if verbose:
+        print(
+            f"[info] OpenAI back-fields for {file_base} (model={model or 'default'}), HTML bytes={len(combined_html)}"
+        )
+    log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'")
+    back = extract_back_fields_from_html(
+        simplified=simp or trad,
+        traditional=trad or simp,
+        english=eng,
+        html=combined_html,
+        model=model,
+        verbose=verbose,
+        parent_word=None,
+    )
+    if not _etymology_complete(back):
+        if verbose:
+            print(f"[warn] Incomplete etymology for {file_base}; retrying once")
+        back = extract_back_fields_from_html(
+            simplified=simp or trad,
+            traditional=trad or simp,
+            english=eng,
+            html=combined_html,
+            model=model,
+            verbose=verbose,
+            parent_word=None,
+        )
+    if verbose:
+        et = back.get("etymology") if isinstance(back, dict) else None
+        et_type = et.get("type") if isinstance(et, dict) else ""
+        et_sr = et.get("simplification_rule") if isinstance(et, dict) else ""
+        sr_flag = "present" if (simp and trad and simp != trad and et_sr) else "skipped"
+        print(f"[ok] Back fields extracted: etymology.type='{et_type}', simplification={sr_flag}")
+    log_debug(debug, f"back keys for {headword}: {list(back.keys()) if isinstance(back, dict) else type(back)}")
+    write_simple_card_md(
+        out_dir,
+        file_base,
+        eng,
+        trad or headword,
+        simp or headword,
+        pin,
+        rel,
+        back_fields=back,
+    )
+    _set_head_md_hash_threadsafe(out_dir, file_base, _sha256_file(md_path))
+    log_debug(debug, f"wrote md for {file_base}: pinyin='{pin}', relation='{rel}'")
+    try:
+        if isinstance(back, dict) and isinstance(headword, str) and len(headword) == 1:
+            comp_list = _collect_components_from_back(back)
+            log_debug(debug, f"components for {headword}: {comp_list}")
+            if comp_list:
+                desc = (
+                    back.get("etymology", {}).get("description")
+                    if isinstance(back.get("etymology"), dict)
+                    else ""
+                )
+                english_map = _parse_component_english_map(str(desc))
+                forms_map = _parse_component_forms_map(str(desc))
+                visited: set = set([headword])
+                child_bases = [f"{file_base}.{ch}" for ch in comp_list]
+                init_head_children(out_dir, file_base, child_bases)
+                for ch in comp_list:
+                    log_debug(debug, f"recurse into {file_base}.{ch} english='{english_map.get(ch, '')}'")
+                    sub_simp, sub_trad = forms_map.get(ch, (ch, ch))
+                    cached_global = _get_cached_back_for_char(ch)
+                    if isinstance(cached_global, dict):
+                        comp_cache[ch] = cached_global
+                    _generate_component_subtree(
+                        out_dir=out_dir,
+                        prefix=file_base,
+                        ch=ch,
+                        component_english=english_map.get(ch, ""),
+                        parent_english=eng,
+                        model=model,
+                        verbose=verbose,
+                        debug=debug,
+                        delay_s=delay_s,
+                        visited=visited,
+                        depth=1,
+                        comp_cache=comp_cache,
+                        simp_form=sub_simp,
+                        trad_form=sub_trad,
+                    )
+                    child_base = f"{file_base}.{ch}"
+                    child_md = out_dir / f"{child_base}.md"
+                    if child_md.exists():
+                        update_head_child_hash(out_dir, file_base, child_base, _sha256_file(child_md))
+                repair_iter = 0
+                while True:
+                    bad2 = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
+                    if bad2 is None:
+                        break
+                    if verbose:
+                        print(f"[regen] Rebuilding: {bad2}")
+                    regenerate_single_file(
+                        out_dir=out_dir,
+                        file_base=file_base,
+                        target_name=bad2,
+                        simp=simp,
+                        trad=trad,
+                        eng=eng,
+                        model=model,
+                        verbose=verbose,
+                        debug=debug,
+                        delay_s=delay_s,
+                    )
+                    repair_iter += 1
+                    if repair_iter > 200:
+                        raise RuntimeError(f"repair loop exceeded limit for {file_base}")
+    except Exception as e:
+        if verbose:
+            print(f"[warn] sub-component generation failed for {file_base}: {e}")
+        raise
+    successes_local += 1
+    if verbose:
+        print(f"[ok] Card for {file_base}")
+    return 1, successes_local
+
+
 def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: bool, delay_s: float) -> Tuple[int, int]:
     # Only support the canonical filename: -input.parsed.csv
     parsed_path = folder / "-input.parsed.csv"
@@ -1093,141 +1498,56 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
     ensure_words_initialized(gcache, file_bases)
     save_global_cache(out_dir, gcache)
 
-    for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
-        headword = simp or trad
-        file_base = f"{idx}.{headword}"
-        try:
-            md_path = out_dir / f"{file_base}.md"
-            if md_path.exists():
-                if verbose:
-                    print(f"[check] Validating subtree: {file_base}")
-                # Validate the entire subtree once; do NOT auto-repair
-                bad = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
-                if bad is None:
-                    if verbose:
-                        print(f"[ok] Subtree healthy: {file_base}")
-                    continue
-                # Cache mismatch: fail loudly (no auto-repair)
-                print(f"[error] Cache mismatch: {bad}")
-                raise RuntimeError(f"cache mismatch for {file_base}: {bad}")
-            # Always fetch fresh HTML for current generation
-            combined_sections: List[str] = []
-            fetched_set: Dict[str, bool] = {}
-            for form in [simp, trad]:
-                form = (form or "").strip()
-                if not form or form in fetched_set:
-                    continue
-                fetched_set[form] = True
-                form_html, form_status = fetch_wiktionary_html_status(form)
-                if verbose:
-                    print(f"[info] Wiktionary GET {form} -> {form_status}")
-                if form_status == 200 and form_html:
-                    combined_sections.append(section_header(form) + sanitize_html(form_html))
-                else:
-                    combined_sections.append(section_header(form))
-                if delay_s > 0:
-                    time.sleep(delay_s)
-            combined_html = "\n\n".join(combined_sections)
-            if verbose:
-                log_debug(debug, f"combined html size for {file_base}: {len(combined_html)}")
-            # Build single card markdown, enriching with AI-derived back fields
-            if verbose:
-                print(
-                    f"[info] OpenAI back-fields for {file_base} (model={model or 'default'}), HTML bytes={len(combined_html)}"
-                )
-            log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'")
-            back = extract_back_fields_from_html(
-                simplified=simp or trad,
-                traditional=trad or simp,
-                english=eng,
-                html=combined_html,
-                model=model,
-                verbose=verbose,
-                parent_word=None,
-            )
-            if verbose:
-                et = back.get("etymology") if isinstance(back, dict) else None
-                et_type = et.get("type") if isinstance(et, dict) else ""
-                et_sr = et.get("simplification_rule") if isinstance(et, dict) else ""
-                sr_flag = "present" if (simp and trad and simp != trad and et_sr) else "skipped"
-                print(f"[ok] Back fields extracted: etymology.type='{et_type}', simplification={sr_flag}")
-            log_debug(debug, f"back keys for {headword}: {list(back.keys()) if isinstance(back, dict) else type(back)}")
-            write_simple_card_md(
-                out_dir,
-                file_base,
-                eng,
-                trad or headword,
-                simp or headword,
-                pin,
-                rel,
-                back_fields=back,
-            )
-            # Update global cache: headword md hash immediately after writing
-            gcache = load_global_cache(out_dir)
-            set_word_md_hash(gcache, file_base, _sha256_file(md_path))
-            save_global_cache(out_dir, gcache)
-            log_debug(debug, f"wrote md for {file_base}: pinyin='{pin}', relation='{rel}'")
-            # If this is a single-character headword, generate full sub-component subtree based on etymology
+    # Determine concurrency level (hardcoded)
+    workers = DEFAULT_PARALLEL_WORKERS
+
+    if workers == 1:
+        for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
             try:
-                if isinstance(back, dict) and isinstance(headword, str) and len(headword) == 1:
-                    comp_list = _collect_components_from_back(back)
-                    log_debug(debug, f"components for {headword}: {comp_list}")
-                    if comp_list:
-                        desc = (
-                            back.get("etymology", {}).get("description")
-                            if isinstance(back.get("etymology"), dict)
-                            else ""
-                        )
-                        english_map = _parse_component_english_map(str(desc))
-                        forms_map = _parse_component_forms_map(str(desc))
-                        visited: set = set([headword])
-                        # Initialize per-head child cache with blank hashes
-                        child_bases = [f"{file_base}.{ch}" for ch in comp_list]
-                        init_head_children(out_dir, file_base, child_bases)
-                        for ch in comp_list:
-                            log_debug(debug, f"recurse into {file_base}.{ch} english='{english_map.get(ch, '')}'")
-                            sub_simp, sub_trad = forms_map.get(ch, (ch, ch))
-                            _generate_component_subtree(
-                                out_dir=out_dir,
-                                prefix=file_base,
-                                ch=ch,
-                                component_english=english_map.get(ch, ""),
-                                parent_english=eng,
-                                model=model,
-                                verbose=verbose,
-                                debug=debug,
-                                delay_s=delay_s,
-                                visited=visited,
-                                depth=1,
-                                comp_cache=comp_cache,
-                                simp_form=sub_simp,
-                                trad_form=sub_trad,
-                            )
-                            # After each child is written, update its hash in head cache
-                            child_base = f"{file_base}.{ch}"
-                            child_md = out_dir / f"{child_base}.md"
-                            if child_md.exists():
-                                update_head_child_hash(out_dir, file_base, child_base, _sha256_file(child_md))
-                        # Validate once after generation; do NOT auto-repair
-                        bad2 = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
-                        if bad2 is not None:
-                            print(f"[error] Cache mismatch after generation: {bad2}")
-                            raise RuntimeError(f"cache mismatch after generation for {file_base}: {bad2}")
+                _, inc = _process_single_row(folder, idx, simp, trad, pin, eng, rel, model, verbose, debug, delay_s, comp_cache)
+                successes += inc
+            except KeyboardInterrupt:
+                if verbose:
+                    print("[cancelled]")
+                return successes, len(rows)
             except Exception as e:
                 if verbose:
-                    print(f"[warn] sub-component generation failed for {file_base}: {e}")
-                # Always fail hard on sub-component generation errors
+                    print(f"[error] Failed to build card for {(simp or trad)}: {e}")
                 raise
-            successes += 1
-            if verbose:
-                print(f"[ok] Card for {file_base}")
-        except KeyboardInterrupt:
-            if verbose:
-                print("[cancelled]")
-                return successes, len(rows)
-        except Exception as e:
-            if verbose:
-                print(f"[error] Failed to build card for {(simp or trad)}: {e}")
+    else:
+        if verbose:
+            print(f"[info] Parallel workers: {workers}")
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = []
+            for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
+                futures.append(
+                    executor.submit(
+                        _process_single_row,
+                        folder,
+                        idx,
+                        simp,
+                        trad,
+                        pin,
+                        eng,
+                        rel,
+                        model,
+                        verbose,
+                        debug,
+                        delay_s,
+                        comp_cache,
+                    )
+                )
+            try:
+                for fut in as_completed(futures):
+                    words_inc, cards_inc = fut.result()
+                    successes += cards_inc
+            except KeyboardInterrupt:
+                if verbose:
+                    print("[cancelled]")
+                # Let threads wind down naturally
+            except Exception as e:
+                if verbose:
+                    print(f"[error] Worker failed: {e}")
                 raise
     # After processing the folder, concatenate all .md files into -output.md
     try:

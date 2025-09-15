@@ -1,0 +1,7 @@
+# Project Rules for Cursor
+
+- Command execution: Use Make targets exclusively; do not run scripts or interpreters directly.
+  - Examples: `make setup`, `make generate`, `make generate-debug`.
+  - If a new operation is needed, add a Make target first, then use it.
+
+- Shell assumptions: zsh on macOS. Prefer absolute paths when passing file or directory arguments.

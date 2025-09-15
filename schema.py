@@ -168,6 +168,8 @@ BACK_SCHEMA = CardSchema(
                         "STRICT FORMAT RULES:\n"
                         "- Use terse tokens like: pictogram of Simplified(Traditional) (pinyin, \"english\"), semantic: Simplified(Traditional) (pinyin, \"english\"), phonetic: Simplified(Traditional) (pinyin, \"english\"), ideogrammic: Simplified(Traditional) (pinyin, \"english\") + Simplified(Traditional) (pinyin, \"english\").\n"
                         "- HARD RULE: EVERY Chinese element MUST be rendered as Simplified(Traditional) (pinyin, \"english\"); omit (Traditional) if identical. Use Simplified as the base form. Do NOT use angle brackets.\n"
+                        "- Do NOT mention where a component appears elsewhere (e.g., 'appears as the top of 灰'); describe ONLY the formation path of the head character.\n"
+                        "- Include ONLY the core historical formation events; EXCLUDE script/graphic variants, orthographic regularizations, and other side notes unrelated to the core formation.\n"
                         "- If the TYPE is pictogram, you MUST explicitly state what it depicts (e.g., 'pictogram: depiction of calyx of a flower'), not an abstract concept.\n"
                         "- END THE LINE WITH A PERIOD.\n"
                         "Use general reasoning only if the HTML is insufficient."
@@ -187,6 +189,7 @@ BACK_SCHEMA = CardSchema(
                         "- Do NOT claim a pictogram 'represents the idea of' an abstract notion; describe the depiction explicitly instead.\n"
                         "- If credible alternative interpretations are mentioned in the HTML (e.g., Shuowen, Karlgren, Wieger), briefly note them as alternatives.\n"
                         "- If you reference specific components, render Chinese as Simplified(Traditional) (pinyin, \"english\") without angle brackets; omit (Traditional) if identical. Use Simplified as the base form.\n"
+                        "- Do NOT discuss where the components appear in other characters; restrict to the head character's formation and meaning.\n"
                         "- Critically: explain WHY the SEMANTIC component applies to the MODERN meaning(s). If phono-semantic, explicitly identify the semantic determinative vs the phonetic, and state how the semantic determinative matches the word's domain today. If semantic/ideogrammic, state how the parts combine to yield the current sense. If meaning was borrowed/extended, explain the mechanism and why that newer sense persisted.\n"
                         "- Be concise and factual. END WITH A PERIOD. Use general reasoning only as a last resort."
                     ),
