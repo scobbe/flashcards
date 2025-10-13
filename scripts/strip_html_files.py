@@ -23,8 +23,8 @@ def sanitize_html_to_text(html: str) -> str:
     if main_content:
         soup = main_content
     
-    # Remove unwanted sections entirely (but NOT meta, as Wiktionary content may be inside it)
-    for tag in soup(["script", "style", "noscript", "footer", "nav", "header", "link", 
+    # Remove unwanted sections entirely (but NOT meta or link, as Wiktionary content may be inside/after)
+    for tag in soup(["script", "style", "noscript", "footer", "nav", "header", 
                      "form", "button", "input", "select"]):
         tag.decompose()
     
@@ -35,14 +35,16 @@ def sanitize_html_to_text(html: str) -> str:
         if element:
             element.decompose()
     
-    # Remove very large tables (dialect/pronunciation tables are huge)
-    for tag in soup.find_all(["table"]):
+    # Remove very large tables, but keep first few for essential info
+    tables = soup.find_all(["table"])
+    for i, tag in enumerate(tables):
         try:
             text_len = len(tag.get_text(" ", strip=True))
         except Exception:
             text_len = 0
-        # Be more aggressive - most tables are pronunciation data we don't need in detail
-        if text_len > 2000:
+        # Keep first 3 tables (usually character info), then be more aggressive
+        table_limit = 5000 if i < 3 else 2000
+        if text_len > table_limit:
             tag.decompose()
     
     # Aggressively limit lists to first 15 items
