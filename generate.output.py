@@ -366,34 +366,166 @@ def fetch_wiktionary_html_status(word: str, timeout: float = 20.0) -> Tuple[str,
         return "", 0
 
 
+def save_html_with_parsed(html_path: Path, html_content: str, verbose: bool = False) -> None:
+    """Save both original HTML and parsed version.
+    
+    Args:
+        html_path: Path to save .input.html file
+        html_content: Original HTML content
+        verbose: Whether to print progress
+    """
+    # Save original HTML
+    html_path.write_text(html_content, encoding="utf-8")
+    
+    # Save parsed version
+    parsed_path = html_path.with_suffix(html_path.suffix + '.parsed')
+    parsed_content = sanitize_html(html_content)
+    parsed_path.write_text(parsed_content, encoding="utf-8")
+    
+    if verbose:
+        print(f"[file] Created HTML: {html_path.name} ({len(html_content):,} bytes)")
+        print(f"[file] Created parsed: {parsed_path.name} ({len(parsed_content):,} bytes)")
+
+
+def load_html_for_api(html_path: Path) -> str:
+    """Load HTML for API call, preferring parsed version.
+    
+    Args:
+        html_path: Base path (.input.html)
+    
+    Returns:
+        Parsed HTML content if available, otherwise original
+    """
+    parsed_path = html_path.with_suffix(html_path.suffix + '.parsed')
+    
+    if parsed_path.exists():
+        return parsed_path.read_text(encoding="utf-8", errors="ignore")
+    elif html_path.exists():
+        # Fallback to original if parsed doesn't exist
+        return sanitize_html(html_path.read_text(encoding="utf-8", errors="ignore"))
+    else:
+        return ""
+
+
 def sanitize_html(html: str) -> str:
+    """Aggressively strip HTML and compress to minimal text, removing most whitespace."""
     soup = BeautifulSoup(html, "html.parser")
-    # Remove heavy or irrelevant sections to keep tokens small
-    for tag in soup(["script", "style", "noscript", "footer", "nav", "header"]):
+    
+    # Remove unwanted sections entirely
+    for tag in soup(["script", "style", "noscript", "footer", "nav", "header", "meta", "link", 
+                     "form", "button", "input", "select"]):
         tag.decompose()
-    # Constrain very large tables and lists instead of dropping useful content (e.g., compounds)
+    
+    # Remove navigation and UI elements by class/id patterns
+    for pattern in ["nav", "menu", "sidebar", "footer", "header", "banner", "breadcrumb", 
+                   "navigation", "search", "tool", "jump", "edit", "mw-", "vector-"]:
+        for tag in soup.find_all(class_=lambda x: x and pattern in str(x).lower()):
+            tag.decompose()
+        for tag in soup.find_all(id=lambda x: x and pattern in str(x).lower()):
+            tag.decompose()
+    
+    # Remove very large tables
     for tag in soup.find_all(["table"]):
         try:
-            text_len = len(tag.get_text(" "))
+            text_len = len(tag.get_text(" ", strip=True))
         except Exception:
             text_len = 0
-        if text_len > 20000:
+        if text_len > 5000:
             tag.decompose()
+    
+    # Aggressively limit lists to first 15 items
     for tag in soup.find_all(["ul", "ol"]):
         try:
             items = tag.find_all("li", recursive=False)
         except Exception:
             items = []
-        if len(items) > 0:
-            # Keep only the first N items to avoid token bloat but preserve examples/compounds
-            keep_n = 50
-            for li in items[keep_n:]:
+        if len(items) > 15:
+            for li in items[15:]:
                 li.decompose()
-    # Truncate extremely long pages safely
-    text = str(soup)
-    if len(text) > 150_000:
-        text = text[:150_000]
-    return text
+    
+    # Extract text with spaces as separator (not newlines)
+    text = soup.get_text(separator=" ", strip=True)
+    
+    # Remove common redundant phrases
+    redundant_phrases = [
+        "Jump to content",
+        "From Wiktionary, the free dictionary",
+        "edit",
+        "[edit]",
+        "Toggle the table of contents",
+        "Personal tools",
+        "Navigation",
+        "Contribute",
+        "Print/export",
+        "In other projects",
+        "Languages",
+        "Tools",
+        "Appearance",
+        "See also:",
+        "Further reading:",
+        "References:",
+        "Retrieved from",
+        "Categories:",
+        "Hidden categories:",
+        "See images of",
+        "Wikipedia has an article on:",
+        "Wikipedia has articles on:",
+        "English Wikipedia has an article on:",
+    ]
+    for phrase in redundant_phrases:
+        text = text.replace(phrase, "")
+    
+    # Collapse multiple spaces to single space
+    text = re.sub(r'\s+', ' ', text)
+    
+    # Remove all [ ] brackets and their contents when they're navigation/edit markers
+    text = re.sub(r'\[\s*\]', '', text)
+    
+    # Remove Unicode values and CJK identifiers
+    text = re.sub(r'U\+[0-9A-F]{4,5}', '', text)
+    text = re.sub(r'CJK UNIFIED IDEOGRAPH-[0-9A-F]+', '', text)
+    text = re.sub(r'&#\d+;?', '', text)
+    
+    # Remove navigation arrows and references like "← X [U+XXXX] ... Y → [U+YYYY]"
+    text = re.sub(r'←[^→]*→\s*\[[^\]]+\]', '', text)
+    
+    # Remove IPA notation (between slashes or with "IPA" keyword)
+    text = re.sub(r'IPA\s*\([^)]*\)\s*:\s*/[^/]+/', '', text)
+    text = re.sub(r'Sinological IPA[^:]*:[^/]*/[^/]+/', '', text)
+    
+    # Remove excessive romanization system names
+    text = re.sub(r'(Baxter|Zhengzhang|Palladius|Wade–Giles|Gwoyeu Romatzyh|Tongyong Pinyin|Hanyu Pinyin|Zhuyin|Jyutping|Cantonese Pinyin|Guangdong Romanization)[^:]*:\s*[^\s]+', '', text)
+    
+    # Remove Reading # markers
+    text = re.sub(r'Reading\s*#\s*\d+/\d+', '', text)
+    
+    # Remove technical metadata phrases
+    text = re.sub(r'(Rime Character|Initial \( 聲 \)|Final \( 韻 \)|Tone \( 調 \)|Openness \( 開合 \)|Division \( 等 \)|Fanqie|Reconstructions)[^:]*:', '', text)
+    
+    # Remove "Notes for Old Chinese notations" and similar
+    text = re.sub(r'Notes for Old [^:]*:.*?boundary\.', '', text, flags=re.DOTALL)
+    
+    # Remove repeated characters/patterns (common in navigation)
+    text = re.sub(r'(\.{3,})', '...', text)
+    
+    # Remove category listings at end
+    text = re.sub(r'(Categories|Hidden categories):.*$', '', text)
+    
+    # Strategic newlines only for major sections (keep some structure)
+    # Add newline before major section markers
+    for marker in ["Etymology", "Pronunciation", "Definitions", "Derived terms", 
+                  "Compounds", "See also", "References", "Further reading",
+                  "Translingual", "Chinese", "Japanese", "Korean", "Vietnamese"]:
+        text = text.replace(f" {marker} ", f"\n{marker}: ")
+    
+    # Remove excessive parenthetical content that's often metadata
+    text = re.sub(r'\([^)]{100,}\)', '', text)
+    
+    # Truncate if still too long
+    if len(text) > 25_000:
+        text = text[:25_000]
+    
+    return text.strip()
 
 
 def _clean_value(text: str) -> str:
@@ -573,7 +705,7 @@ def _generate_component_subtree(
     # Prepare HTML for this component (cached by path)
     html_path = out_dir / f"{word_id}.input.html"
     if html_path.exists():
-        combined_html = html_path.read_text(encoding="utf-8", errors="ignore")
+        combined_html = load_html_for_api(html_path)
         if verbose:
             print(f"[info] Using cached HTML for {word_id}")
     else:
@@ -588,15 +720,14 @@ def _generate_component_subtree(
             if verbose:
                 print(f"[fetch] Wiktionary: {form} → HTTP {form_status}")
             if form_status == 200 and form_html:
-                combined_sections.append(section_header(form) + sanitize_html(form_html))
+                combined_sections.append(section_header(form) + form_html)
             else:
                 combined_sections.append(section_header(form))
             if delay_s > 0:
                 time.sleep(delay_s)
-        combined_html = "\n\n".join(combined_sections)
-        html_path.write_text(combined_html, encoding="utf-8")
-        if verbose:
-            print(f"[file] Created HTML: {html_path.name} ({len(combined_html)} bytes)")
+        combined_html_raw = "\n\n".join(combined_sections)
+        save_html_with_parsed(html_path, combined_html_raw, verbose=verbose)
+        combined_html = load_html_for_api(html_path)
 
     # Generate back fields for this component (with cache)
     back: Dict[str, object] | object
@@ -1259,12 +1390,13 @@ def regenerate_single_file(
             if verbose:
                 print(f"[fetch] Wiktionary: {form} → HTTP {form_status}")
             if form_status == 200 and form_html:
-                combined_sections.append(section_header(form) + sanitize_html(form_html))
+                combined_sections.append(section_header(form) + form_html)
             else:
                 combined_sections.append(section_header(form))
             if delay_s > 0:
                 time.sleep(delay_s)
-        combined_html = "\n\n".join(combined_sections)
+        combined_html_raw = "\n\n".join(combined_sections)
+        combined_html = sanitize_html(combined_html_raw)
         back = extract_back_fields_from_html(
             simplified=simp or trad,
             traditional=trad or simp,
@@ -1668,12 +1800,20 @@ def _process_single_row(
         if verbose:
             print(f"[info] Wiktionary GET {form} -> {form_status}")
         if form_status == 200 and form_html:
-            combined_sections.append(section_header(form) + sanitize_html(form_html))
+            combined_sections.append(section_header(form) + form_html)
         else:
             combined_sections.append(section_header(form))
         if delay_s > 0:
             time.sleep(delay_s)
-    combined_html = "\n\n".join(combined_sections)
+    combined_html_raw = "\n\n".join(combined_sections)
+    
+    # Save both original and parsed HTML
+    html_path = out_dir / f"{file_base}.input.html"
+    save_html_with_parsed(html_path, combined_html_raw, verbose=verbose)
+    
+    # Use parsed version for API
+    combined_html = load_html_for_api(html_path)
+    
     if verbose:
         log_debug(debug, f"combined html size for {file_base}: {len(combined_html)}")
     log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'; HTML bytes={len(combined_html)}")
