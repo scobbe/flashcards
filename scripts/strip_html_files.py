@@ -18,18 +18,22 @@ def sanitize_html_to_text(html: str) -> str:
     """Aggressively strip HTML and compress to minimal text, removing most whitespace."""
     soup = BeautifulSoup(html, "html.parser")
     
-    # Remove unwanted sections entirely
-    for tag in soup(["script", "style", "noscript", "footer", "nav", "header", "meta", "link", 
+    # Try to extract just the main content div (for Wiktionary pages)
+    main_content = soup.find(id="mw-content-text")
+    if main_content:
+        soup = main_content
+    
+    # Remove unwanted sections entirely (but NOT meta, as Wiktionary content may be inside it)
+    for tag in soup(["script", "style", "noscript", "footer", "nav", "header", "link", 
                      "form", "button", "input", "select"]):
         tag.decompose()
     
-    # Remove navigation and UI elements by class/id patterns
-    for pattern in ["nav", "menu", "sidebar", "footer", "header", "banner", "breadcrumb", 
-                   "navigation", "search", "tool", "jump", "edit", "mw-", "vector-"]:
-        for tag in soup.find_all(class_=lambda x: x and pattern in str(x).lower()):
-            tag.decompose()
-        for tag in soup.find_all(id=lambda x: x and pattern in str(x).lower()):
-            tag.decompose()
+    # Remove specific navigation/UI elements by ID
+    for element_id in ["mw-navigation", "mw-head", "mw-panel", "footer", "catlinks", 
+                      "siteSub", "contentSub", "jump-to-nav"]:
+        element = soup.find(id=element_id)
+        if element:
+            element.decompose()
     
     # Remove very large tables
     for tag in soup.find_all(["table"]):

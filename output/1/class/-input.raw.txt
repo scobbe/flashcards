@@ -1,216 +1,67 @@
-上班  /  下班 
- 
-星期六   星期天 
- 
-晚上7点 
- 
-AM  /PM 
- 
-早上  /  下午  /  晚上   +  ......
- 
-8am   早上8点 
- 
-5am - 11am 
- 
-早上 
- 
-12pm -1pm   中午  
- 
-13：00   中午 1 点 
- 
-24 小时  
- 
-xiao3 shi2  
- 
-12 小时 
- 
-2pm - 6pm
- 
-下午 
- 
-7pm-4am
- 
-晚上 
- 
-1am
- 
-软件 ruan3 jian4  
- 
-工程师 gong1 cheng2 shi1 
- 
-新xin1 
- 
-我们  做 新的 软件  
- 
-创业公司  chuang4 ye4  gong1 si1 
- 
-time  / duration
- 
-你  在  CLI  工作了  几年 ？
- 
-医生 yi1 sheng1  
- 
-doctor 
- 
- 我没去 医院 yi1 yuan4 
- 
-需要 xu1 yao4  need
- 
-等 deng3   to wait
- 
-针灸 zhen1 jiu1 
- 
-中医 zhong1 yi1 
- 
-页 ye4  
- 
-第二页  di4 er4  ye4  
- 
-的  /  得  
- 
-我的 老师 
- 
-我的 公司 
- 
-得  dei3      must
- 
-我 得 工作 
- 
-你  得 吃饭 
- 
-告诉 gao4 su4  
- 
-to tell
- 
-得 dei3   /  需要 xu1 yao4  
- 
-have  to   /  need
- 
-得   
- 
-V +得 adj
- 
-你  说得  很快 
- 
-我  睡得  很好 
- 
-VO +V +adj
- 
-说 中文 
- 
-V  O 
- 
-她 说中文  说得 很好 
- 
-她   睡觉  睡 得  不好
- 
-穿 chuan1  to wear
- 
-早上好 
- 
-她  睡得  很早 
- 
-她 睡觉  睡得 很早 
- 
-verb + 得  adj
- 她 睡觉  睡得 很早 
- 
-verb + 得  adj
- 
-VO + V +得 adj
- 
-一样 yi2 yang4   same
- 
-多  duo1  /  少 shao3 
- 
-你的公司  有  多少人 ？
- 
-我的公司   人  很少 
- 
-汉堡 han4  bao3 
- 
-店 dian4   shop
- 
-得  dei3  /  不用 
- 
-美元  mei3 yuan2  USD 
- 
-买的 衣服  太小 
- 
-我要 换  大的 
- 
-我 刚 吃 早饭 
- 
-刚 /  刚刚 
- 
-从 ....到.....
- 
-房子 fang2 zi  house
- 
- 旧金山 的 房子  非常贵 
- 
-第一次 
- 
-我  去过 中国   一次 
- 
-我  吃过  一次  中国菜 
- 
-学校 xue2 xiao4  school
- 
-verb + 过   past experience 
- 
-我没 喝咖啡 
- 
-我 没 喝过 咖啡 
- 
-员工 yuan2 gong1 
- 
-employee
- 
-服务员 fu2 wu4 yuan2 
- 
-饭馆 fan4 guan3  
- 
-restaurant 
- 
-多音字  duo1 yin1  zi4 
- 
-数  shu3  /  shu4 
- 
-看一看 
- 
-看一下 
- 
-看看 
- 
-数一下 
- 
-数一数  
- 
-数数
- 
-林  lin2  
- 
-娜na4 
- 
-穿 chuan1 
- 
-to wear
- 
-换 huan4 
- 
-块 kuai4  buck
- 
-毛  mao2  
- 旅行 lv3 xing2 
- 
-玩  wan2  
- 
-to have fun
- 
-住 zhu4  to live
- 
-介绍 jie4  shao4  
- 
-introduce 
- 
+1. 上班 shàngbān – to go to work, 我早上九点上班。Wǒ zǎoshang jiǔ diǎn shàngbān. I go to work at nine in the morning.
+2. 下班 xiàbān – to get off work, 我下午五点下班。Wǒ xiàwǔ wǔ diǎn xiàbān. I get off work at five in the afternoon.
+3. 星期六 xīngqīliù – Saturday, 星期六我不上班。Xīngqīliù wǒ bú shàngbān. I don’t work on Saturday.
+4. 星期天 xīngqītiān – Sunday, 星期天我们去吃饭。Xīngqītiān wǒmen qù chīfàn. We go out to eat on Sunday.
+5. 晚上 wǎnshang – evening, 晚上七点我在家。Wǎnshang qī diǎn wǒ zài jiā. I’m home at seven in the evening.
+6. 早上 zǎoshang – morning, 早上好！Zǎoshang hǎo! Good morning!
+7. 下午 xiàwǔ – afternoon, 下午两点开会。Xiàwǔ liǎng diǎn kāihuì. Meeting at two in the afternoon.
+8. 中午 zhōngwǔ – noon, 中午十二点吃饭。Zhōngwǔ shí’èr diǎn chīfàn. I eat lunch at noon.
+9. 小时 xiǎoshí – hour, 我工作八个小时。Wǒ gōngzuò bā gè xiǎoshí. I work eight hours.
+10. 软件 ruǎnjiàn – software, 我们做新的软件。Wǒmen zuò xīn de ruǎnjiàn. We’re making new software.
+11. 工程师 gōngchéngshī – engineer, 他是软件工程师。Tā shì ruǎnjiàn gōngchéngshī. He is a software engineer.
+12. 新 xīn – new, 我买了新电脑。Wǒ mǎile xīn diànnǎo. I bought a new computer.
+13. 我们做新的软件 Wǒmen zuò xīn de ruǎnjiàn – we make new software.
+14. 创业公司 chuàngyè gōngsī – startup, 我在创业公司工作。Wǒ zài chuàngyè gōngsī gōngzuò. I work at a startup.
+15. 时间 shíjiān – time, 你有时间吗？Nǐ yǒu shíjiān ma? Do you have time?
+16. 你在CLI工作了几年？Nǐ zài CLI gōngzuò le jǐ nián? How many years have you worked at CLI?
+17. 医生 yīshēng – doctor, 我没去医院。Wǒ méi qù yīyuàn. I didn’t go to the hospital.
+18. 医院 yīyuàn – hospital, 我去医院看医生。Wǒ qù yīyuàn kàn yīshēng. I go to the hospital to see a doctor.
+19. 需要 xūyào – to need, 我需要水。Wǒ xūyào shuǐ. I need water.
+20. 等 děng – to wait, 请等一下。Qǐng děng yīxià. Please wait a moment.
+21. 针灸 zhēnjiǔ – acupuncture, 我学过针灸。Wǒ xué guò zhēnjiǔ. I have studied acupuncture.
+22. 中医 zhōngyī – Chinese medicine, 中医很好。Zhōngyī hěn hǎo. Chinese medicine is very good.
+23. 页 yè – page, 第二页。Dì èr yè. Page two.
+24. 的 de – possessive particle, 我的老师。Wǒ de lǎoshī. My teacher.
+25. 得 děi – must, 我得工作。Wǒ děi gōngzuò. I must work.
+26. 得 de (complement marker), 你说得很快。Nǐ shuō de hěn kuài. You speak very fast.
+27. 告诉 gàosu – to tell, 请告诉我。Qǐng gàosu wǒ. Please tell me.
+28. 睡 shuì – to sleep, 我睡得很好。Wǒ shuì de hěn hǎo. I sleep well.
+29. 说 shuō – to speak, 她说中文说得很好。Tā shuō Zhōngwén shuō de hěn hǎo. She speaks Chinese very well.
+30. 穿 chuān – to wear, 她穿红衣服。Tā chuān hóng yīfu. She wears red clothes.
+31. 一样 yīyàng – same, 我们的衣服一样。Wǒmen de yīfu yīyàng. Our clothes are the same.
+32. 多 duō – many, 人很多。Rén hěn duō. There are many people.
+33. 少 shǎo – few, 人很少。Rén hěn shǎo. There are few people.
+34. 多少 duōshao – how many, 你的公司有多少人？Nǐ de gōngsī yǒu duōshao rén? How many people are in your company?
+35. 汉堡 hànbǎo – hamburger, 我喜欢吃汉堡。Wǒ xǐhuān chī hànbǎo. I like to eat hamburgers.
+36. 店 diàn – shop, 这家店很好。Zhè jiā diàn hěn hǎo. This shop is good.
+37. 得 děi / 不用 bú yòng – must / not need, 你得吃饭。Nǐ děi chīfàn. You must eat. / 你不用去。Nǐ bú yòng qù. You don’t need to go.
+38. 美元 měiyuán – US dollar, 我有一百美元。Wǒ yǒu yì bǎi měiyuán. I have one hundred US dollars.
+39. 买的衣服太小。Mǎi de yīfu tài xiǎo. The clothes I bought are too small.
+40. 我要换大的。Wǒ yào huàn dà de. I want to exchange for a bigger one.
+41. 刚 gāng – just, 我刚吃早饭。Wǒ gāng chī zǎofàn. I just ate breakfast.
+42. 刚刚 gānggāng – just now, 他刚刚走。Tā gānggāng zǒu. He just left.
+43. 从…到… cóng … dào … – from … to …, 从北京到上海。Cóng Běijīng dào Shànghǎi. From Beijing to Shanghai.
+44. 房子 fángzi – house, 旧金山的房子非常贵。Jiùjīnshān de fángzi fēicháng guì. Houses in San Francisco are very expensive.
+45. 第一次 dì yī cì – first time, 这是我第一次来中国。Zhè shì wǒ dì yī cì lái Zhōngguó. This is my first time in China.
+46. 过 guò – experiential aspect marker, 我去过中国。Wǒ qù guò Zhōngguó. I have been to China.
+47. 学校 xuéxiào – school, 我在学校工作。Wǒ zài xuéxiào gōngzuò. I work at a school.
+48. 员工 yuángōng – employee, 我是公司的员工。Wǒ shì gōngsī de yuángōng. I’m an employee of the company.
+49. 服务员 fúwùyuán – waiter/waitress, 服务员很好。Fúwùyuán hěn hǎo. The waiter is nice.
+50. 饭馆 fànguǎn – restaurant, 我们去饭馆吃饭。Wǒmen qù fànguǎn chīfàn. Let’s go eat at a restaurant.
+51. 多音字 duōyīnzì – polyphonic character, “数”是一个多音字。“Shù” shì yí gè duōyīnzì. “Shu” is a polyphonic character.
+52. 数 shǔ / shù – to count / number, 我会数一数。Wǒ huì shǔ yī shǔ. I’ll count. / 这是一个数。Zhè shì yí gè shù. This is a number.
+53. 看一看 kàn yī kàn – take a look, 你看一看。Nǐ kàn yī kàn. Have a look.
+54. 看一下 kàn yīxià – take a look, 看一下那个。Kàn yīxià nà ge. Look at that.
+55. 看看 kànkan – look, 你看看书。Nǐ kànkan shū. Take a look at the book.
+56. 数一下 shǔ yīxià – count it, 数一下钱。Shǔ yīxià qián. Count the money.
+57. 数一数 shǔ yī shǔ – count, 数一数苹果。Shǔ yī shǔ píngguǒ. Count the apples.
+58. 数数 shǔ shù – count, 小孩学数数。Xiǎohái xué shǔ shù. The child is learning to count.
+59. 林 Lín – a surname, 林老师。Lín lǎoshī. Teacher Lin.
+60. 娜 Nà – a name, 娜老师。Nà lǎoshī. Teacher Na.
+61. 换 huàn – to exchange, 我想换钱。Wǒ xiǎng huàn qián. I want to exchange money.
+62. 块 kuài – buck; piece, 三块钱。Sān kuài qián. Three bucks.
+63. 毛 máo – dime (0.1 yuan), 一毛钱。Yì máo qián. Ten cents.
+64. 旅行 lǚxíng – to travel, 我喜欢旅行。Wǒ xǐhuān lǚxíng. I like to travel.
+65. 玩 wán – to have fun; to play, 我们去玩吧。Wǒmen qù wán ba. Let’s go have fun.
+66. 住 zhù – to live, 我住在北京。Wǒ zhù zài Běijīng. I live in Beijing.
+67. 介绍 jièshào – to introduce, 我介绍一下。Wǒ jièshào yīxià. Let me introduce (someone).

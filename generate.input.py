@@ -178,34 +178,45 @@ def filter_substrings(words: Sequence[str]) -> List[str]:
     return result
 
 
-def call_openai_for_vocab(text: str, model: str | None = None) -> List[str]:
+def call_openai_for_vocab_and_forms(text: str, model: str | None = None) -> List[Tuple[str, str, str, str, str]]:
+    """Extract vocabulary and forms directly from raw text in one OpenAI call.
+    
+    Returns list of (simplified, traditional, pinyin, english, phrase) tuples.
+    """
     client = OpenAIClient(model=model)
     system = (
-        "You are a precise Chinese vocabulary extractor. "
-        "Given a raw study note text, extract ONLY the top-level headwords (vocabulary entries). "
-        "Ignore examples, sentences, subcomponents/decompositions, and parts-of-speech annotations. "
-        "Return a JSON object with a single key 'vocab' whose value is an array of strings. "
-        "Each string MUST contain ONLY Chinese characters (no spaces, no Latin letters, no punctuation). "
-        "Deduplicate entries. If a word is a substring of another longer word present, exclude the substring."
+        "You are a Chinese vocabulary parser. "
+        "Given numbered vocabulary entries, extract each word/phrase with its forms. "
+        "Return JSON: {\"entries\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P, \"english\": E, \"phrase\": EXAMPLE}, ...]} "
+        "For each numbered line, extract the FIRST Chinese word/phrase as the vocabulary item. "
+        "Provide simplified, traditional (if different), pinyin with tone marks, short English definition, and an example phrase if present. "
+        "If simplified and traditional are the same, repeat it. "
+        "Return entries in the same order as the input."
     )
-    user = (
-        "Extract top-level vocabulary headwords from this text and return JSON of the form "
-        "{\"vocab\":[\"...\"]}.\n\n" + text
-    )
+    user = "Parse this vocabulary list and return JSON:\n\n" + text
     data = client.complete_json(system=system, user=user)
-    vocab = data.get("vocab") if isinstance(data, dict) else None
-    if not isinstance(vocab, list):
+    entries = data.get("entries") if isinstance(data, dict) else None
+    if not isinstance(entries, list):
         return []
-    cleaned: List[str] = []
-    for item in vocab:
-        if not isinstance(item, str):
+    
+    results: List[Tuple[str, str, str, str, str]] = []
+    for entry in entries:
+        if not isinstance(entry, dict):
             continue
-        only_cjk = keep_only_cjk(item)
-        if only_cjk:
-            cleaned.append(only_cjk)
-    cleaned = unique_preserve_order(cleaned)
-    cleaned = filter_substrings(cleaned)
-    return cleaned
+        simp = keep_only_cjk(str(entry.get("simplified", "")).strip())
+        trad = keep_only_cjk(str(entry.get("traditional", "")).strip())
+        if not simp and trad:
+            simp = trad
+        if not trad and simp:
+            trad = simp
+        if not simp:
+            continue
+        pinyin = str(entry.get("pinyin", "")).strip()
+        english = str(entry.get("english", "")).strip()
+        phrase = str(entry.get("phrase", "")).strip()
+        results.append((simp, trad, pinyin, english, phrase))
+    
+    return results
 
 
 def heuristic_extract_headwords(text: str) -> List[str]:
@@ -522,7 +533,6 @@ def call_openai_subwords_for_words(
     return result
 
 def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebuild: bool = False) -> Tuple[Path, List[Tuple[str, str, str, str, str]]]:
-    quintuples: List[Tuple[str, str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
     # Compute relative path from project root
     project_root = Path(__file__).parent.resolve()
@@ -530,81 +540,29 @@ def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebu
         folder = str(raw_path.parent.relative_to(project_root))
     except ValueError:
         folder = raw_path.parent.name
+    
+    # Single OpenAI call to extract everything
     try:
         if verbose:
             stop_event = threading.Event()
             progress_thread = threading.Thread(
                 target=_show_progress,
-                args=(stop_event, f"[./{folder}] [api] 🤖 Extracting vocab via OpenAI from {raw_path.name}")
+                args=(stop_event, f"[./{folder}] [api] 🤖 Parsing vocab from {raw_path.name}")
             )
             progress_thread.start()
         
-        vocab = call_openai_for_vocab(text, model=model)
+        quintuples = call_openai_for_vocab_and_forms(text, model=model)
         
         if verbose:
             stop_event.set()
             progress_thread.join()
-            print(f"[./{folder}] [ok] ✅ Extracted {len(vocab)} words")
+            print(f"[./{folder}] [ok] ✅ Parsed {len(quintuples)} entries")
     except Exception as e:
         if verbose:
             stop_event.set()
             progress_thread.join()
-            print(f"[./{folder}] [warn] OpenAI extraction failed: {e}; falling back to heuristic parsing")
-        vocab = heuristic_extract_headwords(text)
-
-    vocab = [keep_only_cjk(w) for w in vocab if keep_only_cjk(w)]
-    vocab = unique_preserve_order(vocab)
-    vocab = filter_substrings(vocab)
-    
-    # Also extract individual CJK characters from pattern/template lines
-    # (e.g., "从 ....到....." should extract 从 and 到)
-    for line in text.splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        # If line has dots/ellipsis and CJK characters, extract individual chars
-        if '.' in line or '…' in line:
-            chars = [ch for ch in line if is_cjk_char(ch)]
-            # Only add single characters that aren't already in vocab as part of longer words
-            for ch in chars:
-                if ch not in vocab and all(ch not in w or w == ch for w in vocab):
-                    vocab.append(ch)
-    
-    vocab = unique_preserve_order(vocab)
-
-    # Extract phrases for each vocab word
-    phrase_map: Dict[str, str] = {}
-    for word in vocab:
-        phrase = extract_phrase_for_word(word, text)
-        phrase_map[word] = phrase
-
-    # Map to simplified/traditional pairs + english via OpenAI helper
-    try:
-        if verbose:
-            stop_event = threading.Event()
-            progress_thread = threading.Thread(
-                target=_show_progress,
-                args=(stop_event, f"[./{folder}] [api] 🤖 Getting forms for {len(vocab)} vocab words")
-            )
-            progress_thread.start()
-        
-        triples = call_openai_forms_for_words(vocab, model=model)
-        
-        if verbose:
-            stop_event.set()
-            progress_thread.join()
-            print(f"[./{folder}] [ok] ✅ Got forms for {len(triples)} words")
-    except Exception:
-        if verbose:
-            stop_event.set()
-            progress_thread.join()
-        triples = [(w, w, "", "") for w in vocab]
-    
-    # Convert triples to quintuples by adding phrases
-    for s, t, p, e in triples:
-        word = s or t
-        phrase = phrase_map.get(word, "")
-        quintuples.append((s, t, p, e, phrase))
+            print(f"[./{folder}] [error] ❌ OpenAI parsing failed: {e}")
+        quintuples = []
 
     # Build subword set to ensure we have english/pinyin for sub-characters
     main_char_map: Dict[str, Tuple[str, str, str, str]] = {}
