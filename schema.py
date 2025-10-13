@@ -113,7 +113,8 @@ BACK_SCHEMA = CardSchema(
                 "- HARD RULE: For EVERY Simplified character in the phrase that has a DISTINCT Traditional form, INSERT its Traditional character in ASCII parentheses IMMEDIATELY after that character (no spaces). Example: 宝贝 → 宝(寶)贝(貝). Do NOT annotate characters where Simplified == Traditional.\n"
                 "- English: concise phrase (2–8 words) in double quotes, no trailing period.\n"
                 "- No extra text, labels, or headers.\n"
-                "- Output EXACTLY 3 items.\n"
+                "- Output EXACTLY 4 items.\n"
+                "- PRIORITY: If a context phrase is provided in the input, use it as the basis for the FIRST example (matching its usage context), then provide 3 additional varied examples.\n"
                 "HEADWORD MATCHING (H):\n"
                 "- Let H be the exact headword string.\n"
                 "- If len(H) == 1 (single character): each CJK phrase MUST be a common modern compound or phrase CONTAINING H (preferably starting with H), and MUST be length >= 2. Do NOT output H alone.\n"
@@ -124,11 +125,11 @@ BACK_SCHEMA = CardSchema(
                 "3) Phrases in Definitions/Notes clearly used in modern contexts.\n"
                 "IMPORTANT:\n"
                 "- Prefer modern/common items; avoid archaic/obsolete/classical when alternatives exist.\n"
-                "- If fewer than 3 suitable items are present in the HTML, supplement using general knowledge consistent with the entry's modern senses to reach 3.\n"
+                "- If fewer than 4 suitable items are present in the HTML, supplement using general knowledge consistent with the entry's modern senses to reach 4.\n"
                 "- If the entry is truly not in contemporary use, output exactly: None, not in contemporary use."
             ),
             field_type="sublist",
-            max_items=3,
+            max_items=4,
             empty_fallback="None, not in contemporary use",
         ),
         CardField(

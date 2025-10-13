@@ -89,7 +89,8 @@ _THREAD_IDX_NEXT = 0
 # Thread-local log context (e.g., folder path)
 _LOG_CTX = threading.local()
 
-def set_thread_log_context(folder_path: str) -> None:
+def set_thread_log_context(folder_path: str, current_file: str = "") -> None:
+    """Set the logging context for the current thread."""
     try:
         folder_str = folder_path
         try:
@@ -100,16 +101,13 @@ def set_thread_log_context(folder_path: str) -> None:
                     folder_str = str(rel)
                 except Exception:
                     pass
-            # If we ended up with '.' or empty, fall back to repo-relative path
+            # If we ended up with '.' or empty, use just the folder name
             if folder_str in (".", ""):
-                try:
-                    repo_rel = resolved.relative_to(_REPO_ROOT)
-                    folder_str = str(repo_rel)
-                except Exception:
-                    folder_str = str(resolved)
+                folder_str = resolved.name or str(resolved)
         except Exception:
             pass
         _LOG_CTX.folder = folder_str
+        _LOG_CTX.current_file = current_file
     except Exception:
         pass
 
@@ -176,10 +174,33 @@ class _ThreadPrefixedWriter:
         short_tid = f"t{idx:02d}"
         try:
             folder = getattr(_LOG_CTX, 'folder', '')
+            current_file = getattr(_LOG_CTX, 'current_file', '')
         except Exception:
             folder = ''
-        folder_tag = f"[{folder}] " if folder else "[.] "
-        prefix = f"[{short_tid}] {folder_tag}"
+            current_file = ''
+        
+        # Build context tags: separate tags for folder, number, and each word component
+        # Format: [t01] [1/book] [48] [数] instead of [t01] [1/book/48[数]]
+        context_tags = f"[{short_tid}]"
+        
+        if current_file:
+            # Add folder tag
+            if folder:
+                context_tags += f" [./{folder}]"
+            
+            # Split file into components: "48.数.娄" -> ["48", "数", "娄"]
+            if '.' in current_file:
+                parts = current_file.split('.')
+                for part in parts:
+                    context_tags += f" [{part}]"
+            else:
+                context_tags += f" [{current_file}]"
+        elif folder:
+            context_tags += f" [./{folder}]"
+        else:
+            context_tags += " [main]"
+        
+        prefix = context_tags + " "
         # Simple emoji mapping for status tags
         def _emoji_for(line: str) -> str:
             try:
@@ -192,33 +213,48 @@ class _ThreadPrefixedWriter:
             except Exception:
                 return ""
             mapping = {
-                "check": "🧪",
-                "check-child": "🔍",
-                "ok": "✅",
-                "regen": "♻️",
-                "mismatch": "⚠️",
-                "skip": "⏭️",
-                "info": "ℹ️",
-                "warn": "⚠️",
-                "error": "❌",
-                "done": "🏁",
-                "api": "🤖",
-                "debug": "🐞",
-                "cancelled": "🛑",
+                "cache-hit": "🎯",      # Cache hit - completed from cache
+                "cache-miss": "💥",     # Cache miss - need to regenerate
+                "api": "🤖",           # API call in progress
+                "file": "💾",          # File created/written
+                # All other tags have no emoji
             }
             return mapping.get(tag, "")
         with self._lock:
             # Split lines and prefix only actual content lines
             parts = s.split("\n")
+            has_trailing_newline = len(parts) > 1 and parts[-1] == ""
+            
             for i, part in enumerate(parts):
                 if part == "" and i == len(parts) - 1:
-                    # Ignore trailing empty fragment (print will send a separate \n)
+                    # Skip trailing empty fragment
                     continue
-                emoji = _emoji_for(part)
-                spacer = (emoji + " ") if emoji else ""
-                self._wrapped.write(prefix + spacer + part)
+                
+                # Extract the first tag from the message part and move emoji after it
+                # Format: [tag] emoji message instead of emoji [tag] message
+                if part.startswith("["):
+                    end = part.find("]")
+                    if end != -1:
+                        tag = part[:end+1]  # Include the closing bracket
+                        rest = part[end+1:].lstrip()  # Rest of message after tag
+                        emoji = _emoji_for(part)
+                        emoji_spacer = (emoji + " ") if emoji else ""
+                        # Write: prefix + tag + emoji + rest
+                        self._wrapped.write(prefix + tag + " " + emoji_spacer + rest)
+                    else:
+                        # No closing bracket, write as-is
+                        self._wrapped.write(prefix + part)
+                else:
+                    # No tag, write as-is
+                    self._wrapped.write(prefix + part)
+                
                 if i < len(parts) - 1:
                     self._wrapped.write("\n")
+            
+            # If original string had trailing newline, write it now
+            if has_trailing_newline:
+                self._wrapped.write("\n")
+            
             try:
                 self._wrapped.flush()
             except Exception:
@@ -248,8 +284,8 @@ def log_debug(enabled: bool, message: str) -> None:
         print(f"[debug] {message}")
 
 
-def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str]]:
-    rows: List[Tuple[str, str, str, str, str]] = []
+def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str, str]]:
+    rows: List[Tuple[str, str, str, str, str, str]] = []
     if parsed_path.suffix.lower() == ".csv":
         import csv
         with parsed_path.open("r", encoding="utf-8") as f:
@@ -261,9 +297,10 @@ def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str]]
                 trad = rec[1].strip() if len(rec) > 1 else simp
                 pin = rec[2].strip() if len(rec) > 2 else ""
                 eng = rec[3].strip() if len(rec) > 3 else ""
-                rel = rec[4].strip() if len(rec) > 4 else ""
+                phrase = rec[4].strip() if len(rec) > 4 else ""
+                rel = rec[5].strip() if len(rec) > 5 else ""
                 if simp:
-                    rows.append((simp, trad, pin, eng, rel))
+                    rows.append((simp, trad, pin, eng, phrase, rel))
     else:
         for line in parsed_path.read_text(encoding="utf-8").splitlines():
             line = line.strip()
@@ -284,7 +321,7 @@ def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str]]
     return rows
 
 
-def write_parsed_csv_cache(folder: Path, parsed_path: Path) -> None:
+def write_parsed_csv_cache(folder: Path, parsed_path: Path, verbose: bool = False) -> None:
     cache_path = folder / "-input.cache.json"
     try:
         existing: Dict[str, object] = {}
@@ -302,6 +339,8 @@ def write_parsed_csv_cache(folder: Path, parsed_path: Path) -> None:
         if raw_path.exists():
             payload["raw_sha256"] = _sha256_file(raw_path)
         cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        if verbose:
+            print(f"[file] Updated cache: {cache_path.name}")
     except Exception:
         pass
 
@@ -513,6 +552,9 @@ def _generate_component_subtree(
 
     word_id = f"{prefix}.{target_ch}"
     md_path = out_dir / f"{word_id}.md"
+    
+    # Update log context to show we're working on this component
+    set_thread_log_context(str(out_dir), word_id)
     # Skip only if file exists AND cache has matching hash for this child
     expected_hash = ""
     parent_cache = load_head_cache(out_dir, prefix)
@@ -544,7 +586,7 @@ def _generate_component_subtree(
             fetched_set[form] = True
             form_html, form_status = fetch_wiktionary_html_status(form)
             if verbose:
-                print(f"[info] Wiktionary GET {form} -> {form_status}")
+                print(f"[fetch] Wiktionary: {form} → HTTP {form_status}")
             if form_status == 200 and form_html:
                 combined_sections.append(section_header(form) + sanitize_html(form_html))
             else:
@@ -554,7 +596,7 @@ def _generate_component_subtree(
         combined_html = "\n\n".join(combined_sections)
         html_path.write_text(combined_html, encoding="utf-8")
         if verbose:
-            print(f"[ok] Wrote {html_path.name} ({len(combined_html)} bytes)")
+            print(f"[file] Created HTML: {html_path.name} ({len(combined_html)} bytes)")
 
     # Generate back fields for this component (with cache)
     back: Dict[str, object] | object
@@ -567,8 +609,7 @@ def _generate_component_subtree(
         log_debug(debug, f"local cache hit for component '{target_ch}'")
         back = comp_cache[target_ch]
     else:
-        if verbose:
-            print(f"[info] OpenAI back-fields for {word_id} (model={model or 'default'})")
+        # API call will log details when it happens
         back = extract_back_fields_from_html(
             simplified=simplified_form,
             traditional=traditional_form,
@@ -749,6 +790,7 @@ def extract_back_fields_from_html(
     model: Optional[str],
     verbose: bool = False,
     parent_word: Optional[str] = None,
+    phrase: str = "",
 ) -> Dict[str, Dict[str, str] | str]:
     client = OpenAIClient(model=model)
     trad_url = wiktionary_url_for_word(traditional or simplified)
@@ -771,24 +813,20 @@ def extract_back_fields_from_html(
           "- Do NOT change field names or structure.\n"
           "- Use the provided Wiktionary HTML as the PRIMARY source; only the simplification rule may use general knowledge."
     )
-    user = (
-        "Headword (simplified): "
-        + simplified
-        + "\nHeadword (traditional): "
-        + (traditional or simplified)
-        + "\nEnglish gloss: "
-        + english
-        + "\nReference URL (traditional form): "
-        + trad_url
-        + "\n\n"
-        + "HTML:\n\n"
-        + html
-    )
+    user_parts = [
+        "Headword (simplified): " + simplified,
+        "Headword (traditional): " + (traditional or simplified),
+        "English gloss: " + english,
+    ]
+    if phrase:
+        user_parts.append("Context phrase from source text: " + phrase)
+    user_parts.append("Reference URL (traditional form): " + trad_url)
+    user_parts.append("\n\nHTML:\n\n" + html)
+    user = "\n".join(user_parts)
     if verbose:
-        parent_note = f", parent={parent_word}" if parent_word else ""
-        print(f"[api] calling OpenAI for back fields: word={traditional or simplified}{parent_note}, model={model or 'default'}")
-        print(f"[api] required keys: {', '.join(req)}")
-        print(f"[api] optional keys: {', '.join(opt)}")
+        parent_note = f" (component of {parent_word})" if parent_word else ""
+        word_display = traditional or simplified
+        print(f"[api] Calling OpenAI for '{word_display}'{parent_note} [model={model or 'default'}]")
     _t0 = time.time()
     try:
         data = client.complete_json(system=system, user=user)
@@ -918,13 +956,15 @@ def _headword_files(out_dir: Path, file_base: str) -> List[Path]:
     return results
 
 
-def write_headword_cache(out_dir: Path, file_base: str) -> None:
+def write_headword_cache(out_dir: Path, file_base: str, verbose: bool = False) -> None:
     files = _headword_files(out_dir, file_base)
     mapping: Dict[str, str] = {}
     for p in files:
         mapping[p.name] = _sha256_file(p)
     cache_path = out_dir / f"{file_base}.cache.json"
     cache_path.write_text(json.dumps({"files": mapping}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if verbose:
+        print(f"[file] Created cache: {cache_path.name}")
 
 
 def rebuild_caches_for_folder(folder: Path, verbose: bool = False) -> None:
@@ -1148,7 +1188,7 @@ def first_invalid_cached_name_recursive(out_dir: Path, top_base: str, *, verbose
             continue
         visited.add(parent)
         if verbose and parent != top_base:
-            print(f"[check-child] {parent}")
+            print(f"[check-child] Checking component: {parent}")
         hcache = load_head_cache(out_dir, parent)
         children = hcache.get("children") if isinstance(hcache, dict) else []
         # If the per-head cache is missing or empty, derive children from the filesystem (one level down)
@@ -1217,7 +1257,7 @@ def regenerate_single_file(
             fetched_set[form] = True
             form_html, form_status = fetch_wiktionary_html_status(form)
             if verbose:
-                print(f"[info] Wiktionary GET {form} -> {form_status}")
+                print(f"[fetch] Wiktionary: {form} → HTTP {form_status}")
             if form_status == 200 and form_html:
                 combined_sections.append(section_header(form) + sanitize_html(form_html))
             else:
@@ -1476,6 +1516,8 @@ def write_simple_card_md(
     parts.append("%%%")
     content = "\n".join(parts) + "\n"
     md_path.write_text(content, encoding="utf-8")
+    if verbose:
+        print(f"[file] Created: {md_path.name}")
     return md_path
 
 
@@ -1548,6 +1590,7 @@ def _process_single_row(
     trad: str,
     pin: str,
     eng: str,
+    phrase: str,
     rel: str,
     model: Optional[str],
     verbose: bool,
@@ -1561,20 +1604,22 @@ def _process_single_row(
     out_dir = folder
     md_path = out_dir / f"{file_base}.md"
     successes_local = 0
+    
+    # Set log context for this thread with current file
+    set_thread_log_context(str(folder), file_base)
+    
     if md_path.exists():
-        # Before validation, set log context for this thread
-        set_thread_log_context(str(folder))
         if verbose:
-            print(f"[check] Validating subtree: {file_base}")
+            print(f"[check] Checking: {file_base}")
         repair_iter = 0
         while True:
             bad = first_invalid_cached_name_recursive(out_dir, file_base, verbose=verbose)
             if bad is None:
                 if verbose:
-                    print(f"[ok] Subtree healthy: {file_base}")
+                    print(f"[cache-hit] Completed: {file_base}")
                 break
             if verbose:
-                print(f"[regen] Rebuilding: {bad}")
+                print(f"[cache-miss] Rebuilding: {bad}")
             # Defensive: if regeneration target is the head md and only hash mismatch, update cache instead
             if bad == f"{file_base}.md" and md_path.exists():
                 # Update global cache hash to current file without re-generating
@@ -1631,11 +1676,7 @@ def _process_single_row(
     combined_html = "\n\n".join(combined_sections)
     if verbose:
         log_debug(debug, f"combined html size for {file_base}: {len(combined_html)}")
-    if verbose:
-        print(
-            f"[info] OpenAI back-fields for {file_base} (model={model or 'default'}), HTML bytes={len(combined_html)}"
-        )
-    log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'")
+    log_debug(debug, f"calling extract_back_fields_from_html for {headword}; pinyin='{pin}'; HTML bytes={len(combined_html)}")
     back = extract_back_fields_from_html(
         simplified=simp or trad,
         traditional=trad or simp,
@@ -1644,6 +1685,7 @@ def _process_single_row(
         model=model,
         verbose=verbose,
         parent_word=None,
+        phrase=phrase,
     )
     if not _etymology_complete(back):
         if verbose:
@@ -1656,6 +1698,7 @@ def _process_single_row(
             model=model,
             verbose=verbose,
             parent_word=None,
+            phrase=phrase,
         )
     if verbose:
         et = back.get("etymology") if isinstance(back, dict) else None
@@ -1758,9 +1801,9 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
         return 0, 0
     rows = read_parsed_input(parsed_path)
     # Persist current parsed CSV hash for idempotence tracking
-    write_parsed_csv_cache(folder, parsed_path)
+    write_parsed_csv_cache(folder, parsed_path, verbose)
     if verbose:
-        print(f"[info] {folder}: {len(rows)} word(s)")
+        print(f"[info] Processing {len(rows)} vocabulary words from {folder.name}/")
     log_debug(debug, f"parsed rows sample: {rows[:3]}")
     out_dir = folder
     successes = 0
@@ -1775,9 +1818,9 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
     workers = DEFAULT_PARALLEL_WORKERS
 
     if workers == 1:
-        for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
+        for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
             try:
-                _, inc = _process_single_row(folder, idx, simp, trad, pin, eng, rel, model, verbose, debug, delay_s, comp_cache)
+                _, inc = _process_single_row(folder, idx, simp, trad, pin, eng, phrase, rel, model, verbose, debug, delay_s, comp_cache)
                 successes += inc
             except KeyboardInterrupt:
                 if verbose:
@@ -1792,7 +1835,7 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
             print(f"[info] Parallel workers: {workers}")
         with ThreadPoolExecutor(max_workers=workers) as executor:
             futures = []
-            for idx, (simp, trad, pin, eng, rel) in enumerate(rows, start=1):
+            for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
                 futures.append(
                     executor.submit(
                         _process_single_row,
@@ -1802,6 +1845,7 @@ def process_folder(folder: Path, model: Optional[str], verbose: bool, debug: boo
                         trad,
                         pin,
                         eng,
+                        phrase,
                         rel,
                         model,
                         verbose,
@@ -1911,42 +1955,69 @@ def main(argv: List[str] | None = None) -> int:
     except Exception:
         pass
     if not root.exists():
-        print(f"[error] Root directory does not exist: {root}", file=sys.stderr)
+        print(f"[main] [error] Root directory does not exist: {root}", file=sys.stderr)
         return 2
 
     try:
         if args.rebuild_caches_only:
             if args.verbose:
-                print(f"[info] Rebuilding caches under {root}")
+                print(f"[main] [info] Rebuilding caches under {root}")
             for folder in sorted({p.parent for p in root.rglob('*.md')}):
                 rebuild_caches_for_folder(folder, verbose=args.verbose)
             if args.verbose:
-                print("[done] Cache rebuild complete")
+                print("[main] [done] Cache rebuild complete")
             return 0
         folders = find_parsed_folders(root)
         grammar_folders = find_grammar_folders(root)
+        
         if args.verbose or args.debug:
-            print(f"[info] Found {len(folders)} folder(s) with -input.parsed.csv under {root}")
-            print(f"[info] Found {len(grammar_folders)} folder(s) with -input.parsed.grammar.csv under {root}")
+            print("\n" + "=" * 80)
+            print(f"🚀 Flashcard Generator")
+            print("=" * 80)
+            print(f"📁 Root: {root}")
+            print(f"📝 Found {len(folders)} vocab folder(s)")
+            print(f"📚 Found {len(grammar_folders)} grammar folder(s)")
+            print(f"🤖 Model: {args.model or 'default'}")
+            print(f"⚡ Workers: {DEFAULT_PARALLEL_WORKERS}")
+            print("=" * 80 + "\n")
+        
         total_words = 0
         total_cards = 0
-        for folder in folders:
+        total_cached = 0
+        total_api_calls = 0
+        
+        for folder_idx, folder in enumerate(folders, 1):
+            if args.verbose:
+                print(f"\n{'─' * 80}")
+                print(f"📂 Processing folder {folder_idx}/{len(folders)}: {folder}")
+                print(f"{'─' * 80}\n")
+            
             words, cards = process_folder(folder, args.model, args.verbose, args.debug, args.delay)
             total_words += words
             total_cards += cards
+            
+            if args.verbose:
+                print(f"\nFolder complete: {words} words processed, {cards} cards generated\n")
         # Render grammar cards
         for gfolder in grammar_folders:
             try:
                 render_grammar_folder(gfolder, args.verbose)
             except Exception as e:
                 if args.verbose:
-                    print(f"[warn] grammar rendering failed in {gfolder}: {e}")
+                    print(f"[main] [warn] grammar rendering failed in {gfolder}: {e}")
 
         if args.verbose or args.debug:
-            print(f"[done] Processed {total_words} word(s), created {total_cards} card(s)")
+            print(f"\n{'=' * 80}")
+            print(f"✅ Processing Complete!")
+            print(f"{'=' * 80}")
+            print(f"📊 Summary:")
+            print(f"   • Folders processed: {len(folders)}")
+            print(f"   • Words processed: {total_words}")
+            print(f"   • Cards created: {total_cards}")
+            print(f"{'=' * 80}\n")
         return 0
     except KeyboardInterrupt:
-        print("[info] Interrupted by user (Ctrl-C). Exiting cleanly.")
+        print("[main] [info] Interrupted by user (Ctrl-C). Exiting cleanly.")
         return 130
 
 

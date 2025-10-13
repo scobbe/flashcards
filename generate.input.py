@@ -5,11 +5,131 @@ import os
 import sys
 import hashlib
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable, List, Sequence, Set, Tuple, Dict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 from openai_helper import OpenAIClient
+
+
+# Load .env file on import
+_DEF_ENV_LOADED = False
+
+
+def _load_env_file() -> None:
+    global _DEF_ENV_LOADED
+    if _DEF_ENV_LOADED:
+        return
+    _DEF_ENV_LOADED = True
+    try:
+        here = Path(__file__).parent
+        candidates = [here / ".env", here.parent / ".env"]
+        for p in candidates:
+            if not p.exists():
+                continue
+            for raw in p.read_text(encoding="utf-8", errors="ignore").splitlines():
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if line.startswith("export "):
+                    line = line[len("export "):].strip()
+                if "=" not in line:
+                    continue
+                k, v = line.split("=", 1)
+                key = k.strip()
+                val = v.strip().strip('"').strip("'")
+                if key and os.environ.get(key) is None:
+                    os.environ[key] = val
+    except Exception:
+        pass
+
+
+# Call once on import
+_load_env_file()
+
+# Thread ID mapping for cleaner log output
+_THREAD_IDX_LOCK = threading.Lock()
+_THREAD_IDX_MAP: Dict[int, int] = {}
+_THREAD_IDX_NEXT = 0
+
+# Store original stdout before wrapping
+_ORIGINAL_STDOUT = sys.stdout
+
+
+class _ThreadPrefixedWriter:
+    """Wrapper for stdout that adds thread IDs to output."""
+    def __init__(self, wrapped):
+        self._wrapped = wrapped
+        self._lock = threading.Lock()
+
+    def write(self, s: str) -> int:
+        if not isinstance(s, str):
+            return 0
+        
+        # If this is just a newline from print's second write, don't prefix
+        if s == "\n":
+            with self._lock:
+                try:
+                    self._wrapped.write("\n")
+                    self._wrapped.flush()
+                except Exception:
+                    pass
+            return 1
+        
+        tid = threading.get_ident()
+        # Map OS thread id to small stable index t00..t99
+        with _THREAD_IDX_LOCK:
+            global _THREAD_IDX_NEXT
+            idx = _THREAD_IDX_MAP.get(tid)
+            if idx is None:
+                idx = _THREAD_IDX_NEXT
+                _THREAD_IDX_MAP[tid] = idx
+                _THREAD_IDX_NEXT = (_THREAD_IDX_NEXT + 1) % 100
+        
+        short_tid = f"t{idx:02d}"
+        prefix = f"[{short_tid}] "
+        
+        with self._lock:
+            # Split lines and prefix only actual content lines
+            parts = s.split("\n")
+            has_trailing_newline = len(parts) > 1 and parts[-1] == ""
+            
+            for i, part in enumerate(parts):
+                if part == "" and i == len(parts) - 1:
+                    # Skip trailing empty fragment
+                    continue
+                self._wrapped.write(prefix + part)
+                if i < len(parts) - 1:
+                    self._wrapped.write("\n")
+            
+            # If original string had trailing newline, write it now
+            if has_trailing_newline:
+                self._wrapped.write("\n")
+            
+            try:
+                self._wrapped.flush()
+            except Exception:
+                pass
+        return len(s)
+
+    def flush(self) -> None:
+        try:
+            self._wrapped.flush()
+        except Exception:
+            pass
+
+    def __getattr__(self, name):
+        return getattr(self._wrapped, name)
+
+
+# Wrap stdout with thread prefixes
+try:
+    sys.stdout = _ThreadPrefixedWriter(sys.stdout)
+except Exception:
+    pass
 
 
 def is_cjk_char(ch: str) -> bool:
@@ -110,17 +230,83 @@ def heuristic_extract_headwords(text: str) -> List[str]:
     return candidates
 
 
+def extract_phrase_for_word(word: str, text: str) -> str:
+    """Extract an example phrase containing the word from the raw text.
+    
+    Returns a phrase that includes Chinese characters, pinyin, or Latin text
+    that contains the word, preferring complete sentence examples.
+    """
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    
+    # First pass: look for complete sentence examples (lines with the word that look like sentences)
+    for i, line in enumerate(lines):
+        if word not in line:
+            continue
+        
+        # Check if this line looks like a sentence example (has multiple CJK chars beyond the word)
+        cjk_chars = [ch for ch in line if is_cjk_char(ch)]
+        if len(cjk_chars) >= len(word) + 2:  # At least 2 more chars than the word
+            # Clean up: remove leading numbers, pinyin digits, punctuation
+            cleaned = line
+            while cleaned and cleaned[0] in "0123456789.-: ":
+                cleaned = cleaned[1:].strip()
+            
+            # Remove trailing pinyin/English if present (anything after the CJK portion)
+            # Find the last CJK character and include a bit after it
+            last_cjk_idx = max((i for i, ch in enumerate(cleaned) if is_cjk_char(ch)), default=-1)
+            if last_cjk_idx > 0:
+                # Include up to 20 chars after last CJK to capture pinyin/English
+                phrase = cleaned[:last_cjk_idx + 1 + 20].strip()
+                
+                # If we have a good phrase, return it
+                if len(phrase) >= len(word) and len(phrase) <= 120:
+                    return phrase
+    
+    # Second pass: look for any line containing the word (fallback)
+    for line in lines:
+        if word not in line:
+            continue
+        
+        # Extract context around the word
+        word_idx = line.find(word)
+        if word_idx == -1:
+            continue
+        
+        start = max(0, word_idx - 30)
+        end = min(len(line), word_idx + len(word) + 30)
+        phrase = line[start:end].strip()
+        
+        # Clean up
+        while phrase and phrase[0] in "0123456789.-: ":
+            phrase = phrase[1:].strip()
+        
+        if len(phrase) >= len(word) and len(phrase) <= 100:
+            return phrase
+    
+    # If no phrase found, return empty string
+    return ""
+
+
+def _show_progress(stop_event: threading.Event, prefix: str) -> None:
+    """Show progress message while waiting (no animation to avoid multi-thread line collision)."""
+    # Just print once and wait - animation causes issues with multiple threads
+    print(f"{prefix} - Waiting for API response....")
+    while not stop_event.is_set():
+        time.sleep(0.1)
+
+
 def format_with_subwords_csv(
-    triples: Sequence[Tuple[str, str, str, str]],
+    quintuples: Sequence[Tuple[str, str, str, str, str]],
     sub_map: Dict[str, Tuple[str, str, str, str]],
     parent_multi: Dict[str, List[str]],
 ) -> str:
-    # CSV columns: simplified, traditional, pinyin, english, relation
+    # CSV columns: simplified, traditional, pinyin, english, phrase, relation
+    # phrase for main rows contains example from text; empty for subwords
     # relation for subwords: sub-word of "<parent english>"; empty for main rows
     buf = io.StringIO()
     writer = csv.writer(buf)
-    for simp, trad, pinyin, english in triples:
-        writer.writerow([simp, trad, pinyin, english, ""])
+    for simp, trad, pinyin, english, phrase in quintuples:
+        writer.writerow([simp, trad, pinyin, english, phrase, ""])
         word = simp or trad
         if len(word) > 1:
             seen_tokens: Set[str] = set()
@@ -129,13 +315,13 @@ def format_with_subwords_csv(
                     continue
                 seen_tokens.add(ch)
                 s_simp, s_trad, s_pin, s_eng = sub_map.get(ch, (ch, ch, "", ""))
-                writer.writerow([s_simp, s_trad, s_pin, s_eng, f'sub-word of "{english}"'])
+                writer.writerow([s_simp, s_trad, s_pin, s_eng, "", f'sub-word of "{english}"'])
             for sub in parent_multi.get(word, []):
                 if not sub or sub in seen_tokens:
                     continue
                 seen_tokens.add(sub)
                 s_simp, s_trad, s_pin, s_eng = sub_map.get(sub, (sub, sub, "", ""))
-                writer.writerow([s_simp, s_trad, s_pin, s_eng, f'sub-word of "{english}"'])
+                writer.writerow([s_simp, s_trad, s_pin, s_eng, "", f'sub-word of "{english}"'])
     return buf.getvalue()
 
 
@@ -238,6 +424,7 @@ def call_openai_for_grammar(text: str, model: str | None) -> List[Dict[str, obje
 def write_parsed_grammar_csv(raw_path: Path, rules: List[Dict[str, object]], verbose: bool = False) -> Path:
     import csv, json as _json
     out_path = raw_path.with_name("-input.parsed.grammar.csv")
+    folder = raw_path.parent.name
     with out_path.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         for r in rules:
@@ -247,7 +434,7 @@ def write_parsed_grammar_csv(raw_path: Path, rules: List[Dict[str, object]], ver
             ex_json = _json.dumps(ex, ensure_ascii=False) if isinstance(ex, list) else "[]"
             w.writerow([desc, usage, ex_json])
     if verbose:
-        print(f"[ok] Wrote {out_path} ({len(rules)} rules)")
+        print(f"[./{folder}] [file] 💾 Created {out_path.name} ({len(rules)} rules)")
     return out_path
 
 
@@ -329,36 +516,94 @@ def call_openai_subwords_for_words(
                 result[parent] = cleaned
     return result
 
-def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebuild: bool = False) -> Tuple[Path, List[Tuple[str, str, str, str]]]:
-    triples: List[Tuple[str, str, str, str]] = []
+def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebuild: bool = False) -> Tuple[Path, List[Tuple[str, str, str, str, str]]]:
+    quintuples: List[Tuple[str, str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
-    if verbose:
-        print(f"[info] Extracting vocab via OpenAI: {raw_path}")
+    folder = raw_path.parent.name
     try:
+        if verbose:
+            stop_event = threading.Event()
+            progress_thread = threading.Thread(
+                target=_show_progress,
+                args=(stop_event, f"[./{folder}] [api] 🤖 Extracting vocab via OpenAI from {raw_path.name}")
+            )
+            progress_thread.start()
+        
         vocab = call_openai_for_vocab(text, model=model)
+        
+        if verbose:
+            stop_event.set()
+            progress_thread.join()
+            print(f"[./{folder}] [ok] ✅ Extracted {len(vocab)} words")
     except Exception as e:
         if verbose:
-            print(f"[warn] OpenAI extraction failed: {e}; falling back to heuristic parsing")
+            stop_event.set()
+            progress_thread.join()
+            print(f"[./{folder}] [warn] OpenAI extraction failed: {e}; falling back to heuristic parsing")
         vocab = heuristic_extract_headwords(text)
 
     vocab = [keep_only_cjk(w) for w in vocab if keep_only_cjk(w)]
     vocab = unique_preserve_order(vocab)
     vocab = filter_substrings(vocab)
+    
+    # Also extract individual CJK characters from pattern/template lines
+    # (e.g., "从 ....到....." should extract 从 and 到)
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        # If line has dots/ellipsis and CJK characters, extract individual chars
+        if '.' in line or '…' in line:
+            chars = [ch for ch in line if is_cjk_char(ch)]
+            # Only add single characters that aren't already in vocab as part of longer words
+            for ch in chars:
+                if ch not in vocab and all(ch not in w or w == ch for w in vocab):
+                    vocab.append(ch)
+    
+    vocab = unique_preserve_order(vocab)
+
+    # Extract phrases for each vocab word
+    phrase_map: Dict[str, str] = {}
+    for word in vocab:
+        phrase = extract_phrase_for_word(word, text)
+        phrase_map[word] = phrase
 
     # Map to simplified/traditional pairs + english via OpenAI helper
     try:
+        if verbose:
+            stop_event = threading.Event()
+            progress_thread = threading.Thread(
+                target=_show_progress,
+                args=(stop_event, f"[./{folder}] [api] 🤖 Getting forms for {len(vocab)} vocab words")
+            )
+            progress_thread.start()
+        
         triples = call_openai_forms_for_words(vocab, model=model)
+        
+        if verbose:
+            stop_event.set()
+            progress_thread.join()
+            print(f"[./{folder}] [ok] ✅ Got forms for {len(triples)} words")
     except Exception:
+        if verbose:
+            stop_event.set()
+            progress_thread.join()
         triples = [(w, w, "", "") for w in vocab]
+    
+    # Convert triples to quintuples by adding phrases
+    for s, t, p, e in triples:
+        word = s or t
+        phrase = phrase_map.get(word, "")
+        quintuples.append((s, t, p, e, phrase))
 
     # Build subword set to ensure we have english/pinyin for sub-characters
     main_char_map: Dict[str, Tuple[str, str, str, str]] = {}
-    for s, t, p, e in triples:
+    for s, t, p, e, _ in quintuples:
         if len(s or t) == 1:
             main_char_map[s or t] = (s, t, p, e)
     subchars: List[str] = []
     seen_sub: Set[str] = set()
-    for s, t, p, e in triples:
+    for s, t, p, e, _ in quintuples:
         word = s or t
         if len(word) > 1:
             for ch in word:
@@ -369,11 +614,28 @@ def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebu
     sub_map: Dict[str, Tuple[str, str, str, str]] = dict(main_char_map)
     # Discover multi-character sub-words via OpenAI
     parent_multi: Dict[str, List[str]] = {}
-    multi_inputs = [s or t for s, t, _, _ in triples if len((s or t)) > 1]
+    multi_inputs = [s or t for s, t, _, _, _ in quintuples if len((s or t)) > 1]
     if multi_inputs:
         try:
+            if verbose:
+                stop_event = threading.Event()
+                progress_thread = threading.Thread(
+                    target=_show_progress,
+                    args=(stop_event, f"[./{folder}] [api] 🤖 Getting subwords for {len(multi_inputs)} multi-char words")
+                )
+                progress_thread.start()
+            
             subwords_info = call_openai_subwords_for_words(multi_inputs, model=model)
+            
+            if verbose:
+                stop_event.set()
+                progress_thread.join()
+                total_subs = sum(len(v) for v in subwords_info.values())
+                print(f"[./{folder}] [ok] ✅ Got {total_subs} subwords")
         except Exception:
+            if verbose:
+                stop_event.set()
+                progress_thread.join()
             subwords_info = {}
         for parent, subs in subwords_info.items():
             token_list: List[str] = []
@@ -387,8 +649,24 @@ def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebu
                 parent_multi[parent] = token_list
     if subchars:
         try:
+            if verbose:
+                stop_event = threading.Event()
+                progress_thread = threading.Thread(
+                    target=_show_progress,
+                    args=(stop_event, f"[./{folder}] [api] 🤖 Getting forms for {len(subchars)} component characters")
+                )
+                progress_thread.start()
+            
             sub_triples = call_openai_forms_for_words(subchars, model=model)
+            
+            if verbose:
+                stop_event.set()
+                progress_thread.join()
+                print(f"[./{folder}] [ok] ✅ Got forms for {len(sub_triples)} components")
         except Exception:
+            if verbose:
+                stop_event.set()
+                progress_thread.join()
             sub_triples = [(ch, ch, "", "") for ch in subchars]
         for s, t, p, e in sub_triples:
             key = s or t
@@ -399,14 +677,14 @@ def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebu
     # If parsed already exists and not forcing, skip writing to preserve idempotency
     if out_path.exists() and not force_rebuild:
         if verbose:
-            print(f"[skip] Already exists: {out_path}")
-        return out_path, triples
+            print(f"[./{folder}] [skip] Already exists: {out_path.name}")
+        return out_path, quintuples
     out_path.write_text(
-        format_with_subwords_csv(triples, sub_map, parent_multi), encoding="utf-8"
+        format_with_subwords_csv(quintuples, sub_map, parent_multi), encoding="utf-8"
     )
     if verbose:
-        print(f"[ok] Wrote {out_path} ({len(triples)} items + subwords)")
-    return out_path, triples
+        print(f"[./{folder}] [file] 💾 Created {out_path.name} ({len(quintuples)} items + subwords)")
+    return out_path, quintuples
 
 
 def _sha256_file(path: Path) -> str:
@@ -436,6 +714,71 @@ def _write_cache(cache_path: Path, raw_sha256: str, parsed_filename: str) -> Non
     cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def _process_single_raw_file(raw_path: Path, model: str | None, verbose: bool) -> int:
+    """Process a single raw input file and return the number of items."""
+    folder = raw_path.parent.name
+    cache_path = raw_path.with_name("-input.cache.json")
+    parsed_path = raw_path.with_name("-input.parsed.csv")
+    # Compute current raw hash
+    current_hash = _sha256_file(raw_path)
+    cache = _read_cache(cache_path)
+    cached_hash = cache.get("raw_sha256", "")
+    # Decide if we need to (re)generate parsed CSV
+    need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
+    if need_regen:
+        if verbose:
+            reason = "hash changed" if current_hash != cached_hash else "parsed missing"
+            print(f"[./{folder}] [cache-miss] 💥 Regenerating parsed CSV for {raw_path.name} ({reason})")
+        _, items = process_file(
+            raw_path, model=model, verbose=verbose, force_rebuild=True
+        )
+        # Update cache
+        _write_cache(cache_path, current_hash, parsed_path.name)
+        if verbose:
+            print(f"[./{folder}] [file] 💾 Updated cache: {cache_path.name}")
+        if verbose:
+            print(f"[./{folder}] [done] ✅ Processed {len(items)} vocab words from {folder}/")
+    else:
+        if verbose:
+            print(f"[./{folder}] [cache-hit] 🎯 Up-to-date: {raw_path.name}")
+        # Count existing items quickly
+        try:
+            with parsed_path.open("r", encoding="utf-8") as f:
+                items = [ln for ln in f.read().splitlines() if ln.strip()]
+        except Exception:
+            items = []
+    return len(items)
+
+
+def _process_single_grammar_file(gpath: Path, model: str | None, verbose: bool) -> None:
+    """Process a single grammar file."""
+    folder = gpath.parent.name
+    gcache_path = gpath.with_name("-input.grammar.cache.json")
+    parsed_path = gpath.with_name("-input.parsed.grammar.csv")
+    current_hash = _sha256_file(gpath)
+    cache = _read_cache(gcache_path)
+    cached_hash = cache.get("raw_sha256", "")
+    need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
+    if need_regen:
+        if verbose:
+            reason = "hash changed" if current_hash != cached_hash else "parsed missing"
+            print(f"[./{folder}] [cache-miss] 💥 Regenerating parsed grammar CSV for {gpath.name} ({reason})")
+        text = gpath.read_text(encoding="utf-8", errors="ignore")
+        if verbose:
+            print(f"[./{folder}] [api] 🤖 Extracting grammar rules via OpenAI from {gpath.name}")
+        try:
+            rules = call_openai_for_grammar(text, model=model)
+        except Exception:
+            rules = []
+        write_parsed_grammar_csv(gpath, rules, verbose=verbose)
+        _write_cache(gcache_path, current_hash, parsed_path.name)
+        if verbose:
+            print(f"[./{folder}] [file] 💾 Updated cache: {gcache_path.name}")
+    else:
+        if verbose:
+            print(f"[./{folder}] [cache-hit] 🎯 Up-to-date grammar: {gpath.name}")
+
+
 def main(argv: List[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Generate -input.parsed.csv from -input.raw.txt")
     parser.add_argument(
@@ -458,73 +801,59 @@ def main(argv: List[str] | None = None) -> int:
     args = parser.parse_args(argv)
     root = Path(args.root)
     if not root.exists():
-        print(f"[error] Root directory does not exist: {root}", file=sys.stderr)
+        print(f"[main] [error] Root directory does not exist: {root}", file=sys.stderr)
         return 2
 
     raw_files = find_raw_input_files(root)
     grammar_files = find_raw_grammar_files(root)
     if args.verbose:
-        print(f"[info] Found {len(raw_files)} -input.raw.txt file(s) under {root}")
-        print(f"[info] Found {len(grammar_files)} -input.raw.grammar.txt file(s) under {root}")
+        print(f"[main] [info] Found {len(raw_files)} -input.raw.txt file(s) under {root}")
+        print(f"[main] [info] Found {len(grammar_files)} -input.raw.grammar.txt file(s) under {root}")
     if not raw_files and not grammar_files:
         return 0
 
+    # Process files in parallel
     total_items = 0
-    for raw_path in raw_files:
-        cache_path = raw_path.with_name("-input.cache.json")
-        parsed_path = raw_path.with_name("-input.parsed.csv")
-        # Compute current raw hash
-        current_hash = _sha256_file(raw_path)
-        cache = _read_cache(cache_path)
-        cached_hash = cache.get("raw_sha256", "")
-        # Decide if we need to (re)generate parsed CSV
-        need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
-        if need_regen:
-            if args.verbose:
-                reason = "hash changed" if current_hash != cached_hash else "parsed missing"
-                print(f"[info] Regenerating parsed CSV for {raw_path.name} ({reason})")
-            _, items = process_file(
-                raw_path, model=args.model, verbose=args.verbose, force_rebuild=True
-            )
-            # Update cache
-            _write_cache(cache_path, current_hash, parsed_path.name)
-        else:
-            if args.verbose:
-                print(f"[skip] Up-to-date: {raw_path.name}")
-            # Count existing items quickly
-            try:
-                with parsed_path.open("r", encoding="utf-8") as f:
-                    items = [ln for ln in f.read().splitlines() if ln.strip()]
-            except Exception:
-                items = []
-        total_items += len(items)
-        total_items += len(items)
+    workers = 5  # Match the number of workers used in generate.output.py
+    
+    if args.verbose:
+        print(f"[main] [info] Parallel workers: {workers}")
+    
+    # Process vocab files in parallel
+    if raw_files:
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {
+                executor.submit(_process_single_raw_file, raw_path, args.model, args.verbose): raw_path
+                for raw_path in raw_files
+            }
+            for future in as_completed(futures):
+                try:
+                    items_count = future.result()
+                    total_items += items_count
+                except Exception as e:
+                    raw_path = futures[future]
+                    if args.verbose:
+                        print(f"[main] [error] Failed to process {raw_path}: {e}")
+                sys.stdout.flush()
 
-    # Process grammar files
-    for gpath in grammar_files:
-        gcache_path = gpath.with_name("-input.grammar.cache.json")
-        parsed_path = gpath.with_name("-input.parsed.grammar.csv")
-        current_hash = _sha256_file(gpath)
-        cache = _read_cache(gcache_path)
-        cached_hash = cache.get("raw_sha256", "")
-        need_regen = (current_hash != cached_hash) or (not parsed_path.exists())
-        if need_regen:
-            if args.verbose:
-                reason = "hash changed" if current_hash != cached_hash else "parsed missing"
-                print(f"[info] Regenerating parsed grammar CSV for {gpath.name} ({reason})")
-            text = gpath.read_text(encoding="utf-8", errors="ignore")
-            try:
-                rules = call_openai_for_grammar(text, model=args.model)
-            except Exception:
-                rules = []
-            write_parsed_grammar_csv(gpath, rules, verbose=args.verbose)
-            _write_cache(gcache_path, current_hash, parsed_path.name)
-        else:
-            if args.verbose:
-                print(f"[skip] Up-to-date grammar: {gpath.name}")
+    # Process grammar files in parallel
+    if grammar_files:
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {
+                executor.submit(_process_single_grammar_file, gpath, args.model, args.verbose): gpath
+                for gpath in grammar_files
+            }
+            for future in as_completed(futures):
+                try:
+                    future.result()
+                except Exception as e:
+                    gpath = futures[future]
+                    if args.verbose:
+                        print(f"[main] [error] Failed to process grammar file {gpath}: {e}")
 
     if args.verbose:
-        print(f"[done] Total items written: {total_items}")
+        print(f"\n[main] [done] ✅ Input generation complete! Total items: {total_items}")
+    sys.stdout.flush()
     return 0
 
 
