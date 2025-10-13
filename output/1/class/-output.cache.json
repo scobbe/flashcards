@@ -1,0 +1,508 @@
+{
+  "words": [
+    {
+      "base": "1.上班",
+      "md": "29e70c1d766ad0e626b3596180ed93ce5443e9fd62a702b4d5162fc4b17a8c36"
+    },
+    {
+      "base": "2.上",
+      "md": "2f6e8f6e207c4bcc29ac925030c577accd1437cea2ac9eddf1fcbf0292a940ee"
+    },
+    {
+      "base": "3.班",
+      "md": "91671d96089c2d33d1c2ee16215575d29a35692ace10bd4c66bde38e146ef2c5"
+    },
+    {
+      "base": "4.下班",
+      "md": "c34b38cb6e7ff10dcdd0aea13233b48470351156faa27225f33b68653d0f4340"
+    },
+    {
+      "base": "5.下",
+      "md": "9181f60a1a77f52a07b697b30a52e950d32a5b0269905bb64b14940f7af30e98"
+    },
+    {
+      "base": "6.班",
+      "md": "29316362331291284b3a077c901b1720d8852172bdf759e2ef56ce861b2fc119"
+    },
+    {
+      "base": "7.星期六",
+      "md": "7c84c33cbcd7305f3c80834f05e060cb9b911b8c51a2a9d5a5c6f18f43361d8a"
+    },
+    {
+      "base": "8.星",
+      "md": "30c63a99166617769cf8b94d768497d260ccffd37cebff6e57dc1a8a7dd2ef49"
+    },
+    {
+      "base": "9.期",
+      "md": "3053617639079b06efed965b281782e6b93cf3b60372241876ff7be903f6ac94"
+    },
+    {
+      "base": "10.六",
+      "md": "329f4dcf5c8834b4eb7a41072726b1da1dc8e51887339bec8cd5bf3ff3b97eb2"
+    },
+    {
+      "base": "11.星期",
+      "md": "2608ac110b28a859e332f55210a847de0e3dc4ac1430416860a2d970689bbcaa"
+    },
+    {
+      "base": "12.星期天",
+      "md": "c2aea31e3fc5faa14cd98ecea715ebd7b89cacf262fcf07ac0360cec80e14426"
+    },
+    {
+      "base": "13.星",
+      "md": "c1b83fe633f5ad63849bf480f60dc68d91f457cebd74929f06c29986125437e6"
+    },
+    {
+      "base": "14.期",
+      "md": "a2a2cc9f6b9b57110593571c007e1f6c87aa1a076ba0597c37cd051c2fc79702"
+    },
+    {
+      "base": "15.天",
+      "md": "356568278a43940461141abdbd4e9338e0411a56675f855f447865405db76c0d"
+    },
+    {
+      "base": "16.星期",
+      "md": "5db59a9675deea4e4b59b332b930d9f8f45ab3f59e007d9ac36f217bdf6ce9f6"
+    },
+    {
+      "base": "17.早上",
+      "md": "88a1c67c384a5315b8230ae2d3475aca1ce17e54407cc8a240555056cfa0a399"
+    },
+    {
+      "base": "18.早",
+      "md": "91532f31b22a23083edeaef4402b7a1b197b83c4acfc4214b1edbf5336008196"
+    },
+    {
+      "base": "19.上",
+      "md": "75bf2e73ae1282ed16b0925498f577876c0547b7d277940d7fd8f51c7a26b434"
+    },
+    {
+      "base": "20.下午",
+      "md": "c0cf8536ea5e55c64a75ce49c48ac77ec9f7c2978f59fedf9669dc9ec3987906"
+    },
+    {
+      "base": "21.下",
+      "md": "86f629fac2741e250e4a1bffdedf25de99035e04512fdf2ec13af441bf5ae1ea"
+    },
+    {
+      "base": "22.午",
+      "md": "9197075b7cbd483ebb9030d5e9e80912b40081284497523b3d10ca79b9e6eac4"
+    },
+    {
+      "base": "23.晚上",
+      "md": "407c585f9d807fb1f7c9c49fc74645fa924ab2f93dcd0ba7718e69722d54874b"
+    },
+    {
+      "base": "24.晚",
+      "md": "a4d01ab59395b3f6c07be68595a939b784cf08b77e9405f602f78f0254364634"
+    },
+    {
+      "base": "25.上",
+      "md": "434c7076e9c999ce95562a72ce08d6e64fb9c93351b373fd1ad54dec9c57c76b"
+    },
+    {
+      "base": "26.中午",
+      "md": "3b634aaf5d1f9aeebfe82b8e046ca3af909ae7965bdc1beb75f977c6815cf527"
+    },
+    {
+      "base": "27.中",
+      "md": "664f3670b022a3951a955811673b1a29bd782f772f8dfe99886cca4d8358be11"
+    },
+    {
+      "base": "28.午",
+      "md": "57ac1db3c1f50131efceb00c2a4b607cc43a77af0aef46536af52787566761d4"
+    },
+    {
+      "base": "29.小时",
+      "md": "af8a583c5ccc195d0170817000914f0c976396def24af8ea4bbe2d08f1e3b7b8"
+    },
+    {
+      "base": "30.小",
+      "md": "b144b0b2690fc1fc17dd000eb34dc46f74112d03ae140a1fd23789474c2cde2e"
+    },
+    {
+      "base": "31.时",
+      "md": "0e6127888671945c197d8aaf1231551612beeec855016c50a701c0e8395a143b"
+    },
+    {
+      "base": "32.软件",
+      "md": "a493f1c3b22cd60310f4f0b6d0beca0651b3c88d49969581fbd6535452537444"
+    },
+    {
+      "base": "33.软",
+      "md": "dbdc5b0ab0f15e0a9aeb6280c0e4a5bf04e5732252dc7ea90d26d28610dfbddc"
+    },
+    {
+      "base": "34.件",
+      "md": "bad5c37d739c6df6b320475694a60de1ac44f3833fd139c696e5f72aebdf1007"
+    },
+    {
+      "base": "35.工程师",
+      "md": "56261f5a73b2a297a670d7860aca4e0e24a43223c9ded1ce74a388ef13024a4a"
+    },
+    {
+      "base": "36.工",
+      "md": "8cad2f8c39f608e8e1e220a303afe125a99eea00a1a6e507b8090ba22d47a0a4"
+    },
+    {
+      "base": "37.程",
+      "md": "e5c85baa9cbe7fec1a2dad1f90f2394268c8e5e1e008f9d78a4fc7b0465c5871"
+    },
+    {
+      "base": "38.师",
+      "md": "7a2c49921e1a28acbd2157611d961235b6da08d17700c7f8e2027685da65ba6e"
+    },
+    {
+      "base": "39.工程",
+      "md": "321199f32c05701aa2ed1cdc500aaa91a6d31a4b4d3ffe9c6bef5263b0251556"
+    },
+    {
+      "base": "40.新",
+      "md": "ae1e31129698eb3b4f5f1f4a398b9223873606aad20e33c372ba63566a672034"
+    },
+    {
+      "base": "41.创业公司",
+      "md": "40a74ab258b317ec49295634a5043c73a539aa663a1b2ccdfe90f026b79a9674"
+    },
+    {
+      "base": "42.创",
+      "md": "64220b849202ac8a356dc5ed87e005b43b5cec87963386b622b35cc6dcca9199"
+    },
+    {
+      "base": "43.业",
+      "md": "f2e1470b21db79cd66bf9fb66fb571eed7c31ad8095fa04fe2b3295de3f32d29"
+    },
+    {
+      "base": "44.公",
+      "md": "a8b990a4a6435defadde045b845d57a654ebf99d6f9a0677f014361595c7acc0"
+    },
+    {
+      "base": "45.司",
+      "md": "acd25b8ec98cb2a0389d6eb9f3012d9275d92b1502b7514d0989716bedb29c4c"
+    },
+    {
+      "base": "46.创业",
+      "md": "7302ee69f7d5f04979c1f86fb8d255776f97d1db023ff98f3692835b447ac823"
+    },
+    {
+      "base": "47.公司",
+      "md": "d6952c9f7599d249318c6b2d216904bc70033d884f1817cebfec32ddb82a7543"
+    },
+    {
+      "base": "48.医生",
+      "md": "64b1c7cca18cf420a7d311bc2dbb269108a890401eb1188fce19ceebfa3cd042"
+    },
+    {
+      "base": "49.医",
+      "md": "930365db2eadad05f99391784b41d2d7ff05ee15b869395cdbfcd615868834e4"
+    },
+    {
+      "base": "50.生",
+      "md": "baa1365aceef5d30e735dcd13568e590095ebd37b21fe08d1373b8a1b5550bd7"
+    },
+    {
+      "base": "51.医院",
+      "md": "e849e32a6ec01fe3ffdeb1d0e3019e567c16516cc2bcf570310d3ff67ef22f0d"
+    },
+    {
+      "base": "52.医",
+      "md": "8e6ac3d2e9597be34cc76ade94472c9fe9d3bb2c581f4fe2581055808e7c01b4"
+    },
+    {
+      "base": "53.院",
+      "md": "ddcf3225742955dbd8176c8c94f7b496dd502f683f4566940e4a252d0ded932d"
+    },
+    {
+      "base": "54.需要",
+      "md": "dec20a9ebc4a1b96cf5f3b661e92182d1c2202bcf1e067447756badcd2af0eb9"
+    },
+    {
+      "base": "55.需",
+      "md": "660a6a4dde0eee3592ce504cd08f4423607ae082996e75ea1b041ee579087f3e"
+    },
+    {
+      "base": "56.要",
+      "md": "7b8a647ee060ebe84396c1f03a8fa6172ba028b62b8b64c4b75943d7db5ab540"
+    },
+    {
+      "base": "57.等",
+      "md": "1f4c238f03b199f7d1889c62bdabaef73e110cfbc67d070c527e06dbb77ba39e"
+    },
+    {
+      "base": "58.针灸",
+      "md": "4b5314e5be636cbde5449381211389d05a5a88f4d58b77e6fd6241aed1eb519a"
+    },
+    {
+      "base": "59.针",
+      "md": "a5caea4bc2f3480e1833ef436c2f8905bfe62d7a542d8caf08eec21e5b1d7681"
+    },
+    {
+      "base": "60.灸",
+      "md": "a4d6de00595954ba4ff49f3f73db5874223bcd77b021c5471aa19b5fdef4ffce"
+    },
+    {
+      "base": "61.中医",
+      "md": "80986e83542f939916031e6bae0464b558c243d7bbf47d3b04c534f413a10cb7"
+    },
+    {
+      "base": "62.中",
+      "md": "fd73273bde6387a2059956490d6e6193bce3fa21be8ee4c3124c1f2abf9aa60f"
+    },
+    {
+      "base": "63.医",
+      "md": "3b9636b3a7cabba38f49ea4e9a8eebaad751c8dfa49986535c59766d492ef064"
+    },
+    {
+      "base": "64.页",
+      "md": "2c498c2a8349737379a3f7a6c61d930f9ac79d6b92abf10d80a4ef6910765210"
+    },
+    {
+      "base": "65.的",
+      "md": "9fb27ebbf22a7a2b3d5227707da5262eb68f69f4201f26bede81629086499b9b"
+    },
+    {
+      "base": "66.得",
+      "md": "8a651973677dbc7a01b0a73d24c11f75176a623af994d5c25ccf7c4cdc4faef6"
+    },
+    {
+      "base": "67.告诉",
+      "md": "b48772473d930c0eaf35ba75f2066465d35a80e7ee2c50285ea7f63e66aaa5f4"
+    },
+    {
+      "base": "68.告",
+      "md": "c09b577664b43b73e99df5c234a3827fe7074bd488825c8876e190c56dd9e4b0"
+    },
+    {
+      "base": "69.诉",
+      "md": "612ec5f23502ef0e8c62a7026b668dfb18dce6c6db347f2f3556dd49277ebdb6"
+    },
+    {
+      "base": "70.穿",
+      "md": "602c641db81f14e87596503112cdae118459448a8212e3a7bea8034650e3190b"
+    },
+    {
+      "base": "71.一样",
+      "md": "66c4de9e1ce6cd16264c3e07aa23c88107bc2443c7ce722bf30e31392ed1ac71"
+    },
+    {
+      "base": "72.一",
+      "md": "14eb5ee88ab8ce0bd537c39e4f9e0052695de34c8e7b6cf029ea3164a1c3635a"
+    },
+    {
+      "base": "73.样",
+      "md": "01263e20cd9688021fa85c9180545f961354384a7fcb44546d2bd7efcc3c27e5"
+    },
+    {
+      "base": "74.多",
+      "md": "21470984a395bbc5ad24d5199a4399f4c399c3420cbbbc38c7e35bcd2c81b602"
+    },
+    {
+      "base": "75.少",
+      "md": "14fa523588c7e7c36f1ad469eb6646c32f523394b0cee3e15d607925c74f42ad"
+    },
+    {
+      "base": "76.汉堡",
+      "md": "9c06033493f39b09ac94be13ae50eb593b014ccd923cd14e22e020365637f147"
+    },
+    {
+      "base": "77.汉",
+      "md": "efe22341ea6e94677586d0737dbd15a1147b6debb9c10c941be9adea10b3e06f"
+    },
+    {
+      "base": "78.堡",
+      "md": "5f50c146c6295e17aa0707ed8361df090dd2160cff3bd46d0141873589f133ea"
+    },
+    {
+      "base": "79.店",
+      "md": "78ffac4fd55eca932d9df370a141d9e26ada94e0d4057009845b3f240aadce7f"
+    },
+    {
+      "base": "80.不用",
+      "md": "c2e10fc8502e81ad32bd0069390c54424c9b48f7d6a38a1150b90cd87d388240"
+    },
+    {
+      "base": "81.不",
+      "md": "f5280898a0dafcff3587a600d355222d2528ee6b72aa82d8e7b18ecf68bb39d9"
+    },
+    {
+      "base": "82.用",
+      "md": "7a138e0dc1eddd120499c04710bd0ba1fd02020960ba3450371b246c3bede21d"
+    },
+    {
+      "base": "83.美元",
+      "md": "7f41c12256c5446e398687ee36e8a8db11c3bb45fd7814011b1dd8c2f352827c"
+    },
+    {
+      "base": "84.美",
+      "md": "ee9e97bc038d7e1936c9ccdcc6c950c35dbb758b90da69d37ef870d5f619ed8a"
+    },
+    {
+      "base": "85.元",
+      "md": "036f00de5148e5b3b34b3b712d8b7b3653a56b28ec9791787ebd0c9d2d9a62c6"
+    },
+    {
+      "base": "86.换",
+      "md": "a6d55216220d44c617f73a7c9bde497f8e010e14eb513a609e2ba2333307dd8f"
+    },
+    {
+      "base": "87.刚刚",
+      "md": "fc9e5bfc0284919e2f00b36ab4bfeed1c93c86edc9e08b95aaaf08a92e95d722"
+    },
+    {
+      "base": "88.刚",
+      "md": "f8a42722d6b28d00f5d8a7c6cbd622fc5f9fbbb961850549036190cd1927be00"
+    },
+    {
+      "base": "89.从",
+      "md": "37c60e88bbfc5ba2771d4ba71bd80ad16445a0e852d42f073660f10bf40f4b49"
+    },
+    {
+      "base": "90.到",
+      "md": "5a7d985e5036a66a8559a0a103059f3eb1cd05e163a221f1025c9ad17798857b"
+    },
+    {
+      "base": "91.房子",
+      "md": "333e277bdc7e6d830c0ac033a3c91227e35cf6dfcbe786dc06e623bf1ea75c9d"
+    },
+    {
+      "base": "92.房",
+      "md": "74b342251426ba26ec9a13734698ac95502553c3888a3ed28c4f26f1b3f11180"
+    },
+    {
+      "base": "93.子",
+      "md": "057de54185067b23224fa9d430879bfbed20b482a97f3a2dca2ba31c0dc9bb7a"
+    },
+    {
+      "base": "94.第一次",
+      "md": "c4e4074cb0399989b41263e5cb721198d37e35d1bd62b6f4b36150aabe30954c"
+    },
+    {
+      "base": "95.第",
+      "md": "a8beb62b40d6320d907e100525ec28ecce2cc07808c61d703d1175ee0d3e8921"
+    },
+    {
+      "base": "96.一",
+      "md": "84ca143c4cd017e14a4805aecdf27e924a609485834810028ee7d3b62cddb0a1"
+    },
+    {
+      "base": "97.次",
+      "md": "4a76e80c05bc2806f630fe2f40ff5beee11707e6182792454b3a3e2f728e85bf"
+    },
+    {
+      "base": "98.第一",
+      "md": "8786eaa64aa2f80693b55ceaab63935e21bafd3e2b0718095048dd65103ef780"
+    },
+    {
+      "base": "99.一次",
+      "md": "33c0c28a6e44eba8257b224f8a41dfdbed0ebcc7058b594d6168ae4e0969fb19"
+    },
+    {
+      "base": "100.学校",
+      "md": "d39e4c1747580bd1a170f8e15508ed21a1d077e56cd289ad9fab7d5c6a68ec48"
+    },
+    {
+      "base": "101.学",
+      "md": "ab92df41f0e1093c6b6b43d677e47ab145cd6889c9752facc209cf24e9cfa3c6"
+    },
+    {
+      "base": "102.校",
+      "md": "93df4f3bad1d79c7e3d7482968b2dd613cc4d0ac44d36071071db6afc346d94f"
+    },
+    {
+      "base": "103.员工",
+      "md": "b224bd2bb93ce6b732b89e00a5d546c7d4290b0157e329ee96da3dd4d2ed418f"
+    },
+    {
+      "base": "104.员",
+      "md": "f683bb9938bbe2eb0eaa75857843e31de7ea2926098be734e8e9fef55eaf5573"
+    },
+    {
+      "base": "105.工",
+      "md": "0667639954eb5987201c4c41149d14bc12ed9a20543df225c745857578651450"
+    },
+    {
+      "base": "106.服务员",
+      "md": "bfd330ee40622354e61fc2b008d5e82d0f026a0b90947aeb159f88f14d089a75"
+    },
+    {
+      "base": "107.服",
+      "md": "1a85501e397ebed8fd8fb089f00fecfb8da7a70cae3c8222dd63c1915d8493b1"
+    },
+    {
+      "base": "108.务",
+      "md": "abd548edb3ff6832ee8a2f028277c451c42a1981beb0d0f6cacbb82e57efbef0"
+    },
+    {
+      "base": "109.员",
+      "md": "08a903818589ddaa78d41523351ede4df36aba9823788890a78c8399ac5f97ba"
+    },
+    {
+      "base": "110.服务",
+      "md": "8deea67807bd0e06994cf6e5e04a19320a59e2696583127b717faecad7daf266"
+    },
+    {
+      "base": "111.饭馆",
+      "md": "b0a510d1035fdcce3a8c141a8c3948c21e86f03b815eb76b536058c7d3ae11fb"
+    },
+    {
+      "base": "112.饭",
+      "md": "831c0b4a6b3dbc7a86da5cd45dc20e980a673dd16cf8f6b10dd17a35554750a4"
+    },
+    {
+      "base": "113.馆",
+      "md": "58130b031d76e2505057eb91dda976dd0f1c5394600c393a3e4cd592f4a52df7"
+    },
+    {
+      "base": "114.数",
+      "md": "b4d243926a0b611ec0fecfbc368c24321a36d52d61c3d9bbd56b2050a54560ed"
+    },
+    {
+      "base": "115.林",
+      "md": "f650d13fb05e98b3e2ba0a05013e5e31546d3655e2a54bf5ab2286fcdd49fd65"
+    },
+    {
+      "base": "116.娜",
+      "md": "039a4eceb45c544c21ce0b58292aad1a43bbdb36a2f4d905bd9afa36976b2298"
+    },
+    {
+      "base": "117.块",
+      "md": "25d875f83b5455bb37eb1bb84f78d2a22782f5e1e32c3eb045659ded52d7f1d7"
+    },
+    {
+      "base": "118.毛",
+      "md": "342a7c22b10122bbbb26a4f6b52b163301cf9d1e26069b6ed370fb38b117ad47"
+    },
+    {
+      "base": "119.旅行",
+      "md": "2de9a056c9849a6ac2f488f5d58daabf541196098f253f23bde461b87c06c359"
+    },
+    {
+      "base": "120.旅",
+      "md": "08e5bf160389905176ed68add4552b9d650c89912a6e84c87476279c7c7c8bb0"
+    },
+    {
+      "base": "121.行",
+      "md": "2a07f5edd3caeb14a984afb2a700e0807c899119c71be7af05e6d0b442be9982"
+    },
+    {
+      "base": "122.玩",
+      "md": "7b98f826e70dbb79ef82ce5bed8a8c00edc4f255f0eb6a54b7205e4cbf03fb60"
+    },
+    {
+      "base": "123.住",
+      "md": "ac78c6ddc0830d59b61841feb800d60484b0979c1d5f5785a0c9d2d8af439c80"
+    },
+    {
+      "base": "124.介绍",
+      "md": "08a12fed9f9d00e50ba334ecd3f961f3c6eab19cc1150a087ca8cdc5bcf8e740"
+    },
+    {
+      "base": "125.介",
+      "md": "cb439bff7c2a8357e541780a270535629f8ff843802ab67750126de26cedc04a"
+    },
+    {
+      "base": "126.绍",
+      "md": "fcd7cdb290fb5183febbdaa6d8609cb6b91452cee1ad314c4b3b14b22dbfa3b5"
+    }
+  ]
+}

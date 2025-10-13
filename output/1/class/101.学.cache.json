@@ -1,0 +1,16 @@
+{
+  "children": [
+    {
+      "base": "101.学.爻",
+      "md": "bf3c3b63892626a5b8afbe55f8e69fe1afd6f65af3a917b788f6bf8f212482fe"
+    },
+    {
+      "base": "101.学.六",
+      "md": "068c8377d8674620a45a7e60459f9b7ac4948f15b5ebbc2a7946b530de176c0d"
+    },
+    {
+      "base": "101.学.子",
+      "md": "0b32c62834b1a46432bb616dc5bee8643b2dcf0e9751df28048bc21df1e99e2d"
+    }
+  ]
+}
