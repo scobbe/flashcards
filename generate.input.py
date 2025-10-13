@@ -424,7 +424,12 @@ def call_openai_for_grammar(text: str, model: str | None) -> List[Dict[str, obje
 def write_parsed_grammar_csv(raw_path: Path, rules: List[Dict[str, object]], verbose: bool = False) -> Path:
     import csv, json as _json
     out_path = raw_path.with_name("-input.parsed.grammar.csv")
-    folder = raw_path.parent.name
+    # Compute relative path from project root
+    project_root = Path(__file__).parent.resolve()
+    try:
+        folder = str(raw_path.parent.relative_to(project_root))
+    except ValueError:
+        folder = raw_path.parent.name
     with out_path.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         for r in rules:
@@ -519,7 +524,12 @@ def call_openai_subwords_for_words(
 def process_file(raw_path: Path, model: str | None, verbose: bool, *, force_rebuild: bool = False) -> Tuple[Path, List[Tuple[str, str, str, str, str]]]:
     quintuples: List[Tuple[str, str, str, str, str]] = []
     text = raw_path.read_text(encoding="utf-8", errors="ignore")
-    folder = raw_path.parent.name
+    # Compute relative path from project root
+    project_root = Path(__file__).parent.resolve()
+    try:
+        folder = str(raw_path.parent.relative_to(project_root))
+    except ValueError:
+        folder = raw_path.parent.name
     try:
         if verbose:
             stop_event = threading.Event()
@@ -716,7 +726,12 @@ def _write_cache(cache_path: Path, raw_sha256: str, parsed_filename: str) -> Non
 
 def _process_single_raw_file(raw_path: Path, model: str | None, verbose: bool) -> int:
     """Process a single raw input file and return the number of items."""
-    folder = raw_path.parent.name
+    # Compute relative path from project root
+    project_root = Path(__file__).parent.resolve()
+    try:
+        folder = str(raw_path.parent.relative_to(project_root))
+    except ValueError:
+        folder = raw_path.parent.name
     cache_path = raw_path.with_name("-input.cache.json")
     parsed_path = raw_path.with_name("-input.parsed.csv")
     # Compute current raw hash
@@ -752,7 +767,12 @@ def _process_single_raw_file(raw_path: Path, model: str | None, verbose: bool) -
 
 def _process_single_grammar_file(gpath: Path, model: str | None, verbose: bool) -> None:
     """Process a single grammar file."""
-    folder = gpath.parent.name
+    # Compute relative path from project root
+    project_root = Path(__file__).parent.resolve()
+    try:
+        folder = str(gpath.parent.relative_to(project_root))
+    except ValueError:
+        folder = gpath.parent.name
     gcache_path = gpath.with_name("-input.grammar.cache.json")
     parsed_path = gpath.with_name("-input.parsed.grammar.csv")
     current_hash = _sha256_file(gpath)
