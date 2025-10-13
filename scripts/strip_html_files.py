@@ -35,13 +35,14 @@ def sanitize_html_to_text(html: str) -> str:
         if element:
             element.decompose()
     
-    # Remove very large tables
+    # Remove very large tables (dialect/pronunciation tables are huge)
     for tag in soup.find_all(["table"]):
         try:
             text_len = len(tag.get_text(" ", strip=True))
         except Exception:
             text_len = 0
-        if text_len > 5000:
+        # Be more aggressive - most tables are pronunciation data we don't need in detail
+        if text_len > 2000:
             tag.decompose()
     
     # Aggressively limit lists to first 15 items
@@ -90,29 +91,39 @@ def sanitize_html_to_text(html: str) -> str:
     import re
     text = re.sub(r'\s+', ' ', text)
     
-    # Remove all [ ] brackets and their contents when they're navigation/edit markers
+    # Remove all [ ] brackets (often navigation/edit markers)
     text = re.sub(r'\[\s*\]', '', text)
+    text = re.sub(r'\[edit\]', '', text)
     
     # Remove Unicode values and CJK identifiers
     text = re.sub(r'U\+[0-9A-F]{4,5}', '', text)
-    text = re.sub(r'CJK UNIFIED IDEOGRAPH-[0-9A-F]+', '', text)
+    text = re.sub(r'CJK Unified Ideographs?-?[0-9A-F]*', '', text, flags=re.IGNORECASE)
     text = re.sub(r'&#\d+;?', '', text)
     
-    # Remove navigation arrows and references like "← X [U+XXXX] ... Y → [U+YYYY]"
-    text = re.sub(r'←[^→]*→\s*\[[^\]]+\]', '', text)
+    # Remove navigation arrows and references
+    text = re.sub(r'[←→]\s*[^\s]*\s*\[.*?\]', '', text)
+    text = re.sub(r'[←→]', '', text)
     
-    # Remove IPA notation (between slashes or with "IPA" keyword)
+    # Remove IPA and pronunciation notation
     text = re.sub(r'IPA\s*\([^)]*\)\s*:\s*/[^/]+/', '', text)
-    text = re.sub(r'Sinological IPA[^:]*:[^/]*/[^/]+/', '', text)
+    text = re.sub(r'Sinological\s*IPA[^:]*:[^/]*/[^/]+/', '', text)
+    text = re.sub(r'Sinological', '', text)  # Remove all remaining "Sinological"
     
     # Remove excessive romanization system names
-    text = re.sub(r'(Baxter|Zhengzhang|Palladius|Wade–Giles|Gwoyeu Romatzyh|Tongyong Pinyin|Hanyu Pinyin|Zhuyin|Jyutping|Cantonese Pinyin|Guangdong Romanization)[^:]*:\s*[^\s]+', '', text)
+    text = re.sub(r'(Baxter|Zhengzhang|Palladius|Wade–Giles|Gwoyeu Romatzyh|Tongyong Pinyin|Hanyu Pinyin|Zhuyin|Jyutping|Cantonese Pinyin|Guangdong Romanization|Hakka Romanization System|Pouseng Ping|Báⁿ-uā-ci̍|Pe̍h-ōe-jī|Tâi-lô|Phofsit Daibuun|Kienning Colloquial Romanized|Bàng-uâ-cê|Leizhou Pinyin|Wugniu|MiniDict|Wiktionary Romanisation)[^:]*:\s*[^\s]*', '', text)
     
     # Remove Reading # markers
-    text = re.sub(r'Reading\s*#\s*\d+/\d+', '', text)
+    text = re.sub(r'Reading\s*#?\s*\d+/\d+', '', text)
     
     # Remove technical metadata phrases
-    text = re.sub(r'(Rime Character|Initial \( 聲 \)|Final \( 韻 \)|Tone \( 調 \)|Openness \( 開合 \)|Division \( 等 \)|Fanqie|Reconstructions)[^:]*:', '', text)
+    text = re.sub(r'(Rime Character|Initial \( 聲 \)|Final \( 韻 \)|Tone \( 調 \)|Openness \( 開合 \)|Division \( 等 \)|Fanqie|Reconstructions|Kangxi radical|cangjie input|four-corner|composition)[^:]*:', '', text)
+    
+    # Remove template/metadata warnings
+    text = re.sub(r'(The template.*?does not use the parameter|Please see Module:checkparams|This term needs a translation|Please help out and add|then remove the text)', '', text)
+    
+    # Remove Wikipedia references and links
+    text = re.sub(r'Wikipedia\s+\w+', '', text)
+    text = re.sub(r'(See|From|Compare|Particularly):?\s+"[^"]*"', '', text)
     
     # Remove "Notes for Old Chinese notations" and similar
     text = re.sub(r'Notes for Old [^:]*:.*?boundary\.', '', text, flags=re.DOTALL)
@@ -123,8 +134,24 @@ def sanitize_html_to_text(html: str) -> str:
     # Remove category listings at end
     text = re.sub(r'(Categories|Hidden categories):.*$', '', text)
     
+    # Remove dialect/variety tables (these are very verbose)
+    text = re.sub(r'Dialectal (data|synonyms) Variety Location.*?(?=\n[A-Z]|\Z)', '', text, flags=re.DOTALL)
+    
+    # Remove extensive pronunciation system details
+    text = re.sub(r'\(Standard\s+Chinese[^\)]*\)\s*\+', '', text)
+    text = re.sub(r'(Mandarin|Cantonese|Hakka|Min|Wu|Xiang|Gan)\s*\([^)]{50,}\)', '', text)
+    
+    # Remove phonetic notations in slashes and brackets  
+    text = re.sub(r'/[^/]{10,}/', '', text)  # Long IPA between slashes
+    text = re.sub(r'\([^)]*?ː[^)]*?\)', '', text)  # IPA with length markers
+    
+    # Remove reference citations like "[ 1 ]", "[ 2 ]", etc.
+    text = re.sub(r'\[\s*\d+\s*\]', '', text)
+    
+    # Remove "ion" typos (likely "edition")
+    text = text.replace(' ion ', ' edition ')
+    
     # Strategic newlines only for major sections (keep some structure)
-    # Add newline before major section markers
     for marker in ["Etymology", "Pronunciation", "Definitions", "Derived terms", 
                   "Compounds", "See also", "References", "Further reading",
                   "Translingual", "Chinese", "Japanese", "Korean", "Vietnamese"]:
@@ -133,9 +160,12 @@ def sanitize_html_to_text(html: str) -> str:
     # Remove excessive parenthetical content that's often metadata
     text = re.sub(r'\([^)]{100,}\)', '', text)
     
+    # Collapse multiple spaces again after all the removals
+    text = re.sub(r'\s+', ' ', text)
+    
     # Truncate if still too long
-    if len(text) > 25_000:
-        text = text[:25_000]
+    if len(text) > 20_000:
+        text = text[:20_000]
     
     return text.strip()
 
