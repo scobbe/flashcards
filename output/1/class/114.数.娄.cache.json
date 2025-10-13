@@ -1,12 +1,8 @@
 {
   "children": [
     {
-      "base": "114.数.娄.爪",
-      "md": "cf28952c87a8e8e87546d55198faf9a9b88c7ee9a7620661866035e826414f26"
-    },
-    {
-      "base": "114.数.娄.角",
-      "md": "42faaac794d055fd9095ccd85be7a89efe1b2579819eb089bc8f15b24a8a8006"
+      "base": "114.数.娄.中",
+      "md": "5ad0bd0afb0af36a92da868c0181695d0ba94f5be17c19731fb1cc0ff4db2b5c"
     },
     {
       "base": "114.数.娄.女",
@@ -17,8 +13,12 @@
       "md": "6be115d2513521e97c5ef44349e09672e4e9b88c60bd2fdfac10f967501a0d46"
     },
     {
-      "base": "114.数.娄.中",
-      "md": "5ad0bd0afb0af36a92da868c0181695d0ba94f5be17c19731fb1cc0ff4db2b5c"
+      "base": "114.数.娄.爪",
+      "md": "cf28952c87a8e8e87546d55198faf9a9b88c7ee9a7620661866035e826414f26"
+    },
+    {
+      "base": "114.数.娄.角",
+      "md": "42faaac794d055fd9095ccd85be7a89efe1b2579819eb089bc8f15b24a8a8006"
     }
   ]
 }

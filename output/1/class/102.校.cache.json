@@ -1,12 +1,12 @@
 {
   "children": [
     {
-      "base": "102.校.木",
-      "md": "89f062eaeabb22c3930063874c005947db49321de2c86fd586900065bdcefa1f"
-    },
-    {
       "base": "102.校.交",
       "md": "b3930b671b64ded4ed8b35ff92506de0b5b446a4d71c11efaf9994edb630fed7"
+    },
+    {
+      "base": "102.校.木",
+      "md": "89f062eaeabb22c3930063874c005947db49321de2c86fd586900065bdcefa1f"
     }
   ]
 }

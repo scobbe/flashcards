@@ -1430,7 +1430,7 @@ def write_simple_card_md(
                 if isinstance(v, str):
                     bf_pin = v.strip()
             value = pinyin or bf_pin
-        parts.append(f"- **{label}:**: {value}")
+        parts.append(f"- **{label}:** {value}")
 
     # Track fields that have already been rendered to avoid duplicates
     rendered_keys = {"traditional", "simplified", "pronunciation", "definition"}
@@ -1503,7 +1503,7 @@ def write_simple_card_md(
             # line
             if isinstance(value, str) and value.strip():
                 clean = _clean_value(value.strip())
-                parts.append(f"{pad}- **{label}:**: {clean}")
+                parts.append(f"{pad}- **{label}:** {clean}")
 
         # Render all AI-generated fields at top level (including sections)
         # Render all fields from schema using field types; avoid re-rendering already printed core fields
@@ -1550,8 +1550,8 @@ def render_grammar_folder_cards(folder: Path, verbose: bool = False) -> int:
             parts.append(f"## {desc}")
             parts.append(f"### grammar rule")
             parts.append("---")
-            parts.append(f"- **description:**: {desc}")
-            parts.append(f"- **usage in Chinese:**: {usage_cn}")
+            parts.append(f"- **description:** {desc}")
+            parts.append(f"- **usage in Chinese:** {usage_cn}")
             parts.append(f"- **examples:**")
             for ex in examples:
                 parts.append(f"  - {str(ex)}")

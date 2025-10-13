@@ -1,12 +1,12 @@
 {
   "children": [
     {
-      "base": "108.务.敄",
-      "md": "c2945c561e2fb9b7934cafe151030bcd109e689e9b50471e187b8b5f03dbcf0f"
-    },
-    {
       "base": "108.务.力",
       "md": "ba1af8977c1f958058e124c0f010b77ce12979f717ee173ab227dad743b8d804"
+    },
+    {
+      "base": "108.务.敄",
+      "md": "c2945c561e2fb9b7934cafe151030bcd109e689e9b50471e187b8b5f03dbcf0f"
     }
   ]
 }
