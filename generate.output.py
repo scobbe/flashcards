@@ -408,34 +408,101 @@ def load_html_for_api(html_path: Path) -> str:
 
 
 def sanitize_html(html: str) -> str:
-    """Strip HTML tags with regex - simple and effective."""
-    import html as html_module
+    """Extract specific sections from Wiktionary HTML."""
+    soup = BeautifulSoup(html, "html.parser")
     
-    # Remove script and style content first
-    html = re.sub(r'<script[^>]*>.*?</script>', '', html, flags=re.DOTALL | re.IGNORECASE)
-    html = re.sub(r'<style[^>]*>.*?</style>', '', html, flags=re.DOTALL | re.IGNORECASE)
+    # Try to find main content
+    main_content = soup.find(id="mw-content-text")
+    if main_content:
+        soup = main_content
     
-    # Strip all HTML tags
-    text = re.sub(r'<[^>]+>', '', html)
+    sections = []
     
-    # Decode HTML entities
-    text = html_module.unescape(text)
+    # Extract Simplified/Traditional character info (usually in a table near the top)
+    char_table = soup.find("table", class_=lambda x: x and "character-info" in x if x else False)
+    if not char_table:
+        # Try finding the table with simp/trad info differently
+        for table in soup.find_all("table", limit=5):
+            table_text = table.get_text()
+            if "simp." in table_text or "trad." in table_text:
+                char_table = table
+                break
     
-    # Collapse whitespace
-    text = re.sub(r'\s+', ' ', text)
+    if char_table:
+        text = char_table.get_text(separator=" ", strip=True)
+        text = re.sub(r'\s+', ' ', text)
+        sections.append(f"Character forms: {text}\n")
     
-    # Add newlines for major sections
-    for marker in ["Glyph origin", "Etymology", "Pronunciation", "Definitions",
-                  "Derived terms", "Compounds", "See also", "References",
-                  "Translingual", "Chinese", "Japanese", "Korean", "Vietnamese"]:
-        text = text.replace(f" {marker} ", f"\n{marker}: ")
-        text = text.replace(f" {marker}:", f"\n{marker}:")
+    # Helper to extract section content
+    def extract_section(heading_text, section_name):
+        heading = soup.find(lambda tag: tag.name in ["h2", "h3", "h4"] and heading_text in tag.get_text())
+        if not heading:
+            return None
+        
+        content = []
+        # Content is in siblings of the heading's parent div
+        parent = heading.parent
+        for sibling in parent.find_next_siblings():
+            # Stop at next heading
+            if sibling.find(lambda t: t.name in ["h2", "h3", "h4"]):
+                break
+            
+            text = sibling.get_text(separator=" ", strip=True)
+            # Skip edit links and empty content
+            if text and text != "[edit]" and len(text) > 5:
+                content.append(text)
+        
+        if content:
+            return f"{section_name}:\n{chr(10).join(content)}\n"
+        return None
+    
+    # Extract Glyph origin section
+    glyph = extract_section("Glyph origin", "Glyph origin")
+    if glyph:
+        sections.append(glyph)
+    
+    # Extract Etymology section
+    etym = extract_section("Etymology", "Etymology")
+    if etym:
+        sections.append(etym)
+    
+    # Extract Definitions section
+    def_heading = soup.find(lambda tag: tag.name in ["h2", "h3", "h4"] and "Definition" in tag.get_text())
+    if def_heading:
+        content = []
+        parent = def_heading.parent
+        for sibling in parent.find_next_siblings():
+            if sibling.find(lambda t: t.name in ["h2", "h3", "h4"]):
+                break
+            
+            if sibling.name == "ol" or sibling.find("ol"):
+                # Extract list items
+                ol = sibling if sibling.name == "ol" else sibling.find("ol")
+                for li in ol.find_all("li", recursive=False):
+                    text = li.get_text(separator=" ", strip=True)
+                    if text and len(text) > 5:
+                        content.append(f"  {text}")
+            else:
+                text = sibling.get_text(separator=" ", strip=True)
+                if text and text != "[edit]" and len(text) > 5:
+                    content.append(text)
+        
+        if content:
+            sections.append(f"Definitions:\n{chr(10).join(content)}\n")
+    
+    # Combine sections
+    result = "\n".join(sections)
+    
+    # Clean up whitespace
+    result = re.sub(r'\s+', ' ', result)
+    result = re.sub(r' \n', '\n', result)
+    result = re.sub(r'\n ', '\n', result)
     
     # Truncate if too long
-    if len(text) > 20_000:
-        text = text[:20_000]
+    if len(result) > 20_000:
+        result = result[:20_000]
     
-    return text.strip()
+    return result.strip() if result.strip() else "No content extracted"
 
 
 def _clean_value(text: str) -> str:
