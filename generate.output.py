@@ -491,12 +491,12 @@ def sanitize_html(html: str) -> str:
             sections.append(f"Definitions:\n{chr(10).join(content)}\n")
     
     # Combine sections
-    result = "\n".join(sections)
+    result = "\n\n".join(sections)
     
-    # Clean up whitespace
-    result = re.sub(r'\s+', ' ', result)
-    result = re.sub(r' \n', '\n', result)
-    result = re.sub(r'\n ', '\n', result)
+    # Clean up excessive whitespace within lines (but preserve newlines)
+    lines = result.split('\n')
+    cleaned_lines = [re.sub(r'\s+', ' ', line.strip()) for line in lines]
+    result = '\n'.join(cleaned_lines)
     
     # Truncate if too long
     if len(result) > 20_000:
