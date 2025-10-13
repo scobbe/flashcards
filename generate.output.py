@@ -543,17 +543,18 @@ def sanitize_html(html: str) -> str:
     # Remove "ion" typos (likely "edition")
     text = text.replace(' ion ', ' edition ')
     
-    # Strategic newlines only for major sections (keep some structure)
+    # Remove excessive parenthetical content that's often metadata
+    text = re.sub(r'\([^)]{100,}\)', '', text)
+    
+    # Collapse multiple spaces (but preserve section markers first)
+    text = re.sub(r'\s+', ' ', text)
+    
+    # NOW add strategic newlines for major sections (after whitespace collapse)
     for marker in ["Etymology", "Pronunciation", "Definitions", "Derived terms", 
                   "Compounds", "See also", "References", "Further reading",
                   "Translingual", "Chinese", "Japanese", "Korean", "Vietnamese"]:
         text = text.replace(f" {marker} ", f"\n{marker}: ")
-    
-    # Remove excessive parenthetical content that's often metadata
-    text = re.sub(r'\([^)]{100,}\)', '', text)
-    
-    # Collapse multiple spaces again after all the removals
-    text = re.sub(r'\s+', ' ', text)
+        text = text.replace(f" {marker}:", f"\n{marker}:")
     
     # Truncate if still too long
     if len(text) > 20_000:
