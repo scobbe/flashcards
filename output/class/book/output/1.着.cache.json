@@ -1,0 +1,17 @@
+{
+  "md": "a1403a8e02c41bc5c6a0c66d0a4a78b34e1120ca1e5fe7f6473f853aaf62b38d",
+  "children": [
+    {
+      "base": "1.着.艸",
+      "md": "c41f6c2b52e186a1a7d1573e362b294eba14d0681c5e9a7df7ae197a28f9a08b"
+    },
+    {
+      "base": "1.着.者",
+      "md": "22ff120c12fbd7e8ce929450c75042e153b7ddb1008d89bd93eadce8cb7f0281"
+    },
+    {
+      "base": "1.着.著",
+      "md": "ed279fc1df6da943a4a12e444e2942f6d14c0bc8abfb0646fc1a351ff81a10ee"
+    }
+  ]
+}

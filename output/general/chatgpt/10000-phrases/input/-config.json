@@ -1,0 +1,6 @@
+{
+  "output_type": "oral",
+  "raw_input_file": "-input.raw.txt",
+  "cache": true,
+  "output_dir": "../output"
+}

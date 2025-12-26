@@ -1,0 +1,212 @@
+"""Oral mode processing logic.
+
+Oral mode is simpler than written mode:
+- No Wiktionary fetching
+- No etymology extraction
+- No component decomposition
+- Uses OpenAI only for example sentences
+- Writes simple cards: Chinese front, pinyin+definition+example on back
+"""
+
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+
+from lib.common.logging import set_thread_log_context, DEFAULT_PARALLEL_WORKERS
+from lib.common.manifest import is_word_complete, mark_word_complete, init_output_manifest
+from lib.common.utils import is_cjk_char
+from lib.output.oral.cards import write_oral_card_md, generate_example_sentences, generate_character_breakdown
+from lib.output.cards import read_parsed_input
+
+
+def process_oral_row(
+    folder: Path,
+    idx: int,
+    simp: str,
+    trad: str,
+    pin: str,
+    eng: str,
+    phrase: str,
+    rel: str,
+    parent_lookup: Dict[str, Tuple[str, str, str]],
+    model: Optional[str] = None,
+    verbose: bool = False,
+) -> Tuple[int, int]:
+    """Process a single row in oral mode.
+    
+    Uses manifest-based tracking: word is complete or not.
+    
+    Returns (words_processed, cards_created) tuple.
+    """
+    headword = simp or trad
+    file_base = f"{idx}.{headword}"
+    out_dir = folder
+    md_path = out_dir / f"{file_base}.md"
+    
+    # Set log context for this thread
+    set_thread_log_context(str(folder), file_base)
+    
+    # Skip if marked complete in manifest AND file exists
+    if is_word_complete(out_dir, file_base) and md_path.exists():
+        if verbose:
+            print(f"[oral] [skip] ✅ Already complete: {file_base}")
+        return 1, 0
+    
+    # Not complete - delete existing file if any
+    if md_path.exists():
+        md_path.unlink()
+        if verbose:
+            print(f"[oral] [delete] Removing incomplete: {md_path.name}")
+    
+    if verbose:
+        print(f"[oral] [info] Generating card: {file_base}")
+    
+    # Extract parent word info for sub-words
+    parent_chinese = ""
+    rel_stripped = rel.strip()
+    if rel_stripped and parent_lookup:
+        q1 = rel_stripped.find('"')
+        q2 = rel_stripped.rfind('"')
+        if q1 != -1 and q2 != -1 and q2 > q1:
+            parent_english = rel_stripped[q1 + 1 : q2]
+            parent_info = parent_lookup.get(parent_english)
+            if parent_info:
+                p_simp, p_trad, _ = parent_info
+                if p_trad and p_trad != p_simp:
+                    parent_chinese = f"{p_simp}({p_trad})"
+                else:
+                    parent_chinese = p_simp
+    
+    # Generate example sentences via OpenAI (one per meaning)
+    # Pass phrase as input_examples context if available (skip "None" or empty)
+    input_examples = phrase if phrase and phrase.strip() and phrase.strip().lower() != "none" else None
+    examples = generate_example_sentences(simp, trad, pin, eng, input_examples=input_examples, model=model)
+    if verbose and examples:
+        context_note = " (with input context)" if input_examples else ""
+        print(f"[oral] [api] Got {len(examples)} example(s) for {headword}{context_note}")
+    
+    # Generate character breakdown for multi-character words
+    characters = None
+    cjk_chars = [ch for ch in (simp or headword) if is_cjk_char(ch)]
+    if len(cjk_chars) > 1:
+        characters = generate_character_breakdown(simp, trad, model=model)
+        if verbose and characters:
+            print(f"[oral] [api] Got {len(characters)} character breakdown(s) for {headword}")
+    
+    # Write card
+    write_oral_card_md(
+        out_dir,
+        file_base,
+        simp or headword,
+        trad or headword,
+        pin,
+        eng,
+        rel,
+        parent_chinese=parent_chinese,
+        examples=examples,
+        characters=characters,
+        verbose=verbose,
+    )
+    
+    # Mark word as complete in manifest
+    mark_word_complete(out_dir, file_base)
+    
+    if verbose:
+        print(f"[oral] [ok] Card created: {file_base}")
+    return 1, 1
+
+
+def process_oral_folder(
+    folder: Path,
+    model: Optional[str] = None,
+    verbose: bool = False,
+) -> Tuple[int, int]:
+    """Process a folder in oral mode.
+    
+    Uses manifest-based tracking: each word is complete or not.
+    Skips sub-word entries (no decomposition in oral mode).
+    
+    Returns (total_words, cards_created) tuple.
+    """
+    parsed_path = folder / "-input.parsed.csv"
+    if not parsed_path.exists():
+        if verbose:
+            print(f"[oral] [skip] No -input.parsed.csv in {folder}")
+        return 0, 0
+    
+    all_rows = read_parsed_input(parsed_path)
+    
+    # Filter out sub-words - oral mode doesn't decompose
+    rows = [(s, t, p, e, ph, r) for s, t, p, e, ph, r in all_rows if not r.strip()]
+    
+    if verbose:
+        skipped = len(all_rows) - len(rows)
+        print(f"[oral] [info] Processing {len(rows)} vocabulary words from {folder.name}/ (skipped {skipped} sub-words)")
+    
+    out_dir = folder
+    
+    # Initialize output manifest with all expected words (all set to false initially)
+    word_keys = [f"{idx}.{simp or trad}" for idx, (simp, trad, _, _, _, _) in enumerate(rows, start=1)]
+    init_output_manifest(out_dir, word_keys)
+    
+    total_cards = 0
+    workers = DEFAULT_PARALLEL_WORKERS
+    
+    if workers == 1:
+        for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
+            try:
+                _, inc = process_oral_row(
+                    folder, idx, simp, trad, pin, eng, phrase, rel, {}, model, verbose
+                )
+                total_cards += inc
+            except Exception as e:
+                if verbose:
+                    print(f"[oral] [error] Failed to build card for {(simp or trad)}: {e}")
+                raise
+    else:
+        if verbose:
+            print(f"[oral] [info] Parallel workers: {workers}")
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = []
+            for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
+                futures.append(
+                    executor.submit(
+                        process_oral_row,
+                        folder, idx, simp, trad, pin, eng, phrase, rel, {}, model, verbose
+                    )
+                )
+            for fut in as_completed(futures):
+                try:
+                    _, cards_inc = fut.result()
+                    total_cards += cards_inc
+                except Exception as e:
+                    if verbose:
+                        print(f"[oral] [error] Worker failed: {e}")
+                    raise
+    
+    # Write combined output
+    _write_combined_output(out_dir, verbose)
+    
+    return len(rows), total_cards
+
+
+def _write_combined_output(out_dir: Path, verbose: bool = False) -> None:
+    """Concatenate all .md files into -output.md."""
+    try:
+        output_md = out_dir / "-output.md"
+        md_files = [p for p in sorted(out_dir.glob("*.md")) if p.name != "-output.md"]
+        parts: List[str] = []
+        for p in md_files:
+            try:
+                parts.append(p.read_text(encoding="utf-8", errors="ignore"))
+            except Exception:
+                if verbose:
+                    print(f"[oral] [warn] failed reading {p.name} for -output.md")
+        content = "\n\n".join(parts) + ("\n" if parts else "")
+        output_md.write_text(content, encoding="utf-8")
+        if verbose:
+            print(f"[oral] [ok] Wrote {output_md.name} ({len(content)} bytes) with {len(md_files)} files")
+    except Exception as e:
+        if verbose:
+            print(f"[oral] [warn] failed to write -output.md: {e}")
+

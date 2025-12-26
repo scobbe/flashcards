@@ -1,0 +1,17 @@
+{
+  "children": [
+    {
+      "base": "101.学.六",
+      "md": "5f5a772c485c93951be4b7a5b6456f173e5deba379968d603d3ba321941ef221"
+    },
+    {
+      "base": "101.学.子",
+      "md": "d0cf3232ef4d02221f940c681ef2c5ca2545676c9ecc8d99db32ecb03c192507"
+    },
+    {
+      "base": "101.学.爻",
+      "md": "769921797e9fecefee29c9f215cf76567bead8e0b019a46e0047c9522abc21e3"
+    }
+  ],
+  "md": "154783a24fb8e3665f542ffa9c0ca41765a452df5982bf2d2035030b53d1b022"
+}

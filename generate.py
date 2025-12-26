@@ -1,154 +1,123 @@
+#!/usr/bin/env python3
+"""Full flashcard generation pipeline.
+
+This is the main entry point that runs both:
+1. Input parsing: -input.raw.txt → -input.parsed.csv
+2. Output generation: -input.parsed.csv → .md flashcards
+
+Folder structure:
+    output/general/1000/
+        input/
+            -config.json      (with output_dir: "../output")
+            -input.raw.txt
+        output/
+            -input.parsed.csv
+            1.word.md
+            ...
+
+Usage:
+    python generate.py --config output/general/1000/input/-config.json --verbose
+"""
+
 import argparse
-import json
 import os
 import sys
 from pathlib import Path
-from typing import Iterable, List, Sequence, Set, Tuple
+from typing import List, Optional
 
-from openai_helper import OpenAIClient
-
-
-def is_cjk_char(ch: str) -> bool:
-    code = ord(ch)
-    if 0x3400 <= code <= 0x9FFF:
-        return True
-    if 0xF900 <= code <= 0xFAFF:
-        return True
-    if 0x2E80 <= code <= 0x2EFF:
-        return True
-    if 0x2F00 <= code <= 0x2FDF:
-        return True
-    if 0x20000 <= code <= 0x2EBEF:
-        return True
-    if 0x30000 <= code <= 0x3134F:
-        return True
-    return False
+from lib.common.utils import _load_env_file
+from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
+from lib.input import process_file as process_input_file
+from lib.output import process_folder_written
+from lib.output.oral import process_oral_folder
 
 
-def keep_only_cjk(text: str) -> str:
-    return "".join(ch for ch in text if is_cjk_char(ch))
+# Load .env on import
+_load_env_file()
 
 
-def unique_preserve_order(items: Iterable[str]) -> List[str]:
-    seen: Set[str] = set()
-    ordered: List[str] = []
-    for item in items:
-        if item not in seen:
-            seen.add(item)
-            ordered.append(item)
-    return ordered
 
 
-def filter_substrings(words: Sequence[str]) -> List[str]:
-    result: List[str] = []
-    for i, w in enumerate(words):
-        keep = True
-        for j, other in enumerate(words):
-            if i == j:
-                continue
-            if len(other) > len(w) and w and w in other:
-                keep = False
-                break
-        if keep:
-            result.append(w)
-    return result
-
-
-def call_openai_for_vocab(text: str, model: str | None = None) -> List[str]:
-    client = OpenAIClient(model=model)
-    system = (
-        "You are a precise Chinese vocabulary extractor. "
-        "Given a raw study note text, extract ONLY the top-level headwords (vocabulary entries). "
-        "Ignore examples, sentences, subcomponents/decompositions, and parts-of-speech annotations. "
-        "Return a JSON object with a single key 'vocab' whose value is an array of strings. "
-        "Each string MUST contain ONLY Chinese characters (no spaces, no Latin letters, no punctuation). "
-        "Deduplicate entries. If a word is a substring of another longer word present, exclude the substring."
-    )
-    user = (
-        "Extract top-level vocabulary headwords from this text and return JSON of the form "
-        "{\"vocab\":[\"...\"]}.\n\n" + text
-    )
-    data = client.complete_json(system=system, user=user)
-    vocab = data.get("vocab") if isinstance(data, dict) else None
-    if not isinstance(vocab, list):
-        return []
-    cleaned: List[str] = []
-    for item in vocab:
-        if not isinstance(item, str):
-            continue
-        only_cjk = keep_only_cjk(item)
-        if only_cjk:
-            cleaned.append(only_cjk)
-    cleaned = unique_preserve_order(cleaned)
-    cleaned = filter_substrings(cleaned)
-    return cleaned
-
-
-def heuristic_extract_headwords(text: str) -> List[str]:
-    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
-    candidates: List[str] = []
-    for ln in lines:
-        # Find the first contiguous run of CJK characters after any leading numbering
-        processed = ln
-        # strip leading numbering like "1 ." or "10 ." or "1." or "1 -"
-        idx = 0
-        while idx < len(processed) and processed[idx].isdigit():
-            idx += 1
-        while idx < len(processed) and processed[idx] in {".", "-", ":", " "}:
-            idx += 1
-        # Now collect CJK run
-        head = []
-        while idx < len(processed) and is_cjk_char(processed[idx]):
-            head.append(processed[idx])
-            idx += 1
-        token = "".join(head)
-        if token:
-            candidates.append(token)
-    candidates = unique_preserve_order(candidates)
-    candidates = filter_substrings(candidates)
-    return candidates
-
-
-def format_numbered(words: Sequence[str]) -> str:
-    lines = [f"{i}. {w}" for i, w in enumerate(words, start=1)]
-    return "\n".join(lines) + ("\n" if lines else "")
-
-
-def find_raw_input_files(root: Path) -> List[Path]:
-    return [
-        Path(p) for p in sorted(root.rglob("raw.input.txt")) if Path(p).is_file()
-    ]
-
-
-def process_file(raw_path: Path, model: str | None, verbose: bool) -> Tuple[Path, List[str]]:
-    text = raw_path.read_text(encoding="utf-8", errors="ignore")
-    if verbose:
-        print(f"[info] Extracting vocab via OpenAI: {raw_path}")
-    try:
-        vocab = call_openai_for_vocab(text, model=model)
-    except Exception as e:
+def process_folder(
+    input_folder: Path,
+    model: Optional[str],
+    verbose: bool,
+    debug: bool,
+    delay_s: float,
+) -> tuple[int, int]:
+    """Process a folder: parse input then generate output.
+    
+    Args:
+        input_folder: Path to the input/ folder containing -config.json and -input.raw.txt
+        
+    Returns (words_processed, cards_generated).
+    """
+    # Load config
+    config = load_folder_config(input_folder)
+    if not config:
         if verbose:
-            print(f"[warn] OpenAI extraction failed: {e}; falling back to heuristic parsing")
-        vocab = heuristic_extract_headwords(text)
-
-    # Final cleaning and filtering just in case
-    vocab = [keep_only_cjk(w) for w in vocab if keep_only_cjk(w)]
-    vocab = unique_preserve_order(vocab)
-    vocab = filter_substrings(vocab)
-
-    out_path = raw_path.with_name("parsed.input.txt")
-    out_path.write_text(format_numbered(vocab), encoding="utf-8")
+            print(f"[skip] No {CONFIG_FILENAME} found in {input_folder}")
+        return 0, 0
+    
+    # Resolve paths
+    raw_path = input_folder / config.raw_input_file
+    output_dir = get_output_dir(input_folder, config)
+    parsed_path = output_dir / "-input.parsed.csv"
+    
+    # Clear output dir if cache is disabled
+    if not config.cache:
+        cleared = clear_output_dir_for_no_cache(input_folder, config)
+        if verbose and cleared > 0:
+            print(f"[cache] Cleared {cleared} items from generated folder")
+    
+    # Ensure output dir exists
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
     if verbose:
-        print(f"[ok] Wrote {out_path} ({len(vocab)} items)")
-    return out_path, vocab
+        print(f"📂 Input folder: {input_folder}")
+        print(f"📁 Output folder: {output_dir}")
+        print(f"📝 Output type: {config.output_type}")
+    
+    # Step 1: Parse raw input if needed
+    if raw_path.exists() and not parsed_path.exists():
+        if verbose:
+            print(f"[input] Parsing {raw_path.name}...")
+        try:
+            # Process and write directly to output dir
+            # Skip subword extraction for oral mode
+            skip_subwords = config.output_type == "oral"
+            process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords)
+        except Exception as e:
+            print(f"[error] Input parsing failed: {e}", file=sys.stderr)
+            return 0, 0
+    
+    if not parsed_path.exists():
+        if verbose:
+            print(f"[skip] No -input.parsed.csv found in {output_dir}")
+        return 0, 0
+    
+    # Step 2: Generate output
+    if config.output_type == "oral":
+        return process_oral_folder(output_dir, model=model, verbose=verbose)
+    else:
+        return process_folder_written(output_dir, model, verbose, debug, delay_s)
 
 
-def main(argv: List[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Parse vocab from output/**/raw.input.txt")
-    parser.add_argument(
-        "--root",
-        default=str(Path(__file__).parent / "output"),
-        help="Root directory to scan (default: ./output)",
+def main(argv: Optional[List[str]] = None) -> int:
+    """Main entry point for the full pipeline."""
+    parser = argparse.ArgumentParser(
+        description="Full flashcard generation: parse -input.raw.txt and generate .md cards"
+    )
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument(
+        "--config",
+        type=str,
+        help="Path to -config.json file",
+    )
+    group.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Run both oral and written dry-run configs",
     )
     parser.add_argument(
         "--model",
@@ -156,36 +125,103 @@ def main(argv: List[str] | None = None) -> int:
         help="OpenAI model name (overrides OPENAI_MODEL)",
     )
     parser.add_argument(
+        "--delay",
+        type=float,
+        default=0.0,
+        help="Delay between Wiktionary requests (default: 0)",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Enable verbose logging",
     )
-    # Kept for compatibility with Makefile, though unused for this generator
-    parser.add_argument("--text", default=None, help=argparse.SUPPRESS)
-
-    args, unknown = parser.parse_known_args(argv)
-    root = Path(args.root)
-    if not root.exists():
-        print(f"[error] Root directory does not exist: {root}", file=sys.stderr)
-        return 2
-
-    raw_files = find_raw_input_files(root)
-    if args.verbose:
-        print(f"[info] Found {len(raw_files)} raw.input.txt file(s) under {root}")
-    if not raw_files:
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Enable debug logging",
+    )
+    args = parser.parse_args(argv)
+    
+    # Handle --dry-run flag
+    if args.dry_run:
+        project_root = Path(__file__).parent.resolve()
+        dry_run_configs = [
+            project_root / "output/dry-run/oral/input" / CONFIG_FILENAME,
+            project_root / "output/dry-run/written/input" / CONFIG_FILENAME,
+        ]
+        
+        total_words = 0
+        total_cards = 0
+        
+        for config_path in dry_run_configs:
+            if not config_path.exists():
+                print(f"[warn] Dry-run config not found: {config_path}", file=sys.stderr)
+                continue
+            
+            input_folder = config_path.parent
+            
+            if args.verbose:
+                print(f"\n{'=' * 60}")
+                print(f"🚀 Dry-Run: {input_folder.parent.name}/{input_folder.name}")
+                print(f"{'=' * 60}")
+            
+            words, cards = process_folder(
+                input_folder,
+                model=args.model,
+                verbose=args.verbose,
+                debug=args.debug,
+                delay_s=args.delay,
+            )
+            total_words += words
+            total_cards += cards
+            
+            if args.verbose:
+                print(f"   Words: {words}, Cards: {cards}")
+        
+        if args.verbose:
+            print(f"\n{'=' * 60}")
+            print("✅ Dry-Run Complete!")
+            print(f"   Total words processed: {total_words}")
+            print(f"   Total cards generated: {total_cards}")
+            print(f"{'=' * 60}\n")
+        
         return 0
-
-    total_items = 0
-    for raw_path in raw_files:
-        _, items = process_file(raw_path, model=args.model, verbose=args.verbose)
-        total_items += len(items)
-
+    
+    # Handle --config flag
+    config_path = Path(args.config)
+    if not config_path.exists():
+        print(f"[error] Config file does not exist: {config_path}", file=sys.stderr)
+        return 2
+    
+    if config_path.name != CONFIG_FILENAME:
+        print(f"[error] Config file must be named {CONFIG_FILENAME}, got: {config_path.name}", file=sys.stderr)
+        return 2
+    
+    # Input folder is the parent of the config file
+    input_folder = config_path.parent
+    
     if args.verbose:
-        print(f"[done] Total items written: {total_items}")
+        print(f"\n{'=' * 60}")
+        print("🚀 Full Pipeline: Input Parsing + Card Generation")
+        print(f"{'=' * 60}")
+    
+    words, cards = process_folder(
+        input_folder,
+        model=args.model,
+        verbose=args.verbose,
+        debug=args.debug,
+        delay_s=args.delay,
+    )
+    
+    if args.verbose:
+        print(f"\n{'=' * 60}")
+        print("✅ Complete!")
+        print(f"   Words processed: {words}")
+        print(f"   Cards generated: {cards}")
+        print(f"{'=' * 60}\n")
+    
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
-

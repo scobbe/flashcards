@@ -13,12 +13,12 @@ setup:
 
 # Run the generators. First parse inputs, then build flashcards.
 generate:
-	$(PY) generate.input.py --verbose
-	$(PY) generate.output.py --verbose
+	$(PY) generate_input.py --verbose
+	$(PY) generate_output.py --verbose
 
 generate-debug:
-	$(PY) generate.input.py --verbose
-	$(PY) generate.output.py --verbose --debug
+	$(PY) generate_input.py --verbose
+	$(PY) generate_output.py --verbose --debug
 
 clean-venv:
 	rm -rf $(VENV)
