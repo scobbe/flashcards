@@ -1,0 +1,14 @@
+{
+  "file_status": {
+    "-input.parsed.001.csv": true,
+    "-input.parsed.002.csv": true,
+    "-input.parsed.003.csv": true,
+    "-input.parsed.004.csv": true,
+    "-input.parsed.005.csv": true,
+    "-input.parsed.006.csv": true,
+    "-input.parsed.csv": true
+  },
+  "complete": 7,
+  "complete_contiguous": 6,
+  "remaining": 0
+}
