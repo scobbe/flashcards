@@ -116,44 +116,98 @@ def process_oral_row(
     return 1, 1
 
 
+def _read_all_chunk_csvs(folder: Path) -> List[Tuple[int, int, str, str, str, str, str, str]]:
+    """Read ALL parsed chunk CSVs and return rows with global indices and chunk numbers.
+    
+    Returns list of (global_idx, chunk_num, simp, trad, pin, eng, phrase, rel) tuples.
+    """
+    import re
+    all_rows_with_idx: List[Tuple[int, int, str, str, str, str, str, str]] = []
+    
+    # Find all chunk CSVs
+    chunk_files = sorted(folder.glob("-input.parsed.*.csv"))
+    
+    global_idx = 0
+    for chunk_file in chunk_files:
+        # Extract chunk number from filename like -input.parsed.001.csv
+        match = re.match(r"-input\.parsed\.(\d+)\.csv", chunk_file.name)
+        if not match:
+            continue
+        
+        chunk_num = int(match.group(1))
+        rows = read_parsed_input(chunk_file)
+        for simp, trad, pin, eng, phrase, rel in rows:
+            # Skip sub-words
+            if rel.strip():
+                continue
+            global_idx += 1
+            all_rows_with_idx.append((global_idx, chunk_num, simp, trad, pin, eng, phrase, rel))
+    
+    return all_rows_with_idx
+
+
 def process_oral_folder(
     folder: Path,
     model: Optional[str] = None,
     verbose: bool = False,
+    chunk_range: Optional[Tuple[int, int]] = None,
 ) -> Tuple[int, int]:
     """Process a folder in oral mode.
     
     Uses manifest-based tracking: each word is complete or not.
     Skips sub-word entries (no decomposition in oral mode).
     
+    Args:
+        folder: Output folder for generated cards
+        model: OpenAI model name
+        verbose: Enable verbose logging
+        chunk_range: If specified, process only words from those chunks with correct global indices
+    
     Returns (total_words, cards_created) tuple.
     """
-    parsed_path = folder / "-input.parsed.csv"
-    if not parsed_path.exists():
-        if verbose:
-            print(f"[oral] [skip] No -input.parsed.csv in {folder}")
-        return 0, 0
-    
-    all_rows = read_parsed_input(parsed_path)
-    
-    # Filter out sub-words - oral mode doesn't decompose
-    rows = [(s, t, p, e, ph, r) for s, t, p, e, ph, r in all_rows if not r.strip()]
-    
-    if verbose:
-        skipped = len(all_rows) - len(rows)
-        print(f"[oral] [info] Processing {len(rows)} vocabulary words from {folder.name}/ (skipped {skipped} sub-words)")
-    
     out_dir = folder
     
-    # Initialize output manifest with all expected words (all set to false initially)
-    word_keys = [f"{idx}.{simp or trad}" for idx, (simp, trad, _, _, _, _) in enumerate(rows, start=1)]
+    # Read ALL chunk CSVs to get global word list and correct indices
+    all_words_with_chunks = _read_all_chunk_csvs(folder)
+    
+    if not all_words_with_chunks:
+        # Fall back to -input.parsed.csv if no chunk CSVs
+        parsed_path = folder / "-input.parsed.csv"
+        if not parsed_path.exists():
+            if verbose:
+                print(f"[oral] [skip] No parsed input in {folder}")
+            return 0, 0
+        
+        all_rows = read_parsed_input(parsed_path)
+        rows = [(s, t, p, e, ph, r) for s, t, p, e, ph, r in all_rows if not r.strip()]
+        # chunk_num=0 for non-chunked files
+        all_words_with_chunks = [(idx, 0, s, t, p, e, ph, r) for idx, (s, t, p, e, ph, r) in enumerate(rows, start=1)]
+    
+    # Initialize output manifest with ALL expected words from ALL chunks
+    word_keys = [f"{idx}.{simp or trad}" for idx, chunk_num, simp, trad, _, _, _, _ in all_words_with_chunks]
     init_output_manifest(out_dir, word_keys)
+    
+    # Filter to only words in the current chunk range if specified
+    if chunk_range:
+        # Filter by actual chunk number, not assumed word ranges
+        start_chunk, end_chunk = chunk_range
+        rows_to_process = [(idx, s, t, p, e, ph, r) for idx, chunk_num, s, t, p, e, ph, r in all_words_with_chunks 
+                          if start_chunk <= chunk_num <= end_chunk]
+        if verbose and rows_to_process:
+            first_idx = rows_to_process[0][0]
+            last_idx = rows_to_process[-1][0]
+            print(f"[oral] [info] Processing words {first_idx}-{last_idx} (chunks {start_chunk}-{end_chunk})")
+    else:
+        rows_to_process = [(idx, s, t, p, e, ph, r) for idx, chunk_num, s, t, p, e, ph, r in all_words_with_chunks]
+    
+    if verbose:
+        print(f"[oral] [info] Processing {len(rows_to_process)} vocabulary words from {folder.name}/")
     
     total_cards = 0
     workers = DEFAULT_PARALLEL_WORKERS
     
     if workers == 1:
-        for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
+        for idx, simp, trad, pin, eng, phrase, rel in rows_to_process:
             try:
                 _, inc = process_oral_row(
                     folder, idx, simp, trad, pin, eng, phrase, rel, {}, model, verbose
@@ -168,7 +222,7 @@ def process_oral_folder(
             print(f"[oral] [info] Parallel workers: {workers}")
         with ThreadPoolExecutor(max_workers=workers) as executor:
             futures = []
-            for idx, (simp, trad, pin, eng, phrase, rel) in enumerate(rows, start=1):
+            for idx, simp, trad, pin, eng, phrase, rel in rows_to_process:
                 futures.append(
                     executor.submit(
                         process_oral_row,
@@ -185,28 +239,35 @@ def process_oral_folder(
                     raise
     
     # Write combined output
-    _write_combined_output(out_dir, verbose)
+    _write_combined_output(out_dir, verbose, chunk_range=chunk_range)
     
-    return len(rows), total_cards
+    return len(rows_to_process), total_cards
 
 
-def _write_combined_output(out_dir: Path, verbose: bool = False) -> None:
-    """Concatenate all .md files into -output.md."""
+def _write_combined_output(out_dir: Path, verbose: bool = False, chunk_range: Optional[Tuple[int, int]] = None) -> None:
+    """Concatenate all .md files into -output.md (or -output.XXX-YYY.md for partial chunks)."""
     try:
-        output_md = out_dir / "-output.md"
-        md_files = [p for p in sorted(out_dir.glob("*.md")) if p.name != "-output.md"]
+        # Name output file based on chunk range
+        if chunk_range:
+            output_name = f"-output.{chunk_range[0]:03d}-{chunk_range[1]:03d}.md"
+        else:
+            output_name = "-output.md"
+        output_md = out_dir / output_name
+        
+        # Exclude all -output*.md files from collection
+        md_files = [p for p in sorted(out_dir.glob("*.md")) if not p.name.startswith("-output")]
         parts: List[str] = []
         for p in md_files:
             try:
                 parts.append(p.read_text(encoding="utf-8", errors="ignore"))
             except Exception:
                 if verbose:
-                    print(f"[oral] [warn] failed reading {p.name} for -output.md")
+                    print(f"[oral] [warn] failed reading {p.name} for {output_name}")
         content = "\n\n".join(parts) + ("\n" if parts else "")
         output_md.write_text(content, encoding="utf-8")
         if verbose:
-            print(f"[oral] [ok] Wrote {output_md.name} ({len(content)} bytes) with {len(md_files)} files")
+            print(f"[oral] [ok] Wrote {output_name} ({len(content)} bytes) with {len(md_files)} files")
     except Exception as e:
         if verbose:
-            print(f"[oral] [warn] failed to write -output.md: {e}")
+            print(f"[oral] [warn] failed to write output: {e}")
 

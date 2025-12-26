@@ -332,6 +332,7 @@ def process_file(
     raw_path: Path, model: str | None, verbose: bool, *, 
     force_rebuild: bool = False, output_dir: Optional[Path] = None,
     skip_subwords: bool = False,
+    chunk_range: Optional[Tuple[int, int]] = None,
 ) -> Tuple[Path, List[Tuple[str, str, str, str, str]]]:
     """Process a raw input file and generate parsed CSV.
     
@@ -393,10 +394,23 @@ def process_file(
     chunk_keys.append(final_key)
     init_input_manifest(out_dir, chunk_keys)
     
+    # Filter chunks if chunk_range is specified
+    total_chunks = len(chunk_paths)
+    if chunk_range:
+        start_idx, end_idx = chunk_range
+        # Clamp to valid range (1-indexed)
+        start_idx = max(1, min(start_idx, total_chunks))
+        end_idx = max(start_idx, min(end_idx, total_chunks))
+        # Convert to 0-indexed for slicing
+        chunk_paths = chunk_paths[start_idx - 1:end_idx]
+        if verbose:
+            print(f"[./{folder}] [chunks] Processing chunks {start_idx}-{end_idx} of {total_chunks}")
+    
     # Process each chunk in parallel
     workers = DEFAULT_PARALLEL_WORKERS
+    chunks_to_process = len(chunk_paths)
     if verbose:
-        print(f"[./{folder}] [process] Processing {len(chunk_paths)} chunks with {workers} workers...")
+        print(f"[./{folder}] [process] Processing {chunks_to_process} chunks with {workers} workers...")
     
     all_quintuples: List[Tuple[str, str, str, str, str]] = []
     all_sub_map: Dict[str, Tuple[str, str, str, str]] = {}
@@ -449,11 +463,17 @@ def process_file(
         all_sub_map.update(sub_map)
         all_parent_multi.update(parent_multi)
     
-    # Combine all chunk parsed CSVs into the final one
-    combine_parsed_csvs(chunk_parsed_paths, final_out_path, verbose=verbose)
-    
-    # Mark final as complete in manifest
-    mark_chunk_complete(out_dir, "-input.parsed.csv")
+    # Combine chunks into the parsed CSV
+    if chunk_range:
+        # Partial processing - combine only the processed chunks
+        # Still create -input.parsed.csv but DON'T mark as complete
+        combine_parsed_csvs(chunk_parsed_paths, final_out_path, verbose=verbose)
+        if verbose:
+            print(f"[./{folder}] [done] ✅ Processed {len(all_quintuples)} vocab words from chunks {chunk_range[0]}-{chunk_range[1]}")
+    else:
+        # Full processing - combine all and mark complete
+        combine_parsed_csvs(chunk_parsed_paths, final_out_path, verbose=verbose)
+        mark_chunk_complete(out_dir, "-input.parsed.csv")
     
     if verbose:
         print(f"[./{folder}] [done] ✅ Processed {len(all_quintuples)} total vocab words")

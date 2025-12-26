@@ -195,6 +195,7 @@ def init_output_manifest(output_dir: Path, word_keys: List[str]) -> None:
     """Initialize output manifest with expected words (all set to false).
     
     Call this at the START of output generation with the full list of expected words.
+    MERGES with existing manifest - adds new keys without removing existing ones.
     
     Args:
         output_dir: Output directory
@@ -205,10 +206,11 @@ def init_output_manifest(output_dir: Path, word_keys: List[str]) -> None:
         manifest = load_output_manifest(output_dir)
         existing_status = manifest.get("file_status", {})
         
-        # Initialize all expected words, keeping existing complete status
-        file_status = {}
+        # MERGE: Start with existing status, then add new keys
+        file_status = dict(existing_status)
         for key in word_keys:
-            file_status[key] = existing_status.get(key, False)
+            if key not in file_status:
+                file_status[key] = False
         
         save_output_manifest(output_dir, file_status)
 

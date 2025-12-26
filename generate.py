@@ -23,9 +23,41 @@ import argparse
 import os
 import sys
 from pathlib import Path
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 from lib.common.utils import _load_env_file
+
+
+def parse_chunk_range(chunk_arg: Optional[str]) -> Optional[Tuple[int, int]]:
+    """Parse a chunk range argument like '1-5' or '3'.
+    
+    Returns (start, end) tuple (1-indexed, inclusive) or None if no range specified.
+    """
+    if not chunk_arg:
+        return None
+    
+    chunk_arg = chunk_arg.strip()
+    if "-" in chunk_arg:
+        parts = chunk_arg.split("-")
+        if len(parts) == 2:
+            try:
+                start = int(parts[0])
+                end = int(parts[1])
+                if start < 1:
+                    start = 1
+                if end < start:
+                    end = start
+                return (start, end)
+            except ValueError:
+                pass
+    else:
+        try:
+            n = int(chunk_arg)
+            return (n, n)
+        except ValueError:
+            pass
+    
+    return None
 from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
@@ -46,6 +78,7 @@ def process_folder(
     verbose: bool,
     debug: bool,
     delay_s: float,
+    chunk_range: Optional[Tuple[int, int]] = None,
 ) -> tuple[int, int]:
     """Process a folder: parse input then generate output.
     
@@ -81,9 +114,14 @@ def process_folder(
         print(f"📝 Output type: {config.output_type}")
     
     # Step 1: Parse raw input if needed
-    if raw_path.exists() and not parsed_path.exists():
+    # If chunk_range is specified, always process (partial processing)
+    needs_parsing = raw_path.exists() and (not parsed_path.exists() or chunk_range is not None)
+    if needs_parsing:
         if verbose:
-            print(f"[input] Parsing {raw_path.name}...")
+            if chunk_range:
+                print(f"[input] Parsing {raw_path.name} (chunks {chunk_range[0]}-{chunk_range[1]})...")
+            else:
+                print(f"[input] Parsing {raw_path.name}...")
         try:
             if config.output_type == "english":
                 # Simple English parsing (no OpenAI needed for input)
@@ -92,7 +130,7 @@ def process_folder(
                 # Chinese vocab parsing with OpenAI
                 # Skip subword extraction for oral mode
                 skip_subwords = config.output_type == "oral"
-                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords)
+                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords, chunk_range=chunk_range)
         except Exception as e:
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
@@ -104,7 +142,7 @@ def process_folder(
     
     # Step 2: Generate output (all modes read from -input.parsed.csv)
     if config.output_type == "oral":
-        return process_oral_folder(output_dir, model=model, verbose=verbose)
+        return process_oral_folder(output_dir, model=model, verbose=verbose, chunk_range=chunk_range)
     elif config.output_type == "english":
         return process_english_folder(output_dir, model=model, verbose=verbose)
     else:
@@ -147,6 +185,12 @@ def main(argv: Optional[List[str]] = None) -> int:
         "--debug",
         action="store_true",
         help="Enable debug logging",
+    )
+    parser.add_argument(
+        "--chunks",
+        type=str,
+        default=None,
+        help="Chunk range to process, e.g. '1-5' or '3'. Only processes input parsing for these chunks.",
     )
     args = parser.parse_args(argv)
     
@@ -208,6 +252,9 @@ def main(argv: Optional[List[str]] = None) -> int:
     # Input folder is the parent of the config file
     input_folder = config_path.parent
     
+    # Parse chunk range if provided
+    chunk_range = parse_chunk_range(args.chunks)
+    
     if args.verbose:
         print(f"\n{'=' * 60}")
         print("🚀 Full Pipeline: Input Parsing + Card Generation")
@@ -219,6 +266,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         verbose=args.verbose,
         debug=args.debug,
         delay_s=args.delay,
+        chunk_range=chunk_range,
     )
     
     if args.verbose:

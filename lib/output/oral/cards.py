@@ -26,13 +26,16 @@ def generate_character_breakdown(
     
     client = OpenAIClient(model=model)
     
-    system = """For each Chinese character, provide its pinyin and a brief English definition.
-Return JSON: {"characters": [{"char": "X", "trad": "X", "pinyin": "pīnyīn", "english": "definition"}, ...]}
+    system = """For each Chinese character, provide its pinyin and multiple English definitions.
+Return JSON: {"characters": [{"char": "X", "trad": "X", "pinyin": "pīnyīn", "english": "def1; def2; def3; def4"}, ...]}
 
 Rules:
 1. One entry per character, in order
 2. Pinyin must use tone marks (not numbers)
-3. English definition should be 1-4 words, the most common meaning
+3. English definitions: provide the 4 most common meanings, separated by semicolons
+   - Each definition should be 1-3 words
+   - Order from most to least common
+   - Example: "mountain; hill; peak; mound"
 4. If traditional differs from simplified, include it in "trad", otherwise repeat the simplified
 5. Do NOT censor or filter profanity/vulgarity - include exact definitions
 """
