@@ -28,8 +28,10 @@ from typing import List, Optional
 from lib.common.utils import _load_env_file
 from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
 from lib.input import process_file as process_input_file
+from lib.input.english import process_english_input
 from lib.output import process_folder_written
 from lib.output.oral import process_oral_folder
+from lib.output.english import process_english_folder
 
 
 # Load .env on import
@@ -83,10 +85,14 @@ def process_folder(
         if verbose:
             print(f"[input] Parsing {raw_path.name}...")
         try:
-            # Process and write directly to output dir
-            # Skip subword extraction for oral mode
-            skip_subwords = config.output_type == "oral"
-            process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords)
+            if config.output_type == "english":
+                # Simple English parsing (no OpenAI needed for input)
+                process_english_input(raw_path, output_dir, verbose=verbose)
+            else:
+                # Chinese vocab parsing with OpenAI
+                # Skip subword extraction for oral mode
+                skip_subwords = config.output_type == "oral"
+                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords)
         except Exception as e:
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
@@ -96,9 +102,11 @@ def process_folder(
             print(f"[skip] No -input.parsed.csv found in {output_dir}")
         return 0, 0
     
-    # Step 2: Generate output
+    # Step 2: Generate output (all modes read from -input.parsed.csv)
     if config.output_type == "oral":
         return process_oral_folder(output_dir, model=model, verbose=verbose)
+    elif config.output_type == "english":
+        return process_english_folder(output_dir, model=model, verbose=verbose)
     else:
         return process_folder_written(output_dir, model, verbose, debug, delay_s)
 

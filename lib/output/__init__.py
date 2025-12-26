@@ -2,6 +2,7 @@
 
 This package handles written mode (with etymology and Wiktionary).
 For oral mode, use the lib.output.oral subpackage.
+For English mode, use the lib.output.english subpackage.
 """
 
 from lib.output.schema_utils import (
@@ -49,6 +50,15 @@ from lib.output.oral import (
     process_oral_folder,
 )
 
+# English mode exports (for convenience)
+from lib.output.english import (
+    write_english_card_md,
+    generate_english_card_content,
+    process_english_row,
+    process_english_folder,
+    read_english_input,
+)
+
 __all__ = [
     # schema_utils
     "_field_name_to_key",
@@ -85,4 +95,10 @@ __all__ = [
     "write_oral_card_md",
     "process_oral_row",
     "process_oral_folder",
+    # english mode
+    "write_english_card_md",
+    "generate_english_card_content",
+    "process_english_row",
+    "process_english_folder",
+    "read_english_input",
 ]

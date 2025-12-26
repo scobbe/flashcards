@@ -20,6 +20,10 @@ from lib.input.processing import (
     combine_parsed_csvs,
     MAX_CJK_LINES_PER_CHUNK,
 )
+from lib.input.english import (
+    parse_english_raw_input,
+    process_english_input,
+)
 
 __all__ = [
     # vocab
@@ -39,5 +43,8 @@ __all__ = [
     "split_raw_into_chunks",
     "combine_parsed_csvs",
     "MAX_CJK_LINES_PER_CHUNK",
+    # english
+    "parse_english_raw_input",
+    "process_english_input",
 ]
 

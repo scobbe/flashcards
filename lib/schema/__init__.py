@@ -14,6 +14,10 @@ from lib.schema.oral import (
     ORAL_FRONT_SCHEMA,
     ORAL_BACK_SCHEMA,
 )
+from lib.schema.english import (
+    ENGLISH_FRONT_SCHEMA,
+    ENGLISH_BACK_SCHEMA,
+)
 
 __all__ = [
     # Base
@@ -27,5 +31,8 @@ __all__ = [
     # Oral mode
     "ORAL_FRONT_SCHEMA",
     "ORAL_BACK_SCHEMA",
+    # English mode
+    "ENGLISH_FRONT_SCHEMA",
+    "ENGLISH_BACK_SCHEMA",
 ]
 

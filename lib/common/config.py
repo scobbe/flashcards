@@ -1,7 +1,7 @@
 """Folder configuration for flashcard generation.
 
 Each folder can have a -config.json file that specifies:
-- output_type: "oral" or "written"
+- output_type: "oral", "written", or "english"
 - raw_input_file: path to raw input file (default: -input.raw.txt)
 - cache: whether to cache files (default: true). When false, clears directory on run.
 """
@@ -18,14 +18,14 @@ CONFIG_FILENAME = "-config.json"
 @dataclass
 class FolderConfig:
     """Configuration for a flashcard folder."""
-    output_type: str  # "oral" or "written"
+    output_type: str  # "oral", "written", or "english"
     raw_input_file: str = "-input.raw.txt"
     output_dir: str = "../generated"  # Path to output directory (relative to config folder)
     cache: bool = True  # When False, clears directory except config and raw input
     
     def __post_init__(self):
-        if self.output_type not in ("oral", "written"):
-            raise ValueError(f"output_type must be 'oral' or 'written', got '{self.output_type}'")
+        if self.output_type not in ("oral", "written", "english"):
+            raise ValueError(f"output_type must be 'oral', 'written', or 'english', got '{self.output_type}'")
 
 
 def load_folder_config(folder: Path) -> Optional[FolderConfig]:
