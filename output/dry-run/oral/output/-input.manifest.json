@@ -3,6 +3,6 @@
     "-input.parsed.csv": true
   },
   "complete": 1,
-  "remaining": 0,
-  "highest_contiguous": 1
+  "complete_contiguous": 1,
+  "remaining": 0
 }

@@ -76,15 +76,15 @@ def _compute_stats(file_status: Dict[str, bool]) -> Dict[str, Any]:
     return {
         "file_status": file_status,
         "complete": complete,
-        "remaining": remaining,
         "complete_contiguous": _compute_complete_contiguous(file_status),
+        "remaining": remaining,
     }
 
 
 def _load_manifest(path: Path) -> Dict[str, Any]:
     """Load a manifest file. Returns empty structure if doesn't exist."""
     if not path.exists():
-        return {"file_status": {}, "complete": 0, "remaining": 0, "complete_contiguous": 0}
+        return {"file_status": {}, "complete": 0, "complete_contiguous": 0, "remaining": 0}
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
         if isinstance(data, dict):

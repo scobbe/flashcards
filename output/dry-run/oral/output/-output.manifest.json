@@ -7,6 +7,6 @@
     "5.得": true
   },
   "complete": 5,
-  "remaining": 0,
-  "highest_contiguous": 5
+  "complete_contiguous": 5,
+  "remaining": 0
 }

@@ -2,15 +2,15 @@
   "file_status": {
     "1.山": true,
     "2.银": true,
-    "3.人口": true,
+    "3.人口": false,
     "4.人": true,
     "5.口": true,
-    "6.说话": true,
-    "7.说": true,
-    "8.话": true,
-    "9.得": true
+    "6.说话": false,
+    "7.说": false,
+    "8.话": false,
+    "9.得": false
   },
-  "complete": 9,
-  "remaining": 0,
-  "highest_contiguous": 9
+  "complete": 4,
+  "complete_contiguous": 2,
+  "remaining": 5
 }
