@@ -31,12 +31,18 @@ ENGLISH_BACK_SCHEMA = CardSchema(
             required=True,
             description=(
                 "Concise but informative definition(s) of the word. Multiple related meanings "
-                "can be listed as bullet points."
+                "can be listed as bullet points. Include relevant dates when applicable "
+                "(birth/death dates for people, time periods for events/eras)."
             ),
             ai_prompt=(
                 "Provide a clear, succinct definition of the word. If there are multiple "
                 "related meanings, list each as a separate bullet point. Keep each definition "
-                "to 1-2 lines. Use plain language, avoid jargon. Format as a bulleted list with '- '."
+                "to 1-2 lines. Use plain language, avoid jargon.\n\n"
+                "IMPORTANT: Include relevant dates when applicable:\n"
+                "- For people: include birth and death dates (e.g., '1564-1616')\n"
+                "- For historical events: include the year or time period (e.g., '1776' or '14th century')\n"
+                "- For eras/periods: include the date range (e.g., '1920s' or '500-1500 CE')\n\n"
+                "Format as a bulleted list with '- '."
             ),
             field_type="sublist",
             max_items=3,
