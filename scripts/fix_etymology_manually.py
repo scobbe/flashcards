@@ -15,6 +15,11 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+# Add project root to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from lib.common.utils import is_cjk_char
+
 
 def parse_card(content: str) -> Dict:
     """Parse a card's content into structured data."""
@@ -136,11 +141,19 @@ def format_char_reference(char: str, trad: str, pinyin: str, english: str) -> st
         return f'{char} ({pinyin}, "{primary}")'
 
 
-def generate_etymology(headword: str, definition: str, characters: List[Dict]) -> str:
+def generate_etymology(headword: str, headword_trad: str, pinyin: str, definition: str, characters: List[Dict]) -> str:
     """Generate etymology explanation based on character meanings.
     
     Uses format: simplified(traditional) (pinyin, "meaning") for character references.
     """
+    # Count CJK characters in headword
+    cjk_count = sum(1 for ch in headword if is_cjk_char(ch))
+    
+    # Single character - generate etymology based on character structure
+    if cjk_count == 1:
+        return generate_single_char_etymology(headword, headword_trad, pinyin, definition)
+    
+    # Multi-character word needs character breakdown
     if not characters:
         return ""
     
@@ -149,20 +162,16 @@ def generate_etymology(headword: str, definition: str, characters: List[Dict]) -
     for c in characters:
         char = c.get("char", "")
         trad = c.get("trad", "")
-        pinyin = c.get("pinyin", "")
+        char_pinyin = c.get("pinyin", "")
         eng = c.get("english", "")
-        if char and eng and pinyin:
-            ref = format_char_reference(char, trad, pinyin, eng)
+        if char and eng and char_pinyin:
+            ref = format_char_reference(char, trad, char_pinyin, eng)
             char_refs.append(ref)
     
     if not char_refs:
         return ""
     
     # Generate etymology based on number of characters
-    if len(char_refs) == 1:
-        # Single character - we still want to note its components
-        return ""  # Skip single chars without more context
-    
     if len(char_refs) == 2:
         return f"Combines {char_refs[0]} with {char_refs[1]} to express {definition.lower().rstrip('.')}."
     
@@ -172,6 +181,63 @@ def generate_etymology(headword: str, definition: str, characters: List[Dict]) -
     # 4+ characters
     joined = ", ".join(char_refs[:-1]) + f", and {char_refs[-1]}"
     return f"Combines {joined} to express {definition.lower().rstrip('.')}."
+
+
+# Characters that contain specific radicals (simplified)
+# Map from character to (radical, radical_pinyin, radical_meaning, description_template)
+CHAR_RADICALS = {
+    # Mouth radical 口 - sounds, speech, eating
+    "呃": ("口", "kǒu", "mouth", "an oral utterance"),
+    "呀": ("口", "kǒu", "mouth", "an exclamatory sound"),
+    "吧": ("口", "kǒu", "mouth", "a spoken particle"),
+    "吗": ("口", "kǒu", "mouth", "a question marker"),
+    "吃": ("口", "kǒu", "mouth", "the act of eating"),
+    "喝": ("口", "kǒu", "mouth", "the act of drinking"),
+    "叫": ("口", "kǒu", "mouth", "calling or shouting"),
+    "嗯": ("口", "kǒu", "mouth", "an affirmative hum"),
+    "哦": ("口", "kǒu", "mouth", "an exclamation of understanding"),
+    "哈": ("口", "kǒu", "mouth", "laughter"),
+    "哎": ("口", "kǒu", "mouth", "an interjection"),
+    "喂": ("口", "kǒu", "mouth", "a calling sound"),
+    "嘛": ("口", "kǒu", "mouth", "a spoken particle"),
+    "噢": ("口", "kǒu", "mouth", "an exclamation"),
+    "啊": ("口", "kǒu", "mouth", "an exclamatory particle"),
+    "唉": ("口", "kǒu", "mouth", "a sigh"),
+    "嗨": ("口", "kǒu", "mouth", "a greeting sound"),
+    "哇": ("口", "kǒu", "mouth", "an exclamation of surprise"),
+}
+
+
+def generate_single_char_etymology(char: str, trad: str, pinyin: str, definition: str) -> str:
+    """Generate etymology for a single character based on its structure."""
+    # Check if we have specific knowledge about this character
+    if char in CHAR_RADICALS:
+        radical, rad_pin, rad_meaning, desc = CHAR_RADICALS[char]
+        return f"Contains {radical} ({rad_pin}, \"{rad_meaning}\") indicating {desc}."
+    
+    # Fallback - check for common radicals in the character visually
+    # This is a heuristic based on common left-side radicals
+    common_left_radicals = [
+        ("亻", "rén", "person"),
+        ("氵", "shuǐ", "water"),
+        ("扌", "shǒu", "hand"),
+        ("忄", "xīn", "heart"),
+        ("讠", "yán", "speech"),
+        ("钅", "jīn", "metal"),
+        ("饣", "shí", "food"),
+        ("纟", "sī", "thread"),
+        ("犭", "quǎn", "animal"),
+        ("女", "nǚ", "woman"),
+        ("木", "mù", "wood"),
+        ("火", "huǒ", "fire"),
+        ("土", "tǔ", "earth"),
+        ("日", "rì", "sun"),
+        ("月", "yuè", "moon"),
+    ]
+    
+    # Generic fallback
+    trad_part = f"({trad})" if trad and trad != char else ""
+    return f"A character{trad_part} meaning {definition.lower().rstrip('.')}."
 
 
 def fix_card(content: str) -> Tuple[str, bool]:
@@ -186,48 +252,58 @@ def fix_card(content: str) -> Tuple[str, bool]:
         return content, False
     
     # Generate etymology
-    etymology = generate_etymology(card["headword"], card["definition"], card["characters"])
+    etymology = generate_etymology(
+        card["headword"], 
+        card["headword_trad"], 
+        card["pinyin"], 
+        card["definition"], 
+        card["characters"]
+    )
     
     if not etymology:
         return content, False
     
-    # Insert etymology after characters section (or after definition if no characters)
+    # Insert etymology in the right place
     lines = content.split("\n")
     new_lines = []
     inserted = False
     
-    # Find where to insert
-    in_chars = False
-    chars_ended = False
+    # Check if card has characters section
+    has_chars_section = any("**characters:**" in line for line in lines)
     
-    for i, line in enumerate(lines):
-        new_lines.append(line)
-        
-        if "**characters:**" in line:
-            in_chars = True
-        elif in_chars and line.startswith("- **") and "characters" not in line:
-            # Found next section after characters - insert etymology before it
-            new_lines.insert(-1, f"- **etymology:** {etymology}")
-            inserted = True
-            in_chars = False
-        elif in_chars and line.startswith("- **examples:**"):
-            # Examples section - insert etymology before it
-            new_lines.insert(-1, f"- **etymology:** {etymology}")
-            inserted = True
-            in_chars = False
-    
-    # If not inserted yet (no characters section or at end), insert after definition
-    if not inserted:
-        new_lines2 = []
-        for i, line in enumerate(new_lines):
-            new_lines2.append(line)
+    if has_chars_section:
+        # Insert after characters section, before examples
+        in_chars = False
+        for i, line in enumerate(lines):
+            new_lines.append(line)
+            
+            if "**characters:**" in line:
+                in_chars = True
+            elif in_chars and line.startswith("- **") and "characters" not in line:
+                # Found next section after characters - insert etymology before it
+                new_lines.insert(-1, f"- **etymology:** {etymology}")
+                inserted = True
+                in_chars = False
+    else:
+        # No characters section - insert after definition, before examples
+        for i, line in enumerate(lines):
+            new_lines.append(line)
+            
             if "**definition:**" in line and not inserted:
                 # Check if next line is indented (multi-line definition)
-                if i + 1 < len(new_lines) and new_lines[i + 1].startswith("  - "):
-                    continue  # Wait for definition to end
-                new_lines2.append(f"- **etymology:** {etymology}")
+                next_idx = i + 1
+                while next_idx < len(lines) and lines[next_idx].startswith("  - "):
+                    next_idx += 1
+                # We're past the definition, but we already appended this line
+                # So we add etymology right after this line
+                if next_idx == i + 1:
+                    # Single line definition - insert right after
+                    new_lines.append(f"- **etymology:** {etymology}")
+                    inserted = True
+            elif "**examples:**" in line and not inserted:
+                # Insert before examples if we haven't yet
+                new_lines.insert(-1, f"- **etymology:** {etymology}")
                 inserted = True
-        new_lines = new_lines2
     
     if not inserted:
         return content, False
