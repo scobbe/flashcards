@@ -61,8 +61,7 @@ def parse_chunk_range(chunk_arg: Optional[str]) -> Optional[Tuple[int, int]]:
 from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
-from lib.output import process_folder_written
-from lib.output.oral import process_oral_folder
+from lib.output.chinese import process_chinese_folder
 from lib.output.english import process_english_folder
 
 
@@ -128,25 +127,23 @@ def process_folder(
                 process_english_input(raw_path, output_dir, verbose=verbose)
             else:
                 # Chinese vocab parsing with OpenAI
-                # Skip subword extraction for oral mode
-                skip_subwords = config.output_type == "oral"
-                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=skip_subwords, chunk_range=chunk_range)
+                # Always skip subword extraction (unified chinese mode)
+                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=True, chunk_range=chunk_range)
         except Exception as e:
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
-    
+
     if not parsed_path.exists():
         if verbose:
             print(f"[skip] No -input.parsed.csv found in {output_dir}")
         return 0, 0
-    
+
     # Step 2: Generate output (all modes read from -input.parsed.csv)
-    if config.output_type == "oral":
-        return process_oral_folder(output_dir, model=model, verbose=verbose, chunk_range=chunk_range)
-    elif config.output_type == "english":
+    if config.output_type == "english":
         return process_english_folder(output_dir, model=model, verbose=verbose)
     else:
-        return process_folder_written(output_dir, model, verbose, debug, delay_s)
+        # Chinese mode (unified - handles both legacy "oral" and "written")
+        return process_chinese_folder(output_dir, model=model, recursive=config.recursive, verbose=verbose, chunk_range=chunk_range)
 
 
 def main(argv: Optional[List[str]] = None) -> int:
@@ -162,8 +159,10 @@ def main(argv: Optional[List[str]] = None) -> int:
     )
     group.add_argument(
         "--dry-run",
-        action="store_true",
-        help="Run both oral and written dry-run configs",
+        type=str,
+        nargs="?",
+        const="all",
+        help="Run dry-run tests. Options: 'all' (default), 'english', 'chinese', 'chinese-recursive'",
     )
     parser.add_argument(
         "--model",
@@ -197,14 +196,26 @@ def main(argv: Optional[List[str]] = None) -> int:
     # Handle --dry-run flag
     if args.dry_run:
         project_root = Path(__file__).parent.resolve()
-        dry_run_configs = [
-            project_root / "output/dry-run/oral/input" / CONFIG_FILENAME,
-            project_root / "output/dry-run/written/input" / CONFIG_FILENAME,
-        ]
-        
+
+        # Map dry-run options to config paths
+        all_configs = {
+            "english": project_root / "output/dry-run/english/input" / CONFIG_FILENAME,
+            "chinese": project_root / "output/dry-run/chinese/input" / CONFIG_FILENAME,
+            "chinese-recursive": project_root / "output/dry-run/chinese-recursive/input" / CONFIG_FILENAME,
+        }
+
+        # Determine which configs to run
+        if args.dry_run == "all":
+            dry_run_configs = list(all_configs.values())
+        elif args.dry_run in all_configs:
+            dry_run_configs = [all_configs[args.dry_run]]
+        else:
+            print(f"[error] Invalid dry-run option: {args.dry_run}. Use: all, english, chinese, chinese-recursive", file=sys.stderr)
+            return 2
+
         total_words = 0
         total_cards = 0
-        
+
         for config_path in dry_run_configs:
             if not config_path.exists():
                 print(f"[warn] Dry-run config not found: {config_path}", file=sys.stderr)

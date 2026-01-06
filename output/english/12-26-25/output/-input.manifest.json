@@ -1,8 +1,10 @@
 {
   "file_status": {
-    "-input.parsed.csv": true
+    "-input.parsed.csv": "complete"
   },
   "complete": 1,
-  "complete_contiguous": 1,
-  "remaining": 0
+  "in_progress": 0,
+  "pending": 0,
+  "error": 0,
+  "complete_contiguous": 1
 }

@@ -1,56 +1,21 @@
 """Output generation library for flashcard generation.
 
-This package handles written mode (with etymology and Wiktionary).
-For oral mode, use the lib.output.oral subpackage.
-For English mode, use the lib.output.english subpackage.
+This package handles Chinese and English flashcard generation.
+For Chinese mode, use lib.output.chinese (unified processing).
+For English mode, use lib.output.english.
 """
 
-from lib.output.schema_utils import (
-    _field_name_to_key,
-    _build_back_json_shape,
-    _collect_guidelines,
-    _required_optional_keys,
-)
-from lib.output.html import (
-    fetch_wiktionary_html_status,
-    wiktionary_url_for_word,
-    sanitize_html,
-    section_header,
-    save_html_with_parsed,
-    load_html_for_api,
-)
-from lib.output.etymology import (
-    extract_back_fields_from_html,
-    _etymology_complete,
-    _collect_components_from_back,
-    _parse_component_english_map,
-    _parse_component_forms_map,
-    RADICAL_VARIANT_TO_PRIMARY,
-    _map_radical_variant_to_primary,
-)
-from lib.output.cards import (
-    write_simple_card_md,
+from lib.output.chinese import (
+    process_chinese_folder,
+    process_chinese_row,
+    write_card_md,
+    generate_etymology,
+    generate_character_breakdown,
+    generate_examples,
     read_parsed_input,
-    render_grammar_folder,
-)
-from lib.output.components import (
-    _generate_component_subtree,
-    _get_cached_back_for_char,
-    _set_cached_back_for_char,
-)
-from lib.output.processing import (
-    _process_single_row_written,
-    process_folder_written,
 )
 
-# Oral mode exports (for convenience)
-from lib.output.oral import (
-    write_oral_card_md,
-    process_oral_row,
-    process_oral_folder,
-)
-
-# English mode exports (for convenience)
+# English mode exports
 from lib.output.english import (
     write_english_card_md,
     generate_english_card_content,
@@ -60,42 +25,15 @@ from lib.output.english import (
 )
 
 __all__ = [
-    # schema_utils
-    "_field_name_to_key",
-    "_build_back_json_shape",
-    "_collect_guidelines",
-    "_required_optional_keys",
-    # html
-    "fetch_wiktionary_html_status",
-    "wiktionary_url_for_word",
-    "sanitize_html",
-    "section_header",
-    "save_html_with_parsed",
-    "load_html_for_api",
-    # etymology
-    "extract_back_fields_from_html",
-    "_etymology_complete",
-    "_collect_components_from_back",
-    "_parse_component_english_map",
-    "_parse_component_forms_map",
-    "RADICAL_VARIANT_TO_PRIMARY",
-    "_map_radical_variant_to_primary",
-    # cards (written mode)
-    "write_simple_card_md",
+    # Chinese mode (unified)
+    "process_chinese_folder",
+    "process_chinese_row",
+    "write_card_md",
+    "generate_etymology",
+    "generate_character_breakdown",
+    "generate_examples",
     "read_parsed_input",
-    "render_grammar_folder",
-    # components
-    "_generate_component_subtree",
-    "_get_cached_back_for_char",
-    "_set_cached_back_for_char",
-    # processing (written mode)
-    "_process_single_row_written",
-    "process_folder_written",
-    # oral mode
-    "write_oral_card_md",
-    "process_oral_row",
-    "process_oral_folder",
-    # english mode
+    # English mode
     "write_english_card_md",
     "generate_english_card_content",
     "process_english_row",
