@@ -49,11 +49,17 @@ Focus on:
 
 Return JSON: {"etymology": "Brief explanation..."}
 
+CRITICAL FORMAT RULE - When referencing any Chinese character in the etymology:
+- If traditional differs: simplified(traditional) (pinyin, "meaning")
+  Example: 华(華) (huá, "Chinese")
+- If traditional same as simplified: simplified (pinyin, "meaning")
+  Example: 大 (dà, "big")
+
 Rules:
 - Be concise - max 2 sentences
 - Focus on memorable visual/semantic connections
-- Do NOT include the character itself in the explanation
-- Do NOT start with "The character..." - just explain directly"""
+- Do NOT start with "The character..." - just explain directly
+- ALWAYS use the format above when mentioning component characters or radicals"""
         user = f"Character: {simplified}"
         if traditional and traditional != simplified:
             user += f" (traditional: {traditional})"
@@ -68,11 +74,17 @@ Focus on:
 
 Return JSON: {"etymology": "Brief explanation..."}
 
+CRITICAL FORMAT RULE - When referencing any Chinese character in the etymology:
+- If traditional differs: simplified(traditional) (pinyin, "meaning")
+  Example: 华(華) (huá, "Chinese") with 侨(僑) (qiáo, "sojourn abroad")
+- If traditional same as simplified: simplified (pinyin, "meaning")
+  Example: 大 (dà, "big") and 同 (tóng, "same")
+
 Rules:
 - Be concise - max 2 sentences
 - Explain the semantic connection between characters
-- Do NOT list each character separately - synthesize the meaning
-- Do NOT start with "The word..." - just explain directly"""
+- Do NOT start with "The word..." - just explain directly
+- ALWAYS use the format above when mentioning component characters"""
         user = f"Word: {simplified}"
         if traditional and traditional != simplified:
             user += f" (traditional: {traditional})"
