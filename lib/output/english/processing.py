@@ -98,9 +98,10 @@ def process_english_row(
     
     if verbose:
         def_count = len(content.get("definition", []))
-        origin_count = len(content.get("origin", []))
+        etym_count = len(content.get("etymology", []))
+        hist_count = len(content.get("history", []))
         pron = "yes" if content.get("pronunciation") else "no"
-        print(f"[english] [api] Generated for {word}: {def_count} defs, {origin_count} origins, pron={pron}")
+        print(f"[english] [api] Generated for {word}: {def_count} defs, {etym_count} etyms, {hist_count} hist, pron={pron}")
     
     # Write card (pass both file_base for filename and word for display)
     write_english_card_md(out_dir, file_base, word, content, verbose=verbose)

@@ -48,18 +48,37 @@ ENGLISH_BACK_SCHEMA = CardSchema(
             max_items=3,
         ),
         CardField(
-            name="origin",
+            name="etymology",
             required=True,
             description=(
-                "Brief etymology and historical context of the word. Where it came from, "
-                "how it was coined, and any interesting history."
+                "Etymologie des Wortes: Sprachherkunft, Wurzelwörter und deren ursprüngliche "
+                "Bedeutung. Wie das Wort sprachlich entstanden ist."
             ),
             ai_prompt=(
-                "Provide a brief, engaging etymology of the word. Include:\n"
-                "- The language of origin (Greek, Latin, French, etc.)\n"
-                "- The original meaning or root words\n"
-                "- Any interesting historical context or how the word evolved\n"
-                "Keep it succinct (2-3 bullet points max). Use plain language. "
+                "Provide the etymology of the word. Include:\n"
+                "- The language of origin (Greek, Latin, French, German, etc.)\n"
+                "- The original root word(s) and their literal meaning\n"
+                "- How the word was formed or derived\n"
+                "Keep it succinct (2-3 bullet points max). Focus on linguistic origins only. "
+                "Format as a bulleted list with '- '."
+            ),
+            field_type="sublist",
+            max_items=3,
+        ),
+        CardField(
+            name="history",
+            required=True,
+            description=(
+                "Historischer Hintergrund: relevante Daten, Zeiträume, geschichtlicher Kontext, "
+                "wie sich die Bedeutung oder Verwendung des Wortes im Laufe der Zeit entwickelt hat."
+            ),
+            ai_prompt=(
+                "Provide historical background for the word. Include:\n"
+                "- Relevant dates (when it first appeared, key historical moments)\n"
+                "- Historical context (what was happening when this word/concept emerged)\n"
+                "- How usage or meaning evolved over time\n"
+                "- Notable people, events, or periods associated with it\n"
+                "Keep it succinct (2-3 bullet points max). Focus on history, not linguistics. "
                 "Format as a bulleted list with '- '."
             ),
             field_type="sublist",

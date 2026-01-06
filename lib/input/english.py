@@ -3,41 +3,77 @@
 Simple input parsing for English mode:
 - Reads raw text file with one word/phrase per line
 - Skips comments (lines starting with #) and blank lines
+- Sanitizes input (removes bullets, pronunciation guides, etc.)
 - Writes -input.parsed.csv with one word per line
 """
 
+import re
 from pathlib import Path
 from typing import List
 
 from lib.common.manifest import init_input_manifest, mark_chunk_complete, is_chunk_complete
 
 
+def sanitize_english_word(word: str) -> str:
+    """Sanitize an English word/phrase by removing noise.
+
+    Removes:
+    - Leading bullet markers (*, -, •, etc.)
+    - Pronunciation guides in parentheses with quotes: ("pro-NUN-see-ay-shun")
+    - Leading/trailing quotes and whitespace
+    - Numbered prefixes like "1." or "1)"
+
+    Args:
+        word: Raw word/phrase
+
+    Returns:
+        Sanitized word/phrase
+    """
+    # Strip whitespace
+    word = word.strip()
+
+    # Remove leading bullet markers
+    word = re.sub(r'^[\*\-\•\◦\▪\►\→\·]+\s*', '', word)
+
+    # Remove numbered prefixes like "1." or "1)" or "1:"
+    word = re.sub(r'^\d+[\.\)\:]\s*', '', word)
+
+    # Remove pronunciation guides: parentheticals containing quoted text
+    # e.g., ("Plah-tee-uh") or ('pro-nun-see-AY-shun')
+    word = re.sub(r'\s*\(["\'][^"\']+["\']\)', '', word)
+
+    # Strip quotes and whitespace again
+    word = word.strip().strip('"').strip("'").strip()
+
+    return word
+
+
 def parse_english_raw_input(text: str) -> List[str]:
     """Parse raw English input text into a list of words/phrases.
-    
+
     Args:
         text: Raw input text with one word/phrase per line
-        
+
     Returns:
-        List of words/phrases (comments and blanks stripped, first letter capitalized)
+        List of words/phrases (sanitized and first letter capitalized)
     """
     words: List[str] = []
-    
+
     for line in text.splitlines():
         line = line.strip()
-        
+
         # Skip empty lines and comments
         if not line or line.startswith("#"):
             continue
-        
-        # Clean up the word
-        word = line.strip().strip('"').strip("'").strip()
-        
+
+        # Sanitize the word
+        word = sanitize_english_word(line)
+
         # Capitalize first letter
         if word:
             word = word[0].upper() + word[1:] if len(word) > 1 else word.upper()
             words.append(word)
-    
+
     return words
 
 
