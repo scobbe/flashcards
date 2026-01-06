@@ -1,6 +1,6 @@
 ## Kakistocracy
 ---
-- **definition:**
+- **definition:** Kakistocracy
   - a government run by the least qualified or most unscrupulous people
   - a situation where the worst individuals end up in power; often used as a sharp critique of a regime
 - **origin:**
@@ -12,121 +12,9 @@
 %%%
 
 
-## Jacques Marie Mage
----
-- **definition:**
-  - a luxury eyewear brand known for limited-run, handcrafted frames with bold, vintage-inspired designs
-  - the eponymous label of French-born designer Jérôme Jacques Marie Mage, based in Los Angeles
-- **origin:**
-  - founded in Los Angeles in 2014 by designer Jérôme Jacques Marie Mage; often abbreviated as JMM
-  - the brand name is the designer’s full French name: jacques and marie are traditional given names, mage is his surname
-  - jacques is the French form of jacob (“supplanter”); marie is the French form of mary, from Hebrew miryam; the brand’s style draws on art deco, western, and cinematic influences
-- **pronunciation:**
-  - ZHAHK mah-REE MAHZH
-%%%
-
-
-## Makgeolli
----
-- **definition:**
-  - a traditional korean rice wine that is cloudy, lightly sparkling, and mildly sweet-tangy
-  - an unfiltered, low-alcohol drink made by fermenting rice, often served in bowls
-- **origin:**
-  - from korean 막걸리 (makgeolli), literally roughly filtered, from 막 meaning coarse or rough + 걸르다 meaning to strain or filter
-  - long a farmer’s drink in joseon-era korea, known as nongju or farmer’s liquor, later revived in modern craft brewing
-  - modern spelling follows the 2000 revised romanization; older english spellings include makkoli and makguli
-- **pronunciation:**
-  - mahk-GUHL-lee
-%%%
-
-
-## Schug (zhug)
----
-- **definition:**
-  - a spicy Yemeni chili-and-herb sauce (usually green) made with fresh chiles, garlic, cilantro, and spices
-  - a hot condiment or paste served with falafel, shawarma, grilled meats, or bread; also comes in a red version
-- **origin:**
-  - from Yemeni Arabic sahawiq, a term for "pounded/crushed mixtures," from the Arabic root meaning "to grind, crush"
-  - borrowed into Hebrew as s'khug (סחוג) via Yemeni Jewish cuisine; became a staple in Israel in the 20th century
-  - english spellings vary—zhug, zhoug, skhug, schug—reflecting different ways to represent the Arabic/Hebrew sounds
-- **pronunciation:**
-  - ZHOOG
-%%%
-
-
-## Viviperous
----
-- **definition:**
-  - giving birth to live young rather than laying eggs (used of animals)
-  - in plants, producing plantlets or seeds that begin to grow while still attached to the parent
-- **origin:**
-  - from Latin viviparus, “bringing forth alive” (vivus “alive” + parere “to give birth”)
-  - entered scientific English in the 1600s, contrasted with “oviparous” (egg-laying) and later “ovoviviparous”
-  - related noun “vivipary” describes seeds sprouting on the parent plant, as seen in mangroves
-- **pronunciation:**
-  - vye-VIP-uh-rus
-%%%
-
-
-## Theremin
----
-- **definition:**
-  - an early electronic musical instrument played without touching it, using hand motions near two antennas to control pitch and volume
-  - known for its smooth, eerie gliding tones often heard in film scores and experimental music
-- **origin:**
-  - named after its inventor, Russian physicist Léon Theremin (born Lev Termen), who developed and patented it in the 1920s
-  - earlier names included “aetherphone/etherphone” (from Greek aither, “upper air”) and “thereminvox” (Latin vox, “voice”), reflecting its touchless, voice-like sound
-  - rose to fame mid-20th century through radio, concerts, and sci‑fi and horror soundtracks
-- **pronunciation:**
-  - THER-uh-min
-%%%
-
-
-## Gambian kora
----
-- **definition:**
-  - a 21-string West African harp-lute, especially the version and playing style rooted in The Gambia’s jeli (griot) tradition
-  - by extension, music performed on that instrument within Gambian repertoire and tunings
-- **origin:**
-  - from Mandinka kora, the name of the jeli’s string instrument; the modern form developed along the Gambia River in the 1700s
-  - gambian is the demonym from Gambia (likely from Mandinka Kambaa, “Gambia River”) plus the -an suffix meaning “of/from”
-  - central to Mandé oral history and praise-singing; Gambian lineages helped standardize the 21-string build and repertoire
-- **pronunciation:**
-  - GAM-bee-uhn KOH-rah
-%%%
-
-
-## Gladiolus flowers
----
-- **definition:**
-  - tall, spike-flowering plants of the iris family with sword-shaped leaves
-  - the colorful, funnel-shaped blooms from these plants, popular in bouquets and summer gardens
-- **origin:**
-  - from Latin gladiolus, meaning 'little sword' (diminutive of gladius 'sword'), referring to the leaf shape
-  - adopted as the New Latin genus name; entered English in the 1700s; commonly nicknamed 'glads'
-  - shares a root with 'gladiator,' both tracing back to the Roman short sword gladius
-- **pronunciation:**
-  - glad-ee-OH-luss FLOW-ers
-%%%
-
-
-## Qi Baishi
----
-- **definition:**
-  - a renowned 20th-century Chinese painter and seal carver, famous for lively ink paintings of shrimp, flowers, and small creatures
-  - a key figure in modern Chinese art who blended folk sensibilities with classical literati brushwork
-- **origin:**
-  - from Mandarin Chinese Qí Báishí (齐白石), where Qí is the surname and Bái-shí means "white stone," his chosen art name
-  - romanized as "Qi Baishi" in Pinyin; earlier spelled "Ch'i Pai-shih" in the Wade–Giles system
-  - born Qí Huáng (齐璜), he later adopted "Baishi" as his studio name, which became his worldwide name
-- **pronunciation:**
-  - chee BYE-shir
-%%%
-
-
 ## Yi jing
 ---
-- **definition:**
+- **definition:** Yi jing
   - an ancient Chinese classic, also called the I Ching or Book of Changes, made up of 64 hexagrams with accompanying texts
   - a traditional system of divination and reflection that interprets hexagrams to offer guidance
 - **origin:**
@@ -140,7 +28,7 @@
 
 ## Kenny G
 ---
-- **definition:**
+- **definition:** Kenny G
   - american smooth-jazz saxophonist known for melodic, easy-listening hits
   - used in pop culture as shorthand for ultra-smooth, mellow background jazz
 - **origin:**
@@ -154,7 +42,7 @@
 
 ## Zao Wou-Ki
 ---
-- **definition:**
+- **definition:** Zao Wou-Ki
   - a Chinese-born French painter celebrated for luminous abstract canvases and calligraphic brushwork
   - the personal name of Zhao Wuji (1920–2013), a leading figure in postwar lyrical abstraction
 - **origin:**
@@ -168,7 +56,7 @@
 
 ## Holy See
 ---
-- **definition:**
+- **definition:** Holy See
   - the central governing authority of the Roman Catholic Church, led by the pope
   - the sovereign legal entity that maintains diplomatic relations worldwide; distinct from the territorial Vatican City State
 - **origin:**
@@ -182,7 +70,7 @@
 
 ## Stemmed the rose
 ---
-- **definition:**
+- **definition:** Stemmed the rose
   - literal: removed the stem from a rose, as when preparing flowers
   - archaic, euphemistic (rare): had sexual intercourse with a woman; deflowered her
 - **origin:**
@@ -196,7 +84,7 @@
 
 ## Yukata
 ---
-- **definition:**
+- **definition:** Yukata
   - a casual, unlined cotton kimono worn in summer or after bathing
   - commonly worn at festivals, ryokan, and hot springs, tied with a simple obi sash
 - **origin:**
@@ -210,7 +98,7 @@
 
 ## Sool
 ---
-- **definition:**
+- **definition:** Sool
   - to incite or egg on, especially to set a dog on someone (dialect)
   - a Korean loanword used in English for alcoholic drinks, especially traditional brews like soju and makgeolli
 - **origin:**
@@ -224,7 +112,7 @@
 
 ## Yukata
 ---
-- **definition:**
+- **definition:** Yukata
   - a lightweight, unlined cotton robe like a casual kimono, worn in summer or after bathing
   - commonly worn at festivals or provided as loungewear in Japanese inns and hot-spring resorts
 - **origin:**
@@ -238,7 +126,7 @@
 
 ## Culiacán
 ---
-- **definition:**
+- **definition:** Culiacán
   - a city in northwestern Mexico; the capital and largest city of the state of Sinaloa
   - a regional hub for agriculture and commerce, located where the Humaya and Tamazula rivers meet
 - **origin:**
@@ -252,7 +140,7 @@
 
 ## Oud
 ---
-- **definition:**
+- **definition:** Oud
   - a short-necked, lute-like string instrument common in middle eastern and north african music
   - a deep, woody scent from resinous agarwood used in perfumes and incense; also the aromatic wood itself
 - **origin:**
@@ -264,9 +152,23 @@
 %%%
 
 
+## Jacques Marie Mage
+---
+- **definition:** Jacques Marie Mage
+  - a luxury eyewear brand known for limited-run, handcrafted frames with bold, vintage-inspired designs
+  - the eponymous label of French-born designer Jérôme Jacques Marie Mage, based in Los Angeles
+- **origin:**
+  - founded in Los Angeles in 2014 by designer Jérôme Jacques Marie Mage; often abbreviated as JMM
+  - the brand name is the designer’s full French name: jacques and marie are traditional given names, mage is his surname
+  - jacques is the French form of jacob (“supplanter”); marie is the French form of mary, from Hebrew miryam; the brand’s style draws on art deco, western, and cinematic influences
+- **pronunciation:**
+  - ZHAHK mah-REE MAHZH
+%%%
+
+
 ## Sentir
 ---
-- **definition:**
+- **definition:** Sentir
   - a common verb in Spanish meaning to feel; also to be sorry for or regret something
   - a French verb meaning to feel or sense; also to smell or to have an odor
 - **origin:**
@@ -280,7 +182,7 @@
 
 ## Pieta
 ---
-- **definition:**
+- **definition:** Pieta
   - a sculpture or painting of the Virgin Mary mourning and holding the dead Jesus
 - **origin:**
   - from Italian pietà meaning “pity, compassion,” ultimately from Latin pietas “devotion, dutifulness”
@@ -293,7 +195,7 @@
 
 ## Slat
 ---
-- **definition:**
+- **definition:** Slat
   - a thin, flat strip of wood, metal, or plastic used in things like fences, chairs, or window blinds
   - in aviation, a narrow movable strip on the front edge of a wing that helps an aircraft lift at low speeds
   - to fit or furnish with slats
@@ -308,7 +210,7 @@
 
 ## Moll
 ---
-- **definition:**
+- **definition:** Moll
   - a gangster’s girlfriend or female companion
   - slang (esp. Australia/NZ): an insulting term for a woman; sometimes a dated term for a prostitute
 - **origin:**
@@ -322,7 +224,7 @@
 
 ## Bánh cuốn / Bánh ướt
 ---
-- **definition:**
+- **definition:** Bánh cuốn / Bánh ướt
   - bánh cuốn: thin steamed rice-batter crêpes rolled around savory fillings (often minced pork and wood ear mushrooms), served with herbs and fish-sauce dip
   - bánh ướt: plain steamed rice sheets (noodles) served rolled or folded with toppings like chả lụa, fried shallots, herbs, and a light dipping sauce
 - **origin:**
@@ -336,7 +238,7 @@
 
 ## Pentecost
 ---
-- **definition:**
+- **definition:** Pentecost
   - in Christianity: the festival held 50 days after Easter, marking the Holy Spirit’s descent on the apostles
   - in Judaism: the Greek name for Shavuot (Feast of Weeks), observed 50 days after Passover
 - **origin:**
@@ -350,7 +252,7 @@
 
 ## Audio interface
 ---
-- **definition:**
+- **definition:** Audio interface
   - a device that connects microphones, instruments, and speakers to a computer, converting analog sound to digital and back
   - more generally, the hardware or software layer that manages audio input and output between systems
 - **origin:**
@@ -364,7 +266,7 @@
 
 ## Succotash
 ---
-- **definition:**
+- **definition:** Succotash
   - a simple American dish of cooked corn and lima beans, often with butter and seasonings
   - more broadly, a mixed-vegetable side dish featuring corn as the base
 - **origin:**
@@ -377,7 +279,7 @@
 
 ## Bún bò Huế
 ---
-- **definition:**
+- **definition:** Bún bò Huế
   - a spicy Vietnamese noodle soup from Huế, made with thick rice vermicelli and beef in a lemongrass-scented broth
   - often includes pork cuts, chili oil, herbs, and fermented shrimp paste for deep, savory flavor
 - **origin:**
@@ -391,7 +293,7 @@
 
 ## The Oculus
 ---
-- **definition:**
+- **definition:** The Oculus
   - the main hall of the World Trade Center Transportation Hub in New York City, a striking ribbed structure by Santiago Calatrava
   - in architecture, a round opening (often at the top of a dome) that lets in light—the building’s “eye”
 - **origin:**
@@ -403,9 +305,23 @@
 %%%
 
 
+## Makgeolli
+---
+- **definition:** Makgeolli
+  - a traditional korean rice wine that is cloudy, lightly sparkling, and mildly sweet-tangy
+  - an unfiltered, low-alcohol drink made by fermenting rice, often served in bowls
+- **origin:**
+  - from korean 막걸리 (makgeolli), literally roughly filtered, from 막 meaning coarse or rough + 걸르다 meaning to strain or filter
+  - long a farmer’s drink in joseon-era korea, known as nongju or farmer’s liquor, later revived in modern craft brewing
+  - modern spelling follows the 2000 revised romanization; older english spellings include makkoli and makguli
+- **pronunciation:**
+  - mahk-GUHL-lee
+%%%
+
+
 ## Byredo
 ---
-- **definition:**
+- **definition:** Byredo
   - a Swedish luxury fragrance and beauty brand known for minimalist design and niche perfumes
   - used informally to refer to one of the brand’s products (e.g., “a Byredo candle”)
 - **origin:**
@@ -419,7 +335,7 @@
 
 ## Vodka sauce
 ---
-- **definition:**
+- **definition:** Vodka sauce
   - a rich, pink pasta sauce made from tomatoes and cream with a splash of vodka
   - often mildly spicy with garlic and chili, commonly served with penne or used as a pizza topping
 - **origin:**
@@ -433,7 +349,7 @@
 
 ## Hanseatic League
 ---
-- **definition:**
+- **definition:** Hanseatic League
   - a medieval alliance of merchant guilds and market towns in northern Europe that coordinated trade and mutual defense
   - the network that dominated Baltic and North Sea commerce from the 1200s to the 1600s, centered on cities like Lübeck and Hamburg
 - **origin:**
@@ -447,7 +363,7 @@
 
 ## Ginseng
 ---
-- **definition:**
+- **definition:** Ginseng
   - a slow-growing medicinal root, especially from Panax species, used as a tonic to boost energy and reduce fatigue
   - the plant that produces this root, native to East Asia and North America
 - **origin:**
@@ -461,7 +377,7 @@
 
 ## Ecclesiastes 3
 ---
-- **definition:**
+- **definition:** Ecclesiastes 3
   - the third chapter of the biblical book Ecclesiastes, noted for the poem beginning "to everything there is a season"
   - a poetic reflection on life's appointed times and opposites, often quoted in literature, ceremonies, and song
 - **origin:**
@@ -475,7 +391,7 @@
 
 ## On the Marionette Theatre
 ---
-- **definition:**
+- **definition:** On the Marionette Theatre
   - the English title of Heinrich von Kleist’s 1810 essay that uses puppet theatre to explore grace, consciousness, and movement
   - often cited in aesthetics and performance studies as a meditation on human versus mechanical elegance
 - **origin:**
@@ -489,7 +405,7 @@
 
 ## Crepuscular
 ---
-- **definition:**
+- **definition:** Crepuscular
   - relating to twilight; dim or shadowy like dusk
   - of animals, active mainly at dawn and dusk
 - **origin:**
@@ -503,7 +419,7 @@
 
 ## Roman Curia
 ---
-- **definition:**
+- **definition:** Roman Curia
   - the central group of departments and offices that help the Pope run the Catholic Church and manage the Holy See
   - historically, the Pope’s court and its legal tribunals handling church governance and disputes
 - **origin:**
@@ -517,7 +433,7 @@
 
 ## Vuori
 ---
-- **definition:**
+- **definition:** Vuori
   - a U.S. activewear brand known for performance and casual apparel
   - the Finnish word for 'mountain'; also used for 'lining' in clothing contexts
 - **origin:**
@@ -530,7 +446,7 @@
 
 ## Daifuku
 ---
-- **definition:**
+- **definition:** Daifuku
   - a Japanese sweet made of soft mochi (pounded sticky rice) wrapped around a filling, often sweet red bean paste
   - also used for modern versions with fillings like strawberries, custard, or ice cream
 - **origin:**
@@ -542,9 +458,23 @@
 %%%
 
 
+## Schug (zhug)
+---
+- **definition:** Schug (zhug)
+  - a spicy Yemeni chili-and-herb sauce (usually green) made with fresh chiles, garlic, cilantro, and spices
+  - a hot condiment or paste served with falafel, shawarma, grilled meats, or bread; also comes in a red version
+- **origin:**
+  - from Yemeni Arabic sahawiq, a term for "pounded/crushed mixtures," from the Arabic root meaning "to grind, crush"
+  - borrowed into Hebrew as s'khug (סחוג) via Yemeni Jewish cuisine; became a staple in Israel in the 20th century
+  - english spellings vary—zhug, zhoug, skhug, schug—reflecting different ways to represent the Arabic/Hebrew sounds
+- **pronunciation:**
+  - ZHOOG
+%%%
+
+
 ## Citron
 ---
-- **definition:**
+- **definition:** Citron
   - a large, very fragrant citrus fruit with a thick rind; its peel is often candied
   - a pale yellow-green color
   - in North America, a firm preserving melon used for pickles and jams
@@ -559,7 +489,7 @@
 
 ## Externalizes
 ---
-- **definition:**
+- **definition:** Externalizes
   - makes something internal (such as feelings or ideas) outward, visible, or expressed
   - in psychology, attributes causes or blame to outside forces rather than oneself
   - in economics/business, shifts costs, risks, or harms onto others or the environment
@@ -574,7 +504,7 @@
 
 ## Bris
 ---
-- **definition:**
+- **definition:** Bris
   - a Jewish religious ceremony in which a baby boy is circumcised, traditionally on the eighth day after birth
   - by extension, the circumcision itself or the gathering/celebration held for it
 - **origin:**
@@ -588,7 +518,7 @@
 
 ## Mubi (streaming service)
 ---
-- **definition:**
+- **definition:** Mubi (streaming service)
   - a curated streaming service for arthouse, classic, and international films, known for a handpicked, rotating selection
   - a film company that also produces and distributes movies and runs an online film magazine
 - **origin:**
@@ -602,7 +532,7 @@
 
 ## Tannoy
 ---
-- **definition:**
+- **definition:** Tannoy
   - a public-address system or an announcement made over it (chiefly British; from the brand name)
   - the trademark name of a British company known for loudspeakers and PA equipment
 - **origin:**
@@ -616,7 +546,7 @@
 
 ## Pilcrow
 ---
-- **definition:**
+- **definition:** Pilcrow
   - the paragraph mark (¶), used in writing and typesetting to indicate a new paragraph or a paragraph break
   - in software, the icon that shows or toggles hidden formatting marks (often displayed as ¶)
 - **origin:**
@@ -630,7 +560,7 @@
 
 ## Lymphatic System
 ---
-- **definition:**
+- **definition:** Lymphatic System
   - the body's network of vessels, nodes, and organs that returns excess fluid to the blood and keeps tissues balanced
   - a major part of immunity that filters lymph and houses white blood cells to fight infection
   - a pathway that absorbs fats from the small intestine and carries them to the bloodstream
@@ -645,7 +575,7 @@
 
 ## Parapet vs rampart
 ---
-- **definition:**
+- **definition:** Parapet vs rampart
   - parapet: a low protective wall along the edge of a roof, balcony, bridge, or atop a fortification
   - rampart: a broad defensive embankment or wall, often an earthwork surrounding a fort and typically topped by a parapet
   - difference: a parapet is the breast-high barrier at the top; a rampart is the large defensive mound or wall beneath it
@@ -660,7 +590,7 @@
 
 ## Alpha
 ---
-- **definition:**
+- **definition:** Alpha
   - the first letter of the Greek alphabet; by extension, something that is first, primary, or highest in rank
   - a dominant individual in a group (especially animals), or informally, a top-ranking, assertive person
   - in finance, the extra return a strategy earns beyond the market benchmark, attributed to skill
@@ -675,7 +605,7 @@
 
 ## Pioneer-DJ/XDJ-RX3-2
 ---
-- **definition:**
+- **definition:** Pioneer-DJ/XDJ-RX3-2
   - a branded model name for an all‑in‑one, 2‑channel DJ system by Pioneer DJ (XDJ‑RX3), used to mix music from USB drives and rekordbox
   - in listings, the extra “‑2” can appear as a slug or variant tag; the official model name is XDJ‑RX3
 - **origin:**
@@ -687,9 +617,23 @@
 %%%
 
 
+## Viviperous
+---
+- **definition:** Viviperous
+  - giving birth to live young rather than laying eggs (used of animals)
+  - in plants, producing plantlets or seeds that begin to grow while still attached to the parent
+- **origin:**
+  - from Latin viviparus, “bringing forth alive” (vivus “alive” + parere “to give birth”)
+  - entered scientific English in the 1600s, contrasted with “oviparous” (egg-laying) and later “ovoviviparous”
+  - related noun “vivipary” describes seeds sprouting on the parent plant, as seen in mangroves
+- **pronunciation:**
+  - vye-VIP-uh-rus
+%%%
+
+
 ## Movado
 ---
-- **definition:**
+- **definition:** Movado
   - a Swiss luxury watch brand known for minimalist designs, especially the Museum dial with a single dot at 12
   - a watch made by this company
 - **origin:**
@@ -703,7 +647,7 @@
 
 ## Chabad
 ---
-- **definition:**
+- **definition:** Chabad
   - a Hasidic movement within Orthodox Judaism, also called Lubavitch, known for outreach and emphasis on study and mitzvot
   - a local community center or synagogue run by this movement, often called a “Chabad House”
 - **origin:**
@@ -717,7 +661,7 @@
 
 ## Divine madness
 ---
-- **definition:**
+- **definition:** Divine madness
   - a state of inspired ecstasy believed to come from a god, leading to prophecy, vision, or poetry
   - in Plato, the idea that certain forms of madness are a divine gift that reveals truth
   - informally, overpowering creative inspiration that feels beyond rational control
@@ -732,7 +676,7 @@
 
 ## Mutual funds
 ---
-- **definition:**
+- **definition:** Mutual funds
   - a pooled investment that gathers money from many investors to buy a diversified portfolio (stocks, bonds, etc.) run by professional managers
   - investors buy shares priced at the fund’s net asset value (NAV) and earn returns from gains, dividends, and interest, minus fees
 - **origin:**
@@ -746,7 +690,7 @@
 
 ## Philip Johnson
 ---
-- **definition:**
+- **definition:** Philip Johnson
   - american architect known for the Glass House and the AT&T (Sony) Building; a leading voice in modern and postmodern design
   - influential curator and critic who helped popularize the International Style through early exhibitions at MoMA
 - **origin:**
@@ -760,7 +704,7 @@
 
 ## Ful
 ---
-- **definition:**
+- **definition:** Ful
   - suffix forming adjectives meaning “full of” or “characterized by” (beautiful, helpful, forgetful)
   - suffix forming nouns meaning “the amount that fills a container or measure” (cupful, spoonful)
 - **origin:**
@@ -774,7 +718,7 @@
 
 ## Lelit Bianca
 ---
-- **definition:**
+- **definition:** Lelit Bianca
   - a premium home espresso machine model by the Italian brand Lelit, known for its wooden paddle that lets you control water flow
   - often used by coffee enthusiasts for precise, café-quality espresso at home
 - **origin:**
@@ -788,7 +732,7 @@
 
 ## Molding
 ---
-- **definition:**
+- **definition:** Molding
   - the process of shaping a material in a mold by casting, pressing, or similar methods
   - a decorative strip or shaped profile used to trim walls, doors, ceilings, or furniture
   - the shaped outline or profile given to an edge or surface
@@ -803,7 +747,7 @@
 
 ## I Ching / Yijing
 ---
-- **definition:**
+- **definition:** I Ching / Yijing
   - an ancient Chinese classic, the Book of Changes, used for divination and moral guidance
   - the system of 64 hexagrams and line texts used to interpret patterns and offer advice
   - by extension, a cornerstone of Chinese thought that influenced Confucian and Daoist traditions
@@ -818,7 +762,7 @@
 
 ## Amgen
 ---
-- **definition:**
+- **definition:** Amgen
   - a U.S.-based biotechnology company that develops, manufactures, and sells biologic medicines
 - **origin:**
   - from “Applied Molecular Genetics,” the company’s original 1980 name; shortened to Amgen as the brand
@@ -829,9 +773,23 @@
 %%%
 
 
+## Theremin
+---
+- **definition:** Theremin
+  - an early electronic musical instrument played without touching it, using hand motions near two antennas to control pitch and volume
+  - known for its smooth, eerie gliding tones often heard in film scores and experimental music
+- **origin:**
+  - named after its inventor, Russian physicist Léon Theremin (born Lev Termen), who developed and patented it in the 1920s
+  - earlier names included “aetherphone/etherphone” (from Greek aither, “upper air”) and “thereminvox” (Latin vox, “voice”), reflecting its touchless, voice-like sound
+  - rose to fame mid-20th century through radio, concerts, and sci‑fi and horror soundtracks
+- **pronunciation:**
+  - THER-uh-min
+%%%
+
+
 ## Fen
 ---
-- **definition:**
+- **definition:** Fen
   - a low-lying, waterlogged wetland, typically with grasses, sedges, and reeds
   - in britain, often the fenland region (the fens) of eastern england
 - **origin:**
@@ -845,7 +803,7 @@
 
 ## Karahi
 ---
-- **definition:**
+- **definition:** Karahi
   - a deep, round, thick-walled pan from the Indian subcontinent, like a wok with steeper sides, used for frying and simmering
   - a dish cooked in such a pan, as in "chicken karahi"
 - **origin:**
@@ -859,7 +817,7 @@
 
 ## Nazca lines
 ---
-- **definition:**
+- **definition:** Nazca lines
   - vast ancient geoglyphs etched into the desert of southern Peru, best viewed from the air
   - made by clearing dark stones to reveal lighter ground, forming long lines, shapes, and figures; their purpose is debated (ritual, water, or astronomical uses)
 - **origin:**
@@ -873,7 +831,7 @@
 
 ## Forró
 ---
-- **definition:**
+- **definition:** Forró
   - a lively Brazilian music genre and partner dance from the Northeast, led by accordion, triangle, and zabumba drum
   - a social event or party where this music is played and danced
 - **origin:**
@@ -887,7 +845,7 @@
 
 ## Tochucha
 ---
-- **definition:**
+- **definition:** Tochucha
   - not an established English dictionary word; likely a proper name, brand, or coined term
   - its meaning, if any, depends on the specific context where you saw it
 - **origin:**
@@ -900,7 +858,7 @@
 
 ## Gordito
 ---
-- **definition:**
+- **definition:** Gordito
   - a Spanish word meaning “chubby” or “little fat one,” formed as the diminutive of “gordo”
   - used as an affectionate nickname for someone plump or cuddly; tone can vary by context
 - **origin:**
@@ -909,5 +867,47 @@
   - widely used as a term of endearment in Spanish-speaking cultures and borrowed into English via cultural contact
 - **pronunciation:**
   - gor-DEE-toh
+%%%
+
+
+## Gambian kora
+---
+- **definition:** Gambian kora
+  - a 21-string West African harp-lute, especially the version and playing style rooted in The Gambia’s jeli (griot) tradition
+  - by extension, music performed on that instrument within Gambian repertoire and tunings
+- **origin:**
+  - from Mandinka kora, the name of the jeli’s string instrument; the modern form developed along the Gambia River in the 1700s
+  - gambian is the demonym from Gambia (likely from Mandinka Kambaa, “Gambia River”) plus the -an suffix meaning “of/from”
+  - central to Mandé oral history and praise-singing; Gambian lineages helped standardize the 21-string build and repertoire
+- **pronunciation:**
+  - GAM-bee-uhn KOH-rah
+%%%
+
+
+## Gladiolus flowers
+---
+- **definition:** Gladiolus flowers
+  - tall, spike-flowering plants of the iris family with sword-shaped leaves
+  - the colorful, funnel-shaped blooms from these plants, popular in bouquets and summer gardens
+- **origin:**
+  - from Latin gladiolus, meaning 'little sword' (diminutive of gladius 'sword'), referring to the leaf shape
+  - adopted as the New Latin genus name; entered English in the 1700s; commonly nicknamed 'glads'
+  - shares a root with 'gladiator,' both tracing back to the Roman short sword gladius
+- **pronunciation:**
+  - glad-ee-OH-luss FLOW-ers
+%%%
+
+
+## Qi Baishi
+---
+- **definition:** Qi Baishi
+  - a renowned 20th-century Chinese painter and seal carver, famous for lively ink paintings of shrimp, flowers, and small creatures
+  - a key figure in modern Chinese art who blended folk sensibilities with classical literati brushwork
+- **origin:**
+  - from Mandarin Chinese Qí Báishí (齐白石), where Qí is the surname and Bái-shí means "white stone," his chosen art name
+  - romanized as "Qi Baishi" in Pinyin; earlier spelled "Ch'i Pai-shih" in the Wade–Giles system
+  - born Qí Huáng (齐璜), he later adopted "Baishi" as his studio name, which became his worldwide name
+- **pronunciation:**
+  - chee BYE-shir
 %%%
 

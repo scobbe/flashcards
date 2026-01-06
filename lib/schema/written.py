@@ -77,20 +77,20 @@ BACK_SCHEMA = CardSchema(
                 "From the provided Wiktionary HTML only, output a short sublist of example PHRASES or COMPOUND VOCAB WORDS for the relevant modern sense.\n"
                 "STRICT FORMAT RULES:\n"
                 "- Each line MUST start with '- ' (dash and space).\n"
-                "- Each line MUST be: CJK phrase (pinyin, \"english\").\n"
-                "- Do NOT use angle brackets around Chinese, pinyin, or English.\n"
-                "- The CJK phrase MUST be at least TWO characters long (no single-character items).\n"
+                "- Each line MUST be: simplified_phrase(traditional_phrase): pinyin; english\n"
+                "- Do NOT use angle brackets or quotes around Chinese, pinyin, or English.\n"
+                "- The phrase MUST be at least TWO characters long (no single-character items).\n"
                 "- pinyin MUST use diacritical tone marks (e.g., hǎo), do NOT use tone numbers.\n"
-                "- CHINESE phrase: write in SIMPLIFIED characters; ASCII parentheses are allowed for annotations. No Latin letters.\n"
-                "- HARD RULE: For EVERY Simplified character in the phrase that has a DISTINCT Traditional form, INSERT its Traditional character in ASCII parentheses IMMEDIATELY after that character (no spaces). Example: 宝贝 → 宝(寶)贝(貝). Do NOT annotate characters where Simplified == Traditional.\n"
-                "- English: concise phrase (2–8 words) in double quotes, no trailing period.\n"
+                "- HARD RULE: If traditional differs from simplified, show the FULL PHRASE in both forms: simplified_phrase(traditional_phrase). Example: 宝贝(寶貝) - NOT 宝(寶)贝(貝). If traditional equals simplified, just show the phrase once with no parentheses.\n"
+                "- Use a COLON after the Chinese phrase, then pinyin, then a SEMICOLON, then concise English (2–8 words, no quotes, no trailing period).\n"
+                "- Example format: 日记(日記): rì jì; diary\n"
                 "- No extra text, labels, or headers.\n"
-                "- Output EXACTLY 4 items.\n"
-                "- PRIORITY: If a context phrase is provided in the input, use it as the basis for the FIRST example (matching its usage context), then provide 3 additional varied examples.\n"
+                "- Output UP TO 4 items. Fewer is fine if additional items would be redundant or obscure.\n"
+                "- PRIORITY: If a context phrase is provided in the input, use it as the basis for the FIRST example (matching its usage context), then provide additional varied examples as needed.\n"
                 "HEADWORD MATCHING (H):\n"
                 "- Let H be the exact headword string.\n"
-                "- If len(H) == 1 (single character): each CJK phrase MUST be a common modern compound or phrase CONTAINING H (preferably starting with H), and MUST be length >= 2. Do NOT output H alone.\n"
-                "- If len(H) > 1 (multi-character): each CJK phrase MUST begin with H and represent common modern compounds/phrases formed from H; ensure length >= len(H) + 1.\n"
+                "- If len(H) == 1 (single character): each phrase MUST be a common modern compound or phrase CONTAINING H (preferably starting with H), and MUST be length >= 2. Do NOT output H alone.\n"
+                "- If len(H) > 1 (multi-character): each phrase MUST begin with H and represent common modern compounds/phrases formed from H; ensure length >= len(H) + 1.\n"
                 "SOURCES WITHIN HTML (in priority order):\n"
                 "1) Usage examples (including glossed examples) under the target sense.\n"
                 "2) Compounds/Derived terms that are in common/modern use.\n"
@@ -137,17 +137,19 @@ BACK_SCHEMA = CardSchema(
                         "VERY concise arrow sequence A → B → C that shows the formation flow. HARD RULE: EVERY Chinese element MUST be rendered as Simplified(Traditional) (pinyin, \"english\"); omit (Traditional) if identical. Do NOT use angle brackets."
                     ),
                     ai_prompt=(
-                        "Rely primarily on the provided Wiktionary HTML. Output a SINGLE LINE arrow sequence (A → B → C…) that shows the formation flow.\n"
+                        "Rely primarily on the provided Wiktionary HTML. Output formation steps as a bullet list, each step on its own line starting with '- '.\n"
                         "STRICT FORMAT RULES:\n"
-                        "- Use terse tokens like: pictogram of Simplified(Traditional) (pinyin, \"english\"), semantic: Simplified(Traditional) (pinyin, \"english\"), phonetic: Simplified(Traditional) (pinyin, \"english\"), ideogrammic: Simplified(Traditional) (pinyin, \"english\") + Simplified(Traditional) (pinyin, \"english\").\n"
+                        "- Each bullet should be ONE formation step (e.g., pictogram, semantic component, phonetic component).\n"
+                        "- Use terse descriptions like: pictogram of Simplified(Traditional) (pinyin, \"english\"), semantic: Simplified(Traditional) (pinyin, \"english\"), phonetic: Simplified(Traditional) (pinyin, \"english\").\n"
                         "- HARD RULE: EVERY Chinese element MUST be rendered as Simplified(Traditional) (pinyin, \"english\"); omit (Traditional) if identical. Use Simplified as the base form. Do NOT use angle brackets.\n"
-                        "- Do NOT mention where a component appears elsewhere (e.g., 'appears as the top of 灰'); describe ONLY the formation path of the head character.\n"
-                        "- Include ONLY the core historical formation events; EXCLUDE script/graphic variants, orthographic regularizations, and other side notes unrelated to the core formation.\n"
-                        "- If the TYPE is pictogram, you MUST explicitly state what it depicts (e.g., 'pictogram: depiction of calyx of a flower'), not an abstract concept.\n"
-                        "- END THE LINE WITH A PERIOD.\n"
+                        "- Do NOT mention where a component appears elsewhere; describe ONLY the formation path of the head character.\n"
+                        "- Include ONLY the core historical formation events; EXCLUDE script/graphic variants and side notes.\n"
+                        "- If the TYPE is pictogram, you MUST explicitly state what it depicts (e.g., 'pictogram: depiction of calyx of a flower').\n"
+                        "- NO trailing period on each line.\n"
                         "Use general reasoning only if the HTML is insufficient."
                     ),
-                    field_type="line",
+                    field_type="sublist",
+                    max_items=4,
                 ),
                 CardField(
                     name="interpretation",

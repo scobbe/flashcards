@@ -1,0 +1,27 @@
+{
+  "file_status": {
+    "1.着": true,
+    "2.送": true,
+    "3.被": true,
+    "4.撞": true,
+    "5.伤": true,
+    "6.第": true,
+    "7.检查": true,
+    "8.重": true,
+    "9.完": true,
+    "10.马上": true,
+    "11.胳膊": true,
+    "12.腿": true,
+    "13.骑": true,
+    "14.自行车": true,
+    "15.笑": true,
+    "16.注意": true,
+    "17.停": true,
+    "18.医药费": true,
+    "19.以为": true,
+    "20.如果": true
+  },
+  "complete": 20,
+  "complete_contiguous": 20,
+  "remaining": 0
+}

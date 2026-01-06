@@ -50,11 +50,17 @@ def _etymology_complete(back: object) -> bool:
 
 
 def _parse_component_english_map(description: str) -> Dict[str, str]:
-    """Parse component English from description."""
+    """Parse component English from description.
+    
+    Handles both formats:
+    - simplified (pinyin, "english")
+    - simplified(traditional) (pinyin, "english")
+    """
     mapping: Dict[str, str] = {}
     if not isinstance(description, str) or not description:
         return mapping
-    for m in re.finditer(r"([^\s()]+)\s*\([^)]*,\s*\"([^\"]+)\"\)", description):
+    # The (?:\([^)]+\))? allows an optional (traditional) group between word and pinyin
+    for m in re.finditer(r"([^\s()]+)(?:\([^)]+\))?\s*\([^)]*,\s*\"([^\"]+)\"\)", description):
         token = m.group(1)
         en = m.group(2).strip()
         simp = next((c for c in token if is_cjk_char(c)), "")
@@ -264,8 +270,8 @@ def extract_contemporary_usage(
     """Extract only contemporary usage examples from HTML (for oral mode).
     
     Returns a list of usage strings like:
-    - 得体(得體) (détǐ, "appropriate")
-    - 得到 (dédào, "obtain")
+    - 得体(得體): détǐ; appropriate
+    - 得到: dédào; obtain
     """
     client = OpenAIClient(model=model)
     system = """You extract contemporary usage examples for a Chinese vocabulary flashcard.
@@ -273,15 +279,18 @@ Output a JSON object with one key "contemporary_usage" containing an array of st
 
 FORMAT RULES:
 - Each item MUST be a multi-character phrase/compound (no single characters)
-- Format: simplified_phrase (pinyin, "english")
-- If traditional differs from simplified, show FULL PHRASE in both forms: simplified_phrase(traditional_phrase) (pinyin, "english")
-  Example: 又红又专(又紅又專) (pinyin, "meaning") - NOT 又红(紅)又专(專)
-- Maximum 4 items
+- Format: simplified_phrase(traditional_phrase): pinyin; english
+- If traditional differs from simplified, show FULL PHRASE in both forms: simplified_phrase(traditional_phrase)
+  Example: 又红又专(又紅又專): yòu hóng yòu zhuān; red and expert - NOT 又红(紅)又专(專)
+- If traditional equals simplified, just show the phrase once: 得到: dédào; obtain
+- Use a COLON after the Chinese, then pinyin, then SEMICOLON, then English (no quotes)
+- NO trailing period at the end of the English
+- Up to 4 items. Fewer is fine if additional items would be redundant or obscure.
 - If no suitable items found, return empty array []
 - Do NOT censor or filter profanity/vulgarity - include exact translations
 
 Example output:
-{"contemporary_usage": ["得体(得體) (détǐ, \\"appropriate\\")", "得到 (dédào, \\"obtain\\")"]}"""
+{"contemporary_usage": ["得体(得體): détǐ; appropriate", "得到: dédào; obtain"]}"""
 
     user = f"""Headword (simplified): {simplified}
 Headword (traditional): {traditional or simplified}

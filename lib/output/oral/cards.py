@@ -27,15 +27,19 @@ def generate_character_breakdown(
     client = OpenAIClient(model=model)
     
     system = """For each Chinese character, provide its pinyin and multiple English definitions.
-Return JSON: {"characters": [{"char": "X", "trad": "X", "pinyin": "pīnyīn", "english": "def1; def2; def3; def4"}, ...]}
+Return JSON: {"characters": [{"char": "X", "trad": "X", "pinyin": "pīnyīn", "english": "def1; def2"}, ...]}
 
 Rules:
 1. One entry per character, in order
 2. Pinyin must use tone marks (not numbers)
-3. English definitions: provide the 4 most common meanings, separated by semicolons
-   - Each definition should be 1-3 words
-   - Order from most to least common
-   - Example: "mountain; hill; peak; mound"
+3. English definitions: UP TO 4 of the most common DISTINCT meanings
+   - Use SEMICOLON (;) to separate distinct/different meanings
+   - Use COMMA (,) only for synonyms or elaboration of the SAME meaning
+   - Example: "I, me; my" — "I, me" are synonyms (same meaning), "my" is distinct
+   - Example: "mountain, hill; peak" — "mountain, hill" are similar, "peak" is distinct
+   - Avoid redundancy: don't list synonyms as separate meanings
+   - Fewer definitions is better if additional would be redundant
+   - NO trailing period
 4. If traditional differs from simplified, include it in "trad", otherwise repeat the simplified
 5. Do NOT censor or filter profanity/vulgarity - include exact definitions
 """
@@ -68,12 +72,12 @@ def generate_example_sentences(
     english: str,
     input_examples: Optional[str] = None,
     model: Optional[str] = None,
-) -> List[str]:
+) -> List[Tuple[str, str, str]]:
     """Generate example sentences for a vocabulary word using OpenAI.
     
     Generates one example per meaning/definition.
     If input_examples is provided (from raw input), uses them as context.
-    Returns a list of sentences in format: simplified(traditional) (pinyin, "English")
+    Returns a list of tuples: (chinese, pinyin, english)
     """
     client = OpenAIClient(model=model)
     
@@ -93,17 +97,29 @@ STRUCTURE (in this exact order):
 2. THEN: If input examples are provided, format ALL OF THEM and add after the ideal examples
    - Do NOT skip any input examples
 
-FORMAT for each example:
-simplified句子(traditional句子) (pīnyīn, "English translation")
+FORMAT for each example - return a JSON object with three fields:
+{"chinese": "...", "pinyin": "pīnyīn", "english": "English translation."}
 
-- If the sentence has traditional characters that differ from simplified, show the ENTIRE traditional sentence in parentheses
-- Example: 我说话(我說話) (wǒ shuōhuà, "I speak")
-- If no traditional differs, just show: 我吃饭 (wǒ chīfàn, "I eat")
+CLAUSE-BY-CLAUSE TRADITIONAL FORMAT:
+- Split the sentence by clause punctuation (，、；,;)
+- For EVERY clause, show the traditional form in parentheses after the simplified
+- Even if traditional is identical to simplified, still include the parenthetical
+- Ending punctuation (。?！) goes at the very end
+
+Examples:
+- 我们坐着工作(我們坐著工作)，效率反而更高(效率反而更高)。
+  (Both clauses have parentheticals, even though second is same)
+- 你好吗(你好嗎)？
+  (Single clause)
+- 我吃饭(我吃飯)。
+  (Single clause with traditional shown)
+- 我说话(我說話)，他听(他聽)。
+  (Both clauses with traditional)
 
 Example for word 看到 with meanings "see (that); note":
 {"examples": [
-  "我看到他走了 (wǒ kàn dào tā zǒu le, \\"I saw him leave\\")",
-  "请看到这个问题的重要性(請看到這個問題的重要性) (qǐng kàn dào zhège wèntí de zhòngyàoxìng, \\"Please note the importance of this issue\\")"
+  {"chinese": "我看到他走了。", "pinyin": "wǒ kàn dào tā zǒu le", "english": "I saw him leave."},
+  {"chinese": "请(請)看到这(這)个(個)问题(問題)的重要性。", "pinyin": "qǐng kàn dào zhège wèntí de zhòngyàoxìng", "english": "Please note the importance of this issue."}
 ]}
 
 The first example demonstrates "see", the second demonstrates "note" - each meaning gets its own example.
@@ -124,9 +140,28 @@ IMPORTANT: Do NOT censor or filter profanity/vulgarity - include exact translati
     try:
         data = client.complete_json(system, user)
         examples = data.get("examples", [])
+        result: List[Tuple[str, str, str]] = []
         if isinstance(examples, list):
-            return [ex for ex in examples if isinstance(ex, str) and ex.strip()]
-        return []
+            for ex in examples:
+                if isinstance(ex, dict):
+                    # New format: {"chinese": "...", "pinyin": "...", "english": "..."}
+                    ch = str(ex.get("chinese", "")).strip()
+                    pin = str(ex.get("pinyin", "")).strip()
+                    eng = str(ex.get("english", "")).strip()
+                    if ch:
+                        result.append((ch, pin, eng))
+                elif isinstance(ex, str) and ex.strip():
+                    # Legacy format: "chinese: pinyin; english"
+                    if ": " in ex:
+                        parts = ex.split(": ", 1)
+                        ch = parts[0]
+                        rest = parts[1] if len(parts) > 1 else ""
+                        if "; " in rest:
+                            pin, eng = rest.split("; ", 1)
+                        else:
+                            pin, eng = rest, ""
+                        result.append((ch, pin, eng))
+        return result
     except Exception:
         return []
 
@@ -140,7 +175,7 @@ def write_oral_card_md(
     english: str,
     relation: str,
     parent_chinese: str = "",
-    examples: Optional[List[str]] = None,
+    examples: Optional[List[Tuple[str, str, str]]] = None,
     characters: Optional[List[Tuple[str, str, str, str]]] = None,
     verbose: bool = False,
 ) -> Path:
@@ -203,19 +238,46 @@ def write_oral_card_md(
         # Single pronunciation or mismatched counts: use simple format
         parts.append(f"- **definition:** {english}")
     
-    # Character breakdown for multi-character words
+    # Character breakdown for multi-character words (hierarchical format)
     if characters and len(characters) > 1:
         parts.append("- **characters:**")
         for ch_simp, ch_trad, ch_pin, ch_eng in characters:
+            # Chinese characters as title
             if ch_trad and ch_trad != ch_simp:
-                parts.append(f"  - {ch_simp}({ch_trad}): {ch_pin}, {ch_eng}")
+                parts.append(f"  - {ch_simp}({ch_trad})")
             else:
-                parts.append(f"  - {ch_simp}: {ch_pin}, {ch_eng}")
+                parts.append(f"  - {ch_simp}")
+            # Pinyin indented
+            parts.append(f"    - {ch_pin}")
+            # English meanings indented
+            parts.append(f"    - {ch_eng}")
     
     if examples:
         parts.append("- **examples:**")
         for ex in examples:
-            parts.append(f"  - {ex}")
+            # Examples are tuples: (chinese, pinyin, english)
+            if isinstance(ex, tuple) and len(ex) >= 3:
+                chinese_part, pinyin_part, english_part = ex[0], ex[1], ex[2]
+                parts.append(f"  - {chinese_part}")
+                if pinyin_part:
+                    parts.append(f"    - {pinyin_part}")
+                if english_part:
+                    parts.append(f"    - {english_part}")
+            elif isinstance(ex, str):
+                # Legacy format fallback: "Chinese: pinyin; english"
+                if ": " in ex:
+                    ch, rest = ex.split(": ", 1)
+                    if "; " in rest:
+                        pin, eng = rest.split("; ", 1)
+                    else:
+                        pin, eng = rest, ""
+                    parts.append(f"  - {ch}")
+                    if pin:
+                        parts.append(f"    - {pin}")
+                    if eng:
+                        parts.append(f"    - {eng}")
+                else:
+                    parts.append(f"  - {ex}")
     
     parts.append(CARD_DIVIDER)
     

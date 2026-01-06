@@ -1,6 +1,6 @@
 ## kakistocracy
 ---
-- **definition:**
+- **definition:** kakistocracy
   - government run by the worst, least qualified, or most unscrupulous people
   - a state or situation where such people hold power; a scathing label for misrule
 - **origin:**
@@ -14,7 +14,7 @@
 
 ## ephemeral
 ---
-- **definition:**
+- **definition:** ephemeral
   - lasting a very short time; fleeting or short-lived
   - intended to be temporary or quickly disappearing, like online posts or trends
 - **origin:**
@@ -28,7 +28,7 @@
 
 ## serendipity
 ---
-- **definition:**
+- **definition:** serendipity
   - the chance finding of something good or useful when you weren’t looking for it
   - a knack for making happy discoveries by accident
 - **origin:**
@@ -42,7 +42,7 @@
 
 ## Bánh cuốn / Bánh ướt
 ---
-- **definition:**
+- **definition:** Bánh cuốn / Bánh ướt
   - vietnamese rice-noodle dishes made from thin, steamed rice batter sheets
   - bánh cuốn: the sheet is rolled around savory fillings; bánh ướt: the sheet is left unrolled and served with toppings
 - **origin:**
