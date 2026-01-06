@@ -15,7 +15,7 @@ from typing import Dict, List, Optional, Tuple
 from lib.common.logging import set_thread_log_context, DEFAULT_PARALLEL_WORKERS
 from lib.common.manifest import is_word_complete, mark_word_complete, init_output_manifest
 from lib.common.utils import is_cjk_char
-from lib.output.oral.cards import write_oral_card_md, generate_example_sentences, generate_character_breakdown
+from lib.output.oral.cards import write_oral_card_md, generate_example_sentences, generate_character_breakdown, generate_etymology_explanation
 from lib.output.cards import read_parsed_input
 
 
@@ -93,6 +93,11 @@ def process_oral_row(
         if verbose and characters:
             print(f"[oral] [api] Got {len(characters)} character breakdown(s) for {headword}")
     
+    # Generate etymology explanation (for all words)
+    etymology = generate_etymology_explanation(simp, trad, eng, characters=characters, model=model)
+    if verbose and etymology:
+        print(f"[oral] [api] Got etymology for {headword}")
+    
     # Write card
     write_oral_card_md(
         out_dir,
@@ -105,6 +110,7 @@ def process_oral_row(
         parent_chinese=parent_chinese,
         examples=examples,
         characters=characters,
+        etymology=etymology,
         verbose=verbose,
     )
     

@@ -9,6 +9,87 @@ from lib.common.openai import OpenAIClient
 from lib.common.utils import is_cjk_char
 
 
+def generate_etymology_explanation(
+    simplified: str,
+    traditional: str,
+    english: str,
+    characters: Optional[List[Tuple[str, str, str, str]]] = None,
+    model: Optional[str] = None,
+) -> str:
+    """Generate an etymology explanation for why the character combination means the word.
+    
+    For single characters: explains the character's formation (pictographic, semantic, etc.)
+    For multi-character words: explains how the components combine to create meaning.
+    
+    Returns a brief explanation string.
+    """
+    client = OpenAIClient(model=model)
+    
+    # Build context about the characters if available
+    char_context = ""
+    if characters:
+        parts = []
+        for ch_simp, ch_trad, ch_pin, ch_eng in characters:
+            if ch_trad and ch_trad != ch_simp:
+                parts.append(f"{ch_simp}({ch_trad}) [{ch_pin}]: {ch_eng}")
+            else:
+                parts.append(f"{ch_simp} [{ch_pin}]: {ch_eng}")
+        char_context = "\n".join(parts)
+    
+    cjk_chars = [ch for ch in simplified if is_cjk_char(ch)]
+    is_single = len(cjk_chars) == 1
+    
+    if is_single:
+        system = """You are an expert in Chinese character etymology.
+For this single character, provide a BRIEF (1-2 sentence) explanation of why it looks/is formed the way it is.
+Focus on:
+- Pictographic origin (what it depicts)
+- Semantic components (what radicals/parts mean)
+- How the visual form relates to meaning
+
+Return JSON: {"etymology": "Brief explanation..."}
+
+Rules:
+- Be concise - max 2 sentences
+- Focus on memorable visual/semantic connections
+- Do NOT include the character itself in the explanation
+- Do NOT start with "The character..." - just explain directly"""
+        user = f"Character: {simplified}"
+        if traditional and traditional != simplified:
+            user += f" (traditional: {traditional})"
+        user += f"\nMeaning: {english}"
+    else:
+        system = """You are an expert in Chinese word etymology.
+For this multi-character word, provide a BRIEF (1-2 sentence) explanation of how the component characters combine to create the word's meaning.
+Focus on:
+- How each character contributes to the overall meaning
+- The semantic logic of the combination
+- Any interesting metaphorical connections
+
+Return JSON: {"etymology": "Brief explanation..."}
+
+Rules:
+- Be concise - max 2 sentences
+- Explain the semantic connection between characters
+- Do NOT list each character separately - synthesize the meaning
+- Do NOT start with "The word..." - just explain directly"""
+        user = f"Word: {simplified}"
+        if traditional and traditional != simplified:
+            user += f" (traditional: {traditional})"
+        user += f"\nMeaning: {english}"
+        if char_context:
+            user += f"\n\nComponent characters:\n{char_context}"
+    
+    try:
+        data = client.complete_json(system, user)
+        etymology = data.get("etymology", "")
+        if isinstance(etymology, str):
+            return etymology.strip()
+    except Exception:
+        pass
+    return ""
+
+
 def generate_character_breakdown(
     simplified: str,
     traditional: str,
@@ -177,6 +258,7 @@ def write_oral_card_md(
     parent_chinese: str = "",
     examples: Optional[List[Tuple[str, str, str]]] = None,
     characters: Optional[List[Tuple[str, str, str, str]]] = None,
+    etymology: str = "",
     verbose: bool = False,
 ) -> Path:
     """Write an oral practice card with Chinese on front, pinyin+English on back.
@@ -192,6 +274,8 @@ def write_oral_card_md(
     - --- separator
     - **pinyin:** this word's pinyin
     - **definition:** English
+    - **characters:** (for multi-char words)
+    - **etymology:** (explanation of character combination)
     - **examples:**
       - example1
       - example2
@@ -251,6 +335,10 @@ def write_oral_card_md(
             parts.append(f"    - {ch_pin}")
             # English meanings indented
             parts.append(f"    - {ch_eng}")
+    
+    # Etymology explanation (for both single and multi-character words)
+    if etymology and etymology.strip():
+        parts.append(f"- **etymology:** {etymology.strip()}")
     
     if examples:
         parts.append("- **examples:**")
