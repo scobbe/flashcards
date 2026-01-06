@@ -19,7 +19,7 @@ class OpenAIClient:
             raise RuntimeError("OPENAI_API_KEY is not set in environment")
         if OpenAI is None:
             raise RuntimeError("openai package is not available")
-        self.client = OpenAI(api_key=api_key)
+        self.client = OpenAI(api_key=api_key, timeout=60.0)
 
     @retry(reraise=True, stop=stop_after_attempt(4), wait=wait_exponential(multiplier=1, min=1, max=8))
     def complete_json(self, system: str, user: str, schema_hint: Optional[str] = None) -> Any:
