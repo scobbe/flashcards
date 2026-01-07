@@ -1,0 +1,44 @@
+{
+  "simplified": "中药",
+  "traditional": "中藥",
+  "pinyin": "zhōng yào",
+  "english": "traditional Chinese medicine",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "中 (middle/China) + 药 (medicine) = traditional Chinese medicine",
+    "interpretation": "中药 refers to the traditional medical practice originating from China, which utilizes herbal remedies, acupuncture, and other natural therapies.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; among; China"
+    },
+    {
+      "char": "药",
+      "trad": "藥",
+      "pinyin": "yào",
+      "english": "medicine; drug; remedy"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "中药是许多人选择的自然疗法。",
+      "pinyin": "Zhōngyào shì xǔduō rén xuǎnzé de zìrán liáofǎ.",
+      "english": "Traditional Chinese medicine is a natural therapy chosen by many people."
+    },
+    {
+      "chinese": "他对中药的功效很有信心。",
+      "pinyin": "Tā duì zhōngyào de gōngxiào hěn yǒu xìnxīn.",
+      "english": "He is very confident in the efficacy of traditional Chinese medicine."
+    },
+    {
+      "chinese": "我正在学习如何使用中药来治疗常见疾病。",
+      "pinyin": "Wǒ zhèngzài xuéxí rúhé shǐyòng zhōngyào lái zhìliáo chángjiàn jíbìng.",
+      "english": "I am learning how to use traditional Chinese medicine to treat common illnesses."
+    }
+  ]
+}

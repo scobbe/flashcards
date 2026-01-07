@@ -1,0 +1,33 @@
+{
+  "simplified": "孙子",
+  "traditional": "孫子",
+  "pinyin": "Sūnzǐ",
+  "english": "Sun Tzu",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "compound word",
+    "description": "孙 (descendant; grandchild) + 子 (master; son) = Sun Tzu (a historical figure)",
+    "interpretation": "孙子 refers to Sun Tzu, the esteemed ancient Chinese general, military strategist, and author of 'The Art of War.' His philosophies on strategy and leadership have made his name synonymous with tactical wisdom.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孙子",
+      "trad": "孫子",
+      "pinyin": "Sūnzǐ",
+      "english": "Sun Tzu; grandson"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "孙子 (孫子) 的《孙子兵法》影响深远。",
+      "pinyin": "Sūnzǐ de 'Sūnzǐ Bīngfǎ' yǐngxiǎng shēnyuǎn.",
+      "english": "Sun Tzu's 'The Art of War' has a profound influence."
+    },
+    {
+      "chinese": "孙子 (孫子) 策略被世界各地的军事家学习。",
+      "pinyin": "Sūnzǐ cèlüè bèi shìjiè gèdì de jūnshì jiā xuéxí.",
+      "english": "Sun Tzu's strategies are studied by military experts around the world."
+    }
+  ]
+}

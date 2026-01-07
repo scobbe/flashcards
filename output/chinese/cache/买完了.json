@@ -1,0 +1,50 @@
+{
+  "simplified": "买完了",
+  "traditional": "買完瞭",
+  "pinyin": "mǎi wán le",
+  "english": "finished buying",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "买 + 完 + 了 = finished buying",
+    "interpretation": "This phrase indicates that the action of buying has been completed. '买' means to buy, '完' refers to completion, and '了' is an aspect particle denoting a change of state.",
+    "simplification": "Simplified characters for 买 and 了 were developed to reduce the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "买",
+      "trad": "買",
+      "pinyin": "mǎi",
+      "english": "to buy; purchase"
+    },
+    {
+      "char": "完",
+      "trad": "完",
+      "pinyin": "wán",
+      "english": "complete; finish"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating change of state; completed action"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们已经买完了所有需要的东西。",
+      "pinyin": "Wǒmen yǐjīng mǎiwánle suǒyǒu xūyào de dōngxi.",
+      "english": "We have already finished buying all the things we need."
+    },
+    {
+      "chinese": "她买完了相机就走了。",
+      "pinyin": "Tā mǎiwánle xiàngjī jiù zǒule.",
+      "english": "She left after finishing buying the camera."
+    },
+    {
+      "chinese": "买完了票后，我们去吃饭吧。",
+      "pinyin": "Mǎiwánle piào hòu, wǒmen qù chīfàn ba.",
+      "english": "After finishing buying the tickets, let's go eat."
+    }
+  ]
+}

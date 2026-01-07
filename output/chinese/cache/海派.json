@@ -1,0 +1,33 @@
+{
+  "simplified": "海派",
+  "traditional": "海派",
+  "pinyin": "hǎi pài",
+  "english": "Shanghai style",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "海 (sea/ocean) + 派 (style/school) = Shanghai style",
+    "interpretation": "海派 refers to the unique cultural style or aesthetic associated with Shanghai. It embodies the city's cosmopolitan, open, and blended cultural elements, often seen in fashion, art, and lifestyle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "海派",
+      "trad": "海派",
+      "pinyin": "hǎi pài",
+      "english": "Shanghai style; cosmopolitan style; stylish; fashionable"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他喜欢海派的生活方式。",
+      "pinyin": "Tā xǐhuān hǎipài de shēnghuó fāngshì.",
+      "english": "He likes a Shanghai-style way of life."
+    },
+    {
+      "chinese": "海派文化融合了东西方的元素。",
+      "pinyin": "Hǎipài wénhuà rónghéle dōng xīfāng de yuánsù.",
+      "english": "Shanghai style culture blends elements from the East and the West."
+    }
+  ]
+}

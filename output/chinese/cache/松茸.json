@@ -1,0 +1,44 @@
+{
+  "simplified": "松茸",
+  "traditional": "鬆茸",
+  "pinyin": "sōng róng",
+  "english": "matsutake mushroom",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "松 + 茸 = matsutake mushroom",
+    "interpretation": "松茸 refers to the matsutake mushroom, a highly prized and aromatic mushroom that often grows near pine trees, linking its name to the idea of 'pine' (松).",
+    "simplification": "The simplification replaced '鬆' with '松', streamlining the character for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "松",
+      "trad": "鬆",
+      "pinyin": "sōng",
+      "english": "pine; loose; relaxed; fluffy"
+    },
+    {
+      "char": "茸",
+      "trad": "茸",
+      "pinyin": "róng",
+      "english": "velvety; down; mushroom"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "松茸是一种名贵的食用菌。",
+      "pinyin": "sōng róng shì yī zhǒng míng guì de shí yòng jūn.",
+      "english": "Matsutake is a type of precious edible mushroom."
+    },
+    {
+      "chinese": "秋天是采摘松茸的季节。",
+      "pinyin": "qiū tiān shì cǎi zhāi sōng róng de jì jié.",
+      "english": "Autumn is the season for harvesting matsutake mushrooms."
+    },
+    {
+      "chinese": "松茸的香味特别浓郁。",
+      "pinyin": "sōng róng de xiāng wèi tè bié nóng yù.",
+      "english": "The aroma of matsutake mushrooms is particularly strong."
+    }
+  ]
+}

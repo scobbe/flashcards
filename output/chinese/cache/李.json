@@ -1,0 +1,44 @@
+{
+  "simplified": "李",
+  "traditional": "李",
+  "pinyin": "Lǐ",
+  "english": "surname; plum",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 來 (wheat) + semantic 子. The phonetic part 來 became gradually corrupted to yield 木 (tree).",
+    "interpretation": "The character 李 originally included a phonetic component, 來, which gradually evolved into 木 while 子 was the semantic part. This reflects its dual meaning: it's associated with trees, specifically the plum tree, and used as a surname.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "李先生是我的老师(老師)。",
+      "pinyin": "Lǐ xiānsheng shì wǒ de lǎoshī.",
+      "english": "Mr. Li is my teacher."
+    },
+    {
+      "chinese": "我家附近有很多李树(樹)。",
+      "pinyin": "Wǒ jiā fùjìn yǒu hěn duō lǐ shù.",
+      "english": "There are many plum trees near my house."
+    },
+    {
+      "chinese": "李小龙(龍)是著名的武术(術)家。",
+      "pinyin": "Lǐ Xiǎolóng shì zhùmíng de wǔshù jiā.",
+      "english": "Bruce Lee is a famous martial artist."
+    }
+  ]
+}

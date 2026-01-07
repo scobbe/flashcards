@@ -1,0 +1,39 @@
+{
+  "simplified": "奏",
+  "traditional": "奏",
+  "pinyin": "zòu",
+  "english": "to play (music)",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "Ideogrammic compound (会意): two hands (廾) holding an object, possibly a musical instrument used in a sacrificial ritual.",
+    "interpretation": "In this character, the two hands represent an action of holding or manipulating an object, likely a musical instrument, emphasizing its association with music and playing. The ideogram captures the physical act of using an instrument during significant rituals, highlighting the cultural importance of music in historical ceremonies.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "夲",
+      "trad": "夲",
+      "pinyin": "tǎo",
+      "english": "originally a part of a tree depiction"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他开始练习奏钢琴。",
+      "pinyin": "Tā kāishǐ liànxí zòu gāngqín.",
+      "english": "He began practicing playing the piano."
+    },
+    {
+      "chinese": "乐团在音乐会上演奏经典乐曲。",
+      "pinyin": "Yuètuán zài yīnyuèhuì shàng yǎnzòu jīngdiǎn yuèqǔ.",
+      "english": "The orchestra performed classic pieces at the concert."
+    }
+  ]
+}

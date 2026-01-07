@@ -1,0 +1,50 @@
+{
+  "simplified": "有位子吗",
+  "traditional": "有位子嗎",
+  "pinyin": "yǒu wèi zi ma",
+  "english": "Is there a seat available?",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "有 + 位子 + 吗 = Is there a seat available?",
+    "interpretation": "This phrase is used to inquire if there is an available seat in a location, such as a restaurant or theater. It combines elements to form a common question format in Chinese.",
+    "simplification": "traditional '嗎' to simplified '吗'; changes in character structure."
+  },
+  "parts": [
+    {
+      "char": "有",
+      "trad": "有",
+      "pinyin": "yǒu",
+      "english": "to have; there is"
+    },
+    {
+      "char": "位子",
+      "trad": "位子",
+      "pinyin": "wèi zi",
+      "english": "seat; place; position"
+    },
+    {
+      "char": "吗",
+      "trad": "嗎",
+      "pinyin": "ma",
+      "english": "(particle) question particle; interrogative"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "走进餐厅时，你可以问服务员：有位子吗？(走進餐廳時，你可以問服務員：有位子嗎？)",
+      "pinyin": "Zǒujìn cāntīng shí, nǐ kěyǐ wèn fúwùyuán: Yǒu wèizi ma?",
+      "english": "When you walk into the restaurant, you can ask the waiter: Is there a seat available?"
+    },
+    {
+      "chinese": "上车前，先问司机：这里有位子吗？(上車前，先問司機：這裡有位子嗎？)",
+      "pinyin": "Shàng chē qián, xiān wèn sījī: Zhèlǐ yǒu wèizi ma?",
+      "english": "Before getting on the bus, first ask the driver: Is there a seat available here?"
+    },
+    {
+      "chinese": "电影放映时，他问旁边的人：有位子吗？(電影放映時，他問旁邊的人：有位子嗎？)",
+      "pinyin": "Diànyǐng fàngyìng shí, tā wèn pángbiān de rén: Yǒu wèizi ma?",
+      "english": "During the movie screening, he asked the person next to him: Is there a seat available?"
+    }
+  ]
+}

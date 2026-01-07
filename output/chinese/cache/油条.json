@@ -1,0 +1,44 @@
+{
+  "simplified": "油条",
+  "traditional": "油條",
+  "pinyin": "yóu tiáo",
+  "english": "fried dough stick",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "油 (oil) + 条 (strip) = fried dough stick",
+    "interpretation": "油条 refers to a popular Chinese breakfast item made by deep-frying strips of dough. The combination of 'oil' and 'strip' succinctly describes its method of preparation and appearance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "油",
+      "trad": "油",
+      "pinyin": "yóu",
+      "english": "oil; greasy; petroleum"
+    },
+    {
+      "char": "条",
+      "trad": "條",
+      "pinyin": "tiáo",
+      "english": "strip; item; article"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "早餐常常配有油条和豆浆。",
+      "pinyin": "Zǎocān chángcháng pèiyǒu yóutiáo hé dòujiāng.",
+      "english": "Breakfast often comes with fried dough sticks and soy milk."
+    },
+    {
+      "chinese": "在中国，油条是受欢迎的传统早餐食品。",
+      "pinyin": "Zài Zhōngguó, yóutiáo shì shòu huānyíng de chuántǒng zǎocān shípǐn.",
+      "english": "In China, fried dough sticks are a popular traditional breakfast food."
+    },
+    {
+      "chinese": "你要几个油条？(你要幾個油條？)",
+      "pinyin": "Nǐ yào jǐ gè yóutiáo?",
+      "english": "How many fried dough sticks do you want?"
+    }
+  ]
+}

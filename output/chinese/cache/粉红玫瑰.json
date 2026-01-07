@@ -1,0 +1,44 @@
+{
+  "simplified": "粉红玫瑰",
+  "traditional": "粉紅玫瑰",
+  "pinyin": "fěn hóng méi guī",
+  "english": "pink rose",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "粉红 (pink) + 玫瑰 (rose) = pink rose",
+    "interpretation": "This word combines the color pink with roses, indicating a type of rose that has a pink hue. It's a straightforward descriptive term used to classify roses by their color.",
+    "simplification": "红→紅; usage of '红' is simpler and more streamlined in writing compared to '紅'."
+  },
+  "parts": [
+    {
+      "char": "粉红",
+      "trad": "粉紅",
+      "pinyin": "fěn hóng",
+      "english": "pink"
+    },
+    {
+      "char": "玫瑰",
+      "trad": "玫瑰",
+      "pinyin": "méi guī",
+      "english": "rose"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她送给了我一束粉红玫瑰。",
+      "pinyin": "Tā sòng gěi le wǒ yī shù fěnhóng méiguī.",
+      "english": "She gave me a bouquet of pink roses."
+    },
+    {
+      "chinese": "粉红玫瑰象征着爱情和温柔。",
+      "pinyin": "Fěnhóng méiguī xiàngzhēng zhe àiqíng hé wēnróu.",
+      "english": "Pink roses symbolize love and gentleness."
+    },
+    {
+      "chinese": "他们的婚礼上布满了粉红玫瑰。",
+      "pinyin": "Tāmen de hūnlǐ shàng bùmǎn le fěnhóng méiguī.",
+      "english": "Their wedding was decorated with pink roses."
+    }
+  ]
+}

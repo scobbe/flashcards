@@ -1,0 +1,44 @@
+{
+  "simplified": "宗",
+  "traditional": "宗",
+  "pinyin": "zōng",
+  "english": "ancestor, clan",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "会意: 宀 ('house') + 示 ('spirit tablet')",
+    "interpretation": "This character represents the concept of a familial temple or an ancestral shrine, combining the imagery of a house (宀) and a spirit tablet (示). It conveys the idea of a place where ancestors are honored and family heritage is preserved.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof, house"
+    },
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "sign, spirit tablet"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个家族有自己的宗庙(宗廟)。",
+      "pinyin": "Zhège jiāzú yǒu zìjǐ de zōngmiào.",
+      "english": "This clan has its own ancestral shrine."
+    },
+    {
+      "chinese": "宗教在社会中扮演重要角色。",
+      "pinyin": "Zōngjiào zài shèhuì zhōng bànyǎn zhòngyào juésè.",
+      "english": "Religion plays an important role in society."
+    },
+    {
+      "chinese": "人们在宗庙(宗廟)中祭拜祖先。",
+      "pinyin": "Rénmen zài zōngmiào zhōng jìbài zǔxiān.",
+      "english": "People worship their ancestors in the ancestral shrine."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "兰",
+  "traditional": "蘭",
+  "pinyin": "lán",
+  "english": "orchid",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 (plant) + phonetic: 闌",
+    "interpretation": "This character is a phono-semantic compound where the 艹 (cǎo, grass) indicates that it is related to plants, specifically flowers. The phonetic component 闌 (lán, stop) suggests the pronunciation of the character, which aligns with words related to beauty and refinement, like orchids. The visual form of 兰 reflects a streamlined version suitable for modern usage while maintaining its botanical essence.",
+    "simplification": "兰 was simplified from 蘭 by removing the 门 (mén, gate) component of the phonetic part 闌, likely due to the principle of simplification through component reduction. This simplification aligns with making characters easier to write while retaining phonetic elements from traditional to simplified forms."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "干",
+      "trad": "幹",
+      "pinyin": "gàn",
+      "english": "dry"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她喜欢兰花，她的花园里种满了各种品种。",
+      "pinyin": "Tā xǐhuan lánhuā, tā de huāyuán lǐ zhòng mǎn le gèzhǒng pǐnzhǒng.",
+      "english": "She likes orchids, and her garden is filled with various species of them."
+    },
+    {
+      "chinese": "兰州是中国甘肃省的省会。",
+      "pinyin": "Lánzhōu shì Zhōngguó Gānsù shěng de shěnghuì.",
+      "english": "Lanzhou is the capital of Gansu Province in China."
+    },
+    {
+      "chinese": "古诗中常以兰象征高洁。",
+      "pinyin": "Gǔshī zhōng cháng yǐ lán xiàngzhēng gāojié.",
+      "english": "In ancient poetry, orchids often symbolize purity."
+    }
+  ]
+}

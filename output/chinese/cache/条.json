@@ -1,0 +1,44 @@
+{
+  "simplified": "条",
+  "traditional": "條",
+  "pinyin": "tiáo",
+  "english": "strip; item; article",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 + phonetic: 攸",
+    "interpretation": "The character 條 combines the semantic element 木, suggesting something related to wood, with the phonetic element 攸, guiding pronunciation. Initially rooted in the idea of a small branch or wooden stick, it evokes imagery of elongated, narrow objects, leading to its modern usage describing strips or items.",
+    "simplification": "The character 条 was simplified by omitting the 木 radical, which reduced the number of strokes and made it easier to write."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "攸",
+      "trad": "攸",
+      "pinyin": "yōu",
+      "english": "(phonetic component)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他列出了几条建议(他列出了幾條建議)。",
+      "pinyin": "Tā lièchūle jǐ tiáo jiànyì.",
+      "english": "He listed several suggestions."
+    },
+    {
+      "chinese": "这条狗很可爱(這條狗很可愛)。",
+      "pinyin": "Zhè tiáo gǒu hěn kě'ài.",
+      "english": "This dog is very cute."
+    },
+    {
+      "chinese": "需要遵守所有规定条款(需要遵守所有規定條款)。",
+      "pinyin": "Xūyào zūnshǒu suǒyǒu guīdìng tiáokuǎn.",
+      "english": "All regulatory clauses need to be followed."
+    }
+  ]
+}

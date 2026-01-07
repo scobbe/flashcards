@@ -1,0 +1,39 @@
+{
+  "simplified": "夲",
+  "traditional": "夲",
+  "pinyin": "tǎo",
+  "english": "originally a part of a tree depiction",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 大 ('big') + semantic: 十 ('ten')",
+    "interpretation": "夲 (tǎo) combines 大 (dà, big) with 十 (shí, ten) to represent an early depiction tied to large or numerous entities, possibly symbolizing abundance or completeness through multiplication. Despite its historical character formation, it is not commonly used in modern language, likely due to its overlap with other characters or words conveying similar meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夲州是一个古老的名字。",
+      "pinyin": "Tǎo zhōu shì yī gè gǔlǎo de míngzì.",
+      "english": "The name Tǎo Zhōu (夲州) is an ancient name."
+    },
+    {
+      "chinese": "在古代书籍中可以找到夲。",
+      "pinyin": "Zài gǔdài shūjí zhōng kěyǐ zhǎodào tǎo.",
+      "english": "夲 can be found in ancient texts."
+    }
+  ]
+}

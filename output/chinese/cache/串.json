@@ -1,0 +1,44 @@
+{
+  "simplified": "串",
+  "traditional": "串",
+  "pinyin": "chuàn",
+  "english": "skewer; string together; bunch; to spell",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "pictogram",
+    "description": "objects strung together",
+    "interpretation": "The character 串 visualizes objects threaded or strung together, resembling a series of items connected linearly. This imagery relates closely to the meanings of skewer, stringing, or clustering items in a row.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她在市场上买了一串葡萄。",
+      "pinyin": "Tā zài shìchǎng shàng mǎi le yī chuàn pútao.",
+      "english": "She bought a bunch of grapes at the market."
+    },
+    {
+      "chinese": "我喜欢吃串烧。",
+      "pinyin": "Wǒ xǐhuān chī chuàn shāo.",
+      "english": "I like eating skewers."
+    },
+    {
+      "chinese": "孩子们用彩色的珠子串一串项链。",
+      "pinyin": "Háizimen yòng cǎisè de zhūzi chuàn yī chuàn xiàngliàn.",
+      "english": "The children used colorful beads to string together a necklace."
+    }
+  ]
+}

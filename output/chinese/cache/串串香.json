@@ -1,0 +1,44 @@
+{
+  "simplified": "串串香",
+  "traditional": "串串香",
+  "pinyin": "chuàn chuàn xiāng",
+  "english": "skewered hot pot",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "串 + 串 + 香 = skewered hot pot",
+    "interpretation": "串串香 is a popular type of street food that involves skewered meats and vegetables cooked in a flavorful broth or sauce. The repetition of the character '串' emphasizes the skewering element, while '香' refers to the aromatic and delicious nature of the dish.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "串",
+      "trad": "串",
+      "pinyin": "chuàn",
+      "english": "skewer; string together; bunch; to spell"
+    },
+    {
+      "char": "香",
+      "trad": "香",
+      "pinyin": "xiāng",
+      "english": "fragrant; aromatic; incense; delicious"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "串串香是一种受欢迎的街头小吃。",
+      "pinyin": "Chuànchuànxiāng shì yī zhǒng shòuhuānyíng de jiētóu xiǎochī.",
+      "english": "Skewered hot pot is a popular type of street snack."
+    },
+    {
+      "chinese": "我们去成都时，一定要尝尝正宗的串串香。",
+      "pinyin": "Wǒmen qù Chéngdū shí, yīdìng yào chángcháng zhèngzōng de chuànchuànxiāng.",
+      "english": "When we go to Chengdu, we must try the authentic skewered hot pot."
+    },
+    {
+      "chinese": "串串香的香味令人垂涎。",
+      "pinyin": "Chuànchuànxiāng de xiāngwèi lìngrén chuíxián.",
+      "english": "The aroma of skewered hot pot is mouth-watering."
+    }
+  ]
+}

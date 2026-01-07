@@ -1,0 +1,50 @@
+{
+  "simplified": "单",
+  "traditional": "單",
+  "pinyin": "dān",
+  "english": "list; sheet; form",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "pictogram",
+    "description": "Unorthodox variant of 單, original pictogram of a weapon, Y-shaped with two stones.",
+    "interpretation": "The traditional form 單 originated as a pictogram representing a hunting weapon or tool with weights, useful for throwing or trapping. Over time, the representation was stylized and abstracted, eventually evolving into the simpler forms and additional meanings associated with the character today.",
+    "simplification": "The character was simplified by removing the complex traditional components that were derived from its pictorial origins."
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请把你的名字写在名单上(請把你的名字寫在名單上)。",
+      "pinyin": "Qǐng bǎ nǐ de míngzì xiě zài míngdān shàng.",
+      "english": "Please write your name on the list."
+    },
+    {
+      "chinese": "我需要一张订单表(我需要一張訂單表)。",
+      "pinyin": "Wǒ xūyào yī zhāng dìngdān biǎo.",
+      "english": "I need an order form."
+    },
+    {
+      "chinese": "请填写这份表单(請填寫這份表單)。",
+      "pinyin": "Qǐng tiánxiě zhè fèn biǎodān.",
+      "english": "Please fill out this form."
+    }
+  ]
+}

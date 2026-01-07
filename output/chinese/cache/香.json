@@ -1,0 +1,44 @@
+{
+  "simplified": "香",
+  "traditional": "香",
+  "pinyin": "xiāng",
+  "english": "fragrant; aromatic; incense; delicious",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 黍 + 甘",
+    "interpretation": "The character incorporates the semantic components for 'millet' (黍) and 'sweet' (甘), suggesting a connection to the aroma or taste resulting from fermentation processes. Over time, the form evolved, with the bottom component 甘 resembling 曰 in its current form, but retaining the original concept of fragrance and sweet aroma.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "黍",
+      "trad": "黍",
+      "pinyin": "shǔ",
+      "english": "millet"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她做的饭菜很香。",
+      "pinyin": "Tā zuò de fàncài hěn xiāng.",
+      "english": "The food she cooked is very fragrant."
+    },
+    {
+      "chinese": "这香(這香)味特别好闻。",
+      "pinyin": "Zhè xiāngwèi tèbié hǎowén.",
+      "english": "This smell is particularly pleasant."
+    },
+    {
+      "chinese": "这瓶香水很贵。",
+      "pinyin": "Zhè píng xiāngshuǐ hěn guì.",
+      "english": "This bottle of perfume is very expensive."
+    }
+  ]
+}

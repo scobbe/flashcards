@@ -20,7 +20,7 @@ from lib.schema.base import FRONT_BACK_DIVIDER, CARD_DIVIDER
 from lib.common.openai import OpenAIClient, CHINESE_SINGLE_CHAR_SCHEMA, CHINESE_MULTI_CHAR_SCHEMA
 from lib.common.logging import set_thread_log_context, DEFAULT_PARALLEL_WORKERS
 from lib.common.manifest import is_word_complete, mark_word_complete, mark_word_in_progress, mark_word_error, init_output_manifest, add_subcomponent_error
-from lib.common.utils import is_cjk_char
+from lib.common.utils import is_cjk_char, simplified_to_traditional
 
 # Global cache directory for card data
 CARD_CACHE_DIR = Path(__file__).parent.parent.parent / "output" / "chinese" / "cache"
@@ -374,7 +374,7 @@ def generate_card_content(
         system = """Chinese character etymology expert. Return JSON with these fields:
 - type: Extract formation type directly from Wiktionary (pictogram, ideogram, phono-semantic compound, etc.)
 - description: Extract brief formation info from Wiktionary (e.g. "semantic: X + phonetic: Y")
-- interpretation: Your own 2-3 sentence explanation based on the description. Don't start with "The character..."
+- interpretation: Your own 2-3 sentence explanation based on the description. Don't start with "The character..." When referencing other Chinese characters/words, include (pinyin, short definition), e.g. "related to 凤梨 (fènglí, pineapple)"
 - simplification: Why this was simplified (intuition/reasoning), or "none" if traditional = simplified
 - parts: array of component chars [{char, trad, pinyin, english}], standalone chars only (not radicals like 氵), exclude headword
 - in_contemporary_usage: boolean - true if this character is commonly used in modern Chinese (news, daily conversation, textbooks); false if archaic, literary-only, rare variant, or only appears in names/places
@@ -389,7 +389,7 @@ def generate_card_content(
         system = """Chinese word etymology expert. Return JSON with these fields:
 - type: Usually "compound word"
 - description: Brief word formation (e.g. "X + Y = meaning")
-- interpretation: 1-2 sentences, don't start with "The word..."
+- interpretation: 1-2 sentences, don't start with "The word..." When referencing other Chinese characters/words, include (pinyin, short definition), e.g. "synonym of 凤梨 (fènglí, pineapple)"
 - simplification: Why this word was simplified (intuition), or "none" if traditional = simplified
 - parts: array of MORPHEME breakdown [{char, trad, pinyin, english}]. IMPORTANT: Split into meaningful subwords, NOT individual characters!
   Examples: 燕麦粥 → [燕麦, 粥] not [燕, 麦, 粥]; 电影明星 → [电影, 明星] not [电, 影, 明, 星]; 菠萝包 → [菠萝, 包] not [菠, 萝, 包]
@@ -797,8 +797,21 @@ def write_card_md(
                     parent_word=word,
                     errors=subcomponent_errors,
                 )
-            elif not is_single_char_morpheme and ch_char_breakdown:
+            elif not is_single_char_morpheme:
                 # Multi-character morpheme (like 燕麦): recurse into each character
+                # If no char_breakdown from cache/API, or it only contains the word itself,
+                # generate from individual CJK chars
+                needs_char_breakdown = (
+                    not ch_char_breakdown or
+                    (len(ch_char_breakdown) == 1 and ch_char_breakdown[0][0] == ch_simp)
+                )
+                if needs_char_breakdown:
+                    ch_char_breakdown = []
+                    for char in ch_simp:
+                        if is_cjk_char(char):
+                            char_trad = simplified_to_traditional(char)
+                            ch_char_breakdown.append((char, char_trad, "", ""))
+
                 for sub_simp, sub_trad, sub_pin, sub_eng in ch_char_breakdown:
                     if sub_simp in visited:
                         continue

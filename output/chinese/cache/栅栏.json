@@ -1,0 +1,33 @@
+{
+  "simplified": "栅栏",
+  "traditional": "柵欄",
+  "pinyin": "shí làn",
+  "english": "fence; railing",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "栅 + 栏 = fence; railing",
+    "interpretation": "栅栏 refers to a structure typically used to enclose or separate areas, often made of wood or metal. It functions as a barrier or boundary.",
+    "simplification": "栅 in simplified form is derived from 柵 by removing the '木' radical, and 栏 simplified from 欄 by streamlining its components."
+  },
+  "parts": [
+    {
+      "char": "栅栏",
+      "trad": "柵欄",
+      "pinyin": "zhà lán",
+      "english": "fence; railing"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他们在后院安装了一道新的栅栏(柵欄)。",
+      "pinyin": "Tāmen zài hòuyuàn ānzhuāngle yīdào xīn de zhàlán.",
+      "english": "They installed a new fence in the backyard."
+    },
+    {
+      "chinese": "栅栏(柵欄)外是一大片田野。",
+      "pinyin": "Zhàlán wài shì yī dàpiàn tiányě.",
+      "english": "Outside the fence is a large field."
+    }
+  ]
+}

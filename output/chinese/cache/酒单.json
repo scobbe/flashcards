@@ -1,0 +1,44 @@
+{
+  "simplified": "酒单",
+  "traditional": "酒單",
+  "pinyin": "jiǔ dān",
+  "english": "drinks menu",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "酒 (alcohol) + 单 (list) = drinks menu",
+    "interpretation": "The term combines 'alcohol' and 'list' to specifically refer to a menu that lists available drinks in a restaurant or bar.",
+    "simplification": "The traditional character 單 was simplified to 单 by reducing the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol; liquor; wine"
+    },
+    {
+      "char": "单",
+      "trad": "單",
+      "pinyin": "dān",
+      "english": "list; sheet; form"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请给我看看酒单(請給我看看酒單)。",
+      "pinyin": "Qǐng gěi wǒ kàn kàn jiǔ dān.",
+      "english": "Please show me the drinks menu."
+    },
+    {
+      "chinese": "这家餐厅的酒单很丰富(這家餐廳的酒單很豐富)。",
+      "pinyin": "Zhè jiā cāntīng de jiǔ dān hěn fēngfù.",
+      "english": "The drinks menu at this restaurant is quite extensive."
+    },
+    {
+      "chinese": "他花了很多时间研究酒单(他花了很多時間研究酒單)。",
+      "pinyin": "Tā huāle hěn duō shíjiān yánjiū jiǔ dān.",
+      "english": "He spent a lot of time studying the drinks menu."
+    }
+  ]
+}

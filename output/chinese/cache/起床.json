@@ -1,0 +1,44 @@
+{
+  "simplified": "起床",
+  "traditional": "起床",
+  "pinyin": "qǐ chuáng",
+  "english": "to get out of bed; to wake up",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "起 + 床 = get out of bed",
+    "interpretation": "In context, '起床' refers to the act of rising from bed, often associated with beginning one's day. It combines the action of getting up with the noun for bed.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; commence; get up"
+    },
+    {
+      "char": "床",
+      "trad": "床",
+      "pinyin": "chuáng",
+      "english": "bed"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "每天早上七点我准时起床。",
+      "pinyin": "Měitiān zǎoshang qī diǎn wǒ zhǔnshí qǐchuáng.",
+      "english": "I get out of bed at seven every morning."
+    },
+    {
+      "chinese": "周末我会晚一点起床。",
+      "pinyin": "Zhōumò wǒ huì wǎn yīdiǎn qǐchuáng.",
+      "english": "I usually get up a bit later on weekends."
+    },
+    {
+      "chinese": "他习惯早起床去锻炼(他習慣早起床去鍛鍊)。",
+      "pinyin": "Tā xíguàn zǎo qǐchuáng qù duànliàn.",
+      "english": "He is accustomed to getting up early to exercise."
+    }
+  ]
+}

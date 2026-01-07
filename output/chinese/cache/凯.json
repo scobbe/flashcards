@@ -1,0 +1,39 @@
+{
+  "simplified": "凯",
+  "traditional": "凱",
+  "pinyin": "kǎi",
+  "english": "triumphant;victorious;triumphal song;armor",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 豆 (dòu, bean) + phonetic: 凡 (fán, ordinary)",
+    "interpretation": "凯 (kǎi) represents a concept of triumph or victory, derived from its original association with victory music. The semantic component is 豆 (dòu, bean), which may relate to beans being used in celebratory and ritual contexts, while the phonetic element 凡 (fán), adds the sound value. Over time, the semantic association of 豆 has diminished, emphasizing the victorious connotation.",
+    "simplification": "The character 凯 simplifies 凱 by replacing 豆 with 己 (jǐ), as they have similar structures and 己 is visually simpler."
+  },
+  "parts": [
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "ordinary"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "self"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他在比赛中取得了凯旋(凱旋)。",
+      "pinyin": "Tā zài bǐsài zhōng qǔdéle kǎixuán.",
+      "english": "He achieved a triumph in the competition."
+    },
+    {
+      "chinese": "我们庆祝凯歌(凱歌)高唱的胜利。",
+      "pinyin": "Wǒmen qìngzhù kǎigē gāochàng de shènglì.",
+      "english": "We celebrate the resounding victory."
+    }
+  ]
+}

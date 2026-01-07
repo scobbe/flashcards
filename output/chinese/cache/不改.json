@@ -1,0 +1,25 @@
+{
+  "simplified": "不改",
+  "traditional": "不改",
+  "pinyin": "bù gǎi",
+  "english": "not change; unchanged; not alter",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "不 + 改 = not change",
+    "interpretation": "This word combines 'not' with 'change' to express the concept of something being unchanged or unaltered. It is often used in contexts where continuity or stability is emphasized.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "无论发生什么，她的决定不改(無論發生什麼，她的決定不改)。",
+      "pinyin": "Wúlùn fāshēng shénme, tā de juédìng bù gǎi.",
+      "english": "No matter what happens, her decision remains unchanged."
+    },
+    {
+      "chinese": "天气不改，我们只好延期计划(天氣不改，我們只好延期計劃)。",
+      "pinyin": "Tiānqì bù gǎi, wǒmen zhǐhǎo yánqī jìhuà.",
+      "english": "Since the weather hasn't changed, we'll have to postpone the plan."
+    }
+  ]
+}

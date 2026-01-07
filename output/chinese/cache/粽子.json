@@ -1,0 +1,44 @@
+{
+  "simplified": "粽子",
+  "traditional": "粽子",
+  "pinyin": "zòng zi",
+  "english": "rice dumpling",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "粽 meaning 'sticky rice dumpling' + 子 as a nominalizer = 'rice dumpling'",
+    "interpretation": "粽子 refers to a traditional Chinese food item made by wrapping sticky rice in leaves, commonly consumed during the Dragon Boat Festival. The word combines the main component, sticky rice, with a nominalizing suffix.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "粽",
+      "trad": "粽",
+      "pinyin": "zòng",
+      "english": "sticky rice dumpling"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "noun suffix; child; son; seed"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "端午节时家家户户都会包粽子。",
+      "pinyin": "Duānwǔ jié shí jiā jiā hù hù dōu huì bāo zòngzi.",
+      "english": "During the Dragon Boat Festival, every household makes rice dumplings."
+    },
+    {
+      "chinese": "我最喜欢吃里面有咸蛋黄的粽子。",
+      "pinyin": "Wǒ zuì xǐhuān chī lǐmiàn yǒu xián dàn huáng de zòngzi.",
+      "english": "I like to eat rice dumplings with salted egg yolk inside the most."
+    },
+    {
+      "chinese": "粽子在中国文化中具有特别的意义。",
+      "pinyin": "Zòngzi zài Zhōngguó wénhuà zhōng jùyǒu tèbié de yìyì.",
+      "english": "Rice dumplings hold special significance in Chinese culture."
+    }
+  ]
+}

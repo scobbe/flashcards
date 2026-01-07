@@ -1,0 +1,30 @@
+{
+  "simplified": "乍",
+  "traditional": "乍",
+  "pinyin": "zhà",
+  "english": "suddenly",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "pictogram",
+    "description": "an axe chopping wood. Original form of 柞.",
+    "interpretation": "This character visually represents an axe making a sudden impact as it chops wood, which aligns with its meaning of 'suddenly.' The abrupt motion of the axe capturing the suddenness implied by the character is key to its etymology.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "天气乍暖还寒。",
+      "pinyin": "Tiānqì zhà nuǎn hái hán.",
+      "english": "The weather is suddenly warm yet still cold."
+    },
+    {
+      "chinese": "他乍一想就决定了。",
+      "pinyin": "Tā zhà yī xiǎng jiù juédìng le.",
+      "english": "He suddenly decided after one thought."
+    },
+    {
+      "chinese": "乍看之下，这幅画很简单。",
+      "pinyin": "Zhà kàn zhī xià, zhè fú huà hěn jiǎndān.",
+      "english": "At first glance, this painting seems simple."
+    }
+  ]
+}

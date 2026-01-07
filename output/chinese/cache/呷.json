@@ -1,0 +1,39 @@
+{
+  "simplified": "呷",
+  "traditional": "呷",
+  "pinyin": "xiā",
+  "english": "sip; drink; sound of eating",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口 (“mouth”) + phonetic: 甲",
+    "interpretation": "The character 呷 combines the semantic component 口, representing 'mouth,' with 甲, used for its phonetic value. This suggests an action related to the mouth, specifically 'sip' or 'eat,' with the sound 'xiā' inspired by 甲.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甲",
+      "trad": "甲",
+      "pinyin": "jiǎ",
+      "english": "armor"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "宝玉起身，吩咐下人备些羹粥，自己呷了一口粥。",
+      "pinyin": "Bǎoyù qǐshēn, fēnfù xiàrén bèi xiē gēngzhōu, zìjǐ xiā le yī kǒu zhōu.",
+      "english": "Baoyu got up and instructed the servants to prepare some porridge, taking a sip himself."
+    },
+    {
+      "chinese": "在一些地区，'呷'用于地名，如呷哺呷哺。",
+      "pinyin": "Zài yīxiē dìqū, 'xiā' yòng yú dì míng, rú Xiāpūxiāpū.",
+      "english": "In some areas, '呷' is used in place names, such as Xiāpūxiāpū."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "火锅",
+  "traditional": "火鍋",
+  "pinyin": "huǒ guō",
+  "english": "hot pot; a Chinese cooking method",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "火 (fire) + 锅 (pot) = hot pot",
+    "interpretation": "火锅 refers to a style of Chinese cooking where various ingredients are cooked in a pot of simmering broth at the table. It is a popular communal eating experience in Chinese culture.",
+    "simplification": "The character 锅 in 火锅 was simplified from 鍋 by reducing the number of strokes in the component 钅 (metal radical), commonly simplified in many characters."
+  },
+  "examples": [
+    {
+      "chinese": "我们今晚去吃火锅(我們今晚去吃火鍋)。",
+      "pinyin": "Wǒmen jīn wǎn qù chī huǒguō.",
+      "english": "We are going to eat hot pot tonight."
+    },
+    {
+      "chinese": "火锅在冬天很受欢迎(火鍋在冬天很受歡迎)。",
+      "pinyin": "Huǒguō zài dōngtiān hěn shòu huānyíng.",
+      "english": "Hot pot is very popular in winter."
+    }
+  ]
+}

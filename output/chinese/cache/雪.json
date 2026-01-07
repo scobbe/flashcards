@@ -1,0 +1,44 @@
+{
+  "simplified": "雪",
+  "traditional": "雪",
+  "pinyin": "xuě",
+  "english": "snow",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 雨 ('rain') + phonetic 彗",
+    "interpretation": "The character 雪 combines the semantic element 'rain' with the phonetic element 彗 to convey its meaning related to precipitations like snow. This formation suggests snow as a form of rain, but distinct in its colder manifestation, thus capturing the essence of snowy weather.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "彗",
+      "trad": "彗",
+      "pinyin": "huì",
+      "english": "broom"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天下雪了。",
+      "pinyin": "Jīntiān xià xuě le.",
+      "english": "It snowed today."
+    },
+    {
+      "chinese": "小朋友们在雪地里堆雪人。",
+      "pinyin": "Xiǎo péngyǒu men zài xuědì lǐ duī xuěrén.",
+      "english": "The children are building a snowman in the snow."
+    },
+    {
+      "chinese": "雪融化后，路面非常湿滑。",
+      "pinyin": "Xuě rónghuà hòu, lùmiàn fēicháng shīhuá.",
+      "english": "After the snow melts, the road becomes very slippery."
+    }
+  ]
+}

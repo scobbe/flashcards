@@ -1,0 +1,39 @@
+{
+  "simplified": "聰",
+  "traditional": "聰",
+  "pinyin": "cōng",
+  "english": "clever",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 耳 (ear) + phonetic 悤 (cōng)",
+    "interpretation": "The character combines the semantic element of 'ear' with a phonetic component, representing the idea of being quick to listen and learn, a key aspect of intelligence. The evolution from a heart and a window to an ear underscores the shift in focus from an open mind to the role of hearing in quick comprehension.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "悤",
+      "trad": "悤",
+      "pinyin": "cōng",
+      "english": "intelligent"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古文中常用此字表達智慧。",
+      "pinyin": "Gǔwén zhōng cháng yòng cǐ zì biǎodá zhìhuì.",
+      "english": "This character is often used in classical texts to express intelligence."
+    },
+    {
+      "chinese": "北京的聰慧胡同是該城市的一條歷史街道。",
+      "pinyin": "Běijīng de Cōnghuì Hútòng shì gāi chéngshì de yītiáo lìshǐ jiēdào.",
+      "english": "Cōnghuì Hutong in Beijing is a historic street in the city."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "冰",
+  "traditional": "冰",
+  "pinyin": "",
+  "english": "",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 冫 (OC *pŋrɯŋ, *ŋrɯŋ) + semantic 水",
+    "interpretation": "The character 冰 (bīng, ice) consists of the phonetic element 冫, which suggests the pronunciation, and the semantic element 水 (shuǐ, water), indicating its connection to water. This formation highlights that ice is essentially a state of water in solid form due to cold temperatures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冫",
+      "trad": "冫",
+      "pinyin": "bīng",
+      "english": "cold, ice radical"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "冰是由水凝结而成的。",
+      "pinyin": "Bīng shì yóu shuǐ níngjié ér chéng de.",
+      "english": "Ice is formed by the solidification of water."
+    },
+    {
+      "chinese": "她喜欢在奶茶里加冰。",
+      "pinyin": "Tā xǐhuān zài nǎichá lǐ jiā bīng.",
+      "english": "She likes to add ice to her milk tea."
+    },
+    {
+      "chinese": "冬天湖面结冰了。",
+      "pinyin": "Dōngtiān húmiàn jié bīng le.",
+      "english": "In winter, the lake surface freezes."
+    }
+  ]
+}

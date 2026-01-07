@@ -1,0 +1,44 @@
+{
+  "simplified": "亭",
+  "traditional": "亭",
+  "pinyin": "tíng",
+  "english": "pavilion",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 京 (tower, high) + phonetic: 丁 (nail)",
+    "interpretation": "With the semantic component 京, often associated with something tall or lofty, and the phonetic 丁, the character 亭 conveys the concept of an elevated structure, like a pavilion. Pavilions are typically standalone, elevated structures, and the combination of a tall appearance (京) and the basic shape or fixture (丁) reflects this architectural element.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": "capital/city"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在公园里找到了一个凉亭(涼亭)。",
+      "pinyin": "Wǒmen zài gōngyuán lǐ zhǎodào le yī gè liángtíng.",
+      "english": "We found a pavilion in the park."
+    },
+    {
+      "chinese": "亭子顶部的蓝色瓦片很美丽(美麗)。",
+      "pinyin": "Tíngzi dǐngbù de lán sè wǎpiàn hěn měilì.",
+      "english": "The blue tiles on the top of the pavilion are beautiful."
+    },
+    {
+      "chinese": "古老的亭台楼阁(樓閣)有着悠久的历史(歷史)。",
+      "pinyin": "Gǔlǎo de tíng tái lóu gé yǒuzhe yōujiǔ de lìshǐ.",
+      "english": "The ancient pavilions and towers have a long history."
+    }
+  ]
+}

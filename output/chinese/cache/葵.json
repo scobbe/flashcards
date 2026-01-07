@@ -1,0 +1,44 @@
+{
+  "simplified": "葵",
+  "traditional": "葵",
+  "pinyin": "kuí",
+  "english": "sunflower; mallow family; cake",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 (grass, plant) + phonetic: 癸",
+    "interpretation": "This character combines the grass radical 艹, which indicates its relation to plants, with the phonetic element 癸, suggesting its pronunciation. 葵 represents a plant, specifically associated with sunflowers or other similar plants.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "癸",
+      "trad": "癸",
+      "pinyin": "guǐ",
+      "english": "the tenth heavenly stem"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "葵花在阳光下绽放(葵花在陽光下綻放)。",
+      "pinyin": "Kuíhuā zài yángguāng xià zhànfàng.",
+      "english": "Sunflowers bloom under the sunlight."
+    },
+    {
+      "chinese": "那家糕点铺出售各种植物蛋糕，如艾糕、荠菜糕、葵糕(那家糕點鋪出售各種植物蛋糕，如艾糕、薺菜糕、葵糕)。",
+      "pinyin": "Nà jiā gāodiǎn pù chūshòu gèzhǒng zhíwù dàngāo, rú ài gāo, jìcài gāo, kuí gāo.",
+      "english": "The pastry shop sells various plant-based cakes, such as mugwort cake, shepherd’s purse cake, and mallow cake."
+    },
+    {
+      "chinese": "葵花籽富含油脂，是一种重要的食用和工业用油料(葵花籽富含油脂，是一種重要的食用和工業用油料)。",
+      "pinyin": "Kuíhuāzǐ fùhán yóuzhī, shì yī zhǒng zhòngyào de shíyòng hé gōngyè yòng yóuliào.",
+      "english": "Sunflower seeds are rich in oil, making them an important edible and industrial oil seed."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "存根盖 · 不改",
+  "traditional": "存根蓋 · 不改",
+  "pinyin": "cún gēn gài · bù gǎi",
+  "english": "preserve the root; cover; not change",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "compound word",
+    "description": "Preserve the root + cover + not change",
+    "interpretation": "This word combines morphemes to convey the concept of preserving something's foundation while covering or protecting it without making changes. It could metaphorically refer to maintaining an original state or essence despite changes in surroundings.",
+    "simplification": "Simplification of '盖' from '蓋' reflects a broader trend in Chinese orthography to reduce strokes for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "存根",
+      "trad": "存根",
+      "pinyin": "cún gēn",
+      "english": "preserve root; stub; keep"
+    },
+    {
+      "char": "盖",
+      "trad": "蓋",
+      "pinyin": "gài",
+      "english": "cover; lid; cap; top"
+    },
+    {
+      "char": "不改",
+      "trad": "不改",
+      "pinyin": "bù gǎi",
+      "english": "not change; unchanged; not alter"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "历史上的存根盖(历史上的存根蓋)在古文化中使用频繁。",
+      "pinyin": "Lìshǐ shàng de cún gēn gài zài gǔ wénhuà zhōng shǐyòng pínfán.",
+      "english": "The historical '存根盖' (存根蓋) was frequently used in ancient culture."
+    },
+    {
+      "chinese": "传说中的古代书籍常用存根盖(傳說中的古代書籍常用存根蓋)方式保存。",
+      "pinyin": "Chuánshuō zhōng de gǔdài shūjí cháng yòng cún gēn gài fāngshì bǎocún.",
+      "english": "Ancient books in legends were often preserved using the '存根盖' (存根蓋) method."
+    }
+  ]
+}

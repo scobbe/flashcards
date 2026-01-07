@@ -1,0 +1,44 @@
+{
+  "simplified": "位",
+  "traditional": "位",
+  "pinyin": "",
+  "english": "",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 人 (man) + phonetic: 立 (stand)",
+    "interpretation": "In the composition of 位 (wèi), the character 人 (rén, person) provides the meaning, denoting something related to people or an individual. The character 立 (lì, stand) is used phonetically, suggesting a sound similar to 位 (wèi). The combination suggests a position or rank a person takes, typically when standing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是一位(他是一位)老师。",
+      "pinyin": "Tā shì yī wèi lǎoshī.",
+      "english": "He is a teacher."
+    },
+    {
+      "chinese": "请坐在你的位子(位子)。",
+      "pinyin": "Qǐng zuò zài nǐ de wèizi.",
+      "english": "Please sit in your seat."
+    },
+    {
+      "chinese": "我们需要更多的座位(座位)。",
+      "pinyin": "Wǒmen xūyào gèng duō de zuòwèi.",
+      "english": "We need more seats."
+    }
+  ]
+}

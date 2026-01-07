@@ -1,0 +1,44 @@
+{
+  "simplified": "巷",
+  "traditional": "巷",
+  "pinyin": "xiàng",
+  "english": "alley; lane",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 共 (OC *kloŋ, *ɡloŋs) + semantic 己 ('oneself')",
+    "interpretation": "The character 巷 is a phono-semantic compound where 共 contributes to the pronunciation, while 己 suggests an association with paths or ways related to oneself. It conveys the idea of small pathways like alleys, where people might walk personally or individually.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "oneself"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我家附近有一条小巷。",
+      "pinyin": "Wǒ jiā fùjìn yǒu yī tiáo xiǎo xiàng.",
+      "english": "There is an alley near my house."
+    },
+    {
+      "chinese": "他们在巷子里玩游戏。",
+      "pinyin": "Tāmen zài xiàngzi lǐ wán yóuxì.",
+      "english": "They are playing games in the alley."
+    },
+    {
+      "chinese": "那条巷子很窄。",
+      "pinyin": "Nà tiáo xiàngzi hěn zhǎi.",
+      "english": "That alley is very narrow."
+    }
+  ]
+}

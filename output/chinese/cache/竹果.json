@@ -1,0 +1,39 @@
+{
+  "simplified": "竹果",
+  "traditional": "竹果",
+  "pinyin": "zhú guǒ",
+  "english": "specific fruit (rare term)",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "compound word",
+    "description": "竹 (bamboo) + 果 (fruit) = a specific type of fruit",
+    "interpretation": "竹果 is a rare term that might refer to a type of fruit associated with or resembling bamboo in some manner. It is not common in modern language and may appear in specialized or historical texts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "果",
+      "trad": "果",
+      "pinyin": "guǒ",
+      "english": "fruit; result; consequence; indeed"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "在古时的植物学书中，有提到一种称为竹果(竹果)的特殊果实。",
+      "pinyin": "Zài gǔ shí de zhíwùxué shū zhōng, yǒu tí dào yī zhǒng chēng wèi zhúguǒ de tèshū guǒshí.",
+      "english": "In ancient botanical texts, there is mention of a special fruit called 竹果."
+    },
+    {
+      "chinese": "竹果的样子在旧时的绘画中偶尔可以见到(竹果的樣子在舊時的繪畫中偶爾可以見到)。",
+      "pinyin": "Zhúguǒ de yàngzi zài jiù shí de huìhuà zhōng ǒu'ěr kěyǐ jiàndào.",
+      "english": "The appearance of 竹果 can occasionally be seen in old paintings."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "冊",
+  "traditional": "冊",
+  "pinyin": "cè",
+  "english": "book; volume",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "pictogram",
+    "description": "bamboo slips strung together",
+    "interpretation": "冊 (cè, book/volume) is a pictogram representing bamboo slips that were historically used for writing and recording information. Bamboo was a common writing surface in ancient China, and many slips would be bound together with string to form a book. This character visualizes that concept, showing the arrangement and bundling of these slips.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这本书有三册。",
+      "pinyin": "Zhè běn shū yǒu sān cè.",
+      "english": "This book has three volumes."
+    },
+    {
+      "chinese": "图书馆里有很多古籍册。",
+      "pinyin": "Túshūguǎn lǐ yǒu hěn duō gǔjí cè.",
+      "english": "There are many ancient book volumes in the library."
+    }
+  ]
+}

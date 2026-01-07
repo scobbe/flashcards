@@ -1,0 +1,38 @@
+{
+  "simplified": "鼓楼",
+  "traditional": "鼓樓",
+  "pinyin": "gǔ lóu",
+  "english": "drum tower",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "compound word",
+    "description": "鼓 (drum) + 楼 (tower) = drum tower",
+    "interpretation": "鼓楼 refers to a traditional Chinese building historically used for drumming to mark time. It often has cultural or historical significance, particularly in older cities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "鼓楼",
+      "trad": "鼓樓",
+      "pinyin": "gǔ lóu",
+      "english": "drum tower"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "到北京旅游一定要去看看鼓楼(鼓樓)。",
+      "pinyin": "Dào Běijīng lǚyóu yīdìng yào qù kàn kàn gǔlóu.",
+      "english": "If you travel to Beijing, you must visit the Drum Tower."
+    },
+    {
+      "chinese": "西安的鼓楼(鼓樓)非常有名。",
+      "pinyin": "Xī'ān de gǔlóu fēicháng yǒumíng.",
+      "english": "The Drum Tower in Xi'an is very famous."
+    },
+    {
+      "chinese": "南京的鼓楼(鼓樓)历史悠久。",
+      "pinyin": "Nánjīng de gǔlóu lìshǐ yōujiǔ.",
+      "english": "The Drum Tower in Nanjing has a long history."
+    }
+  ]
+}

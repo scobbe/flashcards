@@ -1,0 +1,33 @@
+{
+  "simplified": "点茶",
+  "traditional": "點茶",
+  "pinyin": "diǎn chá",
+  "english": "traditional tea whisking method",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "compound word",
+    "description": "点 (to dot; to point) + 茶 (tea) = traditional tea whisking method",
+    "interpretation": "点茶 refers to an ancient method of preparing and serving tea by whisking powdered tea to produce a frothy mixture. It is a classical technique that is characteristic of traditional Chinese tea culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "点茶",
+      "trad": "點茶",
+      "pinyin": "diǎn chá",
+      "english": "traditional tea whisking method"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "点茶是一种古老而优雅的茶艺。",
+      "pinyin": "Diǎn chá shì yī zhǒng gǔlǎo ér yōuyǎ de chá yì.",
+      "english": "The 点茶 method is an ancient and elegant tea art form."
+    },
+    {
+      "chinese": "在唐朝时, 点茶是一种流行的茶艺。",
+      "pinyin": "Zài Táng cháo shí, diǎn chá shì yī zhǒng liúxíng de chá yì.",
+      "english": "During the Tang dynasty, 点茶 was a popular tea art technique."
+    }
+  ]
+}

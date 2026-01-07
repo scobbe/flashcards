@@ -1,0 +1,44 @@
+{
+  "simplified": "作",
+  "traditional": "作",
+  "pinyin": "zuò",
+  "english": "to make; to do; to work; to produce",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 亻 (man) + phonetic: 乍",
+    "interpretation": "The character 作 combines the semantic element 亻, suggesting a person or human action, with the phonetic element 乍. This hints at actions performed by a person, aligning with its meanings related to making or doing. The combination embodies the concept of human activity or production.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "man"
+    },
+    {
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "suddenly"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我正在作业(我正在作業)。",
+      "pinyin": "Wǒ zhèngzài zuòyè.",
+      "english": "I am doing homework."
+    },
+    {
+      "chinese": "他作了一首诗(他作了一首詩)。",
+      "pinyin": "Tā zuò le yī shǒu shī.",
+      "english": "He wrote a poem."
+    },
+    {
+      "chinese": "你在作什么(你在作什麼)？",
+      "pinyin": "Nǐ zài zuò shénme?",
+      "english": "What are you doing?"
+    }
+  ]
+}

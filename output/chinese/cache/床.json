@@ -1,0 +1,44 @@
+{
+  "simplified": "床",
+  "traditional": "床",
+  "pinyin": "chuáng",
+  "english": "bed",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 广 ('house') + 木 ('tree')",
+    "interpretation": "The character 床 represents something located in a house or building, indicated by 广, and made of wood, suggested by 木. This reflects the original nature of beds as wooden structures placed inside a dwelling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "house"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天晚上十点上床(我每天晚上十點上床)。",
+      "pinyin": "Wǒ měitiān wǎnshàng shí diǎn shàng chuáng.",
+      "english": "I go to bed at ten o'clock every night."
+    },
+    {
+      "chinese": "这头痛让我在床上待了一整天(這頭痛讓我在床上待了一整天)。",
+      "pinyin": "Zhè tóutòng ràng wǒ zài chuáng shàng dài le yī zhěng tiān.",
+      "english": "This headache kept me in bed all day."
+    },
+    {
+      "chinese": "他买了一张新床(他買了一張新床)。",
+      "pinyin": "Tā mǎile yī zhāng xīn chuáng.",
+      "english": "He bought a new bed."
+    }
+  ]
+}

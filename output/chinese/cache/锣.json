@@ -1,0 +1,44 @@
+{
+  "simplified": "锣",
+  "traditional": "鑼",
+  "pinyin": "luó",
+  "english": "gong; large cymbal; percussion instrument",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 钅(metal) + phonetic: 罗",
+    "interpretation": "The character 锣 combines the metal radical 钅, indicating its association with metal objects, with the phonetic element 罗, to suggest the sound produced by a metallic object, specifically a gong. This illustrates the instrumentality and sound qualities of a gong through its etymology.",
+    "simplification": "The character was simplified by replacing the complex 鑼 with 锣, where 金 was replaced by 钅, a common simplification for characters involving metals."
+  },
+  "parts": [
+    {
+      "char": "钅",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "罗",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "net"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他能熟练地敲锣(鑼)。",
+      "pinyin": "Tā néng shúliàn de qiāo luó.",
+      "english": "He can skillfully play the gong."
+    },
+    {
+      "chinese": "锣(鑼)是重要的传统乐器。",
+      "pinyin": "Luó shì zhòngyào de chuántǒng yuèqì.",
+      "english": "The gong is an important traditional musical instrument."
+    },
+    {
+      "chinese": "在庆典上，锣(鑼)的响声非常响亮。",
+      "pinyin": "Zài qìngdiǎn shàng, luó de xiǎngshēng fēicháng xiǎngliàng.",
+      "english": "At the celebration, the sound of the gong was very loud."
+    }
+  ]
+}

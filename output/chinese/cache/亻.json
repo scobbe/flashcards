@@ -1,0 +1,30 @@
+{
+  "simplified": "亻",
+  "traditional": "人",
+  "pinyin": "rén",
+  "english": "man",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "pictogram",
+    "description": "A stylization of 人; a side view of a standing man, highlighting an arm and a leg.",
+    "interpretation": "亻 is the left-side variant of the character 人, representing the concept of a person in compound characters that relate to human activity or characteristics. It functions primarily as a component in other characters to suggest a human element or involvement.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他是一位好朋友。",
+      "pinyin": "Tā shì yī wèi hǎo péngyǒu.",
+      "english": "He is a good friend."
+    },
+    {
+      "chinese": "我们需要更多人帮助。",
+      "pinyin": "Wǒmen xūyào gèng duō rén bāngzhù.",
+      "english": "We need more people to help."
+    },
+    {
+      "chinese": "人类的未来取决于今天。",
+      "pinyin": "Rénlèi de wèilái qǔjué yú jīntiān.",
+      "english": "The future of humanity depends on today."
+    }
+  ]
+}

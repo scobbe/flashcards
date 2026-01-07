@@ -1,0 +1,44 @@
+{
+  "simplified": "凑",
+  "traditional": "湊",
+  "pinyin": "",
+  "english": "",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 氵 + phonetic 奏 (OC *ʔsoːs)",
+    "interpretation": "The traditional character 湊 (còu) combines the water radical 氵, suggesting a connection to liquid or flow, with the phonetic component 奏 (zòu, to play music). This indicates the idea of gathering or pooling together resources or elements. When simplified, the water component was removed, focusing on the general idea of bringing things together without the specific association with liquid.",
+    "simplification": "During the simplification process, the water radical was removed to streamline the character."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "奏",
+      "trad": "奏",
+      "pinyin": "zòu",
+      "english": "to play (music)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们需要凑够钱。 (我們需要湊夠錢。)",
+      "pinyin": "Wǒmen xūyào còu gòu qián.",
+      "english": "We need to pool enough money."
+    },
+    {
+      "chinese": "他正在凑齐所有文件。 (他正在湊齊所有文件。)",
+      "pinyin": "Tā zhèngzài còuqí suǒyǒu wénjiàn.",
+      "english": "He is gathering all the documents."
+    },
+    {
+      "chinese": "赶快把大家凑在一起。 (趕快把大家湊在一起。)",
+      "pinyin": "Gǎnkuài bǎ dàjiā còu zài yīqǐ.",
+      "english": "Hurry and bring everyone together."
+    }
+  ]
+}

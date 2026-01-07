@@ -1,0 +1,44 @@
+{
+  "simplified": "哺",
+  "traditional": "哺",
+  "pinyin": "bǔ",
+  "english": "feed; nourish; family meal",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口 (mouth) + phonetic: 甫",
+    "interpretation": "The character 哺 combines the semantic element 口, indicating a connection to mouth-related actions such as feeding, with the phonetic component 甫, which suggests the pronunciation. Combining these elements, it refers to the action of nourishing or feeding through the mouth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甫",
+      "trad": "甫",
+      "pinyin": "fǔ",
+      "english": "beginning/just"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "母亲定时哺乳宝宝。",
+      "pinyin": "Mǔqīn dìngshí bǔrǔ bǎobǎo.",
+      "english": "The mother feeds the baby at regular intervals."
+    },
+    {
+      "chinese": "他需要细心哺育这些幼鸟。",
+      "pinyin": "Tā xūyào xìxīn bǔyù zhèxiē yòuniǎo.",
+      "english": "He needs to carefully feed these young birds."
+    },
+    {
+      "chinese": "这道菜能哺养你的身体。",
+      "pinyin": "Zhè dào cài néng bǔyǎng nǐ de shēntǐ.",
+      "english": "This dish can nourish your body."
+    }
+  ]
+}
