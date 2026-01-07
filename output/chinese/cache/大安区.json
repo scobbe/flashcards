@@ -1,0 +1,49 @@
+{
+  "simplified": "大安区",
+  "traditional": "大安區",
+  "pinyin": "Dà’ān Qū",
+  "english": "Da’an District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "大 (big; great) + 安 (peace) + 区/區 (district) = “Great Peace District,” i.e., Da’an District.",
+    "interpretation": "Literally “Great Peace District,” naming an administrative district of Taipei City. “大安” conveys an auspicious sense of great peace and well-being.",
+    "simplification": "區 was simplified to 区 in PRC character simplification to reduce strokes; 大 and 安 are unchanged. Taiwan uses the traditional form 大安區."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great; major; eldest"
+    },
+    {
+      "char": "安",
+      "trad": "安",
+      "pinyin": "ān",
+      "english": "peace; safe; calm; install"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "district; area; region; ward"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们今天去台北的大安区散步(我們今天去臺北的大安區散步)。",
+      "pinyin": "Wǒmen jīntiān qù Táiběi de Dà'ān Qū sànbù.",
+      "english": "We’re going to take a walk in Taipei’s Da’an District today."
+    },
+    {
+      "chinese": "大安区有许多餐厅和咖啡馆(大安區有許多餐廳和咖啡館)。",
+      "pinyin": "Dà'ān Qū yǒu xǔduō cāntīng hé kāfēiguǎn.",
+      "english": "Da’an District has many restaurants and cafés."
+    },
+    {
+      "chinese": "搭捷运到大安站很方便(搭捷運到大安站很方便)。",
+      "pinyin": "Dā jiéyùn dào Dà'ān Zhàn hěn fāngbiàn.",
+      "english": "Taking the metro to Daan Station is very convenient."
+    }
+  ]
+}

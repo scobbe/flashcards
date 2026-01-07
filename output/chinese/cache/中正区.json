@@ -1,0 +1,49 @@
+{
+  "simplified": "中正区",
+  "traditional": "中正區",
+  "pinyin": "Zhōngzhèng Qū",
+  "english": "Zhongzheng District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "中正 + 区(區) = district named Zhongzheng.",
+    "interpretation": "Named after Chiang Kai-shek (Jiǎng Zhōngzhèng), it refers to the central administrative district of Taipei. Often associated with major government buildings and landmarks.",
+    "simplification": "Only 區 was simplified to 区 to reduce strokes for ease of writing; Taiwan retains 區 while Mainland uses 区."
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; within; China (abbr.)"
+    },
+    {
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "upright; correct; proper; main"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "district; area; region; to distinguish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "中正区位于台北市中心(中正區位於臺北市中心)。",
+      "pinyin": "Zhōngzhèng Qū wèiyú Táiběi Shì zhōngxīn.",
+      "english": "Zhongzheng District is located in the center of Taipei City."
+    },
+    {
+      "chinese": "总统府与许多政府机关都在中正区(總統府與許多政府機關都在中正區)。",
+      "pinyin": "Zǒngtǒngfǔ yǔ xǔduō zhèngfǔ jīguān dōu zài Zhōngzhèng Qū.",
+      "english": "The Presidential Office and many government agencies are in Zhongzheng District."
+    },
+    {
+      "chinese": "这里有台北车站和中正纪念堂(這裡有臺北車站和中正紀念堂)。",
+      "pinyin": "Zhèlǐ yǒu Táiběi Chēzhàn hé Zhōngzhèng Jìniàntáng.",
+      "english": "It contains Taipei Main Station and the Chiang Kai-shek Memorial Hall."
+    }
+  ]
+}

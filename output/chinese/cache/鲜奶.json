@@ -1,0 +1,43 @@
+{
+  "simplified": "鲜奶",
+  "traditional": "鮮奶",
+  "pinyin": "xiānnǎi",
+  "english": "fresh milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "鲜(fresh) + 奶(milk) = fresh milk",
+    "interpretation": "Combines “fresh” and “milk” to refer to milk that is recently obtained and not long stored. Often contrasts with 常温奶 or 奶粉.",
+    "simplification": "鮮→鲜 by simplifying the 魚 component to 鱼; 奶 unchanged. Fewer strokes and consistent with radical simplifications."
+  },
+  "parts": [
+    {
+      "char": "鲜",
+      "trad": "鮮",
+      "pinyin": "xiān",
+      "english": "fresh; delicious; bright-colored; few/rare"
+    },
+    {
+      "char": "奶",
+      "trad": "奶",
+      "pinyin": "nǎi",
+      "english": "milk; breast; to breastfeed; nanny/grandma"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我早上喝一杯鲜奶(我早上喝一杯鮮奶)。",
+      "pinyin": "Wǒ zǎoshang hē yì bēi xiān nǎi.",
+      "english": "I drink a glass of fresh milk in the morning."
+    },
+    {
+      "chinese": "我喜欢用鲜奶泡咖啡(我喜歡用鮮奶泡咖啡)。",
+      "pinyin": "Wǒ xǐhuan yòng xiān nǎi pào kāfēi.",
+      "english": "I like to make coffee with fresh milk."
+    },
+    {
+      "chinese": "这家超市每天都有鲜奶供应(這家超市每天都有鮮奶供應)。",
+      "pinyin": "Zhè jiā chāoshì měitiān dōu yǒu xiān nǎi gōngyìng.",
+      "english": "This supermarket has fresh milk available every day."
+    }
+  ]
+}

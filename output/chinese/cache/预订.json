@@ -1,0 +1,43 @@
+{
+  "simplified": "预订",
+  "traditional": "預訂",
+  "pinyin": "yùdìng",
+  "english": "reserve; book",
+  "etymology": {
+    "type": "compound word",
+    "description": "预(advance; beforehand) + 订(set; order) = arrange/confirm in advance (reserve; book)",
+    "interpretation": "Combines doing something ahead of time with formally setting or ordering it. Emphasizes confirming a service or item before the time of use.",
+    "simplification": "預 → 预 drops the 頁 component, retaining phonetic 予 to reduce strokes; 訂 → 订 simplifies 言 to 讠 while keeping 丁, streamlining writing."
+  },
+  "parts": [
+    {
+      "char": "预",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "in advance; beforehand; to anticipate; to prepare"
+    },
+    {
+      "char": "订",
+      "trad": "訂",
+      "pinyin": "dìng",
+      "english": "to order; to subscribe; to agree; to fix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我想预订一张两人桌(我想預訂一張兩人桌)。",
+      "pinyin": "Wǒ xiǎng yùdìng yì zhāng liǎng rén zhuō.",
+      "english": "I want to reserve a table for two."
+    },
+    {
+      "chinese": "我们提前在网上预订了酒店(我們提前在網上預訂了酒店)。",
+      "pinyin": "Wǒmen tíqián zài wǎngshàng yùdìng le jiǔdiàn.",
+      "english": "We booked the hotel online in advance."
+    },
+    {
+      "chinese": "餐厅要求预订需提供姓名和电话(餐廳要求預訂需提供姓名和電話)。",
+      "pinyin": "Cāntīng yāoqiú yùdìng xū tígōng xìngmíng hé diànhuà.",
+      "english": "The restaurant requires a name and phone number for reservations."
+    }
+  ]
+}

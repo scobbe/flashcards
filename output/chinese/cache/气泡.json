@@ -1,0 +1,43 @@
+{
+  "simplified": "气泡",
+  "traditional": "氣泡",
+  "pinyin": "qìpào",
+  "english": "air bubble",
+  "etymology": {
+    "type": "compound word",
+    "description": "气(air; gas) + 泡(bubble; foam) = air/gas bubble.",
+    "interpretation": "Combines the idea of air or gas with a bubble, referring to pockets of gas, especially in liquids like water or soda.",
+    "simplification": "氣 was simplified to 气 by reverting to the ancient graph ‘气’ (steam) and dropping the 米 component, reducing strokes and streamlining a high‑frequency character in Mainland usage."
+  },
+  "parts": [
+    {
+      "char": "气",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "air; gas; breath; vital energy"
+    },
+    {
+      "char": "泡",
+      "trad": "泡",
+      "pinyin": "pào",
+      "english": "bubble; foam; to soak; to steep"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "水里有很多气泡(水裡有很多氣泡)。",
+      "pinyin": "Shuǐ lǐ yǒu hěn duō qìpào.",
+      "english": "There are many air bubbles in the water."
+    },
+    {
+      "chinese": "他摇一摇汽水，瓶口冒出气泡(他搖一搖汽水，瓶口冒出氣泡)。",
+      "pinyin": "Tā yáo yī yáo qìshuǐ, píngkǒu mào chū qìpào.",
+      "english": "He shook the soda, and bubbles came out of the bottle mouth."
+    },
+    {
+      "chinese": "潜水员缓慢上升，让气泡自然排出(潛水員緩慢上升，讓氣泡自然排出)。",
+      "pinyin": "Qiánshuǐyuán huǎnmàn shàngshēng, ràng qìpào zìrán páichū.",
+      "english": "The diver ascended slowly to let the bubbles release naturally."
+    }
+  ]
+}

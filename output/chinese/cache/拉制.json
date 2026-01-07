@@ -1,0 +1,43 @@
+{
+  "simplified": "拉制",
+  "traditional": "拉製",
+  "pinyin": "lāzhì",
+  "english": "metal drawing process",
+  "etymology": {
+    "type": "compound word",
+    "description": "拉(pull) + 制(make/manufacture) = manufacturing by pulling/drawing metal through a die.",
+    "interpretation": "Names a metalworking method where material is pulled through a die to reduce cross-section and improve surface finish. Commonly used to produce wire, rods, and precision tubes.",
+    "simplification": "製 → 制 per PRC character simplification to reduce strokes and unify forms; 拉 unchanged."
+  },
+  "parts": [
+    {
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "to pull; to draw; to drag; to tug"
+    },
+    {
+      "char": "制",
+      "trad": "製",
+      "pinyin": "zhì",
+      "english": "to make; to manufacture; to regulate; system"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们用拉制工艺生产细金属丝(我們用拉製工藝生產細金屬絲)。",
+      "pinyin": "Wǒmen yòng lāzhì gōngyì shēngchǎn xì jīnshǔ sī.",
+      "english": "We use the drawing process to produce fine metal wire."
+    },
+    {
+      "chinese": "在拉制过程中(在拉製過程中)，材料被连续通过拉模以减小截面(材料被連續通過拉模以減小截面)。",
+      "pinyin": "Zài lāzhì guòchéng zhōng, cáiliào bèi liánxù tōngguò lāmú yǐ jiǎnxiǎo jiémiàn.",
+      "english": "During drawing, the material is pulled continuously through a die to reduce its cross-section."
+    },
+    {
+      "chinese": "与挤压相比(與擠壓相比)，拉制更适合制造高精度细管(拉製更適合製造高精度細管)。",
+      "pinyin": "Yǔ jǐyā xiāngbǐ, lāzhì gèng shìhé zhìzào gāo jīngdù xìguǎn.",
+      "english": "Compared with extrusion, drawing is better suited for making high-precision thin tubes."
+    }
+  ]
+}

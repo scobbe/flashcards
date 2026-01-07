@@ -1,0 +1,43 @@
+{
+  "simplified": "预定",
+  "traditional": "預定",
+  "pinyin": "yùdìng",
+  "english": "schedule; book",
+  "etymology": {
+    "type": "compound word",
+    "description": "预(預) ‘in advance’ + 定 ‘set/fix’ = set or book in advance.",
+    "interpretation": "Combines the idea of doing something beforehand with deciding or fixing it, yielding “to reserve” or “to schedule.” Common for booking tickets, rooms, or setting a time in advance.",
+    "simplification": "Only 預 was simplified to 预 by dropping the 頁 component and adopting a 予-based form to reduce strokes while preserving pronunciation and the ‘in advance’ sense; 定 stayed the same."
+  },
+  "parts": [
+    {
+      "char": "预",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "in advance; beforehand; anticipate; reserve"
+    },
+    {
+      "char": "定",
+      "trad": "定",
+      "pinyin": "dìng",
+      "english": "set; decide; fix; definite"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们已经预定了两张明天去北京的火车票(我們已經預定了兩張明天去北京的火車票)。",
+      "pinyin": "Wǒmen yǐjīng yùdìng le liǎng zhāng míngtiān qù Běijīng de huǒchēpiào.",
+      "english": "We have already booked two train tickets to Beijing for tomorrow."
+    },
+    {
+      "chinese": "会议室下午三点到四点已被预定(會議室下午三點到四點已被預定)。",
+      "pinyin": "Huìyìshì xiàwǔ sān diǎn dào sì diǎn yǐ bèi yùdìng.",
+      "english": "The meeting room has been reserved from 3 to 4 p.m."
+    },
+    {
+      "chinese": "我们预定下周一开会(我們預定下週一開會)。",
+      "pinyin": "Wǒmen yùdìng xià zhōu yī kāihuì.",
+      "english": "We are scheduled to meet next Monday."
+    }
+  ]
+}

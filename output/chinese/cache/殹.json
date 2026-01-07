@@ -1,0 +1,43 @@
+{
+  "simplified": "殹",
+  "traditional": "殹",
+  "pinyin": "yì",
+  "english": "to groan; moan",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 殳 ‘strike, weapon’ + phonetic: 意 (yì).",
+    "interpretation": "Built with 殳 suggesting an action associated with harm or impact, while 意 provides the yì sound. The sense developed to denote the groaning sound made in pain or distress.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "weapon; to strike"
+    },
+    {
+      "char": "意",
+      "trad": "意",
+      "pinyin": "yì",
+      "english": "idea; meaning; intention"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他疼得殹了一声(他疼得殹了一聲)。",
+      "pinyin": "Tā téng de yì le yī shēng.",
+      "english": "He was in such pain that he let out a groan."
+    },
+    {
+      "chinese": "病人醒来时(病人醒來時)，还在轻轻殹着(還在輕輕殹著)。",
+      "pinyin": "Bìngrén xǐnglái shí, hái zài qīngqīng yì zhe.",
+      "english": "When the patient woke up, he was still softly moaning."
+    },
+    {
+      "chinese": "听到他殹个不停(聽到他殹個不停)，护士赶紧安慰他(護士趕緊安慰他)。",
+      "pinyin": "Tīngdào tā yì ge bù tíng, hùshi gǎnjǐn ānwèi tā.",
+      "english": "Hearing him groan nonstop, the nurse quickly comforted him."
+    }
+  ]
+}

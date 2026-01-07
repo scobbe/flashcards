@@ -1,0 +1,43 @@
+{
+  "simplified": "过敏",
+  "traditional": "過敏",
+  "pinyin": "guòmǐn",
+  "english": "be allergic",
+  "etymology": {
+    "type": "compound word",
+    "description": "过(excessive) + 敏(sensitive) = abnormally sensitive; allergic.",
+    "interpretation": "Combines the idea of excess with sensitivity to express an abnormally strong bodily response to a substance. Now chiefly a medical term for allergy and, by extension, hypersensitivity.",
+    "simplification": "過→过 reduces strokes by simplifying the complex phonetic component, streamlining a high-frequency 辶-character; 敏 unchanged."
+  },
+  "parts": [
+    {
+      "char": "过",
+      "trad": "過",
+      "pinyin": "guò",
+      "english": "to pass; to exceed; too/excessive; to cross"
+    },
+    {
+      "char": "敏",
+      "trad": "敏",
+      "pinyin": "mǐn",
+      "english": "quick; clever; keen; sensitive"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我对花粉过敏(我對花粉過敏)。",
+      "pinyin": "Wǒ duì huāfěn guòmǐn.",
+      "english": "I’m allergic to pollen."
+    },
+    {
+      "chinese": "他吃了花生后出现过敏反应(他吃了花生後出現過敏反應)。",
+      "pinyin": "Tā chī le huāshēng hòu chūxiàn guòmǐn fǎnyìng.",
+      "english": "He developed an allergic reaction after eating peanuts."
+    },
+    {
+      "chinese": "如果症状严重，要立刻服用抗过敏药(如果症狀嚴重，要立刻服用抗過敏藥)。",
+      "pinyin": "Rúguǒ zhèngzhuàng yánzhòng, yào lìkè fúyòng kàngguòmǐn yào.",
+      "english": "If the symptoms are severe, take anti-allergy medicine immediately."
+    }
+  ]
+}

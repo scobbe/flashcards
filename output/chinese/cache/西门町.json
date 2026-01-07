@@ -1,0 +1,49 @@
+{
+  "simplified": "西门町",
+  "traditional": "西門町",
+  "pinyin": "Xīmén Dīng",
+  "english": "Ximending, Taipei",
+  "etymology": {
+    "type": "compound word (toponym; Sino-Japanese)",
+    "description": "西 + 門 + 町 = “West Gate” + town ward/quarter.",
+    "interpretation": "Name of the area by Taipei’s former West Gate, established as an urban ward during Japanese rule. Retains the Japanese administrative morpheme 町 in the toponym.",
+    "simplification": "Only 门 is simplified (門→门) to reduce strokes; 西 and 町 remain unchanged."
+  },
+  "parts": [
+    {
+      "char": "西",
+      "trad": "西",
+      "pinyin": "xī",
+      "english": "west; western; the West; westward"
+    },
+    {
+      "char": "门",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door; gate; school/discipline; classifier for lessons"
+    },
+    {
+      "char": "町",
+      "trad": "町",
+      "pinyin": "dīng",
+      "english": "ward (Japanese 町); town block; neighborhood; ancient admin unit"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们明天去西门町逛街(我們明天去西門町逛街)。",
+      "pinyin": "Wǒmen míngtiān qù Xīmén Dīng guàngjiē.",
+      "english": "We’re going to Ximending to shop tomorrow."
+    },
+    {
+      "chinese": "西门町是台北很热闹的商圈(西門町是臺北很熱鬧的商圈)。",
+      "pinyin": "Xīmén Dīng shì Táiběi hěn rènào de shāngquān.",
+      "english": "Ximending is a very bustling shopping district in Taipei."
+    },
+    {
+      "chinese": "在西门町可以看电影、吃小吃、买潮牌(在西門町可以看電影、吃小吃、買潮牌)。",
+      "pinyin": "Zài Xīmén Dīng kěyǐ kàn diànyǐng, chī xiǎochī, mǎi cháopái.",
+      "english": "In Ximending you can watch movies, eat street snacks, and buy trendy brands."
+    }
+  ]
+}

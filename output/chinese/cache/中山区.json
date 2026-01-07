@@ -1,0 +1,49 @@
+{
+  "simplified": "中山区",
+  "traditional": "中山區",
+  "pinyin": "Zhōngshān Qū",
+  "english": "Zhongshan District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "中山 (Zhongshan; Sun Yat-sen) + 区 (district) = district named Zhongshan.",
+    "interpretation": "Administrative district in Taipei named in honor of Sun Yat-sen (Sun Zhongshan). Refers specifically to the Zhongshan District of Taipei City.",
+    "simplification": "區 was simplified to 区 in the PRC to reduce strokes; 中 and 山 were unchanged. In Taiwan the official form remains 中山區."
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; China (abbr.); among"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain; hill; volcano; surname"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; district; region; to distinguish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "台北的中山区很繁华(臺北的中山區很繁華)。",
+      "pinyin": "Táiběi de Zhōngshān Qū hěn fánhuá.",
+      "english": "Zhongshan District in Taipei is very bustling."
+    },
+    {
+      "chinese": "这个地名是为了纪念孙中山而命名(這個地名是為了紀念孫中山而命名)。",
+      "pinyin": "Zhège dìmíng shì wèile jìniàn Sūn Zhōngshān ér mìngmíng.",
+      "english": "The place name was given to commemorate Sun Yat-sen."
+    },
+    {
+      "chinese": "它位于台北市中心(它位於臺北市中心)，交通便利(交通便利)。",
+      "pinyin": "Tā wèiyú Táiběi Shì zhōngxīn, jiāotōng biànlì.",
+      "english": "It is located in central Taipei, with convenient transportation."
+    }
+  ]
+}
