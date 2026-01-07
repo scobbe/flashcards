@@ -1,6 +1,5 @@
 {
-  "output_type": "written",
+  "output_type": "chinese",
   "raw_input_file": "-input.raw.txt",
-  "cache": true,
   "output_dir": "../output"
 }
