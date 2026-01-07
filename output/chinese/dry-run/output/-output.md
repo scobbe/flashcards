@@ -1,7 +1,8 @@
 ## 山
 ---
-- **pinyin:** shān
-- **definition:** mountain
+## mountain
+### shān
+---
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram (象形) — three mountain peaks; oracle forms show triangles rather than vertical strokes. Unrelated to 出, the top of 岁/豐, 屮, and 巾.
@@ -16,13 +17,19 @@
   - 山上有很多树(山上有很多樹)。
     - Shān shàng yǒu hěn duō shù.
     - There are many trees on the mountain.
+---
+## 山
+### shān
+---
+## mountain
 %%%
 
 
 ## 银(銀)
 ---
-- **pinyin:** yín
-- **definition:** silver
+## silver
+### yín
+---
 - **components:**
   - 金
     - jīn
@@ -45,6 +52,11 @@
   - 银价今天上涨了(銀價今天上漲了)。
     - Yínjià jīntiān shàngzhǎng le.
     - The price of silver rose today.
+---
+## 银(銀)
+### yín
+---
+## silver
 ### 银(銀) → 金
 - **pinyin:** jīn
 - **definition:** gold; metal
@@ -256,8 +268,9 @@
 
 ## 人口
 ---
-- **pinyin:** rénkǒu
-- **definition:** population
+## population
+### rénkǒu
+---
 - **characters:**
   - 人
     - rén
@@ -279,6 +292,11 @@
   - 世界人口已经超过八十亿(世界人口已經超過八十億)。
     - Shìjiè rénkǒu yǐjīng chāoguò bāshí yì.
     - The world population has exceeded 8 billion.
+---
+## 人口
+### rénkǒu
+---
+## population
 ### 人口 → 人
 - **pinyin:** rén
 - **definition:** person;people;human;someone
@@ -318,8 +336,9 @@
 
 ## 说话(說話)
 ---
-- **pinyin:** shuōhuà
-- **definition:** to speak
+## to speak
+### shuōhuà
+---
 - **characters:**
   - 说(說)
     - shuō
@@ -342,6 +361,11 @@
   - 别在图书馆大声说话(別在圖書館大聲說話)
     - bié zài túshūguǎn dàshēng shuōhuà
     - Don’t speak loudly in the library.
+---
+## 说话(說話)
+### shuōhuà
+---
+## to speak
 ### 说话(說話) → 说(說)
 - **pinyin:** shuō
 - **definition:** to speak; to say; to explain; to persuade
@@ -566,8 +590,9 @@
 
 ## 得
 ---
-- **pinyin:** de/dé/děi
-- **definition:** structural particle; to get, obtain; must, have to
+## structural particle; to get, obtain; must, have to
+### de/dé/děi
+---
 - **components:**
   - 彳
     - chì
@@ -592,6 +617,11 @@
   - 我得走了(我得走了)。
     - Wǒ děi zǒu le.
     - I have to go now.
+---
+## 得
+### de/dé/děi
+---
+## structural particle; to get, obtain; must, have to
 ### 得 → 彳
 - **pinyin:** chì
 - **definition:** step; to walk

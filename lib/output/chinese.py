@@ -460,21 +460,27 @@ def _write_single_card(
         else:
             parts.append(f"### {chinese_heading}")
     else:
+        # Main card front: Chinese, ---, English, Pinyin, ---
         parts.append(f"## {chinese_heading}")
         parts.append(FRONT_BACK_DIVIDER)
+        parts.append(f"## {english}")
+        parts.append(f"### {pinyin}")
+        parts.append(FRONT_BACK_DIVIDER)
 
-    parts.append(f"- **pinyin:** {pinyin}")
+    # For subcards, show pinyin and definition as bullet points
+    if is_subcard:
+        parts.append(f"- **pinyin:** {pinyin}")
 
-    # Handle multiple pronunciations with different definitions
-    pinyins = [p.strip() for p in pinyin.split(",")]
-    definitions = [d.strip() for d in english.split("|")]
+        # Handle multiple pronunciations with different definitions
+        pinyins = [p.strip() for p in pinyin.split(",")]
+        definitions = [d.strip() for d in english.split("|")]
 
-    if len(pinyins) > 1 and len(definitions) == len(pinyins):
-        parts.append("- **definition:**")
-        for pin, defn in zip(pinyins, definitions):
-            parts.append(f"  - {pin}: {defn}")
-    else:
-        parts.append(f"- **definition:** {english}")
+        if len(pinyins) > 1 and len(definitions) == len(pinyins):
+            parts.append("- **definition:**")
+            for pin, defn in zip(pinyins, definitions):
+                parts.append(f"  - {pin}: {defn}")
+        else:
+            parts.append(f"- **definition:** {english}")
 
     # Character breakdown for multi-character words
     if characters and len(characters) > 1:
@@ -530,6 +536,14 @@ def _write_single_card(
                 parts.append(f"    - {pinyin_part}")
             if english_part:
                 parts.append(f"    - {english_part}")
+
+    # Footer for main cards (reverse side reference): Chinese, Pinyin, ---, English
+    if not is_subcard:
+        parts.append(FRONT_BACK_DIVIDER)
+        parts.append(f"## {chinese_heading}")
+        parts.append(f"### {pinyin}")
+        parts.append(FRONT_BACK_DIVIDER)
+        parts.append(f"## {english}")
 
 
 def _generate_recursive_component_cards(
