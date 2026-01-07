@@ -154,14 +154,13 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
     cache_key = simplified if not traditional or traditional == simplified else f"{simplified}_{traditional}"
     cache_path = CARD_CACHE_DIR / f"{cache_key}.etymology.txt"
 
-    # Check cache first
+    # Check cache first - if file exists, respect it (even if empty)
     if cache_path.exists():
         try:
             content = cache_path.read_text(encoding="utf-8").strip()
-            if content:
-                if verbose:
-                    print(f"[wiktionary] [cache] {cache_key}")
-                return content
+            if verbose:
+                print(f"[wiktionary] [cache] {cache_key}")
+            return content  # Return cached content (may be empty string)
         except Exception:
             pass
 
@@ -230,9 +229,13 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
     if len(result) > 3000:
         result = result[:3000] + "..."
 
-    # Save to cache
-    if result:
-        cache_path.write_text(result, encoding="utf-8")
+    # Always save to cache (even if empty) to prevent re-fetching
+    cache_path.write_text(result, encoding="utf-8")
+    if verbose:
+        if result:
+            print(f"[wiktionary] [save] {cache_key}")
+        else:
+            print(f"[wiktionary] [save-empty] {cache_key}")
 
     return result
 
