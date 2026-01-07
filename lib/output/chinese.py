@@ -665,80 +665,78 @@ def write_card_md(
     )
 
     # Generate recursive cards for components/characters
-    # Skip for phrases with 5+ characters
     cjk_chars = [ch for ch in simplified if is_cjk_char(ch)]
     visited: Set[str] = {simplified}
 
-    if len(cjk_chars) < 5:
-        # Initial breadcrumb is the main word (simplified, traditional)
-        initial_breadcrumb = [(simplified, traditional)]
+    # Initial breadcrumb is the main word (simplified, traditional)
+    initial_breadcrumb = [(simplified, traditional)]
 
-        if len(cjk_chars) == 1 and components:
-            # Single character: recurse into components
-            comp_errors = _generate_recursive_component_cards(
-                parts, components, model, visited, depth=1, max_depth=5, verbose=verbose,
-                breadcrumbs=initial_breadcrumb,
-                out_dir=out_dir,
-                parent_word=word,
-                errors=subcomponent_errors,
+    if len(cjk_chars) == 1 and components:
+        # Single character: recurse into components
+        comp_errors = _generate_recursive_component_cards(
+            parts, components, model, visited, depth=1, max_depth=5, verbose=verbose,
+            breadcrumbs=initial_breadcrumb,
+            out_dir=out_dir,
+            parent_word=word,
+            errors=subcomponent_errors,
+        )
+        subcomponent_errors = comp_errors
+    elif len(cjk_chars) > 1 and characters:
+        # Multi-character word: recurse into each character
+        for ch_simp, ch_trad, ch_pin, ch_eng in characters:
+            if ch_simp in visited:
+                continue
+            visited.add(ch_simp)
+
+            # Fetch Wiktionary etymology for this character (simplified and traditional)
+            ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
+
+            # Generate all content in single API call
+            ch_etymology, ch_components, _, ch_examples, from_cache = generate_card_content(
+                ch_simp, ch_trad, ch_pin, ch_eng,
+                wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
             )
-            subcomponent_errors = comp_errors
-        elif len(cjk_chars) > 1 and characters:
-            # Multi-character word: recurse into each character
-            for ch_simp, ch_trad, ch_pin, ch_eng in characters:
-                if ch_simp in visited:
-                    continue
-                visited.add(ch_simp)
 
-                # Fetch Wiktionary etymology for this character (simplified and traditional)
-                ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
+            # Check for error state and track
+            if ch_etymology and ch_etymology.get("error"):
+                error_msg = ch_etymology.get("error", "Unknown error")
+                subcomponent_errors.append(f"{ch_simp}: {error_msg}")
+                add_subcomponent_error(out_dir, word, ch_simp, error_msg)
 
-                # Generate all content in single API call
-                ch_etymology, ch_components, _, ch_examples, from_cache = generate_card_content(
-                    ch_simp, ch_trad, ch_pin, ch_eng,
-                    wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
+            # Write complete cache entry only if newly generated (not from cache)
+            if not from_cache:
+                _write_complete_cache(
+                    ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
+                    etymology=ch_etymology, components=ch_components, examples=ch_examples,
+                    verbose=verbose,
                 )
 
-                # Check for error state and track
-                if ch_etymology and ch_etymology.get("error"):
-                    error_msg = ch_etymology.get("error", "Unknown error")
-                    subcomponent_errors.append(f"{ch_simp}: {error_msg}")
-                    add_subcomponent_error(out_dir, word, ch_simp, error_msg)
+            # Breadcrumbs for this character (include traditional)
+            char_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
 
-                # Write complete cache entry only if newly generated (not from cache)
-                if not from_cache:
-                    _write_complete_cache(
-                        ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
-                        etymology=ch_etymology, components=ch_components, examples=ch_examples,
-                        verbose=verbose,
-                    )
+            # Write card for this character (as sub-card)
+            _write_single_card(
+                parts,
+                simplified=ch_simp,
+                traditional=ch_trad,
+                pinyin=ch_pin,
+                english=ch_eng,
+                components=ch_components if ch_components else None,
+                etymology=ch_etymology if ch_etymology else None,
+                examples=ch_examples if ch_examples else None,
+                is_subcard=True,
+                breadcrumbs=initial_breadcrumb,  # Show parent (the word)
+            )
 
-                # Breadcrumbs for this character (include traditional)
-                char_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
-
-                # Write card for this character (as sub-card)
-                _write_single_card(
-                    parts,
-                    simplified=ch_simp,
-                    traditional=ch_trad,
-                    pinyin=ch_pin,
-                    english=ch_eng,
-                    components=ch_components if ch_components else None,
-                    etymology=ch_etymology if ch_etymology else None,
-                    examples=ch_examples if ch_examples else None,
-                    is_subcard=True,
-                    breadcrumbs=initial_breadcrumb,  # Show parent (the word)
+            # Recursively process this character's components
+            if ch_components:
+                _generate_recursive_component_cards(
+                    parts, ch_components, model, visited, depth=2, max_depth=5, verbose=verbose,
+                    breadcrumbs=char_breadcrumbs,
+                    out_dir=out_dir,
+                    parent_word=word,
+                    errors=subcomponent_errors,
                 )
-
-                # Recursively process this character's components
-                if ch_components:
-                    _generate_recursive_component_cards(
-                        parts, ch_components, model, visited, depth=2, max_depth=5, verbose=verbose,
-                        breadcrumbs=char_breadcrumbs,
-                        out_dir=out_dir,
-                        parent_word=word,
-                        errors=subcomponent_errors,
-                    )
 
     # Add footer for main card (reverse side reference) after all recursive content
     # Format: ---, Chinese, Pinyin, ---, English

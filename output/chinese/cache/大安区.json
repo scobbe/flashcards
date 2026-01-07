@@ -1,0 +1,49 @@
+{
+  "simplified": "大安区",
+  "traditional": "大安区",
+  "pinyin": "Dà’ān Qū",
+  "english": "Da’an District, Taipei",
+  "etymology": {
+    "type": "compound word (toponym)",
+    "description": "大 (great) + 安 (peace) + 区 (district) = 'Great Peace District' (Da’an District).",
+    "interpretation": "Literally 'Great Peace District'. An auspicious place name for a Taipei administrative district conveying stability and well‑being.",
+    "simplification": "Only 區 → 区 was simplified in Mainland Chinese to reduce strokes; Taiwan keeps the traditional 區."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great; major; very"
+    },
+    {
+      "char": "安",
+      "trad": "安",
+      "pinyin": "ān",
+      "english": "peace; safe; quiet; settle"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; district; region; ward"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我住在台北市大安区(我住在臺北市大安區)。",
+      "pinyin": "Wǒ zhù zài Táiběi Shì Dà’ān Qū.",
+      "english": "I live in Taipei’s Da’an District."
+    },
+    {
+      "chinese": "大安区有许多大学和公园(大安區有許多大學和公園)。",
+      "pinyin": "Dà’ān Qū yǒu xǔduō dàxué hé gōngyuán.",
+      "english": "Da’an District has many universities and parks."
+    },
+    {
+      "chinese": "我们在大安森林公园散步(我們在大安森林公園散步)。",
+      "pinyin": "Wǒmen zài Dà’ān Sēnlín Gōngyuán sànbù.",
+      "english": "We take a walk in Da’an Forest Park."
+    }
+  ]
+}

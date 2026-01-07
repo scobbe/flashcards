@@ -3,9 +3,9 @@
     "1.大同区": "complete",
     "2.中山区": "complete",
     "3.西门町": "complete",
-    "4.信义区": "in_progress",
-    "5.大安区": "pending",
-    "6.中正区": "pending",
+    "4.信义区": "complete",
+    "5.大安区": "complete",
+    "6.中正区": "in_progress",
     "7.迪化街": "pending",
     "8.幸福堂": "pending",
     "9.石库门": "pending",
@@ -295,9 +295,9 @@
     "293.星巴克": "pending",
     "294.高考": "pending"
   },
-  "complete": 3,
+  "complete": 5,
   "in_progress": 1,
-  "pending": 290,
+  "pending": 288,
   "error": 0,
-  "complete_contiguous": 3
+  "complete_contiguous": 5
 }

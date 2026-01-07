@@ -1,0 +1,29 @@
+{
+  "simplified": "手",
+  "traditional": "手",
+  "pinyin": "shǒu",
+  "english": "hand",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: hand and fingers; five digits, with top stroke as bent middle finger and horizontal strokes as fingers.",
+    "interpretation": "Depicts a human hand: the top stroke stands for a bent middle finger, and the horizontal strokes stand for the remaining fingers. In contrast to related claw forms that show three digits, it consistently presents a five‑finger human hand.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我手上有伤口(我手上有傷口)。",
+      "pinyin": "Wǒ shǒu shàng yǒu shāngkǒu.",
+      "english": "I have a wound on my hand."
+    },
+    {
+      "chinese": "请举起右手(請舉起右手)。",
+      "pinyin": "Qǐng jǔ qǐ yòu shǒu.",
+      "english": "Please raise your right hand."
+    },
+    {
+      "chinese": "他动手做饭(他動手做飯)。",
+      "pinyin": "Tā dòngshǒu zuò fàn.",
+      "english": "He started cooking by hand."
+    }
+  ]
+}

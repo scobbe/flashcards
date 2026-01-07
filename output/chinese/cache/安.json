@@ -1,0 +1,37 @@
+{
+  "simplified": "安",
+  "traditional": "安",
+  "pinyin": "ān",
+  "english": "peace; safe; quiet; settle",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 宀 'house' + 女 'kneeling woman' → at ease, safe",
+    "interpretation": "A roof over a woman evokes the image of someone calmly settled at home, conveying safety and peace. Early forms depict a seated woman under a roof as a symbol of domestic tranquility and being at ease.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我在家很安心(我在家很安心)。",
+      "pinyin": "Wǒ zài jiā hěn ānxīn.",
+      "english": "I feel at ease at home."
+    },
+    {
+      "chinese": "这里很安静(這裡很安靜)。",
+      "pinyin": "Zhèlǐ hěn ānjìng.",
+      "english": "It is very quiet here."
+    },
+    {
+      "chinese": "请你放心，孩子们很安全(請你放心，孩子們很安全)。",
+      "pinyin": "Qǐng nǐ fàngxīn, háizimen hěn ānquán.",
+      "english": "Please rest assured; the children are safe."
+    }
+  ]
+}

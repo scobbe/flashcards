@@ -1,0 +1,43 @@
+{
+  "simplified": "我",
+  "traditional": "我",
+  "pinyin": "wǒ",
+  "english": "I; me",
+  "etymology": {
+    "type": "pictogram; phonetic loan (假借)",
+    "description": "Pictogram of a trident-like weapon/tool (cf. 戈 ‘polearm’ with a single blade); later borrowed for sound (假借) to write the first-person pronoun.",
+    "interpretation": "Originally depicted a three-bladed polearm, similar to 戈 but with multiple teeth. Its weapon sense was later repurposed as a phonetic loan to represent ‘I/me,’ so the modern meaning is unrelated to the original picture; the common ‘hand + halberd’ story is a folk etymology.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "halberd; polearm"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我是学生(我是學生)。",
+      "pinyin": "Wǒ shì xuésheng.",
+      "english": "I am a student."
+    },
+    {
+      "chinese": "这是给我的(這是給我的)。",
+      "pinyin": "Zhè shì gěi wǒ de.",
+      "english": "This is for me."
+    },
+    {
+      "chinese": "请帮我(請幫我)，谢谢(謝謝)。",
+      "pinyin": "Qǐng bāng wǒ, xièxie.",
+      "english": "Please help me, thanks."
+    }
+  ]
+}

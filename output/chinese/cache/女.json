@@ -1,0 +1,29 @@
+{
+  "simplified": "女",
+  "traditional": "女",
+  "pinyin": "nǚ",
+  "english": "woman",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a woman with breasts kneeling or standing; modern form reversed from oracle forms, with the enclosed area as the remnant of the right breast and the left breast lost.",
+    "interpretation": "Depicts a female figure with a curved torso and a remaining breast, historically shown kneeling and later flipped to face right in standard script. Graphically related to 母 and 毋, which retain more breast/nipple detail, while the similar-looking 卩 is unrelated.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "她是一个勇敢的女人(她是一個勇敢的女人)。",
+      "pinyin": "Tā shì yí gè yǒnggǎn de nǚrén.",
+      "english": "She is a brave woman."
+    },
+    {
+      "chinese": "他们有一个可爱的女儿(他們有一個可愛的女兒)，正在上小学(正在上小學)。",
+      "pinyin": "Tāmen yǒu yí gè kě'ài de nǚ'ér, zhèngzài shàng xiǎoxué.",
+      "english": "They have a lovely daughter who is in primary school."
+    },
+    {
+      "chinese": "这家公司的女员工很多(這家公司的女員工很多)，工作表现很出色(工作表現很出色)。",
+      "pinyin": "Zhè jiā gōngsī de nǚ yuángōng hěn duō, gōngzuò biǎoxiàn hěn chūsè.",
+      "english": "This company has many female employees, and their work performance is outstanding."
+    }
+  ]
+}
