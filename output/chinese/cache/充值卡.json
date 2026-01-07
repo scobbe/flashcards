@@ -5,45 +5,40 @@
   "english": "recharge card",
   "etymology": {
     "type": "compound word",
-    "description": "充 + 值 + 卡 = a card used to add value/credit.",
-    "interpretation": "Modern compound where 充值 means adding credit/balance and 卡 is the physical or virtual card medium. Common in Mainland usage; in Traditional Chinese regions, 儲值卡 is more prevalent.",
+    "description": "充值 + 卡 = card used to add value to an account.",
+    "interpretation": "充值 means adding funds or credit to an account, while 卡 refers to a physical or virtual card. Together it names a card or code used to top up balances like mobile phone credit or digital wallets.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "充",
-      "trad": "充",
-      "pinyin": "chōng",
-      "english": "fill; charge; full; act as"
-    },
-    {
-      "char": "值",
-      "trad": "值",
-      "pinyin": "zhí",
-      "english": "value; worth; be worth; on duty"
+      "char": "充值",
+      "trad": "充值",
+      "pinyin": "chōngzhí",
+      "english": "recharge; top up; add value; credit (an account)"
     },
     {
       "char": "卡",
       "trad": "卡",
       "pinyin": "kǎ",
-      "english": "card; checkpoint; calorie (abbr.); punch card"
+      "english": "card; bank/ID card; checkpoint; to get stuck"
     }
   ],
   "examples": [
     {
-      "chinese": "我买了一张充值卡(我買了一張儲值卡)。",
-      "pinyin": "Wǒ mǎi le yì zhāng chōngzhí kǎ.",
-      "english": "I bought a recharge card."
+      "chinese": "我买了一张充值卡(我買了一張充值卡)，用来给手机话费充值(用來給手機話費充值)。",
+      "pinyin": "Wǒ mǎi le yì zhāng chōngzhíkǎ, yònglái gěi shǒujī huàfèi chōngzhí.",
+      "english": "I bought a recharge card to top up my mobile phone balance."
     },
     {
-      "chinese": "你可以用充值卡给手机充值(你可以用儲值卡給手機儲值)。",
-      "pinyin": "Nǐ kěyǐ yòng chōngzhí kǎ gěi shǒujī chōngzhí.",
-      "english": "You can use a recharge card to add credit to your phone."
+      "chinese": "这张充值卡已经被使用过了(這張充值卡已經被使用過了)，你需要再买一张新的(你需要再買一張新的)。",
+      "pinyin": "Zhè zhāng chōngzhíkǎ yǐjīng bèi shǐyòng guò le, nǐ xūyào zài mǎi yì zhāng xīn de.",
+      "english": "This recharge card has already been used; you need to buy a new one."
     },
     {
-      "chinese": "这张游戏充值卡已经被使用过了(這張遊戲儲值卡已經被使用過了)。",
-      "pinyin": "Zhè zhāng yóuxì chōngzhí kǎ yǐjīng bèi shǐyòng guò le.",
-      "english": "This game recharge card has already been used."
+      "chinese": "你可以在便利店购买充值卡(你可以在便利店購買充值卡)，或者用APP直接充值(或者用APP直接充值)。",
+      "pinyin": "Nǐ kěyǐ zài biànlìdiàn gòumǎi chōngzhíkǎ, huòzhě yòng APP zhíjiē chōngzhí.",
+      "english": "You can buy a recharge card at a convenience store, or recharge directly with an app."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

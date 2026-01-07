@@ -1,0 +1,30 @@
+{
+  "simplified": "南海",
+  "traditional": "南海",
+  "pinyin": "Nánhǎi",
+  "english": "South Lake (in Beijing’s imperial park); South China Sea; Nanhai",
+  "etymology": {
+    "type": "compound word",
+    "description": "南 (south) + 海 (sea; lake) = southern waters; also a named 'South Lake'.",
+    "interpretation": "Combines a direction with a water-body noun to denote waters to the south or a toponym. Most often refers to the South China Sea; in Beijing it names the South Lake within Zhongnanhai, and it appears in place names like Nanhai District.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "台风正向南海移动，渔船已回港避风(颱風正向南海移動，漁船已回港避風)。",
+      "pinyin": "Táifēng zhèng xiàng Nánhǎi yídòng, yúchuán yǐ huígǎng bìfēng.",
+      "english": "The typhoon is moving toward the South China Sea, and fishing boats have returned to harbor to take shelter."
+    },
+    {
+      "chinese": "这幅画描绘了北京中南海的南海景色(這幅畫描繪了北京中南海的南海景色)。",
+      "pinyin": "Zhè fú huà miáohuì le Běijīng Zhōngnánhǎi de Nánhǎi jǐngsè.",
+      "english": "This painting depicts the scenery of the South Lake in Beijing’s Zhongnanhai."
+    },
+    {
+      "chinese": "佛山的南海区产业发达，交通便利(佛山的南海區產業發達，交通便利)。",
+      "pinyin": "Fóshān de Nánhǎi Qū chǎnyè fādá, jiāotōng biànlì.",
+      "english": "Nanhai District in Foshan has a developed industry and convenient transportation."
+    }
+  ],
+  "in_contemporary_usage": true
+}

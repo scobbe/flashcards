@@ -4,46 +4,41 @@
   "pinyin": "Dàtóng Qū",
   "english": "Datong District, Taipei",
   "etymology": {
-    "type": "compound proper noun (toponym)",
-    "description": "大同 (Datong; ‘great harmony’) + 区(區) (‘district’) = Datong District.",
-    "interpretation": "Proper name for an administrative district of Taipei named ‘Datong’. 大同 evokes the Confucian ideal of great harmony, while 区/區 marks it as an administrative division.",
-    "simplification": "區 was simplified to 区 (adopting an older variant and reducing components) in Mainland usage; Taiwan retains 區. 大 and 同 are unchanged."
+    "type": "compound word",
+    "description": "大同 (Datong; great harmony) + 区/區 (district) = Datong District (Taipei).",
+    "interpretation": "Names an administrative district of Taipei; “Datong” evokes the classical ideal of great harmony and serves here as a proper name.",
+    "simplification": "區 was simplified to 区 in mainland reforms to reduce strokes and complexity; Taiwan retains 區, and 大同 is unchanged."
   },
   "parts": [
     {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "big; great; major; very"
-    },
-    {
-      "char": "同",
-      "trad": "同",
-      "pinyin": "tóng",
-      "english": "same; together; alike; with"
+      "char": "大同",
+      "trad": "大同",
+      "pinyin": "Dàtóng",
+      "english": "great unity; grand harmony; Datong (name); ideal society"
     },
     {
       "char": "区",
       "trad": "區",
       "pinyin": "qū",
-      "english": "district; area; region; distinguish"
+      "english": "district; administrative division; area; zone"
     }
   ],
   "examples": [
     {
-      "chinese": "大同区是台北市的一个行政区(大同區是臺北市的一個行政區)。",
-      "pinyin": "Dàtóng Qū shì Táiběi Shì de yí gè xíngzhèng qū.",
-      "english": "Datong District is an administrative district of Taipei City."
+      "chinese": "大同区在台北市的西北部(大同區在臺北市的西北部)。",
+      "pinyin": "Dàtóng Qū zài Táiběi Shì de xīběi bù.",
+      "english": "Datong District is in the northwest part of Taipei City."
     },
     {
-      "chinese": "名称源自“大同”理念，表示社会大同的理想(名稱源自「大同」理念，表示社會大同的理想)。",
-      "pinyin": "Míngchēng yuánzì “Dàtóng” lǐniàn, biǎoshì shèhuì dàtóng de lǐxiǎng.",
-      "english": "The name comes from the concept of “great harmony,” signifying an ideal of a harmonious society."
+      "chinese": "我们去大同区逛迪化街和宁夏夜市(我們去大同區逛迪化街和寧夏夜市)。",
+      "pinyin": "Wǒmen qù Dàtóng Qū guàng Díhuà Jiē hé Níngxià Yèshì.",
+      "english": "We’re going to Datong District to stroll along Dihua Street and Ningxia Night Market."
     },
     {
-      "chinese": "区内有迪化街和宁夏夜市等景点(區內有迪化街和寧夏夜市等景點)。",
-      "pinyin": "Qū nèi yǒu Díhuà Jiē hé Níngxià Yèshì děng jǐngdiǎn.",
-      "english": "It contains attractions such as Dihua Street and Ningxia Night Market."
+      "chinese": "他住在大同区，通勤到中山区上班(他住在大同區，通勤到中山區上班)。",
+      "pinyin": "Tā zhù zài Dàtóng Qū, tōngqín dào Zhōngshān Qū shàngbān.",
+      "english": "He lives in Datong District and commutes to Zhongshan District for work."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

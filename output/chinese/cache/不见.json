@@ -1,0 +1,30 @@
+{
+  "simplified": "不见",
+  "traditional": "不見",
+  "pinyin": "bú jiàn",
+  "english": "not see; be out of sight; disappear; gone",
+  "etymology": {
+    "type": "compound word",
+    "description": "不 (not) + 见 (see) = not see; be out of sight; disappear; gone",
+    "interpretation": "Negates the act of seeing to indicate something is out of sight, unseen, or has disappeared. Often appears as 不见了 to mean something is missing/gone.",
+    "simplification": "见 is the simplified form of 見, reduced for fewer strokes in a high-frequency graph; 不 remained unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "我手机不见了(我手機不見了)。",
+      "pinyin": "Wǒ shǒujī bújiàn le.",
+      "english": "My phone is gone."
+    },
+    {
+      "chinese": "前面起雾(前面起霧)，他的人影很快不见了(他的人影很快不見了)。",
+      "pinyin": "Qiánmiàn qǐ wù, tā de rényǐng hěn kuài bújiàn le.",
+      "english": "Fog rose ahead, and his figure quickly disappeared."
+    },
+    {
+      "chinese": "灯太亮(燈太亮)，我看不见星星(我看不見星星)。",
+      "pinyin": "Dēng tài liàng, wǒ kàn bújiàn xīngxing.",
+      "english": "The light is too bright; I can’t see the stars."
+    }
+  ],
+  "in_contemporary_usage": true
+}

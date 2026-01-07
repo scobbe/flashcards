@@ -4,46 +4,41 @@
   "pinyin": "Wánglǎojí",
   "english": "Wong Lo Kat (beverage brand)",
   "etymology": {
-    "type": "compound proper noun",
-    "description": "王 (surname Wang) + 老 (honorific ‘venerable/old’) + 吉 (auspicious) = “Venerable Lucky Wang,” used as a brand name.",
-    "interpretation": "Combines a family name with an honorific and an auspicious character to signal respectability and good fortune. Used as the herbal tea brand known in Cantonese as Wong Lo Kat.",
+    "type": "eponymic compound",
+    "description": "王 (surname Wang) + 老吉 (Old Ji; honorific + given name/nickname) = brand name of a herbal tea.",
+    "interpretation": "Formed from the founder’s surname Wang and his nickname “Old Ji” (Cantonese: Lo Kat), conveying respect and auspiciousness. Widely recognized as a Guangdong herbal tea brand.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "王",
       "trad": "王",
-      "pinyin": "wáng",
-      "english": "king; monarch; ruler; surname Wang"
+      "pinyin": "Wáng",
+      "english": "Wang (surname); king"
     },
     {
-      "char": "老",
-      "trad": "老",
-      "pinyin": "lǎo",
-      "english": "old; venerable; experienced; respectful prefix"
-    },
-    {
-      "char": "吉",
-      "trad": "吉",
-      "pinyin": "jí",
-      "english": "lucky; auspicious; good fortune; surname Ji"
+      "char": "老吉",
+      "trad": "老吉",
+      "pinyin": "lǎojí",
+      "english": "Old Ji (nickname); venerable + auspicious; Lo Kat (Cantonese)"
     }
   ],
   "examples": [
     {
-      "chinese": "我喜欢喝王老吉(我喜歡喝王老吉)。",
-      "pinyin": "Wǒ xǐhuān hē Wáng Lǎojí.",
-      "english": "I like to drink Wong Lo Kat."
+      "chinese": "我想喝一罐王老吉(我想喝一罐王老吉)。",
+      "pinyin": "Wǒ xiǎng hē yī guàn Wánglǎojí.",
+      "english": "I want to drink a can of Wong Lo Kat."
     },
     {
-      "chinese": "在广东，大家把王老吉叫做凉茶(在廣東，大家把王老吉叫做涼茶)。",
-      "pinyin": "Zài Guǎngdōng, dàjiā bǎ Wáng Lǎojí jiàozuò liángchá.",
-      "english": "In Guangdong, people refer to Wong Lo Kat as herbal tea."
+      "chinese": "这款饮料在广东很受欢迎(這款飲料在廣東很受歡迎)。",
+      "pinyin": "Zhè kuǎn yǐnliào zài Guǎngdōng hěn shòu huānyíng.",
+      "english": "This beverage is very popular in Guangdong."
     },
     {
-      "chinese": "红罐的王老吉很受欢迎(紅罐的王老吉很受歡迎)。",
-      "pinyin": "Hóng guàn de Wáng Lǎojí hěn shòu huānyíng.",
-      "english": "The red-can Wong Lo Kat is very popular."
+      "chinese": "由于商标纠纷，内地产品改名为加多宝(由於商標糾紛，內地產品改名為加多寶)。",
+      "pinyin": "Yóuyú shāngbiāo jiūfēn, nèidì chǎnpǐn gǎimíng wéi Jiāduōbǎo.",
+      "english": "Due to a trademark dispute, the mainland product was renamed JDB."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

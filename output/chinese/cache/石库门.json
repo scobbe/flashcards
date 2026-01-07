@@ -5,45 +5,40 @@
   "english": "Shikumen, traditional Shanghainese architectural style",
   "etymology": {
     "type": "compound word",
-    "description": "石(stone) + 库(Wu topolect: doorframe/jamb) + 门(door/gate) = stone-framed gate, the emblematic entry of this housing style.",
-    "interpretation": "Names the lilong residential style distinguished by a heavy stone-framed doorway. By extension it denotes the broader traditional Shanghainese streetscape built around such gates.",
-    "simplification": "Standard script reform simplified 庫→库 and 門→门 to reduce strokes; meaning and formation unchanged."
+    "description": "石 + 库门 = stone-framed doorway/gate → name of a Shanghai lane-house style.",
+    "interpretation": "Literally “stone doorframe,” highlighting the signature stone-framed portal of Shanghai lane houses. The term broadened from the doorway component to denote the entire architectural typology.",
+    "simplification": "庫→库 and 門→门 in PRC character simplification; meaning and pronunciation preserved."
   },
   "parts": [
     {
       "char": "石",
       "trad": "石",
       "pinyin": "shí",
-      "english": "stone; rock; mineral; surname"
+      "english": "stone; rock"
     },
     {
-      "char": "库",
-      "trad": "庫",
-      "pinyin": "kù",
-      "english": "warehouse; storehouse; reservoir; (Wu topolect) doorframe/jamb"
-    },
-    {
-      "char": "门",
-      "trad": "門",
-      "pinyin": "mén",
-      "english": "door; gate; family/sect; field (of study)"
+      "char": "库门",
+      "trad": "庫門",
+      "pinyin": "kùmén",
+      "english": "doorway; gate; doorframe (Wu dialect); entrance"
     }
   ],
   "examples": [
     {
-      "chinese": "上海的石库门建筑保存了近代城市记忆(上海的石庫門建築保存了近代城市記憶)。",
-      "pinyin": "Shànghǎi de Shíkùmén jiànzhù bǎocún le jìndài chéngshì jìyì.",
-      "english": "Shikumen architecture in Shanghai preserves the memory of the modern city."
+      "chinese": "上海的石库门建筑很有特色(上海的石庫門建築很有特色)。",
+      "pinyin": "Shànghǎi de Shíkùmén jiànzhù hěn yǒu tèsè.",
+      "english": "Shikumen architecture in Shanghai is very distinctive."
     },
     {
-      "chinese": "游客漫步在弄堂里(遊客漫步在弄堂裡)，欣赏石库门的雕花门楣(欣賞石庫門的雕花門楣)。",
-      "pinyin": "Yóukè mànbù zài lòngtáng lǐ, xīnshǎng Shíkùmén de diāohuā ménméi.",
-      "english": "Tourists stroll through the lanes, admiring the carved lintels of Shikumen gates."
+      "chinese": "这条弄堂里保留了几幢石库门老房子(這條弄堂裡保留了幾幢石庫門老房子)。",
+      "pinyin": "Zhè tiáo lòngtáng lǐ bǎoliú le jǐ zhuàng Shíkùmén lǎo fángzi.",
+      "english": "Several old Shikumen houses are preserved in this lane."
     },
     {
-      "chinese": "这种风格融合中西元素(這種風格融合中西元素)，成为上海的象征(成為上海的象徵)。",
-      "pinyin": "Zhè zhǒng fēnggé rónghé zhōng xī yuánsù, chéngwéi Shànghǎi de xiàngzhēng.",
-      "english": "This style blends Chinese and Western elements and has become a symbol of Shanghai."
+      "chinese": "许多游客来此拍摄石库门的门楣和砖雕(許多遊客來此拍攝石庫門的門楣和磚雕)。",
+      "pinyin": "Xǔduō yóukè lái cǐ pāishè Shíkùmén de ménméi hé zhuāndiāo.",
+      "english": "Many tourists come here to photograph the lintels and brick carvings of Shikumen."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

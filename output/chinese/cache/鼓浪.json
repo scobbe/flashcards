@@ -1,0 +1,30 @@
+{
+  "simplified": "鼓浪",
+  "traditional": "鼓浪",
+  "pinyin": "gǔlàng",
+  "english": "surging waves; wave-beating; billowing surf; to stir up waves",
+  "etymology": {
+    "type": "compound word",
+    "description": "鼓(beat; rouse) + 浪(waves) = waves being beaten up; surging surf.",
+    "interpretation": "Combines the sense of drumming/rousing with waves to depict surf stirred into motion or pounding swells. Can be literal (billowing waves) or figurative (stirring up a commotion).",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "海风渐起(海風漸起)，海面鼓浪(海面鼓浪)。",
+      "pinyin": "Hǎifēng jiàn qǐ, hǎimiàn gǔlàng.",
+      "english": "As the sea breeze picks up, the water surface heaves with surging waves."
+    },
+    {
+      "chinese": "台风来临时(颱風來臨時)，巨石被鼓浪拍击(巨石被鼓浪拍擊)。",
+      "pinyin": "Táifēng láilín shí, jùshí bèi gǔlàng pāijī.",
+      "english": "When the typhoon arrives, the boulders are pounded by the billowing surf."
+    },
+    {
+      "chinese": "炮声隆隆(炮聲隆隆)，江水鼓浪奔流(江水鼓浪奔流)。",
+      "pinyin": "Pàoshēng lónglóng, jiāngshuǐ gǔlàng bēnliú.",
+      "english": "With cannons rumbling, the river surges in wave after wave."
+    }
+  ],
+  "in_contemporary_usage": true
+}

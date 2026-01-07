@@ -4,46 +4,41 @@
   "pinyin": "xiǎngqǐlái",
   "english": "remember; recall",
   "etymology": {
-    "type": "verb + directional/resultative complement",
-    "description": "想 think + 起来 rise up = thought rises to mind → recall/remember.",
-    "interpretation": "Indicates that a memory rises into awareness. Often used when something triggers recollection or when one finally remembers after trying.",
-    "simplification": "來 was simplified to 来 to reduce strokes; 起 remained unchanged, so 起来 reflects the standard simplified form."
+    "type": "verb–complement compound",
+    "description": "想 + 起来 = think + rise/start up → memories surface; to recall.",
+    "interpretation": "Combines the act of thinking with the directional/resultative complement 起来 to express that something comes to mind. Often paired with 了 (想起来了) to mark the moment of recall.",
+    "simplification": "起來 → 起来 replaces 來 with the simplified 来, part of the standard character simplification to reduce strokes and regularize forms."
   },
   "parts": [
     {
       "char": "想",
       "trad": "想",
       "pinyin": "xiǎng",
-      "english": "to think; to miss (someone); to want; to consider"
+      "english": "think; consider; miss; want"
     },
     {
-      "char": "起",
-      "trad": "起",
-      "pinyin": "qǐ",
-      "english": "to rise; to get up; to start; to raise"
-    },
-    {
-      "char": "来",
-      "trad": "來",
-      "pinyin": "lái",
-      "english": "to come; to arrive; future/next; used after a verb to indicate direction/result"
+      "char": "起来",
+      "trad": "起來",
+      "pinyin": "qǐlái",
+      "english": "rise; get up; upward/into action; begin to V"
     }
   ],
   "examples": [
     {
-      "chinese": "你一提醒(你一提醒)，我才想起来(我才想起來)。",
-      "pinyin": "Nǐ yì tíxǐng, wǒ cái xiǎngqǐlái.",
-      "english": "Once you reminded me, I finally remembered."
+      "chinese": "我终于想起来他的名字了(我終於想起來他的名字了)。",
+      "pinyin": "Wǒ zhōngyú xiǎngqǐlái tā de míngzi le.",
+      "english": "I finally remembered his name."
     },
     {
-      "chinese": "闻到这股香味(聞到這股香味)，我就想起来了奶奶做的菜(我就想起來了奶奶做的菜)。",
-      "pinyin": "Wéndào zhè gǔ xiāngwèi, wǒ jiù xiǎngqǐlái le nǎinai zuò de cài.",
-      "english": "Smelling this aroma, I immediately remembered the dishes Grandma made."
+      "chinese": "看到这张照片，我一下子全都想起来了(看到這張照片，我一下子全都想起來了)。",
+      "pinyin": "Kàndào zhè zhāng zhàopiàn, wǒ yíxiàzi quán dōu xiǎngqǐlái le.",
+      "english": "Seeing this photo, everything suddenly came back to me."
     },
     {
-      "chinese": "我怎么也想不起来他的电话号码(我怎麼也想不起來他的電話號碼)。",
-      "pinyin": "Wǒ zěnme yě xiǎng bù qǐlái tā de diànhuà hàomǎ.",
-      "english": "I just can't recall his phone number."
+      "chinese": "一闻到那股味道，他就什么都想起来了(一聞到那股味道，他就什麼都想起來了)。",
+      "pinyin": "Yì wéndào nà gǔ wèidào, tā jiù shénme dōu xiǎngqǐlái le.",
+      "english": "As soon as he smelled that scent, everything came back to him."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

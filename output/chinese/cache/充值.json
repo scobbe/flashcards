@@ -1,0 +1,30 @@
+{
+  "simplified": "充值",
+  "traditional": "充值",
+  "pinyin": "chōngzhí",
+  "english": "to recharge; to top up; to add value; top-up",
+  "etymology": {
+    "type": "compound word",
+    "description": "充 ‘fill/charge’ + 值 ‘value’ = add value/top up.",
+    "interpretation": "Literally “fill value,” used for adding prepaid credit to phones, transport cards, games, or digital wallets. By extension, it can also refer to the top-up amount itself.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我需要给手机话费充值(我需要給手機話費充值)。",
+      "pinyin": "Wǒ xūyào gěi shǒujī huàfèi chōngzhí.",
+      "english": "I need to top up my mobile phone credit."
+    },
+    {
+      "chinese": "他在网上银行给账户充值，很方便(他在網上銀行給帳戶充值，很方便)。",
+      "pinyin": "Tā zài wǎngshàng yínháng gěi zhànghù chōngzhí, hěn fāngbiàn.",
+      "english": "He recharges his account via online banking; it’s very convenient."
+    },
+    {
+      "chinese": "这个游戏要求先充值才能解锁新关卡(這個遊戲要求先充值才能解鎖新關卡)。",
+      "pinyin": "Zhège yóuxì yāoqiú xiān chōngzhí cáinéng jiěsuǒ xīn guānkǎ.",
+      "english": "This game requires a top-up before new levels can be unlocked."
+    }
+  ],
+  "in_contemporary_usage": true
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "庆龄",
+  "traditional": "慶齡",
+  "pinyin": "Qìnglíng",
+  "english": "celebratory age; blessed longevity",
+  "etymology": {
+    "type": "compound word",
+    "description": "庆(慶, celebrate; auspicious) + 龄(齡, age) = celebratory age; blessed longevity",
+    "interpretation": "Literary/ceremonial term praising a person's age and longevity, often used in felicitations for elders. Conveys an age endowed with auspicious blessings and worthy of celebration.",
+    "simplification": "慶→庆 drops the 心 component and adopts a simpler historical form; 齡→龄 replaces the complex 齒 with simplified 齿 while keeping the phonetic 令, improving writeability."
+  },
+  "examples": [
+    {
+      "chinese": "祝您福寿绵长(祝您福壽綿長)，庆龄常在(慶齡常在)。",
+      "pinyin": "Zhù nín fúshòu miáncháng, qìnglíng cháng zài.",
+      "english": "Wish you long-lasting blessings and longevity; may your celebrated years endure."
+    },
+    {
+      "chinese": "长者九十寿辰(長者九十壽辰)，全家齐来祝贺其庆龄(全家齊來祝賀其慶齡)。",
+      "pinyin": "Zhǎngzhě jiǔshí shòuchén, quánjiā qí lái zhùhè qí qìnglíng.",
+      "english": "At the elder’s 90th birthday, the whole family gathered to congratulate his blessed longevity."
+    }
+  ],
+  "in_contemporary_usage": true
+}

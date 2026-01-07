@@ -1,0 +1,44 @@
+{
+  "simplified": "斌",
+  "traditional": "斌",
+  "pinyin": "bīn",
+  "english": "refined; cultured; combining civil and martial virtues; elegant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 文 (“civil; culture”) + 武 (“martial; military”).",
+    "interpretation": "Combines 文 ‘civil refinement’ with 武 ‘martial prowess’, conveying a harmony of cultured grace and strength. From this fusion arose senses like refined, elegant, and possessing both civil and martial virtues.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "writing; culture; civil"
+    },
+    {
+      "char": "武",
+      "trad": "武",
+      "pinyin": "wǔ",
+      "english": "martial; military"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "斌先生很有修养(斌先生很有修養)。",
+      "pinyin": "Bīn xiānshēng hěn yǒu xiūyǎng.",
+      "english": "Mr. Bin is very cultivated."
+    },
+    {
+      "chinese": "父母给他取名“斌”，希望他文武兼备(父母給他取名「斌」，希望他文武兼備)。",
+      "pinyin": "Fùmǔ gěi tā qǔmíng “Bīn”, xīwàng tā wénwǔ jiānbèi.",
+      "english": "His parents named him “Bin,” hoping he would be both cultured and martial."
+    },
+    {
+      "chinese": "小斌勤学书法也练武(小斌勤學書法也練武)，气质沉稳而优雅(氣質沉穩而優雅)。",
+      "pinyin": "Xiǎo Bīn qínxué shūfǎ yě liànwǔ, qìzhì chénwěn ér yōuyǎ.",
+      "english": "Young Bin studies calligraphy and also practices martial arts; his demeanor is steady and elegant."
+    }
+  ],
+  "in_contemporary_usage": true
+}

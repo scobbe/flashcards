@@ -4,9 +4,9 @@
   "pinyin": "Xīngbākè",
   "english": "Starbucks",
   "etymology": {
-    "type": "phonosemantic transliteration (brand name)",
-    "description": "星(star) + 巴克(phonetic for “bucks”) = Starbucks (coffee chain).",
-    "interpretation": "Combines a semantic calque for “star” with a phonetic rendering of “bucks,” preserving both sound and imagery. Reads smoothly in Mandarin and carries positive, modern connotations.",
+    "type": "compound word",
+    "description": "星 (star) + 巴克 (phonetic for “bucks”) = Starbucks.",
+    "interpretation": "Brand name transliteration that preserves the 'star' meaning through 星 while approximating the sound of 'bucks' with 巴克. Reads smoothly in Chinese and conveys a modern, international feel.",
     "simplification": ""
   },
   "parts": [
@@ -14,36 +14,31 @@
       "char": "星",
       "trad": "星",
       "pinyin": "xīng",
-      "english": "star; heavenly body; speck; sparkle"
+      "english": "star; celestial body; sparkle; celebrity (abbr.)"
     },
     {
-      "char": "巴",
-      "trad": "巴",
-      "pinyin": "bā",
-      "english": "to long for; to cling/stick; Ba (ancient state); suffix in place names"
-    },
-    {
-      "char": "克",
-      "trad": "克",
-      "pinyin": "kè",
-      "english": "to overcome; gram; to restrain; be able to"
+      "char": "巴克",
+      "trad": "巴克",
+      "pinyin": "bākè",
+      "english": "phonetic for 'buck(s)'; transliteration unit; used in brand names"
     }
   ],
   "examples": [
     {
-      "chinese": "我们在星巴克见面吧(我們在星巴克見面吧)。",
-      "pinyin": "Wǒmen zài Xīngbākè jiànmiàn ba.",
-      "english": "Let's meet at Starbucks."
+      "chinese": "我们去星巴克喝咖啡(我們去星巴克喝咖啡)。",
+      "pinyin": "Wǒmen qù Xīngbākè hē kāfēi.",
+      "english": "Let's go to Starbucks for coffee."
     },
     {
-      "chinese": "星巴克在很多城市都有门店(星巴克在很多城市都有門店)。",
-      "pinyin": "Xīngbākè zài hěn duō chéngshì dōu yǒu méndiàn.",
-      "english": "Starbucks has stores in many cities."
+      "chinese": "这家星巴克新开张(這家星巴克新開張)。",
+      "pinyin": "Zhè jiā Xīngbākè xīn kāizhāng.",
+      "english": "This Starbucks just opened."
     },
     {
-      "chinese": "这家星巴克新推出了限定饮品(這家星巴克新推出了限定飲品)。",
-      "pinyin": "Zhè jiā Xīngbākè xīn tuīchū le xiàndìng yǐnpǐn.",
-      "english": "This Starbucks just launched a limited-time drink."
+      "chinese": "我常在星巴克学习和办公(我常在星巴克學習和辦公)。",
+      "pinyin": "Wǒ cháng zài Xīngbākè xuéxí hé bàngōng.",
+      "english": "I often study and work at Starbucks."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

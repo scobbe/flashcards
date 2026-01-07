@@ -1,0 +1,50 @@
+{
+  "simplified": "吃饱了饭",
+  "traditional": "吃飽了飯",
+  "pinyin": "chī bǎo le fàn",
+  "english": "after eating one’s fill; be full from a meal; having just eaten",
+  "etymology": {
+    "type": "resultative verb-object phrase",
+    "description": "吃饱 (eat to fullness) + 了 (perfective) + 饭 (meal) = having already eaten one’s fill of a meal.",
+    "interpretation": "Colloquial resultative pattern indicating the action of eating has reached satiety and is completed. 饭 is an afterposed object naming the meal following a resultative complement.",
+    "simplification": "饱(飽) and 饭(飯) simplify the food radical from 飠 to 饣 and reduce strokes; 吃 and 了 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "吃饱",
+      "trad": "吃飽",
+      "pinyin": "chī bǎo",
+      "english": "eat to fullness;eat one’s fill;be stuffed;have enough to eat"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "perfective particle;completion;change of state"
+    },
+    {
+      "char": "饭",
+      "trad": "飯",
+      "pinyin": "fàn",
+      "english": "meal;cooked rice;food"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们吃饱了饭(我們吃飽了飯)再出发(再出發)。",
+      "pinyin": "Wǒmen chī bǎo le fàn zài chūfā.",
+      "english": "After we’ve eaten our fill, we’ll set off."
+    },
+    {
+      "chinese": "他中午吃饱了饭(他中午吃飽了飯)，就去开会(就去開會)。",
+      "pinyin": "Tā zhōngwǔ chī bǎo le fàn, jiù qù kāihuì.",
+      "english": "After eating his fill at noon, he went to the meeting."
+    },
+    {
+      "chinese": "你先吃饱了饭(你先吃飽了飯)，再说工作(再說工作)。",
+      "pinyin": "Nǐ xiān chī bǎo le fàn, zài shuō gōngzuò.",
+      "english": "Eat your fill first, then talk about work."
+    }
+  ],
+  "in_contemporary_usage": true
+}

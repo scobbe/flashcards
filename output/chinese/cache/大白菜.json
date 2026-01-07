@@ -5,8 +5,8 @@
   "english": "Chinese cabbage",
   "etymology": {
     "type": "compound word",
-    "description": "大(big) + 白(white) + 菜(vegetable) = big white vegetable (Chinese cabbage).",
-    "interpretation": "Literally names the pale, elongated cabbage common in North China; contrasts with 小白菜, which refers to bok choy/Shanghai pak choi.",
+    "description": "大 + 白菜 = big/large + Chinese cabbage → the large napa variety.",
+    "interpretation": "Literally “big cabbage”, marking the broad, pale-headed napa type as opposed to 小白菜 (pak choi). In northern usage, 大白菜 commonly just refers to napa cabbage.",
     "simplification": ""
   },
   "parts": [
@@ -14,36 +14,31 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "big;great;major;eldest"
+      "english": "big; great; major; eldest"
     },
     {
-      "char": "白",
-      "trad": "白",
-      "pinyin": "bái",
-      "english": "white;pure;clear;plain"
-    },
-    {
-      "char": "菜",
-      "trad": "菜",
-      "pinyin": "cài",
-      "english": "vegetable;greens;dish;cuisine"
+      "char": "白菜",
+      "trad": "白菜",
+      "pinyin": "báicài",
+      "english": "Chinese cabbage; napa cabbage; leafy greens; cabbage"
     }
   ],
   "examples": [
     {
-      "chinese": "我买了一颗大白菜(我買了一顆大白菜)。",
-      "pinyin": "Wǒ mǎi le yì kē dà báicài.",
-      "english": "I bought a head of Chinese cabbage."
+      "chinese": "我买了两棵大白菜(我買了兩棵大白菜)。",
+      "pinyin": "Wǒ mǎi le liǎng kē dà báicài.",
+      "english": "I bought two heads of Chinese cabbage."
     },
     {
-      "chinese": "大白菜可以炒着吃(大白菜可以炒著吃)，也可以做泡菜(也可以做泡菜)。",
-      "pinyin": "Dà báicài kěyǐ chǎo zhe chī, yě kěyǐ zuò pàocài.",
-      "english": "Chinese cabbage can be stir-fried, and it can also be made into pickles."
+      "chinese": "冬天炖大白菜很家常(冬天燉大白菜很家常)。",
+      "pinyin": "Dōngtiān dùn dà báicài hěn jiācháng.",
+      "english": "Braising Chinese cabbage in winter is very home-style."
     },
     {
-      "chinese": "北方冬天常腌大白菜(北方冬天常醃大白菜)。",
-      "pinyin": "Běifāng dōngtiān cháng yān dà báicài.",
-      "english": "In northern China, people often pickle Chinese cabbage in winter."
+      "chinese": "北方人常把大白菜腌成酸菜(北方人常把大白菜醃成酸菜)。",
+      "pinyin": "Běifāng rén cháng bǎ dà báicài yān chéng suāncài.",
+      "english": "People in the north often pickle Chinese cabbage into suancai."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

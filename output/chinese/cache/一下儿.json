@@ -5,45 +5,40 @@
   "english": "a bit; for a moment",
   "etymology": {
     "type": "compound word",
-    "description": "一 + 下 + 儿 = do (something) briefly/softly, with northern erhua tone.",
-    "interpretation": "Combines 'one' with 'a bit/down' plus the Beijing-style 儿 suffix to signal a short, light action. Conveys a casual, polite tone equivalent to 'a bit' or 'for a moment' in northern Mandarin.",
-    "simplification": "兒 → 儿 in simplified; stroke reduction and standardization of the erhua suffix; 一 and 下 are unchanged."
+    "description": "一下 + 儿(兒) = brief/softened action.",
+    "interpretation": "Placed after a verb to mean doing something briefly or lightly, often softening requests or commands. Common in northern Mandarin as erhua; functionally similar to 一下 without 儿.",
+    "simplification": "兒 was simplified to 儿 to reduce strokes and reflect the frequent colloquial suffix."
   },
   "parts": [
     {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one; single; once; a"
-    },
-    {
-      "char": "下",
-      "trad": "下",
-      "pinyin": "xià",
-      "english": "down; below; under; next"
+      "char": "一下",
+      "trad": "一下",
+      "pinyin": "yíxià",
+      "english": "once; a bit; briefly; for a moment"
     },
     {
       "char": "儿",
       "trad": "兒",
       "pinyin": "ér",
-      "english": "child; son; suffix; retroflex suffix"
+      "english": "erhua/diminutive suffix; noun suffix; softening tone"
     }
   ],
   "examples": [
     {
-      "chinese": "你等我一下儿(你等我一下兒)。",
+      "chinese": "你等我一下儿。",
       "pinyin": "Nǐ děng wǒ yíxiàr.",
-      "english": "Wait for me a moment."
+      "english": "Please wait for me a moment."
     },
     {
-      "chinese": "请看一下儿这个表格(請看一下兒這個表格)。",
-      "pinyin": "Qǐng kàn yíxiàr zhège biǎogé.",
-      "english": "Please take a quick look at this form."
+      "chinese": "老师，您看一下儿这个作业(老師，您看一下兒這個作業)。",
+      "pinyin": "Lǎoshī, nín kàn yíxiàr zhège zuòyè.",
+      "english": "Teacher, please take a quick look at this homework."
     },
     {
-      "chinese": "我们休息一下儿再走(我們休息一下兒再走)。",
-      "pinyin": "Wǒmen xiūxi yíxiàr zài zǒu.",
-      "english": "Let’s rest a bit before we go."
+      "chinese": "我试一下儿就走(我試一下兒就走)。",
+      "pinyin": "Wǒ shì yíxiàr jiù zǒu.",
+      "english": "I’ll just try it briefly and then leave."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

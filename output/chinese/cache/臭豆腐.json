@@ -5,8 +5,8 @@
   "english": "stinky tofu",
   "etymology": {
     "type": "compound word",
-    "description": "臭 + 豆腐(豆 + 腐) = stinky + tofu (fermented tofu).",
-    "interpretation": "Adjective–noun compound where 臭 modifies 豆腐, naming the famous fermented tofu snack known for a strong odor but rich, savory taste. Commonly deep-fried or simmered and served with chili or pickled vegetables.",
+    "description": "臭 + 豆腐 = stinky tofu (fermented tofu snack).",
+    "interpretation": "Literally ‘stinky tofu’, a direct descriptor for tofu fermented to develop a strong odor and distinctive flavor. Widely used across Sinosphere street-food contexts.",
     "simplification": ""
   },
   "parts": [
@@ -14,36 +14,31 @@
       "char": "臭",
       "trad": "臭",
       "pinyin": "chòu",
-      "english": "stink; smelly; bad odor; disgraceful"
+      "english": "stinky; smelly; foul; malodorous"
     },
     {
-      "char": "豆",
-      "trad": "豆",
-      "pinyin": "dòu",
-      "english": "bean; pea; soybean; beans (food)"
-    },
-    {
-      "char": "腐",
-      "trad": "腐",
-      "pinyin": "fǔ",
-      "english": "rotten; decay; curdled; tofu (in compounds)"
+      "char": "豆腐",
+      "trad": "豆腐",
+      "pinyin": "dòufu",
+      "english": "tofu; bean curd; beancurd; soybean curd"
     }
   ],
   "examples": [
     {
-      "chinese": "夜市里卖的臭豆腐很香(夜市裡賣的臭豆腐很香)。",
-      "pinyin": "Yèshì lǐ mài de chòu dòufu hěn xiāng.",
-      "english": "The stinky tofu sold at the night market smells great."
+      "chinese": "我最爱夜市的臭豆腐(我最愛夜市的臭豆腐)。",
+      "pinyin": "Wǒ zuì ài yèshì de chòu dòufu.",
+      "english": "I love stinky tofu at the night market the most."
     },
     {
-      "chinese": "有些人不敢吃臭豆腐(有些人不敢吃臭豆腐)，但我越吃越爱(但我越吃越愛)。",
-      "pinyin": "Yǒuxiē rén bù gǎn chī chòu dòufu, dàn wǒ yuè chī yuè ài.",
-      "english": "Some people don't dare to eat stinky tofu, but the more I eat it, the more I love it."
+      "chinese": "它闻起来很臭(它聞起來很臭)，但吃起来外酥里嫩(但吃起來外酥裡嫩)。",
+      "pinyin": "Tā wén qǐlái hěn chòu, dàn chī qǐlái wài sū lǐ nèn.",
+      "english": "It smells very pungent, but it’s crispy outside and tender inside."
     },
     {
-      "chinese": "在台湾(在臺灣)，炸臭豆腐外脆里嫩(炸臭豆腐外脆裡嫩)。",
-      "pinyin": "Zài Táiwān, zhà chòu dòufu wài cuì lǐ nèn.",
-      "english": "In Taiwan, fried stinky tofu is crispy outside and tender inside."
+      "chinese": "很多人一开始退后(很多人一開始退後)，吃了几口就喜欢了(吃了幾口就喜歡了)。",
+      "pinyin": "Hěn duō rén yī kāishǐ tuìhòu, chī le jǐ kǒu jiù xǐhuan le.",
+      "english": "Many people step back at first, but after a few bites they start to like it."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

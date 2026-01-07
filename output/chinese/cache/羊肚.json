@@ -1,0 +1,30 @@
+{
+  "simplified": "羊肚",
+  "traditional": "羊肚",
+  "pinyin": "yángdǔ",
+  "english": "sheep tripe; sheep stomach; tripe",
+  "etymology": {
+    "type": "compound word",
+    "description": "羊 (sheep) + 肚 (belly/stomach) = sheep stomach/tripe",
+    "interpretation": "Literally “sheep belly”; refers to sheep tripe, commonly cooked in stir-fries or hotpot.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我最爱吃羊肚火锅(我最愛吃羊肚火鍋)。",
+      "pinyin": "Wǒ zuì ài chī yángdǔ huǒguō.",
+      "english": "I love eating sheep-tripe hotpot."
+    },
+    {
+      "chinese": "这道菜用新鲜羊肚清炖(這道菜用新鮮羊肚清燉)。",
+      "pinyin": "Zhè dào cài yòng xīnxiān yángdǔ qīngdùn.",
+      "english": "This dish uses fresh sheep tripe for a light stew."
+    },
+    {
+      "chinese": "市场里有卖处理好的羊肚(市場裡有賣處理好的羊肚)。",
+      "pinyin": "Shìchǎng lǐ yǒu mài chǔlǐ hǎo de yángdǔ.",
+      "english": "The market sells cleaned and prepared sheep tripe."
+    }
+  ],
+  "in_contemporary_usage": true
+}

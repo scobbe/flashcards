@@ -5,45 +5,40 @@
   "english": "pineapple bun",
   "etymology": {
     "type": "compound word",
-    "description": "菠萝(pineapple) + 包(bun) = a bun whose crackled crust resembles a pineapple.",
-    "interpretation": "Named for its pineapple-like patterned crust; despite the name, it typically contains no pineapple. Strongly associated with Cantonese bakeries and Hong Kong tea restaurants.",
-    "simplification": "蘿 → 萝 via 羅 → 罗; 菠 and 包 unchanged."
+    "description": "菠萝 + 包 = pineapple + bun → a sweet bun with a pineapple-like crust.",
+    "interpretation": "Named for its pineapple-like crackled crust; classic versions contain no actual pineapple.",
+    "simplification": "Only 蘿 → 萝 was simplified by replacing 羅 with 罗 under the grass radical, reducing strokes; 菠 and 包 are unchanged."
   },
   "parts": [
     {
-      "char": "菠",
-      "trad": "菠",
-      "pinyin": "bō",
-      "english": "spinach; used in plant names"
-    },
-    {
-      "char": "萝",
-      "trad": "蘿",
-      "pinyin": "luó",
-      "english": "radish (as in 萝卜); trailing plant; wisteria; creeper"
+      "char": "菠萝",
+      "trad": "菠蘿",
+      "pinyin": "bōluó",
+      "english": "pineapple"
     },
     {
       "char": "包",
       "trad": "包",
       "pinyin": "bāo",
-      "english": "to wrap; bag; package; bun"
+      "english": "bun; bread roll; bag; to wrap"
     }
   ],
   "examples": [
     {
-      "chinese": "早上我买了一个菠萝包(早上我買了一個菠蘿包)。",
-      "pinyin": "Zǎoshang wǒ mǎi le yí gè bōluóbāo.",
-      "english": "In the morning I bought a pineapple bun."
+      "chinese": "我最喜欢早餐吃菠萝包(我最喜歡早餐吃菠蘿包)。",
+      "pinyin": "Wǒ zuì xǐhuan zǎocān chī bōluóbāo.",
+      "english": "I love eating pineapple buns for breakfast."
     },
     {
-      "chinese": "菠萝包的表皮像菠萝，但通常不含菠萝(菠蘿包的表皮像菠蘿，但通常不含菠蘿)。",
-      "pinyin": "Bōluóbāo de biǎopí xiàng bōluó, dàn tōngcháng bù hán bōluó.",
-      "english": "The crust of a pineapple bun looks like a pineapple, but it usually doesn’t contain pineapple."
+      "chinese": "香港的面包店常卖热腾腾的菠萝包(香港的麵包店常賣熱騰騰的菠蘿包)。",
+      "pinyin": "Xiānggǎng de miànbāo diàn cháng mài rè téngténg de bōluóbāo.",
+      "english": "Bakeries in Hong Kong often sell steaming-hot pineapple buns."
     },
     {
-      "chinese": "在香港的茶餐厅，我最爱点热的菠萝包加牛油(在香港的茶餐廳，我最愛點熱的菠蘿包加牛油)。",
-      "pinyin": "Zài Xiānggǎng de chácāntīng, wǒ zuì ài diǎn rè de bōluóbāo jiā niúyóu.",
-      "english": "At a Hong Kong tea restaurant, I love to order a hot pineapple bun with butter."
+      "chinese": "它的表皮像菠萝但通常不含菠萝馅(它的表皮像菠蘿但通常不含菠蘿餡)。",
+      "pinyin": "Tā de biǎopí xiàng bōluó dàn tōngcháng bù hán bōluó xiàn.",
+      "english": "Its crust looks like a pineapple, but it usually has no pineapple filling."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

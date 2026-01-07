@@ -1,0 +1,30 @@
+{
+  "simplified": "武昌",
+  "traditional": "武昌",
+  "pinyin": "wǔchāng",
+  "english": "Wuchang; historic city in Hubei; district of Wuhan",
+  "etymology": {
+    "type": "compound word",
+    "description": "武 (martial) + 昌 (prosperous; flourishing) = place name implying “martial prosperity.”",
+    "interpretation": "Historic toponym chosen to signal a flourishing military power during the Three Kingdoms era (renamed by Sun Quan). Now denotes the Wuchang district of Wuhan in Hubei.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "武昌起义发生在1911年(武昌起義發生在1911年)，是辛亥革命的开端(是辛亥革命的開端)。",
+      "pinyin": "Wǔchāng Qǐyì fāshēng zài yī jiǔ yī yī nián, shì Xīnhài Gémìng de kāiduān.",
+      "english": "The Wuchang Uprising occurred in 1911 and marked the beginning of the Xinhai Revolution."
+    },
+    {
+      "chinese": "我住在武汉的武昌区(我住在武漢的武昌區)，离东湖很近(離東湖很近)。",
+      "pinyin": "Wǒ zhù zài Wǔhàn de Wǔchāng Qū, lí Dōnghú hěn jìn.",
+      "english": "I live in Wuchang District of Wuhan, very close to East Lake."
+    },
+    {
+      "chinese": "历史上(歷史上)，武昌曾是重要的军事和政治中心(武昌曾是重要的軍事和政治中心)。",
+      "pinyin": "Lìshǐ shàng, Wǔchāng céng shì zhòngyào de jūnshì hé zhèngzhì zhōngxīn.",
+      "english": "Historically, Wuchang was an important military and political center."
+    }
+  ],
+  "in_contemporary_usage": true
+}

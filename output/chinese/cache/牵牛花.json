@@ -5,45 +5,40 @@
   "english": "morning glory",
   "etymology": {
     "type": "compound word",
-    "description": "牵牛(‘morning glory’; lit. lead an ox) + 花(‘flower’) = morning glory flower.",
-    "interpretation": "Commonly names the vine whose trumpet-like blossoms open in the morning; 牵牛 is an established plant morpheme from the classical herb term 牵牛子, and 花 marks it as the flower.",
-    "simplification": "牽 was simplified to 牵 by reducing components to fewer strokes; 牛 and 花 are unchanged."
+    "description": "牵牛 + 花 = flower of the ‘qiānniú’ (morning glory) plant.",
+    "interpretation": "Literally “cowherd/morning‑glory flower”: 牵牛 is an established plant name in Chinese (also ‘to lead an ox’ and the Cowherd star), so the compound denotes the flower of that twining vine that opens in the morning. Often also called 喇叭花 for its trumpet shape.",
+    "simplification": "牵 is the simplified form of 牽, created to reduce stroke count; 牛 and 花 are unchanged. Thus the word simplifies only in the first character."
   },
   "parts": [
     {
-      "char": "牵",
-      "trad": "牽",
-      "pinyin": "qiān",
-      "english": "to pull; to lead; to involve; to drag"
-    },
-    {
-      "char": "牛",
-      "trad": "牛",
-      "pinyin": "niú",
-      "english": "cow; ox; bull; outstanding (slang)"
+      "char": "牵牛",
+      "trad": "牽牛",
+      "pinyin": "qiānniú",
+      "english": "morning glory (plant name); to lead an ox; cowherd (Altair)"
     },
     {
       "char": "花",
       "trad": "花",
       "pinyin": "huā",
-      "english": "flower; blossom; to spend (money/time); pattern/fancy"
+      "english": "flower; blossom; to bloom; fancy/patterned"
     }
   ],
   "examples": [
     {
-      "chinese": "篱笆上爬满了牵牛花(籬笆上爬滿了牽牛花)。",
-      "pinyin": "Líbā shàng pá mǎn le qiānniúhuā.",
-      "english": "Morning glories climbed all over the fence."
+      "chinese": "牵牛花清晨开放(牽牛花清晨開放)，中午就合拢(中午就合攏)。",
+      "pinyin": "Qiānniúhuā qīngchén kāifàng, zhōngwǔ jiù hélǒng.",
+      "english": "Morning glories open at dawn and close around midday."
     },
     {
-      "chinese": "牵牛花清晨开放(牽牛花清晨開放)，午后便合拢(午後便合攏)。",
-      "pinyin": "Qiānniúhuā qīngchén kāifàng, wǔhòu biàn hélǒng.",
-      "english": "Morning glories open at dawn and close by afternoon."
+      "chinese": "孩子们叫它喇叭花(孩子們叫它喇叭花)。",
+      "pinyin": "Háizimen jiào tā lǎbāhuā.",
+      "english": "Children call it ‘trumpet flower’."
     },
     {
-      "chinese": "她把几颗牵牛花种子撒在花盆里(她把幾顆牽牛花種子撒在花盆裡)。",
-      "pinyin": "Tā bǎ jǐ kē qiānniúhuā zhǒngzǐ sǎ zài huāpén lǐ.",
-      "english": "She scattered a few morning glory seeds in the flowerpot."
+      "chinese": "这种藤会攀爬篱笆(這種藤會攀爬籬笆)。",
+      "pinyin": "Zhè zhǒng téng huì pānpá líbā.",
+      "english": "This vine can climb along fences."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

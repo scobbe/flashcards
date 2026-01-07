@@ -1,0 +1,30 @@
+{
+  "simplified": "起义",
+  "traditional": "起義",
+  "pinyin": "qǐyì",
+  "english": "uprising; insurrection; revolt; rebellion",
+  "etymology": {
+    "type": "compound word",
+    "description": "起 ‘rise’ + 义/義 ‘righteous cause’ = to rise for a righteous cause → an uprising.",
+    "interpretation": "Originally emphasized a morally justified revolt; in modern usage it broadly refers to any uprising or insurrection, especially organized resistance against authority.",
+    "simplification": "義 → 义: stroke reduction by adopting a cursive/abbreviated form used in handwriting; high-frequency moral head ‘righteousness/justice’ was retained in a simpler graph. 起 unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "农民在压迫下(農民在壓迫下)，发动起义(發動起義)。",
+      "pinyin": "Nóngmín zài yāpò xià, fādòng qǐyì.",
+      "english": "The peasants launched an uprising under oppression."
+    },
+    {
+      "chinese": "这次起义(這次起義)失败了(失敗了)。",
+      "pinyin": "Zhè cì qǐyì shībàile.",
+      "english": "This uprising failed."
+    },
+    {
+      "chinese": "他们起义(他們起義)是为了争取自由(是為了爭取自由)。",
+      "pinyin": "Tāmen qǐyì shì wèile zhēngqǔ zìyóu.",
+      "english": "They rose up to fight for freedom."
+    }
+  ],
+  "in_contemporary_usage": true
+}

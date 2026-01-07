@@ -1,0 +1,30 @@
+{
+  "simplified": "菜头",
+  "traditional": "菜頭",
+  "pinyin": "càitóu",
+  "english": "radish; turnip; root vegetable; daikon",
+  "etymology": {
+    "type": "compound word",
+    "description": "菜 ‘vegetable’ + 头 ‘head/root end’ = the “head” of a vegetable → radish/daikon.",
+    "interpretation": "Literally points to the swollen root or “head” of certain vegetables, hence radish/daikon. Common in Southern Chinese varieties; contrasts with standard Mandarin 萝卜 for radish.",
+    "simplification": "頭 → 头 by standard character simplification, reducing the complex 頁 component and aligning with the productive suffix -头."
+  },
+  "examples": [
+    {
+      "chinese": "这家店的腌菜头很好吃(這家店的醃菜頭很好吃)。",
+      "pinyin": "Zhè jiā diàn de yān càitóu hěn hǎochī.",
+      "english": "The pickled radish at this shop tastes great."
+    },
+    {
+      "chinese": "冬天常吃白色的菜头炖排骨(冬天常吃白色的菜頭燉排骨)。",
+      "pinyin": "Dōngtiān cháng chī báisè de càitóu dùn páigǔ.",
+      "english": "In winter people often eat white radish stewed with pork ribs."
+    },
+    {
+      "chinese": "萝卜糕在台湾也叫菜头粿(蘿蔔糕在臺灣也叫菜頭粿)。",
+      "pinyin": "Luóbo gāo zài Táiwān yě jiào càitóu guǒ.",
+      "english": "Turnip cake is also called 'caitou kueh' in Taiwan."
+    }
+  ],
+  "in_contemporary_usage": true
+}

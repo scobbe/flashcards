@@ -5,45 +5,40 @@
   "english": "doubanjiang; chili bean paste",
   "etymology": {
     "type": "compound word",
-    "description": "豆(bean) + 瓣(segment/split) + 酱(sauce/paste) = paste made from split beans (often broad beans), typically with chili.",
-    "interpretation": "Literally “bean-segment sauce,” referring to a thick fermented paste made from split broad beans; in Sichuan cuisine it commonly includes chili, hence ‘chili bean paste’.",
-    "simplification": "Only 醬 was simplified to 酱, replacing the complex phonetic 將 with 将 under the 酉 ‘fermentation/wine’ radical to reduce strokes and ease writing; 豆 and 瓣 are unchanged."
+    "description": "豆瓣 ‘split/broad-bean pieces’ + 酱 ‘sauce/paste’ = sauce made from fermented bean pieces, often with chili.",
+    "interpretation": "Names a thick fermented condiment based on split broad beans, commonly blended with chilies, salt, and wheat flour. Highlights the visible bean fragments (瓣) that give texture and depth of flavor.",
+    "simplification": "酱 was simplified from 醬 by streamlining the 酉 radical and using 将 as the phonetic, reducing strokes while preserving sound and meaning; 豆瓣 is unchanged."
   },
   "parts": [
     {
-      "char": "豆",
-      "trad": "豆",
-      "pinyin": "dòu",
-      "english": "bean; legumes; ancient food vessel; small bean-shaped thing"
-    },
-    {
-      "char": "瓣",
-      "trad": "瓣",
-      "pinyin": "bàn",
-      "english": "petal; segment; clove; half"
+      "char": "豆瓣",
+      "trad": "豆瓣",
+      "pinyin": "dòubàn",
+      "english": "bean halves; split broad beans; broad-bean pieces; fermented broad-bean chunks"
     },
     {
       "char": "酱",
       "trad": "醬",
       "pinyin": "jiàng",
-      "english": "sauce; paste; thick soy/bean paste; condiment"
+      "english": "sauce; paste; thick condiment; bean-based sauce"
     }
   ],
   "examples": [
     {
-      "chinese": "这道鱼香肉丝要用一勺豆瓣酱(這道魚香肉絲要用一勺豆瓣醬)。",
-      "pinyin": "Zhè dào yúxiāng ròusī yào yòng yì sháo dòubànjiàng.",
-      "english": "This yuxiang shredded pork needs a spoonful of doubanjiang."
+      "chinese": "这道回锅肉离不开郫县豆瓣酱(這道回鍋肉離不開郫縣豆瓣醬)。",
+      "pinyin": "Zhè dào huíguōròu lí bù kāi Píxiàn dòubànjiàng.",
+      "english": "Twice-cooked pork depends on Pixian doubanjiang."
     },
     {
-      "chinese": "四川人常用豆瓣酱炒菜(四川人常用豆瓣醬炒菜)。",
-      "pinyin": "Sìchuān rén cháng yòng dòubànjiàng chǎo cài.",
-      "english": "People in Sichuan often stir-fry with doubanjiang."
+      "chinese": "他用豆瓣酱炒辣椒(他用豆瓣醬炒辣椒)，香味很浓(香味很濃)。",
+      "pinyin": "Tā yòng dòubànjiàng chǎo làjiāo, xiāngwèi hěn nóng.",
+      "english": "He stir-fries chilies with doubanjiang, and the aroma is intense."
     },
     {
-      "chinese": "我喜欢把豆瓣酱拌进面条里(我喜歡把豆瓣醬拌進麵條裡)。",
-      "pinyin": "Wǒ xǐhuan bǎ dòubànjiàng bàn jìn miàntiáo lǐ.",
-      "english": "I like to mix doubanjiang into my noodles."
+      "chinese": "超市里有不同牌子的豆瓣酱(超市裡有不同牌子的豆瓣醬)。",
+      "pinyin": "Chāoshì lǐ yǒu bùtóng páizi de dòubànjiàng.",
+      "english": "The supermarket carries different brands of doubanjiang."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

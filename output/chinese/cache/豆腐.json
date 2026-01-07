@@ -1,0 +1,30 @@
+{
+  "simplified": "豆腐",
+  "traditional": "豆腐",
+  "pinyin": "dòufu",
+  "english": "tofu; bean curd; soybean curd; tofu dish",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆 (bean) + 腐 (curdled/fermented) = bean curd.",
+    "interpretation": "Literally ‘bean-curdled,’ referring to soybeans processed into soft curds; by extension it names both the ingredient and dishes made from it.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我今天买了新鲜的豆腐(我今天買了新鮮的豆腐)。",
+      "pinyin": "Wǒ jīntiān mǎi le xīnxiān de dòufu.",
+      "english": "I bought fresh tofu today."
+    },
+    {
+      "chinese": "这道麻婆豆腐很下饭(這道麻婆豆腐很下飯)。",
+      "pinyin": "Zhè dào Mápó dòufu hěn xiàfàn.",
+      "english": "This mapo tofu goes great with rice."
+    },
+    {
+      "chinese": "豆腐用黄豆制成，口感细嫩(豆腐用黃豆製成，口感細嫩)。",
+      "pinyin": "Dòufu yòng huángdòu zhìchéng, kǒugǎn xìnèn.",
+      "english": "Tofu is made from soybeans and has a delicate texture."
+    }
+  ],
+  "in_contemporary_usage": true
+}

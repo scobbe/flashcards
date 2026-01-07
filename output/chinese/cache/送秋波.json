@@ -4,9 +4,9 @@
   "pinyin": "sòng qiūbō",
   "english": "cast amorous glances",
   "etymology": {
-    "type": "compound word (idiom; verb–object)",
-    "description": "送(send) + 秋波(autumn waves; metaphor for alluring eye-glances) = cast amorous glances.",
-    "interpretation": "Evokes ripples of clear autumn water as a metaphor for sparkling, flirtatious eyes. Used playfully to describe making eyes at someone in a teasing or suggestive way.",
+    "type": "compound word",
+    "description": "送 (to send) + 秋波 ('autumn waves' = alluring, limpid eyes) = to cast flirtatious glances.",
+    "interpretation": "Uses the classical image 秋波 for bright, watery eyes; pairing it with 送 conveys 'sending' a glance as a subtle signal of affection or flirtation.",
     "simplification": ""
   },
   "parts": [
@@ -14,36 +14,31 @@
       "char": "送",
       "trad": "送",
       "pinyin": "sòng",
-      "english": "to send; to deliver; to see off; to give (as a gift)"
+      "english": "to send; to deliver; to present; to see off"
     },
     {
-      "char": "秋",
-      "trad": "秋",
-      "pinyin": "qiū",
-      "english": "autumn; fall; harvest season; (poetic) melancholic mood"
-    },
-    {
-      "char": "波",
-      "trad": "波",
-      "pinyin": "bō",
-      "english": "wave; ripple; surge; broadcast (radio)"
+      "char": "秋波",
+      "trad": "秋波",
+      "pinyin": "qiūbō",
+      "english": "autumn waves; limpid eyes; flirtatious glance; alluring look"
     }
   ],
   "examples": [
     {
-      "chinese": "她隔着人群向他送秋波(她隔著人群向他送秋波)。",
-      "pinyin": "Tā gézhe rénqún xiàng tā sòng qiūbō.",
-      "english": "She cast amorous glances at him across the crowd."
+      "chinese": "她隔着酒杯向他送秋波(她隔著酒杯向他送秋波)。",
+      "pinyin": "Tā gézhe jiǔbēi xiàng tā sòng qiūbō.",
+      "english": "She sent him an amorous glance over her wine glass."
     },
     {
-      "chinese": "他故意对服务员送秋波(他故意對服務員送秋波)，逗得朋友笑个不停(逗得朋友笑個不停)。",
-      "pinyin": "Tā gùyì duì fúwùyuán sòng qiūbō, dòu de péngyou xiào ge bù tíng.",
-      "english": "He deliberately made eyes at the waiter, making his friends laugh nonstop."
+      "chinese": "男主角只要一笑(男主角只要一笑)，粉丝们就对他送秋波(粉絲們就對他送秋波)。",
+      "pinyin": "Nán zhǔjiǎo zhǐyào yí xiào, fěnsīmen jiù duì tā sòng qiūbō.",
+      "english": "Whenever the male lead smiles, the fans throw him flirtatious glances."
     },
     {
-      "chinese": "他向新来的同事送秋波(他向新來的同事送秋波)，气得女友翻白眼(氣得女友翻白眼)。",
-      "pinyin": "Tā xiàng xīn lái de tóngshì sòng qiūbō, qì de nǚyǒu fān báiyǎn.",
-      "english": "He sent flirtatious glances to the new colleague, making his girlfriend roll her eyes."
+      "chinese": "她不言不语(她不言不語)，只用眼神向他送秋波(只用眼神向他送秋波)。",
+      "pinyin": "Tā bù yán bù yǔ, zhǐ yòng yǎnshén xiàng tā sòng qiūbō.",
+      "english": "She said nothing, using only her eyes to send him a flirty glance."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

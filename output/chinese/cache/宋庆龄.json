@@ -4,46 +4,41 @@
   "pinyin": "Sòng Qìnglíng",
   "english": "Song Qingling",
   "etymology": {
-    "type": "proper name (full name)",
-    "description": "宋 + 庆(慶) + 龄(齡) = surname + given name (Song Qingling).",
-    "interpretation": "Full name of a prominent Chinese revolutionary and stateswoman, also known as Madame Sun Yat-sen. Combines the surname 宋 with the given name 庆龄/慶齡.",
-    "simplification": "Given name characters were simplified: 慶 → 庆 (component reduction) and 齡 → 龄 (齒 → 齿 plus stroke streamlining); 宋 unchanged."
+    "type": "personal name",
+    "description": "宋 (surname) + 庆龄 (given name) = the personal name “Song Qingling”.",
+    "interpretation": "Combines the family name 宋 with the given name 庆龄, literally “celebrate + years/age.” Refers to Soong Ching-ling, a major 20th‑century Chinese political figure and wife of Sun Yat-sen.",
+    "simplification": "慶→庆 simplifies complex components; 齡→龄 via the 齒→齿 series. Both reduce stroke count and follow standard PRC simplification patterns."
   },
   "parts": [
     {
       "char": "宋",
       "trad": "宋",
       "pinyin": "Sòng",
-      "english": "surname Song; the Song dynasty; ancient state of Song; Song-style (typeface)"
+      "english": "Song (surname); Song dynasty; ancient state of Song"
     },
     {
-      "char": "庆",
-      "trad": "慶",
-      "pinyin": "Qìng",
-      "english": "to celebrate; celebration; to congratulate; auspicious"
-    },
-    {
-      "char": "龄",
-      "trad": "齡",
-      "pinyin": "Líng",
-      "english": "age; years of age; lifespan; service length"
+      "char": "庆龄",
+      "trad": "慶齡",
+      "pinyin": "Qìnglíng",
+      "english": "Qingling (given name); celebrate; felicitation; age/years"
     }
   ],
   "examples": [
     {
       "chinese": "宋庆龄是中国近现代史上的重要人物(宋慶齡是中國近現代史上的重要人物)。",
       "pinyin": "Sòng Qìnglíng shì Zhōngguó jìn xiàndài shǐ shàng de zhòngyào rénwù.",
-      "english": "Song Qingling is an important figure in modern Chinese history."
+      "english": "Song Qingling is an important figure in China’s modern and contemporary history."
     },
     {
-      "chinese": "人们常称她为“孙中山夫人”宋庆龄(人們常稱她為「孫中山夫人」宋慶齡)。",
-      "pinyin": "Rénmen cháng chēng tā wéi “Sūn Zhōngshān fūrén” Sòng Qìnglíng.",
-      "english": "People often call her “Madame Sun Yat-sen,” Song Qingling."
+      "chinese": "她是孙中山的妻子，也曾担任中华人民共和国名誉主席(她是孫中山的妻子，也曾擔任中華人民共和國名譽主席)。",
+      "pinyin": "Tā shì Sūn Zhōngshān de qīzi, yě céng dānrèn Zhōnghuá Rénmín Gònghéguó míngyù zhǔxí.",
+      "english": "She was the wife of Sun Yat-sen and also served as the Honorary President of the PRC."
     },
     {
-      "chinese": "许多学校和基金会以宋庆龄命名(許多學校和基金會以宋慶齡命名)。",
-      "pinyin": "Xǔduō xuéxiào hé jījīnhuì yǐ Sòng Qìnglíng mìngmíng.",
-      "english": "Many schools and foundations are named after Song Qingling."
+      "chinese": "人们常用宋庆龄的名字命名学校和道路(人們常用宋慶齡的名字命名學校和道路)。",
+      "pinyin": "Rénmen cháng yòng Sòng Qìnglíng de míngzi mìngmíng xuéxiào hé dàolù.",
+      "english": "People often name schools and roads after Song Qingling."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

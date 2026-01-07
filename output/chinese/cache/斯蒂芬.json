@@ -4,46 +4,35 @@
   "pinyin": "Sīdìfēn",
   "english": "Stephen",
   "etymology": {
-    "type": "phonetic transliteration (personal name)",
-    "description": "斯(si) + 蒂(di) + 芬(fen) = transliteration of “Stephen.”",
-    "interpretation": "A Mandarin transliteration of the English given name “Stephen,” chosen for sound rather than literal meaning. Characters are neutral-to-positive in sense, a common practice for foreign names.",
+    "type": "phonetic transliteration",
+    "description": "Phonetic rendering: sī + dì + fēn ≈ “Stephen.”",
+    "interpretation": "Used as the standard Mandarin transliteration of the English given name Stephen. Chosen for sound rather than semantic content.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "斯",
-      "trad": "斯",
-      "pinyin": "sī",
-      "english": "this; thus; such; used in transliteration"
-    },
-    {
-      "char": "蒂",
-      "trad": "蒂",
-      "pinyin": "dì",
-      "english": "peduncle; fruit stem; flower base; calyx"
-    },
-    {
-      "char": "芬",
-      "trad": "芬",
-      "pinyin": "fēn",
-      "english": "fragrance; perfume; aromatic; elegant"
+      "char": "斯蒂芬",
+      "trad": "斯蒂芬",
+      "pinyin": "Sīdìfēn",
+      "english": "Stephen; male given name; transliteration"
     }
   ],
   "examples": [
     {
-      "chinese": "我叫斯蒂芬(我叫斯蒂芬)。",
-      "pinyin": "Wǒ jiào Sīdìfēn.",
-      "english": "My name is Stephen."
+      "chinese": "斯蒂芬今天来了(斯蒂芬今天來了)。",
+      "pinyin": "Sīdìfēn jīntiān lái le.",
+      "english": "Stephen came today."
     },
     {
-      "chinese": "斯蒂芬来自英国(斯蒂芬來自英國)。",
-      "pinyin": "Sīdìfēn láizì Yīngguó.",
-      "english": "Stephen comes from the UK."
+      "chinese": "我认识一位叫斯蒂芬的老师(我認識一位叫斯蒂芬的老師)。",
+      "pinyin": "Wǒ rènshi yí wèi jiào Sīdìfēn de lǎoshī.",
+      "english": "I know a teacher named Stephen."
     },
     {
-      "chinese": "斯蒂芬正在学习中文(斯蒂芬正在學習中文)。",
-      "pinyin": "Sīdìfēn zhèngzài xuéxí Zhōngwén.",
-      "english": "Stephen is studying Chinese."
+      "chinese": "斯蒂芬·霍金是著名的物理学家(斯蒂芬·霍金是著名的物理學家)。",
+      "pinyin": "Sīdìfēn Huòjīn shì zhùmíng de wùlǐxuéjiā.",
+      "english": "Stephen Hawking is a famous physicist."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

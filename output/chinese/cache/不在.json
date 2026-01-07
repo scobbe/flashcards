@@ -1,0 +1,30 @@
+{
+  "simplified": "不在",
+  "traditional": "不在",
+  "pinyin": "bù zài",
+  "english": "not be in/at; not lie in; not present",
+  "etymology": {
+    "type": "negation + verb",
+    "description": "不 (not) + 在 (be at/in; be present) = 'not be in/at; not present; not lie in'.",
+    "interpretation": "Combines the negative marker with the locative/existential verb 在 to indicate absence from a place or that a cause/quality does not reside in something. Common in patterns like 不在 + 地点 and 不在于 + 所在/方面.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他现在不在办公室(他現在不在辦公室)。",
+      "pinyin": "Tā xiànzài bù zài bàngōngshì.",
+      "english": "He is not in the office right now."
+    },
+    {
+      "chinese": "书不在桌上，可能在包里(書不在桌上，可能在包裡)。",
+      "pinyin": "Shū bù zài zhuō shàng, kěnéng zài bāo lǐ.",
+      "english": "The book isn’t on the desk; it might be in the bag."
+    },
+    {
+      "chinese": "成功不在于运气，而在于努力(成功不在於運氣，而在於努力)。",
+      "pinyin": "Chénggōng bù zàiyú yùnqì, ér zàiyú nǔlì.",
+      "english": "Success does not lie in luck but in effort."
+    }
+  ],
+  "in_contemporary_usage": true
+}

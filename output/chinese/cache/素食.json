@@ -1,0 +1,44 @@
+{
+  "simplified": "素食",
+  "traditional": "素食",
+  "pinyin": "sùshí",
+  "english": "vegetarian food;vegetarian diet;vegetarianism",
+  "etymology": {
+    "type": "compound word",
+    "description": "素 (vegetarian/plain) + 食 (food/eating) = vegetarian food/diet.",
+    "interpretation": "Refers to vegetarian food or a vegetarian diet, and by extension vegetarianism. Often contrasted with 荤/葷 in menus or dietary descriptions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "plain; vegetarian; simple; unadorned"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; eat; meal; to feed"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我坚持素食已经三年了(我堅持素食已經三年了)。",
+      "pinyin": "Wǒ jiānchí sùshí yǐjīng sān nián le.",
+      "english": "I have stuck to a vegetarian diet for three years."
+    },
+    {
+      "chinese": "这家餐厅提供多种素食选择(這家餐廳提供多種素食選擇)。",
+      "pinyin": "Zhè jiā cāntīng tígōng duō zhǒng sùshí xuǎnzé.",
+      "english": "This restaurant offers many vegetarian options."
+    },
+    {
+      "chinese": "出于环保和健康的考虑(出於環保和健康的考慮)，他转向素食(他轉向素食)。",
+      "pinyin": "Chūyú huánbǎo hé jiànkāng de kǎolǜ, tā zhuǎnxiàng sùshí.",
+      "english": "For environmental and health reasons, he switched to a vegetarian diet."
+    }
+  ],
+  "in_contemporary_usage": true
+}

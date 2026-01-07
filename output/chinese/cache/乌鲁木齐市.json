@@ -4,41 +4,23 @@
   "pinyin": "Wūlǔmùqí Shì",
   "english": "Urumqi (capital of Xinjiang)",
   "etymology": {
-    "type": "compound word",
-    "description": "乌(wū) + 鲁(lǔ) + 木(mù) + 齐(qí) + 市(shì) = phonetic transcription of “Ürümqi” + city suffix.",
-    "interpretation": "Denotes the city of Urumqi, capital of Xinjiang; characters are selected for sound rather than meaning, with 市 indicating administrative status.",
-    "simplification": "PRC simplifications: 烏→乌, 魯→鲁, 齊→齐; 木、市 unchanged. Simplified forms are standard in mainland toponyms."
+    "type": "compound word (phonetic transliteration + suffix)",
+    "description": "乌鲁木齐 (phonetic of Ürümchi) + 市 (city) = “Urumqi City.”",
+    "interpretation": "Phonetic rendering of the Uyghur/Oirat name Ürümchi, with characters chosen for sound rather than meaning. The suffix 市 marks it as a city-level administrative unit and the capital of Xinjiang.",
+    "simplification": "烏→乌, 魯→鲁, 齊→齐 were simplified per PRC standards; transliteration preserved; 木、市 unchanged."
   },
   "parts": [
     {
-      "char": "乌",
-      "trad": "烏",
-      "pinyin": "wū",
-      "english": "crow; black; dark; surname"
-    },
-    {
-      "char": "鲁",
-      "trad": "魯",
-      "pinyin": "lǔ",
-      "english": "crude; blunt; State of Lu (ancient); surname"
-    },
-    {
-      "char": "木",
-      "trad": "木",
-      "pinyin": "mù",
-      "english": "wood; tree; wooden; numb"
-    },
-    {
-      "char": "齐",
-      "trad": "齊",
-      "pinyin": "qí",
-      "english": "even; neat; together; Qi (ancient state)"
+      "char": "乌鲁木齐",
+      "trad": "烏魯木齊",
+      "pinyin": "Wūlǔmùqí",
+      "english": "Urumqi; transliteration of Uyghur Ürümchi"
     },
     {
       "char": "市",
       "trad": "市",
       "pinyin": "shì",
-      "english": "market; city; municipality; urban"
+      "english": "city; municipality; market; urban area"
     }
   ],
   "examples": [
@@ -48,14 +30,15 @@
       "english": "Urumqi is the capital of Xinjiang."
     },
     {
-      "chinese": "我明天去乌鲁木齐市旅行(我明天去烏魯木齊市旅行)。",
-      "pinyin": "Wǒ míngtiān qù Wūlǔmùqí Shì lǚxíng.",
-      "english": "I will travel to Urumqi tomorrow."
+      "chinese": "我们从北京飞往乌鲁木齐市(我們從北京飛往烏魯木齊市)。",
+      "pinyin": "Wǒmen cóng Běijīng fēiwǎng Wūlǔmùqí Shì.",
+      "english": "We flew from Beijing to Urumqi."
     },
     {
-      "chinese": "乌鲁木齐市的气候干燥(烏魯木齊市的氣候乾燥)。",
-      "pinyin": "Wūlǔmùqí Shì de qìhòu gānzào.",
-      "english": "Urumqi's climate is dry."
+      "chinese": "乌鲁木齐市的名字源自当地的民族语言(烏魯木齊市的名字源自當地的民族語言)。",
+      "pinyin": "Wūlǔmùqí Shì de míngzi yuán zì dāngdì de mínzú yǔyán.",
+      "english": "The name Urumqi comes from local ethnic languages."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

@@ -1,0 +1,21 @@
+{
+  "simplified": "利尔",
+  "traditional": "利爾",
+  "pinyin": "Lì'ěr",
+  "english": "phonetic ‘-real/-riel’",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "bound transliteration morpheme",
+    "description": "利(lì) + 尔(ěr) = approximates the foreign ending “-real/-riel”.",
+    "interpretation": "Used as a phonetic chunk in transliterations to render the syllable sequence -real/-riel, especially in names, e.g., 蒙特利尔 for Montréal. It carries no independent meaning outside such proper names.",
+    "simplification": "“爾” was simplified to “尔” by reducing strokes and components in the character; 利 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "利尔",
+      "trad": "利爾",
+      "pinyin": "lì'ěr",
+      "english": "phonetic ending -real/-riel; transliteration chunk; no inherent meaning"
+    }
+  ]
+}

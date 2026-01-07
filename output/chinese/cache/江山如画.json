@@ -4,52 +4,41 @@
   "pinyin": "jiāngshān rúhuà",
   "english": "picturesque scenery",
   "etymology": {
-    "type": "idiom (chengyu)",
-    "description": "江(river) + 山(mountains) + 如(like) + 画(painting) = scenery as beautiful as a painting.",
-    "interpretation": "Evokes a grand, harmonious landscape whose beauty rivals a masterful painting. Often used to praise natural scenery or the land of one’s country.",
-    "simplification": "Only 畫 → 画 was simplified, reducing strokes to improve writing efficiency in a high‑frequency character."
+    "type": "idiom",
+    "description": "江山 + 如画 = rivers and mountains that look like a painting → picturesque landscape.",
+    "interpretation": "Praises grand natural scenery, often extending to mean the land of one’s country looks beautifully composed. Emphasizes harmonious, painterly vistas.",
+    "simplification": "畫→画 in 如畫→如画 to reduce strokes via character simplification; 江山 unchanged."
   },
   "parts": [
     {
-      "char": "江",
-      "trad": "江",
-      "pinyin": "jiāng",
-      "english": "river; large river; the Yangtze; stream"
+      "char": "江山",
+      "trad": "江山",
+      "pinyin": "jiāngshān",
+      "english": "rivers and mountains; landscape; country; realm"
     },
     {
-      "char": "山",
-      "trad": "山",
-      "pinyin": "shān",
-      "english": "mountain; hill; peak; range"
-    },
-    {
-      "char": "如",
-      "trad": "如",
-      "pinyin": "rú",
-      "english": "like; as; if; in accordance with"
-    },
-    {
-      "char": "画",
-      "trad": "畫",
-      "pinyin": "huà",
-      "english": "to draw; painting; picture; to delineate"
+      "char": "如画",
+      "trad": "如畫",
+      "pinyin": "rúhuà",
+      "english": "like a painting; picturesque"
     }
   ],
   "examples": [
     {
-      "chinese": "雨后群山云雾缭绕(雨後群山雲霧繚繞)，江山如画(江山如畫)。",
-      "pinyin": "Yǔ hòu qúnshān yúnwù liáorào, jiāngshān rúhuà.",
-      "english": "After the rain, mists coil around the hills; the land looks like a painting."
+      "chinese": "我们沿着湖边行走(我們沿著湖邊行走)，所见江山如画(所見江山如畫)。",
+      "pinyin": "Wǒmen yánzhe húbiān xíngzǒu, suǒ jiàn jiāngshān rúhuà.",
+      "english": "We walked along the lakeside, and the scenery we saw was as picturesque as a painting."
     },
     {
-      "chinese": "站在城楼远眺(站在城樓遠眺)，祖国的江山如画(祖國的江山如畫)。",
-      "pinyin": "Zhàn zài chénglóu yuǎntiào, zǔguó de jiāngshān rúhuà.",
-      "english": "From the city tower, gazing afar, the motherland’s landscape is picturesque."
+      "chinese": "春日登高远望(春日登高遠望)，江山如画(江山如畫)。",
+      "pinyin": "Chūnrì dēnggāo yuǎnwàng, jiāngshān rúhuà.",
+      "english": "In spring, climbing high and gazing into the distance, the landscape looks like a painting."
     },
     {
-      "chinese": "秋高气爽(秋高氣爽)，河谷层林尽染(河谷層林盡染)，真是江山如画(真是江山如畫)。",
-      "pinyin": "Qiūgāo qìshuǎng, hégǔ cénglín jìn rǎn, zhēn shì jiāngshān rúhuà.",
-      "english": "In the crisp autumn air, the river valley’s layered forests are dyed with color—truly picturesque."
+      "chinese": "艺术家在作品中描绘出江山如画的祖国(藝術家在作品中描繪出江山如畫的祖國)。",
+      "pinyin": "Yìshùjiā zài zuòpǐn zhōng miáohuì chū jiāngshān rúhuà de zǔguó.",
+      "english": "The artist depicts a motherland of picturesque rivers and mountains in the work."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

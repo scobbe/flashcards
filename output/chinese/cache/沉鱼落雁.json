@@ -4,52 +4,41 @@
   "pinyin": "chén yú luò yàn",
   "english": "beauty that sinks fish and makes birds fall",
   "etymology": {
-    "type": "four-character idiom (成语)",
-    "description": "沉鱼 (sink fish) + 落雁 (make geese fall) = hyperbolic praise for breathtaking female beauty.",
-    "interpretation": "Classical, flowery compliment drawn from legends of beauties whose looks made fish sink and wild geese fall. Used to laud a woman's extraordinary appearance; not typically used for men.",
-    "simplification": "Only 鱼 was simplified (魚→鱼) to reduce strokes; other characters unchanged."
+    "type": "idiom (chengyu; compound)",
+    "description": "沉鱼 (sink fish) + 落雁 (falling geese) = beauty so stunning that fish dive and geese drop.",
+    "interpretation": "Hyperbolic praise for extraordinary feminine beauty; often paired with 闭月羞花 and linked to legendary beauties Xi Shi (沉鱼) and Wang Zhaojun (落雁).",
+    "simplification": "魚 → 鱼 in PRC simplification to reduce strokes; 沉 and 落雁 unchanged."
   },
   "parts": [
     {
-      "char": "沉",
-      "trad": "沉",
-      "pinyin": "chén",
-      "english": "to sink; to submerge; deep; heavy"
+      "char": "沉鱼",
+      "trad": "沉魚",
+      "pinyin": "chén yú",
+      "english": "sinking fish; to make fish dive (by stunning beauty)"
     },
     {
-      "char": "鱼",
-      "trad": "魚",
-      "pinyin": "yú",
-      "english": "fish; fish (as food); aquatic creature; to fish"
-    },
-    {
-      "char": "落",
-      "trad": "落",
-      "pinyin": "luò",
-      "english": "to fall; to drop; to decline; to set (of sun)"
-    },
-    {
-      "char": "雁",
-      "trad": "雁",
-      "pinyin": "yàn",
-      "english": "wild goose; swan goose; migratory bird; goose"
+      "char": "落雁",
+      "trad": "落雁",
+      "pinyin": "luò yàn",
+      "english": "falling wild geese; to make geese fall (by stunning beauty)"
     }
   ],
   "examples": [
     {
-      "chinese": "她容貌沉鱼落雁(她容貌沉魚落雁)。",
-      "pinyin": "Tā róngmào chényú luòyàn.",
-      "english": "Her looks are breathtakingly beautiful."
+      "chinese": "她的美貌可谓沉鱼落雁(她的美貌可謂沉魚落雁)。",
+      "pinyin": "Tā de měimào kěwèi chén yú luò yàn.",
+      "english": "Her beauty could be described as so stunning that fish sink and geese fall."
     },
     {
-      "chinese": "古人以西施、王昭君的美貌为沉鱼落雁(古人以西施、王昭君的美貌為沉魚落雁)。",
-      "pinyin": "Gǔrén yǐ Xīshī, Wáng Zhāojūn de měimào wéi chényú luòyàn.",
-      "english": "In antiquity, the beauty of Xi Shi and Wang Zhaojun was described as making fish sink and geese fall."
+      "chinese": "古人用沉鱼落雁来称颂绝色女子(古人用沉魚落雁來稱頌絕色女子)。",
+      "pinyin": "Gǔrén yòng chén yú luò yàn lái chēngsòng juésè nǚzǐ.",
+      "english": "The ancients used ‘chén yú luò yàn’ to praise women of peerless beauty."
     },
     {
-      "chinese": "这个词带有夸张和文雅的色彩，多用于称赞女子容貌(這個詞帶有誇張和文雅的色彩，多用於稱讚女子容貌)。",
-      "pinyin": "Zhège cí dàiyǒu kuāzhāng hé wényǎ de sècǎi, duō yòngyú chēngzàn nǚzǐ róngmào.",
-      "english": "The term is hyperbolic and literary, mostly used to praise a woman's appearance."
+      "chinese": "这幅画把女子画得有沉鱼落雁之姿(這幅畫把女子畫得有沉魚落雁之姿)。",
+      "pinyin": "Zhè fú huà bǎ nǚzǐ huà de yǒu chén yú luò yàn zhī zī.",
+      "english": "This painting portrays the woman with beauty said to sink fish and fell geese."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

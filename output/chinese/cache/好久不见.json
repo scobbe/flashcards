@@ -4,52 +4,41 @@
   "pinyin": "hǎojiǔ bújiàn",
   "english": "long time no see",
   "etymology": {
-    "type": "compound word",
-    "description": "好 good + 久 long (time) + 不 not + 见 see = haven’t seen for a long time.",
-    "interpretation": "Expresses that people have not seen each other for a long period; used as a friendly greeting upon meeting again.",
-    "simplification": "见 is the simplified form of 見, reduced to fewer strokes during script reform to ease writing of this high-frequency verb."
+    "type": "set phrase (colloquial greeting)",
+    "description": "好久 (long time) + 不见 (not see) = haven't seen for a long time.",
+    "interpretation": "Used as a friendly greeting when meeting someone after a long interval. Its structure also inspired the English calque “long time no see.”",
+    "simplification": "見 was simplified to 见 in the character reform to reduce strokes; the rest is unchanged."
   },
   "parts": [
     {
-      "char": "好",
-      "trad": "好",
-      "pinyin": "hǎo",
-      "english": "good; well; fine; to like"
+      "char": "好久",
+      "trad": "好久",
+      "pinyin": "hǎojiǔ",
+      "english": "a long time; quite a while; ages (colloq)"
     },
     {
-      "char": "久",
-      "trad": "久",
-      "pinyin": "jiǔ",
-      "english": "long (time); for a long time; long-standing; a long while"
-    },
-    {
-      "char": "不",
-      "trad": "不",
-      "pinyin": "bù",
-      "english": "not; no; un-; negative marker"
-    },
-    {
-      "char": "见",
-      "trad": "見",
-      "pinyin": "jiàn",
-      "english": "to see; to meet; to appear; to perceive"
+      "char": "不见",
+      "trad": "不見",
+      "pinyin": "bújiàn",
+      "english": "not see; be missing; disappear; not to be visible"
     }
   ],
   "examples": [
     {
-      "chinese": "好久不见(好久不見)。",
-      "pinyin": "Hǎojiǔ bújiàn.",
-      "english": "Long time no see."
+      "chinese": "好久不见，我们改天聚一聚。(好久不見，我們改天聚一聚)。",
+      "pinyin": "Hǎojiǔ bújiàn, wǒmen gǎitiān jù yí jù.",
+      "english": "Long time no see; let’s get together another day."
     },
     {
-      "chinese": "好久不见(好久不見)，我们去喝杯咖啡吧(我們去喝杯咖啡吧)。",
-      "pinyin": "Hǎojiǔ bújiàn, wǒmen qù hē bēi kāfēi ba.",
-      "english": "Long time no see, let's grab a coffee."
+      "chinese": "我在机场遇到老同学，第一句话就是“好久不见”。(我在機場遇到老同學，第一句話就是「好久不見」。)",
+      "pinyin": "Wǒ zài jīchǎng yùdào lǎo tóngxué, dì yī jù huà jiùshì “hǎojiǔ bújiàn”.",
+      "english": "I ran into an old classmate at the airport, and the first thing I said was “long time no see.”"
     },
     {
-      "chinese": "大家好久不见(大家好久不見)，都变得更成熟了(都變得更成熟了)。",
-      "pinyin": "Dàjiā hǎojiǔ bújiàn, dōu biàn de gèng chéngshú le.",
-      "english": "We all haven’t seen each other for a long time; everyone has become more mature."
+      "chinese": "好久不见的朋友终于回国了，大家都很开心。(好久不見的朋友終於回國了，大家都很開心)。",
+      "pinyin": "Hǎojiǔ bújiàn de péngyǒu zhōngyú huíguó le, dàjiā dōu hěn kāixīn.",
+      "english": "A friend I hadn’t seen in ages finally returned to the country, and everyone was very happy."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

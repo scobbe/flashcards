@@ -5,45 +5,40 @@
   "english": "showroom",
   "etymology": {
     "type": "compound word",
-    "description": "样板(樣板, model; template) + 间(間, room) = model room/showroom.",
-    "interpretation": "Refers to a model room arranged to display layout, decor, or products, especially a show flat in real-estate sales offices. Lets customers experience the look and feel before deciding to buy.",
-    "simplification": "樣 → 样 simplified by streamlining the right component; 間 → 间 by replacing 門 with 门 and simplifying the interior; 板 unchanged. Overall stroke reduction under PRC simplification."
+    "description": "样板 + 间 = model/sample + room → model room/showroom.",
+    "interpretation": "Refers to a fully furnished model room or apartment set up to display layout, finishes, and style for prospective buyers. Common in real-estate sales centers and furniture displays.",
+    "simplification": "PRC character simplification for high‑frequency characters to reduce strokes and speed writing: 樣→样, 間→间; 板 unchanged."
   },
   "parts": [
     {
-      "char": "样",
-      "trad": "樣",
-      "pinyin": "yàng",
-      "english": "appearance; pattern; kind/type; sample"
-    },
-    {
-      "char": "板",
-      "trad": "板",
-      "pinyin": "bǎn",
-      "english": "board; plank; slab; stiff"
+      "char": "样板",
+      "trad": "樣板",
+      "pinyin": "yàngbǎn",
+      "english": "sample; model; template; pattern"
     },
     {
       "char": "间",
       "trad": "間",
       "pinyin": "jiān",
-      "english": "room; between; space; interval"
+      "english": "room; space; between; classifier for rooms"
     }
   ],
   "examples": [
     {
-      "chinese": "周末我们去参观新楼盘的样板间(週末我們去參觀新樓盤的樣板間)。",
-      "pinyin": "Zhōumò wǒmen qù cānguān xīn lóupán de yàngbǎnjiān.",
-      "english": "We’re going to visit the new development’s showroom this weekend."
+      "chinese": "我们去样板间看户型和装修(我們去樣板間看戶型和裝修)。",
+      "pinyin": "Wǒmen qù yàngbǎnjiān kàn hùxíng hé zhuāngxiū.",
+      "english": "We went to the showroom to look at the layout and finishes."
     },
     {
-      "chinese": "销售顾问在样板间介绍户型和装修(銷售顧問在樣板間介紹戶型和裝修)。",
-      "pinyin": "Xiāoshòu gùwèn zài yàngbǎnjiān jièshào hùxíng hé zhuāngxiū.",
-      "english": "The sales consultant introduces the floor plans and finishes in the showroom."
+      "chinese": "房地产公司用样板间展示风格和材料(房地產公司用樣板間展示風格和材料)。",
+      "pinyin": "Fángdìchǎn gōngsī yòng yàngbǎnjiān zhǎnshì fēnggé hé cáiliào.",
+      "english": "Real estate companies use model rooms to showcase styles and materials."
     },
     {
-      "chinese": "通过样板间(通過樣板間)，买家可以更直观地了解未来的居住空间(買家可以更直觀地了解未來的居住空間)。",
-      "pinyin": "Tōngguò yàngbǎnjiān, mǎijiā kěyǐ gèng zhíguān de liǎojiě wèilái de jūzhù kōngjiān.",
-      "english": "Through the showroom, buyers can more intuitively understand their future living space."
+      "chinese": "样板间里的家具可能与交付标准不同(樣板間裡的家具可能與交付標準不同)。",
+      "pinyin": "Yàngbǎnjiān lǐ de jiājù kěnéng yǔ jiāofù biāozhǔn bùtóng.",
+      "english": "The furniture in the showroom may differ from the delivery standard."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

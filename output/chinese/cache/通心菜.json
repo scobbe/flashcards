@@ -5,45 +5,40 @@
   "english": "water spinach",
   "etymology": {
     "type": "compound word",
-    "description": "通(through) + 心(center) + 菜(vegetable) = vegetable with a hollow center (water spinach).",
-    "interpretation": "Literally ‘through-heart vegetable,’ pointing to its hollow stems. 通心 here means ‘hollow-tubed,’ as in 通心粉 (hollow pasta), so the name highlights the plant’s tube-like stalks.",
+    "description": "通心 (through-core; hollow-core) + 菜 (vegetable) = hollow-core vegetable → water spinach.",
+    "interpretation": "Named for its hollow, tubular stems: “through-core vegetable.” Often used interchangeably with 空心菜 in Mandarin and related to Cantonese 通菜.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "通",
-      "trad": "通",
-      "pinyin": "tōng",
-      "english": "go through; communicate; open/unobstructed; expert"
-    },
-    {
-      "char": "心",
-      "trad": "心",
-      "pinyin": "xīn",
-      "english": "heart; mind; core; intention"
+      "char": "通心",
+      "trad": "通心",
+      "pinyin": "tōngxīn",
+      "english": "through the core; hollow-core; tubular; open-passage"
     },
     {
       "char": "菜",
       "trad": "菜",
       "pinyin": "cài",
-      "english": "vegetable; dish; cuisine; greens"
+      "english": "vegetable; greens; dish; cuisine"
     }
   ],
   "examples": [
     {
-      "chinese": "今天买了一把通心菜(今天買了一把通心菜)。",
-      "pinyin": "jīntiān mǎi le yì bǎ tōngxīncài.",
-      "english": "I bought a bunch of water spinach today."
+      "chinese": "我喜欢吃清炒通心菜(我喜歡吃清炒通心菜)。",
+      "pinyin": "Wǒ xǐhuān chī qīngchǎo tōngxīncài.",
+      "english": "I like to eat stir-fried water spinach."
     },
     {
-      "chinese": "通心菜的茎是中空的，所以容易入味(通心菜的莖是中空的，所以容易入味)。",
-      "pinyin": "tōngxīncài de jīng shì zhōngkōng de, suǒyǐ róngyì rùwèi.",
-      "english": "The stems are hollow, so flavors seep in easily."
+      "chinese": "通心菜的茎是空心的(通心菜的莖是空心的)。",
+      "pinyin": "Tōngxīncài de jīng shì kōngxīn de.",
+      "english": "The stems of water spinach are hollow."
     },
     {
-      "chinese": "我最爱清炒蒜蓉通心菜(我最愛清炒蒜蓉通心菜)。",
-      "pinyin": "wǒ zuì ài qīngchǎo suànróng tōngxīncài.",
-      "english": "I love stir-fried water spinach with garlic."
+      "chinese": "今天市场有新鲜的通心菜(今天市場有新鮮的通心菜)。",
+      "pinyin": "Jīntiān shìchǎng yǒu xīnxiān de tōngxīncài.",
+      "english": "The market has fresh water spinach today."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

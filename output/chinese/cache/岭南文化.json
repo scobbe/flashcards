@@ -5,51 +5,40 @@
   "english": "Lingnan culture",
   "etymology": {
     "type": "compound word",
-    "description": "岭(嶺 ‘mountain ridge’) + 南 (‘south’) → 岭南 ‘south of the ranges/Lingnan’; 文化 (‘culture’) → cultural traditions of Lingnan.",
-    "interpretation": "Refers to the cultural traditions of the Lingnan region south of the Nanling ranges, chiefly Guangdong, Guangxi, and Hainan. Highlights maritime openness and Cantonese, Hakka, and Teochew influences.",
-    "simplification": "嶺 → 岭 by replacing the phonetic 領 with 令 under the mountain radical to reduce strokes; 南, 文, 化 unchanged."
+    "description": "岭南 + 文化 = culture of the Lingnan region.",
+    "interpretation": "Refers to the cultural traditions and practices of the Lingnan region, mainly Guangdong, Guangxi, and Hainan. Shaped by a subtropical climate, maritime exchange, and the fusion of Han and local ethnic heritages.",
+    "simplification": "嶺→岭: the complex right component 領 was reduced to its phonetic 令 while retaining the mountain radical 山, cutting strokes and regularizing the form."
   },
   "parts": [
     {
-      "char": "岭",
-      "trad": "嶺",
-      "pinyin": "lǐng",
-      "english": "mountain ridge; mountain range; mountain pass; hill"
+      "char": "岭南",
+      "trad": "嶺南",
+      "pinyin": "Lǐngnán",
+      "english": "south of the mountain ridges; Lingnan region of South China"
     },
     {
-      "char": "南",
-      "trad": "南",
-      "pinyin": "nán",
-      "english": "south; southern; to the south of; southward"
-    },
-    {
-      "char": "文",
-      "trad": "文",
-      "pinyin": "wén",
-      "english": "writing; literature; culture; civil"
-    },
-    {
-      "char": "化",
-      "trad": "化",
-      "pinyin": "huà",
-      "english": "to transform; change; -ization; to influence"
+      "char": "文化",
+      "trad": "文化",
+      "pinyin": "wénhuà",
+      "english": "culture; civilization; cultural; education"
     }
   ],
   "examples": [
     {
-      "chinese": "岭南文化跨越广东、广西与海南(嶺南文化跨越廣東、廣西與海南)。",
-      "pinyin": "Lǐngnán wénhuà kuàyuè Guǎngdōng, Guǎngxī yǔ Hǎinán.",
-      "english": "Lingnan culture spans Guangdong, Guangxi, and Hainan."
+      "chinese": "岭南文化融合了中原与海洋元素(嶺南文化融合了中原與海洋元素)。",
+      "pinyin": "Lǐngnán wénhuà rónghé le Zhōngyuán yǔ hǎiyáng yuánsù.",
+      "english": "Lingnan culture blends Central Plains and maritime elements."
     },
     {
-      "chinese": "海上贸易和亚热带环境影响了它的建筑、饮食与音乐(海上貿易和亞熱帶環境影響了它的建築、飲食與音樂)。",
-      "pinyin": "Hǎishàng màoyì hé yàrèdài huánjìng yǐngxiǎng le tā de jiànzhù, yǐnshí yǔ yīnyuè.",
-      "english": "Maritime trade and the subtropical environment have influenced its architecture, cuisine, and music."
+      "chinese": "我们在广州的博物馆研究岭南文化(我們在廣州的博物館研究嶺南文化)。",
+      "pinyin": "Wǒmen zài Guǎngzhōu de bówùguǎn yánjiū Lǐngnán wénhuà.",
+      "english": "We study Lingnan culture at a museum in Guangzhou."
     },
     {
-      "chinese": "在现代城市中，岭南文化通过龙舟、粤剧和园林继续传承(在現代城市中，嶺南文化通過龍舟、粵劇和園林繼續傳承)。",
-      "pinyin": "Zài xiàndài chéngshì zhōng, Lǐngnán wénhuà tōngguò lóngzhōu, Yuèjù hé yuánlín jìxù chuánchéng.",
-      "english": "In modern cities, Lingnan culture continues through dragon boat races, Cantonese opera, and classical gardens."
+      "chinese": "岭南文化的建筑以骑楼和镬耳屋著称(嶺南文化的建築以騎樓和鑊耳屋著稱)。",
+      "pinyin": "Lǐngnán wénhuà de jiànzhù yǐ qílóu hé huò'ěr wū zhùchēng.",
+      "english": "The architecture of Lingnan culture is known for arcade buildings and wok-ear gables."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

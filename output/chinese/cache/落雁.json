@@ -1,0 +1,44 @@
+{
+  "simplified": "落雁",
+  "traditional": "落雁",
+  "pinyin": "luò yàn",
+  "english": "falling wild geese; to make geese fall (by stunning beauty)",
+  "etymology": {
+    "type": "compound word",
+    "description": "落 ‘descend; fall’ + 雁 ‘wild goose’ = geese descending; by extension, beauty that makes geese fall.",
+    "interpretation": "Literally depicts wild geese coming down from the sky. Figuratively praises striking feminine beauty, as in the idiom 沉鱼落雁.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "落",
+      "trad": "落",
+      "pinyin": "luò",
+      "english": "to fall; to drop; to descend; to land"
+    },
+    {
+      "char": "雁",
+      "trad": "雁",
+      "pinyin": "yàn",
+      "english": "wild goose; goose; migratory goose"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "黄昏时(黃昏時)，天边落雁成行(天邊落雁成行)。",
+      "pinyin": "Huánghūn shí, tiānbiān luòyàn chéngháng.",
+      "english": "At dusk, lines of geese descend along the horizon."
+    },
+    {
+      "chinese": "她有落雁之姿(她有落雁之姿)，被赞为绝色(被讚為絕色)。",
+      "pinyin": "Tā yǒu luòyàn zhī zī, bèi zàn wéi juésè.",
+      "english": "She has a beauty that could make geese fall and is praised as stunning."
+    },
+    {
+      "chinese": "这款妆容主打“沉鱼落雁”的古典风格(這款妝容主打「沉魚落雁」的古典風格)。",
+      "pinyin": "Zhè kuǎn zhuāngróng zhǔdǎ “chényú luòyàn” de gǔdiǎn fēnggé.",
+      "english": "This makeup look highlights the classical style of “sinking fish and falling geese.”"
+    }
+  ],
+  "in_contemporary_usage": true
+}

@@ -4,52 +4,41 @@
   "pinyin": "Méngtèlì'ěr",
   "english": "Montreal",
   "etymology": {
-    "type": "phonetic transliteration (proper noun)",
-    "description": "Phonetic rendering: Méng + tè + lì + ěr ≈ “Montreal.”",
-    "interpretation": "Chinese transliteration of the Canadian city name “Montreal,” chosen to approximate its pronunciation. Characters are selected for sound; their individual meanings are incidental.",
-    "simplification": "Only 爾 → 尔 was simplified to reduce strokes and standardize form; 蒙、特、利 remain the same."
+    "type": "phonetic transliteration",
+    "description": "Phonetic transliteration: Méngtè + Lì'ěr ≈ “Montreal”.",
+    "interpretation": "A Mandarin rendering of the English/French city name Montreal, chosen to approximate its pronunciation. Characters are selected for sound rather than meaning.",
+    "simplification": "尔 is the simplified form of 爾; Mainland usage standardizes 尔 for the -ěr sound in transliterations to reduce strokes."
   },
   "parts": [
     {
-      "char": "蒙",
-      "trad": "蒙",
-      "pinyin": "Méng",
-      "english": "to cover; ignorant; to receive (favor); Mongolia (abbr.)"
+      "char": "蒙特",
+      "trad": "蒙特",
+      "pinyin": "Méngtè",
+      "english": "phonetic ‘Mont-’"
     },
     {
-      "char": "特",
-      "trad": "特",
-      "pinyin": "tè",
-      "english": "special; particular; especially; express (train)"
-    },
-    {
-      "char": "利",
-      "trad": "利",
-      "pinyin": "lì",
-      "english": "benefit; profit; sharp; favorable"
-    },
-    {
-      "char": "尔",
-      "trad": "爾",
-      "pinyin": "ěr",
-      "english": "you (classical); thus/so; that; suffix"
+      "char": "利尔",
+      "trad": "利爾",
+      "pinyin": "Lì'ěr",
+      "english": "phonetic ‘-real/-riel’"
     }
   ],
   "examples": [
     {
-      "chinese": "蒙特利尔位于加拿大魁北克省的西南部(蒙特利爾位於加拿大魁北克省的西南部)。",
-      "pinyin": "Méngtèlì'ěr wèiyú Jiānádà Kuíběikè shěng de xīnánbù.",
-      "english": "Montreal is located in the southwestern part of Quebec, Canada."
+      "chinese": "我去年去过蒙特利尔(我去年去過蒙特利爾)。",
+      "pinyin": "Wǒ qùnián qùguò Méngtèlì'ěr.",
+      "english": "I visited Montreal last year."
     },
     {
-      "chinese": "冬天的蒙特利尔常常下大雪(冬天的蒙特利爾常常下大雪)。",
-      "pinyin": "Dōngtiān de Méngtèlì'ěr chángcháng xià dàxuě.",
-      "english": "Montreal often gets heavy snow in winter."
+      "chinese": "蒙特利尔的冬天很冷(蒙特利爾的冬天很冷)。",
+      "pinyin": "Méngtèlì'ěr de dōngtiān hěn lěng.",
+      "english": "Winters in Montreal are very cold."
     },
     {
-      "chinese": "我们计划明年去蒙特利尔旅游(我們計劃明年去蒙特利爾旅遊)。",
-      "pinyin": "Wǒmen jìhuà míngnián qù Méngtèlì'ěr lǚyóu.",
-      "english": "We plan to travel to Montreal next year."
+      "chinese": "她来自蒙特利尔(她來自蒙特利爾)。",
+      "pinyin": "Tā láizì Méngtèlì'ěr.",
+      "english": "She is from Montreal."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

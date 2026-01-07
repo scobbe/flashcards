@@ -1,0 +1,30 @@
+{
+  "simplified": "佛教",
+  "traditional": "佛教",
+  "pinyin": "fójiào",
+  "english": "Buddhism; Buddhist teachings; Buddhist religion; Buddhist doctrine",
+  "etymology": {
+    "type": "compound word",
+    "description": "佛 (Buddha) + 教 (teachings; religion) = Buddhist religion/teachings.",
+    "interpretation": "Combines 佛 (Buddha) with 教 (religion/teachings) to denote Buddhism as both doctrine and organized religion. Used for the faith, its teachings, institutions, and related matters.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他研究佛教历史(他研究佛教歷史)。",
+      "pinyin": "Tā yánjiū Fójiào lìshǐ.",
+      "english": "He studies the history of Buddhism."
+    },
+    {
+      "chinese": "这座寺庙属于佛教禅宗(這座寺廟屬於佛教禪宗)。",
+      "pinyin": "Zhè zuò sìmiào shǔyú Fójiào Chánzōng.",
+      "english": "This temple belongs to the Chan school of Buddhism."
+    },
+    {
+      "chinese": "她在大学选修佛教哲学(她在大學選修佛教哲學)。",
+      "pinyin": "Tā zài dàxué xuǎnxiū Fójiào zhéxué.",
+      "english": "She is taking Buddhist philosophy as an elective at university."
+    }
+  ],
+  "in_contemporary_usage": true
+}

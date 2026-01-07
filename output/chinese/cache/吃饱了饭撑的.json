@@ -5,63 +5,40 @@
   "english": "have nothing better to do",
   "etymology": {
     "type": "colloquial idiom",
-    "description": "吃 + 饱(了) + 饭 + 撑 + 的 = so full from a meal that one is 'propped up'/overstuffed → idle meddling, nothing better to do.",
-    "interpretation": "Pejorative way to say someone is fussing or meddling because they're overfed and bored. Often used to scold needless or time-wasting behavior.",
-    "simplification": "饱、饭 use the simplified food radical 饣 (for 飠); 撑 simplifies 撐 by replacing the complex right side with the phonetic 争; 吃、了、的 unchanged."
+    "description": "吃饱了饭 + 撑的 = overstuffed and idle ⇒ doing pointless things.",
+    "interpretation": "Colloquial scold implying someone is so well‑fed and idle that they fuss over meaningless things. 撑 highlights being stuffed to discomfort, extended to boredom-induced meddling.",
+    "simplification": "飽→饱 and 飯→饭 use the simplified food radical 饣; 撐→撑 replaces a complex phonetic with 争 for fewer strokes. The phrase’s meaning is unchanged; only characters were streamlined."
   },
   "parts": [
     {
-      "char": "吃",
-      "trad": "吃",
-      "pinyin": "chī",
-      "english": "to eat; to consume; to suffer (endure); to erode"
+      "char": "吃饱了饭",
+      "trad": "吃飽了飯",
+      "pinyin": "chī bǎo le fàn",
+      "english": "after eating one’s fill; be full from a meal; having just eaten"
     },
     {
-      "char": "饱",
-      "trad": "飽",
-      "pinyin": "bǎo",
-      "english": "full (after eating); satiated; replete; to satisfy"
-    },
-    {
-      "char": "了",
-      "trad": "了",
-      "pinyin": "le",
-      "english": "completed-action particle; change-of-state particle; (modal) particle; to finish"
-    },
-    {
-      "char": "饭",
-      "trad": "飯",
-      "pinyin": "fàn",
-      "english": "meal; cooked rice; food; diet"
-    },
-    {
-      "char": "撑",
-      "trad": "撐",
-      "pinyin": "chēng",
-      "english": "to prop up; to support; to hold up; to overstuff"
-    },
-    {
-      "char": "的",
-      "trad": "的",
-      "pinyin": "de",
-      "english": "structural particle; possessive marker; nominalizer; modifier marker"
+      "char": "撑的",
+      "trad": "撐的",
+      "pinyin": "chēng de",
+      "english": "so stuffed (from eating); overfull; propped/held up; (de: structural particle forming an adjectival phrase)"
     }
   ],
   "examples": [
     {
-      "chinese": "你这是吃饱了饭撑的吧(你這是吃飽了飯撐的吧)。",
-      "pinyin": "Nǐ zhè shì chī bǎo le fàn chēng de ba.",
-      "english": "Are you doing this just because you’re overfed and bored?"
+      "chinese": "你这么折腾(你這麼折騰)，简直是吃饱了饭撑的(簡直是吃飽了飯撐的)。",
+      "pinyin": "Nǐ zhème zhēteng, jiǎnzhí shì chī bǎo le fàn chēng de.",
+      "english": "You’re fussing around—this is exactly what people do when they’re too full and idle."
     },
     {
-      "chinese": "少管闲事(少管閒事)，别老是吃饱了饭撑的(別老是吃飽了飯撐的)。",
-      "pinyin": "Shǎo guǎn xiánshì, bié lǎo shì chī bǎo le fàn chēng de.",
-      "english": "Mind your own business; stop wasting time with pointless stuff."
+      "chinese": "闲得无聊才去挑别人的毛病(閒得無聊才去挑別人的毛病)，真是吃饱了饭撑的(真是吃飽了飯撐的)。",
+      "pinyin": "Xián de wúliáo cái qù tiāo biérén de máobìng, zhēn shì chī bǎo le fàn chēng de.",
+      "english": "Only someone bored out of their mind would nitpick others—clearly has nothing better to do."
     },
     {
-      "chinese": "你成天挑别人毛病(你成天挑別人毛病)，简直是吃饱了饭撑的(簡直是吃飽了飯撐的)。",
-      "pinyin": "Nǐ chéngtiān tiāo biérén máobìng, jiǎnzhí shì chī bǎo le fàn chēng de.",
-      "english": "You nitpick all day—clearly just have nothing better to do."
+      "chinese": "他一天到晚发无意义的帖子(他一天到晚發無意義的帖子)，看来是吃饱了饭撑的(看來是吃飽了飯撐的)。",
+      "pinyin": "Tā yītiān dào wǎn fā wú yìyì de tiězi, kànlái shì chī bǎo le fàn chēng de.",
+      "english": "He posts pointless stuff all day long—looks like he’s just bored and killing time."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

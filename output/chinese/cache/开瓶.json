@@ -1,0 +1,30 @@
+{
+  "simplified": "开瓶",
+  "traditional": "開瓶",
+  "pinyin": "kāipíng",
+  "english": "open bottles; uncap; remove bottle cap; unseal a bottle",
+  "etymology": {
+    "type": "verb-object compound",
+    "description": "开 + 瓶 = open + bottle → to open/uncap a bottle.",
+    "interpretation": "Verb–object phrase meaning to remove a bottle’s cap or seal. Used with drinks and in set terms like 开瓶费 (corkage).",
+    "simplification": "Only 开 was simplified (開 → 开) to reduce strokes for faster writing; 瓶 is unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "服务员可以帮我们开瓶吗(服務員可以幫我們開瓶嗎)？",
+      "pinyin": "Fúwùyuán kěyǐ bāng wǒmen kāipíng ma?",
+      "english": "Could the waiter help us open the bottle?"
+    },
+    {
+      "chinese": "开瓶后请冷藏(開瓶後請冷藏)。",
+      "pinyin": "Kāipíng hòu qǐng lěngcáng.",
+      "english": "Refrigerate after opening."
+    },
+    {
+      "chinese": "本店收取开瓶费(本店收取開瓶費)。",
+      "pinyin": "Běndiàn shōuqǔ kāipíngfèi.",
+      "english": "This establishment charges a corkage fee."
+    }
+  ],
+  "in_contemporary_usage": true
+}

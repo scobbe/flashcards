@@ -5,45 +5,40 @@
   "english": "strongman",
   "etymology": {
     "type": "compound word",
-    "description": "大 (great) + 力 (strength) + 士 (person) = person of great strength (strongman).",
-    "interpretation": "Denotes a person characterized by exceptional physical power, akin to a strongman. 士 serves as a noun-forming suffix meaning 'person'.",
+    "description": "大力 + 士 = person of great strength.",
+    "interpretation": "Denotes someone possessing exceptional physical power, like a circus strongman or weightlifter. Can also be used figuratively for someone who can take on heavy responsibilities.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "big; great; major; very"
-    },
-    {
-      "char": "力",
-      "trad": "力",
-      "pinyin": "lì",
-      "english": "strength; power; force; effort"
+      "char": "大力",
+      "trad": "大力",
+      "pinyin": "dàlì",
+      "english": "great strength; with great force; vigorously; strongly"
     },
     {
       "char": "士",
       "trad": "士",
       "pinyin": "shì",
-      "english": "scholar; gentleman; soldier; man"
+      "english": "man; person; specialist; warrior"
     }
   ],
   "examples": [
     {
-      "chinese": "他是村里的大力士(他是村裡的大力士)，能举起很重的石头(能舉起很重的石頭)。",
-      "pinyin": "Tā shì cūn lǐ de dàlìshì, néng jǔ qǐ hěn zhòng de shítou.",
-      "english": "He is the village strongman and can lift very heavy stones."
+      "chinese": "那位大力士在马戏团里举起了巨大的杠铃(那位大力士在馬戲團裡舉起了巨大的槓鈴)。",
+      "pinyin": "Nà wèi dàlìshì zài mǎxìtuán lǐ jǔqǐ le jùdà de gànglíng.",
+      "english": "That strongman lifted a huge barbell in the circus."
     },
     {
-      "chinese": "在杂技表演中(在雜技表演中)，大力士展示惊人的臂力(大力士展示驚人的臂力)。",
-      "pinyin": "Zài zájì biǎoyǎn zhōng, dàlìshì zhǎnshì jīngrén de bìlì.",
-      "english": "In acrobatic shows, the strongman displays astonishing arm strength."
+      "chinese": "他从小就被称为大力士(他從小就被稱為大力士)。",
+      "pinyin": "Tā cóng xiǎo jiù bèi chēngwéi dàlìshì.",
+      "english": "He has been called a strongman since childhood."
     },
     {
-      "chinese": "他从小就练习举重(他從小就練習舉重)，梦想成为世界级的大力士(夢想成為世界級的大力士)。",
-      "pinyin": "Tā cóng xiǎo jiù liànxí jǔzhòng, mèngxiǎng chéngwéi shìjiè jí de dàlìshì.",
-      "english": "Since childhood he has practiced weightlifting, dreaming of becoming a world-class strongman."
+      "chinese": "公司需要一个推进项目的“大力士”(公司需要一個推進項目的「大力士」)。",
+      "pinyin": "Gōngsī xūyào yí gè tuījìn xiàngmù de “dàlìshì”.",
+      "english": "The company needs a ‘strongman’ to push the project forward."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

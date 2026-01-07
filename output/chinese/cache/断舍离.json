@@ -5,45 +5,46 @@
   "english": "decluttering; minimalism",
   "etymology": {
     "type": "compound word",
-    "description": "断(refuse) + 舍(discard) + 离(detach) = decluttering/minimalism.",
-    "interpretation": "Emphasizes refusing new clutter, discarding excess, and detaching from attachment to possessions. Promotes a mindful, minimalist lifestyle born from the principle of reduction.",
-    "simplification": "斷→断与離→离通过减笔与整字简化降低笔画；捨→舍以现成的“舍”兼任“捨”的写法以统一并简便书写，整体提高书写与印刷效率。"
+    "description": "断 'refuse' + 舍 'discard' + 离 'separate' = deliberate decluttering and detachment",
+    "interpretation": "Borrowed from Japanese 断捨離, it advocates refusing unnecessary inputs, discarding excess, and separating from attachment to live minimally.",
+    "simplification": "All three characters are simplified: 斷→断, 捨→舍, 離→离; stroke counts were reduced to speed writing by dropping or streamlining complex components."
   },
   "parts": [
     {
       "char": "断",
       "trad": "斷",
       "pinyin": "duàn",
-      "english": "break;cut off;sever;decide"
+      "english": "to cut off; to sever; to refuse; to stop"
     },
     {
       "char": "舍",
       "trad": "捨",
       "pinyin": "shě",
-      "english": "discard;give up;abandon;let go"
+      "english": "to discard; to give up; to abandon; to let go"
     },
     {
       "char": "离",
       "trad": "離",
       "pinyin": "lí",
-      "english": "leave;separate;distance;be apart from"
+      "english": "to separate; to leave; to part from; to distance from"
     }
   ],
   "examples": [
     {
-      "chinese": "我最近在练习断舍离(我最近在練習斷捨離)，清掉了很多旧衣服(清掉了很多舊衣服)。",
-      "pinyin": "Wǒ zuìjìn zài liànxí duànshělí, qīng diàole hěn duō jiù yīfú.",
-      "english": "I’ve been practicing decluttering recently and cleared out many old clothes."
+      "chinese": "我开始断舍离(我開始斷捨離)。",
+      "pinyin": "Wǒ kāishǐ duànshělí.",
+      "english": "I started practicing decluttering/minimalism."
     },
     {
-      "chinese": "断是拒绝不需要的东西(斷是拒絕不需要的東西)，舍是丢弃多余物品(捨是丟棄多餘物品)，离是从执念中抽离(離是從執念中抽離)。",
-      "pinyin": "Duàn shì jùjué bù xūyào de dōngxī, shě shì diūqì duōyú wùpǐn, lí shì cóng zhíniàn zhōng chōulí.",
-      "english": "Duan means refusing what isn’t needed, She means discarding excess items, and Li means detaching from fixation."
+      "chinese": "清理杂物后(清理雜物後)，家里更整洁(家裡更整潔)。",
+      "pinyin": "Qīnglǐ záwù hòu, jiālǐ gèng zhěngjié.",
+      "english": "After clearing clutter, the home is tidier."
     },
     {
-      "chinese": "通过断舍离(通過斷捨離)，我的房间变得更清爽(我的房間變得更清爽)，也更容易打扫(也更容易打掃)。",
-      "pinyin": "Tōngguò duànshělí, wǒ de fángjiān biàn de gèng qīngshuǎng, yě gèng róngyì dǎsǎo.",
-      "english": "Through Danshari, my room became fresher and easier to clean."
+      "chinese": "断舍离帮助我专注重要的事(斷捨離幫助我專注重要的事)。",
+      "pinyin": "Duànshělí bāngzhù wǒ zhuānzhù zhòngyào de shì.",
+      "english": "Minimalism helps me focus on what matters."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

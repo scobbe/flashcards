@@ -5,52 +5,40 @@
   "english": "Mao Zedong Thought",
   "etymology": {
     "type": "compound word",
-    "description": "毛泽东(Mao Zedong) + 思想(thought) = Mao Zedong Thought",
-    "interpretation": "Refers to the body of political theory attributed to Mao Zedong and developed within the Chinese Communist Party, especially during the revolutionary period and early PRC. Often associated with ideas such as the mass line, people’s war, and continuous revolution under proletarian dictatorship.",
-    "simplification": "澤→泽 and 東→东 were simplified to reduce stroke counts in PRC script reform; 毛、思、想 unchanged."
+    "description": "毛泽东 (Mao Zedong) + 思想 (thought; ideology) = Mao Zedong Thought.",
+    "interpretation": "Names the ideological system attributed to Mao Zedong, foundational in PRC political discourse. Often appears in formulations such as “马克思列宁主义、毛泽东思想”.",
+    "simplification": "Proper-name characters were simplified in PRC orthography: 澤→泽, 東→东; 思想 unchanged. The simplifications reduce stroke count and standardize writing; traditional form 毛澤東思想 remains in Taiwan/HK."
   },
   "parts": [
     {
-      "char": "毛",
-      "trad": "毛",
-      "pinyin": "máo",
-      "english": "hair; fur; coarse; tenth of a yuan"
+      "char": "毛泽东",
+      "trad": "毛澤東",
+      "pinyin": "Máo Zédōng",
+      "english": "Mao Zedong"
     },
     {
-      "char": "泽",
-      "trad": "澤",
-      "pinyin": "zé",
-      "english": "marsh; moisture; favor; luster"
-    },
-    {
-      "char": "东",
-      "trad": "東",
-      "pinyin": "dōng",
-      "english": "east; eastern; Orient; eastward"
-    },
-    {
-      "char": "思",
-      "trad": "思",
-      "pinyin": "sī",
-      "english": "think; consider; long for; thought"
-    },
-    {
-      "char": "想",
-      "trad": "想",
-      "pinyin": "xiǎng",
-      "english": "think; want; miss; suppose"
+      "char": "思想",
+      "trad": "思想",
+      "pinyin": "sīxiǎng",
+      "english": "thought; ideology; philosophy; doctrine"
     }
   ],
   "examples": [
     {
-      "chinese": "毛泽东思想是中国共产党指导思想之一(毛澤東思想是中國共產黨指導思想之一)。",
-      "pinyin": "Máo Zédōng Sīxiǎng shì Zhōngguó Gòngchǎndǎng zhǐdǎo sīxiǎng zhī yī.",
-      "english": "Mao Zedong Thought is one of the guiding ideologies of the Communist Party of China."
+      "chinese": "毛泽东思想对中国政治产生了深远影响(毛澤東思想對中國政治產生了深遠影響)。",
+      "pinyin": "Máo Zédōng Sīxiǎng duì Zhōngguó zhèngzhì chǎnshēng le shēnyuǎn yǐngxiǎng.",
+      "english": "Mao Zedong Thought has had a profound impact on Chinese politics."
     },
     {
-      "chinese": "学者研究其形成背景与历史影响(學者研究其形成背景與歷史影響)。",
-      "pinyin": "Xuézhě yánjiū qí xíngchéng bèijǐng yǔ lìshǐ yǐngxiǎng.",
-      "english": "Scholars study its formative context and historical influence."
+      "chinese": "许多课程讨论毛泽东思想的历史地位(許多課程討論毛澤東思想的歷史地位)。",
+      "pinyin": "Xǔduō kèchéng tǎolùn Máo Zédōng Sīxiǎng de lìshǐ dìwèi.",
+      "english": "Many courses discuss the historical status of Mao Zedong Thought."
+    },
+    {
+      "chinese": "这本书系统阐述了毛泽东思想(這本書系統闡述了毛澤東思想)。",
+      "pinyin": "Zhè běn shū xìtǒng chǎnshù le Máo Zédōng Sīxiǎng.",
+      "english": "This book systematically expounds Mao Zedong Thought."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

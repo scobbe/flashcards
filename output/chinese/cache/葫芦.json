@@ -1,0 +1,30 @@
+{
+  "simplified": "葫芦",
+  "traditional": "葫蘆",
+  "pinyin": "húlu",
+  "english": "gourd; calabash; bottle gourd; gourd-shaped object",
+  "etymology": {
+    "type": "echo compound (联绵词)",
+    "description": "hú + lu (phonetic-echo binome) = bottle gourd.",
+    "interpretation": "Names the bottle gourd and, by extension, gourd-shaped containers or objects; often seen in folk and Daoist contexts as a vessel for liquids or medicine. Also appears in idioms like 照葫芦画瓢 to mean copying by example.",
+    "simplification": "Traditional 葫蘆 was simplified to 葫芦 by reducing 蘆 → 芦 (component 盧 → 卢 under the 1956 scheme); 葫 stayed the same."
+  },
+  "examples": [
+    {
+      "chinese": "桌上摆着一个葫芦(桌上擺著一個葫蘆)，装着自酿的酒(裝著自釀的酒)。",
+      "pinyin": "Zhuō shàng bǎizhe yí gè húlu, zhuāngzhe zìniàng de jiǔ.",
+      "english": "There is a gourd on the table holding homemade liquor."
+    },
+    {
+      "chinese": "道士腰间常挂葫芦(道士腰間常掛葫蘆)，用来装药酒(用來裝藥酒)。",
+      "pinyin": "Dàoshi yāojiān cháng guà húlu, yòng lái zhuāng yàojiǔ.",
+      "english": "Daoist priests often hang a gourd at the waist to carry medicinal wine."
+    },
+    {
+      "chinese": "他照葫芦画瓢(他照葫蘆畫瓢)，做了个差不多的模型(做了個差不多的模型)。",
+      "pinyin": "Tā zhào húlu huà piáo, zuò le gè chàbuduō de móxíng.",
+      "english": "He copied the example and made a roughly similar model."
+    }
+  ],
+  "in_contemporary_usage": true
+}

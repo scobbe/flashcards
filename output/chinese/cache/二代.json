@@ -1,0 +1,30 @@
+{
+  "simplified": "二代",
+  "traditional": "二代",
+  "pinyin": "èrdài",
+  "english": "second generation; children; offspring; successor generation",
+  "etymology": {
+    "type": "compound word",
+    "description": "二(=第二) + 代(一代/世代) = second generation; successor generation.",
+    "interpretation": "Refers to the second generation of a family, group, or product; often used as a suffix in compounds like 移民二代 or 富二代. Can broadly mean the offspring or successor cohort that follows the first generation.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他是艺术家的二代(他是藝術家的二代)，继承了家族的天赋(繼承了家族的天賦)。",
+      "pinyin": "Tā shì yìshùjiā de èrdài, jìchéngle jiāzú de tiānfù.",
+      "english": "He is the second generation of artists and has inherited the family's talent."
+    },
+    {
+      "chinese": "这家公司在二代接班后发展更快(這家公司在二代接班後發展更快)。",
+      "pinyin": "Zhè jiā gōngsī zài èrdài jiēbān hòu fāzhǎn gèng kuài.",
+      "english": "After the second generation took over, the company grew faster."
+    },
+    {
+      "chinese": "移民二代在两种文化中成长(移民二代在兩種文化中成長)。",
+      "pinyin": "Yímín èrdài zài liǎng zhǒng wénhuà zhōng chéngzhǎng.",
+      "english": "Second-generation immigrants grow up between two cultures."
+    }
+  ],
+  "in_contemporary_usage": true
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "之意",
+  "traditional": "之意",
+  "pinyin": "zhī yì",
+  "english": "intention (of); purpose; meaning; mind",
+  "etymology": {
+    "type": "compound word",
+    "description": "之 (possessive/linker) + 意 (meaning; intention) = ‘the meaning/intention of (something)’",
+    "interpretation": "Classical-style noun phrase where 之 marks possession or linkage, yielding ‘the meaning/intention of X’. Often follows a noun or clause in formal/literary Chinese to express attribution.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我无嘲讽之意(我無嘲諷之意)。",
+      "pinyin": "Wǒ wú cháofěng zhī yì.",
+      "english": "I mean no sarcasm."
+    },
+    {
+      "chinese": "此言并无冒犯之意(此言並無冒犯之意)。",
+      "pinyin": "Cǐ yán bìng wú màofàn zhī yì.",
+      "english": "These words carry no intent to offend."
+    },
+    {
+      "chinese": "他的沉默似有拒绝之意(他的沉默似有拒絕之意)。",
+      "pinyin": "Tā de chénmò sì yǒu jùjué zhī yì.",
+      "english": "His silence seems to suggest a refusal."
+    }
+  ],
+  "in_contemporary_usage": true
+}

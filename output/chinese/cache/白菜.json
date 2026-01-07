@@ -1,0 +1,30 @@
+{
+  "simplified": "白菜",
+  "traditional": "白菜",
+  "pinyin": "báicài",
+  "english": "Chinese cabbage;napa cabbage;white cabbage;general term for cabbages",
+  "etymology": {
+    "type": "compound word",
+    "description": "白 ‘white’ + 菜 ‘vegetable’ = white/pale-stalked cabbage; general term for cabbages.",
+    "interpretation": "Names the pale-stalked cabbage common in North China, often referring to napa/Chinese cabbage. In broader or casual use, can serve as a generic for cabbages.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我买了一棵白菜(我買了一棵白菜)。",
+      "pinyin": "Wǒ mǎile yì kē báicài.",
+      "english": "I bought a head of Chinese cabbage."
+    },
+    {
+      "chinese": "冬天吃炖白菜最暖和(冬天吃燉白菜最暖和)。",
+      "pinyin": "Dōngtiān chī dùn báicài zuì nuǎnhuo.",
+      "english": "Eating stewed cabbage in winter is the warmest."
+    },
+    {
+      "chinese": "这里的白菜很便宜(這裡的白菜很便宜)。",
+      "pinyin": "Zhèlǐ de báicài hěn piányí.",
+      "english": "The cabbage here is very cheap."
+    }
+  ],
+  "in_contemporary_usage": true
+}

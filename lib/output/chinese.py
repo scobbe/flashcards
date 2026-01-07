@@ -250,17 +250,22 @@ def _write_complete_cache(
     components: Optional[List[Tuple[str, str, str, str]]] = None,
     character_breakdown: Optional[List[Tuple[str, str, str, str]]] = None,
     examples: Optional[List[Tuple[str, str, str]]] = None,
+    in_contemporary_usage: bool = True,
     verbose: bool = False,
 ) -> None:
-    """Write complete cache entry with all data. Only writes if examples exist."""
+    """Write complete cache entry with all data.
+
+    Examples are required for words in contemporary usage.
+    For archaic/rare characters not in contemporary usage, examples are optional.
+    """
     # Check for error state in etymology
     if etymology and etymology.get("error"):
         print(f"[cache] [ERROR] Not caching {word} - API error: {etymology.get('error')}")
         return
 
     if not examples:
-        # This is an error state - API should always return examples for valid characters
-        print(f"[cache] [ERROR] Not caching {word} - no examples returned (possible API failure)")
+        # This is an error state - API should always return examples (contemporary usage gets normal examples, non-contemporary gets name/place examples)
+        print(f"[cache] [ERROR] Not caching {word} - no examples returned (API may have failed to generate examples)")
         return
 
     cache_data: Dict = {
@@ -268,6 +273,7 @@ def _write_complete_cache(
         "traditional": traditional,
         "pinyin": pinyin,
         "english": english,
+        "in_contemporary_usage": in_contemporary_usage,
     }
 
     if etymology:
@@ -321,14 +327,15 @@ def generate_card_content(
     wiktionary_etymology: Optional[str] = None,
     model: Optional[str] = None,
     verbose: bool = False,
-) -> Tuple[Dict[str, str], List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]], bool]:
+) -> Tuple[Dict[str, str], List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]], bool, bool]:
     """Generate all card content in a single API call.
 
-    Returns (etymology_dict, components, character_breakdown, examples, from_cache).
+    Returns (etymology_dict, components, character_breakdown, examples, in_contemporary_usage, from_cache).
     - etymology_dict: {type, description, interpretation}
     - components: For single chars, list of (simp, trad, pinyin, english) component tuples
     - character_breakdown: For multi-char words, list of (simp, trad, pinyin, english) for each char
     - examples: list of (chinese, pinyin, english) example sentence tuples
+    - in_contemporary_usage: True if word is used in modern Chinese, False if archaic/rare
     - from_cache: True if data was loaded from cache, False if newly generated
     """
     word = simplified or traditional
@@ -337,8 +344,9 @@ def generate_card_content(
 
     # Check cache first - must have ALL required fields
     cached = _read_cache(word, verbose=verbose)
-    required_fields = ["etymology", "examples", "pinyin", "english"]
-    if cached is not None and all(f in cached for f in required_fields):
+    required_fields = ["etymology", "pinyin", "english", "examples"]
+    if cached is not None and all(f in cached for f in required_fields) and cached.get("examples"):
+        in_contemporary = cached.get("in_contemporary_usage", True)  # Default to True for old cache entries
         etymology, parts = _read_etymology_from_cache(cached)
         # For single chars: parts are components; for multi-char: parts are character breakdown
         if is_single:
@@ -356,7 +364,7 @@ def generate_card_content(
                     ex.get("pinyin", ""),
                     ex.get("english", ""),
                 ))
-        return etymology, components, char_breakdown, examples, True  # from_cache=True
+        return etymology, components, char_breakdown, examples, in_contemporary, True  # from_cache=True
 
     client = OpenAIClient(model=model)
 
@@ -369,7 +377,8 @@ def generate_card_content(
 - interpretation: Your own 2-3 sentence explanation based on the description. Don't start with "The character..."
 - simplification: Why this was simplified (intuition/reasoning), or "none" if traditional = simplified
 - parts: array of component chars [{char, trad, pinyin, english}], standalone chars only (not radicals like 氵), exclude headword
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 or 秋收时(秋收時)，农夫割草(農夫割草)。"""
+- in_contemporary_usage: boolean - true if this character is commonly used in modern Chinese (news, daily conversation, textbooks); false if archaic, literary-only, rare variant, or only appears in names/places
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 If in_contemporary_usage is false, provide examples using place names, personal names, or historical/literary references where this character appears."""
         user = f"Character: {simplified}"
         if traditional and traditional != simplified:
             user += f" (trad: {traditional})"
@@ -382,8 +391,11 @@ def generate_card_content(
 - description: Brief word formation (e.g. "X + Y = meaning")
 - interpretation: 1-2 sentences, don't start with "The word..."
 - simplification: Why this word was simplified (intuition), or "none" if traditional = simplified
-- parts: array of character breakdown [{char, trad, pinyin, english}], each char's pinyin (tone marks) and up to 4 meanings (semicolon-separated)
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 or 秋收时(秋收時)，农夫割草(農夫割草)。"""
+- parts: array of MORPHEME breakdown [{char, trad, pinyin, english}]. IMPORTANT: Split into meaningful subwords, NOT individual characters!
+  Examples: 燕麦粥 → [燕麦, 粥] not [燕, 麦, 粥]; 电影明星 → [电影, 明星] not [电, 影, 明, 星]; 菠萝包 → [菠萝, 包] not [菠, 萝, 包]
+  Each part: pinyin with tone marks, up to 4 meanings (semicolon-separated)
+- in_contemporary_usage: boolean - true if this word is commonly used in modern Chinese (news, daily conversation, textbooks); false if archaic, literary-only, rare variant, or only appears in names/places
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 If in_contemporary_usage is false, provide examples using place names, personal names, or historical/literary references where this word appears."""
         user = f"Word: {simplified}"
         if traditional and traditional != simplified:
             user += f" (trad: {traditional})"
@@ -401,7 +413,12 @@ def generate_card_content(
         if not data or data == {}:
             print(f"[chinese] [ERROR] API returned empty response for {simplified}")
             # Return error indicator in etymology
-            return {"error": f"API returned empty response for {simplified}"}, [], [], [], False
+            return {"error": f"API returned empty response for {simplified}"}, [], [], [], True, False
+
+        # Parse in_contemporary_usage (default to True for safety)
+        in_contemporary_usage = data.get("in_contemporary_usage", True)
+        if isinstance(in_contemporary_usage, str):
+            in_contemporary_usage = in_contemporary_usage.lower() in ("true", "yes", "1")
 
         # Parse etymology (includes simplification reasoning)
         simplification = str(data.get("simplification", "")).strip()
@@ -444,12 +461,12 @@ def generate_card_content(
                 if ch:
                     examples.append((ch, pin, eng))
 
-        return etymology, components, char_breakdown, examples, False  # from_cache=False
+        return etymology, components, char_breakdown, examples, in_contemporary_usage, False  # from_cache=False
 
     except Exception as e:
         if verbose:
             print(f"[chinese] [error] Failed to generate content for {simplified}: {e}")
-        return {}, [], [], [], False
+        return {}, [], [], [], True, False
 
 
 def _write_single_card(
@@ -608,7 +625,7 @@ def _generate_recursive_component_cards(
         wiki_ety = fetch_wiktionary_etymology(comp_simp, comp_trad, verbose=verbose)
 
         # Generate all content in single API call
-        comp_etymology, sub_components, _, comp_examples, from_cache = generate_card_content(
+        comp_etymology, sub_components, _, comp_examples, comp_in_contemporary, from_cache = generate_card_content(
             comp_simp, comp_trad, comp_pin, comp_eng,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
@@ -625,7 +642,7 @@ def _generate_recursive_component_cards(
             _write_complete_cache(
                 comp_simp, comp_simp, comp_trad, comp_pin, comp_eng,
                 etymology=comp_etymology, components=sub_components, examples=comp_examples,
-                verbose=verbose,
+                in_contemporary_usage=comp_in_contemporary, verbose=verbose,
             )
 
         # Current breadcrumbs for this component (include traditional)
@@ -716,17 +733,21 @@ def write_card_md(
         )
         subcomponent_errors = comp_errors
     elif len(cjk_chars) > 1 and characters:
-        # Multi-character word: recurse into each character
+        # Multi-character word: recurse into each morpheme/character
         for ch_simp, ch_trad, ch_pin, ch_eng in characters:
             if ch_simp in visited:
                 continue
             visited.add(ch_simp)
 
-            # Fetch Wiktionary etymology for this character (simplified and traditional)
+            # Check if this morpheme is single or multi-character
+            morpheme_cjk = [c for c in ch_simp if is_cjk_char(c)]
+            is_single_char_morpheme = len(morpheme_cjk) == 1
+
+            # Fetch Wiktionary etymology for this morpheme (simplified and traditional)
             ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
 
             # Generate all content in single API call
-            ch_etymology, ch_components, _, ch_examples, from_cache = generate_card_content(
+            ch_etymology, ch_components, ch_char_breakdown, ch_examples, ch_in_contemporary, from_cache = generate_card_content(
                 ch_simp, ch_trad, ch_pin, ch_eng,
                 wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
             )
@@ -741,36 +762,91 @@ def write_card_md(
             if not from_cache:
                 _write_complete_cache(
                     ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
-                    etymology=ch_etymology, components=ch_components, examples=ch_examples,
-                    verbose=verbose,
+                    etymology=ch_etymology,
+                    components=ch_components if is_single_char_morpheme else None,
+                    character_breakdown=ch_char_breakdown if not is_single_char_morpheme else None,
+                    examples=ch_examples,
+                    in_contemporary_usage=ch_in_contemporary, verbose=verbose,
                 )
 
-            # Breadcrumbs for this character (include traditional)
-            char_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
+            # Breadcrumbs for this morpheme (include traditional)
+            morpheme_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
 
-            # Write card for this character (as sub-card)
+            # Write card for this morpheme (as sub-card)
             _write_single_card(
                 parts,
                 simplified=ch_simp,
                 traditional=ch_trad,
                 pinyin=ch_pin,
                 english=ch_eng,
-                components=ch_components if ch_components else None,
+                characters=ch_char_breakdown if not is_single_char_morpheme else None,
+                components=ch_components if is_single_char_morpheme else None,
                 etymology=ch_etymology if ch_etymology else None,
                 examples=ch_examples if ch_examples else None,
                 is_subcard=True,
                 breadcrumbs=initial_breadcrumb,  # Show parent (the word)
             )
 
-            # Recursively process this character's components
-            if ch_components:
+            # Recursively process based on morpheme type
+            if is_single_char_morpheme and ch_components:
+                # Single character morpheme: recurse into its components
                 _generate_recursive_component_cards(
                     parts, ch_components, model, visited, depth=2, max_depth=5, verbose=verbose,
-                    breadcrumbs=char_breadcrumbs,
+                    breadcrumbs=morpheme_breadcrumbs,
                     out_dir=out_dir,
                     parent_word=word,
                     errors=subcomponent_errors,
                 )
+            elif not is_single_char_morpheme and ch_char_breakdown:
+                # Multi-character morpheme (like 燕麦): recurse into each character
+                for sub_simp, sub_trad, sub_pin, sub_eng in ch_char_breakdown:
+                    if sub_simp in visited:
+                        continue
+                    visited.add(sub_simp)
+
+                    # Fetch Wiktionary for this sub-character
+                    sub_wiki_ety = fetch_wiktionary_etymology(sub_simp, sub_trad, verbose=verbose)
+
+                    # Generate content for sub-character
+                    sub_etymology, sub_components, _, sub_examples, sub_in_contemporary, sub_from_cache = generate_card_content(
+                        sub_simp, sub_trad, sub_pin, sub_eng,
+                        wiktionary_etymology=sub_wiki_ety, model=model, verbose=verbose
+                    )
+
+                    # Cache if newly generated
+                    if not sub_from_cache:
+                        _write_complete_cache(
+                            sub_simp, sub_simp, sub_trad, sub_pin, sub_eng,
+                            etymology=sub_etymology, components=sub_components, examples=sub_examples,
+                            in_contemporary_usage=sub_in_contemporary, verbose=verbose,
+                        )
+
+                    # Breadcrumbs for this sub-character
+                    sub_breadcrumbs = morpheme_breadcrumbs + [(sub_simp, sub_trad)]
+
+                    # Write card for sub-character
+                    _write_single_card(
+                        parts,
+                        simplified=sub_simp,
+                        traditional=sub_trad,
+                        pinyin=sub_pin,
+                        english=sub_eng,
+                        components=sub_components if sub_components else None,
+                        etymology=sub_etymology if sub_etymology else None,
+                        examples=sub_examples if sub_examples else None,
+                        is_subcard=True,
+                        breadcrumbs=morpheme_breadcrumbs,
+                    )
+
+                    # Recurse into sub-character's components
+                    if sub_components:
+                        _generate_recursive_component_cards(
+                            parts, sub_components, model, visited, depth=3, max_depth=5, verbose=verbose,
+                            breadcrumbs=sub_breadcrumbs,
+                            out_dir=out_dir,
+                            parent_word=word,
+                            errors=subcomponent_errors,
+                        )
 
     # Add footer for main card (reverse side reference) after all recursive content
     # Format: ---, Chinese, Pinyin, ---, English
@@ -838,7 +914,7 @@ def process_chinese_row(
 
         # Generate all content in single API call (etymology, components/characters, examples)
         input_examples = phrase if phrase and phrase.strip() and phrase.strip().lower() != "none" else None
-        etymology, components, characters, examples, from_cache = generate_card_content(
+        etymology, components, characters, examples, in_contemporary, from_cache = generate_card_content(
             simp, trad, pin, eng, input_examples=input_examples,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
@@ -848,7 +924,7 @@ def process_chinese_row(
             _write_complete_cache(
                 simp or headword, simp or headword, trad or headword, pin, eng,
                 etymology=etymology, components=components, character_breakdown=characters,
-                examples=examples, verbose=verbose,
+                examples=examples, in_contemporary_usage=in_contemporary, verbose=verbose,
             )
 
         # Write card (handles recursive component generation internally)

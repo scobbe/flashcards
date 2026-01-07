@@ -5,28 +5,22 @@
   "english": "vaginitis",
   "etymology": {
     "type": "compound word",
-    "description": "阴道 + 炎 = inflammation of the vaginal canal.",
-    "interpretation": "Refers to inflammation of the vagina or vaginal canal, often due to infection, irritation, or imbalance. Used as a medical diagnosis term.",
-    "simplification": "Only 陰 was simplified to 阴, replacing the complex phonetic 侌 with 月 to reduce strokes and echo the ‘moon/yin’ association; 道 and 炎 are unchanged."
+    "description": "阴道 + 炎 = inflammation of the vagina.",
+    "interpretation": "Literally “vaginal inflammation,” a standard medical formation where 炎 functions like the -itis suffix. Indicates inflammatory conditions of the vaginal canal, regardless of cause.",
+    "simplification": "Only 陰 was simplified to 阴 by reducing strokes in the right-side component; 道 and 炎 are unchanged. The form streamlines writing while preserving pronunciation and meaning."
   },
   "parts": [
     {
-      "char": "阴",
-      "trad": "陰",
-      "pinyin": "yīn",
-      "english": "yin; shady; overcast; hidden"
-    },
-    {
-      "char": "道",
-      "trad": "道",
-      "pinyin": "dào",
-      "english": "way; path; doctrine; to say"
+      "char": "阴道",
+      "trad": "陰道",
+      "pinyin": "yīndào",
+      "english": "vagina; vaginal canal"
     },
     {
       "char": "炎",
       "trad": "炎",
       "pinyin": "yán",
-      "english": "inflammation; flame; hot; burning"
+      "english": "inflammation; -itis; flame; blaze"
     }
   ],
   "examples": [
@@ -36,14 +30,15 @@
       "english": "She was diagnosed with vaginitis."
     },
     {
-      "chinese": "阴道炎可能引起瘙痒和异常分泌物(陰道炎可能引起搔癢和異常分泌物)。",
-      "pinyin": "Yīndàoyán kěnéng yǐnqǐ sàoyǎng hé yìcháng fēnmìwù.",
-      "english": "Vaginitis may cause itching and abnormal discharge."
+      "chinese": "医生建议她使用抗炎药并注意卫生(醫生建議她使用抗炎藥並注意衛生)。",
+      "pinyin": "Yīshēng jiànyì tā shǐyòng kàngyán yào bìng zhùyì wèishēng.",
+      "english": "The doctor advised her to use anti-inflammatory medicine and pay attention to hygiene."
     },
     {
-      "chinese": "医生建议使用抗真菌药物治疗阴道炎(醫生建議使用抗真菌藥物治療陰道炎)。",
-      "pinyin": "Yīshēng jiànyì shǐyòng kàng zhēnjūn yàowù zhìliáo yīndàoyán.",
-      "english": "The doctor recommended treating vaginitis with antifungal medication."
+      "chinese": "若症状持续，应及时就医(若症狀持續，應及時就醫)。",
+      "pinyin": "Ruò zhèngzhuàng chíxù, yīng jíshí jiùyī.",
+      "english": "If symptoms persist, seek medical care promptly."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

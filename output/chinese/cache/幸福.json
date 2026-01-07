@@ -1,0 +1,30 @@
+{
+  "simplified": "幸福",
+  "traditional": "幸福",
+  "pinyin": "xìngfú",
+  "english": "happiness; well-being; bliss; contentment",
+  "etymology": {
+    "type": "compound word",
+    "description": "幸 (good fortune) + 福 (blessing) = happiness; well-being.",
+    "interpretation": "Combines the idea of being fortunate with received blessings, conveying a state of lasting well-being and contentment.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "她追求简单的生活(她追求簡單的生活)，就能感到幸福(就能感到幸福)。",
+      "pinyin": "Tā zhuīqiú jiǎndān de shēnghuó, jiù néng gǎndào xìngfú.",
+      "english": "She pursues a simple life and can feel happiness."
+    },
+    {
+      "chinese": "家人的支持(家人的支持)，让他觉得很幸福(讓他覺得很幸福)。",
+      "pinyin": "Jiārén de zhīchí, ràng tā juéde hěn xìngfú.",
+      "english": "Support from family makes him feel very happy."
+    },
+    {
+      "chinese": "祝你们永远幸福美满(祝你們永遠幸福美滿)。",
+      "pinyin": "Zhù nǐmen yǒngyuǎn xìngfú měimǎn.",
+      "english": "Wishing you everlasting happiness and a perfect union."
+    }
+  ],
+  "in_contemporary_usage": true
+}

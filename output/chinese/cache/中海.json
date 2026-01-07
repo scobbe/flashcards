@@ -1,0 +1,30 @@
+{
+  "simplified": "中海",
+  "traditional": "中海",
+  "pinyin": "Zhōnghǎi",
+  "english": "Middle/Central Lake (in Beijing’s imperial park); Zhonghai",
+  "etymology": {
+    "type": "compound word",
+    "description": "中 (middle/central) + 海 (sea/large lake) = the central lake among Beijing’s “Three Seas.”",
+    "interpretation": "Specifically names the middle of the three connected lakes (Beihai, Zhonghai, Nanhai) in central Beijing. Today it lies within the Zhongnanhai leadership compound and is not generally open to the public.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "中海位于中南海景区内(中海位於中南海景區內)，是三海之一(是三海之一)。",
+      "pinyin": "Zhōnghǎi wèi yú Zhōngnánhǎi jǐngqū nèi, shì Sānhǎi zhī yī.",
+      "english": "Zhonghai is located within the Zhongnanhai area and is one of the Three Seas."
+    },
+    {
+      "chinese": "游客不能随意进入中海附近的区域(遊客不能隨意進入中海附近的區域)，因为这里是重要的党政机关所在地(因為這裡是重要的黨政機關所在地)。",
+      "pinyin": "Yóukè bù néng suíyì jìnrù Zhōnghǎi fùjìn de qūyù, yīnwèi zhèlǐ shì zhòngyào de dǎngzhèng jīguān suǒzàidì.",
+      "english": "Visitors cannot freely enter the area near Zhonghai because it houses important party and government offices."
+    },
+    {
+      "chinese": "北京的三海——北海、中海、南海——历史上属于皇家园林(北京的三海——北海、中海、南海——歷史上屬於皇家園林)。",
+      "pinyin": "Běijīng de Sānhǎi——Běihǎi, Zhōnghǎi, Nánhǎi——lìshǐ shàng shǔyú huángjiā yuánlín.",
+      "english": "Beijing’s Three Seas—Beihai, Zhonghai, and Nanhai—historically belonged to the imperial gardens."
+    }
+  ],
+  "in_contemporary_usage": true
+}

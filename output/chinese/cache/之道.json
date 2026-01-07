@@ -1,0 +1,30 @@
+{
+  "simplified": "之道",
+  "traditional": "之道",
+  "pinyin": "zhī dào",
+  "english": "the way of...; doctrine; method; principles",
+  "etymology": {
+    "type": "classical construction",
+    "description": "之 (genitive ‘of’) + 道 (way; doctrine) = ‘the way/principles of …’.",
+    "interpretation": "Classical genitive pattern meaning “the way of X,” often used to state principles, methods, or doctrines in an elevated style. A topic or domain precedes 之道 (e.g., 学习之道) to express its guiding method or principles.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "学习之道在于坚持(學習之道在於堅持)。",
+      "pinyin": "xuéxí zhī dào zàiyú jiānchí.",
+      "english": "The way of learning lies in perseverance."
+    },
+    {
+      "chinese": "处世之道贵在谦和(處世之道貴在謙和)。",
+      "pinyin": "chǔshì zhī dào guì zài qiānhé.",
+      "english": "The way to conduct oneself in society values humility and harmony."
+    },
+    {
+      "chinese": "治国之道应以民为本(治國之道應以民為本)。",
+      "pinyin": "zhìguó zhī dào yīng yǐ mín wéi běn.",
+      "english": "The principles of governing should put the people first."
+    }
+  ],
+  "in_contemporary_usage": true
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "电话",
+  "traditional": "電話",
+  "pinyin": "diànhuà",
+  "english": "telephone; phone; phone call",
+  "etymology": {
+    "type": "compound word",
+    "description": "电 ‘electricity’ + 话 ‘speech/words’ = electric speech → telephone/phone call.",
+    "interpretation": "A modern Sino-Japanese coinage (電話, denwa) adopted into Chinese, literally ‘electric speech’. Highlights speech transmitted via electricity; in use it can mean both the device and a call.",
+    "simplification": "Both characters were simplified in PRC reforms to reduce strokes and speed writing: 電 → 电 by compressing the lightning/rain elements; 話 → 话 by reducing 言 to 讠 and streamlining the right-side component."
+  },
+  "examples": [
+    {
+      "chinese": "他给我打电话(他給我打電話)。",
+      "pinyin": "Tā gěi wǒ dǎ diànhuà.",
+      "english": "He gave me a call."
+    },
+    {
+      "chinese": "请接一下电话(請接一下電話)。",
+      "pinyin": "Qǐng jiē yíxià diànhuà.",
+      "english": "Please pick up the phone."
+    },
+    {
+      "chinese": "我忘了带手机，只能用办公室的电话(我忘了帶手機，只能用辦公室的電話)。",
+      "pinyin": "Wǒ wàng le dài shǒujī, zhǐnéng yòng bàngōngshì de diànhuà.",
+      "english": "I forgot my cell phone, so I can only use the office phone."
+    }
+  ],
+  "in_contemporary_usage": true
+}

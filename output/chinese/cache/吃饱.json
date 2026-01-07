@@ -1,0 +1,30 @@
+{
+  "simplified": "吃饱",
+  "traditional": "吃飽",
+  "pinyin": "chī bǎo",
+  "english": "eat to fullness; be full; have eaten enough",
+  "etymology": {
+    "type": "resultative compound",
+    "description": "吃(eat) + 饱(full) = eat to fullness; be full.",
+    "interpretation": "Indicates the action of eating has reached the result of being full, i.e., having eaten enough. Common in patterns like 吃饱了/没吃饱 to state completion or lack thereof.",
+    "simplification": "飽 → 饱 by simplifying the 飠/食 radical to 饣; 吃 is unchanged. Standard radical reduction in Simplified Chinese."
+  },
+  "examples": [
+    {
+      "chinese": "我已经吃饱了(我已經吃飽了)。",
+      "pinyin": "Wǒ yǐjīng chī bǎo le.",
+      "english": "I’m already full."
+    },
+    {
+      "chinese": "中午没吃饱(中午沒吃飽)，下午很快又饿了(下午很快又餓了)。",
+      "pinyin": "Zhōngwǔ méi chī bǎo, xiàwǔ hěn kuài yòu è le.",
+      "english": "I didn’t eat enough at noon, and I got hungry again in the afternoon."
+    },
+    {
+      "chinese": "他吃饱了就去散步(他吃飽了就去散步)。",
+      "pinyin": "Tā chī bǎo le jiù qù sànbù.",
+      "english": "After he ate his fill, he went for a walk."
+    }
+  ],
+  "in_contemporary_usage": true
+}

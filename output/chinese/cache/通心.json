@@ -1,0 +1,30 @@
+{
+  "simplified": "通心",
+  "traditional": "通心",
+  "pinyin": "tōngxīn",
+  "english": "hollow; through the center; tube-shaped; hollow-centered",
+  "etymology": {
+    "type": "compound word",
+    "description": "通 (pass through; open) + 心 (heart; core) = passes through the core → hollow/tube-shaped.",
+    "interpretation": "Literally “through the core,” it labels objects with a hole running through the center. Often used attributively in compounds like 通心粉 for macaroni.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这包通心粉够四个人吃(這包通心粉夠四個人吃)。",
+      "pinyin": "Zhè bāo tōngxīn fěn gòu sì gè rén chī.",
+      "english": "This bag of macaroni is enough for four people."
+    },
+    {
+      "chinese": "管子必须是通心的，才能穿过钢丝(管子必須是通心的，才能穿過鋼絲)。",
+      "pinyin": "Guǎnzi bìxū shì tōngxīn de, cáinéng chuānguò gāngsī.",
+      "english": "The tube must be hollow-centered to thread the steel wire through."
+    },
+    {
+      "chinese": "珠子要用通心的，才能串线(珠子要用通心的，才能串線)。",
+      "pinyin": "Zhūzi yào yòng tōngxīn de, cáinéng chuàn xiàn.",
+      "english": "You need beads with a hole through the center to string them."
+    }
+  ],
+  "in_contemporary_usage": true
+}

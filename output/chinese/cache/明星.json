@@ -1,0 +1,30 @@
+{
+  "simplified": "明星",
+  "traditional": "明星",
+  "pinyin": "míngxīng",
+  "english": "star (celebrity); famous person; idol; luminary",
+  "etymology": {
+    "type": "compound word",
+    "description": "明 ‘bright; famous’ + 星 ‘star’ = celebrity; luminary (lit. bright star).",
+    "interpretation": "Literally “bright star.” By extension, someone who stands out in the public eye, especially in entertainment or sports.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "她是一位国际知名的电影明星(她是一位國際知名的電影明星)。",
+      "pinyin": "Tā shì yí wèi guójì zhīmíng de diànyǐng míngxīng.",
+      "english": "She is an internationally renowned movie star."
+    },
+    {
+      "chinese": "他从普通演员成长为一线明星(他從普通演員成長為一線明星)。",
+      "pinyin": "Tā cóng pǔtōng yǎnyuán chéngzhǎng wéi yīxiàn míngxīng.",
+      "english": "He rose from an ordinary actor to a top-tier celebrity."
+    },
+    {
+      "chinese": "清晨东方的天空出现了一颗明亮的明星(清晨東方的天空出現了一顆明亮的明星)。",
+      "pinyin": "Qīngchén dōngfāng de tiānkōng chūxiàn le yì kē míngliàng de míngxīng.",
+      "english": "In the early morning eastern sky, a bright star appeared."
+    }
+  ],
+  "in_contemporary_usage": true
+}

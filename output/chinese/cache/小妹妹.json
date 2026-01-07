@@ -5,8 +5,8 @@
   "english": "little sister; young girl",
   "etymology": {
     "type": "compound word",
-    "description": "小 ‘small/young’ + 妹妹 (reduplicated ‘妹’) = little sister; young girl.",
-    "interpretation": "Used as a kinship term for one’s younger sister, and also as an affectionate or polite way to refer to a young girl. Reduplication in 妹妹 softens the tone, while 小 highlights youth or endearment.",
+    "description": "小 (small; young) + 妹妹 (younger sister) = little sister; young girl.",
+    "interpretation": "Literally “small younger-sister,” used for one’s younger sister or as a friendly way to refer to a young girl. In address, it can sound affectionate or casual depending on context.",
     "simplification": ""
   },
   "parts": [
@@ -14,36 +14,31 @@
       "char": "小",
       "trad": "小",
       "pinyin": "xiǎo",
-      "english": "small; little; young; minor"
+      "english": "small; little; young; junior"
     },
     {
-      "char": "妹",
-      "trad": "妹",
-      "pinyin": "mèi",
-      "english": "younger sister; young girl; junior female; girl (as suffix)"
-    },
-    {
-      "char": "妹",
-      "trad": "妹",
-      "pinyin": "mèi",
-      "english": "younger sister; young girl; junior female; girl (as suffix)"
+      "char": "妹妹",
+      "trad": "妹妹",
+      "pinyin": "mèimei",
+      "english": "younger sister; little sister; young girl (colloquial); girl (informal address)"
     }
   ],
   "examples": [
     {
-      "chinese": "我的小妹妹今年八岁(我的小妹妹今年八歲)。",
-      "pinyin": "Wǒ de xiǎo mèimei jīnnián bā suì.",
-      "english": "My little sister is eight years old this year."
+      "chinese": "我有一个小妹妹(我有一個小妹妹)。",
+      "pinyin": "Wǒ yǒu yí gè xiǎo mèimei.",
+      "english": "I have a little sister."
     },
     {
-      "chinese": "等车时(等車時)，他把座位让给了小妹妹(他把座位讓給了小妹妹)。",
-      "pinyin": "Děng chē shí, tā bǎ zuòwèi ràng gěi le xiǎo mèimei.",
-      "english": "While waiting for the bus, he gave his seat to the young girl."
+      "chinese": "她还是小妹妹，所以不能独自回家(她還是小妹妹，所以不能獨自回家)。",
+      "pinyin": "Tā hái shì xiǎo mèimei, suǒyǐ bùnéng dúzì huíjiā.",
+      "english": "She’s still a young girl, so she can’t go home alone."
     },
     {
-      "chinese": "我给小妹妹买了一本图画书(我給小妹妹買了一本圖畫書)。",
-      "pinyin": "Wǒ gěi xiǎo mèimei mǎi le yì běn túhuà shū.",
-      "english": "I bought a picture book for my little sister."
+      "chinese": "阿姨对那位小妹妹很亲切(阿姨對那位小妹妹很親切)。",
+      "pinyin": "Āyí duì nà wèi xiǎo mèimei hěn qīnqiè.",
+      "english": "The lady is very kind to that little girl."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

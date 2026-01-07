@@ -5,45 +5,40 @@
   "english": "morel mushroom",
   "etymology": {
     "type": "compound word",
-    "description": "羊 + 肚 + 菌 = sheep-tripe + fungus → morel mushroom (cap resembles sheep tripe).",
-    "interpretation": "Named for the honeycomb folds of the cap that look like sheep tripe. Refers to the edible morel mushroom used in cuisine and for its aroma.",
+    "description": "羊肚 (sheep tripe) + 菌 (fungus) = a fungus whose cap resembles sheep tripe (morel).",
+    "interpretation": "Highlights the honeycomb, wrinkled cap reminiscent of a sheep’s stomach lining. Common name for edible morels in Chinese.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "羊",
-      "trad": "羊",
-      "pinyin": "yáng",
-      "english": "sheep;goat;mutton;ram"
-    },
-    {
-      "char": "肚",
-      "trad": "肚",
-      "pinyin": "dù",
-      "english": "belly;stomach;tripe;gut"
+      "char": "羊肚",
+      "trad": "羊肚",
+      "pinyin": "yángdǔ",
+      "english": "sheep tripe; sheep stomach; sheep belly; sheep offal"
     },
     {
       "char": "菌",
       "trad": "菌",
-      "pinyin": "jùn",
-      "english": "fungus;mold;germ;microbe"
+      "pinyin": "jūn",
+      "english": "fungus; mushroom; microbe; germ"
     }
   ],
   "examples": [
     {
-      "chinese": "我们在松林里采到几朵羊肚菌(我們在松林裡採到幾朵羊肚菌)。",
-      "pinyin": "Wǒmen zài sōnglín lǐ cǎi dào jǐ duǒ yángdùjùn.",
-      "english": "We picked a few morels in the pine forest."
+      "chinese": "春天常见到羊肚菌在林地里生长(春天常見到羊肚菌在林地裡生長)。",
+      "pinyin": "Chūntiān cháng jiàn dào yángdǔjūn zài líndì lǐ shēngzhǎng.",
+      "english": "In spring, morels are often seen growing in woodlands."
     },
     {
-      "chinese": "羊肚菌味道鲜美(羊肚菌味道鮮美)，用来做汤很合适(用來做湯很合適)。",
-      "pinyin": "Yángdùjùn wèidào xiānměi, yòng lái zuò tāng hěn héshì.",
-      "english": "Morels taste delicious and are well suited for making soup."
+      "chinese": "它的菌盖像羊肚，因此得名(它的菌蓋像羊肚，因此得名)。",
+      "pinyin": "Tā de jūngài xiàng yángdǔ, yīncǐ démíng.",
+      "english": "Its cap looks like sheep tripe, hence the name."
     },
     {
-      "chinese": "由于菌盖像羊肚(由於菌蓋像羊肚)，人们称它为“羊肚菌”(人們稱它為「羊肚菌」)。",
-      "pinyin": "Yóuyú jūngài xiàng yángdù, rénmen chēng tā wéi “yángdùjùn”.",
-      "english": "Because the cap looks like sheep tripe, people call it “yangdujun.”"
+      "chinese": "羊肚菌味道鲜美，常被用来煲汤或炒菜(羊肚菌味道鮮美，常被用來煲湯或炒菜)。",
+      "pinyin": "Yángdǔjūn wèidào xiānměi, cháng bèi yònglái bāotāng huò chǎocài.",
+      "english": "Morels taste delicious and are often used in soups or stir-fries."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

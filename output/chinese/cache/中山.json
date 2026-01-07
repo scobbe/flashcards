@@ -1,0 +1,30 @@
+{
+  "simplified": "中山",
+  "traditional": "中山",
+  "pinyin": "Zhōngshān",
+  "english": "Sun Yat-sen (Sun Zhongshan); Zhongshan (place name); central mountain (literal)",
+  "etymology": {
+    "type": "compound word",
+    "description": "中 ‘middle; central’ + 山 ‘mountain’ = ‘central mountain’; extended to toponyms and Sun Yat-sen’s alias.",
+    "interpretation": "Literally ‘central mountain’, it names places and institutions and also serves as Sun Yat-sen’s widely used alias. In geographic contexts it can mean the central peak within a range or area.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "孙中山是近代中国的革命先行者(孫中山是近代中國的革命先行者)。",
+      "pinyin": "Sūn Zhōngshān shì jìndài Zhōngguó de gémìng xiānxíngzhě.",
+      "english": "Sun Yat-sen is a pioneer of modern China’s revolution."
+    },
+    {
+      "chinese": "我们明天去中山市参观孙中山纪念堂(我們明天去中山市參觀孫中山紀念堂)。",
+      "pinyin": "Wǒmen míngtiān qù Zhōngshān Shì cānguān Sūn Zhōngshān Jìniàntáng.",
+      "english": "We will go to Zhongshan City tomorrow to visit the Sun Yat-sen Memorial Hall."
+    },
+    {
+      "chinese": "这条山脉的中山海拔最高(這條山脈的中山海拔最高)。",
+      "pinyin": "Zhè tiáo shānmài de Zhōngshān hǎibá zuì gāo.",
+      "english": "The central mountain of this range has the highest elevation."
+    }
+  ],
+  "in_contemporary_usage": true
+}

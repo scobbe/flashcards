@@ -1,0 +1,30 @@
+{
+  "simplified": "始皇",
+  "traditional": "始皇",
+  "pinyin": "Shǐhuáng",
+  "english": "first emperor; inaugural emperor; founder-emperor; originator sovereign",
+  "etymology": {
+    "type": "compound word",
+    "description": "始 (begin/first) + 皇(帝 ‘emperor’) = first/inaugural emperor.",
+    "interpretation": "Refers to the inaugural emperor, most prominently Qin Shihuang; often appears as 秦始皇 or 始皇帝. Can also be used figuratively for a founder-like sovereign.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "秦始皇统一六国(秦始皇統一六國)，自称始皇(自稱始皇)。",
+      "pinyin": "Qín Shǐhuáng tǒngyī liù guó, zìchēng Shǐhuáng.",
+      "english": "Qin Shihuang unified the six states and called himself the First Emperor."
+    },
+    {
+      "chinese": "在史书中(在史書中)，“始皇”多指秦始皇(「始皇」多指秦始皇)。",
+      "pinyin": "Zài shǐshū zhōng, “Shǐhuáng” duō zhǐ Qín Shǐhuáng.",
+      "english": "In historical texts, “Shihuang” usually refers to Qin Shihuang."
+    },
+    {
+      "chinese": "在现代语境中(在現代語境中)，称某位开创性的领导者为“始皇”(稱某位開創性的領導者為「始皇」)是比喻用法(是比喻用法)。",
+      "pinyin": "Zài xiàndài yǔjìng zhōng, chēng mǒu wèi kāichuàngxìng de lǐngdǎozhě wéi “Shǐhuáng” shì bǐyù yòngfǎ.",
+      "english": "In modern contexts, calling a pioneering leader a “Shihuang” is figurative usage."
+    }
+  ],
+  "in_contemporary_usage": true
+}

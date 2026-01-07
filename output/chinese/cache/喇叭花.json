@@ -5,45 +5,40 @@
   "english": "morning glory",
   "etymology": {
     "type": "compound word",
-    "description": "喇叭 (trumpet; horn) + 花 (flower) = trumpet-shaped flower (morning glory).",
-    "interpretation": "Names the morning glory by likening its funnel-shaped bloom to a small trumpet. A vivid folk metaphor based on shape and everyday objects.",
+    "description": "喇叭 + 花 = trumpet-shaped flower (morning glory).",
+    "interpretation": "Colloquial metaphor: the corolla looks like a horn, so it’s called a “trumpet flower,” referring to morning glories.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "喇",
-      "trad": "喇",
-      "pinyin": "lǎ",
-      "english": "horn; trumpet; noisy; chatter"
-    },
-    {
-      "char": "叭",
-      "trad": "叭",
-      "pinyin": "bā",
-      "english": "onomatopoeic ‘ba’ sound; pop; bang; yap"
+      "char": "喇叭",
+      "trad": "喇叭",
+      "pinyin": "lǎba",
+      "english": "horn; trumpet; bugle; loudspeaker"
     },
     {
       "char": "花",
       "trad": "花",
       "pinyin": "huā",
-      "english": "flower; blossom; spend; pattern"
+      "english": "flower; blossom; bloom; floral"
     }
   ],
   "examples": [
     {
-      "chinese": "院子里开满了喇叭花(院子裡開滿了喇叭花)。",
-      "pinyin": "Yuànzi lǐ kāi mǎn le lǎba huā.",
-      "english": "The yard is full of blooming morning glories."
+      "chinese": "早上，院墙上的喇叭花开得正艳(早上，院牆上的喇叭花開得正豔)。",
+      "pinyin": "Zǎoshang, yuànqiáng shàng de lǎbahuā kāi de zhèng yàn.",
+      "english": "In the morning, the morning glories on the courtyard wall are in full bloom."
     },
     {
-      "chinese": "小孩把喇叭花摘下来当小喇叭吹(小孩把喇叭花摘下來當小喇叭吹)。",
-      "pinyin": "Xiǎohái bǎ lǎba huā zhāi xiàlái dāng xiǎo lǎba chuī.",
-      "english": "The child picked a morning glory and blew it like a little trumpet."
+      "chinese": "她把喇叭花编成小花环，挂在窗边(她把喇叭花編成小花環，掛在窗邊)。",
+      "pinyin": "Tā bǎ lǎbahuā biān chéng xiǎo huāhuán, guà zài chuāngbiān.",
+      "english": "She wove morning glories into a small garland and hung it by the window."
     },
     {
-      "chinese": "喇叭花有许多颜色，比如紫色和粉色(喇叭花有許多顏色，比如紫色和粉色)。",
-      "pinyin": "Lǎba huā yǒu xǔduō yánsè, bǐrú zǐsè hé fěnsè.",
-      "english": "Morning glories come in many colors, such as purple and pink."
+      "chinese": "这种藤蔓喜欢阳光，喇叭花每天清晨准时开放(這種藤蔓喜歡陽光，喇叭花每天清晨準時開放)。",
+      "pinyin": "Zhè zhǒng téngmàn xǐhuān yángguāng, lǎbahuā měitiān qīngchén zhǔnshí kāifàng.",
+      "english": "This vine loves sunlight; the morning glory opens punctually every dawn."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

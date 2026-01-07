@@ -1,0 +1,30 @@
+{
+  "simplified": "大同",
+  "traditional": "大同",
+  "pinyin": "dàtóng",
+  "english": "great unity; grand harmony; utopian ideal; Datong (place name)",
+  "etymology": {
+    "type": "compound word",
+    "description": "大 (great) + 同 (same/together) = great unity/harmony; also used as a toponym and era name.",
+    "interpretation": "Evokes the classical ideal from the Lǐjì (礼记) passage on “大同,” envisioning a society of universal harmony and shared good. As a place or era name, it conveys aspiration toward unity and peace.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他向往大同社会(他嚮往大同社會)。",
+      "pinyin": "Tā xiàngwǎng dàtóng shèhuì.",
+      "english": "He longs for a society of Great Unity."
+    },
+    {
+      "chinese": "许多人追求《礼记》里说的“大同”理想(許多人追求《禮記》裡說的「大同」理想)。",
+      "pinyin": "Xǔduō rén zhuīqiú Lǐjì lǐ shuō de “Dàtóng” lǐxiǎng.",
+      "english": "Many people pursue the Datong ideal described in the Book of Rites."
+    },
+    {
+      "chinese": "我们坐火车去了山西的大同(我們坐火車去了山西的大同)。",
+      "pinyin": "Wǒmen zuò huǒchē qùle Shānxī de Dàtóng.",
+      "english": "We took a train to Datong in Shanxi."
+    }
+  ],
+  "in_contemporary_usage": true
+}

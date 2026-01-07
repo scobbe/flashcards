@@ -1,0 +1,30 @@
+{
+  "simplified": "样板",
+  "traditional": "樣板",
+  "pinyin": "yàngbǎn",
+  "english": "model; sample; template; pattern",
+  "etymology": {
+    "type": "compound word",
+    "description": "样 ‘pattern; style’ + 板 ‘board; plate’ = model/template used for copying or measurement",
+    "interpretation": "Merges the idea of a ‘pattern’ with a ‘board/plate’ to denote a standard piece or exemplar to follow. Common in manufacturing, design, and computing for prototypes or code templates.",
+    "simplification": "樣 was simplified to 样 by replacing the complex right-side phonetic component with the simpler 羊 form while keeping the 木 radical; 板 remained unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "我们先做一个样板，再批量生产(我們先做一個樣板，再批量生產)。",
+      "pinyin": "Wǒmen xiān zuò yí gè yàngbǎn, zài pīliàng shēngchǎn.",
+      "english": "We’ll make a sample first, then mass-produce."
+    },
+    {
+      "chinese": "这段代码可以当作样板，用来生成新项目(這段代碼可以當作樣板，用來生成新項目)。",
+      "pinyin": "Zhè duàn dàimǎ kěyǐ dāngzuò yàngbǎn, yòng lái shēngchéng xīn xiàngmù.",
+      "english": "This code can serve as a template to generate new projects."
+    },
+    {
+      "chinese": "设计师用样板校对尺寸(設計師用樣板校對尺寸)。",
+      "pinyin": "Shèjìshī yòng yàngbǎn jiàoduì chǐcùn.",
+      "english": "The designer uses a template to check the dimensions."
+    }
+  ],
+  "in_contemporary_usage": true
+}

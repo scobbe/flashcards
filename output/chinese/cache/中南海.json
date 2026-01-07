@@ -5,45 +5,40 @@
   "english": "Zhongnanhai",
   "etymology": {
     "type": "compound word",
-    "description": "中(central) + 南(south) + 海(sea) = name formed from the 'Central Sea' and 'South Sea' lakes.",
-    "interpretation": "Refers to the Zhonghai and Nanhai lakes west of the Forbidden City in Beijing; by extension, the central government leadership compound and a metonym for China’s top leadership.",
+    "description": "中海 (Middle Lake) + 南海 (South Lake) = the combined lakes/compound in Beijing.",
+    "interpretation": "Names the area encompassing the Zhonghai and Nanhai lakes west of the Forbidden City; here 海 refers to lakes. By extension it serves as a metonym for China’s central leadership compound.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "中",
-      "trad": "中",
-      "pinyin": "zhōng",
-      "english": "middle; center; among; China"
+      "char": "中海",
+      "trad": "中海",
+      "pinyin": "Zhōnghǎi",
+      "english": "Zhonghai (Middle Lake in Beijing); central sea; middle lake"
     },
     {
-      "char": "南",
-      "trad": "南",
-      "pinyin": "nán",
-      "english": "south; southern; southward; to the south of"
-    },
-    {
-      "char": "海",
-      "trad": "海",
-      "pinyin": "hǎi",
-      "english": "sea; large lake; maritime; great number"
+      "char": "南海",
+      "trad": "南海",
+      "pinyin": "Nánhǎi",
+      "english": "Nanhai (South Lake in Beijing); south sea; South China Sea"
     }
   ],
   "examples": [
     {
-      "chinese": "中南海位于北京西城区，紧邻故宫西侧(中南海位於北京西城區，緊鄰故宮西側)。",
-      "pinyin": "Zhōngnánhǎi wèi yú Běijīng Xīchéng Qū, jǐnlín Gùgōng xī cè.",
-      "english": "Zhongnanhai is in Beijing’s Xicheng District, right next to the west side of the Forbidden City."
+      "chinese": "中南海位于紫禁城西侧(中南海位於紫禁城西側)。",
+      "pinyin": "Zhōngnánhǎi wèi yú Zǐjìnchéng xīcè.",
+      "english": "Zhongnanhai is located to the west of the Forbidden City."
     },
     {
-      "chinese": "它常被用作中国最高领导层的代称(它常被用作中國最高領導層的代稱)。",
-      "pinyin": "Tā cháng bèi yòngzuò Zhōngguó zuìgāo lǐngdǎo céng de dàichēng.",
-      "english": "It is often used as a metonym for China’s top leadership."
+      "chinese": "媒体常用“中南海”代指中国中央领导层(媒體常用「中南海」代指中國中央領導層)。",
+      "pinyin": "Méitǐ cháng yòng “Zhōngnánhǎi” dàizhǐ Zhōngguó zhōngyāng lǐngdǎo céng.",
+      "english": "The media often uses “Zhongnanhai” as a metonym for China’s top leadership."
     },
     {
-      "chinese": "名称源自“中海”和“南海”两座相连的湖(名稱源自「中海」和「南海」兩座相連的湖)。",
-      "pinyin": "Míngchēng yuánzì “Zhōnghǎi” hé “Nánhǎi” liǎng zuò xiānglián de hú.",
-      "english": "The name comes from the two connected lakes called Zhonghai and Nanhai."
+      "chinese": "游客不能随意进入中南海(遊客不能隨意進入中南海)。",
+      "pinyin": "Yóukè bùnéng suíyì jìnrù Zhōngnánhǎi.",
+      "english": "Visitors cannot freely enter Zhongnanhai."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

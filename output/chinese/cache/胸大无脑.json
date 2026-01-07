@@ -5,51 +5,40 @@
   "english": "bimbo (lit. big chest no brains)",
   "etymology": {
     "type": "compound word",
-    "description": "胸(chest) + 大(big) + 无(no) + 脑(brain) = big chest but no brains; derogatory stereotype.",
-    "interpretation": "Colloquial, pejorative slang stereotyping a woman as having large breasts but lacking intelligence; widely viewed as sexist and offensive. Best avoided in respectful or professional contexts.",
-    "simplification": "无 is the simplified form of 無 and 脑 is the simplified form of 腦, reducing strokes for ease of writing; 胸 and 大 are unchanged."
+    "description": "胸大 (big chest) + 无脑 (brainless) = derogatory label implying attractiveness without intelligence.",
+    "interpretation": "A pejorative internet slang phrase stereotyping women as busty but unintelligent; often considered sexist and insulting.",
+    "simplification": "无 and 脑 are simplified from 無 and 腦 to reduce stroke count; the body-part radical 月 is retained while complex components were streamlined in PRC orthographic reform."
   },
   "parts": [
     {
-      "char": "胸",
-      "trad": "胸",
-      "pinyin": "xiōng",
-      "english": "chest; bosom; heart (courage); broad-mindedness"
+      "char": "胸大",
+      "trad": "胸大",
+      "pinyin": "xiōng dà",
+      "english": "big-chested; large-breasted; busty; big chest"
     },
     {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "big; great; major; eldest"
-    },
-    {
-      "char": "无",
-      "trad": "無",
-      "pinyin": "wú",
-      "english": "without; not have; none; nothing"
-    },
-    {
-      "char": "脑",
-      "trad": "腦",
-      "pinyin": "nǎo",
-      "english": "brain; mind; head; mental"
+      "char": "无脑",
+      "trad": "無腦",
+      "pinyin": "wú nǎo",
+      "english": "brainless; mindless; thoughtless; dim-witted"
     }
   ],
   "examples": [
     {
-      "chinese": "他用“胸大无脑”评价同事(他用「胸大無腦」評價同事)，结果引起了不满(結果引起了不滿)。",
-      "pinyin": "Tā yòng “xiōng dà wú nǎo” píngjià tóngshì, jiéguǒ yǐnqǐle bùmǎn.",
-      "english": "He described a colleague as a “bimbo,” which caused resentment."
+      "chinese": "她被贴上“胸大无脑”的标签(她被貼上「胸大無腦」的標籤)。",
+      "pinyin": "Tā bèi tiē shàng “xiōng dà wú nǎo” de biāoqiān.",
+      "english": "She was labeled as a “bimbo.”"
     },
     {
-      "chinese": "这种说法带有性别歧视(這種說法帶有性別歧視)，请不要随便使用(請不要隨便使用)。",
-      "pinyin": "Zhè zhǒng shuōfǎ dàiyǒu xìngbié qíshì, qǐng búyào suíbiàn shǐyòng.",
-      "english": "This expression is sexist; please don’t use it casually."
+      "chinese": "这种说法带有性别歧视，不应随便使用(這種說法帶有性別歧視，不應隨便使用)。",
+      "pinyin": "Zhè zhǒng shuōfǎ dàiyǒu xìngbié qíshì, bù yīng suíbiàn shǐyòng.",
+      "english": "This expression is sexist and shouldn’t be used casually."
     },
     {
-      "chinese": "有些人把它当玩笑(有些人把它當玩笑)，但可能伤害当事人(但可能傷害當事人)。",
-      "pinyin": "Yǒuxiē rén bǎ tā dāng wánxiào, dàn kěnéng shānghài dāngshìrén.",
-      "english": "Some people treat it as a joke, but it can hurt the person involved."
+      "chinese": "有人反驳说能力与身材无关(有人反駁說能力與身材無關)。",
+      "pinyin": "Yǒu rén fǎnbó shuō nénglì yǔ shēncái wúguān.",
+      "english": "Some argue that ability has nothing to do with body shape."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

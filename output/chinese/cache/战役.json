@@ -1,0 +1,30 @@
+{
+  "simplified": "战役",
+  "traditional": "戰役",
+  "pinyin": "zhànyì",
+  "english": "military campaign; operation; major battle; campaign-level battle",
+  "etymology": {
+    "type": "compound word",
+    "description": "战(戰 ‘war/battle’) + 役 (‘campaign/service’) = campaign-level military operation/major battle.",
+    "interpretation": "Denotes a campaign-level military operation, often comprising multiple battles coordinated to achieve an operational objective. Contrasts with 战斗 (single engagement) and sits below 战争 (war) in scale.",
+    "simplification": "戰→战 was simplified to reduce strokes and standardize components; 役 unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "这场战役改变了战争的走向(這場戰役改變了戰爭的走向)。",
+      "pinyin": "Zhè chǎng zhànyì gǎibiàn le zhànzhēng de zǒuxiàng.",
+      "english": "This campaign changed the course of the war."
+    },
+    {
+      "chinese": "司令部制定了这次战役的总体计划(司令部制定了這次戰役的總體計劃)。",
+      "pinyin": "Sīlìngbù zhìdìng le zhè cì zhànyì de zǒngtǐ jìhuà.",
+      "english": "The headquarters formulated the overall plan for this campaign."
+    },
+    {
+      "chinese": "与上一次战役相比，这次投入的兵力更大(與上一次戰役相比，這次投入的兵力更大)。",
+      "pinyin": "Yǔ shàng yī cì zhànyì xiāngbǐ, zhè cì tóurù de bīnglì gèng dà.",
+      "english": "Compared with the previous campaign, more troops were committed this time."
+    }
+  ],
+  "in_contemporary_usage": true
+}

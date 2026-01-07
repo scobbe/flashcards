@@ -1,0 +1,30 @@
+{
+  "simplified": "牵牛",
+  "traditional": "牽牛",
+  "pinyin": "qiānniú",
+  "english": "to lead a cow; cowherd; Altair (the Cowherd star); (archaic) morning glory (in 牵牛子 seeds)",
+  "etymology": {
+    "type": "verb-object compound",
+    "description": "牵(lead; pull) + 牛(cow) = lead a cow; by extension ‘cowherd’ and the ‘Cowherd’ star; archaic plant name via 牵牛子.",
+    "interpretation": "Originally denoted the act of leading a cow, then by metonymy the person who does so and, in star lore, Altair as 牵牛星 paired with 织女星. In materia medica 牵牛 referred to the morning glory, especially its purgative seeds 牵牛子.",
+    "simplification": "牵 is the simplified form of 牽, created by reducing strokes and regularizing components; 牛 remained unchanged, so the word was simplified to ease writing."
+  },
+  "examples": [
+    {
+      "chinese": "他在田里牵牛(他在田裡牽牛)。",
+      "pinyin": "Tā zài tián lǐ qiānniú.",
+      "english": "He is leading a cow in the field."
+    },
+    {
+      "chinese": "七夕时(七夕時)，人们仰望牵牛星和织女星(人們仰望牽牛星和織女星)。",
+      "pinyin": "Qīxī shí, rénmen yǎngwàng Qiānniúxīng hé Zhīnǚxīng.",
+      "english": "During the Qixi festival, people look up at the Cowherd star Altair and the Weaving Girl star Vega."
+    },
+    {
+      "chinese": "在古籍中(在古籍中)，牵牛是指牵牛花或其种子牵牛子(牽牛是指牽牛花或其種子牽牛子)。",
+      "pinyin": "Zài gǔjí zhōng, qiānniú shì zhǐ qiānniúhuā huò qí zhǒngzǐ qiānniúzǐ.",
+      "english": "In ancient texts, qiānniú refers to the morning glory or its seeds, known as qiānniúzǐ."
+    }
+  ],
+  "in_contemporary_usage": true
+}

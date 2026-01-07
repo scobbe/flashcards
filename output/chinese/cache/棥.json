@@ -1,0 +1,27 @@
+{
+  "simplified": "棥",
+  "traditional": "棥",
+  "pinyin": "fán",
+  "english": "brushwood; twigs",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 (“wood”) + phonetic: 凡 (fán)",
+    "interpretation": "Combines the wood element with the phonetic 凡 to cue the reading fán while indicating a meaning related to wood. The sense focuses on small pieces of wood, yielding ‘brushwood; twigs.’",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "ordinary; every; all"
+    }
+  ]
+}

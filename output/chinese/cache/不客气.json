@@ -4,46 +4,41 @@
   "pinyin": "bú kèqi",
   "english": "you’re welcome; don’t mention it",
   "etymology": {
-    "type": "compound word",
-    "description": "不(bú, “not”) + 客气(“polite; to stand on ceremony”) → “don’t be so polite; you’re welcome”.",
-    "interpretation": "Literally “not polite/ceremonious”; used to downplay thanks or invite others to act freely. In some contexts it can also mean “blunt” or “not courteous.”",
-    "simplification": "氣 was simplified to 气 to reduce strokes; other characters unchanged."
+    "type": "set phrase",
+    "description": "不 + 客气 = not be (overly) polite/formal.",
+    "interpretation": "Literally ‘don’t be polite,’ it downplays thanks as “you’re welcome.” In broader use it tells someone not to stand on ceremony and to speak or act freely.",
+    "simplification": "氣 → 气 under character simplification to reduce strokes; 客氣 → 客气, 不 unchanged."
   },
   "parts": [
     {
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; no; un-; negative prefix"
+      "english": "not; no; un-; non-"
     },
     {
-      "char": "客",
-      "trad": "客",
-      "pinyin": "kè",
-      "english": "guest; visitor; customer; traveler"
-    },
-    {
-      "char": "气",
-      "trad": "氣",
-      "pinyin": "qì",
-      "english": "air; breath; energy; anger"
+      "char": "客气",
+      "trad": "客氣",
+      "pinyin": "kèqi",
+      "english": "polite; courteous; to stand on ceremony; formal"
     }
   ],
   "examples": [
     {
       "chinese": "谢谢你(謝謝你)，不客气(不客氣)。",
       "pinyin": "Xièxie nǐ, bú kèqi.",
-      "english": "Thank you, you’re welcome."
+      "english": "Thank you. You’re welcome."
     },
     {
-      "chinese": "他夸我做得好(他誇我做得好)，我连声说不客气(我連聲說不客氣)。",
-      "pinyin": "Tā kuā wǒ zuò de hǎo, wǒ liánshēng shuō bú kèqi.",
-      "english": "He praised me for doing well, and I replied repeatedly, “You’re welcome.”"
+      "chinese": "我们都是朋友(我們都是朋友)，有什么需要就说(有什麼需要就說)，不客气一点(不客氣一點)。",
+      "pinyin": "Wǒmen dōu shì péngyou, yǒu shénme xūyào jiù shuō, bú kèqi yìdiǎn.",
+      "english": "We’re all friends—say what you need and don’t be too polite."
     },
     {
-      "chinese": "大家不客气(大家不客氣)，随便拿点心(隨便拿點心)。",
-      "pinyin": "Dàjiā bú kèqi, suíbiàn ná diǎnxīn.",
-      "english": "Everyone, don’t be shy—help yourselves to some snacks."
+      "chinese": "他帮了我一个小忙(他幫了我一個小忙)，我道谢后他说不客气(我道謝後他說不客氣)。",
+      "pinyin": "Tā bāng le wǒ yí ge xiǎo máng, wǒ dàoxiè hòu tā shuō bú kèqi.",
+      "english": "He did me a small favor; after I thanked him, he said “you’re welcome.”"
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

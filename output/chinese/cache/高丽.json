@@ -1,0 +1,30 @@
+{
+  "simplified": "高丽",
+  "traditional": "高麗",
+  "pinyin": "gāolí",
+  "english": "Goryeo; Korea (historical); Korean",
+  "etymology": {
+    "type": "compound word",
+    "description": "高 “high; elevated” + 麗 “beautiful; elegant” → dynastic name adopted for the Korean state; later generalized to refer to Korea in historical contexts.",
+    "interpretation": "Names the Goryeo dynasty (918–1392) and, by extension in historical or archaic usage, Korea or Korean things. Also the source of the English name Korea via its Sino-Korean reading.",
+    "simplification": "麗 was simplified to 丽 to reduce strokes; 高 remained unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "高丽是中世纪的朝鲜王朝(高麗是中世紀的朝鮮王朝)。",
+      "pinyin": "Gāolí shì Zhōngshìjì de Cháoxiǎn wángcháo.",
+      "english": "Goryeo was a medieval Korean dynasty."
+    },
+    {
+      "chinese": "他专门研究高丽历史(他專門研究高麗歷史)。",
+      "pinyin": "Tā zhuānmén yánjiū Gāolí lìshǐ.",
+      "english": "He specializes in researching Goryeo history."
+    },
+    {
+      "chinese": "我喜欢喝高丽参茶(我喜歡喝高麗參茶)。",
+      "pinyin": "Wǒ xǐhuan hē gāolíshēn chá.",
+      "english": "I like to drink Korean ginseng tea."
+    }
+  ],
+  "in_contemporary_usage": true
+}

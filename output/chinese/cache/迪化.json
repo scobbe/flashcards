@@ -1,0 +1,30 @@
+{
+  "simplified": "迪化",
+  "traditional": "迪化",
+  "pinyin": "díhuà",
+  "english": "Dihua (proper name); old ROC name for Ürümqi; enlighten; transform",
+  "etymology": {
+    "type": "compound word",
+    "description": "迪 (enlighten; guide) + 化 (transform; change) = enlighten-and-transform; also used as ROC-era toponym for Ürümqi.",
+    "interpretation": "Combines guiding/enlightening with transformation, yielding a sense of civilizing or converting through instruction. As a place name, 迪化 reflected a political ideal of bringing “enlightening transformation” to the region.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "历史上，乌鲁木齐曾被称为迪化(歷史上，烏魯木齊曾被稱為迪化)。",
+      "pinyin": "Lìshǐ shàng, Wūlǔmùqí céng bèi chēngwéi Díhuà.",
+      "english": "Historically, Ürümqi was once called Dihua."
+    },
+    {
+      "chinese": "政府希望通过教育和文化活动来迪化民众(政府希望通過教育和文化活動來迪化民眾)。",
+      "pinyin": "Zhèngfǔ xīwàng tōngguò jiàoyù hé wénhuà huódòng lái díhuà mínzhòng.",
+      "english": "The government hopes to enlighten and transform the public through education and cultural activities."
+    },
+    {
+      "chinese": "他以温和的方式迪化了对方的偏见(他以溫和的方式迪化了對方的偏見)。",
+      "pinyin": "Tā yǐ wēnhé de fāngshì díhuà le duìfāng de piānjiàn.",
+      "english": "He gently transformed the other side’s prejudice."
+    }
+  ],
+  "in_contemporary_usage": true
+}

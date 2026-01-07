@@ -4,58 +4,41 @@
   "pinyin": "Zhōngguó Měishùguǎn",
   "english": "National Art Museum of China",
   "etymology": {
-    "type": "compound word (proper noun)",
-    "description": "中国 + 美术 + 馆 = China + fine arts + hall/museum → National Art Museum of China.",
-    "interpretation": "Proper name of the national-level art museum in Beijing; literally “China art hall.” Commonly abbreviated as 中国美术馆/中國美術館 for the institution.",
-    "simplification": "Uses PRC simplifications: 國→国 (enclosed component simplified), 術→术 (stroke reduction), 館→馆 (radical 食→饣), reducing strokes and easing writing."
+    "type": "compound word",
+    "description": "中国 + 美术馆 = China’s national art museum.",
+    "interpretation": "Proper-noun compound naming the national-level fine arts museum of China, located in Beijing. Combines the country name with the institution type to signal scope and focus on fine arts.",
+    "simplification": "國→国, 術→术, 館→馆 were simplified in mainland reforms to reduce strokes and standardize components (囗, 朮→术, 食→饣) for faster writing; 中 and 美 are unchanged."
   },
   "parts": [
     {
-      "char": "中",
-      "trad": "中",
-      "pinyin": "zhōng",
-      "english": "middle; center; within; China (abbr.)"
+      "char": "中国",
+      "trad": "中國",
+      "pinyin": "Zhōngguó",
+      "english": "China; the Chinese nation"
     },
     {
-      "char": "国",
-      "trad": "國",
-      "pinyin": "guó",
-      "english": "country; nation; state; homeland"
-    },
-    {
-      "char": "美",
-      "trad": "美",
-      "pinyin": "měi",
-      "english": "beautiful; fine; good; USA (abbr.)"
-    },
-    {
-      "char": "术",
-      "trad": "術",
-      "pinyin": "shù",
-      "english": "art; technique; method; skill"
-    },
-    {
-      "char": "馆",
-      "trad": "館",
-      "pinyin": "guǎn",
-      "english": "hall; building; establishment; museum"
+      "char": "美术馆",
+      "trad": "美術館",
+      "pinyin": "Měishùguǎn",
+      "english": "art museum; fine arts gallery"
     }
   ],
   "examples": [
     {
-      "chinese": "我们明天去中国美术馆参观(我們明天去中國美術館參觀)。",
-      "pinyin": "Wǒmen míngtiān qù Zhōngguó Měishùguǎn cānguān.",
-      "english": "We’re going to visit the National Art Museum of China tomorrow."
+      "chinese": "我们打算参观中国美术馆(我們打算參觀中國美術館)。",
+      "pinyin": "Wǒmen dǎsuàn cānguān Zhōngguó Měishùguǎn.",
+      "english": "We plan to visit the National Art Museum of China."
     },
     {
-      "chinese": "中国美术馆收藏了大量现代与当代艺术作品(中國美術館收藏了大量現代與當代藝術作品)。",
-      "pinyin": "Zhōngguó Měishùguǎn shōucáng le dàliàng xiàndài yǔ dāngdài yìshù zuòpǐn.",
-      "english": "The National Art Museum of China houses a large collection of modern and contemporary artworks."
+      "chinese": "中国美术馆位于北京东城区(中國美術館位於北京東城區)。",
+      "pinyin": "Zhōngguó Měishùguǎn wèiyú Běijīng Dōngchéng Qū.",
+      "english": "The National Art Museum of China is located in Beijing’s Dongcheng District."
     },
     {
-      "chinese": "中国美术馆位于北京(中國美術館位於北京)。",
-      "pinyin": "Zhōngguó Měishùguǎn wèiyú Běijīng.",
-      "english": "The National Art Museum of China is located in Beijing."
+      "chinese": "这个展览在中国美术馆举行(這個展覽在中國美術館舉行)，吸引了很多观众(吸引了很多觀眾)。",
+      "pinyin": "Zhège zhǎnlǎn zài Zhōngguó Měishùguǎn jǔxíng, xīyǐnle hěn duō guānzhòng.",
+      "english": "This exhibition is being held at the National Art Museum of China and has attracted many visitors."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

@@ -1,0 +1,38 @@
+{
+  "simplified": "巴克",
+  "traditional": "巴克",
+  "pinyin": "bākè",
+  "english": "phonetic for 'buck(s)'; transliteration unit; used in brand names",
+  "etymology": {
+    "type": "transliteration compound",
+    "description": "巴(bā) + 克(kè) = phonetic rendering of English “buck”.",
+    "interpretation": "Combines two common transliteration syllables to approximate the English sound ‘buck’. Frequently seen in brand and personal names, e.g., 星巴克.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巴克",
+      "trad": "巴克",
+      "pinyin": "bākè",
+      "english": "buck; transliteration syllable; used in brand names"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他在星巴克工作(他在星巴克工作)。",
+      "pinyin": "Tā zài Xīngbākè gōngzuò.",
+      "english": "He works at Starbucks."
+    },
+    {
+      "chinese": "品牌名里的“巴克”只是对英语buck的音译(品牌名裡的「巴克」只是對英語buck的音譯)。",
+      "pinyin": "Pǐnpái míng lǐ de “Bākè” zhǐshì duì Yīngyǔ buck de yīnyì.",
+      "english": "The “Bākè” in the brand name is just a phonetic transliteration of the English word buck."
+    },
+    {
+      "chinese": "在一些名字里,“巴克”表示音节buck(在一些名字裡,「巴克」表示音節buck)。",
+      "pinyin": "Zài yīxiē míngzi lǐ, “Bākè” biǎoshì yīnjié buck.",
+      "english": "In some names, “Bākè” represents the syllable buck."
+    }
+  ],
+  "in_contemporary_usage": true
+}

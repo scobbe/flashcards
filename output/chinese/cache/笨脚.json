@@ -1,0 +1,30 @@
+{
+  "simplified": "笨脚",
+  "traditional": "笨腳",
+  "pinyin": "bènjiǎo",
+  "english": "clumsy-footed; awkward in movement; unsteady",
+  "etymology": {
+    "type": "compound word",
+    "description": "笨 (clumsy) + 脚/腳 (foot) = clumsy-footed; awkward in movement",
+    "interpretation": "Combines an adjective of awkwardness with 'foot' to label someone unsteady or poorly coordinated on their feet. Often used for walking, running, or dancing that looks ungainly.",
+    "simplification": "腳 → 脚 via character simplification: the phonetic element 卻 was simplified to 却; 笨 unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "他走路有点笨脚(他走路有點笨腳)。",
+      "pinyin": "Tā zǒulù yǒudiǎn bènjiǎo.",
+      "english": "He’s a bit clumsy on his feet when he walks."
+    },
+    {
+      "chinese": "她跳舞时显得笨脚(她跳舞時顯得笨腳)。",
+      "pinyin": "Tā tiàowǔ shí xiǎnde bènjiǎo.",
+      "english": "She looks awkward when dancing."
+    },
+    {
+      "chinese": "下雨天路滑(下雨天路滑)，他更显得笨脚(他更顯得笨腳)。",
+      "pinyin": "Xiàyǔtiān lù huá, tā gèng xiǎnde bènjiǎo.",
+      "english": "On rainy days the road is slippery, and he seems even more unsteady on his feet."
+    }
+  ],
+  "in_contemporary_usage": true
+}

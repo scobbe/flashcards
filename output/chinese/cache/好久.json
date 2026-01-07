@@ -1,0 +1,30 @@
+{
+  "simplified": "好久",
+  "traditional": "好久",
+  "pinyin": "hǎo jiǔ",
+  "english": "a long time; quite a while",
+  "etymology": {
+    "type": "compound word",
+    "description": "好 (very) + 久 (long time) = quite a long time.",
+    "interpretation": "Combines an intensifier with a duration noun to mean “a long/quite a while.” Often used in greetings (好久不见) and adverbially before verbs.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "好久不见(好久不見)！",
+      "pinyin": "Hǎo jiǔ bú jiàn!",
+      "english": "Long time no see!"
+    },
+    {
+      "chinese": "我们好久没联系了(我們好久沒聯繫了)。",
+      "pinyin": "Wǒmen hǎo jiǔ méi liánxì le.",
+      "english": "We haven’t been in touch for a long time."
+    },
+    {
+      "chinese": "我等了好久(我等了好久)，他才来(他才來)。",
+      "pinyin": "Wǒ děng le hǎo jiǔ, tā cái lái.",
+      "english": "I waited for a long time before he finally came."
+    }
+  ],
+  "in_contemporary_usage": true
+}

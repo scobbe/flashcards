@@ -1,0 +1,38 @@
+{
+  "simplified": "乌鲁木齐",
+  "traditional": "烏魯木齊",
+  "pinyin": "Wūlǔmùqí",
+  "english": "Urumqi; transliteration of Uyghur Ürümchi",
+  "etymology": {
+    "type": "phonetic transliteration (toponym)",
+    "description": "Phonetic transliteration: Wū + lǔ + mù + qí ≈ Ürümchi (Urumqi).",
+    "interpretation": "Chinese transcription of the Uyghur name Ürümchi, used for the capital of Xinjiang. Characters were chosen for sound rather than literal meaning.",
+    "simplification": "General character simplification applied: 烏→乌, 魯→鲁, 齊→齐 (木 unchanged); standardized in PRC with no change to pronunciation or meaning."
+  },
+  "parts": [
+    {
+      "char": "乌鲁木齐",
+      "trad": "烏魯木齊",
+      "pinyin": "Wūlǔmùqí",
+      "english": "Urumqi; Ürümchi; transliteration of Uyghur place name"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "乌鲁木齐是新疆的首府(烏魯木齊是新疆的首府)。",
+      "pinyin": "Wūlǔmùqí shì Xīnjiāng de shǒufǔ.",
+      "english": "Urumqi is the capital of Xinjiang."
+    },
+    {
+      "chinese": "我想去乌鲁木齐旅行(我想去烏魯木齊旅行)。",
+      "pinyin": "Wǒ xiǎng qù Wūlǔmùqí lǚxíng.",
+      "english": "I want to travel to Urumqi."
+    },
+    {
+      "chinese": "从北京到乌鲁木齐有直飞航班(從北京到烏魯木齊有直飛航班)。",
+      "pinyin": "Cóng Běijīng dào Wūlǔmùqí yǒu zhífēi hángbān.",
+      "english": "There are nonstop flights from Beijing to Urumqi."
+    }
+  ],
+  "in_contemporary_usage": true
+}

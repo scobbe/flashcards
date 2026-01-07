@@ -5,45 +5,40 @@
   "english": "pineapple cake",
   "etymology": {
     "type": "compound word",
-    "description": "凤梨/鳳梨 (pineapple) + 酥 (flaky pastry) = pineapple pastry/cake",
-    "interpretation": "Names a pastry with pineapple filling and a crisp, crumbly shell. Emphasizes both the fruit flavor (凤梨) and the flaky texture (酥), widely associated with Taiwan.",
-    "simplification": "鳳 was simplified to 凤 by streamlining the 鳥 component to reduce strokes; 梨 and 酥 are unchanged. Taiwan commonly writes 鳳梨酥 in traditional characters."
+    "description": "凤梨 + 酥 = pineapple + flaky pastry → pineapple cake.",
+    "interpretation": "Refers to a flaky pastry with pineapple filling, especially associated with Taiwan. Literally means “pineapple pastry,” emphasizing the fruit and the crumbly texture.",
+    "simplification": "鳳 → 凤 was simplified to reduce strokes; 梨 and 酥 are unchanged. Meaning and usage remain the same across scripts."
   },
   "parts": [
     {
-      "char": "凤",
-      "trad": "鳳",
-      "pinyin": "fèng",
-      "english": "phoenix; auspicious; elegant; used in names"
-    },
-    {
-      "char": "梨",
-      "trad": "梨",
-      "pinyin": "lí",
-      "english": "pear; pear tree; pear fruit; surname"
+      "char": "凤梨",
+      "trad": "鳳梨",
+      "pinyin": "fènglí",
+      "english": "pineapple; pineapple plant"
     },
     {
       "char": "酥",
       "trad": "酥",
       "pinyin": "sū",
-      "english": "flaky; crisp; crumbly; pastry"
+      "english": "flaky; crisp; shortbread; pastry"
     }
   ],
   "examples": [
     {
-      "chinese": "我最喜欢台湾的凤梨酥(我最喜歡臺灣的鳳梨酥)。",
-      "pinyin": "Wǒ zuì xǐhuan Táiwān de fènglísū.",
-      "english": "I like Taiwan’s pineapple cakes the most."
+      "chinese": "我买了一盒凤梨酥送朋友(我買了一盒鳳梨酥送朋友)。",
+      "pinyin": "Wǒ mǎile yì hé fènglísū sòng péngyǒu.",
+      "english": "I bought a box of pineapple cakes as a gift for a friend."
     },
     {
-      "chinese": "这家店的凤梨酥外皮很酥，内馅是纯凤梨(這家店的鳳梨酥外皮很酥，內餡是純鳳梨)。",
-      "pinyin": "Zhè jiā diàn de fènglísū wàipí hěn sū, nèixiàn shì chún fènglí.",
-      "english": "The pineapple cake here has a very flaky crust, and the filling is pure pineapple."
+      "chinese": "台湾的凤梨酥外皮酥香、内馅酸甜(臺灣的鳳梨酥外皮酥香、內餡酸甜)。",
+      "pinyin": "Táiwān de fènglísū wàipí sūxiāng, nèixiàn suāntián.",
+      "english": "Taiwan’s pineapple cakes have a fragrant flaky crust and a sweet-tart filling."
     },
     {
-      "chinese": "过年时我常买凤梨酥送朋友当伴手礼(過年時我常買鳳梨酥送朋友當伴手禮)。",
-      "pinyin": "Guònián shí wǒ cháng mǎi fènglísū sòng péngyou dāng bànshǒulǐ.",
-      "english": "During the New Year I often buy pineapple cakes as gifts for friends."
+      "chinese": "咖啡配凤梨酥很搭(咖啡配鳳梨酥很搭)。",
+      "pinyin": "Kāfēi pèi fènglísū hěn dā.",
+      "english": "Coffee pairs well with pineapple cakes."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

@@ -1,0 +1,30 @@
+{
+  "simplified": "老吉",
+  "traditional": "老吉",
+  "pinyin": "lǎojí",
+  "english": "Old Lucky (epithet); venerable and auspicious; respectful nickname element; luck‑invoking branding",
+  "etymology": {
+    "type": "compound word",
+    "description": "老 + 吉 = respectful “old” + “auspicious” → “Old Lucky”; venerable, luck-invoking epithet/brand element.",
+    "interpretation": "Combines the respectful prefix 老 with the auspicious morpheme 吉 to create a warm, luck‑invoking epithet or brand name. Common in nicknames or product names to signal venerability and good fortune.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "大家都叫他老吉(大家都叫他老吉)，觉得这个外号很吉利(覺得這個外號很吉利)。",
+      "pinyin": "Dàjiā dōu jiào tā Lǎo Jí, juéde zhège wàihào hěn jílì.",
+      "english": "Everyone calls him “Old Lucky,” finding the nickname auspicious."
+    },
+    {
+      "chinese": "这款饮料叫“老吉”(這款飲料叫「老吉」)，名字听起来亲切又讨喜(名字聽起來親切又討喜)。",
+      "pinyin": "Zhè kuǎn yǐnliào jiào “Lǎo Jí”, míngzi tīng qǐlái qīnqiè yòu tǎoxǐ.",
+      "english": "This beverage is called “Laoji,” a name that sounds friendly and likable."
+    },
+    {
+      "chinese": "在北方方言里，“老”常用作尊称(在北方法言裡，「老」常用作尊稱)，所以“老吉”带有敬意和祝福(所以「老吉」帶有敬意和祝福)。",
+      "pinyin": "Zài Běifāng fāngyán lǐ, “lǎo” cháng yòngzuò zūnchēng, suǒyǐ “Lǎo Jí” dàiyǒu jìngyì hé zhùfú.",
+      "english": "In northern dialects, “lao” is often a respectful prefix, so “Laoji” carries respect and blessings."
+    }
+  ],
+  "in_contemporary_usage": true
+}

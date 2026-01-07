@@ -1,0 +1,30 @@
+{
+  "simplified": "美术",
+  "traditional": "美術",
+  "pinyin": "měishù",
+  "english": "fine arts; art",
+  "etymology": {
+    "type": "compound word",
+    "description": "美 ‘beauty’ + 术 ‘technique; skill’ = fine arts (arts of beauty, esp. visual).",
+    "interpretation": "Combines the notion of beauty with technique to denote art forms focused on visual aesthetics such as painting, sculpture, and design. Often contrasted with 艺术/藝術 (art in general) as a narrower, visual-arts sense.",
+    "simplification": "术 is the simplified form of 術, created to reduce strokes and standardize writing; 美 is unchanged. Meaning remains the same."
+  },
+  "examples": [
+    {
+      "chinese": "我在大学学美术(我在大學學美術)。",
+      "pinyin": "Wǒ zài dàxué xué měishù.",
+      "english": "I study fine arts in college."
+    },
+    {
+      "chinese": "她的美术作品很有创意(她的美術作品很有創意)。",
+      "pinyin": "Tā de měishù zuòpǐn hěn yǒu chuàngyì.",
+      "english": "Her art pieces are very creative."
+    },
+    {
+      "chinese": "学校有美术课(學校有美術課)，也有音乐课(也有音樂課)。",
+      "pinyin": "Xuéxiào yǒu měishù kè, yě yǒu yīnyuè kè.",
+      "english": "The school has art classes and also music classes."
+    }
+  ],
+  "in_contemporary_usage": true
+}

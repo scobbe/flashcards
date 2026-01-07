@@ -5,45 +5,40 @@
   "english": "Renminbi (RMB)",
   "etymology": {
     "type": "compound word",
-    "description": "人民 (the people) + 币 (currency) = people’s currency (national currency of the people).",
-    "interpretation": "Official currency of the People’s Republic of China, literally “people’s currency.” Commonly abbreviated as RMB or CNY.",
-    "simplification": "幣 was simplified to 币 during PRC character simplification, adopting an ancient/abbreviated form with fewer strokes for ease of writing; the term became standard with the modern currency after 1949."
+    "description": "人民 (people) + 币/幣 (currency) = people's currency (PRC currency).",
+    "interpretation": "Names the national currency of the People's Republic of China; in daily use it often refers to 元 (yuán) as a unit. Conveys an official, state-backed currency of the people.",
+    "simplification": "幣 was simplified to 币 in the PRC to reduce strokes during mid-20th-century script reforms; 人民 remained unchanged."
   },
   "parts": [
     {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person; human; people; someone"
-    },
-    {
-      "char": "民",
-      "trad": "民",
-      "pinyin": "mín",
-      "english": "people; citizenry; folk; civil"
+      "char": "人民",
+      "trad": "人民",
+      "pinyin": "rénmín",
+      "english": "the people; citizenry; populace; common people"
     },
     {
       "char": "币",
       "trad": "幣",
       "pinyin": "bì",
-      "english": "currency; money; coin; monetary unit"
+      "english": "currency; money; coin; banknote"
     }
   ],
   "examples": [
     {
       "chinese": "我用人民币付款(我用人民幣付款)。",
-      "pinyin": "Wǒ yòng rénmínbì fùkuǎn.",
+      "pinyin": "Wǒ yòng Rénmínbì fùkuǎn.",
       "english": "I pay with renminbi."
     },
     {
-      "chinese": "人民币对美元的汇率今天上涨了(人民幣對美元的匯率今天上漲了)。",
-      "pinyin": "Rénmínbì duì Měiyuán de huìlǜ jīntiān shàngzhǎng le.",
-      "english": "The RMB exchange rate against the U.S. dollar rose today."
+      "chinese": "这家商店只收人民币(這家商店只收人民幣)。",
+      "pinyin": "Zhè jiā shāngdiàn zhǐ shōu Rénmínbì.",
+      "english": "This shop only accepts RMB."
     },
     {
-      "chinese": "在中国(在中國)，人民币是法定货币(人民幣是法定貨幣)。",
-      "pinyin": "Zài Zhōngguó, Rénmínbì shì fǎdìng huòbì.",
-      "english": "In China, the renminbi is legal tender."
+      "chinese": "人民币兑美元的汇率今天上升了(人民幣兌美元的匯率今天上升了)。",
+      "pinyin": "Rénmínbì duì Měiyuán de huìlǜ jīntiān shàngshēng le.",
+      "english": "The RMB exchange rate against the U.S. dollar rose today."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

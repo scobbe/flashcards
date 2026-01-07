@@ -1,0 +1,44 @@
+{
+  "simplified": "樊",
+  "traditional": "樊",
+  "pinyin": "fán",
+  "english": "fence; barrier",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound; ideogrammic compound",
+    "description": "phonetic: 棥 (OC *ban) + semantic: 𠬜",
+    "interpretation": "Combines the phonetic 棥, giving the reading fán, with a semantic element 𠬜 associated with grasping or obstructing, evoking the idea of impediment. The stacked-wood phonetic also suggests brushwood used to make enclosures, reinforcing the sense of a fence or barrier.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "棥",
+      "trad": "棥",
+      "pinyin": "fán",
+      "english": "brushwood; twigs"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这道围墙像一道樊篱，阻隔了两边的交流。(這道圍牆像一道樊籬，阻隔了兩邊的交流。)",
+      "pinyin": "Zhè dào wéiqiáng xiàng yīdào fánlí, zǔgé le liǎng biān de jiāoliú.",
+      "english": "This wall is like a barrier, blocking communication between the two sides."
+    },
+    {
+      "chinese": "他姓樊，来自湖北。(他姓樊，來自湖北。)",
+      "pinyin": "Tā xìng Fán, láizì Húběi.",
+      "english": "His surname is Fan, and he is from Hubei."
+    },
+    {
+      "chinese": "诗中写“世俗之樊”，表达束缚之意。(詩中寫「世俗之樊」，表達束縛之意。)",
+      "pinyin": "Shī zhōng xiě “shìsú zhī fán”, biǎodá shùfù zhī yì.",
+      "english": "In the poem it says “the fetters of the mundane world,” conveying the idea of constraint."
+    }
+  ]
+}

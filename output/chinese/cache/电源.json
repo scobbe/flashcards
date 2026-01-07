@@ -1,0 +1,30 @@
+{
+  "simplified": "电源",
+  "traditional": "電源",
+  "pinyin": "diànyuán",
+  "english": "power source; power supply; electrical source; mains power",
+  "etymology": {
+    "type": "compound word",
+    "description": "电 + 源 = source/origin of electricity (power supply).",
+    "interpretation": "Names the origin or supply of electric power—anything that provides electrical energy, from batteries to wall outlets (mains). Common in technical and everyday contexts for power inputs and switches.",
+    "simplification": "電 → 电: simplified by reducing strokes and removing the 'rain' component; 源 unchanged."
+  },
+  "examples": [
+    {
+      "chinese": "把电脑接到电源(把電腦接到電源)。",
+      "pinyin": "Bǎ diànnǎo jiē dào diànyuán.",
+      "english": "Connect the computer to a power source."
+    },
+    {
+      "chinese": "请关闭电源以免触电(請關閉電源以免觸電)。",
+      "pinyin": "Qǐng guānbì diànyuán yǐmiǎn chùdiàn.",
+      "english": "Please turn off the power to avoid electric shock."
+    },
+    {
+      "chinese": "这个充电器支持多种电源电压(這個充電器支持多種電源電壓)。",
+      "pinyin": "Zhège chōngdiànqì zhīchí duō zhǒng diànyuán diànyā.",
+      "english": "This charger supports multiple power supply voltages."
+    }
+  ],
+  "in_contemporary_usage": true
+}

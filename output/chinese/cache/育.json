@@ -1,0 +1,38 @@
+{
+  "simplified": "育",
+  "traditional": "育",
+  "pinyin": "yù",
+  "english": "educate; nurture; raise; bring up",
+  "etymology": {
+    "type": "geometric evolution",
+    "description": "Evolved geometrically from 胄; earlier written as 毓 for this pronunciation.",
+    "interpretation": "In Han times, scribes regularized the graph of 胄 into a more geometric form that became 育. Earlier, the yù reading and its ‘nurture/bring up’ sense were written with 毓, which 育 later came to represent in standard usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon; month"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "国家重视教育改革(國家重視教育改革)。",
+      "pinyin": "Guójiā zhòngshì jiàoyù gǎigé.",
+      "english": "The country attaches great importance to education reform."
+    },
+    {
+      "chinese": "父母细心地抚育孩子长大(父母細心地撫育孩子長大)。",
+      "pinyin": "Fùmǔ xìxīn de fǔyù háizi zhǎngdà.",
+      "english": "Parents carefully raise their children to adulthood."
+    },
+    {
+      "chinese": "这位老师致力于培育学生的创造力(這位老師致力於培育學生的創造力)。",
+      "pinyin": "Zhè wèi lǎoshī zhìlì yú péiyù xuéshēng de chuàngzàolì.",
+      "english": "This teacher is dedicated to cultivating students’ creativity."
+    }
+  ],
+  "in_contemporary_usage": true
+}

@@ -5,45 +5,40 @@
   "english": "cabbage",
   "etymology": {
     "type": "compound word",
-    "description": "高丽(古名“高丽”/Koryŏ) + 菜(vegetable) = “Korean vegetable” → cabbage.",
-    "interpretation": "Uses the old Chinese name for Korea to label a vegetable associated with or introduced via Korea. In Taiwan and Southern Sinitic speech, it became the common term for headed cabbage.",
-    "simplification": "麗 → 丽 by character simplification; the term itself is regional, with Mainland more often saying 卷心菜/包心菜/甘蓝."
+    "description": "高丽(Koryŏ/Korea) + 菜(vegetable) = “Korean vegetable” → cabbage.",
+    "interpretation": "Labels the plant as a Korean-associated vegetable; in Taiwan it became the everyday term for cabbage, likely influenced by Japanese-era naming that used 高麗菜 for leafy Brassica. Despite the literal sense, it specifically refers to cabbage in Taiwanese usage.",
+    "simplification": "麗 → 丽 under PRC character simplification to reduce strokes; the term otherwise unchanged (Taiwan keeps 麗)."
   },
   "parts": [
     {
-      "char": "高",
-      "trad": "高",
-      "pinyin": "gāo",
-      "english": "tall; high; loud; superior"
-    },
-    {
-      "char": "丽",
-      "trad": "麗",
-      "pinyin": "lì",
-      "english": "beautiful; pretty; elegant; splendid"
+      "char": "高丽",
+      "trad": "高麗",
+      "pinyin": "gāolí",
+      "english": "Goryeo; Korea (historical); Korean; of Korea"
     },
     {
       "char": "菜",
       "trad": "菜",
       "pinyin": "cài",
-      "english": "vegetable; greens; dish; cuisine"
+      "english": "vegetable; greens; dish; edible plants"
     }
   ],
   "examples": [
     {
-      "chinese": "在台湾，炒高丽菜很受欢迎(在臺灣，炒高麗菜很受歡迎)。",
-      "pinyin": "Zài Táiwān, chǎo gāolícài hěn shòu huānyíng.",
-      "english": "In Taiwan, stir-fried cabbage is very popular."
+      "chinese": "今天的菜市场有新鲜的高丽菜(今天的菜市場有新鮮的高麗菜)。",
+      "pinyin": "Jīntiān de càishìchǎng yǒu xīnxiān de gāolícài.",
+      "english": "The market has fresh cabbage today."
     },
     {
-      "chinese": "我买了一颗高丽菜准备做沙拉(我買了一顆高麗菜準備做沙拉)。",
-      "pinyin": "Wǒ mǎile yì kē gāolícài zhǔnbèi zuò shālā.",
-      "english": "I bought a head of cabbage to make a salad."
+      "chinese": "台湾常把卷心菜叫高丽菜(臺灣常把捲心菜叫高麗菜)。",
+      "pinyin": "Táiwān cháng bǎ juǎnxīncài jiào gāolícài.",
+      "english": "In Taiwan, cabbage is commonly called gāolícài."
     },
     {
-      "chinese": "高丽菜也叫卷心菜，在大陆更常用这个说法(高麗菜也叫捲心菜，在大陸更常用這個說法)。",
-      "pinyin": "Gāolícài yě jiào juǎnxīncài, zài Dàlù gèng cháng yòng zhège shuōfǎ.",
-      "english": "It’s also called juǎnxīncài; on the Mainland this term is more common."
+      "chinese": "我妈用高丽菜做炒菜和水饺馅(我媽用高麗菜做炒菜和水餃餡)。",
+      "pinyin": "Wǒ mā yòng gāolícài zuò chǎocài hé shuǐjiǎo xiàn.",
+      "english": "My mom uses cabbage for stir-fries and dumpling filling."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

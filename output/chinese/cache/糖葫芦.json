@@ -5,45 +5,40 @@
   "english": "candied hawthorn",
   "etymology": {
     "type": "compound word",
-    "description": "糖(sugar) + 葫芦(gourd) = “sugary gourd,” a sugar-coated fruit skewer resembling a small gourd.",
-    "interpretation": "Highlights the sugar coating and the gourd-like look of fruits strung on a stick; in practice it refers to hawthorn berries coated in hard syrup.",
-    "simplification": "蘆 → 芦 by adopting the simplified grass radical 艹 and simplifying the phonetic 盧 to 卢; other characters unchanged."
+    "description": "糖 (sugar) + 葫芦 (gourd) = ‘sugar(-coated) gourd’ → a sugar-coated skewer resembling a gourd.",
+    "interpretation": "Literally ‘sugar gourd’, naming a skewer of fruit—traditionally hawthorn—coated in hard sugar syrup so it looks gourd-like. Widely known as a classic northern Chinese street snack.",
+    "simplification": "葫蘆 → 葫芦 by simplifying 蘆 to 芦 in the grass-radical series to reduce strokes; 糖 unchanged."
   },
   "parts": [
     {
       "char": "糖",
       "trad": "糖",
       "pinyin": "táng",
-      "english": "sugar; candy; sweets; to sweeten"
+      "english": "sugar; candy; sweets; sweetened"
     },
     {
-      "char": "葫",
-      "trad": "葫",
-      "pinyin": "hú",
-      "english": "gourd; calabash; cucurbit; used in plant names"
-    },
-    {
-      "char": "芦",
-      "trad": "蘆",
-      "pinyin": "lú",
-      "english": "reed; bulrush; (in 葫芦) gourd; reed plant"
+      "char": "葫芦",
+      "trad": "葫蘆",
+      "pinyin": "húlu",
+      "english": "gourd; bottle gourd; calabash; gourd-shaped"
     }
   ],
   "examples": [
     {
-      "chinese": "冬天街头常能看到糖葫芦(冬天街頭常能看到糖葫蘆)。",
-      "pinyin": "Dōngtiān jiētóu cháng néng kàndào tánghúlu.",
-      "english": "In winter you can often see candied hawthorn on the streets."
+      "chinese": "我最爱冬天买糖葫芦(我最愛冬天買糖葫蘆)。",
+      "pinyin": "Wǒ zuì ài dōngtiān mǎi táng húlu.",
+      "english": "I love buying candied hawthorns in winter."
     },
     {
-      "chinese": "红艳的糖衣包着山楂，酸甜可口(紅豔的糖衣包著山楂，酸甜可口)。",
-      "pinyin": "Hóngyàn de tángyī bāo zhe shānzhā, suāntián kěkǒu.",
-      "english": "A bright red sugar shell coats the hawthorn, tasting sweet and tart."
+      "chinese": "这家店的冰糖葫芦很脆(這家店的冰糖葫蘆很脆)。",
+      "pinyin": "Zhè jiā diàn de bīngtáng húlu hěn cuì.",
+      "english": "The bingtanghulu here is very crunchy."
     },
     {
-      "chinese": "小贩把糖葫芦串在竹签上(小販把糖葫蘆串在竹籤上)。",
-      "pinyin": "Xiǎofàn bǎ tánghúlu chuàn zài zhúqiān shàng.",
-      "english": "Vendors thread the candied hawthorn onto bamboo skewers."
+      "chinese": "他把山楂串好再裹上糖浆做成糖葫芦(他把山楂串好再裹上糖漿做成糖葫蘆)。",
+      "pinyin": "Tā bǎ shānzhā chuàn hǎo zài guǒ shàng tángjiāng zuò chéng táng húlu.",
+      "english": "He skewers the hawthorns, coats them with syrup, and makes tanghulu."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }

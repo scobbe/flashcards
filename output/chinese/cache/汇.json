@@ -1,0 +1,44 @@
+{
+  "simplified": "汇",
+  "traditional": "彙",
+  "pinyin": "huì",
+  "english": "collection; to gather; category; compilation",
+  "in_contemporary_usage": true,
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 㣇 + abbreviated phonetic 胃",
+    "interpretation": "㣇 conveys the idea of gathering/bringing things together, matching the meaning of ‘collection/category’. 胃 (wèi) supplies the sound value huì in Old Chinese, guiding the pronunciation. In simplified Chinese, this meaning is written with 汇, which was standardized by merging with the simplified form of 匯/滙.",
+    "simplification": "Adopted the existing simplified form 汇 (from 匯/滙 by removing 隹), merging 彙 and 匯 into the single simplified graph 汇 for ease and uniformity."
+  },
+  "parts": [
+    {
+      "char": "㣇",
+      "trad": "㣇",
+      "pinyin": "huì",
+      "english": "to gather; assemble"
+    },
+    {
+      "char": "胃",
+      "trad": "胃",
+      "pinyin": "wèi",
+      "english": "stomach (phonetic component here)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这本词典按主题分类词汇，方便查找。(這本詞典按主題分類詞彙，方便查找。)",
+      "pinyin": "Zhè běn cídiǎn àn zhǔtí fēnlèi cíhuì, fāngbiàn cházhǎo.",
+      "english": "This dictionary categorizes vocabulary by topic for easy lookup."
+    },
+    {
+      "chinese": "编辑正在汇编资料，准备出版专题合集。(編輯正在彙編資料，準備出版專題合集。)",
+      "pinyin": "Biānjí zhèngzài huìbiān zīliào, zhǔnbèi chūbǎn zhuāntí héjí.",
+      "english": "The editors are compiling materials to publish a themed collection."
+    },
+    {
+      "chinese": "我们把各地的案例汇集起来，做成一份报告。(我們把各地的案例彙集起來，做成一份報告。)",
+      "pinyin": "Wǒmen bǎ gèdì de ànlì huìjí qǐlái, zuòchéng yí fèn bàogào.",
+      "english": "We gathered cases from various regions and made them into a report."
+    }
+  ]
+}

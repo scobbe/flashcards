@@ -1,0 +1,27 @@
+{
+  "simplified": "㣇",
+  "traditional": "㣇",
+  "pinyin": "huì",
+  "english": "to gather; assemble",
+  "in_contemporary_usage": false,
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: pig-like creature (豕) with fur; seal script shows pig’s head (彑) on top with fur and hooves below",
+    "interpretation": "Depicts a bristly pig, with the snout/head rendered as 彑 above and the body and hooves suggested below. Its attested sense ‘to gather; assemble’ likely reflects later borrowing or semantic extension to the huì morpheme rather than the original zoomorphic picture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    },
+    {
+      "char": "彑",
+      "trad": "彑",
+      "pinyin": "jì",
+      "english": "pig’s head; snout"
+    }
+  ]
+}

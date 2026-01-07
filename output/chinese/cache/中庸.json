@@ -1,0 +1,30 @@
+{
+  "simplified": "中庸",
+  "traditional": "中庸",
+  "pinyin": "zhōngyōng",
+  "english": "moderation; the mean; impartiality; Confucian text",
+  "etymology": {
+    "type": "compound word",
+    "description": "中 (center/mean) + 庸 (constant/ordinary) = the constant mean; moderation; title of a Confucian classic.",
+    "interpretation": "Combines the idea of centrality with constancy to express balance maintained as a steady norm. In Confucianism it names the Doctrine of the Mean and the ideal of moderation and impartiality.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "在处理争端时(在處理爭端時)，他坚持中庸之道(他堅持中庸之道)。",
+      "pinyin": "Zài chǔlǐ zhēngduān shí, tā jiānchí zhōngyōng zhī dào.",
+      "english": "When handling disputes, he adheres to the Doctrine of the Mean."
+    },
+    {
+      "chinese": "我最近在研读《中庸》(我最近在研讀《中庸》)。",
+      "pinyin": "Wǒ zuìjìn zài yándú «Zhōngyōng».",
+      "english": "I have been studying the Doctrine of the Mean recently."
+    },
+    {
+      "chinese": "领导风格要避免极端(領導風格要避免極端)，追求中庸而不平庸(追求中庸而不平庸)。",
+      "pinyin": "Lǐngdǎo fēnggé yào bìmiǎn jíduān, zhuīqiú zhōngyōng ér bù píngyōng.",
+      "english": "A leadership style should avoid extremes, seeking moderation without mediocrity."
+    }
+  ],
+  "in_contemporary_usage": true
+}

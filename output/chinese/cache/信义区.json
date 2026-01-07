@@ -4,46 +4,41 @@
   "pinyin": "Xìnyì Qū",
   "english": "Xinyi District, Taipei",
   "etymology": {
-    "type": "compound word (toponym)",
-    "description": "信 + 義 + 區 = district named for “faith and righteousness.”",
-    "interpretation": "Administrative district of Taipei whose name uses the virtue binome 信義, evoking trust and righteousness. Often associated with modern commercial landmarks like Taipei 101.",
-    "simplification": "Mainland simplification reduced strokes: 義 → 义 and 區 → 区; 信 unchanged. Taiwan uses traditional 信義區 as the official form."
+    "type": "proper noun (toponym compound)",
+    "description": "信义 + 区 = district named for the virtues of trust and righteousness.",
+    "interpretation": "Administrative district of Taipei City, Taiwan, literally “Integrity District.” Functions as a proper name, though it echoes Confucian virtues (xìn ‘trustworthiness’ and yì ‘righteousness’).",
+    "simplification": "義 → 义 simplifies the complex character by reducing components; 區 → 区 adopts a streamlined form. Both follow PRC simplification to reduce stroke count."
   },
   "parts": [
     {
-      "char": "信",
-      "trad": "信",
-      "pinyin": "xìn",
-      "english": "trust; faith; believe; letter"
-    },
-    {
-      "char": "义",
-      "trad": "義",
-      "pinyin": "yì",
-      "english": "righteousness; justice; meaning; duty"
+      "char": "信义",
+      "trad": "信義",
+      "pinyin": "xìnyì",
+      "english": "trustworthiness; good faith; righteousness; integrity"
     },
     {
       "char": "区",
       "trad": "區",
       "pinyin": "qū",
-      "english": "district; area; region; zone"
+      "english": "district; area; administrative division; region"
     }
   ],
   "examples": [
     {
-      "chinese": "我们今天去台北的信义区参观(我們今天去臺北的信義區參觀)。",
-      "pinyin": "Wǒmen jīntiān qù Táiběi de Xìnyì Qū cānguān.",
-      "english": "We’re going to Taipei’s Xinyi District today to visit."
+      "chinese": "我们住在台北市信义区(我們住在臺北市信義區)。",
+      "pinyin": "Wǒmen zhù zài Táiběi Shì Xìnyì Qū.",
+      "english": "We live in Xinyi District, Taipei City."
     },
     {
-      "chinese": "信义区位于台北市东部，是重要的商业中心(信義區位於臺北市東部，是重要的商業中心)。",
-      "pinyin": "Xìnyì Qū wèiyú Táiběi Shì dōngbù, shì zhòngyào de shāngyè zhōngxīn.",
-      "english": "Xinyi District is in eastern Taipei and is an important commercial center."
+      "chinese": "信义区有台北101(信義區有臺北101)。",
+      "pinyin": "Xìnyì Qū yǒu Táiběi yī líng yī.",
+      "english": "Xinyi District has Taipei 101."
     },
     {
-      "chinese": "许多游客来这里购物并参观台北101(許多遊客來這裡購物並參觀臺北101)。",
-      "pinyin": "Xǔduō yóukè lái zhèlǐ gòuwù bìng cānguān Táiběi yī líng yī.",
-      "english": "Many tourists come here to shop and visit Taipei 101."
+      "chinese": "坐捷运到信义区很方便(坐捷運到信義區很方便)。",
+      "pinyin": "Zuò jiéyùn dào Xìnyì Qū hěn fāngbiàn.",
+      "english": "It’s very convenient to take the MRT to Xinyi District."
     }
-  ]
+  ],
+  "in_contemporary_usage": true
 }
