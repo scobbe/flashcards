@@ -1,0 +1,29 @@
+{
+  "simplified": "示",
+  "traditional": "示",
+  "pinyin": "shì",
+  "english": "altar; to show; revelation",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): an altar; extra strokes added to avoid confusion with ancient 下 and 主; unrelated to 小 and 京; see also 帝.",
+    "interpretation": "Originally depicted an altar used for offerings, matching meanings tied to ritual, signs, and showing. Later graphic tweaks distinguished it from similar ancient graphs while preserving the altar-based sense of revelation and display.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他向领导请示下一步计划(他向領導請示下一步計劃)。",
+      "pinyin": "Tā xiàng lǐngdǎo qǐngshì xià yī bù jìhuà.",
+      "english": "He asked the leader for instructions on the next step."
+    },
+    {
+      "chinese": "数据清楚地显示趋势(數據清楚地顯示趨勢)。",
+      "pinyin": "Shùjù qīngchǔ de xiǎnshì qūshì.",
+      "english": "The data clearly shows the trend."
+    },
+    {
+      "chinese": "群众在广场示威(群眾在廣場示威)。",
+      "pinyin": "Qúnzhòng zài guǎngchǎng shìwēi.",
+      "english": "The crowd held a demonstration in the square."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "茶",
+  "traditional": "茶",
+  "pinyin": "chá",
+  "english": "tea; tea leaves; tea plant; tea beverage",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 + phonetic: 余 (OC *la); OC reading *rlaː; modified from archaic 荼 ‘bitter plant’.",
+    "interpretation": "Plant radical 艹 marks a botanical meaning, while 余 supplies the sound (reconstructed OC *la/~rlaː). Historically, the graph was adapted from 荼 ‘bitter plant’ used for tea in classical texts. The modern lower part is not related to the component in 条/條.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "余",
+      "trad": "餘",
+      "pinyin": "yú",
+      "english": "surplus; extra; remainder; I (Classical)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢喝绿茶(我喜歡喝綠茶)。",
+      "pinyin": "Wǒ xǐhuan hē lǜchá.",
+      "english": "I like to drink green tea."
+    },
+    {
+      "chinese": "请给我一杯茶(請給我一杯茶)。",
+      "pinyin": "Qǐng gěi wǒ yì bēi chá.",
+      "english": "Please give me a cup of tea."
+    },
+    {
+      "chinese": "云南的茶很有名(雲南的茶很有名)。",
+      "pinyin": "Yúnnán de chá hěn yǒumíng.",
+      "english": "Tea from Yunnan is very famous."
+    }
+  ]
+}

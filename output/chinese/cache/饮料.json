@@ -1,0 +1,43 @@
+{
+  "simplified": "饮料",
+  "traditional": "飲料",
+  "pinyin": "yǐnliào",
+  "english": "beverage",
+  "etymology": {
+    "type": "compound word",
+    "description": "饮(drink) + 料(material; ingredients) = liquids prepared for drinking (drinks).",
+    "interpretation": "Names liquids prepared for consumption, usually non‑alcoholic. Common for soda, juice, tea, etc., while alcoholic drinks are typically called 酒.",
+    "simplification": "飲 → 饮 by using the simplified food radical 饣 (from 食) and streamlining the right component; 料 unchanged."
+  },
+  "parts": [
+    {
+      "char": "饮",
+      "trad": "飲",
+      "pinyin": "yǐn",
+      "english": "to drink; drink; to give a drink; imbibe"
+    },
+    {
+      "char": "料",
+      "trad": "料",
+      "pinyin": "liào",
+      "english": "material; ingredients; stuff; to expect"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "便利店里各种饮料都有(便利店裡各種飲料都有)。",
+      "pinyin": "Biànlìdiàn lǐ gèzhǒng yǐnliào dōu yǒu.",
+      "english": "The convenience store has all kinds of beverages."
+    },
+    {
+      "chinese": "我想点一杯冰的饮料(我想點一杯冰的飲料)。",
+      "pinyin": "Wǒ xiǎng diǎn yì bēi bīng de yǐnliào.",
+      "english": "I’d like to order a cold drink."
+    },
+    {
+      "chinese": "运动后要补充水分，少喝含糖饮料(運動後要補充水分，少喝含糖飲料)。",
+      "pinyin": "Yùndòng hòu yào bǔchōng shuǐfèn, shǎo hē hántáng yǐnliào.",
+      "english": "After exercising, replenish fluids and drink fewer sugary beverages."
+    }
+  ]
+}

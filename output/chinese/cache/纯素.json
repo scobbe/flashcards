@@ -1,0 +1,43 @@
+{
+  "simplified": "纯素",
+  "traditional": "純素",
+  "pinyin": "chúnsù",
+  "english": "vegan",
+  "etymology": {
+    "type": "compound word",
+    "description": "纯(純) ‘pure’ + 素 ‘plain; vegetarian’ = strictly plant-based (vegan).",
+    "interpretation": "Emphasizes complete avoidance of animal products, stronger than 素/素食 which may include eggs or dairy. Common in compounds like 纯素饮食 and 纯素者; also corresponds to 全素 in Taiwan usage.",
+    "simplification": "纯 was simplified from 純 by replacing the silk radical 糸 with 纟 in the PRC script reform; phonetic 屯 retained. 素 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "纯",
+      "trad": "純",
+      "pinyin": "chún",
+      "english": "pure; unmixed; genuine; simple"
+    },
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "plain; vegetarian; element; unadorned"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我吃纯素(我吃純素)。",
+      "pinyin": "Wǒ chī chúnsù.",
+      "english": "I eat a vegan diet."
+    },
+    {
+      "chinese": "他坚持纯素饮食(他堅持純素飲食)。",
+      "pinyin": "Tā jiānchí chúnsù yǐnshí.",
+      "english": "He sticks to a vegan diet."
+    },
+    {
+      "chinese": "这家餐厅提供纯素选项(這家餐廳提供純素選項)。",
+      "pinyin": "Zhè jiā cāntīng tígōng chúnsù xuǎnxiàng.",
+      "english": "This restaurant offers vegan options."
+    }
+  ]
+}

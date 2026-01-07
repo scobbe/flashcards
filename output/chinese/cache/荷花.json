@@ -1,0 +1,43 @@
+{
+  "simplified": "荷花",
+  "traditional": "荷花",
+  "pinyin": "héhuā",
+  "english": "lotus flower",
+  "etymology": {
+    "type": "compound word",
+    "description": "荷(lotus) + 花(flower) = lotus flower",
+    "interpretation": "Names the blossom of the lotus plant, common in ponds and lakes. Often carries poetic connotations of purity and elegance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "荷",
+      "trad": "荷",
+      "pinyin": "hé",
+      "english": "lotus; to carry on the shoulder; to shoulder; burden"
+    },
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower; blossom; to spend (money); variegated"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夏天的池塘里开满了荷花(夏天的池塘裡開滿了荷花)。",
+      "pinyin": "Xiàtiān de chítáng lǐ kāi mǎn le héhuā.",
+      "english": "In summer, the pond is full of blooming lotuses."
+    },
+    {
+      "chinese": "她画了一幅荷花图(她畫了一幅荷花圖)。",
+      "pinyin": "Tā huà le yī fú héhuā tú.",
+      "english": "She painted a picture of lotus flowers."
+    },
+    {
+      "chinese": "荷花象征纯洁与高雅(荷花象徵純潔與高雅)。",
+      "pinyin": "Héhuā xiàngzhēng chúnjié yǔ gāoyǎ.",
+      "english": "Lotus flowers symbolize purity and elegance."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "梳子",
+  "traditional": "梳子",
+  "pinyin": "shūzi",
+  "english": "comb",
+  "etymology": {
+    "type": "compound word",
+    "description": "梳 + 子 = comb (tool/noun).",
+    "interpretation": "Adds the nominal suffix 子 to the root 梳 ‘to comb’ to name the object. Emphasizes a small, tangible implement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "梳",
+      "trad": "梳",
+      "pinyin": "shū",
+      "english": "comb; to comb; to smooth; to untangle"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son; seed; noun suffix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我用梳子梳头(我用梳子梳頭)。",
+      "pinyin": "Wǒ yòng shūzi shū tóu.",
+      "english": "I use a comb to comb my hair."
+    },
+    {
+      "chinese": "这把梳子很轻(這把梳子很輕)，带在包里很方便(帶在包裡很方便)。",
+      "pinyin": "Zhè bǎ shūzi hěn qīng, dài zài bāo lǐ hěn fāngbiàn.",
+      "english": "This comb is light, and carrying it in the bag is convenient."
+    },
+    {
+      "chinese": "请把梳子递给我(請把梳子遞給我)。",
+      "pinyin": "Qǐng bǎ shūzi dì gěi wǒ.",
+      "english": "Please pass me the comb."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "啊",
+  "traditional": "啊",
+  "pinyin": "a",
+  "english": "particle/exclamation",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 口 (“mouth”) + phonetic 阿 (OC *qaːl).",
+    "interpretation": "Mouth 口 signals a sound or speech-related function, while 阿 provides the phonetic clue to the reading. This aligns with its role as an interjection/particle uttered in speech, with 阿 hinting at the vowel-like sound value.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "阿",
+      "trad": "阿",
+      "pinyin": "ā",
+      "english": "prefix (in names); ah"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "好美啊(好美啊)。",
+      "pinyin": "Hǎo měi a.",
+      "english": "So beautiful!"
+    },
+    {
+      "chinese": "你来了啊(你來了啊)。",
+      "pinyin": "Nǐ lái le a.",
+      "english": "Oh, you’ve come."
+    },
+    {
+      "chinese": "别走啊(別走啊)。",
+      "pinyin": "Bié zǒu a.",
+      "english": "Don’t go, please."
+    }
+  ]
+}

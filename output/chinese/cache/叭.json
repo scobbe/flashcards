@@ -1,0 +1,43 @@
+{
+  "simplified": "叭",
+  "traditional": "叭",
+  "pinyin": "bā",
+  "english": "onomatopoeic ‘ba’ sound; pop; bang; yap",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 口 (“mouth”) + phonetic 巴 (bā)",
+    "interpretation": "口 signals a connection to sounds or speech. 巴 provides the bā sound value, matching its onomatopoeic use for pops/bangs and the yapping of a small dog.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "to cling; to long for; Ba"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "气球叭的一声就破了(氣球叭的一聲就破了)。",
+      "pinyin": "Qìqiú bā de yī shēng jiù pò le.",
+      "english": "The balloon popped with a sharp 'ba' sound."
+    },
+    {
+      "chinese": "爆竹在巷口叭叭响(爆竹在巷口叭叭響)。",
+      "pinyin": "Bàozhú zài xiàngkǒu bābā xiǎng.",
+      "english": "Firecrackers were popping at the mouth of the alley."
+    },
+    {
+      "chinese": "小狗在门口叭叭叫，吵得人睡不着(小狗在門口叭叭叫，吵得人睡不著)。",
+      "pinyin": "Xiǎogǒu zài ménkǒu bābā jiào, chǎo de rén shuì bù zháo.",
+      "english": "The little dog yapped at the door, keeping people from sleeping."
+    }
+  ]
+}

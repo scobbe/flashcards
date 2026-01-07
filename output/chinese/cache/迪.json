@@ -1,0 +1,37 @@
+{
+  "simplified": "迪",
+  "traditional": "迪",
+  "pinyin": "dí",
+  "english": "enlighten; guide; proceed; pursue",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 辵/辶 ‘walk, movement’ + phonetic: 由 (yóu).",
+    "interpretation": "Combines the walking/motion radical with 由 as the sound-bearing element, suggesting moving or proceeding along a path. The sense broadened from ‘to proceed’ to ‘to guide’ and, by extension, ‘to enlighten’ someone toward the right way.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "from; by; reason; through"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "老师的话启迪了我(老師的話啟迪了我)。",
+      "pinyin": "Lǎoshī de huà qǐdí le wǒ.",
+      "english": "The teacher’s words enlightened me."
+    },
+    {
+      "chinese": "这本书很有启迪性，能引发深思(這本書很有啟迪性，能引發深思)。",
+      "pinyin": "Zhè běn shū hěn yǒu qǐdí xìng, néng yǐnfā shēnsī.",
+      "english": "This book is very enlightening and can provoke deep reflection."
+    },
+    {
+      "chinese": "迪士尼乐园很受孩子欢迎(迪士尼樂園很受孩子歡迎)。",
+      "pinyin": "Díshìní Lèyuán hěn shòu háizi huānyíng.",
+      "english": "Disneyland is very popular with children."
+    }
+  ]
+}

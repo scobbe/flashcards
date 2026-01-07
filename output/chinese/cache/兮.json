@@ -1,0 +1,37 @@
+{
+  "simplified": "兮",
+  "traditional": "兮",
+  "pinyin": "xī",
+  "english": "exclamatory particle",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "Ideogrammic: 丂 (“fork in a tree”) + two parallel vertical strokes above (finer branches; sound of wind); originally the same as 乎.",
+    "interpretation": "Imagery of a branching trunk with twigs evokes wind passing through branches, yielding an exclamatory sound. It later became a sentence-final particle expressing emotion or emphasis in Classical Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "fork in a tree"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "美人兮(美人兮)，见之不忘(見之不忘)。",
+      "pinyin": "měi rén xī, jiàn zhī bù wàng.",
+      "english": "Fair beauty—upon seeing her, one does not forget."
+    },
+    {
+      "chinese": "山高兮(山高兮)，水长(水長)。",
+      "pinyin": "shān gāo xī, shuǐ cháng.",
+      "english": "High are the mountains; the waters run long."
+    },
+    {
+      "chinese": "吾心伤兮(吾心傷兮)，泪下如雨(淚下如雨)。",
+      "pinyin": "wú xīn shāng xī, lèi xià rú yǔ.",
+      "english": "My heart aches; tears fall like rain."
+    }
+  ]
+}

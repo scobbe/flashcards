@@ -1,0 +1,43 @@
+{
+  "simplified": "板",
+  "traditional": "板",
+  "pinyin": "bǎn",
+  "english": "board; plank; slab; stiff",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 木 ‘tree’ + phonetic 反 (OC *panʔ, *pʰan).",
+    "interpretation": "木 signals a wooden object, pointing to meanings like board or plank. 反 contributes the sound, aligning with the modern reading bǎn; the sense of “stiff” extends metaphorically from something flat and rigid like a plank.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "反",
+      "trad": "反",
+      "pinyin": "fǎn",
+      "english": "reverse; oppose; anti-"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请把这块板抬到门口(請把這塊板抬到門口)。",
+      "pinyin": "Qǐng bǎ zhè kuài bǎn tái dào ménkǒu.",
+      "english": "Please carry this plank to the doorway."
+    },
+    {
+      "chinese": "他板着脸不说话(他板著臉不說話)。",
+      "pinyin": "Tā bǎn zhe liǎn bù shuōhuà.",
+      "english": "He kept a stiff face and didn't speak."
+    },
+    {
+      "chinese": "这块木板很结实(這塊木板很結實)。",
+      "pinyin": "Zhè kuài mùbǎn hěn jiéshi.",
+      "english": "This wooden board is very sturdy."
+    }
+  ]
+}

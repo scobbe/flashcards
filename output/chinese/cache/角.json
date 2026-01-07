@@ -1,0 +1,29 @@
+{
+  "simplified": "角",
+  "traditional": "角",
+  "pinyin": "jiǎo",
+  "english": "horn; angle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram — a horn; conservative form 𧢲; similar but unrelated to 甬, 用, and the bottom part of 備.",
+    "interpretation": "Depicts an animal horn in profile, with a pointed tip and base; early forms were more pictorial, as seen in 𧢲. The simplified, angular strokes still evoke a horn and by extension an angle or corner.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "公牛的角很大(公牛的角很大)。",
+      "pinyin": "Gōngniú de jiǎo hěn dà.",
+      "english": "The bull’s horns are big."
+    },
+    {
+      "chinese": "三角形有三个角(三角形有三個角)。",
+      "pinyin": "Sānjiǎoxíng yǒu sān gè jiǎo.",
+      "english": "A triangle has three angles."
+    },
+    {
+      "chinese": "这枚硬币是一角钱(這枚硬幣是一角錢)。",
+      "pinyin": "Zhè méi yìngbì shì yī jiǎo qián.",
+      "english": "This coin is one jiao (0.1 yuan)."
+    }
+  ]
+}

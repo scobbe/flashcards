@@ -1,0 +1,29 @@
+{
+  "simplified": "象",
+  "traditional": "像",
+  "pinyin": "xiàng",
+  "english": "image;appearance;phenomenon;elephant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictographic representation of an elephant: ⺈ = trunk, 𫩏 = head, 𧰨 = body.",
+    "interpretation": "Originally a drawing of an elephant, with the curved stroke as the trunk and distinct head and body parts. The sense later broadened in compounds to refer to mental images, impressions, and observable phenomena.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "大象在河边喝水(大象在河邊喝水)。",
+      "pinyin": "Dàxiàng zài hébiān hē shuǐ.",
+      "english": "The elephant drinks water by the riverside."
+    },
+    {
+      "chinese": "这个现象很普遍(這個現象很普遍)。",
+      "pinyin": "Zhège xiànxiàng hěn pǔbiàn.",
+      "english": "This phenomenon is very common."
+    },
+    {
+      "chinese": "气象预报说明今晚有雨(氣象預報說明今晚有雨)。",
+      "pinyin": "Qìxiàng yùbào shuōmíng jīn wǎn yǒu yǔ.",
+      "english": "The weather forecast says it will rain tonight."
+    }
+  ]
+}

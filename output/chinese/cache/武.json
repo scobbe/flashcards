@@ -1,0 +1,43 @@
+{
+  "simplified": "武",
+  "traditional": "武",
+  "pinyin": "wǔ",
+  "english": "martial; military; force; valiant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "戈 ‘blade’ + 止 ‘foot; to walk’ — army going on an expedition.",
+    "interpretation": "Combines a weapon with a moving foot to depict troops setting out, leading to meanings like “martial” and “military.” A later folk reading as “stopping violence” is traditional but likely incorrect; here 止 functions as “foot/walk,” not “stop.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "dagger-axe; weapon"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "to stop; foot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他在学校练武术(他在學校練武術)。",
+      "pinyin": "Tā zài xuéxiào liàn wǔshù.",
+      "english": "He practices martial arts at school."
+    },
+    {
+      "chinese": "国家依靠武力维护安全(國家依靠武力維護安全)。",
+      "pinyin": "Guójiā yīkào wǔlì wéihù ānquán.",
+      "english": "The state relies on force to maintain security."
+    },
+    {
+      "chinese": "将军指挥武装部队(將軍指揮武裝部隊)。",
+      "pinyin": "Jiāngjūn zhǐhuī wǔzhuāng bùduì.",
+      "english": "The general commands the armed forces."
+    }
+  ]
+}

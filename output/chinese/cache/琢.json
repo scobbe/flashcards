@@ -1,0 +1,43 @@
+{
+  "simplified": "琢",
+  "traditional": "琢",
+  "pinyin": "zhuó",
+  "english": "carve; polish (jade)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 𤣩 “jade” + phonetic: 豖; the phonetic depicts a castrated boar and may also suggest the idea of cutting.",
+    "interpretation": "Jade marks the domain of meaning: working with jade. The phonetic 豖 gives the sound and, being associated with cutting (castration), reinforces the sense of carving/polishing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "豖",
+      "trad": "豖",
+      "pinyin": "chù",
+      "english": "castrated boar; castrated pig"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "工匠细心琢玉(工匠細心琢玉)。",
+      "pinyin": "Gōngjiàng xìxīn zhuó yù.",
+      "english": "The craftsman carefully carves/polishes jade."
+    },
+    {
+      "chinese": "雕琢玉器需要高超的技艺(雕琢玉器需要高超的技藝)。",
+      "pinyin": "Diāozhuó yùqì xūyào gāochāo de jìyì.",
+      "english": "Carving jade artifacts requires superb craftsmanship."
+    },
+    {
+      "chinese": "这段文字过于雕琢，显得不自然(這段文字過於雕琢，顯得不自然)。",
+      "pinyin": "Zhè duàn wénzì guòyú diāozhuó, xiǎnde bù zìrán.",
+      "english": "This passage is overly polished and feels unnatural."
+    }
+  ]
+}

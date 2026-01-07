@@ -1,0 +1,49 @@
+{
+  "simplified": "王老吉",
+  "traditional": "王老吉",
+  "pinyin": "Wánglǎojí",
+  "english": "Wong Lo Kat (beverage brand)",
+  "etymology": {
+    "type": "compound proper noun",
+    "description": "王 (surname Wang) + 老 (honorific ‘venerable/old’) + 吉 (auspicious) = “Venerable Lucky Wang,” used as a brand name.",
+    "interpretation": "Combines a family name with an honorific and an auspicious character to signal respectability and good fortune. Used as the herbal tea brand known in Cantonese as Wong Lo Kat.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king; monarch; ruler; surname Wang"
+    },
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old; venerable; experienced; respectful prefix"
+    },
+    {
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "lucky; auspicious; good fortune; surname Ji"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢喝王老吉(我喜歡喝王老吉)。",
+      "pinyin": "Wǒ xǐhuān hē Wáng Lǎojí.",
+      "english": "I like to drink Wong Lo Kat."
+    },
+    {
+      "chinese": "在广东，大家把王老吉叫做凉茶(在廣東，大家把王老吉叫做涼茶)。",
+      "pinyin": "Zài Guǎngdōng, dàjiā bǎ Wáng Lǎojí jiàozuò liángchá.",
+      "english": "In Guangdong, people refer to Wong Lo Kat as herbal tea."
+    },
+    {
+      "chinese": "红罐的王老吉很受欢迎(紅罐的王老吉很受歡迎)。",
+      "pinyin": "Hóng guàn de Wáng Lǎojí hěn shòu huānyíng.",
+      "english": "The red-can Wong Lo Kat is very popular."
+    }
+  ]
+}

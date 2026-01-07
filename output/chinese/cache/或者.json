@@ -1,0 +1,43 @@
+{
+  "simplified": "或者",
+  "traditional": "或者",
+  "pinyin": "huòzhě",
+  "english": "or; perhaps",
+  "etymology": {
+    "type": "compound word",
+    "description": "或(maybe; some) + 者(one; person/thing) = originally 'some (people/things)', later used as 'or; perhaps'.",
+    "interpretation": "Built from a classical noun phrase meaning 'some ones', it generalized to mark alternatives and uncertainty; in modern Mandarin it links options in statements (vs. 还是 in questions) and can also mean 'perhaps'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "或",
+      "trad": "或",
+      "pinyin": "huò",
+      "english": "or; maybe; some; occasionally"
+    },
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "person; one who; thing; suffix -er"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们明天或者后天去北京(我們明天或者後天去北京)。",
+      "pinyin": "Wǒmen míngtiān huòzhě hòutiān qù Běijīng.",
+      "english": "We’ll go to Beijing tomorrow or the day after tomorrow."
+    },
+    {
+      "chinese": "他现在很忙(他現在很忙)，或者改天再谈吧(或者改天再談吧)。",
+      "pinyin": "Tā xiànzài hěn máng, huòzhě gǎitiān zài tán ba.",
+      "english": "He’s busy now; maybe we can talk another day."
+    },
+    {
+      "chinese": "你可以坐地铁或者打车去机场(你可以坐地鐵或者打車去機場)。",
+      "pinyin": "Nǐ kěyǐ zuò dìtiě huòzhě dǎ chē qù jīchǎng.",
+      "english": "You can take the subway or a taxi to the airport."
+    }
+  ]
+}

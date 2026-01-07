@@ -1,0 +1,43 @@
+{
+  "simplified": "开封",
+  "traditional": "開封",
+  "pinyin": "Kāifēng",
+  "english": "Kaifeng",
+  "etymology": {
+    "type": "compound word",
+    "description": "开(open) + 封(seal; fief) → toponym “Kaifeng.”",
+    "interpretation": "Historically used as an administrative place name, the pairing evokes the sense of establishing or “opening” a fief/settlement. Later dynasties used it for the prefecture and capital centered at today’s Kaifeng.",
+    "simplification": "開 → 开 simplified by reducing the 門 ‘door’ component to fewer strokes; 封 unchanged."
+  },
+  "parts": [
+    {
+      "char": "开",
+      "trad": "開",
+      "pinyin": "kāi",
+      "english": "to open; to start; to operate (a machine/vehicle); to expand/develop"
+    },
+    {
+      "char": "封",
+      "trad": "封",
+      "pinyin": "fēng",
+      "english": "to seal; to confer (a title/fief); measure word for letters; to enclose"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我打算去开封旅游(我打算去開封旅遊)。",
+      "pinyin": "Wǒ dǎsuàn qù Kāifēng lǚyóu.",
+      "english": "I plan to travel to Kaifeng."
+    },
+    {
+      "chinese": "宋代时(宋代時)，开封是首都(開封是首都)。",
+      "pinyin": "Sòngdài shí, Kāifēng shì shǒudū.",
+      "english": "During the Song dynasty, Kaifeng was the capital."
+    },
+    {
+      "chinese": "开封的夜市很热闹(開封的夜市很熱鬧)。",
+      "pinyin": "Kāifēng de yèshì hěn rènào.",
+      "english": "Kaifeng’s night market is very lively."
+    }
+  ]
+}

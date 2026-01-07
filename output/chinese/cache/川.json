@@ -1,0 +1,29 @@
+{
+  "simplified": "川",
+  "traditional": "川",
+  "pinyin": "chuān",
+  "english": "river; stream",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) of flowing water; compare 水, 巛, and 𡿧.",
+    "interpretation": "Depicts stream channels with simple strokes suggesting the flow of water. Related forms like 巛 and 水 reflect the same water concept in different graphic traditions and scripts.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "這裡的山川風光壯麗(这里的山川风光壮丽)。",
+      "pinyin": "Zhèlǐ de shānchuān fēngguāng zhuànglì.",
+      "english": "The mountain-and-river scenery here is magnificent."
+    },
+    {
+      "chinese": "這條冰川正在加速消融(这条冰川正在加速消融)。",
+      "pinyin": "Zhè tiáo bīngchuān zhèngzài jiāsù xiāoróng.",
+      "english": "This glacier is melting faster."
+    },
+    {
+      "chinese": "節日裡街上人流川流不息(节日里街上人流川流不息)。",
+      "pinyin": "Jiérì lǐ jiē shàng rénliú chuānliú bùxī.",
+      "english": "During the festival, the crowds on the streets flow without end."
+    }
+  ]
+}

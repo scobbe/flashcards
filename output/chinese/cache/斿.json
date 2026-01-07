@@ -1,0 +1,38 @@
+{
+  "simplified": "斿",
+  "traditional": "斿",
+  "pinyin": "yóu",
+  "english": "streamer; pennant",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "㫃 ‘flag’ + 子 ‘child’ — a child holding a flag (to travel).",
+    "interpretation": "Combines the flag element with a child to depict someone carrying a banner while moving, evoking travel or a leading standard. The sense narrows to the streamer or pennant itself, the part that flutters in motion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㫃",
+      "trad": "㫃",
+      "pinyin": "qí",
+      "english": "flag; banner"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "旗上的斿随风飘扬(旗上的斿隨風飄揚)。",
+      "pinyin": "Qí shàng de yóu suí fēng piāoyáng.",
+      "english": "The pennant on the flag flutters in the wind."
+    },
+    {
+      "chinese": "仪仗队举着红色斿，引领队伍前行(儀仗隊舉著紅色斿，引領隊伍前行)。",
+      "pinyin": "Yízhàngduì jǔzhe hóngsè yóu, yǐnlǐng duìwǔ qiánxíng.",
+      "english": "The honor guard held a red pennant, leading the procession forward."
+    }
+  ]
+}

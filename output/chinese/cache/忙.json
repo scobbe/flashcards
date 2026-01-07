@@ -1,0 +1,43 @@
+{
+  "simplified": "忙",
+  "traditional": "忙",
+  "pinyin": "máng",
+  "english": "busy",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 忄 + phonetic: 亡 (OC *maŋ)",
+    "interpretation": "Uses the heart element (忄/心) to indicate a mental or emotional state, while 亡 provides the sound máng. It shares the phonetic 亡 with 忘, reflecting a phonetic series tied to Old Chinese *maŋ.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "to die; perish; flee; lose"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我今天很忙(我今天很忙)。",
+      "pinyin": "Wǒ jīntiān hěn máng.",
+      "english": "I’m very busy today."
+    },
+    {
+      "chinese": "最近工作太多(最近工作太多)，我忙得喘不过气(我忙得喘不過氣)。",
+      "pinyin": "Zuìjìn gōngzuò tài duō, wǒ máng de chuǎn bù guò qì.",
+      "english": "Lately there’s too much work; I’m so busy I can hardly breathe."
+    },
+    {
+      "chinese": "他忙着准备考试(他忙著準備考試)。",
+      "pinyin": "Tā mángzhe zhǔnbèi kǎoshì.",
+      "english": "He is busy preparing for the exam."
+    }
+  ]
+}

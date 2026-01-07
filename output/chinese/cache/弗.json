@@ -1,0 +1,29 @@
+{
+  "simplified": "弗",
+  "traditional": "弗",
+  "pinyin": "fú",
+  "english": "not (classical); un-",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): rope wrapped around two pieces of wood to keep them straight; later borrowed phonetically for “no”. The derivative 拂 stands for the original word.",
+    "interpretation": "Depicts two sticks bound by a cord to keep them straight. Its common negative meaning arose from a phonetic loan, unrelated to the original image. The concrete sense later shifted to the character 拂.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他对命令弗从(他對命令弗從)。",
+      "pinyin": "tā duì mìnglìng fú cóng.",
+      "english": "He did not comply with the order."
+    },
+    {
+      "chinese": "吾弗知其故(吾弗知其故)。",
+      "pinyin": "wú fú zhī qí gù.",
+      "english": "I do not know the reason."
+    },
+    {
+      "chinese": "医者仁心(醫者仁心)，弗可欺(弗可欺)。",
+      "pinyin": "yī zhě rén xīn, fú kě qī.",
+      "english": "Physicians are benevolent; they must not be deceived."
+    }
+  ]
+}

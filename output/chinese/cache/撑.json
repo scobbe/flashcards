@@ -1,0 +1,43 @@
+{
+  "simplified": "撑",
+  "traditional": "撐",
+  "pinyin": "chēng",
+  "english": "to prop/support; to hold up; to be overstuffed; to sustain",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 手 (“hand”) + phonetic: 牚 (OC *rtʰaːŋs)",
+    "interpretation": "The hand element indicates a manual action such as holding or propping something up. The phonetic 牚 supplies the pronunciation cheng and also historically relates to the idea of propping or supporting, reinforcing the meaning.",
+    "simplification": "The traditional right-side phonetic 牚 was replaced by a streamlined form in 撑, reducing strokes while preserving the left-hand semantic 扌 and the pronunciation chēng."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "牚",
+      "trad": "牚",
+      "pinyin": "chēng",
+      "english": "to prop; support"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他用木棍把门撑住(他用木棍把門撐住)。",
+      "pinyin": "Tā yòng mùgùn bǎ mén chēng zhù.",
+      "english": "He used a stick to prop the door open."
+    },
+    {
+      "chinese": "饭吃太多，我都撑了(飯吃太多，我都撐了)。",
+      "pinyin": "Fàn chī tài duō, wǒ dōu chēng le.",
+      "english": "I ate too much and feel overstuffed."
+    },
+    {
+      "chinese": "雨下得很大，他赶紧撑伞(雨下得很大，他趕緊撐傘)。",
+      "pinyin": "Yǔ xià de hěn dà, tā gǎnjǐn chēng sǎn.",
+      "english": "It was raining hard, and he quickly opened his umbrella."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "涅",
+  "traditional": "涅",
+  "pinyin": "niè",
+  "english": "blacken; mud",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "semantic: 氵 “water” + 土 “soil” + phonetic: 日 (OC *njiɡ).",
+    "interpretation": "Water and earth together evoke wet soil or sludge, pointing to meanings like mud or blackening. The 日 component contributes the sound (approximating Old Chinese ni-), while the overall composition also pictures muddy, darkened earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他用草木灰把棉布涅成黑色(他用草木灰把棉布涅成黑色)。",
+      "pinyin": "Tā yòng cǎomù huī bǎ miánbù niè chéng hēisè.",
+      "english": "He used plant ash solution to dye the cotton cloth black."
+    },
+    {
+      "chinese": "白沙在涅(白沙在涅)，与之俱黑(與之俱黑)。",
+      "pinyin": "Bái shā zài niè, yǔ zhī jù hēi.",
+      "english": "White sand, when in black dye, becomes black as well."
+    },
+    {
+      "chinese": "他在逆境中得到涅槃重生(他在逆境中得到涅槃重生)。",
+      "pinyin": "Tā zài nìjìng zhōng dédào nièpán chóngshēng.",
+      "english": "He attained a nirvana-like rebirth amid adversity."
+    }
+  ]
+}

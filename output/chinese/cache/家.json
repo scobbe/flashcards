@@ -1,0 +1,43 @@
+{
+  "simplified": "家",
+  "traditional": "家",
+  "pinyin": "jiā",
+  "english": "home; family; household; expert",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 宀 ‘roof’ + phonetic: 𢑓 (xiá, ‘male pig’); later misread/replaced by 豕.",
+    "interpretation": "Meaning centers on a dwelling, while the embedded 𢑓 provided the sound in Old Chinese rather than literal meaning. Later graphic change to 豕 led to the folk idea of “pig under a roof,” but the original phonetic was a different pig-related graph.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𢑓",
+      "trad": "𢑓",
+      "pinyin": "xiá",
+      "english": "male pig"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我回家吃饭(我回家吃飯)。",
+      "pinyin": "Wǒ huí jiā chī fàn.",
+      "english": "I go home to eat."
+    },
+    {
+      "chinese": "这个家很温暖(這個家很溫暖)。",
+      "pinyin": "Zhège jiā hěn wēnnuǎn.",
+      "english": "This home is very warm."
+    },
+    {
+      "chinese": "他是著名的画家(他是著名的畫家)。",
+      "pinyin": "Tā shì zhùmíng de huàjiā.",
+      "english": "He is a famous painter."
+    }
+  ]
+}

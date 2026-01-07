@@ -1,0 +1,43 @@
+{
+  "simplified": "崾岘",
+  "traditional": "崾峴",
+  "pinyin": "yǎoxiàn",
+  "english": "Yaoxian (place name)",
+  "etymology": {
+    "type": "compound word",
+    "description": "崾 (secluded/overhanging hill) + 岘/峴 (mountain pass) = place name describing a secluded pass.",
+    "interpretation": "Likely names a spot characterized by a narrow, overhanging saddle or pass in hilly terrain. Both morphemes are topo-characters commonly used in Chinese toponyms.",
+    "simplification": "峴 was simplified to 岘 by simplifying the component 見 → 见; 崾 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "崾",
+      "trad": "崾",
+      "pinyin": "yǎo",
+      "english": "secluded (in hills); overhanging hill; tucked hollow; winding slope"
+    },
+    {
+      "char": "岘",
+      "trad": "峴",
+      "pinyin": "xiàn",
+      "english": "mountain pass; saddle-shaped ridge; hill neck; used in place names (e.g., 峴山)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "崾岘镇位于甘肃省平凉市灵台县(崾峴鎮位於甘肅省平涼市靈台縣)。",
+      "pinyin": "Yǎoxiàn Zhèn wèiyú Gānsù Shěng Píngliáng Shì Língtái Xiàn.",
+      "english": "Yaoxian Town is in Lingtai County, Pingliang, Gansu Province."
+    },
+    {
+      "chinese": "我们经过崾岘，停下来拍照(我們經過崾峴，停下來拍照)。",
+      "pinyin": "Wǒmen jīngguò Yǎoxiàn, tíng xiàlái pāizhào.",
+      "english": "We passed through Yaoxian and stopped to take photos."
+    },
+    {
+      "chinese": "地图上标注为崾岘的地方多为山口或垭口(地圖上標註為崾峴的地方多為山口或埡口)。",
+      "pinyin": "Dìtú shàng biāozhù wéi Yǎoxiàn de dìfāng duō wèi shānkǒu huò yākǒu.",
+      "english": "Places labeled Yaoxian on maps are often mountain passes or saddles."
+    }
+  ]
+}

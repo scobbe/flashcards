@@ -1,0 +1,29 @@
+{
+  "simplified": "井",
+  "traditional": "井",
+  "pinyin": "jǐng",
+  "english": "well (water well)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a square well, with supports on four sides. Some forms have a stone inside the well, as in 丼.",
+    "interpretation": "Depicts a top-down view of a water well, with posts or supports at the corners creating a grid-like outline. Some historical variants show a stone or bucket inside, an element reflected in the derivative character 丼.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "村里有一口老井(村裡有一口老井)。",
+      "pinyin": "Cūn lǐ yǒu yì kǒu lǎo jǐng.",
+      "english": "There is an old well in the village."
+    },
+    {
+      "chinese": "他从井里打水(他從井裡打水)。",
+      "pinyin": "Tā cóng jǐng lǐ dǎ shuǐ.",
+      "english": "He draws water from the well."
+    },
+    {
+      "chinese": "别往井里扔石头(別往井裡扔石頭)。",
+      "pinyin": "Bié wǎng jǐng lǐ rēng shí tou.",
+      "english": "Don't throw stones into the well."
+    }
+  ]
+}

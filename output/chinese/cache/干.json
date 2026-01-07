@@ -1,0 +1,29 @@
+{
+  "simplified": "干",
+  "traditional": "干",
+  "pinyin": "gān",
+  "english": "trunk; stem",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a shield with feather ornaments; alternatively linked to a bifurcated weapon related to 單; later also used as a phonetic loan/simplification for 乾 and 幹.",
+    "interpretation": "Originally depicted a plume-topped shield, though some oracle-bone forms may instead show a forked hunting weapon akin to 單. Through later phonetic borrowing it came to write both 乾 and 幹 in the simplified system, yielding multiple readings and senses today.",
+    "simplification": "Mainland reforms merged 乾 and 幹 into 干 for graphic economy and phonetic loan use, so 干 now covers 'dry' (gān) and 'trunk; to do' (gàn); traditional Chinese keeps 乾 and 幹 distinct."
+  },
+  "examples": [
+    {
+      "chinese": "这棵老松树的树干很粗(這棵老松樹的樹幹很粗)。",
+      "pinyin": "Zhè kē lǎo sōngshù de shùgàn hěn cū.",
+      "english": "The trunk of this old pine is thick."
+    },
+    {
+      "chinese": "竹子的主干中空(竹子的主幹中空)。",
+      "pinyin": "Zhúzi de zhǔgàn zhōngkōng.",
+      "english": "The main stem of bamboo is hollow."
+    },
+    {
+      "chinese": "他负责干线的维护(他負責幹線的維護)。",
+      "pinyin": "Tā fùzé gànxiàn de wéihù.",
+      "english": "He is responsible for maintaining the main line."
+    }
+  ]
+}

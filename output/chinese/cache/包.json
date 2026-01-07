@@ -1,0 +1,37 @@
+{
+  "simplified": "包",
+  "traditional": "包",
+  "pinyin": "bāo",
+  "english": "wrap; bag",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): a fetus (巳 sì) in the womb (勹), or a swaddled baby.",
+    "interpretation": "Depicts a swaddled infant or a curled fetus enclosed by a wrapper, conveying enclosure and bundling. The image naturally extends to actions and objects for wrapping, hence meanings like “wrap,” “package,” and “bag.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巳",
+      "trad": "巳",
+      "pinyin": "sì",
+      "english": "6th Earthly Branch; zodiac sign Snake"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一个背包(我買了一個背包)。",
+      "pinyin": "Wǒ mǎi le yī gè bèibāo.",
+      "english": "I bought a backpack."
+    },
+    {
+      "chinese": "请把礼物包起来(請把禮物包起來)。",
+      "pinyin": "Qǐng bǎ lǐwù bāo qǐlái.",
+      "english": "Please wrap the gift."
+    },
+    {
+      "chinese": "快递已经把包裹送到了(快遞已經把包裹送到了)。",
+      "pinyin": "Kuàidì yǐjīng bǎ bāoguǒ sòng dào le.",
+      "english": "The courier has already delivered the package."
+    }
+  ]
+}

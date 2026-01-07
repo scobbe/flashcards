@@ -1,0 +1,43 @@
+{
+  "simplified": "花束",
+  "traditional": "花束",
+  "pinyin": "huāshù",
+  "english": "bouquet",
+  "etymology": {
+    "type": "compound word",
+    "description": "花 + 束 = bouquet (flowers + bundle).",
+    "interpretation": "Combines “flower” with “bundle” to denote a bunch of flowers tied together; emphasizes an arranged, bound grouping rather than loose flowers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower; blossom; to spend (money/time); flowery/fancy"
+    },
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle; to tie/bind; measure word for bunches/beams; to restrain/limit"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他捧着花束走进教室(他捧著花束走進教室)。",
+      "pinyin": "Tā pěngzhe huāshù zǒu jìn jiàoshì.",
+      "english": "He walked into the classroom holding a bouquet."
+    },
+    {
+      "chinese": "新娘手里的花束很精致(新娘手裡的花束很精緻)。",
+      "pinyin": "Xīnniáng shǒu lǐ de huāshù hěn jīngzhì.",
+      "english": "The bride’s bouquet is exquisite."
+    },
+    {
+      "chinese": "我们用丝带把花束扎好(我們用絲帶把花束紮好)。",
+      "pinyin": "Wǒmen yòng sīdài bǎ huāshù zhā hǎo.",
+      "english": "We tied the bouquet with a ribbon."
+    }
+  ]
+}

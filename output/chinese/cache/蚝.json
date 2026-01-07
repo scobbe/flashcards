@@ -1,0 +1,49 @@
+{
+  "simplified": "蚝",
+  "traditional": "蠔",
+  "pinyin": "háo",
+  "english": "oyster; oyster meat; edible bivalve; dried oyster",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 虫 + phonetic 豪 (OC *ɡaːw).",
+    "interpretation": "虫 marks it as a creature in the invertebrate realm, which in Chinese script extends to shellfish and similar animals. 豪 provides the sound háo; the simplified form uses 号 as a streamlined phonetic while preserving a similar pronunciation.",
+    "simplification": "Right-side phonetic simplified from 豪/號 to 号 to reduce strokes while keeping the háo sound; this aligns with earlier variant usage (e.g., 𧐢) and 20th‑century standardization."
+  },
+  "parts": [
+    {
+      "char": "虫",
+      "trad": "蟲",
+      "pinyin": "chóng",
+      "english": "insect; bug; worm"
+    },
+    {
+      "char": "豪",
+      "trad": "豪",
+      "pinyin": "háo",
+      "english": "grand; extravagant; heroic"
+    },
+    {
+      "char": "号",
+      "trad": "號",
+      "pinyin": "hào",
+      "english": "number; mark; to call"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我爱吃生蚝(我愛吃生蠔)。",
+      "pinyin": "Wǒ ài chī shēngháo.",
+      "english": "I love eating raw oysters."
+    },
+    {
+      "chinese": "炒菜放点蚝油更鲜(炒菜放點蠔油更鮮)。",
+      "pinyin": "Chǎocài fàng diǎn háoyóu gèng xiān.",
+      "english": "Adding a bit of oyster sauce makes stir-fries tastier."
+    },
+    {
+      "chinese": "过年会买些蚝干煲汤(過年會買些蠔乾煲湯)。",
+      "pinyin": "Guònián huì mǎi xiē háogān bāo tāng.",
+      "english": "We buy some dried oysters to make soup for the New Year."
+    }
+  ]
+}

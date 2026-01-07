@@ -1,0 +1,49 @@
+{
+  "simplified": "一下儿",
+  "traditional": "一下兒",
+  "pinyin": "yíxiàr",
+  "english": "a bit; for a moment",
+  "etymology": {
+    "type": "compound word",
+    "description": "一 + 下 + 儿 = do (something) briefly/softly, with northern erhua tone.",
+    "interpretation": "Combines 'one' with 'a bit/down' plus the Beijing-style 儿 suffix to signal a short, light action. Conveys a casual, polite tone equivalent to 'a bit' or 'for a moment' in northern Mandarin.",
+    "simplification": "兒 → 儿 in simplified; stroke reduction and standardization of the erhua suffix; 一 and 下 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single; once; a"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "down; below; under; next"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; son; suffix; retroflex suffix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你等我一下儿(你等我一下兒)。",
+      "pinyin": "Nǐ děng wǒ yíxiàr.",
+      "english": "Wait for me a moment."
+    },
+    {
+      "chinese": "请看一下儿这个表格(請看一下兒這個表格)。",
+      "pinyin": "Qǐng kàn yíxiàr zhège biǎogé.",
+      "english": "Please take a quick look at this form."
+    },
+    {
+      "chinese": "我们休息一下儿再走(我們休息一下兒再走)。",
+      "pinyin": "Wǒmen xiūxi yíxiàr zài zǒu.",
+      "english": "Let’s rest a bit before we go."
+    }
+  ]
+}

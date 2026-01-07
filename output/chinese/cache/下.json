@@ -1,0 +1,37 @@
+{
+  "simplified": "下",
+  "traditional": "下",
+  "pinyin": "xià",
+  "english": "down",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram (指事): a line below another (contrast 上).",
+    "interpretation": "Depicts a mark placed beneath a baseline, expressing the idea of “down” or “below.” In contrast with 上, which marks above the line, the pair visually encodes relative position.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; a horizontal line"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我下楼(我下樓)。",
+      "pinyin": "Wǒ xià lóu.",
+      "english": "I go downstairs."
+    },
+    {
+      "chinese": "把书放在桌子下(把書放在桌子下)。",
+      "pinyin": "Bǎ shū fàng zài zhuōzi xià.",
+      "english": "Put the book under the table."
+    },
+    {
+      "chinese": "我们下午三点见(我們下午三點見)。",
+      "pinyin": "Wǒmen xiàwǔ sān diǎn jiàn.",
+      "english": "See you at three in the afternoon."
+    }
+  ]
+}

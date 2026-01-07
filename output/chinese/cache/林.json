@@ -1,0 +1,37 @@
+{
+  "simplified": "林",
+  "traditional": "林",
+  "pinyin": "lín",
+  "english": "forest; woods; multitude; collection",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Duplication of 木 (“tree”) to indicate multiple trees → forest; semantic: 木 + 木.",
+    "interpretation": "Doubling the tree component places two trees together, evoking a grove or woods. Repetition signals plurality, so two trees generalize to a forest; adding a third 木 yields 森 for dense woods.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们走进林中散步(我們走進林中散步)。",
+      "pinyin": "Wǒmen zǒu jìn lín zhōng sànbù.",
+      "english": "We walked into the woods for a stroll."
+    },
+    {
+      "chinese": "这片树林很安静(這片樹林很安靜)。",
+      "pinyin": "Zhè piàn shùlín hěn ānjìng.",
+      "english": "This grove is very quiet."
+    },
+    {
+      "chinese": "市中心高楼林立(市中心高樓林立)。",
+      "pinyin": "Shì zhōngxīn gāolóu línlì.",
+      "english": "In the city center, high-rises stand in great numbers."
+    }
+  ]
+}

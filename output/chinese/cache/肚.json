@@ -1,0 +1,43 @@
+{
+  "simplified": "肚",
+  "traditional": "肚",
+  "pinyin": "dù",
+  "english": "belly;stomach;tripe;gut",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic ⺼ (flesh) + phonetic 土.",
+    "interpretation": "The flesh component signals a body-related meaning, pointing to the belly or stomach. 土 served as the sound carrier, and historical sound changes brought its reading close to dù/dǔ, while its literal meaning ‘earth’ is not involved here.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我肚子饿了(我肚子餓了)。",
+      "pinyin": "Wǒ dùzi è le.",
+      "english": "I'm hungry."
+    },
+    {
+      "chinese": "他摸着肚子说不舒服(他摸著肚子說不舒服)。",
+      "pinyin": "Tā mōzhe dùzi shuō bù shūfu.",
+      "english": "He held his stomach and said he felt unwell."
+    },
+    {
+      "chinese": "我喜欢吃牛肚(我喜歡吃牛肚)。",
+      "pinyin": "Wǒ xǐhuan chī niú dǔ.",
+      "english": "I like to eat beef tripe."
+    }
+  ]
+}

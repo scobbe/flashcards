@@ -1,0 +1,29 @@
+{
+  "simplified": "子",
+  "traditional": "子",
+  "pinyin": "zǐ",
+  "english": "child; son",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: image of a baby with a large head and spread arms; legs wrapped in a blanket.",
+    "interpretation": "Depicts a swaddled baby with a prominent head and outstretched arms. Over time the figure was stylized into the modern form while still evoking an infant.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他是我唯一的儿子(他是我唯一的兒子)。",
+      "pinyin": "Tā shì wǒ wéiyī de érzi.",
+      "english": "He is my only son."
+    },
+    {
+      "chinese": "她抱起孩子(她抱起孩子)。",
+      "pinyin": "Tā bào qǐ háizi.",
+      "english": "She picked up the child."
+    },
+    {
+      "chinese": "这个孩子三岁了(這個孩子三歲了)。",
+      "pinyin": "Zhège háizi sān suì le.",
+      "english": "This child is three years old."
+    }
+  ]
+}

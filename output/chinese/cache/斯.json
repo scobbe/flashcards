@@ -1,0 +1,43 @@
+{
+  "simplified": "斯",
+  "traditional": "斯",
+  "pinyin": "sī",
+  "english": "this; thus; such; used in transliteration",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "semantic: 其 ‘sieve’ + 斤 ‘axe’ → ‘divide/break with an axe’; Xu Shen: synonym of 析; sense preserved in 撕.",
+    "interpretation": "A sieve set beside an axe evokes the act of chopping or splitting, yielding the early sense ‘to divide’. The form later broadened into a literary demonstrative meaning ‘this/thus’, while the original splitting sense lives on in derivatives like 撕 ‘to tear’.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "its; that; such; (orig.) sieve"
+    },
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe; catty (unit of weight)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "斯人已逝(斯人已逝)，风骨长存(風骨長存)。",
+      "pinyin": "Sī rén yǐ shì, fēnggǔ chángcún.",
+      "english": "This person has passed away, but their integrity endures."
+    },
+    {
+      "chinese": "他在斯地求学多年(他在斯地求學多年)。",
+      "pinyin": "Tā zài sī dì qiúxué duōnián.",
+      "english": "He studied in this place for many years."
+    },
+    {
+      "chinese": "我们将访问斯里兰卡(我們將訪問斯里蘭卡)。",
+      "pinyin": "Wǒmen jiāng fǎngwèn Sīlǐlánkǎ.",
+      "english": "We will visit Sri Lanka."
+    }
+  ]
+}

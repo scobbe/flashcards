@@ -1,0 +1,55 @@
+{
+  "simplified": "沉鱼落雁",
+  "traditional": "沉魚落雁",
+  "pinyin": "chén yú luò yàn",
+  "english": "beauty that sinks fish and makes birds fall",
+  "etymology": {
+    "type": "four-character idiom (成语)",
+    "description": "沉鱼 (sink fish) + 落雁 (make geese fall) = hyperbolic praise for breathtaking female beauty.",
+    "interpretation": "Classical, flowery compliment drawn from legends of beauties whose looks made fish sink and wild geese fall. Used to laud a woman's extraordinary appearance; not typically used for men.",
+    "simplification": "Only 鱼 was simplified (魚→鱼) to reduce strokes; other characters unchanged."
+  },
+  "parts": [
+    {
+      "char": "沉",
+      "trad": "沉",
+      "pinyin": "chén",
+      "english": "to sink; to submerge; deep; heavy"
+    },
+    {
+      "char": "鱼",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish; fish (as food); aquatic creature; to fish"
+    },
+    {
+      "char": "落",
+      "trad": "落",
+      "pinyin": "luò",
+      "english": "to fall; to drop; to decline; to set (of sun)"
+    },
+    {
+      "char": "雁",
+      "trad": "雁",
+      "pinyin": "yàn",
+      "english": "wild goose; swan goose; migratory bird; goose"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她容貌沉鱼落雁(她容貌沉魚落雁)。",
+      "pinyin": "Tā róngmào chényú luòyàn.",
+      "english": "Her looks are breathtakingly beautiful."
+    },
+    {
+      "chinese": "古人以西施、王昭君的美貌为沉鱼落雁(古人以西施、王昭君的美貌為沉魚落雁)。",
+      "pinyin": "Gǔrén yǐ Xīshī, Wáng Zhāojūn de měimào wéi chényú luòyàn.",
+      "english": "In antiquity, the beauty of Xi Shi and Wang Zhaojun was described as making fish sink and geese fall."
+    },
+    {
+      "chinese": "这个词带有夸张和文雅的色彩，多用于称赞女子容貌(這個詞帶有誇張和文雅的色彩，多用於稱讚女子容貌)。",
+      "pinyin": "Zhège cí dàiyǒu kuāzhāng hé wényǎ de sècǎi, duō yòngyú chēngzàn nǚzǐ róngmào.",
+      "english": "The term is hyperbolic and literary, mostly used to praise a woman's appearance."
+    }
+  ]
+}

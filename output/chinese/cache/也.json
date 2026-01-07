@@ -1,0 +1,43 @@
+{
+  "simplified": "也",
+  "traditional": "也",
+  "pinyin": "yě",
+  "english": "also; too",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a child (子) with an open mouth (口) crying; original form of 嗁 ‘to cry’. Arms were removed in bronze inscriptions and the components fused in the modern shape.",
+    "interpretation": "Originally depicted a crying child, combining the ideas of ‘child’ and ‘mouth’ to show wailing. Over time, the drawing simplified and the form was repurposed as a sentence-final particle and adverb meaning ‘also/too,’ while the crying sense survived in 嗁.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我也是学生(我也是學生)。",
+      "pinyin": "Wǒ yě shì xuéshēng.",
+      "english": "I am also a student."
+    },
+    {
+      "chinese": "他不去(他不去)，我也不去(我也不去)。",
+      "pinyin": "Tā bù qù, wǒ yě bù qù.",
+      "english": "He isn’t going; I’m not going either."
+    },
+    {
+      "chinese": "不仅她会唱歌(不僅她會唱歌)，他也会跳舞(他也會跳舞)。",
+      "pinyin": "Bùjǐn tā huì chànggē, tā yě huì tiàowǔ.",
+      "english": "Not only can she sing, he can also dance."
+    }
+  ]
+}

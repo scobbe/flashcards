@@ -1,0 +1,49 @@
+{
+  "simplified": "红菜头",
+  "traditional": "紅菜頭",
+  "pinyin": "hóngcàitóu",
+  "english": "beetroot",
+  "etymology": {
+    "type": "compound word",
+    "description": "红 + 菜 + 头 = red + vegetable + head (bulb/root).",
+    "interpretation": "Literally ‘red vegetable head,’ highlighting the beet’s deep‑red, bulbous root. 头 here functions as a colloquial suffix for a rounded/root part of a plant.",
+    "simplification": "Standard character simplifications to reduce strokes: 紅→红 (糸→纟), 頭→头; 菜 unchanged."
+  },
+  "parts": [
+    {
+      "char": "红",
+      "trad": "紅",
+      "pinyin": "hóng",
+      "english": "red; popular; revolutionary; blush"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine; greens"
+    },
+    {
+      "char": "头",
+      "trad": "頭",
+      "pinyin": "tóu",
+      "english": "head; top; first; end"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了两个红菜头(我買了兩個紅菜頭)。",
+      "pinyin": "Wǒ mǎi le liǎng gè hóngcàitóu.",
+      "english": "I bought two beetroots."
+    },
+    {
+      "chinese": "红菜头汁颜色很浓(紅菜頭汁顏色很濃)，味道甜中带土香(味道甜中帶土香)。",
+      "pinyin": "Hóngcàitóu zhī yánsè hěn nóng, wèidào tián zhōng dài tǔ xiāng.",
+      "english": "Beetroot juice has a deep color and tastes sweet with an earthy aroma."
+    },
+    {
+      "chinese": "我们用红菜头做沙拉(我們用紅菜頭做沙拉)，也可以炖汤(也可以燉湯)。",
+      "pinyin": "Wǒmen yòng hóngcàitóu zuò shālā, yě kěyǐ dùn tāng.",
+      "english": "We make salad with beetroot, and it can also be stewed in soup."
+    }
+  ]
+}

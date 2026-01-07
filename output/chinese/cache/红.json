@@ -1,0 +1,43 @@
+{
+  "simplified": "红",
+  "traditional": "紅",
+  "pinyin": "hóng",
+  "english": "red; popular; revolutionary; blush",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 糸 (silk) + phonetic: 工",
+    "interpretation": "Combines the silk component 糸 with 工 as the phonetic, pointing to a reading similar to gōng in Old Chinese and associating the meaning with textiles. The color sense likely came from the hue of dyed silk, later extending to figurative uses like popularity and revolutionary connotations.",
+    "simplification": "Simplified from 紅 by reducing 糹 to 纟 to lower stroke count and standardize the silk radical in simplified characters."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她脸红了(她臉紅了)。",
+      "pinyin": "Tā liǎn hóng le.",
+      "english": "Her face turned red."
+    },
+    {
+      "chinese": "这部电影很红(這部電影很紅)。",
+      "pinyin": "Zhè bù diànyǐng hěn hóng.",
+      "english": "This movie is very popular."
+    },
+    {
+      "chinese": "他在网上走红(他在網上走紅)。",
+      "pinyin": "Tā zài wǎngshàng zǒu hóng.",
+      "english": "He went viral online."
+    }
+  ]
+}

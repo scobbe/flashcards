@@ -1,0 +1,43 @@
+{
+  "simplified": "跑",
+  "traditional": "跑",
+  "pinyin": "pǎo",
+  "english": "run; flee; run about; leak (gas)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 足 (“foot”) + phonetic: 包",
+    "interpretation": "Left component 足 ‘foot’ signals meaning related to movement and actions done with the feet, such as running. Right component 包 serves as the phonetic, guiding the pronunciation toward pǎo. Together they point to senses like running or fleeing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap; bag"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天早上去公园跑步(我每天早上去公園跑步)。",
+      "pinyin": "Wǒ měitiān zǎoshang qù gōngyuán pǎobù.",
+      "english": "I go running in the park every morning."
+    },
+    {
+      "chinese": "孩子害怕大狗(孩子害怕大狗)，转身就跑(轉身就跑)。",
+      "pinyin": "Háizi hàipà dà gǒu, zhuǎnshēn jiù pǎo.",
+      "english": "The child was afraid of the big dog and immediately ran away."
+    },
+    {
+      "chinese": "管道跑气了(管道跑氣了)，大家赶紧往外跑(大家趕緊往外跑)。",
+      "pinyin": "Guǎndào pǎo qì le, dàjiā gǎnjǐn wǎng wài pǎo.",
+      "english": "The pipe is leaking gas; everyone hurry and run outside."
+    }
+  ]
+}

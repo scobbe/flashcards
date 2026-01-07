@@ -1,0 +1,43 @@
+{
+  "simplified": "阿",
+  "traditional": "阿",
+  "pinyin": "ā",
+  "english": "prefix (in names); ah",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 阜 + phonetic: 可 (OC *qaːl; 可 OC *kʰaːlʔ); originally ‘big mound’.",
+    "interpretation": "Built with 阜 ‘mound’ conveying the idea of a landform, while 可 supplies the pronunciation. Its earliest sense was ‘large mound,’ later borrowed for phonetic use, giving rise to modern functions like a name/kinship prefix and in transliterations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound; hill; abundant"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can; may; approve; acceptable"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她是阿明的姐姐(她是阿明的姐姐)。",
+      "pinyin": "Tā shì Ā Míng de jiějie.",
+      "english": "She is A-Ming’s older sister."
+    },
+    {
+      "chinese": "孩子们都叫她阿姨(孩子們都叫她阿姨)。",
+      "pinyin": "Háizimen dōu jiào tā āyí.",
+      "english": "The children all call her A-yi (auntie)."
+    },
+    {
+      "chinese": "我们学习阿拉伯文化(我們學習阿拉伯文化)。",
+      "pinyin": "Wǒmen xuéxí Ālābó wénhuà.",
+      "english": "We study Arabic culture."
+    }
+  ]
+}

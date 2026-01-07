@@ -1,0 +1,29 @@
+{
+  "simplified": "斗",
+  "traditional": "斗",
+  "pinyin": "dǒu",
+  "english": "dipper; peck (unit)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a ladle-shaped dipper or measuring cup for grain, held by hand (Shuowen); see also 升.",
+    "interpretation": "Depicts a hand-held measuring scoop used for grain, with the strokes suggesting handle and cup. The image later standardized into a simple form while keeping the senses ‘dipper’ and a capacity unit.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "今晚北斗星很清晰(今晚北斗星很清晰)。",
+      "pinyin": "Jīnwǎn Běidǒu xīng hěn qīngxī.",
+      "english": "The Big Dipper is very clear tonight."
+    },
+    {
+      "chinese": "我们买了一斗米(我們買了一斗米)。",
+      "pinyin": "Wǒmen mǎi le yī dǒu mǐ.",
+      "english": "We bought one peck of rice."
+    },
+    {
+      "chinese": "用斗和升来量谷物(用斗和升來量穀物)。",
+      "pinyin": "Yòng dǒu hé shēng lái liáng gǔwù.",
+      "english": "Use the peck and the shēng to measure grain."
+    }
+  ]
+}

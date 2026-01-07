@@ -1,0 +1,73 @@
+{
+  "simplified": "醉翁之意不在酒",
+  "traditional": "醉翁之意不在酒",
+  "pinyin": "zuìwēng zhī yì bù zài jiǔ",
+  "english": "the real intention is not in the wine",
+  "etymology": {
+    "type": "idiom (set phrase)",
+    "description": "醉翁 + 之 + 意 + 不在 + 酒 = the intention of the drunken old man is not in the wine.",
+    "interpretation": "Used to say someone’s ostensible action is a pretext for another goal, i.e., their real intention lies elsewhere. Originates from Ouyang Xiu’s Zuiweng Ting Ji: “醉翁之意不在酒，在乎山水之间也.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "醉",
+      "trad": "醉",
+      "pinyin": "zuì",
+      "english": "drunk;intoxicated;get drunk;tipsy"
+    },
+    {
+      "char": "翁",
+      "trad": "翁",
+      "pinyin": "wēng",
+      "english": "old man;elder;old fellow;venerable man"
+    },
+    {
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "possessive particle;him/her/it (classical);go to (classical);this/it"
+    },
+    {
+      "char": "意",
+      "trad": "意",
+      "pinyin": "yì",
+      "english": "meaning;idea;intent;wish"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not;no;un-;non-"
+    },
+    {
+      "char": "在",
+      "trad": "在",
+      "pinyin": "zài",
+      "english": "at;in;be located;exist"
+    },
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol;wine;liquor;spirits"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他请你喝酒(他請你喝酒)，其实是醉翁之意不在酒(其實是醉翁之意不在酒)，想拉你投资(想拉你投資)。",
+      "pinyin": "Tā qǐng nǐ hē jiǔ, qíshí shì zuìwēng zhī yì bù zài jiǔ, xiǎng lā nǐ tóuzī.",
+      "english": "He’s inviting you to drink, but his real aim is to pull you into an investment."
+    },
+    {
+      "chinese": "记者的问题(記者的問題)醉翁之意不在酒(醉翁之意不在酒)，是想挖出丑闻(是想挖出醜聞)。",
+      "pinyin": "Jìzhě de wèntí zuìwēng zhī yì bù zài jiǔ, shì xiǎng wā chū chǒuwén.",
+      "english": "The reporter’s question wasn’t really about the stated topic; it was meant to dig up a scandal."
+    },
+    {
+      "chinese": "他送礼给领导(他送禮給領導)，醉翁之意不在酒(醉翁之意不在酒)，是求个机会(是求個機會)。",
+      "pinyin": "Tā sòng lǐ gěi lǐngdǎo, zuìwēng zhī yì bù zài jiǔ, shì qiú gè jīhuì.",
+      "english": "He gave a gift to the boss with an ulterior motive, hoping for an opportunity."
+    }
+  ]
+}

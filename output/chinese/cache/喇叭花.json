@@ -1,0 +1,49 @@
+{
+  "simplified": "喇叭花",
+  "traditional": "喇叭花",
+  "pinyin": "lǎbahuā",
+  "english": "morning glory",
+  "etymology": {
+    "type": "compound word",
+    "description": "喇叭 (trumpet; horn) + 花 (flower) = trumpet-shaped flower (morning glory).",
+    "interpretation": "Names the morning glory by likening its funnel-shaped bloom to a small trumpet. A vivid folk metaphor based on shape and everyday objects.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "喇",
+      "trad": "喇",
+      "pinyin": "lǎ",
+      "english": "horn; trumpet; noisy; chatter"
+    },
+    {
+      "char": "叭",
+      "trad": "叭",
+      "pinyin": "bā",
+      "english": "onomatopoeic ‘ba’ sound; pop; bang; yap"
+    },
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower; blossom; spend; pattern"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "院子里开满了喇叭花(院子裡開滿了喇叭花)。",
+      "pinyin": "Yuànzi lǐ kāi mǎn le lǎba huā.",
+      "english": "The yard is full of blooming morning glories."
+    },
+    {
+      "chinese": "小孩把喇叭花摘下来当小喇叭吹(小孩把喇叭花摘下來當小喇叭吹)。",
+      "pinyin": "Xiǎohái bǎ lǎba huā zhāi xiàlái dāng xiǎo lǎba chuī.",
+      "english": "The child picked a morning glory and blew it like a little trumpet."
+    },
+    {
+      "chinese": "喇叭花有许多颜色，比如紫色和粉色(喇叭花有許多顏色，比如紫色和粉色)。",
+      "pinyin": "Lǎba huā yǒu xǔduō yánsè, bǐrú zǐsè hé fěnsè.",
+      "english": "Morning glories come in many colors, such as purple and pink."
+    }
+  ]
+}

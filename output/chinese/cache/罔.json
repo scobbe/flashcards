@@ -1,0 +1,43 @@
+{
+  "simplified": "罔",
+  "traditional": "罔",
+  "pinyin": "wǎng",
+  "english": "not; without; to deceive",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 网 “net” + phonetic: 亡 (OC *maŋ).",
+    "interpretation": "Combines the ‘net’ element with 亡 as the sound component, giving a wǎng-like reading. The net semantic hints at entangling or misleading, which aligns with senses like “to deceive,” while 亡’s association with absence feeds the sense “not; without.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "网",
+      "trad": "網",
+      "pinyin": "wǎng",
+      "english": "net; network"
+    },
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "to perish; to lose; to flee"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他以谎言罔人(他以謊言罔人)。",
+      "pinyin": "Tā yǐ huǎngyán wǎng rén.",
+      "english": "He deceives people with lies."
+    },
+    {
+      "chinese": "他们罔顾事实，只求私利(他們罔顧事實，只求私利)。",
+      "pinyin": "Tāmen wǎnggù shìshí, zhǐ qiú sīlì.",
+      "english": "They disregard the facts and only seek personal gain."
+    },
+    {
+      "chinese": "臣等罔敢怠慢(臣等罔敢怠慢)。",
+      "pinyin": "Chén děng wǎng gǎn dàimàn.",
+      "english": "We dare not be negligent."
+    }
+  ]
+}

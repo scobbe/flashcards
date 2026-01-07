@@ -1,0 +1,49 @@
+{
+  "simplified": "样",
+  "traditional": "樣",
+  "pinyin": "yàng",
+  "english": "appearance; pattern; kind/type; sample",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木 ('wood') + phonetic 羕 (OC *laŋs); simplified from 樣 by replacing 羕 with 羊.",
+    "interpretation": "Combines the wood semantic with a phonetic element pronounced yàng to signal the sound while evoking patterns or models made of wood. In simplification, the rare 羕 was swapped for the simpler, common 羊, which approximates the pronunciation and reduces strokes.",
+    "simplification": "PRC scheme replaced the rare phonetic 羕 with simpler 羊 to reduce complexity while roughly preserving the yàng pronunciation; the semantic 木 was retained."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "羕",
+      "trad": "羕",
+      "pinyin": "yàng",
+      "english": "long-flowing water; river name"
+    },
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep; goat"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他的样子今天不太好(他的樣子今天不太好)。",
+      "pinyin": "Tā de yàngzi jīntiān bù tài hǎo.",
+      "english": "He doesn’t look very well today."
+    },
+    {
+      "chinese": "你喜欢哪种样式(你喜歡哪種樣式)。",
+      "pinyin": "Nǐ xǐhuan nǎ zhǒng yàngshì.",
+      "english": "Which style or pattern do you like?"
+    },
+    {
+      "chinese": "请给我一个样品(請給我一個樣品)。",
+      "pinyin": "Qǐng gěi wǒ yí gè yàngpǐn.",
+      "english": "Please give me a sample."
+    }
+  ]
+}

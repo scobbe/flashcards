@@ -1,0 +1,43 @@
+{
+  "simplified": "豉",
+  "traditional": "豉",
+  "pinyin": "chǐ",
+  "english": "fermented soybeans",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 豆 'bean' + phonetic: 支; Shuowen orthodox form 𢻃 uses 尗 'legume; bean' instead of 豆.",
+    "interpretation": "Meaning is anchored by 豆, indicating beans/legumes, while 支 supplies the approximate sound. An earlier orthodox form 𢻃 used 尗 as the bean element, later standardized to the current 豆 component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    },
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "branch"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我用豆豉蒸排骨(我用豆豉蒸排骨)。",
+      "pinyin": "Wǒ yòng dòuchǐ zhēng páigǔ.",
+      "english": "I steam ribs with fermented black beans."
+    },
+    {
+      "chinese": "豆豉味道咸香(豆豉味道鹹香)，常用来炒菜(常用來炒菜)。",
+      "pinyin": "Dòuchǐ wèidào xiánxiāng, cháng yòng lái chǎo cài.",
+      "english": "Fermented soybeans have a savory, salty flavor and are often used for stir-frying."
+    },
+    {
+      "chinese": "我买了一包黑豆豉(我買了一包黑豆豉)。",
+      "pinyin": "Wǒ mǎi le yí bāo hēi dòuchǐ.",
+      "english": "I bought a pack of black fermented soybeans."
+    }
+  ]
+}

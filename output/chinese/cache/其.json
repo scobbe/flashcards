@@ -1,0 +1,37 @@
+{
+  "simplified": "其",
+  "traditional": "其",
+  "pinyin": "qí",
+  "english": "its; that",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally a pictogram of a basket; later had 丌 ‘stand’ added (possibly as a phonetic), and was then borrowed to write a pronoun; the original sense survives in 箕.",
+    "interpretation": "First depicted a basket, later drawn as a basket on a stand, with 丌 possibly contributing sound. Its common pronoun meaning comes from loan usage, while words like 箕 preserve the original ‘basket’ sense.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丌",
+      "trad": "丌",
+      "pinyin": "jī",
+      "english": "stand; table"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "其结果令人意外(其結果令人意外)。",
+      "pinyin": "Qí jiéguǒ lìng rén yìwài.",
+      "english": "Its result was unexpected."
+    },
+    {
+      "chinese": "我们尊重其选择(我們尊重其選擇)。",
+      "pinyin": "Wǒmen zūnzhòng qí xuǎnzé.",
+      "english": "We respect his/her/its choice."
+    },
+    {
+      "chinese": "研究指出，其影响深远(研究指出，其影響深遠)。",
+      "pinyin": "Yánjiū zhǐchū, qí yǐngxiǎng shēnyuǎn.",
+      "english": "Research indicates that its impact is far-reaching."
+    }
+  ]
+}

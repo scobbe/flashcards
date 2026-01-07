@@ -1,0 +1,43 @@
+{
+  "simplified": "厦",
+  "traditional": "廈",
+  "pinyin": "xià",
+  "english": "mansion; tall building; large house; used in place names",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 广 + phonetic 夏 (phonetic also conveys 'great').",
+    "interpretation": "广 depicts a building/shelter, signaling the idea of a structure. 夏 supplies the sound xià, and since it can also mean “great,” it reinforces the sense of a large, imposing building such as a mansion.",
+    "simplification": "In Simplified Chinese, the shelter component 广 was regularized to 厂 and the structure compressed, reducing strokes while retaining the phonetic 夏."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "broad; wide"
+    },
+    {
+      "char": "夏",
+      "trad": "夏",
+      "pinyin": "xià",
+      "english": "summer; Xia (dynasty); great (literary)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "城市里到处是高楼大厦(城市裡到處是高樓大廈)。",
+      "pinyin": "Chéngshì lǐ dàochù shì gāolóu dàshà.",
+      "english": "There are tall buildings everywhere in the city."
+    },
+    {
+      "chinese": "这座大厦很气派(這座大廈很氣派)。",
+      "pinyin": "Zhè zuò dàshà hěn qìpài.",
+      "english": "This building looks impressive."
+    },
+    {
+      "chinese": "我们计划去厦门旅游(我們計畫去廈門旅遊)。",
+      "pinyin": "Wǒmen jìhuà qù Xiàmén lǚyóu.",
+      "english": "We plan to travel to Xiamen."
+    }
+  ]
+}

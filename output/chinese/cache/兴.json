@@ -1,0 +1,43 @@
+{
+  "simplified": "兴",
+  "traditional": "興",
+  "pinyin": "xīng",
+  "english": "rise; flourish; promote; start",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic compound: 舁 (“both hands of two people”) + 同 (“a generic object”) — two lift something up together; Shuowen takes 同 as “together”.",
+    "interpretation": "Two people jointly lifting an object conveys the act of raising or bringing something up, which extends to starting or setting things in motion. By metaphor, it came to express flourishing and promotion as activities that are lifted up together.",
+    "simplification": "Simplified from 興 by dropping the bottom 同 and condensing 舁 into a streamlined form 兴, reflecting long-used handwritten/clerical variants and reducing stroke count while keeping the ‘lifting/raising’ idea."
+  },
+  "parts": [
+    {
+      "char": "舁",
+      "trad": "舁",
+      "pinyin": "yú",
+      "english": "to lift; to carry (on the shoulders)"
+    },
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same; together"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "新公司兴办了一个社区图书馆(新公司興辦了一個社區圖書館)。",
+      "pinyin": "Xīn gōngsī xīngbàn le yī gè shèqū túshūguǎn.",
+      "english": "The new company started a community library."
+    },
+    {
+      "chinese": "政府计划振兴经济(政府計畫振興經濟)。",
+      "pinyin": "Zhèngfǔ jìhuà zhènxīng jīngjì.",
+      "english": "The government plans to revitalize the economy."
+    },
+    {
+      "chinese": "这个小镇近年很兴旺(這個小鎮近年很興旺)。",
+      "pinyin": "Zhège xiǎo zhèn jìnnián hěn xīngwàng.",
+      "english": "This small town has been very prosperous in recent years."
+    }
+  ]
+}

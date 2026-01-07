@@ -1,0 +1,43 @@
+{
+  "simplified": "办",
+  "traditional": "辦",
+  "pinyin": "bàn",
+  "english": "to handle; to do; manage",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 力 (“strength”) + phonetic: 辡.",
+    "interpretation": "Meaning comes from 力, suggesting exerting strength to handle or manage affairs. Pronunciation is signaled by 辡 (the doubled 辛 phonetic), which points to the bàn reading; in the simplified form, those two 辛 were reduced to brief strokes above 力, preserving the idea while streamlining the shape.",
+    "simplification": "Adopted in 1956 from a cursive form of 辦, reducing the two 辛 to a left-falling stroke 丿 and a dot 丶 above 力."
+  },
+  "parts": [
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength; power"
+    },
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter; the eighth Heavenly Stem"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这件事交给我来办(這件事交給我來辦)。",
+      "pinyin": "Zhè jiàn shì jiāo gěi wǒ lái bàn.",
+      "english": "Leave this matter to me to handle."
+    },
+    {
+      "chinese": "明天去办签证(明天去辦簽證)，记得带照片(記得帶照片)。",
+      "pinyin": "Míngtiān qù bàn qiānzhèng, jìde dài zhàopiàn.",
+      "english": "Go apply for the visa tomorrow; remember to bring photos."
+    },
+    {
+      "chinese": "出了问题(出了問題)，我们该怎么办(我們該怎麼辦)？",
+      "pinyin": "Chūle wèntí, wǒmen gāi zěnme bàn?",
+      "english": "If something goes wrong, what should we do?"
+    }
+  ]
+}

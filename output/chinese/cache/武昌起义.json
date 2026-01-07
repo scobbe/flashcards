@@ -1,0 +1,55 @@
+{
+  "simplified": "武昌起义",
+  "traditional": "武昌起義",
+  "pinyin": "Wǔchāng Qǐyì",
+  "english": "Wuchang Uprising",
+  "etymology": {
+    "type": "compound word (proper noun)",
+    "description": "武昌 + 起义 = Wuchang + uprising.",
+    "interpretation": "Names the 1911 revolt in Wuchang that ignited the Xinhai Revolution and hastened the fall of the Qing dynasty. Emphasizes place (武昌) plus the act of uprising (起义).",
+    "simplification": "Only 义 was simplified (義→义) to reduce strokes and regularize the component; 武、昌、起 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "武",
+      "trad": "武",
+      "pinyin": "wǔ",
+      "english": "martial; military; force; valiant"
+    },
+    {
+      "char": "昌",
+      "trad": "昌",
+      "pinyin": "chāng",
+      "english": "prosperous; flourishing; bright; good"
+    },
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; start; get up; initiate"
+    },
+    {
+      "char": "义",
+      "trad": "義",
+      "pinyin": "yì",
+      "english": "righteousness; justice; meaning; loyalty"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "1911年(1911年)，武昌起义爆发(武昌起義爆發)，拉开了辛亥革命的序幕(拉開了辛亥革命的序幕)。",
+      "pinyin": "1911 nián, Wǔchāng Qǐyì bàofā, lā kāi le Xīnhài Gémìng de xùmù.",
+      "english": "In 1911, the Wuchang Uprising broke out, opening the curtain of the Xinhai Revolution."
+    },
+    {
+      "chinese": "武昌起义由新军与革命党人发动(武昌起義由新軍與革命黨人發動)，推翻了清政府在湖北的统治(推翻了清政府在湖北的統治)。",
+      "pinyin": "Wǔchāng Qǐyì yóu xīnjūn yǔ gémìng dǎngrén fādòng, tuīfān le Qīng zhèngfǔ zài Húběi de tǒngzhì.",
+      "english": "The Wuchang Uprising was launched by the New Army and revolutionaries, toppling Qing rule in Hubei."
+    },
+    {
+      "chinese": "作为辛亥革命的关键事件(作為辛亥革命的關鍵事件)，武昌起义具有深远影响(武昌起義具有深遠影響)。",
+      "pinyin": "Zuòwéi Xīnhài Gémìng de guānjiàn shìjiàn, Wǔchāng Qǐyì jùyǒu shēnyuǎn yǐngxiǎng.",
+      "english": "As a key event of the Xinhai Revolution, the Wuchang Uprising had far-reaching influence."
+    }
+  ]
+}

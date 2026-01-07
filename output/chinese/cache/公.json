@@ -1,0 +1,43 @@
+{
+  "simplified": "公",
+  "traditional": "公",
+  "pinyin": "gōng",
+  "english": "public; fair",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "ideogrammic: 八 ‘divide/opposite’ + 厶 ‘private’ → ‘public’; alt.: 八(分 ‘to divide’) + 口 ‘object’; alt. theory: pictogram (original form of 瓮).",
+    "interpretation": "Combining the idea of dividing/opposing with “private” yields the notion of what is not private—shared, public, hence by extension fair and impartial. Another reading emphasizes equally dividing an object so resources become communal. Some scholars instead view it as a jar pictograph later borrowed for ‘public’ and related senses.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight; to divide/share (as component)"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个决定不公(這個決定不公)。",
+      "pinyin": "Zhège juédìng bù gōng.",
+      "english": "This decision is unfair."
+    },
+    {
+      "chinese": "公园向公众免费开放(公園向公眾免費開放)。",
+      "pinyin": "Gōngyuán xiàng gōngzhòng miǎnfèi kāifàng.",
+      "english": "The park is open to the public for free."
+    },
+    {
+      "chinese": "他为人很公道(他為人很公道)。",
+      "pinyin": "Tā wéirén hěn gōngdào.",
+      "english": "He conducts himself in a very fair manner."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "工程师",
+  "traditional": "工程師",
+  "pinyin": "gōngchéngshī",
+  "english": "engineer",
+  "etymology": {
+    "type": "compound word",
+    "description": "工程 + 师 = engineer/specialist in engineering",
+    "interpretation": "Combines the field 工程 with the professional suffix 师 to denote a trained specialist. Literally an “engineering master/professional.”",
+    "simplification": "師 → 师 by character simplification; reduced strokes for a high‑frequency professional suffix."
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; labor; craft; worker"
+    },
+    {
+      "char": "程",
+      "trad": "程",
+      "pinyin": "chéng",
+      "english": "journey; course; procedure; measure"
+    },
+    {
+      "char": "师",
+      "trad": "師",
+      "pinyin": "shī",
+      "english": "teacher; master; expert; (military) division"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是一名软件工程师(他是一名軟體工程師)。",
+      "pinyin": "Tā shì yī míng ruǎnjiàn gōngchéngshī.",
+      "english": "He is a software engineer."
+    },
+    {
+      "chinese": "她通过考试成为注册工程师(她通過考試成為註冊工程師)。",
+      "pinyin": "Tā tōngguò kǎoshì chéngwéi zhùcè gōngchéngshī.",
+      "english": "She passed the exam to become a licensed engineer."
+    },
+    {
+      "chinese": "工程师负责设计和维护系统(工程師負責設計和維護系統)。",
+      "pinyin": "Gōngchéngshī fùzé shèjì hé wéihù xìtǒng.",
+      "english": "Engineers are responsible for designing and maintaining systems."
+    }
+  ]
+}

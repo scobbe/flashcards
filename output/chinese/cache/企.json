@@ -1,0 +1,43 @@
+{
+  "simplified": "企",
+  "traditional": "企",
+  "pinyin": "qǐ",
+  "english": "stand on tiptoe; expect; plan; enterprise",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人 (“person”) + 止 (“foot”) — a person standing on tiptoes.",
+    "interpretation": "Combines a person and a foot to depict someone stretching upward on tiptoe, conveying the act of reaching or looking ahead. This concrete image extends to abstract senses like expecting or planning, and further to institutional meanings in words such as 企业.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot; stop"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他踮起脚跟(他踮起腳跟)，企望远处的灯塔(企望遠處的燈塔)。",
+      "pinyin": "Tā diǎnqǐ jiǎogēn, qǐwàng yuǎnchù de dēngtǎ.",
+      "english": "He stood on tiptoe, looking expectantly toward the distant lighthouse."
+    },
+    {
+      "chinese": "这家企业正在扩大海外业务(這家企業正在擴大海外業務)。",
+      "pinyin": "Zhè jiā qǐyè zhèngzài kuòdà hǎiwài yèwù.",
+      "english": "This enterprise is expanding its overseas operations."
+    },
+    {
+      "chinese": "他企图用谎言掩盖事实(他企圖用謊言掩蓋事實)。",
+      "pinyin": "Tā qǐtú yòng huǎngyán yǎn gài shìshí.",
+      "english": "He attempted to cover up the facts with lies."
+    }
+  ]
+}

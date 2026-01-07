@@ -1,0 +1,43 @@
+{
+  "simplified": "画",
+  "traditional": "畫",
+  "pinyin": "huà",
+  "english": "to draw; painting; picture; to delineate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "From 畵 with 𦘒 omitted; phono-semantic: semantic 聿 (brush) + phonetic 規.",
+    "interpretation": "Built from the idea of a writing brush (聿) combined with the sound-providing element 規, conveying the act of making lines or drawings. The simplified form 画 streamlines the earlier 畫 while retaining the core notion of marking or delineating.",
+    "simplification": "Stroke-reduction of 畫 by omitting 𦘒 and collapsing complex elements, standardized in the PRC; visual components were regularized to a simpler frame."
+  },
+  "parts": [
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "brush; writing brush"
+    },
+    {
+      "char": "规",
+      "trad": "規",
+      "pinyin": "guī",
+      "english": "compass; rule; regulation"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢画山水画(我喜歡畫山水畫)。",
+      "pinyin": "Wǒ xǐhuan huà shānshuǐhuà.",
+      "english": "I like to paint landscape paintings."
+    },
+    {
+      "chinese": "请你画一条直线(請你畫一條直線)。",
+      "pinyin": "Qǐng nǐ huà yì tiáo zhíxiàn.",
+      "english": "Please draw a straight line."
+    },
+    {
+      "chinese": "这幅画很有名(這幅畫很有名)。",
+      "pinyin": "Zhè fú huà hěn yǒumíng.",
+      "english": "This painting is very famous."
+    }
+  ]
+}

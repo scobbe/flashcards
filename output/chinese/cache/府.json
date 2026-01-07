@@ -1,0 +1,43 @@
+{
+  "simplified": "府",
+  "traditional": "府",
+  "pinyin": "fǔ",
+  "english": "government office; public building",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 广 (“building”) + phonetic: 付 (OC *pos) — a type of building.",
+    "interpretation": "广 cues the idea of a structure or building, while 付 provides the sound and helps form a noun. Their combination points to an official or administrative building, leading to meanings like government office or public institution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "broad; wide"
+    },
+    {
+      "char": "付",
+      "trad": "付",
+      "pinyin": "fù",
+      "english": "to pay; hand over"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我去市政府办事(我去市政府辦事)。",
+      "pinyin": "Wǒ qù shì zhèngfǔ bànshì.",
+      "english": "I’m going to the city government to handle some business."
+    },
+    {
+      "chinese": "省府今天发布公告(省府今天發布公告)。",
+      "pinyin": "Shěngfǔ jīntiān fābù gōnggào.",
+      "english": "The provincial government issued an announcement today."
+    },
+    {
+      "chinese": "我们参观了旧时的府衙(我們參觀了舊時的府衙)。",
+      "pinyin": "Wǒmen cānguān le jiùshí de fǔyá.",
+      "english": "We toured a historical government office (yamen)."
+    }
+  ]
+}

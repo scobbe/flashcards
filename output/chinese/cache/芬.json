@@ -1,0 +1,43 @@
+{
+  "simplified": "芬",
+  "traditional": "芬",
+  "pinyin": "fēn",
+  "english": "fragrance; perfume; aromatic; elegant",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艸 (“grass”) + phonetic 分",
+    "interpretation": "Combines the grass element with the sound of 分 to signal a plant-related word associated with aroma. The grassy semantic hints at herbs and scents, while 分 contributes the fēn sound and helps distinguish pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plants"
+    },
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide; part; minute"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "花园里空气很芬芳(花園裡空氣很芬芳)。",
+      "pinyin": "Huāyuán lǐ kōngqì hěn fēnfāng.",
+      "english": "The air in the garden is very fragrant."
+    },
+    {
+      "chinese": "这款香水散发出淡淡的芬芳(這款香水散發出淡淡的芬芳)。",
+      "pinyin": "Zhè kuǎn xiāngshuǐ sànfā chū dàndàn de fēnfāng.",
+      "english": "This perfume gives off a light fragrance."
+    },
+    {
+      "chinese": "茶叶一入热水，屋里便充满了芬芳(茶葉一入熱水，屋裡便充滿了芬芳)。",
+      "pinyin": "Cháyè yī rù rèshuǐ, wū lǐ biàn chōngmǎn le fēnfāng.",
+      "english": "Once the tea leaves go into hot water, the room fills with fragrance."
+    }
+  ]
+}

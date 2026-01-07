@@ -1,0 +1,29 @@
+{
+  "simplified": "午",
+  "traditional": "午",
+  "pinyin": "wǔ",
+  "english": "noon; (originally) pestle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram – a pestle (now written 杵).",
+    "interpretation": "Originally depicted a vertical pestle used for pounding grain, which later became stylized into the present form. Its common meaning of “noon” arose via its role as one of the Twelve Earthly Branches, rather than from the original object depicted.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我中午休息(我中午休息)。",
+      "pinyin": "Wǒ zhōngwǔ xiūxi.",
+      "english": "I rest at noon."
+    },
+    {
+      "chinese": "我们十二点吃午饭(我們十二點吃午飯)。",
+      "pinyin": "Wǒmen shí'èr diǎn chī wǔfàn.",
+      "english": "We eat lunch at twelve o'clock."
+    },
+    {
+      "chinese": "古文字中，午表示杵(古文字中，午表示杵)。",
+      "pinyin": "Gǔ wénzì zhōng, wǔ biǎoshì chǔ.",
+      "english": "In ancient scripts, wǔ meant a pestle."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "佛教徒",
+  "traditional": "佛教徒",
+  "pinyin": "Fójiàotú",
+  "english": "Buddhist",
+  "etymology": {
+    "type": "compound word",
+    "description": "佛(Buddha) + 教(religion/teachings) + 徒(follower/disciple) = follower of Buddhism.",
+    "interpretation": "Refers to a person who follows or identifies with Buddhism and the teachings of the Buddha. Emphasizes affiliation with the Buddhist faith rather than clerical status.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "佛",
+      "trad": "佛",
+      "pinyin": "fó",
+      "english": "Buddha; Buddhism; Buddhist; Buddha image"
+    },
+    {
+      "char": "教",
+      "trad": "教",
+      "pinyin": "jiào",
+      "english": "to teach; teaching; religion; doctrine"
+    },
+    {
+      "char": "徒",
+      "trad": "徒",
+      "pinyin": "tú",
+      "english": "disciple; follower; apprentice; on foot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是一名虔诚的佛教徒(他是一名虔誠的佛教徒)。",
+      "pinyin": "Tā shì yì míng qiánchéng de Fójiàotú.",
+      "english": "He is a devout Buddhist."
+    },
+    {
+      "chinese": "很多佛教徒在寺庙里诵经(很多佛教徒在寺廟裡誦經)。",
+      "pinyin": "Hěn duō Fójiàotú zài sìmiào lǐ sòng jīng.",
+      "english": "Many Buddhists chant scriptures in temples."
+    },
+    {
+      "chinese": "作为佛教徒(作為佛教徒)，她每天打坐和行善(她每天打坐和行善)。",
+      "pinyin": "Zuòwéi Fójiàotú, tā měitiān dǎzuò hé xíngshàn.",
+      "english": "As a Buddhist, she meditates and does good deeds every day."
+    }
+  ]
+}

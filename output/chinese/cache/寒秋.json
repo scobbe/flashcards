@@ -1,0 +1,43 @@
+{
+  "simplified": "寒秋",
+  "traditional": "寒秋",
+  "pinyin": "hánqiū",
+  "english": "late autumn",
+  "etymology": {
+    "type": "compound word",
+    "description": "寒 (cold; chill) + 秋 (autumn) = the cold phase of autumn (late autumn).",
+    "interpretation": "Literary compound referring to the chilly part of autumn, often late autumn when temperatures drop. Evokes a crisp, somber seasonal atmosphere.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "寒",
+      "trad": "寒",
+      "pinyin": "hán",
+      "english": "cold; chill; poor (literary); to feel cold"
+    },
+    {
+      "char": "秋",
+      "trad": "秋",
+      "pinyin": "qiū",
+      "english": "autumn; fall; harvest time; year (literary)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "寒秋将至(寒秋將至)，夜里渐凉(夜裡漸涼)。",
+      "pinyin": "Hánqiū jiāng zhì, yèlǐ jiàn liáng.",
+      "english": "Late autumn approaches, and the nights grow cooler."
+    },
+    {
+      "chinese": "在寒秋时节(在寒秋時節)，枫叶尽染(楓葉盡染)。",
+      "pinyin": "Zài hánqiū shíjié, fēngyè jìn rǎn.",
+      "english": "In the chill of late autumn, the maple leaves are fully tinged with color."
+    },
+    {
+      "chinese": "诗人于寒秋独坐江畔(詩人於寒秋獨坐江畔)，感怀万千(感懷萬千)。",
+      "pinyin": "Shīrén yú hánqiū dú zuò jiāngpàn, gǎn huái wàn qiān.",
+      "english": "A poet sits alone by the river in late autumn, filled with many emotions."
+    }
+  ]
+}

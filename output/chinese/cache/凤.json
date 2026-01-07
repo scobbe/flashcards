@@ -1,0 +1,43 @@
+{
+  "simplified": "凤",
+  "traditional": "鳳",
+  "pinyin": "fèng",
+  "english": "phoenix; auspicious; elegant; surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 鳥 ‘bird’ + phonetic: 凡; simplified from 鳳 (𩾏 → 又).",
+    "interpretation": "Combines the bird component 鳥 with the phonetic 凡 to name a mythic bird, with 凡 contributing the sound. In simplification, the semantic bird part was dropped and the form was streamlined around the phonetic, following the 𩾏 → 又 reduction pattern seen in bird-related characters.",
+    "simplification": "The semantic 鳥 component was removed and the graph reduced to a form based on the phonetic 凡, reflecting a general policy of simplifying complex semantic components (notably the bird series) to simpler shapes."
+  },
+  "parts": [
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "ordinary; all; every"
+    },
+    {
+      "char": "鸟",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古人把凤视为祥瑞之鸟(古人把鳳視為祥瑞之鳥)。",
+      "pinyin": "Gǔrén bǎ fèng shìwéi xiángruì zhī niǎo.",
+      "english": "Ancient people regarded the phoenix as an auspicious bird."
+    },
+    {
+      "chinese": "她姓凤，家族来自山西(她姓鳳，家族來自山西)。",
+      "pinyin": "Tā xìng fèng, jiāzú láizì Shānxī.",
+      "english": "Her surname is Feng, and her family comes from Shanxi."
+    },
+    {
+      "chinese": "雕刻师刻出一只优雅的凤(雕刻師刻出一隻優雅的鳳)。",
+      "pinyin": "Diāokèshī kè chū yī zhī yōuyǎ de fèng.",
+      "english": "The carver produced an elegant phoenix."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "节",
+  "traditional": "節",
+  "pinyin": "jié",
+  "english": "festival; section; joint/node; to economize",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: ⺮ (bamboo) + phonetic: 即.",
+    "interpretation": "Combines the bamboo element with 即 as the sound, evoking the joint or node on a bamboo stalk—a natural division point. By extension it denotes a section or boundary (texts, time → “festival”) and the idea of keeping within limits, hence “to economize.”",
+    "simplification": "節 was simplified to 节 by replacing the bamboo radical with 艹 and adopting 卩 as a simpler phonetic, reducing strokes while preserving the jié reading and a plant-related cue to the bamboo node sense."
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "即",
+      "trad": "即",
+      "pinyin": "jí",
+      "english": "namely; that is"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "春节是中国最重要的节日(春節是中國最重要的節日)。",
+      "pinyin": "Chūn Jié shì Zhōngguó zuì zhòngyào de jiérì.",
+      "english": "Spring Festival is China’s most important holiday."
+    },
+    {
+      "chinese": "我们要节约用水(我們要節約用水)。",
+      "pinyin": "Wǒmen yào jiéyuē yòng shuǐ.",
+      "english": "We should conserve water."
+    },
+    {
+      "chinese": "医生检查了他的膝关节(醫生檢查了他的膝關節)。",
+      "pinyin": "Yīshēng jiǎnchá le tā de xī guānjié.",
+      "english": "The doctor examined his knee joint."
+    }
+  ]
+}

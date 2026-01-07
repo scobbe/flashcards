@@ -1,0 +1,29 @@
+{
+  "simplified": "丶",
+  "traditional": "丶",
+  "pinyin": "zhǔ",
+  "english": "dot",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram: a point/dot; also depicted a small fire on a torch when used as the original form of 主.",
+    "interpretation": "At its core, it is the simple indicative mark of a dot, corresponding to the brush stroke 点. In early graphs it could also picture a small flame perched on a torch, a role that fed into the ancient form of 主.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "汉字里有一笔叫“点”(漢字裡有一筆叫「點」)，写作“丶”(寫作「丶」)。",
+      "pinyin": "Hànzì lǐ yǒu yī bǐ jiào “diǎn”, xiězuò “zhǔ”.",
+      "english": "In Chinese characters, there is a stroke called “dot,” written as “丶.”"
+    },
+    {
+      "chinese": "写汉字时(寫漢字時)，这一笔“丶”要从上往下点(這一筆「丶」要從上往下點)。",
+      "pinyin": "Xiě Hànzì shí, zhè yī bǐ “zhǔ” yào cóng shàng wǎng xià diǎn.",
+      "english": "When writing Chinese characters, the stroke “丶” should be made from top to bottom."
+    },
+    {
+      "chinese": "雨字上面的两点是两个“丶”(雨字上面的兩點是兩個「丶」)。",
+      "pinyin": "Yǔ zì shàngmiàn de liǎng diǎn shì liǎng gè “zhǔ”.",
+      "english": "The two dots on the character 雨 are two “丶.”"
+    }
+  ]
+}

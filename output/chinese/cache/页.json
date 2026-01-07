@@ -1,0 +1,43 @@
+{
+  "simplified": "页",
+  "traditional": "頁",
+  "pinyin": "yè",
+  "english": "page; head",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): 首 + 卩 – head of a kneeling person, emphasising “head”.",
+    "interpretation": "Depicts a kneeling figure with the head highlighted, conveying the idea of 'head'. Later it was borrowed to write 'page/sheet' (via the popular form of 葉), while the original 'head' sense survives mainly in the radical and historical usage.",
+    "simplification": "Simplified by adopting the cursive-derived graph 页 from 頁, reducing strokes for easier writing; meaning remained the same."
+  },
+  "parts": [
+    {
+      "char": "首",
+      "trad": "首",
+      "pinyin": "shǒu",
+      "english": "head; first"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal; kneeling person"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请翻到第三页(請翻到第三頁)。",
+      "pinyin": "Qǐng fān dào dì sān yè.",
+      "english": "Please turn to page three."
+    },
+    {
+      "chinese": "这本书的页码印错了(這本書的頁碼印錯了)。",
+      "pinyin": "Zhè běn shū de yèmǎ yìn cuò le.",
+      "english": "The page numbers in this book were misprinted."
+    },
+    {
+      "chinese": "这个网页打不开(這個網頁打不開)。",
+      "pinyin": "Zhège wǎngyè dǎ bù kāi.",
+      "english": "This webpage won’t open."
+    }
+  ]
+}

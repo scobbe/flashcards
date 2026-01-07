@@ -1,0 +1,43 @@
+{
+  "simplified": "员",
+  "traditional": "員",
+  "pinyin": "yuán",
+  "english": "member; personnel",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "Ideogrammic: a 〇 marking the top edge of a 鼎 (ding), indicating “round.”",
+    "interpretation": "Originally depicted a circle marking the rim of a ritual ding to convey the idea “round,” a value that survives in 圓/圆. It was later borrowed for the meaning “member; personnel,” so the modern usage reflects the borrowed sense rather than the original picture.",
+    "simplification": "Simplified from 員 by replacing 貝 with 贝 and streamlining the structure (員 → 员)."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowrie; money; valuables"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是博物馆的会员(他是博物館的會員)。",
+      "pinyin": "Tā shì bówùguǎn de huìyuán.",
+      "english": "He is a member of the museum."
+    },
+    {
+      "chinese": "公司需要新员工(公司需要新員工)。",
+      "pinyin": "Gōngsī xūyào xīn yuángōng.",
+      "english": "The company needs new employees."
+    },
+    {
+      "chinese": "活动现场的工作人员很热情(活動現場的工作人員很熱情)。",
+      "pinyin": "Huódòng xiànchǎng de gōngzuò rényuán hěn rèqíng.",
+      "english": "The on-site staff are very friendly."
+    }
+  ]
+}

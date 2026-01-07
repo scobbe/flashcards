@@ -1,0 +1,43 @@
+{
+  "simplified": "源",
+  "traditional": "源",
+  "pinyin": "yuán",
+  "english": "source; origin; fountainhead; to originate",
+  "etymology": {
+    "type": "Phono-semantic compound and ideogrammic compound",
+    "description": "semantic: 水 (“water”) + phonetic: 原 (OC *ŋʷan, “origin”).",
+    "interpretation": "Water signals the domain of rivers, springs, and sources, while 原 contributes the sound yuán and the idea of an origin. Together they evoke water at its starting point, aligning sound with meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "原",
+      "trad": "原",
+      "pinyin": "yuán",
+      "english": "origin"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这条河的源头在山上(這條河的源頭在山上)。",
+      "pinyin": "Zhè tiáo hé de yuántóu zài shān shàng.",
+      "english": "The source of this river is in the mountains."
+    },
+    {
+      "chinese": "我们要寻找问题的根源(我們要尋找問題的根源)。",
+      "pinyin": "Wǒmen yào xúnzhǎo wèntí de gēnyuán.",
+      "english": "We need to find the root cause of the problem."
+    },
+    {
+      "chinese": "传说这里是文明的发源地(傳說這裡是文明的發源地)。",
+      "pinyin": "Chuánshuō zhèlǐ shì wénmíng de fāyuándì.",
+      "english": "Legend says this is the birthplace of a civilization."
+    }
+  ]
+}

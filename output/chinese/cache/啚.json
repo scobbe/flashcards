@@ -1,0 +1,37 @@
+{
+  "simplified": "啚",
+  "traditional": "啚",
+  "pinyin": "bǐ",
+  "english": "remote areas; territory (early form of 鄙)",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "semantic: 囗 ‘city boundary’ + 㐭 ‘granary’; original form of 鄙.",
+    "interpretation": "Enclosure for a city boundary pairs with a granary to picture a storehouse located beyond the walls, evoking the outskirts or countryside. By extension it came to mean the borderland or remote areas, and was later standardized as 鄙.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㐭",
+      "trad": "㐭",
+      "pinyin": "lǐn",
+      "english": "granary; storehouse"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "将军奉命巡边，远至啚地(將軍奉命巡邊，遠至啚地)。",
+      "pinyin": "Jiāng jūn fèng mìng xún biān, yuǎn zhì bǐ dì.",
+      "english": "The general was ordered to patrol the borders, reaching the remote outlands."
+    },
+    {
+      "chinese": "乡民在啚地屯粮，以备荒年(鄉民在啚地屯糧，以備荒年)。",
+      "pinyin": "Xiāng mín zài bǐ dì tún liáng, yǐ bèi huāng nián.",
+      "english": "Villagers stockpiled grain in the outlands to prepare for years of famine."
+    },
+    {
+      "chinese": "古籍记载，此处本为啚，后并入郡县(古籍記載，此處本為啚，後併入郡縣)。",
+      "pinyin": "Gǔ jí jì zǎi, cǐ chù běn wéi bǐ, hòu bìng rù jùn xiàn.",
+      "english": "Ancient records note that this place was once the borderland, later incorporated into a commandery and county."
+    }
+  ]
+}

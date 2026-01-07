@@ -1,0 +1,49 @@
+{
+  "simplified": "大力士",
+  "traditional": "大力士",
+  "pinyin": "dàlìshì",
+  "english": "strongman",
+  "etymology": {
+    "type": "compound word",
+    "description": "大 (great) + 力 (strength) + 士 (person) = person of great strength (strongman).",
+    "interpretation": "Denotes a person characterized by exceptional physical power, akin to a strongman. 士 serves as a noun-forming suffix meaning 'person'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great; major; very"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength; power; force; effort"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar; gentleman; soldier; man"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是村里的大力士(他是村裡的大力士)，能举起很重的石头(能舉起很重的石頭)。",
+      "pinyin": "Tā shì cūn lǐ de dàlìshì, néng jǔ qǐ hěn zhòng de shítou.",
+      "english": "He is the village strongman and can lift very heavy stones."
+    },
+    {
+      "chinese": "在杂技表演中(在雜技表演中)，大力士展示惊人的臂力(大力士展示驚人的臂力)。",
+      "pinyin": "Zài zájì biǎoyǎn zhōng, dàlìshì zhǎnshì jīngrén de bìlì.",
+      "english": "In acrobatic shows, the strongman displays astonishing arm strength."
+    },
+    {
+      "chinese": "他从小就练习举重(他從小就練習舉重)，梦想成为世界级的大力士(夢想成為世界級的大力士)。",
+      "pinyin": "Tā cóng xiǎo jiù liànxí jǔzhòng, mèngxiǎng chéngwéi shìjiè jí de dàlìshì.",
+      "english": "Since childhood he has practiced weightlifting, dreaming of becoming a world-class strongman."
+    }
+  ]
+}

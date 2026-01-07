@@ -1,0 +1,43 @@
+{
+  "simplified": "椰奶",
+  "traditional": "椰奶",
+  "pinyin": "yēnǎi",
+  "english": "coconut milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "椰(coconut) + 奶(milk) = coconut milk (liquid from coconut flesh).",
+    "interpretation": "Refers to the rich white liquid expressed from grated coconut flesh, common in desserts and curries. Distinct from 椰子水, the clear liquid inside a fresh coconut.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "椰",
+      "trad": "椰",
+      "pinyin": "yē",
+      "english": "coconut; coconut palm; palm tree; coconut-related"
+    },
+    {
+      "char": "奶",
+      "trad": "奶",
+      "pinyin": "nǎi",
+      "english": "milk; breast; to breastfeed; (paternal) grandmother"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢喝椰奶(我喜歡喝椰奶)。",
+      "pinyin": "Wǒ xǐhuān hē yēnǎi.",
+      "english": "I like to drink coconut milk."
+    },
+    {
+      "chinese": "这道咖喱用椰奶增添香味(這道咖哩用椰奶增添香味)。",
+      "pinyin": "Zhè dào gālí yòng yēnǎi zēngtiān xiāngwèi.",
+      "english": "This curry uses coconut milk to add aroma and flavor."
+    },
+    {
+      "chinese": "别把椰奶和椰子水混淆(別把椰奶和椰子水混淆)。",
+      "pinyin": "Bié bǎ yēnǎi hé yēzi shuǐ hùnxiáo.",
+      "english": "Don't confuse coconut milk with coconut water."
+    }
+  ]
+}

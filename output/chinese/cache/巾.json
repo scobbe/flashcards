@@ -1,0 +1,29 @@
+{
+  "simplified": "巾",
+  "traditional": "巾",
+  "pinyin": "jīn",
+  "english": "cloth; towel",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – hanging piece of cloth.",
+    "interpretation": "Depicts a cloth draped and hanging, with the long stroke as the edge and the shorter strokes suggesting the folds. The image conveys a towel or piece of fabric suspended from a line or rod.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我用湿毛巾擦脸(我用濕毛巾擦臉)。",
+      "pinyin": "Wǒ yòng shī máojīn cā liǎn.",
+      "english": "I use a wet towel to wipe my face."
+    },
+    {
+      "chinese": "她戴着红色的头巾(她戴著紅色的頭巾)。",
+      "pinyin": "Tā dài zhe hóngsè de tóujīn.",
+      "english": "She is wearing a red headscarf."
+    },
+    {
+      "chinese": "冬天出门要围上围巾(冬天出門要圍上圍巾)。",
+      "pinyin": "Dōngtiān chūmén yào wéi shàng wéijīn.",
+      "english": "In winter, put on a scarf before going out."
+    }
+  ]
+}

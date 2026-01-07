@@ -1,0 +1,43 @@
+{
+  "simplified": "逸",
+  "traditional": "逸",
+  "pinyin": "yì",
+  "english": "ease; leisure; escape",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic compound: 止 + 㚔 (oracle); later: 辵 + 兔.",
+    "interpretation": "Early forms combined “foot/stop” with a component suggesting swift movement. Later the walking/motion element 辵 with a rabbit 兔 evoked rapid running, yielding senses like to flee or slip away, and by extension a carefree, unrestrained ease.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "to stop; halt"
+    },
+    {
+      "char": "兔",
+      "trad": "兔",
+      "pinyin": "tù",
+      "english": "rabbit; hare"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他趁夜逃逸(他趁夜逃逸)。",
+      "pinyin": "Tā chèn yè táoyì.",
+      "english": "He escaped under cover of night."
+    },
+    {
+      "chinese": "乡下生活安逸(鄉下生活安逸)。",
+      "pinyin": "Xiāngxià shēnghuó ānyì.",
+      "english": "Life in the countryside is comfortable and leisurely."
+    },
+    {
+      "chinese": "她的文风清新飘逸(她的文風清新飄逸)。",
+      "pinyin": "Tā de wénfēng qīngxīn piāoyì.",
+      "english": "Her writing style is fresh and unrestrained."
+    }
+  ]
+}

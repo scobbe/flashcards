@@ -1,0 +1,43 @@
+{
+  "simplified": "麻",
+  "traditional": "麻",
+  "pinyin": "má",
+  "english": "hemp; numb",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic compound (會意/会意): 厂 + 𣏟 — a representation of hemp leaves.",
+    "interpretation": "A ‘cliff/shelter’ element (厂) placed over clustered leaves/wood (𣏟, akin to 林) depicts bunches of hemp hung up to dry. From the plant sense, it extended metaphorically to the feeling of numbness or tingling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "廠",
+      "pinyin": "chǎng",
+      "english": "factory; plant"
+    },
+    {
+      "char": "林",
+      "trad": "林",
+      "pinyin": "lín",
+      "english": "woods; forest"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我手指麻了(我手指麻了)。",
+      "pinyin": "Wǒ shǒuzhǐ má le.",
+      "english": "My fingers went numb."
+    },
+    {
+      "chinese": "这条麻绳很结实(這條麻繩很結實)。",
+      "pinyin": "Zhè tiáo má shéng hěn jiéshi.",
+      "english": "This hemp rope is very sturdy."
+    },
+    {
+      "chinese": "这种布是麻做的(這種布是麻做的)。",
+      "pinyin": "Zhè zhǒng bù shì má zuò de.",
+      "english": "This cloth is made of hemp."
+    }
+  ]
+}

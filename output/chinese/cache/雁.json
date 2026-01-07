@@ -1,0 +1,49 @@
+{
+  "simplified": "雁",
+  "traditional": "雁",
+  "pinyin": "yàn",
+  "english": "wild goose; swan goose; migratory bird; goose",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 厂 (OC *hŋaːnʔ, *hŋaːns) + semantic: 人 + semantic: 隹",
+    "interpretation": "厂 provides the sound, matching an early pronunciation, while 人 and 隹 contribute meaning. 隹 marks it as a kind of bird, and 人 is often taken to allude to human association or the V-shaped ‘person-like’ formation of migrating geese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "廠",
+      "pinyin": "chǎng",
+      "english": "factory; plant"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "秋天，雁向南方迁徙(秋天，雁向南方遷徙)。",
+      "pinyin": "Qiūtiān, yàn xiàng nánfāng qiānxǐ.",
+      "english": "In autumn, geese migrate south."
+    },
+    {
+      "chinese": "天空中排成人字队形的雁很壮观(天空中排成人字隊形的雁很壯觀)。",
+      "pinyin": "Tiānkōng zhōng páichéng rénzì duìxíng de yàn hěn zhuàngguān.",
+      "english": "The geese forming a V-shaped formation in the sky are spectacular."
+    },
+    {
+      "chinese": "古人以鸿雁传书(古人以鴻雁傳書)。",
+      "pinyin": "Gǔrén yǐ hóngyàn chuán shū.",
+      "english": "In ancient times, people used wild geese as a metaphor for sending letters."
+    }
+  ]
+}

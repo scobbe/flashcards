@@ -1,0 +1,29 @@
+{
+  "simplified": "甲",
+  "traditional": "甲",
+  "pinyin": "jiǎ",
+  "english": "armor; shell; first (Heavenly Stem)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "A pictogram of the protective hard shell, carapace, or scales of an animal, or a suit of armor made of connected plates.",
+    "interpretation": "Depicts a rigid protective plate or carapace, hence senses like armor or shell. By extension it came to mark the first position in ordered sets such as the Heavenly Stems.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "乌龟的甲很坚硬(烏龜的甲很堅硬)。",
+      "pinyin": "Wūguī de jiǎ hěn jiānyìng.",
+      "english": "A turtle's shell is very hard."
+    },
+    {
+      "chinese": "在天干地支中，甲是第一位(在天干地支中，甲是第一位)。",
+      "pinyin": "Zài tiāngān dìzhī zhōng, jiǎ shì dì-yī wèi.",
+      "english": "In the Heavenly Stems and Earthly Branches, jia is the first."
+    },
+    {
+      "chinese": "博物馆展出甲骨文(博物館展出甲骨文)。",
+      "pinyin": "Bówùguǎn zhǎnchū jiǎgǔwén.",
+      "english": "The museum exhibits oracle bone inscriptions."
+    }
+  ]
+}

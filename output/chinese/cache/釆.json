@@ -1,0 +1,29 @@
+{
+  "simplified": "釆",
+  "traditional": "釆",
+  "pinyin": "biàn",
+  "english": "distinguish; separate",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: animal paw with spread toes (Shuowen; cf. 蹯); alt. view: wooden plough 力 scattering seeds to mean “disseminate” (cf. 播). Unrelated to the top of 𢍏 (in 奧).",
+    "interpretation": "One tradition sees a splayed paw, evoking the idea of spreading apart and thus distinguishing. Another reads the graph as a plough scattering seeds, which also suggests spreading and differentiation. Similarity to the component atop 𢍏/奧 is accidental and historically unrelated.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "学者善于分辨真假(學者善於分辨真假)。",
+      "pinyin": "Xuézhě shànyú fēnbiàn zhēn jiǎ.",
+      "english": "Scholars are good at distinguishing truth from falsehood."
+    },
+    {
+      "chinese": "请你区别开这些相似的样本(請你區別開這些相似的樣本)。",
+      "pinyin": "Qǐng nǐ qūbié kāi zhèxiē xiāngsì de yàngběn.",
+      "english": "Please separate these similar samples."
+    },
+    {
+      "chinese": "他难以辨清这两种颜色(他難以辨清這兩種顏色)。",
+      "pinyin": "Tā nányǐ biànqīng zhè liǎng zhǒng yánsè.",
+      "english": "He finds it hard to tell these two colors apart."
+    }
+  ]
+}

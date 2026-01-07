@@ -1,0 +1,29 @@
+{
+  "simplified": "龙",
+  "traditional": "龍",
+  "pinyin": "lóng",
+  "english": "dragon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: originally a serpent with a whiskered mouth and eyes; current standard form developed in large seal script. The simplified 龙 comes via variant 𢅛 of 龍, removing 帝 and reducing the 彡 strokes.",
+    "interpretation": "Evokes a whiskered, serpentine creature with eyes and maw; later scripts abstracted the curves and details into a compact emblem. The PRC simplification streamlines earlier variants by dropping an upper element and trimming the beard strokes while keeping the dragon’s iconic silhouette.",
+    "simplification": "Stroke-count reduction in script reform: removed the 帝 component from the 𢅛 variant and pared down 彡 to speed writing and improve legibility."
+  },
+  "examples": [
+    {
+      "chinese": "中国人把龙当作吉祥的象征(中國人把龍當作吉祥的象徵)。",
+      "pinyin": "Zhōngguó rén bǎ lóng dāngzuò jíxiáng de xiàngzhēng.",
+      "english": "Chinese people regard the dragon as an auspicious symbol."
+    },
+    {
+      "chinese": "今年是龙年(今年是龍年)。",
+      "pinyin": "Jīnnián shì lóngnián.",
+      "english": "This year is the Year of the Dragon."
+    },
+    {
+      "chinese": "那条龙在云中盘旋(那條龍在雲中盤旋)。",
+      "pinyin": "Nà tiáo lóng zài yún zhōng pánxuán.",
+      "english": "That dragon is circling in the clouds."
+    }
+  ]
+}

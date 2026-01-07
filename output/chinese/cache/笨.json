@@ -1,0 +1,43 @@
+{
+  "simplified": "笨",
+  "traditional": "笨",
+  "pinyin": "bèn",
+  "english": "stupid; clumsy; awkward; dull-witted",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 竹 + phonetic: 本",
+    "interpretation": "Uses the bamboo classifier 竹 to signal a semantic field historically associated with bamboo or implements, while 本 supplies the pronunciation bèn. The sense later generalized to “clumsy/dull,” extending from an idea of stiffness or awkwardness, but the phonetic element continued to cue the sound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "本",
+      "trad": "本",
+      "pinyin": "běn",
+      "english": "root; origin"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我有点笨(我有點笨)，学得慢(學得慢)。",
+      "pinyin": "Wǒ yǒudiǎn bèn, xué de màn.",
+      "english": "I’m a bit clumsy/dull and learn slowly."
+    },
+    {
+      "chinese": "别笑他笨(別笑他笨)，他很努力(他很努力)。",
+      "pinyin": "Bié xiào tā bèn, tā hěn nǔlì.",
+      "english": "Don’t laugh at him for being slow; he works hard."
+    },
+    {
+      "chinese": "她虽然笨(她雖然笨)，但是心地善良(但是心地善良)。",
+      "pinyin": "Tā suīrán bèn, dànshì xīndì shànliáng.",
+      "english": "Although she’s not very bright, she is kind‑hearted."
+    }
+  ]
+}

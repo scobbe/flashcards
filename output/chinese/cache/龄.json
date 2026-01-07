@@ -1,0 +1,43 @@
+{
+  "simplified": "龄",
+  "traditional": "齡",
+  "pinyin": "Líng",
+  "english": "age; years of age; lifespan; service length",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 齒 (“tooth”) + phonetic: 令; simplified: 齒 → 齿.",
+    "interpretation": "Teeth are closely tied to judging age, so the tooth component supplies the meaning of age and lifespan. 令 contributes the pronunciation while the semantic part points to the idea of age, as in checking teeth to estimate years.",
+    "simplification": "Component simplification during the script reform: the semantic component 齒 was simplified to 齿; the phonetic 令 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "齿",
+      "trad": "齒",
+      "pinyin": "chǐ",
+      "english": "tooth; teeth"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "order; command; to cause"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她的年龄(她的年齡)只有十八岁(只有十八歲)。",
+      "pinyin": "Tā de niánlíng zhǐyǒu shíbā suì.",
+      "english": "Her age is only eighteen."
+    },
+    {
+      "chinese": "达到法定退休年龄(達到法定退休年齡)，他可以申请退休(他可以申請退休)。",
+      "pinyin": "Dádào fǎdìng tuìxiū niánlíng, tā kěyǐ shēnqǐng tuìxiū.",
+      "english": "Upon reaching the statutory retirement age, he can apply to retire."
+    },
+    {
+      "chinese": "这辆车的车龄(這輛車的車齡)已经十年了(已經十年了)。",
+      "pinyin": "Zhè liàng chē de chēlíng yǐjīng shí nián le.",
+      "english": "The car is already ten years old."
+    }
+  ]
+}

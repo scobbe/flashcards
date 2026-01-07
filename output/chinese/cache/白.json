@@ -1,0 +1,29 @@
+{
+  "simplified": "白",
+  "traditional": "白",
+  "pinyin": "bái",
+  "english": "white;pure;clear;plain",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram; proposed depictions include a thumb (original of 拇/擘) or an acorn, with “white” from the acorn’s inside; unrelated to the top of 原.",
+    "interpretation": "Most scholars treat it as a simple drawing, perhaps of a thumb or an acorn. If the acorn view is right, the sense “white” comes from the pale interior revealed when the shell is opened. Over time it generalized to the color and to notions of purity and clarity.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这件衣服很白(這件衣服很白)。",
+      "pinyin": "Zhè jiàn yīfu hěn bái.",
+      "english": "This piece of clothing is very white."
+    },
+    {
+      "chinese": "他为人清白(他為人清白)。",
+      "pinyin": "Tā wéirén qīngbái.",
+      "english": "He is upright and innocent."
+    },
+    {
+      "chinese": "合同白纸黑字，不能反悔(合同白紙黑字，不能反悔)。",
+      "pinyin": "Hétong bái zhǐ hēi zì, bùnéng fǎnhuǐ.",
+      "english": "The contract is in black and white; you can’t go back on it."
+    }
+  ]
+}

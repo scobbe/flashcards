@@ -1,0 +1,37 @@
+{
+  "simplified": "晶",
+  "traditional": "晶",
+  "pinyin": "jīng",
+  "english": "bright; crystal; sparkle; clear",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Triplication of 日 (\"sun\").",
+    "interpretation": "Three suns stacked together conveys intense brightness and radiance. Repetition visually amplifies light and clarity, extending to senses like crystal, sparkle, and clearness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这块水晶在阳光下闪闪发光(這塊水晶在陽光下閃閃發光)。",
+      "pinyin": "Zhè kuài shuǐjīng zài yángguāng xià shǎnshǎn fāguāng.",
+      "english": "This piece of crystal sparkles in the sunlight."
+    },
+    {
+      "chinese": "雪花晶莹剔透(雪花晶瑩剔透)。",
+      "pinyin": "Xuěhuā jīngyíng tìtòu.",
+      "english": "The snowflakes are sparkling and crystal-clear."
+    },
+    {
+      "chinese": "科学家研究晶体的结构(科學家研究晶體的結構)。",
+      "pinyin": "Kēxuéjiā yánjiū jīngtǐ de jiégòu.",
+      "english": "Scientists study the structure of crystals."
+    }
+  ]
+}

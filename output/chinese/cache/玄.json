@@ -1,0 +1,37 @@
+{
+  "simplified": "玄",
+  "traditional": "玄",
+  "pinyin": "xuán",
+  "english": "mysterious; profound",
+  "etymology": {
+    "type": "Ideogram (指事)",
+    "description": "Two interwoven threads 幺 with a distinguishing mark 亠 on top; depicts a rope, cf. 率 and 弦; distinct from 己 and 乃.",
+    "interpretation": "Interwoven strands suggest a cord, with the top mark signaling something set apart or hidden. From the idea of a special braided thread came meanings of subtle depth and mystery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "tiny; youngest"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这道理很玄妙(這道理很玄妙)。",
+      "pinyin": "Zhè dàolǐ hěn xuánmiào.",
+      "english": "This principle is quite subtle."
+    },
+    {
+      "chinese": "他的理论过于玄奥(他的理論過於玄奧)。",
+      "pinyin": "Tā de lǐlùn guòyú xuán’ào.",
+      "english": "His theory is overly abstruse."
+    },
+    {
+      "chinese": "别把科学说成玄学(別把科學說成玄學)。",
+      "pinyin": "Bié bǎ kēxué shuō chéng xuánxué.",
+      "english": "Don't call science mysticism."
+    }
+  ]
+}

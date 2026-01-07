@@ -1,0 +1,37 @@
+{
+  "simplified": "它",
+  "traditional": "它",
+  "pinyin": "tā",
+  "english": "it",
+  "etymology": {
+    "type": "pictogram; jiajie (rebus)",
+    "description": "pictogram: snake; later borrowed (rebus) for the third-person pronoun; the ‘snake’ sense is now written 蛇.",
+    "interpretation": "Originally depicted a snake, then was repurposed as a rebus for a pronoun pronounced tā. The lexical meaning ‘snake’ was reassigned to 蛇, while 它 remained as the third-person neuter pronoun.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我看到一只猫(我看到一隻貓)，它很可爱(它很可愛)。",
+      "pinyin": "Wǒ kàn dào yì zhī māo, tā hěn kě'ài.",
+      "english": "I saw a cat; it is very cute."
+    },
+    {
+      "chinese": "请把手机给我(請把手機給我)，我需要用它(我需要用它)。",
+      "pinyin": "Qǐng bǎ shǒujī gěi wǒ, wǒ xūyào yòng tā.",
+      "english": "Please give me the phone; I need to use it."
+    },
+    {
+      "chinese": "这台机器坏了(這台機器壞了)，我们得修理它(我們得修理它)。",
+      "pinyin": "Zhè tái jīqì huài le, wǒmen děi xiūlǐ tā.",
+      "english": "This machine is broken; we have to fix it."
+    }
+  ]
+}

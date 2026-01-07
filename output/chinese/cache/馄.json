@@ -1,0 +1,43 @@
+{
+  "simplified": "馄",
+  "traditional": "餛",
+  "pinyin": "hún",
+  "english": "wonton; wonton dumpling",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 饣/飠 (“food”) + phonetic: 昏 (hūn).",
+    "interpretation": "Food component signals something edible, while 昏 guides the pronunciation toward hún. Together they label a food item, later specialized to mean wonton dumplings.",
+    "simplification": "The food component was simplified from 飠 to 饣; the phonetic 昏 was unchanged."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; to eat"
+    },
+    {
+      "char": "昏",
+      "trad": "昏",
+      "pinyin": "hūn",
+      "english": "dusk; dark; confused"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我想吃一碗馄饨(我想吃一碗餛飩)。",
+      "pinyin": "Wǒ xiǎng chī yì wǎn húntun.",
+      "english": "I want to eat a bowl of wontons."
+    },
+    {
+      "chinese": "这家店的馄饨特别鲜美(這家店的餛飩特別鮮美)。",
+      "pinyin": "Zhè jiā diàn de húntun tèbié xiānměi.",
+      "english": "The wontons at this shop are especially delicious."
+    },
+    {
+      "chinese": "他点了馄饨汤和小笼包(他點了餛飩湯和小籠包)。",
+      "pinyin": "Tā diǎnle húntun tāng hé xiǎo lóng bāo.",
+      "english": "He ordered wonton soup and soup dumplings."
+    }
+  ]
+}

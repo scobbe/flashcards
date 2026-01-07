@@ -1,0 +1,29 @@
+{
+  "simplified": "自",
+  "traditional": "自",
+  "pinyin": "zì",
+  "english": "self; nose (originally)",
+  "etymology": {
+    "type": "pictogram; rebus (jiajie, phonetic loan)",
+    "description": "Pictogram of a nose; later borrowed as a phonetic loan (jiajie) to write “oneself; from,” while 鼻 took over the ‘nose’ meaning.",
+    "interpretation": "Originally depicted a nose. The graph was later repurposed for a similarly pronounced word meaning “self/from,” and a new character 鼻 came to represent ‘nose.’",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我自己做(我自己做)。",
+      "pinyin": "Wǒ zìjǐ zuò.",
+      "english": "I’ll do it myself."
+    },
+    {
+      "chinese": "他自北京来(他自北京來)。",
+      "pinyin": "Tā zì Běijīng lái.",
+      "english": "He comes from Beijing."
+    },
+    {
+      "chinese": "自从去年起(自從去年起)，她自学法语(她自學法語)。",
+      "pinyin": "Zìcóng qùnián qǐ, tā zìxué Fǎyǔ.",
+      "english": "Since last year, she has self-studied French."
+    }
+  ]
+}

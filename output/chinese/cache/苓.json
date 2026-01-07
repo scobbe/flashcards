@@ -1,0 +1,37 @@
+{
+  "simplified": "苓",
+  "traditional": "苓",
+  "pinyin": "líng",
+  "english": "poria; medicinal herb; used in plant/herb names; tuckahoe",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艹 (“grass”) + phonetic 令 (líng).",
+    "interpretation": "艹 signals a connection to plants or herbs, fitting its use in herb names. 令 supplies the pronunciation líng, while the overall meaning refers to an herb, notably poria in compounds like 茯苓.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng / líng / lǐng",
+      "english": "order; command; make; virtuous; surname (phonetic here)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "中医常用茯苓(中醫常用茯苓)。",
+      "pinyin": "Zhōngyī chángyòng fúlíng.",
+      "english": "Traditional Chinese medicine commonly uses poria."
+    },
+    {
+      "chinese": "我买了茯苓饼当点心(我買了茯苓餅當點心)。",
+      "pinyin": "Wǒ mǎi le fúlíng bǐng dāng diǎnxīn.",
+      "english": "I bought poria cakes as a snack."
+    },
+    {
+      "chinese": "这种药材以茯苓为主(這種藥材以茯苓為主)。",
+      "pinyin": "Zhè zhǒng yàocái yǐ fúlíng wéi zhǔ.",
+      "english": "This medicinal ingredient mainly uses poria."
+    }
+  ]
+}

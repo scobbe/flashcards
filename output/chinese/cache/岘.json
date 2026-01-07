@@ -1,0 +1,43 @@
+{
+  "simplified": "岘",
+  "traditional": "峴",
+  "pinyin": "xiàn",
+  "english": "mountain pass; saddle-shaped ridge; hill neck; used in place names (e.g., 峴山)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 山 (“mountain”) + phonetic: 見.",
+    "interpretation": "Mountain (山) marks a geographical feature, while 見 provides the sound that developed into xiàn. The sense naturally narrows to a mountain pass or neck-like ridge and appears frequently in place names such as 岘山/峴山.",
+    "simplification": "Phonetic 見 was simplified to 见 under the PRC scheme, yielding 岘 while keeping the semantic 山 unchanged."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "to see"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "湖北襄阳有岘山(湖北襄陽有峴山)。",
+      "pinyin": "Húběi Xiāngyáng yǒu Xiànshān.",
+      "english": "There is Mount Xian in Xiangyang, Hubei."
+    },
+    {
+      "chinese": "岘山的山口很狭窄(峴山的山口很狹窄)。",
+      "pinyin": "Xiànshān de shānkǒu hěn xiázhǎi.",
+      "english": "The pass at Mount Xian is very narrow."
+    },
+    {
+      "chinese": "古道沿着鞍部穿过岘山(古道沿著鞍部穿過峴山)。",
+      "pinyin": "Gǔdào yánzhe ānbù chuānguò Xiànshān.",
+      "english": "The ancient road follows the saddle and passes through Mount Xian."
+    }
+  ]
+}

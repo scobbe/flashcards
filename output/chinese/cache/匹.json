@@ -1,0 +1,43 @@
+{
+  "simplified": "匹",
+  "traditional": "匹",
+  "pinyin": "pǐ",
+  "english": "pair; to match; bolt (of cloth)",
+  "etymology": {
+    "type": "uncertain",
+    "description": "Uncertain; Shuowen: ideogrammic/phono-semantic — semantic 匸 (“conceal”) + phonetic 八 (“eight”), a cloth-measure idea (not supported by earliest forms).",
+    "interpretation": "Later scholars linked 八 to the notion of ‘eight folds’ and 匸 to ‘concealing’ the ends when rolling cloth, to explain its use as a cloth measure. Early inscriptions don’t clearly show these parts, so the form likely began as an abstract or non-decomposable sign that was later reinterpreted and extended to senses like ‘to match’ and as a classifier.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "匸",
+      "trad": "匸",
+      "pinyin": "xì",
+      "english": "conceal"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们需要找到一对颜色相匹配的袜子(我們需要找到一對顏色相匹配的襪子)。",
+      "pinyin": "Wǒmen xūyào zhǎodào yī duì yánsè xiāng pǐpèi de wàzi.",
+      "english": "We need to find a pair of socks that match in color."
+    },
+    {
+      "chinese": "商店卖一匹布够做两件衣服(商店賣一匹布夠做兩件衣服)。",
+      "pinyin": "Shāngdiàn mài yì pǐ bù gòu zuò liǎng jiàn yīfu.",
+      "english": "The store sells a bolt of cloth, enough to make two garments."
+    },
+    {
+      "chinese": "草原上有两匹马在奔跑(草原上有兩匹馬在奔跑)。",
+      "pinyin": "Cǎoyuán shàng yǒu liǎng pǐ mǎ zài bēnpǎo.",
+      "english": "Two horses are galloping on the grassland."
+    }
+  ]
+}

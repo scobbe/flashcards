@@ -1,0 +1,43 @@
+{
+  "simplified": "繁",
+  "traditional": "繁",
+  "pinyin": "fán",
+  "english": "numerous; many; complex; luxuriant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 糸 (“silk”) + phonetic: 敏",
+    "interpretation": "The silk component points to threads and weaving, evoking ideas of intricacy and abundance. 敏 supplies the pronunciation, while the image of many interlacing threads helps explain meanings like numerous, complex, and luxuriant growth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "敏",
+      "trad": "敏",
+      "pinyin": "mǐn",
+      "english": "quick; clever; alert"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这一时期资料繁多，研究者需要耐心整理。(這一時期資料繁多，研究者需要耐心整理。)",
+      "pinyin": "Zhè yī shíqī zīliào fánduō, yánjiūzhě xūyào nàixīn zhěnglǐ.",
+      "english": "In this period the materials are numerous, and researchers need to sort them patiently."
+    },
+    {
+      "chinese": "城市的道路网络十分繁复，第一次来的人容易迷路。(城市的道路網絡十分繁複，第一次來的人容易迷路。)",
+      "pinyin": "Chéngshì de dàolù wǎngluò shífēn fánfù, dì yī cì lái de rén róngyì mílù.",
+      "english": "The city’s road network is very complex, and first-time visitors can easily get lost."
+    },
+    {
+      "chinese": "雨后庭院里草木繁茂，空气格外清新。(雨後庭院裡草木繁茂，空氣格外清新。)",
+      "pinyin": "Yǔ hòu tíngyuàn lǐ cǎomù fánmào, kōngqì géwài qīngxīn.",
+      "english": "After the rain, the courtyard’s vegetation is luxuriant, and the air is especially fresh."
+    }
+  ]
+}

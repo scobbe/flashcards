@@ -1,0 +1,49 @@
+{
+  "simplified": "鼓浪屿",
+  "traditional": "鼓浪嶼",
+  "pinyin": "Gǔlàngyǔ",
+  "english": "Gulangyu Island",
+  "etymology": {
+    "type": "compound word",
+    "description": "鼓(beat/drum) + 浪(waves) + 屿(islet) = islet where waves drum.",
+    "interpretation": "Named for wave action striking coastal rocks and cavities, producing drumlike sounds—literally “islet where waves drum.” Often refers to the small islet off Xiamen famous for its scenery and music culture.",
+    "simplification": "嶼 → 屿 by replacing the phonetic 與 with its simplified form 与 and reducing strokes; 鼓 and 浪 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "鼓",
+      "trad": "鼓",
+      "pinyin": "gǔ",
+      "english": "drum; to beat; to rouse/encourage; to swell"
+    },
+    {
+      "char": "浪",
+      "trad": "浪",
+      "pinyin": "làng",
+      "english": "wave; surf/breaker; unrestrained/romantic; wasteful/extravagant"
+    },
+    {
+      "char": "屿",
+      "trad": "嶼",
+      "pinyin": "yǔ",
+      "english": "islet; small island; isle; used in place names"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们乘渡轮前往鼓浪屿(我們乘渡輪前往鼓浪嶼)。",
+      "pinyin": "Wǒmen chéng dùlún qiánwǎng Gǔlàngyǔ.",
+      "english": "We took a ferry to Gulangyu."
+    },
+    {
+      "chinese": "她说鼓浪屿的钢琴声很有名(她說鼓浪嶼的鋼琴聲很有名)。",
+      "pinyin": "Tā shuō Gǔlàngyǔ de gāngqín shēng hěn yǒumíng.",
+      "english": "She said the piano music of Gulangyu is famous."
+    },
+    {
+      "chinese": "在鼓浪屿，海浪拍击礁石，发出像鼓声的回响(在鼓浪嶼，海浪拍擊礁石，發出像鼓聲的回響)。",
+      "pinyin": "Zài Gǔlàngyǔ, hǎilàng pāijī jiāoshí, fāchū xiàng gǔshēng de huíxiǎng.",
+      "english": "On Gulangyu, waves strike the reefs, producing echoes like drumbeats."
+    }
+  ]
+}

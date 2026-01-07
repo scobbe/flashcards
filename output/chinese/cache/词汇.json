@@ -1,0 +1,43 @@
+{
+  "simplified": "词汇",
+  "traditional": "詞彙",
+  "pinyin": "cíhuì",
+  "english": "vocabulary",
+  "etymology": {
+    "type": "compound word",
+    "description": "词(word) + 汇(collection) = collection of words (vocabulary/lexicon).",
+    "interpretation": "Means the stock or collection of words used in a language, field, or by a person. Common in linguistics, education, and lexicography.",
+    "simplification": "詞 → 词 simplifies the 言 radical to 讠 to reduce strokes; 彙 → 汇 merges with 匯 into a single simplified form, leveraging the idea of ‘gathering/converging’ and streamlining high‑frequency usage."
+  },
+  "parts": [
+    {
+      "char": "词",
+      "trad": "詞",
+      "pinyin": "cí",
+      "english": "word; term; expression; lyrics"
+    },
+    {
+      "char": "汇",
+      "trad": "彙",
+      "pinyin": "huì",
+      "english": "collection; to gather; category; compilation"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "学习新词汇有助于提高阅读理解(學習新詞彙有助於提高閱讀理解)。",
+      "pinyin": "Xuéxí xīn cíhuì yǒu zhù yú tígāo yuèdú lǐjiě.",
+      "english": "Learning new vocabulary helps improve reading comprehension."
+    },
+    {
+      "chinese": "他的英语词汇量很大(他的英語詞彙量很大)。",
+      "pinyin": "Tā de Yīngyǔ cíhuìliàng hěn dà.",
+      "english": "His English vocabulary size is large."
+    },
+    {
+      "chinese": "这本词典按主题分类词汇(這本詞典按主題分類詞彙)。",
+      "pinyin": "Zhè běn cídiǎn àn zhǔtí fēnlèi cíhuì.",
+      "english": "This dictionary organizes vocabulary by topic."
+    }
+  ]
+}

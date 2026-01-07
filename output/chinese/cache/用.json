@@ -1,0 +1,29 @@
+{
+  "simplified": "用",
+  "traditional": "用",
+  "pinyin": "yòng",
+  "english": "to use; employ",
+  "etymology": {
+    "type": "pictogram",
+    "description": "a water bucket; compare 桶; similar but unrelated to 甬, 角; unrelated to the bottom of 備 and to 甫",
+    "interpretation": "Originally depicted a bucket, likely viewed from above with a handle, conveying a tool or container. Its similarity to forms like 甬 or 角 is coincidental and not etymologically connected; over time the sense broadened to the general idea of employing or using something.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我用手机上网(我用手機上網)。",
+      "pinyin": "Wǒ yòng shǒujī shàngwǎng.",
+      "english": "I use my phone to go online."
+    },
+    {
+      "chinese": "请用筷子吃饭(請用筷子吃飯)。",
+      "pinyin": "Qǐng yòng kuàizi chīfàn.",
+      "english": "Please use chopsticks to eat."
+    },
+    {
+      "chinese": "这把钥匙不好用(這把鑰匙不好用)。",
+      "pinyin": "Zhè bǎ yàoshi bù hǎo yòng.",
+      "english": "This key doesn’t work well."
+    }
+  ]
+}

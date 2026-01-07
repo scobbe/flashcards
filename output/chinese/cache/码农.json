@@ -1,0 +1,43 @@
+{
+  "simplified": "码农",
+  "traditional": "碼農",
+  "pinyin": "mǎnóng",
+  "english": "programmer (slang)",
+  "etymology": {
+    "type": "compound word",
+    "description": "码(碼 ‘code; number’) + 农(農 ‘farmer’) = ‘code farmer’ → programmer (slang).",
+    "interpretation": "Humorous metaphor likening programmers to farm laborers who toil for long hours doing repetitive work to ‘harvest’ code. Often self‑deprecating or slightly pejorative, highlighting the laborious side of coding.",
+    "simplification": "Both characters were simplified in the PRC to reduce stroke count: 碼 → 码 (simplifies the 馬 phonetic and stone component), 農 → 农 (drastically condensed). The streamlined forms fit widespread Mainland usage in modern tech slang."
+  },
+  "parts": [
+    {
+      "char": "码",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code; number; yard (unit); digit"
+    },
+    {
+      "char": "农",
+      "trad": "農",
+      "pinyin": "nóng",
+      "english": "farmer; agriculture; farming; agrarian"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我是一名码农(我是一名碼農)。",
+      "pinyin": "Wǒ shì yī míng mǎnóng.",
+      "english": "I am a programmer (slang)."
+    },
+    {
+      "chinese": "很多人认为码农(很多人認為碼農)，工作强度很大(工作強度很大)。",
+      "pinyin": "Hěn duō rén rènwéi mǎnóng, gōngzuò qiángdù hěn dà.",
+      "english": "Many people think code farmers have very intense workloads."
+    },
+    {
+      "chinese": "在互联网公司里(在互聯網公司裡)，码农(碼農)常指程序员(常指程式員)。",
+      "pinyin": "Zài hùliánwǎng gōngsī lǐ, mǎnóng cháng zhǐ chéngxùyuán.",
+      "english": "In internet companies, manong often refers to programmers."
+    }
+  ]
+}

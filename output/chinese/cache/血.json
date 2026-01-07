@@ -1,0 +1,43 @@
+{
+  "simplified": "血",
+  "traditional": "血",
+  "pinyin": "xuè",
+  "english": "blood; bloodline; gore; essence",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "semantic: 一 ‘drop of blood’ + 皿 ‘container’; a drop of blood in a vessel for sacrifice.",
+    "interpretation": "Combines a droplet with a vessel to evoke collected blood used in ritual offerings. From this concrete image arise senses of blood as a substance and, by extension, bloodline and vital essence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他受伤后流了很多血(他受傷後流了很多血)。",
+      "pinyin": "Tā shòushāng hòu liú le hěn duō xuè.",
+      "english": "He bled a lot after being injured."
+    },
+    {
+      "chinese": "他们有共同的血缘(他們有共同的血緣)，一家人团结在一起(一家人團結在一起)。",
+      "pinyin": "Tāmen yǒu gòngtóng de xuèyuán, yījiā rén tuánjié zài yīqǐ.",
+      "english": "They share the same bloodline, and the family stands united."
+    },
+    {
+      "chinese": "古人认为血是生命的精华(古人認為血是生命的精華)。",
+      "pinyin": "Gǔrén rènwéi xuè shì shēngmìng de jīnghuá.",
+      "english": "The ancients believed that blood is the essence of life."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "醉",
+  "traditional": "醉",
+  "pinyin": "zuì",
+  "english": "drunk;intoxicated;get drunk;tipsy",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 酉 (‘alcoholic drink’) + phonetic: 卒 (OC *ʔsuːd, *sʰuːd, *ʔsud)",
+    "interpretation": "酉 signals a connection to alcoholic beverages, pointing the meaning toward intoxication. 卒 provides the sound, which evolved from Old Chinese readings to the modern pronunciation zuì, while the semantic component anchors it in the alcohol domain.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "10th Earthly Branch; wine, alcohol"
+    },
+    {
+      "char": "卒",
+      "trad": "卒",
+      "pinyin": "zú",
+      "english": "soldier; to die; to finish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他喝醉了(他喝醉了)。",
+      "pinyin": "Tā hē zuì le.",
+      "english": "He got drunk."
+    },
+    {
+      "chinese": "酒后别开车(酒後別開車)，你可能还在微醉(你可能還在微醉)。",
+      "pinyin": "Jiǔ hòu bié kāichē, nǐ kěnéng hái zài wēizuì.",
+      "english": "Don't drive after drinking; you might still be tipsy."
+    },
+    {
+      "chinese": "昨晚他醉得厉害(昨晚他醉得厲害)，今天头疼(今天頭疼)。",
+      "pinyin": "Zuówǎn tā zuì de lìhài, jīntiān tóuténg.",
+      "english": "He was very drunk last night and has a headache today."
+    }
+  ]
+}

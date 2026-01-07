@@ -1,0 +1,43 @@
+{
+  "simplified": "杏",
+  "traditional": "杏",
+  "pinyin": "xìng",
+  "english": "apricot; apricot tree; apricot-colored; surname",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "木 ‘wood’ + 口 ‘mouth’—perhaps referring to the tastiness of its fruit; Shuowen: phono-semantic 木 (semantic) + 可 (phonetic), but considered unlikely.",
+    "interpretation": "Combines the graph for a tree with a mouth to suggest something on a tree that is eaten, i.e., the apricot and its tree. An alternative Shuowen reading treats 可 as a phonetic, but modern scholarship generally rejects that analysis.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了两斤杏子(我買了兩斤杏子)。",
+      "pinyin": "Wǒ mǎile liǎng jīn xìngzi.",
+      "english": "I bought two jin of apricots."
+    },
+    {
+      "chinese": "院里有一棵老杏树(院裡有一棵老杏樹)。",
+      "pinyin": "Yuàn li yǒu yì kē lǎo xìngshù.",
+      "english": "There is an old apricot tree in the yard."
+    },
+    {
+      "chinese": "这条围巾是杏色的(這條圍巾是杏色的)。",
+      "pinyin": "Zhè tiáo wéijīn shì xìngsè de.",
+      "english": "This scarf is apricot-colored."
+    }
+  ]
+}

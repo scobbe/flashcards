@@ -1,0 +1,43 @@
+{
+  "simplified": "臭",
+  "traditional": "臭",
+  "pinyin": "chòu",
+  "english": "stink; smelly; bad odor; disgraceful",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "犬 “dog” + 自 “nose”, referring to a dog's strong sense of smell; original form of 嗅 “to smell”.",
+    "interpretation": "Dog and nose combine to depict the act or sense of smelling, evoking the association with odors. The original idea was simply “to smell,” which later developed a common nuance of “bad smell” or “stink.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "自",
+      "trad": "自",
+      "pinyin": "zì",
+      "english": "self; nose (originally)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这里太臭了(這裡太臭了)。",
+      "pinyin": "Zhèli tài chòu le.",
+      "english": "It really stinks here."
+    },
+    {
+      "chinese": "鱼放久了会发臭(魚放久了會發臭)。",
+      "pinyin": "Yú fàng jiǔ le huì fā chòu.",
+      "english": "Fish left out too long will start to stink."
+    },
+    {
+      "chinese": "厕所很臭(廁所很臭)，赶紧开窗(趕緊開窗)。",
+      "pinyin": "Cèsuǒ hěn chòu, gǎnjǐn kāi chuāng.",
+      "english": "The bathroom stinks; quickly open the window."
+    }
+  ]
+}

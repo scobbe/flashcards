@@ -1,0 +1,43 @@
+{
+  "simplified": "占",
+  "traditional": "占",
+  "pinyin": "zhān/zhàn",
+  "english": "to divine; to occupy",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "卜 ‘divination’ + 口 ‘mouth’.",
+    "interpretation": "Combines the divination sign 卜 with 口 ‘mouth’, evoking the act of pronouncing an omen or declaring a divination result. The sense later broadened from foretelling to asserting/claiming a place, hence the ‘occupy’ meaning.",
+    "simplification": "In simplified Chinese, 佔 (traditional for the ‘occupy’ sense) was merged into 占; traditional often distinguishes 占 ‘to divine’ and 佔 ‘to occupy’."
+  },
+  "parts": [
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divination; to divine"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他用龟甲占卜(他用龜甲占卜)。",
+      "pinyin": "Tā yòng guījiǎ zhān bǔ.",
+      "english": "He divined using a tortoise shell."
+    },
+    {
+      "chinese": "这家公司占了市场的大半(這家公司佔了市場的大半)。",
+      "pinyin": "Zhè jiā gōngsī zhàn le shìchǎng de dàbàn.",
+      "english": "This company occupied most of the market."
+    },
+    {
+      "chinese": "我们先占个座(我們先佔個座)。",
+      "pinyin": "Wǒmen xiān zhàn gè zuò.",
+      "english": "Let's reserve a seat first."
+    }
+  ]
+}

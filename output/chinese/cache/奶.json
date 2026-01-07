@@ -1,0 +1,43 @@
+{
+  "simplified": "奶",
+  "traditional": "奶",
+  "pinyin": "nǎi",
+  "english": "milk; breast; nanny; grandmother (in compounds)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 女 + phonetic: 乃",
+    "interpretation": "Combines the 'woman/female' semantic element with the sound value of 乃, pointing to meanings linked to mothers, breasts, and by extension milk or a nanny. The pronunciation follows 乃 while the 女 component anchors the maternal/feminine semantic field.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman; female"
+    },
+    {
+      "char": "乃",
+      "trad": "乃",
+      "pinyin": "nǎi",
+      "english": "thus; then"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我早上常喝牛奶(我早上常喝牛奶)。",
+      "pinyin": "Wǒ zǎoshang cháng hē niúnǎi.",
+      "english": "I often drink milk in the morning."
+    },
+    {
+      "chinese": "孩子在吃奶，哭声渐小(孩子在吃奶，哭聲漸小)。",
+      "pinyin": "Háizi zài chī nǎi, kūshēng jiàn xiǎo.",
+      "english": "The baby is nursing, and the crying is gradually fading."
+    },
+    {
+      "chinese": "周末我们去看奶奶(週末我們去看奶奶)。",
+      "pinyin": "Zhōumò wǒmen qù kàn nǎinai.",
+      "english": "We’re going to visit Grandma this weekend."
+    }
+  ]
+}

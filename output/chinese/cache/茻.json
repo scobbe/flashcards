@@ -1,0 +1,32 @@
+{
+  "simplified": "茻",
+  "traditional": "茻",
+  "pinyin": "mǎng",
+  "english": "thick/dense grass",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram: 艸 ‘grass’ written twice, representing a multitude of grass.",
+    "interpretation": "Doubling the ‘grass’ graph visually indicates an abundance or thick growth, so the meaning extends to dense grass. No phonetic element is involved; the repetition intensifies the semantic idea of grass.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "在河岸边(在河岸邊)，茻草挡住小路(茻草擋住小路)。",
+      "pinyin": "Zài hé'àn biān, mǎngcǎo dǎng zhù xiǎolù.",
+      "english": "Along the riverbank, dense grass blocks the path."
+    },
+    {
+      "chinese": "雨后(雨後)，荒地上长出茻草(荒地上長出茻草)，牛羊难寻小径(牛羊難尋小徑)。",
+      "pinyin": "Yǔhòu, huāngdì shàng zhǎng chū mǎngcǎo, niú yáng nán xún xiǎojìng.",
+      "english": "After the rain, thick grass sprouts on the wasteland, and cattle and sheep struggle to find small paths."
+    }
+  ]
+}

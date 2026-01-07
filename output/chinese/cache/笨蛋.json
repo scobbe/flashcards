@@ -1,0 +1,43 @@
+{
+  "simplified": "笨蛋",
+  "traditional": "笨蛋",
+  "pinyin": "bèndàn",
+  "english": "idiot",
+  "etymology": {
+    "type": "compound word",
+    "description": "笨(stupid; clumsy) + 蛋(egg; pejorative ‘person’) = idiot.",
+    "interpretation": "Literally “stupid egg,” with 蛋 used colloquially as a suffix meaning ‘person,’ forming a mild insult. Often playful among friends but can be rude depending on tone and context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "笨",
+      "trad": "笨",
+      "pinyin": "bèn",
+      "english": "stupid; clumsy; awkward; dull-witted"
+    },
+    {
+      "char": "蛋",
+      "trad": "蛋",
+      "pinyin": "dàn",
+      "english": "egg; ovum; suffix for person (pejorative); egg-shaped"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "别当笨蛋(別當笨蛋)。",
+      "pinyin": "Bié dāng bèn dàn.",
+      "english": "Don’t be an idiot."
+    },
+    {
+      "chinese": "他有时开玩笑叫我笨蛋(他有時開玩笑叫我笨蛋)。",
+      "pinyin": "Tā yǒu shí kāi wánxiào jiào wǒ bèn dàn.",
+      "english": "He sometimes jokingly calls me an idiot."
+    },
+    {
+      "chinese": "别骂人笨蛋(別罵人笨蛋)，试着耐心解释(試著耐心解釋)。",
+      "pinyin": "Bié mà rén bèn dàn, shìzhe nàixīn jiěshì.",
+      "english": "Don’t call people idiots; try to explain patiently."
+    }
+  ]
+}

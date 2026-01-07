@@ -1,0 +1,43 @@
+{
+  "simplified": "先辈",
+  "traditional": "先輩",
+  "pinyin": "xiānbèi",
+  "english": "forebears",
+  "etymology": {
+    "type": "compound word",
+    "description": "先 (earlier; first) + 辈/輩 (generation; cohort) = earlier generation → forebears.",
+    "interpretation": "Combines the idea of being earlier with the notion of a generation to denote people from earlier generations. Often conveys respect for predecessors in a family or field.",
+    "simplification": "輩 was simplified to 辈 by reducing the 車 component and streamlining the structure around 非 to cut strokes; 先 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "先",
+      "trad": "先",
+      "pinyin": "xiān",
+      "english": "first; earlier; ahead; before"
+    },
+    {
+      "char": "辈",
+      "trad": "輩",
+      "pinyin": "bèi",
+      "english": "generation; cohort; peers; seniority"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们缅怀先辈，学习他们的精神(我們緬懷先輩，學習他們的精神)。",
+      "pinyin": "Wǒmen miǎnhuái xiānbèi, xuéxí tāmen de jīngshén.",
+      "english": "We commemorate our forebears and learn from their spirit."
+    },
+    {
+      "chinese": "她向科学界的先辈致敬(她向科學界的先輩致敬)。",
+      "pinyin": "Tā xiàng kēxuéjiè de xiānbèi zhìjìng.",
+      "english": "She pays tribute to the forebears of the scientific community."
+    },
+    {
+      "chinese": "作为后生，我们要尊敬先辈(作為後生，我們要尊敬先輩)。",
+      "pinyin": "Zuòwéi hòushēng, wǒmen yào zūnjìng xiānbèi.",
+      "english": "As the younger generation, we should respect our predecessors."
+    }
+  ]
+}

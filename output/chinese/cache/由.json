@@ -1,0 +1,43 @@
+{
+  "simplified": "由",
+  "traditional": "由",
+  "pinyin": "yóu",
+  "english": "from; by; reason; through",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 十 + semantic 口 (\"mouth\"); a container with a needle on top to indicate the sound; compare the bottom of the original 缶. Alt. view: a helmet (less likely).",
+    "interpretation": "Graph suggests an opening or container (口) with a needle-like element on top, where 十 provides the sound and 口 contributes the idea of an opening or vessel. The notion of an opening or passage aligns with uses meaning “from/by way of,” while the phonetic element guided its reading.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "由这条路走得更快(由這條路走得更快)。",
+      "pinyin": "Yóu zhè tiáo lù zǒu de gèng kuài.",
+      "english": "It’s faster by/through this road."
+    },
+    {
+      "chinese": "事故是由刹车失灵引起的(事故是由剎車失靈引起的)。",
+      "pinyin": "Shìgù shì yóu shāchē shīlíng yǐnqǐ de.",
+      "english": "The accident was caused by brake failure."
+    },
+    {
+      "chinese": "这项决定由他来做(這項決定由他來做)。",
+      "pinyin": "Zhè xiàng juédìng yóu tā lái zuò.",
+      "english": "This decision is to be made by him."
+    }
+  ]
+}

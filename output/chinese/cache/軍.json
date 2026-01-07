@@ -1,0 +1,37 @@
+{
+  "simplified": "軍",
+  "traditional": "軍",
+  "pinyin": "jūn",
+  "english": "army; military",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 車 (“chariot”) + phonetic (original form of 螾; not 勹). Shuowen: ideogrammic 車 + 勹 (“to surround”).",
+    "interpretation": "Built on 車 to evoke warfare/vehicles, paired with a phonetic element whose lineage (cf. 螾, 旬, 勻, 云) points to an early -un/-win sound that developed into jūn. Later graphic evolution made it look like 勹 was the phonetic, which also inspired the Shuowen’s ideogrammic reading of ‘cart + wrapping/surrounding’.",
+    "simplification": "Simplified to 军 by adopting a long-used clerical/cursive variant that streamlines and compresses the 車 component; this shorthand was standardized in the PRC simplification."
+  },
+  "parts": [
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "chariot; vehicle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "军队在黎明出发(軍隊在黎明出發)。",
+      "pinyin": "Jūnduì zài límíng chūfā.",
+      "english": "The army set out at dawn."
+    },
+    {
+      "chinese": "他参军以后成为一名军官(他參軍以後成為一名軍官)。",
+      "pinyin": "Tā cānjūn yǐhòu chéngwéi yī míng jūnguān.",
+      "english": "After enlisting, he became an officer."
+    },
+    {
+      "chinese": "军民团结一心(軍民團結一心)，共同抗灾(共同抗災)。",
+      "pinyin": "Jūn-mín tuánjié yī xīn, gòngtóng kàngzāi.",
+      "english": "The army and the people unite as one to fight disasters together."
+    }
+  ]
+}

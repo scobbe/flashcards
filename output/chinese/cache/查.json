@@ -1,0 +1,49 @@
+{
+  "simplified": "查",
+  "traditional": "查",
+  "pinyin": "chá",
+  "english": "to check; examine; investigate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木 (“wood”) + phonetic 且; modern form stylizes the bottom as 旦 (originally written as 査).",
+    "interpretation": "Wood marks an association with trees or wooden objects, while 且 supplied the sound, later reshaped graphically as 旦. Early senses referred to hawthorn and a wooden raft, and the meaning broadened to ‘check/examine’ through the idea of scrutinizing or investigating.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn; daybreak"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "and; moreover; for the time being"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我需要查资料(我需要查資料)。",
+      "pinyin": "Wǒ xūyào chá zīliào.",
+      "english": "I need to look up information."
+    },
+    {
+      "chinese": "请你查一下这个问题(請你查一下這個問題)。",
+      "pinyin": "Qǐng nǐ chá yíxià zhège wèntí.",
+      "english": "Please check this problem."
+    },
+    {
+      "chinese": "警方正在查这起案件(警方正在查這起案件)。",
+      "pinyin": "Jǐngfāng zhèngzài chá zhè qǐ ànjiàn.",
+      "english": "The police are investigating this case."
+    }
+  ]
+}

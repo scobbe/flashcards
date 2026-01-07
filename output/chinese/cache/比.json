@@ -1,0 +1,37 @@
+{
+  "simplified": "比",
+  "traditional": "比",
+  "pinyin": "bǐ",
+  "english": "compare; compete",
+  "etymology": {
+    "type": "phonetic compound",
+    "description": "phonetic: 匕 + phonetic: 匕",
+    "interpretation": "Formed by doubling the phonetic element 匕 to reinforce the sound value bǐ, with the sense of placing two like elements side by side contributing to the notion of comparison. Over time, it was also reinterpreted as two persons juxtaposed, aligning with the meaning “to compare.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon; ladle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们比一比谁跑得快(我們比一比誰跑得快)。",
+      "pinyin": "Wǒmen bǐ yì bǐ shéi pǎo de kuài.",
+      "english": "Let’s compare who runs faster."
+    },
+    {
+      "chinese": "他比我高(他比我高)。",
+      "pinyin": "Tā bǐ wǒ gāo.",
+      "english": "He is taller than me."
+    },
+    {
+      "chinese": "两队在决赛中激烈比赛(兩隊在決賽中激烈比賽)。",
+      "pinyin": "Liǎng duì zài juésài zhōng jīliè bǐsài.",
+      "english": "The two teams competed fiercely in the final."
+    }
+  ]
+}

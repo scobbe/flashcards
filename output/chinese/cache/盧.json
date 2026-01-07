@@ -1,0 +1,43 @@
+{
+  "simplified": "盧",
+  "traditional": "盧",
+  "pinyin": "lú",
+  "english": "Lu (surname); black",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally a pictogram (oven); later a phono-semantic compound: phonetic 虍 + semantic 田 (pictogram of an oven) + semantic 皿 (vessel).",
+    "interpretation": "An early drawing of an oven evolved into a compound where 虍 suggests the sound, while 田 (the oven pictogram) and 皿 (a vessel) supply the meaning of a cooking/heating container. The ‘oven’ sense was later specialized into 爐/炉, while 盧 continued in names and other uses.",
+    "simplification": "盧 was simplified to 卢 by adopting a long-used handwritten/clerical variant, streamlining the complex 虍 + 田 + 皿 structure while preserving the pronunciation."
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他姓卢(他姓盧)。",
+      "pinyin": "Tā xìng Lú.",
+      "english": "His surname is Lu."
+    },
+    {
+      "chinese": "我换了一些卢布(我換了一些盧布)。",
+      "pinyin": "Wǒ huànle yīxiē Lúbù.",
+      "english": "I exchanged some rubles."
+    },
+    {
+      "chinese": "在古文里，“卢”有“黑色”的意思(在古文裡，「盧」有「黑色」的意思)。",
+      "pinyin": "Zài gǔwén lǐ, “Lú” yǒu “hēisè” de yìsi.",
+      "english": "In classical texts, “Lú” can mean “black.”"
+    }
+  ]
+}

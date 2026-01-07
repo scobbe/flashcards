@@ -1,0 +1,43 @@
+{
+  "simplified": "人民",
+  "traditional": "人民",
+  "pinyin": "rénmín",
+  "english": "the people",
+  "etymology": {
+    "type": "compound word",
+    "description": "人(person) + 民(populace; common people) = the people.",
+    "interpretation": "Combines generic human beings with the populace to emphasize the collective body of ordinary citizens, often in political or legal contexts. Frequently appears in state and civic terms (e.g., courts, newspapers, governments).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person;human;people;someone"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people;commoners;citizenry;subjects"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们要为人民服务(我們要為人民服務)。",
+      "pinyin": "Wǒmen yào wèi rénmín fúwù.",
+      "english": "We must serve the people."
+    },
+    {
+      "chinese": "人民有权监督政府(人民有權監督政府)。",
+      "pinyin": "Rénmín yǒuquán jiāndū zhèngfǔ.",
+      "english": "The people have the right to supervise the government."
+    },
+    {
+      "chinese": "人民的生活水平在不断提高(人民的生活水平在不斷提高)。",
+      "pinyin": "Rénmín de shēnghuó shuǐpíng zài bùduàn tígāo.",
+      "english": "The people's standard of living is steadily improving."
+    }
+  ]
+}

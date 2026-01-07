@@ -1,0 +1,29 @@
+{
+  "simplified": "氏",
+  "traditional": "氏",
+  "pinyin": "shì",
+  "english": "clan; family name",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): various interpretations—e.g., a man bending to sow, a clan emblem on a stick, the root of a tree, a spoon/mallet; in bronze forms a dot inside the vertical stroke later became a horizontal 一 and the vertical stroke curved.",
+    "interpretation": "A schematic mark or figure associated with lineage, hence the meanings ‘clan; family name’. Over time, scribal changes converted the inner dot to a short horizontal and rounded the main stroke, yielding the modern shape.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "在族谱中，他被记为李氏(在族譜中，他被記為李氏)。",
+      "pinyin": "Zài zúpǔ zhōng, tā bèi jì wéi Lǐshì.",
+      "english": "In the genealogy, he is recorded as of the Li clan."
+    },
+    {
+      "chinese": "考古报告提到出土木简上写有“某氏”(考古報告提到出土木簡上寫有「某氏」)。",
+      "pinyin": "Kǎogǔ bàogào tí dào chūtǔ mùjiǎn shang xiě yǒu “mǒu shì”.",
+      "english": "An archaeological report mentions wooden slips inscribed with “a certain clan.”"
+    },
+    {
+      "chinese": "古代区分姓与氏，姓为本，氏为支(古代區分姓與氏，姓為本，氏為支)。",
+      "pinyin": "Gǔdài qūfēn xìng yǔ shì, xìng wéi běn, shì wéi zhī.",
+      "english": "In antiquity, xìng and shì were distinguished: xìng was the root lineage, shì the branch."
+    }
+  ]
+}

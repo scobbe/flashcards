@@ -1,0 +1,43 @@
+{
+  "simplified": "君",
+  "traditional": "君",
+  "pinyin": "jūn",
+  "english": "lord; ruler",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 尹 (OC *ɢʷlinʔ) + semantic 口; OC *klun. In oracle bones and early Zhou bronzes, often interchanged with 尹; Shuowen says 口 marks commands, possibly decorative.",
+    "interpretation": "Combining 尹 for sound with 口 suggests authority expressed through issuing commands. Early interchange with 尹 points to a tight link between the ideas of governing and the word’s pronunciation. The mouth element likely hints at spoken orders, even if it may have been added decoratively.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尹",
+      "trad": "尹",
+      "pinyin": "yǐn",
+      "english": "to govern; overseer; surname"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "君主制度在历史上影响深远(君主制度在歷史上影響深遠)。",
+      "pinyin": "jūnzhǔ zhìdù zài lìshǐ shàng yǐngxiǎng shēnyuǎn",
+      "english": "The monarchical system has had a far-reaching impact in history."
+    },
+    {
+      "chinese": "古代的国君保护百姓(古代的國君保護百姓)。",
+      "pinyin": "gǔdài de guójūn bǎohù bǎixìng",
+      "english": "In ancient times, the rulers protected the common people."
+    },
+    {
+      "chinese": "君王发布诏令(君王發布詔令)。",
+      "pinyin": "jūnwáng fābù zhàolìng",
+      "english": "The sovereign issued an imperial edict."
+    }
+  ]
+}

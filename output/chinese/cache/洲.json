@@ -1,0 +1,43 @@
+{
+  "simplified": "洲",
+  "traditional": "洲",
+  "pinyin": "zhōu",
+  "english": "continent; river island",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 水 ‘water’ + phonetic: 州",
+    "interpretation": "Water element signals a relation to bodies of water. 州 provides the sound zhōu and originally referred to a river islet or sandbank, aligning with the meaning ‘river island’ and later extending to ‘continent.’",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "州",
+      "trad": "州",
+      "pinyin": "zhōu",
+      "english": "islet; state"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "亚洲是世界上人口最多的洲(亞洲是世界上人口最多的洲)。",
+      "pinyin": "Yàzhōu shì shìjiè shàng rénkǒu zuì duō de zhōu.",
+      "english": "Asia is one of the most populous continents in the world."
+    },
+    {
+      "chinese": "这条大江中间有一座沙洲(這條大江中間有一座沙洲)。",
+      "pinyin": "Zhè tiáo dàjiāng zhōngjiān yǒu yī zuò shāzhōu.",
+      "english": "There is a sandbar island in the middle of this great river."
+    },
+    {
+      "chinese": "洲际航班需要飞很多小时(洲際航班需要飛很多小時)。",
+      "pinyin": "Zhōujì hángbān xūyào fēi hěn duō xiǎoshí.",
+      "english": "Intercontinental flights take many hours."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "丝",
+  "traditional": "絲",
+  "pinyin": "sī",
+  "english": "silk; thread",
+  "etymology": {
+    "type": "simplified from 絲",
+    "description": "Simplified from 絲 via variant 𢇁; traditional 絲 is ideogrammic compound (會意): 糸 + 糸.",
+    "interpretation": "Traditional 絲 combines two ‘silk/thread’ elements (糸 + 糸) to depict many fine strands, conveying the idea of silk or thread. The simplified form 丝 streamlines this by adopting the cursive/variant shape 𢇁, compressing the two threads into a single, more abstract looped form while preserving the original meaning.",
+    "simplification": "Adopted a long-used handwritten/variant form (𢇁) that merges the double 糸 into one compact shape, greatly reducing strokes and improving writing speed for a very common word."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这条丝带很亮(這條絲帶很亮)。",
+      "pinyin": "Zhè tiáo sīdài hěn liàng.",
+      "english": "This silk ribbon is very bright."
+    },
+    {
+      "chinese": "他用丝线缝衣服(他用絲線縫衣服)。",
+      "pinyin": "Tā yòng sīxiàn féng yīfu.",
+      "english": "He sews clothes with silk thread."
+    },
+    {
+      "chinese": "丝绸之路连接东西方(絲綢之路連接東西方)。",
+      "pinyin": "Sīchóu zhī Lù liánjiē dōng xīfāng.",
+      "english": "The Silk Road connects East and West."
+    }
+  ]
+}

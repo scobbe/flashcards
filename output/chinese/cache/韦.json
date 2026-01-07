@@ -1,0 +1,37 @@
+{
+  "simplified": "韦",
+  "traditional": "韋",
+  "pinyin": "wéi",
+  "english": "tanned leather; surname",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "semantic: 舛 + 囗 — footsteps around an enclosure; later phonetic loan for “tanned leather”.",
+    "interpretation": "Combines reversed footsteps with an enclosure to depict moving around or surrounding a boundary, a sense linked to 圍 ‘to surround’. The graph was later borrowed for the homophonous word wéi meaning “tanned leather,” so the leather sense is a phonetic loan unrelated to the original picture.",
+    "simplification": "PRC simplification reduced 韋 to 韦 by compressing the enclosure-and-footstep strokes into a single streamlined form, enabling it to serve as a common simplified component."
+  },
+  "parts": [
+    {
+      "char": "舛",
+      "trad": "舛",
+      "pinyin": "chuǎn",
+      "english": "contrary; reversed steps; to be at variance"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "韦先生今天来了(韋先生今天來了)。",
+      "pinyin": "Wéi xiānsheng jīntiān lái le.",
+      "english": "Mr. Wei came today."
+    },
+    {
+      "chinese": "古人用韦编竹简(古人用韋編竹簡)。",
+      "pinyin": "Gǔrén yòng wéi biān zhújiǎn.",
+      "english": "In ancient times, people used leather thongs to bind bamboo slips."
+    },
+    {
+      "chinese": "这件衣服是用韦制成的(這件衣服是用韋製成的)。",
+      "pinyin": "Zhè jiàn yīfu shì yòng wéi zhìchéng de.",
+      "english": "This garment is made of tanned leather."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "推拉",
+  "traditional": "推拉",
+  "pinyin": "tuīlā",
+  "english": "push and pull",
+  "etymology": {
+    "type": "compound word",
+    "description": "推 (push) + 拉 (pull) = paired opposite actions used together.",
+    "interpretation": "Pairs two opposite motion verbs to express applying force forward or backward. Common on doors and for describing opposing forces or a push–pull dynamic.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "推",
+      "trad": "推",
+      "pinyin": "tuī",
+      "english": "to push; to shove; to promote; to infer"
+    },
+    {
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "to pull; to drag; to draw; to play (a string instrument)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "门上写着“推”和“拉”(門上寫著「推」和「拉」。)",
+      "pinyin": "Mén shàng xiězhe “tuī” hé “lā”.",
+      "english": "The door has “push” and “pull” written on it."
+    },
+    {
+      "chinese": "请先推一下(請先推一下)，再拉开门(再拉開門)。",
+      "pinyin": "Qǐng xiān tuī yíxià, zài lā kāi mén.",
+      "english": "Please push first, then pull the door open."
+    },
+    {
+      "chinese": "两人你推我拉地搬沙发(兩人你推我拉地搬沙發)。",
+      "pinyin": "Liǎng rén nǐ tuī wǒ lā de bān shāfā.",
+      "english": "The two of them moved the sofa, one pushing and the other pulling."
+    }
+  ]
+}

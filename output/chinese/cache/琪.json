@@ -1,0 +1,43 @@
+{
+  "simplified": "琪",
+  "traditional": "琪",
+  "pinyin": "Qí",
+  "english": "fine jade; surname Qi",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 玉 (“jade”) + phonetic 其 (OC *kɯ, *ɡɯ)",
+    "interpretation": "Jade (玉) supplies the meaning domain of jade or precious stones, while 其 contributes the pronunciation close to qí. The structure points to a jade-related word whose sound follows that of 其.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "its; that"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我认识一位叫王琪的老师(我認識一位叫王琪的老師)。",
+      "pinyin": "Wǒ rènshi yí wèi jiào Wáng Qí de lǎoshī.",
+      "english": "I know a teacher named Wang Qi."
+    },
+    {
+      "chinese": "庭院里有琪花瑶草(庭院裡有琪花瑤草)。",
+      "pinyin": "Tíngyuàn lǐ yǒu qíhuā yáocǎo.",
+      "english": "There are exquisite and rare plants in the courtyard."
+    },
+    {
+      "chinese": "她在玉器店挑选了一枚带“琪”字的吊坠(她在玉器店挑選了一枚帶「琪」字的吊墜)。",
+      "pinyin": "Tā zài yùqìdiàn tiāoxuǎn le yì méi dài “Qí” zì de diàozhuì.",
+      "english": "She picked out a pendant with the character “Qi” at the jade shop."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "日",
+  "traditional": "日",
+  "pinyin": "rì",
+  "english": "sun; day",
+  "etymology": {
+    "type": "pictogram",
+    "description": "The sun; a dot or line was added in the centre to distinguish it from similar graphs (e.g., 囗, early form of 丁); compare earlier forms with the Sun symbol (☉) and the Egyptian hieroglyph 𓇳.",
+    "interpretation": "Early forms depicted a round sun, later marked with a central stroke or dot to prevent confusion with similar enclosed shapes. Its form closely echoes the solar symbol ☉ and parallels sun pictographs found in other ancient scripts.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我每天写日记(我每天寫日記)。",
+      "pinyin": "Wǒ měi tiān xiě rìjì.",
+      "english": "I write in my diary every day."
+    },
+    {
+      "chinese": "今天是星期日(今天是星期日)。",
+      "pinyin": "Jīntiān shì xīngqīrì.",
+      "english": "Today is Sunday."
+    },
+    {
+      "chinese": "旭日东升(旭日東昇)，海面一片金光(海面一片金光)。",
+      "pinyin": "Xùrì dōngshēng, hǎimiàn yí piàn jīnguāng.",
+      "english": "As the rising sun ascends in the east, the sea gleams with golden light."
+    }
+  ]
+}

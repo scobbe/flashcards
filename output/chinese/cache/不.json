@@ -1,0 +1,37 @@
+{
+  "simplified": "不",
+  "traditional": "不",
+  "pinyin": "bù",
+  "english": "not; no; un-; negative prefix",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: calyx of a flower; negation sense back-formed from 否 (口 + 不); also interpreted as a bird flying toward the sky (一).",
+    "interpretation": "Originally a drawing of a flower’s calyx, the graph later acquired the meaning ‘not’ when it participated in the formation of 否 (“mouth” + 不) for negation, and that sense was transferred back to 不. The botanical meaning was reassigned to 柎, while some traditional scholars reimagined the form as a bird flying upward toward the sky line to evoke the idea of negation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我不喜欢咖啡(我不喜歡咖啡)。",
+      "pinyin": "Wǒ bù xǐhuan kāfēi.",
+      "english": "I don’t like coffee."
+    },
+    {
+      "chinese": "今天不去学校(今天不去學校)。",
+      "pinyin": "Jīntiān bù qù xuéxiào.",
+      "english": "I’m not going to school today."
+    },
+    {
+      "chinese": "这不容易(這不容易)。",
+      "pinyin": "Zhè bù róngyì.",
+      "english": "This is not easy."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "周游",
+  "traditional": "周遊",
+  "pinyin": "zhōuyóu",
+  "english": "travel around",
+  "etymology": {
+    "type": "compound word",
+    "description": "周(around; all-around) + 游(travel; roam) = travel around.",
+    "interpretation": "Conveys moving through many places or all around a region. Often used with scope words like 世界 or 全国 to indicate breadth.",
+    "simplification": "遊 was simplified to 游 by adopting the already common character 游, reducing strokes and merging the senses of roaming/traveling with the 'to swim/play' graph."
+  },
+  "parts": [
+    {
+      "char": "周",
+      "trad": "周",
+      "pinyin": "zhōu",
+      "english": "circumference; week; cycle; all around"
+    },
+    {
+      "char": "游",
+      "trad": "遊",
+      "pinyin": "yóu",
+      "english": "to travel; to roam; to wander; to swim"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他计划周游世界(他計劃周遊世界)。",
+      "pinyin": "Tā jìhuà zhōu yóu shìjiè.",
+      "english": "He plans to travel around the world."
+    },
+    {
+      "chinese": "她喜欢独自周游各地(她喜歡獨自周遊各地)。",
+      "pinyin": "Tā xǐhuān dúzì zhōu yóu gèdì.",
+      "english": "She likes to travel around different places alone."
+    },
+    {
+      "chinese": "他们周游全国，体验不同的风俗(他們周遊全國，體驗不同的風俗)。",
+      "pinyin": "Tāmen zhōu yóu quán guó, tǐyàn bùtóng de fēngsú.",
+      "english": "They travel around the country and experience different customs."
+    }
+  ]
+}

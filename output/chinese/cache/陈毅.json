@@ -1,0 +1,43 @@
+{
+  "simplified": "陈毅",
+  "traditional": "陳毅",
+  "pinyin": "Chén Yì",
+  "english": "Chen Yi",
+  "etymology": {
+    "type": "personal name (proper noun)",
+    "description": "陈 + 毅 = surname Chen + resolute/steadfast → a given name.",
+    "interpretation": "A Chinese personal name consisting of the surname 陈 and the given name 毅. Famously borne by Marshal Chen Yi, a prominent PRC military leader and later foreign minister.",
+    "simplification": "陳 → 陈 by simplifying 東 to 东; 毅 unchanged. Simplified to reduce strokes and standardize a high-frequency surname."
+  },
+  "parts": [
+    {
+      "char": "陈",
+      "trad": "陳",
+      "pinyin": "chén",
+      "english": "surname Chen; to state; to display; old/stale"
+    },
+    {
+      "char": "毅",
+      "trad": "毅",
+      "pinyin": "yì",
+      "english": "resolute; steadfast; firm; fortitude"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "陈毅是中华人民共和国的元帅之一(陳毅是中華人民共和國的元帥之一)。",
+      "pinyin": "Chén Yì shì Zhōnghuá Rénmín Gònghéguó de yuánshuài zhī yī.",
+      "english": "Chen Yi was one of the marshals of the People’s Republic of China."
+    },
+    {
+      "chinese": "陈毅曾担任外交部长(陳毅曾擔任外交部長)。",
+      "pinyin": "Chén Yì céng dānrèn wàijiāo bùzhǎng.",
+      "english": "Chen Yi once served as foreign minister."
+    },
+    {
+      "chinese": "人们常引用陈毅的诗词(人們常引用陳毅的詩詞)。",
+      "pinyin": "Rénmen cháng yǐnyòng Chén Yì de shīcí.",
+      "english": "People often quote Chen Yi’s poems."
+    }
+  ]
+}

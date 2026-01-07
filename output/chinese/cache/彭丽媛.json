@@ -1,0 +1,49 @@
+{
+  "simplified": "彭丽媛",
+  "traditional": "彭麗媛",
+  "pinyin": "Péng Lìyuán",
+  "english": "Peng Liyuan",
+  "etymology": {
+    "type": "personal name",
+    "description": "彭 + 丽 + 媛 = surname Peng + beautiful + graceful lady.",
+    "interpretation": "A Chinese female personal name: 彭 is the family name; 丽媛 together suggests “beautiful, elegant lady.”",
+    "simplification": "麗 → 丽 was simplified to reduce strokes and streamline the graph; 彭 and 媛 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "彭",
+      "trad": "彭",
+      "pinyin": "Péng",
+      "english": "surname Peng; ancient state name; booming (sound); exuberant"
+    },
+    {
+      "char": "丽",
+      "trad": "麗",
+      "pinyin": "Lì",
+      "english": "beautiful; pretty; elegant; splendid"
+    },
+    {
+      "char": "媛",
+      "trad": "媛",
+      "pinyin": "yuán",
+      "english": "lady; beauty; talented woman; maiden"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "彭丽媛是著名的歌唱家(彭麗媛是著名的歌唱家)。",
+      "pinyin": "Péng Lìyuán shì zhùmíng de gēchàngjiā.",
+      "english": "Peng Liyuan is a renowned singer."
+    },
+    {
+      "chinese": "很多人知道她的艺术成就(很多人知道她的藝術成就)。",
+      "pinyin": "Hěn duō rén zhīdào tā de yìshù chéngjiù.",
+      "english": "Many people know her artistic achievements."
+    },
+    {
+      "chinese": "她的名字中“丽”与“媛”都有美好的含义(她的名字中「麗」與「媛」都有美好的含義)。",
+      "pinyin": "Tā de míngzì zhōng “Lì” yǔ “Yuán” dōu yǒu měihǎo de hányì.",
+      "english": "In her name, both “Li” and “Yuan” carry positive meanings."
+    }
+  ]
+}

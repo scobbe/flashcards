@@ -1,0 +1,49 @@
+{
+  "simplified": "昏",
+  "traditional": "昏",
+  "pinyin": "hūn",
+  "english": "dusk; dark; confused",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "ideogrammic: 氏 + 日 (sun), or abbreviated 氐 + 日 (sun) — the sun lowering/going down.",
+    "interpretation": "Combines 日 ‘sun’ with 氏/氐 suggesting something low or descending, picturing the sun sinking toward the horizon. From the scene of twilight come senses of darkening and, metaphorically, mental dimness or confusion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氏",
+      "trad": "氏",
+      "pinyin": "shì",
+      "english": "clan; family name"
+    },
+    {
+      "char": "氐",
+      "trad": "氐",
+      "pinyin": "dī",
+      "english": "Di (ancient people); base; foundation"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "天色将昏(天色將昏)，我们赶紧回家(我們趕緊回家)。",
+      "pinyin": "Tiānsè jiāng hūn, wǒmen gǎnjǐn huíjiā.",
+      "english": "It’s getting dark; let’s hurry home."
+    },
+    {
+      "chinese": "他脑子发昏(他腦子發昏)，做事糊里糊涂(做事糊裡糊塗)。",
+      "pinyin": "Tā nǎozi fā hūn, zuòshì húlihútú.",
+      "english": "He felt muddle‑headed and did things confusedly."
+    },
+    {
+      "chinese": "傍晚天空渐昏(傍晚天空漸昏)，路上灯光亮起(路上燈光亮起)。",
+      "pinyin": "Bàngwǎn tiānkōng jiàn hūn, lùshang dēngguāng liàngqǐ.",
+      "english": "At dusk the sky darkens, and the streetlights come on."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "木",
+  "traditional": "木",
+  "pinyin": "mù",
+  "english": "wood; tree",
+  "etymology": {
+    "type": "Pictogram (象形)",
+    "description": "a tree: branches on top, roots on the bottom (more visible in earlier forms).",
+    "interpretation": "Depicts a tree with spreading branches above and roots below, as seen clearly in early scripts. The vertical stroke is the trunk, while the short horizontal strokes became stylized limbs and roots in the regular form.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这张桌子是木头做的(這張桌子是木頭做的)。",
+      "pinyin": "Zhè zhāng zhuōzi shì mùtou zuò de.",
+      "english": "This table is made of wood."
+    },
+    {
+      "chinese": "山上长满了树木(山上長滿了樹木)。",
+      "pinyin": "Shān shang zhǎng mǎn le shùmù.",
+      "english": "The mountainside is covered with trees."
+    },
+    {
+      "chinese": "木材被运到工厂加工(木材被運到工廠加工)。",
+      "pinyin": "Mùcái bèi yùn dào gōngchǎng jiāgōng.",
+      "english": "The timber was transported to the factory for processing."
+    }
+  ]
+}

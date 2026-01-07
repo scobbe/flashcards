@@ -1,0 +1,29 @@
+{
+  "simplified": "夭",
+  "traditional": "夭",
+  "pinyin": "yāo",
+  "english": "tender; die young",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram (指事): a figure leaning forward, presumably running, hence energetic and young; cf. the top of 走.",
+    "interpretation": "A stylized person bent forward suggests motion and vigor, evoking the sense of youthful energy and tender growth. By extension, it also came to denote an early or premature end, as in dying young or something being cut short.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他年纪轻轻就夭折(他年紀輕輕就夭折)。",
+      "pinyin": "Tā niánjì qīngqīng jiù yāozhé.",
+      "english": "He died young."
+    },
+    {
+      "chinese": "计划因资金不足而夭折(計劃因資金不足而夭折)。",
+      "pinyin": "Jìhuà yīn zījīn bùzú ér yāozhé.",
+      "english": "The plan was aborted due to insufficient funds."
+    },
+    {
+      "chinese": "桃之夭夭(桃之夭夭)，灼灼其华(灼灼其華)。",
+      "pinyin": "Táo zhī yāoyāo, zhuózhuó qí huá.",
+      "english": "The peach tree is luxuriant in blossom, its flowers blazing bright."
+    }
+  ]
+}

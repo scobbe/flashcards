@@ -1,0 +1,29 @@
+{
+  "simplified": "七",
+  "traditional": "七",
+  "pinyin": "qī",
+  "english": "seven",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – a vertical stroke and a horizontal stroke bisecting each other; original character of 切 (“to cut”).",
+    "interpretation": "A cross-like cut mark is depicted, suggesting an incision where one line cuts across another. This graph was later employed to write the numeral seven; the modern form preserves the crossing strokes that reflect the original cutting imagery.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我今年七岁(我今年七歲)。",
+      "pinyin": "Wǒ jīnnián qī suì.",
+      "english": "I am seven years old this year."
+    },
+    {
+      "chinese": "我们七个人一起去旅行(我們七個人一起去旅行)。",
+      "pinyin": "Wǒmen qī gè rén yìqǐ qù lǚxíng.",
+      "english": "The seven of us are traveling together."
+    },
+    {
+      "chinese": "比赛在七点开始(比賽在七點開始)。",
+      "pinyin": "Bǐsài zài qī diǎn kāishǐ.",
+      "english": "The game starts at seven o’clock."
+    }
+  ]
+}

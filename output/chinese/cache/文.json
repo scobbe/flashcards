@@ -1,0 +1,29 @@
+{
+  "simplified": "文",
+  "traditional": "文",
+  "pinyin": "wén",
+  "english": "pattern; script; culture",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram: a person with a tattooed chest (original form of 紋); the tattoo mark later disappeared, leaving a human outline; unrelated to 齐 and 攵.",
+    "interpretation": "Depicts a human figure with a mark on the chest, evoking the idea of patterned markings. This sense broadened to ‘pattern,’ then to ‘script’ and ‘culture’ as culturally inscribed patterns. The chest mark was lost over time, which is why it now resembles 立 and contrasts with 大 (no chest).",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这块石头的纹理很清晰(這塊石頭的紋理很清晰)。",
+      "pinyin": "Zhè kuài shítou de wénlǐ hěn qīngxī.",
+      "english": "The stone’s pattern/grain is very clear."
+    },
+    {
+      "chinese": "他对古代文字很感兴趣(他對古代文字很感興趣)。",
+      "pinyin": "Tā duì gǔdài wénzì hěn gǎn xìngqù.",
+      "english": "He is very interested in ancient scripts."
+    },
+    {
+      "chinese": "学校重视传统文化与文明教育(學校重視傳統文化與文明教育)。",
+      "pinyin": "Xuéxiào zhòngshì chuántǒng wénhuà yǔ wénmíng jiàoyù.",
+      "english": "The school emphasizes education in traditional culture and civilization."
+    }
+  ]
+}

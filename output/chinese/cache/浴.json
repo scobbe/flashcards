@@ -1,0 +1,43 @@
+{
+  "simplified": "浴",
+  "traditional": "浴",
+  "pinyin": "yù",
+  "english": "bathe; to take a bath; to wash; to immerse",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 氵 + phonetic: 谷",
+    "interpretation": "Water element signals a liquid-related action, while 谷 contributes the sound, aligning with historical -uk/-ok rimes. Together they point to washing or immersing the body in water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "谷",
+      "trad": "谷",
+      "pinyin": "gǔ",
+      "english": "valley"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在温泉里沐浴(我們在溫泉裡沐浴)。",
+      "pinyin": "Wǒmen zài wēnquán lǐ mùyù.",
+      "english": "We bathe in the hot springs."
+    },
+    {
+      "chinese": "他走进浴室准备洗澡(他走進浴室準備洗澡)。",
+      "pinyin": "Tā zǒu jìn yùshì zhǔnbèi xǐzǎo.",
+      "english": "He walks into the bathroom to get ready to bathe."
+    },
+    {
+      "chinese": "我更喜欢淋浴而不是泡澡(我更喜歡淋浴而不是泡澡)。",
+      "pinyin": "Wǒ gèng xǐhuan línyù ér bú shì pào zǎo.",
+      "english": "I prefer taking a shower rather than a soak."
+    }
+  ]
+}

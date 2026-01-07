@@ -1,0 +1,43 @@
+{
+  "simplified": "器",
+  "traditional": "器",
+  "pinyin": "qì",
+  "english": "device; utensil; vessel; implement",
+  "etymology": {
+    "type": "ideogrammic compound (會意/会意); uncertain",
+    "description": "Classical interpretation: 犬 (“dog”) guarding four 口 (“vessels”). Alternate views: phonetically borrowed for “to bark”; or derived from 喪 as an ideogram referring to a funerary urn.",
+    "interpretation": "Traditionally viewed as a dog watching over four containers, conveying the idea of utensils or vessels. Some scholars instead see a phonetic loan for barking later repurposed to mean implements, or an ideogram tied to mourning and a funerary urn; the modern sense aligns well with the container imagery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个容器很密封(這個容器很密封)。",
+      "pinyin": "Zhège róngqì hěn mìfēng.",
+      "english": "This container is well sealed."
+    },
+    {
+      "chinese": "实验室需要更多精密仪器(實驗室需要更多精密儀器)。",
+      "pinyin": "Shíyànshì xūyào gèng duō jīngmì yíqì.",
+      "english": "The laboratory needs more precision instruments."
+    },
+    {
+      "chinese": "请把餐具放回器皿里(請把餐具放回器皿裡)。",
+      "pinyin": "Qǐng bǎ cānjù fàng huí qìmǐn lǐ.",
+      "english": "Please put the tableware back into the vessels."
+    }
+  ]
+}

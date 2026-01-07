@@ -1,0 +1,29 @@
+{
+  "simplified": "穴",
+  "traditional": "穴",
+  "pinyin": "xué",
+  "english": "cave; hole",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram—possibly an entrance to a cave or a door flap; conservative form 𠕉; see also 奐 and the top component of 罙.",
+    "interpretation": "Graphic of a covered opening suggesting the mouth of a cave or a hanging flap over an entrance. Early shapes like 𠕉 emphasize a shaded or screened hole, matching the meanings “cave; hole.”",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "狐狸躲在地穴里(狐狸躲在地穴裡)。",
+      "pinyin": "Húlí duǒ zài dìxué lǐ.",
+      "english": "The fox hides in a burrow."
+    },
+    {
+      "chinese": "他在墙上钻了一个小穴(他在牆上鑽了一個小穴)。",
+      "pinyin": "Tā zài qiáng shàng zuān le yí gè xiǎo xué.",
+      "english": "He drilled a small hole in the wall."
+    },
+    {
+      "chinese": "考古队发现了古人的岩穴(考古隊發現了古人的岩穴)。",
+      "pinyin": "Kǎogǔ duì fāxiàn le gǔrén de yánxué.",
+      "english": "The archaeology team discovered a rock cave used by ancient people."
+    }
+  ]
+}

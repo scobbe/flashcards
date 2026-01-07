@@ -1,0 +1,37 @@
+{
+  "simplified": "气",
+  "traditional": "氣",
+  "pinyin": "qì",
+  "english": "air; gas; breath; vital energy",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: clouds flowing through the sky; traditional 氣 is phono-semantic: semantic 米 (“rice”) + phonetic 气.",
+    "interpretation": "Originally a drawing of vapor drifting across the sky, capturing the idea of unseen flow and movement. The traditional form adds 米 as a semantic cue for ‘rice/gift of food’ with 气 providing the sound; its common senses of ‘air, breath’ were later borrowed from the older pictographic form.",
+    "simplification": "Simplified by reverting to the ancient pictographic form 气 and dropping the 米 component from 氣, emphasizing the ‘air/steam’ sense while reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天的空气很新鲜(今天的空氣很新鮮)。",
+      "pinyin": "Jīntiān de kōngqì hěn xīnxiān.",
+      "english": "The air is very fresh today."
+    },
+    {
+      "chinese": "别生气(別生氣)，慢慢呼吸一口气(慢慢呼吸一口氣)。",
+      "pinyin": "Bié shēngqì, mànman hūxī yì kǒu qì.",
+      "english": "Don’t get angry; slowly take a breath."
+    },
+    {
+      "chinese": "他在练气功(他在練氣功)，感受体内的气(感受體內的氣)。",
+      "pinyin": "Tā zài liàn qìgōng, gǎnshòu tǐnèi de qì.",
+      "english": "He is practicing qigong, feeling the qi inside his body."
+    }
+  ]
+}

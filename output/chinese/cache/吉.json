@@ -1,0 +1,43 @@
+{
+  "simplified": "吉",
+  "traditional": "吉",
+  "pinyin": "jí",
+  "english": "lucky; auspicious; good fortune; surname Ji",
+  "etymology": {
+    "type": "ideogram (指事)",
+    "description": "Derived from 士 ‘ritual axe’ + 口 ‘open mouth’, referring to rituals seeking the favor of ancestors and deities.",
+    "interpretation": "Combining a ritual implement with an open mouth evokes solemn prayers or proclamations made during sacrificial rites. Through the idea that proper ritual brings divine approval, the sense extends to auspiciousness and good fortune.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar; gentleman; soldier"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天是个吉日(今天是個吉日)。",
+      "pinyin": "Jīntiān shì gè jí rì.",
+      "english": "Today is an auspicious day."
+    },
+    {
+      "chinese": "祝你吉祥安康(祝你吉祥安康)。",
+      "pinyin": "Zhù nǐ jíxiáng ānkāng.",
+      "english": "Wishing you good fortune and health."
+    },
+    {
+      "chinese": "吉先生到了(吉先生到了)。",
+      "pinyin": "Jí Xiānsheng dàole.",
+      "english": "Mr. Ji has arrived."
+    }
+  ]
+}

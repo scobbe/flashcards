@@ -1,0 +1,37 @@
+{
+  "simplified": "登",
+  "traditional": "登",
+  "pinyin": "dēng",
+  "english": "to ascend; climb",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "semantic: 癶 (“left and right feet”) + 豆 (“pictogrammic of raised object; stepping stone”); hands at the bottom disappeared, retained in conservative variant 𤼷.",
+    "interpretation": "Feet placed on a raised object suggest climbing or mounting. Earlier forms even showed hands assisting the action, preserved in 𤼷, reinforcing the idea of ascent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们清晨登上山顶(我們清晨登上山頂)。",
+      "pinyin": "Wǒmen qīngchén dēng shàng shāndǐng.",
+      "english": "We climbed to the mountaintop at dawn."
+    },
+    {
+      "chinese": "请提前一小时到机场办理登机(請提前一小時到機場辦理登機)。",
+      "pinyin": "Qǐng tíqián yì xiǎoshí dào jīchǎng bànlǐ dēngjī.",
+      "english": "Please arrive at the airport an hour early to handle boarding."
+    },
+    {
+      "chinese": "重阳节人们登高望远(重陽節人們登高望遠)。",
+      "pinyin": "Chóngyáng Jié rénmen dēnggāo wàngyuǎn.",
+      "english": "On the Double Ninth Festival, people climb high to gaze into the distance."
+    }
+  ]
+}

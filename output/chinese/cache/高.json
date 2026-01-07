@@ -1,0 +1,37 @@
+{
+  "simplified": "高",
+  "traditional": "高",
+  "pinyin": "gāo",
+  "english": "tall; high; eminent; expensive",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a tall building (compare 京).",
+    "interpretation": "Depicts a multi-storied structure with roof and interior floors, evoking vertical height. The concrete image extended to abstract senses like tall/high and by extension eminent or expensive.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这座塔很高(這座塔很高)。",
+      "pinyin": "Zhè zuò tǎ hěn gāo.",
+      "english": "This tower is very tall."
+    },
+    {
+      "chinese": "物价太高(物價太高)，很多人负担不起(很多人負擔不起)。",
+      "pinyin": "Wùjià tài gāo, hěn duō rén fùdān bù qǐ.",
+      "english": "Prices are too high, and many people can’t afford them."
+    },
+    {
+      "chinese": "他地位很高(他地位很高)，但为人谦虚(但為人謙虛)。",
+      "pinyin": "Tā dìwèi hěn gāo, dàn wéi rén qiānxū.",
+      "english": "His status is high, but he is humble."
+    }
+  ]
+}

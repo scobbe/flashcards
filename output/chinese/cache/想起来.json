@@ -1,0 +1,49 @@
+{
+  "simplified": "想起来",
+  "traditional": "想起來",
+  "pinyin": "xiǎngqǐlái",
+  "english": "remember; recall",
+  "etymology": {
+    "type": "verb + directional/resultative complement",
+    "description": "想 think + 起来 rise up = thought rises to mind → recall/remember.",
+    "interpretation": "Indicates that a memory rises into awareness. Often used when something triggers recollection or when one finally remembers after trying.",
+    "simplification": "來 was simplified to 来 to reduce strokes; 起 remained unchanged, so 起来 reflects the standard simplified form."
+  },
+  "parts": [
+    {
+      "char": "想",
+      "trad": "想",
+      "pinyin": "xiǎng",
+      "english": "to think; to miss (someone); to want; to consider"
+    },
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "to rise; to get up; to start; to raise"
+    },
+    {
+      "char": "来",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "to come; to arrive; future/next; used after a verb to indicate direction/result"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你一提醒(你一提醒)，我才想起来(我才想起來)。",
+      "pinyin": "Nǐ yì tíxǐng, wǒ cái xiǎngqǐlái.",
+      "english": "Once you reminded me, I finally remembered."
+    },
+    {
+      "chinese": "闻到这股香味(聞到這股香味)，我就想起来了奶奶做的菜(我就想起來了奶奶做的菜)。",
+      "pinyin": "Wéndào zhè gǔ xiāngwèi, wǒ jiù xiǎngqǐlái le nǎinai zuò de cài.",
+      "english": "Smelling this aroma, I immediately remembered the dishes Grandma made."
+    },
+    {
+      "chinese": "我怎么也想不起来他的电话号码(我怎麼也想不起來他的電話號碼)。",
+      "pinyin": "Wǒ zěnme yě xiǎng bù qǐlái tā de diànhuà hàomǎ.",
+      "english": "I just can't recall his phone number."
+    }
+  ]
+}

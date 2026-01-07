@@ -1,0 +1,29 @@
+{
+  "simplified": "王",
+  "traditional": "王",
+  "pinyin": "wáng",
+  "english": "king; monarch; ruler; surname Wang",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of a ritual (jade) axe kept near the throne for ceremonies; symbol of royal power.",
+    "interpretation": "Depicts a ceremonial axe used in royal rites, a concrete emblem of sovereign authority. A later folk reading treats the three horizontals as Heaven–Man–Earth joined by the vertical, and it is unrelated to 玉 or 主.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他姓王(他姓王)。",
+      "pinyin": "Tā xìng Wáng.",
+      "english": "His surname is Wang."
+    },
+    {
+      "chinese": "国王召见大臣(國王召見大臣)。",
+      "pinyin": "Guówáng zhàojiàn dàchén.",
+      "english": "The king summoned the ministers."
+    },
+    {
+      "chinese": "在古代，王举行祭祀以祈福(在古代，王舉行祭祀以祈福)。",
+      "pinyin": "Zài gǔdài, wáng jǔxíng jìsì yǐ qífú.",
+      "english": "In ancient times, the king performed rituals to pray for blessings."
+    }
+  ]
+}

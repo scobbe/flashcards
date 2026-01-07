@@ -1,0 +1,43 @@
+{
+  "simplified": "廿",
+  "traditional": "廿",
+  "pinyin": "niàn",
+  "english": "twenty",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Two 十 (“ten”) written side by side, with a horizontal stroke at the bottom that fuses them; see also 卅. In characters such as 漢 and 黄, it represents 口, while in 度 and 席 it represents a stylized 石.",
+    "interpretation": "Two tens placed together communicate the value twenty, with the bottom stroke uniting them into a single form. As a component, the shape can be borrowed to stand for a mouth (口) or a rock (石) depending on historical usage in different characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天是农历廿一日(今天是農曆廿一日)。",
+      "pinyin": "Jīntiān shì nónglì niàn yī rì.",
+      "english": "Today is the twenty-first day of the lunar month."
+    },
+    {
+      "chinese": "他已经在此居住廿年(他已經在此居住廿年)。",
+      "pinyin": "Tā yǐjīng zài cǐ jūzhù niàn nián.",
+      "english": "He has lived here for twenty years."
+    },
+    {
+      "chinese": "会议将在本月廿五日举行(會議將在本月廿五日舉行)。",
+      "pinyin": "Huìyì jiāng zài běn yuè niàn wǔ rì jǔxíng.",
+      "english": "The meeting will be held on the twenty-fifth of this month."
+    }
+  ]
+}

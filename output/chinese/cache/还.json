@@ -1,0 +1,37 @@
+{
+  "simplified": "还",
+  "traditional": "還",
+  "pinyin": "hái",
+  "english": "still; yet; also; fairly",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 辵 (“walk”) + phonetic: 睘 (OC *ɡʷeŋ) – ‘to go back; to return’.",
+    "interpretation": "The walking radical points to motion and the idea of going or coming back, while 睘 supplies the sound. Meanings later broadened in Mandarin to the adverbial senses ‘still/yet/also/fairly,’ though the historical core relates to returning movement.",
+    "simplification": "Simplified by adopting the long-used abbreviated form 还 that omits the internal phonetic 睘, retaining 辶 and greatly reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "睘",
+      "trad": "睘",
+      "pinyin": "qióng",
+      "english": "to gaze; bright-eyed; encircle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我还在等你(我還在等你)。",
+      "pinyin": "Wǒ hái zài děng nǐ.",
+      "english": "I’m still waiting for you."
+    },
+    {
+      "chinese": "这个价格还可以(這個價格還可以)。",
+      "pinyin": "Zhège jiàgé hái kěyǐ.",
+      "english": "This price is fairly acceptable."
+    },
+    {
+      "chinese": "他很累，却还坚持工作(他很累，卻還堅持工作)。",
+      "pinyin": "Tā hěn lèi, què hái jiānchí gōngzuò.",
+      "english": "He’s very tired, yet he still keeps working."
+    }
+  ]
+}

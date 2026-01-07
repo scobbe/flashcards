@@ -1,0 +1,43 @@
+{
+  "simplified": "厦门",
+  "traditional": "廈門",
+  "pinyin": "Xiàmén",
+  "english": "Xiamen",
+  "etymology": {
+    "type": "compound word (toponym)",
+    "description": "厦(廈 ‘mansion; large building’) + 门(門 ‘gate’) = ‘gate of a grand building,’ extended to mean a strategic sea-gate and adopted as the city name.",
+    "interpretation": "Literally ‘gate of a mansion,’ evoking a grand portal to the sea and to Fujian’s trade routes. Commonly understood as a maritime gateway guarding important approaches.",
+    "simplification": "Both characters were simplified for stroke economy: 廈 → 厦 (radical reduced; inner parts streamlined) and 門 → 门 (door-frame reduced), easing handwriting and printing."
+  },
+  "parts": [
+    {
+      "char": "厦",
+      "trad": "廈",
+      "pinyin": "xià",
+      "english": "mansion; tall building; large house; used in place names"
+    },
+    {
+      "char": "门",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door; gate; entrance; classifier for branches of study"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "厦门位于福建省东南部，濒临台湾海峡(廈門位於福建省東南部，瀕臨臺灣海峽)。",
+      "pinyin": "Xiàmén wèiyú Fújiàn shěng dōngnán bù, bīnlín Táiwān Hǎixiá.",
+      "english": "Xiamen is in southeastern Fujian, facing the Taiwan Strait."
+    },
+    {
+      "chinese": "我们明天坐高铁去厦门旅游(我們明天坐高鐵去廈門旅遊)。",
+      "pinyin": "Wǒmen míngtiān zuò gāotiě qù Xiàmén lǚyóu.",
+      "english": "We will take the high-speed rail to travel to Xiamen tomorrow."
+    },
+    {
+      "chinese": "名称“厦门”字面为“大厦之门”，比喻海上门户(名稱「廈門」字面為「大廈之門」，比喻海上門戶)。",
+      "pinyin": "Míngchēng “Xiàmén” zìmiàn wéi “dàshà zhī mén”, bǐyù hǎishàng ménhù.",
+      "english": "The name literally means “gate of a grand building,” a metaphor for a maritime gateway."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "开瓶器",
+  "traditional": "開瓶器",
+  "pinyin": "kāipíngqì",
+  "english": "bottle opener",
+  "etymology": {
+    "type": "compound word",
+    "description": "开 + 瓶 + 器 = bottle-opening device.",
+    "interpretation": "Formed as a verb-object compound plus the suffix 器 ‘tool/device’, indicating a utensil designed to open bottles. A transparent, productive pattern: V + N + 器.",
+    "simplification": "開→开 was simplified by reducing the 門 component to a simpler form to lower stroke count and speed writing; 瓶 and 器 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "开",
+      "trad": "開",
+      "pinyin": "kāi",
+      "english": "open; start; turn on; operate"
+    },
+    {
+      "char": "瓶",
+      "trad": "瓶",
+      "pinyin": "píng",
+      "english": "bottle; vase; flask; jar"
+    },
+    {
+      "char": "器",
+      "trad": "器",
+      "pinyin": "qì",
+      "english": "device; utensil; vessel; implement"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我用开瓶器打开啤酒瓶(我用開瓶器打開啤酒瓶)。",
+      "pinyin": "Wǒ yòng kāipíngqì dǎkāi píjiǔ píng.",
+      "english": "I use a bottle opener to open a beer bottle."
+    },
+    {
+      "chinese": "这把开瓶器很结实(這把開瓶器很結實)。",
+      "pinyin": "Zhè bǎ kāipíngqì hěn jiēshi.",
+      "english": "This bottle opener is very sturdy."
+    },
+    {
+      "chinese": "旅行时别忘了带开瓶器(旅行時別忘了帶開瓶器)。",
+      "pinyin": "Lǚxíng shí bié wàngle dài kāipíngqì.",
+      "english": "Don't forget to bring a bottle opener when traveling."
+    }
+  ]
+}

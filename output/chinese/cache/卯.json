@@ -1,0 +1,37 @@
+{
+  "simplified": "卯",
+  "traditional": "卯",
+  "pinyin": "mǎo",
+  "english": "4th Earthly Branch",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a sacrifice/body split in two with a pair of knives; old variant 戼.",
+    "interpretation": "An early graph shows two knives cutting a carcass, reflecting Shang sacrificial practice. That concrete sense later faded, and the graph was borrowed to write the fourth Earthly Branch. The ‘open door/mortise’ idea comes from later folk etymology, not the oldest forms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "在十二地支中(在十二地支中)，卯对应东方和春天(卯對應東方和春天)。",
+      "pinyin": "Zài shí'èr dìzhī zhōng, mǎo duìyìng dōngfāng hé chūntiān.",
+      "english": "In the twelve Earthly Branches, Mao corresponds to the east and to spring."
+    },
+    {
+      "chinese": "我们在卯时出发(我們在卯時出發)。",
+      "pinyin": "Wǒmen zài mǎo shí chūfā.",
+      "english": "We set out at the Mao hour."
+    },
+    {
+      "chinese": "生肖属兔对应地支卯(生肖屬兔對應地支卯)。",
+      "pinyin": "Shēngxiào shǔ tù duìyìng dìzhī mǎo.",
+      "english": "The Rabbit zodiac corresponds to the Earthly Branch Mao."
+    }
+  ]
+}

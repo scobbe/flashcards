@@ -1,0 +1,29 @@
+{
+  "simplified": "止",
+  "traditional": "止",
+  "pinyin": "zhǐ",
+  "english": "stop; foot",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a footprint pointing up (originally “foot”), later stylized as 龰; oracle forms show three toes and a sole.",
+    "interpretation": "A footprint with toes pointing upward represents the foot. The sense broadened from the physical foot to the act of halting one’s step, hence “to stop”; the specific ‘toe’ meaning was preserved in 趾.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "请立即停止前进(請立即停止前進)。",
+      "pinyin": "Qǐng lìjí tíngzhǐ qiánjìn.",
+      "english": "Please stop advancing immediately."
+    },
+    {
+      "chinese": "此处止步，非请勿入(此處止步，非請勿入)。",
+      "pinyin": "Cǐ chù zhǐbù, fēi qǐng wù rù.",
+      "english": "Stop here; do not enter without invitation."
+    },
+    {
+      "chinese": "药到病除，疼痛已止(藥到病除，疼痛已止)。",
+      "pinyin": "Yào dào bìng chú, téngtòng yǐ zhǐ.",
+      "english": "With the right medicine, the illness is cured and the pain has stopped."
+    }
+  ]
+}

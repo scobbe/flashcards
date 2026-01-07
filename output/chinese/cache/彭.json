@@ -1,0 +1,43 @@
+{
+  "simplified": "彭",
+  "traditional": "彭",
+  "pinyin": "Péng",
+  "english": "surname Peng; ancient state name; booming (sound); exuberant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "壴 ‘drum’ + 彡 ‘visualization of the sound of drumming’ — sound of drumming.",
+    "interpretation": "Combines a drum with marks that depict reverberating sound, evoking booming beats. The sense of loud resonance extended to names, becoming a surname and appearing in toponyms and state names.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum (on a stand); ancient drum"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "ornamental pattern; hair; bristles"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我认识彭先生(我認識彭先生)。",
+      "pinyin": "Wǒ rènshi Péng xiānsheng.",
+      "english": "I know Mr. Peng."
+    },
+    {
+      "chinese": "这座城市古称彭城(這座城市古稱彭城)。",
+      "pinyin": "Zhè zuò chéngshì gǔ chēng Péngchéng.",
+      "english": "This city was historically called Pengcheng."
+    },
+    {
+      "chinese": "史书记载有彭国(史書記載有彭國)。",
+      "pinyin": "Shǐshū jìzǎi yǒu Péngguó.",
+      "english": "Historical records mention the state of Peng."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "坐",
+  "traditional": "坐",
+  "pinyin": "zuò",
+  "english": "sit; ride",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "会意: 留 (‘to stay’) + 土 (‘ground’).",
+    "interpretation": "Combines 留 ‘to stay’ with 土 ‘ground’ to convey remaining on the ground, i.e., being seated. From this sense comes the extended usage ‘to take’ a vehicle, as one sits in it to ride.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "留",
+      "trad": "留",
+      "pinyin": "liú",
+      "english": "stay; remain; keep"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil; ground"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们坐在地上休息(我們坐在地上休息)。",
+      "pinyin": "Wǒmen zuò zài dìshàng xiūxi.",
+      "english": "We sit on the ground to rest."
+    },
+    {
+      "chinese": "请坐这辆公交车去市中心(請坐這輛公交車去市中心)。",
+      "pinyin": "Qǐng zuò zhè liàng gōngjiāochē qù shì zhōngxīn.",
+      "english": "Please take this bus to the city center."
+    },
+    {
+      "chinese": "我每天坐地铁上班(我每天坐地鐵上班)。",
+      "pinyin": "Wǒ měitiān zuò dìtiě shàngbān.",
+      "english": "I take the subway to work every day."
+    }
+  ]
+}

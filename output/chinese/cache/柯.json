@@ -1,0 +1,38 @@
+{
+  "simplified": "柯",
+  "traditional": "柯",
+  "pinyin": "kē",
+  "english": "branch; axe handle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 (“tree”) + phonetic: 可",
+    "interpretation": "Wood/tree provides the semantic domain, pointing to wooden things like branches or handles. 可 contributes the sound value, approximating kê, while the meaning remains tied to wood.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can; may; acceptable"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这棵树的枝柯伸向天空(這棵樹的枝柯伸向天空)。",
+      "pinyin": "Zhè kē shù de zhīkē shēn xiàng tiānkōng.",
+      "english": "The branches of this tree stretch toward the sky."
+    },
+    {
+      "chinese": "木匠更换了斧柯(木匠更換了斧柯)。",
+      "pinyin": "Mùjiàng gēnghuàn le fǔ kē.",
+      "english": "The carpenter replaced the axe handle."
+    }
+  ]
+}

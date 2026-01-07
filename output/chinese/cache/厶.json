@@ -1,0 +1,29 @@
+{
+  "simplified": "厶",
+  "traditional": "厶",
+  "pinyin": "sī",
+  "english": "private",
+  "etymology": {
+    "type": "Ideogram (指事)",
+    "description": "Revolving around oneself; original character for 私 ‘selfish; private’; compare 公 ‘public’.",
+    "interpretation": "Graph evokes an inward-turning motion, highlighting self-centered or private matters. It later gave rise to 私 and stands in conceptual opposition to 公 ‘public’.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "此事属厶，不宜外传(此事屬厶，不宜外傳。)",
+      "pinyin": "Cǐ shì shǔ sī, bù yí wài chuán.",
+      "english": "This matter is private and should not be spread."
+    },
+    {
+      "chinese": "他为厶利而行，众人不齿(他為厶利而行，眾人不齒。)",
+      "pinyin": "Tā wèi sī lì ér xíng, zhòng rén bù chǐ.",
+      "english": "He acts for private gain and is despised by the people."
+    },
+    {
+      "chinese": "勿起厶心，以公为先(勿起厶心，以公為先。)",
+      "pinyin": "Wù qǐ sī xīn, yǐ gōng wéi xiān.",
+      "english": "Do not harbor selfish thoughts; put the public first."
+    }
+  ]
+}

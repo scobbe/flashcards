@@ -1,0 +1,4 @@
+[飲]
+In the oracle bone script, it was an ideogrammic compound ( 會意 / 会意 ): 酉 ( “ bottle (of alcoholic beverages) ” ) + 人 ( “ person ” ) + 口 ( “ mouth (occasionally with the tongue protruding) ” ) – a person bending over a bottle to drink the alcoholic beverage. The droplets represented drops of the drink or saliva.
+In the bronze script, the mouth separated from the body and corrupted into 今 ( OC *krɯm ), while the rest of the body became 欠 ( OC *kʰoms ). These two components also acted as phonetic components. These changes were inherited in the seal script, leading Shuowen to interpret this character ( 㱃 ) as a phono-semantic compound ( 形聲 / 形声 , OC *qrɯmʔ, *qrɯms ): phonetic 酓 ( OC *qʰɯːm, *qlamʔ, *qlɯːms ) + semantic 欠 ( “ yawn ” ) .
+In the clerical script, 酓 has been modified to 食 (“to eat”), which is inherited in the current form.

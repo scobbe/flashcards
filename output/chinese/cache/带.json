@@ -1,0 +1,37 @@
+{
+  "simplified": "带",
+  "traditional": "帶",
+  "pinyin": "dài",
+  "english": "belt; band; zone; to bring",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a woven belt",
+    "interpretation": "Depicts a belt woven from cloth, highlighting its textile nature. Over time the form was stylized, but it still evokes something that wraps around or is worn at the waist.",
+    "simplification": "Simplified from 帶 to 带 by streamlining the complex woven components and retaining the cloth element (巾), reducing strokes for easier writing while preserving the core idea."
+  },
+  "parts": [
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth; towel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他系上皮带出门(他繫上皮帶出門)。",
+      "pinyin": "Tā xì shàng pí dài chū mén.",
+      "english": "He fastened his belt before going out."
+    },
+    {
+      "chinese": "这条河两岸是湿地带(這條河兩岸是濕地帶)。",
+      "pinyin": "Zhè tiáo hé liǎng'àn shì shī dìdài.",
+      "english": "The banks of this river are a wetland zone."
+    },
+    {
+      "chinese": "出门别忘了带雨伞(出門別忘了帶雨傘)。",
+      "pinyin": "Chū mén bié wàng le dài yǔsǎn.",
+      "english": "Don’t forget to bring an umbrella when going out."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "半",
+  "traditional": "半",
+  "pinyin": "bàn",
+  "english": "half",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "八 ‘to divide’ + 牛 ‘cow’: to cut a cow into two halves.",
+    "interpretation": "Combines the idea of splitting (八) with a cow (牛) to picture an animal being divided into two equal parts, highlighting the notion of a half. The meaning generalized from a concrete butchering image to the abstract concept of “half.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow/ox"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们各付一半(我們各付一半)。",
+      "pinyin": "Wǒmen gè fù yī bàn.",
+      "english": "We each pay half."
+    },
+    {
+      "chinese": "把苹果切成两半(把蘋果切成兩半)。",
+      "pinyin": "Bǎ píngguǒ qiē chéng liǎng bàn.",
+      "english": "Cut the apple into two halves."
+    },
+    {
+      "chinese": "半小时后见(半小時後見)。",
+      "pinyin": "Bàn xiǎoshí hòu jiàn.",
+      "english": "See you in half an hour."
+    }
+  ]
+}

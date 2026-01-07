@@ -1,0 +1,49 @@
+{
+  "simplified": "样板间",
+  "traditional": "樣板間",
+  "pinyin": "yàngbǎnjiān",
+  "english": "showroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "样板(樣板, model; template) + 间(間, room) = model room/showroom.",
+    "interpretation": "Refers to a model room arranged to display layout, decor, or products, especially a show flat in real-estate sales offices. Lets customers experience the look and feel before deciding to buy.",
+    "simplification": "樣 → 样 simplified by streamlining the right component; 間 → 间 by replacing 門 with 门 and simplifying the interior; 板 unchanged. Overall stroke reduction under PRC simplification."
+  },
+  "parts": [
+    {
+      "char": "样",
+      "trad": "樣",
+      "pinyin": "yàng",
+      "english": "appearance; pattern; kind/type; sample"
+    },
+    {
+      "char": "板",
+      "trad": "板",
+      "pinyin": "bǎn",
+      "english": "board; plank; slab; stiff"
+    },
+    {
+      "char": "间",
+      "trad": "間",
+      "pinyin": "jiān",
+      "english": "room; between; space; interval"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "周末我们去参观新楼盘的样板间(週末我們去參觀新樓盤的樣板間)。",
+      "pinyin": "Zhōumò wǒmen qù cānguān xīn lóupán de yàngbǎnjiān.",
+      "english": "We’re going to visit the new development’s showroom this weekend."
+    },
+    {
+      "chinese": "销售顾问在样板间介绍户型和装修(銷售顧問在樣板間介紹戶型和裝修)。",
+      "pinyin": "Xiāoshòu gùwèn zài yàngbǎnjiān jièshào hùxíng hé zhuāngxiū.",
+      "english": "The sales consultant introduces the floor plans and finishes in the showroom."
+    },
+    {
+      "chinese": "通过样板间(通過樣板間)，买家可以更直观地了解未来的居住空间(買家可以更直觀地了解未來的居住空間)。",
+      "pinyin": "Tōngguò yàngbǎnjiān, mǎijiā kěyǐ gèng zhíguān de liǎojiě wèilái de jūzhù kōngjiān.",
+      "english": "Through the showroom, buyers can more intuitively understand their future living space."
+    }
+  ]
+}

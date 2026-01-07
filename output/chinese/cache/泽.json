@@ -1,0 +1,43 @@
+{
+  "simplified": "泽",
+  "traditional": "澤",
+  "pinyin": "zé",
+  "english": "marsh; moisture; favor; luster",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 水 + phonetic: 睪",
+    "interpretation": "Water (水) points to senses like marsh, moisture, and luster, while 睪 contributes the sound. The simplified form swaps 睪 for the graphically lighter 𠬤 to reduce strokes but keeps the same pronunciation.",
+    "simplification": "Simplified from 澤 by replacing the phonetic 睪 with 𠬤 and using the abbreviated water component 氵; this reduces strokes while preserving reading and meaning."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "睪",
+      "trad": "睪",
+      "pinyin": "yì",
+      "english": "to gaze; observe"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这里的沼泽很深(這裡的沼澤很深)。",
+      "pinyin": "Zhèlǐ de zhǎozé hěn shēn.",
+      "english": "The marsh here is very deep."
+    },
+    {
+      "chinese": "国王赐予百姓恩泽(國王賜予百姓恩澤)。",
+      "pinyin": "Guówáng cìyǔ bǎixìng ēnzé.",
+      "english": "The king bestowed favor upon the common people."
+    },
+    {
+      "chinese": "雨后，树叶恢复了光泽(雨後，樹葉恢復了光澤)。",
+      "pinyin": "Yǔ hòu, shùyè huīfù le guāngzé.",
+      "english": "After the rain, the leaves regained their luster."
+    }
+  ]
+}

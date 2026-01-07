@@ -1,0 +1,37 @@
+{
+  "simplified": "本",
+  "traditional": "本",
+  "pinyin": "běn",
+  "english": "root; basis",
+  "etymology": {
+    "type": "Ideogram (指事)",
+    "description": "indicative: 木 (mù ‘tree’) with its bottom highlighted by an extra stroke to accentuate the roots; contrast 末, 朱.",
+    "interpretation": "Emphasizes the base of a tree to point to the idea of origin, foundation, or root. The extra stroke marks the bottom, distinguishing it from 末, which highlights the top.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "以史为本(以史為本)，可以知兴替(可以知興替)。",
+      "pinyin": "Yǐ shǐ wéi běn, kěyǐ zhī xīngtì.",
+      "english": "Taking history as the basis allows one to understand rise and decline."
+    },
+    {
+      "chinese": "事情的本质很重要(事情的本質很重要)。",
+      "pinyin": "Shìqíng de běnzhì hěn zhòngyào.",
+      "english": "The fundamental nature of the matter is very important."
+    },
+    {
+      "chinese": "我们要回到问题的本源来思考(我們要回到問題的本源來思考)。",
+      "pinyin": "Wǒmen yào huídào wèntí de běnyuán lái sīkǎo.",
+      "english": "We need to return to the origin of the problem to think it through."
+    }
+  ]
+}

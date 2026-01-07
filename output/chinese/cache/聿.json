@@ -1,0 +1,37 @@
+{
+  "simplified": "聿",
+  "traditional": "聿",
+  "pinyin": "yù",
+  "english": "brush; to write",
+  "etymology": {
+    "type": "pictogram or ideogrammic compound",
+    "description": "hand (又) holding a brush (𰀁); originally referred to 筆 ‘writing brush’; later jiajie (rebus) for 聿 ‘thereupon’.",
+    "interpretation": "A right hand gripping a writing brush vividly depicts the act of writing. Its graph first named the brush itself and was later borrowed to represent the adverbial sense “thereupon/then” in classical usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古人以聿书竹帛(古人以聿書竹帛)。",
+      "pinyin": "Gǔrén yǐ yù shū zhúbó.",
+      "english": "The ancients used a brush to write on bamboo and silk."
+    },
+    {
+      "chinese": "他执聿临池练字(他執聿臨池練字)。",
+      "pinyin": "Tā zhí yù línchí liànzì.",
+      "english": "He holds the brush by the water to practice calligraphy."
+    },
+    {
+      "chinese": "史官持聿记事(史官持聿記事)。",
+      "pinyin": "Shǐguān chí yù jìshì.",
+      "english": "The scribe holds a brush to record events."
+    }
+  ]
+}

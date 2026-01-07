@@ -1,0 +1,37 @@
+{
+  "simplified": "免",
+  "traditional": "免",
+  "pinyin": "miǎn",
+  "english": "to exempt; to excuse; to avoid; to spare",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a man wearing a ceremonial hat; later borrowed for abstract meanings; original sense preserved in 冕.",
+    "interpretation": "Originally depicted a person wearing a ceremonial crown, denoting that concrete object. Over time it was loaned to write the verbal idea ‘to avoid/exempt,’ while 冕 kept the crown meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; son"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "免税政策帮助小企业(免稅政策幫助小企業)。",
+      "pinyin": "Miǎnshuì zhèngcè bāngzhù xiǎo qǐyè.",
+      "english": "The tax-exemption policy helps small businesses."
+    },
+    {
+      "chinese": "老师说这次作业就免交了(老師說這次作業就免交了)。",
+      "pinyin": "Lǎoshī shuō zhè cì zuòyè jiù miǎn jiāo le.",
+      "english": "The teacher said this assignment can be waived."
+    },
+    {
+      "chinese": "为了安全，尽量免去不必要的出行(為了安全，盡量免去不必要的出行)。",
+      "pinyin": "Wèile ānquán, jǐnliàng miǎnqù bú bìyào de chūxíng.",
+      "english": "For safety, try to avoid unnecessary outings."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "肖像",
+  "traditional": "肖像",
+  "pinyin": "xiàoxiàng",
+  "english": "portrait",
+  "etymology": {
+    "type": "compound word",
+    "description": "肖(resemble) + 像(image/figure) = likeness image → portrait.",
+    "interpretation": "Combines resemblance with image to denote an image that captures a person’s likeness; chiefly used for portraits of people.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肖",
+      "trad": "肖",
+      "pinyin": "xiào",
+      "english": "resemble; similar to; likeness; surname"
+    },
+    {
+      "char": "像",
+      "trad": "像",
+      "pinyin": "xiàng",
+      "english": "image; portrait; statue; resemble"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这幅肖像很传神(這幅肖像很傳神)。",
+      "pinyin": "Zhè fú xiàoxiàng hěn chuánshén.",
+      "english": "This portrait is very lifelike."
+    },
+    {
+      "chinese": "我买了一幅名人的肖像(我買了一幅名人的肖像)。",
+      "pinyin": "Wǒ mǎi le yī fú míngrén de xiàoxiàng.",
+      "english": "I bought a portrait of a celebrity."
+    },
+    {
+      "chinese": "艺术家根据照片创作肖像(藝術家根據照片創作肖像)。",
+      "pinyin": "Yìshùjiā gēnjù zhàopiàn chuàngzuò xiàoxiàng.",
+      "english": "The artist creates a portrait based on a photo."
+    }
+  ]
+}

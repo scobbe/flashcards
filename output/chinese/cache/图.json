@@ -1,0 +1,43 @@
+{
+  "simplified": "图",
+  "traditional": "圖",
+  "pinyin": "tú",
+  "english": "picture; map; plan",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "semantic: 囗 ‘walled city’ + 啚 (early form of 鄙, ‘remote areas/territory’); simplified 啚 → 冬.",
+    "interpretation": "An enclosure 囗 surrounds 啚, evoking a bounded territory, which extends to the sense of a map, picture, or plan of an area. In simplification, 啚 was replaced by the simpler 冬 to cut strokes while preserving the enclosed-area silhouette and meaning.",
+    "simplification": "啚 was replaced with the graphically simpler 冬 to reduce stroke count and ease writing; the change is shape-based rather than phonetic."
+  },
+  "parts": [
+    {
+      "char": "啚",
+      "trad": "啚",
+      "pinyin": "bǐ",
+      "english": "remote areas; territory (early form of 鄙)"
+    },
+    {
+      "char": "冬",
+      "trad": "冬",
+      "pinyin": "dōng",
+      "english": "winter"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请看地图(請看地圖)，路线很清楚(路線很清楚)。",
+      "pinyin": "Qǐng kàn dìtú, lùxiàn hěn qīngchǔ.",
+      "english": "Please look at the map; the route is very clear."
+    },
+    {
+      "chinese": "我画了一张图(我畫了一張圖)。",
+      "pinyin": "Wǒ huà le yì zhāng tú.",
+      "english": "I drew a picture/diagram."
+    },
+    {
+      "chinese": "我们按图施工(我們按圖施工)，计划如期完成(計劃如期完成)。",
+      "pinyin": "Wǒmen àn tú shīgōng, jìhuà rúqī wánchéng.",
+      "english": "We built according to the plan, and the project was completed on schedule."
+    }
+  ]
+}

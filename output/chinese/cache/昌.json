@@ -1,0 +1,49 @@
+{
+  "simplified": "昌",
+  "traditional": "昌",
+  "pinyin": "chāng",
+  "english": "prosperous; flourishing; bright; good",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "semantic: 日 'sun' + semantic: 口 'mouth'; 口 later developed into 曰.",
+    "interpretation": "Combines 'sun' with 'mouth' to evoke voices at daybreak, suggesting lively activity and brightness with sunrise. As 口 shifted to 曰 and the form suggested greater radiance, the graph came to convey prosperity and flourishing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "to say; speak"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "国家繁荣昌盛(國家繁榮昌盛)。",
+      "pinyin": "Guójiā fánróng chāngshèng.",
+      "english": "The country is prosperous and flourishing."
+    },
+    {
+      "chinese": "祝你生意昌隆(祝你生意昌隆)。",
+      "pinyin": "Zhù nǐ shēngyì chānglóng.",
+      "english": "Wishing you thriving business and prosperity."
+    },
+    {
+      "chinese": "学术昌明(學術昌明)。",
+      "pinyin": "Xuéshù chāngmíng.",
+      "english": "Scholarship is enlightened and flourishing."
+    }
+  ]
+}

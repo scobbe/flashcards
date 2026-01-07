@@ -1,0 +1,49 @@
+{
+  "simplified": "全素食",
+  "traditional": "全素食",
+  "pinyin": "quánsùshí",
+  "english": "vegan diet",
+  "etymology": {
+    "type": "compound word",
+    "description": "全(all/whole) + 素(vegetarian/plain) + 食(food) = entirely plant-based food/diet.",
+    "interpretation": "Emphasizes a diet consisting solely of plant-based foods, excluding all animal-derived products such as meat, dairy, and eggs. Common in menu labels and dietary/lifestyle descriptions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "全",
+      "trad": "全",
+      "pinyin": "quán",
+      "english": "whole; complete; entire; all"
+    },
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "plain; vegetarian; element; simple"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; to eat; meal; diet"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我选择全素食来保护动物和环境(我選擇全素食來保護動物和環境)。",
+      "pinyin": "Wǒ xuǎnzé quánsùshí lái bǎohù dòngwù hé huánjìng.",
+      "english": "I choose a vegan diet to protect animals and the environment."
+    },
+    {
+      "chinese": "这家餐厅提供全素食菜单(這家餐廳提供全素食菜單)。",
+      "pinyin": "Zhè jiā cāntīng tígōng quánsùshí càidān.",
+      "english": "This restaurant offers a vegan menu."
+    },
+    {
+      "chinese": "医生建议我尝试全素食以控制胆固醇(醫生建議我嘗試全素食以控制膽固醇)。",
+      "pinyin": "Yīshēng jiànyì wǒ chángshì quánsùshí yǐ kòngzhì dǎn gù chún.",
+      "english": "The doctor suggested I try a vegan diet to control cholesterol."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "肏",
+  "traditional": "肏",
+  "pinyin": "cào",
+  "english": "fuck (vulgar)",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "會意: 入 “enter” + 肉 “flesh”.",
+    "interpretation": "Combines the ideas of entering and flesh to depict sexual penetration, yielding the vulgar verbal meaning “to fuck.” This is a purely semantic (idea-combining) graph rather than a sound-based formation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "enter"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "别在公共场合说“肏”这个粗话(別在公共場合說「肏」這個粗話)。",
+      "pinyin": "Bié zài gōnggòng chǎnghé shuō “cào” zhège cūhuà.",
+      "english": "Don’t say the vulgar word “cào” in public."
+    },
+    {
+      "chinese": "他生气时会骂“肏”，但同事觉得很冒犯(他生氣時會罵「肏」，但同事覺得很冒犯)。",
+      "pinyin": "Tā shēngqì shí huì mà “cào”, dàn tóngshì juéde hěn màofàn.",
+      "english": "When he gets angry he curses “cào,” and his coworkers find it offensive."
+    },
+    {
+      "chinese": "作为感叹词，“肏”常用来表达愤怒或震惊(作為感嘆詞，「肏」常用來表達憤怒或震驚)。",
+      "pinyin": "Zuòwéi gǎntàncí, “cào” cháng yònglái biǎodá fènnù huò zhènjīng.",
+      "english": "As an interjection, “cào” is often used to express anger or shock."
+    }
+  ]
+}

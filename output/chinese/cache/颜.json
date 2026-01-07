@@ -1,0 +1,43 @@
+{
+  "simplified": "颜",
+  "traditional": "顏",
+  "pinyin": "Yán",
+  "english": "surname Yan",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 頁 (‘head’) + phonetic: 彥; bronze inscription: semantic 面 (‘face’) + phonetic 产; simplified from 顏 (彥→彦, 頁→页).",
+    "interpretation": "Meaning is anchored by 頁/页, the ‘head/face’ element, pointing to the sense related to face and by extension a surname. Pronunciation is carried by 彥/彦, and early bronze forms already combined a ‘face’ element with a phonetic to signal sound.",
+    "simplification": "Standard component simplifications: 彥 → 彦 (phonetic) and 頁 → 页 (semantic), preserving the original phono-semantic structure."
+  },
+  "parts": [
+    {
+      "char": "彦",
+      "trad": "彥",
+      "pinyin": "yàn",
+      "english": "accomplished person; talented"
+    },
+    {
+      "char": "页",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "page"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他姓颜(他姓顏)。",
+      "pinyin": "Tā xìng Yán.",
+      "english": "His surname is Yan."
+    },
+    {
+      "chinese": "这是颜老师的书(這是顏老師的書)。",
+      "pinyin": "Zhè shì Yán lǎoshī de shū.",
+      "english": "This is Teacher Yan’s book."
+    },
+    {
+      "chinese": "颜家从山东来(顏家從山東來)。",
+      "pinyin": "Yán jiā cóng Shāndōng lái.",
+      "english": "The Yan family comes from Shandong."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "长城",
+  "traditional": "長城",
+  "pinyin": "Chángchéng",
+  "english": "Great Wall",
+  "etymology": {
+    "type": "compound word",
+    "description": "长(long) + 城(city wall) = long wall (Great Wall).",
+    "interpretation": "Literally “long wall,” a proper noun for the Great Wall of China; the modifier 长 emphasizes the wall’s great length.",
+    "simplification": "The character 長 was simplified to 长 in PRC reforms to reduce strokes, influenced by cursive forms; 城 remained unchanged. The compound itself was not otherwise altered."
+  },
+  "parts": [
+    {
+      "char": "长",
+      "trad": "長",
+      "pinyin": "cháng",
+      "english": "long; length; lasting; for a long time"
+    },
+    {
+      "char": "城",
+      "trad": "城",
+      "pinyin": "chéng",
+      "english": "city; city wall; town; fortification"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们明天去参观长城(我們明天去參觀長城)。",
+      "pinyin": "Wǒmen míngtiān qù cānguān Chángchéng.",
+      "english": "We are going to visit the Great Wall tomorrow."
+    },
+    {
+      "chinese": "长城蜿蜒穿过群山(長城蜿蜒穿過群山)。",
+      "pinyin": "Chángchéng wānyán chuānguò qúnshān.",
+      "english": "The Great Wall winds through the mountains."
+    },
+    {
+      "chinese": "长城是中国古代的防御工程(長城是中國古代的防禦工程)。",
+      "pinyin": "Chángchéng shì Zhōngguó gǔdài de fángyù gōngchéng.",
+      "english": "The Great Wall is an ancient Chinese defensive project."
+    }
+  ]
+}

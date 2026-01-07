@@ -1,0 +1,43 @@
+{
+  "simplified": "江山",
+  "traditional": "江山",
+  "pinyin": "jiāngshān",
+  "english": "landscape; country",
+  "etymology": {
+    "type": "compound word",
+    "description": "江(river) + 山(mountain) = rivers and mountains → landscape; realm/state.",
+    "interpretation": "Literally “rivers and mountains,” a classical pairing that refers to the land’s natural scenery and, by metonymy, the territory or regime. Common in literary and historical contexts to praise scenery or speak of political power.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "江",
+      "trad": "江",
+      "pinyin": "jiāng",
+      "english": "river; Yangtze; large river; waterway"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain; hill; peak; ridge"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "祖国的江山壮丽(祖國的江山壯麗)。",
+      "pinyin": "Zǔguó de jiāngshān zhuànglì.",
+      "english": "The country’s landscape is magnificent."
+    },
+    {
+      "chinese": "他励精图治(他勵精圖治)，巩固江山(鞏固江山)。",
+      "pinyin": "Tā lìjīng túzhì, gǒnggù jiāngshān.",
+      "english": "He worked hard to govern and consolidate his realm."
+    },
+    {
+      "chinese": "江山如画(江山如畫)，风景无限(風景無限)。",
+      "pinyin": "Jiāngshān rúhuà, fēngjǐng wúxiàn.",
+      "english": "The rivers and mountains are picturesque, and the scenery is boundless."
+    }
+  ]
+}

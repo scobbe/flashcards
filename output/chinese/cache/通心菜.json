@@ -1,0 +1,49 @@
+{
+  "simplified": "通心菜",
+  "traditional": "通心菜",
+  "pinyin": "tōngxīncài",
+  "english": "water spinach",
+  "etymology": {
+    "type": "compound word",
+    "description": "通(through) + 心(center) + 菜(vegetable) = vegetable with a hollow center (water spinach).",
+    "interpretation": "Literally ‘through-heart vegetable,’ pointing to its hollow stems. 通心 here means ‘hollow-tubed,’ as in 通心粉 (hollow pasta), so the name highlights the plant’s tube-like stalks.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "通",
+      "trad": "通",
+      "pinyin": "tōng",
+      "english": "go through; communicate; open/unobstructed; expert"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind; core; intention"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine; greens"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天买了一把通心菜(今天買了一把通心菜)。",
+      "pinyin": "jīntiān mǎi le yì bǎ tōngxīncài.",
+      "english": "I bought a bunch of water spinach today."
+    },
+    {
+      "chinese": "通心菜的茎是中空的，所以容易入味(通心菜的莖是中空的，所以容易入味)。",
+      "pinyin": "tōngxīncài de jīng shì zhōngkōng de, suǒyǐ róngyì rùwèi.",
+      "english": "The stems are hollow, so flavors seep in easily."
+    },
+    {
+      "chinese": "我最爱清炒蒜蓉通心菜(我最愛清炒蒜蓉通心菜)。",
+      "pinyin": "wǒ zuì ài qīngchǎo suànróng tōngxīncài.",
+      "english": "I love stir-fried water spinach with garlic."
+    }
+  ]
+}

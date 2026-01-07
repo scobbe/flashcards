@@ -1,0 +1,43 @@
+{
+  "simplified": "正",
+  "traditional": "正",
+  "pinyin": "zhèng",
+  "english": "upright; correct; just; main",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 止 (“foot”) + phonetic 丁; original form of 征 “to go on long campaign”.",
+    "interpretation": "The graphic combines the idea of a foot (movement, marching) with 丁 to cue the sound zhèng. Early use referred to marching on campaign, with the top horizontal stroke reflecting a compressed 丁 in later forms. Meanings later shifted and broadened to senses like straight, proper, and correct.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail; fourth heavenly stem"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop; foot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他的为人很正(他的為人很正)。",
+      "pinyin": "Tā de wéirén hěn zhèng.",
+      "english": "His conduct is very upright."
+    },
+    {
+      "chinese": "请把画挂正(請把畫掛正)。",
+      "pinyin": "Qǐng bǎ huà guà zhèng.",
+      "english": "Please hang the picture straight."
+    },
+    {
+      "chinese": "我们从正门进去(我們從正門進去)。",
+      "pinyin": "Wǒmen cóng zhèngmén jìnqù.",
+      "english": "We will enter through the main gate."
+    }
+  ]
+}

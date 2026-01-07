@@ -1,0 +1,43 @@
+{
+  "simplified": "毛衣",
+  "traditional": "毛衣",
+  "pinyin": "máoyī",
+  "english": "sweater",
+  "etymology": {
+    "type": "compound word",
+    "description": "毛 (fur/wool) + 衣 (clothing) = woolen clothing (sweater)",
+    "interpretation": "Literally “wool/fur clothing,” highlighting a garment made from animal fibers like wool. In modern usage it refers to sweaters and knit pullovers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair; fur; wool; tenth of a yuan"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing; clothes; garment; coat"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我冬天常穿毛衣(我冬天常穿毛衣)。",
+      "pinyin": "Wǒ dōngtiān cháng chuān máoyī.",
+      "english": "I often wear a sweater in winter."
+    },
+    {
+      "chinese": "这件毛衣很保暖(這件毛衣很保暖)，颜色也很好看(顏色也很好看)。",
+      "pinyin": "Zhè jiàn máoyī hěn bǎonuǎn, yánsè yě hěn hǎokàn.",
+      "english": "This sweater is very warm, and the color looks great."
+    },
+    {
+      "chinese": "奶奶亲手织了毛衣(奶奶親手織了毛衣)。",
+      "pinyin": "Nǎinai qīnshǒu zhī le máoyī.",
+      "english": "Grandma knitted a sweater by hand."
+    }
+  ]
+}

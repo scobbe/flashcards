@@ -1,0 +1,55 @@
+{
+  "simplified": "去",
+  "traditional": "去",
+  "pinyin": "qù",
+  "english": "go; leave; remove",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "大 ‘man’ + 口 ‘mouth/object’; top later simplified to 土 and bottom to 厶; conservative variant 厺.",
+    "interpretation": "A person combined with an opening suggests departing from a place or taking something out, yielding senses like ‘go’ and ‘remove’. Some traditions also relate it to lips parting (opening), which naturally extends to movement away or separation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "厶",
+      "trad": "厶",
+      "pinyin": "sī",
+      "english": "private"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们明天去北京(我們明天去北京)。",
+      "pinyin": "Wǒmen míngtiān qù Běijīng.",
+      "english": "We are going to Beijing tomorrow."
+    },
+    {
+      "chinese": "请把这个错误去掉(請把這個錯誤去掉)。",
+      "pinyin": "Qǐng bǎ zhège cuòwù qùdiào.",
+      "english": "Please remove this error."
+    },
+    {
+      "chinese": "我得去一趟商店(我得去一趟商店)。",
+      "pinyin": "Wǒ děi qù yí tàng shāngdiàn.",
+      "english": "I need to make a trip to the store."
+    }
+  ]
+}

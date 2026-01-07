@@ -1,0 +1,49 @@
+{
+  "simplified": "中国结",
+  "traditional": "中國結",
+  "pinyin": "Zhōngguó jié",
+  "english": "Chinese knot",
+  "etymology": {
+    "type": "compound word",
+    "description": "中国 (China) + 结 (knot) = a Chinese-style decorative knot.",
+    "interpretation": "Names the traditional decorative knotting art associated with Chinese culture. Conveys auspiciousness and is often used in celebrations and home decor.",
+    "simplification": "國 was simplified to 国 by reducing the interior component to lower stroke count; 結 was simplified to 结 by changing the silk radical 糸 to 纟 while keeping the phonetic 吉."
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; within; China"
+    },
+    {
+      "char": "国",
+      "trad": "國",
+      "pinyin": "guó",
+      "english": "country; nation; state; homeland"
+    },
+    {
+      "char": "结",
+      "trad": "結",
+      "pinyin": "jié",
+      "english": "knot; tie; bind; conclude"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一个红色的中国结(我買了一個紅色的中國結)。",
+      "pinyin": "Wǒ mǎi le yí gè hóngsè de Zhōngguó jié.",
+      "english": "I bought a red Chinese knot."
+    },
+    {
+      "chinese": "春节时(春節時)，人们把中国结挂在门口(人們把中國結掛在門口)。",
+      "pinyin": "Chūnjié shí, rénmen bǎ Zhōngguó jié guà zài ménkǒu.",
+      "english": "During Spring Festival, people hang Chinese knots at the doorway."
+    },
+    {
+      "chinese": "中国结象征着吉祥和团圆(中國結象徵著吉祥和團圓)。",
+      "pinyin": "Zhōngguó jié xiàngzhēng zhe jíxiáng hé tuányuán.",
+      "english": "Chinese knots symbolize good fortune and reunion."
+    }
+  ]
+}

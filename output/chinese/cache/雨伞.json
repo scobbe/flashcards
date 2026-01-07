@@ -1,0 +1,43 @@
+{
+  "simplified": "雨伞",
+  "traditional": "雨伞",
+  "pinyin": "yǔsǎn",
+  "english": "umbrella",
+  "etymology": {
+    "type": "compound word",
+    "description": "雨 (rain) + 伞 (umbrella/parasol) = umbrella for rain.",
+    "interpretation": "Names a canopy used to keep off rain. By specifying 雨, distinguishes it from a sunshade (阳伞).",
+    "simplification": "傘 was simplified to 伞 by reducing strokes to an umbrella-shaped outline; 雨 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain; rainfall; to rain; rainy"
+    },
+    {
+      "char": "伞",
+      "trad": "傘",
+      "pinyin": "sǎn",
+      "english": "umbrella; parasol; parachute (abbr.); umbrella-shaped"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我带雨伞(我帶雨傘)。",
+      "pinyin": "wǒ dài yǔsǎn.",
+      "english": "I’m bringing an umbrella."
+    },
+    {
+      "chinese": "今天下雨(今天下雨)，记得带雨伞(記得帶雨傘)。",
+      "pinyin": "jīntiān xià yǔ, jìde dài yǔsǎn.",
+      "english": "It’s raining today; remember to bring an umbrella."
+    },
+    {
+      "chinese": "这把雨伞很轻(這把雨傘很輕)。",
+      "pinyin": "zhè bǎ yǔsǎn hěn qīng.",
+      "english": "This umbrella is very light."
+    }
+  ]
+}

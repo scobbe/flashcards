@@ -1,0 +1,37 @@
+{
+  "simplified": "贤",
+  "traditional": "賢",
+  "pinyin": "xián",
+  "english": "virtuous; worthy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 貝 “money” + phonetic: 臤.",
+    "interpretation": "貝 signals the idea of value or treasure, pointing toward the sense of being worthy. 臤 provides the sound, while the combined sense evokes someone esteemed like money was in antiquity.",
+    "simplification": "Simplified from 賢 by replacing 臤 with 𰀡 and 貝 with 贝 to reduce strokes and regularize components; the bottom follows the common 贝 simplification of the ‘cowry/money’ element."
+  },
+  "parts": [
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; money; valuables"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是贤人(他是賢人)。",
+      "pinyin": "Tā shì xiánrén.",
+      "english": "He is a virtuous person."
+    },
+    {
+      "chinese": "贤明的领导带来改变(賢明的領導帶來改變)。",
+      "pinyin": "Xiánmíng de lǐngdǎo dàilái gǎibiàn.",
+      "english": "A wise and virtuous leader brings change."
+    },
+    {
+      "chinese": "以贤为师(以賢為師)。",
+      "pinyin": "Yǐ xián wéi shī.",
+      "english": "Take the worthy as teachers."
+    }
+  ]
+}

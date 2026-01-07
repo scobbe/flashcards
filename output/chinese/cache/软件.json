@@ -1,0 +1,43 @@
+{
+  "simplified": "软件",
+  "traditional": "軟件",
+  "pinyin": "ruǎnjiàn",
+  "english": "software",
+  "etymology": {
+    "type": "compound word",
+    "description": "软(soft) + 件(item; piece) = software (soft/immaterial components).",
+    "interpretation": "Coined as a calque of English “software” to contrast with 硬件, grouping programs and data as the ‘soft’ items of a computer system. Standard in Mainland China and Hong Kong; Taiwan more often uses 軟體.",
+    "simplification": "軟 was simplified to 软 in the PRC reform (車-series to 车), while 件 is unchanged; reduces stroke count and aligns with the hardware/software contrast."
+  },
+  "parts": [
+    {
+      "char": "软",
+      "trad": "軟",
+      "pinyin": "ruǎn",
+      "english": "soft; pliable; gentle; weak"
+    },
+    {
+      "char": "件",
+      "trad": "件",
+      "pinyin": "jiàn",
+      "english": "item; piece; classifier (events/clothes); part/component"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我需要安装这款软件(我需要安裝這款軟件)。",
+      "pinyin": "Wǒ xūyào ānzhuāng zhè kuǎn ruǎnjiàn.",
+      "english": "I need to install this software."
+    },
+    {
+      "chinese": "这个应用软件可以提高工作效率(這個應用軟件可以提高工作效率)。",
+      "pinyin": "Zhège yìngyòng ruǎnjiàn kěyǐ tígāo gōngzuò xiàolǜ.",
+      "english": "This application software can improve work efficiency."
+    },
+    {
+      "chinese": "与硬件相比(與硬件相比)，软件更新更频繁(軟件更新更頻繁)。",
+      "pinyin": "Yǔ yìngjiàn xiāngbǐ, ruǎnjiàn gēngxīn gèng pínfán.",
+      "english": "Compared to hardware, software updates more frequently."
+    }
+  ]
+}

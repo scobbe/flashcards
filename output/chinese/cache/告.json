@@ -1,0 +1,43 @@
+{
+  "simplified": "告",
+  "traditional": "告",
+  "pinyin": "gào",
+  "english": "to tell; to inform; to announce; to sue/accuse",
+  "etymology": {
+    "type": "unclear",
+    "description": "Unclear; Shuowen: 牛 + 口; Yu Xingwu: top component unrelated to 牛 per oracle bone and bronze inscriptions.",
+    "interpretation": "Analyses differ: the traditional view reads it as cow plus mouth, but early forms suggest the upper element is a distinct graph not meaning ‘cow’. The 口 component plausibly marks speech or proclamation, which fits senses like informing, announcing, or accusing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow; ox"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请及时告知我结果(請及時告知我結果)。",
+      "pinyin": "Qǐng jíshí gàozhī wǒ jiéguǒ.",
+      "english": "Please inform me of the result promptly."
+    },
+    {
+      "chinese": "他向法院起诉，告那家公司诈骗(他向法院起訴，告那家公司詐騙)。",
+      "pinyin": "Tā xiàng fǎyuàn qǐsù, gào nà jiā gōngsī zhàpiàn.",
+      "english": "He filed a lawsuit, accusing that company of fraud."
+    },
+    {
+      "chinese": "临别时，他轻声告诫我要小心(臨別時，他輕聲告誡我要小心)。",
+      "pinyin": "Línbié shí, tā qīngshēng gàojiè wǒ yào xiǎoxīn.",
+      "english": "At parting, he softly warned me to be careful."
+    }
+  ]
+}

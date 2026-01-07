@@ -1,0 +1,29 @@
+{
+  "simplified": "兔",
+  "traditional": "兔",
+  "pinyin": "tù",
+  "english": "rabbit",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a rabbit.",
+    "interpretation": "Originally a drawing of a rabbit with prominent ears and hind legs. The modern form has been stylized into regular strokes, but the silhouette still evokes the animal’s posture.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我家养了一只兔子(我家養了一隻兔子)。",
+      "pinyin": "Wǒ jiā yǎng le yì zhī tùzi.",
+      "english": "My family has a pet rabbit."
+    },
+    {
+      "chinese": "它最喜欢吃胡萝卜(它最喜歡吃胡蘿蔔)。",
+      "pinyin": "Tā zuì xǐhuan chī húluóbo.",
+      "english": "It likes eating carrots the most."
+    },
+    {
+      "chinese": "秋夜里(秋夜裡)，我们看见玉兔在月亮上奔跑(我們看見玉兔在月亮上奔跑)。",
+      "pinyin": "Qiū yè lǐ, wǒmen kànjiàn Yùtù zài yuèliàng shàng bēnpǎo.",
+      "english": "On an autumn night, we saw the Jade Rabbit running on the moon."
+    }
+  ]
+}

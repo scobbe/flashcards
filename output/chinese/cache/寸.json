@@ -1,0 +1,43 @@
+{
+  "simplified": "寸",
+  "traditional": "寸",
+  "pinyin": "cùn",
+  "english": "inch; hand",
+  "etymology": {
+    "type": "ideogram (指事)",
+    "description": "Indicative of the position on the forearm where the pulse is palpated (寸口); the unit sense derives from the wrist-to-point distance. Compare 又, 手, 九, 爪.",
+    "interpretation": "Depicts a wrist/hand with a small mark showing the pulse point (寸口). From the short span used to locate that point, it generalized to the unit meaning “inch,” and as a component it often relates to hand/action or small measures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; (archaic) right hand"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这块木板只有三寸厚(這塊木板只有三寸厚)。",
+      "pinyin": "Zhè kuài mùbǎn zhǐyǒu sān cùn hòu.",
+      "english": "This plank is only three inches thick."
+    },
+    {
+      "chinese": "医生在我的寸口上按脉(醫生在我的寸口上按脈)。",
+      "pinyin": "Yīshēng zài wǒ de cùnkǒu shàng àn mài.",
+      "english": "The doctor presses my pulse at the cun point."
+    },
+    {
+      "chinese": "城市里寸土寸金(城市裡寸土寸金)。",
+      "pinyin": "Chéngshì lǐ cùn tǔ cùn jīn.",
+      "english": "In the city, every inch of land is as precious as gold."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "浆",
+  "traditional": "漿",
+  "pinyin": "jiāng",
+  "english": "thick liquid; slurry; paste; starch solution",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 水 (“water”) + phonetic: 將.",
+    "interpretation": "Water marks the meaning domain of liquids or fluid mixtures, while 將 contributes the sound jiāng. The blend points to a water-based thick liquid such as paste, slurry, or starch solution.",
+    "simplification": "Traditional 漿 was simplified to 浆 by replacing the phonetic 將 with its simplified form 将 while retaining the water component."
+  },
+  "parts": [
+    {
+      "char": "将",
+      "trad": "將",
+      "pinyin": "jiāng/jiàng",
+      "english": "will; to take; general"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我把面粉和水调成浆(我把麵粉和水調成漿)。",
+      "pinyin": "Wǒ bǎ miànfěn hé shuǐ tiáo chéng jiāng.",
+      "english": "I mixed flour and water into a paste."
+    },
+    {
+      "chinese": "造纸厂把木屑煮成纸浆(造紙廠把木屑煮成紙漿)。",
+      "pinyin": "Zàozhǐchǎng bǎ mùxiè zhǔ chéng zhǐjiāng.",
+      "english": "The paper mill cooks wood chips into pulp."
+    },
+    {
+      "chinese": "豆浆要趁热喝(豆漿要趁熱喝)。",
+      "pinyin": "Dòujiāng yào chèn rè hē.",
+      "english": "Drink the soymilk while it’s hot."
+    }
+  ]
+}

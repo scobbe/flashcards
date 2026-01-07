@@ -1,0 +1,43 @@
+{
+  "simplified": "特",
+  "traditional": "特",
+  "pinyin": "tè",
+  "english": "special; particular; especially; express (train)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 牛 (ox) + phonetic: 寺 — large bull.",
+    "interpretation": "Combines the bovine semantic component 牛 with 寺 providing the sound. The original sense referred to a large or notable bull, which later extended metaphorically to meanings like “special” and appears in compounds such as 特别 and 特快.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "ox; cow"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "temple; monastery"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这趟特快列车今晚到达(這趟特快列車今晚到達)。",
+      "pinyin": "Zhè tàng tèkuài lièchē jīn wǎn dàodá.",
+      "english": "This express train arrives tonight."
+    },
+    {
+      "chinese": "他对我有特别的关心(他對我有特別的關心)。",
+      "pinyin": "Tā duì wǒ yǒu tèbié de guānxīn.",
+      "english": "He has special concern for me."
+    },
+    {
+      "chinese": "我们为她准备了一份特制的礼物(我們為她準備了一份特製的禮物)。",
+      "pinyin": "Wǒmen wèi tā zhǔnbèi le yí fèn tèzhì de lǐwù.",
+      "english": "We prepared a custom-made gift for her."
+    }
+  ]
+}

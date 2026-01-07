@@ -1,0 +1,49 @@
+{
+  "simplified": "燕",
+  "traditional": "燕",
+  "pinyin": "yàn",
+  "english": "swallow (bird); State of Yān (ancient); surname; northern region around Yan",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a swallow",
+    "interpretation": "Early forms sketched the bird with spread wings and a forked tail; later script styles stylized these features into the present structure. Its meaning broadened from the bird to the ancient State of Yān, the northern region associated with it, and a surname.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廿",
+      "trad": "廿",
+      "pinyin": "niàn",
+      "english": "twenty"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "北",
+      "trad": "北",
+      "pinyin": "běi",
+      "english": "north"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我看见一只燕子在屋檐下筑巢(我看見一隻燕子在屋簷下築巢)。",
+      "pinyin": "Wǒ kànjiàn yì zhī yànzi zài wūyán xià zhùcháo.",
+      "english": "I saw a swallow building a nest under the eaves."
+    },
+    {
+      "chinese": "战国时的燕国在今天的北京一带(戰國時的燕國在今天的北京一帶)。",
+      "pinyin": "Zhànguó shí de Yàn Guó zài jīntiān de Běijīng yídài.",
+      "english": "The State of Yan in the Warring States period was in the area of present-day Beijing."
+    },
+    {
+      "chinese": "他姓燕(他姓燕)。",
+      "pinyin": "Tā xìng Yàn.",
+      "english": "His surname is Yan."
+    }
+  ]
+}

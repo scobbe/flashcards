@@ -1,0 +1,43 @@
+{
+  "simplified": "小费",
+  "traditional": "小費",
+  "pinyin": "xiǎofèi",
+  "english": "tip; gratuity",
+  "etymology": {
+    "type": "compound word",
+    "description": "小 (small) + 费 (expense/fee) = a small fee given as a tip.",
+    "interpretation": "Refers to a modest additional payment given to service staff as a gratuity. Emphasizes a small expense beyond the main bill.",
+    "simplification": "Traditional 費 was simplified to 费 by replacing 貝 with 贝 and merging strokes around the phonetic 弗 to reduce complexity; 小 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small;little;minor;young"
+    },
+    {
+      "char": "费",
+      "trad": "費",
+      "pinyin": "fèi",
+      "english": "expense;fee;to spend;costly"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "在餐厅用餐后，我们给服务员小费(在餐廳用餐後，我們給服務員小費)。",
+      "pinyin": "Zài cāntīng yòngcān hòu, wǒmen gěi fúwùyuán xiǎofèi.",
+      "english": "After dining at the restaurant, we give the waiter a tip."
+    },
+    {
+      "chinese": "在一些国家，给小费是习惯(在一些國家，給小費是習慣)。",
+      "pinyin": "Zài yīxiē guójiā, gěi xiǎofèi shì xíguàn.",
+      "english": "In some countries, tipping is customary."
+    },
+    {
+      "chinese": "这家餐厅自动收取服务费，不必另付小费(這家餐廳自動收取服務費，不必另付小費)。",
+      "pinyin": "Zhè jiā cāntīng zìdòng shōuqǔ fúwùfèi, búbì lìng fù xiǎofèi.",
+      "english": "This restaurant automatically charges a service fee, so you don't need to pay an additional tip."
+    }
+  ]
+}

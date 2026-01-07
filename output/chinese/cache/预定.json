@@ -1,0 +1,43 @@
+{
+  "simplified": "预定",
+  "traditional": "预定",
+  "pinyin": "yùdìng",
+  "english": "schedule; book",
+  "etymology": {
+    "type": "compound word",
+    "description": "预(advance) + 定(set/fix) = set in advance → schedule; book.",
+    "interpretation": "Indicates fixing or arranging something ahead of time. Commonly used for reservations, bookings, and scheduling.",
+    "simplification": "Traditional 預定 → Simplified 预定: 預 was simplified to 预 by reducing the 頁 component (頁→页) and streamlining strokes; 定 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "预",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "beforehand; in advance; anticipate; prepare"
+    },
+    {
+      "char": "定",
+      "trad": "定",
+      "pinyin": "dìng",
+      "english": "set; decide; fix; certain"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们已经预定了明天的会议(我們已經預定了明天的會議)。",
+      "pinyin": "Wǒmen yǐjīng yùdìng le míngtiān de huìyì.",
+      "english": "We have already scheduled tomorrow’s meeting."
+    },
+    {
+      "chinese": "请帮我预定两张去上海的火车票(請幫我預定兩張去上海的火車票)。",
+      "pinyin": "Qǐng bāng wǒ yùdìng liǎng zhāng qù Shànghǎi de huǒchē piào.",
+      "english": "Please help me book two train tickets to Shanghai."
+    },
+    {
+      "chinese": "这家餐厅需要提前预定(這家餐廳需要提前預定)。",
+      "pinyin": "Zhè jiā cāntīng xūyào tíqián yùdìng.",
+      "english": "This restaurant requires advance reservation."
+    }
+  ]
+}

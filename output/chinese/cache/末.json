@@ -1,0 +1,43 @@
+{
+  "simplified": "末",
+  "traditional": "末",
+  "pinyin": "mò",
+  "english": "end; tip",
+  "etymology": {
+    "type": "Ideogram (指事)",
+    "description": "A tree (木) with its top highlighted by an extra stroke, indicating the apex; contrast 本, 朱.",
+    "interpretation": "Depicts a tree with an added line at the crown to single out the very top. By marking the furthest point upward, it extends to meanings like tip, end, or extremity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "期末考试就要到了，请好好复习(期末考試就要到了，請好好複習)。",
+      "pinyin": "Qīmò kǎoshì jiù yào dàole, qǐng hǎohǎo fùxí.",
+      "english": "The end-of-term exam is coming; please study well."
+    },
+    {
+      "chinese": "他在绳子的末端打了个结(他在繩子的末端打了個結)。",
+      "pinyin": "Tā zài shéngzi de mòduān dǎle gè jié.",
+      "english": "He tied a knot at the end of the rope."
+    },
+    {
+      "chinese": "年末公司会发奖金(年末公司會發獎金)。",
+      "pinyin": "Niánmò gōngsī huì fā jiǎngjīn.",
+      "english": "At the end of the year, the company gives out bonuses."
+    }
+  ]
+}

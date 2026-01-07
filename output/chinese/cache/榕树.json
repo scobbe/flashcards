@@ -1,0 +1,43 @@
+{
+  "simplified": "榕树",
+  "traditional": "榕樹",
+  "pinyin": "róngshù",
+  "english": "banyan tree",
+  "etymology": {
+    "type": "compound word",
+    "description": "榕 (banyan) + 树 (tree) = banyan tree; 榕 is phonosemantic (木 + 容).",
+    "interpretation": "Combines the specific species name 榕 with the generic 树 to mark it as a type of tree. Mirrors a common Chinese pattern for plant names (X + 树).",
+    "simplification": "樹 → 树 by replacing the complex phonetic 尌 with a 对-based form to reduce strokes; 榕 unchanged."
+  },
+  "parts": [
+    {
+      "char": "榕",
+      "trad": "榕",
+      "pinyin": "róng",
+      "english": "banyan; Ficus microcarpa; evergreen fig; used in place names (e.g., Fuzhou)"
+    },
+    {
+      "char": "树",
+      "trad": "樹",
+      "pinyin": "shù",
+      "english": "tree; to plant; to establish; to cultivate (virtue/reputation)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "村口有一棵古老的榕树(村口有一棵古老的榕樹)。",
+      "pinyin": "Cúnkǒu yǒu yī kē gǔlǎo de róngshù.",
+      "english": "At the village entrance stands an ancient banyan tree."
+    },
+    {
+      "chinese": "夏天时(夏天時)，榕树的树荫很浓(榕樹的樹蔭很濃)。",
+      "pinyin": "Xiàtiān shí, róngshù de shùyīn hěn nóng.",
+      "english": "In summer, the banyan's shade is very dense."
+    },
+    {
+      "chinese": "榕树的气根垂到地面(榕樹的氣根垂到地面)，像一道道帘子(像一道道簾子)。",
+      "pinyin": "Róngshù de qìgēn chuí dào dìmiàn, xiàng yī dào dào liánzi.",
+      "english": "The banyan’s aerial roots hang to the ground like rows of curtains."
+    }
+  ]
+}

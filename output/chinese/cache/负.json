@@ -1,0 +1,43 @@
+{
+  "simplified": "负",
+  "traditional": "負",
+  "pinyin": "fù",
+  "english": "to bear; to owe; to be defeated; to wrong",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "⺈ (“person”) + 貝 (“cowry”).",
+    "interpretation": "Depicts a person bearing a cowry shell on the back, conveying the idea of carrying or bearing. Because cowries were money, the sense extended to owing a debt, and by further extension in usage, to suffering defeat or being in the negative.",
+    "simplification": "Traditional 負 was simplified by replacing 貝 with its simplified form 贝, yielding 负; a regular component simplification."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; money; shell"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他愿意负起照顾父母的责任(他願意負起照顧父母的責任)。",
+      "pinyin": "Tā yuànyì fù qǐ zhàogù fùmǔ de zérèn.",
+      "english": "He is willing to take on the responsibility of caring for his parents."
+    },
+    {
+      "chinese": "他为了创业而负债累累(他為了創業而負債累累)。",
+      "pinyin": "Tā wèile chuàngyè ér fùzhài lěilěi.",
+      "english": "He is deep in debt because he started a business."
+    },
+    {
+      "chinese": "球队在客场以一球之差告负(球隊在客場以一球之差告負)。",
+      "pinyin": "Qiúduì zài kèchǎng yǐ yì qiú zhī chā gàofù.",
+      "english": "The team lost by one goal away from home."
+    }
+  ]
+}

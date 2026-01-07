@@ -1,0 +1,49 @@
+{
+  "simplified": "医",
+  "traditional": "醫",
+  "pinyin": "yī",
+  "english": "medicine; medical; to heal; doctor",
+  "etymology": {
+    "type": "Ideogrammic compound (会意) [医]; Phono-semantic compound (形声) [醫]",
+    "description": "医: ideogrammic — 匸 “that which hides/stores” + 矢 “arrow”. 醫: phono-semantic — semantic 酉 “liquor” + phonetic 殹.",
+    "interpretation": "In 医, an enclosed arrow evokes treating or extracting arrows from wounds, hence healing. In 醫, the wine vessel hints at alcohol used in remedies, while 殹 contributes the sound.",
+    "simplification": "PRC simplification adopted the older ideogram 医, dropping the 酉 ‘liquor’ and the phonetic 殹 from 醫 to reduce strokes and reflect an ancient form."
+  },
+  "parts": [
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    },
+    {
+      "char": "殹",
+      "trad": "殹",
+      "pinyin": "yì",
+      "english": "to groan; moan"
+    },
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "wine; the 10th Earthly Branch"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她是经验丰富的医生(她是經驗豐富的醫生)。",
+      "pinyin": "Tā shì jīngyàn fēngfù de yīshēng.",
+      "english": "She is an experienced doctor."
+    },
+    {
+      "chinese": "我在医院接受治疗(我在醫院接受治療)。",
+      "pinyin": "Wǒ zài yīyuàn jiēshòu zhìliáo.",
+      "english": "I received treatment at the hospital."
+    },
+    {
+      "chinese": "中医强调调养与预防(中醫強調調養與預防)。",
+      "pinyin": "Zhōngyī qiángdiào tiáoyǎng yǔ yùfáng.",
+      "english": "Traditional Chinese medicine emphasizes nurturing and prevention."
+    }
+  ]
+}

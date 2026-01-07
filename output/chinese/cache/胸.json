@@ -1,0 +1,43 @@
+{
+  "simplified": "胸",
+  "traditional": "胸",
+  "pinyin": "xiōng",
+  "english": "chest; bosom; heart (courage); broad-mindedness",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 肉 (“meat”) + phonetic: 匈 (OC *qʰoŋ); 匈 is the original form, with 肉 added later.",
+    "interpretation": "Meat/flesh (肉) signals a body-part meaning, while 匈 provides the sound xiōng. Historically, 匈 was used alone, and adding 肉 clarified that the sense specifically relates to the chest as part of the body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    },
+    {
+      "char": "匈",
+      "trad": "匈",
+      "pinyin": "xiōng",
+      "english": "Xiongnu; Hungary (abbr.)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他捂着胸口(他捂著胸口)，疼得直不起腰(疼得直不起腰)。",
+      "pinyin": "Tā wǔ zhe xiōngkǒu, téng de zhí bù qǐ yāo.",
+      "english": "He clutched his chest and was in so much pain he couldn’t straighten up."
+    },
+    {
+      "chinese": "医生听他的胸部(醫生聽他的胸部)，说没有问题(說沒有問題)。",
+      "pinyin": "Yīshēng tīng tā de xiōngbù, shuō méiyǒu wèntí.",
+      "english": "The doctor listened to his chest and said there was no problem."
+    },
+    {
+      "chinese": "她胸怀宽广(她胸懷寬廣)，总能理解别人(總能理解別人)。",
+      "pinyin": "Tā xiōnghuái kuānguǎng, zǒng néng lǐjiě biérén.",
+      "english": "She is broad-minded and can always understand others."
+    }
+  ]
+}

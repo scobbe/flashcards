@@ -1,0 +1,37 @@
+{
+  "simplified": "化",
+  "traditional": "化",
+  "pinyin": "huà",
+  "english": "transform; change; convert; -ization",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Two 人: one upright (亻) and one upside down (𠤎) indicating reversal/change; Shuowen also considers 𠤎 phonetic.",
+    "interpretation": "An upright person paired with an inverted person depicts reversal, conveying the idea of transformation or change. Some analyses treat 𠤎 as contributing sound, but the primary sense comes from the visual contrast.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; human"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们的计划需要变化(我們的計劃需要變化)。",
+      "pinyin": "Wǒmen de jìhuà xūyào biànhuà.",
+      "english": "Our plan needs to change."
+    },
+    {
+      "chinese": "城市正在快速现代化(城市正在快速現代化)。",
+      "pinyin": "Chéngshì zhèngzài kuàisù xiàndàihuà.",
+      "english": "The city is rapidly modernizing."
+    },
+    {
+      "chinese": "把废物转化为能源(把廢物轉化為能源)。",
+      "pinyin": "Bǎ fèiwù zhuǎnhuà wéi néngyuán.",
+      "english": "Convert waste into energy."
+    }
+  ]
+}

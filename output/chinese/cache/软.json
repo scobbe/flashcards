@@ -1,0 +1,43 @@
+{
+  "simplified": "软",
+  "traditional": "軟",
+  "pinyin": "ruǎn",
+  "english": "soft; pliable; gentle; weak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 車 (“carriage”) + phonetic 耎 (→ 欠); originally written 輭.",
+    "interpretation": "The left component 車 hints at the domain of wagons and hauling, evoking pliancy or weakness from wear and strain. The right side was the phonetic 耎, later replaced by 欠, which also suggests panting or fatigue, reinforcing the sense of softness/weakness.",
+    "simplification": "Component simplification: 車 → 车 while 欠 was kept, yielding 软."
+  },
+  "parts": [
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle; cart; car"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "owe; lack; yawn"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个枕头很软(這個枕頭很軟)。",
+      "pinyin": "Zhège zhěntou hěn ruǎn.",
+      "english": "This pillow is very soft."
+    },
+    {
+      "chinese": "天气热，巧克力变软了(天氣熱，巧克力變軟了)。",
+      "pinyin": "Tiānqì rè, qiǎokèlì biàn ruǎn le.",
+      "english": "When it’s hot, the chocolate softens."
+    },
+    {
+      "chinese": "她心肠很软(她心腸很軟)。",
+      "pinyin": "Tā xīncháng hěn ruǎn.",
+      "english": "She is soft‑hearted."
+    }
+  ]
+}

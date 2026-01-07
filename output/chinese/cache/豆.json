@@ -1,0 +1,43 @@
+{
+  "simplified": "豆",
+  "traditional": "豆",
+  "pinyin": "dòu",
+  "english": "bean; legume; soybean; pulse",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: some kind of container; later borrowed phonetically for ‘bean’; displaced Old Chinese 菽 (shū); unrelated to the bottom of 豊.",
+    "interpretation": "Originally depicted a lidded vessel or ceremonial container. Its sound was later borrowed to write the word for beans/legumes, supplanting the older term 菽, while the pictorial container form remained.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢吃黄豆和黑豆(我喜歡吃黃豆和黑豆)。",
+      "pinyin": "Wǒ xǐhuān chī huángdòu hé hēidòu.",
+      "english": "I like to eat soybeans and black beans."
+    },
+    {
+      "chinese": "这道甜品是用红豆煮成的(這道甜品是用紅豆煮成的)。",
+      "pinyin": "Zhè dào tiánpǐn shì yòng hóngdòu zhǔ chéng de.",
+      "english": "This dessert is made with red beans."
+    },
+    {
+      "chinese": "豆类富含蛋白质，对素食者很重要(豆類富含蛋白質，對素食者很重要)。",
+      "pinyin": "Dòulèi fùhán dànbáizhì, duì sùshízhě hěn zhòngyào.",
+      "english": "Legumes are rich in protein and are important for vegetarians."
+    }
+  ]
+}

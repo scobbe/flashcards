@@ -1,0 +1,43 @@
+{
+  "simplified": "岭",
+  "traditional": "嶺",
+  "pinyin": "lǐng",
+  "english": "mountain ridge; mountain range; mountain pass; hill",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 山 (“mountain”) + phonetic: 領 (OC *reŋʔ)",
+    "interpretation": "Combines the semantic 山 “mountain” with the phonetic 領/令 to indicate a meaning related to mountains while signaling the lǐng pronunciation. The sense naturally focuses on a ridge or pass along a mountain range where people travel or where regions are divided.",
+    "simplification": "Simplified from 嶺 by replacing the phonetic component 領 with 令 while retaining the mountain semantic, reducing strokes and aligning with the 令 phonetic series."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "command; order"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们越过一道险峻的山岭(我們越過一道險峻的山嶺)。",
+      "pinyin": "Wǒmen yuèguò yídào xiǎnjùn de shānlǐng.",
+      "english": "We crossed a steep mountain ridge."
+    },
+    {
+      "chinese": "这条公路穿过几道山岭(這條公路穿過幾道山嶺)。",
+      "pinyin": "Zhè tiáo gōnglù chuānguò jǐ dào shānlǐng.",
+      "english": "This road passes through several mountain ridges."
+    },
+    {
+      "chinese": "岭南气候温暖湿润(嶺南氣候溫暖濕潤)。",
+      "pinyin": "Lǐngnán qìhòu wēnnuǎn shīrùn.",
+      "english": "The Lingnan region has a warm and humid climate."
+    }
+  ]
+}

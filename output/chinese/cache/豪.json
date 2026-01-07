@@ -1,0 +1,43 @@
+{
+  "simplified": "豪",
+  "traditional": "豪",
+  "pinyin": "háo",
+  "english": "grand; extravagant; heroic",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "abbreviated phonetic 高 + semantic 豕 (pig, boar)",
+    "interpretation": "High 高 supplies the sound háo, while 豕 ‘boar’ contributes a semantic cue linked to boar bristles and vigor. Over time the sense broadened from associations of strength and prominence to ideas of grandeur, extravagance, and heroic spirit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "high; tall"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig; boar"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这家酒店很豪华(這家酒店很豪華)。",
+      "pinyin": "Zhè jiā jiǔdiàn hěn háohuá.",
+      "english": "This hotel is very luxurious."
+    },
+    {
+      "chinese": "他说话很豪气(他說話很豪氣)。",
+      "pinyin": "Tā shuōhuà hěn háoqì.",
+      "english": "He speaks with a bold, heroic air."
+    },
+    {
+      "chinese": "他们出手大方(他們出手大方)，十分豪迈(十分豪邁)。",
+      "pinyin": "Tāmen chūshǒu dàfāng, shífēn háomài.",
+      "english": "They are generous and very bold-spirited."
+    }
+  ]
+}

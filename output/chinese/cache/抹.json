@@ -1,0 +1,43 @@
+{
+  "simplified": "抹",
+  "traditional": "抹",
+  "pinyin": "mǒ",
+  "english": "to wipe; to smear; to apply; to erase",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 扌 + phonetic 末 (OC *maːd)",
+    "interpretation": "扌, the hand element, signals a manual action like wiping, applying, or erasing. 末 supplies the approximate sound mǒ, guiding pronunciation while the hand component points to its action-oriented meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "末",
+      "trad": "末",
+      "pinyin": "mò",
+      "english": "end; tip"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他把白漆抹在墙上(他把白漆抹在牆上)。",
+      "pinyin": "Tā bǎ báiqī mǒ zài qiáng shàng.",
+      "english": "He smeared white paint on the wall."
+    },
+    {
+      "chinese": "请把黑板上的字抹掉(請把黑板上的字抹掉)。",
+      "pinyin": "Qǐng bǎ hēibǎn shàng de zì mǒdiào.",
+      "english": "Please wipe off the words on the blackboard."
+    },
+    {
+      "chinese": "她用手轻轻抹去眼泪(她用手輕輕抹去眼淚)。",
+      "pinyin": "Tā yòng shǒu qīngqīng mǒqù yǎnlèi.",
+      "english": "She gently wiped away her tears with her hand."
+    }
+  ]
+}

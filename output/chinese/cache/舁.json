@@ -1,0 +1,43 @@
+{
+  "simplified": "舁",
+  "traditional": "舁",
+  "pinyin": "yú",
+  "english": "to lift; carry on the shoulders",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "semantic: 𦥑/臼 ‘pair of hands’ + semantic: 廾 ‘pair of hands’; upper was originally 𦥑, so 臼 as ‘mortar’ is a false friend.",
+    "interpretation": "Depicts two sets of hands working together to raise a load, conveying the act of lifting or carrying on the shoulders. The top was originally the hand component 𦥑, later misread as the mortar 臼.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "mortar"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands; to hold up"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "两人共舁重鼎(兩人共舁重鼎)。",
+      "pinyin": "Liǎng rén gòng yú zhòng dǐng.",
+      "english": "Two people together hoisted a heavy ding."
+    },
+    {
+      "chinese": "士卒舁伤者而行(士卒舁傷者而行)。",
+      "pinyin": "Shìzú yú shāngzhě ér xíng.",
+      "english": "The soldiers carried the wounded and moved on."
+    },
+    {
+      "chinese": "民夫舁柴入城(民夫舁柴入城)。",
+      "pinyin": "Mínfū yú chái rù chéng.",
+      "english": "Porters carried firewood into the city."
+    }
+  ]
+}

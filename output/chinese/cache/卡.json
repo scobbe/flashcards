@@ -1,0 +1,43 @@
+{
+  "simplified": "卡",
+  "traditional": "卡",
+  "pinyin": "kǎ",
+  "english": "card; checkpoint; calorie (abbr.); punch card",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "上 ‘up’ + 下 ‘down’; fused horizontal lines depict being squeezed between above and below.",
+    "interpretation": "Combining 上 and 下 evokes opposite forces pressing together, with the merged line suggesting a tight fit or obstruction. This imagery aligns with senses like a slotted card or a controlled checkpoint, where passage or insertion is constrained.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "上",
+      "trad": "上",
+      "pinyin": "shàng",
+      "english": "up"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "down"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我办了一张会员卡(我辦了一張會員卡)。",
+      "pinyin": "Wǒ bàn le yì zhāng huìyuán kǎ.",
+      "english": "I applied for a membership card."
+    },
+    {
+      "chinese": "警察在路口设卡检查(警察在路口設卡檢查)。",
+      "pinyin": "Jǐngchá zài lùkǒu shè kǎ jiǎnchá.",
+      "english": "The police set up a checkpoint at the intersection to inspect vehicles."
+    },
+    {
+      "chinese": "他每天八点打卡上班(他每天八點打卡上班)。",
+      "pinyin": "Tā měitiān bā diǎn dǎkǎ shàngbān.",
+      "english": "He clocks in at work at eight every day."
+    }
+  ]
+}

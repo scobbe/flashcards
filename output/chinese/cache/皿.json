@@ -1,0 +1,29 @@
+{
+  "simplified": "皿",
+  "traditional": "皿",
+  "pinyin": "mǐn",
+  "english": "dish; vessel",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: empty container/chalice; handles conjoined in the modern form",
+    "interpretation": "Depicts an empty vessel, like a bowl or chalice seen from above. Over time, the side handles merged into the compact dish shape used today.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这些玻璃器皿需要小心清洗(這些玻璃器皿需要小心清洗)。",
+      "pinyin": "Zhèxiē bōli qìmǐn xūyào xiǎoxīn qīngxǐ.",
+      "english": "These glass vessels need to be cleaned carefully."
+    },
+    {
+      "chinese": "科学家把样本放进培养皿观察(科學家把樣本放進培養皿觀察)。",
+      "pinyin": "Kēxuéjiā bǎ yàngběn fàngjìn péiyǎng mǐn guānchá.",
+      "english": "The scientist placed the sample in a Petri dish to observe it."
+    },
+    {
+      "chinese": "厨房里的器皿摆放得很整齐(廚房裡的器皿擺放得很整齊)。",
+      "pinyin": "Chúfáng lǐ de qìmǐn bǎifàng de hěn zhěngqí.",
+      "english": "The kitchen vessels are arranged very neatly."
+    }
+  ]
+}

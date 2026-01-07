@@ -1,0 +1,43 @@
+{
+  "simplified": "动",
+  "traditional": "動",
+  "pinyin": "dòng",
+  "english": "to move; movement; to stir/touch; to set in motion",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 力 (“strength”) + phonetic: 重; simplified from 動 (重 → 云).",
+    "interpretation": "Combines the idea of strength (力) with the heavy/weighty phonetic 重, evoking exerting force to move something substantial. In simplification, 重 was reduced to 云 for ease of writing, while the semantic cue 力 still signals physical action and the phonetic link became less transparent.",
+    "simplification": "重 was replaced by 云 to reduce stroke count and regularize the component across several simplified forms; semantics via 力 were preserved but the phonetic cue weakened."
+  },
+  "parts": [
+    {
+      "char": "云",
+      "trad": "雲",
+      "pinyin": "yún",
+      "english": "cloud"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength; force"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请不要随便动我的电脑(請不要隨便動我的電腦)。",
+      "pinyin": "Qǐng búyào suíbiàn dòng wǒ de diànnǎo.",
+      "english": "Please don’t casually touch/move my computer."
+    },
+    {
+      "chinese": "风一吹，窗帘就动了(風一吹，窗簾就動了)。",
+      "pinyin": "Fēng yī chuī, chuānglián jiù dòng le.",
+      "english": "When the wind blows, the curtains start to move."
+    },
+    {
+      "chinese": "这部电影太感人了，把我都感动了(這部電影太感人了，把我都感動了)。",
+      "pinyin": "Zhè bù diànyǐng tài gǎnrén le, bǎ wǒ dōu gǎndòng le.",
+      "english": "This movie was so touching it moved me emotionally."
+    }
+  ]
+}

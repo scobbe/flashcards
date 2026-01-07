@@ -1,0 +1,37 @@
+{
+  "simplified": "遥",
+  "traditional": "遙",
+  "pinyin": "yáo",
+  "english": "distant;far;remote;long-distance",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 辶 ‘walk, movement’ + phonetic 肴 (yáo).",
+    "interpretation": "The movement radical hints at travel or paths, suggesting distance or going afar. 肴 supplies the sound yáo; together they convey the idea of going a long way, hence “distant/remote.”",
+    "simplification": "Traditional 遙’s complex right-side component was replaced with the simpler, clearly phonetic 肴 to reduce strokes and better reflect the pronunciation; the 辶 component was retained."
+  },
+  "parts": [
+    {
+      "char": "肴",
+      "trad": "肴",
+      "pinyin": "yáo",
+      "english": "dish; prepared food"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们进行一次遥控测试(我們進行一次遙控測試)。",
+      "pinyin": "Wǒmen jìnxíng yī cì yáokòng cèshì.",
+      "english": "We conducted a remote-control test."
+    },
+    {
+      "chinese": "他住在遥远的山村(他住在遙遠的山村)。",
+      "pinyin": "Tā zhù zài yáoyuǎn de shāncūn.",
+      "english": "He lives in a remote mountain village."
+    },
+    {
+      "chinese": "遥感技术让我们观察地球(遙感技術讓我們觀察地球)。",
+      "pinyin": "Yáogǎn jìshù ràng wǒmen guānchá dìqiú.",
+      "english": "Remote sensing technology lets us observe the Earth."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "甜菜",
+  "traditional": "甜菜",
+  "pinyin": "tiáncài",
+  "english": "beet",
+  "etymology": {
+    "type": "compound word",
+    "description": "甜(sweet) + 菜(vegetable/edible plant) = beet/sugar beet.",
+    "interpretation": "Literally “sweet vegetable,” naming the beet—especially the sugar beet—because of its high sugar content; in food contexts it can also refer to beetroot (often 甜菜根/紅甜菜).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甜",
+      "trad": "甜",
+      "pinyin": "tián",
+      "english": "sweet; sugary; honeyed; pleasing"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine; greens"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "甜菜主要用来制糖(甜菜主要用來製糖)，在北方种植广泛(在北方種植廣泛)。",
+      "pinyin": "Tiáncài zhǔyào yònglái zhìtáng, zài Běifāng zhòngzhí guǎngfàn.",
+      "english": "Beets (especially sugar beets) are mainly used for sugar production and are widely cultivated in the north."
+    },
+    {
+      "chinese": "我们把甜菜根切片做沙拉(我們把甜菜根切片做沙拉)。",
+      "pinyin": "Wǒmen bǎ tiáncài gēn qiēpiàn zuò shālā.",
+      "english": "We slice beetroot to make a salad."
+    },
+    {
+      "chinese": "红甜菜颜色鲜红(紅甜菜顏色鮮紅)，味道微甜(味道微甜)。",
+      "pinyin": "Hóng tiáncài yánsè xiānhóng, wèidào wēitián.",
+      "english": "Red beets are bright red and mildly sweet."
+    }
+  ]
+}

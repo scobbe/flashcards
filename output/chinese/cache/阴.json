@@ -1,0 +1,43 @@
+{
+  "simplified": "阴",
+  "traditional": "陰",
+  "pinyin": "yīn",
+  "english": "shade; overcast; yin (feminine/negative); hidden",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 阜 + phonetic 侌 (yīn); simplified from 陰 by replacing 侌 with 月.",
+    "interpretation": "阝 (from 阜) points to slopes/embankments, evoking the shaded side of a hill and by extension darkness, overcast weather, or concealment. 侌 originally provided the sound yīn and a notion of covering; after simplification to 月, the semantic idea persisted while the original phonetic cue was largely lost.",
+    "simplification": "Adopted in 1956 by replacing the phonetic 侌 with the simpler and common component 月, reducing strokes and following an attested popular variant; 阝 preserves the semantic link to 阜."
+  },
+  "parts": [
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound; hill"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon; month"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天阴天，气温下降了(今天陰天，氣溫下降了)。",
+      "pinyin": "Jīntiān yīntiān, qìwēn xiàjiàng le.",
+      "english": "It’s overcast today, and the temperature has dropped."
+    },
+    {
+      "chinese": "我们坐在树下的阴影里休息(我們坐在樹下的陰影裡休息)。",
+      "pinyin": "Wǒmen zuò zài shù xià de yīnyǐng lǐ xiūxi.",
+      "english": "We rested in the shade under the tree."
+    },
+    {
+      "chinese": "中医讲求阴阳平衡(中醫講求陰陽平衡)。",
+      "pinyin": "Zhōngyī jiǎngqiú yīnyáng pínghéng.",
+      "english": "Traditional Chinese medicine emphasizes the balance of yin and yang."
+    }
+  ]
+}

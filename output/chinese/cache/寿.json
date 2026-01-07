@@ -1,0 +1,55 @@
+{
+  "simplified": "寿",
+  "traditional": "壽",
+  "pinyin": "shòu",
+  "english": "longevity",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 耂 ‘old’ + phonetic: 𢏚; sometimes with decorative 口 or 口 and 又 (又 later became 寸 in 壽).",
+    "interpretation": "Meaning draws on the ‘old’ element to denote long life, while 𢏚 supplies the sound. Early forms sometimes added 口 and 又 as ornamentation, with 又 later regularized as 寸 in the traditional form. The simplified form drops these ornamental elements for a cleaner structure.",
+    "simplification": "Adopted an existing abbreviated/ancient variant 寿 that omits the decorative 口 and compresses the interior into a 寸-based shape, greatly reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; hand"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "祝你长寿(祝你長壽)。",
+      "pinyin": "Zhù nǐ chángshòu.",
+      "english": "Wish you longevity."
+    },
+    {
+      "chinese": "吸烟会影响寿命(吸煙會影響壽命)。",
+      "pinyin": "Xīyān huì yǐngxiǎng shòumìng.",
+      "english": "Smoking can affect lifespan."
+    },
+    {
+      "chinese": "寿比南山，福如东海(壽比南山，福如東海)。",
+      "pinyin": "Shòu bǐ Nánshān, fú rú Dōnghǎi.",
+      "english": "May your longevity be as the South Mountain and your fortune as the Eastern Sea."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "邑",
+  "traditional": "邑",
+  "pinyin": "yì",
+  "english": "city; town; settlement",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic compound: 囗 ‘enclosure; city wall’ + 卪 ‘kneeling person’; bottom part unrelated to 巴 and top most likely unrelated to original 丁.",
+    "interpretation": "Combines a walled enclosure with a person to depict a community where people live or gather within protective walls. By showing someone inside fortifications, it evokes the idea of a town or settlement organized around its walls and civic center.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卪",
+      "trad": "卪",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古代诸侯在其邑中修筑城墙(古代諸侯在其邑中修築城牆)。",
+      "pinyin": "Gǔdài zhūhóu zài qí yì zhōng xiūzhù chéngqiáng.",
+      "english": "In ancient times, feudal lords built city walls within their settlements."
+    },
+    {
+      "chinese": "此邑临河(此邑臨河)，贸易兴盛(貿易興盛)。",
+      "pinyin": "Cǐ yì lín hé, màoyì xīngshèng.",
+      "english": "This town lies by a river, and trade flourishes."
+    },
+    {
+      "chinese": "史书记载此邑曾为郡治(史書記載此邑曾為郡治)。",
+      "pinyin": "Shǐshū jìzǎi cǐ yì céng wéi jùnzhì.",
+      "english": "Historical records note this settlement once served as a commandery seat."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "橙汁",
+  "traditional": "橙汁",
+  "pinyin": "chéngzhī",
+  "english": "orange juice",
+  "etymology": {
+    "type": "compound word",
+    "description": "橙 (orange) + 汁 (juice) = orange juice",
+    "interpretation": "Combines the fruit name with the extracted liquid to denote juice made from oranges. Used for both freshly squeezed and packaged beverages.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "橙",
+      "trad": "橙",
+      "pinyin": "chéng",
+      "english": "orange (fruit); orange (color); orange tree; citrus"
+    },
+    {
+      "char": "汁",
+      "trad": "汁",
+      "pinyin": "zhī",
+      "english": "juice; liquid; sap; gravy"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "早上我喜欢喝一杯橙汁(早上我喜歡喝一杯橙汁)。",
+      "pinyin": "Zǎoshang wǒ xǐhuan hē yí bēi chéngzhī.",
+      "english": "In the morning I like to drink a glass of orange juice."
+    },
+    {
+      "chinese": "你要不要冰的橙汁(你要不要冰的橙汁)。",
+      "pinyin": "Nǐ yào bù yào bīng de chéngzhī.",
+      "english": "Do you want orange juice with ice?"
+    },
+    {
+      "chinese": "这家店的鲜榨橙汁很受欢迎(這家店的鮮榨橙汁很受歡迎)。",
+      "pinyin": "Zhè jiā diàn de xiānzhà chéngzhī hěn shòu huānyíng.",
+      "english": "The freshly squeezed orange juice at this shop is very popular."
+    }
+  ]
+}

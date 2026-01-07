@@ -1,0 +1,43 @@
+{
+  "simplified": "式",
+  "traditional": "式",
+  "pinyin": "shì",
+  "english": "pattern; style; formula",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 工 (work) + phonetic: 弋",
+    "interpretation": "工 suggests ideas of work, construction, and method, pointing toward senses like pattern, standard, or procedure. 弋 supplied the sound, whose ancient pronunciation approximated that of 式; the graph later generalized to mean a fixed method, style, or formula.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; labor; craft"
+    },
+    {
+      "char": "弋",
+      "trad": "弋",
+      "pinyin": "yì",
+      "english": "to shoot; capture"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这种教学方式很有效(這種教學方式很有效)。",
+      "pinyin": "Zhè zhǒng jiàoxué fāngshì hěn yǒuxiào.",
+      "english": "This teaching method is very effective."
+    },
+    {
+      "chinese": "我们用了新的公式来计算结果(我們用了新的公式來計算結果)。",
+      "pinyin": "Wǒmen yòngle xīn de gōngshì lái jìsuàn jiéguǒ.",
+      "english": "We used a new formula to calculate the result."
+    },
+    {
+      "chinese": "设计要保持简洁的样式(設計要保持簡潔的樣式)。",
+      "pinyin": "Shèjì yào bǎochí jiǎnjié de yàngshì.",
+      "english": "The design should maintain a simple style."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "戊",
+  "traditional": "戊",
+  "pinyin": "wù",
+  "english": "5th heavenly stem; weapon/halberd",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a halberd",
+    "interpretation": "Depicts a stylized polearm with a blade and shaft. Early forms resemble an actual weapon, which was later regularized into the compact modern strokes.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "公历2018年是戊戌年(公曆2018年是戊戌年)。",
+      "pinyin": "Gōnglì èr líng yī bā nián shì Wùxū nián.",
+      "english": "The year 2018 in the Gregorian calendar was the Wuxu year."
+    },
+    {
+      "chinese": "“戊”是天干的第五位(「戊」是天干的第五位)。",
+      "pinyin": "“Wù” shì tiāngān de dì wǔ wèi.",
+      "english": "“Wù” is the fifth of the Heavenly Stems."
+    },
+    {
+      "chinese": "古文中“戊”也象形为戈矛之兵器(古文中「戊」也象形為戈矛之兵器)。",
+      "pinyin": "Gǔwén zhōng “Wù” yě xiàngxíng wéi gēmáo zhī bīngqì.",
+      "english": "In classical texts, “wù” also pictographically represents a halberd-like weapon."
+    }
+  ]
+}

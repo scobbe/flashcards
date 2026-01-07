@@ -1,0 +1,43 @@
+{
+  "simplified": "芦",
+  "traditional": "蘆",
+  "pinyin": "lú",
+  "english": "reed; bulrush; (in 葫芦) gourd; reed plant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 “plant” + phonetic: 户 (hù) [simplified]; semantic: 艹 “plant” + phonetic: 盧 (OC *b·raː) [traditional]",
+    "interpretation": "艹 marks it as a plant, while the phonetic component supplies the sound value toward lú. Traditional writes the phonetic as 盧, and the simplified form replaces it with the simpler 户, preserving pronunciation and category.",
+    "simplification": "Replaced the complex phonetic 盧 with the simpler 户 in the 盧-phonetic series (e.g., 蘆→芦), reducing strokes while keeping the reading and meaning."
+  },
+  "parts": [
+    {
+      "char": "户",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door; household"
+    },
+    {
+      "char": "盧",
+      "trad": "盧",
+      "pinyin": "lú",
+      "english": "Lu (surname); black"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "河边长满了芦苇(河邊長滿了蘆葦)。",
+      "pinyin": "Hébiān zhǎngmǎn le lúwěi.",
+      "english": "Reeds grow thick along the riverbank."
+    },
+    {
+      "chinese": "他用芦笙演奏民歌(他用蘆笙演奏民歌)。",
+      "pinyin": "Tā yòng lúshēng yǎnzòu míngē.",
+      "english": "He played folk songs on the lusheng (reed-pipe)."
+    },
+    {
+      "chinese": "我们买了一个葫芦(我們買了一個葫蘆)。",
+      "pinyin": "Wǒmen mǎile yí gè húlu.",
+      "english": "We bought a gourd."
+    }
+  ]
+}

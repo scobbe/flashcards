@@ -1,0 +1,37 @@
+{
+  "simplified": "竹",
+  "traditional": "竹",
+  "pinyin": "zhú",
+  "english": "bamboo",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Two bamboo stalks with leaves; earlier forms resembled 个 + 个, and the modern form resembles ケ + ケ or 亇 + 亇.",
+    "interpretation": "Depicts two slender bamboo stalks with small leaves, evoking a clump of bamboo. The paired-stalk layout remained in the standardized form even though the shapes now look like repeating components.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "个",
+      "trad": "個",
+      "pinyin": "gè",
+      "english": "individual; general classifier"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "竹子在风中摇摆(竹子在風中搖擺)。",
+      "pinyin": "Zhúzi zài fēng zhōng yáobǎi.",
+      "english": "The bamboo sways in the wind."
+    },
+    {
+      "chinese": "我用竹筷吃饭(我用竹筷吃飯)。",
+      "pinyin": "Wǒ yòng zhúkuài chīfàn.",
+      "english": "I eat with bamboo chopsticks."
+    },
+    {
+      "chinese": "山谷里有一片竹林(山谷裡有一片竹林)。",
+      "pinyin": "Shāngǔ lǐ yǒu yī piàn zhúlín.",
+      "english": "There is a bamboo grove in the valley."
+    }
+  ]
+}

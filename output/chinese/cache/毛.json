@@ -1,0 +1,29 @@
+{
+  "simplified": "毛",
+  "traditional": "毛",
+  "pinyin": "máo",
+  "english": "hair",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – feather or hair.",
+    "interpretation": "Originally a sketch of a tuft of hair or a feather, with strokes suggesting individual strands. The modern form is a streamlined version that still conveys the idea of fine hair or down.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他头上有很多细毛(他頭上有很多細毛)。",
+      "pinyin": "Tā tóu shàng yǒu hěn duō xì máo.",
+      "english": "He has a lot of fine hair on his head."
+    },
+    {
+      "chinese": "猫的毛很软(貓的毛很軟)。",
+      "pinyin": "Māo de máo hěn ruǎn.",
+      "english": "A cat’s fur is very soft."
+    },
+    {
+      "chinese": "他连一根毛也没动(他連一根毛也沒動)。",
+      "pinyin": "Tā lián yì gēn máo yě méi dòng.",
+      "english": "He didn’t move a single hair."
+    }
+  ]
+}

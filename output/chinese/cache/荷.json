@@ -1,0 +1,43 @@
+{
+  "simplified": "荷",
+  "traditional": "荷",
+  "pinyin": "hé",
+  "english": "lotus; to carry on the shoulder; to shoulder; burden",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 艸 ‘grass; plant’ + phonetic: 何",
+    "interpretation": "Plant element 艸 indicates a botanical meaning, fitting the lotus sense. 何 provides the sound (hé) and also supports the alternate reading hè seen in compounds about carrying or loads.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "何",
+      "trad": "何",
+      "pinyin": "hé",
+      "english": "what; which"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plants"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "池塘里开满了荷花(池塘裡開滿了荷花)。",
+      "pinyin": "Chítáng lǐ kāi mǎn le héhuā.",
+      "english": "The pond is full of blooming lotuses."
+    },
+    {
+      "chinese": "风吹过，荷叶轻轻摇摆(風吹過，荷葉輕輕搖擺)。",
+      "pinyin": "Fēng chuī guò, héyè qīngqīng yáobǎi.",
+      "english": "The wind blew by, and the lotus leaves swayed gently."
+    },
+    {
+      "chinese": "士兵荷枪实弹(士兵荷槍實彈)。",
+      "pinyin": "Shìbīng hè qiāng shídàn.",
+      "english": "The soldiers are armed with live ammunition."
+    }
+  ]
+}

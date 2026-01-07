@@ -1,0 +1,55 @@
+{
+  "simplified": "淮海地区",
+  "traditional": "淮海地區",
+  "pinyin": "Huáihǎi dìqū",
+  "english": "Huaihai region",
+  "etymology": {
+    "type": "compound word",
+    "description": "淮(Huai River) + 海(sea) + 地区(region) = the Huai–Sea region.",
+    "interpretation": "Names the geographic-cultural area centered on the Huai River basin and the Yellow Sea coast, roughly covering northern Jiangsu and northern Anhui. Common in geography, planning, and economic contexts such as 淮海经济区.",
+    "simplification": "Only 地區→地区 changed via 區→区, simplified to reduce strokes and standardize a frequent suffix for administrative areas."
+  },
+  "parts": [
+    {
+      "char": "淮",
+      "trad": "淮",
+      "pinyin": "Huái",
+      "english": "Huai River; Huai region; river name; toponymic prefix"
+    },
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea; ocean; great number; maritime"
+    },
+    {
+      "char": "地",
+      "trad": "地",
+      "pinyin": "dì",
+      "english": "earth; ground; land; place"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; district; region; division"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "淮海地区气候湿润(淮海地區氣候濕潤)，适合种植小麦和水稻(適合種植小麥和水稻)。",
+      "pinyin": "Huáihǎi dìqū qìhòu shīrùn, shìhé zhòngzhí xiǎomài hé shuǐdào.",
+      "english": "The Huaihai region has a humid climate, suitable for growing wheat and rice."
+    },
+    {
+      "chinese": "他在淮海地区做市场调研(他在淮海地區做市場調研)。",
+      "pinyin": "Tā zài Huáihǎi dìqū zuò shìchǎng diàoyán.",
+      "english": "He conducts market research in the Huaihai region."
+    },
+    {
+      "chinese": "历史课提到淮海战役与淮海地区的地理(歷史課提到淮海戰役與淮海地區的地理)。",
+      "pinyin": "Lìshǐ kè tídào Huáihǎi zhànyì yǔ Huáihǎi dìqū de dìlǐ.",
+      "english": "History class mentioned the Huaihai Campaign and the region’s geography."
+    }
+  ]
+}

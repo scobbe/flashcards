@@ -1,0 +1,43 @@
+{
+  "simplified": "空",
+  "traditional": "空",
+  "pinyin": "kōng",
+  "english": "empty; sky",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 穴 ‘cave, hole’ + phonetic: 工",
+    "interpretation": "穴 signals the idea of a hollow or cavity, pointing to emptiness or open space, while 工 supplies a similar sound. The combination evokes a hollow void, which naturally extended to the vast open expanse above, hence the sense ‘sky’.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "穴",
+      "trad": "穴",
+      "pinyin": "xué",
+      "english": "cave; hole"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; craft"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "天空很蓝(天空很藍)。",
+      "pinyin": "Tiānkōng hěn lán.",
+      "english": "The sky is very blue."
+    },
+    {
+      "chinese": "这个箱子是空的(這個箱子是空的)。",
+      "pinyin": "Zhège xiāngzi shì kōng de.",
+      "english": "This box is empty."
+    },
+    {
+      "chinese": "房间里还空着两张床(房間裡還空著兩張床)。",
+      "pinyin": "Fángjiān lǐ hái kōngzhe liǎng zhāng chuáng.",
+      "english": "There are still two empty beds in the room."
+    }
+  ]
+}

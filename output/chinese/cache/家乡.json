@@ -1,0 +1,43 @@
+{
+  "simplified": "家乡",
+  "traditional": "家鄉",
+  "pinyin": "jiāxiāng",
+  "english": "hometown",
+  "etymology": {
+    "type": "compound word",
+    "description": "家(home; family) + 乡(native place; countryside) = hometown",
+    "interpretation": "Combines the idea of one’s home/family with one’s native place to refer to where a person comes from. Conveys emotional attachment to the place of origin.",
+    "simplification": "乡 is the simplified form of 鄉, adopted to reduce stroke count and standardize the frequent 乡 component for easier, faster writing."
+  },
+  "parts": [
+    {
+      "char": "家",
+      "trad": "家",
+      "pinyin": "jiā",
+      "english": "home; family; household; expert"
+    },
+    {
+      "char": "乡",
+      "trad": "鄉",
+      "pinyin": "xiāng",
+      "english": "countryside; native place; township; rustic"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我很想念我的家乡(我很想念我的家鄉)。",
+      "pinyin": "Wǒ hěn xiǎngniàn wǒ de jiāxiāng.",
+      "english": "I really miss my hometown."
+    },
+    {
+      "chinese": "他大学毕业后回到家乡(他大學畢業後回到家鄉)，在那儿工作(在那兒工作)。",
+      "pinyin": "Tā dàxué bìyè hòu huídào jiāxiāng, zài nàr gōngzuò.",
+      "english": "After graduating from college, he returned to his hometown and worked there."
+    },
+    {
+      "chinese": "家乡的味道让人难忘(家鄉的味道讓人難忘)。",
+      "pinyin": "Jiāxiāng de wèidào ràng rén nánwàng.",
+      "english": "The flavors of home are unforgettable."
+    }
+  ]
+}

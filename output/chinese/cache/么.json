@@ -1,0 +1,43 @@
+{
+  "simplified": "么",
+  "traditional": "麼",
+  "pinyin": "me",
+  "english": "interrogative/final suffix; what (suffix); how (as in 多么); tiny (archaic)",
+  "etymology": {
+    "type": "phono-semantic compound (traditional 麼); simplified 么 is a variant of 幺",
+    "description": "semantic: 幺 (‘small, tiny’) + phonetic: 麻; 么 is listed as a variant of 幺.",
+    "interpretation": "In the traditional form 麼, 麻 provides the sound value (ma), while 幺 contributes the meaning of smallness or indeterminacy. This semantic nuance helped it develop into a neutral suffix and interrogative/degree particle; the simplified 么 reduces the complex form to a variant shaped like 幺 for ease of writing.",
+    "simplification": "Replaced complex 麼 with the simpler 么 (a variant of 幺), reducing strokes and retaining the suffixal/particle function in modern usage."
+  },
+  "parts": [
+    {
+      "char": "麻",
+      "trad": "麻",
+      "pinyin": "má",
+      "english": "hemp; numb"
+    },
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "tiny; youngest; one (in dice calls)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你在做什么(你在做什麼)。",
+      "pinyin": "Nǐ zài zuò shénme.",
+      "english": "What are you doing?"
+    },
+    {
+      "chinese": "这道题多么难(這道題多麼難)。",
+      "pinyin": "Zhè dào tí duōme nán.",
+      "english": "How difficult this problem is."
+    },
+    {
+      "chinese": "为什么这么晚才来(為什麼這麼晚才來)。",
+      "pinyin": "Wèishénme zhème wǎn cái lái.",
+      "english": "Why did you come so late?"
+    }
+  ]
+}

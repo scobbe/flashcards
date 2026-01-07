@@ -1,0 +1,43 @@
+{
+  "simplified": "跑步",
+  "traditional": "跑步",
+  "pinyin": "pǎobù",
+  "english": "run; jog",
+  "etymology": {
+    "type": "verb-object compound",
+    "description": "跑 + 步 = run + steps → to run/jog.",
+    "interpretation": "Combines the action 'run' with 'steps' to emphasize moving by taking running steps. Often behaves as a separable verb-object (离合词).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "跑",
+      "trad": "跑",
+      "pinyin": "pǎo",
+      "english": "run; flee; run about; leak (gas)"
+    },
+    {
+      "char": "步",
+      "trad": "步",
+      "pinyin": "bù",
+      "english": "step; pace; walk; stage"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天早上跑步半小时(我每天早上跑步半小時)。",
+      "pinyin": "Wǒ měitiān zǎoshang pǎobù bàn xiǎoshí.",
+      "english": "I jog for half an hour every morning."
+    },
+    {
+      "chinese": "医生建议我饭后慢慢跑步(醫生建議我飯後慢慢跑步)。",
+      "pinyin": "Yīshēng jiànyì wǒ fànhòu mànman pǎobù.",
+      "english": "The doctor suggests that I jog slowly after meals."
+    },
+    {
+      "chinese": "他不喜欢在雨天跑步(他不喜歡在雨天跑步)，所以改在室内锻炼(所以改在室內鍛鍊)。",
+      "pinyin": "Tā bù xǐhuan zài yǔtiān pǎobù, suǒyǐ gǎi zài shìnèi duànliàn.",
+      "english": "He doesn't like running on rainy days, so he switched to exercising indoors."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "各",
+  "traditional": "各",
+  "pinyin": "gè",
+  "english": "each; every",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "夂 (“sole of foot”) + 口 (mouth/entrance) — ‘to come, to enter’; original form of 𢓜 and 格.",
+    "interpretation": "A foot moving toward an opening evokes the idea of approaching or entering an entrance. Over time it was borrowed and repurposed for the distributive meaning “each,” while the older motion sense continued in related graphs like 格.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "夂",
+      "trad": "夂",
+      "pinyin": "zhǐ",
+      "english": "go; walk slowly"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "各位请入座(各位請入座)。",
+      "pinyin": "Gèwèi qǐng rùzuò.",
+      "english": "Everyone, please be seated."
+    },
+    {
+      "chinese": "我们来自各地(我們來自各地)。",
+      "pinyin": "Wǒmen láizì gèdì.",
+      "english": "We come from all over."
+    },
+    {
+      "chinese": "各种方案各有优缺点(各種方案各有優缺點)。",
+      "pinyin": "Gèzhǒng fāng'àn gè yǒu yōuquēdiǎn.",
+      "english": "Each option has its strengths and weaknesses."
+    }
+  ]
+}

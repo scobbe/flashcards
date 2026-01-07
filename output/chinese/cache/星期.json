@@ -1,0 +1,43 @@
+{
+  "simplified": "星期",
+  "traditional": "星期",
+  "pinyin": "xīngqī",
+  "english": "week; weekday",
+  "etymology": {
+    "type": "compound word",
+    "description": "星 + 期 = star/celestial body + period/time → week; weekday marker.",
+    "interpretation": "Literally “star period,” pointing to a time unit associated with celestial cycles. In modern usage it means “week” and, with a numeral, forms weekday names (e.g., 星期一).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star; heavenly body; starlight; small amount"
+    },
+    {
+      "char": "期",
+      "trad": "期",
+      "pinyin": "qī",
+      "english": "period; term; phase; to expect"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个星期我很忙(這個星期我很忙)。",
+      "pinyin": "Zhège xīngqī wǒ hěn máng.",
+      "english": "I’m very busy this week."
+    },
+    {
+      "chinese": "我们星期三见(我們星期三見)。",
+      "pinyin": "Wǒmen xīngqī sān jiàn.",
+      "english": "See you on Wednesday."
+    },
+    {
+      "chinese": "上星期下了很多雨(上星期下了很多雨)。",
+      "pinyin": "Shàng xīngqī xià le hěn duō yǔ.",
+      "english": "It rained a lot last week."
+    }
+  ]
+}

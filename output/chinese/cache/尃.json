@@ -1,0 +1,49 @@
+{
+  "simplified": "尃",
+  "traditional": "尃",
+  "pinyin": "fū",
+  "english": "to spread; announce",
+  "etymology": {
+    "type": "phono-semantic compound; ideogrammic compound",
+    "description": "semantic: 寸 (“hand”) + phonetic: 甫 (OC *paʔ, “garden”); early form alludes to a sprout in 田 (field).",
+    "interpretation": "甫 supplies the sound, while 寸 evokes a hand apportioning or handling goods, yielding senses like distributing or announcing. Early imagery of a sprout in a field 田 ties the idea to spreading or allotting agricultural produce, which extends metaphorically to making proclamations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甫",
+      "trad": "甫",
+      "pinyin": "fǔ",
+      "english": "begin; just"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch; hand"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "官府尃告天下(官府尃告天下)。",
+      "pinyin": "Guānfǔ fūgào tiānxià.",
+      "english": "The authorities proclaimed it to all under heaven."
+    },
+    {
+      "chinese": "农人尃种于田(農人尃種於田)。",
+      "pinyin": "Nóngrén fūzhòng yú tián.",
+      "english": "Farmers sowed seeds in the fields."
+    },
+    {
+      "chinese": "使者尃言四方(使者尃言四方)。",
+      "pinyin": "Shǐzhě fū yán sìfāng.",
+      "english": "The envoy announced the message to the four quarters."
+    }
+  ]
+}

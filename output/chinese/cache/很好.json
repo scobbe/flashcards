@@ -1,0 +1,43 @@
+{
+  "simplified": "很好",
+  "traditional": "很好",
+  "pinyin": "hěn hǎo",
+  "english": "very good",
+  "etymology": {
+    "type": "compound word",
+    "description": "很 + 好 = very + good (degree adverb + adjective) → “very good.”",
+    "interpretation": "很 functions as a degree adverb modifying 好 to indicate a high degree of goodness. In everyday Mandarin, 很 often appears before adjectives and may sound mildly emphatic unless contrasted or stressed.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "很",
+      "trad": "很",
+      "pinyin": "hěn",
+      "english": "very; quite; rather; to a great extent"
+    },
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; fine; well; easy to"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天天气很好(今天天氣很好)。",
+      "pinyin": "Jīntiān tiānqì hěn hǎo.",
+      "english": "The weather is very good today."
+    },
+    {
+      "chinese": "这本书很好(這本書很好)。",
+      "pinyin": "Zhè běn shū hěn hǎo.",
+      "english": "This book is very good."
+    },
+    {
+      "chinese": "这里的服务很好(這裡的服務很好)，价格也不贵(價格也不貴)。",
+      "pinyin": "Zhèlǐ de fúwù hěn hǎo, jiàgé yě bù guì.",
+      "english": "The service here is very good, and the prices aren’t expensive."
+    }
+  ]
+}

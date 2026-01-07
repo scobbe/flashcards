@@ -1,0 +1,43 @@
+{
+  "simplified": "饱",
+  "traditional": "飽",
+  "pinyin": "bǎo",
+  "english": "full (from eating); satiated; replete; to satisfy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 食 (‘food’) + phonetic: 包",
+    "interpretation": "食 marks the domain of food and eating, while 包 supplies the sound bǎo and evokes wrapping/containing. Their combination points to being filled or packed with food, yielding meanings like “full” and “satiated.”",
+    "simplification": "Simplified by replacing the semantic component 食 with the abbreviated radical 饣, a standard radical simplification that leaves the phonetic 包 unchanged."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; eat"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap; bag"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我吃饱了(我吃飽了)。",
+      "pinyin": "Wǒ chī bǎo le.",
+      "english": "I’m full."
+    },
+    {
+      "chinese": "这一餐吃得很饱(這一餐吃得很飽)。",
+      "pinyin": "Zhè yī cān chī de hěn bǎo.",
+      "english": "I ate my fill this meal."
+    },
+    {
+      "chinese": "让孩子吃饱穿暖(讓孩子吃飽穿暖)。",
+      "pinyin": "Ràng háizi chī bǎo chuān nuǎn.",
+      "english": "Make sure the children have enough to eat and warm clothes."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "锅",
+  "traditional": "鍋",
+  "pinyin": "guō",
+  "english": "pot; wok; pan; cooking vessel",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 金 ‘metal’ + phonetic: 咼",
+    "interpretation": "金 marks it as something made of metal, signaling a vessel or utensil. 咼 (simplified as 呙) provides the sound guō, while the semantic side points to cookware forged from metal.",
+    "simplification": "Simplified from 鍋 with standard component reductions: 釒 → 钅 and 咼 → 呙 to cut strokes while preserving metal meaning and guō sound."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal"
+    },
+    {
+      "char": "呙",
+      "trad": "咼",
+      "pinyin": "guō",
+      "english": "askew; warped; (phonetic component)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一口新锅(我買了一口新鍋)。",
+      "pinyin": "Wǒ mǎile yì kǒu xīn guō.",
+      "english": "I bought a new pot."
+    },
+    {
+      "chinese": "她用铁锅炒菜(她用鐵鍋炒菜)。",
+      "pinyin": "Tā yòng tiěguō chǎo cài.",
+      "english": "She stir-fries with an iron wok."
+    },
+    {
+      "chinese": "冬天我们常吃火锅(冬天我們常吃火鍋)。",
+      "pinyin": "Dōngtiān wǒmen cháng chī huǒguō.",
+      "english": "In winter we often eat hotpot."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "花",
+  "traditional": "花",
+  "pinyin": "huā",
+  "english": "flower; blossom; to spend (money/time); flowery/fancy",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艹 (‘grass; plant’) + phonetic 化. Originally 𠌶 or 華 before the Han dynasty.",
+    "interpretation": "艹 signals a botanical meaning, pointing to flowers or plants. 化 contributes the sound, with historical readings aligning to huā, while earlier forms like 𠌶/華 show the same ‘flowering’ concept that later standardized as 花.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plants"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "to transform; change"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一束花(我買了一束花)。",
+      "pinyin": "Wǒ mǎi le yī shù huā.",
+      "english": "I bought a bouquet of flowers."
+    },
+    {
+      "chinese": "他今天花了很多时间准备报告(他今天花了很多時間準備報告)。",
+      "pinyin": "Tā jīntiān huā le hěn duō shíjiān zhǔnbèi bàogào.",
+      "english": "He spent a lot of time today preparing the report."
+    },
+    {
+      "chinese": "这件衣服太花了(這件衣服太花了)，我不喜欢(我不喜歡)。",
+      "pinyin": "Zhè jiàn yīfu tài huā le, wǒ bù xǐhuan.",
+      "english": "This piece of clothing is too flowery; I don’t like it."
+    }
+  ]
+}

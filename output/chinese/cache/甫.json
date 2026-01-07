@@ -1,0 +1,55 @@
+{
+  "simplified": "甫",
+  "traditional": "甫",
+  "pinyin": "fǔ",
+  "english": "begin; just",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally ideogrammic: 屮 ‘vegetation’ + 田 ‘field’ (garden; original 圃). Later phono-semantic: semantic 用 + phonetic 父 (OC *paʔ).",
+    "interpretation": "Initially depicted sprouting plants in a field, conveying the idea of a garden. It was later reanalyzed so that 父 supplied the sound while 用 hinted at meaning or served as the semantic anchor. Over time the shapes fused, obscuring the earlier components.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout; vegetation"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "父",
+      "trad": "父",
+      "pinyin": "fù",
+      "english": "father"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他甫到家，电话就响了(他甫到家，電話就響了)。",
+      "pinyin": "Tā fǔ dào jiā, diànhuà jiù xiǎng le.",
+      "english": "He had just arrived home when the phone rang."
+    },
+    {
+      "chinese": "甫一开门，冷风扑面而来(甫一開門，冷風撲面而來)。",
+      "pinyin": "Fǔ yī kāi mén, lěngfēng pūmiàn ér lái.",
+      "english": "As soon as the door was opened, a cold wind rushed in."
+    },
+    {
+      "chinese": "新政甫行，百姓尚未适应(新政甫行，百姓尚未適應)。",
+      "pinyin": "Xīnzhèng fǔ xíng, bǎixìng shàngwèi shìyìng.",
+      "english": "The new policy has just been put into effect, and the people have not yet adapted."
+    }
+  ]
+}

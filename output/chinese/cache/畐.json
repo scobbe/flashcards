@@ -1,0 +1,49 @@
+{
+  "simplified": "畐",
+  "traditional": "畐",
+  "pinyin": "fú",
+  "english": "full; abundant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a container filled to the brim.",
+    "interpretation": "Depicts a vessel filled to capacity, evoking the idea of fullness and abundance. This visual sense later supported meanings in related graphs like 富 and 福 that center on wealth and blessing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "仓里粮囤已畐(倉裡糧囤已畐)。",
+      "pinyin": "Cāng lǐ liángdùn yǐ fú.",
+      "english": "The grain bins in the granary are already full."
+    },
+    {
+      "chinese": "雨水丰沛(雨水豐沛)，水库渐畐(水庫漸畐)。",
+      "pinyin": "Yǔshuǐ fēngpèi, shuǐkù jiàn fú.",
+      "english": "With abundant rainfall, the reservoir is gradually full."
+    },
+    {
+      "chinese": "收成甚畐(收成甚畐)，家家喜庆(家家喜慶)。",
+      "pinyin": "Shōuchéng shèn fú, jiā jiā xǐqìng.",
+      "english": "The harvest is very abundant, and every household rejoices."
+    }
+  ]
+}

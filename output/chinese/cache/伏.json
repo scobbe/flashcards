@@ -1,0 +1,43 @@
+{
+  "simplified": "伏",
+  "traditional": "伏",
+  "pinyin": "fú",
+  "english": "to lie low; to crouch; to submit",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "人 (\"person\") + 犬 (\"dog\") – meaning \"prostrate\".",
+    "interpretation": "Combining a person with a dog evokes a figure lowering the body close to the ground, suggesting crouching or lying low. By extension, it conveys yielding or submitting, as one might prostrate oneself in deference.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夜色降临时(夜色降臨時)，他伏在草丛里(他伏在草叢裡)。",
+      "pinyin": "Yèsè jiànglín shí, tā fú zài cǎocóng lǐ.",
+      "english": "At nightfall, he lay low in the grass."
+    },
+    {
+      "chinese": "法官一到场(法官一到場)，他当庭伏罪(他當庭伏罪)。",
+      "pinyin": "Fǎguān yí dào chǎng, tā dāngtíng fúzuì.",
+      "english": "As soon as the judge arrived, he confessed his guilt in court."
+    },
+    {
+      "chinese": "小狗听到命令就伏下(小狗聽到命令就伏下)。",
+      "pinyin": "Xiǎo gǒu tīngdào mìnglìng jiù fú xià.",
+      "english": "The puppy crouched down as soon as it heard the command."
+    }
+  ]
+}

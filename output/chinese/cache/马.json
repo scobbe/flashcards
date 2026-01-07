@@ -1,0 +1,29 @@
+{
+  "simplified": "马",
+  "traditional": "馬",
+  "pinyin": "mǎ",
+  "english": "horse",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a horse with head facing left and flowing mane; in bronze, the head simplified to 目; legs evolved into four dots 灬 (unrelated to 火). Simplified 马 from 馬 via cursive script.",
+    "interpretation": "Originally a sketch of a horse that gradually stylized its head and legs into simple strokes. Modern simplification to 马 follows a cursive handwriting form, compressing the body and abstracting the legs into a single sweeping shape.",
+    "simplification": "Reduced from 馬 based on cursive (草书) form to speed writing, cutting strokes from about 10 to 3 and standardized in the PRC."
+  },
+  "examples": [
+    {
+      "chinese": "那匹马跑得很快(那匹馬跑得很快)。",
+      "pinyin": "Nà pǐ mǎ pǎo de hěn kuài.",
+      "english": "That horse runs very fast."
+    },
+    {
+      "chinese": "他骑马去学校(他騎馬去學校)。",
+      "pinyin": "Tā qí mǎ qù xuéxiào.",
+      "english": "He rides a horse to school."
+    },
+    {
+      "chinese": "马上开始比赛(馬上開始比賽)。",
+      "pinyin": "Mǎshàng kāishǐ bǐsài.",
+      "english": "The competition will start right away."
+    }
+  ]
+}

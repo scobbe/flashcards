@@ -1,0 +1,43 @@
+{
+  "simplified": "场",
+  "traditional": "場",
+  "pinyin": "chǎng",
+  "english": "field; place/venue; classifier for events; scene",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 土 (“earth”) + phonetic: 昜 (OC *laŋ); simplified: 昜 → 𠃓",
+    "interpretation": "土 contributes the sense of ground or earth, aligning with meanings like field and place. The phonetic 昜 provides the sound basis for the reading; in the simplified form, its role is retained by a reduced shape 𠃓 that preserves the phonetic cue while cutting strokes.",
+    "simplification": "The traditional phonetic 昜 was replaced by a streamlined component 𠃓 to reduce stroke count while keeping 土 for meaning and a recognizable phonetic element."
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "to raise; bright"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在体育场看比赛(我們在體育場看比賽)。",
+      "pinyin": "Wǒmen zài tǐyùchǎng kàn bǐsài.",
+      "english": "We watched a game at the stadium."
+    },
+    {
+      "chinese": "今晚有一场大雨(今晚有一場大雨)。",
+      "pinyin": "Jīnwǎn yǒu yì chǎng dàyǔ.",
+      "english": "There will be a heavy rain tonight."
+    },
+    {
+      "chinese": "电影的第一场很精彩(電影的第一場很精彩)。",
+      "pinyin": "Diànyǐng de dì-yī chǎng hěn jīngcǎi.",
+      "english": "The first scene of the movie is excellent."
+    }
+  ]
+}

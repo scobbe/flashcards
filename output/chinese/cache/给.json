@@ -1,0 +1,43 @@
+{
+  "simplified": "给",
+  "traditional": "給",
+  "pinyin": "gěi",
+  "english": "to give; to; for; to supply",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 糸 + phonetic: 合; simplified: 糸 → 纟",
+    "interpretation": "The silk component points to textiles, valuables, or the notion of provisioning, while 合 provides the sound and a sense of joining or bringing together. The original sense related to abundance or supply naturally extended to giving or providing something to someone.",
+    "simplification": "The left-side silk component 糸 was simplified to 纟, part of a systematic reduction of the silk radical series in Simplified Chinese; the phonetic 合 was retained."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "合",
+      "trad": "合",
+      "pinyin": "hé",
+      "english": "to join; to combine"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请给我一杯水(請給我一杯水)。",
+      "pinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
+      "english": "Please give me a glass of water."
+    },
+    {
+      "chinese": "这封信是给老师的(這封信是給老師的)。",
+      "pinyin": "Zhè fēng xìn shì gěi lǎoshī de.",
+      "english": "This letter is for the teacher."
+    },
+    {
+      "chinese": "我给你发了一封邮件(我給你發了一封郵件)。",
+      "pinyin": "Wǒ gěi nǐ fā le yì fēng yóujiàn.",
+      "english": "I sent you an email."
+    }
+  ]
+}

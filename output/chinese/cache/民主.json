@@ -1,0 +1,43 @@
+{
+  "simplified": "民主",
+  "traditional": "民主",
+  "pinyin": "mínzhǔ",
+  "english": "democracy",
+  "etymology": {
+    "type": "compound word",
+    "description": "民(people) + 主(master; primary) = people as masters (democracy).",
+    "interpretation": "Emphasizes political authority vested in the people; a calque for 'rule by the people'. Contrasts with 君主 ('monarch'), shifting mastery from ruler to the populace.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people; populace; civilian; folk"
+    },
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "master; owner; lord; primary"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们珍惜民主和自由(我們珍惜民主和自由)。",
+      "pinyin": "Wǒmen zhēnxī mínzhǔ hé zìyóu.",
+      "english": "We cherish democracy and freedom."
+    },
+    {
+      "chinese": "这个国家通过选举实现民主(這個國家通過選舉實現民主)。",
+      "pinyin": "Zhège guójiā tōngguò xuǎnjǔ shíxiàn mínzhǔ.",
+      "english": "This country achieves democracy through elections."
+    },
+    {
+      "chinese": "民主制度需要公民参与与监督(民主制度需要公民參與與監督)。",
+      "pinyin": "Mínzhǔ zhìdù xūyào gōngmín cānyù yǔ jiāndū.",
+      "english": "Democratic institutions require citizen participation and oversight."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "楂",
+  "traditional": "楂",
+  "pinyin": "zhā",
+  "english": "hawthorn tree; hawthorn fruit; (bot.) Crataegus; tart red berry",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木 (‘wood; tree’) + phonetic 查",
+    "interpretation": "Meaning is signaled by 木, pointing to a tree/wood-related referent. Pronunciation is guided by 查, which shares a similar sound, giving zhā and narrowing the sense to the hawthorn tree and its fruit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "查",
+      "trad": "查",
+      "pinyin": "chá",
+      "english": "to check; examine; investigate"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "秋天山上有许多野生的山楂(秋天山上有許多野生的山楂)。",
+      "pinyin": "Qiūtiān shān shàng yǒu xǔduō yěshēng de shānzhā.",
+      "english": "In autumn, the hills have many wild hawthorns."
+    },
+    {
+      "chinese": "我用山楂做果酱(我用山楂做果醬)。",
+      "pinyin": "Wǒ yòng shānzhā zuò guǒjiàng.",
+      "english": "I make jam with hawthorn."
+    },
+    {
+      "chinese": "山楂味道酸中带甜(山楂味道酸中帶甜)，很开胃(很開胃)。",
+      "pinyin": "Shānzhā wèidào suān zhōng dài tián, hěn kāiwèi.",
+      "english": "Hawthorn tastes tart with some sweetness and is very appetizing."
+    }
+  ]
+}

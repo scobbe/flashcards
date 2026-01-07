@@ -1,0 +1,37 @@
+{
+  "simplified": "辡",
+  "traditional": "辡",
+  "pinyin": "biàn",
+  "english": "dispute; distinguish",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "Duplication of 辛: two chisels/knives marking prisoners, indicating recrimination/accusation; quarrel; debate.",
+    "interpretation": "Doubling 辛 suggests two opposing instruments of punishment, evoking mutual accusation and contention. Pairing identical tools implies back-and-forth disputation and the act of distinguishing sides.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter; punishment; chisel; eighth heavenly stem"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "两人因旧怨辡不休(兩人因舊怨辡不休)。",
+      "pinyin": "Liǎng rén yīn jiùyuàn biàn bù xiū.",
+      "english": "The two kept quarrelling over an old grudge."
+    },
+    {
+      "chinese": "史书记载他们在廷中辡是非(史書記載他們在廷中辡是非)。",
+      "pinyin": "Shǐshū jìzǎi tāmen zài tíng zhōng biàn shìfēi.",
+      "english": "Historical records note they disputed right and wrong in court."
+    },
+    {
+      "chinese": "在训诂中，辡也指区分、辨别的过程(在訓詁中，辡也指區分、辨別的過程)。",
+      "pinyin": "Zài xùngǔ zhōng, biàn yě zhǐ qūfēn, biànbié de guòchéng.",
+      "english": "In philology, biàn also refers to the process of distinguishing and discerning."
+    }
+  ]
+}

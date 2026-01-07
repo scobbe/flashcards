@@ -1,0 +1,43 @@
+{
+  "simplified": "网",
+  "traditional": "網",
+  "pinyin": "wǎng",
+  "english": "net",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a net; top web stylized as 罒 (unrelated to 目). Trad: phono-semantic—semantic 糸 (“rope/silk”) + phonetic 罔.",
+    "interpretation": "Depicts a woven mesh, with the lattice of cords suggested by the frame-like 罒 at the top, which is not the eye component. The traditional form augments the meaning with the silk/thread element and borrows 罔 for sound.",
+    "simplification": "Simplified by adopting an ancient pictographic form, dropping the 糸 semantic and the phonetic 罔 to reduce strokes while preserving the net imagery."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "罔",
+      "trad": "罔",
+      "pinyin": "wǎng",
+      "english": "not; without; to deceive"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他把渔网撒向水面(他把漁網撒向水面)。",
+      "pinyin": "Tā bǎ yúwǎng sǎ xiàng shuǐmiàn.",
+      "english": "He cast the fishing net onto the water’s surface."
+    },
+    {
+      "chinese": "这张网很结实，可以捕捉很多鱼(這張網很結實，可以捕捉很多魚)。",
+      "pinyin": "Zhè zhāng wǎng hěn jiéshi, kěyǐ bǔzhuō hěn duō yú.",
+      "english": "This net is sturdy and can catch many fish."
+    },
+    {
+      "chinese": "晚上我上网查资料(晚上我上網查資料)。",
+      "pinyin": "Wǎnshang wǒ shàng wǎng chá zīliào.",
+      "english": "At night I go online to look up information."
+    }
+  ]
+}

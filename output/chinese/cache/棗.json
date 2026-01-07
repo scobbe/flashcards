@@ -1,0 +1,37 @@
+{
+  "simplified": "棗",
+  "traditional": "棗",
+  "pinyin": "zǎo",
+  "english": "jujube; date",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic compound: duplication of 朿 (“thorn”).",
+    "interpretation": "By repeating the 'thorn' element, the graph evokes a prickly, fruit-bearing shrub, matching the jujube tree's spines and clustered dates. The stacked thorns suggest dense, spiky branches laden with fruit.",
+    "simplification": "Simplified to 枣 by compressing and omitting repeated 朿 elements into a compact, cursive-derived outline to reduce strokes; a purely graphic simplification."
+  },
+  "parts": [
+    {
+      "char": "朿",
+      "trad": "朿",
+      "pinyin": "cì",
+      "english": "thorn; prickle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢吃红枣(我喜歡吃紅棗)。",
+      "pinyin": "Wǒ xǐhuan chī hóngzǎo.",
+      "english": "I like to eat red dates."
+    },
+    {
+      "chinese": "院子里有一棵枣树(院子裡有一棵棗樹)。",
+      "pinyin": "Yuànzi lǐ yǒu yì kē zǎoshù.",
+      "english": "There is a jujube tree in the yard."
+    },
+    {
+      "chinese": "冬天喝枣茶很暖和(冬天喝棗茶很暖和)。",
+      "pinyin": "Dōngtiān hē zǎo chá hěn nuǎnhuo.",
+      "english": "Drinking jujube tea in winter is very warming."
+    }
+  ]
+}

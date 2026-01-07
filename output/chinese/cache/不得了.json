@@ -1,0 +1,49 @@
+{
+  "simplified": "不得了",
+  "traditional": "不得了",
+  "pinyin": "bùdéliǎo",
+  "english": "terrible; extremely; amazing",
+  "etymology": {
+    "type": "fixed phrase (negative potential complement)",
+    "description": "不(not) + 得了(can manage/finish) = cannot be handled; hence overwhelmingly great/serious.",
+    "interpretation": "Originally meant something so serious it can’t be dealt with, hence ‘terrible’ or ‘disastrous’. In modern speech it also intensifies adjectives/verbs to mean ‘extremely; amazingly’ depending on context, positive or negative.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not;no;un-;negation"
+    },
+    {
+      "char": "得",
+      "trad": "得",
+      "pinyin": "dé",
+      "english": "obtain;get;must;complement marker"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "liǎo",
+      "english": "to finish;to understand;to be able to;to end"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天热得不得了(今天熱得不得了)。",
+      "pinyin": "Jīntiān rè de bùdéliǎo.",
+      "english": "It’s extremely hot today."
+    },
+    {
+      "chinese": "他高兴得不得了(他高興得不得了)。",
+      "pinyin": "Tā gāoxìng de bùdéliǎo.",
+      "english": "He’s overjoyed."
+    },
+    {
+      "chinese": "出了这么大的事故，麻烦不得了(出了這麼大的事故，麻煩不得了)。",
+      "pinyin": "Chūle zhème dà de shìgù, máfan bùdéliǎo.",
+      "english": "With such a major accident, the trouble is immense."
+    }
+  ]
+}

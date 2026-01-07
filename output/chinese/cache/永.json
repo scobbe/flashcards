@@ -1,0 +1,29 @@
+{
+  "simplified": "永",
+  "traditional": "永",
+  "pinyin": "yǒng",
+  "english": "eternal; forever",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram of a long river with tributaries; alternatively, a person swimming in water; cognate with 𠂢, 派; original form of 泳.",
+    "interpretation": "Depicts flowing water with branching streams or a swimmer moving through water, evoking continuity and unending motion. The watery sense later split: 泳 came to mean “to swim,” while 永 specialized to the idea of permanence and eternity.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我们永不放弃(我們永不放棄)。",
+      "pinyin": "Wǒmen yǒng bù fàngqì.",
+      "english": "We will never give up."
+    },
+    {
+      "chinese": "他发誓永远记得这一天(他發誓永遠記得這一天)。",
+      "pinyin": "Tā fāshì yǒngyuǎn jìde zhè yì tiān.",
+      "english": "He swore to remember this day forever."
+    },
+    {
+      "chinese": "河水绵延不绝(河水綿延不絕)，象征永恒(象徵永恆)。",
+      "pinyin": "Héshuǐ miányán bù jué, xiàngzhēng yǒnghéng.",
+      "english": "The river flows on without end, symbolizing eternity."
+    }
+  ]
+}

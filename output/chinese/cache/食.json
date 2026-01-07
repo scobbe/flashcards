@@ -1,0 +1,49 @@
+{
+  "simplified": "食",
+  "traditional": "食",
+  "pinyin": "shí",
+  "english": "to eat; food; meal; to feed",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a mouth (亼) over a bowl of rice on a stand (皀); current form is 亼 + 艮. Shuowen: phono-semantic (phonetic 亼 + semantic 皀; see 𠊊).",
+    "interpretation": "Depicts a mouth positioned above a bowl of food, directly evoking the act of eating and the idea of provisions. The later graphic shift made the lower pictorial bowl resemble 艮, but its original element was 皀, and the similarity to 艮 or 良 is incidental.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather; assemble"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "Gen trigram; to stop; stubborn"
+    },
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "jí",
+      "english": "fragrant; smell (orig. bowl on a stand)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这家店的食物很新鲜(這家店的食物很新鮮)。",
+      "pinyin": "Zhè jiā diàn de shíwù hěn xīnxiān.",
+      "english": "The food at this shop is very fresh."
+    },
+    {
+      "chinese": "按时饮食有助于健康(按時飲食有助於健康)。",
+      "pinyin": "Ànshí yǐnshí yǒu zhù yú jiànkāng.",
+      "english": "Eating on schedule helps with health."
+    },
+    {
+      "chinese": "这种蘑菇不可食用(這種蘑菇不可食用)。",
+      "pinyin": "Zhè zhǒng mógu bù kě shíyòng.",
+      "english": "This kind of mushroom is not edible."
+    }
+  ]
+}

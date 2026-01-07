@@ -1,0 +1,29 @@
+{
+  "simplified": "皀",
+  "traditional": "皀",
+  "pinyin": "jí",
+  "english": "fragrant; smell (orig. bowl on a stand)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a bowl of rice on a stand; part of the radical 食; unrelated to 良 and 旨.",
+    "interpretation": "Depicts a rice bowl set on a stand, an early food-related image that later associated with smell and fragrance in usage. Also serves historically as a component within the food radical 食, without any etymological link to 良 or 旨 despite visual resemblance.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "此酒甚皀，香气四溢(此酒甚皀，香氣四溢)。",
+      "pinyin": "Cǐ jiǔ shèn jí, xiāngqì sìyì.",
+      "english": "This wine is very fragrant, and its aroma spreads everywhere."
+    },
+    {
+      "chinese": "花开时院中皆皀(花開時院中皆皀)。",
+      "pinyin": "Huā kāi shí yuàn zhōng jiē jí.",
+      "english": "When the flowers bloom, the courtyard is filled with fragrance."
+    },
+    {
+      "chinese": "皀字本为象形，像托座上的饭碗(皀字本為象形，像托座上的飯碗)。",
+      "pinyin": "Jí zì běn wéi xiàngxíng, xiàng tuōzuò shàng de fànwǎn.",
+      "english": "The graph was originally pictographic, resembling a rice bowl on a stand."
+    }
+  ]
+}

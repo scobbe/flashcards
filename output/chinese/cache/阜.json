@@ -1,0 +1,29 @@
+{
+  "simplified": "阜",
+  "traditional": "阜",
+  "pinyin": "fù",
+  "english": "mound; hill",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a row of steps on a hill; the steps remain visible in the upper part 𠂤; original form 𨸏.",
+    "interpretation": "Depicts steps cut into a hillside, with the tiered strokes suggesting a path or terracing up a mound. This imagery underlies meanings like “mound” or “hill” and informs its use as the left-side radical in terrain-related characters.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这片土地多丘阜(這片土地多丘阜)。",
+      "pinyin": "Zhè piàn tǔdì duō qiūfù.",
+      "english": "This stretch of land has many hills and mounds."
+    },
+    {
+      "chinese": "村后有一座小山阜(村後有一座小山阜)。",
+      "pinyin": "Cūn hòu yǒu yī zuò xiǎo shānfù.",
+      "english": "There is a small hill behind the village."
+    },
+    {
+      "chinese": "工人沿着阜上的台阶缓缓登高(工人沿著阜上的台階緩緩登高)。",
+      "pinyin": "Gōngrén yánzhe fù shàng de táijiē huǎnhuǎn dēnggāo.",
+      "english": "Workers slowly ascended along the steps on the hill."
+    }
+  ]
+}

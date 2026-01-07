@@ -1,0 +1,43 @@
+{
+  "simplified": "椰",
+  "traditional": "椰",
+  "pinyin": "yē",
+  "english": "coconut; coconut palm; palm tree; coconut-related",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 (\"tree\") + phonetic: 耶 (OC *laː)",
+    "interpretation": "木 signals a wood/tree-related meaning, fitting a palm or coconut tree. 耶 contributes the sound; through historical shifts from its Old Chinese reading, it guides the modern pronunciation yē rather than adding meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "耶",
+      "trad": "耶",
+      "pinyin": "yé",
+      "english": "interrogative particle; used in transliterations"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了两个椰子(我買了兩個椰子)。",
+      "pinyin": "Wǒ mǎile liǎng gè yēzi.",
+      "english": "I bought two coconuts."
+    },
+    {
+      "chinese": "海边的椰树在风中摇摆(海邊的椰樹在風中搖擺)。",
+      "pinyin": "Hǎibiān de yēshù zài fēng zhōng yáobǎi.",
+      "english": "The palm trees by the seaside sway in the wind."
+    },
+    {
+      "chinese": "这款饮料用新鲜椰奶制成(這款飲料用新鮮椰奶製成)。",
+      "pinyin": "Zhè kuǎn yǐnliào yòng xīnxiān yēnǎi zhìchéng.",
+      "english": "This drink is made with fresh coconut milk."
+    }
+  ]
+}

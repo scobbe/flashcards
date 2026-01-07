@@ -1,0 +1,43 @@
+{
+  "simplified": "格",
+  "traditional": "格",
+  "pinyin": "gé",
+  "english": "grammatical unit",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 木 “wood” + phonetic: 各 (OC *klaːɡ, *kraːɡ)",
+    "interpretation": "Wood suggests ideas of wooden objects, frames, or structured patterns, while 各 lends the sound gé. The sense broadened from wooden frameworks to notions of standard, pattern, and by extension grammatical case or categories in language.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each; every"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "俄语有六个语法格(俄語有六個語法格)。",
+      "pinyin": "Éyǔ yǒu liù gè yǔfǎ gé.",
+      "english": "Russian has six grammatical cases."
+    },
+    {
+      "chinese": "在拉丁语中，名词的主格和宾格形式不同(在拉丁語中，名詞的主格和賓格形式不同)。",
+      "pinyin": "Zài Lādīnyǔ zhōng, míngcí de zhǔgé hé bīngé xíngshì bù tóng.",
+      "english": "In Latin, the nominative and accusative forms of nouns are different."
+    },
+    {
+      "chinese": "这个名词在句子里用属格(這個名詞在句子裡用屬格)。",
+      "pinyin": "Zhège míngcí zài jùzi lǐ yòng shǔgé.",
+      "english": "This noun is in the genitive in the sentence."
+    }
+  ]
+}

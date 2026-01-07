@@ -1,0 +1,43 @@
+{
+  "simplified": "师",
+  "traditional": "師",
+  "pinyin": "shī",
+  "english": "teacher; master; expert; (military) division",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "𠂤 (“mound, hill”) + 帀 (“to surround”); simplified by replacing 𠂤 with 刂.",
+    "interpretation": "A hill combined with the idea of encircling evokes troops camped around a rise, yielding the sense of an army and, by extension, a master/teacher who leads or trains. The simplified form keeps the encampment idea while swapping the hill for the knife component, leaving the core meaning intact.",
+    "simplification": "𠂤 was replaced with 刂 to reduce strokes, paralleling the simplification 帅 ← 帥; a graphic streamlining without phonetic or semantic reanalysis."
+  },
+  "parts": [
+    {
+      "char": "帀",
+      "trad": "帀",
+      "pinyin": "zā",
+      "english": "to go around; to surround"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她是我的中文老师(她是我的中文老師)。",
+      "pinyin": "Tā shì wǒ de Zhōngwén lǎoshī.",
+      "english": "She is my Chinese teacher."
+    },
+    {
+      "chinese": "我向师傅请教(我向師傅請教)。",
+      "pinyin": "Wǒ xiàng shīfu qǐngjiào.",
+      "english": "I seek advice from the master."
+    },
+    {
+      "chinese": "第三师明天换防(第三師明天換防)。",
+      "pinyin": "Dì-sān shī míngtiān huànfáng.",
+      "english": "The 3rd division will rotate duty tomorrow."
+    }
+  ]
+}

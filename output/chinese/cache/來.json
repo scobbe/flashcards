@@ -1,0 +1,29 @@
+{
+  "simplified": "來",
+  "traditional": "來",
+  "pinyin": "lái",
+  "english": "to come",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of wheat: middle line = ear, upward lines = leaves, downward lines = stem/roots; sometimes an extra top line. Borrowed early to mean “to come”; later additions like 止/辵 were not retained.",
+    "interpretation": "Originally drew a stalk of wheat, with the central stroke as the ear and other strokes as leaves, stem, and roots. It was borrowed early to write “to come,” while 麥 later carried the grain meaning; their similar Old Chinese onsets likely facilitated the semantic shift.",
+    "simplification": "Simplified to 来 by reducing and regularizing strokes, following common clerical/cursive forms to lower stroke count and ease writing."
+  },
+  "examples": [
+    {
+      "chinese": "请你早点来(請你早點來)。",
+      "pinyin": "Qǐng nǐ zǎodiǎn lái.",
+      "english": "Please come earlier."
+    },
+    {
+      "chinese": "他今天从上海来开会(他今天從上海來開會)。",
+      "pinyin": "Tā jīntiān cóng Shànghǎi lái kāihuì.",
+      "english": "He came from Shanghai to attend a meeting."
+    },
+    {
+      "chinese": "如果你有时间，明天再来我们家坐坐(如果你有時間，明天再來我們家坐坐)。",
+      "pinyin": "Rúguǒ nǐ yǒu shíjiān, míngtiān zài lái wǒmen jiā zuòzuo.",
+      "english": "If you have time, come to our place again tomorrow for a visit."
+    }
+  ]
+}

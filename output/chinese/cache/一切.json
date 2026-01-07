@@ -1,0 +1,43 @@
+{
+  "simplified": "一切",
+  "traditional": "一切",
+  "pinyin": "yīqiè",
+  "english": "everything",
+  "etymology": {
+    "type": "compound word",
+    "description": "一 ‘one/entire’ + 切 ‘all; the whole’ = everything; all.",
+    "interpretation": "Combines numeral 一 with classical 切 meaning “all/every” to denote the totality of things without exception. Common in both literary and modern usage for “everything; all.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single; entire; whole"
+    },
+    {
+      "char": "切",
+      "trad": "切",
+      "pinyin": "qiè",
+      "english": "all (classical); appropriate/close; earnest/urgent; to cut"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请把一切准备好(請把一切準備好)。",
+      "pinyin": "Qǐng bǎ yíqiè zhǔnbèi hǎo.",
+      "english": "Please get everything ready."
+    },
+    {
+      "chinese": "他愿意为你放弃一切(他願意為你放棄一切)。",
+      "pinyin": "Tā yuànyì wèi nǐ fàngqì yíqiè.",
+      "english": "He is willing to give up everything for you."
+    },
+    {
+      "chinese": "面对困难时(面對困難時)，我们要相信一切都会好起来(我們要相信一切都會好起來)。",
+      "pinyin": "Miànduì kùnnan shí, wǒmen yào xiāngxìn yíqiè dōu huì hǎo qǐlái.",
+      "english": "When facing difficulties, we should believe that everything will get better."
+    }
+  ]
+}

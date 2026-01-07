@@ -1,0 +1,43 @@
+{
+  "simplified": "加",
+  "traditional": "加",
+  "pinyin": "jiā",
+  "english": "to add; plus",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 力 ‘strength/plowing’ + 口 ‘mouth’ (exclamation/breath) — to put more effort; exaggerate.",
+    "interpretation": "Combining strength/power (力) with the mouth (口) evokes the exertion and breath/sound made when putting in extra effort. This association broadened to the idea of increasing or adding, which extends to the arithmetic sense of “plus.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength; force"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "二加三等于五(二加三等於五)。",
+      "pinyin": "Èr jiā sān děngyú wǔ.",
+      "english": "Two plus three equals five."
+    },
+    {
+      "chinese": "请给我加一点儿糖(請給我加一點兒糖)。",
+      "pinyin": "Qǐng gěi wǒ jiā yīdiǎnr táng.",
+      "english": "Please add a little sugar for me."
+    },
+    {
+      "chinese": "我们需要加快速度(我們需要加快速度)。",
+      "pinyin": "Wǒmen xūyào jiākuài sùdù.",
+      "english": "We need to speed up."
+    }
+  ]
+}

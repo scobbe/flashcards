@@ -1,0 +1,43 @@
+{
+  "simplified": "束",
+  "traditional": "束",
+  "pinyin": "shù",
+  "english": "bundle; to bind",
+  "etymology": {
+    "type": "ideogram",
+    "description": "bag tied at both ends (earlier forms were often vertically symmetric).",
+    "interpretation": "Depicts an object with both ends tied, visually conveying the idea of bundling or binding. The crossing “tie” suggests gathering things together, which extends to meanings like bundle and to bind.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她买了一束花(她買了一束花)。",
+      "pinyin": "Tā mǎi le yī shù huā.",
+      "english": "She bought a bouquet."
+    },
+    {
+      "chinese": "她把头发束起来(她把頭髮束起來)。",
+      "pinyin": "Tā bǎ tóufa shù qǐlái.",
+      "english": "She tied up her hair."
+    },
+    {
+      "chinese": "他束手无策(他束手無策)。",
+      "pinyin": "Tā shùshǒu wú cè.",
+      "english": "He was at a loss, with his hands tied."
+    }
+  ]
+}

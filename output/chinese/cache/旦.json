@@ -1,0 +1,43 @@
+{
+  "simplified": "旦",
+  "traditional": "旦",
+  "pinyin": "dàn",
+  "english": "dawn; daybreak",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 日 + phonetic: 丁; Shuowen folk etymology: 日 over 一 (sun over horizon).",
+    "interpretation": "Combines the sun 日 with the phonetic 丁, linking its sound to dàn while evoking a meaning tied to daylight. Later folk analysis pictured the sun appearing over the horizon, which aligns with the sense of daybreak even if it was not the original form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "fourth heavenly stem; nail"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "黎明将至(黎明將至)，天色将旦(天色將旦)。",
+      "pinyin": "Límíng jiāng zhì, tiānsè jiāng dàn.",
+      "english": "Dawn is approaching; the sky is about to break into day."
+    },
+    {
+      "chinese": "元旦放假一天(元旦放假一天)，大家出门游玩(大家出門遊玩)。",
+      "pinyin": "Yuándàn fàngjià yītiān, dàjiā chūmén yóuwán.",
+      "english": "New Year’s Day is a one-day holiday; everyone goes out to have fun."
+    },
+    {
+      "chinese": "一旦下雨(一旦下雨)，活动就改到室内(活動就改到室內)。",
+      "pinyin": "Yídàn xiàyǔ, huódòng jiù gǎi dào shìnèi.",
+      "english": "Once it rains, we’ll move the event indoors."
+    }
+  ]
+}

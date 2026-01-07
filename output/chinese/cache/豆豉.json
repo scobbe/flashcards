@@ -1,0 +1,43 @@
+{
+  "simplified": "豆豉",
+  "traditional": "豆豉",
+  "pinyin": "dòuchǐ",
+  "english": "fermented black beans",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆 (bean) + 豉 (fermented beans/condiment) = fermented soybeans (seasoning).",
+    "interpretation": "Refers to fermented soybeans used as a savory seasoning, especially the black, salted kind. 豉 historically denotes fermented grain or beans, so adding 豆 specifies soy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; legumes; soybean; pulse"
+    },
+    {
+      "char": "豉",
+      "trad": "豉",
+      "pinyin": "chǐ",
+      "english": "fermented soybeans; fermented grain; condiment; relish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢用豆豉炒苦瓜(我喜歡用豆豉炒苦瓜)。",
+      "pinyin": "Wǒ xǐhuān yòng dòuchǐ chǎo kǔguā.",
+      "english": "I like to stir-fry bitter melon with douchi."
+    },
+    {
+      "chinese": "清蒸鱼时(清蒸魚時)，加一点豆豉更提味(加一點豆豉更提味)。",
+      "pinyin": "Qīngzhēng yú shí, jiā yīdiǎn dòuchǐ gèng tíwèi.",
+      "english": "When steaming fish, adding a little douchi enhances the flavor."
+    },
+    {
+      "chinese": "这道豆豉鸡很下饭(這道豆豉雞很下飯)。",
+      "pinyin": "Zhè dào dòuchǐ jī hěn xiàfàn.",
+      "english": "This douchi chicken goes great with rice."
+    }
+  ]
+}

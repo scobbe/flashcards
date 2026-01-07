@@ -1,0 +1,37 @@
+{
+  "simplified": "菜",
+  "traditional": "菜",
+  "pinyin": "cài",
+  "english": "vegetable;greens;dish;cuisine",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 (“grass; plant”) + phonetic: 采.",
+    "interpretation": "The grass/plant radical signals a meaning related to vegetation and edible greens. 采 supplies the sound for cài and also hints at the idea of picking or gathering plants.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "采",
+      "trad": "采",
+      "pinyin": "cǎi",
+      "english": "to pick; gather"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我去市场买菜(我去市場買菜)。",
+      "pinyin": "Wǒ qù shìchǎng mǎi cài.",
+      "english": "I’m going to the market to buy vegetables."
+    },
+    {
+      "chinese": "这道菜很辣(這道菜很辣)。",
+      "pinyin": "Zhè dào cài hěn là.",
+      "english": "This dish is very spicy."
+    },
+    {
+      "chinese": "我喜欢川菜(我喜歡川菜)。",
+      "pinyin": "Wǒ xǐhuan Chuāncài.",
+      "english": "I like Sichuan cuisine."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "潮",
+  "traditional": "潮",
+  "pinyin": "cháo",
+  "english": "tide; damp; humid; trend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵 (“water”) + phonetic: 朝",
+    "interpretation": "Water component points to meanings tied to water and moisture. 朝 supplies the sound cháo and also resonates metaphorically with a flowing ‘tide’ or current, which extends to the sense of a social trend.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "朝",
+      "trad": "朝",
+      "pinyin": "cháo",
+      "english": "dynasty; court; to face; toward"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今晚海上会有大潮(今晚海上會有大潮)。",
+      "pinyin": "Jīn wǎn hǎi shàng huì yǒu dàcháo.",
+      "english": "There will be a high tide at sea tonight."
+    },
+    {
+      "chinese": "南方夏天很潮湿(南方夏天很潮濕)。",
+      "pinyin": "Nánfāng xiàtiān hěn cháoshī.",
+      "english": "Summers in the south are very humid."
+    },
+    {
+      "chinese": "这款衣服很潮(這款衣服很潮)，年轻人都在追这个潮流(年輕人都在追這個潮流)。",
+      "pinyin": "Zhè kuǎn yīfu hěn cháo, niánqīngrén dōu zài zhuī zhège cháoliú.",
+      "english": "These clothes are very trendy, and young people are all chasing this trend."
+    }
+  ]
+}

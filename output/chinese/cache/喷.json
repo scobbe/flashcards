@@ -1,0 +1,43 @@
+{
+  "simplified": "喷",
+  "traditional": "噴",
+  "pinyin": "pēn",
+  "english": "spray",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 口 (mouth) + phonetic 賁",
+    "interpretation": "Mouth signals an action of expelling from the mouth or an orifice. 賁 provides the sound, aligning with pēn and guiding the sense of spouting or spraying outward.",
+    "simplification": "賁 was simplified to 贲, reducing strokes while preserving the 口 + phonetic structure and pronunciation."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "贲",
+      "trad": "賁",
+      "pinyin": "bēn/bì",
+      "english": "rush; ornate"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他往花园里喷水(他往花園裡噴水)。",
+      "pinyin": "Tā wǎng huāyuán lǐ pēn shuǐ.",
+      "english": "He sprays water into the garden."
+    },
+    {
+      "chinese": "我买了一个喷雾器(我買了一個噴霧器)。",
+      "pinyin": "Wǒ mǎile yí gè pēnwùqì.",
+      "english": "I bought a sprayer."
+    },
+    {
+      "chinese": "火山突然喷发(火山突然噴發)。",
+      "pinyin": "Huǒshān tūrán pēnfā.",
+      "english": "The volcano suddenly spewed."
+    }
+  ]
+}

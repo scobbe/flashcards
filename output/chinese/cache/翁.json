@@ -1,0 +1,43 @@
+{
+  "simplified": "翁",
+  "traditional": "翁",
+  "pinyin": "wēng",
+  "english": "old man;elder;old fellow;venerable man",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 公 (OC *kloːŋ) + semantic: 羽 (“wings”); originally “feathers”, later loaned to mean “old man” via 公.",
+    "interpretation": "Combines 羽 ‘feather’ as the meaning element with 公 as the sound, matching the OC reading near *qloːŋ. The sense shifted from ‘feathers’ to ‘old man’ by semantic loan, likely influenced by 公 ‘duke/public figure’ as a respectful association with an elder.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "public; duke"
+    },
+    {
+      "char": "羽",
+      "trad": "羽",
+      "pinyin": "yǔ",
+      "english": "feather; wings"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "那位老翁在桥上钓鱼(那位老翁在橋上釣魚)。",
+      "pinyin": "Nà wèi lǎo wēng zài qiáo shàng diào yú.",
+      "english": "That old man is fishing on the bridge."
+    },
+    {
+      "chinese": "两虎相争，渔翁得利(兩虎相爭，漁翁得利)。",
+      "pinyin": "Liǎng hǔ xiāngzhēng, yúwēng dé lì.",
+      "english": "When two sides fight, the fisherman profits."
+    },
+    {
+      "chinese": "他们家翁婿相处融洽(他們家翁婿相處融洽)。",
+      "pinyin": "Tāmen jiā wēngxù xiāngchǔ róngqià.",
+      "english": "The father-in-law and son-in-law in their family get along well."
+    }
+  ]
+}

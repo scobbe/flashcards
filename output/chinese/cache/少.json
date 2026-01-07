@@ -1,0 +1,37 @@
+{
+  "simplified": "少",
+  "traditional": "少",
+  "pinyin": "shǎo",
+  "english": "few; little",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: four dots (like grains of sand) indicating “a few, a little”; phonetically borrowed from 小 (“small,” depicted by three dots). Unrelated to 步.",
+    "interpretation": "Originally depicted a small cluster of dots, evoking a tiny quantity such as grains of sand, hence the sense “few; little.” Its form and sound link to 小, which also shows small marks and means “small,” but it is not connected to 步/歲 despite visual resemblance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们的时间很少(我們的時間很少)。",
+      "pinyin": "Wǒmen de shíjiān hěn shǎo.",
+      "english": "We have very little time."
+    },
+    {
+      "chinese": "今天来的人很少(今天來的人很少)。",
+      "pinyin": "Jīntiān lái de rén hěn shǎo.",
+      "english": "Few people came today."
+    },
+    {
+      "chinese": "他话不多(他話不多)，笑得也少(笑得也少)。",
+      "pinyin": "Tā huà bù duō, xiào de yě shǎo.",
+      "english": "He doesn't talk much, and he also smiles little."
+    }
+  ]
+}

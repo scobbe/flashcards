@@ -1,0 +1,37 @@
+{
+  "simplified": "疋",
+  "traditional": "疋",
+  "pinyin": "pǐ",
+  "english": "bolt of cloth; foot",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: foot 止 with a leg/thigh on top; similar to 足; unrelated to the bottom of 是 (which is 止 on oracle bones).",
+    "interpretation": "Originally depicts a leg above a foot, producing an image close to 足. It was later extended and borrowed as a measure word for bolts of cloth, while its resemblance to the lower part of 是 is accidental since that part derives from 止.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "to stop; pictograph of a foot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他买了一疋布(他買了一疋布)。",
+      "pinyin": "tā mǎi le yì pǐ bù.",
+      "english": "He bought one bolt of cloth."
+    },
+    {
+      "chinese": "市场上这种布按疋计价(市場上這種布按疋計價)。",
+      "pinyin": "shìchǎng shàng zhè zhǒng bù àn pǐ jìjià.",
+      "english": "In the market, this kind of cloth is priced by the bolt."
+    },
+    {
+      "chinese": "裁缝说还差半疋(裁縫說還差半疋)。",
+      "pinyin": "cáiféng shuō hái chà bàn pǐ.",
+      "english": "The tailor said we’re short by half a bolt."
+    }
+  ]
+}

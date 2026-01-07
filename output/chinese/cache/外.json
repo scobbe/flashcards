@@ -1,0 +1,43 @@
+{
+  "simplified": "外",
+  "traditional": "外",
+  "pinyin": "wài",
+  "english": "outside; external; foreign; other",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 卜 + phonetic: 月 (OC *ŋod).",
+    "interpretation": "卜 contributes the semantic idea (originally associated with divination), while 月 provides the sound, aligning with the Old Chinese reconstruction. The semantic link to “outside” is not transparent in the phono-semantic analysis; some scholars propose an alternative ideogrammic reading involving the moon’s partial phases, but the mainstream view treats 月 here as phonetic.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "to divine; divination"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon; month"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们对外贸易增长很快(我們對外貿易增長很快)。",
+      "pinyin": "Wǒmen duìwài màoyì zēngzhǎng hěn kuài.",
+      "english": "Our foreign trade is growing very quickly."
+    },
+    {
+      "chinese": "他住在城外的一个小村子(他住在城外的一個小村子)。",
+      "pinyin": "Tā zhù zài chéngwài de yí gè xiǎo cūnzi.",
+      "english": "He lives in a small village outside the city."
+    },
+    {
+      "chinese": "这家餐厅接待很多外国游客(這家餐廳接待很多外國遊客)。",
+      "pinyin": "Zhè jiā cāntīng jiēdài hěn duō wàiguó yóukè.",
+      "english": "This restaurant serves many foreign tourists."
+    }
+  ]
+}

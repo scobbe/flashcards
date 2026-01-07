@@ -1,0 +1,29 @@
+{
+  "simplified": "廌",
+  "traditional": "廌",
+  "pinyin": "zhì",
+  "english": "antelope; mythical beast",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – a deer-like mythical beast; compare 鹿.",
+    "interpretation": "Depicts a horned, deer-like creature in early script, emphasizing its cervine form. The resemblance to 鹿 ties its meaning to antelopes or mythic deer-beasts.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "传说中的廌能辨是非(傳說中的廌能辨是非)。",
+      "pinyin": "Chuánshuō zhōng de zhì néng biàn shì-fēi.",
+      "english": "In legend, the zhì can distinguish right from wrong."
+    },
+    {
+      "chinese": "古文记载它像羚羊(古文記載它像羚羊)，额上生角(額上生角)。",
+      "pinyin": "Gǔwén jìzǎi tā xiàng língyáng, é shàng shēng jiǎo.",
+      "english": "Ancient texts record that it resembles an antelope, with a horn on its forehead."
+    },
+    {
+      "chinese": "在典籍里(在典籍裡)，廌常被称为神兽(廌常被稱為神獸)。",
+      "pinyin": "Zài diǎnjí lǐ, zhì cháng bèi chēng wéi shénshòu.",
+      "english": "In classical writings, zhì is often called a divine beast."
+    }
+  ]
+}

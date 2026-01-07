@@ -1,0 +1,43 @@
+{
+  "simplified": "枕头",
+  "traditional": "枕頭",
+  "pinyin": "zhěntou",
+  "english": "pillow",
+  "etymology": {
+    "type": "compound word",
+    "description": "枕 (pillow; to rest the head) + 头 (noun suffix ‘head/thing’) = pillow",
+    "interpretation": "Combines the base noun 枕 with the high‑frequency suffix 头 to denote a concrete object for resting the head. In speech 头 is often neutral tone here (zhěntou), highlighting its suffix function.",
+    "simplification": "頭 was simplified to 头 to reduce strokes for a very common suffix; 枕 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "枕",
+      "trad": "枕",
+      "pinyin": "zhěn",
+      "english": "pillow; to rest the head on; cushion; bolster"
+    },
+    {
+      "char": "头",
+      "trad": "頭",
+      "pinyin": "tóu",
+      "english": "head; top/end; first/beginning; noun suffix/thing"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢软一点的枕头(我喜歡軟一點的枕頭)。",
+      "pinyin": "Wǒ xǐhuan ruǎn yìdiǎn de zhěntou.",
+      "english": "I like pillows that are a bit softer."
+    },
+    {
+      "chinese": "旅行时我会带上自己的枕头(旅行時我會帶上自己的枕頭)。",
+      "pinyin": "Lǚxíng shí wǒ huì dài shang zìjǐ de zhěntou.",
+      "english": "When traveling, I bring my own pillow."
+    },
+    {
+      "chinese": "枕头太高会让脖子不舒服(枕頭太高會讓脖子不舒服)。",
+      "pinyin": "Zhěntou tài gāo huì ràng bózi bù shūfu.",
+      "english": "A pillow that’s too high can make your neck uncomfortable."
+    }
+  ]
+}

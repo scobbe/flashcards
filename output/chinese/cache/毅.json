@@ -1,0 +1,43 @@
+{
+  "simplified": "毅",
+  "traditional": "毅",
+  "pinyin": "yì",
+  "english": "resolute; steadfast; firm; fortitude",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 殳 (\"ancient Chinese weapon\") + phonetic: 豙",
+    "interpretation": "Combines a 'weapon/act' signific to evoke force, action, and steadfast resolve. The phonetic 豙 provides the yì sound and reinforces a sense of firmness through its archaic usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "ancient weapon; implement; strike"
+    },
+    {
+      "char": "豙",
+      "trad": "豙",
+      "pinyin": "yì",
+      "english": "rare character used as a phonetic"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他凭着坚毅的意志完成了任务(他憑著堅毅的意志完成了任務)。",
+      "pinyin": "Tā píngzhe jiānyì de yìzhì wánchéngle rènwu.",
+      "english": "He completed the task with steadfast will."
+    },
+    {
+      "chinese": "面对困难(面對困難)，她表现出惊人的毅力(她表現出驚人的毅力)。",
+      "pinyin": "Miànduì kùnnán, tā biǎoxiàn chū jīngrén de yìlì.",
+      "english": "Facing difficulties, she showed astonishing perseverance."
+    },
+    {
+      "chinese": "领导者需要刚毅而不失温和(領導者需要剛毅而不失溫和)。",
+      "pinyin": "Lǐngdǎo zhě xūyào gāngyì ér bù shī wēnhé.",
+      "english": "Leaders need to be resolute without losing gentleness."
+    }
+  ]
+}

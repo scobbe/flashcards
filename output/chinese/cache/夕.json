@@ -1,0 +1,29 @@
+{
+  "simplified": "夕",
+  "traditional": "夕",
+  "pinyin": "xī",
+  "english": "evening",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: crescent moon; compare 月",
+    "interpretation": "Depicts a crescent moon, evoking the time after sunset when evening begins. By association it came to denote evening and appears productively in words related to dusk and night.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "今天的夕阳很美(今天的夕陽很美)。",
+      "pinyin": "Jīntiān de xīyáng hěn měi.",
+      "english": "The evening sun is beautiful today."
+    },
+    {
+      "chinese": "今夕我们在河畔散步(今夕我們在河畔散步)。",
+      "pinyin": "Jīn xī wǒmen zài hépàn sànbù.",
+      "english": "This evening we stroll by the river."
+    },
+    {
+      "chinese": "夕照映红了山谷(夕照映紅了山谷)。",
+      "pinyin": "Xīzhào yìng hóng le shāngǔ.",
+      "english": "The evening glow reddened the valley."
+    }
+  ]
+}

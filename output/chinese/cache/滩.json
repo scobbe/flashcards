@@ -1,0 +1,37 @@
+{
+  "simplified": "滩",
+  "traditional": "灘",
+  "pinyin": "tān",
+  "english": "beach; shoal; sandbank; river shoal",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 氵 (water) + phonetic: 難 (simplified 难)",
+    "interpretation": "The water radical signals a meaning connected to bodies of water and shorelines. 難/难 serves as the phonetic element (historically related in sound), while the watery radical carries the sense of shoals, sandbanks, and beaches.",
+    "simplification": "Simplified by replacing the phonetic 難 with its simplified form 难 to reduce strokes; the water radical was retained, so the meaning stays the same."
+  },
+  "parts": [
+    {
+      "char": "难",
+      "trad": "難",
+      "pinyin": "nán",
+      "english": "difficult; hardship"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "河水退去后露出沙滩(河水退去後露出沙灘)。",
+      "pinyin": "Héshuǐ tuìqù hòu lùchū shātān.",
+      "english": "After the river recedes, a sandbank emerges."
+    },
+    {
+      "chinese": "我们在海滩上散步(我們在海灘上散步)。",
+      "pinyin": "Wǒmen zài hǎitān shàng sànbù.",
+      "english": "We take a walk on the beach."
+    },
+    {
+      "chinese": "船靠近河滩时要小心浅滩(船靠近河灘時要小心淺灘)。",
+      "pinyin": "Chuán kàojìn hétān shí yào xiǎoxīn qiǎntān.",
+      "english": "Be careful of shallow shoals when the boat nears the river shoal."
+    }
+  ]
+}

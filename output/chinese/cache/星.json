@@ -1,0 +1,49 @@
+{
+  "simplified": "星",
+  "traditional": "星",
+  "pinyin": "xīng",
+  "english": "star; heavenly body; starlight; small amount",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 晶 + phonetic 生; 晶 later simplified to 日; 晶 originally referred to this word.",
+    "interpretation": "A light/glitter element (historically 晶, later written as 日) combines with the phonetic 生 to approximate an early xing-like sound. Early usage had 晶 itself mean ‘twinkling stars’, with 生 added to reinforce the sound before the top component was reduced to 日 in the modern form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "to be born; life; raw"
+    },
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "sparkling; bright; crystal"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夜空中有许多明亮的星星(夜空中有許多明亮的星星)。",
+      "pinyin": "Yèkōng zhōng yǒu xǔduō míngliàng de xīngxing.",
+      "english": "There are many bright stars in the night sky."
+    },
+    {
+      "chinese": "星光照在海面上，像碎银一样(星光照在海面上，像碎銀一樣)。",
+      "pinyin": "Xīngguāng zhào zài hǎimiàn shang, xiàng suìyín yíyàng.",
+      "english": "Starlight shines on the sea, like scattered silver."
+    },
+    {
+      "chinese": "山谷里零星有几户人家，灯火星星点点(山谷裡零星有幾戶人家，燈火星星點點)。",
+      "pinyin": "Shāngǔ lǐ língxīng yǒu jǐ hù rénjiā, dēnghuǒ xīngxing diǎndiǎn.",
+      "english": "There are a few scattered households in the valley, with lights twinkling here and there."
+    }
+  ]
+}

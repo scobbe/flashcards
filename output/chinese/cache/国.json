@@ -1,0 +1,43 @@
+{
+  "simplified": "国",
+  "traditional": "國",
+  "pinyin": "guó",
+  "english": "country; nation; state; homeland",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 囗 (“closure”) + phonetic: 或; simplified from 國 (或→玉).",
+    "interpretation": "An enclosing border 囗 suggests a bounded territory, while 或 provided the sound. In the simplified form, the inner part was replaced by 玉 to streamline writing, but the enclosing shape preserves the territorial idea.",
+    "simplification": "Replaced the phonetic 或 with simpler 玉 to reduce strokes and regularize the component, while keeping the enclosure 囗 to preserve meaning."
+  },
+  "parts": [
+    {
+      "char": "或",
+      "trad": "或",
+      "pinyin": "huò",
+      "english": "or; maybe"
+    },
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "中国是一个文明古国(中國是一個文明古國)。",
+      "pinyin": "Zhōngguó shì yí gè wénmíng gǔguó.",
+      "english": "China is an ancient civilization."
+    },
+    {
+      "chinese": "我们热爱祖国(我們熱愛祖國)。",
+      "pinyin": "Wǒmen rè'ài zǔguó.",
+      "english": "We love our motherland."
+    },
+    {
+      "chinese": "他在外国工作(他在外國工作)。",
+      "pinyin": "Tā zài wàiguó gōngzuò.",
+      "english": "He works in a foreign country."
+    }
+  ]
+}

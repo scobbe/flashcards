@@ -1,0 +1,43 @@
+{
+  "simplified": "枕",
+  "traditional": "枕",
+  "pinyin": "zhěn",
+  "english": "pillow; to rest the head on; cushion; bolster",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 + phonetic: 冘",
+    "interpretation": "Wood supplies the meaning, indicating a wooden object used to support the head. 冘 provides the sound, reflecting an older pronunciation that later developed into zhěn.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "冘",
+      "trad": "冘",
+      "pinyin": "yín",
+      "english": "to go; to remain (archaic)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢高一点的枕头(我喜歡高一點的枕頭)。",
+      "pinyin": "Wǒ xǐhuan gāo yìdiǎn de zhěntou.",
+      "english": "I like a slightly higher pillow."
+    },
+    {
+      "chinese": "他枕着手臂小睡(他枕著手臂小睡)。",
+      "pinyin": "Tā zhěn zhe shǒubì xiǎoshuì.",
+      "english": "He napped with his head resting on his arm."
+    },
+    {
+      "chinese": "旅行时可以用衣服当枕头(旅行時可以用衣服當枕頭)。",
+      "pinyin": "Lǚxíng shí kěyǐ yòng yīfu dāng zhěntou.",
+      "english": "While traveling, you can use clothes as a pillow."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "叫",
+  "traditional": "叫",
+  "pinyin": "jiào",
+  "english": "call; shout",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 口 (mouth) + phonetic: 丩; original meaning: \"to shout\" (OC *kiːws).",
+    "interpretation": "Mouth signals a vocal action, while 丩 contributes the sound, anchoring the reading. The graph first denoted shouting and later broadened to calling out or summoning someone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "丩",
+      "trad": "丩",
+      "pinyin": "jiū",
+      "english": "to twist; to join; entangle"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "小孩大声叫(小孩大聲叫)。",
+      "pinyin": "Xiǎohái dàshēng jiào.",
+      "english": "The child shouted loudly."
+    },
+    {
+      "chinese": "她叫我的名字(她叫我的名字)。",
+      "pinyin": "Tā jiào wǒ de míngzi.",
+      "english": "She called my name."
+    },
+    {
+      "chinese": "我叫他快来(我叫他快來)。",
+      "pinyin": "Wǒ jiào tā kuài lái.",
+      "english": "I called him to come quickly."
+    }
+  ]
+}

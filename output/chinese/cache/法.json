@@ -1,0 +1,37 @@
+{
+  "simplified": "法",
+  "traditional": "法",
+  "pinyin": "fǎ",
+  "english": "law; method; way; rule",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵 (“water”) + phonetic: 去; simplified from earlier 灋, originally used to represent 廢 (“to cast aside; to abrogate”).",
+    "interpretation": "Water hints at standards and regulation (leveling/flow) associated with law and methods, while 去 provides the sound cue for fǎ. The earlier complex form 灋 later standardized to the simpler 氵+去 structure now used for legal and methodological senses.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "去",
+      "trad": "去",
+      "pinyin": "qù",
+      "english": "go; leave; remove"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们要依法行事(我們要依法行事)。",
+      "pinyin": "Wǒmen yào yīfǎ xíngshì.",
+      "english": "We must act according to the law."
+    },
+    {
+      "chinese": "这条法律很重要(這條法律很重要)。",
+      "pinyin": "Zhè tiáo fǎlǜ hěn zhòngyào.",
+      "english": "This law is very important."
+    },
+    {
+      "chinese": "这种方法简单有效(這種方法簡單有效)。",
+      "pinyin": "Zhè zhǒng fāngfǎ jiǎndān yǒuxiào.",
+      "english": "This method is simple and effective."
+    }
+  ]
+}

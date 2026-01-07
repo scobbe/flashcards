@@ -1,0 +1,29 @@
+{
+  "simplified": "刀",
+  "traditional": "刀",
+  "pinyin": "dāo",
+  "english": "knife",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram — a knife; original form 𠚣, seen in a variant of 利 (𥝢) and atop 黎.",
+    "interpretation": "Depicts a knife with a distinct blade and handle. The graph was streamlined into the current two-stroke form and also serves as a component in characters like 利 and 黎.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他拿着一把刀(他拿著一把刀)。",
+      "pinyin": "Tā názhe yì bǎ dāo.",
+      "english": "He is holding a knife."
+    },
+    {
+      "chinese": "厨师用刀切蔬菜(廚師用刀切蔬菜)。",
+      "pinyin": "Chúshī yòng dāo qiē shūcài.",
+      "english": "The chef uses a knife to cut vegetables."
+    },
+    {
+      "chinese": "这把刀很锋利(這把刀很鋒利)。",
+      "pinyin": "Zhè bǎ dāo hěn fēnglì.",
+      "english": "This knife is very sharp."
+    }
+  ]
+}

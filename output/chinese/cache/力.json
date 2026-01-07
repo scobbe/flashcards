@@ -1,0 +1,29 @@
+{
+  "simplified": "力",
+  "traditional": "力",
+  "pinyin": "lì",
+  "english": "strength; power",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): interpreted as a bent arm extending from the body, or as a wooden plough; original form 𠠲.",
+    "interpretation": "Depicts an arm applying force, a concrete image that came to represent strength and effort. Some traditions also saw it as a plough, linking power with labor in the fields.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他力气很大(他力氣很大)。",
+      "pinyin": "Tā lìqi hěn dà.",
+      "english": "He is very strong."
+    },
+    {
+      "chinese": "我们要尽力完成任务(我們要盡力完成任務)。",
+      "pinyin": "Wǒmen yào jìn lì wánchéng rènwù.",
+      "english": "We must do our best to finish the task."
+    },
+    {
+      "chinese": "科技给人类带来巨大力量(科技給人類帶來巨大力量)。",
+      "pinyin": "Kējì gěi rénlèi dàilái jùdà lìliàng.",
+      "english": "Technology brings great power to humanity."
+    }
+  ]
+}

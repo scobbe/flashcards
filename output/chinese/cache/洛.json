@@ -1,0 +1,37 @@
+{
+  "simplified": "洛",
+  "traditional": "洛",
+  "pinyin": "luò",
+  "english": "Luo (river); the Luo River",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 水 (“water”) + phonetic: 各 (OC *klaːɡ)",
+    "interpretation": "Combines the water element (氵) to signal a water-related meaning with 各 supplying the sound via historical phonetics. Used for the Luo River, the semantic component aligns with the meaning while the phonetic component guides pronunciation that later evolved to luò.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each; every; various"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们沿着洛河散步(我們沿著洛河散步)。",
+      "pinyin": "Wǒmen yánzhe Luòhé sànbù.",
+      "english": "We stroll along the Luo River."
+    },
+    {
+      "chinese": "她从西安去洛阳旅行(她從西安去洛陽旅行)。",
+      "pinyin": "Tā cóng Xī'ān qù Luòyáng lǚxíng.",
+      "english": "She traveled from Xi'an to Luoyang."
+    },
+    {
+      "chinese": "洛水在历史上很重要(洛水在歷史上很重要)。",
+      "pinyin": "Luòshuǐ zài lìshǐ shàng hěn zhòngyào.",
+      "english": "The Luo River has been very important in history."
+    }
+  ]
+}

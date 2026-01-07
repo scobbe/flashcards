@@ -1,0 +1,55 @@
+{
+  "simplified": "行动电源",
+  "traditional": "行動電源",
+  "pinyin": "xíngdòngdiànyuán",
+  "english": "power bank",
+  "etymology": {
+    "type": "compound word",
+    "description": "行动(mobile; to move) + 电源(power source) = portable power supply (power bank).",
+    "interpretation": "Combines mobility with a power source, referring to a portable battery pack for charging devices on the go. Emphasizes use while moving or away from fixed outlets.",
+    "simplification": "“动” simplified from “動” and “电” from “電” to reduce strokes in PRC reforms; “行” and “源” unchanged."
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "to go; to travel; to carry out; all right/OK"
+    },
+    {
+      "char": "动",
+      "trad": "動",
+      "pinyin": "dòng",
+      "english": "to move; movement; to stir/touch; to set in motion"
+    },
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electricity; electric; lightning; telegram"
+    },
+    {
+      "char": "源",
+      "trad": "源",
+      "pinyin": "yuán",
+      "english": "source; origin; fountainhead; to originate"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我随身带着行动电源(我隨身帶著行動電源)，可以随时给手机充电(可以隨時給手機充電)。",
+      "pinyin": "Wǒ suíshēn dàizhe xíngdòng diànyuán, kěyǐ suíshí gěi shǒujī chōngdiàn.",
+      "english": "I carry a power bank with me so I can charge my phone anytime."
+    },
+    {
+      "chinese": "出差时(出差時)，行动电源在火车上很有用(行動電源在火車上很有用)。",
+      "pinyin": "Chūchāi shí, xíngdòng diànyuán zài huǒchē shàng hěn yǒuyòng.",
+      "english": "On business trips, a power bank is very useful on the train."
+    },
+    {
+      "chinese": "这个行动电源容量一万毫安时(這個行動電源容量一萬毫安時)，能充三次(能充三次)。",
+      "pinyin": "Zhège xíngdòng diànyuán róngliàng yī wàn háo'ānshí, néng chōng sān cì.",
+      "english": "This power bank has a 10,000 mAh capacity and can charge three times."
+    }
+  ]
+}

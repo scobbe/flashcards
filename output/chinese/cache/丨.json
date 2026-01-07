@@ -1,0 +1,29 @@
+{
+  "simplified": "丨",
+  "traditional": "丨",
+  "pinyin": "gǔn",
+  "english": "vertical line",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a vertical wooden stick; appears in early 朕 (originally “to mend a boat”) and in 尹, where the stick symbolizes authority.",
+    "interpretation": "Depicts an upright staff, emphasizing straightness and verticality. Its use inside graphs like 朕 and 尹 shows it originally pictured a tool or staff and later generalized to the basic vertical stroke.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "汉字的第二号部首是丨(漢字的第二號部首是丨)。",
+      "pinyin": "Hànzì de dì-èr hào bùshǒu shì gǔn.",
+      "english": "The second Chinese radical is 丨."
+    },
+    {
+      "chinese": "写字时，要把这一笔丨写直(寫字時，要把這一筆丨寫直)。",
+      "pinyin": "Xiězì shí, yào bǎ zhè yì bǐ gǔn xiě zhí.",
+      "english": "When writing, this stroke 丨 should be written straight."
+    },
+    {
+      "chinese": "他写了一笔丨(他寫了一筆丨)。",
+      "pinyin": "Tā xiě le yì bǐ gǔn.",
+      "english": "He wrote a single vertical stroke."
+    }
+  ]
+}

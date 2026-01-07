@@ -1,0 +1,29 @@
+{
+  "simplified": "禸",
+  "traditional": "禸",
+  "pinyin": "róu",
+  "english": "to trample; footprint",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: animal paw print.",
+    "interpretation": "Depicts the impression of an animal’s paw—pad and toes—hence the senses “to trample” and “footprint.” As a component it conveys the idea of animal tracks or trampling, despite superficial resemblance to parts of other characters.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "雪地上留有兽禸(雪地上留有獸禸)。",
+      "pinyin": "Xuědì shàng liú yǒu shòu róu.",
+      "english": "Animal footprints remain on the snow."
+    },
+    {
+      "chinese": "猎人循禸而行(獵人循禸而行)。",
+      "pinyin": "Lièrén xún róu ér xíng.",
+      "english": "The hunter follows the footprints."
+    },
+    {
+      "chinese": "切莫禸幼苗(切莫禸幼苗)。",
+      "pinyin": "Qiè mò róu yòumiáo.",
+      "english": "Do not trample the seedlings."
+    }
+  ]
+}

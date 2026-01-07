@@ -1,0 +1,43 @@
+{
+  "simplified": "饭",
+  "traditional": "飯",
+  "pinyin": "fàn",
+  "english": "meal; cooked rice; food; diet",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Phono-semantic: semantic 食 “food” + phonetic 反; simplified from 飯 (食 → 饣).",
+    "interpretation": "Combines the food element 食/饣 with the sound-bearing 反 to signal pronunciation near fàn. The semantic component anchors meanings related to food, meals, and cooked rice.",
+    "simplification": "The left component 食 was regularized to the shorthand radical 饣 to reduce strokes; the phonetic 反 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; eat"
+    },
+    {
+      "char": "反",
+      "trad": "反",
+      "pinyin": "fǎn",
+      "english": "oppose; reverse"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们一起吃饭吧(我們一起吃飯吧)。",
+      "pinyin": "Wǒmen yìqǐ chīfàn ba.",
+      "english": "Let's eat together."
+    },
+    {
+      "chinese": "中午我带饭去公司(中午我帶飯去公司)。",
+      "pinyin": "Zhōngwǔ wǒ dài fàn qù gōngsī.",
+      "english": "At noon I bring a meal to the office."
+    },
+    {
+      "chinese": "为了健康，他注意饮食，不吃油腻的饭菜(為了健康，他注意飲食，不吃油膩的飯菜)。",
+      "pinyin": "Wèile jiànkāng, tā zhùyì yǐnshí, bù chī yóunì de fàncài.",
+      "english": "For his health, he watches his diet and avoids greasy dishes."
+    }
+  ]
+}

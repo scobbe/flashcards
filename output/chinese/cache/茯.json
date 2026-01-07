@@ -1,0 +1,37 @@
+{
+  "simplified": "茯",
+  "traditional": "茯",
+  "pinyin": "fú",
+  "english": "poria; tuckahoe; medicinal herb; (in compounds) poria part e.g., 茯神",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹 'grass' + phonetic 伏 (fú)",
+    "interpretation": "As an herb name, the grass radical marks it as a botanical/medicinal plant, while 伏 supplies the sound fú and evocatively suggests “lying low,” apt for poria, a fungus that grows hidden under roots. It follows the common 形声 pattern used for many materia medica terms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "伏",
+      "trad": "伏",
+      "pinyin": "fú",
+      "english": "to lie low; to crouch; to submit"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "中药里常用茯苓(中藥裡常用茯苓)。",
+      "pinyin": "Zhōngyào lǐ cháng yòng fúlíng.",
+      "english": "Poria is commonly used in traditional Chinese medicine."
+    },
+    {
+      "chinese": "医生开了含茯神的方子(醫生開了含茯神的方子)。",
+      "pinyin": "Yīshēng kāi le hán fúshén de fāngzi.",
+      "english": "The doctor prescribed a formula containing Poria spirit."
+    },
+    {
+      "chinese": "茯苓饼是苏州特产(茯苓餅是蘇州特產)。",
+      "pinyin": "Fúlíngbǐng shì Sūzhōu tèchǎn.",
+      "english": "Fuling cakes are a specialty of Suzhou."
+    }
+  ]
+}

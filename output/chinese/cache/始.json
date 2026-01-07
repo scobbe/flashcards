@@ -1,0 +1,43 @@
+{
+  "simplified": "始",
+  "traditional": "始",
+  "pinyin": "shǐ",
+  "english": "begin; start; initial; originally",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 女 (“woman”) + phonetic: 台",
+    "interpretation": "女 supplies a semantic hint, while 台 suggests the pronunciation. Associations with beginnings in domestic or social contexts may have motivated the semantic choice, but the primary function here is phonetic borrowing from 台.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "台",
+      "trad": "台",
+      "pinyin": "tái",
+      "english": "platform"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "事情始于一个误会(事情始於一個誤會)。",
+      "pinyin": "Shìqíng shǐyú yī gè wùhuì.",
+      "english": "The matter began with a misunderstanding."
+    },
+    {
+      "chinese": "我们始终保持乐观(我們始終保持樂觀)。",
+      "pinyin": "Wǒmen shǐzhōng bǎochí lèguān.",
+      "english": "We remain optimistic from start to finish."
+    },
+    {
+      "chinese": "她是公司的创始人(她是公司的創始人)。",
+      "pinyin": "Tā shì gōngsī de chuàngshǐrén.",
+      "english": "She is the company's founder."
+    }
+  ]
+}

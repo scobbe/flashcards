@@ -1,0 +1,43 @@
+{
+  "simplified": "福",
+  "traditional": "福",
+  "pinyin": "fú",
+  "english": "blessing; good fortune; happiness; prosperity",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 示 + phonetic 畐 (OC *pʰrɯɡ, *bɯɡ)",
+    "interpretation": "示 evokes an altar and rites, signaling connection to divine favor or ancestral offerings. 畐, meaning “full, abundant,” supplies the sound and hints at fullness bestowed—hence the idea of blessing and good fortune.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "altar; to show; revelation"
+    },
+    {
+      "char": "畐",
+      "trad": "畐",
+      "pinyin": "fú",
+      "english": "full; abundant"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "祝你新年快乐(祝你新年快樂)，福气满满(福氣滿滿)。",
+      "pinyin": "Zhù nǐ xīnnián kuàilè, fúqì mǎn mǎn.",
+      "english": "Wish you a happy New Year, with blessings in abundance."
+    },
+    {
+      "chinese": "过年时(過年時)，人们把“福”字倒贴(人們把「福」字倒貼)。",
+      "pinyin": "Guònián shí, rénmen bǎ 'Fú' zì dàotiē.",
+      "english": "At New Year, people paste the 'fu' character upside down."
+    },
+    {
+      "chinese": "我们向新人送上祝福(我們向新人送上祝福)，愿他们百年好合(願他們百年好合)。",
+      "pinyin": "Wǒmen xiàng xīnrén sòng shàng zhùfú, yuàn tāmen bǎinián hǎo hé.",
+      "english": "We offer blessings to the newlyweds and wish them a harmonious union for a hundred years."
+    }
+  ]
+}

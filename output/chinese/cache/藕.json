@@ -1,0 +1,43 @@
+{
+  "simplified": "藕",
+  "traditional": "藕",
+  "pinyin": "ǒu",
+  "english": "lotus root; lotus rhizome; lotus tuber; edible rhizome",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艸 (“grass”) + phonetic 耦 (OC *ŋoːʔ)",
+    "interpretation": "艸 flags a plant-related meaning, fitting an edible plant rhizome. 耦 supplies the ǒu sound (sharing OC *ŋoːʔ), and its sense of coupling loosely echoes the knotted, segment-like joints of lotus rhizomes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; herbs; plants"
+    },
+    {
+      "char": "耦",
+      "trad": "耦",
+      "pinyin": "ǒu",
+      "english": "pair; couple; yoked; to plow in pairs"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天的凉拌藕片很爽脆(今天的涼拌藕片很爽脆)。",
+      "pinyin": "Jīntiān de liángbàn ǒupiàn hěn shuǎngcuì.",
+      "english": "Today's chilled lotus-root slices are very crisp."
+    },
+    {
+      "chinese": "我妈妈用藕炖排骨(我媽媽用藕燉排骨)。",
+      "pinyin": "Wǒ māma yòng ǒu dùn páigǔ.",
+      "english": "My mom stews pork ribs with lotus root."
+    },
+    {
+      "chinese": "市场上有新鲜的莲藕(市場上有新鮮的蓮藕)。",
+      "pinyin": "Shìchǎng shàng yǒu xīnxiān de lián'ǒu.",
+      "english": "There is fresh lotus root at the market."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "拉制",
+  "traditional": "拉制",
+  "pinyin": "lāzhì",
+  "english": "metal drawing process",
+  "etymology": {
+    "type": "compound word",
+    "description": "拉 (pull/draw) + 制 (make/form) = produce by pulling (metal drawing process).",
+    "interpretation": "Refers to shaping metal by pulling it through a die to reduce cross‑section and increase length. Commonly used for wire and tubing production.",
+    "simplification": "製 → 制: the traditional 製 (‘to manufacture’) was simplified by dropping the 衣 component, merging with 制 in Mainland usage; thus 拉製 → 拉制."
+  },
+  "parts": [
+    {
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "to pull; to drag; to draw; to stretch"
+    },
+    {
+      "char": "制",
+      "trad": "製",
+      "pinyin": "zhì",
+      "english": "to make; manufacture; system; to control"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这种材料适合拉制细管(這種材料適合拉製細管)。",
+      "pinyin": "Zhè zhǒng cáiliào shìhé lāzhì xìguǎn.",
+      "english": "This material is suitable for drawing fine tubes."
+    },
+    {
+      "chinese": "通过多道次拉制(通過多道次拉製)，截面更加均匀(截面更加均勻)。",
+      "pinyin": "Tōngguò duō dàocì lāzhì, jiémiàn gèngjiā jūnyún.",
+      "english": "With multiple drawing passes, the cross-section becomes more uniform."
+    },
+    {
+      "chinese": "拉制前需对坯料进行润滑处理(拉製前需對坯料進行潤滑處理)。",
+      "pinyin": "Lāzhì qián xū duì pēiliào jìnxíng rùnhuá chǔlǐ.",
+      "english": "Before drawing, the billet needs lubrication treatment."
+    }
+  ]
+}

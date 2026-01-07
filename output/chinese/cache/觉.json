@@ -1,0 +1,37 @@
+{
+  "simplified": "觉",
+  "traditional": "覺",
+  "pinyin": "jué",
+  "english": "feel; perceive; awaken",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 見 “see” + phonetic: 𦥯; simplified as 𦥯→𰃮 and 見→见.",
+    "interpretation": "Combines the meaning of “seeing/perceiving” with a sound-bearing component, yielding the idea of perceiving or becoming aware. The phonetic 𦥯 guides the pronunciation, while 見 anchors the sense of perception.",
+    "simplification": "Both components were graphically simplified to reduce strokes and standardize forms: phonetic 𦥯 to 𰃮 and semantic 見 to 见, aligning with Mainland script reform for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我觉得今天很冷(我覺得今天很冷)。",
+      "pinyin": "Wǒ juéde jīntiān hěn lěng.",
+      "english": "I feel it’s very cold today."
+    },
+    {
+      "chinese": "她终于觉醒，开始新的生活(她終於覺醒，開始新的生活)。",
+      "pinyin": "Tā zhōngyú juéxǐng, kāishǐ xīn de shēnghuó.",
+      "english": "She finally awakened and began a new life."
+    },
+    {
+      "chinese": "我察觉到空气里的变化(我察覺到空氣裡的變化)。",
+      "pinyin": "Wǒ chájué dào kōngqì lǐ de biànhuà.",
+      "english": "I noticed a change in the air."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "朿",
+  "traditional": "朿",
+  "pinyin": "cì",
+  "english": "thorn; prickle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a tree 木 with thorns; alternatively, a three-pointed spear.",
+    "interpretation": "Depicts a trunk with protruding spikes, conveying the idea of something that pricks. Some scholars see a multi-pronged spear, but both readings emphasize sharp points that pierce.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他被朿扎了手指(他被朿紮了手指)。",
+      "pinyin": "Tā bèi cì zhā le shǒuzhǐ.",
+      "english": "He got his finger pricked by a thorn."
+    },
+    {
+      "chinese": "那株玫瑰满是朿，别靠太近(那株玫瑰滿是朿，別靠太近)。",
+      "pinyin": "Nà zhū méiguī mǎn shì cì, bié kào tài jìn.",
+      "english": "That rosebush is full of thorns; don’t get too close."
+    },
+    {
+      "chinese": "古人以朿比喻小而尖的伤害(古人以朿比喻小而尖的傷害)。",
+      "pinyin": "Gǔrén yǐ cì bǐyù xiǎo ér jiān de shānghài.",
+      "english": "The ancients used ‘thorn’ metaphorically for small, sharp harms."
+    }
+  ]
+}

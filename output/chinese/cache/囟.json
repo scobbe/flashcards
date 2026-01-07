@@ -1,0 +1,29 @@
+{
+  "simplified": "囟",
+  "traditional": "囟",
+  "pinyin": "xìn",
+  "english": "fontanel; crown of the head",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – fontanelle; see also 𡿺 and its simplification 㐫; unrelated to 离.",
+    "interpretation": "Depicts the soft spot on an infant’s skull, visually indicating an opening at the crown. Related historical forms include 𡿺 and its simplified 㐫; despite superficial similarity, it is not connected to 离.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "婴儿的囟门尚未闭合(嬰兒的囟門尚未閉合)。",
+      "pinyin": "Yīng'ér de xìnmén shàngwèi bìhé.",
+      "english": "The baby's fontanelle has not yet closed."
+    },
+    {
+      "chinese": "医生轻触前囟，评估颅内压力(醫生輕觸前囟，評估顱內壓力)。",
+      "pinyin": "Yīshēng qīngchù qiánxìn, pínggū lú nèi yālì.",
+      "english": "The doctor gently touches the anterior fontanelle to assess intracranial pressure."
+    },
+    {
+      "chinese": "民间把头顶的软处称作囟(民間把頭頂的軟處稱作囟)。",
+      "pinyin": "Mínjiān bǎ tóudǐng de ruǎnchù chēngzuò xìn.",
+      "english": "People commonly call the soft spot on the crown of the head ‘xìn’."
+    }
+  ]
+}

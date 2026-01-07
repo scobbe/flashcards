@@ -1,0 +1,43 @@
+{
+  "simplified": "医生",
+  "traditional": "醫生",
+  "pinyin": "yīshēng",
+  "english": "doctor",
+  "etymology": {
+    "type": "compound word",
+    "description": "医(heal/medicine) + 生(person; scholar) = doctor.",
+    "interpretation": "Combines the morpheme for medicine with a suffix meaning scholar/person to mean a medical practitioner. In compounds like 先生 or 儒生, 生 marks a learned person, so here it denotes one who practices healing.",
+    "simplification": "醫 was simplified to 医 by removing the 酉 component and streamlining strokes; 生 stayed the same. The change reduces stroke count for a very high‑frequency character."
+  },
+  "parts": [
+    {
+      "char": "医",
+      "trad": "醫",
+      "pinyin": "yī",
+      "english": "medicine; medical; to heal; doctor"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "to be born; life; raw; student"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他想当医生(他想當醫生)。",
+      "pinyin": "Tā xiǎng dāng yīshēng.",
+      "english": "He wants to be a doctor."
+    },
+    {
+      "chinese": "医生给我开了药(醫生給我開了藥)，让我按时服用(讓我按時服用)。",
+      "pinyin": "Yīshēng gěi wǒ kāi le yào, ràng wǒ ànshí fúyòng.",
+      "english": "The doctor prescribed me medicine and told me to take it on time."
+    },
+    {
+      "chinese": "遇到紧急情况(遇到緊急情況)，请立刻联系医生(請立刻聯繫醫生)。",
+      "pinyin": "Yùdào jǐnjí qíngkuàng, qǐng lìkè liánxì yīshēng.",
+      "english": "In an emergency, please contact a doctor immediately."
+    }
+  ]
+}

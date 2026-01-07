@@ -1,0 +1,29 @@
+{
+  "simplified": "鸟",
+  "traditional": "鳥",
+  "pinyin": "niǎo",
+  "english": "bird",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a bird with a dangling tail; simplified from 鳥 based on its cursive script form.",
+    "interpretation": "Originally depicted a bird with head, body, and drooping tail. The simplified shape follows the cursive outline of 鳥, keeping the beak-and-tail silhouette while dropping extra strokes.",
+    "simplification": "Simplified by adopting the cursive (grass-script) form of 鳥, reducing strokes and omitting feet and other details for a compact outline."
+  },
+  "examples": [
+    {
+      "chinese": "我喜欢鸟(我喜歡鳥)。",
+      "pinyin": "Wǒ xǐhuān niǎo.",
+      "english": "I like birds."
+    },
+    {
+      "chinese": "这只鸟在树上唱歌(這隻鳥在樹上唱歌)。",
+      "pinyin": "Zhè zhī niǎo zài shù shang chànggē.",
+      "english": "This bird is singing in the tree."
+    },
+    {
+      "chinese": "天气变暖时，很多鸟从南方飞来(天氣變暖時，很多鳥從南方飛來)。",
+      "pinyin": "Tiānqì biàn nuǎn shí, hěn duō niǎo cóng nángfāng fēi lái.",
+      "english": "When the weather warms up, many birds fly in from the south."
+    }
+  ]
+}

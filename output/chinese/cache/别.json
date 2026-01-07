@@ -1,0 +1,49 @@
+{
+  "simplified": "别",
+  "traditional": "別",
+  "pinyin": "bié",
+  "english": "to part/separate; to distinguish; other; don't (imperative)",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "會意: 冎 “bone” + 刂 “knife”, hence 𠛰 ‘to cut up bone and flesh’; later stylized as 別. 别 is a variant where 𠮠 is replaced with visually similar 另; officially adopted in 1956 as the simplified form of 彆.",
+    "interpretation": "Combines the ideas of bone and knife to depict cutting apart, which extends to meanings like separating and distinguishing. Over time the form was streamlined, and modern 别 uses 另 on the left for ease and resemblance to the older shape.",
+    "simplification": "The left component 𠮠 was replaced by 另 to reduce strokes and improve legibility; PRC reform also merged 彆/別 to the single simplified form 别 (1956)."
+  },
+  "parts": [
+    {
+      "char": "另",
+      "trad": "另",
+      "pinyin": "lìng",
+      "english": "other; separate; besides"
+    },
+    {
+      "char": "冎",
+      "trad": "冎",
+      "pinyin": "guǎ",
+      "english": "bare bones; skeleton"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "别说话(別說話)。",
+      "pinyin": "Bié shuōhuà.",
+      "english": "Don't speak."
+    },
+    {
+      "chinese": "我们走别的路吧(我們走別的路吧)。",
+      "pinyin": "Wǒmen zǒu bié de lù ba.",
+      "english": "Let's take a different road."
+    },
+    {
+      "chinese": "天色已晚(天色已晚)，我们在车站分别吧(我們在車站分別吧)。",
+      "pinyin": "Tiānsè yǐ wǎn, wǒmen zài chēzhàn fēnbié ba.",
+      "english": "It's getting late; let's part at the station."
+    }
+  ]
+}

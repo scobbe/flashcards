@@ -1,0 +1,49 @@
+{
+  "simplified": "头",
+  "traditional": "頭",
+  "pinyin": "tóu",
+  "english": "head; top; first; end",
+  "etymology": {
+    "type": "simplified from cursive form of 頭",
+    "description": "Simplified from 頭: 豆 (phonetic) → ⺀; 頁/页 (semantic “head”) → 大. Traditional 頭 is phono-semantic: semantic 頁 + phonetic 豆.",
+    "interpretation": "A cursive abbreviation of 頭 where the original phonetic 豆 was reduced to a dot-like stroke and the semantic 頁/页 was streamlined to 大. The simplification preserves overall silhouette while dropping the original phonetic-semantic clarity.",
+    "simplification": "Cursive-derived stroke reduction to ease writing: 豆 → ⺀ and 頁/页 → 大; merges and streamlines parts of 頭."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great"
+    },
+    {
+      "char": "页",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "page; leaf"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我头疼了(我頭疼了)。",
+      "pinyin": "Wǒ tóu téng le.",
+      "english": "My head aches."
+    },
+    {
+      "chinese": "他站在队伍的最前头(他站在隊伍的最前頭)。",
+      "pinyin": "Tā zhàn zài duìwu de zuì qián tou.",
+      "english": "He is standing at the very front of the line."
+    },
+    {
+      "chinese": "这条路的尽头是海边(這條路的盡頭是海邊)。",
+      "pinyin": "Zhè tiáo lù de jìntóu shì hǎibiān.",
+      "english": "At the end of this road is the seaside."
+    }
+  ]
+}

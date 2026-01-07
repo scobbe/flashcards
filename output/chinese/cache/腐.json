@@ -1,0 +1,43 @@
+{
+  "simplified": "腐",
+  "traditional": "腐",
+  "pinyin": "fǔ",
+  "english": "rotten; decay; curdled; tofu (in compounds)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 府 (OC *poʔ) + semantic 肉 (“flesh; body”).",
+    "interpretation": "Meaning arises from the flesh component, pointing to things of the body or meat, especially when spoiling or curdling. Sound is borrowed from 府 (fǔ), and the sense broadened to decay and soy products like tofu that involve coagulation/fermentation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "府",
+      "trad": "府",
+      "pinyin": "fǔ",
+      "english": "government office; public building"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这块木头开始腐烂(這塊木頭開始腐爛)。",
+      "pinyin": "Zhè kuài mùtou kāishǐ fǔlàn.",
+      "english": "This piece of wood is starting to rot."
+    },
+    {
+      "chinese": "我们晚餐做了麻婆豆腐(我們晚餐做了麻婆豆腐)。",
+      "pinyin": "Wǒmen wǎncān zuò le Mápó dòufu.",
+      "english": "We made mapo tofu for dinner."
+    },
+    {
+      "chinese": "政府加强反腐(政府加強反腐)，减少官员腐败(減少官員腐敗)。",
+      "pinyin": "Zhèngfǔ jiāqiáng fǎnfǔ, jiǎnshǎo guānyuán fǔbài.",
+      "english": "The government is strengthening anti-corruption efforts and reducing official corruption."
+    }
+  ]
+}

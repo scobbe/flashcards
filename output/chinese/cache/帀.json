@@ -1,0 +1,37 @@
+{
+  "simplified": "帀",
+  "traditional": "帀",
+  "pinyin": "zā",
+  "english": "to go round; surround",
+  "etymology": {
+    "type": "uncertain",
+    "description": "Uncertain; Shuowen: inverted 之 (originally 㞢); Zhang Shichao: “roots” 柢; oracle bones: 之 represents a footprint.",
+    "interpretation": "Scholars propose several origins: an inversion of 之, an image of spreading roots, or a footprint mark. Each points to motion or extension around something, which aligns with the sense of circling or surrounding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "towel; cloth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "敌军帀城而围之(敵軍帀城而圍之)。",
+      "pinyin": "Díjūn zā chéng ér wéi zhī.",
+      "english": "The enemy army went around the city and laid siege to it."
+    },
+    {
+      "chinese": "商人帀市叫卖(商人帀市叫賣)。",
+      "pinyin": "Shāngrén zā shì jiàomài.",
+      "english": "Merchants went around the market hawking their goods."
+    },
+    {
+      "chinese": "我们沿湖帀行一圈(我們沿湖帀行一圈)。",
+      "pinyin": "Wǒmen yán hú zā xíng yī quān.",
+      "english": "We went around the lake for one lap."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "simplified": "淮海战役",
+  "traditional": "淮海戰役",
+  "pinyin": "Huáihǎi zhànyì",
+  "english": "Huaihai Campaign",
+  "etymology": {
+    "type": "compound word",
+    "description": "淮海 (Huai River + coastal/sea region) + 战役/戰役 (military campaign) = the campaign fought in the Huaihai region.",
+    "interpretation": "Names a major 1948–49 campaign of the Chinese Civil War centered around the Huaihai region (e.g., Xuzhou area). Combines a toponym with the military term for a large-scale operation.",
+    "simplification": "戰 → 战 reduces strokes by streamlining components; 淮 and 海 unchanged; 役 unchanged."
+  },
+  "parts": [
+    {
+      "char": "淮",
+      "trad": "淮",
+      "pinyin": "Huái",
+      "english": "Huai (river name);Huai River region;area around the Huai;surname"
+    },
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "Hǎi",
+      "english": "sea;ocean;maritime;vast"
+    },
+    {
+      "char": "战",
+      "trad": "戰",
+      "pinyin": "Zhàn",
+      "english": "war;battle;to fight;to contend"
+    },
+    {
+      "char": "役",
+      "trad": "役",
+      "pinyin": "Yì",
+      "english": "campaign (military);service;corvée labor;duty"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "淮海战役是解放战争三大战役之一(淮海戰役是解放戰爭三大戰役之一)。",
+      "pinyin": "Huáihǎi Zhànyì shì Jiěfàng Zhànzhēng sān dà zhànyì zhī yī.",
+      "english": "The Huaihai Campaign was one of the three major campaigns of the War of Liberation."
+    },
+    {
+      "chinese": "战役主要在徐州地区进行，最终以人民解放军胜利告终(戰役主要在徐州地區進行，最終以人民解放軍勝利告終)。",
+      "pinyin": "Zhànyì zhǔyào zài Xúzhōu dìqū jìnxíng, zuìzhōng yǐ Rénmín Jiěfàngjūn shènglì gàozhōng.",
+      "english": "The campaign was fought mainly in the Xuzhou area and ended in a PLA victory."
+    },
+    {
+      "chinese": "学者通过研究淮海战役，总结出大兵团作战的组织与补给经验(學者通過研究淮海戰役，總結出大兵團作戰的組織與補給經驗)。",
+      "pinyin": "Xuézhě tōngguò yánjiū Huáihǎi Zhànyì, zǒngjié chū dà bīngtuán zuòzhàn de zǔzhī yǔ bǔjǐ jīngyàn.",
+      "english": "Scholars study the Huaihai Campaign to summarize organizational and logistics lessons for large-unit operations."
+    }
+  ]
+}

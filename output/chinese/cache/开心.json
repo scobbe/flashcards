@@ -1,0 +1,43 @@
+{
+  "simplified": "开心",
+  "traditional": "開心",
+  "pinyin": "kāixīn",
+  "english": "happy",
+  "etymology": {
+    "type": "compound word",
+    "description": "开(open) + 心(heart) = ‘open the heart’ → happy.",
+    "interpretation": "Literally ‘open the heart’, suggesting emotions are unobstructed and cheerful. Originated as a verb phrase and now commonly functions as an adjective or verb meaning to feel happy.",
+    "simplification": "開 was simplified to 开 by streamlining the 門 component and internal strokes for stroke economy; 心 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "开",
+      "trad": "開",
+      "pinyin": "kāi",
+      "english": "open; start; turn on; expand"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind; feelings; center"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我今天很开心(我今天很開心)。",
+      "pinyin": "Wǒ jīntiān hěn kāixīn.",
+      "english": "I’m very happy today."
+    },
+    {
+      "chinese": "这件小事就能让我开心一整天(這件小事就能讓我開心一整天)。",
+      "pinyin": "Zhè jiàn xiǎo shì jiù néng ràng wǒ kāixīn yī zhěng tiān.",
+      "english": "A small thing can keep me happy all day."
+    },
+    {
+      "chinese": "朋友讲笑话(朋友講笑話)，我们都开心地笑了(我們都開心地笑了)。",
+      "pinyin": "Péngyǒu jiǎng xiàohuà, wǒmen dōu kāixīn de xiàole.",
+      "english": "A friend told a joke, and we all laughed happily."
+    }
+  ]
+}

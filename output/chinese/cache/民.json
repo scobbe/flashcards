@@ -1,0 +1,29 @@
+{
+  "simplified": "民",
+  "traditional": "民",
+  "pinyin": "mín",
+  "english": "people; populace; civilian; folk",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram; later jiajie (phonetic loan) for “the people”.",
+    "interpretation": "Originally a pictorial graph whose precise image is uncertain, it was later borrowed (jiajie) to write the word ‘people’. Claims that it depicts an eye pierced by a tool are likely folk etymology and are not supported by phonetic evidence linking it to 盲.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "中国人民团结一致(中國人民團結一致)。",
+      "pinyin": "Zhōngguó rénmín tuánjié yīzhì.",
+      "english": "The Chinese people are united."
+    },
+    {
+      "chinese": "政府应倾听民意(政府應傾聽民意)。",
+      "pinyin": "Zhèngfǔ yīng qīngtīng mínyì.",
+      "english": "The government should listen to public opinion."
+    },
+    {
+      "chinese": "战乱时期，许多平民流离失所(戰亂時期，許多平民流離失所)。",
+      "pinyin": "Zhànluàn shíqī, xǔduō píngmín liúlí shīsuǒ.",
+      "english": "During wartime, many civilians are displaced."
+    }
+  ]
+}

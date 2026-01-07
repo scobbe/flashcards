@@ -1,0 +1,37 @@
+{
+  "simplified": "三",
+  "traditional": "三",
+  "pinyin": "sān",
+  "english": "three; third; triple; trio",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Three parallel strokes; triplication of 一 (“one”). Compare 一, 二; unrelated to 丰.",
+    "interpretation": "Three horizontal lines directly depict the quantity three, following the simple additive pattern of one and two. It is purely semantic with no phonetic component, visually stacking 'one' three times.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我有三个问题(我有三個問題)。",
+      "pinyin": "Wǒ yǒu sān gè wèntí.",
+      "english": "I have three questions."
+    },
+    {
+      "chinese": "我们三点见(我們三點見)。",
+      "pinyin": "Wǒmen sān diǎn jiàn.",
+      "english": "Let’s meet at three o’clock."
+    },
+    {
+      "chinese": "他住在三楼(他住在三樓)。",
+      "pinyin": "Tā zhù zài sān lóu.",
+      "english": "He lives on the third floor."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "结",
+  "traditional": "結",
+  "pinyin": "jié",
+  "english": "knot; tie; bind; conclude",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 糸 + phonetic: 吉",
+    "interpretation": "糸 evokes threads and tying, pointing to meanings like knotting and binding. 吉 contributes the sound (OC 吉 *klid ~ 結 *kiːd) and by association can suggest an auspicious tying together or conclusion.",
+    "simplification": "Simplified by replacing the left-side 糸 with 纟 under the standard silk-radical simplification; the phonetic 吉 was retained unchanged."
+  },
+  "parts": [
+    {
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "auspicious; lucky"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我把绳子打结(我把繩子打結)。",
+      "pinyin": "Wǒ bǎ shéngzi dǎ jié.",
+      "english": "I tie a knot in the rope."
+    },
+    {
+      "chinese": "我们今天结婚(我們今天結婚)。",
+      "pinyin": "Wǒmen jīntiān jiéhūn.",
+      "english": "We are getting married today."
+    },
+    {
+      "chinese": "会议圆满结束(會議圓滿結束)。",
+      "pinyin": "Huìyì yuánmǎn jiéshù.",
+      "english": "The meeting concluded successfully."
+    }
+  ]
+}

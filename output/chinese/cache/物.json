@@ -1,0 +1,43 @@
+{
+  "simplified": "物",
+  "traditional": "物",
+  "pinyin": "wù",
+  "english": "thing; object; matter; creature",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 牛 + phonetic 勿 (OC *mɯd)",
+    "interpretation": "Combines the semantic element 牛 ‘cow’ hinting at concrete beings or goods, with the phonetic 勿 to suggest the pronunciation. The sense broadened from livestock or tangible creatures to the general idea of things, objects, and matters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow; ox"
+    },
+    {
+      "char": "勿",
+      "trad": "勿",
+      "pinyin": "wù",
+      "english": "do not; must not"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我对未知的事物很好奇(我對未知的事物很好奇)。",
+      "pinyin": "Wǒ duì wèizhī de shìwù hěn hàoqí.",
+      "english": "I am very curious about unknown things."
+    },
+    {
+      "chinese": "这件物品很贵(這件物品很貴)。",
+      "pinyin": "Zhè jiàn wùpǐn hěn guì.",
+      "english": "This item is expensive."
+    },
+    {
+      "chinese": "动物需要食物和水(動物需要食物和水)。",
+      "pinyin": "Dòngwù xūyào shíwù hé shuǐ.",
+      "english": "Animals need food and water."
+    }
+  ]
+}

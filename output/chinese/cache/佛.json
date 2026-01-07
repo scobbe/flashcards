@@ -1,0 +1,43 @@
+{
+  "simplified": "佛",
+  "traditional": "佛",
+  "pinyin": "fó",
+  "english": "Buddha; Buddhism; Buddhist; Buddha image",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 亻 (person) + phonetic 弗 (OC *pɯd).",
+    "interpretation": "Combines the person radical to indicate a human figure, with 弗 providing the pronunciation. The semantics fit a revered person (the Buddha) and, by extension, Buddhist-related meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; human"
+    },
+    {
+      "char": "弗",
+      "trad": "弗",
+      "pinyin": "fú",
+      "english": "not (classical); un-"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我在寺庙里看见了一尊佛像(我在寺廟裡看見了一尊佛像)。",
+      "pinyin": "Wǒ zài sìmiào lǐ kànjiàn le yī zūn fóxiàng.",
+      "english": "I saw a Buddha statue in the temple."
+    },
+    {
+      "chinese": "他是虔诚的佛教徒(他是虔誠的佛教徒)。",
+      "pinyin": "Tā shì qiánchéng de Fójiàotú.",
+      "english": "He is a devout Buddhist."
+    },
+    {
+      "chinese": "人们称释迦牟尼为佛(人們稱釋迦牟尼為佛)。",
+      "pinyin": "Rénmen chēng Shìjiāmóuní wéi Fó.",
+      "english": "People call Śākyamuni the Buddha."
+    }
+  ]
+}

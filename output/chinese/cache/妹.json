@@ -1,0 +1,43 @@
+{
+  "simplified": "妹",
+  "traditional": "妹",
+  "pinyin": "mèi",
+  "english": "younger sister; junior female; girl; young woman",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 女 (“female, woman”) + phonetic 未 (OC *mɯds).",
+    "interpretation": "Combines 女 to anchor the meaning in the female domain with 未 supplying the approximate sound mèi. The structure points to a female in a younger or junior position, giving senses like “younger sister” and colloquial “young woman.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman; female"
+    },
+    {
+      "char": "未",
+      "trad": "未",
+      "pinyin": "wèi",
+      "english": "not yet"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我有一个妹妹(我有一個妹妹)。",
+      "pinyin": "Wǒ yǒu yí gè mèimei.",
+      "english": "I have a younger sister."
+    },
+    {
+      "chinese": "她是我的师妹(她是我的師妹)。",
+      "pinyin": "Tā shì wǒ de shīmèi.",
+      "english": "She is my junior female schoolmate."
+    },
+    {
+      "chinese": "那位妹妹唱歌很好听(那位妹妹唱歌很好聽)。",
+      "pinyin": "Nà wèi mèimei chànggē hěn hǎotīng.",
+      "english": "That young woman sings very well."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "释迦",
+  "traditional": "釋迦",
+  "pinyin": "shìjiā",
+  "english": "sugar apple",
+  "etymology": {
+    "type": "phonetic loan (Buddhist name) → semantic extension",
+    "description": "释(phonetic loan for Śākya) + 迦(transliteration element) = “Śākya”; by resemblance → sugar apple.",
+    "interpretation": "Borrowed from the Buddhist name Shakya; the fruit’s knobby surface recalls the Buddha’s curled hair, so the name was extended to this fruit. Often also called 番荔枝 in Mandarin.",
+    "simplification": "釋 was simplified to 释 via the official character simplification list to reduce strokes; 迦 stayed unchanged."
+  },
+  "parts": [
+    {
+      "char": "释",
+      "trad": "釋",
+      "pinyin": "shì",
+      "english": "explain; interpret; release; Buddhism (abbr.)"
+    },
+    {
+      "char": "迦",
+      "trad": "迦",
+      "pinyin": "jiā",
+      "english": "used in transliterations; Sanskrit “ka/ga” sound; element in Buddhist names; surname"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "台湾盛产释迦(臺灣盛產釋迦)，味道香甜(味道香甜)。",
+      "pinyin": "Táiwān shēngchǎn shìjiā, wèidào xiāngtián.",
+      "english": "Taiwan produces sugar apples in abundance, and they taste sweet and fragrant."
+    },
+    {
+      "chinese": "这种水果也叫番荔枝(這種水果也叫番荔枝)。",
+      "pinyin": "Zhè zhǒng shuǐguǒ yě jiào fān lìzhī.",
+      "english": "This fruit is also called sugar apple (custard apple)."
+    },
+    {
+      "chinese": "释迦成熟时(釋迦成熟時)，果皮会裂开(果皮會裂開)。",
+      "pinyin": "Shìjiā chéngshú shí, guǒpí huì lièkāi.",
+      "english": "When sugar apples ripen, the skin cracks open."
+    }
+  ]
+}

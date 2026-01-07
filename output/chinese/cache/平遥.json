@@ -1,0 +1,43 @@
+{
+  "simplified": "平遥",
+  "traditional": "平遙",
+  "pinyin": "Píngyáo",
+  "english": "Pingyao",
+  "etymology": {
+    "type": "compound toponym",
+    "description": "平 (level; peaceful) + 遥/遙 (distant; far) = place name.",
+    "interpretation": "Place name for a county centered on the famed Ancient City of Pingyao in Shanxi, China. Characters convey a poetic/auspicious feel rather than a literal description.",
+    "simplification": "遙 → 遥: replaced the complex phonetic component with 肴 under the 辶 ‘walk’ radical to reduce strokes while preserving the yáo sound; 平 unchanged."
+  },
+  "parts": [
+    {
+      "char": "平",
+      "trad": "平",
+      "pinyin": "píng",
+      "english": "flat;level;calm;peace"
+    },
+    {
+      "char": "遥",
+      "trad": "遙",
+      "pinyin": "yáo",
+      "english": "distant;far;remote;long-distance"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们准备去山西的平遥旅游。",
+      "pinyin": "Wǒmen zhǔnbèi qù Shānxī de Píngyáo lǚyóu.",
+      "english": "We plan to travel to Pingyao in Shanxi."
+    },
+    {
+      "chinese": "平遥古城保存完好，是世界文化遗产(平遙古城保存完好，是世界文化遺產)。",
+      "pinyin": "Píngyáo gǔchéng bǎocún wánhǎo, shì shìjiè wénhuà yíchǎn.",
+      "english": "The Ancient City of Pingyao is well preserved and is a UNESCO World Cultural Heritage site."
+    },
+    {
+      "chinese": "从太原坐火车到平遥很方便(從太原坐火車到平遙很方便)。",
+      "pinyin": "Cóng Tàiyuán zuò huǒchē dào Píngyáo hěn fāngbiàn.",
+      "english": "It’s very convenient to take a train from Taiyuan to Pingyao."
+    }
+  ]
+}

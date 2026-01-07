@@ -1,0 +1,29 @@
+{
+  "simplified": "弋",
+  "traditional": "弋",
+  "pinyin": "yì",
+  "english": "to shoot; to catch; dart",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a sharp peg — original form of 杙 (OC *lɯɡ, “peg”); same as 才 and 尗.",
+    "interpretation": "Depicts a pointed peg or dart, a simple tool meant to pierce or stick into something. From this image arose senses related to shooting or striking game, and it also served as the base form for characters like 杙.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "古人常用弋射鸟兽(古人常用弋射鳥獸)。",
+      "pinyin": "Gǔrén cháng yòng yìshè niǎo shòu.",
+      "english": "In ancient times people often used yi-shooting to take birds and beasts."
+    },
+    {
+      "chinese": "猎人以弋猎为生(獵人以弋獵為生)。",
+      "pinyin": "Lièrén yǐ yìliè wéi shēng.",
+      "english": "Hunters made a living by fowling or hunting with yi."
+    },
+    {
+      "chinese": "这件青铜器上刻有弋的形象(這件青銅器上刻有弋的形象)。",
+      "pinyin": "Zhè jiàn qīngtóngqì shàng kè yǒu yì de xíngxiàng.",
+      "english": "This bronze vessel is engraved with the image of a yi-peg/dart."
+    }
+  ]
+}

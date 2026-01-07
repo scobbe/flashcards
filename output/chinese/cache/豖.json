@@ -1,0 +1,37 @@
+{
+  "simplified": "豖",
+  "traditional": "豖",
+  "pinyin": "chù",
+  "english": "castrated boar; castrated pig",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a male pig with the penis detached, indicating a castrated boar; later ‘shackled pig’ and Shuowen foot readings are folk/secondary.",
+    "interpretation": "Ancient scribes depicted a boar and marked the genitals as severed to convey the idea of castration directly. Later readings like a shackled pig or a pig tripping reflect stylized forms and do not match the oracle-bone evidence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig; swine"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这只豖很温顺(這隻豖很溫順)。",
+      "pinyin": "Zhè zhī chù hěn wēnshùn.",
+      "english": "This castrated boar is very docile."
+    },
+    {
+      "chinese": "农夫把公猪阉后称作豖(農夫把公豬閹後稱作豖)。",
+      "pinyin": "Nóngfū bǎ gōngzhū yān hòu chēngzuò chù.",
+      "english": "After castrating a male pig, farmers call it a castrated boar (chù)."
+    },
+    {
+      "chinese": "古书有时用豖指代阉猪(古書有時用豖指代閹豬)。",
+      "pinyin": "Gǔshū yǒushí yòng chù zhǐdài yānzhū.",
+      "english": "Old texts sometimes use 豖 to refer to a castrated pig."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "鲜奶",
+  "traditional": "鲜奶",
+  "pinyin": "xiānnǎi",
+  "english": "fresh milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "鲜(fresh) + 奶(milk) = fresh milk",
+    "interpretation": "Emphasizes milk that is newly obtained or minimally processed, retaining a fresh taste. Often contrasts with UHT/long-life milk or milk powder.",
+    "simplification": "鮮 was simplified to 鲜 by reducing the fish radical 魚 to 鱼 while keeping 羊; 奶 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "鲜",
+      "trad": "鮮",
+      "pinyin": "xiān",
+      "english": "fresh; bright (color); delicious; few/rare"
+    },
+    {
+      "char": "奶",
+      "trad": "奶",
+      "pinyin": "nǎi",
+      "english": "milk; breast; nanny; grandmother (in compounds)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢喝鲜奶(我喜歡喝鮮奶)。",
+      "pinyin": "Wǒ xǐhuān hē xiānnǎi.",
+      "english": "I like to drink fresh milk."
+    },
+    {
+      "chinese": "这家店每天清晨送来鲜奶(這家店每天清晨送來鮮奶)。",
+      "pinyin": "Zhè jiā diàn měitiān qīngchén sòng lái xiānnǎi.",
+      "english": "This shop delivers fresh milk every morning."
+    },
+    {
+      "chinese": "请把鲜奶放进冰箱(請把鮮奶放進冰箱)。",
+      "pinyin": "Qǐng bǎ xiānnǎi fàng jìn bīngxiāng.",
+      "english": "Please put the fresh milk in the refrigerator."
+    }
+  ]
+}

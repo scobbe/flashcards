@@ -1,0 +1,43 @@
+{
+  "simplified": "柬",
+  "traditional": "柬",
+  "pinyin": "jiǎn",
+  "english": "card; letter; choose; Cambodia (abbr.)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "束 “tie” + 八 “division, individually”; original meaning ‘to pick/select/choose’ (later written 揀/拣).",
+    "interpretation": "A tied bundle (束) being opened or divided (八) suggests taking something out, hence the idea of selecting. The choosing sense later migrated to 揀/拣, while 柬 remains in compounds like 请柬 and the country name 柬埔寨.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle; to tie, bind"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight; to divide"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我收到婚礼请柬(我收到婚禮請柬)。",
+      "pinyin": "Wǒ shōudào hūnlǐ qǐngjiǎn.",
+      "english": "I received a wedding invitation."
+    },
+    {
+      "chinese": "公司向嘉宾发出请柬(公司向嘉賓發出請柬)。",
+      "pinyin": "Gōngsī xiàng jiābīn fāchū qǐngjiǎn.",
+      "english": "The company sent invitation cards to the guests."
+    },
+    {
+      "chinese": "柬埔寨简称“柬”(柬埔寨簡稱「柬」)。",
+      "pinyin": "Jiǎnpǔzhài jiǎnchēng “Jiǎn”.",
+      "english": "Cambodia is abbreviated as “Jian.”"
+    }
+  ]
+}

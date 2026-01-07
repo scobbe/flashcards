@@ -1,0 +1,37 @@
+{
+  "simplified": "宾",
+  "traditional": "賓",
+  "pinyin": "bīn",
+  "english": "guest; visitor",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Simplified from 賓; semantic: 宀 (“roof; dwelling”) + phonetic: 兵 (bīng).",
+    "interpretation": "Roof 宀 evokes a house or hosting space, pointing to hospitality and visitors. 兵 contributes the sound (bīn ≈ bīng), while the meaning remains “guest/visitor.”",
+    "simplification": "Replaced the complex lower component of 賓 with 兵 to reduce strokes and regularize it as a phono-semantic form; officially adopted in 1956."
+  },
+  "parts": [
+    {
+      "char": "兵",
+      "trad": "兵",
+      "pinyin": "bīng",
+      "english": "soldier; troops"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天我们在家里招待宾客(今天我們在家裡招待賓客)。",
+      "pinyin": "Jīntiān wǒmen zài jiālǐ zhāodài bīnkè.",
+      "english": "Today we entertained guests at home."
+    },
+    {
+      "chinese": "会议开始前，主持人欢迎各位来宾(會議開始前，主持人歡迎各位來賓)。",
+      "pinyin": "Huìyì kāishǐ qián, zhǔchírén huānyíng gèwèi láibīn.",
+      "english": "Before the meeting began, the host welcomed all the guests."
+    },
+    {
+      "chinese": "这家宾馆靠近火车站(這家賓館靠近火車站)。",
+      "pinyin": "Zhè jiā bīnguǎn kàojìn huǒchēzhàn.",
+      "english": "This hotel is close to the train station."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "捏",
+  "traditional": "捏",
+  "pinyin": "niē",
+  "english": "pinch",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 扌 (“hand”) + phonetic: 涅 (abbreviated)",
+    "interpretation": "The hand element signals an action done with the hand. 涅 (niè) contributes the sound in shortened form, yielding the sense of pinching with the fingers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "涅",
+      "trad": "涅",
+      "pinyin": "niè",
+      "english": "blacken; mud"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他轻轻捏我的脸颊(他輕輕捏我的臉頰)。",
+      "pinyin": "Tā qīngqīng niē wǒ de liǎnjiá.",
+      "english": "He gently pinched my cheek."
+    },
+    {
+      "chinese": "小孩把泥团捏成球(小孩把泥團捏成球)。",
+      "pinyin": "Xiǎohái bǎ ní tuán niē chéng qiú.",
+      "english": "The child pinched the clay into a ball."
+    },
+    {
+      "chinese": "他把饺子皮捏紧(他把餃子皮捏緊)。",
+      "pinyin": "Tā bǎ jiǎozi pí niē jǐn.",
+      "english": "He pinched the dumpling wrapper closed."
+    }
+  ]
+}

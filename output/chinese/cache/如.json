@@ -1,0 +1,43 @@
+{
+  "simplified": "如",
+  "traditional": "如",
+  "pinyin": "rú",
+  "english": "like; as; if; in accordance with",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 女 + semantic: 口; also interpreted ideographically as a woman obeying an order.",
+    "interpretation": "女 serves as the phonetic, contributing the rú reading, while 口 evokes speech, orders, or saying, aligning with senses like “as; in accordance with.” Some traditions read it ideographically as a woman responding to a spoken instruction, extending to meanings of conformity or conditionality (“if”).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman; female"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "如果下雨(如果下雨)，我们就不去爬山(我們就不去爬山)。",
+      "pinyin": "Rúguǒ xiàyǔ, wǒmen jiù bù qù páshān.",
+      "english": "If it rains, we won't go hiking."
+    },
+    {
+      "chinese": "她说话一如既往地温和(她說話一如既往地溫和)。",
+      "pinyin": "Tā shuōhuà yī rú jì wǎng de wēnhé.",
+      "english": "She speaks as gently as always."
+    },
+    {
+      "chinese": "如有问题(如有問題)，请联系我(請聯繫我)。",
+      "pinyin": "Rú yǒu wèntí, qǐng liánxì wǒ.",
+      "english": "If you have any questions, please contact me."
+    }
+  ]
+}

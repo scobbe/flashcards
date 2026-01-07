@@ -1,0 +1,29 @@
+{
+  "simplified": "夊",
+  "traditional": "夊",
+  "pinyin": "suī",
+  "english": "to walk slowly",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram—footprint (pointing down); variant of 夂. Compare 止 (leg up) and 𡕒 (toe left).",
+    "interpretation": "Depicts a downward-pointing footprint, evoking a trailing, unhurried step. Its orientation sets it apart from related foot forms, aligning with the sense of slow, following movement.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他慢慢走(他慢慢走)。",
+      "pinyin": "Tā mànman zǒu.",
+      "english": "He walks slowly."
+    },
+    {
+      "chinese": "她步履缓慢(她步履緩慢)。",
+      "pinyin": "Tā bùlǚ huǎnmàn.",
+      "english": "Her steps are slow."
+    },
+    {
+      "chinese": "孩子跟在后面，徐徐而行(孩子跟在後面，徐徐而行)。",
+      "pinyin": "Háizi gēn zài hòumiàn, xúxú ér xíng.",
+      "english": "The child follows behind, moving slowly."
+    }
+  ]
+}

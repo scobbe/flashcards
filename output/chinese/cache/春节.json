@@ -1,0 +1,43 @@
+{
+  "simplified": "春节",
+  "traditional": "春節",
+  "pinyin": "Chūn Jié",
+  "english": "Spring Festival",
+  "etymology": {
+    "type": "compound word",
+    "description": "春 (spring) + 节/節 (festival; seasonal node) = Spring Festival.",
+    "interpretation": "Names the Lunar New Year period and the start-of-spring season in the traditional calendar. By extension, refers to the most important annual holiday in the Sinosphere.",
+    "simplification": "Only 節 was simplified: 節 → 节, an abbreviated, fewer-stroke form (dropping the bamboo radical and compressing the phonetic) to ease writing while preserving sound and core senses like “festival/section.”"
+  },
+  "parts": [
+    {
+      "char": "春",
+      "trad": "春",
+      "pinyin": "chūn",
+      "english": "spring; springtime; youth; vitality"
+    },
+    {
+      "char": "节",
+      "trad": "節",
+      "pinyin": "jié",
+      "english": "festival; section; joint/node; to economize"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在春节回家团圆(我們在春節回家團圓)。",
+      "pinyin": "Wǒmen zài Chūnjié huíjiā tuányuán.",
+      "english": "We go home to reunite at Spring Festival."
+    },
+    {
+      "chinese": "春节期间(春節期間)，街上张灯结彩(街上張燈結彩)。",
+      "pinyin": "Chūnjié qījiān, jiē shang zhāng dēng jié cǎi.",
+      "english": "During Spring Festival, the streets are brightly decorated."
+    },
+    {
+      "chinese": "许多公司在春节放假一周(許多公司在春節放假一週)。",
+      "pinyin": "Xǔduō gōngsī zài Chūnjié fàngjià yì zhōu.",
+      "english": "Many companies take a week off for Spring Festival."
+    }
+  ]
+}

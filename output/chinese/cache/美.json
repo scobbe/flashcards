@@ -1,0 +1,43 @@
+{
+  "simplified": "美",
+  "traditional": "美",
+  "pinyin": "měi",
+  "english": "beautiful; fine; good; USA (abbr.)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a person (大) wearing a headdress (now written 羊) of feathers or ram's horn; modern form seen as ideogrammic compound: 羊 + 大.",
+    "interpretation": "Originally depicted a person adorned with a sheep/feather headdress, an image associated with pleasing or auspicious appearance. Later read as the meeting of 羊 and 大, with the sheep element lending positive aesthetic connotations that underlie the sense beautiful.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这风景真美(這風景真美)。",
+      "pinyin": "Zhè fēngjǐng zhēn měi.",
+      "english": "This scenery is really beautiful."
+    },
+    {
+      "chinese": "她在美留学(她在美留學)。",
+      "pinyin": "Tā zài Měi liúxué.",
+      "english": "She is studying in the U.S."
+    },
+    {
+      "chinese": "人们追求美(人們追求美)。",
+      "pinyin": "Rénmen zhuīqiú měi.",
+      "english": "People pursue beauty."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "屮",
+  "traditional": "屮",
+  "pinyin": "chè",
+  "english": "sprout",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): a sprout emerging from the ground.",
+    "interpretation": "Depicts a shoot pushing up through the soil: the horizontal stroke suggests the ground, while the central vertical stroke and side strokes evoke the stem and small leaves. Early oracle and bronze forms closely resemble a budding plant.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "在甲骨文中，屮表示植物的嫩芽(在甲骨文中，屮表示植物的嫩芽)。",
+      "pinyin": "Zài jiǎgǔwén zhōng, chè biǎoshì zhíwù de nènyá.",
+      "english": "In oracle script, 屮 represents a plant sprout."
+    },
+    {
+      "chinese": "春天雨后，田里冒出许多嫩芽，像“屮”的形状(春天雨後，田裡冒出許多嫩芽，像「屮」的形狀)。",
+      "pinyin": "Chūntiān yǔ hòu, tián lǐ mào chū xǔduō nènyá, xiàng “chè” de xíngzhuàng.",
+      "english": "After spring rains, many sprouts emerge in the fields, resembling the shape of “屮”."
+    },
+    {
+      "chinese": "屮在古文字中象征嫩芽与新生(屮在古文字中象徵嫩芽與新生)。",
+      "pinyin": "Chè zài gǔ wénzì zhōng xiàngzhēng nènyá yǔ xīnshēng.",
+      "english": "In ancient scripts, 屮 symbolizes sprouts and new life."
+    }
+  ]
+}

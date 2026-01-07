@@ -1,0 +1,49 @@
+{
+  "simplified": "阴道炎",
+  "traditional": "陰道炎",
+  "pinyin": "yīndàoyán",
+  "english": "vaginitis",
+  "etymology": {
+    "type": "compound word",
+    "description": "阴道 + 炎 = inflammation of the vaginal canal.",
+    "interpretation": "Refers to inflammation of the vagina or vaginal canal, often due to infection, irritation, or imbalance. Used as a medical diagnosis term.",
+    "simplification": "Only 陰 was simplified to 阴, replacing the complex phonetic 侌 with 月 to reduce strokes and echo the ‘moon/yin’ association; 道 and 炎 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "阴",
+      "trad": "陰",
+      "pinyin": "yīn",
+      "english": "yin; shady; overcast; hidden"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "way; path; doctrine; to say"
+    },
+    {
+      "char": "炎",
+      "trad": "炎",
+      "pinyin": "yán",
+      "english": "inflammation; flame; hot; burning"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她被诊断为阴道炎(她被診斷為陰道炎)。",
+      "pinyin": "Tā bèi zhěnduàn wéi yīndàoyán.",
+      "english": "She was diagnosed with vaginitis."
+    },
+    {
+      "chinese": "阴道炎可能引起瘙痒和异常分泌物(陰道炎可能引起搔癢和異常分泌物)。",
+      "pinyin": "Yīndàoyán kěnéng yǐnqǐ sàoyǎng hé yìcháng fēnmìwù.",
+      "english": "Vaginitis may cause itching and abnormal discharge."
+    },
+    {
+      "chinese": "医生建议使用抗真菌药物治疗阴道炎(醫生建議使用抗真菌藥物治療陰道炎)。",
+      "pinyin": "Yīshēng jiànyì shǐyòng kàng zhēnjūn yàowù zhìliáo yīndàoyán.",
+      "english": "The doctor recommended treating vaginitis with antifungal medication."
+    }
+  ]
+}

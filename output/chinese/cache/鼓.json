@@ -1,0 +1,37 @@
+{
+  "simplified": "鼓",
+  "traditional": "鼓",
+  "pinyin": "gǔ",
+  "english": "drum; to beat; to rouse/encourage; to swell",
+  "etymology": {
+    "type": "Ideogrammic compound (會意)",
+    "description": "semantic: 壴 ‘drum’ + 支 ‘hand holding drumstick’",
+    "interpretation": "A drum combined with a hand wielding a stick sketches the act of striking, yielding the meanings ‘drum’ and ‘to beat.’ By extension it describes stirring up emotions or forces and the bulging, billowing sense of ‘to swell.’",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "support; branch"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我敲着大鼓(我敲著大鼓)。",
+      "pinyin": "Wǒ qiāo zhe dà gǔ.",
+      "english": "I am beating the big drum."
+    },
+    {
+      "chinese": "老师鼓励我们努力学习(老師鼓勵我們努力學習)。",
+      "pinyin": "Lǎoshī gǔlì wǒmen nǔlì xuéxí.",
+      "english": "The teacher encourages us to study hard."
+    },
+    {
+      "chinese": "风鼓起了帆(風鼓起了帆)。",
+      "pinyin": "Fēng gǔqǐ le fān.",
+      "english": "The wind billowed the sails."
+    }
+  ]
+}

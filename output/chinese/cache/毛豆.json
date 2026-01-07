@@ -1,0 +1,43 @@
+{
+  "simplified": "毛豆",
+  "traditional": "毛豆",
+  "pinyin": "máodòu",
+  "english": "edamame",
+  "etymology": {
+    "type": "compound word",
+    "description": "毛 ‘hairy; fuzzy’ + 豆 ‘bean’ = hairy/fuzzy bean (immature soybean).",
+    "interpretation": "Refers to immature soybeans still in their fuzzy pods; ‘hairy’ highlights the fine down on the pods.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair; fur; down; bristle"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; legume; soybean; pulse"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢吃毛豆(我喜歡吃毛豆)。",
+      "pinyin": "Wǒ xǐhuan chī máodòu.",
+      "english": "I like to eat edamame."
+    },
+    {
+      "chinese": "饭馆端上一盘盐水毛豆(飯館端上一盤鹽水毛豆)。",
+      "pinyin": "Fànguǎn duān shàng yí pán yánshuǐ máodòu.",
+      "english": "The restaurant served a plate of salted edamame."
+    },
+    {
+      "chinese": "毛豆是未成熟的黄豆(毛豆是未成熟的黃豆)。",
+      "pinyin": "Máodòu shì wèi chéngshú de huángdòu.",
+      "english": "Edamame are immature soybeans."
+    }
+  ]
+}

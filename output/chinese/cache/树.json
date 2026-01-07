@@ -1,0 +1,43 @@
+{
+  "simplified": "树",
+  "traditional": "樹",
+  "pinyin": "shù",
+  "english": "tree; to plant; to set up; to establish",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 'tree' + phonetic: 尌 ('to plant a tree'); simplified: 壴 → 又",
+    "interpretation": "木 provides the meaning domain of wood/trees, while 尌 contributes the sound and is itself related to planting. In the simplified form, the complex 壴 inside the phonetic component was replaced by 又 to reduce strokes while retaining recognizability.",
+    "simplification": "Component 壴 in the phonetic 尌 was replaced by 又 to lower stroke count while keeping 木 on the left for meaning."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在公园里种树(我們在公園裡種樹)。",
+      "pinyin": "Wǒmen zài gōngyuán lǐ zhòng shù.",
+      "english": "We plant trees in the park."
+    },
+    {
+      "chinese": "学校门口的老树被保护起来了(學校門口的老樹被保護起來了)。",
+      "pinyin": "Xuéxiào ménkǒu de lǎo shù bèi bǎohù qǐlái le.",
+      "english": "The old tree at the school gate has been protected."
+    },
+    {
+      "chinese": "公司要树立良好的形象(公司要樹立良好的形象)。",
+      "pinyin": "Gōngsī yào shùlì liánghǎo de xíngxiàng.",
+      "english": "The company needs to establish a good image."
+    }
+  ]
+}

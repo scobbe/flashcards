@@ -1,0 +1,43 @@
+{
+  "simplified": "费",
+  "traditional": "費",
+  "pinyin": "fèi",
+  "english": "expense;fee;to spend;costly",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 貝 (‘cowry; money’) + phonetic: 弗",
+    "interpretation": "貝 points to the semantic field of money and valuables, fitting meanings like fees and expenses. 弗 supplies the sound, and over time the graph came to cover spending and the idea of being costly.",
+    "simplification": "Simplified to 费 by streamlining strokes, effectively retaining the phonetic 弗 and using the simplified 貝 component (贝) to reduce complexity."
+  },
+  "parts": [
+    {
+      "char": "弗",
+      "trad": "弗",
+      "pinyin": "fú",
+      "english": "not"
+    },
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; money"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这次报销的费用太高(這次報銷的費用太高)。",
+      "pinyin": "Zhè cì bàoxiāo de fèiyòng tài gāo.",
+      "english": "The reimbursable expenses this time are too high."
+    },
+    {
+      "chinese": "学校每学期都要交学费(學校每學期都要交學費)。",
+      "pinyin": "Xuéxiào měi xuéqī dōu yào jiāo xuéfèi.",
+      "english": "The school requires tuition to be paid every semester."
+    },
+    {
+      "chinese": "这台空调很费电，少开一会儿吧(這臺空調很費電，少開一會兒吧)。",
+      "pinyin": "Zhè tái kòngtiáo hěn fèidiàn, shǎo kāi yíhuìr ba.",
+      "english": "This air conditioner uses a lot of electricity; let’s run it a bit less."
+    }
+  ]
+}

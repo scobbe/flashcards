@@ -1,0 +1,43 @@
+{
+  "simplified": "伞",
+  "traditional": "傘",
+  "pinyin": "sǎn",
+  "english": "umbrella; parasol; parachute (abbr.); umbrella-shaped",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: pictographic representation of an umbrella; simplified from 傘 (𠈌 → 丷).",
+    "interpretation": "Depicts an umbrella canopy with a central handle, originally with figures under it. The simplified form streamlines the under-canopy element into two short strokes while retaining the overall umbrella silhouette.",
+    "simplification": "Stroke reduction by replacing the under-canopy component 𠈌 with the simpler 丷, preserving the canopy/handle outline."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我带伞(我帶傘)。",
+      "pinyin": "Wǒ dài sǎn.",
+      "english": "I’m bringing an umbrella."
+    },
+    {
+      "chinese": "下雨了(下雨了)，别忘了打伞(別忘了打傘)。",
+      "pinyin": "Xià yǔ le, bié wàng le dǎ sǎn.",
+      "english": "It’s raining; don’t forget to use an umbrella."
+    },
+    {
+      "chinese": "伞兵从天空降落(傘兵從天空降落)。",
+      "pinyin": "Sǎnbīng cóng tiānkōng jiàngluò.",
+      "english": "Paratroopers descended from the sky."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "值",
+  "traditional": "值",
+  "pinyin": "zhí",
+  "english": "value; worth; be worth; on duty",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 亻 + phonetic 直 (OC *dɯɡ).",
+    "interpretation": "亻 signals a human-related action, role, or evaluation, while 直 provides the sound zhí and hints at the sense of being straight or upright. The combination evokes judging something directly or properly in relation to people, leading to meanings like being worth a certain value or being on duty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "直",
+      "trad": "直",
+      "pinyin": "zhí",
+      "english": "straight; upright; directly"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; human"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这本书很值钱(這本書很值錢)。",
+      "pinyin": "Zhè běn shū hěn zhíqián.",
+      "english": "This book is very valuable."
+    },
+    {
+      "chinese": "他今天值班(他今天值班)。",
+      "pinyin": "Tā jīntiān zhíbān.",
+      "english": "He is on duty today."
+    },
+    {
+      "chinese": "这次投资很值得(這次投資很值得)。",
+      "pinyin": "Zhè cì tóuzī hěn zhíde.",
+      "english": "This investment is well worth it."
+    }
+  ]
+}

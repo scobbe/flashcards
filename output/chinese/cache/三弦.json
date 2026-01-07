@@ -1,0 +1,43 @@
+{
+  "simplified": "三弦",
+  "traditional": "三弦",
+  "pinyin": "sānxián",
+  "english": "three-stringed Chinese lute used in Pingtan",
+  "etymology": {
+    "type": "compound word",
+    "description": "三 (three) + 弦 (string) = three-stringed lute.",
+    "interpretation": "Names a lute with three strings, notably used to accompany Suzhou Pingtan storytelling. Emphasizes the defining feature—the number of strings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "三",
+      "trad": "三",
+      "pinyin": "sān",
+      "english": "three; third; triple; trio"
+    },
+    {
+      "char": "弦",
+      "trad": "弦",
+      "pinyin": "xián",
+      "english": "string (instrument); bowstring; chord; arc"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "评弹演员常用三弦伴奏(評彈演員常用三弦伴奏)。",
+      "pinyin": "Píngtán yǎnyuán chángyòng sānxián bànzòu.",
+      "english": "Pingtan performers often use the sanxian for accompaniment."
+    },
+    {
+      "chinese": "他拉起三弦，曲调婉转(他拉起三弦，曲調婉轉)。",
+      "pinyin": "Tā lā qǐ sānxián, qǔdiào wǎnzhuǎn.",
+      "english": "He began to play the sanxian, and the melody was graceful."
+    },
+    {
+      "chinese": "这把三弦出自苏州的老作坊(這把三弦出自蘇州的老作坊)。",
+      "pinyin": "Zhè bǎ sānxián chūzì Sūzhōu de lǎo zuòfang.",
+      "english": "This sanxian comes from an old workshop in Suzhou."
+    }
+  ]
+}

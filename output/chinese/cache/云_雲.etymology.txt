@@ -1,0 +1,7 @@
+[云]
+Pictogram ( 象形 ): a stylized picture of clouds.
+Jiajie ( 假借 ) - The character was subsequently borrowed for a near-homophone meaning "to say", and the original meaning came to be represented by 雲 ( OC *ɢun ), through the addition of a semantic component 雨 (“rain”).
+The simplified form adopted by the People's Republic of China in the 1950s eliminates this later addition and uses 云 for both "to say" and "cloud".
+
+[雲]
+Ideogrammic compound ( 會意 / 会意 ) and phono-semantic compound ( 形聲 / 形声 , OC *ɢun ): semantic 雨 ( “ rain ” ) + phonetic 云 ( OC *ɢun , “ cloud ” ) . Originally written 云 , with the 雨 radical added to 云 to distinguish from the borrowed sense of “to speak”.

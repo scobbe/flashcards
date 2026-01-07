@@ -1,0 +1,37 @@
+{
+  "simplified": "很",
+  "traditional": "很",
+  "pinyin": "hěn",
+  "english": "very; quite; rather; to a great extent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 彳 + phonetic: 艮",
+    "interpretation": "Built on the 'step/walk' element 彳 for meaning and 艮 for sound. The motion-related semantic fits older senses about progressing or reaching a degree, which later generalized into an adverb of degree meaning 'very/quite.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stubborn; to stop; Gen trigram"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个菜很辣(這個菜很辣)。",
+      "pinyin": "Zhège cài hěn là.",
+      "english": "This dish is very spicy."
+    },
+    {
+      "chinese": "我觉得他很厉害(我覺得他很厲害)。",
+      "pinyin": "Wǒ juéde tā hěn lìhai.",
+      "english": "I think he is very impressive."
+    },
+    {
+      "chinese": "今天风很大，出门要小心(今天風很大，出門要小心)。",
+      "pinyin": "Jīntiān fēng hěn dà, chūmén yào xiǎoxīn.",
+      "english": "The wind is very strong today; be careful when going out."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[凤]
+Simplified from 鳳 ( 𩾏 → 又 ).
+
+[鳳]
+Phono-semantic compound ( 形聲 / 形声 , OC *bums ): phonetic 凡 ( OC *bom ) + semantic 鳥 ( “ bird ” ) .
+In the oracle bone script, the script of 鳳 ( OC *bums ) was often phonetically borrowed to represent 風 ( OC *plum, *plums , “wind”). Subsequent forms of the script of 風 were also derived from parts of the bronze inscription of 鳳 .

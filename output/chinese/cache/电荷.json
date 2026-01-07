@@ -1,0 +1,43 @@
+{
+  "simplified": "电荷",
+  "traditional": "電荷",
+  "pinyin": "diànhè",
+  "english": "electric charge",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(electricity) + 荷(load; burden) = electric charge.",
+    "interpretation": "Conceptualizes charge as a load borne by electricity, with 荷 echoing terms like 负荷. A modern technical calque, likely influenced by Japanese 電荷.",
+    "simplification": "电 was simplified from 電 in character simplification (PRC); 荷 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electricity; electric; electrical; lightning"
+    },
+    {
+      "char": "荷",
+      "trad": "荷",
+      "pinyin": "hè",
+      "english": "load; burden; to carry; charge (physics)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "电子带负电荷(電子帶負電荷)。",
+      "pinyin": "Diànzǐ dài fù diànhè.",
+      "english": "An electron carries a negative charge."
+    },
+    {
+      "chinese": "质子带正电荷(質子帶正電荷)。",
+      "pinyin": "Zhìzǐ dài zhèng diànhè.",
+      "english": "A proton carries a positive charge."
+    },
+    {
+      "chinese": "导体上的电荷会移动(導體上的電荷會移動)。",
+      "pinyin": "Dǎotǐ shàng de diànhè huì yídòng.",
+      "english": "The charge on a conductor will move."
+    }
+  ]
+}

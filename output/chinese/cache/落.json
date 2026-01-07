@@ -1,0 +1,37 @@
+{
+  "simplified": "落",
+  "traditional": "落",
+  "pinyin": "luò",
+  "english": "to fall; to drop; to decline; to set (of sun)",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艹 + phonetic 洛",
+    "interpretation": "艹 marks an association with plants or vegetation, hinting at senses like leaves or petals falling. 洛 supplies the pronunciation luò, and the meaning broadened from plant-related falling to general senses like drop, decline, or set (of the sun).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "洛",
+      "trad": "洛",
+      "pinyin": "luò",
+      "english": "Luo (river); the Luo River"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "叶子落了(葉子落了)。",
+      "pinyin": "Yèzi luò le.",
+      "english": "The leaves have fallen."
+    },
+    {
+      "chinese": "太阳落山了(太陽落山了)。",
+      "pinyin": "Tàiyáng luò shān le.",
+      "english": "The sun has set behind the hills."
+    },
+    {
+      "chinese": "雨点落在窗上(雨點落在窗上)。",
+      "pinyin": "Yǔdiǎn luò zài chuāng shàng.",
+      "english": "Raindrops fall on the window."
+    }
+  ]
+}

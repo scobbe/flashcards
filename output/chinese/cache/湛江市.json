@@ -1,0 +1,49 @@
+{
+  "simplified": "湛江市",
+  "traditional": "湛江市",
+  "pinyin": "Zhànjiāng Shì",
+  "english": "Zhanjiang City",
+  "etymology": {
+    "type": "proper noun; place name",
+    "description": "湛江 + 市 = Zhanjiang City.",
+    "interpretation": "Literally “Zhan River City,” it names the prefecture-level coastal city in southwestern Guangdong, China. In casual speech 市 may be dropped, leaving just 湛江.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "湛",
+      "trad": "湛",
+      "pinyin": "zhàn",
+      "english": "deep; clear; tranquil; surname"
+    },
+    {
+      "char": "江",
+      "trad": "江",
+      "pinyin": "jiāng",
+      "english": "river; Yangtze; big river; surname"
+    },
+    {
+      "char": "市",
+      "trad": "市",
+      "pinyin": "shì",
+      "english": "city; market; municipality; urban"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "湛江市位于广东省西南部(湛江市位於廣東省西南部)。",
+      "pinyin": "Zhànjiāng Shì wèiyú Guǎngdōng Shěng xīnán bù.",
+      "english": "Zhanjiang City is located in the southwestern part of Guangdong Province."
+    },
+    {
+      "chinese": "我打算去湛江市旅游(我打算去湛江市旅遊)。",
+      "pinyin": "Wǒ dǎsuàn qù Zhànjiāng Shì lǚyóu.",
+      "english": "I plan to travel to Zhanjiang City."
+    },
+    {
+      "chinese": "湛江市的海鲜很有名(湛江市的海鮮很有名)。",
+      "pinyin": "Zhànjiāng Shì de hǎixiān hěn yǒumíng.",
+      "english": "The seafood of Zhanjiang City is very famous."
+    }
+  ]
+}

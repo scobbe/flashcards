@@ -1,0 +1,43 @@
+{
+  "simplified": "馄饨",
+  "traditional": "馄饨",
+  "pinyin": "húntun",
+  "english": "wonton",
+  "etymology": {
+    "type": "compound word",
+    "description": "馄(餛) + 饨(飩) = wonton (stuffed dumpling).",
+    "interpretation": "A traditional Chinese stuffed dumpling often served in broth; both characters are semantic-phonetic with the “food” radical. The second syllable is commonly neutralized in Mandarin (hún·tun), and folk etymology sometimes connects it with 混沌 (hùndùn) due to similar sound.",
+    "simplification": "Both characters simplified the food radical 飠 to 饣 while retaining their phonetic parts (昆, 屯), yielding 馄 and 饨."
+  },
+  "parts": [
+    {
+      "char": "馄",
+      "trad": "餛",
+      "pinyin": "hún",
+      "english": "wonton; wonton dumpling"
+    },
+    {
+      "char": "饨",
+      "trad": "飩",
+      "pinyin": "tún",
+      "english": "wonton; dumpling; small soup dumpling"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我最爱吃馄饨(我最愛吃餛飩)。",
+      "pinyin": "Wǒ zuì ài chī húntun.",
+      "english": "I love eating wontons the most."
+    },
+    {
+      "chinese": "这家店的馄饨皮很薄(這家店的餛飩皮很薄)，汤也很鲜(湯也很鮮)。",
+      "pinyin": "Zhè jiā diàn de húntun pí hěn báo, tāng yě hěn xiān.",
+      "english": "The wonton wrappers at this shop are very thin, and the soup is very fresh."
+    },
+    {
+      "chinese": "他点了一碗虾仁馄饨(他點了一碗蝦仁餛飩)，配上海青菜(配上海青菜)。",
+      "pinyin": "Tā diǎn le yì wǎn xiārén húntun, pèi Shànghǎi qīngcài.",
+      "english": "He ordered a bowl of shrimp wontons, served with Shanghai greens."
+    }
+  ]
+}

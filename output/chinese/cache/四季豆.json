@@ -1,0 +1,49 @@
+{
+  "simplified": "四季豆",
+  "traditional": "四季豆",
+  "pinyin": "sìjìdòu",
+  "english": "green bean; string bean",
+  "etymology": {
+    "type": "compound word",
+    "description": "四 + 季 + 豆 = a bean available in all four seasons.",
+    "interpretation": "Literally “four-season bean,” highlighting year-round availability. In Mainland Chinese it usually means green/snap beans; in Taiwan it often refers to yardlong beans.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "四",
+      "trad": "四",
+      "pinyin": "sì",
+      "english": "four; 4; fourth; fourfold"
+    },
+    {
+      "char": "季",
+      "trad": "季",
+      "pinyin": "jì",
+      "english": "season; quarter (of a year); time of year; harvest season"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; legume; pea; beans (as food)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我妈妈常用四季豆炒肉(我媽媽常用四季豆炒肉)。",
+      "pinyin": "Wǒ māma cháng yòng sìjìdòu chǎo ròu.",
+      "english": "My mom often stir-fries green beans with pork."
+    },
+    {
+      "chinese": "市场上四季豆一年四季都能买到(市場上四季豆一年四季都能買到)。",
+      "pinyin": "Shìchǎng shang sìjìdòu yīnián sìjì dōu néng mǎi dào.",
+      "english": "At the market, green beans are available all year round."
+    },
+    {
+      "chinese": "这道干煸四季豆很下饭(這道乾煸四季豆很下飯)。",
+      "pinyin": "Zhè dào gānbiān sìjìdòu hěn xiàfàn.",
+      "english": "This dry-fried green bean dish goes great with rice."
+    }
+  ]
+}

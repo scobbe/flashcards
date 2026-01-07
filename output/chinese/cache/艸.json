@@ -1,0 +1,37 @@
+{
+  "simplified": "艸",
+  "traditional": "艸",
+  "pinyin": "cǎo",
+  "english": "grass; plants",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram – grass blades; duplication of 屮 (“grass”).",
+    "interpretation": "Shows multiple blades sprouting by doubling 屮, evoking a patch of grass or vegetation. The graphic later served as the grass radical atop many characters and relates to the original top of 春 in its early form (萅).",
+    "simplification": "As a component it was standardized to the two-stroke 艹 for stroke economy and print clarity; as an independent word in modern Chinese, it is replaced by 草."
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout; shoot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古文中常写作“艸”，今作“草”(古文中常寫作「艸」，今作「草」。)",
+      "pinyin": "Gǔwén zhōng cháng xiězuò “cǎo”, jīn zuò “cǎo”.",
+      "english": "In classical texts it was often written as “艸”, while today it is written “草”."
+    },
+    {
+      "chinese": "春天里，草木茂盛(春天裡，艸木茂盛)。",
+      "pinyin": "Chūntiān lǐ, cǎomù màoshèng.",
+      "english": "In spring, plants flourish."
+    },
+    {
+      "chinese": "农夫割草(農夫割艸)。",
+      "pinyin": "Nóngfū gē cǎo.",
+      "english": "The farmer cuts the grass."
+    }
+  ]
+}

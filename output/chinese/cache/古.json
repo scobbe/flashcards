@@ -1,0 +1,43 @@
+{
+  "simplified": "古",
+  "traditional": "古",
+  "pinyin": "gǔ",
+  "english": "ancient; old",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram: 十 ‘shield/mark’ + 口 ‘mouth/mark’ indicating ‘strong, firm’; original form of 固; alt. view: depiction of spitting out food → 苦.",
+    "interpretation": "Combines a shield-like mark with a mouth sign to point to firmness/solidity, a sense that later crystallized in 固, while the graph was borrowed for the meaning “ancient; old.” Some scholars instead interpret it as someone spitting out food, connecting it to 苦 “bitter.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这座古城保存完好(這座古城保存完好)。",
+      "pinyin": "Zhè zuò gǔchéng bǎocún wánhǎo.",
+      "english": "This ancient city is well preserved."
+    },
+    {
+      "chinese": "在古代，人们崇拜自然(在古代，人們崇拜自然)。",
+      "pinyin": "Zài gǔdài, rénmen chóngbài zìrán.",
+      "english": "In ancient times, people worshiped nature."
+    },
+    {
+      "chinese": "我喜欢古典音乐(我喜歡古典音樂)。",
+      "pinyin": "Wǒ xǐhuān gǔdiǎn yīnyuè.",
+      "english": "I like classical music."
+    }
+  ]
+}

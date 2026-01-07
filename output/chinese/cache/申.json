@@ -1,0 +1,29 @@
+{
+  "simplified": "申",
+  "traditional": "申",
+  "pinyin": "shēn",
+  "english": "to state; to extend; 9th Earthly Branch",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram — a bolt of lightning; original character of 電 and 神.",
+    "interpretation": "Originally depicted a streak of lightning; that ancient graph later split into specialized forms like 電 for “lightning” and 神 for “spirit.” Through semantic shift and phonetic loan, 申 came to mean “to state/report” and to name the 9th Earthly Branch, and it now often serves as a phonetic element in compounds.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他已向法院申诉(他已向法院申訴)。",
+      "pinyin": "Tā yǐ xiàng fǎyuàn shēnsù.",
+      "english": "He has already appealed to the court."
+    },
+    {
+      "chinese": "请按时申报材料(請按時申報材料)。",
+      "pinyin": "Qǐng ànshí shēnbào cáiliào.",
+      "english": "Please submit the materials on time."
+    },
+    {
+      "chinese": "申时大约是下午三点到五点(申時大約是下午三點到五點)。",
+      "pinyin": "Shēnshí dàyuē shì xiàwǔ sān diǎn dào wǔ diǎn.",
+      "english": "Shenshi is roughly from 3 to 5 p.m."
+    }
+  ]
+}

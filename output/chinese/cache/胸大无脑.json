@@ -1,0 +1,55 @@
+{
+  "simplified": "胸大无脑",
+  "traditional": "胸大無腦",
+  "pinyin": "xiōng dà wú nǎo",
+  "english": "bimbo (lit. big chest no brains)",
+  "etymology": {
+    "type": "compound word",
+    "description": "胸(chest) + 大(big) + 无(no) + 脑(brain) = big chest but no brains; derogatory stereotype.",
+    "interpretation": "Colloquial, pejorative slang stereotyping a woman as having large breasts but lacking intelligence; widely viewed as sexist and offensive. Best avoided in respectful or professional contexts.",
+    "simplification": "无 is the simplified form of 無 and 脑 is the simplified form of 腦, reducing strokes for ease of writing; 胸 and 大 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "胸",
+      "trad": "胸",
+      "pinyin": "xiōng",
+      "english": "chest; bosom; heart (courage); broad-mindedness"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great; major; eldest"
+    },
+    {
+      "char": "无",
+      "trad": "無",
+      "pinyin": "wú",
+      "english": "without; not have; none; nothing"
+    },
+    {
+      "char": "脑",
+      "trad": "腦",
+      "pinyin": "nǎo",
+      "english": "brain; mind; head; mental"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他用“胸大无脑”评价同事(他用「胸大無腦」評價同事)，结果引起了不满(結果引起了不滿)。",
+      "pinyin": "Tā yòng “xiōng dà wú nǎo” píngjià tóngshì, jiéguǒ yǐnqǐle bùmǎn.",
+      "english": "He described a colleague as a “bimbo,” which caused resentment."
+    },
+    {
+      "chinese": "这种说法带有性别歧视(這種說法帶有性別歧視)，请不要随便使用(請不要隨便使用)。",
+      "pinyin": "Zhè zhǒng shuōfǎ dàiyǒu xìngbié qíshì, qǐng búyào suíbiàn shǐyòng.",
+      "english": "This expression is sexist; please don’t use it casually."
+    },
+    {
+      "chinese": "有些人把它当玩笑(有些人把它當玩笑)，但可能伤害当事人(但可能傷害當事人)。",
+      "pinyin": "Yǒuxiē rén bǎ tā dāng wánxiào, dàn kěnéng shānghài dāngshìrén.",
+      "english": "Some people treat it as a joke, but it can hurt the person involved."
+    }
+  ]
+}

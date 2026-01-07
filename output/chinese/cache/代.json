@@ -1,0 +1,43 @@
+{
+  "simplified": "代",
+  "traditional": "代",
+  "pinyin": "dài",
+  "english": "generation; era; to substitute; to replace",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 亻 ('person') + phonetic 弋 (OC *lɯɡ)",
+    "interpretation": "Combines the person radical with 弋, where 弋 supplies the sound. The human-related semantic component suits meanings like acting on behalf of someone, which later extended to ideas of succession and generations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "弋",
+      "trad": "弋",
+      "pinyin": "yì",
+      "english": "to shoot; to catch; dart"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他代我去开会(他代我去開會)。",
+      "pinyin": "Tā dài wǒ qù kāihuì.",
+      "english": "He went to the meeting in my place."
+    },
+    {
+      "chinese": "我们是同一代的人(我們是同一代的人)。",
+      "pinyin": "Wǒmen shì tóng yī dài de rén.",
+      "english": "We are people of the same generation."
+    },
+    {
+      "chinese": "今天就以茶代酒吧(今天就以茶代酒吧)。",
+      "pinyin": "Jīntiān jiù yǐ chá dài jiǔ ba.",
+      "english": "Let’s use tea as a substitute for wine today."
+    }
+  ]
+}

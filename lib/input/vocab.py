@@ -23,8 +23,8 @@ def call_openai_for_vocab_and_forms(
         "2. EXAMPLES appear LATER on the same line - these are usage phrases, NOT the vocabulary word.\n"
         "3. Lines may be separated by pipes (|) or other delimiters - the vocab word is ALWAYS first.\n"
         "4. Do NOT confuse examples with the vocabulary word. Examples are longer phrases showing usage.\n"
-        "5. Extract: simplified form, traditional form (if different), pinyin with tone marks, short English definition, and example phrases.\n"
-        "6. If simplified and traditional are the same, repeat it.\n"
+        "5. Extract: simplified form, traditional form, pinyin with tone marks, short English definition, and example phrases.\n"
+        "6. ALWAYS provide the correct traditional form (e.g., 酱→醬, 头→頭). Only repeat simplified if genuinely identical (e.g., 的→的).\n"
         "7. Return entries in the same order as the input, one entry per numbered line.\n"
         "8. Do NOT censor or filter profanity/vulgarity - include exact definitions for all words."
     )
@@ -63,6 +63,7 @@ def call_openai_forms_for_words(
         "You convert Chinese vocabulary to their Simplified and Traditional forms and provide English definitions with aligned Pinyin. "
         "Return JSON {\"items\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P|[P1,P2,...], \"english\": E|[E1,E2,...]}, ...]} in the same length and order as input. "
         "Use only Chinese characters for forms. "
+        "ALWAYS provide the correct traditional form (e.g., 酱→醬, 头→頭, 将→將). Only use same form if genuinely identical (e.g., 的→的). "
         "\n\nIMPORTANT RULES FOR MULTIPLE PRONUNCIATIONS:\n"
         "1. If a word has MULTIPLE PRONUNCIATIONS with different meanings, return pinyin and english as ARRAYS.\n"
         "2. Order pronunciations from MOST COMMON to LEAST COMMON.\n"

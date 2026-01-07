@@ -1,0 +1,43 @@
+{
+  "simplified": "痧子",
+  "traditional": "痧子",
+  "pinyin": "shāzi",
+  "english": "measles",
+  "etymology": {
+    "type": "compound word",
+    "description": "痧 (rash) + 子 (noun suffix) = rash illness; measles.",
+    "interpretation": "Colloquial/regional name for a rash illness, often equivalent to measles (麻疹). Emphasizes the rash aspect signaled by 痧.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "痧",
+      "trad": "痧",
+      "pinyin": "shā",
+      "english": "rash; heat-rash; summer-heat illness; cholera (TCM)"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son; seed; noun suffix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "孩子出痧子了(孩子出痧子了)，别着凉(別著涼)。",
+      "pinyin": "Háizi chū shāzi le, bié zháo liáng.",
+      "english": "The child has come out with measles; don’t let them catch cold."
+    },
+    {
+      "chinese": "医生说他得了痧子(醫生說他得了痧子)，需要休息(需要休息)。",
+      "pinyin": "Yīshēng shuō tā dé le shāzi, xūyào xiūxi.",
+      "english": "The doctor said he has measles and needs rest."
+    },
+    {
+      "chinese": "出痧子时要注意隔离(出痧子時要注意隔離)，防止传染(防止傳染)。",
+      "pinyin": "Chū shāzi shí yào zhùyì gélí, fángzhǐ chuánrǎn.",
+      "english": "When measles breaks out, isolation is important to prevent transmission."
+    }
+  ]
+}

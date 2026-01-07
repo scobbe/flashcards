@@ -1,0 +1,43 @@
+{
+  "simplified": "还是",
+  "traditional": "還是",
+  "pinyin": "háishi",
+  "english": "still; yet",
+  "etymology": {
+    "type": "compound word",
+    "description": "還(hái) ‘still; yet’ + 是(shì) ‘to be’ = ‘still be; nevertheless; remain the case’.",
+    "interpretation": "Marks that a situation remains unchanged or persists despite time or expectation, often after a contrast. In suggestions, can soften a recommendation (had better/it’d be best).",
+    "simplification": "還 was simplified to 还 by retaining the walk radical 辶 and replacing the complex phonetic component with a simpler form to reduce strokes; 是 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "还",
+      "trad": "還",
+      "pinyin": "hái",
+      "english": "still; yet; also; fairly"
+    },
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "to be; yes; right; indeed"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我还是爱你(我還是愛你)。",
+      "pinyin": "Wǒ háishi ài nǐ.",
+      "english": "I still love you."
+    },
+    {
+      "chinese": "雨停了(雨停了)，路上还是很滑(路上還是很滑)。",
+      "pinyin": "Yǔ tíng le, lùshang háishi hěn huá.",
+      "english": "The rain has stopped, yet the road is still slippery."
+    },
+    {
+      "chinese": "现在已经九点了(現在已經九點了)，他还是没到(他還是沒到)。",
+      "pinyin": "Xiànzài yǐjīng jiǔ diǎn le, tā háishi méi dào.",
+      "english": "It’s already nine o’clock, yet he still hasn’t arrived."
+    }
+  ]
+}

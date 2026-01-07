@@ -1,0 +1,43 @@
+{
+  "simplified": "懿",
+  "traditional": "懿",
+  "pinyin": "yì",
+  "english": "virtuous",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 心 + phonetic: 壹",
+    "interpretation": "Combines the semantic element 心 (heart) with the phonetic 壹 to point to qualities rooted in the heart. Over time it came to denote lofty, admirable virtue and fine moral character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壹",
+      "trad": "壹",
+      "pinyin": "yī",
+      "english": "one (financial form)"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "皇后以懿德著称(皇后以懿德著稱)。",
+      "pinyin": "Huánghòu yǐ yìdé zhùchēng.",
+      "english": "The empress was renowned for her virtuous conduct."
+    },
+    {
+      "chinese": "他以懿行感化众人(他以懿行感化眾人)。",
+      "pinyin": "Tā yǐ yìxíng gǎnhuà zhòngrén.",
+      "english": "He moved others through his exemplary virtue."
+    },
+    {
+      "chinese": "先祖遗留懿名，后人当自勉(先祖遺留懿名，後人當自勉)。",
+      "pinyin": "Xiānzǔ yíliú yìmíng, hòurén dāng zìmiǎn.",
+      "english": "The ancestors left a fine reputation; descendants should encourage themselves."
+    }
+  ]
+}

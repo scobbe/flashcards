@@ -1,0 +1,43 @@
+{
+  "simplified": "树叶",
+  "traditional": "樹葉",
+  "pinyin": "shùyè",
+  "english": "leaves",
+  "etymology": {
+    "type": "compound word",
+    "description": "树(shù) + 叶(yè) = leaves of a tree.",
+    "interpretation": "Specifies leaves that grow on trees, highlighting the foliage as part of a tree. Common in everyday and literary contexts, especially for seasonal imagery.",
+    "simplification": "Both characters were simplified to reduce strokes: 樹 → 树 kept the 木 ‘tree’ radical and replaced the complex right-side phonetic; 葉 → 叶 dropped the 艹 ‘grass’ radical and simplified the phonetic component, making a high-frequency word faster to write."
+  },
+  "parts": [
+    {
+      "char": "树",
+      "trad": "樹",
+      "pinyin": "shù",
+      "english": "tree; to plant; to set up; to establish"
+    },
+    {
+      "char": "叶",
+      "trad": "葉",
+      "pinyin": "yè",
+      "english": "leaf; foliage; (surname); classifier for leaves/petals"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "秋天(秋天)，树叶变黄了(樹葉變黃了)。",
+      "pinyin": "Qiūtiān, shùyè biàn huáng le.",
+      "english": "In autumn, the tree leaves turn yellow."
+    },
+    {
+      "chinese": "风吹动树叶(風吹動樹葉)，沙沙作响(沙沙作響)。",
+      "pinyin": "Fēng chuīdòng shùyè, shāshā zuòxiǎng.",
+      "english": "The wind moves the tree leaves, making a rustling sound."
+    },
+    {
+      "chinese": "我们在地上捡树叶做标本(我們在地上撿樹葉做標本)。",
+      "pinyin": "Wǒmen zài dìshang jiǎn shùyè zuò biāoběn.",
+      "english": "We picked up tree leaves from the ground to make specimens."
+    }
+  ]
+}

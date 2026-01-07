@@ -1,0 +1,43 @@
+{
+  "simplified": "帮助",
+  "traditional": "幫助",
+  "pinyin": "bāngzhù",
+  "english": "help",
+  "etymology": {
+    "type": "compound word",
+    "description": "帮(assist) + 助(help) = help/assist.",
+    "interpretation": "Combines two near-synonyms to emphasize giving assistance or support; used as both a verb and a noun. Slightly more formal than simply using 帮/幫 alone.",
+    "simplification": "幫 was simplified to 帮 by reducing strokes and merging components to a simpler form; 助 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "帮",
+      "trad": "幫",
+      "pinyin": "bāng",
+      "english": "help; assist; aid; group/faction"
+    },
+    {
+      "char": "助",
+      "trad": "助",
+      "pinyin": "zhù",
+      "english": "help; assist; aid; promote"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我可以帮助你(我可以幫助你)。",
+      "pinyin": "Wǒ kěyǐ bāngzhù nǐ.",
+      "english": "I can help you."
+    },
+    {
+      "chinese": "谢谢你的帮助(謝謝你的幫助)。",
+      "pinyin": "Xièxie nǐ de bāngzhù.",
+      "english": "Thank you for your help."
+    },
+    {
+      "chinese": "如果你需要帮助(如果你需要幫助)，就告诉我(就告訴我)。",
+      "pinyin": "Rúguǒ nǐ xūyào bāngzhù, jiù gàosu wǒ.",
+      "english": "If you need help, just tell me."
+    }
+  ]
+}

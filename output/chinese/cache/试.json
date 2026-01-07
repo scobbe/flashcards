@@ -1,0 +1,43 @@
+{
+  "simplified": "试",
+  "traditional": "試",
+  "pinyin": "shì",
+  "english": "test; try; exam; experiment",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 言 + phonetic: 式",
+    "interpretation": "Combines the speech/words element 言 with the phonetic 式, indicating actions related to speaking or formal methods like trying or testing, while borrowing the shì sound from 式. The meaning aligns with evaluating or attempting through stated rules or procedures.",
+    "simplification": "Simplified by replacing 言 with its simplified form 讠 while retaining the phonetic 式, reducing strokes but preserving sound and core meaning."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech; words"
+    },
+    {
+      "char": "式",
+      "trad": "式",
+      "pinyin": "shì",
+      "english": "pattern; style; formula"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我想试一下新方法(我想試一下新方法)。",
+      "pinyin": "Wǒ xiǎng shì yíxià xīn fāngfǎ.",
+      "english": "I want to try a new method."
+    },
+    {
+      "chinese": "我们下周有一次数学考试(我們下週有一次數學考試)。",
+      "pinyin": "Wǒmen xià zhōu yǒu yí cì shùxué kǎoshì.",
+      "english": "We have a math exam next week."
+    },
+    {
+      "chinese": "科学家在实验中不断试错(科學家在實驗中不斷試錯)。",
+      "pinyin": "Kēxuéjiā zài shíyàn zhōng búduàn shìcuò.",
+      "english": "Scientists keep testing by trial and error in experiments."
+    }
+  ]
+}

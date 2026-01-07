@@ -1,0 +1,43 @@
+{
+  "simplified": "粥",
+  "traditional": "粥",
+  "pinyin": "zhōu",
+  "english": "congee",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Reduced form of 鬻 ‘congee’ (ideogrammic compound).",
+    "interpretation": "A streamlined graphic descended from 鬻, which depicted the idea of porridge through meaningful elements rather than sound. Its meaning comes from the image of rice-based gruel, not from a phonetic clue.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "早上我喜欢喝一碗热粥(早上我喜歡喝一碗熱粥)。",
+      "pinyin": "Zǎoshang wǒ xǐhuān hē yì wǎn rè zhōu.",
+      "english": "In the morning I like to drink a bowl of hot congee."
+    },
+    {
+      "chinese": "生病时，他只吃白粥(生病時，他只吃白粥)。",
+      "pinyin": "Shēngbìng shí, tā zhǐ chī bái zhōu.",
+      "english": "When sick, he only eats plain congee."
+    },
+    {
+      "chinese": "这家店的皮蛋瘦肉粥很有名(這家店的皮蛋瘦肉粥很有名)。",
+      "pinyin": "Zhè jiā diàn de pídàn shòuròu zhōu hěn yǒumíng.",
+      "english": "This shop’s century egg and lean pork congee is very famous."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "采",
+  "traditional": "采",
+  "pinyin": "cǎi",
+  "english": "to pick; gather",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "semantic: 爫 ‘hand’ + 木 ‘tree’ (hand picking from a tree); current form reflects composition 2.",
+    "interpretation": "A hand reaching down over a tree conveys the act of plucking fruit or leaves. The form standardized as 爫 over 木, preserving the idea of gathering by hand.",
+    "simplification": "Traditional for this sense is 採; PRC simplified 採 → 采 by dropping the hand radical 扌, reusing the older base form and reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw; hand"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "春天农民到茶园采茶叶(春天農民到茶園採茶葉)。",
+      "pinyin": "Chūntiān nóngmín dào cháyuán cǎi cháyè.",
+      "english": "In spring, farmers go to the tea gardens to pick tea leaves."
+    },
+    {
+      "chinese": "孩子们在树林里采蘑菇(孩子們在樹林裡採蘑菇)。",
+      "pinyin": "Háizimen zài shùlín lǐ cǎi mógu.",
+      "english": "The children gather mushrooms in the woods."
+    },
+    {
+      "chinese": "她清晨去山上采野花(她清晨去山上採野花)。",
+      "pinyin": "Tā qīngchén qù shān shang cǎi yěhuā.",
+      "english": "She goes to the mountains at dawn to pick wildflowers."
+    }
+  ]
+}

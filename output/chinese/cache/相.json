@@ -1,0 +1,43 @@
+{
+  "simplified": "相",
+  "traditional": "相",
+  "pinyin": "xiāng",
+  "english": "mutual; to look at; appearance",
+  "etymology": {
+    "type": "Ideogrammic compound (會意 / 会意)",
+    "description": "木 “tree” + 目 “eye” - an eye looking at a tree; original for “to observe,” later jiajie for “mutually.”",
+    "interpretation": "Combines an eye and a tree to depict careful looking or inspection. The observing sense then got borrowed to write a homophonous word meaning “mutual,” which survives in modern compounds like 互相.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们互相帮助(我們互相幫助)。",
+      "pinyin": "Wǒmen hùxiāng bāngzhù.",
+      "english": "We help each other."
+    },
+    {
+      "chinese": "他善于相马(他善於相馬)。",
+      "pinyin": "Tā shànyú xiàng mǎ.",
+      "english": "He is skilled at judging horses."
+    },
+    {
+      "chinese": "她的相貌很端正(她的相貌很端正)。",
+      "pinyin": "Tā de xiàngmào hěn duānzhèng.",
+      "english": "Her appearance is very dignified."
+    }
+  ]
+}

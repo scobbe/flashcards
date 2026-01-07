@@ -1,0 +1,43 @@
+{
+  "simplified": "宠物",
+  "traditional": "宠物",
+  "pinyin": "chǒngwù",
+  "english": "pet",
+  "etymology": {
+    "type": "compound word",
+    "description": "宠(cherish; pamper) + 物(thing; creature) = pampered creature (pet).",
+    "interpretation": "Emphasizes an animal kept and indulged by people. Connotes affection beyond mere ownership.",
+    "simplification": "寵 simplified to 宠 by replacing the complex 龍+心 with the simplified component 龙 under 宀 to reduce strokes; 物 unchanged."
+  },
+  "parts": [
+    {
+      "char": "宠",
+      "trad": "寵",
+      "pinyin": "chǒng",
+      "english": "to dote on; to favor; to pamper; favored"
+    },
+    {
+      "char": "物",
+      "trad": "物",
+      "pinyin": "wù",
+      "english": "thing; object; matter; creature"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我养了一只狗作为宠物(我養了一隻狗作為寵物)。",
+      "pinyin": "Wǒ yǎng le yì zhī gǒu zuòwéi chǒngwù.",
+      "english": "I keep a dog as a pet."
+    },
+    {
+      "chinese": "许多人把宠物当作家人(許多人把寵物當作家人)。",
+      "pinyin": "Xǔduō rén bǎ chǒngwù dàngzuò jiārén.",
+      "english": "Many people treat pets as family members."
+    },
+    {
+      "chinese": "这家店提供宠物美容服务(這家店提供寵物美容服務)。",
+      "pinyin": "Zhè jiā diàn tígōng chǒngwù měiróng fúwù.",
+      "english": "This shop provides pet grooming services."
+    }
+  ]
+}

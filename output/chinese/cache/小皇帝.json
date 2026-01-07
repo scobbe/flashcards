@@ -1,0 +1,49 @@
+{
+  "simplified": "小皇帝",
+  "traditional": "小皇帝",
+  "pinyin": "xiǎohuángdì",
+  "english": "spoiled child",
+  "etymology": {
+    "type": "compound word",
+    "description": "小 (little) + 皇帝 (emperor) = indulged child treated like royalty.",
+    "interpretation": "Metaphor likening an overindulged child—often an only child—to a “little emperor,” especially noted in one‑child‑policy-era families. Conveys pampering, entitlement, and domineering behavior at home.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young; minor"
+    },
+    {
+      "char": "皇",
+      "trad": "皇",
+      "pinyin": "huáng",
+      "english": "imperial; royal; sovereign; august"
+    },
+    {
+      "char": "帝",
+      "trad": "帝",
+      "pinyin": "dì",
+      "english": "emperor; sovereign; deity; ruler"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "很多家庭把独生子女当成小皇帝(很多家庭把獨生子女當成小皇帝)。",
+      "pinyin": "Hěn duō jiātíng bǎ dúshēng zǐnǚ dāngchéng xiǎo huángdì.",
+      "english": "Many families treat their only child as a little emperor."
+    },
+    {
+      "chinese": "他被大人宠坏了(他被大人寵壞了)，行为像个小皇帝(行為像個小皇帝)。",
+      "pinyin": "Tā bèi dàrén chǒng huài le, xíngwéi xiàng gè xiǎo huángdì.",
+      "english": "He’s been spoiled by adults and behaves like a little emperor."
+    },
+    {
+      "chinese": "老师担心“家里的小皇帝”在学校难以适应(老師擔心「家裡的小皇帝」在學校難以適應)。",
+      "pinyin": "Lǎoshī dānxīn “jiālǐ de xiǎo huángdì” zài xuéxiào nányǐ shìyìng.",
+      "english": "The teacher worries that the ‘little emperor’ at home will struggle to adapt at school."
+    }
+  ]
+}

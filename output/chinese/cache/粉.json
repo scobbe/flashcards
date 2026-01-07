@@ -1,0 +1,43 @@
+{
+  "simplified": "粉",
+  "traditional": "粉",
+  "pinyin": "fěn",
+  "english": "powder; flour; starch; cosmetic powder",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 米 ‘rice’ + phonetic: 分; ‘face powder made of rice’ (OC *pɯnʔ).",
+    "interpretation": "米 signals a substance derived from rice, while 分 supplies the sound fěn and evokes the idea of dividing into fine particles. The original sense points to rice-based face powder, which broadened to general powders, flours, and starches.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide; part; minute"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一袋面粉(我買了一袋麵粉)。",
+      "pinyin": "Wǒ mǎile yī dài miànfěn.",
+      "english": "I bought a bag of flour."
+    },
+    {
+      "chinese": "她擦了点儿粉，让脸色更好(她擦了點兒粉，讓臉色更好)。",
+      "pinyin": "Tā cāle diǎnr fěn, ràng liǎnsè gèng hǎo.",
+      "english": "She applied some powder to improve her complexion."
+    },
+    {
+      "chinese": "老师在黑板上用粉笔写字(老師在黑板上用粉筆寫字)。",
+      "pinyin": "Lǎoshī zài hēibǎn shàng yòng fěnbǐ xiězì.",
+      "english": "The teacher writes on the blackboard with chalk."
+    }
+  ]
+}

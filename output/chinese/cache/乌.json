@@ -1,0 +1,29 @@
+{
+  "simplified": "乌",
+  "traditional": "烏",
+  "pinyin": "wū",
+  "english": "crow; black; dark; surname",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a bird; compare 鳥 (bird); see also the original version of its variant 於.",
+    "interpretation": "Depicts a bird and is closely related in form and meaning to 鳥. Association with crows extends the senses to ‘crow’ and ‘black/dark’; early forms also influenced the variant 於.",
+    "simplification": "Reduced for stroke economy in the PRC reform: 烏 → 乌 by collapsing the pictorial bird into a simple outline and dropping the bottom four dots, creating a common simplified element used in derivatives."
+  },
+  "examples": [
+    {
+      "chinese": "乌鸦在树上叫(烏鴉在樹上叫)。",
+      "pinyin": "Wūyā zài shù shàng jiào.",
+      "english": "The crow is cawing in the tree."
+    },
+    {
+      "chinese": "夜色乌黑(夜色烏黑)。",
+      "pinyin": "Yèsè wūhēi.",
+      "english": "The night is pitch black."
+    },
+    {
+      "chinese": "他姓乌(他姓烏)。",
+      "pinyin": "Tā xìng Wū.",
+      "english": "His surname is Wu."
+    }
+  ]
+}

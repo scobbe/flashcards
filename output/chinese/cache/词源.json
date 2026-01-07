@@ -1,0 +1,43 @@
+{
+  "simplified": "词源",
+  "traditional": "詞源",
+  "pinyin": "cíyuán",
+  "english": "etymology",
+  "etymology": {
+    "type": "compound word",
+    "description": "词(word; term) + 源(source; origin) = etymology.",
+    "interpretation": "Denotes the origin and historical development of a word or term, often used in linguistic discussion. Emphasizes tracing how a lexical item came to be and changed over time.",
+    "simplification": "詞 was simplified to 词 by replacing 言 with the shorthand radical 讠; 源 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "词",
+      "trad": "詞",
+      "pinyin": "cí",
+      "english": "word; term; diction; lyrics"
+    },
+    {
+      "char": "源",
+      "trad": "源",
+      "pinyin": "yuán",
+      "english": "source; origin; fountainhead; to originate"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这本词典附有词源说明(這本詞典附有詞源說明)。",
+      "pinyin": "Zhè běn cídiǎn fùyǒu cíyuán shuōmíng.",
+      "english": "This dictionary includes etymology notes."
+    },
+    {
+      "chinese": "他对汉字的词源很感兴趣(他對漢字的詞源很感興趣)。",
+      "pinyin": "Tā duì Hànzì de cíyuán hěn gǎn xìngqù.",
+      "english": "He is very interested in the etymology of Chinese characters."
+    },
+    {
+      "chinese": "“咖啡”一词的词源可追溯到阿拉伯语(「咖啡」一詞的詞源可追溯到阿拉伯語)。",
+      "pinyin": "“Kāfēi” yī cí de cíyuán kě zhuīsù dào Ālābóyǔ.",
+      "english": "The etymology of the word “coffee” can be traced back to Arabic."
+    }
+  ]
+}

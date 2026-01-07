@@ -1,0 +1,43 @@
+{
+  "simplified": "崾",
+  "traditional": "崾",
+  "pinyin": "yǎo",
+  "english": "secluded (in hills); overhanging hill; tucked hollow; winding slope",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 山 + phonetic: 要",
+    "interpretation": "Combines the mountain element with 要 as the sound carrier, pointing to a terrain-related meaning. The phonetic 要 guides the reading toward yǎo, while 山 anchors senses like overhangs, hollows, and winding slopes in hilly landforms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "要",
+      "trad": "要",
+      "pinyin": "yào",
+      "english": "to want; important"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "山坡尽头有个隐蔽的崾，村子就藏在那里(山坡盡頭有個隱蔽的崾，村子就藏在那裡)。",
+      "pinyin": "Shānpō jìntóu yǒu gè yǐnbì de yǎo, cūnzi jiù cáng zài nàlǐ.",
+      "english": "At the end of the slope there is a tucked hollow, where the village is hidden."
+    },
+    {
+      "chinese": "悬崖上伸出一个崾，石路从下面蜿蜒而过(懸崖上伸出一個崾，石路從下面蜿蜒而過)。",
+      "pinyin": "Xuányá shàng shēnchū yí gè yǎo, shílù cóng xiàmiàn wānyán ér guò.",
+      "english": "An overhang juts from the cliff, and the stone path winds below."
+    },
+    {
+      "chinese": "雨后山道湿滑，在那个崾下通过要格外小心(雨後山道濕滑，在那個崾下通過要格外小心)。",
+      "pinyin": "Yǔ hòu shāndào shīhuá, zài nàge yǎo xià tōngguò yào géwài xiǎoxīn.",
+      "english": "After the rain the mountain path is slippery; passing under that overhang requires extra caution."
+    }
+  ]
+}

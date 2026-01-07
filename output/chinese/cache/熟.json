@@ -1,0 +1,43 @@
+{
+  "simplified": "熟",
+  "traditional": "熟",
+  "pinyin": "shú",
+  "english": "ripe; cooked; mature; skilled",
+  "etymology": {
+    "type": "Ideogrammic compound; phono-semantic compound",
+    "description": "phonetic: 孰 + semantic: 灬 (“fire”) — “cooked with fire.”",
+    "interpretation": "Combines 孰, which contributes both the sound and the idea of ‘ripe/cooked,’ with the fire element 灬 indicating heating. Together it depicts making something done by fire, extending to meanings like ripe, cooked, mature, and skilled/familiar.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孰",
+      "trad": "孰",
+      "pinyin": "shú",
+      "english": "which; who; ripe/cooked"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这桃子已经很熟(這桃子已經很熟)。",
+      "pinyin": "Zhè táozi yǐjīng hěn shú.",
+      "english": "This peach is already very ripe."
+    },
+    {
+      "chinese": "饭熟了(飯熟了)，我们开吃吧(我們開吃吧)。",
+      "pinyin": "Fàn shú le, wǒmen kāi chī ba.",
+      "english": "The rice is cooked; let's start eating."
+    },
+    {
+      "chinese": "他做菜很熟练(他做菜很熟練)。",
+      "pinyin": "Tā zuò cài hěn shúliàn.",
+      "english": "He is very skilled at cooking."
+    }
+  ]
+}

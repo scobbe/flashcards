@@ -1,0 +1,55 @@
+{
+  "simplified": "纯素食者",
+  "traditional": "純素食者",
+  "pinyin": "chúnsùshízhě",
+  "english": "vegan",
+  "etymology": {
+    "type": "compound word",
+    "description": "纯素(plain/vegan; purely plant-based) + 食者(eater/person) = vegan.",
+    "interpretation": "Refers to a person who follows an entirely plant-based diet and avoids all animal-derived products. Highlights both the diet (纯素) and the identity of the person (食者).",
+    "simplification": "纯 was simplified from 純 by changing the silk radical 糸 to 纟 to reduce strokes; 素, 食, 者 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "纯",
+      "trad": "純",
+      "pinyin": "chún",
+      "english": "pure; unmixed; simple; genuine"
+    },
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "plain; vegetarian; element; fundamental"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "to eat; food; meal; to feed"
+    },
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "person; one who; -er/-ist; someone"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她是严格的纯素食者(她是嚴格的純素食者)。",
+      "pinyin": "Tā shì yángé de chúnsù shízhě.",
+      "english": "She is a strict vegan."
+    },
+    {
+      "chinese": "纯素食者不吃任何动物性产品(純素食者不吃任何動物性產品)。",
+      "pinyin": "Chúnsù shízhě bù chī rènhé dòngwùxìng chǎnpǐn.",
+      "english": "Vegans do not eat any animal-based products."
+    },
+    {
+      "chinese": "餐厅提供纯素食者友好的菜单(餐廳提供純素食者友好的菜單)。",
+      "pinyin": "Cāntīng tígōng chúnsù shízhě yǒuhǎo de càidān.",
+      "english": "The restaurant offers a vegan-friendly menu."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "贲",
+  "traditional": "賁",
+  "pinyin": "bēn/bì",
+  "english": "rush; ornate",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 貝 “cowry” + phonetic: 卉 for the reading bì; later borrowed to write 奔, giving the reading bēn.",
+    "interpretation": "For the bì reading, 貝 contributes the semantic field of valuables/ornament while 卉 provides the sound. In antiquity the graph was also used to write the verb 奔 “to rush,” which yielded the bēn reading; today the ‘rush’ sense is mainly written 奔, while 贲/賁 survives in specialized and classical contexts.",
+    "simplification": "貝 was simplified to 贝 as part of the regular script reforms; the phonetic 卉 remained unchanged."
+  },
+  "parts": [
+    {
+      "char": "卉",
+      "trad": "卉",
+      "pinyin": "huì",
+      "english": "plants; grasses"
+    },
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; money"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他姓贲(他姓賁)。",
+      "pinyin": "Tā xìng Bēn.",
+      "english": "His surname is Ben (Bēn)."
+    },
+    {
+      "chinese": "医生检查了他的贲门(醫生檢查了他的賁門)。",
+      "pinyin": "Yīshēng jiǎnchále tā de bìmén.",
+      "english": "The doctor examined his cardia."
+    },
+    {
+      "chinese": "我在读《易经》的贲卦(我在讀《易經》的賁卦)。",
+      "pinyin": "Wǒ zài dú Yìjīng de bì guà.",
+      "english": "I’m reading the Bi hexagram in the Book of Changes."
+    }
+  ]
+}

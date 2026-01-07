@@ -1,0 +1,43 @@
+{
+  "simplified": "现",
+  "traditional": "現",
+  "pinyin": "xiàn",
+  "english": "appear; now",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 玉 ‘jade’ + phonetic: 見; simplified as 見 → 见.",
+    "interpretation": "Left-side 玉 contributes a semantic hint (shine/valuable object), while 見 provides the sound and the idea of ‘seeing’, yielding the sense of something becoming visible or present. In the simplified form, 見 was replaced by 见 without altering pronunciation or core meaning.",
+    "simplification": "Stroke reduction by replacing the phonetic component 見 with its simplified form 见, following the systematic simplification of 見-based characters while keeping sound and meaning."
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "现在开始吧(現在開始吧)。",
+      "pinyin": "Xiànzài kāishǐ ba.",
+      "english": "Let's start now."
+    },
+    {
+      "chinese": "他突然出现在门口(他突然出現在門口)。",
+      "pinyin": "Tā tūrán chūxiàn zài ménkǒu.",
+      "english": "He suddenly appeared at the doorway."
+    },
+    {
+      "chinese": "这个现象很常见(這個現象很常見)。",
+      "pinyin": "Zhège xiànxiàng hěn chángjiàn.",
+      "english": "This phenomenon is very common."
+    }
+  ]
+}

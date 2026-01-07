@@ -1,0 +1,49 @@
+{
+  "simplified": "迪化街",
+  "traditional": "迪化街",
+  "pinyin": "Díhuà Jiē",
+  "english": "Dihua Street, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "Toponym 迪化 + 街 ‘street’ = ‘Dihua Street’.",
+    "interpretation": "Proper-noun compound naming the historic commercial street in Dadaocheng, Taipei. The post-1945 name likely commemorates 迪化 (now Ürümqi), while the morphemes 迪 ‘guide’ and 化 ‘transform’ give an auspicious tone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "迪",
+      "trad": "迪",
+      "pinyin": "dí",
+      "english": "enlighten; guide; proceed; pursue"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform; change; convert; -ization"
+    },
+    {
+      "char": "街",
+      "trad": "街",
+      "pinyin": "jiē",
+      "english": "street; road; thoroughfare; neighborhood"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们去迪化街逛年货市集(我們去迪化街逛年貨市集)。",
+      "pinyin": "Wǒmen qù Díhuà Jiē guàng niánhuò shìjí.",
+      "english": "We’re going to Dihua Street to browse the Lunar New Year market."
+    },
+    {
+      "chinese": "迪化街位于台北大同区(迪化街位於台北大同區)，是历史商街(是歷史商街)。",
+      "pinyin": "Díhuà Jiē wèi yú Táiběi Dàtóng Qū, shì lìshǐ shāngjiē.",
+      "english": "Dihua Street is located in Datong District, Taipei; it is a historic commercial street."
+    },
+    {
+      "chinese": "许多老店在迪化街传承百年(許多老店在迪化街傳承百年)。",
+      "pinyin": "Xǔduō lǎodiàn zài Díhuà Jiē chuánchéng bǎinián.",
+      "english": "Many old shops on Dihua Street have been passed down for a century."
+    }
+  ]
+}

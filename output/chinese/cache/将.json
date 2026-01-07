@@ -1,0 +1,49 @@
+{
+  "simplified": "将",
+  "traditional": "將",
+  "pinyin": "jiāng/jiàng",
+  "english": "will; to take; general",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 爿 + semantic 肉 (‘meat’) + semantic 寸 (‘hand’) — offering meat as tribute; ⺼ is on its side (resembles 夕), and 爿 may also suggest a cutting board/altar.",
+    "interpretation": "A hand presenting meat suggests offering or bringing something forward, which underlies senses like ‘to lead/bring’ and later ‘will’. 爿 supplies the sound and can also evoke the board or altar on which the meat is set.",
+    "simplification": "将 streamlines 將 by keeping the phonetic 爿 as its left-side form 丬, reducing ⺼ to 夕, and dropping 寸, preserving pronunciation cues while cutting strokes."
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "qiáng",
+      "english": "bed; small table"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch; hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我将去北京(我將去北京)。",
+      "pinyin": "Wǒ jiāng qù Běijīng.",
+      "english": "I will go to Beijing."
+    },
+    {
+      "chinese": "他将书放在桌上(他將書放在桌上)。",
+      "pinyin": "Tā jiāng shū fàng zài zhuō shàng.",
+      "english": "He put the book on the table."
+    },
+    {
+      "chinese": "他是将军(他是將軍)。",
+      "pinyin": "Tā shì jiāngjūn.",
+      "english": "He is a general."
+    }
+  ]
+}

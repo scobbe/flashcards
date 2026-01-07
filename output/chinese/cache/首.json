@@ -1,0 +1,29 @@
+{
+  "simplified": "首",
+  "traditional": "首",
+  "pinyin": "shǒu",
+  "english": "head; first",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of an animal head with a long mouth and horns; later standardized from 𩠐 with hair 巛 simplified to 丷.",
+    "interpretation": "Depicts a head seen from the front, with hair or mane on top and a protruding snout, which motivated the meaning ‘head’. As writing was regularized, the hair lines were reduced from 巛 to two dots 丷, and the sense broadened to ‘first’ in the sense of the foremost or leader.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "她在比赛中夺得首位(她在比賽中奪得首位)。",
+      "pinyin": "Tā zài bǐsài zhōng duó dé shǒuwèi.",
+      "english": "She took first place in the competition."
+    },
+    {
+      "chinese": "首都北京历史悠久(首都北京歷史悠久)。",
+      "pinyin": "Shǒudū Běijīng lìshǐ yōujiǔ.",
+      "english": "The capital, Beijing, has a long history."
+    },
+    {
+      "chinese": "为了安全，首要任务是撤离(為了安全，首要任務是撤離)。",
+      "pinyin": "Wèile ānquán, shǒuyào rènwù shì chèlí.",
+      "english": "For safety, the primary task is to evacuate."
+    }
+  ]
+}

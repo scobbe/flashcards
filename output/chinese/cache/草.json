@@ -1,0 +1,43 @@
+{
+  "simplified": "草",
+  "traditional": "草",
+  "pinyin": "cǎo",
+  "english": "grass; herb; draft; coarse",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 艹 (“grass; plant”) + phonetic 早; originally referred to 皂, later borrowed for “grass”, replacing 艸.",
+    "interpretation": "Combines the plant semantic with the sound value of 早 to indicate a word related to vegetation while borrowing 早 for pronunciation. Historically the graph was used for 皂 and was later reassigned to the “grass” meaning, supplanting the older form 艸.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; herb"
+    },
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early; morning"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "公园里的草很绿(公園裡的草很綠)。",
+      "pinyin": "Gōngyuán lǐ de cǎo hěn lǜ.",
+      "english": "The grass in the park is very green."
+    },
+    {
+      "chinese": "我先写个草稿(我先寫個草稿)。",
+      "pinyin": "Wǒ xiān xiě gè cǎogǎo.",
+      "english": "I’ll write a draft first."
+    },
+    {
+      "chinese": "这种草药很有用(這種草藥很有用)。",
+      "pinyin": "Zhè zhǒng cǎoyào hěn yǒuyòng.",
+      "english": "This kind of herbal medicine is very useful."
+    }
+  ]
+}

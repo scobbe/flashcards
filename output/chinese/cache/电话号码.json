@@ -1,0 +1,55 @@
+{
+  "simplified": "电话号码",
+  "traditional": "電話號碼",
+  "pinyin": "diànhuà hàomǎ",
+  "english": "telephone number",
+  "etymology": {
+    "type": "compound word",
+    "description": "电话 + 号码 = number used for calling.",
+    "interpretation": "Combines 'telephone' with 'number' to denote the numeric identifier for a phone line. Common in contexts of asking for, giving, or dialing contact details.",
+    "simplification": "All components were simplified to reduce strokes: 電→电 (streamlined lightning/electricity graph), 話→话 (speech radical simplified to 讠), 號→号 (component merger and stroke reduction), 碼→码 (right component 馬→马; overall fewer strokes). These follow mid-20th-century PRC character simplification for efficiency."
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electricity; electric; lightning; phone"
+    },
+    {
+      "char": "话",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "speech; talk; words; language"
+    },
+    {
+      "char": "号",
+      "trad": "號",
+      "pinyin": "hào",
+      "english": "number; day of month; mark; sign"
+    },
+    {
+      "char": "码",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code; numeral; number; yard"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你的电话号码是多少(你的電話號碼是多少)。",
+      "pinyin": "Nǐ de diànhuà hàomǎ shì duōshǎo.",
+      "english": "What is your phone number?"
+    },
+    {
+      "chinese": "请把你的电话号码写在这里(請把你的電話號碼寫在這裡)。",
+      "pinyin": "Qǐng bǎ nǐ de diànhuà hàomǎ xiě zài zhèlǐ.",
+      "english": "Please write your phone number here."
+    },
+    {
+      "chinese": "拨打这个电话号码(撥打這個電話號碼)，就能联系客户服务(就能聯繫客戶服務)。",
+      "pinyin": "Bōdǎ zhège diànhuà hàomǎ, jiù néng liánxì kèhù fúwù.",
+      "english": "Call this phone number to reach customer service."
+    }
+  ]
+}

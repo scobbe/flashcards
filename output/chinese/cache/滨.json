@@ -1,0 +1,49 @@
+{
+  "simplified": "滨",
+  "traditional": "濱",
+  "pinyin": "bīn",
+  "english": "shore; waterfront; riverside; coast",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 水 (“water”) + phonetic: 賓",
+    "interpretation": "Water signals a meaning related to rivers, coasts, or shores, while 賓 contributes the pronunciation bīn. Together they point to places adjacent to water, like a waterfront or riverside.",
+    "simplification": "Phonetic component simplified: 賓 → 宾, while keeping the water semantic. This reduces strokes and aligns with the general simplification of the 賓-series; meaning is unchanged."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "賓",
+      "trad": "賓",
+      "pinyin": "bīn",
+      "english": "guest; visitor"
+    },
+    {
+      "char": "宾",
+      "trad": "賓",
+      "pinyin": "bīn",
+      "english": "guest; visitor"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在河滨散步(我們在河濱散步)。",
+      "pinyin": "Wǒmen zài hébīn sànbù.",
+      "english": "We take a walk along the riverside."
+    },
+    {
+      "chinese": "城市滨海公园很热闹(城市濱海公園很熱鬧)。",
+      "pinyin": "Chéngshì bīnhǎi gōngyuán hěn rènào.",
+      "english": "The city's coastal park is lively."
+    },
+    {
+      "chinese": "他在湖滨开了一家咖啡馆(他在湖濱開了一家咖啡館)。",
+      "pinyin": "Tā zài húbīn kāile yì jiā kāfēiguǎn.",
+      "english": "He opened a café by the lakeside."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "侨",
+  "traditional": "僑",
+  "pinyin": "qiáo",
+  "english": "sojourn; reside abroad; temporary; overseas (in compounds)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 亻 + phonetic: 喬 → 乔 (simplified).",
+    "interpretation": "The person component 亻 signals a meaning related to people or human affairs. 喬/乔 supplies the pronunciation qiáo and, while mainly phonetic here, also evokes an elevated or shifted position, fitting senses like residing abroad or being away from one’s native place.",
+    "simplification": "Simplified by replacing the phonetic 喬 with its simplified form 乔 to reduce strokes while preserving pronunciation and meaning."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "乔",
+      "trad": "喬",
+      "pinyin": "qiáo",
+      "english": "tall; lofty"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是第三代华侨(他是第三代華僑)。",
+      "pinyin": "Tā shì dì-sān dài Huáqiáo.",
+      "english": "He is a third-generation overseas Chinese."
+    },
+    {
+      "chinese": "她的父母长期侨居海外(她的父母長期僑居海外)。",
+      "pinyin": "Tā de fùmǔ chángqī qiáojū hǎiwài.",
+      "english": "Her parents have long resided overseas."
+    },
+    {
+      "chinese": "政府为归国侨胞提供服务(政府為歸國僑胞提供服務)。",
+      "pinyin": "Zhèngfǔ wèi guīguó qiáobāo tígōng fúwù.",
+      "english": "The government provides services for returned overseas compatriots."
+    }
+  ]
+}

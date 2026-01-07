@@ -1,0 +1,43 @@
+{
+  "simplified": "发票",
+  "traditional": "发票",
+  "pinyin": "fāpiào",
+  "english": "invoice",
+  "etymology": {
+    "type": "compound word",
+    "description": "发(issue/emit) + 票(ticket/slip) = invoice.",
+    "interpretation": "Combines the act of issuing with a slip/document to denote an officially issued bill or receipt. Commonly refers to tax-valid invoices used for reimbursement and accounting.",
+    "simplification": "發→发 to reduce strokes via a cursive-derived form; 票 unchanged."
+  },
+  "parts": [
+    {
+      "char": "发",
+      "trad": "發",
+      "pinyin": "fā",
+      "english": "to issue; to send out; to emit; to develop"
+    },
+    {
+      "char": "票",
+      "trad": "票",
+      "pinyin": "piào",
+      "english": "ticket; banknote; ballot; bill"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请开一张发票(請開一張發票)。",
+      "pinyin": "Qǐng kāi yì zhāng fāpiào.",
+      "english": "Please issue an invoice."
+    },
+    {
+      "chinese": "我丢了昨天的发票(我丟了昨天的發票)。",
+      "pinyin": "Wǒ diū le zuótiān de fāpiào.",
+      "english": "I lost yesterday’s invoice."
+    },
+    {
+      "chinese": "报销需要正规发票(報銷需要正規發票)。",
+      "pinyin": "Bàoxiāo xūyào zhèngguī fāpiào.",
+      "english": "Reimbursement requires an official invoice."
+    }
+  ]
+}

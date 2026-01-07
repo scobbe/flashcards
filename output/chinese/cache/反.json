@@ -1,0 +1,43 @@
+{
+  "simplified": "反",
+  "traditional": "反",
+  "pinyin": "fǎn",
+  "english": "reverse; oppose; anti-",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 又 ‘hand’ + phonetic: 厂.",
+    "interpretation": "Combines the hand meaning of 又 with a phonetic cue from 厂 to convey the action of turning or flipping. From the idea of turning the palm, the sense broadened to reversing, returning, and by extension opposing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    },
+    {
+      "char": "厂",
+      "trad": "廠",
+      "pinyin": "chǎng",
+      "english": "factory"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他坚决反对这个计划(他堅決反對這個計劃)。",
+      "pinyin": "Tā jiānjué fǎnduì zhège jìhuà.",
+      "english": "He firmly opposes this plan."
+    },
+    {
+      "chinese": "情况正好相反(情況正好相反)。",
+      "pinyin": "Qíngkuàng zhènghǎo xiāngfǎn.",
+      "english": "The situation is exactly the opposite."
+    },
+    {
+      "chinese": "换个角度反过来想就不难了(換個角度反過來想就不難了)。",
+      "pinyin": "Huàn gè jiǎodù fǎn guòlai xiǎng jiù bù nán le.",
+      "english": "If you think about it the other way around, it’s not hard."
+    }
+  ]
+}

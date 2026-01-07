@@ -1,0 +1,49 @@
+{
+  "simplified": "精制品",
+  "traditional": "精製品",
+  "pinyin": "jīngzhìpǐn",
+  "english": "refined products",
+  "etymology": {
+    "type": "compound word",
+    "description": "精 + 制 + 品 = finely processed/made products.",
+    "interpretation": "Combines 精制 “to refine; finely process” with 品 “product/item,” referring to goods produced with high purity or meticulous processing. Common in contexts like food, chemicals, and materials to signal higher quality or degree of refinement.",
+    "simplification": "製 → 制 by dropping the 衣/衤 ‘clothing’ component to reduce strokes and generalize the ‘make/manufacture’ meaning; 精 and 品 unchanged."
+  },
+  "parts": [
+    {
+      "char": "精",
+      "trad": "精",
+      "pinyin": "jīng",
+      "english": "essence; refined; fine/pure; spirit"
+    },
+    {
+      "char": "制",
+      "trad": "製",
+      "pinyin": "zhì",
+      "english": "make; manufacture; control; restrain"
+    },
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "product; goods; quality/grade; item"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这种油是精制品(這種油是精製品)，杂质很少(雜質很少)。",
+      "pinyin": "Zhè zhǒng yóu shì jīngzhìpǐn, zázhì hěn shǎo.",
+      "english": "This type of oil is a refined product, with very few impurities."
+    },
+    {
+      "chinese": "该公司把原料深加工成精制品(該公司把原料深加工成精製品)，销往海外(銷往海外)。",
+      "pinyin": "Gāi gōngsī bǎ yuánliào shēn jiāgōng chéng jīngzhìpǐn, xiāo wǎng hǎiwài.",
+      "english": "The company further processes raw materials into refined products and sells them overseas."
+    },
+    {
+      "chinese": "厂家声明精制品不含添加剂(廠家聲明精製品不含添加劑)。",
+      "pinyin": "Chǎngjiā shēngmíng jīngzhìpǐn bù hán tiānjiājì.",
+      "english": "The manufacturer states that the refined products contain no additives."
+    }
+  ]
+}

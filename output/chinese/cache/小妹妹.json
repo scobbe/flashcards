@@ -1,0 +1,49 @@
+{
+  "simplified": "小妹妹",
+  "traditional": "小妹妹",
+  "pinyin": "xiǎomèimei",
+  "english": "little sister; young girl",
+  "etymology": {
+    "type": "compound word",
+    "description": "小 ‘small/young’ + 妹妹 (reduplicated ‘妹’) = little sister; young girl.",
+    "interpretation": "Used as a kinship term for one’s younger sister, and also as an affectionate or polite way to refer to a young girl. Reduplication in 妹妹 softens the tone, while 小 highlights youth or endearment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young; minor"
+    },
+    {
+      "char": "妹",
+      "trad": "妹",
+      "pinyin": "mèi",
+      "english": "younger sister; young girl; junior female; girl (as suffix)"
+    },
+    {
+      "char": "妹",
+      "trad": "妹",
+      "pinyin": "mèi",
+      "english": "younger sister; young girl; junior female; girl (as suffix)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我的小妹妹今年八岁(我的小妹妹今年八歲)。",
+      "pinyin": "Wǒ de xiǎo mèimei jīnnián bā suì.",
+      "english": "My little sister is eight years old this year."
+    },
+    {
+      "chinese": "等车时(等車時)，他把座位让给了小妹妹(他把座位讓給了小妹妹)。",
+      "pinyin": "Děng chē shí, tā bǎ zuòwèi ràng gěi le xiǎo mèimei.",
+      "english": "While waiting for the bus, he gave his seat to the young girl."
+    },
+    {
+      "chinese": "我给小妹妹买了一本图画书(我給小妹妹買了一本圖畫書)。",
+      "pinyin": "Wǒ gěi xiǎo mèimei mǎi le yì běn túhuà shū.",
+      "english": "I bought a picture book for my little sister."
+    }
+  ]
+}

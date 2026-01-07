@@ -1,0 +1,43 @@
+{
+  "simplified": "功夫",
+  "traditional": "功夫",
+  "pinyin": "gōngfu",
+  "english": "kung fu",
+  "etymology": {
+    "type": "compound word",
+    "description": "功(achievement; skill) + 夫(suffix ‘man’ > nominalizer) = skill gained through effort; later narrowed to martial arts.",
+    "interpretation": "Combines the idea of achievement/work with a nominal element to mean skill developed over time and effort. Via Cantonese gung1 fu1 and English, it came to denote Chinese martial arts specifically.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "功",
+      "trad": "功",
+      "pinyin": "gōng",
+      "english": "achievement; merit; skill; effort"
+    },
+    {
+      "char": "夫",
+      "trad": "夫",
+      "pinyin": "fū",
+      "english": "man; husband; adult male; laborer"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他每天练功夫(他每天練功夫)。",
+      "pinyin": "Tā měitiān liàn gōngfu.",
+      "english": "He practices kung fu every day."
+    },
+    {
+      "chinese": "她的功夫很高(她的功夫很高)。",
+      "pinyin": "Tā de gōngfu hěn gāo.",
+      "english": "Her kung fu skills are excellent."
+    },
+    {
+      "chinese": "我没功夫聊天(我沒功夫聊天)。",
+      "pinyin": "Wǒ méi gōngfu liáotiān.",
+      "english": "I don’t have time to chat."
+    }
+  ]
+}

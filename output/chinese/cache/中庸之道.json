@@ -1,0 +1,55 @@
+{
+  "simplified": "中庸之道",
+  "traditional": "中庸之道",
+  "pinyin": "zhōngyōng zhī dào",
+  "english": "Doctrine of the Mean; middle way",
+  "etymology": {
+    "type": "compound phrase",
+    "description": "中(middle) + 庸(mean/moderation) + 之(of) + 道(way) = “the way of the mean.”",
+    "interpretation": "Confucian principle of appropriate moderation—finding the fitting degree between excess and deficiency in action and judgment. Emphasizes context-sensitive balance, not bland compromise.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; within; hit (the target)"
+    },
+    {
+      "char": "庸",
+      "trad": "庸",
+      "pinyin": "yōng",
+      "english": "mediocre; ordinary; average; commonplace"
+    },
+    {
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "of (possessive); him/her/it (classical); go to (classical); this (classical)"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "way; path; doctrine; speak"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们应遵循中庸之道(我們應遵循中庸之道)，避免走极端(避免走極端)。",
+      "pinyin": "Wǒmen yīng zūnxún zhōngyōng zhī dào, bìmiǎn zǒu jíduān.",
+      "english": "We should follow the Doctrine of the Mean and avoid extremes."
+    },
+    {
+      "chinese": "在处理冲突时(在處理衝突時)，中庸之道强调把握分寸与时机(中庸之道強調把握分寸與時機)。",
+      "pinyin": "Zài chǔlǐ chōngtū shí, zhōngyōng zhī dào qiángdiào bǎwò fēncùn yǔ shíjī.",
+      "english": "When handling conflicts, the middle way stresses grasping the right measure and timing."
+    },
+    {
+      "chinese": "中庸之道不是折中妥协(中庸之道不是折中妥協)，而是合乎礼与义的适度选择(而是合乎禮與義的適度選擇)。",
+      "pinyin": "Zhōngyōng zhī dào bù shì zhézhōng tuǒxié, ér shì héhū lǐ yǔ yì de shìdù xuǎnzé.",
+      "english": "The doctrine is not a mere compromise but a measured choice aligned with propriety and righteousness."
+    }
+  ]
+}

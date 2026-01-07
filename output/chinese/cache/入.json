@@ -1,0 +1,29 @@
+{
+  "simplified": "入",
+  "traditional": "入",
+  "pinyin": "rù",
+  "english": "enter",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram (指事) — an arrowhead indicating “to enter”; compare 人.",
+    "interpretation": "Originally depicts a pointed wedge or arrowhead moving inward, conveying the action of going in. Its form resembles 人 but with a tighter, inward-tapering shape that emphasizes entry rather than a person.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "禁止入内(禁止入內)。",
+      "pinyin": "jìnzhǐ rùnèi.",
+      "english": "No entry."
+    },
+    {
+      "chinese": "他考入北京大学(他考入北京大學)。",
+      "pinyin": "tā kǎorù běijīng dàxué.",
+      "english": "He was admitted to Peking University."
+    },
+    {
+      "chinese": "请入座(請入座)。",
+      "pinyin": "qǐng rùzuò.",
+      "english": "Please be seated."
+    }
+  ]
+}

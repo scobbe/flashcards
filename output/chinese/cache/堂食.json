@@ -1,0 +1,43 @@
+{
+  "simplified": "堂食",
+  "traditional": "堂食",
+  "pinyin": "tángshí",
+  "english": "eat in",
+  "etymology": {
+    "type": "compound word",
+    "description": "堂 (hall) + 食 (eat/food) = dine in (eat in the hall/restaurant).",
+    "interpretation": "Literally means eating in a hall or dining area; by extension in modern usage, it contrasts with takeout or delivery. Emphasizes consuming food on the premises.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "堂",
+      "trad": "堂",
+      "pinyin": "táng",
+      "english": "hall; main room; reception hall; auditorium"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; to eat; meal; provisions"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这家餐厅可以堂食也可以外卖(這家餐廳可以堂食也可以外賣)。",
+      "pinyin": "Zhè jiā cāntīng kěyǐ tángshí yě kěyǐ wàimài.",
+      "english": "This restaurant offers dine-in as well as takeout."
+    },
+    {
+      "chinese": "服务员问我们是堂食还是打包(服務員問我們是堂食還是打包)。",
+      "pinyin": "Fúwùyuán wèn wǒmen shì tángshí háishì dǎbāo.",
+      "english": "The server asked whether we were dining in or getting it to go."
+    },
+    {
+      "chinese": "疫情过后，更多人选择堂食(疫情過後，更多人選擇堂食)。",
+      "pinyin": "Yìqíng guòhòu, gèng duō rén xuǎnzé tángshí.",
+      "english": "After the pandemic, more people choose to dine in."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "没事",
+  "traditional": "沒事",
+  "pinyin": "méishì",
+  "english": "be free; no problem",
+  "etymology": {
+    "type": "compound word",
+    "description": "没(not have/without) + 事(matter/affair) = no matter; nothing wrong; be free.",
+    "interpretation": "Common reassurance meaning “it’s fine” or “no problem,” and by extension “nothing going on” → “I’m free.” Often used to downplay issues or to say one is unoccupied.",
+    "simplification": "沒 was simplified to 没 by streamlining the right-hand component and reducing strokes for a high‑frequency negator; 事 stayed the same."
+  },
+  "parts": [
+    {
+      "char": "没",
+      "trad": "沒",
+      "pinyin": "méi",
+      "english": "not have; without; not; to sink"
+    },
+    {
+      "char": "事",
+      "trad": "事",
+      "pinyin": "shì",
+      "english": "matter; affair; thing; business"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我没事(我沒事)。",
+      "pinyin": "Wǒ méi shì.",
+      "english": "I’m fine; nothing’s wrong."
+    },
+    {
+      "chinese": "你明天没事吗(你明天沒事嗎)？",
+      "pinyin": "Nǐ míngtiān méi shì ma?",
+      "english": "Are you free tomorrow?"
+    },
+    {
+      "chinese": "别担心(別擔心)，没事(沒事)。",
+      "pinyin": "Bié dānxīn, méi shì.",
+      "english": "Don’t worry, it’s fine."
+    }
+  ]
+}

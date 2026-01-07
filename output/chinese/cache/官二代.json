@@ -1,0 +1,49 @@
+{
+  "simplified": "官二代",
+  "traditional": "官二代",
+  "pinyin": "guān’èrdài",
+  "english": "children of officials",
+  "etymology": {
+    "type": "compound word",
+    "description": "官 (official) + 二 (second) + 代 (generation) = second generation of officials (children of officials).",
+    "interpretation": "Refers to the offspring of government officials, highlighting lineage as the source of status. In public discourse it can imply access to connections, privilege, or influence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "官",
+      "trad": "官",
+      "pinyin": "guān",
+      "english": "government official; public office; officialdom; organ (TCM)"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two; second; foolish (slang); double"
+    },
+    {
+      "char": "代",
+      "trad": "代",
+      "pinyin": "dài",
+      "english": "generation; era; to substitute; to replace"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "许多人用官二代指官员的子女(許多人用官二代指官員的子女)。",
+      "pinyin": "Xǔduō rén yòng guān’èrdài zhǐ guānyuán de zǐnǚ.",
+      "english": "Many people use guan’erdai to refer to the children of officials."
+    },
+    {
+      "chinese": "有人认为官二代容易获得资源和机会(有人認為官二代容易獲得資源和機會)，也有人强调不能以偏概全(也有人強調不能以偏概全)。",
+      "pinyin": "Yǒurén rènwéi guān’èrdài róngyì huòdé zīyuán hé jīhuì, yě yǒurén qiángdiào bùnéng yǐpiān gàiquán.",
+      "english": "Some think guan’erdai easily obtain resources and opportunities, while others stress you shouldn’t generalize."
+    },
+    {
+      "chinese": "他不是官二代，却靠自身努力考入名校(他不是官二代，卻靠自身努力考入名校)。",
+      "pinyin": "Tā bù shì guān’èrdài, què kào zìshēn nǔlì kǎorù míngxiào.",
+      "english": "He isn’t a guan’erdai, yet he got into a top school through his own effort."
+    }
+  ]
+}

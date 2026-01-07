@@ -1,0 +1,6 @@
+[车]
+From cursive script of 車 ; compare 東 → 东 .
+
+[車]
+Pictogram ( 象形 ) – originally a carriage seen from above. In the oracle bone script, there were large wheels on both sides and a sun shade on the top. Later, when Chinese characters were written vertically, the wheels on both sides were simply drawn in strokes and the loading area was marked with a 田 ( OC *l'iːŋ ). Therefore, it is important to understand that the current character, 車 ( OC *kʰlja, *kla ) is a vertical depiction of a carriage.
+Note that 倝 ( OC *kaːns ) and 朝 ( OC *ʔr'ew, *r'ew ) are not derived from 車 ( OC *kʰlja, *kla ).

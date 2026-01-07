@@ -1,0 +1,43 @@
+{
+  "simplified": "彗",
+  "traditional": "彗",
+  "pinyin": "huì",
+  "english": "broom; comet",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "ideogrammic compound: 甡 (\"broom\") + 又 (\"hand\") — to hold a broom made of bamboo.",
+    "interpretation": "Depicts a hand grasping a broom, evoking the act of sweeping. By visual analogy, the long tail of a comet resembles a broom, leading to the astronomical meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甡",
+      "trad": "甡",
+      "pinyin": "shēn",
+      "english": "luxuriant; numerous; flourishing"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "right hand; again"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夜空中出现了一颗明亮的彗星(夜空中出現了一顆明亮的彗星)。",
+      "pinyin": "Yèkōng zhōng chūxiàn le yī kē míngliàng de huìxīng.",
+      "english": "A bright comet appeared in the night sky."
+    },
+    {
+      "chinese": "古人以彗为凶兆(古人以彗為凶兆)。",
+      "pinyin": "Gǔrén yǐ huì wéi xiōngzhào.",
+      "english": "The ancients regarded comets as bad omens."
+    },
+    {
+      "chinese": "天文学家正在研究这颗长尾彗星(天文學家正在研究這顆長尾彗星)。",
+      "pinyin": "Tiānwénxuéjiā zhèngzài yánjiū zhè kē chángwěi huìxīng.",
+      "english": "Astronomers are studying this long-tailed comet."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "屯",
+  "traditional": "屯",
+  "pinyin": "tún",
+  "english": "to station; garrison; village",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a plant sprout (屮) with a dot in the middle, later transformed into a horizontal line; compare the top component of 春 in early forms.",
+    "interpretation": "Depicts a young shoot pushing up through the soil, with an added stroke emphasizing the sprout. The dot evolved into a horizontal line over time, paralleling early forms seen atop 春.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; horizontal line"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "军队在边境屯兵(軍隊在邊境屯兵)。",
+      "pinyin": "Jūnduì zài biānjìng tún bīng.",
+      "english": "The army garrisoned troops at the border."
+    },
+    {
+      "chinese": "他在松花江边的一个小屯长大(他在松花江邊的一個小屯長大)。",
+      "pinyin": "Tā zài Sōnghuājiāng biān de yí gè xiǎo tún zhǎngdà.",
+      "english": "He grew up in a small hamlet by the Songhua River."
+    },
+    {
+      "chinese": "朝廷在北地实行屯田(朝廷在北地實行屯田)。",
+      "pinyin": "Cháotíng zài běidì shíxíng tún tián.",
+      "english": "The court implemented garrison-farming in the north."
+    }
+  ]
+}

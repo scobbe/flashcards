@@ -1,0 +1,43 @@
+{
+  "simplified": "无法",
+  "traditional": "無法",
+  "pinyin": "wúfǎ",
+  "english": "unable",
+  "etymology": {
+    "type": "compound word",
+    "description": "无 ‘not; without’ + 法 ‘method; way’ = have no way → unable.",
+    "interpretation": "Negation 无 removes the possibility implied by 法, indicating lack of means or feasibility. Commonly placed before a verb or verb phrase to state impossibility.",
+    "simplification": "无 is the simplified form of 無, created by dropping the bottom ‘fire’ component and reducing strokes; 法 remains unchanged."
+  },
+  "parts": [
+    {
+      "char": "无",
+      "trad": "無",
+      "pinyin": "wú",
+      "english": "not; without; none; lack"
+    },
+    {
+      "char": "法",
+      "trad": "法",
+      "pinyin": "fǎ",
+      "english": "law; method; way; rule"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们无法解决这个问题(我們無法解決這個問題)。",
+      "pinyin": "Wǒmen wúfǎ jiějué zhège wèntí.",
+      "english": "We are unable to solve this problem."
+    },
+    {
+      "chinese": "由于天气原因，航班无法起飞(由於天氣原因，航班無法起飛)。",
+      "pinyin": "Yóuyú tiānqì yuányīn, hángbān wúfǎ qǐfēi.",
+      "english": "Due to weather conditions, the flight cannot take off."
+    },
+    {
+      "chinese": "他没有证据，无法说服大家(他沒有證據，無法說服大家)。",
+      "pinyin": "Tā méiyǒu zhèngjù, wúfǎ shuōfú dàjiā.",
+      "english": "He has no evidence and cannot persuade everyone."
+    }
+  ]
+}

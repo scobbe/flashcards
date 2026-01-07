@@ -1,0 +1,37 @@
+{
+  "simplified": "湛",
+  "traditional": "湛",
+  "pinyin": "zhàn",
+  "english": "deep; clear; tranquil; surname",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 氵 (“water”) + phonetic: 甚",
+    "interpretation": "Water component points to meanings involving liquid, clarity, or depth. 甚 supplies the sound value from historical phonology and nudges the modern reading toward zhàn. Together they evoke the sense of deep, clear water or a tranquil, limpid quality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甚",
+      "trad": "甚",
+      "pinyin": "shèn",
+      "english": "very; extremely; even"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "湖水清澈湛蓝(湖水清澈湛藍)。",
+      "pinyin": "Húshuǐ qīngchè zhànlán.",
+      "english": "The lake water is limpid and deep blue."
+    },
+    {
+      "chinese": "夜色湛黑，宁静无声(夜色湛黑，寧靜無聲)。",
+      "pinyin": "Yèsè zhànhēi, níngjìng wú shēng.",
+      "english": "The night is pitch-dark and utterly quiet."
+    },
+    {
+      "chinese": "湛先生是我的中文老师(湛先生是我的中文老師)。",
+      "pinyin": "Zhàn xiānshēng shì wǒ de Zhōngwén lǎoshī.",
+      "english": "Mr. Zhan is my Chinese teacher."
+    }
+  ]
+}

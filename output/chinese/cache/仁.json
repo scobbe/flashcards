@@ -1,0 +1,43 @@
+{
+  "simplified": "仁",
+  "traditional": "仁",
+  "pinyin": "rén",
+  "english": "kernel (of nut/seed); benevolence; humane; kindness",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 人 (OC *njin) + semantic: 二",
+    "interpretation": "人 supplies the sound rén, while 二 adds the idea of “two,” often read as the bond between people that grounds benevolence. By phonetic extension, the graph also came to write the homophonous sense “kernel.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他待人仁慈(他待人仁慈)，乐于助人(樂於助人)。",
+      "pinyin": "Tā dàirén réncí, lèyú zhùrén.",
+      "english": "He treats others with benevolence and is eager to help."
+    },
+    {
+      "chinese": "儒家强调“仁义”(儒家強調「仁義」)，以爱人为本(以愛人為本)。",
+      "pinyin": "Rújiā qiángdiào “rényì”, yǐ àirén wéi běn.",
+      "english": "Confucianism emphasizes “benevolence and righteousness,” taking love for others as foundational."
+    },
+    {
+      "chinese": "核桃仁很香(核桃仁很香)，可以入菜(可以入菜)。",
+      "pinyin": "Hétáo rén hěn xiāng, kěyǐ rù cài.",
+      "english": "Walnut kernels are very fragrant and can be used in cooking."
+    }
+  ]
+}

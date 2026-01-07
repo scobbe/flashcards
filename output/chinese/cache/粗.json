@@ -1,0 +1,43 @@
+{
+  "simplified": "粗",
+  "traditional": "粗",
+  "pinyin": "cū",
+  "english": "coarse; rough",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 米 (“rice”) + phonetic: 且",
+    "interpretation": "Rice suggests grains or texture, pointing to something unrefined or granular, while 且 supplies the historical sound that developed into cū. Together they evoke a grainy, rough quality in materials or appearance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "moreover; and"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这块布很粗糙(這塊布很粗糙)。",
+      "pinyin": "Zhè kuài bù hěn cūcāo.",
+      "english": "This piece of cloth is very coarse."
+    },
+    {
+      "chinese": "他把盐磨得太粗(他把鹽磨得太粗)。",
+      "pinyin": "Tā bǎ yán mó de tài cū.",
+      "english": "He ground the salt too coarse."
+    },
+    {
+      "chinese": "这种砂纸太粗(這種砂紙太粗)。",
+      "pinyin": "Zhè zhǒng shāzhǐ tài cū.",
+      "english": "This sandpaper is too coarse."
+    }
+  ]
+}

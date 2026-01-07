@@ -1,0 +1,43 @@
+{
+  "simplified": "另",
+  "traditional": "另",
+  "pinyin": "lìng",
+  "english": "other; separate; besides",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口 ‘mouth’ + phonetic: 力 (lì); also noted in 玉篇校釋 as a simplified form of 別/别.",
+    "interpretation": "Mouth suggests a semantic field related to speech or counted units, while 力 contributes the lì ~ lìng pronunciation. Historical sources also link it graphically to 別 ‘to separate,’ aligning with meanings like ‘other’ and ‘separate.’",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength; power"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们需要另一个方案(我們需要另一個方案)。",
+      "pinyin": "Wǒmen xūyào lìng yí gè fāng'àn.",
+      "english": "We need another plan."
+    },
+    {
+      "chinese": "费用另算，邮资另付(費用另算，郵資另付)。",
+      "pinyin": "Fèiyòng lìng suàn, yóuzī lìng fù.",
+      "english": "Fees are calculated separately; postage is paid separately."
+    },
+    {
+      "chinese": "会议时间待定，另行通知(會議時間待定，另行通知)。",
+      "pinyin": "Huìyì shíjiān dàidìng, lìng xíng tōngzhī.",
+      "english": "The meeting time is to be determined and will be announced separately."
+    }
+  ]
+}

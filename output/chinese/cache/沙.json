@@ -1,0 +1,43 @@
+{
+  "simplified": "沙",
+  "traditional": "沙",
+  "pinyin": "shā",
+  "english": "sand",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "水 (“water”) + 少 (“to lack; to be short of”).",
+    "interpretation": "Combines “water” with “few/less” to suggest a place where water is scant, such as shallow edges or dried areas where grit remains. By extension it came to denote the fine granular material known as sand.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "少",
+      "trad": "少",
+      "pinyin": "shǎo",
+      "english": "few; little"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "沙漠很广阔(沙漠很廣闊)。",
+      "pinyin": "Shāmò hěn guǎngkuò.",
+      "english": "The desert is vast."
+    },
+    {
+      "chinese": "海风把沙吹得到处都是(海風把沙吹得到處都是)。",
+      "pinyin": "Hǎifēng bǎ shā chuī de dàochù dōu shì.",
+      "english": "The sea breeze blew sand everywhere."
+    },
+    {
+      "chinese": "小孩在沙滩上堆城堡(小孩在沙灘上堆城堡)。",
+      "pinyin": "Xiǎohái zài shātān shàng duī chéngbǎo.",
+      "english": "Children build sandcastles on the beach."
+    }
+  ]
+}

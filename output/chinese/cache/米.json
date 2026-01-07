@@ -1,0 +1,29 @@
+{
+  "simplified": "米",
+  "traditional": "米",
+  "pinyin": "mǐ",
+  "english": "rice",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: dehusked rice kernels; horizontal stroke as a bamboo sieve; cf. 粟 (with husk); unrelated to 木/禾/来.",
+    "interpretation": "Depicts dehusked rice grains being sifted on a bamboo sieve, contrasting with 粟 which shows husked kernels. Despite visual resemblance, its form is not derived from 木, 禾, or 来.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我买了两斤米(我買了兩斤米)。",
+      "pinyin": "Wǒ mǎi le liǎng jīn mǐ.",
+      "english": "I bought two jin of rice."
+    },
+    {
+      "chinese": "这家店的东北米很香(這家店的東北米很香)。",
+      "pinyin": "Zhè jiā diàn de Dōngběi mǐ hěn xiāng.",
+      "english": "The Northeastern rice at this shop is very fragrant."
+    },
+    {
+      "chinese": "请把米洗一洗(請把米洗一洗)，再煮饭(再煮飯)。",
+      "pinyin": "Qǐng bǎ mǐ xǐ yì xǐ, zài zhǔ fàn.",
+      "english": "Please rinse the rice, then cook it."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "萝",
+  "traditional": "蘿",
+  "pinyin": "luó",
+  "english": "radish/turnip (as in 萝卜); creeping vine; suffix in plant names; used in transliterations",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艸 + phonetic 羅; simplified from 蘿 (羅 → 罗).",
+    "interpretation": "The grass component 艸 signals a plant. 羅 contributes the sound luó; in the simplified form, 羅 was reduced to 罗 while retaining the plant semantic indicator.",
+    "simplification": "Reduced stroke count by replacing the phonetic 羅 with its simplified form 罗 under 艹, preserving pronunciation and meaning."
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plants"
+    },
+    {
+      "char": "罗",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "net; to catch; Luo"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他买了两斤萝卜(他買了兩斤蘿蔔)。",
+      "pinyin": "Tā mǎi le liǎng jīn luóbo.",
+      "english": "He bought two jin of radishes."
+    },
+    {
+      "chinese": "我爱吃菠萝(我愛吃菠蘿)。",
+      "pinyin": "Wǒ ài chī bōluó.",
+      "english": "I love to eat pineapple."
+    },
+    {
+      "chinese": "篱笆上爬满了藤萝(籬笆上爬滿了藤蘿)。",
+      "pinyin": "Líbā shàng pá mǎn le téngluó.",
+      "english": "The fence is covered with wisteria vines."
+    }
+  ]
+}

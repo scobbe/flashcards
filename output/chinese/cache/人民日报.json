@@ -1,0 +1,55 @@
+{
+  "simplified": "人民日报",
+  "traditional": "人民日報",
+  "pinyin": "Rénmín Rìbào",
+  "english": "People’s Daily",
+  "etymology": {
+    "type": "compound word",
+    "description": "人民 (people) + 日报 (daily newspaper) = people’s daily newspaper/title.",
+    "interpretation": "Official daily newspaper of the Communist Party of China; literally “the people’s daily newspaper.”",
+    "simplification": "Only 报 was simplified from 報 in PRC reforms to reduce strokes; 人, 民, and 日 are unchanged. High-frequency press term, so stroke reduction improved writing efficiency."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; people; human; someone"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people; citizen; folk; civilian"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day; date; daily"
+    },
+    {
+      "char": "报",
+      "trad": "報",
+      "pinyin": "bào",
+      "english": "report; newspaper; announce; repay"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天读《人民日报》(我每天讀《人民日報》)。",
+      "pinyin": "Wǒ měitiān dú 《Rénmín Rìbào》.",
+      "english": "I read People’s Daily every day."
+    },
+    {
+      "chinese": "《人民日报》是中国共产党的机关报(《人民日報》是中國共產黨的機關報)。",
+      "pinyin": "《Rénmín Rìbào》 shì Zhōngguó Gòngchǎndǎng de jīguānbào.",
+      "english": "People’s Daily is the official newspaper of the Communist Party of China."
+    },
+    {
+      "chinese": "这篇文章发表于《人民日报》头版(這篇文章發表於《人民日報》頭版)。",
+      "pinyin": "Zhè piān wénzhāng fābiǎo yú 《Rénmín Rìbào》 tóubǎn.",
+      "english": "This article was published on the front page of People’s Daily."
+    }
+  ]
+}

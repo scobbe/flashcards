@@ -1,0 +1,43 @@
+{
+  "simplified": "卫",
+  "traditional": "衛",
+  "pinyin": "wèi",
+  "english": "guard; defend; protect; satellite (in compounds)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 行 + phonetic 韋.",
+    "interpretation": "Meaning draws on 行 ‘to go, patrol’, suggesting movement associated with guarding, while 韋 provides the sound wèi and hints at encircling or binding. Together they convey the idea of protecting by patrolling or enclosing a space.",
+    "simplification": "PRC created a new simple graph in 1956 to replace 衛, likely influenced by katakana ヱ and unorthodox variants like 𠀄 or by extracting the top of 韋, primarily to reduce stroke count."
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "go; walk; row; line"
+    },
+    {
+      "char": "韦",
+      "trad": "韋",
+      "pinyin": "wéi",
+      "english": "tanned leather; surname"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们要保卫家园(我們要保衛家園)。",
+      "pinyin": "Wǒmen yào bǎowèi jiāyuán.",
+      "english": "We must defend our homeland."
+    },
+    {
+      "chinese": "这颗卫星进入了轨道(這顆衛星進入了軌道)。",
+      "pinyin": "Zhè kē wèixīng jìnrùle guǐdào.",
+      "english": "This satellite entered orbit."
+    },
+    {
+      "chinese": "注意卫生，保持环境清洁(注意衛生，保持環境清潔)。",
+      "pinyin": "Zhùyì wèishēng, bǎochí huánjìng qīngjié.",
+      "english": "Pay attention to hygiene and keep the environment clean."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "难",
+  "traditional": "難",
+  "pinyin": "nán",
+  "english": "difficult; hardship",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 隹 (‘bird’) + phonetic: 暵 (abbreviated); later phonetically borrowed for other senses.",
+    "interpretation": "隹 contributes the idea of a bird, reflecting that 難 originally named a kind of bird, while the element from 暵 provided the sound nán. The word was later borrowed to express the sense ‘difficult’, and modern 难 is the simplified graphic form of that earlier character.",
+    "simplification": "Stroke reduction by replacing the complex left component of 難 with 又, an unorthodox variant recorded since the Ming; proposed in ROC’s 1935 list (retracted 1936) and officially adopted by the PRC in 1956."
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个问题很难(這個問題很難)。",
+      "pinyin": "Zhège wèntí hěn nán.",
+      "english": "This problem is difficult."
+    },
+    {
+      "chinese": "学起来不难(學起來不難)。",
+      "pinyin": "Xué qǐlái bù nán.",
+      "english": "It isn’t hard to learn."
+    },
+    {
+      "chinese": "别为难他(別為難他)。",
+      "pinyin": "Bié wéinán tā.",
+      "english": "Don’t make things difficult for him."
+    }
+  ]
+}

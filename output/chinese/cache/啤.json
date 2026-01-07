@@ -1,0 +1,43 @@
+{
+  "simplified": "啤",
+  "traditional": "啤",
+  "pinyin": "pí",
+  "english": "phonetic loan; used in transliterations; beer- (in compounds)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口 mouth + phonetic: 卑",
+    "interpretation": "Mouth/utterance (口) flags a connection to speech or sounds, a common cue in characters used for transliteration. 卑 contributes the approximate sound value, giving pí and enabling usage in words like 啤酒 for beer.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "卑",
+      "trad": "卑",
+      "pinyin": "bēi",
+      "english": "low; humble"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们点了两杯啤酒(我們點了兩杯啤酒)。",
+      "pinyin": "Wǒmen diǎn le liǎng bēi píjiǔ.",
+      "english": "We ordered two beers."
+    },
+    {
+      "chinese": "他不常喝啤酒(他不常喝啤酒)，但朋友来了就会买几瓶(但朋友來了就會買幾瓶)。",
+      "pinyin": "Tā bù cháng hē píjiǔ, dàn péngyou lái le jiù huì mǎi jǐ píng.",
+      "english": "He doesn’t often drink beer, but he buys a few bottles when friends come over."
+    },
+    {
+      "chinese": "这家餐厅自酿啤酒特别有名(這家餐廳自釀啤酒特別有名)。",
+      "pinyin": "Zhè jiā cāntīng zìniàng píjiǔ tèbié yǒumíng.",
+      "english": "This restaurant is famous for its craft beer."
+    }
+  ]
+}

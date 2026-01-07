@@ -1,0 +1,43 @@
+{
+  "simplified": "孟",
+  "traditional": "孟",
+  "pinyin": "Mèng",
+  "english": "surname Meng",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 子 (“child; son”) + phonetic: 皿 (OC *maŋʔ)",
+    "interpretation": "子 signals the semantic field of personhood or kinship (originally “child”), while 皿 contributes the sound, aligning with Old Chinese maŋʔ toward modern mèng. The graph came to denote the eldest among siblings and later served as a surname.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "孟先生今天来了(孟先生今天來了)。",
+      "pinyin": "Mèng xiānsheng jīntiān lái le.",
+      "english": "Mr. Meng came today."
+    },
+    {
+      "chinese": "我在图书馆读《孟子》(我在圖書館讀《孟子》)。",
+      "pinyin": "Wǒ zài túshūguǎn dú 《Mèngzǐ》.",
+      "english": "I am reading Mencius in the library."
+    },
+    {
+      "chinese": "孟家的历史可以追溯到春秋时期(孟家的歷史可以追溯到春秋時期)。",
+      "pinyin": "Mèng jiā de lìshǐ kěyǐ zhuīsù dào Chūnqiū shíqī.",
+      "english": "The Meng family's history can be traced back to the Spring and Autumn period."
+    }
+  ]
+}

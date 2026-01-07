@@ -1,0 +1,49 @@
+{
+  "simplified": "大白菜",
+  "traditional": "大白菜",
+  "pinyin": "dàbáicài",
+  "english": "Chinese cabbage",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(big) + 白(white) + 菜(vegetable) = big white vegetable (Chinese cabbage).",
+    "interpretation": "Literally names the pale, elongated cabbage common in North China; contrasts with 小白菜, which refers to bok choy/Shanghai pak choi.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big;great;major;eldest"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white;pure;clear;plain"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable;greens;dish;cuisine"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一颗大白菜(我買了一顆大白菜)。",
+      "pinyin": "Wǒ mǎi le yì kē dà báicài.",
+      "english": "I bought a head of Chinese cabbage."
+    },
+    {
+      "chinese": "大白菜可以炒着吃(大白菜可以炒著吃)，也可以做泡菜(也可以做泡菜)。",
+      "pinyin": "Dà báicài kěyǐ chǎo zhe chī, yě kěyǐ zuò pàocài.",
+      "english": "Chinese cabbage can be stir-fried, and it can also be made into pickles."
+    },
+    {
+      "chinese": "北方冬天常腌大白菜(北方冬天常醃大白菜)。",
+      "pinyin": "Běifāng dōngtiān cháng yān dà báicài.",
+      "english": "In northern China, people often pickle Chinese cabbage in winter."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "梨",
+  "traditional": "梨",
+  "pinyin": "lí",
+  "english": "pear; pear tree; fruit; surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木 + phonetic: 利",
+    "interpretation": "木 signals the semantic field of trees and wood, pointing to a tree or its fruit. 利 contributes the pronunciation lí, serving as the phonetic element while the overall form denotes the pear/pear tree.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "利",
+      "trad": "利",
+      "pinyin": "lì",
+      "english": "sharp; benefit; profit"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我爱吃梨(我愛吃梨)。",
+      "pinyin": "Wǒ ài chī lí.",
+      "english": "I love eating pears."
+    },
+    {
+      "chinese": "这棵梨树开满了白花(這棵梨樹開滿了白花)。",
+      "pinyin": "Zhè kē líshù kāi mǎn le báihuā.",
+      "english": "This pear tree is covered with white blossoms."
+    },
+    {
+      "chinese": "用梨熬的冰糖水很润喉(用梨熬的冰糖水很潤喉)。",
+      "pinyin": "Yòng lí áo de bīngtángshuǐ hěn rùnhóu.",
+      "english": "Rock sugar water simmered with pear is very soothing for the throat."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+[規]
+Originally a pictogram ( 象形 ): a cross-shaped measuring compass similar to 乂 . The protoform also appears as the bottom component in the oracle bone script of 畫 .
+Later reformulated as 夫 ( “ husband ” ) + 見 ( “ see ” ) , which is traditionally considered an ideogrammic compound ( 會意 / 会意 ). However, Smith (2011) proposes that the left component is an abbreviation of the phonetic component 癸 ( OC *kʷilʔ ). Compare the Shizhoupian script form of 癸 .
+Chen (2021) instead suggests that the 夫 is the left-hand side of 矩 , after 矩 became seen as a compound; since both characters refer to tools, it would be natural for their semantic components to align. [ 1 ]

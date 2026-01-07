@@ -1,0 +1,49 @@
+{
+  "simplified": "秦始皇",
+  "traditional": "秦始皇",
+  "pinyin": "Qín Shǐhuáng",
+  "english": "Qin Shi Huang (first emperor of Qin)",
+  "etymology": {
+    "type": "compound word",
+    "description": "秦(Qin state) + 始(first) + 皇(emperor) = the First Emperor of Qin.",
+    "interpretation": "Title literally means “Qin First Emperor,” naming the monarch who unified China in 221 BCE. Combines the state name with his ordinal status and sovereign rank.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "秦",
+      "trad": "秦",
+      "pinyin": "qín",
+      "english": "Qin (state/dynasty); surname; Shaanxi (abbrev); ancient feudal state"
+    },
+    {
+      "char": "始",
+      "trad": "始",
+      "pinyin": "shǐ",
+      "english": "begin; start; initial; originally"
+    },
+    {
+      "char": "皇",
+      "trad": "皇",
+      "pinyin": "huáng",
+      "english": "emperor; imperial; august; magnificent"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "秦始皇统一六国(秦始皇統一六國)，建立了秦朝(建立了秦朝)。",
+      "pinyin": "Qín Shǐhuáng tǒngyī liù guó, jiànlì le Qíncháo.",
+      "english": "Qin Shi Huang unified the six states and founded the Qin dynasty."
+    },
+    {
+      "chinese": "他修筑万里长城(他修築萬里長城)，焚书坑儒(焚書坑儒)。",
+      "pinyin": "Tā xiūzhù Wànlǐ Chángchéng, fénshū kēngrú.",
+      "english": "He reinforced the Great Wall and carried out book burning and the burying of scholars."
+    },
+    {
+      "chinese": "他的统治奠定了中国帝制的基础(他的統治奠定了中國帝制的基礎)。",
+      "pinyin": "Tā de tǒngzhì diàndìng le Zhōngguó dìzhì de jīchǔ.",
+      "english": "His rule laid the foundation for China’s imperial system."
+    }
+  ]
+}

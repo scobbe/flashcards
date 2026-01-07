@@ -1,0 +1,43 @@
+{
+  "simplified": "春",
+  "traditional": "春",
+  "pinyin": "chūn",
+  "english": "spring; springtime; youth; vitality",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艸 ‘grass’ + phonetic: 屯 ‘sprout’ + semantic: 日 ‘sun’; intermediate form 萅; 艸 and 屯 later merged into 𡗗; also used as a variant of 屯 for ‘spring’ in Old Chinese.",
+    "interpretation": "Combines grass and sun with the sound-bearing 屯, evoking plants sprouting under sunlight—the essence of spring’s growth. Over time, 艸 and 屯 fused into 𡗗 above 日, streamlining the graph. Early literature sometimes used it interchangeably with 屯 to mean the season of spring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屯",
+      "trad": "屯",
+      "pinyin": "tún",
+      "english": "to station; garrison; village"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "春天的阳光很温暖(春天的陽光很溫暖)。",
+      "pinyin": "Chūntiān de yángguāng hěn wēnnuǎn.",
+      "english": "The spring sunlight is very warm."
+    },
+    {
+      "chinese": "今年春雨很多(今年春雨很多)，庄稼长得旺(莊稼長得旺)。",
+      "pinyin": "Jīnnián chūnyǔ hěn duō, zhuāngjia zhǎng de wàng.",
+      "english": "There is a lot of spring rain this year, and the crops are growing vigorously."
+    },
+    {
+      "chinese": "她正值青春年华(她正值青春年華)，活力四射(活力四射)。",
+      "pinyin": "Tā zhèng zhí qīngchūn niánhuá, huólì sìshè.",
+      "english": "She is in the prime of youth, brimming with vitality."
+    }
+  ]
+}

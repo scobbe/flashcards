@@ -1,0 +1,43 @@
+{
+  "simplified": "高考",
+  "traditional": "高考",
+  "pinyin": "gāokǎo",
+  "english": "national college entrance exam",
+  "etymology": {
+    "type": "compound word",
+    "description": "高 + 考 = higher-education entrance exam.",
+    "interpretation": "A shorthand for 高等学校招生全国统一考试, literally “higher-education exam.” Refers to China’s national college entrance exam.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "high; tall; superior; advanced"
+    },
+    {
+      "char": "考",
+      "trad": "考",
+      "pinyin": "kǎo",
+      "english": "to examine; to test; to take an exam; to check"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他正在准备高考(他正在準備高考)。",
+      "pinyin": "Tā zhèngzài zhǔnbèi gāokǎo.",
+      "english": "He is preparing for the Gaokao."
+    },
+    {
+      "chinese": "通过高考，她进入了北京大学(通過高考，她進入了北京大學)。",
+      "pinyin": "Tōngguò gāokǎo, tā jìnrù le Běijīng Dàxué.",
+      "english": "Through the Gaokao, she got into Peking University."
+    },
+    {
+      "chinese": "高考成绩出来后，学生们填报志愿(高考成績出來後，學生們填報志願)。",
+      "pinyin": "Gāokǎo chéngjì chūlái hòu, xuéshēngmen tiánbào zhìyuàn.",
+      "english": "After the Gaokao scores come out, students fill in their college preferences."
+    }
+  ]
+}

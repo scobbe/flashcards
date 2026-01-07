@@ -1,0 +1,49 @@
+{
+  "simplified": "幸福堂",
+  "traditional": "幸福堂",
+  "pinyin": "Xìngfú Táng",
+  "english": "Taiwanese beverage chain Xing Fu Tang",
+  "etymology": {
+    "type": "compound word (brand name)",
+    "description": "幸福 (happiness; blessing) + 堂 (hall; shop) = “hall of happiness” (brand name).",
+    "interpretation": "Evokes a welcoming establishment where happiness is offered through sweet drinks, using the classic 商号 suffix 堂 common in Chinese shop names. Suggests that visiting the shop brings good fortune and joy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幸",
+      "trad": "幸",
+      "pinyin": "xìng",
+      "english": "good fortune; luck; fortunate; fortunately"
+    },
+    {
+      "char": "福",
+      "trad": "福",
+      "pinyin": "fú",
+      "english": "blessing; good fortune; happiness; prosperity"
+    },
+    {
+      "char": "堂",
+      "trad": "堂",
+      "pinyin": "táng",
+      "english": "hall; main room; reception hall; shop (in store names)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们去幸福堂买珍珠奶茶(我們去幸福堂買珍珠奶茶)。",
+      "pinyin": "Wǒmen qù Xìngfú Táng mǎi zhēnzhū nǎichá.",
+      "english": "We’re going to Xing Fu Tang to buy bubble milk tea."
+    },
+    {
+      "chinese": "幸福堂在很多城市都有分店(幸福堂在很多城市都有分店)。",
+      "pinyin": "Xìngfú Táng zài hěn duō chéngshì dōu yǒu fēndiàn.",
+      "english": "Xing Fu Tang has branches in many cities."
+    },
+    {
+      "chinese": "他们的黑糖珍珠很有名(他們的黑糖珍珠很有名)。",
+      "pinyin": "Tāmen de hēitáng zhēnzhū hěn yǒumíng.",
+      "english": "Their brown sugar pearls are well known."
+    }
+  ]
+}

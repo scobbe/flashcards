@@ -1,0 +1,49 @@
+{
+  "simplified": "羊肚菌",
+  "traditional": "羊肚菌",
+  "pinyin": "yángdùjùn",
+  "english": "morel mushroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "羊 + 肚 + 菌 = sheep-tripe + fungus → morel mushroom (cap resembles sheep tripe).",
+    "interpretation": "Named for the honeycomb folds of the cap that look like sheep tripe. Refers to the edible morel mushroom used in cuisine and for its aroma.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep;goat;mutton;ram"
+    },
+    {
+      "char": "肚",
+      "trad": "肚",
+      "pinyin": "dù",
+      "english": "belly;stomach;tripe;gut"
+    },
+    {
+      "char": "菌",
+      "trad": "菌",
+      "pinyin": "jùn",
+      "english": "fungus;mold;germ;microbe"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们在松林里采到几朵羊肚菌(我們在松林裡採到幾朵羊肚菌)。",
+      "pinyin": "Wǒmen zài sōnglín lǐ cǎi dào jǐ duǒ yángdùjùn.",
+      "english": "We picked a few morels in the pine forest."
+    },
+    {
+      "chinese": "羊肚菌味道鲜美(羊肚菌味道鮮美)，用来做汤很合适(用來做湯很合適)。",
+      "pinyin": "Yángdùjùn wèidào xiānměi, yòng lái zuò tāng hěn héshì.",
+      "english": "Morels taste delicious and are well suited for making soup."
+    },
+    {
+      "chinese": "由于菌盖像羊肚(由於菌蓋像羊肚)，人们称它为“羊肚菌”(人們稱它為「羊肚菌」)。",
+      "pinyin": "Yóuyú jūngài xiàng yángdù, rénmen chēng tā wéi “yángdùjùn”.",
+      "english": "Because the cap looks like sheep tripe, people call it “yangdujun.”"
+    }
+  ]
+}

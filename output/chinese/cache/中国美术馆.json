@@ -1,0 +1,61 @@
+{
+  "simplified": "中国美术馆",
+  "traditional": "中國美術館",
+  "pinyin": "Zhōngguó Měishùguǎn",
+  "english": "National Art Museum of China",
+  "etymology": {
+    "type": "compound word (proper noun)",
+    "description": "中国 + 美术 + 馆 = China + fine arts + hall/museum → National Art Museum of China.",
+    "interpretation": "Proper name of the national-level art museum in Beijing; literally “China art hall.” Commonly abbreviated as 中国美术馆/中國美術館 for the institution.",
+    "simplification": "Uses PRC simplifications: 國→国 (enclosed component simplified), 術→术 (stroke reduction), 館→馆 (radical 食→饣), reducing strokes and easing writing."
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; within; China (abbr.)"
+    },
+    {
+      "char": "国",
+      "trad": "國",
+      "pinyin": "guó",
+      "english": "country; nation; state; homeland"
+    },
+    {
+      "char": "美",
+      "trad": "美",
+      "pinyin": "měi",
+      "english": "beautiful; fine; good; USA (abbr.)"
+    },
+    {
+      "char": "术",
+      "trad": "術",
+      "pinyin": "shù",
+      "english": "art; technique; method; skill"
+    },
+    {
+      "char": "馆",
+      "trad": "館",
+      "pinyin": "guǎn",
+      "english": "hall; building; establishment; museum"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们明天去中国美术馆参观(我們明天去中國美術館參觀)。",
+      "pinyin": "Wǒmen míngtiān qù Zhōngguó Měishùguǎn cānguān.",
+      "english": "We’re going to visit the National Art Museum of China tomorrow."
+    },
+    {
+      "chinese": "中国美术馆收藏了大量现代与当代艺术作品(中國美術館收藏了大量現代與當代藝術作品)。",
+      "pinyin": "Zhōngguó Měishùguǎn shōucáng le dàliàng xiàndài yǔ dāngdài yìshù zuòpǐn.",
+      "english": "The National Art Museum of China houses a large collection of modern and contemporary artworks."
+    },
+    {
+      "chinese": "中国美术馆位于北京(中國美術館位於北京)。",
+      "pinyin": "Zhōngguó Měishùguǎn wèiyú Běijīng.",
+      "english": "The National Art Museum of China is located in Beijing."
+    }
+  ]
+}

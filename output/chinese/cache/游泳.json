@@ -1,0 +1,43 @@
+{
+  "simplified": "游泳",
+  "traditional": "游泳",
+  "pinyin": "yóuyǒng",
+  "english": "swim; swimming",
+  "etymology": {
+    "type": "compound word",
+    "description": "游 (move in water; roam) + 泳 (swim) = swim/swimming.",
+    "interpretation": "Combines two near-synonymous morphemes to denote the act or sport of swimming. Used as both a verb and a noun in modern Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "游",
+      "trad": "遊",
+      "pinyin": "yóu",
+      "english": "to swim; to travel; to roam; to play/wander"
+    },
+    {
+      "char": "泳",
+      "trad": "泳",
+      "pinyin": "yǒng",
+      "english": "to swim; swimming; swim stroke"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他每天早上去游泳(他每天早上去游泳)。",
+      "pinyin": "Tā měitiān zǎoshang qù yóuyǒng.",
+      "english": "He goes swimming every morning."
+    },
+    {
+      "chinese": "夏天在海里游泳很舒服(夏天在海裡游泳很舒服)。",
+      "pinyin": "Xiàtiān zài hǎilǐ yóuyǒng hěn shūfu.",
+      "english": "Swimming in the sea in summer feels very comfortable."
+    },
+    {
+      "chinese": "游泳是一项很好的全身运动(游泳是一項很好的全身運動)。",
+      "pinyin": "Yóuyǒng shì yī xiàng hěn hǎo de quánshēn yùndòng.",
+      "english": "Swimming is an excellent full-body exercise."
+    }
+  ]
+}

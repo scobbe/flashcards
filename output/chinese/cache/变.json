@@ -1,0 +1,49 @@
+{
+  "simplified": "变",
+  "traditional": "變",
+  "pinyin": "biàn",
+  "english": "change; transform; become; alter",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 攴 + phonetic: 䜌",
+    "interpretation": "Combines the action-related element 攴, hinting at striking or causing an effect, with 䜌 to indicate pronunciation. The composition suggests initiating an action that leads something to become different.",
+    "simplification": "Mainland simplification removed the right-side 攴 and compressed the complex phonetic 䜌, streamlining the form into 变 (top 亦 + bottom 又) to reduce strokes while keeping a distinctive outline."
+  },
+  "parts": [
+    {
+      "char": "亦",
+      "trad": "亦",
+      "pinyin": "yì",
+      "english": "also; too"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap; strike"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们需要改变计划(我們需要改變計劃)。",
+      "pinyin": "Wǒmen xūyào gǎibiàn jìhuà.",
+      "english": "We need to change the plan."
+    },
+    {
+      "chinese": "天气突然变冷了(天氣突然變冷了)。",
+      "pinyin": "Tiānqì tūrán biàn lěng le.",
+      "english": "The weather suddenly turned cold."
+    },
+    {
+      "chinese": "他几个月内变成了教练(他幾個月內變成了教練)。",
+      "pinyin": "Tā jǐ gè yuè nèi biànchéng le jiàoliàn.",
+      "english": "He became a coach within a few months."
+    }
+  ]
+}

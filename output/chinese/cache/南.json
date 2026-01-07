@@ -1,0 +1,49 @@
+{
+  "simplified": "南",
+  "traditional": "南",
+  "pinyin": "nán",
+  "english": "south; southern; southward; to the south of",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a hanging percussion instrument (bell), originally identical to the left side of 㱿; later phonetically borrowed to represent “south”.",
+    "interpretation": "Earliest forms depict a hanging bell-like instrument, and because its sound matched the word for ‘south’ in Old Chinese, the graph was borrowed for that meaning, displacing the original sense. Another proposal reads it as the front of a south-facing house, mirroring traditional architectural orientation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "学校在河的南边(學校在河的南邊)。",
+      "pinyin": "Xuéxiào zài hé de nánbiān.",
+      "english": "The school is on the south side of the river."
+    },
+    {
+      "chinese": "我们一路向南旅行(我們一路向南旅行)。",
+      "pinyin": "Wǒmen yí lù xiàng nán lǚxíng.",
+      "english": "We traveled all the way south."
+    },
+    {
+      "chinese": "今天刮南风(今天颳南風)，空气很湿润(空氣很濕潤)。",
+      "pinyin": "Jīntiān guā nánfēng, kōngqì hěn shīrùn.",
+      "english": "A south wind is blowing today, and the air is very humid."
+    }
+  ]
+}

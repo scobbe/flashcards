@@ -1,0 +1,29 @@
+{
+  "simplified": "小",
+  "traditional": "小",
+  "pinyin": "xiǎo",
+  "english": "small",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: three small marks/dots representing smallness; later the dots elongated; Shuowen misread it as 会意: 八 + 丨.",
+    "interpretation": "Three short strokes portray a tiny object or the idea of smallness. As the script evolved, the dots were drawn as short lines, which led to the later but incorrect analysis of 八 plus 丨.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这个苹果很小(這個蘋果很小)。",
+      "pinyin": "Zhège píngguǒ hěn xiǎo.",
+      "english": "This apple is very small."
+    },
+    {
+      "chinese": "他把字写得太小(他把字寫得太小)。",
+      "pinyin": "Tā bǎ zì xiě de tài xiǎo.",
+      "english": "He wrote the characters too small."
+    },
+    {
+      "chinese": "小问题也要重视(小問題也要重視)。",
+      "pinyin": "Xiǎo wèntí yě yào zhòngshì.",
+      "english": "Small problems should also be taken seriously."
+    }
+  ]
+}

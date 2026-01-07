@@ -1,0 +1,43 @@
+{
+  "simplified": "辈",
+  "traditional": "輩",
+  "pinyin": "bèi",
+  "english": "generation; cohort; peers; seniority",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 車 + phonetic 非; simplified 車 → 车.",
+    "interpretation": "Combines 車 as the semantic element, hinting at grouping or arrangement, with 非 contributing the sound. The sense developed to mean a class or generation of people, i.e., those grouped together by age or rank.",
+    "simplification": "Simplified form of 輩 by component simplification 車 → 车, following the general simplification of the 車 radical/component."
+  },
+  "parts": [
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle; cart"
+    },
+    {
+      "char": "非",
+      "trad": "非",
+      "pinyin": "fēi",
+      "english": "not; wrong"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "作为晚辈，我们应该尊敬长辈(作為晚輩，我們應該尊敬長輩)。",
+      "pinyin": "Zuòwéi wǎnbèi, wǒmen yīnggāi zūnjìng zhǎngbèi.",
+      "english": "As juniors, we should respect our elders."
+    },
+    {
+      "chinese": "他们是同辈，所以说话比较随便(他們是同輩，所以說話比較隨便)。",
+      "pinyin": "Tāmen shì tóngbèi, suǒyǐ shuōhuà bǐjiào suíbiàn.",
+      "english": "They are peers, so they speak more casually."
+    },
+    {
+      "chinese": "在这个家族，辈分很严格(在這個家族，輩分很嚴格)。",
+      "pinyin": "Zài zhège jiāzú, bèifèn hěn yángé.",
+      "english": "In this family, seniority is strictly observed."
+    }
+  ]
+}

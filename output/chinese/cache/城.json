@@ -1,0 +1,43 @@
+{
+  "simplified": "城",
+  "traditional": "城",
+  "pinyin": "chéng",
+  "english": "city; city wall; town; fortification",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 土 (“soil”) + phonetic 成 (OC *djeŋ); city walls were made of stamped earth.",
+    "interpretation": "Combines the meaning of soil with the sound of 成 to depict an earthen-walled settlement. Evokes early cities fortified with packed earth, while 成 contributes the pronunciation chéng.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "成",
+      "trad": "成",
+      "pinyin": "chéng",
+      "english": "to become; accomplish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这座城很古老(這座城很古老)。",
+      "pinyin": "zhè zuò chéng hěn gǔlǎo.",
+      "english": "This city is very old."
+    },
+    {
+      "chinese": "城墙仍保存完好(城牆仍保存完好)。",
+      "pinyin": "chéngqiáng réng bǎocún wánhǎo.",
+      "english": "The city wall is still well preserved."
+    },
+    {
+      "chinese": "他们在城外修筑防御工事(他們在城外修築防禦工事)。",
+      "pinyin": "tāmen zài chéngwài xiūzhù fángyù gōngshì.",
+      "english": "They are building fortifications outside the city."
+    }
+  ]
+}

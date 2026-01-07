@@ -1,0 +1,37 @@
+{
+  "simplified": "回",
+  "traditional": "回",
+  "pinyin": "huí",
+  "english": "return; turn back",
+  "etymology": {
+    "type": "pictogram",
+    "description": "rotation (originally a spiral)",
+    "interpretation": "Originally depicted a spiral indicating a turning or circling motion; later regularized into a square enclosing another square, evoking going back within a boundary. This visual naturally extends to senses like returning, turning back, or circling to a previous point.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我马上回家(我馬上回家)。",
+      "pinyin": "Wǒ mǎshàng huí jiā.",
+      "english": "I’m going home right away."
+    },
+    {
+      "chinese": "他转了一圈又回到起点(他轉了一圈又回到起點)。",
+      "pinyin": "Tā zhuànle yì quān yòu huídào qǐdiǎn.",
+      "english": "He made a turn and returned to the starting point."
+    },
+    {
+      "chinese": "请把书还回去(請把書還回去)。",
+      "pinyin": "Qǐng bǎ shū huán huíqù.",
+      "english": "Please return the book."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "simplified": "早",
+  "traditional": "早",
+  "pinyin": "zǎo",
+  "english": "early; morning",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 日 “sun” + phonetic: 棗 (sometimes simplified as 朿); early bronze form was a pictogram “acorn,” original of 皂, borrowed phonetically for “morning.”",
+    "interpretation": "Earliest forms drew an acorn, which belonged to 皂 and lent its sound to write the meaning ‘morning/early.’ Later standardization combined the sun 日 for meaning with the phonetic 棗 (sometimes reduced to 朿) to indicate pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "棗",
+      "trad": "棗",
+      "pinyin": "zǎo",
+      "english": "jujube; date"
+    },
+    {
+      "char": "朿",
+      "trad": "朿",
+      "pinyin": "cì",
+      "english": "thorn; prickle"
+    },
+    {
+      "char": "甲",
+      "trad": "甲",
+      "pinyin": "jiǎ",
+      "english": "first; armor; shell"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "早上八点(早上八點)，我们开会(我們開會)。",
+      "pinyin": "Zǎoshang bā diǎn, wǒmen kāi huì.",
+      "english": "At 8 in the morning, we have a meeting."
+    },
+    {
+      "chinese": "他来得太早(他來得太早)，门还没开(門還沒開)。",
+      "pinyin": "Tā lái de tài zǎo, mén hái méi kāi.",
+      "english": "He arrived too early; the door hasn’t opened yet."
+    },
+    {
+      "chinese": "明天早点睡(明天早點睡)，别起得太早(別起得太早)。",
+      "pinyin": "Míngtiān zǎodiǎn shuì, bié qǐ de tài zǎo.",
+      "english": "Go to bed earlier tomorrow, and don’t get up too early."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "敏",
+  "traditional": "敏",
+  "pinyin": "mǐn",
+  "english": "quick; nimble; sensitive; clever",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 每 + semantic: 攴 ('hand; action'; sometimes written as 又 'hand' in early forms)",
+    "interpretation": "Sound is borrowed from 每, while 攴 contributes the sense of the hand acting or striking. Together they evoke quick, deft movement and responsiveness, aligning with meanings like quick, nimble, and sensitive. Early forms sometimes used 又 for the hand element, reinforcing the action/hand idea.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "每",
+      "trad": "每",
+      "pinyin": "měi",
+      "english": "each; every"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他反应敏捷(他反應敏捷)，很快做出决定(很快做出決定)。",
+      "pinyin": "Tā fǎnyìng mǐnjié, hěn kuài zuòchū juédìng.",
+      "english": "He reacts quickly and makes decisions swiftly."
+    },
+    {
+      "chinese": "她对气味很敏感(她對氣味很敏感)，一点烟味都能闻出来(一點煙味都能聞出來)。",
+      "pinyin": "Tā duì qìwèi hěn mǐngǎn, yīdiǎn yānwèi dōu néng wén chūlái.",
+      "english": "She is very sensitive to smells and can detect even a trace of smoke."
+    },
+    {
+      "chinese": "这位学生思维敏锐(這位學生思維敏銳)，提出了独到的见解(提出了獨到的見解)。",
+      "pinyin": "Zhè wèi xuéshēng sīwéi mǐnruì, tíchū le dúdào de jiànjiě.",
+      "english": "This student thinks sharply and offered original insights."
+    }
+  ]
+}

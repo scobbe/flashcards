@@ -1,0 +1,29 @@
+{
+  "simplified": "才",
+  "traditional": "才",
+  "pinyin": "cái",
+  "english": "talent; only then",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram — a sharp peg; same as 弋 and 尗; see also the top component of 𢦏. Xu Shen erroneously analyzed it as a sprout.",
+    "interpretation": "Originally depicted a sharp peg or stake, closely related to the forms 弋 and 尗. The modern senses “talent” and “only then” developed later through semantic extension and loan usage. Xu Shen’s sprout analysis reflects a visual misinterpretation rather than the historical form.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我刚到(我剛到)，他才开始(他才開始)。",
+      "pinyin": "Wǒ gāng dào, tā cái kāishǐ.",
+      "english": "I just arrived, and only then did he start."
+    },
+    {
+      "chinese": "她十八岁才学中文(她十八歲才學中文)。",
+      "pinyin": "Tā shíbā suì cái xué Zhōngwén.",
+      "english": "She only started learning Chinese at eighteen."
+    },
+    {
+      "chinese": "这孩子很有才(這孩子很有才)，写作特别好(寫作特別好)。",
+      "pinyin": "Zhè háizi hěn yǒu cái, xiězuò tèbié hǎo.",
+      "english": "This child is very talented; the writing is especially good."
+    }
+  ]
+}

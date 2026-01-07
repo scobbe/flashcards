@@ -1,0 +1,43 @@
+{
+  "simplified": "啤酒",
+  "traditional": "啤酒",
+  "pinyin": "píjiǔ",
+  "english": "beer",
+  "etymology": {
+    "type": "compound word (phonetic loan + semantic head)",
+    "description": "啤 (phonetic borrowing of “beer/Bier”) + 酒 (alcohol) = beer.",
+    "interpretation": "啤 is a phonetic borrowing signaling the foreign origin and sound, while 酒 supplies the category ‘alcoholic drink’. Coined in the late 19th–20th century as Western beer entered East Asia.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "啤",
+      "trad": "啤",
+      "pinyin": "pí",
+      "english": "phonetic loan; used in transliterations; beer- (in compounds)"
+    },
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol; liquor; wine; spirits"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们去酒吧喝啤酒(我們去酒吧喝啤酒)。",
+      "pinyin": "Wǒmen qù jiǔbā hē píjiǔ.",
+      "english": "We’re going to a bar to drink beer."
+    },
+    {
+      "chinese": "夏天喝冰啤酒很解渴(夏天喝冰啤酒很解渴)。",
+      "pinyin": "Xiàtiān hē bīng píjiǔ hěn jiěkě.",
+      "english": "Drinking cold beer in summer is very refreshing."
+    },
+    {
+      "chinese": "这款啤酒带有麦香和微苦的味道(這款啤酒帶有麥香和微苦的味道)。",
+      "pinyin": "Zhè kuǎn píjiǔ dàiyǒu màixiāng hé wēikǔ de wèidào.",
+      "english": "This beer has a malty aroma with a slight bitterness."
+    }
+  ]
+}

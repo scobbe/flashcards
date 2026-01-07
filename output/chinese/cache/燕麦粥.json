@@ -1,0 +1,49 @@
+{
+  "simplified": "燕麦粥",
+  "traditional": "燕麥粥",
+  "pinyin": "yànmàizhōu",
+  "english": "oatmeal porridge",
+  "etymology": {
+    "type": "compound word",
+    "description": "燕麦 (oats) + 粥 (porridge) = oatmeal porridge",
+    "interpretation": "Refers to porridge made from oats; 燕麦 names the grain, historically associated with the northern state of 燕. Emphasizes the ingredient rather than the cooking method.",
+    "simplification": "Only 麥 was simplified to 麦 by reducing strokes in the grain component; 燕 and 粥 are unchanged."
+  },
+  "parts": [
+    {
+      "char": "燕",
+      "trad": "燕",
+      "pinyin": "yàn",
+      "english": "swallow (bird); State of Yān (ancient); surname; northern region around Yan"
+    },
+    {
+      "char": "麦",
+      "trad": "麥",
+      "pinyin": "mài",
+      "english": "wheat; cereal grains; barley (as in 大麦); malt"
+    },
+    {
+      "char": "粥",
+      "trad": "粥",
+      "pinyin": "zhōu",
+      "english": "porridge; congee; gruel; thin cereal soup"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "早上喝一碗热腾腾的燕麦粥最暖胃(早上喝一碗熱騰騰的燕麥粥最暖胃)。",
+      "pinyin": "Zǎoshang hē yì wǎn rè téngténg de yànmài zhōu zuì nuǎnwèi.",
+      "english": "A hot bowl of oatmeal porridge in the morning warms the stomach."
+    },
+    {
+      "chinese": "用牛奶煮燕麦粥，更香更顺滑(用牛奶煮燕麥粥，更香更順滑)。",
+      "pinyin": "Yòng niúnǎi zhǔ yànmài zhōu, gèng xiāng gèng shùnhuá.",
+      "english": "Cooking oatmeal porridge with milk makes it more fragrant and smoother."
+    },
+    {
+      "chinese": "燕麦粥富含膳食纤维，有助于保持饱腹感(燕麥粥富含膳食纖維，有助於保持飽腹感)。",
+      "pinyin": "Yànmài zhōu fùhán shànshí xiānwéi, yǒuzhù yú bǎochí bǎofùgǎn.",
+      "english": "Oatmeal porridge is rich in dietary fiber and helps maintain a feeling of fullness."
+    }
+  ]
+}

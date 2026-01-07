@@ -1,0 +1,43 @@
+{
+  "simplified": "想象",
+  "traditional": "想像",
+  "pinyin": "xiǎngxiàng",
+  "english": "imagination; imagine",
+  "etymology": {
+    "type": "compound word",
+    "description": "想 “to think” + 象/像 “image; appearance” = form images in the mind → imagine; imagination.",
+    "interpretation": "Combines the idea of thinking with images to express mentally picturing things not present. Used as both a verb (to imagine) and a noun (imagination).",
+    "simplification": "Mainland standardizes 想像 → 想象 by replacing 像 with 象 to align with the ‘image/phenomenon’ sense and unify with words like 形象/现象; an orthographic standardization rather than stroke reduction."
+  },
+  "parts": [
+    {
+      "char": "想",
+      "trad": "想",
+      "pinyin": "xiǎng",
+      "english": "to think;to want;to miss;to consider"
+    },
+    {
+      "char": "象",
+      "trad": "像",
+      "pinyin": "xiàng",
+      "english": "image;appearance;phenomenon;elephant"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我无法想象没有音乐的生活(我無法想像沒有音樂的生活)。",
+      "pinyin": "Wǒ wúfǎ xiǎngxiàng méiyǒu yīnyuè de shēnghuó.",
+      "english": "I can’t imagine a life without music."
+    },
+    {
+      "chinese": "孩子的想象力很丰富(孩子的想像力很豐富)。",
+      "pinyin": "Háizi de xiǎngxiànglì hěn fēngfù.",
+      "english": "Children’s imagination is very rich."
+    },
+    {
+      "chinese": "请你想象一下未来的城市(請你想像一下未來的城市)。",
+      "pinyin": "Qǐng nǐ xiǎngxiàng yīxià wèilái de chéngshì.",
+      "english": "Please imagine what future cities will be like."
+    }
+  ]
+}

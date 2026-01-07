@@ -1,0 +1,43 @@
+{
+  "simplified": "订",
+  "traditional": "訂",
+  "pinyin": "dìng",
+  "english": "to order/book; to subscribe; to agree/fix; to revise/correct",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 言 + phonetic: 丁; simplified from 訂 (訁 → 讠).",
+    "interpretation": "Combines the speech element 言 with phonetic 丁 to cue the sound dìng and meanings tied to spoken agreements, ordering, and correction. In simplification, the speech radical was reduced to 讠 while 丁 remained, preserving pronunciation and core sense.",
+    "simplification": "訁 (speech radical) was simplified to 讠 in the left component to reduce strokes; the phonetic 丁 was unchanged."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech; to speak"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail; fourth heavenly stem"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们订了两张机票(我們訂了兩張機票)。",
+      "pinyin": "Wǒmen dìng le liǎng zhāng jīpiào.",
+      "english": "We booked two plane tickets."
+    },
+    {
+      "chinese": "我订阅了这份杂志(我訂閱了這份雜誌)。",
+      "pinyin": "Wǒ dìngyuè le zhè fèn zázhì.",
+      "english": "I subscribed to this magazine."
+    },
+    {
+      "chinese": "编辑订正了书中的错误(編輯訂正了書中的錯誤)。",
+      "pinyin": "Biānjí dìngzhèng le shū zhōng de cuòwù.",
+      "english": "The editor corrected the errors in the book."
+    }
+  ]
+}

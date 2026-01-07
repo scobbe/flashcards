@@ -1,0 +1,29 @@
+{
+  "simplified": "巛",
+  "traditional": "巛",
+  "pinyin": "chuān",
+  "english": "river; waterways (variant)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: water flowing; see 水, 川, 𡿧; unrelated to 兪 (> 俞).",
+    "interpretation": "Three winding strokes depict the meandering course of streams, conveying the idea of flowing water and waterways. It belongs to the same graphic family as 川 and 𡿧, and any resemblance to 兪/俞 is accidental, not etymological.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "古籍中可见“巛”字，表示流水与水道(古籍中可見「巛」字，表示流水與水道)。",
+      "pinyin": "Gǔjí zhōng kějiàn “chuān” zì, biǎoshì liúshuǐ yǔ shuǐdào.",
+      "english": "In ancient texts, the character “巛” can be found, denoting flowing water and waterways."
+    },
+    {
+      "chinese": "在某些字里，“巛”作部件，表示与水有关(在某些字裡，「巛」作部件，表示與水有關)。",
+      "pinyin": "Zài mǒuxiē zì lǐ, “chuān” zuò bùjiàn, biǎoshì yǔ shuǐ yǒuguān.",
+      "english": "In some characters, “巛” functions as a component indicating a relation to water."
+    },
+    {
+      "chinese": "现代汉语中多用“川”，而“巛”较少单独使用(現代漢語中多用「川」，而「巛」較少單獨使用)。",
+      "pinyin": "Xiàndài Hànyǔ zhōng duō yòng “chuān”, ér “chuān” jiào shǎo dāndú shǐyòng.",
+      "english": "In modern Chinese, “川” is used more often, while “巛” is seldom used independently."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "晶晶",
+  "traditional": "晶晶",
+  "pinyin": "jīngjīng",
+  "english": "sparkling; gleaming",
+  "etymology": {
+    "type": "reduplicated adjective",
+    "description": "晶 + 晶 (AA) = intensified sense of brightness/sparkle.",
+    "interpretation": "Reduplication heightens vividness, evoking fine, continuous points of light that glitter or gleam. Common in descriptive or literary contexts for stars, eyes, water, or snow.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "bright; crystal; sparkle; clear"
+    },
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "bright; crystal; sparkle; clear"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "在阳光下(在陽光下)，湖面晶晶发光(湖面晶晶發光)。",
+      "pinyin": "Zài yángguāng xià, húmiàn jīngjīng fāguāng.",
+      "english": "In the sunlight, the surface of the lake sparkles."
+    },
+    {
+      "chinese": "夜里(夜裡)，天上的星星晶晶地闪烁(天上的星星晶晶地閃爍)。",
+      "pinyin": "Yèlǐ, tiānshàng de xīngxing jīngjīng de shǎnsuò.",
+      "english": "At night, the stars gleam and twinkle."
+    },
+    {
+      "chinese": "听到好消息(聽到好消息)，孩子的眼睛晶晶发亮(孩子的眼睛晶晶發亮)。",
+      "pinyin": "Tīngdào hǎo xiāoxī, háizi de yǎnjing jīngjīng fāliàng.",
+      "english": "Hearing the good news, the child's eyes gleamed."
+    }
+  ]
+}

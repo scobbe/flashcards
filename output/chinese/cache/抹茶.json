@@ -1,0 +1,43 @@
+{
+  "simplified": "抹茶",
+  "traditional": "抹茶",
+  "pinyin": "mǒchá",
+  "english": "matcha",
+  "etymology": {
+    "type": "compound word",
+    "description": "抹 (to smear; ground/powdered) + 茶 (tea) = powdered tea (matcha).",
+    "interpretation": "Loanword from Japanese using Chinese characters, referring to finely ground green tea powder. Highlights the powdered form of tea used for whisking and flavoring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "抹",
+      "trad": "抹",
+      "pinyin": "mǒ",
+      "english": "to wipe; to smear; to apply; to erase"
+    },
+    {
+      "char": "茶",
+      "trad": "茶",
+      "pinyin": "chá",
+      "english": "tea; tea leaves; tea plant; tea beverage"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢喝抹茶拿铁(我喜歡喝抹茶拿鐵)。",
+      "pinyin": "Wǒ xǐhuan hē mǒchá nátiě.",
+      "english": "I like to drink matcha lattes."
+    },
+    {
+      "chinese": "日本的抹茶很有名(日本的抹茶很有名)。",
+      "pinyin": "Rìběn de mǒchá hěn yǒumíng.",
+      "english": "Matcha from Japan is very famous."
+    },
+    {
+      "chinese": "抹茶是用碾磨绿茶做成的(抹茶是用碾磨綠茶做成的)。",
+      "pinyin": "Mǒchá shì yòng niǎnmó lǜchá zuòchéng de.",
+      "english": "Matcha is made by grinding green tea into powder."
+    }
+  ]
+}

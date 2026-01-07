@@ -1,0 +1,29 @@
+{
+  "simplified": "巴",
+  "traditional": "巴",
+  "pinyin": "bā",
+  "english": "to cling; to long for; to hope for; Sichuan (abbr.)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram — a huge snake; however, in 邑 and 色 it represents a person kneeling.",
+    "interpretation": "Originally depicted a large snake with a curved body, giving it a simple, iconic shape. In certain composite characters like 邑 and 色, the same shape was repurposed to depict a kneeling person, showing how the graphic was reassigned contextually. The sense of clinging or yearning may echo the image of something coiling or holding on.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "孩子巴着妈妈不放(孩子巴著媽媽不放)。",
+      "pinyin": "Háizi bāzhe māma bù fàng.",
+      "english": "The child clung to his mother and wouldn’t let go."
+    },
+    {
+      "chinese": "他巴不得马上成功(他巴不得馬上成功)。",
+      "pinyin": "Tā bābudé mǎshàng chénggōng.",
+      "english": "He is eager to succeed right away."
+    },
+    {
+      "chinese": "巴蜀地区风景秀丽(巴蜀地區風景秀麗)。",
+      "pinyin": "Bā Shǔ dìqū fēngjǐng xiùlì.",
+      "english": "The Ba–Shu region (Sichuan area) has beautiful scenery."
+    }
+  ]
+}

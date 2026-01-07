@@ -1,0 +1,43 @@
+{
+  "simplified": "豆浆",
+  "traditional": "豆浆",
+  "pinyin": "dòujiāng",
+  "english": "soy milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆 (bean) + 浆/漿 (thick liquid) = soy milk",
+    "interpretation": "Refers to a thick beverage made by grinding and boiling soybeans, i.e., soy milk. Commonly served at breakfast, often paired with youtiao.",
+    "simplification": "Traditional 豆漿 → Simplified 豆浆; 漿 was simplified to 浆 by adopting the simplified phonetic 将 and streamlining the water component to reduce strokes."
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; legume; soybean; pulse"
+    },
+    {
+      "char": "浆",
+      "trad": "漿",
+      "pinyin": "jiāng",
+      "english": "thick liquid; slurry; paste; starch solution"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天早上喝一杯热豆浆(我每天早上喝一杯熱豆漿)。",
+      "pinyin": "Wǒ měitiān zǎoshang hē yì bēi rè dòujiāng.",
+      "english": "I drink a cup of hot soy milk every morning."
+    },
+    {
+      "chinese": "在中国北方(在中國北方)，豆浆常配油条(豆漿常配油條)。",
+      "pinyin": "Zài Zhōngguó běifāng, dòujiāng cháng pèi yóutiáo.",
+      "english": "In northern China, soy milk is often served with fried dough sticks."
+    },
+    {
+      "chinese": "自己在家用黄豆打豆浆很方便(自己在家用黃豆打豆漿很方便)。",
+      "pinyin": "Zìjǐ zài jiā yòng huángdòu dǎ dòujiāng hěn fāngbiàn.",
+      "english": "It’s very convenient to make soy milk at home with soybeans."
+    }
+  ]
+}

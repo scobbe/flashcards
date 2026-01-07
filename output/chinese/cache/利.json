@@ -1,0 +1,43 @@
+{
+  "simplified": "利",
+  "traditional": "利",
+  "pinyin": "lì",
+  "english": "sharp; benefit; profit",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "禾 “grain” + 刀 “knife” — to reap grain with a knife.",
+    "interpretation": "A knife cutting grain evokes the act of harvesting. From effective cutting comes the sense of sharpness, and by extension, successful reaping leads to ideas of benefit and profit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain; cereal"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife; blade"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这把刀很利(這把刀很利)。",
+      "pinyin": "Zhè bǎ dāo hěn lì.",
+      "english": "This knife is very sharp."
+    },
+    {
+      "chinese": "这项政策对小企业很有利(這項政策對小企業很有利)。",
+      "pinyin": "Zhè xiàng zhèngcè duì xiǎo qǐyè hěn yǒulì.",
+      "english": "This policy is very beneficial to small businesses."
+    },
+    {
+      "chinese": "他从投资中获利(他從投資中獲利)。",
+      "pinyin": "Tā cóng tóuzī zhōng huòlì.",
+      "english": "He profited from the investment."
+    }
+  ]
+}

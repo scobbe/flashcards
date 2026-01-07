@@ -1,0 +1,49 @@
+{
+  "simplified": "中正区",
+  "traditional": "中正区",
+  "pinyin": "Zhōngzhèng Qū",
+  "english": "Zhongzheng District, Taipei",
+  "etymology": {
+    "type": "compound word (toponym)",
+    "description": "中正 (Chiang Kai-shek’s courtesy name) + 区 = administrative district named “Zhongzheng District.”",
+    "interpretation": "Named in honor of Chiang Kai-shek (courtesy name 中正), it denotes the central Taipei administrative district. Outside toponymy, 中正 can mean “upright/just,” but here it functions as a personal name.",
+    "simplification": "區 → 区 via mainland script reform adopting a simpler/variant form to reduce strokes; Taiwan retains 區 (officially 中正區)."
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; among; hit (the mark)"
+    },
+    {
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "upright; correct; just; main"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; district; region; distinguish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我住在台北市中正区(我住在臺北市中正區)。",
+      "pinyin": "Wǒ zhù zài Táiběi Shì Zhōngzhèng Qū.",
+      "english": "I live in Zhongzheng District, Taipei."
+    },
+    {
+      "chinese": "中正区有许多政府机关(中正區有許多政府機關)。",
+      "pinyin": "Zhōngzhèng Qū yǒu xǔduō zhèngfǔ jīguān.",
+      "english": "Zhongzheng District has many government agencies."
+    },
+    {
+      "chinese": "我们在中正纪念堂散步(我們在中正紀念堂散步)。",
+      "pinyin": "Wǒmen zài Zhōngzhèng Jìniàntáng sànbù.",
+      "english": "We took a walk at the Chiang Kai-shek Memorial Hall."
+    }
+  ]
+}

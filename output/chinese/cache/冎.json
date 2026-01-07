@@ -1,0 +1,29 @@
+{
+  "simplified": "冎",
+  "traditional": "冎",
+  "pinyin": "guǎ",
+  "english": "jawbone; bare bones",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: bones; original form of 骨.",
+    "interpretation": "Depicts exposed bones/jaw, reflecting a skeletal shape. Served historically as the graph for “bone” and survives as a top component in characters like 骨 and 咼 (the latter distinguishing itself by adding 口), with related forms seen in 呙 and the variant 另.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "考古学家在遗址里发现了几片冎(考古學家在遺址裡發現了幾片冎)。",
+      "pinyin": "Kǎogǔxuéjiā zài yízhǐ lǐ fāxiànle jǐ piàn guǎ.",
+      "english": "Archaeologists found several jawbone fragments at the site."
+    },
+    {
+      "chinese": "河岸上出现了冎(河岸上出現了冎)。",
+      "pinyin": "Hé'àn shàng chūxiànle guǎ.",
+      "english": "Bare bones appeared on the riverbank."
+    },
+    {
+      "chinese": "画中可见野兽的冎(畫中可見野獸的冎)。",
+      "pinyin": "Huà zhōng kějiàn yěshòu de guǎ.",
+      "english": "The painting shows a beast’s jawbone."
+    }
+  ]
+}

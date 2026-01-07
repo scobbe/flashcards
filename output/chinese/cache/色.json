@@ -1,0 +1,43 @@
+{
+  "simplified": "色",
+  "traditional": "色",
+  "pinyin": "sè",
+  "english": "color; sexual desire; sensuality; facial expression",
+  "etymology": {
+    "type": "Ideogrammic compound (會意 / 会意)",
+    "description": "會意: 爪 “claw/hand” + 卩 “kneeling person” → complexion; Shuowen: 人 “person” + 卩 “etiquette/kneeling person” → complexion.",
+    "interpretation": "A hand over a kneeling figure evokes someone’s outward look or bearing, hence ‘complexion’ and ‘appearance.’ From appearance it broadened to ‘color,’ and its tie to human looks fostered senses about facial expression and sexual allure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw; talon"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; human"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这幅画的颜色很鲜艳(這幅畫的顏色很鮮豔)。",
+      "pinyin": "Zhè fú huà de yánsè hěn xiānyàn.",
+      "english": "The colors of this painting are very vivid."
+    },
+    {
+      "chinese": "他今天脸色不好，可能生病了(他今天臉色不好，可能生病了)。",
+      "pinyin": "Tā jīntiān liǎnsè bù hǎo, kěnéng shēngbìng le.",
+      "english": "His complexion looks poor today; he may be sick."
+    },
+    {
+      "chinese": "不要沉迷色情内容(不要沉迷色情內容)。",
+      "pinyin": "Bùyào chénmí sèqíng nèiróng.",
+      "english": "Don't get addicted to pornographic content."
+    }
+  ]
+}

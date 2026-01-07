@@ -1,0 +1,43 @@
+{
+  "simplified": "带走",
+  "traditional": "帶走",
+  "pinyin": "dàizǒu",
+  "english": "take away",
+  "etymology": {
+    "type": "compound word",
+    "description": "带(dài, bring/lead) + 走(zǒu, go/walk) = take away; carry off.",
+    "interpretation": "Combines the idea of bringing with the act of moving, indicating taking someone or something along as you leave. Common in everyday contexts (trash, takeout) and in official contexts (police escort).",
+    "simplification": "帶 was simplified to 带 by reducing stroke count and merging inner components for ease of writing; 走 is unchanged."
+  },
+  "parts": [
+    {
+      "char": "带",
+      "trad": "帶",
+      "pinyin": "dài",
+      "english": "belt; band; zone; to bring"
+    },
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "to walk; to go; to leave; to depart"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请把垃圾带走(請把垃圾帶走)。",
+      "pinyin": "Qǐng bǎ lājī dàizǒu.",
+      "english": "Please take the trash away."
+    },
+    {
+      "chinese": "警察把嫌疑人带走了(警察把嫌疑人帶走了)。",
+      "pinyin": "Jǐngchá bǎ xiányírén dàizǒu le.",
+      "english": "The police took the suspect away."
+    },
+    {
+      "chinese": "这份外卖可以带走吗(這份外賣可以帶走嗎)？",
+      "pinyin": "Zhè fèn wàimài kěyǐ dàizǒu ma?",
+      "english": "Can this order be taken to go?"
+    }
+  ]
+}

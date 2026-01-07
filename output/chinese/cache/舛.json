@@ -1,0 +1,37 @@
+{
+  "simplified": "舛",
+  "traditional": "舛",
+  "pinyin": "chuǎn",
+  "english": "contrary; reversed steps; to be at variance",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 夊 + 𡕒 — two feet facing in the same direction.",
+    "interpretation": "Two footprint components point the same way but sit out of alignment, evoking mismatch, disorder, and being at odds. This visual misalignment underlies senses like “contrary” and “at variance,” with the left element having evolved in shape more than the right in later scripts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "go slowly; walk"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他的陈述与事实相舛(他的陳述與事實相舛)。",
+      "pinyin": "Tā de chénshù yǔ shìshí xiāng chuǎn.",
+      "english": "His statement is at variance with the facts."
+    },
+    {
+      "chinese": "由于数据舛误(由於數據舛誤)，报告需要重写(報告需要重寫)。",
+      "pinyin": "Yóuyú shùjù chuǎnwù, bàogào xūyào chóngxiě.",
+      "english": "Due to erroneous data, the report needs to be rewritten."
+    },
+    {
+      "chinese": "两人的意见颇多舛异(兩人的意見頗多舛異)。",
+      "pinyin": "Liǎng rén de yìjiàn pō duō chuǎnyì.",
+      "english": "The two people’s opinions differ in many respects."
+    }
+  ]
+}

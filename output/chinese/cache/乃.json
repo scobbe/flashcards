@@ -1,0 +1,29 @@
+{
+  "simplified": "乃",
+  "traditional": "乃",
+  "pinyin": "nǎi",
+  "english": "thus; then",
+  "etymology": {
+    "type": "unknown",
+    "description": "Original form 𠄎; origin uncertain; various theories; unrelated to 廴.",
+    "interpretation": "Earliest forms show a simple curved graph written as 𠄎, but scholars disagree on what it was intended to depict. Despite visual similarity, it is not derived from 廴, and no consensus formation analysis has been established.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他思索再三，乃作决定(他思索再三，乃作決定)。",
+      "pinyin": "Tā sīsuǒ zàisān, nǎi zuò juédìng.",
+      "english": "After much deliberation, he then made a decision."
+    },
+    {
+      "chinese": "事已至此，乃下令撤退(事已至此，乃下令撤退)。",
+      "pinyin": "Shì yǐ zhì cǐ, nǎi xiàlìng chètuì.",
+      "english": "Now that matters had come to this point, he then gave the order to retreat."
+    },
+    {
+      "chinese": "君臣同心，乃能安邦(君臣同心，乃能安邦)。",
+      "pinyin": "Jūn chén tóngxīn, nǎi néng ān bāng.",
+      "english": "Only when ruler and ministers are of one mind can the state be stabilized."
+    }
+  ]
+}

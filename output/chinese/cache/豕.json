@@ -1,0 +1,29 @@
+{
+  "simplified": "豕",
+  "traditional": "豕",
+  "pinyin": "shǐ",
+  "english": "pig; boar",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram (象形): a pig; compare 亥, 𢑓 ‘male pig’, and 豖 ‘castrated male pig’.",
+    "interpretation": "Depicts a pig in profile with head, body, and legs. Related forms differentiate types of pigs; in 㒸, the pig element serves as a phonetic.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "古书中常以“豕”指代猪(古書中常以「豕」指代豬)。",
+      "pinyin": "Gǔshū zhōng cháng yǐ “shǐ” zhǐdài zhū.",
+      "english": "In ancient texts, “豕” refers to a pig."
+    },
+    {
+      "chinese": "在甲骨文里，豕的形状清晰可见(在甲骨文裡，豕的形狀清晰可見)。",
+      "pinyin": "Zài jiǎgǔwén lǐ, shǐ de xíngzhuàng qīngxī kějiàn.",
+      "english": "In oracle bone inscriptions, the form of 豕 is clearly visible."
+    },
+    {
+      "chinese": "成语“豕突狼奔”中的“豕”意为猪(成語「豕突狼奔」中的「豕」意為豬)。",
+      "pinyin": "Chéngyǔ “shǐ tū láng bēn” zhōng de “shǐ” yìwéi zhū.",
+      "english": "In the idiom “豕突狼奔,” “豕” means pig."
+    }
+  ]
+}

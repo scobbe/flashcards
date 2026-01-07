@@ -1,0 +1,29 @@
+{
+  "simplified": "月",
+  "traditional": "月",
+  "pinyin": "yuè",
+  "english": "moon; month",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形): pictographic representation of a crescent moon; historically related to 夕 and once interchangeable; unrelated to 多, where it depicts two pieces of meat stylized as 夕.",
+    "interpretation": "Depicts a crescent, so the meanings ‘moon’ and by extension ‘month’ arise directly from the image. 夕 was once used in similar contexts but later diverged in meaning, while the lookalike element in 多 is a stylized ‘meat’ component and not this graph.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "今天是这个月的第一天(今天是這個月的第一天)。",
+      "pinyin": "Jīntiān shì zhège yuè de dì yī tiān.",
+      "english": "Today is the first day of this month."
+    },
+    {
+      "chinese": "下个月我想去旅行(下個月我想去旅行)。",
+      "pinyin": "Xià gè yuè wǒ xiǎng qù lǚxíng.",
+      "english": "I want to travel next month."
+    },
+    {
+      "chinese": "今晚是满月(今晚是滿月)，月光照亮了山谷(月光照亮了山谷)。",
+      "pinyin": "Jīn wǎn shì mǎn yuè, yuè guāng zhàoliàng le shān gǔ.",
+      "english": "Tonight is a full moon, and the moonlight illuminates the valley."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "simplified": "岭南文化",
+  "traditional": "嶺南文化",
+  "pinyin": "Lǐngnán wénhuà",
+  "english": "Lingnan culture",
+  "etymology": {
+    "type": "compound word",
+    "description": "岭(嶺 ‘mountain ridge’) + 南 (‘south’) → 岭南 ‘south of the ranges/Lingnan’; 文化 (‘culture’) → cultural traditions of Lingnan.",
+    "interpretation": "Refers to the cultural traditions of the Lingnan region south of the Nanling ranges, chiefly Guangdong, Guangxi, and Hainan. Highlights maritime openness and Cantonese, Hakka, and Teochew influences.",
+    "simplification": "嶺 → 岭 by replacing the phonetic 領 with 令 under the mountain radical to reduce strokes; 南, 文, 化 unchanged."
+  },
+  "parts": [
+    {
+      "char": "岭",
+      "trad": "嶺",
+      "pinyin": "lǐng",
+      "english": "mountain ridge; mountain range; mountain pass; hill"
+    },
+    {
+      "char": "南",
+      "trad": "南",
+      "pinyin": "nán",
+      "english": "south; southern; to the south of; southward"
+    },
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "writing; literature; culture; civil"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "to transform; change; -ization; to influence"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "岭南文化跨越广东、广西与海南(嶺南文化跨越廣東、廣西與海南)。",
+      "pinyin": "Lǐngnán wénhuà kuàyuè Guǎngdōng, Guǎngxī yǔ Hǎinán.",
+      "english": "Lingnan culture spans Guangdong, Guangxi, and Hainan."
+    },
+    {
+      "chinese": "海上贸易和亚热带环境影响了它的建筑、饮食与音乐(海上貿易和亞熱帶環境影響了它的建築、飲食與音樂)。",
+      "pinyin": "Hǎishàng màoyì hé yàrèdài huánjìng yǐngxiǎng le tā de jiànzhù, yǐnshí yǔ yīnyuè.",
+      "english": "Maritime trade and the subtropical environment have influenced its architecture, cuisine, and music."
+    },
+    {
+      "chinese": "在现代城市中，岭南文化通过龙舟、粤剧和园林继续传承(在現代城市中，嶺南文化通過龍舟、粵劇和園林繼續傳承)。",
+      "pinyin": "Zài xiàndài chéngshì zhōng, Lǐngnán wénhuà tōngguò lóngzhōu, Yuèjù hé yuánlín jìxù chuánchéng.",
+      "english": "In modern cities, Lingnan culture continues through dragon boat races, Cantonese opera, and classical gardens."
+    }
+  ]
+}

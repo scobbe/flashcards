@@ -1,0 +1,43 @@
+{
+  "simplified": "体",
+  "traditional": "體",
+  "pinyin": "tǐ",
+  "english": "body; form; style; system",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "ideogrammic: 亻 ‘person’ + 本 ‘basis’; in trad. 體: semantic 骨 ‘bone’ + phonetic 豐.",
+    "interpretation": "Combines the idea of a person with a foundational base, pointing to one’s fundamental constitution and thus ‘body’, and by extension ‘form’ or ‘style’. In the traditional form, the ‘bone’ element underscores the bodily frame while 豐 supplies the sound, reinforcing a physical framework sense.",
+    "simplification": "Simplified by replacing the phono-semantic 體 (骨 + 豐) with the more transparent and lower-stroke form 体 (亻 + 本), aligning meaning with ‘person’ and easing writing."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "本",
+      "trad": "本",
+      "pinyin": "běn",
+      "english": "root; basis"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他的身体很健康(他的身體很健康)。",
+      "pinyin": "Tā de shēntǐ hěn jiànkāng.",
+      "english": "His body is very healthy."
+    },
+    {
+      "chinese": "这款字体很优雅(這款字體很優雅)。",
+      "pinyin": "Zhè kuǎn zìtǐ hěn yōuyǎ.",
+      "english": "This typeface is very elegant."
+    },
+    {
+      "chinese": "改革现有体制需要时间(改革現有體制需要時間)。",
+      "pinyin": "Gǎigé xiànyǒu tǐzhì xūyào shíjiān.",
+      "english": "Reforming the existing system takes time."
+    }
+  ]
+}

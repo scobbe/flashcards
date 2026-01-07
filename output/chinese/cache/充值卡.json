@@ -1,0 +1,49 @@
+{
+  "simplified": "充值卡",
+  "traditional": "充值卡",
+  "pinyin": "chōngzhíkǎ",
+  "english": "recharge card",
+  "etymology": {
+    "type": "compound word",
+    "description": "充 + 值 + 卡 = a card used to add value/credit.",
+    "interpretation": "Modern compound where 充值 means adding credit/balance and 卡 is the physical or virtual card medium. Common in Mainland usage; in Traditional Chinese regions, 儲值卡 is more prevalent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "充",
+      "trad": "充",
+      "pinyin": "chōng",
+      "english": "fill; charge; full; act as"
+    },
+    {
+      "char": "值",
+      "trad": "值",
+      "pinyin": "zhí",
+      "english": "value; worth; be worth; on duty"
+    },
+    {
+      "char": "卡",
+      "trad": "卡",
+      "pinyin": "kǎ",
+      "english": "card; checkpoint; calorie (abbr.); punch card"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一张充值卡(我買了一張儲值卡)。",
+      "pinyin": "Wǒ mǎi le yì zhāng chōngzhí kǎ.",
+      "english": "I bought a recharge card."
+    },
+    {
+      "chinese": "你可以用充值卡给手机充值(你可以用儲值卡給手機儲值)。",
+      "pinyin": "Nǐ kěyǐ yòng chōngzhí kǎ gěi shǒujī chōngzhí.",
+      "english": "You can use a recharge card to add credit to your phone."
+    },
+    {
+      "chinese": "这张游戏充值卡已经被使用过了(這張遊戲儲值卡已經被使用過了)。",
+      "pinyin": "Zhè zhāng yóuxì chōngzhí kǎ yǐjīng bèi shǐyòng guò le.",
+      "english": "This game recharge card has already been used."
+    }
+  ]
+}

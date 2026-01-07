@@ -1,0 +1,43 @@
+{
+  "simplified": "娌",
+  "traditional": "娌",
+  "pinyin": "lǐ",
+  "english": "wife of a younger brother",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 女 (\"woman\") + phonetic 里 (OC *rɯʔ).",
+    "interpretation": "女 signals a meaning related to women and marital relations. 里 provides the sound value lǐ, pointing to a kinship term referring specifically to a younger brother’s wife.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman; female"
+    },
+    {
+      "char": "里",
+      "trad": "里",
+      "pinyin": "lǐ",
+      "english": "village; inside; li (unit of length)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她是我弟弟的娌(她是我弟弟的娌)。",
+      "pinyin": "Tā shì wǒ dìdi de lǐ.",
+      "english": "She is my younger brother’s wife."
+    },
+    {
+      "chinese": "婚宴上，娌向长辈敬茶(婚宴上，娌向長輩敬茶)。",
+      "pinyin": "Hūnyàn shàng, lǐ xiàng zhǎngbèi jìng chá.",
+      "english": "At the wedding banquet, the younger brother’s wife offered tea to the elders."
+    },
+    {
+      "chinese": "在我们那儿，妯娌常一起劳动(在我們那兒，妯娌常一起勞動)。",
+      "pinyin": "Zài wǒmen nàr, zhóulǐ cháng yìqǐ láodòng.",
+      "english": "In our area, sisters-in-law often work together."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "浴巾",
+  "traditional": "浴巾",
+  "pinyin": "yùjīn",
+  "english": "bath towel",
+  "etymology": {
+    "type": "compound word",
+    "description": "浴 (bathe) + 巾 (cloth/towel) = towel used for bathing.",
+    "interpretation": "Pairs the act of bathing with a piece of cloth to specify its function: a towel for use during or after bathing. A purpose-driven verb–noun compound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "浴",
+      "trad": "浴",
+      "pinyin": "yù",
+      "english": "bathe; to take a bath; to wash; to immerse"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "towel; cloth; kerchief; headscarf"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "洗完澡(洗完澡)，我用浴巾擦干身体(我用浴巾擦乾身體)。",
+      "pinyin": "Xǐ wán zǎo, wǒ yòng yùjīn cā gān shēntǐ.",
+      "english": "After showering, I dry my body with a bath towel."
+    },
+    {
+      "chinese": "浴室里有备用的浴巾(浴室裡有備用的浴巾)。",
+      "pinyin": "Yùshì lǐ yǒu bèiyòng de yùjīn.",
+      "english": "There are spare bath towels in the bathroom."
+    },
+    {
+      "chinese": "请把干净的浴巾递给我(請把乾淨的浴巾遞給我)。",
+      "pinyin": "Qǐng bǎ gānjìng de yùjīn dì gěi wǒ.",
+      "english": "Please hand me a clean bath towel."
+    }
+  ]
+}

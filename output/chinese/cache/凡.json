@@ -1,0 +1,29 @@
+{
+  "simplified": "凡",
+  "traditional": "凡",
+  "pinyin": "fán",
+  "english": "ordinary; all; every",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram – a plate, a flat dish; possibly a bucket. Later borrowed for abstract meanings; 盤 created for the original sense.",
+    "interpretation": "Originally depicted a shallow vessel such as a dish or bucket. It was later loaned to express abstract ideas like “all, every” and “ordinary,” while 盤 took over the concrete ‘plate/dish’ meaning; traces of the vessel idea may echo in graphs like 同 and 筒.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "凡是来的人都欢迎(凡是來的人都歡迎)。",
+      "pinyin": "Fán shì lái de rén dōu huānyíng.",
+      "english": "Everyone who comes is welcome."
+    },
+    {
+      "chinese": "凡事都有例外(凡事都有例外)。",
+      "pinyin": "Fánshì dōu yǒu lìwài.",
+      "english": "There are exceptions to everything."
+    },
+    {
+      "chinese": "凡人都会犯错(凡人都會犯錯)。",
+      "pinyin": "Fánrén dōu huì fàncuò.",
+      "english": "Ordinary people all make mistakes."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Phono-semantic compound ( 形聲 / 形声 ): semantic 車 (“chariot”) + phonetic 勹 . The phonetic component here is not 勹 ( OC *pruː ), but the original form of 螾 ( OC *lin, *linʔ ), which also acts as the phonetic component of 旬 ( OC *sɢʷin ), 勻 ( OC *ɢʷin ) and 云 ( OC *ɢun ).
+The Shuowen Jiezi interprets it as ideogrammic compound ( 會意 / 会意 ): 車 ( “ cart; chariot ” ) + 勹 ( “ to surround ” ) .

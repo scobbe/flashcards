@@ -1,0 +1,43 @@
+{
+  "simplified": "精",
+  "traditional": "精",
+  "pinyin": "jīng",
+  "english": "essence; refined; fine/pure; spirit",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 米 ‘rice’ + phonetic: 青 — ‘polished rice’.",
+    "interpretation": "Rice provides the meaning domain of grain/food, while 青 supplies the sound and evokes clarity or brightness. The sense ‘polished rice’ naturally extended to ideas of refinement and purity, then figuratively to ‘essence’ and ‘spirit’ in compounds.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "青",
+      "trad": "青",
+      "pinyin": "qīng",
+      "english": "green/blue; pure"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这道菜的精华在汤里(這道菜的精華在湯裡)。",
+      "pinyin": "Zhè dào cài de jīnghuá zài tāng lǐ.",
+      "english": "The essence of this dish is in the soup."
+    },
+    {
+      "chinese": "这种油很精纯(這種油很精純)。",
+      "pinyin": "Zhè zhǒng yóu hěn jīngchún.",
+      "english": "This type of oil is very pure."
+    },
+    {
+      "chinese": "休息以后(休息以後)，他精神好多了(他精神好多了)。",
+      "pinyin": "Xiūxí yǐhòu, tā jīngshén hǎo duō le.",
+      "english": "After resting, his spirit improved a lot."
+    }
+  ]
+}

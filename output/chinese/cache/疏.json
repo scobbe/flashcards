@@ -1,0 +1,43 @@
+{
+  "simplified": "疏",
+  "traditional": "疏",
+  "pinyin": "shū",
+  "english": "sparse; to clear; to dredge",
+  "etymology": {
+    "type": "Ideogrammic compound; phono-semantic compound",
+    "description": "phono-semantic: phonetic 疋 + semantic 㐬; also analyzed as ideogrammic.",
+    "interpretation": "㐬 suggests branching or dispersal, evoking ideas of separation, thinning out, and opening a passage. 疋 supplies the sound value, and together they point to senses like sparse spacing and clearing or dredging channels.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疋",
+      "trad": "疋",
+      "pinyin": "pǐ",
+      "english": "bolt of cloth; foot"
+    },
+    {
+      "char": "㐬",
+      "trad": "㐬",
+      "pinyin": "shū",
+      "english": "to open; disperse"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "雨后山上的松林显得稀疏(雨後山上的松林顯得稀疏)。",
+      "pinyin": "Yǔ hòu shān shàng de sōnglín xiǎnde xīshū.",
+      "english": "After the rain, the pine forest on the mountain looks sparse."
+    },
+    {
+      "chinese": "市政部门正在疏通河道，防止城市内涝(市政部門正在疏通河道，防止城市內澇)。",
+      "pinyin": "Shìzhèng bùmén zhèngzài shūtōng hédào, fángzhǐ chéngshì nèilào.",
+      "english": "The municipal department is dredging the river channel to prevent urban flooding."
+    },
+    {
+      "chinese": "长期不联系，朋友之间难免会渐渐疏远(長期不聯繫，朋友之間難免會漸漸疏遠)。",
+      "pinyin": "Chángqī bù liánxì, péngyǒu zhījiān nánmiǎn huì jiànjiàn shūyuǎn.",
+      "english": "Without contact for a long time, friends inevitably grow distant."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "冘",
+  "traditional": "冘",
+  "pinyin": "yín",
+  "english": "to go; to remain (archaic)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a man carrying an object on the shoulder; original form of 儋; some oracle-bone forms interpreted as 何.",
+    "interpretation": "Depicts a person bearing a load on the shoulder, matching an early sense related to carrying. Over time it was associated with movement or lingering, and some ancient graphs were conflated or read as 何, reflecting interpretive ambiguity in oracle-bone forms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; son"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古兵冘行于野(古兵冘行於野)。",
+      "pinyin": "Gǔ bīng yín xíng yú yě.",
+      "english": "Ancient soldiers proceeded across the fields."
+    },
+    {
+      "chinese": "客冘于舍(客冘於舍)，未之去(未之去)。",
+      "pinyin": "Kè yín yú shè, wèi zhī qù.",
+      "english": "The guest remained at the lodge and had not yet left."
+    },
+    {
+      "chinese": "行者冘而不前(行者冘而不前)。",
+      "pinyin": "Xíngzhě yín ér bù qián.",
+      "english": "The traveler lingered and did not advance."
+    }
+  ]
+}

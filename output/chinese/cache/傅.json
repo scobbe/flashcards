@@ -1,0 +1,43 @@
+{
+  "simplified": "傅",
+  "traditional": "傅",
+  "pinyin": "fù",
+  "english": "tutor; instructor; mentor; to assist",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 亻 (“person”) + phonetic: 尃",
+    "interpretation": "Person component signals a human role, while 尃 supplies the pronunciation. The meaning developed toward someone who instructs or assists, aligning with roles like tutor or mentor.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "尃",
+      "trad": "尃",
+      "pinyin": "fū",
+      "english": "to spread; announce"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是我的师傅(他是我的師傅)。",
+      "pinyin": "Tā shì wǒ de shīfu.",
+      "english": "He is my master/instructor."
+    },
+    {
+      "chinese": "太傅辅佐年幼的国君(太傅輔佐年幼的國君)。",
+      "pinyin": "Tàifù fǔzuǒ nián yòu de guójūn.",
+      "english": "The Grand Tutor assisted the young monarch."
+    },
+    {
+      "chinese": "她拜一位木匠为师傅(她拜一位木匠為師傅)。",
+      "pinyin": "Tā bài yí wèi mùjiàng wéi shīfu.",
+      "english": "She apprenticed herself to a carpenter as her master."
+    }
+  ]
+}

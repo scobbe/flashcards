@@ -1,0 +1,43 @@
+{
+  "simplified": "外滩",
+  "traditional": "外灘",
+  "pinyin": "wàitān",
+  "english": "the Bund",
+  "etymology": {
+    "type": "compound word",
+    "description": "外(outside) + 滩/灘(sandbank; shoal) = outer riverbank → the Bund.",
+    "interpretation": "Literally “outer sandbank,” originally the riverbank outside Shanghai’s old city wall. Now a proper noun for the famous waterfront along the Huangpu River.",
+    "simplification": "灘 → 滩 by simplifying the phonetic 難 to 难 under the water radical, reducing strokes while keeping the water semantic."
+  },
+  "parts": [
+    {
+      "char": "外",
+      "trad": "外",
+      "pinyin": "wài",
+      "english": "outside; external; foreign; in addition"
+    },
+    {
+      "char": "滩",
+      "trad": "灘",
+      "pinyin": "tān",
+      "english": "beach; shoal; sandbank; river shoal"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们晚上去外滩看夜景(我們晚上去外灘看夜景)。",
+      "pinyin": "Wǒmen wǎnshang qù Wàitān kàn yèjǐng.",
+      "english": "We’re going to the Bund at night to see the city lights."
+    },
+    {
+      "chinese": "外滩沿着黄浦江(外灘沿著黃浦江)，有很多历史建筑(有很多歷史建築)。",
+      "pinyin": "Wàitān yánzhe Huángpǔ Jiāng, yǒu hěn duō lìshǐ jiànzhù.",
+      "english": "The Bund runs along the Huangpu River and has many historic buildings."
+    },
+    {
+      "chinese": "在外滩可以乘坐游船(在外灘可以乘坐遊船)，俯瞰浦东的天际线(俯瞰浦東的天際線)。",
+      "pinyin": "Zài Wàitān kěyǐ chéngzuò yóuchuán, fǔkàn Pǔdōng de tiānjìxiàn.",
+      "english": "At the Bund you can take a cruise and look over the Pudong skyline."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "simplified": "攴",
+  "traditional": "攴",
+  "pinyin": "pū",
+  "english": "to tap/strike (with a stick)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Hand 又 holding a tool (later stylized to resemble phonetic 卜), depicting “to hit”.",
+    "interpretation": "Shows a right hand grasping an implement used to strike, capturing the action of tapping or hitting. Later stylization made the implement look like 卜, a graphic accident rather than a link to divination or to characters that only look similar.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand (as component)"
+    },
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "to divine"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "古籍中偶见攴(古籍中偶見攴)，表示用棍轻敲(表示用棍輕敲)。",
+      "pinyin": "Gǔjí zhōng ǒu jiàn pū, biǎoshì yòng gùn qīng qiāo.",
+      "english": "In old texts, one occasionally sees 攴, meaning to tap lightly with a stick."
+    },
+    {
+      "chinese": "这个偏旁叫攴字旁(這個偏旁叫攴字旁)，多与打、教等义有关(多與打、教等義有關)。",
+      "pinyin": "Zhège piānpáng jiào pū zìpáng, duō yǔ dǎ, jiào děng yì yǒuguān.",
+      "english": "This side component is called the ‘攴’ radical and often relates to meanings like hitting or teaching."
+    }
+  ]
+}

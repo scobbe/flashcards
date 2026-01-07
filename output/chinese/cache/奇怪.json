@@ -1,0 +1,43 @@
+{
+  "simplified": "奇怪",
+  "traditional": "奇怪",
+  "pinyin": "qíguài",
+  "english": "strange",
+  "etymology": {
+    "type": "compound word",
+    "description": "奇 + 怪 = strange/odd.",
+    "interpretation": "Combines the sense of unusual (奇) with odd or suspicious (怪) to describe something out of the ordinary or hard to explain. Can also mean to find something odd in certain structures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "奇",
+      "trad": "奇",
+      "pinyin": "qí",
+      "english": "strange; unusual; wonderful; rare"
+    },
+    {
+      "char": "怪",
+      "trad": "怪",
+      "pinyin": "guài",
+      "english": "strange; odd; to blame; rather"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这件事很奇怪(這件事很奇怪)。",
+      "pinyin": "Zhè jiàn shì hěn qíguài.",
+      "english": "This matter is very strange."
+    },
+    {
+      "chinese": "我觉得他今天的行为很奇怪(我覺得他今天的行為很奇怪)。",
+      "pinyin": "Wǒ juéde tā jīntiān de xíngwéi hěn qíguài.",
+      "english": "I think his behavior today is very strange."
+    },
+    {
+      "chinese": "奇怪的是(奇怪的是)，他居然没有来(他居然沒有來)。",
+      "pinyin": "Qíguài de shì, tā jūrán méiyǒu lái.",
+      "english": "What’s strange is that he didn’t show up."
+    }
+  ]
+}

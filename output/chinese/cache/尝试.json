@@ -1,0 +1,43 @@
+{
+  "simplified": "尝试",
+  "traditional": "嘗試",
+  "pinyin": "chángshì",
+  "english": "try; attempt",
+  "etymology": {
+    "type": "compound word",
+    "description": "嘗/尝 (taste; sample) + 試/试 (test; examine) = try; attempt",
+    "interpretation": "Combines the idea of tasting with testing, emphasizing an initial or exploratory effort to see if something works. Common for trying methods, tasks, or approaches before committing.",
+    "simplification": "Both characters were simplified to reduce stroke count and speed writing: 嘗→尝 by compressing interior components; 試→试 by changing 言 to 讠 and simplifying the right-side phonetic."
+  },
+  "parts": [
+    {
+      "char": "尝",
+      "trad": "嘗",
+      "pinyin": "cháng",
+      "english": "taste; try; experience; sample"
+    },
+    {
+      "char": "试",
+      "trad": "試",
+      "pinyin": "shì",
+      "english": "test; try; exam; experiment"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我想尝试这个方法(我想嘗試這個方法)。",
+      "pinyin": "Wǒ xiǎng chángshì zhège fāngfǎ.",
+      "english": "I want to try this method."
+    },
+    {
+      "chinese": "我们先尝试小规模测试，再决定下一步(我們先嘗試小規模測試，再決定下一步)。",
+      "pinyin": "Wǒmen xiān chángshì xiǎo guīmó cèshì, zài juédìng xià yī bù.",
+      "english": "We will first try a small-scale test, then decide the next step."
+    },
+    {
+      "chinese": "面对新的挑战，他愿意尝试不同的方法(面對新的挑戰，他願意嘗試不同的方法)。",
+      "pinyin": "Miànduì xīn de tiǎozhàn, tā yuànyì chángshì bùtóng de fāngfǎ.",
+      "english": "Facing new challenges, he is willing to try different approaches."
+    }
+  ]
+}

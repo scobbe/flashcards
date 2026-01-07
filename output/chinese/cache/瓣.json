@@ -1,0 +1,43 @@
+{
+  "simplified": "瓣",
+  "traditional": "瓣",
+  "pinyin": "bàn",
+  "english": "petal; segment; clove; half",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 辡 + semantic 瓜 (\"melon\")",
+    "interpretation": "瓜 indicates the semantic field of melons/fruits, evoking seeds or slices. 辡 provides the sound and also hints at the idea of distinguishing or dividing, aligning with the meaning of a segment or part. The sense likely originated with melon seeds and broadened to petals, cloves, and other segments.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辡",
+      "trad": "辡",
+      "pinyin": "biàn",
+      "english": "dispute; distinguish"
+    },
+    {
+      "char": "瓜",
+      "trad": "瓜",
+      "pinyin": "guā",
+      "english": "melon; gourd"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "把蒜掰成几瓣(把蒜掰成幾瓣)。",
+      "pinyin": "Bǎ suàn bāi chéng jǐ bàn.",
+      "english": "Break the garlic into a few cloves."
+    },
+    {
+      "chinese": "橙子剥成一瓣一瓣(橙子剝成一瓣一瓣)。",
+      "pinyin": "Chéngzi bō chéng yí bàn yí bàn.",
+      "english": "The orange is peeled into separate segments."
+    },
+    {
+      "chinese": "花开了(花開了)，玫瑰有很多花瓣(玫瑰有很多花瓣)。",
+      "pinyin": "Huā kāi le, méiguī yǒu hěn duō huābàn.",
+      "english": "The flowers have bloomed; a rose has many petals."
+    }
+  ]
+}

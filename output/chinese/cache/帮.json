@@ -1,0 +1,43 @@
+{
+  "simplified": "帮",
+  "traditional": "幫",
+  "pinyin": "bāng",
+  "english": "help; assist; aid; group/faction",
+  "etymology": {
+    "type": "simplified form (of a phono-semantic compound)",
+    "description": "Simplified from 幚 (帛 → 巾), a variant of 幫; 幫 is phono-semantic: semantic 帛 “silk” + phonetic 封 (variant phonetic 邦).",
+    "interpretation": "Original formation pointed to textiles (帛) with a phonetic element 封 to convey the sound, referring first to the upper part of a shoe (鞋幫). The later variant swapped the phonetic to 邦 and the simplified form replaced the more complex 帛 with 巾, preserving the idea of cloth while streamlining strokes.",
+    "simplification": "Replaced 帛 with simpler 巾 and standardized the variant using 邦 as phonetic; officially adopted in the 1956 Character Simplification Scheme."
+  },
+  "parts": [
+    {
+      "char": "邦",
+      "trad": "邦",
+      "pinyin": "bāng",
+      "english": "nation; state"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth; towel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你能帮我一下吗(你能幫我一下嗎)。",
+      "pinyin": "Nǐ néng bāng wǒ yíxià ma.",
+      "english": "Can you help me for a moment?"
+    },
+    {
+      "chinese": "谢谢你的帮助(謝謝你的幫助)。",
+      "pinyin": "Xièxie nǐ de bāngzhù.",
+      "english": "Thank you for your help."
+    },
+    {
+      "chinese": "他加入了一个帮派(他加入了一個幫派)。",
+      "pinyin": "Tā jiārù le yí gè bāngpài.",
+      "english": "He joined a gang/faction."
+    }
+  ]
+}

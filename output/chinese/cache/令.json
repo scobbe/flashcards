@@ -1,0 +1,43 @@
+{
+  "simplified": "令",
+  "traditional": "令",
+  "pinyin": "lìng",
+  "english": "command; order",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 亼 ‘open mouth’ + semantic: 卩 ‘kneeling person’.",
+    "interpretation": "Combines an open mouth issuing commands with a kneeling person receiving them, expressing the act of giving an order. Comparable to 兄, where a mouth on top also signals speaking or commanding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "to assemble; gather"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal; kneeling person"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "将军下令进攻(將軍下令進攻)。",
+      "pinyin": "Jiāngjūn xiàlìng jìngōng.",
+      "english": "The general gave the order to attack."
+    },
+    {
+      "chinese": "法院令他赔偿(法院令他賠償)。",
+      "pinyin": "Fǎyuàn lìng tā péicháng.",
+      "english": "The court ordered him to compensate."
+    },
+    {
+      "chinese": "她令大家安静(她令大家安靜)。",
+      "pinyin": "Tā lìng dàjiā ānjìng.",
+      "english": "She ordered everyone to be quiet."
+    }
+  ]
+}

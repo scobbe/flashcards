@@ -1,0 +1,43 @@
+{
+  "simplified": "钱包",
+  "traditional": "錢包",
+  "pinyin": "qiánbāo",
+  "english": "wallet",
+  "etymology": {
+    "type": "compound word",
+    "description": "钱/錢 (money) + 包 (bag) = wallet.",
+    "interpretation": "Combines the idea of money with a container, referring to a small bag or case for carrying cash, cards, or IDs. Common everyday noun for a wallet or purse.",
+    "simplification": "錢 was simplified to 钱 by reducing the metal radical 金 to 钅 and simplifying the phonetic 戔 to 戋; 包 was unchanged. Stroke count reduced and metal-radical characters standardized."
+  },
+  "parts": [
+    {
+      "char": "钱",
+      "trad": "錢",
+      "pinyin": "qián",
+      "english": "money; coin; currency; wealth"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "bag; wrap; include; parcel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我把现金放在钱包里(我把現金放在錢包裡)。",
+      "pinyin": "Wǒ bǎ xiànjīn fàng zài qiánbāo lǐ。",
+      "english": "I put the cash in my wallet."
+    },
+    {
+      "chinese": "她的钱包丢了(她的錢包丟了)。",
+      "pinyin": "Tā de qiánbāo diū le。",
+      "english": "Her wallet was lost."
+    },
+    {
+      "chinese": "这个钱包很薄(這個錢包很薄)，但能装很多卡(但能裝很多卡)。",
+      "pinyin": "Zhège qiánbāo hěn báo, dàn néng zhuāng hěn duō kǎ。",
+      "english": "This wallet is thin, but it can hold many cards."
+    }
+  ]
+}

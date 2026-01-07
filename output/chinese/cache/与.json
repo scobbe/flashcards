@@ -1,0 +1,43 @@
+{
+  "simplified": "与",
+  "traditional": "與",
+  "pinyin": "yǔ",
+  "english": "and; with",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 舁 (OC *la) + phonetic: 牙 (OC *ŋraː); both components are phonetic; closest to original form 𦥸.",
+    "interpretation": "Two phonetic elements, 舁 and 牙, were combined to signal pronunciation in Old Chinese, giving a reading around *la/*ŋra. There is little to no semantic contribution from either part; early shapes like 𦥸 reflect this phonetic fusion.",
+    "simplification": "Mainland simplification adopted the long-standing clerical/cursive variant 与 for 與 to reduce strokes and streamline the graph."
+  },
+  "parts": [
+    {
+      "char": "舁",
+      "trad": "舁",
+      "pinyin": "yú",
+      "english": "to lift; carry on the shoulders"
+    },
+    {
+      "char": "牙",
+      "trad": "牙",
+      "pinyin": "yá",
+      "english": "tooth; tusk"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我与他一起去(我與他一起去)。",
+      "pinyin": "Wǒ yǔ tā yīqǐ qù.",
+      "english": "I will go together with him."
+    },
+    {
+      "chinese": "她与老师讨论问题(她與老師討論問題)。",
+      "pinyin": "Tā yǔ lǎoshī tǎolùn wèntí.",
+      "english": "She discusses the issue with the teacher."
+    },
+    {
+      "chinese": "猫与狗都很可爱(貓與狗都很可愛)。",
+      "pinyin": "Māo yǔ gǒu dōu hěn kě'ài.",
+      "english": "Cats and dogs are both very cute."
+    }
+  ]
+}

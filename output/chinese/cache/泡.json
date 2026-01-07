@@ -1,0 +1,37 @@
+{
+  "simplified": "泡",
+  "traditional": "泡",
+  "pinyin": "pào",
+  "english": "bubble; foam; soak; steep",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 氵 (‘water’) + phonetic: 包 (OC *pruː)",
+    "interpretation": "Water on the left signals a meaning related to liquids. 包 provides the sound and hints at the idea of something enclosed, fitting the notion of bubbles or foam forming in water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap; package; bag"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "把茶叶泡五分钟(把茶葉泡五分鐘)。",
+      "pinyin": "Bǎ cháyè pào wǔ fēnzhōng.",
+      "english": "Steep the tea leaves for five minutes."
+    },
+    {
+      "chinese": "他在温泉里泡了一会儿(他在溫泉裡泡了一會兒)。",
+      "pinyin": "Tā zài wēnquán lǐ pào le yīhuìr.",
+      "english": "He soaked in the hot spring for a while."
+    },
+    {
+      "chinese": "孩子在吹泡泡(孩子在吹泡泡)。",
+      "pinyin": "Háizi zài chuī pàopao.",
+      "english": "The child is blowing bubbles."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "平",
+  "traditional": "平",
+  "pinyin": "Píng",
+  "english": "surname Ping",
+  "etymology": {
+    "type": "uncertain",
+    "description": "Uncertain; proposals include an ideogram of a level/flat surface or a pictograph of a leveling tool/board.",
+    "interpretation": "Scholars generally see it as emphasizing horizontality and evenness, aligning with core meanings like level and even. This sense later extended to calm/peace and is also used as a Chinese surname Píng.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "干",
+      "trad": "干",
+      "pinyin": "gān",
+      "english": "dry"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "平先生今天来访(平先生今天來訪)。",
+      "pinyin": "Píng xiānsheng jīntiān láifǎng.",
+      "english": "Mr. Ping visited today."
+    },
+    {
+      "chinese": "我认识一位姓平的老师(我認識一位姓平的老師)。",
+      "pinyin": "Wǒ rènshi yí wèi xìng Píng de lǎoshī.",
+      "english": "I know a teacher whose surname is Ping."
+    },
+    {
+      "chinese": "平女士来自北京(平女士來自北京)。",
+      "pinyin": "Píng nǚshì láizì Běijīng.",
+      "english": "Ms. Ping is from Beijing."
+    }
+  ]
+}

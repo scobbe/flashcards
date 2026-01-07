@@ -1,0 +1,38 @@
+{
+  "simplified": "姚滨",
+  "traditional": "姚濱",
+  "pinyin": "Yáo Bīn",
+  "english": "Yao Bin (name)",
+  "etymology": {
+    "type": "proper name (surname + given name)",
+    "description": "姚 (surname) + 滨/濱 (shore; waterfront) = personal name.",
+    "interpretation": "A full Chinese name: 姚 is the family name, while 滨/濱 as a given name evokes the image of a shore or waterfront. Often chosen for its elegant sound and auspicious water connotations.",
+    "simplification": "濱 → 滨 by replacing the phonetic 賓 with its simplified form 宾 while retaining the water radical 氵; reduces strokes and regularizes the phonetic series."
+  },
+  "parts": [
+    {
+      "char": "姚",
+      "trad": "姚",
+      "pinyin": "yáo",
+      "english": "surname; elegant; beautiful; handsome"
+    },
+    {
+      "char": "滨",
+      "trad": "濱",
+      "pinyin": "bīn",
+      "english": "shore; waterfront; riverside; coast"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "姚滨是著名的花样滑冰教练(姚濱是著名的花樣滑冰教練)。",
+      "pinyin": "Yáo Bīn shì zhùmíng de huāyàng huábīng jiàoliàn.",
+      "english": "Yao Bin is a famous figure skating coach."
+    },
+    {
+      "chinese": "今天的发布会上，姚滨分享了训练经验(今天的發佈會上，姚濱分享了訓練經驗)。",
+      "pinyin": "Jīntiān de fābùhuì shàng, Yáo Bīn fēnxiǎng le xùnliàn jīngyàn.",
+      "english": "At today's press conference, Yao Bin shared training experience."
+    }
+  ]
+}

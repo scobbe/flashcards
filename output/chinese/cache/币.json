@@ -1,0 +1,43 @@
+{
+  "simplified": "币",
+  "traditional": "幣",
+  "pinyin": "bì",
+  "english": "currency; money; coin; monetary unit",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 敝 + semantic 巾 (“towel/cloth”); simplified from 幣 (敝 → 丿)",
+    "interpretation": "Originally indicated cloth used as offerings or gifts, which extended to the idea of currency. 敝 supplied the sound while also evoking cloth, and 巾 provided the semantic field; the simplification reduced 敝 to a single stroke, weakening the phonetic cue.",
+    "simplification": "Reduced strokes by replacing the complex phonetic 敝 with the single stroke 丿, largely preserving only the cloth-derived semantic hint."
+  },
+  "parts": [
+    {
+      "char": "敝",
+      "trad": "敝",
+      "pinyin": "bì",
+      "english": "worn; tattered; to damage"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "towel; cloth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们需要稳定的货币来发展经济(我們需要穩定的貨幣來發展經濟)。",
+      "pinyin": "Wǒmen xūyào wěndìng de huòbì lái fāzhǎn jīngjì.",
+      "english": "We need stable currency to develop the economy."
+    },
+    {
+      "chinese": "他把外币换成人民币(他把外幣換成人民幣)。",
+      "pinyin": "Tā bǎ wàibì huàn chéng Rénmínbì.",
+      "english": "He exchanged foreign currency for renminbi."
+    },
+    {
+      "chinese": "旅行前准备一些小面额的纸币比较方便(旅行前準備一些小面額的紙幣比較方便)。",
+      "pinyin": "Lǚxíng qián zhǔnbèi yīxiē xiǎo miàn'é de zhǐbì bǐjiào fāngbiàn.",
+      "english": "It is more convenient to prepare some small-denomination banknotes before traveling."
+    }
+  ]
+}

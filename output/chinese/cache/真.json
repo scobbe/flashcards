@@ -1,0 +1,67 @@
+{
+  "simplified": "真",
+  "traditional": "真",
+  "pinyin": "zhēn",
+  "english": "true; real",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally phono-semantic: semantic 貝 (“cowry”) + phonetic 𠂈; later 丁 was added as a second phonetic. 𠂈 → 十 (modern) / 匕 (seal); bottom from 貝 + 丁 → 目 + 丌.",
+    "interpretation": "It began as a value-related graph with 貝 indicating preciousness and a blade-like 𠂈 providing the sound; 丁 later reinforced the phonetic side. Over time these parts were regularized into the modern shape with 十 over 目 and a base derived from older 貝/丁 forms, while the meaning shifted toward “genuine/true.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "贝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; valuables"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail; fourth heavenly stem"
+    },
+    {
+      "char": "丌",
+      "trad": "丌",
+      "pinyin": "jī",
+      "english": "table; support"
+    },
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon; dagger"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这是真的(這是真的)。",
+      "pinyin": "Zhè shì zhēn de.",
+      "english": "This is true."
+    },
+    {
+      "chinese": "他真喜欢你(他真喜歡你)。",
+      "pinyin": "Tā zhēn xǐhuan nǐ.",
+      "english": "He really likes you."
+    },
+    {
+      "chinese": "我们终于找到了真相(我們終於找到了真相)。",
+      "pinyin": "Wǒmen zhōngyú zhǎodào le zhēnxiàng.",
+      "english": "We finally found the truth."
+    }
+  ]
+}

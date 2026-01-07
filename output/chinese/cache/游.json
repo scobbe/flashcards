@@ -1,0 +1,37 @@
+{
+  "simplified": "游",
+  "traditional": "遊",
+  "pinyin": "yóu",
+  "english": "to travel; to roam; to wander; to swim",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "游: semantic 水 “water” + phonetic 斿; 遊: semantic 辵 “walk” + phonetic 斿.",
+    "interpretation": "Traditional highlights overland movement with 辵, while simplified uses the water radical to evoke motion in water. The phonetic 斿 supplies the yóu sound and also evokes a fluttering streamer, reinforcing the idea of roaming or moving about.",
+    "simplification": "Replaced 辵 with the water radical 氵 to reduce strokes and emphasize the ‘swim’ sense, while retaining the phonetic 斿; a semantic-substitution simplification."
+  },
+  "parts": [
+    {
+      "char": "斿",
+      "trad": "斿",
+      "pinyin": "yóu",
+      "english": "streamer; pennant"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我喜欢到处游玩(我喜歡到處遊玩)。",
+      "pinyin": "Wǒ xǐhuan dàochù yóuwán.",
+      "english": "I like to wander around."
+    },
+    {
+      "chinese": "他在河里游得很快(他在河裡游得很快)。",
+      "pinyin": "Tā zài hé lǐ yóu de hěn kuài.",
+      "english": "He swims quickly in the river."
+    },
+    {
+      "chinese": "周末我们去海边游泳(週末我們去海邊游泳)。",
+      "pinyin": "Zhōumò wǒmen qù hǎibiān yóuyǒng.",
+      "english": "On the weekend we go to the seaside to swim."
+    }
+  ]
+}

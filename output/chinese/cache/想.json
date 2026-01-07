@@ -1,0 +1,43 @@
+{
+  "simplified": "想",
+  "traditional": "想",
+  "pinyin": "xiǎng",
+  "english": "to think; to miss (someone); to want; to consider",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 相 (OC *slaŋ, *slaŋs) + semantic: 心 (“heart, mind”).",
+    "interpretation": "Combines the sound value of 相 with the meaning of 心 to point to mental activity like thinking and considering. 相 also evokes looking/visualizing, reinforcing the sense of forming images in the mind.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "相",
+      "trad": "相",
+      "pinyin": "xiāng",
+      "english": "mutual; to look at; appearance"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我在想明天怎么办(我在想明天怎麼辦)。",
+      "pinyin": "Wǒ zài xiǎng míngtiān zěnme bàn.",
+      "english": "I'm thinking about what to do tomorrow."
+    },
+    {
+      "chinese": "我很想你(我很想你)。",
+      "pinyin": "Wǒ hěn xiǎng nǐ.",
+      "english": "I miss you very much."
+    },
+    {
+      "chinese": "我想喝茶(我想喝茶)。",
+      "pinyin": "Wǒ xiǎng hē chá.",
+      "english": "I want to drink tea."
+    }
+  ]
+}

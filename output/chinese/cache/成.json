@@ -1,0 +1,43 @@
+{
+  "simplified": "成",
+  "traditional": "成",
+  "pinyin": "chéng",
+  "english": "to become; accomplish",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 戊 + phonetic: 丁 (OC *djeŋ; 丁 OC *rteːŋ, *teːŋ). Not 囗/口; original ‘city walls’ sense preserved in 城.",
+    "interpretation": "戊, depicting a weapon, contributes the protective/fortified semantic idea, while 丁 supplies the sound that evolved toward chéng. The original sense related to city walls later broadened to meanings like accomplish and become, with 城 retaining the older ‘walls/city’ meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戊",
+      "trad": "戊",
+      "pinyin": "wù",
+      "english": "5th heavenly stem; weapon/halberd"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "4th heavenly stem; adult male; nail"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "她努力多年，终于成了医生(她努力多年，終於成了醫生)。",
+      "pinyin": "Tā nǔlì duō nián, zhōngyú chéng le yīshēng.",
+      "english": "After years of hard work, she finally became a doctor."
+    },
+    {
+      "chinese": "这件事算是大功告成(這件事算是大功告成)。",
+      "pinyin": "Zhè jiàn shì suàn shì dàgōng gàochéng.",
+      "english": "This matter can be considered a great success."
+    },
+    {
+      "chinese": "他的想法成了现实(他的想法成了現實)。",
+      "pinyin": "Tā de xiǎngfǎ chéng le xiànshí.",
+      "english": "His idea became reality."
+    }
+  ]
+}

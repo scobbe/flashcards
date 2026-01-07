@@ -1,0 +1,29 @@
+{
+  "simplified": "万",
+  "traditional": "萬",
+  "pinyin": "wàn",
+  "english": "ten thousand; myriad",
+  "etymology": {
+    "type": "unknown",
+    "description": "Unknown origin; attested as a tribal name in oracle inscriptions and later used as a number. Traditional 萬: pictogram ‘scorpion’; later phonetically borrowed to mean ‘ten thousand’.",
+    "interpretation": "Meaning ‘ten thousand’ comes from a phonetic loan to the older scorpion pictograph 萬, rather than from its original pictorial meaning. The streamlined form 万 became the standard modern graph, reflecting an earlier simple variant that had already been used numerically.",
+    "simplification": "Adopted as the simplified form of 萬 by selecting the already-attested low-stroke variant 万 for ease and speed of writing; it also matched historical numeric usage."
+  },
+  "examples": [
+    {
+      "chinese": "我欠你一万块(我欠你一萬塊)。",
+      "pinyin": "Wǒ qiàn nǐ yī wàn kuài.",
+      "english": "I owe you ten thousand yuan."
+    },
+    {
+      "chinese": "这个项目的预算是两万五千(這個項目的預算是兩萬五千)。",
+      "pinyin": "Zhège xiàngmù de yùsuàn shì liǎng wàn wǔ qiān.",
+      "english": "The project’s budget is twenty-five thousand."
+    },
+    {
+      "chinese": "万一下雨，我们就改期(萬一下雨，我們就改期)。",
+      "pinyin": "Wànyī xià yǔ, wǒmen jiù gǎi qī.",
+      "english": "If by any chance it rains, we’ll reschedule."
+    }
+  ]
+}

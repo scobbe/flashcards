@@ -1,0 +1,43 @@
+{
+  "simplified": "台",
+  "traditional": "台",
+  "pinyin": "tái",
+  "english": "platform",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 口 ‘mouth’ + phonetic: 㠯 (variant of 以).",
+    "interpretation": "口 cues a place for speaking or an opening, while 㠯 supplied the ancient sound value. This fits contexts like a stage or dais used for addressing others, leading to the meaning ‘platform’.",
+    "simplification": "Simplified from 臺 to 台 by adopting the earlier, widely used variant for graphic simplicity and standardization."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "以",
+      "trad": "以",
+      "pinyin": "yǐ",
+      "english": "to use; by means of; with"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他走上台发表演讲(他走上臺發表演講)。",
+      "pinyin": "Tā zǒu shàng tái fābiǎo yǎnjiǎng.",
+      "english": "He went up on the platform to deliver a speech."
+    },
+    {
+      "chinese": "这个台很高(這個臺很高)。",
+      "pinyin": "Zhège tái hěn gāo.",
+      "english": "This platform is very high."
+    },
+    {
+      "chinese": "工人搭起了一个临时的台(工人搭起了一個臨時的臺)。",
+      "pinyin": "Gōngrén dā qǐle yí gè línshí de tái.",
+      "english": "The workers set up a temporary platform."
+    }
+  ]
+}

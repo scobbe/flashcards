@@ -1,0 +1,43 @@
+{
+  "simplified": "切",
+  "traditional": "切",
+  "pinyin": "qiè",
+  "english": "all (classical); appropriate/close; earnest/urgent; to cut",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 七 + semantic: 刀 “knife”",
+    "interpretation": "Built with 刀 supplying the cutting/edge sense and 七 providing the approximate sound. Core meaning centers on cutting, while later extensions like “close/appropriate” and “urgent” likely arise from the notion of cutting close or pressing sharply on the point.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "七",
+      "trad": "七",
+      "pinyin": "qī",
+      "english": "seven"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "一切准备就绪(一切準備就緒)。",
+      "pinyin": "Yīqiè zhǔnbèi jiùxù.",
+      "english": "Everything is ready."
+    },
+    {
+      "chinese": "局势紧张(局勢緊張)，需求迫切(需求迫切)。",
+      "pinyin": "Júshì jǐnzhāng, xūqiú pòqiè.",
+      "english": "The situation is tense, and the need is urgent."
+    },
+    {
+      "chinese": "你的发言很切题(你的發言很切題)。",
+      "pinyin": "Nǐ de fāyán hěn qiètí.",
+      "english": "Your remarks are very relevant to the topic."
+    }
+  ]
+}

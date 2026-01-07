@@ -1,0 +1,43 @@
+{
+  "simplified": "热",
+  "traditional": "熱",
+  "pinyin": "rè",
+  "english": "hot; heat; fever; ardent",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 灬 (\"fire\") + phonetic: 埶; simplified from 熱 (埶 → 执).",
+    "interpretation": "The fire component at the bottom signals heat, burning, and related thermal meanings, while 埶 originally supplied the pronunciation. In simplification, the complex phonetic 埶 was replaced by 执 for ease of writing, keeping the fire element to preserve meaning even if the new top part is not a close phonetic match in modern Mandarin.",
+    "simplification": "Stroke reduction: the complex phonetic 埶 was replaced by the simpler 执 while retaining the semantic fire component (as 灬)."
+  },
+  "parts": [
+    {
+      "char": "执",
+      "trad": "執",
+      "pinyin": "zhí",
+      "english": "to hold; to execute"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今天很热(今天很熱)。",
+      "pinyin": "Jīntiān hěn rè.",
+      "english": "It’s very hot today."
+    },
+    {
+      "chinese": "他对音乐充满热情(他對音樂充滿熱情)。",
+      "pinyin": "Tā duì yīnyuè chōngmǎn rèqíng.",
+      "english": "He is full of enthusiasm for music."
+    },
+    {
+      "chinese": "我发烧(我發燒)，浑身发热(渾身發熱)。",
+      "pinyin": "Wǒ fāshāo, húnshēn fārè.",
+      "english": "I have a fever; my whole body feels hot."
+    }
+  ]
+}

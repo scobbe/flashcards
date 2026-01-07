@@ -1,0 +1,43 @@
+{
+  "simplified": "发",
+  "traditional": "發",
+  "pinyin": "fā",
+  "english": "to send out; to emit; to issue; to develop",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally a pictogram of a bow shooting an arrow; later + hand 攴 forming 㢭; the hand evolved into the phonetic 癹, yielding a phono-semantic compound (semantic: 弓 ‘bow’ + phonetic: 癹).",
+    "interpretation": "Begins as a drawing of a bow launching an arrow, capturing the idea of sending forth. Over time a hand element was added and then simplified into the sound-bearing 癹, while 弓 kept the sense of projecting or launching, aligning with meanings like “to send out” and “to issue.”",
+    "simplification": "PRC 1956 scheme reduced 發/髮 to 发 by adopting an abbreviated form of the right-side component (癹 → 发) and dropping complex parts like 弓/髟, merging two traditional characters into one simpler graph."
+  },
+  "parts": [
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "to tap; to strike"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我给你发短信(我給你發短信)。",
+      "pinyin": "Wǒ gěi nǐ fā duǎnxìn.",
+      "english": "I’ll send you a text message."
+    },
+    {
+      "chinese": "星星在夜里发光(星星在夜裡發光)。",
+      "pinyin": "Xīngxing zài yèlǐ fāguāng.",
+      "english": "The stars shine at night."
+    },
+    {
+      "chinese": "公司正在快速发展(公司正在快速發展)。",
+      "pinyin": "Gōngsī zhèngzài kuàisù fāzhǎn.",
+      "english": "The company is developing rapidly."
+    }
+  ]
+}

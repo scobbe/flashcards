@@ -1,0 +1,49 @@
+{
+  "simplified": "秦",
+  "traditional": "秦",
+  "pinyin": "qín",
+  "english": "Qin (state/dynasty); surname; Shaanxi (abbrev); ancient feudal state",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "ideogrammic: 午 (pestle) + 廾 (two hands) + 禾禾 (grain); later 午+廾 fused as 𡗗.",
+    "interpretation": "Shows two hands using a pestle to pound grain, a visual of processing/husking grain. The graph later became the name of the Qin polity and dynasty; in modern form the hand-and-pestle elements have merged into 𡗗 above 禾.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "noon; (originally) pestle"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands; to hold up"
+    },
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain; cereal crop"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "秦朝统一六国(秦朝統一六國)。",
+      "pinyin": "Qíncháo tǒngyī liù guó.",
+      "english": "The Qin dynasty unified the six states."
+    },
+    {
+      "chinese": "他姓秦(他姓秦)。",
+      "pinyin": "Tā xìng Qín.",
+      "english": "His surname is Qin."
+    },
+    {
+      "chinese": "我很喜欢秦腔(我很喜歡秦腔)。",
+      "pinyin": "Wǒ hěn xǐhuan Qínqiāng.",
+      "english": "I really like Qin opera (from Shaanxi)."
+    }
+  ]
+}
