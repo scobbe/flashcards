@@ -1,0 +1,43 @@
+{
+  "simplified": "壶",
+  "traditional": "壺",
+  "pinyin": "hú",
+  "english": "pot; jar",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "ideogrammic compound: lid 冖 + mouth 口 + stand 士 (vessel on a stand).",
+    "interpretation": "Builds up the image of a lidded container: the cover and mouth of the pot are shown, resting on a base. The combined elements point to the function and shape of a pot or jar rather than supplying a phonetic cue.",
+    "simplification": "The traditional 壺 was streamlined to 壶 by pruning interior strokes and compressing the vessel depiction into a simpler form while keeping the overall silhouette, reducing stroke count for easier writing."
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar; gentleman; soldier"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我把茶倒进壶(我把茶倒進壺)。",
+      "pinyin": "Wǒ bǎ chá dào jìn hú.",
+      "english": "I pour the tea into the pot."
+    },
+    {
+      "chinese": "这个壶很古老(這個壺很古老)。",
+      "pinyin": "Zhège hú hěn gǔlǎo.",
+      "english": "This pot is very old."
+    },
+    {
+      "chinese": "他买了一个紫砂壶(他買了一個紫砂壺)。",
+      "pinyin": "Tā mǎi le yí gè zǐshā hú.",
+      "english": "He bought a Yixing clay teapot."
+    }
+  ]
+}

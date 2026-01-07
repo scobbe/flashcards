@@ -1,0 +1,49 @@
+{
+  "simplified": "影",
+  "traditional": "影",
+  "pinyin": "yǐng",
+  "english": "shadow; image; movie; reflection",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 景 (OC *kraŋʔ) + semantic: 彡; original meaning: “shadow”.",
+    "interpretation": "Built from the phonetic 景 and the semantic 彡, it denotes a visual trace cast by light. 景 contributes both the sound and an association with images/scenes, while 彡 highlights a patterned visual effect, reinforcing the sense of a shadow or reflection.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "景",
+      "trad": "景",
+      "pinyin": "jǐng",
+      "english": "scenery; brightness"
+    },
+    {
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": "capital (city)"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "墙上有我的影子(牆上有我的影子)。",
+      "pinyin": "Qiáng shàng yǒu wǒ de yǐngzi.",
+      "english": "My shadow is on the wall."
+    },
+    {
+      "chinese": "我喜欢看电影(我喜歡看電影)。",
+      "pinyin": "Wǒ xǐhuan kàn diànyǐng.",
+      "english": "I like to watch movies."
+    },
+    {
+      "chinese": "湖面映出雪山的倒影(湖面映出雪山的倒影)。",
+      "pinyin": "Húmiàn yìng chū xuěshān de dàoyǐng.",
+      "english": "The lake surface reflects the snow mountains’ inverted image."
+    }
+  ]
+}

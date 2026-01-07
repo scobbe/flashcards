@@ -1,0 +1,43 @@
+{
+  "simplified": "可不",
+  "traditional": "可不",
+  "pinyin": "kěbù",
+  "english": "exactly; right",
+  "etymology": {
+    "type": "compound word",
+    "description": "可(kě, can/indeed) + 不(bù, not) = rhetorical ‘how could it not’ → emphatic agreement ‘exactly/right’.",
+    "interpretation": "Colloquial northern Mandarin affirmation used to strongly echo agreement, functioning like “exactly/right” or “isn’t that so.” Originates from a rhetorical construction where 可 intensifies the negation to imply certainty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can; may; approve; indeed"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no; never; negative prefix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "你说得对(你說得對)，可不(可不)！",
+      "pinyin": "Nǐ shuō de duì, kě bù!",
+      "english": "You’re right—exactly!"
+    },
+    {
+      "chinese": "今天天儿真冷(今天天兒真冷)，可不(可不)！",
+      "pinyin": "Jīntiān tiānr zhēn lěng, kě bù!",
+      "english": "It’s really cold today—sure is!"
+    },
+    {
+      "chinese": "这么做更省事(這麼做更省事)，可不(可不)。",
+      "pinyin": "Zhème zuò gèng shěngshì, kě bù.",
+      "english": "Doing it this way is even more convenient—exactly."
+    }
+  ]
+}

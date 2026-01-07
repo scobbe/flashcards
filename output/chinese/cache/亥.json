@@ -1,0 +1,29 @@
+{
+  "simplified": "亥",
+  "traditional": "亥",
+  "pinyin": "hài",
+  "english": "twelfth Earthly Branch; pig",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram; depiction uncertain—possibly plant roots underground (cf. 荄) or an animal akin to 豕.",
+    "interpretation": "Early scribes likely drew a compact, enclosed form that could suggest either spreading roots beneath the soil or the outline of a squat animal. Its graphic form was later conventionalized and assigned to the twelfth Earthly Branch, culturally linked with the pig in the zodiac.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "十二地支中(十二地支中)，亥代表猪(亥代表豬)。",
+      "pinyin": "Shí'èr dìzhī zhōng, hài dàibiǎo zhū.",
+      "english": "In the twelve Earthly Branches, Hài represents the pig."
+    },
+    {
+      "chinese": "古人把晚上九点到十一点(古人把晚上九點到十一點)称为亥时(稱為亥時)。",
+      "pinyin": "Gǔrén bǎ wǎnshang jiǔ diǎn dào shíyī diǎn chēngwéi hàishí.",
+      "english": "Ancients called 9–11 p.m. Hài hour."
+    },
+    {
+      "chinese": "他出生在己亥年(他出生在己亥年)，性格温和(性格溫和)。",
+      "pinyin": "Tā chūshēng zài jǐhàinián, xìnggé wēnhé.",
+      "english": "He was born in the jǐ-hài year and has a gentle temperament."
+    }
+  ]
+}

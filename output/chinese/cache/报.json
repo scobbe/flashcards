@@ -1,0 +1,43 @@
+{
+  "simplified": "报",
+  "traditional": "報",
+  "pinyin": "bào",
+  "english": "report; newspaper; announce; repay",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "㚔 “handcuffs” + 𠬝 “to subdue” — to convict; to punish; to declare guilty.",
+    "interpretation": "Imagery of shackles combined with subduing evokes judging and imposing a verdict, which naturally extends to publicly declaring information. From the notion of assigning due consequences comes the sense of repaying or returning in kind.",
+    "simplification": "Simplified from 報 by replacing 幸 with 扌 (“hand”), reducing strokes and regularizing the verb/action radical; officially adopted in 1956."
+  },
+  "parts": [
+    {
+      "char": "幸",
+      "trad": "幸",
+      "pinyin": "xìng",
+      "english": "luck; good fortune"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; also"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我每天看报(我每天看報)。",
+      "pinyin": "Wǒ měitiān kàn bào.",
+      "english": "I read the newspaper every day."
+    },
+    {
+      "chinese": "他向领导报告了最新情况(他向領導報告了最新情況)。",
+      "pinyin": "Tā xiàng lǐngdǎo bàogào le zuìxīn qíngkuàng.",
+      "english": "He reported the latest situation to the leader."
+    },
+    {
+      "chinese": "以善报善，以恶报恶(以善報善，以惡報惡)。",
+      "pinyin": "Yǐ shàn bàoshàn, yǐ è bào’è.",
+      "english": "Repay good with good and evil with evil."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "爿",
+  "traditional": "爿",
+  "pinyin": "qiáng",
+  "english": "bed; small table",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a bed; original form of 牀; contracted in 臧.",
+    "interpretation": "Depicts a side view of a bed or wooden frame. Later served as the left-hand element in words for bed (牀/床) and survives in reduced form within 臧.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "床字左边是爿(床字左邊是爿)。",
+      "pinyin": "Chuáng zì zuǒbiān shì qiáng.",
+      "english": "On the left side of the character 床 is 爿."
+    },
+    {
+      "chinese": "古文字中，爿象床的形状(古文字中，爿象床的形狀)。",
+      "pinyin": "Gǔ wénzì zhōng, qiáng xiàng chuáng de xíngzhuàng.",
+      "english": "In ancient scripts, 爿 resembles the shape of a bed."
+    },
+    {
+      "chinese": "臧字里有个简化的爿(臧字裡有個簡化的爿)。",
+      "pinyin": "Zāng zì lǐ yǒu gè jiǎnhuà de qiáng.",
+      "english": "Inside the character 臧 there is a contracted form of 爿."
+    }
+  ]
+}

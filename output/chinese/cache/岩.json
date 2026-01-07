@@ -1,0 +1,43 @@
+{
+  "simplified": "岩",
+  "traditional": "岩",
+  "pinyin": "yán",
+  "english": "rock; cliff; crag; rocky",
+  "etymology": {
+    "type": "Ideogrammic compound (會意/会意)",
+    "description": "ideogrammic: 山 ‘hill’ + 石 ‘rock’; originally as 巖: semantic 山 + phonetic 嚴.",
+    "interpretation": "Combines a mountain and a stone to convey a rocky mountain face or crag. Earlier phono-semantic form 巖 used 嚴 for sound under 山, but the streamlined clerical form 岩 later became standard.",
+    "simplification": "PRC simplification adopted the clerical variant 岩 in place of 巖, dropping the phonetic 嚴 and retaining the semantic 山 + 石 to reduce strokes and regularize the form."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone; rock"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这块岩石很坚硬(這塊岩石很堅硬)。",
+      "pinyin": "Zhè kuài yánshí hěn jiānyìng.",
+      "english": "This rock is very hard."
+    },
+    {
+      "chinese": "岩壁上长满了苔藓(岩壁上長滿了苔蘚)。",
+      "pinyin": "Yánbì shàng zhǎng mǎnle táixiǎn.",
+      "english": "The rock face is covered with moss."
+    },
+    {
+      "chinese": "登山者沿着岩脊前进(登山者沿著岩脊前進)。",
+      "pinyin": "Dēngshānzhě yánzhe yánjí qiánjìn.",
+      "english": "The climbers advanced along the rocky ridge."
+    }
+  ]
+}

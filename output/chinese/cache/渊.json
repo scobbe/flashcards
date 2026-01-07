@@ -1,0 +1,24 @@
+{
+  "simplified": "渊",
+  "traditional": "淵",
+  "pinyin": "yuān",
+  "english": "abyss",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: basin with water; later added vertical ‘riverbank’ strokes and the water component 氵.",
+    "interpretation": "Depicts a deep, enclosed pool of water, evoking a sunken basin. Later additions emphasize the banks and clarify the aquatic meaning, reinforcing the sense of depth and an abyss.",
+    "simplification": "Traditional 淵 was streamlined by removing/merging intricate interior strokes into a simpler right-side form while retaining the water radical, reducing stroke count for easier writing."
+  },
+  "examples": [
+    {
+      "chinese": "他站在深渊边缘(他站在深淵邊緣)。",
+      "pinyin": "Tā zhàn zài shēnyuān biānyuán.",
+      "english": "He stood at the edge of the abyss."
+    },
+    {
+      "chinese": "这个问题牵涉很深，像一座思想的深渊(這個問題牽涉很深，像一座思想的深淵)。",
+      "pinyin": "Zhège wèntí qiānshè hěn shēn, xiàng yī zuò sīxiǎng de shēnyuān.",
+      "english": "This problem runs very deep, like an abyss of thought."
+    }
+  ]
+}

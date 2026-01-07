@@ -1,0 +1,43 @@
+{
+  "simplified": "盔",
+  "traditional": "盔",
+  "pinyin": "kuī",
+  "english": "helmet; headgear; helm; bowl-shaped cover",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 皿 ‘dish, vessel’ + phonetic 灰 (huī).",
+    "interpretation": "灰 supplies the sound (historically shifting to kuī), while 皿 evokes a container or cover. The meaning developed toward a bowl-like cover and, by extension, a protective head covering or helmet.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "灰",
+      "trad": "灰",
+      "pinyin": "huī",
+      "english": "ash; gray"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他把头盔戴好(他把頭盔戴好)。",
+      "pinyin": "Tā bǎ tóukuī dài hǎo.",
+      "english": "He put his helmet on properly."
+    },
+    {
+      "chinese": "工地要求人人佩戴安全头盔(工地要求人人佩戴安全頭盔)。",
+      "pinyin": "Gōngdì yāoqiú rénrén pèidài ānquán tóukuī.",
+      "english": "The construction site requires everyone to wear a safety helmet."
+    },
+    {
+      "chinese": "这顶头盔很轻却很结实(這頂頭盔很輕卻很結實)。",
+      "pinyin": "Zhè dǐng tóukuī hěn qīng què hěn jiéshi.",
+      "english": "This helmet is light yet sturdy."
+    }
+  ]
+}

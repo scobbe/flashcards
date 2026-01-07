@@ -1,0 +1,43 @@
+{
+  "simplified": "鲁",
+  "traditional": "魯",
+  "pinyin": "lǔ",
+  "english": "crude; blunt; State of Lu (ancient); surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 魚 ‘fish’ + phonetic: 鹵.",
+    "interpretation": "Combines the fish component to signal the semantic category with the phonetic 卤/鹵 (lǔ) to indicate pronunciation. In later usage it names the State of Lu and appears in words meaning “crude; blunt,” with the phonetic element driving the reading.",
+    "simplification": "Simplified by replacing 魚 with its simplified form 鱼, reducing total strokes."
+  },
+  "parts": [
+    {
+      "char": "鱼",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish"
+    },
+    {
+      "char": "卤",
+      "trad": "鹵",
+      "pinyin": "lǔ",
+      "english": "brine; salt"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他很粗鲁(他很粗魯)。",
+      "pinyin": "Tā hěn cūlǔ.",
+      "english": "He is very rude."
+    },
+    {
+      "chinese": "孔子是春秋时鲁国的人(孔子是春秋時魯國的人)。",
+      "pinyin": "Kǒngzǐ shì Chūnqiū shí Lǔguó de rén.",
+      "english": "Confucius was from the State of Lu in the Spring and Autumn period."
+    },
+    {
+      "chinese": "我们的同学姓鲁(我們的同學姓魯)。",
+      "pinyin": "Wǒmen de tóngxué xìng Lǔ.",
+      "english": "Our classmate’s surname is Lu."
+    }
+  ]
+}

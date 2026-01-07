@@ -1,0 +1,43 @@
+{
+  "simplified": "陆",
+  "traditional": "陸",
+  "pinyin": "lù",
+  "english": "land; continent; dry land; to land",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 阝 + phonetic: 坴",
+    "interpretation": "Left 阝 is the place/terrain radical, cueing meanings related to land or settlements. Right-side 坴 supplied the sound lù and evokes raised earth; in simplification it was replaced by 击 for ease while the semantic cue on the left was retained.",
+    "simplification": "Simplified from 陸 by replacing the phonetic 坴 with the simpler, high-frequency 击 (坴 → 击) to reduce strokes while keeping the left semantic 阝."
+  },
+  "parts": [
+    {
+      "char": "击",
+      "trad": "擊",
+      "pinyin": "jī",
+      "english": "to hit; strike"
+    },
+    {
+      "char": "坴",
+      "trad": "坴",
+      "pinyin": "lù",
+      "english": "raised earth; mound"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "船靠岸后，乘客踏上陆地(船靠岸後，乘客踏上陸地)。",
+      "pinyin": "Chuán kào àn hòu, chéngkè tà shàng lùdì.",
+      "english": "After the ship docked, passengers stepped onto land."
+    },
+    {
+      "chinese": "飞机遇到大雾，改在附近机场着陆(飛機遇到大霧，改在附近機場著陸)。",
+      "pinyin": "Fēijī yùdào dàwù, gǎi zài fùjìn jīchǎng zhuólù.",
+      "english": "The plane encountered heavy fog and diverted to land at a nearby airport."
+    },
+    {
+      "chinese": "非洲是世界上第二大的大陆(非洲是世界上第二大的大陸)。",
+      "pinyin": "Fēizhōu shì shìjiè shàng dì-èr dà de dàlù.",
+      "english": "Africa is the second-largest continent in the world."
+    }
+  ]
+}

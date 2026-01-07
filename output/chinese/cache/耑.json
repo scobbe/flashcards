@@ -1,0 +1,29 @@
+{
+  "simplified": "耑",
+  "traditional": "耑",
+  "pinyin": "duān",
+  "english": "proper; focused",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: leaves and branches above with roots below; alternatively a person’s hair above and feet below, indicating extremities.",
+    "interpretation": "Imagery of the top and bottom ends conveys the notion of extremities, which extended metaphorically to ideas of being proper, upright, and focused. It also served as a phonetic element in later formations like 端 (duān).",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他做事很耑(他做事很耑)。",
+      "pinyin": "Tā zuòshì hěn duān.",
+      "english": "He is very focused in his work."
+    },
+    {
+      "chinese": "她举止很耑(她舉止很耑)。",
+      "pinyin": "Tā jǔzhǐ hěn duān.",
+      "english": "Her manner is quite proper."
+    },
+    {
+      "chinese": "老师希望我们态度耑，认真学习(老師希望我們態度耑，認真學習)。",
+      "pinyin": "Lǎoshī xīwàng wǒmen tàidù duān, rènzhēn xuéxí.",
+      "english": "The teacher hopes we keep a proper attitude and study diligently."
+    }
+  ]
+}

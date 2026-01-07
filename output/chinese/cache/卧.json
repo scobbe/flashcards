@@ -1,0 +1,43 @@
+{
+  "simplified": "卧",
+  "traditional": "臥",
+  "pinyin": "wò",
+  "english": "to lie down",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "Ideogrammic compound: 臣 (“eye pointing down”) + 人 (“person”).",
+    "interpretation": "Combines a downward-looking eye with a person to picture someone in a reclining posture. The imagery evokes closed or lowered eyes over a person at rest, hence the sense of lying down.",
+    "simplification": "Top component 臣 was streamlined in the simplified form 卧 to reduce strokes while preserving the overall posture-with-person idea; 人 below was retained."
+  },
+  "parts": [
+    {
+      "char": "臣",
+      "trad": "臣",
+      "pinyin": "chén",
+      "english": "minister; subject"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他因病卧床(他因病臥床)。",
+      "pinyin": "Tā yīn bìng wò chuáng.",
+      "english": "He is bedridden due to illness."
+    },
+    {
+      "chinese": "请你卧倒(請你臥倒)，医生要检查(醫生要檢查)。",
+      "pinyin": "Qǐng nǐ wòdǎo, yīshēng yào jiǎnchá.",
+      "english": "Please lie down; the doctor needs to examine you."
+    },
+    {
+      "chinese": "猫喜欢侧卧在阳光下(貓喜歡側臥在陽光下)。",
+      "pinyin": "Māo xǐhuān cèwò zài yángguāng xià.",
+      "english": "The cat likes to lie on its side in the sun."
+    }
+  ]
+}

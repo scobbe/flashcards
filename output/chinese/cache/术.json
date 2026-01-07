@@ -1,0 +1,43 @@
+{
+  "simplified": "术",
+  "traditional": "術",
+  "pinyin": "shù",
+  "english": "art; technique; method; skill",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 行 (“street, path”) + phonetic: 朮",
+    "interpretation": "Combines the sense of a path or way (行) with the sound value carried by 朮, yielding the idea of methods and techniques. In the simplified form 术, the phonetic element remains while the path component is omitted, but the notion of a ‘way/technique’ is retained.",
+    "simplification": "Simplified by dropping the semantic 行 from 術 and reducing 朮 to 术, preserving the phonetic element; 术 also serves as the simplified form of 朮."
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "to go; row"
+    },
+    {
+      "char": "朮",
+      "trad": "朮",
+      "pinyin": "zhú",
+      "english": "Atractylodes (herb); millet"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他精通多种技术(他精通多種技術)。",
+      "pinyin": "Tā jīngtōng duō zhǒng jìshù.",
+      "english": "He is proficient in many techniques."
+    },
+    {
+      "chinese": "她把艺术当成一门人生的修行(她把藝術當成一門人生的修行)。",
+      "pinyin": "Tā bǎ yìshù dàngchéng yī mén rénshēng de xiūxíng.",
+      "english": "She treats art as a lifelong practice."
+    },
+    {
+      "chinese": "这次手术很成功(這次手術很成功)。",
+      "pinyin": "Zhè cì shǒushù hěn chénggōng.",
+      "english": "The surgery was very successful."
+    }
+  ]
+}

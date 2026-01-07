@@ -1,0 +1,49 @@
+{
+  "simplified": "执",
+  "traditional": "執",
+  "pinyin": "zhí",
+  "english": "to hold; to execute",
+  "etymology": {
+    "type": "ideogrammic compound; also phono-semantic compound",
+    "description": "Ideogrammic: 㚔 (“criminal/handcuffs”) + 丮 (“hand”); also phono-semantic (OC *tjib): phonetic 㚔 + semantic 丮. In the present form, 㚔 → 幸 and 丮 → 丸.",
+    "interpretation": "Combines the notion of a hand restraining a criminal, yielding senses like “to grasp, seize,” and by extension “to carry out/execute.” Later substitutions (幸 and 丸) streamlined the graph while preserving the idea of a hand acting upon something.",
+    "simplification": "Mainland simplification reduced 執 by using the hand radical 扌 and simplifying the right-side complex (幸 + 丸) to a compact form with 丸, cutting strokes while keeping the ‘hand + object/action’ cue."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "丸",
+      "trad": "丸",
+      "pinyin": "wán",
+      "english": "pill; small round object"
+    },
+    {
+      "char": "幸",
+      "trad": "幸",
+      "pinyin": "xìng",
+      "english": "good fortune; lucky"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他执笔写字(他執筆寫字)。",
+      "pinyin": "tā zhí bǐ xiě zì.",
+      "english": "He holds a pen to write."
+    },
+    {
+      "chinese": "警方执行任务(警方執行任務)。",
+      "pinyin": "jǐngfāng zhíxíng rènwù.",
+      "english": "The police carry out a mission."
+    },
+    {
+      "chinese": "法院严格执行法律(法院嚴格執行法律)。",
+      "pinyin": "fǎyuàn yángé zhíxíng fǎlǜ.",
+      "english": "The court strictly enforces the law."
+    }
+  ]
+}

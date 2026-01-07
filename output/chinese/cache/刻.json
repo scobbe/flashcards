@@ -1,0 +1,43 @@
+{
+  "simplified": "刻",
+  "traditional": "刻",
+  "pinyin": "kè",
+  "english": "carve; engrave; quarter-hour; severe/harsh",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 亥 (OC *ɡɯːʔ) + semantic: 刂; OC of 刻 *kʰɯːɡ.",
+    "interpretation": "Knife component 刂 signals actions involving cutting, hence senses like carving or engraving. 亥 contributes the sound value, while meanings broadened metaphorically to time ‘cut’ into a quarter-hour and to harshness that feels “cutting.”",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亥",
+      "trad": "亥",
+      "pinyin": "hài",
+      "english": "twelfth Earthly Branch; pig"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife; blade"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他在木板上刻字(他在木板上刻字)。",
+      "pinyin": "Tā zài mùbǎn shàng kè zì.",
+      "english": "He carved characters on the wooden board."
+    },
+    {
+      "chinese": "现在七点一刻(現在七點一刻)。",
+      "pinyin": "Xiànzài qī diǎn yí kè.",
+      "english": "It’s seven fifteen now."
+    },
+    {
+      "chinese": "他的要求太苛刻(他的要求太苛刻)。",
+      "pinyin": "Tā de yāoqiú tài kēkè.",
+      "english": "His demands are too harsh."
+    }
+  ]
+}

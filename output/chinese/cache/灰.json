@@ -1,0 +1,43 @@
+{
+  "simplified": "灰",
+  "traditional": "灰",
+  "pinyin": "huī",
+  "english": "ash; gray",
+  "etymology": {
+    "type": "Ideogrammic compound (會意)",
+    "description": "又 'hand' + 火 'fire' - fire that can be touched with the hand (ash); 又 modified to 𠂇.",
+    "interpretation": "Combines a hand with fire to evoke embers cool enough to be handled, i.e., ash. The upper strokes reflect a variant of 又, as also seen in 友 and 右.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again; right hand"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "火烧过后只剩下灰。(火燒過後只剩下灰。)",
+      "pinyin": "Huǒ shāo guò hòu zhǐ shèng xià huī.",
+      "english": "After the fire, only ash is left."
+    },
+    {
+      "chinese": "他一次失败就灰心了。(他一次失敗就灰心了。)",
+      "pinyin": "Tā yī cì shībài jiù huīxīn le.",
+      "english": "He became discouraged after a single failure."
+    },
+    {
+      "chinese": "请把炉子的灰倒掉，然后清理周围。(請把爐子的灰倒掉，然後清理周圍。)",
+      "pinyin": "Qǐng bǎ lúzi de huī dào diào, ránhòu qīnglǐ zhōuwéi.",
+      "english": "Please dump the stove’s ash and then clean around it."
+    }
+  ]
+}

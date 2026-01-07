@@ -1,0 +1,61 @@
+{
+  "simplified": "夏",
+  "traditional": "夏",
+  "pinyin": "xià",
+  "english": "summer; Xia (dynasty); great (literary)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日 “sun” + 頁 “head; man” — man under the scorching sun; later variants often add 止/夊 “foot” and 𦥑 “two hands.”",
+    "interpretation": "Depicts a person beneath a blazing sun, evoking the heat associated with summer. Extra “feet” and “hands” in early forms emphasize a human figure moving or standing under the sun.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "页",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head; page"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop; foot (as component)"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "go slowly"
+    },
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "夏天很热(夏天很熱)。",
+      "pinyin": "Xiàtiān hěn rè.",
+      "english": "Summer is very hot."
+    },
+    {
+      "chinese": "夏朝是中国的第一个王朝(夏朝是中國的第一個王朝)。",
+      "pinyin": "Xiàcháo shì Zhōngguó de dì yī gè wángcháo.",
+      "english": "The Xia dynasty was China’s first dynasty."
+    },
+    {
+      "chinese": "夏至这天白昼最长(夏至這天白晝最長)。",
+      "pinyin": "Xiàzhì zhè tiān báizhòu zuì cháng.",
+      "english": "On the summer solstice, the daylight is the longest."
+    }
+  ]
+}

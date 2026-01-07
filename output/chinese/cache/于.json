@@ -1,0 +1,29 @@
+{
+  "simplified": "于",
+  "traditional": "于",
+  "pinyin": "yú",
+  "english": "in; at; from",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形); two possible objects of representation have been proposed; unrelated to the bottom component of 得.",
+    "interpretation": "Depicts some concrete object in ancient script, but scholars differ on exactly what it was. Its common prepositional use likely developed via later borrowing or extension, so the meaning now is grammatical rather than tied to the original picture.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "会议于明天举行(會議於明天舉行)。",
+      "pinyin": "Huìyì yú míngtiān jǔxíng.",
+      "english": "The meeting will be held tomorrow."
+    },
+    {
+      "chinese": "他毕业于北京大学(他畢業於北京大學)。",
+      "pinyin": "Tā bìyè yú Běijīng Dàxué.",
+      "english": "He graduated from Peking University."
+    },
+    {
+      "chinese": "成败在于细节(成敗在於細節)。",
+      "pinyin": "Chéngbài zài yú xìjié.",
+      "english": "Success or failure lies in the details."
+    }
+  ]
+}

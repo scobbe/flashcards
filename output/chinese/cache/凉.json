@@ -1,0 +1,37 @@
+{
+  "simplified": "凉",
+  "traditional": "涼",
+  "pinyin": "liáng",
+  "english": "cool; cold; to cool; discouraged",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 氵 (“water”) + phonetic: 京",
+    "interpretation": "Combines a water/ice semantic with the phonetic 京, so the pronunciation follows 京 while the meaning points to coolness, coldness, or fluids. In modern simplified form, the semantic side appears as 冫 “ice,” reinforcing the ‘cool/cold’ sense without changing pronunciation.",
+    "simplification": "In simplified 凉, the water radical 氵 was replaced by the ice radical 冫 to reduce strokes and better match the ‘cold’ meaning, while retaining 京 as the phonetic."
+  },
+  "parts": [
+    {
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": "capital; Beijing; high"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "天气渐凉了(天氣漸涼了)。",
+      "pinyin": "Tiānqì jiàn liáng le.",
+      "english": "The weather is gradually turning cool."
+    },
+    {
+      "chinese": "把汤放一会儿，让它凉一凉(把湯放一會兒，讓它涼一涼)。",
+      "pinyin": "Bǎ tāng fàng yīhuìr, ràng tā liáng yì liáng.",
+      "english": "Let the soup sit for a while to cool down."
+    },
+    {
+      "chinese": "听完消息，他心里一凉(聽完消息，他心裡一涼)。",
+      "pinyin": "Tīng wán xiāoxi, tā xīnli yì liáng.",
+      "english": "After hearing the news, he felt discouraged."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "坴",
+  "traditional": "坴",
+  "pinyin": "lù",
+  "english": "raised earth; mound",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic: 圥 (OC *ruɡ) + semantic: 土 ‘earth; soil’",
+    "interpretation": "土 contributes the meaning related to earth or soil, pointing to an earthen rise. 圥 provides the sound value approximating lù, while the overall graph refers to a raised patch of earth or mound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "村外有一座坴(村外有一座坴)，春天长满青草(春天長滿青草)。",
+      "pinyin": "Cūn wài yǒu yī zuò lù, chūntiān zhǎngmǎn qīngcǎo.",
+      "english": "Outside the village there is a mound, and in spring it is covered with green grass."
+    },
+    {
+      "chinese": "他们在坴上祭祖(他們在坴上祭祖)，祈求丰收(祈求豐收)。",
+      "pinyin": "Tāmen zài lù shàng jìzǔ, qíqiú fēngshōu.",
+      "english": "They hold ancestral rites on the mound, praying for a good harvest."
+    }
+  ]
+}

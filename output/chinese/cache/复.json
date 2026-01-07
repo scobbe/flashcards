@@ -1,0 +1,37 @@
+{
+  "simplified": "复",
+  "traditional": "復",
+  "pinyin": "fù",
+  "english": "return; again; restore; repeat",
+  "etymology": {
+    "type": "ideogram (复); phono-semantic compound (traditional 復)",
+    "description": "ideogram: top depicts a room in a corridor + bottom 夊 “foot/step” (‘go back’); traditional 復 is semantic 彳 ‘walk’ + phonetic 复.",
+    "interpretation": "A footprint returning toward a room conveys the idea of going back, hence ‘return/again’. Later, the walker radical 彳 was added to form 復, clarifying the motion sense while keeping 复 as the sound and core idea.",
+    "simplification": "PRC simplification adopted the older phonetic form 复 by dropping the semantic 彳 from 復, effectively reverting to the original graphic that already expressed ‘return’."
+  },
+  "parts": [
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "to go slowly; footprint"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "战后经济逐步复苏(戰後經濟逐步復甦)。",
+      "pinyin": "Zhànhòu jīngjì zhúbù fùsū.",
+      "english": "The postwar economy gradually recovered."
+    },
+    {
+      "chinese": "公司下月复工(公司下月復工)。",
+      "pinyin": "Gōngsī xiàyuè fùgōng.",
+      "english": "The company will resume work next month."
+    },
+    {
+      "chinese": "她已经回复了你的邮件(她已經回覆了你的郵件)。",
+      "pinyin": "Tā yǐjīng huífù le nǐ de yóujiàn.",
+      "english": "She has already replied to your email."
+    }
+  ]
+}

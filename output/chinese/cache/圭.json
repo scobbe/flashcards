@@ -1,0 +1,37 @@
+{
+  "simplified": "圭",
+  "traditional": "圭",
+  "pinyin": "guī",
+  "english": "jade tablet; scepter",
+  "etymology": {
+    "type": "pictogram",
+    "description": "士 + 士 — two ritual axes, perhaps made of jade, one atop the other; duplication of 士; stylized into but unrelated to 土.",
+    "interpretation": "Depicts two ceremonial implements stacked to form a tall, rectangular emblem associated with a jade scepter/tablet. The duplication emphasizes formality and stature, and its resemblance to 土 is coincidental rather than etymological.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar; gentleman; soldier"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他手持玉圭(他手持玉圭)，步入大殿(步入大殿)。",
+      "pinyin": "Tā shǒuchí yùguī, bùrù dàdiàn.",
+      "english": "He held a jade scepter and entered the great hall."
+    },
+    {
+      "chinese": "博物馆陈列着西周的青玉圭(博物館陳列著西周的青玉圭)。",
+      "pinyin": "Bówùguǎn chénlièzhe Xī Zhōu de qīngyù guī.",
+      "english": "The museum displays a green jade gui from the Western Zhou."
+    },
+    {
+      "chinese": "在古礼中(在古禮中)，圭象征权威与诚信(圭象徵權威與誠信)。",
+      "pinyin": "Zài gǔlǐ zhōng, guī xiàngzhēng quánwēi yǔ chéngxìn.",
+      "english": "In ancient rites, the gui symbolized authority and integrity."
+    }
+  ]
+}

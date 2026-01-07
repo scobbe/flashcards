@@ -1,0 +1,43 @@
+{
+  "simplified": "监",
+  "traditional": "監",
+  "pinyin": "jiān/jiàn",
+  "english": "to supervise; to inspect; prison",
+  "etymology": {
+    "type": "ideogrammic compound (會意)",
+    "description": "臥 (\"a person with an emphasized eye\") + 皿 (\"container\"): a person looking into a container; simplified from 監 (臣 → 〢), compare 览.",
+    "interpretation": "Shows someone leaning over and peering into a vessel, evoking careful inspection and oversight. This visual idea motivates meanings like supervising, examining, and by extension the place of confinement where supervision is enforced.",
+    "simplification": "Reduced the top 臣 element to two vertical strokes (〢) to cut strokes and mirror the pattern seen in 览, easing handwriting."
+  },
+  "parts": [
+    {
+      "char": "卧",
+      "trad": "臥",
+      "pinyin": "wò",
+      "english": "to lie down"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish; vessel"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他在监狱工作(他在監獄工作)。",
+      "pinyin": "Tā zài jiānyù gōngzuò.",
+      "english": "He works in a prison."
+    },
+    {
+      "chinese": "政府加强监管市场(政府加強監管市場)。",
+      "pinyin": "Zhèngfǔ jiāqiáng jiānguǎn shìchǎng.",
+      "english": "The government is strengthening market supervision."
+    },
+    {
+      "chinese": "警察监视嫌犯(警察監視嫌犯)。",
+      "pinyin": "Jǐngchá jiānshì xiánfàn.",
+      "english": "The police monitor the suspect."
+    }
+  ]
+}

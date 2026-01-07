@@ -1,0 +1,43 @@
+{
+  "simplified": "明",
+  "traditional": "明",
+  "pinyin": "míng",
+  "english": "bright; clear; understand; next (day)",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "semantic: 日 ‘sun’ + 月 ‘moon’ — sun rising while moon not yet set → dawn; alternatively two bright celestial bodies → bright.",
+    "interpretation": "Combining the sun and moon evokes two sources of light, symbolizing brightness and clarity. This core idea extends to senses like ‘understand’ (clarity of mind) and temporal uses in compounds such as 明天 ‘next day’.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon; month"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "灯光很明亮(燈光很明亮)。",
+      "pinyin": "Dēngguāng hěn míngliàng.",
+      "english": "The lights are very bright."
+    },
+    {
+      "chinese": "我明白你的意思(我明白你的意思)。",
+      "pinyin": "Wǒ míngbái nǐ de yìsi.",
+      "english": "I understand what you mean."
+    },
+    {
+      "chinese": "我们明天再联系(我們明天再聯繫)。",
+      "pinyin": "Wǒmen míngtiān zài liánxì.",
+      "english": "Let’s get in touch again tomorrow."
+    }
+  ]
+}

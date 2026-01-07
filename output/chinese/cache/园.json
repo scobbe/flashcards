@@ -1,0 +1,43 @@
+{
+  "simplified": "园",
+  "traditional": "園",
+  "pinyin": "yuán",
+  "english": "garden",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 囗 + phonetic 元 (simp.); semantic 囗 (‘fence’) + phonetic 袁 (trad.).",
+    "interpretation": "An enclosing frame 囗 conveys the idea of a fenced or bounded space, while 元/袁 supplies the sound yuán. Together it evokes an enclosed area used for cultivation or leisure, i.e., a garden or park.",
+    "simplification": "Traditional 園 replaced its phonetic 袁 with the simpler 元 inside the enclosure, reducing strokes while keeping the pronunciation yuán."
+  },
+  "parts": [
+    {
+      "char": "元",
+      "trad": "元",
+      "pinyin": "yuán",
+      "english": "origin; primary; yuan (currency)"
+    },
+    {
+      "char": "袁",
+      "trad": "袁",
+      "pinyin": "yuán",
+      "english": "surname Yuan"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我们去公园散步(我們去公園散步)。",
+      "pinyin": "Wǒmen qù gōngyuán sànbù.",
+      "english": "We’re going for a walk in the park."
+    },
+    {
+      "chinese": "这个园子里种满了花草(這個園子裡種滿了花草)。",
+      "pinyin": "Zhège yuánzi lǐ zhòng mǎn le huācǎo.",
+      "english": "This garden is filled with flowers and plants."
+    },
+    {
+      "chinese": "园丁每天打理植物园(園丁每天打理植物園)。",
+      "pinyin": "Yuándīng měitiān dǎlǐ zhíwùyuán.",
+      "english": "The gardener tends the botanical garden every day."
+    }
+  ]
+}

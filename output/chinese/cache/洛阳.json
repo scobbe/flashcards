@@ -1,0 +1,43 @@
+{
+  "simplified": "洛阳",
+  "traditional": "洛陽",
+  "pinyin": "Luòyáng",
+  "english": "Luoyang",
+  "etymology": {
+    "type": "compound word",
+    "description": "洛 (Luo River) + 阳 (sunny side/north of a river) = city on the north bank of the Luo River.",
+    "interpretation": "Named for its position on the sunny (north) side of the Luo River; now a historic former capital and modern city in Henan.",
+    "simplification": "阳 simplified from 陽 by reducing the right-side component (昜) to a simpler form while keeping the left 阝 ‘hill/place’ radical; 洛 unchanged."
+  },
+  "parts": [
+    {
+      "char": "洛",
+      "trad": "洛",
+      "pinyin": "luò",
+      "english": "Luo River; river name; used in place names; transliteration component"
+    },
+    {
+      "char": "阳",
+      "trad": "陽",
+      "pinyin": "yáng",
+      "english": "sun; sunny side/north of a river; positive (yang); male"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我打算去洛阳旅行(我打算去洛陽旅行)。",
+      "pinyin": "Wǒ dǎsuàn qù Luòyáng lǚxíng.",
+      "english": "I’m planning to travel to Luoyang."
+    },
+    {
+      "chinese": "洛阳位于河南省西部(洛陽位於河南省西部)。",
+      "pinyin": "Luòyáng wèiyú Hénán Shěng xībù.",
+      "english": "Luoyang is located in western Henan Province."
+    },
+    {
+      "chinese": "多个王朝曾在洛阳建都(多個王朝曾在洛陽建都)。",
+      "pinyin": "Duō gè wángcháo céng zài Luòyáng jiàndū.",
+      "english": "Multiple dynasties once established their capitals in Luoyang."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "是",
+  "traditional": "是",
+  "pinyin": "shì",
+  "english": "to be; yes; right; indeed",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "semantic: 日 ‘sun’ + semantic: 正 ‘upright; correct’.",
+    "interpretation": "Combining the sun with the idea of uprightness evokes the sense of something plainly, correctly so—hence “right; indeed.” This evaluative meaning later generalized into the copular use “to be” and the affirmative particle sense.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day"
+    },
+    {
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "upright; correct"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是老师(他是老師)。",
+      "pinyin": "Tā shì lǎoshī.",
+      "english": "He is a teacher."
+    },
+    {
+      "chinese": "这是真的(這是真的)。",
+      "pinyin": "Zhè shì zhēn de.",
+      "english": "This is true."
+    },
+    {
+      "chinese": "是的，你说得对(是的，你說得對)。",
+      "pinyin": "Shì de, nǐ shuō de duì.",
+      "english": "Yes, you are right."
+    }
+  ]
+}

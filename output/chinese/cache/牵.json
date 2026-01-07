@@ -1,0 +1,49 @@
+{
+  "simplified": "牵",
+  "traditional": "牽",
+  "pinyin": "qiān",
+  "english": "to pull; to lead; to involve; to drag",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 玄 + semantic 牛 (“cow, ox”); depicts leading an ox by hand.",
+    "interpretation": "Sound is borrowed from 玄, while 牛 anchors the meaning in cattle and the act of pulling or leading. In the traditional form, a 手 element underscores the idea of guiding an ox by hand, matching senses like “to pull/lead.”",
+    "simplification": "Simplified from 牽 by omitting the bottom 手 component and compressing the remaining parts, reducing strokes while retaining phonetic 玄 and semantic 牛."
+  },
+  "parts": [
+    {
+      "char": "玄",
+      "trad": "玄",
+      "pinyin": "xuán",
+      "english": "mysterious; dark"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow; ox"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他牵着孩子过马路(他牽著孩子過馬路)。",
+      "pinyin": "Tā qiānzhe háizi guò mǎlù.",
+      "english": "He leads the child across the street."
+    },
+    {
+      "chinese": "这件事牵涉到很多人(這件事牽涉到很多人)。",
+      "pinyin": "Zhè jiàn shì qiānshè dào hěn duō rén.",
+      "english": "This matter involves many people."
+    },
+    {
+      "chinese": "她牵着狗散步(她牽著狗散步)。",
+      "pinyin": "Tā qiānzhe gǒu sànbù.",
+      "english": "She walks the dog on a leash."
+    }
+  ]
+}

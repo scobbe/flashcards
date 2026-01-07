@@ -1,0 +1,37 @@
+{
+  "simplified": "潇",
+  "traditional": "瀟",
+  "pinyin": "xiāo",
+  "english": "deep and clear (literary); brisk",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 水 + phonetic: 蕭",
+    "interpretation": "Water indicates a meaning related to water, clarity, or flowing qualities. 蕭 contributes the sound xiāo and shades the word’s literary feel as seen in uses like 潇洒 and 潇潇 (of rain).",
+    "simplification": "Simplified by replacing the phonetic 蕭 with its simplified form 萧 while keeping the water component (氵), reducing strokes but preserving pronunciation."
+  },
+  "parts": [
+    {
+      "char": "萧",
+      "trad": "蕭",
+      "pinyin": "xiāo",
+      "english": "mugwort; desolate; surname Xiao"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他举止潇洒(他舉止瀟灑)。",
+      "pinyin": "Tā jǔzhǐ xiāosǎ.",
+      "english": "His manner is free and graceful."
+    },
+    {
+      "chinese": "夜里秋雨潇潇(夜裡秋雨瀟瀟)。",
+      "pinyin": "Yèlǐ qiūyǔ xiāoxiāo.",
+      "english": "At night the autumn rain falls with a soughing sound."
+    },
+    {
+      "chinese": "潇湘一带的风景很美(瀟湘一帶的風景很美)。",
+      "pinyin": "Xiāoxiāng yīdài de fēngjǐng hěn měi.",
+      "english": "The scenery around the Xiao and Xiang rivers is very beautiful."
+    }
+  ]
+}

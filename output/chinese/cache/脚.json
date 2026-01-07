@@ -1,0 +1,43 @@
+{
+  "simplified": "脚",
+  "traditional": "腳",
+  "pinyin": "jiǎo",
+  "english": "foot; leg; base; support",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: ⺼ (“meat, body”) + phonetic: 卻",
+    "interpretation": "The flesh/meat component signals a body part. 卻 provides the sound and helps point to a limb, specifically the foot or leg.",
+    "simplification": "The phonetic component 卻 was simplified to 却, so 腳 became 脚; the left-side meat component remains in its abbreviated 月 form."
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    },
+    {
+      "char": "却",
+      "trad": "卻",
+      "pinyin": "què",
+      "english": "however; retreat"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他扭伤了脚(他扭傷了腳)。",
+      "pinyin": "Tā niǔshāng le jiǎo.",
+      "english": "He sprained his foot."
+    },
+    {
+      "chinese": "桌脚不稳(桌腳不穩)。",
+      "pinyin": "Zhuōjiǎo bù wěn.",
+      "english": "The table leg is unstable."
+    },
+    {
+      "chinese": "他站在山脚等我们(他站在山腳等我們)。",
+      "pinyin": "Tā zhàn zài shānjiǎo děng wǒmen.",
+      "english": "He waited at the foot of the mountain for us."
+    }
+  ]
+}

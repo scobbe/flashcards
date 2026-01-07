@@ -1,0 +1,43 @@
+{
+  "simplified": "街",
+  "traditional": "街",
+  "pinyin": "jiē",
+  "english": "street; road; thoroughfare; neighborhood",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 行 + phonetic 圭 (OC *kʷeː)",
+    "interpretation": "Built with 行 to signal the idea of movement/roads and 圭 to suggest the sound. The apparent ‘earth’ element in 圭 is misleading; historically it depicted a pair of jade ritual tablets, so any link to 土 comes from folk etymology or its Small Seal script appearance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "to go; walk; row/line"
+    },
+    {
+      "char": "圭",
+      "trad": "圭",
+      "pinyin": "guī",
+      "english": "jade tablet; scepter"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我家在这条街上(我家在這條街上)。",
+      "pinyin": "Wǒ jiā zài zhè tiáo jiē shàng.",
+      "english": "My home is on this street."
+    },
+    {
+      "chinese": "这条街很热闹(這條街很熱鬧)。",
+      "pinyin": "Zhè tiáo jiē hěn rènao.",
+      "english": "This street is very lively."
+    },
+    {
+      "chinese": "警察在街口指挥交通(警察在街口指揮交通)。",
+      "pinyin": "Jǐngchá zài jiēkǒu zhǐhuī jiāotōng.",
+      "english": "The police are directing traffic at the street corner."
+    }
+  ]
+}

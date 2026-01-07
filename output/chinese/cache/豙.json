@@ -1,0 +1,43 @@
+{
+  "simplified": "豙",
+  "traditional": "豙",
+  "pinyin": "yì",
+  "english": "rare character used as a phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 豕 + phonetic: 乂 (yì)",
+    "interpretation": "Built from the pig component 豕 to suggest a semantic domain, with 乂 supplying the yì sound. It survives mostly as a phonetic element in other characters (e.g., 毅), preserving the pronunciation rather than an independent meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "乂",
+      "trad": "乂",
+      "pinyin": "yì",
+      "english": "to regulate; to govern; to cut"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig; swine"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这个字豙很少见(這個字豙很少見)。",
+      "pinyin": "Zhège zì Yì hěn shǎojiàn.",
+      "english": "The character 豙 is rarely seen."
+    },
+    {
+      "chinese": "在“毅”字里，豙作声旁(在「毅」字裡，豙作聲旁)。",
+      "pinyin": "Zài “Yì” zì lǐ, Yì zuò shēngpáng.",
+      "english": "In the character “毅,” 豙 serves as the phonetic component."
+    },
+    {
+      "chinese": "学古文字时，我们会遇到豙(學古文字時，我們會遇到豙)。",
+      "pinyin": "Xué gǔ wénzì shí, wǒmen huì yùdào Yì.",
+      "english": "When studying ancient scripts, we may encounter 豙."
+    }
+  ]
+}

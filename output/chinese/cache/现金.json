@@ -1,0 +1,43 @@
+{
+  "simplified": "现金",
+  "traditional": "現金",
+  "pinyin": "xiànjīn",
+  "english": "cash",
+  "etymology": {
+    "type": "compound word",
+    "description": "现(現) ‘present; appear’ + 金 ‘metal; money’ = money on hand, cash.",
+    "interpretation": "Combines the idea of something present/at hand with money to mean funds immediately available in physical form. Often contrasted with deposits, credit, or non-cash payments.",
+    "simplification": "現 → 现 by simplifying 見 to 见 to reduce strokes; 金 unchanged."
+  },
+  "parts": [
+    {
+      "char": "现",
+      "trad": "現",
+      "pinyin": "xiàn",
+      "english": "present; current; appear; manifest"
+    },
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal; money; wealth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请准备一些现金(請準備一些現金)。",
+      "pinyin": "Qǐng zhǔnbèi yīxiē xiànjīn.",
+      "english": "Please prepare some cash."
+    },
+    {
+      "chinese": "我没有带现金(我沒有帶現金)。",
+      "pinyin": "Wǒ méiyǒu dài xiànjīn.",
+      "english": "I didn't bring cash."
+    },
+    {
+      "chinese": "这家店只收现金(這家店只收現金)。",
+      "pinyin": "Zhè jiā diàn zhǐ shōu xiànjīn.",
+      "english": "This shop only accepts cash."
+    }
+  ]
+}

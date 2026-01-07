@@ -1,0 +1,43 @@
+{
+  "simplified": "推",
+  "traditional": "推",
+  "pinyin": "tuī",
+  "english": "to push; to shove; to promote; to infer",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic 扌 (“hand”) + phonetic 隹 (OC *tjul) – push with the hand.",
+    "interpretation": "A hand component signals an action done manually, while 隹 contributes the sound tuī and a sense of motion. Together they express applying force with the hand to move something forward or advance an idea.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他用力推门(他用力推門)。",
+      "pinyin": "Tā yòng lì tuī mén.",
+      "english": "He pushed the door hard."
+    },
+    {
+      "chinese": "公司在网上大力推广新产品(公司在網上大力推廣新產品)。",
+      "pinyin": "Gōngsī zài wǎngshàng dàlì tuīguǎng xīn chǎnpǐn.",
+      "english": "The company is vigorously promoting the new product online."
+    },
+    {
+      "chinese": "根据现有证据，我们可以推断他的动机(根據現有證據，我們可以推斷他的動機)。",
+      "pinyin": "Gēnjù xiànyǒu zhèngjù, wǒmen kěyǐ tuīduàn tā de dòngjī.",
+      "english": "Based on the existing evidence, we can infer his motive."
+    }
+  ]
+}

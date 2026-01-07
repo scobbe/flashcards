@@ -1,0 +1,43 @@
+{
+  "simplified": "情",
+  "traditional": "情",
+  "pinyin": "qíng",
+  "english": "feeling; emotion; affection; situation",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 心 ('heart') + phonetic: 青",
+    "interpretation": "Built from the 'heart' element to signal feelings and mental states, while 青 provides the sound (qíng). This links emotions and situations to the heart, with pronunciation inherited from the phonetic component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "青",
+      "trad": "青",
+      "pinyin": "qīng",
+      "english": "blue/green"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我对你很有感情(我對你很有感情)。",
+      "pinyin": "Wǒ duì nǐ hěn yǒu gǎnqíng.",
+      "english": "I have deep feelings for you."
+    },
+    {
+      "chinese": "今天的情况很复杂(今天的情況很複雜)。",
+      "pinyin": "Jīntiān de qíngkuàng hěn fùzá.",
+      "english": "The situation today is complicated."
+    },
+    {
+      "chinese": "她深情地看着我(她深情地看著我)。",
+      "pinyin": "Tā shēnqíng de kànzhe wǒ.",
+      "english": "She looked at me affectionately."
+    }
+  ]
+}

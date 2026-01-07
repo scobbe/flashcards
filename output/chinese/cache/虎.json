@@ -1,0 +1,37 @@
+{
+  "simplified": "虎",
+  "traditional": "虎",
+  "pinyin": "hǔ",
+  "english": "tiger",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: 虍 represents the tiger’s head; the torso disappeared; the legs and tail became 人 in small seal, later 儿 in clerical.",
+    "interpretation": "Depicts a tiger’s head with simplified limbs, reduced through script evolution. The body was dropped, leaving the head element (虍) and the legs/tail streamlined to 儿.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; noun suffix"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "老虎在山林里咆哮(老虎在山林裡咆哮)。",
+      "pinyin": "Lǎohǔ zài shānlín lǐ páoxiào.",
+      "english": "The tiger roars in the forest."
+    },
+    {
+      "chinese": "中国人常说“如虎添翼”(中國人常說「如虎添翼」)。",
+      "pinyin": "Zhōngguó rén cháng shuō “rú hǔ tiān yì”.",
+      "english": "Chinese people often say “like adding wings to a tiger,” meaning to greatly strengthen something."
+    },
+    {
+      "chinese": "他属虎，今年运势不错(他屬虎，今年運勢不錯)。",
+      "pinyin": "Tā shǔ hǔ, jīnnián yùnshì búcuò.",
+      "english": "He was born in the Year of the Tiger, and his fortune is good this year."
+    }
+  ]
+}

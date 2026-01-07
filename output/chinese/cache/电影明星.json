@@ -1,0 +1,55 @@
+{
+  "simplified": "电影明星",
+  "traditional": "電影明星",
+  "pinyin": "diànyǐng míngxīng",
+  "english": "movie star",
+  "etymology": {
+    "type": "compound word",
+    "description": "电影 (film; movie) + 明星 (bright star; celebrity) = movie star.",
+    "interpretation": "Combines the medium of film with the metaphor of a shining star to denote a celebrated performer in movies. Emphasizes fame that stands out within the film industry.",
+    "simplification": "Only 電 → 电 was simplified in PRC reforms to reduce strokes by compressing the complex ‘electric’ component; 影、明、星 remained the same."
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electricity; electric; lightning; telegram"
+    },
+    {
+      "char": "影",
+      "trad": "影",
+      "pinyin": "yǐng",
+      "english": "shadow; image; movie; reflection"
+    },
+    {
+      "char": "明",
+      "trad": "明",
+      "pinyin": "míng",
+      "english": "bright; clear; understand; next (day)"
+    },
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star; planet; speck; point"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他是一位著名的电影明星(他是一位著名的電影明星)。",
+      "pinyin": "Tā shì yí wèi zhùmíng de diànyǐng míngxīng.",
+      "english": "He is a famous movie star."
+    },
+    {
+      "chinese": "这部新片让她一夜成名，成为当红的电影明星(這部新片讓她一夜成名，成為當紅的電影明星)。",
+      "pinyin": "Zhè bù xīnpiàn ràng tā yíyè chéngmíng, chéngwéi dānghóng de diànyǐng míngxīng.",
+      "english": "This new film made her an overnight success, turning her into a top movie star."
+    },
+    {
+      "chinese": "许多电影明星积极参与公益活动(許多電影明星積極參與公益活動)。",
+      "pinyin": "Xǔduō diànyǐng míngxīng jījí cānyù gōngyì huódòng.",
+      "english": "Many movie stars actively take part in charity work."
+    }
+  ]
+}

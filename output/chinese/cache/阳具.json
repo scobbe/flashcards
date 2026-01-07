@@ -1,0 +1,43 @@
+{
+  "simplified": "阳具",
+  "traditional": "阳具",
+  "pinyin": "yángjù",
+  "english": "male genitals",
+  "etymology": {
+    "type": "compound word",
+    "description": "阳(yang; male) + 具(tool; organ) = male organ/genitals",
+    "interpretation": "Literally the “yang/male apparatus,” combining the male principle 阳 with 具 ‘implement/organ.’ Used as a somewhat euphemistic or literary term for the penis, often contrasted with the more clinical 阴茎.",
+    "simplification": "陽 → 阳 by simplifying the right-side component 昜 to reduce strokes; 具 unchanged."
+  },
+  "parts": [
+    {
+      "char": "阳",
+      "trad": "陽",
+      "pinyin": "yáng",
+      "english": "yang; male; sunny/bright; south side of a mountain"
+    },
+    {
+      "char": "具",
+      "trad": "具",
+      "pinyin": "jù",
+      "english": "tool; implement; to possess; organ/apparatus"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "医生在体检中会询问男性的阳具是否有不适(醫生在體檢中會詢問男性的陽具是否有不適)。",
+      "pinyin": "Yīshēng zài tǐjiǎn zhōng huì xúnwèn nánxìng de yángjù shìfǒu yǒu búshì.",
+      "english": "During a physical exam, the doctor may ask if a male patient has any discomfort in his genitals."
+    },
+    {
+      "chinese": "这本医学教材使用“阳具”和“阴茎”两个词，但语气略有不同(這本醫學教材使用「陽具」和「陰莖」兩個詞，但語氣略有不同)。",
+      "pinyin": "Zhè běn yīxué jiàocái shǐyòng “yángjù” hé “yīnjīng” liǎng gè cí, dàn yǔqì lüè yǒu bùtóng.",
+      "english": "This medical textbook uses both “yangju” and “penis,” but the tone differs slightly."
+    },
+    {
+      "chinese": "在一些古代文献里，阳具被视为“阳”的象征(在一些古代文獻裡，陽具被視為「陽」的象徵)。",
+      "pinyin": "Zài yīxiē gǔdài wénxiàn lǐ, yángjù bèi shìwéi “yáng” de xiàngzhēng.",
+      "english": "In some ancient texts, the male organ is seen as a symbol of the yang principle."
+    }
+  ]
+}

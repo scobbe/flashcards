@@ -1,0 +1,43 @@
+{
+  "simplified": "断",
+  "traditional": "斷",
+  "pinyin": "duàn",
+  "english": "to sever; break; cut off; decide",
+  "etymology": {
+    "type": "Ideogrammic compound (會意 / 会意)",
+    "description": "semantic: 𢇍 (“to cut”) + 斤 (“axe”).",
+    "interpretation": "A graphic idea of cutting is paired with an axe, highlighting forceful separation. This extends naturally from physically breaking or severing to figuratively making firm, decisive judgments.",
+    "simplification": "Simplified as 断 by adopting an unorthodox historical variant and reducing the complex left component 𢇍 (linked to an old form of 叀) to a simple knife element (⺈), while retaining 斤, thereby cutting stroke count."
+  },
+  "parts": [
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe; catty (0.5 kg)"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "绳子被拉断了(繩子被拉斷了)。",
+      "pinyin": "Shéngzi bèi lā duàn le.",
+      "english": "The rope was pulled apart and broke."
+    },
+    {
+      "chinese": "为了安全，我们立即断电(為了安全，我們立即斷電)。",
+      "pinyin": "Wèi le ānquán, wǒmen lìjí duàn diàn.",
+      "english": "For safety, we immediately cut off the power."
+    },
+    {
+      "chinese": "医生断定他需要休息(醫生斷定他需要休息)。",
+      "pinyin": "Yīshēng duàndìng tā xūyào xiūxi.",
+      "english": "The doctor concluded that he needed rest."
+    }
+  ]
+}

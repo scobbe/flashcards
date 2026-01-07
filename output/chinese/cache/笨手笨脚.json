@@ -1,0 +1,55 @@
+{
+  "simplified": "笨手笨脚",
+  "traditional": "笨手笨腳",
+  "pinyin": "bènshǒu bènjiǎo",
+  "english": "clumsy; awkward",
+  "etymology": {
+    "type": "compound word (reduplicative idiom)",
+    "description": "笨 ‘clumsy’ + 手 ‘hand’ + 笨 ‘clumsy’ + 脚/腳 ‘foot’ = clumsy with hands and feet (reduplication intensifies).",
+    "interpretation": "Describes someone awkward and inept in handling things and in movement; conveys lack of coordination or skill.",
+    "simplification": "Only 腳 → 脚 was simplified; the right-side phonetic component was streamlined to reduce strokes while keeping the flesh radical 月, making it quicker to write."
+  },
+  "parts": [
+    {
+      "char": "笨",
+      "trad": "笨",
+      "pinyin": "bèn",
+      "english": "stupid; clumsy; awkward; dull"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand; manual; skill; person (as worker)"
+    },
+    {
+      "char": "笨",
+      "trad": "笨",
+      "pinyin": "bèn",
+      "english": "stupid; clumsy; awkward; dull"
+    },
+    {
+      "char": "脚",
+      "trad": "腳",
+      "pinyin": "jiǎo",
+      "english": "foot; leg; base; support"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "他做家务笨手笨脚(他做家務笨手笨腳)，总是打碎杯子(總是打碎杯子)。",
+      "pinyin": "Tā zuò jiāwù bènshǒu bènjiǎo, zǒngshì dǎsuì bēizi.",
+      "english": "He’s clumsy with housework and always breaks cups."
+    },
+    {
+      "chinese": "第一次滑冰，她显得笨手笨脚(第一次滑冰，她顯得笨手笨腳)，但很快就学会了(但很快就學會了)。",
+      "pinyin": "Dì yī cì huábīng, tā xiǎnde bènshǒu bènjiǎo, dàn hěn kuài jiù xuéhuì le.",
+      "english": "At her first time ice skating, she seemed clumsy but learned quickly."
+    },
+    {
+      "chinese": "这双鞋太大(這雙鞋太大)，我走路都笨手笨脚(我走路都笨手笨腳)。",
+      "pinyin": "Zhè shuāng xié tài dà, wǒ zǒulù dōu bènshǒu bènjiǎo.",
+      "english": "These shoes are too big; I even walk awkwardly."
+    }
+  ]
+}

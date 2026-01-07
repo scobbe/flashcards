@@ -1,0 +1,43 @@
+{
+  "simplified": "潇湘",
+  "traditional": "瀟湘",
+  "pinyin": "Xiāoxiāng",
+  "english": "poetic name for Xiang River region",
+  "etymology": {
+    "type": "compound word",
+    "description": "潇(瀟/Xiāo River) + 湘(Xiāng River) = the Xiao–Xiang river region.",
+    "interpretation": "Evokes the Xiao and Xiang rivers in Hunan, long celebrated in poetry and painting (e.g., the Eight Views of Xiaoxiang). Used as an elegant toponym suggesting misty waters and melancholic beauty.",
+    "simplification": "潇 was simplified from 瀟 by streamlining the right-side phonetic while retaining the water radical; 湘 is unchanged in simplified and traditional."
+  },
+  "parts": [
+    {
+      "char": "潇",
+      "trad": "瀟",
+      "pinyin": "xiāo",
+      "english": "elegant; free and easy; Xiao River; name component"
+    },
+    {
+      "char": "湘",
+      "trad": "湘",
+      "pinyin": "xiāng",
+      "english": "Xiang River; Hunan (abbr.); river; place name"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "诗人常以潇湘寄情于山水(詩人常以瀟湘寄情於山水)。",
+      "pinyin": "Shīrén cháng yǐ Xiāoxiāng jìqíng yú shānshuǐ.",
+      "english": "Poets often use Xiaoxiang to express their feelings for landscape."
+    },
+    {
+      "chinese": "暮色笼罩潇湘(暮色籠罩瀟湘)，渔火点点(漁火點點)。",
+      "pinyin": "Mùsè lǒngzhào Xiāoxiāng, yúhuǒ diǎndiǎn.",
+      "english": "Dusk shrouds Xiaoxiang, and fishing lights dot the waters."
+    },
+    {
+      "chinese": "他临摹了《潇湘八景》的卷轴(他臨摹了《瀟湘八景》的卷軸)。",
+      "pinyin": "Tā línmó le 《Xiāoxiāng Bā Jǐng》 de juànzhóu.",
+      "english": "He copied a scroll of the Eight Views of Xiaoxiang."
+    }
+  ]
+}

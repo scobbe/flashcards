@@ -1,0 +1,37 @@
+{
+  "simplified": "彣",
+  "traditional": "彣",
+  "pinyin": "wén",
+  "english": "variegated; literary talent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 彡 (“decorative lines, ornament”) + phonetic: 文 (OC *mɯn).",
+    "interpretation": "Pronunciation comes from the phonetic 文 (wén), while 彡 contributes the idea of decorative lines and ornamentation. Together they suggest variegated patterns and, by extension, refined, adorned expression associated with literary talent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "writing; culture; pattern"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "彣在书法课上展现才华(彣在書法課上展現才華)。",
+      "pinyin": "Wén zài shūfǎ kè shàng zhǎnxiàn cáihuá.",
+      "english": "Wen displayed talent in the calligraphy class."
+    },
+    {
+      "chinese": "作为编辑，彣喜欢钻研古籍(作為編輯，彣喜歡鑽研古籍)。",
+      "pinyin": "Zuòwéi biānjí, Wén xǐhuan zuānyán gǔjí.",
+      "english": "As an editor, Wen likes to study ancient texts."
+    },
+    {
+      "chinese": "晚会上，彣写下了一篇优美的散文(晚會上，彣寫下了一篇優美的散文)。",
+      "pinyin": "Wǎnhuì shàng, Wén xiě xià le yì piān yōuměi de sǎnwén.",
+      "english": "At the evening gathering, Wen wrote a graceful essay."
+    }
+  ]
+}

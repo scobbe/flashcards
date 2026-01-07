@@ -1,0 +1,37 @@
+{
+  "simplified": "薄",
+  "traditional": "薄",
+  "pinyin": "bó",
+  "english": "thin; slight; meager; ungenerous",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 艹 + phonetic: 溥 (OC *pʰaːʔ, *paːɡ)",
+    "interpretation": "艹 ties the graph to the semantic sphere of plants or herbaceous matters, as seen in plant-related senses like in 薄荷. 溥 contributes the sound and also carries a sense of breadth/spread, which aligns metaphorically with being thinly spread, hence meanings like thin, slight, or meager.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "溥",
+      "trad": "溥",
+      "pinyin": "pǔ",
+      "english": "broad; to spread; universal; surname Pu"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "請把黃瓜切成薄片(請把黃瓜切成薄片)。",
+      "pinyin": "Qǐng bǎ huángguā qiē chéng bópiàn.",
+      "english": "Please slice the cucumber thin."
+    },
+    {
+      "chinese": "我們靠薄利多銷維持生意(我們靠薄利多銷維持生意)。",
+      "pinyin": "Wǒmen kào bólì duōxiāo wéichí shēngyì.",
+      "english": "We keep the business going with small profits and quick turnover."
+    },
+    {
+      "chinese": "他對朋友太薄情了(他對朋友太薄情了)。",
+      "pinyin": "Tā duì péngyou tài bóqíng le.",
+      "english": "He is too unfeeling toward his friends."
+    }
+  ]
+}

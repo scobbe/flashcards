@@ -1,0 +1,43 @@
+{
+  "simplified": "穌",
+  "traditional": "穌",
+  "pinyin": "sū",
+  "english": "revive; awaken",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "semantic: 禾 + phonetic: 魚",
+    "interpretation": "Combines 禾 ‘grain/crop’, evoking growth and life, with 魚 as the sound-bearing element for sū. The imagery suggests returning to life or reanimation, akin to crops reviving after dormancy, hence the sense ‘revive; awaken’.",
+    "simplification": "Not independently simplified; in Modern Chinese, the ‘revive’ morpheme appears as 苏 in 复苏 (Mainland) or as 甦 in 復甦 (Taiwan)."
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain; cereal"
+    },
+    {
+      "char": "鱼",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "经济开始复苏(經濟開始復甦)。",
+      "pinyin": "Jīngjì kāishǐ fùsū.",
+      "english": "The economy has begun to recover."
+    },
+    {
+      "chinese": "病人苏醒过来(病人甦醒過來)。",
+      "pinyin": "Bìngrén sūxǐng guòlái.",
+      "english": "The patient regained consciousness."
+    },
+    {
+      "chinese": "春雨过后，大地复苏(春雨過後，大地復甦)。",
+      "pinyin": "Chūnyǔ guòhòu, dàdì fùsū.",
+      "english": "After the spring rain, the land comes back to life."
+    }
+  ]
+}
