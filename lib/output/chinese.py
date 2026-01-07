@@ -537,13 +537,6 @@ def _write_single_card(
             if english_part:
                 parts.append(f"    - {english_part}")
 
-    # Footer for main cards (reverse side reference): Chinese, Pinyin, ---, English
-    if not is_subcard:
-        parts.append(FRONT_BACK_DIVIDER)
-        parts.append(f"## {chinese_heading}")
-        parts.append(f"### {pinyin}")
-        parts.append(FRONT_BACK_DIVIDER)
-        parts.append(f"## {english}")
 
 
 def _generate_recursive_component_cards(
@@ -751,7 +744,19 @@ def write_card_md(
                         errors=subcomponent_errors,
                     )
 
-    # Add card divider at the very end, after all recursive content
+    # Add footer for main card (reverse side reference) after all recursive content
+    # Format: ---, Chinese, Pinyin, ---, English
+    if traditional and traditional != simplified:
+        chinese_heading = f"{simplified}({traditional})"
+    else:
+        chinese_heading = simplified
+    parts.append(FRONT_BACK_DIVIDER)
+    parts.append(f"## {chinese_heading}")
+    parts.append(f"### {pinyin}")
+    parts.append(FRONT_BACK_DIVIDER)
+    parts.append(f"## {english}")
+
+    # Add card divider at the very end
     parts.append(CARD_DIVIDER)
 
     content = "\n".join(parts) + "\n"

@@ -52,11 +52,6 @@
   - 银价今天上涨了(銀價今天上漲了)。
     - Yínjià jīntiān shàngzhǎng le.
     - The price of silver rose today.
----
-## 银(銀)
-### yín
----
-## silver
 ### 银(銀) → 金
 - **pinyin:** jīn
 - **definition:** gold; metal
@@ -263,6 +258,11 @@
   - 这里有三个人(這裡有三個人)。
     - Zhèlǐ yǒu sān gè rén.
     - There are three people here.
+---
+## 银(銀)
+### yín
+---
+## silver
 %%%
 
 
@@ -292,11 +292,6 @@
   - 世界人口已经超过八十亿(世界人口已經超過八十億)。
     - Shìjiè rénkǒu yǐjīng chāoguò bāshí yì.
     - The world population has exceeded 8 billion.
----
-## 人口
-### rénkǒu
----
-## population
 ### 人口 → 人
 - **pinyin:** rén
 - **definition:** person;people;human;someone
@@ -331,6 +326,11 @@
   - 她咬了一口苹果(她咬了一口蘋果)。
     - Tā yǎo le yì kǒu píngguǒ.
     - She took a bite of the apple.
+---
+## 人口
+### rénkǒu
+---
+## population
 %%%
 
 
@@ -361,11 +361,6 @@
   - 别在图书馆大声说话(別在圖書館大聲說話)
     - bié zài túshūguǎn dàshēng shuōhuà
     - Don’t speak loudly in the library.
----
-## 说话(說話)
-### shuōhuà
----
-## to speak
 ### 说话(說話) → 说(說)
 - **pinyin:** shuō
 - **definition:** to speak; to say; to explain; to persuade
@@ -585,6 +580,11 @@
   - 别多说废话(別多說廢話)。
     - Bié duō shuō fèihuà.
     - Don't talk nonsense.
+---
+## 说话(說話)
+### shuōhuà
+---
+## to speak
 %%%
 
 
@@ -617,11 +617,6 @@
   - 我得走了(我得走了)。
     - Wǒ děi zǒu le.
     - I have to go now.
----
-## 得
-### de/dé/děi
----
-## structural particle; to get, obtain; must, have to
 ### 得 → 彳
 - **pinyin:** chì
 - **definition:** step; to walk
@@ -674,5 +669,10 @@
   - 她又买了一本书(她又買了一本書)。
     - Tā yòu mǎi le yī běn shū.
     - She bought another book.
+---
+## 得
+### de/dé/děi
+---
+## structural particle; to get, obtain; must, have to
 %%%
 
