@@ -136,7 +136,7 @@ ENGLISH_CARD_SCHEMA = {
 
 class OpenAIClient:
     def __init__(self, model: Optional[str] = None) -> None:
-        self.model = model or os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
+        self.model = model or os.environ.get("OPENAI_MODEL", "gpt-4o")
         api_key = os.environ.get("OPENAI_API_KEY")
         if not api_key:
             raise RuntimeError("OPENAI_API_KEY is not set in environment")

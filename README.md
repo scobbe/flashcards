@@ -18,7 +18,7 @@ python3 -m pip install -r requirements.txt
 ```env
 OPENAI_API_KEY=sk-...
 # Optional model override
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-4o
 ```
 
 ## Usage
