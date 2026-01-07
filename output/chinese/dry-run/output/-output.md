@@ -3,6 +3,8 @@
 ## mountain
 ### shān
 ---
+- **definition:** mountain
+- **pinyin:** shān
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram (象形) — three mountain peaks; oracle forms show triangles rather than vertical strokes. Unrelated to 出, the top of 岁/豐, 屮, and 巾.
@@ -23,13 +25,13 @@
 ---
 ## mountain
 %%%
-
-
 ## 银(銀)
 ---
 ## silver
 ### yín
 ---
+- **definition:** silver
+- **pinyin:** yín
 - **components:**
   - 金
     - jīn
@@ -53,8 +55,8 @@
     - Yínjià jīntiān shàngzhǎng le.
     - The price of silver rose today.
 ### 银(銀) → 金
-- **pinyin:** jīn
 - **definition:** gold; metal
+- **pinyin:** jīn
 - **components:**
   - 士
     - shì
@@ -80,8 +82,8 @@
     - Tóng shì chángjiàn de jīnshǔ.
     - Copper is a common metal.
 ### 银(銀) → 金 → 士
-- **pinyin:** shì
 - **definition:** scholar; gentleman; soldier
+- **pinyin:** shì
 - **etymology:**
   - **type:** pictogram
   - **description:** pictogram: war/ritual axe; later ‘soldier’ → ‘officer/intellectual’; related to 王, 圭, 金.
@@ -97,8 +99,8 @@
     - Gǔdài de shìrén zhòngshì lǐyí.
     - In ancient times, scholar-gentry valued ritual propriety.
 ### 银(銀) → 金 → 吕(呂)
-- **pinyin:** lǚ
 - **definition:** surname Lü; spine; musical pitch
+- **pinyin:** lǚ
 - **components:**
   - 口
     - kǒu
@@ -119,8 +121,8 @@
     - Wǒmen yào qù Lǚsòng lǚyóu.
     - We are going to travel to Luzon.
 ### 银(銀) → 金 → 吕(呂) → 口
-- **pinyin:** kǒu
 - **definition:** mouth
+- **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram (象形) – resembles an open mouth.
@@ -136,8 +138,8 @@
     - Tā yǎo le yì kǒu píngguǒ.
     - She took a bite of the apple.
 ### 银(銀) → 金 → 今
-- **pinyin:** jīn
 - **definition:** now; today
+- **pinyin:** jīn
 - **components:**
   - 曰
     - yuē
@@ -160,8 +162,8 @@
     - Rújīn hěn shǎo yǒu rén xiě xìn le.
     - Nowadays few people write letters.
 ### 银(銀) → 金 → 今 → 曰
-- **pinyin:** yuē
 - **definition:** to say; to speak
+- **pinyin:** yuē
 - **components:**
   - 口
     - kǒu
@@ -184,8 +186,8 @@
     - Cǐ dì míng yuē Táohuāyuán.
     - This place is called Peach Blossom Spring.
 ### 银(銀) → 金 → 今 → 曰 → 一
-- **pinyin:** yī
 - **definition:** one
+- **pinyin:** yī
 - **etymology:**
   - **type:** ideogram
   - **description:** a horizontal stroke, indicating the number 'one'.
@@ -201,8 +203,8 @@
     - Yí gè wèntí dōu méiyǒu.
     - There isn’t a single problem.
 ### 银(銀) → 艮
-- **pinyin:** gèn
 - **definition:** stopping; Gen trigram
+- **pinyin:** gèn
 - **components:**
   - 目
     - mù
@@ -225,8 +227,8 @@
     - Fēngshuǐ luópán shàng yǒu Gèn wèi, dàibiǎo dōngběi fāng.
     - On a feng shui compass there is the Gen position, representing the northeast.
 ### 银(銀) → 艮 → 目
-- **pinyin:** mù
 - **definition:** eye
+- **pinyin:** mù
 - **etymology:**
   - **type:** pictogram
   - **description:** pictogram: human eye, now rotated 90 degrees; compare Egyptian hieroglyph 𓁹
@@ -242,8 +244,8 @@
     - Nǐ de mùdì shì shénme?
     - What is your purpose?
 ### 银(銀) → 艮 → 人
-- **pinyin:** rén
 - **definition:** person
+- **pinyin:** rén
 - **etymology:**
   - **type:** pictogram
   - **description:** pictogram: side view of a standing man, highlighting an arm and a leg; left-side form 亻.
@@ -264,14 +266,14 @@
 ---
 ## silver
 %%%
-
-
 ## 人口
 ---
 ## population
 ### rénkǒu
 ---
-- **characters:**
+- **definition:** population
+- **pinyin:** rénkǒu
+- **components:**
   - 人
     - rén
     - person;people;human;someone
@@ -293,8 +295,8 @@
     - Shìjiè rénkǒu yǐjīng chāoguò bāshí yì.
     - The world population has exceeded 8 billion.
 ### 人口 → 人
-- **pinyin:** rén
 - **definition:** person;people;human;someone
+- **pinyin:** rén
 - **etymology:**
   - **type:** pictogram
   - **description:** pictogram: side view of a standing man, highlighting an arm and a leg; left-side form 亻.
@@ -310,8 +312,8 @@
     - Zhèlǐ yǒu sān gè rén.
     - There are three people here.
 ### 人口 → 口
-- **pinyin:** kǒu
 - **definition:** mouth;opening;classifier for people in a family;entrance
+- **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram (象形) – resembles an open mouth.
@@ -332,14 +334,14 @@
 ---
 ## population
 %%%
-
-
 ## 说话(說話)
 ---
 ## to speak
 ### shuōhuà
 ---
-- **characters:**
+- **definition:** to speak
+- **pinyin:** shuōhuà
+- **components:**
   - 说(說)
     - shuō
     - to speak; to say; to explain; to persuade
@@ -362,8 +364,8 @@
     - bié zài túshūguǎn dàshēng shuōhuà
     - Don’t speak loudly in the library.
 ### 说话(說話) → 说(說)
-- **pinyin:** shuō
 - **definition:** to speak; to say; to explain; to persuade
+- **pinyin:** shuō
 - **components:**
   - 言
     - yán
@@ -387,8 +389,8 @@
     - Tā yòng lìzi shuōmíng wèntí.
     - He explained the issue with examples.
 ### 说话(說話) → 说(說) → 言
-- **pinyin:** yán
 - **definition:** speech; words
+- **pinyin:** yán
 - **components:**
   - 舌
     - shé
@@ -411,8 +413,8 @@
     - Yán xíng yízhì, fāng néng qǔxìn yú rén.
     - Only by matching words with deeds can one gain others’ trust.
 ### 说话(說話) → 说(說) → 言 → 舌
-- **pinyin:** shé
 - **definition:** tongue
+- **pinyin:** shé
 - **components:**
   - 口
     - kǒu
@@ -432,8 +434,8 @@
     - Jǐnzhāng de tā shétou dǎjié le.
     - He was so nervous that his tongue got tied.
 ### 说话(說話) → 说(說) → 言 → 舌 → 口
-- **pinyin:** kǒu
 - **definition:** mouth
+- **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram (象形) – resembles an open mouth.
@@ -449,8 +451,8 @@
     - Tā yǎo le yì kǒu píngguǒ.
     - She took a bite of the apple.
 ### 说话(說話) → 说(說) → 兑(兌)
-- **pinyin:** duì
 - **definition:** exchange; convert
+- **pinyin:** duì
 - **components:**
   - 八
     - bā
@@ -480,8 +482,8 @@
     - Qǐng dào fúwùtái bànlǐ wàibì duìhuàn.
     - Please go to the service counter to handle foreign currency exchange.
 ### 说话(說話) → 说(說) → 兑(兌) → 八
-- **pinyin:** bā
 - **definition:** eight
+- **pinyin:** bā
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram: two bent lines indicating “to divide”; later borrowed to mean “eight” via homophony (original sense now in 分, 別).
@@ -497,8 +499,8 @@
     - Wǒ mǎi le bā gè píngguǒ.
     - I bought eight apples.
 ### 说话(說話) → 说(說) → 兑(兌) → 人
-- **pinyin:** rén
 - **definition:** person
+- **pinyin:** rén
 - **etymology:**
   - **type:** pictogram
   - **description:** pictogram: side view of a standing man, highlighting an arm and a leg; left-side form 亻.
@@ -514,8 +516,8 @@
     - Zhèlǐ yǒu sān gè rén.
     - There are three people here.
 ### 说话(說話) → 说(說) → 兑(兌) → 儿(兒)
-- **pinyin:** ér
 - **definition:** child; son
+- **pinyin:** ér
 - **components:**
   - 人
     - rén
@@ -539,8 +541,8 @@
     - Zhèxiē diànyǐng hěn shìhé értóng guānkàn.
     - These movies are very suitable for children to watch.
 ### 说话(說話) → 说(說) → 兑(兌) → 儿(兒) → 臼
-- **pinyin:** jiù
 - **definition:** mortar
+- **pinyin:** jiù
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram: a mortar. See the original version of 舂, in which a pestle is visible on top.
@@ -556,8 +558,8 @@
     - Shíyànshì lǐ cháng yòng yánbō hé yánchǔ.
     - In laboratories, a mortar and pestle are commonly used.
 ### 说话(說話) → 话(話)
-- **pinyin:** huà
 - **definition:** speech; words; talk; dialect
+- **pinyin:** huà
 - **components:**
   - 言
     - yán
@@ -586,13 +588,13 @@
 ---
 ## to speak
 %%%
-
-
 ## 得
 ---
 ## structural particle; to get, obtain; must, have to
 ### de/dé/děi
 ---
+- **definition:** structural particle; to get, obtain; must, have to
+- **pinyin:** de/dé/děi
 - **components:**
   - 彳
     - chì
@@ -618,8 +620,8 @@
     - Wǒ děi zǒu le.
     - I have to go now.
 ### 得 → 彳
-- **pinyin:** chì
 - **definition:** step; to walk
+- **pinyin:** chì
 - **etymology:**
   - **type:** pictogram
   - **description:** Simplified from 行: the left side of the crossroads pictogram as seen from above; cf. the top component of 辵.
@@ -635,8 +637,8 @@
     - Zìdiǎn jiāng “chì” dúzuò “chì”, yìwéi “xíngzǒu, bù”.
     - Dictionaries read “彳” as “chì,” meaning “to walk; step.”
 ### 得 → 贝(貝)
-- **pinyin:** bèi
 - **definition:** cowry; money
+- **pinyin:** bèi
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram – cowrie used as currency in ancient China; simplified form of 貝 in cursive script.
@@ -653,8 +655,8 @@
     - Zhè chuàn xiàngliàn shì yòng bèi zuò de.
     - This necklace is made of shells.
 ### 得 → 又
-- **pinyin:** yòu
 - **definition:** again; right hand
+- **pinyin:** yòu
 - **etymology:**
   - **type:** pictogram
   - **description:** Pictogram – a right hand; original form of 右; unrelated to 𠬤 (> 译). Often written as 彐 in many modern characters (e.g., 事, 聿, 雪, 急, 爭, 尹, 建).
@@ -674,5 +676,3 @@
 ### de/dé/děi
 ---
 ## structural particle; to get, obtain; must, have to
-%%%
-

@@ -467,24 +467,22 @@ def _write_single_card(
         parts.append(f"### {pinyin}")
         parts.append(FRONT_BACK_DIVIDER)
 
-    # For subcards, show pinyin and definition as bullet points
-    if is_subcard:
-        parts.append(f"- **pinyin:** {pinyin}")
+    # Definition and pinyin as bullet points (order: definition, pinyin)
+    pinyins = [p.strip() for p in pinyin.split(",")]
+    definitions = [d.strip() for d in english.split("|")]
 
-        # Handle multiple pronunciations with different definitions
-        pinyins = [p.strip() for p in pinyin.split(",")]
-        definitions = [d.strip() for d in english.split("|")]
+    if len(pinyins) > 1 and len(definitions) == len(pinyins):
+        parts.append("- **definition:**")
+        for pin, defn in zip(pinyins, definitions):
+            parts.append(f"  - {pin}: {defn}")
+    else:
+        parts.append(f"- **definition:** {english}")
 
-        if len(pinyins) > 1 and len(definitions) == len(pinyins):
-            parts.append("- **definition:**")
-            for pin, defn in zip(pinyins, definitions):
-                parts.append(f"  - {pin}: {defn}")
-        else:
-            parts.append(f"- **definition:** {english}")
+    parts.append(f"- **pinyin:** {pinyin}")
 
-    # Character breakdown for multi-character words
+    # Components (for both multi-character words and single characters)
     if characters and len(characters) > 1:
-        parts.append("- **characters:**")
+        parts.append("- **components:**")
         for ch_simp, ch_trad, ch_pin, ch_eng in characters:
             if ch_trad and ch_trad != ch_simp:
                 parts.append(f"  - {ch_simp}({ch_trad})")
@@ -492,9 +490,7 @@ def _write_single_card(
                 parts.append(f"  - {ch_simp}")
             parts.append(f"    - {ch_pin}")
             parts.append(f"    - {ch_eng}")
-
-    # Component breakdown for single characters
-    if components:
+    elif components:
         parts.append("- **components:**")
         for comp_simp, comp_trad, comp_pin, comp_eng in components:
             if comp_trad and comp_trad != comp_simp:
@@ -756,9 +752,6 @@ def write_card_md(
     parts.append(FRONT_BACK_DIVIDER)
     parts.append(f"## {english}")
 
-    # Add card divider at the very end
-    parts.append(CARD_DIVIDER)
-
     content = "\n".join(parts) + "\n"
     md_path.write_text(content, encoding="utf-8")
     if verbose:
@@ -992,15 +985,16 @@ def _write_combined_output(out_dir: Path, verbose: bool = False, chunk_range: Op
             output_name = "-output.md"
         output_md = out_dir / output_name
 
-        md_files = [p for p in sorted(out_dir.glob("*.md")) if not p.name.startswith("-output")]
+        md_files = [p for p in sorted(out_dir.glob("*.md")) if not p.name.startswith("-output") and not p.name.startswith("-")]
         parts: List[str] = []
         for p in md_files:
             try:
-                parts.append(p.read_text(encoding="utf-8", errors="ignore"))
+                parts.append(p.read_text(encoding="utf-8", errors="ignore").rstrip())
             except Exception:
                 if verbose:
                     print(f"[chinese] [warn] failed reading {p.name} for {output_name}")
-        content = "\n\n".join(parts) + ("\n" if parts else "")
+        # Join cards with %%% divider
+        content = f"\n{CARD_DIVIDER}\n".join(parts) + ("\n" if parts else "")
         output_md.write_text(content, encoding="utf-8")
         if verbose:
             print(f"[chinese] [ok] Wrote {output_name} ({len(content)} bytes) with {len(md_files)} files")
