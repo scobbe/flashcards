@@ -25,7 +25,7 @@
   ],
   "examples": [
     {
-      "chinese": "子曰：“学而时习之，不亦说乎？”(子曰：「學而時習之，不亦說乎？」)",
+      "chinese": "子曰：“学而时习之(子曰：「學而時習之)，不亦说乎？”(不亦說乎？」)",
       "pinyin": "Zǐ yuē: “Xué ér shí xí zhī, bù yì yuè hū?”",
       "english": "Confucius said, “Is it not a pleasure to learn and practice at due times?”"
     },
@@ -35,7 +35,7 @@
       "english": "A said, “Okay.” B said, “No.”"
     },
     {
-      "chinese": "此地名曰桃花源。(此地名曰桃花源。)",
+      "chinese": "此地名曰桃花源(此地名曰桃花源)。",
       "pinyin": "Cǐ dì míng yuē Táohuāyuán.",
       "english": "This place is called Peach Blossom Spring."
     }

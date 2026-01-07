@@ -1,0 +1,49 @@
+{
+  "simplified": "大同区",
+  "traditional": "大同区",
+  "pinyin": "Dàtóng Qū",
+  "english": "Datong District, Taipei",
+  "etymology": {
+    "type": "compound word (proper noun)",
+    "description": "大 (great) + 同 (together; unity) + 区/區 (district) = Datong District (Taipei)",
+    "interpretation": "Proper name of a Taipei district; 大同 evokes the classical ideal of “Great Unity,” and 区/區 marks it as an administrative district. In context it refers specifically to Taipei’s Datong District.",
+    "simplification": "區 was simplified to 区 in Mainland Chinese to reduce strokes; Taiwan officially writes the district as 大同區."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big;great;major;eldest"
+    },
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same;together;alike;with"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area;district;region;to divide"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我住在台北市大同区(我住在臺北市大同區)。",
+      "pinyin": "Wǒ zhù zài Táiběi Shì Dàtóng Qū.",
+      "english": "I live in Datong District, Taipei."
+    },
+    {
+      "chinese": "大同区拥有迪化街等历史街区(大同區擁有迪化街等歷史街區)。",
+      "pinyin": "Dàtóng Qū yōngyǒu Díhuà Jiē děng lìshǐ jiēqū.",
+      "english": "Datong District has historic streets such as Dihua Street."
+    },
+    {
+      "chinese": "我们去大同区逛年货大街吧(我們去大同區逛年貨大街吧)。",
+      "pinyin": "Wǒmen qù Dàtóng Qū guàng niánhuò dàjiē ba.",
+      "english": "Let's go stroll the New Year goods street in Datong District."
+    }
+  ]
+}

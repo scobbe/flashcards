@@ -11,17 +11,17 @@
   },
   "examples": [
     {
-      "chinese": "他独自彳亍在小巷中，思绪万千(他獨自彳亍在小巷中，思緒萬千)。",
+      "chinese": "他独自彳亍在小巷中(他獨自彳亍在小巷中)，思绪万千(思緒萬千)。",
       "pinyin": "Tā dúzì chìchù zài xiǎoxiàng zhōng, sīxù wànqiān.",
       "english": "He wandered slowly in the alley, lost in thought."
     },
     {
-      "chinese": "彳是部首之一，常见于表示行走的字(彳是部首之一，常見於表示行走的字)。",
+      "chinese": "彳是部首之一(彳是部首之一)，常见于表示行走的字(常見於表示行走的字)。",
       "pinyin": "Chì shì bùshǒu zhī yī, chángjiàn yú biǎoshì xíngzǒu de zì.",
       "english": "Rěn is one of the radicals, often seen in characters related to walking."
     },
     {
-      "chinese": "字典将“彳”读作“chì”，义为“行走、步”(字典將「彳」讀作「chì」，義為「行走、步」)。",
+      "chinese": "字典将“彳”读作“chì”(字典將「彳」讀作「chì」)，义为“行走(義為「行走)、步”(步」)。",
       "pinyin": "Zìdiǎn jiāng “chì” dúzuò “chì”, yìwéi “xíngzǒu, bù”.",
       "english": "Dictionaries read “彳” as “chì,” meaning “to walk; step.”"
     }

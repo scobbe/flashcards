@@ -45,8 +45,7 @@
   - 银价今天上涨了(銀價今天上漲了)。
     - Yínjià jīntiān shàngzhǎng le.
     - The price of silver rose today.
-### 金
-#### 银 → 金
+### 银(銀) → 金
 - **pinyin:** jīn
 - **definition:** gold; metal
 - **components:**
@@ -73,8 +72,7 @@
   - 铜是常见的金属(銅是常見的金屬)。
     - Tóng shì chángjiàn de jīnshǔ.
     - Copper is a common metal.
-### 士
-#### 银 → 金 → 士
+### 银(銀) → 金 → 士
 - **pinyin:** shì
 - **definition:** scholar; gentleman; soldier
 - **etymology:**
@@ -91,8 +89,7 @@
   - 古代的士人重视礼仪(古代的士人重視禮儀)。
     - Gǔdài de shìrén zhòngshì lǐyí.
     - In ancient times, scholar-gentry valued ritual propriety.
-### 吕(呂)
-#### 银 → 金 → 吕
+### 银(銀) → 金 → 吕(呂)
 - **pinyin:** lǚ
 - **definition:** surname Lü; spine; musical pitch
 - **components:**
@@ -114,8 +111,7 @@
   - 我们要去吕宋旅游(我們要去呂宋旅遊)。
     - Wǒmen yào qù Lǚsòng lǚyóu.
     - We are going to travel to Luzon.
-### 口
-#### 银 → 金 → 吕 → 口
+### 银(銀) → 金 → 吕(呂) → 口
 - **pinyin:** kǒu
 - **definition:** mouth
 - **etymology:**
@@ -123,7 +119,7 @@
   - **description:** Pictogram (象形) – resembles an open mouth.
   - **interpretation:** A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.
 - **examples:**
-  - 他张开口，说了几句(他張開口，說了幾句)。
+  - 他张开口(他張開口)，说了几句(說了幾句)。
     - Tā zhāngkāi kǒu, shuō le jǐ jù.
     - He opened his mouth and said a few sentences.
   - 一家三口住在这个小城(一家三口住在這個小城)。
@@ -132,8 +128,7 @@
   - 她咬了一口苹果(她咬了一口蘋果)。
     - Tā yǎo le yì kǒu píngguǒ.
     - She took a bite of the apple.
-### 今
-#### 银 → 金 → 今
+### 银(銀) → 金 → 今
 - **pinyin:** jīn
 - **definition:** now; today
 - **components:**
@@ -157,8 +152,7 @@
   - 如今很少有人写信了(如今很少有人寫信了)。
     - Rújīn hěn shǎo yǒu rén xiě xìn le.
     - Nowadays few people write letters.
-### 曰
-#### 银 → 金 → 今 → 曰
+### 银(銀) → 金 → 今 → 曰
 - **pinyin:** yuē
 - **definition:** to say; to speak
 - **components:**
@@ -173,17 +167,16 @@
   - **description:** mouth 口 with word/breath 一 coming out
   - **interpretation:** Depicts a mouth with a short stroke representing breath or words emerging, conveying the act of speaking. Used as a verb of quotation in Classical Chinese and seen in fixed patterns like 子曰.
 - **examples:**
-  - 子曰：“学而时习之，不亦说乎？”(子曰：「學而時習之，不亦說乎？」)
+  - 子曰：“学而时习之(子曰：「學而時習之)，不亦说乎？”(不亦說乎？」)
     - Zǐ yuē: “Xué ér shí xí zhī, bù yì yuè hū?”
     - Confucius said, “Is it not a pleasure to learn and practice at due times?”
   - 甲曰：“可以。”乙曰：“不可。”(甲曰：「可以。」乙曰：「不可。」)
     - Jiǎ yuē: “Kěyǐ.” Yǐ yuē: “Bùkě.”
     - A said, “Okay.” B said, “No.”
-  - 此地名曰桃花源。(此地名曰桃花源。)
+  - 此地名曰桃花源(此地名曰桃花源)。
     - Cǐ dì míng yuē Táohuāyuán.
     - This place is called Peach Blossom Spring.
-### 一
-#### 银 → 金 → 今 → 曰 → 一
+### 银(銀) → 金 → 今 → 曰 → 一
 - **pinyin:** yī
 - **definition:** one
 - **etymology:**
@@ -200,8 +193,7 @@
   - 一个问题都没有(一個問題都沒有)。
     - Yí gè wèntí dōu méiyǒu.
     - There isn’t a single problem.
-### 艮
-#### 银 → 艮
+### 银(銀) → 艮
 - **pinyin:** gèn
 - **definition:** stopping; Gen trigram
 - **components:**
@@ -219,14 +211,13 @@
   - 《易经》中的艮卦象征止与山(《易經》中的艮卦象徵止與山)。
     - «Yìjīng» zhōng de Gèn guà xiàngzhēng zhǐ yǔ shān.
     - In the Yijing, the Gen trigram symbolizes stopping and the mountain.
-  - 他猛然回头而止步，正合艮之意(他猛然回頭而止步，正合艮之意)。
+  - 他猛然回头而止步(他猛然回頭而止步)，正合艮之意(正合艮之意)。
     - Tā měngrán huítóu ér zhǐbù, zhèng hé Gèn zhī yì.
     - He suddenly looked back and stopped, which perfectly matches the sense of gen.
-  - 风水罗盘上有艮位，代表东北方(風水羅盤上有艮位，代表東北方)。
+  - 风水罗盘上有艮位(風水羅盤上有艮位)，代表东北方(代表東北方)。
     - Fēngshuǐ luópán shàng yǒu Gèn wèi, dàibiǎo dōngběi fāng.
     - On a feng shui compass there is the Gen position, representing the northeast.
-### 目
-#### 银 → 艮 → 目
+### 银(銀) → 艮 → 目
 - **pinyin:** mù
 - **definition:** eye
 - **etymology:**
@@ -243,8 +234,7 @@
   - 你的目的是什么(你的目的是什麼)？
     - Nǐ de mùdì shì shénme?
     - What is your purpose?
-### 人
-#### 银 → 艮 → 人
+### 银(銀) → 艮 → 人
 - **pinyin:** rén
 - **definition:** person
 - **etymology:**
@@ -289,8 +279,7 @@
   - 世界人口已经超过八十亿(世界人口已經超過八十億)。
     - Shìjiè rénkǒu yǐjīng chāoguò bāshí yì.
     - The world population has exceeded 8 billion.
-### 人
-#### 人口 → 人
+### 人口 → 人
 - **pinyin:** rén
 - **definition:** person;people;human;someone
 - **etymology:**
@@ -307,8 +296,7 @@
   - 这里有三个人(這裡有三個人)。
     - Zhèlǐ yǒu sān gè rén.
     - There are three people here.
-### 口
-#### 人口 → 口
+### 人口 → 口
 - **pinyin:** kǒu
 - **definition:** mouth;opening;classifier for people in a family;entrance
 - **etymology:**
@@ -316,7 +304,7 @@
   - **description:** Pictogram (象形) – resembles an open mouth.
   - **interpretation:** A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.
 - **examples:**
-  - 他张开口，说了几句(他張開口，說了幾句)。
+  - 他张开口(他張開口)，说了几句(說了幾句)。
     - Tā zhāngkāi kǒu, shuō le jǐ jù.
     - He opened his mouth and said a few sentences.
   - 一家三口住在这个小城(一家三口住在這個小城)。
@@ -354,8 +342,7 @@
   - 别在图书馆大声说话(別在圖書館大聲說話)
     - bié zài túshūguǎn dàshēng shuōhuà
     - Don’t speak loudly in the library.
-### 说(說)
-#### 说话 → 说
+### 说话(說話) → 说(說)
 - **pinyin:** shuō
 - **definition:** to speak; to say; to explain; to persuade
 - **components:**
@@ -380,8 +367,7 @@
   - 他用例子说明问题(他用例子說明問題)。
     - Tā yòng lìzi shuōmíng wèntí.
     - He explained the issue with examples.
-### 言
-#### 说话 → 说 → 言
+### 说话(說話) → 说(說) → 言
 - **pinyin:** yán
 - **definition:** speech; words
 - **components:**
@@ -402,11 +388,10 @@
   - 他发言很简短(他發言很簡短)。
     - Tā fāyán hěn jiǎnduǎn.
     - His remarks were brief.
-  - 言行一致，方能取信于人(言行一致，方能取信於人)。
+  - 言行一致(言行一致)，方能取信于人(方能取信於人)。
     - Yán xíng yízhì, fāng néng qǔxìn yú rén.
     - Only by matching words with deeds can one gain others’ trust.
-### 舌
-#### 说话 → 说 → 言 → 舌
+### 说话(說話) → 说(說) → 言 → 舌
 - **pinyin:** shé
 - **definition:** tongue
 - **components:**
@@ -427,8 +412,7 @@
   - 紧张得他舌头打结了(緊張得他舌頭打結了)。
     - Jǐnzhāng de tā shétou dǎjié le.
     - He was so nervous that his tongue got tied.
-### 口
-#### 说话 → 说 → 言 → 舌 → 口
+### 说话(說話) → 说(說) → 言 → 舌 → 口
 - **pinyin:** kǒu
 - **definition:** mouth
 - **etymology:**
@@ -436,7 +420,7 @@
   - **description:** Pictogram (象形) – resembles an open mouth.
   - **interpretation:** A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.
 - **examples:**
-  - 他张开口，说了几句(他張開口，說了幾句)。
+  - 他张开口(他張開口)，说了几句(說了幾句)。
     - Tā zhāngkāi kǒu, shuō le jǐ jù.
     - He opened his mouth and said a few sentences.
   - 一家三口住在这个小城(一家三口住在這個小城)。
@@ -445,8 +429,7 @@
   - 她咬了一口苹果(她咬了一口蘋果)。
     - Tā yǎo le yì kǒu píngguǒ.
     - She took a bite of the apple.
-### 兑(兌)
-#### 说话 → 说 → 兑
+### 说话(說話) → 说(說) → 兑(兌)
 - **pinyin:** duì
 - **definition:** exchange; convert
 - **components:**
@@ -477,8 +460,7 @@
   - 请到服务台办理外币兑换(請到服務台辦理外幣兌換)。
     - Qǐng dào fúwùtái bànlǐ wàibì duìhuàn.
     - Please go to the service counter to handle foreign currency exchange.
-### 八
-#### 说话 → 说 → 兑 → 八
+### 说话(說話) → 说(說) → 兑(兌) → 八
 - **pinyin:** bā
 - **definition:** eight
 - **etymology:**
@@ -495,8 +477,7 @@
   - 我买了八个苹果(我買了八個蘋果)。
     - Wǒ mǎi le bā gè píngguǒ.
     - I bought eight apples.
-### 人
-#### 说话 → 说 → 兑 → 人
+### 说话(說話) → 说(說) → 兑(兌) → 人
 - **pinyin:** rén
 - **definition:** person
 - **etymology:**
@@ -513,8 +494,7 @@
   - 这里有三个人(這裡有三個人)。
     - Zhèlǐ yǒu sān gè rén.
     - There are three people here.
-### 儿(兒)
-#### 说话 → 说 → 兑 → 儿
+### 说话(說話) → 说(說) → 兑(兌) → 儿(兒)
 - **pinyin:** ér
 - **definition:** child; son
 - **components:**
@@ -539,8 +519,7 @@
   - 这些电影很适合儿童观看(這些電影很適合兒童觀看)。
     - Zhèxiē diànyǐng hěn shìhé értóng guānkàn.
     - These movies are very suitable for children to watch.
-### 臼
-#### 说话 → 说 → 兑 → 儿 → 臼
+### 说话(說話) → 说(說) → 兑(兌) → 儿(兒) → 臼
 - **pinyin:** jiù
 - **definition:** mortar
 - **etymology:**
@@ -557,8 +536,7 @@
   - 实验室里常用研钵和研杵(實驗室裡常用研鉢和研杵)。
     - Shíyànshì lǐ cháng yòng yánbō hé yánchǔ.
     - In laboratories, a mortar and pestle are commonly used.
-### 话(話)
-#### 说话 → 话
+### 说话(說話) → 话(話)
 - **pinyin:** huà
 - **definition:** speech; words; talk; dialect
 - **components:**
@@ -614,8 +592,7 @@
   - 我得走了(我得走了)。
     - Wǒ děi zǒu le.
     - I have to go now.
-### 彳
-#### 得 → 彳
+### 得 → 彳
 - **pinyin:** chì
 - **definition:** step; to walk
 - **etymology:**
@@ -623,17 +600,16 @@
   - **description:** Simplified from 行: the left side of the crossroads pictogram as seen from above; cf. the top component of 辵.
   - **interpretation:** Derived by isolating the left half of 行, an overhead view of a crossroads. The form came to signify a single step and, by extension, walking; it parallels the abbreviated top of 辵 in motion-related characters.
 - **examples:**
-  - 他独自彳亍在小巷中，思绪万千(他獨自彳亍在小巷中，思緒萬千)。
+  - 他独自彳亍在小巷中(他獨自彳亍在小巷中)，思绪万千(思緒萬千)。
     - Tā dúzì chìchù zài xiǎoxiàng zhōng, sīxù wànqiān.
     - He wandered slowly in the alley, lost in thought.
-  - 彳是部首之一，常见于表示行走的字(彳是部首之一，常見於表示行走的字)。
+  - 彳是部首之一(彳是部首之一)，常见于表示行走的字(常見於表示行走的字)。
     - Chì shì bùshǒu zhī yī, chángjiàn yú biǎoshì xíngzǒu de zì.
     - Rěn is one of the radicals, often seen in characters related to walking.
-  - 字典将“彳”读作“chì”，义为“行走、步”(字典將「彳」讀作「chì」，義為「行走、步」)。
+  - 字典将“彳”读作“chì”(字典將「彳」讀作「chì」)，义为“行走(義為「行走)、步”(步」)。
     - Zìdiǎn jiāng “chì” dúzuò “chì”, yìwéi “xíngzǒu, bù”.
     - Dictionaries read “彳” as “chì,” meaning “to walk; step.”
-### 贝(貝)
-#### 得 → 贝
+### 得 → 贝(貝)
 - **pinyin:** bèi
 - **definition:** cowry; money
 - **etymology:**
@@ -651,8 +627,7 @@
   - 这串项链(這串項鍊)是用贝(貝)做的。
     - Zhè chuàn xiàngliàn shì yòng bèi zuò de.
     - This necklace is made of shells.
-### 又
-#### 得 → 又
+### 得 → 又
 - **pinyin:** yòu
 - **definition:** again; right hand
 - **etymology:**

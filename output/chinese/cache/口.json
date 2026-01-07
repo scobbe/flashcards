@@ -11,7 +11,7 @@
   },
   "examples": [
     {
-      "chinese": "他张开口，说了几句(他張開口，說了幾句)。",
+      "chinese": "他张开口(他張開口)，说了几句(說了幾句)。",
       "pinyin": "Tā zhāngkāi kǒu, shuō le jǐ jù.",
       "english": "He opened his mouth and said a few sentences."
     },

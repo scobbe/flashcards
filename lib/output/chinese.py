@@ -335,7 +335,7 @@ def generate_card_content(
 - interpretation: Your own 2-3 sentence explanation based on the description. Don't start with "The character..."
 - simplification: Why this was simplified (intuition/reasoning), or "none" if traditional = simplified
 - parts: array of component chars [{char, trad, pinyin, english}], standalone chars only (not radicals like 氵), exclude headword
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format 简(繁) per clause, e.g. 我吃饭(我吃飯)。"""
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 or 秋收时(秋收時)，农夫割草(農夫割草)。"""
         user = f"Character: {simplified}"
         if traditional and traditional != simplified:
             user += f" (trad: {traditional})"
@@ -349,7 +349,7 @@ def generate_card_content(
 - interpretation: 1-2 sentences, don't start with "The word..."
 - simplification: Why this word was simplified (intuition), or "none" if traditional = simplified
 - parts: array of character breakdown [{char, trad, pinyin, english}], each char's pinyin (tone marks) and up to 4 meanings (semicolon-separated)
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format 简(繁) per clause"""
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 or 秋收时(秋收時)，农夫割草(農夫割草)。"""
         user = f"Word: {simplified}"
         if traditional and traditional != simplified:
             user += f" (trad: {traditional})"
@@ -429,15 +429,15 @@ def _write_single_card(
     etymology: Optional[Dict[str, str]] = None,
     examples: Optional[List[Tuple[str, str, str]]] = None,
     is_subcard: bool = False,
-    breadcrumbs: Optional[List[str]] = None,
+    breadcrumbs: Optional[List[Tuple[str, str]]] = None,
 ) -> None:
     """Write a single card section to parts list.
 
     Args:
         is_subcard: If True, this is a recursive sub-card (uses ### heading, no --- divider).
-        breadcrumbs: List of Chinese characters showing the path to this sub-component.
+        breadcrumbs: List of (simplified, traditional) tuples showing the path to this sub-component.
     """
-    # Build Chinese heading
+    # Build Chinese heading with traditional in parens if different
     if traditional and traditional != simplified:
         chinese_heading = f"{simplified}({traditional})"
     else:
@@ -445,11 +445,20 @@ def _write_single_card(
 
     # Use ### for sub-cards, ## for main cards
     if is_subcard:
-        parts.append(f"### {chinese_heading}")
-        # Add breadcrumbs as sub-header, including current character
         if breadcrumbs:
-            breadcrumb_trail = ' → '.join(breadcrumbs + [simplified])
-            parts.append(f"#### {breadcrumb_trail}")
+            # Build breadcrumb trail with traditional forms: 西门町(西門町) → 门(門)
+            breadcrumb_parts = []
+            for simp, trad in breadcrumbs:
+                if trad and trad != simp:
+                    breadcrumb_parts.append(f"{simp}({trad})")
+                else:
+                    breadcrumb_parts.append(simp)
+            # Add current character with traditional
+            breadcrumb_parts.append(chinese_heading)
+            breadcrumb_trail = ' → '.join(breadcrumb_parts)
+            parts.append(f"### {breadcrumb_trail}")
+        else:
+            parts.append(f"### {chinese_heading}")
     else:
         parts.append(f"## {chinese_heading}")
         parts.append(FRONT_BACK_DIVIDER)
@@ -531,7 +540,7 @@ def _generate_recursive_component_cards(
     depth: int,
     max_depth: int,
     verbose: bool,
-    breadcrumbs: Optional[List[str]] = None,
+    breadcrumbs: Optional[List[Tuple[str, str]]] = None,
     out_dir: Optional[Path] = None,
     parent_word: Optional[str] = None,
     errors: Optional[List[str]] = None,
@@ -540,6 +549,9 @@ def _generate_recursive_component_cards(
 
     Uses depth-first traversal in component list order.
     Returns list of error messages for any failed sub-components.
+
+    Args:
+        breadcrumbs: List of (simplified, traditional) tuples showing parent path.
     """
     if errors is None:
         errors = []
@@ -579,8 +591,8 @@ def _generate_recursive_component_cards(
                 verbose=verbose,
             )
 
-        # Current breadcrumbs for this component
-        current_breadcrumbs = breadcrumbs + [comp_simp]
+        # Current breadcrumbs for this component (include traditional)
+        current_breadcrumbs = breadcrumbs + [(comp_simp, comp_trad)]
 
         # Write card for this component (as a sub-card)
         _write_single_card(
@@ -655,8 +667,8 @@ def write_card_md(
     visited: Set[str] = {simplified}
 
     if len(cjk_chars) < 5:
-        # Initial breadcrumb is the main word
-        initial_breadcrumb = [simplified]
+        # Initial breadcrumb is the main word (simplified, traditional)
+        initial_breadcrumb = [(simplified, traditional)]
 
         if len(cjk_chars) == 1 and components:
             # Single character: recurse into components
@@ -698,8 +710,8 @@ def write_card_md(
                         verbose=verbose,
                     )
 
-                # Breadcrumbs for this character
-                char_breadcrumbs = initial_breadcrumb + [ch_simp]
+                # Breadcrumbs for this character (include traditional)
+                char_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
 
                 # Write card for this character (as sub-card)
                 _write_single_card(

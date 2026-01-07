@@ -1,0 +1,29 @@
+{
+  "simplified": "大",
+  "traditional": "大",
+  "pinyin": "dà",
+  "english": "big;great;major;eldest",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a person facing forward; original form of 夫, later phonetically borrowed for “big”.",
+    "interpretation": "Originally depicts a human figure viewed from the front, not necessarily with exaggerated outstretched arms. The graph was later borrowed to write the word pronounced dà ‘big’, while 夫 specialized for ‘man’. The modern shape still evokes a torso with two legs and an arm stroke.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "这个房间很大(這個房間很大)。",
+      "pinyin": "Zhège fángjiān hěn dà.",
+      "english": "This room is very big."
+    },
+    {
+      "chinese": "他是我们家最大的孩子(他是我們家最大的孩子)。",
+      "pinyin": "Tā shì wǒmen jiā zuì dà de háizi.",
+      "english": "He is the eldest child in our family."
+    },
+    {
+      "chinese": "大学开学了(大學開學了)。",
+      "pinyin": "Dàxué kāixué le.",
+      "english": "The university term has begun."
+    }
+  ]
+}

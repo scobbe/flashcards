@@ -1,0 +1,29 @@
+{
+  "simplified": "丁",
+  "traditional": "丁",
+  "pinyin": "dīng",
+  "english": "fourth heavenly stem; adult male",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形); different theories exist; see also 旦",
+    "interpretation": "Often explained as the silhouette of a nail or spike, or a simple vertical post with a cap-like head. Its extremely simple form was later borrowed to label the fourth Heavenly Stem, and by administrative extension it came to denote an adult male for census/tax purposes.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "甲乙丙丁是天干的前四位(甲乙丙丁是天干的前四位)。",
+      "pinyin": "Jiǎ Yǐ Bǐng Dīng shì tiāngān de qián sì wèi.",
+      "english": "Jiǎ, Yǐ, Bǐng, Dīng are the first four of the Heavenly Stems."
+    },
+    {
+      "chinese": "他出生在丁亥年(他出生在丁亥年)。",
+      "pinyin": "Tā chūshēng zài Dīnghài nián.",
+      "english": "He was born in the year of Dīnghài."
+    },
+    {
+      "chinese": "本县有三千丁(本縣有三千丁)。",
+      "pinyin": "Běn xiàn yǒu sān qiān dīng.",
+      "english": "This county has three thousand adult males."
+    }
+  ]
+}

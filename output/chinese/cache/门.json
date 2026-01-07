@@ -1,0 +1,29 @@
+{
+  "simplified": "门",
+  "traditional": "門",
+  "pinyin": "mén",
+  "english": "door; gate; entrance; classifier for subjects/branches",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a gate; compare 戶 “(one) door”, half of the character.",
+    "interpretation": "Depicts a pair of swinging doors within a frame, representing a gate or entrance. Traditional 門 shows two door leaves; simplified 门 keeps the frame and a central stroke, preserving the concept of an opening.",
+    "simplification": "Reduced stroke count by collapsing the inner leaves to a single vertical line and straightening the frame; standardized as the common radical form in simplified characters."
+  },
+  "examples": [
+    {
+      "chinese": "请把门关上(請把門關上)。",
+      "pinyin": "Qǐng bǎ mén guān shàng.",
+      "english": "Please close the door."
+    },
+    {
+      "chinese": "他选了三门课程(他選了三門課程)。",
+      "pinyin": "Tā xuǎn le sān mén kèchéng.",
+      "english": "He chose three courses."
+    },
+    {
+      "chinese": "我在门口等你(我在門口等你)。",
+      "pinyin": "Wǒ zài ménkǒu děng nǐ.",
+      "english": "I'll wait for you at the entrance."
+    }
+  ]
+}
