@@ -287,14 +287,15 @@ def generate_card_content(
     wiktionary_etymology: Optional[str] = None,
     model: Optional[str] = None,
     verbose: bool = False,
-) -> Tuple[Dict[str, str], List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]]]:
+) -> Tuple[Dict[str, str], List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]], bool]:
     """Generate all card content in a single API call.
 
-    Returns (etymology_dict, components, character_breakdown, examples).
+    Returns (etymology_dict, components, character_breakdown, examples, from_cache).
     - etymology_dict: {type, description, interpretation}
     - components: For single chars, list of (simp, trad, pinyin, english) component tuples
     - character_breakdown: For multi-char words, list of (simp, trad, pinyin, english) for each char
     - examples: list of (chinese, pinyin, english) example sentence tuples
+    - from_cache: True if data was loaded from cache, False if newly generated
     """
     word = simplified or traditional
     cjk_chars = [ch for ch in simplified if is_cjk_char(ch)]
@@ -321,7 +322,7 @@ def generate_card_content(
                     ex.get("pinyin", ""),
                     ex.get("english", ""),
                 ))
-        return etymology, components, char_breakdown, examples
+        return etymology, components, char_breakdown, examples, True  # from_cache=True
 
     client = OpenAIClient(model=model)
 
@@ -366,7 +367,7 @@ def generate_card_content(
         if not data or data == {}:
             print(f"[chinese] [ERROR] API returned empty response for {simplified}")
             # Return error indicator in etymology
-            return {"error": f"API returned empty response for {simplified}"}, [], [], []
+            return {"error": f"API returned empty response for {simplified}"}, [], [], [], False
 
         # Parse etymology (includes simplification reasoning)
         simplification = str(data.get("simplification", "")).strip()
@@ -409,12 +410,12 @@ def generate_card_content(
                 if ch:
                     examples.append((ch, pin, eng))
 
-        return etymology, components, char_breakdown, examples
+        return etymology, components, char_breakdown, examples, False  # from_cache=False
 
     except Exception as e:
         if verbose:
             print(f"[chinese] [error] Failed to generate content for {simplified}: {e}")
-        return {}, [], [], []
+        return {}, [], [], [], False
 
 
 def _write_single_card(
@@ -558,7 +559,7 @@ def _generate_recursive_component_cards(
         wiki_ety = fetch_wiktionary_etymology(comp_simp, comp_trad, verbose=verbose)
 
         # Generate all content in single API call
-        comp_etymology, sub_components, _, comp_examples = generate_card_content(
+        comp_etymology, sub_components, _, comp_examples, from_cache = generate_card_content(
             comp_simp, comp_trad, comp_pin, comp_eng,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
@@ -570,12 +571,13 @@ def _generate_recursive_component_cards(
             if out_dir and parent_word:
                 add_subcomponent_error(out_dir, parent_word, comp_simp, error_msg)
 
-        # Write complete cache entry now that we have all data
-        _write_complete_cache(
-            comp_simp, comp_simp, comp_trad, comp_pin, comp_eng,
-            etymology=comp_etymology, components=sub_components, examples=comp_examples,
-            verbose=verbose,
-        )
+        # Write complete cache entry only if newly generated (not from cache)
+        if not from_cache:
+            _write_complete_cache(
+                comp_simp, comp_simp, comp_trad, comp_pin, comp_eng,
+                etymology=comp_etymology, components=sub_components, examples=comp_examples,
+                verbose=verbose,
+            )
 
         # Current breadcrumbs for this component
         current_breadcrumbs = breadcrumbs + [comp_simp]
@@ -677,7 +679,7 @@ def write_card_md(
                 ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
 
                 # Generate all content in single API call
-                ch_etymology, ch_components, _, ch_examples = generate_card_content(
+                ch_etymology, ch_components, _, ch_examples, from_cache = generate_card_content(
                     ch_simp, ch_trad, ch_pin, ch_eng,
                     wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
                 )
@@ -688,12 +690,13 @@ def write_card_md(
                     subcomponent_errors.append(f"{ch_simp}: {error_msg}")
                     add_subcomponent_error(out_dir, word, ch_simp, error_msg)
 
-                # Write complete cache entry now that we have all data
-                _write_complete_cache(
-                    ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
-                    etymology=ch_etymology, components=ch_components, examples=ch_examples,
-                    verbose=verbose,
-                )
+                # Write complete cache entry only if newly generated (not from cache)
+                if not from_cache:
+                    _write_complete_cache(
+                        ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
+                        etymology=ch_etymology, components=ch_components, examples=ch_examples,
+                        verbose=verbose,
+                    )
 
                 # Breadcrumbs for this character
                 char_breadcrumbs = initial_breadcrumb + [ch_simp]
@@ -779,17 +782,18 @@ def process_chinese_row(
 
         # Generate all content in single API call (etymology, components/characters, examples)
         input_examples = phrase if phrase and phrase.strip() and phrase.strip().lower() != "none" else None
-        etymology, components, characters, examples = generate_card_content(
+        etymology, components, characters, examples, from_cache = generate_card_content(
             simp, trad, pin, eng, input_examples=input_examples,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
 
-        # Write complete cache entry for main headword
-        _write_complete_cache(
-            simp or headword, simp or headword, trad or headword, pin, eng,
-            etymology=etymology, components=components, character_breakdown=characters,
-            examples=examples, verbose=verbose,
-        )
+        # Write complete cache entry for main headword only if newly generated
+        if not from_cache:
+            _write_complete_cache(
+                simp or headword, simp or headword, trad or headword, pin, eng,
+                etymology=etymology, components=components, character_breakdown=characters,
+                examples=examples, verbose=verbose,
+            )
 
         # Write card (handles recursive component generation internally)
         md_path, subcomponent_errors = write_card_md(
@@ -860,7 +864,8 @@ def process_chinese_folder(
     else:
         rows = read_parsed_input(parsed_path)
         # Skip sub-words (relation field not empty)
-        all_rows = [(idx, 0, s, t, p, e, ph, r) for idx, (s, t, p, e, ph, r) in enumerate(rows, start=1) if not r.strip()]
+        # Compute chunk_num from index (50 entries per chunk)
+        all_rows = [(idx, ((idx - 1) // 50) + 1, s, t, p, e, ph, r) for idx, (s, t, p, e, ph, r) in enumerate(rows, start=1) if not r.strip()]
 
     if not all_rows:
         if verbose:
