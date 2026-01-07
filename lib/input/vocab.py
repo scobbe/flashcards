@@ -3,7 +3,7 @@
 from typing import Dict, List, Sequence, Tuple
 
 from lib.common.openai import OpenAIClient
-from lib.common.utils import is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings
+from lib.common.utils import is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings, simplified_to_traditional
 
 
 def call_openai_for_vocab_and_forms(
@@ -39,18 +39,17 @@ def call_openai_for_vocab_and_forms(
         if not isinstance(entry, dict):
             continue
         simp = keep_only_cjk(str(entry.get("simplified", "")).strip())
-        trad = keep_only_cjk(str(entry.get("traditional", "")).strip())
+        # Use hanziconv library for traditional conversion instead of OpenAI
+        trad = simplified_to_traditional(simp) if simp else ""
         if not simp and trad:
             simp = trad
-        if not trad and simp:
-            trad = simp
         if not simp:
             continue
         pinyin = str(entry.get("pinyin", "")).strip()
         english = str(entry.get("english", "")).strip()
         phrase = str(entry.get("phrase", "")).strip()
         results.append((simp, trad, pinyin, english, phrase))
-    
+
     return results
 
 
@@ -82,7 +81,9 @@ def call_openai_forms_for_words(
         for it in items:
             if isinstance(it, dict):
                 s = str(it.get("simplified", "")).strip()
-                t = str(it.get("traditional", "")).strip()
+                # Use hanziconv library for traditional conversion instead of OpenAI
+                s = "".join(ch for ch in s if is_cjk_char(ch))
+                t = simplified_to_traditional(s) if s else ""
                 # pinyin may be string or array
                 raw_p = it.get("pinyin", "")
                 if isinstance(raw_p, list):
@@ -99,17 +100,11 @@ def call_openai_forms_for_words(
                     e = " | ".join(e_list)
                 else:
                     e = str(raw_e).strip()
-                s = "".join(ch for ch in s if is_cjk_char(ch))
-                t = "".join(ch for ch in t if is_cjk_char(ch))
-                if s or t:
-                    if not s and t:
-                        s = t
-                    if not t and s:
-                        t = s
+                if s:
                     triples.append((s, t, p, e))
-    # Fallback if sizes mismatch
+    # Fallback if sizes mismatch - use hanziconv for traditional
     if len(triples) != len(words):
-        triples = [(w, w, "", "") for w in words]
+        triples = [(w, simplified_to_traditional(w), "", "") for w in words]
     return triples
 
 

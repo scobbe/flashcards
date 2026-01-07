@@ -7,6 +7,7 @@ Simplified processing that:
 """
 
 import re
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
@@ -167,19 +168,49 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
     all_etymology_parts = []
 
     for word in words_to_fetch:
-        # Fetch from Wiktionary
+        # Fetch from Wiktionary with rate limiting backoff
         url = f"https://en.wiktionary.org/wiki/{requests.utils.requote_uri(word)}"
-        try:
-            resp = requests.get(url, timeout=20, headers={
-                "User-Agent": "flashcards-script/1.0"
-            })
-            if resp.status_code != 200:
+        max_retries = 3
+        base_delay = 1.0
+
+        for attempt in range(max_retries):
+            try:
+                resp = requests.get(url, timeout=20, headers={
+                    "User-Agent": "flashcards-script/1.0"
+                })
+
+                # Handle rate limiting (429) with exponential backoff
+                if resp.status_code == 429:
+                    delay = base_delay * (2 ** attempt)
+                    if verbose:
+                        print(f"[wiktionary] [rate-limit] {word}: retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
+                    time.sleep(delay)
+                    continue
+
+                if resp.status_code != 200:
+                    if verbose:
+                        print(f"[wiktionary] [skip] {word}: status {resp.status_code}")
+                    break  # Don't retry non-429 errors
+
+                # Success - break out of retry loop
+                break
+
+            except Exception as e:
                 if verbose:
-                    print(f"[wiktionary] [skip] {word}: status {resp.status_code}")
-                continue
-        except Exception as e:
+                    print(f"[wiktionary] [error] {word}: {e}")
+                if attempt < max_retries - 1:
+                    delay = base_delay * (2 ** attempt)
+                    time.sleep(delay)
+                    continue
+                break
+        else:
+            # All retries exhausted
             if verbose:
-                print(f"[wiktionary] [error] {word}: {e}")
+                print(f"[wiktionary] [error] {word}: max retries exceeded")
+            continue
+
+        # Check if we got a successful response
+        if resp.status_code != 200:
             continue
 
         if verbose:

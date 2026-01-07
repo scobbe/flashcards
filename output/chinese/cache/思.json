@@ -1,0 +1,49 @@
+{
+  "simplified": "思",
+  "traditional": "思",
+  "pinyin": "sī",
+  "english": "think; consider; long for; thought",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 心 ‘heart’ + phonetic 囟; later 囟 corrupted to 田; also analyzed as ideogrammic 囟 ‘fontanel’ + 心.",
+    "interpretation": "Combines the heart with the head/fontanel to convey thinking and feeling. The top component appears as 田 today due to an early graphic change from 囟, which originally served as the sound and imagery source.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "囟",
+      "trad": "囟",
+      "pinyin": "xìn",
+      "english": "fontanelle (top of the skull)"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我在安静时常常思考未来(我在安靜時常常思考未來)。",
+      "pinyin": "Wǒ zài ānjìng shí chángcháng sīkǎo wèilái.",
+      "english": "I often think about the future when it’s quiet."
+    },
+    {
+      "chinese": "她思念远方的家人(她思念遠方的家人)。",
+      "pinyin": "Tā sīniàn yuǎnfāng de jiārén.",
+      "english": "She longs for her family far away."
+    },
+    {
+      "chinese": "这个想法值得深思(這個想法值得深思)，我们再考虑一下(我們再考慮一下)。",
+      "pinyin": "Zhège xiǎngfǎ zhídé shēnsī, wǒmen zài kǎolǜ yīxià.",
+      "english": "This idea merits deep thought; let’s consider it again."
+    }
+  ]
+}
