@@ -230,8 +230,8 @@ def main(argv: Optional[List[str]] = None) -> int:
 
         # Map dry-run options to config paths
         all_configs = {
-            "english": project_root / "output/dry-run/english/input" / CONFIG_FILENAME,
-            "chinese": project_root / "output/dry-run/chinese/input" / CONFIG_FILENAME,
+            "english": project_root / "output/english/dry-run/input" / CONFIG_FILENAME,
+            "chinese": project_root / "output/chinese/dry-run/input" / CONFIG_FILENAME,
         }
 
         # Determine which configs to run
