@@ -93,13 +93,13 @@ def _normalize_state(value: Any) -> str:
     return PENDING
 
 
-def _compute_stats(file_status: Dict[str, str]) -> Dict[str, Any]:
+def _compute_stats(file_status: Dict[str, str], error_details: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
     """Compute manifest statistics."""
     complete = sum(1 for v in file_status.values() if v == COMPLETE)
     in_progress = sum(1 for v in file_status.values() if v == IN_PROGRESS)
     pending = sum(1 for v in file_status.values() if v == PENDING)
     error = sum(1 for v in file_status.values() if v == ERROR)
-    return {
+    result = {
         "file_status": file_status,
         "complete": complete,
         "in_progress": in_progress,
@@ -107,6 +107,9 @@ def _compute_stats(file_status: Dict[str, str]) -> Dict[str, Any]:
         "error": error,
         "complete_contiguous": _compute_complete_contiguous(file_status),
     }
+    if error_details:
+        result["error_details"] = error_details
+    return result
 
 
 def _load_manifest(path: Path) -> Dict[str, Any]:
@@ -123,15 +126,16 @@ def _load_manifest(path: Path) -> Dict[str, Any]:
             # Ensure file_status exists and normalize states
             raw_status = data.get("file_status", {})
             file_status = {k: _normalize_state(v) for k, v in raw_status.items()}
-            return _compute_stats(file_status)
+            error_details = data.get("error_details", {})
+            return _compute_stats(file_status, error_details)
     except Exception:
         pass
     return {"file_status": {}, "complete": 0, "in_progress": 0, "pending": 0, "error": 0, "complete_contiguous": 0}
 
 
-def _save_manifest(path: Path, file_status: Dict[str, str]) -> None:
+def _save_manifest(path: Path, file_status: Dict[str, str], error_details: Optional[Dict[str, str]] = None) -> None:
     """Save a manifest file, computing stats."""
-    output = _compute_stats(file_status)
+    output = _compute_stats(file_status, error_details)
     path.write_text(
         json.dumps(output, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8"
@@ -301,13 +305,16 @@ def mark_word_complete(output_dir: Path, word: str) -> None:
         save_output_manifest(output_dir, file_status)
 
 
-def mark_word_error(output_dir: Path, word: str) -> None:
-    """Mark a word as error."""
+def mark_word_error(output_dir: Path, word: str, error_message: Optional[str] = None) -> None:
+    """Mark a word as error, optionally with an error message."""
     with MANIFEST_LOCK:
         manifest = load_output_manifest(output_dir)
         file_status = manifest.get("file_status", {})
+        error_details = manifest.get("error_details", {})
         file_status[word] = ERROR
-        save_output_manifest(output_dir, file_status)
+        if error_message:
+            error_details[word] = error_message
+        _save_manifest(output_manifest_path(output_dir), file_status, error_details)
 
 
 def mark_word_incomplete(output_dir: Path, word: str) -> None:
@@ -352,6 +359,21 @@ def get_error_words(output_dir: Path) -> Set[str]:
     manifest = load_output_manifest(output_dir)
     file_status = manifest.get("file_status", {})
     return {w for w, state in file_status.items() if state == ERROR}
+
+
+def add_subcomponent_error(output_dir: Path, parent_word: str, subcomponent: str, error_message: str) -> None:
+    """Add a sub-component error to the manifest.
+
+    Tracks errors for sub-components (like 吕 in 金 in 银) without changing the parent word's status.
+    Errors are stored in error_details with key format "parent→subcomponent".
+    """
+    with MANIFEST_LOCK:
+        manifest = load_output_manifest(output_dir)
+        file_status = manifest.get("file_status", {})
+        error_details = manifest.get("error_details", {})
+        error_key = f"{parent_word}→{subcomponent}"
+        error_details[error_key] = error_message
+        _save_manifest(output_manifest_path(output_dir), file_status, error_details)
 
 
 def migrate_manifest(path: Path) -> bool:

@@ -1,0 +1,43 @@
+{
+  "simplified": "说",
+  "traditional": "說",
+  "pinyin": "shuō",
+  "english": "to speak; to say; to explain; to persuade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 言 + phonetic: 兌; simplified from 説 with 訁 → 讠",
+    "interpretation": "Combines the speech element 言, signaling meanings related to speaking, with the phonetic 兌, which contributes the sound and also evokes exchanging words. The simplified form keeps the same phonetic series (兑) while streamlining the speech component to the abbreviated 讠.",
+    "simplification": "Abbreviated the left-side 言 component to 讠 and adopted the 兑-form of the phonetic series, reducing strokes and unifying the speech radical across characters."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech; words"
+    },
+    {
+      "char": "兑",
+      "trad": "兌",
+      "pinyin": "duì",
+      "english": "exchange; convert"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我会说中文(我會說中文)。",
+      "pinyin": "Wǒ huì shuō Zhōngwén.",
+      "english": "I can speak Chinese."
+    },
+    {
+      "chinese": "老师说今天不用上课(老師說今天不用上課)。",
+      "pinyin": "Lǎoshī shuō jīntiān bùyòng shàngkè.",
+      "english": "The teacher said there’s no class today."
+    },
+    {
+      "chinese": "他用例子说明问题(他用例子說明問題)。",
+      "pinyin": "Tā yòng lìzi shuōmíng wèntí.",
+      "english": "He explained the issue with examples."
+    }
+  ]
+}

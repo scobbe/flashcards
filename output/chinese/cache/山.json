@@ -1,0 +1,29 @@
+{
+  "simplified": "山",
+  "traditional": "山",
+  "pinyin": "shān",
+  "english": "mountain",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) — three mountain peaks; oracle forms show triangles rather than vertical strokes. Unrelated to 出, the top of 岁/豐, 屮, and 巾.",
+    "interpretation": "A visual sketch of a jagged ridge: one tall central peak flanked by two smaller ones. Earlier inscriptions rendered the peaks as simple triangles that later regularized into three vertical lines. Similar-looking forms like 出 or elements in 岁/豐 are lookalikes with no historical connection.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我们去爬山(我們去爬山)。",
+      "pinyin": "Wǒmen qù pá shān.",
+      "english": "We’re going to hike/climb in the mountains."
+    },
+    {
+      "chinese": "那座山很高(那座山很高)。",
+      "pinyin": "Nà zuò shān hěn gāo.",
+      "english": "That mountain is very tall."
+    },
+    {
+      "chinese": "山上有很多树(山上有很多樹)。",
+      "pinyin": "Shān shàng yǒu hěn duō shù.",
+      "english": "There are many trees on the mountain."
+    }
+  ]
+}

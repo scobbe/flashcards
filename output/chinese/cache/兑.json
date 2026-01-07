@@ -1,0 +1,55 @@
+{
+  "simplified": "兑",
+  "traditional": "兌",
+  "pinyin": "duì",
+  "english": "exchange; convert",
+  "etymology": {
+    "type": "ideogrammic compound (会意)",
+    "description": "八 (“speech/breath”) + 口 (“mouth”) + 人 (“person”); original character of 說/悦. Shuowen alternative: phono-semantic—phonetic 㕣 + semantic 儿.",
+    "interpretation": "Combines breath and a mouth above a person, picturing someone speaking; this underlies early senses like ‘to speak’ or ‘to be pleased by words.’ Later, the sense extended to negotiating or settling, leading to modern meanings like ‘exchange’ or ‘redeem’ in finance.",
+    "simplification": "Simplified as 兑 from 兌 by adopting a streamlined graphic variant with fewer strokes and regularized components; meaning unchanged."
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; son"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我想把美元兑成人民币(我想把美元兌成人民幣)。",
+      "pinyin": "Wǒ xiǎng bǎ Měiyuán duì chéng Rénmínbì.",
+      "english": "I want to exchange US dollars into RMB."
+    },
+    {
+      "chinese": "这张支票可以到银行兑付(這張支票可以到銀行兌付)。",
+      "pinyin": "Zhè zhāng zhīpiào kěyǐ dào yínháng duìfù.",
+      "english": "This check can be cashed at the bank."
+    },
+    {
+      "chinese": "请到服务台办理外币兑换(請到服務台辦理外幣兌換)。",
+      "pinyin": "Qǐng dào fúwùtái bànlǐ wàibì duìhuàn.",
+      "english": "Please go to the service counter to handle foreign currency exchange."
+    }
+  ]
+}

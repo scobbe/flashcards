@@ -1,0 +1,43 @@
+{
+  "simplified": "银",
+  "traditional": "銀",
+  "pinyin": "yín",
+  "english": "silver",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 金 ‘metal’ + phonetic: 艮",
+    "interpretation": "Metal component 金 signals that the word refers to a metal. 艮 provides the approximate sound, helping to cue the pronunciation historically associated with yín. In the simplified form, the metal component is written with its left-side abbreviation 钅.",
+    "simplification": "Simplified from 銀 by abbreviating the metal component: 金 → 钅, following the general left-side metal radical simplification."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stopping; Gen trigram"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我买了一枚银戒指(我買了一枚銀戒指)。",
+      "pinyin": "Wǒ mǎi le yī méi yín jièzhǐ.",
+      "english": "I bought a silver ring."
+    },
+    {
+      "chinese": "这枚硬币是纯银制成的(這枚硬幣是純銀製成的)。",
+      "pinyin": "Zhè méi yìngbì shì chún yín zhìchéng de.",
+      "english": "This coin is made of pure silver."
+    },
+    {
+      "chinese": "银价今天上涨了(銀價今天上漲了)。",
+      "pinyin": "Yínjià jīntiān shàngzhǎng le.",
+      "english": "The price of silver rose today."
+    }
+  ]
+}

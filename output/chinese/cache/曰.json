@@ -1,0 +1,43 @@
+{
+  "simplified": "曰",
+  "traditional": "曰",
+  "pinyin": "yuē",
+  "english": "to say; to speak",
+  "etymology": {
+    "type": "ideogram",
+    "description": "mouth 口 with word/breath 一 coming out",
+    "interpretation": "Depicts a mouth with a short stroke representing breath or words emerging, conveying the act of speaking. Used as a verb of quotation in Classical Chinese and seen in fixed patterns like 子曰.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "子曰：“学而时习之，不亦说乎？”(子曰：「學而時習之，不亦說乎？」)",
+      "pinyin": "Zǐ yuē: “Xué ér shí xí zhī, bù yì yuè hū?”",
+      "english": "Confucius said, “Is it not a pleasure to learn and practice at due times?”"
+    },
+    {
+      "chinese": "甲曰：“可以。”乙曰：“不可。”(甲曰：「可以。」乙曰：「不可。」)",
+      "pinyin": "Jiǎ yuē: “Kěyǐ.” Yǐ yuē: “Bùkě.”",
+      "english": "A said, “Okay.” B said, “No.”"
+    },
+    {
+      "chinese": "此地名曰桃花源。(此地名曰桃花源。)",
+      "pinyin": "Cǐ dì míng yuē Táohuāyuán.",
+      "english": "This place is called Peach Blossom Spring."
+    }
+  ]
+}

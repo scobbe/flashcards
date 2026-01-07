@@ -1,79 +1,85 @@
 """English vocabulary card writing."""
 
+import json
 import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
 from lib.schema.base import FRONT_BACK_DIVIDER, CARD_DIVIDER
-from lib.common.openai import OpenAIClient
+from lib.common.openai import OpenAIClient, ENGLISH_CARD_SCHEMA
+
+# Global cache directory for English card data
+ENGLISH_CACHE_DIR = Path(__file__).parent.parent.parent.parent / "output" / "english" / "cache"
 
 
 def _sanitize_filename(name: str) -> str:
     """Sanitize a string for use as a filename.
-    
+
     Replaces invalid characters with underscores.
     """
     # Replace path separators and other problematic characters
     return re.sub(r'[/\\:*?"<>|]', '_', name)
 
 
+def _get_cache_path(word: str) -> Path:
+    """Get the cache file path for an English word."""
+    safe_word = _sanitize_filename(word)
+    return ENGLISH_CACHE_DIR / f"{safe_word}.json"
+
+
+def _read_cache(word: str, verbose: bool = False) -> Optional[Dict]:
+    """Read cached data for an English word. Returns None if not cached."""
+    cache_path = _get_cache_path(word)
+    if not cache_path.exists():
+        return None
+    try:
+        data = json.loads(cache_path.read_text(encoding="utf-8"))
+        # Validate required fields
+        if all(k in data for k in ["definition", "etymology", "history", "pronunciation"]):
+            if verbose:
+                print(f"[english] [cache] Loaded: {word}")
+            return data
+        return None
+    except Exception:
+        return None
+
+
+def _write_cache(word: str, data: Dict, verbose: bool = False) -> None:
+    """Write data to cache."""
+    ENGLISH_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_path = _get_cache_path(word)
+    cache_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if verbose:
+        print(f"[english] [cache] Saved: {word}")
+
+
 def generate_english_card_content(
     word: str,
     model: Optional[str] = None,
+    verbose: bool = False,
 ) -> Dict[str, object]:
     """Generate definition, etymology, history, and pronunciation for an English word using OpenAI.
 
     Returns a dict with keys: definition (list), etymology (list), history (list), pronunciation (str)
     """
+    # Check cache first
+    cached = _read_cache(word, verbose=verbose)
+    if cached is not None:
+        return cached
+
     client = OpenAIClient(model=model)
 
-    system = """You are an expert lexicographer. Generate flashcard content for an English vocabulary word.
-
-Return a JSON object with these keys:
-{
-  "definition": ["bullet point 1", "bullet point 2", ...],
-  "etymology": ["bullet point 1", "bullet point 2", ...],
-  "history": ["bullet point 1", "bullet point 2", ...],
-  "pronunciation": "non-technical pronunciation"
-}
-
-RULES:
-
-**definition** (1-3 bullet points):
-- Provide clear, succinct definitions
-- Use plain language, avoid jargon
-- If the word has multiple distinct meanings, list each as a separate bullet
-- Each bullet should be 1-2 lines max
-- Start each bullet with a lowercase letter (no leading dash)
-
-**etymology** (2-3 bullet points):
-- Focus ONLY on linguistic origins
-- Explain the language of origin (Greek, Latin, French, German, etc.)
-- Include the original root word(s) and their literal meaning
-- Describe how the word was formed or derived
-- Start each bullet with a lowercase letter (no leading dash)
-
-**history** (2-3 bullet points):
-- Focus ONLY on historical background, NOT linguistics
-- Include relevant dates (when it first appeared in English, key historical moments)
-- Provide historical context (what was happening when this word/concept emerged)
-- Describe how usage or meaning evolved over time
-- Mention notable people, events, or periods associated with it
-- Start each bullet with a lowercase letter (no leading dash)
-
-**pronunciation** (single string):
-- Use simple syllable breakdowns that anyone can read
-- CAPITALIZE the stressed syllable
-- Example: "kah-kis-TAH-kruh-see" for "kakistocracy"
-- Do NOT use IPA symbols or phonetic notation
-- Make it intuitive for a casual reader
-
-Be accurate and informative, but keep everything succinct."""
+    # Shorter prompt - schema enforces structure
+    system = """Expert lexicographer. Generate flashcard content for an English word.
+Definition: 1-3 clear bullets, plain language, lowercase start.
+Etymology: 2-3 bullets on linguistic origins (language, roots, derivation).
+History: 2-3 bullets on historical background (dates, context, evolution), NOT linguistics.
+Pronunciation: simple syllables, CAPITALIZE stressed syllable (e.g. kah-kis-TAH-kruh-see)."""
 
     user = f"Word: {word}"
 
     try:
-        data = client.complete_json(system, user)
+        data = client.complete_structured(system, user, ENGLISH_CARD_SCHEMA)
 
         # Extract and validate fields
         definition = data.get("definition", [])
@@ -93,12 +99,18 @@ Be accurate and informative, but keep everything succinct."""
 
         pronunciation = str(data.get("pronunciation", "")).strip()
 
-        return {
+        result = {
             "definition": definition,
             "etymology": etymology,
             "history": history,
             "pronunciation": pronunciation,
         }
+
+        # Cache the result if we got valid data
+        if definition or etymology or history:
+            _write_cache(word, result, verbose=verbose)
+
+        return result
     except Exception:
         return {
             "definition": [],

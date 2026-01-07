@@ -1,0 +1,43 @@
+{
+  "simplified": "今",
+  "traditional": "今",
+  "pinyin": "jīn",
+  "english": "now; today",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Inverted 曰 (“to speak”), yielding a form like 亼 with an added bottom stroke; the inverted ‘mouth’ signifies ‘not to speak’. Another view: it depicts something in the mouth (cf. 噤, 吟), with 含 as a derivative of the original word.",
+    "interpretation": "Graphically portrays the idea of speech being suppressed or something held in the mouth. The form was later associated by sound with the temporal word meaning ‘now; today’, which became the primary modern sense.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "to say; to speak"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "今后我们要多联系(今後我們要多聯繫)。",
+      "pinyin": "Jīnhòu wǒmen yào duō liánxì.",
+      "english": "From now on we should stay in touch more."
+    },
+    {
+      "chinese": "从今以后再也不迟到(從今以後再也不遲到)。",
+      "pinyin": "Cóng jīn yǐhòu zàiyě bù chídào.",
+      "english": "From today onward I will never be late again."
+    },
+    {
+      "chinese": "如今很少有人写信了(如今很少有人寫信了)。",
+      "pinyin": "Rújīn hěn shǎo yǒu rén xiě xìn le.",
+      "english": "Nowadays few people write letters."
+    }
+  ]
+}

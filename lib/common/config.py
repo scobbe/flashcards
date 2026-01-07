@@ -4,7 +4,6 @@ Each folder can have a -config.json file that specifies:
 - output_type: "chinese" or "english" (legacy: "oral", "written" map to "chinese")
 - raw_input_file: path to raw input file (default: -input.raw.txt)
 - cache: whether to cache files (default: true). When false, clears directory on run.
-- recursive: for chinese output_type, whether to recursively generate cards for etymology components
 """
 
 import json
@@ -23,7 +22,6 @@ class FolderConfig:
     raw_input_file: str = "-input.raw.txt"
     output_dir: str = "../generated"  # Path to output directory (relative to config folder)
     cache: bool = True  # When False, clears directory except config and raw input
-    recursive: bool = False  # For chinese: recursively generate cards for etymology components
 
     def __post_init__(self):
         # Map legacy output types to new unified type
@@ -52,14 +50,12 @@ def load_folder_config(folder: Path) -> Optional[FolderConfig]:
     raw_input_file = data.get("raw_input_file", "-input.raw.txt")
     output_dir = data.get("output_dir", "../generated")
     cache = data.get("cache", True)
-    recursive = data.get("recursive", False)
 
     return FolderConfig(
         output_type=output_type,
         raw_input_file=raw_input_file,
         output_dir=output_dir,
         cache=cache,
-        recursive=recursive,
     )
 
 
@@ -71,7 +67,6 @@ def write_folder_config(folder: Path, config: FolderConfig) -> Path:
         "raw_input_file": config.raw_input_file,
         "output_dir": config.output_dir,
         "cache": config.cache,
-        "recursive": config.recursive,
     }
     with open(config_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)

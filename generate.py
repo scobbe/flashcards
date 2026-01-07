@@ -59,6 +59,7 @@ def parse_chunk_range(chunk_arg: Optional[str]) -> Optional[Tuple[int, int]]:
     
     return None
 from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
+from lib.common.manifest import load_input_manifest
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
 from lib.output.chinese import process_chinese_folder
@@ -78,6 +79,7 @@ def process_folder(
     debug: bool,
     delay_s: float,
     chunk_range: Optional[Tuple[int, int]] = None,
+    workers: Optional[int] = None,
 ) -> tuple[int, int]:
     """Process a folder: parse input then generate output.
     
@@ -96,13 +98,21 @@ def process_folder(
     # Resolve paths
     raw_path = input_folder / config.raw_input_file
     output_dir = get_output_dir(input_folder, config)
-    parsed_path = output_dir / "-input.parsed.csv"
-    
-    # Clear output dir if cache is disabled
+
+    # Clear output dir if cache is disabled (do this BEFORE checking manifest)
     if not config.cache:
         cleared = clear_output_dir_for_no_cache(input_folder, config)
         if verbose and cleared > 0:
             print(f"[cache] Cleared {cleared} items from generated folder")
+
+    # Check input manifest to see if parsing is already complete
+    input_manifest = load_input_manifest(output_dir)
+    parsing_complete = (
+        input_manifest.get("complete", 0) > 0 and
+        input_manifest.get("pending", 0) == 0 and
+        input_manifest.get("in_progress", 0) == 0 and
+        input_manifest.get("error", 0) == 0
+    )
     
     # Ensure output dir exists
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -113,8 +123,8 @@ def process_folder(
         print(f"📝 Output type: {config.output_type}")
     
     # Step 1: Parse raw input if needed
-    # If chunk_range is specified, always process (partial processing)
-    needs_parsing = raw_path.exists() and (not parsed_path.exists() or chunk_range is not None)
+    # Skip parsing if manifest shows all chunks are complete
+    needs_parsing = raw_path.exists() and not parsing_complete
     if needs_parsing:
         if verbose:
             if chunk_range:
@@ -133,17 +143,32 @@ def process_folder(
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
 
-    if not parsed_path.exists():
+        # Re-check manifest after parsing
+        input_manifest = load_input_manifest(output_dir)
+        parsing_complete = (
+            input_manifest.get("complete", 0) > 0 and
+            input_manifest.get("pending", 0) == 0 and
+            input_manifest.get("in_progress", 0) == 0 and
+            input_manifest.get("error", 0) == 0
+        )
+
+    # Input must be 100% complete before proceeding to output
+    if not parsing_complete:
+        input_manifest = load_input_manifest(output_dir)
         if verbose:
-            print(f"[skip] No -input.parsed.csv found in {output_dir}")
+            complete = input_manifest.get("complete", 0)
+            pending = input_manifest.get("pending", 0)
+            in_progress = input_manifest.get("in_progress", 0)
+            error = input_manifest.get("error", 0)
+            print(f"[skip] Input not complete: {complete} complete, {pending} pending, {in_progress} in_progress, {error} error")
         return 0, 0
 
     # Step 2: Generate output (all modes read from -input.parsed.csv)
     if config.output_type == "english":
-        return process_english_folder(output_dir, model=model, verbose=verbose)
+        return process_english_folder(output_dir, model=model, verbose=verbose, workers=workers)
     else:
-        # Chinese mode (unified - handles both legacy "oral" and "written")
-        return process_chinese_folder(output_dir, model=model, recursive=config.recursive, verbose=verbose, chunk_range=chunk_range)
+        # Chinese mode (always recursive)
+        return process_chinese_folder(output_dir, model=model, verbose=verbose, chunk_range=chunk_range, workers=workers)
 
 
 def main(argv: Optional[List[str]] = None) -> int:
@@ -162,7 +187,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         type=str,
         nargs="?",
         const="all",
-        help="Run dry-run tests. Options: 'all' (default), 'english', 'chinese', 'chinese-recursive'",
+        help="Run dry-run tests. Options: 'all' (default), 'english', 'chinese'",
     )
     parser.add_argument(
         "--model",
@@ -191,6 +216,12 @@ def main(argv: Optional[List[str]] = None) -> int:
         default=None,
         help="Chunk range to process, e.g. '1-5' or '3'. Only processes input parsing for these chunks.",
     )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=None,
+        help="Number of parallel workers (default: uses DEFAULT_PARALLEL_WORKERS)",
+    )
     args = parser.parse_args(argv)
     
     # Handle --dry-run flag
@@ -201,7 +232,6 @@ def main(argv: Optional[List[str]] = None) -> int:
         all_configs = {
             "english": project_root / "output/dry-run/english/input" / CONFIG_FILENAME,
             "chinese": project_root / "output/dry-run/chinese/input" / CONFIG_FILENAME,
-            "chinese-recursive": project_root / "output/dry-run/chinese-recursive/input" / CONFIG_FILENAME,
         }
 
         # Determine which configs to run
@@ -210,7 +240,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         elif args.dry_run in all_configs:
             dry_run_configs = [all_configs[args.dry_run]]
         else:
-            print(f"[error] Invalid dry-run option: {args.dry_run}. Use: all, english, chinese, chinese-recursive", file=sys.stderr)
+            print(f"[error] Invalid dry-run option: {args.dry_run}. Use: all, english, chinese", file=sys.stderr)
             return 2
 
         total_words = 0
@@ -234,6 +264,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                 verbose=args.verbose,
                 debug=args.debug,
                 delay_s=args.delay,
+                workers=args.workers,
             )
             total_words += words
             total_cards += cards
@@ -278,6 +309,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         debug=args.debug,
         delay_s=args.delay,
         chunk_range=chunk_range,
+        workers=args.workers,
     )
     
     if args.verbose:

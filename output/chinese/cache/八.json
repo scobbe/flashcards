@@ -1,0 +1,29 @@
+{
+  "simplified": "八",
+  "traditional": "八",
+  "pinyin": "bā",
+  "english": "eight",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: two bent lines indicating “to divide”; later borrowed to mean “eight” via homophony (original sense now in 分, 別).",
+    "interpretation": "Depicts two strokes diverging to suggest splitting or separation. Later became a rebus for the number eight because it shared the same sound, while the original sense lived on in 分 and 別. Not the “two hands” component found in other characters.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我有八本书(我有八本書)。",
+      "pinyin": "Wǒ yǒu bā běn shū.",
+      "english": "I have eight books."
+    },
+    {
+      "chinese": "她八岁了(她八歲了)。",
+      "pinyin": "Tā bā suì le.",
+      "english": "She is eight years old."
+    },
+    {
+      "chinese": "我买了八个苹果(我買了八個蘋果)。",
+      "pinyin": "Wǒ mǎi le bā gè píngguǒ.",
+      "english": "I bought eight apples."
+    }
+  ]
+}

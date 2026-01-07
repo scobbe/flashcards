@@ -1,0 +1,29 @@
+{
+  "simplified": "贝",
+  "traditional": "貝",
+  "pinyin": "bèi",
+  "english": "cowry; money",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram – cowrie used as currency in ancient China; simplified form of 貝 in cursive script.",
+    "interpretation": "Depicts a cowry shell, an object that functioned as early money, which motivates the senses “cowry; money.” In the simplified set, its strokes were streamlined by adopting a cursive-style form of 貝.",
+    "simplification": "Adopted the cursive-script variant of 貝, reducing strokes and complexity."
+  },
+  "examples": [
+    {
+      "chinese": "古代用贝(貝)当作货币(貨幣)。",
+      "pinyin": "Gǔdài yòng bèi dāngzuò huòbì.",
+      "english": "In ancient times, cowries were used as currency."
+    },
+    {
+      "chinese": "海滩(海灘)上有很多贝(貝)。",
+      "pinyin": "Hǎitān shang yǒu hěn duō bèi.",
+      "english": "There are many shells on the beach."
+    },
+    {
+      "chinese": "这串项链(這串項鍊)是用贝(貝)做的。",
+      "pinyin": "Zhè chuàn xiàngliàn shì yòng bèi zuò de.",
+      "english": "This necklace is made of shells."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "目",
+  "traditional": "目",
+  "pinyin": "mù",
+  "english": "eye",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: human eye, now rotated 90 degrees; compare Egyptian hieroglyph 𓁹",
+    "interpretation": "Originally a drawing of an eye; in regular script it was turned to fit the square writing frame. As a component, its variant 罒 often signals “net” in compounds like 罪 or 罗, while 目 itself usually carries the sense of seeing or an item/entry.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "我们的目标很明确(我們的目標很明確)。",
+      "pinyin": "Wǒmen de mùbiāo hěn míngquè.",
+      "english": "Our goal is very clear."
+    },
+    {
+      "chinese": "请查看目录(請查看目錄)。",
+      "pinyin": "Qǐng chákàn mùlù.",
+      "english": "Please check the table of contents."
+    },
+    {
+      "chinese": "你的目的是什么(你的目的是什麼)？",
+      "pinyin": "Nǐ de mùdì shì shénme?",
+      "english": "What is your purpose?"
+    }
+  ]
+}

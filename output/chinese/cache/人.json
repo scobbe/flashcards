@@ -1,0 +1,29 @@
+{
+  "simplified": "人",
+  "traditional": "人",
+  "pinyin": "rén",
+  "english": "person",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: side view of a standing man, highlighting an arm and a leg; left-side form 亻.",
+    "interpretation": "Depicts a person in profile, with one stroke suggesting the torso/arm and the other the leg, hence the slightly splayed shape. In compounds it often appears as the left-hand form 亻 to mark human-related meaning; not to be confused with 彳.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他是一个很好的人(他是一個很好的人)。",
+      "pinyin": "Tā shì yí gè hěn hǎo de rén.",
+      "english": "He is a very good person."
+    },
+    {
+      "chinese": "我认识很多人(我認識很多人)。",
+      "pinyin": "Wǒ rènshi hěn duō rén.",
+      "english": "I know many people."
+    },
+    {
+      "chinese": "这里有三个人(這裡有三個人)。",
+      "pinyin": "Zhèlǐ yǒu sān gè rén.",
+      "english": "There are three people here."
+    }
+  ]
+}

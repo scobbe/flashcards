@@ -1,0 +1,43 @@
+{
+  "simplified": "儿",
+  "traditional": "兒",
+  "pinyin": "ér",
+  "english": "child; son",
+  "etymology": {
+    "type": "pictogram",
+    "description": "pictogram: a standing person; radical form of 人; also simplified from 兒 by eliminating 臼",
+    "interpretation": "Depicts a person standing on two legs, which is why it doubles as the person radical form. In traditional 兒, an added 臼 element evoked a baby’s soft skull, but simplification removed that part, leaving only the person/legs shape.",
+    "simplification": "Stroke reduction by dropping 臼 from 兒 and reusing the existing person-radical form 儿."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "mortar"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我儿子在学校(我兒子在學校)。",
+      "pinyin": "Wǒ érzi zài xuéxiào.",
+      "english": "My son is at school."
+    },
+    {
+      "chinese": "她是我的女儿(她是我的女兒)。",
+      "pinyin": "Tā shì wǒ de nǚ'ér.",
+      "english": "She is my daughter."
+    },
+    {
+      "chinese": "这些电影很适合儿童观看(這些電影很適合兒童觀看)。",
+      "pinyin": "Zhèxiē diànyǐng hěn shìhé értóng guānkàn.",
+      "english": "These movies are very suitable for children to watch."
+    }
+  ]
+}

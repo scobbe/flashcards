@@ -1,0 +1,37 @@
+{
+  "simplified": "吕",
+  "traditional": "呂",
+  "pinyin": "lǚ",
+  "english": "surname Lü; spine; musical pitch",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: two blocks of metal; original form of 鋁 “ingot”. Later used as a jiajie (phonetic loan) for 膂 “spine” and 呂 “music notes”; the connecting line was a later seal‑script addition.",
+    "interpretation": "Two stacked squares depict paired metal ingots; the later connecting line was a scribal convention rather than part of the original image. By phonetic borrowing it came to write words for the spine and for musical pitches, which underlies its modern readings and surname use.",
+    "simplification": "Simplified 吕 streamlines 呂 by removing the central connecting stroke and reducing strokes, essentially reverting to the older disconnected two‑block look noted in early forms."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "我同学姓吕(我同學姓呂)。",
+      "pinyin": "Wǒ tóngxué xìng Lǚ.",
+      "english": "My classmate’s surname is Lü."
+    },
+    {
+      "chinese": "古人以律吕定音(古人以律呂定音)。",
+      "pinyin": "Gǔrén yǐ lǜlǚ dìng yīn.",
+      "english": "The ancients set pitch using the lü–lǚ pitch pipes."
+    },
+    {
+      "chinese": "我们要去吕宋旅游(我們要去呂宋旅遊)。",
+      "pinyin": "Wǒmen yào qù Lǚsòng lǚyóu.",
+      "english": "We are going to travel to Luzon."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "言",
+  "traditional": "言",
+  "pinyin": "yán",
+  "english": "speech; words",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Ideogram: formed by adding a horizontal stroke to ancient 舌 to show tongue movement (speech). Shuowen erroneously treats it as phono-semantic: phonetic 䇂 (qiān) + semantic 口 (“mouth”).",
+    "interpretation": "Built on 舌 (tongue), an added stroke marks motion, abstracting the act of speaking into a simple sign for “speech/words.” Later standardization added a dot on top and simplified the tongue shape, moving from a pictorial tongue to a conventional symbol for utterance. The Shuowen’s phono-semantic reading is a historical misinterpretation rather than the true origin.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请注意你的言语(請注意你的言語)。",
+      "pinyin": "Qǐng zhùyì nǐ de yányǔ.",
+      "english": "Please mind your language."
+    },
+    {
+      "chinese": "他发言很简短(他發言很簡短)。",
+      "pinyin": "Tā fāyán hěn jiǎnduǎn.",
+      "english": "His remarks were brief."
+    },
+    {
+      "chinese": "言行一致，方能取信于人(言行一致，方能取信於人)。",
+      "pinyin": "Yán xíng yízhì, fāng néng qǔxìn yú rén.",
+      "english": "Only by matching words with deeds can one gain others’ trust."
+    }
+  ]
+}

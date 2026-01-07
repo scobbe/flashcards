@@ -9,9 +9,7 @@ from lib.output.chinese import (
     process_chinese_folder,
     process_chinese_row,
     write_card_md,
-    generate_etymology,
-    generate_character_breakdown,
-    generate_examples,
+    generate_card_content,
     read_parsed_input,
 )
 
@@ -29,9 +27,7 @@ __all__ = [
     "process_chinese_folder",
     "process_chinese_row",
     "write_card_md",
-    "generate_etymology",
-    "generate_character_breakdown",
-    "generate_examples",
+    "generate_card_content",
     "read_parsed_input",
     # English mode
     "write_english_card_md",

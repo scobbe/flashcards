@@ -52,11 +52,17 @@ CHINESE_BACK_SCHEMA = CardSchema(
             name="etymology",
             required=False,
             description=(
-                "Etymology explanation. For single characters: explain the character's formation "
-                "(pictographic origin, semantic components). For multi-character words: explain how "
-                "the component characters combine to create the meaning."
+                "Etymology explanation with structured sub-fields:\n"
+                "  - type: Formation type (pictogram, ideogram, phono-semantic compound, etc.)\n"
+                "  - description: Brief formation description (e.g., 'semantic: X + phonetic: Y')\n"
+                "  - interpretation: 2-3 sentence plain-language explanation of why/how"
             ),
-            field_type="line",
+            field_type="structured",
+            children=[
+                CardField(name="type", required=True, description="Formation type: pictogram, ideogram, ideogrammic compound, phono-semantic compound, semantic compound, or compound word"),
+                CardField(name="description", required=True, description="Brief formation description"),
+                CardField(name="interpretation", required=True, description="2-3 sentence plain explanation"),
+            ],
         ),
         CardField(
             name="components",

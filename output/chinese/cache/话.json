@@ -1,0 +1,43 @@
+{
+  "simplified": "话",
+  "traditional": "話",
+  "pinyin": "huà",
+  "english": "speech; words; talk; dialect",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 言 (“word”) + phonetic 𠯑; right component not related to 舌.",
+    "interpretation": "言 indicates the meaning domain of speech and words, while 𠯑 provided the historical sound value. In the simplified form 话, the right side was swapped to 舌, which looks familiar but is not the original phonetic and only reflects later graphic regularization.",
+    "simplification": "Simplified as 话 by changing 言 → 讠 and replacing the rare phonetic 𠯑 with the common component 舌 to reduce strokes and standardize shapes; the substitution is not etymologically based."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech; words"
+    },
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "这句话很难懂(這句話很難懂)。",
+      "pinyin": "Zhè jù huà hěn nán dǒng.",
+      "english": "This sentence is hard to understand."
+    },
+    {
+      "chinese": "他说北京话(他說北京話)。",
+      "pinyin": "Tā shuō Běijīnghuà.",
+      "english": "He speaks the Beijing dialect."
+    },
+    {
+      "chinese": "别多说废话(別多說廢話)。",
+      "pinyin": "Bié duō shuō fèihuà.",
+      "english": "Don't talk nonsense."
+    }
+  ]
+}

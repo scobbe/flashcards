@@ -93,8 +93,8 @@ def process_english_row(
     if verbose:
         print(f"[english] [info] Generating card: {file_base}")
     
-    # Generate content via OpenAI
-    content = generate_english_card_content(word, model=model)
+    # Generate content via OpenAI (with caching)
+    content = generate_english_card_content(word, model=model, verbose=verbose)
     
     if verbose:
         def_count = len(content.get("definition", []))
@@ -119,17 +119,19 @@ def process_english_folder(
     folder: Path,
     model: Optional[str] = None,
     verbose: bool = False,
+    workers: Optional[int] = None,
 ) -> Tuple[int, int]:
     """Process a folder in English mode.
-    
+
     Reads from -input.parsed.csv (created by input parsing step).
     Uses manifest-based tracking: each word is complete or not.
-    
+
     Args:
         folder: Output folder for generated cards (contains -input.parsed.csv)
         model: OpenAI model name
         verbose: Enable verbose logging
-    
+        workers: Number of parallel workers (default: DEFAULT_PARALLEL_WORKERS)
+
     Returns (total_words, cards_created) tuple.
     """
     parsed_path = folder / "-input.parsed.csv"
@@ -153,9 +155,9 @@ def process_english_folder(
     init_output_manifest(out_dir, word_keys)
     
     total_cards = 0
-    workers = DEFAULT_PARALLEL_WORKERS
-    
-    if workers == 1:
+    num_workers = workers if workers is not None else DEFAULT_PARALLEL_WORKERS
+
+    if num_workers == 1:
         for idx, word in enumerate(words, start=1):
             try:
                 _, inc = process_english_row(folder, idx, word, model, verbose)
@@ -166,8 +168,8 @@ def process_english_folder(
                 raise
     else:
         if verbose:
-            print(f"[english] [info] Parallel workers: {workers}")
-        with ThreadPoolExecutor(max_workers=workers) as executor:
+            print(f"[english] [info] Parallel workers: {num_workers}")
+        with ThreadPoolExecutor(max_workers=num_workers) as executor:
             futures = []
             for idx, word in enumerate(words, start=1):
                 futures.append(

@@ -1,6 +1,7 @@
 {
   "output_type": "oral",
   "raw_input_file": "-input.raw.txt",
-  "cache": false,
+  "cache": true,
+  "recursive": true,
   "output_dir": "../output"
 }

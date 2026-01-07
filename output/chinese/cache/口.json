@@ -1,0 +1,29 @@
+{
+  "simplified": "口",
+  "traditional": "口",
+  "pinyin": "kǒu",
+  "english": "mouth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram (象形) – resembles an open mouth.",
+    "interpretation": "A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.",
+    "simplification": ""
+  },
+  "examples": [
+    {
+      "chinese": "他张开口，说了几句(他張開口，說了幾句)。",
+      "pinyin": "Tā zhāngkāi kǒu, shuō le jǐ jù.",
+      "english": "He opened his mouth and said a few sentences."
+    },
+    {
+      "chinese": "一家三口住在这个小城(一家三口住在這個小城)。",
+      "pinyin": "Yì jiā sān kǒu zhù zài zhège xiǎo chéng.",
+      "english": "A family of three lives in this small town."
+    },
+    {
+      "chinese": "她咬了一口苹果(她咬了一口蘋果)。",
+      "pinyin": "Tā yǎo le yì kǒu píngguǒ.",
+      "english": "She took a bite of the apple."
+    }
+  ]
+}

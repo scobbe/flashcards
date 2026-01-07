@@ -2,12 +2,12 @@
   "file_status": {
     "1.Kakistocracy": "complete",
     "2.Ephemeral": "complete",
-    "3.Serendipity": "complete",
-    "4.Bánh cuốn / Bánh ướt": "complete"
+    "3.Serendipity": "pending",
+    "4.Bánh cuốn / Bánh ướt": "pending"
   },
-  "complete": 4,
+  "complete": 2,
   "in_progress": 0,
-  "pending": 0,
+  "pending": 2,
   "error": 0,
-  "complete_contiguous": 4
+  "complete_contiguous": 2
 }

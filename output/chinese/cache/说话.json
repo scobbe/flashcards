@@ -1,0 +1,43 @@
+{
+  "simplified": "说话",
+  "traditional": "說話",
+  "pinyin": "shuōhuà",
+  "english": "to speak",
+  "etymology": {
+    "type": "compound word",
+    "description": "说(say) + 话(speech/words) = to speak; to talk",
+    "interpretation": "Combines the act of saying with “speech/words” to denote producing utterance. Functions as a common verb–object compound in Mandarin.",
+    "simplification": "Both characters simplify the speech radical 言 to 讠 for high-frequency use; 說 → 说 streamlines the 兌 component to 兑, and 話 → 话 reduces strokes while keeping 舌 as the core element."
+  },
+  "parts": [
+    {
+      "char": "说",
+      "trad": "說",
+      "pinyin": "shuō",
+      "english": "to speak; to say; to explain; to persuade"
+    },
+    {
+      "char": "话",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "speech; words; talk; dialect"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "请小声说话(請小聲說話)",
+      "pinyin": "qǐng xiǎo shēng shuōhuà",
+      "english": "Please speak softly."
+    },
+    {
+      "chinese": "他说话很快(他說話很快)",
+      "pinyin": "tā shuōhuà hěn kuài",
+      "english": "He speaks very fast."
+    },
+    {
+      "chinese": "别在图书馆大声说话(別在圖書館大聲說話)",
+      "pinyin": "bié zài túshūguǎn dàshēng shuōhuà",
+      "english": "Don’t speak loudly in the library."
+    }
+  ]
+}

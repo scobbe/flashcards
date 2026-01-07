@@ -1,7 +1,0 @@
-{
-  "output_type": "chinese",
-  "recursive": true,
-  "raw_input_file": "-input.raw.txt",
-  "cache": false,
-  "output_dir": "../output"
-}

@@ -7,7 +7,7 @@ from typing import Dict, Optional
 
 
 # Hardcoded number of parallel workers for output generation
-DEFAULT_PARALLEL_WORKERS = 32
+DEFAULT_PARALLEL_WORKERS = 1
 
 # Module-level state
 _LOG_ROOT: Optional[Path] = None

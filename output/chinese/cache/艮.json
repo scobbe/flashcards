@@ -1,0 +1,43 @@
+{
+  "simplified": "艮",
+  "traditional": "艮",
+  "pinyin": "gèn",
+  "english": "stopping; Gen trigram",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "目 “eye” + 人 “person” — a person looking back, expressing disobedience/limit.",
+    "interpretation": "Depicts someone turning the eye back, evoking hesitation, checking oneself, or being held at a boundary. This image underlies senses like stopping, restraint, and the Gen trigram’s stillness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "examples": [
+    {
+      "chinese": "《易经》中的艮卦象征止与山(《易經》中的艮卦象徵止與山)。",
+      "pinyin": "«Yìjīng» zhōng de Gèn guà xiàngzhēng zhǐ yǔ shān.",
+      "english": "In the Yijing, the Gen trigram symbolizes stopping and the mountain."
+    },
+    {
+      "chinese": "他猛然回头而止步，正合艮之意(他猛然回頭而止步，正合艮之意)。",
+      "pinyin": "Tā měngrán huítóu ér zhǐbù, zhèng hé Gèn zhī yì.",
+      "english": "He suddenly looked back and stopped, which perfectly matches the sense of gen."
+    },
+    {
+      "chinese": "风水罗盘上有艮位，代表东北方(風水羅盤上有艮位，代表東北方)。",
+      "pinyin": "Fēngshuǐ luópán shàng yǒu Gèn wèi, dàibiǎo dōngběi fāng.",
+      "english": "On a feng shui compass there is the Gen position, representing the northeast."
+    }
+  ]
+}
