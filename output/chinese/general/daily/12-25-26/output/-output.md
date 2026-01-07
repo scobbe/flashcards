@@ -1,0 +1,424 @@
+## 大同区
+---
+- **pinyin:** Dàtóng Qū
+- **definition:** Datong District, Taipei
+- **characters:**
+  - 大
+    - dà
+    - big;great;major;eldest
+  - 同
+    - tóng
+    - same;together;alike;with
+  - 区(區)
+    - qū
+    - area;district;region;to divide
+- **etymology:**
+  - **type:** compound word (proper noun)
+  - **description:** 大 (great) + 同 (together; unity) + 区/區 (district) = Datong District (Taipei)
+  - **interpretation:** Proper name of a Taipei district; 大同 evokes the classical ideal of “Great Unity,” and 区/區 marks it as an administrative district. In context it refers specifically to Taipei’s Datong District.
+  - **simplification:** 區 was simplified to 区 in Mainland Chinese to reduce strokes; Taiwan officially writes the district as 大同區.
+- **examples:**
+  - 我住在台北市大同区(我住在臺北市大同區)。
+    - Wǒ zhù zài Táiběi Shì Dàtóng Qū.
+    - I live in Datong District, Taipei.
+  - 大同区拥有迪化街等历史街区(大同區擁有迪化街等歷史街區)。
+    - Dàtóng Qū yōngyǒu Díhuà Jiē děng lìshǐ jiēqū.
+    - Datong District has historic streets such as Dihua Street.
+  - 我们去大同区逛年货大街吧(我們去大同區逛年貨大街吧)。
+    - Wǒmen qù Dàtóng Qū guàng niánhuò dàjiē ba.
+    - Let's go stroll the New Year goods street in Datong District.
+### 大同区 → 大
+- **pinyin:** dà
+- **definition:** big;great;major;eldest
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram: a person facing forward; original form of 夫, later phonetically borrowed for “big”.
+  - **interpretation:** Originally depicts a human figure viewed from the front, not necessarily with exaggerated outstretched arms. The graph was later borrowed to write the word pronounced dà ‘big’, while 夫 specialized for ‘man’. The modern shape still evokes a torso with two legs and an arm stroke.
+- **examples:**
+  - 这个房间很大(這個房間很大)。
+    - Zhège fángjiān hěn dà.
+    - This room is very big.
+  - 他是我们家最大的孩子(他是我們家最大的孩子)。
+    - Tā shì wǒmen jiā zuì dà de háizi.
+    - He is the eldest child in our family.
+  - 大学开学了(大學開學了)。
+    - Dàxué kāixué le.
+    - The university term has begun.
+### 大同区 → 同
+- **pinyin:** tóng
+- **definition:** same;together;alike;with
+- **components:**
+  - 口
+    - kǒu
+    - mouth; opening
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram: a pipe (original form of 筒); a decorative 口 was added later. Alternative interpretation: 凡 (heavy dish/bucket/pole/stretcher) + 口 (“mouth/order”) → cooperation; togetherness.
+  - **interpretation:** Originally depicts a tube; the added 口 is decorative and not a functional component, with meaning later extending to ‘together/same’. Folk analyses parse it as a shared load (凡) coordinated by commands (口), reinforcing the idea of collective action and uniformity.
+- **examples:**
+  - 我们同意这个计划(我們同意這個計劃)。
+    - Wǒmen tóngyì zhège jìhuà.
+    - We agree on this plan.
+  - 他们住在同一个城市(他們住在同一個城市)。
+    - Tāmen zhù zài tóng yí gè chéngshì.
+    - They live in the same city.
+  - 请和我一起同去(請和我一起同去)。
+    - Qǐng hé wǒ yìqǐ tóng qù.
+    - Please go together with me.
+### 大同区 → 同 → 口
+- **pinyin:** kǒu
+- **definition:** mouth; opening
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram (象形) – resembles an open mouth.
+  - **interpretation:** A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.
+- **examples:**
+  - 他张开口(他張開口)，说了几句(說了幾句)。
+    - Tā zhāngkāi kǒu, shuō le jǐ jù.
+    - He opened his mouth and said a few sentences.
+  - 一家三口住在这个小城(一家三口住在這個小城)。
+    - Yì jiā sān kǒu zhù zài zhège xiǎo chéng.
+    - A family of three lives in this small town.
+  - 她咬了一口苹果(她咬了一口蘋果)。
+    - Tā yǎo le yì kǒu píngguǒ.
+    - She took a bite of the apple.
+### 大同区 → 区(區)
+- **pinyin:** qū
+- **definition:** area;district;region;to divide
+- **components:**
+  - 品
+    - pǐn
+    - goods; product; grade; many
+  - 乂
+    - yì
+    - to regulate; to govern; mow
+- **etymology:**
+  - **type:** ideogrammic compound (會意 / 会意)
+  - **description:** semantic: 匸 + 品 (simplified from 區 with 品 → 乂)
+  - **interpretation:** Enclosure 匸 contains many people 品, evoking a bounded place such as a district or area. The simplification swaps 品 for 乂 to reduce strokes while still suggesting contents within a boundary, so the meaning remains ‘area/region; to divide into areas’.
+  - **simplification:** Replaced the inner component 品 with 乂 to reduce stroke count; a graphic simplification without phonetic intent.
+- **examples:**
+  - 我住在这个区(我住在這個區)。
+    - Wǒ zhù zài zhège qū.
+    - I live in this district.
+  - 这个城市分为五个区(這個城市分為五個區)。
+    - Zhège chéngshì fēn wéi wǔ gè qū.
+    - This city is divided into five districts.
+  - 请把教室分区(請把教室分區)。
+    - Qǐng bǎ jiàoshì fēnqū.
+    - Please divide the classroom into zones.
+### 大同区 → 区(區) → 品
+- **pinyin:** pǐn
+- **definition:** goods; product; grade; many
+- **components:**
+  - 口
+    - kǒu
+    - mouth; opening
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:** Triplication of 口, representing various objects. Also occurs in 區.
+  - **interpretation:** Three mouths or containers arranged together conveys a collection of items, leading to senses like goods and products. The tripled form also suggests abundance and categorization, extending to meanings such as many and grade when evaluating items.
+- **examples:**
+  - 商店里的商品很多(商店裡的商品很多)，价格公道(價格公道)。
+    - Shāngdiàn lǐ de shāngpǐn hěn duō, jiàgé gōngdào.
+    - The store has many goods, and the prices are fair.
+  - 他懂得品茶(他懂得品茶)，分得出上品和下品(分得出上品和下品)。
+    - Tā dǒngdé pǐn chá, fēn dé chū shàngpǐn hé xiàpǐn.
+    - He knows how to appreciate tea and can distinguish top grade from low grade.
+  - 这家厂的产品分为三等品(這家廠的產品分為三等品)。
+    - Zhè jiā chǎng de chǎnpǐn fēn wéi sān děngpǐn.
+    - This factory’s products are divided into three grades.
+### 大同区 → 区(區) → 乂
+- **pinyin:** yì
+- **definition:** to regulate; to govern; mow
+- **etymology:**
+  - **type:** pictogram
+  - **description:** pictogram: cutting tool (knife/sickle); some ancient forms look like large scissors; original ‘mow/cut weed’ sense preserved in 刈; unrelated to 爻; cf. 辛
+  - **interpretation:** Depicts a cutting implement, so meanings focus on cutting or trimming and extend metaphorically to governing or bringing order. Ancient forms resembling large scissors underscore the idea of clipping weeds to tidy the field. Despite visual similarity, it is not related to 爻.
+- **examples:**
+  - 天下乂安(天下乂安)。
+    - Tiānxià yì'ān.
+    - All under heaven is well governed and peaceful.
+  - 良臣能乂民(良臣能乂民)。
+    - Liáng chén néng yì mín.
+    - A worthy minister can govern the people.
+  - 秋收时(秋收時)，农夫以镰刀乂草(農夫以鐮刀乂草)。
+    - Qiūshōu shí, nóngfū yǐ liándāo yì cǎo.
+    - At harvest time, the farmer cuts the grass with a sickle.
+%%%
+
+
+## 中山区
+---
+- **pinyin:** Zhōngshān Qū
+- **definition:** Zhongshan District, Taipei
+- **characters:**
+  - 中
+    - zhōng
+    - middle; center; among; China (abbr.)
+  - 山
+    - shān
+    - mountain; hill; ridge; surname
+  - 区(區)
+    - qū
+    - district; area; region; ward
+- **etymology:**
+  - **type:** toponymic compound (proper noun)
+  - **description:** 中山 + 区 = district named after Sun Yat-sen
+  - **interpretation:** Administrative district of Taipei named in honor of Sun Yat-sen (aka Sun Zhongshan). 中山 here is his honorific name used in many place names across the Sinophone world.
+  - **simplification:** 區 → 区 was simplified in Mainland to reduce strokes; Taiwan keeps 區. 中山 is unchanged across scripts.
+- **examples:**
+  - 中山区位于台北市北部(中山區位於臺北市北部)。
+    - Zhōngshān Qū wèiyú Táiběi Shì běibù.
+    - Zhongshan District is located in the northern part of Taipei City.
+  - 中山区以林森北路夜生活闻名(中山區以林森北路夜生活聞名)。
+    - Zhōngshān Qū yǐ Línsēn Běilù yèshēnghuó wénmíng.
+    - Zhongshan District is famous for the nightlife on Linsen North Road.
+  - 从松山机场到中山区很近(從松山機場到中山區很近)。
+    - Cóng Sōngshān Jīchǎng dào Zhōngshān Qū hěn jìn.
+    - It is very close from Songshan Airport to Zhongshan District.
+### 中山区 → 中
+- **pinyin:** zhōng
+- **definition:** middle; center; among; China (abbr.)
+- **components:**
+  - 口
+    - kǒu
+    - mouth; opening
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram: a flagpole with a drum (𠁩) set at the center; later explained as 丨 passing through 口 to mark the ‘center’; also interpreted as an arrow in a target.
+  - **interpretation:** Earliest forms depict a central marker—pole and drum—used to gather people and signal direction, embodying the idea of a center point. The later abstraction of a vertical line piercing a square visually encodes “through the middle,” while the bullseye/arrow reading reinforces the notion of centrality and precision.
+- **examples:**
+  - 我住在中国的中部(我住在中國的中部)。
+    - Wǒ zhù zài Zhōngguó de zhōngbù.
+    - I live in central China.
+  - 我们在中间见面(我們在中間見面)。
+    - Wǒmen zài zhōngjiān jiànmiàn.
+    - We’ll meet in the middle.
+  - 她中文说得很好(她中文說得很好)。
+    - Tā Zhōngwén shuō de hěn hǎo.
+    - She speaks Chinese very well.
+### 中山区 → 中 → 口
+- **pinyin:** kǒu
+- **definition:** mouth; opening
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram (象形) – resembles an open mouth.
+  - **interpretation:** A simple square outlines the opening of a mouth, with the empty center representing the oral cavity. It later became a common semantic component indicating speech, sounds, or openings, and in early compounds sometimes marked abstract meanings via association or borrowing.
+- **examples:**
+  - 他张开口(他張開口)，说了几句(說了幾句)。
+    - Tā zhāngkāi kǒu, shuō le jǐ jù.
+    - He opened his mouth and said a few sentences.
+  - 一家三口住在这个小城(一家三口住在這個小城)。
+    - Yì jiā sān kǒu zhù zài zhège xiǎo chéng.
+    - A family of three lives in this small town.
+  - 她咬了一口苹果(她咬了一口蘋果)。
+    - Tā yǎo le yì kǒu píngguǒ.
+    - She took a bite of the apple.
+### 中山区 → 山
+- **pinyin:** shān
+- **definition:** mountain; hill; ridge; surname
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram (象形) — three mountain peaks; oracle forms show triangles rather than vertical strokes. Unrelated to 出, the top of 岁/豐, 屮, and 巾.
+  - **interpretation:** A visual sketch of a jagged ridge: one tall central peak flanked by two smaller ones. Earlier inscriptions rendered the peaks as simple triangles that later regularized into three vertical lines. Similar-looking forms like 出 or elements in 岁/豐 are lookalikes with no historical connection.
+- **examples:**
+  - 我们去爬山(我們去爬山)。
+    - Wǒmen qù pá shān.
+    - We’re going to hike/climb in the mountains.
+  - 那座山很高(那座山很高)。
+    - Nà zuò shān hěn gāo.
+    - That mountain is very tall.
+  - 山上有很多树(山上有很多樹)。
+    - Shān shàng yǒu hěn duō shù.
+    - There are many trees on the mountain.
+### 中山区 → 区(區)
+- **pinyin:** qū
+- **definition:** district; area; region; ward
+- **components:**
+  - 品
+    - pǐn
+    - goods; product; grade; many
+  - 乂
+    - yì
+    - to regulate; to govern; mow
+- **etymology:**
+  - **type:** ideogrammic compound (會意 / 会意)
+  - **description:** semantic: 匸 + 品 (simplified from 區 with 品 → 乂)
+  - **interpretation:** Enclosure 匸 contains many people 品, evoking a bounded place such as a district or area. The simplification swaps 品 for 乂 to reduce strokes while still suggesting contents within a boundary, so the meaning remains ‘area/region; to divide into areas’.
+  - **simplification:** Replaced the inner component 品 with 乂 to reduce stroke count; a graphic simplification without phonetic intent.
+- **examples:**
+  - 我住在这个区(我住在這個區)。
+    - Wǒ zhù zài zhège qū.
+    - I live in this district.
+  - 这个城市分为五个区(這個城市分為五個區)。
+    - Zhège chéngshì fēn wéi wǔ gè qū.
+    - This city is divided into five districts.
+  - 请把教室分区(請把教室分區)。
+    - Qǐng bǎ jiàoshì fēnqū.
+    - Please divide the classroom into zones.
+### 中山区 → 区(區) → 品
+- **pinyin:** pǐn
+- **definition:** goods; product; grade; many
+- **components:**
+  - 口
+    - kǒu
+    - mouth; opening
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:** Triplication of 口, representing various objects. Also occurs in 區.
+  - **interpretation:** Three mouths or containers arranged together conveys a collection of items, leading to senses like goods and products. The tripled form also suggests abundance and categorization, extending to meanings such as many and grade when evaluating items.
+- **examples:**
+  - 商店里的商品很多(商店裡的商品很多)，价格公道(價格公道)。
+    - Shāngdiàn lǐ de shāngpǐn hěn duō, jiàgé gōngdào.
+    - The store has many goods, and the prices are fair.
+  - 他懂得品茶(他懂得品茶)，分得出上品和下品(分得出上品和下品)。
+    - Tā dǒngdé pǐn chá, fēn dé chū shàngpǐn hé xiàpǐn.
+    - He knows how to appreciate tea and can distinguish top grade from low grade.
+  - 这家厂的产品分为三等品(這家廠的產品分為三等品)。
+    - Zhè jiā chǎng de chǎnpǐn fēn wéi sān děngpǐn.
+    - This factory’s products are divided into three grades.
+### 中山区 → 区(區) → 乂
+- **pinyin:** yì
+- **definition:** to regulate; to govern; mow
+- **etymology:**
+  - **type:** pictogram
+  - **description:** pictogram: cutting tool (knife/sickle); some ancient forms look like large scissors; original ‘mow/cut weed’ sense preserved in 刈; unrelated to 爻; cf. 辛
+  - **interpretation:** Depicts a cutting implement, so meanings focus on cutting or trimming and extend metaphorically to governing or bringing order. Ancient forms resembling large scissors underscore the idea of clipping weeds to tidy the field. Despite visual similarity, it is not related to 爻.
+- **examples:**
+  - 天下乂安(天下乂安)。
+    - Tiānxià yì'ān.
+    - All under heaven is well governed and peaceful.
+  - 良臣能乂民(良臣能乂民)。
+    - Liáng chén néng yì mín.
+    - A worthy minister can govern the people.
+  - 秋收时(秋收時)，农夫以镰刀乂草(農夫以鐮刀乂草)。
+    - Qiūshōu shí, nóngfū yǐ liándāo yì cǎo.
+    - At harvest time, the farmer cuts the grass with a sickle.
+%%%
+
+
+## 西门町
+---
+- **pinyin:** Xīmén Dīng
+- **definition:** Ximending, Taipei
+- **characters:**
+  - 西
+    - xī
+    - west; western; the West; westward
+  - 门(門)
+    - mén
+    - door; gate; entrance; classifier for subjects/branches
+  - 町
+    - dīng
+    - ward; town block; toponymic suffix (from Japanese); place-naming element
+- **etymology:**
+  - **type:** compound toponym
+  - **description:** 西 (west) + 门/門 (gate) + 町 (ward/block) = West Gate Ward/District
+  - **interpretation:** Refers to the commercial neighborhood that developed by the west gate of old Taipei. 町 preserves a Japanese-era administrative term for a town block (chō/machi).
+  - **simplification:** Only 门 was simplified from 門; 町 is unchanged. In Taiwan it’s written in Traditional as 西門町, while Mainland usage writes 西门町.
+- **examples:**
+  - 西门町(西門町)是台北市著名的商业娱乐区。
+    - Xīmén Dīng shì Táiběi Shì zhùmíng de shāngyè yúlè qū.
+    - Ximending is a famous commercial and entertainment district in Taipei City.
+  - 我们周末去西门町(西門町)逛街看电影。
+    - Wǒmen zhōumò qù Xīmén Dīng guàngjiē kàn diànyǐng.
+    - We’re going to Ximending on the weekend to shop and watch a movie.
+  - 西门町(西門町)的名称源自日治时期的町级行政区。
+    - Xīmén Dīng de míngchēng yuánzì Rìzhì shíqí de dīng jí xíngzhèngqū.
+    - The name Ximending comes from the Japanese-era township-level administrative unit called ‘chō’ (町).
+### 西门町 → 西
+- **pinyin:** xī
+- **definition:** west; western; the West; westward
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram—bag or basket; later borrowed for phonetic value to mean “west”. Compare 東, 束, 鹵; cf. top component of 票.
+  - **interpretation:** Originally sketched as a bag or basket, the graph was later repurposed for its sound to write the word meaning “west.” A traditional reading sees a bird settling into a nest, analogized with the setting sun in the west; this view is debated, though some scholars retain it.
+- **examples:**
+  - 太阳在西边落下(太陽在西邊落下)。
+    - Tàiyáng zài xībiān luòxià.
+    - The sun sets in the west.
+  - 我住在城市的西部(我住在城市的西部)。
+    - Wǒ zhù zài chéngshì de xībù.
+    - I live in the western part of the city.
+  - 她喜欢西餐(她喜歡西餐)。
+    - Tā xǐhuan xīcān.
+    - She likes Western food.
+### 西门町 → 门(門)
+- **pinyin:** mén
+- **definition:** door; gate; entrance; classifier for subjects/branches
+- **etymology:**
+  - **type:** pictogram
+  - **description:** pictogram: a gate; compare 戶 “(one) door”, half of the character.
+  - **interpretation:** Depicts a pair of swinging doors within a frame, representing a gate or entrance. Traditional 門 shows two door leaves; simplified 门 keeps the frame and a central stroke, preserving the concept of an opening.
+  - **simplification:** Reduced stroke count by collapsing the inner leaves to a single vertical line and straightening the frame; standardized as the common radical form in simplified characters.
+- **examples:**
+  - 请把门关上(請把門關上)。
+    - Qǐng bǎ mén guān shàng.
+    - Please close the door.
+  - 他选了三门课程(他選了三門課程)。
+    - Tā xuǎn le sān mén kèchéng.
+    - He chose three courses.
+  - 我在门口等你(我在門口等你)。
+    - Wǒ zài ménkǒu děng nǐ.
+    - I'll wait for you at the entrance.
+### 西门町 → 町
+- **pinyin:** dīng
+- **definition:** ward; town block; toponymic suffix (from Japanese); place-naming element
+- **components:**
+  - 田
+    - tián
+    - field; farmland
+  - 丁
+    - dīng
+    - fourth heavenly stem; adult male
+- **etymology:**
+  - **type:** Phono-semantic compound
+  - **description:** Phono-semantic compound (形聲 / 形声, OC *tʰeːnʔ, *tʰeːŋ, *tʰeːŋʔ, *deːŋʔ): semantic 田 (“field”) + phonetic 丁 (OC *rteːŋ, *teːŋ).
+  - **interpretation:** A field component suggests land divisions or blocks, aligning with the sense of a ward or town block. The 丁 element supplies the pronunciation close to dīng, while the overall meaning reflects areas partitioned like fields. Later usage as a place-naming suffix comes via Japanese influence.
+- **examples:**
+  - 日本的地址常用“町”表示街区或行政区划(日本的地址常用「町」表示街區或行政區劃)。
+    - Rìběn de dìzhǐ cháng yòng “dīng” biǎoshì jiēqū huò xíngzhèng qūhuà.
+    - Japanese addresses often use 町 to indicate a neighborhood or administrative division.
+  - 例如“歌舞伎町”等地名中的“町”是日语的地名后缀(例如「歌舞伎町」等地名中的「町」是日語的地名後綴)。
+    - Lìrú “Gēwǔjì Dīng” děng dìmíng zhōng de “dīng” shì Rìyǔ de dìmíng hòuzuì.
+    - For example, in place names like Kabukichō (歌舞伎町), 町 is a Japanese place-name suffix.
+  - 在中文语境中(在中文語境中)，“町”多见于日本地名或译名(「町」多見於日本地名或譯名)，读作“dīng”(讀作「dīng」)。
+    - Zài Zhōngwén yǔjìng zhōng, “dīng” duō jiàn yú Rìběn dìmíng huò yìmíng, dú zuò “dīng”.
+    - In Chinese contexts, 町 is mostly seen in Japanese place names or their translations and is read as dīng.
+### 西门町 → 町 → 田
+- **pinyin:** tián
+- **definition:** field; farmland
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram: pictographic representation of a field divided into four sections.
+  - **interpretation:** Depicts a top-down view of a plot divided by paths or furrows, which naturally came to denote farmland. The square-with-cross motif also lent itself in some ancient contexts to a mask-like image, influencing related graphs.
+- **examples:**
+  - 这片田很肥沃(這片田很肥沃)。
+    - Zhè piàn tián hěn féiwò.
+    - This field is very fertile.
+  - 他们在田里劳动(他們在田裡勞動)。
+    - Tāmen zài tián lǐ láodòng.
+    - They are working in the fields.
+  - 春天农民在田里插秧(春天農民在田裡插秧)。
+    - Chūntiān nóngmín zài tián lǐ chāyāng.
+    - In spring, farmers transplant rice seedlings in the fields.
+### 西门町 → 町 → 丁
+- **pinyin:** dīng
+- **definition:** fourth heavenly stem; adult male
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Pictogram (象形); different theories exist; see also 旦
+  - **interpretation:** Often explained as the silhouette of a nail or spike, or a simple vertical post with a cap-like head. Its extremely simple form was later borrowed to label the fourth Heavenly Stem, and by administrative extension it came to denote an adult male for census/tax purposes.
+- **examples:**
+  - 甲乙丙丁是天干的前四位(甲乙丙丁是天干的前四位)。
+    - Jiǎ Yǐ Bǐng Dīng shì tiāngān de qián sì wèi.
+    - Jiǎ, Yǐ, Bǐng, Dīng are the first four of the Heavenly Stems.
+  - 他出生在丁亥年(他出生在丁亥年)。
+    - Tā chūshēng zài Dīnghài nián.
+    - He was born in the year of Dīnghài.
+  - 本县有三千丁(本縣有三千丁)。
+    - Běn xiàn yǒu sān qiān dīng.
+    - This county has three thousand adult males.
+%%%
+

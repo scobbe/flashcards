@@ -99,6 +99,10 @@ def process_folder(
     raw_path = input_folder / config.raw_input_file
     output_dir = get_output_dir(input_folder, config)
 
+    # Input-parsed directory is sibling to output directory
+    input_parsed_dir = output_dir.parent / "input-parsed"
+    input_parsed_dir.mkdir(parents=True, exist_ok=True)
+
     # Clear output dir if cache is disabled (do this BEFORE checking manifest)
     if not config.cache:
         cleared = clear_output_dir_for_no_cache(input_folder, config)
@@ -106,7 +110,7 @@ def process_folder(
             print(f"[cache] Cleared {cleared} items from generated folder")
 
     # Check input manifest to see if parsing is already complete
-    input_manifest = load_input_manifest(output_dir)
+    input_manifest = load_input_manifest(input_parsed_dir)
     parsing_complete = (
         input_manifest.get("complete", 0) > 0 and
         input_manifest.get("pending", 0) == 0 and
@@ -120,8 +124,9 @@ def process_folder(
     if verbose:
         print(f"📂 Input folder: {input_folder}")
         print(f"📁 Output folder: {output_dir}")
+        print(f"📁 Input-parsed folder: {input_parsed_dir}")
         print(f"📝 Output type: {config.output_type}")
-    
+
     # Step 1: Parse raw input if needed
     # Skip parsing if manifest shows all chunks are complete
     needs_parsing = raw_path.exists() and not parsing_complete
@@ -134,17 +139,17 @@ def process_folder(
         try:
             if config.output_type == "english":
                 # Simple English parsing (no OpenAI needed for input)
-                process_english_input(raw_path, output_dir, verbose=verbose)
+                process_english_input(raw_path, input_parsed_dir, verbose=verbose)
             else:
                 # Chinese vocab parsing with OpenAI
                 # Always skip subword extraction (unified chinese mode)
-                process_input_file(raw_path, model=model, verbose=verbose, output_dir=output_dir, skip_subwords=True, chunk_range=chunk_range)
+                process_input_file(raw_path, model=model, verbose=verbose, output_dir=input_parsed_dir, skip_subwords=True, chunk_range=chunk_range)
         except Exception as e:
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
 
         # Re-check manifest after parsing
-        input_manifest = load_input_manifest(output_dir)
+        input_manifest = load_input_manifest(input_parsed_dir)
         parsing_complete = (
             input_manifest.get("complete", 0) > 0 and
             input_manifest.get("pending", 0) == 0 and
@@ -154,7 +159,7 @@ def process_folder(
 
     # Input must be 100% complete before proceeding to output
     if not parsing_complete:
-        input_manifest = load_input_manifest(output_dir)
+        input_manifest = load_input_manifest(input_parsed_dir)
         if verbose:
             complete = input_manifest.get("complete", 0)
             pending = input_manifest.get("pending", 0)

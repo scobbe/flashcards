@@ -860,6 +860,31 @@ def process_chinese_row(
         raise
 
 
+def _clear_output_folder(out_dir: Path, verbose: bool = False) -> None:
+    """Clear all contents from output folder."""
+    import shutil
+    if not out_dir.exists():
+        return
+
+    # Delete everything in the output folder
+    for item in out_dir.iterdir():
+        if item.is_file():
+            item.unlink()
+            if verbose:
+                print(f"[chinese] [clear] Removed: {item.name}")
+        elif item.is_dir():
+            shutil.rmtree(item)
+            if verbose:
+                print(f"[chinese] [clear] Removed directory: {item.name}")
+
+
+def _get_input_parsed_dir(out_dir: Path) -> Path:
+    """Get the input-parsed directory (sibling to output folder)."""
+    input_parsed_dir = out_dir.parent / "input-parsed"
+    input_parsed_dir.mkdir(parents=True, exist_ok=True)
+    return input_parsed_dir
+
+
 def process_chinese_folder(
     folder: Path,
     model: Optional[str] = None,
@@ -880,11 +905,17 @@ def process_chinese_folder(
     """
     out_dir = folder
 
-    # Read input
-    parsed_path = folder / "-input.parsed.csv"
+    # Get input-parsed directory (sibling to output folder)
+    input_parsed_dir = _get_input_parsed_dir(out_dir)
+
+    # Clear output folder (remove all generated files, rely on cache)
+    _clear_output_folder(out_dir, verbose=verbose)
+
+    # Read input from input-parsed directory
+    parsed_path = input_parsed_dir / "-input.parsed.csv"
     if not parsed_path.exists():
-        # Try chunk CSVs
-        all_rows = _read_all_chunk_csvs(folder)
+        # Try chunk CSVs from input-parsed
+        all_rows = _read_all_chunk_csvs(input_parsed_dir)
     else:
         rows = read_parsed_input(parsed_path)
         # Skip sub-words (relation field not empty)
@@ -893,10 +924,10 @@ def process_chinese_folder(
 
     if not all_rows:
         if verbose:
-            print(f"[chinese] [skip] No parsed input in {folder}")
+            print(f"[chinese] [skip] No parsed input in {input_parsed_dir}")
         return 0, 0
 
-    # Initialize manifest
+    # Initialize manifest (fresh each time, rely on cache for resumption)
     word_keys = [f"{idx}.{simp or trad}" for idx, _, simp, trad, _, _, _, _ in all_rows]
     init_output_manifest(out_dir, word_keys)
 

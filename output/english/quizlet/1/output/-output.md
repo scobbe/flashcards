@@ -1,4 +1,4 @@
-## The lady doth protest too much
+## The lady doth protest too much, methinks
 ---
 - **definition:**
   - said when someone denies something so strongly or so often that it seems insincere
@@ -13,148 +13,6 @@
   - by the 19th–20th centuries the quotation had become an idiom meaning “deny too emphatically,” often shortened to protest too much in journalism and everyday speech
 - **pronunciation:**
   - thuh LAY-dee duth pro-TEST too MUCH
-%%%
-
-
-## Zither
----
-- **definition:**
-  - a stringed instrument with many strings stretched across a flat body, played by plucking or strumming
-  - by extension, any member of a family of flat-bodied string instruments (such as the concert zither or autoharp)
-- **etymology:**
-  - borrowed into english in the mid-19th century from german Zither
-  - from latin cithara and ultimately greek kithara, meaning “lyre” or “harp-like instrument”
-  - the shift from c/k to z reflects german spelling/pronunciation; it shares the ancient root with “guitar” and “cittern”
-- **history:**
-  - first attested in english in the mid-1800s, as the modern concert zither spread from alpine regions (austria, bavaria, tyrol) during a boom in parlor and folk music
-  - popular through 19th-century central europe via virtuosos and urban salons; usage waned with the rise of accordion and guitar, then surged globally in 1949 with anton karas’s zither theme for The Third Man
-  - in the 20th–21st centuries it persists in central european folk traditions and periodic revivals in folk, film, and niche classical settings
-- **pronunciation:**
-  - ZITH-er
-%%%
-
-
-## Sunnah
----
-- **definition:**
-  - the Prophet Muhammad’s teachings, actions, and approvals, taken as a model and a primary source for Islamic law and ethics
-  - more generally, a customary practice or established way; in Islamic law, a recommended (not obligatory) act
-- **etymology:**
-  - from Arabic sunnah ‘custom, practice; established way,’ from the root s-n-n meaning ‘to lay down (a rule), make smooth, sharpen,’ giving the sense ‘set course’
-  - borrowed into English from Arabic (also seen as sunna or sunnat), often capitalized when referring to the Prophet’s tradition
-  - related to Arabic ahl al-sunna ‘people of the tradition,’ the source of the term Sunni
-- **history:**
-  - in pre-Islamic Arabia, sunnah meant customary practice; by the 7th–8th centuries CE it came to denote the Prophet’s normative example
-  - the concept was systematized with major hadith compilations in the 9th century (e.g., al-Bukhari, d. 870; Muslim, d. 875), shaping law, ritual, and ethics
-  - entered English scholarly usage in the 19th century via Orientalist studies; modern usage contrasts Sunnah with bid‘ah (innovation) and also labels non-obligatory acts as sunnah
-- **pronunciation:**
-  - SOON-nuh
-%%%
-
-
-## Hadith
----
-- **definition:**
-  - a report describing what the Prophet Muhammad said, did, or approved
-  - the collected body of these reports, a key source for Islamic law, belief, and practice
-- **etymology:**
-  - from Arabic hadith, meaning "speech, report; narration," from the root h-d-th "to happen; to tell"
-  - borrowed into English via scholarly transliteration; Arabic plural is ahadith
-- **history:**
-  - after Muhammad’s death in 632 CE, reports were preserved orally; major Sunni collections were compiled in the 8th–9th centuries (e.g., by al-Bukhari and Muslim) under the Abbasids
-  - methods to verify chains of transmission and content developed between the 8th–10th centuries; Shia compendia (the Four Books) took shape by the 10th–11th centuries
-  - the term entered English scholarly writing by the late 18th–19th centuries amid Orientalist studies; modern usage appears in academia and media, with plurals "hadiths" or "ahadith"
-- **pronunciation:**
-  - hah-DEETH
-%%%
-
-
-## Tafsir
----
-- **definition:**
-  - the scholarly interpretation and explanation of the Qur'an
-  - a commentary or book that explains Qur'anic verses using language, context, and tradition
-- **etymology:**
-  - from Arabic tafsir (tafsīr), a verbal noun meaning "explanation" or "exegesis"
-  - formed from the verb fassara "to explain, interpret," based on the triliteral root F-S-R meaning "to make clear"
-  - borrowed into English as an unchanged Arabic loanword used in scholarly contexts
-- **history:**
-  - early Islamic exegesis took shape in the 7th–8th centuries as companions and successors interpreted verses and collected reports
-  - the discipline matured in the 9th–14th centuries with major works by al-Tabari (d. 923), al-Zamakhshari (d. 1144), al-Razi (d. 1210), and Ibn Kathir (d. 1373)
-  - the term entered English academic writing by the late 19th century; 20th-century usage grew with modernist and reformist commentaries (e.g., Muhammad Abduh, Sayyid Qutb)
-- **pronunciation:**
-  - taf-SEER
-%%%
-
-
-## Shimr
----
-- **definition:**
-  - a proper noun: the name of a 7th-century Arab commander implicated in the killing of Husayn ibn Ali at the Battle of Karbala
-  - in Shia discourse, a byword for cruelty or treachery drawn from that historical figure
-- **etymology:**
-  - from Arabic Shimr (شِمْر), a personal name; entered English as a transliteration from Arabic chronicles
-  - built on the Arabic root sh-m-r meaning 'to roll up (one's sleeves), prepare, be brisk'; the exact literal sense as a name is uncertain
-  - the full historical name Shimr ibn Dhi'l-Jawshan uses the patronymic formula 'ibn' meaning 'son of'
-- **history:**
-  - 680 ce: recorded as a key Umayyad-aligned figure at the Battle of Karbala, where Husayn ibn Ali was killed
-  - by the 19th century, the name appears in English-language histories and Orientalist studies of early Islam
-  - over time, especially in Shia communities, 'Shimr' becomes a symbol of betrayal and brutality in sermons, passion plays (ta'ziya), and literature
-- **pronunciation:**
-  - SHIM-er
-%%%
-
-
-## Chicory
----
-- **definition:**
-  - a hardy blue-flowered plant (Cichorium intybus); its leaves are eaten as salad greens and its bitter root is edible
-  - the roasted, ground root of this plant used as a coffee substitute or flavoring
-- **etymology:**
-  - from french chicorée (middle french), from latin cichorium, meaning “wild endive”
-  - ultimately from greek kichorion “wild endive”; likely of semitic/egyptian origin; the english form was shaped by french spelling
-- **history:**
-  - first recorded in english in the 16th century; long cultivated around the mediterranean and in europe as a bitter salad herb and remedy
-  - use as a coffee substitute expanded during shortages under the napoleonic continental system (1806–1814) and the u.s. civil war (1861–65), becoming a new orleans tradition
-  - in the mid-1800s, growers developed blanched heads like belgian endive from chicory roots, widening its culinary uses
-- **pronunciation:**
-  - CHIK-uh-ree
-%%%
-
-
-## Amoy
----
-- **definition:**
-  - the former English name for Xiamen, a port city in Fujian, China
-  - the Southern Min (Hokkien) dialect spoken in and around Xiamen; also called Xiamenese
-- **etymology:**
-  - from the local Southern Min (Hokkien) name for 厦门, heard by Europeans as "E-mui"/"E-mng"
-  - borrowed into English via Portuguese and Dutch spellings, with "moy" approximating the Hokkien -ui sound
-  - built from Chinese characters 厦 xià "mansion, large building" + 门 mén "gate," the literal elements of the place name
-- **history:**
-  - recorded in European maps and travelogues from the 1600s as traders reached Fujian’s coast
-  - captured by the British in 1841 during the First Opium War; opened as a treaty port in 1842, fixing "Amoy" in Western usage
-  - after China adopted pinyin (from 1979 onward), "Xiamen" replaced "Amoy" officially, though the older name persists for the dialect and in historical works
-- **pronunciation:**
-  - uh-MOY
-%%%
-
-
-## Muselet
----
-- **definition:**
-  - a small twisted wire cage that secures the cork on a bottle of Champagne or other sparkling wine against internal pressure
-  - by extension, the complete wire-and-cap assembly used to fasten such corks
-- **etymology:**
-  - from French muselet, literally "little muzzle," formed with the diminutive suffix -et
-  - from French museler "to muzzle" and museau "muzzle, snout," referring to restraining the cork
-  - built on the idea of a small muzzle holding something in place
-- **history:**
-  - before the mid-1800s, sparkling wine corks were held with string or hemp, a risky method prone to leaks and bottle bursts
-  - in 1844 Adolphe Jacquesson (of Champagne Jacquesson) patented the wire cage and cap, which rapidly became standard in Champagne
-  - the French term entered English wine-trade writing by the early 1900s; late 20th-century branding turned the cap discs into collectible designs
-- **pronunciation:**
-  - myoo-zuh-LAY
 %%%
 
 
@@ -338,6 +196,24 @@
 %%%
 
 
+## Zither
+---
+- **definition:**
+  - a stringed instrument with many strings stretched across a flat body, played by plucking or strumming
+  - by extension, any member of a family of flat-bodied string instruments (such as the concert zither or autoharp)
+- **etymology:**
+  - borrowed into english in the mid-19th century from german Zither
+  - from latin cithara and ultimately greek kithara, meaning “lyre” or “harp-like instrument”
+  - the shift from c/k to z reflects german spelling/pronunciation; it shares the ancient root with “guitar” and “cittern”
+- **history:**
+  - first attested in english in the mid-1800s, as the modern concert zither spread from alpine regions (austria, bavaria, tyrol) during a boom in parlor and folk music
+  - popular through 19th-century central europe via virtuosos and urban salons; usage waned with the rise of accordion and guitar, then surged globally in 1949 with anton karas’s zither theme for The Third Man
+  - in the 20th–21st centuries it persists in central european folk traditions and periodic revivals in folk, film, and niche classical settings
+- **pronunciation:**
+  - ZITH-er
+%%%
+
+
 ## Pericles
 ---
 - **definition:**
@@ -513,6 +389,24 @@
   - from the late medieval period to modern times, communities spread to Crimea and Lithuania; in the 19th c. the Russian Empire granted Crimean/Lithuanian Karaites distinct legal status; today small communities exist in Israel, Eastern Europe, and the U.S.
 - **pronunciation:**
   - KAIR-uh-ite JOO-dee-iz-uhm
+%%%
+
+
+## Sunnah
+---
+- **definition:**
+  - the Prophet Muhammad’s teachings, actions, and approvals, taken as a model and a primary source for Islamic law and ethics
+  - more generally, a customary practice or established way; in Islamic law, a recommended (not obligatory) act
+- **etymology:**
+  - from Arabic sunnah ‘custom, practice; established way,’ from the root s-n-n meaning ‘to lay down (a rule), make smooth, sharpen,’ giving the sense ‘set course’
+  - borrowed into English from Arabic (also seen as sunna or sunnat), often capitalized when referring to the Prophet’s tradition
+  - related to Arabic ahl al-sunna ‘people of the tradition,’ the source of the term Sunni
+- **history:**
+  - in pre-Islamic Arabia, sunnah meant customary practice; by the 7th–8th centuries CE it came to denote the Prophet’s normative example
+  - the concept was systematized with major hadith compilations in the 9th century (e.g., al-Bukhari, d. 870; Muslim, d. 875), shaping law, ritual, and ethics
+  - entered English scholarly usage in the 19th century via Orientalist studies; modern usage contrasts Sunnah with bid‘ah (innovation) and also labels non-obligatory acts as sunnah
+- **pronunciation:**
+  - SOON-nuh
 %%%
 
 
@@ -694,6 +588,23 @@
 %%%
 
 
+## Hadith
+---
+- **definition:**
+  - a report describing what the Prophet Muhammad said, did, or approved
+  - the collected body of these reports, a key source for Islamic law, belief, and practice
+- **etymology:**
+  - from Arabic hadith, meaning "speech, report; narration," from the root h-d-th "to happen; to tell"
+  - borrowed into English via scholarly transliteration; Arabic plural is ahadith
+- **history:**
+  - after Muhammad’s death in 632 CE, reports were preserved orally; major Sunni collections were compiled in the 8th–9th centuries (e.g., by al-Bukhari and Muslim) under the Abbasids
+  - methods to verify chains of transmission and content developed between the 8th–10th centuries; Shia compendia (the Four Books) took shape by the 10th–11th centuries
+  - the term entered English scholarly writing by the late 18th–19th centuries amid Orientalist studies; modern usage appears in academia and media, with plurals "hadiths" or "ahadith"
+- **pronunciation:**
+  - hah-DEETH
+%%%
+
+
 ## Steer (bullock)
 ---
 - **definition:**
@@ -871,6 +782,24 @@
 %%%
 
 
+## Tafsir
+---
+- **definition:**
+  - the scholarly interpretation and explanation of the Qur'an
+  - a commentary or book that explains Qur'anic verses using language, context, and tradition
+- **etymology:**
+  - from Arabic tafsir (tafsīr), a verbal noun meaning "explanation" or "exegesis"
+  - formed from the verb fassara "to explain, interpret," based on the triliteral root F-S-R meaning "to make clear"
+  - borrowed into English as an unchanged Arabic loanword used in scholarly contexts
+- **history:**
+  - early Islamic exegesis took shape in the 7th–8th centuries as companions and successors interpreted verses and collected reports
+  - the discipline matured in the 9th–14th centuries with major works by al-Tabari (d. 923), al-Zamakhshari (d. 1144), al-Razi (d. 1210), and Ibn Kathir (d. 1373)
+  - the term entered English academic writing by the late 19th century; 20th-century usage grew with modernist and reformist commentaries (e.g., Muhammad Abduh, Sayyid Qutb)
+- **pronunciation:**
+  - taf-SEER
+%%%
+
+
 ## Sybarite
 ---
 - **definition:**
@@ -1044,6 +973,24 @@
   - the term appears in English by the late 14th–15th century; from the 17th century it gained figurative use for compliant regional rulers or petty autocrats in political discourse
 - **pronunciation:**
   - SAY-trap
+%%%
+
+
+## Shimr
+---
+- **definition:**
+  - a proper noun: the name of a 7th-century Arab commander implicated in the killing of Husayn ibn Ali at the Battle of Karbala
+  - in Shia discourse, a byword for cruelty or treachery drawn from that historical figure
+- **etymology:**
+  - from Arabic Shimr (شِمْر), a personal name; entered English as a transliteration from Arabic chronicles
+  - built on the Arabic root sh-m-r meaning 'to roll up (one's sleeves), prepare, be brisk'; the exact literal sense as a name is uncertain
+  - the full historical name Shimr ibn Dhi'l-Jawshan uses the patronymic formula 'ibn' meaning 'son of'
+- **history:**
+  - 680 ce: recorded as a key Umayyad-aligned figure at the Battle of Karbala, where Husayn ibn Ali was killed
+  - by the 19th century, the name appears in English-language histories and Orientalist studies of early Islam
+  - over time, especially in Shia communities, 'Shimr' becomes a symbol of betrayal and brutality in sermons, passion plays (ta'ziya), and literature
+- **pronunciation:**
+  - SHIM-er
 %%%
 
 
@@ -1225,6 +1172,23 @@
 %%%
 
 
+## Chicory
+---
+- **definition:**
+  - a hardy blue-flowered plant (Cichorium intybus); its leaves are eaten as salad greens and its bitter root is edible
+  - the roasted, ground root of this plant used as a coffee substitute or flavoring
+- **etymology:**
+  - from french chicorée (middle french), from latin cichorium, meaning “wild endive”
+  - ultimately from greek kichorion “wild endive”; likely of semitic/egyptian origin; the english form was shaped by french spelling
+- **history:**
+  - first recorded in english in the 16th century; long cultivated around the mediterranean and in europe as a bitter salad herb and remedy
+  - use as a coffee substitute expanded during shortages under the napoleonic continental system (1806–1814) and the u.s. civil war (1861–65), becoming a new orleans tradition
+  - in the mid-1800s, growers developed blanched heads like belgian endive from chicory roots, widening its culinary uses
+- **pronunciation:**
+  - CHIK-uh-ree
+%%%
+
+
 ## Paterfamilias
 ---
 - **definition:**
@@ -1275,5 +1239,41 @@
   - co-founded the Paris School of Economics (2006) and World Inequality Lab (2015); later wrote "Capital and Ideology" (2019; Eng. 2020) and advocates progressive wealth taxes
 - **pronunciation:**
   - toh-MAH pee-keh-TEE
+%%%
+
+
+## Amoy
+---
+- **definition:**
+  - the former English name for Xiamen, a port city in Fujian, China
+  - the Southern Min (Hokkien) dialect spoken in and around Xiamen; also called Xiamenese
+- **etymology:**
+  - from the local Southern Min (Hokkien) name for 厦门, heard by Europeans as "E-mui"/"E-mng"
+  - borrowed into English via Portuguese and Dutch spellings, with "moy" approximating the Hokkien -ui sound
+  - built from Chinese characters 厦 xià "mansion, large building" + 门 mén "gate," the literal elements of the place name
+- **history:**
+  - recorded in European maps and travelogues from the 1600s as traders reached Fujian’s coast
+  - captured by the British in 1841 during the First Opium War; opened as a treaty port in 1842, fixing "Amoy" in Western usage
+  - after China adopted pinyin (from 1979 onward), "Xiamen" replaced "Amoy" officially, though the older name persists for the dialect and in historical works
+- **pronunciation:**
+  - uh-MOY
+%%%
+
+
+## Muselet
+---
+- **definition:**
+  - a small twisted wire cage that secures the cork on a bottle of Champagne or other sparkling wine against internal pressure
+  - by extension, the complete wire-and-cap assembly used to fasten such corks
+- **etymology:**
+  - from French muselet, literally "little muzzle," formed with the diminutive suffix -et
+  - from French museler "to muzzle" and museau "muzzle, snout," referring to restraining the cork
+  - built on the idea of a small muzzle holding something in place
+- **history:**
+  - before the mid-1800s, sparkling wine corks were held with string or hemp, a risky method prone to leaks and bottle bursts
+  - in 1844 Adolphe Jacquesson (of Champagne Jacquesson) patented the wire cage and cap, which rapidly became standard in Champagne
+  - the French term entered English wine-trade writing by the early 1900s; late 20th-century branding turned the cap discs into collectible designs
+- **pronunciation:**
+  - myoo-zuh-LAY
 %%%
 

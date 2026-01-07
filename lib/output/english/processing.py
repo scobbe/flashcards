@@ -17,6 +17,23 @@ from lib.common.manifest import is_word_complete, mark_word_complete, init_outpu
 from lib.output.english.cards import write_english_card_md, generate_english_card_content
 
 
+def _clear_output_folder(out_dir: Path, verbose: bool = False) -> None:
+    """Clear all contents from output folder."""
+    import shutil
+    if not out_dir.exists():
+        return
+
+    for item in out_dir.iterdir():
+        if item.is_file():
+            item.unlink()
+            if verbose:
+                print(f"[english] [clear] Removed: {item.name}")
+        elif item.is_dir():
+            shutil.rmtree(item)
+            if verbose:
+                print(f"[english] [clear] Removed directory: {item.name}")
+
+
 def _sanitize_filename(name: str) -> str:
     """Sanitize a string for use as a filename."""
     return re.sub(r'[/\\:*?"<>|]', '_', name)
@@ -123,33 +140,38 @@ def process_english_folder(
 ) -> Tuple[int, int]:
     """Process a folder in English mode.
 
-    Reads from -input.parsed.csv (created by input parsing step).
+    Reads from -input.parsed.csv in input-parsed directory (sibling to output folder).
     Uses manifest-based tracking: each word is complete or not.
 
     Args:
-        folder: Output folder for generated cards (contains -input.parsed.csv)
+        folder: Output folder for generated cards
         model: OpenAI model name
         verbose: Enable verbose logging
         workers: Number of parallel workers (default: DEFAULT_PARALLEL_WORKERS)
 
     Returns (total_words, cards_created) tuple.
     """
-    parsed_path = folder / "-input.parsed.csv"
+    # Get input-parsed directory (sibling to output folder)
+    input_parsed_dir = folder.parent / "input-parsed"
+    parsed_path = input_parsed_dir / "-input.parsed.csv"
     if not parsed_path.exists():
         if verbose:
-            print(f"[english] [skip] No -input.parsed.csv in {folder}")
+            print(f"[english] [skip] No -input.parsed.csv in {input_parsed_dir}")
         return 0, 0
-    
+
+    # Clear output folder (remove all generated files, rely on cache)
+    _clear_output_folder(folder, verbose=verbose)
+
     words = read_english_input(parsed_path)
-    
+
     if verbose:
         print(f"[english] [info] Read {len(words)} words from {parsed_path.name}")
-    
+
     if verbose:
         print(f"[english] [info] Processing {len(words)} English words from {folder.name}/")
-    
+
     out_dir = folder
-    
+
     # Initialize output manifest with all expected words
     word_keys = [f"{idx}.{word}" for idx, word in enumerate(words, start=1)]
     init_output_manifest(out_dir, word_keys)

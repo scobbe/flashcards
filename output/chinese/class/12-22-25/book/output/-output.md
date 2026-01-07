@@ -2,7 +2,7 @@
 ---
 - **pinyin:** zhe
 - **definition:** indicating the continuous aspect
-- **etymology:** Phono-semantic: traditionally built with the 'grass' radical (signaling something manifest/standing out) plus a phonetic element; the simplified form features an 'eye,' evoking something perceptible. This notion of being attached/visible underlies its role marking a state currently in effect (continuous aspect).
+- **etymology:** From Middle Chinese 著 (MC trjak).
 - **examples:**
   - 灯还亮着(燈還亮著)。
     - dēng hái liàng zhe
@@ -39,7 +39,7 @@
   - 上
     - shàng
     - above, on, over; to go up, ascend; previous, earlier; to attend, go to
-- **etymology:** Literally “on horseback,” evoking the speed and readiness of a mounted rider, so something done 马上 happens without delay; by extension from acting while still in the saddle to “immediately.”
+- **etymology:** Literally "on horseback": in premodern courier and military culture, doing or replying from the saddle—without even dismounting—signaled zero delay, so 马(馬) (mǎ, "horse") + 上 (shàng, "on; to mount") shifted from a spatial phrase to a temporal adverb meaning "at once." Since 上 (shàng, "on; to mount") also means "to mount," 马上 evokes "the moment one gets on the horse," culturally the fastest possible readiness, hence "immediately.".
 - **examples:**
   - 我马上就给你回电话(我馬上就給你回電話)。
     - wǒ mǎshàng jiù gěi nǐ huí diànhuà
@@ -73,7 +73,7 @@
   - 膊
     - bó
     - upper arm, shoulder area; arm (colloquial, in 胳膊)
-- **etymology:** Two flesh-radical body-part morphemes combine, with 膊 (upper arm) as the head and 胳 as a colloquial limb tag, forming a pleonastic binome that emphatically denotes the arm from the shoulder down.
+- **etymology:** Both syllables are “flesh” characters: 胳 (gē, "limb/arm (colloq.)") is a northern bound morpheme that flags a body part and creates an euphonic disyllable, while 膊 (bó, "upper arm") supplies the specific referent—together literally ‘fleshy limb—upper arm,’ i.e., the arm. Historically alongside 胳臂 (gēbì, with 臂 (bì, "arm")) and 胳肢窝, it reflects a Beijing/Northern pattern where 胳 marks ‘limb’ and 膊, sharing the 肉 (ròu, "flesh") radical, replaced 臂 to form the settled colloquial form.
 - **examples:**
   - 他抬起胳膊(他抬起胳膊)，向我挥手(向我揮手)。
     - tā tái qǐ gē bo xiàng wǒ huī shǒu
@@ -91,7 +91,7 @@
 ---
 - **pinyin:** tuǐ
 - **definition:** leg
-- **etymology:** Phono-semantic: the left “flesh” radical ⺼/月 marks a body part, while 退 on the right provides the sound and evokes stepping/retreating, fitting the idea of the limb used to move.
+- **etymology:** Phono-semantic compound: semantic 肉 (ròu, "flesh") + phonetic 退.
 - **examples:**
   - 她的腿很长(她的腿很長)。
     - tā de tuǐ hěn cháng
@@ -109,7 +109,7 @@
 ---
 - **pinyin:** qí
 - **definition:** to ride
-- **etymology:** Phono-semantic: the horse radical signals an action involving a horse, while 奇 provides the sound. Together it denotes mounting/straddling a horse, hence “to ride.”
+- **etymology:** Phono-semantic compound: semantic 馬 (mǎ, "horse") + phonetic 奇 – to ride horseback Etymology: Wanderwort in the E/SE Asian Sprachbund.
 - **examples:**
   - 他每天骑自行车上班(他每天騎自行車上班)。
     - tā měitiān qí zìxíngchē shàngbān
@@ -137,7 +137,7 @@
   - 车(車)
     - chē
     - vehicle, car; cart, wagon; chariot; to turn on a lathe
-- **etymology:** Literally a “self-moving vehicle”: a conveyance that goes by one’s own power rather than animals or engines, hence the human-powered bicycle.
+- **etymology:** Styled as a 车(車) (chē, "vehicle") that 自 (zì, "by oneself") 行 (xíng, "goes"), it signals a conveyance propelled by the rider rather than animals or engines, reflecting late Qing–early Republic practice of naming vehicles by motive force. The choice of 行 (xíng, "to walk/go") evokes human locomotion, capturing the metaphor of turning one’s own walking into wheeled travel.
 - **examples:**
   - 他把自行车停在门口(他把自行車停在門口)。
     - tā bǎ zì xíng chē tíng zài mén kǒu
@@ -158,7 +158,7 @@
 ---
 - **pinyin:** xiào
 - **definition:** to laugh; to smile
-- **etymology:** Phono-semantic: top 竹 ‘bamboo’ hints at light, crisp sounds, while lower 夭 (a bending sprout/person) supplies the sound value and a sense of sprightly liveliness—together evoking laughing and smiling.
+- **etymology:** Phono-semantic compound: phonetic 艸 (cǎo, "grass") + semantic 犬 (quǎn, "dog").
 - **examples:**
   - 听到那个笑话(聽到那個笑話)，他笑得停不下来(他笑得停不下來)。
     - tīng dào nàge xiàohuà, tā xiào de tíng bù xià lái
@@ -195,7 +195,7 @@
   - 意
     - yì
     - meaning, sense; intention, purpose; idea, thought
-- **etymology:** Combines the notion of pouring/focusing with mind/intent, evoking the act of channeling one’s intention toward something—hence paying attention.
+- **etymology:** 注 (zhù, "pour; focus") evokes channeling a stream toward a point and by extension fixing one's gaze or effort. Applied to 意 (yì, "intention; thought"), it frames attention as aiming the mind—directing the flow of awareness toward a target—hence "pay attention," contrasted with 註 (zhù, "annotate") for writing notes.
 - **examples:**
   - 开车时要注意安全(開車時要注意安全)，保持专注(保持專注)。
     - kāi chē shí yào zhùyì ānquán, bǎochí zhuānzhù
@@ -219,7 +219,7 @@
 ---
 - **pinyin:** tíng
 - **definition:** to stop; to park
-- **etymology:** Composed of the 'person' radical (亻) plus 'pavilion' (亭), with 亭 providing the sound; the image of a person by a pavilion evokes stopping to rest, yielding the meaning 'to stop; to park.'
+- **etymology:** Phono-semantic compound: semantic 亻 + phonetic 亭.
 - **examples:**
   - 看到红灯(看到紅燈)，就停下(就停下)。
     - kàn dào hóng dēng jiù tíng xià
@@ -253,7 +253,7 @@
   - 费(費)
     - fèi
     - expense, cost, fee; to spend, to expend; to waste
-- **etymology:** Joins “medical care and medicines” with the morpheme for “expense,” specifying the monetary outlay for treatment and drugs.
+- **etymology:** 医(醫) (yī, "to heal") and 药(藥) (yào, "medicines") form a stock pairing that spans both medical services and the remedies used; adding 费(費) (fèi, "expense," signaled by the 貝 ‘shell‑money’ element) designates the money laid out for the whole course of care, reflecting traditional accounting where 醫藥 grouped treatment and drugs as a single cost category.
 - **examples:**
   - 保险不能报销所有的医药费(保險不能報銷所有的醫藥費)，我们自己还要付一部分(我們自己還要付一部分)。
     - bǎoxiǎn bù néng bàoxiāo suǒyǒu de yīyàofèi wǒmen zìjǐ hái yào fù yí bùfèn
@@ -275,7 +275,7 @@
   - 为(為)
     - wéi, wèi
     - to do, act; to be, become, serve as; for, for the sake of; because of, due to
-- **etymology:** Literally “take it to be,” combining the sense of taking/using (以) with being/doing (为) to mean “regard/assume X as Y,” hence a subjective, often mistaken, belief.
+- **etymology:** 以 (yǐ, "to take; by means of") signals the act of mentally 'taking/adopting' something as a basis, while 为(為) (wéi, "to be; to deem") supplies the resulting status—hence the classical judgment pattern 以A為B "take A as B," later generalized to clause complements as "to think/assume." Because the stance rests on one’s own taking (以) rather than established fact, modern 以为 often carries a subjective—and frequently mistaken—shade of meaning.
 - **examples:**
   - 我以为他已经走了(我以為他已經走了)，结果他还在(結果他還在)。
     - wǒ yǐwéi tā yǐjīng zǒu le, jiéguǒ tā hái zài
@@ -296,7 +296,7 @@
 ---
 - **pinyin:** sòng
 - **definition:** to take someone somewhere; to see someone off
-- **etymology:** Combines the walking radical 辶 with phonetic 关 ‘gate/pass’: the motion element signals going, and the gate imagery evokes accompanying someone to or beyond the gate—hence to send or see off.
+- **etymology:** Phono-semantic compound: semantic 辶 ("to walk") + phonetic 灷 (zhuàn).
 - **examples:**
   - 我送你回家(我送你回家)。
     - wǒ sòng nǐ huí jiā
@@ -333,7 +333,7 @@
   - 果
     - guǒ
     - fruit; result, outcome; to bear fruit, to yield results; indeed, really
-- **etymology:** Combines the sense of 'as/if' (如) with 'result/indeed' (果) to frame a hypothetical oriented toward its consequence—'if it is thus, then (this follows)'. In classical nuance, 果 adds an 'indeed/in fact' force that underscores the conditional.
+- **etymology:** 如 (rú, "as; if") sets up a supposition—‘supposing it is so’, while 果 (guǒ, "result; indeed") extends from ‘fruit’ to ‘outcome/actualization’, yielding the sense ‘if it actually turns out that…’. This reflects classical pairing of a conditional with a reality/result marker (e.g., 若 (ruò, "if") + 果 (guǒ, "indeed") and the reversed 果如 (guǒrú, "just as [expected]")), so 如果 naturally reads as ‘if’.
 - **examples:**
   - 如果你有时间(如果你有時間)，我们就一起吃饭(我們就一起吃飯)。
     - rúguǒ nǐ yǒu shíjiān, wǒmen jiù yìqǐ chīfàn
@@ -345,7 +345,7 @@
 ---
 - **pinyin:** bèi
 - **definition:** by (used to indicate the passive voice)
-- **etymology:** Phono-semantic compound: left 'clothing' radical (衤) signals cloth/covering, while right 'skin' (皮) supplies the sound and image. The notion of being covered/acted upon extended to 'being subjected to,' which became the passive marker 'by'.
+- **etymology:** Phono-semantic compound: semantic 衣 (yī, "clothing") + phonetic 皮 (pí, "skin").
 - **examples:**
   - 他昨天被老师严厉批评了(他昨天被老師嚴厲批評了)。
     - tā zuó tiān bèi lǎo shī yán lì pī píng le
@@ -369,7 +369,7 @@
 ---
 - **pinyin:** zhuàng
 - **definition:** to knock; to collide
-- **etymology:** Left “hand” radical marks a striking/doing action; right “heavy” provides the sound (zhòng → zhuàng) and suggests weight/force, evoking a hand-driven heavy impact—hence to knock or collide.
+- **etymology:** Phono-semantic compound: semantic 扌 + phonetic 童.
 - **examples:**
   - 他不小心把花瓶撞倒了(他不小心把花瓶撞倒了)。
     - tā bù xiǎo xīn bǎ huā píng zhuàng dǎo le
@@ -393,7 +393,7 @@
 ---
 - **pinyin:** shāng
 - **definition:** to hurt; to wound
-- **etymology:** A phono-semantic compound with the person radical indicating someone is affected, plus a phonetic element from the 昜/扬 family giving the shāng sound; the juxtaposition reads as “a person with an opened/raised gash,” hence ‘to wound.’
+- **etymology:** From 傷 (昜 → 力).
 - **examples:**
   - 他说的话伤了她的心(他說的話傷了她的心)。
     - tā shuō de huà shāng le tā de xīn
@@ -414,7 +414,7 @@
 ---
 - **pinyin:** dì
 - **definition:** for ordinal numbers
-- **etymology:** Combines the bamboo radical on top—evoking bamboo slips/tags used for recording and ranking—with the phonetic 弟 (“younger brother”), giving the sound dì and hinting at order among siblings, hence the sense of marking sequence/ordinals.
+- **etymology:** Phono-semantic compound: semantic 𥫗 ("bamboo") + phonetic 弟.
 - **examples:**
   - 这是我第一次来中国(這是我第一次來中國)。
     - zhè shì wǒ dì yī cì lái zhōngguó
@@ -445,7 +445,7 @@
   - 查
     - chá, zhā
     - check, examine; look up, consult; investigate; surname Zhā
-- **etymology:** Combines holding things to proper standards (检) with actively looking into and verifying (查) to express systematic checking and investigation. The shared 木 radical hints at measuring/recording tools (e.g., wooden tallies), metaphorically grounding the act of examination.
+- **etymology:** 检(檢) (jiǎn, "to restrain/hold fast; to check against a standard") conveys bringing things under control for verification, while 查 (chá, "to look into, search")—a later phonetic loan from 察—keeps the 木 radical that evokes paging through wooden/bamboo records. In an administrative culture that audited matters by matching them to registers and then probing discrepancies, pairing “verify against a standard” with “search/investigate” naturally yields the sense of a thorough examination.
 - **examples:**
   - 医生仔细检查了病人的伤口(醫生仔細檢查了病人的傷口)，并记录了情况(並記錄了情況)。
     - yīshēng zǐxì jiǎnchá le bìngrén de shāngkǒu, bìng jìlù le qíngkuàng
@@ -472,7 +472,7 @@
 ---
 - **pinyin:** zhòng
 - **definition:** serious; heavy
-- **etymology:** Originally a picture of a load—two tiers stacked with a vertical stroke pressing down over an earth/field base—evoking weight. The stacked form semantically extends to gravity and seriousness.
+- **etymology:** Phono-semantic compound and ideogrammic compound: semantic 人 (rén, "man") + phonetic 東 – a man carrying a bag.
 - **examples:**
   - 他的伤势很重(他的傷勢很重)。
     - tā de shāngshì hěn zhòng
@@ -502,7 +502,7 @@
 ---
 - **pinyin:** wán
 - **definition:** to finish; to run out
-- **etymology:** A phonetic-semantic compound: 宀 ‘roof/house’ over 元 ‘origin/primary’ (phonetic), evoking a structure made whole—hence ‘complete/finished.’ By extension, when something is fully completed, nothing remains, giving the sense ‘to run out.’
+- **etymology:** Phono-semantic compound: semantic 宀 (mián, "roof") + phonetic 元.
 - **examples:**
   - 我已经写完报告了(我已經寫完報告了)。
     - wǒ yǐjīng xiě wán bàogào le
