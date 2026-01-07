@@ -62,7 +62,7 @@
 %%%
 
 
-## 胳膊
+## 胳膊(胳膊)
 ---
 - **pinyin:** gēbo
 - **definition:** arm
@@ -73,7 +73,7 @@
   - 膊
     - bó
     - upper arm, shoulder area; arm (colloquial, in 胳膊)
-- **etymology:** Both syllables are “flesh” characters: 胳 (gē, "limb/arm (colloq.)") is a northern bound morpheme that flags a body part and creates an euphonic disyllable, while 膊 (bó, "upper arm") supplies the specific referent—together literally ‘fleshy limb—upper arm,’ i.e., the arm. Historically alongside 胳臂 (gēbì, with 臂 (bì, "arm")) and 胳肢窝, it reflects a Beijing/Northern pattern where 胳 marks ‘limb’ and 膊, sharing the 肉 (ròu, "flesh") radical, replaced 臂 to form the settled colloquial form.
+- **etymology:** Both syllables are “flesh” characters:胳  is a northern bound morpheme that flags a body part and creates an euphonic disyllable(胳  is a northern bound morpheme that flags a body part and creates an euphonic disyllable),while 膊  supplies the specific referent—together literally ‘fleshy limb—upper arm(while 膊  supplies the specific referent—together literally ‘fleshy limb—upper arm),’ i.e., the arm.Historically alongside 胳臂  and 胳肢窝(Historically alongside 胳臂  and 胳肢窩),it reflects a Beijing/Northern pattern where 胳 marks ‘limb’ and 膊(it reflects a Beijing/Northern pattern where 胳 marks ‘limb’ and 膊),sharing the 肉  radical(sharing the 肉  radical),replaced 臂 to form the settled colloquial form.
 - **examples:**
   - 他抬起胳膊(他抬起胳膊)，向我挥手(向我揮手)。
     - tā tái qǐ gē bo xiàng wǒ huī shǒu
@@ -87,7 +87,7 @@
 %%%
 
 
-## 腿
+## 腿(腿)
 ---
 - **pinyin:** tuǐ
 - **definition:** leg
@@ -154,7 +154,7 @@
 %%%
 
 
-## 笑
+## 笑(笑)
 ---
 - **pinyin:** xiào
 - **definition:** to laugh; to smile
@@ -184,7 +184,7 @@
 %%%
 
 
-## 注意
+## 注意(注意)
 ---
 - **pinyin:** zhùyì
 - **definition:** to pay attention to
@@ -215,7 +215,7 @@
 %%%
 
 
-## 停
+## 停(停)
 ---
 - **pinyin:** tíng
 - **definition:** to stop; to park
@@ -292,7 +292,7 @@
 %%%
 
 
-## 送
+## 送(送)
 ---
 - **pinyin:** sòng
 - **definition:** to take someone somewhere; to see someone off
@@ -322,7 +322,7 @@
 %%%
 
 
-## 如果
+## 如果(如果)
 ---
 - **pinyin:** rúguǒ
 - **definition:** if
@@ -333,7 +333,7 @@
   - 果
     - guǒ
     - fruit; result, outcome; to bear fruit, to yield results; indeed, really
-- **etymology:** 如 (rú, "as; if") sets up a supposition—‘supposing it is so’, while 果 (guǒ, "result; indeed") extends from ‘fruit’ to ‘outcome/actualization’, yielding the sense ‘if it actually turns out that…’. This reflects classical pairing of a conditional with a reality/result marker (e.g., 若 (ruò, "if") + 果 (guǒ, "indeed") and the reversed 果如 (guǒrú, "just as [expected]")), so 如果 naturally reads as ‘if’.
+- **etymology:** 如  sets up a supposition—‘supposing it is so’(** 如  sets up a supposition—‘supposing it is so’),while 果  extends from ‘fruit’ to ‘outcome/actualization’(while 果  extends from ‘fruit’ to ‘outcome/actualization’), yielding the sense ‘if it actually turns out that…’. This reflects classical pairing of a conditional with a reality/result marker ,so 如果 naturally reads as ‘if’.
 - **examples:**
   - 如果你有时间(如果你有時間)，我们就一起吃饭(我們就一起吃飯)。
     - rúguǒ nǐ yǒu shíjiān, wǒmen jiù yìqǐ chīfàn
@@ -341,7 +341,7 @@
 %%%
 
 
-## 被
+## 被(被)
 ---
 - **pinyin:** bèi
 - **definition:** by (used to indicate the passive voice)
@@ -365,7 +365,7 @@
 %%%
 
 
-## 撞
+## 撞(撞)
 ---
 - **pinyin:** zhuàng
 - **definition:** to knock; to collide
@@ -410,7 +410,7 @@
 %%%
 
 
-## 第
+## 第(第)
 ---
 - **pinyin:** dì
 - **definition:** for ordinal numbers
@@ -468,7 +468,7 @@
 %%%
 
 
-## 重
+## 重(重)
 ---
 - **pinyin:** zhòng
 - **definition:** serious; heavy
@@ -498,7 +498,7 @@
 %%%
 
 
-## 完
+## 完(完)
 ---
 - **pinyin:** wán
 - **definition:** to finish; to run out

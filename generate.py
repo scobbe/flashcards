@@ -15,50 +15,95 @@ Folder structure:
             1.word.md
             ...
 
+If chunk_size is set in config, creates chunk subfolders instead:
+    output/general/1000/
+        input/
+            -config.json      (with chunk_size: 50)
+            -input.raw.txt
+        chunks/
+            chunk-001/
+                input/-config.json
+                input/-input.raw.txt
+            chunk-002/
+                ...
+
 Usage:
     python generate.py --config output/general/1000/input/-config.json --verbose
 """
 
 import argparse
+import json
 import os
 import sys
 from pathlib import Path
-from typing import List, Optional, Tuple
+from typing import List, Optional
 
-from lib.common.utils import _load_env_file
-
-
-def parse_chunk_range(chunk_arg: Optional[str]) -> Optional[Tuple[int, int]]:
-    """Parse a chunk range argument like '1-5' or '3'.
-    
-    Returns (start, end) tuple (1-indexed, inclusive) or None if no range specified.
-    """
-    if not chunk_arg:
-        return None
-    
-    chunk_arg = chunk_arg.strip()
-    if "-" in chunk_arg:
-        parts = chunk_arg.split("-")
-        if len(parts) == 2:
-            try:
-                start = int(parts[0])
-                end = int(parts[1])
-                if start < 1:
-                    start = 1
-                if end < start:
-                    end = start
-                return (start, end)
-            except ValueError:
-                pass
-    else:
-        try:
-            n = int(chunk_arg)
-            return (n, n)
-        except ValueError:
-            pass
-    
-    return None
+from lib.common.utils import _load_env_file, is_cjk_char
 from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
+
+
+def create_chunk_folders(input_folder: Path, config, verbose: bool = False) -> int:
+    """Split raw input into chunk subfolders based on chunk_size config.
+
+    Creates chunks/ directory with chunk-001/, chunk-002/, etc.
+    Each chunk folder has input/-config.json and input/-input.raw.txt.
+
+    Returns number of chunks created.
+    """
+    raw_path = input_folder / config.raw_input_file
+    if not raw_path.exists():
+        print(f"[error] Raw input file not found: {raw_path}", file=sys.stderr)
+        return 0
+
+    # Read raw input and split by CJK lines
+    with open(raw_path, encoding="utf-8") as f:
+        lines = f.readlines()
+
+    # Filter to lines containing CJK characters
+    cjk_lines = [line for line in lines if any(is_cjk_char(c) for c in line)]
+
+    if not cjk_lines:
+        print(f"[error] No CJK lines found in {raw_path}", file=sys.stderr)
+        return 0
+
+    chunk_size = config.chunk_size
+    chunks_dir = input_folder.parent / "chunks"
+    chunks_dir.mkdir(parents=True, exist_ok=True)
+
+    # Split into chunks
+    num_chunks = (len(cjk_lines) + chunk_size - 1) // chunk_size
+
+    for i in range(num_chunks):
+        chunk_num = i + 1
+        chunk_name = f"chunk-{chunk_num:03d}"
+        chunk_dir = chunks_dir / chunk_name
+        chunk_input_dir = chunk_dir / "input"
+        chunk_input_dir.mkdir(parents=True, exist_ok=True)
+
+        # Get lines for this chunk
+        start_idx = i * chunk_size
+        end_idx = min((i + 1) * chunk_size, len(cjk_lines))
+        chunk_lines = cjk_lines[start_idx:end_idx]
+
+        # Write chunk raw input
+        chunk_raw_path = chunk_input_dir / "-input.raw.txt"
+        with open(chunk_raw_path, "w", encoding="utf-8") as f:
+            f.writelines(chunk_lines)
+
+        # Write chunk config (without chunk_size)
+        chunk_config = {
+            "output_type": config.output_type,
+            "raw_input_file": "-input.raw.txt",
+            "output_dir": "../output",
+        }
+        chunk_config_path = chunk_input_dir / CONFIG_FILENAME
+        with open(chunk_config_path, "w", encoding="utf-8") as f:
+            json.dump(chunk_config, f, indent=2)
+
+        if verbose:
+            print(f"[chunk] Created {chunk_name} ({len(chunk_lines)} items)")
+
+    return num_chunks
 from lib.common.manifest import load_input_manifest
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
@@ -78,14 +123,13 @@ def process_folder(
     verbose: bool,
     debug: bool,
     delay_s: float,
-    chunk_range: Optional[Tuple[int, int]] = None,
     workers: Optional[int] = None,
 ) -> tuple[int, int]:
     """Process a folder: parse input then generate output.
-    
+
     Args:
         input_folder: Path to the input/ folder containing -config.json and -input.raw.txt
-        
+
     Returns (words_processed, cards_generated).
     """
     # Load config
@@ -94,7 +138,27 @@ def process_folder(
         if verbose:
             print(f"[skip] No {CONFIG_FILENAME} found in {input_folder}")
         return 0, 0
-    
+
+    # If chunk_size is set, create chunk folders and exit
+    if config.chunk_size:
+        chunks_dir = input_folder.parent / "chunks"
+        if chunks_dir.exists() and any(chunks_dir.iterdir()):
+            if verbose:
+                num_existing = len(list(chunks_dir.glob("chunk-*")))
+                print(f"[skip] Chunk folders already exist ({num_existing} chunks in {chunks_dir})")
+                print(f"[info] Run generator on individual chunk configs, e.g.:")
+                print(f"       python generate.py --config {chunks_dir}/chunk-001/input/-config.json")
+            return 0, 0
+
+        if verbose:
+            print(f"[chunk] Splitting input into chunks of {config.chunk_size}...")
+        num_chunks = create_chunk_folders(input_folder, config, verbose=verbose)
+        if verbose:
+            print(f"[done] Created {num_chunks} chunk folders in {chunks_dir}")
+            print(f"[info] Run generator on individual chunk configs, e.g.:")
+            print(f"       python generate.py --config {chunks_dir}/chunk-001/input/-config.json")
+        return 0, 0
+
     # Resolve paths
     raw_path = input_folder / config.raw_input_file
     output_dir = get_output_dir(input_folder, config)
@@ -117,10 +181,10 @@ def process_folder(
         input_manifest.get("in_progress", 0) == 0 and
         input_manifest.get("error", 0) == 0
     )
-    
+
     # Ensure output dir exists
     output_dir.mkdir(parents=True, exist_ok=True)
-    
+
     if verbose:
         print(f"📂 Input folder: {input_folder}")
         print(f"📁 Output folder: {output_dir}")
@@ -132,18 +196,14 @@ def process_folder(
     needs_parsing = raw_path.exists() and not parsing_complete
     if needs_parsing:
         if verbose:
-            if chunk_range:
-                print(f"[input] Parsing {raw_path.name} (chunks {chunk_range[0]}-{chunk_range[1]})...")
-            else:
-                print(f"[input] Parsing {raw_path.name}...")
+            print(f"[input] Parsing {raw_path.name}...")
         try:
             if config.output_type == "english":
                 # Simple English parsing (no OpenAI needed for input)
                 process_english_input(raw_path, input_parsed_dir, verbose=verbose)
             else:
                 # Chinese vocab parsing with OpenAI
-                # Always skip subword extraction (unified chinese mode)
-                process_input_file(raw_path, model=model, verbose=verbose, output_dir=input_parsed_dir, skip_subwords=True, chunk_range=chunk_range)
+                process_input_file(raw_path, model=model, verbose=verbose, output_dir=input_parsed_dir, skip_subwords=True)
         except Exception as e:
             print(f"[error] Input parsing failed: {e}", file=sys.stderr)
             return 0, 0
@@ -173,7 +233,7 @@ def process_folder(
         return process_english_folder(output_dir, model=model, verbose=verbose, workers=workers)
     else:
         # Chinese mode (always recursive)
-        return process_chinese_folder(output_dir, model=model, verbose=verbose, chunk_range=chunk_range, workers=workers)
+        return process_chinese_folder(output_dir, model=model, verbose=verbose, workers=workers)
 
 
 def main(argv: Optional[List[str]] = None) -> int:
@@ -214,12 +274,6 @@ def main(argv: Optional[List[str]] = None) -> int:
         "--debug",
         action="store_true",
         help="Enable debug logging",
-    )
-    parser.add_argument(
-        "--chunks",
-        type=str,
-        default=None,
-        help="Chunk range to process, e.g. '1-5' or '3'. Only processes input parsing for these chunks.",
     )
     parser.add_argument(
         "--workers",
@@ -298,10 +352,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     
     # Input folder is the parent of the config file
     input_folder = config_path.parent
-    
-    # Parse chunk range if provided
-    chunk_range = parse_chunk_range(args.chunks)
-    
+
     if args.verbose:
         print(f"\n{'=' * 60}")
         print("🚀 Full Pipeline: Input Parsing + Card Generation")
@@ -313,7 +364,6 @@ def main(argv: Optional[List[str]] = None) -> int:
         verbose=args.verbose,
         debug=args.debug,
         delay_s=args.delay,
-        chunk_range=chunk_range,
         workers=args.workers,
     )
     

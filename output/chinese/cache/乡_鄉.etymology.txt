@@ -1,7 +1,0 @@
-[乡]
-Simplified from 鄉 (elimination of 郎 )
-
-[鄉]
-Ideogrammic compound ( 會意 / 会意 ): 𠨍 ( “ two people facing each other ” ) + 皀 ( “ a round-mouthed food vessel ” ) – to feast; the original script of 饗 ( OC *qʰaŋʔ ). The sense "village" was a result of phonetic borrowing or semantic shifting.
-In early writing, the character was virtually indistinguishable from 卿 ( OC *kʰraŋ ). Semantically, 卿 ( OC *kʰraŋ , “elder; leader”) and 鄉 ( OC *qʰaŋ , “community; district; village”), likely cognates too, were both represented by the event depicted in the ideogram – 饗 ( OC *qʰaŋʔ , “ritual feasting”), which was central to the community life ( Yang, 1965 ).
-The right half is unrelated to 郎 , as 良 in 鄉 was derived from 皀 during the formation of the clerical script .

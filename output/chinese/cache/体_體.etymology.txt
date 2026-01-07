@@ -1,5 +1,0 @@
-[体]
-Ideogrammic compound ( 會意 / 会意 ): 亻 ( “ person ” ) + 本 ( “ basis ” ) .
-
-[體]
-Phono-semantic compound ( 形聲 / 形声 , OC *r̥ʰiːʔ ): semantic 骨 ( “ bone ” ) + phonetic 豊 ( OC *riːʔ ) .

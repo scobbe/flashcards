@@ -1,5 +1,0 @@
-[游]
-Phono-semantic compound ( 形聲 / 形声 , OC *lu ): semantic 水 ( “ water ” ) + phonetic 斿 ( OC *lu ) . However, the phonetic component has a reference to travelling, hence it adds part of the meaning.
-
-[遊]
-Phono-semantic compound ( 形聲 / 形声 , OC *lu ): semantic 辵 ( “ walk ” ) + phonetic 斿 ( OC *lu ) .

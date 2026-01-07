@@ -127,18 +127,3 @@ def ensure_dir(path: Path) -> None:
     """Create directory if it doesn't exist."""
     path.mkdir(parents=True, exist_ok=True)
 
-
-def simplified_to_traditional(text: str) -> str:
-    """Convert simplified Chinese text to traditional Chinese.
-
-    Uses the hanziconv library for reliable character-level conversion.
-    Falls back to returning the original text if conversion fails.
-    """
-    if not text:
-        return text
-    try:
-        from hanziconv import HanziConv
-        return HanziConv.toTraditional(text)
-    except Exception:
-        return text
-

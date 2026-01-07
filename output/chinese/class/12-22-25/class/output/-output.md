@@ -1,4 +1,4 @@
-## 度假
+## 度假(度假)
 ---
 - **pinyin:** dù jià
 - **definition:** to go on vacation
@@ -54,7 +54,7 @@
 %%%
 
 
-## 把
+## 把(把)
 ---
 - **pinyin:** bǎ
 - **definition:** disposal marker
@@ -66,7 +66,7 @@
 %%%
 
 
-## 被
+## 被(被)
 ---
 - **pinyin:** bèi
 - **definition:** passive marker
@@ -78,7 +78,7 @@
 %%%
 
 
-## 我把水喝了
+## 我把水喝了(我把水喝瞭)
 ---
 - **pinyin:** wǒ bǎ shuǐ hē le
 - **definition:** I drank the water
@@ -106,7 +106,7 @@
 %%%
 
 
-## 水被我喝了
+## 水被我喝了(水被我喝瞭)
 ---
 - **pinyin:** shuǐ bèi wǒ hē le
 - **definition:** The water was drunk by me
@@ -181,7 +181,7 @@
 %%%
 
 
-## 重要
+## 重要(重要)
 ---
 - **pinyin:** zhòng yào
 - **definition:** important
@@ -200,7 +200,7 @@
 %%%
 
 
-## 病得很重
+## 病得很重(病得很重)
 ---
 - **pinyin:** bìng de hěn zhòng
 - **definition:** seriously ill
@@ -225,7 +225,7 @@
 %%%
 
 
-## 手臂
+## 手臂(手臂)
 ---
 - **pinyin:** shǒu bì
 - **definition:** arm
@@ -269,7 +269,7 @@
 %%%
 
 
-## 大腿
+## 大腿(大腿)
 ---
 - **pinyin:** dà tuǐ
 - **definition:** thigh
@@ -291,7 +291,7 @@
 %%%
 
 
-## 小腿
+## 小腿(小腿)
 ---
 - **pinyin:** xiǎo tuǐ
 - **definition:** lower leg; calf
@@ -313,7 +313,7 @@
 %%%
 
 
-## 流行
+## 流行(流行)
 ---
 - **pinyin:** liú xíng
 - **definition:** popular
@@ -423,7 +423,7 @@
 %%%
 
 
-## 糟糕
+## 糟糕(糟糕)
 ---
 - **pinyin:** zāo gāo
 - **definition:** terrible
@@ -457,7 +457,7 @@
 %%%
 
 
-## 了
+## 了(瞭)
 ---
 - **pinyin:** le
 - **definition:** aspect particle showing completion or change

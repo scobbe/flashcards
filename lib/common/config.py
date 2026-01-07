@@ -20,8 +20,9 @@ class FolderConfig:
     """Configuration for a flashcard folder."""
     output_type: str  # "chinese" or "english" (legacy: "oral", "written")
     raw_input_file: str = "-input.raw.txt"
-    output_dir: str = "../generated"  # Path to output directory (relative to config folder)
+    output_dir: str = "../output"  # Path to output directory (relative to config folder)
     cache: bool = True  # When False, clears directory except config and raw input
+    chunk_size: Optional[int] = None  # If set, split input into chunks of this size and create subfolders
 
     def __post_init__(self):
         # Map legacy output types to new unified type
@@ -48,14 +49,16 @@ def load_folder_config(folder: Path) -> Optional[FolderConfig]:
     
     output_type = data.get("output_type", "chinese")
     raw_input_file = data.get("raw_input_file", "-input.raw.txt")
-    output_dir = data.get("output_dir", "../generated")
+    output_dir = data.get("output_dir", "../output")
     cache = data.get("cache", True)
+    chunk_size = data.get("chunk_size", None)
 
     return FolderConfig(
         output_type=output_type,
         raw_input_file=raw_input_file,
         output_dir=output_dir,
         cache=cache,
+        chunk_size=chunk_size,
     )
 
 

@@ -1412,7 +1412,7 @@
   - 那一个(那一個)
     - nà yī gè
     - that one
-  - 那里面(那里麵)
+  - 那里面(那里面)
     - nè lǐmiàn
     - inside there
 - **etymology (那):**
@@ -2650,7 +2650,7 @@
   - **type:** pictogram
   - **description:**
     - pictogram: flagpole with 鼓 (gǔ, "drum") at its center indicating the middle of a field
-  - **interpretation:** Originally depicts a flagpole with a drum set at the center of a field, marking the middle. This accounts for the core sense “middle/center,” and later the sense “to hit the center; to attain” arose by association with striking the middle. Alternative analyses (Shuowen: 丨 (gǔn, "vertical stroke") through 口 (kǒu, "mouth"); another view: an arrow in a target’s center) also interpret it as indicating the center.
+  - **interpretation:** Originally depicts a flagpole with a drum set at the center of a field, marking the middle. This accounts for the core sense “middle/center,” and later the sense “to hit the center; to attain” arose by association with striking the middle. Alternative analyses  also interpret it as indicating the center.
   - **component characters:**
     - 鼓
       - gǔ
@@ -5370,7 +5370,7 @@
   - 网页(网頁)
     - wǎng yè
     - web page
-  - 页面(頁麵)
+  - 页面(頁面)
     - yè miàn
     - page view
 - **etymology (頁):**
@@ -7439,7 +7439,7 @@
   - 房子出租
     - fángzi chūzū
     - house for rent
-  - 房子前面(房子前麵)
+  - 房子前面(房子前面)
     - fángzi qiánmiàn
     - in front of house
   - 房子里
@@ -7625,7 +7625,7 @@
 - **pronunciation:** dì yī cì
 - **definition:** first time
 - **contemporary usage:**
-  - 第一次见面(第一次見麵)
+  - 第一次见面(第一次見面)
     - dì yī cì jiàn miàn
     - first meeting
   - 第一次约会

@@ -1,8 +1,0 @@
-[开]
-Ideogrammic compound ( 會意 / 会意 ): 干 + 干 ( “ trunk ” ) . Two trunks are of the same height.
-Also Simplified from 開 (elimination of 門 ).
-As a component in composite characters, the part is not directly related to 開 and instead originally derives from 井 (such as in 刑 , 型 , etc.) or from 幵 (such as in 研 , 形 , etc.).
-
-[開]
-Ideogrammic compound ( 會意 / 会意 ): 門 ( “ door ” ) + 一 ( “ latch and/or wooden pole that shuts a door ” ) + 廾 ( “ a pair of hands ” ) — a pair of hands opening a latched door. 一 and 廾 are combined into 开 since the Small Seal script; however, in the conservative variant 𨵑 , the two hands and the latch are well visible.
-Compare 闢 . See also 關 , in which the door is kept shut by two wooden poles.

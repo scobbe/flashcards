@@ -1,7 +1,0 @@
-[宾]
-Simplified from 賓 , replacing the bottom component with a phonetic component 兵 ( bīng ) to form a phono-semantic compound ( 形聲 / 形声 ). Officially adopted as the simplified form of 賓 in the Chinese Character Simplification Scheme ( 《 漢字簡化方案 》 ) in 1956.
-
-[賓]
-In oracle bone script, an ideogrammic compound ( 會意 / 会意 ): a person 人 in a building 宀 – a guest. Bronze inscriptions added 貝 (“money; valuables”), signifying gifts.
-Variants that replaced 人 with 万 ( OC *mans, *mɯːɡ ) were also common, and posited to be the original form of 丏 ( OC *meːnʔ ), which would also act as the character's phonetic component, which has corrupted into ⿱一𣥂 in the modern form.
-Shuowen : Phono-semantic compound ( 形聲 / 形声 , OC *mpin ): phonetic 𡧍 ( OC *meːnʔ ) + semantic 貝 .

@@ -1,6 +1,0 @@
-[库]
-Simplified from 庫 ( 車 → 车 ).
-
-[庫]
-Phono-semantic compound ( 形聲 / 形声 , OC *kʰaːs ): semantic 广 ( “ building ” ) + phonetic 車 ( OC *kʰlja, *kla ) .
-Shuowen incorrectly interprets it as an ideogrammic compound.

@@ -3,42 +3,42 @@
   "traditional": "銀",
   "pinyin": "yín",
   "english": "silver",
+  "in_contemporary_usage": true,
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 金 ‘metal’ + phonetic: 艮",
-    "interpretation": "Metal component 金 signals that the word refers to a metal. 艮 provides the approximate sound, helping to cue the pronunciation historically associated with yín. In the simplified form, the metal component is written with its left-side abbreviation 钅.",
-    "simplification": "Simplified from 銀 by abbreviating the metal component: 金 → 钅, following the general left-side metal radical simplification."
+    "description": "semantic: 金 (“metal”) + phonetic: 艮; simplified: 金 → 钅",
+    "interpretation": "金 (jīn, metal) signals that the meaning relates to metal, while 艮 (gèn, stubborn/stop; also a phonetic) guides the pronunciation toward yín. As a precious metal widely used as currency, it appears in words like 银行 (yínháng, bank).",
+    "simplification": "Left-side metal radical 金 was simplified to 钅 under the mainland scheme, yielding 银 while keeping the phonetic 艮 unchanged."
   },
   "parts": [
     {
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "gold; metal"
+      "english": "metal; gold"
     },
     {
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "stopping; Gen trigram"
+      "english": "stubborn; to stop; Gen trigram"
     }
   ],
   "examples": [
     {
-      "chinese": "我买了一枚银戒指(我買了一枚銀戒指)。",
-      "pinyin": "Wǒ mǎi le yī méi yín jièzhǐ.",
-      "english": "I bought a silver ring."
+      "chinese": "白银价格上涨(白銀價格上漲)，投资者关注风险(投資者關注風險)。",
+      "pinyin": "Báiyín jiàgé shàngzhǎng, tóuzīzhě guānzhù fēngxiǎn.",
+      "english": "The price of silver rose, and investors are watching the risks."
     },
     {
-      "chinese": "这枚硬币是纯银制成的(這枚硬幣是純銀製成的)。",
-      "pinyin": "Zhè méi yìngbì shì chún yín zhìchéng de.",
-      "english": "This coin is made of pure silver."
+      "chinese": "我在银行换了一些美元(我在銀行換了一些美元)。",
+      "pinyin": "Wǒ zài yínháng huàn le yīxiē Měiyuán.",
+      "english": "I exchanged some U.S. dollars at the bank."
     },
     {
-      "chinese": "银价今天上涨了(銀價今天上漲了)。",
-      "pinyin": "Yínjià jīntiān shàngzhǎng le.",
-      "english": "The price of silver rose today."
+      "chinese": "这枚戒指是银制的(這枚戒指是銀製的)，很有质感(很有質感)。",
+      "pinyin": "Zhè méi jièzhǐ shì yínzhì de, hěn yǒu zhìgǎn.",
+      "english": "This ring is made of silver and has a nice texture."
     }
-  ],
-  "in_contemporary_usage": true
+  ]
 }

@@ -2649,7 +2649,7 @@
     - guān
     - to observe; view
 - **contemporary usage:**
-  - 见面(見麵)
+  - 见面(見面)
     - jiàn miàn
     - meet up
   - 见识(見識)
@@ -3268,7 +3268,7 @@
   - 动作片
     - dòngzuòpiān
     - action movie
-  - 片面(片麵)
+  - 片面(片面)
     - piànmiàn
     - one-sided
 - **etymology (片):**

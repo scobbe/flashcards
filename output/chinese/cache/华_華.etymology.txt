@@ -1,7 +1,0 @@
-[华]
-Phono-semantic compound ( 形聲 / 形声 ): phonetic 化 + semantic 十 ( “ stalk and leaves ” ) . The top component in 華 / 华 has been simplified to a phonetic element 化 ( huà ) .
-This character first appeared in the 1956 Chinese Character Simplification Scheme by the People's Republic of China and is not known to have existed prior to that.
-
-[華]
-Pictogram ( 象形 ); this was the original form of 花 ( OC *hʷraː , “flower”). In the bronze inscription form, the top part of the glyph resembles flowers of a plant, and the bottom part ( 于 ) resembles its stalk and leaves. Also phono-semantic ( 形聲 / 形声 ), with 于 ( OC *ɢʷa ) functioning as the phonetic part. In the seal script, 艸 (“grass; plant”) was added as a semantic component.
-華 ( 𦻏 ) and 𠌶 were initially the same character, but they were erroneously split in Shuowen into two entries.

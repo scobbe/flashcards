@@ -1,7 +1,0 @@
-[卖]
-Simplified from 賣 ( 買 → 买 ).
-
-[賣]
-Originally 𧷓 , an ideogrammic compound ( 會意 / 会意 ) and phono-semantic compound ( 形聲 / 形声 , OC *mreːs ): semantic 出 ( “ go out ” ) + phonetic 買 ( OC *mreːʔ , “ buy ” ) .
-出 , which indicates exoactive semantics ( Sagart, 1999 ), was eventually reduced to the etymologically unrelated 士 .
-Unrelated to 𧶠 , which is used as a phonetic component in a number of characters.

@@ -3,7 +3,7 @@
 from typing import Dict, List, Sequence, Tuple
 
 from lib.common.openai import OpenAIClient
-from lib.common.utils import is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings, simplified_to_traditional
+from lib.common.utils import is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings
 
 
 def call_openai_for_vocab_and_forms(
@@ -39,8 +39,8 @@ def call_openai_for_vocab_and_forms(
         if not isinstance(entry, dict):
             continue
         simp = keep_only_cjk(str(entry.get("simplified", "")).strip())
-        # Use hanziconv library for traditional conversion instead of OpenAI
-        trad = simplified_to_traditional(simp) if simp else ""
+        # Use traditional from OpenAI (context-aware, handles 了 vs 瞭 correctly)
+        trad = keep_only_cjk(str(entry.get("traditional", simp)).strip()) or simp
         if not simp and trad:
             simp = trad
         if not simp:
@@ -81,9 +81,10 @@ def call_openai_forms_for_words(
         for it in items:
             if isinstance(it, dict):
                 s = str(it.get("simplified", "")).strip()
-                # Use hanziconv library for traditional conversion instead of OpenAI
                 s = "".join(ch for ch in s if is_cjk_char(ch))
-                t = simplified_to_traditional(s) if s else ""
+                # Use traditional from OpenAI (context-aware, handles 了 vs 瞭 correctly)
+                t_raw = str(it.get("traditional", s)).strip()
+                t = "".join(ch for ch in t_raw if is_cjk_char(ch)) or s
                 # pinyin may be string or array
                 raw_p = it.get("pinyin", "")
                 if isinstance(raw_p, list):
@@ -102,9 +103,9 @@ def call_openai_forms_for_words(
                     e = str(raw_e).strip()
                 if s:
                     triples.append((s, t, p, e))
-    # Fallback if sizes mismatch - use hanziconv for traditional
+    # Fallback if sizes mismatch - use simplified as traditional (will be resolved by OpenAI later)
     if len(triples) != len(words):
-        triples = [(w, simplified_to_traditional(w), "", "") for w in words]
+        triples = [(w, w, "", "") for w in words]
     return triples
 
 

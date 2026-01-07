@@ -20,7 +20,7 @@ from lib.schema.base import FRONT_BACK_DIVIDER, CARD_DIVIDER
 from lib.common.openai import OpenAIClient, CHINESE_SINGLE_CHAR_SCHEMA, CHINESE_MULTI_CHAR_SCHEMA
 from lib.common.logging import set_thread_log_context, DEFAULT_PARALLEL_WORKERS
 from lib.common.manifest import is_word_complete, mark_word_complete, mark_word_in_progress, mark_word_error, init_output_manifest, add_subcomponent_error
-from lib.common.utils import is_cjk_char, simplified_to_traditional
+from lib.common.utils import is_cjk_char
 
 # Global cache directory for card data
 CARD_CACHE_DIR = Path(__file__).parent.parent.parent / "output" / "chinese" / "cache"
@@ -327,11 +327,12 @@ def generate_card_content(
     wiktionary_etymology: Optional[str] = None,
     model: Optional[str] = None,
     verbose: bool = False,
-) -> Tuple[Dict[str, str], List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]], bool, bool]:
+) -> Tuple[Dict[str, str], str, List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[Tuple[str, str, str]], bool, bool]:
     """Generate all card content in a single API call.
 
-    Returns (etymology_dict, components, character_breakdown, examples, in_contemporary_usage, from_cache).
+    Returns (etymology_dict, traditional, components, character_breakdown, examples, in_contemporary_usage, from_cache).
     - etymology_dict: {type, description, interpretation}
+    - traditional: The canonical traditional form from OpenAI (context-aware, handles 了 vs 瞭 correctly)
     - components: For single chars, list of (simp, trad, pinyin, english) component tuples
     - character_breakdown: For multi-char words, list of (simp, trad, pinyin, english) for each char
     - examples: list of (chinese, pinyin, english) example sentence tuples
@@ -344,9 +345,10 @@ def generate_card_content(
 
     # Check cache first - must have ALL required fields
     cached = _read_cache(word, verbose=verbose)
-    required_fields = ["etymology", "pinyin", "english", "examples"]
+    required_fields = ["etymology", "pinyin", "english", "examples", "traditional"]
     if cached is not None and all(f in cached for f in required_fields) and cached.get("examples"):
         in_contemporary = cached.get("in_contemporary_usage", True)  # Default to True for old cache entries
+        cached_traditional = cached.get("traditional", simplified)  # Canonical traditional from OpenAI
         etymology, parts = _read_etymology_from_cache(cached)
         # For single chars: parts are components; for multi-char: parts are character breakdown
         if is_single:
@@ -364,7 +366,7 @@ def generate_card_content(
                     ex.get("pinyin", ""),
                     ex.get("english", ""),
                 ))
-        return etymology, components, char_breakdown, examples, in_contemporary, True  # from_cache=True
+        return etymology, cached_traditional, components, char_breakdown, examples, in_contemporary, True  # from_cache=True
 
     client = OpenAIClient(model=model)
 
@@ -372,21 +374,21 @@ def generate_card_content(
     # Etymology: type & description from Wiktionary, interpretation is LLM's own explanation
     if is_single:
         system = """Chinese character etymology expert. Return JSON with these fields:
+- traditional: The traditional Chinese form of this character. IMPORTANT: Context matters! 了 as a grammatical particle stays 了 in traditional; only 了 meaning "to understand" (as in 了解) becomes 瞭. Most characters are the same in both forms.
 - type: Extract formation type directly from Wiktionary (pictogram, ideogram, phono-semantic compound, etc.)
 - description: Extract brief formation info from Wiktionary (e.g. "semantic: X + phonetic: Y")
 - interpretation: Your own 2-3 sentence explanation based on the description. Don't start with "The character..." When referencing other Chinese characters/words, include (pinyin, short definition), e.g. "related to 凤梨 (fènglí, pineapple)"
 - simplification: Why this was simplified (intuition/reasoning), or "none" if traditional = simplified
 - parts: array of component chars [{char, trad, pinyin, english}], standalone chars only (not radicals like 氵), exclude headword
 - in_contemporary_usage: boolean - true if this character is commonly used in modern Chinese (news, daily conversation, textbooks); false if archaic, literary-only, rare variant, or only appears in names/places
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 If in_contemporary_usage is false, provide examples using place names, personal names, or historical/literary references where this character appears."""
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: after EACH clause (separated by ，；：。？！""「」), add (traditional) in parentheses. ALL clauses need traditional form, even if same as simplified. Examples: 是的(是的)，你说得对(你說得對)。 | 好的(好的)，我马上处理(我馬上處理)。 | 客服回复(客服回覆)：好的(好的)，请稍等(請稍等)。 If in_contemporary_usage is false, use names/places/literary references."""
         user = f"Character: {simplified}"
-        if traditional and traditional != simplified:
-            user += f" (trad: {traditional})"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
             user += f"\n\n**PRIMARY SOURCE for type & description** - Wiktionary glyph origin:\n{wiktionary_etymology}"
     else:
         system = """Chinese word etymology expert. Return JSON with these fields:
+- traditional: The traditional Chinese form of this word. IMPORTANT: Context matters! 了 as a grammatical particle stays 了 in traditional; only 了 meaning "to understand" (as in 了解) becomes 瞭. Most characters are the same in both forms.
 - type: Usually "compound word"
 - description: Brief word formation (e.g. "X + Y = meaning")
 - interpretation: 1-2 sentences, don't start with "The word..." When referencing other Chinese characters/words, include (pinyin, short definition), e.g. "synonym of 凤梨 (fènglí, pineapple)"
@@ -395,10 +397,8 @@ def generate_card_content(
   Examples: 燕麦粥 → [燕麦, 粥] not [燕, 麦, 粥]; 电影明星 → [电影, 明星] not [电, 影, 明, 星]; 菠萝包 → [菠萝, 包] not [菠, 萝, 包]
   Each part: pinyin with tone marks, up to 4 meanings (semicolon-separated)
 - in_contemporary_usage: boolean - true if this word is commonly used in modern Chinese (news, daily conversation, textbooks); false if archaic, literary-only, rare variant, or only appears in names/places
-- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: each clause 简体(繁體) with period inside final paren, e.g. 我吃饭(我吃飯)。 If in_contemporary_usage is false, provide examples using place names, personal names, or historical/literary references where this word appears."""
+- examples: array of 2-3 sentences [{chinese, pinyin, english}], format: after EACH clause (separated by ，；：。？！""「」), add (traditional) in parentheses. ALL clauses need traditional form, even if same as simplified. Examples: 是的(是的)，你说得对(你說得對)。 | 好的(好的)，我马上处理(我馬上處理)。 | 客服回复(客服回覆)：好的(好的)，请稍等(請稍等)。 If in_contemporary_usage is false, use names/places/literary references."""
         user = f"Word: {simplified}"
-        if traditional and traditional != simplified:
-            user += f" (trad: {traditional})"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
             user += f"\n\nWiktionary ref:\n{wiktionary_etymology}"
@@ -413,7 +413,10 @@ def generate_card_content(
         if not data or data == {}:
             print(f"[chinese] [ERROR] API returned empty response for {simplified}")
             # Return error indicator in etymology
-            return {"error": f"API returned empty response for {simplified}"}, [], [], [], True, False
+            return {"error": f"API returned empty response for {simplified}"}, simplified, [], [], [], True, False
+
+        # Parse traditional form from OpenAI (canonical, context-aware)
+        api_traditional = str(data.get("traditional", simplified)).strip() or simplified
 
         # Parse in_contemporary_usage (default to True for safety)
         in_contemporary_usage = data.get("in_contemporary_usage", True)
@@ -461,12 +464,12 @@ def generate_card_content(
                 if ch:
                     examples.append((ch, pin, eng))
 
-        return etymology, components, char_breakdown, examples, in_contemporary_usage, False  # from_cache=False
+        return etymology, api_traditional, components, char_breakdown, examples, in_contemporary_usage, False  # from_cache=False
 
     except Exception as e:
         if verbose:
             print(f"[chinese] [error] Failed to generate content for {simplified}: {e}")
-        return {}, [], [], [], True, False
+        return {}, simplified, [], [], [], True, False
 
 
 def _write_single_card(
@@ -488,11 +491,9 @@ def _write_single_card(
         is_subcard: If True, this is a recursive sub-card (uses ### heading, no --- divider).
         breadcrumbs: List of (simplified, traditional) tuples showing the path to this sub-component.
     """
-    # Build Chinese heading with traditional in parens if different
-    if traditional and traditional != simplified:
-        chinese_heading = f"{simplified}({traditional})"
-    else:
-        chinese_heading = simplified
+    # Build Chinese heading with traditional in parens (always, even if same)
+    trad_form = traditional if traditional else simplified
+    chinese_heading = f"{simplified}({trad_form})"
 
     # Use ### for sub-cards, ## for main cards
     if is_subcard:
@@ -500,10 +501,8 @@ def _write_single_card(
             # Build breadcrumb trail with traditional forms: 西门町(西門町) → 门(門)
             breadcrumb_parts = []
             for simp, trad in breadcrumbs:
-                if trad and trad != simp:
-                    breadcrumb_parts.append(f"{simp}({trad})")
-                else:
-                    breadcrumb_parts.append(simp)
+                trad_form = trad if trad else simp
+                breadcrumb_parts.append(f"{simp}({trad_form})")
             # Add current character with traditional
             breadcrumb_parts.append(chinese_heading)
             breadcrumb_trail = ' → '.join(breadcrumb_parts)
@@ -625,10 +624,11 @@ def _generate_recursive_component_cards(
         wiki_ety = fetch_wiktionary_etymology(comp_simp, comp_trad, verbose=verbose)
 
         # Generate all content in single API call
-        comp_etymology, sub_components, _, comp_examples, comp_in_contemporary, from_cache = generate_card_content(
+        comp_etymology, comp_trad_api, sub_components, _, comp_examples, comp_in_contemporary, from_cache = generate_card_content(
             comp_simp, comp_trad, comp_pin, comp_eng,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
+        comp_trad = comp_trad_api  # Use canonical traditional from OpenAI
 
         # Check for error state and track
         if comp_etymology and comp_etymology.get("error"):
@@ -747,10 +747,11 @@ def write_card_md(
             ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
 
             # Generate all content in single API call
-            ch_etymology, ch_components, ch_char_breakdown, ch_examples, ch_in_contemporary, from_cache = generate_card_content(
+            ch_etymology, ch_trad_api, ch_components, ch_char_breakdown, ch_examples, ch_in_contemporary, from_cache = generate_card_content(
                 ch_simp, ch_trad, ch_pin, ch_eng,
                 wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
             )
+            ch_trad = ch_trad_api  # Use canonical traditional from OpenAI
 
             # Check for error state and track
             if ch_etymology and ch_etymology.get("error"):
@@ -809,8 +810,8 @@ def write_card_md(
                     ch_char_breakdown = []
                     for char in ch_simp:
                         if is_cjk_char(char):
-                            char_trad = simplified_to_traditional(char)
-                            ch_char_breakdown.append((char, char_trad, "", ""))
+                            # Traditional will be resolved by OpenAI when processing this char
+                            ch_char_breakdown.append((char, char, "", ""))
 
                 for sub_simp, sub_trad, sub_pin, sub_eng in ch_char_breakdown:
                     if sub_simp in visited:
@@ -821,10 +822,11 @@ def write_card_md(
                     sub_wiki_ety = fetch_wiktionary_etymology(sub_simp, sub_trad, verbose=verbose)
 
                     # Generate content for sub-character
-                    sub_etymology, sub_components, _, sub_examples, sub_in_contemporary, sub_from_cache = generate_card_content(
+                    sub_etymology, sub_trad_api, sub_components, _, sub_examples, sub_in_contemporary, sub_from_cache = generate_card_content(
                         sub_simp, sub_trad, sub_pin, sub_eng,
                         wiktionary_etymology=sub_wiki_ety, model=model, verbose=verbose
                     )
+                    sub_trad = sub_trad_api  # Use canonical traditional from OpenAI
 
                     # Cache if newly generated
                     if not sub_from_cache:
@@ -863,10 +865,8 @@ def write_card_md(
 
     # Add footer for main card (reverse side reference) after all recursive content
     # Format: ---, Chinese, Pinyin, ---, English
-    if traditional and traditional != simplified:
-        chinese_heading = f"{simplified}({traditional})"
-    else:
-        chinese_heading = simplified
+    trad_form = traditional if traditional else simplified
+    chinese_heading = f"{simplified}({trad_form})"
     parts.append(FRONT_BACK_DIVIDER)
     parts.append(f"## {chinese_heading}")
     parts.append(f"### {pinyin}")
@@ -927,15 +927,16 @@ def process_chinese_row(
 
         # Generate all content in single API call (etymology, components/characters, examples)
         input_examples = phrase if phrase and phrase.strip() and phrase.strip().lower() != "none" else None
-        etymology, components, characters, examples, in_contemporary, from_cache = generate_card_content(
+        etymology, trad_api, components, characters, examples, in_contemporary, from_cache = generate_card_content(
             simp, trad, pin, eng, input_examples=input_examples,
             wiktionary_etymology=wiki_ety, model=model, verbose=verbose
         )
+        trad = trad_api  # Use canonical traditional from OpenAI
 
         # Write complete cache entry for main headword only if newly generated
         if not from_cache:
             _write_complete_cache(
-                simp or headword, simp or headword, trad or headword, pin, eng,
+                simp or headword, simp or headword, trad, pin, eng,
                 etymology=etymology, components=components, character_breakdown=characters,
                 examples=examples, in_contemporary_usage=in_contemporary, verbose=verbose,
             )
@@ -1010,7 +1011,6 @@ def process_chinese_folder(
     folder: Path,
     model: Optional[str] = None,
     verbose: bool = False,
-    chunk_range: Optional[Tuple[int, int]] = None,
     workers: Optional[int] = None,
 ) -> Tuple[int, int]:
     """Process a folder of Chinese vocabulary words.
@@ -1019,7 +1019,6 @@ def process_chinese_folder(
         folder: Output folder for generated cards
         model: OpenAI model name
         verbose: Enable verbose logging
-        chunk_range: If specified, process only words from those chunks
         workers: Number of parallel workers (default: DEFAULT_PARALLEL_WORKERS)
 
     Returns (total_words, cards_created) tuple.
@@ -1035,13 +1034,13 @@ def process_chinese_folder(
     # Read input from input-parsed directory
     parsed_path = input_parsed_dir / "-input.parsed.csv"
     if not parsed_path.exists():
-        # Try chunk CSVs from input-parsed
-        all_rows = _read_all_chunk_csvs(input_parsed_dir)
-    else:
-        rows = read_parsed_input(parsed_path)
-        # Skip sub-words (relation field not empty)
-        # Compute chunk_num from index (50 entries per chunk)
-        all_rows = [(idx, ((idx - 1) // 50) + 1, s, t, p, e, ph, r) for idx, (s, t, p, e, ph, r) in enumerate(rows, start=1) if not r.strip()]
+        if verbose:
+            print(f"[chinese] [skip] No parsed input at {parsed_path}")
+        return 0, 0
+
+    rows = read_parsed_input(parsed_path)
+    # Skip sub-words (relation field not empty)
+    all_rows = [(idx, s, t, p, e, ph, r) for idx, (s, t, p, e, ph, r) in enumerate(rows, start=1) if not r.strip()]
 
     if not all_rows:
         if verbose:
@@ -1049,16 +1048,10 @@ def process_chinese_folder(
         return 0, 0
 
     # Initialize manifest (fresh each time, rely on cache for resumption)
-    word_keys = [f"{idx}.{simp or trad}" for idx, _, simp, trad, _, _, _, _ in all_rows]
+    word_keys = [f"{idx}.{simp or trad}" for idx, simp, trad, _, _, _, _ in all_rows]
     init_output_manifest(out_dir, word_keys)
 
-    # Filter by chunk range if specified
-    if chunk_range:
-        start_chunk, end_chunk = chunk_range
-        rows_to_process = [(idx, s, t, p, e, ph, r) for idx, chunk_num, s, t, p, e, ph, r in all_rows
-                          if start_chunk <= chunk_num <= end_chunk]
-    else:
-        rows_to_process = [(idx, s, t, p, e, ph, r) for idx, _, s, t, p, e, ph, r in all_rows]
+    rows_to_process = all_rows
 
     if verbose:
         print(f"[chinese] [info] Processing {len(rows_to_process)} vocabulary words from {folder.name}/")
@@ -1099,7 +1092,7 @@ def process_chinese_folder(
                     raise
 
     # Write combined output
-    _write_combined_output(out_dir, verbose, chunk_range=chunk_range)
+    _write_combined_output(out_dir, verbose)
 
     return len(rows_to_process), total_cards
 
@@ -1128,13 +1121,10 @@ def _read_all_chunk_csvs(folder: Path) -> List[Tuple[int, int, str, str, str, st
     return all_rows
 
 
-def _write_combined_output(out_dir: Path, verbose: bool = False, chunk_range: Optional[Tuple[int, int]] = None) -> None:
+def _write_combined_output(out_dir: Path, verbose: bool = False) -> None:
     """Concatenate all .md files into -output.md."""
     try:
-        if chunk_range:
-            output_name = f"-output.{chunk_range[0]:03d}-{chunk_range[1]:03d}.md"
-        else:
-            output_name = "-output.md"
+        output_name = "-output.md"
         output_md = out_dir / output_name
 
         md_files = [p for p in sorted(out_dir.glob("*.md")) if not p.name.startswith("-output") and not p.name.startswith("-")]
