@@ -1,0 +1,26 @@
+{
+  "simplified": "呂",
+  "traditional": "呂",
+  "pinyin": "lǚ",
+  "english": "two blocks of metal",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two blocks of metal. Originally disconnected, the connecting line was added in later scripts.",
+    "interpretation": "The two blocks evoke the image of separate pieces of metal, which can signify both physical objects and the idea of connection when linked.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他给了我一个呂(他給了我一個呂)，我很高兴(我很高興)。",
+      "pinyin": "tā gěi le wǒ yī gè lǚ, wǒ hěn gāoxìng.",
+      "english": "He gave me a lǚ, and I was very happy."
+    },
+    {
+      "chinese": "在音乐中，呂(在音樂中，呂)的音符很美(的音符很美)。",
+      "pinyin": "zài yīnyuè zhōng, lǚ de yīnfú hěn měi.",
+      "english": "In music, the notes of lǚ are beautiful."
+    }
+  ]
+}

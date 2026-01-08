@@ -5,15 +5,15 @@
   "english": "structural particle; to get, obtain; must, have to",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "得(得) (de/dé/děi, 'to get, obtain; must, have to') is an ideogrammic compound representing the act of obtaining valuables.",
-    "interpretation": "The character 得 represents the action of picking up a cowry, which was historically a valuable item. This evokes the idea of obtaining something of worth.",
+    "description": "The character 得 represents an ideogrammic compound formed from 貝 (běi, \"cowry\") and 又 (yòu, \"hand\") — symbolizing the action of picking up a cowry, which is associated with obtaining valuables.",
+    "interpretation": "The imagery of a hand picking up cowries effectively conveys the concept of obtaining or acquiring something valuable.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "貝",
       "trad": "貝",
-      "pinyin": "bèi",
+      "pinyin": "běi",
       "english": "cowry"
     },
     {
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我得去上班。",
-      "pinyin": "wǒ dé qù shàngbān。",
-      "english": "I have to go to work."
+      "chinese": "我得到了很多帮助。(我得到了很多幫助。)",
+      "pinyin": "Wǒ dédàole hěnduō bāngzhù.",
+      "english": "I received a lot of help."
     },
     {
-      "chinese": "他得到了很多支持。",
-      "pinyin": "tā dédàole hěn duō zhīchí。",
-      "english": "He received a lot of support."
-    },
-    {
-      "chinese": "你得努力学习。",
-      "pinyin": "nǐ dé nǔlì xuéxí。",
-      "english": "You must study hard."
+      "chinese": "你得去那里。(你得去那裡。)",
+      "pinyin": "Nǐ děi qù nàlǐ.",
+      "english": "You must go there."
     }
   ]
 }

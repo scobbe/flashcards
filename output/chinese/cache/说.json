@@ -2,12 +2,12 @@
   "simplified": "说",
   "traditional": "說",
   "pinyin": "shuō",
-  "english": "speak; say; explain; talk",
+  "english": "speak; say; talk; explain",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "说(說) (shuō, \"speak\") = 言(言) (yán, \"speech\") + 兌(兌) (duì, \"exchange\") — the act of speaking or exchanging words",
-    "interpretation": "This makes intuitive sense as 言(言) (yán, \"speech\") indicates the action of speaking, while 兌(兌) (duì, \"exchange\") suggests the back-and-forth nature of conversation.",
-    "simplification": "The character was simplified by reducing the number of strokes and substituting the component 言 with its cursive version 讠."
+    "description": "Combines semantic 言 (yán, 'speech') with phonetic 兌 (duì, 'exchange').",
+    "interpretation": "This character intuitively represents the act of exchanging words or speech, highlighting the connection between speaking and communication.",
+    "simplification": "The character was simplified by reducing the component 言 to its abbreviated form 讠 for easier writing."
   },
   "parts": [
     {
@@ -26,14 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说(他說)今天很忙(今天很忙)。",
-      "pinyin": "tā shuō(他說) jīntiān hěn máng(今天很忙)。",
-      "english": "He said(他說) he is very busy(今天很忙) today."
+      "chinese": "我想说话(我想說話)。",
+      "pinyin": "Wǒ xiǎng shuōhuà.",
+      "english": "I want to speak."
     },
     {
-      "chinese": "我想(我想)说(說)几句话(幾句話)。",
-      "pinyin": "wǒ xiǎng(我想) shuō(說) jǐ jù huà(幾句話)。",
-      "english": "I want(我想) to say(說) a few words(幾句話)."
+      "chinese": "他说了很多(他說了很多)。",
+      "pinyin": "Tā shuōle hěnduō.",
+      "english": "He talked a lot."
     }
   ]
 }

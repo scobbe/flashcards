@@ -2,11 +2,11 @@
   "simplified": "粥",
   "traditional": "粥",
   "pinyin": "zhōu",
-  "english": "porridge; congee; gruel; rice porridge",
+  "english": "porridge; gruel; congee; thick soup",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "米(米) (mǐ, \"rice\") + 䰜(鬲) (lè, \"cauldron\") — rice cooked in a cauldron",
-    "interpretation": "The character 粥 represents rice(米) (mǐ) being cooked in a cauldron(䰜) (lè) to make porridge. This makes intuitive sense as the cooking process symbolizes the transformation of rice into a liquid form.",
+    "type": "phono-semantic compound",
+    "description": "The character 粥 is derived from 鬻, which combines the components for 'cauldron' and 'rice', depicting the cooking of rice into congee.",
+    "interpretation": "The combination of 'cauldron' and 'rice' intuitively conveys the cooking process of rice into a thick soup, which is what congee essentially is.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,23 @@
       "english": "rice"
     },
     {
-      "char": "𧶠",
-      "trad": "鬲",
-      "pinyin": "lè",
+      "char": "䰜",
+      "trad": "鬻",
+      "pinyin": "yù",
       "english": "cauldron"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃粥。(我喜歡吃粥。)",
-      "pinyin": "Wǒ xǐhuān chī zhōu。(Wǒ xǐhuān chī zhōu。)",
-      "english": "I like to eat porridge."
+      "chinese": "我早餐吃粥(我早餐吃粥)。",
+      "pinyin": "Wǒ zǎocān chī zhōu.",
+      "english": "I eat porridge for breakfast."
     },
     {
-      "chinese": "早上我通常吃粥。(早上我通常吃粥。)",
-      "pinyin": "Zǎoshang wǒ tōngcháng chī zhōu。(Zǎoshang wǒ tōngcháng chī zhōu。)",
-      "english": "I usually eat congee in the morning."
+      "chinese": "粥很容易消化(粥很容易消化)。",
+      "pinyin": "Zhōu hěn róngyì xiāohuà.",
+      "english": "Porridge is easy to digest."
     }
   ]
 }

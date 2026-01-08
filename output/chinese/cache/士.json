@@ -2,25 +2,30 @@
   "simplified": "士",
   "traditional": "士",
   "pinyin": "shì",
-  "english": "soldier",
+  "english": "upside-down ritual axe",
   "etymology": {
     "type": "pictogram",
-    "description": "士(士) (shì, 'soldier') — originally representing a war axe",
-    "interpretation": "The character represents a war axe, symbolizing a soldier's weapon. This intuitive connection highlights the role of soldiers in warfare.",
+    "description": "A war axe, which later evolved to represent 'soldier' and 'officer, intellectual'.",
+    "interpretation": "The character depicts an upside-down ritual axe, reflecting the association with military and governance roles historically.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一名士兵(他是一名士兵)。",
-      "pinyin": "tā shì yī míng shìbīng(他是一名士兵)。",
-      "english": "He is a soldier."
+      "chinese": "他是一位士(士)，很有学问。",
+      "pinyin": "Tā shì yī wèi shì, hěn yǒu xuéwèn.",
+      "english": "He is a scholar, very knowledgeable."
     },
     {
-      "chinese": "古代的士人(古代的士人)往往受人尊敬。",
-      "pinyin": "gǔdài de shìrén(古代的士人) wǎng wǎng shòu rén zūn jìng。",
-      "english": "Scholars in ancient times were often respected."
+      "chinese": "士(士)兵正在执行任务。",
+      "pinyin": "Shìbīng zhèng zài zhíxíng rènwu.",
+      "english": "The soldier is carrying out a mission."
+    },
+    {
+      "chinese": "古代士(士)人受人尊敬。",
+      "pinyin": "Gǔdài shìrén shòu rén zūnjìng.",
+      "english": "In ancient times, scholars were respected."
     }
   ]
 }

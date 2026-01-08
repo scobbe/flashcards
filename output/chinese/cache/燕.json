@@ -2,25 +2,30 @@
   "simplified": "燕",
   "traditional": "燕",
   "pinyin": "yàn",
-  "english": "swallow bird; swallow (the bird); to smile; to chant",
+  "english": "swallow (bird); swallow (to swall; joyful; to sing)",
   "etymology": {
     "type": "pictogram",
-    "description": "燕(燕) (yàn, \"swallow bird\")",
-    "interpretation": "The character 燕 depicts a swallow, a type of bird known for its agile flight and distinctive shape. It intuitively represents the bodily form of the swallow with minimal stylization.",
+    "description": "Depicts a swallow, a type of bird known for its graceful flight.",
+    "interpretation": "The character visually represents the bird itself, which is often associated with joy and charm.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我看见一只燕子飞过了天际(我看到一隻燕子飛過了天際)。",
-      "pinyin": "Wǒ kànjiàn yī zhī yànzi fēiguòle tiānjì。(I saw a swallow flying across the sky.)",
-      "english": ""
+      "chinese": "燕子飞得很快(燕子飛得很快)，真美丽(真美麗)！",
+      "pinyin": "Yànzi fēi dé hěn kuài, zhēn měilì!",
+      "english": "The swallow flies very fast, truly beautiful!"
     },
     {
-      "chinese": "燕子在春天(燕子在春天)。",
-      "pinyin": "Yànzi zài chūntiān。(Swallows are present in spring.)",
-      "english": ""
+      "chinese": "春天来了，燕子筑巢(春天來了，燕子築巢)。",
+      "pinyin": "Chūntiān láile, yànzi zhù cháo.",
+      "english": "Spring has come, the swallows are building nests."
+    },
+    {
+      "chinese": "我听见燕儿的歌声(我聽見燕兒的歌聲)。",
+      "pinyin": "Wǒ tīngjiàn yàn er de gēshēng.",
+      "english": "I hear the song of the swallows."
     }
   ]
 }

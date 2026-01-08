@@ -2,30 +2,25 @@
   "simplified": "人",
   "traditional": "人",
   "pinyin": "rén",
-  "english": "person; people; human; individual",
+  "english": "person; human; people; individual",
   "etymology": {
     "type": "pictogram",
-    "description": "人(人) (rén, \"person\") – a side view of a standing man, highlighting an arm and a leg.",
-    "interpretation": "This character intuitively represents a person through a side view silhouette, emphasizing the human form.",
+    "description": "Depicts a side view of a standing man, highlighting an arm and a leg.",
+    "interpretation": "The character visually represents a person standing, emphasizing human form. This direct depiction makes it easy to associate the character with the meaning of a 'person' or 'human'.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你是一个好人(你好的人)",
-      "pinyin": "nǐ shì yī gè hǎo rén",
-      "english": "You are a good person."
+      "chinese": "他是一个好人(他是一個好人)。",
+      "pinyin": "tā shì yī gè hǎo rén.",
+      "english": "He is a good person."
     },
     {
-      "chinese": "每个人都很重要(每個人都很重要)",
-      "pinyin": "měi gè rén dōu hěn zhòng yào",
-      "english": "Every person is important."
-    },
-    {
-      "chinese": "人们普遍感到疲惫(人們普遍感到疲憊)",
-      "pinyin": "rén men pǔ biàn gǎn dào pí bèi",
-      "english": "People generally feel exhausted."
+      "chinese": "人们都知道这件事(人們都知道這件事)。",
+      "pinyin": "rén men dōu zhī dào zhè jiàn shì.",
+      "english": "People all know about this matter."
     }
   ]
 }

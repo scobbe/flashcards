@@ -2,12 +2,12 @@
   "simplified": "麦",
   "traditional": "麥",
   "pinyin": "mài",
-  "english": "wheat; grain; to sell; to advise",
+  "english": "oat; wheat; grain; food",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "麦(麥) (mài, \"wheat\") is a combination of phonetic 來(來) (lái, \"to come\") and semantic 夊(夊) (sū, \"to walk slowly; footprint pointing down\").",
-    "interpretation": "This character conveys the idea of wheat developing from something heavenly or miraculous. 麦 emphasizes the importance of wheat as a staple food source, symbolizing nourishment.",
-    "simplification": ""
+    "description": "Phonetic 來 (lái, 'to come') + semantic 夊 (sū, 'footprint pointing down; to walk slowly') — represents the grain's association with wheat and its growth.",
+    "interpretation": "This character evokes the concept of wheat coming from the ground as it grows, represented by 夊. The phonetic part suggests a connection to its historical meaning.",
+    "simplification": "麦(麥) simplified by stroke reduction, eliminating the complex components of 夊."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "夊",
       "trad": "夊",
       "pinyin": "sū",
-      "english": "to walk slowly; footprint pointing down"
+      "english": "footprint pointing down; to walk slowly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们需要买一些麦(麥)子。",
-      "pinyin": "wǒmen xūyào mǎi yīxiē mài(zǐ)。",
-      "english": "We need to buy some wheat."
+      "chinese": "我喜欢吃麦片(我喜歡吃麥片)。",
+      "pinyin": "Wǒ xǐhuān chī mài piàn.",
+      "english": "I like to eat oats."
     },
     {
-      "chinese": "这麦(麥)子长得很好。",
-      "pinyin": "zhè mài(zǐ) zhǎng dé hěn hǎo。",
-      "english": "This wheat is growing very well."
+      "chinese": "小麦是主食之一(小麥是主食之一)。",
+      "pinyin": "Xiǎo mài shì zhǔshí zhī yī.",
+      "english": "Wheat is one of the staple foods."
+    },
+    {
+      "chinese": "这麦子收成很好(這麥子收成很好)。",
+      "pinyin": "Zhè mài zi shōuchéng hěn hǎo.",
+      "english": "This wheat harvest is very good."
     }
   ]
 }

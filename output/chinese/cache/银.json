@@ -5,9 +5,9 @@
   "english": "silver",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gèn, \"to restrain\") — metal that restrains or holds value",
-    "interpretation": "",
-    "simplification": "金(金) (jīn, \"metal\") is simplified to 钅 (jīn, \"metal radical\") to reduce stroke complexity, and retains its meaning as a significant component in the context of currency."
+    "description": "Semantic 金 ( 'metal' ) + phonetic 艮 ( 'gēn' ).",
+    "interpretation": "The presence of the metal element suggests the nature of silver, while the phonetic component provides the pronunciation.",
+    "simplification": "金 is simplified to 钅 to reduce strokes, showcasing a standard practice in creating more efficient written forms."
   },
   "parts": [
     {
@@ -20,25 +20,20 @@
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "to restrain"
+      "english": "to stop / mountain"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有一些银子，想去买东西。",
-      "pinyin": "wǒ yǒu yīxiē yínzi，xiǎng qù mǎi dōngxi。",
-      "english": "I have some silver and want to buy something."
+      "chinese": "我喜欢银色的项链(我喜歡銀色的項鍊)。",
+      "pinyin": "Wǒ xǐhuān yínsè de xiàngliàn.",
+      "english": "I like silver necklaces."
     },
     {
-      "chinese": "你知道银的价格吗？",
-      "pinyin": "nǐ zhīdào yín de jiàgé ma？",
-      "english": "Do you know the price of silver?"
-    },
-    {
-      "chinese": "银饰品很多人都喜欢。",
-      "pinyin": "yín shìpǐn hěn duō rén dōu xǐhuān。",
-      "english": "Many people like silver jewelry."
+      "chinese": "他收集了很多银币(他收集了很多銀幣)。",
+      "pinyin": "Tā shōujíle hěn duō yínbì.",
+      "english": "He has collected many silver coins."
     }
   ]
 }

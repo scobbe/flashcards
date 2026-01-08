@@ -2,11 +2,11 @@
   "simplified": "八",
   "traditional": "八",
   "pinyin": "bā",
-  "english": "eight",
+  "english": "speech",
   "etymology": {
     "type": "pictogram",
-    "description": "八(八) (bā, \"eight\") — represents two bent lines indicating division",
-    "interpretation": "The character visually depicts two lines that suggest the concept of separation or dividing into parts, emphasizing the transformation of the number concept from division to the numeral 'eight' itself.",
+    "description": "Depicts two bent lines indicating the original meaning of 'to divide'.",
+    "interpretation": "The two bent lines suggest a division or separation, evoking the original meaning of the character.",
     "simplification": ""
   },
   "parts": [],
@@ -14,18 +14,13 @@
   "examples": [
     {
       "chinese": "我有八个苹果(我有八個蘋果)。",
-      "pinyin": "Wǒ yǒu bā gè píngguǒ。(I have eight apples.)",
+      "pinyin": "Wǒ yǒu bā gè píngguǒ.",
       "english": "I have eight apples."
     },
     {
-      "chinese": "八(八)是一个幸运的数字(八是個幸運的數字)。",
-      "pinyin": "Bā shì yīgè xìngyùn de shùzì。(Eight is a lucky number.)",
-      "english": "Eight is a lucky number."
-    },
-    {
-      "chinese": "我们班有八个学生(我們班有八個學生)。",
-      "pinyin": "Wǒmen bān yǒu bā gè xuéshēng。(There are eight students in our class.)",
-      "english": "There are eight students in our class."
+      "chinese": "他的电话是八个数字(他的電話是八個數字)。",
+      "pinyin": "Tā de diànhuà shì bā gè shùzì.",
+      "english": "His phone number has eight digits."
     }
   ]
 }

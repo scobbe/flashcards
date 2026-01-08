@@ -1,0 +1,33 @@
+{
+  "simplified": "䰜",
+  "traditional": "䰜",
+  "pinyin": "yù",
+  "english": "cauldron",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "䰜 (yù, 'cauldron') + 米 (mǐ, 'rice') — congee. This character represents a cauldron used for cooking rice and depicts the steam emitted from the congee.",
+    "interpretation": "The character visually conveys the idea of a cooking vessel for rice, tying the act of cooking rice in a cauldron to the concept of congee.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我想吃粥(我想吃粥)。",
+      "pinyin": "Wǒ xiǎng chī zhōu.",
+      "english": "I want to eat congee."
+    },
+    {
+      "chinese": "古人用鬲煮米(古人用鬲煮米)。",
+      "pinyin": "Gǔrén yòng lì zhǔ mǐ.",
+      "english": "Ancient people used cauldrons to cook rice."
+    }
+  ]
+}

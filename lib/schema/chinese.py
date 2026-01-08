@@ -34,9 +34,10 @@ CHAR_REF_RULE = f"EVERY reference MUST use format {CHAR_REF_FORMAT}"
 LENGTH_RULE = "1-2 sentences MAX"
 
 CLAUSE_TRAD_RULE = [
-    'After EACH clause (，；：。？！), add (traditional) in parentheses BEFORE punctuation',
-    'E.g. 是的(是的)，你说得对(你說得對)。',
-    'Quotes: traditional goes inside: "你好(你好)" not "你好"(你好)',
+    'Format: simplified_clause(traditional_clause)punctuation for EVERY clause',
+    'E.g. 我有银子(我有銀子)，想买东西(想買東西)。',
+    'Single clause: 买银子(買銀子)。 NOT 买银子。(買銀子。)',
+    'MUST include punctuation marks (。，！？) in output',
 ]
 
 EXAMPLE_SENTENCE_RULES = [
@@ -45,8 +46,8 @@ EXAMPLE_SENTENCE_RULES = [
 ]
 
 CHINESE_PROMPT_PREAMBLE = {
-    "single_char": "Chinese character etymology expert. Respond in English.",
-    "multi_char": "Chinese word etymology expert. Respond in English.",
+    "single_char": "Chinese character etymology expert. Respond in English. NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' or 'OC *ɡroːd' anywhere in output.",
+    "multi_char": "Chinese word etymology expert. Respond in English. NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' anywhere in output.",
 }
 
 # -----------------------------------------------------------------------------
@@ -78,8 +79,11 @@ CHINESE_PROMPT_FIELDS = [
         name="description",
         prompt={
             "single_char": _join([
+                "BASE ON WIKTIONARY ETYMOLOGY IF PROVIDED",
                 CHAR_REF_RULE,
-                "Simple formula.",
+                "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
+                "For PICTOGRAMS: describe what the pictograph depicts (e.g. 'Depicts three mountain peaks')",
+                "For COMPOUNDS: simple formula using parts from Wiktionary",
                 'E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") — person resting by a tree',
                 "Use same breakdown as 'parts' field",
             ]),
@@ -99,6 +103,7 @@ CHINESE_PROMPT_FIELDS = [
             "single_char": _join([
                 LENGTH_RULE,
                 CHAR_REF_RULE,
+                "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
                 "WHY does this make intuitive sense?",
                 'E.g. 人(人) (rén, "person") leaning against a 木(木) (mù, "tree") evokes resting in its shade.',
                 "Don't fabricate history - just explain the intuition",

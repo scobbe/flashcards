@@ -5,8 +5,8 @@
   "english": "oatmeal porridge",
   "etymology": {
     "type": "compound word",
-    "description": "燕麦(燕麥) (yànmài, 'oats') + 粥(粥) (zhōu, 'porridge') — oat porridge",
-    "interpretation": "燕麦粥(燕麥粥) refers to a nourishing dish made primarily from oats and water or milk. This combination logically describes a type of porridge made from oats.",
+    "description": "燕麦(燕麥) (yànmài, \"oat\") + 粥(粥) (zhōu, \"porridge\") — oat porridge",
+    "interpretation": "The combination of 燕麦(燕麥) (yànmài, \"oat\") and 粥(粥) (zhōu, \"porridge\") describes a creamy dish made from oats. This reflects the common practice of preparing porridge from different grains.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,26 @@
       "char": "燕麦",
       "trad": "燕麥",
       "pinyin": "yànmài",
-      "english": "oats; porridge; meal; grain"
+      "english": "oat; swallow (bird); picturesque; delicate"
     },
     {
       "char": "粥",
       "trad": "粥",
       "pinyin": "zhōu",
-      "english": "porridge; congee; gruel; rice porridge"
+      "english": "porridge; gruel; congee; thick soup"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃燕麦粥(燕麥粥)，他也很推荐(他也很推薦)。",
-      "pinyin": "wǒ xǐhuān chī yànmàizhōu(燕麥粥)，tā yě hěn tuījiàn(他也很推薦)。",
-      "english": "I like to eat oatmeal porridge, and he highly recommends it too."
+      "chinese": "我喜欢燕麦粥(我喜歡燕麥粥)，因为它很健康(因為它很健康)。",
+      "pinyin": "Wǒ xǐhuān yànmàizhōu, yīnwèi tā hěn jiànkāng.",
+      "english": "I like oatmeal porridge because it is very healthy."
     },
     {
-      "chinese": "燕麦粥(燕麥粥)是很健康的早餐选择(是很健康的早餐選擇)。",
-      "pinyin": "yànmàizhōu(燕麥粥) shì hěn jiànkāng de zǎocān xuǎnzé(是很健康的早餐選擇)。",
-      "english": "Oatmeal porridge is a very healthy breakfast option."
+      "chinese": "早餐我常喝燕麦粥(早餐我常喝燕麥粥)。",
+      "pinyin": "Zǎocān wǒ cháng hē yànmàizhōu.",
+      "english": "I often drink oatmeal porridge for breakfast."
     }
   ]
 }

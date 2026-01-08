@@ -2,12 +2,12 @@
   "simplified": "话",
   "traditional": "話",
   "pinyin": "huà",
-  "english": "words; speech; talk; language",
+  "english": "word; speech; language; discussion",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "话(話) (huà, \"words; speech; talk; language\") — combines words with a phonetic suffix.",
-    "interpretation": "This character intuitively connects the concept of 'words' with a sound component that suggests speaking. The visual representation reinforces the idea of communication through speech.",
-    "simplification": "Stroke reduction was used to streamline the character. The semantic component 言(言) (yán, \"word\") remains intact, while the phonetic part was simplified."
+    "description": "Semantic 言 (言) (yán, 'word') + phonetic 𠯑 (𠯑) - indicating meaning is related to speech.",
+    "interpretation": "The combination conveys the idea of words or speech, emphasizing the act of verbal communication.",
+    "simplification": "The traditional character was simplified by using fewer strokes, retaining the key components for clarity."
   },
   "parts": [
     {
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请你说话(請你說話)，我想听(我想聽)。",
-      "pinyin": "Qǐng nǐ shuōhuà, wǒ xiǎng tīng.",
-      "english": "Please speak, I want to listen."
+      "chinese": "我喜欢听故事(我喜歡聽故事)。",
+      "pinyin": "wǒ xǐhuān tīng gùshì.",
+      "english": "I like to listen to stories."
     },
     {
-      "chinese": "他的语言(他的語言)非常丰富(非常豐富)。",
-      "pinyin": "Tā de yǔyán fēicháng fēngfù.",
-      "english": "His language is very rich."
-    },
-    {
-      "chinese": "我们正在讨论(我們正在討論)这个话题(這個話題)。",
-      "pinyin": "Wǒmen zhèngzài tǎolùn zhège huàtí.",
-      "english": "We are discussing this topic."
+      "chinese": "你有什么话要说(你有什麼話要說)？",
+      "pinyin": "nǐ yǒu shénme huà yào shuō?",
+      "english": "What do you want to say?"
     }
   ]
 }

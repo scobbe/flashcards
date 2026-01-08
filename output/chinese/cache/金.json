@@ -5,8 +5,8 @@
   "english": "metal",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") derives from the semantic component 士 (shì, \"upside-down ritual axe perhaps made of precious materials\") and 亼 (rén, representing the phonetic sound).",
-    "interpretation": "This character intuitively evokes the idea of ritual items, indicative of precious materials, connecting to the broader concept of metal, which includes valuable substances like gold.",
+    "description": "Semantic 士 (shì, 'upside-down ritual axe') + semantic 呂 (lǚ, 'two blocks of metal') + phonetic 亼 (indicates pronunciation).",
+    "interpretation": "The components collectively suggest an object associated with precious materials and metal, emphasizing its material significance.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,32 @@
       "char": "士",
       "trad": "士",
       "pinyin": "shì",
-      "english": "soldier"
+      "english": "upside-down ritual axe"
+    },
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "two blocks of metal"
     },
     {
       "char": "亼",
       "trad": "亼",
-      "pinyin": "rén",
-      "english": "to gather"
+      "pinyin": "jīn",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "金属(金屬)是许多物品的重要成分。",
-      "pinyin": "jīnshǔ shì xǔduō wùpǐn de zhòngyào chéngfèn。",
-      "english": "Metal is an important component of many items."
+      "chinese": "金属的性质(金屬的性質)",
+      "pinyin": "jīnshǔ de xìngzhì",
+      "english": "The properties of metal."
     },
     {
-      "chinese": "我喜欢金色的饰品。",
-      "pinyin": "wǒ xǐhuān jīnsè de shìpǐn。",
-      "english": "I like gold-colored jewelry."
+      "chinese": "他喜欢金(金)",
+      "pinyin": "tā xǐhuān jīn",
+      "english": "He likes gold."
     }
   ]
 }

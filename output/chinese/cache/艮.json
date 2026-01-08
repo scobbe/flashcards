@@ -2,11 +2,11 @@
   "simplified": "艮",
   "traditional": "艮",
   "pinyin": "gèn",
-  "english": "to restrain",
+  "english": "to stop / mountain",
   "etymology": {
     "type": "ideogrammic compound",
     "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") — a person looking back",
-    "interpretation": "The character 艮 conveys the sense of a person looking back, which evokes the idea of restraining or limiting movement. This makes intuitive sense as it suggests a pause or a return to a previous state.",
+    "interpretation": "The character captures the idea of a person looking back, suggesting the notions of stopping or being aware of limits. This visual cue makes the meaning intuitive, tying a person’s gaze to the concepts of halting or disobedience.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他总是艮着性子(艮著性子)，不愿意妥协。",
-      "pinyin": "tā zǒng shì gèn zhe xìngzi, bù yuàn yì tuǒxié。",
-      "english": "He always restrains his temper and is unwilling to compromise."
+      "chinese": "我们要艮住自己的欲望(我們要艮住自己的慾望)。",
+      "pinyin": "Wǒmen yào gèn zhù zìjǐ de yùwàng.",
+      "english": "We need to stop our desires."
     },
     {
-      "chinese": "要艮住自己的欲望(欲望)，才能专注工作。",
-      "pinyin": "yào gèn zhù zìjǐ de yùwàng, cáinéng zhuānzhù gōngzuò。",
-      "english": "To restrain one's desires is essential for focusing on work."
-    },
-    {
-      "chinese": "艮是养成好习惯的关键(關鍵)。",
-      "pinyin": "gèn shì yǎng chéng hǎo xíguàn de guānjiàn。",
-      "english": "Restraint is key to developing good habits."
+      "chinese": "这条路艮了(這條路艮了)。",
+      "pinyin": "Zhè tiáo lù gènle.",
+      "english": "This road stops here."
     }
   ]
 }

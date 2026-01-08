@@ -2,25 +2,25 @@
   "simplified": "夊",
   "traditional": "夊",
   "pinyin": "sū",
-  "english": "to walk slowly; footprint pointing down",
+  "english": "footprint pointing down; to walk slowly",
   "etymology": {
     "type": "pictogram",
-    "description": "夊(夊) (sū, 'to walk slowly; footprint pointing down')",
-    "interpretation": "The character 夊 is a pictogram representing a footprint pointing down, symbolizing a slow walking motion. This evokes the idea of a deliberate and careful approach, as indicated by the downward direction of the footprint.",
+    "description": "Depicts a footprint pointing downward, representing slow walking.",
+    "interpretation": "The image of a downward-facing footprint intuitively signifies a slow, deliberate motion, as if someone is carefully walking or trailing their feet.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古代汉字有夊字的形态。",
-      "pinyin": "Gǔdài hànzì yǒu 夊 zì de xíngtài。",
-      "english": "Ancient Chinese characters have the form of the character 夊."
+      "chinese": "我慢慢走(我慢慢走)，不着急。",
+      "pinyin": "Wǒ màn màn zǒu, bù zhuó jí.",
+      "english": "I walk slowly, without rushing."
     },
     {
-      "chinese": "这个字在现代汉语中不常用。",
-      "pinyin": "Zhège zì zài xiàndài hànyǔ zhōng bù cháng yòng。",
-      "english": "This character is not commonly used in modern Chinese."
+      "chinese": "他的脚步声很轻(他的腳步聲很輕)。",
+      "pinyin": "Tā de jiǎobù shēng hěn qīng.",
+      "english": "His footsteps are very light."
     }
   ]
 }

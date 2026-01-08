@@ -168,12 +168,12 @@ def generate_card_content(
         user = f"Character: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
-            user += f"\n\n**PRIMARY SOURCE for type & interpretation** - Wiktionary glyph origin:\n{wiktionary_etymology}"
+            user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE. Base type, description, and interpretation on this:**\n{wiktionary_etymology}"
     else:
         user = f"Word: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
-            user += f"\n\nWiktionary ref:\n{wiktionary_etymology}"
+            user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE:**\n{wiktionary_etymology}"
 
     if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
         user += f"\n\nInclude examples:\n{input_examples}"

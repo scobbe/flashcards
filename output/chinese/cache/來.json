@@ -5,27 +5,22 @@
   "english": "to come",
   "etymology": {
     "type": "pictogram",
-    "description": "麥(麥) (mài, 'wheat') — a pictogram representing the wheat plant with its ear, stem, and leaves, suggesting abundance.",
-    "interpretation": "The character 來 represents wheat, which is a vital food source. The intuitive connection here is that the presence of wheat implies arrival and sustenance, linking it to the idea of 'coming'.",
+    "description": "Depicts wheat with the middle line representing the ear, upward lines for leaves, and downward lines for stem and roots.",
+    "interpretation": "The character visually represents wheat, which historically symbolizes nourishment and growth. This connection is reflected in its use for 'to come', suggesting a bringing forth or arrival of sustenance.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他要來了(他要來了)。",
-      "pinyin": "Tā yào lái le.",
-      "english": "He is coming."
+      "chinese": "他要來了(他要來了)，我们应该准备好(我們應該準備好)。",
+      "pinyin": "tā yào lái le, wǒmen yīnggāi zhǔnbèi hǎo.",
+      "english": "He is coming, we should be ready."
     },
     {
-      "chinese": "朋友們都來了(朋友們都來了)。",
-      "pinyin": "Péngyǒumen dōu lái le.",
-      "english": "All the friends have come."
-    },
-    {
-      "chinese": "我來幫你(我來幫你)。",
-      "pinyin": "Wǒ lái bāng nǐ.",
-      "english": "I am coming to help you."
+      "chinese": "请她來(請她來)！",
+      "pinyin": "qǐng tā lái!",
+      "english": "Please have her come!"
     }
   ]
 }
