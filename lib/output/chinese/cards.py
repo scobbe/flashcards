@@ -96,8 +96,8 @@ def save_to_cache(
         print(f"[chinese] [cache] Not caching {word} - API error: {etymology.get('error')}")
         return
 
-    # Don't cache without examples
-    if not examples:
+    # Don't cache without examples (unless archaic character)
+    if not examples and in_contemporary_usage:
         print(f"[chinese] [cache] Not caching {word} - no examples")
         return
 
@@ -168,7 +168,7 @@ def generate_card_content(
         user = f"Character: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
-            user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE. Base type, description, and interpretation on this:**\n{wiktionary_etymology}"
+            user += f"\n\n**MANDATORY: Copy the 'type' EXACTLY from this Wiktionary etymology (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound'). Base description and interpretation on this:**\n{wiktionary_etymology}"
     else:
         user = f"Word: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"

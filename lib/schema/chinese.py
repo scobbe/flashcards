@@ -30,14 +30,17 @@ def _join(lines: List[str]) -> str:
 
 # Reusable format instructions
 CHAR_REF_FORMAT = '简(繁) (pinyin, "def"), e.g. 说(說) (shuō, "speak")'
-CHAR_REF_RULE = f"EVERY reference MUST use format {CHAR_REF_FORMAT}"
+CHAR_REF_RULE = f"EVERY Chinese character reference (except the current char) MUST use format {CHAR_REF_FORMAT} - NEVER write bare characters"
 LENGTH_RULE = "1-2 sentences MAX"
 
 CLAUSE_TRAD_RULE = [
-    'Format: simplified_clause(traditional_clause)punctuation for EVERY clause',
-    'E.g. 我有银子(我有銀子)，想买东西(想買東西)。',
-    'Single clause: 买银子(買銀子)。 NOT 买银子。(買銀子。)',
-    'MUST include punctuation marks (。，！？) in output',
+    'MANDATORY FORMAT: simplified_clause(traditional_clause)punctuation',
+    'CORRECT: 我有银子(我有銀子)，想买东西(想買東西)。',
+    'CORRECT: 买银子(買銀子)。',
+    'WRONG: 买银子。(買銀子。) - NEVER put punctuation inside parens',
+    'WRONG: 米是粮食。(米是糧食。) - this format is FORBIDDEN',
+    'Traditional in parens must be FULL sentence: 我吃饭(我吃飯)。 NOT 我吃饭(吃飯)。',
+    'Pinyin must be romanization ONLY - no Chinese characters in pinyin field',
 ]
 
 EXAMPLE_SENTENCE_RULES = [
@@ -46,8 +49,8 @@ EXAMPLE_SENTENCE_RULES = [
 ]
 
 CHINESE_PROMPT_PREAMBLE = {
-    "single_char": "Chinese character etymology expert. Respond in English. NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' or 'OC *ɡroːd' anywhere in output.",
-    "multi_char": "Chinese word etymology expert. Respond in English. NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' anywhere in output.",
+    "single_char": "Chinese character etymology expert. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' or 'OC *ɡroːd' anywhere in output.",
+    "multi_char": "Chinese word etymology expert. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' anywhere in output.",
 }
 
 # -----------------------------------------------------------------------------
@@ -70,7 +73,7 @@ CHINESE_PROMPT_FIELDS = [
     PromptField(
         name="type",
         prompt={
-            "single_char": "pictogram, ideogram, phono-semantic compound, etc.",
+            "single_char": "COPY type from Wiktionary in English ONLY - no Chinese (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound') NOT 'Pictogram ( 象形 )'",
             "multi_char": '"compound word"',
         },
         response_type="string",
@@ -79,19 +82,27 @@ CHINESE_PROMPT_FIELDS = [
         name="description",
         prompt={
             "single_char": _join([
-                "BASE ON WIKTIONARY ETYMOLOGY IF PROVIDED",
+                "SHORT FORMULA ONLY - no verbose explanations",
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
-                "For PICTOGRAMS: describe what the pictograph depicts (e.g. 'Depicts three mountain peaks')",
-                "For COMPOUNDS: simple formula using parts from Wiktionary",
-                'E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") — person resting by a tree',
-                "Use same breakdown as 'parts' field",
+                "For PICTOGRAMS: 'Depicts X'",
+                'E.g. 日(日) (rì, "sun") depicts the sun',
+                'E.g. 水(水) (shuǐ, "water") depicts flowing water',
+                'For COMPOUNDS: "A (meaning) + B (meaning) = intuitive explanation -> final meaning"',
+                'E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") = person leaning against tree -> rest',
+                'E.g. 日(日) (rì, "sun") + 月(月) (yuè, "moon") = sun and moon together -> bright',
+                'E.g. 女(女) (nǚ, "woman") + 子(子) (zǐ, "child") = woman with child -> good',
+                'E.g. semantic: 氵(氵) (shuǐ, "water") + phonetic: 青(青) (qīng) = clear water -> clear',
+                'For REDUCED/RELATED FORMS: "Reduced/related form of X" where X is the original char with format',
+                'E.g. 云(雲) (yún) = reduced form of 雲(雲) (yún, "cloud")',
+                'E.g. 从(從) (cóng) = reduced form of 從(從) (cóng, "follow")',
+                "MUST use EXACTLY the parts from 'parts' field",
             ]),
             "multi_char": _join([
                 CHAR_REF_RULE,
                 "Simple formula using MORPHEMES (not individual chars).",
-                'E.g. 图书(圖書) (túshū, "books") + 馆(館) (guǎn, "building") — book building',
-                "Use same breakdown as 'parts' field",
+                'E.g. 图书(圖書) (túshū, "books") + 馆(館) (guǎn, "building") = place for books -> library',
+                "MUST use EXACTLY the parts from 'parts' field",
                 "NOT individual characters like 图 + 书 + 馆",
             ]),
         },
@@ -104,12 +115,14 @@ CHINESE_PROMPT_FIELDS = [
                 LENGTH_RULE,
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
-                "WHY does this make intuitive sense?",
-                'E.g. 人(人) (rén, "person") leaning against a 木(木) (mù, "tree") evokes resting in its shade.',
-                "Don't fabricate history - just explain the intuition",
-                "No unexplained leaps like 'by extension...' - if you can't explain the connection, don't mention it",
+                "Explain WHY the components from 'parts' field make intuitive sense together",
+                'For borrowings: e.g. 其(其) (qí, "his") was originally a basket pictogram, borrowed for the pronoun; 箕(箕) (jī, "basket") added 竹(竹) (zhú, "bamboo") to reclaim the basket meaning',
+                "For compounds: explain why the semantic + phonetic combination makes sense",
+                "ONLY reference components listed in 'parts' field",
+                "FORBIDDEN: claims about ancient beliefs, heavenly origins, or mystical symbolism",
+                "No unexplained leaps like 'by extension...'",
                 "No jargon",
-                "Do NOT restate the description formula",
+                "Do NOT just restate the description - add insight",
             ]),
             "multi_char": _join([
                 LENGTH_RULE,
@@ -129,9 +142,12 @@ CHINESE_PROMPT_FIELDS = [
         prompt={
             "single_char": _join([
                 LENGTH_RULE,
-                "What simplification rules were used (stroke reduction, component substitution, cursive adoption, etc.)?",
-                "If a component was replaced, explain WHY that replacement was chosen",
-                CHAR_REF_RULE,
+                "Explain the SPECIFIC historical process - NOT generic 'for ease of writing'",
+                "Was it: a cursive shorthand? a sound-alike? a meaning-based replacement?",
+                "E.g. 鄰→邻: '令 replaced 粦 as a simpler phonetic - both sound similar (lín/lìng)'",
+                "E.g. 淚→泪: '目 (eye) replaced 戾 for semantic clarity - tears come from eyes'",
+                "E.g. 鳳→凤: '又 is a cursive shorthand for the bird radical - unrelated to sound or meaning'",
+                "NEVER say 'simplified for ease' without explaining HOW (cursive? phonetic? semantic?)",
                 'Or "none" if traditional = simplified',
             ]),
             "multi_char": "none",
@@ -144,9 +160,13 @@ CHINESE_PROMPT_FIELDS = [
         prompt={
             "single_char": _join([
                 "Array of component chars [{char, trad, pinyin, english}].",
-                "For PICTOGRAMS: ALWAYS return [] (empty array) - no components",
-                "For COMPOUNDS (ideogrammic, phono-semantic): list structural components based on the description field",
-                "E.g. 想 = [相, 心] or 休 = [人, 木]",
+                "COPY-PASTE the exact characters from Wiktionary text - do NOT invent or guess",
+                "If Wiktionary is not provided, return empty array",
+                "If Wiktionary says '氵+ 可', use exactly 氵and 可 - not similar-looking variants",
+                "If Wiktionary says 'reduced form of X', list X as a part",
+                "NEVER invent or guess characters - only use what appears in Wiktionary",
+                "For PICTOGRAMS: return empty array",
+                'E.g. 豉 with Wiktionary "semantic 豆 + phonetic 支" → parts: 豆(豆) (dòu, "bean"), 支(支) (zhī, "branch")',
             ]),
             "multi_char": _join([
                 "Array of MORPHEME breakdown [{char, trad, pinyin, english}].",
