@@ -1,0 +1,56 @@
+{
+  "simplified": "受",
+  "traditional": "受",
+  "pinyin": "shòu",
+  "english": "receive; endure; bear; accept",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "爪(爪) (zhǎo, 'hand') + 凡(凡) (fán, 'plate') + 又(又) (yòu, 'hand') -> hand over (凡 corrupted to 舟 (舟) (zhōu, 'boat') for phonetic value -> semantic: 爪 + phonetic: 舟 in seal script",
+    "interpretation": "The character 受(受) (shòu, 'receive') originally depicts two hands passing over a plate, representing the action of handing something over. The middle component 凡(凡) (fán, 'plate') evolved into 舟(舟) (zhōu, 'boat') for phonetic reasons. In later scripts, 舟 was simplified to 冖 for ease of writing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "hand"
+    },
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "plate"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他受到了表扬(他受到了表揚)。",
+      "pinyin": "Tā shòudào le biǎoyáng.",
+      "english": "He received praise."
+    },
+    {
+      "chinese": "他不愿受人摆布(他不願受人擺佈)，坚持自己的原则(堅持自己的原則)。",
+      "pinyin": "Tā bù yuàn shòu rén bǎibù, jiānchí zìjǐ de yuánzé.",
+      "english": "He refuses to be manipulated by others and upholds his own principles."
+    },
+    {
+      "chinese": "她受到了朋友的关心(她受到了朋友的關心)。",
+      "pinyin": "Tā shòudào le péngyǒu de guānxīn.",
+      "english": "She received care from her friends."
+    }
+  ]
+}

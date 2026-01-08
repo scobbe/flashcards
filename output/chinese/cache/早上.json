@@ -1,0 +1,44 @@
+{
+  "simplified": "早上",
+  "traditional": "早上",
+  "pinyin": "zǎoshang",
+  "english": "morning",
+  "etymology": {
+    "type": "compound word",
+    "description": "早(早) (zǎo, \"early\") + 上(上) (shàng, \"up; on\") together mean \"morning\". The idea is the early part of the day, when the sun is starting to rise, which corresponds with the concept of 'up' or 'on'.",
+    "interpretation": "早上(早上) (zǎoshang, \"morning\") reflects the time of day that comes early and signifies the beginning of daily activities when the sun is rising.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    },
+    {
+      "char": "上",
+      "trad": "上",
+      "pinyin": "shàng",
+      "english": "up; on"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "早上好(早上好)！",
+      "pinyin": "zǎoshang hǎo！",
+      "english": "Good morning!"
+    },
+    {
+      "chinese": "早上空气清新(早上空氣清新)，适合散步(適合散步)。",
+      "pinyin": "zǎoshang kōngqì qīngxīn, shìhé sànbù。",
+      "english": "The morning air is fresh, perfect for a walk."
+    },
+    {
+      "chinese": "我早上醒来(我早上醒來)，看到窗外日出(看到窗外日出)。",
+      "pinyin": "wǒ zǎoshang xǐnglái, kàn dào chuāngwài rìchū。",
+      "english": "I wake up in the morning and see the sunrise outside the window."
+    }
+  ]
+}

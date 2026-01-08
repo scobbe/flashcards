@@ -5,29 +5,18 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "毛 (máo, \"hair/fur\") for semantic meaning of hair or fur + phonetic component (𣬉) = related to hair or fur",
-    "interpretation": "The character 𣬉 is formed with 毛 (máo, \"hair/fur\") for its meaning, indicating a relationship to hair or fur, combined with a component that provides the pronunciation 'zhā'.",
+    "description": "simplified character 𣬉 (zhā, \"phonetic component\") is a stylized form of 昨(昨) (zuó, \"yesterday\")",
+    "interpretation": "In modern usage, 𣬉 (zhā) is primarily used as a phonetic component in other characters, helping to convey sounds. It is derived from the more complex 昨(昨), simplifying it structurally while keeping its phonetic value.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "毛",
-      "trad": "毛",
-      "pinyin": "máo",
-      "english": "hair/fur"
+      "char": "昨",
+      "trad": "昨",
+      "pinyin": "zuó",
+      "english": "yesterday"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "这个字有𣬉(𣬉)，组成了音形结构(組成了音形結構)。",
-      "pinyin": "Zhè ge zì yǒu zhā，Zǔchéng le yīn xíng jiégòu。",
-      "english": "This character contains 𣬉, forming a phonetic-semantic structure."
-    },
-    {
-      "chinese": "造字时用𣬉(𣬉)，表示音读(表示音讀)。",
-      "pinyin": "Zào zì shí yòng zhā，Biǎoshì yīn dú。",
-      "english": "In creating characters, 𣬉 is used to indicate the phonetic component."
-    }
-  ]
+  "examples": []
 }

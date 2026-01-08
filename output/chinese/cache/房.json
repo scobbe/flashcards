@@ -1,0 +1,44 @@
+{
+  "simplified": "房",
+  "traditional": "房",
+  "pinyin": "fáng",
+  "english": "house; room",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "戶(戶) (hù, \"door\") + 方(方) (fāng, \"side\") = door on the side -> room",
+    "interpretation": "房(fáng, \"house; room\") combines the semantic element 戶(戶) (hù, \"door\") with the phonetic element 方(方) (fāng, \"side\"), suggesting a space associated with a door, like a side room in a house.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戶",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "side"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在城里租了一间房(他在城裡租了一間房)。",
+      "pinyin": "Tā zài chénglǐ zū le yī jiān fáng.",
+      "english": "He rented a room in the city."
+    },
+    {
+      "chinese": "我的房子很温暖(我的房子很溫暖)。",
+      "pinyin": "Wǒ de fángzi hěn wēnnuǎn.",
+      "english": "My house is very warm."
+    },
+    {
+      "chinese": "夏天时房间有空调(夏天時房間有空調)，感觉十分舒适(感覺十分舒適)。",
+      "pinyin": "Xiàtiān shí fángjiān yǒu kōngtiáo, gǎnjué shífēn shūshì.",
+      "english": "In summer, the room has air conditioning and feels very comfortable."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "院",
+  "traditional": "院",
+  "pinyin": "yuàn",
+  "english": "courtyard; institution",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "阝(阝) (fù, 'mound') as semantic indicator, suggesting an enclosed space, + 完(完) (wán, 'finish') as phonetic component -> courtyard or institution",
+    "interpretation": "The combination of an enclosure or area marked by 阝(阝) (fù, 'mound') and the phonetic 完(完) (wán, 'finish') conveys the idea of a contained, completed area, such as a courtyard or institution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阝",
+      "trad": "阝",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "完",
+      "trad": "完",
+      "pinyin": "wán",
+      "english": "finish"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他走进院(他走進院)，眺望院外风景(眺望院外風景)。",
+      "pinyin": "Tā zǒu jìn yuàn, tiào wàng yuàn wài fēng jǐng.",
+      "english": "He walks into the courtyard and gazes at the scenery outside."
+    },
+    {
+      "chinese": "书院承载着古人的智慧(書院承載著古人的智慧)。",
+      "pinyin": "Shūyuàn chéngzài zhe gǔrén de zhìhuì.",
+      "english": "The academy embodies the wisdom of the ancients."
+    },
+    {
+      "chinese": "他在剧院(他在劇院)，欣赏精彩的表演(欣賞精彩的表演)。",
+      "pinyin": "Tā zài jùyuàn, xīnshǎng jīngcǎi de biǎoyǎn.",
+      "english": "He enjoys a splendid performance at the theater."
+    }
+  ]
+}

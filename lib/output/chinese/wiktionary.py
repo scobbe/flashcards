@@ -299,10 +299,48 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
         if verbose:
             print(f"[wiktionary] [fetch] {word} ({resp.elapsed.total_seconds():.1f}s)")
 
+        # Extract etymology from this page FIRST
+        etymology = _extract_etymology_from_html(resp.text)
+
         # Check for "See also: X" or "For X see Y" reference
         see_ref, relationship, is_hard_redirect = _extract_see_reference(resp.text)
-        if see_ref and see_ref != word and see_ref not in words_to_fetch:
-            # Skip unrenderable characters (surrogate pairs, rare CJK extensions)
+
+        # Decide whether to follow redirect based on etymology content:
+        # 1. If NO etymology content → follow redirect
+        # 2. If etymology mentions the redirect target (e.g. "simplified from X") → follow redirect AND include both
+        # 3. If etymology does NOT mention redirect target → use etymology only, ignore redirect
+        should_follow_redirect = False
+        if is_hard_redirect and see_ref:
+            if not etymology:
+                # No etymology content, follow redirect
+                should_follow_redirect = True
+                if verbose:
+                    print(f"[wiktionary] [redirect] {word} → {see_ref} (no glyph origin)")
+            elif see_ref in etymology:
+                # Etymology mentions the redirect target, follow both
+                should_follow_redirect = True
+                if verbose:
+                    print(f"[wiktionary] [redirect+etym] {word} → {see_ref} (glyph origin references redirect)")
+            else:
+                # Etymology exists and doesn't mention redirect - use etymology only
+                if verbose:
+                    print(f"[wiktionary] [ignore-redirect] {word} has own etymology, ignoring redirect to {see_ref}")
+
+        if should_follow_redirect:
+            if see_ref and see_ref != word and see_ref not in words_to_fetch:
+                # Skip unrenderable characters (surrogate pairs, rare CJK extensions)
+                if len(see_ref) > 1 or ord(see_ref[0]) > 0xFFFF:
+                    if verbose:
+                        print(f"[wiktionary] [skip-ref] {word} → {see_ref} (unrenderable character)")
+                else:
+                    words_to_fetch.append(see_ref)
+            # If no etymology, just add relationship and continue
+            if not etymology:
+                if relationship:
+                    all_etymology_parts.append(f"[{word}] {relationship}.")
+                continue
+        elif not is_hard_redirect and see_ref and see_ref != word and see_ref not in words_to_fetch:
+            # Soft redirect (See also) - still fetch the referenced page for additional info
             if len(see_ref) > 1 or ord(see_ref[0]) > 0xFFFF:
                 if verbose:
                     print(f"[wiktionary] [skip-ref] {word} → {see_ref} (unrenderable character)")
@@ -310,14 +348,6 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
                 words_to_fetch.append(see_ref)
                 if verbose:
                     print(f"[wiktionary] [see-also] {word} → will also fetch {see_ref}")
-
-        # Extract etymology from this page
-        etymology = _extract_etymology_from_html(resp.text)
-
-        # For hard redirects with no etymology on this page, just add relationship and continue
-        if is_hard_redirect and not etymology and relationship:
-            all_etymology_parts.append(f"[{word}]\n{relationship}")
-            continue
 
         if etymology:
             # Add word label if fetching multiple

@@ -1,0 +1,45 @@
+{
+  "simplified": "需",
+  "traditional": "需",
+  "pinyin": "xū",
+  "english": "require",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "天(天) (tiān, \"person\") + 雨(雨) (yǔ, \"rain\") = person getting wet in the rain -> 天 corrupted to 而(而) (ér) -> final form is 需",
+    "interpretation": "The character 需 originally depicted a person getting wet in the rain, showing a need or requirement to stay dry. Over time, 天(天) (tiān, \"person\") was replaced by a corrupted form 而(而) (ér) during the Han dynasty, leading to the modern character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "person"
+    },
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "而",
+      "trad": "而",
+      "pinyin": "ér",
+      "english": "then"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学生需努力学习(學生需努力學習)。",
+      "pinyin": "Xuéshēng xū nǔlì xuéxí.",
+      "english": "Students must study diligently."
+    },
+    {
+      "chinese": "工程师需解决问题(工程師需解決問題)，团队需协同合作(團隊需協同合作)。",
+      "pinyin": "Gōngchéngshī xū jiějué wèntí, tuánduì xū xiétóng hézuò.",
+      "english": "Engineers need to solve problems, and the team needs to cooperate."
+    }
+  ]
+}

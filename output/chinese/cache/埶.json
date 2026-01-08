@@ -2,38 +2,33 @@
   "simplified": "埶",
   "traditional": "埶",
   "pinyin": "yì",
-  "english": "skill",
+  "english": "art",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "圥(圥) (lù, \"earth structure\") + 丮(丮) (jǐ, \"to hold\") = kneeling person planting a sapling into soil -> skill",
-    "interpretation": "埶(yì, \"skill\") combines the image of planting, symbolizing cultivation and development. The character evolved from depicting the action of planting, reflecting the idea of nurturing and acquiring skill over time.",
+    "description": "木(木, \"tree\") corrupted to 圥 + 土(土, \"soil\") = kneeling person planting sapling -> 丮(丮, \"to hold\") evolved from 丸 -> final form 埶",
+    "interpretation": "Originally, 埶 depicted a person kneeling to plant a sapling into the soil, symbolizing cultivation and art. The character illustrates the essence of art as a process of nurturing and growth.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "圥",
-      "trad": "圥",
-      "pinyin": "lù",
-      "english": "earth structure"
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "soil"
     },
     {
       "char": "丮",
       "trad": "丮",
-      "pinyin": "jǐ",
+      "pinyin": "jié",
       "english": "to hold"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他练就了非凡埶(他練就了非凡埶)。",
-      "pinyin": "Tā liàn jiù le fēifán yì.",
-      "english": "He has honed extraordinary skill."
-    },
-    {
-      "chinese": "她在绘画上展现出精湛的埶(她在繪畫上展現出精湛的埶)，令观众啧啧称奇(令觀眾啧啧稱奇)。",
-      "pinyin": "Tā zài huìhuà shàng zhǎnxiàn chū jīngzhàn de yì, lìng guānzhòng zézé chēngqí.",
-      "english": "She displays exquisite skill in painting, amazing the audience."
-    }
-  ]
+  "examples": []
 }

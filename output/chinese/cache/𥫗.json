@@ -1,0 +1,26 @@
+{
+  "simplified": "𥫗",
+  "traditional": "𥫗",
+  "pinyin": "zhú",
+  "english": "bamboo",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two bamboo stalks with leaves -> earlier forms resembled 个 + 个 -> current form resembles ケ + ケ or 亇 + 亇",
+    "interpretation": "The character 𥫗 visually represents two bamboo stalks with leaves, capturing the botanical appearance of bamboo. Earlier iterations of the character resembled 个 + 个, indicating the dual stalks, while the current form stylizes this into ケ + ケ or 亇 + 亇, emphasizing the leaf and stalk structure.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "青翠的𥫗点缀在山坡上(青翠的𥫗點綴在山坡上)。",
+      "pinyin": "Qīngcuì de zhú diǎn zhuì zài shānpō shàng.",
+      "english": "The verdant bamboo decorates the hillside."
+    },
+    {
+      "chinese": "小河边的古亭旁有一丛𥫗(小河邊的古亭旁有一叢𥫗)，风中它轻轻摇曳(風中它輕輕搖曳)。",
+      "pinyin": "Xiǎo hé biān de gǔ tíng páng yǒu yī cóng zhú, fēng zhōng tā qīngqīng yáoyè.",
+      "english": "By the small river next to the ancient pavilion, a clump of bamboo gently sways in the wind."
+    }
+  ]
+}

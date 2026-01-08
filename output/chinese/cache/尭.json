@@ -5,16 +5,16 @@
   "english": "high",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 垚(yáo, 'tall (of earth)') + Semantic: 兀(wù, 'towering and bald') = suggests elevated height or prominence -> high",
-    "interpretation": "The character 堯(yáo) combines elements that visually and conceptually convey something tall or elevated, fitting the meaning 'high'. '垚' depicts height with stacked earth radicals, while '兀' denotes a peak or bald hill, emphasizing standing tall.",
-    "simplification": "'尭(yáo)' simplifies '堯(yáo)' in Japanese shinjitai by changing '垚' to '卉(huì)', which involves fewer strokes. This likely prioritizes ease of writing while maintaining the phonetic component."
+    "description": "垚(垚) (yáo, \"tall of earth\") + 兀(兀) (wù, \"towering and bald\") = phonetic tall with semantic towering -> high",
+    "interpretation": "堯(堯) (yáo, \"high\") combines 垚(垚) (yáo) and 兀(兀) (wù) to signify something tall and prominent, reflective of its meaning 'high'. The ancient depiction included elements representing a structure rising from the earth, emphasizing elevation.",
+    "simplification": "In Japanese shinjitai, 垚(垚) was replaced with 卉(卉) to form the simplified character 尧."
   },
   "parts": [
     {
       "char": "垚",
       "trad": "垚",
       "pinyin": "yáo",
-      "english": "tall (of earth)"
+      "english": "tall of earth"
     },
     {
       "char": "兀",
@@ -23,17 +23,17 @@
       "english": "towering and bald"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那座尭峰耸入云霄(那座尭峰聳入雲霄)。",
-      "pinyin": "Nà zuò yáo fēng sǒng rù yún xiāo.",
-      "english": "That towering peak reaches into the clouds."
+      "chinese": "他梦想登上尭峰(他夢想登上尭峰)，俯瞰万里江山(俯瞰萬里江山)。",
+      "pinyin": "Tā mèngxiǎng dēng shàng yáofēng, fǔkàn wànlǐ jiāngshān.",
+      "english": "He dreams of climbing the lofty peak and overlooking the vast country."
     },
     {
-      "chinese": "这幢大楼的顶层高耸(這棟大樓的頂層高聳)，达到了尭的高度(達到了尭的高度)。",
-      "pinyin": "Zhè chuáng dàlóu de dǐngcéng gāosǒng, dádàole yáo de gāodù.",
-      "english": "The top floor of this building towers, reaching a remarkably high altitude."
+      "chinese": "这座山峰巍然耸立(這座山峰巍然聳立)，顶峰尭峙(頂峰尭峙)。",
+      "pinyin": "Zhè zuò shānfēng wēirán sǒnglì, dǐngfēng yáozhì.",
+      "english": "This mountain rises majestically, its peak stands high."
     }
   ]
 }

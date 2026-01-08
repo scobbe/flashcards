@@ -4,9 +4,9 @@
   "pinyin": "yù",
   "english": "brush",
   "etymology": {
-    "type": "Pictogram ( 象形 ) or ideogrammic compound ( 會意 / 会意 )",
-    "description": "手(手) (shǒu, \"hand\") holding a brush (𰀁) -> refers to 筆(筆) (bǐ, \"writing brush\") -> borrowed for 聿 (yù, \"thereupon\")",
-    "interpretation": "Originally depicting a hand holding a brush, it was associated with the writing brush but later used for its phonetic value unrelated to its initial meaning.",
+    "type": "pictogram",
+    "description": "手(手) (shǒu, 'hand') stylized as 又(又) (yòu, 'hand') + 𰀁(𰀁) (yù, 'brush') = hand holding a brush",
+    "interpretation": "The character 聿(yù) originally depicted a hand holding a brush, symbolizing the act of writing or drawing. It was initially used for the writing brush itself and later borrowed for other meanings.",
     "simplification": ""
   },
   "parts": [
@@ -19,26 +19,26 @@
     {
       "char": "𰀁",
       "trad": "𰀁",
-      "pinyin": "bǐ",
+      "pinyin": "yù",
       "english": "brush"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "文人執聿揮毫(文人執聿揮毫)。",
-      "pinyin": "Wénrén zhí yù huī háo.",
-      "english": "The literati wield the brush with masterful strokes."
+      "chinese": "古代文人以聿书写心志(古代文人以聿書寫心志)。",
+      "pinyin": "Gǔdài wénrén yǐ yù shūxiě xīnzhì.",
+      "english": "Ancient literati used the brush to write their aspirations."
     },
     {
-      "chinese": "他蘸墨於聿(他蘸墨於聿)，繪出一幅詩卷(繪出一幅詩卷)。",
-      "pinyin": "Tā zhàn mò yú yù, huì chū yī fú shī juǎn.",
-      "english": "He dipped ink with the brush and painted a scroll of poetry."
+      "chinese": "书法之美在于用聿(書法之美在於用聿)，笔随心动(筆隨心動)。",
+      "pinyin": "Shūfǎ zhī měi zàiyú yòng yù, bǐ suí xīndòng.",
+      "english": "The beauty of calligraphy lies in using a brush, as the brush follows the movements of the heart."
     },
     {
-      "chinese": "古時書生常攜聿遊歷(古時書生常攜聿遊歷)。",
-      "pinyin": "Gǔshí shūshēng cháng xié yù yóulì.",
-      "english": "In ancient times, scholars often carried the brush while traveling."
+      "chinese": "他用聿写出了一篇优美的诗(他用聿寫出了一篇優美的詩)。",
+      "pinyin": "Tā yòng yù xiě chūle yī piān yōuměi de shī.",
+      "english": "He used the brush to compose a beautiful poem."
     }
   ]
 }

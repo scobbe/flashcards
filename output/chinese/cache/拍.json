@@ -1,0 +1,44 @@
+{
+  "simplified": "拍",
+  "traditional": "拍",
+  "pinyin": "pāi",
+  "english": "to pat; to beat; to take (a picture)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "骨(骨) (gǔ, \"bone\") + 尃(尃) (fū) = semantic + phonetic elements",
+    "interpretation": "Originally, 拍(拍) was an obsolete form of 髆(髆), where it combined the semantic element 骨(骨) (gǔ, \"bone\") with the phonetic element 尃(尃) (fū). The character has evolved to mean 'to pat' or 'to take a picture,' likely due to the action of tapping or hitting lightly, similar to the precision and care in focusing a camera.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "骨",
+      "trad": "骨",
+      "pinyin": "gǔ",
+      "english": "bone"
+    },
+    {
+      "char": "尃",
+      "trad": "尃",
+      "pinyin": "fū",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈轻轻拍我的肩膀(媽媽輕輕拍我的肩膀)。",
+      "pinyin": "Māmā qīngqīng pāi wǒ de jiānbǎng.",
+      "english": "Mom gently patted my shoulder."
+    },
+    {
+      "chinese": "我们去公园(我們去公園)，拍美丽的风景(拍美麗的風景)。",
+      "pinyin": "Wǒmen qù gōngyuán, pāi měilì de fēngjǐng.",
+      "english": "We go to the park to take pictures of the beautiful scenery."
+    },
+    {
+      "chinese": "他生气地拍桌子(他生氣地拍桌子)。",
+      "pinyin": "Tā shēngqì de pāi zhuōzi.",
+      "english": "He angrily banged on the table."
+    }
+  ]
+}

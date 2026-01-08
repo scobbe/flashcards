@@ -2,11 +2,11 @@
   "simplified": "昜",
   "traditional": "昜",
   "pinyin": "yáng",
-  "english": "bright",
+  "english": "",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "日(日) (rì, \"sun\") + 丂(丂) (kǎo, \"branch\") + 彡(彡) = rays of the sun over a tree branch -> bright",
-    "interpretation": "The character 昜(yáng) vividly illustrates the concept of 'bright' by combining 日(日) (rì, \"sun\"), suggesting light, with graphical elements representing rays and branches. This composition effectively conveys the imagery of sunlight shining through or over branches, hence the association with brightness.",
+    "description": "日(日) (rì, \"sun\") + 丂(丂) (kǎo, \"breath\") + 彡(彡) (xiǎn, \"rays of light\") = rays of the sun shining over a tree branch",
+    "interpretation": "The character 昜(yáng) portrays the concept of the sun's rays shining down, symbolized by 日(日) (rì, \"sun\") with 丂(丂) representing a tree branch and 彡(彡) depicting the sun's rays. This compound visually encapsulates the light given off by the sun.",
     "simplification": ""
   },
   "parts": [
@@ -20,31 +20,26 @@
       "char": "丂",
       "trad": "丂",
       "pinyin": "kǎo",
-      "english": "branch"
+      "english": "breath"
     },
     {
       "char": "彡",
       "trad": "彡",
-      "pinyin": "shān",
-      "english": "rays"
+      "pinyin": "xiǎn",
+      "english": "rays of light"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天的日光昜(今天的日光昜)。",
-      "pinyin": "Jīntiān de rìguāng yáng.",
-      "english": "Today's sunlight is bright."
+      "chinese": "日光照耀下时(日光照耀下時)，旗帜高昜飘扬(旗幟高昜飄揚)。",
+      "pinyin": "Rìguāng zhàoyào xià shí, qízhì gāo yáng piāoyáng.",
+      "english": "Under the shining sunlight, the flag is raised high."
     },
     {
-      "chinese": "太阳刚升起时(太陽剛升起時)，大地显得昜(大地顯得昜)。",
-      "pinyin": "Tàiyáng gāng shēngqǐ shí, dàdì xiǎnde yáng.",
-      "english": "When the sun has just risen, the earth appears bright."
-    },
-    {
-      "chinese": "清晨时分天空昜(清晨時分天空昜)，大海波光粼粼(大海波光粼粼)。",
-      "pinyin": "Qīngchén shífēn tiānkōng yáng, dàhǎi bōguāng línlín.",
-      "english": "In the early morning, the sky is bright while the sea sparkles with shimmering light."
+      "chinese": "风儿吹过柳梢时(風兒吹過柳梢時)，心中的梦想也随昜起(心中的夢想也隨昜起)。",
+      "pinyin": "Fēng ér chuīguò liǔ shāo shí, xīn zhōng de mèngxiǎng yě suí yáng qǐ.",
+      "english": "As the wind passes the tips of the willows, the dreams in the heart rise as well."
     }
   ]
 }

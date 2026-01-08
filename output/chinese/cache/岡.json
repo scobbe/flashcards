@@ -1,0 +1,44 @@
+{
+  "simplified": "岡",
+  "traditional": "岡",
+  "pinyin": "gāng",
+  "english": "ridge",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "网(網) (wǎng, phonetic) + 山(山) (shān, \"mountain\") = ridge",
+    "interpretation": "The character combines the phonetic component 网(網) to suggest pronunciation and the semantic component 山(山) to indicate its meaning related to mountains, forming the concept of a 'ridge'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "网",
+      "trad": "網",
+      "pinyin": "wǎng",
+      "english": "net"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "远处的山冈全被绿色覆盖(遠處的山岡全被綠色覆蓋)。",
+      "pinyin": "Yuǎn chù de shān gāng quán bèi lǜ sè fù gài.",
+      "english": "The distant ridge is completely covered in green."
+    },
+    {
+      "chinese": "登上山冈(登上山岡)，你会看到美丽的风光(你會看到美麗的風光)。",
+      "pinyin": "Dēng shàng shān gāng, nǐ huì kàn dào měi lì de fēng guāng.",
+      "english": "Climb the ridge, and you will see beautiful scenery."
+    },
+    {
+      "chinese": "清晨时分(清晨時分)，雾气缭绕在连绵的山冈上(霧氣繚繞在連綿的山岡上)。",
+      "pinyin": "Qīng chén shí fēn, wù qì liáo rào zài lián mián de shān gāng shàng.",
+      "english": "In the early morning, mist hovers over the rolling ridges."
+    }
+  ]
+}

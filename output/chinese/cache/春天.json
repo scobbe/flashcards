@@ -1,0 +1,39 @@
+{
+  "simplified": "春天",
+  "traditional": "春天",
+  "pinyin": "chūntiān",
+  "english": "spring",
+  "etymology": {
+    "type": "compound word",
+    "description": "春(春) (chūn, \"spring\") + 天(天) (tiān, \"sky; day; season\") = spring season",
+    "interpretation": "春(春) (chūn, \"spring\") refers to the season of renewal, growth, and warmth following winter. 天(天) (tiān, \"sky; day; season\") adds the concept of a period or cycle. Together, 春天(春天) (chūntiān, \"spring season\") represents the time of year characterized by mild weather and the blossoming of nature, often connected to concepts of renewal and rejuvenation in cultures worldwide.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "春",
+      "trad": "春",
+      "pinyin": "chūn",
+      "english": "spring"
+    },
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "sky; day; season"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天来了(春天來了)。",
+      "pinyin": "chūntiān láile.",
+      "english": "Spring has arrived."
+    },
+    {
+      "chinese": "春天万物复苏(春天萬物復甦)，大地充满生机(大地充滿生機)。",
+      "pinyin": "chūntiān wànwù fùsū, dàdì chōngmǎn shēngjī.",
+      "english": "In spring, all things revive and the earth is full of vitality."
+    }
+  ]
+}

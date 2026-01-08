@@ -1,0 +1,44 @@
+{
+  "simplified": "昨",
+  "traditional": "昨",
+  "pinyin": "zuó",
+  "english": "yesterday",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 乍(乍) (zhà, \"for the first time\") = sun with temporal aspect -> yesterday",
+    "interpretation": "The character 昨(昨) (zuó, \"yesterday\") combines 日(日) (rì, \"sun\") indicating the cyclical nature of time with 乍(乍) (zhà, \"for the first time\"), which adds a phonetic and partial semantic component, suggesting a time related to prior events, thus forming the meaning 'yesterday'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "for the first time"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "昨天晚上(昨天晚上)，我看了一场电影(我看了一場電影)。",
+      "pinyin": "zuótiān wǎnshàng, wǒ kàn le yī chǎng diànyǐng",
+      "english": "Last night, I watched a movie."
+    },
+    {
+      "chinese": "昨天下起了雨(昨天下起了雨)。",
+      "pinyin": "zuótiān xià qǐ le yǔ",
+      "english": "It rained yesterday."
+    },
+    {
+      "chinese": "昨夜星空格外明亮(昨夜星空格外明亮)。",
+      "pinyin": "zuóyè xīngkōng géwài míngliàng",
+      "english": "The stars were especially bright last night."
+    }
+  ]
+}

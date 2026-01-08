@@ -1,0 +1,39 @@
+{
+  "simplified": "绍",
+  "traditional": "紹",
+  "pinyin": "shào",
+  "english": "to continue; to connect",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"silk\") + 召(召) (zhào, \"to summon\") = threading through like summoning -> to continue or connect",
+    "interpretation": "The character 紹(紹) (shào, \"to continue\") combines 糸(糸) (mì, \"silk\") representing continuity or connection through threads, with 召(召) (zhào, \"to summon\") as the phonetic element, suggesting the idea of threading or extending threads to maintain continuity.",
+    "simplification": "The simplified form 绍(紹) uses the more familiar 召(召) for its phonetic component in place of the more intricate 紹(紹) radical and phonetic, retaining overall readability."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "召",
+      "trad": "召",
+      "pinyin": "zhào",
+      "english": "to summon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他绍古人的智慧(他紹古人的智慧)。",
+      "pinyin": "Tā shào gǔrén de zhìhuì.",
+      "english": "He continues the wisdom of the ancients."
+    },
+    {
+      "chinese": "博物馆展示文物(博物館展示文物)，绍起千年文化(紹起千年文化)。",
+      "pinyin": "Bówùguǎn zhǎnshì wénwù, shào qǐ qiānnián wénhuà.",
+      "english": "The museum exhibits cultural relics, connecting a millennium of culture."
+    }
+  ]
+}

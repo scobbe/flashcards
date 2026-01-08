@@ -1,0 +1,44 @@
+{
+  "simplified": "師",
+  "traditional": "師",
+  "pinyin": "shī",
+  "english": "teacher",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𠂤 (\"mound, hill\") + 帀 (\"to surround\") = ancient troops stationed at a hill -> teacher",
+    "interpretation": "This character combines the idea of a command post at a strategic location, represented by a mound surrounded by troops, reflecting the organized, guiding role of a teacher in leading and instructing groups.",
+    "simplification": "In 师(師), the component 帀 has been omitted and the character simplified to form a more straightforward structure."
+  },
+  "parts": [
+    {
+      "char": "𠂤",
+      "trad": "𠂤",
+      "pinyin": "none",
+      "english": "mound, hill"
+    },
+    {
+      "char": "帀",
+      "trad": "帀",
+      "pinyin": "none",
+      "english": "to surround"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是我的师(他是我的師)。",
+      "pinyin": "Tā shì wǒ de shī.",
+      "english": "He is my teacher."
+    },
+    {
+      "chinese": "我向音乐师请教(我向音樂師請教)，提高表演技巧(提高表演技巧)。",
+      "pinyin": "Wǒ xiàng yīnyuè shī qǐngjiào, tígāo biǎoyǎn jìqiǎo.",
+      "english": "I consult the music teacher to improve my performance skills."
+    },
+    {
+      "chinese": "她渴望成为一名优秀的师(她渴望成為一名優秀的師)。",
+      "pinyin": "Tā kěwàng chéngwéi yī míng yōuxiù de shī.",
+      "english": "She aspires to become an excellent teacher."
+    }
+  ]
+}

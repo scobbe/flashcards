@@ -1,0 +1,44 @@
+{
+  "simplified": "创",
+  "traditional": "創",
+  "pinyin": "chuàng",
+  "english": "create; initiate; start",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 倉(倉) (cāng) + semantic: 刀(刀) (dāo, \"knife\") = initiate with a knife -> wound or create",
+    "interpretation": "The character 创(創) originally signified to initiate something with a knife, symbolizing the act of creating or making a first cut, which is metaphorically extended to mean initiating or starting a new venture.",
+    "simplification": "创 is the simplified form of 創, where the top component '倉' is simplified by removing strokes."
+  },
+  "parts": [
+    {
+      "char": "倉",
+      "trad": "倉",
+      "pinyin": "cāng",
+      "english": "granary"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他创办了一家公司(他創辦了一家公司)。",
+      "pinyin": "Tā chuàngbàn le yī jiā gōngsī.",
+      "english": "He founded a company."
+    },
+    {
+      "chinese": "她创意无限(她創意無限)，解决了难题(解決了難題)。",
+      "pinyin": "Tā chuàngyì wúxiàn, jiějué le nántí.",
+      "english": "She has boundless creativity, and she solved a difficult problem."
+    },
+    {
+      "chinese": "我们创下了新的记录(我們創下了新的記錄)。",
+      "pinyin": "Wǒmen chuàng xià le xīn de jìlù.",
+      "english": "We set new records."
+    }
+  ]
+}

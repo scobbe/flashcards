@@ -1,0 +1,44 @@
+{
+  "simplified": "鎊",
+  "traditional": "鎊",
+  "pinyin": "bàng",
+  "english": "pound",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") + 旁(旁) (páng) (phonetic) = metal object denoting weight -> pound",
+    "interpretation": "鎊(鎊) (bàng, \"pound\") combines 金(金) (jīn, \"metal\") signifying currency and objects of metal with 旁(旁) (páng) for phonetic approximation, representing the British currency 'pound', originally associated with a specific weight of precious metals.",
+    "simplification": "金(金) (jīn, \"metal\") was replaced with 钅(钅) (jīn, \"metal\") to form the simplified character 镑(鎊)."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "旁",
+      "trad": "旁",
+      "pinyin": "páng",
+      "english": "side"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一鎊苹果(我買了一鎊蘋果)。",
+      "pinyin": "Wǒ mǎile yī bàng píngguǒ.",
+      "english": "I bought one pound of apples."
+    },
+    {
+      "chinese": "厨师投掷一鎊的肉(廚師投擲一鎊的肉)，以展示力量(以展示力量)。",
+      "pinyin": "Chúshī tóuzhì yī bàng de ròu, yǐ zhǎnshì lìliàng.",
+      "english": "The chef tossed a pound of meat to display his strength."
+    },
+    {
+      "chinese": "他用力举起一鎊铁锤(他用力舉起一鎊鐵錘)。",
+      "pinyin": "Tā yònglì jǔ qǐ yī bàng tiěchuí.",
+      "english": "He lifted a one-pound iron hammer with force."
+    }
+  ]
+}

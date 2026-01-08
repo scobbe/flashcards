@@ -1,0 +1,39 @@
+{
+  "simplified": "垂",
+  "traditional": "垂",
+  "pinyin": "chuí",
+  "english": "hang down",
+  "etymology": {
+    "type": "pictogram",
+    "description": "𠂹 (depicts hanging flowers) + 土 (tǔ, \"earth\") -> depicts flowers hanging from a plant",
+    "interpretation": "The character 垂 originally illustrated the image of flowers or foliage hanging down from a plant and touching the earth, capturing the concept of 'hang down.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𠂹",
+      "trad": "𠂹",
+      "pinyin": "n/a",
+      "english": "depicts hanging flowers"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "晚风拂过树梢(晚風拂過樹梢)，柳条轻轻垂落(柳條輕輕垂落)。",
+      "pinyin": "Wǎn fēng fú guò shù shāo, liǔ tiáo qīngqīng chuí luò.",
+      "english": "The evening breeze brushes the treetops, and the willow branches hang down softly."
+    },
+    {
+      "chinese": "玉带般的青藤垂挂(玉帶般的青藤垂掛)。",
+      "pinyin": "Yù dài bān de qīng téng chuí guà.",
+      "english": "The liana, like a jade belt, hangs down."
+    }
+  ]
+}

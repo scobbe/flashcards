@@ -1,31 +1,26 @@
 {
   "simplified": "𰀁",
-  "traditional": "𰀁",
-  "pinyin": "",
+  "traditional": "聿",
+  "pinyin": "yù",
   "english": "brush",
   "etymology": {
-    "type": "rare CJK Extension character",
-    "description": "Component structure unclear → possibly a variant or specialized character related to handwriting or writing tools",
-    "interpretation": "The character 𰀁 is a rare and specialized form likely associated with writing, given its meaning of 'brush'. Its obscure origin means it's not widely attested in historical records.",
+    "type": "pictogram",
+    "description": "Depicts a hand holding a brush or writing implement",
+    "interpretation": "The character 聿(聿) (yù, \"brush\") visually represents a hand grasping a writing tool, which is suggestive of its association with writing or drawing actions.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师用𰀁(𰀁)蘸墨(蘸墨)，仔细地写字(仔細地寫字)。",
-      "pinyin": "Lǎoshī yòng shuā zhàn mò, zǐxì de xiě zì.",
-      "english": "The teacher uses a brush to dip in ink and writes carefully."
+      "chinese": "书法家拿起𰀁(書法家拿起𰀁)，挥洒时代风采(揮灑時代風采)。",
+      "pinyin": "Shūfǎjiā ná qǐ yù, huīsǎ shídài fēngcǎi.",
+      "english": "The calligrapher picked up the brush and displayed the spirit of the times."
     },
     {
-      "chinese": "艺术家用𰀁(𰀁)泼墨(潑墨)，构思画卷(構思畫卷)。",
-      "pinyin": "Yìshùjiā yòng shuā pō mò, gòusī huà juàn.",
-      "english": "The artist uses a brush to splash ink and envisions the painting."
-    },
-    {
-      "chinese": "老人珍藏那把古朴的𰀁(老人珍藏那把古樸的𰀁)。",
-      "pinyin": "Lǎorén zhēncáng nà bǎ gǔpǔ de shuā.",
-      "english": "The old man cherishes the antique brush."
+      "chinese": "他用𰀁蘸上墨汁(他用𰀁蘸上墨汁)，练习工整字迹(練習工整字跡)。",
+      "pinyin": "Tā yòng yù zhàn shàng mòzhī, liànxí gōngzhěng zìjì.",
+      "english": "He dipped the brush into ink and practiced writing with neat strokes."
     }
   ]
 }

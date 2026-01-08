@@ -5,27 +5,40 @@
   "english": "commerce; business",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 㕯(㕯) (to speak slowly) + phonetic: 章(章) (zhāng, \"chapter\") -> originally estimating inside from outside, evolved to commerce",
-    "interpretation": "12.0",
+    "description": "semantic 㕯 (\"to speak slowly\") + phonetic 章 (\"zhāng\") -> originally meant estimating from the outside -> developed to mean trading/commerce",
+    "interpretation": "The character 商(shāng) originally described the concept of estimating, which is linked to trading where one evaluates items before purchasing or exchanging them. Over time, the meaning shifted to specifically denote commerce or trade. The semantic component 㕯 relates to the idea of communication or deliberation, which is fundamental in trading contexts.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "㕯",
+      "trad": "㕯",
+      "pinyin": "yīn",
+      "english": "to speak slowly"
+    },
+    {
+      "char": "章",
+      "trad": "章",
+      "pinyin": "zhāng",
+      "english": "chapter"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他投身于商界(他投身於商界)。",
-      "pinyin": "tā tóu shēn yú shāng jiè.",
-      "english": "He devotes himself to the business world."
+      "chinese": "我对商机充满兴趣(我對商機充滿興趣)。",
+      "pinyin": "Wǒ duì shāngjī chōngmǎn xìngqù.",
+      "english": "I am very interested in business opportunities."
     },
     {
-      "chinese": "古代商贾往来频繁(古代商賈往來頻繁)，市井繁华似锦(市井繁華似錦)。",
-      "pinyin": "gǔdài shāng jiǎ wǎng lái pín fán, shì jǐng fán huá sì jǐn.",
-      "english": "In ancient times, merchants frequently traded, and the markets thrived brilliantly."
+      "chinese": "他进入商界谋求发展(他進入商界謀求發展)。",
+      "pinyin": "Tā jìnrù shāngjiè móuqiú fāzhǎn.",
+      "english": "He entered the business world to seek development."
     },
     {
-      "chinese": "兴商有道者致富(興商有道者致富)。",
-      "pinyin": "xīng shāng yǒu dào zhě zhì fù.",
-      "english": "Those who engage in sound business practices prosper."
+      "chinese": "商人讲求信誉(商人講求信譽)，消费者追求质量(消費者追求質量)。",
+      "pinyin": "Shāngrén jiǎngqiú xìn yù, xiāofèizhě zhuīqiú zhìliàng.",
+      "english": "Businesspeople value reputation, and consumers pursue quality."
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "simplified": "明信片",
+  "traditional": "明信片",
+  "pinyin": "míngxìnpiàn",
+  "english": "postcard",
+  "etymology": {
+    "type": "compound word",
+    "description": "明(明) (míng, \"bright\"; \"clear\"), 信(信) (xìn, \"letter\"; \"trust\"), 片(片) (piàn, \"slice\"; \"piece\")",
+    "interpretation": "A 明(明) (míng, \"clear\") 信(信) (xìn, \"letter\") that is a 片(片) (piàn, \"piece\") is a 'postcard', which is a clear message sent on a single piece of card.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "明",
+      "trad": "明",
+      "pinyin": "míng",
+      "english": "bright; clear"
+    },
+    {
+      "char": "信",
+      "trad": "信",
+      "pinyin": "xìn",
+      "english": "letter; trust"
+    },
+    {
+      "char": "片",
+      "trad": "片",
+      "pinyin": "piàn",
+      "english": "slice; piece"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我收到一张明信片(我收到一張明信片)。",
+      "pinyin": "Wǒ shōudào yī zhāng míngxìnpiàn.",
+      "english": "I received a postcard."
+    },
+    {
+      "chinese": "旅行中我寄了明信片(旅行中我寄了明信片)，向朋友问候(向朋友問候)。",
+      "pinyin": "Lǚxíng zhōng wǒ jìle míngxìnpiàn, xiàng péngyǒu wènhòu.",
+      "english": "During my trip, I mailed a postcard to greet my friend."
+    },
+    {
+      "chinese": "旅行结束时我在包里发现了明信片(旅行結束時我在包裡發現了明信片)，满载回忆(滿載回憶)。",
+      "pinyin": "Lǚxíng jiéshù shí wǒ zài bāo lǐ fāxiànle míngxìnpiàn, mǎnzài huíyì.",
+      "english": "At the end of the trip, I found a postcard in my bag, filled with memories."
+    }
+  ]
+}

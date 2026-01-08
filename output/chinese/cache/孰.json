@@ -5,40 +5,24 @@
   "english": "cooked; ripe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 亻(人) (rén, \"person\") + phonetic: 孜(孜) (zī) -> trained warrior; from practice of identifying experienced warriors as being 'ripe' or seasoned",
-    "interpretation": "The character 孰(孰) (shú, \"cooked; ripe\") combines the semantic element 亻(亻) (rén, \"person\") to indicate skill or experience, and uses 孜(孜) (zī) as the phonetic component, reflecting the idea of something or someone being seasoned or matured, analogous to being 'cooked' or 'ripe.'",
+    "description": "𦎫 (phonetic) + 丮 (semantic, now corrupted to 丸) -> phonetic 享 + 丸 -> 孰",
+    "interpretation": "The character 孰 is a phono-semantic compound where 𦎫 provides the phonetic element and 丮 provides the semantic element. Over time, the original components have become corrupted into 享 and 丸, combining to form the modern character 孰 which relates to the meanings of being cooked or ripe.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "亻",
-      "trad": "亻",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "享",
+      "trad": "享",
+      "pinyin": "xiǎng",
+      "english": "enjoy"
     },
     {
-      "char": "孜",
-      "trad": "孜",
-      "pinyin": "zī",
-      "english": "\"diligent\""
+      "char": "丸",
+      "trad": "丸",
+      "pinyin": "wán",
+      "english": "pill"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "鸡肉已孰(雞肉已孰)，可以食用(可以食用)。",
-      "pinyin": "Jīròu yǐ shú, kěyǐ shíyòng.",
-      "english": "The chicken is cooked; it can be eaten."
-    },
-    {
-      "chinese": "瓜果已孰(瓜果已孰)，味道香甜(味道香甜)。",
-      "pinyin": "Guāguǒ yǐ shú, wèidào xiāngtián.",
-      "english": "The fruits are ripe; their flavor is sweet."
-    },
-    {
-      "chinese": "待食材孰熟(待食材孰熟)，大厨方展技艺(大廚方展技藝)。",
-      "pinyin": "Dài shícái shú shú, dà chú fāng zhǎn jì yì.",
-      "english": "When the ingredients are cooked, the chef can showcase his skills."
-    }
-  ]
+  "examples": []
 }

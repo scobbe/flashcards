@@ -1,0 +1,39 @@
+{
+  "simplified": "背",
+  "traditional": "背",
+  "pinyin": "bèi",
+  "english": "back",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "北(北) (běi, \"north\") + 月(月) (yuè, \"meat\") = phonetic 北 + semantic 肉 (originally illustrated as 月) added to distinguish \"back\" from \"north\"",
+    "interpretation": "The character 背(bèi, \"back\") was originally depicted by the character 北(běi, \"north\") alone because of their phonetic similarity. To explicitly convey the meaning related to the body, the semantic component 月(yuè, \"meat\"; originally styling 肉) was added, indicating the physical aspect of human anatomy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "北",
+      "trad": "北",
+      "pinyin": "běi",
+      "english": "north"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他背着书包(他背著書包)，去学校(去學校)。",
+      "pinyin": "Tā bèizhe shūbāo, qù xuéxiào.",
+      "english": "He carries his schoolbag on his back and goes to school."
+    },
+    {
+      "chinese": "他的背很直(他的背很直)。",
+      "pinyin": "Tā de bèi hěn zhí.",
+      "english": "His back is very straight."
+    }
+  ]
+}

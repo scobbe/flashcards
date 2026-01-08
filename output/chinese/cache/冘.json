@@ -5,8 +5,8 @@
   "english": "sink",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a man carrying an object on their shoulder -> original form of 儋(儋) (dān, \"to carry on the shoulder\") -> may be interpreted as 何(何) (hé, \"what\")",
-    "interpretation": "The character 冘(yín, \"sink\") originally illustrated someone carrying an object, which is consistent with its relation to carrying (儋) in earlier forms. Its pictorial nature is evident in its structure, resembling the shape of a person with a burden.",
+    "description": "Depicts a man carrying an object on their shoulder (original form of 儋(儋) (dān, 'to carry on the shoulder'))",
+    "interpretation": "The character 冘(yín, 'sink') originally depicted a person carrying an object on their shoulder, which illustrates the action of carrying or bearing weight. Over time, the pictogram evolved to represent other meanings, including 'sink'.",
     "simplification": ""
   },
   "parts": [
@@ -15,25 +15,8 @@
       "trad": "儋",
       "pinyin": "dān",
       "english": "to carry on the shoulder"
-    },
-    {
-      "char": "何",
-      "trad": "何",
-      "pinyin": "hé",
-      "english": "what"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "小船遇风浪冘下(小船遇風浪冘下)，逐渐远离港口(逐漸遠離港口)。",
-      "pinyin": "xiǎo chuán yù fēng làng yín xià, zhú jiàn yuǎn lí gǎng kǒu.",
-      "english": "The small boat sinks under the storm, gradually drifting away from the harbor."
-    },
-    {
-      "chinese": "冰山在大海中冘没(冰山在大海中冘沒)。",
-      "pinyin": "bīng shān zài dà hǎi zhōng yín méi.",
-      "english": "The iceberg sinks in the vast sea."
-    }
-  ]
+  "examples": []
 }

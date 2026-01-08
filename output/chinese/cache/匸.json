@@ -4,23 +4,28 @@
   "pinyin": "xì",
   "english": "box",
   "etymology": {
-    "type": "Pictogram",
-    "description": "𠃊 (graphic sign symbolizing something hidden) ->匸 (depicts a box or container that hides something)",
-    "interpretation": "The character 匸(xì, 'box') is a pictogram representing a container used to conceal something. The form aligns with its purpose of symbolizing concealment.",
+    "type": "pictogram",
+    "description": "𠃊 (symbolic graphic) -> depicts an enclosure hiding something or someone -> evolved to represent a concealed space or item",
+    "interpretation": "The character 匸(xì, 'box') is a pictogram representing a concealed or enclosed space. Its graphical form suggests something contained or hidden, which aligns with its meaning as a 'box' or an enclosure. Unlike other related pictograms that depict physical containers, 匸 emphasizes the aspect of concealment or secrecy.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在匸(匸)中发现了一枚古钱(我在匸(匸)中發現了一枚古錢)。",
-      "pinyin": "Wǒ zài xì zhōng fāxiànle yī méi gǔqián.",
-      "english": "I discovered an ancient coin in the box."
+      "chinese": "他把匸搬到了房间角落(他把匸搬到了房間角落)。",
+      "pinyin": "Tā bǎ xì bān dào le fángjiān jiǎoluò.",
+      "english": "He moved the box to the corner of the room."
     },
     {
-      "chinese": "他用匸(匸)装载宝物(他用匸(匸)裝載寶物)，悄悄把它藏起来(悄悄把它藏起來)。",
-      "pinyin": "Tā yòng xì zhuāngzài bǎowù, qiāoqiāo bǎ tā cángqǐlái.",
-      "english": "He used the box to store treasures and secretly hid them."
+      "chinese": "我们在仓库找到了匸(我們在倉庫找到了匸)，里面装有秘密文件(裡面裝有秘密文件)。",
+      "pinyin": "Wǒmen zài cāngkù zhǎodào le xì, lǐmiàn zhuāng yǒu mìmì wénjiàn.",
+      "english": "We found the box in the warehouse, and it contained secret documents."
+    },
+    {
+      "chinese": "工厂工人把旧匸清理了(工廠工人把舊匸清理了)，然后再利用(然後再利用)。",
+      "pinyin": "Gōngchǎng gōngrén bǎ jiù xì qīnglǐ le, ránhòu zài lìyòng.",
+      "english": "Factory workers cleaned the old box and then reused it."
     }
   ]
 }

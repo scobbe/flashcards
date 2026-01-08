@@ -1,0 +1,44 @@
+{
+  "simplified": "集",
+  "traditional": "集",
+  "pinyin": "jí",
+  "english": "assemble",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "隹(隹) (zhuī, \"bird\") + 木(木) (mù, \"tree\") = birds gathering on a tree",
+    "interpretation": "The character 集(jí, \"assemble\") visually represents birds, 隹(隹) (zhuī, \"bird\"), gathering on a tree, 木(木) (mù, \"tree\"), symbolizing the act of assembling or gathering together. This image effectively conveys the meaning of assembling similar to how birds might congregate in trees.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "bird"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "军队在黎明时分集结(軍隊在黎明時分集結)。",
+      "pinyin": "Jūnduì zài límíng shífēn jíjié.",
+      "english": "The troops assembled at dawn."
+    },
+    {
+      "chinese": "居民们在公园里集会(居民們在公園裡集會)。",
+      "pinyin": "Jūmín men zài gōngyuán lǐ jíhuì.",
+      "english": "The residents assembled in the park."
+    },
+    {
+      "chinese": "艺术家们将各自的作品集成一本画册(藝術家們將各自的作品集成一本畫冊)。",
+      "pinyin": "Yìshùjiā men jiāng gèzì de zuòpǐn jíchéng yī běn huàcè.",
+      "english": "The artists compiled their works into a picture book."
+    }
+  ]
+}

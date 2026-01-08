@@ -4,9 +4,9 @@
   "pinyin": "miǎn",
   "english": "crown",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Semantic 冃(冃) (mào, \"hat\") + phonetic 免(免) (miǎn) = ceremonial crown worn by nobles -> crown",
-    "interpretation": "The character 冕(miǎn, \"crown\") combines 冃(冃) (mào, \"hat\") as a semantic component to signify headwear, with 免(免) (miǎn) providing the phonetic sound, capturing the concept of an ornate crown used in formal ceremonies.",
+    "type": "ideogrammic compound",
+    "description": "冃(冃) (mào, \"crown\") + 頁(页) (yè, \"head\") = crown on a head -> crown",
+    "interpretation": "The character 冕(miǎn, \"crown\") combines 冃(冃) (mào, \"crown\"), depicting the shape of a crown, with 頁(页) (yè, \"head\"), representing the positioning on a head. This composition effectively illustrates the concept of a crown being worn on one's head.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,26 @@
       "char": "冃",
       "trad": "冃",
       "pinyin": "mào",
-      "english": "hat"
+      "english": "crown"
     },
     {
-      "char": "免",
-      "trad": "免",
-      "pinyin": "miǎn",
-      "english": "exempt"
+      "char": "頁",
+      "trad": "页",
+      "pinyin": "yè",
+      "english": "head"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "皇帝戴冕(皇帝戴冕)。",
-      "pinyin": "Huángdì dài miǎn.",
-      "english": "The emperor wears a crown."
+      "chinese": "国王戴冕(國王戴冕)，威仪四射(威儀四射)。",
+      "pinyin": "Guówáng dài miǎn, wēiyí sìshè.",
+      "english": "The king wears a crown, exuding majestic authority."
     },
     {
-      "chinese": "上朝时欣赏冕(上朝時欣賞冕)，庆典中彰显荣耀(慶典中彰顯榮耀)。",
-      "pinyin": "Shàngcháo shí xīnshǎng miǎn, qìngdiǎn zhōng zhāngxiǎn róngyào.",
-      "english": "During the morning court, the crown is admired, and in the celebration, it symbolizes glory."
+      "chinese": "古代帝王的冕象征着无上的荣耀(古代帝王的冕象徵著無上的榮耀)。",
+      "pinyin": "Gǔdài dìwáng de miǎn xiàngzhēngzhe wúshàng de róngyào.",
+      "english": "The crown of ancient emperors symbolizes supreme glory."
     }
   ]
 }

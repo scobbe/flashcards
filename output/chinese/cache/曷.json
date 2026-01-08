@@ -5,8 +5,8 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 匃(匃) (gài 'meaning lacking') + semantic: 曰(曰) (yuē, 'say') = something to ask about -> 'what, why'",
-    "interpretation": "The character 曷 combines 匃(匃) (gài, 'meaning lacking') to hint at its pronunciation with 曰(曰) (yuē, 'say') to convey the concept of questioning or inquiry, resulting in a meaning related to asking questions or wondering why.",
+    "description": "phonetic: 匃(匃) (gài, \"lack\") + semantic: 曰(曰) (yuē, \"say\") = phonetic value with the meaning related to speech",
+    "interpretation": "The character 曷 combines 匃(匃) (gài, \"lack\") as the phonetic component with 曰(曰) (yuē, \"say\") as the semantic component, suggesting a vocal expression or inquiry, which is consistent with its historical use to indicate 'what' or questioning forms.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "匃",
       "trad": "匃",
       "pinyin": "gài",
-      "english": "meaning lacking"
+      "english": "lack"
     },
     {
       "char": "曰",
@@ -24,21 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "曷能尽知天下事(曷能盡知天下事)？",
-      "pinyin": "Hē néng jìn zhī tiānxià shì？",
-      "english": "How could one know all the affairs of the world?"
-    },
-    {
-      "chinese": "志在千里(志在千里)，曷可安于现状(曷可安於現狀)。",
-      "pinyin": "Zhì zài qiān lǐ, hē kě ān yú xiànzhuàng。",
-      "english": "With an ambition that reaches a thousand miles, how can one be content with the current state?"
-    },
-    {
-      "chinese": "志当存高远(志當存高遠)，曷甘庸碌一生(曷甘庸碌一生)。",
-      "pinyin": "Zhì dāng cún gāoyuǎn, hē gān yōnglù yī shēng。",
-      "english": "One should aim high; why settle for a mediocre life?"
-    }
-  ]
+  "examples": []
 }

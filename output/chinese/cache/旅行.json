@@ -1,0 +1,44 @@
+{
+  "simplified": "旅行",
+  "traditional": "旅行",
+  "pinyin": "lǚxíng",
+  "english": "to travel",
+  "etymology": {
+    "type": "compound word",
+    "description": "旅(旅) (lǚ, \"to travel; journey\") + 行(行) (xíng, \"to walk; to travel\") = to travel",
+    "interpretation": "The word 旅行(旅行) (lǚxíng, \"to travel\") combines the idea of embarking on a journey and walking or moving through different places. Together, they convey the concept of engaging in travel as a form of exploration or movement across various destinations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "旅",
+      "trad": "旅",
+      "pinyin": "lǚ",
+      "english": "to travel; journey"
+    },
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "to walk; to travel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢旅行(我喜歡旅行)。",
+      "pinyin": "Wǒ xǐhuān lǚxíng.",
+      "english": "I like to travel."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，我常常去旅行(我常常去旅行)。",
+      "pinyin": "Xiàtiān láilín shí, wǒ chángcháng qù lǚxíng.",
+      "english": "When summer comes, I often travel."
+    },
+    {
+      "chinese": "每次旅行都充满惊喜(每次旅行都充滿驚喜)。",
+      "pinyin": "Měi cì lǚxíng dōu chōngmǎn jīngxǐ.",
+      "english": "Every trip is full of surprises."
+    }
+  ]
+}

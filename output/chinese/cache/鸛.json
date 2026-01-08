@@ -1,0 +1,28 @@
+{
+  "simplified": "鸛",
+  "traditional": "鸛",
+  "pinyin": "guàn",
+  "english": "stork",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 雚(雚) (guàn, \"stork\") + Semantic: 鳥(鳥) (niǎo, \"bird\") = representation of a stork",
+    "interpretation": "The character 鸛(鸛) (guàn, \"stork\") combines the phonetic 雚(雚) (guàn, \"stork\") and the semantic 鳥(鳥) (niǎo, \"bird\") to emphasize the birdlike nature of a stork. The dual reference to storks in the phonetic and semantic elements highlights its specific meaning.",
+    "simplification": "Simplification retains the phonetic original 雚(雚) (guàn, \"stork\") while reducing 鳥(鳥) (niǎo, \"bird\") to its simplified form 鸟(鸟) (niǎo, \"bird\")."
+  },
+  "parts": [
+    {
+      "char": "雚",
+      "trad": "雚",
+      "pinyin": "guàn",
+      "english": "stork"
+    },
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

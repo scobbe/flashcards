@@ -1,0 +1,28 @@
+{
+  "simplified": "畇",
+  "traditional": "畇",
+  "pinyin": "yún",
+  "english": "fertile land",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "田(田) (tián, \"field\") + 員(員) (yuán, \"member\") as phonetic = fertile land",
+    "interpretation": "The character 畇(yún, \"fertile land\") combines 田(田) (tián, \"field\") as the semantic component denoting land or fields, with 員(員) (yuán, \"member\") as the phonetic component to suggest the pronunciation. Together, they represent farmland that is particularly fertile and productive.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "員",
+      "trad": "員",
+      "pinyin": "yuán",
+      "english": "member"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

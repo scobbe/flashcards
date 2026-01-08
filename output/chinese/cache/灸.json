@@ -1,0 +1,44 @@
+{
+  "simplified": "灸",
+  "traditional": "灸",
+  "pinyin": "jiǔ",
+  "english": "moxibustion",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 火(火) (huǒ, \"fire\") + phonetic 久(久) (jiǔ, \"long time\") -> moxibustion",
+    "interpretation": "The character 灸(灸) (jiǔ, \"moxibustion\") combines 火(火) (huǒ, \"fire\") to represent the burning aspect of moxibustion with 久(久) (jiǔ, \"long time\") for its phonetic value. This reflects the process of applying heat in traditional Chinese medicine to specific points on the body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "久",
+      "trad": "久",
+      "pinyin": "jiǔ",
+      "english": "long time"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中医采用灸法(中醫採用灸法)，治疗疾病(治療疾病)。",
+      "pinyin": "Zhōngyī cǎiyòng jiǔfǎ, zhìliáo jíbìng。",
+      "english": "Traditional Chinese medicine uses moxibustion to treat diseases."
+    },
+    {
+      "chinese": "她觉得灸能缓解痛经(她覺得灸能緩解痛經)。",
+      "pinyin": "Tā juéde jiǔ néng huǎnjiě tòngjīng。",
+      "english": "She thinks moxibustion can relieve menstrual pain."
+    },
+    {
+      "chinese": "古代医书记载灸(古代醫書記載灸)，对调节气血有独特作用(對調節氣血有獨特作用)。",
+      "pinyin": "Gǔdài yīshū jìzǎi jiǔ, duì tiáojié qìxiě yǒu dútè zuòyòng。",
+      "english": "Ancient medical texts record moxibustion, which has a unique effect on regulating vital energy and blood."
+    }
+  ]
+}

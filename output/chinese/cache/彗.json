@@ -5,8 +5,8 @@
   "english": "broom",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "甡(甡) (shēn, 'broom') + 又(又) (yòu, 'hand') = holding a broom made of bamboo -> broom",
-    "interpretation": "This character visually combines the idea of a broom and a hand into one, symbolizing the action of holding or using a broom made from bamboo.",
+    "description": "甡 (shēn, \"broom\") + 又 (yòu, \"hand\") = holding a broom",
+    "interpretation": "The character 彗 (huì, \"broom\") combines 甡 (shēn, \"broom\") with 又 (yòu, \"hand\") to depict the action of holding a broom. This emphasizes the function and use of a broom, suggesting an object specifically designed to be held by hand for sweeping.",
     "simplification": ""
   },
   "parts": [
@@ -23,17 +23,22 @@
       "english": "hand"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈拿起彗(媽媽拿起彗)，扫去落叶(掃去落葉)。",
-      "pinyin": "Māmā ná qǐ huì, sǎo qù luòyè.",
-      "english": "Mama picks up the broom and sweeps away the fallen leaves."
+      "chinese": "他拿着破旧的彗(他拿著破舊的彗)，清扫庭院(清掃庭院)。",
+      "pinyin": "Tā ná zhe pò jiù de huì, qīng sǎo tíng yuàn.",
+      "english": "He holds the old broom and sweeps the courtyard."
     },
     {
-      "chinese": "清晨时分(清晨時分)，我用彗扫去尘埃(我用彗掃去塵埃)。",
-      "pinyin": "Qīngchén shífēn, wǒ yòng huì sǎo qù chén'āi.",
-      "english": "In the early morning, I sweep away the dust with the broom."
+      "chinese": "老匠人用彗(老匠人用彗)，细致打扫作坊(細緻打掃作坊)。",
+      "pinyin": "Lǎo jiàngrén yòng huì, xìzhì dǎsǎo zuòfāng.",
+      "english": "The old craftsman uses the broom to meticulously clean the workshop."
+    },
+    {
+      "chinese": "在寒冬夜晚(在寒冬夜晚)，他默默拿起彗(他默默拿起彗)，清扫门前(清掃門前)。",
+      "pinyin": "Zài hán dōng yè wǎn, tā mò mò ná qǐ huì, qīng sǎo mén qián.",
+      "english": "On a cold winter night, he silently picked up the broom and swept the front door."
     }
   ]
 }

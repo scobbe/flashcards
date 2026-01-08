@@ -1,0 +1,50 @@
+{
+  "simplified": "电动车",
+  "traditional": "電動車",
+  "pinyin": "diàn dòng chē",
+  "english": "electric vehicle",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electric\") + 动(動) (dòng, \"move\") + 车(車) (chē, \"vehicle\") = vehicle that moves using electricity",
+    "interpretation": "This combination makes sense because 电(電) (diàn, \"electric\") refers to electricity, 动(動) (dòng, \"move\") indicates movement, and 车(車) (chē, \"vehicle\") denotes a form of transportation. Together, the word describes a vehicle that uses electricity to power its movement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electric"
+    },
+    {
+      "char": "动",
+      "trad": "動",
+      "pinyin": "dòng",
+      "english": "move"
+    },
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "电动车是一种环保的交通工具(電動車是一種環保的交通工具)。",
+      "pinyin": "diàn dòng chē shì yī zhǒng huán bǎo de jiāo tōng gōng jù.",
+      "english": "Electric vehicles are an environmentally friendly means of transportation."
+    },
+    {
+      "chinese": "他昨天租了一辆电动车(他昨天租了一輛電動車)，在市区内自由穿行(在市區內自由穿行)。",
+      "pinyin": "tā zuótiān zū le yī liàng diàn dòng chē, zài shì qū nèi zì yóu chuān xíng.",
+      "english": "He rented an electric vehicle yesterday and freely maneuvered through the city."
+    },
+    {
+      "chinese": "很多人选择电动车作为环保出行方式(很多人選擇電動車作為環保出行方式)，以减少汽车尾气排放(以減少汽車尾氣排放)。",
+      "pinyin": "hěn duō rén xuǎn zé diàn dòng chē zuò wéi huán bǎo chū xíng fāng shì, yǐ jiǎn shǎo qì chē wěi qì pái fàng.",
+      "english": "Many people choose electric vehicles as an environmentally friendly travel mode in order to reduce car exhaust emissions."
+    }
+  ]
+}

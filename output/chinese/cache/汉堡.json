@@ -1,0 +1,44 @@
+{
+  "simplified": "汉堡",
+  "traditional": "漢堡",
+  "pinyin": "hànbǎo",
+  "english": "hamburger",
+  "etymology": {
+    "type": "compound word",
+    "description": "漢(漢) (hàn, \"Han Chinese\") is used here to denote something foreign or international, while 堡(堡) (bǎo, \"fort; castle\") suggests a compact, layered structure. Together, 漢堡(漢堡) (hànbǎo, \"hamburger\") refers to the Western-style sandwich known as a hamburger.",
+    "interpretation": "The word 汉堡(漢堡) (hànbǎo) is a calque that combines the idea of foreign influence or Western origin (漢) with the structural imagery of a layered sandwich (堡), representing the hamburger's physical form and its introduced cultural context. This reflects the adaptation of foreign culinary concepts within Chinese language and culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "汉",
+      "trad": "漢",
+      "pinyin": "hàn",
+      "english": "Han Chinese; Chinese"
+    },
+    {
+      "char": "堡",
+      "trad": "堡",
+      "pinyin": "bǎo",
+      "english": "fort; castle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃汉堡(我喜歡吃漢堡)。",
+      "pinyin": "Wǒ xǐhuān chī hànbǎo.",
+      "english": "I like to eat hamburgers."
+    },
+    {
+      "chinese": "他点了一个汉堡(他點了一個漢堡)，加一份薯条(加一份薯條)。",
+      "pinyin": "Tā diǎnle yīgè hànbǎo, jiā yī fèn shǔtiáo.",
+      "english": "He ordered a hamburger and a portion of fries."
+    },
+    {
+      "chinese": "在快餐店里(在快餐店裡)，汉堡总是新鲜美味(漢堡總是新鮮美味)。",
+      "pinyin": "Zài kuàicāndiàn lǐ, hànbǎo zǒng shì xīnxiān měiwèi.",
+      "english": "Hamburgers are always fresh and delicious in fast food restaurants."
+    }
+  ]
+}

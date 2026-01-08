@@ -1,0 +1,31 @@
+{
+  "simplified": "冈",
+  "traditional": "岡",
+  "pinyin": "gāng",
+  "english": "ridge",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Net depicted -> stylized as ridge",
+    "interpretation": "The character 冈(岡) (gāng, \"ridge\") is originally a pictogram representing a net, which was later adapted for its current meaning \"ridge\" because of its visual resemblance to the outlines of hills or ridges.",
+    "simplification": "冈(岡) is a cursive shorthand form that eliminates the inner part of the original traditional form while retaining the outer lines representing the ridge."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山冈耸立(山冈聳立)。",
+      "pinyin": "Shān gāng sǒng lì.",
+      "english": "The ridge towers majestically."
+    },
+    {
+      "chinese": "翻越山冈(翻越山冈)，便能看到远方(便能看到遠方)。",
+      "pinyin": "Fān yuè shān gāng, biàn néng kàn dào yuǎn fāng.",
+      "english": "After crossing the ridge, one can see the distant horizon."
+    },
+    {
+      "chinese": "他沿着冈脊(他沿着冈脊)，寻觅失落的宝藏(尋覓失落的寶藏)。",
+      "pinyin": "Tā yán zhe gāng jí, xún mì shī luò de bǎo zàng.",
+      "english": "He follows the ridge crest, searching for the lost treasure."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "笑",
+  "traditional": "笑",
+  "pinyin": "xiào",
+  "english": "to laugh; to smile",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 艸(艸) (cǎo, \"grass\") + 犬(犬) (quǎn, \"dog\") = dog in grass barking playfully -> Later 竹(竹) (zhú, \"bamboo\") + phonetic 夭(夭) (yāo) = sound of laughing or smiling",
+    "interpretation": "The character originally combined elements of a dog interacting with grass, perhaps evoking playful barking, which was phonetically associated with laughter. The later addition of 竹 emphasized the written form, while 夭 served as the phonetic component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "夭",
+      "trad": "夭",
+      "pinyin": "yāo",
+      "english": "sound of laughing or smiling"
+    },
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他笑着(他笑著)，走上舞台(走上舞臺)。",
+      "pinyin": "Tā xiào zhe, zǒu shàng wǔtái.",
+      "english": "He walked onto the stage while laughing."
+    },
+    {
+      "chinese": "她笑着说(她笑著說)，‘别笑了’(‘別笑了’)。",
+      "pinyin": "Tā xiào zhe shuō, 'bié xiào le'.",
+      "english": "She laughed as she said, 'Stop laughing.'"
+    },
+    {
+      "chinese": "我喜欢笑(我喜歡笑)，大笑能缓解压力(大笑能緩解壓力)。",
+      "pinyin": "Wǒ xǐhuan xiào, dà xiào néng huǎnjiě yālì.",
+      "english": "I love to smile, and laughing heartily can relieve stress."
+    }
+  ]
+}

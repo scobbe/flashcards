@@ -1,0 +1,45 @@
+{
+  "simplified": "王府井",
+  "traditional": "王府井",
+  "pinyin": "Wángfǔjǐng",
+  "english": "Wangfujing commercial district in Beijing",
+  "etymology": {
+    "type": "compound word",
+    "description": "王(王) (wáng, \"king\"), 府(府) (fǔ, \"official residence\"), 井(井) (jǐng, \"well\")",
+    "interpretation": "王府井 (Wángfǔjǐng) historically referred to an area where there was an official residence, likely belonging to someone of high status ('king'), and a well. This area in Beijing is now a famous commercial district.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    },
+    {
+      "char": "府",
+      "trad": "府",
+      "pinyin": "fǔ",
+      "english": "official residence; government office; mansion"
+    },
+    {
+      "char": "井",
+      "trad": "井",
+      "pinyin": "jǐng",
+      "english": "well"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天去了王府井(我今天去了王府井)。",
+      "pinyin": "Wǒ jīntiān qùle Wángfǔjǐng.",
+      "english": "I went to Wangfujing today."
+    },
+    {
+      "chinese": "王府井是北京著名的商业区(王府井是北京著名的商業區)，每天吸引大量游客(每天吸引大量遊客)。",
+      "pinyin": "Wángfǔjǐng shì Běijīng zhùmíng de shāngyèqū, měitiān xīyǐn dàliàng yóukè.",
+      "english": "Wangfujing is a famous commercial district in Beijing, attracting a large number of tourists every day."
+    }
+  ]
+}

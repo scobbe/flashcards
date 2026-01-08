@@ -1,0 +1,44 @@
+{
+  "simplified": "工作人员",
+  "traditional": "工作人員",
+  "pinyin": "gōngzuò rényuán",
+  "english": "working personnel; staff member",
+  "etymology": {
+    "type": "compound word",
+    "description": "工(工) (gōng, \"work\") + 作(作) (zuò, \"to do; to make\") combine to mean \"work\". 人(人) (rén, \"person\") + 员(員) (yuán, \"member; personnel\") combine to refer to a \"staff member\" or \"personnel\". Thus, 工作人员(工作人員) (gōngzuò rényuán) refers to \"working personnel\" or \"staff member\".",
+    "interpretation": "工作人员(工作人員) (gōngzuò rényuán) literally means people who are engaged in a specific task or project as part of their employment. This reflects the structured nature of roles within organizations or projects.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工作",
+      "trad": "工作",
+      "pinyin": "gōngzuò",
+      "english": "work"
+    },
+    {
+      "char": "人员",
+      "trad": "人員",
+      "pinyin": "rényuán",
+      "english": "personnel; staff member"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "会议现场有许多工作人员(會議現場有許多工作人員)。",
+      "pinyin": "Huìyì xiànchǎng yǒu xǔduō gōngzuò rényuán.",
+      "english": "There are many staff members at the conference venue."
+    },
+    {
+      "chinese": "会议开始前(會議開始前)，工作人员检查设备(工作人員檢查設備)。",
+      "pinyin": "Huìyì kāishǐ qián, gōngzuò rényuán jiǎnchá shèbèi.",
+      "english": "Before the meeting began, the staff checked the equipment."
+    },
+    {
+      "chinese": "火车站大厅里有工作人员提供信息(火車站大廳裡有工作人員提供信息)。",
+      "pinyin": "Huǒchēzhàn dàtīng lǐ yǒu gōngzuò rényuán tígōng xìnxī.",
+      "english": "At the train station hall, staff provide information."
+    }
+  ]
+}

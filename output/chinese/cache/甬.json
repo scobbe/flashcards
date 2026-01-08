@@ -5,27 +5,27 @@
   "english": "wine cup",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a neck and a cup shape",
-    "interpretation": "甬(甬) (yǒng, \"wine cup\") visually represents a neck and cup shape, suggesting its original meaning related to narrow passages or containers.",
+    "description": "Depicts a bronze bell -> lower part evolved to 用(用) (yòng, 'use') for phonetic purposes",
+    "interpretation": "The character 甬 originally depicted a bronze bell, and over time the lower part of the bell was stylized to resemble the character 用(用) (yòng, 'use'), serving as a phonetic component. Despite its resemblance to 用(用) and 角(角) (jiǎo, 'horn'), 甬 is unrelated to these characters.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古典诗词中常描绘那只镶有雕花纹路的甬(古典詩詞中常描繪那只鑲有雕花紋路的甬)。",
-      "pinyin": "gǔdiǎn shīcí zhōng cháng miáohuì nà zhī xiāng yǒu diāohuā wénlù de yǒng.",
-      "english": "In classical poetry, the intricately carved wine cup is often depicted."
+      "chinese": "宴会上他举起甬(宴會上他舉起甬)，热情地致意(熱情地致意)。",
+      "pinyin": "Yànhuì shàng tā jǔqǐ yǒng, rèqíng de zhìyì.",
+      "english": "At the banquet, he raised the wine cup and greeted everyone enthusiastically."
     },
     {
-      "chinese": "文人喜饮佳酿(文人喜飲佳釀)，常以甬盛载真情(常以甬盛載真情)。",
-      "pinyin": "wénrén xǐ yǐn jiāniàng, cháng yǐ yǒng shèngzài zhēnqíng.",
-      "english": "Scholars enjoy fine wine, often using the wine cup to convey heartfelt sentiments."
+      "chinese": "他轻轻端起甬(他輕輕端起甬)，感受着历史的余香(感受著歷史的餘香)。",
+      "pinyin": "Tā qīngqīng duānqǐ yǒng, gǎnshòuzhe lìshǐ de yúxiāng.",
+      "english": "He gently picked up the wine cup, savoring the lingering aroma of history."
     },
     {
-      "chinese": "宴会间，他举起古色古香的甬(宴會間，他舉起古色古香的甬)。",
-      "pinyin": "yànhuì jiān, tā jǔqǐ gǔsè gǔxiāng de yǒng.",
-      "english": "During the banquet, he raised the antique wine cup."
+      "chinese": "古人以精美的甬作酒具(古人以精美的甬作酒具)，传颂文化(傳頌文化)。",
+      "pinyin": "Gǔrén yǐ jīngměi de yǒng zuò jiǔjù, chuánsòng wénhuà.",
+      "english": "The ancients used exquisitely crafted wine cups as vessels to celebrate their culture."
     }
   ]
 }

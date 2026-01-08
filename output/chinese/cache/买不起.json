@@ -1,0 +1,45 @@
+{
+  "simplified": "买不起",
+  "traditional": "買不起",
+  "pinyin": "mǎi bù qǐ",
+  "english": "cannot afford",
+  "etymology": {
+    "type": "compound word",
+    "description": "买(買) (mǎi, \"buy\") + 不(不) (bù, \"not\") + 起(起) (qǐ, \"rise; manage to\") signifies the inability to buy something due to insufficient financial resources.",
+    "interpretation": "The word 买不起(買不起) (mǎi bù qǐ) directly addresses the situation where a person is unable to purchase something because they lack the necessary funds. It combines the idea of purchasing with the concept of not being able to accomplish the act of buying.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "买",
+      "trad": "買",
+      "pinyin": "mǎi",
+      "english": "buy"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; manage to; begin; get up"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买不起这件衣服(我買不起這件衣服)。",
+      "pinyin": "Wǒ mǎi bù qǐ zhè jiàn yīfú.",
+      "english": "I cannot afford this piece of clothing."
+    },
+    {
+      "chinese": "这双鞋太贵(這雙鞋太貴)，我买不起(我買不起)。",
+      "pinyin": "Zhè shuāng xié tài guì, wǒ mǎi bù qǐ.",
+      "english": "These shoes are too expensive, I cannot afford them."
+    }
+  ]
+}

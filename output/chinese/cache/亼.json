@@ -5,41 +5,22 @@
   "english": "open mouth flipped upside down",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gather from three sides -> represents 集(集) (jí, \"assemble\") or an upside-down 口(口) (kǒu, \"mouth\") -> original form of 今(今) (jīn, \"today\")",
-    "interpretation": "亼(亼) (jī, \"open mouth flipped upside down\") combines 入(入) (rù, \"enter\") and 一(一) (yī, \"one\") to convey the action of gathering. This form relates to 集(集) (jí, \"assemble\") and to being the early form of 今(今) (jīn, \"today\"), seen in 合(合), 今(今), 會(會), 令(令), 侖(侖), 食(食), 僉(僉), and 龠(龠).",
+    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gather from three sides",
+    "interpretation": "9.61",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "入",
-      "trad": "入",
-      "pinyin": "rù",
-      "english": "enter"
-    },
-    {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one"
-    },
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "学者研究文字时发现亼(學者研究文字時發現亼)，形似倒置的张口(形似倒置的張口)。",
-      "pinyin": "Xuézhě yánjiū wénzì shí fāxiàn jī, xíngsì dàozhì de zhāngkǒu.",
-      "english": "The scholar discovered jī while studying characters, its form resembling an upside-down open mouth."
+      "chinese": "这幅画描绘了亼的独特形状(這幅畫描繪了亼的獨特形狀)。",
+      "pinyin": "Zhè fú huà miáohuì le jī de dú tè xíngzhuàng.",
+      "english": "This painting depicts the unique shape of 亼, resembling an open mouth flipped upside down."
     },
     {
-      "chinese": "篆刻匠人利用亼表现创作意趣(篆刻匠人利用亼表現創作意趣)，象征开口倒置的智慧(象徵開口倒置的智慧)。",
-      "pinyin": "Zhuànkè jiàngrén lìyòng jī biǎoxiàn chuàngzuò yìqù, xiàngzhēng kāikǒu dàozhì de zhìhuì.",
-      "english": "The seal carver used jī to express creative interest, symbolizing the wisdom inherent in an inverted open mouth."
+      "chinese": "古籍记载亼符号的古怪寓意(古籍記載亼符號的古怪寓意)，令后人赞叹不已(令後人讚嘆不已)。",
+      "pinyin": "Gǔ jí jì zǎi jī fú hào de gǔ guài yù yì, lìng hòu rén zàn tàn bù yǐ.",
+      "english": "Ancient texts record the bizarre symbolism of 亼, which inspires endless admiration from later generations."
     }
   ]
 }

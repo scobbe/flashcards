@@ -1,0 +1,51 @@
+{
+  "simplified": "夏",
+  "traditional": "夏",
+  "pinyin": "xià",
+  "english": "summer",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") + 頁(頁) (yè, \"head; man\") -> man under the scorching sun -> 夏 (final form with 止(止) (zhǐ, \"foot\") replaced by 夊(夊))",
+    "interpretation": "The character 夏(xià, \"summer\") originally depicted a man under the scorching sun, symbolizing the intense heat associated with summer. The addition of 止(止) (zhǐ, \"foot\") reinforced movement under the sun, evolving in several forms until it stabilized in the seal script. The modern form simplifies these elements while retaining the core imagery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head; man"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏天已至(夏天已至)。",
+      "pinyin": "Xiàtiān yǐ zhì。",
+      "english": "Summer has arrived."
+    },
+    {
+      "chinese": "夏蝉鸣唱(夏蟬鳴唱)，映衬着绿荫丛生(映襯著綠蔭叢生)。",
+      "pinyin": "Xiàchán míng chàng, yìng chèn zhe lǜ yìn cóng shēng。",
+      "english": "Summer cicadas sing, complementing the flourishing green shade."
+    }
+  ]
+}

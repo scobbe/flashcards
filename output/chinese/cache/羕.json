@@ -5,35 +5,24 @@
   "english": "river",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 水(水) (shuǐ, \"water\") + phonetic: 羊(羊) (yáng, \"goat\") = sound element referring to fluidity like a river -> river",
-    "interpretation": "The character 羕(羕) (yàng, \"river\") combines 水(水) (shuǐ, \"water\") emphasizing the semantic aspect of flowing water, with 羊(羊) (yáng), serving as a phonetic component. This phono-semantic combination effectively conveys the sense of a river.",
+    "description": "phonetic: 羊(羊) (yáng, \"sheep\") + semantic: 永(永) (yǒng, \"eternal\") = phonetic element combined with the idea of flowing water -> river",
+    "interpretation": "The character 羕 combines 羊(羊) (yáng, \"sheep\") for its phonetic properties with 永(永) (yǒng, \"eternal\") to evoke the enduring flow of a river. The choice of 永 as the semantic component aligns with the concept of water perpetually flowing like an eternal cycle.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "水",
-      "trad": "水",
-      "pinyin": "shuǐ",
-      "english": "water"
-    },
-    {
       "char": "羊",
       "trad": "羊",
       "pinyin": "yáng",
-      "english": "goat"
+      "english": "sheep"
+    },
+    {
+      "char": "永",
+      "trad": "永",
+      "pinyin": "yǒng",
+      "english": "eternal"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "羕流亘古(羕流亘古)。",
-      "pinyin": "Yàng liú gèn gǔ.",
-      "english": "The river has flowed since ancient times."
-    },
-    {
-      "chinese": "远处见羕水(遠處見羕水)，两岸花开(兩岸花開)。",
-      "pinyin": "Yuǎn chù jiàn yàng shuǐ, liǎng àn huā kāi.",
-      "english": "In the distance, one can see the river, and flowers bloom on both banks."
-    }
-  ]
+  "examples": []
 }

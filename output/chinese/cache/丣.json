@@ -1,31 +1,28 @@
 {
   "simplified": "丣",
   "traditional": "丣",
-  "pinyin": "yǒu",
-  "english": "undefined",
+  "pinyin": "liǔ",
+  "english": "no direct translation",
   "etymology": {
     "type": "ancient form",
-    "description": "丣(丣) (yǒu) -> an ancient form of 酉(酉) (yǒu, \"wine vessel\") -> depicts a wine vessel",
-    "interpretation": "丣(丣) (yǒu) is an ancient form that represents the character 酉(酉) (yǒu, \"wine vessel\") and depicts a wine vessel. This character was later associated with the concept of alcohol, reflecting its historical context in ancient China.",
+    "description": "丣 (liǔ) is an ancient form of 酉 (yǒu, \"wine vessel\") -> original representation of 酒 (jiǔ, \"alcohol\") -> used in compounds related to fermentation",
+    "interpretation": "The character 丣 (liǔ) represents an ancient form of 酉 (yǒu, \"wine vessel\"), which was used in reference to alcohol and fermentation processes. It highlights the character's origin in depicting a wine vessel before the concept evolved into 酉.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他丣一本好书(他丣一本好書)。",
-      "pinyin": "Tā yǒu yī běn hǎo shū.",
-      "english": "He has a good book."
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "wine vessel"
     },
     {
-      "chinese": "太阳出来时(太陽出來時)，树林中丣一片祥和(樹林中丣一片祥和)。",
-      "pinyin": "Tàiyáng chūlái shí, shùlín zhōng yǒu yī piàn xiánghé.",
-      "english": "When the sun rises, the forest exudes a peaceful atmosphere."
-    },
-    {
-      "chinese": "时间丣奇妙(時間丣奇妙)。",
-      "pinyin": "Shíjiān yǒu qímiào.",
-      "english": "Time is marvelous."
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

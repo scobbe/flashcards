@@ -1,0 +1,50 @@
+{
+  "simplified": "著",
+  "traditional": "著",
+  "pinyin": "zhù",
+  "english": "write",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, 'grass') + 者(者) (zhě, 'person who does X') = grass-related phonetic element -> meaning relates to writing",
+    "interpretation": "The character 著(著) (zhù, 'write') combines 艸(艸) (cǎo, 'grass') for semantic association with natural growth or flourish, and 者(者) (zhě, 'person who does X') for phonetic suggestion. This implies the flourishing of words, akin to the growth of plants.",
+    "simplification": "The character 著 has a corrupted variant form, 着, where 艹(艹) (cǎo, 'grass') is replaced by 䒑 and 者(者) (zhě, 'person who does X') is altered to include 目(目) (mù, 'eye') based on historical orthographic changes recorded in dictionaries."
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "person who does X"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我著小说(我著小說)，表达对生活的感悟(表達對生活的感悟)。",
+      "pinyin": "Wǒ zhù xiǎoshuō, biǎodá duì shēnghuó de gǎnwù.",
+      "english": "I write novels to express my insights about life."
+    },
+    {
+      "chinese": "他著诗(他著詩)。",
+      "pinyin": "Tā zhù shī.",
+      "english": "He writes poetry."
+    },
+    {
+      "chinese": "我著学术论文(我著學術論文)，期望得到专家认可(期望得到專家認可)。",
+      "pinyin": "Wǒ zhù xuéshù lùnwén, qīwàng dédào zhuānjiā rènkě.",
+      "english": "I write academic papers hoping to be recognized by experts."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "骑",
+  "traditional": "騎",
+  "pinyin": "qí",
+  "english": "to ride",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "馬(馬) (mǎ, \"horse\") providing the meaning of riding + 奇(奇) (qí, \"strange\") providing the phonetic element -> riding a horse -> to ride",
+    "interpretation": "The character uses the semantic component 馬(馬) (mǎ, \"horse\") to indicate the act of riding a horse, combined with the phonetic component 奇(奇) (qí, \"strange\") to suggest the pronunciation. This combination effectively conveys the concept of riding, typically on horseback.",
+    "simplification": "The traditional 騎 was simplified to 骑 by removing the 馬(馬) (mǎ, \"horse\") radical and replacing it with its simpler form 马(马) (mǎ, \"horse\"), maintaining the essential meaning and readability."
+  },
+  "parts": [
+    {
+      "char": "馬",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    },
+    {
+      "char": "奇",
+      "trad": "奇",
+      "pinyin": "qí",
+      "english": "strange"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "假日里我常去郊外骑马(假日裏我常去郊外騎馬)。",
+      "pinyin": "Jiàrì lǐ wǒ cháng qù jiāowài qí mǎ.",
+      "english": "I often go to the countryside to ride horses on holidays."
+    },
+    {
+      "chinese": "上班时他喜欢骑车(上班時他喜歡騎車)，感受风的速度(感受風的速度)。",
+      "pinyin": "Shàngbān shí tā xǐhuān qí chē, gǎnshòu fēng de sùdù.",
+      "english": "He likes to ride his bike to work, feeling the speed of the wind."
+    }
+  ]
+}

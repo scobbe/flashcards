@@ -1,0 +1,44 @@
+{
+  "simplified": "晴天",
+  "traditional": "晴天",
+  "pinyin": "qíngtiān",
+  "english": "sunny day; clear sky",
+  "etymology": {
+    "type": "compound word",
+    "description": "晴(晴) (qíng, \"clear; fine [weather]\") + 天(天) (tiān, \"sky; day\") = a day with clear sky and good weather.",
+    "interpretation": "The combination of 晴(晴) (qíng, \"clear; fine [weather]\") and 天(天) (tiān, \"sky; day\") conveys the idea of a day where the sky is clear and the weather is favorable. This aligns with the term 'sunny day' or 'clear sky,' describing conditions without clouds or rain, highlighting pleasant weather.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晴",
+      "trad": "晴",
+      "pinyin": "qíng",
+      "english": "clear; fine [weather]"
+    },
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "sky; day"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天是个晴天(今天是個晴天)。",
+      "pinyin": "Jīntiān shì gè qíngtiān。",
+      "english": "Today is a sunny day."
+    },
+    {
+      "chinese": "每当遇到晴天(每當遇到晴天)，心情就特别好(心情就特別好)。",
+      "pinyin": "Měi dāng yù dào qíngtiān, xīnqíng jiù tèbié hǎo。",
+      "english": "Whenever it's a sunny day, the mood becomes especially pleasant."
+    },
+    {
+      "chinese": "晴天时(晴天時)，小鸟在枝头歌唱(小鳥在枝頭歌唱)。",
+      "pinyin": "Qíngtiān shí, xiǎo niǎo zài zhītóu gēchàng。",
+      "english": "On a sunny day, little birds sing on the branches."
+    }
+  ]
+}

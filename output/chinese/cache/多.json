@@ -1,0 +1,57 @@
+{
+  "simplified": "多",
+  "traditional": "多",
+  "pinyin": "duō",
+  "english": "many; much; more",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Two pieces of 肉(肉) (ròu, \"meat\") -> bronze script corruption to 夕(夕) (xī, \"evening\") -> duplication of 夕 represented many",
+    "interpretation": "The original representation of two pieces of meat symbolized abundance, with the corruption to 夕 making the character express the idea of 'many' through duplication, akin to the concept of 林(林) (lín, \"forest\") from 木(木) (mù, \"tree; wood\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "evening"
+    },
+    {
+      "char": "夛",
+      "trad": "夛",
+      "pinyin": "duō",
+      "english": "ancient form of 多"
+    },
+    {
+      "char": "林",
+      "trad": "林",
+      "pinyin": "lín",
+      "english": "forest"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里有很多人(公園裡有很多人)。",
+      "pinyin": "Gōngyuán lǐ yǒu hěnduō rén.",
+      "english": "There are many people in the park."
+    },
+    {
+      "chinese": "这个城市有很多高楼(這個城市有很多高樓)，也有许多美丽的公园(也有許多美麗的公園)。",
+      "pinyin": "Zhège chéngshì yǒu hěnduō gāolóu, yě yǒu xǔduō měilì de gōngyuán.",
+      "english": "This city has many tall buildings, and also many beautiful parks."
+    }
+  ]
+}

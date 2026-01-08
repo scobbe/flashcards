@@ -1,0 +1,33 @@
+{
+  "simplified": "兮",
+  "traditional": "兮",
+  "pinyin": "xī",
+  "english": "exhale",
+  "etymology": {
+    "type": "pictogram",
+    "description": "丂(丂) (kǎo, 'fork in a tree') + two vertical strokes representing branches -> sound produced by wind blowing through branches -> meaning 'exhale'",
+    "interpretation": "The character 兮 originally depicted a fork in a tree with branches above, symbolizing the sound of wind passing through branches, which metaphorically connects to the idea of exhaling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "fork in a tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他静坐禅房兮(他靜坐禪房兮)，缓缓呼出心中烦恼兮(緩緩呼出心中煩惱兮)。",
+      "pinyin": "Tā jìngzuò chánfáng xī, huǎnhuǎn hūchū xīnzhōng fánnǎo xī.",
+      "english": "He sits quietly in the meditation room, slowly exhaling his inner troubles."
+    },
+    {
+      "chinese": "他轻启薄唇兮(他輕啟薄唇兮)，缓缓吐纳幽香兮(緩緩吐納幽香兮)。",
+      "pinyin": "Tā qīngqǐ bóchún xī, huǎnhuǎn tùnà yōuxiāng xī.",
+      "english": "He gently parts his thin lips, slowly exhaling a fragrant breath."
+    }
+  ]
+}

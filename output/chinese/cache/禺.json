@@ -2,30 +2,38 @@
   "simplified": "禺",
   "traditional": "禺",
   "pinyin": "yú",
-  "english": "paired working in the fields",
+  "english": "ape",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a monkey with its long tail, which has also been associated with paired working in the fields",
-    "interpretation": "The character originally depicted a monkey, highlighting its connection in meaning to lively or disciplined motion, similar to agricultural activities.",
+    "type": "phono-semantic compound",
+    "description": "甶 (head of a ghost) + 禸 (to trample) -> ideogrammic compound for monkey",
+    "interpretation": "The character 禺(yú, 'ape') originally combined the pictorial elements representing a ghost's head and the action of trampling to depict an ape. This reflects the character's complex evolution, possibly linked to its resemblance to creatures or decorative markings.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "甶",
+      "trad": "甶",
+      "pinyin": "fú",
+      "english": "head of a ghost"
+    },
+    {
+      "char": "禸",
+      "trad": "禸",
+      "pinyin": "róu",
+      "english": "to trample"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "两人禺于农田(兩人禺於農田)。",
-      "pinyin": "Liǎng rén yú nóngtián.",
-      "english": "Two people work in pairs in the fields."
+      "chinese": "动物园里展出稀有的禺(動物園裡展出稀有的禺)。",
+      "pinyin": "Dòngwùyuán lǐ zhǎnchū xīyǒu de yú.",
+      "english": "Rare apes are exhibited in the zoo."
     },
     {
-      "chinese": "邻居们共赴农忙季(鄰居們共赴農忙季)，齐心禺于良田(齊心禺於良田)。",
-      "pinyin": "Lín jū men gòng fù nóngmáng jì, qí xīn yú liáng tián.",
-      "english": "The neighbors rush to the busy farming season, and work in pairs in the fertile fields."
-    },
-    {
-      "chinese": "青年在乡间禺作(青年在鄉間禺作)，传承古法耕作(傳承古法耕作)。",
-      "pinyin": "Qīngnián zài xiāngjiān yú zuò, chuánchéng gǔ fǎ gēngzuò.",
-      "english": "The young people work in pairs in the countryside, inheriting the ancient farming methods."
+      "chinese": "夜幕降临时(夜幕降臨時)，禺开始在林间游荡(禺開始在林間遊蕩)。",
+      "pinyin": "Yèmù jiànglín shí, yú kāishǐ zài línjiān yóudàng.",
+      "english": "When night falls, the ape begins roaming through the forest."
     }
   ]
 }

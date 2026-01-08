@@ -11,21 +11,5 @@
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "经过静心修行后(經過靜心修行後)，人自仌(人自𠔼)。",
-      "pinyin": "Jīngguò jìngxīn xiūxíng hòu, rén zì bīng.",
-      "english": "After practicing meditation, one becomes at peace."
-    },
-    {
-      "chinese": "他静坐冥想时(他靜坐冥想時)，心情仌(心情𠔼)。",
-      "pinyin": "Tā jìngzuò míngxiǎng shí, xīnqíng bīng.",
-      "english": "When he sits quietly in meditation, his mood is at peace."
-    },
-    {
-      "chinese": "远离烦嚣之后(遠離煩囂之後)，生活变得仌(生活變得𠔼)。",
-      "pinyin": "Yuǎn lí fánxiāo zhīhòu, shēnghuó biàn de bīng.",
-      "english": "After distancing oneself from the hustle and bustle, life becomes peaceful."
-    }
-  ]
+  "examples": []
 }

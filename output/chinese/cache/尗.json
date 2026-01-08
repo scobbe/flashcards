@@ -5,27 +5,11 @@
   "english": "wooden stake",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a wooden stake digging the dirt -> related to 弋(弋) (yì, \"to shoot\") and 才(才) (cái, \"talent\")",
-    "interpretation": "The character 尗(shū, \"wooden stake\") visually represents the action of a wooden stake breaking through the earth, which aligns with its usage as a tool or marker. The etymology suggests a connection with other characters like 弋(弋) (yì, \"to shoot\") and 才(才) (cái, \"talent\") which involve actions or attributes, yet the precise link is mainly graphic rather than semantic.",
+    "description": "Depicts a wooden stake digging the dirt",
+    "interpretation": "The character 尗(shū, 'wooden stake') visually represents a stake inserted into the ground, illustrating its function.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他用尗固定告示牌(他用尗固定告示牌)。",
-      "pinyin": "Tā yòng shū gù dìng gào shì pái.",
-      "english": "He fixed the notice board with a wooden stake."
-    },
-    {
-      "chinese": "农夫挖坑(農夫挖坑)，再插入尗(再插入尗)。",
-      "pinyin": "Nóngfū wā kēng, zài chā rù shū.",
-      "english": "The farmer dug a pit, then inserted a wooden stake."
-    },
-    {
-      "chinese": "露营者在帐篷旁(露營者在帳篷旁)，用尗支撑帐篷(用尗支撐帳篷)。",
-      "pinyin": "Lù yíng zhě zài zhàng péng páng, yòng shū zhī chēng zhàng péng.",
-      "english": "The camper, beside the tent, used a wooden stake to support it."
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "装",
+  "traditional": "裝",
+  "pinyin": "zhūang",
+  "english": "to pretend; to act as",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "壯(壯) (zhuàng, \"strong\") + 衣(衣) (yī, \"clothes\") = clothing associated with strength -> to dress or attire",
+    "interpretation": "The character 裝(裝) combines 壯(壯), which lends its phonetic value and conveys the notion of strength or robustness, with 衣(衣), indicating clothing. Together, they suggest clothing related to pretending or adopting a role, reflecting how attire can influence perception or facilitate a certain appearance.",
+    "simplification": "Clothes radical 衣(衣) was simplified to 衤(衣), preserving key phonetics and semantics while reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "壯",
+      "trad": "壯",
+      "pinyin": "zhuàng",
+      "english": "strong"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothes"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他装作不认识我(他裝作不認識我)，令我感到惊讶(令我感到驚訝)。",
+      "pinyin": "Tā zhuāng zuò bù rènshí wǒ, lìng wǒ gǎndào jīngyà.",
+      "english": "He pretended not to know me, which surprised me."
+    },
+    {
+      "chinese": "她装出一副高兴的样子(她裝出一副高興的樣子)，实则心中忧虑(實則心中憂慮)。",
+      "pinyin": "Tā zhuāng chū yī fù gāoxìng de yàngzi, shíquè xīnzhōng yōulǜ.",
+      "english": "She acted as if she were happy, but was actually troubled inside."
+    },
+    {
+      "chinese": "他们装得很自然(他們裝得很自然)。",
+      "pinyin": "Tāmen zhuāng de hěn zìrán.",
+      "english": "They acted very naturally."
+    }
+  ]
+}

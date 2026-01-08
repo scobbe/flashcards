@@ -5,8 +5,8 @@
   "english": "variegated; literary talent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 文(文) (wén, \"literary talent\") + semantic: 彡(彡) (shān, \"decorative lines\") = combination of sound and decorative meaning -> variegated; literary talent",
-    "interpretation": "The character 彣(wén) combines the phonetic element 文(文) (wén, \"literary talent\") with the semantic element 彡(彡) (shān, \"decorative lines\") to convey both a sound similar to 文(wén) and a meaning related to ornamental qualities, thus associating with variegated and literary talent.",
+    "description": "phonetic: 文(文) (wén, \"text\") + semantic: 彡(彡) (shān, \"decorative lines\") = conveys the idea of literary talent or variegated patterns -> final meaning \"variegated; literary talent\"",
+    "interpretation": "The character combines 文(文) (wén, \"text\"), which suggests a relation to writing or literature, with 彡(彡) (shān, \"decorative lines\"), which adds the sense of variation or ornamentation, fitting for the meanings of literary talent and variegated patterns.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "文",
       "trad": "文",
       "pinyin": "wén",
-      "english": "literary talent"
+      "english": "text"
     },
     {
       "char": "彡",
@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他的诗词充满彣采(他的詩詞充滿彣采)，彰显文人风范(彰顯文人風範)。",
-      "pinyin": "Tā de shīcí chōngmǎn wéncǎi, zhāngxiǎn wénrén fēngfàn.",
-      "english": "His poetry is full of variegated talent, showcasing his refined literary style."
-    },
-    {
-      "chinese": "山间的风景色彩彣趣(山間的風景色彩彣趣)，让人流连忘返(讓人流連忘返)。",
-      "pinyin": "Shānjiān de fēngjǐng sècǎi wénqù, ràng rén liúlián wàngfǎn.",
-      "english": "The mountain scenery displays variegated charm, making people reluctant to leave."
-    }
-  ]
+  "examples": []
 }

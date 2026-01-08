@@ -1,0 +1,44 @@
+{
+  "simplified": "被",
+  "traditional": "被",
+  "pinyin": "bèi",
+  "english": "passive marker",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "衣(衣) (yī, \"clothing\") + 皮(皮) (pí, \"skin\") = phono-semantic combination -> passive marker",
+    "interpretation": "The character 被(bèi) originally relates to clothing and has been extended to a broader grammatical use. The semantic component 衣(衣) (yī, \"clothing\") indicates relation to something that covers or is worn, while 皮(皮) (pí, \"skin\") provides the phonetic clue.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    },
+    {
+      "char": "皮",
+      "trad": "皮",
+      "pinyin": "pí",
+      "english": "skin"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "水被我喝了(水被我喝了)。",
+      "pinyin": "Shuǐ bèi wǒ hē le",
+      "english": "The water was drunk by me."
+    },
+    {
+      "chinese": "书被老师借走了(書被老師借走了)。",
+      "pinyin": "Shū bèi lǎoshī jiè zǒu le",
+      "english": "The book was borrowed by the teacher."
+    },
+    {
+      "chinese": "礼物被他精心包装了(禮物被他精心包裝了)，惊喜溢于言表(驚喜溢於言表)。",
+      "pinyin": "Lǐwù bèi tā jīngxīn bāozhuāng le, jīngxǐ yì yú yánbiǎo",
+      "english": "The gift was carefully wrapped by him, and the surprise was evident."
+    }
+  ]
+}

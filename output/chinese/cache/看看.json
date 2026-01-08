@@ -1,0 +1,44 @@
+{
+  "simplified": "看看",
+  "traditional": "看看",
+  "pinyin": "kànkan",
+  "english": "look",
+  "etymology": {
+    "type": "compound word",
+    "description": "看(看) (kàn, \"look\") + 看(看) (kàn, \"look\") indicates a repeated or brief action, often used to suggest casually looking at something.",
+    "interpretation": "The repetition of 看(看) (kàn, \"look\") in 看看(看看) (kànkan, \"look\") conveys a sense of casually or briefly looking at something, not with intense focus but more out of curiosity or to check something quickly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "看",
+      "trad": "看",
+      "pinyin": "kàn",
+      "english": "look; watch; read"
+    },
+    {
+      "char": "看",
+      "trad": "看",
+      "pinyin": "kàn",
+      "english": "look; watch; read"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你看看书(你看看書)。",
+      "pinyin": "Nǐ kànkan shū.",
+      "english": "Take a look at the book."
+    },
+    {
+      "chinese": "到公园时(到公園時)，你看看风景(你看看風景)。",
+      "pinyin": "Dào gōngyuán shí, nǐ kànkan fēngjǐng.",
+      "english": "When you get to the park, take a look at the scenery."
+    },
+    {
+      "chinese": "吃饭前(吃飯前)，先看看菜单(先看看菜單)。",
+      "pinyin": "Chīfàn qián, xiān kànkan càidān.",
+      "english": "Before eating, first take a look at the menu."
+    }
+  ]
+}

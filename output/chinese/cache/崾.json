@@ -2,11 +2,11 @@
   "simplified": "崾",
   "traditional": "崾",
   "pinyin": "yǎo",
-  "english": "difficult; arduous",
+  "english": "high and steep",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "山(山) (shān, \"mountain\") + 要(要) (yào, phonetic) = mountain terrain -> difficult, arduous",
-    "interpretation": "The character combines 山(山) (shān, \"mountain\"), representing mountain terrain, with 要(要) (yào) for phonetic value. This reflects how mountainous landscapes are often challenging and arduous to traverse.",
+    "description": "山(山) (shān, 'mountain') + 要(要) (yào, 'want') = phonetic value and semantic indication of steepness -> final meaning 'high and steep'",
+    "interpretation": "The character 崾(yǎo, 'high and steep') combines 山(山) (shān, 'mountain') to indicate the meaning related to mountainous terrain, with 要(要) (yào, 'want') serving as the phonetic component to suggest pronunciation and refine the meaning to specifically denote a steep, elevated place.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,9 @@
       "char": "要",
       "trad": "要",
       "pinyin": "yào",
-      "english": "important"
+      "english": "want"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "这条路崾险难行(這條路崾險難行)。",
-      "pinyin": "Zhè tiáo lù yǎo xiǎn nán xíng.",
-      "english": "This road is arduous and treacherous."
-    },
-    {
-      "chinese": "他毅然踏上崾途(他毅然踏上崾途)，追逐梦想不言放弃(追逐夢想不言放棄)。",
-      "pinyin": "Tā yìrán tà shàng yǎo tú, zhuīzhú mèngxiǎng bù yán fàngqì.",
-      "english": "He resolutely embarked on an arduous journey, relentlessly chasing his dreams."
-    }
-  ]
+  "examples": []
 }

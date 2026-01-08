@@ -1,0 +1,45 @@
+{
+  "simplified": "雍",
+  "traditional": "雍",
+  "pinyin": "yōng",
+  "english": "harmonious",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "雝(雝) (yōng, \"harmonious\") originally formed -> phonetic 邕 (yōng, \"name\") corrupted to 玄 (xuán, \"mysterious\") in later scripts",
+    "interpretation": "The character 雍 began as a variant of 雝 with 邕 as the phonetic component. Over time, this component's shape changed to resemble 玄 due to visual similarity in early scripts, reflecting its phonetic role while introducing a new element.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "雝",
+      "trad": "雝",
+      "pinyin": "yōng",
+      "english": "harmonious"
+    },
+    {
+      "char": "邕",
+      "trad": "邕",
+      "pinyin": "yōng",
+      "english": "name"
+    },
+    {
+      "char": "玄",
+      "trad": "玄",
+      "pinyin": "xuán",
+      "english": "mysterious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的仪表雍容(他的儀表雍容)。",
+      "pinyin": "Tā de yíbiǎo yōngróng.",
+      "english": "His bearing is graceful and harmonious."
+    },
+    {
+      "chinese": "园林设计追求自然(園林設計追求自然)，营造雍和环境(營造雍和環境)。",
+      "pinyin": "Yuánlín shèjì zhuīqiú zìrán, yíngzào yōnghé huánjìng.",
+      "english": "Landscape design pursues nature, creating a harmonious environment."
+    }
+  ]
+}

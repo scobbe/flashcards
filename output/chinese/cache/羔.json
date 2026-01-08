@@ -1,0 +1,39 @@
+{
+  "simplified": "羔",
+  "traditional": "羔",
+  "pinyin": "gāo",
+  "english": "lamb",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "羊(羊) (yáng, \"caprid\") + 灬(灬) (huǒ, \"fire\") = lamb cooked over a fire -> lamb",
+    "interpretation": "The character represents a lamb, commonly associated with being a suitable animal for cooking and consumption, as depicted by the combination of a caprid over fire.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "caprid"
+    },
+    {
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小羔在春风中奔跑(小羔在春風中奔跑)。",
+      "pinyin": "Xiǎo gāo zài chūnfēng zhōng bēnpǎo。",
+      "english": "The little lamb runs in the spring breeze."
+    },
+    {
+      "chinese": "温柔的母亲看着羔(溫柔的母親看著羔)，轻声哼唱着摇篮曲(輕聲哼唱著搖籃曲)。",
+      "pinyin": "Wēnróu de mǔqīn kànzhe gāo, qīngshēng hēngchàngzhe yáolánqǔ。",
+      "english": "The gentle mother watches over the lamb and softly hums a lullaby."
+    }
+  ]
+}

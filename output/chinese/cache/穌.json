@@ -5,40 +5,40 @@
   "english": "resuscitate",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 米(米) (mǐ, \"rice\") + phonetic: 甦(蘇) (sū, \"revive\") = rice used in revival or resuscitation -> resuscitate",
-    "interpretation": "The character 穌 (sū, \"resuscitate\") uses 米(米) (mǐ, \"rice\") to signify sustenance or life-giving quality, combined with 甦(蘇) (sū, \"revive\") to emphasize the meaning of bringing back to life.",
-    "simplification": ""
+    "description": "魚(魚) (yú, \"fish\") as phonetic + 禾(禾) (hé, \"grain\") as semantic -> sound and meaning combined -> final form 穌",
+    "interpretation": "The character 穌(sū, \"resuscitate\") combines 魚 (yú, \"fish\") to indicate sound with 禾 (hé, \"grain\"), which contributes to the overall meaning of revitalization, akin to agricultural growth.",
+    "simplification": "The character 穌 was simplified to 稣 by removing the 魚(魚) (yú, \"fish\") component and retaining only parts that suggest clarity and modern sound."
   },
   "parts": [
     {
-      "char": "米",
-      "trad": "米",
-      "pinyin": "mǐ",
-      "english": "rice"
+      "char": "魚",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish"
     },
     {
-      "char": "甦",
-      "trad": "蘇",
-      "pinyin": "sū",
-      "english": "revive"
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生施穌病人(醫生施穌病人)，挽救了生命(挽救了生命)。",
-      "pinyin": "Yīshēng shī sū bìngrén, wǎnjiùle shēngmìng.",
-      "english": "The doctor resuscitated the patient and saved a life."
+      "chinese": "他不慎溺水后(他不慎溺水後)，医生奋力穌他(醫生奮力穌他)。",
+      "pinyin": "tā bù shèn nì shuǐ hòu, yīshēng fèn lì sū tā.",
+      "english": "He accidentally nearly drowned, and the doctor resuscitated him with full effort."
     },
     {
-      "chinese": "急救人员穌醒昏迷者(急救人員穌醒昏迷者)，恢复了健康(恢復了健康)。",
-      "pinyin": "Jíjiù rényuán sū xǐng hūnmí zhě, huīfùle jiànkāng.",
-      "english": "The paramedics resuscitated the unconscious individual and restored health."
+      "chinese": "他在实验室中(他在實驗室中)，穌起了细胞的活力(穌起了細胞的活力)。",
+      "pinyin": "tā zài shí yàn shì zhōng, sū qǐ le xì bāo de huó lì.",
+      "english": "While in the laboratory, he revived the vitality of the cells."
     },
     {
-      "chinese": "医生及时穌醒心跳骤停者(醫生及時穌醒心跳驟停者)，挽回了危局(挽回了危局)。",
-      "pinyin": "Yīshēng jíshí sū xǐng xīntiào zhòutíng zhě, wǎnhuíle wēijú.",
-      "english": "The doctor promptly resuscitated the patient whose heart had stopped, averting a critical situation."
+      "chinese": "在抢救行动中(在搶救行動中)，医护人员全力穌病人(醫護人員全力穌病人)。",
+      "pinyin": "zài qiǎng jiù xíng dòng zhōng, yī hù rén yuán quán lì sū bìng rén.",
+      "english": "During the rescue operation, the medical staff did their best to resuscitate the patient."
     }
   ]
 }

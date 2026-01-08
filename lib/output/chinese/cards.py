@@ -166,7 +166,7 @@ def generate_card_content(
         user = f"Character: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
-            user += f"\n\n**MANDATORY: Copy the 'type' EXACTLY from this Wiktionary etymology (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound'). Base description and interpretation on this:**\n{wiktionary_etymology}"
+            user += f"\n\n**MANDATORY RULES:**\n1. Use the TRADITIONAL form's etymology type (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound')\n2. IGNORE any line that says 'simplified form of X' - that is NOT a valid etymology type\n3. If you see '[{traditional}] Phono-semantic compound...' - use 'phono-semantic compound' as the type\n\n**Wiktionary etymology:**\n{wiktionary_etymology}"
     else:
         user = f"Word: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
@@ -187,24 +187,29 @@ def generate_card_content(
         if verbose:
             print(f"[chinese] [generated] {simplified} in {elapsed:.1f}s")
 
-        # Second API call: examples with o3-mini
-        examples_client = OpenAIClient(model="o3-mini")
-        examples_system = generate_examples_system_prompt(variant)
-        examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
-        if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
-            examples_user += f"\n\nInclude these examples:\n{input_examples}"
+        # Second API call: examples with o3-mini (skip if not in contemporary usage)
+        if data.get("in_contemporary_usage", True):
+            examples_client = OpenAIClient(model="o3-mini")
+            examples_system = generate_examples_system_prompt(variant)
+            examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
+            if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
+                examples_user += f"\n\nInclude these examples:\n{input_examples}"
 
-        if verbose:
-            print(f"[chinese] [examples] {simplified}...")
-        examples_start = time.time()
-        examples_data = examples_client.complete_json(examples_system, examples_user, verbose=verbose)
-        examples_elapsed = time.time() - examples_start
-        if verbose:
-            print(f"[chinese] [examples] {simplified} in {examples_elapsed:.1f}s")
+            if verbose:
+                print(f"[chinese] [examples] {simplified}...")
+            examples_start = time.time()
+            examples_data = examples_client.complete_json(examples_system, examples_user, verbose=verbose)
+            examples_elapsed = time.time() - examples_start
+            if verbose:
+                print(f"[chinese] [examples] {simplified} in {examples_elapsed:.1f}s")
 
-        # Merge examples into data
-        if examples_data and "examples" in examples_data:
-            data["examples"] = examples_data["examples"]
+            # Merge examples into data
+            if examples_data and "examples" in examples_data:
+                data["examples"] = examples_data["examples"]
+        else:
+            if verbose:
+                print(f"[chinese] [examples] {simplified} skipped (not in contemporary usage)")
+            data["examples"] = []
 
         if not data or data == {}:
             print(f"[chinese] [ERROR] API returned empty response for {simplified}")

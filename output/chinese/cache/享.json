@@ -1,0 +1,31 @@
+{
+  "simplified": "享",
+  "traditional": "享",
+  "pinyin": "xiǎng",
+  "english": "phonetic surrogate",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an ancestral shrine",
+    "interpretation": "The character 享(享) (xiǎng, \"phonetic surrogate\") originated as a pictogram representing an ancestral shrine, which is common in historical contexts where rituals and offerings were made to ancestors. This character continues to convey meanings related to offerings and enjoyment.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "父母辛勤劳作(父母辛勤勞作)，给予子女享福(給予子女享福)。",
+      "pinyin": "Fùmǔ xīnqín láozuò ， gěiyǔ zǐnǚ xiǎng fú 。",
+      "english": "Parents work hard and give their children a blissful life."
+    },
+    {
+      "chinese": "我们在宴会中享美食(我們在宴會中享美食)。",
+      "pinyin": "Wǒmen zài yànhuì zhōng xiǎng měishí 。",
+      "english": "We enjoy delicious food at the banquet."
+    },
+    {
+      "chinese": "当音乐响起时(當音樂響起時)，大家开始享受节日气氛(大家開始享受節日氣氛)。",
+      "pinyin": "Dāng yīnyuè xiǎngqǐ shí ， dàjiā kāishǐ xiǎngshòu jiérì qìfēn 。",
+      "english": "When the music starts, everyone begins to enjoy the festive atmosphere."
+    }
+  ]
+}

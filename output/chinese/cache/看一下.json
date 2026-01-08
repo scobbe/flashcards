@@ -1,0 +1,44 @@
+{
+  "simplified": "看一下",
+  "traditional": "看一下",
+  "pinyin": "kàn yīxià",
+  "english": "take a look",
+  "etymology": {
+    "type": "compound word",
+    "description": "看(看) (kàn, \"look\") + 一下(一下) (yīxià, \"a bit; once\") = take a look briefly.",
+    "interpretation": "The phrase 看一下(看一下) (kàn yīxià, \"take a look\") uses 看(看) (kàn, \"look\") to mean viewing or observing something, and 一下(一下) (yīxià, \"a bit; once\") to indicate doing something for a brief or short duration. Together, they form a polite and common expression to ask someone to give something a quick glance or review.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "看",
+      "trad": "看",
+      "pinyin": "kàn",
+      "english": "\"look\""
+    },
+    {
+      "char": "一下",
+      "trad": "一下",
+      "pinyin": "yīxià",
+      "english": "\"a bit; once\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "看一下那个(看一下那個)。",
+      "pinyin": "Kàn yīxià nàgè.",
+      "english": "Look at that."
+    },
+    {
+      "chinese": "请看一下这本书(請看一下這本書)。",
+      "pinyin": "Qǐng kàn yīxià zhè běn shū.",
+      "english": "Please take a look at this book."
+    },
+    {
+      "chinese": "我看一下(我看一下)，再决定(再決定)。",
+      "pinyin": "Wǒ kàn yīxià, zài juédìng.",
+      "english": "I'll take a look, then decide."
+    }
+  ]
+}

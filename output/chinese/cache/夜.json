@@ -1,0 +1,44 @@
+{
+  "simplified": "夜",
+  "traditional": "夜",
+  "pinyin": "yè",
+  "english": "night",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亦(亦) (yì, \"also\") phonetic + 夕(夕) (xī, \"moon\") semantic -> night",
+    "interpretation": "The character 夜(夜) (yè, \"night\") combines the phonetic component 亦(亦) (yì, \"also\") with the semantic component 夕(夕) (xī, \"moon\"), indicating the night when the moon is prominent. The lower portion, resembling 夕(夕), signifies the concept of moon or night, while the remainder is a reduced form of 亦(亦), providing the phonetic aspect.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亦",
+      "trad": "亦",
+      "pinyin": "yì",
+      "english": "also"
+    },
+    {
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜空繁星闪烁(夜空繁星閃爍)。",
+      "pinyin": "Yè kōng fán xīng shǎn shuò.",
+      "english": "The night sky sparkles with stars."
+    },
+    {
+      "chinese": "他在夜深人静时(他在夜深人靜時)，独自散步(獨自散步)。",
+      "pinyin": "Tā zài yè shēn rén jìng shí, dú zì sàn bù.",
+      "english": "He takes a solitary walk when the night is quiet."
+    },
+    {
+      "chinese": "寂静的夜使心灵平静(寂靜的夜使心靈平靜)。",
+      "pinyin": "Jì jìng de yè shǐ xīn líng píng jìng.",
+      "english": "The tranquil night calms the soul."
+    }
+  ]
+}

@@ -4,36 +4,41 @@
   "pinyin": "rè",
   "english": "heat; hot; fever",
   "etymology": {
-    "type": "simplified from",
-    "description": "热(熱) (rè, \"heat\") is simplified from 熱(熱) (rè, \"heat\") with 埶(埶) (yì, \"skill\") replaced by 执(执) (zhí, \"to hold\") for phonetic representation",
-    "interpretation": "热(熱) (rè, \"heat\") was simplified by replacing 埶(埶) (yì, \"skill\") with 执(执) (zhí, \"to hold\"), which served as a simpler phonetic element while maintaining the original meaning related to heat.",
-    "simplification": "热(熱) (rè, \"heat\") was simplified by substituting 埶(埶) (yì, \"skill\") with 执(执) (zhí, \"to hold\"), allowing for a more straightforward script while preserving the phonetic similarity."
+    "type": "phono-semantic compound",
+    "description": "埶(埶) (yì, \"art\") + 灬(灬) (fire radical) = artfully controlled fire -> heat -> semiotic phonetic 执(埶)",
+    "interpretation": "The character 熱 (rè) in its traditional form combines 埶(埶) (yì, \"art\") which phonetically hints at the pronunciation and 灬(灬) indicating fire, to designate an artfully controlled fire representing heat. The fire radical emphasizes the concept of heat and heat generation.",
+    "simplification": "Simplified by replacing 埶(埶) with 执(埶) (zhí, \"to hold\") for phonetic reduction and easier writing."
   },
   "parts": [
     {
       "char": "埶",
       "trad": "埶",
       "pinyin": "yì",
-      "english": "skill"
+      "english": "art"
     },
     {
-      "char": "执",
-      "trad": "执",
-      "pinyin": "zhí",
-      "english": "to hold"
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "huǒ",
+      "english": "fire radical"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夏天太热了(夏天太熱了)。",
-      "pinyin": "Xiàtiān tài rè le.",
-      "english": "It is too hot in summer."
+      "chinese": "今天很热(今天很熱)。",
+      "pinyin": "Jīntiān hěn rè.",
+      "english": "It is very hot today."
     },
     {
-      "chinese": "厨房里的火炉热得冒烟(廚房裡的火爐熱得冒煙)，空气也变得闷热(空氣也變得悶熱)。",
-      "pinyin": "Chúfáng lǐ de huǒlú rè de mào yān, kōngqì yě biàn de mèn rè.",
-      "english": "The stove in the kitchen is so hot that it emits smoke, and the air becomes stuffy."
+      "chinese": "他发热(他發熱)，需要去医院(需要去醫院)。",
+      "pinyin": "Tā fā rè, xūyào qù yīyuàn.",
+      "english": "He has a fever and needs to go to the hospital."
+    },
+    {
+      "chinese": "夏天特别热(夏天特別熱)，游泳是消暑之良方(游泳是消暑之良方)。",
+      "pinyin": "Xiàtiān tèbié rè, yóuyǒng shì xiāoshǔ zhī liángfāng.",
+      "english": "Summer is especially hot, and swimming is an excellent way to cool off."
     }
   ]
 }

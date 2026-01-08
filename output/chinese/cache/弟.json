@@ -1,0 +1,26 @@
+{
+  "simplified": "弟",
+  "traditional": "弟",
+  "pinyin": "dì",
+  "english": "younger brother",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a spear handle wrapped in a leather strap -> signifies order/sequence -> extended meaning to 'younger brother'",
+    "interpretation": "The character originally depicted a spear or handle with an ordered wrapping, symbolizing sequence or hierarchy, which logically extends to reference a younger brother in a family structure.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我最喜欢跟弟一起玩(我最喜歡跟弟一起玩)。",
+      "pinyin": "Wǒ zuì xǐhuān gēn dì yīqǐ wán.",
+      "english": "I most enjoy playing with my younger brother."
+    },
+    {
+      "chinese": "今天我带弟去公园(今天我帶弟去公園)，一起放风筝(一起放風箏)。",
+      "pinyin": "Jīntiān wǒ dài dì qù gōngyuán, yīqǐ fàng fēngzheng.",
+      "english": "Today, I take my younger brother to the park to fly kites together."
+    }
+  ]
+}

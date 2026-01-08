@@ -1,0 +1,45 @@
+{
+  "simplified": "泰",
+  "traditional": "泰",
+  "pinyin": "tài",
+  "english": "safe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 大(大) (dà, 'big') + Semantic: 廾(廾) (gǒng, 'two hands') + Semantic: 水(水) (shuǐ, 'water') -> seized or slipping something wet -> reinterpretation as Ideogrammic compound: large + two hands + water -> symbolizing greatness or abundance",
+    "interpretation": "The character derives from a combination of components suggesting the act of seizing something wet with bare hands. Over time, its meaning broadened and was later reinterpreted to represent the concept of abundance or greatness. The fusion of components reflects the evolution of its meaning from physical action to abstract notions of safety and prominence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国泰民安(國泰民安)。",
+      "pinyin": "Guó tài mín ān.",
+      "english": "The nation is safe and its people live in peace."
+    },
+    {
+      "chinese": "面对挑战时(面對挑戰時)，他始终保持泰然(他始終保持泰然)。",
+      "pinyin": "Miànduì tiǎozhàn shí, tā shǐzhōng bǎochí tài rán.",
+      "english": "When facing challenges, he always remains calm and safe."
+    }
+  ]
+}

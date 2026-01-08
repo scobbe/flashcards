@@ -5,22 +5,22 @@
   "english": "slash",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a stroke going down to the left",
-    "interpretation": "丿(piě, \"slash\") represents a basic stroke used in writing Chinese characters, symbolizing movement or falling in a slanting direction.",
+    "description": "Depicts a diagonal slash",
+    "interpretation": "The character 丿 (piě, \"slash\") is a simple pictogram representing a diagonal line or stroke. It is used as a basic component in many more complex Chinese characters.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "写字时(寫字時)，要注意丿的姿势(要注意丿的姿勢)。",
-      "pinyin": "Xiězì shí, yào zhùyì piě de zīshì.",
-      "english": "When writing, pay attention to the posture of the slash stroke."
+      "chinese": "书法中的丿极富动感(書法中的丿極富動感)。",
+      "pinyin": "Shūfǎ zhōng de piě jí fù dònggǎn.",
+      "english": "The slash in calligraphy is full of dynamic expression."
     },
     {
-      "chinese": "这幅书法作品中(這幅書法作品中)，笔画之间存在着独特的丿运用(筆畫之間存在著獨特的丿運用)。",
-      "pinyin": "Zhè fú shūfǎ zuòpǐn zhōng, bǐhuà zhījiān cúnzài zhe dútè de piě yùnyòng.",
-      "english": "In this calligraphy work, there is a unique use of the slash stroke among the brush strokes."
+      "chinese": "他写字时用丿勾勒出灵动的笔触(他寫字時用丿勾勒出靈動的筆觸)，令作品显得生动丰富(令作品顯得生動豐富)。",
+      "pinyin": "Tā xiězì shí yòng piě gōulè chū língdòng de bǐchù, lìng zuòpǐn xiǎn de shēngdòng fēngfù.",
+      "english": "When he writes, he uses the slash stroke to outline dynamic brushwork, making the work appear vivid and rich."
     }
   ]
 }

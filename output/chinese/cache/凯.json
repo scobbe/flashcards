@@ -4,53 +4,41 @@
   "pinyin": "kǎi",
   "english": "triumphant; victorious",
   "etymology": {
-    "type": "Simplified from 凱 ( 豆 → 己 )",
-    "description": "凱(凱) (kǎi, 'triumphant') originally → 豈(豈) (qǐ, 'drum') + phonetic: 几(几) (jī) = music of triumph -> 豆(豆) ('drum') component simplified to 己(己)",
-    "interpretation": "凯(凱) (kǎi, 'triumphant') originally depicted victory music with a drum element, reinforced with the phonetic component 几(几) (jī). The simplification replaced 豆(豆) (dòu, 'drum') with 己(己), maintaining the balance of sound and meaning.",
-    "simplification": "In 凯(凱), 豆(豆) (dòu, 'drum') was replaced with 己(己) to simplify writing while retaining pronunciation and dynamic structure."
+    "type": "phono-semantic compound",
+    "description": "Phono-semantic: 豈(豈) (qǐ, \"drum\") + 几(几) (jǐ, phonetic) = music of triumph -> victorious",
+    "interpretation": "'凱' combines 豈(豈) (qǐ, \"drum\") representing the triumphant music and 几(几) (jǐ) as the phonetic component. Originally, this composition reflected music played during victorious celebrations.",
+    "simplification": "Simplified as 凯 by replacing 豈(豈) (qǐ, \"drum\") with 己(己) (jǐ, \"self\") for phonetic resemblance, reducing complexity."
   },
   "parts": [
-    {
-      "char": "豆",
-      "trad": "豆",
-      "pinyin": "dòu",
-      "english": "drum"
-    },
-    {
-      "char": "己",
-      "trad": "己",
-      "pinyin": "jǐ",
-      "english": "self"
-    },
-    {
-      "char": "几",
-      "trad": "几",
-      "pinyin": "jī",
-      "english": "small table"
-    },
     {
       "char": "豈",
       "trad": "豈",
       "pinyin": "qǐ",
       "english": "drum"
+    },
+    {
+      "char": "几",
+      "trad": "几",
+      "pinyin": "jǐ",
+      "english": "phonetic"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "比赛结束后(比賽結束後)，球队奏响凯歌(球隊奏響凱歌)。",
-      "pinyin": "Bǐsài jiéshù hòu, qiúduì zòuxiǎng kǎigē.",
-      "english": "After the game ended, the team sounded their victorious anthem."
+      "chinese": "凯带领球队夺得冠军(凱帶領球隊奪得冠軍)。",
+      "pinyin": "Kǎi dàilǐng qiúduì duódé guànjūn.",
+      "english": "Kai led the team to win the championship."
     },
     {
-      "chinese": "将军带领部队凯旋出征(將軍帶領部隊凱旋出征)。",
-      "pinyin": "Jiāngjūn dàilǐng bùduì kǎixuán chūzhēng.",
-      "english": "The general led his troops out on a victorious campaign."
+      "chinese": "比赛结束后(比賽結束後)，他以凯的姿态走向领奖台(他以凱的姿態走向領獎台)。",
+      "pinyin": "Bǐsài jiéshù hòu, tā yǐ kǎi de zītài zǒuxiàng lǐngjiǎngtái.",
+      "english": "After the game, he walked to the podium with a victorious demeanor."
     },
     {
-      "chinese": "经过激战后(經過激戰後)，士兵们凯旋归营(士兵們凱旋歸營)。",
-      "pinyin": "Jīngguò jīzhàn hòu, shìbīng men kǎixuán guīyíng.",
-      "english": "After a fierce battle, the soldiers returned to camp in triumph."
+      "chinese": "在艰难比赛中(在艱難比賽中)，他展现出凯的风采(他展現出凱的風采)。",
+      "pinyin": "Zài jiānnán bǐsài zhōng, tā zhǎnxiàn chū kǎi de fēngcǎi.",
+      "english": "In the tough competition, he demonstrated a triumphant air."
     }
   ]
 }

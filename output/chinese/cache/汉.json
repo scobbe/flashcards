@@ -1,0 +1,44 @@
+{
+  "simplified": "汉",
+  "traditional": "漢",
+  "pinyin": "hàn",
+  "english": "Han Chinese; Chinese",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "水(水) (shuǐ, \"water\") + phonetic component 暵 or 熯 -> refers to river in China 漢江/漢水 -> simplified by removing components to form 又(又) (yòu, \"again\")",
+    "interpretation": "The character 漢 initially depicts the Han River with water radical 水(水) (shuǐ, \"water\") and a phonetic element. Its simplification to 汉 involved reducing complexity by retaining the 又(又) (yòu, \"again\") shape, reflecting modern streamlining efforts.",
+    "simplification": "汉(漢) was simplified by eliminating components, retaining the shape 又(又) (yòu, \"again\"), a common simplification strategy to reduce strokes."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是汉人(他是漢人)。",
+      "pinyin": "Tā shì hànrén.",
+      "english": "He is Han Chinese."
+    },
+    {
+      "chinese": "汉语很美(漢語很美)。",
+      "pinyin": "Hànyǔ hěn měi.",
+      "english": "The Chinese language is beautiful."
+    },
+    {
+      "chinese": "他学习汉字(他學習漢字)，了解汉文化(了解漢文化)。",
+      "pinyin": "Tā xuéxí hànzì, liǎojiě hàn wénhuà.",
+      "english": "He studies Chinese characters and learns about Chinese culture."
+    }
+  ]
+}

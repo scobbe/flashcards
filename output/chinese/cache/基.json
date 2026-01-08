@@ -1,0 +1,39 @@
+{
+  "simplified": "基",
+  "traditional": "基",
+  "pinyin": "jī",
+  "english": "foundation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "其(其) (qí, \"his\") + 土(土) (tǔ, \"earth\") = foundation of earth -> final form",
+    "interpretation": "The character 基(基) (jī, \"foundation\") combines 其(其) (qí, \"his\"), which serves as the phonetic component, and 土(土) (tǔ, \"earth\"), representing its semantic meaning of being a foundational layer or base made of earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "建筑物的稳定依赖于坚固的基(堅固的基)。",
+      "pinyin": "Jiànzhùwù de wěndìng yīlài yú jiāngù de jī.",
+      "english": "The building's stability relies on a strong foundation."
+    },
+    {
+      "chinese": "传统智慧支撑着改革的基(傳統智慧支撐著改革的基)，现代科技推动着进步的基(現代科技推動著進步的基)。",
+      "pinyin": "Chuántǒng zhìhuì zhīchēng zhe gǎigé de jī, xiàndài kējì tuīdòng zhe jìnbù de jī.",
+      "english": "Traditional wisdom supports the foundation of reform, while modern technology drives the foundation of progress."
+    }
+  ]
+}

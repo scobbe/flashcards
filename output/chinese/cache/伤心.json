@@ -1,0 +1,44 @@
+{
+  "simplified": "伤心",
+  "traditional": "傷心",
+  "pinyin": "shāng xīn",
+  "english": "sad",
+  "etymology": {
+    "type": "compound word",
+    "description": "伤(傷) (shāng, \"injury; to hurt\") + 心(心) (xīn, \"heart\") = feeling hurt in one's heart, leading to being sad.",
+    "interpretation": "Injuries to the heart metaphorically describe emotional pain or sadness. This reflects the common concept in many cultures of associating emotional states with the heart.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "伤",
+      "trad": "傷",
+      "pinyin": "shāng",
+      "english": "injury; to hurt"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我感到伤心(我感到傷心)。",
+      "pinyin": "wǒ gǎndào shāng xīn",
+      "english": "I feel sad."
+    },
+    {
+      "chinese": "听到噩耗后(聽到惡耗後)，她显得伤心(她顯得傷心)。",
+      "pinyin": "tīng dào è hào hòu, tā xiǎn dé shāng xīn",
+      "english": "After hearing the bad news, she appeared sad."
+    },
+    {
+      "chinese": "他失去了心爱的人(他失去了心愛的人)，以至于非常伤心(以至於非常傷心)。",
+      "pinyin": "tā shīqù le xīn'ài de rén, yǐ zhìyú fēicháng shāng xīn",
+      "english": "He lost his beloved, and thus he was extremely sad."
+    }
+  ]
+}

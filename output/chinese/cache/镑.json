@@ -1,0 +1,44 @@
+{
+  "simplified": "镑",
+  "traditional": "鎊",
+  "pinyin": "bàng",
+  "english": "pound; currency",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, 'metal') + 旁(旁) (páng, 'side') = metal object -> currency unit",
+    "interpretation": "The character 鎊(bàng) combines 金(金) (jīn, 'metal') representing material substance with 旁(旁) (páng, 'side') for phonetic purposes, indicating a metallic currency unit, specifically the British pound.",
+    "simplification": "鎊(鎊) was simplified to 镑(鎊) by replacing 金(金) (jīn, 'metal') with 钅(钅) (jīn), the simplified metal radical, keeping 旁(旁) as the phonetic component."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "旁",
+      "trad": "旁",
+      "pinyin": "páng",
+      "english": "side"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我带了一些英国镑(我帶了一些英國鎊)，购买纪念品(購買紀念品)。",
+      "pinyin": "Wǒ dài le yīxiē Yīngguó bàng, gòumǎi jìniànpǐn。",
+      "english": "I brought some British pounds to buy souvenirs."
+    },
+    {
+      "chinese": "这张票只值十镑(這張票只值十鎊)。",
+      "pinyin": "Zhè zhāng piào zhǐ zhí shí bàng。",
+      "english": "This ticket is only worth ten pounds."
+    },
+    {
+      "chinese": "英国的经济复苏(英國的經濟復甦)，促使镑升值(鎊升值)。",
+      "pinyin": "Yīngguó de jīngjì fùsū, cùshǐ bàng shēngzhí。",
+      "english": "Britain's economic recovery has boosted the value of the pound."
+    }
+  ]
+}

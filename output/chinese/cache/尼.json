@@ -1,0 +1,44 @@
+{
+  "simplified": "尼",
+  "traditional": "尼",
+  "pinyin": "ní",
+  "english": "nun",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "尸(尸) (shī, 'corpse') sitting on or leaning against 匕(匕) (bǐ, 'spoon') -> 'to stop' or 'close; intimate' -> later usage as 'nun'",
+    "interpretation": "The character 尼(尼) (ní, 'nun') originated from depicting one person sitting on or leaning against another, symbolizing a close or intimate state. This evolved into meanings related to stopping and intimacy, which by extension came to be associated with the concept of a nun, reflecting a person's commitment to a spiritual life.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尸",
+      "trad": "尸",
+      "pinyin": "shī",
+      "english": "corpse"
+    },
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "寺院里有一位慈爱的尼(寺院裡有一位慈愛的尼)。",
+      "pinyin": "Sìyuàn lǐ yǒu yī wèi cí'ài de ní.",
+      "english": "There is a kind-hearted nun in the temple."
+    },
+    {
+      "chinese": "那位尼每天诵经(那位尼每天誦經)，静心参禅(靜心參禪)。",
+      "pinyin": "Nà wèi ní měitiān sòngjīng, jìngxīn cānchán.",
+      "english": "That nun recites scriptures daily and meditates in tranquility."
+    },
+    {
+      "chinese": "这位尼身穿灰色僧袍(這位尼身穿灰色僧袍)，安静地阅读经典(安靜地閱讀經典)。",
+      "pinyin": "Zhè wèi ní shēn chuān huīsè sēngpáo, ānjìng de yuèdú jīngdiǎn.",
+      "english": "This nun, wearing a grey robe, reads the classics quietly."
+    }
+  ]
+}

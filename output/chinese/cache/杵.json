@@ -1,0 +1,44 @@
+{
+  "simplified": "杵",
+  "traditional": "杵",
+  "pinyin": "chǔ",
+  "english": "pestle",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 午(午) (wǔ, \"pestle\") = wooden pestle -> pestle",
+    "interpretation": "The character 杵(杵) (chǔ, \"pestle\") combines the semantic element 木(木) (mù, \"wood\") with the phonetic element 午(午) (wǔ, \"pestle\"), indicating a wooden pestle. The use of 木(木) signifies the material from which a pestle is traditionally made, while 午(午) provides the phonetic clue.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "pestle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用杵捣碎大蒜(他用杵搗碎大蒜)。",
+      "pinyin": "Tā yòng chǔ dǎo suì dàsuàn.",
+      "english": "He uses the pestle to crush garlic."
+    },
+    {
+      "chinese": "她挥动杵磨面(她揮動杵磨麵)，准备做传统糕点(準備做傳統糕點)。",
+      "pinyin": "Tā huī dòng chǔ mó miàn, zhǔn bèi zuò chuántǒng gāo diǎn.",
+      "english": "She swings the pestle to grind flour, preparing to make traditional pastries."
+    },
+    {
+      "chinese": "古人以杵研药(古人以杵研藥)，制成药丸(制成藥丸)。",
+      "pinyin": "Gǔ rén yǐ chǔ yán yào, zhì chéng yào wán.",
+      "english": "Ancient people used the pestle to grind medicine, and made pills out of it."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "员工",
+  "traditional": "員工",
+  "pinyin": "yuángōng",
+  "english": "employee",
+  "etymology": {
+    "type": "compound word",
+    "description": "员(員) (yuán, \"person\") + 工(工) (gōng, \"work\") = person who works -> employee",
+    "interpretation": "The combination of 员(員) (yuán, \"person\") and 工(工) (gōng, \"work\") logically denotes an \"employee,\" someone who is employed to perform work. The term succinctly captures the role of an individual in a workplace setting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "员",
+      "trad": "員",
+      "pinyin": "yuán",
+      "english": "person"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; worker; craft"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我是公司的员工(我是公司的員工)。",
+      "pinyin": "Wǒ shì gōngsī de yuángōng.",
+      "english": "I’m an employee of the company."
+    },
+    {
+      "chinese": "这个公司有很多员工(這個公司有很多員工)。",
+      "pinyin": "Zhège gōngsī yǒu hěn duō yuángōng.",
+      "english": "The company has many employees."
+    }
+  ]
+}

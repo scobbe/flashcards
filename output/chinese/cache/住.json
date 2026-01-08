@@ -1,0 +1,44 @@
+{
+  "simplified": "住",
+  "traditional": "住",
+  "pinyin": "zhù",
+  "english": "to live",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 主(主) (zhǔ, \"main\") = person + phonetic indication -> indicates the action of residing",
+    "interpretation": "The character 住(住) (zhù, \"to live\") is a phono-semantic compound where 亻(亻) signifies a person, and 主(主) contributes the phonetic aspect, indicating a person's primary place of residence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "main"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在北京(我住在北京)。",
+      "pinyin": "Wǒ zhù zài Běijīng.",
+      "english": "I live in Beijing."
+    },
+    {
+      "chinese": "他住在海边(他住在海邊)。",
+      "pinyin": "Tā zhù zài Hǎibiān.",
+      "english": "He lives by the sea."
+    },
+    {
+      "chinese": "我住在北京(我住在北京)，对生活充满热情(對生活充滿熱情)。",
+      "pinyin": "Wǒ zhù zài Běijīng, duì shēnghuó chōngmǎn rèqíng.",
+      "english": "I live in Beijing, and I am passionate about life."
+    }
+  ]
+}

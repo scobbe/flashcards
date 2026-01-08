@@ -1,0 +1,31 @@
+{
+  "simplified": "⺮",
+  "traditional": "竹",
+  "pinyin": "zhú",
+  "english": "bamboo",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two bamboo stalks with leaves -> 者(者) stylized as 竹",
+    "interpretation": "The character 竹(竹) (zhú, \"bamboo\") visually represents two bamboo stalks with leaves, illustrating the plant's distinct features. Over time, its stylization evolved from early forms resembling 个(个) (gè, 'individual') with leaves to the current form resembling ケ(ケ) (\"ke\") with pronounced bamboo segments.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "竹子是一种坚韧的植物(竹子是一種堅韌的植物)。",
+      "pinyin": "Zhúzǐ shì yī zhǒng jiān rèn de zhíwù.",
+      "english": "Bamboo is a resilient plant."
+    },
+    {
+      "chinese": "风吹过竹林时(風吹過竹林時)，发出沙沙的声音(發出沙沙的聲音)。",
+      "pinyin": "Fēng chuīguò zhúlín shí, fāchū shā shā de shēngyīn.",
+      "english": "When the wind blows over the bamboo grove, it produces a rustling sound."
+    },
+    {
+      "chinese": "竹子编成的家具静谧而优美(竹子編成的家具靜謐而優美)。",
+      "pinyin": "Zhúzǐ biānchéng de jiājù jìngmì ér yōuměi.",
+      "english": "Bamboo-crafted furniture is tranquil and elegant."
+    }
+  ]
+}

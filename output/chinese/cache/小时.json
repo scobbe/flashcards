@@ -1,0 +1,44 @@
+{
+  "simplified": "小时",
+  "traditional": "小時",
+  "pinyin": "xiǎoshí",
+  "english": "hour",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 时(時) (shí, \"time\")",
+    "interpretation": "The word 小时(小時) (xiǎoshí, \"hour\") combines 小(小) (xiǎo, \"small\") and 时(時) (shí, \"time\") to denote a 'small unit of time,' which is an 'hour.' This formation reflects the partitioning of time into smaller segments within a day.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young; minor"
+    },
+    {
+      "char": "时",
+      "trad": "時",
+      "pinyin": "shí",
+      "english": "time; hour; season; o'clock"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我工作八个小时(我工作八個小時)。",
+      "pinyin": "Wǒ gōngzuò bā gè xiǎoshí.",
+      "english": "I work eight hours."
+    },
+    {
+      "chinese": "电影持续两个小时(電影持續兩個小時)。",
+      "pinyin": "Diànyǐng chíxù liǎng gè xiǎoshí.",
+      "english": "The movie lasts two hours."
+    },
+    {
+      "chinese": "会议开了三个小时(會議開了三個小時)。",
+      "pinyin": "Huìyì kāile sān gè xiǎoshí.",
+      "english": "The meeting lasted three hours."
+    }
+  ]
+}

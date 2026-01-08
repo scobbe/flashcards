@@ -4,10 +4,10 @@
   "pinyin": "liáng",
   "english": "cool",
   "etymology": {
-    "type": "simplified and variant traditional",
-    "description": "氵(水, \"water\") represents the element of water -> 兩(两) (liǎng, \"two\") phonetic component, indicating similarity to calmness or balance -> final meaning \"cool\"",
-    "interpretation": "The character 凉(涼) (liáng, \"cool\") combines the water radical 氵(水, \"water\") suggesting a cooling effect, with the phonetic component 兩(两), hinting at a balanced or moderate temperature.",
-    "simplification": "Simplified by replacing the phonetic component 兩 with its simpler variant 两 while retaining the original meaning."
+    "type": "phono-semantic compound",
+    "description": "氵(水) (shuǐ, \"water\") + phonetic 京(京) (jīng) = coolness related to water -> 涼",
+    "interpretation": "The character 涼(涼) (liáng, \"cool\") combines the water radical 氵(水) (shuǐ, \"water\") with the phonetic 京(京) (jīng) to convey the idea of coolness or freshness typically associated with water.",
+    "simplification": "涼(涼) was simplified to 凉(涼) by removing the water radical 氵(水) (shuǐ, \"water\") and retaining the phonetic 京(京), thus reducing strokes while maintaining phonetic sound."
   },
   "parts": [
     {
@@ -17,23 +17,28 @@
       "english": "water"
     },
     {
-      "char": "两",
-      "trad": "兩",
-      "pinyin": "liǎng",
-      "english": "two"
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天天气很凉(今天天氣很涼)。",
-      "pinyin": "Jīntiān tiānqì hěn liáng.",
-      "english": "The weather is cool today."
+      "chinese": "夏日午后很凉(夏日午後很涼)。",
+      "pinyin": "Xià rì wǔhòu hěn liáng.",
+      "english": "The summer afternoon is cool."
     },
     {
-      "chinese": "夏日午后虽热(夏日午后雖熱)，室内微风凉(室內微風涼)。",
-      "pinyin": "Xiàrì wǔhòu suī rè, shìnèi wēifēng liáng.",
-      "english": "Although the summer afternoon is hot, the indoor breeze is cool."
+      "chinese": "微风吹过(微風吹過)，带来丝丝凉意(帶來絲絲涼意)。",
+      "pinyin": "Wēifēng chuīguò, dài lái sī sī liáng yì.",
+      "english": "The breeze blows by, bringing a hint of coolness."
+    },
+    {
+      "chinese": "夏夜乘凉(夏夜乘涼)，享受微风(享受微風)。",
+      "pinyin": "Xià yè chéng liáng, xiǎngshòu wēifēng.",
+      "english": "Taking in the coolness of a summer night while enjoying the gentle breeze."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "條",
+  "traditional": "條",
+  "pinyin": "tiáo",
+  "english": "strip",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 攸 (yōu) + semantic 木 (mù, 'wood') = originally indicates a small branch -> later used to mean 'strip' or 'item'",
+    "interpretation": "條(tiáo) combines the phonetic component 攸(yōu) with the semantic component 木(mù, 'wood'), emphasizing its original reference to a slender wooden object, such as a branch. This makes sense as wood naturally forms branch-like strips, which relates to the character's modern meaning of 'strip.'",
+    "simplification": "条(條): The simplified form replaced the phonetic 攸(yōu) with a simpler, variant form focused on ease of writing."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "攸",
+      "trad": "攸",
+      "pinyin": "yōu",
+      "english": "(phonetic element)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她系着一条领带(她繫著一條領帶)。",
+      "pinyin": "Tā xì zhe yī tiáo lǐngdài.",
+      "english": "She is wearing a tie."
+    },
+    {
+      "chinese": "我在路上捡到一条纸条(我在路上撿到一條紙條)。",
+      "pinyin": "Wǒ zài lù shàng jiǎn dào yī tiáo zhǐtiáo.",
+      "english": "I found a note on the street."
+    },
+    {
+      "chinese": "他用一条布条擦车(他用一條布條擦車)。",
+      "pinyin": "Tā yòng yī tiáo bùtiáo cā chē.",
+      "english": "He used a strip of cloth to wipe the car."
+    }
+  ]
+}

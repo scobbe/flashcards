@@ -2,25 +2,14 @@
   "simplified": "丂",
   "traditional": "丂",
   "pinyin": "kǎo",
-  "english": "branch",
+  "english": "breath",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a branch growing horizontally.",
-    "interpretation": "The character 丂(kǎo, \"branch\") visually represents a tree branch extending sideways, an uncommon visual illustrative of nature.",
+    "type": "conflation",
+    "description": "Forms conflated from characters related to 'breath' or emanation",
+    "interpretation": "The character 丂(kǎo, \"breath\") is a conflation of various characters associated with the concept of breath or emanation. It represents an abstract action or concept without clear pictographic origins.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "那根丂在微风中轻轻颤动(那根丂在微風中輕輕顫動)。",
-      "pinyin": "Nà gēn kǎo zài wēifēng zhōng qīngqīng chàn dòng.",
-      "english": "That branch gently trembled in the breeze."
-    },
-    {
-      "chinese": "古树旁伸出一丂(古樹旁伸出一丂)，映衬着斜阳余晖(映襯著斜陽餘暉)。",
-      "pinyin": "Gǔ shù páng shēnchū yī kǎo, yìngchèn zhe xiéyáng yúhuī.",
-      "english": "A branch protruded beside the ancient tree, contrasting with the slanted evening light."
-    }
-  ]
+  "examples": []
 }

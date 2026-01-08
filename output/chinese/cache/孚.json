@@ -5,35 +5,24 @@
   "english": "trust",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "子(子) (zǐ, \"child\") + 父(父) (fù, \"father\") = relationship between father and child -> trust",
-    "interpretation": "The character 孚(fú, \"trust\") originally represents the mutual trust and nurturing relationship between a father and a child. It symbolically expresses the concept of reliability and confidence that arises from such a family bond.",
+    "description": "爪(爪) (zhǎo, \"hand\") + 子(子) (zǐ, \"child\") = to capture a child -> original form of 俘(俘) (fú, \"captive\")",
+    "interpretation": "The character 孚 depicts a 'hand' grasping a 'child,' symbolizing the act of capturing or holding, which aligns with its original use in conveying trust, control, or captivity. It is the original form of 俘, which carries the meaning of taking a captive.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "hand"
+    },
     {
       "char": "子",
       "trad": "子",
       "pinyin": "zǐ",
       "english": "child"
-    },
-    {
-      "char": "父",
-      "trad": "父",
-      "pinyin": "fù",
-      "english": "father"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "诚孚乃立身之本(誠孚乃立身之本)。",
-      "pinyin": "Chéng fú nǎi lìshēn zhī běn.",
-      "english": "Sincere trust is the foundation of one’s character."
-    },
-    {
-      "chinese": "君子重诺(君子重諾)，以孚取人(以孚取人)。",
-      "pinyin": "Jūnzǐ zhòng nuò, yǐ fú qǔ rén.",
-      "english": "A gentleman values his promise and earns people's trust."
-    }
-  ]
+  "examples": []
 }

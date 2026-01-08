@@ -1,0 +1,50 @@
+{
+  "simplified": "自行车",
+  "traditional": "自行車",
+  "pinyin": "zìxíngchē",
+  "english": "bicycle",
+  "etymology": {
+    "type": "compound word",
+    "description": "自(自) (zì, \"self\") + 行(行) (xíng, \"move\") + 车(車) (chē, \"vehicle\") = a vehicle that moves by itself, referring to a bicycle",
+    "interpretation": "自行车(自行車) (zìxíngchē, \"bicycle\") refers to a vehicle that operates using the rider's own power, as in moving oneself along. The combination makes sense as it describes a mode of transportation propelled by the rider's own effort, reflecting the functionality of a bicycle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "自",
+      "trad": "自",
+      "pinyin": "zì",
+      "english": "self"
+    },
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "move; walk; capable; behavior"
+    },
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle; car; cart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢骑自行车(我喜歡騎自行車)。",
+      "pinyin": "Wǒ xǐhuān qí zìxíngchē.",
+      "english": "I like riding a bicycle."
+    },
+    {
+      "chinese": "他打算买自行车(他打算買自行車)，以便上下学(以便上下學)。",
+      "pinyin": "Tā dǎsuàn mǎi zìxíngchē, yǐbiàn shàngxiàxué.",
+      "english": "He plans to buy a bicycle in order to commute to school."
+    },
+    {
+      "chinese": "暑假结束时(暑假結束時)，她骑着自行车回学院(她騎著自行車回學院)。",
+      "pinyin": "Shǔjià jiéshù shí, tā qízhe zìxíngchē huí xuéyuàn.",
+      "english": "When the summer vacation ended, she rode her bicycle back to college."
+    }
+  ]
+}

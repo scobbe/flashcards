@@ -1,0 +1,38 @@
+{
+  "simplified": "午",
+  "traditional": "午",
+  "pinyin": "wǔ",
+  "english": "noon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: Depicts a pestle (modern 杵(杵) (chǔ, \"pestle\")) -> original meaning unrelated to time concepts",
+    "interpretation": "午(午) (wǔ, \"noon\") originally depicted a pestle, but over time it was borrowed for usage in the context of time. Despite its current association with noon, its visual origin is agricultural, related to pounding or grinding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "杵",
+      "trad": "杵",
+      "pinyin": "chǔ",
+      "english": "pestle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中午时分(中午時分)，阳光灿烂(陽光燦爛)。",
+      "pinyin": "Zhōngwǔ shífēn, yángguāng cànlàn.",
+      "english": "At noon, the sunlight is brilliant."
+    },
+    {
+      "chinese": "我在午休中(我在午休中)，享受宁静(享受寧靜)。",
+      "pinyin": "Wǒ zài wǔxiū zhōng, xiǎngshòu níngjìng.",
+      "english": "I enjoy tranquility during my noon break."
+    },
+    {
+      "chinese": "午餐后(午餐後)，公园里热闹非凡(公園裡熱鬧非凡)。",
+      "pinyin": "Wǔcān hòu, gōngyuán lǐ rènào fēifán.",
+      "english": "After lunch, the park is bustling."
+    }
+  ]
+}

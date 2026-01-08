@@ -4,23 +4,36 @@
   "pinyin": "jiān",
   "english": "small",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts two crossed lines representing reduction or smallness",
-    "interpretation": "The character 戋(戔) (jiān, \"small\") visually represents two lines crossing each other, symbolizing something being diminished or reduced, which aligns with its meaning of 'small.'",
-    "simplification": ""
+    "type": "ideogrammic compound",
+    "description": "戈(戈) (gē, \"spear\") + 戈(戈) (gē, \"spear\") facing each other = original form of 殘(殘) (cán, \"to damage; to destroy\") -> one spear turned to same direction -> 戔(戔)",
+    "interpretation": "The character 戔(戔) originally depicted two spears facing each other, symbolizing conflict or destruction, which intuitively linked to the meaning of damage or destruction. Later, one of the spears was oriented in the same direction, refining the visual representation of the concept while retaining the core idea of confrontation leading to damage.",
+    "simplification": "戔(戔) was simplified to 戋(戋) by modifying the character's stroke components to create a more streamlined and cursive form, reducing visual complexity."
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "这个房间太戋(戔)了。",
-      "pinyin": "Zhè ge fángjiān tài jiān le.",
-      "english": "This room is too small."
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
     },
     {
-      "chinese": "他住在戋(戔)房子里(他住在戋(戔)房子里)，过着安静生活(過著安靜生活)。",
-      "pinyin": "Tā zhù zài jiān fángzi lǐ, guò zhe ānjìng shēnghuó.",
-      "english": "He lives in a small house and leads a quiet life."
+      "char": "殘",
+      "trad": "殘",
+      "pinyin": "cán",
+      "english": "to damage; to destroy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那座房屋很戋(那座房屋很戔)。",
+      "pinyin": "Nà zuò fángwū hěn jiān.",
+      "english": "That house is small."
+    },
+    {
+      "chinese": "孩子的手很戋(孩子的手很戔)，动作非常灵巧(動作非常靈巧)。",
+      "pinyin": "Háizi de shǒu hěn jiān, dòngzuò fēicháng língqiǎo.",
+      "english": "The child's hand is small, and his movements are very agile."
     }
   ]
 }

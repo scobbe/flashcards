@@ -1,0 +1,38 @@
+{
+  "simplified": "枣",
+  "traditional": "棗",
+  "pinyin": "zǎo",
+  "english": "jujube (Chinese date fruit)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "朿(朿) (cì, \"thorn\") duplicated = representation of a thorny fruit -> jujube",
+    "interpretation": "棗(棗) captures the essence of the jujube fruit as it is associated with thorns, likely highlighting its tree's thorny branches or protective nature.",
+    "simplification": "棗(棗) simplified by reducing 朿(朿) (cì, \"thorn\") to a simpler form ⺀ in 枣(枣)."
+  },
+  "parts": [
+    {
+      "char": "朿",
+      "trad": "朿",
+      "pinyin": "cì",
+      "english": "thorn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃枣(我喜歡吃棗)。",
+      "pinyin": "Wǒ xǐhuān chī zǎo.",
+      "english": "I like eating jujubes."
+    },
+    {
+      "chinese": "秋天成熟时(秋天成熟時)，树上挂满枣(樹上掛滿棗)。",
+      "pinyin": "Qiūtiān chéngshú shí, shù shàng guà mǎn zǎo.",
+      "english": "When autumn ripens, the trees are laden with jujubes."
+    },
+    {
+      "chinese": "她用枣熬制药膳(她用棗熬製藥膳)。",
+      "pinyin": "Tā yòng zǎo áo zhì yào shàn.",
+      "english": "She uses jujubes to simmer medicinal cuisine."
+    }
+  ]
+}

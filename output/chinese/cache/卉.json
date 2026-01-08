@@ -5,34 +5,40 @@
   "english": "plant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "屮(屮) (chè, \"sprout\") x3 = abundant plant growth -> plants, flowers, vegetation",
-    "interpretation": "The character 卉(卉) (huì, \"plant\") combines three occurrences of 屮(屮) (chè, \"sprout\"), which visually conveys the concept of numerous sprouts or abundant vegetation, emphasizing the idea of plant life flourishing.",
+    "description": "丗(丗) (shì, \"generation\") + 十(十) (shí, \"ten\") = plants growing in a field",
+    "interpretation": "The character 卉(huì, \"plant\") is composed of 丗(丗) (shì, \"generation\") and 十(十) (shí, \"ten\"), symbolizing a multitude of plants sprouting in a field, representing abundance and growth.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "屮",
-      "trad": "屮",
-      "pinyin": "chè",
-      "english": "sprout"
+      "char": "丗",
+      "trad": "丗",
+      "pinyin": "shì",
+      "english": "generation"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座植物园里有丰富的卉(這座植物園裡有豐富的卉)。",
-      "pinyin": "Zhè zuò zhíwùyuán lǐ yǒu fēngfù de huì.",
-      "english": "This botanical garden has abundant plants."
+      "chinese": "花卉争艳(花卉爭艷)。",
+      "pinyin": "Huā huì zhēng yàn.",
+      "english": "The plants compete in beauty."
     },
     {
-      "chinese": "春天来临时(春天來臨時)，各种卉竞相开放(各種卉競相開放)。",
-      "pinyin": "Chūntiān láilín shí, gèzhǒng huì jìngxīang kāifàng.",
-      "english": "When spring arrives, various plants bloom in competition."
+      "chinese": "公园里种满各色卉(公園裡種滿各色卉)，营造了生机勃勃的景象(營造了生機勃勃的景象)。",
+      "pinyin": "Gōngyuán lǐ zhòng mǎn gè sè huì, yíngzào le shēngjī bóbó de jǐngxiàng.",
+      "english": "The park is filled with a variety of plants, creating a vibrant scene."
     },
     {
-      "chinese": "古代文学中常用‘卉’来指代植物(古代文學中常用‘卉’來指代植物)。",
-      "pinyin": "Gǔdài wénxué zhōng cháng yòng ‘huì’ lái zhǐdài zhíwù.",
-      "english": "In ancient literature, '卉' is often used to represent plants."
+      "chinese": "古人赞美卉木(古人讚美卉木)，吟诗咏其秀丽(吟詩詠其秀麗)。",
+      "pinyin": "Gǔrén zànměi huì mù, yín shī yǒng qí xiùlì.",
+      "english": "Ancient scholars praised the flora and composed poems to admire its beauty."
     }
   ]
 }

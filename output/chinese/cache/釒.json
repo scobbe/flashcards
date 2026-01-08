@@ -1,0 +1,50 @@
+{
+  "simplified": "釒",
+  "traditional": "釒",
+  "pinyin": "jīn",
+  "english": "metal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "士(士) (shì, \"upside-down ritual axe\"), 呂(呂) (lǚ, \"two blocks of metal\"), and phonetic 亼(亼) (original form for 今, \"an open mouth flipped upside down\") -> the character represents metal, originally indicative of copper",
+    "interpretation": "The character 釒(釒) (jīn, \"metal\") combines semantic components suggesting material value and the phonetic component for its pronunciation. This reflects the historical use of copper before the advent of bronze, later extended to all metals and specifically gold.",
+    "simplification": "釒(釒) (jīn, \"metal\") is simplified to 钅 by keeping the left component, which acts as a semantic indicator of metal in many characters."
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "upside-down ritual axe"
+    },
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "two blocks of metal"
+    },
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "original form for 今",
+      "english": "an open mouth flipped upside down"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代兵器常用釒(古代兵器常用金)制造(製造)。",
+      "pinyin": "Gǔdài bīngqì cháng yòng jīn zhìzào。",
+      "english": "Ancient weapons were often manufactured using metal."
+    },
+    {
+      "chinese": "博物馆里展示着釒(博物館裡展示著金)锻造的古器(鍛造的古器)，吸引了众多游客(吸引了眾多遊客)。",
+      "pinyin": "Bówùguǎn lǐ zhǎnshì zhe jīn duànzào de gǔ qì, xīyǐn le zhòng duō yóukè。",
+      "english": "The museum displays ancient artifacts forged from metal, attracting numerous visitors."
+    },
+    {
+      "chinese": "这枚戒指由釒(這枚戒指由金)精心打造(精心打造)，闪耀着迷人光彩(閃耀著迷人光彩)。",
+      "pinyin": "Zhè méi jiè zhǐ yóu jīn jīngxīn dǎzào, shǎnyào zhe mírén guāngcǎi。",
+      "english": "This ring is meticulously crafted from metal, shining with enchanting brilliance."
+    }
+  ]
+}

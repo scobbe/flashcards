@@ -1,0 +1,62 @@
+{
+  "simplified": "伤",
+  "traditional": "傷",
+  "pinyin": "shāng",
+  "english": "injury; to hurt",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") + 𥏻(𥏻) (phonetic) = 殳(殳, \"weapon\") + phonetic 昜(昜, \"bright\") -> injury; simplified: 昜(昜) replaced by 力(力, \"strength\")",
+    "interpretation": "Originally, the character combined the meaning of a person with a weapon (phono-semantic), suggesting physical injury. In the simplified form, the phonetic 昜(昜) was replaced by 力(力) to create a visually simpler structure while maintaining the concept of harm.",
+    "simplification": "The original phonetic 昜(昜) was replaced by 力(力), which provided both a simpler structure and an intuitive association with strength and force related to injury."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "𥏻",
+      "trad": "𥏻",
+      "pinyin": "",
+      "english": "phonetic"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    },
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "weapon"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "bright"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这次事故造成了严重的伤(這次事故造成了嚴重的傷)。",
+      "pinyin": "Zhè cì shìgù zàochéng le yánzhòng de shāng.",
+      "english": "This accident caused serious injuries."
+    },
+    {
+      "chinese": "他不小心伤了自己(他不小心傷了自己)，但迅速得到了治疗(但迅速得到了治療)。",
+      "pinyin": "Tā bù xiǎoxīn shāng le zìjǐ, dàn xùnsù dédào le zhìliáo.",
+      "english": "He accidentally injured himself, but he quickly received treatment."
+    },
+    {
+      "chinese": "他的话伤了我的心(他的話傷了我的心)。",
+      "pinyin": "Tā de huà shāng le wǒ de xīn.",
+      "english": "His words hurt my feelings."
+    }
+  ]
+}

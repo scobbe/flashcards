@@ -4,41 +4,41 @@
   "pinyin": "chǐ",
   "english": "tooth",
   "etymology": {
-    "type": "simplified character",
-    "description": "齒(齒) (chǐ, \"tooth\") simplified by removing the central 多(多) (duō, \"many\") component, leaving 歯 + 止(止) (zhǐ, \"stop\") -> simplified form 齿",
-    "interpretation": "The simplification process of 齒(齒) (chǐ, \"tooth\") involved removing the central complexity of the character to streamline writing while retaining the essential imagery related to teeth.",
-    "simplification": "The character 齒(齒) was simplified by removing the middle component 多(多), which was deemed unnecessary for understanding the character's meaning related to 'tooth.'"
+    "type": "phono-semantic compound",
+    "description": "止(止) (zhǐ, \"stop\") as the phonetic component + 龍(龙) (lóng, \"dragon\") originally stylized as teeth = appearance of teeth",
+    "interpretation": "The character 齒(齒) represents 'teeth' by combining the phonetic component 止(止) with 龍(龙) originally stylized to resemble a row of teeth, emphasizing the appearance and function of teeth.",
+    "simplification": "齒(齒) was simplified to 齿(齿) by removing complex strokes in 龍(龙), though it retained the visual reference to teeth."
   },
   "parts": [
-    {
-      "char": "齒",
-      "trad": "齒",
-      "pinyin": "chǐ",
-      "english": "tooth"
-    },
     {
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
       "english": "stop"
+    },
+    {
+      "char": "龍",
+      "trad": "龙",
+      "pinyin": "lóng",
+      "english": "dragon"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生建议刷齿(齒)，勤漱口水(勤漱口水)。",
-      "pinyin": "Yīshēng jiànyì shuā chǐ, qín shù kǒushuǐ。",
-      "english": "The doctor recommends brushing teeth and rinsing the mouth frequently."
+      "chinese": "他的齿(他的齒)洁白如玉(潔白如玉)。",
+      "pinyin": "Tā de chǐ jiébái rú yù.",
+      "english": "His tooth is as white as jade."
     },
     {
-      "chinese": "老虎的齿非常锋利(老虎的齒非常鋒利)。",
-      "pinyin": "Lǎohǔ de chǐ fēicháng fēnglì。",
-      "english": "The tiger's teeth are exceptionally sharp."
+      "chinese": "医生诊断后(醫生診斷後)，建议患者定期检查齿(建議患者定期檢查齒)。",
+      "pinyin": "Yīshēng zhěnduàn hòu, jiànyì huànzhě dìngqī jiǎnchá chǐ.",
+      "english": "After the diagnosis, the doctor advised the patient to have regular tooth examinations."
     },
     {
-      "chinese": "考古学家发现古器上隐约可见的齿痕(考古學家發現古器上隱約可見的齒痕)，推测古代工具的制造工艺(推測古代工具的製造工藝)。",
-      "pinyin": "Kǎogǔ xuéjiā fāxiàn gǔqì shàng yǐnyuē kějiàn de chǐhén, tuīcè gǔdài gōngjù de zhìzào gōngyì。",
-      "english": "Archaeologists discovered faint tooth marks on ancient utensils, suggesting the craftsmanship of ancient tools."
+      "chinese": "晨曦微露时(晨曦微露時)，他的齿闪烁着希望(他的齒閃爍著希望)。",
+      "pinyin": "Chénxī wēilù shí, tā de chǐ shǎnshuò zhe xīwàng.",
+      "english": "In the early morning light, his tooth shimmers with hope."
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "simplified": "银行",
+  "traditional": "銀行",
+  "pinyin": "yínháng",
+  "english": "bank",
+  "etymology": {
+    "type": "compound word",
+    "description": "银(銀) (yín, \"silver\") + 行(行) (háng, \"business\") = place for financial activities",
+    "interpretation": "The word 銀行 (yínháng) literally means a place where transactions involving silver occur, reflecting the historical use of silver as currency. This makes sense as banks are institutions that manage currency and financial transactions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "银",
+      "trad": "銀",
+      "pinyin": "yín",
+      "english": "silver"
+    },
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "háng",
+      "english": "business; row; trade; profession"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我把钱存进了银行(我把錢存進了銀行)。",
+      "pinyin": "Wǒ bǎ qián cún jìnle yínháng.",
+      "english": "I deposited money into the bank."
+    },
+    {
+      "chinese": "我需要取钱(我需要取錢)，所以去了银行(所以去了銀行)。",
+      "pinyin": "Wǒ xūyào qǔ qián, suǒyǐ qùle yínháng.",
+      "english": "I needed to withdraw money, so I went to the bank."
+    }
+  ]
+}

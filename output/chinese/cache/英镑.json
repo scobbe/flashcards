@@ -1,0 +1,39 @@
+{
+  "simplified": "英镑",
+  "traditional": "英鎊",
+  "pinyin": "yīngbàng",
+  "english": "pound sterling",
+  "etymology": {
+    "type": "compound word",
+    "description": "英(英) (yīng, \"England; heroic\") + 镑(鎊) (bàng, \"pound\") = pound sterling.",
+    "interpretation": "The term 英镑(英鎊) (yīngbàng, \"pound sterling\") combines the notion of \"England\" or \"English\" with \"pound,\" referring specifically to the British currency. The choice of 英(英) emphasizes the English origin of this monetary unit, while 镑(鎊) specifies the pound unit itself.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "英",
+      "trad": "英",
+      "pinyin": "yīng",
+      "english": "England; heroic; outstanding"
+    },
+    {
+      "char": "镑",
+      "trad": "鎊",
+      "pinyin": "bàng",
+      "english": "pound; currency"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我花了五十英镑(我花了五十英鎊)。",
+      "pinyin": "Wǒ huā le wǔshí yīngbàng.",
+      "english": "I spent fifty pounds."
+    },
+    {
+      "chinese": "外汇市场波动大(外匯市場波動大)，英镑价值稳定(英鎊價值穩定)。",
+      "pinyin": "Wàihuì shìchǎng bōdòng dà, yīngbàng jiàzhí wěndìng.",
+      "english": "The foreign exchange market fluctuates greatly, but the pound sterling remains stable."
+    }
+  ]
+}

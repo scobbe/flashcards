@@ -1,0 +1,68 @@
+{
+  "simplified": "暴",
+  "traditional": "暴",
+  "pinyin": "bào",
+  "english": "violence",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𫻺 (original form) -> 虎(虎) (hǔ, \"tiger\") + 戈(戈) (gē, \"weapon\") = violence -> 㬥 derived (日(日), 共共) = sun exposure -> rice 米 added, plant stylized -> stylized 水 (unrelated) -> final form 暴",
+    "interpretation": "The character 暴 originated from the combination of 虎(虎) (hǔ, \"tiger\") and 戈(戈) (gē, \"weapon\"), symbolizing violence. However, it was later represented phonetically by 㬥 (日(日), 共共), indicating exposure to the sun with hands lifting a plant. The addition of 米 (mǐ, \"rice\") emphasized sun-drying, and ultimately, the character evolved to 暴, losing visible plant elements. The character retains meanings related to exposure and violence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "虎",
+      "trad": "虎",
+      "pinyin": "hǔ",
+      "english": "tiger"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "weapon"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "hands lifting an object"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他以暴制暴(他以暴制暴)。",
+      "pinyin": "Tā yǐ bào zhì bào.",
+      "english": "He fought fire with fire."
+    },
+    {
+      "chinese": "在示威游行中(在示威遊行中)，警方遭遇到了暴力抗议(警方遭遇到了暴力抗議)。",
+      "pinyin": "Zài shìwēi yóuxíng zhōng, jǐngfāng zāoyù dàole bàolì kàngyì.",
+      "english": "During the protest march, the police encountered violent demonstrations."
+    },
+    {
+      "chinese": "这部电影揭示了历史上的暴行真相(這部電影揭示了歷史上的暴行真相)。",
+      "pinyin": "Zhè bù diànyǐng jiēshìle lìshǐ shàng de bàoxíng zhēnxiàng.",
+      "english": "This movie reveals the truth behind historical atrocities."
+    }
+  ]
+}

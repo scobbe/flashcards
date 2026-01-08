@@ -1,0 +1,45 @@
+{
+  "simplified": "臧",
+  "traditional": "臧",
+  "pinyin": "zāng",
+  "english": "to store",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "臣(臣) (chén, \"eye\") + 戈(戈) (gē, \"spear/weapon\") = prisoner of war with blinded eyes -> later 爿(爿) (pán) added for phonetic value -> final form 臧",
+    "interpretation": "Initially, 臧 depicted a slave or prisoner of war, with the components representing visually inhibited individuals (臣) controlled by force (戈). The character evolved to include a phonetic component 爿, suggesting an additional layer of meaning or a phonetic shift over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臣",
+      "trad": "臣",
+      "pinyin": "chén",
+      "english": "eye"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear/weapon"
+    },
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "silk panel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他将粮食臧在仓库中(他將糧食臧在倉庫中)。",
+      "pinyin": "Tā jiāng liángshí zāng zài cāngkù zhōng.",
+      "english": "He stores the grain in the warehouse."
+    },
+    {
+      "chinese": "工人先清点物资(工人先清點物資)，后将工具臧于仓房(后將工具臧於倉房)。",
+      "pinyin": "Gōngrén xiān qīngdiǎn wùzī, hòu jiāng gōngjù zāng yú cāngfáng.",
+      "english": "The workers first count the supplies, then store the tools in the warehouse."
+    }
+  ]
+}

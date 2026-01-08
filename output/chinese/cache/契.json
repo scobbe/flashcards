@@ -1,0 +1,44 @@
+{
+  "simplified": "契",
+  "traditional": "契",
+  "pinyin": "qì",
+  "english": "contract",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 㓞(㓞) (qià, \"to engrave\") + Semantic: 大(大) (dà, \"person\") = person making an agreement and/or carving -> \"contract\"",
+    "interpretation": "The character 契(qì, \"contract\") combines the phonetic element 㓞(㓞) (qià, \"to engrave\") with the semantic component 大(大) (dà, \"person\"), suggesting an action of engraving or making an agreement, which aligns with its meaning of \"contract.\" This implies a formalized action, akin to making a definitive mark or agreement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㓞",
+      "trad": "㓞",
+      "pinyin": "qià",
+      "english": "to engrave"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司与合伙人签订了合作契(公司與合夥人簽訂了合作契)。",
+      "pinyin": "Gōngsī yǔ héhuǒrén qiāndìngle hézuò qì.",
+      "english": "The company and its partner signed a cooperation contract."
+    },
+    {
+      "chinese": "他认真审阅了契条款(他認真審閱了契條款)，以确保风险可控(以確保風險可控)。",
+      "pinyin": "Tā rènzhēn shěnyuèle qì tiáokuǎn, yǐ quèbǎo fēngxiǎn kěkòng.",
+      "english": "He carefully reviewed the contract terms to ensure the risks are under control."
+    },
+    {
+      "chinese": "租户与房东签订了租房契(租戶與房東簽訂了租房契)。",
+      "pinyin": "Zūhù yǔ fángdōng qiāndìngle zūfáng qì.",
+      "english": "The tenant and the landlord signed a rental contract."
+    }
+  ]
+}

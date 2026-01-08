@@ -5,8 +5,8 @@
   "english": "phonetic component in 然",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "肉(肉) (ròu, \"meat\") + 犬(犬) (quǎn, \"dog\") = meat and dog together -> used as phonetic component in 然(然) (rán, \"so\")",
-    "interpretation": "The character 肰(rán) combines 肉(肉) (ròu, \"meat\") and 犬(犬) (quǎn, \"dog\") to represent meat associated with a dog, perhaps symbolizing the complexities of early human-dog relationships or consumption patterns. It primarily functions as a phonetic component in the character 然(然) (rán, \"so\").",
+    "description": "肉(肉) (ròu, \"meat\") + 犬(犬) (quǎn, \"dog\") = combination indicating an object related to dogs and meat",
+    "interpretation": "The character 肰 combines the components for \"meat\" and \"dog\" to convey a meaning associated with dogs and meat, possibly indicating consumption or involvement of meat with dogs historically.",
     "simplification": ""
   },
   "parts": [
@@ -24,21 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "学者研究古汉字(學者研究古漢字)，发现‘然’结构中包含肰(發現‘然’結構中包含肰)。",
-      "pinyin": "xuézhě yánjiū gǔ hànzì, fāxiàn 'rán' jiégòu zhōng bāohán rán.",
-      "english": "Scholars study ancient Chinese characters, discovering that the structure of 'rán' contains its phonetic component."
-    },
-    {
-      "chinese": "肰是‘然’的形旁构件(肰是‘然’的形旁構件)。",
-      "pinyin": "rán shì 'rán' de xíngpáng gòujiàn.",
-      "english": "'rán' is the phonetic radical component in 'rán'."
-    },
-    {
-      "chinese": "宋代字典中记载‘然’含肰表音(宋代字典中記載‘然’含肰表音)，显其声旁作用(顯其聲旁作用)。",
-      "pinyin": "sòngdài zìdiǎn zhōng jìzǎi 'rán' hán rán biǎoyīn, xiǎn qí shēngpáng zuòyòng.",
-      "english": "A Song dynasty dictionary records that 'rán' includes the phonetic element rán, demonstrating its role as a sound indicator."
-    }
-  ]
+  "examples": []
 }

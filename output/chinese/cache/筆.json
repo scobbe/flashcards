@@ -1,0 +1,44 @@
+{
+  "simplified": "筆",
+  "traditional": "筆",
+  "pinyin": "bǐ",
+  "english": "writing brush",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, \"bamboo\") + 聿(聿) (yù, \"writing brush\") = bamboo combined with writing implement -> writing brush",
+    "interpretation": "The character 筆(bǐ, \"writing brush\") combines 竹(竹) (zhú, \"bamboo\") to represent the primary material used in making traditional writing brushes, with 聿(聿) (yù, \"writing brush\") as the phonetic component. This composition highlights the creation of a writing tool from bamboo.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "writing brush"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这支筆写得真好(這支筆寫得真好)。",
+      "pinyin": "Zhè zhī bǐ xiě de zhēn hǎo.",
+      "english": "This writing brush writes very well."
+    },
+    {
+      "chinese": "我用筆畫了一幅山水畫(我用筆畫了一幅山水畫)，表达了我对自然的热爱(表達了我對自然的熱愛)。",
+      "pinyin": "Wǒ yòng bǐ huà le yī fú shānshuǐ huà, biǎodále wǒ duì zìrán de rè'ài.",
+      "english": "I painted a landscape using the writing brush, expressing my love for nature."
+    },
+    {
+      "chinese": "老书房里保存着一支古老的筆(老書房裡保存著一支古老的筆)。",
+      "pinyin": "Lǎo shūfáng lǐ bǎocún zhe yī zhī gǔlǎo de bǐ.",
+      "english": "An ancient writing brush is preserved in the old study."
+    }
+  ]
+}

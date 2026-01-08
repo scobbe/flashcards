@@ -5,22 +5,24 @@
   "english": "phonetic",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a spindle",
-    "interpretation": "The character 叀(叀) (zhuān, \"phonetic\") originally depicted a spindle, capturing the form of a tool used for spinning thread.",
+    "description": "Depicts a spindle -> Original form of 專(專) (zhuān, \"specialized\") and 惠(惠) (huì, \"favor\")",
+    "interpretation": "The character 叀 originally depicted a spindle, which symbolizes the spinning process. This imagery was then borrowed and adapted into the characters 專(專) (zhuān, \"specialized\") and 惠(惠) (huì, \"favor\"), but 叀 itself remains as the pictographic representation.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "学者研究叀的音义(學者研究叀的音義)。",
-      "pinyin": "Xuézhě yánjiū zhuān de yīnyì.",
-      "english": "Scholars study the phonetic meaning of 叀."
+      "char": "專",
+      "trad": "專",
+      "pinyin": "zhuān",
+      "english": "specialized"
     },
     {
-      "chinese": "书法中常用叀表达音韵(書法中常用叀表達音韻)，显示其独特魅力(顯示其獨特魅力)。",
-      "pinyin": "Shūfǎ zhōng chángyòng zhuān biǎodá yīnyùn, xiǎnshì qí dútè mèilì.",
-      "english": "In calligraphy, 叀 is often used to express phonetics, showcasing its unique charm."
+      "char": "惠",
+      "trad": "惠",
+      "pinyin": "huì",
+      "english": "favor"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

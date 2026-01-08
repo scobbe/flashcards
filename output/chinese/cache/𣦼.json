@@ -4,9 +4,9 @@
   "pinyin": "cán",
   "english": "phonetic component",
   "etymology": {
-    "type": "variant form",
-    "description": "𣦼 (cán, \"phonetic component\") is a variant form of 𣦻 (cán, \"phonetic component\").",
-    "interpretation": "This character 𣦼 (cán, \"phonetic component\") is historically used as an alternative representation of 𣦻 (cán, \"phonetic component\"), likely sharing its phonetic value.",
+    "type": "variant form of 𣦻",
+    "description": "𣦼 is a variant form of 𣦻",
+    "interpretation": "𣦼 is used as a variant of 𣦻, sharing the same function as a phonetic component, though it may appear differently in specific contexts or scripts.",
     "simplification": ""
   },
   "parts": [
@@ -18,16 +18,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "这个汉字包含𣦼(𣦼)，表明其发音规律(表明其發音規律)。",
-      "pinyin": "Zhè gè hànzì bāohán cán, biǎomíng qí fāyīn guīlǜ.",
-      "english": "This Chinese character includes 𣦼 as a phonetic component, indicating its pronunciation pattern."
-    },
-    {
-      "chinese": "学者研究了𣦼(𣦼)，揭示了汉字构造之谜(揭示了漢字構造之謎)。",
-      "pinyin": "Xuézhě yánjiū le cán, jiēshì le hànzì gòuzào zhī mí.",
-      "english": "Scholars studied 𣦼 and uncovered the mystery of Chinese character composition."
-    }
-  ]
+  "examples": []
 }

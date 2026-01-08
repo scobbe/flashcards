@@ -5,40 +5,11 @@
   "english": "old",
   "etymology": {
     "type": "pictogram",
-    "description": "A bent-over figure with long hair, an old man, as component of 老(老) (lǎo, 'old') and 孝(孝) (xiào, 'filial piety')",
-    "interpretation": "This character depicts an elderly person with long hair, symbolizing age, and is used as a component to indicate 'old'. The image of a bent figure emphasizes the physical traits associated with aging.",
+    "description": "Depicts a bent-over figure with long hair, representing an old man",
+    "interpretation": "The character represents an elderly person, depicted as a bent-over figure with long hair. This visual representation conveys the concept of old age through the physical attributes typically associated with elderly individuals.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "老",
-      "trad": "老",
-      "pinyin": "lǎo",
-      "english": "old"
-    },
-    {
-      "char": "孝",
-      "trad": "孝",
-      "pinyin": "xiào",
-      "english": "filial piety"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "那位⺹先生(那位⺹先生)，智慧过人(智慧過人)。",
-      "pinyin": "Nà wèi lǎo xiānshēng, zhìhuì guòrén.",
-      "english": "That old gentleman is extremely wise."
-    },
-    {
-      "chinese": "我的⺹朋友(我的⺹朋友)，总爱分享旧日趣事(總愛分享舊日趣事)。",
-      "pinyin": "Wǒ de lǎo péngyǒu, zǒng ài fēnxiǎng jiùrì qùshì.",
-      "english": "My old friend always loves to share stories of the past."
-    },
-    {
-      "chinese": "他收藏的⺹物品(他收藏的⺹物品)，充满岁月痕迹(充滿歲月痕跡)。",
-      "pinyin": "Tā shōucáng de lǎo wùpǐn, chōngmǎn suìyuè hénjì.",
-      "english": "The old items he collects are full of traces of time."
-    }
-  ]
+  "examples": []
 }

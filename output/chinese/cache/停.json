@@ -1,0 +1,44 @@
+{
+  "simplified": "停",
+  "traditional": "停",
+  "pinyin": "tíng",
+  "english": "to stop; to park",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 亻(亻) (rén, \"person\") + Phonetic 亭(亭) (tíng, \"pavilion\") -> associated with a place where people stop or rest -> \"to stop; to park\"",
+    "interpretation": "The character 停(tíng) combines the person radical 亻(亻) to show that stopping is an action related to humans, with the phonetic component 亭(亭) to provide pronunciation. The meaning evolves from a person staying or pausing, similar to resting in a pavilion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "亭",
+      "trad": "亭",
+      "pinyin": "tíng",
+      "english": "pavilion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "车子停在路旁边(車子停在路旁邊)。",
+      "pinyin": "Chēzǐ tíng zài lù pángbiān.",
+      "english": "The car stopped by the roadside."
+    },
+    {
+      "chinese": "司机停车时(司機停車時)，调整方向后再出发(調整方向後再出發)。",
+      "pinyin": "Sījī tíngchē shí, tiáozhěng fāngxiàng hòu zài chūfā.",
+      "english": "The driver, after parking, adjusted the steering before setting off again."
+    },
+    {
+      "chinese": "因为大雪(因為大雪)，学校停课(學校停課)。",
+      "pinyin": "Yīnwèi dàxuě, xuéxiào tíngkè.",
+      "english": "Due to heavy snow, school classes were canceled."
+    }
+  ]
+}

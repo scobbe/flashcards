@@ -1,0 +1,39 @@
+{
+  "simplified": "菜单",
+  "traditional": "菜單",
+  "pinyin": "càidān",
+  "english": "menu",
+  "etymology": {
+    "type": "compound word",
+    "description": "菜(菜) (cài, \"vegetable; dish\") + 单(單) (dān, \"list\") = 菜單(菜单) (càidān, \"menu\")",
+    "interpretation": "The word 菜單(菜单) (càidān) combines 菜(菜) (cài, \"vegetable; dish\") which refers to food or dishes, and 单(單) (dān, \"list\") indicating a list or record. Together, it logically refers to a list of dishes, or a menu. This reflects the exact purpose of a menu as it provides a list of dishes available to choose from.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish"
+    },
+    {
+      "char": "单",
+      "trad": "單",
+      "pinyin": "dān",
+      "english": "list"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请给我看菜单(請給我看菜單)，我想点一道菜(我想點一道菜)。",
+      "pinyin": "Qǐng gěi wǒ kàn càidān, wǒ xiǎng diǎn yī dào cài.",
+      "english": "Please show me the menu, I want to order a dish."
+    },
+    {
+      "chinese": "这里的菜单很丰富(這裡的菜單很豐富)。",
+      "pinyin": "Zhèlǐ de càidān hěn fēngfù.",
+      "english": "The menu here is very diverse."
+    }
+  ]
+}

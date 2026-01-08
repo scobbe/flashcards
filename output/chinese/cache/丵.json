@@ -4,9 +4,9 @@
   "pinyin": "zhuó",
   "english": "tool for digging",
   "etymology": {
-    "type": "Pictogram",
-    "description": "Derived from 辛(辛) (xīn, \"bitter\" or \"difficult\"), depicting a chisel tool",
-    "interpretation": "The character 丵(zhuó, \"tool for digging\") represents a chisel or tool used for digging and cutting. It has evolved directly from 辛(辛) through its visual depiction.",
+    "type": "pictogram",
+    "description": "Depicts 辛(辛) (xīn, \"chisel tool\") -> stylized as a tool for digging",
+    "interpretation": "The character 丵 is a pictogram derived from 辛(辛) (xīn, \"chisel tool\"), which represents an ancient digging tool. It visually conveys its intended meaning related to tools used in agriculture or construction.",
     "simplification": ""
   },
   "parts": [
@@ -14,25 +14,9 @@
       "char": "辛",
       "trad": "辛",
       "pinyin": "xīn",
-      "english": "bitter"
+      "english": "chisel tool"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "农夫拿起丵(農夫拿起丵)，开始在土里挖坑(開始在土裡挖坑)。",
-      "pinyin": "Nóng fū ná qǐ zhuó, kāishǐ zài tǔ lǐ wā kēng.",
-      "english": "The farmer picked up the digging tool and began to dig a pit in the soil."
-    },
-    {
-      "chinese": "建筑工人手持丵(建築工人手持丵)，在工地上认真挖掘基坑(在工地上認真挖掘基坑)。",
-      "pinyin": "Jiànzhú gōngrén shǒuchí zhuó, zài gōngdì shàng rènzhēn wājué jīkēn.",
-      "english": "The construction worker held the digging tool firmly and excavated the foundation pit at the site."
-    },
-    {
-      "chinese": "孩子在院子里用丵(孩子在院子裡用丵)，挖出了一个秘密地道(挖出了一個秘密地道)。",
-      "pinyin": "Háizi zài yuànzi lǐ yòng zhuó, wā chūle yī gè mìmì dìdào.",
-      "english": "The child used the digging tool in the yard and dug out a secret tunnel."
-    }
-  ]
+  "examples": []
 }

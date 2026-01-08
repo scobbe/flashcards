@@ -5,40 +5,40 @@
   "english": "bag",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Oracle bone script depicted a bag with a bottom -> evolved into phono-semantic with 石(石) (shí, 'stone') as phonetic + 𣒚(𣒚) (tuó, 'bag with a bottom') as semantic",
-    "interpretation": "Originally depicted as a simple image of a bag, the character later adopted 石(石) (shí, 'stone') for phonetic guidance while maintaining the concept of a bag through 𣒚(𣒚) ('bag with a bottom'), highlighting the character's evolution.",
+    "description": "𣒚 (depicts a bag with a bottom) + 石(石) (shí, 'stone') as phonetic = bag-like object -> concept of 'bag'",
+    "interpretation": "The character 橐 combines the semantic element 𣒚, which originally depicted a bag with a distinct bottom, with 石(石) (shí, 'stone') to convey the sound. The character represents the concept of a 'bag' by visually incorporating the shape of a bag and using 石(石) to aid pronunciation.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "𣒚",
+      "trad": "𣒚",
+      "pinyin": "n/a",
+      "english": "bag with a bottom"
+    },
     {
       "char": "石",
       "trad": "石",
       "pinyin": "shí",
       "english": "stone"
-    },
-    {
-      "char": "𣒚",
-      "trad": "𣒚",
-      "pinyin": "tuó",
-      "english": "bag with a bottom"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他准备了一个橐(他準備了一個橐)。",
-      "pinyin": "Tā zhǔnbèi le yī gè tuó.",
-      "english": "He prepared a bag."
+      "chinese": "他把珍贵的卷轴放进橐里(他把珍貴的卷軸放進橐裡)。",
+      "pinyin": "tā bǎ zhēnguì de juǎnzhóu fàng jìn tuó lǐ.",
+      "english": "He put the precious scroll into the bag."
     },
     {
-      "chinese": "老人从橐中取出零钱(老人從橐中取出零錢)，细数着几枚古钱(細數著幾枚古錢)。",
-      "pinyin": "Lǎorén cóng tuó zhōng qǔchū língqián, xì shǔ zhe jǐ méi gǔqián.",
-      "english": "The old man took out some change from the bag and carefully counted a few ancient coins."
+      "chinese": "晋朝文人描绘官员携橐归来(晉朝文人描繪官員攜橐歸來)。",
+      "pinyin": "jìn cháo wénrén miáohuì guānyuán xié tuó guī lái.",
+      "english": "Literati from the Jin Dynasty depicted officials returning with the bag."
     },
     {
-      "chinese": "侠客背着橐行走天下(俠客背著橐行走天下)，江湖传闻不断(江湖傳聞不斷)。",
-      "pinyin": "Xiákè bèi zhe tuó xíngzǒu tiānxià, jiānghú chuánwén bùduàn.",
-      "english": "The chivalrous hero roamed the world with a bag, and legends in the martial world kept spreading."
+      "chinese": "他的小橐装满了长江水(他的小橐裝滿了長江水)，激起了浪花(激起了浪花)。",
+      "pinyin": "tā de xiǎo tuó zhuāng mǎn le chángjiāng shuǐ, jī qǐ le lànghuā.",
+      "english": "His small bag was filled with water from the Yangtze, splashing into waves."
     }
   ]
 }

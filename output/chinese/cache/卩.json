@@ -5,22 +5,27 @@
   "english": "kneeling person",
   "etymology": {
     "type": "pictogram",
-    "description": "Pictogram: represents a kneeling person from a side view",
-    "interpretation": "The character 卩(卩) (jié, \"kneeling person\") visually depicts someone kneeling, highlighting the physical posture. It is distinct and unrelated to other characters like 欠(欠) (qiàn, \"owe\") and 女(女) (nǚ, \"woman\") despite similar appearances.",
+    "description": "Depicts a kneeling person from sideview",
+    "interpretation": "The character 卩(卩) (jié, \"kneeling person\") is a simple pictogram showing the silhouette of a person kneeling. It is unrelated to other kneeling or similar figures in different contexts such as 欠(欠) (qiàn, \"yawn\") where the mouth is open, or 女(女) (nǚ, \"woman\") where the figure represents a female. Its form is solely based on the posture of kneeling.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在祭祀仪式中(在祭祀儀式中)，卩虔诚跪拜(卩虔誠跪拜)。",
-      "pinyin": "Zài jìsì yíshì zhōng, jié qiánchéng guìbài.",
-      "english": "During the ritual, the kneeling person prayed devoutly."
+      "chinese": "那位卩正虔诚祈祷(那位卩正虔誠祈禱)。",
+      "pinyin": "Nà wèi jié zhèng qiánchéng qídǎo.",
+      "english": "That kneeling person is praying devoutly."
     },
     {
-      "chinese": "古代绘画多描绘卩风姿(古代繪畫多描繪卩風姿)。",
-      "pinyin": "Gǔdài huìhuà duō miáohuì jié fēngzī.",
-      "english": "Ancient paintings often depict the posture of a kneeling person."
+      "chinese": "礼仪师指出(禮儀師指出)，卩代表谦卑与敬意(卩代表謙卑與敬意)。",
+      "pinyin": "Lǐyí shī zhǐchū, jié dàibiǎo qiānbēi yǔ jìngyì.",
+      "english": "The ritual master pointed out that the kneeling person represents humility and respect."
+    },
+    {
+      "chinese": "在庄严仪式中(在莊嚴儀式中)，卩象征着内心的虔敬(卩象徵著內心的虔敬)。",
+      "pinyin": "Zài zhuāngyán yíshì zhōng, jié xiàngzhēngzhe nèixīn de qiánjìng.",
+      "english": "In the solemn ceremony, the kneeling figure symbolizes inner devotion."
     }
   ]
 }

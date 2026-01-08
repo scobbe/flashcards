@@ -1,0 +1,57 @@
+{
+  "simplified": "卢",
+  "traditional": "盧",
+  "pinyin": "lú",
+  "english": "hut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Pictogram of an oven -> phonetic 虍 (hū, \"tiger\") added + semantic 田 (\"oven\") + semantic 皿 (\"vessel\") = shaped oven character -> simplified to 卢 (lú) in cursive script",
+    "interpretation": "The character originally depicted an oven, which was represented in bronze inscriptions with 虍 (hū, \"tiger\") for phonetic value and both 田 and 皿 indicating cooking or containment. It was later simplified to 卢 (lú) in cursive script, while its original meaning shifted to be represented by 爐.",
+    "simplification": "卢 is a cursive shorthand of 盧 (lú), adopting a simpler form while retaining phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "盧",
+      "trad": "盧",
+      "pinyin": "lú",
+      "english": "hut"
+    },
+    {
+      "char": "虍",
+      "trad": "虍",
+      "pinyin": "hū",
+      "english": "tiger"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "vessel"
+    },
+    {
+      "char": "爐",
+      "trad": "爐",
+      "pinyin": "lú",
+      "english": "oven"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在破旧的卢(我住在破舊的卢)。",
+      "pinyin": "Wǒ zhù zài pòjiù de lú.",
+      "english": "I live in a dilapidated hut."
+    },
+    {
+      "chinese": "夜深人静时(夜深人靜時)，小卢散发着温暖的光芒(小卢散發著溫暖的光芒)。",
+      "pinyin": "Yè shēn rén jìng shí, xiǎo lú sànfā zhe wēnnuǎn de guāngmáng.",
+      "english": "When the night is deep and quiet, the little hut exudes a warm glow."
+    }
+  ]
+}

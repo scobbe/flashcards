@@ -1,0 +1,44 @@
+{
+  "simplified": "第",
+  "traditional": "第",
+  "pinyin": "dì",
+  "english": "for ordinal numbers",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𥫗(𥫗) (zhú, \"bamboo\") + 弟(弟) (dì) = bamboo strips used for writing -> order/sequencing concept",
+    "interpretation": "The character 第(dì) combines the semantic element 𥫗(𥫗) (zhú, \"bamboo\") with the phonetic element 弟(弟) (dì). Bamboo was historically used for writing documents, such as lists or sequences, which informs the idea of ordering denoted by 第(dì).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𥫗",
+      "trad": "𥫗",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "弟",
+      "trad": "弟",
+      "pinyin": "dì",
+      "english": "younger brother"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在第二医院(我在第二醫院)工作，每天接待第一批病人(每天接待第一批病人)。",
+      "pinyin": "Wǒ zài dì èr yīyuàn gōngzuò, měitiān jiēdài dì yī pī bìngrén.",
+      "english": "I work at the Second Hospital and every day I receive the first group of patients."
+    },
+    {
+      "chinese": "今天老师讲解第二十五课(今天老師講解第二十五課)，布置第十二个作业(佈置第十二個作業)。",
+      "pinyin": "Jīntiān lǎoshī jiǎngjiě dì èr shí wǔ kè, bùzhì dì shí èr gè zuòyè.",
+      "english": "Today the teacher explained the 25th lesson and assigned the 12th homework."
+    },
+    {
+      "chinese": "比赛中(比賽中)，他拿到第一名(他拿到第一名)。",
+      "pinyin": "Bǐsài zhōng, tā ná dào dì yī míng.",
+      "english": "During the competition, he won first place."
+    }
+  ]
+}

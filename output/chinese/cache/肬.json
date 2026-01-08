@@ -1,0 +1,44 @@
+{
+  "simplified": "肬",
+  "traditional": "瘀",
+  "pinyin": "yóu",
+  "english": "callus",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "疒(疒) (nì, \"disease\") + 尤(尤) (yóu, phonetic) = semantic 'disease' with phonetic component -> callus",
+    "interpretation": "The character combines 疒(疒) (nì, \"disease\"), indicating a medical condition or discomfort, with 尤(尤) (yóu) for its phonetic contribution. This combination suggests a disease-related condition, specifically a callus.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疒",
+      "trad": "疒",
+      "pinyin": "nì",
+      "english": "disease"
+    },
+    {
+      "char": "尤",
+      "trad": "尤",
+      "pinyin": "yóu",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "长时间站立容易在脚上生出肬(肬)，引起不适(引起不適)。",
+      "pinyin": "Cháng shíjiān zhànlì róngyì zài jiǎo shàng shēng chū yóu, yǐnqǐ bùshì.",
+      "english": "Standing for long periods can easily cause calluses on the feet, leading to discomfort."
+    },
+    {
+      "chinese": "经过多次摩擦后，他的手上也出现了肬(肬)，成为劳累的标志(成為勞累的標誌)。",
+      "pinyin": "Jīngguò duō cì mócā hòu, tā de shǒu shàng yě chūxiàn le yóu, chéngwéi láolèi de biāozhì.",
+      "english": "After repeated friction, calluses appeared on his hands as a sign of fatigue."
+    },
+    {
+      "chinese": "长期劳动可能导致手部出现肬(肬)。",
+      "pinyin": "Chángqí láodòng kěnéng dǎozhì shǒubù chūxiàn yóu.",
+      "english": "Long-term labor may cause calluses to form on the hands."
+    }
+  ]
+}

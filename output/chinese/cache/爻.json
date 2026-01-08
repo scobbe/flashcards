@@ -2,30 +2,37 @@
   "simplified": "爻",
   "traditional": "爻",
   "pinyin": "yáo",
-  "english": "false, change",
+  "english": "divination lines",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two intersecting lines, often used to represent change or transformation.",
-    "interpretation": "The character 爻(爻) (yáo, \"false, change\") depicts intersecting lines, symbolizing the concept of crossing and transformation as seen in the Yijing or Book of Changes.",
+    "description": "乂(乂) (yì, \"to govern\") + 乂(乂) = two stacked 'X' marks representing divination lines",
+    "interpretation": "The character 爻(yáo, \"divination lines\") depicts two crossing lines, resembling 'X' marks, symbolizing the divination lines used in traditional methods. These marks can be interpreted as representing either pairs of yarrow stalks used for divination or bamboo slips used for calculations. Though it might visually resemble 交(交) (jiāo, \"cross\") or 駁(駁) (bó, \"contradict\"), its primary function is depicting the meaningful crossing patterns in divination.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "乂",
+      "trad": "乂",
+      "pinyin": "yì",
+      "english": "to govern"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在卜筮中(在卜筮中)，爻代表着变化的可能性(爻代表著變化的可能性)。",
-      "pinyin": "Zài bǔ shì zhōng, yáo dài biǎo zhe biàn huà de kě néng xìng.",
-      "english": "In divination, the yao represents the potential for change."
+      "chinese": "易经卜卦时(易經卜卦時)，观察爻的变化(觀察爻的變化)。",
+      "pinyin": "Yì jīng bǔ guà shí, guānchá yáo de biànhuà.",
+      "english": "When consulting the I Ching, one observes the changes of the divination lines."
     },
     {
-      "chinese": "他研究易经爻辞(他研究易經爻辭)，探讨虚实界限(探討虛實界限)。",
-      "pinyin": "Tā yán jiū Yì jīng yáo cí, tàn tǎo xū shí jiè xiàn.",
-      "english": "He studies the yao texts of the I Ching and explores the boundary between reality and illusion."
+      "chinese": "卦中的每一个爻都蕴含宇宙奥秘(卦中的每一個爻都蘊含宇宙奧秘)。",
+      "pinyin": "Guà zhōng de měi yīgè yáo dōu yùnhán yǔzhòu àomì.",
+      "english": "Every divination line in the hexagram contains the mysteries of the universe."
     },
     {
-      "chinese": "爻的变化反映天命(爻的變化反映天命)。",
-      "pinyin": "Yáo de biàn huà fǎn yìng tiān mìng.",
-      "english": "The change of the yao reflects destiny."
+      "chinese": "大师解读时(大師解讀時)，详细说明爻的象征意义(詳細說明爻的象徵意義)。",
+      "pinyin": "Dàshī jiědú shí, xiángxì shuōmíng yáo de xiàngzhēng yìyì.",
+      "english": "When the master interprets, he elaborates on the symbolic meaning of the divination lines."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "注意",
+  "traditional": "注意",
+  "pinyin": "zhùyì",
+  "english": "to pay attention to",
+  "etymology": {
+    "type": "compound word",
+    "description": "注(注) (zhù, \"concentrate; pour\") + 意(意) (yì, \"meaning; idea\") = concentrate one's meaning -> to pay attention",
+    "interpretation": "In Chinese, 注(注) (zhù, \"concentrate; pour\") suggests focusing or directing one's mental energy, while 意(意) (yì, \"meaning; idea\") refers to one's mind or thoughts. Together, 注意(注意) (zhùyì, \"pay attention\") means to concentrate one's thoughts or mind on a particular subject, implying careful consideration or focus.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "注",
+      "trad": "注",
+      "pinyin": "zhù",
+      "english": "concentrate; pour"
+    },
+    {
+      "char": "意",
+      "trad": "意",
+      "pinyin": "yì",
+      "english": "meaning; idea"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我没有注意(我沒有注意)，窗外下雪了(窗外下雪了)。",
+      "pinyin": "Wǒ méiyǒu zhùyì, chuāngwài xiàxuě le.",
+      "english": "I didn't pay attention, and it started snowing outside."
+    },
+    {
+      "chinese": "写作时请注意语法(寫作時請注意語法)，会让表达更清楚(會讓表達更清楚)。",
+      "pinyin": "Xiězuò shí qǐng zhùyì yǔfǎ, huì ràng biǎodá gèng qīngxī.",
+      "english": "Please pay attention to grammar when writing; it will make your expression clearer."
+    },
+    {
+      "chinese": "上课时注意听(上課時注意聽)，注意看黑板(注意看黑板)。",
+      "pinyin": "Shàngkè shí zhùyì tīng, zhùyì kàn hēibǎn.",
+      "english": "During class, pay attention to listening and look at the blackboard."
+    }
+  ]
+}

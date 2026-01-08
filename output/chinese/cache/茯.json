@@ -5,8 +5,8 @@
   "english": "poria root",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"plant\") + 伏(伏) (fú, phonetic) = plant related to the phonetic fú -> refers to poria root, a medicinal fungus",
-    "interpretation": "The character 茯(fú) combines 艹(艹) (cǎo, \"plant\") indicating it relates to a type of plant, with 伏(伏) (fú) providing the sound component. This points to a plant whose phonetic sounds like fú, specifically describing the poria root used in traditional Chinese medicine.",
+    "description": "艹(艹) (cǎo, \"grass\") + 伏(伏) (fú, \"to lie down\") = plant resembling lying down -> poria root",
+    "interpretation": "The character 茯(fú) incorporates 艹(艹) indicating a plant or herb, appropriate for describing poria root, a type of fungus, while 伏(伏) provides the phonetic element and conveys the idea of something lying beneath the ground, aligning with the subterranean nature of poria.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,26 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "plant"
+      "english": "grass"
     },
     {
       "char": "伏",
       "trad": "伏",
       "pinyin": "fú",
-      "english": "phonetic"
+      "english": "to lie down"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "茯是一种珍贵的药材(茯是一種珍貴的藥材)。",
-      "pinyin": "Fú shì yī zhǒng zhēnguì de yàocái.",
-      "english": "Poria root is a precious medicinal material."
+      "chinese": "厨师熬制药膳时(廚師熬製藥膳時)，常放茯(常放茯)以调补脾胃(以調補脾胃)。",
+      "pinyin": "Chúshī áo zhì yào shàn shí, cháng fàng fú yǐ tiáo bǔ pí wèi.",
+      "english": "When a chef prepares medicinal cuisine, he often adds poria root to enhance the spleen and stomach."
     },
     {
-      "chinese": "茯具有平和脾胃的功能(茯具有平和脾胃的功能)，常用于调理失调(常用於調理失調)。",
-      "pinyin": "Fú jùyǒu pínghé píwèi de gōngnéng, cháng yòng yú tiáolǐ shītiáo.",
-      "english": "Poria root has the function of harmonizing the spleen and stomach, and is often used to regulate imbalances."
-    },
-    {
-      "chinese": "中医重视茯在健脾利湿中的作用(中醫重視茯在健脾利濕中的作用)，证明其医学价值(證明其醫學價值)。",
-      "pinyin": "Zhōng yī zhòngshì fú zài jiànpí lì shī zhōng de zuòyòng, zhèngmíng qí yīxué jiàzhí.",
-      "english": "Traditional Chinese medicine values the role of poria root in strengthening the spleen and draining dampness, proving its medicinal worth."
+      "chinese": "古籍记载茯(古籍記載茯)，曾用於祛湿养生(曾用於祛濕養生)。",
+      "pinyin": "Gǔjí jìzǎi fú, céng yòng yú qū shī yǎng shēng.",
+      "english": "Ancient texts record that poria root was once used to expel dampness and promote health."
     }
   ]
 }

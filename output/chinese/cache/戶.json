@@ -1,0 +1,39 @@
+{
+  "simplified": "戶",
+  "traditional": "戶",
+  "pinyin": "hù",
+  "english": "door",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts one-half of 門(門) (mén, \"gate\") -> stylized as 𠁣(𠁣) -> final form 戶(戶) (hù, \"door\")",
+    "interpretation": "The character 戶(戶) (hù, \"door\") represents a single door panel, derived from the depiction of half a gate, symbolizing entry or a threshold.",
+    "simplification": "户 is a simplified and variant traditional form of 戶, streamlining the pictorial elements to a more abstract representation, but retaining the symbolic essence of a door or entrance."
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "gate"
+    },
+    {
+      "char": "𠁣",
+      "trad": "𠁣",
+      "pinyin": "unknown",
+      "english": "unknown"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他推开了戶(他推開了戶)。",
+      "pinyin": "Tā tuī kāi le hù.",
+      "english": "He pushed open the door."
+    },
+    {
+      "chinese": "夜晚降临时(夜晚降臨時)，古宅的戶缓缓开启(古宅的戶緩緩開啟)。",
+      "pinyin": "Yè wǎn jiàng lín shí, gǔ zhái de hù huǎn huǎn kāi qǐ.",
+      "english": "When night falls, the door of the ancient house slowly opens."
+    }
+  ]
+}

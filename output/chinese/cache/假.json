@@ -1,0 +1,44 @@
+{
+  "simplified": "假",
+  "traditional": "假",
+  "pinyin": "jià",
+  "english": "holiday; vacation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 叚(叚) (jiǎ, phonetic) = person taking a leave -> holiday",
+    "interpretation": "The character 假(假) (jià, \"holiday\") combines the semantic element 亻(亻) (rén, \"person\"), indicating a person or human activity, with the phonetic element 叚(叚) (jiǎ), suggesting the sound. This conveys the concept of a person taking time off, such as a holiday or vacation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "叚",
+      "trad": "叚",
+      "pinyin": "jiǎ",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国庆假期来临了(國慶假期來臨了)。",
+      "pinyin": "Guó qìng jiàqī láilín le.",
+      "english": "The National Day holiday has arrived."
+    },
+    {
+      "chinese": "他放假在家休息(他放假在家休息)，也计划和朋友出游(也計劃和朋友出遊)。",
+      "pinyin": "Tā fàngjià zài jiā xiūxí, yě jìhuà hé péngyǒu chūyóu.",
+      "english": "He is resting at home during his vacation, and he also plans to go out with his friends."
+    },
+    {
+      "chinese": "我们的假期很短暂(我們的假期很短暫)。",
+      "pinyin": "Wǒmen de jiàqī hěn duǎnzàn.",
+      "english": "Our vacation is very short."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "母",
+  "traditional": "母",
+  "pinyin": "mǔ",
+  "english": "mother",
+  "etymology": {
+    "type": "differentiated form",
+    "description": "女(女) (nǚ, \"woman\") + addition of two dots -> distinguished as 母(母) (mǔ, \"mother\")",
+    "interpretation": "The character 母(母) (mǔ, \"mother\") is a differentiated form of 女(女) (nǚ, \"woman\") with the addition of two dots to distinguish it. In early script forms, both 母(母) (mǔ, \"mother\") and 女(女) (nǚ, \"woman\") were represented by the same form as 女(女), necessitating the addition of dots to create a visual distinction. The character 毋, originally borrowed from 母, further specialized by changing the dots to a stroke to avoid confusion between the characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "母给了我无限的温暖(母給了我無限的溫暖)。",
+      "pinyin": "mǔ gěi le wǒ wúxiàn de wēnnuǎn",
+      "english": "Mother has given me endless warmth."
+    },
+    {
+      "chinese": "我的母温柔而坚毅(我的母溫柔而堅毅)，培养了我良好的品格(培養了我良好的品格)。",
+      "pinyin": "wǒ de mǔ wēnróu ér jiānyì, péiyǎng le wǒ liánghǎo de pǐngé",
+      "english": "My mother is gentle and strong, nurturing my good character."
+    }
+  ]
+}

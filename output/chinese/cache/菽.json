@@ -5,8 +5,8 @@
   "english": "pulse",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") as semantic indicator + 叔(叔) (shū, \"uncle\") as phonetic -> denotes a type of plant -> pulse",
-    "interpretation": "The character 菽(shū, \"pulse\") combines the 艹(艹) (cǎo, \"grass\") radical, which is often used to signify plants, with 叔(叔) (shū, \"uncle\") for its phonetic component, resulting in a term historically associated with types of legumes or pulses.",
+    "description": "艹(艹) (cǎo, \"grass\") + 叔(叔) (shū, \"uncle\") = plant-related term with phonetic value from 叔",
+    "interpretation": "The character 菽(shū, \"pulse\") combines the semantic 艹(艹) (cǎo, \"grass\") to indicate a plant-related concept, with the phonetic element 叔(叔) (shū) to suggest its pronunciation. This reflects the agricultural context of 'pulse' as a type of leguminous plant.",
     "simplification": ""
   },
   "parts": [
@@ -23,17 +23,22 @@
       "english": "uncle"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "农民种菽(農民種菽)，以供百姓食用(以供百姓食用)。",
-      "pinyin": "Nóngmín zhòng shū, yǐ gòng bǎixìng shíyòng.",
-      "english": "Farmers grow pulses to feed the people."
+      "chinese": "农人耕种菽田(農人耕種菽田)，迎接秋收(迎接秋收)。",
+      "pinyin": "Nóng rén gēngzhòng shū tián, yíngjiē qiūshōu.",
+      "english": "The farmers cultivate pulse fields, welcoming the autumn harvest."
     },
     {
-      "chinese": "古代有诗赞菽(古代有詩讚菽)。",
-      "pinyin": "Gǔdài yǒu shī zàn shū.",
-      "english": "In ancient times, poetry praised pulses."
+      "chinese": "他用菽研磨出浓香豆浆(他用菽研磨出濃香豆漿)，享受健康生活(享受健康生活)。",
+      "pinyin": "Tā yòng shū yánmó chū nóngxiāng dòujiāng, xiǎngshòu jiànkāng shēnghuó.",
+      "english": "He grinds pulses to make fragrant soy milk, enjoying a healthy life."
+    },
+    {
+      "chinese": "春天里菽花绽放(春天裏菽花綻放)。",
+      "pinyin": "Chūntiān lǐ shū huā zhànfàng.",
+      "english": "In spring, the pulse flowers bloom."
     }
   ]
 }

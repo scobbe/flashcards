@@ -5,22 +5,40 @@
   "english": "take",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "耳(耳) (ěr, \"ear\") + 又(又) (yòu, \"hand\") = taking the ear of prey (hunter's rite) -> to take",
-    "interpretation": "40",
+    "description": "耳(耳) (ěr, \"ear\") + 又(又) (yòu, \"hand\") = taking the ear of prey (hunter's rite) -> \"take\"",
+    "interpretation": "取(取) (qǔ, \"take\") combines 耳(耳) (ěr, \"ear\") and 又(又) (yòu, \"hand\") to depict the act of taking the ear of a fallen prey, a ritual from the Rites of Zhou. This reflects the character's association with taking or acquiring something.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他取了钥匙(他取了鑰匙)。",
-      "pinyin": "Tā qǔ le yàoshi.",
-      "english": "He took the key."
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
     },
     {
-      "chinese": "图书管理员从书架上取下图书(圖書管理員從書架上取下圖書)，交给借书的人(交給借書的人)。",
-      "pinyin": "Túshū guǎnlǐyuán cóng shūjià shàng qǔ xià túshū, jiāo gěi jièshū de rén.",
-      "english": "The librarian took a book from the shelf and handed it to the borrower."
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他从箱子里取出文件(他從箱子裏取出文件)。",
+      "pinyin": "Tā cóng xiāngzi lǐ qǔchū wénjiàn.",
+      "english": "He took out documents from the box."
+    },
+    {
+      "chinese": "请取钱包(請取錢包)，并支付费用(並支付費用)。",
+      "pinyin": "Qǐng qǔ qiánbāo, bìng zhīfù fèiyòng.",
+      "english": "Please take the wallet and pay the fee."
+    },
+    {
+      "chinese": "他决定取胜于对手(他決定取勝於對手)。",
+      "pinyin": "Tā juédìng qǔshèng yú duìshǒu.",
+      "english": "He decided to prevail over his opponent."
     }
   ]
 }

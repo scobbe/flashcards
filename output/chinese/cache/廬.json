@@ -1,0 +1,44 @@
+{
+  "simplified": "廬",
+  "traditional": "廬",
+  "pinyin": "lú",
+  "english": "shed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 广 (guǎng, 'shelter') + phonetic 盧 (lú, 'container') = shed or hut",
+    "interpretation": "The character 廬(lú, 'shed') combines the semantic component 广(guǎng, 'shelter'), suggesting a structure, with the phonetic component 盧(lú, 'container'), to convey the meaning of a simple structure like a shed or hut.",
+    "simplification": "Simplified by replacing 盧(盧) with 卢(盧), where the top component was streamlined for easier writing while keeping the phonetic element."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "盧",
+      "trad": "盧",
+      "pinyin": "lú",
+      "english": "container"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在后院建了一个廬(廬)。",
+      "pinyin": "Tā zài hòuyuàn jiàn le yí gè lú。",
+      "english": "He built a shed in his backyard."
+    },
+    {
+      "chinese": "雨后不久(雨後不久)，古宅旁的廬散发着温暖(古宅旁的廬散發著溫暖)。",
+      "pinyin": "Yǔhòu bùjiǔ, gǔzhái páng de lú sànfā zhe wēnnuǎn。",
+      "english": "Shortly after the rain, the shed beside the old house exuded warmth."
+    },
+    {
+      "chinese": "傍晚时分(傍晚時分)，山脚下的廬静静伫立(山腳下的廬靜靜佇立)。",
+      "pinyin": "Bàngwǎn shífèn, shānjiǎo xià de lú jìngjìng zhùlì。",
+      "english": "In the evening, the shed at the foot of the mountain stood quietly."
+    }
+  ]
+}

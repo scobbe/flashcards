@@ -1,0 +1,39 @@
+{
+  "simplified": "公司",
+  "traditional": "公司",
+  "pinyin": "gōngsī",
+  "english": "company; corporation",
+  "etymology": {
+    "type": "compound word",
+    "description": "公(公) (gōng, \"public\") + 司(司) (sī, \"department; control\") = organization for public service or business -> company",
+    "interpretation": "A 公司(公司) (gōngsī, \"company\") is an entity that serves the public by organizing and conducting business or services. Historically, 司(司) (sī, \"department; control\") indicates a division in charge of specific tasks, implying administration or management.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "public; common; impartial"
+    },
+    {
+      "char": "司",
+      "trad": "司",
+      "pinyin": "sī",
+      "english": "department; control; manage"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在公司工作(我在公司工作)。",
+      "pinyin": "Wǒ zài gōngsī gōngzuò.",
+      "english": "I work at a company."
+    },
+    {
+      "chinese": "公司今年业绩很好(公司今年業績很好)，员工们士气高昂(員工們士氣高昂)。",
+      "pinyin": "Gōngsī jīnnián yèjì hěn hǎo, yuángōng men shìqì gāoáng.",
+      "english": "The company performed very well this year, and its employees are highly motivated."
+    }
+  ]
+}

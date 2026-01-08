@@ -1,0 +1,28 @@
+{
+  "simplified": "舛",
+  "traditional": "舛",
+  "pinyin": "chuǎn",
+  "english": "oppose",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "夊(夊) + 𡕒(𡕒) -> two feet facing in the same direction -> idea of opposing or contradictory directions",
+    "interpretation": "The character 舛(chuǎn, 'oppose') conceptualizes opposing or contradictory directions as depicted by two feet going in the same direction but implying conflict or contradiction. This is visually contrasted with other characters that depict feet in various orientations, emphasizing the idea of opposition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "foot"
+    },
+    {
+      "char": "𡕒",
+      "trad": "𡕒",
+      "pinyin": "yǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

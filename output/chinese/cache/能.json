@@ -1,0 +1,44 @@
+{
+  "simplified": "能",
+  "traditional": "能",
+  "pinyin": "néng",
+  "english": "bear",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bear: two paws stylized as 匕(匕) (bǐ, \"spoon\") + face/mouth stylized as 月(月) (yuè, \"moon\")",
+    "interpretation": "The character 能(néng), originally meant to represent a bear, combines elements stylized as paws and a face to visually convey an animal's features. Over time, this depiction of a bear has lent its phonetic value to words associated with ability and energy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座桥能承受大风(這座橋能承受大風)。",
+      "pinyin": "Zhè zuò qiáo néng chéngshòu dà fēng.",
+      "english": "This bridge can bear strong winds."
+    },
+    {
+      "chinese": "他能承受巨大压力(他能承受巨大壓力)。",
+      "pinyin": "Tā néng chéngshòu jùdà yālì.",
+      "english": "He can bear tremendous pressure."
+    },
+    {
+      "chinese": "这台电脑能运行复杂程序(這台電腦能運行複雜程序)，满足现代需求(滿足現代需求)。",
+      "pinyin": "Zhè tái diànnǎo néng yùnxíng fùzá chéngxù, mǎnzú xiàndài xūqiú.",
+      "english": "This computer can run complex programs, meeting modern needs."
+    }
+  ]
+}

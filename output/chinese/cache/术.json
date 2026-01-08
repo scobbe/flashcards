@@ -4,36 +4,41 @@
   "pinyin": "shù",
   "english": "skill; technique; method; art",
   "etymology": {
-    "type": "simplified form of 術",
-    "description": "彳(彳) (chì, \"step\") + 朮(朮) (zhú, \"millet\") = path of action for achieving a specific goal (like planting crops) -> 術 (shù, \"method\") simplified as 术 for more efficient writing",
-    "interpretation": "术(術) retains the essence of \"method\" or \"technique\" by simplifying the complex structure of 術. It maintains the general meaning through its association with paths and structured approaches, just as 訴(訴) relates to communication.",
-    "simplification": "術 was simplified to 术 by adopting a streamlined form, maintaining the semantic essence without intricate components."
+    "type": "phono-semantic compound",
+    "description": "行(行) (xíng, 'go') + phonetic: 朮(朮) (shù, 'millet plant') = movement/execution + phonetic cue -> skills or techniques in executing tasks",
+    "interpretation": "術(術) (shù, 'technique') combines the semantics of 行(行) (xíng, 'go') representing action or movement, with the phonetic component 朮(朮) (shù, 'millet plant'), which guides pronunciation. This combination conveys the idea of implementing processes, creating a word for skill or art in performing tasks.",
+    "simplification": "术 is a simplified form where 行(行) (xíng) and 朮(朮) (shù) are condensed to retain essential elements of the original character while reducing complexity."
   },
   "parts": [
     {
-      "char": "彳",
-      "trad": "彳",
-      "pinyin": "chì",
-      "english": "step"
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "go"
     },
     {
       "char": "朮",
       "trad": "朮",
-      "pinyin": "zhú",
-      "english": "millet"
+      "pinyin": "shù",
+      "english": "millet plant"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生诊治病人的秘诀是一门精湛的医术(醫生診治病人的祕訣是一門精湛的醫術)。",
-      "pinyin": "Yīshēng zhěnzhì bìngrén de mìjué shì yī mén jīngzhàn de yīshù.",
-      "english": "The doctor's secret in treating patients is an exquisite medical art."
+      "chinese": "他的绘画术独具匠心(他的繪畫術獨具匠心)。",
+      "pinyin": "Tā de huìhuà shù dú jù jiàngxīn.",
+      "english": "His painting technique is uniquely ingenious."
     },
     {
-      "chinese": "古人用占卜术(古人用占卜術)，预测未来(預測未來)。",
-      "pinyin": "Gǔrén yòng zhānbǔ shù, yùcè wèilái.",
-      "english": "Ancient people used divination techniques to predict the future."
+      "chinese": "现代医学依靠先进的治疗术(現代醫學依靠先進的治療術)，挽救了无数生命(挽救了無數生命)。",
+      "pinyin": "Xiàndài yīxué yīkào xiānjìn de zhìliáo shù, wǎnjiùle wúshù shēngmìng.",
+      "english": "Modern medicine relies on advanced treatment methods to save countless lives."
+    },
+    {
+      "chinese": "她不断钻研烹饪术(她不斷鑽研烹飪術)。",
+      "pinyin": "Tā bùduàn zuānyán pēngrèn shù.",
+      "english": "She continuously studies the art of cooking."
     }
   ]
 }

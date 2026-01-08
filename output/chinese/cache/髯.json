@@ -1,0 +1,39 @@
+{
+  "simplified": "髯",
+  "traditional": "髯",
+  "pinyin": "rán",
+  "english": "beard",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "髟(髟) (biāo, \"hair\") + phonetic: 然(然) (rán) = hair-like appearance -> beard",
+    "interpretation": "The character 髯(rán, \"beard\") utilizes the semantic component 髟(髟) representing hair, combined with the phonetic component 然(然) to suggest a word related to hair, specifically a beard.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "髟",
+      "trad": "髟",
+      "pinyin": "biāo",
+      "english": "hair"
+    },
+    {
+      "char": "然",
+      "trad": "然",
+      "pinyin": "rán",
+      "english": "nature"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他留着长髯(他留著長髯)。",
+      "pinyin": "Tā liúzhe cháng rán.",
+      "english": "He sports a long beard."
+    },
+    {
+      "chinese": "老者披上长衫(老者披上長衫)，露出精致的髯(露出精緻的髯)。",
+      "pinyin": "Lǎo zhě pī shàng cháng shān, lùchū jīngzhì de rán.",
+      "english": "The old man dons a long robe, revealing his exquisite beard."
+    }
+  ]
+}

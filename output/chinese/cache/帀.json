@@ -4,23 +4,25 @@
   "pinyin": "zā",
   "english": "to surround",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts surrounding or enclosing",
-    "interpretation": "The character 帀 originally depicted the act of surrounding or enclosing an area. Though it does not have additional components to represent phonetics or specific meanings, this depiction is straightforward in illustrating the concept of encirclement.",
+    "type": "phono-semantic compound",
+    "description": "The glyph resembles an inverted 之(之) (zhī, \"footprint\") -> connection to 𠂤 (mound, hill) in 師(師)",
+    "interpretation": "The character 帀(zā, \"to surround\") combines the concept of surrounding with the visual element of a footprint, suggesting an encircling motion. Its connection to the ancient glyph components related to hills and troops highlights its association with strategic positioning.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "河流帀着岛屿(河流帀著島嶼)。",
-      "pinyin": "Héliú zā zhe dǎoyǔ.",
-      "english": "The river surrounds the island."
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "footprint"
     },
     {
-      "chinese": "大海帀着孤岛(大海帀著孤島)，巍峨山峰帀着村庄(巍峨山峰帀著村莊)。",
-      "pinyin": "Dàhǎi zā zhe gūdǎo, wēi'é shānfēng zā zhe cūnzhuāng.",
-      "english": "The ocean surrounds the solitary island, and the majestic peaks encircle the village."
+      "char": "師",
+      "trad": "師",
+      "pinyin": "shī",
+      "english": "troops"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

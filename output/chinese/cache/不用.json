@@ -1,0 +1,44 @@
+{
+  "simplified": "不用",
+  "traditional": "不用",
+  "pinyin": "bú yòng",
+  "english": "not need",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 用(用) (yòng, \"use\") = not need",
+    "interpretation": "The word 不用(不用) (búyòng, \"not need\") combines 不(不) (bù, \"not\") with 用(用) (yòng, \"use\") to convey the absence of necessity or requirement for something. By pairing 'not' with 'use,' the compound expresses the meaning of something being unnecessary.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use; apply"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你不用去(你不用去)。",
+      "pinyin": "nǐ bú yòng qù。",
+      "english": "You don't need to go."
+    },
+    {
+      "chinese": "他不用担心(他不用擔心)，问题会自行解决(問題會自行解決)。",
+      "pinyin": "tā bú yòng dān xīn, wèn tí huì zì xíng jiě jué。",
+      "english": "He doesn't need to worry, the problem will solve itself."
+    },
+    {
+      "chinese": "我们不用买票(我們不用買票)。",
+      "pinyin": "wǒ men bú yòng mǎi piào。",
+      "english": "We don't need to buy tickets."
+    }
+  ]
+}

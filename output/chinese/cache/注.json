@@ -1,0 +1,44 @@
+{
+  "simplified": "注",
+  "traditional": "注",
+  "pinyin": "zhù",
+  "english": "concentrate; pour",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "水(水) (shuǐ, 'water') + 主(主) (zhǔ, 'master') = semantic element of water + phonetic component -> concentrate; pour",
+    "interpretation": "The character 注(注) (zhù, 'concentrate; pour') combines the idea of water with the phonetic component 主(主) (zhǔ, 'master'). The association with water suggests a focus or pouring of attention, paralleling the concentrated flow of liquid.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "master"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把热水注入杯中(請把熱水注入杯中)。",
+      "pinyin": "Qǐng bǎ rèshuǐ zhù rù bēi zhōng.",
+      "english": "Please pour the hot water into the cup."
+    },
+    {
+      "chinese": "在课堂上(在課堂上)，他专心注视老师(他專心注視老師)。",
+      "pinyin": "Zài kètáng shàng, tā zhuān xīn zhù shì lǎoshī.",
+      "english": "In class, he concentrated on watching the teacher attentively."
+    },
+    {
+      "chinese": "他注重细节(他注重細節)。",
+      "pinyin": "Tā zhù zhòng xìjié.",
+      "english": "He pays attention to details."
+    }
+  ]
+}

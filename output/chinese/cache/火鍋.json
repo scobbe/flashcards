@@ -1,0 +1,44 @@
+{
+  "simplified": "火鍋",
+  "traditional": "火鍋",
+  "pinyin": "huǒ guō",
+  "english": "hot pot",
+  "etymology": {
+    "type": "compound word",
+    "description": "火(火) (huǒ, \"fire\") refers to the use of heat or flame, and 鍋(鍋) (guō, \"pot\") is a cooking vessel. The combination 火鍋(鍋) (huǒguō, \"hot pot\") refers to a pot in which ingredients are cooked at the table in a simmering broth.",
+    "interpretation": "A 火鍋(鍋) (huǒguō, \"hot pot\") is a communal dish where ingredients are cooked at the table in a pot of simmering broth, representing both cooking and eating as a social activity. This practice is prevalent in Chinese culture, especially in colder regions or during social gatherings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "鍋",
+      "trad": "鍋",
+      "pinyin": "guō",
+      "english": "pot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们晚上去吃火锅(我們晚上去吃火鍋)。",
+      "pinyin": "Wǒmen wǎnshàng qù chī huǒ guō.",
+      "english": "We are going to have hot pot tonight."
+    },
+    {
+      "chinese": "家人团聚时(家人團聚時)，大家围坐一起涮火锅(大家圍坐一起涮火鍋)。",
+      "pinyin": "Jiārén tuánjù shí, dàjiā wéizuò yīqǐ shuàn huǒ guō.",
+      "english": "When the family gathers, everyone sits around and enjoys hot pot."
+    },
+    {
+      "chinese": "冬天寒冷时(冬天寒冷時)，一锅热腾腾的火锅能驱走寒意(一鍋熱騰騰的火鍋能驅走寒意)。",
+      "pinyin": "Dōngtiān hánlěng shí, yī guō rè téngténg de huǒ guō néng qūzǒu hányì.",
+      "english": "In the cold winter, a steaming hot pot can ward off the chill."
+    }
+  ]
+}

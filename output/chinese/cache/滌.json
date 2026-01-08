@@ -1,0 +1,44 @@
+{
+  "simplified": "滌",
+  "traditional": "滌",
+  "pinyin": "dí",
+  "english": "wash",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 條(條) (tiáo, \"strip\") = water and sound of strip -> wash",
+    "interpretation": "The character 滌(dí, \"wash\") combines 水(水) (shuǐ, \"water\") for its association with cleaning and 條(條) (tiáo, \"strip\") to convey the phonetic aspect, reflecting the action of washing or cleaning with water.",
+    "simplification": "滌(滌) was simplified to 涤(滌) by replacing 條(條) with 条(條), streamlining the structure while retaining the original sound."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "條",
+      "trad": "條",
+      "pinyin": "tiáo",
+      "english": "strip"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们用清水滌洗衣物(我們用清水滌洗衣物)。",
+      "pinyin": "Wǒmen yòng qīngshuǐ dí xǐ yīwù.",
+      "english": "We wash clothes with clear water."
+    },
+    {
+      "chinese": "园中落叶经过雨水滌净(園中落葉經過雨水滌淨)。",
+      "pinyin": "Yuán zhōng luòyè jīngguò yǔshuǐ dí jìng.",
+      "english": "The fallen leaves in the garden are cleansed by rainwater."
+    },
+    {
+      "chinese": "僧人在静院中苦修(僧人在靜院中苦修)，常以禅茶滌心(常以禪茶滌心)。",
+      "pinyin": "Sēngrén zài jìngyuàn zhōng kǔxiū, cháng yǐ chánchá dí xīn.",
+      "english": "The monk practices diligently in the quiet courtyard, often using Zen tea to cleanse his mind."
+    }
+  ]
+}

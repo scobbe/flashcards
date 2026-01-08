@@ -1,0 +1,44 @@
+{
+  "simplified": "上班",
+  "traditional": "上班",
+  "pinyin": "shàngbān",
+  "english": "to go to work",
+  "etymology": {
+    "type": "compound word",
+    "description": "上(上) (shàng, \"to go upward; to attend\") + 班(班) (bān, \"shift; duty\") = to go to work",
+    "interpretation": "The word 上班(上班) (shàngbān, \"to go to work\") combines the idea of attending, as in 上(上) (shàng, \"to go upward; to attend\"), with a work shift or duty, as indicated by 班(班) (bān, \"shift; duty\"). Thus, it literally means to attend one's duty or work shift, which is understood as going to work.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "上",
+      "trad": "上",
+      "pinyin": "shàng",
+      "english": "to go upward; to attend"
+    },
+    {
+      "char": "班",
+      "trad": "班",
+      "pinyin": "bān",
+      "english": "shift; duty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我早上九点上班(我早上九點上班)。",
+      "pinyin": "Wǒ zǎoshang jiǔ diǎn shàngbān.",
+      "english": "I go to work at nine in the morning."
+    },
+    {
+      "chinese": "他每天骑车上班(他每天騎車上班)，充满热情工作(充滿熱情工作)。",
+      "pinyin": "Tā měitiān qíchē shàngbān, chōngmǎn rèqíng gōngzuò.",
+      "english": "He rides his bike to work every day and works with great enthusiasm."
+    },
+    {
+      "chinese": "她上班前喝杯咖啡(她上班前喝杯咖啡)。",
+      "pinyin": "Tā shàngbān qián hē bēi kāfēi.",
+      "english": "She drinks a cup of coffee before going to work."
+    }
+  ]
+}

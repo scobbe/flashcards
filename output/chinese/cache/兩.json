@@ -1,0 +1,26 @@
+{
+  "simplified": "兩",
+  "traditional": "兩",
+  "pinyin": "liǎng",
+  "english": "two",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a balanced pair of objects or a scale -> used to represent 'two' or 'both sides' -> evolved to have the cursive form 魎(魎) (liǎng, 'mythical demon') for etymological distinction",
+    "interpretation": "兩(兩) (liǎng, 'two') visually represents a sense of balance and symmetry, akin to scales. It shows two symmetrical halves, which directly conveys the meaning of 'two'. Despite its connection to 魎(魎) (liǎng, 'mythical demon'), its common use pertains to counting and refers to duality or partnership. Over time, 魎 became primarily associated with a specific mythical connotation, whereas 兩 retained the general numerative sense.",
+    "simplification": "The character 兩(兩) (liǎng, 'two') does not have a simplified form distinct from its traditional form."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有两只猫(我有兩隻貓)。",
+      "pinyin": "Wǒ yǒu liǎng zhī māo.",
+      "english": "I have two cats."
+    },
+    {
+      "chinese": "他买了两件衣服(他買了兩件衣服)，送给了两位朋友(送給了兩位朋友)。",
+      "pinyin": "Tā mǎile liǎng jiàn yīfu, sòng gěi le liǎng wèi péngyǒu.",
+      "english": "He bought two pieces of clothing and gave them to two friends."
+    }
+  ]
+}

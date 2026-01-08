@@ -1,0 +1,39 @@
+{
+  "simplified": "瓮",
+  "traditional": "甕",
+  "pinyin": "wèng",
+  "english": "jar",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 雍 (wēng) + Semantic 瓦 (wǎ, 'earthenware') = jar-shaped earthenware -> meaning jar",
+    "interpretation": "The character 甕 (wèng, 'jar') combines the phonetic component 雍 (yōng, suggesting the sound) with the semantic element 瓦 (wǎ, 'earthenware'), conveying the idea of an earthen container typically used as a jar.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "雍",
+      "trad": "雍",
+      "pinyin": "yōng",
+      "english": "harmonious"
+    },
+    {
+      "char": "瓦",
+      "trad": "瓦",
+      "pinyin": "wǎ",
+      "english": "earthenware"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这口老瓮装满水(這口老瓮裝滿水)。",
+      "pinyin": "Zhè kǒu lǎo wèng zhuāng mǎn shuǐ。",
+      "english": "This old jar is filled with water."
+    },
+    {
+      "chinese": "他从古巷找到一只精致的瓮(他從古巷找到一隻精緻的瓮)，用来存放秘密(用來存放秘密)。",
+      "pinyin": "Tā cóng gǔ xiàng zhǎodào yī zhī jīngzhì de wèng, yòng lái cúnfàng mìmì。",
+      "english": "He found an exquisite jar in an ancient alley, used to store secrets."
+    }
+  ]
+}

@@ -5,27 +5,11 @@
   "english": "fontanel",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts the shape of a fontanel with a distinguishable indentation",
-    "interpretation": "囟 (xìn, \"fontanel\") is a pictogram that represents the shape of a fontanel, the soft spot in the skull of an infant. This depiction captures the notable indentation, providing a visual representation of its meaning.",
+    "description": "Depicts a fontanelle -> represents the soft spot on a baby's skull",
+    "interpretation": "The character 囟(xìn, \"fontanel\") is a pictogram representing the soft spot on a baby's skull, which is unossified and visible in infants. It visually resembles the shape and placement of a fontanelle, making it distinct and directly representative of its meaning.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "宝宝的囟尚未闭合(寶寶的囟尚未閉合)。",
-      "pinyin": "Bǎobǎo de xìn shàngwèi bìhé.",
-      "english": "The baby's fontanel has not yet closed."
-    },
-    {
-      "chinese": "医生观察到囟的形状平滑(醫生觀察到囟的形狀平滑)。",
-      "pinyin": "Yīshēng guānchá dào xìn de xíngzhuàng pínghuá.",
-      "english": "The doctor observed that the fontanel's shape is smooth."
-    },
-    {
-      "chinese": "在新生儿护理中(在新生兒護理中)，囟的观察尤为重要(囟的觀察尤為重要)。",
-      "pinyin": "Zài xīnshēng'ér hùlǐ zhōng, xìn de guānchá yóuwéi zhòngyào.",
-      "english": "In newborn care, observing the fontanel is particularly important."
-    }
-  ]
+  "examples": []
 }

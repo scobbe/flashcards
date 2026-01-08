@@ -1,39 +1,15 @@
 {
   "simplified": "㚔",
   "traditional": "㚔",
-  "pinyin": "yì",
+  "pinyin": "",
   "english": "handcuff",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 手(手) (shǒu, \"hand\") + phonetic: 奄(奄) (yān, \"to cover\") = hand-related tool -> handcuff",
-    "interpretation": "The character 㚔 combines the semantic element 手(手) (shǒu, \"hand\") indicating a hand-related object, with the phonetic element 奄(奄) (yān, \"to cover\"), suggesting the action of covering or enclosing the hands, much like a handcuff.",
+    "type": "pictogram",
+    "description": "Depicts handcuffs",
+    "interpretation": "The character 㚔 is a pictogram that directly represents the shape or concept of handcuffs. It is unrelated to other characters like 睪, which involve different components for distinct meanings.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "手",
-      "trad": "手",
-      "pinyin": "shǒu",
-      "english": "hand"
-    },
-    {
-      "char": "奄",
-      "trad": "奄",
-      "pinyin": "yān",
-      "english": "to cover"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "警察在抓捕嫌疑人时(警察在抓捕嫌疑人時)，用㚔将其扣住(用㚔將其扣住)。",
-      "pinyin": "Jǐngchá zài zhuābǔ xiányírén shí, yòng yì jiāng qí kòuzhù。",
-      "english": "When arresting the suspect, the police used a handcuff to restrain him."
-    },
-    {
-      "chinese": "在审讯室内(在審訊室內)，嫌疑人被警察用㚔固定双手(嫌疑人被警察用㚔固定雙手)。",
-      "pinyin": "Zài shěnxùn shìnèi, xiányírén bèi jǐngchá yòng yì gùdìng shuāngshǒu。",
-      "english": "Inside the interrogation room, the suspect was restrained by the police with handcuffs."
-    }
-  ]
+  "examples": []
 }

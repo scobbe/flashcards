@@ -1,0 +1,44 @@
+{
+  "simplified": "腋",
+  "traditional": "腋",
+  "pinyin": "yè",
+  "english": "armpit",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "肉(肉) (ròu, \"flesh\") + 夜(夜) (yè, \"night\") = part of the body associated with night -> armpit",
+    "interpretation": "The character 腋(yè, \"armpit\") combines the semantic element 肉(肉) (ròu, \"flesh\") indicating its association with the body, and the phonetic component 夜(夜) (yè, \"night\") contributing the sound. The use of 夜 is purely phonetic and the character originally used to be written as 亦, which suggests an historical borrowing of the phonetic element for armpit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    },
+    {
+      "char": "夜",
+      "trad": "夜",
+      "pinyin": "yè",
+      "english": "night"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的腋流着汗珠(他的腋流著汗珠)。",
+      "pinyin": "Tā de yè liúzhe hànzhū.",
+      "english": "Beads of sweat stream from his armpit."
+    },
+    {
+      "chinese": "运动后(運動後)，他的腋开始刺痛(他的腋開始刺痛)。",
+      "pinyin": "Yùndòng hòu, tā de yè kāishǐ cìtòng.",
+      "english": "After exercising, his armpit began to sting."
+    },
+    {
+      "chinese": "夏日午后(夏日午後)，清风拂过腋边(清風拂過腋邊)。",
+      "pinyin": "Xiàrì wǔhòu, qīngfēng fúguò yè biān.",
+      "english": "On a summer afternoon, a gentle breeze brushed past his armpit."
+    }
+  ]
+}

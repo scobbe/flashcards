@@ -1,0 +1,50 @@
+{
+  "simplified": "参",
+  "traditional": "參",
+  "pinyin": "cān",
+  "english": "participate; reference; take part in",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "晶(晶) (jīng, \"stars\") + 光(光) (guāng, \"light\") + 彡(彡) (shān, \"light rays\") -> \"Three Stars mansion\"",
+    "interpretation": "The character combines elements representing stars and rays of light, symbolizing the brightness of the 'Three Stars mansion.' Despite alternative interpretations involving hairpins, 彡(彡) contributes both semantic and phonetic elements related to light and radiance.",
+    "simplification": "The character 参(參) was simplified from the traditional form by modifying complex strokes in 晶(晶) to a simpler form."
+  },
+  "parts": [
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "stars"
+    },
+    {
+      "char": "光",
+      "trad": "光",
+      "pinyin": "guāng",
+      "english": "light"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "light rays"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我参赛(我參賽)。",
+      "pinyin": "Wǒ cān sài.",
+      "english": "I participate in the competition."
+    },
+    {
+      "chinese": "我们参观博物馆(我們參觀博物館)，与专家讨论(與專家討論)。",
+      "pinyin": "Wǒmen cān guān bówùguǎn, yǔ zhuānjiā tǎolùn.",
+      "english": "We visit the museum and discuss with experts."
+    },
+    {
+      "chinese": "他们参选(他們參選)，决心改变未来(決心改變未來)。",
+      "pinyin": "Tāmen cān xuǎn, juéxīn gǎibiàn wèilái.",
+      "english": "They participate in the election, determined to change the future."
+    }
+  ]
+}

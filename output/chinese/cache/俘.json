@@ -1,0 +1,44 @@
+{
+  "simplified": "俘",
+  "traditional": "俘",
+  "pinyin": "fú",
+  "english": "captive",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "孚(孚) (fú, \"to capture\") + 人(人) (rén, \"person\") = capturing a person -> captive",
+    "interpretation": "The character 俘 combines the semantic component 人(人) (rén, \"person\") indicating that the term involves people, with the phonetic component 孚(孚) (fú, \"to capture\") to suggest the act of capturing. The original writing was 孚(孚) alone, but 人(人) was added to clarify the specific implication of capturing a person.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孚",
+      "trad": "孚",
+      "pinyin": "fú",
+      "english": "to capture"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "许多人不愿成为战俘(許多人不願成為戰俘)。",
+      "pinyin": "Xǔ duō rén bù yuàn chéngwéi zhànfú.",
+      "english": "Many people do not want to become prisoners of war."
+    },
+    {
+      "chinese": "敌军俘虜了落难士兵(敵軍俘虜了落難士兵)，使得国民倍感忧虑(使得國民倍感憂慮)。",
+      "pinyin": "Dí jūn fúlǔle luò nàn shìbīng, shǐ dé guómín bèi gǎn yōulǜ.",
+      "english": "The enemy forces captured the stranded soldiers, which left the citizens deeply worried."
+    },
+    {
+      "chinese": "惨烈交战后(慘烈交戰後)，敌我达成了战俘交换协议(敵我達成了戰俘交換協議)。",
+      "pinyin": "Cǎn liè jiāo zhàn hòu, dí wǒ dáchéngle zhànfú jiāohuàn xiéyì.",
+      "english": "After the fierce battle, both sides reached an agreement to exchange prisoners of war."
+    }
+  ]
+}

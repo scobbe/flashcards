@@ -1,0 +1,28 @@
+{
+  "simplified": "戕",
+  "traditional": "戕",
+  "pinyin": "qiāng",
+  "english": "murder",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 爿(爿) (pán, \"half of a tree trunk\") + semantic: 戈(戈) (gē, \"dagger-axe\") = related to use of a weapon -> final meaning 'murder'",
+    "interpretation": "The character 戕(戕) (qiāng, \"murder\") combines the phonetic component 爿(爿) (pán, \"half of a tree trunk\") with the semantic component 戈(戈) (gē, \"dagger-axe\") to suggest an association with using a weapon, specifically a dagger-axe, leading to the meaning of causing harm or murder.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "half of a tree trunk"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "dagger-axe"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

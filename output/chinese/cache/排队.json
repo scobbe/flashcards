@@ -1,0 +1,39 @@
+{
+  "simplified": "排队",
+  "traditional": "排隊",
+  "pinyin": "páiduì",
+  "english": "to form a line; to queue up",
+  "etymology": {
+    "type": "compound word",
+    "description": "排(排) (pái, \"line up; arrange\") + 队(隊) (duì, \"team; row\") = to form a line; to queue up.",
+    "interpretation": "排(排) (pái, \"line up; arrange\") emphasizes the action of organizing or arranging, while 队(隊) (duì, \"team; row\") signifies a formation or sequence of people or objects. Together, they convey the concept of organizing a group of people into a line or sequence, reflecting the act of queuing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "排",
+      "trad": "排",
+      "pinyin": "pái",
+      "english": "line up; arrange"
+    },
+    {
+      "char": "队",
+      "trad": "隊",
+      "pinyin": "duì",
+      "english": "team; row"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请在入口处排队(請在入口處排隊)。",
+      "pinyin": "Qǐng zài rùkǒuchù páiduì.",
+      "english": "Please queue up at the entrance."
+    },
+    {
+      "chinese": "放学后(放學後)，学生们排队买午餐(學生們排隊買午餐)。",
+      "pinyin": "Fàngxiàhòu, xuéshēngmen páiduì mǎi wǔcān.",
+      "english": "After school, the students form a line to buy lunch."
+    }
+  ]
+}

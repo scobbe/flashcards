@@ -1,0 +1,39 @@
+{
+  "simplified": "堡",
+  "traditional": "堡",
+  "pinyin": "bǎo",
+  "english": "fort; castle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "保(保) (bǎo, \"protect\") provides the phonetic element + 土(土) (tǔ, \"earth\") as the semantic element = a structure related to earth or protection -> fort; castle",
+    "interpretation": "The character 堡(bǎo) combines the idea of protection from 保(保) (bǎo, \"protect\") with 土(土) (tǔ, \"earth\") to convey a fortified structure made of earth, such as a fort or castle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "保",
+      "trad": "保",
+      "pinyin": "bǎo",
+      "english": "protect"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座堡曾经防御入侵(這座堡曾經防禦入侵)。",
+      "pinyin": "Zhè zuò bǎo céngjīng fángyù rùqīn.",
+      "english": "This fort once defended against invasions."
+    },
+    {
+      "chinese": "那座堡矗立在山顶(那座堡矗立在山頂)，守护着国家的安全(守護著國家的安全)。",
+      "pinyin": "Nà zuò bǎo chùlì zài shāndǐng, shǒuhù zhe guójiā de ānquán.",
+      "english": "That fort stands on the mountain top, guarding the nation's safety."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "累",
+  "traditional": "纍",
+  "pinyin": "lèi",
+  "english": "tired",
+  "etymology": {
+    "type": "variant form",
+    "description": "糸(糸) (sī, \"silk\") + 田(田) (tián, \"field\") + 衣(衣) (yī, \"clothing\") = layers of tied-up silk over fields and clothing -> connected to repetition or tiring work -> took on meaning of tired as 累",
+    "interpretation": "The traditional character 纍 combines 糸(糸) (sī, \"silk\") with 田(田) (tián, \"field\") and 衣(衣) (yī, \"clothing\"), symbolizing repetitive, tiring work across fields using silk thread, ultimately leading to the sense of 'tired.' The current form 累 evolved as a simplified and variant traditional character maintaining this association.",
+    "simplification": "累 is a simplified version and variant form of 纍, which emphasizes ease of writing by reducing multiple repeated components."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我累了(我累了)。",
+      "pinyin": "Wǒ lèi le.",
+      "english": "I am tired."
+    },
+    {
+      "chinese": "我工作了一整天(我工作了一整天)，感到累(感到累)。",
+      "pinyin": "Wǒ gōngzuò le yī zhěng tiān, gǎndào lèi.",
+      "english": "I worked all day and feel tired."
+    },
+    {
+      "chinese": "经过长时间的学习(經過長時間的學習)，我感到累(我感到累)。",
+      "pinyin": "Jīngguò cháng shíjiān de xuéxí, wǒ gǎndào lèi.",
+      "english": "After studying for a long time, I feel tired."
+    }
+  ]
+}

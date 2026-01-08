@@ -1,0 +1,50 @@
+{
+  "simplified": "絕",
+  "traditional": "絕",
+  "pinyin": "jué",
+  "english": "sever",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally: 刀(刀) (dāo, 'knife') + 幺(幺) (yāo, 'silk') = to cut silk threads -> Now: semantic 糹(糹) (sī, 'silk') + semantic 刀(刀) (dāo, 'knife') + phonetic 巴(巴) (bā) = 'sever'",
+    "interpretation": "The character 絕(jue) combines the imagery of cutting silk threads with a knife, reflecting its meaning of 'sever.' Over time, the phonetic component 巴 was added to specify pronunciation and extend the original concept from literal cutting to the metaphorical sense of 'severing' connections.",
+    "simplification": "糹(糹) (sī, 'silk') was simplified as 纟(丝) in simplified characters, retaining its essence while reducing stroke count."
+  },
+  "parts": [
+    {
+      "char": "糹",
+      "trad": "糹",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他决然断绝了旧友的联系(他決然斷絕了舊友的聯繫)。",
+      "pinyin": "Tā juérán duànjué le jiùyǒu de liánxì.",
+      "english": "He resolutely severed ties with his old friends."
+    },
+    {
+      "chinese": "她想抛弃过去(她想拋棄過去)，断绝尘世纠葛(斷絕塵世糾葛)。",
+      "pinyin": "Tā xiǎng pāoqì guòqù, duànjué chénshì jiūgé.",
+      "english": "She wants to abandon the past and sever entanglements of the mundane world."
+    },
+    {
+      "chinese": "我必须断绝所有不良影响(我必須斷絕所有不良影響)。",
+      "pinyin": "Wǒ bìxū duànjué suǒyǒu bùliáng yǐngxiǎng.",
+      "english": "I must sever all negative influences."
+    }
+  ]
+}

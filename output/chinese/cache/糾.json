@@ -1,0 +1,44 @@
+{
+  "simplified": "糾",
+  "traditional": "糾",
+  "pinyin": "jiū",
+  "english": "correct",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 糸(糸) (sī, \"silk\") + phonetic 丩(丩) (jiū, \"to entangle\") -> 糾(糾) (jiū, \"correct\")",
+    "interpretation": "The character 糾(糾) (jiū, \"correct\") combines 糸(糸) (sī, \"silk\") to suggest the idea of threads or strings involved in entangling or correcting, with 丩(丩) (jiū, \"to entangle\") providing the phonetic element. Originally, 丩 referred to the concept of entanglement directly, and 糹 (the silk radical) was later added to emphasize the textile-related meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "丩",
+      "trad": "丩",
+      "pinyin": "jiū",
+      "english": "to entangle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他糾(糾)我的口误(我的口誤)，并讲解正确发音(並講解正確發音)。",
+      "pinyin": "Tā jiū wǒ de kǒuwù, bìng jiǎngjiě zhèngquè fāyīn.",
+      "english": "He corrected my slip of the tongue and explained the correct pronunciation."
+    },
+    {
+      "chinese": "经理要求员工糾(糾)报告中的遗漏(報告中的遺漏)，以确保准确性(以確保準確性)。",
+      "pinyin": "Jīnglǐ yāoqiú yuángōng jiū bàogào zhōng de yílòu, yǐ quèbǎo zhǔnquèxìng.",
+      "english": "The manager required the employees to correct the omissions in the report to ensure accuracy."
+    },
+    {
+      "chinese": "专家在讨论中糾(糾)理论漏洞(理論漏洞)。",
+      "pinyin": "Zhuānjiā zài tǎolùn zhōng jiū lǐlùn lòudòng.",
+      "english": "The expert corrected the theoretical loopholes during the discussion."
+    }
+  ]
+}

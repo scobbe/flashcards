@@ -1,0 +1,39 @@
+{
+  "simplified": "危险",
+  "traditional": "危險",
+  "pinyin": "wēixiǎn",
+  "english": "dangerous",
+  "etymology": {
+    "type": "compound word",
+    "description": "危(危) (wēi, \"dangerous\") + 險(險) (xiǎn, \"danger\") = a state of danger or risk",
+    "interpretation": "危險(危險) (wēixiǎn, \"dangerous\") describes a situation that involves a high degree of risk or the potential for harm. The combination of 危(危) (wēi, \"dangerous\") and 險(險) (xiǎn, \"danger\") emphasizes the seriousness and potential threat inherent in such circumstances.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "危",
+      "trad": "危",
+      "pinyin": "wēi",
+      "english": "dangerous; high; steep; critical"
+    },
+    {
+      "char": "险",
+      "trad": "險",
+      "pinyin": "xiǎn",
+      "english": "danger; risk; hazard; peril"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这里很危险(這裡很危險)。",
+      "pinyin": "Zhèlǐ hěn wēixiǎn.",
+      "english": "It is dangerous here."
+    },
+    {
+      "chinese": "那条路很危险(那條路很危險)，许多人避而远之(許多人避而遠之)。",
+      "pinyin": "Nà tiáo lù hěn wēixiǎn, xǔduō rén bì ér yuǎn zhī.",
+      "english": "That road is very dangerous, so many people avoid it."
+    }
+  ]
+}

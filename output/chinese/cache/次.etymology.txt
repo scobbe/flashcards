@@ -1,0 +1,17 @@
+[次]
+Pictogram ( 象形 ): a person exhaling. [ 字源 1 ] Possibly the original form of 咨 ( OC *ʔsli , “to sigh”).
+Shuowen interprets it as a phono-semantic compound of 二 ( OC *njis ) + 欠 . However, the ancient forms of the character do not support this. [ 字源 2 ]
+The breath or saliva is is represented by 二 or 冫 , depending on the font. An old variant of the character is 𣄭 .
+See 曰 , 丂 , 于 , 只 , which also feature depictions of breathing. Unrelated to 㳄 , which means "saliva" instead.
+
+[㳄]
+variant form of 涎
+
+[涎]
+Phono-semantic compound ( 形聲 / 形声 , OC *ljan, *lans ): semantic 水 ( “ water ” ) + phonetic 延 ( OC *lan, *lans ) .
+
+[瀾]
+Phono-semantic compound ( 形聲 / 形声 , OC *ɡ·raːn, *ɡ·raːns ): semantic 氵 ( “ water ” ) + phonetic 闌 ( OC *ɡ·raːn ) .
+
+[澜]
+Simplified from 瀾 ( 門 → 门 )

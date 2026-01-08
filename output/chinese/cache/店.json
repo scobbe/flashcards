@@ -1,0 +1,44 @@
+{
+  "simplified": "店",
+  "traditional": "店",
+  "pinyin": "diàn",
+  "english": "shop",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "广(广) (guǎng, \"house built to depend on a cliff\") + 占(占) (zhān, \"divine\") = house component gives a context of a structure + phonetic component provides sound -> shop",
+    "interpretation": "The character 店(店) (diàn, \"shop\") combines a component representing a building structure, underlining its meaning as a place of commerce, with a phonetic element that hints at its pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "house built to depend on a cliff"
+    },
+    {
+      "char": "占",
+      "trad": "占",
+      "pinyin": "zhān",
+      "english": "divine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这家店很好(這家店很好)。",
+      "pinyin": "Zhè jiā diàn hěn hǎo.",
+      "english": "This shop is good."
+    },
+    {
+      "chinese": "店里人很多(店裡人很多)。",
+      "pinyin": "Diàn lǐ rén hěn duō.",
+      "english": "There are many people in the shop."
+    },
+    {
+      "chinese": "他去那家店(他去那家店)，买东西(買東西)。",
+      "pinyin": "Tā qù nà jiā diàn, mǎi dōngxi.",
+      "english": "He goes to that shop to buy things."
+    }
+  ]
+}

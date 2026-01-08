@@ -1,0 +1,39 @@
+{
+  "simplified": "航",
+  "traditional": "航",
+  "pinyin": "háng",
+  "english": "navigation; aviation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "舟(舟) (zhōu, \"boat\") + 亢(亢) (kàng, \"high\") = vessel-related concept with sound from phonetic -> navigation or aviation",
+    "interpretation": "The character 航 combines the semantic 舟(舟) (zhōu, \"boat\"), indicating its association with boats or vessels, and the phonetic 亢(亢) (kàng), which contributes to its pronunciation, thus relating to activities involving navigation or aviation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    },
+    {
+      "char": "亢",
+      "trad": "亢",
+      "pinyin": "kàng",
+      "english": "high"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "飞机在蓝天中航行(飛機在藍天中航行)。",
+      "pinyin": "Fēijī zài lántiān zhōng hángxíng.",
+      "english": "The airplane navigates in the blue sky."
+    },
+    {
+      "chinese": "古代水手依靠星辰航向(古代水手依靠星辰航向)，开启远航梦想(開啟遠航夢想)。",
+      "pinyin": "Gǔdài shuǐshǒu yīkào xīngchén hángxiàng, kāiqǐ yuǎn háng mèngxiǎng.",
+      "english": "Ancient sailors relied on the stars for navigation and set off on dreams of long voyages."
+    }
+  ]
+}

@@ -5,27 +5,18 @@
   "english": "to govern/cut",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts crossed lines resembling scissors or a shearing motion -> to cut or govern",
-    "interpretation": "The character 乂(乂) (yì, 'to govern/cut') visually represents crossed lines, similar to scissors in action. This pictorial form evolved to also symbolize governance, suggesting control or regulation akin to the precision of cutting.",
+    "description": "Depicts a tool similar to a knife or possibly a huge pair of scissors",
+    "interpretation": "The character 乂 (yì, \"to govern/cut\") shows a tool, possibly a sickle or large scissors, reflecting its original purpose in cutting or mowing. This meaning influenced its derivative 刈 (yì, \"to mow/cut weed\").",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "圣君乂天下(聖君乂天下)。",
-      "pinyin": "Shèng jūn yì tiānxià.",
-      "english": "A sagacious ruler governs the world."
-    },
-    {
-      "chinese": "皇帝以宽仁乂天下(皇帝以寬仁乂天下)，令百姓安居(令百姓安居)。",
-      "pinyin": "Huángdì yǐ kuān rén yì tiānxià, lìng bǎixìng ānjū.",
-      "english": "The emperor governs the world with benevolence, enabling the people to live in peace."
-    },
-    {
-      "chinese": "厨师用刀乂肉块(廚師用刀乂肉塊)，准备宴席(準備宴席)。",
-      "pinyin": "Chúshī yòng dāo yì ròukuài, zhǔnbèi yànxí.",
-      "english": "The chef cuts the pieces of meat with a knife, preparing for the banquet."
+      "char": "刈",
+      "trad": "刈",
+      "pinyin": "yì",
+      "english": "mow/cut weed"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

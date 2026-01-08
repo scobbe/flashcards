@@ -5,8 +5,8 @@
   "english": "sound of metal or stone",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "声(声) (shēng, \"stone chime\") + 殳(殳) (shū, \"hand holding a hammer or a mallet\") = a stone chime being struck by a mallet -> sound of metal or stone",
-    "interpretation": "The character 殸(qīng) represents the act of striking a stone chime with a mallet, evoking the clear sound produced by such an action. Similar compositions like 鼓(鼓) (gǔ, \"drum\") convey related concepts through the depiction of instruments being played.",
+    "description": "声(声) (shēng, 'stone chime') + 殳(殳) (shū, 'hand holding a hammer or a mallet') = a stone chime being struck by a mallet",
+    "interpretation": "The character 殸 visually represents the action of striking a stone chime with a mallet, which creates sound. This construction mirrors the logic of other characters like 鼓(鼓) (gǔ, 'drum'), where the depicted action and its result align to convey meaning.",
     "simplification": ""
   },
   "parts": [
@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "金属碰撞发出殸声(金屬碰撞發出殸聲)。",
-      "pinyin": "Jīnshǔ pèngzhuàng fāchū qīng shēng.",
-      "english": "The collision of metals produces a resonant sound."
-    },
-    {
-      "chinese": "铁门碰撞敲击时发出殸声(鐵門碰撞敲擊時發出殸聲)，古钟悠扬回荡着(古鐘悠揚回蕩著)。",
-      "pinyin": "Tiěmén pèngzhuàng qiāojí shí fāchū qīng shēng, gǔ zhōng yōuyáng huídàng zhe.",
-      "english": "When the iron doors clash, they emit a metallic chime, and the ancient bell echoes melodiously."
-    }
-  ]
+  "examples": []
 }

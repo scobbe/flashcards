@@ -5,8 +5,8 @@
   "english": "make do with a meal",
   "etymology": {
     "type": "compound word",
-    "description": "凑(湊) (còu, \"gather together\") and 火(火) (huǒ, \"fire\") combine to form a colloquial phrase.",
-    "interpretation": "In the phrase 凑凑火(湊湊火), 凑凑(湊湊) (còucòu, \"make do\") and 火(火) (huǒ, \"fire\") suggest the practice of making do with what is available for a meal, symbolized by creating a fire. It implies making something work or managing with limited resources.",
+    "description": "湊(湊) (còu, \"gather\"), 湊(湊) (còu, \"gather\"), 火(火) (huǒ, \"fire\"; \"meal\")",
+    "interpretation": "The phrase 湊湊火 (còu còu huǒ) literally involves the act of gathering 火(火) (huǒ, \"fire\"; \"meal\"). In context, it connotes the idea of improvising to make do with the available resources for a meal, often by quickly putting together something casual. This reflects a cultural attitude towards frugality and adaptability in situations where one might not have all desired ingredients or time.",
     "simplification": ""
   },
   "parts": [
@@ -14,32 +14,32 @@
       "char": "凑",
       "trad": "湊",
       "pinyin": "còu",
-      "english": "gather together; make do"
+      "english": "gather"
     },
     {
       "char": "凑",
       "trad": "湊",
       "pinyin": "còu",
-      "english": "gather together; make do"
+      "english": "gather"
     },
     {
       "char": "火",
       "trad": "火",
       "pinyin": "huǒ",
-      "english": "fire; flame; urgent"
+      "english": "fire; meal"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "今晚的晚饭只能凑凑火(今晚的晚飯只能湊湊火)。",
       "pinyin": "jīn wǎn de wǎn fàn zhǐ néng còu còu huǒ",
-      "english": "Tonight's dinner can only make do with a simple meal."
+      "english": "We can only make do with tonight's dinner."
     },
     {
-      "chinese": "朋友邀约聚餐(朋友邀約聚餐)，他只好凑凑火应付(他只好湊湊火應付)。",
-      "pinyin": "péng yǒu yāo yuē jù cān, tā zhǐ hǎo còu còu huǒ yìng fù",
-      "english": "When friends invite him to a dinner, he can only make do with a modest meal."
+      "chinese": "工作日加班时(工作日加班時)，办公室里只能凑凑火(辦公室裡只能湊湊火)。",
+      "pinyin": "gōng zuò rì jiā bān shí, bàngōng shì lǐ zhǐ néng còu còu huǒ",
+      "english": "On workdays when working overtime, the office can only manage a makeshift meal."
     }
   ]
 }

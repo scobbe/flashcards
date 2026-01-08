@@ -1,0 +1,56 @@
+{
+  "simplified": "戌",
+  "traditional": "戌",
+  "pinyin": "xū",
+  "english": "pestle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Variant form of 恤(恤) (xù, \"pity\") and derived from 裇(裇) (xū, \"pestle\") with semantic 衤(衤) (yī, \"clothing\") + phonetic 血(血) (xiě, \"blood\") -> 衤 replaced radical in 恤 -> final form 戌",
+    "interpretation": "戌(xū) is a variant form of 恤(xù, \"pity\") and has evolved as a replacement radical from 裇(xū, \"pestle\") through Cantonese phonetic derivation. It combines the element related to clothing with the phonetic element for 'blood'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "恤",
+      "trad": "恤",
+      "pinyin": "xù",
+      "english": "pity"
+    },
+    {
+      "char": "裇",
+      "trad": "裇",
+      "pinyin": "xū",
+      "english": "pestle"
+    },
+    {
+      "char": "衤",
+      "trad": "衤",
+      "pinyin": "yī",
+      "english": "clothing"
+    },
+    {
+      "char": "血",
+      "trad": "血",
+      "pinyin": "xiě",
+      "english": "blood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用戌捣碎大米(他用戌搗碎大米)。",
+      "pinyin": "Tā yòng xū dǎosuì dàmǐ.",
+      "english": "He used a pestle to grind the rice."
+    },
+    {
+      "chinese": "妈妈把米放在大缸里(媽媽把米放在大缸裡)，用戌捣成米浆(用戌搗成米漿)。",
+      "pinyin": "Māmā bǎ mǐ fàng zài dà gāng lǐ, yòng xū dǎochéng mǐjiāng.",
+      "english": "Mom put the rice in the big jar and used a pestle to grind it into rice paste."
+    },
+    {
+      "chinese": "石磨里的戌坚固耐用(石磨裡的戌堅固耐用)。",
+      "pinyin": "Shímó lǐ de xū jiāngù nàiyòng.",
+      "english": "The pestle in the stone mill is sturdy and durable."
+    }
+  ]
+}

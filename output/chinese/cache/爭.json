@@ -1,0 +1,44 @@
+{
+  "simplified": "爭",
+  "traditional": "爭",
+  "pinyin": "zhēng",
+  "english": "contend",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two hands on a plowshare (爪 + 彐) -> modern form retains hands and plowshare",
+    "interpretation": "The character 爭(爭) (zhēng, \"contend\") visually represents two hands grasping a plowshare, symbolizing a struggle or contention for possession or use of the plowshare.",
+    "simplification": "The simplified form 争(爭) removes the hand components to simplify the character, focusing on the central vertical hook, which resembles the plowshare."
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw"
+    },
+    {
+      "char": "彐",
+      "trad": "彐",
+      "pinyin": "jì",
+      "english": "snout"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "运动员们在赛场上争取荣誉(運動員們在賽場上爭取榮譽)。",
+      "pinyin": "Yùndòngyuán men zài sàichǎng shàng zhēngqǔ róngyù.",
+      "english": "The athletes contend for honor on the field."
+    },
+    {
+      "chinese": "两个国家争夺领土(兩個國家爭奪領土)，局势一触即发(局勢一觸即發)。",
+      "pinyin": "Liǎng gè guójiā zhēngduó lǐngtǔ, júshì yī chù jí fā.",
+      "english": "Two countries are contending for territory, and the situation is about to erupt."
+    },
+    {
+      "chinese": "领导在会议上争取支持(領導在會議上爭取支持)。",
+      "pinyin": "Lǐngdǎo zài huìyì shàng zhēngqǔ zhīchí.",
+      "english": "The leader contends for support in the meeting."
+    }
+  ]
+}

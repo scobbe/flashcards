@@ -1,0 +1,44 @@
+{
+  "simplified": "娜",
+  "traditional": "娜",
+  "pinyin": "Nà",
+  "english": "a name",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "女(女) (nǚ, \"woman\") + 那(那) (nà, \"that\") = semantic element indicating femininity + phonetic element providing pronunciation -> used as a feminine name component/",
+    "interpretation": "娜(娜) (nà, \"a name\") combines 女(女) to indicate a female name or noun, and phonetic 那(那) to provide the pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "那",
+      "trad": "那",
+      "pinyin": "nà",
+      "english": "that"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "娜老师(娜老師)。",
+      "pinyin": "Nà lǎoshī。",
+      "english": "Teacher Na."
+    },
+    {
+      "chinese": "我叫娜(我叫娜)。",
+      "pinyin": "Wǒ jiào Nà。",
+      "english": "My name is Na."
+    },
+    {
+      "chinese": "娜在校园中努力学习(娜在校園中努力學習)。",
+      "pinyin": "Nà zài xiàoyuán zhōng nǔlì xuéxí。",
+      "english": "Na studies hard on campus."
+    }
+  ]
+}

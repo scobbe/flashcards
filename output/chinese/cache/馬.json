@@ -1,0 +1,44 @@
+{
+  "simplified": "馬",
+  "traditional": "馬",
+  "pinyin": "mǎ",
+  "english": "horse",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Horse with head left, flowing mane -> head simplified to 目(目) (mù, \"eye\"); legs to 灬(灬) (huǒ, \"four dots\")",
+    "interpretation": "The character 馬(馬) (mǎ, \"horse\") pictorially represents a horse with a flowing mane and simplified features: the head as an eye and legs as dots. It clearly conveys the image of a horse.",
+    "simplification": "马(馬): simplified by adopting a cursive script form."
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "huǒ",
+      "english": "four dots"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那匹马在草原上奔跑(那匹馬在草原上奔跑)。",
+      "pinyin": "Nà pǐ mǎ zài cǎoyuán shàng bēnpǎo.",
+      "english": "That horse runs on the grassland."
+    },
+    {
+      "chinese": "农夫牵着马(農夫牽着馬)，走向村庄(走向村莊)。",
+      "pinyin": "Nóngfū qiānzhe mǎ, zǒuxiàng cūnzhuāng.",
+      "english": "The farmer leads the horse, walking towards the village."
+    },
+    {
+      "chinese": "小女孩骑着马(小女孩騎着馬)，在花园里玩耍(在花園里玩耍)。",
+      "pinyin": "Xiǎo nǚhái qízhe mǎ, zài huāyuán lǐ wánshuǎ.",
+      "english": "The little girl rides the horse, playing in the garden."
+    }
+  ]
+}

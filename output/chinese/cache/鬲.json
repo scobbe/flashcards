@@ -5,27 +5,27 @@
   "english": "cauldron",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cauldron",
-    "interpretation": "鬲(鬲) (lì, \"cauldron\") represents a three-legged cooking vessel. This character is an ancient pictogram of a cauldron, which was a common and practical object in ancient Chinese life for preparing food.",
+    "description": "Pictogram of a pottery vessel -> stylized as a cauldron",
+    "interpretation": "鬲(lì, \"cauldron\") is a pictogram representing a pottery vessel or cauldron used in ancient cooking practices. It visually depicts the shape of an ancient pot, emphasizing its use in cooking and ceremonies.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "博物馆里展出了古代的鬲(博物館里展出了古代的鬲)。",
-      "pinyin": "Bó wù guǎn lǐ zhǎn chū le gǔ dài de lì.",
-      "english": "The museum exhibited an ancient cauldron."
+      "chinese": "考古学家在遗址中发现了一个古老的鬲(考古學家在遺址中發現了一個古老的鬲)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn le yīgè gǔlǎo de lì。",
+      "english": "Archaeologists discovered an ancient cauldron at the ruins."
     },
     {
-      "chinese": "考古学家在遗址中发现了精美的鬲(考古學家在遺址中發現了精美的鬲)，展示着古代的铸造技艺(展示著古代的鑄造技藝)。",
-      "pinyin": "Kǎo gǔ xué jiā zài yí zhǐ zhōng fā xiàn le jīng měi de lì, zhǎn shì zhe gǔ dài de zhù zào jì yì.",
-      "english": "Archaeologists discovered an exquisitely made cauldron at the ruins, showcasing ancient casting techniques."
+      "chinese": "博物馆展出了古代的鬲(博物館展出了古代的鬲)，说明远古人的生活(說明遠古人的生活)。",
+      "pinyin": "Bówùguǎn zhǎnchū le gǔdài de lì, shuōmíng yuǎngǔ rén de shēnghuó。",
+      "english": "The museum displayed an ancient cauldron, which illustrates the life of ancient people."
     },
     {
-      "chinese": "古代文献中多次提到鬲的用途(古代文獻中多次提到鬲的用途)，以体现其在宗教仪式中的地位(以體現其在宗教儀式中的地位)。",
-      "pinyin": "Gǔ dài wén xiàn zhōng duō cì tí dào lì de yòng tú, yǐ tǐ xiàn qí zài zōng jiào yí shì zhōng de dì wèi.",
-      "english": "Ancient texts mention the use of cauldrons many times, reflecting their significance in religious ceremonies."
+      "chinese": "在古代，鬲不仅是烹饪器具(在古代，鬲不僅是烹飪器具)，更是宗教祭祀的重要象征(更是宗教祭祀的重要象徵)。",
+      "pinyin": "Zài gǔdài, lì bùjǐn shì pēngrèn qìjù, gèng shì zōngjiào jìsì de zhòngyào xiàngzhēng。",
+      "english": "In ancient times, the cauldron was not only a cooking utensil, but also an important symbol in religious ceremonies."
     }
   ]
 }

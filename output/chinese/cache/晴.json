@@ -1,0 +1,44 @@
+{
+  "simplified": "晴",
+  "traditional": "晴",
+  "pinyin": "qíng",
+  "english": "clear; fine [weather]",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 青(青) (qīng, phonetic) = sun shining brightly -> clear, fine (weather)",
+    "interpretation": "晴(晴) (qíng) combines the semantic element 日(日) (rì, \"sun\"), representing sunlight, with the phonetic 青(青) (qīng), suggesting clarity or brightness. Together, they convey the notion of clear, fine weather when the sun is unobstructed, which aligns with the character's meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "青",
+      "trad": "青",
+      "pinyin": "qīng",
+      "english": "blue-green"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天天气晴(今天天氣晴)，万里无云(萬里無雲)。",
+      "pinyin": "Jīntiān tiānqì qíng, wànlǐ wú yún.",
+      "english": "Today's weather is clear, with not a cloud in sight."
+    },
+    {
+      "chinese": "晴天适合出游(晴天適合出遊)。",
+      "pinyin": "Qíngtiān shìhé chūyóu.",
+      "english": "Clear weather is perfect for traveling."
+    },
+    {
+      "chinese": "经过阴雨(經過陰雨)，现已转晴(現已轉晴)。",
+      "pinyin": "Jīngguò yīnyǔ, xiàn yǐ zhuǎn qíng.",
+      "english": "After days of rain, the weather has turned clear."
+    }
+  ]
+}

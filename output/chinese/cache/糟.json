@@ -1,0 +1,44 @@
+{
+  "simplified": "糟",
+  "traditional": "糟",
+  "pinyin": "zāo",
+  "english": "sediment; dregs",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "米(米) (mǐ, \"rice\") + 曹(曹) (cáo, \"place\") = reference to rice and liquor -> \"sediment; dregs\"",
+    "interpretation": "The character 糟(zāo) combines the semantic element 米(米) (mǐ, \"rice\"), indicating its relation to rice products, with the phonetic component 曹(曹) (cáo, \"place\"), reflecting the pronunciation. Its original use referred to unfiltered liquids like fermented rice liquor, emphasizing its meaning of 'sediment' or 'dregs'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "曹",
+      "trad": "曹",
+      "pinyin": "cáo",
+      "english": "place"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这杯酒的糟(這杯酒的糟)，很适合做调味料(很適合做調味料)。",
+      "pinyin": "Zhè bēi jiǔ de zāo, hěn shìhé zuò tiáo wèi liào.",
+      "english": "The sediment of this wine is perfect for making condiments."
+    },
+    {
+      "chinese": "发酵过程中形成的糟(發酵過程中形成的糟)，含有丰富糖分(含有豐富糖分)。",
+      "pinyin": "Fājiào guòchéng zhōng xíngchéng de zāo, hán yǒu fēngfù tángfēn.",
+      "english": "The dregs formed during fermentation contain abundant sugars."
+    },
+    {
+      "chinese": "经过精心酿造，酒中糟(經過精心釀造，酒中糟)积聚了独特风味(積聚了獨特風味)。",
+      "pinyin": "Jīngguò jīngxīn niàngzào, jiǔ zhōng zāo jījù le dútè fēngwèi.",
+      "english": "Through careful brewing, the sediment in the wine has accumulated a unique flavor."
+    }
+  ]
+}

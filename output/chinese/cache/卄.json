@@ -4,23 +4,25 @@
   "pinyin": "niàn",
   "english": "twenty",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a bundle of twenty sticks",
-    "interpretation": "The character 卄(卄) (niàn, \"twenty\") visually resembles a grouping of vertical lines, representing the number 20, similar to tally marks.",
+    "type": "variant form",
+    "description": "十(十) (shí, \"ten\") + 十(十) (shí, \"ten\") with a connecting stroke -> variant of 廿(廿) (niàn, \"twenty\")",
+    "interpretation": "卄(卄) (niàn, \"twenty\") is a variant form of 廿(廿) (niàn, \"twenty\"), which visually combines two 十(十) (shí, \"ten\") characters with a horizontal stroke to represent the concept of 'twenty'.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他的年龄是卄岁(他的年齡是卄歲)。",
-      "pinyin": "Tā de niánlíng shì niàn suì.",
-      "english": "He is twenty years old."
+      "char": "廿",
+      "trad": "廿",
+      "pinyin": "niàn",
+      "english": "twenty"
     },
     {
-      "chinese": "班级里有卄位学生(班級裡有卄位學生)，他们都积极参加活动(他們都積極參加活動)。",
-      "pinyin": "Bānjí lǐ yǒu niàn wèi xuéshēng, tāmen dōu jījí cānjiā huódòng.",
-      "english": "There are twenty students in the class, and they all participate actively in activities."
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

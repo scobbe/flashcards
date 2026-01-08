@@ -1,0 +1,28 @@
+{
+  "simplified": "𥏻",
+  "traditional": "𥏻",
+  "pinyin": "",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, 'bamboo') + 奚(奚) (xī, 'what') = phonetic component 奚 (xī) with bamboo radical -> phonetic character",
+    "interpretation": "The character 𥏻 combines the bamboo radical 竹(竹) (zhú, 'bamboo') with the phonetic component 奚(奚) (xī, 'what'), suggesting that it involves something related to bamboo, guided by the phonetic cue of 'xī'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "奚",
+      "trad": "奚",
+      "pinyin": "xī",
+      "english": "what"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

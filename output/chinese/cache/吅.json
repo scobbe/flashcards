@@ -1,0 +1,22 @@
+{
+  "simplified": "吅",
+  "traditional": "吅",
+  "pinyin": "xuān",
+  "english": "gathering sounds",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 口(口) (kǒu, \"mouth\") = gathering of sounds -> meaning involves sound or vocalization",
+    "interpretation": "The character 吅(xuān) consists of two 口(口) (kǒu, \"mouth\") characters, representing the concept of sound or voices coming together, indicative of its meaning related to gathering sounds. This combination of duplicate semantic elements implies an emphasis on vocalization or the collective presence of sound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

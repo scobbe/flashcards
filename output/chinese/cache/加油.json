@@ -1,0 +1,44 @@
+{
+  "simplified": "加油",
+  "traditional": "加油",
+  "pinyin": "jiāyóu",
+  "english": "to make an extra effort; to cheer someone on",
+  "etymology": {
+    "type": "compound word",
+    "description": "加(加) (jiā, \"add\") + 油(油) (yóu, \"oil\") - in racing contexts, to add oil originally referred to adding fuel for more power, hence cheering someone on to do better.",
+    "interpretation": "加油(加油) (jiāyóu) literally means 'add oil,' a metaphorical expression encouraging someone to work harder, persevere, or do better. Historically, the term derived from motor sports where adding oil meant boosting vehicle performance, thus symbolically encouraging someone to enhance their efforts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "加",
+      "trad": "加",
+      "pinyin": "jiā",
+      "english": "add; increase; join"
+    },
+    {
+      "char": "油",
+      "trad": "油",
+      "pinyin": "yóu",
+      "english": "oil; fuel; grease"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "比赛前(比賽前)，教练对运动员说要加油(教練對運動員說要加油)。",
+      "pinyin": "Bǐsài qián, jiàoliàn duì yùndòngyuán shuō yào jiāyóu.",
+      "english": "Before the match, the coach told the athletes to make an extra effort."
+    },
+    {
+      "chinese": "考试时(考試時)，同学互相加油(同學互相加油)。",
+      "pinyin": "Kǎoshì shí, tóngxué hùxiāng jiāyóu.",
+      "english": "During the exam, classmates cheered each other on."
+    },
+    {
+      "chinese": "比赛中(比賽中)，观众不断喊加油(觀眾不斷喊加油)。",
+      "pinyin": "Bǐsài zhōng, guānzhòng bùduàn hǎn jiāyóu.",
+      "english": "During the competition, the audience continuously shouted encouragement."
+    }
+  ]
+}

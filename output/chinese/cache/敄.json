@@ -1,0 +1,28 @@
+{
+  "simplified": "敄",
+  "traditional": "敄",
+  "pinyin": "wù",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 矛(矛) (máo, \"spear\") + semantic 攵(攵) (pū, \"action\") = action related to spear",
+    "interpretation": "敄(wù) combines 矛(矛) (máo, \"spear\") as the phonetic component and 攵(攵) (pū, \"action\") as the semantic component to convey the meaning of an action involving a spear.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "矛",
+      "trad": "矛",
+      "pinyin": "máo",
+      "english": "spear"
+    },
+    {
+      "char": "攵",
+      "trad": "攵",
+      "pinyin": "pū",
+      "english": "action"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

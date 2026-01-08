@@ -1,0 +1,39 @@
+{
+  "simplified": "牀",
+  "traditional": "牀",
+  "pinyin": "chuáng",
+  "english": "bed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "牀(牀) (chuáng, \"bed\") composed of 爿(牀) (qiáng, \"half of a tree trunk\") + 木(木) (mù, \"tree\") = tree trunk used for support -> bed or wooden bed frame",
+    "interpretation": "牀(牀) (chuáng, \"bed\") is a phono-semantic compound where 爿(牀) (qiáng, \"half of a tree trunk\") provides the phonetic element, and 木(木) (mù, \"tree\") gives the semantic component, representing its construction from wood.",
+    "simplification": "床(床) incorporates 广(广) (guǎng, \"house\") indicating its placement inside, making 日(日) (rì, \"sun\") unnecessary."
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "牀",
+      "pinyin": "qiáng",
+      "english": "half of a tree trunk"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这张牀(牀)很舒适(很舒適)。",
+      "pinyin": "Zhè zhāng chuáng hěn shūshì.",
+      "english": "This bed is very comfortable."
+    },
+    {
+      "chinese": "晚上睡觉时(晚上睡覺時)，我躺在牀上休息(我躺在牀上休息)。",
+      "pinyin": "Wǎnshàng shuìjiào shí, wǒ tǎng zài chuáng shàng xiūxí.",
+      "english": "When it is time to sleep at night, I lie on the bed to rest."
+    }
+  ]
+}

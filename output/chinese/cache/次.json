@@ -1,0 +1,38 @@
+{
+  "simplified": "次",
+  "traditional": "次",
+  "pinyin": "cì",
+  "english": "time; instance",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person exhaling -> Possibly original form of 咨(咨) (zī, \"to sigh\")",
+    "interpretation": "次(次) (cì, \"time; instance\") originally depicted a person exhaling, indicative of a sigh or breath, which aligns with its original use related to respiration. Over time, it became abstracted to mean 'time' or 'instance' likely due to repetitive or rhythmic nature of breathing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "咨",
+      "trad": "咨",
+      "pinyin": "zī",
+      "english": "to sigh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我去过北京很多次(我去過北京很多次)。",
+      "pinyin": "Wǒ qù guò Běijīng hěn duō cì.",
+      "english": "I have been to Beijing many times."
+    },
+    {
+      "chinese": "经过第一次失败后(經過第一次失敗後)，他总结经验(他總結經驗)。",
+      "pinyin": "Jīngguò dì yī cì shībài hòu, tā zǒngjié jīngyàn.",
+      "english": "After failing the first time, he summed up his experience."
+    },
+    {
+      "chinese": "这次活动充满乐趣(這次活動充滿樂趣)。",
+      "pinyin": "Zhè cì huódòng chōngmǎn lèqù.",
+      "english": "This event is full of fun."
+    }
+  ]
+}

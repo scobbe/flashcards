@@ -1,0 +1,34 @@
+{
+  "simplified": "夌",
+  "traditional": "夌",
+  "pinyin": "líng",
+  "english": "climb/surpass",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"tree\") + 人(人) (rén, \"person\") + 夂(夂) (zhǐ, \"foot\") -> person climbing a tree",
+    "interpretation": "The character 夌 originally depicted a person (人) climbing or surpassing a tree (木) with a foot added below (夂) to indicate movement upwards or overcoming. The modern form is highly stylized but retains this idea of surpassing or climbing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "夂",
+      "trad": "夂",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "疣",
+  "traditional": "疣",
+  "pinyin": "yóu",
+  "english": "wart",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 疒(疒) (chuáng, \"disease\") + phonetic 尤(尤) (yóu) = representative of disease-related condition -> wart",
+    "interpretation": "The character 疣(yóu) links the semantic component 疒(疒) to suggest a disease or ailment, with the phonetic 尤(尤) contributing its sound element. This combination fittingly represents 'wart' as a specific medical condition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疒",
+      "trad": "疒",
+      "pinyin": "nè",
+      "english": "disease"
+    },
+    {
+      "char": "尤",
+      "trad": "尤",
+      "pinyin": "yóu",
+      "english": "outstanding"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的皮肤上长了一个疣(他的皮膚上長了一個疣)。",
+      "pinyin": "Tā de pífū shàng zhǎngle yīgè yóu.",
+      "english": "He has a wart growing on his skin."
+    },
+    {
+      "chinese": "医生建议他用药膏(醫生建議他用藥膏)，去除疣(去除疣)。",
+      "pinyin": "Yīshēng jiànyì tā yòng yàogāo, qùchú yóu.",
+      "english": "The doctor suggested using ointment to remove the wart."
+    },
+    {
+      "chinese": "中医认为疣与体内湿气有关(中醫認為疣與體內濕氣有關)。",
+      "pinyin": "Zhōngyī rènwéi yóu yǔ tǐnèi shīqì yǒuguān.",
+      "english": "Traditional Chinese medicine believes that warts are related to internal dampness."
+    }
+  ]
+}

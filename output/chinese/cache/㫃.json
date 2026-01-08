@@ -1,26 +1,28 @@
 {
   "simplified": "㫃",
   "traditional": "㫃",
-  "pinyin": "guó",
+  "pinyin": "qi",
   "english": "flag",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a flag on a pole with a decoration on top -> stylized flag as 方 (fāng, \"square\")",
-    "interpretation": "㫃(㫃) (guó, \"flag\") is a pictogram that originally depicted a flag on a pole with a decoration, indicating its usage for marking or signaling. Over time, the depiction was simplified into a form resembling 方 (fāng, \"square\"), though unrelated to the word's ancient depiction.",
+    "description": "Depicts a flag on a pole with a decoration on top -> today stylized as 方(方) (fāng, \"square\")",
+    "interpretation": "The character 㫃 depicts a flag attached to a pole with a decorative element on top. Over time, this visual representation simplified, with the flag being stylized to resemble 方(方) (fāng, \"square\"). This pictographic origin highlights its evolution from a detailed representation to a more abstract form. The character is related to 倝 yet distinct from other characters like 朝.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "国庆节当天(國慶節當天)，人们挥舞着红色的㫃(㫃)。",
-      "pinyin": "Guóqìng jié dāngtiān, rénmen huīwǔ zhe hóngsè de guó.",
-      "english": "On National Day, people waved the red flag."
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "square"
     },
     {
-      "chinese": "士兵整齐列阵(士兵整齊列陣)，展示着胜利的㫃(㫃)。",
-      "pinyin": "Shìbīng zhěngqí lièzhèn, zhǎnshì zhe shènglì de guó.",
-      "english": "The soldiers formed a neat formation and displayed the flag of victory."
+      "char": "倝",
+      "trad": "倝",
+      "pinyin": "gàn",
+      "english": "bright"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

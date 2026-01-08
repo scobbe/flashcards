@@ -1,0 +1,62 @@
+{
+  "simplified": "学",
+  "traditional": "學",
+  "pinyin": "xué",
+  "english": "learn; study; science; knowledge",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetics: 爻(爻) + 六(六) -> 𦥑 added + semantic 子(子, \"child\") -> 學; 六 transformed into 冖(冖, \"cover\") + hands 𦥑 around 爻 connected with 冖",
+    "interpretation": "The character originally combined phonetic components 爻 and 六 with 子 to depict the concept of studying or learning, symbolized by a child learning in a roofed place. Over time, the component 六 evolved into 冖, and the surrounding elements merged to form the modern character.",
+    "simplification": "学 is simplified by removing部分 like 子(子) (zǐ, \"child\") and simplifying 爻(爻) (yáo, \"two crossing lines\") into simpler strokes under 冖(冖, \"cover\")."
+  },
+  "parts": [
+    {
+      "char": "爻",
+      "trad": "爻",
+      "pinyin": "yáo",
+      "english": "two crossing lines"
+    },
+    {
+      "char": "六",
+      "trad": "六",
+      "pinyin": "liù",
+      "english": "six"
+    },
+    {
+      "char": "𦥑",
+      "trad": "𦥑",
+      "pinyin": "none",
+      "english": "mingling hands"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "冖",
+      "trad": "冖",
+      "pinyin": "mì",
+      "english": "cover"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天都努力学习(我每天都努力學習)。",
+      "pinyin": "Wǒ měitiān dōu nǔlì xuéxí.",
+      "english": "I study hard every day."
+    },
+    {
+      "chinese": "他喜欢在课堂上学知识(他喜歡在課堂上學知識)，并分享所学(並分享所學)。",
+      "pinyin": "Tā xǐhuān zài kètáng shàng xué zhīshì, bìng fēnxiǎng suǒ xué.",
+      "english": "He likes to acquire knowledge in class and share what he has learned."
+    },
+    {
+      "chinese": "科学的发展离不开学(科學的發展離不開學)，每个人都应不断学(每個人都應不斷學)。",
+      "pinyin": "Kēxué de fāzhǎn lí bùkāi xué, měi gèrén dōu yīng búduàn xué.",
+      "english": "The development of science cannot do without learning, and everyone should keep studying."
+    }
+  ]
+}

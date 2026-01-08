@@ -5,8 +5,8 @@
   "english": "oh",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 奧(奧) (ào) = semantic element of making a sound + phonetic element -> expression \"oh\"",
-    "interpretation": "The character 噢 combines the mouth radical 口(口) (kǒu, \"mouth\") indicating vocalization with the phonetic element 奧(奧) (ào) to express realization or acknowledgment, similar to saying \"oh\" in English.",
+    "description": "口(口) (kǒu, \"mouth\") + 謷(謷) (áo) = phonetic indicator and meaning of sound -> exclamation 'oh'",
+    "interpretation": "The character 噢(噢) combines 口(口) (kǒu, \"mouth\") to indicate sound or speaking, with 謷(謷) (áo) serving as the phonetic component. This combination captures the essence of the character as an exclamatory sound, typical for expressing surprise or realization.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "mouth"
     },
     {
-      "char": "奧",
-      "trad": "奧",
-      "pinyin": "ào",
-      "english": ""
+      "char": "謷",
+      "trad": "謷",
+      "pinyin": "áo",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
@@ -28,17 +28,12 @@
     {
       "chinese": "噢(噢)，我忘记带钥匙了(我忘記帶鑰匙了)。",
       "pinyin": "Ō, wǒ wàngjì dài yàoshi le.",
-      "english": "Oh, I forgot to bring my keys."
+      "english": "Oh, I forgot to bring the keys."
     },
     {
-      "chinese": "噢(噢)，这真令人惊讶(這真令人驚訝)。",
-      "pinyin": "Ō, zhè zhēn lìngrén jīngyà.",
-      "english": "Oh, that is really surprising."
-    },
-    {
-      "chinese": "噢(噢)！",
-      "pinyin": "Ō!",
-      "english": "Oh!"
+      "chinese": "噢(噢)，这真是个好主意(這真是個好主意)。",
+      "pinyin": "Ō, zhè zhēn shì ge hǎo zhǔyì.",
+      "english": "Oh, that's really a good idea."
     }
   ]
 }

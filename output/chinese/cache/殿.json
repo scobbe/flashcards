@@ -1,0 +1,44 @@
+{
+  "simplified": "殿",
+  "traditional": "殿",
+  "pinyin": "diàn",
+  "english": "hall",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𠂤 (buttocks) + 尸 (body) + 丌 (pedestal) = 𡱂 (buttocks) -> 𡱂 (phonetic) + 殳 (hand holding a weapon) = sound of hitting -> 殿 (hall)",
+    "interpretation": "The character 殿(diàn, 'hall') is a phono-semantic compound where 𡱂 originally represents 'buttocks,' conveying a physical base like a body or pedestal. This component is emphasized by 殳, which adds the sense of a hand holding a weapon, thus contributing the notion of force or structure. Together, they evolved to signify a 'hall,' which is a foundational and central structure in architecture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𡱂",
+      "trad": "𡱂",
+      "pinyin": "dùn",
+      "english": "buttocks"
+    },
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "hand holding a weapon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大殿庄严宏伟(大殿莊嚴宏偉)。",
+      "pinyin": "Dà diàn zhuāngyán hóngwěi.",
+      "english": "The hall is imposing and magnificent."
+    },
+    {
+      "chinese": "皇帝在大殿内接见大臣(皇帝在大殿內接見大臣)，颁布政令(頒布政令)。",
+      "pinyin": "Huángdì zài dà diàn nèi jiējiàn dàchén, bānbù zhènglìng.",
+      "english": "The emperor met his ministers in the hall and issued decrees."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，大殿内灯火辉煌(大殿內燈火輝煌)。",
+      "pinyin": "Yèmù jiànglín shí, dà diàn nèi dēnghuǒ huīhuáng.",
+      "english": "When night falls, the hall is brilliantly lit."
+    }
+  ]
+}

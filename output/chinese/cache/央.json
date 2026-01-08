@@ -1,0 +1,26 @@
+{
+  "simplified": "央",
+  "traditional": "央",
+  "pinyin": "yāng",
+  "english": "center",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a man with the neck in shackles -> borrowed to represent 央 (yāng, 'center')",
+    "interpretation": "The character originally depicted a man in shackles. It was later borrowed into use as a phonetic loan for 央 (yāng, 'center'). Although Shuowen suggests it represents a person inside a house, this later interpretation aligns with the semantic shift, not the original etymology.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "图书馆位于校园央(圖書館位於校園央)，吸引了无数学子(吸引了無數學子)。",
+      "pinyin": "Túshūguǎn wèiyú xiàoyuán yāng, xīyǐnle wúshù xuézǐ.",
+      "english": "The library is located at the center of the campus, attracting countless students."
+    },
+    {
+      "chinese": "商场位于城市央(商場位於城市央)。",
+      "pinyin": "Shāngchǎng wèiyú chéngshì yāng.",
+      "english": "The shopping mall is at the center of the city."
+    }
+  ]
+}

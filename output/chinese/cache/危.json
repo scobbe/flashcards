@@ -1,0 +1,38 @@
+{
+  "simplified": "危",
+  "traditional": "危",
+  "pinyin": "wēi",
+  "english": "dangerous; high; steep; critical",
+  "etymology": {
+    "type": "variant form",
+    "description": "危(危) (wēi, \"dangerous\") is a variant form of 懸(懸) (xuán, \"hang\")",
+    "interpretation": "The character 危(危) (wēi, \"dangerous\") is understood as a variant form of 懸(懸) (xuán, \"hang\"), emphasizing the meanings of danger and critical situations, derived from the notion of things hanging or suspended, which inherently carry risk.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "懸",
+      "trad": "懸",
+      "pinyin": "xuán",
+      "english": "hang"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山势险峻(山勢險峻)，情况危急(情況危急)。",
+      "pinyin": "Shān shì xiǎnjùn(Shān shì xiǎnjùn)，qíngkuàng wēijí(qíngkuàng wēijí)。",
+      "english": "The mountain terrain is steep, and the situation is critical."
+    },
+    {
+      "chinese": "那条山路又危又陡(那條山路又危又陡)。",
+      "pinyin": "Nà tiáo shānlù yòu wēi yòu dǒu(Nà tiáo shānlù yòu wēi yòu dǒu)。",
+      "english": "That mountain road is both dangerous and steep."
+    },
+    {
+      "chinese": "船行急流时(船行急流時)，处境非常危(處境非常危)。",
+      "pinyin": "Chuán xíng jíliú shí(Chuán xíng jíliú shí)，chǔjìng fēicháng wēi(Chǔjìng fēicháng wēi)。",
+      "english": "When the boat sails in rapid currents, its situation is extremely dangerous."
+    }
+  ]
+}

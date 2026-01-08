@@ -105,6 +105,7 @@ def create_chunk_folders(input_folder: Path, config, verbose: bool = False) -> i
     return num_chunks
 
 from lib.common import load_input_manifest
+from lib.common.manifest import check_and_clear_if_input_changed, save_input_hash, compute_file_hash
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
 from lib.output.chinese import process_chinese_folder
@@ -167,6 +168,9 @@ def process_folder(
     input_parsed_dir = output_dir.parent / "input-parsed"
     input_parsed_dir.mkdir(parents=True, exist_ok=True)
 
+    # Check if raw input file changed - if so, clear input-parsed directory
+    input_changed = check_and_clear_if_input_changed(raw_path, input_parsed_dir, verbose=verbose)
+
     # Clear output dir if cache is disabled (do this BEFORE checking manifest)
     if not config.cache:
         cleared = clear_output_dir_for_no_cache(input_folder, config)
@@ -216,6 +220,10 @@ def process_folder(
             input_manifest.get("in_progress", 0) == 0 and
             input_manifest.get("error", 0) == 0
         )
+
+        # Save raw input hash after successful parsing
+        if parsing_complete:
+            save_input_hash(input_parsed_dir, compute_file_hash(raw_path))
 
     # Input must be 100% complete before proceeding to output
     if not parsing_complete:

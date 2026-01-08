@@ -1,0 +1,45 @@
+{
+  "simplified": "时",
+  "traditional": "時",
+  "pinyin": "shí",
+  "english": "time; season",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 寺(寺) (sì, \"temple\") = footprint symbolizing sun's movement -> passing of time -> 寸(寸) (cùn, \"inch\") added -> final form",
+    "interpretation": "The character combines 日(日) (rì, \"sun\") as the semantic component representing the passage of time with 寺(寺) (sì, \"temple\") as the phonetic, which historically symbolized movement. The later addition of 寸(寸) (cùn, \"inch\") emphasizes precision in time measurement.",
+    "simplification": "时(時) is a cursive script variant where omitting 寸(寸) (cùn, \"inch\") simplifies without losing the core components of 日(日) and 寺(寺)."
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "temple"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "此时正是友谊的开始(此時正是友誼的開始)。",
+      "pinyin": "Cǐ shí zhèng shì yǒuyì de kāishǐ.",
+      "english": "At this time, it is the beginning of friendship."
+    },
+    {
+      "chinese": "花开之时(花開之時)，蝶舞之时(蝶舞之時)。",
+      "pinyin": "Huā kāi zhī shí, dié wǔ zhī shí.",
+      "english": "When flowers bloom, butterflies dance."
+    }
+  ]
+}

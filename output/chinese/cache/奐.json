@@ -1,0 +1,28 @@
+{
+  "simplified": "奐",
+  "traditional": "奐",
+  "pinyin": "huàn",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 夐 (contains eye and stick in hand, also indicates 'eminent') + Semantic: 廾 ('two hands') = conceptual meaning of 'numerous, copious' OR hands opening a yurt door = 'brilliant'",
+    "interpretation": "The character 奐 is primarily a phono-semantic compound, where the phonetic element 夐 suggests the idea of eminence and authority, while the semantic component 廾 represents two hands, conveying the concept of abundance. This compound character may represent the image of hands skillfully managing or holding numerous items, symbolizing copiousness or brilliance.",
+    "simplification": "奂 is a simplified form of 奐, where the top element 夐 was removed to streamline the character, leaving a simplified central element."
+  },
+  "parts": [
+    {
+      "char": "夐",
+      "trad": "夐",
+      "pinyin": "xuàn",
+      "english": "eminent"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

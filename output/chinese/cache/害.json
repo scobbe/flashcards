@@ -1,0 +1,50 @@
+{
+  "simplified": "害",
+  "traditional": "害",
+  "pinyin": "hài",
+  "english": "harm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 宀(宀) (mián, \"roof\") + Semantic 口(口) (kǒu, \"mouth\") + Phonetic 丯(丯) = a structure covering a vocal element, suggesting confinement or restriction -> harm",
+    "interpretation": "The character 害(hài) consists of a roof 宀(宀), representing a covered or enclosed space, combined with 口(口), indicating concepts related to speech or mouth. The phonetic 丯 helps to articulate the sound. Together, the character conveys the idea of harm as being restricted or constrained, perhaps metaphorically linked to being silenced or confined under the roof.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "丯",
+      "trad": "丯",
+      "pinyin": "jiè",
+      "english": "aid"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "虚假的信息会害人(虛假的信息會害人)。",
+      "pinyin": "xūjiǎ de xìnxī huì hài rén.",
+      "english": "False information harms people."
+    },
+    {
+      "chinese": "谣言散播(謠言散播)，必然会害到社会(必然會害到社會)。",
+      "pinyin": "yáoyán sànbō, bìrán huì hài dào shèhuì.",
+      "english": "Spreading rumors will certainly harm society."
+    },
+    {
+      "chinese": "一时的愤怒会害自己(一時的憤怒會害自己)，招来麻烦(招來麻煩)。",
+      "pinyin": "yīshí de fènnù huì hài zìjǐ, zhāo lái máfan.",
+      "english": "A moment of anger will harm oneself and invite trouble."
+    }
+  ]
+}

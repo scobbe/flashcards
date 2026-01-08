@@ -1,0 +1,44 @@
+{
+  "simplified": "手臂",
+  "traditional": "手臂",
+  "pinyin": "shǒu bì",
+  "english": "arm",
+  "etymology": {
+    "type": "compound word",
+    "description": "手(手) (shǒu, \"hand\") + 臂(臂) (bì, \"arm\") = hand-arm -> arm",
+    "interpretation": "The word 手臂(shǒubì) combines 手(手) (shǒu, \"hand\") and 臂(臂) (bì, \"arm\") to describe the whole arm, emphasizing the idea of the arm being an extension of the hand.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "臂",
+      "trad": "臂",
+      "pinyin": "bì",
+      "english": "arm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用手臂举起重物(他用手臂舉起重物)。",
+      "pinyin": "Tā yòng shǒu bì jǔ qǐ zhòngwù.",
+      "english": "He used his arm to lift the heavy object."
+    },
+    {
+      "chinese": "我受伤了(我受傷了)，手臂疼痛难忍(手臂疼痛難忍)。",
+      "pinyin": "Wǒ shòu shāng le, shǒu bì téngtòng nán rěn.",
+      "english": "I got injured, and my arm hurt unbearably."
+    },
+    {
+      "chinese": "他的手臂很有力量(他的手臂很有力量)。",
+      "pinyin": "Tā de shǒu bì hěn yǒu lìliàng.",
+      "english": "His arm is very strong."
+    }
+  ]
+}

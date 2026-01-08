@@ -4,9 +4,9 @@
   "pinyin": "",
   "english": "",
   "etymology": {
-    "type": "ancient form",
-    "description": "Ancient depiction of a head -> used historically for 首(首) (shǒu, \"head\")",
-    "interpretation": "𩠐 is an ancient character that depicted a head and was used in the past as an early form of the character 首(首) (shǒu, \"head\"). It emphasizes the importance of the head in many cultural contexts.",
+    "type": "phono-semantic compound",
+    "description": "𩠐 is an ancient form of 首(首) (shǒu, \"head\")",
+    "interpretation": "𩠐 is an ancient form representing the concept of a head, related to 首(首) (shǒu, \"head\"), which is commonly used in various contexts referring to the head or beginning.",
     "simplification": ""
   },
   "parts": [
@@ -18,16 +18,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "古籍中常见𩠐字(古籍中常見𩠐字)，它寓意着天地间的奥秘(它寓意著天地間的奧秘)。",
-      "pinyin": "gǔjí zhōng chángjiàn qiǎn zì, tā yùyì zhe tiāndì jiān de àomì.",
-      "english": "In ancient texts, the character 𩠐 is often seen, and it conveys the profound mysteries of the universe."
-    },
-    {
-      "chinese": "画师专注于描绘𩠐神韵(畫師專注於描繪𩠐神韻)，意在传承文化(意在傳承文化)。",
-      "pinyin": "huàshī zhuānzhù yú miáohuì qiǎn shényùn, yì zài chuánchéng wénhuà.",
-      "english": "The calligrapher focuses on depicting the unique charm of 𩠐, aiming to pass on cultural heritage."
-    }
-  ]
+  "examples": []
 }

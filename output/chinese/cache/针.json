@@ -1,0 +1,44 @@
+{
+  "simplified": "针",
+  "traditional": "針",
+  "pinyin": "zhēn",
+  "english": "needle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "釒(金) (jīn, \"metal\") + 十(十) (shí, \"ten\") = tool associated with metal -> phonetic borrowing to denote \"needle\"",
+    "interpretation": "The character 針(針) (zhēn, \"needle\") represents a slender metal tool, with 釒(金) (jīn, \"metal\") indicating the material and 十(十) (shí, \"ten\") acting as a phonetic component.",
+    "simplification": "釒(金) was replaced by 钅(金) in the simplified form 针(针), retaining the metal component while simplifying its strokes."
+  },
+  "parts": [
+    {
+      "char": "釒",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈拿针(媽媽拿針)，缝补衣服(縫補衣服)。",
+      "pinyin": "Māmā ná zhēn, fèng bǔ yīfú.",
+      "english": "Mother uses a needle to mend clothes."
+    },
+    {
+      "chinese": "医生用针(醫生用針)，注射药物(注射藥物)。",
+      "pinyin": "Yīshēng yòng zhēn, zhùshè yàowù.",
+      "english": "The doctor uses a needle to inject medicine."
+    },
+    {
+      "chinese": "裁缝用针(裁縫用針)，缝制礼服(縫製禮服)。",
+      "pinyin": "Cáiféng yòng zhēn, fèng zhì lǐfú.",
+      "english": "The tailor uses a needle to sew a gown."
+    }
+  ]
+}

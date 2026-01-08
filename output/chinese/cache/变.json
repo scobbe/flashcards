@@ -4,47 +4,41 @@
   "pinyin": "biàn",
   "english": "change; transform",
   "etymology": {
-    "type": "simplified and variant form",
-    "description": "Simplified from 變 (biàn, \"change\"): 言(言) (yán, \"speech\") + 糸(糸) (mì, \"silk\"). The silk 糸 radical in the original has been omitted, and the 言(言) (yán) component has been merged with simplified 又(又) (yòu, \"again\") to create 变.",
-    "interpretation": "The traditional character 變 (biàn, \"change\") combines the speech 言(言) (yán, \"speech\") and silk 糸(糸) (mì, \"silk\") elements, symbolizing change through communication and intricacy. The simplified form 变 streamlines this by removing silk 糸 and simplifying the rest for ease of writing.",
-    "simplification": "变 is the result of simplifying the traditional character 變 by removing the silk 糸 component and using 又(又) (yòu, \"again\") for a streamlined form."
+    "type": "phono-semantic compound",
+    "description": "亦(亦) (yì, \"also\") + 言(言) (yán, \"speech\") = sound and additional meaning -> semantic of change and alteration",
+    "interpretation": "The character 變(變) (biàn, \"change\") combines the element 亦(亦) (yì, \"also\") with 言(言) (yán, \"speech\"), suggesting a transformation or change that involves an additional aspect or condition, often of speech or expression.",
+    "simplification": "The traditional form 變(變) (biàn, \"change\") was simplified to 变, where 言(言) (yán, \"speech\") is reduced to the simpler form 讠 by removing strokes."
   },
   "parts": [
+    {
+      "char": "亦",
+      "trad": "亦",
+      "pinyin": "yì",
+      "english": "also"
+    },
     {
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
       "english": "speech"
-    },
-    {
-      "char": "糸",
-      "trad": "糸",
-      "pinyin": "mì",
-      "english": "silk"
-    },
-    {
-      "char": "又",
-      "trad": "又",
-      "pinyin": "yòu",
-      "english": "again"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "时间在悄悄地变(時間在悄悄地變)。",
-      "pinyin": "Shíjiān zài qiāoqiāo de biàn.",
-      "english": "Time is quietly changing."
+      "chinese": "天气变冷了(天氣變冷了)。",
+      "pinyin": "Tiānqì biàn lěng le.",
+      "english": "The weather has turned cold."
     },
     {
-      "chinese": "他的心态变得积极(他的心態變得積極)，看待问题更开放(看待問題更開放)。",
-      "pinyin": "Tā de xīntaì biàn dé jījí, kàndài wèntí gèng kāifàng.",
-      "english": "His mindset became positive, and he viewed problems more openly."
+      "chinese": "随着季节更替(隨著季節更替)，气候变得温和了(氣候變得溫和了)。",
+      "pinyin": "Suízhe jìjié gēngtì, qìhòu biàn de wēnhé le.",
+      "english": "As the seasons change, the climate becomes milder."
     },
     {
-      "chinese": "书籍的封面在风雨中变得斑驳(書籍的封面在風雨中變得斑駁)，承载着岁月的痕迹(承載著歲月的痕跡)。",
-      "pinyin": "Shūjí de fēngmiàn zài fēngyǔ zhōng biàn dé bānbó, chéngzài zhe suìyuè de hénjì.",
-      "english": "The cover of the book became mottled in the wind and rain, bearing the marks of time."
+      "chinese": "历史的车轮滚滚向前(歷史的車輪滾滾向前)，命运变了(命運變了)。",
+      "pinyin": "Lìshǐ de chēlún gǔngǔn xiàng qián, mìngyùn biàn le.",
+      "english": "The wheels of history roll on, and fate has changed."
     }
   ]
 }

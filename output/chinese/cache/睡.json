@@ -1,0 +1,44 @@
+{
+  "simplified": "睡",
+  "traditional": "睡",
+  "pinyin": "shuì",
+  "english": "to sleep",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "目(目) (mù, \"eye\") + 垂(垂) (chuí, \"hang down\") = indicative of eyes closed or drooping when sleeping -> sleep",
+    "interpretation": "The character 睡(shuì, \"to sleep\") combines the semantic element 目(目) (mù, \"eye\") which is associated with vision, with the phonetic component 垂(垂) (chuí, \"hang down\"). This suggests an intuitive depiction of eyes closing or drooping as one enters sleep.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "垂",
+      "trad": "垂",
+      "pinyin": "chuí",
+      "english": "hang down"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我睡得很好(我睡得很好)。",
+      "pinyin": "Wǒ shuì dé hěn hǎo.",
+      "english": "I sleep well."
+    },
+    {
+      "chinese": "夜深了(夜深了)，我迫不及待地想睡觉(我迫不及待地想睡覺)。",
+      "pinyin": "Yè shēn le, wǒ pò bù jí dài de xiǎng shuì jiào.",
+      "english": "When the night deepens, I can’t wait to go to sleep."
+    },
+    {
+      "chinese": "春夜静谧时(春夜靜謐時)，人们多喜欢美美地睡上一觉(人們多喜歡美美地睡上一覺)。",
+      "pinyin": "Chūn yè jìng mì shí, rénmen duō xǐ huān měi měi de shuì shàng yī jiào.",
+      "english": "On serene spring nights, people often like to have a good sleep."
+    }
+  ]
+}

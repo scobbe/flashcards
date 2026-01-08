@@ -5,22 +5,18 @@
   "english": "twist",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two entangled ropes -> to entangle; to intertwine",
-    "interpretation": "The character 丩(丩) (jiū, 'twist') is a pictogram representing two ropes intertwined, which visually conveys the idea of twisting or entangling. This intuitively illustrates its meaning.",
+    "description": "Depicts two entangled ropes -> to entangle; intertwine -> original form of 糾(糾) (jiū, \"to correct\")",
+    "interpretation": "The character 丩(丩) (jiū, \"twist\") visually represents two ropes twisted together, symbolizing the concept of intertwining or entanglement. It served as the original form of 糾(糾), which later developed a different sense.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他用力丩动绳子(他用力丩動繩子)，试图将木桩固定(試圖將木樁固定)。",
-      "pinyin": "Tā yònglì jiū dòng shéngzi, shìtú jiāng mùzhuāng gùdìng.",
-      "english": "He twisted the rope with force, attempting to secure the wooden stake."
-    },
-    {
-      "chinese": "她用手丩起一条细绳(她用手丩起一條細繩)，编织成美丽的饰品(編織成美麗的飾品)。",
-      "pinyin": "Tā yòng shǒu jiū qǐ yītiáo xìshéng, biānzhī chéng měilì de shìpǐn.",
-      "english": "She twisted a fine rope with her hand, weaving it into beautiful ornaments."
+      "char": "糾",
+      "trad": "糾",
+      "pinyin": "jiū",
+      "english": "to correct"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

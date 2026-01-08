@@ -1,0 +1,31 @@
+{
+  "simplified": "髟",
+  "traditional": "髟",
+  "pinyin": "biāo",
+  "english": "hair",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person with long hair -> represents long hair",
+    "interpretation": "The character 髟(biāo, \"hair\") is a pictogram, symbolizing a person adorned with long hair, emphasizing its characteristic texture and appearance.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的髟柔顺如丝(她的髟柔順如絲)。",
+      "pinyin": "Tā de biāo róushùn rú sī.",
+      "english": "Her hair is as smooth as silk."
+    },
+    {
+      "chinese": "他每天早上花时间整理髟(他每天早上花時間整理髟)，保持整洁(保持整潔)。",
+      "pinyin": "Tā měitiān zǎoshang huā shíjiān zhěnglǐ biāo, bǎochí zhěngjié.",
+      "english": "He spends time every morning tidying his hair, keeping it neat."
+    },
+    {
+      "chinese": "这本字典详细介绍了髟的历史(這本字典詳細介紹了髟的歷史)。",
+      "pinyin": "Zhè běn zìdiǎn xiángxì jièshào le biāo de lìshǐ.",
+      "english": "This dictionary details the history of the hair radical."
+    }
+  ]
+}

@@ -4,28 +4,35 @@
   "pinyin": "yǔ",
   "english": "and",
   "etymology": {
-    "type": "simplified and variant form",
-    "description": "Originally 與(與) (yǔ, \"and\") -> 與 simplified by removing the top horizontal stroke -> 与(与) (yǔ, \"and\")",
-    "interpretation": "The character 与(与) is a simplified variant of 與(與) (yǔ, \"and\"), created by removing the top stroke of the traditional form for simplicity.",
-    "simplification": "与(与) simplified by removing the top stroke, providing a more straightforward written form while retaining the original meaning."
+    "type": "phono-semantic compound",
+    "description": "Simplified from 與",
+    "interpretation": "The character 与 is the simplified form of 與(yǔ, \"give\"), retaining the phonetic sound while simplifying the structure.",
+    "simplification": "与(与) (yǔ, \"and\") is a simplified form where the elaborate details of 與 are reduced while retaining its general shape and pronunciation."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "與",
+      "trad": "與",
+      "pinyin": "yǔ",
+      "english": "give"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我与老师讨论问题(我與老師討論問題)。",
-      "pinyin": "Wǒ yǔ lǎoshī tǎolùn wèntí.",
-      "english": "I discuss problems with the teacher."
+      "chinese": "他与我都喜欢音乐(他與我都喜歡音樂)。",
+      "pinyin": "Tā yǔ wǒ dōu xǐhuān yīnyuè.",
+      "english": "He and I both like music."
     },
     {
-      "chinese": "他与她一同学习(他與她一同學習)，互相帮助(互相幫助)。",
-      "pinyin": "Tā yǔ tā yītóng xuéxí, hùxiāng bāngzhù.",
-      "english": "He and she study together, helping each other."
+      "chinese": "读书与写作能开拓视野(讀書與寫作能開拓視野)。",
+      "pinyin": "Dúshū yǔ xiězuò néng kāituò shìyě.",
+      "english": "Reading and writing can broaden one's horizons."
     },
     {
-      "chinese": "书与笔不可分(書與筆不可分)。",
-      "pinyin": "Shū yǔ bǐ bùkě fēn.",
-      "english": "Books and pens are inseparable."
+      "chinese": "花园里有玫瑰与百合(花園里有玫瑰與百合)。",
+      "pinyin": "Huāyuán lǐ yǒu méiguī yǔ bǎihé.",
+      "english": "There are roses and lilies in the garden."
     }
   ]
 }

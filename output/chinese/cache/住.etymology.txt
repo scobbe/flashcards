@@ -1,0 +1,9 @@
+[住]
+Phono-semantic compound ( 形聲 / 形声 , OC *tos, *dos ): semantic 亻 + phonetic 主 ( OC *tjoʔ ) . See also 駐 .
+
+[往]
+According to the version on bronzes, originally phono-semantic compound ( 形聲 / 形声 , OC *ɢʷaŋ ): semantic 止 ( “ foot ” ) + phonetic 王 ( OC *ɢʷaŋ, *ɢʷaŋs ) , hence the original version is 㞷 ; see also the top component of 出 and 岁 . Later 彳 was added to form phono-semantic compound ( 形聲 / 形声 , OC *ɢʷaŋ ): semantic 彳 ( “ walk ” ) + semantic 止 ( “ foot ” ) + phonetic 王 ( OC *ɢʷaŋ, *ɢʷaŋs ) . Hence, the new character 𢓸 was coined.
+Eventually, the right component was stylized into the unrelated 主 . The footprint pointing upwards on top became a point as in the character 之 .
+
+[徃]
+variant form of 往

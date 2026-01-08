@@ -1,0 +1,69 @@
+{
+  "simplified": "曹",
+  "traditional": "曹",
+  "pinyin": "cáo",
+  "english": "place",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Originally 㯥(ㄔ, 'cáo') as two bundles 東(東) (dōng, 'east') -> 囗(囗) added as mark, corrupted to 甘(甘) (gān, 'sweet'), later 曰(曰) (yuē, 'say') in Seal Script -> form 𣍘(𣍘), top merged to 曲(曲) (qū, 'bent') with extra stroke",
+    "interpretation": "The character 曹(cáo) evolved from depicting two bundles, indicating partnership or similarity, into a more complex form distinguished by originally unrelated elements.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㯥",
+      "trad": "㯥",
+      "pinyin": "cáo",
+      "english": "ideogrammic compound"
+    },
+    {
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
+    },
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "say"
+    },
+    {
+      "char": "𣍘",
+      "trad": "𣍘",
+      "pinyin": "n/a",
+      "english": "intermediate form"
+    },
+    {
+      "char": "曲",
+      "trad": "曲",
+      "pinyin": "qū",
+      "english": "bent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他来到曹(曹)。",
+      "pinyin": "Tā láidào cáo.",
+      "english": "He arrived at the place."
+    },
+    {
+      "chinese": "我们在曹(曹)，体验古城风情(體驗古城風情)。",
+      "pinyin": "Wǒmen zài cáo, tǐyàn gǔchéng fēngqíng.",
+      "english": "We, at this place, experienced the charm of the ancient city."
+    }
+  ]
+}

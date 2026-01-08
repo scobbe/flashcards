@@ -4,30 +4,30 @@
   "pinyin": "guī",
   "english": "jade tablet",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "土(土) (tǔ, \"earth\") + 土(土) (tǔ, \"earth\") = stylized piled earth -> representation of an ancient jade tablet used in rituals",
-    "interpretation": "圭(圭) (guī, \"jade tablet\") features two 土(土) (tǔ, \"earth\") stacked, signifying prestige and ritual significance, as jade tablets were made from earth-origin materials and held ceremonial importance.",
+    "type": "pictogram",
+    "description": "士(士) (shì, \"scholar\") + 士(士) (shì, \"scholar\") = two ritual axes, possibly made of jade -> jade tablet",
+    "interpretation": "The character 圭(圭) (guī, \"jade tablet\") depicts two ritual axes, which symbolize an important ceremonial item, potentially constructed from jade. The duplication suggests a significant or special quality, aligning with the prestigious and ceremonial use of jade tablets.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "博物馆中陈列着一块圭(博物館中陳列著一塊圭)。",
-      "pinyin": "Bówùguǎn zhōng chénliè zhe yī kuài guī.",
+      "chinese": "博物馆展示了一枚玉圭(博物館展示了一枚玉圭)。",
+      "pinyin": "Bówùguǎn zhǎnshì le yī méi yù guī.",
       "english": "The museum displays a jade tablet."
     },
     {
-      "chinese": "考古学家在遗址中发现了圭(考古學家在遺址中發現了圭)，暗示着当时礼仪制度(暗示著當時禮儀制度)。",
-      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn le guī, ànshì zhe dāngshí lǐyí zhìdù.",
-      "english": "The archaeologist discovered a jade tablet at the site, suggesting the ceremonial customs of that time."
+      "chinese": "工匠精心制作一块玉圭(工匠精心製作一塊玉圭)，传承古代智慧(傳承古代智慧)。",
+      "pinyin": "Gōngjiàng jīngxīn zhìzuò yī kuài yù guī, chuánchéng gǔdài zhìhuì.",
+      "english": "The artisan meticulously crafted a jade tablet, inheriting the wisdom of ancient times."
     }
   ]
 }

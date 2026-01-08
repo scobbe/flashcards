@@ -1,0 +1,35 @@
+Chinese,Pinyin,English
+加油,jiāyóu,to make an extra effort; to cheer someone on
+加,jiā,to increase; to add
+累,lèi,tired
+条,tiáo,strip; long narrow piece; measure word for long objects
+龙,lóng,dragon
+拍,pāi,to pat; to beat; to take (a picture)
+秋天,qiūtiān,autumn
+阴天,yīntiān,cloudy sky; overcast weather
+下雪,xià xuě,to snow
+雪,xuě,snow
+零（下）,líng (xià),zero; below zero
+度,dù,degree; measure word for temperature
+北方,běifāng,north; northern region
+春天,chūntiān,spring
+帮忙,bāngmáng,to help; to give assistance
+帮,bāng,to help; to assist
+站,zhàn,to stand
+起,qǐ,to rise; to get up
+广州,Guǎngzhōu,Guangzhou
+天气预报,tiānqì yùbào,weather forecast
+晴天,qíngtiān,sunny day; clear sky
+中国民航,Zhōngguó Mínháng,Civil Aviation Administration of China (CAAC)
+起飞,qǐfēi,to take off
+停车场,tíngchēchǎng,parking lot
+菜单,càidān,menu
+渴,kě,thirsty
+熊,xióng,bear
+害怕,hàipà,to be afraid
+棵,kē,measure word for trees and plants
+树,shù,tree
+死,sǐ,to die
+装,zhūang,to pretend; to act as
+动,dòng,to move
+危险,wēixiǎn,dangerous

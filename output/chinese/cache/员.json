@@ -4,41 +4,35 @@
   "pinyin": "yuán",
   "english": "member",
   "etymology": {
-    "type": "simplified character",
-    "description": "Simplified from 員 (yuán, \"member\") by replacing 貝(貝) (bèi, \"cowry\") with 贝(贝) (bèi, \"cowry shell\")",
-    "interpretation": "The simplification replaced the complex 貝(貝) (bèi, \"cowry\") component with its simpler form 贝(贝) (bèi, \"cowry shell\") to create a more efficient character for modern writing.",
-    "simplification": "員(員) simplified by replacing the 貝(貝) component with 贝(贝), a reflection of reducing strokes while maintaining the original meaning."
+    "type": "ideogrammic compound",
+    "description": "〇 (top edge of a 鼎(dǐng, \"ding\")) indicating roundness -> round object -> member",
+    "interpretation": "The character 員(員) (yuán, \"member\") originally depicts the top edge of a 鼎(鼎) (dǐng, \"cauldron\"), highlighting roundness. Over time, it came to denote a \"member\" as in a group, signifying a unit within a larger structured whole.",
+    "simplification": "员(員): 貝(貝) (bèi, \"cowry\") was simplified to 贝(貝), reducing strokes while keeping the phonetic 口(口) (kǒu, \"mouth\")."
   },
   "parts": [
     {
-      "char": "貝",
-      "trad": "貝",
-      "pinyin": "bèi",
-      "english": "cowry"
-    },
-    {
-      "char": "贝",
-      "trad": "贝",
-      "pinyin": "bèi",
-      "english": "cowry shell"
+      "char": "鼎",
+      "trad": "鼎",
+      "pinyin": "dǐng",
+      "english": "cauldron"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我是团队的一员(我是團隊的一員)。",
-      "pinyin": "Wǒ shì tuánduì de yī yuán.",
-      "english": "I am a member of the team."
+      "chinese": "公司重视每一位员工(公司重視每一位員工)。",
+      "pinyin": "Gōngsī zhòngshì měi yī wèi yuángōng.",
+      "english": "The company values every employee."
     },
     {
-      "chinese": "他加入社团(他加入社團)，成为其中一员(成為其中一員)。",
-      "pinyin": "Tā jiārù shètuán, chéngwéi qízhōng yī yuán.",
-      "english": "He joined the club and became one of its members."
+      "chinese": "他是团队的核心成员(他是團隊的核心成員)，总是提出好点子(總是提出好點子)。",
+      "pinyin": "Tā shì tuánduì de héxīn chéngyuán, zǒng shì tíchū hǎo diǎnzi.",
+      "english": "He is a core member of the team and always comes up with good ideas."
     },
     {
-      "chinese": "会议上(會議上)，每位员都有发言权(每位員都有發言權)。",
-      "pinyin": "Huìyì shàng, měi wèi yuán dōu yǒu fāyánquán.",
-      "english": "At the meeting, every member had the right to speak."
+      "chinese": "俱乐部新录取了一位优秀的会员(俱樂部新錄取了一位優秀的會員)。",
+      "pinyin": "Jùlèbù xīn lùqǔ le yī wèi yōuxiù de huìyuán.",
+      "english": "The club has newly admitted an outstanding member."
     }
   ]
 }

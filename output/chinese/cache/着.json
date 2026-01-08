@@ -1,0 +1,50 @@
+{
+  "simplified": "着",
+  "traditional": "著",
+  "pinyin": "zhe",
+  "english": "continuous aspect particle; touch; wear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 者(者) (zhě) + Semantic: 艸(艸, \"grass\") -> 著(著) (existing character) corrupted as 着(着) (草 and 日 changed to 䒑 and 目) -> 着(着)",
+    "interpretation": "Originally, 著(著) combined 艸(艸, \"grass\") for meaning with 者(者) for sound. The character 着(着) later developed as an unorthodox variant by corrupting 著(著), changing grass 艸 to the simplified component 䒑, and 日(目, \"sun\") to 目(目, \"eye\").",
+    "simplification": "The character was transformed from 著(著) by simplifying 艸 to 䒑 and 日 to 目, making it easier to write."
+  },
+  "parts": [
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "someone"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他穿着新衣服(他穿著新衣服)。",
+      "pinyin": "Tā chuānzhe xīn yīfú.",
+      "english": "He is wearing new clothes."
+    },
+    {
+      "chinese": "雨一直下着(雨一直下著)。",
+      "pinyin": "Yǔ yīzhí xiàzhe.",
+      "english": "The rain keeps falling."
+    },
+    {
+      "chinese": "小猫蹲在椅子上(小貓蹲在椅子上)，静静地看着鱼缸(靜靜地看著魚缸)。",
+      "pinyin": "Xiǎo māo dūn zài yǐzi shàng, jìngjìng de kànzhe yúgāng.",
+      "english": "The kitten crouches on the chair, quietly watching the fish tank."
+    }
+  ]
+}

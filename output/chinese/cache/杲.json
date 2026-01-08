@@ -1,0 +1,28 @@
+{
+  "simplified": "杲",
+  "traditional": "杲",
+  "pinyin": "gǎo",
+  "english": "bright",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") + 木(木) (mù, \"tree\") = the sun shining above trees -> bright",
+    "interpretation": "The character 杲(gǎo) visually represents the sun rising above trees, indicating brightness and illuminating the wooded landscape. This compound directly contrasts with 杳(yǎo), which suggests obscurity or darkness with the sun hidden by trees.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

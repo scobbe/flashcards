@@ -1,0 +1,50 @@
+{
+  "simplified": "服务员",
+  "traditional": "服務員",
+  "pinyin": "fúwùyuán",
+  "english": "waiter/waitress",
+  "etymology": {
+    "type": "compound word",
+    "description": "服(服) (fú, \"serve; obey; clothes\") + 務(務) (wù, \"affairs; duties; to attend to\") = to serve or attend to duties + 員(員) (yuán, \"member; person engaged in a field\") = person engaged in serving duties",
+    "interpretation": "A 服務員(服务员) (fúwùyuán) is someone whose duty is to serve others, commonly seen in hospitality contexts such as restaurants and cafes. The word encapsulates the idea of attending to others' needs as a member of the service industry.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "服",
+      "trad": "服",
+      "pinyin": "fú",
+      "english": "serve; obey; clothes"
+    },
+    {
+      "char": "務",
+      "trad": "務",
+      "pinyin": "wù",
+      "english": "affairs; duties; to attend to"
+    },
+    {
+      "char": "員",
+      "trad": "員",
+      "pinyin": "yuán",
+      "english": "member; person engaged in a field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "服务员很好(服務員很好)。",
+      "pinyin": "Fúwùyuán hěn hǎo.",
+      "english": "The waiter is nice."
+    },
+    {
+      "chinese": "那位服务员总是笑着(那位服務員總是笑著)，让客人感觉温暖(讓客人感覺溫暖)。",
+      "pinyin": "Nà wèi fúwùyuán zǒngshì xiào zhe, ràng kèrén gǎnjué wēnnuǎn.",
+      "english": "That waiter always smiles, making the guests feel warm."
+    },
+    {
+      "chinese": "服务员很忙(服務員很忙)，但仍耐心服务(但仍耐心服務)。",
+      "pinyin": "Fúwùyuán hěn máng, dàn réng nàixīn fúwù.",
+      "english": "The waiter is busy, but still serves patiently."
+    }
+  ]
+}

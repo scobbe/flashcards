@@ -1,0 +1,44 @@
+{
+  "simplified": "校",
+  "traditional": "校",
+  "pinyin": "xiào",
+  "english": "school; compare; proof; correct",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, 'tree') providing the semantic element of a place or structure + 交(交) (xiāo, 'to mix') as the phonetic component -> signifies a place where teachings mix, originally for schooling or correction",
+    "interpretation": "The character combines 木(木) (mù, 'tree'), representing buildings or institutions made of wood, and 交(交) (xiāo, 'to mix'), signifying the mixing or interaction of knowledge, reflecting a place of education or correction like a school.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "交",
+      "trad": "交",
+      "pinyin": "xiāo",
+      "english": "to mix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他早上到校(校)，参加考试(參加考試)。",
+      "pinyin": "Tā zǎoshang dào xiào, cānjiā kǎoshì.",
+      "english": "He goes to school in the morning, and takes an exam."
+    },
+    {
+      "chinese": "他认真校对(認真校對)，确保答案正确(確保答案正確)。",
+      "pinyin": "Tā rènzhēn xiàoduì, quèbǎo dá'àn zhèngquè.",
+      "english": "He carefully proofs his work, ensuring the answers are correct."
+    },
+    {
+      "chinese": "她在校期间(在校期間)，结识了许多好友(結識了許多好友)。",
+      "pinyin": "Tā zài xiào qíjiān, jiéshí le xǔduō hǎoyǒu.",
+      "english": "During her time at school, she made many friends."
+    }
+  ]
+}

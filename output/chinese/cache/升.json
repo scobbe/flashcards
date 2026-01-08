@@ -1,0 +1,26 @@
+{
+  "simplified": "升",
+  "traditional": "升",
+  "pinyin": "shēng",
+  "english": "rise",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a dipper -> used to represent volume or measure",
+    "interpretation": "The character 升(shēng, 'rise') originally depicted a measuring device, like a dipper, used for rice or liquids, emphasizing its function related to measurement or capacity.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "太阳升起了(太陽升起了)。",
+      "pinyin": "Tàiyáng shēngqǐ le.",
+      "english": "The sun has risen."
+    },
+    {
+      "chinese": "太阳缓缓升起(太陽緩緩升起)，照亮大地(照亮大地)。",
+      "pinyin": "Tàiyáng huǎn huǎn shēngqǐ, zhàoliàng dàdì.",
+      "english": "The sun slowly rises, illuminating the earth."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "intention of",
   "etymology": {
     "type": "compound word",
-    "description": "之(之) (zhī, \"of\") indicates possession or association, while 意(意) (yì, \"intention\") refers to a thought, will, or idea. Together, 之意 refers to the intention or thought of someone or something.",
-    "interpretation": "之(之) (zhī, \"of\") is a classical particle denoting possession, commonly used in literary Chinese to connect two elements. 意(意) (yì, \"intention\") signifies one's thought or purpose. Thus, 之意 expresses the intention or idea related to a subject.",
+    "description": "之(之) (zhī, \"possessive particle; of\") + 意(意) (yì, \"intention; meaning\") = the intention of",
+    "interpretation": "The word 之意(之意) (zhī yì, \"intention of\") combines the possessive particle 之(之) (zhī, \"of\") with 意(意) (yì, \"intention\") to indicate possession or belonging. This is often used in classical texts to denote the intention or meaning inherent in a particular context, emphasizing the subject's intention.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,26 @@
       "char": "之",
       "trad": "之",
       "pinyin": "zhī",
-      "english": "of; him; her; it"
+      "english": "possessive particle; of"
     },
     {
       "char": "意",
       "trad": "意",
       "pinyin": "yì",
-      "english": "meaning; intention; thought; idea"
+      "english": "intention; meaning; idea; thought"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说这句话别有深意(他說這句話別有深意)，其中蕴藏着宽容之意(其中蘊藏著寬容之意)。",
-      "pinyin": "Tā shuō zhè jù huà bié yǒu shēn yì, qí zhōng yùn cáng zhe kuān róng zhī yì.",
-      "english": "He said that his words had a unique depth, within which lay the intention of tolerance."
+      "chinese": "我读了那本书(我讀了那本書)，体会到了作者之意(體會到了作者之意)。",
+      "pinyin": "Wǒ dú le nà běn shū, tǐhuì dào le zuòzhě zhī yì.",
+      "english": "I read that book and grasped the author's intention."
     },
     {
-      "chinese": "老者的诗中饱含忧国之意(老者的詩中飽含憂國之意)。",
-      "pinyin": "Lǎo zhě de shī zhōng bǎo hán yōu guó zhī yì.",
-      "english": "The old poet's verses are full of the intention of national concern."
+      "chinese": "他的评论言简意赅(他的評論言簡意賅)，透露出深刻之意(透露出深刻之意)。",
+      "pinyin": "Tā de pínglùn yánjiǎn yìgāi, tòulù chū shēnkè zhī yì.",
+      "english": "His commentary was concise and to the point, revealing a profound intention."
     }
   ]
 }

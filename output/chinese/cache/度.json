@@ -1,0 +1,44 @@
+{
+  "simplified": "度",
+  "traditional": "度",
+  "pinyin": "dù",
+  "english": "spend; degree; limit; procedure",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "石(石) (shí, \"rock\") + 又(又) (yòu, \"hand\") = hand measuring rock -> 石 phonetic component for pronunciation -> 石 corrupted to 𲟁",
+    "interpretation": "The combination of a hand measuring a rock underlies the concept of measuring or gauging, leading to its meanings related to degree and limit. Over time, the rock component served as a phonetic element, though it was corrupted into another form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "rock"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他度过了愉快的一天(他度過了愉快的一天)。",
+      "pinyin": "Tā dùguò le yúkuài de yītiān.",
+      "english": "He spent a pleasant day."
+    },
+    {
+      "chinese": "水的沸点是100度(水的沸點是100度)。",
+      "pinyin": "Shuǐ de fèidiǎn shì yībǎi dù.",
+      "english": "The boiling point of water is 100 degrees."
+    },
+    {
+      "chinese": "这次考试的难度很高(這次考試的難度很高)。",
+      "pinyin": "Zhè cì kǎoshì de nándù hěn gāo.",
+      "english": "This exam is very challenging."
+    }
+  ]
+}

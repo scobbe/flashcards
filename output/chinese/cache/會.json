@@ -1,0 +1,33 @@
+{
+  "simplified": "會",
+  "traditional": "會",
+  "pinyin": "huì",
+  "english": "meeting",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 合(合) (hé, \"close\") with two open mouths and a food container -> concept of bringing together -> final form 會(會) (huì, \"meeting\")",
+    "interpretation": "The character 會(會) (huì, \"meeting\") visually represents two mouths with a food container between them, symbolizing the act of bringing people together for discussion, much like placing a lid on a vessel. This imagery underscores its meaning related to assembling or discussing, where the idea of 'closing' reflects the joining aspect of a meeting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "合",
+      "trad": "合",
+      "pinyin": "hé",
+      "english": "close"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天有个会(我今天有個會)。",
+      "pinyin": "Wǒ jīntiān yǒu gè huì.",
+      "english": "I have a meeting today."
+    },
+    {
+      "chinese": "会议开始前(會議開始前)，大家互相问好(大家互相問好)。",
+      "pinyin": "Huìyì kāishǐ qián, dàjiā hùxiāng wènhǎo.",
+      "english": "Before the meeting starts, everyone greets each other."
+    }
+  ]
+}

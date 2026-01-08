@@ -1,0 +1,44 @@
+{
+  "simplified": "多少",
+  "traditional": "多少",
+  "pinyin": "duōshao",
+  "english": "how many",
+  "etymology": {
+    "type": "compound word",
+    "description": "多(多) (duō, \"many\") + 少(少) (shao, \"few\") combine to ask about quantity or degree. They are used together to form a question about 'how many' or 'how much'.",
+    "interpretation": "In Chinese, the combination of 多(多) (duō, \"many\") and 少(少) (shao, \"few\") is used to inquire about an amount or quantity, effectively functioning as a way to ask 'how many' or 'how much' in both colloquial and formal contexts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "多",
+      "trad": "多",
+      "pinyin": "duō",
+      "english": "many; much; more"
+    },
+    {
+      "char": "少",
+      "trad": "少",
+      "pinyin": "shao",
+      "english": "few; little; less"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你的公司有多少人(你的公司有多少人)？",
+      "pinyin": "nǐ de gōngsī yǒu duōshǎo rén?",
+      "english": "How many people are in your company?"
+    },
+    {
+      "chinese": "公园里有多少花(公園裡有多少花)？",
+      "pinyin": "gōngyuán lǐ yǒu duōshǎo huā?",
+      "english": "How many flowers are in the park?"
+    },
+    {
+      "chinese": "书架上有多少本书(書架上有多少本書)？",
+      "pinyin": "shūjià shàng yǒu duōshǎo běn shū?",
+      "english": "How many books are on the shelf?"
+    }
+  ]
+}

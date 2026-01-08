@@ -1,0 +1,38 @@
+{
+  "simplified": "戲",
+  "traditional": "戲",
+  "pinyin": "xì",
+  "english": "play",
+  "etymology": {
+    "type": "variant form of 麾",
+    "description": "戯(戲) (xì, 'play') is a variant form of 麾(麾) (huī), originally associated with military signals or overseeing a performance -> used later to mean 'play' or 'drama'.",
+    "interpretation": "The character 戲(xì, 'play') evolved as a variant form of 麾(麾), which typically related to commanding or directing. Over time, its meaning expanded to encompass the idea of 'play' or theatrical performance, reflecting an evolution from a military context to entertainment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "麾",
+      "trad": "麾",
+      "pinyin": "huī",
+      "english": "military signal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "父母鼓励他演戲(父母鼓勵他演戲)。",
+      "pinyin": "Fùmǔ gǔlì tā yǎn xì.",
+      "english": "His parents encourage him to act in plays."
+    },
+    {
+      "chinese": "明天我们去看戲(明天我們去看戲)，体验传统文化(體驗傳統文化)。",
+      "pinyin": "Míngtiān wǒmen qù kàn xì, tǐyàn chuántǒng wénhuà.",
+      "english": "Tomorrow we will go watch a play and experience traditional culture."
+    },
+    {
+      "chinese": "老演员总是执着于戲(老演員總是執著於戲)。",
+      "pinyin": "Lǎo yǎnyuán zǒngshì zhízhuó yú xì.",
+      "english": "Veteran actors are always devoted to the play."
+    }
+  ]
+}

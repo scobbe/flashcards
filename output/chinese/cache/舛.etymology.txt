@@ -1,0 +1,11 @@
+[舛]
+Ideogrammic compound ( 會意 / 会意 ): 夊 + 𡕒 (second character roughly ヰ ) – two feet facing in the same direction. Compare ⽨ , with feet in different directions (and hence divergent); compare 夅 , with feet pointing down; compare feet in 步 . Compare also footprint in 夂 , 夊 , 𡕒 , and 韋 .
+Note that the left foot has changed shape rather more than the right foot, which still resembles the form in earlier script.
+
+[夅] recorded in one or more historical dictionaries as an ancient form of 降.
+
+[降]
+Phono-semantic compound ( 形聲 / 形声 , OC *kruːŋs, *ɡruːŋ ) and ideogrammic compound ( 會意 / 会意 ): semantic 阝 ( “ hill, wall ” ) + phonetic 夅 ( OC *ɡruːŋ , “ to descend ” ) – descending a hill.
+
+[隆]
+Phono-semantic compound ( 形聲 / 形声 , OC *ɡ·ruːŋ ): phonetic 降 ( OC *kruːŋs, *ɡruːŋ ) + semantic 生 , with 𡕒 later dropped.

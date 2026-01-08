@@ -1,0 +1,39 @@
+{
+  "simplified": "数一下",
+  "traditional": "數一下",
+  "pinyin": "shǔ yīxià",
+  "english": "count it",
+  "etymology": {
+    "type": "compound word",
+    "description": "數(數) (shǔ, \"count\") indicates the action of counting, while 一下(一下) (yīxià, \"a bit; briefly\") softens the command, suggesting a quick or brief action.",
+    "interpretation": "This combination makes sense because it implies a gentle, non-demanding request to perform the action of counting something quickly or briefly. It's often used to make the request more polite or less formal.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "数",
+      "trad": "數",
+      "pinyin": "shǔ",
+      "english": "count"
+    },
+    {
+      "char": "一下",
+      "trad": "一下",
+      "pinyin": "yīxià",
+      "english": "a bit; briefly"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "数一下钱(數一下錢)。",
+      "pinyin": "shǔ yīxià qián.",
+      "english": "Count the money."
+    },
+    {
+      "chinese": "他要数一下数字(他要數一下數字)。",
+      "pinyin": "tā yào shǔ yīxià shùzì.",
+      "english": "He wants to count the numbers."
+    }
+  ]
+}

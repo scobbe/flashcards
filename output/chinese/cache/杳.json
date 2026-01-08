@@ -4,9 +4,9 @@
   "pinyin": "yǎo",
   "english": "hidden",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + phono-semantic: 兆(兆) (zhào) = tree hidden behind -> hidden",
-    "interpretation": "The character 杳(yǎo) consists of 木(木) (mù, \"tree\") suggesting something related to trees, and 兆(兆) (zhào) which provides the pronunciation and implies something concealed or distant, combined to convey the meaning of being 'hidden' or 'obscured'.",
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"tree\") + 日(日) (rì, \"sun\") = sun obscured by trees -> dark",
+    "interpretation": "The character 杳(yǎo, \"hidden\") represents the concept of darkness or being hidden as it depicts the sun obscured by trees, suggesting an absence of light.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,12 @@
       "english": "tree"
     },
     {
-      "char": "兆",
-      "trad": "兆",
-      "pinyin": "zhào",
-      "english": "omen"
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他杳无音讯(他杳無音訊)。",
-      "pinyin": "Tā yǎo wú yīn xùn.",
-      "english": "He is hidden with no news."
-    },
-    {
-      "chinese": "湖面风起时(湖面風起時)，船影杳然不见(船影杳然不見)。",
-      "pinyin": "Hú miàn fēng qǐ shí, chuán yǐng yǎo rán bù jiàn.",
-      "english": "When the wind rises over the lake, the boat's shadow is hidden and cannot be seen."
-    }
-  ]
+  "examples": []
 }

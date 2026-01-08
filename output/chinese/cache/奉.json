@@ -1,0 +1,50 @@
+{
+  "simplified": "奉",
+  "traditional": "奉",
+  "pinyin": "fèng",
+  "english": "offer",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "丰(phonetic) + 廾(two hands) -> original form 𠬻 -> 手(hand) added -> corrupted to 𡗗 -> final form 奉",
+    "interpretation": "奉(奉) (fèng, \"offer\") combines the phonetic component 丰(丰) (fēng) with the semantic 廾(廾) (gǒng, \"two hands\"), symbolizing offering something with both hands. The character evolved to include 手(手) (shǒu, \"hand\") enhancing the meaning of providing or offering. The original form 𠬻 became 𡗗, eventually standardizing to 奉.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丰",
+      "trad": "丰",
+      "pinyin": "fēng",
+      "english": "phonetic"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我奉上鲜花(我奉上鮮花)。",
+      "pinyin": "Wǒ fèng shàng xiānhuā.",
+      "english": "I offer fresh flowers."
+    },
+    {
+      "chinese": "他奉命前来(他奉命前來)，接受任务(接受任務)。",
+      "pinyin": "Tā fèng mìng qián lái, jiē shòu rènwù.",
+      "english": "He comes forward under orders and accepts the mission."
+    },
+    {
+      "chinese": "我奉献我的心(我奉獻我的心)，为爱努力(為愛努力)。",
+      "pinyin": "Wǒ fèng xiàn wǒ de xīn, wèi ài nǔ lì.",
+      "english": "I offer my heart and strive for love."
+    }
+  ]
+}

@@ -4,36 +4,30 @@
   "pinyin": "bìng",
   "english": "combine",
   "etymology": {
-    "type": "simplified character",
-    "description": "并(並) (bìng, \"combine\") is the simplified form of 並(並) → 厂(厂) (chǎng, \"factory\") morphed with 干(干) (gān, \"stem\") for a simplified structure",
-    "interpretation": "The simplification of 並(並) to 并(並) involved streamlining the character by replacing parts with similar-sounding or conceptually related components, leading to a more concise form. 厂(厂) (chǎng) and 干(干) (gān) are visually more distinct yet phonetically linked.",
-    "simplification": "厂(厂) (chǎng, \"factory\") and 干(干) (gān, \"stem\") replaced the more complex structure of 並(並) for easier writing."
+    "type": "phono-semantic compound",
+    "description": "立(立) (lì, 'stand') + 立(立) (lì, 'stand') = things standing together -> combine",
+    "interpretation": "The character 並(並) (bìng, 'combine') uses two 立(立) (lì, 'stand') components to convey the idea of standing together, symbolizing the notion of combining or aligning multiple things.",
+    "simplification": "并 is the simplified form of 並 by omitting the repetition of 立(立) (lì, 'stand'), and simplifying the structure to depict a more straightforward shape."
   },
   "parts": [
     {
-      "char": "厂",
-      "trad": "厂",
-      "pinyin": "chǎng",
-      "english": "factory"
-    },
-    {
-      "char": "干",
-      "trad": "干",
-      "pinyin": "gān",
-      "english": "stem"
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "科学家并融合多学科知识(科學家並融合多學科知識)，设计创新实验(設計創新實驗)。",
-      "pinyin": "Kēxuéjiā bìng rónghé duō xuékē zhīshi, shèjì chuàngxīn shíyàn.",
-      "english": "The scientist combines knowledge from multiple disciplines and designs innovative experiments."
+      "chinese": "他把红茶和牛奶并调制(他把紅茶和牛奶並調製)，制成了一杯奶茶(製成了一杯奶茶)。",
+      "pinyin": "Tā bǎ hóngchá hé niúnǎi bìng tiáozhì, zhìchéngle yī bēi nǎichá.",
+      "english": "He mixes red tea and milk to make a cup of milk tea."
     },
     {
-      "chinese": "厨师并混合多种香料(廚師並混合多種香料)，制作独特佳肴(製作獨特佳肴)。",
-      "pinyin": "Chúshī bìng hùnhé duō zhǒng xiāngliào, zhìzuò dútè jiāyáo.",
-      "english": "The chef combines various spices to create unique dishes."
+      "chinese": "我们可以把不同的材料并组合(我們可以把不同的材料並組合)，创造出新的风味(創造出新的風味)。",
+      "pinyin": "Wǒmen kěyǐ bǎ bùtóng de cáiliào bìng zǔhé, chuàngzào chū xīn de fēngwèi.",
+      "english": "We can combine different ingredients to create a new flavor."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "熊",
+  "traditional": "熊",
+  "pinyin": "xióng",
+  "english": "bear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "能(能) (néng, \"bear\") + stylized form of 炎(炎) (yán, \"flame\") = original onomatopoeic word for \"raging flame\" -> borrowed to mean \"bear\"",
+    "interpretation": "The character 熊(xióng) was initially an onomatopoeic term for the raging flame, where the semantic element, 能(能) (néng, \"bear\"), indicates its original meaning. It was later borrowed to signify \"bear\" when the concept required a representation, utilizing the abbreviated form of 炎(炎) (yán, \"flame\") as the phonetic component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "能",
+      "trad": "能",
+      "pinyin": "néng",
+      "english": "bear"
+    },
+    {
+      "char": "炎",
+      "trad": "炎",
+      "pinyin": "yán",
+      "english": "flame"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那只熊看起来很可爱(那隻熊看起來很可愛)。",
+      "pinyin": "Nà zhī xióng kàn qǐlái hěn kě'ài.",
+      "english": "That bear looks very cute."
+    },
+    {
+      "chinese": "森林里有很多熊(森林裡有很多熊)，人们也要小心(人們也要小心)。",
+      "pinyin": "Sēnlín lǐ yǒu hěn duō xióng, rénmen yě yào xiǎoxīn.",
+      "english": "There are many bears in the forest, and people must be careful."
+    },
+    {
+      "chinese": "冬天来临时(冬天來臨時)，熊会准备过冬(熊會準備過冬)。",
+      "pinyin": "Dōngtiān láilín shí, xióng huì zhǔnbèi guòdōng.",
+      "english": "When winter comes, bears prepare for winter."
+    }
+  ]
+}

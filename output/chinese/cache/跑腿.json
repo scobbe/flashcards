@@ -1,0 +1,44 @@
+{
+  "simplified": "跑腿",
+  "traditional": "跑腿",
+  "pinyin": "pǎo tuǐ",
+  "english": "paid on-demand errand and same-city delivery services",
+  "etymology": {
+    "type": "compound word",
+    "description": "跑(跑) (pǎo, \"run\") and 腿(腿) (tuǐ, \"leg\") together describe the act of running errands.",
+    "interpretation": "The term 跑腿(跑腿) (pǎo tuǐ) conveys the idea of someone using their legs to 'run' or carry out errands for others, often as a service. This makes sense as a metaphor for quick, on-demand delivery or errand running, where the 'running' signifies speed and activity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "跑",
+      "trad": "跑",
+      "pinyin": "pǎo",
+      "english": "run"
+    },
+    {
+      "char": "腿",
+      "trad": "腿",
+      "pinyin": "tuǐ",
+      "english": "leg"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天请人跑腿送文件(我昨天請人跑腿送文件)。",
+      "pinyin": "Wǒ zuótiān qǐng rén pǎo tuǐ sòng wénjiàn.",
+      "english": "Yesterday, I hired someone to run an errand to deliver documents."
+    },
+    {
+      "chinese": "她用跑腿服务买了新鲜蔬菜(她用跑腿服務買了新鮮蔬菜)，节省了时间(節省了時間)。",
+      "pinyin": "Tā yòng pǎo tuǐ fúwù mǎile xīnxiān shūcài, jiéshěngle shíjiān.",
+      "english": "She used the on-demand errand service to buy fresh vegetables, which saved time."
+    },
+    {
+      "chinese": "在忙碌的下午(在忙碌的下午)，跑腿成为必备服务(跑腿成為必備服務)。",
+      "pinyin": "Zài mánglù de xiàwǔ, pǎo tuǐ chéngwéi bìbèi fúwù.",
+      "english": "During a busy afternoon, errand running becomes an essential service."
+    }
+  ]
+}

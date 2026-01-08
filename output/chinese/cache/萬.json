@@ -1,0 +1,31 @@
+{
+  "simplified": "萬",
+  "traditional": "萬",
+  "pinyin": "wàn",
+  "english": "scorpion",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a scorpion -> phonetically borrowed to mean 'ten thousand'",
+    "interpretation": "The character 萬(wàn, 'scorpion') originally depicted a scorpion but was later repurposed for its phonetic value to mean 'ten thousand'. This is an example where a pictogram takes on a phonetic role over time.",
+    "simplification": "The character 万 is a simplified and variant form of 萬, retaining the original numeral meaning but altering the pictographic representation for ease of writing."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜晚出现了万(夜晚出現了萬)。",
+      "pinyin": "Yèwǎn chūxiàn le wàn.",
+      "english": "A scorpion appeared at night."
+    },
+    {
+      "chinese": "我看到一只万(我看到一只萬)，它藏在石头后面(它藏在石頭後面)。",
+      "pinyin": "Wǒ kàndào yī zhī wàn, tā cáng zài shítou hòumiàn.",
+      "english": "I saw a scorpion, and it was hiding behind a rock."
+    },
+    {
+      "chinese": "狂风袭来时(狂風襲來時)，万从角落里窜出(萬從角落裡竄出)。",
+      "pinyin": "Kuángfēng xílái shí, wàn cóng jiǎoluò lǐ cuànchū.",
+      "english": "When the fierce wind arrived, the scorpion darted out from the corner."
+    }
+  ]
+}

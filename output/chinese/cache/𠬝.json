@@ -4,36 +4,37 @@
   "pinyin": "fú",
   "english": "to serve",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "乃(乃) (nǎi, \"be\") + 八(八) (bā, \"divide\") = serving or attending to tasks divided among people -> to serve",
-    "interpretation": "The character combines 乃(乃) (nǎi, \"be\") suggesting the state of being with 八(八) (bā, \"divide\") indicating distribution or division of tasks, fittingly representing service or attendance to duties.",
+    "type": "pictogram",
+    "description": "𠬝 is the original pictogram for the character depicting 'to serve' -> 凡(凡) (fán, 'tray') was added as a semantic component -> 凡 was later corrupted into 舟(舟) (zhōu, 'boat') and subsequently 月(月) (yuè, 'moon') in the character 服(服) (fú, 'to serve')",
+    "interpretation": "𠬝 originally depicted the act of serving or subduing and was later modified by adding the semantic component 凡(凡) (fán, 'tray') to enhance the original meaning. Over time, this evolved into the character 服(服) (fú, 'to serve'), where 凡 was replaced by 舟(舟) (zhōu, 'boat') and then 月(月) (yuè, 'moon') due to character corruption.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "乃",
-      "trad": "乃",
-      "pinyin": "nǎi",
-      "english": "be"
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "tray"
     },
     {
-      "char": "八",
-      "trad": "八",
-      "pinyin": "bā",
-      "english": "divide"
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    },
+    {
+      "char": "服",
+      "trad": "服",
+      "pinyin": "fú",
+      "english": "to serve"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他服從父母(他服從父母)，努力学习(努力學習)。",
-      "pinyin": "Tā fúcóng fùmǔ, nǔlì xuéxí.",
-      "english": "He serves his parents and studies hard."
-    },
-    {
-      "chinese": "士兵服役于军队(士兵服役於軍隊)。",
-      "pinyin": "Shìbīng fúyì yú jūnduì.",
-      "english": "Soldiers serve in the army."
-    }
-  ]
+  "examples": []
 }

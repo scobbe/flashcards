@@ -5,22 +5,18 @@
   "english": "original form",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a long river with tributaries -> horizontal flip of 永(永) (yǒng, \"forever\")",
-    "interpretation": "The character 𠂢 represents a flowing river, indicating movement or continuity similar to the concept of 永(永) (yǒng, \"forever\") but depicted in horizontal orientation. This pictogram captures the visual imagery of waterways branching off a main river.",
+    "description": "Depicts a long river with tributaries -> horizontal flip of 永(永) (yǒng, \"eternal\")",
+    "interpretation": "The character 𠂢 is a pictorial representation of a river system with branches, suggestive of flowing, continuous water, which visually relates to its flipped appearance as seen in 永(永) (yǒng, \"eternal\"). This reflects the enduring and expansive nature of rivers.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "古代文献中(古代文獻中)，𠂢作为原始形态保存下来(𠂢作為原始形態保存下來)。",
-      "pinyin": "Gǔdài wénxiàn zhōng, mǐ zuòwéi yuánshǐ xíngtài bǎocún xiàlái.",
-      "english": "In ancient texts, 𠂢 is preserved in its original form."
-    },
-    {
-      "chinese": "这幅书法作品体现了𠂢的原始美(這幅書法作品體現了𠂢的原始美)。",
-      "pinyin": "Zhè fú shūfǎ zuòpǐn tǐxiàn le mǐ de yuánshǐ měi.",
-      "english": "This calligraphy work reflects the original beauty of 𠂢."
+      "char": "永",
+      "trad": "永",
+      "pinyin": "yǒng",
+      "english": "eternal"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

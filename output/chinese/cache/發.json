@@ -1,0 +1,50 @@
+{
+  "simplified": "發",
+  "traditional": "發",
+  "pinyin": "fā",
+  "english": "issue",
+  "etymology": {
+    "type": "variant form",
+    "description": "發 is a variant form of 暴 (暴) (bào, \"violence\")",
+    "interpretation": "Although 發 (fā, \"issue\") is a variant of 暴 (bào, \"violence\"), it shows a shift from the original meaning of violence and exposure to the sun, represented by the components 虎 (hǔ, \"tiger\") and 戈 (gē, \"weapon\"), with a focus on issuing or generating something, which is a common semantic shift in character evolution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "暴",
+      "trad": "暴",
+      "pinyin": "bào",
+      "english": "violence"
+    },
+    {
+      "char": "虎",
+      "trad": "虎",
+      "pinyin": "hǔ",
+      "english": "tiger"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "weapon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司發新通知(公司發新通知)。",
+      "pinyin": "Gōngsī fā xīn tōngzhī.",
+      "english": "The company issued a new notice."
+    },
+    {
+      "chinese": "学校發考试日程(學校發考試日程)，确保学生知晓(確保學生知曉)。",
+      "pinyin": "Xuéxiào fā kǎoshì rìchéng, quèbǎo xuéshēng zhīxiǎo.",
+      "english": "The school issued the exam schedule to ensure the students were informed."
+    },
+    {
+      "chinese": "邮局發快递通知(郵局發快遞通知)。",
+      "pinyin": "Yóujú fā kuàidì tōngzhī.",
+      "english": "The post office issued a delivery notice."
+    }
+  ]
+}

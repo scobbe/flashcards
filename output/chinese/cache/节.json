@@ -4,10 +4,10 @@
   "pinyin": "jié",
   "english": "festival; node; joint; segment",
   "etymology": {
-    "type": "simplified and variant form",
-    "description": "艹(艹) (cǎo, \"grass\") + 即(即) (jí, \"immediately\") = 节(節), originally 節(\"node\") simplified for ease of writing",
-    "interpretation": "The character 节(節) simplifies 节, replacing 竹(竹) (zhú, \"bamboo\") with 艹(艹) (cǎo, \"grass\") to reflect the sound and partial meaning retention through 即(即) (jí). This simplification maintains the notion of sections or segments, akin to nodes on a bamboo stem.",
-    "simplification": "For 節(節)→节(節), 艹(艹) (cǎo, \"grass\") replaces the bamboo radical 竹(竹) (zhú, \"bamboo\") for a simpler form while retaining the component 即(即) (jí) as a phonetic indicator."
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, 'grass') + 即(即) (jí, 'approach') = festival segment relating to seasonal nodes",
+    "interpretation": "節(節) (jié) combines 艹(艹) (cǎo, 'grass'), symbolizing plant growth and natural cycles, with 即(即) (jí, 'approach'), which may imply the approach of events or time segments, to represent festivals and segments of time. This reflects the seasonal and periodic nature of festivals.",
+    "simplification": "節(節) was simplified to 节(節) by reducing 艹(艹) (cǎo, 'grass') to a simpler form and replacing 卽 with 卩(jié), representing the meaning-related concept of 'section'."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "即",
       "trad": "即",
       "pinyin": "jí",
-      "english": "immediately"
+      "english": "approach"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春节是传统的节日(春節是傳統的節日)。",
-      "pinyin": "Chūnjié shì chuántǒng de jiérì.",
-      "english": "Spring Festival is a traditional festival."
+      "chinese": "春节是中国最隆重的节日之一(春節是中國最隆重的節日之一)。",
+      "pinyin": "Chūnjié shì Zhōngguó zuì lóngzhòng de jiérì zhī yī.",
+      "english": "The Spring Festival is one of the most grand festivals in China."
     },
     {
-      "chinese": "竹子每一段都有一个节(竹子每一段都有一個節)，使整体更为灵活(使整體更為靈活)。",
-      "pinyin": "Zhúzi měiyī duàn dōu yǒu yīgè jié, shǐ zhěngtǐ gèng wéi línghuó.",
-      "english": "Every segment of the bamboo has a joint, which makes it more flexible as a whole."
+      "chinese": "竹子每隔一节(竹子每隔一節)，就长出一片新叶(就長出一片新葉)。",
+      "pinyin": "Zhúzi měi gé yī jié, jiù zhǎng chū yī piàn xīn yè.",
+      "english": "Every segment of the bamboo gives rise to a new leaf."
     },
     {
-      "chinese": "竹节清脆有力(竹節清脆有力)。",
-      "pinyin": "Zhújié qīngcuì yǒulì.",
-      "english": "The bamboo joints are crisp and strong."
+      "chinese": "手臂的关节(手臂的關節)，让人能够灵活挥动(讓人能夠靈活揮動)。",
+      "pinyin": "Shǒubì de guānjié, ràng rén nénggòu línghuó huīdòng.",
+      "english": "The joints in the arms allow for flexible movement."
     }
   ]
 }

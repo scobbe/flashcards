@@ -1,0 +1,45 @@
+{
+  "simplified": "保",
+  "traditional": "保",
+  "pinyin": "bǎo",
+  "english": "protect",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 子(子) (zǐ, \"child\") = person carrying a child -> 爪 added to emphasize carrying -> simplified strokes -> protect",
+    "interpretation": "The character represents the concept of protection by depicting a person carrying a child, emphasizing care and responsibility. The addition of 爪 further highlights the action of physically supporting or protecting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈会保你健康(媽媽會保你健康)。",
+      "pinyin": "Māmā huì bǎo nǐ jiànkāng.",
+      "english": "Mom will protect your health."
+    },
+    {
+      "chinese": "风雨来临时(風雨來臨時)，家人总会保你周全(家人總會保你周全)。",
+      "pinyin": "Fēngyǔ láilín shí, jiārén zǒng huì bǎo nǐ zhōuquán.",
+      "english": "When storms come, the family will always protect you completely."
+    }
+  ]
+}

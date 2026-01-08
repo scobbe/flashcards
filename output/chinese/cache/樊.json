@@ -4,41 +4,36 @@
   "pinyin": "fán",
   "english": "",
   "etymology": {
-    "type": "Phono-semantic compound and ideogrammic compound",
-    "description": "Phonetic: 棥 (fán) + Semantic: 武(displays strength as an enclosure, suggesting 'obstruction') -> obstacle or barrier",
-    "interpretation": "The character 樊(fán, 'obstacle') combines the phonetic component 棥 with the semantic component 武, which together indicate the concept of an obstruction. This dual combination effectively communicates the idea of a barrier or hindrance, utilizing both sound and meaning.",
+    "type": "phono-semantic compound and ideogrammic compound",
+    "description": "𠬜(𠬜) (ungkown, \"unknown\") + phonetic: 棥(棥) (unknown, \"unknown\") = phono-semantic composition -> 樊(樊) (fán, \"enclosure\")",
+    "interpretation": "The character 樊(fán) combines an unknown semantic component and the phonetic component 棥(棥). Traditionally, it represents phonetic and semantic functionality together, symbolizing an enclosure or fence, although further clarification of 𠬜 is needed.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "𠬜",
+      "trad": "𠬜",
+      "pinyin": "unknown",
+      "english": "unknown"
+    },
+    {
       "char": "棥",
       "trad": "棥",
-      "pinyin": "fán",
-      "english": "phonetic component"
-    },
-    {
-      "char": "武",
-      "trad": "𠬜",
-      "pinyin": "wǔ",
-      "english": "displays strength as an enclosure"
+      "pinyin": "unknown",
+      "english": "unknown"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "樊先生今天来访(樊先生今天來訪)。",
-      "pinyin": "Fán xiānsheng jīntiān lái fǎng.",
-      "english": "Mr. Fan visited today."
+      "chinese": "他姓樊(他姓樊)。",
+      "pinyin": "Tā xìng fán.",
+      "english": "His surname is Fan."
     },
     {
-      "chinese": "樊家的传统文化深厚(樊家的傳統文化深厚)，人人引以为傲(人人引以為傲)。",
-      "pinyin": "Fán jiā de chuántǒng wénhuà shēnhòu, rén rén yǐn yǐ wéi ào.",
-      "english": "The Fan family's traditional culture is profound, and everyone takes pride in it."
-    },
-    {
-      "chinese": "樊先生致力于社会公益(樊先生致力於社會公益)，赢得广泛赞誉(贏得廣泛讚譽)。",
-      "pinyin": "Fán xiānsheng zhìlì yú shèhuì gōngyì, yíngdé guǎngfàn zànyù.",
-      "english": "Mr. Fan is dedicated to social welfare, earning widespread acclaim."
+      "chinese": "樊先生今天来访(樊先生今天來訪)，带来了珍贵的礼物(帶來了珍貴的禮物)。",
+      "pinyin": "Fán xiānshēng jīntiān lái fǎng, dài lái le zhēnguì de lǐwù.",
+      "english": "Mr. Fan visited today, and he brought precious gifts."
     }
   ]
 }

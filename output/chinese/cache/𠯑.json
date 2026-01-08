@@ -1,12 +1,12 @@
 {
   "simplified": "𠯑",
-  "traditional": "𠯑",
+  "traditional": "昏",
   "pinyin": "unknown",
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "氏(氏) (shì, \"clan\") + 日(日) (rì, \"sun\") = sun lowering -> phonetic component",
-    "interpretation": "The character uses the image of the sun setting or lowering to convey an associated sound, serving as a phonetic component in compounds. Unlike 昏(昏) (hūn, \"dusk\"), it doesn't form an independent word but contributes phonetically in other characters.",
+    "description": "氏(氏) (shì, \"descendant\") + 日(日) (rì, \"sun\") = sun lowering -> twilight or nightfall",
+    "interpretation": "The character 昏 depicts the concept of twilight or nightfall by combining the sun going down, represented by 日(日) (rì, \"sun\"), with 氐, a component indicating lowering. This captures the idea of the sun descending from the sky, symbolizing the evening or beginning of night.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "氏",
       "trad": "氏",
       "pinyin": "shì",
-      "english": "clan"
+      "english": "descendant"
     },
     {
       "char": "日",
@@ -23,22 +23,22 @@
       "english": "sun"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "许多形声字使用𠯑(𠯑)，表示音旁作用(表示音旁作用)。",
-      "pinyin": "Xǔ duō xíng shēng zì shǐ yòng 𠯑, biǎo shì yīn páng zuò yòng.",
-      "english": "Many phono-semantic compound characters use 𠯑 to indicate a phonetic component."
+      "chinese": "这个字由形旁和𠯑构成(這個字由形旁和𠯑構成)。",
+      "pinyin": "Zhè gè zì yóu xíng páng hé 𠯑 gòu chéng。",
+      "english": "This character is composed of a radical and the phonetic component 𠯑."
     },
     {
-      "chinese": "在字典中(在字典中)，学者探讨了𠯑的音读功能(學者探討了𠯑的音讀功能)。",
-      "pinyin": "Zài zìdiǎn zhōng, xué zhě tàn tǎo le 𠯑 de yīn dú gōng néng.",
-      "english": "In the dictionary, scholars have explored the phonetic reading function of 𠯑."
+      "chinese": "古代造字时(古代造字時)，常借用𠯑作为音符(常借用𠯑作為音符)。",
+      "pinyin": "Gǔdài zào zì shí, cháng jiè yòng 𠯑 zuò wéi yīn fú。",
+      "english": "In ancient times, people often used 𠯑 as a phonetic element in character creation."
     },
     {
-      "chinese": "很多生僻字包含𠯑(𠯑)，提供了声音线索(提供了聲音線索)。",
-      "pinyin": "Hěn duō shēng pì zì bāo hán 𠯑, tí gōng le shēng yīn xiàn suǒ.",
-      "english": "Many obscure characters include 𠯑, providing a clue to pronunciation."
+      "chinese": "这个字的𠯑部分独特(這個字的𠯑部分獨特)。",
+      "pinyin": "Zhè gè zì de 𠯑 bù fèn dú tè。",
+      "english": "The phonetic component of this character is unique."
     }
   ]
 }

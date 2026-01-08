@@ -1,0 +1,39 @@
+{
+  "simplified": "膊",
+  "traditional": "膊",
+  "pinyin": "bó",
+  "english": "arm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "肉(肉) (ròu, \"body\") + 尃(尃) (fū, \"phonetic component\") = related to the body → arm",
+    "interpretation": "The character 膊(bó, \"arm\") uses the 肉(肉) (ròu, \"body\") component to indicate its association with the body, while 尃(尃) (fū) provides the phonetic element. This combination effectively conveys the meaning of a part of the body, specifically the arm.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "body"
+    },
+    {
+      "char": "尃",
+      "trad": "尃",
+      "pinyin": "fū",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的膊很结实(他的膊很結實)。",
+      "pinyin": "Tā de bó hěn jiéshí.",
+      "english": "His arm is very strong."
+    },
+    {
+      "chinese": "他举起重物(他舉起重物)，用力弯曲膊(用力彎曲膊)。",
+      "pinyin": "Tā jǔqǐ zhòngwù, yònglì wānqū bó.",
+      "english": "He lifted heavy objects and forcefully bent his arm."
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "simplified": "冎",
   "traditional": "冎",
-  "pinyin": "guǎ",
-  "english": "bone",
+  "pinyin": "guǒ",
+  "english": "phonetic component",
   "etymology": {
-    "type": "Pictogram",
+    "type": "pictogram",
     "description": "Depicts bones -> original form of 骨(骨) (gǔ, \"bone\")",
-    "interpretation": "The character 冎 is a pictogram representing bones, which later evolved into the character 骨(骨) (gǔ, \"bone\"). It visually conveys the shape of bones, illustrating its intended meaning effectively.",
+    "interpretation": "The character 冎 is a pictogram representing bones and serves as the original form of 骨(骨) (gǔ, \"bone\"). Its depiction captures the outline of bones, highlighting its usage in ancient scripts. It also appears in other characters as a component, maintaining its essence related to structure and form.",
     "simplification": ""
   },
   "parts": [
@@ -17,22 +17,22 @@
       "english": "bone"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "墓室里静默地躺着一块冎(墓室裡靜默地躺著一塊冎)。",
-      "pinyin": "Mùshì lǐ jìngmò de tǎngzhe yī kuài guǎ.",
-      "english": "A bone lay silently in the tomb chamber."
+      "chinese": "这个汉字由偏旁和冎构成(這個漢字由偏旁和冎構成)，其中冎提供了语音线索(其中冎提供了語音線索)。",
+      "pinyin": "Zhège hànzì yóu piānpáng hé guǒ gòuchéng, qízhōng guǒ tígōng le yǔyīn xiànsuǒ.",
+      "english": "This character is composed of radicals and guǒ, wherein guǒ provides a phonetic clue."
     },
     {
-      "chinese": "考古学家在遗址中偶然发现了冎(考古學家在遺址中偶然發現了冎)，并记录下这块冎的奇特纹理(並記錄下這塊冎的奇特紋理)。",
-      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng ǒurán fāxiàn le guǎ, bìng jìlù xià zhè kuài guǎ de qítè wénlǐ.",
-      "english": "Archaeologists accidentally discovered a bone at the site and recorded the bone's peculiar texture."
+      "chinese": "在古代造字过程中(在古代造字過程中)，冎常作为声旁使用(冎常作為聲旁使用)。",
+      "pinyin": "Zài gǔdài zàozì guòchéng zhōng, guǒ cháng zuòwéi shēngpáng shǐyòng.",
+      "english": "In the process of character creation in ancient times, guǒ was often used as a phonetic component."
     },
     {
-      "chinese": "寒冬来临时(寒冬來臨時)，河边冰层下显现出一块冎(河邊冰層下顯現出一塊冎)。",
-      "pinyin": "Hándōng láilín shí, hébiān bīngcéng xià xiǎnxiàn chū yī kuài guǎ.",
-      "english": "When the harsh winter arrived, a bone emerged beneath the icy riverbank."
+      "chinese": "冎是一种发音提示符(冎是一種發音提示符)。",
+      "pinyin": "Guǒ shì yī zhǒng fāyīn tíshì fú.",
+      "english": "Guǒ is a phonetic indicator."
     }
   ]
 }

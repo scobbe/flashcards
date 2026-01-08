@@ -1,26 +1,15 @@
 {
   "simplified": "丮",
   "traditional": "丮",
-  "pinyin": "jǐ",
+  "pinyin": "jié",
   "english": "to hold",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two hands grasping an object",
-    "interpretation": "丮(jǐ, 'to hold') visually represents two hands holding an object, illustrating the action of grasping or holding. This makes intuitive sense as it directly depicts the act it describes.",
+    "description": "Depicts a person kneeling with hands outstretched to hold something -> symbolizes 'to hold'",
+    "interpretation": "The character 丮 is a pictogram depicting a person kneeling with their hands stretched out, representing the concept of holding. This visualization effectively conveys the idea of grasping or holding, which is the character's primary meaning.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "妈妈丮着孩子(媽媽丮著孩子)，让他安全过马路(讓他安全過馬路)。",
-      "pinyin": "Māmā jǐ zhe háizi, ràng tā ānquán guò mǎlù.",
-      "english": "The mother holds the child, allowing him to cross the street safely."
-    },
-    {
-      "chinese": "他丮住方向盘(他丮住方向盤)。",
-      "pinyin": "Tā jǐ zhù fāngxiàngpán.",
-      "english": "He holds the steering wheel."
-    }
-  ]
+  "examples": []
 }

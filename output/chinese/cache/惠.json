@@ -1,0 +1,44 @@
+{
+  "simplified": "惠",
+  "traditional": "惠",
+  "pinyin": "huì",
+  "english": "kind",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 叀(叀) -> Originally written as 叀; Semantic: 心(心)",
+    "interpretation": "The character 惠(惠) (huì, 'kind') combines 叀(叀) for its phonetic value with 心(心) (xīn, 'heart') to suggest the idea of kindness or benevolence, indicating an expression of heartfelt actions.",
+    "simplification": "惠(惠) was simplified to 恵(惠) by changing 叀(叀) to 𤰔 for a more streamlined form."
+  },
+  "parts": [
+    {
+      "char": "叀",
+      "trad": "叀",
+      "pinyin": "zhuān",
+      "english": "original component"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "政府推出了惠民政策(政府推出了惠民政策)，改善了老百姓的生活(改善了老百姓的生活)。",
+      "pinyin": "Zhèngfǔ tuīchū le huìmín zhèngcè, gǎishàn le lǎobǎixìng de shēnghuó.",
+      "english": "The government introduced benefit policies, improving the lives of the people."
+    },
+    {
+      "chinese": "她以慈惠之心帮助邻居(她以慈惠之心幫助鄰居)。",
+      "pinyin": "Tā yǐ cí huì zhī xīn bāngzhù línjū.",
+      "english": "She helps her neighbors with a kind heart."
+    },
+    {
+      "chinese": "他的行为充满了惠意(他的行為充滿了惠意)。",
+      "pinyin": "Tā de xíngwéi chōngmǎn le huì yì.",
+      "english": "His actions are filled with kindness."
+    }
+  ]
+}

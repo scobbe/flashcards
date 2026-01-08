@@ -1,0 +1,19 @@
+[丰]
+Pictogram ( 象形 ) of a luxuriant plant growing on the ground ( 土 ), which is unrecognizable in the modern version since the bottom stroke is missing. See the top component of 豐 and 奉 .
+The original version is 𡴀 , which however is unrelated to 㞷 ( 匩 (> 匡 ). Similar to 𤯓 > 生 . Unrelated to 㓞 since it represents something carved/engraved, 丯 .
+
+[豐]
+Ideogram ( 指事 ) – The top component is 𠁳 , a pot full of plants 丰 (abundance, plenty). The bottom component is 豆 , which is another pot.
+Unrelated to 豊 , in which two strings of jade pieces 玨 are present. The top component of 豐 is unrelated to 山 .
+
+[豊]
+Originally an ideogrammic compound ( 會意 / 会意 ): 壴 ( “ drum ” ) + 玨 ( “ strings of jade ” ) – ceremony. Original form of 禮 .
+In some bronze inscriptions, 壴 has been split into two, with 豆 on the bottom. Later scripts, including the seal script, have inherited this corruption, leading Shuowen to interpret this character as a pictogram ( 象形 ) containing 豆 (“vessel”).
+Due to similarity with the unrelated 豐 , 豊 has also been used as one of its variants.
+
+[禮]
+Phono-semantic compound ( 形聲 / 形声 , OC *riːʔ ) and ideogrammic compound ( 會意 / 会意 ): semantic 礻 ( “ altar ” ) + phonetic 豊 ( OC *riːʔ , “ ceremony ” ) – performing rites at the altar.
+Originally written 豊 , see there for more.
+
+[礼]
+Based on an ancient form of 禮 recorded in Shuowen as . In regular script , the earliest record can be traced back to the Tang dynasty orthographical dictionary Ganlu Zishu 《 干祿字書 》 .

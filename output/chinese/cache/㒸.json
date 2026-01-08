@@ -1,0 +1,28 @@
+{
+  "simplified": "㒸",
+  "traditional": "㒸",
+  "pinyin": "suì",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 丷 (divide) + Phonetic 豕 (suì, \"pig\") = phonetic component without direct semantic meaning",
+    "interpretation": "The character 㒸 acts primarily as a phonetic component in other compounds, like 遂(遂) (suì, \"comply\"). Its components do not directly convey a clear semantic meaning, and the 豕 (豕) (shǐ, \"pig\") serves mainly a phonetic purpose in this context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丷",
+      "trad": "丷",
+      "pinyin": "bā",
+      "english": "divide"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

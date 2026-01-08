@@ -1,0 +1,50 @@
+{
+  "simplified": "检",
+  "traditional": "檢",
+  "pinyin": "jiǎn",
+  "english": "inspect; check; examine; examine (medical)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") provides semantic element + 僉(僉) (qiān, \"all\") acts as phonetic element -> originally suggests a blade on a wooden spear -> evolved into meaning 'inspect' or 'check'",
+    "interpretation": "The character 检(檢) combines 木(木) (mù, \"wood\"), implying materials made from wood, with 僉(僉) (qiān, \"all\"), which influences the pronunciation. This combination metaphorically relates to the action of inspecting or checking something thoroughly, similar to how one might examine a weapon.",
+    "simplification": "僉(僉) (qiān, \"all\") was simplified to 佥(佥) (qiān, \"all\") in the creation of the simplified form 检, reducing the number of strokes while retaining phonetic properties."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "僉",
+      "trad": "僉",
+      "pinyin": "qiān",
+      "english": "all"
+    },
+    {
+      "char": "佥",
+      "trad": "佥",
+      "pinyin": "qiān",
+      "english": "all"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生对病人进行检查(醫生對病人進行檢查)。",
+      "pinyin": "Yīshēng duì bìngrén jìnxíng jiǎnchá.",
+      "english": "The doctor conducts an examination on the patient."
+    },
+    {
+      "chinese": "护士认真检查病房(護士認真檢查病房)，确保卫生环境(確保衛生環境)。",
+      "pinyin": "Hùshì rènzhēn jiǎnchá bìngfáng, quèbǎo wèishēng huánjìng.",
+      "english": "The nurse carefully inspects the ward to ensure a sanitary environment."
+    },
+    {
+      "chinese": "学校定期检修仪器(學校定期檢修儀器)，保障教学质量(保障教學質量)。",
+      "pinyin": "Xuéxiào dìngqī jiǎnxiū yíqì, bǎozhàng jiàoxué zhìliàng.",
+      "english": "The school regularly inspects the equipment to ensure the quality of education."
+    }
+  ]
+}

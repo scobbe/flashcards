@@ -1,0 +1,44 @@
+{
+  "simplified": "懸",
+  "traditional": "懸",
+  "pinyin": "xuán",
+  "english": "hang",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "縣(縣) (xuán) (phonetic, 'county') + 心(心) (xīn, 'heart') = originally 縣 also meant 'to hang'; 心 added for distinction -> 懸('hang')",
+    "interpretation": "The character 懸(xuán) combines the phonetic element 縣(縣) (xuán, 'county') with the semantic element 心(心) (xīn, 'heart'). The original character 縣 encompassed the meaning 'to hang,' and 心 was added to distinguish this meaning from 'county', resulting in 懸 for 'hang'.",
+    "simplification": "悬(懸): The simplified form removes the 心(心) (xīn, 'heart') component, streamlining the complex phono-semantic compound."
+  },
+  "parts": [
+    {
+      "char": "縣",
+      "trad": "縣",
+      "pinyin": "xuán",
+      "english": "county"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把画悬在墙上(他把畫懸在牆上)。",
+      "pinyin": "Tā bǎ huà xuán zài qiáng shàng.",
+      "english": "He hangs the painting on the wall."
+    },
+    {
+      "chinese": "树枝上悬着风铃(樹枝上懸著風鈴)，微风拂过枝头(微風拂過枝頭)。",
+      "pinyin": "Shù zhī shàng xuán zhe fēng líng, wēi fēng fú guò zhī tóu.",
+      "english": "Wind chimes hang on the branches, and a gentle breeze brushes through the boughs."
+    },
+    {
+      "chinese": "古城桥上悬挂着彩灯(古城橋上懸掛著彩燈)。",
+      "pinyin": "Gǔ chéng qiáo shàng xuán guà zhe cǎi dēng.",
+      "english": "Colorful lanterns hang on the ancient city bridge."
+    }
+  ]
+}

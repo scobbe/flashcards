@@ -2,38 +2,14 @@
   "simplified": "畐",
   "traditional": "畐",
   "pinyin": "fú",
-  "english": "abundance",
+  "english": "phonetic component",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "田(田) (tián, \"field\") + 甫(甫) (fǔ, \"man\") = field full of a man’s crop -> abundance",
-    "interpretation": "畐(畐) (fú, \"abundance\") combines a field with a man, symbolizing a field that produces sufficient crops to sustain a person, denoting abundance.",
+    "type": "pictogram",
+    "description": "Depicts a container filled with contents",
+    "interpretation": "The character 畐(fú) is a pictogram that represents a container, specifically a vessel full of contents. This captures the concept of fullness or completeness. It is also used as a phonetic component in other characters, conveying the idea of 'filling' or 'covering'.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
-    },
-    {
-      "char": "甫",
-      "trad": "甫",
-      "pinyin": "fǔ",
-      "english": "man"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "秋收时节(秋收時節)，田野畐盈(田野畐盈)。",
-      "pinyin": "Qiū shōu shí jié, Tián yě fú yíng.",
-      "english": "In the harvest season, the fields are abundantly full."
-    },
-    {
-      "chinese": "他心中畐满希望(他心中畐滿希望)。",
-      "pinyin": "Tā xīn zhōng fú mǎn xī wàng.",
-      "english": "He is filled with abundant hope in his heart."
-    }
-  ]
+  "examples": []
 }

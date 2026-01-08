@@ -5,8 +5,8 @@
   "english": "to cut",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "刀(刀) (dāo, \"knife\") + 幺(幺) (yāo, \"silk\") = to cut silk threads -> ancient form of 絕(絕) (jué, \"sever\")",
-    "interpretation": "Originally, the character 𢇍 depicted the action of cutting silk threads using a knife, emphasizing the precision and sharpness associated with this task. This evolved into the modern character 絕(絕) (jué, \"sever\"), retaining the idea of separation or cutting.",
+    "description": "刀(刀) ('knife') + 幺(幺) ('silk') = to cut silk threads -> ancient form of 絕(絕) (jué, 'to cut off')",
+    "interpretation": "𢇍 is an ancient form of 絕, originally depicting the action of cutting silk threads with a knife, reflecting the action of severing or separating.",
     "simplification": ""
   },
   "parts": [
@@ -21,24 +21,14 @@
       "trad": "幺",
       "pinyin": "yāo",
       "english": "silk"
+    },
+    {
+      "char": "絕",
+      "trad": "絕",
+      "pinyin": "jué",
+      "english": "to cut off"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他用锋利的刀𢇍肉(他用鋒利的刀𢇍肉)。",
-      "pinyin": "Tā yòng fēnglì de dāo qiē ròu.",
-      "english": "He cuts the meat with a sharp knife."
-    },
-    {
-      "chinese": "她在厨房里𢇍面条(她在廚房里𢇍麵條)，准备午餐(準備午餐)。",
-      "pinyin": "Tā zài chúfáng lǐ qiē miàntiáo, zhǔnbèi wǔcān.",
-      "english": "She cuts noodles in the kitchen while preparing lunch."
-    },
-    {
-      "chinese": "老匠人在修复文物时(老匠人在修復文物時)，仔细地𢇍破损的绸缎(仔細地𢇍破損的綢緞)。",
-      "pinyin": "Lǎo jiàngrén zài xiūfù wénwù shí, zǐxì de qiē pò sǔn de chóuduàn.",
-      "english": "The old craftsman carefully cuts the damaged silk during the restoration of the artifact."
-    }
-  ]
+  "examples": []
 }

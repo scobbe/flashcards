@@ -18,21 +18,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "我很喜欢竹果(我很喜歡竹果)。",
-      "pinyin": "Wǒ hěn xǐhuān zhú guǒ.",
-      "english": "I really like the jinzhu fruit."
-    },
-    {
-      "chinese": "春日暖阳中见到竹果(春日暖陽中見到竹果)，犹如自然的恩赐(猶如自然的恩賜)。",
-      "pinyin": "Chūnrì nuǎnyáng zhōng jiàn dào zhú guǒ, yóurú zìrán de ēncì.",
-      "english": "Seeing the jinzhu fruit under the warm spring sun is like a gift from nature."
-    },
-    {
-      "chinese": "市场上新鲜上市竹果(市場上新鮮上市竹果)，吸引众多食客(吸引眾多食客)。",
-      "pinyin": "Shìchǎng shàng xīnxiān shàngshì zhú guǒ, xīyǐn zhòngduō shíkè.",
-      "english": "The jinzhu fruit has hit the market, attracting many food enthusiasts."
-    }
-  ]
+  "examples": []
 }

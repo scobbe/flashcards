@@ -1,0 +1,33 @@
+{
+  "simplified": "以",
+  "traditional": "以",
+  "pinyin": "yǐ",
+  "english": "to use; in order to; by means of",
+  "etymology": {
+    "type": "pictogram",
+    "description": "A person 人 carrying something -> partly visible person carrying -> modern form 以",
+    "interpretation": "The character 以(yǐ, \"to use\") originally depicted a person carrying an object. This imagery relates to using or employing something, which aligns with its meaning 'to use.' The person visual is simplified but still suggested in the character's structure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他以笔写信(他以筆寫信)。",
+      "pinyin": "Tā yǐ bǐ xiě xìn.",
+      "english": "He writes a letter using a pen."
+    },
+    {
+      "chinese": "我们以勤劳致富(我們以勤勞致富)，以诚信做人(以誠信做人)。",
+      "pinyin": "Wǒmen yǐ qínláo zhìfù, yǐ chéngxìn zuòrén.",
+      "english": "We become rich through hard work, and live with integrity."
+    }
+  ]
+}

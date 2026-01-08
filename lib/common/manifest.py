@@ -11,7 +11,8 @@ Manifest structure:
   "in_progress": 1,
   "pending": 3,
   "error": 0,
-  "complete_contiguous": 4
+  "complete_contiguous": 4,
+  "raw_input_hash": "abc123..."  # Only in input manifest
 }
 
 States:
@@ -21,8 +22,10 @@ States:
 - "error": Failed with error
 """
 
+import hashlib
 import json
 import re
+import shutil
 import threading
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
@@ -127,7 +130,11 @@ def _load_manifest(path: Path) -> Dict[str, Any]:
             raw_status = data.get("file_status", {})
             file_status = {k: _normalize_state(v) for k, v in raw_status.items()}
             error_details = data.get("error_details", {})
-            return _compute_stats(file_status, error_details)
+            result = _compute_stats(file_status, error_details)
+            # Preserve raw_input_hash if present
+            if "raw_input_hash" in data:
+                result["raw_input_hash"] = data["raw_input_hash"]
+            return result
     except Exception:
         pass
     return {"file_status": {}, "complete": 0, "in_progress": 0, "pending": 0, "error": 0, "complete_contiguous": 0}
@@ -152,13 +159,51 @@ def input_manifest_path(output_dir: Path) -> Path:
 
 
 def load_input_manifest(output_dir: Path) -> Dict[str, Any]:
-    """Load the input manifest."""
-    return _load_manifest(input_manifest_path(output_dir))
+    """Load the input manifest.
+
+    Returns dict with file_status and optional raw_input_hash.
+    Also computes stats for backwards compatibility.
+    """
+    path = input_manifest_path(output_dir)
+    if not path.exists():
+        return {"file_status": {}, "complete": 0, "pending": 0, "in_progress": 0, "error": 0}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if isinstance(data, dict):
+            file_status = data.get("file_status", {})
+            # Normalize states
+            file_status = {k: _normalize_state(v) for k, v in file_status.items()}
+            # Compute stats for backwards compatibility
+            result = {
+                "file_status": file_status,
+                "complete": sum(1 for v in file_status.values() if v == COMPLETE),
+                "pending": sum(1 for v in file_status.values() if v == PENDING),
+                "in_progress": sum(1 for v in file_status.values() if v == IN_PROGRESS),
+                "error": sum(1 for v in file_status.values() if v == ERROR),
+            }
+            if "raw_input_hash" in data:
+                result["raw_input_hash"] = data["raw_input_hash"]
+            return result
+    except Exception:
+        pass
+    return {"file_status": {}, "complete": 0, "pending": 0, "in_progress": 0, "error": 0}
 
 
-def save_input_manifest(output_dir: Path, file_status: Dict[str, str]) -> None:
-    """Save the input manifest."""
-    _save_manifest(input_manifest_path(output_dir), file_status)
+def save_input_manifest(output_dir: Path, file_status: Dict[str, str], raw_input_hash: Optional[str] = None) -> None:
+    """Save the input manifest (simple format without computed stats)."""
+    path = input_manifest_path(output_dir)
+    # Preserve existing hash if not provided
+    if raw_input_hash is None:
+        existing = load_input_manifest(output_dir)
+        raw_input_hash = existing.get("raw_input_hash")
+
+    output: Dict[str, Any] = {"file_status": file_status}
+    if raw_input_hash:
+        output["raw_input_hash"] = raw_input_hash
+    path.write_text(
+        json.dumps(output, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8"
+    )
 
 
 def init_input_manifest(output_dir: Path, chunk_keys: List[str]) -> None:
@@ -228,6 +273,66 @@ def clear_input_manifest(output_dir: Path) -> None:
     path = input_manifest_path(output_dir)
     if path.exists():
         path.unlink()
+
+
+def compute_file_hash(file_path: Path) -> str:
+    """Compute SHA256 hash of a file's contents."""
+    if not file_path.exists():
+        return ""
+    hasher = hashlib.sha256()
+    with open(file_path, "rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            hasher.update(chunk)
+    return hasher.hexdigest()
+
+
+def get_input_hash(input_parsed_dir: Path) -> Optional[str]:
+    """Get the stored raw input hash from the input manifest."""
+    manifest = load_input_manifest(input_parsed_dir)
+    return manifest.get("raw_input_hash")
+
+
+def save_input_hash(input_parsed_dir: Path, raw_input_hash: str) -> None:
+    """Save the raw input hash to the input manifest."""
+    with MANIFEST_LOCK:
+        manifest = load_input_manifest(input_parsed_dir)
+        file_status = manifest.get("file_status", {})
+        save_input_manifest(input_parsed_dir, file_status, raw_input_hash)
+
+
+def check_and_clear_if_input_changed(raw_input_path: Path, input_parsed_dir: Path, verbose: bool = False) -> bool:
+    """Check if raw input file changed and clear input-parsed dir if so.
+
+    Returns True if the directory was cleared (input changed or no hash stored), False otherwise.
+    """
+    if not raw_input_path.exists():
+        return False
+
+    current_hash = compute_file_hash(raw_input_path)
+    stored_hash = get_input_hash(input_parsed_dir)
+
+    should_clear = False
+    if stored_hash is None:
+        # No stored hash - check if parsed CSV exists (legacy state)
+        parsed_csv = input_parsed_dir / "-input.parsed.csv"
+        if parsed_csv.exists():
+            # Legacy: parsed CSV exists but no hash - force re-parse to establish baseline
+            if verbose:
+                print(f"[input] No input hash stored, clearing {input_parsed_dir} to establish baseline")
+            should_clear = True
+    elif current_hash != stored_hash:
+        # Input file changed
+        if verbose:
+            print(f"[input] Raw input file changed, clearing {input_parsed_dir}")
+        should_clear = True
+
+    if should_clear:
+        if input_parsed_dir.exists():
+            shutil.rmtree(input_parsed_dir)
+            input_parsed_dir.mkdir(parents=True, exist_ok=True)
+        return True
+
+    return False
 
 
 #########################################

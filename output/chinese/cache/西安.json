@@ -1,0 +1,44 @@
+{
+  "simplified": "西安",
+  "traditional": "西安",
+  "pinyin": "Xī’ān",
+  "english": "Xi’an city; capital of Shaanxi Province",
+  "etymology": {
+    "type": "compound word",
+    "description": "西(西) (xī, \"west\") + 安(安) (ān, \"peace\") = Xi’an is historically the western gateway to China and has been a peaceful and significant cultural hub.",
+    "interpretation": "The name Xi’an reflects its historical position as a western capital and symbol of peace in China. The city has a long history of serving as a capital for several Chinese dynasties and is known for its cultural and historical significance, such as being the starting point of the Silk Road.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "西",
+      "trad": "西",
+      "pinyin": "xī",
+      "english": "west"
+    },
+    {
+      "char": "安",
+      "trad": "安",
+      "pinyin": "ān",
+      "english": "peace; peaceful; calm; safe"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算今年去西安(西安)。",
+      "pinyin": "Wǒ dǎsuàn jīnnián qù Xī’ān.",
+      "english": "I plan to visit Xi’an this year."
+    },
+    {
+      "chinese": "老师说西安(西安)，是一个历史名城(歷史名城)。",
+      "pinyin": "Lǎoshī shuō Xī’ān, shì yīgè lìshǐ míngchéng.",
+      "english": "The teacher said that Xi’an is a historic city."
+    },
+    {
+      "chinese": "我们参观了西安(西安)，体会古城魅力(體會古城魅力)。",
+      "pinyin": "Wǒmen cānguānle Xī’ān, tǐhuì gǔchéng mèilì.",
+      "english": "We visited Xi’an and experienced the charm of the ancient city."
+    }
+  ]
+}

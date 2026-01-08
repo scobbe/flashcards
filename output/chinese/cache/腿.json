@@ -1,0 +1,44 @@
+{
+  "simplified": "腿",
+  "traditional": "腿",
+  "pinyin": "tuǐ",
+  "english": "leg; thigh",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "肉(肉) (ròu, \"flesh\") for semantic meaning + 退(退) (tuì, \"retreat\") for phonetic value = refers to the flesh of the leg -> leg or thigh",
+    "interpretation": "The character 腿 combines the flesh semantic element 肉(肉) (ròu, \"flesh\") to indicate its association with the body, and the phonetic element 退(退) (tuì, \"retreat\") to convey the pronunciation, creating a term for 'leg' or 'thigh'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    },
+    {
+      "char": "退",
+      "trad": "退",
+      "pinyin": "tuì",
+      "english": "retreat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跑步时感觉腿麻木(他跑步時感覺腿麻木)。",
+      "pinyin": "Tā pǎobù shí gǎnjué tuǐ mámù.",
+      "english": "He felt his leg numb while running."
+    },
+    {
+      "chinese": "运动之后(運動之後)，他的腿又结实又有力(他的腿又結實又有力)。",
+      "pinyin": "Yùndòng zhīhòu, tā de tuǐ yòu jiéshí yòu yǒulì.",
+      "english": "After exercising, his leg became firm and strong."
+    },
+    {
+      "chinese": "打篮球时(打籃球時)，他感到腿有些疲劳(他感到腿有些疲劳)。",
+      "pinyin": "Dǎ lánqiú shí, tā gǎndào tuǐ yǒuxiē píláo.",
+      "english": "While playing basketball, he felt a bit of leg fatigue."
+    }
+  ]
+}

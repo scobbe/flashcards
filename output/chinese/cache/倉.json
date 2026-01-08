@@ -1,0 +1,45 @@
+{
+  "simplified": "倉",
+  "traditional": "倉",
+  "pinyin": "cāng",
+  "english": "granary",
+  "etymology": {
+    "type": "pictogram",
+    "description": "亼(亼) (roof) + 戶(戶) (hù, 'door') + 口(口) (kǒu, 'pit for storing grain') -> depicts a granary",
+    "interpretation": "The character 倉(倉) (cāng, 'granary') visually represents a storage structure with a roof, door, and grain pit, illustrating its function as a place for storing grain.",
+    "simplification": "The variant 仓(倉) simplified the components and was listed as an 'odd character' in historical texts."
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "",
+      "english": "roof"
+    },
+    {
+      "char": "戶",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "pit for storing grain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民辛勤耕种(農民辛勤耕種)，把粮食存进倉(把糧食存進倉)。",
+      "pinyin": "Nóngmín xīnqín gēngzhòng, bǎ liángshí cún jìn cāng.",
+      "english": "The farmer works hard in the fields, storing the grain in the granary."
+    },
+    {
+      "chinese": "君王下令建造倉(君王下令建造倉)，储存战利品(儲存戰利品)。",
+      "pinyin": "Jūnwáng xiàlìng jiànzào cāng, chúcún zhànlìpǐn.",
+      "english": "The king ordered the construction of a granary to store the spoils of war."
+    }
+  ]
+}

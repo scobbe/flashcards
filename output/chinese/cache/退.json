@@ -1,0 +1,56 @@
+{
+  "simplified": "退",
+  "traditional": "退",
+  "pinyin": "tuì",
+  "english": "retreat",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "皀(\"food vessel\") + 夊(\"downward foot\") -> leaving the table after eating -> 彳(\"move\") added for walking emphasis -> modern form simplified with 皀 becoming 艮",
+    "interpretation": "The character 退(tuì, \"retreat\") originally depicted the action of leaving a table after eating, using 皀 to represent a vessel and 夊 for the downward motion of a foot. The addition of 彳 strengthened the notion of walking away, leading to its meaning of retreat. The simplification of 皀 to 艮 did not affect the core meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "jī",
+      "english": "food vessel"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "downward foot"
+    },
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "move"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gěn",
+      "english": "stopping point"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "将军命令士兵退(退)。",
+      "pinyin": "Jiāngjūn mìnglìng shìbīng tuì.",
+      "english": "The general ordered the soldiers to retreat."
+    },
+    {
+      "chinese": "敌人步步紧逼(敵人步步緊逼)，我军不得不退(我軍不得不退)。",
+      "pinyin": "Dírén bùbù jǐnpī, wǒ jūn bùdébù tuì.",
+      "english": "The enemy advanced relentlessly, so our army had no choice but to retreat."
+    },
+    {
+      "chinese": "边境紧张局势(邊境緊張局勢)，有必要让军队退(有必要讓軍隊退)。",
+      "pinyin": "Biānjìng jǐnzhāng júshì, yǒu bìyào ràng jūnduì tuì.",
+      "english": "The tense situation at the border necessitated a military retreat."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "simplified": "僉",
+  "traditional": "僉",
+  "pinyin": "qiān",
+  "english": "all",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亼(亼) (jí, 'gather') + 兄(兄) (xiōng, 'elder brother') written twice -> people agreeing unanimously -> stylized as 亼 + 吅(吅) (xuān, 'gathering sounds') + 从(从) (cóng, 'follow')",
+    "interpretation": "The character initially depicted multiple 兄(兄) (xiōng, 'elder brother') gathered under 亼(亼) (jí, 'gather'), representing a collective agreement or consensus. It evolved into a form combining 吅(吅) (xuān, 'gathering sounds') with 从(从) (cóng, 'follow'), symbolizing unity and collective action.",
+    "simplification": "Simplified in Japanese as 㑒 by altering the composition but keeping a similar structure."
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
+    },
+    {
+      "char": "兄",
+      "trad": "兄",
+      "pinyin": "xiōng",
+      "english": "elder brother"
+    },
+    {
+      "char": "吅",
+      "trad": "吅",
+      "pinyin": "xuān",
+      "english": "gathering sounds"
+    },
+    {
+      "char": "从",
+      "trad": "从",
+      "pinyin": "cóng",
+      "english": "follow"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

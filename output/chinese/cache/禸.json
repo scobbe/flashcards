@@ -2,25 +2,14 @@
   "simplified": "禸",
   "traditional": "禸",
   "pinyin": "róu",
-  "english": "track",
+  "english": "to trample",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint or track",
-    "interpretation": "The character 禸(róu) visually represents a footprint or track, capturing the concept of a trail left behind.",
+    "description": "Depicts a print of an animal paw",
+    "interpretation": "The character 禸(róu, \"to trample\") visually represents the shape of an animal paw print, suggesting the act of stepping or trampling on the ground.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他的鞋底留下了明显的禸(他的鞋底留下了明顯的禸)。",
-      "pinyin": "Tā de xié dǐ liú xià le míngxiǎn de róu。",
-      "english": "His shoe sole left a clear track."
-    },
-    {
-      "chinese": "侦探发现现场有动物的禸(偵探發現現場有動物的禸)，指引他找到逃跑的凶手(指引他找到逃跑的凶手)。",
-      "pinyin": "Zhēntàn fāxiàn xiànchǎng yǒu dòngwù de róu, zhǐyǐn tā zhǎodào táopǎo de xiōngshǒu。",
-      "english": "The detective found animal tracks at the scene, which guided him to the fleeing culprit."
-    }
-  ]
+  "examples": []
 }

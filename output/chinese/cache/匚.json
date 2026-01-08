@@ -5,22 +5,27 @@
   "english": "box",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a box",
-    "interpretation": "The character 匚(fāng, \"box\") is a pictogram representing the shape of an open box, viewed from above. It captures the simple geometric form of a container, emphasizing its open top and defined edges.",
+    "description": "Depicts a container -> standardized container or box",
+    "interpretation": "The character 匚 (fāng, \"box\") visually represents a container, highlighting its function as an enclosing object, which naturally associates it with the idea of a box or receptacle.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在匚里找到了一枚古钱(他在匚裡找到了一枚古錢)。",
-      "pinyin": "Tā zài fāng lǐ zhǎodàole yī méi gǔ qián.",
-      "english": "He found an old coin in the box."
+      "chinese": "工厂里堆放着破旧的匚(工廠裡堆放著破舊的匚)。",
+      "pinyin": "Gōngchǎng lǐ duīfàng zhe pòjiù de fāng.",
+      "english": "Old boxes are piled up in the factory."
     },
     {
-      "chinese": "古老匚上刻满了神秘符号(古老匚上刻滿了神秘符號)。",
-      "pinyin": "Gǔlǎo fāng shàng kè mǎnle shénmì fúhào.",
-      "english": "The ancient box is engraved with mysterious symbols."
+      "chinese": "妈妈买了新的匚(媽媽買了新的匚)，用来收纳宝贝的玩具(用來收納寶貝的玩具)。",
+      "pinyin": "Māmā mǎile xīn de fāng, yòng lái shōunà bǎobèi de wánjù.",
+      "english": "Mom bought a new box to store her child's toys."
+    },
+    {
+      "chinese": "艺术家设计了独特形状的匚(藝術家設計了獨特形狀的匚)，确保每件作品安全保存(確保每件作品安全保存)。",
+      "pinyin": "Yìshùjiā shèjì le dútè xíngzhuàng de fāng, quèbǎo měi jiàn zuòpǐn ānquán bǎocún.",
+      "english": "The artist designed uniquely shaped boxes to ensure each work was safely stored."
     }
   ]
 }

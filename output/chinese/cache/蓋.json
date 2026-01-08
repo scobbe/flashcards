@@ -1,0 +1,44 @@
+{
+  "simplified": "蓋",
+  "traditional": "蓋",
+  "pinyin": "gài",
+  "english": "cover; lid; top",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") as semantic + 盍(盍) (hé, \"why not\") as phonetic = thatch representing cover -> expanded to \"cover; lid; top\"",
+    "interpretation": "The character 蓋(gài) originally depicted a thatch made from grass, used for covering structures. The phonetic component 盍(盍) (hé, \"why not\") was initially the original character for 'cover,' which later extended the semantic scope of 蓋(gài) as it was borrowed to also ask \"why not.\"",
+    "simplification": "The traditional character 蓋 is simplified to 盖 by adopting a more streamlined form in mainland China."
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "盍",
+      "trad": "盍",
+      "pinyin": "hé",
+      "english": "why not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把锅的盖盖好(請把鍋的蓋蓋好)。",
+      "pinyin": "Qǐng bǎ guō de gài gài hǎo.",
+      "english": "Please properly cover the pot."
+    },
+    {
+      "chinese": "我找不到水瓶的盖(我找不到水瓶的蓋)，因为它太小了(因為它太小了)。",
+      "pinyin": "Wǒ zhǎo bù dào shuǐpíng de gài, yīnwèi tā tài xiǎo le.",
+      "english": "I can't find the lid of the water bottle because it is too small."
+    },
+    {
+      "chinese": "桌子上的盖盖住了杂乱的书本(桌子上的蓋蓋住了雜亂的書本)。",
+      "pinyin": "Zhuōzi shàng de gài gài zhù le záluàn de shūběn.",
+      "english": "The lid on the table covers the messy stack of books."
+    }
+  ]
+}

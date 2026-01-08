@@ -1,0 +1,44 @@
+{
+  "simplified": "险",
+  "traditional": "險",
+  "pinyin": "xiǎn",
+  "english": "danger; risk; hazard; peril",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "阝(阜) (fù, \"mound\") + phonetic: 僉(僉) (qiān) = resembling a mound or high ground + phonetic value -> danger or risk",
+    "interpretation": "The character 險(險) (xiǎn, \"danger\") combines the element 阝(阜) (fù, \"mound\"), suggesting something elevated or protruding like a hill, and the phonetic 僉(僉) (qiān), which provides the pronunciation and implies a sense of accumulation or incorporation, thus together indicating a place or situation that poses potential threat or difficulty due to its terrain or circumstances.",
+    "simplification": "險(險) was simplified to 险(險) by changing the left-side 阝(阜) to its common simplified form 阝(阜), while retaining the phonetic component 僉(僉); however, 阝 represents a simplified version of the original with fewer strokes."
+  },
+  "parts": [
+    {
+      "char": "阝",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "僉",
+      "trad": "僉",
+      "pinyin": "qiān",
+      "english": "gather"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他决定冒险一试(他決定冒險一試)。",
+      "pinyin": "Tā juédìng màoxiǎn yī shì.",
+      "english": "He decided to take the risk and give it a try."
+    },
+    {
+      "chinese": "驾驶时要小心(駕駛時要小心)，避免不必要的险情(避免不必要的險情)。",
+      "pinyin": "Jiàshǐ shí yào xiǎoxīn, bìmiǎn bù bìyào de xiǎnqíng.",
+      "english": "Drive carefully to avoid unnecessary dangers."
+    },
+    {
+      "chinese": "探险家穿越原始森林时(探險家穿越原始森林時)，面临着未知的险境(面臨著未知的險境)。",
+      "pinyin": "Tànxiǎnjiā chuānyuè yuánshǐ sēnlín shí, miànlínzhe wéizhī de xiǎnjìng.",
+      "english": "The explorer, while traversing the primeval forest, faced unknown hazards."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "撥",
+  "traditional": "撥",
+  "pinyin": "bō",
+  "english": "to push aside",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 發(發) (fā, \"emit\") = hand action represented by a related sound -> to push aside",
+    "interpretation": "The character 撥(bō, \"to push aside\") combines 手(手) (shǒu, \"hand\") as a semantic element suggesting an action performed by hand with 發(發) (fā, \"emit\") to indicate the pronunciation. Together, they evoke the idea of using the hand to move something aside.",
+    "simplification": "撥(撥) (bō, \"to push aside\") was simplified to 拨(撥) by retaining the hand radical 扌 (an abbreviated form of 手(手) (shǒu, \"hand\")) while preserving overall meaning."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "發",
+      "trad": "發",
+      "pinyin": "fā",
+      "english": "emit"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他撥開桌上的雜物(他撥開桌上的雜物)，露出光滑的桌面(露出光滑的桌面)。",
+      "pinyin": "Tā bō kāi zhuō shàng de záwù, lù chū guānghuá de zhuōmiàn.",
+      "english": "He pushed aside the clutter on the table, revealing the smooth tabletop."
+    },
+    {
+      "chinese": "請撥開那塊大布(請撥開那塊大布)，看看下面隱藏的秘密(看看下面隱藏的秘密)。",
+      "pinyin": "Qǐng bō kāi nà kuài dà bù, kàn kàn xiàmiàn yǐncáng de mìmì.",
+      "english": "Please push aside that large cloth to see the hidden secret underneath."
+    }
+  ]
+}

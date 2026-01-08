@@ -5,8 +5,8 @@
   "english": "pavilion; village; ward",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 田(田) (tián, \"field\") + phonetic: 丁(丁) (dīng, \"man\") = area associated with fields -> village or ward",
-    "interpretation": "The character 町(町) (dīng, \"pavilion; village; ward\") combines 田(田) (tián, \"field\"), reflecting a rural or agricultural area, with 丁(丁) (dīng, \"man\"), indicating population or administration. This association suggests a geographic division like a village.",
+    "description": "田 (field) + 丁 (phonetic) = ward or village",
+    "interpretation": "The character 町 combines 田(tián, “field”), representing land or area, with 丁(dīng, “fourth celestial stem”) to convey meanings related to an administrative district, such as a ward or village.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "丁",
       "trad": "丁",
       "pinyin": "dīng",
-      "english": "man"
+      "english": "fourth celestial stem"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我参观了著名的町(我參觀了著名的町)，体验了古村落的风情(體驗了古村落的風情)。",
-      "pinyin": "Wǒ cānguānle zhùmíng de dīng, tǐyànle gǔ cūnlùo de fēngqíng.",
-      "english": "I visited the famous pavilion and experienced the charm of the ancient village."
+      "chinese": "乡间有一座町(町)，供人休憩赏景(供人休憩賞景)。",
+      "pinyin": "Xiāngjiān yǒuyī zuò dīng, gōng rén xiūqì shǎngjǐng.",
+      "english": "In the countryside, there is a pavilion for relaxation and sightseeing."
     },
     {
-      "chinese": "古代诗人曾在町(古代詩人曾在町)，吟诵动人的词句(吟誦動人的詞句)。",
-      "pinyin": "Gǔdài shīrén céng zài dīng, yín sòng dòngrén de cíjù.",
-      "english": "Ancient poets once recited touching verses in the pavilion."
+      "chinese": "古老的町(町)，坐落在青山之间(坐落在青山之間)。",
+      "pinyin": "Gǔlǎo de dīng, zuòluò zài qīng shān zhī jiān.",
+      "english": "The ancient pavilion is located among the green mountains."
+    },
+    {
+      "chinese": "在町内(在町內)，居民们保留着传统文化(居民們保留著傳統文化)。",
+      "pinyin": "Zài dīng nèi, jūmín men bǎoliú zhe chuántǒng wénhuà.",
+      "english": "Within the village, the residents preserve traditional culture."
     }
   ]
 }

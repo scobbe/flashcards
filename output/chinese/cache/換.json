@@ -1,0 +1,44 @@
+{
+  "simplified": "換",
+  "traditional": "換",
+  "pinyin": "huàn",
+  "english": "to change",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 奐(奐) (huàn, \"expand\") = action performed by hand -> to change",
+    "interpretation": "The character 換(換) incorporates 手(手) (shǒu, \"hand\") to denote an action or activity involving the hands, while 奐(奐) (huàn, \"expand\") contributes the phonetic component. Altogether, it suggests the idea of changing or exchanging something through physical action.",
+    "simplification": "The traditional component 奐(奐) (huàn, \"expand\") was simplified to 䜣 to reduce stroke count while keeping the phonetic sound, and 手(手) (shǒu, \"hand\") was simplified to 扌."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "奐",
+      "trad": "奐",
+      "pinyin": "huàn",
+      "english": "expand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他換了衣服(他換了衣服)。",
+      "pinyin": "Tā huàn le yīfú.",
+      "english": "He changed his clothes."
+    },
+    {
+      "chinese": "老闆考慮換辦公室(老闆考慮換辦公室)，以改善工作氛圍(以改善工作氛圍)。",
+      "pinyin": "Lǎobǎn kǎolǜ huàn bàngōngshì, yǐ gǎishàn gōngzuò fēnwéi.",
+      "english": "The boss is considering changing the office to improve the work atmosphere."
+    },
+    {
+      "chinese": "春天來臨時(春天來臨時)，大地換上新裝(大地換上新裝)。",
+      "pinyin": "Chūntiān láilín shí, dàdì huàn shàng xīn zhuāng.",
+      "english": "When spring arrives, the earth changes into a new look."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "撞",
+  "traditional": "撞",
+  "pinyin": "zhuàng",
+  "english": "to knock; to collide",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (hand) + 童(童) (tóng, \"child\") = hand action + phonetic cue -> collide",
+    "interpretation": "The character 撞(zhuàng, \"to knock; to collide\") combines the hand radical 扌(扌) (shǒu, \"hand\"), indicating action, with 童(童) (tóng, \"child\") for its sound. This composition aptly symbolizes a hand-involved action, such as knocking or colliding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "童",
+      "trad": "童",
+      "pinyin": "tóng",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他骑电动车时不慎撞车(他騎電動車時不慎撞車)，导致车辆轻微受损(導致車輛輕微受損)。",
+      "pinyin": "Tā qí diàndòngchē shí bù shèn zhuàngchē, dǎo zhì chēliàng qīngwēi shòusǔn.",
+      "english": "He accidentally collided with a car while riding his electric bike, causing slight damage to the vehicle."
+    },
+    {
+      "chinese": "那位行人突然从拐角处走出(那位行人突然從拐角處走出)，被车撞(被車撞)。",
+      "pinyin": "Nà wèi xíngrén túrán cóng guǎijiǎo chù zǒuchū, bèi chē zhuàng.",
+      "english": "The pedestrian suddenly stepped out from the corner and was hit by a car."
+    },
+    {
+      "chinese": "我们在路上玩耍时(我們在路上玩耍時)，突然听到撞人声(突然聽到撞人聲)。",
+      "pinyin": "Wǒmen zài lùshàng wánshuǎ shí, túrán tīngdào zhuàngrén shēng.",
+      "english": "While we were playing on the road, we suddenly heard the sound of a collision involving a person."
+    }
+  ]
+}

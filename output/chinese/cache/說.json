@@ -1,0 +1,39 @@
+{
+  "simplified": "說",
+  "traditional": "說",
+  "pinyin": "shuō",
+  "english": "speak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"speech\") + 兌(兌) (duì) = combines speech element with phonetic cue -> \"speak\"",
+    "interpretation": "The character combines 言(言) (yán, \"speech\") for its semantic meaning related to communication, and 兌(兌) (duì) to provide the phonetic component. This combination effectively conveys the concept of speaking or talking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "兌",
+      "trad": "兌",
+      "pinyin": "duì",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他說(他說)，请你安静(請你安靜)。",
+      "pinyin": "Tā shuō, qǐng nǐ ānjìng.",
+      "english": "He said, please be quiet."
+    },
+    {
+      "chinese": "她說(她說)，成功属于努力的人(成功屬於努力的人)。",
+      "pinyin": "Tā shuō, chénggōng shǔyú nǔlì de rén.",
+      "english": "She said that success belongs to those who work hard."
+    }
+  ]
+}

@@ -5,22 +5,27 @@
   "english": "snout",
   "etymology": {
     "type": "pictogram",
-    "description": "Originally depicts a stylized hand, resembling a snout or three-fingered grip -> used in various characters representing a hand or something held, not literally a snout.",
-    "interpretation": "彐(彐) (jì, \"snout\") may resemble a pig's snout but frequently serves as a stylized hand with three fingers in characters like 事(事) (shì, \"affair\") and 爭(爭) (zhēng, \"struggle\"), diverging from its literal meaning.",
+    "description": "Depicts a hand with fingers stylized as three lines, holding something",
+    "interpretation": "The character 彐(jì, 'snout') is a pictogram that resembles a hand grasping an object, with its fingers represented by three lines. While originally a variant of 彑, depicting a pig's snout, in many characters, it’s simplified to symbolize a hand, often portrayed with three fingers. This visual stylization captures the essence of the hand in a simplified form, commonly seen in various characters.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那只猪的彐短而有力(那隻豬的彐短而有力)。",
-      "pinyin": "Nà zhī zhū de jì duǎn ér yǒulì.",
-      "english": "That pig's snout is short yet powerful."
+      "chinese": "大猪的彐显得特别精致(大豬的彐顯得特別精緻)。",
+      "pinyin": "Dà zhū de jì xiǎn de tèbié jīngzhì.",
+      "english": "The pig's snout appears particularly exquisite."
     },
     {
-      "chinese": "农家养的猪常常被人称赞(農家養的豬常常被人稱讚)，因为它们的彐显得非常灵敏(因為它們的彐顯得非常靈敏)。",
-      "pinyin": "Nóngjiā yǎng de zhū chángcháng bèi rén chēngzàn, yīnwèi tāmen de jì xiǎndé fēicháng língmǐn.",
-      "english": "Pigs raised on the farm are often praised because their snouts appear exceptionally sensitive."
+      "chinese": "我在书中见到彐(我在書中見到彐)，了解到它代表了动物的鼻部(了解到它代表了動物的鼻部)。",
+      "pinyin": "Wǒ zài shū zhōng jiàn dào jì, liǎo jiě dào tā dài biǎo le dòngwù de bí bù.",
+      "english": "I encountered the snout in the book and learned that it represents an animal's nose."
+    },
+    {
+      "chinese": "古代铭文中彐的形象生动(古代銘文中彐的形象生動)。",
+      "pinyin": "Gǔdài míngwén zhōng jì de xíngxiàng shēngdòng.",
+      "english": "In ancient inscriptions, the depiction of the snout is vivid."
     }
   ]
 }

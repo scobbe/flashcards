@@ -1,0 +1,44 @@
+{
+  "simplified": "頤",
+  "traditional": "頤",
+  "pinyin": "yí",
+  "english": "nourish",
+  "etymology": {
+    "type": "ideogrammic compound and phono-semantic compound",
+    "description": "𦣞(𦣞) (yí, \"chin\") + 頁(頁) (yè, \"head\") = chin (phonetically represented) as part of the head -> nourish",
+    "interpretation": "The character combines 𦣞(𦣞) (yí, \"chin\"), which phonetically suggests 'nourish', with 頁(頁) (yè, \"head\") to convey the concept of nourishing, metaphorically related to the mouth and chin as parts of the head involved in eating and speaking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𦣞",
+      "trad": "𦣞",
+      "pinyin": "yí",
+      "english": "chin"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "母亲用心頤养子女(母親用心頤養子女)。",
+      "pinyin": "mǔqīn yòngxīn yí yǎng zǐnǚ.",
+      "english": "The mother carefully nourishes her children."
+    },
+    {
+      "chinese": "均衡的饮食(均衡的飲食)，有助于頤护健康(有助於頤護健康)。",
+      "pinyin": "jūnhéng de yǐnshí, yǒuzhù yú yí hù jiànkāng.",
+      "english": "A balanced diet helps to nourish and protect health."
+    },
+    {
+      "chinese": "适量的休息可以頤养心神(適量的休息可以頤養心神)。",
+      "pinyin": "shìliàng de xiūxí kěyǐ yí yǎng xīnshén.",
+      "english": "An adequate amount of rest can nourish one's spirit."
+    }
+  ]
+}

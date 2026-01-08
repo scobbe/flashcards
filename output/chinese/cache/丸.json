@@ -1,0 +1,38 @@
+{
+  "simplified": "丸",
+  "traditional": "丸",
+  "pinyin": "wán",
+  "english": "semantic surrogate",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "Originally the same as 夗 -> differentiated as 丸 -> something round or that can roll",
+    "interpretation": "The character 丸 originally shared its form with 夗, representing an idea of tilting or something round. This suggests an early association with roundness or rolling, reflecting its use for balls or pills today.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "夗",
+      "trad": "夗",
+      "pinyin": "yuàn",
+      "english": "tilt"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生给我一丸药(醫生給我一丸藥)。",
+      "pinyin": "Yīshēng gěi wǒ yī wán yào.",
+      "english": "The doctor gave me one pill."
+    },
+    {
+      "chinese": "这丸药效果很好(這丸藥效果很好)，我一天吃两次(我一天吃兩次)。",
+      "pinyin": "Zhè wán yào xiàoguǒ hěn hǎo, wǒ yītiān chī liǎng cì.",
+      "english": "This pill is very effective; I take it twice a day."
+    },
+    {
+      "chinese": "老中医常以丸治百病(老中醫常以丸治百病)。",
+      "pinyin": "Lǎo zhōngyī cháng yǐ wán zhì bǎibìng.",
+      "english": "Old Chinese medicine practitioners often use pills to cure various ailments."
+    }
+  ]
+}

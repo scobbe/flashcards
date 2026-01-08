@@ -1,0 +1,28 @@
+{
+  "simplified": "侑",
+  "traditional": "侑",
+  "pinyin": "yòu",
+  "english": "to urge to eat",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 由(由) (yóu, \"cause\") = combining person and cause -> form related to human action, urging -> to urge to eat",
+    "interpretation": "The character 侑(yòu) combines the 'person' radical亻to imply an action associated with people, and 由(yóu) as the phonetic component. This reflects an action of prompting or urging someone, specifically in a dining scenario, to encourage them to eat.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "cause"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

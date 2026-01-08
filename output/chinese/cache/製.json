@@ -1,0 +1,44 @@
+{
+  "simplified": "製",
+  "traditional": "製",
+  "pinyin": "zhì",
+  "english": "manufacture",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "制(制) (zhì, \"to cut out; to make\") + 衣(衣) (yī, \"clothes\") = making clothes or cutting out patterns",
+    "interpretation": "The character 製(製) (zhì) combines 制(制) (zhì, \"to cut out; to make\") as the phonetic component with 衣(衣) (yī, \"clothes\") as the semantic component, illustrating the idea of manufacturing or tailoring clothes by cutting out fabric.",
+    "simplification": "製(製) (zhì) was simplified to 制(制) (zhì) by merging both the phonetic and semantic elements into a single simplified form."
+  },
+  "parts": [
+    {
+      "char": "制",
+      "trad": "制",
+      "pinyin": "zhì",
+      "english": "to cut out; to make"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothes"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这家工厂製汽车(這家工廠製汽車)。",
+      "pinyin": "Zhè jiā gōngchǎng zhì qìchē.",
+      "english": "This factory manufactures cars."
+    },
+    {
+      "chinese": "他们製出新产品(他們製出新產品)，赢得市场赞誉(贏得市場讚譽)。",
+      "pinyin": "Tāmen zhì chū xīn chǎnpǐn, yíngdé shìchǎng zànyù.",
+      "english": "They manufacture new products and win market acclaim."
+    },
+    {
+      "chinese": "大師製古琴(大師製古琴)，传承千年文化(傳承千年文化)。",
+      "pinyin": "Dàshī zhì gǔqín, chuánchéng qiānnián wénhuà.",
+      "english": "The master manufactures guqin and passes down a culture of a thousand years."
+    }
+  ]
+}

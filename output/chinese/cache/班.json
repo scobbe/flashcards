@@ -1,0 +1,44 @@
+{
+  "simplified": "班",
+  "traditional": "班",
+  "pinyin": "bān",
+  "english": "shift; work",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "珏(珏) (jué, \"pieces of jade\") + 刀(刀) (dāo, \"knife\") = cutting jade into pieces -> split or divided -> shift or work group",
+    "interpretation": "The character 班(bān) metaphorically represents dividing or splitting work into shifts, akin to cutting jade into pieces. This concept stems from the process of dividing a whole into parts, as suggested by the act of cutting jade.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "珏",
+      "trad": "珏",
+      "pinyin": "jué",
+      "english": "pieces of jade"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天我上晚班(今天我上晚班)。",
+      "pinyin": "Jīntiān wǒ shàng wǎn bān.",
+      "english": "Today I work the night shift."
+    },
+    {
+      "chinese": "他换了班(他換了班)，去休息了(去休息了)。",
+      "pinyin": "Tā huàn le bān, qù xiūxí le.",
+      "english": "He changed his shift, and then went to rest."
+    },
+    {
+      "chinese": "天黑后(天黑後)，我开始新班(我開始新班)。",
+      "pinyin": "Tiān hēi hòu, wǒ kāishǐ xīn bān.",
+      "english": "After it got dark, I started a new shift."
+    }
+  ]
+}

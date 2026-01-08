@@ -5,8 +5,8 @@
   "english": "semicircular jade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𤣩(𤣩) (yù, \"jade\") provides the semantic meaning of jade + 黃(黃) (huáng, \"yellow\") serves as the phonetic component -> represents a semicircular jade piece",
-    "interpretation": "The character 璜(璜) combines the semantic element 𤣩(𤣩) related to jade with the phonetic 黃(黃), illustrating a jade object with a similar pronunciation to 'yellow.' This specialized jade piece holds cultural significance.",
+    "description": "semantic: 𤣩(\"jade\") + phonetic: 黃(黃) (huáng, \"yellow\") = jade with similar sound to 黃 -> semicircular jade",
+    "interpretation": "The character 璜 combines the jade radical 𤣩, indicating its material nature, with 黃(黃) (huáng, \"yellow\") as the phonetic component, indicating the pronunciation. This suggests a type of jade named for its yellowish hue or associated value.",
     "simplification": ""
   },
   "parts": [
@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "皇后赠他璜(皇后贈他璜)，象征尊贵(象徵尊貴)。",
-      "pinyin": "Huánghòu zèng tā huáng, xiàngzhēng zūnguì.",
-      "english": "The empress gifted him a semicircular jade, symbolizing nobility."
-    },
-    {
-      "chinese": "他细细抚摸璜(他細細撫摸璜)，仿佛触摸历史(仿佛觸摸歷史)。",
-      "pinyin": "Tā xìxì fǔmō huáng, fǎngfú chùmō lìshǐ.",
-      "english": "He gently caressed the semicircular jade, as if he were touching history."
-    }
-  ]
+  "examples": []
 }

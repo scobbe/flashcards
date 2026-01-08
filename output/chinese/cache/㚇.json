@@ -4,36 +4,25 @@
   "pinyin": "zōng",
   "english": "phonetic component",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "夕(xī, \"evening\") + 卩(jié, \"kneeling person\") = related to evening activities or ceremonies",
-    "interpretation": "The character combines 夕(xī, \"evening\"), depicting the time of day, with 卩(jié, \"kneeling person\"), possibly indicating a person engaged in a significant action or ceremony during the evening.",
+    "type": "phono-semantic compound",
+    "description": "禾(禾) (hé, 'grain') + 瓮(瓮) (wèng, 'jar') = Phonetic component",
+    "interpretation": "The character 㚇 (zōng) is primarily used as a phonetic component in other characters. It combines 禾(禾) (hé, 'grain') for its semantic value with 瓮(瓮) (wèng, 'jar') for its phonetic influence, but it is not commonly used on its own in modern Chinese.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "夕",
-      "trad": "夕",
-      "pinyin": "xī",
-      "english": "evening"
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
     },
     {
-      "char": "卩",
-      "trad": "卩",
-      "pinyin": "jié",
-      "english": "kneeling person"
+      "char": "瓮",
+      "trad": "瓮",
+      "pinyin": "wèng",
+      "english": "jar"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "在造字过程中(在造字過程中)，㚇担负着声旁的作用(㚇擔負著聲旁的作用)。",
-      "pinyin": "Zài zàozì guòchéng zhōng, zōng dānfù zhe shēngpáng de zuòyòng.",
-      "english": "In the process of character formation, 㚇 plays the role of the phonetic component."
-    },
-    {
-      "chinese": "古代文献中(古代文獻中)，学者探讨了㚇的演变(學者探討了㚇的演變)。",
-      "pinyin": "Gǔdài wénxiàn zhōng, xuézhě tànjiù le zōng de yǎnbiàn.",
-      "english": "In ancient texts, scholars discussed the evolution of 㚇."
-    }
-  ]
+  "examples": []
 }

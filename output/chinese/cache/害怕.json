@@ -1,0 +1,39 @@
+{
+  "simplified": "害怕",
+  "traditional": "害怕",
+  "pinyin": "hàipà",
+  "english": "to be afraid",
+  "etymology": {
+    "type": "compound word",
+    "description": "害(害) (hài, \"harm\") + 怕(怕) (pà, \"fear\") means to experience fear or be afraid of something bad happening.",
+    "interpretation": "The combination of 害(害) (hài, \"harm\") and 怕(怕) (pà, \"fear\") suggests the feeling of fear that arises from the anticipation of potential harm or danger.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "害",
+      "trad": "害",
+      "pinyin": "hài",
+      "english": "harm; injure; evil; calamity"
+    },
+    {
+      "char": "怕",
+      "trad": "怕",
+      "pinyin": "pà",
+      "english": "fear; dread; afraid"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我害怕大雨(我害怕大雨)。",
+      "pinyin": "Wǒ hàipà dàyǔ.",
+      "english": "I am afraid of heavy rain."
+    },
+    {
+      "chinese": "当夜深人静时(當夜深人靜時)，我害怕孤独(我害怕孤獨)。",
+      "pinyin": "Dāng yè shēn rén jìng shí, wǒ hàipà gūdú.",
+      "english": "When the night is quiet, I am afraid of loneliness."
+    }
+  ]
+}

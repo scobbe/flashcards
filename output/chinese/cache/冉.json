@@ -1,0 +1,39 @@
+{
+  "simplified": "冉",
+  "traditional": "冉",
+  "pinyin": "rǎn",
+  "english": "hair hanging down",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Possibly depicts hair hanging down (original form of 髯(髯) (rán, \"beard\")) or edge of a turtle shell (original form of 𪚮(𪚮)) -> simplified stylization for both interpretations",
+    "interpretation": "The character is believed to represent elements like hanging hair, which later contributed to related forms like 髯(髯) (rán, \"beard\"). Its appearance suggests vertical descending lines, resembling the natural fall of hair or the outlines of a shell.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "髯",
+      "trad": "髯",
+      "pinyin": "rán",
+      "english": "beard"
+    },
+    {
+      "char": "𪚮",
+      "trad": "𪚮",
+      "pinyin": "",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的长发冉冉披肩(她的長髮冉冉披肩)。",
+      "pinyin": "Tā de chángfà rǎn rǎn pī jiān.",
+      "english": "Her long hair hangs gracefully over her shoulders."
+    },
+    {
+      "chinese": "微风轻拂(微風輕拂)，她那冉垂的发丝随风摇曳(她那冉垂的髮絲隨風搖曳)。",
+      "pinyin": "Wēifēng qīngfú, tā nà rǎn chuí de fàsī suí fēng yáoyè.",
+      "english": "A gentle breeze caresses, and her hanging hair sways with the wind."
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "simplified": "癶",
   "traditional": "癶",
-  "pinyin": "bō",
-  "english": "footsteps",
+  "pinyin": "bá",
+  "english": "two outstretched feet",
   "etymology": {
-    "type": "Ideogram",
-    "description": "止(止) (zhǐ, \"foot\") right + 止(止) (zhǐ, \"foot\") left = footsteps in divergent directions",
-    "interpretation": "The character 癶(bō) visually represents two feet pointing outwards, symbolizing movement in different or divergent directions. This contrasts with 舛(chuǎn), where the feet point towards each other, indicating convergence.",
+    "type": "ideogram",
+    "description": "止(止) (zhǐ, \"foot\") + 止(止) (zhǐ, \"foot\") = two outstretched feet diverging -> diverging direction",
+    "interpretation": "The character 癶(bá) represents two feet moving in opposite directions, symbolizing divergence and movement. It contrasts with 舛(舛) (chuǎn, \"contradict\"), which depicts convergent feet, highlighting different types of movement orientations.",
     "simplification": ""
   },
   "parts": [
@@ -17,22 +17,22 @@
       "english": "foot"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他走路时的癶声回荡在夜空(他走路時的癶聲回蕩在夜空)。",
-      "pinyin": "Tā zǒulù shí de bō shēng huídàng zài yèkōng.",
-      "english": "The sound of his footsteps echoed in the night sky."
+      "chinese": "古文字中有癶(古文字中有癶)，象征着两只伸出的脚(象徵著兩隻伸出的腳)。",
+      "pinyin": "Gǔ wénzì zhōng yǒu bá, xiàngzhēngzhe liǎng zhǐ shēnchū de jiǎo.",
+      "english": "In ancient scripts, bá appears, symbolizing two outstretched feet."
     },
     {
-      "chinese": "夜深人静时(夜深人靜時)，我听见远处的癶声(我聽見遠處的癶聲)。",
-      "pinyin": "Yè shēn rén jìng shí, wǒ tīngjiàn yuǎn chù de bō shēng.",
-      "english": "In the still of the night, I heard the footsteps from afar."
+      "chinese": "汉字构造中含有癶(漢字構造中含有癶)，展现出足部迅猛伸展的形态(展現出足部迅猛伸展的形態)。",
+      "pinyin": "Hànzì gòuzào zhōng hányǒu bá, zhǎnxiàn chū zúbù xùnměng shēnzhǎn de xíngtài.",
+      "english": "Within the structure of Chinese characters, bá is incorporated, revealing the form of swiftly outstretched feet."
     },
     {
-      "chinese": "踏入古寺前院(踏入古寺前院)，便能听到历史中遗留的癶声(便能聽到歷史中遺留的癶聲)。",
-      "pinyin": "Tà rù gǔ sì qián yuàn, biàn néng tīngdào lìshǐ zhōng yíliú de bō shēng.",
-      "english": "Upon entering the ancient monastery courtyard, one could hear the lingering footsteps of history."
+      "chinese": "癶象征着两只外伸的脚(癶象徵著兩隻外伸的腳)。",
+      "pinyin": "Bá xiàngzhēngzhe liǎng zhǐ wài shēn de jiǎo.",
+      "english": "Bá symbolizes two outstretched feet."
     }
   ]
 }

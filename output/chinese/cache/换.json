@@ -1,0 +1,44 @@
+{
+  "simplified": "换",
+  "traditional": "換",
+  "pinyin": "huàn",
+  "english": "to exchange",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 奐(奐) (huàn, phonetic) = action involving hands -> exchange",
+    "interpretation": "The character 换(換) (huàn) combines 手(手) (shǒu, \"hand\") to indicate an action performed with the hands, and 奐(奐) (huàn) providing phonetic guidance, thus conveying the idea of exchanging or swapping things manually.",
+    "simplification": "The simplified form 换 replaces the complex 奐(奐) (huàn, phonetic) with simpler elements to facilitate easier writing."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "奐",
+      "trad": "奐",
+      "pinyin": "huàn",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想换钱(我想換錢)。",
+      "pinyin": "Wǒ xiǎng huàn qián.",
+      "english": "I want to exchange money."
+    },
+    {
+      "chinese": "他把旧书换成新书(他把舊書換成新書)。",
+      "pinyin": "Tā bǎ jiù shū huàn chéng xīn shū.",
+      "english": "He exchanges old books for new ones."
+    },
+    {
+      "chinese": "在市场上(在市場上)，你可以换鱼和肉(你可以換魚和肉)。",
+      "pinyin": "Zài shìchǎng shàng, nǐ kěyǐ huàn yú hé ròu.",
+      "english": "At the market, you can exchange fish and meat."
+    }
+  ]
+}

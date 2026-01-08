@@ -1,0 +1,44 @@
+{
+  "simplified": "到",
+  "traditional": "到",
+  "pinyin": "dào",
+  "english": "to",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "至(至) (zhì, \"to arrive\") + 刀(刀) (dāo, \"knife\") = semantic 'to arrive' + phonetic value -> to",
+    "interpretation": "The character 到(dào) combines the meaning of arriving from 至(至) (zhì, \"to arrive\") with the sound component from 刀(刀) (dāo, \"knife\") to represent the concept of reaching a destination.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "至",
+      "trad": "至",
+      "pinyin": "zhì",
+      "english": "to arrive"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我到家了(我到家了)。",
+      "pinyin": "Wǒ dào jiā le.",
+      "english": "I have arrived home."
+    },
+    {
+      "chinese": "我们到学校后(我們到學校後)，开始上课(開始上課)。",
+      "pinyin": "Wǒmen dào xuéxiào hòu, kāishǐ shàngkè.",
+      "english": "We arrived at school, and then started class."
+    },
+    {
+      "chinese": "火车到站时(火車到站時)，旅客纷纷下车(旅客紛紛下車)。",
+      "pinyin": "Huǒchē dào zhàn shí, lǚkè fēnfēn xià chē.",
+      "english": "When the train arrived at the station, the passengers got off one after another."
+    }
+  ]
+}

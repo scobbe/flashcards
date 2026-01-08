@@ -1,0 +1,44 @@
+{
+  "simplified": "臀",
+  "traditional": "臀",
+  "pinyin": "tún",
+  "english": "buttocks",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 殿(殿) (diàn, \"palace hall\") + Semantic 肉(肉) (ròu, \"flesh\") = indicates relation to flesh -> refers to 'buttocks'",
+    "interpretation": "The character 臀(tún, \"buttocks\") combines 殿(殿) (diàn, \"palace hall\") for its phonetic value and 肉(肉) (ròu, \"flesh\") to indicate its association with parts of the body, specifically fleshier regions like the buttocks.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "殿",
+      "trad": "殿",
+      "pinyin": "diàn",
+      "english": "palace hall"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他摔倒后(他摔倒後)，跌伤了臀(跌傷了臀)。",
+      "pinyin": "Tā shuāi dǎo hòu, diē shāng le tún.",
+      "english": "He fell down and injured his buttocks."
+    },
+    {
+      "chinese": "锻炼时(鍛煉時)，他的臀变得结实(他的臀變得結實)。",
+      "pinyin": "Duàn liàn shí, tā de tún biàn de jié shí.",
+      "english": "While exercising, his buttocks became firm."
+    },
+    {
+      "chinese": "长时间坐着(長時間坐著)，她感觉臀麻木(她感覺臀麻木)。",
+      "pinyin": "Cháng shí jiān zuò zhe, tā gǎn jué tún má mù.",
+      "english": "After sitting for a long time, she felt numbness in her buttocks."
+    }
+  ]
+}

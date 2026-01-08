@@ -1,0 +1,46 @@
+{
+  "simplified": "𡴆",
+  "traditional": "𡴆",
+  "pinyin": "rù",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "屮 (sprout) + 六 (phonetic component) -> original form of 夌 (líng, \"climb/surpass\") with 木 (tree) + 人 (person) -> surpassed/archaic form",
+    "interpretation": "The character 𡴆 combines 屮 (sprout), giving it a semantic base related to growth or emergence, with 六 as a phonetic component. Historically, it was also an ideogrammic compound 木 + 人 representing climbing or surpassing, later evolving into 夌, rendering 𡴆 obsolete.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
+    },
+    {
+      "char": "六",
+      "trad": "六",
+      "pinyin": "liù",
+      "english": "six"
+    },
+    {
+      "char": "夌",
+      "trad": "夌",
+      "pinyin": "líng",
+      "english": "climb/surpass"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

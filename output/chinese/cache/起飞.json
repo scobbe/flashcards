@@ -1,0 +1,44 @@
+{
+  "simplified": "起飞",
+  "traditional": "起飛",
+  "pinyin": "qǐfēi",
+  "english": "to take off",
+  "etymology": {
+    "type": "compound word",
+    "description": "起(起) (qǐ, \"rise\") + 飛(飛) (fēi, \"fly\") = rise up to fly -> take off",
+    "interpretation": "The combination of 起(起) (qǐ, \"rise\") and 飛(飛) (fēi, \"fly\") conveys the action of an aircraft lifting off the ground to begin flying. This is a straightforward and literal representation of the concept of taking off.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; initiate; begin; get up"
+    },
+    {
+      "char": "飛",
+      "trad": "飛",
+      "pinyin": "fēi",
+      "english": "fly; flutter; hover; rush"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "飞机起飞(飛機起飛)。",
+      "pinyin": "Fēijī qǐfēi.",
+      "english": "The airplane takes off."
+    },
+    {
+      "chinese": "飞机在跑道上加速(飛機在跑道上加速)，很快起飞(很快起飛)。",
+      "pinyin": "Fēijī zài pǎodào shàng jiāsù, hěn kuài qǐfēi.",
+      "english": "The airplane accelerates on the runway, then takes off quickly."
+    },
+    {
+      "chinese": "准备完毕(準備完畢)，飞机起飞(飛機起飛)。",
+      "pinyin": "Zhǔnbèi wánbì, fēijī qǐfēi.",
+      "english": "After getting ready, the airplane takes off."
+    }
+  ]
+}

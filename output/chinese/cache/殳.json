@@ -2,30 +2,32 @@
   "simplified": "殳",
   "traditional": "殳",
   "pinyin": "shū",
-  "english": "hand holding a hammer or a mallet",
+  "english": "weapon",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a hand holding a tool (hammer/mallet)",
-    "interpretation": "The character 殳 represents a hand gripping a mallet or hammer, illustrating the form and function of the object.",
+    "type": "Pictogram",
+    "description": "𠘧 (hand) + 又 (tool) = depicts hand holding a tool -> borrowed meaning of bamboo halberd",
+    "interpretation": "The character originally depicted a hand holding a tool, suggesting the action of beating. It was later borrowed to refer to a specific type of weapon, a bamboo halberd.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "tool"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古代战士握紧殳(殳)，冲向敌阵(衝向敵陣)。",
-      "pinyin": "Gǔdài zhànshì wò jǐn shū, chōng xiàng dí zhèn.",
-      "english": "Ancient warriors gripped their mallets, charging toward the enemy formation."
+      "chinese": "古代战场上(古代戰場上)，殳曾被视为关键武器(殳曾被視為關鍵武器)。",
+      "pinyin": "Gǔdài zhànchǎng shàng, shū céng bèi shì wéi guānjiàn wǔqì.",
+      "english": "On ancient battlefields, the shū was once considered a crucial weapon."
     },
     {
-      "chinese": "工匠拿着殳(殳)，敲打铁砧(鐵砧)。",
-      "pinyin": "Gōngjiàng ná zhe shū, qiāo dǎ tiě zhēn.",
-      "english": "The artisan held the mallet, striking the iron anvil."
-    },
-    {
-      "chinese": "修理工举起殳(殳)，敲打破损钟表(敲打破損鐘錶)。",
-      "pinyin": "Xiūlǐgōng jǔ qǐ shū, qiāo dǎ pò sǔn zhōngbiǎo.",
-      "english": "The repairman raised the mallet, tapping the broken clock."
+      "chinese": "兵器展览中(兵器展覽中)，殳闪耀着历史的光芒(殳閃耀著歷史的光芒)。",
+      "pinyin": "Bīngqì zhǎnlǎn zhōng, shū shǎnyào zhe lìshǐ de guāngmáng.",
+      "english": "In the arms exhibition, the shū shone with the brilliance of history."
     }
   ]
 }

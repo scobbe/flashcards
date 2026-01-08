@@ -1,0 +1,40 @@
+{
+  "simplified": "雝",
+  "traditional": "雝",
+  "pinyin": "yōng",
+  "english": "harmonious",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "吕(呂) (lǚ, 'spine') + 隹(隹) (zhuī, 'bird') = phonetic and semantic combination -> 水(水) (shuǐ, 'water') added or 邑(邑) (yì, 'city') corrupted from 吕(呂) -> harmonious",
+    "interpretation": "The character 雝 originally combined the phonetic element 吕(呂) from an ancient form similar to 宮 (not the current form 吕) with the semantic element 隹, symbolizing a bird. This was phonetically transformed over time, often incorporating 水 or 邑, contributing to the sense of harmony, as birds and water together evoke natural harmony.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "spine"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "bird"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "city"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

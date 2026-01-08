@@ -1,0 +1,31 @@
+{
+  "simplified": "爾",
+  "traditional": "爾",
+  "pinyin": "ěr",
+  "english": "you",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts cloth on a loom -> phonetically borrowed for 爾(爾) (ěr, \"you\")",
+    "interpretation": "The character originally represented woven cloth due to its shape depicting a loom with threads. Over time, it was phonetically borrowed to represent the pronoun 'you'.",
+    "simplification": "尔(爾) is a variant of 尒(尒), an abridged form of 爾(爾) and officially adopted as its simplified version in 1956."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "尔今日来访(尔今日來訪)，令我欣然(令我欣然)。",
+      "pinyin": "ěr jīntiān lái fǎng, lìng wǒ xīn rán.",
+      "english": "You visited today, which delighted me."
+    },
+    {
+      "chinese": "我敬重尔(我敬重尔)。",
+      "pinyin": "wǒ jìngzhòng ěr.",
+      "english": "I respect you."
+    },
+    {
+      "chinese": "尔之所愿(尔之所願)，吾尽力为之(吾盡力為之)。",
+      "pinyin": "ěr zhī suǒ yuàn, wú jìn lì wéi zhī.",
+      "english": "I will do my best for what you wish."
+    }
+  ]
+}

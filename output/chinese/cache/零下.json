@@ -1,0 +1,44 @@
+{
+  "simplified": "零下",
+  "traditional": "零下",
+  "pinyin": "líng (xià)",
+  "english": "zero; below zero",
+  "etymology": {
+    "type": "compound word",
+    "description": "零(零) (líng, \"zero\"), 下(下) (xià, \"below\")",
+    "interpretation": "The word 零下(零下) (língxià) combines 零(零) (líng, \"zero\") with 下(下) (xià, \"below\") to convey the concept of being 'below zero'. This typically refers to temperatures that are less than zero degrees, commonly used in discussions of weather conditions, indicating freezing or sub-zero temperatures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "零",
+      "trad": "零",
+      "pinyin": "líng",
+      "english": "zero"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "below; under; down"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天气温是零下五度(今天氣溫是零下五度)。",
+      "pinyin": "Jīntiān qìwēn shì líng xià wǔ dù.",
+      "english": "The temperature today is five degrees below zero."
+    },
+    {
+      "chinese": "昨晚气温急剧下降(昨晚氣溫急劇下降)，零下低温笼罩了整个城市(零下低溫籠罩了整個城市)。",
+      "pinyin": "Zuówǎn qìwēn jíjù xiàjiàng, líng xià dīwēn lǒngzhào le zhěnggè chéngshì.",
+      "english": "Last night, the temperature dropped drastically, and subzero cold enveloped the entire city."
+    },
+    {
+      "chinese": "寒冬将至(寒冬將至)，零下气温考验着人们的耐寒能力(零下氣溫考驗著人們的耐寒能力)。",
+      "pinyin": "Hándōng jiāng zhì, líng xià qìwēn kǎoyàn zhe rénmen de nàihán nénglì.",
+      "english": "Winter is coming, and the below-zero temperature tests people's ability to withstand the cold."
+    }
+  ]
+}

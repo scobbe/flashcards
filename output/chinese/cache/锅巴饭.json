@@ -1,0 +1,50 @@
+{
+  "simplified": "锅巴饭",
+  "traditional": "鍋巴飯",
+  "pinyin": "guō bā fàn",
+  "english": "rice dish made with crispy scorched rice from the bottom of the pot",
+  "etymology": {
+    "type": "compound word",
+    "description": "鍋(鍋) (guō, \"pot\") + 巴(巴) (bā, \"cling\") + 飯(飯) (fàn, \"cooked rice\")",
+    "interpretation": "鍋巴飯 (guōbāfàn, \"rice dish made with crispy scorched rice\") combines the idea of rice that clings to the bottom of the pot to become crispy. This dish is valued for its unique texture, resulting from rice being scorched and sticking to the pot during cooking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "锅",
+      "trad": "鍋",
+      "pinyin": "guō",
+      "english": "pot; pan"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "cling; stick to; hope for"
+    },
+    {
+      "char": "饭",
+      "trad": "飯",
+      "pinyin": "fàn",
+      "english": "cooked rice; meal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱锅巴饭(我愛鍋巴飯)。",
+      "pinyin": "Wǒ ài guō bā fàn.",
+      "english": "I love the rice dish made with crispy scorched rice."
+    },
+    {
+      "chinese": "冬日寒风起时(冬日寒風吹起時)，一碗锅巴饭温暖了心房(一碗鍋巴飯溫暖了心房)。",
+      "pinyin": "Dōngrì hánfēng qǐ shí, yī wǎn guō bā fàn wēnnuǎn le xīnfáng.",
+      "english": "When the cold winter wind rises, a bowl of guō bā fàn warms the heart."
+    },
+    {
+      "chinese": "妈妈做锅巴饭(媽媽做鍋巴飯)，皮脆米香令人回味(皮脆米香令人回味)。",
+      "pinyin": "Māmā zuò guō bā fàn, pí cuì mǐ xiāng lìng rén huí wèi.",
+      "english": "Mom prepares guō bā fàn, with its crispy skin and fragrant rice leaving a lasting impression."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "恤",
+  "traditional": "恤",
+  "pinyin": "xù",
+  "english": "compassion",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 衤(衣) (yī, \"clothing\") + phonetic 血(血) (xiě, \"blood\") = expression of concern or compassion related to clothing -> original as 裇(裇), derived replacing radical of 恤(恤)",
+    "interpretation": "恤(恤) (xù, \"compassion\") is derived from 裇(裇), with 衤(衤) (yī, \"clothing\") representing the semantic element and 血(血) (xiě, \"blood\") serving as the phonetic component, emphasizing a compassionate response typically related to clothing or providing for the needy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "裇",
+      "trad": "裇",
+      "pinyin": "sù",
+      "english": "undergarment"
+    },
+    {
+      "char": "衤",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    },
+    {
+      "char": "血",
+      "trad": "血",
+      "pinyin": "xiě",
+      "english": "blood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他体恤穷苦的人(他體恤窮苦的人)，总是不遗余力地帮助他们(總是不遺餘力地幫助他們)。",
+      "pinyin": "tā tǐ xù qióng kǔ de rén, zǒng shì bù yí yú lì de bāng zhù tā men.",
+      "english": "He shows compassion for the poor, always helping them tirelessly."
+    },
+    {
+      "chinese": "她体恤员工(她體恤員工)，努力改善他们的工作环境(努力改善他們的工作環境)。",
+      "pinyin": "tā tǐ xù yuán gōng, nǔ lì gǎi shàn tā men de gōng zuò huán jìng.",
+      "english": "She shows compassion for her employees and strives to improve their working environment."
+    }
+  ]
+}

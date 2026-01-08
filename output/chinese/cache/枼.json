@@ -5,34 +5,11 @@
   "english": "leaf",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts leaves growing from a tree -> original form of 葉(叶) (yè, 'leaf') -> phonetically borrowed for 'flat'",
-    "interpretation": "The character 枼(yè, 'leaf') visually resembles leaves sprouting from a tree, preserving its pictographic origin in 葉(叶) (yè, 'leaf'). Over time, it was also used phonetically to represent the concept of 'flat.'",
+    "description": "Depicts leaves growing from a tree",
+    "interpretation": "The character 枼 (yè, 'leaf') is a pictogram that visually represents leaves sprouting from the branches of a tree. Originally, it depicted the concept of a 'leaf' and was later phonetically borrowed for meanings related to 'flat.'",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "葉",
-      "trad": "葉",
-      "pinyin": "yè",
-      "english": "leaf"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "树上的枼(樹上的葉)在微风中轻轻摇曳(在微風中輕輕搖曳)。",
-      "pinyin": "Shù shàng de yè zài wēifēng zhōng qīngqīng yáoyè.",
-      "english": "The leaves on the tree sway gently in the breeze."
-    },
-    {
-      "chinese": "秋天来临时(秋天來臨時)，枼纷纷飘落(葉紛紛飄落)。",
-      "pinyin": "Qiūtiān láilín shí, yè fēnfēn piāoluò.",
-      "english": "When autumn arrives, the leaves fall one after another."
-    },
-    {
-      "chinese": "春雨滋润着枼(春雨滋潤著葉)，让花儿更显娇媚(讓花兒更顯嬌媚)。",
-      "pinyin": "Chūnyǔ zīrùn zhe yè, ràng huā ér gèng xiǎn jiāomèi.",
-      "english": "The spring rain nourishes the leaves, making the flowers appear even more charming."
-    }
-  ]
+  "examples": []
 }

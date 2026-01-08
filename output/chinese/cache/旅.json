@@ -1,0 +1,44 @@
+{
+  "simplified": "旅",
+  "traditional": "旅",
+  "pinyin": "lǚ",
+  "english": "to travel; journey",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "㫃 (\"flag\") + 从 (\"two people\") = flag indicating journey with companions -> brigade -> travel",
+    "interpretation": "The character combines a flag, symbolizing guidance or direction, with two people, indicating a journey or movement undertaken together, thus forming the concept of traveling in a group.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㫃",
+      "trad": "㫃",
+      "pinyin": "bì",
+      "english": "flag"
+    },
+    {
+      "char": "从",
+      "trad": "從",
+      "pinyin": "cóng",
+      "english": "two people"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我准备踏上旅程(我準備踏上旅程)，寻找失落的记忆(尋找失落的記憶)。",
+      "pinyin": "wǒ zhǔnbèi tà shàng lǚchéng ， xún zhǎo shī luò de jìyì。",
+      "english": "I am ready to set off on a journey, searching for lost memories."
+    },
+    {
+      "chinese": "她喜爱旅途中发现未知的美丽(她喜愛旅途中發現未知的美麗)。",
+      "pinyin": "tā xǐ'ài lǚtú zhōng fāxiàn wèi zhī de měilì。",
+      "english": "She loves discovering unknown beauty during her journey."
+    },
+    {
+      "chinese": "兄弟们相聚在旅途(兄弟們相聚在旅途)，分享各自的故事(分享各自的故事)。",
+      "pinyin": "xiōngdìmen xiāng jù zài lǚtú ， fēnxiǎng gèzì de gùshì。",
+      "english": "Brothers gather on the journey, sharing their stories."
+    }
+  ]
+}

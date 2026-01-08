@@ -1,0 +1,50 @@
+{
+  "simplified": "員",
+  "traditional": "員",
+  "pinyin": "yuán",
+  "english": "member; person engaged in a field",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𠚤(鼎) (dǐng, \"tripod\") top edge depicted by 〇 = indicates fullness or a complete member -> association with people engaged in a field",
+    "interpretation": "The character 員(員) (yuán, \"member\") visually represents the top edge of a 鼎(鼎) (dǐng, \"tripod\"), symbolizing completeness or full membership in a group. This is metaphorically extended to mean a person who is a member or part of an organization.",
+    "simplification": "Simplified to 员(員) by replacing 貝(貝) (bèi, \"cowry\") with 贝(贝) (bèi, phonetic similarity), maintaining meaning while simplifying the structure."
+  },
+  "parts": [
+    {
+      "char": "鼎",
+      "trad": "鼎",
+      "pinyin": "dǐng",
+      "english": "tripod"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "贝",
+      "trad": "贝",
+      "pinyin": "bèi",
+      "english": "phonetic similarity"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是乐团的核心员(他是樂團的核心員)。",
+      "pinyin": "Tā shì yuètuán de héxīn yuán.",
+      "english": "He is the core member of the orchestra."
+    },
+    {
+      "chinese": "她是图书馆的研究员(她是圖書館的研究員)。",
+      "pinyin": "Tā shì túshūguǎn de yánjiū yuán.",
+      "english": "She is a researcher at the library."
+    },
+    {
+      "chinese": "他报名成为正式员(他報名成爲正式員)，准备在领域内大展身手(準備在領域內大展身手)。",
+      "pinyin": "Tā bàomíng chéngwéi zhèngshì yuán, zhǔnbèi zài lǐngyù nèi dàzhǎn shēnshǒu.",
+      "english": "He signed up as a formal member and is preparing to showcase his skills in the field."
+    }
+  ]
+}

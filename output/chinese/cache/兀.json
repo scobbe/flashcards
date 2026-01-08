@@ -4,23 +4,30 @@
   "pinyin": "wù",
   "english": "towering and bald",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a flat-topped mountain or plateau -> conveys 'towering and bald'",
-    "interpretation": "The character 兀(兀) (wù, 'towering and bald') pictures a flat-topped mountain or a plateau, illustrating something prominent yet bare, which aligns with the meaning of being 'towering and bald.' The depiction effectively conveys the sense of elevation without vegetation.",
+    "type": "variant form",
+    "description": "兀 is a variant form of 尢 (wān, \"man with bent legs\")",
+    "interpretation": "兀 originally represented a man with bent legs, indicative of jumping or collapsing. It connects to this meaning by representing something that stands out or is elevated, as in 'towering.' It reflects the semantic notion of standing out both physically and metaphorically.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "尢",
+      "trad": "尢",
+      "pinyin": "wān",
+      "english": "man with bent legs"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "山巅上立着一座兀立的巨石(山巔上立著一座兀立的巨石)，显示出其独特风姿(顯示出其獨特風姿)。",
-      "pinyin": "Shān diān shàng lìzhe yī zuò wùlì de jùshí, xiǎnshì chū qí dútè fēngzī.",
-      "english": "At the mountain peak stands a towering, bald rock, showcasing its unique charm."
+      "chinese": "那座山峰兀立(那座山峰兀立)，宛如巨人昂首(宛如巨人昂首)。",
+      "pinyin": "Nà zuò shānfēng wùlì, wǎnrú jùrén ángshǒu.",
+      "english": "That mountain peak towers, like a giant with its head held high."
     },
     {
-      "chinese": "古城之巅耸立着一座兀然的楼阁(古城之巔聳立著一座兀然的樓閣)。",
-      "pinyin": "Gǔ chéng zhī diān sǒnglì zhe yī zuò wùrán de lóuguè.",
-      "english": "On the top of the ancient city stands a towering and bald pavilion."
+      "chinese": "古树枝干兀然裸露(古樹枝幹兀然裸露)，诉说着岁月沧桑(訴說著歲月滄桑)。",
+      "pinyin": "Gǔ shù zhīgàn wùrán luǒlù, sùshuōzhe suìyuè cāngsāng.",
+      "english": "The ancient tree's branches stand bald and exposed, telling tales of time’s vicissitudes."
     }
   ]
 }

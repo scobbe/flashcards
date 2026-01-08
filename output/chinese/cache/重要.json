@@ -1,0 +1,44 @@
+{
+  "simplified": "重要",
+  "traditional": "重要",
+  "pinyin": "zhòng yào",
+  "english": "important",
+  "etymology": {
+    "type": "compound word",
+    "description": "重(重) (zhòng, \"heavy; weighty\") and 要(要) (yào, \"want; essential\") combine to express the concept of importance. The weightiness associated with 重(重) (zhòng, \"heavy\") suggests significance, while 要(要) (yào, \"essential\") indicates necessity or importance.",
+    "interpretation": "The word 重要(重要) (zhòngyào, \"important\") highlights the concept of something being weighty in significance, underscoring its essential nature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "重",
+      "trad": "重",
+      "pinyin": "zhòng",
+      "english": "heavy; weighty"
+    },
+    {
+      "char": "要",
+      "trad": "要",
+      "pinyin": "yào",
+      "english": "want; essential"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "诚信是重要的(誠信是重要的)。",
+      "pinyin": "Chéngxìn shì zhòng yào de.",
+      "english": "Integrity is important."
+    },
+    {
+      "chinese": "学习很重要(學習很重要)，努力同样重要(努力同樣重要)。",
+      "pinyin": "Xuéxí hěn zhòng yào, nǔlì tóngyàng zhòng yào.",
+      "english": "Studying is important, and working hard is equally important."
+    },
+    {
+      "chinese": "家庭是重要的(家庭是重要的)，朋友亦然(朋友亦然)。",
+      "pinyin": "Jiātíng shì zhòng yào de, péngyǒu yìrán.",
+      "english": "Family is important, and so are friends."
+    }
+  ]
+}

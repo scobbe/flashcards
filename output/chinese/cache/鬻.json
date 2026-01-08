@@ -5,8 +5,8 @@
   "english": "congee",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "䰜(䰜) (lì, \"cauldron\") + 米(米) (mǐ, \"rice\") = cooking rice in a cauldron -> congee",
-    "interpretation": "The character 鬻(yù, \"congee\") visually represents rice being cooked in a cauldron, with steam depicted by two 弓(弓) (gōng) elements above, highlighting the process of making congee. It shows the preparation method through its components, illustrating the origin of the word 'congee'.",
+    "description": "䰜(䰜) (lì, \"cauldron\") + 米(米) (mǐ, \"rice\") = cooking rice in cauldron with steam (弓) -> congee",
+    "interpretation": "The character 鬻(yù, \"congee\") visually represents a cauldron (䰜) used for cooking rice (米), with two 弓 depicting steam, illustrating the process of making congee. Eventually, 鬻 was borrowed to mean 'to sell', while 粥 retained the original meaning related to congee.",
     "simplification": ""
   },
   "parts": [
@@ -21,19 +21,26 @@
       "trad": "米",
       "pinyin": "mǐ",
       "english": "rice"
+    },
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    },
+    {
+      "char": "鬲",
+      "trad": "鬲",
+      "pinyin": "lì",
+      "english": "cauldron"
+    },
+    {
+      "char": "粥",
+      "trad": "粥",
+      "pinyin": "zhōu",
+      "english": "congee"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "妈妈熬了一锅鬻(媽媽熬了一鍋鬻)。",
-      "pinyin": "Māmā áo le yī guō yù.",
-      "english": "Mom cooked up a pot of congee."
-    },
-    {
-      "chinese": "在寒冷的早晨(在寒冷的早晨)，一碗热鬻驱走了冬日的寒意(一碗熱鬻驅走了冬日的寒意)。",
-      "pinyin": "Zài hánlěng de zǎochén, yī wǎn rè yù qū zǒu le dōngrì de hányì.",
-      "english": "On a cold morning, a bowl of steaming congee chased away the chill of winter."
-    }
-  ]
+  "examples": []
 }

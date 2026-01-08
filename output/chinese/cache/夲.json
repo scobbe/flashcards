@@ -5,8 +5,8 @@
   "english": "root",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "大(大) (dà, \"big\") + 十(十) (shí, \"ten\") = a concept suggesting abundance or the foundation of greatness -> root",
-    "interpretation": "1.1",
+    "description": "大(大) (dà, \"big\") + 十(十) (shí, \"ten\") = representation of a large number of something indicating roots or base",
+    "interpretation": "夲(tuō, \"root\") combines 'big' and 'ten' to suggest something fundamental or at the base of a structure, aligning with the idea of roots or a foundational element.",
     "simplification": ""
   },
   "parts": [
@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "树的夲深埋在土中(樹的夲深埋在土中)。",
-      "pinyin": "Shù de tuō shēn mài zài tǔ zhōng.",
-      "english": "The tree's root is deeply buried in the soil."
-    },
-    {
-      "chinese": "古人崇尚夲(古人崇尚夲)，认为夲乃生命之源(認為夲乃生命之源)。",
-      "pinyin": "Gǔrén chóngshàng tuō, rènwéi tuō nǎi shēngmìng zhī yuán.",
-      "english": "Ancient people revered the root, considering it the source of life."
-    }
-  ]
+  "examples": []
 }

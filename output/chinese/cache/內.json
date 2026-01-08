@@ -1,0 +1,44 @@
+{
+  "simplified": "內",
+  "traditional": "內",
+  "pinyin": "nèi",
+  "english": "inside",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "冂(冂) (jiōng, \"city outskirts\") + 入(入) (rù, \"to enter\") = entering the city through its outskirts -> inside, within",
+    "interpretation": "The character 內(內) (nèi, \"inside\") combines 冂(冂) (jiōng, \"city outskirts\"), representing the city's boundary or enclosure, with 入(入) (rù, \"to enter\"), symbolizing the action of entering. This visually evokes the concept of penetrating into or within a bounded area, reflecting the meaning of 'inside.'",
+    "simplification": "內(內) was simplified to 内 by removing the horizontal stroke in 冂 and modifying the shape slightly."
+  },
+  "parts": [
+    {
+      "char": "冂",
+      "trad": "冂",
+      "pinyin": "jiōng",
+      "english": "city outskirts"
+    },
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "to enter"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "信件放在信封內(信件放在信封內)。",
+      "pinyin": "Xìnjiàn fàng zài xìnfēng nèi.",
+      "english": "The letter is placed inside the envelope."
+    },
+    {
+      "chinese": "他把钥匙藏在抽屉內(他把鑰匙藏在抽屜內)，以防丢失(以防丟失)。",
+      "pinyin": "Tā bǎ yàoshi cáng zài chōutì nèi, yǐ fáng diūshī.",
+      "english": "He hides the key inside the drawer to prevent it from being lost."
+    },
+    {
+      "chinese": "月光从院內洒下(月光從院內灑下)，照亮寂静之夜(照亮寂靜之夜)。",
+      "pinyin": "Yuèguāng cóng yuàn nèi sǎxià, zhào liàng jìjìng zhī yè.",
+      "english": "Moonlight pours in from the courtyard, illuminating the silent night."
+    }
+  ]
+}

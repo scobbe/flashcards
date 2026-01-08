@@ -1,0 +1,44 @@
+{
+  "simplified": "右",
+  "traditional": "右",
+  "pinyin": "yòu",
+  "english": "right",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "又(又) (yòu, \"again\") + 口(口) (kǒu, \"mouth\") -> phonetic and semantic components",
+    "interpretation": "The character 右(右) (yòu, \"right\") combines 又(又) (yòu, \"again\") for its phonetic value and 口(口) (kǒu, \"mouth\") as a semantic component to distinguish its meaning. Initially, 又(又) alone was used in oracle bone script to convey 'right', but the addition of 口(口) during the bronze inscription period served as a distinguishing mark without direct meaning contribution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请向右转(請向右轉)。",
+      "pinyin": "Qǐng xiàng yòu zhuǎn.",
+      "english": "Please turn right."
+    },
+    {
+      "chinese": "当你到达十字路口时(當你到達十字路口時)，请向右行走(請向右行走)。",
+      "pinyin": "Dāng nǐ dào dá shí zì lù kǒu shí, qǐng xiàng yòu xíng zǒu.",
+      "english": "When you reach the intersection, please walk to the right."
+    },
+    {
+      "chinese": "他的右手握紧了笔(他的右手握緊了筆)。",
+      "pinyin": "Tā de yòu shǒu wò jǐn le bǐ.",
+      "english": "His right hand holds the pen tightly."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "另",
+  "traditional": "另",
+  "pinyin": "lìng",
+  "english": "other",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 力(力) (lì, \"strength\") = forceful or authoritative mouth -> something different or other",
+    "interpretation": "The character 另(lìng, \"other\") combines the semantic element of 口(口) (kǒu, \"mouth\") with the phonetic and semantic element 力(力) (lì, \"strength\") to convey a sense of adding something distinct or different through forceful speech.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我准备了另一本书(我準備了另一本書)。",
+      "pinyin": "Wǒ zhǔnbèi le lìng yī běn shū.",
+      "english": "I prepared another book."
+    },
+    {
+      "chinese": "他不满意当前方案(他不滿意當前方案)，所以提出了另一个改进措施(所以提出了另一個改進措施)。",
+      "pinyin": "Tā bù mǎnyì dāngqián fāng'àn, suǒyǐ tíchūle lìng yīgè gǎijìn cuòshī.",
+      "english": "He was dissatisfied with the current plan, so he proposed an alternative improvement measure."
+    }
+  ]
+}

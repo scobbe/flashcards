@@ -4,10 +4,10 @@
   "pinyin": "mǎi",
   "english": "buy",
   "etymology": {
-    "type": "simplified form of 買",
-    "description": "买 is the simplified form of 買 (mǎi, \"buy\"). 買 (mǎi, \"buy\") is an ideogrammic compound composed of 网 (wǎng, \"net\") + 貝 (bèi, \"money cowry\"). Another interpretation considers it a phono-semantic compound: phonetic abbreviation 羅 (luó, \"to net\") + semantic 貝 (bèi, \"money cowry\").",
-    "interpretation": "The character 買 (mǎi, \"buy\") originally combined elements of a net, indicating the act of acquiring, with cowry shells, which were used as currency to signify purchase. The simplified form 买 retains the basic structure but is streamlined for easier writing.",
-    "simplification": "买 is a simplified version where the complex 网 (wǎng, \"net\") component in 買 (mǎi, \"buy\") was removed, retaining the central 貝 (bèi, \"money cowry\") aspect to maintain its association with buying."
+    "type": "ideogrammic compound",
+    "description": "网(网) (wǎng, \"net\") + 貝(貝) (bèi, \"money cowrie\") = capturing with a net and valuables -> buy",
+    "interpretation": "The traditional character 買(買) (mǎi, \"buy\") depicts a net used to capture valuable items, represented by the cowrie shell, indicating the exchange process of purchasing. This combines physical capture with the notion of economic transaction, effectively illustrating the concept of buying.",
+    "simplification": "The traditional character 買(買) (mǎi, \"buy\") was simplified to 买(買) by removing the 财(財) (cái, \"wealth\") radical and using a modified net component."
   },
   "parts": [
     {
@@ -20,26 +20,25 @@
       "char": "貝",
       "trad": "貝",
       "pinyin": "bèi",
-      "english": "money cowry"
-    },
-    {
-      "char": "羅",
-      "trad": "羅",
-      "pinyin": "luó",
-      "english": "to net"
+      "english": "money cowrie"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我打算买苹果(我打算買蘋果)，因为它们很新鲜(因為它們很新鮮)。",
-      "pinyin": "Wǒ dǎsuàn mǎi píngguǒ, yīnwèi tāmen hěn xīnxiān.",
-      "english": "I plan to buy apples because they are very fresh."
+      "chinese": "我去超市(我去超市)，买水果(買水果)。",
+      "pinyin": "Wǒ qù chāoshì, mǎi shuǐguǒ.",
+      "english": "I go to the supermarket to buy fruits."
     },
     {
-      "chinese": "他准备买一件新衣服(他準備買一件新衣服)。",
-      "pinyin": "Tā zhǔnbèi mǎi yī jiàn xīn yīfú.",
-      "english": "He is preparing to buy a new piece of clothing."
+      "chinese": "她想买新衣服(她想買新衣服)。",
+      "pinyin": "Tā xiǎng mǎi xīn yīfú.",
+      "english": "She wants to buy new clothes."
+    },
+    {
+      "chinese": "他们准备买票(他們準備買票)，去看电影(去看電影)。",
+      "pinyin": "Tāmen zhǔnbèi mǎi piào, qù kàn diànyǐng.",
+      "english": "They are ready to buy tickets to go watch a movie."
     }
   ]
 }

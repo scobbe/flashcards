@@ -1,0 +1,39 @@
+{
+  "simplified": "吾",
+  "traditional": "吾",
+  "pinyin": "wú",
+  "english": "I",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 五 (wǔ, 'five') + semantic 口 (kǒu, 'mouth') = personal pronoun 'I' using voice",
+    "interpretation": "The character 吾 is a phono-semantic compound that combines 五 (wǔ, 'five') to suggest the sound with 口 (kǒu, 'mouth'), which represents speaking or vocalization. This combination emphasizes the personal pronoun 'I,' reflecting verbal self-reference.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "五",
+      "trad": "五",
+      "pinyin": "wǔ",
+      "english": "five"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "吾爱书(吾愛書)。",
+      "pinyin": "wú ài shū",
+      "english": "I love books."
+    },
+    {
+      "chinese": "吾行于天下(吾行於天下)，求知若渴(求知若渴)。",
+      "pinyin": "wú xíng yú tiān xià, qiú zhī ruò kě",
+      "english": "I travel the world, seeking knowledge as if I were thirsty."
+    }
+  ]
+}

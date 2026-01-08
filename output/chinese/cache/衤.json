@@ -2,12 +2,12 @@
   "simplified": "衤",
   "traditional": "衤",
   "pinyin": "yī",
-  "english": "clothing radical",
+  "english": "clothing",
   "etymology": {
-    "type": "simplified form",
-    "description": "Derived directly from 衣(衣) (yī, \"clothing\") -> abbreviated to form the clothing radical",
-    "interpretation": "衤(yī, \"clothing radical\") is an abbreviated form of 衣(衣) (yī, \"clothing\"), used primarily as a left-side radical to symbolize elements related to clothing.",
-    "simplification": "This form is already simplified from 衣(衣) (yī, \"clothing\") by omitting strokes for use as a radical. No further simplification exists as it's already an abbreviated form."
+    "type": "component",
+    "description": "Left radical form of 衣(衣) (yī, 'clothing') -> used as radical for clothing-related characters",
+    "interpretation": "衤 is a simplified component derived from 衣(衣) (yī, 'clothing'), representing the left radical associated with clothing. It indicates the association with clothing in characters where it appears.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -20,14 +20,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "含有衤的汉字通常与衣物有关(含有衤的漢字通常與衣物有關)。",
-      "pinyin": "Hán yǒu yī de hànzì tōngcháng yǔ yīwù yǒuguān.",
-      "english": "Chinese characters that contain the radical '衤' are usually related to clothing."
+      "chinese": "他穿上了一件漂亮的衤(衣)。",
+      "pinyin": "Tā chuān shàng le yī jiàn piàoliang de yī.",
+      "english": "He put on a beautiful piece of clothing."
     },
     {
-      "chinese": "学习偏旁部首时(學習偏旁部首時)，我们常能发现代表衣物的衤(我們常能發現代表衣物的衤)。",
-      "pinyin": "Xuéxí piānpáng bùshǒu shí, wǒmen cháng néng fāxiàn dàibiǎo yīwù de yī.",
-      "english": "While studying radicals, we often encounter the radical '衤' that represents clothing."
+      "chinese": "博物馆里展出古代衤(衣)，展示传统工艺(展示傳統工藝)。",
+      "pinyin": "Bówùguǎn lǐ zhǎnchū gǔdài yī, zhǎnshì chuántǒng gōngyì.",
+      "english": "The museum displays ancient clothing and exhibits traditional craftsmanship."
     }
   ]
 }

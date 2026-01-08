@@ -1,0 +1,44 @@
+{
+  "simplified": "追",
+  "traditional": "追",
+  "pinyin": "zhuī",
+  "english": "pursue",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辶(辶) (chuò, \"movement\") + 𠂤(𠂤) (duī) = moving after -> pursuit",
+    "interpretation": "The character 追(zhuī, \"pursue\") combines the semantic element 辶(辶) (chuò, \"movement\"), which implies motion or path, with the phonetic component 𠂤(𠂤) (duī), indicating sound. This composition conveys the idea of following or chasing after something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "movement"
+    },
+    {
+      "char": "𠂤",
+      "trad": "𠂤",
+      "pinyin": "duī",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他追梦想(他追夢想)。",
+      "pinyin": "Tā zhuī mèngxiǎng.",
+      "english": "He chases his dreams."
+    },
+    {
+      "chinese": "警察追嫌犯(警察追嫌犯)，最终将其捉拿归案(最終將其捉拿歸案)。",
+      "pinyin": "Jǐngchá zhuī xiánfàn, zuìzhōng jiāng qí zhuōná guī àn.",
+      "english": "The police pursued the suspect, eventually apprehending him."
+    },
+    {
+      "chinese": "猎人追野鹿(獵人追野鹿)，希望获得食物(希望獲得食物)。",
+      "pinyin": "Lièrén zhuī yělù, xīwàng huòdé shíwù.",
+      "english": "The hunter chased the wild deer, hoping to obtain food."
+    }
+  ]
+}

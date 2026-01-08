@@ -1,39 +1,22 @@
 {
   "simplified": "圥",
   "traditional": "圥",
-  "pinyin": "lù",
+  "pinyin": "rù",
   "english": "phonetic component",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "土(土) (tǔ, \"earth\") + 各(各) (gè, \"each\") = soil/earth divided by territory -> phonetic component",
-    "interpretation": "The character 圥(lù) combines 土(土) for its connection to earth or territory with 各(各) to imply division or distribution, used primarily as a phonetic component.",
+    "type": "variant",
+    "description": "圥 is a variant form of 𡴆",
+    "interpretation": "The character 圥 is a variant, not used with a distinct meaning of its own, but sharing the same origins as 𡴆 in its usage as a phonetic component.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
-    },
-    {
-      "char": "各",
-      "trad": "各",
-      "pinyin": "gè",
-      "english": "each"
+      "char": "𡴆",
+      "trad": "𡴆",
+      "pinyin": "rù",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "在汉字中(在漢字中)，圥是一个表示音的偏旁(圥是一個表示音的偏旁)。",
-      "pinyin": "Zài hànzì zhōng, lù shì yīgè biǎoshì yīn de piānpáng.",
-      "english": "In Chinese characters, 圥 functions as a phonetic component."
-    },
-    {
-      "chinese": "学者研究古文字时(學者研究古文字時)，将圥视作表音符号(將圥視作表音符號)。",
-      "pinyin": "Xuézhě yánjiū gǔwénzì shí, jiāng lù shì zuò biǎoyīn fúhào.",
-      "english": "When scholars study ancient scripts, they regard 圥 as a phonetic symbol."
-    }
-  ]
+  "examples": []
 }

@@ -2,12 +2,12 @@
   "simplified": "负",
   "traditional": "負",
   "pinyin": "fù",
-  "english": "carry on the back",
+  "english": "bear; suffer",
   "etymology": {
-    "type": "simplified form of 負",
-    "description": "貝(貝) (bèi, \"cowry\") + 人(人) (rén, \"person\") = person with a burden -> carrying valuables -> 負(負)",
-    "interpretation": "The traditional character 負(負) (fù, \"carry on the back\") combines 貝(貝) (bèi, \"cowry\") representing value or burden, and 人(人) (rén, \"person\") indicating a person bearing this burden. This conveys the action of carrying something valuable, often on the back.",
-    "simplification": "Initially, 负(負) shared the same form since they are the same word, so this character doesn't have a simplified form."
+    "type": "phono-semantic compound",
+    "description": "貝(貝) (bèi, \"cowry\") + phonetic: 𠂆 (simplified to 孚(孚) (fú, \"trust\") = to carry valuables -> bear, suffer",
+    "interpretation": "The character 負(負) (fù, \"bear; suffer\") combines 貝(貝) (bèi, \"cowry\"), indicating something of value, with the phonetic component 𠂆, suggesting the act of carrying or bearing. Together, they convey the idea of carrying a burden or responsibility, aligning with the meanings of bearing or suffering.",
+    "simplification": "In the simplified form 负(負), the 貝(貝) (bèi, \"cowry\") component was replaced with a simpler shape that resembles a trapezoid, reducing the number of strokes."
   },
   "parts": [
     {
@@ -17,28 +17,23 @@
       "english": "cowry"
     },
     {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "孚",
+      "trad": "孚",
+      "pinyin": "fú",
+      "english": "trust"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他负书包(他負書包)，走在去学校的路上(走在去學校的路上)。",
-      "pinyin": "Tā fù shūbāo, zǒu zài qù xuéxiào de lùshàng.",
-      "english": "He carries a schoolbag on his back as he walks on the way to school."
+      "chinese": "他毅然负起照顾家庭的责任(他毅然負起照顧家庭的責任)。",
+      "pinyin": "Tā yìrán fù qǐ zhàogù jiātíng de zérèn.",
+      "english": "He resolutely took on the responsibility of caring for his family."
     },
     {
-      "chinese": "士兵负盔甲(士兵負盔甲)，驰援前线(馳援前線)。",
-      "pinyin": "Shìbīng fù kuījiǎ, chíyuán qiánxiàn.",
-      "english": "The soldier carries his armor on his back as he rushes to the frontline."
-    },
-    {
-      "chinese": "登山者负登山包(登山者負登山包)，攀登险峰(攀登險峰)。",
-      "pinyin": "Dēngshānzhě fù dēngshānbāo, pāndēng xiǎnfēng.",
-      "english": "The climber carries his backpack on his back as he ascends treacherous peaks."
+      "chinese": "困难来临时(困難來臨時)，他从不负众望(他從不負眾望)。",
+      "pinyin": "Kùnnan láilín shí, tā cóng bù fù zhòngwàng.",
+      "english": "When difficulties arise, he never disappoints everyone's expectations."
     }
   ]
 }

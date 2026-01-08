@@ -1,69 +1,30 @@
-1 . 得 StPt d e （ s t r u c t u r a l p a r t i c l e ） 吃 得 很 好 ， 穿 得
-很 漂 亮 ， 玩 ⼉ 得 很 好
-- 2 -
-2 . 早 z ã o e a r l y 来 得 真 早 ， 去 得 太 早 ， 到 得 很 早 ，
-睡 得 不 早 ， 你 早 ， 都 很 早
-3 . 银 ⾏ N yínháng b a n k 中 国 银 ⾏
-4 . 少 A s h ã o f e w ; l i t t l e ⼈ 少 ， 银 ⾏ 很 少 ， 也 很 少 ， 不 少
-5 . 排 队 VO páidui to form a line; to queue up 15/#F
-队 ， 排 队 买 书 ， 排 队 挂 号 ， 排 两 个 队
-排 V pái to arrange; to put in order
-队 N dui a row of people; line
-6 . 换 V huàn to exchange; to change 换 钱 ， 换 书 ，
-换 光 盘
-7 . 英 镑 N yingbàng pound sterling 换 英 镑 ， ⼀ 英 镑 ， 五 百
-英 镑
-8 . ⼈ 民 币N rénmínbì R e n m i n b i （ R M B ） 换 ⼈ 民 币
-⼈ 民 N r é n m í n p e o p l e 中 国 ⼈ 民 银 ⾏ ， 加 拿 ⼤ ⼈ 民
-9 . 得 OpV dei to need; must; to have to 得 换 钱 ， 得
-排 队 ， 得 复 习 语 法
-1 0 . ⽤ t o u s e ⽤ 钱 ， ⽤ ⼀ 下 电 话 ， ⽤ 英 镑 换 ⼈
-民 币 ， 得 ⽤ ⼈ 民 币 ， ⽤ ⼀ ⽤
-1 1 . 刚 Adv gãng just; only a short while ago 刚 回 北
-京 ， 刚 去 银 ⾏
-1 2 . 从 Prep cóng f r o m 从 美 国 回 中 国 ， 从 上 海 到 北 京
-1 3 . 非 常 Adv feicháng v e r y ︔ e x t r e m e l y ; h i g h l y 非 常 早 ， 非 常
-漂 亮 ， 非 常 喜 欢 中 国 ⾳ 乐
-1 4 . 次 M CÌ （ m e a s u r e w o r d f o r a c t i o n s ） 这 次 ， 那
-次 ， ⼀ 次
-1 5 . 参 观 V cănguãn t o v i s i t （ a p l a c e ） 参 观 学 院 ， 参 观 医
-院 ， 参 观 公 司
-1 6 . 兵 马 俑 N bingmayong (ceremonial clay statues of warriors
-- 3 -
-兵
-1 7 . 明 信 ⽚
-信
-1 8 . 该
-1 9 . ⼯ 作 ⼈ 员 N
-⼈ 员
-2 0 . 千
-2 1 . 数
-2 2 . 王 府 井
-and horses which are buried with the
-d e a d ） 参 观 兵 马 俑
-N bing
-N mingxinpiàn
-soldier; fighter
-p o s t c a r d 很 多 明 信 ⽚ ， ⼀ 张 明 信 ⽚ ，
-美 术 明 信 ⽚
-N xin
-letter 写 信 ， 寄 信 ， 给 他 写 信
-V gãi
-to be sb.'s turn to do sth. 该 你 了 ，
-该 我 （ 换 钱 ） 了 ， 该 他 （ 念 ） 了
-gongzuò rényuán working personnel; staff member #
-⾏ ⼯ 作 ⼈ 员 ， 邮 局 ⼯ 作 ⼈ 员 ， ⼀ 位 ⼯
-作 ⼈ 员
-N rényuán
-personnel; staff
-Nu qian
-v shu
-t h o u s a n d 两 ⼲ ， 五 ⼲ ， 八 千
-t o c o u n t 数 ⼀ 数 ， 数 数 ， 数 钱 ， 数 ⼈ 民 币
-PN Wángfujing
-2 3 . 西 安
-⼆
-PN XTăn
-(name of a famous commercial
-district in Beijing)
-(name of the capital of Shaanxi Province)
+Chinese,Pinyin,English
+得,de,structural particle used after verbs to indicate result or degree
+早,zǎo,early
+银行,yínháng,bank
+少,shǎo,few; little
+排队,páiduì,to form a line; to queue up
+排,pái,to arrange; to put in order
+队,duì,a row of people; line
+换,huàn,to exchange; to change
+英镑,yīngbàng,pound sterling
+人民币,rénmínbì,Renminbi; Chinese currency
+人民,rénmín,people
+得,děi,to need; must; to have to
+用,yòng,to use
+刚,gāng,just; only a short while ago
+从,cóng,from
+非常,fēicháng,very; extremely
+次,cì,measure word for actions; time
+参观,cānguān,to visit (a place)
+兵马俑,bīngmǎyǒng,Terracotta Warriors
+兵,bīng,soldier; fighter
+明信片,míngxìnpiàn,postcard
+信,xìn,letter
+该,gāi,to be one’s turn to do something; ought to
+工作人员,gōngzuò rényuán,working personnel; staff member
+人员,rényuán,personnel; staff
+千,qiān,thousand
+数,shǔ,to count
+王府井,Wángfǔjǐng,Wangfujing commercial district in Beijing
+西安,Xī’ān,Xi’an city; capital of Shaanxi Province

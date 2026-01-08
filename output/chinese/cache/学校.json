@@ -1,0 +1,44 @@
+{
+  "simplified": "学校",
+  "traditional": "學校",
+  "pinyin": "xuéxiào",
+  "english": "school",
+  "etymology": {
+    "type": "compound word",
+    "description": "学(學) (xué, \"learn\") + 校(校) (xiào, \"school\") = a place where learning occurs -> school",
+    "interpretation": "In this word, 学(學) (xué, \"learn\") emphasizes the process of gaining knowledge or skills, while 校(校) (xiào, \"school\") denotes a place or institution where this learning takes place. Together, these characters convey the concept of a school as an organized setting for education.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "学",
+      "trad": "學",
+      "pinyin": "xué",
+      "english": "learn; study; science; knowledge"
+    },
+    {
+      "char": "校",
+      "trad": "校",
+      "pinyin": "xiào",
+      "english": "school; compare; proof; correct"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在学校工作(我在學校工作)。",
+      "pinyin": "Wǒ zài xuéxiào gōngzuò.",
+      "english": "I work at a school."
+    },
+    {
+      "chinese": "孩子们在学校学习(孩子們在學校學習)。",
+      "pinyin": "Háizimen zài xuéxiào xuéxí.",
+      "english": "Children study at school."
+    },
+    {
+      "chinese": "从早到晚(從早到晚)，学校充满活力(學校充滿活力)。",
+      "pinyin": "Cóng zǎo dào wǎn, xuéxiào chōngmǎn huólì.",
+      "english": "From morning to evening, the school is full of energy."
+    }
+  ]
+}

@@ -5,27 +5,27 @@
   "english": "ninth heavenly stem",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a weaving tool or a carrying pole, uncertain origins -> representation as the ninth heavenly stem",
-    "interpretation": "While the precise original pictogram for 壬(壬) (rén, \"ninth heavenly stem\") is unclear, its forms suggest instrumental or structural elements such as a tool or pole. These interpretations align with its later symbolic use as one of the ten heavenly stems in the Chinese calendrical system.",
+    "description": "Depicts a weaving tool (e.g., spool or bobbin), a carrying pole for 任(任) (rèn, \"assign\"), or a double-bladed axe -> original meaning uncertain -> used as ninth heavenly stem",
+    "interpretation": "壬 originally depicted either a weaving tool, a carrying pole, or a double-bladed axe. Its specific pictorial representation remains unclear, but it was later used in the context of the Chinese calendrical system as the ninth heavenly stem.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "壬代表天干第九位(壬代表天干第九位)。",
-      "pinyin": "Rén dàibiǎo tiāngān dì jiǔ wèi.",
-      "english": "Rén represents the ninth heavenly stem."
+      "chinese": "在纪年系统中(在紀年系統中)，壬为第九个天干(壬為第九個天干)。",
+      "pinyin": "zài jì nián xì tǒng zhōng，rén wéi dì jiǔ gè tiān gān。",
+      "english": "In the chronological system, Ren is the ninth heavenly stem."
     },
     {
-      "chinese": "在干支纪年中(在干支紀年中)，壬年被认为是关键年份(壬年被認爲是關鍵年份)。",
-      "pinyin": "Zài gānzhī jìnián zhōng, rén nián bèi rènwéi shì guānjiàn niánfèn.",
-      "english": "In the sexagenary cycle, the year designated by Rén is considered a key year."
+      "chinese": "古人以壬配合地支论命(古人以壬配合地支論命)。",
+      "pinyin": "gǔ rén yǐ rén pèi hé dì zhī lùn mìng。",
+      "english": "Ancient scholars used Ren in conjunction with the earthly branches to determine fate."
     },
     {
-      "chinese": "古人以壬水象征变化(古人以壬水象徵變化)。",
-      "pinyin": "Gǔ rén yǐ rén shuǐ xiàngzhēng biànhuà.",
-      "english": "Ancient scholars used the element Rén water to symbolize change."
+      "chinese": "夜深人静时(夜深人靜時)，古籍中常见壬的记载(古籍中常見壬的記載)。",
+      "pinyin": "yè shēn rén jìng shí，gǔ jí zhōng cháng jiàn rén de jì zǎi。",
+      "english": "In the quiet depths of night, ancient texts often record the character Ren."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "simplified": "尤",
+  "traditional": "尤",
+  "pinyin": "yóu",
+  "english": "hand with a wart",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand with a wart -> Original form of 疣(疣) (yóu, \"wart\") and 肬(躍) (yóu, \"elevated\")",
+    "interpretation": "尤(尤) (yóu, \"hand with a wart\") is a pictogram that initially represented the image of a hand marked by a wart. It served as the original form for characters related to irregularities like 疣(疣) (yóu, \"wart\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生检查时发现他左手有一块尤(醫生檢查時發現他左手有一塊尤)，需及时治疗(需及時治療)。",
+      "pinyin": "Yīshēng jiǎnchá shí fāxiàn tā zuǒshǒu yǒu yí kuài yóu, xū jíshí zhìliáo.",
+      "english": "During the examination, the doctor discovered that his left hand had a wart and needed prompt treatment."
+    },
+    {
+      "chinese": "古人检测身相时(古人檢測身相時)，会观察是否有尤(會觀察是否有尤)。",
+      "pinyin": "Gǔ rén jiǎncè shēnxiàng shí, huì guānchá shìfǒu yǒu yóu.",
+      "english": "In ancient physiognomy, people would observe whether a hand with a wart was present."
+    }
+  ]
+}

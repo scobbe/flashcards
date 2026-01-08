@@ -1,0 +1,45 @@
+{
+  "simplified": "二手车",
+  "traditional": "二手車",
+  "pinyin": "èr shǒu chē",
+  "english": "used car",
+  "etymology": {
+    "type": "compound word",
+    "description": "二(二) (èr, \"two; second\") + 手(手) (shǒu, \"hand\") + 车(車) (chē, \"vehicle\") = a vehicle that has passed through second hands -> used car",
+    "interpretation": "The term 二手车(二手車) (èr shǒu chē) effectively describes a 'used car' by combining the idea of second-hand ownership with a vehicle. This is a straightforward way in Mandarin to refer to items that are pre-owned or have been previously used by someone else.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two; second"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle; car"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天买了一辆二手车(我昨天買了一輛二手車)。",
+      "pinyin": "Wǒ zuótiān mǎile yī liàng èr shǒu chē.",
+      "english": "I bought a used car yesterday."
+    },
+    {
+      "chinese": "他决定修理那辆二手车(他決定修理那輛二手車)，希望它能跑得更快(希望它能跑得更快)。",
+      "pinyin": "Tā juédìng xiūlǐ nà liàng èr shǒu chē, xīwàng tā néng pǎo de gèng kuài.",
+      "english": "He decided to repair that used car, hoping it could run faster."
+    }
+  ]
+}

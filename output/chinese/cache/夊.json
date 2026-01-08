@@ -2,25 +2,21 @@
   "simplified": "夊",
   "traditional": "夊",
   "pinyin": "suī",
-  "english": "footprint pointing down",
+  "english": "downward foot",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing down",
-    "interpretation": "The character 夊(suī, \"footprint pointing down\") visually depicts the shape of a footprint, indicating an action of stepping or moving downward, contrasting with 止(zhǐ, \"stop\"), which illustrates a foot moving upwards.",
+    "description": "Depicts a footprint pointing downward -> variant form of 夂(夂) (zhǐ, 'footprint pointing down')",
+    "interpretation": "The character 夊(suī, 'downward foot') is a pictogram showing the shape of a footprint pointing down. It is a variant form of 夂(夂) (zhǐ, 'footprint pointing down'), distinguished by its simplified representation. These visual representations emphasize the direction of movement associated with footprints, which is a common theme in ancient character forms.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "书法家笔下的夊字传达出足迹向下的意境(書法家筆下的夊字傳達出足跡向下的意境)。",
-      "pinyin": "Shūfǎjiā bǐxià de suī zì chuándá chū zújì xiàng xià de yìjìng.",
-      "english": "The calligraphic form of the character suī conveys the imagery of footprints pointing downward."
-    },
-    {
-      "chinese": "古代雕刻中常用夊象征行走(古代雕刻中常用夊象徵行走)，展示追寻足迹的智慧(展示追尋足跡的智慧)。",
-      "pinyin": "Gǔdài diāokè zhōng cháng yòng suī xiàngzhēng xíngzǒu, zhǎnshì zhuīxún zújì de zhìhuì.",
-      "english": "In ancient carvings, suī is often used to symbolize walking, displaying the wisdom of following one’s trail."
+      "char": "夂",
+      "trad": "夂",
+      "pinyin": "zhǐ",
+      "english": "footprint pointing down"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

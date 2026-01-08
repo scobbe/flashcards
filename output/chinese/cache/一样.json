@@ -1,0 +1,44 @@
+{
+  "simplified": "一样",
+  "traditional": "一樣",
+  "pinyin": "yīyàng",
+  "english": "same",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one; single\") + 样(樣) (yàng, \"appearance; kind\") = having the same appearance or kind, thus 'same' or 'alike'.",
+    "interpretation": "It makes sense to use 一(一) (yī, \"one\") to imply singularity or uniformity, combined with 样(樣) (yàng, \"appearance\") to denote having a unified appearance or type, thereby meaning 'same'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single"
+    },
+    {
+      "char": "样",
+      "trad": "樣",
+      "pinyin": "yàng",
+      "english": "appearance; kind"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们的衣服一样(我們的衣服一樣)。",
+      "pinyin": "Wǒmen de yīfu yīyàng.",
+      "english": "Our clothes are the same."
+    },
+    {
+      "chinese": "这件衬衫和那件衬衫一样(這件襯衫和那件襯衫一樣)。",
+      "pinyin": "Zhè jiàn chènshān hé nà jiàn chènshān yīyàng.",
+      "english": "This shirt and that shirt are the same."
+    },
+    {
+      "chinese": "我们的观点一样(我們的觀點一樣)，追求的目标相同(追求的目標相同)。",
+      "pinyin": "Wǒmen de guāndiǎn yīyàng, zhuīqiú de mùbiāo xiāngtóng.",
+      "english": "Our perspectives are the same, and the goals we pursue are identical."
+    }
+  ]
+}

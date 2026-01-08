@@ -4,23 +4,17 @@
   "pinyin": "guān",
   "english": "",
   "etymology": {
-    "type": "simplified character",
-    "description": "關(關) (guān, \"close\") -> eliminate the 門(門) (mén, \"gate\") radical -> simplified to 关(關)",
-    "interpretation": "The simplification process removed the 門(門) (mén, \"gate\") radical, leaving only the central component to represent the meaning of 'close' or 'barrier'. This change was primarily a reduction in strokes to streamline writing.",
-    "simplification": "This simplification involved removing the 門(門) (mén, \"gate\") radical to create a more streamlined version by focusing on the central component for phonetic representation."
+    "type": "phono-semantic compound",
+    "description": "门(門) (mén, \"gate\") around 关 (guān, \"to close\") = gate closure mechanism -> passage control",
+    "interpretation": "The traditional character 關 (guān, \"to close\") originally incorporates the component 门(門) (mén, \"gate\") to indicate its relation to controlling a gate or passage, signifying a mechanism through which something is opened or closed. This connection to gates is consistent with the meaning of regulating or securing an area.",
+    "simplification": "To create the simplified form 关, the component 门(門) (mén, \"gate\") was entirely removed, focusing on the essential closing function represented by 关."
   },
   "parts": [
-    {
-      "char": "關",
-      "trad": "關",
-      "pinyin": "guān",
-      "english": "\"close\""
-    },
     {
       "char": "門",
       "trad": "門",
       "pinyin": "mén",
-      "english": "\"gate\""
+      "english": "gate"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,9 +25,14 @@
       "english": "Please close the door."
     },
     {
-      "chinese": "每天睡前他都会关掉电视(每天睡前他都會關掉電視)，以节省能源(以節省能源)。",
-      "pinyin": "Měitiān shuìqián tā dōu huì guān diào diànshì, yǐ jiéshěng néngyuán.",
-      "english": "Every night before sleeping, he turns off the TV to save energy."
+      "chinese": "他关掉手机(他關掉手機)，开始专心工作(開始專心工作)。",
+      "pinyin": "Tā guān diào shǒujī, kāishǐ zhuānxīn gōngzuò.",
+      "english": "He turns off his phone and begins to focus on his work."
+    },
+    {
+      "chinese": "他把心门关得很紧(他把心門關得很緊)。",
+      "pinyin": "Tā bǎ xīn mén guān de hěn jǐn.",
+      "english": "He keeps his heart closed tightly."
     }
   ]
 }

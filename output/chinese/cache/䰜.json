@@ -5,22 +5,18 @@
   "english": "cauldron",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cauldron",
-    "interpretation": "䰜(䰜) (lì, \"cauldron\") is an ancient form of 鬲(鬲) (lì, \"cauldron\"), both representing a cooking vessel made from pottery. The character originally depicted the shape of a cauldron and continues to hold this meaning as a historical form.",
+    "description": "Depicts a cauldron (䰜) -> ancient form of 鬲(鬲) (lì, \"cauldron\") -> evolved into 鬲(鬲) as a separate character depicting pottery",
+    "interpretation": "䰜(䰜) (lì, \"cauldron\") is a pictogram that represents an ancient form of the cooking vessel depicted in the character 鬲(鬲). It visually represents the cauldron and is directly related to 鬲(鬲) as both share the same depiction of a pottery vessel.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "古代祭祀时常用䰜(古代祭祀時常用䰜)。",
-      "pinyin": "Gǔdài jìsì shí cháng yòng lì.",
-      "english": "In ancient rites, cauldrons were commonly used."
-    },
-    {
-      "chinese": "王羲之参观博物馆(王羲之參觀博物館)，见到展出的古代䰜(見到展出的古代䰜)。",
-      "pinyin": "Wáng Xīzhī cānguān bówùguǎn, jiàn dào zhǎn chū de gǔdài lì.",
-      "english": "Wáng Xīzhī visited the museum and saw an ancient cauldron on display."
+      "char": "鬲",
+      "trad": "鬲",
+      "pinyin": "lì",
+      "english": "cauldron"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

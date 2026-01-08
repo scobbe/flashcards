@@ -1,0 +1,44 @@
+{
+  "simplified": "扬州",
+  "traditional": "揚州",
+  "pinyin": "Yángzhōu",
+  "english": "Yangzhou (city in Jiangsu)",
+  "etymology": {
+    "type": "compound word",
+    "description": "揚(揚) (yáng, \"to raise\") + 州(州) (zhōu, \"state; province\") = a raised state or province -> name of a place.",
+    "interpretation": "Yangzhou, spelled as 揚州 in traditional characters, is a historical city in Jiangsu Province, China. The name encapsulates the idea of a prominent or elevated state, reflecting its historical importance as a cultural and economic center in ancient China, particularly noted during the Tang Dynasty for its prosperity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扬",
+      "trad": "揚",
+      "pinyin": "yáng",
+      "english": "to raise; to lift; to exalt"
+    },
+    {
+      "char": "州",
+      "trad": "州",
+      "pinyin": "zhōu",
+      "english": "state; province; administrative division"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算去扬州(我打算去揚州)，参观古运河(參觀古運河)。",
+      "pinyin": "Wǒ dǎsuàn qù Yángzhōu, cānguān gǔ yùnhé.",
+      "english": "I plan to go to Yangzhou to visit the ancient canal."
+    },
+    {
+      "chinese": "扬州以美食闻名(揚州以美食聞名)。",
+      "pinyin": "Yángzhōu yǐ měishí wénmíng.",
+      "english": "Yangzhou is famous for its cuisine."
+    },
+    {
+      "chinese": "早上乘船游览扬州(早上乘船遊覽揚州)，傍晚品尝当地小吃(傍晚品嚐當地小吃)。",
+      "pinyin": "Zǎoshang chéngchuán yóulǎn Yángzhōu, bàngwǎn pǐncháng dāngdì xiǎochī.",
+      "english": "Take a boat tour of Yangzhou in the morning, and enjoy local snacks in the evening."
+    }
+  ]
+}

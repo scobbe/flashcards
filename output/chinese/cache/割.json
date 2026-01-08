@@ -1,0 +1,44 @@
+{
+  "simplified": "割",
+  "traditional": "割",
+  "pinyin": "gē",
+  "english": "cut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 害(害) (hài) + semantic 刂(刂) (dāo, 'knife') → cut",
+    "interpretation": "The character 割(gē, 'cut') combines 害(害) (hài), contributing the sound element, with 刂(刂) (dāo, 'knife'), denoting the action of cutting. This suggests a meaning related to cutting or slicing, where the semantic element reinforces the physical action of using a blade.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "害",
+      "trad": "害",
+      "pinyin": "hài",
+      "english": "harm"
+    },
+    {
+      "char": "刂",
+      "trad": "刂",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民割麦子(農民割麥子)，准备收割(準備收割)。",
+      "pinyin": "Nóngmín gē màizi, zhǔnbèi shōugē.",
+      "english": "The farmer cuts the wheat, getting ready to harvest."
+    },
+    {
+      "chinese": "他割开了树枝(他割開了樹枝)，修剪了花园(修剪了花園)。",
+      "pinyin": "Tā gē kāi le shùzhī, xiūjiǎn le huāyuán.",
+      "english": "He cut the branch, trimming the garden."
+    },
+    {
+      "chinese": "我不小心割伤了手指(我不小心割傷了手指)。",
+      "pinyin": "Wǒ bù xiǎoxīn gē shāng le shǒuzhǐ.",
+      "english": "I accidentally cut my finger."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "时间",
+  "traditional": "時間",
+  "pinyin": "shíjiān",
+  "english": "time",
+  "etymology": {
+    "type": "compound word",
+    "description": "时(時) (shí, \"time; season\") + 间(間) (jiān, \"interval; space\") = The concept of time as an interval or space in which events occur.",
+    "interpretation": "时间(時間) (shíjiān, \"time\") combines the idea of a specific time or season with the notion of an interval or space, highlighting how events are placed within temporal intervals.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "时",
+      "trad": "時",
+      "pinyin": "shí",
+      "english": "time; season"
+    },
+    {
+      "char": "间",
+      "trad": "間",
+      "pinyin": "jiān",
+      "english": "interval; space"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你有时间吗(你有時間嗎)？",
+      "pinyin": "nǐ yǒu shíjiān ma？",
+      "english": "Do you have time?"
+    },
+    {
+      "chinese": "我没有时间看电视(我沒有時間看電視)。",
+      "pinyin": "wǒ méiyǒu shíjiān kàn diànshì。",
+      "english": "I don't have time to watch TV."
+    },
+    {
+      "chinese": "时间在慢慢流逝(時間在慢慢流逝)，我们要珍惜它(我們要珍惜它)。",
+      "pinyin": "shíjiān zài màn màn liú shì, wǒmen yào zhēnxī tā。",
+      "english": "Time is passing slowly, we must cherish it."
+    }
+  ]
+}

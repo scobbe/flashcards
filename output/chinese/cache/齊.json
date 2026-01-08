@@ -4,28 +4,28 @@
   "pinyin": "qí",
   "english": "together",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts grain heads growing evenly at the same height -> represents uniformity and equality -> used for 'together'",
-    "interpretation": "The character 齊(齊) (qí, \"together\") was originally a pictogram showing grains at the same level, symbolizing the concept of uniformity and togetherness.",
-    "simplification": ""
+    "type": "phono-semantic compound",
+    "description": "齊(齊) (qí, \"together\") originally depicted three rows of teeth -> borrowed phonetically for \"together\" meaning",
+    "interpretation": "The character 齊(齊) (qí, \"together\") initially illustrated a concept of alignment or regularity, as symbolized by evenly positioned teeth. This imagery was later extended to denote harmony or unity, capturing the essence of coming together.",
+    "simplification": "齊(齊) simplified to 齐(齊) by reducing complex elements to a uniform, simpler form while retaining the phonetic core values."
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们齐心协力(我們齊心協力)，实现梦想(實現夢想)。",
-      "pinyin": "Wǒmen qí xīn xiélì, shíxiàn mèngxiǎng.",
-      "english": "We work together to achieve our dreams."
+      "chinese": "我们齐心协力(我們齊心協力)，完成任务(完成任務)。",
+      "pinyin": "Wǒmen qíxīn xiélì, wánchéng rènwù.",
+      "english": "We work together to complete the task."
     },
     {
-      "chinese": "大家齐聚一堂(大家齊聚一堂)，分享快乐(分享快樂)。",
-      "pinyin": "Dàjiā qí jù yī táng, fēnxiǎng kuàilè.",
-      "english": "Everyone gathers together to share happiness."
+      "chinese": "朋友们齐聚一堂(朋友們齊聚一堂)，共享欢乐(共享歡樂)。",
+      "pinyin": "Péngyǒumen qí jù yītáng, gòngxiǎng huānlè.",
+      "english": "Friends gather together to share joy."
     },
     {
-      "chinese": "朋友们齐上阵(朋友們齊上陣)，共创辉煌(共創輝煌)。",
-      "pinyin": "Péngyǒumen qí shàng zhèn, gòng chuàng huīhuáng.",
-      "english": "Friends join forces together to create brilliance."
+      "chinese": "所有成员齐心前进(所有成員齊心前進)。",
+      "pinyin": "Suǒyǒu chéngyuán qíxīn qiánjìn.",
+      "english": "All members advance together."
     }
   ]
 }

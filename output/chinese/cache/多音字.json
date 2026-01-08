@@ -1,0 +1,45 @@
+{
+  "simplified": "多音字",
+  "traditional": "多音字",
+  "pinyin": "duōyīnzì",
+  "english": "polyphonic character",
+  "etymology": {
+    "type": "compound word",
+    "description": "多(多) (duō, \"many\") + 音(音) (yīn, \"sound\") + 字(字) (zì, \"character\"; \"word\")",
+    "interpretation": "The term 多音字 (duōyīnzì) refers to a character that can be pronounced in multiple ways, each possibly with a different meaning. The combination of 多(多) (duō, \"many\"), 音(音) (yīn, \"sound\"), and 字(字) (zì, \"character\") effectively describes a character with multiple pronunciations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "多",
+      "trad": "多",
+      "pinyin": "duō",
+      "english": "many; much"
+    },
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "sound; tone; pitch; pronunciation"
+    },
+    {
+      "char": "字",
+      "trad": "字",
+      "pinyin": "zì",
+      "english": "character; word; letter; symbol"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "‘数’是一个多音字(‘數’是一個多音字)。",
+      "pinyin": "‘Shù’ shì yīgè duōyīn zì.",
+      "english": "‘Shu’ is a polyphonic character."
+    },
+    {
+      "chinese": "读出一个多音字时(讀出一個多音字時)，需要根据不同的语境(需要根據不同的語境)。",
+      "pinyin": "Dú chū yīgè duōyīn zì shí, xūyào gēnjù bùtóng de yǔjìng.",
+      "english": "When pronouncing a polyphonic character, one needs to consider the different contexts."
+    }
+  ]
+}

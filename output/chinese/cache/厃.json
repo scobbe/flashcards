@@ -1,0 +1,28 @@
+{
+  "simplified": "厃",
+  "traditional": "厃",
+  "pinyin": "wěi",
+  "english": "danger",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 厂(厂) (chǎng, \"cliff\") = person below a cliff -> implying danger",
+    "interpretation": "The character 厃(wěi, \"danger\") graphically combines a person and a cliff, symbolizing the inherent risk of being under a precarious structure. It visually conveys the idea of peril or vulnerability in this context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "cliff"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

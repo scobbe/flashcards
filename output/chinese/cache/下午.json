@@ -1,0 +1,44 @@
+{
+  "simplified": "下午",
+  "traditional": "下午",
+  "pinyin": "xiàwǔ",
+  "english": "afternoon",
+  "etymology": {
+    "type": "compound word",
+    "description": "下(下) (xià, \"below; under\") and 午(午) (wǔ, \"noon\") combine to form 下午(下午) (xiàwǔ, \"afternoon\"). This combination represents the time period \"below\" or following \"noon.\" In this context, 下(下) (xià, \"below; under\") indicates the period of time after noon has passed.",
+    "interpretation": "The word 下午(下午) indicates the time period that follows noon, representing the afternoon as the part of the day after the sun has reached its highest point.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "below; under"
+    },
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "noon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "下午两点开会(下午兩點開會)。",
+      "pinyin": "xiàwǔ liǎng diǎn kāihuì.",
+      "english": "Meeting at two in the afternoon."
+    },
+    {
+      "chinese": "我喜欢在下午读书(我喜歡在下午讀書)。",
+      "pinyin": "wǒ xǐhuān zài xiàwǔ dúshū.",
+      "english": "I like reading in the afternoon."
+    },
+    {
+      "chinese": "下午茶时间到了(下午茶時間到了)。",
+      "pinyin": "xiàwǔ chá shíjiān dào le.",
+      "english": "It's tea time in the afternoon."
+    }
+  ]
+}

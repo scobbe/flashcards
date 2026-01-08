@@ -1,0 +1,44 @@
+{
+  "simplified": "那",
+  "traditional": "那",
+  "pinyin": "nà",
+  "english": "that",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 冄 (rǎn, \"obscure\") + Semantic: 邑 (yì, \"city\") -> originally represented a state name -> borrowed for 'that'",
+    "interpretation": "The character 那(nà, \"that\") combines the phonetic element 冄 (rǎn, \"obscure\") with the semantic element 邑 (yì, \"city\") to originally denote a specific state. Over time, it was borrowed to serve as a distal demonstrative meaning 'that.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冄",
+      "trad": "冄",
+      "pinyin": "rǎn",
+      "english": "obscure"
+    },
+    {
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "city"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那座古老的桥非常漂亮(那座古老的橋非常漂亮)。",
+      "pinyin": "Nà zuò gǔlǎo de qiáo fēicháng piàoliang.",
+      "english": "That ancient bridge is very beautiful."
+    },
+    {
+      "chinese": "你看那边的山(你看那邊的山)，真是雄伟壮观(真是雄偉壯觀)。",
+      "pinyin": "Nǐ kàn nà biān de shān, zhēn shì xióngwěi zhuànguān.",
+      "english": "Look at that mountain over there; it is truly magnificent."
+    },
+    {
+      "chinese": "那天晚上(那天晚上)，星星闪烁不停(星星閃爍不停)。",
+      "pinyin": "Nà tiān wǎnshàng, xīngxing shǎnshuò bù tíng.",
+      "english": "That night, the stars kept twinkling endlessly."
+    }
+  ]
+}

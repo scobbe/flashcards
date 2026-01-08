@@ -1,0 +1,39 @@
+{
+  "simplified": "而",
+  "traditional": "而",
+  "pinyin": "ér",
+  "english": "then",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a beard -> original form of 耏(耏) or 髵(髵)",
+    "interpretation": "The character 而(而) originated as a pictogram representing a beard and evolved into meaning transitions like 'then' in classical texts. Its original form was related to concepts indicating appearance or physical traits.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耏",
+      "trad": "耏",
+      "pinyin": "něi",
+      "english": "a variant related to 'beard'"
+    },
+    {
+      "char": "髵",
+      "trad": "髵",
+      "pinyin": "ér",
+      "english": "hair, beard"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他先完成作业(他先完成作業)，而休息片刻(而休息片刻)。",
+      "pinyin": "Tā xiān wánchéng zuòyè, ér xiūxí piànkè.",
+      "english": "He first completed his homework, then rested for a while."
+    },
+    {
+      "chinese": "春天到来时(春天到來時)，而百花争艳(而百花爭艷)。",
+      "pinyin": "Chūntiān dào lái shí, ér bǎihuā zhēng yàn.",
+      "english": "When spring arrives, then the flowers compete in beauty."
+    }
+  ]
+}

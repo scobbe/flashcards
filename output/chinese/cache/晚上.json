@@ -1,0 +1,39 @@
+{
+  "simplified": "晚上",
+  "traditional": "晚上",
+  "pinyin": "wǎnshang",
+  "english": "evening",
+  "etymology": {
+    "type": "compound word",
+    "description": "This word consists of 晚(晚) (wǎn, \"evening; late\") and 上(上) (shang, \"above; on\") to denote the time period in the evening.",
+    "interpretation": "The combination 晚上(晚上) (wǎnshang, \"evening\") refers to the time of day after the sun sets, when the sky is darkening. It represents the period of day when evening activities typically occur.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晚",
+      "trad": "晚",
+      "pinyin": "wǎn",
+      "english": "evening; late"
+    },
+    {
+      "char": "上",
+      "trad": "上",
+      "pinyin": "shang",
+      "english": "above; on"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "晚上七点我在家(晚上七點我在家)。",
+      "pinyin": "wǎnshang qī diǎn wǒ zài jiā.",
+      "english": "I'm home at seven in the evening."
+    },
+    {
+      "chinese": "晚上街灯亮起(晚上街燈亮起)，城市变得温柔(城市變得溫柔)。",
+      "pinyin": "wǎnshang jiē dēng liàng qǐ, chéngshì biàn dé wēnróu.",
+      "english": "In the evening, the streetlights turn on, and the city becomes gentle."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "擇",
+  "traditional": "擇",
+  "pinyin": "zé",
+  "english": "to pick",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 睪(睪) (yì, \"testes\") as phonetic component -> indicates action related to sorting or selecting with the hand -> 擇(擇) (zé, \"to pick\")",
+    "interpretation": "The character 擇(擇) (zé, \"to pick\") combines the semantic element 手(手) (shǒu, \"hand\"), symbolizing manual action, with a phonetic element 睪(睪) (yì), which provides a sound clue. This fusion suggests the act of picking or selecting, performed manually.",
+    "simplification": "择(擇): 手(手) (shǒu, \"hand\") and 睪(睪) (yì, \"testes\") were simplified to retain the phonetic and semantic hint while reducing the strokes."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "睪",
+      "trad": "睪",
+      "pinyin": "yì",
+      "english": "testes"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在众多方案中擇了一個最佳方案(他在眾多方案中擇了一個最佳方案)。",
+      "pinyin": "Tā zài zhòngduō fāng'àn zhōng zé le yī gè zuìjiā fāng'àn.",
+      "english": "He picked the best plan among many options."
+    },
+    {
+      "chinese": "我们應該擇明智的老師(我们應該擇明智的老師)，因為知識可以改變命運(因為知識可以改變命運)。",
+      "pinyin": "Wǒmen yīnggāi zé míngzhì de lǎoshī, yīnwèi zhīshi kěyǐ gǎibiàn mìngyùn.",
+      "english": "We should choose a wise teacher because knowledge can change destiny."
+    },
+    {
+      "chinese": "你應該擇合適的時機(你應該擇合適的時機)，去追求夢想(去追求夢想)。",
+      "pinyin": "Nǐ yīnggāi zé héshì de shíjī, qù zhuīqiú mèngxiǎng.",
+      "english": "You should pick the right moment to pursue your dreams."
+    }
+  ]
+}

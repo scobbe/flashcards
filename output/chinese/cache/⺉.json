@@ -1,0 +1,31 @@
+{
+  "simplified": "⺉",
+  "traditional": "⺉",
+  "pinyin": "dāo",
+  "english": "knife",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a knife or cutting tool; ⺉ is a variant form of 刀(刀) (dāo, \"knife\") depicting a dagger or small sword",
+    "interpretation": "The shape of ⺉ visually represents a blade or cutting implement, indicating its meaning as 'knife'. This character is a simplified graphic representation of a knife edge.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "厨师用⺉(廚師用⺉)，切菜切得非常快(切菜切得非常快)。",
+      "pinyin": "Chúshī yòng dāo, qiē cài qiē de fēicháng kuài.",
+      "english": "The chef uses the knife and cuts the vegetables very quickly."
+    },
+    {
+      "chinese": "小心使用⺉(小心使用⺉)。",
+      "pinyin": "Xiǎoxīn shǐyòng dāo.",
+      "english": "Use the knife carefully."
+    },
+    {
+      "chinese": "我在厨房找不到⺉(我在廚房找不到⺉)，所以去买了一把⺉(所以去買了一把⺉)。",
+      "pinyin": "Wǒ zài chúfáng zhǎo bù dào dāo, suǒyǐ qù mǎile yì bǎ dāo.",
+      "english": "I couldn't find the knife in the kitchen, so I went to buy one."
+    }
+  ]
+}

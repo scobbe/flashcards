@@ -1,0 +1,28 @@
+{
+  "simplified": "嗇",
+  "traditional": "嗇",
+  "pinyin": "sè",
+  "english": "stingy",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "來(來) (lái, \"come\") + 㐭(㐭) (unknown) = accumulation and conservatism -> stingy",
+    "interpretation": "The character 嗇 (sè, \"stingy\") combines 來(來) (lái, \"come\") suggesting arriving or accumulation, with 㐭(㐭), whose meaning is largely unknown, but here hints at the concept of gathering or storing. Together, they convey the idea of conservatively holding onto resources, reflecting the notion of stinginess.",
+    "simplification": "嗇(嗇) (sè, \"stingy\") was simplified to 啬(啬), with the phonetic component 來(來) replaced by a simpler character for consolidation and ease of writing."
+  },
+  "parts": [
+    {
+      "char": "來",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come"
+    },
+    {
+      "char": "㐭",
+      "trad": "㐭",
+      "pinyin": "unknown",
+      "english": "unknown"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

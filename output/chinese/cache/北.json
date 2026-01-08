@@ -1,0 +1,45 @@
+{
+  "simplified": "北",
+  "traditional": "北",
+  "pinyin": "běi",
+  "english": "north",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "二(二) (èr, \"two\") + 人(人) (rén, \"person\") = two people back to back -> originally meant \"back\"",
+    "interpretation": "The character 北(běi) originally depicted two persons facing away from each other, signifying conflict or opposition, which metaphorically extended to refer to the direction \"north\" as something opposite. Over time, its meaning evolved, and its phonetic cousin 背(bèi, \"back\") took on the original sense directly associated with directionality and body position.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "背",
+      "trad": "背",
+      "pinyin": "bèi",
+      "english": "back"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在北边(我住在北邊)。",
+      "pinyin": "Wǒ zhù zài běi biān.",
+      "english": "I live in the north."
+    },
+    {
+      "chinese": "北风呼啸(北風呼嘯)，带走寒冷(帶走寒冷)。",
+      "pinyin": "Běi fēng hūxiào, dài zǒu hán lěng.",
+      "english": "The north wind howls, carrying away the cold."
+    }
+  ]
+}

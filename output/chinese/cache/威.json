@@ -1,0 +1,44 @@
+{
+  "simplified": "威",
+  "traditional": "威",
+  "pinyin": "wēi",
+  "english": "might",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "戌(戌) (xū, \"pestle\") + 女(女) (nǚ, \"woman\") = symbol of authority and control -> might",
+    "interpretation": "The combination of 戌(戌) (xū, \"pestle\") and 女(女) (nǚ, \"woman\") creates an image of strength and authority, suggesting a powerful or commanding presence, represented by the concept of 'might.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戌",
+      "trad": "戌",
+      "pinyin": "xū",
+      "english": "pestle"
+    },
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的威严令人敬畏(他的威嚴令人敬畏)。",
+      "pinyin": "Tā de wēiyán lìng rén jìngwèi.",
+      "english": "His majesty is awe-inspiring."
+    },
+    {
+      "chinese": "军队展现出强大的威势(軍隊展現出強大的威勢)，敌人感到畏惧(敵人感到畏懼)。",
+      "pinyin": "Jūnduì zhǎnxiàn chū qiángdà de wēishì, dírén gǎndào wèijù.",
+      "english": "The army displayed great might, and the enemy felt intimidated."
+    },
+    {
+      "chinese": "在会议上(在會議上)，他以不凡的威仪震慑全场(他以不凡的威儀震懾全場)。",
+      "pinyin": "Zài huìyì shàng, tā yǐ bùfán de wēiyí zhènshè quán chǎng.",
+      "english": "During the meeting, he impressed everyone with his extraordinary presence."
+    }
+  ]
+}

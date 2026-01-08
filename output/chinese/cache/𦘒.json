@@ -5,35 +5,24 @@
   "english": "soft (phonetic)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 肉(肉) (ròu, 'flesh, meat') + phonetic: 聿(聿) (yù, 'hand holding brush') = sound association with 聿 → meaning related to soft, pliable",
-    "interpretation": "In the character 𦘒, 肉(肉) signifies softness, akin to the qualities of flesh, while 聿(聿) provides the phonetic aspect. This combination effectively conveys the idea of softness through sound symbolism.",
+    "description": "艮(艮) (gèn, \"stopping\") + 而(而) (ér, \"and\") = combining stopping with a phonetic element -> soft",
+    "interpretation": "𦘒 is a phono-semantic compound where the stopping action of 艮(艮) (gèn, \"stopping\") combines with the phonetic element of 而(而) (ér, \"and\"). The character represents the concept of softness, likely drawing on the phonetic component for its pronunciation.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "肉",
-      "trad": "肉",
-      "pinyin": "ròu",
-      "english": "flesh"
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stopping"
     },
     {
-      "char": "聿",
-      "trad": "聿",
-      "pinyin": "yù",
-      "english": "hand holding brush"
+      "char": "而",
+      "trad": "而",
+      "pinyin": "ér",
+      "english": "and"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "这件衣服摸起来很𦘒(𦘒)。",
-      "pinyin": "Zhè jiàn yīfú mō qǐlái hěn ruǎn.",
-      "english": "This piece of clothing feels soft."
-    },
-    {
-      "chinese": "细雨纷纷时(細雨紛紛時)，树叶显得非常𦘒(𦘒)。",
-      "pinyin": "Xì yǔ fēnfēn shí, shù yè xiǎnde fēicháng ruǎn.",
-      "english": "When the fine rain falls, the leaves appear very soft."
-    }
-  ]
+  "examples": []
 }

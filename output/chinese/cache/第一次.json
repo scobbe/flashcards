@@ -1,0 +1,50 @@
+{
+  "simplified": "第一次",
+  "traditional": "第一次",
+  "pinyin": "dì yī cì",
+  "english": "first time",
+  "etymology": {
+    "type": "compound word",
+    "description": "第(第) (dì, \"ordinal number prefix\") + 一(一) (yī, \"one\") + 次(次) (cì, \"time; instance\") = first time",
+    "interpretation": "This combination expresses the concept of the first occurrence or instance of an event. 第(第) (dì, \"ordinal number prefix\") is used to indicate order, 一(一) (yī, \"one\") specifies the position as 'first', and 次(次) (cì, \"time; instance\") denotes occurrence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "第",
+      "trad": "第",
+      "pinyin": "dì",
+      "english": "ordinal number prefix"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "次",
+      "trad": "次",
+      "pinyin": "cì",
+      "english": "time; instance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是我第一次来中国(這是我第一次來中國)。",
+      "pinyin": "Zhè shì wǒ dì yī cì lái Zhōngguó.",
+      "english": "This is my first time in China."
+    },
+    {
+      "chinese": "第一次出国时(第一次出國時)，我感到既兴奋又紧张(我感到既興奮又緊張)。",
+      "pinyin": "Dì yī cì chūguó shí, wǒ gǎndào jì xīngfèn yòu jǐnzhāng.",
+      "english": "When I went abroad for the first time, I felt both excited and nervous."
+    },
+    {
+      "chinese": "我第一次尝试做饭(我第一次嘗試做飯)，结果弄得一团糟(結果弄得一團糟)。",
+      "pinyin": "Wǒ dì yī cì chángshì zuò fàn, jiéguǒ nòng dé yī tuán zāo.",
+      "english": "The first time I tried to cook, it ended up in a mess."
+    }
+  ]
+}

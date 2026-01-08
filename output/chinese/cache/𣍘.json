@@ -1,0 +1,58 @@
+{
+  "simplified": "𣍘",
+  "traditional": "𣍘",
+  "pinyin": "n/a",
+  "english": "intermediate form",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "㯥(㯥) (cáo, \"pair\") + distinguishing mark 囗(囗) (wéi, \"enclosure\") -> bronze inscription 甘(甘) (gān, \"sweet\") corruption -> 曰(曰) (yuē, \"say\") in Seal Script = 𣍘",
+    "interpretation": "𣍘 is an intermediate form of 曹(曹) (cáo, \"pair\"). Originally depicted two bundles symbolizing 'pair' or 'peer.' The character evolved through several script forms, adding distinguishing marks that transformed its appearance. While it remains visually distinct, its separate evolution makes it unrelated to 曲(曲) (qū, \"bent\") or 典(典) (diǎn, \"canon\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㯥",
+      "trad": "㯥",
+      "pinyin": "cáo",
+      "english": "pair"
+    },
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "say"
+    },
+    {
+      "char": "曹",
+      "trad": "曹",
+      "pinyin": "cáo",
+      "english": "pair"
+    },
+    {
+      "char": "曲",
+      "trad": "曲",
+      "pinyin": "qū",
+      "english": "bent"
+    },
+    {
+      "char": "典",
+      "trad": "典",
+      "pinyin": "diǎn",
+      "english": "canon"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

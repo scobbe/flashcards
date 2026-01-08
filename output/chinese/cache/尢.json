@@ -1,0 +1,33 @@
+{
+  "simplified": "尢",
+  "traditional": "尢",
+  "pinyin": "wān",
+  "english": "man with bent legs",
+  "etymology": {
+    "type": "variant form of 尢",
+    "description": "Pictogram: Originally depicts a hand with a wart -> Variant form of 尤: retaining connotations of deformity",
+    "interpretation": "尢 is identified as a variant of 尤 and represents the notion of a man with bent legs, closely associating with deformity or deviation in form. The character still conveys variations perceived as abnormalities, similar to the original meaning of a hand with a wart.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尤",
+      "trad": "尤",
+      "pinyin": "yóu",
+      "english": "especially"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他行走时显露出尢样步态(他行走時顯露出尢樣步態)，引得众人侧目(引得眾人側目)。",
+      "pinyin": "tā xíngzǒu shí xiǎnlù chū wān yàng bùtài, yǐn dé zhòngrén cèmù.",
+      "english": "When he walked, his bent-legged gait was evident, attracting sidelong glances from the crowd."
+    },
+    {
+      "chinese": "古籍记载尢人的形态(古籍記載尢人的形態)。",
+      "pinyin": "gǔjí jìzǎi wān rén de xíngtài.",
+      "english": "Ancient texts record the appearance of a man with bent legs."
+    }
+  ]
+}

@@ -4,47 +4,41 @@
   "pinyin": "bì",
   "english": "currency",
   "etymology": {
-    "type": "simplified character",
-    "description": "幣(幣) (bì, \"currency\") with 敝(敝) (bì, \"damaged\") → replaced by 丿(丿) for simplification",
-    "interpretation": "The character 币(幣) (bì, \"currency\") is simplified from 幣(幣) by replacing the component 敝(敝) (bì, \"damaged\") with a simpler stroke 丿(丿), maintaining the phonetic and semantic elements while making it easier to write.",
-    "simplification": "The simplification process involved replacing 敝(敝) (bì, \"damaged\") with the simpler 丿(丿). This serves to streamline the character for more efficient writing."
+    "type": "ideogrammic compound",
+    "description": "巾(巾) (jīn, \"cloth\") + 戲(戲) (xì, \"play\") = ceremonial cloth bundled for trade or offerings -> currency",
+    "interpretation": "The traditional character 幣 (bì, \"currency\") is composed of 巾(巾) (jīn, \"cloth\") suggesting textiles, a common trade item, combined with 戲(戲) (xì, \"play\") originally meaning a bundle or a certain wrapping. This reflects the original use of cloth for barter or ceremonial exchanges, thus developing the meaning of 'currency'.",
+    "simplification": "币(幣): The character 敝(幣) (bì, \"tattered\") was simplified by replacing the lower component 戲 (xì, \"play\") with a single stroke 丿, simplifying the form significantly while retaining the top 巾(巾) (jīn, \"cloth\")."
   },
   "parts": [
     {
-      "char": "幣",
-      "trad": "幣",
-      "pinyin": "bì",
-      "english": "currency"
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
     },
     {
-      "char": "敝",
-      "trad": "敝",
-      "pinyin": "bì",
-      "english": "damaged"
-    },
-    {
-      "char": "丿",
-      "trad": "丿",
-      "pinyin": "piě",
-      "english": "slash"
+      "char": "戲",
+      "trad": "戲",
+      "pinyin": "xì",
+      "english": "play"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "数字币推动金融创新(數字幣推動金融創新)。",
-      "pinyin": "Shùzì bì tuījìn jīnróng chuàngxīn.",
-      "english": "Digital currency drives financial innovation."
+      "chinese": "比特币(比特幣)价格波动大(價格波動大)。",
+      "pinyin": "Bǐtè bì jiàgé bōdòng dà.",
+      "english": "Bitcoin prices fluctuate greatly."
     },
     {
-      "chinese": "他从国外带回古董币(他從國外帶回古董幣)，准备收藏(準備收藏)。",
-      "pinyin": "Tā cóng guówài dài huí gǔdǒng bì, zhǔnbèi shōucáng.",
-      "english": "He brought back antique currency from abroad and plans to collect it."
+      "chinese": "在国际市场上(在國際市場上)，电子币(電子幣)交易频繁(交易頻繁)。",
+      "pinyin": "Zài guójì shìchǎng shàng, diànzǐ bì jiāoyì pínfán.",
+      "english": "On the international market, digital currency transactions occur frequently."
     },
     {
-      "chinese": "这个币代表了历史文化(這個幣代表了歷史文化)，价值连城(價值連城)。",
-      "pinyin": "Zhège bì dàibiǎo le lìshǐ wénhuà, jiàzhí liánchéng.",
-      "english": "This currency represents historical culture and is extremely valuable."
+      "chinese": "古代时(古代時)，实物币(實物幣)为贸易提供便利(為貿易提供便利)。",
+      "pinyin": "Gǔdài shí, shíwù bì wèi màoyì tígōng biànlì.",
+      "english": "In ancient times, commodity currency provided convenience for trade."
     }
   ]
 }

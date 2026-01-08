@@ -1,0 +1,39 @@
+{
+  "simplified": "國",
+  "traditional": "國",
+  "pinyin": "guó",
+  "english": "country",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 囗(囗) (wéi, \"closure\") + phonetic 或(或) (huò, \"or\") -> enclosed area signifying a state or country",
+    "interpretation": "The character 國(國) (guó, \"country\") combines the idea of an enclosed space from 囗(囗) (wéi, \"closure\") with the phonetic component 或(或) (huò, \"or\"), suggesting a defined and protected area, aligning with the concept of a country or state.",
+    "simplification": "The simplified character 国(國) uses 玉(玉) (yù, \"jade\") as a mnemonic for wealth within an enclosure, dropping the component 或(或) (huò, \"or\") for simplicity."
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "closure"
+    },
+    {
+      "char": "或",
+      "trad": "或",
+      "pinyin": "huò",
+      "english": "or"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个国有着独特魅力(這個國有著獨特魅力)。",
+      "pinyin": "Zhège guó yǒuzhe dútè mèilì.",
+      "english": "This country has a unique charm."
+    },
+    {
+      "chinese": "许多人热爱国文化(許多人熱愛國文化)，努力建设国的美好明天(努力建設國的美好明天)。",
+      "pinyin": "Xǔduō rén rè'ài guó wénhuà, nǔlì jiànshè guó de měihǎo míngtiān.",
+      "english": "Many people cherish their country's culture and strive to build a better future."
+    }
+  ]
+}

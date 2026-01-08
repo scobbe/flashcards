@@ -1,0 +1,44 @@
+{
+  "simplified": "壯",
+  "traditional": "壯",
+  "pinyin": "zhuàng",
+  "english": "strong",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 爿(爿) (pán, \"bedsteads\") + Semantic: 士(士) (shì, \"scholar\") = indicating a scholar's bedding or stature -> strong",
+    "interpretation": "In 壯(壯) (zhuàng, \"strong\"), the component 爿(爿) (pán, \"bedsteads\") imparts the sound, while 士(士) (shì, \"scholar\") suggests the robustness or elevated status of a scholarly person, metaphorically extending to strength.",
+    "simplification": "壮(壯): 士(士) (shì, \"scholar\") was simplified to 夂(夂), a less complex shape, while retaining the phonetic and semantic association."
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "bedsteads"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他很壯(他很壯)。",
+      "pinyin": "Tā hěn zhuàng.",
+      "english": "He is very strong."
+    },
+    {
+      "chinese": "经过锻炼(經過鍛鍊)，他的肌肉变得更壯(他的肌肉變得更壯)。",
+      "pinyin": "Jīngguò duànliàn, tā de jīròu biàn dé gèng zhuàng.",
+      "english": "After training, his muscles became even stronger."
+    },
+    {
+      "chinese": "古代战士常被赞颂为壯志凌云的英雄(古代戰士常被讚頌為壯志凌雲的英雄)。",
+      "pinyin": "Gǔdài zhànshì cháng bèi zànsòng wéi zhuàngzhì língyún de yīngxióng.",
+      "english": "Ancient warriors were often praised as heroes with lofty aspirations."
+    }
+  ]
+}

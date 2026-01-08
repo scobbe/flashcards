@@ -4,18 +4,12 @@
   "pinyin": "wèi",
   "english": "for; on account of; because of",
   "etymology": {
-    "type": "simplified from 爲",
-    "description": "Originally 又(又) (yòu, 'hand') + 象(象) (xiàng, 'elephant') = hand holding an elephant -> simplified to 为 for cursive script use",
-    "interpretation": "为(wèi) retains the basic meaning of 'for' or 'on account of' from the traditional character 為(為), simplified for ease through the cursive script process, representing the same concept with fewer strokes.",
-    "simplification": "为(wèi) was adopted from a cursive form of 爲(為), streamlining the character for modern usage while preserving its original components' associations."
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 象(象) (xiàng, \"elephant\") = hand manipulating an elephant -> abstract idea of action or doing -> cursive simplification to 为(為)",
+    "interpretation": "The character originally depicts a hand holding or manipulating an elephant, symbolizing an action or effort. It evolved from the complex representation into its simplified form, 为(為), through cursive script adaptation, while maintaining the original notion of taking action or doing something.",
+    "simplification": "为(為) simplifies the traditional form 為(為) primarily by using cursive script to reduce the number of strokes. The complex 各(各) (gè, \"each\") was visually compressed into a simpler shape used in 为(為)."
   },
   "parts": [
-    {
-      "char": "為",
-      "trad": "為",
-      "pinyin": "wéi",
-      "english": "for; because of"
-    },
     {
       "char": "又",
       "trad": "又",
@@ -32,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我为你祝福(我為你祝福)。",
-      "pinyin": "Wǒ wèi nǐ zhùfú.",
-      "english": "I wish you well."
+      "chinese": "我为你努力(我為你努力)。",
+      "pinyin": "Wǒ wèi nǐ nǔlì.",
+      "english": "I work hard for you."
     },
     {
-      "chinese": "他为家乡而奋斗(他為家鄉而奮鬥)。",
-      "pinyin": "Tā wèi jiāxiāng ér fèndòu.",
-      "english": "He struggles for his hometown."
+      "chinese": "他为胜利奔走(他為勝利奔走)，无惧艰险(無懼艱險)。",
+      "pinyin": "Tā wèi shènglì bēnzǒu, wú jù jiānxiǎn.",
+      "english": "He hustles for victory, without fear of hardships."
     },
     {
-      "chinese": "我们为和平努力(我們為和平努力)，期盼世界安定(期盼世界安定)。",
-      "pinyin": "Wǒmen wèi hépíng nǔlì, qīpàn shìjiè āndìng.",
-      "english": "We work hard for peace, hoping the world will be stable."
+      "chinese": "母亲为子女操劳(母親為子女操勞)，总是不辞辛苦(總是不辭辛苦)。",
+      "pinyin": "Mǔqīn wèi zǐnǚ cāoláo, zǒng shì bù cí xīnkǔ.",
+      "english": "A mother labors for her children, never complaining about the hardships."
     }
   ]
 }

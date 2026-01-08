@@ -1,0 +1,50 @@
+{
+  "simplified": "医药费",
+  "traditional": "醫藥費",
+  "pinyin": "yīyàofèi",
+  "english": "medical expenses",
+  "etymology": {
+    "type": "compound word",
+    "description": "医(醫) (yī, \"medical\"), 药(藥) (yào, \"medicine\"), 费(費) (fèi, \"expense\")",
+    "interpretation": "医药费(醫藥費) (yīyàofèi, \"medical expenses\") combines the elements of medical care and medicine with costs, referring to the money spent on medical treatments and medications.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "医",
+      "trad": "醫",
+      "pinyin": "yī",
+      "english": "medical; doctor"
+    },
+    {
+      "char": "药",
+      "trad": "藥",
+      "pinyin": "yào",
+      "english": "medicine; drug"
+    },
+    {
+      "char": "费",
+      "trad": "費",
+      "pinyin": "fèi",
+      "english": "expense; cost; fee"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她及时交医药费(她及時交醫藥費)。",
+      "pinyin": "Tā jíshí jiāo yīyàofèi.",
+      "english": "She paid the medical expenses promptly."
+    },
+    {
+      "chinese": "当病情加重时(當病情加重時)，他必须交医药费(他必須交醫藥費)。",
+      "pinyin": "Dāng bìngqíng jiāzhòng shí, tā bìxū jiāo yīyàofèi.",
+      "english": "When his condition worsened, he had to pay the medical expenses."
+    },
+    {
+      "chinese": "为了获得治疗(為了獲得治療)，他们节省钱并交医药费(他們節省錢並交醫藥費)。",
+      "pinyin": "Wèile huòdé zhìliáo, tāmen jiéshěng qián bìng jiāo yīyàofèi.",
+      "english": "In order to get treatment, they saved money and paid the medical expenses."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "裇",
+  "traditional": "裇",
+  "pinyin": "sù",
+  "english": "undergarment",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "衤(衤) (yī, \"clothing\") + 血(血) (xuè, \"blood\") = semantic component for clothing + phonetic component from 血",
+    "interpretation": "The character 裇 combines the semantic element 衤(衤) (yī, \"clothing\"), indicating the meaning related to garments, with the phonetic element 血(血) (xuè, \"blood\"), to convey the pronunciation. The character was formed by modifying 恤(恤) (xù, \"care for\") by changing the radical to 衤 for semantic clarity in the context of clothing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衤",
+      "trad": "衤",
+      "pinyin": "yī",
+      "english": "clothing"
+    },
+    {
+      "char": "血",
+      "trad": "血",
+      "pinyin": "xuè",
+      "english": "blood"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

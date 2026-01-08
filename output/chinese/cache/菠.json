@@ -5,8 +5,8 @@
   "english": "spinach; leafy vegetable",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 艹(艹) (cǎo, \"plant\") + phonetic 波(波) (bō, \"wave\") -> used in loanwords like 菠菜(bōcài, \"spinach\")",
-    "interpretation": "The character 菠 is a phono-semantic compound combining 艹, which signifies a plant, and 波 for its phonetic value bō. This formation reflects its usage in terms for plants like spinach and pineapple, both transcribed from foreign languages.",
+    "description": "艹(艹) (cǎo, 'grass') + 波(波) (bō, 'wave') = plant related to 波(波) ('wave') -> leafy vegetable",
+    "interpretation": "The character 菠 (bō, 'spinach') is formed by combining 艹(艹) (cǎo, 'grass'), which indicates its meaning related to plants, with the phonetic component 波(波) (bō, 'wave'), suggesting the pronunciation. This implies a connection to a plant associated with 水(波) ('wave'), metaphorically as a leafy vegetable like spinach which may have a wavy appearance.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "plant"
+      "english": "grass"
     },
     {
       "char": "波",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一些菠(我買了一些菠)。",
-      "pinyin": "Wǒ mǎile yīxiē bō.",
-      "english": "I bought some spinach."
+      "chinese": "我喜欢吃菠(菠)。",
+      "pinyin": "Wǒ xǐhuān chī bō.",
+      "english": "I like to eat spinach."
     },
     {
-      "chinese": "妈妈做菜时常用菠(媽媽做菜時常用菠)，搭配蒜蓉更加开胃(搭配蒜蓉更加開胃)。",
-      "pinyin": "Māmā zuòcài shí cháng yòng bō, dāpèi suànróng gèngjiā kāiwèi.",
-      "english": "My mother often uses spinach in cooking, and pairing it with garlic paste makes it even more appetizing."
+      "chinese": "妈妈买了菠(菠)，做了沙拉(沙拉)。",
+      "pinyin": "Māmā mǎile bō, zuòle shālā.",
+      "english": "Mom bought spinach and made a salad."
+    },
+    {
+      "chinese": "农夫辛勤耕作菠(菠)，期待丰收(期待豐收)。",
+      "pinyin": "Nóngfū xīnqín gēngzuò bō, qídài fēngshōu.",
+      "english": "The farmer diligently cultivates spinach, anticipating a bountiful harvest."
     }
   ]
 }

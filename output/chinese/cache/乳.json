@@ -1,0 +1,38 @@
+{
+  "simplified": "乳",
+  "traditional": "乳",
+  "pinyin": "rǔ",
+  "english": "milk",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a kneeling woman resembling 母(母) (mǔ, \"mother\"), holding and breastfeeding a child -> representation of milk",
+    "interpretation": "The character visually represents the act of breastfeeding, which naturally connects to the concept of milk, aligning with the pictorial elements of a mother and child.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "母",
+      "trad": "母",
+      "pinyin": "mǔ",
+      "english": "mother"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "婴儿喝母乳(嬰兒喝母乳)。",
+      "pinyin": "Yīng'ér hē mǔrǔ.",
+      "english": "The baby drinks mother's milk."
+    },
+    {
+      "chinese": "奶牛产乳(奶牛產乳)，农民收集乳汁(農民收集乳汁)。",
+      "pinyin": "Nǎiniú chǎnrǔ, nóngmín shōují rǔzhī.",
+      "english": "The dairy cows produce milk, and the farmers collect the milk."
+    },
+    {
+      "chinese": "年轻人喜欢喝豆乳(年輕人喜歡喝豆乳)。",
+      "pinyin": "Niánqīngrén xǐhuān hē dòurǔ.",
+      "english": "Young people like to drink soy milk."
+    }
+  ]
+}

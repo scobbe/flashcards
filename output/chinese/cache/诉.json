@@ -1,0 +1,44 @@
+{
+  "simplified": "诉",
+  "traditional": "訴",
+  "pinyin": "sù",
+  "english": "complain; tell; relate; express",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"word, speak\") + 斥(斥) (chì, \"accuse, blame\") = to accuse verbally -> complain/tell",
+    "interpretation": "The character combines 言(言) (yán, \"word, speak\") to denote verbal action with 斥(斥) (chì, \"accuse, blame\") to imply making a complaint or expressing discontent. This reflects the character's meaning of expressing or communicating grievances.",
+    "simplification": "Simplified by replacing 訁 (one of the forms of 言) with 讠, which is a more cursive and simplified form."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word, speak"
+    },
+    {
+      "char": "斥",
+      "trad": "斥",
+      "pinyin": "chì",
+      "english": "accuse, blame"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她向朋友诉说烦恼(她向朋友訴說煩惱)。",
+      "pinyin": "Tā xiàng péngyǒu sùshuō fánnǎo.",
+      "english": "She confided her troubles to her friend."
+    },
+    {
+      "chinese": "他向官员诉苦(他向官員訴苦)，希望得到公正(希望得到公正)。",
+      "pinyin": "Tā xiàng guānyuán sùkǔ, xīwàng dédào gōngzhèng.",
+      "english": "He complained to the officials, hoping to obtain justice."
+    },
+    {
+      "chinese": "村民纷纷向官府诉冤(村民紛紛向官府訴冤)。",
+      "pinyin": "Cūnmín fēnfēn xiàng guānfǔ sùyuān.",
+      "english": "Villagers urgently appealed to the government to redress their grievances."
+    }
+  ]
+}

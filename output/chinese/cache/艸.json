@@ -5,8 +5,8 @@
   "english": "grass",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts grass blades -> duplication of 屮(屮) (chè, \"grass\") -> related to the top component of 萅(萅) (chūn, \"spring\")",
-    "interpretation": "The character 艸(艸) (cǎo, \"grass\") visually represents two grass blades side by side, emphasizing its natural form and connection to vegetation.",
+    "description": "Depicts grass blades -> duplication of 屮(屮) (chè, 'grass') -> grass imagery",
+    "interpretation": "The character 艸(cǎo, 'grass') is a pictorial representation of grass blades. It is essentially a duplication of the character 屮(屮) (chè, 'grass'), visually suggesting the appearance of grass tufts through repetition, emphasizing the concept of grass or vegetation.",
     "simplification": ""
   },
   "parts": [
@@ -15,30 +15,24 @@
       "trad": "屮",
       "pinyin": "chè",
       "english": "grass"
-    },
-    {
-      "char": "萅",
-      "trad": "萅",
-      "pinyin": "chūn",
-      "english": "spring"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春风吹拂时(春風吹拂時)，艸生长得茂盛(艸生長得茂盛)。",
-      "pinyin": "Chūn fēng chuīfú shí, cǎo shēngzhǎng dé màoshèng.",
-      "english": "When the spring breeze blows, the grass grows lushly."
+      "chinese": "公园里绿艸茵茵(公園裡綠艸茵茵)。",
+      "pinyin": "Gōngyuán lǐ lǜ cǎo yīn yīn.",
+      "english": "The park is filled with lush grass."
     },
     {
-      "chinese": "野外一片艸(野外一片艸)，生机盎然(生機盎然)。",
-      "pinyin": "Yěwài yī piàn cǎo, shēngjī àngrán.",
-      "english": "In the wilderness, the grass thrives with vitality."
+      "chinese": "晨露滋润艸丛(晨露滋潤艸叢)，微风使它们起舞(微風使它們起舞)。",
+      "pinyin": "Chénlù zīrùn cǎo cóng, wēifēng shǐ tāmen qǐwǔ.",
+      "english": "The morning dew nourishes the cluster of grass, and the breeze makes them dance."
     },
     {
-      "chinese": "大地披上了艸(大地披上了艸)。",
-      "pinyin": "Dàdì pī shàng le cǎo.",
-      "english": "The earth is draped in grass."
+      "chinese": "秋天时艸变黄(秋天時艸變黃)，冬天它又枯萎(冬天它又枯萎)。",
+      "pinyin": "Qiūtiān shí cǎo biàn huáng, dōngtiān tā yòu kūwěi.",
+      "english": "In autumn, the grass turns yellow, and in winter, it withers."
     }
   ]
 }

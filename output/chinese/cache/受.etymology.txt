@@ -1,0 +1,7 @@
+[受]
+Possibly a ideogrammic compound ( 會意 / 会意 ): 爪 ( “ hand ” ) + 凡 ( “ plate ” ) + 又 ( “ hand ” ) – to hand over.
+凡 in the middle was corrupted into 舟 ( OC *tjɯw ), which acted as a phonetic component. Alternatively, the character may have always been a phono-semantic compound ( 形聲 / 形声 , OC *tuːs, *djuʔ ): semantic 爪 ( “ hand ” ) + phonetic 舟 ( OC *tjɯw , “ boat ” ) + semantic 又 ( “ hand ” ) . The 凡 or 舟 has been simplified to 冖 since the seal script.
+
+[授]
+Phono-semantic compound ( 形聲 / 形声 , OC *djus ): semantic 手 ( “ hand ” ) + phonetic 受 ( OC *tuːs, *djuʔ ) .
+There are actually three “hands” in this character, as 爫 also means “hand”, as does 又 graphically.

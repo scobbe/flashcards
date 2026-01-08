@@ -1,0 +1,39 @@
+{
+  "simplified": "陰",
+  "traditional": "陰",
+  "pinyin": "yīn",
+  "english": "shade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "阜(阜) (fù, \"mound\") + 侌(侌) (yīn, \"hidden\") = indication of terrain like hills providing shade -> concept of \"shade\" or \"shadow\"",
+    "interpretation": "The character 陰 (yīn, \"shade\") combines 阜(阜) (fù, \"mound\") indicating terrain features, with 侌(侌) (yīn, \"hidden\") conveying the idea of concealment, to represent areas shaded by hills or mountains.",
+    "simplification": "陰 was simplified to 阴 by replacing 阜(阜) (fù, \"mound\") with 阝, a simpler component representing the same idea."
+  },
+  "parts": [
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "侌",
+      "trad": "侌",
+      "pinyin": "yīn",
+      "english": "hidden"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "树下有阴凉(樹下有陰涼)。",
+      "pinyin": "Shù xià yǒu yīn liáng.",
+      "english": "There is cool shade under the tree."
+    },
+    {
+      "chinese": "在阴影下(在陰影下)，人们可以暂时躲避烈日(人們可以暫時躲避烈日)。",
+      "pinyin": "Zài yīn yǐng xià, rén men kě yǐ zàn shí duǒ bì liè rì.",
+      "english": "Under the shade, people can temporarily escape the scorching sun."
+    }
+  ]
+}

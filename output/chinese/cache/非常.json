@@ -1,0 +1,44 @@
+{
+  "simplified": "非常",
+  "traditional": "非常",
+  "pinyin": "fēicháng",
+  "english": "very; extremely",
+  "etymology": {
+    "type": "compound word",
+    "description": "非(非) (fēi, \"not; wrong\") + 常(常) (cháng, \"ordinary; usual\") = beyond the ordinary",
+    "interpretation": "The word 非常(非常) (fēicháng, \"very; extremely\") combines 非(非) (fēi, \"not; wrong\") and 常(常) (cháng, \"ordinary; usual\") to express the idea of something that goes beyond the ordinary or usual, hence being very or extremely in nature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "非",
+      "trad": "非",
+      "pinyin": "fēi",
+      "english": "not; wrong"
+    },
+    {
+      "char": "常",
+      "trad": "常",
+      "pinyin": "cháng",
+      "english": "ordinary; usual"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天非常高兴(我今天非常高興)。",
+      "pinyin": "Wǒ jīntiān fēicháng gāoxìng.",
+      "english": "I am very happy today."
+    },
+    {
+      "chinese": "这本书非常有趣(這本書非常有趣)。",
+      "pinyin": "Zhè běn shū fēicháng yǒuqù.",
+      "english": "This book is extremely interesting."
+    },
+    {
+      "chinese": "他们非常努力(他們非常努力)，终于成功了(終於成功了)。",
+      "pinyin": "Tāmen fēicháng nǔlì, zhōngyú chénggōngle.",
+      "english": "They worked very hard, and finally succeeded."
+    }
+  ]
+}

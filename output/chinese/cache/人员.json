@@ -1,0 +1,44 @@
+{
+  "simplified": "人员",
+  "traditional": "人員",
+  "pinyin": "rényuán",
+  "english": "personnel; staff",
+  "etymology": {
+    "type": "compound word",
+    "description": "人(人) (rén, \"person\") + 员(員) (yuán, \"member\") = people who are members of a group -> personnel; staff",
+    "interpretation": "The word 人员(人員) (rényuán, \"personnel; staff\") signifies individuals who collectively form the members of an organization or team. This directly reflects its use to refer to staff or personnel in various contexts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "员",
+      "trad": "員",
+      "pinyin": "yuán",
+      "english": "member; employee; personnel; staff"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司需要人员(公司需要人員)，来帮助公司发展(來幫助公司發展)。",
+      "pinyin": "Gōngsī xūyào rényuán, lái bāngzhù gōngsī fāzhǎn.",
+      "english": "The company needs personnel to help develop the business."
+    },
+    {
+      "chinese": "训练有素的人员(訓練有素的人員)，确保工程质量(確保工程質量)。",
+      "pinyin": "Xùnliàn yǒusù de rényuán, quèbǎo gōngchéng zhìliàng.",
+      "english": "Well-trained personnel ensure the quality of the project."
+    },
+    {
+      "chinese": "在紧急情况下(在緊急情況下)，专业人员迅速到达现场(專業人員迅速到達現場)。",
+      "pinyin": "Zài jǐnjí qíngkuàng xià, zhuānyè rényuán xùnsù dàodá xiànchǎng.",
+      "english": "In emergency situations, professional personnel quickly arrive at the scene."
+    }
+  ]
+}

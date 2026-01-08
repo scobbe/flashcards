@@ -2,25 +2,30 @@
   "simplified": "凵",
   "traditional": "凵",
   "pinyin": "kǎn",
-  "english": "hole",
+  "english": "container",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cave represented by a hollow or hole",
-    "interpretation": "凵(rén, \"hole\") is a simple pictogram depicting the outline of a cave or hollow space. Its form resembles the opening or depression of a hole, which explains its straightforward representation.",
+    "description": "Depicts a cave",
+    "interpretation": "The character 凵 (kǎn, \"container\") visually represents the shape of a cave, which is an enclosure or hollow space. This depiction is straightforward, illustrating the basic meaning through a simple, open-bottomed rectangular shape.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "山脚下有一个凵(山腳下有一個凵)，深邃且神秘(深邃且神秘)。",
-      "pinyin": "Shān jiǎo xià yǒu yí gè kǎn, shēn suì qiě shén mì.",
-      "english": "At the foot of the mountain, there is a hole, deep and mysterious."
+      "chinese": "这个凵足以盛放鲜花(這個凵足以盛放鮮花)。",
+      "pinyin": "Zhège kǎn zúyǐ shèngfàng xiānhuā.",
+      "english": "This container is sufficient for holding fresh flowers."
     },
     {
-      "chinese": "用凵装饰的器物(用凵裝飾的器物)，蕴含着古代智慧(蘊含著古代智慧)。",
-      "pinyin": "Yòng kǎn zhuāng shì de qì wù, yùn hán zhe gǔ dài zhì huì.",
-      "english": "The artifact decorated with 凵 carries ancient wisdom."
+      "chinese": "妈妈买了一个大凵(媽媽買了一個大凵)，用来给花浇水(用來給花澆水)。",
+      "pinyin": "Māmā mǎile yīgè dà kǎn, yòng lái gěi huā jiāoshuǐ.",
+      "english": "Mom bought a big container to water the flowers."
+    },
+    {
+      "chinese": "老店里展示了古代的凵(老店裡展示了古代的凵)，象征着智慧和传承(象徵著智慧和傳承)。",
+      "pinyin": "Lǎo diàn lǐ zhǎnshì le gǔdài de kǎn, xiàngzhēngzhe zhìhuì hé chuánchéng.",
+      "english": "The old shop displayed an ancient container, symbolizing wisdom and heritage."
     }
   ]
 }

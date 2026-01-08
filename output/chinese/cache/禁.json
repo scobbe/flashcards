@@ -1,0 +1,44 @@
+{
+  "simplified": "禁",
+  "traditional": "禁",
+  "pinyin": "jìn",
+  "english": "forbid",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 林(林) (lín, \"forest\") + semantic 示(示) (shì, \"altar\") = related to controlling sacred or ritualistic spaces -> forbid",
+    "interpretation": "The integration of 林(林) (lín, \"forest\") as a phonetic component with 示(示) (shì, \"altar\") indicates a connection to restricting or regulating spaces, especially those of religious significance, which conceptually aligns with the idea of 'forbidding.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "林",
+      "trad": "林",
+      "pinyin": "lín",
+      "english": "forest"
+    },
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "altar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "政府禁止在公园内吸烟(政府禁止在公園內吸煙)。",
+      "pinyin": "Zhèngfǔ jìnzhǐ zài gōngyuán nèi xīyān.",
+      "english": "The government forbids smoking in the park."
+    },
+    {
+      "chinese": "学校禁止携带食品(學校禁止攜帶食品)。",
+      "pinyin": "Xuéxiào jìnzhǐ xiédài shípǐn.",
+      "english": "The school forbids carrying food."
+    },
+    {
+      "chinese": "学校禁止带入手机(學校禁止帶入手機)，违反者将受到处分(違反者將受到處分)。",
+      "pinyin": "Xuéxiào jìnzhǐ dàirù shǒujī, wéifǎn zhě jiāng shòudào chǔfèn.",
+      "english": "The school forbids bringing mobile phones, and violators will be penalized."
+    }
+  ]
+}

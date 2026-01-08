@@ -1,0 +1,45 @@
+{
+  "simplified": "藝",
+  "traditional": "藝",
+  "pinyin": "yì",
+  "english": "art",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 埶(埶) (yì, \"skill\") -> 艸(艸) (cǎo, \"grass\") + 云(云) (yún, \"say\") added -> 藝(藝)",
+    "interpretation": "The character 藝(藝) (yì, \"art\") combines the element for \"grass\" with 云(云) (yún, \"say\") to indicate the cultivation and expression of skills as in the arts, evolving from the original 埶(埶) (yì, \"skill\"). This reflects the development and communication of artistic skills, much like the growth of plants.",
+    "simplification": "艺(藝): Simplified by removing 艸(艸) (cǎo, \"grass\") and retaining the central structure representing skill."
+  },
+  "parts": [
+    {
+      "char": "埶",
+      "trad": "埶",
+      "pinyin": "yì",
+      "english": "skill"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "云",
+      "trad": "云",
+      "pinyin": "yún",
+      "english": "say"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他熱愛藝(他熱愛藝)。",
+      "pinyin": "Tā rè'ài yì.",
+      "english": "He loves art."
+    },
+    {
+      "chinese": "博物館收藏古代藝器(博物館收藏古代藝器)，展示豐富文化(展示豐富文化)。",
+      "pinyin": "Bówùguǎn shōucáng gǔdài yìqì, zhǎnshì fēngfù wénhuà.",
+      "english": "The museum collects ancient art artifacts, and displays rich culture."
+    }
+  ]
+}

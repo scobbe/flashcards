@@ -5,8 +5,8 @@
   "english": "horn; sound of a trumpet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口 (kǒu, \"mouth\") provides semantic meaning related to sound or speaking + 剌 (là) provides phonetic component -> used in terms for trumpet sound and as a transcription component",
-    "interpretation": "The character 喇(lǎ, \"horn\") combines the semantic element 口(kǒu, \"mouth\"), indicating a relation to sound or speech, with the phonetic element 剌(là), to form meanings related to musical instruments and loanwords like \"trumpet\" and \"lama.\"",
+    "description": "口(口) (kǒu, \"mouth\") + 拉(拉) (lā, \"to pull\") = mouth forming sound + phonetic 拉 -> horn sound",
+    "interpretation": "The character 喇 combines 口(口) (kǒu, \"mouth\"), representing the sound produced, with the phonetic 拉(拉) (lā, \"to pull\"), suggesting the action required to produce a horn's sound. This effectively conveys the sound of a horn or trumpet.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "mouth"
     },
     {
-      "char": "剌",
-      "trad": "剌",
-      "pinyin": "là",
-      "english": "distinct"
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "to pull"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "音乐家吹响喇(音樂家吹響喇)，全场顿时安静(全場頓時安靜)。",
-      "pinyin": "Yīn yuè jiā chuī xiǎng lǎ, quán chǎng dùn shí ān jìng.",
-      "english": "The musician blew the horn, and the whole venue fell silent."
+      "chinese": "当喇响起时(當喇響起時)，士兵们迅速集合(士兵們迅速集合)。",
+      "pinyin": "Dāng lǎ xiǎngqǐ shí, shìbīng men xùnsù jíhé.",
+      "english": "When the horn sounds, the soldiers quickly assemble."
     },
     {
-      "chinese": "古镇巷口传出喇的悠扬声音(古鎮巷口傳出喇的悠揚聲音)。",
-      "pinyin": "Gǔ zhèn xiàng kǒu chuán chū lǎ de yōu yáng shēng yīn.",
-      "english": "From the alley of the ancient town came the melodious sound of the horn."
+      "chinese": "他们在庆典上吹奏喇(他們在慶典上吹奏喇)。",
+      "pinyin": "Tāmen zài qìngdiǎn shàng chuīzòu lǎ.",
+      "english": "They play the horn at the celebration."
     },
     {
-      "chinese": "战场上响起喇的急促鸣响(戰場上響起喇的急促鳴響)，令敌军心生恐惧(令敵軍心生恐懼)。",
-      "pinyin": "Zhàn chǎng shàng xiǎng qǐ lǎ de jí cù míng xiǎng, lìng dí jūn xīn shēng kǒng jù.",
-      "english": "On the battlefield, the sharp blast of the horn instilled fear in the enemy troops."
+      "chinese": "传令员吹响喇(傳令員吹響喇)，驱散敌人(驅散敵人)。",
+      "pinyin": "Chuánlìngyuán chuīxiǎng lǎ, qūsàn dírén.",
+      "english": "The herald blows the horn, driving away the enemy."
     }
   ]
 }

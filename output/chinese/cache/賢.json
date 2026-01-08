@@ -1,0 +1,38 @@
+{
+  "simplified": "賢",
+  "traditional": "賢",
+  "pinyin": "xián",
+  "english": "worthy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 臤 + semantic 貝 ('money') -> valuable or worthy like money",
+    "interpretation": "The character 賢(賢) (xián, 'worthy') combines 貝(貝) (bèi, 'money') which signifies value, with 臤 as the phonetic component suggesting sound. This illustrates the idea of someone being 'worthy' or 'valuable' akin to 'money,' thus worthy of esteem or respect.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "money"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位賢人(他是一位賢人)。",
+      "pinyin": "Tā shì yī wèi xián rén.",
+      "english": "He is a worthy man."
+    },
+    {
+      "chinese": "他不仅聪明(他不僅聰明)，而且賢(而且賢)。",
+      "pinyin": "Tā bùjǐn cōngmíng, érqiě xián.",
+      "english": "He is not only intelligent, but also worthy."
+    },
+    {
+      "chinese": "古时人们以忠诚兼賢(古時人們以忠誠兼賢)，作为立身之本(作為立身之本)。",
+      "pinyin": "Gǔshí rénmen yǐ zhōngchéng jiān xián, zuòwéi lìshēn zhī běn.",
+      "english": "In ancient times, people regarded loyalty and worthiness as the foundation of one's existence."
+    }
+  ]
+}

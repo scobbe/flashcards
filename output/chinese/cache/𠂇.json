@@ -5,22 +5,24 @@
   "english": "cover",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a left hand -> originally from 又 (yòu, \"again\") but flipped",
-    "interpretation": "The character 𠂇 is a pictogram of a left hand, showing the shape of a hand turned in the opposite direction. It is sometimes visible in the top component of other characters like 灰(灰) (huī, \"ash\").",
+    "description": "Depicts a left hand -> stylized as 又(yòu, 'again') flipped -> used as a component in 灰(灰) (huī, 'ash')",
+    "interpretation": "The character 𠂇 is a pictogram that represents a left hand and is a variant of the component 又(yòu, 'again') when flipped. This depiction is used visually in other characters, such as 灰(灰) (huī, 'ash'), where the left hand form can be identified.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "妈妈用布𠂇住窗户(媽媽用布𠂇住窗戶)。",
-      "pinyin": "Māmā yòng bù jiǎn zhù chuānghù.",
-      "english": "Mom covers the window with cloth."
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
     },
     {
-      "chinese": "为了防尘(為了防塵)，工人用塑料布𠂇住机器(工人用塑料布𠂇住機器)。",
-      "pinyin": "Wèile fángchén, gōngrén yòng sùliàobù jiǎn zhù jīqì.",
-      "english": "To prevent dust, the worker covers the machine with plastic cloth."
+      "char": "灰",
+      "trad": "灰",
+      "pinyin": "huī",
+      "english": "ash"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

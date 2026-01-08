@@ -4,9 +4,9 @@
   "pinyin": "zú",
   "english": "graduation",
   "etymology": {
-    "type": "unorthodox simplification",
-    "description": "Unorthodox simplification: 卒(卒) (zú, \"graduation\") -> uses simplified components similar to 雑 from 雜",
-    "interpretation": "卆 is an unorthodox variant of 卒, likely created to simplify the writing by modifying components, akin to how 雑 simplified 雜. The basic semantic meaning tied to 'graduation' remains.",
+    "type": "unorthodox variant",
+    "description": "Unorthodox variant of 卒(卒) (zú, \"graduate\")",
+    "interpretation": "The character 卆(zú, \"graduation\") is an unorthodox variant of 卒(卒) rather than a separate character in its own right. Its formation and usage are akin to stylistic variations much like those seen in some East Asian calligraphic traditions.",
     "simplification": ""
   },
   "parts": [
@@ -14,25 +14,9 @@
       "char": "卒",
       "trad": "卒",
       "pinyin": "zú",
-      "english": "graduation"
+      "english": "graduate"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "在卆之际他满怀期待(在卆之際他滿懷期待)，踏入新的人生阶段(踏入新的人生階段)。",
-      "pinyin": "Zài zú zhī jì tā mǎn huái qī dài, tà rù xīn de rén shēng jiē duàn。",
-      "english": "At graduation, he was full of anticipation, stepping into a new stage of life."
-    },
-    {
-      "chinese": "卆是人生的重要转折(卆是人生的重要轉折)。",
-      "pinyin": "Zú shì rén shēng de zhòng yào zhuǎn zhé。",
-      "english": "Graduation is an important turning point in life."
-    },
-    {
-      "chinese": "学校为卆举行了隆重的仪式(學校為卆舉行了隆重的儀式)，每位毕业生满载回忆(每位畢業生滿載回憶)。",
-      "pinyin": "Xué xiào wèi zú jǔ xíng le lóng zhòng de yí shì, měi wèi bì yè shēng mǎn zài huí yì。",
-      "english": "The school held a grand ceremony for graduation, and every graduate carried a wealth of memories."
-    }
-  ]
+  "examples": []
 }

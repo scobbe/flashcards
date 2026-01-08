@@ -1,0 +1,50 @@
+{
+  "simplified": "查",
+  "traditional": "查",
+  "pinyin": "chá",
+  "english": "investigate; check; examine; research",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "原 木 (semantic, 'wood') + 且 (phonetic) -> stylized 旦 -> 查",
+    "interpretation": "The character 查 (chá, 'investigate') is composed of 木(木) (mù, 'wood') serving as the semantic component, paired with 且(qiě, 'moreover') as the phonetic component. Over time, the lower part was stylized as 旦(dàn, 'dawn'), losing its original depiction. It initially referred to the Chinese hawthorn tree or a wooden raft, reflecting its roots in wooden imagery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "moreover"
+    },
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师查作业(老師查作業)。",
+      "pinyin": "Lǎoshī chá zuòyè.",
+      "english": "The teacher is checking the assignments."
+    },
+    {
+      "chinese": "警察查现场证据(警察查現場證據)，以便破案(以便破案)。",
+      "pinyin": "Jǐngchá chá xiànchǎng zhèngjù, yǐbiàn pò'àn.",
+      "english": "The police investigate evidence at the scene in order to solve the case."
+    },
+    {
+      "chinese": "医生查体检报告(醫生查體檢報告)，确定治疗方案(確定治療方案)。",
+      "pinyin": "Yīshēng chá tǐjiǎn bàogào, quèdìng zhìliáo fāng'àn.",
+      "english": "The doctor examines the physical report and determines the treatment plan."
+    }
+  ]
+}

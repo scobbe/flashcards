@@ -1,0 +1,39 @@
+{
+  "simplified": "旁",
+  "traditional": "旁",
+  "pinyin": "páng",
+  "english": "side",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辛(辛) (xīn, \"knife or chisel\") above 方(方) (fāng, \"side\") = unclear semantic evolution -> concept of moving to remote -> modern form from clerical script",
+    "interpretation": "The character 旁(旁) (páng, \"side\") uses 方(方) (fāng, \"side\") for its phonetic component and has an unclear semantic component that has evolved over time. Despite its complex history, it suggests the notion of moving to or being on the side.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "knife or chisel"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "side"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他走到河旁(他走到河旁)，静静地欣赏风景(靜靜地欣賞風景)。",
+      "pinyin": "Tā zǒu dào hé páng, jìngjìng de xīnshǎng fēngjǐng.",
+      "english": "He walked to the riverside, quietly admiring the scenery."
+    },
+    {
+      "chinese": "他站在树旁(他站在樹旁)。",
+      "pinyin": "Tā zhàn zài shù páng.",
+      "english": "He stands beside the tree."
+    }
+  ]
+}

@@ -4,47 +4,41 @@
   "pinyin": "jiǎo",
   "english": "stir",
   "etymology": {
-    "type": "simplified form",
-    "description": "扌(手) (shǒu, \"hand\") + 見(见) (jiàn, \"see\") + 攴(攴) (pū, \"tap\") -> hand moving or stirring seen by striking -> final form of 搅",
-    "interpretation": "The character 搅(攪) is formed from combining elements related to actions involving the hand and an object being manipulated, in this case, through tapping or stirring.",
-    "simplification": "攪(搅): Simplified by reducing the complexity of the component 見(见) (jiàn, \"see\") to 见."
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, 'hand') + 喬(喬) (qiáo, phonetic) = stirring motion with the hand -> to stir",
+    "interpretation": "The character 攪 (jiǎo, 'stir') combines the 扌(扌) (shǒu, 'hand') radical, indicating an action performed by the hand, with 喬(喬) (qiáo), which serves as the phonetic component, together representing the act of stirring.",
+    "simplification": "The simplified form 搅 replaces the phonetic component 喬(喬) (qiáo) with 丩(jiū), which has a similar sound, reducing the complexity of the character."
   },
   "parts": [
     {
       "char": "扌",
-      "trad": "手",
+      "trad": "扌",
       "pinyin": "shǒu",
       "english": "hand"
     },
     {
-      "char": "見",
-      "trad": "见",
-      "pinyin": "jiàn",
-      "english": "see"
-    },
-    {
-      "char": "攴",
-      "trad": "攴",
-      "pinyin": "pū",
-      "english": "tap"
+      "char": "喬",
+      "trad": "喬",
+      "pinyin": "qiáo",
+      "english": "phonetic"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用勺子搅牛奶(他用勺子攪牛奶)。",
-      "pinyin": "Tā yòng sháozi jiǎo niúnǎi.",
-      "english": "He stirs the milk with a spoon."
+      "chinese": "他搅动了汤(他攪動了湯)。",
+      "pinyin": "Tā jiǎo dòng le tāng.",
+      "english": "He stirred the soup."
     },
     {
-      "chinese": "厨房里(廚房裡)，他搅拌汤料(他攪拌湯料)。",
-      "pinyin": "Chúfáng lǐ, tā jiǎo bàn tāng liào.",
-      "english": "In the kitchen, he stirs the soup ingredients."
+      "chinese": "她用勺子轻轻搅(她用勺子輕輕攪)，糖浆变得浓稠(糖漿變得濃稠)。",
+      "pinyin": "Tā yòng sháo zi qīng qīng jiǎo, táng jiāng biàn dé nóng chóu.",
+      "english": "She gently stirred with a spoon, and the syrup became thick."
     },
     {
-      "chinese": "暴风雨搅乱了小镇的平静(暴風雨攪亂了小鎮的平靜)。",
-      "pinyin": "Bàofēngyǔ jiǎo luànle xiǎozhèn de píngjìng.",
-      "english": "The storm stirred up the tranquility of the small town."
+      "chinese": "古人常用木棍搅清泉(古人常用木棍攪清泉)。",
+      "pinyin": "Gǔ rén cháng yòng mù gùn jiǎo qīng quán.",
+      "english": "Ancient people often stirred the clear spring water with a wooden stick."
     }
   ]
 }

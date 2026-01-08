@@ -1,0 +1,34 @@
+{
+  "simplified": "丆",
+  "traditional": "丆",
+  "pinyin": "n/a",
+  "english": "curved line",
+  "etymology": {
+    "type": "variant form",
+    "description": "丆 is a variant form of 厂, which is the simplified form of 廠",
+    "interpretation": "丆 is used as a simplified variant of 厂 to represent the same concept. 厂 itself stems from 廠 (chǎng, \"factory\"), which is a phono-semantic compound combining 广 (guǎng, \"shelter\") with 敞 (chǎng, \"open\"), indicating an open shelter or space.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "廠",
+      "pinyin": "chǎng",
+      "english": "factory"
+    },
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "敞",
+      "trad": "敞",
+      "pinyin": "chǎng",
+      "english": "open"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

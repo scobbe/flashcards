@@ -4,47 +4,28 @@
   "pinyin": "yú",
   "english": "fish",
   "etymology": {
-    "type": "Simplified character",
-    "description": "魚(魚) (yú, \"fish\") with simplification 灬(灬) (biāo, \"fire\") → 一(一) (yī, \"one\")",
-    "interpretation": "The traditional character 魚(魚) (yú, \"fish\") represents a stylized depiction of a fish. In the simplified form 鱼, the four-dot component 灬(灬) (biāo, \"fire\") at the bottom of the character was replaced with the simpler stroke 一(一) (yī, \"one\"), which is easier to write.",
-    "simplification": "The simplification of 魚(魚) (yú, \"fish\") to 鱼 involves using 一(一) (yī, \"one\") as a cursive shorthand for the more complex 灬(灬) (biāo, \"fire\") component at the bottom of the traditional character."
+    "type": "pictogram",
+    "description": "Depicts a fish with a stylized body and fins",
+    "interpretation": "The character 魚(魚) (yú, \"fish\") originated as a pictogram representing a fish's form, including the body and fins, capturing its aquatic nature through its visual depiction.",
+    "simplification": "魚(魚) was simplified to 鱼(魚) by changing 灬(灬) (huǒ, \"fire\") to 一(一) (yī, \"one\"), streamlining the component structure."
   },
-  "parts": [
-    {
-      "char": "魚",
-      "trad": "魚",
-      "pinyin": "yú",
-      "english": "fish"
-    },
-    {
-      "char": "灬",
-      "trad": "灬",
-      "pinyin": "biāo",
-      "english": "fire"
-    },
-    {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "我喜欢吃鱼(我喜歡吃魚)。",
       "pinyin": "Wǒ xǐhuān chī yú.",
-      "english": "I like eating fish."
+      "english": "I like to eat fish."
     },
     {
-      "chinese": "河里有许多鱼(河裡有許多魚)，它们自由自在地游来游去(它們自由自在地遊來遊去)。",
-      "pinyin": "Hé lǐ yǒu xǔduō yú, tāmen zìyóu zìzài de yóu lái yóu qù.",
-      "english": "There are many fish in the river, and they swim around freely."
+      "chinese": "河里有很多鱼(河裡有很多魚)。",
+      "pinyin": "Hé lǐ yǒu hěn duō yú.",
+      "english": "There are many fish in the river."
     },
     {
-      "chinese": "渔民每天出海捕鱼(漁民每天出海捕魚)，以维持生计(以維持生計)。",
-      "pinyin": "Yúmín měitiān chūhǎi bǔ yú, yǐ wéichí shēngjì.",
-      "english": "Fishermen go out to sea every day to catch fish in order to make a living."
+      "chinese": "今天我去市场买鱼(今天我去市場買魚)，晚上做鱼汤吃(晚上做魚湯吃)。",
+      "pinyin": "Jīntiān wǒ qù shìchǎng mǎi yú, wǎnshàng zuò yútāng chī.",
+      "english": "Today I went to the market to buy fish, and in the evening I will cook fish soup."
     }
   ]
 }

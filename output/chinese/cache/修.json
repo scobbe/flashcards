@@ -1,0 +1,39 @@
+{
+  "simplified": "修",
+  "traditional": "修",
+  "pinyin": "xiū",
+  "english": "repair",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 攸(攸) (yōu) + Semantic: 彡(彡) (shān, \"ornament\") -> 修(修) (xiū, \"repair\")",
+    "interpretation": "The character 修(修) (xiū, \"repair\") combines 攸(攸) (yōu, serving a phonetic purpose) and 彡(彡) (shān, suggesting ornamentation or embellishment), to depict the idea of fixing or enhancing something, which aligns with the concept of repair.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "攸",
+      "trad": "攸",
+      "pinyin": "yōu",
+      "english": "none"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "ornament"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正在修桌子(他正在修桌子)。",
+      "pinyin": "Tā zhèngzài xiū zhuōzi.",
+      "english": "He is repairing the table."
+    },
+    {
+      "chinese": "小明修花园里的围栏(小明修花園裡的圍欄)，让家更温馨(讓家更溫馨)。",
+      "pinyin": "Xiǎo Míng xiū huāyuán lǐ de wéilán, ràng jiā gèng wēnxīn.",
+      "english": "Xiaoming repairs the garden fence, making the home cozier."
+    }
+  ]
+}

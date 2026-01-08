@@ -1,0 +1,39 @@
+{
+  "simplified": "排",
+  "traditional": "排",
+  "pinyin": "pái",
+  "english": "to arrange; to put in order",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + 非(非) (fēi) = hand action with 'fēi' sound -> to place in line",
+    "interpretation": "The character 排(排) (pái, \"to arrange\") employs 扌(扌) (shǒu, \"hand\") to signify an action performed by hand, while 非(非) (fēi) contributes the phonetic element. This combination implies organizing or arranging into a line.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "非",
+      "trad": "非",
+      "pinyin": "fēi",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把同学排成一行(他把同學排成一行)。",
+      "pinyin": "Tā bǎ tóngxué pái chéng yī háng.",
+      "english": "He arranged his classmates in a line."
+    },
+    {
+      "chinese": "请先排队(請先排隊)，然后入场(然後入場)。",
+      "pinyin": "Qǐng xiān pái duì, ránhòu rù chǎng.",
+      "english": "Please line up first, then enter."
+    }
+  ]
+}

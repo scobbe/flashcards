@@ -5,27 +5,18 @@
   "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Represents division or separation",
-    "interpretation": "The character 丷(bā, \"eight\") appears to depict a simple representation of a division, which relates to its usage in certain compound characters rather than directly representing the number eight.",
+    "description": "Top part of the character 爲(為) (wéi, 'to do')",
+    "interpretation": "The character 丷 is a pictogram representing the top element of 爲(為) (wéi, 'to do'), and is visually similar to the Japanese character 𬼀. Its isolated use is primarily graphical rather than semantic.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "我数了一下(我數了一下)，有丷个星辰(有丷個星辰)。",
-      "pinyin": "Wǒ shǔle yīxià, yǒu bā gè xīngchén.",
-      "english": "I counted and found eight stars."
-    },
-    {
-      "chinese": "丷是一个吉利的数字(丷是一個吉利的數字)。",
-      "pinyin": "Bā shì yī gè jílì de shùzì.",
-      "english": "Eight is considered a lucky number."
-    },
-    {
-      "chinese": "在庆典上(在慶典上)，号码丷显得特别醒目(號碼丷顯得特別醒目)。",
-      "pinyin": "Zài qìngdiǎn shàng, hàomǎ bā xiǎnde tèbié xǐngmù.",
-      "english": "At the celebration, the number eight appeared especially striking."
+      "char": "為",
+      "trad": "為",
+      "pinyin": "wéi",
+      "english": "to do"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

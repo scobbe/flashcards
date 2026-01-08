@@ -2,11 +2,11 @@
   "simplified": "茵",
   "traditional": "茵",
   "pinyin": "yīn",
-  "english": "mat",
+  "english": "mattress",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹 (cǎo, \"plant\") + 因 (yīn, phonetic) = plant wrapped around or resembling something -> mattress/cushion",
-    "interpretation": "The character combines the plant semantic 艹 (cǎo, \"plant\") with the phonetic component 因 (yīn) to convey the idea of a mat made of grass or plants, suggesting lushness or softness.",
+    "description": "semantic: 艹(艹) (cǎo, 'grass') + phonetic: 因(因) (yīn) -> originally referred to a grass mat or carpet",
+    "interpretation": "The character 茵(yīn, 'mattress') combines the 艹(艹) (cǎo, 'grass') component, indicating the material or nature related to plants, with 因(因) (yīn) serving as the phonetic component. This formation suggests a mat or covering made from woven grass or plant material, which aligns with the meaning of 'mattress'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "plant"
+      "english": "grass"
     },
     {
       "char": "因",
       "trad": "因",
       "pinyin": "yīn",
-      "english": "phonetic"
+      "english": "cause"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他坐在柔软的茵上(他坐在柔軟的茵上)。",
-      "pinyin": "Tā zuò zài róu ruǎn de yīn shàng.",
-      "english": "He sits on a soft mat."
+      "chinese": "昨晚我在新买的茵上睡觉(昨晚我在新買的茵上睡覺)。",
+      "pinyin": "Zuówǎn wǒ zài xīn mǎi de yīn shàng shuìjiào。",
+      "english": "I slept on the newly purchased mattress last night."
     },
     {
-      "chinese": "小院里铺着翠绿的茵(小院裡鋪著翠綠的茵)，欢迎归来的客人(歡迎歸來的客人)。",
-      "pinyin": "Xiǎo yuàn lǐ pū zhe cuì lǜ de yīn, huān yíng guī lái de kè rén.",
-      "english": "A small courtyard is laid with verdant mats, welcoming the returning guests."
+      "chinese": "他整理好床铺(他整理好床鋪)，铺上柔软的茵(鋪上柔軟的茵)。",
+      "pinyin": "Tā zhěnglǐ hǎo chuángpù，pū shàng róuruǎn de yīn。",
+      "english": "He tidied the bed and spread a soft mattress."
     },
     {
-      "chinese": "诗人于月下铺开茵(詩人於月下鋪開茵)，感叹岁月静好(感嘆歲月靜好)。",
-      "pinyin": "Shī rén yú yuè xià pū kāi yīn, gǎn tàn suì yuè jìng hǎo.",
-      "english": "The poet spreads out the mat under the moon, lamenting the peaceful passage of time."
+      "chinese": "妈妈决定换掉旧茵(媽媽決定換掉舊茵)。",
+      "pinyin": "Māmā juédìng huàn diào jiù yīn。",
+      "english": "Mother decided to replace the old mattress."
     }
   ]
 }

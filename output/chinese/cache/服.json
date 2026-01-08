@@ -1,0 +1,45 @@
+{
+  "simplified": "服",
+  "traditional": "服",
+  "pinyin": "fú",
+  "english": "serve; obey; clothes",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𠬝 (original pictogram depicting 'to subdue') -> 凡(凡) (fán, 'tray') added as semantic -> 凡 corrupted into 舟(舟) (zhōu, 'boat') and then 月(月) (yuè, 'moon') -> final form 服 (fú, 'serve')",
+    "interpretation": "The character 服 (fú, 'serve') originates from a pictogram 𠬝 showing subjugation, conveying the idea of 'serving or obeying.' The addition of 凡(凡) changes its visual into something resembling 舟(舟) and then 月(月), enhancing the character's complexity without altering its core semantic value.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "tray"
+    },
+    {
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "士兵服从命令(士兵服從命令)，保护人民(保護人民)。",
+      "pinyin": "Shìbīng fúcóng mìnglìng, bǎohù rénmín.",
+      "english": "The soldiers obey orders and protect the people."
+    },
+    {
+      "chinese": "他穿上军服(他穿上軍服)，准备出发(準備出發)。",
+      "pinyin": "Tā chuān shàng jūnfú, zhǔnbèi chūfā.",
+      "english": "He puts on his military uniform and gets ready to depart."
+    }
+  ]
+}

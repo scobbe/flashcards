@@ -1,0 +1,28 @@
+{
+  "simplified": "戔",
+  "traditional": "戔",
+  "pinyin": "jiān",
+  "english": "(phonetic component)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "戈(戈) (gē, \"spear\") + 戈(戈) (gē, \"spear\") = two spears facing each other; modified spears facing same direction -> original form of 殘(殘)",
+    "interpretation": "The character 戔 originally depicted two spears facing each other, symbolizing conflict or mutual destruction. This later evolved with one spear turning to face the same direction, emphasizing the idea of damage or destruction, which aligns with its role in constructing characters like 殘(殘) (cán, \"to damage; to destroy\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
+    },
+    {
+      "char": "殘",
+      "trad": "殘",
+      "pinyin": "cán",
+      "english": "to damage; to destroy"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

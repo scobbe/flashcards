@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "浓雾奄盖了整个村庄(濃霧奄蓋了整個村莊)。",
-      "pinyin": "Nóngwù yān gài le zhěnggè cūnzhuāng.",
-      "english": "Thick fog covered the entire village."
-    },
-    {
-      "chinese": "晨雾初起时(晨霧初起時)，山谷奄上了一层白纱(山谷奄上了一層白紗)。",
-      "pinyin": "Chénwù chūqǐ shí, shāngǔ yān shàng le yī céng bái shā.",
-      "english": "When the morning mist arose, the valley was covered with a layer of white gauze."
-    }
-  ]
+  "examples": []
 }

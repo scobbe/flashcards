@@ -1,0 +1,6 @@
+Chinese,Pinyin,English
+跑腿,pǎo tuǐ,"paid on-demand errand and same-city delivery services"
+锅巴饭,guō bā fàn,"rice dish made with crispy scorched rice from the bottom of the pot"
+八字,bā zì,"the Eight Characters used in Chinese fate analysis"
+扬州,Yángzhōu,Yangzhou (city in Jiangsu)
+枣,zǎo,jujube (Chinese date fruit)

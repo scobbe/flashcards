@@ -1,0 +1,34 @@
+{
+  "simplified": "栔",
+  "traditional": "栔",
+  "pinyin": "qì",
+  "english": "cut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "㓞(㓞) (qià, 'incision') as phonetic + 木(木) (mù, 'wood') as semantic -> indicates cutting or incising wood -> possibly a variant or interchangeable with 契(契) (qì, 'contract')",
+    "interpretation": "栔(qì, 'cut') combines the phonetic element 㓞(㓞) (qià, 'incision') representing incisions and the semantic element 木(木) (mù, 'wood') indicating its association with cutting or carving wood. It shares similarities and usage with 契(契) (qì, 'contract').",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㓞",
+      "trad": "㓞",
+      "pinyin": "qià",
+      "english": "incision"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "契",
+      "trad": "契",
+      "pinyin": "qì",
+      "english": "contract"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

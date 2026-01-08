@@ -1,0 +1,44 @@
+{
+  "simplified": "告诉",
+  "traditional": "告訴",
+  "pinyin": "gàosu",
+  "english": "to tell",
+  "etymology": {
+    "type": "compound word",
+    "description": "告(告) (gào, \"inform\") and 诉(訴) (sù, \"complain\"). 告(告) (gào, \"inform\") refers to conveying information, while 诉(訴) (sù, \"complain\") involves speaking out or expressing something.",
+    "interpretation": "The combination of 告(告) (gào, \"inform\") and 诉(訴) (sù, \"complain\") forms the word for 'tell' by emphasizing the act of communicating something verbally. In this context, 诉(訴) (sù) does not primarily mean to complain but rather to express or communicate, making 告诉(告訴) (gàosu) mean 'to tell.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "告",
+      "trad": "告",
+      "pinyin": "gào",
+      "english": "inform; announce; report"
+    },
+    {
+      "char": "诉",
+      "trad": "訴",
+      "pinyin": "sù",
+      "english": "complain; tell; relate; express"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请告诉我(請告訴我)。",
+      "pinyin": "Qǐng gàosu wǒ。",
+      "english": "Please tell me."
+    },
+    {
+      "chinese": "他告诉我(他告訴我)，明天会来(明天會來)。",
+      "pinyin": "Tā gàosu wǒ, míngtiān huì lái。",
+      "english": "He told me that he will come tomorrow."
+    },
+    {
+      "chinese": "老师告诉我们(老師告訴我們)，读书使人进步(讀書使人進步)。",
+      "pinyin": "Lǎoshī gàosu wǒmen, dúshū shǐ rén jìnbù。",
+      "english": "The teacher told us that reading makes people progress."
+    }
+  ]
+}

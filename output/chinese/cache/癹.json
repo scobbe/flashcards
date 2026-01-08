@@ -4,28 +4,25 @@
   "pinyin": "bá",
   "english": "phonetic component",
   "etymology": {
-    "type": "phonetic component",
-    "description": "Originally composed of 疒(疒) (nè, \"sickness\") + 發(發) (fā, \"hair\") = Related to 发(bá, \"to send\") sound -> serves as a phonetic element in compound characters",
-    "interpretation": "The character 癹(bá) is primarily used as a phonetic component in other characters, contributing the 'bá' sound without a fixed meaning on its own.",
+    "type": "phono-semantic compound",
+    "description": "癶(癶) (bó, 'two outstretched feet') serves as the phonetic component + 殳(殳) (shū, 'hand with stick') as the semantic component = to beat or cut grass",
+    "interpretation": "The character 癹(bá) combines the imagery of two feet, symbolizing motion, with a hand holding a stick, indicating cutting or clearing action. This suggests the action of beating or cutting grass, and it may have been an original form for words related to clearing or moving aside.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "这个字利用癹传音(這個字利用癹傳音)，帮助识记发音(幫助識記發音)。",
-      "pinyin": "zhège zì lìyòng bá chuányīn, bāngzhù shíjì fāyīn.",
-      "english": "This character uses bá as a phonetic component to help memorize its pronunciation."
+      "char": "癶",
+      "trad": "癶",
+      "pinyin": "bó",
+      "english": "two outstretched feet"
     },
     {
-      "chinese": "在一些复合字中(在一些複合字中)，癹充当声旁(癹充當聲旁)。",
-      "pinyin": "zài yīxiē fùhézì zhōng, bá chōngdāng shēngpáng.",
-      "english": "In some compound characters, bá serves as the phonetic part."
-    },
-    {
-      "chinese": "在古文献中(在古文獻中)，癹被用来表音(癹被用來表音)。",
-      "pinyin": "zài gǔwénxiàn zhōng, bá bèi yòng lái biǎoyīn.",
-      "english": "In ancient texts, bá was used to indicate pronunciation."
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "hand with stick"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

@@ -5,8 +5,8 @@
   "english": "Cungen Gai Old Style Hot Pot",
   "etymology": {
     "type": "compound word",
-    "description": "The phrase 存根盖不改老火锅 describes a specific type or style of hot pot known as 'Cungen Gai Old Style Hot Pot'.",
-    "interpretation": "This phrase refers to a traditional style of hot pot that retains its original flavor or method. The phrase suggests the hot pot's ingredients or cooking methods have been preserved without change.",
+    "description": "存根(存根) (cún gēn, \"retain the base\"); 蓋(蓋) (gài, \"cover\"); 不改(不改) (bù gǎi, \"do not change\"); 老(老) (lǎo, \"old\"); 火鍋(火鍋) (huǒ guō, \"hot pot\")",
+    "interpretation": "This phrase refers to a style or brand of hot pot that emphasizes traditional or original flavors without alteration. The word 老火鍋(火鍋) (lǎo huǒ guō, \"old hot pot\") suggests a classic or traditional method, while 不改(不改) (bù gǎi, \"do not change\") emphasizes maintaining authenticity. 存根(存根) (cún gēn, \"retain the base\") and 蓋(蓋) (gài, \"cover\") contribute to the idea of preserving original features while serving the hot pot.",
     "simplification": ""
   },
   "parts": [
@@ -14,43 +14,49 @@
       "char": "存根",
       "trad": "存根",
       "pinyin": "cún gēn",
-      "english": "preserved root"
+      "english": "retain the base; stub"
     },
     {
-      "char": "盖",
+      "char": "蓋",
       "trad": "蓋",
       "pinyin": "gài",
-      "english": "cover; lid; canopy"
+      "english": "cover; lid; top"
     },
     {
       "char": "不改",
       "trad": "不改",
       "pinyin": "bù gǎi",
-      "english": "not change"
+      "english": "do not change; unaltered"
     },
     {
-      "char": "老火锅",
-      "trad": "老火鍋",
-      "pinyin": "lǎo huǒ guō",
-      "english": "old hot pot"
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old; aged; experienced"
+    },
+    {
+      "char": "火鍋",
+      "trad": "火鍋",
+      "pinyin": "huǒ guō",
+      "english": "hot pot"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "存根盖不改老火锅是一个受欢迎的传统火锅品牌(存根蓋不改老火鍋是一個受歡迎的傳統火鍋品牌)。",
-      "pinyin": "cún gēn gài bù gǎi lǎo huǒ guō shì yī gè shòu huānyíng de chuántǒng huǒ guō pǐnpái。",
-      "english": "Cungen Gai Old Style Hot Pot is a popular traditional hot pot brand."
+      "chinese": "存根盖·不改老火锅是一个受欢迎的传统火锅品牌(存根蓋·不改老火鍋是一个受歡迎的傳統火鍋品牌)。",
+      "pinyin": "Cún gēn gài · bù gǎi lǎo huǒ guō shì yīgè shòu huānyíng de chuántǒng huǒguō pǐnpái.",
+      "english": "Cún Gai Old Style Hot Pot is a popular traditional hot pot brand."
     },
     {
-      "chinese": "我今晚打算去尝试存根盖不改老火锅(我今晚打算去嘗試存根蓋不改老火鍋)，因为朋友推荐(因為朋友推薦)。",
-      "pinyin": "wǒ jīnwǎn dǎsuàn qù chángshì cún gēn gài bù gǎi lǎo huǒ guō, yīnwèi péngyǒu tuījiàn。",
-      "english": "I plan to try Cungen Gai Old Style Hot Pot tonight because a friend recommended it."
+      "chinese": "我和朋友去吃存根盖·不改老火锅(我和朋友去吃存根蓋·不改老火鍋)，享受经典美味(享受經典美味)。",
+      "pinyin": "Wǒ hé péngyǒu qù chī Cún gēn gài · bù gǎi lǎo huǒ guō, xiǎngshòu jīngdiǎn měiwèi.",
+      "english": "My friends and I go to eat Cún Gai Old Style Hot Pot, enjoying its classic delicious taste."
     },
     {
-      "chinese": "存根盖不改老火锅传承了百年技艺(存根蓋不改老火鍋傳承了百年技藝)，展示了传统美食魅力(展示了傳統美食魅力)。",
-      "pinyin": "cún gēn gài bù gǎi lǎo huǒ guō chuánchéngle bǎinián jìyì, zhǎnshìle chuántǒng měishí mèilì。",
-      "english": "Cungen Gai Old Style Hot Pot inherits a century-old craft and showcases the charm of traditional cuisine."
+      "chinese": "存根盖·不改老火锅凭借独特风味吸引了各地食客(存根蓋·不改老火鍋憑藉獨特風味吸引了各地食客)。",
+      "pinyin": "Cún gēn gài · bù gǎi lǎo huǒ guō píngjiè dútè fēngwèi xīyǐn le gèdì shíkè.",
+      "english": "Cún Gai Old Style Hot Pot has attracted diners from all over the region with its unique flavor."
     }
   ]
 }

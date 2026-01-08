@@ -1,0 +1,28 @@
+{
+  "simplified": "㞢",
+  "traditional": "㞢",
+  "pinyin": "n/a",
+  "english": "intricate structure",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "又(又) (yòu, \"again\") + 肉(肉) (ròu, \"meat\") = hand with meat -> intricate structure",
+    "interpretation": "㞢 is an ancient form of 有(有) (yǒu, \"have\"), suggesting possession or holding. The combination of 又(又) (yòu, \"again\") as a phonetic component and 肉(肉) (ròu, \"meat\") as a semantic element metaphorically represents holding or having an intricate structure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

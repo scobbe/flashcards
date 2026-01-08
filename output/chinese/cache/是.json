@@ -2,11 +2,11 @@
   "simplified": "是",
   "traditional": "是",
   "pinyin": "shì",
-  "english": "is",
+  "english": "to be; yes; correct; this",
   "etymology": {
-    "type": "pictogram",
-    "description": "日(日) (rì, \"sun\") above a foot-like component 止(止) (zhǐ, \"foot\") -> originally a demonstrative pronoun \"this\" -> evolved to mean \"correct, right\" -> further evolved to the copula \"to be\"",
-    "interpretation": "The character began as a pictogram of 日(日) and 止(止), indicating a demonstrative meaning \"this,\" which then evolved into meanings related to correctness and being, partly due to emphatic usage.",
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 正(正) (zhèng, \"correct\") = sun as a semantic component with 正 acting as a phonetic guide -> final form meaning \"to be, yes, correct\"",
+    "interpretation": "The character 是 (shì) combines the sun 日(日) (rì, \"sun\") as a semantic element with 正(正) (zhèng, \"correct\"), which serves as a phonetic component. This combination resulted in a character that expresses the idea of correctness or truth, hence its meanings related to affirmation and veracity.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "sun"
     },
     {
-      "char": "止",
-      "trad": "止",
-      "pinyin": "zhǐ",
-      "english": "foot"
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "correct"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "He is a teacher."
     },
     {
-      "chinese": "这本书是我的(這本書是我的)，非常珍贵(非常珍貴)。",
-      "pinyin": "Zhè běn shū shì wǒ de, fēicháng zhēnguì.",
-      "english": "This book is mine, it is extremely precious."
+      "chinese": "这本书是我的(這本書是我的)，那本书是他的(那本書是他的)。",
+      "pinyin": "Zhè běn shū shì wǒ de, nà běn shū shì tā de.",
+      "english": "This book is mine, and that book is his."
     },
     {
-      "chinese": "学校是知识的源泉(學校是知識的源泉)。",
-      "pinyin": "Xuéxiào shì zhīshi de yuánquán.",
-      "english": "School is the source of knowledge."
+      "chinese": "这是我的答案(這是我的答案)。",
+      "pinyin": "Zhè shì wǒ de dá'àn.",
+      "english": "This is my answer."
     }
   ]
 }

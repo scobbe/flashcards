@@ -1,0 +1,44 @@
+{
+  "simplified": "樹",
+  "traditional": "樹",
+  "pinyin": "shù",
+  "english": "tree",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "尌(尌) (shù, \"to plant a tree\") -> 木(木) (mù, \"tree\") added for visual differentiation -> final form 樹",
+    "interpretation": "The traditional character 樹 (shù, \"tree\") combines the semantic component 木(木) (mù, \"tree\") with the phonetic 尌(尌) (shù, \"to plant a tree\"), which emphasizes the idea of planting or establishing a tree. The addition of 木 helps to visually distinguish the character from 尌 and reinforces the meaning related to trees.",
+    "simplification": "树(樹): The component 壴(壴) (zhù, \"drum\") was replaced with 又(又) (yòu, \"again\") for a simpler form."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "尌",
+      "trad": "尌",
+      "pinyin": "shù",
+      "english": "to plant a tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里的樹(公園裡的樹)很茂盛(很茂盛)。",
+      "pinyin": "Gōngyuán lǐ de shù hěn màoshèng.",
+      "english": "The trees in the park are luxuriant."
+    },
+    {
+      "chinese": "这棵樹在春天抽出嫩芽(這棵樹在春天抽出嫩芽)，夏日遮阴带来凉爽(夏日遮陰帶來涼爽)。",
+      "pinyin": "Zhè kē shù zài chūntiān chōu chū nèn yá, xiàrì zhēyīn dàilái liángshuǎng.",
+      "english": "This tree sprouts tender buds in spring, and its shade brings coolness in summer."
+    },
+    {
+      "chinese": "古老的樹静静伫立(古老的樹靜靜佇立)，见证着历史长河(見證著歷史長河)。",
+      "pinyin": "Gǔlǎo de shù jìngjìng zhùlì, jiànzhèng zhe lìshǐ chánghé.",
+      "english": "The ancient tree stands quietly, witnessing the long river of history."
+    }
+  ]
+}

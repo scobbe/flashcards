@@ -1,0 +1,44 @@
+{
+  "simplified": "渴",
+  "traditional": "渴",
+  "pinyin": "kě",
+  "english": "thirsty",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(水) (shuǐ, \"water\") + phonetic: 曷(曷) (hé, \"dry\") = dry or exhausted of water -> thirsty",
+    "interpretation": "The character 渴(kě, \"thirsty\") combines the water radical 氵(水) to indicate the relation to water, with 曷(曷) (hé, \"dry\") as the phonetic component, suggesting dryness or a lack of water, which directly conveys the concept of thirst.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "曷",
+      "trad": "曷",
+      "pinyin": "hé",
+      "english": "dry"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我感觉非常渴(我感覺非常渴)。",
+      "pinyin": "Wǒ gǎnjué fēicháng kě.",
+      "english": "I feel very thirsty."
+    },
+    {
+      "chinese": "长时间运动后(長時間運動後)，他开始感到渴(他開始感到渴)。",
+      "pinyin": "Cháng shíjiān yùndòng hòu, tā kāishǐ gǎndào kě.",
+      "english": "After long exercise, he started to feel thirsty."
+    },
+    {
+      "chinese": "口渴时(口渴時)，喝一杯冰水很解乏(喝一杯冰水很解乏)。",
+      "pinyin": "Kǒu kě shí, hē yì bēi bīngshuǐ hěn jiěfá.",
+      "english": "When thirsty, drinking a glass of iced water is very refreshing."
+    }
+  ]
+}

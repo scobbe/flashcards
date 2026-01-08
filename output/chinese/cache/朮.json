@@ -1,31 +1,15 @@
 {
   "simplified": "朮",
   "traditional": "朮",
-  "pinyin": "zhú",
-  "english": "millet",
+  "pinyin": "shù",
+  "english": "millet plant",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts stalks of millet",
-    "interpretation": "朮(朮) (zhú, \"millet\") originally depicted a stalk of millet plants, which is a staple grain. The character visually resembles plant stalks, emphasizing its meaning directly.",
+    "description": "Depicts a millet plant",
+    "interpretation": "The character depicts a millet plant, showing its original meaning as a representation of the plant itself. It serves as the basis for characters like 秫(秫) (shú, 'sticky millet').",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "朮是一种古老的谷物(朮是一種古老的穀物)。",
-      "pinyin": "Zhú shì yī zhǒng gǔlǎo de gǔwù.",
-      "english": "Millet is an ancient grain."
-    },
-    {
-      "chinese": "农夫在田间发现朮成熟(農夫在田間發現朮成熟)，村民欢庆丰收(村民歡慶豐收)。",
-      "pinyin": "Nóngfū zài tiánjiān fāxiàn zhú chéngshú, cūnmín huānqìng fēngshōu.",
-      "english": "The farmer found the millet ripe in the field, and the villagers celebrated the harvest."
-    },
-    {
-      "chinese": "古代诗人赞美朮(古代詩人讚美朮)。",
-      "pinyin": "Gǔdài shīrén zànměi zhú.",
-      "english": "Ancient poets admired the millet."
-    }
-  ]
+  "examples": []
 }

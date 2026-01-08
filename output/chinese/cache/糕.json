@@ -1,0 +1,44 @@
+{
+  "simplified": "糕",
+  "traditional": "糕",
+  "pinyin": "gāo",
+  "english": "cake",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "米(米) (mǐ, \"rice\") + 羔(羔) (gāo, \"lamb\") = rice-based food using lamb as phonetic reference -> cake",
+    "interpretation": "The character 糕(gāo) combines 米(米) (mǐ, \"rice\") to signify its use of rice flour in food products, with 羔(羔) (gāo, \"lamb\") serving as the phonetic component, subtly alluding to food and cooking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "羔",
+      "trad": "羔",
+      "pinyin": "gāo",
+      "english": "lamb"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一个糕(我買了一個糕)。",
+      "pinyin": "Wǒ mǎile yīgè gāo.",
+      "english": "I bought a cake."
+    },
+    {
+      "chinese": "这个糕很甜(這個糕很甜)，让人垂涎欲滴(讓人垂涎欲滴)。",
+      "pinyin": "Zhège gāo hěn tián, ràng rén chuíxián yù dī.",
+      "english": "This cake is very sweet, making people drool."
+    },
+    {
+      "chinese": "生日宴会上(生日宴會上)，大家享用了精美的糕(大家享用了精美的糕)。",
+      "pinyin": "Shēngrì yànhuì shàng, dàjiā xiǎngyòngle jīngměi de gāo.",
+      "english": "At the birthday party, everyone enjoyed the exquisite cake."
+    }
+  ]
+}

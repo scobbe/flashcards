@@ -1,0 +1,39 @@
+{
+  "simplified": "雜",
+  "traditional": "雜",
+  "pinyin": "zá",
+  "english": "mixed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "衣(衣) (yī, \"clothes\") + 集(集) (jí, \"assemble\") = combination of various colors in clothes -> mixed",
+    "interpretation": "The character 雜 originally referred to dyed clothes incorporating various colors, combining the semantic component 衣(衣) (yī, \"clothes\") with the phonetic 集(集) (jí, \"assemble\"). This reflects the idea of mixing various elements or colors into a single entity, as one would with clothing dyes.",
+    "simplification": "Simplified to 杂 by replacing 集(集) (jí, \"assemble\") with 九(九) (jiǔ, \"nine\") and reducing 衣(衣) (yī, \"clothes\") to a single stroke."
+  },
+  "parts": [
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothes"
+    },
+    {
+      "char": "集",
+      "trad": "集",
+      "pinyin": "jí",
+      "english": "assemble"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那本书的内容非常雜(那本書的內容非常雜)。",
+      "pinyin": "Nà běn shū de nèiróng fēicháng zá.",
+      "english": "The content of that book is very mixed."
+    },
+    {
+      "chinese": "他的爱好既有看书的也有打球的(他的愛好既有看書的也有打球的)，十分雜(十分雜)。",
+      "pinyin": "Tā de àihào jì yǒu kànshū de yě yǒu dǎqiú de, shífēn zá.",
+      "english": "His hobbies include both reading and playing ball, making them quite mixed."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "專",
+  "traditional": "專",
+  "pinyin": "zhuān",
+  "english": "focused",
+  "etymology": {
+    "type": "ideogrammic compound and phono-semantic compound",
+    "description": "叀(叀) (zhuān, \"spindle\") + 又(又) (yòu, \"hand\") = a hand turning a spindle -> semantic 寸(寸) (cùn, \"inch\") later replaced 又 -> focused meaning",
+    "interpretation": "專(zhuān) (\"focused\") combines the concept of a spindle, which symbolizes spinning or bundling, with the notion of a hand, suggesting action or manipulation. The hand component was later stylized to an inch, indicating precision or concentration, aligning with the idea of focusing multiple elements into one.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "叀",
+      "trad": "叀",
+      "pinyin": "zhuān",
+      "english": "spindle"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小明專心於數學(小明專心於數學)。",
+      "pinyin": "Xiǎo míng zhuān xīn yú shùxué.",
+      "english": "Xiaoming is focused on mathematics."
+    },
+    {
+      "chinese": "書店專賣古籍(書店專賣古籍)，吸引眾多收藏家(吸引眾多收藏家)。",
+      "pinyin": "Shūdiàn zhuān mài gǔjí, xīyǐn zhòngduō shōu cáng jiā.",
+      "english": "The bookstore exclusively sells antique books, attracting many collectors."
+    },
+    {
+      "chinese": "工廠專注改進技術(工廠專注改進技術)。",
+      "pinyin": "Gōngchǎng zhuān zhù gǎijìn jìshù.",
+      "english": "The factory is focused on improving its technology."
+    }
+  ]
+}

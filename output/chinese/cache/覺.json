@@ -1,0 +1,44 @@
+{
+  "simplified": "覺",
+  "traditional": "覺",
+  "pinyin": "jué",
+  "english": "feel",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𦥯 (phonetic) + 見 (semantic 'see') = phono-semantic compound for 'feel'",
+    "interpretation": "The character 覺(覺) (jué, 'feel') uses the phonetic component 𦥯 with the semantic component 見(見) (jiàn, 'see'), logically tying the sense of feeling to perception or awareness, which involves seeing or noticing something.",
+    "simplification": "The simplified form 覚 used in some historical periods replaced the phonetic component to reduce complexity, though it is no longer widely used."
+  },
+  "parts": [
+    {
+      "char": "𦥯",
+      "trad": "𦥯",
+      "pinyin": "",
+      "english": "phonetic component"
+    },
+    {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "听到消息后(聽到消息後)，我覺得非常震惊(我覺得非常震驚)。",
+      "pinyin": "Tīng dào xiāoxī hòu, wǒ juéde fēicháng zhènjīng.",
+      "english": "After hearing the news, I felt very shocked."
+    },
+    {
+      "chinese": "独处时(獨處時)，我覺得格外轻松(我覺得格外輕鬆)。",
+      "pinyin": "Dú chǔ shí, wǒ juéde géwài qīngsōng.",
+      "english": "When I am alone, I feel exceptionally relaxed."
+    },
+    {
+      "chinese": "失去朋友后(失去朋友後)，他覺得生活变得空虚(他覺得生活變得空虛)。",
+      "pinyin": "Shīqù péngyǒu hòu, tā juéde shēnghuó biànde kōngxū.",
+      "english": "After losing his friend, he felt that life had become empty."
+    }
+  ]
+}

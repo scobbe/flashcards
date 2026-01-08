@@ -1,0 +1,39 @@
+{
+  "simplified": "魁",
+  "traditional": "魁",
+  "pinyin": "kuí",
+  "english": "leader",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 鬼(鬼) (guǐ, \"ghost\") + semantic 斗(斗) (dǒu, \"ladle\") -> soup ladle -> \"leader\"",
+    "interpretation": "The character 魁(魁) combines 鬼(鬼) (guǐ, \"ghost\") as the phonetic component with 斗(斗) (dǒu, \"ladle\") as the semantic component. Originally representing a large soup ladle, it evolved to mean \"leader\" due to associations with a prominent or significant position.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    },
+    {
+      "char": "斗",
+      "trad": "斗",
+      "pinyin": "dǒu",
+      "english": "ladle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被誉为乐队的魁(他被譽為樂隊的魁)，深受大众敬仰(深受大眾敬仰)。",
+      "pinyin": "Tā bèi yù wéi yuèduì de kuí, shēn shòu dàzhòng jìngyǎng.",
+      "english": "He is hailed as the leader of the band and is deeply admired by the public."
+    },
+    {
+      "chinese": "学校选举时(學校選舉時)，他理所当然当上了魁(他理所當然當上了魁)。",
+      "pinyin": "Xuéxiào xuǎnjǔ shí, tā lǐsuǒdāngrán dāng shàng le kuí.",
+      "english": "During the school election, he naturally became the leader."
+    }
+  ]
+}

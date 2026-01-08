@@ -2,30 +2,33 @@
   "simplified": "龰",
   "traditional": "龰",
   "pinyin": "yù",
-  "english": "component stylization",
+  "english": "stylized feet",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing up with three toes and a sole -> stylized as 龰 (龰) (yù, 'component stylization')",
-    "interpretation": "The character 龰 (龰) (yù, 'component stylization') stylizes the original pictogram of a foot with three toes and a sole, highlighting the upward orientation. This stylization serves as a basis for several other characters related to motion or elements related to feet.",
+    "description": "Depicts a footprint pointing up -> stylized as 龰",
+    "interpretation": "The character 龰 (yù, 'stylized feet') is a pictographic representation of a footprint with the toes pointing upwards. It was stylized over time from its original form and is related to the character 止(止) (zhǐ, 'foot'), which captures the idea of resting a foot, evolved from oracle script depictions with three toes and a sole.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "这个汉字采用了精妙的龰(龰)，构法巧妙(構法巧妙)。",
-      "pinyin": "Zhège hànzì cǎiyòngle jīngmiào de yù(龰)，gòufǎ qiǎomiào(構法巧妙)。",
-      "english": "This Chinese character employs an exquisite yù component, and its construction is ingeniously designed."
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
     },
     {
-      "chinese": "书法家研究汉字中的龰(龰)，探讨部件的美学(探討部件的美學)。",
-      "pinyin": "Shūfǎjiā yánjiū hànzì zhōng de yù(龰)，tàn tǎo bùjiàn de měixué(探討部件的美學)。",
-      "english": "Calligraphers study the yù found in Chinese characters, exploring the aesthetics of component design."
+      "char": "趾",
+      "trad": "趾",
+      "pinyin": "zhǐ",
+      "english": "toe"
     },
     {
-      "chinese": "古代篆刻作品常用龰(龰)，来凸显文字的精髓(凸顯文字的精髓)。",
-      "pinyin": "Gǔdài zhuànkè zuòpǐn cháng yòng yù(龰)，lái túxiǎn wénzì de jīngsuǐ(凸顯文字的精髓)。",
-      "english": "Ancient seal carvings often utilized the yù to highlight the essence of the characters."
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

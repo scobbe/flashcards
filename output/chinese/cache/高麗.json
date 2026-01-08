@@ -5,8 +5,8 @@
   "english": "Korea; Goryeo dynasty",
   "etymology": {
     "type": "compound word",
-    "description": "高(高) (gāo, \"high\") + 麗(麗) (lí, \"beautiful\") refers to the ancient kingdom of Goryeo, which is the origin of the English name \"Korea.\" The name emphasizes the grandeur and beauty of the kingdom during its existence.",
-    "interpretation": "高麗(高麗) (gāolí) was the name of the Goryeo dynasty, which ruled Korea from 918 to 1392. The term reflects the kingdom's cultural and political significance in the Korean peninsula's history.",
+    "description": "高(高) (gāo, \"high\") + 麗(麗) (lí, \"beautiful\")",
+    "interpretation": "高麗(高麗) (gāolí) refers to the Goryeo dynasty, a historical Korean kingdom lasting from 918 to 1392. The name is derived from 고구려(Goguryeo), one of the Three Kingdoms of Korea, and was adopted as a mark of pride and distinctiveness. 高(高) (gāo, \"high\") and 麗(麗) (lí, \"beautiful\") highlight the elevated and beautiful nature attributed to the kingdom.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "麗",
       "trad": "麗",
       "pinyin": "lí",
-      "english": "beautiful; magnificent; elegant"
+      "english": "beautiful; magnificent"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "高麗曾经辉煌(高麗曾經輝煌)。",
-      "pinyin": "Gāolí céngjīng huīhuáng.",
-      "english": "Goryeo once prospered."
+      "chinese": "高麗拥有丰富的文化遗产(高麗擁有豐富的文化遺產)。",
+      "pinyin": "Gāolí yǒngyǒu fēngfù de wénhuà yíchǎn.",
+      "english": "Goryeo had a rich cultural heritage."
     },
     {
-      "chinese": "高麗与中国有深厚的文化交流(高麗與中國有深厚的文化交流)。",
-      "pinyin": "Gāolí yǔ Zhōngguó yǒu shēnhòu de wénhuà jiāoliú.",
-      "english": "Korea had profound cultural exchanges with China."
+      "chinese": "学者研究高麗历史(學者研究高麗歷史)，揭示其独特魅力(揭示其獨特魅力)。",
+      "pinyin": "Xuézhě yánjiū Gāolí lìshǐ, jiēshì qí dútè mèilì.",
+      "english": "Scholars study Goryeo history, revealing its unique charm."
     },
     {
-      "chinese": "学者研究高麗历史(學者研究高麗歷史)，试图揭示古代东亚的变迁(試圖揭示古代東亞的變遷)。",
-      "pinyin": "Xuézhě yánjiū Gāolí lìshǐ, shìtú jiēshì gǔdài Dōngyà de biànqiān.",
-      "english": "Scholars study the history of Korea, attempting to reveal the transformations of ancient East Asia."
+      "chinese": "高麗时期曾是文化交流的中心(高麗時期曾是文化交流的中心)。",
+      "pinyin": "Gāolí shíqī céng shì wénhuà jiāoliú de zhōngxīn.",
+      "english": "During the Goryeo period, it was a center of cultural exchange."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "凱",
+  "traditional": "凱",
+  "pinyin": "kǎi",
+  "english": "music of triumph",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "豈(豈) (qǐ, \"drum\") + 几(几) (jī, \"small table\") = phonetic element from 豈, semantic element from 豈 or 几 -> originally referred to triumph music",
+    "interpretation": "The character 凱(kǎi) uses 豈(豈) (qǐ, \"drum\") as the phonetic component, reflecting its original associative meaning with drum music used in celebrations of victory, and 几(几) (jī, \"small table\") as part of its semantic construction.",
+    "simplification": "The character was simplified to 凯 by using a different component structure that still reflects the phonetic and semantic elements."
+  },
+  "parts": [
+    {
+      "char": "豈",
+      "trad": "豈",
+      "pinyin": "qǐ",
+      "english": "drum"
+    },
+    {
+      "char": "几",
+      "trad": "几",
+      "pinyin": "jī",
+      "english": "small table"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "战场上胜利的号角吹响了凱(戰場上勝利的號角吹響了凱)。",
+      "pinyin": "Zhànchǎng shàng shènglì de hàojiǎo chuīxiǎng le kǎi.",
+      "english": "On the battlefield, the victorious bugle sounded the music of triumph."
+    },
+    {
+      "chinese": "庆功宴上(慶功宴上)，乐师奏响凱(樂師奏響凱)。",
+      "pinyin": "Qìnggōngyàn shàng, yuèshī zòu xiǎng kǎi.",
+      "english": "At the victory banquet, the musicians played the music of triumph."
+    },
+    {
+      "chinese": "胜利的旋律激励士兵(勝利的旋律激勵士兵)，凱悠扬在耳畔(凱悠揚在耳畔)。",
+      "pinyin": "Shènglì de xuánlǜ jīlì shìbīng, kǎi yōuyáng zài ěrpàn.",
+      "english": "The victorious melody inspired the soldiers, while the music of triumph resonated softly by their ears."
+    }
+  ]
+}

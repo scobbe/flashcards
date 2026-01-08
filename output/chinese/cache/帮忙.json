@@ -1,0 +1,44 @@
+{
+  "simplified": "帮忙",
+  "traditional": "幫忙",
+  "pinyin": "bāngmáng",
+  "english": "to help; to give assistance",
+  "etymology": {
+    "type": "compound word",
+    "description": "幫(幫) (bāng, \"help\") + 忙(忙) (máng, \"busy\") = to help; to give assistance",
+    "interpretation": "The word 幫忙(幫忙) (bāngmáng, \"to help; to give assistance\") combines 幫(幫) (bāng, \"help\") and 忙(忙) (máng, \"busy\"). The term suggests the act of assisting someone who is busy, thus providing them with relief or support.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幫",
+      "trad": "幫",
+      "pinyin": "bāng",
+      "english": "help; assist"
+    },
+    {
+      "char": "忙",
+      "trad": "忙",
+      "pinyin": "máng",
+      "english": "busy; hurry; be busy with"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你帮忙(請你幫忙)。",
+      "pinyin": "Qǐng nǐ bāngmáng.",
+      "english": "Please help."
+    },
+    {
+      "chinese": "我正在忙碌(我正在忙碌)，无法帮忙(無法幫忙)。",
+      "pinyin": "Wǒ zhèngzài mánglù, wúfǎ bāngmáng.",
+      "english": "I am busy and cannot help."
+    },
+    {
+      "chinese": "小明常常帮忙(小明常常幫忙)，他很受大家喜欢(他很受大家喜歡)。",
+      "pinyin": "Xiǎomíng chángcháng bāngmáng, tā hěn shòu dàjiā xǐhuān.",
+      "english": "Xiaoming often helps and is liked by everyone."
+    }
+  ]
+}

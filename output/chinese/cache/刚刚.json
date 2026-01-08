@@ -1,0 +1,39 @@
+{
+  "simplified": "刚刚",
+  "traditional": "剛剛",
+  "pinyin": "gānggāng",
+  "english": "just now",
+  "etymology": {
+    "type": "compound word",
+    "description": "刚(剛) (gāng, \"just; firm\") + 刚(剛) (gāng, \"just; firm\") reinforce the sense of immediacy or recent occurrence.",
+    "interpretation": "The repetition of 刚(剛) (gāng, \"just; firm\") emphasizes the idea of something having happened very recently or just moments before. This concept is reflected in its common use to indicate 'just now' or 'just recently' in time expressions. The doubling intensifies the immediacy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刚",
+      "trad": "剛",
+      "pinyin": "gāng",
+      "english": "just; firm"
+    },
+    {
+      "char": "刚",
+      "trad": "剛",
+      "pinyin": "gāng",
+      "english": "just; firm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他刚刚走(他剛剛走)。",
+      "pinyin": "Tā gānggāng zǒu.",
+      "english": "He just left."
+    },
+    {
+      "chinese": "我刚刚到了(我剛剛到了)，看到朋友站在门外(看到朋友站在門外)。",
+      "pinyin": "Wǒ gānggāng dào le, kàn dào péngyǒu zhàn zài ménwài.",
+      "english": "I just arrived and saw a friend standing outside the door."
+    }
+  ]
+}

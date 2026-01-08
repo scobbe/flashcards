@@ -1,0 +1,44 @@
+{
+  "simplified": "饭馆",
+  "traditional": "飯館",
+  "pinyin": "fànguǎn",
+  "english": "restaurant",
+  "etymology": {
+    "type": "compound word",
+    "description": "饭(飯) (fàn, \"meal; cooked rice\") + 馆(館) (guǎn, \"building\") = a place where meals are served -> restaurant",
+    "interpretation": "The term combines 饭(飯) (fàn, \"meal; cooked rice\"), a fundamental part of Chinese diet, with 馆(館) (guǎn, \"building\"), indicating a place where meals are prepared and served to guests, which perfectly describes a restaurant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "饭",
+      "trad": "飯",
+      "pinyin": "fàn",
+      "english": "meal; cooked rice"
+    },
+    {
+      "char": "馆",
+      "trad": "館",
+      "pinyin": "guǎn",
+      "english": "building"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们去饭馆吃饭(我們去飯館吃飯)。",
+      "pinyin": "Wǒmen qù fànguǎn chī fàn.",
+      "english": "Let's go eat at a restaurant."
+    },
+    {
+      "chinese": "这个饭馆很热闹(這個飯館很熱鬧)，服务态度好(服務態度好)。",
+      "pinyin": "Zhège fànguǎn hěn rènào, fúwù tàidù hǎo.",
+      "english": "This restaurant is very lively, and the service is good."
+    },
+    {
+      "chinese": "小李梦想着有一天开自己的饭馆(小李夢想著有一天開自己的飯館)。",
+      "pinyin": "Xiǎo Lǐ mèngxiǎngzhe yǒu yītiān kāi zìjǐ de fànguǎn.",
+      "english": "Little Li dreams of one day owning his own restaurant."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "天气预报",
+  "traditional": "天氣預報",
+  "pinyin": "tiānqì yùbào",
+  "english": "weather forecast",
+  "etymology": {
+    "type": "compound word",
+    "description": "天(天) (tiān, \"heaven; sky\"), 氣(氣) (qì, \"air; atmosphere\"), 預(預) (yù, \"in advance; beforehand\"), 報(報) (bào, \"report; announce\")",
+    "interpretation": "The word 天氣預報 (tiānqì yùbào) combines the elements of the sky and atmosphere (天氣/天氣) with the concept of reporting or announcing in advance (預報/預報), which effectively communicates the idea of predicting and announcing the weather conditions ahead of time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "天氣",
+      "trad": "天氣",
+      "pinyin": "tiānqì",
+      "english": "heaven; sky; air; atmosphere"
+    },
+    {
+      "char": "預報",
+      "trad": "預報",
+      "pinyin": "yùbào",
+      "english": "in advance; beforehand; report; announce"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天早上看天气预报(我每天早上看天氣預報)。",
+      "pinyin": "Wǒ měitiān zǎoshang kàn tiānqì yùbào.",
+      "english": "I check the weather forecast every morning."
+    },
+    {
+      "chinese": "电视上报道天气预报(電視上報道天氣預報)，预示着大风天气(預示著大風天氣)。",
+      "pinyin": "Diànshì shàng bàodào tiānqì yùbào, yùshìzhe dàfēng tiānqì.",
+      "english": "The TV broadcasts the weather forecast, indicating strong winds."
+    }
+  ]
+}

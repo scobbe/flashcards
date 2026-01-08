@@ -30,21 +30,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他的𠬞很灵活(他的𠬞很靈活)。",
-      "pinyin": "Tā de shǒu hěn línghuó.",
-      "english": "His hands are very agile."
-    },
-    {
-      "chinese": "妈妈用𠬞做饭(媽媽用𠬞做飯)。",
-      "pinyin": "Māmā yòng shǒu zuò fàn.",
-      "english": "Mother cooks with her hands."
-    },
-    {
-      "chinese": "他举起𠬞(他舉起𠬞)，帮助孩子站起来(幫助孩子站起來)。",
-      "pinyin": "Tā jǔ qǐ shǒu, bāngzhù háizi zhàn qǐlái.",
-      "english": "He raised his hands, helping the child stand up."
-    }
-  ]
+  "examples": []
 }

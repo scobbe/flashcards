@@ -4,23 +4,12 @@
   "pinyin": "(no pinyin)",
   "english": "knife",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a knife",
-    "interpretation": "The character 𠂈 is a simple graphical representation of a knife. It visually suggests the blade of a knife with its sharp and downward-pointing form, indicating its use as a tool for cutting.",
+    "type": "variant",
+    "description": "A variant form of 𠄍 (no specific breakdown available for etymology)",
+    "interpretation": "𠂈 is an alternate form of 𠄍, sharing the same or similar meaning and usage as a representation of 'knife.'",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他用𠂈(他用𠂈)，切开面包(切開麵包)。",
-      "pinyin": "Tā yòng dāo, qiē kāi miànbāo.",
-      "english": "He used a knife to cut the bread."
-    },
-    {
-      "chinese": "工人用𠂈(工人用𠂈)，精心雕刻木雕(精心雕刻木雕)。",
-      "pinyin": "Gōngrén yòng dāo, jīngxīn diāokè mùdiāo.",
-      "english": "The worker used the knife to carefully carve the wood."
-    }
-  ]
+  "examples": []
 }

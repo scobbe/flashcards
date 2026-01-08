@@ -5,8 +5,8 @@
   "english": "helmet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "皿(皿) (mǐn, \"vessel\") + 灰(灰) (huī, phonetic) = vessel-like shape -> original meaning as a type of vessel -> evolved to mean 'helmet' as an inversion of a bowl-like form",
-    "interpretation": "盔(盔) (kuī, \"helmet\") combines the shape of a vessel from 皿(皿) (mǐn, \"vessel\") with the sound from 灰(灰) (huī) to emphasize its bowl-like form, which is protective when reversed like a helmet.",
+    "description": "皿(皿) (mǐn, \"dish\") + phonetic 威(威) (wēi) = resembling dish for the head -> helmet",
+    "interpretation": "The character 盔(盔) (kuī, \"helmet\") combines 皿(皿) (mǐn, \"dish\") as the semantic element, suggesting the shape or function of a helmet covering the head like a dish. The phonetic 威(威) (wēi) contributes the sound, creating an association with protection or a covering, like a helmet.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,26 @@
       "char": "皿",
       "trad": "皿",
       "pinyin": "mǐn",
-      "english": "vessel"
+      "english": "dish"
     },
     {
-      "char": "灰",
-      "trad": "灰",
-      "pinyin": "huī",
-      "english": "ash"
+      "char": "威",
+      "trad": "威",
+      "pinyin": "wēi",
+      "english": "might"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "士兵戴着铁盔(士兵戴著鐵盔)。",
-      "pinyin": "Shìbīng dàizhe tiě kuī.",
-      "english": "The soldier wears an iron helmet."
+      "chinese": "骑士戴上盔(騎士戴上盔)，奋勇冲锋(奮勇衝鋒)。",
+      "pinyin": "Qíshì dàishàng kuī，fènyǒng chōngfēng。",
+      "english": "The knight put on his helmet and charged valiantly."
     },
     {
-      "chinese": "古代战士佩戴华丽的盔(古代戰士佩戴華麗的盔)，流露出英雄本色(流露出英雄本色)。",
-      "pinyin": "Gǔdài zhànshì pèidài huálì de kuī, liúlù chū yīngxióng běnsè.",
-      "english": "Ancient warriors don splendid helmets, revealing their heroic character."
-    },
-    {
-      "chinese": "骑士戴上沉重的盔(騎士戴上沉重的盔)。",
-      "pinyin": "Qíshì dàishàng chénzhòng de kuī.",
-      "english": "The knight puts on a heavy helmet."
+      "chinese": "古代战士佩戴盔(古代戰士佩戴盔)，抵御敌人(抵禦敵人)。",
+      "pinyin": "Gǔdài zhànshì pèidài kuī，dǐyù dírén。",
+      "english": "Ancient warriors wore helmets to fend off enemies."
     }
   ]
 }

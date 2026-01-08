@@ -1,0 +1,50 @@
+{
+  "simplified": "队",
+  "traditional": "隊",
+  "pinyin": "duì",
+  "english": "team; row",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "阜(阜) (fù, \"mound\") + 㒸(㒸) (suì) = semantic element for 'many' + phonetic providing sound",
+    "interpretation": "The character originally incorporates the idea of 'many' from the 阜(阜) (fù, \"mound\") meaning, suggesting a group or collection, while 㒸(㒸) (suì) serves as a phonetic guide. Together, they create the notion of gathering, as in a 'team' or 'row'.",
+    "simplification": "In simplified Chinese, 队(隊) uses 阜(阜) (fù, \"mound\") with 人(人) (rén, \"people\") to emphasize gathering of people, aligning it more with the modern meaning of 'team' or 'row'."
+  },
+  "parts": [
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "㒸",
+      "trad": "㒸",
+      "pinyin": "suì",
+      "english": "phonetic component"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "people"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "足球队在场上奔跑(足球隊在場上奔跑)。",
+      "pinyin": "Zúqiú duì zài chǎngshàng bēnpǎo.",
+      "english": "The soccer team is running on the field."
+    },
+    {
+      "chinese": "我们加入了队(我們加入了隊)，一起参加比赛(一起參加比賽)。",
+      "pinyin": "Wǒmen jiārùle duì, yīqǐ cānjiā bǐsài.",
+      "english": "We joined the team and participated in the competition together."
+    },
+    {
+      "chinese": "花朵排列成一队(花朵排列成一隊)，在花园中绽放(在花園中綻放)。",
+      "pinyin": "Huāduǒ páiliè chéng yī duì, zài huāyuán zhànfàng.",
+      "english": "The flowers are arranged in a row and bloom in the garden."
+    }
+  ]
+}

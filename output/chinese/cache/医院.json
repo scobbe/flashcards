@@ -1,0 +1,44 @@
+{
+  "simplified": "医院",
+  "traditional": "醫院",
+  "pinyin": "yīyuàn",
+  "english": "hospital",
+  "etymology": {
+    "type": "compound word",
+    "description": "医(醫) (yī, \"medicine; doctor\") + 院(院) (yuàn, \"courtyard; institution\") = an institution for practicing medicine -> hospital",
+    "interpretation": "A 院(院) (yuàn, \"institution\") where 医(醫) (yī, \"medicine\") is practiced is a place where people go to receive medical treatment and healthcare.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "医",
+      "trad": "醫",
+      "pinyin": "yī",
+      "english": "medicine; doctor"
+    },
+    {
+      "char": "院",
+      "trad": "院",
+      "pinyin": "yuàn",
+      "english": "courtyard; institution"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我去医院(我去醫院)，看医生(看醫生)。",
+      "pinyin": "Wǒ qù yīyuàn, kàn yīshēng.",
+      "english": "I go to the hospital to see a doctor."
+    },
+    {
+      "chinese": "医院在城市中心(醫院在城市中心)，设备先进(設備先進)。",
+      "pinyin": "Yīyuàn zài chéngshì zhōngxīn, shèbèi xiānjìn.",
+      "english": "The hospital is located in the city center with advanced equipment."
+    },
+    {
+      "chinese": "医生在医院救治病人(醫生在醫院救治病人)。",
+      "pinyin": "Yīshēng zài yīyuàn jiùzhì bìngrén.",
+      "english": "Doctors treat patients in the hospital."
+    }
+  ]
+}

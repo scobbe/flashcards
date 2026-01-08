@@ -1,0 +1,39 @@
+{
+  "simplified": "乎",
+  "traditional": "乎",
+  "pinyin": "hū",
+  "english": "exhale",
+  "etymology": {
+    "type": "ideogrammic compound and phono-semantic compound",
+    "description": "風(風) (fēng, \"wind; air\") + 丂(丂) (kǎo, \"branch\") = exhalation -> 呼(呼) (hū, \"call; cry\")",
+    "interpretation": "The character 乎(hū, \"exhale\") combines the semantic element of wind or air with the phonetic element 丂(kǎo, \"branch\"). These components together suggest the action of exhaling air, which relates to the ancient form of 呼(hū, \"call; cry\") emphasizing sound production involving breath.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "風",
+      "trad": "風",
+      "pinyin": "fēng",
+      "english": "wind"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "branch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他放下担子(他放下擔子)，呼乎吐气(呼乎吐氣)。",
+      "pinyin": "Tā fàngxià dānzi, hū tǔqì.",
+      "english": "He put down his burden and exhaled."
+    },
+    {
+      "chinese": "经过长久等待(經過長久等待)，他呼乎一口气(他呼乎一口氣)。",
+      "pinyin": "Jīngguò chángjiǔ děngdài, tā hū yīkǒu qì.",
+      "english": "After a long wait, he exhaled deeply."
+    }
+  ]
+}

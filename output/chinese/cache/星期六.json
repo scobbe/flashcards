@@ -1,0 +1,50 @@
+{
+  "simplified": "星期六",
+  "traditional": "星期六",
+  "pinyin": "xīngqīliù",
+  "english": "Saturday",
+  "etymology": {
+    "type": "compound word",
+    "description": "星(星) (xīng, \"star\") + 期(期) (qī, \"period; time\") + 六(六) (liù, \"six\") combine to denote the sixth day of the week, Saturday. The naming convention for days of the week in Chinese is based on a numerical sequence starting from Sunday.",
+    "interpretation": "星期六(xīngqīliù, \"Saturday\") follows the sequential naming pattern used for days of the week in Chinese, with 六 (liù, \"six\") indicating it is the sixth day.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    {
+      "char": "期",
+      "trad": "期",
+      "pinyin": "qī",
+      "english": "period; time"
+    },
+    {
+      "char": "六",
+      "trad": "六",
+      "pinyin": "liù",
+      "english": "six"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "星期六(星期六)，我不上班(我不上班)。",
+      "pinyin": "Xīngqīliù, wǒ bù shàngbān.",
+      "english": "I don't work on Saturday."
+    },
+    {
+      "chinese": "星期六(星期六)，我和朋友一起去郊游(我和朋友一起去郊遊)。",
+      "pinyin": "Xīngqīliù, wǒ hé péngyǒu yīqǐ qù jiāoyóu.",
+      "english": "On Saturday, I go for a picnic with my friends."
+    },
+    {
+      "chinese": "星期六(星期六)，我喜欢睡到自然醒(我喜歡睡到自然醒)。",
+      "pinyin": "Xīngqīliù, wǒ xǐhuān shuì dào zìrán xǐng.",
+      "english": "On Saturday, I like to sleep in."
+    }
+  ]
+}

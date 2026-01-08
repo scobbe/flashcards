@@ -2,38 +2,21 @@
   "simplified": "匃",
   "traditional": "匃",
   "pinyin": "gài",
-  "english": "meaning lacking",
+  "english": "lack",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "匚(匚) (fāng, 'box') + 乞(乞) (qǐ, 'beg') = box representing 'out of', borrow phonetic 乞 for sound -> 'lacking'",
-    "interpretation": "This character combines the idea of an 'empty box' with the phonetic component for 'begging', naturally conveying the sense of something being absent or lacking.",
+    "type": "variant form",
+    "description": "Variant of 丐(丐) (gài, \"beggar/\u0010lack\")",
+    "interpretation": "The character 匃 is a variant form of 丐(丐) and shares the same meaning related to lacking or begging.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "匚",
-      "trad": "匚",
-      "pinyin": "fāng",
-      "english": "box"
-    },
-    {
-      "char": "乞",
-      "trad": "乞",
-      "pinyin": "qǐ",
-      "english": "beg"
+      "char": "丐",
+      "trad": "丐",
+      "pinyin": "gài",
+      "english": "beggar/lack"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "这篇文章匃(匃)。",
-      "pinyin": "Zhè piān wénzhāng gài.",
-      "english": "This article lacks meaning."
-    },
-    {
-      "chinese": "他的话语透出匃(匃)，让人难以领会(讓人難以領會)。",
-      "pinyin": "Tā de huàyǔ tòuchū gài, ràng rén nányǐ lǐnghuì.",
-      "english": "His words reveal a lack of meaning, making it hard for people to comprehend."
-    }
-  ]
+  "examples": []
 }

@@ -2,43 +2,49 @@
   "simplified": "区",
   "traditional": "區",
   "pinyin": "qū",
-  "english": "district; area; region; zone",
+  "english": "district; region; area",
   "etymology": {
-    "type": "simplified from 區",
-    "description": "區(區) (qū, \"district\") originally consists of 匸(匸) (xì, \"box\") + 品(品) (pǐn, \"many people\") = representation of multiple people within an enclosed area -> simplification: 品(金) (pǐn, \"many people\") changed to 乂(乂) (yì, \"to govern\") for ease",
-    "interpretation": "The character 區(區) (qū, \"district\") visually represented an area containing many people, signifying a district. The simplification to 区(區) (qū, \"district\") replaced 品(品) (pǐn, \"many people\") with 乂(乂) (yì, \"to govern\") which is visually less complex and more cursive-friendly.",
-    "simplification": "The original character 區(區) (qū, \"district\") was simplified to 区(區) (qū, \"district\") by replacing 品(品) (pǐn, \"many people\") with the simpler 乂(乂) (yì, \"to govern\"), making it easier to write and remember while maintaining the sense of an enclosed area."
+    "type": "ideogrammic compound",
+    "description": "匸 (enclosed space) + 品 (many people) = many people within an enclosure -> area, district",
+    "interpretation": "The character 區(區) (qū, 'district') visually represents an area where many people reside, symbolized by 品(品) (pǐn, 'goods/people') enclosed within 匸(匸) (xì, 'enclosure'). This layout effectively conveys the idea of a defined space containing a community or district.",
+    "simplification": "區(區) was simplified to 区(區) by reducing 品(品) to 乂(乂) (yì, 'to manage'), keeping the enclosure meaning while reducing strokes."
   },
   "parts": [
     {
       "char": "匸",
       "trad": "匸",
       "pinyin": "xì",
-      "english": "box"
+      "english": "enclosure"
     },
     {
       "char": "品",
       "trad": "品",
       "pinyin": "pǐn",
-      "english": "many people"
+      "english": "goods/people"
+    },
+    {
+      "char": "乂",
+      "trad": "乂",
+      "pinyin": "yì",
+      "english": "to manage"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "城市按功能分成多个区(城市按功能分成多個區)，各区各具特色(各區各具特色)。",
-      "pinyin": "Chéngshì àn gōngnéng fēnchéng duō gè qū, gè qū gè jù tèsè.",
-      "english": "The city is divided into several districts based on function, and each district has its own distinct characteristics."
+      "chinese": "我住在繁华的区(我住在繁華的區)。",
+      "pinyin": "Wǒ zhù zài fán huá de qū.",
+      "english": "I live in a bustling district."
     },
     {
-      "chinese": "古城设有历史文化区(古城設有歷史文化區)，保护传统韵味(保護傳統韻味)。",
-      "pinyin": "Gǔchéng shè yǒu lìshǐ wénhuà qū, bǎohù chuántǒng yùnwèi.",
-      "english": "The ancient city has a historical and cultural district that preserves its traditional charm."
+      "chinese": "古代文人常在这区(古代文人常在這區)，寻觅灵感(尋覓靈感)。",
+      "pinyin": "Gǔ dài wén rén cháng zài zhè qū, xún mì líng gǎn.",
+      "english": "Ancient literati often sought inspiration in this region."
     },
     {
-      "chinese": "现代城区扩展到郊区(現代城區擴展到郊區)，新区正在迅速发展(新區正在迅速發展)。",
-      "pinyin": "Xiàndài chéngqū kuòzhǎn dào jiāoqū, xīn qū zhèngzài xùnsù fāzhǎn.",
-      "english": "The modern urban area has expanded into suburban regions, and the new zone is developing rapidly."
+      "chinese": "他参观了多个区(他參觀了多個區)，体验了不同的文化(體驗了不同的文化)。",
+      "pinyin": "Tā cān guān le duō gè qū, tǐ yàn le bù tóng de wén huà.",
+      "english": "He visited several districts and experienced diverse cultures."
     }
   ]
 }

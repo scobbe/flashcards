@@ -5,14 +5,14 @@
   "english": "mat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 衤(衤) (yī, \"clothing\") + phonetic 因(因) (yīn) = fabric-related surface -> mat",
-    "interpretation": "The character 裀(yīn, \"mat\") combines the silk radical, related to fabrics, with 因(yīn), indicating pronunciation, to convey the meaning of a fabric item like a mat or cushion. This is a variant of 茵(茵) (yīn, \"mat\") used specifically for fabric-related objects.",
+    "description": "衣(衣) (yī, 'clothing') + phonetic: 因(因) (yīn, 'cause') = cloth-like item -> mat",
+    "interpretation": "The character 裀(yīn, 'mat') combines 衣(衣) (yī, 'clothing'), symbolizing textiles or cloth materials, with 因(因) (yīn, 'cause') as a phonetic component. This indicates an object made of cloth, fitting for the definition of 'mat.'",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "衤",
-      "trad": "衤",
+      "char": "衣",
+      "trad": "衣",
       "pinyin": "yī",
       "english": "clothing"
     },
@@ -20,31 +20,9 @@
       "char": "因",
       "trad": "因",
       "pinyin": "yīn",
-      "english": ""
-    },
-    {
-      "char": "茵",
-      "trad": "茵",
-      "pinyin": "yīn",
-      "english": "mat"
+      "english": "cause"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "妈妈铺了一个裀(媽媽鋪了一個裀)，让客厅更温暖(讓客廳更溫暖)。",
-      "pinyin": "māmā pū le yī gè yīn, ràng kètīng gèng wēnnuǎn.",
-      "english": "Mother laid out a mat to make the living room warmer."
-    },
-    {
-      "chinese": "小猫睡在裀上(小貓睡在裀上)。",
-      "pinyin": "xiǎo māo shuì zài yīn shàng.",
-      "english": "The kitten is sleeping on the mat."
-    },
-    {
-      "chinese": "他用新买的裀(他用新買的裀)，装饰了房间(裝飾了房間)。",
-      "pinyin": "tā yòng xīn mǎi de yīn, zhuāngshì le fángjiān.",
-      "english": "He used the newly bought mat to decorate the room."
-    }
-  ]
+  "examples": []
 }

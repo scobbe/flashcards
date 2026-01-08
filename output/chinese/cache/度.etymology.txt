@@ -1,0 +1,7 @@
+[度]
+Originally an ideogrammic compound ( 會意 / 会意 ): 石 ( “ rock ” ) + 又 ( “ hand ” ) — hand measuring a piece of rock. Also a phono-semantic compound ( 形聲 / 形声 ), with 石 ( OC *djaɡ ) as a phonetic component. 石 is then corrupted into 𲟁 .
+Shuowen considers it to be a phono-semantic compound ( 形聲 / 形声 , OC *daːɡs, *daːɡ ): phonetic 庶 ( OC *hljaɡs ) + semantic 又 .
+Compare 庶 ( OC *hljaɡs ) and 席 ( OC *ljaːɡ ).
+
+[宅]
+Phono-semantic compound ( 形聲 / 形声 , OC *r'aːɡ ): semantic 宀 ( “ roof ” ) + phonetic 乇 ( OC *ʔr'aːɡ ) .

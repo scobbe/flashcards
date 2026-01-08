@@ -1,0 +1,44 @@
+{
+  "simplified": "氣",
+  "traditional": "氣",
+  "pinyin": "qì",
+  "english": "air",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 气 (pronunciation) + Semantic: 米 ('rice') = to give rice as a gift -> borrowed for 'air, flow'",
+    "interpretation": "Originally, 氣(qì, 'air') represented giving rice as a gift, reflecting physical exchange and transformation. Over time, it was borrowed to denote the concepts of 'air' and 'flow', abstractly related to the movement and circulation of gases.",
+    "simplification": "The character 氣 was simplified to 气 by omitting the 米 (mǐ, 'rice') component, retaining only the phonetic element."
+  },
+  "parts": [
+    {
+      "char": "气",
+      "trad": "气",
+      "pinyin": "qì",
+      "english": "air"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们呼吸着新鲜的气(我們呼吸著新鮮的氣)，迎接新的一天(迎接新的一天)。",
+      "pinyin": "Wǒmen hūxīzhe xīnxiān de qì, yíngjiē xīn de yītiān.",
+      "english": "We breathe in fresh air, welcoming a new day."
+    },
+    {
+      "chinese": "空气温暖宜人(空氣溫暖宜人)。",
+      "pinyin": "Kōngqì wēnnuǎn yírén.",
+      "english": "The air is pleasantly warm."
+    },
+    {
+      "chinese": "大海的气(大海的氣)，带着咸湿的味道(帶著鹹濕的味道)。",
+      "pinyin": "Dàhǎi de qì, dàizhe xiánshī de wèidào.",
+      "english": "The sea air carries a salty, humid scent."
+    }
+  ]
+}

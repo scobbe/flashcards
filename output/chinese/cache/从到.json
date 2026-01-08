@@ -1,0 +1,44 @@
+{
+  "simplified": "从到",
+  "traditional": "從到",
+  "pinyin": "cóng … dào …",
+  "english": "from … to …",
+  "etymology": {
+    "type": "compound word",
+    "description": "從(從) (cóng, \"from\") + 到(到) (dào, \"to\") is a structure used to indicate a range or a transition in time, space, or sequence, similar to \"from … to …\" in English.",
+    "interpretation": "The phrase 從(從) (cóng, \"from\") + 到(到) (dào, \"to\") is used to express a range or movement between two points, whether in terms of time, location, or sequence, making it an essential part of structuring comprehensive timelines or journeys in both written and spoken Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "从",
+      "trad": "從",
+      "pinyin": "cóng",
+      "english": "from"
+    },
+    {
+      "char": "到",
+      "trad": "到",
+      "pinyin": "dào",
+      "english": "to"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "从北京到上海(從北京到上海)。",
+      "pinyin": "Cóng Běijīng dào Shànghǎi.",
+      "english": "From Beijing to Shanghai."
+    },
+    {
+      "chinese": "从春天到秋天(從春天到秋天)。",
+      "pinyin": "Cóng chūntiān dào qiūtiān.",
+      "english": "From spring to autumn."
+    },
+    {
+      "chinese": "从传统到现代(從傳統到現代)。",
+      "pinyin": "Cóng chuántǒng dào xiàndài.",
+      "english": "From tradition to modern times."
+    }
+  ]
+}

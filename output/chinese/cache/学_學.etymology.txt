@@ -1,0 +1,8 @@
+[学]
+simplified and variant form of 學
+
+[學]
+Possibly a phono-semantic compound ( 形聲 / 形声 , OC *ɡruːɡ ): phonetic 爻 ( OC *ɢraːw ) + phonetic 六 ( OC *ruɡ ) . Later, 𦥑 was added to form 𦥯 , and a semantic 子 (“child”) was added for differentiation.
+Another explanation is abbreviated 敎 ( “ to teach ” ) + 𦥑 ( “ mingling hands; hands-on learning ” ) + 宀 ( “ house; roofed building ” ) – a child learning in a roofed place. However, the oracle bone script does not include a child.
+In the modern form, 六 has corrupted to 冖 (“cover”), and the hands 𦥑 around the 爻 have become connected with the 冖. Shuowen regards 𦥑 as the phonetic component in the character, which may be true according to some Old Chinese reconstructions such as that of Pan Wuyun 's, though probably not others.
+See also the top component of 覺 , which is a contraction of 學.

@@ -1,0 +1,44 @@
+{
+  "simplified": "斗",
+  "traditional": "鬥",
+  "pinyin": "dǒu",
+  "english": "fight",
+  "etymology": {
+    "type": "pictogram",
+    "description": "𠨭(𠨭) (unrelated symbol) + 丮(丮) (unrelated symbol) = two figures fighting face-to-face -> stylized forms have bristled hair, indicating conflict",
+    "interpretation": "The character 鬥(鬥) (dòu, \"fight\") visually depicts two figures opposing each other, emphasizing confrontation, with the portrayal of bristled hair further signifying aggression or conflict. Its design emphasizes the antagonistic nature of fighting.",
+    "simplification": "斗(鬥) was derived from the variant 鬦, and ultimately used as the simplified character for 鬥."
+  },
+  "parts": [
+    {
+      "char": "𠨭",
+      "trad": "𠨭",
+      "pinyin": "N/A",
+      "english": "unrelated symbol"
+    },
+    {
+      "char": "丮",
+      "trad": "丮",
+      "pinyin": "N/A",
+      "english": "unrelated symbol"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们开始斗智斗勇(他們開始鬥智鬥勇)。",
+      "pinyin": "Tāmen kāishǐ dòu zhì dòu yǒng.",
+      "english": "They begin to battle using wit and courage."
+    },
+    {
+      "chinese": "两位剑客斗得难解难分(兩位劍客鬥得難解難分)，观众大声喝彩(觀眾大聲喝彩)。",
+      "pinyin": "Liǎng wèi jiànkè dòu de nánjiě nánfēn, guānzhòng dàshēng hècǎi.",
+      "english": "The two swordsmen fought evenly, and the audience cheered loudly."
+    },
+    {
+      "chinese": "英雄们为了保卫国家互相斗争(英雄們為了保衛國家互相鬥爭)。",
+      "pinyin": "Yīngxióng men wèile bǎowèi guójiā hùxiāng dòu zhēng.",
+      "english": "The heroes fought each other to defend their country."
+    }
+  ]
+}

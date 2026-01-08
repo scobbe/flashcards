@@ -4,30 +4,36 @@
   "pinyin": "ěr",
   "english": "ear",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic component 尒(尒) (ěr, \"small child\") with semantic association to 耳(耳) (ěr, \"ear\")",
-    "interpretation": "The character 尒(尒) was an early phonetic representation of the word for 'ear' due to its phonetic resemblance. It later evolved into the character 耳(耳) (ěr, \"ear\"), solidifying its association with the 'ear' meaning.",
-    "simplification": ""
+    "type": "variant form",
+    "description": "尒 is a variant form of 爾(爾) (ěr, 'you') with the original depiction of a cloth on a loom (檷) -> borrowed phonetically for 'you'",
+    "interpretation": "The character 尒 is a simplified variant of 爾(爾) (ěr, 'you') representing a cloth on a loom, which was later borrowed for its phonetic sound to denote 'you'.",
+    "simplification": "尒 is the simplified form adopted from 爾(爾) (ěr, 'you'). It represents an abridged version for ease in writing as part of the Chinese Character Simplification Scheme."
   },
   "parts": [
     {
-      "char": "耳",
-      "trad": "耳",
+      "char": "爾",
+      "trad": "爾",
       "pinyin": "ěr",
-      "english": "ear"
-    }
-  ],
-  "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他的尒听力非常灵敏(他的尒聽力非常靈敏)，能捕捉最细微的声音(能捕捉最細微的聲音)。",
-      "pinyin": "Tā de ěr tīnglì fēicháng língmǐn, néng bǔzhuō zuì xìwēi de shēngyīn.",
-      "english": "His ear's hearing is extremely sensitive, capable of picking up the faintest sounds."
+      "english": "you"
     },
     {
-      "chinese": "音乐刺激着尒的共鸣(音樂刺激著尒的共鳴)。",
-      "pinyin": "Yīnyuè cìjī zhe ěr de gòngmíng.",
-      "english": "Music stimulates the resonance of the ear."
+      "char": "檷",
+      "trad": "檷",
+      "pinyin": "nǐ",
+      "english": "loom"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的尒非常敏锐(他的尒非常敏銳)。",
+      "pinyin": "Tā de ěr fēicháng mǐnruì.",
+      "english": "His ear is very sensitive."
+    },
+    {
+      "chinese": "他静静聆听(他靜靜聆聽)，通过尒捕捉微弱的声音(通過尒捕捉微弱的聲音)。",
+      "pinyin": "Tā jìngjìng língtīng, tōngguò ěr bǔzhuō wēiruò de shēngyīn.",
+      "english": "He listens quietly, capturing faint sounds through his ear."
     }
   ]
 }

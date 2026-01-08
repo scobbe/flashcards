@@ -1,0 +1,50 @@
+{
+  "simplified": "新",
+  "traditional": "新",
+  "pinyin": "xīn",
+  "english": "new",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辛(辛) (xīn, \"bitter\") + 斤(斤) (jīn, \"axe\") = related to chopping wood -> borrowed for \"new\" -> 木(木) (mù, \"wood\") added later",
+    "interpretation": "The character 新(新) (xīn, \"new\") originally represented chopping firewood, but it was phonetically borrowed to mean \"new.\" The semantic 木(木) (mù, \"wood\") was added later in bronze inscriptions to clarify its original meaning related to firewood.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter"
+    },
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了新电脑(我買了新電腦)。",
+      "pinyin": "Wǒ mǎile xīn diànnǎo.",
+      "english": "I bought a new computer."
+    },
+    {
+      "chinese": "他开着新车(他開著新車)，驶向远方(駛向遠方)。",
+      "pinyin": "Tā kāizhe xīn chē, shǐxiàng yuǎnfāng.",
+      "english": "He is driving his new car toward a distant place."
+    },
+    {
+      "chinese": "新书吸引了读者(新書吸引了讀者)，激发了求知欲(激發了求知欲)。",
+      "pinyin": "Xīn shū xīyǐn le dúzhě, jīfā le qiúzhī yù.",
+      "english": "The new book attracted readers and aroused their thirst for knowledge."
+    }
+  ]
+}

@@ -4,23 +4,25 @@
   "pinyin": "miǎn",
   "english": "look over",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a person looking over at something or surveying the area",
-    "interpretation": "The character 㕣 visually represents the action of a person looking over or surveying, capturing the essence of its meaning directly.",
+    "type": "phono-semantic compound",
+    "description": "八 (open space between two things) + 口 (mouth) = look over -> valley between mountains",
+    "interpretation": "The character 㕣 combines the components 八(bā, 'open space') and 口(kǒu, 'mouth') to convey the idea of looking over or overseeing a space, akin to viewing a valley between mountains from above.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他㕣了菜单(他㕣了菜單)，准备点餐(準備點餐)。",
-      "pinyin": "Tā miǎn le càidān, zhǔnbèi diǎncān.",
-      "english": "He looked over the menu and prepared to order."
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "open space"
     },
     {
-      "chinese": "老师㕣考卷(老師㕣考卷)，指出错误(指出錯誤)。",
-      "pinyin": "Lǎoshī miǎn kǎojuàn, zhǐchū cuòwù.",
-      "english": "The teacher looked over the exam papers and pointed out the mistakes."
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

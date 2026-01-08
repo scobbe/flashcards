@@ -1,0 +1,50 @@
+{
+  "simplified": "刚",
+  "traditional": "剛",
+  "pinyin": "gāng",
+  "english": "just; firm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "岡(冈) (gāng, \"ridge\") + 刀(刀) (dāo, \"knife\") = 岡 provides phonetic value and 刀 provides meaning related to cutting -> firm or just",
+    "interpretation": "The character represents firmness or strength through the visual association with a knife, and the phonetic element 岡(冈) (gāng, \"ridge\") emphasizes the hard, unyielding nature of ridges.",
+    "simplification": "Simplified from 剛 by replacing 岡(冈) with its simplified form 冈(冈)."
+  },
+  "parts": [
+    {
+      "char": "岡",
+      "trad": "岡",
+      "pinyin": "gāng",
+      "english": "ridge"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "冈",
+      "trad": "冈",
+      "pinyin": "gāng",
+      "english": "ridge"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我刚从图书馆出来(我剛從圖書館出來)，就开始准备考试(就開始準備考試)。",
+      "pinyin": "Wǒ gāng cóng túshūguǎn chūlái, jiù kāishǐ zhǔnbèi kǎoshì.",
+      "english": "I just came out of the library and started preparing for the exam."
+    },
+    {
+      "chinese": "他的回答刚正不阿(他的回答剛正不阿)。",
+      "pinyin": "Tā de huídá gāng zhèng bù ā.",
+      "english": "His answer is upright and uncompromising."
+    },
+    {
+      "chinese": "我们刚见面(我們剛見面)，就聊得很投机(就聊得很投機)。",
+      "pinyin": "Wǒmen gāng jiànmiàn, jiù liáo dé hěn tóujī.",
+      "english": "We just met and hit it off immediately."
+    }
+  ]
+}

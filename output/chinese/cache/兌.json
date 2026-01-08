@@ -5,8 +5,8 @@
   "english": "exchange",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "八(八) (bā, \"speech; breath\") + 口(口) (kǒu, \"mouth\") + 人(人) (rén, \"person\") -> original character for 'to speak' (說) or 'pleased' (悅)",
-    "interpretation": "8",
+    "description": "八(八) (bā, \"speech; breath\") + 口(口) (kǒu, \"mouth\") + 人(人) (rén, \"person\") = speech -> original character of 說(說) (shuō, \"speak\")",
+    "interpretation": "The character 兌(兌) (duì, \"exchange\") depicts the act of speaking or expressing with 八(八) representing the concept of speech or breath, combined with 口(口) as the mouth, and 人(人) as the person. This composition reflects the use of speech and has historically been associated with speaking or exchanging words, eventually evolving to mean 'exchange' in a broader sense.",
     "simplification": ""
   },
   "parts": [
@@ -27,19 +27,30 @@
       "trad": "人",
       "pinyin": "rén",
       "english": "person"
-    }
-  ],
-  "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "我今天去银行兌外币(我今天去銀行兑外幣)。",
-      "pinyin": "Wǒ jīntiān qù yínháng duì wàibì.",
-      "english": "I am going to the bank today to exchange foreign currency."
     },
     {
-      "chinese": "我们先检查票据(我們先檢查票據)，然后兌成现金买东西(然後兑成現金買東西)。",
-      "pinyin": "Wǒmen xiān jiǎnchá piàojù, ránhòu duì chéng xiànjīn mǎi dōngxī.",
-      "english": "We first check the receipts, then exchange them for cash to buy things."
+      "char": "說",
+      "trad": "說",
+      "pinyin": "shuō",
+      "english": "speak"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划兌换外国货币(我計劃兑換外國貨幣)。",
+      "pinyin": "Wǒ jìhuà duìhuàn wàiguó huòbì.",
+      "english": "I plan to exchange foreign currency."
+    },
+    {
+      "chinese": "在路边的小店(在路邊的小店)，他愿意兌出多余的零钱(他願意兑出多餘的零錢)。",
+      "pinyin": "Zài lùbiān de xiǎodiàn, tā yuànyì duì chū duōyú de língqián.",
+      "english": "At the small shop by the roadside, he is willing to exchange his extra change."
+    },
+    {
+      "chinese": "古时商人常兌宝物(古時商人常兑寶物)，以求吉祥(以求吉祥)。",
+      "pinyin": "Gǔ shí shāngrén cháng duì bǎowù, yǐ qiú jíxiáng.",
+      "english": "Ancient merchants often exchanged treasures to seek good fortune."
     }
   ]
 }

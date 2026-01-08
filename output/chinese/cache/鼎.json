@@ -1,0 +1,26 @@
+{
+  "simplified": "鼎",
+  "traditional": "鼎",
+  "pinyin": "dǐng",
+  "english": "tripod",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tripod vessel with three legs used for rituals and cooking",
+    "interpretation": "The character 鼎(鼎) (dǐng, 'tripod') represents an ancient bronze cooking or ritual vessel, symbolizing authority and importance due to its ceremonial use.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "博物馆陈列着古代的鼎(博物館陳列著古代的鼎)，见证了中华文明(見證了中華文明)。",
+      "pinyin": "Bówùguǎn chénliè zhe gǔdài de dǐng, jiànzhèng le Zhōnghuá wénmíng.",
+      "english": "The museum displays ancient tripods, witnessing Chinese civilization."
+    },
+    {
+      "chinese": "传说中火神用鼎炼火(傳說中火神用鼎煉火)，铸就了神话传说(鑄就了神話傳說)。",
+      "pinyin": "Chuánshuō zhōng huǒshén yòng dǐng liàn huǒ, zhùjiù le shénhuà chuánshuō.",
+      "english": "Legend has it that the fire god used the tripod to refine fire, forging mythological tales."
+    }
+  ]
+}

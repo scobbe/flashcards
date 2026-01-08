@@ -1,0 +1,28 @@
+{
+  "simplified": "檷",
+  "traditional": "檷",
+  "pinyin": "nǐ",
+  "english": "loom",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 爾(爾) (ěr, phonetic) = wood implement related to weaving -> loom",
+    "interpretation": "The character 檷(nǐ) combines 木(木) (mù, \"wood\"), indicating a wooden object, with the phonetic component 爾(爾) (ěr), suggesting the pronunciation. This combination signifies a wooden tool associated with weaving, hence the meaning \"loom.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "爾",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "ear; phonetic"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

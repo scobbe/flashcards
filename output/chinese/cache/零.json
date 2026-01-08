@@ -1,0 +1,44 @@
+{
+  "simplified": "零",
+  "traditional": "零",
+  "pinyin": "líng",
+  "english": "zero",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "雨(雨) (yǔ, \"rain\") + 令(令) (lìng, \"command\") = rain with large droplets as depicted in oracle script -> associated with the loss or remainder of rain droplets -> zero",
+    "interpretation": "The character 零(líng) combines the semantic element of 雨(雨) (yǔ, \"rain\") with the phonetic component 令(令) (lìng, \"command\"). Originally, it depicted raindrops falling from the sky, denoting something remaining or leftover. This visual representation of raindrops reduced to nothing contributed to its current meaning of \"zero.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "command"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "零是一种数字(零是一種數字)。",
+      "pinyin": "líng shì yī zhǒng shùzì.",
+      "english": "Zero is a number."
+    },
+    {
+      "chinese": "他的分数是零(他的分數是零)。",
+      "pinyin": "tā de fēnshù shì líng.",
+      "english": "His score is zero."
+    },
+    {
+      "chinese": "他的希望几乎为零(他的希望幾乎為零)，前途黯淡无光(前途黯淡無光)。",
+      "pinyin": "tā de xīwàng jīhū wéi líng, qiántú àndàn wúguāng.",
+      "english": "His hopes are nearly zero, and his future is bleak."
+    }
+  ]
+}

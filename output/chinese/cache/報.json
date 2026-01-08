@@ -1,0 +1,44 @@
+{
+  "simplified": "報",
+  "traditional": "報",
+  "pinyin": "bào",
+  "english": "report; announce",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "㚔 (handcuffs) + 𠬝 (to subdue) = to convict or declare guilty -> report; announce",
+    "interpretation": "The character 報(bào) conveys the idea of delivering a verdict or making an official announcement, stemming from the imagery of handcuffs and subdual, which symbolize an authoritative declaration of guilt.",
+    "simplification": "報 was simplified to 报 through sound-alike replacement with 押(押) (yā, \"press\"), retaining the idea of administering announcements but using the simpler form."
+  },
+  "parts": [
+    {
+      "char": "㚔",
+      "trad": "㚔",
+      "pinyin": "n/a",
+      "english": "handcuffs"
+    },
+    {
+      "char": "𠬝",
+      "trad": "𠬝",
+      "pinyin": "n/a",
+      "english": "to subdue"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "记者報最新消息(記者報最新消息)。",
+      "pinyin": "Jìzhě bào zuìxīn xiāoxī.",
+      "english": "The reporter reported the latest news."
+    },
+    {
+      "chinese": "听到火警铃声(聽到火警鈴聲)，他立刻報警(他立刻報警)。",
+      "pinyin": "Tīngdào huǒjǐng língshēng, tā lìkè bào jǐng.",
+      "english": "Hearing the fire alarm, he immediately called the police."
+    },
+    {
+      "chinese": "校长報考试成绩(校長報考試成績)。",
+      "pinyin": "Xiàozhǎng bào kǎoshì chéngjì.",
+      "english": "The principal reported the exam results."
+    }
+  ]
+}

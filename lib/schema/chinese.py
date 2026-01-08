@@ -66,8 +66,8 @@ EXAMPLE_SENTENCE_RULES = [
 ]
 
 CHINESE_PROMPT_PREAMBLE = {
-    "single_char": "Chinese character etymology expert. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' or 'OC *ɡroːd' anywhere in output.",
-    "multi_char": "Chinese word etymology expert. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' anywhere in output.",
+    "single_char": "Chinese character etymology expert. ALWAYS analyze the TRADITIONAL form of the character - the etymology should describe the traditional form's composition and history. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' or 'OC *ɡroːd' anywhere in output.",
+    "multi_char": "Chinese word etymology expert. ALWAYS analyze the TRADITIONAL form of characters. Respond in English ONLY - no Chinese text except in character references like 說(說). NEVER include Old Chinese (OC) phonetic reconstructions like '(OC *xxx)' anywhere in output.",
 }
 
 # -----------------------------------------------------------------------------
@@ -90,7 +90,7 @@ CHINESE_PROMPT_FIELDS = [
     PromptField(
         name="type",
         prompt={
-            "single_char": "COPY type from Wiktionary in English ONLY - no Chinese (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound') NOT 'Pictogram ( 象形 )'",
+            "single_char": "COPY type from Wiktionary for the TRADITIONAL form in English ONLY - no Chinese (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound') NOT 'Pictogram ( 象形 )'. NEVER use 'simplified character' as a type - always describe the traditional form's etymology.",
             "multi_char": '"compound word"',
         },
         response_type="string",
@@ -99,7 +99,8 @@ CHINESE_PROMPT_FIELDS = [
         name="description",
         prompt={
             "single_char": _join([
-                "SHORT FORMULA showing the character's evolutionary history through its components",
+                "SHORT FORMULA showing the TRADITIONAL character's evolutionary history through its components",
+                "ALWAYS describe the TRADITIONAL form - never describe simplification as the etymology",
                 "ALL TEXT MUST BE IN ENGLISH - no Chinese except in character references like 欣(欣)",
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
@@ -168,11 +169,13 @@ CHINESE_PROMPT_FIELDS = [
         name="simplification",
         prompt={
             "single_char": _join([
-                'Return EMPTY STRING "" if traditional = simplified (no simplification exists)',
-                "Otherwise explain the SPECIFIC historical process - NOT generic 'for ease of writing'",
+                'Return EMPTY STRING "" if traditional = simplified (no simplified form exists)',
+                "If a simplified form EXISTS (traditional ≠ simplified), describe HOW the traditional form was simplified",
+                "Explain the SPECIFIC historical process - NOT generic 'for ease of writing'",
                 LENGTH_RULE,
                 CHAR_REF_RULE,
-                "Was it: a cursive shorthand? a sound-alike? a meaning-based replacement?",
+                "Was it: a cursive shorthand? a sound-alike? a meaning-based replacement? component simplification?",
+                "E.g. 員(員)→员(員): 貝(貝) (bèi, \"cowry\") was simplified to 贝(貝), reducing strokes while keeping the phonetic 口(口) (kǒu, \"mouth\")",
                 "E.g. 鄰(鄰)→邻(鄰): 令(令) (lìng, \"order\") replaced 粦(粦) (lín, \"fire\") as a simpler phonetic",
                 "E.g. 淚(淚)→泪(淚): 目(目) (mù, \"eye\") replaced 戾(戾) (lì, \"oppose\") for semantic clarity",
                 "E.g. 鳳(鳳)→凤(鳳): 又(又) (yòu, \"again\") is a cursive shorthand for the bird radical",
@@ -190,6 +193,9 @@ CHINESE_PROMPT_FIELDS = [
                 "Array of ALL OTHER characters referenced in YOUR description AND interpretation fields [{char, trad, pinyin, english}].",
                 "ONLY include characters that YOU wrote in description/interpretation - nothing else",
                 "IGNORE self-references (don't include the character itself in parts)",
+                "NEVER include simplified variants of components - only use TRADITIONAL forms",
+                "E.g. for 員: include 貝(貝) (bèi, \"cowry\") but NOT 贝 (the simplified form)",
+                "E.g. for 語: include 言(言) (yán, \"speech\") but NOT 讠 (the simplified radical)",
                 "Use Wiktionary as PRIMARY SOURCE for component information.",
                 "If Wiktionary says '氵+ 可', use exactly 氵and 可 - not similar-looking variants",
                 "EMPTY ARRAY ONLY FOR: Pure pictograms where description/interpretation mention NO other characters (日, 月, 山, 水, 火, 木)",

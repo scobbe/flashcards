@@ -1,0 +1,44 @@
+{
+  "simplified": "广州",
+  "traditional": "廣州",
+  "pinyin": "Guǎngzhōu",
+  "english": "Guangzhou",
+  "etymology": {
+    "type": "compound word",
+    "description": "廣(廣) (guǎng, \"broad\") refers to the vastness or expansiveness, while 州(州) (zhōu, \"state; region\") is a term used historically for an administrative division or region.",
+    "interpretation": "廣州(廣州) (Guǎngzhōu, \"Guangzhou\") is named for its historical significance as a broad and expansive region within China. It reflects its status as a major and influential administrative area.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "broad"
+    },
+    {
+      "char": "州",
+      "trad": "州",
+      "pinyin": "zhōu",
+      "english": "state; region"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算明年去广州(廣州)，体验当地文化(體驗當地文化)。",
+      "pinyin": "Wǒ dǎsuàn míngnián qù Guǎngzhōu, tǐyàn dāngdì wénhuà.",
+      "english": "I plan to go to Guangzhou next year to experience the local culture."
+    },
+    {
+      "chinese": "广州是中国的南方大都市(廣州是中國的南方大都市)。",
+      "pinyin": "Guǎngzhōu shì Zhōngguó de nánfāng dà dūshì.",
+      "english": "Guangzhou is a major metropolis in southern China."
+    },
+    {
+      "chinese": "我昨天在广州(廣州)参加了一场音乐会(參加了一場音樂會)，感受到了城市的魅力(感受到了城市的魅力)。",
+      "pinyin": "Wǒ zuótiān zài Guǎngzhōu cānjiāle yī chǎng yīnyuèhuì, gǎnshòu dào le chéngshì de mèilì.",
+      "english": "I attended a concert in Guangzhou yesterday and experienced the charm of the city."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "夛",
+  "traditional": "夛",
+  "pinyin": "duō",
+  "english": "ancient form of 多",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "⺼(肉) (ròu, 'meat') -> visually corrupted to 夕(夕) (xī, 'evening'), duplicated to mean 'many' -> 夛 as ancient form -> 多(多) (duō, 'many')",
+    "interpretation": "夛 is an ancient form of 多(多) (duō, 'many'), originally depicting two pieces of meat, which were visually corrupted and simplified over time to 夕(夕) (xī, 'evening'), reflecting the duplicative aspect that conveyed the meaning of 'many'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "多",
+      "trad": "多",
+      "pinyin": "duō",
+      "english": "many"
+    },
+    {
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "evening"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

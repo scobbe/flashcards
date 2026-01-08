@@ -1,0 +1,26 @@
+{
+  "simplified": "茲",
+  "traditional": "茲",
+  "pinyin": "zī",
+  "english": "now",
+  "etymology": {
+    "type": "Variant form",
+    "description": "茲(茲) (zī, \"now\")",
+    "interpretation": "The character 茲(zī, \"now\") is historically interchangeable with 玆, serving as variant forms of one another and used in different contexts to represent the same concepts.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "茲是改革的良机(茲是改革的良機)。",
+      "pinyin": "zī shì gǎi gé de liáng jī",
+      "english": "Now is the opportunity for reform."
+    },
+    {
+      "chinese": "时间不早(時間不早)，茲当出发(茲當出發)。",
+      "pinyin": "shí jiān bù zǎo, zī dāng chū fā",
+      "english": "It is late, now it is time to set off."
+    }
+  ]
+}

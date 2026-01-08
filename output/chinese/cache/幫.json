@@ -1,0 +1,44 @@
+{
+  "simplified": "幫",
+  "traditional": "幫",
+  "pinyin": "bāng",
+  "english": "help; assist",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "封 (phonetic) + 帛 (semantic, 'silk') -> originally referring to the upper part of a shoe (鞋幫, 'shoe upper')",
+    "interpretation": "The character 幫(bāng, \"help\") originally referred to the upper part of a shoe, indicating an early connection to crafting or constructing with fabric (silk). Over time, it extended to represent 'help' or 'assist,' possibly implying the act of supporting or holding together, analogous to how the upper shoe supports the foot.",
+    "simplification": "帮(幫): 干(干) (gān, 'dry') replaced 帛(帛) (bó, 'silk') for phonetic simplification."
+  },
+  "parts": [
+    {
+      "char": "封",
+      "trad": "封",
+      "pinyin": "fēng",
+      "english": "to seal"
+    },
+    {
+      "char": "帛",
+      "trad": "帛",
+      "pinyin": "bó",
+      "english": "silk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我帮你做作业(我幫你做作業)。",
+      "pinyin": "Wǒ bāng nǐ zuò zuòyè.",
+      "english": "I help you do homework."
+    },
+    {
+      "chinese": "老师帮学生解答问题(老師幫學生解答問題)。",
+      "pinyin": "Lǎoshī bāng xuéshēng jiědá wèntí.",
+      "english": "The teacher helps the students answer questions."
+    },
+    {
+      "chinese": "他会帮朋友(他會幫朋友)，解决困难(解決困難)。",
+      "pinyin": "Tā huì bāng péngyǒu, jiějué kùnnán.",
+      "english": "He will help his friends solve difficulties."
+    }
+  ]
+}

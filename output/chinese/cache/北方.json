@@ -1,0 +1,39 @@
+{
+  "simplified": "北方",
+  "traditional": "北方",
+  "pinyin": "běifāng",
+  "english": "north; northern region",
+  "etymology": {
+    "type": "compound word",
+    "description": "北(北) (běi, \"north\") + 方(方) (fāng, \"direction; region\") = northern direction or region",
+    "interpretation": "The combination of 北(北) (běi, \"north\") and 方(方) (fāng, \"direction; region\") refers to the northern direction or area. This word is used to indicate the region or direction towards the north, often describing the northern parts of a country or territory.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "北",
+      "trad": "北",
+      "pinyin": "běi",
+      "english": "north"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "direction; region"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢北方的风景(我喜歡北方的風景)。",
+      "pinyin": "Wǒ xǐhuān běifāng de fēngjǐng.",
+      "english": "I like the scenery of the north."
+    },
+    {
+      "chinese": "冬天到来时(冬天到來時)，北方寒风刺骨(北方寒風刺骨)。",
+      "pinyin": "Dōngtiān dàolái shí, běifāng hánfēng cìgǔ.",
+      "english": "When winter comes, the northern cold wind is piercing."
+    }
+  ]
+}

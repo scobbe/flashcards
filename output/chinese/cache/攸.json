@@ -2,43 +2,39 @@
   "simplified": "攸",
   "traditional": "攸",
   "pinyin": "yōu",
-  "english": "a place or situation",
+  "english": "distant",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "彳(彳) (chì, 'step') + 攴(攴) (pū, 'strike') = directed motion -> indicating a place or situation",
-    "interpretation": "The character combines 彳(彳) (chì, 'step') symbolizing movement or direction, with 攴(攴) (pū, 'strike') which contributes the phonetic element. Together, they imply a directed or focused action towards a place or situation.",
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"strike\") + water dots added -> pouring water on a person -> purification or warning",
+    "interpretation": "攸(yōu, \"distant\") originally depicted actions related to authority and purification, either through warning with a stick or through water rituals. The purification aspect links to pouring water, while the warning aspect connects to correction or guidance, leading to the connotations of influence and reach associated with distance.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "彳",
-      "trad": "彳",
-      "pinyin": "chì",
-      "english": "step"
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
     },
     {
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
       "english": "strike"
+    },
+    {
+      "char": "滌",
+      "trad": "滌",
+      "pinyin": "dí",
+      "english": "wash"
+    },
+    {
+      "char": "修",
+      "trad": "修",
+      "pinyin": "xiū",
+      "english": "repair"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他走进那被称为攸的幽谷(他走進那被稱為攸的幽谷)，心中满是好奇(心中滿是好奇)。",
-      "pinyin": "Tā zǒu jìn nà bèi chēng wéi Yōu de yōugǔ, xīnzhōng mǎn shì hàoqí.",
-      "english": "He walked into the mysterious valley known as You, filled with curiosity."
-    },
-    {
-      "chinese": "她发现自己处于一个危险的攸局(她發現自己處於一個危險的攸局)，努力寻找出路(努力尋找出路)。",
-      "pinyin": "Tā fāxiàn zìjǐ chǔ yú yīgè wēixiǎn de Yōu jú, nǔlì xúnzhǎo chūlù.",
-      "english": "She found herself in a perilous situation called Youju, and she strove to find a way out."
-    },
-    {
-      "chinese": "传说中有一处神秘的攸(傳說中有一處神秘的攸)，吸引了无数探险者(吸引了無數探險者)。",
-      "pinyin": "Chuánshuō zhōng yǒu yī chù shénmì de Yōu, xīyǐn le wúshù tànxiǎn zhě.",
-      "english": "Legend has it that there is a mysterious place called You, which has attracted countless adventurers."
-    }
-  ]
+  "examples": []
 }

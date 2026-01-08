@@ -1,33 +1,26 @@
 {
   "simplified": "爫",
   "traditional": "爫",
-  "pinyin": "zhǎo",
+  "pinyin": "zhuǎ",
   "english": "hand, claw",
   "etymology": {
-    "type": "component form",
-    "description": "Variant representation of 爪(爪) (zhǎo, \"hand, claw\") -> depicts a hand grasping -> simplified for component use",
-    "interpretation": "爫(爫) (zhǎo, \"hand, claw\") is a variant form of 爪(爪) (zhǎo, \"hand, claw\"), simplified for usage in compound characters to represent hands or claws in various compositions.",
+    "type": "pictogram",
+    "description": "Depicts a hand grabbing from above or the side in earlier forms -> Represents a claw or hand",
+    "interpretation": "The character 爫(爪) (zhuǎ, 'hand, claw') historically represented a human hand depicted from a side view, grabbing something, although it can extend its meaning to indicate a claw. This visual depiction closely associates with functions performed by a hand or a claw, making the graphical representation intuitive as both human and animal hands or claws engage in similar grasping actions.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "爪",
-      "trad": "爪",
-      "pinyin": "zhǎo",
-      "english": "hand, claw"
-    }
-  ],
-  "in_contemporary_usage": false,
+  "parts": [],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "猫的爫非常敏捷(貓的爫非常敏捷)。",
-      "pinyin": "Māo de zhǎo fēicháng mǐnjié.",
-      "english": "The cat's claw is very agile."
+      "chinese": "野猫舒展爫(野貓舒展爫)，捕捉小动物(捕捉小動物)。",
+      "pinyin": "Yě māo shūzhǎn zhuǎ, bǔzhuō xiǎo dòngwù.",
+      "english": "The wild cat extends its claws and catches small animals."
     },
     {
-      "chinese": "老虎的爫划破夜空(老虎的爫劃破夜空)，展现力量(展現力量)。",
-      "pinyin": "Lǎohǔ de zhǎo huá pò yèkōng, zhǎnxiàn lìliàng.",
-      "english": "The tiger's claw tore through the dark sky, showcasing its power."
+      "chinese": "雕弯曲爫(鵰彎曲爫)，紧握猎物(緊握獵物)。",
+      "pinyin": "Diāo wānqū zhuǎ, jǐn wò lièwù.",
+      "english": "The eagle curves its claws and tightly grips its prey."
     }
   ]
 }

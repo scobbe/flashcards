@@ -1,0 +1,44 @@
+{
+  "simplified": "美元",
+  "traditional": "美元",
+  "pinyin": "měiyuán",
+  "english": "US dollar",
+  "etymology": {
+    "type": "compound word",
+    "description": "美(美) (měi, \"American\") + 元(元) (yuán, \"dollar\") indicate the currency of the United States.",
+    "interpretation": "The word 美元(美元) (měiyuán, \"US dollar\") combines 美(美) (měi, \"American\") to signify the Americas or things related to the United States, and 元(元) (yuán, \"dollar\") which is a common term for currency units, to specifically denote the currency of the US.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "美",
+      "trad": "美",
+      "pinyin": "měi",
+      "english": "American; beautiful; USA"
+    },
+    {
+      "char": "元",
+      "trad": "元",
+      "pinyin": "yuán",
+      "english": "dollar; primary; basic unit"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有一百美元(我有一百美元)。",
+      "pinyin": "Wǒ yǒu yī bǎi měiyuán.",
+      "english": "I have one hundred US dollars."
+    },
+    {
+      "chinese": "这件商品价格为五十美元(這件商品價格為五十美元)，十分便宜(十分便宜)。",
+      "pinyin": "Zhè jiàn shāngpǐn jiàgé wéi wǔ shí měiyuán, shífēn piányí.",
+      "english": "This item is priced at fifty US dollars, which is very cheap."
+    },
+    {
+      "chinese": "他存了很多美元(他存了很多美元)，计划去美国旅游(計劃去美國旅遊)。",
+      "pinyin": "Tā cúnle hěn duō měiyuán, jìhuà qù měiguó lǚyóu.",
+      "english": "He has saved a lot of US dollars and plans to travel to the United States."
+    }
+  ]
+}

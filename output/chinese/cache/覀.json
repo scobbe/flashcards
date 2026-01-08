@@ -1,26 +1,15 @@
 {
   "simplified": "覀",
-  "traditional": "襾",
+  "traditional": "覀",
   "pinyin": "yà",
   "english": "west",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a cover or canopy, resembling a westerly direction based on early representations of enclosing or covering structures.",
-    "interpretation": "The character 襾(襾) (yà, \"west\") is a pictogram representing a covering object, historically used as an orientation symbol for the west due to how it visually resembles a roof or lid, indicating enclosure or a boundary.",
+    "type": "variant",
+    "description": "覀 is a variant of 西(西) (xī, 'west'), originally derived from a similar pictogram.",
+    "interpretation": "覀 and 西(西) (xī, 'west') share origins, both depicting a simple geometric form. 覀 represents the same concept but is used less frequently.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "太阳落在覀(太陽落在覀)，繁星开始闪烁(繁星開始閃爍)。",
-      "pinyin": "Tàiyáng luò zài yà, fánxīng kāishǐ shǎnshuò.",
-      "english": "The sun sets in the west, and the stars begin to twinkle."
-    },
-    {
-      "chinese": "船只驶向覀(船隻駛向覀)，追逐着最后的阳光(追逐著最後的陽光)。",
-      "pinyin": "Chuánzhī shǐ xiàng yà, zhuīzhú zhe zuìhòu de yángguāng.",
-      "english": "The ship sails towards the west, chasing the last sunlight."
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,39 @@
+{
+  "simplified": "晚",
+  "traditional": "晚",
+  "pinyin": "wǎn",
+  "english": "evening; late",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Semantic: 日(日) (rì, \"sun\") + Phonetic: 免(免) (miǎn, \"avoid\") -> time after sunset -> evening",
+    "interpretation": "晚(晚) (wǎn, \"evening; late\") combines 日(日) (rì, \"sun\") to indicate the time of day, and 免(免) (miǎn, \"avoid\") as the phonetic component, suggesting the period when the sun is no longer visible.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "免",
+      "trad": "免",
+      "pinyin": "miǎn",
+      "english": "avoid"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "现在很晚(現在很晚)。",
+      "pinyin": "Xiànzài hěn wǎn。",
+      "english": "It is late now."
+    },
+    {
+      "chinese": "太阳下山了(太陽下山了)，夜幕降临(夜幕降臨)。",
+      "pinyin": "Tàiyáng xiàshān le, yèmù jiànglín。",
+      "english": "The sun has set, and the night has fallen."
+    }
+  ]
+}

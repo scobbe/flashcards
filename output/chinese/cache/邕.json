@@ -1,0 +1,31 @@
+{
+  "simplified": "邕",
+  "traditional": "邕",
+  "pinyin": "yōng",
+  "english": "name",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized shape resembling a person sitting with hands folded -> associative with names, particularly in place names",
+    "interpretation": "The character 邕(yōng, \"name\") visually represents a figure looking up with arms outstretched, which may relate to the notion of a name, historically used in place names like Nanning (formerly Yong Prefecture).",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们在图书馆遇见了邕(我們在圖書館遇見了邕)。",
+      "pinyin": "Wǒmen zài túshūguǎn yùjiàn le Yōng.",
+      "english": "We met Yōng at the library."
+    },
+    {
+      "chinese": "他的父母为邕感到骄傲(他的父母為邕感到驕傲)，因为邕勤奋好学(因為邕勤奮好學)。",
+      "pinyin": "Tā de fùmǔ wèi Yōng gǎndào jiāo'ào, yīnwèi Yōng qínfèn hàoxué.",
+      "english": "His parents are proud of Yōng because Yōng is diligent and studious."
+    },
+    {
+      "chinese": "诗人笔下的邕(詩人筆下的邕)，如流星般闪耀(如流星般閃耀)。",
+      "pinyin": "Shīrén bǐxià de Yōng, rú liúxīng bān shǎnyào.",
+      "english": "Yōng, as depicted by the poet, shines like a shooting star."
+    }
+  ]
+}

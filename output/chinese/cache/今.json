@@ -1,0 +1,44 @@
+{
+  "simplified": "今",
+  "traditional": "今",
+  "pinyin": "jīn",
+  "english": "now",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Inverted 曰(曰) (yuē, \"to speak\") -> 亼(亼) with a horizontal stroke at the bottom -> depicts 'not to speak' or something in the mouth",
+    "interpretation": "The character 今(jīn, \"now\") represents a transformation of 曰(曰) to symbolize 'not to speak' or perhaps something held in the mouth, related to concepts of quiet or containment, suggesting the present or stasis of 'now'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "to speak"
+    },
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "assemble"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "从今以后(從今以後)，我会更加努力(我會更加努力)。",
+      "pinyin": "Cóng jīn yǐhòu, wǒ huì gèngjiā nǔlì.",
+      "english": "From now on, I will work even harder."
+    },
+    {
+      "chinese": "今晚聚会(今晚聚會)。",
+      "pinyin": "Jīn wǎn jùhuì.",
+      "english": "The gathering is tonight."
+    },
+    {
+      "chinese": "今晨阅读使我清醒(今晨閱讀使我清醒)。",
+      "pinyin": "Jīn chén yuèdú shǐ wǒ qīngxǐng.",
+      "english": "Reading this morning makes me alert."
+    }
+  ]
+}

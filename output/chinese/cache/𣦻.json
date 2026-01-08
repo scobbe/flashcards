@@ -1,0 +1,28 @@
+{
+  "simplified": "𣦻",
+  "traditional": "𣦻",
+  "pinyin": "cán",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "歺(歺) (è, \"bone remnants\") + 又(又) (yòu, \"hand\") = hand handling bone remnants",
+    "interpretation": "The character 𣦻 combines 歺(歺) (è, \"bone remnants\") with 又(又) (yòu, \"hand\") to depict a hand working with bone remnants, which is closely related to its use as a phonetic component in other characters, such as 餐(餐) (cān, \"meal\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歺",
+      "trad": "歺",
+      "pinyin": "è",
+      "english": "bone remnants"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "数一数",
+  "traditional": "數一數",
+  "pinyin": "shǔ yī shǔ",
+  "english": "count",
+  "etymology": {
+    "type": "compound word",
+    "description": "數(數) (shǔ, \"count\") + 一(一) (yī, \"one\") + 數(數) (shǔ, \"count\") = to count one by one",
+    "interpretation": "The word 数一数(數一數) (shǔ yī shǔ) implies the action of counting items one by one. The repetition of 數(數) (shǔ, \"count\") emphasizes the continuous and detailed aspect of counting, while 一(一) (yī, \"one\") reinforces the idea of counting each individual item.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "数",
+      "trad": "數",
+      "pinyin": "shǔ",
+      "english": "count; number; several"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single"
+    },
+    {
+      "char": "数",
+      "trad": "數",
+      "pinyin": "shǔ",
+      "english": "count; number; several"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "数一数苹果(數一數蘋果)。",
+      "pinyin": "shǔ yī shǔ píngguǒ.",
+      "english": "Count the apples."
+    },
+    {
+      "chinese": "数一数手表(數一數手錶)，检查是否正常(檢查是否正常)。",
+      "pinyin": "shǔ yī shǔ shǒubiǎo, jiǎnchá shìfǒu zhèngcháng.",
+      "english": "Count the watches and check if they work properly."
+    },
+    {
+      "chinese": "每逢生日(每逢生日)，我数一数蜡烛(我數一數蠟燭)。",
+      "pinyin": "měiféng shēngrì, wǒ shǔ yī shǔ làzhú.",
+      "english": "On every birthday, I count the candles."
+    }
+  ]
+}

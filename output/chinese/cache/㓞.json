@@ -1,0 +1,22 @@
+{
+  "simplified": "㓞",
+  "traditional": "㓞",
+  "pinyin": "jiè",
+  "english": "carve, engrave",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 丯 (jiè, no direct meaning) + Semantic 刀(刀) (dāo, \"knife\") = to engrave",
+    "interpretation": "The character 㓞(㓞) (jiè, \"carve, engrave\") combines the phonetic element 丯 (jiè) with the semantic 刀(刀) (dāo, \"knife\") to suggest an action involving cutting or carving. 刀(刀) (dāo) clearly indicates a tool used for engraving, while 丯 serves as the phonetic guide.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

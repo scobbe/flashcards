@@ -1,26 +1,39 @@
 {
   "simplified": "攵",
-  "traditional": "攵",
+  "traditional": "攴",
   "pinyin": "pū",
   "english": "tap",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hand holding a stick, preparing to strike, tap or hit",
-    "interpretation": "This character visually represents a hand wielding a stick, which aligns with its meaning of 'tap' or 'hit.' As a pictogram, it captures the action directly and succinctly.",
+    "description": "又(又) (yòu, \"hand\") + tool -> hand holding a tool -> stylized as 卜(卜) (bǔ, \"divine\")",
+    "interpretation": "The character 攴 originally depicted a hand holding a tool or weapon, indicating the action of hitting. Over time, the tool part evolved into the stylized form 卜, which serves a phonetic function, but the overall meaning still relates to striking or tapping.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他用手攵了一下门(他用手攴了一下門)。",
-      "pinyin": "Tā yòng shǒu pūle yīxià mén.",
-      "english": "He tapped on the door with his hand."
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
     },
     {
-      "chinese": "读古书时(讀古書時)，他注意到‘攵’这个偏旁(他注意到‘攴’這個偏旁)。",
-      "pinyin": "Dú gǔshū shí, tā zhùyì dào 'pū' zhège piānpáng.",
-      "english": "While reading ancient books, he noticed the radical '攵'."
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他轻轻攵了门(他輕輕攵了門)。",
+      "pinyin": "Tā qīngqīng pū le mén.",
+      "english": "He tapped the door gently."
+    },
+    {
+      "chinese": "当电话响起时(當電話響起時)，他用手指攵了桌子(他用手指攴了桌子)。",
+      "pinyin": "Dāng diànhuà xiǎngqǐ shí, tā yòng shǒuzhǐ pū le zhuōzi.",
+      "english": "When the phone rang, he tapped the table with his finger."
     }
   ]
 }

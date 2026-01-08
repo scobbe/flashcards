@@ -2,11 +2,11 @@
   "simplified": "冃",
   "traditional": "冃",
   "pinyin": "mào",
-  "english": "hat",
+  "english": "crown",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hat -> original form of 帽(帽) (mào, \"hat\"), in which it appears as ⺜",
-    "interpretation": "冃(mào, \"hat\") is a pictogram representing the basic shape of a hat and is the original form of 帽(帽) (mào, \"hat\"), with the additional semantic element of 巾(巾) (jīn, \"cloth\") representing the material typically used to make hats.",
+    "description": "Depicts a hat or crown -> original form of 帽(帽) (mào, \"hat\")",
+    "interpretation": "冃(mào) was originally used to depict a hat or crown, reflecting its pictographic representation. Over time, it evolved to denote a more general concept of hats, leading to the creation of 帽(帽) (mào, \"hat\"), where 冃 became ⺜.",
     "simplification": ""
   },
   "parts": [
@@ -15,25 +15,8 @@
       "trad": "帽",
       "pinyin": "mào",
       "english": "hat"
-    },
-    {
-      "char": "巾",
-      "trad": "巾",
-      "pinyin": "jīn",
-      "english": "cloth"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他戴着红色的冃(他戴著紅色的冃)，抵御寒冷(抵禦寒冷)。",
-      "pinyin": "Tā dài zhe hóng sè de mào, dǐ yù hán lěng.",
-      "english": "He wears a red hat to resist the cold."
-    },
-    {
-      "chinese": "别忘了拿冃(別忘了拿冃)，出门时戴好(出門時戴好)。",
-      "pinyin": "Bié wàng le ná mào, chū mén shí dài hǎo.",
-      "english": "Don't forget to take your hat and wear it when you go out."
-    }
-  ]
+  "examples": []
 }

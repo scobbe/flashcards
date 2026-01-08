@@ -1,0 +1,39 @@
+{
+  "simplified": "聲",
+  "traditional": "聲",
+  "pinyin": "shēng",
+  "english": "stone chime",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 殸(殸) (kēng, \"stone chime\") + semantic 耳(耳) (ěr, \"ear\") = sound heard by the ear -> stone chime",
+    "interpretation": "The character 聲(shēng, \"stone chime\") combines the phonetic element 殸(殸) (kēng, \"stone chime\") with 耳(耳) (ěr, \"ear\") to represent sounds, specifically the sound of a stone chime as heard by the ear.",
+    "simplification": "声 is a simplified and variant form of 聲, retaining the primary phonetic and semantic elements."
+  },
+  "parts": [
+    {
+      "char": "殸",
+      "trad": "殸",
+      "pinyin": "kēng",
+      "english": "stone chime"
+    },
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古寺中传来石制聲的回响(古寺中傳來石製聲的回響)。",
+      "pinyin": "Gǔ sì zhōng chuán lái shí zhì shēng de huí xiǎng.",
+      "english": "The echo of the stone chime came from the ancient temple."
+    },
+    {
+      "chinese": "夜深时(夜深時)，山谷中传出石制聲的旋律(山谷中傳出石製聲的旋律)。",
+      "pinyin": "Yè shēn shí, shān gǔ zhōng chuán chū shí zhì shēng de xuán lǜ.",
+      "english": "At night, a melody from the stone chime echoed through the mountain valley."
+    }
+  ]
+}

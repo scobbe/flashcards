@@ -2,25 +2,43 @@
   "simplified": "冂",
   "traditional": "冂",
   "pinyin": "jiōng",
-  "english": "open country",
+  "english": "borders",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts open country with three lines representing the territory outside city walls",
-    "interpretation": "冂(冂) (jiōng, \"open country\") effectively represents an unbounded area, signifying the open and vast spaces beyond city boundaries, aligning with the concept of an uncontaminated countryside.",
+    "description": "Depicts three lines representing a territory outside city walls -> original form of 堂(堂) (táng, \"hall\") -> reversed form is 凵(凵) (kǎn, \"container\")",
+    "interpretation": "The character 冂(冂) (jiōng, \"borders\") symbolically represents an area extending beyond the boundaries of the urban environment, depicting open countryside. Its association with 堂(堂) (táng, \"hall\") as an original form suggests its use in depicting enclosed spaces like buildings.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "这个字的偏旁冂(冂)，显示了开放乡村的意境(顯示了開放鄉村的意境)。",
-      "pinyin": "Zhège zì de piānpáng jiōng, xiǎnshìle kāifàng xiāngcūn de yìjìng.",
-      "english": "The radical '冂' in this character reveals the imagery of an open countryside."
+      "char": "堂",
+      "trad": "堂",
+      "pinyin": "táng",
+      "english": "hall"
     },
     {
-      "chinese": "在古文献中(在古文獻中)，冂常被用来象征广大国土(冂常被用來象徵廣大國土)。",
-      "pinyin": "Zài gǔwénxiàn zhōng, jiōng cháng bèi yòng lái xiàngzhēng guǎngdà guótǔ.",
-      "english": "In ancient texts, '冂' was often used to symbolize vast territories."
+      "char": "凵",
+      "trad": "凵",
+      "pinyin": "kǎn",
+      "english": "container"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅画以冂为边框(這幅畫以冂為邊框)。",
+      "pinyin": "Zhè fú huà yǐ jiōng wéi biānkuàng.",
+      "english": "This painting uses 冂 as its border."
+    },
+    {
+      "chinese": "学校大门两旁各有一个冂装饰(學校大門兩旁各有一個冂裝飾)。",
+      "pinyin": "Xuéxiào dàmén liǎng páng gè yǒu yīgè jiōng zhuāngshì.",
+      "english": "There is a 冂 decoration on each side of the school gate."
+    },
+    {
+      "chinese": "古代的城池常用冂来象征国界(古代的城池常用冂來象徵國界)。",
+      "pinyin": "Gǔdài de chéngchí cháng yòng jiōng lái xiàngzhēng guójiè.",
+      "english": "In ancient times, cities often used 冂 to symbolize national borders."
     }
   ]
 }

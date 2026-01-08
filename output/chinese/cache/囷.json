@@ -5,8 +5,8 @@
   "english": "storing grains",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "囗(囗) (wéi, \"enclosure\") + 禾(禾) (hé, \"grain\") = depicts a round granary for storing grain",
-    "interpretation": "The character combines an enclosure with grain, clearly illustrating a place dedicated to storing grains, like a granary.",
+    "description": "semantic: 囗(囗) (wéi, \"enclosure\") + phonetic: 君(君) (jūn, \"sovereign\") = grain storage enclosed within a structure",
+    "interpretation": "The character 囷(jùn) illustrates the idea of storing grains by combining the semantic element 囗(囗) (wéi, \"enclosure\") representing a structure and the phonetic element 君(君) (jūn, \"sovereign\") to suggest pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,12 @@
       "english": "enclosure"
     },
     {
-      "char": "禾",
-      "trad": "禾",
-      "pinyin": "hé",
-      "english": "grain"
+      "char": "君",
+      "trad": "君",
+      "pinyin": "jūn",
+      "english": "sovereign"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他们把谷物认真地囷好(他們把穀物認真地囷好)。",
-      "pinyin": "Tāmen bǎ gǔwù rènzhēn de jùn hǎo.",
-      "english": "They carefully store the grains."
-    },
-    {
-      "chinese": "农夫在仓库囷稻米(農夫在倉庫囷稻米)，以备寒冬缺粮(以備寒冬缺糧)。",
-      "pinyin": "Nóngfū zài cāngkù jùn dào mǐ, yǐ bèi hándōng quē liáng.",
-      "english": "The farmer stores rice in the warehouse, to prepare for grain shortages in the cold winter."
-    }
-  ]
+  "examples": []
 }

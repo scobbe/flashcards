@@ -1,0 +1,44 @@
+{
+  "simplified": "場",
+  "traditional": "場",
+  "pinyin": "chǎng",
+  "english": "field; place; venue",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "土(土) (tǔ, \"earth\") + phonetic 昜(昜) (yáng) = open field on the earth -> field or place",
+    "interpretation": "The character 場 combines the earth radical 土(土) (tǔ, \"earth\") with 昜(昜) (yáng) to indicate a physical location or field. The semantic component 土 emphasizes the connection to the ground or land, while 昜 provides the phonetic aspect.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "运动场上人潮汹涌(運動場上人潮洶湧)。",
+      "pinyin": "Yùn dòng chǎng shàng rén cháo xiōng yǒng.",
+      "english": "Crowds surge on the sports field."
+    },
+    {
+      "chinese": "这个场地很宽敞(這個場地很寬敞)，适合举办大型演唱会(適合舉辦大型演唱會)。",
+      "pinyin": "Zhè gè chǎng dì hěn kuān chǎng, shì hé jǔ bàn dà xíng yǎn chàng huì.",
+      "english": "This venue is spacious and suitable for hosting large concerts."
+    },
+    {
+      "chinese": "音乐会场中回荡着美妙旋律(音樂會場中回蕩著美妙旋律)。",
+      "pinyin": "Yīn yuè huì chǎng zhōng huí dàng zhe měi miào xuán lǜ.",
+      "english": "Beautiful melodies resonate in the concert hall."
+    }
+  ]
+}

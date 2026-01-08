@@ -1,0 +1,39 @@
+{
+  "simplified": "務",
+  "traditional": "務",
+  "pinyin": "wù",
+  "english": "affairs; duties; to attend to",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 敄 + Semantic 力 (力, \"strength\") = tasks requiring strength -> attending to duties",
+    "interpretation": "The character combines the concept of strength, 力 (lì, \"strength\"), with the phonetic component 敄, suggesting an action requiring effort, like attending to duties or affairs.",
+    "simplification": "Simplified by removing 矛 (máo, \"spear\") for ease of writing, retaining the phonetic value with simplified 务."
+  },
+  "parts": [
+    {
+      "char": "敄",
+      "trad": "敄",
+      "pinyin": "wù",
+      "english": "phonetic component"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们在处理日常事务时要谨慎(我們在處理日常事務時要謹慎)。",
+      "pinyin": "Wǒmen zài chǔlǐ rìcháng shìwù shí yào jǐnshèn.",
+      "english": "We must be cautious when handling everyday affairs."
+    },
+    {
+      "chinese": "领导分配重要任务(領導分派重要任務)，员工各尽其职办理事务(員工各盡其職辦理事務)。",
+      "pinyin": "Lǐngdǎo fēnpài zhòngyào rènwù, yuángōng gè jìn qí zhí bànlǐ shìwù.",
+      "english": "The leader assigns important tasks, and employees conscientiously manage affairs."
+    }
+  ]
+}

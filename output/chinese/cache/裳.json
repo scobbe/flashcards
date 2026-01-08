@@ -1,0 +1,44 @@
+{
+  "simplified": "裳",
+  "traditional": "裳",
+  "pinyin": "cháng",
+  "english": "lower garment",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 尚(尚) (shàng, 'still') + Semantic 衣(衣) (yī, 'clothing') = lower garment, skirt",
+    "interpretation": "The character emphasizes clothing related to the lower body, with 尚(尚) (shàng, 'still') providing the sound component while 衣(衣) (yī, 'clothing') indicates the meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "still"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她穿上轻薄的裳(她穿上輕薄的裳)。",
+      "pinyin": "Tā chuān shàng qīng bó de cháng.",
+      "english": "She put on a light lower garment."
+    },
+    {
+      "chinese": "宫廷女子佩戴华丽的裳(宮廷女子佩戴華麗的裳)，在花园中漫步(在花園中漫步)。",
+      "pinyin": "Gōngtíng nǚzǐ pèidài huálì de cháng, zài huāyuán zhōng mànbù.",
+      "english": "The palace lady wore a gorgeous lower garment as she strolled in the garden."
+    },
+    {
+      "chinese": "她喜欢用细绸制成的裳(她喜歡用細綢制成的裳)，作为夏日衣服(作為夏日衣服)。",
+      "pinyin": "Tā xǐhuān yòng xì chóu zhìchéng de cháng, zuòwéi xiàrì yīfú.",
+      "english": "She likes lower garments made of fine silk as summer clothes."
+    }
+  ]
+}

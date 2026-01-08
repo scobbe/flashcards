@@ -2,11 +2,11 @@
   "simplified": "辵",
   "traditional": "辵",
   "pinyin": "chuò",
-  "english": "walk",
+  "english": "to walk",
   "etymology": {
-    "type": "pictogram",
-    "description": "Combines 彳(彳) (chì, \"step\") + 止(止) (zhǐ, \"stop\") = movement and stopping -> walk",
-    "interpretation": "The character 辵(辵) combines elements signifying movement, 彳(彳) (chì, \"step\"), and cessation of movement, 止(止) (zhǐ, \"stop\"), to visually convey the action of walking or progressing.",
+    "type": "ideogrammic compound",
+    "description": "彳(彳) (chì, \"walk\") + 止(止) (zhǐ, \"foot\" or \"to stop\") -> 𣥆 -> stylized as 龰 -> 辵",
+    "interpretation": "The character 辵 combines 彳(彳) (chì, \"walk\"), which represents movement, with 止(止) (zhǐ, \"foot\" or \"to stop\"), suggesting the concept of stepping or traveling forward. This character represents the idea of movement, particularly the action of walking or traveling, as originally depicted by the more conservative form 𣥆. Over time, the bottom component has been stylized as 龰, forming the current representation.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,26 @@
       "char": "彳",
       "trad": "彳",
       "pinyin": "chì",
-      "english": "step"
+      "english": "walk"
     },
     {
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
-      "english": "stop"
+      "english": "foot"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "行走得很稳重时(行走得很穩重時)，他总是注意辵的象形结构(他總是注意辶的象形結構)。",
-      "pinyin": "xíngzǒu dé hěn wěnzhòng shí, tā zǒng shì zhùyì chuò de xiàngxíng jiégòu.",
-      "english": "When walking steadily, he always pays attention to the pictographic structure of '辵'."
+      "chinese": "他辵在乡间的小路上(他辵在鄉間的小路上)。",
+      "pinyin": "Tā chuò zài xiāngjiān de xiǎolù shàng.",
+      "english": "He walks on the rural path."
     },
     {
-      "chinese": "他平时喜欢漫步时(他平時喜歡漫步時)，研究古字中的辵偏旁(研究古字中的辶偏旁)。",
-      "pinyin": "tā píngshí xǐhuān mànbù shí, yánjiū gǔ zì zhōng de chuò piānpáng.",
-      "english": "He likes to stroll in his spare time, and he studies the radical '辵' in ancient characters."
+      "chinese": "晨光洒满大地(晨光灑滿大地)，他辵出门开始旅程(他辵出門開始旅程)。",
+      "pinyin": "Chén guāng sǎ mǎn dàdì, tā chuò chūmén kāishǐ lǚchéng.",
+      "english": "As the morning light fills the earth, he sets out to begin his journey."
     }
   ]
 }

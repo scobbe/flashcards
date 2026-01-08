@@ -1,0 +1,38 @@
+{
+  "simplified": "車",
+  "traditional": "車",
+  "pinyin": "chē",
+  "english": "vehicle; car",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a carriage viewed from above; wheels on both sides + sun shade on top -> depicted vertically with wheels as strokes and loading area marked by 田(田) (tián, \"field\") -> 車",
+    "interpretation": "The character 車(chē, \"vehicle\") originally depicts a carriage from an overhead perspective. The transformation into the vertical form involved simplifying the depiction of wheels and emphasizing the loading area, marked by a field symbol, creating a streamlined pictographic representation.",
+    "simplification": "The traditional character 車 was simplified to 车 by reducing the number of strokes, maintaining the overall shape of the vehicle but removing intricate details."
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我坐车去上班(我坐車去上班)。",
+      "pinyin": "Wǒ zuò chē qù shàngbān.",
+      "english": "I take a car to go to work."
+    },
+    {
+      "chinese": "这辆车很快(這輛車很快)。",
+      "pinyin": "Zhè liàng chē hěn kuài.",
+      "english": "This car is very fast."
+    },
+    {
+      "chinese": "我想买一辆新车(我想買一輛新車)。",
+      "pinyin": "Wǒ xiǎng mǎi yī liàng xīn chē.",
+      "english": "I want to buy a new car."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file_status": {
+    "1.跑腿": "complete",
+    "2.锅巴饭": "complete",
+    "3.八字": "complete",
+    "4.扬州": "complete",
+    "5.枣": "complete"
+  },
+  "complete": 5,
+  "in_progress": 0,
+  "pending": 0,
+  "error": 0,
+  "complete_contiguous": 5
+}

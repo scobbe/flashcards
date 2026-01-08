@@ -4,9 +4,9 @@
   "pinyin": "shí",
   "english": "eat",
   "etymology": {
-    "type": "Pictogram",
-    "description": "亼(亼) (jí, \"gather\") over 皀(𠊊, \"bowl of rice on a stand\") = depicts a mouth over a bowl of rice",
-    "interpretation": "The character visually represents the concept of eating, with a mouth positioned over a bowl of rice, symbolizing the action of consuming food.",
+    "type": "pictogram",
+    "description": "亼 (mouth) + 皀 (bowl of rice on stand) = depicts someone eating by placing food into the mouth",
+    "interpretation": "The character 飠(食) (shí, 'eat') visually represents the act of eating, with a mouth above a bowl of rice on a stand, encapsulating the concept of consuming food.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,26 @@
       "char": "亼",
       "trad": "亼",
       "pinyin": "jí",
-      "english": "gather"
+      "english": "mouth"
     },
     {
       "char": "皀",
-      "trad": "𠊊",
+      "trad": "皀",
       "pinyin": "jī",
-      "english": "bowl of rice on a stand"
+      "english": "bowl of rice on stand"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我飠早餐(我飠早餐)。",
-      "pinyin": "Wǒ shí zǎocān.",
-      "english": "I eat breakfast."
+      "chinese": "小朋友飠饼干(小朋友飠餅乾)。",
+      "pinyin": "xiǎo péngyǒu shí bǐnggān。",
+      "english": "The children eat cookies."
     },
     {
-      "chinese": "春天到来时(春天到來時)，我们在露天餐厅飠火锅(我們在露天餐廳飠火鍋)。",
-      "pinyin": "Chūntiān dào lái shí, wǒmen zài lùtiān cāntīng shí huǒguō.",
-      "english": "When spring comes, we eat hot pot at the open-air restaurant."
-    },
-    {
-      "chinese": "他飠完午餐后(他飠完午餐後)，便去图书馆(便去圖書館)。",
-      "pinyin": "Tā shí wán wǔcān hòu, biàn qù túshūguǎn.",
-      "english": "After he finished eating lunch, he went to the library."
+      "chinese": "妈妈飠饭(媽媽飠飯)，孩子喝汤(孩子喝湯)。",
+      "pinyin": "māmā shí fàn, háizi hē tāng。",
+      "english": "Mother eats rice, and the child drinks soup."
     }
   ]
 }

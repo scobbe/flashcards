@@ -1,0 +1,34 @@
+{
+  "simplified": "蓺",
+  "traditional": "蓺",
+  "pinyin": "yì",
+  "english": "art",
+  "etymology": {
+    "type": "variant form",
+    "description": "Variant form of 藝(藝) (yì, \"art\") -> 艸(艸) (cǎo, \"grass\") + 云(云) (yún, \"cloud\") added",
+    "interpretation": "蓺 is a variant of 藝, initially represented by 埶, which was later combined with 艸 representing 'grass, plant' and 云 for phonetic enhancement. The combination evokes the cultivation of skill as an art form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "藝",
+      "trad": "藝",
+      "pinyin": "yì",
+      "english": "art"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "云",
+      "trad": "云",
+      "pinyin": "yún",
+      "english": "cloud"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

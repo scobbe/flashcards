@@ -1,0 +1,39 @@
+{
+  "simplified": "鍋",
+  "traditional": "鍋",
+  "pinyin": "guō",
+  "english": "pot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") + 咼(咼) (guō, phonetic) = metal vessel",
+    "interpretation": "The character 鍋 (guō, \"pot\") combines the metal radical 金(金) (jīn, \"metal\") with the phonetic component 咼(咼) (guō). This illustrates its association with metal as many pots or cooking vessels are traditionally made of metal.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "咼",
+      "trad": "咼",
+      "pinyin": "guō",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一口新鍋(我買了一口新鍋)，准备煮火锅(準備煮火鍋)。",
+      "pinyin": "Wǒ mǎile yīkǒu xīn guō, zhǔnbèi zhǔ huǒguō.",
+      "english": "I bought a new pot and am preparing to cook hotpot."
+    },
+    {
+      "chinese": "厨房里的鍋很耐用(廚房裡的鍋很耐用)。",
+      "pinyin": "Chúfáng lǐ de guō hěn nàiyòng.",
+      "english": "The pot in the kitchen is very durable."
+    }
+  ]
+}

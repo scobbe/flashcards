@@ -1,0 +1,31 @@
+{
+  "simplified": "业",
+  "traditional": "業",
+  "pinyin": "yè",
+  "english": "business; industry; occupation",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally a pictogram depicting a beam from which bells and chimes hang -> stylized to represent productivity and work -> simplified by omitting certain strokes -> final form 业",
+    "interpretation": "The character 業(業) (yè, \"business\") evolved from an image of a structure associated with ceremonial music to symbolize organized effort or work, fitting the concept of occupation or industry. In simplification, 业(業) retains the notion of an overhead beam, reflecting the character's origin.",
+    "simplification": "业(業) simplifies by omitting the majority of top and bottom strokes, condensing it to its most essential elements."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他经营餐饮业(他經營餐飲業)，拓展了商业版图(拓展了商業版圖)。",
+      "pinyin": "Tā jīngyíng cānyǐn yè, tuòzhǎnle shāngyè bǎntú.",
+      "english": "He manages the restaurant industry, expanding his business network."
+    },
+    {
+      "chinese": "她选择了会计业(她選擇了會計業)，努力获得专业认证(努力獲得專業認證)。",
+      "pinyin": "Tā xuǎnzé le kuàijì yè, nǔlì huòdé zhuānyè rènzhèng.",
+      "english": "She chose the accounting profession, striving to obtain professional certifications."
+    },
+    {
+      "chinese": "毕业后他投身于高新技术业(畢業後他投身於高新技術業)，展现出卓越才华(展現出卓越才華)。",
+      "pinyin": "Bìyè hòu tā tóushēn yú gāoxīn jìshù yè, zhǎnxiàn chū zhuóyuè cáihuá.",
+      "english": "After graduation, he immersed himself in the high-tech industry, demonstrating exceptional talent."
+    }
+  ]
+}

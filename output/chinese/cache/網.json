@@ -1,0 +1,39 @@
+{
+  "simplified": "網",
+  "traditional": "網",
+  "pinyin": "wǎng",
+  "english": "net",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"rope\") + 罔(罔) (wǎng, \"net\") = rope and phonetic value -> net",
+    "interpretation": "The character 網(wǎng) combines 糸(糸) (mì, \"rope\"), indicating its use in weaving or creating nets, with 罔(罔) (wǎng, \"net\"), which provides the sound. This combination effectively conveys the idea of a network or a mesh made from woven ropes.",
+    "simplification": "The character was simplified to 网 by using its ancient form, which uses fewer strokes."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "rope"
+    },
+    {
+      "char": "罔",
+      "trad": "罔",
+      "pinyin": "wǎng",
+      "english": "net"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用网捕捉鲤鱼(我用網捕捉鯉魚)。",
+      "pinyin": "Wǒ yòng wǎng bǔzhuō lǐyú.",
+      "english": "I use a net to catch carp."
+    },
+    {
+      "chinese": "他在海边撒下了网(他在海邊撒下了網)，希望能捕到大鱼(希望能捕到大魚)。",
+      "pinyin": "Tā zài hǎibiān sā xià le wǎng, xīwàng néng bǔ dào dàyú.",
+      "english": "He cast a net by the seaside, hoping to catch a big fish."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "simplified": "中国民航",
+  "traditional": "中國民航",
+  "pinyin": "Zhōngguó Mínháng",
+  "english": "Civil Aviation Administration of China (CAAC)",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\") + 國(國) (guó, \"country\") = 中國(中國) (zhōngguó, \"China\"); 民(民) (mín, \"people; civil\") + 航(航) (háng, \"navigation; aviation\") = 民航(民航) (mínháng, \"civil aviation\")",
+    "interpretation": "中國(中國) (zhōngguó, \"China\") refers to the country, while 民航(民航) (mínháng, \"civil aviation\") denotes the sector focused on civilian air transportation. Combined, 中國民航(中國民航) refers to the Civil Aviation Administration of China, the national body overseeing civil aviation in the country.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    },
+    {
+      "char": "國",
+      "trad": "國",
+      "pinyin": "guó",
+      "english": "country"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people; civil"
+    },
+    {
+      "char": "航",
+      "trad": "航",
+      "pinyin": "háng",
+      "english": "navigation; aviation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中国民航监管严格(中國民航監管嚴格)。",
+      "pinyin": "Zhōngguó Mínháng jiānguǎn yángé.",
+      "english": "The Civil Aviation Administration of China enforces strict oversight."
+    },
+    {
+      "chinese": "中国民航安全记录良好(中國民航安全記錄良好)，促进国际合作(促進國際合作)。",
+      "pinyin": "Zhōngguó Mínháng ānquán jìlù liánghǎo, cùjìn guójì hézuò.",
+      "english": "The CAAC has a good safety record, fostering international cooperation."
+    }
+  ]
+}

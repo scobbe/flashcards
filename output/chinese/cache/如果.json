@@ -1,0 +1,44 @@
+{
+  "simplified": "如果",
+  "traditional": "如果",
+  "pinyin": "rúguǒ",
+  "english": "if",
+  "etymology": {
+    "type": "compound word",
+    "description": "如(如) (rú, \"as; like\") + 果(果) (guǒ, \"fruit; result\") = \"if; in the case of\"",
+    "interpretation": "The word 如果(如果) (rúguǒ, \"if\") combines 如(如) (rú, \"as; like\") with 果(果) (guǒ, \"result\"), suggesting a conditional relationship similar to 'as a result.' It frames hypothetical scenarios by indicating the potential outcomes that could follow from a given situation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "如",
+      "trad": "如",
+      "pinyin": "rú",
+      "english": "as; like"
+    },
+    {
+      "char": "果",
+      "trad": "果",
+      "pinyin": "guǒ",
+      "english": "fruit; result"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "如果你有时间(如果你有時間)，请来参加我们的聚会(請來參加我們的聚會)。",
+      "pinyin": "rúguǒ nǐ yǒu shíjiān, qǐng lái cānjiā wǒmen de jùhuì.",
+      "english": "If you have time, please come to our party."
+    },
+    {
+      "chinese": "如果明天下雨(如果明天下雨)，我们就取消计划(我們就取消計劃)。",
+      "pinyin": "rúguǒ míngtiān xiàyǔ, wǒmen jiù qǔxiāo jìhuà.",
+      "english": "If it rains tomorrow, we will cancel the plan."
+    },
+    {
+      "chinese": "如果有困难(如果有困難)，请随时告诉我(請隨時告訴我)。",
+      "pinyin": "rúguǒ yǒu kùnnán, qǐng suíshí gàosù wǒ.",
+      "english": "If you have difficulties, please let me know at any time."
+    }
+  ]
+}

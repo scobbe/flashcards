@@ -1,0 +1,44 @@
+{
+  "simplified": "私",
+  "traditional": "私",
+  "pinyin": "sī",
+  "english": "selfish; private",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "厶(厶) (sī, \"private\") -> originally referred to \"private\" -> + 禾(禾) (hé, \"grain\") = semantic component added for distinction -> 私",
+    "interpretation": "The character 私(sī, \"selfish; private\") is formed with the phonetic component 厶(厶) (sī, \"private\"), which originally denoted \"private\" on its own. The semantic component 禾(禾) (hé, \"grain\") was later added to clarify its meaning and usage, highlighting its association with personal or private matters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "厶",
+      "trad": "厶",
+      "pinyin": "sī",
+      "english": "private"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他不处理公事(他不處理公事)，只关心私事(只關心私事)。",
+      "pinyin": "Tā bù chǔlǐ gōngshì, zhǐ guānxīn sī shì.",
+      "english": "He does not handle public affairs, only cares about private matters."
+    },
+    {
+      "chinese": "朋友之间应互相尊重私隐(朋友之間應互相尊重私隱)。",
+      "pinyin": "Péngyǒu zhījiān yīng hùxiāng zūnzhòng sī yǐn.",
+      "english": "Friends should mutually respect each other's privacy."
+    },
+    {
+      "chinese": "他总是偷偷地处理私事(他總是偷偷地處理私事)，不愿让别人知道(不願讓別人知道)。",
+      "pinyin": "Tā zǒng shì tōutōu de chǔlǐ sī shì, bù yuàn ràng biérén zhīdào.",
+      "english": "He always secretly handles his private matters, unwilling to let others know."
+    }
+  ]
+}

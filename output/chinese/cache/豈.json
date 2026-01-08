@@ -2,43 +2,43 @@
   "simplified": "豈",
   "traditional": "豈",
   "pinyin": "qǐ",
-  "english": "drum",
+  "english": "how",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Semantic: 豆(豆) (dòu, \"vessel\") + phonetic: 丂(丂) (kǎo) = vessel with sound -> drum",
-    "interpretation": "The character 豈(豈) (qǐ) combines the semantic component 豆(豆) (dòu, \"vessel\") representing a container or support structure, with the phonetic 丂(丂) (kǎo), suggesting sound or noise emanating from a vessel-like object, which can be related to a drum.",
+    "type": "variation",
+    "description": "Possibly a variation of 壴(壴) (zhù, \"drum\") with the top part modified -> related to 凱(凱) (kǎi, \"music of triumph\")",
+    "interpretation": "The character 豈(qǐ) originally may have depicted or been associated with a drum, symbolizing its connection to the idea of musical triumph. The modified top part differentiates it from similar characters like 壴(壴) (zhù, \"drum\"), leading to its unique modern meaning of \"how\" in expressions.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "豆",
-      "trad": "豆",
-      "pinyin": "dòu",
-      "english": "vessel"
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
     },
     {
-      "char": "丂",
-      "trad": "丂",
-      "pinyin": "kǎo",
-      "english": "sound"
+      "char": "凱",
+      "trad": "凱",
+      "pinyin": "kǎi",
+      "english": "music of triumph"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "士兵击豈(士兵擊豈)，军心振奋(軍心振奮)。",
-      "pinyin": "Shì bīng jī qǐ, jūn xīn zhèn fèn.",
-      "english": "The soldiers beat the drum, uplifting the army's spirit."
+      "chinese": "若不努力(若不努力)，豈能成功(豈能成功)？",
+      "pinyin": "ruò bù nǔ lì, qǐ néng chéng gōng?",
+      "english": "If you do not work hard, how can you succeed?"
     },
     {
-      "chinese": "古战场上响起豈音(古戰場上響起豈音)，唤起壮士豪情(喚起壯士豪情)。",
-      "pinyin": "Gǔ zhàn chǎng shàng xiǎng qǐ qǐ yīn, huàn qǐ zhuàng shì háo qíng.",
-      "english": "On the ancient battlefield, the drum sounded, stirring heroic passion."
+      "chinese": "只要心中有夢(只要心中有夢)，豈會輕言放棄(豈會輕言放棄)？",
+      "pinyin": "zhǐ yào xīn zhōng yǒu mèng, qǐ huì qīng yán fàng qì?",
+      "english": "As long as you have a dream in your heart, how could you easily give up?"
     },
     {
-      "chinese": "晨曦初露时(晨曦初露時)，村中孩童击豈娱戏(村中孩童擊豈娛戲)。",
-      "pinyin": "Chén xī chū lù shí, cūn zhōng hái tóng jī qǐ yú xì.",
-      "english": "At dawn, the village children beat the drum as they played joyfully."
+      "chinese": "豈可輕忽天命(豈可輕忽天命)！",
+      "pinyin": "qǐ kě qīng hū tiān mìng!",
+      "english": "How can one disregard destiny!"
     }
   ]
 }

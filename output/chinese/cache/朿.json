@@ -1,0 +1,33 @@
+{
+  "simplified": "朿",
+  "traditional": "朿",
+  "pinyin": "cì",
+  "english": "thorn",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tree 木 (mù, \"tree\") with thorns",
+    "interpretation": "The character 朿(朿) (cì, \"thorn\") is a pictogram that visually represents the image of a tree with thorns. This depiction highlights the primary feature of thorns protruding from a branch or tree, emphasizing their pointed and sharp nature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "玫瑰上的朿非常锋利(玫瑰上的朿非常鋒利)。",
+      "pinyin": "Méiguī shàng de cì fēicháng fēnglì.",
+      "english": "The thorn on the rose is very sharp."
+    },
+    {
+      "chinese": "树枝上生长着小小的朿(樹枝上生長著小小的朿)，保护着嫩绿的叶子(保護著嫩綠的葉子)。",
+      "pinyin": "Shùzhī shàng shēngzhǎng zhe xiǎoxiǎo de cì, bǎohù zhe nènlǜ de yèzi.",
+      "english": "Small thorns grow on the branches, protecting the tender green leaves."
+    }
+  ]
+}

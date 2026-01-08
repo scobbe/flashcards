@@ -1,0 +1,44 @@
+{
+  "simplified": "等着",
+  "traditional": "等著",
+  "pinyin": "děng zhe",
+  "english": "waiting",
+  "etymology": {
+    "type": "compound word",
+    "description": "等(等) (děng, \"wait\") + 着(著) (zhe, \"continuous aspect particle\") = to be in a state of waiting",
+    "interpretation": "等(等) (děng, \"wait\") signifies the action of waiting, and 着(著) (zhe, \"continuous aspect particle\") indicates a continuous or ongoing action. Together, 等着(等著) (děng zhe) describes the action of waiting in progress, emphasizing an ongoing state of anticipation or expectancy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "等",
+      "trad": "等",
+      "pinyin": "děng",
+      "english": "wait; rank; equal"
+    },
+    {
+      "char": "着",
+      "trad": "著",
+      "pinyin": "zhe",
+      "english": "continuous aspect particle; touch; wear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈在门口等着(媽媽在門口等著)。",
+      "pinyin": "Māmā zài ménkǒu děng zhe.",
+      "english": "Mom is waiting at the door."
+    },
+    {
+      "chinese": "我们等着(我們等著)，你快点来(你快點來)。",
+      "pinyin": "Wǒmen děng zhe, nǐ kuài diǎn lái.",
+      "english": "We are waiting, come quickly."
+    },
+    {
+      "chinese": "他在车站等着(他在車站等著)，期待火车到来(期待火車到來)。",
+      "pinyin": "Tā zài chēzhàn děng zhe, qídài huǒchē dàolái.",
+      "english": "He is waiting at the station, expecting the train to arrive."
+    }
+  ]
+}

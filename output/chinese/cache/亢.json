@@ -1,0 +1,39 @@
+{
+  "simplified": "亢",
+  "traditional": "亢",
+  "pinyin": "kàng",
+  "english": "high",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "二(二) (èr, \"two\") above 人(人) (rén, \"person\") = person lifting something high",
+    "interpretation": "The character 亢(亢) (kàng, \"high\") visually represents a person standing with arms raised, symbolizing the idea of lifting or being elevated. The combination of two horizontal strokes above a person conveys the notion of height or reaching upwards.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的情绪亢奋(他的情緒亢奮)。",
+      "pinyin": "tā de qíngxù kàng fèn。",
+      "english": "His mood is highly excited."
+    },
+    {
+      "chinese": "山峰高耸(山峰高聳)，气势亢然(氣勢亢然)。",
+      "pinyin": "shānfēng gāosǒng, qìshì kàng rán。",
+      "english": "The mountains tower high, and their momentum is exalted."
+    }
+  ]
+}

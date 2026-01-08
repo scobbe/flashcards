@@ -1,0 +1,39 @@
+{
+  "simplified": "度假",
+  "traditional": "度假",
+  "pinyin": "dù jià",
+  "english": "to go on vacation",
+  "etymology": {
+    "type": "compound word",
+    "description": "度(度) (dù, \"spend\") + 假(假) (jià, \"holiday\") = to spend time on a holiday",
+    "interpretation": "The word 度假(度假) (dùjià, \"to go on vacation\") literally means spending time during a holiday period. It suggests taking a break from regular activities to rest and relax.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "度",
+      "trad": "度",
+      "pinyin": "dù",
+      "english": "spend; degree; limit; procedure"
+    },
+    {
+      "char": "假",
+      "trad": "假",
+      "pinyin": "jià",
+      "english": "holiday; vacation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划度假(我計劃度假)。",
+      "pinyin": "Wǒ jìhuà dù jià.",
+      "english": "I plan to go on vacation."
+    },
+    {
+      "chinese": "暑假期间我们会度假(暑假期間我們會度假)，享受阳光与沙滩(享受陽光與沙灘)。",
+      "pinyin": "Shǔjià qíjiān wǒmen huì dù jià, xiǎngshòu yángguāng yǔ shātān.",
+      "english": "During summer vacation, we will go on vacation, enjoying the sunshine and the beach."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "𧶠",
+  "traditional": "𧶠",
+  "pinyin": "lù",
+  "english": "sell",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𡍬 (phonetic) + 貝 (semantic: 'cowry', a symbol of money) -> original form 𧸇 -> 𡍬 reduced to 士 and 四 -> final form 𧶠",
+    "interpretation": "The character 𧶠 represents the concept of selling, with 貝(貝) (bèi, 'cowry') symbolizing money or trade, while 𡍬 acts as the phonetic component lending the sound lù. Over time, 𡍬 was simplified into 士(士) (shì, 'scholar') and 四(四) (sì, 'four'), evolving into the present form of the character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "四",
+      "trad": "四",
+      "pinyin": "sì",
+      "english": "four"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

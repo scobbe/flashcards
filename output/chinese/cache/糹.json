@@ -1,0 +1,26 @@
+{
+  "simplified": "糹",
+  "traditional": "糹",
+  "pinyin": "mì",
+  "english": "fine silk",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts threads of silk arranged vertically, representing fine silk",
+    "interpretation": "The character 糹 (mì, \"fine silk\") visually represents fine strands of silk with vertical lines suggesting the texture and thinness of silk threads.",
+    "simplification": "The traditional form 糹 was simplified to 纟 by retaining only three vertical strokes, capturing the essence of silk threads."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种糹制作的衣服格外精美(這種糹製作的衣服格外精美)。",
+      "pinyin": "Zhè zhǒng mì zhìzuò de yīfú géwài jīngměi。",
+      "english": "Clothes made from this fine silk are exceptionally exquisite."
+    },
+    {
+      "chinese": "古代使用糹编织华服(古代使用糹編織華服)，现代依然欣赏糹质的魅力(現代依然欣賞糹質的魅力)。",
+      "pinyin": "Gǔdài shǐyòng mì biānzhī huáfú, xiàndài yírán xīnshǎng mì zhì de mèilì。",
+      "english": "In ancient times, fine silk was used to weave splendid garments, and even today, its texture is admired."
+    }
+  ]
+}

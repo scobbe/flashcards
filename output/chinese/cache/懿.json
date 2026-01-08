@@ -5,8 +5,8 @@
   "english": "virtuous",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 心(心) (xīn, 'heart') + Phonetic: 壹(壹) (yī) = heart symbolizing virtuous qualities + 壹 lending sound and suggesting offerings or ceremonial vessels -> virtuous",
-    "interpretation": "Incorporating 心(心) (xīn, 'heart') emphasizes inner virtues and moral qualities, while the phonetic 壹(壹) (yī) enhances its meaning with associations to ceremonial respect and excellence, aligning with traditional ideals of virtue.",
+    "description": "心(心) (xīn, \"heart\") + 壹(壹) (yī) = heart indicating virtuous character, 壹 as phonetic suggesting reverence",
+    "interpretation": "The character 懿 combines the semantic component 心(心) (xīn, \"heart\"), suggesting moral and inner virtues, with the phonetic component 壹(壹) (yī), which adds the sound. Historically, the upper portion of 壹 depicted ceremonial offerings, enhancing the sense of moral excellence and reverence.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,9 @@
       "char": "壹",
       "trad": "壹",
       "pinyin": "yī",
-      "english": "one"
+      "english": ""
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "君子崇尚懿德(君子崇尚懿德)。",
-      "pinyin": "Jūnzǐ chóngshàng yì dé.",
-      "english": "A gentleman reveres virtuous qualities."
-    },
-    {
-      "chinese": "他身上流露出懿德之風(他身上流露出懿德之風)，使人肅然起敬(使人肅然起敬)。",
-      "pinyin": "Tā shēnshàng liúlòu chū yì dé zhī fēng, shǐ rén sùrán qǐ jìng.",
-      "english": "He exudes a spirit of virtue that inspires deep respect in others."
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,28 @@
+{
+  "simplified": "𠬜",
+  "traditional": "𠬜",
+  "pinyin": "",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 吾(吾) (wú, \"I\") = person-related action involving oneself -> not a standard character",
+    "interpretation": "The character is composed of the person radical 亻(亻) and 吾(吾), suggesting an action or state concerning oneself. It is not commonly used in modern Chinese and does not have a standard meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "吾",
+      "trad": "吾",
+      "pinyin": "wú",
+      "english": "I"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

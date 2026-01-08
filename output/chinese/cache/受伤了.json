@@ -1,0 +1,45 @@
+{
+  "simplified": "受伤了",
+  "traditional": "受傷了",
+  "pinyin": "shòu shāng le",
+  "english": "got injured",
+  "etymology": {
+    "type": "compound word",
+    "description": "受(受) (shòu, \"receive\"), 伤(傷) (shāng, \"injury\"), 了(了) (le, \"particle indicating change\")",
+    "interpretation": "This phrase combines 受(受) (shòu, \"receive\") and 伤(傷) (shāng, \"injury\"), indicating someone has received an injury. The particle 了(了) (le, \"indicating change\") adds a sense of completion or change, signifying that an injury has occurred.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "受",
+      "trad": "受",
+      "pinyin": "shòu",
+      "english": "receive; endure; bear; accept"
+    },
+    {
+      "char": "伤",
+      "trad": "傷",
+      "pinyin": "shāng",
+      "english": "injury; wound; damage; hurt"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating change; completed action; new situation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在比赛中受伤了(他在比賽中受傷了)。",
+      "pinyin": "Tā zài bǐsài zhōng shòu shāng le.",
+      "english": "He got injured in the competition."
+    },
+    {
+      "chinese": "他摔了个跤(他摔了個跤)，受伤了(受傷了)。",
+      "pinyin": "Tā shuāi le gè jiāo, shòu shāng le.",
+      "english": "He fell and got injured."
+    }
+  ]
+}

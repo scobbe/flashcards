@@ -1,0 +1,39 @@
+{
+  "simplified": "观",
+  "traditional": "觀",
+  "pinyin": "guān",
+  "english": "observe; watch; look",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 雚 (guān, 'cry of waterfowl') + Semantic: 見 (jiàn, 'see') = depiction of sight -> observe",
+    "interpretation": "The character combines the notion of seeing (見) with the sound associated with waterfowl (雚), creating an association with attentive observation, akin to watching birds.",
+    "simplification": "Simplified from 觀: 雚 was simplified to 又 and 見 was simplified to 见, keeping the main phonetic concept while simplifying the brush strokes."
+  },
+  "parts": [
+    {
+      "char": "雚",
+      "trad": "雚",
+      "pinyin": "guān",
+      "english": "cry of waterfowl"
+    },
+    {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他观星(他觀星)，寻找宇宙秘密(尋找宇宙祕密)。",
+      "pinyin": "tā guān xīng, xúnzhǎo yǔzhòu mìmì.",
+      "english": "He observes the stars and seeks the secrets of the universe."
+    },
+    {
+      "chinese": "我们观剧(我們觀劇)，品味精彩情节(品味精彩情節)。",
+      "pinyin": "wǒmen guān jù, pǐnwèi jīngcǎi qíngjié.",
+      "english": "We watch the play and savor its brilliant plot."
+    }
+  ]
+}

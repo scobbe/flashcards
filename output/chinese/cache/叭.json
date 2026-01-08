@@ -5,8 +5,8 @@
   "english": "trumpet sound",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") providing semantic element for sound production + 八(八) (bā) as phonetic component = onomatopoeia for cracking or popping sounds",
-    "interpretation": "The character 叭 represents sounds made by the mouth, resembling trumpet or popping noises, which aligns with both the semantic 'mouth' and phonetic 'bā'.",
+    "description": "口(口) (kǒu, \"mouth\") + 巴(巴) (bā) = sound made by mouth -> trumpet sound",
+    "interpretation": "The character 叭(bā) combines the semantic element 口(口) (kǒu, \"mouth\"), indicating that the sound originates from the mouth, with the phonetic component 巴(巴) (bā) to suggest the pronunciation. This configuration emphasizes sounds that are articulated in a pronounced manner, such as a trumpet sound.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "mouth"
     },
     {
-      "char": "八",
-      "trad": "八",
+      "char": "巴",
+      "trad": "巴",
       "pinyin": "bā",
-      "english": "eight"
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "火车开过时(火車開過時)，车头发出叭的鸣响(車頭發出叭的鳴響)。",
-      "pinyin": "Huǒchē kāiguò shí, chētóu fāchū bā de mǐngxiǎng.",
-      "english": "When the train passed by, the locomotive emitted a trumpeting sound."
+      "chinese": "小号演奏时(小號演奏時)，会发出‘叭’声(會發出‘叭’聲)。",
+      "pinyin": "xiǎo hào yǎnzòu shí, huì fāchū 'bā' shēng.",
+      "english": "When the trumpet is played, it produces a 'bā' sound."
     },
     {
-      "chinese": "街头艺人吹叭(街頭藝人吹叭)，引得路人驻足(引得路人駐足)。",
-      "pinyin": "Jiētóu yìrén chuī bā, yǐndé lùrén zhùzú.",
-      "english": "The street performer blew the trumpet, attracting passersby."
+      "chinese": "列车启动时(列車啟動時)，传来嘹亮的叭(傳來嘹亮的叭)。",
+      "pinyin": "lièchē qǐdòng shí, chuán lái liáoliàng de bā.",
+      "english": "When the train starts, a resounding 'bā' can be heard."
     },
     {
-      "chinese": "嘹亮的叭声响起(嘹亮的叭聲響起)。",
-      "pinyin": "Liáoliàng de bā shēng xiǎngqǐ.",
-      "english": "A sonorous trumpet sound rang out."
+      "chinese": "在音乐会上(在音樂會上)，那悠扬的叭成为节目的亮点(那悠揚的叭成為節目的亮點)。",
+      "pinyin": "zài yīnyuèhuì shàng, nà yōuyáng de bā chéngwéi jiémù de liàngdiǎn.",
+      "english": "At the concert, the melodious 'bā' became the highlight of the program."
     }
   ]
 }

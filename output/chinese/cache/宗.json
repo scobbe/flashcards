@@ -1,0 +1,44 @@
+{
+  "simplified": "宗",
+  "traditional": "宗",
+  "pinyin": "zōng",
+  "english": "ancestral, lineage",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "宀(宀) (mián, \"house\") + 示(示) (shì, \"spirit tablet\") = temple or ancestral shrine -> concept of ancestry or lineage",
+    "interpretation": "The character combines 宀(宀), representing a house or structure, with 示(示), symbolizing a spirit tablet, to depict an ancestral shrine. This indicates the character's association with heritage and lineage, reflecting the cultural importance of family temples in maintaining ancestral traditions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "house"
+    },
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "spirit tablet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他十分尊重自己的宗族(他十分尊重自己的宗族)，经常参加家族聚会(經常參加家族聚會)。",
+      "pinyin": "Tā shífēn zūnzhòng zìjǐ de zōngzú, jīngcháng cānjiā jiāzú jùhuì.",
+      "english": "He respects his ancestral lineage deeply, and he often attends family gatherings."
+    },
+    {
+      "chinese": "家族的宗祠很庄严(家族的宗祠很莊嚴)。",
+      "pinyin": "Jiāzú de zōngcí hěn zhuāngyán.",
+      "english": "The ancestral hall of the family is very solemn."
+    },
+    {
+      "chinese": "他的宗谱记载了丰富的历史(他的宗譜記載了豐富的歷史)。",
+      "pinyin": "Tā de zōngpǔ jìzǎi le fēngfù de lìshǐ.",
+      "english": "His genealogical records document a rich history."
+    }
+  ]
+}

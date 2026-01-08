@@ -1,0 +1,50 @@
+{
+  "simplified": "看一看",
+  "traditional": "看一看",
+  "pinyin": "kàn yī kàn",
+  "english": "take a look",
+  "etymology": {
+    "type": "compound word",
+    "description": "看(看) (kàn, \"look\") + 一(一) (yī, \"one\") + 看(看) (kàn, \"look\") indicates the act of taking a quick or casual glance at something. The repetition of 看(看) (kàn, \"look\") emphasizes the act, while 一(一) (yī, \"one\") signifies a single or brief instance.",
+    "interpretation": "看一看 (kàn yī kàn) suggests a quick or casual glance at something, implying it is a brief or singular view without detailed examination.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "看",
+      "trad": "看",
+      "pinyin": "kàn",
+      "english": "look; watch; see; inspect"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single; a; uniform"
+    },
+    {
+      "char": "看",
+      "trad": "看",
+      "pinyin": "kàn",
+      "english": "look; watch; see; inspect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你看一看(你看一看)。",
+      "pinyin": "Nǐ kàn yī kàn.",
+      "english": "Have a look."
+    },
+    {
+      "chinese": "请你看一看(請你看一看)，那幅画好美丽(那幅畫好美麗)。",
+      "pinyin": "Qǐng nǐ kàn yī kàn, nà fú huà hǎo měilì.",
+      "english": "Please take a look, that painting is beautiful."
+    },
+    {
+      "chinese": "到了展览馆(到了展覽館)，先看一看(先看一看)，再挑选喜欢的作品(再挑選喜歡的作品)。",
+      "pinyin": "Dào le zhǎnlǎn guǎn, xiān kàn yī kàn, zài tiāo xuǎn xǐhuān de zuòpǐn.",
+      "english": "Upon arriving at the exhibition hall, take a look first, then select the artwork you like."
+    }
+  ]
+}

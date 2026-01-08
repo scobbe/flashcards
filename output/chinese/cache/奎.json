@@ -24,16 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "专家解说“奎”字的由来(專家解說「奎」字的由來)，分析其音韵变化(分析其音韻變化)。",
-      "pinyin": "zhuānjiā jiěshuō “kuí” zì de yóulái ， fēnxī qí yīnyùn biànhuà 。",
-      "english": "The expert explained the origin of the character '奎' and analyzed its phonetic evolution."
-    },
-    {
-      "chinese": "老师教我们如何读“奎”字(老師教我們如何讀「奎」字)。",
-      "pinyin": "lǎoshī jiāo wǒmen rúhé dú “kuí” zì 。",
-      "english": "The teacher taught us how to read the character '奎'."
-    }
-  ]
+  "examples": []
 }

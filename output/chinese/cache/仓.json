@@ -1,0 +1,50 @@
+{
+  "simplified": "仓",
+  "traditional": "倉",
+  "pinyin": "cāng",
+  "english": "storehouse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亼 (roof) + 戶 (door) + 口 (pit for storing grain) -> depiction of a granary -> variant glyph for storehouse",
+    "interpretation": "The character 倉(倉) (cāng, \"storehouse\") originally depicted a granary with components representing a roof, a door, and a storage pit. This construction is intuitive for the concept of a structure designed for storing goods. The simplified version, 仓, stems from this traditional form.",
+    "simplification": "The traditional character 倉(倉) (cāng, \"storehouse\") was simplified to 仓 by omitting the complexity of the components and achieving a simpler form."
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "roof"
+    },
+    {
+      "char": "戶",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "pit for storing grain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把粮食存放在仓里(他把糧食存放在倉裡)。",
+      "pinyin": "Tā bǎ liángshí cúnfàng zài cāng lǐ.",
+      "english": "He stores the grains in the storehouse."
+    },
+    {
+      "chinese": "旧仓被改造成博物馆(舊倉被改造成博物館)。",
+      "pinyin": "Jiù cāng bèi gǎizào chéng bówùguǎn.",
+      "english": "The old storehouse has been converted into a museum."
+    },
+    {
+      "chinese": "村民常常从仓拿出储备粮(村民常常從倉拿出儲備糧)。",
+      "pinyin": "Cūnmín chángcháng cóng cāng ná chū chǔbèi liáng.",
+      "english": "The villagers often take out the stored grains from the storehouse."
+    }
+  ]
+}

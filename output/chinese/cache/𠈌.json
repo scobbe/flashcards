@@ -1,0 +1,22 @@
+{
+  "simplified": "𠈌",
+  "traditional": "𠈌",
+  "pinyin": "é",
+  "english": "container",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") quadruplicated to depict a container or enclosure formed by multiple people -> 𠈌",
+    "interpretation": "The character 𠈌 is formed by repeating the symbol for 'person' four times, symbolizing a container or enclosed area surrounded by people.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

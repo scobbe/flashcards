@@ -5,8 +5,8 @@
   "english": "oak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + 乍(乍) (zhà) = tree-related meaning with phonetic value -> refers to a type of oak tree",
-    "interpretation": "The character combines 木(木) (mù, \"tree\"), as trees are integral to the meaning, with the phonetic 乍(乍) (zhà), to indicate the pronunciation, representing a specific type of oak tree used for practical purposes such as silkworm cultivation and timber.",
+    "description": "木(木) (mù, 'wood') + 乍(乍) (zhà, 'at first') = tree species indicated by phonetic 乍",
+    "interpretation": "The character 柞(柞) (zhà, 'oak') combines 木(木) (mù, 'wood'), which indicates that the character relates to trees or wood, with 乍(乍) (zhà, 'at first'; phonetic) to suggest the pronunciation. The character refers specifically to a type of tree, namely the oak.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,26 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "tree"
+      "english": "wood"
     },
     {
       "char": "乍",
       "trad": "乍",
       "pinyin": "zhà",
-      "english": ""
+      "english": "at first"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他走过柞树林(他走過柞樹林)。",
-      "pinyin": "Tā zǒuguò zhà shùlín.",
-      "english": "He walked through the oak forest."
+      "chinese": "他采集了柞木(他採集了柞木)，打算制作家具(打算製作傢俱)。",
+      "pinyin": "Tā cǎijí le zhà mù, dǎsuàn zhìzuò jiājù.",
+      "english": "He collected oak wood, planning to make furniture."
     },
     {
-      "chinese": "柞树的叶子浓绿(柞樹的葉子濃綠)，秋风起时显得更美(秋風起時顯得更美)。",
-      "pinyin": "Zhà shù de yèzi nónglǜ, qiū fēng qǐ shí xiǎndé gèng měi.",
-      "english": "The oak tree's leaves are lush green, and they appear even more beautiful when the autumn wind rises."
-    },
-    {
-      "chinese": "这片山坡上长满了柞树(這片山坡上長滿了柞樹)。",
-      "pinyin": "Zhè piàn shānpō shàng zhǎng mǎn le zhà shù.",
-      "english": "This hillside is full of oak trees."
+      "chinese": "古代文献记载柞木有很高的使用价值(古代文獻記載柞木有很高的使用價值)。",
+      "pinyin": "Gǔdài wénxiàn jìzǎi zhà mù yǒu hěn gāo de shǐyòng jiàzhí.",
+      "english": "Ancient texts recorded that oak wood held great value."
     }
   ]
 }

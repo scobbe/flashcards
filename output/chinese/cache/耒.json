@@ -5,27 +5,11 @@
   "english": "tilling tool",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tilling tool or plow",
-    "interpretation": "The character 耒(耒) (lěi, \"tilling tool\") visually represents the shape of an ancient agricultural implement, resembling a hand plow or hoe used for tilling the soil in traditional farming.",
+    "description": "Depicts a wooden bifurcated plow -> stylized with two cross lines representing furrows -> simplified tool representation",
+    "interpretation": "The character 耒(lěi, 'tilling tool') visually represents an ancient agricultural tool, specifically a bifurcated plow. The original form included three lines indicating furrows created by the tool, later stylified to two for simplification, highlighting its agricultural purpose.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "老农挥舞着耒在田间劳作(老農揮舞著耒在田間勞作)。",
-      "pinyin": "Lǎo nóng huī wǔ zhe lěi zài tián jiān láo zuò.",
-      "english": "The old farmer swings the tilling tool while working in the field."
-    },
-    {
-      "chinese": "春雨过后(春雨過後)，农夫拿起耒开始耕种(農夫拿起耒開始耕種)。",
-      "pinyin": "Chūn yǔ guò hòu, nóng fū ná qǐ lěi kāi shǐ gēng zhòng.",
-      "english": "After the spring rain, the farmer picks up the tilling tool and begins to cultivate the land."
-    },
-    {
-      "chinese": "先民用耒开垦荒野(先民用耒開墾荒野)。",
-      "pinyin": "Xiān mín yòng lěi kāi kěn huāng yě.",
-      "english": "The pioneers used the tilling tool to reclaim the wilderness."
-    }
-  ]
+  "examples": []
 }

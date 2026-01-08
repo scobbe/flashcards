@@ -1,0 +1,39 @@
+{
+  "simplified": "参观",
+  "traditional": "參觀",
+  "pinyin": "cānguān",
+  "english": "to visit (a place)",
+  "etymology": {
+    "type": "compound word",
+    "description": "参(參) (cān, \"participate\") + 观(觀) (guān, \"observe\") = to visit",
+    "interpretation": "参观(參觀) (cānguān, \"to visit\") combines the idea of participation with observing. When you visit a place such as a museum or exhibition, you partake in the act of experiencing the environment while taking in its features and details through observation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "参",
+      "trad": "參",
+      "pinyin": "cān",
+      "english": "participate; reference; take part in"
+    },
+    {
+      "char": "观",
+      "trad": "觀",
+      "pinyin": "guān",
+      "english": "observe; watch; look"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们参观了博物馆(我們參觀了博物館)。",
+      "pinyin": "Wǒmen cānguān le bówùguǎn.",
+      "english": "We visited the museum."
+    },
+    {
+      "chinese": "他明天参观展览(他明天參觀展覽)，然后去咖啡馆(然後去咖啡館)。",
+      "pinyin": "Tā míngtiān cānguān zhǎnlǎn, ránhòu qù kāfēiguǎn.",
+      "english": "He will visit the exhibition tomorrow, then go to the coffee shop."
+    }
+  ]
+}

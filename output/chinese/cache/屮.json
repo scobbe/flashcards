@@ -6,21 +6,21 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a sprout emerging from the ground",
-    "interpretation": "The character 屮(屮) (chè, 'sprout') visually represents a young plant or sprout emerging upwards, emphasizing new growth or beginnings.",
+    "interpretation": "屮(屮) (chè, 'sprout') is a pictogram that directly represents a young plant or sprout emerging from the ground. Its visual form captures the essence of new growth, and it historically served as an early representation of plant life or new vegetation.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春风拂过山花旁(春風拂過山花旁)，一个小屮萌生新绿(一個小屮萌生新綠)。",
-      "pinyin": "Chūnfēng fúguò shānhuā páng, yīgè xiǎo chè méngshēng xīn lǜ.",
-      "english": "A gentle spring breeze caresses the mountain flowers, and a little sprout begins to show its new green."
+      "chinese": "春雨滋润后(春雨滋潤後)，小屮冲破泥土而出(小屮沖破泥土而出)。",
+      "pinyin": "chūn yǔ zī rùn hòu, xiǎo chè chōng pò ní tǔ ér chū.",
+      "english": "After the spring rain nurtured the earth, the little sprout broke through the soil."
     },
     {
-      "chinese": "阳光普照屮生无限希望(陽光普照屮生無限希望)。",
-      "pinyin": "Yángguāng pǔzhào chè shēng wúxiàn xīwàng.",
-      "english": "Sunshine makes the sprout grow with infinite hope."
+      "chinese": "草屮初生露尖端(草屮初生露尖端)。",
+      "pinyin": "cǎo chè chū shēng lù jiān duān.",
+      "english": "The grass sprout's tip has just emerged."
     }
   ]
 }

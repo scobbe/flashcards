@@ -1,0 +1,38 @@
+{
+  "simplified": "六",
+  "traditional": "六",
+  "pinyin": "liù",
+  "english": "six",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally represented by a shed 廬(廬) (lú, 'shed') -> Borrowed for phonetic similarity to indicate 'six'",
+    "interpretation": "Though initially depicting a structure like a shed, 六(liù) evolved to represent the number 'six' using phonetic borrowing, suggesting an early use of sounds to convey complex concepts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廬",
+      "trad": "廬",
+      "pinyin": "lú",
+      "english": "shed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了六个橘子(我買了六個橘子)。",
+      "pinyin": "Wǒ mǎile liù gè júzi.",
+      "english": "I bought six oranges."
+    },
+    {
+      "chinese": "我家有六口人(我家有六口人)，他们个个活泼(他們個個活潑)。",
+      "pinyin": "Wǒ jiā yǒu liù kǒurén, tāmen gègè huópō.",
+      "english": "There are six members in my family, and each of them is lively."
+    },
+    {
+      "chinese": "六点钟了(六點鐘了)，我该出发了(我該出發了)。",
+      "pinyin": "Liù diǎn zhōng le, wǒ gāi chūfā le.",
+      "english": "It's six o'clock, I should leave now."
+    }
+  ]
+}

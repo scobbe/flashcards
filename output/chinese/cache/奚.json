@@ -1,0 +1,34 @@
+{
+  "simplified": "奚",
+  "traditional": "奚",
+  "pinyin": "xī",
+  "english": "what",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "爪(爪) (zhǎo, \"claw\") + 大(大) (dà, \"big\") + 幺(幺) (yāo, \"small/slender\") = hand grabbing a slave by braids -> \"what\"",
+    "interpretation": "The character 奚 originally depicted a hand grabbing a slave by their braids, symbolizing control or questioning, which evolved into the meaning \"what\" as a form of interrogative or questioning expression.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "small/slender"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

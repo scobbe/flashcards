@@ -1,0 +1,39 @@
+{
+  "simplified": "與",
+  "traditional": "與",
+  "pinyin": "yǔ",
+  "english": "and",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 舁 (yú, \"to lift\") + Phonetic: 牙 (yá, \"tooth\") = combination of phonetic elements → final form 與 (yǔ, \"and\")",
+    "interpretation": "The character 與 (yǔ, \"and\") is a combination of two phonetic elements, 舁 (yú, \"to lift\") and 牙 (yá, \"tooth\"). This unusual construction emphasizes the importance of phonetic aspects in forming the character rather than semantic meaning from components. Historically, 與 represents a similar sound derived from these components, reflecting the complex borrowing and adaptation processes in Chinese script evolution.",
+    "simplification": "与 is a simplified and variant form of 與, often replacing the two phonetic components for ease of composition and visual simplicity."
+  },
+  "parts": [
+    {
+      "char": "舁",
+      "trad": "舁",
+      "pinyin": "yú",
+      "english": "to lift"
+    },
+    {
+      "char": "牙",
+      "trad": "牙",
+      "pinyin": "yá",
+      "english": "tooth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜歡蘋果與橙子(我喜歡蘋果與橙子)。",
+      "pinyin": "Wǒ xǐhuān píngguǒ yǔ chéngzi.",
+      "english": "I like apples and oranges."
+    },
+    {
+      "chinese": "春天來臨時(春天來臨時)，花朵與綠葉爭相綻放(花朵與綠葉爭相綻放)。",
+      "pinyin": "Chūntiān láilínshí, huāduǒ yǔ lǜyè zhēngxiāng zhànfàng.",
+      "english": "When spring arrives, the blossoms and green leaves bloom simultaneously."
+    }
+  ]
+}

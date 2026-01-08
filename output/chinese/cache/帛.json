@@ -1,0 +1,39 @@
+{
+  "simplified": "帛",
+  "traditional": "帛",
+  "pinyin": "bó",
+  "english": "silk",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "白(白) (bái, \"white\") + 巾(巾) (jīn, \"cloth\") = phonetic 白 and semantic 巾 -> \"silk\"",
+    "interpretation": "The character combines 白(白) (bái, \"white\") for its phonetic value and 巾(巾) (jīn, \"cloth\") for its semantic connection to textiles, resulting in the meaning of \"silk,\" a type of cloth that often appears white.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代贵族珍藏帛(古代貴族珍藏帛)，作为礼品赠予友人(作為禮品贈予友人)。",
+      "pinyin": "Gǔdài guìzú zhēncáng bó, zuòwéi lǐpǐn zèngyǔ yǒurén.",
+      "english": "Ancient nobles treasured silk and presented it as gifts to friends."
+    },
+    {
+      "chinese": "他用精緻的帛(他用精緻的帛)，制成了华丽衣衫(製成了華麗衣衫)。",
+      "pinyin": "Tā yòng jīngzhì de bó, zhìchéngle huálì yīshān.",
+      "english": "He used fine silk to make a gorgeous garment."
+    }
+  ]
+}

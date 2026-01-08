@@ -5,35 +5,30 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, 'person') + phonetic: 阴(陰) (yīn) = combining a person element with the phonetic indicator for sound",
-    "interpretation": "侌(侌) (yīn) combines the person radical, emphasizing human activity or association, with 阴(陰) (yīn) to suggest the phonetic aspect of the character. This formation carries the sound of 'yīn' with a semantic hint of human relevance.",
+    "description": "Depicts 雨(雨) (yǔ, \"rain\") above 今(今) (jīn, \"now\") -> ancient form of 陰(陰) (yīn, \"shade\")",
+    "interpretation": "The character 侌(yīn) combines elements suggesting a correlation with weather and temporality, directly related to the concept of shade or shadow in 陰(陰).",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "亻",
-      "trad": "亻",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
     },
     {
-      "char": "阴",
+      "char": "今",
+      "trad": "今",
+      "pinyin": "jīn",
+      "english": "now"
+    },
+    {
+      "char": "陰",
       "trad": "陰",
       "pinyin": "yīn",
-      "english": "shadow"
+      "english": "shade"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "在语音学研究中(在語音學研究中)，侌被用作音标(侌被用作音標)。",
-      "pinyin": "Zài yǔ yīn xué yán jiū zhōng, yīn bèi yòng zuò yīn biāo.",
-      "english": "In phonetics research, 侌 is used as a phonetic symbol."
-    },
-    {
-      "chinese": "古代文献中(古代文獻中)，侌常用于注音(侌常用於注音)。",
-      "pinyin": "Gǔ dài wén xiàn zhōng, yīn cháng yòng yú zhù yīn.",
-      "english": "In ancient texts, 侌 was commonly used for annotation of pronunciation."
-    }
-  ]
+  "examples": []
 }

@@ -5,8 +5,8 @@
   "english": "Song; surname",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"wood\") = dwelling, home -> name of dynasty/surname",
-    "interpretation": "The character 宋(Sòng) combines 宀(宀) (mián, \"roof\"), conveying the idea of a shelter or dwelling, with 木(木) (mù, \"wood\"), serving as the phonetic element. Over time, this meaning expanded from 'home' to represent the Song dynasty, becoming a widely recognized surname.",
+    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"tree\") = wooden structure under a roof -> phonetic adaptation -> 宋",
+    "interpretation": "The character 宋 combines the roof radical 宀(宀) (mián, \"roof\") with 木(木) (mù, \"tree\"), originally representing a wooden structure underneath a roof. It evolved to represent the name of the ancient Song dynasty and later as a common Chinese surname.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "wood"
+      "english": "tree"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "宋朝是中国历史上一个辉煌的朝代(宋朝是中國歷史上一個輝煌的朝代)。",
-      "pinyin": "Sòng cháo shì Zhōngguó lìshǐ shàng yí gè huīhuáng de cháodài.",
-      "english": "The Song Dynasty is a brilliant dynasty in Chinese history."
-    },
-    {
       "chinese": "他姓宋(他姓宋)，家族历史悠久(家族歷史悠久)。",
       "pinyin": "Tā xìng Sòng, jiāzú lìshǐ yōujiǔ.",
       "english": "His surname is Song, and his family has a long history."
+    },
+    {
+      "chinese": "宋代文人雅士众多(宋代文人雅士眾多)，诗词歌赋流传千古(詩詞歌賦流傳千古)。",
+      "pinyin": "Sòngdài wénrén yǎshì zhòngduō, shīcí gēfù liúchuán qiāngu.",
+      "english": "During the Song dynasty, there were many refined scholars, and poems and lyrics have been passed down for ages."
+    },
+    {
+      "chinese": "书架上摆着宋瓷花瓶(書架上擺著宋瓷花瓶)，展现精湛工艺(展現精湛工藝)。",
+      "pinyin": "Shūjià shàng bǎi zhe Sòng cí huāpíng, zhǎnxiàn jīngzhàn gōngyì.",
+      "english": "On the bookshelf stands a Song porcelain vase, showcasing exquisite craftsmanship."
     }
   ]
 }

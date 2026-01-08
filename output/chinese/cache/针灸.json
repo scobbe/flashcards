@@ -1,0 +1,44 @@
+{
+  "simplified": "针灸",
+  "traditional": "針灸",
+  "pinyin": "zhēnjiǔ",
+  "english": "acupuncture",
+  "etymology": {
+    "type": "compound word",
+    "description": "针(針) (zhēn, \"needle\") and 灸(灸) (jiǔ, \"moxibustion\") combine to form the word 针灸(針灸) (zhēnjiǔ, \"acupuncture\"), which is a traditional Chinese medical practice that involves inserting needles into specific points on the body and sometimes applying heat using moxa (burning mugwort) to those points.",
+    "interpretation": "针灸(針灸) (zhēnjiǔ, \"acupuncture\") combines the concepts of using needles and heat therapy to promote healing, following principles from traditional Chinese medicine on body energy pathways (meridians).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "针",
+      "trad": "針",
+      "pinyin": "zhēn",
+      "english": "needle"
+    },
+    {
+      "char": "灸",
+      "trad": "灸",
+      "pinyin": "jiǔ",
+      "english": "moxibustion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我学过针灸(我學過針灸)。",
+      "pinyin": "Wǒ xuéguò zhēnjiǔ.",
+      "english": "I have studied acupuncture."
+    },
+    {
+      "chinese": "她认为针灸有效(她認為針灸有效)，能缓解慢性疼痛(能緩解慢性疼痛)。",
+      "pinyin": "Tā rènwéi zhēnjiǔ yǒuxiào, néng huǎnjiě mànxìng téngtòng.",
+      "english": "She believes that acupuncture is effective and can alleviate chronic pain."
+    },
+    {
+      "chinese": "古代医书中记载了针灸的疗效(古代醫書中記載了針灸的療效)。",
+      "pinyin": "Gǔdài yīshū zhōng jìzǎi le zhēnjiǔ de liáoxiào.",
+      "english": "Ancient medical texts recorded the efficacy of acupuncture."
+    }
+  ]
+}

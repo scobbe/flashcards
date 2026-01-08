@@ -1,0 +1,39 @@
+{
+  "simplified": "氐",
+  "traditional": "氐",
+  "pinyin": "dǐ",
+  "english": "used phonetically",
+  "etymology": {
+    "type": "pictogram",
+    "description": "氏(氏) (shì, \"clan; bowing figure\") + 一 (line) -> bowing figure depicted with a mark at the bottom -> root of a tree",
+    "interpretation": "The character 氐(dǐ) visually combines the concepts of a bowing figure with a mark at the bottom, which suggests an origin or a base, much like the roots of a tree reaching into the ground. This pictorial representation provides a visual metaphor for the foundational meaning of the character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氏",
+      "trad": "氏",
+      "pinyin": "shì",
+      "english": "clan; bowing figure"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "line"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古人用氐记音(古人用氐記音)，只是作辅助作用(只是作輔助作用)。",
+      "pinyin": "Gǔ rén yòng dǐ jì yīn, zhǐ shì zuò fǔ zhù zuò yòng.",
+      "english": "Ancient people used dǐ for phonetic notation, merely serving an auxiliary function."
+    },
+    {
+      "chinese": "在某些书法中(在某些書法中)，氐被用作音标(氐被用作音標)。",
+      "pinyin": "Zài mǒuxiē shūfǎ zhōng, dǐ bèi yòng zuò yīnbiāo.",
+      "english": "In some calligraphy, dǐ is used as a phonetic marker."
+    }
+  ]
+}

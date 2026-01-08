@@ -1,0 +1,31 @@
+{
+  "simplified": "龜",
+  "traditional": "龜",
+  "pinyin": "guī",
+  "english": "tortoise",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a turtle seen from the side and from above -> stylized to a less detailed form -> final form 龜(龜) (guī, \"tortoise\")",
+    "interpretation": "The character 龜(龜) (guī, \"tortoise\") is an ancient pictogram visually representing the shape of a turtle, highlighting its shell and body. The depiction evolved into a stylized form used in the modern script.",
+    "simplification": "龟(龜): Simplified by reducing the character's complexity while maintaining a semblance of the turtle shape, often making it easier to recognize and write."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那只龜爬行得很慢(那隻龜爬行得很慢)。",
+      "pinyin": "Nà zhī guī pá xíng de hěn màn.",
+      "english": "That tortoise crawls very slowly."
+    },
+    {
+      "chinese": "我养了一只龜(我養了一隻龜)，它爱在阳光下晒背(它愛在陽光下曬背)。",
+      "pinyin": "Wǒ yǎng le yī zhī guī, tā ài zài yáng guāng xià shài bèi.",
+      "english": "I raised a tortoise, and it loves basking in the sunlight."
+    },
+    {
+      "chinese": "古时候寓言中龜与兔赛跑(古時候寓言中龜與兔賽跑)，却常输(卻常輸)。",
+      "pinyin": "Gǔ shíhòu yùyán zhōng guī yǔ tù sài pǎo, què cháng shū.",
+      "english": "In ancient fables, the tortoise raced with the rabbit but often lost."
+    }
+  ]
+}

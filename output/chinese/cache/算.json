@@ -1,0 +1,50 @@
+{
+  "simplified": "算",
+  "traditional": "算",
+  "pinyin": "suàn",
+  "english": "calculate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, \"bamboo\") + 廾(廾) (gǒng, \"hands as represented by a pair of open palms\") + 目 (目) (mù, \"eye\" representing counting rods) -> calculation tool",
+    "interpretation": "The character 算(suàn, \"calculate\") combines 竹(竹) (zhú, \"bamboo\") as the material for counting rods, with 目(目) (mù, \"eye\"), suggesting meticulous observation or counting, and 廾(廾) (gǒng, \"hands\") indicating manual manipulation of these rods to compute values. This reflects historical methods of calculation using tools analogous to an abacus.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他算出答案(他算出答案)，交给老师(交給老師)。",
+      "pinyin": "Tā suàn chū dá'àn, jiāo gěi lǎoshī.",
+      "english": "He calculated the answer and handed it to the teacher."
+    },
+    {
+      "chinese": "请你算一下这个账(請你算一下這個賬)。",
+      "pinyin": "Qǐng nǐ suàn yīxià zhège zhàng.",
+      "english": "Please calculate this account."
+    },
+    {
+      "chinese": "他们用算盘算钱(他們用算盤算錢)，记录收支(記錄收支)。",
+      "pinyin": "Tāmen yòng suànpán suàn qián, jìlù shōuzhī.",
+      "english": "They use an abacus to calculate money and record income and expenses."
+    }
+  ]
+}

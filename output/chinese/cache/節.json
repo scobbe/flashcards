@@ -1,0 +1,44 @@
+{
+  "simplified": "節",
+  "traditional": "節",
+  "pinyin": "jié",
+  "english": "node",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "⺮(⺮) (zhú, \"bamboo\") + 即(即) (jí, \"namely\") = bamboo + node or segment sound -> node, segment",
+    "interpretation": "The character 節 represents a node or joint, particularly in bamboo, where the section or joint is pronounced. Bamboo is a common symbol due to its segmented structure, and 即(即) (jí, \"namely\") suggests the phonetic aspect of this segmentation function.",
+    "simplification": "The simplified form 节 uses 戈(戈) (gē, \"halberd\") as a simpler replacement for 即(即) (jí, \"namely\"), reducing strokes while retaining the idea of segmentation."
+  },
+  "parts": [
+    {
+      "char": "⺮",
+      "trad": "⺮",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "即",
+      "trad": "即",
+      "pinyin": "jí",
+      "english": "namely"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "树枝上的节是枝叶分叉处(樹枝上的節是枝葉分叉處)。",
+      "pinyin": "Shùzhī shàng de jié shì zhīyè fēnchà chù.",
+      "english": "The node on the branch is where the branches split."
+    },
+    {
+      "chinese": "在计算机网络中(在計算機網絡中)，每个节都承担着传输任务(每個節都承擔著傳輸任務)。",
+      "pinyin": "Zài jìsuànjī wǎngluò zhōng, měi gè jié dōu chéngdān zhe chuánshū rènwu.",
+      "english": "In a computer network, every node undertakes data transmission tasks."
+    },
+    {
+      "chinese": "一些中草药的生长节位置独特(一些中草藥的生長節位置獨特)，对药效产生影响(對藥效產生影響)。",
+      "pinyin": "Yīxiē zhōngcǎoyào de shēngzhǎng jié wèizhì dútè, duì yào xiào chǎnshēng yǐngxiǎng.",
+      "english": "The nodes where some medicinal herbs grow are uniquely positioned, affecting their efficacy."
+    }
+  ]
+}

@@ -42,16 +42,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "老祖先把米存於匊(老祖先把米存於匊)。",
-      "pinyin": "Lǎo zǔxiān bǎ mǐ cún yú jū.",
-      "english": "The ancestors stored rice in the vessel."
-    },
-    {
-      "chinese": "丰收时节人们将新米安放于匊(豐收時節人們將新米安放於匊)，象征着家宅兴旺(象徵著家宅興旺)。",
-      "pinyin": "Fēngshōu shíjié rénmen jiāng xīnmǐ ānfàng yú jū, xiàngzhēng zhe jiāzhái xīngwàng.",
-      "english": "During the harvest season, people placed the new rice in the vessel, symbolizing the prosperity of the household."
-    }
-  ]
+  "examples": []
 }

@@ -1,0 +1,39 @@
+{
+  "simplified": "需要",
+  "traditional": "需要",
+  "pinyin": "xūyào",
+  "english": "to need",
+  "etymology": {
+    "type": "compound word",
+    "description": "需(需) (xū, \"require\") + 要(要) (yào, \"want; demand\") = to need",
+    "interpretation": "This combination makes sense because 需(需) (xū, \"require\") indicates a necessity, while 要(要) (yào, \"want; demand\") adds the element of desire or demand, resulting in the concept of needing something essential or desired.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "需",
+      "trad": "需",
+      "pinyin": "xū",
+      "english": "require"
+    },
+    {
+      "char": "要",
+      "trad": "要",
+      "pinyin": "yào",
+      "english": "want; demand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我需要水(我需要水)。",
+      "pinyin": "wǒ xūyào shuǐ",
+      "english": "I need water."
+    },
+    {
+      "chinese": "我们需要友谊(我們需要友誼)，成长需要挑战(成長需要挑戰)。",
+      "pinyin": "wǒmen xūyào yǒuyì，chéngzhǎng xūyào tiǎozhàn",
+      "english": "We need friendship, and growth requires challenges."
+    }
+  ]
+}

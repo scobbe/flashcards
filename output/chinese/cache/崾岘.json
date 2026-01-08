@@ -5,8 +5,8 @@
   "english": "Yaoxian (place name)",
   "etymology": {
     "type": "compound word",
-    "description": "崾(崾) (yǎo, \"difficult to walk\") and 岘(岘) (xiàn, \"mountain pass\") are combined.",
-    "interpretation": "崾岘(崾岘) (yǎoxiàn) refers to a place characterized by its challenging terrain, as suggested by the meanings of the individual characters. 崾(崾) (yǎo, \"difficult to walk\") indicates difficulty in traversing the area, while 岘(岘) (xiàn, \"mountain pass\") denotes a specific geographical feature. Together, the name describes a location that is hard to navigate, potentially due to hilly or mountainous terrain.",
+    "description": "崾岘 (yǎoxiàn, \"Yaoxian\") is a place name that consists of 崾(崾) (yǎo, \"high and steep\") and 岘(岘) (xiàn, \"ridge; peak\"). This combination likely refers to a location characterized by high and steep terrain, typical of many place names that describe geographical features in Chinese.",
+    "interpretation": "崾(崾) (yǎo, \"high and steep\") and 岘(岘) (xiàn, \"ridge; peak\") combine to describe a location with prominent and steep geographical features, suggesting a rugged landscape.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "崾",
       "trad": "崾",
       "pinyin": "yǎo",
-      "english": "difficult; arduous"
+      "english": "high and steep"
     },
     {
       "char": "岘",
       "trad": "岘",
       "pinyin": "xiàn",
-      "english": "mountain pass"
+      "english": "ridge; peak"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我计划参观崾岘(我計劃參觀崾峴)。",
-      "pinyin": "Wǒ jìhuà cānguān yǎoxiàn.",
-      "english": "I plan to visit Yaoxian."
+      "chinese": "我计划明年去崾岘(崾峴)旅行。",
+      "pinyin": "Wǒ jìhuà míngnián qù yǎoxiàn lǚxíng.",
+      "english": "I plan to travel to Yaoxian next year."
     },
     {
-      "chinese": "游客在夏日畅游崾岘(遊客在夏日暢遊崾峴)，欣赏自然风光(欣賞自然風光)。",
-      "pinyin": "Yóukè zài xiàrì chàngyóu yǎoxiàn, xīnshǎng zìrán fēngguāng.",
-      "english": "Tourists enjoy Yaoxian in summer, appreciating the natural scenery."
+      "chinese": "崾岘被誉为美丽的古镇(崾峴被譽為美麗的古鎮)，吸引了许多游客(吸引了許多遊客)。",
+      "pinyin": "Yǎoxiàn bèi yù wéi měilì de gǔzhèn, xīyǐnle xǔduō yóukè.",
+      "english": "Yaoxian is acclaimed as a beautiful ancient town, attracting many tourists."
+    },
+    {
+      "chinese": "传说中(傳說中)，崾岘藏有仙泉(崾峴藏有仙泉)。",
+      "pinyin": "Chuánshuō zhōng, yǎoxiàn cáng yǒu xiānquán.",
+      "english": "According to legend, Yaoxian hides a fairy spring."
     }
   ]
 }

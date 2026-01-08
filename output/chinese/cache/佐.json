@@ -1,0 +1,39 @@
+{
+  "simplified": "佐",
+  "traditional": "佐",
+  "pinyin": "zuǒ",
+  "english": "to assist",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 左(左) (zuǒ) = person assisting -> to assist",
+    "interpretation": "In the character 佐(佐) (zuǒ, \"to assist\"), the semantic component 亻(亻) (rén, \"person\") indicates the involvement of a person, while 左(左) (zuǒ) provides the phonetic hint. This combination suggests someone helping or aiding another, with the focus on action related to people.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "左",
+      "trad": "左",
+      "pinyin": "zuǒ",
+      "english": "left"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我主动佐同事解决问题(我主動佐同事解決問題)。",
+      "pinyin": "Wǒ zhǔdòng zuǒ tóngshì jiějué wèntí.",
+      "english": "I actively assist colleagues in solving problems."
+    },
+    {
+      "chinese": "他在危急关头佐医护人员抢救伤员(他在危急關頭佐醫護人員搶救傷員)，展现了团队合作精神(展現了團隊合作精神)。",
+      "pinyin": "Tā zài wéijí guāntóu zuǒ yīhù rényuán qiǎngjiù shāngyuán, zhǎnxiàn le tuánduì hézuò jīngshén.",
+      "english": "He assisted the medical staff in rescuing the injured during a critical moment, demonstrating team spirit."
+    }
+  ]
+}

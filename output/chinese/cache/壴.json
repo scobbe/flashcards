@@ -5,22 +5,27 @@
   "english": "drum",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a drum with its stand and sticks arranged on top, representing a musical instrument.",
-    "interpretation": "壴(壴) (zhù, \"drum\") visually depicts a traditional Chinese drum, with its structure and accessories, making the character intuitively understandable as representing a drum.",
+    "description": "Depicts a drum 壴, with a base and feathers 土 on top -> stylized in the Kangxi radical 鼓",
+    "interpretation": "The character 壴(壴) (zhù, \"drum\") visually represents a drum with two ends, with elements contributing to its structure, such as a base and feathers. It was later incorporated into characters like 鼓(鼓) (gǔ, \"drum\") by adding elements that illustrate additional actions like hands holding a drumstick.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古人用壴打节奏(古人用壴打節奏)。",
-      "pinyin": "Gǔrén yòng zhù dǎ jiézòu.",
-      "english": "Ancient people used the drum to beat the rhythm."
+      "chinese": "这面壴声震天动地(這面壴聲震天動地)。",
+      "pinyin": "Zhè miàn zhù shēng zhèn tiān dòng dì.",
+      "english": "The sound of this drum shakes the heavens and the earth."
     },
     {
-      "chinese": "夜晚沙场上(夜晚沙場上)，战鼓和壴同时响起(戰鼓和壴同時響起)。",
-      "pinyin": "Yèwǎn shāchǎng shàng, zhàngǔ hé zhù tóngshí xiǎngqǐ.",
-      "english": "On the battlefield at night, both the war drum and the drum sounded simultaneously."
+      "chinese": "战士敲响壴(戰士敲響壴)，示警敌人(示警敵人)。",
+      "pinyin": "Zhànshì qiāo xiǎng zhù, shì jǐng dírén.",
+      "english": "The soldier beats the drum to warn the enemy."
+    },
+    {
+      "chinese": "庄严仪式上(莊嚴儀式上)，祭司击打壴(祭司擊打壴)，宣告传统(宣告傳統)。",
+      "pinyin": "Zhuāngyán yíshì shàng, jìsī jī dǎ zhù, xuānguò chuántǒng.",
+      "english": "At the solemn ceremony, the priest beats the drum to proclaim tradition."
     }
   ]
 }

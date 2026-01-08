@@ -1,0 +1,44 @@
+{
+  "simplified": "检查",
+  "traditional": "檢查",
+  "pinyin": "jiǎnchá",
+  "english": "to examine",
+  "etymology": {
+    "type": "compound word",
+    "description": "检(檢) (jiǎn, \"inspect\") and 查(查) (chá, \"investigate\"). 检(檢) (jiǎn, \"inspect\") suggests a thorough examination, while 查(查) (chá, \"investigate\") implies looking into details or verifying information.",
+    "interpretation": "In combination, 检查(檢查) (jiǎnchá, \"to examine\") conveys the action of thoroughly inspecting and investigating to ensure correctness or detect errors.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "检",
+      "trad": "檢",
+      "pinyin": "jiǎn",
+      "english": "inspect; check; examine; examine (medical)"
+    },
+    {
+      "char": "查",
+      "trad": "查",
+      "pinyin": "chá",
+      "english": "investigate; check; examine; research"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生会检查身体(醫生會檢查身體)，确保健康(確保健康)。",
+      "pinyin": "Yīshēng huì jiǎnchá shēntǐ, quèbǎo jiànkāng.",
+      "english": "The doctor will examine the body to ensure health."
+    },
+    {
+      "chinese": "他每周检查电脑(他每週檢查電腦)，检查汽车(檢查汽車)。",
+      "pinyin": "Tā měi zhōu jiǎnchá diànnǎo, jiǎnchá qìchē.",
+      "english": "He examines the computer and the car every week."
+    },
+    {
+      "chinese": "老师检查练习(老師檢查練習)。",
+      "pinyin": "Lǎoshī jiǎnchá liànxí.",
+      "english": "The teacher examines the exercises."
+    }
+  ]
+}

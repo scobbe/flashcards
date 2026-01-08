@@ -1,0 +1,28 @@
+{
+  "simplified": "𪚮",
+  "traditional": "𪚮",
+  "pinyin": "n/a",
+  "english": "turtle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 冄 + Semantic 龜 = sound element combined with tortoise semantic",
+    "interpretation": "The character 𪚮 combines 冄 as a phonetic component to convey sound, alongside 龜, which provides the semantic element of a tortoise, indicating the character's meaning related to turtles or tortoises.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冄",
+      "trad": "冄",
+      "pinyin": "rǎn",
+      "english": "phonetic component"
+    },
+    {
+      "char": "龜",
+      "trad": "龜",
+      "pinyin": "guī",
+      "english": "tortoise"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

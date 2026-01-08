@@ -1,0 +1,50 @@
+{
+  "simplified": "停车场",
+  "traditional": "停車場",
+  "pinyin": "tíngchēchǎng",
+  "english": "parking lot",
+  "etymology": {
+    "type": "compound word",
+    "description": "停(停) (tíng, \"stop\"), 車(車) (chē, \"vehicle\"), 場(場) (chǎng, \"field; place\")",
+    "interpretation": "The word 停車場 (tíngchēchǎng) combines 停(停) (tíng, \"stop\"), 車(車) (chē, \"vehicle\"), and 場(場) (chǎng, \"field; place\") to refer to a designated area where vehicles are stopped and parked. This combination makes sense because it specifies a place specifically meant for the cessation and storage of vehicles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "停",
+      "trad": "停",
+      "pinyin": "tíng",
+      "english": "stop; halt"
+    },
+    {
+      "char": "車",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle; car"
+    },
+    {
+      "char": "場",
+      "trad": "場",
+      "pinyin": "chǎng",
+      "english": "field; place; venue"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "停车场很大(停車場很大)。",
+      "pinyin": "Tíngchēchǎng hěn dà.",
+      "english": "The parking lot is very large."
+    },
+    {
+      "chinese": "我去停车场(我去停車場)，寻找一个空位(尋找一個空位)。",
+      "pinyin": "Wǒ qù tíngchēchǎng, xúnzhǎo yīgè kòngwèi.",
+      "english": "I go to the parking lot to look for an empty spot."
+    },
+    {
+      "chinese": "早晨上班时(早晨上班時)，停车场已经满了(停車場已經滿了)。",
+      "pinyin": "Zǎochén shàngbān shí, tíngchēchǎng yǐjīng mǎnle.",
+      "english": "During the morning rush, the parking lot is already full."
+    }
+  ]
+}

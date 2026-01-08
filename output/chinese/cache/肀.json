@@ -5,8 +5,8 @@
   "english": "brush",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hand 又(又) (yòu, \"hand\") holding a brush 𰀁(𰀁) (unknown pronunciation, \"brush\") -> represents a brush",
-    "interpretation": "This character visually represents the act of holding a writing brush, emphasizing its use in writing and calligraphy.",
+    "description": "又(又) (yòu, \"hand\") holding 𰀁(𰀁) (a brush) -> originally referred to 筆(筆) (bǐ, \"writing brush\") -> borrowed for 聿(聿) (yù, \"thereupon\")",
+    "interpretation": "The character 聿(聿) (yù, \"brush\") originates from an image of a hand holding a brush, closely associated with writing implements. The character was later borrowed for the meaning \"thereupon.\"",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,21 @@
       "char": "𰀁",
       "trad": "𰀁",
       "pinyin": "",
-      "english": "brush"
+      "english": "a brush"
+    },
+    {
+      "char": "筆",
+      "trad": "筆",
+      "pinyin": "bǐ",
+      "english": "writing brush"
+    },
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "thereupon"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他用肀蘸上墨水(他用肀蘸上墨水)。",
-      "pinyin": "Tā yòng yù zhàn shàng mòshuǐ.",
-      "english": "He dipped the brush in ink."
-    },
-    {
-      "chinese": "古代画家喜爱用肀调墨(古代畫家喜愛用肀調墨)，创作精美画卷(創作精美畫卷)。",
-      "pinyin": "Gǔdài huàjiā xǐ'ài yòng yù tiáo mò, chuàngzuò jīngměi huàjuǎn.",
-      "english": "Ancient painters loved to use the brush to adjust ink and create exquisite scrolls."
-    },
-    {
-      "chinese": "他以肀写下心灵之语(他以肀寫下心靈之語)，传递古老智慧(傳遞古老智慧)。",
-      "pinyin": "Tā yǐ yù xiě xià xīnlíng zhī yǔ, chuándì gǔlǎo zhìhuì.",
-      "english": "He used the brush to write expressions of the soul and convey ancient wisdom."
-    }
-  ]
+  "examples": []
 }

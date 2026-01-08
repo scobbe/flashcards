@@ -1,0 +1,28 @@
+{
+  "simplified": "巟",
+  "traditional": "巟",
+  "pinyin": "huāng",
+  "english": "vast emptiness",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亡(亡) (wáng, \"lose\") + 川(川) (chuān, \"river\") = phonetic 亡 + semantic 川 -> vast emptiness",
+    "interpretation": "巟(巟) (huāng, \"vast emptiness\") combines 亡(亡) (wáng, \"lose\"), which phoneticizes the character, with 川(川) (chuān, \"river\"), signifying the vastness akin to the wide and open nature of a river valley. The combination suggests an expansive or empty space, connecting to the meaning of emptiness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "lose"
+    },
+    {
+      "char": "川",
+      "trad": "川",
+      "pinyin": "chuān",
+      "english": "river"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

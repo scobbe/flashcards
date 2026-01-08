@@ -1,0 +1,44 @@
+{
+  "simplified": "俑",
+  "traditional": "俑",
+  "pinyin": "yǒng",
+  "english": "figurine",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"human\") + 用(用) (yòng, \"use\") = represents human figures associated with burial use -> figurine",
+    "interpretation": "The character combines 人(人) (rén, \"human\"), indicating the shape of a human figure, with 用(用) (yòng, \"use\"), suggesting their purpose in burial contexts. This reflects the historical use of 俑(俑) (yǒng, \"figurine\") as terracotta figures in tombs to serve the deceased in the afterlife.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "human"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "博物馆里陈列着精美的俑(博物館裡陳列著精美的俑)。",
+      "pinyin": "Bówùguǎn lǐ chénliè zhe jīngměi de yǒng.",
+      "english": "The museum displays exquisite figurines."
+    },
+    {
+      "chinese": "古墓中发现的俑(古墓中發現的俑)，讲述着古代的文明(講述著古代的文明)。",
+      "pinyin": "Gǔmù zhōng fāxiàn de yǒng, jiǎngshù zhe gǔdài de wénmíng.",
+      "english": "The figurines found in the ancient tomb narrate the ancient civilization."
+    },
+    {
+      "chinese": "考古学家在遗址中挖掘出破损的俑(考古學家在遺址中挖掘出破損的俑)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng wājué chū pòsǔn de yǒng.",
+      "english": "Archaeologists uncovered damaged figurines at the ruins."
+    }
+  ]
+}

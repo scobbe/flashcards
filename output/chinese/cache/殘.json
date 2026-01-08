@@ -1,0 +1,44 @@
+{
+  "simplified": "殘",
+  "traditional": "殘",
+  "pinyin": "cán",
+  "english": "to damage; to destroy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 歹(歹) (dǎi, \"vicious, bones\") + Phonetic 戔(戔) (jiān) -> to viciously harm, injure",
+    "interpretation": "The character 殘(cán) represents the concept of causing harm or destruction through a combination of a semantic component, 歹(歹) (dǎi, \"vicious, bones\"), which conveys the idea of viciousness or death, and a phonetic component, 戔(戔) (jiān), indicating the sound. The semantic aspect underscores the destructive meaning inherent in the character.",
+    "simplification": "Simplified as 残(残) with the component 歹(歹) retained while other parts were simplified."
+  },
+  "parts": [
+    {
+      "char": "歹",
+      "trad": "歹",
+      "pinyin": "dǎi",
+      "english": "vicious, bones"
+    },
+    {
+      "char": "戔",
+      "trad": "戔",
+      "pinyin": "jiān",
+      "english": "(phonetic component)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "暴风雨殘害了古树(暴風雨殘害了古樹)。",
+      "pinyin": "Bào fēng yǔ cán hài le gǔ shù.",
+      "english": "The storm damaged the ancient tree."
+    },
+    {
+      "chinese": "工人不小心殘了文物(工人不小心殘了文物)，博物馆立即展开修复(博物館立即展開修復)。",
+      "pinyin": "Gōngrén bù xiǎoxīn cán le wénwù, bówùguǎn lìjí zhǎnkāi xiūfù.",
+      "english": "The workers accidentally damaged the cultural relics, and the museum immediately began repairs."
+    },
+    {
+      "chinese": "不当操作殘害了电脑(不當操作殘害了電腦)，数据全部丢失(數據全部丟失)。",
+      "pinyin": "Bùdāng cāozuò cán hài le diànnǎo, shùjù quánbù diūshī.",
+      "english": "Improper operation damaged the computer, and all the data was lost."
+    }
+  ]
+}

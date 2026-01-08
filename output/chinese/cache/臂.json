@@ -1,0 +1,44 @@
+{
+  "simplified": "臂",
+  "traditional": "臂",
+  "pinyin": "bì",
+  "english": "arm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 辟 (bì, \"law\") + Semantic: 肉 (ròu, \"meat; flesh\") -> represents part of the body made of flesh -> denotes an 'arm'",
+    "interpretation": "The character 臂(bì, \"arm\") uses 辟(bì, \"law\") for its phonetic component and 肉(ròu, \"meat; flesh\") as the semantic element to indicate a part of the body that is fleshy, thus referring to an 'arm'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辟",
+      "trad": "辟",
+      "pinyin": "bì",
+      "english": "law"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的臂很有力(他的臂很有力)。",
+      "pinyin": "Tā de bì hěn yǒu lì.",
+      "english": "His arm is very strong."
+    },
+    {
+      "chinese": "他挥动臂膀(他揮動臂膀)，显示出惊人的力量(顯示出驚人的力量)。",
+      "pinyin": "Tā huīdòng bìbǎng, xiǎnshì chū jīngrén de lìliàng.",
+      "english": "He swings his arms, showing his incredible strength."
+    },
+    {
+      "chinese": "在团队比赛中(在團隊比賽中)，他总是一臂当先(他總是一臂當先)。",
+      "pinyin": "Zài tuánduì bǐsài zhōng, tā zǒng shì yī bì dāngxiān.",
+      "english": "In the team competition, he always takes the lead."
+    }
+  ]
+}

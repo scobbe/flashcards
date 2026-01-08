@@ -5,27 +5,29 @@
   "english": "a pair of hands",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a mortar for grinding grain",
-    "interpretation": "The character 臼(臼) (jiù, 'a pair of hands') visually represents a mortar, which resembles an object where traditionally two hands might work to grind grains. It specifically captures the shape of a mortar with its hollow center.",
+    "description": "Depicts a mortar, often used with a pestle in the ancient form of 舂(舂) (chōng, \"pound grain\")",
+    "interpretation": "The character 臼(臼) (jiù, \"mortar\") is an ancient pictogram representing a mortar used for grinding, commonly seen in traditional processes such as grain pounding, as depicted in the related character 舂(舂) (chōng, \"pound grain\"). Its form visually represents the receptacle used to process grains.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "舂",
+      "trad": "舂",
+      "pinyin": "chōng",
+      "english": "pound grain"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈的臼总能给予我温暖(媽媽的臼總能給予我溫暖)，让我的心灵得到抚慰(讓我的心靈得到撫慰)。",
-      "pinyin": "Māmā de jiù zǒng néng jǐyǔ wǒ wēnnuǎn, ràng wǒ de xīnlíng dédào fǔwèi.",
-      "english": "Mother's pair of hands always gives me warmth, soothing my soul."
+      "chinese": "他用一臼轻轻拂去脸上的尘土(他用一臼輕輕拂去臉上的塵土)。",
+      "pinyin": "Tā yòng yī jiù qīngqīng fú qù liǎn shàng de chéntǔ.",
+      "english": "He used his pair of hands to gently brush away the dust on his face."
     },
     {
-      "chinese": "在关键时刻(在關鍵時刻)，他的臼伸出了援手(他的臼伸出了援手)。",
-      "pinyin": "Zài guānjiàn shíkè, tā de jiù shēnchūle yuánshǒu.",
-      "english": "At a crucial moment, his pair of hands reached out to help."
-    },
-    {
-      "chinese": "运动员挥动臼大放异彩(運動員揮動臼大放異彩)。",
-      "pinyin": "Yùndòngyuán huīdòng jiù dà fàng yìcǎi.",
-      "english": "The athlete's waving pair of hands shone brilliantly."
+      "chinese": "运动员凭借一臼快速接过球(運動員憑借一臼快速接過球)。",
+      "pinyin": "Yùndòngyuán píngjiè yī jiù kuàisù jiē guò qiú.",
+      "english": "The athlete quickly caught the ball with his pair of hands."
     }
   ]
 }

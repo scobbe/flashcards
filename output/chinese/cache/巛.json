@@ -5,27 +5,11 @@
   "english": "river",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts water flowing in parallel lines",
-    "interpretation": "巛(巛) (chuān, 'river') is a pictogram representing the movement or flow of water, emphasizing the parallel and winding nature of rivers. It shares similarities with other water-related pictograms like 川(川) (chuān, 'river') and 水(水) (shuǐ, 'water'), focusing on the visual depiction of flowing streams.",
+    "description": "Depicts water flowing -> represents river",
+    "interpretation": "The character 巛(chuān, 'river') is a pictogram illustrating multiple streams of water flowing parallel, symbolizing the concept of a river. It visually captures the natural flow of water channels that resemble the appearance of a river.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "那条巛蜿蜒穿过村庄(那條川蜿蜒穿過村莊)。",
-      "pinyin": "Nà tiáo chuān wānyán chuānguò cūnzhuāng.",
-      "english": "The river winds its way through the village."
-    },
-    {
-      "chinese": "清晨时(清晨時)，巛水闪着银光(川水閃著銀光)。",
-      "pinyin": "Qīngchén shí, chuān shuǐ shǎn zhe yín guāng.",
-      "english": "In the early morning, the river water glimmers with silver light."
-    },
-    {
-      "chinese": "古人诗中常描写巛的壮丽(古人詩中常描寫川的壯麗)。",
-      "pinyin": "Gǔ rén shī zhōng cháng miáoxiě chuān de zhuànglì.",
-      "english": "Ancient poems often depict the magnificent river."
-    }
-  ]
+  "examples": []
 }

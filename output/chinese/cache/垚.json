@@ -5,8 +5,8 @@
   "english": "tall (of earth)",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "土(土) (tǔ, 'earth') + 土(土) (tǔ, 'earth') + 土(土) (tǔ, 'earth') -> multiple layers of earth -> tall (of earth)",
-    "interpretation": "The character 垚(yáo) uses a repetitive stacking of 土(土) (tǔ, 'earth') to represent height, emphasizing an abundance or surplus of earth by visually stacking it.",
+    "description": "土(土) (tǔ, \"earth\") + 土(土) (tǔ, \"earth\") + 土(土) (tǔ, \"earth\") = tall mound of earth",
+    "interpretation": "The character 垚(yáo, \"tall of earth\") is an ideogrammic compound representing the triplication of 土(土) (tǔ, \"earth\"), visually depicting a large, elevated mound or hill, emphasizing the idea of height or elevation in landscape.",
     "simplification": ""
   },
   "parts": [
@@ -15,31 +15,8 @@
       "trad": "土",
       "pinyin": "tǔ",
       "english": "earth"
-    },
-    {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
-    },
-    {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "那座垚堆(那座垚堆)高耸入云(高聳入雲)，直达苍穹(直達蒼穹)。",
-      "pinyin": "nà zuò yáo duī gāo sǒng rù yún, zhí dá cāng qióng.",
-      "english": "That mound towers high, reaching into the vault of the skies."
-    },
-    {
-      "chinese": "村前的垚丘(村前的垚丘)稳固屹立(穩固屹立)，历经风霜(歷經風霜)。",
-      "pinyin": "cūn qián de yáo qiū wěn gù yì lì, lì jīng fēng shuāng.",
-      "english": "The mound in front of the village stands firmly, having endured the tests of time and weather."
-    }
-  ]
+  "examples": []
 }

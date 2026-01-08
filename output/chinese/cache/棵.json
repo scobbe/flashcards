@@ -1,0 +1,44 @@
+{
+  "simplified": "棵",
+  "traditional": "棵",
+  "pinyin": "kē",
+  "english": "measure word for trees and plants",
+  "etymology": {
+    "type": "variant form",
+    "description": "棵 is a variant form of 樖. 樖: 木(木) (mù, \"wood\") + 柯(柯) (kē) = measure word for trees, derived from structure and sound",
+    "interpretation": "The character 棵 utilizes 木(木) (mù, \"wood\") combined with the phonetic 柯(柯) (kē) to indicate its association with trees and plants. Being a variant form, it retains the meaning related to trees due to the presence of 木(木), playing off the phonetic element to denote its function as a measure word.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "柯",
+      "trad": "柯",
+      "pinyin": "kē",
+      "english": "none"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花园里有一棵樱花树(花園裡有一棵櫻花樹)。",
+      "pinyin": "Huāyuán lǐ yǒu yī kē yīnghuā shù。",
+      "english": "There is a cherry tree in the garden."
+    },
+    {
+      "chinese": "学校门前种了两棵榕树(學校門前種了兩棵榕樹)，每当微风吹过(每當微風吹過)。",
+      "pinyin": "Xuéxiào mén qián zhǒngle liǎng kē róngshù, měi dāng wēifēng chuīguò。",
+      "english": "Two banyan trees were planted in front of the school, and the gentle breeze passes by."
+    },
+    {
+      "chinese": "山坡上长着一棵野生橡树(山坡上長著一棵野生橡樹)，秋天时树叶变得金黄(秋天時樹葉變得金黃)。",
+      "pinyin": "Shānpō shàng zhǎngzhe yī kē yěshēng xiàngshù, qiūtiān shí shùyè biàn dé jīnhuáng。",
+      "english": "A wild oak grows on the hillside, and in autumn its leaves turn golden."
+    }
+  ]
+}

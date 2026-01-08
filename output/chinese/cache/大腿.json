@@ -1,0 +1,39 @@
+{
+  "simplified": "大腿",
+  "traditional": "大腿",
+  "pinyin": "dà tuǐ",
+  "english": "thigh",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big\") and 腿(腿) (tuǐ, \"leg\") together refer to the upper section of the leg. This compound word directly describes the 'big leg', or the thigh, which is the larger part of the leg above the knee.",
+    "interpretation": "The combination of 大(大) (dà, \"big\") and 腿(腿) (tuǐ, \"leg\") naturally denotes the upper segment of the leg, known as the thigh, emphasizing its size relative to the rest of the leg.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; large"
+    },
+    {
+      "char": "腿",
+      "trad": "腿",
+      "pinyin": "tuǐ",
+      "english": "leg; thigh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大腿酸痛(大腿酸痛)。",
+      "pinyin": "dà tuǐ suāntòng。",
+      "english": "Thighs are sore."
+    },
+    {
+      "chinese": "运动员训练时(運動員訓練時)，大腿肌肉得到锻炼(大腿肌肉得到鍛鍊)。",
+      "pinyin": "yùndòngyuán xùnliàn shí, dà tuǐ jīròu dédào duànliàn。",
+      "english": "When athletes train, their thigh muscles get a workout."
+    }
+  ]
+}

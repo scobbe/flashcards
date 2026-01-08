@@ -2,38 +2,43 @@
   "simplified": "疋",
   "traditional": "疋",
   "pinyin": "pǐ",
-  "english": "foot",
+  "english": "bolt of cloth",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a foot 止 with a leg/thigh on top; similar to 足 while unrelated to the bottom part of 是",
-    "interpretation": "The character 疋(pǐ) visually represents a foot with an attached leg or thigh, illustrating its primary meaning. It is visually similar to 足(zú, 'foot') but distinct from 是(shì, 'is'), reinforcing its focus on the anatomical structure.",
+    "description": "Depicts a foot 止 (zhǐ, \"foot\") with a leg/thigh",
+    "interpretation": "The character 疋(pǐ, \"bolt of cloth\") originally depicted a foot with a leg or thigh, indicating the measurement or length of a cloth. Despite its contemporary meaning relating to cloth, its form is related to 足(zú, \"foot\"), which suggests its original pictorial representation.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
     {
       "char": "足",
       "trad": "足",
       "pinyin": "zú",
       "english": "foot"
-    },
-    {
-      "char": "是",
-      "trad": "是",
-      "pinyin": "shì",
-      "english": "is"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他买了一疋绫(他買了一疋綾)。",
-      "pinyin": "Tā mǎi le yī pǐ líng.",
-      "english": "He bought a bolt of satin."
+      "chinese": "他买了一疋布(他買了一疋布)。",
+      "pinyin": "Tā mǎi le yī pǐ bù.",
+      "english": "He bought a bolt of cloth."
     },
     {
-      "chinese": "这件绸缎足有五疋长(這件綢緞足有五疋長)。",
-      "pinyin": "Zhè jiàn chóuduàn zú yǒu wǔ pǐ zhǎng.",
-      "english": "This piece of satin is five feet long."
+      "chinese": "店里摆着数疋布(店裡擺著數疋布)，各色均匀(各色均勻)。",
+      "pinyin": "Diàn lǐ bǎi zhe shǔ pǐ bù, gè sè jūn yún.",
+      "english": "The shop displays several bolts of cloth, each in a uniform color."
+    },
+    {
+      "chinese": "裁缝用三疋布做了一件新衣(裁縫用三疋布做了一件新衣)。",
+      "pinyin": "Cáiféng yòng sān pǐ bù zuò le yī jiàn xīn yī.",
+      "english": "The tailor used three bolts of cloth to make a new garment."
     }
   ]
 }

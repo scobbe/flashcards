@@ -1,0 +1,50 @@
+{
+  "simplified": "常",
+  "traditional": "常",
+  "pinyin": "cháng",
+  "english": "ordinary; usual",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "尚(尚) (shàng, \"still\") as phonetic + 巾(巾) (jīn, \"cloth\") as semantic -> originally meant \"lower garment\" -> phonetically borrowed to mean \"ordinary\"",
+    "interpretation": "The character 常(cháng, \"ordinary\") combines 尚(shàng, \"still\") as the phonetic element with 巾(jīn, \"cloth\") suggesting its original meaning related to clothing. It was later borrowed for the ideas of frequency and commonality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "still"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    },
+    {
+      "char": "裳",
+      "trad": "裳",
+      "pinyin": "cháng",
+      "english": "lower garment"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他常去图书馆(他常去圖書館)。",
+      "pinyin": "Tā cháng qù túshūguǎn.",
+      "english": "He often goes to the library."
+    },
+    {
+      "chinese": "我常吃中餐(我常吃中餐)，因为味道独特(因為味道獨特)。",
+      "pinyin": "Wǒ cháng chī zhōngcān, yīnwèi wèidào dútè.",
+      "english": "I usually eat Chinese food because its flavors are distinct."
+    },
+    {
+      "chinese": "我们常在黄昏散步(我們常在黃昏散步)。",
+      "pinyin": "Wǒmen cháng zài huánghūn sànbù.",
+      "english": "We often take a walk at dusk."
+    }
+  ]
+}

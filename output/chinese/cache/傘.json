@@ -1,0 +1,31 @@
+{
+  "simplified": "傘",
+  "traditional": "傘",
+  "pinyin": "sǎn",
+  "english": "umbrella",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an umbrella with the structure resembling a handle with a covering on top",
+    "interpretation": "The character 傘(sǎn, 'umbrella') visually represents its meaning by depicting the shape of a traditional umbrella, with a central handle and spokes spreading out to form the canopy. This direct pictorial representation effectively captures the function and form of an umbrella.",
+    "simplification": "The simplified character 伞 visually represents the umbrella, with the removal of the top parts to reduce the stroke count while preserving the overall shape."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "下雨了(下雨了)，记得带傘(記得帶傘)。",
+      "pinyin": "xià yǔ le, jì dé dài sǎn.",
+      "english": "It's raining, remember to bring an umbrella."
+    },
+    {
+      "chinese": "我新买了一把傘(我新買了一把傘)。",
+      "pinyin": "wǒ xīn mǎi le yī bǎ sǎn.",
+      "english": "I bought a new umbrella."
+    },
+    {
+      "chinese": "暴风雨中(暴風雨中)，他紧紧握住傘(他緊緊握住傘)。",
+      "pinyin": "bào fēng yǔ zhōng, tā jǐn jǐn wò zhù sǎn.",
+      "english": "In the storm, he held the umbrella tightly."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "英",
+  "traditional": "英",
+  "pinyin": "yīng",
+  "english": "England; heroic; outstanding",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 央(央) (yāng, \"center\") = luxurious or flourishing like grass -> heroic, outstanding",
+    "interpretation": "The character combines 艹(艹) to suggest lushness or abundance, with 央(央) serving as the phonetic element, conveying the idea of excellence or being outstanding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "央",
+      "trad": "央",
+      "pinyin": "yāng",
+      "english": "center"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他英勇抗敌(他英勇抗敵)！",
+      "pinyin": "Tā yīng yǒng kàng dí!",
+      "english": "He fought the enemy heroically!"
+    },
+    {
+      "chinese": "他在英国学习(他在英國學習)，欣赏英伦风情(欣賞英倫風情)。",
+      "pinyin": "Tā zài Yīngguó xuéxí, xīnshǎng Yīnglún fēngqíng.",
+      "english": "He studies in England and appreciates British style."
+    },
+    {
+      "chinese": "他的气质英气逼人(他的氣質英氣逼人)！",
+      "pinyin": "Tā de qìzhì yīngqì bī rén!",
+      "english": "His demeanor is remarkably heroic."
+    }
+  ]
+}

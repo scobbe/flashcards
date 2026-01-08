@@ -1,0 +1,44 @@
+{
+  "simplified": "天氣",
+  "traditional": "天氣",
+  "pinyin": "tiānqì",
+  "english": "heaven; sky; air; atmosphere",
+  "etymology": {
+    "type": "compound word",
+    "description": "天(天) (tiān, \"heaven; sky\") + 氣(氣) (qì, \"air; atmosphere\") = refers to the state of the atmosphere or 'weather'",
+    "interpretation": "The word 天氣(天氣) (tiānqì, \"weather\") combines 天(天) (tiān, \"heaven; sky\") with 氣(氣) (qì, \"air; atmosphere\") to describe the atmospheric conditions we experience. This concept connects the natural elements of the sky and atmosphere with weather patterns.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "heaven; sky"
+    },
+    {
+      "char": "氣",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "air; atmosphere"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天天氣很好(今天天氣很好)。",
+      "pinyin": "Jīntiān tiānqì hěn hǎo.",
+      "english": "The weather today is very good."
+    },
+    {
+      "chinese": "我们在公园散步(我們在公園散步)，享受宜人的天氣(享受宜人的天氣)。",
+      "pinyin": "Wǒmen zài gōngyuán sànbù, xiǎngshòu yírén de tiānqì.",
+      "english": "We take a walk in the park, enjoying the pleasant air."
+    },
+    {
+      "chinese": "清晨的天氣凉爽(清晨的天氣涼爽)，适合跑步(適合跑步)。",
+      "pinyin": "Qīngchén de tiānqì liángshuǎng, shìhé pǎobù.",
+      "english": "The early morning weather is cool, perfect for running."
+    }
+  ]
+}

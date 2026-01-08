@@ -1,0 +1,57 @@
+{
+  "simplified": "童",
+  "traditional": "童",
+  "pinyin": "tóng",
+  "english": "child",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "䇂(䇂) (chisel) + 見(見) (jiàn, 'kneeling person with a huge eye') -> depicted punishment -> 東 corrupted over time -> modern phonetic 立(立) (lì, 'stand') + semantic 里(里) (lǐ, 'village')",
+    "interpretation": "Originally depicting a cruel punishment involving eye gouging, the character evolved to incorporate 東 as a phonetic element, eventually corrupting to 立, with the bottom 里 reflecting the phonetic development similar to the character 重. Despite its origin, 童(tóng) is now associated with 'child' or 'boy' in modern usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "䇂",
+      "trad": "䇂",
+      "pinyin": "chisel",
+      "english": "chisel"
+    },
+    {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "kneeling person with a huge eye"
+    },
+    {
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
+    },
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
+    },
+    {
+      "char": "里",
+      "trad": "里",
+      "pinyin": "lǐ",
+      "english": "village"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里的小童正在追逐蝴蝶(公園裡的小童正在追逐蝴蝶)。",
+      "pinyin": "Gōngyuán lǐ de xiǎo tóng zhèngzài zhuīzhú húdié.",
+      "english": "The little child in the park is chasing butterflies."
+    },
+    {
+      "chinese": "小童在院子里玩耍(小童在院子裡玩耍)，露出灿烂笑容(露出燦爛笑容)。",
+      "pinyin": "Xiǎo tóng zài yuànzi lǐ wánshuǎ, lùchū cànlàn xiàoróng.",
+      "english": "The child is playing in the yard and showing a bright smile."
+    }
+  ]
+}

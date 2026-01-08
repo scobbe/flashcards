@@ -1,21 +1,15 @@
 {
   "simplified": "𡕒",
   "traditional": "𡕒",
-  "pinyin": "xǐ",
-  "english": "leftward pointing foot",
+  "pinyin": "unknown",
+  "english": "",
   "etymology": {
-    "type": "variant form",
-    "description": "𡕒 is a variant form of 跨(跨). 跨(跨): semantic 足(足) (zú, \"foot\") + phonetic 夸(夸) (kuā) = a foot placed wide apart -> stride across",
-    "interpretation": "The character 𡕒 evolved as a variant to represent the same meaning as 跨(跨), focusing on the concept of a foot positioned for striding or stepping across.",
+    "type": "phono-semantic compound",
+    "description": "足(足) (zú, \"foot\") + 夸(夸) (kuā, \"boast\") = foot's action with expansion -> action of striding or stretching the leg, meaning lend support to 跨(跨) (kuà, \"straddle\")",
+    "interpretation": "The character 𡕒 is a variant form of 跨(跨) (kuà, \"straddle\") and involves 足(足) (zú, \"foot\"), which indicates an action involving the feet, and 夸(夸) (kuā, \"boast\"), which likely contributes the phonetic aspect. This combination helps convey the idea of spreading or extending legs across something.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "跨",
-      "trad": "跨",
-      "pinyin": "kuà",
-      "english": "stride across"
-    },
     {
       "char": "足",
       "trad": "足",
@@ -27,19 +21,14 @@
       "trad": "夸",
       "pinyin": "kuā",
       "english": "boast"
+    },
+    {
+      "char": "跨",
+      "trad": "跨",
+      "pinyin": "kuà",
+      "english": "straddle"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "考古学家仔细研究𡕒(考古學家仔細研究𡕒)，发现它代表着一个向左的足印(發現它代表着一個向左的足印)。",
-      "pinyin": "Kǎogǔ xuéjiā zǐxì yánjiū 𡕒, fāxiàn tā dàibiǎo zhe yí gè xiàng zuǒ de zúyìn.",
-      "english": "Archaeologists carefully studied 𡕒, discovering that it symbolizes a leftward foot imprint."
-    },
-    {
-      "chinese": "古文经常用𡕒(古文經常用𡕒)，表达向左的意趣(表達向左的意趣)。",
-      "pinyin": "Gǔwén jīngcháng yòng 𡕒, biǎodá xiàng zuǒ de yìqù.",
-      "english": "Ancient texts often use 𡕒 to express leftward sentiments."
-    }
-  ]
+  "examples": []
 }

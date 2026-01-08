@@ -1,0 +1,28 @@
+{
+  "simplified": "駁",
+  "traditional": "駁",
+  "pinyin": "bó",
+  "english": "mixed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "馬(馬) (mǎ, \"horse\") + 爻(爻) (yáo, \"marks\") = horse with marks -> mixed",
+    "interpretation": "The character 駁(bó, \"mixed\") combines the semantic element 馬(馬) (mǎ, \"horse\"), suggesting the concept related to horses, with the phonetic 爻(爻) (yáo, \"marks\") to convey the idea of a horse with mixed or different colors or marks, figuratively indicating something mixed or mottled.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "馬",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    },
+    {
+      "char": "爻",
+      "trad": "爻",
+      "pinyin": "yáo",
+      "english": "marks"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

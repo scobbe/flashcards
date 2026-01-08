@@ -1,0 +1,44 @@
+{
+  "simplified": "把",
+  "traditional": "把",
+  "pinyin": "bǎ",
+  "english": "disposal marker",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + 巴(巴) (bā) = combining hand with phonetic value -> disposal marker",
+    "interpretation": "The character 把(bǎ) combines the hand radical 扌(扌) (shǒu, \"hand\"), indicating an action involving the hand, with the phonetic 巴(巴) (bā), providing the pronunciation. This suggests a hand's role in manipulating or handling something, which fits its function as a disposal marker in sentences.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我把水喝了(我把水喝了)。",
+      "pinyin": "Wǒ bǎ shuǐ hē le.",
+      "english": "I drank the water."
+    },
+    {
+      "chinese": "他把信寄出去了(他把信寄出去了)，朋友很快收到了(朋友很快收到了)。",
+      "pinyin": "Tā bǎ xìn jì chū qù le, péngyǒu hěn kuài shōu dào le.",
+      "english": "He sent out the letter, and his friend received it quickly."
+    },
+    {
+      "chinese": "我把烦恼放下了(我把煩惱放下了)，心情变得轻松起来了(心情變得輕鬆起來了)。",
+      "pinyin": "Wǒ bǎ fánnǎo fàng xià le, xīnqíng biàn dé qīngsōng qǐ lái le.",
+      "english": "I put aside my worries, and my mood became relaxed."
+    }
+  ]
+}

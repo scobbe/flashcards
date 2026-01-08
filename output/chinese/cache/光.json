@@ -1,0 +1,39 @@
+{
+  "simplified": "光",
+  "traditional": "光",
+  "pinyin": "guāng",
+  "english": "light",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "火(火) (huǒ, \"fire\") + 卩(卩) (jié, \"kneeling person\") = fire over a person's head -> emphasizing the shining of light",
+    "interpretation": "The character 光(光) (guāng, \"light\") combines 火(火) (huǒ, \"fire\") with 卩(卩) (jié, \"kneeling person\") to illustrate fire positioned above a person’s head, highlighting the concept of light emanation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "太阳的光温暖大地(太陽的光溫暖大地)。",
+      "pinyin": "Tàiyáng de guāng wēnnuǎn dàdì。",
+      "english": "The sunlight warms the earth."
+    },
+    {
+      "chinese": "他脸上闪烁着光(他臉上閃爍著光)，给人希望(給人希望)。",
+      "pinyin": "Tā liǎn shàng shǎnshuò zhe guāng, gěi rén xīwàng。",
+      "english": "Light shimmers on his face, giving hope."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "左",
+  "traditional": "左",
+  "pinyin": "zuǒ",
+  "english": "left",
+  "etymology": {
+    "type": "phono-semantic compound and ideogrammic compound",
+    "description": "𠂇 (pictogram of left hand) -> 𠂇 (left hand) + 工 (work) = phono-semantic compound representing assistance -> later 佐",
+    "interpretation": "The character 左(左) (zuǒ, 'left') combines the pictogram of a left hand with the symbol for work, 工(工) (gōng, 'work'), to suggest the use or assistance of the left hand in work, reflecting its original association with the word 佐(佐) (zuǒ, 'to assist').",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    },
+    {
+      "char": "佐",
+      "trad": "佐",
+      "pinyin": "zuǒ",
+      "english": "to assist"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他往左走(他往左走)。",
+      "pinyin": "Tā wǎng zuǒ zǒu.",
+      "english": "He goes to the left."
+    },
+    {
+      "chinese": "公交车站在左边(公車站在左邊)，步行只需两分钟(步行只需兩分鐘)。",
+      "pinyin": "Gōngjiāo chēzhàn zài zuǒbiān, bùxíng zhǐ xū liǎng fēnzhōng.",
+      "english": "The bus stop is on the left, and it only takes two minutes on foot."
+    },
+    {
+      "chinese": "左边的风景很美(左邊的風景很美)。",
+      "pinyin": "Zuǒbiān de fēngjǐng hěn měi.",
+      "english": "The scenery on the left is beautiful."
+    }
+  ]
+}

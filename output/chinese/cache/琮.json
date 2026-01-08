@@ -1,0 +1,28 @@
+{
+  "simplified": "琮",
+  "traditional": "琮",
+  "pinyin": "cóng",
+  "english": "cong",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "玉(玉) (yù, 'jade') + 宗(宗) (zōng, 'ancestor') = jade + phonetic zōng -> type of jade object",
+    "interpretation": "The character 琮(cóng) features 玉(玉) (yù, 'jade') as its semantic component, indicating the character's connection to jade materials or objects. The phonetic component 宗(宗) (zōng) suggests its pronunciation. Traditionally, 琮(cóng) refers to a type of ancient ritualistic jade object used in ceremonies.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "宗",
+      "trad": "宗",
+      "pinyin": "zōng",
+      "english": "ancestor"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "義",
+  "traditional": "義",
+  "pinyin": "yì",
+  "english": "righteousness",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 我(我) (wǒ, 'I') + semantic: 羊(羊) (yáng, 'good; beautiful; auspicious') -> righteousness",
+    "interpretation": "The character 義(yì, 'righteousness') combines 我(我) (wǒ, 'I'), which provides the pronunciation, with 羊(羊) (yáng, 'good; beautiful; auspicious'), suggesting moral goodness or virtue. This combination implies a personal embodiment of these positive qualities, aligning with the meaning of righteousness.",
+    "simplification": "The simplified form 义 retains the basic structure but reduces the complexity by removing 我(我) (wǒ, 'I'), leaving a stylized version of 羊(羊) (yáng, 'good; beautiful; auspicious')."
+  },
+  "parts": [
+    {
+      "char": "我",
+      "trad": "我",
+      "pinyin": "wǒ",
+      "english": "I"
+    },
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "good; beautiful; auspicious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他以義待人(他以義待人)，不辜負朋友(不辜負朋友)。",
+      "pinyin": "Tā yǐ yì dài rén, bù gūfù péngyǒu.",
+      "english": "He treats people with righteousness and never disappoints his friends."
+    },
+    {
+      "chinese": "為了伸張義(為了伸張義)，他勇敢奮戰(他勇敢奮戰)。",
+      "pinyin": "Wèi le shēnzhāng yì, tā yǒnggǎn fènzhàn.",
+      "english": "To promote righteousness, he fought valiantly."
+    },
+    {
+      "chinese": "忠義無雙(忠義無雙)。",
+      "pinyin": "Zhōng yì wú shuāng.",
+      "english": "His loyalty and righteousness are unparalleled."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "夗",
+  "traditional": "夗",
+  "pinyin": "yuàn",
+  "english": "tilt",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an animal lying down about to die",
+    "interpretation": "The character 夗 is a pictogram symbolizing an animal in a state of exhaustion or near death, representing the concept of tilting or lying down. Over time, different interpretations emerged, suggesting components like 肉(肉) (ròu, \"meat\") and 乃(乃) (nǎi) or 人(人) (rén, \"person\") can be seen in earlier forms, but the primary depiction remains consistent with an animal in repose.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "乃",
+      "trad": "乃",
+      "pinyin": "nǎi",
+      "english": ""
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

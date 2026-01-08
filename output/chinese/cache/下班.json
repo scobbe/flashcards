@@ -1,0 +1,44 @@
+{
+  "simplified": "下班",
+  "traditional": "下班",
+  "pinyin": "xiàbān",
+  "english": "to get off work",
+  "etymology": {
+    "type": "compound word",
+    "description": "下(下) (xià, \"below; down\") + 班(班) (bān, \"shift; work\") = to get off work -> when the work shift or period is over",
+    "interpretation": "下(下) (xià, \"below; down\") indicates finishing or concluding a task, while 班(班) (bān, \"shift; work\") refers to a work period. Together, 下班 (xiàbān, \"to get off work\") describes the action of completing your work shift and leaving your workplace.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "below; down"
+    },
+    {
+      "char": "班",
+      "trad": "班",
+      "pinyin": "bān",
+      "english": "shift; work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我下午五点下班(我下午五點下班)。",
+      "pinyin": "Wǒ xiàwǔ wǔ diǎn xiàbān.",
+      "english": "I get off work at five in the afternoon."
+    },
+    {
+      "chinese": "今天工作很辛苦(今天工作很辛苦)，下班后他喝了一杯咖啡(下班後他喝了一杯咖啡)。",
+      "pinyin": "Jīntiān gōngzuò hěn xīnkǔ, xiàbān hòu tā hē le yī bēi kāfēi.",
+      "english": "Today work is arduous; after getting off work, he had a cup of coffee."
+    },
+    {
+      "chinese": "公交车缓缓驶来(公交車緩緩駛來)，下班的人群开始涌动(下班的人群開始湧動)。",
+      "pinyin": "Gōngjiāo chē huǎn huǎn shǐ lái, xiàbān de rénqún kāishǐ yǒngdòng.",
+      "english": "The bus slowly arrives, and the crowd getting off work begins to surge."
+    }
+  ]
+}

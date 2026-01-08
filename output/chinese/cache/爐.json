@@ -1,0 +1,39 @@
+{
+  "simplified": "爐",
+  "traditional": "爐",
+  "pinyin": "lú",
+  "english": "oven",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "火(火) (huǒ, \"fire\") + 盧(盧) (lú, \"black\", phonetic) = container for heating -> oven",
+    "interpretation": "爐(爐) (lú, \"oven\") combines the semantic component 火(火) (huǒ, \"fire\") indicating something related to heat, with the phonetic element 盧(盧) (lú, \"black\"), suggesting the sound. This forms a character for an object related to fire for cooking or heating.",
+    "simplification": "The original component 盧(盧) (lú, \"black\") in 爐(爐) was kept phonetic in its simplified form 炉(炉), with the character reduced to straightforward strokes."
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "盧",
+      "trad": "盧",
+      "pinyin": "lú",
+      "english": "black"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈用爐烤蛋糕(媽媽用爐烤蛋糕)。",
+      "pinyin": "Māmā yòng lú kǎo dàn gāo.",
+      "english": "Mother bakes a cake using the oven."
+    },
+    {
+      "chinese": "我把比萨放进爐(我把比薩放進爐)，然后设定温度(然後設定溫度)。",
+      "pinyin": "Wǒ bǎ bǐsà fàng jìn lú, ránhòu shè dìng wēn dù.",
+      "english": "I put the pizza into the oven, then set the temperature."
+    }
+  ]
+}

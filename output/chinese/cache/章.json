@@ -1,0 +1,44 @@
+{
+  "simplified": "章",
+  "traditional": "章",
+  "pinyin": "zhāng",
+  "english": "chapter",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "辛(辛) (xīn, \"chisel\") + 日(日) (rì, \"sun\") = chisel piercing a piece of jade -> originally meant \"to treat jade\" -> later evolved to \"chapter\"",
+    "interpretation": "The character 章 initially depicted a chisel (辛) piercing a piece of jade, represented by the 日 symbol. This depiction symbolized the process of treating jade. Over time, it likely evolved to be used for the concept of \"chapter,\" as jade carvings and inscriptions often represented chapters or sections in a work.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "chisel"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "第一章让人印象深刻(第一章讓人印象深刻)。",
+      "pinyin": "Dì yī zhāng ràng rén yìnxiàng shēnkè.",
+      "english": "The first chapter left a deep impression."
+    },
+    {
+      "chinese": "他们讨论了第二章的内容(他們討論了第二章的內容)。",
+      "pinyin": "Tāmen tǎolùn le dì èr zhāng de nèiróng.",
+      "english": "They discussed the content of the second chapter."
+    },
+    {
+      "chinese": "第一章启发了读者(第一章啟發了讀者)，第二章展开了故事(第二章展開了故事)。",
+      "pinyin": "Dì yī zhāng qǐfā le dúzhě, dì èr zhāng zhǎnkāi le gùshì.",
+      "english": "The first chapter inspired the readers, and the second chapter unfolded the story."
+    }
+  ]
+}

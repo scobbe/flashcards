@@ -4,35 +4,23 @@
   "pinyin": "lǚ",
   "english": "spine",
   "etymology": {
-    "type": "variant form of 呂",
-    "description": "Originally 呂(呂) (lǚ, \"spine/music notes\") depicted two disconnected blocks of metal, interpreted as two vertebrae -> connected line added in seal script -> 呂(呂) later borrowed for phonetic use in 膂(膂) (lǚ, \"spine\")",
-    "interpretation": "The character 膂 is a variant of 呂, originally depicting two vertebrae or blocks of metal. Over time, it was borrowed phonetically to represent 'spine.'",
+    "type": "variant form",
+    "description": "膂 is a variant form of 呂(呂) (lǚ, \"spine\")",
+    "interpretation": "Originating as a pictogram depicting two disconnected blocks, 呂(呂) was initially associated with metal and later reinterpreted as vertebrae through the addition of a connecting line, representing \u00169 (lǚ, \"spine\"). The character 呂(呂) was phonetically borrowed for this meaning, while 膂 emphasizes its anatomical sense with the addition of the 肉(肉) (ròu, \"flesh\") radical.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "呂",
-      "trad": "呂",
-      "pinyin": "lǚ",
-      "english": "spine/music notes"
-    }
-  ],
-  "in_contemporary_usage": false,
+  "parts": [],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他挺直膂背面对困难(他挺直膂背面對困難)。",
-      "pinyin": "Tā tǐngzhí lǚ bèi miànduì kùnnán.",
-      "english": "He straightens his spine to face difficulties."
+      "chinese": "他的膂十分强健(他的膂十分強健)。",
+      "pinyin": "Tā de lǚ shífēn qiángjiàn.",
+      "english": "His spine is very strong."
     },
     {
-      "chinese": "经过锻炼(經過鍛鍊)，他的膂更加韧性十足(他的膂更加韌性十足)。",
-      "pinyin": "Jīngguò duànliàn, tā de lǚ gèngjiā rènxìng shízú.",
-      "english": "After training, his spine becomes remarkably resilient."
-    },
-    {
-      "chinese": "他虽受重伤(他雖受重傷)，却依靠坚韧的膂挺直身体(卻依靠堅韌的膂挺直身體)。",
-      "pinyin": "Tā suī shòu zhòngshāng, què yīkào jiān rèn de lǚ tǐngzhí shēntǐ.",
-      "english": "Despite his severe injuries, he relies on his resilient spine to keep his body upright."
+      "chinese": "练习瑜伽可以增强膂(練習瑜伽可以增強膂)，保持身体健康(保持身體健康)。",
+      "pinyin": "Liànxí yújiā kěyǐ zēngqiáng lǚ, bǎochí shēntǐ jiànkāng.",
+      "english": "Practicing yoga can strengthen the spine, helping to maintain a healthy body."
     }
   ]
 }

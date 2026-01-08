@@ -1,0 +1,39 @@
+{
+  "simplified": "千",
+  "traditional": "千",
+  "pinyin": "qiān",
+  "english": "thousand",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "一(一) (yī, \"one\") as semantic component indicating a number + 人(人) (rén, \"person\") as phonetic component -> sounds similar to 人(人) -> thousand as an extension in counting",
+    "interpretation": "The character 千(qiān) takes its semantic aspect from 一(一) to signify a number, while 人(人) provides phonetic guidance due to its similar ancient pronunciation. The idea of reaching 'one thousand' involves an extension or continuation in counting, which is conceptually represented by the additional line.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "城市里有千家餐馆(城市裡有千家餐館)。",
+      "pinyin": "Chéngshì lǐ yǒu qiān jiā cānguǎn.",
+      "english": "There are a thousand restaurants in the city."
+    },
+    {
+      "chinese": "他读了千卷书(他讀了千卷書)，增长了智慧(增長了智慧)。",
+      "pinyin": "Tā dúle qiān juǎn shū, zēngzhǎngle zhìhuì.",
+      "english": "He read a thousand books and increased his wisdom."
+    }
+  ]
+}

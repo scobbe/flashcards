@@ -1,0 +1,6682 @@
+## 加油(加油)
+---
+## to make an extra effort; to cheer someone on
+### jiāyóu
+---
+- **definition:** to make an extra effort; to cheer someone on
+- **pinyin:** jiāyóu
+- **components:**
+  - 加
+    - jiā
+    - add; increase; join
+  - 油
+    - yóu
+    - oil; fuel; grease
+- **etymology:**
+  - **type:** compound word
+  - **description:** 加(加) (jiā, "add") + 油(油) (yóu, "oil") - in racing contexts, to add oil originally referred to adding fuel for more power, hence cheering someone on to do better.
+  - **interpretation:** 加油(加油) (jiāyóu) literally means 'add oil,' a metaphorical expression encouraging someone to work harder, persevere, or do better. Historically, the term derived from motor sports where adding oil meant boosting vehicle performance, thus symbolically encouraging someone to enhance their efforts.
+- **examples:**
+  - 比赛前(比賽前)，教练对运动员说要加油(教練對運動員說要加油)。
+    - Bǐsài qián, jiàoliàn duì yùndòngyuán shuō yào jiāyóu.
+    - Before the match, the coach told the athletes to make an extra effort.
+  - 考试时(考試時)，同学互相加油(同學互相加油)。
+    - Kǎoshì shí, tóngxué hùxiāng jiāyóu.
+    - During the exam, classmates cheered each other on.
+  - 比赛中(比賽中)，观众不断喊加油(觀眾不斷喊加油)。
+    - Bǐsài zhōng, guānzhòng bùduàn hǎn jiāyóu.
+    - During the competition, the audience continuously shouted encouragement.
+### 加油(加油) → 加(加)
+- **definition:** add; increase; join
+- **pinyin:** jiā
+- **components:**
+  - 力
+    - lì
+    - strength
+  - 口
+    - kǒu
+    - mouth
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 力(力) (lì, "strength") + 口(口) (kǒu, "mouth") =
+    - applying strength vocally ->
+    - add
+  - **interpretation:** The character 加(加) (jiā, "add") shows the idea of using strength in a vocal or pronounced way, suggesting an emphasis or increase, which aligns with the meaning of 'to add.'
+- **examples:**
+  - 请加糖(請加糖)。
+    - Qǐng jiā táng.
+    - Please add sugar.
+  - 厨师在汤里加盐(廚師在湯裡加鹽)，让味道更浓(讓味道更濃)。
+    - Chúshī zài tāng lǐ jiā yán, ràng wèidào gèng nóng.
+    - The chef adds salt to the soup, making the flavor richer.
+  - 他总是加一点努力(他總是加一點努力)，来克服困难(來克服困難)。
+    - Tā zǒngshì jiā yīdiǎn nǔlì, lái kèfú kùnnán.
+    - He always adds a bit more effort to overcome difficulties.
+### 加油(加油) → 加(加) → 力(力)
+- **definition:** strength
+- **pinyin:** lì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts either an arm bending out from the side of the body, or a wooden plough
+  - **interpretation:** The character 力(lì, 'strength') visually represents physical power through the image of an arm or tool, emphasizing the fundamental concept of muscular force.
+- **examples:**
+  - 他用尽全力(他用盡全力)，赢得比赛(贏得比賽)。
+    - Tā yòng jìn quánlì, yíng dé bǐsài.
+    - He used all his strength to win the competition.
+  - 他把力气用在学习上(他把力氣用在學習上)。
+    - Tā bǎ lìqì yòng zài xuéxí shàng.
+    - He applies his strength to his studies.
+  - 面对困难(面對困難)，他毫不退缩(他毫不退縮)，全力以赴(全力以赴)。
+    - Miànduì kùnnán, tā háo bù tuìsuō, quánlì yǐ fù.
+    - Facing difficulties, he neither retreats nor gives up, but goes all out.
+### 加油(加油) → 加(加) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 加油(加油) → 油(油)
+- **definition:** oil; fuel; grease
+- **pinyin:** yóu
+- **components:**
+  - 氵
+    - shuǐ
+    - water
+  - 由
+    - yóu
+    - reason
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 氵(氵) (shuǐ, 'water') + phonetic 由(由) (yóu, 'reason') =
+    - liquid that flows ->
+    - oil, sauce
+  - **interpretation:** The character 油(yóu) combines the water radical 氵(氵) (shuǐ, 'water') with the phonetic 由(由) (yóu, 'reason'). This suggests something liquid, aligning with the meanings 'oil' and 'sauce', both of which flow like water.
+- **examples:**
+  - 油可以用来炒菜(油可以用來炒菜)。
+    - Yóu kěyǐ yòng lái chǎo cài.
+    - Oil can be used for stir-frying dishes.
+  - 我喜欢辣椒油(我喜歡辣椒油)，因为它增加了味道(因為它增加了味道)。
+    - Wǒ xǐhuān làjiāo yóu, yīnwèi tā zēngjiāle wèidào.
+    - I like chili oil because it enhances the flavor.
+  - 煎鱼时可以先在鱼上抹点油(煎魚時可以先在魚上抹點油)，这样鱼更滑嫩(這樣魚更滑嫩)。
+    - Jiān yú shí kěyǐ xiān zài yú shàng mǒ diǎn yóu, zhèyàng yú gèng huá nèn.
+    - When pan-frying fish, you can first spread a little oil on the fish, so that the fish becomes more tender.
+### 加油(加油) → 油(油) → 氵(氵)
+- **definition:** water
+- **pinyin:** shuǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - 氵is the radical form of 水(水) (shuǐ, "water") ->
+    - depicts flowing water, compressed and stylized next to characters.
+  - **interpretation:** The character 氵is a simplified variant used as a radical to represent water-related meanings in other characters. It retains the flowing water depiction of 水(水) (shuǐ, "water") but is stylized to fit alongside other components.
+- **examples:**
+  - 水是生命之源(水是生命之源)。
+    - Shuǐ shì shēngmìng zhī yuán.
+    - Water is the source of life.
+  - 汉字中偏旁氵(漢字中偏旁氵)，代表水(代表水)。
+    - Hànzì zhōng piān páng shuǐ, dàibiǎo shuǐ.
+    - In Chinese characters, the radical '氵' signifies water.
+  - 河水清澈透明(河水清澈透明)，鱼儿欢快戏水(魚兒歡快戲水)。
+    - Hé shuǐ qīngchè tòumíng, yú er huānkuaì xì shuǐ.
+    - The river water is clear and transparent, and the fish happily play in it.
+### 加油(加油) → 油(油) → 由(由)
+- **definition:** reason
+- **pinyin:** yóu
+- **components:**
+  - 十
+    - shí
+    - ten
+  - 口
+    - kǒu
+    - mouth
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 十(十) (shí, 'ten') + Semantic: 口(口) (kǒu, 'mouth') ->
+    - container with a needle; oracle bones reflect original version of 怞(怞) (yóu, 'cause') ->
+    - final form 由(由)
+  - **interpretation:** The character 由(由) (yóu, 'cause') was originally a phono-semantic compound, combining 十(十) (shí, 'ten') as the phonetic component with 口(口) (kǒu, 'mouth') as the semantic component. This represents a container, indicating an ancient pronunciation. The character also has historical associations with oracle bone script and was an original form of 怞(怞) (yóu, 'cause'), indicating the character's evolution from a depiction of an item to its modern meaning.
+- **examples:**
+  - 这次事故由人为失误造成(這次事故由人為失誤造成)。
+    - Zhè cì shìgù yóu rénwéi shīwù zàochéng.
+    - This accident was caused by human error.
+  - 他的成功由坚持与努力铸就(他的成功由堅持與努力鑄就)。
+    - Tā de chénggōng yóu jiānchí yǔ nǔlì zhùjiù.
+    - His success was built on perseverance and hard work.
+  - 问题往往由细节引起(問題往往由細節引起)。
+    - Wèntí wǎngwǎng yóu xìjié yǐnqǐ.
+    - Problems are often caused by details.
+### 加油(加油) → 油(油) → 由(由) → 十(十)
+- **definition:** ten
+- **pinyin:** shí
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Original vertical stroke ->
+    - later horizontal stroke added ->
+    - forms a cross ->
+    - represents 'ten'
+  - **interpretation:** The character 十(shí, 'ten') represents the number ten with a cross shape that could be seen as tally marks. It evolved from a simple vertical stroke to a cross by adding a horizontal stroke, symbolizing a complete set of ten.
+- **examples:**
+  - 我有十本书(我有十本書)。
+    - Wǒ yǒu shí běn shū.
+    - I have ten books.
+  - 花园里有十棵树(花園裡有十棵樹)，景色十分优美(景色十分優美)。
+    - Huāyuán lǐ yǒu shí kē shù, jǐngsè shífēn yōuměi.
+    - There are ten trees in the garden, and the scenery is very beautiful.
+  - 十年磨一剑(十年磨一劍)。
+    - Shí nián mó yī jiàn.
+    - It takes ten years of practice to hone a sword.
+### 加油(加油) → 油(油) → 由(由) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+---
+## 加油(加油)
+### jiāyóu
+---
+## to make an extra effort; to cheer someone on
+%%%
+## 雪(雪)
+---
+## snow
+### xuě
+---
+- **definition:** snow
+- **pinyin:** xuě
+- **components:**
+  - 雨
+    - yǔ
+    - rain
+  - 彗
+    - huì
+    - broom
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Rain 雨(雨) (yǔ, "rain") + Phonetic 彗(彗) (huì, "broom") =
+    - sweeping away rain ->
+    - snow
+  - **interpretation:** The combination of 雨(雨) (yǔ, "rain") and 彗(彗) (huì, "broom") effectively conveys the idea of snow as light, fluffy precipitation that resembles rain being swept away like with a broom, likely reflecting how snow covers surfaces.
+  - **simplification:** The character 雪 is an ancient simplification of 䨮, both sharing the same components for rain and broom.
+- **examples:**
+  - 冬天来了(冬天來了)，雪花纷飞(雪花紛飛)。
+    - Dōngtiān láile, xuěhuā fēnfēi.
+    - Winter has arrived, and snowflakes are fluttering.
+  - 屋顶上挂着雪(屋頂上掛著雪)。
+    - Wūdǐng shàng guàzhe xuě.
+    - Snow is hanging on the roof.
+  - 初雪降临时(初雪降臨時)，万物银装(萬物銀裝)。
+    - Chū xuě jiànglín shí, wànwù yínzhuāng.
+    - When the first snow arrives, everything is dressed in silver.
+### 雪(雪) → 雨(雨)
+- **definition:** rain
+- **pinyin:** yǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a cloud with drops of rain falling from it ->
+    - horizontal stroke added later ->
+    - rain
+  - **interpretation:** 雨(雨) (yǔ, "rain") visually represents rain falling from a cloud, capturing its essential form.
+- **examples:**
+  - 今天雨下得很大(今天雨下得很大)。
+    - Jīntiān yǔ xià de hěn dà.
+    - It rained hard today.
+  - 他忘记带伞(他忘記帶傘)，雨却毫不留情(雨卻毫不留情)。
+    - Tā wàngjì dài sǎn, yǔ què háobù liúqíng.
+    - He forgot to bring an umbrella, and the rain showed no mercy.
+  - 细雨如丝(細雨如絲)，轻拂着花瓣(輕拂著花瓣)。
+    - Xì yǔ rú sī, qīng fú zhe huā bàn.
+    - The fine rain falls like silk, gently brushing the petals.
+### 雪(雪) → 彗(彗)
+- **definition:** broom
+- **pinyin:** huì
+- **components:**
+  - 甡
+    - shēn
+    - broom
+  - 又
+    - yòu
+    - hand
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 甡 (shēn, "broom") + 又 (yòu, "hand") =
+    - holding a broom
+  - **interpretation:** The character 彗 (huì, "broom") combines 甡 (shēn, "broom") with 又 (yòu, "hand") to depict the action of holding a broom. This emphasizes the function and use of a broom, suggesting an object specifically designed to be held by hand for sweeping.
+- **examples:**
+  - 他拿着破旧的彗(他拿著破舊的彗)，清扫庭院(清掃庭院)。
+    - Tā ná zhe pò jiù de huì, qīng sǎo tíng yuàn.
+    - He holds the old broom and sweeps the courtyard.
+  - 老匠人用彗(老匠人用彗)，细致打扫作坊(細緻打掃作坊)。
+    - Lǎo jiàngrén yòng huì, xìzhì dǎsǎo zuòfāng.
+    - The old craftsman uses the broom to meticulously clean the workshop.
+  - 在寒冬夜晚(在寒冬夜晚)，他默默拿起彗(他默默拿起彗)，清扫门前(清掃門前)。
+    - Zài hán dōng yè wǎn, tā mò mò ná qǐ huì, qīng sǎo mén qián.
+    - On a cold winter night, he silently picked up the broom and swept the front door.
+### 雪(雪) → 彗(彗) → 甡(甡)
+- **definition:** broom
+- **pinyin:** shēn
+- **components:**
+  - 生
+    - shēng
+    - life
+  - 甬
+    - yǒng
+    - path
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 生(生) (shēng, "life") + 甬(甬) (yǒng, "path") =
+    - phonetic resemblance with semantic hint ->
+    - broom
+  - **interpretation:** The character 甡 (shēn) combines 生(生) (shēng, "life") as a semantic hint suggesting something growing or branching, with 甬(甬) (yǒng, "path") used for phonetic similarity. The resulting meaning refers to a broom which was traditionally connected to household life.
+### 雪(雪) → 彗(彗) → 甡(甡) → 生(生)
+- **definition:** life
+- **pinyin:** shēng
+- **components:**
+  - 屮
+    - chè
+    - sprout
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 屮(屮) (chè, "sprout") on top of a horizontal line ->
+    - signifies a plant sprouting from the ground ->
+    - symbolizes life
+  - **interpretation:** The character 生(生) (shēng, "life") represents the concept of life force or vitality, symbolized by a sprout emerging from the earth, embodying growth and renewal.
+- **examples:**
+  - 生命是一场美丽的旅程(生命是一場美麗的旅程)。
+    - Shēngmìng shì yī chǎng měilì de lǚchéng.
+    - Life is a beautiful journey.
+  - 他在战场上奋力生存(他在戰場上奮力生存)。
+    - Tā zài zhànchǎng shàng fènlì shēngcún.
+    - He fights to live on the battlefield.
+  - 这家餐厅的生鱼片非常新鲜(這家餐廳的生魚片非常新鮮)。
+    - Zhè jiā cāntīng de shēngyúpiàn fēicháng xīnxiān.
+    - The raw fish slices at this restaurant are very fresh.
+### 雪(雪) → 彗(彗) → 甡(甡) → 生(生) → 屮(屮)
+- **definition:** sprout
+- **pinyin:** chè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a sprout emerging from the ground
+  - **interpretation:** The character 屮 (chè) is a pictogram representing a young plant or sprout pushing up through the soil, with the three strokes symbolizing leaves or shoots extending upward. It visually conveys the idea of growth and emergence, which aligns with its meaning as 'sprout'.
+### 雪(雪) → 彗(彗) → 甡(甡) → 甬(甬)
+- **definition:** path
+- **pinyin:** yǒng
+- **components:**
+  - 用
+    - yòng
+    - use
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a bronze bell ->
+    - lower part evolved into 用 (yòng, "use") as phonetic, unrelated to 用 itself
+  - **interpretation:** 甬 originally depicted a bronze bell, showing how the capacity for resonance might metaphorically relate to a 'path' for sound or music, though it later took on more abstract meanings.
+- **examples:**
+  - 这条甬狭窄而蜿蜒(這條甬狹窄而蜿蜒)。
+    - Zhè tiáo yǒng xiázhǎi ér wānyán.
+    - This path is narrow and winding.
+  - 山间甬道(山間甬道)，通向幽静村庄(通向幽靜村莊)。
+    - Shānjiān yǒngdào, tōng xiàng yōujìng cūnzhuāng.
+    - The mountain path leads to a tranquil village.
+### 雪(雪) → 彗(彗) → 甡(甡) → 甬(甬) → 用(用)
+- **definition:** use
+- **pinyin:** yòng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a vessel with contents being poured out
+  - **interpretation:** 用(用) (yòng, 'use') visually represents the action of utilizing or employing, as depicted by a container pouring out its contents. This imagery effectively conveys the core idea of using resources or applying effort in a task.
+- **examples:**
+  - 请用心体会这首诗(請用心體會這首詩)。
+    - qǐng yòng xīn tǐhuì zhè shǒu shī。
+    - Please use your heart to appreciate this poem.
+  - 他用笔写字(他用筆寫字)，也用心记录生活(也用心記錄生活)。
+    - tā yòng bǐ xiě zì，yě yòng xīn jìlù shēnghuó。
+    - He writes with a pen, and also uses his heart to record life.
+  - 老板用新策略吸引顾客(老闆用新策略吸引顧客)。
+    - lǎobǎn yòng xīn cèlüè xīyǐn gùkè。
+    - The boss uses new strategies to attract customers.
+### 雪(雪) → 彗(彗) → 又(又)
+- **definition:** hand
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又(又) (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+---
+## 雪(雪)
+### xuě
+---
+## snow
+%%%
+## 零下(零下)
+---
+## zero; below zero
+### líng (xià)
+---
+- **definition:** zero; below zero
+- **pinyin:** líng (xià)
+- **components:**
+  - 零
+    - líng
+    - zero
+  - 下
+    - xià
+    - below; under; down
+- **etymology:**
+  - **type:** compound word
+  - **description:** 零(零) (líng, "zero"), 下(下) (xià, "below")
+  - **interpretation:** The word 零下(零下) (língxià) combines 零(零) (líng, "zero") with 下(下) (xià, "below") to convey the concept of being 'below zero'. This typically refers to temperatures that are less than zero degrees, commonly used in discussions of weather conditions, indicating freezing or sub-zero temperatures.
+- **examples:**
+  - 今天气温是零下五度(今天氣溫是零下五度)。
+    - Jīntiān qìwēn shì líng xià wǔ dù.
+    - The temperature today is five degrees below zero.
+  - 昨晚气温急剧下降(昨晚氣溫急劇下降)，零下低温笼罩了整个城市(零下低溫籠罩了整個城市)。
+    - Zuówǎn qìwēn jíjù xiàjiàng, líng xià dīwēn lǒngzhào le zhěnggè chéngshì.
+    - Last night, the temperature dropped drastically, and subzero cold enveloped the entire city.
+  - 寒冬将至(寒冬將至)，零下气温考验着人们的耐寒能力(零下氣溫考驗著人們的耐寒能力)。
+    - Hándōng jiāng zhì, líng xià qìwēn kǎoyàn zhe rénmen de nàihán nénglì.
+    - Winter is coming, and the below-zero temperature tests people's ability to withstand the cold.
+### 零下(零下) → 零(零)
+- **definition:** zero
+- **pinyin:** líng
+- **components:**
+  - 雨
+    - yǔ
+    - rain
+  - 令
+    - lìng
+    - command
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 雨(雨) (yǔ, "rain") + 令(令) (lìng, "command") =
+    - rain with large droplets as depicted in oracle script ->
+    - associated with the loss or remainder of rain droplets ->
+    - zero
+  - **interpretation:** The character 零(líng) combines the semantic element of 雨(雨) (yǔ, "rain") with the phonetic component 令(令) (lìng, "command"). Originally, it depicted raindrops falling from the sky, denoting something remaining or leftover. This visual representation of raindrops reduced to nothing contributed to its current meaning of "zero."
+- **examples:**
+  - 零是一种数字(零是一種數字)。
+    - líng shì yī zhǒng shùzì.
+    - Zero is a number.
+  - 他的分数是零(他的分數是零)。
+    - tā de fēnshù shì líng.
+    - His score is zero.
+  - 他的希望几乎为零(他的希望幾乎為零)，前途黯淡无光(前途黯淡無光)。
+    - tā de xīwàng jīhū wéi líng, qiántú àndàn wúguāng.
+    - His hopes are nearly zero, and his future is bleak.
+### 零下(零下) → 零(零) → 雨(雨)
+- **definition:** rain
+- **pinyin:** yǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a cloud with drops of rain falling from it ->
+    - horizontal stroke added later ->
+    - rain
+  - **interpretation:** 雨(雨) (yǔ, "rain") visually represents rain falling from a cloud, capturing its essential form.
+- **examples:**
+  - 今天雨下得很大(今天雨下得很大)。
+    - Jīntiān yǔ xià de hěn dà.
+    - It rained hard today.
+  - 他忘记带伞(他忘記帶傘)，雨却毫不留情(雨卻毫不留情)。
+    - Tā wàngjì dài sǎn, yǔ què háobù liúqíng.
+    - He forgot to bring an umbrella, and the rain showed no mercy.
+  - 细雨如丝(細雨如絲)，轻拂着花瓣(輕拂著花瓣)。
+    - Xì yǔ rú sī, qīng fú zhe huā bàn.
+    - The fine rain falls like silk, gently brushing the petals.
+### 零下(零下) → 零(零) → 令(令)
+- **definition:** command
+- **pinyin:** lìng
+- **components:**
+  - 人
+    - rén
+    - person
+  - 卩
+    - jié
+    - seal
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 人(人) (rén, "person") + 卩(卩) (jié, "seal") =
+    - person with seal ->
+    - issuing orders or commands
+  - **interpretation:** The character 令(令) (lǐng, "order") combines 人(人) (rén, "person") and 卩(卩) (jié, "seal") to depict someone with a seal or authority, signifying the power to issue orders or commands.
+- **examples:**
+  - 将军令部队保持警戒(將軍令部隊保持警戒)，士兵严格服从(士兵嚴格服從)。
+    - jiāngjūn lǐng bùduì bǎochí jǐngjiè, shìbīng yángé fúcóng.
+    - The general orders the troops to maintain vigilance, and the soldiers strictly obey.
+  - 老师令学生认真听讲(老師令學生認真聽講)。
+    - lǎoshī lǐng xuéshēng rènzhēn tīngjiǎng.
+    - The teacher orders the students to listen attentively.
+  - 国王令大臣速速筹备(國王令大臣速速籌備)，迎接远方使节(迎接遠方使節)。
+    - guówáng lǐng dàchén sùsù chóubèi, yíngjiē yuǎnfāng shǐjié.
+    - The king orders his ministers to quickly make preparations to welcome the foreign envoy.
+### 零下(零下) → 零(零) → 令(令) → 人(人)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+### 零下(零下) → 零(零) → 令(令) → 卩(卩)
+- **definition:** seal
+- **pinyin:** jié
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a kneeling person from sideview
+  - **interpretation:** The character 卩(卩) (jié, "kneeling person") is a simple pictogram showing the silhouette of a person kneeling. It is unrelated to other kneeling or similar figures in different contexts such as 欠(欠) (qiàn, "yawn") where the mouth is open, or 女(女) (nǚ, "woman") where the figure represents a female. Its form is solely based on the posture of kneeling.
+- **examples:**
+  - 那位卩正虔诚祈祷(那位卩正虔誠祈禱)。
+    - Nà wèi jié zhèng qiánchéng qídǎo.
+    - That kneeling person is praying devoutly.
+  - 礼仪师指出(禮儀師指出)，卩代表谦卑与敬意(卩代表謙卑與敬意)。
+    - Lǐyí shī zhǐchū, jié dàibiǎo qiānbēi yǔ jìngyì.
+    - The ritual master pointed out that the kneeling person represents humility and respect.
+  - 在庄严仪式中(在莊嚴儀式中)，卩象征着内心的虔敬(卩象徵著內心的虔敬)。
+    - Zài zhuāngyán yíshì zhōng, jié xiàngzhēngzhe nèixīn de qiánjìng.
+    - In the solemn ceremony, the kneeling figure symbolizes inner devotion.
+### 零下(零下) → 下(下)
+- **definition:** below; under; down
+- **pinyin:** xià
+- **components:**
+  - 一
+    - yī
+    - one
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - 一(一) (yī, "one") below horizontal line =
+    - below ->
+    - down
+  - **interpretation:** The character 下(xià, "down") visually represents something placed below another object. The simple representation of a line under a horizontal stroke symbolically conveys the concept of 'down' or 'below'.
+- **examples:**
+  - 请你下来(請你下來)。
+    - Qǐng nǐ xiàlái.
+    - Please come down.
+  - 他走下楼梯(他走下樓梯)，进入房间(進入房間)。
+    - Tā zǒu xià lóutī, jìnrù fángjiān.
+    - He walked down the stairs and entered the room.
+  - 雨下得很大(雨下得很大)，街道上满是积水(街道上滿是積水)。
+    - Yǔ xià de hěn dà, jiēdào shàng mǎn shì jīshuǐ.
+    - It rained heavily, and the streets were full of puddles.
+### 零下(零下) → 下(下) → 一(一)
+- **definition:** one
+- **pinyin:** yī
+- **etymology:**
+  - **type:** ideogram
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
+- **examples:**
+  - 我有一个苹果(我有一個蘋果)。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一条直路通向远方(一條直路通向遠方)。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+---
+## 零下(零下)
+### líng (xià)
+---
+## zero; below zero
+%%%
+## 度(度)
+---
+## degree; measure word for temperature
+### dù
+---
+- **definition:** degree; measure word for temperature
+- **pinyin:** dù
+- **components:**
+  - 石
+    - shí
+    - rock
+  - 又
+    - yòu
+    - hand
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 石(石) (shí, "rock") + 又(又) (yòu, "hand") =
+    - hand measuring rock ->
+    - 石 phonetic component for pronunciation ->
+    - 石 corrupted to 𲟁
+  - **interpretation:** The combination of a hand measuring a rock underlies the concept of measuring or gauging, leading to its meanings related to degree and limit. Over time, the rock component served as a phonetic element, though it was corrupted into another form.
+- **examples:**
+  - 他度过了愉快的一天(他度過了愉快的一天)。
+    - Tā dùguò le yúkuài de yītiān.
+    - He spent a pleasant day.
+  - 水的沸点是100度(水的沸點是100度)。
+    - Shuǐ de fèidiǎn shì yībǎi dù.
+    - The boiling point of water is 100 degrees.
+  - 这次考试的难度很高(這次考試的難度很高)。
+    - Zhè cì kǎoshì de nándù hěn gāo.
+    - This exam is very challenging.
+### 度(度) → 石(石)
+- **definition:** rock
+- **pinyin:** shí
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stone beneath a cliff, where the upper part originally looked like a cliff (厂) but was distorted into 丆 over time.
+  - **interpretation:** The character 石(shí, 'stone') visually represents a stone in a natural setting, highlighting the element of a cliff or mountain. Its visual design aims to reflect the appearance of rocks lodged or embedded in a mountainous or cliff-like setting.
+- **examples:**
+  - 他在河边发现一块石(他在河邊發現一塊石)。
+    - Tā zài hé biān fāxiàn yī kuài shí.
+    - He discovered a piece of stone by the riverside.
+  - 孩子们喜欢堆石(孩子們喜歡堆石)，玩得开心(玩得開心)。
+    - Háizimen xǐhuān duī shí, wán de kāixīn.
+    - Children like to stack stones, playing happily.
+### 度(度) → 又(又)
+- **definition:** hand
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又(又) (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+---
+## 度(度)
+### dù
+---
+## degree; measure word for temperature
+%%%
+## 北方(北方)
+---
+## north; northern region
+### běifāng
+---
+- **definition:** north; northern region
+- **pinyin:** běifāng
+- **components:**
+  - 北
+    - běi
+    - north
+  - 方
+    - fāng
+    - direction; region
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 北(北) (běi, "north") + 方(方) (fāng, "direction; region") =
+    - northern direction or region
+  - **interpretation:** The combination of 北(北) (běi, "north") and 方(方) (fāng, "direction; region") refers to the northern direction or area. This word is used to indicate the region or direction towards the north, often describing the northern parts of a country or territory.
+- **examples:**
+  - 我喜欢北方的风景(我喜歡北方的風景)。
+    - Wǒ xǐhuān běifāng de fēngjǐng.
+    - I like the scenery of the north.
+  - 冬天到来时(冬天到來時)，北方寒风刺骨(北方寒風刺骨)。
+    - Dōngtiān dàolái shí, běifāng hánfēng cìgǔ.
+    - When winter comes, the northern cold wind is piercing.
+### 北方(北方) → 北(北)
+- **definition:** north
+- **pinyin:** běi
+- **components:**
+  - 二
+    - èr
+    - two
+  - 人
+    - rén
+    - person
+  - 背
+    - bèi
+    - back
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 二(二) (èr, "two") + 人(人) (rén, "person") =
+    - two people back to back ->
+    - originally meant "back"
+  - **interpretation:** The character 北(běi) originally depicted two persons facing away from each other, signifying conflict or opposition, which metaphorically extended to refer to the direction "north" as something opposite. Over time, its meaning evolved, and its phonetic cousin 背(bèi, "back") took on the original sense directly associated with directionality and body position.
+- **examples:**
+  - 我住在北边(我住在北邊)。
+    - Wǒ zhù zài běi biān.
+    - I live in the north.
+  - 北风呼啸(北風呼嘯)，带走寒冷(帶走寒冷)。
+    - Běi fēng hūxiào, dài zǒu hán lěng.
+    - The north wind howls, carrying away the cold.
+### 北方(北方) → 北(北) → 二(二)
+- **definition:** two
+- **pinyin:** èr
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Depicts two parallel strokes ->
+    - represents the number two
+  - **interpretation:** The character 二(二) (èr, "two") consists of two horizontal lines that visually represent the concept of 'two'. This method of using parallel strokes to denote numbers is a straightforward representation of quantity, similar to how 一(一) (yī, "one") represents 'one' and 三(三) (sān, "three") represents 'three'.
+- **examples:**
+  - 我有二支笔(我有二支筆)。
+    - Wǒ yǒu èr zhī bǐ.
+    - I have two pens.
+  - 他买了二个苹果(他買了二個蘋果)，我们一起分享(我們一起分享)。
+    - Tā mǎi le èr gè píngguǒ, wǒmen yīqǐ fēnxiǎng.
+    - He bought two apples, and we shared them together.
+### 北方(北方) → 北(北) → 人(人)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+### 北方(北方) → 北(北) → 背(背)
+- **definition:** back
+- **pinyin:** bèi
+- **components:**
+  - 北
+    - běi
+    - north
+  - 月
+    - yuè
+    - meat
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 北(北) (běi, "north") + 月(月) (yuè, "meat") =
+    - phonetic 北 + semantic 肉 (originally illustrated as 月) added to distinguish "back" from "north"
+  - **interpretation:** The character 背(bèi, "back") was originally depicted by the character 北(běi, "north") alone because of their phonetic similarity. To explicitly convey the meaning related to the body, the semantic component 月(yuè, "meat"; originally styling 肉) was added, indicating the physical aspect of human anatomy.
+- **examples:**
+  - 他背着书包(他背著書包)，去学校(去學校)。
+    - Tā bèizhe shūbāo, qù xuéxiào.
+    - He carries his schoolbag on his back and goes to school.
+  - 他的背很直(他的背很直)。
+    - Tā de bèi hěn zhí.
+    - His back is very straight.
+### 北方(北方) → 北(北) → 背(背) → 月(月)
+- **definition:** meat
+- **pinyin:** yuè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a crescent moon
+  - **interpretation:** The character 月(yuè, "moon") is a pictographic representation of a crescent moon, straightforwardly capturing the curved shape often associated with the moon's appearance. Though interchangeable with 夕 (xī, "evening") in the past, it distinctly represents the moon in this usage.
+- **examples:**
+  - 夜空挂着明月(夜空掛著明月)。
+    - Yè kōng guà zhe míng yuè.
+    - The bright moon hangs in the night sky.
+  - 人们赏月(人們賞月)，寄托相思(寄託相思)。
+    - Rén men shǎng yuè, jì tuō xiāng sī.
+    - People enjoy the moon, expressing their longing.
+### 北方(北方) → 方(方)
+- **definition:** direction; region
+- **pinyin:** fāng
+- **components:**
+  - 一
+    - yī
+    - one
+  - 刀
+    - dāo
+    - sword
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 一(一) (yī, "one") + 刀(刀) (dāo, "sword") =
+    - original depiction of blade's tip ->
+    - borrowed for "side" ->
+    - now "square"
+  - **interpretation:** Initially depicting the blade of a sword, 方(方) (fāng, "square") was later borrowed for its current meaning due to its association with edges and boundaries, metaphorically expanded to define sides and squares.
+- **examples:**
+  - 这张桌子是方的(這張桌子是方的)。
+    - Zhè zhāng zhuōzi shì fāng de.
+    - This table is square.
+  - 院子里铺满了方砖(院子裡鋪滿了方磚)。
+    - Yuànzi lǐ pū mǎn le fāng zhuān.
+    - The courtyard is paved with square bricks.
+  - 我买的花瓶是方形的(我買的花瓶是方形的)，设计简洁优美(設計簡潔優美)。
+    - Wǒ mǎi de huāpíng shì fāngxíng de, shèjì jiǎnjié yōuměi.
+    - The vase I bought is square, with a simple and elegant design.
+### 北方(北方) → 方(方) → 一(一)
+- **definition:** one
+- **pinyin:** yī
+- **etymology:**
+  - **type:** ideogram
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
+- **examples:**
+  - 我有一个苹果(我有一個蘋果)。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一条直路通向远方(一條直路通向遠方)。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+### 北方(北方) → 方(方) → 刀(刀)
+- **definition:** sword
+- **pinyin:** dāo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a knife
+  - **interpretation:** 刀(刀) (dāo, "knife") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.
+- **examples:**
+  - 他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。
+    - tā yòng fēnglì de dāo, qiē kāi shūcài.
+    - He uses a sharp knife to cut vegetables.
+  - 这把刀(這把刀)非常锋利(非常鋒利)。
+    - zhè bǎ dāo fēicháng fēnglì.
+    - This knife is very sharp.
+  - 厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。
+    - chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.
+    - The chef holds the knife carefully and slices meat for the guest.
+---
+## 北方(北方)
+### běifāng
+---
+## north; northern region
+%%%
+## 春天(春天)
+---
+## spring
+### chūntiān
+---
+- **definition:** spring
+- **pinyin:** chūntiān
+- **components:**
+  - 春
+    - chūn
+    - spring
+  - 天
+    - tiān
+    - sky; day; season
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 春(春) (chūn, "spring") + 天(天) (tiān, "sky; day; season") =
+    - spring season
+  - **interpretation:** 春(春) (chūn, "spring") refers to the season of renewal, growth, and warmth following winter. 天(天) (tiān, "sky; day; season") adds the concept of a period or cycle. Together, 春天(春天) (chūntiān, "spring season") represents the time of year characterized by mild weather and the blossoming of nature, often connected to concepts of renewal and rejuvenation in cultures worldwide.
+- **examples:**
+  - 春天来了(春天來了)。
+    - chūntiān láile.
+    - Spring has arrived.
+  - 春天万物复苏(春天萬物復甦)，大地充满生机(大地充滿生機)。
+    - chūntiān wànwù fùsū, dàdì chōngmǎn shēngjī.
+    - In spring, all things revive and the earth is full of vitality.
+### 春天(春天) → 春(春)
+- **definition:** spring
+- **pinyin:** chūn
+- **components:**
+  - ⾠(艸)
+    - cǎo
+    - grass
+  - 日
+    - rì
+    - sun
+  - 屯
+    - zhūn
+    - sprout
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - ⾠(艸) (cǎo, "grass") + 日(日) (rì, "sun") + 屯(屯) (zhūn, "sprout") =
+    - sun shining on grass with sprouts ->
+    - spring
+  - **interpretation:** The character 春(春) (chūn, "spring") involves elements representing natural growth and revival: grass, sun, and sprouts together illustrate the vibrant growth occurring in springtime.
+- **examples:**
+  - 春天来了(春天來了)。
+    - Chūntiān láile.
+    - Spring has arrived.
+  - 春天来了(春天來了)，万物复苏(萬物復蘇)。
+    - Chūntiān láile, wànwù fùsū.
+    - Spring has arrived, and all things are reviving.
+  - 春光明媚(春光明媚)，人们心情愉快(人們心情愉快)。
+    - Chūnguāng míngmèi, rénmen xīnqíng yúkuài.
+    - The spring light is bright, and people feel joyful.
+### 春天(春天) → 春(春) → ⾠(草)
+- **definition:** grass
+- **pinyin:** cǎo
+- **components:**
+  - 艹
+    - cǎo
+    - grass; plant
+  - 早
+    - zǎo
+    - early
+  - 皂
+    - zào
+    - acorn
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 艹(艹) (cǎo, "grass; plant") + phonetic 早(早) (zǎo, "early") ->
+    - originally refers to 皂(皂) (zào, "acorn") ->
+    - borrowed for "grass" sense, replacing 艸(艸)
+  - **interpretation:** The character 草(cǎo, "grass") combines the semantic component 艹(艹), representing "grass," with the phonetic component 早(早) which was originally used for "acorn." The phonetic was borrowed to represent the sound for the word "grass." This process shows how the character evolved from its original meaning to its current usage.
+- **examples:**
+  - 公园里⾠生长茂盛(公園里艸生長茂盛)，孩子们在上面嬉戏(孩子們在上面嬉戲)。
+    - Gōngyuán lǐ cǎo shēngzhǎng màoshèng, háizimen zài shàngmiàn xīxì.
+    - Grass grows vigorously in the park, and children play on it.
+  - 山坡上⾠丛生(山坡上艸叢生)。
+    - Shānpō shàng cǎo cóngshēng.
+    - Grass grows densely on the hillside.
+### 春天(春天) → 春(春) → ⾠(草) → 艹(艹)
+- **definition:** grass; plant
+- **pinyin:** cǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts blades of grass
+  - **interpretation:** 艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.
+- **examples:**
+  - 他写字时用艹作草字的偏旁(他寫字時用艹作草字的偏旁)。
+    - Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.
+    - He uses '艹' as the radical for grass in his characters.
+  - 春天到来时(春天到來時)，艹生长得很快(艹生長得很快)。
+    - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
+    - When spring arrives, grass grows rapidly.
+### 春天(春天) → 春(春) → ⾠(草) → 早(早)
+- **definition:** early
+- **pinyin:** zǎo
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 甲
+    - jiǎ
+    - first
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - Early pictogram depicts an acorn ->
+    - borrowed phonetically for 'morning' ->
+    - Late bronze inscriptions: semantic 日(日) (rì, 'sun') + phonetic 棗(枣) (zǎo) ->
+    - small seal script: 日(日, 'sun') + 甲(甲, 'first') =
+    - when the sun first rises ->
+    - 'early'
+  - **interpretation:** The character evolved from depicting an acorn to incorporating the image of the sun and the concept of 'first,' symbolizing the sun's rise to indicate 'early.' It's a combination of both semantic elements and phonetic borrowing.
+- **examples:**
+  - 我今天起床很早(我今天起床很早)。
+    - Wǒ jīntiān qǐchuáng hěn zǎo.
+    - I woke up very early today.
+  - 他早到办公室(他早到辦公室)，开始了紧张的会议(開始了緊張的會議)。
+    - Tā zǎo dào bàngōngshì, kāishǐ le jǐnzhāng de huìyì.
+    - He arrived at the office early and started a busy meeting.
+  - 他喜欢早睡(他喜歡早睡)，早起的习惯让他精力充沛(早起的習慣讓他精力充沛)。
+    - Tā xǐhuān zǎo shuì, zǎo qǐ de xíguàn ràng tā jīnglì chōngpèi.
+    - He likes going to bed early, and his habit of getting up early makes him energetic.
+### 春天(春天) → 春(春) → ⾠(草) → 早(早) → 日(日)
+- **definition:** sun
+- **pinyin:** rì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the sun; a dot or line added in the center to distinguish from similar characters e.g. 囗
+  - **interpretation:** As a pictogram, 日(rì, 'sun') directly represents the sun. In ancient times, the added dot helped visually differentiate it from other characters. This is analogous to the astronomical symbol ☉ and Egyptian hieroglyph 𓇳, both depicting the sun.
+- **examples:**
+  - 晨曦来临时(晨曦來臨時)，日出东方(日出東方)。
+    - Chénxī láilín shí, rìchū dōngfāng.
+    - At the break of dawn, the sun rises in the east.
+  - 温暖的日光洒满大地(溫暖的日光灑滿大地)。
+    - Wēnnuǎn de rìguāng sǎ mǎn dàdì.
+    - The warm sunlight spreads over the earth.
+  - 中午时分(中午時分)，日高挂天(日高掛天)。
+    - Zhōngwǔ shífēn, rì gāo guà tiān.
+    - At noon, the sun hangs high in the sky.
+### 春天(春天) → 春(春) → ⾠(草) → 早(早) → 甲(甲)
+- **definition:** first
+- **pinyin:** jiǎ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the shape of a suit of armor with overlapping plates
+  - **interpretation:** The character 甲(甲) (jiǎ, 'armor') is a pictogram representing a stylized view of a suit of armor consisting of overlapping plates, suggesting protection and covering.
+- **examples:**
+  - 骑士穿戴甲(騎士穿戴甲)，保卫国家(保衛國家)。
+    - Qíshì chuāndài jiǎ, bǎowèi guójiā.
+    - The knight dons the armor, defending the country.
+  - 古代兵士依靠甲(古代兵士依靠甲)，抵御强敌(抵禦強敵)。
+    - Gǔdài bīngshì yīkào jiǎ, dǐyù qiángdí.
+    - Ancient soldiers relied on armor, repelling formidable enemies.
+### 春天(春天) → 春(春) → ⾠(草) → 皂(皂)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 皁
+    - zào
+    - acorn
+  - 早
+    - zǎo
+    - early
+- **etymology:**
+  - **type:** variant form
+  - **description:** 皂 (zào) is a variant form of 皁, which is in turn a variant form of 早 (zǎo, "early") retaining its original sense "acorn."
+  - **interpretation:** 皂 (zào) originally represented the concept of "acorn" before it was adapted to signify colors such as black. This transformation shows the fluidity of meanings as characters evolved over time.
+- **examples:**
+  - 秋风吹过树林时(秋風吹過樹林時)，地上落满了皂和落叶(地上落滿了皂和落葉)。
+    - qiū fēng chuīguò shùlín shí, dìshàng luò mǎn le zào hé luòyè.
+    - When the autumn wind blows through the forest, the ground is covered with acorns and fallen leaves.
+  - 山野中不时有皂掉落(山野中不時有皂掉落)，象征着秋天的丰收(象徵著秋天的豐收)。
+    - shānyě zhōng bùshí yǒu zào diàoluò, xiàngzhēng zhe qiūtiān de fēngshōu.
+    - In the hills and fields, acorns occasionally fall, symbolizing the abundant harvest of autumn.
+### 春天(春天) → 春(春) → ⾠(草) → 皂(皂) → 皁(皁)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 皀
+    - bǐ
+    - early form of acorn
+  - 早
+    - zǎo
+    - early
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 日(日) (rì, 'sun') + 皀(皀) (bǐ, 'early form of acorn') =
+    - acorn ->
+    - variant of 早(早) (zǎo, 'early')
+  - **interpretation:** The character 皁 is a phono-semantic compound, where 日(日) (rì, 'sun') provides the semantic element suggesting a connection to timing, and 皀(皀) (bǐ) serves as a phonetic hint, initially representing an 'acorn' due to its resemblance to early fruit development stages.
+### 春天(春天) → 春(春) → ⾠(草) → 皂(皂) → 皁(皁) → 皀(皀)
+- **definition:** early form of acorn
+- **pinyin:** bǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a bowl of rice on a stand ->
+    - part of the radical 食(食) (shí, "food")
+  - **interpretation:** The character 皀 (bǐ, "early form of acorn") visually represents a bowl of rice placed on a stand, emphasizing its association with food, potentially alluding to the shape or concept of an acorn as a food item.
+### 春天(春天) → 春(春) → 屯(屯)
+- **definition:** sprout
+- **pinyin:** zhūn
+- **components:**
+  - 屮
+    - chè
+    - sprout
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - 屮(屮) (chè, "sprout") + dot ->
+    - line modified, emphasizing sprout ->
+    - modern form 屯
+  - **interpretation:** The character 屯 originally depicted a plant sprout, represented by 屮(屮) (chè, "sprout") with a central dot that was later transformed into a horizontal line to emphasize the sprout. It symbolizes the idea of sprouting or beginning, which connects with its broader meaning of 'station,' a place where things start or are based.
+- **examples:**
+  - 军队在边境屯(軍隊在邊境屯)，准备随时出击(準備隨時出擊)。
+    - Jūnduì zài biānjìng tún, zhǔnbèi suíshí chūjī.
+    - The army is stationed at the border, ready to launch an attack at any moment.
+  - 新军屯(新軍屯)选址在交通枢纽(選址在交通樞紐)，利于快速集结(利於快速集結)。
+    - Xīn jūn tún xuǎnzhǐ zài jiāotōng shūniǔ, lì yú kuàisù jíjié.
+    - The new military station is located at a transportation hub, which facilitates rapid assembly.
+### 春天(春天) → 春(春) → 屯(屯) → 屮(屮)
+- **definition:** sprout
+- **pinyin:** chè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a sprout with three leaves extending upwards
+  - **interpretation:** The character 屮(屮) (chè, 'sprout') clearly represents a plant shoot with three leaves rising upward from the ground, embodying the essence of new growth.
+### 春天(春天) → 天(天)
+- **definition:** sky; day; season
+- **pinyin:** tiān
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
+---
+## 春天(春天)
+### chūntiān
+---
+## spring
+%%%
+## 帮忙(幫忙)
+---
+## to help; to give assistance
+### bāngmáng
+---
+- **definition:** to help; to give assistance
+- **pinyin:** bāngmáng
+- **components:**
+  - 幫
+    - bāng
+    - help; assist
+  - 忙
+    - máng
+    - busy; hurry; be busy with
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 幫(幫) (bāng, "help") + 忙(忙) (máng, "busy") =
+    - to help; to give assistance
+  - **interpretation:** The word 幫忙(幫忙) (bāngmáng, "to help; to give assistance") combines 幫(幫) (bāng, "help") and 忙(忙) (máng, "busy"). The term suggests the act of assisting someone who is busy, thus providing them with relief or support.
+- **examples:**
+  - 请你帮忙(請你幫忙)。
+    - Qǐng nǐ bāngmáng.
+    - Please help.
+  - 我正在忙碌(我正在忙碌)，无法帮忙(無法幫忙)。
+    - Wǒ zhèngzài mánglù, wúfǎ bāngmáng.
+    - I am busy and cannot help.
+  - 小明常常帮忙(小明常常幫忙)，他很受大家喜欢(他很受大家喜歡)。
+    - Xiǎomíng chángcháng bāngmáng, tā hěn shòu dàjiā xǐhuān.
+    - Xiaoming often helps and is liked by everyone.
+### 帮忙(幫忙) → 幫(幫)
+- **definition:** help; assist
+- **pinyin:** bāng
+- **components:**
+  - 封
+    - fēng
+    - to seal
+  - 帛
+    - bó
+    - silk
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 封 (phonetic) + 帛 (semantic, 'silk') ->
+    - originally referring to the upper part of a shoe (鞋幫, 'shoe upper')
+  - **interpretation:** The character 幫(bāng, "help") originally referred to the upper part of a shoe, indicating an early connection to crafting or constructing with fabric (silk). Over time, it extended to represent 'help' or 'assist,' possibly implying the act of supporting or holding together, analogous to how the upper shoe supports the foot.
+  - **simplification:** 帮(幫): 干(干) (gān, 'dry') replaced 帛(帛) (bó, 'silk') for phonetic simplification.
+- **examples:**
+  - 我帮你做作业(我幫你做作業)。
+    - Wǒ bāng nǐ zuò zuòyè.
+    - I help you do homework.
+  - 老师帮学生解答问题(老師幫學生解答問題)。
+    - Lǎoshī bāng xuéshēng jiědá wèntí.
+    - The teacher helps the students answer questions.
+  - 他会帮朋友(他會幫朋友)，解决困难(解決困難)。
+    - Tā huì bāng péngyǒu, jiějué kùnnán.
+    - He will help his friends solve difficulties.
+### 帮忙(幫忙) → 幫(幫) → 封(封)
+- **definition:** to seal
+- **pinyin:** fēng
+- **components:**
+  - 土
+    - tǔ
+    - earth
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 土(土) (tǔ, "earth") + phonetic: 封(封) (fēng) =
+    - covering with earth to close ->
+    - seal; close
+  - **interpretation:** The character 封(封) (fēng) combines the semantic component 土(土) (tǔ, "earth"), suggesting covering or enclosing something, with a phonetic component to convey the sound. It evokes the idea of sealing or closing something, like covering with earth.
+- **examples:**
+  - 他封了信(他封了信)。
+    - Tā fēng le xìn.
+    - He sealed the letter.
+  - 收到信后(收到信後)，他们封好包裹(他們封好包裹)。
+    - Shōu dào xìn hòu, tāmen fēng hǎo bāoguǒ.
+    - After receiving the letter, they sealed the package.
+### 帮忙(幫忙) → 幫(幫) → 封(封) → 土(土)
+- **definition:** earth
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛)
+- **definition:** silk
+- **pinyin:** bó
+- **components:**
+  - 白
+    - bái
+    - white
+  - 巾
+    - jīn
+    - cloth
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 白(白) (bái, "white") + 巾(巾) (jīn, "cloth") =
+    - phonetic 白 and semantic 巾 ->
+    - "silk"
+  - **interpretation:** The character combines 白(白) (bái, "white") for its phonetic value and 巾(巾) (jīn, "cloth") for its semantic connection to textiles, resulting in the meaning of "silk," a type of cloth that often appears white.
+- **examples:**
+  - 古代贵族珍藏帛(古代貴族珍藏帛)，作为礼品赠予友人(作為禮品贈予友人)。
+    - Gǔdài guìzú zhēncáng bó, zuòwéi lǐpǐn zèngyǔ yǒurén.
+    - Ancient nobles treasured silk and presented it as gifts to friends.
+  - 他用精緻的帛(他用精緻的帛)，制成了华丽衣衫(製成了華麗衣衫)。
+    - Tā yòng jīngzhì de bó, zhìchéngle huálì yīshān.
+    - He used fine silk to make a gorgeous garment.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白)
+- **definition:** white
+- **pinyin:** bái
+- **components:**
+  - 樂(乐)
+    - yuè
+    - oak
+  - 皂
+    - zào
+    - acorn
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts an acorn ->
+    - used in 樂/乐 (oak) and 皂 (acorn) ->
+    - meaning “white” derived from acorn's inside color
+  - **interpretation:** The character 白(bái, "white") might originally depict an acorn, reflecting its usage in words related to oak and acorn, and the meaning of 'white' comes from the color of an acorn's interior. This interpretation connects the form with its current meaning of 'white.'
+- **examples:**
+  - 村后那处被称作‘白’的泉口(村後那處被稱作‘白’的泉口)，源源不断流出甘甜的泉水(源源不斷流出甘甜的泉水)。
+    - Cūn hòu nà chù bèi chēng zuò ‘Bái’ de quán kǒu, yuán yuán bù duàn liú chū gān tián de quán shuǐ.
+    - The spring mouth behind the village, known as ‘Bái’, continuously gushes out sweet water.
+  - 古镇传说(古鎮傳說)，每逢春日便有白现身(每逢春日便有白現身)，润泽山村(潤澤山村)。
+    - Gǔ zhèn chuán shuō, měi féng chūn rì biàn yǒu Bái xiàn shēn, rùn zé shān cūn.
+    - According to the legend of the ancient town, every spring a ‘Bái’ appears, nourishing the mountain village.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 樂(樂)
+- **definition:** oak
+- **pinyin:** yuè
+- **components:**
+  - 糸
+    - mì
+    - string
+  - 木
+    - mù
+    - wood
+  - 白
+    - bái
+    - white
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 糸(糸) (mì, "string") + 木(木) (mù, "wood") =
+    - strings on a piece of wood ->
+    - wooden musical instrument
+  - **interpretation:** The character 樂(樂) (lè, "music") originally represents strings attached to a wooden frame, depicting a musical instrument. The addition of 白(白) (bái) in bronze inscriptions likely represents either the thumb in playing motion or serves as a phonetic component. Over time, it became associated with music and by extension, happiness.
+- **examples:**
+  - 我喜歡聽樂(我喜歡聽樂)。
+    - Wǒ xǐhuān tīng lè.
+    - I like listening to music.
+  - 他在音樂會上欣賞樂(他在音樂會上欣賞樂)，感受文化魅力(感受文化魅力)。
+    - Tā zài yīnyuèhuì shàng xīnshǎng lè, gǎnshòu wénhuà mèilì.
+    - He appreciates music at the concert and experiences the charm of culture.
+  - 書房中傳來樂(書房中傳來樂)，令人心情愉悅(令人心情愉悅)。
+    - Shūfáng zhōng chuán lái lè, lìngrén xīnqíng yúyuè.
+    - Music comes from the study, making people feel delighted.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 樂(樂) → 糸(糸)
+- **definition:** string
+- **pinyin:** mì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
+- **examples:**
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 樂(樂) → 木(木)
+- **definition:** wood
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 皂(皂)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 皁
+    - zào
+    - acorn
+  - 早
+    - zǎo
+    - early
+- **etymology:**
+  - **type:** variant form
+  - **description:** 皂 (zào) is a variant form of 皁, which is in turn a variant form of 早 (zǎo, "early") retaining its original sense "acorn."
+  - **interpretation:** 皂 (zào) originally represented the concept of "acorn" before it was adapted to signify colors such as black. This transformation shows the fluidity of meanings as characters evolved over time.
+- **examples:**
+  - 秋风吹过树林时(秋風吹過樹林時)，地上落满了皂和落叶(地上落滿了皂和落葉)。
+    - qiū fēng chuīguò shùlín shí, dìshàng luò mǎn le zào hé luòyè.
+    - When the autumn wind blows through the forest, the ground is covered with acorns and fallen leaves.
+  - 山野中不时有皂掉落(山野中不時有皂掉落)，象征着秋天的丰收(象徵著秋天的豐收)。
+    - shānyě zhōng bùshí yǒu zào diàoluò, xiàngzhēng zhe qiūtiān de fēngshōu.
+    - In the hills and fields, acorns occasionally fall, symbolizing the abundant harvest of autumn.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 皂(皂) → 皁(皁)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 皂
+    - zào
+    - soap
+  - 早
+    - zǎo
+    - morning
+- **etymology:**
+  - **type:** variant traditional form
+  - **description:**
+    - 皁 ->
+    - variant of 皂 ->
+    - variant of 早 (zǎo, "morning") ->
+    - retains original sense "acorn"
+  - **interpretation:** The character 皁 is a traditional variant form of 皂, with its meaning aligned to the older sense of the character 早 related to 'acorn.' This form retains historical significance by maintaining its original sense while serving as a variant form.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 白(白) → 皂(皂) → 早(早)
+- **definition:** early
+- **pinyin:** zǎo
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 甲
+    - jiǎ
+    - first
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - Early pictogram depicts an acorn ->
+    - borrowed phonetically for 'morning' ->
+    - Late bronze inscriptions: semantic 日(日) (rì, 'sun') + phonetic 棗(枣) (zǎo) ->
+    - small seal script: 日(日, 'sun') + 甲(甲, 'first') =
+    - when the sun first rises ->
+    - 'early'
+  - **interpretation:** The character evolved from depicting an acorn to incorporating the image of the sun and the concept of 'first,' symbolizing the sun's rise to indicate 'early.' It's a combination of both semantic elements and phonetic borrowing.
+- **examples:**
+  - 我今天起床很早(我今天起床很早)。
+    - Wǒ jīntiān qǐchuáng hěn zǎo.
+    - I woke up very early today.
+  - 他早到办公室(他早到辦公室)，开始了紧张的会议(開始了緊張的會議)。
+    - Tā zǎo dào bàngōngshì, kāishǐ le jǐnzhāng de huìyì.
+    - He arrived at the office early and started a busy meeting.
+  - 他喜欢早睡(他喜歡早睡)，早起的习惯让他精力充沛(早起的習慣讓他精力充沛)。
+    - Tā xǐhuān zǎo shuì, zǎo qǐ de xíguàn ràng tā jīnglì chōngpèi.
+    - He likes going to bed early, and his habit of getting up early makes him energetic.
+### 帮忙(幫忙) → 幫(幫) → 帛(帛) → 巾(巾)
+- **definition:** cloth
+- **pinyin:** jīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a piece of cloth with two ends hanging down
+  - **interpretation:** The character 巾(jīn, "cloth") visually represents a cloth or towel, with its depiction emphasizing the idea of a piece of fabric and its functionality.
+- **examples:**
+  - 爸爸用干净的巾擦手(爸爸用乾淨的巾擦手)。
+    - Bàba yòng gānjìng de jīn cā shǒu.
+    - Dad uses a clean cloth to wipe his hands.
+  - 她拿着一条巾(她拿著一條巾)，轻轻擦拭眼角(輕輕擦拭眼角)。
+    - Tā názhe yì tiáo jīn, qīngqīng cā shì yǎnjiǎo.
+    - She holds a cloth and gently wipes the corners of her eyes.
+  - 老人用巾给手上包扎伤口(老人用巾給手上包扎傷口)。
+    - Lǎorén yòng jīn gěi shǒu shàng bāozā shāngkǒu.
+    - The elderly person uses a cloth to bandage the wound on his hand.
+### 帮忙(幫忙) → 忙(忙)
+- **definition:** busy; hurry; be busy with
+- **pinyin:** máng
+- **components:**
+  - 心
+    - xīn
+    - heart
+  - 亡
+    - wáng
+    - perish
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 心(心) (xīn, "heart") + phonetic: 亡(亡) (wáng, "perish") =
+    - heart in turmoil ->
+    - busy
+  - **interpretation:** 忙(忙) (máng, "busy") combines 心(心) (xīn, "heart") for the emotional aspect with 亡(亡) (wáng, "perish") which lends its sound, capturing the sense of a heart overwhelmed with activities.
+- **examples:**
+  - 我今天很忙(我今天很忙)。
+    - Wǒ jīntiān hěn máng.
+    - I am very busy today.
+  - 他虽然很忙(他雖然很忙)，仍然抽时间学习(仍然抽時間學習)。
+    - Tā suīrán hěn máng, réngrán chōu shíjiān xuéxí.
+    - Although he is busy, he still finds time to study.
+  - 忙于工作的人(忙於工作的人)，总是忘记休息(總是忘記休息)。
+    - Máng yú gōngzuò de rén, zǒng shì wàngjì xiūxí.
+    - People who are busy at work always forget to rest.
+### 帮忙(幫忙) → 忙(忙) → 心(心)
+- **definition:** heart
+- **pinyin:** xīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stylized representation of a heart
+  - **interpretation:** The character 心(xīn, 'heart') visually represents the shape of a heart, emphasizing its central and essential role in both a physical and metaphorical sense.
+- **examples:**
+  - 他的心温暖无比(他的心溫暖無比)。
+    - Tā de xīn wēnnuǎn wúbǐ.
+    - His heart is incredibly warm.
+  - 她把心放在艺术上(她把心放在藝術上)，追求完美(追求完美)。
+    - Tā bǎ xīn fàng zài yìshù shàng, zhuīqiú wánměi.
+    - She dedicates her heart to art, pursuing perfection.
+  - 音乐直击心灵(音樂直擊心靈)。
+    - Yīnyuè zhí jī xīnlíng.
+    - Music strikes straight at the heart (soul).
+### 帮忙(幫忙) → 忙(忙) → 亡(亡)
+- **definition:** perish
+- **pinyin:** wáng
+- **components:**
+  - 刀
+    - dāo
+    - knife
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Line on 刀(刀) (dāo, "knife") indicates cutting edge ->
+    - disappearance of knowledge ->
+    - perish
+  - **interpretation:** The character 亡(wáng) visually represents the sharp, cutting edge of a knife, which metaphorically implies the loss of life or things 'perishing'. Over time, it came to signify broader concepts of disappearance and extinction.
+- **examples:**
+  - 国破(國破)，家亡(家亡)。
+    - Guó pò, jiā wáng.
+    - The country is broken, the family perishes.
+  - 经过激战时(經過激戰時)，士兵亡(士兵亡)。
+    - Jīngguò jīzhàn shí, shìbīng wáng.
+    - During the intense battle, the soldiers perished.
+### 帮忙(幫忙) → 忙(忙) → 亡(亡) → 刀(刀)
+- **definition:** knife
+- **pinyin:** dāo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a knife
+  - **interpretation:** 刀(刀) (dāo, "knife") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.
+- **examples:**
+  - 他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。
+    - tā yòng fēnglì de dāo, qiē kāi shūcài.
+    - He uses a sharp knife to cut vegetables.
+  - 这把刀(這把刀)非常锋利(非常鋒利)。
+    - zhè bǎ dāo fēicháng fēnglì.
+    - This knife is very sharp.
+  - 厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。
+    - chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.
+    - The chef holds the knife carefully and slices meat for the guest.
+---
+## 帮忙(幫忙)
+### bāngmáng
+---
+## to help; to give assistance
+%%%
+## 帮(幫)
+---
+## to help; to assist
+### bāng
+---
+- **definition:** to help; to assist
+- **pinyin:** bāng
+- **components:**
+  - 巾
+    - jīn
+    - cloth
+  - 邦
+    - bāng
+    - country
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 巾(巾) (jīn, "cloth") + phonetic: 邦(邦) (bāng, "country") =
+    - assisting with cloth or materials ->
+    - to help
+  - **interpretation:** The character 幫 combines the meaning of 巾(巾) (jīn, "cloth") with the phonetic element 邦(邦) (bāng, "country"), symbolizing assistance or help with physical materials like cloth. This reflects the role of providing tangible support.
+  - **simplification:** In the simplified form 帮, 巾(巾) (jīn, "cloth") is retained while 邦(邦) (bāng, "country") is kept intact from the traditional representation, aligning with historical simplification practices from 1956.
+- **examples:**
+  - 我来帮你(我來幫你)。
+    - Wǒ lái bāng nǐ.
+    - I will help you.
+  - 他帮老师(他幫老師)，辅导学生(輔導學生)。
+    - Tā bāng lǎoshī, fǔdǎo xuésheng.
+    - He helps the teacher, tutoring the students.
+  - 遇到困难时(遇到困難時)，朋友会帮忙(朋友會幫忙)。
+    - Yùdào kùnnán shí, péngyǒu huì bāngmáng.
+    - When encountering difficulties, friends will help.
+### 帮(幫) → 巾(巾)
+- **definition:** cloth
+- **pinyin:** jīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a piece of cloth with two ends hanging down
+  - **interpretation:** The character 巾(jīn, "cloth") visually represents a cloth or towel, with its depiction emphasizing the idea of a piece of fabric and its functionality.
+- **examples:**
+  - 爸爸用干净的巾擦手(爸爸用乾淨的巾擦手)。
+    - Bàba yòng gānjìng de jīn cā shǒu.
+    - Dad uses a clean cloth to wipe his hands.
+  - 她拿着一条巾(她拿著一條巾)，轻轻擦拭眼角(輕輕擦拭眼角)。
+    - Tā názhe yì tiáo jīn, qīngqīng cā shì yǎnjiǎo.
+    - She holds a cloth and gently wipes the corners of her eyes.
+  - 老人用巾给手上包扎伤口(老人用巾給手上包扎傷口)。
+    - Lǎorén yòng jīn gěi shǒu shàng bāozā shāngkǒu.
+    - The elderly person uses a cloth to bandage the wound on his hand.
+### 帮(幫) → 邦(邦)
+- **definition:** country
+- **pinyin:** bāng
+- **components:**
+  - 丰
+    - fēng
+    - abundant
+  - 阝
+    - fù
+    - earthen mound
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 丰(丰) (fēng, "abundant") + Semantic: 阝(阝) (fù, "earthen mound") =
+    - representation of an earthen mound + abundant resources ->
+    - nation
+  - **interpretation:** The character 邦(bāng, "nation") combines the idea of wealth or resources suggested by 丰(丰) with the earthen boundary suggested by 阝(阝), symbolizing a defined area with resources, which is the concept of a nation.
+- **examples:**
+  - 历史塑造了这个邦(歷史塑造了這個邦)，使之繁荣昌盛(使之繁榮昌盛)。
+    - Lìshǐ sùzào le zhège bāng, shǐ zhī fánróng chāngshèng。
+    - History shaped this nation, making it prosperous.
+  - 一个善良的邦能让人民安居乐业(一個善良的邦能讓人民安居樂業)。
+    - Yīgè shànliáng de bāng néng ràng rénmín ānjū lèyè。
+    - A good nation enables its people to live in peace and prosperity.
+### 帮(幫) → 邦(邦) → 丰(豐)
+- **definition:** abundant
+- **pinyin:** fēng
+- **components:**
+  - 土
+    - tǔ
+    - ground
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a luxuriant plant growing on the ground (土) ->
+    - modern version simplified, missing bottom stroke ->
+    - similar to top component of 豐(豐) (fēng, 'abundant') and 奉(奉) (fèng, 'offer')
+  - **interpretation:** The character 丰(豐) (fēng, 'abundant') originated as a pictogram depicting a plant thriving on the ground, symbolizing abundance. Over time, the detailed strokes representing the soil and growth were removed, simplifying the character.
+- **examples:**
+  - 今年的收成很丰(豐)。
+    - Jīnnián de shōuchéng hěn fēng.
+    - This year's harvest is very abundant.
+  - 田里的庄稼长得十分丰(豐)，农民们笑逐颜开(農民們笑逐顏開)。
+    - Tiánlǐ de zhuāngjià zhǎng de shífēn fēng, nóngmínmen xiào zhú yánkāi.
+    - The crops in the field grew very abundantly, and the farmers beamed with joy.
+  - 菜园里的番茄结得丰硕(豐碩)，老爷爷摘得满满当当(老爺爺摘得滿滿當當)。
+    - Càiyuán lǐ de fānqié jié de fēngshuò, lǎo yéyé zhāi de mǎnmǎndāngdāng.
+    - The tomatoes in the vegetable garden bore abundant fruit, and the old man picked them in plenty.
+### 帮(幫) → 邦(邦) → 丰(豐) → 土(土)
+- **definition:** ground
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 帮(幫) → 邦(邦) → 阝(阝)
+- **definition:** earthen mound
+- **pinyin:** fù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a small mound or hillock.
+  - **interpretation:** The character 阝(阝) (fù, 'mound') visually represents a small elevation of land, resembling a hillside or embankment.
+- **examples:**
+  - 小山顶上耸立着阝(小山頂上聳立著阜)。
+    - Xiǎo shāndǐng shàng sǒnglì zhe fù.
+    - A small mound stands atop the hill.
+  - 山坡上长满了绿色的草丛(山坡上長滿了綠色的草叢)，山丘边坐落着一座古老的阝(山丘邊坐落著一座古老的阜)。
+    - Shānpō shàng cháng mǎn le lǜsè de cǎocóng, shānqiū biān zuòluò zhe yī zuò gǔlǎo de fù.
+    - The hillside is covered with green grass, and an ancient mound sits by the hill.
+  - 远处沙丘边隐约可见一堆阝(遠處沙丘邊隱約可見一堆阜)，仿佛历史的见证(彷彿歷史的見證)。
+    - Yuǎnchù shāqiū biān yǐnyuē kějiàn yī duī fù, fǎngfú lìshǐ de jiànzhèng.
+    - In the distance, a pile of mounds is barely visible by the sand dunes, as if witnessing history.
+---
+## 帮(幫)
+### bāng
+---
+## to help; to assist
+%%%
+## 站(站)
+---
+## to stand
+### zhàn
+---
+- **definition:** to stand
+- **pinyin:** zhàn
+- **components:**
+  - 立
+    - lì
+    - stand
+  - 占
+    - zhān
+    - divine
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 立(立) (lì, "stand") + 占(占) (zhān, "divine") =
+    - semantic 'stand' + phonetic 'divine' ->
+    - to stand
+  - **interpretation:** The character 站(站) (zhàn, "to stand") is a phono-semantic compound where 立(立) (lì, "stand") provides the semantic element, indicating the meaning related to standing, and 占(占) (zhān, "divine") supplies the phonetic component. This character is relatively recent and not found in early references like the Shuowen Jiezi but appears later, such as in the Guangyun.
+- **examples:**
+  - 他站在门口(他站在門口)。
+    - Tā zhàn zài ménkǒu.
+    - He stands at the door.
+  - 他站得非常稳(他站得非常穩)，不受风的影响(不受風的影響)。
+    - Tā zhàn de fēicháng wěn, bù shòu fēng de yǐngxiǎng.
+    - He stands very steadily, unaffected by the wind.
+### 站(站) → 立(立)
+- **definition:** stand
+- **pinyin:** lì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a person standing on the ground
+  - **interpretation:** The character 立(立) (lì, 'stand') intuitively represents the concept of standing by depicting a person in an upright position, emphasizing the posture.
+- **examples:**
+  - 小王立在窗前(小王立在窗前)，等待朋友到来(等待朋友到來)。
+    - Xiǎo Wáng lì zài chuāng qián, děngdài péngyǒu dàolái.
+    - Xiao Wang stands at the window, waiting for his friend to arrive.
+  - 园中雕像静立于石台上(園中雕像靜立於石臺上)。
+    - Yuán zhōng diāoxiàng jìng lì yú shí tái shàng.
+    - The statue in the garden stands quietly on the stone platform.
+  - 士兵集合后(士兵集合後)，整齐地立定阵型(整齊地立定陣型)。
+    - Shìbīng jíhé hòu, zhěngqí de lì dìng zhènxíng.
+    - After the soldiers assemble, they stand in formation neatly.
+### 站(站) → 占(占)
+- **definition:** divine
+- **pinyin:** zhān
+- **components:**
+  - 卜
+    - bǔ
+    - divination
+  - 口
+    - kǒu
+    - mouth
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 卜(卜) (bǔ, "divination") + 口(口) (kǒu, "mouth") =
+    - speaking about divination ->
+    - divination
+  - **interpretation:** The character 占(占) (zhān, "divination") represents the act of divination, combining the symbol for divination itself with the mouth, which may imply speaking or chanting during the divinatory practice.
+- **examples:**
+  - 古人借占(古人借占)，测定吉凶(測定吉凶)。
+    - Gǔ rén jiè zhān, cè dìng jí xiōng.
+    - Ancient people used divination to determine auspiciousness and inauspiciousness.
+  - 他占了一卦(他占了一卦)。
+    - Tā zhānle yī guà.
+    - He performed a divination.
+  - 他运用占(他運用占)，预测未来(預測未來)。
+    - Tā yùnyòng zhān, yùcè wèilái.
+    - He relied on divination to predict the future.
+### 站(站) → 占(占) → 卜(卜)
+- **definition:** divination
+- **pinyin:** bǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a divination crack in a tortoise shell or bone
+  - **interpretation:** The character 卜(bǔ, "divination") represents the practice of divination used in ancient China, often involving the interpretation of cracks in tortoise shells or bones.
+- **examples:**
+  - 占卜是一种神秘的艺术(占卜是一種神秘的藝術)。
+    - Zhānbǔ shì yī zhǒng shénmì de yìshù.
+    - Divination is a mysterious art.
+  - 他通过卜算未来(他通過卜算未來)，探寻隐秘的命运(探尋隱秘的命運)。
+    - Tā tōngguò bǔsuàn wèilái, tànxún yǐnmì de mìngyùn.
+    - He uses divination to predict the future, seeking out his hidden destiny.
+  - 古代人常以卜问吉凶(古代人常以卜問吉凶)，以求平安和顺(以求平安和順)。
+    - Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.
+    - Ancient people often practiced divination to determine fortune, in order to pursue peace and order.
+### 站(站) → 占(占) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+---
+## 站(站)
+### zhàn
+---
+## to stand
+%%%
+## 起(起)
+---
+## to rise; to get up
+### qǐ
+---
+- **definition:** to rise; to get up
+- **pinyin:** qǐ
+- **components:**
+  - 走
+    - zǒu
+    - walk
+  - 巳
+    - sì
+    - sixth terrestrial branch
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 走(走) (zǒu, "walk") + phonetic: 巳(巳) (sì, "sixth terrestrial branch") =
+    - implying movement or ascent ->
+    - rise, begin
+  - **interpretation:** The character 起(起) (qǐ, "rise") combines 走(走) (zǒu, "walk"), indicating motion or activity, with 巳(巳) (sì, "sixth terrestrial branch"), contributing the phonetic element. This combination intuitively represents the concept of rising or beginning.
+- **examples:**
+  - 我早上起床(我早上起床)。
+    - Wǒ zǎoshang qǐ chuáng.
+    - I get up in the morning.
+  - 太阳升起时(太陽升起時)，世界变得明亮(世界變得明亮)。
+    - Tàiyáng shēng qǐ shí, shìjiè biàn dé míngliàng.
+    - When the sun rises, the world becomes bright.
+  - 他鼓起勇气(他鼓起勇氣)，面对挑战(面對挑戰)。
+    - Tā gǔ qǐ yǒngqì, miànduì tiǎozhàn.
+    - He mustered his courage to face the challenges.
+### 起(起) → 走(走)
+- **definition:** walk
+- **pinyin:** zǒu
+- **components:**
+  - 止
+    - zhǐ
+    - foot
+  - 夭
+    - yāo
+    - young
+  - 土
+    - tǔ
+    - earth
+  - 龰
+    - yuè
+    - walking
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Running man (original depiction) + 止(止) (zhǐ, "foot") added later ->
+    - top 夭(夭) (yāo, "young") simplified to 土(土) (tǔ, "earth"), bottom stylized as 龰 ->
+    - modern 走
+  - **interpretation:** The character originally depicted a man running, with an added foot to emphasize movement. Over time, elements like the top 夭(夭) were simplified to 土(土), and the bottom was stylized to 龰, although they are unrelated to the original meaning.
+- **examples:**
+  - 看到前方火光时(看到前方火光時)，他急忙走向安全地带(他急忙走向安全地帶)。
+    - Kàndào qiánfāng huǒguāng shí, tā jímáng zǒu xiàng ānquán dìdài.
+    - When he saw the firelight ahead, he hurriedly ran toward safety.
+  - 比赛开始后(比賽開始後)，选手们奋力走向终点(選手們奮力走向終點)。
+    - Bǐsài kāishǐ hòu, xuǎnshǒu men fènlì zǒu xiàng zhōngdiǎn.
+    - After the race began, the contestants ran towards the finish line.
+### 起(起) → 走(走) → 止(止)
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 趾
+    - zhǐ
+    - foot
+  - 龰
+    - yù
+    - stylized feet
+  - 手
+    - shǒu
+    - hand
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Original: Foot pointing up with 3 toes and a sole ->
+    - Stylized as 龰 ->
+    - Derivative 趾 refers to original 'foot' meaning
+  - **interpretation:** Originally depicting a footprint with toes and a sole, 止(止) (zhǐ, "foot") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.
+- **examples:**
+  - 他受伤的止需要静养(他受傷的止需要靜養)。
+    - Tā shòu shāng de zhǐ xū yào jìng yǎng.
+    - His injured foot needs adequate rest.
+  - 他走路时小心谨慎(他走路時小心謹慎)，因为止若受伤便难前行(因爲止若受傷便難前行)。
+    - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
+    - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
+### 起(起) → 走(走) → 止(止) → 趾(趾)
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 足
+    - zú
+    - foot
+  - 止
+    - zhǐ
+    - stop
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 足(足) (zú, "foot") + 止(止) (zhǐ, "stop") =
+    - semantic: foot + phonetic: stop ->
+    - toe
+  - **interpretation:** The character combines 足(足) (zú, "foot") as the semantic indicator and 止(止) (zhǐ, "stop") as the phonetic component to represent the idea of a 'toe,' which is a part of the foot.
+- **examples:**
+  - 他的趾因寒冷而僵硬了(他的趾因寒冷而僵硬了)。
+    - tā de zhǐ yīn hánlěng ér jiāngyìng le.
+    - His toe became stiff due to the cold.
+  - 我走路时(我走路時)，不小心扭到了趾(不小心扭到了趾)。
+    - wǒ zǒulù shí, bù xiǎoxīn niǔ dào le zhǐ.
+    - While I was walking, I accidentally twisted my toe.
+  - 古代剑客战斗时(古代劍客戰鬥時)，常因疏忽伤及趾(常因疏忽傷及趾)。
+    - gǔdài jiànkè zhàndòu shí, cháng yīn shūhū shāng jí zhǐ.
+    - Ancient swordsmen often injured their toes due to carelessness during battles.
+### 起(起) → 走(走) → 止(止) → 趾(趾) → 足(足)
+- **definition:** foot
+- **pinyin:** zú
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a leg ->
+    - originally depicted as ⽦ ->
+    - represents 'foot'
+  - **interpretation:** The character 足(zú, 'foot') is a pictographic representation of a human leg, which directly portrays the concept of a 'foot'. The pictographic origin emphasizes its fundamental meaning in the language.
+- **examples:**
+  - 他受伤后(他受傷後)，他的足不能动(他的足不能動)。
+    - tā shòushāng hòu, tā de zú bù néng dòng。
+    - After he was injured, his foot couldn't move.
+  - 小明打球时(小明打球時)，不小心扭伤了足(不小心扭傷了足)。
+    - xiǎo míng dǎ qiú shí, bù xiǎoxīn niǔ shāng le zú。
+    - When Xiaoming was playing ball, he accidentally twisted his foot.
+  - 我每天锻炼足部(我每天鍛鍊足部)。
+    - wǒ měitiān duànliàn zúbù。
+    - I exercise my foot muscles every day.
+### 起(起) → 走(走) → 止(止) → 龰(龰)
+- **definition:** stylized feet
+- **pinyin:** yù
+- **components:**
+  - 趾
+    - zhǐ
+    - toe
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a stylized footprint pointing up, originally meaning "foot," stylized as 龰 ->
+    - derivative 趾 (zhǐ, "toe")
+  - **interpretation:** The character 龰 represents a pictogram of a footprint pointing upwards, originally used to denote the foot. It became stylized over time, and its original meaning of 'toe' was preserved in the derivative character 趾(趾) (zhǐ, "toe").
+### 起(起) → 走(走) → 止(止) → 手(手)
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手(手) (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他用手写字(他用手寫字)。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈妈牵着我的手走路(媽媽牽著我的手走路)。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
+### 起(起) → 走(走) → 夭(夭)
+- **definition:** young
+- **pinyin:** yāo
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Depicts a figure leaning forward, presumably running ->
+    - energetic, young
+  - **interpretation:** The character 夭(yāo) ("young") visually represents someone leaning forward in a motion that suggests energy and vitality associated with youthfulness. This imagery aligns with the concept of being lively or young.
+- **examples:**
+  - 他还夭(夭)，意气风发(意氣風發)。
+    - Tā hái yāo, yìqì fēngfā。
+    - He is still young, full of youthful vigor.
+  - 小女孩还夭(夭)，充满无限活力(充滿無限活力)。
+    - Xiǎo nǚhái hái yāo, chōngmǎn wúxiàn huólì。
+    - The little girl is still young, filled with boundless energy.
+### 起(起) → 走(走) → 土(土)
+- **definition:** earth
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 起(起) → 巳(巳)
+- **definition:** sixth terrestrial branch
+- **pinyin:** sì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a fetus or snake.
+  - **interpretation:** The character 巳(sì, "fetus") likely represents the shape of a fetus curled in the womb or possibly the sinuous form of a snake. This ambiguity is due to its pictographic origin, imitating the curves and forms seen in nature.
+- **examples:**
+  - 那小小的巳(那小小的巳)在温暖的子宫中悄然成长(在溫暖的子宮中悄然成長)。
+    - Nà xiǎoxiǎo de sì zài wēnnuǎn de zǐgōng zhōng qiǎorán chéngzhǎng.
+    - The tiny fetus is growing quietly in the warm womb.
+  - 医生发现巳异常(醫生發現巳異常)，提醒家长早期注意(提醒家長早期注意)。
+    - Yīshēng fāxiàn sì yìcháng, tíxǐng jiāzhǎng zǎoqī zhùyì.
+    - The doctor found an abnormality in the fetus and urged the parents to pay early attention.
+  - 母亲感受到巳微弱的心跳(母親感受到巳微弱的心跳)伴随着温柔的希望(伴隨著溫柔的希望)。
+    - Mǔqīn gǎnshòudào sì wēiruò de xīntiào bànsuízhe wēnróu de xīwàng.
+    - The mother felt the fetus's faint heartbeat accompanied by a gentle hope.
+---
+## 起(起)
+### qǐ
+---
+## to rise; to get up
+%%%
+## 广州(廣州)
+---
+## Guangzhou
+### Guǎngzhōu
+---
+- **definition:** Guangzhou
+- **pinyin:** Guǎngzhōu
+- **components:**
+  - 广(廣)
+    - guǎng
+    - broad
+  - 州
+    - zhōu
+    - state; region
+- **etymology:**
+  - **type:** compound word
+  - **description:** 廣(廣) (guǎng, "broad") refers to the vastness or expansiveness, while 州(州) (zhōu, "state; region") is a term used historically for an administrative division or region.
+  - **interpretation:** 廣州(廣州) (Guǎngzhōu, "Guangzhou") is named for its historical significance as a broad and expansive region within China. It reflects its status as a major and influential administrative area.
+- **examples:**
+  - 我打算明年去广州(廣州)，体验当地文化(體驗當地文化)。
+    - Wǒ dǎsuàn míngnián qù Guǎngzhōu, tǐyàn dāngdì wénhuà.
+    - I plan to go to Guangzhou next year to experience the local culture.
+  - 广州是中国的南方大都市(廣州是中國的南方大都市)。
+    - Guǎngzhōu shì Zhōngguó de nánfāng dà dūshì.
+    - Guangzhou is a major metropolis in southern China.
+  - 我昨天在广州(廣州)参加了一场音乐会(參加了一場音樂會)，感受到了城市的魅力(感受到了城市的魅力)。
+    - Wǒ zuótiān zài Guǎngzhōu cānjiāle yī chǎng yīnyuèhuì, gǎnshòu dào le chéngshì de mèilì.
+    - I attended a concert in Guangzhou yesterday and experienced the charm of the city.
+### 广州(廣州) → 广(廣)
+- **definition:** broad
+- **pinyin:** guǎng
+- **components:**
+  - 宀
+    - mián
+    - roof
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a house with a roof, similar to 宀(宀) (mián, "roof") ->
+    - a building with three walls ->
+    - shelter
+  - **interpretation:** As a pictogram, 广(廣) (guǎng, "shelter") visually represents a three-walled structure under a roof, conveying the concept of shelter or covering. It is closely related to the character 宀(宀) (mián, "roof"), which includes four walls, indicating the structural nuance captured by ancient scribes.
+  - **simplification:** 广(廣) was simplified by using the pictographic element alone, omitting the phonetic component 黃(黃).
+- **examples:**
+  - 暴风骤雨时(暴風驟雨時)，山洞广可供人躲避(山洞廣可供人躲避)。
+    - Bào fēng zhòu yǔ shí, shān dòng guǎng kě gòng rén duǒ bì.
+    - When the storm rages, the cave provides shelter.
+  - 旅途中疲惫时(旅途中疲憊時)，老树下广给予行人庇护(老樹下廣給予行人庇護)。
+    - Lǚ tú zhōng pí bèi shí, lǎo shù xià guǎng jǐ yǔ xíng rén bì hù.
+    - During a tiring journey, the shelter under the old tree gives travelers protection.
+### 广州(廣州) → 广(廣) → 宀(宀)
+- **definition:** roof
+- **pinyin:** mián
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a house with four walls ->
+    - roof
+  - **interpretation:** 宀(mián, "roof") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, "broad") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.
+- **examples:**
+  - 含有宀的汉字代表家的温暖(含有宀的漢字代表家的溫暖)。
+    - Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.
+    - Chinese characters that include the radical '宀' represent the warmth of home.
+  - 屋顶遮风挡雨(屋頂遮風擋雨)，家园散发温馨(家園散發溫馨)。
+    - Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.
+    - The roof shields from wind and rain, and the home radiates warmth.
+### 广州(廣州) → 州(州)
+- **definition:** state; region
+- **pinyin:** zhōu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an islet in a river
+  - **interpretation:** 州(州) (zhōu, "administrative division") was originally a pictogram representing a small piece of land or islet amidst water, illustrating the ancient practice of using distinct land areas as administrative divisions.
+- **examples:**
+  - 我计划参观几个州(我計劃參觀幾個州)。
+    - Wǒ jìhuà cānguān jǐ gè zhōu.
+    - I plan to visit several states.
+  - 美国的各州都有独特的风景(美國的各州都有獨特的風景)。
+    - Měiguó de gè zhōu dōu yǒu dútè de fēngjǐng.
+    - Every state in the United States has unique scenery.
+  - 州政府负责管理地方事务(州政府負責管理地方事務)，政策由州长制定(政策由州長制定)。
+    - Zhōu zhèngfǔ fùzé guǎnlǐ dìfāng shìwù, zhèngcè yóu zhōu zhǎng zhìdìng.
+    - The state government is responsible for managing local affairs, and the policies are set by the governor.
+---
+## 广州(廣州)
+### Guǎngzhōu
+---
+## Guangzhou
+%%%
+## 加(加)
+---
+## to increase; to add
+### jiā
+---
+- **definition:** to increase; to add
+- **pinyin:** jiā
+- **components:**
+  - 力
+    - lì
+    - strength
+  - 口
+    - kǒu
+    - mouth
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 力(力) (lì, "strength") + 口(口) (kǒu, "mouth") =
+    - applying strength vocally ->
+    - add
+  - **interpretation:** The character 加(加) (jiā, "add") shows the idea of using strength in a vocal or pronounced way, suggesting an emphasis or increase, which aligns with the meaning of 'to add.'
+- **examples:**
+  - 请加糖(請加糖)。
+    - Qǐng jiā táng.
+    - Please add sugar.
+  - 厨师在汤里加盐(廚師在湯裡加鹽)，让味道更浓(讓味道更濃)。
+    - Chúshī zài tāng lǐ jiā yán, ràng wèidào gèng nóng.
+    - The chef adds salt to the soup, making the flavor richer.
+  - 他总是加一点努力(他總是加一點努力)，来克服困难(來克服困難)。
+    - Tā zǒngshì jiā yīdiǎn nǔlì, lái kèfú kùnnán.
+    - He always adds a bit more effort to overcome difficulties.
+### 加(加) → 力(力)
+- **definition:** strength
+- **pinyin:** lì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts either an arm bending out from the side of the body, or a wooden plough
+  - **interpretation:** The character 力(lì, 'strength') visually represents physical power through the image of an arm or tool, emphasizing the fundamental concept of muscular force.
+- **examples:**
+  - 他用尽全力(他用盡全力)，赢得比赛(贏得比賽)。
+    - Tā yòng jìn quánlì, yíng dé bǐsài.
+    - He used all his strength to win the competition.
+  - 他把力气用在学习上(他把力氣用在學習上)。
+    - Tā bǎ lìqì yòng zài xuéxí shàng.
+    - He applies his strength to his studies.
+  - 面对困难(面對困難)，他毫不退缩(他毫不退縮)，全力以赴(全力以赴)。
+    - Miànduì kùnnán, tā háo bù tuìsuō, quánlì yǐ fù.
+    - Facing difficulties, he neither retreats nor gives up, but goes all out.
+### 加(加) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+---
+## 加(加)
+### jiā
+---
+## to increase; to add
+%%%
+## 天气预报(天氣預報)
+---
+## weather forecast
+### tiānqì yùbào
+---
+- **definition:** weather forecast
+- **pinyin:** tiānqì yùbào
+- **components:**
+  - 天氣
+    - tiānqì
+    - heaven; sky; air; atmosphere
+  - 預報
+    - yùbào
+    - in advance; beforehand; report; announce
+- **etymology:**
+  - **type:** compound word
+  - **description:** 天(天) (tiān, "heaven; sky"), 氣(氣) (qì, "air; atmosphere"), 預(預) (yù, "in advance; beforehand"), 報(報) (bào, "report; announce")
+  - **interpretation:** The word 天氣預報 (tiānqì yùbào) combines the elements of the sky and atmosphere (天氣/天氣) with the concept of reporting or announcing in advance (預報/預報), which effectively communicates the idea of predicting and announcing the weather conditions ahead of time.
+- **examples:**
+  - 我每天早上看天气预报(我每天早上看天氣預報)。
+    - Wǒ měitiān zǎoshang kàn tiānqì yùbào.
+    - I check the weather forecast every morning.
+  - 电视上报道天气预报(電視上報道天氣預報)，预示着大风天气(預示著大風天氣)。
+    - Diànshì shàng bàodào tiānqì yùbào, yùshìzhe dàfēng tiānqì.
+    - The TV broadcasts the weather forecast, indicating strong winds.
+### 天气预报(天氣預報) → 天氣(天氣)
+- **definition:** heaven; sky; air; atmosphere
+- **pinyin:** tiānqì
+- **components:**
+  - 天
+    - tiān
+    - heaven; sky
+  - 氣
+    - qì
+    - air; atmosphere
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 天(天) (tiān, "heaven; sky") + 氣(氣) (qì, "air; atmosphere") =
+    - refers to the state of the atmosphere or 'weather'
+  - **interpretation:** The word 天氣(天氣) (tiānqì, "weather") combines 天(天) (tiān, "heaven; sky") with 氣(氣) (qì, "air; atmosphere") to describe the atmospheric conditions we experience. This concept connects the natural elements of the sky and atmosphere with weather patterns.
+- **examples:**
+  - 今天天氣很好(今天天氣很好)。
+    - Jīntiān tiānqì hěn hǎo.
+    - The weather today is very good.
+  - 我们在公园散步(我們在公園散步)，享受宜人的天氣(享受宜人的天氣)。
+    - Wǒmen zài gōngyuán sànbù, xiǎngshòu yírén de tiānqì.
+    - We take a walk in the park, enjoying the pleasant air.
+  - 清晨的天氣凉爽(清晨的天氣涼爽)，适合跑步(適合跑步)。
+    - Qīngchén de tiānqì liángshuǎng, shìhé pǎobù.
+    - The early morning weather is cool, perfect for running.
+### 天气预报(天氣預報) → 天氣(天氣) → 天(天)
+- **definition:** heaven; sky
+- **pinyin:** tiān
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
+### 天气预报(天氣預報) → 天氣(天氣) → 氣(氣)
+- **definition:** air; atmosphere
+- **pinyin:** qì
+- **components:**
+  - 气
+    - qì
+    - air
+  - 米
+    - mǐ
+    - rice
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 气 (pronunciation) + Semantic: 米 ('rice') =
+    - to give rice as a gift ->
+    - borrowed for 'air, flow'
+  - **interpretation:** Originally, 氣(qì, 'air') represented giving rice as a gift, reflecting physical exchange and transformation. Over time, it was borrowed to denote the concepts of 'air' and 'flow', abstractly related to the movement and circulation of gases.
+  - **simplification:** The character 氣 was simplified to 气 by omitting the 米 (mǐ, 'rice') component, retaining only the phonetic element.
+- **examples:**
+  - 我们呼吸着新鲜的气(我們呼吸著新鮮的氣)，迎接新的一天(迎接新的一天)。
+    - Wǒmen hūxīzhe xīnxiān de qì, yíngjiē xīn de yītiān.
+    - We breathe in fresh air, welcoming a new day.
+  - 空气温暖宜人(空氣溫暖宜人)。
+    - Kōngqì wēnnuǎn yírén.
+    - The air is pleasantly warm.
+  - 大海的气(大海的氣)，带着咸湿的味道(帶著鹹濕的味道)。
+    - Dàhǎi de qì, dàizhe xiánshī de wèidào.
+    - The sea air carries a salty, humid scent.
+### 天气预报(天氣預報) → 天氣(天氣) → 氣(氣) → 气(氣)
+- **definition:** air
+- **pinyin:** qì
+- **components:**
+  - 三
+    - sān
+    - three
+  - 乞
+    - qǐ
+    - beg
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Clouds flowing through the sky ->
+    - altered to avoid confusion with 三(三) (sān, "three") ->
+    - 乞(乞) (qǐ, "beg") as a variant for phonetic borrowing
+  - **interpretation:** The character 气(qì, "air") started as a pictogram representing clouds in the sky, which evolved to differentiate from the character for "three." Over time, 乞 was used as a variant for phonetic reasons, specifically for the meaning "to beg." The meanings 'air, flow' were later borrowed from 气.
+- **examples:**
+  - 房间里的气很清新(房間裡的氣很清新)。
+    - Fángjiān lǐ de qì hěn qīngxīn。
+    - The air in the room is very fresh.
+  - 打开窗户(打開窗戶)，让新鲜的气进来(讓新鮮的氣進來)。
+    - Dǎkāi chuānghù, ràng xīnxiān de qì jìnlái。
+    - Open the window to let fresh air in.
+  - 他深吸一口气(他深吸一口氣)，感觉心情舒畅(感覺心情舒暢)。
+    - Tā shēn xī yīkǒu qì, gǎnjué xīnqíng shūchàng。
+    - He took a deep breath and felt his mood lift.
+### 天气预报(天氣預報) → 天氣(天氣) → 氣(氣) → 气(氣) → 三(三)
+- **definition:** three
+- **pinyin:** sān
+- **etymology:**
+  - **type:** Ideogram
+  - **description:**
+    - 一(一) (yī, "one") triplicated ->
+    - 三(三) (sān, "three")
+  - **interpretation:** The character 三(三) (sān, "three") is an ideogram depicting the concept of the number three through the use of three parallel horizontal strokes. This straightforward representation makes it consistent with related numeric characters like 一(一) (yī, "one") and 二(二) (èr, "two").
+- **examples:**
+  - 今天我买了三斤苹果(今天我買了三斤蘋果)。
+    - Jīntiān wǒ mǎi le sān jīn píngguǒ.
+    - Today I bought three jin of apples.
+  - 他有三支笔(他有三支筆)，我只想要其中一支(我只想要其中一支)。
+    - Tā yǒu sān zhī bǐ, wǒ zhǐ xiǎng yào qízhōng yī zhī.
+    - He has three pens, but I only want one of them.
+  - 他们吃了三碗面(他們吃了三碗麵)，觉得非常满意(覺得非常滿意)。
+    - Tāmen chī le sān wǎn miàn, juéde fēicháng mǎnyì.
+    - They ate three bowls of noodles and felt very satisfied.
+### 天气预报(天氣預報) → 天氣(天氣) → 氣(氣) → 气(氣) → 乞(乞)
+- **definition:** beg
+- **pinyin:** qǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a person bending over with a bowl, resembling the act of begging.
+  - **interpretation:** The character 乞(乞) (qǐ, "beg") visually suggests the posture of a person soliciting aid or alms. This imagery supports its meaning of asking for or requesting something, often in a context of necessity.
+- **examples:**
+  - 他在街头乞讨(他在街頭乞討)。
+    - Tā zài jiētóu qǐtǎo.
+    - He begs on the street.
+  - 街头的乞丐请求施舍(街頭的乞丐請求施捨)。
+    - Jiētóu de qǐgài qǐngqiú shīshě.
+    - The beggar on the street asks for alms.
+  - 他乞求雨露(他乞求雨露)，期盼滋润大地(期盼滋潤大地)。
+    - Tā qǐqiú yǔlù, qīpàn zīrùn dàdì.
+    - He begs for rainwater, hoping to nourish the earth.
+### 天气预报(天氣預報) → 天氣(天氣) → 氣(氣) → 米(米)
+- **definition:** rice
+- **pinyin:** mǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts rice kernels ->
+    - 米(mǐ, 'rice')
+  - **interpretation:** The character 米(mǐ, 'rice') visually represents dehusked rice kernels to differentiate it from 粟. The horizontal stroke may symbolize a bamboo sieve, emphasizing the process of separating grains from their husks.
+- **examples:**
+  - 我喜欢吃米饭(我喜歡吃米飯)。
+    - Wǒ xǐhuān chī mǐfàn.
+    - I like to eat rice.
+  - 她从农村带回一袋米(她從農村帶回一袋米)，用来煮饭(用來煮飯)。
+    - Tā cóng nóngcūn dài huí yī dài mǐ, yòng lái zhǔ fàn.
+    - She brought a bag of rice from the countryside to cook.
+  - 市场上有新米出售(市場上有新米出售)。
+    - Shìchǎng shàng yǒu xīn mǐ chūshòu.
+    - New rice is available in the market.
+### 天气预报(天氣預報) → 預報(預報)
+- **definition:** in advance; beforehand; report; announce
+- **pinyin:** yùbào
+- **components:**
+  - 預
+    - yù
+    - in advance; beforehand
+  - 報
+    - bào
+    - report; announce
+- **etymology:**
+  - **type:** compound word
+  - **description:** 預(預) (yù, "in advance; beforehand") + 報(報) (bào, "report; announce") together form a word that means to report or announce something in advance.
+  - **interpretation:** The term 預報(預報) (yùbào) combines the idea of doing something in advance, 預(預) (yù, "in advance"), with the act of reporting or announcing, 報(報) (bào, "report"). Typically, this refers to the action of forecasting or predicting future events, most commonly seen in weather forecasts.
+- **examples:**
+  - 气象部门預報今天将有暴雨(氣象部門預報今天將有暴雨)。
+    - Qìxiàng bùmén yùbào jīntiān jiāng yǒu bàoyǔ.
+    - The meteorological department predicted that there would be heavy rain today.
+  - 他们預報会提前出发(他們預報會提前出發)，所以大家做好准备(所以大家做好準備)。
+    - Tāmen yùbào huì tíqián chūfā, suǒyǐ dàjiā zuòhǎo zhǔnbèi.
+    - They announced that they would set off in advance, so everyone should get ready.
+### 天气预报(天氣預報) → 預報(預報) → 預(預)
+- **definition:** in advance; beforehand
+- **pinyin:** yù
+- **components:**
+  - 予
+    - yǔ
+    - to give
+  - 頁
+    - yè
+    - head
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 予(予) (yǔ, "to give") + Semantic: 頁(頁) (yè, "head") =
+    - Phono-semantic compound indicating something prepared in advance
+  - **interpretation:** The character 預(yù) combines 予(予) (yǔ, "to give") as the phonetic component and 頁(頁) (yè, "head") as the semantic component, illustrating the concept of anticipating or preparing something ahead of time, perhaps metaphorically suggesting preparation is 'given' thought.
+  - **simplification:** 預(預) is simplified to 预(預) by replacing the full form of 頁(頁) with the simpler 预(预), maintaining the overall meaning while reducing the number of strokes.
+- **examples:**
+  - 他預习了明天的课(他預習了明天的課)。
+    - Tā yùxí le míngtiān de kè.
+    - He reviewed tomorrow's lesson in advance.
+  - 我们预先安排了旅行(我們預先安排了旅行)，准备了所有用品(準備了所有用品)。
+    - Wǒmen yùxiān ānpái le lǚxíng, zhǔnbèi le suǒyǒu yòngpǐn.
+    - We arranged the trip in advance and prepared all the supplies.
+  - 我提前預算了费用(我提前預算了費用)，以防万一(以防萬一)。
+    - Wǒ tíqián yùsuàn le fèiyòng, yǐ fáng wànyī.
+    - I budgeted the expenses in advance just in case.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 予(予)
+- **definition:** to give
+- **pinyin:** yǔ
+- **components:**
+  - 呂
+    - lǚ
+    - spine
+  - 亅
+    - jué
+    - hook
+- **etymology:**
+  - **type:** Jiajie
+  - **description:**
+    - Originally written as 呂(呂) (lǚ, "spine") for phonetic purposes ->
+    - borrowed for "give" and "I" ->
+    - distinguishing 亅(亅) (jué, "hook") added at the bottom ->
+    - stylized to final form 予(予) (yǔ, "give")
+  - **interpretation:** The character 予(予) (yǔ, "give") was adapted from 呂(呂) (lǚ, "spine") due to phonetic similarity. The addition of 亅(亅) (jué, "hook") helped set it apart visually, leading to the modern form.
+- **examples:**
+  - 他予我一本书(他予我一本書)。
+    - Tā yǔ wǒ yī běn shū.
+    - He gave me a book.
+  - 老师予以指导(老師予以指導)，学生表示感谢(學生表示感謝)。
+    - Lǎoshī yǔyǐ zhǐdǎo, xuéshēng biǎoshì gǎnxiè.
+    - The teacher provided guidance and the students expressed their gratitude.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 予(予) → 呂(呂)
+- **definition:** spine
+- **pinyin:** lǚ
+- **components:**
+  - 鋁
+    - lǚ
+    - ingot
+  - 膂
+    - lǚ
+    - spine
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts two blocks of metal ->
+    - original form of 鋁(鋁) (lǚ, 'ingot') ->
+    - borrowed phonetically for 膂(膂) (lǚ, 'spine') and 呂(呂) (lǚ, 'music notes')
+  - **interpretation:** Initially a pictogram illustrating two disconnected metal blocks, the character 呂(呂) (lǚ, 'two blocks of metal') was later adapted by connecting the blocks, becoming stylized as it was repurposed for various meanings including 'spine' and 'music notes'.
+  - **simplification:** 呂(呂) was adapted into 呂(吕) as a simplified form without altering the meaning, simplifying the lines to produce a more cursive appearance.
+- **examples:**
+  - 工匠将呂打造成精美的装饰品(工匠將呂打造成精美的裝飾品)。
+    - Gōngjiàng jiāng Lǚ dǎzào chéng jīngměi de zhuāngshìpǐn.
+    - The artisan forged the two blocks of metal into an exquisite ornament.
+  - 考古学家在古墓中发现了呂(考古學家在古墓中發現了呂)。
+    - Kǎogǔ xuéjiā zài gǔmù zhōng fāxiànle Lǚ.
+    - The archaeologist discovered the two blocks of metal in the ancient tomb.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 予(予) → 呂(呂) → 鋁(鋁)
+- **definition:** ingot
+- **pinyin:** lǚ
+- **components:**
+  - 金
+    - jīn
+    - metal
+  - 慮
+    - lǜ
+    - consider
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 金(金) (jīn, "metal; gold") + phonetic 慮(慮) (lǜ) =
+    - related to metal properties ->
+    - ingot
+  - **interpretation:** 鋁(lǚ) ("ingot") combines 金(金) to indicate association with metal and 慮(慮) as a phonetic component, suggesting the importance of careful consideration in metallurgy.
+- **examples:**
+  - 工厂里熔化的铝经过快速冷却后(工廠裡熔化的鋁經過快速冷卻後)，凝固成锭形状(凝固成錠形狀)。
+    - Gōngchǎng lǐ rónghuà de lǚ jīngguò kuàisù lěngquè hòu, nínggù chéng dìng xíngzhuàng.
+    - In the factory, the melted aluminum quickly cooled and solidified into ingot shapes.
+  - 冶炼工匠精心铸造铝为高质量锭(冶煉工匠精心鑄造鋁為高質量錠)。
+    - Yěliàn gōngjiàng jīngxīn zhùzào lǚ wèi gāo zhìliàng dìng.
+    - The metallurgists meticulously cast the aluminum into high-quality ingots.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 予(予) → 呂(呂) → 膂(膂)
+- **definition:** spine
+- **pinyin:** lǚ
+- **etymology:**
+  - **type:** variant form
+  - **description:** 膂 is a variant form of 呂(呂) (lǚ, "spine")
+  - **interpretation:** Originating as a pictogram depicting two disconnected blocks, 呂(呂) was initially associated with metal and later reinterpreted as vertebrae through the addition of a connecting line, representing 9 (lǚ, "spine"). The character 呂(呂) was phonetically borrowed for this meaning, while 膂 emphasizes its anatomical sense with the addition of the 肉(肉) (ròu, "flesh") radical.
+- **examples:**
+  - 他的膂十分强健(他的膂十分強健)。
+    - Tā de lǚ shífēn qiángjiàn.
+    - His spine is very strong.
+  - 练习瑜伽可以增强膂(練習瑜伽可以增強膂)，保持身体健康(保持身體健康)。
+    - Liànxí yújiā kěyǐ zēngqiáng lǚ, bǎochí shēntǐ jiànkāng.
+    - Practicing yoga can strengthen the spine, helping to maintain a healthy body.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 予(予) → 亅(亅)
+- **definition:** hook
+- **pinyin:** jué
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hook
+  - **interpretation:** 亅(亅) (jué, "hook") visually represents a simple hook or barb. It is one of the simplest characters in Chinese, often used as a component in other more complex characters.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 頁(頁)
+- **definition:** head
+- **pinyin:** yè
+- **components:**
+  - 首
+    - shǒu
+    - head
+  - 卩
+    - jié
+    - kneeling person
+- **etymology:**
+  - **type:** Pictogram
+  - **description:**
+    - 首(首) (shǒu, "head") + 卩(卩) (jié, "kneeling person") =
+    - head of a kneeling person ->
+    - emphasis on "head" ->
+    - later used for "page"
+  - **interpretation:** Originally depicting the head of a kneeling person, 頁(yè) was adapted to signify 'page' by association with leaves (葉). While its original sense of 'head' is retained in some radicals, its contemporary meaning as 'page' is more commonly recognized.
+  - **simplification:** 頁(頁) was simplified by adopting the cursive script version, resulting in 页(页). This process focused on reducing the complexity of the character while maintaining its phonetic resemblance.
+- **examples:**
+  - 书的第一页上印有精美的插图(書的第一頁上印有精美的插圖)。
+    - Shū de dì yī yè shàng yìn yǒu jīng měi de chā tú.
+    - The first page of the book is printed with exquisite illustrations.
+  - 她认真阅读每一頁(她認真閱讀每一頁)，体会作者的用意(體會作者的用意)。
+    - Tā rèn zhēn yuè dú měi yī yè, tǐ huì zuò zhě de yòng yì.
+    - She carefully reads every page to appreciate the author's intentions.
+  - 翻开这几頁(翻開這幾頁)，你将发现一个新世界(你將發現一個新世界)。
+    - Fān kāi zhè jǐ yè, nǐ jiāng fā xiàn yī gè xīn shì jiè.
+    - Turn over these pages, and you will discover a new world.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 頁(頁) → 首(首)
+- **definition:** head
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a head with the stylized representation of eyes and hair
+  - **interpretation:** The character 首(首) (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.
+- **examples:**
+  - 他昂首挺胸走上领奖台(他昂首挺胸走上領獎台)。
+    - Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.
+    - He walked onto the podium with his head held high.
+  - 受伤后(受傷後)，他低下首表示谦逊(他低下首表示謙遜)。
+    - Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.
+    - After being injured, he lowered his head to show humility.
+  - 他被选为公司的首席执行官(他被選為公司的首席執行官)。
+    - Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.
+    - He was elected as the company's chief executive officer.
+### 天气预报(天氣預報) → 預報(預報) → 預(預) → 頁(頁) → 卩(卩)
+- **definition:** kneeling person
+- **pinyin:** jié
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a kneeling person from sideview
+  - **interpretation:** The character 卩(卩) (jié, "kneeling person") is a simple pictogram showing the silhouette of a person kneeling. It is unrelated to other kneeling or similar figures in different contexts such as 欠(欠) (qiàn, "yawn") where the mouth is open, or 女(女) (nǚ, "woman") where the figure represents a female. Its form is solely based on the posture of kneeling.
+- **examples:**
+  - 那位卩正虔诚祈祷(那位卩正虔誠祈禱)。
+    - Nà wèi jié zhèng qiánchéng qídǎo.
+    - That kneeling person is praying devoutly.
+  - 礼仪师指出(禮儀師指出)，卩代表谦卑与敬意(卩代表謙卑與敬意)。
+    - Lǐyí shī zhǐchū, jié dàibiǎo qiānbēi yǔ jìngyì.
+    - The ritual master pointed out that the kneeling person represents humility and respect.
+  - 在庄严仪式中(在莊嚴儀式中)，卩象征着内心的虔敬(卩象徵著內心的虔敬)。
+    - Zài zhuāngyán yíshì zhōng, jié xiàngzhēngzhe nèixīn de qiánjìng.
+    - In the solemn ceremony, the kneeling figure symbolizes inner devotion.
+### 天气预报(天氣預報) → 預報(預報) → 報(報)
+- **definition:** report; announce
+- **pinyin:** bào
+- **components:**
+  - 㚔
+    - n/a
+    - handcuffs
+  - 𠬝
+    - n/a
+    - to subdue
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 㚔 (handcuffs) + 𠬝 (to subdue) =
+    - to convict or declare guilty ->
+    - report; announce
+  - **interpretation:** The character 報(bào) conveys the idea of delivering a verdict or making an official announcement, stemming from the imagery of handcuffs and subdual, which symbolize an authoritative declaration of guilt.
+  - **simplification:** 報 was simplified to 报 through sound-alike replacement with 押(押) (yā, "press"), retaining the idea of administering announcements but using the simpler form.
+- **examples:**
+  - 记者報最新消息(記者報最新消息)。
+    - Jìzhě bào zuìxīn xiāoxī.
+    - The reporter reported the latest news.
+  - 听到火警铃声(聽到火警鈴聲)，他立刻報警(他立刻報警)。
+    - Tīngdào huǒjǐng língshēng, tā lìkè bào jǐng.
+    - Hearing the fire alarm, he immediately called the police.
+  - 校长報考试成绩(校長報考試成績)。
+    - Xiàozhǎng bào kǎoshì chéngjì.
+    - The principal reported the exam results.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 㚔(㚔)
+- **definition:** handcuffs
+- **pinyin:** n/a
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a pair of handcuffs ->
+    - original form of a modern, infrequently used character for handcuffs
+  - **interpretation:** The character 㚔 directly represents the image of handcuffs, capturing their distinctive shape or form used in restraint. This pictogram has no relation to characters that represent different concepts such as aiming or espionage, like 睪.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 𠬝(𠬝)
+- **definition:** to subdue
+- **pinyin:** n/a
+- **components:**
+  - 服
+    - fú
+    - to serve
+  - 凡
+    - fán
+    - tray
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 𠬝 (original pictogram for subduing) + 凡(凡) (fán, "tray") =
+    - to serve ->
+    - became 服
+  - **interpretation:** 𠬝 is the original pictogram representing the action of subduing. In the traditional form 服, 𠬝 provided the phonetic sound associated with subduing, while 凡 was added later, nominally as a semantic part, though it was originally 'tray' and later distorted into 'ship' and 'moon'.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 𠬝(𠬝) → 服(服)
+- **definition:** to serve
+- **pinyin:** fú
+- **components:**
+  - 凡
+    - fán
+    - tray
+  - 舟
+    - zhōu
+    - boat
+  - 月
+    - yuè
+    - moon
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 𠬝 (original pictogram depicting 'to subdue') ->
+    - 凡(凡) (fán, 'tray') added as semantic ->
+    - 凡 corrupted into 舟(舟) (zhōu, 'boat') and then 月(月) (yuè, 'moon') ->
+    - final form 服 (fú, 'serve')
+  - **interpretation:** The character 服 (fú, 'serve') originates from a pictogram 𠬝 showing subjugation, conveying the idea of 'serving or obeying.' The addition of 凡(凡) changes its visual into something resembling 舟(舟) and then 月(月), enhancing the character's complexity without altering its core semantic value.
+- **examples:**
+  - 士兵服从命令(士兵服從命令)，保护人民(保護人民)。
+    - Shìbīng fúcóng mìnglìng, bǎohù rénmín.
+    - The soldiers obey orders and protect the people.
+  - 他穿上军服(他穿上軍服)，准备出发(準備出發)。
+    - Tā chuān shàng jūnfú, zhǔnbèi chūfā.
+    - He puts on his military uniform and gets ready to depart.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 𠬝(𠬝) → 服(服) → 凡(凡)
+- **definition:** tray
+- **pinyin:** fán
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a plate or flat dish ->
+    - borrowed for abstract meanings ->
+    - unrelated to 几(幾) (jī, 'small table')
+  - **interpretation:** 凡(凡) (fán, 'ordinary') originally depicted a flat dish or plate. Over time, it expanded to encompass broader abstract meanings and is unrelated to the character 几(幾) which represents a small table.
+- **examples:**
+  - 他是个平凡的人(他是個平凡的人)。
+    - tā shì gè píngfán de rén.
+    - He is an ordinary person.
+  - 凡人都可能犯错(凡人都可能犯錯)，从错误中成长(從錯誤中成長)。
+    - fán rén dōu kěnéng fàncuò, cóng cuòwù zhōng chéngzhǎng.
+    - Ordinary people may make mistakes, and grow from them.
+  - 他凡去旅行(他凡去旅行)，总能发现新的风景(總能發現新的風景)。
+    - tā fán qù lǚxíng, zǒng néng fāxiàn xīn de fēngjǐng.
+    - Whenever he travels, he always discovers new sceneries.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 𠬝(𠬝) → 服(服) → 舟(舟)
+- **definition:** boat
+- **pinyin:** zhōu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a boat
+  - **interpretation:** The character 舟(舟) (zhōu, "boat") visually represents the outline of a boat, reflecting its function and form.
+- **examples:**
+  - 小舟在湖中摇曳(小舟在湖中搖曳)。
+    - Xiǎo zhōu zài hú zhōng yáoyè.
+    - The small boat sways on the lake.
+  - 他驾着一只小舟(他駕著一隻小舟)，穿过雾气弥漫的河面(穿過霧氣彌漫的河面)。
+    - Tā jiàzhe yī zhōu, chuānguò wùqì mímàn de hémiàn.
+    - He steers a small boat, crossing a river shrouded in mist.
+  - 清晨时分舟载行人(清晨時分舟載行人)，穿过古镇河流(穿過古鎮河流)。
+    - Qīngchén shífèn zhōu zài xíngrén, chuānguò gǔzhèn héliú.
+    - In the early morning, the boat carries passengers as it passes through the ancient town's river.
+### 天气预报(天氣預報) → 預報(預報) → 報(報) → 𠬝(𠬝) → 服(服) → 月(月)
+- **definition:** moon
+- **pinyin:** yuè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a crescent moon
+  - **interpretation:** The character 月(yuè, "moon") is a pictographic representation of a crescent moon, straightforwardly capturing the curved shape often associated with the moon's appearance. Though interchangeable with 夕 (xī, "evening") in the past, it distinctly represents the moon in this usage.
+- **examples:**
+  - 夜空挂着明月(夜空掛著明月)。
+    - Yè kōng guà zhe míng yuè.
+    - The bright moon hangs in the night sky.
+  - 人们赏月(人們賞月)，寄托相思(寄託相思)。
+    - Rén men shǎng yuè, jì tuō xiāng sī.
+    - People enjoy the moon, expressing their longing.
+---
+## 天气预报(天氣預報)
+### tiānqì yùbào
+---
+## weather forecast
+%%%
+## 晴天(晴天)
+---
+## sunny day; clear sky
+### qíngtiān
+---
+- **definition:** sunny day; clear sky
+- **pinyin:** qíngtiān
+- **components:**
+  - 晴
+    - qíng
+    - clear; fine [weather]
+  - 天
+    - tiān
+    - sky; day
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 晴(晴) (qíng, "clear; fine [weather]") + 天(天) (tiān, "sky; day") =
+    - a day with clear sky and good weather.
+  - **interpretation:** The combination of 晴(晴) (qíng, "clear; fine [weather]") and 天(天) (tiān, "sky; day") conveys the idea of a day where the sky is clear and the weather is favorable. This aligns with the term 'sunny day' or 'clear sky,' describing conditions without clouds or rain, highlighting pleasant weather.
+- **examples:**
+  - 今天是个晴天(今天是個晴天)。
+    - Jīntiān shì gè qíngtiān。
+    - Today is a sunny day.
+  - 每当遇到晴天(每當遇到晴天)，心情就特别好(心情就特別好)。
+    - Měi dāng yù dào qíngtiān, xīnqíng jiù tèbié hǎo。
+    - Whenever it's a sunny day, the mood becomes especially pleasant.
+  - 晴天时(晴天時)，小鸟在枝头歌唱(小鳥在枝頭歌唱)。
+    - Qíngtiān shí, xiǎo niǎo zài zhītóu gēchàng。
+    - On a sunny day, little birds sing on the branches.
+### 晴天(晴天) → 晴(晴)
+- **definition:** clear; fine [weather]
+- **pinyin:** qíng
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 青
+    - qīng
+    - blue-green
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 日(日) (rì, "sun") + 青(青) (qīng, phonetic) =
+    - sun shining brightly ->
+    - clear, fine (weather)
+  - **interpretation:** 晴(晴) (qíng) combines the semantic element 日(日) (rì, "sun"), representing sunlight, with the phonetic 青(青) (qīng), suggesting clarity or brightness. Together, they convey the notion of clear, fine weather when the sun is unobstructed, which aligns with the character's meaning.
+- **examples:**
+  - 今天天气晴(今天天氣晴)，万里无云(萬里無雲)。
+    - Jīntiān tiānqì qíng, wànlǐ wú yún.
+    - Today's weather is clear, with not a cloud in sight.
+  - 晴天适合出游(晴天適合出遊)。
+    - Qíngtiān shìhé chūyóu.
+    - Clear weather is perfect for traveling.
+  - 经过阴雨(經過陰雨)，现已转晴(現已轉晴)。
+    - Jīngguò yīnyǔ, xiàn yǐ zhuǎn qíng.
+    - After days of rain, the weather has turned clear.
+### 晴天(晴天) → 晴(晴) → 日(日)
+- **definition:** sun
+- **pinyin:** rì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the sun; a dot or line added in the center to distinguish from similar characters e.g. 囗
+  - **interpretation:** As a pictogram, 日(rì, 'sun') directly represents the sun. In ancient times, the added dot helped visually differentiate it from other characters. This is analogous to the astronomical symbol ☉ and Egyptian hieroglyph 𓇳, both depicting the sun.
+- **examples:**
+  - 晨曦来临时(晨曦來臨時)，日出东方(日出東方)。
+    - Chénxī láilín shí, rìchū dōngfāng.
+    - At the break of dawn, the sun rises in the east.
+  - 温暖的日光洒满大地(溫暖的日光灑滿大地)。
+    - Wēnnuǎn de rìguāng sǎ mǎn dàdì.
+    - The warm sunlight spreads over the earth.
+  - 中午时分(中午時分)，日高挂天(日高掛天)。
+    - Zhōngwǔ shífēn, rì gāo guà tiān.
+    - At noon, the sun hangs high in the sky.
+### 晴天(晴天) → 晴(晴) → 青(青)
+- **definition:** blue-green
+- **pinyin:** qīng
+- **components:**
+  - 生
+    - shēng
+    - growth
+  - 井
+    - jǐng
+    - well
+- **etymology:**
+  - **type:** Phono-semantic compound
+  - **description:**
+    - Phonetic: 生(生) (shēng, "growth") + Phonetic: 井(井) (jǐng, "well") =
+    - combined phonetics ->
+    - original meaning of "color of growing plants" ->
+    - modern meaning "green"
+  - **interpretation:** The character 青(qīng) originally combined phonetic elements to convey the idea of 'the color of growing plants,' associating it with green due to its relation to plant life. Over time, this evolved into its current meaning of 'green.'
+  - **simplification:** The second-round simplified form retained the calligraphic appearance, refining the top component 龶 to modernize the character while preserving its semantic elements.
+- **examples:**
+  - 那件青衫展现出独特韵味(那件青衫展現出獨特韻味)。
+    - nà jiàn qīng shān zhǎn xiàn chū dú tè yùn wèi。
+    - That green garment displays a unique charm.
+  - 他骑着青马奔驰在草原上(他騎著青馬馳騁在草原上)。
+    - tā qí zhe qīng mǎ chì chěng zài cǎo yuán shàng。
+    - He rides a green horse galloping on the grassland.
+  - 湖水映着青天(湖水映著青天)，江畔伫立青松(江畔佇立青松)。
+    - hú shuǐ yìng zhe qīng tiān, jiāng pàn zhù lì qīng sōng。
+    - The lake reflects the blue sky, and by the river the green pines stand tall.
+### 晴天(晴天) → 晴(晴) → 青(青) → 生(生)
+- **definition:** growth
+- **pinyin:** shēng
+- **components:**
+  - 屮
+    - chè
+    - sprout
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 屮(屮) (chè, "sprout") on top of a horizontal line ->
+    - signifies a plant sprouting from the ground ->
+    - symbolizes life
+  - **interpretation:** The character 生(生) (shēng, "life") represents the concept of life force or vitality, symbolized by a sprout emerging from the earth, embodying growth and renewal.
+- **examples:**
+  - 生命是一场美丽的旅程(生命是一場美麗的旅程)。
+    - Shēngmìng shì yī chǎng měilì de lǚchéng.
+    - Life is a beautiful journey.
+  - 他在战场上奋力生存(他在戰場上奮力生存)。
+    - Tā zài zhànchǎng shàng fènlì shēngcún.
+    - He fights to live on the battlefield.
+  - 这家餐厅的生鱼片非常新鲜(這家餐廳的生魚片非常新鮮)。
+    - Zhè jiā cāntīng de shēngyúpiàn fēicháng xīnxiān.
+    - The raw fish slices at this restaurant are very fresh.
+### 晴天(晴天) → 晴(晴) → 青(青) → 生(生) → 屮(屮)
+- **definition:** sprout
+- **pinyin:** chè
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts sprouting plant ->
+    - ancient form of grass plant
+  - **interpretation:** The character 屮(屮) (chè, "sprout") visually represents a sprout emerging from the ground, symbolizing new growth or vegetation. It serves as an ancient pictographic representation of a plant, indicating its close etymological relationship to characters associated with grass and plants, such as 草(草) (cǎo, "grass") in later usages.
+### 晴天(晴天) → 晴(晴) → 青(青) → 井(井)
+- **definition:** well
+- **pinyin:** jǐng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a grid symbolizing a well's structure
+  - **interpretation:** The character 井(井) (jǐng, "well") visually represents the framework or grid of wooden or stone beams that would make up the top view of a traditional well, highlighting its function and design.
+- **examples:**
+  - 村口有一口老井(村口有一口老井)。
+    - Cūnkǒu yǒuyī kǒu lǎo jǐng.
+    - There is an old well at the village entrance.
+  - 夏天酷热时(夏天酷熱時)，井水带来阵阵凉意(井水帶來陣陣涼意)。
+    - Xiàtiān kùrè shí, jǐng shuǐ dàilái zhèn zhèn liángyì.
+    - In the scorching summer, well water brings a refreshing coolness.
+### 晴天(晴天) → 天(天)
+- **definition:** sky; day
+- **pinyin:** tiān
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
+---
+## 晴天(晴天)
+### qíngtiān
+---
+## sunny day; clear sky
+%%%
+## 中国民航(中國民航)
+---
+## Civil Aviation Administration of China (CAAC)
+### Zhōngguó Mínháng
+---
+- **definition:** Civil Aviation Administration of China (CAAC)
+- **pinyin:** Zhōngguó Mínháng
+- **components:**
+  - 中
+    - zhōng
+    - middle
+  - 國
+    - guó
+    - country
+  - 民
+    - mín
+    - people; civil
+  - 航
+    - háng
+    - navigation; aviation
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 中(中) (zhōng, "middle") + 國(國) (guó, "country") =
+    - 中國(中國) (zhōngguó, "China"); 民(民) (mín, "people; civil") + 航(航) (háng, "navigation; aviation") =
+    - 民航(民航) (mínháng, "civil aviation")
+  - **interpretation:** 中國(中國) (zhōngguó, "China") refers to the country, while 民航(民航) (mínháng, "civil aviation") denotes the sector focused on civilian air transportation. Combined, 中國民航(中國民航) refers to the Civil Aviation Administration of China, the national body overseeing civil aviation in the country.
+- **examples:**
+  - 中国民航监管严格(中國民航監管嚴格)。
+    - Zhōngguó Mínháng jiānguǎn yángé.
+    - The Civil Aviation Administration of China enforces strict oversight.
+  - 中国民航安全记录良好(中國民航安全記錄良好)，促进国际合作(促進國際合作)。
+    - Zhōngguó Mínháng ānquán jìlù liánghǎo, cùjìn guójì hézuò.
+    - The CAAC has a good safety record, fostering international cooperation.
+### 中国民航(中國民航) → 中(中)
+- **definition:** middle
+- **pinyin:** zhōng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an arrow piercing through the center of a target
+  - **interpretation:** The character 中(中) (zhōng, "middle") visually represents an arrow passing through the central point of a target, illustrating the concept of 'center' or 'middle' effectively. This visual imagery is straightforward and memorable, corresponding closely with its meaning of being at the center or middle of something.
+- **examples:**
+  - 他站在道路中(他站在道路中)，看着远方(看著遠方)。
+    - tā zhàn zài dàolù zhōng, kànzhe yuǎnfāng.
+    - He stands in the middle of the road, gazing into the distance.
+  - 房间正中(房間正中)，挂着一幅名画(掛著一幅名畫)。
+    - fángjiān zhèng zhōng, guàzhe yī fú mínghuà.
+    - A famous painting hangs in the exact center of the room.
+### 中国民航(中國民航) → 國(國)
+- **definition:** country
+- **pinyin:** guó
+- **components:**
+  - 囗
+    - wéi
+    - closure
+  - 或
+    - huò
+    - or
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 囗(囗) (wéi, "closure") + phonetic 或(或) (huò, "or") ->
+    - enclosed area signifying a state or country
+  - **interpretation:** The character 國(國) (guó, "country") combines the idea of an enclosed space from 囗(囗) (wéi, "closure") with the phonetic component 或(或) (huò, "or"), suggesting a defined and protected area, aligning with the concept of a country or state.
+  - **simplification:** The simplified character 国(國) uses 玉(玉) (yù, "jade") as a mnemonic for wealth within an enclosure, dropping the component 或(或) (huò, "or") for simplicity.
+- **examples:**
+  - 这个国有着独特魅力(這個國有著獨特魅力)。
+    - Zhège guó yǒuzhe dútè mèilì.
+    - This country has a unique charm.
+  - 许多人热爱国文化(許多人熱愛國文化)，努力建设国的美好明天(努力建設國的美好明天)。
+    - Xǔduō rén rè'ài guó wénhuà, nǔlì jiànshè guó de měihǎo míngtiān.
+    - Many people cherish their country's culture and strive to build a better future.
+### 中国民航(中國民航) → 國(國) → 囗(囗)
+- **definition:** closure
+- **pinyin:** wéi
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an enclosure
+  - **interpretation:** The character 囗(囗) (wéi, 'enclosure') is a pictogram representing a square or rectangular enclosure, emblematic of walls or boundaries. It visually reflects a basic enclosed area delineated by straight lines.
+- **examples:**
+  - 博物馆外有坚固的囗(博物館外有堅固的囗)，保护着历史文物(保護著歷史文物)。
+    - Bówùguǎn wài yǒu jiāngù de wéi, bǎohùzhe lìshǐ wénwù.
+    - Outside the museum, a sturdy enclosure protects historical artifacts.
+  - 古城外围的囗(古城外圍的囗)，确保了居民的安全(確保了居民的安全)。
+    - Gǔchéng wàiwéi de wéi, quèbǎole jūmín de ānquán.
+    - The ancient city's enclosure ensures the residents' safety.
+### 中国民航(中國民航) → 國(國) → 或(或)
+- **definition:** or
+- **pinyin:** huò
+- **components:**
+  - 戈
+    - gē
+    - spear
+  - 口
+    - kǒu
+    - mouth
+  - 一
+    - yī
+    - one
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 戈(戈) (gē, "spear") + 口(口) (kǒu, "mouth") + 一(一) (yī, "one") =
+    - a person using a spear with an open mouth ->
+    - uncertain decision or possibility ->
+    - final meaning 'or; maybe'
+  - **interpretation:** The character combines a depiction of a weapon with a mouth, suggesting someone deliberating verbally while holding a spear, thus conveying uncertainty or consideration between options.
+- **examples:**
+  - 你可以挑选红色(你可以挑選紅色)，或蓝色(或藍色)。
+    - nǐ kěyǐ tiāoxuǎn hóngsè, huò lán sè.
+    - You can choose red, or blue.
+  - 他今天到达(他今天到達)，或明天再来(或明天再來)。
+    - tā jīntiān dàodá, huò míngtiān zài lái.
+    - He arrives today, or comes again tomorrow.
+  - 午餐时(午餐時)，你可选择面条(你可選擇麵條)，或米饭(或米飯)？
+    - wǔcān shí, nǐ kě xuǎnzé miàntiáo, huò mǐfàn?
+    - At lunch, you may choose noodles, or rice?
+### 中国民航(中國民航) → 國(國) → 或(或) → 戈(戈)
+- **definition:** spear
+- **pinyin:** gē
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a spear or halberd, a type of weapon
+  - **interpretation:** The character 戈(gē, 'spear') visually represents a spear or halberd, highlighting its function and importance as a weapon in ancient Chinese warfare.
+- **examples:**
+  - 古代战士持戈(古代戰士持戈)，勇闯敌营(勇闖敵營)。
+    - Gǔdài zhànshì chí gē, yǒng chuǎng dí yíng.
+    - Ancient warriors wielded the spear, bravely attacking the enemy camp.
+  - 博物馆珍藏古兵器(博物館珍藏古兵器)，展厅陈列戈(展廳陳列戈)。
+    - Bówùguǎn zhēncáng gǔ bīngqì, zhǎntīng chénliè gē.
+    - The museum preserves ancient weapons, and the exhibition hall displays a spear.
+### 中国民航(中國民航) → 國(國) → 或(或) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 中国民航(中國民航) → 國(國) → 或(或) → 一(一)
+- **definition:** one
+- **pinyin:** yī
+- **etymology:**
+  - **type:** ideogram
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
+- **examples:**
+  - 我有一个苹果(我有一個蘋果)。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一条直路通向远方(一條直路通向遠方)。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+### 中国民航(中國民航) → 民(民)
+- **definition:** people; civil
+- **pinyin:** mín
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts an eye stabbed by a needle, symbolizing oppression of the people ->
+    - people
+  - **interpretation:** The character 民(民) (mín, 'people') originally depicted an eye being pierced by a tool, a metaphor for the suffering and experiences of the common people. This imagery evolved to represent the broader concept of the populace.
+- **examples:**
+  - 勤劳的民(勤勞的民)，构成国家的支柱(構成國家的支柱)。
+    - Qínláo de mín, gòuchéng guójiā de zhīzhù.
+    - Hardworking people form the backbone of the nation.
+  - 民是国家不可忽视的力量(民是國家不可忽視的力量)。
+    - Mín shì guójiā bùkě hūshì de lìliàng.
+    - The people are an indispensable force in the country.
+  - 民聚沙成塔(民聚沙成塔)。
+    - Mín jù shā chéng tǎ.
+    - People can achieve great feats through unity.
+### 中国民航(中國民航) → 航(航)
+- **definition:** navigation; aviation
+- **pinyin:** háng
+- **components:**
+  - 舟
+    - zhōu
+    - boat
+  - 亢
+    - kàng
+    - high
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 舟(舟) (zhōu, "boat") + 亢(亢) (kàng, "high") =
+    - vessel-related concept with sound from phonetic ->
+    - navigation or aviation
+  - **interpretation:** The character 航 combines the semantic 舟(舟) (zhōu, "boat"), indicating its association with boats or vessels, and the phonetic 亢(亢) (kàng), which contributes to its pronunciation, thus relating to activities involving navigation or aviation.
+- **examples:**
+  - 飞机在蓝天中航行(飛機在藍天中航行)。
+    - Fēijī zài lántiān zhōng hángxíng.
+    - The airplane navigates in the blue sky.
+  - 古代水手依靠星辰航向(古代水手依靠星辰航向)，开启远航梦想(開啟遠航夢想)。
+    - Gǔdài shuǐshǒu yīkào xīngchén hángxiàng, kāiqǐ yuǎn háng mèngxiǎng.
+    - Ancient sailors relied on the stars for navigation and set off on dreams of long voyages.
+### 中国民航(中國民航) → 航(航) → 舟(舟)
+- **definition:** boat
+- **pinyin:** zhōu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a boat
+  - **interpretation:** The character 舟(舟) (zhōu, "boat") visually represents the outline of a boat, reflecting its function and form.
+- **examples:**
+  - 小舟在湖中摇曳(小舟在湖中搖曳)。
+    - Xiǎo zhōu zài hú zhōng yáoyè.
+    - The small boat sways on the lake.
+  - 他驾着一只小舟(他駕著一隻小舟)，穿过雾气弥漫的河面(穿過霧氣彌漫的河面)。
+    - Tā jiàzhe yī zhōu, chuānguò wùqì mímàn de hémiàn.
+    - He steers a small boat, crossing a river shrouded in mist.
+  - 清晨时分舟载行人(清晨時分舟載行人)，穿过古镇河流(穿過古鎮河流)。
+    - Qīngchén shífèn zhōu zài xíngrén, chuānguò gǔzhèn héliú.
+    - In the early morning, the boat carries passengers as it passes through the ancient town's river.
+### 中国民航(中國民航) → 航(航) → 亢(亢)
+- **definition:** high
+- **pinyin:** kàng
+- **components:**
+  - 二
+    - èr
+    - two
+  - 人
+    - rén
+    - person
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 二(二) (èr, "two") above 人(人) (rén, "person") =
+    - person lifting something high
+  - **interpretation:** The character 亢(亢) (kàng, "high") visually represents a person standing with arms raised, symbolizing the idea of lifting or being elevated. The combination of two horizontal strokes above a person conveys the notion of height or reaching upwards.
+- **examples:**
+  - 他的情绪亢奋(他的情緒亢奮)。
+    - tā de qíngxù kàng fèn。
+    - His mood is highly excited.
+  - 山峰高耸(山峰高聳)，气势亢然(氣勢亢然)。
+    - shānfēng gāosǒng, qìshì kàng rán。
+    - The mountains tower high, and their momentum is exalted.
+### 中国民航(中國民航) → 航(航) → 亢(亢) → 二(二)
+- **definition:** two
+- **pinyin:** èr
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Depicts two parallel strokes ->
+    - represents the number two
+  - **interpretation:** The character 二(二) (èr, "two") consists of two horizontal lines that visually represent the concept of 'two'. This method of using parallel strokes to denote numbers is a straightforward representation of quantity, similar to how 一(一) (yī, "one") represents 'one' and 三(三) (sān, "three") represents 'three'.
+- **examples:**
+  - 我有二支笔(我有二支筆)。
+    - Wǒ yǒu èr zhī bǐ.
+    - I have two pens.
+  - 他买了二个苹果(他買了二個蘋果)，我们一起分享(我們一起分享)。
+    - Tā mǎi le èr gè píngguǒ, wǒmen yīqǐ fēnxiǎng.
+    - He bought two apples, and we shared them together.
+### 中国民航(中國民航) → 航(航) → 亢(亢) → 人(人)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+---
+## 中国民航(中國民航)
+### Zhōngguó Mínháng
+---
+## Civil Aviation Administration of China (CAAC)
+%%%
+## 起飞(起飛)
+---
+## to take off
+### qǐfēi
+---
+- **definition:** to take off
+- **pinyin:** qǐfēi
+- **components:**
+  - 起
+    - qǐ
+    - rise; initiate; begin; get up
+  - 飛
+    - fēi
+    - fly; flutter; hover; rush
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 起(起) (qǐ, "rise") + 飛(飛) (fēi, "fly") =
+    - rise up to fly ->
+    - take off
+  - **interpretation:** The combination of 起(起) (qǐ, "rise") and 飛(飛) (fēi, "fly") conveys the action of an aircraft lifting off the ground to begin flying. This is a straightforward and literal representation of the concept of taking off.
+- **examples:**
+  - 飞机起飞(飛機起飛)。
+    - Fēijī qǐfēi.
+    - The airplane takes off.
+  - 飞机在跑道上加速(飛機在跑道上加速)，很快起飞(很快起飛)。
+    - Fēijī zài pǎodào shàng jiāsù, hěn kuài qǐfēi.
+    - The airplane accelerates on the runway, then takes off quickly.
+  - 准备完毕(準備完畢)，飞机起飞(飛機起飛)。
+    - Zhǔnbèi wánbì, fēijī qǐfēi.
+    - After getting ready, the airplane takes off.
+### 起飞(起飛) → 起(起)
+- **definition:** rise; initiate; begin; get up
+- **pinyin:** qǐ
+- **components:**
+  - 走
+    - zǒu
+    - walk
+  - 巳
+    - sì
+    - sixth terrestrial branch
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 走(走) (zǒu, "walk") + phonetic: 巳(巳) (sì, "sixth terrestrial branch") =
+    - implying movement or ascent ->
+    - rise, begin
+  - **interpretation:** The character 起(起) (qǐ, "rise") combines 走(走) (zǒu, "walk"), indicating motion or activity, with 巳(巳) (sì, "sixth terrestrial branch"), contributing the phonetic element. This combination intuitively represents the concept of rising or beginning.
+- **examples:**
+  - 我早上起床(我早上起床)。
+    - Wǒ zǎoshang qǐ chuáng.
+    - I get up in the morning.
+  - 太阳升起时(太陽升起時)，世界变得明亮(世界變得明亮)。
+    - Tàiyáng shēng qǐ shí, shìjiè biàn dé míngliàng.
+    - When the sun rises, the world becomes bright.
+  - 他鼓起勇气(他鼓起勇氣)，面对挑战(面對挑戰)。
+    - Tā gǔ qǐ yǒngqì, miànduì tiǎozhàn.
+    - He mustered his courage to face the challenges.
+### 起飞(起飛) → 起(起) → 走(走)
+- **definition:** walk
+- **pinyin:** zǒu
+- **components:**
+  - 止
+    - zhǐ
+    - foot
+  - 夭
+    - yāo
+    - young
+  - 土
+    - tǔ
+    - earth
+  - 龰
+    - yuè
+    - walking
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Running man (original depiction) + 止(止) (zhǐ, "foot") added later ->
+    - top 夭(夭) (yāo, "young") simplified to 土(土) (tǔ, "earth"), bottom stylized as 龰 ->
+    - modern 走
+  - **interpretation:** The character originally depicted a man running, with an added foot to emphasize movement. Over time, elements like the top 夭(夭) were simplified to 土(土), and the bottom was stylized to 龰, although they are unrelated to the original meaning.
+- **examples:**
+  - 看到前方火光时(看到前方火光時)，他急忙走向安全地带(他急忙走向安全地帶)。
+    - Kàndào qiánfāng huǒguāng shí, tā jímáng zǒu xiàng ānquán dìdài.
+    - When he saw the firelight ahead, he hurriedly ran toward safety.
+  - 比赛开始后(比賽開始後)，选手们奋力走向终点(選手們奮力走向終點)。
+    - Bǐsài kāishǐ hòu, xuǎnshǒu men fènlì zǒu xiàng zhōngdiǎn.
+    - After the race began, the contestants ran towards the finish line.
+### 起飞(起飛) → 起(起) → 走(走) → 止(止)
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 趾
+    - zhǐ
+    - foot
+  - 龰
+    - yù
+    - stylized feet
+  - 手
+    - shǒu
+    - hand
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Original: Foot pointing up with 3 toes and a sole ->
+    - Stylized as 龰 ->
+    - Derivative 趾 refers to original 'foot' meaning
+  - **interpretation:** Originally depicting a footprint with toes and a sole, 止(止) (zhǐ, "foot") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.
+- **examples:**
+  - 他受伤的止需要静养(他受傷的止需要靜養)。
+    - Tā shòu shāng de zhǐ xū yào jìng yǎng.
+    - His injured foot needs adequate rest.
+  - 他走路时小心谨慎(他走路時小心謹慎)，因为止若受伤便难前行(因爲止若受傷便難前行)。
+    - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
+    - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
+### 起飞(起飛) → 起(起) → 走(走) → 止(止) → 趾(趾)
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 足
+    - zú
+    - foot
+  - 止
+    - zhǐ
+    - stop
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 足(足) (zú, "foot") + 止(止) (zhǐ, "stop") =
+    - semantic: foot + phonetic: stop ->
+    - toe
+  - **interpretation:** The character combines 足(足) (zú, "foot") as the semantic indicator and 止(止) (zhǐ, "stop") as the phonetic component to represent the idea of a 'toe,' which is a part of the foot.
+- **examples:**
+  - 他的趾因寒冷而僵硬了(他的趾因寒冷而僵硬了)。
+    - tā de zhǐ yīn hánlěng ér jiāngyìng le.
+    - His toe became stiff due to the cold.
+  - 我走路时(我走路時)，不小心扭到了趾(不小心扭到了趾)。
+    - wǒ zǒulù shí, bù xiǎoxīn niǔ dào le zhǐ.
+    - While I was walking, I accidentally twisted my toe.
+  - 古代剑客战斗时(古代劍客戰鬥時)，常因疏忽伤及趾(常因疏忽傷及趾)。
+    - gǔdài jiànkè zhàndòu shí, cháng yīn shūhū shāng jí zhǐ.
+    - Ancient swordsmen often injured their toes due to carelessness during battles.
+### 起飞(起飛) → 起(起) → 走(走) → 止(止) → 趾(趾) → 足(足)
+- **definition:** foot
+- **pinyin:** zú
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a leg ->
+    - originally depicted as ⽦ ->
+    - represents 'foot'
+  - **interpretation:** The character 足(zú, 'foot') is a pictographic representation of a human leg, which directly portrays the concept of a 'foot'. The pictographic origin emphasizes its fundamental meaning in the language.
+- **examples:**
+  - 他受伤后(他受傷後)，他的足不能动(他的足不能動)。
+    - tā shòushāng hòu, tā de zú bù néng dòng。
+    - After he was injured, his foot couldn't move.
+  - 小明打球时(小明打球時)，不小心扭伤了足(不小心扭傷了足)。
+    - xiǎo míng dǎ qiú shí, bù xiǎoxīn niǔ shāng le zú。
+    - When Xiaoming was playing ball, he accidentally twisted his foot.
+  - 我每天锻炼足部(我每天鍛鍊足部)。
+    - wǒ měitiān duànliàn zúbù。
+    - I exercise my foot muscles every day.
+### 起飞(起飛) → 起(起) → 走(走) → 止(止) → 龰(龰)
+- **definition:** stylized feet
+- **pinyin:** yù
+- **components:**
+  - 止
+    - zhǐ
+    - footprint
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a footprint pointing up, originally meant 'foot' ->
+    - stylized as 龰
+  - **interpretation:** 龰 is a stylized representation of a foot, derived from the pictogram 止(止) (zhǐ, 'footprint'). It originally depicted a footprint pointing upward and represents the basic form of a foot, preserved in its stylization as 龰.
+### 起飞(起飛) → 起(起) → 走(走) → 止(止) → 手(手)
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手(手) (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他用手写字(他用手寫字)。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈妈牵着我的手走路(媽媽牽著我的手走路)。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
+### 起飞(起飛) → 起(起) → 走(走) → 夭(夭)
+- **definition:** young
+- **pinyin:** yāo
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Depicts a figure leaning forward, presumably running ->
+    - energetic, young
+  - **interpretation:** The character 夭(yāo) ("young") visually represents someone leaning forward in a motion that suggests energy and vitality associated with youthfulness. This imagery aligns with the concept of being lively or young.
+- **examples:**
+  - 他还夭(夭)，意气风发(意氣風發)。
+    - Tā hái yāo, yìqì fēngfā。
+    - He is still young, full of youthful vigor.
+  - 小女孩还夭(夭)，充满无限活力(充滿無限活力)。
+    - Xiǎo nǚhái hái yāo, chōngmǎn wúxiàn huólì。
+    - The little girl is still young, filled with boundless energy.
+### 起飞(起飛) → 起(起) → 走(走) → 土(土)
+- **definition:** earth
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 起飞(起飛) → 起(起) → 巳(巳)
+- **definition:** sixth terrestrial branch
+- **pinyin:** sì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a fetus or snake.
+  - **interpretation:** The character 巳(sì, "fetus") likely represents the shape of a fetus curled in the womb or possibly the sinuous form of a snake. This ambiguity is due to its pictographic origin, imitating the curves and forms seen in nature.
+- **examples:**
+  - 那小小的巳(那小小的巳)在温暖的子宫中悄然成长(在溫暖的子宮中悄然成長)。
+    - Nà xiǎoxiǎo de sì zài wēnnuǎn de zǐgōng zhōng qiǎorán chéngzhǎng.
+    - The tiny fetus is growing quietly in the warm womb.
+  - 医生发现巳异常(醫生發現巳異常)，提醒家长早期注意(提醒家長早期注意)。
+    - Yīshēng fāxiàn sì yìcháng, tíxǐng jiāzhǎng zǎoqī zhùyì.
+    - The doctor found an abnormality in the fetus and urged the parents to pay early attention.
+  - 母亲感受到巳微弱的心跳(母親感受到巳微弱的心跳)伴随着温柔的希望(伴隨著溫柔的希望)。
+    - Mǔqīn gǎnshòudào sì wēiruò de xīntiào bànsuízhe wēnróu de xīwàng.
+    - The mother felt the fetus's faint heartbeat accompanied by a gentle hope.
+### 起飞(起飛) → 飛(飛)
+- **definition:** fly; flutter; hover; rush
+- **pinyin:** fēi
+- **components:**
+  - 升
+    - shēng
+    - rise
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a bird flying upwards, resembles a tasseled 升(升) (shēng, "rise")
+  - **interpretation:** The character 飛(fēi, "fly") is a pictogram representing a bird in flight, capturing the upward motion and dynamic nature of flying. Its resemblance to 升(升) reflects the concept of rising or ascending, which is inherent to the action of flying.
+  - **simplification:** The simplified form 飞(飛) was created by streamlining the strokes while maintaining the shape of the original pictogram.
+- **examples:**
+  - 小鸟在蓝天中飛(小鳥在藍天中飛)。
+    - Xiǎo niǎo zài lántiān zhōng fēi.
+    - The little bird flies in the blue sky.
+  - 风筝在空中飛(風箏在空中飛)，云朵悠然飛(雲朵悠然飛)。
+    - Fēngzhēng zài kōngzhōng fēi, yúnduǒ yōurán fēi.
+    - The kite flies in the sky, and the clouds hover gracefully.
+  - 燕子掠过屋檐飛(燕子掠過屋檐飛)，春风中悠然飛(春風中悠然飛)。
+    - Yànzi luèguò wūyán fēi, chūnfēng zhōng yōurán fēi.
+    - The swallow flies past the eaves, and in the spring breeze it soars gracefully.
+### 起飞(起飛) → 飛(飛) → 升(升)
+- **definition:** rise
+- **pinyin:** shēng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a dipper ->
+    - used to represent volume or measure
+  - **interpretation:** The character 升(shēng, 'rise') originally depicted a measuring device, like a dipper, used for rice or liquids, emphasizing its function related to measurement or capacity.
+- **examples:**
+  - 太阳升起了(太陽升起了)。
+    - Tàiyáng shēngqǐ le.
+    - The sun has risen.
+  - 太阳缓缓升起(太陽緩緩升起)，照亮大地(照亮大地)。
+    - Tàiyáng huǎn huǎn shēngqǐ, zhàoliàng dàdì.
+    - The sun slowly rises, illuminating the earth.
+---
+## 起飞(起飛)
+### qǐfēi
+---
+## to take off
+%%%
+## 停车场(停車場)
+---
+## parking lot
+### tíngchēchǎng
+---
+- **definition:** parking lot
+- **pinyin:** tíngchēchǎng
+- **components:**
+  - 停
+    - tíng
+    - stop; halt
+  - 車
+    - chē
+    - vehicle; car
+  - 場
+    - chǎng
+    - field; place; venue
+- **etymology:**
+  - **type:** compound word
+  - **description:** 停(停) (tíng, "stop"), 車(車) (chē, "vehicle"), 場(場) (chǎng, "field; place")
+  - **interpretation:** The word 停車場 (tíngchēchǎng) combines 停(停) (tíng, "stop"), 車(車) (chē, "vehicle"), and 場(場) (chǎng, "field; place") to refer to a designated area where vehicles are stopped and parked. This combination makes sense because it specifies a place specifically meant for the cessation and storage of vehicles.
+- **examples:**
+  - 停车场很大(停車場很大)。
+    - Tíngchēchǎng hěn dà.
+    - The parking lot is very large.
+  - 我去停车场(我去停車場)，寻找一个空位(尋找一個空位)。
+    - Wǒ qù tíngchēchǎng, xúnzhǎo yīgè kòngwèi.
+    - I go to the parking lot to look for an empty spot.
+  - 早晨上班时(早晨上班時)，停车场已经满了(停車場已經滿了)。
+    - Zǎochén shàngbān shí, tíngchēchǎng yǐjīng mǎnle.
+    - During the morning rush, the parking lot is already full.
+### 停车场(停車場) → 停(停)
+- **definition:** stop; halt
+- **pinyin:** tíng
+- **components:**
+  - 亻
+    - rén
+    - person
+  - 亭
+    - tíng
+    - pavilion
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Semantic 亻(亻) (rén, "person") + Phonetic 亭(亭) (tíng, "pavilion") ->
+    - associated with a place where people stop or rest ->
+    - "to stop; to park"
+  - **interpretation:** The character 停(tíng) combines the person radical 亻(亻) to show that stopping is an action related to humans, with the phonetic component 亭(亭) to provide pronunciation. The meaning evolves from a person staying or pausing, similar to resting in a pavilion.
+- **examples:**
+  - 车子停在路旁边(車子停在路旁邊)。
+    - Chēzǐ tíng zài lù pángbiān.
+    - The car stopped by the roadside.
+  - 司机停车时(司機停車時)，调整方向后再出发(調整方向後再出發)。
+    - Sījī tíngchē shí, tiáozhěng fāngxiàng hòu zài chūfā.
+    - The driver, after parking, adjusted the steering before setting off again.
+  - 因为大雪(因為大雪)，学校停课(學校停課)。
+    - Yīnwèi dàxuě, xuéxiào tíngkè.
+    - Due to heavy snow, school classes were canceled.
+### 停车场(停車場) → 停(停) → 亻(亻)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - 亻(亻) (rén, "person") is a stylization of 人(人) (rén, "person") ->
+    - simplified for use as a component in other characters
+  - **interpretation:** 亻(亻) (rén, "person") is used as a component form of 人(人) (rén, "person") in compound characters, representing the human or person-related aspect.
+- **examples:**
+  - 亻是构成许多汉字的关键部首(亻是構成許多漢字的關鍵部首)。
+    - Rén shì gòuchéng xǔduō hànzì de guānjiàn bùshǒu.
+    - The radical 亻 is a key component in many Chinese characters.
+  - 学习汉字时(學習漢字時)，了解亻的意义很重要(了解亻的意義很重要)。
+    - Xuéxí hànzì shí, liǎojiě rén de yìyì hěn zhòngyào.
+    - When learning Chinese characters, understanding the meaning of 亻 is important.
+  - 古人造字时常取亻以表达人物情感(古人造字時常取亻以表達人物情感)，因此亻贯穿于文明史中(因此亻貫穿於文明史中)。
+    - Gǔrén zào zì shí cháng qǔ rén yǐ biǎodá rénwù qínggǎn, yīncǐ rén guànchuān yú wénmíng shǐ zhōng.
+    - Ancient people often used the radical 亻 to express human emotions in character formation, and thus 亻 runs through the history of civilization.
+### 停车场(停車場) → 停(停) → 亭(亭)
+- **definition:** pavilion
+- **pinyin:** tíng
+- **components:**
+  - 京
+    - jīng
+    - tower
+  - 丁
+    - dīng
+    - nail
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 京(京) (jīng, "tower") + 丁(丁) (dīng, "nail") =
+    - tower form with phonetic nail ->
+    - pavilion
+  - **interpretation:** The character 亭(亭) (tíng, "pavilion") combines the semantic 京(京) (jīng, "tower") representing the tall structure of a pavilion, with the phonetic 丁(丁) (dīng, "nail") to indicate its pronunciation. This combination effectively conveys the concept of a constructed, stable, and prominent building used for leisure or shelter.
+- **examples:**
+  - 庭院里建有一座小亭(庭院裡建有一座小亭)。
+    - Tíng yuàn lǐ jiàn yǒu yī zuò xiǎo tíng.
+    - There is a small pavilion built in the courtyard.
+  - 公园中矗立一座亭(公園中矗立一座亭)，吸引众多游人(吸引眾多遊人)。
+    - Gōng yuán zhōng chù lì yī zuò tíng, xī yǐn zhòng duō yóu rén.
+    - A pavilion stands tall in the park, attracting many visitors.
+  - 湖边的小亭提供休息之所(湖邊的小亭提供休息之所)。
+    - Hú biān de xiǎo tíng tí gōng xiū xí zhī suǒ.
+    - The small pavilion by the lake provides a place to rest.
+### 停车场(停車場) → 停(停) → 亭(亭) → 京(京)
+- **definition:** tower
+- **pinyin:** jīng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tall structure resembling a tower
+  - **interpretation:** The character 京(jīng, "tower") visually captures the essence of a tall, tower-like building. It is a straightforward representation using a simple, vertical form to suggest height.
+- **examples:**
+  - 山顶上矗立着京(山頂上矗立著京)，诉说着古老传说(訴說著古老傳說)。
+    - Shāndǐng shàng chùlì zhe jīng, sùshuō zhe gǔlǎo chuánshuō.
+    - The tower stands on the mountaintop, telling ancient legends.
+  - 夜幕降临时京闪烁着光芒(夜幕降臨時京閃爍著光芒)。
+    - Yèmù jiànglín shí jīng shǎnshuò zhe guāngmáng.
+    - At nightfall, the tower flickers with light.
+### 停车场(停車場) → 停(停) → 亭(亭) → 丁(丁)
+- **definition:** nail
+- **pinyin:** dīng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts the head of a nail ->
+    - 丁
+  - **interpretation:** The character 丁 originally depicted the head of a nail, emphasizing simplicity and directness. While it has developed other interpretations over time, such as a head or city wall, these relate to similar shapes and functions. Today, 釘(釘) (dīng, 'nail') reflects this meaning.
+- **examples:**
+  - 工人熟练地把丁敲进了墙壁(工人熟練地把丁敲進了牆壁)。
+    - Gōngrén shúliàn de bǎ dīng qiāng jìnle qiángbì.
+    - The worker skillfully hammered the nail into the wall.
+  - 他精心挑选了铁质丁(他精心挑選了鐵質丁)，确保家具稳固(確保傢俱穩固)。
+    - Tā jīngxīn tiāoxuǎnle tiě zhì dīng, quèbǎo jiājù wěngù.
+    - He carefully selected the iron nail to ensure the furniture was stable.
+  - 请把散落的丁收好(請把散落的丁收好)。
+    - Qǐng bǎ sànluò de dīng shōuhǎo.
+    - Please gather the scattered nails.
+### 停车场(停車場) → 車(車)
+- **definition:** vehicle; car
+- **pinyin:** chē
+- **components:**
+  - 田
+    - tián
+    - field
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a carriage viewed from above; wheels on both sides + sun shade on top ->
+    - depicted vertically with wheels as strokes and loading area marked by 田(田) (tián, "field") ->
+    - 車
+  - **interpretation:** The character 車(chē, "vehicle") originally depicts a carriage from an overhead perspective. The transformation into the vertical form involved simplifying the depiction of wheels and emphasizing the loading area, marked by a field symbol, creating a streamlined pictographic representation.
+  - **simplification:** The traditional character 車 was simplified to 车 by reducing the number of strokes, maintaining the overall shape of the vehicle but removing intricate details.
+- **examples:**
+  - 我坐车去上班(我坐車去上班)。
+    - Wǒ zuò chē qù shàngbān.
+    - I take a car to go to work.
+  - 这辆车很快(這輛車很快)。
+    - Zhè liàng chē hěn kuài.
+    - This car is very fast.
+  - 我想买一辆新车(我想買一輛新車)。
+    - Wǒ xiǎng mǎi yī liàng xīn chē.
+    - I want to buy a new car.
+### 停车场(停車場) → 車(車) → 田(田)
+- **definition:** field
+- **pinyin:** tián
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a field divided into four sections
+  - **interpretation:** The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.
+- **examples:**
+  - 农民在田里耕作(農民在田裡耕作)。
+    - Nóngmín zài tián lǐ gēngzuò.
+    - The farmer works in the field.
+  - 那边的田长满了庄稼(那邊的田長滿了莊稼)，农民收获忙碌(農民收穫忙碌)。
+    - Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.
+    - The field over there is full of crops, and the farmer is busy harvesting.
+  - 秋收时节(秋收時節)，人们忙于收割田里的稻谷(人們忙於收割田裡的稻谷)。
+    - Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.
+    - During the harvest season, people are busy reaping the rice in the fields.
+### 停车场(停車場) → 場(場)
+- **definition:** field; place; venue
+- **pinyin:** chǎng
+- **components:**
+  - 土
+    - tǔ
+    - earth
+  - 昜
+    - yáng
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 土(土) (tǔ, "earth") + phonetic 昜(昜) (yáng) =
+    - open field on the earth ->
+    - field or place
+  - **interpretation:** The character 場 combines the earth radical 土(土) (tǔ, "earth") with 昜(昜) (yáng) to indicate a physical location or field. The semantic component 土 emphasizes the connection to the ground or land, while 昜 provides the phonetic aspect.
+- **examples:**
+  - 运动场上人潮汹涌(運動場上人潮洶湧)。
+    - Yùn dòng chǎng shàng rén cháo xiōng yǒng.
+    - Crowds surge on the sports field.
+  - 这个场地很宽敞(這個場地很寬敞)，适合举办大型演唱会(適合舉辦大型演唱會)。
+    - Zhè gè chǎng dì hěn kuān chǎng, shì hé jǔ bàn dà xíng yǎn chàng huì.
+    - This venue is spacious and suitable for hosting large concerts.
+  - 音乐会场中回荡着美妙旋律(音樂會場中回蕩著美妙旋律)。
+    - Yīn yuè huì chǎng zhōng huí dàng zhe měi miào xuán lǜ.
+    - Beautiful melodies resonate in the concert hall.
+### 停车场(停車場) → 場(場) → 土(土)
+- **definition:** earth
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 停车场(停車場) → 場(場) → 昜(昜)
+- **pinyin:** yáng
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 丂
+    - kǎo
+    - breath
+  - 彡
+    - xiǎn
+    - rays of light
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 日(日) (rì, "sun") + 丂(丂) (kǎo, "breath") + 彡(彡) (xiǎn, "rays of light") =
+    - rays of the sun shining over a tree branch
+  - **interpretation:** The character 昜(yáng) portrays the concept of the sun's rays shining down, symbolized by 日(日) (rì, "sun") with 丂(丂) representing a tree branch and 彡(彡) depicting the sun's rays. This compound visually encapsulates the light given off by the sun.
+- **examples:**
+  - 日光照耀下时(日光照耀下時)，旗帜高昜飘扬(旗幟高昜飄揚)。
+    - Rìguāng zhàoyào xià shí, qízhì gāo yáng piāoyáng.
+    - Under the shining sunlight, the flag is raised high.
+  - 风儿吹过柳梢时(風兒吹過柳梢時)，心中的梦想也随昜起(心中的夢想也隨昜起)。
+    - Fēng ér chuīguò liǔ shāo shí, xīn zhōng de mèngxiǎng yě suí yáng qǐ.
+    - As the wind passes the tips of the willows, the dreams in the heart rise as well.
+### 停车场(停車場) → 場(場) → 昜(昜) → 日(日)
+- **definition:** sun
+- **pinyin:** rì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the sun; a dot or line added in the center to distinguish from similar characters e.g. 囗
+  - **interpretation:** As a pictogram, 日(rì, 'sun') directly represents the sun. In ancient times, the added dot helped visually differentiate it from other characters. This is analogous to the astronomical symbol ☉ and Egyptian hieroglyph 𓇳, both depicting the sun.
+- **examples:**
+  - 晨曦来临时(晨曦來臨時)，日出东方(日出東方)。
+    - Chénxī láilín shí, rìchū dōngfāng.
+    - At the break of dawn, the sun rises in the east.
+  - 温暖的日光洒满大地(溫暖的日光灑滿大地)。
+    - Wēnnuǎn de rìguāng sǎ mǎn dàdì.
+    - The warm sunlight spreads over the earth.
+  - 中午时分(中午時分)，日高挂天(日高掛天)。
+    - Zhōngwǔ shífēn, rì gāo guà tiān.
+    - At noon, the sun hangs high in the sky.
+### 停车场(停車場) → 場(場) → 昜(昜) → 丂(丂)
+- **definition:** breath
+- **pinyin:** kǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a person bending over, exhaling a breath
+  - **interpretation:** The character 丂(kǎo, "breath") is traditionally viewed as a pictogram representing the action of breathing out, showing a person leaning forward or exhaling. It is vague in modern interpretation due to its simplicity and historical conflation with other similar characters.
+### 停车场(停車場) → 場(場) → 昜(昜) → 彡(彡)
+- **definition:** rays of light
+- **pinyin:** xiǎn
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts three strands of hair ->
+    - used to indicate three light rays in certain contexts
+  - **interpretation:** 彡(shān, "rays") originally depicted strands of hair but also came to represent light rays, reflecting a change in symbolic meaning over time. Its use as a representation of 'ornament' and in characters like 昜 and 參 highlights its versatility in indicating rays or decorative elements.
+- **examples:**
+  - 天空洒下金色的彡(天空灑下金色的彡)，大地迎来温暖(大地迎來溫暖)。
+    - Tiānkōng sǎ xià jīnsè de shān, dàdì yíng lái wēnnuǎn.
+    - The sky showers golden rays, and the earth welcomes warmth.
+  - 晨曦中的彡闪耀着希望(晨曦中的彡閃耀著希望)。
+    - Chénxī zhōng de shān shǎnyào zhe xīwàng.
+    - The rays in the morning light shine with hope.
+---
+## 停车场(停車場)
+### tíngchēchǎng
+---
+## parking lot
+%%%
+## 菜单(菜單)
+---
+## menu
+### càidān
+---
+- **definition:** menu
+- **pinyin:** càidān
+- **components:**
+  - 菜
+    - cài
+    - vegetable; dish
+  - 单(單)
+    - dān
+    - list
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 菜(菜) (cài, "vegetable; dish") + 单(單) (dān, "list") =
+    - 菜單(菜单) (càidān, "menu")
+  - **interpretation:** The word 菜單(菜单) (càidān) combines 菜(菜) (cài, "vegetable; dish") which refers to food or dishes, and 单(單) (dān, "list") indicating a list or record. Together, it logically refers to a list of dishes, or a menu. This reflects the exact purpose of a menu as it provides a list of dishes available to choose from.
+- **examples:**
+  - 请给我看菜单(請給我看菜單)，我想点一道菜(我想點一道菜)。
+    - Qǐng gěi wǒ kàn càidān, wǒ xiǎng diǎn yī dào cài.
+    - Please show me the menu, I want to order a dish.
+  - 这里的菜单很丰富(這裡的菜單很豐富)。
+    - Zhèlǐ de càidān hěn fēngfù.
+    - The menu here is very diverse.
+### 菜单(菜單) → 菜(菜)
+- **definition:** vegetable; dish
+- **pinyin:** cài
+- **components:**
+  - 艹
+    - cǎo
+    - grass; plant
+  - 采
+    - cǎi
+    - pluck
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 艹(艹) (cǎo, "grass; plant") + phonetic 采(采) (cǎi, "pluck") =
+    - concept of plants gathered for consumption ->
+    - vegetable; dish
+  - **interpretation:** The character 菜(cài) conveys the idea of plants that are gathered, emphasizing the connection between agriculture and cuisine. The 艹(艹) component implies vegetation, while 采(采) provides the phonetic cue and ties to the action of picking or collecting.
+- **examples:**
+  - 这道菜很美味(這道菜很美味)。
+    - Zhè dào cài hěn měiwèi.
+    - This dish is very delicious.
+  - 他擅长烹饪(他擅長烹飪)，创新菜式不断涌现(創新菜式不斷湧現)。
+    - Tā shàncháng pēngrèn, chuàngxīn càishì bùduàn yǒngxiàn.
+    - He excels at cooking, and innovative dishes keep emerging.
+  - 街边小摊的菜色丰富(街邊小攤的菜色豐富)。
+    - Jiēbiān xiǎotān de càisè fēngfù.
+    - The street vendor's variety of dishes is abundant.
+### 菜单(菜單) → 菜(菜) → 艹(艹)
+- **definition:** grass; plant
+- **pinyin:** cǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts blades of grass
+  - **interpretation:** 艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.
+- **examples:**
+  - 他写字时用艹作草字的偏旁(他寫字時用艹作草字的偏旁)。
+    - Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.
+    - He uses '艹' as the radical for grass in his characters.
+  - 春天到来时(春天到來時)，艹生长得很快(艹生長得很快)。
+    - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
+    - When spring arrives, grass grows rapidly.
+### 菜单(菜單) → 菜(菜) → 采(採)
+- **definition:** pluck
+- **pinyin:** cǎi
+- **components:**
+  - 爪
+    - zhǎo
+    - claw
+  - 木
+    - mù
+    - tree
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 爪(爪) (zhǎo, 'claw') + 木(木) (mù, 'tree') =
+    - hand grasping tree branch ->
+    - pluck
+  - **interpretation:** The character 采(cǎi, 'pluck') visually represents a claw or hand reaching out to a tree, symbolizing the action of plucking or gathering. This illustrates the intuitive meaning through its pictorial components.
+  - **simplification:** In contemporary Chinese, 采(cǎi) serves both phonetic and semantic functions. The simplified form replaces the traditional form 採(cǎi), which is composed of 扌(shǒu, 'hand') + 采(cǎi, 'pluck'), illustrating the action of plucking with a hand.
+- **examples:**
+  - 她在花园里采花(她在花園裡採花)。
+    - Tā zài huāyuán lǐ cǎi huā.
+    - She is plucking flowers in the garden.
+  - 我和朋友一同去山上采果(我和朋友一同去山上採果)，享受自然(享受自然)。
+    - Wǒ hé péngyǒu yītóng qù shān shàng cǎi guǒ, xiǎngshòu zìrán.
+    - My friend and I go to pluck fruits on the mountain, enjoying nature.
+### 菜单(菜單) → 菜(菜) → 采(採) → 爪(爪)
+- **definition:** claw
+- **pinyin:** zhǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a hand grabbing from above, resembles a claw ->
+    - stylized to represent claws
+  - **interpretation:** The character 爪(爪) (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
+- **examples:**
+  - 猫的爪非常敏捷(貓的爪非常敏捷)。
+    - Māo de zhǎo fēicháng mǐnjié.
+    - The cat's claws are very agile.
+  - 狗的爪稳固(狗的爪穩固)，使它轻松爬山(使它輕鬆爬山)。
+    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
+    - The dog's claws are sturdy, allowing it to climb mountains easily.
+  - 鹰的爪锋利(鷹的爪鋒利)，能牢牢抓住猎物(能牢牢抓住獵物)。
+    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
+    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
+### 菜单(菜單) → 菜(菜) → 采(採) → 木(木)
+- **definition:** tree
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 菜单(菜單) → 单(單)
+- **definition:** list
+- **pinyin:** dān
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 田
+    - tián
+    - field
+- **etymology:**
+  - **type:** Unorthodox variant of 單.
+  - **description:**
+    - Pictogram of a Y-shaped wooden stick A + two stones attached on top B =
+    - weapon for hunting ->
+    - later stylized to resemble 口 (kǒu, 'mouth') resembling 中 (zhōng, 'middle') ->
+    - further stylized as 田 (tián, 'field') with additional horizontal stroke below ->
+    - final form 單(單).
+  - **interpretation:** The character 單(單) intuitively represents a hunting tool or weapon, emphasizing its initial function and eventual simplification and stylization over time. The component 单 in this case represents a simplified form, which might have been used for practical writing needs.
+  - **simplification:** 單(單) was simplified to 单 by eliminating additional strokes, creating a more straightforward representation that aligns with modern writing practices.
+- **examples:**
+  - 请将参加聚会的人员名单准备好(請將參加聚會的人員名單準備好)。
+    - Qǐng jiāng cānjiā jùhuì de rényuán míngdān zhǔnbèi hǎo.
+    - Please prepare the list of people attending the party.
+  - 老师检查了学生考试名单(老師檢查了學生考試名單)。
+    - Lǎoshī jiǎnchá le xuéshēng kǎoshì míngdān.
+    - The teacher checked the list of students taking the exam.
+  - 经理整理了客户订购单(經理整理了客戶訂購單)。
+    - Jīnglǐ zhěnglǐ le kèhù dìnggòu dān.
+    - The manager organized the customers' order list.
+### 菜单(菜單) → 单(單) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 菜单(菜單) → 单(單) → 田(田)
+- **definition:** field
+- **pinyin:** tián
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a field divided into four sections
+  - **interpretation:** The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.
+- **examples:**
+  - 农民在田里耕作(農民在田裡耕作)。
+    - Nóngmín zài tián lǐ gēngzuò.
+    - The farmer works in the field.
+  - 那边的田长满了庄稼(那邊的田長滿了莊稼)，农民收获忙碌(農民收穫忙碌)。
+    - Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.
+    - The field over there is full of crops, and the farmer is busy harvesting.
+  - 秋收时节(秋收時節)，人们忙于收割田里的稻谷(人們忙於收割田裡的稻谷)。
+    - Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.
+    - During the harvest season, people are busy reaping the rice in the fields.
+---
+## 菜单(菜單)
+### càidān
+---
+## menu
+%%%
+## 渴(渴)
+---
+## thirsty
+### kě
+---
+- **definition:** thirsty
+- **pinyin:** kě
+- **components:**
+  - 氵
+    - shuǐ
+    - water
+  - 曷
+    - hé
+    - dry
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 氵(水) (shuǐ, "water") + phonetic: 曷(曷) (hé, "dry") =
+    - dry or exhausted of water ->
+    - thirsty
+  - **interpretation:** The character 渴(kě, "thirsty") combines the water radical 氵(水) to indicate the relation to water, with 曷(曷) (hé, "dry") as the phonetic component, suggesting dryness or a lack of water, which directly conveys the concept of thirst.
+- **examples:**
+  - 我感觉非常渴(我感覺非常渴)。
+    - Wǒ gǎnjué fēicháng kě.
+    - I feel very thirsty.
+  - 长时间运动后(長時間運動後)，他开始感到渴(他開始感到渴)。
+    - Cháng shíjiān yùndòng hòu, tā kāishǐ gǎndào kě.
+    - After long exercise, he started to feel thirsty.
+  - 口渴时(口渴時)，喝一杯冰水很解乏(喝一杯冰水很解乏)。
+    - Kǒu kě shí, hē yì bēi bīngshuǐ hěn jiěfá.
+    - When thirsty, drinking a glass of iced water is very refreshing.
+### 渴(渴) → 氵(氵)
+- **definition:** water
+- **pinyin:** shuǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - 氵is the radical form of 水(水) (shuǐ, "water") ->
+    - depicts flowing water, compressed and stylized next to characters.
+  - **interpretation:** The character 氵is a simplified variant used as a radical to represent water-related meanings in other characters. It retains the flowing water depiction of 水(水) (shuǐ, "water") but is stylized to fit alongside other components.
+- **examples:**
+  - 水是生命之源(水是生命之源)。
+    - Shuǐ shì shēngmìng zhī yuán.
+    - Water is the source of life.
+  - 汉字中偏旁氵(漢字中偏旁氵)，代表水(代表水)。
+    - Hànzì zhōng piān páng shuǐ, dàibiǎo shuǐ.
+    - In Chinese characters, the radical '氵' signifies water.
+  - 河水清澈透明(河水清澈透明)，鱼儿欢快戏水(魚兒歡快戲水)。
+    - Hé shuǐ qīngchè tòumíng, yú er huānkuaì xì shuǐ.
+    - The river water is clear and transparent, and the fish happily play in it.
+### 渴(渴) → 曷(曷)
+- **definition:** dry
+- **pinyin:** hé
+- **components:**
+  - 匃
+    - gài
+    - to beg
+  - 曰
+    - yuē
+    - to say
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 匃 (phonetic) + 曰 (semantic) =
+    - phonetic value and meaning ->
+    - 'dry'
+  - **interpretation:** The character 曷 (hé, 'dry') is a phono-semantic compound where 匃 (gài, 'to beg') contributes the phonetic value, and 曰 (yuē, 'to say') implies the semantic context. The compound doesn't straightforwardly refer to 'dry,' but its components work together to create a distinct character often used in classical texts and idiomatic expressions.
+### 渴(渴) → 曷(曷) → 匃(匃)
+- **definition:** to beg
+- **pinyin:** gài
+- **components:**
+  - 丐
+    - gài
+    - to beg
+- **etymology:**
+  - **type:** variant form
+  - **description:**
+    - Since 匃 is a variant of 丐(丐) (gài, "to beg"), it shares the same root but is stylized differently ->
+    - traditionally used in similar contexts as a variant
+  - **interpretation:** As a variant of 丐(丐) (gài, "to beg"), 匃 lacks unique components for standard analysis and instead reflects a visual or orthographic alternative to convey the same meaning.
+### 渴(渴) → 曷(曷) → 匃(匃) → 丐(丐)
+- **definition:** to beg
+- **pinyin:** gài
+- **components:**
+  - 匄
+    - gài
+    - original meaning unknown
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Corruption of 匄(匄) (gài, original meaning unknown) ->
+    - final form 丐(丐) (gài, 'beggar')
+  - **interpretation:** 丐(丐) (gài) is derived from 匄(匄), which originally had an unknown meaning, possibly 'to damage'. Over time, 丐(丐) evolved into its current use to mean 'beggar'. The transformation appears to involve a simplification or corruption of the original form, indicating a shift in both form and meaning.
+- **examples:**
+  - 街上有个丐(街上有個丐)，他四处讨饭(他四處討飯)。
+    - Jiē shàng yǒu gè gài, tā sì chù tǎo fàn.
+    - There is a beggar on the street, and he begs for food everywhere.
+  - 他曾是繁华都市边缘的丐(他曾是繁華都市邊緣的丐)，今日落魄街头(今日落魄街頭)。
+    - Tā céng shì fán huá dū shì biān yuán de gài, jīn rì luò pò jiē tóu.
+    - He used to be a beggar on the outskirts of a bustling city, but today he is destitute on the street.
+### 渴(渴) → 曷(曷) → 匃(匃) → 丐(丐) → 匄(匄)
+- **definition:** original meaning unknown
+- **pinyin:** gài
+- **components:**
+  - 亡
+    - wáng
+    - perish
+  - 刀
+    - dāo
+    - knife
+  - 丐
+    - gài
+    - beg
+  - 匃
+    - gài
+    - empty
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 亡(亡) (wáng, "perish") inside 刀(刀) (dāo, "knife") ->
+    - tip of a blade ->
+    - original meaning uncertain, possibly "damage" ->
+    - original form of 丐 and 匃
+  - **interpretation:** 匄(匄) (gài) combines 亡(亡) (wáng, "perish"), suggesting loss or deprivation, with 刀(刀) (dāo, "knife"), possibly indicating cutting or damage. Its exact historical meaning is unclear, but it was the precursor to characters like 丐(丐) and 匃(匃), which are associated with begging or poverty, suggesting a link to deprivation.
+### 渴(渴) → 曷(曷) → 匃(匃) → 丐(丐) → 匄(匄) → 亡(亡)
+- **definition:** perish
+- **pinyin:** wáng
+- **components:**
+  - 刀
+    - dāo
+    - knife
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Line on 刀(刀) (dāo, "knife") indicates cutting edge ->
+    - disappearance of knowledge ->
+    - perish
+  - **interpretation:** The character 亡(wáng) visually represents the sharp, cutting edge of a knife, which metaphorically implies the loss of life or things 'perishing'. Over time, it came to signify broader concepts of disappearance and extinction.
+- **examples:**
+  - 国破(國破)，家亡(家亡)。
+    - Guó pò, jiā wáng.
+    - The country is broken, the family perishes.
+  - 经过激战时(經過激戰時)，士兵亡(士兵亡)。
+    - Jīngguò jīzhàn shí, shìbīng wáng.
+    - During the intense battle, the soldiers perished.
+### 渴(渴) → 曷(曷) → 匃(匃) → 丐(丐) → 匄(匄) → 刀(刀)
+- **definition:** knife
+- **pinyin:** dāo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a knife
+  - **interpretation:** 刀(刀) (dāo, "knife") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.
+- **examples:**
+  - 他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。
+    - tā yòng fēnglì de dāo, qiē kāi shūcài.
+    - He uses a sharp knife to cut vegetables.
+  - 这把刀(這把刀)非常锋利(非常鋒利)。
+    - zhè bǎ dāo fēicháng fēnglì.
+    - This knife is very sharp.
+  - 厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。
+    - chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.
+    - The chef holds the knife carefully and slices meat for the guest.
+### 渴(渴) → 曷(曷) → 曰(曰)
+- **definition:** to say
+- **pinyin:** yuē
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth, signifying speech
+  - **interpretation:** The character 曰(曰) (yuē, "say") visually resembles a mouth or an opening, symbolizing the action of speaking or saying something.
+- **examples:**
+  - 老师曰(老師曰)：勤奋是成功之母(勤奮是成功之母)。
+    - Lǎoshī yuē：qínfèn shì chénggōng zhī mǔ。
+    - The teacher said, 'Diligence is the mother of success.'
+  - 孔子曰(孔子曰)，学而不思则罔(學而不思則罔)。
+    - Kǒngzǐ yuē, xué ér bù sī zé wǎng。
+    - Confucius said, 'Learning without thought leads to confusion.'
+  - 老子曰(老子曰)，无为而治(無為而治)。
+    - Lǎozǐ yuē, wúwéi ér zhì。
+    - Laozi said, 'Governance should be achieved through non-action.'
+---
+## 渴(渴)
+### kě
+---
+## thirsty
+%%%
+## 熊(熊)
+---
+## bear
+### xióng
+---
+- **definition:** bear
+- **pinyin:** xióng
+- **components:**
+  - 能
+    - néng
+    - bear
+  - 炎
+    - yán
+    - flame
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 能(能) (néng, "bear") + stylized form of 炎(炎) (yán, "flame") =
+    - original onomatopoeic word for "raging flame" ->
+    - borrowed to mean "bear"
+  - **interpretation:** The character 熊(xióng) was initially an onomatopoeic term for the raging flame, where the semantic element, 能(能) (néng, "bear"), indicates its original meaning. It was later borrowed to signify "bear" when the concept required a representation, utilizing the abbreviated form of 炎(炎) (yán, "flame") as the phonetic component.
+- **examples:**
+  - 那只熊看起来很可爱(那隻熊看起來很可愛)。
+    - Nà zhī xióng kàn qǐlái hěn kě'ài.
+    - That bear looks very cute.
+  - 森林里有很多熊(森林裡有很多熊)，人们也要小心(人們也要小心)。
+    - Sēnlín lǐ yǒu hěn duō xióng, rénmen yě yào xiǎoxīn.
+    - There are many bears in the forest, and people must be careful.
+  - 冬天来临时(冬天來臨時)，熊会准备过冬(熊會準備過冬)。
+    - Dōngtiān láilín shí, xióng huì zhǔnbèi guòdōng.
+    - When winter comes, bears prepare for winter.
+### 熊(熊) → 能(能)
+- **definition:** bear
+- **pinyin:** néng
+- **components:**
+  - 匕
+    - bǐ
+    - spoon
+  - 月
+    - yuè
+    - moon
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a bear: two paws stylized as 匕(匕) (bǐ, "spoon") + face/mouth stylized as 月(月) (yuè, "moon")
+  - **interpretation:** The character 能(néng), originally meant to represent a bear, combines elements stylized as paws and a face to visually convey an animal's features. Over time, this depiction of a bear has lent its phonetic value to words associated with ability and energy.
+- **examples:**
+  - 这座桥能承受大风(這座橋能承受大風)。
+    - Zhè zuò qiáo néng chéngshòu dà fēng.
+    - This bridge can bear strong winds.
+  - 他能承受巨大压力(他能承受巨大壓力)。
+    - Tā néng chéngshòu jùdà yālì.
+    - He can bear tremendous pressure.
+  - 这台电脑能运行复杂程序(這台電腦能運行複雜程序)，满足现代需求(滿足現代需求)。
+    - Zhè tái diànnǎo néng yùnxíng fùzá chéngxù, mǎnzú xiàndài xūqiú.
+    - This computer can run complex programs, meeting modern needs.
+### 熊(熊) → 能(能) → 匕(匕)
+- **definition:** spoon
+- **pinyin:** bǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the shape of a spoon or dagger, indicating an object with a handle.
+  - **interpretation:** The character 匕 (bǐ, "cane") originally depicts a spoon or dagger, highlighting its application as a tool with a handle, which conceptually relates to a cane.
+- **examples:**
+  - 他用匕支撑自己(他用匕支撐自己)，慢慢走过崎岖的小路(慢慢走過崎嶇的小路)。
+    - Tā yòng bǐ zhīchēng zìjǐ, màn màn zǒuguò qíqū de xiǎolù.
+    - He supports himself with his cane, and slowly walks along the rugged path.
+  - 老人依靠匕(老人依靠匕)，缓缓行走在乡间小道(緩緩行走在鄉間小道)。
+    - Lǎorén yīkào bǐ, huǎn huǎn xíngzǒu zài xiāngjiān xiǎodào.
+    - The old man relies on his cane, and gently walks on the country lane.
+### 熊(熊) → 能(能) → 月(月)
+- **definition:** moon
+- **pinyin:** yuè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a crescent moon
+  - **interpretation:** The character 月(yuè, "moon") is a pictographic representation of a crescent moon, straightforwardly capturing the curved shape often associated with the moon's appearance. Though interchangeable with 夕 (xī, "evening") in the past, it distinctly represents the moon in this usage.
+- **examples:**
+  - 夜空挂着明月(夜空掛著明月)。
+    - Yè kōng guà zhe míng yuè.
+    - The bright moon hangs in the night sky.
+  - 人们赏月(人們賞月)，寄托相思(寄託相思)。
+    - Rén men shǎng yuè, jì tuō xiāng sī.
+    - People enjoy the moon, expressing their longing.
+### 熊(熊) → 炎(炎)
+- **definition:** flame
+- **pinyin:** yán
+- **components:**
+  - 火
+    - huǒ
+    - fire
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 火(火) (huǒ, 'fire') + 火(火) (huǒ, 'fire') =
+    - two fires together ->
+    - flame, inflammation
+  - **interpretation:** The character combines two 火(火) (huǒ, 'fire') symbols, emphasizing an intense or extensive fire. This conveys the meanings of 'flame' and 'inflammation', as both involve a spreading or intensified heat.
+- **examples:**
+  - 他因感冒导致喉咙炎(他因感冒導致喉嚨炎)。
+    - Tā yīn gǎnmào dǎozhì hóulóng yán.
+    - He developed throat inflammation due to a cold.
+  - 壁炉里燃烧着炎(壁爐裡燃燒著炎)。
+    - Bìlú lǐ ránshāo zhe yán.
+    - Flames are burning in the fireplace.
+### 熊(熊) → 炎(炎) → 火(火)
+- **definition:** fire
+- **pinyin:** huǒ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts flames rising from a fire
+  - **interpretation:** The character 火(火) (huǒ, "fire") visually represents flames flickering upwards, which intuitively conveys the essence of fire. This simple depiction is an effective way to capture the dynamic and essential nature of fire.
+- **examples:**
+  - 火在壁炉中熊熊燃烧(火在壁爐中熊熊燃燒)。
+    - Huǒ zài bìlú zhōng xióngxióng ránshāo.
+    - The fire burns fiercely in the fireplace.
+  - 野外露营时(野外露營時)，火能驱走寒冷(火能驅走寒冷)。
+    - Yěwài lùyíng shí, huǒ néng qūzǒu hánlěng.
+    - When camping outdoors, the fire can drive away the cold.
+  - 遇到火灾时(遇到火災時)，迅速疏散最为重要(迅速疏散最為重要)。
+    - Yù dào huǒzāi shí, xùnsù shū sàn zuìwéi zhòngyào.
+    - In case of a fire, evacuating quickly is of utmost importance.
+---
+## 熊(熊)
+### xióng
+---
+## bear
+%%%
+## 害怕(害怕)
+---
+## to be afraid
+### hàipà
+---
+- **definition:** to be afraid
+- **pinyin:** hàipà
+- **components:**
+  - 害
+    - hài
+    - harm; injure; evil; calamity
+  - 怕
+    - pà
+    - fear; dread; afraid
+- **etymology:**
+  - **type:** compound word
+  - **description:** 害(害) (hài, "harm") + 怕(怕) (pà, "fear") means to experience fear or be afraid of something bad happening.
+  - **interpretation:** The combination of 害(害) (hài, "harm") and 怕(怕) (pà, "fear") suggests the feeling of fear that arises from the anticipation of potential harm or danger.
+- **examples:**
+  - 我害怕大雨(我害怕大雨)。
+    - Wǒ hàipà dàyǔ.
+    - I am afraid of heavy rain.
+  - 当夜深人静时(當夜深人靜時)，我害怕孤独(我害怕孤獨)。
+    - Dāng yè shēn rén jìng shí, wǒ hàipà gūdú.
+    - When the night is quiet, I am afraid of loneliness.
+### 害怕(害怕) → 害(害)
+- **definition:** harm; injure; evil; calamity
+- **pinyin:** hài
+- **components:**
+  - 宀
+    - mián
+    - roof
+  - 口
+    - kǒu
+    - mouth
+  - 丯
+    - jiè
+    - aid
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Semantic 宀(宀) (mián, "roof") + Semantic 口(口) (kǒu, "mouth") + Phonetic 丯(丯) =
+    - a structure covering a vocal element, suggesting confinement or restriction ->
+    - harm
+  - **interpretation:** The character 害(hài) consists of a roof 宀(宀), representing a covered or enclosed space, combined with 口(口), indicating concepts related to speech or mouth. The phonetic 丯 helps to articulate the sound. Together, the character conveys the idea of harm as being restricted or constrained, perhaps metaphorically linked to being silenced or confined under the roof.
+- **examples:**
+  - 虚假的信息会害人(虛假的信息會害人)。
+    - xūjiǎ de xìnxī huì hài rén.
+    - False information harms people.
+  - 谣言散播(謠言散播)，必然会害到社会(必然會害到社會)。
+    - yáoyán sànbō, bìrán huì hài dào shèhuì.
+    - Spreading rumors will certainly harm society.
+  - 一时的愤怒会害自己(一時的憤怒會害自己)，招来麻烦(招來麻煩)。
+    - yīshí de fènnù huì hài zìjǐ, zhāo lái máfan.
+    - A moment of anger will harm oneself and invite trouble.
+### 害怕(害怕) → 害(害) → 宀(宀)
+- **definition:** roof
+- **pinyin:** mián
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a house with four walls ->
+    - roof
+  - **interpretation:** 宀(mián, "roof") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, "broad") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.
+- **examples:**
+  - 含有宀的汉字代表家的温暖(含有宀的漢字代表家的溫暖)。
+    - Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.
+    - Chinese characters that include the radical '宀' represent the warmth of home.
+  - 屋顶遮风挡雨(屋頂遮風擋雨)，家园散发温馨(家園散發溫馨)。
+    - Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.
+    - The roof shields from wind and rain, and the home radiates warmth.
+### 害怕(害怕) → 害(害) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 害怕(害怕) → 害(害) → 丯(丯)
+- **definition:** aid
+- **pinyin:** jiè
+- **components:**
+  - 㓞
+    - jiè
+    - carve, engrave
+  - 丰(豐)
+    - fēng
+    - abundance
+  - 王(玉)
+    - yù
+    - jade
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts something carved or engraved ->
+    - proto-form of 㓞(㓞) (jiè, "carve, engrave") ->
+    - unrelated to 丰(豐) (fēng, "abundance"). Also used as a variant of 王(玉) (yù, "jade")
+  - **interpretation:** The character 丯 was originally a pictogram representing an object being carved or engraved. Over time, it also came to be used as a variant of the character 王 (meaning 'king'), typically written as 玉 when referring to jade.
+### 害怕(害怕) → 害(害) → 丯(丯) → 㓞(㓞)
+- **definition:** carve, engrave
+- **pinyin:** jiè
+- **components:**
+  - 刀
+    - dāo
+    - knife
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic 丯 (jiè, no direct meaning) + Semantic 刀(刀) (dāo, "knife") =
+    - to engrave
+  - **interpretation:** The character 㓞(㓞) (jiè, "carve, engrave") combines the phonetic element 丯 (jiè) with the semantic 刀(刀) (dāo, "knife") to suggest an action involving cutting or carving. 刀(刀) (dāo) clearly indicates a tool used for engraving, while 丯 serves as the phonetic guide.
+### 害怕(害怕) → 害(害) → 丯(丯) → 㓞(㓞) → 刀(刀)
+- **definition:** knife
+- **pinyin:** dāo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a knife
+  - **interpretation:** 刀(刀) (dāo, "knife") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.
+- **examples:**
+  - 他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。
+    - tā yòng fēnglì de dāo, qiē kāi shūcài.
+    - He uses a sharp knife to cut vegetables.
+  - 这把刀(這把刀)非常锋利(非常鋒利)。
+    - zhè bǎ dāo fēicháng fēnglì.
+    - This knife is very sharp.
+  - 厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。
+    - chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.
+    - The chef holds the knife carefully and slices meat for the guest.
+### 害怕(害怕) → 害(害) → 丯(丯) → 丰(豐)
+- **definition:** abundance
+- **pinyin:** fēng
+- **components:**
+  - 土
+    - tǔ
+    - ground
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a luxuriant plant growing on the ground (土) ->
+    - modern version simplified, missing bottom stroke ->
+    - similar to top component of 豐(豐) (fēng, 'abundant') and 奉(奉) (fèng, 'offer')
+  - **interpretation:** The character 丰(豐) (fēng, 'abundant') originated as a pictogram depicting a plant thriving on the ground, symbolizing abundance. Over time, the detailed strokes representing the soil and growth were removed, simplifying the character.
+- **examples:**
+  - 今年的收成很丰(豐)。
+    - Jīnnián de shōuchéng hěn fēng.
+    - This year's harvest is very abundant.
+  - 田里的庄稼长得十分丰(豐)，农民们笑逐颜开(農民們笑逐顏開)。
+    - Tiánlǐ de zhuāngjià zhǎng de shífēn fēng, nóngmínmen xiào zhú yánkāi.
+    - The crops in the field grew very abundantly, and the farmers beamed with joy.
+  - 菜园里的番茄结得丰硕(豐碩)，老爷爷摘得满满当当(老爺爺摘得滿滿當當)。
+    - Càiyuán lǐ de fānqié jié de fēngshuò, lǎo yéyé zhāi de mǎnmǎndāngdāng.
+    - The tomatoes in the vegetable garden bore abundant fruit, and the old man picked them in plenty.
+### 害怕(害怕) → 害(害) → 丯(丯) → 丰(豐) → 土(土)
+- **definition:** ground
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+### 害怕(害怕) → 害(害) → 丯(丯) → 王(王)
+- **definition:** jade
+- **pinyin:** yù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a ritual axe representing the king's authority
+  - **interpretation:** This character represents the form of a ceremonial axe, which was the symbol of a king's power in ancient China. The structure emphasizes the sacred and authoritative role of the king, separate from the nuanced folk interpretations linking Heaven, Man, and Earth.
+- **examples:**
+  - 他被称为王(他被稱為王)，领导人民(領導人民)。
+    - Tā bèi chēng wéi wáng, lǐngdǎo rénmín.
+    - He is called the king, leading his people.
+  - 古代的君主常被尊称为王(古代的君主常被尊稱為王)。
+    - Gǔdài de jūnzhǔ cháng bèi zūnchēng wéi wáng.
+    - Ancient rulers were often respectfully called kings.
+  - 在祭祀仪式上(在祭祀儀式上)，人们向王致敬(人們向王致敬)。
+    - Zài jìsì yíshì shàng, rénmen xiàng wáng zhìjìng.
+    - During the ceremonial sacrifices, people salute the king.
+### 害怕(害怕) → 怕(怕)
+- **definition:** fear; dread; afraid
+- **pinyin:** pà
+- **components:**
+  - 心
+    - xīn
+    - heart
+  - 白
+    - bái
+    - white
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 心(心) (xīn, 'heart') + 白(白) (bái, 'white') =
+    - heart combined with phonetic indicating sound ->
+    - denotes fear or dread
+  - **interpretation:** The character 怕(pà, 'fear; dread') combines the heart radical 心(心) (xīn, 'heart'), symbolizing emotions, with 白(白) (bái, 'white') for phonetic representation. The heart component reflects the emotional experience of fear, while the phonetic component guides its pronunciation.
+- **examples:**
+  - 我怕黑(我怕黑)。
+    - Wǒ pà hēi.
+    - I am afraid of the dark.
+  - 他怕狗(他怕狗)，不敢靠近它(不敢靠近它)。
+    - Tā pà gǒu, bù gǎn kào jìn tā.
+    - He is afraid of dogs, and does not dare to approach them.
+### 害怕(害怕) → 怕(怕) → 心(心)
+- **definition:** heart
+- **pinyin:** xīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stylized representation of a heart
+  - **interpretation:** The character 心(xīn, 'heart') visually represents the shape of a heart, emphasizing its central and essential role in both a physical and metaphorical sense.
+- **examples:**
+  - 他的心温暖无比(他的心溫暖無比)。
+    - Tā de xīn wēnnuǎn wúbǐ.
+    - His heart is incredibly warm.
+  - 她把心放在艺术上(她把心放在藝術上)，追求完美(追求完美)。
+    - Tā bǎ xīn fàng zài yìshù shàng, zhuīqiú wánměi.
+    - She dedicates her heart to art, pursuing perfection.
+  - 音乐直击心灵(音樂直擊心靈)。
+    - Yīnyuè zhí jī xīnlíng.
+    - Music strikes straight at the heart (soul).
+### 害怕(害怕) → 怕(怕) → 白(白)
+- **definition:** white
+- **pinyin:** bái
+- **components:**
+  - 樂(乐)
+    - yuè
+    - oak
+  - 皂
+    - zào
+    - acorn
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts an acorn ->
+    - used in 樂/乐 (oak) and 皂 (acorn) ->
+    - meaning “white” derived from acorn's inside color
+  - **interpretation:** The character 白(bái, "white") might originally depict an acorn, reflecting its usage in words related to oak and acorn, and the meaning of 'white' comes from the color of an acorn's interior. This interpretation connects the form with its current meaning of 'white.'
+- **examples:**
+  - 村后那处被称作‘白’的泉口(村後那處被稱作‘白’的泉口)，源源不断流出甘甜的泉水(源源不斷流出甘甜的泉水)。
+    - Cūn hòu nà chù bèi chēng zuò ‘Bái’ de quán kǒu, yuán yuán bù duàn liú chū gān tián de quán shuǐ.
+    - The spring mouth behind the village, known as ‘Bái’, continuously gushes out sweet water.
+  - 古镇传说(古鎮傳說)，每逢春日便有白现身(每逢春日便有白現身)，润泽山村(潤澤山村)。
+    - Gǔ zhèn chuán shuō, měi féng chūn rì biàn yǒu Bái xiàn shēn, rùn zé shān cūn.
+    - According to the legend of the ancient town, every spring a ‘Bái’ appears, nourishing the mountain village.
+### 害怕(害怕) → 怕(怕) → 白(白) → 樂(樂)
+- **definition:** oak
+- **pinyin:** yuè
+- **components:**
+  - 糸
+    - mì
+    - string
+  - 木
+    - mù
+    - wood
+  - 白
+    - bái
+    - white
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 糸(糸) (mì, "string") + 木(木) (mù, "wood") =
+    - strings on a piece of wood ->
+    - wooden musical instrument
+  - **interpretation:** The character 樂(樂) (lè, "music") originally represents strings attached to a wooden frame, depicting a musical instrument. The addition of 白(白) (bái) in bronze inscriptions likely represents either the thumb in playing motion or serves as a phonetic component. Over time, it became associated with music and by extension, happiness.
+- **examples:**
+  - 我喜歡聽樂(我喜歡聽樂)。
+    - Wǒ xǐhuān tīng lè.
+    - I like listening to music.
+  - 他在音樂會上欣賞樂(他在音樂會上欣賞樂)，感受文化魅力(感受文化魅力)。
+    - Tā zài yīnyuèhuì shàng xīnshǎng lè, gǎnshòu wénhuà mèilì.
+    - He appreciates music at the concert and experiences the charm of culture.
+  - 書房中傳來樂(書房中傳來樂)，令人心情愉悅(令人心情愉悅)。
+    - Shūfáng zhōng chuán lái lè, lìngrén xīnqíng yúyuè.
+    - Music comes from the study, making people feel delighted.
+### 害怕(害怕) → 怕(怕) → 白(白) → 樂(樂) → 糸(糸)
+- **definition:** string
+- **pinyin:** mì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
+- **examples:**
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
+### 害怕(害怕) → 怕(怕) → 白(白) → 樂(樂) → 木(木)
+- **definition:** wood
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 害怕(害怕) → 怕(怕) → 白(白) → 皂(皂)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 皁
+    - zào
+    - acorn
+  - 早
+    - zǎo
+    - early
+- **etymology:**
+  - **type:** variant form
+  - **description:** 皂 (zào) is a variant form of 皁, which is in turn a variant form of 早 (zǎo, "early") retaining its original sense "acorn."
+  - **interpretation:** 皂 (zào) originally represented the concept of "acorn" before it was adapted to signify colors such as black. This transformation shows the fluidity of meanings as characters evolved over time.
+- **examples:**
+  - 秋风吹过树林时(秋風吹過樹林時)，地上落满了皂和落叶(地上落滿了皂和落葉)。
+    - qiū fēng chuīguò shùlín shí, dìshàng luò mǎn le zào hé luòyè.
+    - When the autumn wind blows through the forest, the ground is covered with acorns and fallen leaves.
+  - 山野中不时有皂掉落(山野中不時有皂掉落)，象征着秋天的丰收(象徵著秋天的豐收)。
+    - shānyě zhōng bùshí yǒu zào diàoluò, xiàngzhēng zhe qiūtiān de fēngshōu.
+    - In the hills and fields, acorns occasionally fall, symbolizing the abundant harvest of autumn.
+### 害怕(害怕) → 怕(怕) → 白(白) → 皂(皂) → 皁(皁)
+- **definition:** acorn
+- **pinyin:** zào
+- **components:**
+  - 皂
+    - zào
+    - acorn
+  - 早
+    - zǎo
+    - early
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:** 皁 (zào, 'acorn') is a variant traditional form linked with 皂 (zào), which retains the original meaning 'acorn' associated with 早 (zǎo, 'early, acorn')
+  - **interpretation:** 皁 (zào, 'acorn') is connected to 皂 (zào) and serves as a variant representing similar meanings, retaining the original sense of 'acorn' through its historical evolution parallel to 早 (zǎo, 'early').
+### 害怕(害怕) → 怕(怕) → 白(白) → 皂(皂) → 皁(皁) → 早(早)
+- **definition:** early
+- **pinyin:** zǎo
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 甲
+    - jiǎ
+    - first
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - Early pictogram depicts an acorn ->
+    - borrowed phonetically for 'morning' ->
+    - Late bronze inscriptions: semantic 日(日) (rì, 'sun') + phonetic 棗(枣) (zǎo) ->
+    - small seal script: 日(日, 'sun') + 甲(甲, 'first') =
+    - when the sun first rises ->
+    - 'early'
+  - **interpretation:** The character evolved from depicting an acorn to incorporating the image of the sun and the concept of 'first,' symbolizing the sun's rise to indicate 'early.' It's a combination of both semantic elements and phonetic borrowing.
+- **examples:**
+  - 我今天起床很早(我今天起床很早)。
+    - Wǒ jīntiān qǐchuáng hěn zǎo.
+    - I woke up very early today.
+  - 他早到办公室(他早到辦公室)，开始了紧张的会议(開始了緊張的會議)。
+    - Tā zǎo dào bàngōngshì, kāishǐ le jǐnzhāng de huìyì.
+    - He arrived at the office early and started a busy meeting.
+  - 他喜欢早睡(他喜歡早睡)，早起的习惯让他精力充沛(早起的習慣讓他精力充沛)。
+    - Tā xǐhuān zǎo shuì, zǎo qǐ de xíguàn ràng tā jīnglì chōngpèi.
+    - He likes going to bed early, and his habit of getting up early makes him energetic.
+---
+## 害怕(害怕)
+### hàipà
+---
+## to be afraid
+%%%
+## 棵(棵)
+---
+## measure word for trees and plants
+### kē
+---
+- **definition:** measure word for trees and plants
+- **pinyin:** kē
+- **components:**
+  - 木
+    - mù
+    - wood
+  - 柯
+    - kē
+    - none
+- **etymology:**
+  - **type:** variant form
+  - **description:**
+    - 棵 is a variant form of 樖. 樖: 木(木) (mù, "wood") + 柯(柯) (kē) =
+    - measure word for trees, derived from structure and sound
+  - **interpretation:** The character 棵 utilizes 木(木) (mù, "wood") combined with the phonetic 柯(柯) (kē) to indicate its association with trees and plants. Being a variant form, it retains the meaning related to trees due to the presence of 木(木), playing off the phonetic element to denote its function as a measure word.
+- **examples:**
+  - 花园里有一棵樱花树(花園裡有一棵櫻花樹)。
+    - Huāyuán lǐ yǒu yī kē yīnghuā shù。
+    - There is a cherry tree in the garden.
+  - 学校门前种了两棵榕树(學校門前種了兩棵榕樹)，每当微风吹过(每當微風吹過)。
+    - Xuéxiào mén qián zhǒngle liǎng kē róngshù, měi dāng wēifēng chuīguò。
+    - Two banyan trees were planted in front of the school, and the gentle breeze passes by.
+  - 山坡上长着一棵野生橡树(山坡上長著一棵野生橡樹)，秋天时树叶变得金黄(秋天時樹葉變得金黃)。
+    - Shānpō shàng zhǎngzhe yī kē yěshēng xiàngshù, qiūtiān shí shùyè biàn dé jīnhuáng。
+    - A wild oak grows on the hillside, and in autumn its leaves turn golden.
+### 棵(棵) → 木(木)
+- **definition:** wood
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 棵(棵) → 柯(柯)
+- **definition:** none
+- **pinyin:** kē
+- **components:**
+  - 木
+    - mù
+    - tree
+  - 可
+    - kě
+    - can
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 木(木) (mù, "tree") + phonetic: 可(可) (kě, "can") =
+    - tree-related object ->
+    - branch; axe handle
+  - **interpretation:** The character combines 木(木) (mù, "tree"), signifying a wooden object, with 可(可) (kě, "can"), which provides the pronunciation. This reflects its meaning related to parts of a tree, such as branches or axe handles.
+- **examples:**
+  - 古斧的柯(古斧的柯)经过匠人的精心打磨(經過匠人的精心打磨)，仍然结实(仍然結實)。
+    - Gǔ fǔ de kē jīngguò jiàngrén de jīngxīn dǎmó, réngrán jiéshí.
+    - The axe handle of the ancient axe remains sturdy after the craftsman's meticulous polishing.
+  - 老树的柯(老樹的柯)，承载着岁月的痕迹(承載著歲月的痕跡)。
+    - Lǎo shù de kē, chéngzài zhe suìyuè de hénjì.
+    - The branch of the old tree bears the marks of time.
+  - 他拿起斧头(他拿起斧頭)，细看那光滑的柯(細看那光滑的柯)。
+    - Tā ná qǐ fǔtóu, xìkàn nà guānghuá de kē.
+    - He picked up the axe and closely examined its smooth handle.
+### 棵(棵) → 柯(柯) → 可(可)
+- **definition:** can
+- **pinyin:** kě
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 丂
+    - kǎo
+    - exhaled air
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 口(口) (kǒu, "mouth") + phonetic: 丂(丂) (kǎo) =
+    - reference to exhaled air "to sing" ->
+    - capability to perform actions
+  - **interpretation:** This character combines the semantic element 口(口) (kǒu, "mouth") with the phonetic 丂(丂) (kǎo), referencing exhaling or vocal actions like singing, which suggests expressing capability or permission.
+- **examples:**
+  - 你可尝试一下新方法(你可嘗試一下新方法)。
+    - Nǐ kě chángshì yīxià xīn fāngfǎ.
+    - You may try a new method.
+  - 此事虽难(此事雖難)，你可坚持到底(你可堅持到底)。
+    - Cǐ shì suī nán, nǐ kě jiānchí dàodǐ.
+    - Although this matter is difficult, you may persist to the end.
+### 棵(棵) → 柯(柯) → 可(可) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 棵(棵) → 柯(柯) → 可(可) → 丂(丂)
+- **definition:** exhaled air
+- **pinyin:** kǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts exhaled air
+  - **interpretation:** The character 丂 (kǎo, "exhaled air") is considered a pictogram representing the concept of air being released or exhaled. It is not associated with other characters in its construction and is a standalone representation of its meaning.
+---
+## 棵(棵)
+### kē
+---
+## measure word for trees and plants
+%%%
+## 累(纍)
+---
+## tired
+### lèi
+---
+- **definition:** tired
+- **pinyin:** lèi
+- **components:**
+  - 糸
+    - sī
+    - silk
+  - 田
+    - tián
+    - field
+  - 衣
+    - yī
+    - clothing
+- **etymology:**
+  - **type:** variant form
+  - **description:**
+    - 糸(糸) (sī, "silk") + 田(田) (tián, "field") + 衣(衣) (yī, "clothing") =
+    - layers of tied-up silk over fields and clothing ->
+    - connected to repetition or tiring work ->
+    - took on meaning of tired as 累
+  - **interpretation:** The traditional character 纍 combines 糸(糸) (sī, "silk") with 田(田) (tián, "field") and 衣(衣) (yī, "clothing"), symbolizing repetitive, tiring work across fields using silk thread, ultimately leading to the sense of 'tired.' The current form 累 evolved as a simplified and variant traditional character maintaining this association.
+  - **simplification:** 累 is a simplified version and variant form of 纍, which emphasizes ease of writing by reducing multiple repeated components.
+- **examples:**
+  - 我累了(我累了)。
+    - Wǒ lèi le.
+    - I am tired.
+  - 我工作了一整天(我工作了一整天)，感到累(感到累)。
+    - Wǒ gōngzuò le yī zhěng tiān, gǎndào lèi.
+    - I worked all day and feel tired.
+  - 经过长时间的学习(經過長時間的學習)，我感到累(我感到累)。
+    - Jīngguò cháng shíjiān de xuéxí, wǒ gǎndào lèi.
+    - After studying for a long time, I feel tired.
+### 累(纍) → 糸(糸)
+- **definition:** silk
+- **pinyin:** sī
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
+- **examples:**
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
+### 累(纍) → 田(田)
+- **definition:** field
+- **pinyin:** tián
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a field divided into four sections
+  - **interpretation:** The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.
+- **examples:**
+  - 农民在田里耕作(農民在田裡耕作)。
+    - Nóngmín zài tián lǐ gēngzuò.
+    - The farmer works in the field.
+  - 那边的田长满了庄稼(那邊的田長滿了莊稼)，农民收获忙碌(農民收穫忙碌)。
+    - Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.
+    - The field over there is full of crops, and the farmer is busy harvesting.
+  - 秋收时节(秋收時節)，人们忙于收割田里的稻谷(人們忙於收割田裡的稻谷)。
+    - Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.
+    - During the harvest season, people are busy reaping the rice in the fields.
+### 累(纍) → 衣(衣)
+- **definition:** clothing
+- **pinyin:** yī
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a basic outline of a garment with sleeves hanging down.
+  - **interpretation:** The character 衣(衣) (yī, 'clothes') clearly resembles a simple garment, with parts representing sleeves and the body of clothing. This visual representation aligns with its meaning of 'clothes' or 'clothing.'
+- **examples:**
+  - 这件衣很特别(這件衣很特別)。
+    - Zhè jiàn yī hěn tè bié.
+    - This piece of clothing is very special.
+  - 冬天来了(冬天來了)，人们换上了暖和的衣(人們換上了暖和的衣)。
+    - Dōngtiān lái le, rénmen huàn shàng le nuǎn huó de yī.
+    - Winter has arrived, and people put on warm clothes.
+---
+## 累(纍)
+### lèi
+---
+## tired
+%%%
+## 树(樹)
+---
+## tree
+### shù
+---
+- **definition:** tree
+- **pinyin:** shù
+- **components:**
+  - 木
+    - mù
+    - tree
+  - 尌
+    - shù
+    - phonetic component
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic: 木(木) (mù, "tree") + phonetic: 尌(尌) (shù) =
+    - tree-like object described by 尌 ->
+    - tree
+  - **interpretation:** The character 树(樹) (shù, "tree") combines 木(木) (mù, "tree") for its meaning, and 尌(尌) (shù) provides the pronunciation. Together, these components create a character that is pronounced like 尌(尌) and relates to trees.
+  - **simplification:** 树(樹): The simplified form retains 木(木) ("tree") while modifying 尌 to simplify strokes.
+- **examples:**
+  - 那棵树非常茂盛(那棵樹非常茂盛)。
+    - Nà kē shù fēicháng màoshèng.
+    - That tree is very lush.
+  - 微风拂过树梢(微風拂過樹梢)，阳光洒满枝头(陽光灑滿枝頭)。
+    - Wēifēng fúguò shùshāo, yángguāng sǎ mǎn zhītóu.
+    - A gentle breeze brushes the treetops, while sunlight fills the branches.
+### 树(樹) → 木(木)
+- **definition:** tree
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 树(樹) → 尌(尌)
+- **definition:** phonetic component
+- **pinyin:** shù
+- **components:**
+  - 木
+    - mù
+    - tree
+  - 寸
+    - cùn
+    - hand
+  - 豆
+    - dòu
+    - bean
+  - 壴
+    - zhù
+    - drum
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 木(木) (mù, "tree") + 寸(寸) (cùn, "hand") =
+    - planting a tree ->
+    - phonetic 豆(豆) (dòu) added ->
+    - transformed to 壴
+  - **interpretation:** 尌(shù) initially depicted the action of planting a tree, combining 木(木) (mù, "tree") and 寸(寸) (cùn, "hand"). It later evolved to include 豆(豆) (dòu) as a phonetic element, eventually merging shapes with the character 壴, though the original components can still be discerned. This form was mainly used as a phonetic component before being superseded by 樹(shù, "tree").
+### 树(樹) → 尌(尌) → 寸(寸)
+- **definition:** hand
+- **pinyin:** cùn
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Line on the hand (ideographic) emphasizing the elbow ->
+    - represents measurement unit between wrist and specific forearm position ->
+    - meaning 'inch'
+  - **interpretation:** 寸(寸) (cùn, "inch") originated as a depiction of a line on the hand, indicating the area near the elbow. This specific placement was considered significant for pulse palpation, originally suggesting a forearm position, which then came to denote the measurement 'inch'.
+- **examples:**
+  - 这块布每一寸都是精心制作(這塊布每一寸都是精心製作)。
+    - Zhè kuài bù měi yī cùn dōu shì jīngxīn zhìzuò.
+    - Every inch of this cloth is crafted with care.
+  - 请用卷尺量一寸(請用卷尺量一寸)，每一寸数据都准确(每一寸數據都準確)。
+    - Qǐng yòng juǎnchǐ liàng yī cùn, měi yī cùn shùjù dōu zhǔnquè.
+    - Please use a tape measure to measure an inch, every inch's data is accurate.
+### 树(樹) → 尌(尌) → 豆(豆)
+- **definition:** bean
+- **pinyin:** dòu
+- **components:**
+  - 菽
+    - shū
+    - pulse
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a container ->
+    - borrowed phonetically for the plant name
+  - **interpretation:** Originally depicted a container, 豆(豆) (dòu, 'drum') was phonetically borrowed to represent the plant name for beans, eventually displacing the term 菽(菽) (shū, 'pulse'). It is unrelated to the 豊(豊) (fēng, 'abundant') character.
+- **examples:**
+  - 祭司敲豆奏乐(祭司敲豆奏樂)，引来神灵祝福(引來神靈祝福)。
+    - Jìsī qiāo dòu zòuyuè, yǐn lái shénlíng zhùfú.
+    - The priest beats the drum, summoning divine blessings.
+  - 古风庆典上敲响豆(古風慶典上敲響豆)，唤起怀古情怀(喚起懷古情懷)。
+    - Gǔfēng qìngdiǎn shàng qiāoxiǎng dòu, huànqǐ huáigǔ qínghuái.
+    - At the ancient-style celebration, the beating of the drum evokes nostalgic sentiments.
+  - 豆声震天(豆聲震天)。
+    - Dòu shēng zhèntiān.
+    - The sound of the drum shakes the heavens.
+### 树(樹) → 尌(尌) → 豆(豆) → 菽(菽)
+- **definition:** pulse
+- **pinyin:** shū
+- **components:**
+  - 艹
+    - cǎo
+    - grass
+  - 叔
+    - shū
+    - uncle
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 艹(艹) (cǎo, "grass") + 叔(叔) (shū, "uncle") =
+    - plant-related term with phonetic value from 叔
+  - **interpretation:** The character 菽(shū, "pulse") combines the semantic 艹(艹) (cǎo, "grass") to indicate a plant-related concept, with the phonetic element 叔(叔) (shū) to suggest its pronunciation. This reflects the agricultural context of 'pulse' as a type of leguminous plant.
+- **examples:**
+  - 农人耕种菽田(農人耕種菽田)，迎接秋收(迎接秋收)。
+    - Nóng rén gēngzhòng shū tián, yíngjiē qiūshōu.
+    - The farmers cultivate pulse fields, welcoming the autumn harvest.
+  - 他用菽研磨出浓香豆浆(他用菽研磨出濃香豆漿)，享受健康生活(享受健康生活)。
+    - Tā yòng shū yánmó chū nóngxiāng dòujiāng, xiǎngshòu jiànkāng shēnghuó.
+    - He grinds pulses to make fragrant soy milk, enjoying a healthy life.
+  - 春天里菽花绽放(春天裏菽花綻放)。
+    - Chūntiān lǐ shū huā zhànfàng.
+    - In spring, the pulse flowers bloom.
+### 树(樹) → 尌(尌) → 豆(豆) → 菽(菽) → 艹(艹)
+- **definition:** grass
+- **pinyin:** cǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts blades of grass
+  - **interpretation:** 艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.
+- **examples:**
+  - 他写字时用艹作草字的偏旁(他寫字時用艹作草字的偏旁)。
+    - Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.
+    - He uses '艹' as the radical for grass in his characters.
+  - 春天到来时(春天到來時)，艹生长得很快(艹生長得很快)。
+    - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
+    - When spring arrives, grass grows rapidly.
+### 树(樹) → 尌(尌) → 豆(豆) → 菽(菽) → 叔(叔)
+- **definition:** uncle
+- **pinyin:** shū
+- **components:**
+  - 尗
+    - shū
+    - wooden stake
+  - 又
+    - yòu
+    - hand
+- **etymology:**
+  - **type:** Ideogrammic compound and phono-semantic compound
+  - **description:**
+    - Phonetic 尗 (shū, "wooden stake") + semantic 又 (yòu, "hand") =
+    - using a wooden stake to dig the ground ->
+    - phonetically borrowed for "paternal uncle"
+  - **interpretation:** The character 叔(shū, "uncle") originally depicted using a hand to plant a wooden stake, representing construction or foundation setting. This was later phonetically borrowed to refer to a "paternal uncle" due to similar pronunciation rather than meaning.
+- **examples:**
+  - 我叔爱讲笑话(我叔愛講笑話)。
+    - Wǒ shū ài jiǎng xiàohuà.
+    - My uncle loves to tell jokes.
+  - 我向叔讨教古典文学(我向叔討教古典文學)，他认真地分享经验(他認真地分享經驗)。
+    - Wǒ xiàng shū tǎojiào gǔdiǎn wénxué, tā rènzhēn de fēnxiǎng jīngyàn.
+    - I sought advice on classical literature from my uncle, and he seriously shared his experience.
+### 树(樹) → 尌(尌) → 豆(豆) → 菽(菽) → 叔(叔) → 尗(尗)
+- **definition:** wooden stake
+- **pinyin:** shū
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a wooden stake – origin of character
+  - **interpretation:** The character 尗(shū, "wooden stake") visually represents a stake piercing or digging into the ground, capturing its original utility as an object used in agriculture or construction.
+### 树(樹) → 尌(尌) → 豆(豆) → 菽(菽) → 叔(叔) → 又(又)
+- **definition:** hand
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又(又) (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+### 树(樹) → 尌(尌) → 壴(壴)
+- **definition:** drum
+- **pinyin:** zhù
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a drum 壴, with a base and feathers 土 on top ->
+    - stylized in the Kangxi radical 鼓
+  - **interpretation:** The character 壴(壴) (zhù, "drum") visually represents a drum with two ends, with elements contributing to its structure, such as a base and feathers. It was later incorporated into characters like 鼓(鼓) (gǔ, "drum") by adding elements that illustrate additional actions like hands holding a drumstick.
+- **examples:**
+  - 这面壴声震天动地(這面壴聲震天動地)。
+    - Zhè miàn zhù shēng zhèn tiān dòng dì.
+    - The sound of this drum shakes the heavens and the earth.
+  - 战士敲响壴(戰士敲響壴)，示警敌人(示警敵人)。
+    - Zhànshì qiāo xiǎng zhù, shì jǐng dírén.
+    - The soldier beats the drum to warn the enemy.
+  - 庄严仪式上(莊嚴儀式上)，祭司击打壴(祭司擊打壴)，宣告传统(宣告傳統)。
+    - Zhuāngyán yíshì shàng, jìsī jī dǎ zhù, xuānguò chuántǒng.
+    - At the solemn ceremony, the priest beats the drum to proclaim tradition.
+---
+## 树(樹)
+### shù
+---
+## tree
+%%%
+## 死(死)
+---
+## to die
+### sǐ
+---
+- **definition:** to die
+- **pinyin:** sǐ
+- **components:**
+  - 歹
+    - dǎi
+    - carcass
+  - 人
+    - rén
+    - person
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 歹(歹) (dǎi, "carcass") + 人(人) (rén, "person") =
+    - person with remains ->
+    - death
+  - **interpretation:** The character 死(sǐ, "to die") combines 歹(歹) (dǎi, "carcass") indicating death with 人(人) (rén, "person") to symbolize a deceased person, highlighting its association with human mortality.
+- **examples:**
+  - 他的决心大到不怕死(他的決心大到不怕死)。
+    - Tā de juéxīn dà dào bù pà sǐ.
+    - His determination is so strong that he is not afraid to die.
+  - 战场上(戰場上)，他见到许多勇士倒下死去(他見到許多勇士倒下死去)。
+    - Zhànchǎng shàng, tā jiàndào xǔduō yǒngshì dǎoxià sǐqù.
+    - On the battlefield, he saw many brave warriors fall and die.
+  - 传说中(傳說中)，英雄死后获得永生(英雄死後獲得永生)。
+    - Chuánshuō zhōng, yīngxióng sǐhòu huòdé yǒngshēng.
+    - According to legend, heroes gain eternal life after death.
+### 死(死) → 歹(歹)
+- **definition:** carcass
+- **pinyin:** dǎi
+- **components:**
+  - 歺
+    - è
+    - variant form of 歹
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts human remains ->
+    - related to 歺(歺) as an intermediate variant
+  - **interpretation:** 歹(dǎi, "carcass") is a pictorial representation of human remains. The character preserves an ancient form that visually suggests its meaning, and is related to the intermediate variant 歺(歺).
+- **examples:**
+  - 他在树林中发现一具歹(他在樹林中發現一具歹)。
+    - Tā zài shùlín zhōng fāxiàn yī jù dǎi.
+    - He discovered a carcass in the woods.
+  - 雨后天晴时(雨後天晴時)，村边野地露出一具歹(村邊野地露出一具歹)。
+    - Yǔ hòu tiān qíng shí, cūn biān yě dì lù chū yī jù dǎi.
+    - After the rain, when the weather cleared, a carcass appeared on the village outskirts.
+### 死(死) → 歹(歹) → 歺(歺)
+- **definition:** variant form of 歹
+- **pinyin:** è
+- **components:**
+  - 歹
+    - dǎi
+    - bad or death
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts human remains ->
+    - stylized as variant form of 歹
+  - **interpretation:** The character 歺 is a pictographic depiction representing human remains and serves primarily as a variant form of 歹(歹) (dǎi, "bad" or "death") in certain contexts. This indicates its usage in contexts resembling death or decay, maintaining its association with 歹, particularly in historical forms.
+### 死(死) → 人(人)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+---
+## 死(死)
+### sǐ
+---
+## to die
+%%%
+## 装(裝)
+---
+## to pretend; to act as
+### zhūang
+---
+- **definition:** to pretend; to act as
+- **pinyin:** zhūang
+- **components:**
+  - 壯
+    - zhuàng
+    - strong
+  - 衣
+    - yī
+    - clothes
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 壯(壯) (zhuàng, "strong") + 衣(衣) (yī, "clothes") =
+    - clothing associated with strength ->
+    - to dress or attire
+  - **interpretation:** The character 裝(裝) combines 壯(壯), which lends its phonetic value and conveys the notion of strength or robustness, with 衣(衣), indicating clothing. Together, they suggest clothing related to pretending or adopting a role, reflecting how attire can influence perception or facilitate a certain appearance.
+  - **simplification:** Clothes radical 衣(衣) was simplified to 衤(衣), preserving key phonetics and semantics while reducing strokes.
+- **examples:**
+  - 他装作不认识我(他裝作不認識我)，令我感到惊讶(令我感到驚訝)。
+    - Tā zhuāng zuò bù rènshí wǒ, lìng wǒ gǎndào jīngyà.
+    - He pretended not to know me, which surprised me.
+  - 她装出一副高兴的样子(她裝出一副高興的樣子)，实则心中忧虑(實則心中憂慮)。
+    - Tā zhuāng chū yī fù gāoxìng de yàngzi, shíquè xīnzhōng yōulǜ.
+    - She acted as if she were happy, but was actually troubled inside.
+  - 他们装得很自然(他們裝得很自然)。
+    - Tāmen zhuāng de hěn zìrán.
+    - They acted very naturally.
+### 装(裝) → 壯(壯)
+- **definition:** strong
+- **pinyin:** zhuàng
+- **components:**
+  - 爿
+    - pán
+    - bedsteads
+  - 士
+    - shì
+    - scholar
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 爿(爿) (pán, "bedsteads") + Semantic: 士(士) (shì, "scholar") =
+    - indicating a scholar's bedding or stature ->
+    - strong
+  - **interpretation:** In 壯(壯) (zhuàng, "strong"), the component 爿(爿) (pán, "bedsteads") imparts the sound, while 士(士) (shì, "scholar") suggests the robustness or elevated status of a scholarly person, metaphorically extending to strength.
+  - **simplification:** 壮(壯): 士(士) (shì, "scholar") was simplified to 夂(夂), a less complex shape, while retaining the phonetic and semantic association.
+- **examples:**
+  - 他很壯(他很壯)。
+    - Tā hěn zhuàng.
+    - He is very strong.
+  - 经过锻炼(經過鍛鍊)，他的肌肉变得更壯(他的肌肉變得更壯)。
+    - Jīngguò duànliàn, tā de jīròu biàn dé gèng zhuàng.
+    - After training, his muscles became even stronger.
+  - 古代战士常被赞颂为壯志凌云的英雄(古代戰士常被讚頌為壯志凌雲的英雄)。
+    - Gǔdài zhànshì cháng bèi zànsòng wéi zhuàngzhì língyún de yīngxióng.
+    - Ancient warriors were often praised as heroes with lofty aspirations.
+### 装(裝) → 壯(壯) → 爿(爿)
+- **definition:** bedsteads
+- **pinyin:** pán
+- **components:**
+  - 牀
+    - chuáng
+    - bed
+  - 臧
+    - zāng
+    - favored
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a bed ->
+    - Original form of 牀(牀) (chuáng, "bed") ->
+    - Contracted form in 臧(臧) (zāng, "favored")
+  - **interpretation:** The character 爿(pán, "bed") originally depicted the structure of a bed. It later became the foundational form for the character 牀(牀) (chuáng, "bed") and appears in a contracted form within the character 臧(臧) (zāng, "favored").
+- **examples:**
+  - 他躺在软软的爿上(他躺在軟軟的爿上)。
+    - Tā tǎng zài ruǎn ruǎn de pán shàng.
+    - He lies on the soft bed.
+  - 夜深人静时(夜深人靜時)，爿边飘散着淡淡的香气(爿邊飄散着淡淡的香氣)。
+    - Yè shēn rén jìng shí, pán biān piāo sàn zhe dàn dàn de xiāng qì.
+    - When the night is quiet, a faint fragrance drifts by the bed.
+  - 她精心整理过的爿让人看了舒心(她精心整理過的爿讓人看了舒心)。
+    - Tā jīngxīn zhěnglǐ guò de pán ràng rén kàn le shūxīn.
+    - The bed she meticulously arranged looks very comforting.
+### 装(裝) → 壯(壯) → 爿(爿) → 牀(牀)
+- **definition:** bed
+- **pinyin:** chuáng
+- **components:**
+  - 床
+    - chuáng
+    - bed
+  - 广
+    - guǎng
+    - house
+  - 木
+    - mù
+    - tree
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 牀(牀) original form ->
+    - unrelated semantic shift ->
+    - popularized as 床(床) with 广(广) (house) + 木(木) (tree) =
+    - bed in a house
+  - **interpretation:** Originally, 牀(牀) was the character used for 'bed', and over time, the character with components that more closely depicted the idea of a bed within a house, 床(床), became the standard. The original character, 牀(牀), served as the traditional variant form.
+- **examples:**
+  - 我喜欢这张牀(牀)。
+    - Wǒ xǐhuān zhè zhāng chuáng.
+    - I like this bed.
+  - 晚上休息时(晚上休息時)，我躺在牀上(我躺在牀上)。
+    - Wǎnshàng xiūxí shí, wǒ tǎng zài chuáng shàng.
+    - In the evening when resting, I lie on the bed.
+  - 寒冷的早晨起床后(寒冷的早晨起床後)，他习惯在牀边喝茶(牀邊喝茶)。
+    - Hánlěng de zǎochén qǐchuáng hòu, tā xíguàn zài chuáng biān hē chá.
+    - After getting up on a cold morning, he is used to drinking tea by the bed.
+### 装(裝) → 壯(壯) → 爿(爿) → 牀(牀) → 床(床)
+- **definition:** bed
+- **pinyin:** chuáng
+- **components:**
+  - 广(廣)
+    - guǎng
+    - house
+  - 木
+    - mù
+    - tree
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 广(廣) (guǎng, "house") + 木(木) (mù, "tree/wood") =
+    - wooden furniture (bed) in a house
+  - **interpretation:** The character 床(床) (chuáng, "bed") signifies a piece of wooden furniture located within a house. The inclusion of 木(木), meaning 'wood,' intuitively aligns with beds being made from wooden materials, while 广(廣) represents the enclosing structure of a house, emphasizing the indoor placement of furniture.
+- **examples:**
+  - 我睡在床上(我睡在床上)。
+    - Wǒ shuì zài chuáng shàng.
+    - I sleep on the bed.
+  - 买了新床(買了新床)，感觉睡眠更好(感覺睡眠更好)。
+    - Mǎile xīn chuáng, gǎnjué shuìmián gèng hǎo.
+    - I bought a new bed, and I feel my sleep is better.
+  - 孩子在床上玩耍(孩子在床上玩耍)，笑声充满房间(笑聲充滿房間)。
+    - Háizi zài chuáng shàng wánshuǎ, xiàoshēng chōngmǎn fángjiān.
+    - The child plays on the bed, and laughter fills the room.
+### 装(裝) → 壯(壯) → 爿(爿) → 牀(牀) → 床(床) → 广(廣)
+- **definition:** house
+- **pinyin:** guǎng
+- **components:**
+  - 宀
+    - mián
+    - roof
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a house with a roof, similar to 宀(宀) (mián, "roof") ->
+    - a building with three walls ->
+    - shelter
+  - **interpretation:** As a pictogram, 广(廣) (guǎng, "shelter") visually represents a three-walled structure under a roof, conveying the concept of shelter or covering. It is closely related to the character 宀(宀) (mián, "roof"), which includes four walls, indicating the structural nuance captured by ancient scribes.
+  - **simplification:** 广(廣) was simplified by using the pictographic element alone, omitting the phonetic component 黃(黃).
+- **examples:**
+  - 暴风骤雨时(暴風驟雨時)，山洞广可供人躲避(山洞廣可供人躲避)。
+    - Bào fēng zhòu yǔ shí, shān dòng guǎng kě gòng rén duǒ bì.
+    - When the storm rages, the cave provides shelter.
+  - 旅途中疲惫时(旅途中疲憊時)，老树下广给予行人庇护(老樹下廣給予行人庇護)。
+    - Lǚ tú zhōng pí bèi shí, lǎo shù xià guǎng jǐ yǔ xíng rén bì hù.
+    - During a tiring journey, the shelter under the old tree gives travelers protection.
+### 装(裝) → 壯(壯) → 爿(爿) → 牀(牀) → 床(床) → 木(木)
+- **definition:** tree
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 装(裝) → 壯(壯) → 爿(爿) → 臧(臧)
+- **definition:** favored
+- **pinyin:** zāng
+- **components:**
+  - 臣
+    - chén
+    - eye
+  - 戈
+    - gē
+    - spear/weapon
+  - 爿
+    - pán
+    - silk panel
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 臣(臣) (chén, "eye") + 戈(戈) (gē, "spear/weapon") =
+    - prisoner of war with blinded eyes ->
+    - later 爿(爿) (pán) added for phonetic value ->
+    - final form 臧
+  - **interpretation:** Initially, 臧 depicted a slave or prisoner of war, with the components representing visually inhibited individuals (臣) controlled by force (戈). The character evolved to include a phonetic component 爿, suggesting an additional layer of meaning or a phonetic shift over time.
+- **examples:**
+  - 他将粮食臧在仓库中(他將糧食臧在倉庫中)。
+    - Tā jiāng liángshí zāng zài cāngkù zhōng.
+    - He stores the grain in the warehouse.
+  - 工人先清点物资(工人先清點物資)，后将工具臧于仓房(后將工具臧於倉房)。
+    - Gōngrén xiān qīngdiǎn wùzī, hòu jiāng gōngjù zāng yú cāngfáng.
+    - The workers first count the supplies, then store the tools in the warehouse.
+### 装(裝) → 壯(壯) → 爿(爿) → 臧(臧) → 臣(臣)
+- **definition:** eye
+- **pinyin:** chén
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a vertical eye of a man looking downwards
+  - **interpretation:** The character 臣(chén) originally depicted an eye oriented vertically, symbolizing a person looking downwards, conveying subordination or observance. Over time, it evolved to represent roles such as 'slave,' 'servant,' and 'minister,' emphasizing relationships defined by subservience.
+- **examples:**
+  - 臣愿为国家尽忠(臣願為國家盡忠)。
+    - Chén yuàn wèi guójiā jìnzhōng。
+    - I, as a loyal subject, am willing to serve the nation faithfully.
+  - 陛下召见臣(陛下召見臣)，臣必不辱使命(臣必不辱使命)。
+    - Bìxià zhàojiàn chén, chén bì bù rǔ shǐmìng。
+    - Your Majesty summons me, and I will not fail in my duty.
+  - 昔日臣拜见明君(昔日臣拜見明君)，如今仍怀赤诚之心(如今仍懷赤誠之心)。
+    - Xīrì chén bàijiàn míngjūn, rújīn réng huái chìchéng zhī xīn。
+    - In the past, I paid my respects to a wise ruler, and even now I remain sincerely devoted.
+### 装(裝) → 壯(壯) → 爿(爿) → 臧(臧) → 戈(戈)
+- **definition:** spear/weapon
+- **pinyin:** gē
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a spear or halberd, a type of weapon
+  - **interpretation:** The character 戈(gē, 'spear') visually represents a spear or halberd, highlighting its function and importance as a weapon in ancient Chinese warfare.
+- **examples:**
+  - 古代战士持戈(古代戰士持戈)，勇闯敌营(勇闖敵營)。
+    - Gǔdài zhànshì chí gē, yǒng chuǎng dí yíng.
+    - Ancient warriors wielded the spear, bravely attacking the enemy camp.
+  - 博物馆珍藏古兵器(博物館珍藏古兵器)，展厅陈列戈(展廳陳列戈)。
+    - Bówùguǎn zhēncáng gǔ bīngqì, zhǎntīng chénliè gē.
+    - The museum preserves ancient weapons, and the exhibition hall displays a spear.
+### 装(裝) → 壯(壯) → 士(士)
+- **definition:** scholar
+- **pinyin:** shì
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts an upside-down ritual axe ->
+    - later meaning soldier ->
+    - eventually officer or intellectual
+  - **interpretation:** The character 士(士) (shì, 'officer') originally depicted a ritual axe, symbolizing authority and power. Over time, it evolved to signify roles associated with leadership and scholarship.
+- **examples:**
+  - 博物馆今日展出了士(士)，展示古代祭祀器物(展示古代祭祀器物)。
+    - Bówùguǎn jīnrì zhǎnchūle shì(士)，zhǎnshì gǔdài jìsì qìwù(展示古代祭祀器物)。
+    - The museum exhibited the shì today, showcasing ancient sacrificial vessels.
+  - 考古学家在遗址中发现了一把士(士)，被认为是祭祀用的珍贵器物(被認為是祭祀用的珍貴器物)。
+    - Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiànle yī bǎ shì(士)，bèi rènwéi shì jìsì yòng de zhēnguì qìwù(被認為是祭祀用的珍貴器物)。
+    - Archaeologists discovered a shì at the site, which is considered a precious ritual artifact.
+  - 工匠精心打造出的士(士)，在阳光下闪烁着金属光芒(在陽光下閃爍着金屬光芒)。
+    - Gōngjiàng jīngxīn dǎzàochū de shì(士)，zài yángguāng xià shǎnshuò zhe jīnshǔ guāngmáng(在陽光下閃爍着金屬光芒)。
+    - The shì, crafted meticulously by artisans, shimmers under the sunlight with a metallic glow.
+### 装(裝) → 衣(衣)
+- **definition:** clothes
+- **pinyin:** yī
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a basic outline of a garment with sleeves hanging down.
+  - **interpretation:** The character 衣(衣) (yī, 'clothes') clearly resembles a simple garment, with parts representing sleeves and the body of clothing. This visual representation aligns with its meaning of 'clothes' or 'clothing.'
+- **examples:**
+  - 这件衣很特别(這件衣很特別)。
+    - Zhè jiàn yī hěn tè bié.
+    - This piece of clothing is very special.
+  - 冬天来了(冬天來了)，人们换上了暖和的衣(人們換上了暖和的衣)。
+    - Dōngtiān lái le, rénmen huàn shàng le nuǎn huó de yī.
+    - Winter has arrived, and people put on warm clothes.
+---
+## 装(裝)
+### zhūang
+---
+## to pretend; to act as
+%%%
+## 动(動)
+---
+## to move
+### dòng
+---
+- **definition:** to move
+- **pinyin:** dòng
+- **components:**
+  - 力
+    - lì
+    - strength
+  - 重
+    - zhòng
+    - heavy
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 力(力) (lì, "strength") + 重(重) (zhòng, "heavy") =
+    - effort applied to shift weight ->
+    - move
+  - **interpretation:** 力(力) (lì, "strength") indicates action or exertion of force, while 重(重) (zhòng, "heavy") serves as a phonetic component capturing the character's pronunciation. Together, they convey the idea of using strength to move or change something.
+  - **simplification:** 动(動): Removed 艹(艹) from 重(重), leaving just another simpler form to represent the sound and meaning.
+- **examples:**
+  - 他动了动手指(他動了動手指)，同意了建议(同意了建議)。
+    - Tā dòngle dòng shǒuzhǐ, tóngyìle jiànyì.
+    - He moved his finger and agreed to the suggestion.
+  - 心动不已(心動不已)。
+    - Xīn dòng bù yǐ.
+    - His heart is constantly stirred.
+  - 局势频繁动荡(局勢頻繁動蕩)，民众渴望安定(民眾渴望安定)。
+    - Jú shì pínfán dòng dàng, mínzhòng kěwàng āndìng.
+    - The situation is frequently changing, and the people long for stability.
+### 动(動) → 力(力)
+- **definition:** strength
+- **pinyin:** lì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts either an arm bending out from the side of the body, or a wooden plough
+  - **interpretation:** The character 力(lì, 'strength') visually represents physical power through the image of an arm or tool, emphasizing the fundamental concept of muscular force.
+- **examples:**
+  - 他用尽全力(他用盡全力)，赢得比赛(贏得比賽)。
+    - Tā yòng jìn quánlì, yíng dé bǐsài.
+    - He used all his strength to win the competition.
+  - 他把力气用在学习上(他把力氣用在學習上)。
+    - Tā bǎ lìqì yòng zài xuéxí shàng.
+    - He applies his strength to his studies.
+  - 面对困难(面對困難)，他毫不退缩(他毫不退縮)，全力以赴(全力以赴)。
+    - Miànduì kùnnán, tā háo bù tuìsuō, quánlì yǐ fù.
+    - Facing difficulties, he neither retreats nor gives up, but goes all out.
+### 动(動) → 重(重)
+- **definition:** heavy
+- **pinyin:** zhòng
+- **components:**
+  - 人
+    - rén
+    - man
+  - 東
+    - dōng
+    - bag
+  - 土
+    - tǔ
+    - earth
+- **etymology:**
+  - **type:** Phono-semantic compound ( 形聲 / 形声 , OC *doŋ, *doŋʔ, *doŋs ) and ideogrammic compound ( 會意 / 会意 )
+  - **description:**
+    - 人(人) (rén, "man") + 東(東) (dōng, "bag") =
+    - a man carrying a bag ->
+    - 土(土) (tǔ, "earth") added to show the bag-carrying man is on the ground ->
+    - current form shows heaviness
+  - **interpretation:** This character combines the meaning of a person carrying a burden or bag, emphasizing the weight (heavy) of the load, with the semantic reinforcement of standing on the ground. This visually conveys the idea of heaviness.
+- **examples:**
+  - 这个箱子很重(這個箱子很重)。
+    - Zhège xiāngzi hěn zhòng.
+    - This box is very heavy.
+  - 我挑水井水时(我挑水井水時)，感觉瓶子异常重(感覺瓶子異常重)。
+    - Wǒ tiāo shuǐjǐng shuǐ shí, gǎnjué píngzi yìcháng zhòng.
+    - While I was drawing water from the well, I felt that the bottle was unusually heavy.
+### 动(動) → 重(重) → 人(人)
+- **definition:** man
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+### 动(動) → 重(重) → 東(東)
+- **definition:** bag
+- **pinyin:** dōng
+- **components:**
+  - 束
+    - shù
+    - bundle
+  - 橐
+    - tuó
+    - bag
+- **etymology:**
+  - **type:** Jiajie and ideogram
+  - **description:**
+    - Originally borrowed from 束(束) (shù, 'bundle') for sound similarity with 橐(橐) (tuó, 'bag') ->
+    - a horizontal stroke added to differentiate 東(東) (dōng, 'east') ->
+    - final form
+  - **interpretation:** 東(東) (dōng) was adapted from existing characters to convey its phonetic sound. It was visually modified to create a unique form, aiding differentiation from related or sound-alike characters.
+- **examples:**
+  - 我买了个新東(我買了個新東)。
+    - Wǒ mǎi le gè xīn dōng.
+    - I bought a new bag.
+  - 他把東放在桌上(他把東放在桌上)，准备去旅行(準備去旅行)。
+    - Tā bǎ dōng fàng zài zhuō shàng, zhǔnbèi qù lǚxíng.
+    - He put the bag on the table, preparing to travel.
+### 动(動) → 重(重) → 東(東) → 束(束)
+- **definition:** bundle
+- **pinyin:** shù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a bundle of sticks tied together
+  - **interpretation:** The character 束(束) (shù, 'bundle') visually represents a group of items, such as sticks or reeds, that have been gathered and tied tightly together. This depiction is direct and intuitive for conveying the idea of a bundle.
+- **examples:**
+  - 他拎着一束鲜花(他拎著一束鮮花)。
+    - Tā līn zhe yī shù xiānhuā.
+    - He is carrying a bundle of fresh flowers.
+  - 园丁修剪完花朵后(園丁修剪完花朵後)，将它们整理成一束(將它們整理成一束)。
+    - Yuándīng xiūjiǎn wán huāduǒ hòu, jiāng tāmen zhěnglǐ chéng yī shù.
+    - After trimming the flowers, the gardener arranged them into a bundle.
+  - 小贩把蔬菜捆成一束(小販把蔬菜捆成一束)，然后去市场出售(然後去市場出售)。
+    - Xiǎofàn bǎ shūcài kǔn chéng yī shù, ránhòu qù shìchǎng chūshòu.
+    - The vendor bundled the vegetables and then went to the market to sell them.
+### 动(動) → 重(重) → 東(東) → 橐(橐)
+- **definition:** bag
+- **pinyin:** tuó
+- **components:**
+  - 𣒚
+    - tuó
+    - bag with a bottom
+  - 石
+    - shí
+    - stone
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 𣒚 (bag with a bottom) + 石 (phonetic) =
+    - large carrying container
+  - **interpretation:** The character 橐 originally depicted a bag with a bottom, emphasizing its utility as a container. Over time, the phonetic component 石 (shí, "stone") was added, likely to provide a specific pronunciation, while retaining the semantic reference to a bag.
+### 动(動) → 重(重) → 東(東) → 橐(橐) → 𣒚(𣒚)
+- **definition:** bag with a bottom
+- **pinyin:** tuó
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a bag with a well-defined bottom
+  - **interpretation:** The character 𣒚 (tuó) visually represents a bag, emphasizing its structured bottom. This pictogram captures the basic form of a bag, highlighting its function and shape.
+### 动(動) → 重(重) → 東(東) → 橐(橐) → 石(石)
+- **definition:** stone
+- **pinyin:** shí
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stone beneath a cliff, where the upper part originally looked like a cliff (厂) but was distorted into 丆 over time.
+  - **interpretation:** The character 石(shí, 'stone') visually represents a stone in a natural setting, highlighting the element of a cliff or mountain. Its visual design aims to reflect the appearance of rocks lodged or embedded in a mountainous or cliff-like setting.
+- **examples:**
+  - 他在河边发现一块石(他在河邊發現一塊石)。
+    - Tā zài hé biān fāxiàn yī kuài shí.
+    - He discovered a piece of stone by the riverside.
+  - 孩子们喜欢堆石(孩子們喜歡堆石)，玩得开心(玩得開心)。
+    - Háizimen xǐhuān duī shí, wán de kāixīn.
+    - Children like to stack stones, playing happily.
+### 动(動) → 重(重) → 土(土)
+- **definition:** earth
+- **pinyin:** tǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound of earth
+  - **interpretation:** The character 土(tǔ, "earth") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.
+- **examples:**
+  - 农民耕土(農民耕土)，种出丰收(種出豐收)。
+    - Nóngmín gēng tǔ, zhòng chū fēngshōu.
+    - Farmers cultivate the earth and harvest abundantly.
+  - 院子里的土(院子裡的土)，适合种花(適合種花)。
+    - Yuànzi lǐ de tǔ, shìhé zhòng huā.
+    - The soil in the yard is suitable for planting flowers.
+---
+## 动(動)
+### dòng
+---
+## to move
+%%%
+## 危险(危險)
+---
+## dangerous
+### wēixiǎn
+---
+- **definition:** dangerous
+- **pinyin:** wēixiǎn
+- **components:**
+  - 危
+    - wēi
+    - dangerous; high; steep; critical
+  - 险(險)
+    - xiǎn
+    - danger; risk; hazard; peril
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 危(危) (wēi, "dangerous") + 險(險) (xiǎn, "danger") =
+    - a state of danger or risk
+  - **interpretation:** 危險(危險) (wēixiǎn, "dangerous") describes a situation that involves a high degree of risk or the potential for harm. The combination of 危(危) (wēi, "dangerous") and 險(險) (xiǎn, "danger") emphasizes the seriousness and potential threat inherent in such circumstances.
+- **examples:**
+  - 这里很危险(這裡很危險)。
+    - Zhèlǐ hěn wēixiǎn.
+    - It is dangerous here.
+  - 那条路很危险(那條路很危險)，许多人避而远之(許多人避而遠之)。
+    - Nà tiáo lù hěn wēixiǎn, xǔduō rén bì ér yuǎn zhī.
+    - That road is very dangerous, so many people avoid it.
+### 危险(危險) → 危(危)
+- **definition:** dangerous; high; steep; critical
+- **pinyin:** wēi
+- **components:**
+  - 懸
+    - xuán
+    - hang
+- **etymology:**
+  - **type:** variant form
+  - **description:** 危(危) (wēi, "dangerous") is a variant form of 懸(懸) (xuán, "hang")
+  - **interpretation:** The character 危(危) (wēi, "dangerous") is understood as a variant form of 懸(懸) (xuán, "hang"), emphasizing the meanings of danger and critical situations, derived from the notion of things hanging or suspended, which inherently carry risk.
+- **examples:**
+  - 山势险峻(山勢險峻)，情况危急(情況危急)。
+    - Shān shì xiǎnjùn(Shān shì xiǎnjùn)，qíngkuàng wēijí(qíngkuàng wēijí)。
+    - The mountain terrain is steep, and the situation is critical.
+  - 那条山路又危又陡(那條山路又危又陡)。
+    - Nà tiáo shānlù yòu wēi yòu dǒu(Nà tiáo shānlù yòu wēi yòu dǒu)。
+    - That mountain road is both dangerous and steep.
+  - 船行急流时(船行急流時)，处境非常危(處境非常危)。
+    - Chuán xíng jíliú shí(Chuán xíng jíliú shí)，chǔjìng fēicháng wēi(Chǔjìng fēicháng wēi)。
+    - When the boat sails in rapid currents, its situation is extremely dangerous.
+### 危险(危險) → 危(危) → 懸(懸)
+- **definition:** hang
+- **pinyin:** xuán
+- **components:**
+  - 縣
+    - xuán
+    - county
+  - 心
+    - xīn
+    - heart
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 縣(縣) (xuán) (phonetic, 'county') + 心(心) (xīn, 'heart') =
+    - originally 縣 also meant 'to hang'; 心 added for distinction ->
+    - 懸('hang')
+  - **interpretation:** The character 懸(xuán) combines the phonetic element 縣(縣) (xuán, 'county') with the semantic element 心(心) (xīn, 'heart'). The original character 縣 encompassed the meaning 'to hang,' and 心 was added to distinguish this meaning from 'county', resulting in 懸 for 'hang'.
+  - **simplification:** 悬(懸): The simplified form removes the 心(心) (xīn, 'heart') component, streamlining the complex phono-semantic compound.
+- **examples:**
+  - 他把画悬在墙上(他把畫懸在牆上)。
+    - Tā bǎ huà xuán zài qiáng shàng.
+    - He hangs the painting on the wall.
+  - 树枝上悬着风铃(樹枝上懸著風鈴)，微风拂过枝头(微風拂過枝頭)。
+    - Shù zhī shàng xuán zhe fēng líng, wēi fēng fú guò zhī tóu.
+    - Wind chimes hang on the branches, and a gentle breeze brushes through the boughs.
+  - 古城桥上悬挂着彩灯(古城橋上懸掛著彩燈)。
+    - Gǔ chéng qiáo shàng xuán guà zhe cǎi dēng.
+    - Colorful lanterns hang on the ancient city bridge.
+### 危险(危險) → 危(危) → 懸(懸) → 縣(縣)
+- **definition:** county
+- **pinyin:** xuán
+- **components:**
+  - 目
+    - mù
+    - eye
+  - 木
+    - mù
+    - tree
+  - 糸
+    - sī
+    - string
+  - 懸
+    - xuán
+    - to hang
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 目(目) (mù, "eye/head") + 木(木) (mù, "tree") + 糸(糸) (sī, "string") =
+    - hanging a head by string on a tree ->
+    - referred to 懸(xuán, "to hang") ->
+    - later borrowed for 縣 (xuán, "county")
+  - **interpretation:** The character 縣 originally depicted the head (eye) being hung by a string on a tree, symbolizing the action of hanging. This character was later borrowed for administrative divisions, likely due to the phonetic similarity to 懸(xuán, "to hang"). Over time, the original representation was adapted and corrupted, but the connotations of oversight and governance (like an overseer hanging over an area) may have influenced its adoption for 'county.'
+  - **simplification:** The traditional character 縣 was simplified to 县 by removing 糸(糸) (sī, "string") and simplifying the components for ease of writing, while retaining phonetic aspects.
+- **examples:**
+  - 我住在一个小县(我住在一個小縣)。
+    - Wǒ zhù zài yīgè xiǎo xuán.
+    - I live in a small county.
+  - 他访问了古老的县(他訪問了古老的縣)，体验了乡村风情(體驗了鄉村風情)。
+    - Tā fǎngwèn le gǔlǎo de xuán, tǐyàn le xiāngcūn fēngqíng.
+    - He visited an ancient county and experienced the rural customs.
+  - 他们骑车穿过县城(他們騎車穿過縣城)，感受了悠久的文化(感受了悠久的文化)。
+    - Tāmen qí chē chuānguò xuánchéng, gǎnshòu le yōujiǔ de wénhuà.
+    - They rode bicycles through the county town and experienced its long-standing culture.
+### 危险(危險) → 危(危) → 懸(懸) → 縣(縣) → 目(目)
+- **definition:** eye
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a human eye, now represented and rotated 90 degrees ->
+    - eye
+  - **interpretation:** The character 目(mù, 'eye') is a pictogram representing a human eye. Its original orientation has changed over time, resembling an eye seen from a sideways view.
+- **examples:**
+  - 他的目光炯炯有神(他的目光炯炯有神)。
+    - Tā de mùguāng jiǒngjiǒng yǒu shén.
+    - His gaze is bright and full of spirit.
+  - 她目不转睛(她目不轉睛)，注视前方(注視前方)。
+    - Tā mù bù zhuǎn jīng, zhùshì qiánfāng.
+    - She stared intently, gazing ahead.
+  - 雄鹰展翅(雄鷹展翅)，双目炯炯看天际(雙目炯炯看天際)。
+    - Xióng yīng zhǎn chì, shuāng mù jiǒngjiǒng kàn tiānjì.
+    - The eagle spreads its wings, its eyes piercingly gaze at the horizon.
+### 危险(危險) → 危(危) → 懸(懸) → 縣(縣) → 木(木)
+- **definition:** tree
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+### 危险(危險) → 危(危) → 懸(懸) → 縣(縣) → 糸(糸)
+- **definition:** string
+- **pinyin:** sī
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
+- **examples:**
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
+### 危险(危險) → 危(危) → 懸(懸) → 心(心)
+- **definition:** heart
+- **pinyin:** xīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stylized representation of a heart
+  - **interpretation:** The character 心(xīn, 'heart') visually represents the shape of a heart, emphasizing its central and essential role in both a physical and metaphorical sense.
+- **examples:**
+  - 他的心温暖无比(他的心溫暖無比)。
+    - Tā de xīn wēnnuǎn wúbǐ.
+    - His heart is incredibly warm.
+  - 她把心放在艺术上(她把心放在藝術上)，追求完美(追求完美)。
+    - Tā bǎ xīn fàng zài yìshù shàng, zhuīqiú wánměi.
+    - She dedicates her heart to art, pursuing perfection.
+  - 音乐直击心灵(音樂直擊心靈)。
+    - Yīnyuè zhí jī xīnlíng.
+    - Music strikes straight at the heart (soul).
+### 危险(危險) → 险(險)
+- **definition:** danger; risk; hazard; peril
+- **pinyin:** xiǎn
+- **components:**
+  - 阝(阜)
+    - fù
+    - mound
+  - 僉
+    - qiān
+    - gather
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 阝(阜) (fù, "mound") + phonetic: 僉(僉) (qiān) =
+    - resembling a mound or high ground + phonetic value ->
+    - danger or risk
+  - **interpretation:** The character 險(險) (xiǎn, "danger") combines the element 阝(阜) (fù, "mound"), suggesting something elevated or protruding like a hill, and the phonetic 僉(僉) (qiān), which provides the pronunciation and implies a sense of accumulation or incorporation, thus together indicating a place or situation that poses potential threat or difficulty due to its terrain or circumstances.
+  - **simplification:** 險(險) was simplified to 险(險) by changing the left-side 阝(阜) to its common simplified form 阝(阜), while retaining the phonetic component 僉(僉); however, 阝 represents a simplified version of the original with fewer strokes.
+- **examples:**
+  - 他决定冒险一试(他決定冒險一試)。
+    - Tā juédìng màoxiǎn yī shì.
+    - He decided to take the risk and give it a try.
+  - 驾驶时要小心(駕駛時要小心)，避免不必要的险情(避免不必要的險情)。
+    - Jiàshǐ shí yào xiǎoxīn, bìmiǎn bù bìyào de xiǎnqíng.
+    - Drive carefully to avoid unnecessary dangers.
+  - 探险家穿越原始森林时(探險家穿越原始森林時)，面临着未知的险境(面臨著未知的險境)。
+    - Tànxiǎnjiā chuānyuè yuánshǐ sēnlín shí, miànlínzhe wéizhī de xiǎnjìng.
+    - The explorer, while traversing the primeval forest, faced unknown hazards.
+### 危险(危險) → 险(險) → 阝(阝)
+- **definition:** mound
+- **pinyin:** fù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a small mound or hillock.
+  - **interpretation:** The character 阝(阝) (fù, 'mound') visually represents a small elevation of land, resembling a hillside or embankment.
+- **examples:**
+  - 小山顶上耸立着阝(小山頂上聳立著阜)。
+    - Xiǎo shāndǐng shàng sǒnglì zhe fù.
+    - A small mound stands atop the hill.
+  - 山坡上长满了绿色的草丛(山坡上長滿了綠色的草叢)，山丘边坐落着一座古老的阝(山丘邊坐落著一座古老的阜)。
+    - Shānpō shàng cháng mǎn le lǜsè de cǎocóng, shānqiū biān zuòluò zhe yī zuò gǔlǎo de fù.
+    - The hillside is covered with green grass, and an ancient mound sits by the hill.
+  - 远处沙丘边隐约可见一堆阝(遠處沙丘邊隱約可見一堆阜)，仿佛历史的见证(彷彿歷史的見證)。
+    - Yuǎnchù shāqiū biān yǐnyuē kějiàn yī duī fù, fǎngfú lìshǐ de jiànzhèng.
+    - In the distance, a pile of mounds is barely visible by the sand dunes, as if witnessing history.
+### 危险(危險) → 险(險) → 僉(僉)
+- **definition:** gather
+- **pinyin:** qiān
+- **components:**
+  - 亼
+    - jiē
+    - to gather
+  - 兄
+    - xiōng
+    - older brother
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 亼(亼) (jiē, "to gather") + 兄(兄) (xiōng, "older brother") written twice =
+    - people answering to a call together ->
+    - 僉 (qiān, "gather")
+  - **interpretation:** The character 僉 (qiān, "gather") visually represents multiple people uniting or agreeing unanimously. The components 亼(亼) and the repetition of 兄(兄) convey the idea of a collective response, aligning with the meaning of gathering or joining.
+### 危险(危險) → 险(險) → 僉(僉) → 亼(亼)
+- **definition:** to gather
+- **pinyin:** jiē
+- **components:**
+  - 入
+    - rù
+    - enter
+  - 一
+    - yī
+    - one
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 入(入) (rù, "enter") + 一(一) (yī, "one") =
+    - gathering from three sides
+  - **interpretation:** 亼(亼) (jiē, "to gather") combines 入(入) (rù, "enter") and 一(一) (yī, "one"), illustrating the concept of gathering by combining elements from multiple directions into one. This ideogram reflects the grouping or convergence of items, akin to assembling or coming together.
+### 危险(危險) → 险(險) → 僉(僉) → 亼(亼) → 入(入)
+- **definition:** enter
+- **pinyin:** rù
+- **etymology:**
+  - **type:** ideogram
+  - **description:** An arrowhead indicating 'to enter'
+  - **interpretation:** The character 入(rù, 'enter') visually represents the concept of entering, with the form resembling an arrowhead suggesting movement through an opening.
+- **examples:**
+  - 请入座(請入座)。
+    - Qǐng rùzuò.
+    - Please take a seat.
+  - 学生走入校园(學生走入校園)，开始新学期(開始新學期)。
+    - Xuéshēng zǒu rù xiàoyuán, kāishǐ xīn xuéqī.
+    - The students enter the campus and start a new semester.
+  - 游客走入古城(遊客走入古城)，探索历史(探索歷史)。
+    - Yóukè zǒu rù gǔchéng, tànsuǒ lìshǐ.
+    - The tourists enter the ancient city and explore its history.
+### 危险(危險) → 险(險) → 僉(僉) → 亼(亼) → 一(一)
+- **definition:** one
+- **pinyin:** yī
+- **etymology:**
+  - **type:** ideogram
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
+- **examples:**
+  - 我有一个苹果(我有一個蘋果)。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一条直路通向远方(一條直路通向遠方)。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+### 危险(危險) → 险(險) → 僉(僉) → 兄(兄)
+- **definition:** older brother
+- **pinyin:** xiōng
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 儿
+    - ér
+    - child
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 口(口) (kǒu, "mouth") + 儿(儿) (ér, "child") =
+    - giving orders ->
+    - elder brother
+  - **interpretation:** The character 兄(兄) (xiōng, "brother") combines 口(口) (kǒu, "mouth") with 儿(儿) (ér, "child") to depict an elder brother who gives orders. This conveys the traditional family role of the elder brother as a figure of authority, similar to other characters like 令(令) (lìng, "order") that emphasize the act of speaking or commanding.
+- **examples:**
+  - 我兄从小向我传授智慧(我兄從小向我傳授智慧)，使我终生受益(使我終生受益)。
+    - wǒ xiōng cóng xiǎo xiàng wǒ chuánshòu zhìhuì, shǐ wǒ zhōngshēng shòuyì.
+    - My brother taught me wisdom from childhood, which has benefited me all my life.
+  - 贤兄常助我困境(賢兄常助我困境)。
+    - xián xiōng cháng zhù wǒ kùn jìng.
+    - My worthy brother often helps me overcome difficulties.
+### 危险(危險) → 险(險) → 僉(僉) → 兄(兄) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 危险(危險) → 险(險) → 僉(僉) → 兄(兄) → 儿(兒)
+- **definition:** child
+- **pinyin:** ér
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a person standing upright, showing legs
+  - **interpretation:** The character 儿(兒) (ér) originally represents a stylized depiction of a person, particularly emphasizing the legs as if they are walking or standing. This provides a visual representation of the concept 'person'.
+- **examples:**
+  - 他是个勇敢的儿(他是個勇敢的兒)。
+    - Tā shì gè yǒnggǎn de ér.
+    - He is a brave person.
+  - 村里有一个勤劳的儿(村里有一個勤勞的兒)，总帮助邻居解决问题(總幫助鄰居解決問題)。
+    - Cūn lǐ yǒu yī gè qínláo de ér, zǒng bāngzhù línjū jiějué wèntí.
+    - There is a hardworking person in the village, who always helps neighbors solve problems.
+  - 古城中流传着一位智者儿(古城中流傳著一位智者兒)，他的故事激励后人(他的故事激勵後人)。
+    - Gǔ chéng zhōng liúchuán zhe yī wèi zhìzhě de ér, tā de gùshì jīlì hòurén.
+    - In the ancient city, the story of a wise person is passed down, and his tale inspires future generations.
+---
+## 危险(危險)
+### wēixiǎn
+---
+## dangerous
+%%%
+## 条(條)
+---
+## strip; long narrow piece; measure word for long objects
+### tiáo
+---
+- **definition:** strip; long narrow piece; measure word for long objects
+- **pinyin:** tiáo
+- **components:**
+  - 攸
+    - yōu
+    - distant
+  - 木
+    - mù
+    - wood
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 攸(攸) (yōu, "distant") + Semantic: 木(木) (mù, "wood") =
+    - small branch reference ->
+    - strip or item
+  - **interpretation:** The character 條(條) (tiáo, "strip; item") combines the phonetic element 攸(攸) (yōu, "distant") with the semantic 木(木) (mù, "wood") to convey the idea of a wooden strip or item. This aligns with its meaning related to strips or items made of wood.
+  - **simplification:** 条(條) uses a similar top component 攸(攸) from 條(條), with a simplified overall structure but retains phonetic and semantic references.
+- **examples:**
+  - 我买了一条裙子(我買了一條裙子)。
+    - Wǒ mǎi le yī tiáo qúnzi.
+    - I bought a skirt.
+  - 他在公园看到一条蜥蜴(他在公園看到一條蜥蜴)，迅速跑开(迅速跑開)。
+    - Tā zài gōngyuán kàn dào yī tiáo xīyì, xùnsù pǎokāi.
+    - He saw a lizard in the park and ran away quickly.
+  - 这本小说分为五条故事线(這本小說分為五條故事線)，各自精彩纷呈(各自精彩紛呈)。
+    - Zhè běn xiǎoshuō fēnwéi wǔ tiáo gùshì xiàn, gèzì jīngcǎi fēnchéng.
+    - This novel is divided into five storylines, each wonderfully exciting.
+### 条(條) → 攸(攸)
+- **definition:** distant
+- **pinyin:** yōu
+- **components:**
+  - 人
+    - rén
+    - person
+  - 攴
+    - pū
+    - strike
+  - 水
+    - shuǐ
+    - water
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 人(人) (rén, "person") + 攴(攴) (pū, "strike") + 水(水) (shuǐ, "water") added perhaps as dots ->
+    - representing warning with the stick or purification with water ->
+    - original version of 修(修) (xiū, "repair") or possible link to 滌(滌) (dí, "wash")
+  - **interpretation:** The character 攸 is believed to symbolize a person receiving a warning through a hand holding authority or involving water for purification, embodying the concept of correction or cleansing. It has implications of both warning and purification from its components.
+### 条(條) → 攸(攸) → 人(人)
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他是个好人(他是個好人)。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
+### 条(條) → 攸(攸) → 攴(攴)
+- **definition:** strike
+- **pinyin:** pū
+- **components:**
+  - 手
+    - shǒu
+    - hand
+  - 又
+    - yòu
+    - hand
+  - 卜
+    - bǔ
+    - divine
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - 手(手) (shǒu, 'hand') depicted as 又(又) (yòu, 'hand') holding a tool ->
+    - later stylized to look like 卜(卜) (bǔ, 'divine') ->
+    - simplified further
+  - **interpretation:** The character 攴 originally depicted a hand holding a tool, possibly implying action such as hitting. Over time, for stylistic reasons, it was modified to resemble the component 卜, even though the phonetic aspect was retained.
+- **examples:**
+  - 他用手指攴(他用手指攴)轻叩鼓面(輕叩鼓面)，传递出节奏的信号(傳遞出節奏的信號)。
+    - Tā yòng shǒuzhǐ pū le qīng kòu gǔmiàn, chuándì chū jiézòu de xìnhào.
+    - He tapped the drum surface lightly with his finger, conveying the rhythm's signal.
+  - 她突然攴(她突然攴)了一下门(了一下門)，唤起了室内的安静(喚起了室內的安靜)。
+    - Tā túrán pū le yīxià mén, huànqǐ le shìnèi de ānjìng.
+    - She suddenly tapped the door, awakening the quiet inside.
+### 条(條) → 攸(攸) → 攴(攴) → 手(手)
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手(手) (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他用手写字(他用手寫字)。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈妈牵着我的手走路(媽媽牽著我的手走路)。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
+### 条(條) → 攸(攸) → 攴(攴) → 又(又)
+- **definition:** hand
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又(又) (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+### 条(條) → 攸(攸) → 攴(攴) → 卜(卜)
+- **definition:** divine
+- **pinyin:** bǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a divination crack in a tortoise shell or bone
+  - **interpretation:** The character 卜(bǔ, "divination") represents the practice of divination used in ancient China, often involving the interpretation of cracks in tortoise shells or bones.
+- **examples:**
+  - 占卜是一种神秘的艺术(占卜是一種神秘的藝術)。
+    - Zhānbǔ shì yī zhǒng shénmì de yìshù.
+    - Divination is a mysterious art.
+  - 他通过卜算未来(他通過卜算未來)，探寻隐秘的命运(探尋隱秘的命運)。
+    - Tā tōngguò bǔsuàn wèilái, tànxún yǐnmì de mìngyùn.
+    - He uses divination to predict the future, seeking out his hidden destiny.
+  - 古代人常以卜问吉凶(古代人常以卜問吉凶)，以求平安和顺(以求平安和順)。
+    - Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.
+    - Ancient people often practiced divination to determine fortune, in order to pursue peace and order.
+### 条(條) → 攸(攸) → 水(水)
+- **definition:** water
+- **pinyin:** shuǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts flowing water
+  - **interpretation:** 水(水) (shuǐ, 'water') is a pictogram that directly represents the appearance of flowing water, making it intuitive and easy to recognize. Its simplicity and direct visual reference to its meaning have allowed it to remain unchanged over millennia.
+- **examples:**
+  - 水是一种生命之源(水是一種生命之源)。
+    - Shuǐ shì yī zhǒng shēngmìng zhī yuán.
+    - Water is the source of life.
+  - 夏天很热(夏天很熱)，喝水能解暑(喝水能解暑)。
+    - Xiàtiān hěn rè, hē shuǐ néng jiě shǔ.
+    - It is very hot in summer, drinking water can relieve the heat.
+  - 河水潺潺(河水潺潺)，沿岸绿树成荫(沿岸綠樹成蔭)。
+    - Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.
+    - The river flows babbling, and green trees along the bank provide shade.
+### 条(條) → 木(木)
+- **definition:** wood
+- **pinyin:** mù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tree with branches and roots
+  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
+- **examples:**
+  - 这把椅子的主要材料是木(這把椅子的主要材料是木)。
+    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
+    - The main material of this chair is wood.
+  - 工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。
+    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
+    - The craftsman carefully carved the wood, crafting exquisite furniture.
+---
+## 条(條)
+### tiáo
+---
+## strip; long narrow piece; measure word for long objects
+%%%
+## 龙(龍)
+---
+## dragon
+### lóng
+---
+- **definition:** dragon
+- **pinyin:** lóng
+- **components:**
+  - 辰
+    - chén
+    - early form of dragon
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 辰(辰) (chén, "early form of dragon") as phonetic + stylized depiction of a dragon body =
+    - 龙 ->
+    - dragon
+  - **interpretation:** 龙(龍) (lóng, "dragon") combines a phonetic element from 辰(辰) (chén, "early form of dragon") with a stylized representation of a dragon's body, capturing both sound and essence to represent the mythical creature.
+  - **simplification:** 龙(龍) simplified by combining phonetic 辰(辰) with a less detailed body form to represent the dragon.
+- **examples:**
+  - 传说中的龙能呼风唤雨(傳說中的龍能呼風喚雨)。
+    - Chuánshuō zhōng de lóng néng hū fēng huàn yǔ.
+    - The legendary dragon can summon wind and rain.
+  - 皇宫中悬挂着龙袍(皇宮中懸掛著龍袍)，象征着至高无上的权力(象徵著至高無上的權力)。
+    - Huánggōng zhōng xuánguà zhe lóng páo, xiàngzhēng zhe zhìgāo wúshàng de quánlì.
+    - In the imperial palace, the dragon robe hangs, symbolizing supreme power.
+### 龙(龍) → 辰(辰)
+- **definition:** early form of dragon
+- **pinyin:** chén
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a heavenly body or a celestial presence, often associated with dragons in ancient mythology.
+  - **interpretation:** 辰(辰) (chén, "early form of dragon") originally depicted a celestial body that was believed to influence time and was associated with dragons due to mythological links between dragons and celestial phenomena.
+- **examples:**
+  - 古代传说中的辰是神秘而强大的生物(古代傳說中的辰是神秘而強大的生物)。
+    - Gǔdài chuánshuō zhōng de chén shì shénmì ér qiángdà de shēngwù.
+    - In ancient legends, the chén is a mysterious and powerful creature.
+  - 东方初升的朝阳映照着辰的鳞光(東方初升的朝陽映照著辰的鱗光)，唤起了古老的神话(喚起了古老的神話)。
+    - Dōngfāng chūshēng de cháoyáng yìngzhào zhe chén de línguāng, huànqǐ le gǔlǎo de shénhuà.
+    - The rising morning sun in the east illuminates the scales of the chén, evoking ancient myths.
+  - 传承了古老智慧的文献记载了辰的奇迹(傳承了古老智慧的文獻記載了辰的奇蹟)，使后人对它充满敬畏(使後人對它充滿敬畏)。
+    - Chuánchéng le gǔlǎo zhìhuì de wénxiàn jìzǎi le chén de qíjī, shǐ hòurén duì tā chōngmǎn jìngwèi.
+    - Ancient texts carrying old wisdom recorded the miracles of the chén, filling later generations with awe.
+---
+## 龙(龍)
+### lóng
+---
+## dragon
+%%%
+## 拍(拍)
+---
+## to pat; to beat; to take (a picture)
+### pāi
+---
+- **definition:** to pat; to beat; to take (a picture)
+- **pinyin:** pāi
+- **components:**
+  - 骨
+    - gǔ
+    - bone
+  - 尃
+    - fū
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 骨(骨) (gǔ, "bone") + 尃(尃) (fū) =
+    - semantic + phonetic elements
+  - **interpretation:** Originally, 拍(拍) was an obsolete form of 髆(髆), where it combined the semantic element 骨(骨) (gǔ, "bone") with the phonetic element 尃(尃) (fū). The character has evolved to mean 'to pat' or 'to take a picture,' likely due to the action of tapping or hitting lightly, similar to the precision and care in focusing a camera.
+- **examples:**
+  - 妈妈轻轻拍我的肩膀(媽媽輕輕拍我的肩膀)。
+    - Māmā qīngqīng pāi wǒ de jiānbǎng.
+    - Mom gently patted my shoulder.
+  - 我们去公园(我們去公園)，拍美丽的风景(拍美麗的風景)。
+    - Wǒmen qù gōngyuán, pāi měilì de fēngjǐng.
+    - We go to the park to take pictures of the beautiful scenery.
+  - 他生气地拍桌子(他生氣地拍桌子)。
+    - Tā shēngqì de pāi zhuōzi.
+    - He angrily banged on the table.
+### 拍(拍) → 骨(骨)
+- **definition:** bone
+- **pinyin:** gǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts the human spine and ribs, resembling a skeletal structure.
+  - **interpretation:** The character 骨(骨) (gǔ, "bone") visually represents the shape and layout of a human spine and ribs.
+- **examples:**
+  - 这根骨很坚硬(這根骨很堅硬)。
+    - Zhè gēn gǔ hěn jiānyìng.
+    - This bone is very hard.
+  - 老中医观察骨的脉络(老中醫觀察骨的脈絡)，寻找健康之秘(尋找健康之秘)。
+    - Lǎo zhōngyī guānchá gǔ de màiluò, xúnzhǎo jiànkāng zhī mì.
+    - The experienced Chinese doctor examines the bone structure to seek the secret of health.
+### 拍(拍) → 尃(尃)
+- **pinyin:** fū
+- **components:**
+  - 甫
+    - fǔ
+    - garden
+  - 寸
+    - cùn
+    - hand
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 甫(甫) (fǔ, "garden") + 寸(寸) (cùn, "hand") =
+    - hand distributing crops in a garden ->
+    - represents distribution
+  - **interpretation:** The character 尃 represents the action of distributing crops, combining the phonetic element 甫(甫) (fǔ, "garden"), which suggests a location for growth, with the semantic element 寸(寸) (cùn, "hand"), indicating an action. This compound reflects the concept of spreading or distributing in a field setting.
+### 拍(拍) → 尃(尃) → 甫(甫)
+- **definition:** garden
+- **pinyin:** fǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a broad field, originally representing a seedling sprouting from the earth, later associated with 'man' or 'male name'.
+  - **interpretation:** Originally a pictogram representing soil and a growing plant, 甫(甫) (fǔ, 'man') evolved to also symbolize a person, often used in names as a prefix denoting masculinity or adulthood.
+- **examples:**
+  - 他是一位正直的甫(他是一位正直的甫)。
+    - Tā shì yī wèi zhèngzhí de fǔ.
+    - He is an upright man.
+  - 古时英豪皆尊甫为表率(古時英豪皆尊甫為表率)。
+    - Gǔshí yīngháo jiē zūn fǔ wéi biǎolǜ.
+    - In ancient times, heroes all revered the man as a role model.
+  - 文史名家赞扬这位甫(文史名家讚揚這位甫)。
+    - Wénshǐ míngjiā zànyáng zhè wèi fǔ.
+    - Prominent writers and historians praised this man.
+### 拍(拍) → 尃(尃) → 寸(寸)
+- **definition:** hand
+- **pinyin:** cùn
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Line on the hand (ideographic) emphasizing the elbow ->
+    - represents measurement unit between wrist and specific forearm position ->
+    - meaning 'inch'
+  - **interpretation:** 寸(寸) (cùn, "inch") originated as a depiction of a line on the hand, indicating the area near the elbow. This specific placement was considered significant for pulse palpation, originally suggesting a forearm position, which then came to denote the measurement 'inch'.
+- **examples:**
+  - 这块布每一寸都是精心制作(這塊布每一寸都是精心製作)。
+    - Zhè kuài bù měi yī cùn dōu shì jīngxīn zhìzuò.
+    - Every inch of this cloth is crafted with care.
+  - 请用卷尺量一寸(請用卷尺量一寸)，每一寸数据都准确(每一寸數據都準確)。
+    - Qǐng yòng juǎnchǐ liàng yī cùn, měi yī cùn shùjù dōu zhǔnquè.
+    - Please use a tape measure to measure an inch, every inch's data is accurate.
+---
+## 拍(拍)
+### pāi
+---
+## to pat; to beat; to take (a picture)
+%%%
+## 秋天(秋天)
+---
+## autumn
+### qiūtiān
+---
+- **definition:** autumn
+- **pinyin:** qiūtiān
+- **components:**
+  - 秋
+    - qiū
+    - autumn
+  - 天
+    - tiān
+    - sky; day; heavens
+- **etymology:**
+  - **type:** compound word
+  - **description:** 秋(秋) (qiū, "autumn") and 天(天) (tiān, "sky; day; heavens") come together to refer to the season of autumn.
+  - **interpretation:** The combination 秋(秋) (qiū, "autumn") and 天(天) (tiān, "sky; day; heavens") denotes the time of year when autumn is present in the sky, symbolizing the autumn season. This aligns with the traditional division of the year into seasons observed in Chinese culture.
+- **examples:**
+  - 秋天来了(秋天來了)。
+    - Qiūtiān láile.
+    - Autumn has arrived.
+  - 秋天的风很凉爽(秋天的風很涼爽)，树叶开始变黄(樹葉開始變黃)。
+    - Qiūtiān de fēng hěn liángshuǎng, shùyè kāishǐ biàn huáng.
+    - The autumn wind is cool, and the leaves begin to turn yellow.
+  - 秋天到了(秋天到了)，农民开始忙碌(農民開始忙碌)。
+    - Qiūtiān dàole, nóngmín kāishǐ mánglù.
+    - Autumn has come, and the farmers start to bustle about.
+### 秋天(秋天) → 秋(秋)
+- **definition:** autumn
+- **pinyin:** qiū
+- **components:**
+  - 禾
+    - hé
+    - grain
+  - 火
+    - huǒ
+    - fire
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 禾(禾) (hé, 'grain') + 火(火) (huǒ, 'fire') =
+    - grain + fire ->
+    - harvest time ->
+    - autumn
+  - **interpretation:** The character combines 'grain' and 'fire', symbolizing the practice of burning fields after harvest, marking autumn as harvest time.
+- **examples:**
+  - 秋天来了(秋天來了)。
+    - Qiū tiān lái le.
+    - Autumn has arrived.
+  - 秋风送爽(秋風送爽)，稻谷金黄(稻穀金黃)。
+    - Qiū fēng sòng shuǎng, dào gǔ jīn huáng.
+    - The autumn breeze brings coolness, and the rice is golden.
+  - 在秋季的午后(在秋季的午后)，书香满室(書香滿室)。
+    - Zài qiū jì de wǔ hòu, shū xiāng mǎn shì.
+    - On an autumn afternoon, the room is filled with the fragrance of books.
+### 秋天(秋天) → 秋(秋) → 禾(禾)
+- **definition:** grain
+- **pinyin:** hé
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a stalk of grain or cereal plant
+  - **interpretation:** The character 禾(禾) (hé, 'grain') visually represents a plant with roots and leaves, focusing on the appearance of staple crops like rice or millet. This clearly conveys its meaning as it resembles the actual shape of a plant grown for its grain.
+- **examples:**
+  - 收获的禾香弥漫在田野中(收穫的禾香彌漫在田野中)。
+    - Shōuhuò de hé xiāng mímàn zài tiányě zhōng.
+    - The fragrance of grain filled the fields.
+  - 农民辛勤耕作(農民辛勤耕作)，收割禾穗(收割禾穗)。
+    - Nóngmín xīnqín gēngzuò, shōugē hé suì.
+    - The hardworking farmers harvested the ears of grain.
+  - 春雨滋润了禾苗(春雨滋潤了禾苗)，预示着丰收(預示著豐收)。
+    - Chūnyǔ zīrùn le hé miáo, yùshì zhe fēngshōu.
+    - The spring rain nourished the grain seedlings, foreshadowing a bountiful harvest.
+### 秋天(秋天) → 秋(秋) → 火(火)
+- **definition:** fire
+- **pinyin:** huǒ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts flames rising from a fire
+  - **interpretation:** The character 火(火) (huǒ, "fire") visually represents flames flickering upwards, which intuitively conveys the essence of fire. This simple depiction is an effective way to capture the dynamic and essential nature of fire.
+- **examples:**
+  - 火在壁炉中熊熊燃烧(火在壁爐中熊熊燃燒)。
+    - Huǒ zài bìlú zhōng xióngxióng ránshāo.
+    - The fire burns fiercely in the fireplace.
+  - 野外露营时(野外露營時)，火能驱走寒冷(火能驅走寒冷)。
+    - Yěwài lùyíng shí, huǒ néng qūzǒu hánlěng.
+    - When camping outdoors, the fire can drive away the cold.
+  - 遇到火灾时(遇到火災時)，迅速疏散最为重要(迅速疏散最為重要)。
+    - Yù dào huǒzāi shí, xùnsù shū sàn zuìwéi zhòngyào.
+    - In case of a fire, evacuating quickly is of utmost importance.
+### 秋天(秋天) → 天(天)
+- **definition:** sky; day; heavens
+- **pinyin:** tiān
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
+---
+## 秋天(秋天)
+### qiūtiān
+---
+## autumn
+%%%
+## 阴天(陰天)
+---
+## cloudy sky; overcast weather
+### yīntiān
+---
+- **definition:** cloudy sky; overcast weather
+- **pinyin:** yīntiān
+- **components:**
+  - 阴(陰)
+    - yīn
+    - cloudy; overcast
+  - 天
+    - tiān
+    - sky
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 陰(阴) (yīn, "cloudy; overcast") + 天(天) (tiān, "sky") =
+    - "cloudy sky; overcast weather"
+  - **interpretation:** A 天(天) (tiān, "sky") that is 陰(阴) (yīn, "cloudy") refers to weather conditions where the sky is covered with clouds, resulting in overcast weather. The combination succinctly conveys the concept of a day with gloomy weather.
+- **examples:**
+  - 今天是阴天(今天是陰天)，我们打算待在家里(我們打算待在家裡)。
+    - Jīntiān shì yīntiān, wǒmen dǎsuàn dāi zài jiālǐ.
+    - Today is overcast, and we plan to stay at home.
+  - 阴天(陰天)使得景色显得柔和(使得景色顯得柔和)。
+    - Yīntiān shǐdé jǐngsè xiǎnde róuhé.
+    - The cloudy sky makes the scenery appear soft.
+  - 虽然今天是阴天(雖然今天是陰天)，但心情却很晴朗(但心情卻很晴朗)。
+    - Suīrán jīntiān shì yīntiān, dàn xīnqíng què hěn qínglǎng.
+    - Although today is overcast, the mood is still quite bright.
+### 阴天(陰天) → 阴(陰)
+- **definition:** cloudy; overcast
+- **pinyin:** yīn
+- **components:**
+  - 阜
+    - fù
+    - mound
+  - 侌
+    - yīn
+    - phonetic
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Semantic: 阜(阜) (fù, "mound") + Phonetic: 侌(侌) (yīn) =
+    - concealed places or shade ->
+    - moon and female associations
+  - **interpretation:** The character 阴(陰) (yīn, "concealed") uses 阜(阜) (fù, "mound") to suggest a connection to physical features like hills or mounds that create shade, while 侌(侌) (yīn) contributes the sound. This relates to concepts of concealment, shadow, and indirectly the moon and femininity in traditional Chinese thought.
+  - **simplification:** The character 阴(阴) replaces the phonetic 侌(侌) (yīn) with 月(月) (yuè, "moon"), making it visually more simple and retaining the association with moon-related meanings.
+- **examples:**
+  - 北方的阴雨绵绵(北方的陰雨綿綿)，让人感到忧郁(讓人感到憂鬱)。
+    - Běifāng de yīnyǔ miánmián, ràng rén gǎndào yōuyù.
+    - The continuous gloomy drizzle in the north makes people feel depressed.
+  - 她展现出阴柔之美(她展現出陰柔之美)，令人着迷(令人著迷)。
+    - Tā zhǎnxiàn chū yīnróu zhī měi, lìng rén zháomí.
+    - She displays a unique feminine grace that captivates people.
+  - 夜幕降临时(夜幕降臨時)，月色显得格外阴柔(月色顯得格外陰柔)。
+    - Yèmù jiànglín shí, yuèsè xiǎndé géwài yīnróu.
+    - As night falls, the moonlight appears especially soft and feminine.
+### 阴天(陰天) → 阴(陰) → 阜(阜)
+- **definition:** mound
+- **pinyin:** fù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a mound or hill, with a shape that suggests an elevated landform.
+  - **interpretation:** The character 阜(阜) (fù, "mound") originally depicted the silhouette of a small hill or mound, representing its natural shape and structure.
+- **examples:**
+  - 山边的小阜上(山邊的小阜上)，盛开着野花(盛開著野花)。
+    - Shān biān de xiǎo fù shàng, shèng kāi zhe yě huā.
+    - Wildflowers bloom atop the small mound by the mountainside.
+  - 古道尽头有阜(古道盡頭有阜)。
+    - Gǔ dào jìn tóu yǒu fù.
+    - There is a mound at the end of the ancient road.
+### 阴天(陰天) → 阴(陰) → 侌(侌)
+- **definition:** phonetic
+- **pinyin:** yīn
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:** Originally an ancient form of 陰(陰) (yīn, 'shady').
+  - **interpretation:** 侌(侌) (yīn, 'phonetic') is an ancient form associated with the character 陰(陰) (yīn, 'shady'), where it served as the phonetic component to denote the sound of the character. In its later usage, it became recognized as a stand-alone phono-semantic element, highlighting its phonetic significance.
+### 阴天(陰天) → 天(天)
+- **definition:** sky
+- **pinyin:** tiān
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
+---
+## 阴天(陰天)
+### yīntiān
+---
+## cloudy sky; overcast weather
+%%%
+## 下雪(下雪)
+---
+## to snow
+### xià xuě
+---
+- **definition:** to snow
+- **pinyin:** xià xuě
+- **components:**
+  - 下
+    - xià
+    - fall; descend; under; next
+  - 雪
+    - xuě
+    - snow; wipe away
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 下(下) (xià, "fall") + 雪(雪) (xuě, "snow") =
+    - when snow falls
+  - **interpretation:** The term 下雪 (xià xuě) literally means 'snow fall' and is used to describe the meteorological event when snow descends from the sky.
+- **examples:**
+  - 昨晚下雪了(昨晚下雪了)。
+    - Zuówǎn xià xuě le
+    - It snowed last night.
+  - 天越来越冷(天越來越冷)，下雪的日子真美(下雪的日子真美)。
+    - Tiān yuèláiyuè lěng, xià xuě de rìzi zhēn měi
+    - The weather is getting colder, and snowy days are truly beautiful.
+  - 一出门就遇到下雪(一出門就遇到下雪)，心情就变得愉快(心情就變得愉快)。
+    - Yī chūmén jiù yùdào xià xuě, xīnqíng jiù biàn dé yúkuài
+    - When I stepped out, it started snowing, and my mood instantly became cheerful.
+### 下雪(下雪) → 下(下)
+- **definition:** fall; descend; under; next
+- **pinyin:** xià
+- **components:**
+  - 一
+    - yī
+    - one
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - 一(一) (yī, "one") below horizontal line =
+    - below ->
+    - down
+  - **interpretation:** The character 下(xià, "down") visually represents something placed below another object. The simple representation of a line under a horizontal stroke symbolically conveys the concept of 'down' or 'below'.
+- **examples:**
+  - 请你下来(請你下來)。
+    - Qǐng nǐ xiàlái.
+    - Please come down.
+  - 他走下楼梯(他走下樓梯)，进入房间(進入房間)。
+    - Tā zǒu xià lóutī, jìnrù fángjiān.
+    - He walked down the stairs and entered the room.
+  - 雨下得很大(雨下得很大)，街道上满是积水(街道上滿是積水)。
+    - Yǔ xià de hěn dà, jiēdào shàng mǎn shì jīshuǐ.
+    - It rained heavily, and the streets were full of puddles.
+### 下雪(下雪) → 下(下) → 一(一)
+- **definition:** one
+- **pinyin:** yī
+- **etymology:**
+  - **type:** ideogram
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
+- **examples:**
+  - 我有一个苹果(我有一個蘋果)。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一条直路通向远方(一條直路通向遠方)。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+### 下雪(下雪) → 雪(雪)
+- **definition:** snow; wipe away
+- **pinyin:** xuě
+- **components:**
+  - 雨
+    - yǔ
+    - rain
+  - 彗
+    - huì
+    - broom
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Rain 雨(雨) (yǔ, "rain") + Phonetic 彗(彗) (huì, "broom") =
+    - sweeping away rain ->
+    - snow
+  - **interpretation:** The combination of 雨(雨) (yǔ, "rain") and 彗(彗) (huì, "broom") effectively conveys the idea of snow as light, fluffy precipitation that resembles rain being swept away like with a broom, likely reflecting how snow covers surfaces.
+  - **simplification:** The character 雪 is an ancient simplification of 䨮, both sharing the same components for rain and broom.
+- **examples:**
+  - 冬天来了(冬天來了)，雪花纷飞(雪花紛飛)。
+    - Dōngtiān láile, xuěhuā fēnfēi.
+    - Winter has arrived, and snowflakes are fluttering.
+  - 屋顶上挂着雪(屋頂上掛著雪)。
+    - Wūdǐng shàng guàzhe xuě.
+    - Snow is hanging on the roof.
+  - 初雪降临时(初雪降臨時)，万物银装(萬物銀裝)。
+    - Chū xuě jiànglín shí, wànwù yínzhuāng.
+    - When the first snow arrives, everything is dressed in silver.
+### 下雪(下雪) → 雪(雪) → 雨(雨)
+- **definition:** rain
+- **pinyin:** yǔ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a cloud with drops of rain falling from it ->
+    - horizontal stroke added later ->
+    - rain
+  - **interpretation:** 雨(雨) (yǔ, "rain") visually represents rain falling from a cloud, capturing its essential form.
+- **examples:**
+  - 今天雨下得很大(今天雨下得很大)。
+    - Jīntiān yǔ xià de hěn dà.
+    - It rained hard today.
+  - 他忘记带伞(他忘記帶傘)，雨却毫不留情(雨卻毫不留情)。
+    - Tā wàngjì dài sǎn, yǔ què háobù liúqíng.
+    - He forgot to bring an umbrella, and the rain showed no mercy.
+  - 细雨如丝(細雨如絲)，轻拂着花瓣(輕拂著花瓣)。
+    - Xì yǔ rú sī, qīng fú zhe huā bàn.
+    - The fine rain falls like silk, gently brushing the petals.
+### 下雪(下雪) → 雪(雪) → 彗(彗)
+- **definition:** broom
+- **pinyin:** huì
+- **components:**
+  - 甡
+    - shēn
+    - broom
+  - 又
+    - yòu
+    - hand
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 甡 (shēn, "broom") + 又 (yòu, "hand") =
+    - holding a broom
+  - **interpretation:** The character 彗 (huì, "broom") combines 甡 (shēn, "broom") with 又 (yòu, "hand") to depict the action of holding a broom. This emphasizes the function and use of a broom, suggesting an object specifically designed to be held by hand for sweeping.
+- **examples:**
+  - 他拿着破旧的彗(他拿著破舊的彗)，清扫庭院(清掃庭院)。
+    - Tā ná zhe pò jiù de huì, qīng sǎo tíng yuàn.
+    - He holds the old broom and sweeps the courtyard.
+  - 老匠人用彗(老匠人用彗)，细致打扫作坊(細緻打掃作坊)。
+    - Lǎo jiàngrén yòng huì, xìzhì dǎsǎo zuòfāng.
+    - The old craftsman uses the broom to meticulously clean the workshop.
+  - 在寒冬夜晚(在寒冬夜晚)，他默默拿起彗(他默默拿起彗)，清扫门前(清掃門前)。
+    - Zài hán dōng yè wǎn, tā mò mò ná qǐ huì, qīng sǎo mén qián.
+    - On a cold winter night, he silently picked up the broom and swept the front door.
+### 下雪(下雪) → 雪(雪) → 彗(彗) → 甡(甡)
+- **definition:** broom
+- **pinyin:** shēn
+- **components:**
+  - 田
+    - tián
+    - field
+  - 生
+    - shēng
+    - born
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 田(田) (tián, 'field') + 生(生) (shēng, 'born') =
+    - phono-semantic compound with 生 providing sound
+  - **interpretation:** The character 甡 combines 田(田) (tián, 'field') as the semantic component with 生(生) (shēng, 'born') as the phonetic component. This results in a character that means 'broom', emphasizing a tool made from materials grown and harvested, such as straw or grass.
+### 下雪(下雪) → 雪(雪) → 彗(彗) → 甡(甡) → 田(田)
+- **definition:** field
+- **pinyin:** tián
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a field divided into four sections
+  - **interpretation:** The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.
+- **examples:**
+  - 农民在田里耕作(農民在田裡耕作)。
+    - Nóngmín zài tián lǐ gēngzuò.
+    - The farmer works in the field.
+  - 那边的田长满了庄稼(那邊的田長滿了莊稼)，农民收获忙碌(農民收穫忙碌)。
+    - Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.
+    - The field over there is full of crops, and the farmer is busy harvesting.
+  - 秋收时节(秋收時節)，人们忙于收割田里的稻谷(人們忙於收割田裡的稻谷)。
+    - Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.
+    - During the harvest season, people are busy reaping the rice in the fields.
+### 下雪(下雪) → 雪(雪) → 彗(彗) → 甡(甡) → 生(生)
+- **definition:** born
+- **pinyin:** shēng
+- **components:**
+  - 屮
+    - chè
+    - sprout
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 屮(屮) (chè, "sprout") on top of a horizontal line ->
+    - signifies a plant sprouting from the ground ->
+    - symbolizes life
+  - **interpretation:** The character 生(生) (shēng, "life") represents the concept of life force or vitality, symbolized by a sprout emerging from the earth, embodying growth and renewal.
+- **examples:**
+  - 生命是一场美丽的旅程(生命是一場美麗的旅程)。
+    - Shēngmìng shì yī chǎng měilì de lǚchéng.
+    - Life is a beautiful journey.
+  - 他在战场上奋力生存(他在戰場上奮力生存)。
+    - Tā zài zhànchǎng shàng fènlì shēngcún.
+    - He fights to live on the battlefield.
+  - 这家餐厅的生鱼片非常新鲜(這家餐廳的生魚片非常新鮮)。
+    - Zhè jiā cāntīng de shēngyúpiàn fēicháng xīnxiān.
+    - The raw fish slices at this restaurant are very fresh.
+### 下雪(下雪) → 雪(雪) → 彗(彗) → 甡(甡) → 生(生) → 屮(屮)
+- **definition:** sprout
+- **pinyin:** chè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a sprout growing from the ground
+  - **interpretation:** The character 屮 (chè, 'sprout') visually represents a young plant emerging from the soil, symbolizing growth or sprouting.
+### 下雪(下雪) → 雪(雪) → 彗(彗) → 又(又)
+- **definition:** hand
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又(又) (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+---
+## 下雪(下雪)
+### xià xuě
+---
+## to snow

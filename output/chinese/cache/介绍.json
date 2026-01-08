@@ -1,0 +1,44 @@
+{
+  "simplified": "介绍",
+  "traditional": "介紹",
+  "pinyin": "jièshào",
+  "english": "to introduce",
+  "etymology": {
+    "type": "compound word",
+    "description": "介(介) (jiè, \"to mediate; intermediate\") + 绍(紹) (shào, \"to continue; to connect\") = action of mediating and connecting -> introducing",
+    "interpretation": "The combination of 介(介) (jiè, \"to mediate; intermediate\") and 绍(紹) (shào, \"to continue; to connect\") represents the idea of serving as an intermediary to connect people or ideas, which is the essence of introducing someone or something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "介",
+      "trad": "介",
+      "pinyin": "jiè",
+      "english": "to mediate; intermediate"
+    },
+    {
+      "char": "绍",
+      "trad": "紹",
+      "pinyin": "shào",
+      "english": "to continue; to connect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我介绍一下(我介紹一下)。",
+      "pinyin": "Wǒ jièshào yīxià.",
+      "english": "Let me introduce (someone)."
+    },
+    {
+      "chinese": "我介绍我的朋友(我介紹我的朋友)，你就听他的(你就聽他的)。",
+      "pinyin": "Wǒ jièshào wǒ de péngyǒu, nǐ jiù tīng tā de.",
+      "english": "I introduce my friend, then you can listen to him."
+    },
+    {
+      "chinese": "老师给我们介绍历史(老師給我們介紹歷史)，让我们了解过去(讓我們了解過去)。",
+      "pinyin": "Lǎoshī gěi wǒmen jièshào lìshǐ, ràng wǒmen liǎojiě guòqù.",
+      "english": "The teacher introduces history to us, letting us understand the past."
+    }
+  ]
+}

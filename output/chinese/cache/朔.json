@@ -5,35 +5,35 @@
   "english": "north",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "月(月) (yuè, \"moon\") + Semantic: 韋(韋) (wéi, \"leather\") = lunar first day direction -> north",
-    "interpretation": "The character 朔(朔) (shuò, \"north\") combines 月(月) (yuè, \"moon\") which indicates the time of a new moon and 韋(韋) (wéi, \"leather\") which is phonetic. This implies the beginning of a lunar cycle, traditionally associated with the northern direction.",
+    "description": "Phonetic: 屰 (directional or 'north') + Semantic: 月 (moon) = 'new moon' or 'north' -> final meaning 'north'",
+    "interpretation": "朔(朔) (shuò, 'north') combines 屰(屰) for its phonetic value, related to directionality, with 月(月) (yuè, 'moon') to imply the new moon's direction—traditionally north. This aligns with the ancient East Asian concept of the moon influencing directional nomenclature.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "屰",
+      "trad": "屰",
+      "pinyin": "nì",
+      "english": "opposite"
+    },
     {
       "char": "月",
       "trad": "月",
       "pinyin": "yuè",
       "english": "moon"
-    },
-    {
-      "char": "韋",
-      "trad": "韋",
-      "pinyin": "wéi",
-      "english": "leather"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "冬季来临时(冬季來臨時)，朔风凛冽(朔風凜冽)。",
-      "pinyin": "Dōngjì láilín shí, shuò fēng lǐnliè.",
-      "english": "When winter arrives, the north wind is fierce."
+      "chinese": "朔风凛冽(朔風凜冽)。",
+      "pinyin": "shuò fēng lǐn liè。",
+      "english": "The north wind is fierce."
     },
     {
-      "chinese": "船队向朔方向驶去(船隊向朔方向駛去)。",
-      "pinyin": "Chuánduì xiàng shuò fāngxiàng shǐqù.",
-      "english": "The fleet sailed towards the north."
+      "chinese": "他从朔地归来(他從朔地歸來)，带来古老的传说(帶來古老的傳說)。",
+      "pinyin": "tā cóng shuò dì guī lái, dài lái gǔ lǎo de chuán shuō。",
+      "english": "He returned from the north, bringing ancient legends."
     }
   ]
 }

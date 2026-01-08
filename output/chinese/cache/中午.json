@@ -1,0 +1,44 @@
+{
+  "simplified": "中午",
+  "traditional": "中午",
+  "pinyin": "zhōngwǔ",
+  "english": "noon",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\") + 午(午) (wǔ, \"noon\") = middle of noon -> noon",
+    "interpretation": "The term 中午(中午) (zhōngwǔ, \"noon\") combines 中(中) (zhōng, \"middle\") and 午(午) (wǔ, \"noon\") to describe the middle part of the day, typically around 12 PM when the sun is highest in the sky.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    },
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "noon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中午十二点吃饭(中午十二點吃飯)。",
+      "pinyin": "zhōngwǔ shí'èr diǎn chīfàn.",
+      "english": "I eat lunch at noon."
+    },
+    {
+      "chinese": "中午太阳高悬(中午太陽高懸)，公园里的人们在休息(公園裡的人們在休息)。",
+      "pinyin": "zhōngwǔ tàiyáng gāoxuán, gōngyuán lǐ de rénmen zài xiūxí.",
+      "english": "The midday sun hangs high, and people in the park are resting."
+    },
+    {
+      "chinese": "中午时分(中午時分)，是休息时间(是休息時間)。",
+      "pinyin": "zhōngwǔ shífēn, shì xiūxí shíjiān.",
+      "english": "Noon time is the time for rest."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "玩",
+  "traditional": "玩",
+  "pinyin": "wán",
+  "english": "to have fun; to play",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "玉(玉) (yù, \"jade\") + 元(元) (yuán, \"origin\") = jade toys (ancient) -> playing, having fun",
+    "interpretation": "The character 玩(wán) associates the idea of valuable jade 玉(玉) with 元(元), reflecting the historical use of jade objects in play or as toys, symbolizing amusement or leisure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "元",
+      "trad": "元",
+      "pinyin": "yuán",
+      "english": "origin"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们去玩吧(我們去玩吧)。",
+      "pinyin": "Wǒmen qù wán ba.",
+      "english": "Let's go have fun."
+    },
+    {
+      "chinese": "孩子们在公园玩游戏(孩子們在公園玩遊戲)。",
+      "pinyin": "Háizimen zài gōngyuán wán yóuxì.",
+      "english": "The children play games in the park."
+    },
+    {
+      "chinese": "周末到了(週末到了)，我们全家一起玩(我們全家一起玩)。",
+      "pinyin": "Zhōumò dàole, wǒmen quánjiā yīqǐ wán.",
+      "english": "The weekend has arrived, and our whole family plays together."
+    }
+  ]
+}

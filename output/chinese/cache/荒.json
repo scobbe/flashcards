@@ -1,0 +1,44 @@
+{
+  "simplified": "荒",
+  "traditional": "荒",
+  "pinyin": "huāng",
+  "english": "desolate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + phonetic: 巟(巟) (huāng, \"vast emptiness\") = barren or empty grasslands -> desolate",
+    "interpretation": "The character 荒(荒) (huāng, \"desolate\") combines the semantic 艹(艹) (cǎo, \"grass\") with the phonetic component 巟(巟), which suggests emptiness or desolation. This aligns with the idea of barren fields or overgrown, untended land, reflecting the definition of 'desolate'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "巟",
+      "trad": "巟",
+      "pinyin": "huāng",
+      "english": "vast emptiness"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "战火过后(戰火過後)，大地一片荒(大地一片荒)。",
+      "pinyin": "Zhàn huǒ guòhòu, dà dì yī piàn huāng.",
+      "english": "After the war, the land became utterly desolate."
+    },
+    {
+      "chinese": "这块地太荒了(這塊地太荒了)。",
+      "pinyin": "Zhè kuài dì tài huāng le.",
+      "english": "This land is too barren."
+    },
+    {
+      "chinese": "经过多年无人耕种(經過多年無人耕種)，这片土地变得荒(這片土地變得荒)。",
+      "pinyin": "Jīngguò duōnián wúrén gēngzhòng, zhè piàn tǔdì biàn dé huāng.",
+      "english": "After years of neglect, this piece of land has become desolate."
+    }
+  ]
+}

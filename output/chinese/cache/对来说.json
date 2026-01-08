@@ -1,0 +1,50 @@
+{
+  "simplified": "对来说",
+  "traditional": "對來說",
+  "pinyin": "duì … lái shuō",
+  "english": "as for; with regard to",
+  "etymology": {
+    "type": "compound word",
+    "description": "對(對) (duì, \"to\") + 來(來) (lái, \"come\") + 說(說) (shuō, \"speak\")",
+    "interpretation": "對(對) (duì, \"to\") often indicates direction or relation, such as addressing someone or something. 來(來) (lái, \"come\") and 說(說) (shuō, \"speak\") together imply bringing forth a statement or opinion. Together, 對來說(對來說) (duì lái shuō) literally means \"to come speak,\" or idiomatically, \"as for\" or \"with regard to.\" This phrase is used to introduce a perspective or opinion from the standpoint of someone or something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "对",
+      "trad": "對",
+      "pinyin": "duì",
+      "english": "to; toward; correct; couplet"
+    },
+    {
+      "char": "来",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come; arrive; return; future"
+    },
+    {
+      "char": "说",
+      "trad": "說",
+      "pinyin": "shuō",
+      "english": "speak; say; explain; scold"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "对我来说(對我來說)，学习中文是一件快乐的事(學習中文是一件快樂的事)。",
+      "pinyin": "Duì wǒ lái shuō, xuéxí Zhōngwén shì yī jiàn kuàilè de shì.",
+      "english": "As for me, studying Chinese is a joyful matter."
+    },
+    {
+      "chinese": "对学生来说(對學生來說)，认真学习会带来成功(認真學習會帶來成功)。",
+      "pinyin": "Duì xuéshēng lái shuō, rènzhēn xuéxí huì dàilái chénggōng.",
+      "english": "For students, diligent studying will bring success."
+    },
+    {
+      "chinese": "对艺术家来说(對藝術家來說)，灵感是至关重要的(靈感是至關重要的)。",
+      "pinyin": "Duì yìshùjiā lái shuō, línggǎn shì zhìguān zhòngyào de.",
+      "english": "For artists, inspiration is crucial."
+    }
+  ]
+}

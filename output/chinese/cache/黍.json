@@ -4,9 +4,9 @@
   "pinyin": "shǔ",
   "english": "glutinous millet",
   "etymology": {
-    "type": "Pictogram",
-    "description": "Depicts a cereal 禾 (hé, 'grain') with kernels or water 水 (shuǐ, 'water') below",
-    "interpretation": "The character 黍(shǔ, 'glutinous millet') represents a grain with something akin to water or possibly kernels beneath, suggesting its properties or uses, like being sticky or used in fermentation. The character captures the essential features of millet.",
+    "type": "pictogram",
+    "description": "Depicts 禾(禾) (hé, \"cereal\") with 水(水) (shuǐ, \"water\") under it -> symbolizing millet with wine or its sticky nature",
+    "interpretation": "The character 黍(黍) (shǔ, \"glutinous millet\") visually combines the image of a cereal plant with droplets or signs of water beneath it, likely indicating the wine made from millet or its water-resistant qualities. Alternatively, it highlights millet's unique growing conditions.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "禾",
       "trad": "禾",
       "pinyin": "hé",
-      "english": "grain"
+      "english": "cereal"
     },
     {
       "char": "水",
@@ -23,22 +23,17 @@
       "english": "water"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋收时节农民收获黍(秋收時節農民收穫黍)。",
-      "pinyin": "Qiūshōu shíjié nóngmín shōuhuò shǔ.",
-      "english": "During the autumn harvest, farmers gather glutinous millet."
+      "chinese": "秋天时(秋天時)，农夫收获黍(農夫收穫黍)。",
+      "pinyin": "Qiūtiān shí, nóngfū shōuhuò shǔ.",
+      "english": "In autumn, the farmer harvests glutinous millet."
     },
     {
-      "chinese": "他用黍做粥(他用黍做粥)，味道十分香甜(味道十分香甜)。",
-      "pinyin": "Tā yòng shǔ zuò zhōu, wèidào shífēn xiāngtián.",
-      "english": "He makes porridge with glutinous millet, and it tastes very sweet."
-    },
-    {
-      "chinese": "老农常用黍酿酒(老農常用黍釀酒)，以庆丰收(以慶豐收)。",
-      "pinyin": "Lǎonóng cháng yòng shǔ niàng jiǔ, yǐ qìng fēngshōu.",
-      "english": "The old farmer often brews wine with glutinous millet to celebrate a bountiful harvest."
+      "chinese": "古人以黍(古人以黍)，寓意丰收(寓意豐收)。",
+      "pinyin": "Gǔrén yǐ shǔ, yùyì fēngshōu.",
+      "english": "The ancients used glutinous millet to symbolize a bountiful harvest."
     }
   ]
 }

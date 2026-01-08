@@ -1,0 +1,28 @@
+{
+  "simplified": "㕯",
+  "traditional": "㕯",
+  "pinyin": "yīn",
+  "english": "to speak slowly",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 音(音) (yīn, \"sound\") = mouth making sound -> to speak slowly",
+    "interpretation": "The character combines 口(口) (kǒu, \"mouth\"), which indicates the action of speaking, with 音(音) (yīn, \"sound\"), suggesting speaking. Together, they convey the idea of speaking deliberately or slowly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

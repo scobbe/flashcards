@@ -5,8 +5,8 @@
   "english": "block",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 門(門) (mén, \"door\") + Phonetic: 柬(柬) (jiǎn, \"select\") = door + phonetic marker -> block",
-    "interpretation": "The character 闌(闌) (lán, \"block\") combines the semantic component 門(門) (mén, \"door\") to suggest a physical barrier, with the phonetic 柬(柬) (jiǎn, \"select\") which provides the pronunciation. The combination implies something that obstructs or closes a passage, like a door.",
+    "description": "門(門) (mén, \"door\") + 柬(柬) (jiǎn, \"choose\") = door with a chosen boundary -> block",
+    "interpretation": "The character 闌(闌) (lán, \"block\") combines the semantic element 門(門) (mén, \"door\") suggesting an entrance or barrier, with the phonetic element 柬(柬) (jiǎn, \"choose\"), to indicate blocking or setting boundaries within a doorway.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,20 @@
       "char": "柬",
       "trad": "柬",
       "pinyin": "jiǎn",
-      "english": "select"
+      "english": "choose"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "高大的石墙闌住了小径(高大的石牆闌住了小徑)。",
-      "pinyin": "Gāo dà de shí qiáng lán zhù le xiǎo jìng.",
-      "english": "The tall stone wall blocked the path."
+      "chinese": "那座低矮的建筑前设有闌(那座低矮的建築前設有闌)，以便阻挡行人(以便阻擋行人)。",
+      "pinyin": "Nà zuò dī'ǎi de jiànzhú qián shè yǒu lán, yǐbiàn zǔdǎng xíngrén.",
+      "english": "A barrier was installed before that low building to prevent pedestrians."
     },
     {
-      "chinese": "暴风雨将至(暴風雨將至)，大树倒下闌住了去路(大樹倒下闌住了去路)。",
-      "pinyin": "Bào fēng yǔ jiāng zhì, dà shù dǎo xià lán zhù le qù lù.",
-      "english": "As the storm approached, the fallen tree blocked the way."
+      "chinese": "道路两旁设置了闌(道路兩旁設置了闌)，防止垃圾进入(防止垃圾進入)。",
+      "pinyin": "Dàolù liǎng páng shèzhì le lán, fángzhǐ lājī jìnrù.",
+      "english": "Barriers were installed on both sides of the road to keep out trash."
     }
   ]
 }

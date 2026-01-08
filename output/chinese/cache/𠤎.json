@@ -5,40 +5,27 @@
   "english": "person",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"person\") upright + 人(人) (rén, \"person\") upside down (𠤎) = reversal; change -> 化(化) (huà, \"transform\")",
-    "interpretation": "𠤎 is an ancient form of 化(化) (huà, \"transform\"), depicting two 人(人) (rén, \"person\"), one upright and one inverted, symbolizing change or transformation.",
+    "description": "Two 人(人) (rén, \"person\"), one upright (亻) and one upside down (𠤎) -> reversal or change",
+    "interpretation": "924",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
-    },
-    {
-      "char": "化",
-      "trad": "化",
-      "pinyin": "huà",
-      "english": "transform"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "𠤎是一位仁爱的人(𠤎是一位仁愛的人)。",
-      "pinyin": "Rén shì yī wèi rén ài de rén.",
-      "english": "The person is a kind-hearted individual."
+      "chinese": "他是勇敢的𠤎(他是勇敢的𠤎)。",
+      "pinyin": "Tā shì yǒnggǎn de rén.",
+      "english": "He is a brave person."
     },
     {
-      "chinese": "这个𠤎勤劳勇敢(這個𠤎勤勞勇敢)，追寻梦想(追尋夢想)。",
-      "pinyin": "Zhège rén qínláo yǒnggǎn, zhuīxún mèngxiǎng.",
-      "english": "This person is hardworking and brave, pursuing dreams."
+      "chinese": "这个𠤎勤奋好学(這個𠤎勤奮好學)，为家人争光(為家人爭光)。",
+      "pinyin": "Zhège rén qínfèn hàoxué, wèi jiārén zhēngguāng.",
+      "english": "This person is diligent and studious, bringing honor to his family."
     },
     {
-      "chinese": "那位𠤎博览群书(那位𠤎博覽羣書)，怀抱梦想(懷抱夢想)。",
-      "pinyin": "Nà wèi rén bó lǎn qún shū, huái bào mèngxiǎng.",
-      "english": "That person has read extensively and cherishes dreams."
+      "chinese": "老𠤎智慧丰富(老𠤎智慧豐富)。",
+      "pinyin": "Lǎo rén zhìhuì fēngfù.",
+      "english": "The elderly person is wise and knowledgeable."
     }
   ]
 }

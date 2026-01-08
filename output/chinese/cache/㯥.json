@@ -1,0 +1,28 @@
+{
+  "simplified": "㯥",
+  "traditional": "𣠽",
+  "pinyin": "cáo",
+  "english": "ideogrammic compound",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"tree\") = trees under a roof -> enclosed area with trees (sacred grove or altar)",
+    "interpretation": "The character 𣠽 (cáo) represents a sacred grove or altar, emphasizing the concept of an enclosed space containing trees, which conveys an area set aside for special purposes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

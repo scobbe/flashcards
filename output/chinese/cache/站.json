@@ -1,0 +1,39 @@
+{
+  "simplified": "站",
+  "traditional": "站",
+  "pinyin": "zhàn",
+  "english": "to stand",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "立(立) (lì, \"stand\") + 占(占) (zhān, \"divine\") = semantic 'stand' + phonetic 'divine' -> to stand",
+    "interpretation": "The character 站(站) (zhàn, \"to stand\") is a phono-semantic compound where 立(立) (lì, \"stand\") provides the semantic element, indicating the meaning related to standing, and 占(占) (zhān, \"divine\") supplies the phonetic component. This character is relatively recent and not found in early references like the Shuowen Jiezi but appears later, such as in the Guangyun.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
+    },
+    {
+      "char": "占",
+      "trad": "占",
+      "pinyin": "zhān",
+      "english": "divine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他站在门口(他站在門口)。",
+      "pinyin": "Tā zhàn zài ménkǒu.",
+      "english": "He stands at the door."
+    },
+    {
+      "chinese": "他站得非常稳(他站得非常穩)，不受风的影响(不受風的影響)。",
+      "pinyin": "Tā zhàn de fēicháng wěn, bù shòu fēng de yǐngxiǎng.",
+      "english": "He stands very steadily, unaffected by the wind."
+    }
+  ]
+}

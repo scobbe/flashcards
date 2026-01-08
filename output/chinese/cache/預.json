@@ -1,0 +1,44 @@
+{
+  "simplified": "預",
+  "traditional": "預",
+  "pinyin": "yù",
+  "english": "in advance; beforehand",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 予(予) (yǔ, \"to give\") + Semantic: 頁(頁) (yè, \"head\") = Phono-semantic compound indicating something prepared in advance",
+    "interpretation": "The character 預(yù) combines 予(予) (yǔ, \"to give\") as the phonetic component and 頁(頁) (yè, \"head\") as the semantic component, illustrating the concept of anticipating or preparing something ahead of time, perhaps metaphorically suggesting preparation is 'given' thought.",
+    "simplification": "預(預) is simplified to 预(預) by replacing the full form of 頁(頁) with the simpler 预(预), maintaining the overall meaning while reducing the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "予",
+      "trad": "予",
+      "pinyin": "yǔ",
+      "english": "to give"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他預习了明天的课(他預習了明天的課)。",
+      "pinyin": "Tā yùxí le míngtiān de kè.",
+      "english": "He reviewed tomorrow's lesson in advance."
+    },
+    {
+      "chinese": "我们预先安排了旅行(我們預先安排了旅行)，准备了所有用品(準備了所有用品)。",
+      "pinyin": "Wǒmen yùxiān ānpái le lǚxíng, zhǔnbèi le suǒyǒu yòngpǐn.",
+      "english": "We arranged the trip in advance and prepared all the supplies."
+    },
+    {
+      "chinese": "我提前預算了费用(我提前預算了費用)，以防万一(以防萬一)。",
+      "pinyin": "Wǒ tíqián yùsuàn le fèiyòng, yǐ fáng wànyī.",
+      "english": "I budgeted the expenses in advance just in case."
+    }
+  ]
+}

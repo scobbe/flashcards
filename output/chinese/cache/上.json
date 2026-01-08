@@ -1,0 +1,31 @@
+{
+  "simplified": "上",
+  "traditional": "上",
+  "pinyin": "shàng",
+  "english": "on top; upward; ascend",
+  "etymology": {
+    "type": "ideogram",
+    "description": "A line above another line -> indicates 'up'",
+    "interpretation": "The character visually represents a line positioned above another, symbolizing upward direction or the concept of being 'on top.' This simplicity highlights its clear graphical indication of elevation or ascension.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "鸟儿飞上树梢(鳥兒飛上樹梢)。",
+      "pinyin": "Niǎo'ér fēi shàng shù shāo.",
+      "english": "The birds fly to the treetops."
+    },
+    {
+      "chinese": "他把梯子搭上(他把梯子搭上)，爬上屋顶(爬上屋頂)。",
+      "pinyin": "Tā bǎ tīzi dā shàng, pá shàng wūdǐng.",
+      "english": "He set the ladder up and climbed onto the roof."
+    },
+    {
+      "chinese": "太阳从东方升上天边(太陽從東方升上天邊)。",
+      "pinyin": "Tàiyáng cóng dōngfāng shēng shàng tiānbiān.",
+      "english": "The sun rises from the east and ascends to the horizon."
+    }
+  ]
+}

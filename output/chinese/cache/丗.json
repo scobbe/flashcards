@@ -1,0 +1,28 @@
+{
+  "simplified": "丗",
+  "traditional": "丗",
+  "pinyin": "shì",
+  "english": "generation",
+  "etymology": {
+    "type": "variant",
+    "description": "Variant form of 卅(卅) (sà, \"thirty\") -> repetition of 十(十) (shí, \"ten\") three times -> three tens = generation",
+    "interpretation": "The character 丗 is a variant form of 卅(卅) (sà, \"thirty\"), which itself represents the number thirty by repeating the character for ten three times. This repetition symbolizes a group or generation made up of ten repeated thrice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卅",
+      "trad": "卅",
+      "pinyin": "sà",
+      "english": "thirty"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

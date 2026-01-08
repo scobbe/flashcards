@@ -1,0 +1,44 @@
+{
+  "simplified": "病",
+  "traditional": "病",
+  "pinyin": "bìng",
+  "english": "illness; disease; to fall ill",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "疒(疒) (nì, \"sickness\") provides meaning for illness, 疒 + 丙(丙) (bǐng, \"fire\") as phonetic -> illness",
+    "interpretation": "The character 病(bìng) combines the sickness radical 疒 to denote illness, with 丙 adding a phonetic value. 丙 also signifies fire, suggesting symptoms like fever, reinforcing the concept of lying ill.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疒",
+      "trad": "疒",
+      "pinyin": "nì",
+      "english": "sickness"
+    },
+    {
+      "char": "丙",
+      "trad": "丙",
+      "pinyin": "bǐng",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他生病了(他生病了)。",
+      "pinyin": "Tā shēng bìng le.",
+      "english": "He fell ill."
+    },
+    {
+      "chinese": "我不想传染病(我不想傳染病)，所以我呆在家里(所以我呆在家裡)。",
+      "pinyin": "Wǒ bù xiǎng chuánrǎn bìng, suǒyǐ wǒ dāi zài jiālǐ.",
+      "english": "I don't want to catch a disease, so I stay at home."
+    },
+    {
+      "chinese": "他得了重病(他得了重病)，需要马上治疗(需要馬上治療)。",
+      "pinyin": "Tā dé le zhòng bìng, xūyào mǎshàng zhìliáo.",
+      "english": "He contracted a serious illness and needs immediate treatment."
+    }
+  ]
+}

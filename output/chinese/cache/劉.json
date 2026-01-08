@@ -30,21 +30,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他劉了叛徒(他劉了叛徒)。",
-      "pinyin": "Tā liú le pàn tú.",
-      "english": "He killed the traitor."
-    },
-    {
-      "chinese": "将军劉敌于阵前(將軍劉敵於陣前)，士兵肃然起敬(士兵肅然起敬)。",
-      "pinyin": "Jiāngjūn liú dí yú zhèn qián, shìbīng sùrán qǐ jìng.",
-      "english": "The general killed the enemy before the battle, and the soldiers were filled with awe."
-    },
-    {
-      "chinese": "武将劉叛贼于营中(武將劉叛賊於營中)，国家恢复太平(國家恢復太平)。",
-      "pinyin": "Wǔjiàng liú pàn zéi yú yíng zhōng, guójiā huīfù tàipíng.",
-      "english": "The general killed the traitors in the camp, and the nation regained peace."
-    }
-  ]
+  "examples": []
 }

@@ -4,9 +4,9 @@
   "pinyin": "shēn",
   "english": "broom",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "生(生) (shēng, \"life, grow\") duplicated -> representing abundant growth or many creatures being born",
-    "interpretation": "The duplication of 生(生) (shēng, \"life, grow\") emphasizes the idea of multiplication and proliferation, symbolizing abundant growth or a multitude of beings emerging.",
+    "type": "phono-semantic compound",
+    "description": "semantic: 生(生) (shēng, \"life\") + phonetic: 辰(辰) (chén) = suggests the character is related to the idea of life with a phonetic influence",
+    "interpretation": "甡(甡) (shēn, \"broom\") combines the idea of living or growing with a phonetic component, indicating something related to household management or cleaning, like a broom.",
     "simplification": ""
   },
   "parts": [
@@ -14,20 +14,15 @@
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life, grow"
+      "english": "life"
+    },
+    {
+      "char": "辰",
+      "trad": "辰",
+      "pinyin": "chén",
+      "english": "5th earthly branch"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他拿起甡(他拿起甡)，轻轻扫落叶(輕輕掃落葉)。",
-      "pinyin": "Tā ná qǐ shēn, qīng qīng sǎo luò yè.",
-      "english": "He picked up the broom and gently swept the fallen leaves."
-    },
-    {
-      "chinese": "我买了一把甡(我買了一把甡)。",
-      "pinyin": "Wǒ mǎi le yī bǎ shēn.",
-      "english": "I bought a broom."
-    }
-  ]
+  "examples": []
 }

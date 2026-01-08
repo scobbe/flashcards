@@ -5,8 +5,8 @@
   "english": "the shape of a basket repeatedly woven from bamboo",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "魚(魚) (yú, \"fish\") + 魚(魚) (yú, \"fish\") facing each other -> original script of 遘(遘) (gòu, \"to meet\") -> associated with encountering or meeting",
-    "interpretation": "The character 冓(gòu) was originally intended to depict two fish facing each other, symbolizing an encounter or meeting. However, over time, its interpretation was altered, with a mistaken belief that it depicted accumulated woods.",
+    "description": "two 魚(魚) (yú, \"fish\") with mouths facing each other -> original form -> corrupted to \"crossly accumulated woods\"",
+    "interpretation": "The character 冓(gòu) originally depicted two fish meeting, emphasizing the idea of convergence or encounter, which relates to its use in 遘(遘). Over time, the form was misinterpreted and evolved into the erroneous understanding of 'crossly accumulated woods'.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,9 @@
       "char": "遘",
       "trad": "遘",
       "pinyin": "gòu",
-      "english": "to meet"
+      "english": "meet; encounter"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他精心编织出了传统冓的篮子(他精心編織出了傳統冓的籃子)。",
-      "pinyin": "Tā jīngxīn biānzhī chūle chuántǒng gòu de lánzi。",
-      "english": "He meticulously wove a basket in the traditional woven-basket shape (冓)."
-    },
-    {
-      "chinese": "那细致的竹编工艺呈现冓美(那細致的竹編工藝呈現冓美)，蕴含深厚传统技艺(蘊含深厚傳統技藝)。",
-      "pinyin": "Nà xìzhì de zhúbiān gōngyì chéngxiàn gòu měi, yùnhán shēnhòu chuántǒng jìyì。",
-      "english": "The exquisite bamboo weaving displays the beauty of the woven-basket form (冓), embodying profound traditional craftsmanship."
-    },
-    {
-      "chinese": "匠人们以竹子打造冓型器物(匠人們以竹子打造冓型器物)。",
-      "pinyin": "Jiàngrénmen yǐ zhúzi dǎzào gòu xíng qìwù。",
-      "english": "Artisans use bamboo to create objects in the shape of a woven basket (冓)."
-    }
-  ]
+  "examples": []
 }

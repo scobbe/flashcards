@@ -1,0 +1,39 @@
+{
+  "simplified": "怕",
+  "traditional": "怕",
+  "pinyin": "pà",
+  "english": "fear; dread; afraid",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "心(心) (xīn, 'heart') + 白(白) (bái, 'white') = heart combined with phonetic indicating sound -> denotes fear or dread",
+    "interpretation": "The character 怕(pà, 'fear; dread') combines the heart radical 心(心) (xīn, 'heart'), symbolizing emotions, with 白(白) (bái, 'white') for phonetic representation. The heart component reflects the emotional experience of fear, while the phonetic component guides its pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我怕黑(我怕黑)。",
+      "pinyin": "Wǒ pà hēi.",
+      "english": "I am afraid of the dark."
+    },
+    {
+      "chinese": "他怕狗(他怕狗)，不敢靠近它(不敢靠近它)。",
+      "pinyin": "Tā pà gǒu, bù gǎn kào jìn tā.",
+      "english": "He is afraid of dogs, and does not dare to approach them."
+    }
+  ]
+}

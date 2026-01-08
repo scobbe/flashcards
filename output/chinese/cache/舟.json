@@ -1,0 +1,31 @@
+{
+  "simplified": "舟",
+  "traditional": "舟",
+  "pinyin": "zhōu",
+  "english": "boat",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a boat",
+    "interpretation": "The character 舟(舟) (zhōu, \"boat\") visually represents the outline of a boat, reflecting its function and form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小舟在湖中摇曳(小舟在湖中搖曳)。",
+      "pinyin": "Xiǎo zhōu zài hú zhōng yáoyè.",
+      "english": "The small boat sways on the lake."
+    },
+    {
+      "chinese": "他驾着一只小舟(他駕著一隻小舟)，穿过雾气弥漫的河面(穿過霧氣彌漫的河面)。",
+      "pinyin": "Tā jiàzhe yī zhōu, chuānguò wùqì mímàn de hémiàn.",
+      "english": "He steers a small boat, crossing a river shrouded in mist."
+    },
+    {
+      "chinese": "清晨时分舟载行人(清晨時分舟載行人)，穿过古镇河流(穿過古鎮河流)。",
+      "pinyin": "Qīngchén shífèn zhōu zài xíngrén, chuānguò gǔzhèn héliú.",
+      "english": "In the early morning, the boat carries passengers as it passes through the ancient town's river."
+    }
+  ]
+}

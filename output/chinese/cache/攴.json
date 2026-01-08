@@ -5,27 +5,41 @@
   "english": "tap",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hand holding a stick -> action of tapping or striking",
-    "interpretation": "The character 攴(攴) (pū, 'tap') visually represents a hand gripping a stick, which suggests the actions of tapping or light striking, consistent with its meaning.",
+    "description": "手(手) (shǒu, 'hand') depicted as 又(又) (yòu, 'hand') holding a tool -> later stylized to look like 卜(卜) (bǔ, 'divine') -> simplified further",
+    "interpretation": "The character 攴 originally depicted a hand holding a tool, possibly implying action such as hitting. Over time, for stylistic reasons, it was modified to resemble the component 卜, even though the phonetic aspect was retained.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divine"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用手指攴了一下门(他用手指攴了一下門)。",
-      "pinyin": "Tā yòng shǒuzhǐ pūle yīxià mén.",
-      "english": "He tapped the door with his finger."
+      "chinese": "他用手指攴(他用手指攴)轻叩鼓面(輕叩鼓面)，传递出节奏的信号(傳遞出節奏的信號)。",
+      "pinyin": "Tā yòng shǒuzhǐ pū le qīng kòu gǔmiàn, chuándì chū jiézòu de xìnhào.",
+      "english": "He tapped the drum surface lightly with his finger, conveying the rhythm's signal."
     },
     {
-      "chinese": "门响后(門響後)，他便迅速攴了一下门把手(他便迅速攴了一下門把手)。",
-      "pinyin": "Mén xiǎng hòu, tā biàn xùnsù pūle yīxià ménbǎshǒu.",
-      "english": "After the door sounded, he quickly tapped the door handle."
-    },
-    {
-      "chinese": "夜深人静时(夜深人靜時)，他轻轻攴了一下窗(他輕輕攴了一下窗)。",
-      "pinyin": "Yè shēn rénjìng shí, tā qīngqīng pūle yīxià chuāng.",
-      "english": "In the dead of night, he gently tapped the window."
+      "chinese": "她突然攴(她突然攴)了一下门(了一下門)，唤起了室内的安静(喚起了室內的安靜)。",
+      "pinyin": "Tā túrán pū le yīxià mén, huànqǐ le shìnèi de ānjìng.",
+      "english": "She suddenly tapped the door, awakening the quiet inside."
     }
   ]
 }

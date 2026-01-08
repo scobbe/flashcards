@@ -2,11 +2,11 @@
   "simplified": "尃",
   "traditional": "尃",
   "pinyin": "fū",
-  "english": "disperse",
+  "english": "spread",
   "etymology": {
-    "type": "Phono-semantic compound and ideogrammic compound",
-    "description": "Phonetic: 甫(甫) (fǔ, \"garden\") + Semantic: 寸(寸) (cùn, \"hand\") -> original reference to sprout in field -> meaning \"to distribute crops\"",
-    "interpretation": "The character 尃(fū, \"disperse\") combines the idea of a hand 寸(寸) (cùn, \"hand\") involved in the act of distributing or spreading, alongside the notion of a sprout 甫(甫) (fǔ, \"garden\") growing in a field. This suggests an agricultural application of spreading or dispersing seeds or crops.",
+    "type": "phono-semantic compound and ideogrammic compound",
+    "description": "phonetic 甫(甫) (fǔ, \"garden\") + semantic 寸(寸) (cùn, \"hand\") = distributing crops -> spreading",
+    "interpretation": "The character 尃 combines 甫(甫) (fǔ, \"garden\") as the phonetic part, with 寸(寸) (cùn, \"hand\") indicating the action of distributing, which together suggest the idea of spreading or distributing crops. This reflects the original agricultural context of spreading or distributing seeds or plants by hand.",
     "simplification": ""
   },
   "parts": [
@@ -24,21 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "暴风过后(暴風過後)，乌云尃散(烏雲尃散)。",
-      "pinyin": "Bào fēng guò hòu, wū yún fū sàn.",
-      "english": "After the storm, the dark clouds dispersed."
-    },
-    {
-      "chinese": "敌兵见到我军时(敵兵見到我軍時)，纷纷尃散(紛紛尃散)。",
-      "pinyin": "Dí bīng jiàn dào wǒ jūn shí, fēn fēn fū sàn.",
-      "english": "When the enemy soldiers saw our troops, they dispersed one after another."
-    },
-    {
-      "chinese": "警报响起时(警報響起時)，人群尃散(人群尃散)。",
-      "pinyin": "Jǐng bào xiǎng qǐ shí, rén qún fū sàn.",
-      "english": "When the alarm sounded, the crowd dispersed."
-    }
-  ]
+  "examples": []
 }

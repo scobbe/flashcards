@@ -1,0 +1,22 @@
+{
+  "simplified": "卅",
+  "traditional": "卅",
+  "pinyin": "sà",
+  "english": "thirty",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "十(十) (shí, \"ten\") repeated three times -> thirty",
+    "interpretation": "卅(sà, \"thirty\") represents the concept of 'thirty' by stacking three 'ten' characters, 十(十) (shí, \"ten\"), vertically, symbolizing multiplication or repetition of tens.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

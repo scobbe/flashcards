@@ -1,0 +1,44 @@
+{
+  "simplified": "房子",
+  "traditional": "房子",
+  "pinyin": "fángzi",
+  "english": "house",
+  "etymology": {
+    "type": "compound word",
+    "description": "房(房) (fáng, \"house; room\") + 子(子) (zi, \"son; child; noun suffix\") forms the word 房子(房子) (fángzi, \"house\"), which represents a structure for living.",
+    "interpretation": "The term 房子(房子) (fángzi, \"house\") combines the character 房(房) (fáng, \"house; room\") with the suffix 子(子) (zi, \"noun suffix\"), indicating a place where people live. The suffix does not change the meaning but rather serves to nominalize and complete the concept of a domestic building.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "房",
+      "trad": "房",
+      "pinyin": "fáng",
+      "english": "house; room"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "son; child; noun suffix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "旧金山的房子非常贵(舊金山的房子非常貴)。",
+      "pinyin": "Jiùjīnshān de fángzi fēicháng guì.",
+      "english": "Houses in San Francisco are very expensive."
+    },
+    {
+      "chinese": "我梦想拥有一座大房子(我夢想擁有一座大房子)。",
+      "pinyin": "Wǒ mèngxiǎng yǒngyǒu yī zuò dà fángzi.",
+      "english": "I dream of owning a big house."
+    },
+    {
+      "chinese": "小镇上的房子古色古香(小鎮上的房子古色古香)。",
+      "pinyin": "Xiǎo zhèn shàng de fángzi gǔsègǔxiāng.",
+      "english": "The houses in the small town exude an antique charm."
+    }
+  ]
+}

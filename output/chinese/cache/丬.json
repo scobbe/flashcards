@@ -1,31 +1,33 @@
 {
   "simplified": "丬",
-  "traditional": "丬",
+  "traditional": "爿",
   "pinyin": "jiāng",
   "english": "phonetic component",
   "etymology": {
-    "type": "phono-semantic component",
-    "description": "Derived from a form depicting a wooden plank or splitting wood, used in compound characters for phonetic or semantic function. Originally part of 爿(爿) (pán, 'half of a tree trunk'), often represents 'left half' as in furniture context.",
-    "interpretation": "The character 丬(丬) (jiāng, 'phonetic component') originates from depicting a wooden plank. It is often used in compound characters to suggest association with wood or splitting context, playing a significant role in the composition of other characters.",
-    "simplification": ""
+    "type": "pictogram",
+    "description": "Depicts a bed -> component in other characters such as 牀",
+    "interpretation": "爿(爿) (pán, 'bed') originally illustrated a bed, which is why it still appears as a component in characters related to artifacts like 牀(牀) (chuáng, 'bed').",
+    "simplification": "丬 is a simplified and variant form of 爿, used as a contracted component in characters to streamline writing."
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "牀",
+      "trad": "牀",
+      "pinyin": "chuáng",
+      "english": "bed"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他注意到汉字中的丬部(他注意到漢字中的丬部)。",
-      "pinyin": "Tā zhùyì dào hànzì zhōng de jiāng bù.",
-      "english": "He noticed the '丬' component in Chinese characters."
+      "chinese": "汉字中丬起着语音提示作用(漢字中丬起着語音提示作用)。",
+      "pinyin": "Hànzì zhōng jiāng qǐ zhe yǔyīn tíshì zuòyòng.",
+      "english": "In Chinese characters, the phonetic component 丬 serves as a sound cue."
     },
     {
-      "chinese": "这个部首丬(這個部首丬)，在很多汉字中出现(在很多漢字中出現)。",
-      "pinyin": "Zhège bùshǒu jiāng, zài hěn duō hànzì zhōng chūxiàn.",
-      "english": "This radical '丬' appears in many Chinese characters."
-    },
-    {
-      "chinese": "古代文字研究中常讨论丬的来源(古代文字研究中常討論丬的來源)。",
-      "pinyin": "Gǔdài wénzì yánjiū zhōng cháng tǎolùn jiāng de láiyuán.",
-      "english": "In ancient studies of writing, the origin of '丬' is often discussed."
+      "chinese": "在造字过程中(在造字過程中)，研究者利用丬作声旁(研究者利用丬作聲旁)。",
+      "pinyin": "Zài zàozì guòchéng zhōng, yánjiū zhě lìyòng jiāng zuò shēng páng.",
+      "english": "During the process of forming characters, researchers use 丬 as a phonetic element."
     }
   ]
 }

@@ -1,0 +1,4 @@
+Ideogrammic compound ( 會意 / 会意 ): 臣 ( “ eye ” ) + 戈 ( “ spear/weapon ” ) – "slave; prisoner of war" (slaves in ancient China were blinded, hence the 臣 component.) Hence, the original version is 𦣣 .
+The phonetic component 爿 ( OC *zaŋ ), absent in the oracle-bone script, was added at a later stage (see Yang, 1965 , and references therein), leading Shuowen to interpret the character as a phono-semantic compound ( 形聲 / 形声 , OC *ʔsaːŋ ): phonetic 戕 ( OC *kaːl, *ʔsaːŋ, *zaŋ ) + semantic 臣 .
+Perhaps borrowed phonetically to mean "generous".
+See also 童 , 民 , and 盲 .

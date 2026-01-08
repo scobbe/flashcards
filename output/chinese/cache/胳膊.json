@@ -1,0 +1,39 @@
+{
+  "simplified": "胳膊",
+  "traditional": "胳膊",
+  "pinyin": "gēbo",
+  "english": "arm",
+  "etymology": {
+    "type": "compound word",
+    "description": "胳(胳) (gē, \"arm\") and 膊(膊) (bó, \"arm\"). The characters together emphasize the meaning of \"arm.\" This is a compound where both parts refer to the same body part, reinforcing its identity.",
+    "interpretation": "The word 胳膊 (gēbo) combines two characters both denoting 'arm,' forming a term specifically for this part of the body. This is an example of lexical reinforcement commonly found in Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "胳",
+      "trad": "胳",
+      "pinyin": "gē",
+      "english": "arm"
+    },
+    {
+      "char": "膊",
+      "trad": "膊",
+      "pinyin": "bó",
+      "english": "arm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的胳膊被撞伤了(我的胳膊被撞傷了)。",
+      "pinyin": "Wǒ de gēbo bèi zhuàng shāng le.",
+      "english": "My arm was injured in an accident."
+    },
+    {
+      "chinese": "运动时他胳膊疼(運動時他胳膊疼)，不得不休息(不得不休息)。",
+      "pinyin": "Yùndòng shí tā gēbo téng, bùdébù xiūxí.",
+      "english": "During exercise, his arm hurt, so he had to rest."
+    }
+  ]
+}

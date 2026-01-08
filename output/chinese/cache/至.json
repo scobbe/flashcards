@@ -1,0 +1,31 @@
+{
+  "simplified": "至",
+  "traditional": "至",
+  "pinyin": "zhì",
+  "english": "to arrive",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "Depicts an arrow stuck into the ground -> express arrival or reaching a destination",
+    "interpretation": "The image of an arrow embedded in the ground symbolizes reaching a fixed endpoint, evoking the idea of arriving at a particular place.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "火车已至(火車已至)。",
+      "pinyin": "Huǒchē yǐ zhì.",
+      "english": "The train has arrived."
+    },
+    {
+      "chinese": "从广州出发(從廣州出發)，火车已至目的地(火車已至目的地)。",
+      "pinyin": "Cóng Guǎngzhōu chūfā, huǒchē yǐ zhì mùdìdì.",
+      "english": "Departing from Guangzhou, the train has arrived at its destination."
+    },
+    {
+      "chinese": "信使至长安(信使至長安)。",
+      "pinyin": "Xìnshǐ zhì Cháng'ān.",
+      "english": "The messenger has arrived in Chang'an."
+    }
+  ]
+}

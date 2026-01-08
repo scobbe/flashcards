@@ -5,8 +5,8 @@
   "english": "snake",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 兀 (wù, \"protruding\") + Semantic: 虫 (chóng, \"insect\") = indicates a type of venomous creature -> refers to a snake",
-    "interpretation": "The character combines the phonetic component 兀(wù, \"protruding\"), which suggests the sound, with the semantic component 虫(chóng, \"insect\"), indicating a creature. This structure is typical for words related to insects or small animals, and in this case, refers to a venomous snake.",
+    "description": "Phonetic: 兀 (wù, \"rugged\") + Semantic: 虫 (chóng, \"insect\") -> combined to represent a specific type of long snake or dragon",
+    "interpretation": "The character 虺 (huǐ, \"snake\") combines 兀 (wù, \"rugged\") for its sound with 虫 (chóng, \"insect\") to semantically signify a snake, emphasizing its slithering, insect-like nature.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "兀",
       "trad": "兀",
       "pinyin": "wù",
-      "english": "protruding"
+      "english": "rugged"
     },
     {
       "char": "虫",
@@ -24,21 +24,5 @@
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "那条虺在草丛中游动(那條虺在草叢中遊動)。",
-      "pinyin": "Nà tiáo huǐ zài cǎocóng zhōng yóudòng.",
-      "english": "The snake slithers through the grass."
-    },
-    {
-      "chinese": "古时候的人们(古時候的人們)，常把虺视为不祥之物(常把虺視為不祥之物)。",
-      "pinyin": "Gǔ shíhòu de rénmen, cháng bǎ huǐ shìwéi bùxiáng zhī wù.",
-      "english": "In ancient times, people often regarded snakes as omens of misfortune."
-    },
-    {
-      "chinese": "夜幕降临时(夜幕降臨時)，虺趁机潜入村庄(虺趁機潛入村莊)。",
-      "pinyin": "Yèmù jiànglín shí, huǐ chènjī qiánrù cūnzhuāng.",
-      "english": "When nightfall comes, the snake seizes the opportunity to slip into the village."
-    }
-  ]
+  "examples": []
 }

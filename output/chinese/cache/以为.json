@@ -1,0 +1,44 @@
+{
+  "simplified": "以为",
+  "traditional": "以為",
+  "pinyin": "yǐwéi",
+  "english": "to think (with more subjectivity)",
+  "etymology": {
+    "type": "compound word",
+    "description": "以(以) (yǐ, \"to use; in order to\") and 为(為) (wéi, \"to become; to act as\") together convey the meaning of forming an opinion or belief by using one's reasoning.",
+    "interpretation": "The word 以为(以為) (yǐwéi, \"to think\") emphasizes subjective thinking or assumptions, contrasting with objective observation. This aligns with the notion of using one's reasoning or premises (以) to form an opinion or judgment (为) about a situation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "以",
+      "trad": "以",
+      "pinyin": "yǐ",
+      "english": "to use; in order to; by means of"
+    },
+    {
+      "char": "为",
+      "trad": "為",
+      "pinyin": "wéi",
+      "english": "to become; to act as; to do; to regard as"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我以为他会来(我以為他會來)。",
+      "pinyin": "Wǒ yǐwéi tā huì lái.",
+      "english": "I thought he would come."
+    },
+    {
+      "chinese": "别以为你能逃脱(別以為你能逃脫)，事实总会追上你(事實總會追上你)。",
+      "pinyin": "Bié yǐwéi nǐ néng táotuō, shìshí zǒng huì zhuīshàng nǐ.",
+      "english": "Don't think you can escape; reality will always catch up with you."
+    },
+    {
+      "chinese": "都以为问题很简单(都以為問題很簡單)，其实远比想象中复杂(其實遠比想象中複雜)。",
+      "pinyin": "Dōu yǐwéi wèntí hěn jiǎndān, qíshí yuǎn bǐ xiǎngxiàng zhōng fùzá.",
+      "english": "Everyone thought the problem was simple, but it’s actually more complicated than imagined."
+    }
+  ]
+}

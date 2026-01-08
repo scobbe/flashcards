@@ -1,0 +1,31 @@
+{
+  "simplified": "臣",
+  "traditional": "臣",
+  "pinyin": "chén",
+  "english": "eye",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a vertical eye of a man looking downwards",
+    "interpretation": "The character 臣(chén) originally depicted an eye oriented vertically, symbolizing a person looking downwards, conveying subordination or observance. Over time, it evolved to represent roles such as 'slave,' 'servant,' and 'minister,' emphasizing relationships defined by subservience.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "臣愿为国家尽忠(臣願為國家盡忠)。",
+      "pinyin": "Chén yuàn wèi guójiā jìnzhōng。",
+      "english": "I, as a loyal subject, am willing to serve the nation faithfully."
+    },
+    {
+      "chinese": "陛下召见臣(陛下召見臣)，臣必不辱使命(臣必不辱使命)。",
+      "pinyin": "Bìxià zhàojiàn chén, chén bì bù rǔ shǐmìng。",
+      "english": "Your Majesty summons me, and I will not fail in my duty."
+    },
+    {
+      "chinese": "昔日臣拜见明君(昔日臣拜見明君)，如今仍怀赤诚之心(如今仍懷赤誠之心)。",
+      "pinyin": "Xīrì chén bàijiàn míngjūn, rújīn réng huái chìchéng zhī xīn。",
+      "english": "In the past, I paid my respects to a wise ruler, and even now I remain sincerely devoted."
+    }
+  ]
+}

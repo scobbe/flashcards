@@ -1,0 +1,44 @@
+{
+  "simplified": "異",
+  "traditional": "異",
+  "pinyin": "yì",
+  "english": "different",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Depicts a man (人) with a mask (田) over his face -> strange/different",
+    "interpretation": "The character 異(yì, \"different\") depicts a man with a mask, symbolizing something uncommon or differing from the norm, distinct from normal appearances.",
+    "simplification": "The simplified form 异(yì, \"different\") uses a different derivation: phonetic 已(yǐ, \"already\") + semantic 廾(gǒng, \"two hands\")."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的见解异于常人(他的見解異於常人)。",
+      "pinyin": "Tā de jiànjiě yì yú chángrén.",
+      "english": "His views are different from the common ones."
+    },
+    {
+      "chinese": "这部电影风格异于以往(這部電影風格異於以往)，影响深远(影響深遠)。",
+      "pinyin": "Zhè bù diànyǐng fēnggé yì yú yǐwǎng, yǐngxiǎng shēnyuǎn.",
+      "english": "The film's style is different from before, and its impact is far-reaching."
+    },
+    {
+      "chinese": "她的装扮与众不同(她的裝扮與眾不同)。",
+      "pinyin": "Tā de zhuāngbàn yǔ zhòng bùtóng.",
+      "english": "Her outfit is different from the crowd."
+    }
+  ]
+}

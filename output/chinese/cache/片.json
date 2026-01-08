@@ -1,0 +1,44 @@
+{
+  "simplified": "片",
+  "traditional": "片",
+  "pinyin": "piàn",
+  "english": "slice; piece",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Mirror image of 爿(爿) (pán, 'piece'), which is the pictogram of a bed.",
+    "interpretation": "片(片) (piàn, 'slice; piece') is depicted as a mirror image of 爿(爿) (pán, 'piece'), representing the concept of a slice or piece, visually similar to half of 木(木) (mù, 'wood; tree') to imply splitting or slicing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "piece"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一片面包(我買了一片麵包)。",
+      "pinyin": "Wǒ mǎile yī piàn miànbāo.",
+      "english": "I bought a slice of bread."
+    },
+    {
+      "chinese": "他摘下一片枫叶(他摘下一片楓葉)，轻轻放在桌上(輕輕放在桌上)。",
+      "pinyin": "Tā zhāi xià yī piàn fēngyè, qīngqīng fàng zài zhuō shàng.",
+      "english": "He picked a maple leaf and gently placed it on the table."
+    },
+    {
+      "chinese": "天空中飘着一片白云(天空中飄着一片白雲)。",
+      "pinyin": "Tiānkōng zhōng piāozhe yī piàn báiyún.",
+      "english": "A patch of white cloud drifts across the sky."
+    }
+  ]
+}

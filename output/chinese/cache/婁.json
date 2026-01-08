@@ -5,11 +5,23 @@
   "english": "bundle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 女(女) (nǚ, \"woman\") + phonetic: 尞(尞) (liáo) = woman's involvement with bundles -> bundle",
-    "interpretation": "Originally associated with women, the character depicts the act of bundling or tying together, possibly alluding to women's domestic roles in organizing or managing household items.",
+    "description": "爪(爪) (zhǎo, \"hands\") + 角(角) (jiǎo, phonetic) + 女(女) (nǚ, \"woman\") -> later 母(母) (mǔ, \"mother\") + 中(中) (zhōng, \"middle\") + 女(女, \"daughter\")",
+    "interpretation": "The character originally combined elements representing hands, a phonetic component, and a woman, suggesting a conceptual or functional relationship. Over time, it evolved to an ideogrammic compound involving maternal and female aspects. However, the exact meaning remains uncertain, possibly symbolizing family or familial duties.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "hands"
+    },
+    {
+      "char": "角",
+      "trad": "角",
+      "pinyin": "jiǎo",
+      "english": "phonetic"
+    },
     {
       "char": "女",
       "trad": "女",
@@ -17,23 +29,18 @@
       "english": "woman"
     },
     {
-      "char": "尞",
-      "trad": "尞",
-      "pinyin": "liáo",
-      "english": "phonetic component"
+      "char": "母",
+      "trad": "母",
+      "pinyin": "mǔ",
+      "english": "mother"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "农夫把一捆稻草整齐地扎成婁(農夫把一捆稻草整齊地扎成婁)，准备过冬时取暖(準備過冬時取暖)。",
-      "pinyin": "nóngfū bǎ yī kǔn dàocǎo zhěngqí de zhā chéng lóu, zhǔnbèi guòdōng shí qǔnuǎn.",
-      "english": "The farmer neatly tied a bundle of rice straw, preparing it for warmth during winter."
-    },
-    {
-      "chinese": "工人们把旧报纸捆成婁(工人們把舊報紙捆成婁)，送到回收站利用(送到回收站利用)。",
-      "pinyin": "gōngrénmen bǎ jiù bàozhǐ kǔn chéng lóu, sòng dào huíshōuzhàn lìyòng.",
-      "english": "The workers bundled the old newspapers to be sent to the recycling station for use."
-    }
-  ]
+  "examples": []
 }

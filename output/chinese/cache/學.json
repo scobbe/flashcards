@@ -1,0 +1,56 @@
+{
+  "simplified": "學",
+  "traditional": "學",
+  "pinyin": "xué",
+  "english": "learn",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "爻(爻) (yáo, \"divination lines\") + 六(六) (liù, \"six\") added 𦥑 (hands) -> 𦥯 (intermediate form) -> 子(子) (zǐ, \"child\") added for differentiation -> present 學 (child learning under a roof)",
+    "interpretation": "The character 學 (xué, \"learn\") combines elements to depict the concept of a child learning under a roof. Originally, it likely combined symbolism for teaching and practical experience with a phonetic component, evolving to emphasize its educational context with a child and a roof element.",
+    "simplification": "學 simplified to 学 by removing the 子(子) (zǐ, \"child\") component and changing 爻 (divination lines) with 冖 (cover), balancing semantic and visual simplicity."
+  },
+  "parts": [
+    {
+      "char": "爻",
+      "trad": "爻",
+      "pinyin": "yáo",
+      "english": "divination lines"
+    },
+    {
+      "char": "六",
+      "trad": "六",
+      "pinyin": "liù",
+      "english": "six"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "𦥑",
+      "trad": "𦥑",
+      "pinyin": "N/A",
+      "english": "hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我正在学中文(我正在學中文)。",
+      "pinyin": "Wǒ zhèngzài xué Zhōngwén.",
+      "english": "I am learning Chinese."
+    },
+    {
+      "chinese": "老师鼓励我们多学历史(老師鼓勵我們多學歷史)，以启发心智(以啟發心智)。",
+      "pinyin": "Lǎoshī gǔlì wǒmen duō xué lìshǐ, yǐ qǐfā xīnzhì.",
+      "english": "The teacher encourages us to study history more, in order to inspire our minds."
+    },
+    {
+      "chinese": "他从小就热衷于学文学(他從小就熱衷於學文學)。",
+      "pinyin": "Tā cóng xiǎo jiù rèzhōng yú xué wénxué.",
+      "english": "He has been passionate about studying literature since childhood."
+    }
+  ]
+}

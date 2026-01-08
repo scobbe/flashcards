@@ -1,0 +1,23 @@
+[六]
+Pictogram ( 象形 ) – perhaps a shed. Originally using the similar-sounding word 廬 ( OC *ra , “shed, cabin”) to represent the concept “six” (Liu Xinglong). Alternatively, it may be an ancient counting symbol.
+
+[大]
+Pictogram ( 象形 ): a person facing forward. Original form of 夫 ( OC *pa, *ba , “man”), phonetically borrowed for 大 ( OC *daːds, *daːds , “big”). Compare 人 , which represents the profile of a person.
+Often explained as an ideogram of a person with outstretched arms; however, the ancient scripts do not show stretching.
+Compare with 尢 , which is a man with bent legs. Compare also 立 , similar to 大 , and 交 , in which the legs are crossed. Compare also 文 , which is a man with arms outstretched and a crest or tattoo on his chest, and to 夭 , which is a man with arms outstretched and leaning to side (running or marching vigorously).
+See the top component of 泰 in the original version ( 𡙌 ), the top component of 赤 and the bottom component of 奐 (well visible in some fonts). Related to 太 .
+Unrelated to 买 , in which the bottom component is the stylization of a cowrie.
+
+[太]
+Phono-semantic compound ( 形聲 / 形声 ): a differentiated form of 大 ( OC *daːds, *daːds , “big; great”) with a 丶 added to represent 太 ( OC *tʰaːds , “too big”).
+Compare 泰 , which is also a differentiated form with 廾 and 水 added instead.
+
+[泰]
+Originally a Phono-semantic compound ( 形聲 / 形声 , OC *tʰaːds ): phonetic 大 ( OC *daːds, *daːds ) + semantic 廾 ( “ two hands ” ) + semantic 水 ( “ water ” ) . A more conservative variant is 𡙌 . The 大 and 廾 later fused into 𡗗 . The original meaning according to Shuowen Jiezi was "to slip", perhaps with a reference to seize something wet or to seize a liquid with bare hands. Then it became "too <much>", which was written either as 太 or 𡙌 > 泰 or as its variant 冭 , perhaps due to the influence of its pronunciation and/or the top component of the character, which has a reference to a great quantity. As a result of the changed meaning, it may have been reinterpreted as an Ideogrammic compound ( 會意 / 会意 ): semantic 大 ( “ big; great ” ) + semantic 廾 ( “ two hands ” ) + semantic 水 ( “ water ” ) .
+
+[奉]
+Originally phono-semantic compound ( 形聲 / 形声 , OC *boŋʔ ): phonetic 丰 ( OC *pʰoŋ ) + semantic 廾 ( “ two hands ” ) ， hence the original version is 𠬻 . 手 (“hand”) was later added at the bottom, and the original character was corrupted into 𡗗 . Related to 舉 .
+
+[秦]
+In the oracle bone script , an ideogrammic compound ( 會意 / 会意 ): 午 (“pestle”, the original form of 杵 ) + 廾 (“two hands”) + two 禾 (“grain”). The most conservative variant is 𥢮 . A form of its bronze inscription containing only one 禾 developed into the subsequent small seal script form in Shuowen . The 午 and 廾 components have fused into 𡗗 in the modern form.
+According to Shuowen Jiezi , the glyph is an ideogrammic compound ( 會意 / 会意 ): abbreviated 舂 ( “ to pound grain ” ) + 禾 ( “ grain ” ) – husked grain. However this would necessitate a phonological shift that is considered unlikely, and furthermore is like...

@@ -1,0 +1,40 @@
+{
+  "simplified": "夐",
+  "traditional": "夐",
+  "pinyin": "xuàn",
+  "english": "eminent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "穴(穴) (xué, \"cave\") with 目(目) (mù, \"eye\") and 支(支) (zhī, \"branch\") at the bottom -> conveys authority; possibly 奐(奐) (huàn) contraction",
+    "interpretation": "1.0",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "穴",
+      "trad": "穴",
+      "pinyin": "xué",
+      "english": "cave"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "branch"
+    },
+    {
+      "char": "奐",
+      "trad": "奐",
+      "pinyin": "huàn",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "小腿",
+  "traditional": "小腿",
+  "pinyin": "xiǎo tuǐ",
+  "english": "lower leg; calf",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 腿(腿) (tuǐ, \"leg\") = small leg -> lower leg; calf",
+    "interpretation": "In the context of human anatomy, 小(小) (xiǎo, \"small\") combined with 腿(腿) (tuǐ, \"leg\") describes the lower part of the leg, which is smaller in size compared to the thigh. This accurately conveys the meaning of calf or lower leg.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little"
+    },
+    {
+      "char": "腿",
+      "trad": "腿",
+      "pinyin": "tuǐ",
+      "english": "leg; thigh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他不小心扭伤了小腿(他不小心扭傷了小腿)。",
+      "pinyin": "Tā bù xiǎoxīn niǔ shāng le xiǎo tuǐ.",
+      "english": "He accidentally sprained his calf."
+    },
+    {
+      "chinese": "运动后(運動後)，他发现小腿僵硬(他發現小腿僵硬)。",
+      "pinyin": "Yùn dòng hòu, tā fāxiàn xiǎo tuǐ jiāng yì.",
+      "english": "After exercise, he found his lower leg stiff."
+    }
+  ]
+}

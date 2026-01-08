@@ -1,0 +1,44 @@
+{
+  "simplified": "穿",
+  "traditional": "穿",
+  "pinyin": "chuān",
+  "english": "to wear",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "穴(穴) (xué, \"cave\") + 牙(牙) (yá, \"tooth\") = to penetrate through -> to wear",
+    "interpretation": "The character 穿 combines 穴, symbolizing an opening or aperture, with 牙, representing something penetrating through. Together, they convey the idea of passing through, consistent with the concept of wearing something as it involves penetrating through fabric or material.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "穴",
+      "trad": "穴",
+      "pinyin": "xué",
+      "english": "cave"
+    },
+    {
+      "char": "牙",
+      "trad": "牙",
+      "pinyin": "yá",
+      "english": "tooth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她穿红衣服(她穿紅衣服)。",
+      "pinyin": "Tā chuān hóng yīfú.",
+      "english": "She wears red clothes."
+    },
+    {
+      "chinese": "我穿蓝牛仔裤(我穿藍牛仔褲)。",
+      "pinyin": "Wǒ chuān lán niúzǎikù.",
+      "english": "I wear blue jeans."
+    },
+    {
+      "chinese": "他穿运动鞋(他穿運動鞋)。",
+      "pinyin": "Tā chuān yùndòngxié.",
+      "english": "He wears sneakers."
+    }
+  ]
+}

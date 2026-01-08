@@ -1,0 +1,44 @@
+{
+  "simplified": "敞",
+  "traditional": "敞",
+  "pinyin": "chǎng",
+  "english": "open",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "攴(攴) (pū, 'strike') + 尚(尚) (shàng, 'esteem', phonetic) = to strike open -> open",
+    "interpretation": "The character 敞(chǎng, 'open') combines 攴(攴) (pū, 'strike'), suggesting an action of opening, with the phonetic component 尚(尚) (shàng, 'esteem'), guiding the pronunciation. The overall composition conveys the idea of something being opened widely or exposed.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "strike"
+    },
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "esteem"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他敞开了门(他敞開了門)。",
+      "pinyin": "tā chǎng kāi le mén",
+      "english": "He opened the door."
+    },
+    {
+      "chinese": "她敞开心扉(她敞開心扉)，倾诉着心中的秘密(傾訴著心中的祕密)。",
+      "pinyin": "tā chǎng kāi xīn fēi, qīng sù zhe xīn zhōng de mì mì",
+      "english": "She opened her heart and confessed the secrets within."
+    },
+    {
+      "chinese": "敞开的窗户(敞開的窗戶)，透进温暖的阳光(透進溫暖的陽光)。",
+      "pinyin": "chǎng kāi de chuāng hù, tòu jìn wēn nuǎn de yáng guāng",
+      "english": "The open window let warm sunlight in."
+    }
+  ]
+}

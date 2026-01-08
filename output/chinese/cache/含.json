@@ -1,0 +1,44 @@
+{
+  "simplified": "含",
+  "traditional": "含",
+  "pinyin": "hán",
+  "english": "contain",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 今(今) (jīn, \"now\") = contain in the mouth -> include / hold in",
+    "interpretation": "The character 含(hán, \"contain\") combines 口(口) (kǒu, \"mouth\") and the phonetic component 今(今) (jīn, \"now\"). It conveys the idea of keeping something within the mouth, thus extending to the meaning of containing or holding in general.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "今",
+      "trad": "今",
+      "pinyin": "jīn",
+      "english": "now"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这瓶果汁含丰富维生素(這瓶果汁含豐富維生素)。",
+      "pinyin": "Zhè píng guǒzhī hán fēngfù wéishēngsù.",
+      "english": "This bottle of juice contains abundant vitamins."
+    },
+    {
+      "chinese": "中药含天然成分(中藥含天然成分)，能调节身体(能調節身體)。",
+      "pinyin": "Zhōngyào hán tiānrán chéngfèn，néng tiáojié shēntǐ.",
+      "english": "Chinese medicine contains natural ingredients and can regulate the body."
+    },
+    {
+      "chinese": "植物含丰富矿物质(植物含豐富礦物質)。",
+      "pinyin": "Zhíwù hán fēngfù kuàngwùzhí.",
+      "english": "Plants contain abundant minerals."
+    }
+  ]
+}

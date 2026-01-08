@@ -1,0 +1,44 @@
+{
+  "simplified": "逆",
+  "traditional": "逆",
+  "pinyin": "nì",
+  "english": "reverse",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "辶(辶) (chuò, 'movement') + 屰(屰) (nì, 'go against') = moving in the opposite direction -> reverse",
+    "interpretation": "The character 逆(逆) (nì, 'reverse') combines the movement radical 辶(辶) (chuò, 'movement') with the phonetic 屰(屰) (nì, 'go against') to convey the idea of going against the flow or being contrary. This dual function emphasizes both the meaning and sound, reflecting the idea of 'reverse' or 'disobedience' in its construction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "movement"
+    },
+    {
+      "char": "屰",
+      "trad": "屰",
+      "pinyin": "nì",
+      "english": "go against"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他逆风而行(他逆風而行)。",
+      "pinyin": "Tā nì fēng ér xíng.",
+      "english": "He goes against the wind."
+    },
+    {
+      "chinese": "他们选择逆水行舟(他們選擇逆水行舟)，不畏艰难(不畏艱難)。",
+      "pinyin": "Tāmen xuǎn zé nì shuǐ xíng zhōu, bù wèi jiān nán.",
+      "english": "They choose to row against the current, undaunted by difficulties."
+    },
+    {
+      "chinese": "在逆境中奋斗(在逆境中奮鬥)，终将迎来曙光(終將迎來曙光)。",
+      "pinyin": "Zài nì jìng zhōng fèn dòu, zhōng jiāng yíng lái shǔ guāng.",
+      "english": "Struggling in adversity, one will eventually see the dawn."
+    }
+  ]
+}

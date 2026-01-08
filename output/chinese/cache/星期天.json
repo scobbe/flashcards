@@ -1,0 +1,44 @@
+{
+  "simplified": "星期天",
+  "traditional": "星期天",
+  "pinyin": "xīngqītiān",
+  "english": "Sunday",
+  "etymology": {
+    "type": "compound word",
+    "description": "星(星) (xīng, \"star\") + 期(期) (qī, \"period; time\") + 天(天) (tiān, \"day; sky\")",
+    "interpretation": "星期天(xīngqītiān, \"Sunday\") refers to the day of the week associated with stars. The term 星期(xīngqī, \"week\") is derived from the seven-day week concept, with each day named after celestial bodies. 天(tiān, \"day\") specifies the day itself. Historically, this reflects the influence of astronomical and astrological observations on the structure of the calendar in Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星期",
+      "trad": "星期",
+      "pinyin": "xīngqī",
+      "english": "week"
+    },
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "day; sky"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "星期天(星期天)，我们去吃饭(我們去吃飯)。",
+      "pinyin": "xīngqītiān, wǒmen qù chīfàn.",
+      "english": "We go out to eat on Sunday."
+    },
+    {
+      "chinese": "星期天(星期天)，我常去公园散步(我常去公園散步)。",
+      "pinyin": "xīngqītiān, wǒ cháng qù gōngyuán sànbù.",
+      "english": "I often go for a walk in the park on Sunday."
+    },
+    {
+      "chinese": "星期天(星期天)，他喜欢在家休息(他喜歡在家休息)。",
+      "pinyin": "xīngqītiān, tā xǐhuān zài jiā xiūxí.",
+      "english": "He likes to rest at home on Sunday."
+    }
+  ]
+}

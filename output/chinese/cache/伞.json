@@ -4,35 +4,41 @@
   "pinyin": "sǎn",
   "english": "umbrella; parasol; shelter",
   "etymology": {
-    "type": "simplified from",
-    "description": "𠈌(𠈌) (sǎn, “umbrella”) originally depicted four people under a canopy -> simplified by replacing 𠈌 with 丷(丷, “eight”) -> 伞(伞) (sǎn, “umbrella”)",
-    "interpretation": "The character 伞(伞) (sǎn, “umbrella”) simplifies 傘(傘) by changing the complex canopy depiction to 丷(丷), maintaining the concept of separation under an umbrella.",
-    "simplification": "𠈌(𠈌) was simplified to 丷(丷), removing the detailed depiction of people for a simpler, more abstract representation."
+    "type": "phono-semantic compound",
+    "description": "𠈌 (container) + 人(人) (rén, \"person\") = a person under a container shape -> umbrella",
+    "interpretation": "The character 傘 depicts a person beneath a structure resembling a cover or umbrella. This visually represents protection or covering, aligning with the meaning of 'umbrella' or 'shelter.'",
+    "simplification": "The traditional character 傘 was simplified to 伞 by replacing 𠈌 with 丷, reducing the number of strokes."
   },
   "parts": [
     {
-      "char": "丷",
-      "trad": "丷",
-      "pinyin": "bā",
-      "english": "eight"
+      "char": "𠈌",
+      "trad": "𠈌",
+      "pinyin": "é",
+      "english": "container"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢用伞在雨中漫步(我喜歡用傘在雨中漫步)。",
-      "pinyin": "Wǒ xǐhuān yòng sǎn zài yǔzhōng mànbù.",
-      "english": "I like to stroll in the rain with an umbrella."
+      "chinese": "她用伞遮阳(她用傘遮陽)。",
+      "pinyin": "Tā yòng sǎn zhē yáng.",
+      "english": "She uses an umbrella to shield from the sun."
     },
     {
-      "chinese": "暴风雨来临时(暴風雨來臨時)，伞可以保护我们(傘可以保護我們)。",
-      "pinyin": "Bàofēngyǔ láilín shí, sǎn kěyǐ bǎohù wǒmen.",
-      "english": "When a storm comes, an umbrella can protect us."
+      "chinese": "下雨时(下雨時)，我常带伞(我常帶傘)。",
+      "pinyin": "Xià yǔ shí, wǒ cháng dài sǎn.",
+      "english": "When it rains, I always carry an umbrella."
     },
     {
-      "chinese": "夏日阳光下(夏日陽光下)，一把伞带来清凉(一把傘帶來清涼)。",
-      "pinyin": "Xiàrì yángguāng xià, yī bǎ sǎn dàilái qīngliáng.",
-      "english": "Under the summer sunshine, an umbrella brings coolness."
+      "chinese": "暴风雨来临时(暴風雨來臨時)，那把伞成了我的庇护(那把傘成了我的庇護)。",
+      "pinyin": "Bào fēng yǔ lái lín shí, nà bǎ sǎn chéng le wǒ de bì hù.",
+      "english": "When the storm comes, that umbrella becomes my shelter."
     }
   ]
 }

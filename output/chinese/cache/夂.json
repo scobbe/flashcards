@@ -2,30 +2,25 @@
   "simplified": "夂",
   "traditional": "夂",
   "pinyin": "zhǐ",
-  "english": "go",
+  "english": "foot pointing down",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a foot in motion -> go",
-    "interpretation": "The character 夂(夂) (zhǐ, \"go\") visually represents a foot taking a step, signifying movement or the action of going. This character captures the essential concept of movement through its simplistic depiction.",
+    "description": "Depicts a footprint pointing down",
+    "interpretation": "The character 夂 (zhǐ, 'foot pointing down') is a pictogram representing a footprint facing downward, often associated with motion or directionality. This depiction intuitively aligns with its meaning of indicating a downward step or path.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "旅人夂向远方(旅人夊向遠方)。",
-      "pinyin": "Lǚrén zhǐ xiàng yuǎnfāng.",
-      "english": "The traveler goes toward the distance."
+      "chinese": "汉字中‘夂’常被用作偏旁(漢字中‘夂’常被用作偏旁)，象征步伐朝下(象徵步伐朝下)。",
+      "pinyin": "Hànzì zhōng ‘zhǐ’ cháng bèi yòng zuò piān páng, xiàng zhēng bù fá cháo xià.",
+      "english": "In Chinese characters, '夂' is often used as a radical to symbolize downward steps."
     },
     {
-      "chinese": "学者夂求知(學者夊求知)，心怀天下(心懷天下)。",
-      "pinyin": "Xuézhě zhǐ qiúzhī, xīn huái tiānxià.",
-      "english": "The scholar goes seeking knowledge, with a heart embracing the world."
-    },
-    {
-      "chinese": "杜甫夂于长安(杜甫夊於長安)，吟诗抒怀(吟詩抒懷)。",
-      "pinyin": "Dùfǔ zhǐ yú Cháng'ān, yín shī shūhuái.",
-      "english": "Du Fu goes in Chang'an, reciting poetry to express his emotions."
+      "chinese": "书法中‘夂’的结构犹如足尖向下(書法中‘夂’的結構猶如足尖向下)。",
+      "pinyin": "Shūfǎ zhōng ‘zhǐ’ de jiégòu yóurú zújiān xiàng xià.",
+      "english": "In calligraphy, the structure of '夂' resembles a foot pointing downward."
     }
   ]
 }

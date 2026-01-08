@@ -1,0 +1,44 @@
+{
+  "simplified": "工作",
+  "traditional": "工作",
+  "pinyin": "gōngzuò",
+  "english": "work",
+  "etymology": {
+    "type": "compound word",
+    "description": "工(工) (gōng, \"work; craft\") + 作(作) (zuò, \"do; make\") = activity of working or doing tasks, hence \"work\"",
+    "interpretation": "The combination of 工(工) (gōng, \"work; craft\") and 作(作) (zuò, \"do; make\") signifies the activity of performing tasks or duties, reflecting the idea of engaging in labor or a job. This word is a straightforward depiction of performing tasks, thus representing the concept of work.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; craft"
+    },
+    {
+      "char": "作",
+      "trad": "作",
+      "pinyin": "zuò",
+      "english": "do; make"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在公司工作(我在公司工作)。",
+      "pinyin": "Wǒ zài gōngsī gōngzuò.",
+      "english": "I work at a company."
+    },
+    {
+      "chinese": "他每天工作八小时(他每天工作八小時)，然后按时回家(然後按時回家)。",
+      "pinyin": "Tā měitiān gōngzuò bā xiǎoshí, ránhòu ànshí huíjiā.",
+      "english": "He works eight hours every day, then goes home on time."
+    },
+    {
+      "chinese": "尽管工作艰辛(儘管工作艱辛)，他依然满怀希望(他依然滿懷希望)。",
+      "pinyin": "Jǐnguǎn gōngzuò jiānxīn, tā yīrán mǎn huái xīwàng.",
+      "english": "Although work is tough, he remains full of hope."
+    }
+  ]
+}

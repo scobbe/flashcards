@@ -1,0 +1,44 @@
+{
+  "simplified": "典",
+  "traditional": "典",
+  "pinyin": "diǎn",
+  "english": "canon",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "冊(冊) (cè, \"books\") + 丌(丌) (jī, \"table\") = official books on a table -> canon",
+    "interpretation": "The character depicts books kept on a table, symbolizing authoritative or official texts. This aligns with its meaning of 'canon' as it represents established collections of valuable or important writings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冊",
+      "trad": "冊",
+      "pinyin": "cè",
+      "english": "book"
+    },
+    {
+      "char": "丌",
+      "trad": "丌",
+      "pinyin": "jī",
+      "english": "table"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "《论语》是儒家典籍(《論語》是儒家典籍)。",
+      "pinyin": "Lún yǔ shì rújiā diǎnjí.",
+      "english": "The Analects is a canonical work of Confucianism."
+    },
+    {
+      "chinese": "这本书是文化典范(這本書是文化典範)，受到后人尊崇(受到後人尊崇)。",
+      "pinyin": "Zhè běn shū shì wénhuà diǎnfàn, shòudào hòurén zūnchóng.",
+      "english": "This book is a cultural canon, revered by later generations."
+    },
+    {
+      "chinese": "佛典记录了智慧(佛典記錄了智慧)。",
+      "pinyin": "Fó diǎn jìlùle zhìhuì.",
+      "english": "The Buddhist canon records wisdom."
+    }
+  ]
+}

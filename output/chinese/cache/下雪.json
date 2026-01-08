@@ -1,0 +1,44 @@
+{
+  "simplified": "下雪",
+  "traditional": "下雪",
+  "pinyin": "xià xuě",
+  "english": "to snow",
+  "etymology": {
+    "type": "compound word",
+    "description": "下(下) (xià, \"fall\") + 雪(雪) (xuě, \"snow\") = when snow falls",
+    "interpretation": "The term 下雪 (xià xuě) literally means 'snow fall' and is used to describe the meteorological event when snow descends from the sky.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "fall; descend; under; next"
+    },
+    {
+      "char": "雪",
+      "trad": "雪",
+      "pinyin": "xuě",
+      "english": "snow; wipe away"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "昨晚下雪了(昨晚下雪了)。",
+      "pinyin": "Zuówǎn xià xuě le",
+      "english": "It snowed last night."
+    },
+    {
+      "chinese": "天越来越冷(天越來越冷)，下雪的日子真美(下雪的日子真美)。",
+      "pinyin": "Tiān yuèláiyuè lěng, xià xuě de rìzi zhēn měi",
+      "english": "The weather is getting colder, and snowy days are truly beautiful."
+    },
+    {
+      "chinese": "一出门就遇到下雪(一出門就遇到下雪)，心情就变得愉快(心情就變得愉快)。",
+      "pinyin": "Yī chūmén jiù yùdào xià xuě, xīnqíng jiù biàn dé yúkuài",
+      "english": "When I stepped out, it started snowing, and my mood instantly became cheerful."
+    }
+  ]
+}

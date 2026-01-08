@@ -1,0 +1,44 @@
+{
+  "simplified": "扬",
+  "traditional": "揚",
+  "pinyin": "yáng",
+  "english": "to raise; to lift; to exalt",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 昜(昜) (yáng, \"raise\") = hand raising something -> to raise",
+    "interpretation": "The character 揚 (yáng, \"to raise\") combines the semantic element 手(手) (shǒu, \"hand\") indicating an action done by hand, with the phonetic element 昜(昜) (yáng), which suggests the sound and implies raising or lifting an object with a hand.",
+    "simplification": "The traditional form 揚 was simplified by changing 昜(昜) to a simple stroke 𠃓 to form 扬."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "raise"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他扬起旗帜(他揚起旗幟)，向前冲锋(向前衝鋒)。",
+      "pinyin": "Tā yáng qǐ qízhì, xiàng qián chōngfēng.",
+      "english": "He raised the banner and charged forward."
+    },
+    {
+      "chinese": "海风扬起波浪(海風揚起波浪)，拍打着岩石(拍打著巖石)。",
+      "pinyin": "Hǎi fēng yáng qǐ bōlàng, pāidǎ zhe yánshí.",
+      "english": "The sea breeze lifted the waves, striking the rocks."
+    },
+    {
+      "chinese": "学者扬名立万(學者揚名立萬)，树立了榜样(樹立了榜樣)。",
+      "pinyin": "Xuézhě yáng míng lì wàn, shùlì le bǎngyàng.",
+      "english": "The scholar exalted his reputation and set up an example."
+    }
+  ]
+}

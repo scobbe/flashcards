@@ -4,47 +4,12 @@
   "pinyin": "hé",
   "english": "why not",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "皿(皿) (mǐn, \"vessel\") + 盍(盍) phonetic = original depiction: lid on a vessel -> phonetic 洛(洛) (luò) added to give sound similarity to 箝(箝) (qián, \"to pinch\") -> used for linguistic borrowing to evoke rhetorical question \"why not\"",
-    "interpretation": "盍(盍) (hé, \"why not\") depicts a lid on a vessel originally, combined with a phonetic component to approximate the pronunciation. This character was borrowed to express rhetorical questioning in classical Chinese.",
+    "type": "pictogram",
+    "description": "Depicts a container and its lid -> container concept -> original form of 蓋(蓋) (gài, \"cover\")",
+    "interpretation": "The character 盍(盍) (hé, \"why not\") visually represents a container with a lid, signifying the sense of covering or enclosing, which later phonetically evolved for its current use in Classical Chinese as a rhetorical 'why not'.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "皿",
-      "trad": "皿",
-      "pinyin": "mǐn",
-      "english": "vessel"
-    },
-    {
-      "char": "洛",
-      "trad": "洛",
-      "pinyin": "luò",
-      "english": "phonetic component"
-    },
-    {
-      "char": "箝",
-      "trad": "箝",
-      "pinyin": "qián",
-      "english": "to pinch"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "春风拂面(春風拂面)，盍行赏花(盍行賞花)。",
-      "pinyin": "Chūnfēng fúmiàn, hé xíng shǎnghuā.",
-      "english": "The spring breeze caresses your face, why not go and admire the flowers."
-    },
-    {
-      "chinese": "时光宝贵(時光寶貴)，盍共度良宵(盍共度良宵)。",
-      "pinyin": "Shíguāng bǎoguì, hé gòng dù liángxiāo.",
-      "english": "Time is precious, why not spend a delightful evening together."
-    },
-    {
-      "chinese": "君子多谋(君子多謀)，盍游名山(盍遊名山)。",
-      "pinyin": "Jūnzǐ duō móu, hé yóu míngshān.",
-      "english": "A gentleman is resourceful, why not journey to famous mountains."
-    }
-  ]
+  "examples": []
 }

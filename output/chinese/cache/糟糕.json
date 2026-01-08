@@ -1,0 +1,44 @@
+{
+  "simplified": "糟糕",
+  "traditional": "糟糕",
+  "pinyin": "zāo gāo",
+  "english": "terrible",
+  "etymology": {
+    "type": "compound word",
+    "description": "糟(糟) (zāo, \"sediment; dregs\") + 糕(糕) (gāo, \"cake\")",
+    "interpretation": "The word 糟糕(糟糕) (zāogāo, \"terrible\") combines 糟(糟) (zāo, \"sediment; dregs\"), which can imply something undesirable or inferior, with 糕(糕) (gāo, \"cake\"), which usually denotes something positive. Together, they form a term with negative connotations, suggesting a situation or outcome that is unexpectedly disappointing or bad.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糟",
+      "trad": "糟",
+      "pinyin": "zāo",
+      "english": "sediment; dregs"
+    },
+    {
+      "char": "糕",
+      "trad": "糕",
+      "pinyin": "gāo",
+      "english": "cake"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天的考试很糟糕(今天的考試很糟糕)。",
+      "pinyin": "Jīntiān de kǎoshì hěn zāo gāo.",
+      "english": "Today's exam was terrible."
+    },
+    {
+      "chinese": "他的计划很糟糕(他的計劃很糟糕)，结果也糟糕(結果也糟糕)。",
+      "pinyin": "Tā de jìhuà hěn zāo gāo, jiéguǒ yě zāo gāo.",
+      "english": "His plan was terrible, and the outcome was also terrible."
+    },
+    {
+      "chinese": "糟糕的消息传来了(糟糕的消息傳來了)，大家都陷入担忧(大家都陷入擔憂)。",
+      "pinyin": "Zāo gāo de xiāoxī chuán lái le, dàjiā dōu xiànrù dānyōu.",
+      "english": "Terrible news arrived, and everyone fell into worry."
+    }
+  ]
+}

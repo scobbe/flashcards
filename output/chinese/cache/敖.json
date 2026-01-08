@@ -1,0 +1,46 @@
+{
+  "simplified": "敖",
+  "traditional": "敖",
+  "pinyin": "áo",
+  "english": "ramble",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 𫠤: 人(人) (rén, \"person\") with a headdress similar to 屮(屮) (chè, \"sprout\") -> stylized to resemble 夭(夭) (yāo, \"young man\") -> 攴(攴) (pū, \"rap\") added for authority -> stylized as 𢾍 -> 人(人) stylized as 方(方) (fāng, \"square\") -> final form 敖",
+    "interpretation": "The character 敖 evolved from a pictogram to a phono-semantic compound by incorporating elements of authority and changing stylization over time, finally representing a man walking vigorously or travelling in an authoritative context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
+    },
+    {
+      "char": "夭",
+      "trad": "夭",
+      "pinyin": "yāo",
+      "english": "young man"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "square"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "rap"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

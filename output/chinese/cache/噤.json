@@ -1,0 +1,28 @@
+{
+  "simplified": "噤",
+  "traditional": "噤",
+  "pinyin": "jìn",
+  "english": "not to speak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 禁(禁) (jìn, \"forbid\") = mouth + phonetic/semantic forbid -> not to speak",
+    "interpretation": "The character 噤(jìn) combines the semantic element 口(口) (kǒu, \"mouth\"), representing speech, with the phonetic and semantic element 禁(禁) (jìn, \"forbid\"), suggesting the prohibition of speaking, hence the meaning \"not to speak.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "禁",
+      "trad": "禁",
+      "pinyin": "jìn",
+      "english": "forbid"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

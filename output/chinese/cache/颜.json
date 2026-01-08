@@ -4,54 +4,36 @@
   "pinyin": "Yán",
   "english": "surname Yan",
   "etymology": {
-    "type": "simplified",
-    "description": "顏(顏) (yán, \"face\") simplified by 彥(彥) (yàn, \"elegant\") becoming 彦(彥) (yàn, \"elegant\") and 頁(頁) (yè, \"leaf\") becoming 页(頁) (yè, \"leaf\") -> final form 颜(顏)",
-    "interpretation": "The character 颜(顏) (yán, \"face\") originally included the components 彦(彥) (yàn, \"elegant\") and 頁(頁) (yè, \"leaf\"), representing a compound symbolizing an elegant face or appearance. The simplification process retained these meanings by choosing streamlined forms for these components, hence maintaining a connection to the character's original associations.",
-    "simplification": "The simplification involved changing 彥(彥) to 彦(彥) as a streamlined design and 頁(頁) to 页(頁), reflecting a wider simplification across characters that shared these components."
+    "type": "phono-semantic compound",
+    "description": "semantic: 頁(頁) (yè, 'leaf, page') + phonetic: 彥(彥) (yàn, 'accomplished person') -> 顏(顏, 'face')",
+    "interpretation": "The traditional character 顏(顏) (yán, 'face, countenance') combines 頁(頁) (yè, 'leaf, page') as the semantic component, representing the face, with 彥(彥) (yàn, 'accomplished person') for its phonetic value, suggesting a distinguished appearance or expression. The elements relate to physical presence and facial expression.",
+    "simplification": "The traditional components were simplified: 彥(彥) (yàn, 'accomplished person') was simplified to 彦(彦) and 頁(頁) (yè, 'leaf, page') was simplified to 页(页), maintaining three of the original lines for resemblance."
   },
   "parts": [
     {
-      "char": "顏",
-      "trad": "顏",
-      "pinyin": "yán",
-      "english": "face"
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "leaf, page"
     },
     {
       "char": "彥",
       "trad": "彥",
       "pinyin": "yàn",
-      "english": "elegant"
-    },
-    {
-      "char": "頁",
-      "trad": "頁",
-      "pinyin": "yè",
-      "english": "leaf"
-    },
-    {
-      "char": "彦",
-      "trad": "彥",
-      "pinyin": "yàn",
-      "english": "elegant"
-    },
-    {
-      "char": "页",
-      "trad": "頁",
-      "pinyin": "yè",
-      "english": "leaf"
+      "english": "accomplished person"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "颜先生今天出席会议(顏先生今天出席會議)。",
-      "pinyin": "Yán xiānshēng jīntiān chūxí huìyì.",
-      "english": "Mr. Yan attended the meeting today."
+      "chinese": "我认识颜老师(我認識顏老師)。",
+      "pinyin": "Wǒ rènshi Yán lǎoshī.",
+      "english": "I know Teacher Yan."
     },
     {
-      "chinese": "颜的家族历史悠久(顏的家族歷史悠久)，在学术界享有盛誉(在學術界享有盛譽)。",
-      "pinyin": "Yán de jiāzú lìshǐ yōujiǔ, zài xuéshù jiè xiǎngyǒu shèngyù.",
-      "english": "The Yan family has a long history, and they enjoy a high reputation in the academic world."
+      "chinese": "颜先生家在北京(顏先生家在北京)，他的家族历史悠久(他的家族歷史悠久)。",
+      "pinyin": "Yán xiānsheng jiā zài Běijīng, tā de jiāzú lìshǐ yōujiǔ.",
+      "english": "Mr. Yan's home is in Beijing, and his family history is long."
     }
   ]
 }

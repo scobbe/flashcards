@@ -1,0 +1,39 @@
+{
+  "simplified": "亦",
+  "traditional": "亦",
+  "pinyin": "yì",
+  "english": "also",
+  "etymology": {
+    "type": "ideogram",
+    "description": "大(大) (dà, \"large\") - a human figure with emphasis marks on the armpits -> original form of 腋(腋) (yè, \"armpit\") -> borrowed phonetically for 亦(亦)",
+    "interpretation": "The character is an ideogram illustrating a human figure with emphasis on the armpits, which was later borrowed for its phonetic value to mean 'also'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "large"
+    },
+    {
+      "char": "腋",
+      "trad": "腋",
+      "pinyin": "yè",
+      "english": "armpit"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他亦参加了比赛(他亦參加了比賽)。",
+      "pinyin": "Tā yì cānjiāle bǐsài.",
+      "english": "He also participated in the competition."
+    },
+    {
+      "chinese": "我喜欢音乐(我喜歡音樂)，他亦热爱旋律(他亦熱愛旋律)。",
+      "pinyin": "Wǒ xǐhuān yīnyuè, tā yì rè'ài xuànlǜ.",
+      "english": "I like music, and he also loves melodies."
+    }
+  ]
+}

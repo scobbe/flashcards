@@ -2,11 +2,11 @@
   "simplified": "戣",
   "traditional": "戣",
   "pinyin": "kuí",
-  "english": "a type of halberd",
+  "english": "halberd",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "戈(戈) (gē, \"halberd\") provides meaning + 癸(癸) (guǐ) for phonetic value -> signifies a type of ancient halberd or lance",
-    "interpretation": "The character combines the radical for 'halberd' to denote its direct association with weaponry, while the phonetic element 癸(癸) (guǐ) suggests its pronunciation. This highlights its function as a specific type of ancient weapon.",
+    "description": "semantic: 戈(戈) (gē, \"halberd\") + phonetic: 魁(魁) (kuí, \"leader\") = representation of a type of halberd -> specific term for a kind of weapon",
+    "interpretation": "The character 戣 (kuí) combines the semantic element 戈(戈) (gē, \"halberd\"), which signifies a type of weapon, with the phonetic element 魁(魁) (kuí, \"leader\"), to denote a specific type of halberd. This illustrates the character's function in ancient times to describe a particular weapon used in warfare.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,12 @@
       "english": "halberd"
     },
     {
-      "char": "癸",
-      "trad": "癸",
-      "pinyin": "guǐ",
-      "english": ""
+      "char": "魁",
+      "trad": "魁",
+      "pinyin": "kuí",
+      "english": "leader"
     }
   ],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "将士手持戣(將士手持戣)，迎敌立下战功(迎敵立下戰功)。",
-      "pinyin": "jiāngshì shǒuchí kuí, yíngdí lìxià zhàngōng.",
-      "english": "The soldiers wielded the halberd and achieved remarkable feats on the battlefield."
-    },
-    {
-      "chinese": "古时武将用戣(古時武將用戣)，攻城拔寨(攻城拔寨)。",
-      "pinyin": "gǔshí wǔjiàng yòng kuí, gōngchéng bázhài.",
-      "english": "In ancient times, military commanders used the halberd to breach enemy fortifications."
-    }
-  ]
+  "examples": []
 }

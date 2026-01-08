@@ -1,0 +1,39 @@
+{
+  "simplified": "預報",
+  "traditional": "預報",
+  "pinyin": "yùbào",
+  "english": "in advance; beforehand; report; announce",
+  "etymology": {
+    "type": "compound word",
+    "description": "預(預) (yù, \"in advance; beforehand\") + 報(報) (bào, \"report; announce\") together form a word that means to report or announce something in advance.",
+    "interpretation": "The term 預報(預報) (yùbào) combines the idea of doing something in advance, 預(預) (yù, \"in advance\"), with the act of reporting or announcing, 報(報) (bào, \"report\"). Typically, this refers to the action of forecasting or predicting future events, most commonly seen in weather forecasts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "預",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "in advance; beforehand"
+    },
+    {
+      "char": "報",
+      "trad": "報",
+      "pinyin": "bào",
+      "english": "report; announce"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "气象部门預報今天将有暴雨(氣象部門預報今天將有暴雨)。",
+      "pinyin": "Qìxiàng bùmén yùbào jīntiān jiāng yǒu bàoyǔ.",
+      "english": "The meteorological department predicted that there would be heavy rain today."
+    },
+    {
+      "chinese": "他们預報会提前出发(他們預報會提前出發)，所以大家做好准备(所以大家做好準備)。",
+      "pinyin": "Tāmen yùbào huì tíqián chūfā, suǒyǐ dàjiā zuòhǎo zhǔnbèi.",
+      "english": "They announced that they would set off in advance, so everyone should get ready."
+    }
+  ]
+}

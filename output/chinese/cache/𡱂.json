@@ -1,0 +1,28 @@
+{
+  "simplified": "𡱂",
+  "traditional": "𡱂",
+  "pinyin": "dùn",
+  "english": "buttocks",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "大(大) (dà, \"big\") + 丿(丿) (piě, \"left-falling stroke\") = large area on the lower back -> buttocks",
+    "interpretation": "The character combines 大(大) (dà, \"big\") and 丿(丿) (piě, \"left-falling stroke\") to depict a large surface, which is associated with the buttocks. This reflects the large area the character represents on the human body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "丿",
+      "trad": "丿",
+      "pinyin": "piě",
+      "english": "left-falling stroke"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

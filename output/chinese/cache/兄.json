@@ -1,0 +1,39 @@
+{
+  "simplified": "兄",
+  "traditional": "兄",
+  "pinyin": "xiōng",
+  "english": "brother",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 儿(儿) (ér, \"child\") = giving orders -> elder brother",
+    "interpretation": "The character 兄(兄) (xiōng, \"brother\") combines 口(口) (kǒu, \"mouth\") with 儿(儿) (ér, \"child\") to depict an elder brother who gives orders. This conveys the traditional family role of the elder brother as a figure of authority, similar to other characters like 令(令) (lìng, \"order\") that emphasize the act of speaking or commanding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "儿",
+      "trad": "儿",
+      "pinyin": "ér",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我兄从小向我传授智慧(我兄從小向我傳授智慧)，使我终生受益(使我終生受益)。",
+      "pinyin": "wǒ xiōng cóng xiǎo xiàng wǒ chuánshòu zhìhuì, shǐ wǒ zhōngshēng shòuyì.",
+      "english": "My brother taught me wisdom from childhood, which has benefited me all my life."
+    },
+    {
+      "chinese": "贤兄常助我困境(賢兄常助我困境)。",
+      "pinyin": "xián xiōng cháng zhù wǒ kùn jìng.",
+      "english": "My worthy brother often helps me overcome difficulties."
+    }
+  ]
+}

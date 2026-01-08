@@ -1,0 +1,56 @@
+{
+  "simplified": "縣",
+  "traditional": "縣",
+  "pinyin": "xuán",
+  "english": "county",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "目(目) (mù, \"eye/head\") + 木(木) (mù, \"tree\") + 糸(糸) (sī, \"string\") = hanging a head by string on a tree -> referred to 懸(xuán, \"to hang\") -> later borrowed for 縣 (xuán, \"county\")",
+    "interpretation": "The character 縣 originally depicted the head (eye) being hung by a string on a tree, symbolizing the action of hanging. This character was later borrowed for administrative divisions, likely due to the phonetic similarity to 懸(xuán, \"to hang\"). Over time, the original representation was adapted and corrupted, but the connotations of oversight and governance (like an overseer hanging over an area) may have influenced its adoption for 'county.'",
+    "simplification": "The traditional character 縣 was simplified to 县 by removing 糸(糸) (sī, \"string\") and simplifying the components for ease of writing, while retaining phonetic aspects."
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "string"
+    },
+    {
+      "char": "懸",
+      "trad": "懸",
+      "pinyin": "xuán",
+      "english": "to hang"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在一个小县(我住在一個小縣)。",
+      "pinyin": "Wǒ zhù zài yīgè xiǎo xuán.",
+      "english": "I live in a small county."
+    },
+    {
+      "chinese": "他访问了古老的县(他訪問了古老的縣)，体验了乡村风情(體驗了鄉村風情)。",
+      "pinyin": "Tā fǎngwèn le gǔlǎo de xuán, tǐyàn le xiāngcūn fēngqíng.",
+      "english": "He visited an ancient county and experienced the rural customs."
+    },
+    {
+      "chinese": "他们骑车穿过县城(他們騎車穿過縣城)，感受了悠久的文化(感受了悠久的文化)。",
+      "pinyin": "Tāmen qí chē chuānguò xuánchéng, gǎnshòu le yōujiǔ de wénhuà.",
+      "english": "They rode bicycles through the county town and experienced its long-standing culture."
+    }
+  ]
+}

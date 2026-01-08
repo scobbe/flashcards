@@ -5,35 +5,11 @@
   "english": "variant form of 歹",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts human remains -> variant of 歹(歹) (dǎi, \"bad\") -> top component of 餐(餐) (cān, \"meal\")",
-    "interpretation": "The character 歺(歺) (è, \"variant of 歹\") represents a variant form of 歹(歹), used primarily as a component in other characters, such as 餐(餐). In this context, it contributes to meanings associated with deterioration or decay.",
+    "description": "Depicts human remains -> variant of 歹(歹) (dǎi, \"bad\" or \"evil\")",
+    "interpretation": "歺 is recognized in classical texts as a variant of 歹(歹) (dǎi), representing human remains. It retains a pictorial representation that was historically connected to depictions of related concepts like death.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "歹",
-      "trad": "歹",
-      "pinyin": "dǎi",
-      "english": "bad"
-    },
-    {
-      "char": "餐",
-      "trad": "餐",
-      "pinyin": "cān",
-      "english": "meal"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
-  "examples": [
-    {
-      "chinese": "他是个歺徒(他是個歺徒)，常为凶作乱(常為兇作亂)。",
-      "pinyin": "Tā shì gè ètú, cháng wèi xiōng zuò luàn.",
-      "english": "He is a bad person, always causing trouble."
-    },
-    {
-      "chinese": "他面露歺色(他面露歺色)，让人心惊(讓人心驚)。",
-      "pinyin": "Tā miàn lù è sè, ràng rén xīn jīng.",
-      "english": "He showed a ghastly expression that startled everyone."
-    }
-  ]
+  "examples": []
 }

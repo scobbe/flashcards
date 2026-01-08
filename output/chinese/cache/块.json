@@ -1,0 +1,50 @@
+{
+  "simplified": "块",
+  "traditional": "塊",
+  "pinyin": "kuài",
+  "english": "buck; piece",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "土(土) (tǔ, \"earth\") + phonetic 鬼(鬼) (guǐ, \"ghost\") -> clod of dirt -> piece",
+    "interpretation": "The character combines 土(土) (tǔ, \"earth\") to indicate a material aspect with 鬼(鬼) (guǐ, \"ghost\") for its phonetic component, representing a clod or chunk of earth, which extends metaphorically to the meaning of a 'piece' or 'buck'.",
+    "simplification": "The simplified character 块 replaces the phonetic 鬼(鬼) (guǐ, \"ghost\") with 夬(夬) (guài), which was chosen for its simpler form yet related phonetic value."
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    },
+    {
+      "char": "夬",
+      "trad": "夬",
+      "pinyin": "guài",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "三块钱(三塊錢)。",
+      "pinyin": "Sān kuài qián.",
+      "english": "Three bucks."
+    },
+    {
+      "chinese": "这块蛋糕很好吃(這塊蛋糕很好吃)。",
+      "pinyin": "Zhè kuài dàngāo hěn hǎochī.",
+      "english": "This piece of cake is delicious."
+    },
+    {
+      "chinese": "孩子们用五块木头(孩子們用五塊木頭)，搭建了小屋(搭建了小屋)。",
+      "pinyin": "Háizimen yòng wǔ kuài mùtou, dājiàn le xiǎowū.",
+      "english": "The children used five pieces of wood to build a small house."
+    }
+  ]
+}
