@@ -1,0 +1,44 @@
+{
+  "simplified": "再",
+  "traditional": "再",
+  "pinyin": "zài",
+  "english": "again; once more",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "一(一) (yī, \"one\") + 冓(冓) (\"the shape of a basket repeatedly woven from bamboo\") = signifies repeating an action -> meaning \"again\"",
+    "interpretation": "The character 再(zài, \"again\") incorporates the idea of repetition using a basket shape that suggests a repeated weaving process, conveying doing something \"again.\" This aligns with its modern usage indicating recurrence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "冓",
+      "trad": "冓",
+      "pinyin": "gòu",
+      "english": "the shape of a basket repeatedly woven from bamboo"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请再试一次(請再試一次)。",
+      "pinyin": "Qǐng zài shì yīcì.",
+      "english": "Please try again."
+    },
+    {
+      "chinese": "吃完饭(吃完飯)，我们再出发(我們再出發)。",
+      "pinyin": "Chī wán fàn, wǒmen zài chūfā.",
+      "english": "After eating, we set off again."
+    },
+    {
+      "chinese": "他再读了一遍(他再讀了一遍)。",
+      "pinyin": "Tā zài dú le yībiàn.",
+      "english": "He read it again."
+    }
+  ]
+}

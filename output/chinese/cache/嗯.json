@@ -1,0 +1,44 @@
+{
+  "simplified": "嗯",
+  "traditional": "嗯",
+  "pinyin": "èn",
+  "english": "mm-hmm; uh-huh",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 恩(恩) (ēn) = vocal sound -> mm-hmm; uh-huh",
+    "interpretation": "The character 嗯(嗯) (èn, \"mm-hmm; uh-huh\") combines the semantic element 口(口) (kǒu, \"mouth\") to indicate a sound made with the mouth, with 恩(恩) (ēn) as the phonetic component. This highlights the character's function to represent a vocal expression like 'mm-hmm' or 'uh-huh'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "恩",
+      "trad": "恩",
+      "pinyin": "ēn",
+      "english": "en"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "嗯(嗯)。",
+      "pinyin": "èn.",
+      "english": "Mm-hmm."
+    },
+    {
+      "chinese": "嗯(嗯)，我听懂了(我聽懂了)。",
+      "pinyin": "èn, wǒ tīng dǒng le.",
+      "english": "Uh-huh, I understood."
+    },
+    {
+      "chinese": "他点头表示(他點頭表示)，嗯(嗯)，同意了(同意了)。",
+      "pinyin": "tā diǎn tóu biǎo shì, èn, tóng yì le.",
+      "english": "He nodded, uh-huh, and agreed."
+    }
+  ]
+}

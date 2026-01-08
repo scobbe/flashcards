@@ -1,0 +1,44 @@
+{
+  "simplified": "没有",
+  "traditional": "沒有",
+  "pinyin": "méiyǒu",
+  "english": "not have; there is not",
+  "etymology": {
+    "type": "compound word",
+    "description": "没(沒) (méi, \"not\") + 有(有) (yǒu, \"have\") indicate the absence or lack of something.",
+    "interpretation": "The word 没有(沒有) (méiyǒu) is used to indicate the absence or nonexistence of something, commonly translating to \"not have\" or \"there is not\" in English. It combines the negation 没(沒) with the verb 有(有), to clearly express that something is not present or does not exist.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "没",
+      "trad": "沒",
+      "pinyin": "méi",
+      "english": "not"
+    },
+    {
+      "char": "有",
+      "trad": "有",
+      "pinyin": "yǒu",
+      "english": "have"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我没有书(我沒有書)。",
+      "pinyin": "Wǒ méiyǒu shū.",
+      "english": "I don't have a book."
+    },
+    {
+      "chinese": "他没有时间(他沒有時間)，所以不能参加(所以不能參加)。",
+      "pinyin": "Tā méiyǒu shíjiān, suǒyǐ bù néng cānjiā.",
+      "english": "He doesn't have time, so he cannot participate."
+    },
+    {
+      "chinese": "这里没有人(這裡沒有人)。",
+      "pinyin": "Zhèlǐ méiyǒu rén.",
+      "english": "There is no one here."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "怎么了",
+  "traditional": "怎麼了",
+  "pinyin": "zěnme le",
+  "english": "what's up?; what's wrong?",
+  "etymology": {
+    "type": "compound word",
+    "description": "怎(怎) (zěn, \"how; why\") + 麼(麼) (me, \"suffix for forming questions or adverbs of manner\") + 了(了) (le, \"particle indicating change, completion, or new situation\")",
+    "interpretation": "The phrase 怎麼了(怎么了) (zěnme le) combines 怎(怎) (zěn, \"how\") with the interrogative suffix 麼(麼) (me), and the particle 了(了) (le), which indicates a change or new situation. It is used to inquire about someone's condition or situation, like asking \"what's up?\" or \"what's wrong?\" in English. The use of 了(了) (le) suggests that the speaker is referring to a situation that has changed or developed.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "怎",
+      "trad": "怎",
+      "pinyin": "zěn",
+      "english": "how; why"
+    },
+    {
+      "char": "么",
+      "trad": "麼",
+      "pinyin": "me",
+      "english": "suffix for forming questions or adverbs of manner"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating change, completion, or new situation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你怎么了(你怎麼了)？",
+      "pinyin": "Nǐ zěnme le?",
+      "english": "What's wrong with you?"
+    },
+    {
+      "chinese": "你看起来不太舒服(你看起來不太舒服)，怎么了(怎麼了)？",
+      "pinyin": "Nǐ kàn qǐlái bù tài shūfu, zěnme le?",
+      "english": "You look unwell, what's wrong?"
+    }
+  ]
+}

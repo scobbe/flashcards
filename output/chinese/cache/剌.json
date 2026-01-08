@@ -1,0 +1,51 @@
+{
+  "simplified": "剌",
+  "traditional": "剌",
+  "pinyin": "là",
+  "english": "distinct",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "禾(禾) (hé, 'cereal') + 口(口) (kǒu, 'bag or rope') + 刀(刀) (dāo, 'knife, blade') -> to cut cereal plants, to harvest -> stylized to 柬(柬) (jiǎn, 'bag stuffed with herbs') + 刀(刀) (dāo, 'knife, blade')",
+    "interpretation": "The character 剌 was originally about harvesting cereal plants, symbolized by a knife cutting the plants. Its form evolved on bronze inscriptions, integrating elements symbolizing a bag stuffed with herbs and a knife, reflecting the harvesting process.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "cereal"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "bag or rope"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife, blade"
+    },
+    {
+      "char": "柬",
+      "trad": "柬",
+      "pinyin": "jiǎn",
+      "english": "bag stuffed with herbs"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的服装风格剌(剌)，十分与众不同(與眾不同)。",
+      "pinyin": "Tā de fúzhuāng fēnggé là, shífèn yǔzhòng bùtóng.",
+      "english": "His fashion style is distinct, very unique."
+    },
+    {
+      "chinese": "那幅画的颜色运用剌(剌)，显得格外醒目(格外醒目)。",
+      "pinyin": "Nà fú huà de yánsè yùnyòng là, xiǎnde géwài xǐngmù.",
+      "english": "The use of colors in that painting is distinct, making it particularly eye-catching."
+    }
+  ]
+}

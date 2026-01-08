@@ -1,0 +1,39 @@
+{
+  "simplified": "秉",
+  "traditional": "秉",
+  "pinyin": "bǐng",
+  "english": "handle",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "禾(禾) (hé, \"plant\") + 又(又) (yòu, \"hand\") = a hand holding a plant by the stalk -> handle",
+    "interpretation": "The character illustrates the action of grasping the stalk of a plant, symbolizing the concept of handling or controlling something. This makes sense given the components, as the hand is directly interacting with the plant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "plant"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他秉持正义(他秉持正義)，处理事务(處理事務)。",
+      "pinyin": "Tā bǐngchí zhèngyì, chǔlǐ shìwù.",
+      "english": "He upholds justice and handles affairs."
+    },
+    {
+      "chinese": "总经理秉公用权(總經理秉公用權)，促使企业稳步发展(促使企業穩步發展)。",
+      "pinyin": "Zǒngjīnglǐ bǐnggōng yòngquán, cùshǐ qǐyè wěnbù fāzhǎn.",
+      "english": "The CEO handles power impartially, facilitating the steady growth of the enterprise."
+    }
+  ]
+}

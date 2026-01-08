@@ -1,0 +1,33 @@
+{
+  "simplified": "我",
+  "traditional": "我",
+  "pinyin": "wǒ",
+  "english": "I",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a trident-like weapon or tool 𢦐 -> borrowed for sound as 我 (wǒ, 'I').",
+    "interpretation": "Originally depicted a weapon similar to a three-bladed polearm, it was phonetically borrowed to represent the pronoun 'I'. Its association with weaponry connects to the concept of self-defense, indirectly linking it to individual identity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "polearm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢阅读(我喜歡閱讀)。",
+      "pinyin": "Wǒ xǐhuan yuèdú.",
+      "english": "I enjoy reading."
+    },
+    {
+      "chinese": "我昨天去了市场(我昨天去了市場)，买了很多水果(買了很多水果)。",
+      "pinyin": "Wǒ zuótiān qùle shìchǎng, mǎile hěn duō shuǐguǒ.",
+      "english": "I went to the market yesterday and bought a lot of fruits."
+    }
+  ]
+}

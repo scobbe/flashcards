@@ -1,0 +1,44 @@
+{
+  "simplified": "不行",
+  "traditional": "不行",
+  "pinyin": "bù xíng",
+  "english": "no way; not allowed; not OK",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 行(行) (xíng, \"walk; move; OK\")",
+    "interpretation": "The combination of 不(不) (bù, \"not\") and 行(行) (xíng, \"OK\") is used to express refusal, denial, or disapproval. It conveys the message that something is not acceptable or permitted. The concept of 'not moving or proceeding' can metaphorically mean 'not possible' or 'not allowed'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no"
+    },
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "walk; move; OK"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个方法不行(這個方法不行)。",
+      "pinyin": "Zhège fāngfǎ bù xíng.",
+      "english": "This method doesn't work."
+    },
+    {
+      "chinese": "这样做不行(這樣做不行)，你应该重新思考(你應該重新思考)。",
+      "pinyin": "Zhèyàng zuò bù xíng, nǐ yīnggāi chóngxīn sīkǎo.",
+      "english": "Doing it this way is not acceptable; you should rethink it."
+    },
+    {
+      "chinese": "他想偷偷进来(他想偷偷進來)，但厨房规定不行(但廚房規定不行)。",
+      "pinyin": "Tā xiǎng tōutōu jìnlái, dàn chúfáng guīdìng bù xíng.",
+      "english": "He wants to sneak in, but the kitchen rules do not allow it."
+    }
+  ]
+}

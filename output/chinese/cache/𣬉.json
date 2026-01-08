@@ -4,23 +4,30 @@
   "pinyin": "zhā",
   "english": "phonetic component",
   "etymology": {
-    "type": "pictogram",
-    "description": "The character 𣬉 is a pictogram showing a plaited hair braid, which is indicative of its usage primarily as a phonetic component in various other Chinese characters.",
-    "interpretation": "𣬉 depicts braided hair and is used as a phonetic element in other characters, but it doesn't carry a specific meaning independently.",
+    "type": "phono-semantic compound",
+    "description": "毛 (máo, \"hair/fur\") for semantic meaning of hair or fur + phonetic component (𣬉) = related to hair or fur",
+    "interpretation": "The character 𣬉 is formed with 毛 (máo, \"hair/fur\") for its meaning, indicating a relationship to hair or fur, combined with a component that provides the pronunciation 'zhā'.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair/fur"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "这个汉字利用了𣬉作声旁(這個漢字利用了𣬉作聲旁)。",
-      "pinyin": "Zhège hànzì lìyòng le zhā zuò shēngpáng.",
-      "english": "This Chinese character uses 𣬉 as its phonetic component."
+      "chinese": "这个字有𣬉(𣬉)，组成了音形结构(組成了音形結構)。",
+      "pinyin": "Zhè ge zì yǒu zhā，Zǔchéng le yīn xíng jiégòu。",
+      "english": "This character contains 𣬉, forming a phonetic-semantic structure."
     },
     {
-      "chinese": "传统字学认为𣬉是声旁的重要代表(傳統字學認為𣬉是聲旁的重要代表)。",
-      "pinyin": "Chuántǒng zì xué rènwéi zhā shì shēngpáng de zhòngyào dàibiǎo.",
-      "english": "Traditional Chinese philology considers 𣬉 an important phonetic component."
+      "chinese": "造字时用𣬉(𣬉)，表示音读(表示音讀)。",
+      "pinyin": "Zào zì shí yòng zhā，Biǎoshì yīn dú。",
+      "english": "In creating characters, 𣬉 is used to indicate the phonetic component."
     }
   ]
 }

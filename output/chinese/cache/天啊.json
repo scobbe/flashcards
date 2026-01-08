@@ -1,0 +1,44 @@
+{
+  "simplified": "天啊",
+  "traditional": "天啊",
+  "pinyin": "tiān a",
+  "english": "oh my god",
+  "etymology": {
+    "type": "compound word",
+    "description": "天(天) (tiān, \"heaven; sky\") + 啊(啊) (a, \"a modal particle expressing surprise or exclamation\")",
+    "interpretation": "The phrase 天啊 (tiān a) expresses surprise, shock, or amazement. The character 天(天) (tiān, \"heaven; sky\") invokes a greater power or the heavens, while the particle 啊(啊) (a, \"a modal particle\") emphasizes the emotional reaction. Together, this expression is akin to saying 'oh my god' in English.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "heaven; sky"
+    },
+    {
+      "char": "啊",
+      "trad": "啊",
+      "pinyin": "a",
+      "english": "a modal particle expressing surprise or exclamation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天啊(天啊)！",
+      "pinyin": "tiān a！",
+      "english": "Oh my god!"
+    },
+    {
+      "chinese": "天啊(天啊)，这真是太不可思议了(這真是太不可思議了)。",
+      "pinyin": "tiān a, zhè zhēn shì tài bùkěsīyì le.",
+      "english": "Oh my god, this is really unbelievable."
+    },
+    {
+      "chinese": "天啊(天啊)，你竟然赢了(你竟然贏了)！",
+      "pinyin": "tiān a, nǐ jìngrán yíng le!",
+      "english": "Oh my god, you actually won!"
+    }
+  ]
+}

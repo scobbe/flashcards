@@ -1,0 +1,62 @@
+{
+  "simplified": "对",
+  "traditional": "對",
+  "pinyin": "duì",
+  "english": "correct; right",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "丵(丵) (\"tool for digging\") + 土(土) (tǔ, \"earth\") + 又(又) (yòu, \"hand\") -> originally related to developing land -> borrowed for \"to reply\" -> 又 evolved to 寸(寸) (cùn) in seal script",
+    "interpretation": "The character 對(對) (duì, \"corrects; right\") originally depicted a hand and tool working the earth, possibly related to cultivation. It was later borrowed for meanings related to replying or responding, with script evolution creatively altering its components.",
+    "simplification": "The simplified form 对(對) removes components for a streamlined appearance."
+  },
+  "parts": [
+    {
+      "char": "丵",
+      "trad": "丵",
+      "pinyin": "zhuó",
+      "english": "tool for digging"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你说得对(你說得對)。",
+      "pinyin": "Nǐ shuō de duì.",
+      "english": "You are right."
+    },
+    {
+      "chinese": "他的判断对(他的判斷對)，解决问题更高效(解決問題更高效)。",
+      "pinyin": "Tā de pànduàn duì, jiějué wèntí gèng gāoxiào.",
+      "english": "His judgment is correct, making problem solving more efficient."
+    },
+    {
+      "chinese": "这个答案对(這個答案對)。",
+      "pinyin": "Zhège dá'àn duì.",
+      "english": "This answer is correct."
+    }
+  ]
+}

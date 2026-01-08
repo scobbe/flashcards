@@ -5,35 +5,34 @@
   "english": "plant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "廾(廾) (gǒng, \"two hands\") + 十(十) (shí, \"ten\") = plants rising from the ground -> plant",
-    "interpretation": "The character 卉(卉) (huì, \"plant\") combines 廾(廾) (gǒng, \"two hands\") and 十(十) (shí, \"ten\") to represent a cluster of plants emerging from the earth, evoking the idea of many plants or vegetation.",
+    "description": "屮(屮) (chè, \"sprout\") x3 = abundant plant growth -> plants, flowers, vegetation",
+    "interpretation": "The character 卉(卉) (huì, \"plant\") combines three occurrences of 屮(屮) (chè, \"sprout\"), which visually conveys the concept of numerous sprouts or abundant vegetation, emphasizing the idea of plant life flourishing.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "廾",
-      "trad": "廾",
-      "pinyin": "gǒng",
-      "english": "two hands"
-    },
-    {
-      "char": "十",
-      "trad": "十",
-      "pinyin": "shí",
-      "english": "ten"
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "花卉盛开时(花卉盛開時)，令人心旷神怡(令人心曠神怡)。",
-      "pinyin": "Huā huì shèng kāi shí, lìng rén xīn kuàng shén yí.",
-      "english": "When the flowering plants bloom, they instill a sense of serenity."
+      "chinese": "这座植物园里有丰富的卉(這座植物園裡有豐富的卉)。",
+      "pinyin": "Zhè zuò zhíwùyuán lǐ yǒu fēngfù de huì.",
+      "english": "This botanical garden has abundant plants."
     },
     {
-      "chinese": "各种卉点缀庭院(各種卉點綴庭院)，让环境充满生机(讓環境充滿生機)。",
-      "pinyin": "Gè zhǒng huì diǎn zhuì tíng yuàn, ràng huán jìng chōng mǎn shēng jī.",
-      "english": "Various plants adorn the courtyard, making the environment full of vitality."
+      "chinese": "春天来临时(春天來臨時)，各种卉竞相开放(各種卉競相開放)。",
+      "pinyin": "Chūntiān láilín shí, gèzhǒng huì jìngxīang kāifàng.",
+      "english": "When spring arrives, various plants bloom in competition."
+    },
+    {
+      "chinese": "古代文学中常用‘卉’来指代植物(古代文學中常用‘卉’來指代植物)。",
+      "pinyin": "Gǔdài wénxué zhōng cháng yòng ‘huì’ lái zhǐdài zhíwù.",
+      "english": "In ancient literature, '卉' is often used to represent plants."
     }
   ]
 }

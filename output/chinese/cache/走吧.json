@@ -1,0 +1,39 @@
+{
+  "simplified": "走吧",
+  "traditional": "走吧",
+  "pinyin": "zǒu ba",
+  "english": "let's go",
+  "etymology": {
+    "type": "compound word",
+    "description": "走(走) (zǒu, \"walk\") + 吧(吧) (ba, \"particle indicating suggestion or invitation\") = let's go",
+    "interpretation": "The word 走吧 is a casual expression used to suggest or invite someone to start walking or to leave. The particle 吧(吧) (ba) softens the suggestion, making it more polite and friendly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "walk; go"
+    },
+    {
+      "char": "吧",
+      "trad": "吧",
+      "pinyin": "ba",
+      "english": "particle indicating suggestion or invitation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们走吧(我們走吧)。",
+      "pinyin": "Wǒmen zǒu ba.",
+      "english": "Let's go."
+    },
+    {
+      "chinese": "天黑了(天黑了)，我们走吧(我們走吧)。",
+      "pinyin": "Tiān hēi le, wǒmen zǒu ba.",
+      "english": "It's getting dark, let's go."
+    }
+  ]
+}

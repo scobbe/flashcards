@@ -1,0 +1,44 @@
+{
+  "simplified": "茵",
+  "traditional": "茵",
+  "pinyin": "yīn",
+  "english": "mat",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹 (cǎo, \"plant\") + 因 (yīn, phonetic) = plant wrapped around or resembling something -> mattress/cushion",
+    "interpretation": "The character combines the plant semantic 艹 (cǎo, \"plant\") with the phonetic component 因 (yīn) to convey the idea of a mat made of grass or plants, suggesting lushness or softness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "plant"
+    },
+    {
+      "char": "因",
+      "trad": "因",
+      "pinyin": "yīn",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他坐在柔软的茵上(他坐在柔軟的茵上)。",
+      "pinyin": "Tā zuò zài róu ruǎn de yīn shàng.",
+      "english": "He sits on a soft mat."
+    },
+    {
+      "chinese": "小院里铺着翠绿的茵(小院裡鋪著翠綠的茵)，欢迎归来的客人(歡迎歸來的客人)。",
+      "pinyin": "Xiǎo yuàn lǐ pū zhe cuì lǜ de yīn, huān yíng guī lái de kè rén.",
+      "english": "A small courtyard is laid with verdant mats, welcoming the returning guests."
+    },
+    {
+      "chinese": "诗人于月下铺开茵(詩人於月下鋪開茵)，感叹岁月静好(感嘆歲月靜好)。",
+      "pinyin": "Shī rén yú yuè xià pū kāi yīn, gǎn tàn suì yuè jìng hǎo.",
+      "english": "The poet spreads out the mat under the moon, lamenting the peaceful passage of time."
+    }
+  ]
+}

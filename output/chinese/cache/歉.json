@@ -1,0 +1,39 @@
+{
+  "simplified": "歉",
+  "traditional": "歉",
+  "pinyin": "qiàn",
+  "english": "apology; regret",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "兼(兼) (jiān, \"hold together, combine\") as phonetic + 欠(欠) (qiàn, \"person with mouth open\") semantic = conveys the original meaning of feeling hunger after eating",
+    "interpretation": "The character 歉(歉) (qiàn, \"apology; regret\") combines 兼(兼) (jiān, \"hold together, combine\"), which may reference food in its depiction of a hand holding two crop plants, with 欠(欠) (qiàn, \"person with mouth open\"), suggesting the act of wanting or needing more, originally relating to hunger. This connection to unsatisfied needs or desires extends to the modern sense of apology or regret for an unmet duty or expectation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "兼",
+      "trad": "兼",
+      "pinyin": "jiān",
+      "english": "hold together, combine"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "person with mouth open"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我因迟到向你致歉(我因遲到向你致歉)，请你谅解(請你諒解)。",
+      "pinyin": "Wǒ yīn chídào xiàng nǐ zhìqiàn, qǐng nǐ liàngjiě.",
+      "english": "I apologize for being late, please forgive me."
+    },
+    {
+      "chinese": "听到你的遭遇(聽到你的遭遇)，我心中充满歉意(我心中充滿歉意)。",
+      "pinyin": "Tīngdào nǐ de zāoyù, wǒ xīnzhōng chōngmǎn qiànyì.",
+      "english": "Upon hearing about your ordeal, my heart is filled with regret."
+    }
+  ]
+}

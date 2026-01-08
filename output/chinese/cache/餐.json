@@ -1,0 +1,39 @@
+{
+  "simplified": "餐",
+  "traditional": "餐",
+  "pinyin": "cān",
+  "english": "meal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 𣦼 (cán) + Semantic: 食(食) (shí, \"to eat\") = 'to swallow' -> evolves to 'meal'",
+    "interpretation": "The character 餐(cān) uses 𣦼(cán) to convey sound and 食(shí, \"to eat\") for meaning, originally depicting the action of swallowing, which naturally extends to refer to meals.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𣦼",
+      "trad": "𣦼",
+      "pinyin": "cán",
+      "english": "phonetic component"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "to eat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天享用了美味的晚餐(我今天享用了美味的晚餐)。",
+      "pinyin": "Wǒ jīntiān xiǎngyòngle měiwèi de wǎncān.",
+      "english": "I enjoyed a delicious dinner today."
+    },
+    {
+      "chinese": "我忙了一天(我忙了一天)，终于坐下来享用餐(終於坐下來享用餐)。",
+      "pinyin": "Wǒ mángle yītiān, zhōngyú zuò xiàlái xiǎngyòng cān.",
+      "english": "After a busy day, I finally sat down to enjoy a meal."
+    }
+  ]
+}

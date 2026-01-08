@@ -1,0 +1,44 @@
+{
+  "simplified": "当然",
+  "traditional": "當然",
+  "pinyin": "dāngrán",
+  "english": "of course; certainly",
+  "etymology": {
+    "type": "compound word",
+    "description": "當(當) (dāng, \"to be; to work as\") + 然(然) (rán, \"like this; correct\") = it is correct to be like this -> of course; certainly",
+    "interpretation": "The word is a combination of 當(當) (dāng, \"to be; to work as\") suggesting a state of being, and 然(然) (rán, \"like this; correct\"), indicating something correct or true. Together, they form the expression for something that is naturally or evidently so, akin to the phrase 'of course' in English.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "当",
+      "trad": "當",
+      "pinyin": "dāng",
+      "english": "to be; to work as"
+    },
+    {
+      "char": "然",
+      "trad": "然",
+      "pinyin": "rán",
+      "english": "like this; correct"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你当然知道这件事(你當然知道這件事)。",
+      "pinyin": "Nǐ dāngrán zhīdào zhè jiàn shì.",
+      "english": "You certainly know about this matter."
+    },
+    {
+      "chinese": "他努力学习(他努力學習)，当然会取得好成绩(當然會取得好成績)。",
+      "pinyin": "Tā nǔlì xuéxí, dāngrán huì qǔdé hǎo chéngjì.",
+      "english": "He studies hard, so of course he will achieve good results."
+    },
+    {
+      "chinese": "天气变冷了(天氣變冷了)，当然你应该添件衣服(當然你應該添件衣服)。",
+      "pinyin": "Tiānqì biàn lěng le, dāngrán nǐ yīnggāi tiān jiàn yīfu.",
+      "english": "The weather has turned cold, so of course you should put on another piece of clothing."
+    }
+  ]
+}

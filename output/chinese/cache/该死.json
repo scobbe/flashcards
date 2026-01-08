@@ -1,0 +1,39 @@
+{
+  "simplified": "该死",
+  "traditional": "該死",
+  "pinyin": "gāisǐ",
+  "english": "damn",
+  "etymology": {
+    "type": "compound word",
+    "description": "该(該) (gāi, \"ought to; should\") + 死(死) (sǐ, \"to die\") is used in an accusatory or angry context to mean \"damn\" or \"damned\" as in expressing annoyance or cursing something/someone.",
+    "interpretation": "The combination expresses the sentiment that someone or something 'ought to die' due to displeasure or anger, thus conveying a strong negative emotion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "该",
+      "trad": "該",
+      "pinyin": "gāi",
+      "english": "ought to; should"
+    },
+    {
+      "char": "死",
+      "trad": "死",
+      "pinyin": "sǐ",
+      "english": "to die"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "真是该死(該死)。",
+      "pinyin": "Zhēn shì gāisǐ.",
+      "english": "It's damn."
+    },
+    {
+      "chinese": "他做了该死的决定(他做了該死的決定)，结果事与愿违(結果事與願違)。",
+      "pinyin": "Tā zuòle gāisǐ de juédìng, jiéguǒ shì yǔ yuàn wéi.",
+      "english": "He made a damn decision, and the result went against his wishes."
+    }
+  ]
+}

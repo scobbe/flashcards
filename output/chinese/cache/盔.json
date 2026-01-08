@@ -5,8 +5,8 @@
   "english": "helmet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "皿(皿) (mǐn, \"container\") + 𠂤(果) (guǒ, phonetic component) = container-like object + phonetic element -> helmet",
-    "interpretation": "This character combines the idea of a container and a phonetic element that suggests sound. Helmets resemble containers that fit over the head, and the phonetic component 𠂤(果) (guǒ) provides the pronunciation.",
+    "description": "皿(皿) (mǐn, \"vessel\") + 灰(灰) (huī, phonetic) = vessel-like shape -> original meaning as a type of vessel -> evolved to mean 'helmet' as an inversion of a bowl-like form",
+    "interpretation": "盔(盔) (kuī, \"helmet\") combines the shape of a vessel from 皿(皿) (mǐn, \"vessel\") with the sound from 灰(灰) (huī) to emphasize its bowl-like form, which is protective when reversed like a helmet.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "皿",
       "trad": "皿",
       "pinyin": "mǐn",
-      "english": "container"
+      "english": "vessel"
     },
     {
-      "char": "果",
-      "trad": "果",
-      "pinyin": "guǒ",
-      "english": "n/a"
+      "char": "灰",
+      "trad": "灰",
+      "pinyin": "huī",
+      "english": "ash"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "士兵戴着坚固的盔(士兵戴著堅固的盔)。",
-      "pinyin": "Shìbīng dài zhe jiāngù de kuī.",
-      "english": "The soldier wears a sturdy helmet."
+      "chinese": "士兵戴着铁盔(士兵戴著鐵盔)。",
+      "pinyin": "Shìbīng dàizhe tiě kuī.",
+      "english": "The soldier wears an iron helmet."
     },
     {
-      "chinese": "骑士举起闪亮的盔(騎士舉起閃亮的盔)，走向战场(走向戰場)。",
-      "pinyin": "Qíshì jǔ qǐ shǎnliàng de kuī, zǒuxiàng zhànchǎng.",
-      "english": "The knight raised his shiny helmet and headed to the battlefield."
+      "chinese": "古代战士佩戴华丽的盔(古代戰士佩戴華麗的盔)，流露出英雄本色(流露出英雄本色)。",
+      "pinyin": "Gǔdài zhànshì pèidài huálì de kuī, liúlù chū yīngxióng běnsè.",
+      "english": "Ancient warriors don splendid helmets, revealing their heroic character."
     },
     {
-      "chinese": "古代将领佩戴华丽的盔(古代將領佩戴華麗的盔)。",
-      "pinyin": "Gǔdài jiānglǐng pèidài huálì de kuī.",
-      "english": "Ancient generals wore ornate helmets."
+      "chinese": "骑士戴上沉重的盔(騎士戴上沉重的盔)。",
+      "pinyin": "Qíshì dàishàng chénzhòng de kuī.",
+      "english": "The knight puts on a heavy helmet."
     }
   ]
 }

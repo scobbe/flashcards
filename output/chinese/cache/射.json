@@ -1,0 +1,62 @@
+{
+  "simplified": "射",
+  "traditional": "射",
+  "pinyin": "shè",
+  "english": "shoot",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "弓(弓) (gōng, \"bow\") + 矢(矢) (shǐ, \"arrow\") -> shooting action depicted -> hand 又(又) (yòu, \"hand\") added in bronze inscriptions -> later 又 changed to 寸(寸) (cùn, \"inch\") -> bow and arrow stylized as 身(身) (shēn, \"body\")",
+    "interpretation": "The character originally depicted the action of shooting a bow and arrow, with a hand drawing the bowstring added in later script forms. Over time, the hand was simplified, and the bow and arrow merged into the form of a body, reflecting the dynamic motion of shooting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    },
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    },
+    {
+      "char": "身",
+      "trad": "身",
+      "pinyin": "shēn",
+      "english": "body"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "弓箭手射中目标(弓箭手射中目標)。",
+      "pinyin": "Gōngjiànshǒu shè zhòng mùbiāo.",
+      "english": "The archer hit the target."
+    },
+    {
+      "chinese": "小明拉开弓(小明拉開弓)，射出一支箭(射出一支箭)。",
+      "pinyin": "Xiǎomíng lā kāi gōng, shè chū yī zhī jiàn.",
+      "english": "Xiaoming drew his bow and shot an arrow."
+    },
+    {
+      "chinese": "猎人在森林中设下埋伏(獵人在森林中設下埋伏)，射向敌人(射向敵人)。",
+      "pinyin": "Lièrén zài sēnlín zhōng shè xià máifú, shè xiàng dírén.",
+      "english": "The hunter laid an ambush in the forest and shot at the enemy."
+    }
+  ]
+}

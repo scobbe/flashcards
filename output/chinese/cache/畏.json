@@ -1,0 +1,44 @@
+{
+  "simplified": "畏",
+  "traditional": "畏",
+  "pinyin": "wèi",
+  "english": "fear",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "鬼(鬼) (guǐ, \"ghost\") + holding stick or tiger claw -> depiction of fear",
+    "interpretation": "The character 畏(wèi, \"fear\") visually represents a ghost holding a stick or a combination of a ghost's head and tiger attributes, symbolizing something threatening that induces fear.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    },
+    {
+      "char": "甶",
+      "trad": "甶",
+      "pinyin": "fú",
+      "english": "ghost head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "面对危险(面對危險)，他不畏艰险(他不畏艱險)。",
+      "pinyin": "Miàn duì wēixiǎn, tā bù wèi jiānxiǎn.",
+      "english": "Facing danger, he is not afraid of hardships."
+    },
+    {
+      "chinese": "他畏权(他畏權)，不敢发声(不敢發聲)。",
+      "pinyin": "Tā wèi quán, bù gǎn fāshēng.",
+      "english": "He is intimidated by authority and dares not speak up."
+    },
+    {
+      "chinese": "有的人因为自身弱小(有的人因為自身弱小)，对强者总是存有畏惧(對強者總是存有畏懼)。",
+      "pinyin": "Yǒu de rén yīnwèi zìshēn ruòxiǎo, duì qiángzhě zǒng shì cún yǒu wèi.",
+      "english": "Some people, because of their own weakness, are always intimidated by the powerful."
+    }
+  ]
+}

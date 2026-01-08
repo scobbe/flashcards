@@ -1,0 +1,50 @@
+{
+  "simplified": "太好了",
+  "traditional": "太好了",
+  "pinyin": "tài hǎo le",
+  "english": "great; fantastic",
+  "etymology": {
+    "type": "compound word",
+    "description": "太(太) (tài, \"too; very\") + 好(好) (hǎo, \"good\") + 了(了) (le, \"particle indicating change or excitement\")",
+    "interpretation": "The phrase 太好了 (tài hǎo le) combines 太(太) (tài, \"very\") with 好(好) (hǎo, \"good\") to emphasize how excellent something is, reinforced by 了(了) (le) which expresses a sense of excitement or change. It is commonly used to express delight or approval.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "太",
+      "trad": "太",
+      "pinyin": "tài",
+      "english": "too; very; extremely"
+    },
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; well; fine"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating change; completion; excitement"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天的天气太好了(今天的天氣太好了)。",
+      "pinyin": "Jīntiān de tiānqì tài hǎo le.",
+      "english": "Today's weather is great."
+    },
+    {
+      "chinese": "听说你通过考试(聽說你通過考試)，太好了(太好了)。",
+      "pinyin": "Tīngshuō nǐ tōngguò kǎoshì，tài hǎo le.",
+      "english": "I heard you passed the exam, fantastic!"
+    },
+    {
+      "chinese": "能见到你真是太好了(能見到你真是太好了)。",
+      "pinyin": "Néng jiàn dào nǐ zhēn shì tài hǎo le.",
+      "english": "It is truly fantastic to see you."
+    }
+  ]
+}

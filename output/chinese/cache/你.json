@@ -1,0 +1,44 @@
+{
+  "simplified": "你",
+  "traditional": "你",
+  "pinyin": "nǐ",
+  "english": "you",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Semantic 亻(亻) (rén, \"person\") + Phonetic 尔 (ěr, \"you\") -> Represents a person you are addressing -> \"you\"",
+    "interpretation": "The character 你(nǐ) combines the person radical 亻(亻) (rén, \"person\") with the phonetic component 尔 (ěr, \"you\"), indicating it refers to addressing another person. This compound makes it intuitively clear it means \"you\" as it involves speaking to another person.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "尔",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "you"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你好吗(你好嗎)？",
+      "pinyin": "nǐ hǎo ma？",
+      "english": "How are you?"
+    },
+    {
+      "chinese": "如果你愿意(如果你願意)，我们一起去公园(我們一起去公園)。",
+      "pinyin": "rúguǒ nǐ yuànyì, wǒmen yìqǐ qù gōngyuán。",
+      "english": "If you are willing, we can go to the park together."
+    },
+    {
+      "chinese": "见到你(見到你)，我很开心(我很開心)。",
+      "pinyin": "jiàn dào nǐ, wǒ hěn kāixīn。",
+      "english": "Seeing you makes me very happy."
+    }
+  ]
+}

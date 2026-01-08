@@ -1,0 +1,39 @@
+{
+  "simplified": "快",
+  "traditional": "快",
+  "pinyin": "kuài",
+  "english": "fast; rapid",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "忄(忄) (xīn, \"heart\") + 夬(夬) (guài, \"decisive\") = semantic element of heart + phonetic element suggesting sound -> fast",
+    "interpretation": "The character combines 忄(忄), the radical for matters related to emotions or states of mind, with the phonetic 夬(夬), hinting at decisiveness and speed, thus meaning \"fast\" or \"rapid.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "忄",
+      "trad": "忄",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "夬",
+      "trad": "夬",
+      "pinyin": "guài",
+      "english": "decisive"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跑得很快(他跑得很快)。",
+      "pinyin": "Tā pǎo de hěn kuài.",
+      "english": "He runs very fast."
+    },
+    {
+      "chinese": "他答题快(他答題快)，老师夸奖他(老師誇獎他)。",
+      "pinyin": "Tā dá tí kuài, lǎoshī kuā jiǎng tā.",
+      "english": "He answers the questions quickly, and the teacher praises him."
+    }
+  ]
+}

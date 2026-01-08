@@ -1,0 +1,39 @@
+{
+  "simplified": "好吧",
+  "traditional": "好吧",
+  "pinyin": "hǎo ba",
+  "english": "alright; fine",
+  "etymology": {
+    "type": "compound word",
+    "description": "好(好) (hǎo, \"good\") + 吧(吧) (ba, \"particle indicating suggestion\") = \"alright; fine\" as a suggestion or mild agreement.",
+    "interpretation": "好(好) (hǎo, \"good\") suggests positivity or agreement, while 吧(吧) (ba, \"particle indicating suggestion\") softens the tone, making a suggestion or implying a reluctant assent. This combination expresses a casual agreement or willingness to go along with something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; fine; okay; nice"
+    },
+    {
+      "char": "吧",
+      "trad": "吧",
+      "pinyin": "ba",
+      "english": "particle indicating suggestion; mild command; assumption"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们试试这个办法(我們試試這個辦法)，好吧(好吧)。",
+      "pinyin": "Wǒmen shìshi zhège bànfǎ, hǎo ba.",
+      "english": "Let's try this method, alright."
+    },
+    {
+      "chinese": "今天下雨了(今天下雨了)，好吧(好吧)。",
+      "pinyin": "Jīntiān xiàyǔ le, hǎo ba.",
+      "english": "It's raining today, fine."
+    }
+  ]
+}

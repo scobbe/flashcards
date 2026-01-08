@@ -1,0 +1,44 @@
+{
+  "simplified": "爸爸",
+  "traditional": "爸爸",
+  "pinyin": "bàba",
+  "english": "dad; father",
+  "etymology": {
+    "type": "compound word",
+    "description": "爸(爸) (bà, \"dad\"); 爸(爸) (bà, \"dad\")",
+    "interpretation": "爸爸(爸爸) (bàba, \"dad; father\") consists of the repetition of 爸(爸) (bà, \"dad\"), which is a term of endearment and familiarity. This repetition emphasizes a fond and warm relationship, and is commonly used by children and adults alike to refer to their father.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爸",
+      "trad": "爸",
+      "pinyin": "bà",
+      "english": "dad"
+    },
+    {
+      "char": "爸",
+      "trad": "爸",
+      "pinyin": "bà",
+      "english": "dad"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "爸爸是家里的英雄(爸爸是家裡的英雄)。",
+      "pinyin": "Bàba shì jiālǐ de yīngxióng。",
+      "english": "Dad is the hero of our family."
+    },
+    {
+      "chinese": "我尊敬爸爸(我尊敬爸爸)，因为他总是给我温暖(因為他總是給我溫暖)。",
+      "pinyin": "Wǒ zūnjìng bàba, yīnwèi tā zǒng shì gěi wǒ wēnnuǎn。",
+      "english": "I respect my dad because he always gives me warmth."
+    },
+    {
+      "chinese": "放学后我回家向爸爸问好(放學後我回家向爸爸問好)，他的笑容令人安心(他的笑容令人安心)。",
+      "pinyin": "Fàngxué hòu wǒ huíjiā xiàng bàba wènhǎo, tā de xiàoróng lìng rén ānxīn。",
+      "english": "After school, I go home to greet my dad, and his smile makes me feel at ease."
+    }
+  ]
+}

@@ -1,26 +1,44 @@
 {
   "simplified": "⺹",
-  "traditional": "老",
+  "traditional": "⺹",
   "pinyin": "lǎo",
   "english": "old",
   "etymology": {
     "type": "pictogram",
-    "description": "A bent-over figure with long hair -> an old man",
-    "interpretation": "The character ⺹ (lǎo) is a pictogram showing an elderly person bent over, perhaps with the implication of frailty or wisdom associated with age. This component is central to conveying the concept of 'old' and also appears in other characters related to age or respect for elders.",
+    "description": "A bent-over figure with long hair, an old man, as component of 老(老) (lǎo, 'old') and 孝(孝) (xiào, 'filial piety')",
+    "interpretation": "This character depicts an elderly person with long hair, symbolizing age, and is used as a component to indicate 'old'. The image of a bent figure emphasizes the physical traits associated with aging.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old"
+    },
+    {
+      "char": "孝",
+      "trad": "孝",
+      "pinyin": "xiào",
+      "english": "filial piety"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他已经⺹了(他已經⺹了)。",
-      "pinyin": "Tā yǐjīng lǎo le.",
-      "english": "He is already old."
+      "chinese": "那位⺹先生(那位⺹先生)，智慧过人(智慧過人)。",
+      "pinyin": "Nà wèi lǎo xiānshēng, zhìhuì guòrén.",
+      "english": "That old gentleman is extremely wise."
     },
     {
-      "chinese": "他收藏的古董(他收藏的古董)，散发着⺹魅力(散發著⺹魅力)。",
-      "pinyin": "Tā shōucáng de gǔdǒng, sànfā zhe lǎo mèilì.",
-      "english": "The antiques he collects exude an old charm."
+      "chinese": "我的⺹朋友(我的⺹朋友)，总爱分享旧日趣事(總愛分享舊日趣事)。",
+      "pinyin": "Wǒ de lǎo péngyǒu, zǒng ài fēnxiǎng jiùrì qùshì.",
+      "english": "My old friend always loves to share stories of the past."
+    },
+    {
+      "chinese": "他收藏的⺹物品(他收藏的⺹物品)，充满岁月痕迹(充滿歲月痕跡)。",
+      "pinyin": "Tā shōucáng de lǎo wùpǐn, chōngmǎn suìyuè hénjì.",
+      "english": "The old items he collects are full of traces of time."
     }
   ]
 }

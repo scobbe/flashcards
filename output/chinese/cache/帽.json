@@ -1,0 +1,56 @@
+{
+  "simplified": "帽",
+  "traditional": "帽",
+  "pinyin": "mào",
+  "english": "hat",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "冒(冒) (mào, \"risk\") as phonetic -> 冃(冃) (mào, \"hat\") as original form -> later added 目(目) (mù, \"eye\") for semantic connection to look/appearance + 巾(巾) (jīn, \"cloth\") = cloth covering",
+    "interpretation": "The character 帽(mào, \"hat\") combines 巾(巾) (jīn, \"cloth\") for its fabric aspect with the phonetic 冒(冒) (mào, \"risk\") to convey a sound. The original form 冃(冃) was adapted to include 目(目) (mù, \"eye\") and 巾(巾) (jīn, \"cloth\") to emphasize its use as a wearable item that covers the head.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冒",
+      "trad": "冒",
+      "pinyin": "mào",
+      "english": "risk"
+    },
+    {
+      "char": "冃",
+      "trad": "冃",
+      "pinyin": "mào",
+      "english": "hat"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏天时(夏天時)，我总喜欢戴帽(我總喜歡戴帽)。",
+      "pinyin": "Xiàtiān shí, wǒ zǒng xǐhuān dài mào.",
+      "english": "During summer, I always like to wear a hat."
+    },
+    {
+      "chinese": "他用布做了新帽(他用布做了新帽)。",
+      "pinyin": "Tā yòng bù zuòle xīn mào.",
+      "english": "He made a new hat out of cloth."
+    },
+    {
+      "chinese": "下雨天时(下雨天時)，我忘记带帽(我忘記帶帽)。",
+      "pinyin": "Xiàyǔ tiān shí, wǒ wàngjì dài mào.",
+      "english": "On rainy days, I forget to bring my hat."
+    }
+  ]
+}

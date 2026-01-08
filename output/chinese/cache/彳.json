@@ -2,25 +2,37 @@
   "simplified": "彳",
   "traditional": "彳",
   "pinyin": "chì",
-  "english": "step",
+  "english": "walking",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a small step or a person taking a small step forward.",
-    "interpretation": "The character 彳(彳) (chì, \"step\") represents the imagery of small steps, echoing the action of stepping. It highlights the incremental movement aspect.",
+    "description": "Depicts 街 intersection viewed from above, simplified from 行(行) (xíng, \"go\")",
+    "interpretation": "The character 彳(chì, \"walking\") represents the image of a street intersection, which symbolically indicates movement or walking. It is used to denote the concept of going or moving along a path.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "go"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "运动员迈出彳(運動員邁出彳)，踏上冠军之路(踏上冠軍之路)。",
-      "pinyin": "Yùn dòng yuán mài chū chì, tà shàng guàn jūn zhī lù.",
-      "english": "The athlete took a 'chì' step and embarked on the road to championship."
+      "chinese": "他彳亍而行(他彳亍而行)。",
+      "pinyin": "Tā chìchù ér xíng.",
+      "english": "He ambled along slowly."
     },
     {
-      "chinese": "请看墙上雕刻的彳(請看牆上雕刻的彳)，似乎记录着古人的足迹(似乎記錄著古人的足跡)。",
-      "pinyin": "Qǐng kàn qiáng shàng diāo kè de chì, sì hū jì lù zhe gǔ rén de zú jì.",
-      "english": "Look at the 'chì' carved on the wall; it seems to record the footsteps of the ancients."
+      "chinese": "老人彳步(老人彳步)，穿过小巷(穿過小巷)。",
+      "pinyin": "Lǎorén chì bù, chuānguò xiǎoxiàng.",
+      "english": "The old man walked along, crossing the narrow alley."
+    },
+    {
+      "chinese": "孩子们看到蝴蝶(孩子們看到蝴蝶)，便兴奋地彳走前去(便興奮地彳走前去)。",
+      "pinyin": "Háizimen kàn dào húdié, biàn xīngfèn de chì zǒu qiánqù.",
+      "english": "Upon seeing the butterflies, the children excitedly walked forward."
     }
   ]
 }

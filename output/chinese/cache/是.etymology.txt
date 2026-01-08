@@ -1,2 +1,1 @@
-[昰]
-variant form of 是
+Oracle bone script shows 日 (sun) above a foot-like component (龰/止). However, the glyph composition does not straightforwardly explain the meaning. Originally a demonstrative pronoun meaning "this" - cognate with Proto-Sino-Tibetan *m-daj ~ m-di ("that; this"). The semantic evolution was: "this" → "correct, right" (from emphatic usage) → copula "to be" (by Eastern Han, replacing archaic 唯). Note: despite visual similarity, 疋 (bolt of cloth, matching pairs) is NOT a component of 是 and contributes no semantic value. The bottom component on oracle bones is clearly 止, not 疋.

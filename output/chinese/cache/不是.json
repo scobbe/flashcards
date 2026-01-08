@@ -1,0 +1,39 @@
+{
+  "simplified": "不是",
+  "traditional": "不是",
+  "pinyin": "bú shì",
+  "english": "not; isn't",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 是(是) (shì, \"is\") = \"not is\" -> a negation meaning \"is not\"",
+    "interpretation": "The combination of 不(不) (bù, \"not\") and 是(是) (shì, \"is\") forms a basic negation in Chinese, used to indicate that something does not equate to or is not characterized by another. It reflects a direct and straightforward way to say that something is not the case.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; non-; un-; to negate"
+    },
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "is; are; am; yes"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这不是我的书(這不是我的書)。",
+      "pinyin": "Zhè bú shì wǒ de shū.",
+      "english": "This is not my book."
+    },
+    {
+      "chinese": "这个问题不是简单(這個問題不是簡單)，而是需要深入思考(而是需要深入思考)。",
+      "pinyin": "Zhège wèntí bú shì jiǎndān, ér shì xūyào shēnrù sīkǎo.",
+      "english": "This problem is not simple, but it requires deep thought."
+    }
+  ]
+}

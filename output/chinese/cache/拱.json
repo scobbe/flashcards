@@ -1,0 +1,44 @@
+{
+  "simplified": "拱",
+  "traditional": "拱",
+  "pinyin": "gǒng",
+  "english": "to cup hands",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + 共(共) (gòng, \"together\") = hands together -> to cup hands",
+    "interpretation": "The character 拱(拱) (gǒng, \"to cup hands\") combines the semantic component 扌(扌) (shǒu, \"hand\") indicating the action involves hands, with the phonetic element 共(共) (gòng, \"together\"), suggesting the act of placing the hands together to show respect or formality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拱手致敬(他拱手致敬)。",
+      "pinyin": "Tā gǒngshǒu zhìjìng.",
+      "english": "He cupped his hands in greeting."
+    },
+    {
+      "chinese": "她拱手致谢(她拱手致謝)，感谢大家(感謝大家)。",
+      "pinyin": "Tā gǒngshǒu zhìxiè, gǎnxiè dàjiā.",
+      "english": "She cupped her hands in thanks, appreciating everyone."
+    },
+    {
+      "chinese": "小朋友拱手拜年(小朋友拱手拜年)，收到红包(收到紅包)。",
+      "pinyin": "Xiǎopéngyǒu gǒngshǒu bàinián, shōudào hóngbāo.",
+      "english": "The children cupped their hands to wish a happy new year and received red envelopes."
+    }
+  ]
+}

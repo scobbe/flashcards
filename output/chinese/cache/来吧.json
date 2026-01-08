@@ -1,0 +1,39 @@
+{
+  "simplified": "来吧",
+  "traditional": "來吧",
+  "pinyin": "lái ba",
+  "english": "come on",
+  "etymology": {
+    "type": "compound word",
+    "description": "来(來) (lái, \"come\") + 吧(吧) (ba, \"modal particle indicating suggestion or urging\") = come on.",
+    "interpretation": "The word 来吧(來吧) (lái ba, \"come on\") is a colloquial phrase used to invite or urge someone to come or proceed with something. It combines the idea of coming with a casual or encouraging tone, thanks to the particle 吧(吧) (ba, \"modal particle\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "来",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come"
+    },
+    {
+      "char": "吧",
+      "trad": "吧",
+      "pinyin": "ba",
+      "english": "modal particle indicating suggestion or urging"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "快点来吧(快點來吧)。",
+      "pinyin": "Kuài diǎn lái ba.",
+      "english": "Hurry, come on."
+    },
+    {
+      "chinese": "一切准备就绪(一切準備就緒)，来吧(來吧)。",
+      "pinyin": "Yīqiè zhǔnbèi jiùxù, lái ba.",
+      "english": "Everything is ready, come on."
+    }
+  ]
+}

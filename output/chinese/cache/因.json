@@ -1,0 +1,56 @@
+{
+  "simplified": "因",
+  "traditional": "因",
+  "pinyin": "yīn",
+  "english": "cause",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "囗(“sheet”) + 大(“person”) = man on a mattress -> original form of 裀(yīn, “mat”) or 茵(yīn, “mattress”) -> borrowed for 'cause'",
+    "interpretation": "The character 因(yīn, “cause”) combines the elements of a person 大(dà, “person”) inside a boundary 囗(wéi, “sheet”), suggesting a person lying on a surface such as a mattress or mat. This formation was originally used to describe a mat or cushion, but was phonetically borrowed to represent 'cause' in modern usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "sheet"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "person"
+    },
+    {
+      "char": "裀",
+      "trad": "裀",
+      "pinyin": "yīn",
+      "english": "mat"
+    },
+    {
+      "char": "茵",
+      "trad": "茵",
+      "pinyin": "yīn",
+      "english": "mattress"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他因刻苦学习而取得优异成绩(他因刻苦學習而取得優異成績)。",
+      "pinyin": "Tā yīn kèkǔ xuéxí ér qǔdé yōuyì chéngjì.",
+      "english": "He achieved excellent grades because of his diligent study."
+    },
+    {
+      "chinese": "他因家中有事(他因家中有事)，无法出席会议(無法出席會議)。",
+      "pinyin": "Tā yīn jiāzhōng yǒushì, wúfǎ chūxí huìyì.",
+      "english": "He couldn’t attend the meeting because he had something going on at home."
+    },
+    {
+      "chinese": "因程序设计错误(因程式設計錯誤)，项目延期发布(項目延期發佈)。",
+      "pinyin": "Yīn chéngxù shèjì cuòwù, xiàngmù yánqī fābù.",
+      "english": "Due to programming design errors, the project release was delayed."
+    }
+  ]
+}

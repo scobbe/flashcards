@@ -1,26 +1,31 @@
 {
   "simplified": "糸",
   "traditional": "糸",
-  "pinyin": "mì",
-  "english": "silk thread",
+  "pinyin": "sī",
+  "english": "silk",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a coil of silk thread",
-    "interpretation": "The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.",
+    "description": "Depicts a skein of silk",
+    "interpretation": "糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古人用糸制作衣物(古人用糸製作衣物)。",
-      "pinyin": "Gǔrén yòng mì zhìzuò yīwù.",
-      "english": "Ancient people used silk thread to make clothes."
+      "chinese": "糸是纺织品的基础材料(絲是紡織品的基礎材料)。",
+      "pinyin": "sī shì fǎngzhīpǐn de jīchǔ cáiliào.",
+      "english": "Silk is the basic material for textiles."
     },
     {
-      "chinese": "他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。",
-      "pinyin": "Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.",
-      "english": "He wove exquisite fabric with silk thread, decorating the robes of nobles."
+      "chinese": "古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。",
+      "pinyin": "gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.",
+      "english": "Ancient people used silk to make gorgeous clothes, symbolizing status and rank."
+    },
+    {
+      "chinese": "古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。",
+      "pinyin": "gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.",
+      "english": "Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship."
     }
   ]
 }

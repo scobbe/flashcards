@@ -1,0 +1,44 @@
+{
+  "simplified": "等等",
+  "traditional": "等等",
+  "pinyin": "děngděng",
+  "english": "etc.; and so on",
+  "etymology": {
+    "type": "compound word",
+    "description": "等(等) (děng, \"wait; rank; class\") + 等(等) (děng, \"wait; rank; class\") is a repetition used to indicate continuation, often translated as \"etc.\" or \"and so on.\" This suggests incompleteness, indicating that what has been mentioned is part of a larger list or sequence.",
+    "interpretation": "The repetition of 等(等) (děng, \"wait; rank; class\") emphasizes continuity or an extension of a list, commonly abbreviated in English as \"etc.\" to indicate additional items are included.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "等",
+      "trad": "等",
+      "pinyin": "děng",
+      "english": "wait; rank; class"
+    },
+    {
+      "char": "等",
+      "trad": "等",
+      "pinyin": "děng",
+      "english": "wait; rank; class"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "书店里有小说(書店裡有小說)，杂志(雜誌)，等等(等等)。",
+      "pinyin": "Shūdiàn lǐ yǒu xiǎoshuō, zázhì, děngděng.",
+      "english": "The bookstore has novels, magazines, and so on."
+    },
+    {
+      "chinese": "他们讨论了旅行计划(他們討論了旅行計劃)，价格(價格)，等等(等等)。",
+      "pinyin": "Tāmen tǎolùn le lǚxíng jìhuà, jiàgé, děngděng.",
+      "english": "They discussed travel plans, prices, etc."
+    },
+    {
+      "chinese": "餐桌上摆满了菜(餐桌上擺滿了菜)，水果(水果)，等等(等等)。",
+      "pinyin": "Cānzhuō shàng bǎi mǎn le cài, shuǐguǒ, děngděng.",
+      "english": "The table is filled with dishes, fruits, and so on."
+    }
+  ]
+}

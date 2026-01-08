@@ -1,0 +1,39 @@
+{
+  "simplified": "呃",
+  "traditional": "呃",
+  "pinyin": "è",
+  "english": "uh...",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic 厄(厄) (è, \"difficulty\") -> sound of something stuck in the throat",
+    "interpretation": "The character 呃(呃) (è) represents an interjection or sound made when one is surprised or hesitant, often associated with a momentary pause or difficulty in speech, hence the use of 厄(厄) (è, \"difficulty\") as the phonetic component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "厄",
+      "trad": "厄",
+      "pinyin": "è",
+      "english": "difficulty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "呃(呃)，我还没想好呢(我還沒想好呢)。",
+      "pinyin": "È, wǒ hái méi xiǎng hǎo ne.",
+      "english": "Uh, I haven't decided yet."
+    },
+    {
+      "chinese": "刚开始的时候(剛開始的時候)，他呃说错了(他呃說錯了)。",
+      "pinyin": "Gāng kāishǐ de shíhòu, tā è shuō cuò le.",
+      "english": "At the beginning, he, uh, misspoke."
+    }
+  ]
+}

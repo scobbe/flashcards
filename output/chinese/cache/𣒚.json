@@ -4,23 +4,30 @@
   "pinyin": "tuó",
   "english": "bag with a bottom",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a bag or container with a bottom, possibly indicating a sack or pouch shape.",
-    "interpretation": "The character visually represents a bag with an emphasis on its bottom, conveying the concept of a completed, functional container.",
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree/wood\") semantic + phonetic component -> type of tree or wooden object",
+    "interpretation": "The character combines 木(木) (mù, \"tree/wood\") as the semantic element indicating a connection to wood or trees, with a phonetic component to convey the sound 'tuó'. It represents a rare term possibly related to a specific type of tree or wooden object, although it mainly exists in historical contexts today.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree/wood"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "这个𣒚很结实(這個𣒚很結實)，可以装很多东西(可以裝很多東西)。",
-      "pinyin": "Zhè ge tuó hěn jiéshí, kěyǐ zhuāng hěn duō dōngxī.",
-      "english": "This bag with a bottom is very sturdy, and it can hold many things."
+      "chinese": "他从商店买了一个𣒚(𣒚)，用来装食物(用來裝食物)。",
+      "pinyin": "Tā cóng shāngdiàn mǎile yīgè tuó, yòng lái zhuāng shíwù.",
+      "english": "He bought a bag with a bottom from the shop, used for holding food."
     },
     {
-      "chinese": "我用𣒚装米(我用𣒚裝米)。",
-      "pinyin": "Wǒ yòng tuó zhuāng mǐ.",
-      "english": "I use the bag with a bottom to store rice."
+      "chinese": "这个𣒚(𣒚)结实耐用(結實耐用)。",
+      "pinyin": "Zhège tuó jiéshi nàiyòng.",
+      "english": "This bag with a bottom is sturdy and durable."
     }
   ]
 }

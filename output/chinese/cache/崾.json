@@ -5,8 +5,8 @@
   "english": "difficult; arduous",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 山(山) (shān, \"mountain\") + phonetic: 夭(夭) (yāo, \"tender\") = rising mountain terrain -> difficult to traverse",
-    "interpretation": "The character 崾(yǎo) combines 山(山) (shān, \"mountain\") to suggest a mountainous area with the phonetic 夭(夭) (yāo), indicating something tender or soft. Together, they convey the idea of a mountainous region that is challenging, not stable or easy to cross.",
+    "description": "山(山) (shān, \"mountain\") + 要(要) (yào, phonetic) = mountain terrain -> difficult, arduous",
+    "interpretation": "The character combines 山(山) (shān, \"mountain\"), representing mountain terrain, with 要(要) (yào) for phonetic value. This reflects how mountainous landscapes are often challenging and arduous to traverse.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,23 @@
       "english": "mountain"
     },
     {
-      "char": "夭",
-      "trad": "夭",
-      "pinyin": "yāo",
-      "english": "tender"
+      "char": "要",
+      "trad": "要",
+      "pinyin": "yào",
+      "english": "important"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "攀登險峰时(攀登險峰時)，路途崾且艰难(路途崾且艱難)。",
-      "pinyin": "Pān dēng xiǎn fēng shí, lù tú yǎo qiě jiān nán.",
-      "english": "When scaling perilous peaks, the journey is arduous and difficult."
+      "chinese": "这条路崾险难行(這條路崾險難行)。",
+      "pinyin": "Zhè tiáo lù yǎo xiǎn nán xíng.",
+      "english": "This road is arduous and treacherous."
     },
     {
-      "chinese": "古道悠远时(古道悠遠時)，旅途崾而漫长(旅途崾而漫長)。",
-      "pinyin": "Gǔ dào yōu yuǎn shí, lǚ tú yǎo ér màn cháng.",
-      "english": "When the ancient path stretches afar, the journey is arduous and long."
-    },
-    {
-      "chinese": "寒冬来临时(寒冬來臨時)，行走山径崾且曲折(行走山徑崾且曲折)。",
-      "pinyin": "Hán dōng lái lín shí, xíng zǒu shān jìng yǎo qiě qū zhé.",
-      "english": "When winter arrives, traversing the mountain trail is arduous and winding."
+      "chinese": "他毅然踏上崾途(他毅然踏上崾途)，追逐梦想不言放弃(追逐夢想不言放棄)。",
+      "pinyin": "Tā yìrán tà shàng yǎo tú, zhuīzhú mèngxiǎng bù yán fàngqì.",
+      "english": "He resolutely embarked on an arduous journey, relentlessly chasing his dreams."
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "simplified": "夕",
+  "traditional": "夕",
+  "pinyin": "xī",
+  "english": "evening",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a moon crescent",
+    "interpretation": "The character 夕(夕) (xī, 'evening') is a pictogram that represents a crescent moon, capturing the image of the moon in the evening sky. The comparison to 月(月) (yuè, 'moon') underscores its depiction of the moon phase commonly associated with evening.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夕阳西下(夕陽西下)。",
+      "pinyin": "xī yáng xīxià.",
+      "english": "The setting sun descends."
+    },
+    {
+      "chinese": "夕阳西下(夕陽西下)，晚风徐徐(晚風徐徐)。",
+      "pinyin": "xī yáng xīxià, wǎn fēng xúxú.",
+      "english": "The sun sets as the gentle evening breeze blows."
+    }
+  ]
+}

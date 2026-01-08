@@ -1,0 +1,56 @@
+{
+  "simplified": "要",
+  "traditional": "要",
+  "pinyin": "yào",
+  "english": "want; need; will; important",
+  "etymology": {
+    "type": "pictogram",
+    "description": "大 (large person) -> 女 (woman) with hands pointing to midsection -> 目 (eye) stylized as 角 (horn) -> 覀 (stylized top) -> final form 要 (yào, 'want; need; will; important')",
+    "interpretation": "The character 要(yào, 'want; need; will; important') originally depicted a person with an eye on top, suggesting focus or necessity, which evolved through stylization into its current form. The hands indicating the midsection convey importance or centrality, aligning with meanings of ‘need’ and ‘want.’",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "large"
+    },
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "角",
+      "trad": "角",
+      "pinyin": "jiǎo",
+      "english": "horn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我要喝水(我要喝水)。",
+      "pinyin": "Wǒ yào hē shuǐ.",
+      "english": "I want to drink water."
+    },
+    {
+      "chinese": "如果你要成功(如果你要成功)，你就要努力学习(你就要努力學習)。",
+      "pinyin": "Rúguǒ nǐ yào chénggōng, nǐ jiù yào nǔlì xuéxí.",
+      "english": "If you want to succeed, you need to study hard."
+    },
+    {
+      "chinese": "明天我要参加会议(明天我要參加會議)，请你不要迟到(請你不要遲到)。",
+      "pinyin": "Míngtiān wǒ yào cānjiā huìyì, qǐng nǐ bùyào chídào.",
+      "english": "I will attend the meeting tomorrow; please do not be late."
+    }
+  ]
+}

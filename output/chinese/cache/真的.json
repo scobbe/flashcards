@@ -1,0 +1,39 @@
+{
+  "simplified": "真的",
+  "traditional": "真的",
+  "pinyin": "zhēn de",
+  "english": "really; truly",
+  "etymology": {
+    "type": "compound word",
+    "description": "真(真) (zhēn, \"real; true\") + 的(的) (de, \"of; possessive particle\") = expresses the quality of being genuine or true -> really or truly.",
+    "interpretation": "The word combines 真(真) (zhēn, \"real; true\") with 的(的) (de, \"of; possessive particle\") to emphasize the truth or genuineness of an assertion or statement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "真",
+      "trad": "真",
+      "pinyin": "zhēn",
+      "english": "real; true"
+    },
+    {
+      "char": "的",
+      "trad": "的",
+      "pinyin": "de",
+      "english": "of; possessive particle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我真的很高兴(我真的很高興)。",
+      "pinyin": "Wǒ zhēn de hěn gāoxìng.",
+      "english": "I am really happy."
+    },
+    {
+      "chinese": "她真的喜欢这本书(她真的喜歡這本書)，因为它非常有趣(因為它非常有趣)。",
+      "pinyin": "Tā zhēn de xǐhuān zhè běn shū, yīnwèi tā fēicháng yǒuqù.",
+      "english": "She really likes this book because it is very interesting."
+    }
+  ]
+}

@@ -4,15 +4,15 @@
   "pinyin": "shā",
   "english": "sand",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 少(少) (shǎo, \"few/little\") = little water -> sand",
-    "interpretation": "The character 沙(shā, \"sand\") combines water 氵(氵) with the idea of being sparse or scant 少(少). This blend symbolically captures sand's flowing, water-associated nature, while emphasizing its fine, tiny particles—akin to little or few.",
+    "type": "ideogrammic compound",
+    "description": "水(水) (shuǐ, \"water\") + 少(少) (shǎo, \"to lack; to be short of\") = water with few particles -> sand",
+    "interpretation": "The character 沙(shā, \"sand\") represents the presence of sparse particles (sand) in water, suggesting how sand is often found in conjunction with water, like along riverbanks.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -20,25 +20,25 @@
       "char": "少",
       "trad": "少",
       "pinyin": "shǎo",
-      "english": "few"
+      "english": "to lack; to be short of"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "孩子们在沙滩上玩耍(孩子們在沙灘上玩耍)。",
-      "pinyin": "Hái zǐ men zài shā tān shàng wán shuǎ.",
-      "english": "Children are playing on the beach."
+      "chinese": "海滩上的沙很细(海灘上的沙很細)。",
+      "pinyin": "Hǎi tān shàng de shā hěn xì.",
+      "english": "The sand on the beach is very fine."
     },
     {
-      "chinese": "海边的沙温暖而柔软(海邊的沙溫暖而柔軟)。",
-      "pinyin": "Hǎi biān de shā wēn nuǎn ér róu ruǎn.",
-      "english": "The sand by the seaside is warm and soft."
+      "chinese": "孩子们带着桶和铲子(孩子們帶著桶和鏟子)，在沙滩上建城堡(在沙灘上建城堡)。",
+      "pinyin": "Háizimen dài zhe tǒng hé chǎnzi, zài shā tān shàng jiàn chéngbǎo.",
+      "english": "The children carry buckets and shovels, building castles on the beach."
     },
     {
-      "chinese": "沙粒闪烁着光芒(沙粒閃爍著光芒)，仿佛无数星辰(仿佛無數星辰)。",
-      "pinyin": "Shā lì shǎn shuò zhe guāng máng, fǎng fú wú shù xīng chén.",
-      "english": "The grains of sand sparkle, as if countless stars."
+      "chinese": "风吹起沙尘(風吹起沙塵)，让人有点不适(讓人有點不適)。",
+      "pinyin": "Fēng chuī qǐ shāchén, ràng rén yǒudiǎn bùshì.",
+      "english": "The wind kicks up sand dust, making people feel a bit uncomfortable."
     }
   ]
 }

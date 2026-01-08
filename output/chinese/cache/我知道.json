@@ -1,0 +1,44 @@
+{
+  "simplified": "我知道",
+  "traditional": "我知道",
+  "pinyin": "wǒ zhīdào",
+  "english": "I know",
+  "etymology": {
+    "type": "compound word",
+    "description": "我(我) (wǒ, \"I\"), 知(知) (zhī, \"know\"), 道(道) (dào, \"way; path; to speak\")",
+    "interpretation": "The phrase combines 我(我) (wǒ, \"I\") with 知道(知道) (zhīdào, \"know\") which itself consists of 知(知) meaning \"know\" and 道(道) which in this context acts as a complement to intensify the meaning of knowing or recognizing something. This phrase simply means \"I know\".",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "我",
+      "trad": "我",
+      "pinyin": "wǒ",
+      "english": "I"
+    },
+    {
+      "char": "知道",
+      "trad": "知道",
+      "pinyin": "zhīdào",
+      "english": "know; aware"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我知道(我知道)。",
+      "pinyin": "Wǒ zhīdào.",
+      "english": "I know."
+    },
+    {
+      "chinese": "他告诉我事实(他告訴我事實)，我知道真相(我知道真相)。",
+      "pinyin": "Tā gàosù wǒ shìshí, wǒ zhīdào zhēnxiàng.",
+      "english": "He told me the facts, I know the truth."
+    },
+    {
+      "chinese": "当你说完(當你說完)，我知道(我知道)。",
+      "pinyin": "Dāng nǐ shuō wán, wǒ zhīdào.",
+      "english": "When you finish speaking, I know."
+    }
+  ]
+}

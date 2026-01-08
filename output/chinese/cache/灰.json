@@ -1,0 +1,44 @@
+{
+  "simplified": "灰",
+  "traditional": "灰",
+  "pinyin": "huī",
+  "english": "ash",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 火(火) (huǒ, \"fire\") = fire that can be touched with the hand (ash) -> 又 modified to 𠂇",
+    "interpretation": "The character 灰(灰) (huī, \"ash\") represents ashes, signifying that it is a form of fire that is no longer hot, hence can be handled with the hand. The character originally combined 又(又) (yòu, \"hand\") with 火(火) (huǒ, \"fire\"), where the component representing a hand was later altered to 𠂇.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把木头烧成了灰(他把木頭燒成了灰)。",
+      "pinyin": "Tā bǎ mùtóu shāochéngle huī.",
+      "english": "He burned the wood into ash."
+    },
+    {
+      "chinese": "火光过后只剩下灰(火光過後只剩下灰)，记忆随风飘散(記憶隨風飄散)。",
+      "pinyin": "Huǒguāng guòhòu zhǐ shèng xià huī, jìyì suí fēng piāosàn.",
+      "english": "After the flames, only ash remained, and memories drifted away with the wind."
+    },
+    {
+      "chinese": "古老的炉中散落着灰(古老的爐中散落著灰)。",
+      "pinyin": "Gǔlǎo de lú zhōng sànluò zhe huī.",
+      "english": "Ash scattered within the ancient furnace."
+    }
+  ]
+}

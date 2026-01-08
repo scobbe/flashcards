@@ -1,0 +1,44 @@
+{
+  "simplified": "爸",
+  "traditional": "爸",
+  "pinyin": "bà",
+  "english": "dad",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 父(父) (fù, \"father\") + phonetic 巴(巴) (bā, \"adhere\") = 父 with phonetic element 巴 for sound -> \"dad\"",
+    "interpretation": "The character 爸 combines the significance of 父(父) (fù, \"father\") to convey the meaning and uses 巴(巴) (bā) to suggest the pronunciation, creating an informal term for 'father' or 'dad'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "父",
+      "trad": "父",
+      "pinyin": "fù",
+      "english": "father"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "adhere"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱我的爸(我愛我的爸)。",
+      "pinyin": "Wǒ ài wǒ de bà.",
+      "english": "I love my dad."
+    },
+    {
+      "chinese": "当太阳下山时(當太陽下山時)，爸在厨房准备晚饭(爸在廚房準備晚飯)。",
+      "pinyin": "Dāng tàiyáng xiàshān shí, bà zài chúfáng zhǔnbèi wǎnfàn.",
+      "english": "When the sun sets, dad prepares dinner in the kitchen."
+    },
+    {
+      "chinese": "每个周末他都会带爸去钓鱼(每個週末他都會帶爸去釣魚)。",
+      "pinyin": "Měi gè zhōumò tā dūhuì dài bà qù diàoyú.",
+      "english": "Every weekend, he takes his dad fishing."
+    }
+  ]
+}

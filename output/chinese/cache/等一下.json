@@ -1,0 +1,39 @@
+{
+  "simplified": "等一下",
+  "traditional": "等一下",
+  "pinyin": "děng yíxià",
+  "english": "wait a moment",
+  "etymology": {
+    "type": "compound word",
+    "description": "等(等) (děng, \"wait\") + 一下(一下) (yíxià, \"a moment\") combines to mean \"wait a moment.\"",
+    "interpretation": "The combination of 等(等) (děng, \"wait\") and 一下(一下) (yíxià, \"a moment\") is a straightforward command or request for someone to pause or stop for a brief period.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "等",
+      "trad": "等",
+      "pinyin": "děng",
+      "english": "wait; await; rank; grade"
+    },
+    {
+      "char": "一下",
+      "trad": "一下",
+      "pinyin": "yíxià",
+      "english": "a moment; a while"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请等一下(請等一下)。",
+      "pinyin": "Qǐng děng yíxià.",
+      "english": "Please wait a moment."
+    },
+    {
+      "chinese": "我马上回来(我馬上回來)，请等一下(請等一下)。",
+      "pinyin": "Wǒ mǎshàng huílái, qǐng děng yíxià.",
+      "english": "I'll be right back, please wait a moment."
+    }
+  ]
+}

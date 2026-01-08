@@ -5,35 +5,35 @@
   "english": "to pinch",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 扌(手) (shǒu, \"hand\") + phonetic: 佥(僉) (qiān)",
-    "interpretation": "The character 拑 combines the semantic component 扌(手) (shǒu, \"hand\"), indicating an action done by hand, with the phonetic component 佥(僉) (qiān), suggesting a similar pronunciation. This depicts the action of pinching or clamping something with hands.",
+    "description": "扌(扌) (shǒu, \"hand\") + 甘(甘) (gān, phonetic) = conveys use of hand to apply pressure -> to clamp, to grip, to restrain",
+    "interpretation": "The character 拑(qián, \"to pinch\") combines the hand radical 扌(扌) (shǒu, \"hand\") indicating a manual action, with 甘(甘) (gān) serving as a phonetic indicator, together representing an action of gripping or restraining.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "扌",
-      "trad": "手",
+      "trad": "扌",
       "pinyin": "shǒu",
       "english": "hand"
     },
     {
-      "char": "佥",
-      "trad": "僉",
-      "pinyin": "qiān",
-      "english": ""
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他拑了我的手(他拑了我的手)，让我感到意外(讓我感到意外)。",
-      "pinyin": "Tā qián le wǒ de shǒu, ràng wǒ gǎndào yìwài.",
-      "english": "He pinched my hand, which surprised me."
+      "chinese": "哥哥拑了妹妹的鼻子(哥哥拑了妹妹的鼻子)。",
+      "pinyin": "Gēgē qián le mèimei de bízi.",
+      "english": "The older brother pinched his sister's nose."
     },
     {
-      "chinese": "小朋友拑了拑自己的鼻子(小朋友拑了拑自己的鼻子)。",
-      "pinyin": "Xiǎopéngyǒu qián le qián zìjǐ de bízi.",
-      "english": "The child pinched his own nose."
+      "chinese": "他拑我的手(他拑我的手)，让我忍不住笑(讓我忍不住笑)。",
+      "pinyin": "Tā qián wǒ de shǒu, ràng wǒ rěn bù zhù xiào.",
+      "english": "He pinched my hand, making me burst into laughter."
     }
   ]
 }

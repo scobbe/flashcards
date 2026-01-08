@@ -1,0 +1,44 @@
+{
+  "simplified": "没错",
+  "traditional": "沒錯",
+  "pinyin": "méi cuò",
+  "english": "that's right; correct",
+  "etymology": {
+    "type": "compound word",
+    "description": "沒(沒) (méi, \"no; not\") + 錯(錯) (cuò, \"wrong; mistake\") suggests a negation of error, effectively conveying the idea of correctness or affirmation.",
+    "interpretation": "The phrase 没错(沒錯) (méi cuò, \"that's right; correct\") is used to affirm or confirm a statement, indicating that there is no error or mistake in what was said. It combines the negation '没(沒)' (méi, \"no; not\") with '错(錯)' (cuò, \"wrong; mistake\") to produce a positive affirmation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "没",
+      "trad": "沒",
+      "pinyin": "méi",
+      "english": "no; not; have not; drown"
+    },
+    {
+      "char": "错",
+      "trad": "錯",
+      "pinyin": "cuò",
+      "english": "wrong; mistake; fault; error"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他说的没错(他說的沒錯)。",
+      "pinyin": "Tā shuō de méi cuò.",
+      "english": "What he said is correct."
+    },
+    {
+      "chinese": "他解释得很清楚(他解釋得很清楚)，没错(沒錯)。",
+      "pinyin": "Tā jiěshì dé hěn qīngchǔ, méi cuò.",
+      "english": "His explanation is very clear, that's right."
+    },
+    {
+      "chinese": "你理解了小说的情节(你理解了小說的情節)，没错(沒錯)。",
+      "pinyin": "Nǐ lǐjiě le xiǎoshuō de qíngjié, méi cuò.",
+      "english": "You understood the plot of the novel, exactly."
+    }
+  ]
+}

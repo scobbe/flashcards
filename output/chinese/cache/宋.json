@@ -5,8 +5,8 @@
   "english": "Song; surname",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"tree\") = phonetic element under a roof, originally related to stability and peace -> used as a surname and historical state name",
-    "interpretation": "The character 宋(Sòng) combines 宀(宀) (mián, \"roof\"), a symbol of protection and safety, with 木(木) (mù, \"tree\"), which acts as the phonetic component. This compound effectively conveys an idea of stability or shelter, which aligns with its use in ancient times as the name of the Song dynasty and as a common surname.",
+    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"wood\") = dwelling, home -> name of dynasty/surname",
+    "interpretation": "The character 宋(Sòng) combines 宀(宀) (mián, \"roof\"), conveying the idea of a shelter or dwelling, with 木(木) (mù, \"wood\"), serving as the phonetic element. Over time, this meaning expanded from 'home' to represent the Song dynasty, becoming a widely recognized surname.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,20 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "tree"
+      "english": "wood"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "宋朝艺术辉煌(宋朝藝術輝煌)。",
-      "pinyin": "Sòng cháo yìshù huīhuáng。",
-      "english": "The art of the Song dynasty was brilliant."
+      "chinese": "宋朝是中国历史上一个辉煌的朝代(宋朝是中國歷史上一個輝煌的朝代)。",
+      "pinyin": "Sòng cháo shì Zhōngguó lìshǐ shàng yí gè huīhuáng de cháodài.",
+      "english": "The Song Dynasty is a brilliant dynasty in Chinese history."
     },
     {
-      "chinese": "李先生姓宋(李先生姓宋)，他十分有礼(他十分有禮)。",
-      "pinyin": "Lǐ xiānshēng xìng Sòng, tā shífēn yǒulǐ。",
-      "english": "Mr. Li has the surname Song, and he is very polite."
+      "chinese": "他姓宋(他姓宋)，家族历史悠久(家族歷史悠久)。",
+      "pinyin": "Tā xìng Sòng, jiāzú lìshǐ yōujiǔ.",
+      "english": "His surname is Song, and his family has a long history."
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "simplified": "为",
+  "traditional": "為",
+  "pinyin": "wèi",
+  "english": "for; on account of; because of",
+  "etymology": {
+    "type": "simplified from 爲",
+    "description": "Originally 又(又) (yòu, 'hand') + 象(象) (xiàng, 'elephant') = hand holding an elephant -> simplified to 为 for cursive script use",
+    "interpretation": "为(wèi) retains the basic meaning of 'for' or 'on account of' from the traditional character 為(為), simplified for ease through the cursive script process, representing the same concept with fewer strokes.",
+    "simplification": "为(wèi) was adopted from a cursive form of 爲(為), streamlining the character for modern usage while preserving its original components' associations."
+  },
+  "parts": [
+    {
+      "char": "為",
+      "trad": "為",
+      "pinyin": "wéi",
+      "english": "for; because of"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "象",
+      "trad": "象",
+      "pinyin": "xiàng",
+      "english": "elephant"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我为你祝福(我為你祝福)。",
+      "pinyin": "Wǒ wèi nǐ zhùfú.",
+      "english": "I wish you well."
+    },
+    {
+      "chinese": "他为家乡而奋斗(他為家鄉而奮鬥)。",
+      "pinyin": "Tā wèi jiāxiāng ér fèndòu.",
+      "english": "He struggles for his hometown."
+    },
+    {
+      "chinese": "我们为和平努力(我們為和平努力)，期盼世界安定(期盼世界安定)。",
+      "pinyin": "Wǒmen wèi hépíng nǔlì, qīpàn shìjiè āndìng.",
+      "english": "We work hard for peace, hoping the world will be stable."
+    }
+  ]
+}

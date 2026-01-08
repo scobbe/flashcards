@@ -1,0 +1,44 @@
+{
+  "simplified": "麴",
+  "traditional": "麴",
+  "pinyin": "qū",
+  "english": "starter with brewer's yeast",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "麥(麥) (mài, \"wheat\") + 匊(匊) (jū, \"handful\") = wheat-related component with phonetic element -> refers to yeast starter",
+    "interpretation": "The character 麴(qū, \"starter with brewer's yeast\") combines 麥(麥) (mài, \"wheat\") as a semantic component, indicating its connection to grains, and 匊(匊) (jū, \"handful\") as a phonetic component, providing pronunciation. This reflects its use in brewing processes involving grains.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "麥",
+      "trad": "麥",
+      "pinyin": "mài",
+      "english": "wheat"
+    },
+    {
+      "char": "匊",
+      "trad": "匊",
+      "pinyin": "jū",
+      "english": "handful"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "传统酿酒师选用高质量的麴(傳統釀酒師選用高質量的麴)。",
+      "pinyin": "Chuántǒng niàngjiǔ shī xuǎn yòng gāo zhì liàng de qū.",
+      "english": "Traditional brewers select high-quality starter with brewer's yeast."
+    },
+    {
+      "chinese": "在制作清酒时(在製作清酒時)，他加入了麴(他加入了麴)。",
+      "pinyin": "Zài zhìzuò qīngjiǔ shí, tā jiārù le qū.",
+      "english": "When making sake, he added the starter with brewer's yeast."
+    },
+    {
+      "chinese": "发酵过程中(發酵過程中)，麴发挥了关键作用(麴發揮了關鍵作用)。",
+      "pinyin": "Fājiào guòchéng zhōng, qū fāhuī le guānjiàn zuòyòng.",
+      "english": "During the fermentation process, the starter played a key role."
+    }
+  ]
+}

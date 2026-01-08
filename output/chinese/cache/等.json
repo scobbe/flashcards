@@ -1,0 +1,39 @@
+{
+  "simplified": "等",
+  "traditional": "等",
+  "pinyin": "děng",
+  "english": "wait; await; rank; grade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, \"bamboo\") + 寺(寺) (sì, \"monastery\") = bamboo strips used for grading + phonetic value of 寺 -> wait, rank",
+    "interpretation": "The character 等(等) was used to represent concepts related to order and rank, using the analogy of bamboo strips that ancient officials and scholars employed for documentation and classification. The phonetic component 寺(寺) was adapted for its sound rather than meaning in this case.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "monastery"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在车站等你(我在車站等你)。",
+      "pinyin": "Wǒ zài chēzhàn děng nǐ.",
+      "english": "I am waiting for you at the station."
+    },
+    {
+      "chinese": "比赛结束后(比賽結束後)，他获得二等(他獲得二等)，并和队友分享喜悦(並和隊友分享喜悅)。",
+      "pinyin": "Bǐsài jiéshù hòu, tā huòdé èr děng, bìng hé duìyǒu fēnxiǎng xǐyuè.",
+      "english": "After the competition, he received a second-class prize and shared his joy with his teammates."
+    }
+  ]
+}

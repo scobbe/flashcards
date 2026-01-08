@@ -1,0 +1,45 @@
+{
+  "simplified": "谢谢你",
+  "traditional": "謝謝你",
+  "pinyin": "xièxie nǐ",
+  "english": "thank you",
+  "etymology": {
+    "type": "compound word",
+    "description": "謝(謝) (xiè, \"to thank\") + 謝(謝) (xiè, \"to thank\") + 你(你) (nǐ, \"you\")",
+    "interpretation": "The phrase 谢谢你(謝謝你) (xièxie nǐ, \"thank you\") is a polite expression of gratitude towards someone. It is a common way to acknowledge and appreciate assistance or kindness received from another person.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "谢",
+      "trad": "謝",
+      "pinyin": "xiè",
+      "english": "to thank; to apologize; to decline; to wither"
+    },
+    {
+      "char": "谢",
+      "trad": "謝",
+      "pinyin": "xiè",
+      "english": "to thank; to apologize; to decline; to wither"
+    },
+    {
+      "char": "你",
+      "trad": "你",
+      "pinyin": "nǐ",
+      "english": "you (informal)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "谢谢你(謝謝你)。",
+      "pinyin": "xièxie nǐ",
+      "english": "Thank you."
+    },
+    {
+      "chinese": "我很感激(我很感激)，谢谢你(謝謝你)。",
+      "pinyin": "wǒ hěn gǎnjī, xièxie nǐ",
+      "english": "I am very grateful, thank you."
+    }
+  ]
+}

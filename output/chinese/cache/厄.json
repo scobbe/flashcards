@@ -1,0 +1,44 @@
+{
+  "simplified": "厄",
+  "traditional": "厄",
+  "pinyin": "è",
+  "english": "difficulty",
+  "etymology": {
+    "type": "pictogram",
+    "description": "卩(卩) (jié, 'kneeling person') + small stroke (later 厂) to emphasize the knee -> depicts difficulty",
+    "interpretation": "Originally depicted a kneeling person, possibly indicating hardship or burden. The character evolved from emphasizing the knee to stress the act of kneeling, metaphorically representing difficulty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    },
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "factory"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正遭遇厄难(他正遭遇厄難)，并努力寻找转机(並努力尋找轉機)。",
+      "pinyin": "Tā zhèng zāoyù è nán, bìng nǔlì xúnzhǎo zhuǎnjī.",
+      "english": "He is facing dire difficulties and is striving to find a turning point."
+    },
+    {
+      "chinese": "困境中有厄时刻(困境中有厄時刻)，机遇也随之而来(機遇也隨之而來)。",
+      "pinyin": "Kùnjìng zhōng yǒu è shíkè, jīyù yě suízhī ér lái.",
+      "english": "In times of hardship, moments of difficulty arise, but opportunities follow suit."
+    },
+    {
+      "chinese": "生活难免遇到厄运(生活難免遇到厄運)，勇气能帮助我们度过难关(勇氣能幫助我們度過難關)。",
+      "pinyin": "Shēnghuó nánmiǎn yù dào è yùn, yǒngqì néng bāngzhù wǒmen dùguò nán guān.",
+      "english": "Life inevitably brings hardships, yet courage helps us overcome obstacles."
+    }
+  ]
+}

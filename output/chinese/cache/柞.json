@@ -5,8 +5,8 @@
   "english": "oak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + 乍(乍) (zhà, \"sudden\") = tree with phonetic 乍 representing sound -> oak",
-    "interpretation": "The character combines 木(木) (mù, \"tree\"), indicating it represents a type of tree, with 乍(乍) (zhà, \"sudden\") for its phonetic component, suggesting the pronunciation. Together, they refer to the oak tree.",
+    "description": "木(木) (mù, \"tree\") + 乍(乍) (zhà) = tree-related meaning with phonetic value -> refers to a type of oak tree",
+    "interpretation": "The character combines 木(木) (mù, \"tree\"), as trees are integral to the meaning, with the phonetic 乍(乍) (zhà), to indicate the pronunciation, representing a specific type of oak tree used for practical purposes such as silkworm cultivation and timber.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "乍",
       "trad": "乍",
       "pinyin": "zhà",
-      "english": "sudden"
+      "english": ""
     }
   ],
-  "in_contemporary_usage": true,
+  "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "森林中散布着茂密的柞树(森林中散佈著茂密的柞樹)。",
-      "pinyin": "Sēnlín zhōng sànbù zhe màomì de zhà shù。",
-      "english": "Dense oak trees are scattered throughout the forest."
+      "chinese": "他走过柞树林(他走過柞樹林)。",
+      "pinyin": "Tā zǒuguò zhà shùlín.",
+      "english": "He walked through the oak forest."
     },
     {
-      "chinese": "他用柞木制作家具(他用柞木製作傢俱)，彰显自然的魅力(彰顯自然的魅力)。",
-      "pinyin": "Tā yòng zhà mù zhìzuò jiājù, zhāngxiǎn zìrán de mèilì。",
-      "english": "He makes furniture from oak wood, showcasing nature's charm."
+      "chinese": "柞树的叶子浓绿(柞樹的葉子濃綠)，秋风起时显得更美(秋風起時顯得更美)。",
+      "pinyin": "Zhà shù de yèzi nónglǜ, qiū fēng qǐ shí xiǎndé gèng měi.",
+      "english": "The oak tree's leaves are lush green, and they appear even more beautiful when the autumn wind rises."
+    },
+    {
+      "chinese": "这片山坡上长满了柞树(這片山坡上長滿了柞樹)。",
+      "pinyin": "Zhè piàn shānpō shàng zhǎng mǎn le zhà shù.",
+      "english": "This hillside is full of oak trees."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "roots",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + phonetic: 亥(亥) (hài, a branch of the Earthly Branches) = plant-related term with phonetic hint",
-    "interpretation": "The 艹(艹) (cǎo, \"grass\") component signifies a connection to plants or vegetation, while 亥(亥) (hài) provides the phonetic guide. This combination expresses the concept of roots.",
+    "description": "艹 (艹) (cǎo, \"plant\") + 亥(亥) (hài) = indicates roots of plants -> meaning related to 'grass roots'",
+    "interpretation": "The character 荄 combines the plant radical 艹 (cǎo), indicating its relation to plants, with 亥 (hài), which serves as a phonetic element, to specify its meaning as 'roots'. This is mainly used in an archaic or literary context to refer to the roots of plants or grass.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,26 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "plant"
     },
     {
       "char": "亥",
       "trad": "亥",
       "pinyin": "hài",
-      "english": "Earthly Branches"
+      "english": "亥"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "老农在春雨后挖掘荄(老農在春雨後挖掘荄)，期待着新一季的丰收(期待著新一季的豐收)。",
-      "pinyin": "lǎo nóng zài chūn yǔ hòu wā jué hài, qí dài zhe xīn yī jì de fēng shōu.",
-      "english": "The old farmer dug out the roots after the spring rain, anticipating a bountiful harvest for the new season."
+      "chinese": "老树的荄深深扎入了大地(老樹的荄深深扎入了大地)。",
+      "pinyin": "lǎo shù de hài shēn shēn zhā rù le dà dì.",
+      "english": "The roots of the old tree are deeply embedded in the earth."
     },
     {
-      "chinese": "湿土中偶露荄(濕土中偶露荄)，暗示着土壤深处的秘密(暗示著土壤深處的秘密)。",
-      "pinyin": "shī tǔ zhōng ǒu lù hài, àn shì zhe tǔ rǎng shēn chù de mì mì.",
-      "english": "Amid the damp soil, the roots occasionally appeared, hinting at the secrets deep within the earth."
+      "chinese": "春雨滋润时(春雨滋潤時)，田里的荄开始萌动(田裡的荄開始萌動)。",
+      "pinyin": "chūn yǔ zī rùn shí, tián lǐ de hài kāi shǐ méng dòng.",
+      "english": "When the spring rain nourishes, the roots in the field begin to sprout."
     }
   ]
 }

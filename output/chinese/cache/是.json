@@ -2,11 +2,11 @@
   "simplified": "是",
   "traditional": "是",
   "pinyin": "shì",
-  "english": "be; yes; correct; right",
+  "english": "is",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 疋(疋) (pǐ, \"foot\") -> semantic 日 (rì, \"sun\") meaning brightness + phonetic 疋 (pǐ, \"foot\") for sound -> correctness, truth",
-    "interpretation": "The character combines the semantic component 日(日) (rì, \"sun\") suggesting brightness or clarity, with the phonetic 疋(疋) (pǐ, \"foot\"). This represents the idea of being upright or truthful, like the sun, hence 'correct' or 'to be.'",
+    "type": "pictogram",
+    "description": "日(日) (rì, \"sun\") above a foot-like component 止(止) (zhǐ, \"foot\") -> originally a demonstrative pronoun \"this\" -> evolved to mean \"correct, right\" -> further evolved to the copula \"to be\"",
+    "interpretation": "The character began as a pictogram of 日(日) and 止(止), indicating a demonstrative meaning \"this,\" which then evolved into meanings related to correctness and being, partly due to emphatic usage.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,28 @@
       "english": "sun"
     },
     {
-      "char": "疋",
-      "trad": "疋",
-      "pinyin": "pǐ",
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
       "english": "foot"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是工程师(他是工程師)。",
-      "pinyin": "Tā shì gōngchéngshī.",
-      "english": "He is an engineer."
+      "chinese": "他是老师(他是老師)。",
+      "pinyin": "Tā shì lǎoshī.",
+      "english": "He is a teacher."
     },
     {
-      "chinese": "这个果实是甜的(這個果實是甜的)，那个果实是酸的(那個果實是酸的)。",
-      "pinyin": "Zhège guǒshí shì tián de, nàgè guǒshí shì suān de.",
-      "english": "This fruit is sweet, that fruit is sour."
+      "chinese": "这本书是我的(這本書是我的)，非常珍贵(非常珍貴)。",
+      "pinyin": "Zhè běn shū shì wǒ de, fēicháng zhēnguì.",
+      "english": "This book is mine, it is extremely precious."
+    },
+    {
+      "chinese": "学校是知识的源泉(學校是知識的源泉)。",
+      "pinyin": "Xuéxiào shì zhīshi de yuánquán.",
+      "english": "School is the source of knowledge."
     }
   ]
 }

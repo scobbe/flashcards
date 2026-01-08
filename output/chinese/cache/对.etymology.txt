@@ -1,0 +1,6 @@
+[对]
+Variant of 對 .
+
+[對]
+In the oracle bone and bronze scripts, it was an ideogrammic compound ( 會意 / 会意 ): 丵 ( “ tool for digging ” ) + 土 ( “ earth ” ) + 又 ( “ hand ” ) . The original meaning of the character is unclear, but it may be “to develop (land)”. It was later borrowed for “to reply”. Compare 封 , 邦 .
+In the seal script, 又 has become the related 寸 . Shuowen has two seal script forms for this character: 𡭊 (main form) and 對 (alternative form). The main form, which has a 口 (“mouth”), was probably created to specialize the character to signify “to reply”, but this form was not inherited in later scripts. Shuowen interprets the latter form (shown above) as a form that Emperor Wen of Han created by replacing 口 with 士 (“soldier; warrior”) because many of the replies were untruthful (just lip service ), but it is more likely that 士 is a corruption of 土 .

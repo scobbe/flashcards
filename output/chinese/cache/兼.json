@@ -1,0 +1,56 @@
+{
+  "simplified": "兼",
+  "traditional": "兼",
+  "pinyin": "jiān",
+  "english": "hold together, combine",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "手(手) (shǒu, \"hand\") stylized as 又(又) (yòu, \"again\") holding two 禾(禾) (hé, \"grain stalks\") -> combines multiple things",
+    "interpretation": "The character 兼(兼) (jiān, \"hold together, combine\") visually represents a hand holding two grain stalks, symbolizing the action of combining or holding multiple items together. This contrasts with 秉(秉) (bǐng, \"handle\"), which shows a hand holding a single plant, further emphasizing multiplicity in 兼(兼).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    },
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain stalks"
+    },
+    {
+      "char": "秉",
+      "trad": "秉",
+      "pinyin": "bǐng",
+      "english": "handle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他身兼数职(他身兼數職)。",
+      "pinyin": "Tā shēn jiān shù zhí.",
+      "english": "He holds multiple positions."
+    },
+    {
+      "chinese": "他在公司担任经理(他在公司擔任經理)，兼顾市场营销(兼顧市場營銷)。",
+      "pinyin": "Tā zài gōngsī dānrèn jīnglǐ, jiān gù shìchǎng yíngxiāo.",
+      "english": "He works as a manager at the company, simultaneously overseeing marketing."
+    },
+    {
+      "chinese": "学校组织座谈会(學校組織座談會)，兼收师生意见(兼收師生意見)。",
+      "pinyin": "Xuéxiào zǔzhī zuòtán huì, jiān shōu shīshēng yìjiàn.",
+      "english": "The school organizes symposiums and also collects the opinions of teachers and students."
+    }
+  ]
+}

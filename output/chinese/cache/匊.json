@@ -1,0 +1,57 @@
+{
+  "simplified": "匊",
+  "traditional": "匊",
+  "pinyin": "jū",
+  "english": "rice in a house",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "⿰革(革) (gé, \"leather\") + 勹(勹) (bāo, \"wrap\") + 米(米) (mǐ, \"rice\") = earlier form of 鞠(鞠) (jū, \"brew\") -> derived from 麴(麴) (qū, \"starter\")",
+    "interpretation": "The character 匊(jū, \"rice in a house\") is a phono-semantic compound clipped from 鞠(鞠), where the semantic 米(米) conveys the idea of rice, and phonetic components relate it to brewing and fermentation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "革",
+      "trad": "革",
+      "pinyin": "gé",
+      "english": "leather"
+    },
+    {
+      "char": "勹",
+      "trad": "勹",
+      "pinyin": "bāo",
+      "english": "wrap"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "鞠",
+      "trad": "鞠",
+      "pinyin": "jū",
+      "english": "brew"
+    },
+    {
+      "char": "麴",
+      "trad": "麴",
+      "pinyin": "qū",
+      "english": "starter"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "老祖先把米存於匊(老祖先把米存於匊)。",
+      "pinyin": "Lǎo zǔxiān bǎ mǐ cún yú jū.",
+      "english": "The ancestors stored rice in the vessel."
+    },
+    {
+      "chinese": "丰收时节人们将新米安放于匊(豐收時節人們將新米安放於匊)，象征着家宅兴旺(象徵著家宅興旺)。",
+      "pinyin": "Fēngshōu shíjié rénmen jiāng xīnmǐ ānfàng yú jū, xiàngzhēng zhe jiāzhái xīngwàng.",
+      "english": "During the harvest season, people placed the new rice in the vessel, symbolizing the prosperity of the household."
+    }
+  ]
+}

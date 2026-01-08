@@ -1,0 +1,44 @@
+{
+  "simplified": "谢",
+  "traditional": "謝",
+  "pinyin": "xiè",
+  "english": "thank; apologize; wither",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"word; speech\") + 射(射) (shè, \"shoot\") = expression of words -> thank; apologize",
+    "interpretation": "The character 谢(謝) (xiè, \"thank; apologize\") combines 言(言) (yán, \"word; speech\") to represent communication and 射(射) (shè, \"shoot\") for its phonetic properties. This suggests the use of speech in a directed, intentional way to convey gratitude or apology.",
+    "simplification": "Simplification involved replacing 言(言) (yán, \"word; speech\") with the simpler 讠(讠) (yán, \"word; speech\") radical for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word; speech"
+    },
+    {
+      "char": "射",
+      "trad": "射",
+      "pinyin": "shè",
+      "english": "shoot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "谢谢你的帮助(謝謝你的幫助)。",
+      "pinyin": "Xièxiè nǐ de bāngzhù.",
+      "english": "Thank you for your help."
+    },
+    {
+      "chinese": "我必须道谢(我必須道謝)，并向你道歉(並向你道歉)。",
+      "pinyin": "Wǒ bìxū dào xiè, bìng xiàng nǐ dào qiàn.",
+      "english": "I must thank you and apologize to you."
+    },
+    {
+      "chinese": "秋风起时(秋風起時)，花谢了(花謝了)。",
+      "pinyin": "Qiūfēng qǐ shí, huā xièle.",
+      "english": "When the autumn wind rises, the flowers wither."
+    }
+  ]
+}

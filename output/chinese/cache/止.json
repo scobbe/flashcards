@@ -2,11 +2,11 @@
   "simplified": "止",
   "traditional": "止",
   "pinyin": "zhǐ",
-  "english": "stop",
+  "english": "foot",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing upward -> originally meant 'foot'; stylized as 龰('stop') -> original meaning remains in derivative 趾(趾) (zhǐ, 'toe')",
-    "interpretation": "The character originated as a footprint pointing up, capturing the action of stopping or standing with one's foot, visually depicting the meaning of 'stop' or 'halt'. It evolved from representing a foot into symbolizing the act of stopping.",
+    "description": "Original: Foot pointing up with 3 toes and a sole -> Stylized as 龰 -> Derivative 趾 refers to original 'foot' meaning",
+    "interpretation": "Originally depicting a footprint with toes and a sole, 止(止) (zhǐ, \"foot\") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.",
     "simplification": ""
   },
   "parts": [
@@ -14,25 +14,32 @@
       "char": "趾",
       "trad": "趾",
       "pinyin": "zhǐ",
-      "english": "toe"
+      "english": "foot"
+    },
+    {
+      "char": "龰",
+      "trad": "龰",
+      "pinyin": "yù",
+      "english": "stylized feet"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请止步(請止步)。",
-      "pinyin": "Qǐng zhǐ bù.",
-      "english": "Please stop."
+      "chinese": "他受伤的止需要静养(他受傷的止需要靜養)。",
+      "pinyin": "Tā shòu shāng de zhǐ xū yào jìng yǎng.",
+      "english": "His injured foot needs adequate rest."
     },
     {
-      "chinese": "红灯亮起时(紅燈亮起時)，车辆须止驶(車輛須止駛)。",
-      "pinyin": "Hóng dēng liàng qǐ shí, chēliàng xū zhǐ shǐ.",
-      "english": "When the red light turns on, vehicles must stop."
-    },
-    {
-      "chinese": "他的话语终将止于空谈(他的話語終將止於空談)。",
-      "pinyin": "Tā de huàyǔ zhōng jiāng zhǐ yú kōng tán.",
-      "english": "His words will eventually come to a stop in empty talk."
+      "chinese": "他走路时小心谨慎(他走路時小心謹慎)，因为止若受伤便难前行(因爲止若受傷便難前行)。",
+      "pinyin": "Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.",
+      "english": "He walks carefully because if his foot gets injured, it becomes difficult to move forward."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "死",
+  "traditional": "死",
+  "pinyin": "sǐ",
+  "english": "to die",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "歹(歹) (dǎi, \"carcass\") + 人(人) (rén, \"person\") = person with remains -> death",
+    "interpretation": "The character 死(sǐ, \"to die\") combines 歹(歹) (dǎi, \"carcass\") indicating death with 人(人) (rén, \"person\") to symbolize a deceased person, highlighting its association with human mortality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歹",
+      "trad": "歹",
+      "pinyin": "dǎi",
+      "english": "carcass"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的决心大到不怕死(他的決心大到不怕死)。",
+      "pinyin": "Tā de juéxīn dà dào bù pà sǐ.",
+      "english": "His determination is so strong that he is not afraid to die."
+    },
+    {
+      "chinese": "战场上(戰場上)，他见到许多勇士倒下死去(他見到許多勇士倒下死去)。",
+      "pinyin": "Zhànchǎng shàng, tā jiàndào xǔduō yǒngshì dǎoxià sǐqù.",
+      "english": "On the battlefield, he saw many brave warriors fall and die."
+    },
+    {
+      "chinese": "传说中(傳說中)，英雄死后获得永生(英雄死後獲得永生)。",
+      "pinyin": "Chuánshuō zhōng, yīngxióng sǐhòu huòdé yǒngshēng.",
+      "english": "According to legend, heroes gain eternal life after death."
+    }
+  ]
+}

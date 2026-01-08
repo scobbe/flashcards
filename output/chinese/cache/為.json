@@ -1,0 +1,50 @@
+{
+  "simplified": "為",
+  "traditional": "為",
+  "pinyin": "wéi",
+  "english": "for; because of",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 象(象) (xiàng, \"elephant\") -> hand holding an elephant -> 又 evolved to 爪(爪) (zhǎo, \"claw\") -> modern form 為",
+    "interpretation": "The character 為 depicts a hand holding or interacting with an elephant. The evolution of the components and interpretations emphasizes the idea of action or involvement, which aligns with its meaning 'for' or 'because of.'",
+    "simplification": "Simplified from 爲 by standardizing the components, where 爪 (zhǎo, \"claw\") replaced 又 (yòu, \"hand\") for consistency."
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "象",
+      "trad": "象",
+      "pinyin": "xiàng",
+      "english": "elephant"
+    },
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我為夢想奮鬥(我為夢想奮鬥)。",
+      "pinyin": "Wǒ wéi mèngxiǎng fèndòu.",
+      "english": "I strive for my dreams."
+    },
+    {
+      "chinese": "她為家人準備晚餐(她為家人準備晚餐)。",
+      "pinyin": "Tā wéi jiārén zhǔnbèi wǎncān.",
+      "english": "She prepares dinner for her family."
+    },
+    {
+      "chinese": "我們相聚在此(我們相聚在此)，為慶祝成功(為慶祝成功)。",
+      "pinyin": "Wǒmen xiāngjù zài cǐ, wéi qìngzhù chénggōng.",
+      "english": "We gather here for the celebration of success."
+    }
+  ]
+}

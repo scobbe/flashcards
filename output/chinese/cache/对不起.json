@@ -1,0 +1,50 @@
+{
+  "simplified": "对不起",
+  "traditional": "對不起",
+  "pinyin": "duìbuqǐ",
+  "english": "sorry",
+  "etymology": {
+    "type": "compound word",
+    "description": "对(對) (duì, \"correct; facing\") + 不(不) (bù, \"not\") + 起(起) (qǐ, \"rise; begin\") = not able to face -> sorry",
+    "interpretation": "In this expression, 对(對) (duì, \"correct; facing\") suggests the idea of rightness or being accountable. When combined with 不(不) (bù, \"not\") and 起(起) (qǐ, \"rise; begin\"), it conveys a sense of being unable to face or stand up to a mistake, thus expressing remorse or apology.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "对",
+      "trad": "對",
+      "pinyin": "duì",
+      "english": "correct; facing; towards"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; begin; start"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我迟到了(我遲到了)，对不起(對不起)。",
+      "pinyin": "Wǒ chídào le, duìbuqǐ.",
+      "english": "I am late, sorry."
+    },
+    {
+      "chinese": "对不起(對不起)，请问您能再说一遍吗(請問您能再說一遍嗎)。",
+      "pinyin": "Duìbuqǐ, qǐngwèn nín néng zài shuō yī biàn ma.",
+      "english": "Sorry, may I ask you to repeat that?"
+    },
+    {
+      "chinese": "妈妈误会了我(媽媽誤會了我)，对不起(對不起)。",
+      "pinyin": "Māma wùhuì le wǒ, duìbuqǐ.",
+      "english": "Mama misunderstood me, sorry."
+    }
+  ]
+}

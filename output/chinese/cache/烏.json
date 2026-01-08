@@ -1,0 +1,38 @@
+{
+  "simplified": "烏",
+  "traditional": "烏",
+  "pinyin": "wū",
+  "english": "crow; black",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized bird with a specific focus on its associated color (black) -> similar to 鳥(鳥) (niǎo, \"bird\") but simplified",
+    "interpretation": "The character 烏(烏) (wū, \"crow; black\") represents a bird, specifically associated with the black color, such as a crow, which is commonly black. It is visually similar to 鳥(鳥) (niǎo, \"bird\") but is generally more simplified, focusing on the key elements that associate it with the idea of black feathers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那只烏在黑夜中飞翔(那隻烏在黑夜中飛翔)。",
+      "pinyin": "Nà zhī wū zài hēiyè zhōng fēixiáng.",
+      "english": "That crow soars in the dark night."
+    },
+    {
+      "chinese": "村民遇见一只烏(村民遇見一隻烏)，眺望远方(眺望遠方)。",
+      "pinyin": "Cūnmín yùjiàn yī zhī wū, tiàowàng yuǎnfāng.",
+      "english": "Villagers encountered a crow and gazed into the distance."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，烏在屋顶上守望(烏在屋頂上守望)。",
+      "pinyin": "Yèmù jiànglín shí, wū zài wūdǐng shàng shǒuwàng.",
+      "english": "When night falls, the crow watches from the rooftop."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "快点",
+  "traditional": "快點",
+  "pinyin": "kuài diǎn",
+  "english": "hurry up",
+  "etymology": {
+    "type": "compound word",
+    "description": "快(快) (kuài, \"fast\") + 点(點) (diǎn, \"a little bit\") = do something faster -> hurry up",
+    "interpretation": "The word 快点(快點) (kuài diǎn, \"hurry up\") is a directive to prompt someone to increase their speed or efficiency in doing something. This makes sense as 快(快) signifies speed, while 点(點) is used to suggest smallness or succinctness, indicating to perform the action quicker or without delay.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "快",
+      "trad": "快",
+      "pinyin": "kuài",
+      "english": "fast; rapid"
+    },
+    {
+      "char": "点",
+      "trad": "點",
+      "pinyin": "diǎn",
+      "english": "a little bit; point; dot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请快点过来(請快點過來)。",
+      "pinyin": "qǐng kuài diǎn guòlái.",
+      "english": "Please come quickly."
+    },
+    {
+      "chinese": "你快点出门(你快點出門)，公交车就要来了(公交車就要來了)。",
+      "pinyin": "nǐ kuài diǎn chūmén, gōngjiāo chē jiù yào láile.",
+      "english": "Hurry up and leave, the bus is about to arrive."
+    },
+    {
+      "chinese": "大家请快点收拾(大家請快點收拾)，准备迎接挑战(準備迎接挑戰)。",
+      "pinyin": "dàjiā qǐng kuài diǎn shōushí, zhǔnbèi yíngjiē tiǎozhàn.",
+      "english": "Everyone, hurry up and tidy up, and get ready to face the challenge."
+    }
+  ]
+}

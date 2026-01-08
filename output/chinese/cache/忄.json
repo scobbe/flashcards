@@ -1,0 +1,33 @@
+{
+  "simplified": "忄",
+  "traditional": "忄",
+  "pinyin": "xīn",
+  "english": "heart",
+  "etymology": {
+    "type": "variant of a pictogram",
+    "description": "忄 is a variant of 心(心) (xīn, \"heart\") used as a left radical in compounds → functions as 'heart' when combining with other elements.",
+    "interpretation": "忄 is a simplified form used primarily as a radical, preserving the meaning of 'heart' from 心(心) in compound characters. Its simplified form allows it to merge seamlessly as a semantic element in character formation, indicating emotions or mental activities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "看字时(看字時)，忄常与情感有关(忄常與情感有關)。",
+      "pinyin": "Kàn zì shí, xīn cháng yǔ qínggǎn yǒuguān.",
+      "english": "When examining characters, the radical 忄 is often associated with emotions."
+    },
+    {
+      "chinese": "书法中(書法中)，忄被用于表达心意(忄被用於表達心意)。",
+      "pinyin": "Shūfǎ zhōng, xīn bèi yòng yú biǎodá xīnyì.",
+      "english": "In calligraphy, the radical 忄 is used to express one’s inner feelings."
+    }
+  ]
+}

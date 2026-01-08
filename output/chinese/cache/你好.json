@@ -1,0 +1,44 @@
+{
+  "simplified": "你好",
+  "traditional": "你好",
+  "pinyin": "nǐ hǎo",
+  "english": "hello",
+  "etymology": {
+    "type": "compound word",
+    "description": "你(你) (nǐ, \"you\") + 好(好) (hǎo, \"good\") = direct address greeting literally meaning 'you good' -> hello",
+    "interpretation": "你好(你好) (nǐhǎo, \"hello\") is a common greeting in Mandarin Chinese, directly addressing a person with a wish for well-being. It reflects the importance of politeness and friendliness in Chinese social interactions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "你",
+      "trad": "你",
+      "pinyin": "nǐ",
+      "english": "you"
+    },
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; well; fine; nice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你好(你好)。",
+      "pinyin": "nǐ hǎo.",
+      "english": "Hello."
+    },
+    {
+      "chinese": "当你见到朋友时(當你見到朋友時)，记得先说你好(記得先說你好)。",
+      "pinyin": "dāng nǐ jiàn dào péngyǒu shí, jìdé xiān shuō nǐ hǎo.",
+      "english": "When you meet a friend, remember to say hello."
+    },
+    {
+      "chinese": "老师见到学生时(老師見到學生時)，总是微笑着说你好(總是微笑著說你好)。",
+      "pinyin": "lǎoshī jiàn dào xuéshēng shí, zǒng shì wēixiào zhe shuō nǐ hǎo.",
+      "english": "When the teacher sees the students, he always greets them with hello."
+    }
+  ]
+}

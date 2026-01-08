@@ -1,0 +1,50 @@
+{
+  "simplified": "喂",
+  "traditional": "餵",
+  "pinyin": "wèi",
+  "english": "hello (on the phone)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 畏(畏) (wèi, \"fear\") = sound component with association to actions involving the mouth -> 饋(餵) (wèi, \"feed\") meaning -> 喂(餵) (wèi, \"hello\") for calling or getting attention",
+    "interpretation": "The character 喂(餵) (wèi, \"hello\") utilizes 口(口) (kǒu, \"mouth\") for its semantic value, indicating speech or vocalization. 畏(畏) (wèi, \"fear\") provides the phonetic element, linking the sound to the action of speaking or calling. This evolved in contemporary usage to mean \"hello\" when answering the phone, emphasizing the act of vocal communication.",
+    "simplification": "The simplified form 喂 retains the component 畏, but replaces 食(食) (shí, \"food\") with 口(口) (kǒu, \"mouth\") to indicate an action related to speaking, making it easier to write."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "畏",
+      "trad": "畏",
+      "pinyin": "wèi",
+      "english": "fear"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "喂(喂)！",
+      "pinyin": "Wèi!",
+      "english": "Hello! (used when answering the phone)"
+    },
+    {
+      "chinese": "喂(喂)，请问你是谁(請問你是誰)？",
+      "pinyin": "Wèi, qǐngwèn nǐ shì shuí?",
+      "english": "Hello, may I ask who you are?"
+    },
+    {
+      "chinese": "喂(喂)，打错电话了吗(打錯電話了嗎)？",
+      "pinyin": "Wèi, dǎ cuò diànhuà le ma?",
+      "english": "Hello, did I dial the wrong number?"
+    }
+  ]
+}

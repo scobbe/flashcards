@@ -1,0 +1,31 @@
+{
+  "simplified": "身",
+  "traditional": "身",
+  "pinyin": "shēn",
+  "english": "body",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pregnant woman -> body",
+    "interpretation": "The character 身(身) (shēn, \"body\") visually represents a pregnant woman, symbolizing the human body. It is a straightforward depiction that emphasizes the physical aspect of the human form. A related character, 㐆, represents a reversed version of 身(身), though they are separate in meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他身轻如燕(他身輕如燕)。",
+      "pinyin": "Tā shēn qīng rú yàn.",
+      "english": "He is as light as a swallow."
+    },
+    {
+      "chinese": "他每天跑步以强身健体(他每天跑步以強身健體)，充满活力地迎接每一天(充滿活力地迎接每一天)。",
+      "pinyin": "Tā měitiān pǎobù yǐ qiáng shēn jiàn tǐ, chōng mǎn huólì de yíngjiē měi yītiān.",
+      "english": "He runs every day to strengthen his body, and welcomes each day full of vitality."
+    },
+    {
+      "chinese": "身在福中不知福(身在福中不知福)。",
+      "pinyin": "Shēn zài fú zhōng bù zhī fú.",
+      "english": "One does not appreciate the blessing of being in good fortune."
+    }
+  ]
+}

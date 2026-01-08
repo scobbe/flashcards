@@ -1,0 +1,39 @@
+{
+  "simplified": "好了",
+  "traditional": "好了",
+  "pinyin": "hǎo le",
+  "english": "alright then; okay",
+  "etymology": {
+    "type": "compound word",
+    "description": "好(好) (hǎo, \"good\") + 了(了) (le, \"particle indicating change or completion\") combines to mean 'alright then' or 'okay' indicating agreement or the completion of an action or change in state.",
+    "interpretation": "In this expression, 好(好) (hǎo, \"good\") expresses a positive or satisfactory state, while 了(了) (le, \"particle indicating change or completion\") signifies that something has changed or been completed. Together, it conveys a sense of readiness or agreement, akin to saying 'alright then' in English.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; well; fine; okay"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating change or completion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们准备好了吗(我們準備好了嗎)，好了(好了)。",
+      "pinyin": "Wǒmen zhǔnbèi hǎo le ma, hǎo le.",
+      "english": "Are we ready? Alright then."
+    },
+    {
+      "chinese": "天色已晚(天色已晚)，好了(好了)。",
+      "pinyin": "Tiānsè yǐ wǎn, hǎo le.",
+      "english": "It's getting dark, okay then."
+    }
+  ]
+}

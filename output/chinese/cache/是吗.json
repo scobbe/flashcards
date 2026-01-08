@@ -1,0 +1,44 @@
+{
+  "simplified": "是吗",
+  "traditional": "是嗎",
+  "pinyin": "shì ma",
+  "english": "really?; is that so?",
+  "etymology": {
+    "type": "compound word",
+    "description": "是(是) (shì, \"is; are; to be\") and 吗(嗎) (ma, \"a question particle\") combine to form this expression which is used to confirm or express doubt about a statement.",
+    "interpretation": "The phrase 是吗(是嗎) (shì ma) is commonly used in conversation to seek confirmation or express skepticism towards a statement. 是(是) (shì, \"is; are; to be\") conveys the idea of existence or affirmation, while 吗(嗎) (ma, \"a question particle\") turns it into a yes-no question, asking for verification.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "is; are; to be"
+    },
+    {
+      "char": "吗",
+      "trad": "嗎",
+      "pinyin": "ma",
+      "english": "a question particle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "是吗(是嗎)？",
+      "pinyin": "shì ma?",
+      "english": "Really?"
+    },
+    {
+      "chinese": "听说他们明天要结婚(聽說他們明天要結婚)，是吗(是嗎)？",
+      "pinyin": "tīngshuō tāmen míngtiān yào jiéhūn, shì ma?",
+      "english": "I heard they're getting married tomorrow, really?"
+    },
+    {
+      "chinese": "他买了那幅名画(他買了那幅名畫)，是吗(是嗎)？",
+      "pinyin": "tā mǎile nà fú mínghuà, shì ma?",
+      "english": "He bought that famous painting, is that so?"
+    }
+  ]
+}

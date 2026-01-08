@@ -5,40 +5,35 @@
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "从(从) (cóng, 'from') + 易(易) (yì, 'easy') = composed of these elements for phonetic purposes -> phonetic component",
-    "interpretation": "The character 㚇 (zōng) is primarily used as a phonetic component, combining 从(从) (cóng, 'from') and 易(易) (yì, 'easy') to achieve the desired sound. This character does not convey a clear standalone meaning and is not in common usage.",
+    "description": "夕(xī, \"evening\") + 卩(jié, \"kneeling person\") = related to evening activities or ceremonies",
+    "interpretation": "The character combines 夕(xī, \"evening\"), depicting the time of day, with 卩(jié, \"kneeling person\"), possibly indicating a person engaged in a significant action or ceremony during the evening.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "从",
-      "trad": "從",
-      "pinyin": "cóng",
-      "english": "from"
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "evening"
     },
     {
-      "char": "易",
-      "trad": "易",
-      "pinyin": "yì",
-      "english": "easy"
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "㚇是汉字中的声旁(㚇是漢字中的聲旁)。",
-      "pinyin": "zōng shì hànzì zhōng de shēngpáng.",
-      "english": "㚇 is the phonetic component in Chinese characters."
+      "chinese": "在造字过程中(在造字過程中)，㚇担负着声旁的作用(㚇擔負著聲旁的作用)。",
+      "pinyin": "Zài zàozì guòchéng zhōng, zōng dānfù zhe shēngpáng de zuòyòng.",
+      "english": "In the process of character formation, 㚇 plays the role of the phonetic component."
     },
     {
-      "chinese": "学字时注意声旁(學字時注意聲旁)，㚇有助于记忆(㚇有助於記憶)。",
-      "pinyin": "xuézì shí zhùyì shēngpáng, zōng yǒuzhù yú jìyì.",
-      "english": "When learning characters, paying attention to phonetic components like 㚇 helps memorization."
-    },
-    {
-      "chinese": "古籍记载(古籍記載)，㚇曾用以表音(㚇曾用以表音)。",
-      "pinyin": "gǔjí jìzǎi, zōng céng yòng yǐ biǎoyīn.",
-      "english": "Ancient texts record that 㚇 was once used for phonetic representation."
+      "chinese": "古代文献中(古代文獻中)，学者探讨了㚇的演变(學者探討了㚇的演變)。",
+      "pinyin": "Gǔdài wénxiàn zhōng, xuézhě tànjiù le zōng de yǎnbiàn.",
+      "english": "In ancient texts, scholars discussed the evolution of 㚇."
     }
   ]
 }

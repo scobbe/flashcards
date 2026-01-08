@@ -1,0 +1,39 @@
+{
+  "simplified": "哦",
+  "traditional": "哦",
+  "pinyin": "ó",
+  "english": "oh",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic: 我(我) (wǒ, \"I\") = related to speech + phonetic element ó",
+    "interpretation": "The character 哦(哦) (ó, \"oh\") combines the semantic component 口(口) (kǒu, \"mouth\") indicating relation to speech or sound, with the phonetic component 我(我) (wǒ, \"I\"), which suggests its pronunciation. This aligns with its use as an exclamation in spoken language.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "我",
+      "trad": "我",
+      "pinyin": "wǒ",
+      "english": "I"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "哦(哦)，我明白了(我明白了)。",
+      "pinyin": "Ó, wǒ míngbái le.",
+      "english": "Oh, I understand."
+    },
+    {
+      "chinese": "你错过车了(你錯過車了)，哦(哦)，请尽快赶去接人(請盡快趕去接人)。",
+      "pinyin": "Nǐ cuòguò chē le, ó, qǐng jǐnkuài gǎn qù jiē rén.",
+      "english": "You missed the bus, oh, please go pick someone up quickly."
+    }
+  ]
+}

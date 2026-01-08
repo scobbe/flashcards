@@ -1,0 +1,44 @@
+{
+  "simplified": "不要",
+  "traditional": "不要",
+  "pinyin": "bú yào",
+  "english": "don't; don't want",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 要(要) (yào, \"want\") = expressing negation or a command to refrain from wanting or doing something.",
+    "interpretation": "The word 不要(不要) (bú yào, \"don't; don't want\") combines 不(不) (bù, \"not\") with 要(要) (yào, \"want\") to express a prohibition or a lack of desire for something. It is commonly used in giving commands or expressing that something is not needed or not wanted.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no"
+    },
+    {
+      "char": "要",
+      "trad": "要",
+      "pinyin": "yào",
+      "english": "want; need; will; important"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "不要浪费时间(不要浪費時間)。",
+      "pinyin": "bú yào làng fèi shí jiān.",
+      "english": "Don't waste time."
+    },
+    {
+      "chinese": "我不要再说谎(我不要再說謊)，因为诚实才是最重要的(因為誠實才是最重要的)。",
+      "pinyin": "wǒ bú yào zài shuō huǎng, yīn wèi chéng shí cái shì zuì zhòng yào.",
+      "english": "I don't want to lie anymore, because honesty is the most important."
+    },
+    {
+      "chinese": "如果你说不要(如果你說不要)，就说明你已有主见(就說明你已有主見)。",
+      "pinyin": "rú guǒ nǐ shuō bú yào, jiù shuō míng nǐ yǐ yǒu zhǔ jiàn.",
+      "english": "If you say 'no', it shows that you already have your own opinions."
+    }
+  ]
+}

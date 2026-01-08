@@ -2,30 +2,38 @@
   "simplified": "之",
   "traditional": "之",
   "pinyin": "zhī",
-  "english": "go/arrive",
+  "english": "of; possessive particle",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a foot walking along a path, indicating movement or the act of going towards a destination.",
-    "interpretation": "The character 之(之) (zhī, 'go/arrive') is a simple pictographic representation suggesting movement. The depiction of movement aligns with its contemporary meaning, which involves going or arriving.",
+    "type": "Ideogrammic compound",
+    "description": "止(止) (zhǐ, \"foot\") + 一(一) (yī, \"the beginning place\") = to go -> footprint -> evolved to a point above -> final form 之",
+    "interpretation": "Originally depicting a foot at the start of movement, the character evolved into a possessive marker, possibly due to conceptual association with movement or direction.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "the beginning place"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "船行于急流(船行於急流)，终之彼岸(終之彼岸)。",
-      "pinyin": "Chuán xíng yú jíliú, zhōng zhī bǐ'àn.",
-      "english": "The boat sails through the rushing current, eventually arriving at the other shore."
+      "chinese": "知识之光照亮心灵(知識之光照亮心靈)。",
+      "pinyin": "Zhīshì zhī guāng zhào liàng xīn líng.",
+      "english": "The light of knowledge illuminates the heart."
     },
     {
-      "chinese": "春风拂面(春風拂面)，使君之归(使君之歸)。",
-      "pinyin": "Chūnfēng fú miàn, shǐ jūn zhī guī.",
-      "english": "The spring breeze caresses the face, as the dignitary returns home."
-    },
-    {
-      "chinese": "鸿雁展翅(鴻雁展翅)，日暮之临(日暮之臨)。",
-      "pinyin": "Hóngyàn zhǎn chì, rìmù zhī lín.",
-      "english": "The wild geese spread their wings, as dusk arrives."
+      "chinese": "理想之翼助人飞翔(理想之翼助人飛翔)，努力之心成就未来(努力之心成就未來)。",
+      "pinyin": "Lǐxiǎng zhī yì zhù rén fēi xiáng, Nǔlì zhī xīn chéngjiù wèilái.",
+      "english": "The wings of ideals help people to soar, and the heart of effort accomplishes the future."
     }
   ]
 }

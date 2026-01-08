@@ -1,0 +1,44 @@
+{
+  "simplified": "嘿",
+  "traditional": "嘿",
+  "pinyin": "hēi",
+  "english": "hey",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 黑(黑) (hēi, \"black\") as phonetic = sound for making interjection -> used for \"hey\"",
+    "interpretation": "The character 嘿(hēi) is constructed using 口(口) (kǒu, \"mouth\") to indicate an oral sound, combined with 黑(黑) (hēi, \"black\") for its phonetic contribution. This combination reflects the use of the character as an exclamatory sound, akin to \"hey\" in English.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "黑",
+      "trad": "黑",
+      "pinyin": "hēi",
+      "english": "black"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "嘿(嘿)。",
+      "pinyin": "hēi.",
+      "english": "Hey."
+    },
+    {
+      "chinese": "嘿(嘿)，过来看看(過來看看)。",
+      "pinyin": "hēi, guòlái kànkan.",
+      "english": "Hey, come over and take a look."
+    },
+    {
+      "chinese": "嘿(嘿)，你快来看(你快來看)。",
+      "pinyin": "hēi, nǐ kuài lái kàn.",
+      "english": "Hey, come here quickly and see."
+    }
+  ]
+}

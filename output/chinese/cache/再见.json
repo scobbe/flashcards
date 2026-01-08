@@ -1,0 +1,44 @@
+{
+  "simplified": "再见",
+  "traditional": "再見",
+  "pinyin": "zàijiàn",
+  "english": "goodbye",
+  "etymology": {
+    "type": "compound word",
+    "description": "再(再) (zài, \"again\") + 见(見) (jiàn, \"see\") = indicating seeing each other again -> goodbye",
+    "interpretation": "The phrase 再见(再見) (zàijiàn, \"goodbye\") literally means 'see [you] again,' implying a future meeting. This aligns with the sentiment of partings, where there is a hope or expectation of reuniting in the future.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "再",
+      "trad": "再",
+      "pinyin": "zài",
+      "english": "again; once more"
+    },
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see; meet; appear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我要回家了(我要回家了)，再见(再見)。",
+      "pinyin": "Wǒ yào huí jiā le, zàijiàn.",
+      "english": "I'm going home, goodbye."
+    },
+    {
+      "chinese": "朋友们快走吧(朋友們快走吧)，再见(再見)。",
+      "pinyin": "Péngyǒu men kuài zǒu ba, zàijiàn.",
+      "english": "Friends, hurry up and leave, goodbye."
+    },
+    {
+      "chinese": "再见(再見)。",
+      "pinyin": "Zàijiàn.",
+      "english": "Goodbye."
+    }
+  ]
+}

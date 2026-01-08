@@ -1,0 +1,56 @@
+{
+  "simplified": "鞠",
+  "traditional": "鞠",
+  "pinyin": "jū",
+  "english": "brew",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "⿰革(gé, \"leather\") + 勹(​bāo, \"wrap\") (phonetic) + 米(mǐ, \"rice\") = brew using wrapped leather and rice -> early form of 麴(麴) (qū, \"starter with brewer's yeast\")",
+    "interpretation": "鞠(jū, \"brew\") combines the phonetic elements associated with leather and wrapping, suggested by ⿰革勹, with the semantic 米(mǐ, \"rice\"), highlighting its use in fermentation processes involving rice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "革",
+      "trad": "革",
+      "pinyin": "gé",
+      "english": "leather"
+    },
+    {
+      "char": "勹",
+      "trad": "勹",
+      "pinyin": "bāo",
+      "english": "wrap"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "麴",
+      "trad": "麴",
+      "pinyin": "qū",
+      "english": "starter with brewer's yeast"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他鞠米酒(他鞠米酒)。",
+      "pinyin": "Tā jū mǐ jiǔ.",
+      "english": "He brews rice wine."
+    },
+    {
+      "chinese": "仲夏夜里(仲夏夜裡)，工匠鞠药酒(工匠鞠藥酒)。",
+      "pinyin": "Zhòngxià yèlǐ, gōngjiàng jū yàojiǔ.",
+      "english": "On a midsummer night, the craftsman brews medicinal wine."
+    },
+    {
+      "chinese": "老农每年都会在秋收后鞠佳酒(老農每年都會在秋收後鞠佳酒)。",
+      "pinyin": "Lǎonóng měi nián dōu huì zài qiūshōu hòu jū jiājiǔ.",
+      "english": "Every year, the old farmer brews fine wine after the harvest."
+    }
+  ]
+}

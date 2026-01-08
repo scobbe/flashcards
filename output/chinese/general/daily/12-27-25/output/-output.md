@@ -117,15 +117,18 @@
 - **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a coil of silk thread
-  - **interpretation:** The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
 - **examples:**
-  - 古人用糸制作衣物(古人用糸製作衣物)。
-    - Gǔrén yòng mì zhìzuò yīwù.
-    - Ancient people used silk thread to make clothes.
-  - 他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。
-    - Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.
-    - He wove exquisite fabric with silk thread, decorating the robes of nobles.
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
 ### 中药(中藥) → 药(藥) → 樂(樂) → 木(木)
 - **definition:** wood
 - **pinyin:** mù
@@ -761,15 +764,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 存根盖不改老火锅(存根蓋不改老火鍋) → 盖(蓋) → 盍(盍) → 洛(洛) → 各(各) → 夂(夂)
 - **definition:** go
 - **pinyin:** zhǐ
@@ -831,22 +837,26 @@
 - **definition:** to pinch
 - **pinyin:** qián
 - **components:**
-  - 扌(手)
+  - 扌
     - shǒu
     - hand
-  - 佥(僉)
-    - qiān
+  - 甘
+    - gān
+    - sweet
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** semantic: 扌(手) (shǒu, "hand") + phonetic: 佥(僉) (qiān)
-  - **interpretation:** The character 拑 combines the semantic component 扌(手) (shǒu, "hand"), indicating an action done by hand, with the phonetic component 佥(僉) (qiān), suggesting a similar pronunciation. This depicts the action of pinching or clamping something with hands.
+  - **description:**
+    - 扌(扌) (shǒu, "hand") + 甘(甘) (gān, phonetic) =
+    - conveys use of hand to apply pressure ->
+    - to clamp, to grip, to restrain
+  - **interpretation:** The character 拑(qián, "to pinch") combines the hand radical 扌(扌) (shǒu, "hand") indicating a manual action, with 甘(甘) (gān) serving as a phonetic indicator, together representing an action of gripping or restraining.
 - **examples:**
-  - 他拑了我的手(他拑了我的手)，让我感到意外(讓我感到意外)。
-    - Tā qián le wǒ de shǒu, ràng wǒ gǎndào yìwài.
-    - He pinched my hand, which surprised me.
-  - 小朋友拑了拑自己的鼻子(小朋友拑了拑自己的鼻子)。
-    - Xiǎopéngyǒu qián le qián zìjǐ de bízi.
-    - The child pinched his own nose.
+  - 哥哥拑了妹妹的鼻子(哥哥拑了妹妹的鼻子)。
+    - Gēgē qián le mèimei de bízi.
+    - The older brother pinched his sister's nose.
+  - 他拑我的手(他拑我的手)，让我忍不住笑(讓我忍不住笑)。
+    - Tā qián wǒ de shǒu, ràng wǒ rěn bù zhù xiào.
+    - He pinched my hand, making me burst into laughter.
 ### 存根盖不改老火锅(存根蓋不改老火鍋) → 盖(蓋) → 盍(盍) → 箝(箝) → 拑(拑) → 扌(扌)
 - **definition:** hand
 - **pinyin:** shǒu
@@ -865,36 +875,20 @@
   - 艺术家细心雕刻扌的每一细节(藝術家細心雕刻手的每一細節)。
     - Yìshùjiā xìxīn diāokè shǒu de měiyī xìjié.
     - The artist meticulously carved every detail of the hand.
-### 存根盖不改老火锅(存根蓋不改老火鍋) → 盖(蓋) → 盍(盍) → 箝(箝) → 拑(拑) → 佥(僉)
-- **pinyin:** qiān
-- **components:**
-  - 亼
-    - jí
-    - gather
-  - 吅
-    - xuān
-    - shout
-  - 从
-    - cóng
-    - follow
+### 存根盖不改老火锅(存根蓋不改老火鍋) → 盖(蓋) → 盍(盍) → 箝(箝) → 拑(拑) → 甘(甘)
+- **definition:** sweet
+- **pinyin:** gān
 - **etymology:**
-  - **type:** ideogrammic compound
-  - **description:**
-    - 亼(亼) (jí, "gather") + 吅(吅) (xuān, "shout") + 从(从) (cóng, "follow") =
-    - people responding unanimously ->
-    - unanimous agreement
-  - **interpretation:** This character visually combines elements representing gathering, shouting, and following, which effectively conveys a sense of collective response or unanimous agreement. The inclusion of 僉(僉) (qiān) has maintained this meaning, reflecting a collective action by multiple individuals.
-  - **simplification:** 佥(僉) retains the original components but was simplified with slightly altered strokes for easier writing, maintaining its semantic essence.
+  - **type:** pictogram
+  - **description:** Depicts a mouth with a sweet flavor
+  - **interpretation:** The character 甘(甘) (gān, 'sweet') visually represents the idea of sweetness being savored by the mouth. It's a straightforward depiction of tasting pleasure.
 - **examples:**
-  - 同学佥完成了作业(同學僉完成了作業)。
-    - Tóngxué qiān wánchéng le zuòyè.
-    - All students completed their homework.
-  - 家人佥为他庆祝生日(家人僉為他慶祝生日)。
-    - Jiārén qiān wéi tā qìngzhù shēngrì.
-    - All family members celebrated his birthday.
-  - 朋友佥送上真诚的祝福(朋友僉送上真誠的祝福)。
-    - Péngyǒu qiān sòng shàng zhēnchéng de zhùfú.
-    - All friends offered sincere blessings.
+  - 这个果子很甘(這個果子很甘)。
+    - Zhège guǒzi hěn gān.
+    - This fruit is sweet.
+  - 这种酒甘而不腻(這種酒甘而不膩)，让人回味无穷(讓人回味無窮)。
+    - Zhè zhǒng jiǔ gān ér bù nì, ràng rén huí wèi wú qióng.
+    - This wine is sweet without being cloying, leaving a lasting aftertaste.
 ### 存根盖不改老火锅(存根蓋不改老火鍋) → 不改(不改)
 - **definition:** not change
 - **pinyin:** bù gǎi
@@ -1292,15 +1286,18 @@
 - **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a coil of silk thread
-  - **interpretation:** The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
 - **examples:**
-  - 古人用糸制作衣物(古人用糸製作衣物)。
-    - Gǔrén yòng mì zhìzuò yīwù.
-    - Ancient people used silk thread to make clothes.
-  - 他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。
-    - Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.
-    - He wove exquisite fabric with silk thread, decorating the robes of nobles.
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
 ### 孙子兵法(孫子兵法) → 兵法(兵法)
 - **definition:** military method; art of war
 - **pinyin:** Bīngfǎ
@@ -1500,15 +1497,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ---
 ## 孙子兵法(孫子兵法)
 ### Sūnzǐ Bīngfǎ
@@ -2226,21 +2226,23 @@
     - tree
   - 乍
     - zhà
-    - sudden
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 木(木) (mù, "tree") + 乍(乍) (zhà, "sudden") =
-    - tree with phonetic 乍 representing sound ->
-    - oak
-  - **interpretation:** The character combines 木(木) (mù, "tree"), indicating it represents a type of tree, with 乍(乍) (zhà, "sudden") for its phonetic component, suggesting the pronunciation. Together, they refer to the oak tree.
+    - 木(木) (mù, "tree") + 乍(乍) (zhà) =
+    - tree-related meaning with phonetic value ->
+    - refers to a type of oak tree
+  - **interpretation:** The character combines 木(木) (mù, "tree"), as trees are integral to the meaning, with the phonetic 乍(乍) (zhà), to indicate the pronunciation, representing a specific type of oak tree used for practical purposes such as silkworm cultivation and timber.
 - **examples:**
-  - 森林中散布着茂密的柞树(森林中散佈著茂密的柞樹)。
-    - Sēnlín zhōng sànbù zhe màomì de zhà shù。
-    - Dense oak trees are scattered throughout the forest.
-  - 他用柞木制作家具(他用柞木製作傢俱)，彰显自然的魅力(彰顯自然的魅力)。
-    - Tā yòng zhà mù zhìzuò jiājù, zhāngxiǎn zìrán de mèilì。
-    - He makes furniture from oak wood, showcasing nature's charm.
+  - 他走过柞树林(他走過柞樹林)。
+    - Tā zǒuguò zhà shùlín.
+    - He walked through the oak forest.
+  - 柞树的叶子浓绿(柞樹的葉子濃綠)，秋风起时显得更美(秋風起時顯得更美)。
+    - Zhà shù de yèzi nónglǜ, qiū fēng qǐ shí xiǎndé gèng měi.
+    - The oak tree's leaves are lush green, and they appear even more beautiful when the autumn wind rises.
+  - 这片山坡上长满了柞树(這片山坡上長滿了柞樹)。
+    - Zhè piàn shānpō shàng zhǎng mǎn le zhà shù.
+    - This hillside is full of oak trees.
 ### 春风手作(春風手作) → 手作(手作) → 作(作) → 乍(乍) → 柞(柞) → 木(木)
 - **definition:** tree
 - **pinyin:** mù
@@ -2472,15 +2474,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 有位子吗(有位子嗎) → 吗(嗎) → 马(馬)
 - **definition:** horse
 - **pinyin:** mǎ
@@ -2691,26 +2696,29 @@
 - **components:**
   - 趾
     - zhǐ
-    - toe
+    - foot
+  - 龰
+    - yù
+    - stylized feet
+  - 手
+    - shǒu
+    - hand
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing upward ->
-    - originally meant 'foot'; stylized as 龰('stop') ->
-    - original meaning remains in derivative 趾(趾) (zhǐ, 'toe')
-  - **interpretation:** The character originated as a footprint pointing up, capturing the action of stopping or standing with one's foot, visually depicting the meaning of 'stop' or 'halt'. It evolved from representing a foot into symbolizing the act of stopping.
+    - Original: Foot pointing up with 3 toes and a sole ->
+    - Stylized as 龰 ->
+    - Derivative 趾 refers to original 'foot' meaning
+  - **interpretation:** Originally depicting a footprint with toes and a sole, 止(止) (zhǐ, "foot") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.
 - **examples:**
-  - 请止步(請止步)。
-    - Qǐng zhǐ bù.
-    - Please stop.
-  - 红灯亮起时(紅燈亮起時)，车辆须止驶(車輛須止駛)。
-    - Hóng dēng liàng qǐ shí, chēliàng xū zhǐ shǐ.
-    - When the red light turns on, vehicles must stop.
-  - 他的话语终将止于空谈(他的話語終將止於空談)。
-    - Tā de huàyǔ zhōng jiāng zhǐ yú kōng tán.
-    - His words will eventually come to a stop in empty talk.
+  - 他受伤的止需要静养(他受傷的止需要靜養)。
+    - Tā shòu shāng de zhǐ xū yào jìng yǎng.
+    - His injured foot needs adequate rest.
+  - 他走路时小心谨慎(他走路時小心謹慎)，因为止若受伤便难前行(因爲止若受傷便難前行)。
+    - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
+    - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
 ### 李旭婷(李旭婷) → 李(李) → 來(來) → 止(止) → 趾(趾)
-- **definition:** toe
+- **definition:** foot
 - **pinyin:** zhǐ
 - **components:**
   - 足
@@ -2756,6 +2764,42 @@
   - 我每天锻炼足部(我每天鍛鍊足部)。
     - wǒ měitiān duànliàn zúbù。
     - I exercise my foot muscles every day.
+### 李旭婷(李旭婷) → 李(李) → 來(來) → 止(止) → 龰(龰)
+- **definition:** stylized feet
+- **pinyin:** yù
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a footprint pointing up with three toes and a sole ->
+    - stylized as 龰 (龰) (yù, 'component stylization')
+  - **interpretation:** The character 龰 (龰) (yù, 'component stylization') stylizes the original pictogram of a foot with three toes and a sole, highlighting the upward orientation. This stylization serves as a basis for several other characters related to motion or elements related to feet.
+- **examples:**
+  - 这个汉字采用了精妙的龰(龰)，构法巧妙(構法巧妙)。
+    - Zhège hànzì cǎiyòngle jīngmiào de yù(龰)，gòufǎ qiǎomiào(構法巧妙)。
+    - This Chinese character employs an exquisite yù component, and its construction is ingeniously designed.
+  - 书法家研究汉字中的龰(龰)，探讨部件的美学(探討部件的美學)。
+    - Shūfǎjiā yánjiū hànzì zhōng de yù(龰)，tàn tǎo bùjiàn de měixué(探討部件的美學)。
+    - Calligraphers study the yù found in Chinese characters, exploring the aesthetics of component design.
+  - 古代篆刻作品常用龰(龰)，来凸显文字的精髓(凸顯文字的精髓)。
+    - Gǔdài zhuànkè zuòpǐn cháng yòng yù(龰)，lái túxiǎn wénzì de jīngsuǐ(凸顯文字的精髓)。
+    - Ancient seal carvings often utilized the yù to highlight the essence of the characters.
+### 李旭婷(李旭婷) → 李(李) → 來(來) → 止(止) → 手(手)
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手(手) (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他用手写字(他用手寫字)。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈妈牵着我的手走路(媽媽牽著我的手走路)。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
 ### 李旭婷(李旭婷) → 李(李) → 來(來) → 辵(辵)
 - **definition:** to walk
 - **pinyin:** chuò
@@ -2783,17 +2827,50 @@
 ### 李旭婷(李旭婷) → 李(李) → 來(來) → 辵(辵) → 彳(彳)
 - **definition:** step
 - **pinyin:** chì
+- **components:**
+  - 行
+    - xíng
+    - go
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a small step or a person taking a small step forward.
-  - **interpretation:** The character 彳(彳) (chì, "step") represents the imagery of small steps, echoing the action of stepping. It highlights the incremental movement aspect.
+  - **description:** Depicts 街 intersection viewed from above, simplified from 行(行) (xíng, "go")
+  - **interpretation:** The character 彳(chì, "walking") represents the image of a street intersection, which symbolically indicates movement or walking. It is used to denote the concept of going or moving along a path.
 - **examples:**
-  - 运动员迈出彳(運動員邁出彳)，踏上冠军之路(踏上冠軍之路)。
-    - Yùn dòng yuán mài chū chì, tà shàng guàn jūn zhī lù.
-    - The athlete took a 'chì' step and embarked on the road to championship.
-  - 请看墙上雕刻的彳(請看牆上雕刻的彳)，似乎记录着古人的足迹(似乎記錄著古人的足跡)。
-    - Qǐng kàn qiáng shàng diāo kè de chì, sì hū jì lù zhe gǔ rén de zú jì.
-    - Look at the 'chì' carved on the wall; it seems to record the footsteps of the ancients.
+  - 他彳亍而行(他彳亍而行)。
+    - Tā chìchù ér xíng.
+    - He ambled along slowly.
+  - 老人彳步(老人彳步)，穿过小巷(穿過小巷)。
+    - Lǎorén chì bù, chuānguò xiǎoxiàng.
+    - The old man walked along, crossing the narrow alley.
+  - 孩子们看到蝴蝶(孩子們看到蝴蝶)，便兴奋地彳走前去(便興奮地彳走前去)。
+    - Háizimen kàn dào húdié, biàn xīngfèn de chì zǒu qiánqù.
+    - Upon seeing the butterflies, the children excitedly walked forward.
+### 李旭婷(李旭婷) → 李(李) → 來(來) → 辵(辵) → 彳(彳) → 行(行)
+- **definition:** go
+- **pinyin:** xíng
+- **components:**
+  - 彳
+    - chì
+    - step
+  - 亍
+    - chù
+    - step
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Originally a symmetric depiction of a street intersection; simplified asymmetrically ->
+    - 彳(彳) (chì, "step") + 亍(亍) (chù, "step")
+  - **interpretation:** The character 行(xíng) visually represented a street intersection, with two symmetrical parts symbolizing the act of going or walking along paths. Despite its current breakdown into separate elements, it was originally a unified pictogram rather than a compound.
+- **examples:**
+  - 我行往学校(我行往學校)。
+    - Wǒ xíng wǎng xuéxiào.
+    - I go to school.
+  - 他行于青山之间(他行於青山之間)，徒步旅行至古城(徒步旅行至古城)。
+    - Tā xíng yú qīngshān zhī jiān, túbù lǚxíng zhì gǔchéng.
+    - He walks among the green mountains and hikes to the ancient city.
+  - 他们行在林间小路上(他們行在林間小路上)。
+    - Tāmen xíng zài línjiān xiǎolù shàng.
+    - They walk on the forest trail.
 ### 李旭婷(李旭婷) → 李(李) → 來(來) → 禾(禾)
 - **definition:** grain
 - **pinyin:** hé
@@ -3652,15 +3729,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 油条(油條) → 条(條)
 - **definition:** strip; streak; item
 - **pinyin:** tiáo
@@ -3719,17 +3799,67 @@
 ### 油条(油條) → 条(條) → 攸(攸) → 彳(彳)
 - **definition:** step
 - **pinyin:** chì
+- **components:**
+  - 行
+    - xíng
+    - go
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a small step or a person taking a small step forward.
-  - **interpretation:** The character 彳(彳) (chì, "step") represents the imagery of small steps, echoing the action of stepping. It highlights the incremental movement aspect.
+  - **description:** Depicts 街 intersection viewed from above, simplified from 行(行) (xíng, "go")
+  - **interpretation:** The character 彳(chì, "walking") represents the image of a street intersection, which symbolically indicates movement or walking. It is used to denote the concept of going or moving along a path.
 - **examples:**
-  - 运动员迈出彳(運動員邁出彳)，踏上冠军之路(踏上冠軍之路)。
-    - Yùn dòng yuán mài chū chì, tà shàng guàn jūn zhī lù.
-    - The athlete took a 'chì' step and embarked on the road to championship.
-  - 请看墙上雕刻的彳(請看牆上雕刻的彳)，似乎记录着古人的足迹(似乎記錄著古人的足跡)。
-    - Qǐng kàn qiáng shàng diāo kè de chì, sì hū jì lù zhe gǔ rén de zú jì.
-    - Look at the 'chì' carved on the wall; it seems to record the footsteps of the ancients.
+  - 他彳亍而行(他彳亍而行)。
+    - Tā chìchù ér xíng.
+    - He ambled along slowly.
+  - 老人彳步(老人彳步)，穿过小巷(穿過小巷)。
+    - Lǎorén chì bù, chuānguò xiǎoxiàng.
+    - The old man walked along, crossing the narrow alley.
+  - 孩子们看到蝴蝶(孩子們看到蝴蝶)，便兴奋地彳走前去(便興奮地彳走前去)。
+    - Háizimen kàn dào húdié, biàn xīngfèn de chì zǒu qiánqù.
+    - Upon seeing the butterflies, the children excitedly walked forward.
+### 油条(油條) → 条(條) → 攸(攸) → 彳(彳) → 行(行)
+- **definition:** go
+- **pinyin:** xíng
+- **components:**
+  - 彳
+    - chì
+    - step
+  - 亍
+    - chù
+    - step
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Originally a symmetric depiction of a street intersection; simplified asymmetrically ->
+    - 彳(彳) (chì, "step") + 亍(亍) (chù, "step")
+  - **interpretation:** The character 行(xíng) visually represented a street intersection, with two symmetrical parts symbolizing the act of going or walking along paths. Despite its current breakdown into separate elements, it was originally a unified pictogram rather than a compound.
+- **examples:**
+  - 我行往学校(我行往學校)。
+    - Wǒ xíng wǎng xuéxiào.
+    - I go to school.
+  - 他行于青山之间(他行於青山之間)，徒步旅行至古城(徒步旅行至古城)。
+    - Tā xíng yú qīngshān zhī jiān, túbù lǚxíng zhì gǔchéng.
+    - He walks among the green mountains and hikes to the ancient city.
+  - 他们行在林间小路上(他們行在林間小路上)。
+    - Tāmen xíng zài línjiān xiǎolù shàng.
+    - They walk on the forest trail.
+### 油条(油條) → 条(條) → 攸(攸) → 彳(彳) → 行(行) → 亍(亍)
+- **definition:** step
+- **pinyin:** chù
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a single step with a foot slightly raised
+  - **interpretation:** 亍(亍) (chù, 'step') is a simple pictogram representing a small step, showing a minimal depiction of movement or the positioning of a foot.
+- **examples:**
+  - 他一亍一亍地向山顶走去(他一亍一亍地向山頂走去)。
+    - Tā yī chù yī chù de xiàng shāndǐng zǒuqù.
+    - He stepped steadily, one step after another, toward the mountaintop.
+  - 行人走过古道时(行人走過古道時)，每一亍都留下岁月痕迹(每一亍都留下歲月痕跡)。
+    - Xíngrén zǒuguò gǔdào shí, měi yī chù dōu liúxià suìyuè hénjì.
+    - When pedestrians traverse the ancient path, each step leaves the mark of time.
+  - 旅者登山时(旅者登山時)，谨记每一亍的重要性(謹記每一亍的重要性)。
+    - Lǚzhě dēngshān shí, jǐnjì měi yī chù de zhòngyàoxìng.
+    - When the traveler climbs the mountain, he remembers the importance of every single step.
 ### 油条(油條) → 条(條) → 攸(攸) → 攴(攴)
 - **definition:** strike
 - **pinyin:** pū
@@ -4126,15 +4256,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 点茶(點茶) → 茶(茶)
 - **definition:** tea
 - **pinyin:** chá
@@ -4289,15 +4422,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 点茶(點茶) → 茶(茶) → 余(餘) → 食(食) → 𠊊(𠊊)
 - **definition:** bowl with stand
 - **pinyin:** jí
@@ -4487,15 +4623,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 串串香(串串香) → 香(香) → 甘(甘)
 - **definition:** sweet
 - **pinyin:** gān
@@ -4702,26 +4841,21 @@
   - 戈
     - gē
     - halberd
-  - 鬼
+  - 癸
     - guǐ
-    - ghost
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 戈(戈) (gē, "halberd") + 鬼(鬼) (guǐ, "ghost") =
-    - halberd weapon + phonetic component ->
-    - a type of halberd
-  - **interpretation:** The character 戣(戣) (kuí, "type of halberd") combines 戈(戈) (gē, "halberd") as a semantic component indicating the weapon aspect, with 鬼(鬼) (guǐ, "ghost") as a phonetic component to hint at its pronunciation. The use of 鬼, although seemingly unrelated in meaning, aligns with phonetic representation typical in many Chinese characters.
+    - 戈(戈) (gē, "halberd") provides meaning + 癸(癸) (guǐ) for phonetic value ->
+    - signifies a type of ancient halberd or lance
+  - **interpretation:** The character combines the radical for 'halberd' to denote its direct association with weaponry, while the phonetic element 癸(癸) (guǐ) suggests its pronunciation. This highlights its function as a specific type of ancient weapon.
 - **examples:**
-  - 古代将领持戣(古代將領持戣)，冲破敌阵(衝破敵陣)。
-    - Gǔdài jiānglǐng chí kuí, chōngpò dí zhèn.
-    - Ancient generals wielded the kuí to break enemy lines.
-  - 英雄举起戣(英雄舉起戣)，迎战强敌(迎戰強敵)。
-    - Yīngxióng jǔqǐ kuí, yíngzhàn qiángdí.
-    - The hero raised the kuí to confront formidable foes.
-  - 那把雕刻精美的戣(那把雕刻精美的戣)，在战场上叱咤风云(在戰場上叱咤風雲)。
-    - Nà bǎ diāokè jīngměi de kuí, zài zhànchǎng shàng chìchà fēngyún.
-    - That exquisitely carved kuí dominated the battlefield.
+  - 将士手持戣(將士手持戣)，迎敌立下战功(迎敵立下戰功)。
+    - jiāngshì shǒuchí kuí, yíngdí lìxià zhàngōng.
+    - The soldiers wielded the halberd and achieved remarkable feats on the battlefield.
+  - 古时武将用戣(古時武將用戣)，攻城拔寨(攻城拔寨)。
+    - gǔshí wǔjiàng yòng kuí, gōngchéng bázhài.
+    - In ancient times, military commanders used the halberd to breach enemy fortifications.
 ### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 戣(戣) → 戈(戈)
 - **definition:** halberd
 - **pinyin:** gē
@@ -4736,20 +4870,6 @@
   - 博物馆珍藏古兵器(博物館珍藏古兵器)，展厅陈列戈(展廳陳列戈)。
     - Bówùguǎn zhēncáng gǔ bīngqì, zhǎntīng chénliè gē.
     - The museum preserves ancient weapons, and the exhibition hall displays a spear.
-### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 戣(戣) → 鬼(鬼)
-- **definition:** ghost
-- **pinyin:** guǐ
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a kneeling man or figure with an ugly face (甶) + small 厶 (trace of tail) added later
-  - **interpretation:** The character 鬼(鬼) (guǐ, "demon") visually represents a kneeling figure with a distinctive, mask-like face, evoking the image of a supernatural being or ghost. The addition of a small 厶 suggests a residual tail, enhancing its demon-like appearance. This depiction highlights the character's association with eerie, otherworldly entities.
-- **examples:**
-  - 深夜独行时(深夜獨行時)，忽遇鬼影飘忽(忽遇鬼影飄忽)。
-    - Shēnyè dúxíng shí, hū yù guǐ yǐng piāohū.
-    - Walking alone in the deep night, suddenly encountering a fleeting ghostly silhouette.
-  - 村里流传故事说鬼出没(村裡流傳故事說鬼出沒)，人们夜半小心提灯(人們夜半小心提燈)。
-    - Cūn lǐ liúchuán gùshì shuō guǐ chūmò, rénmen yèbàn xiǎoxīn tí dēng.
-    - Stories circulate in the village that demons haunt the area, so people cautiously carry lanterns at midnight.
 ### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 揆(揆)
 - **definition:** measure
 - **pinyin:** kuí
@@ -4757,23 +4877,25 @@
   - 扌
     - shǒu
     - hand
-  - 奎
-    - kuí
-    - phonetic
+  - 癸
+    - guǐ
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 扌(扌) (shǒu, "hand") + 奎(奎) (kuí, phonetic) =
-    - action related to using hands ->
+    - 扌(shǒu, "hand") + 癸(guǐ, phonetic) =
+    - actions involving the hand, associated with measurement or management ->
     - measure
-  - **interpretation:** This character combines 扌(扌) (shǒu, "hand") indicating an action with 奎(奎) (kuí), which lends its sound. The action of using hands is intuitively connected to the concept of measuring or assessing something.
+  - **interpretation:** Combining 扌(shǒu, "hand") signifies the character's association with manual activities, while 癸(guǐ) provides the sound, forming its meaning related to managing or measuring, often in formal or literary settings.
 - **examples:**
-  - 他揆事的方法独到(他揆事的方法獨到)。
-    - Tā kuí shì de fāngfǎ dúdào.
-    - His method of measuring matters is unique.
-  - 学者揆古今典籍(學者揆古今典籍)，以求真理(以求真理)。
-    - Xuézhě kuí gǔjīn diǎnjí, yǐ qiú zhēnlǐ.
-    - The scholar measures the classics of ancient and modern times in order to seek truth.
+  - 他揆前路(他揆前路)，决定谨慎行事(決定謹慎行事)。
+    - Tā kuí qiánlù, juédìng jǐnshèn xíngshì.
+    - He measured the road ahead and decided to act cautiously.
+  - 专家揆局势(專家揆局勢)，谋划对策(謀劃對策)。
+    - Zhuānjiā kuí júshì, móuhuà duìcè.
+    - The expert measured the situation and planned countermeasures.
+  - 他们揆量时间(他們揆量時間)，规划好日程(規劃好日程)。
+    - Tāmen kuí liàng shíjiān, guīhuà hǎo rìchéng.
+    - They measured the time and arranged a proper schedule.
 ### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 揆(揆) → 扌(扌)
 - **definition:** hand
 - **pinyin:** shǒu
@@ -4792,73 +4914,6 @@
   - 艺术家细心雕刻扌的每一细节(藝術家細心雕刻手的每一細節)。
     - Yìshùjiā xìxīn diāokè shǒu de měiyī xìjié.
     - The artist meticulously carved every detail of the hand.
-### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 揆(揆) → 奎(奎)
-- **definition:** phonetic
-- **pinyin:** kuí
-- **components:**
-  - 大
-    - dà
-    - big
-  - 圭
-    - guī
-    - ritual jade object
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 大(大) (dà, "big") + 圭(圭) (guī) =
-    - combines the idea of largeness with the phonetic influence of 圭
-  - **interpretation:** The character 奎(奎) (kuí, "phonetic") uses 大(大) (dà, "big") as the semantic component and 圭(圭) (guī) as the phonetic component. While 圭(圭) typically represents a type of jade object not related to earth, in this character, it contributes the sound component. The concept of earth may have been added due to visual interpretation in the script rather than phonetic or semantic meanings.
-- **examples:**
-  - 专家解说“奎”字的由来(專家解說「奎」字的由來)，分析其音韵变化(分析其音韻變化)。
-    - zhuānjiā jiěshuō “kuí” zì de yóulái ， fēnxī qí yīnyùn biànhuà 。
-    - The expert explained the origin of the character '奎' and analyzed its phonetic evolution.
-  - 老师教我们如何读“奎”字(老師教我們如何讀「奎」字)。
-    - lǎoshī jiāo wǒmen rúhé dú “kuí” zì 。
-    - The teacher taught us how to read the character '奎'.
-### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 揆(揆) → 奎(奎) → 大(大)
-- **definition:** big
-- **pinyin:** dà
-- **components:**
-  - 夫
-    - fū
-    - man
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a person facing forward ->
-    - Borrowed phonetically for 'big'; original form of 夫(夫) (fū, 'man')
-  - **interpretation:** The character 大(dà) depicts a person facing forward, representing 'big' by suggesting the idea of someone standing prominently. Although often thought of as a person with outstretched arms, early scripts do not support this interpretation. It was originally the form of 夫(夫) (fū, 'man') and was later phonetically borrowed for the meaning 'big.'
-- **examples:**
-  - 这个房子很大(這個房子很大)。
-    - Zhè ge fángzi hěn dà.
-    - This house is very big.
-  - 大海波涛汹涌(大海波濤洶湧)，展现出大自然的力量(展現出大自然的力量)。
-    - Dàhǎi bōtāo xiōngyǒng, zhǎnxiàn chū dàzìrán de lìliàng.
-    - The vast ocean waves surge, showcasing the power of nature.
-  - 大人物登场(大人物登場)，留下传奇(留下傳奇)。
-    - Dà rénwù dēngchǎng, liúxià chuánqí.
-    - Great figures make an appearance, leaving behind legends.
-### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 揆(揆) → 奎(奎) → 圭(圭)
-- **definition:** ritual jade object
-- **pinyin:** guī
-- **components:**
-  - 土
-    - tǔ
-    - earth
-- **etymology:**
-  - **type:** ideogrammic compound
-  - **description:**
-    - 土(土) (tǔ, "earth") + 土(土) (tǔ, "earth") =
-    - stylized piled earth ->
-    - representation of an ancient jade tablet used in rituals
-  - **interpretation:** 圭(圭) (guī, "jade tablet") features two 土(土) (tǔ, "earth") stacked, signifying prestige and ritual significance, as jade tablets were made from earth-origin materials and held ceremonial importance.
-- **examples:**
-  - 博物馆中陈列着一块圭(博物館中陳列著一塊圭)。
-    - Bówùguǎn zhōng chénliè zhe yī kuài guī.
-    - The museum displays a jade tablet.
-  - 考古学家在遗址中发现了圭(考古學家在遺址中發現了圭)，暗示着当时礼仪制度(暗示著當時禮儀制度)。
-    - Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn le guī, ànshì zhe dāngshí lǐyí zhìdù.
-    - The archaeologist discovered a jade tablet at the site, suggesting the ceremonial customs of that time.
 ### 秋葵(秋葵) → 葵(葵) → 癸(癸) → 規(規)
 - **definition:** compass; rule
 - **pinyin:** guī
@@ -5235,15 +5290,18 @@
 - **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a coil of silk thread
-  - **interpretation:** The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
 - **examples:**
-  - 古人用糸制作衣物(古人用糸製作衣物)。
-    - Gǔrén yòng mì zhìzuò yīwù.
-    - Ancient people used silk thread to make clothes.
-  - 他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。
-    - Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.
-    - He wove exquisite fabric with silk thread, decorating the robes of nobles.
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
 ### 粉红玫瑰(粉紅玫瑰) → 红(紅) → 工(工)
 - **definition:** work
 - **pinyin:** gōng
@@ -5486,201 +5544,71 @@
 - **definition:** phonetic component
 - **pinyin:** zōng
 - **components:**
-  - 从(從)
-    - cóng
-    - from
-  - 易
-    - yì
-    - easy
+  - 夕
+    - xī
+    - evening
+  - 卩
+    - jié
+    - kneeling person
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 从(从) (cóng, 'from') + 易(易) (yì, 'easy') =
-    - composed of these elements for phonetic purposes ->
-    - phonetic component
-  - **interpretation:** The character 㚇 (zōng) is primarily used as a phonetic component, combining 从(从) (cóng, 'from') and 易(易) (yì, 'easy') to achieve the desired sound. This character does not convey a clear standalone meaning and is not in common usage.
+    - 夕(xī, "evening") + 卩(jié, "kneeling person") =
+    - related to evening activities or ceremonies
+  - **interpretation:** The character combines 夕(xī, "evening"), depicting the time of day, with 卩(jié, "kneeling person"), possibly indicating a person engaged in a significant action or ceremony during the evening.
 - **examples:**
-  - 㚇是汉字中的声旁(㚇是漢字中的聲旁)。
-    - zōng shì hànzì zhōng de shēngpáng.
-    - 㚇 is the phonetic component in Chinese characters.
-  - 学字时注意声旁(學字時注意聲旁)，㚇有助于记忆(㚇有助於記憶)。
-    - xuézì shí zhùyì shēngpáng, zōng yǒuzhù yú jìyì.
-    - When learning characters, paying attention to phonetic components like 㚇 helps memorization.
-  - 古籍记载(古籍記載)，㚇曾用以表音(㚇曾用以表音)。
-    - gǔjí jìzǎi, zōng céng yòng yǐ biǎoyīn.
-    - Ancient texts record that 㚇 was once used for phonetic representation.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 从(從)
-- **definition:** from
-- **pinyin:** cóng
+  - 在造字过程中(在造字過程中)，㚇担负着声旁的作用(㚇擔負著聲旁的作用)。
+    - Zài zàozì guòchéng zhōng, zōng dānfù zhe shēngpáng de zuòyòng.
+    - In the process of character formation, 㚇 plays the role of the phonetic component.
+  - 古代文献中(古代文獻中)，学者探讨了㚇的演变(學者探討了㚇的演變)。
+    - Gǔdài wénxiàn zhōng, xuézhě tànjiù le zōng de yǎnbiàn.
+    - In ancient texts, scholars discussed the evolution of 㚇.
+### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 夕(夕)
+- **definition:** evening
+- **pinyin:** xī
 - **components:**
-  - 人
-    - rén
-    - person
-  - 辵
-    - chuò
-    - walk
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 人(人) (rén, "person") duplicated + 辵(辵) (chuò, "walk") as semantic =
-    - following people walking together ->
-    - "follow"; phonetic: 从(cong, "follow")
-  - **interpretation:** The character 从(cóng, "from") visually depicts two people walking in the same direction, symbolizing following someone. In its traditional form, 從(cong, "follow") added the "walk" radical to reinforce the idea of movement and accompaniment.
-  - **simplification:** 从 was retained as a shorthand for 從 by omitting the 辵(辵) (chuò, "walk") radical, preserving its original depiction of two people walking.
-- **examples:**
-  - 我从学校回来(我從學校回來)。
-    - Wǒ cóng xuéxiào huílái.
-    - I returned from school.
-  - 他从乡村出发(他從鄉村出發)，前往都市(前往都市)。
-    - Tā cóng xiāngcūn chūfā, qiánwǎng dūshì.
-    - He set off from the countryside, heading to the city.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 从(從) → 人(人)
-- **definition:** person
-- **pinyin:** rén
+  - 月
+    - yuè
+    - moon
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts side view of a standing man, highlighting an arm and a leg ->
-    - visual representation of a person
-  - **interpretation:** The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+  - **description:** Depicts a moon crescent
+  - **interpretation:** The character 夕(夕) (xī, 'evening') is a pictogram that represents a crescent moon, capturing the image of the moon in the evening sky. The comparison to 月(月) (yuè, 'moon') underscores its depiction of the moon phase commonly associated with evening.
 - **examples:**
-  - 他是个好人(他是個好人)。
-    - Tā shì gè hǎo rén.
-    - He is a good person.
-  - 每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。
-    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
-    - Every person has a responsibility to contribute to society.
-  - 人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。
-    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
-    - People gain growth along their journey.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 从(從) → 辵(辵)
-- **definition:** walk
-- **pinyin:** chuò
-- **components:**
-  - 彳
-    - chì
-    - step
-  - 止
-    - zhǐ
-    - stop
+  - 夕阳西下(夕陽西下)。
+    - xī yáng xīxià.
+    - The setting sun descends.
+  - 夕阳西下(夕陽西下)，晚风徐徐(晚風徐徐)。
+    - xī yáng xīxià, wǎn fēng xúxú.
+    - The sun sets as the gentle evening breeze blows.
+### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 夕(夕) → 月(月)
+- **definition:** moon
+- **pinyin:** yuè
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Combines 彳(彳) (chì, "step") + 止(止) (zhǐ, "stop") =
-    - movement and stopping ->
-    - walk
-  - **interpretation:** The character 辵(辵) combines elements signifying movement, 彳(彳) (chì, "step"), and cessation of movement, 止(止) (zhǐ, "stop"), to visually convey the action of walking or progressing.
+  - **description:** Depicts a crescent moon
+  - **interpretation:** The character 月(yuè, "moon") is a pictographic representation of a crescent moon, straightforwardly capturing the curved shape often associated with the moon's appearance. Though interchangeable with 夕 (xī, "evening") in the past, it distinctly represents the moon in this usage.
 - **examples:**
-  - 行走得很稳重时(行走得很穩重時)，他总是注意辵的象形结构(他總是注意辶的象形結構)。
-    - xíngzǒu dé hěn wěnzhòng shí, tā zǒng shì zhùyì chuò de xiàngxíng jiégòu.
-    - When walking steadily, he always pays attention to the pictographic structure of '辵'.
-  - 他平时喜欢漫步时(他平時喜歡漫步時)，研究古字中的辵偏旁(研究古字中的辶偏旁)。
-    - tā píngshí xǐhuān mànbù shí, yánjiū gǔ zì zhōng de chuò piānpáng.
-    - He likes to stroll in his spare time, and he studies the radical '辵' in ancient characters.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 从(從) → 辵(辵) → 彳(彳)
-- **definition:** step
-- **pinyin:** chì
+  - 夜空挂着明月(夜空掛著明月)。
+    - Yè kōng guà zhe míng yuè.
+    - The bright moon hangs in the night sky.
+  - 人们赏月(人們賞月)，寄托相思(寄託相思)。
+    - Rén men shǎng yuè, jì tuō xiāng sī.
+    - People enjoy the moon, expressing their longing.
+### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 卩(卩)
+- **definition:** kneeling person
+- **pinyin:** jié
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a small step or a person taking a small step forward.
-  - **interpretation:** The character 彳(彳) (chì, "step") represents the imagery of small steps, echoing the action of stepping. It highlights the incremental movement aspect.
+  - **description:** Pictogram: represents a kneeling person from a side view
+  - **interpretation:** The character 卩(卩) (jié, "kneeling person") visually depicts someone kneeling, highlighting the physical posture. It is distinct and unrelated to other characters like 欠(欠) (qiàn, "owe") and 女(女) (nǚ, "woman") despite similar appearances.
 - **examples:**
-  - 运动员迈出彳(運動員邁出彳)，踏上冠军之路(踏上冠軍之路)。
-    - Yùn dòng yuán mài chū chì, tà shàng guàn jūn zhī lù.
-    - The athlete took a 'chì' step and embarked on the road to championship.
-  - 请看墙上雕刻的彳(請看牆上雕刻的彳)，似乎记录着古人的足迹(似乎記錄著古人的足跡)。
-    - Qǐng kàn qiáng shàng diāo kè de chì, sì hū jì lù zhe gǔ rén de zú jì.
-    - Look at the 'chì' carved on the wall; it seems to record the footsteps of the ancients.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 从(從) → 辵(辵) → 止(止)
-- **definition:** stop
-- **pinyin:** zhǐ
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a footprint pointing upward ->
-    - originally meant 'foot'; stylized as 龰('stop') ->
-    - original meaning remains in derivative 趾(趾) (zhǐ, 'toe')
-  - **interpretation:** The character originated as a footprint pointing up, capturing the action of stopping or standing with one's foot, visually depicting the meaning of 'stop' or 'halt'. It evolved from representing a foot into symbolizing the act of stopping.
-- **examples:**
-  - 请止步(請止步)。
-    - Qǐng zhǐ bù.
-    - Please stop.
-  - 红灯亮起时(紅燈亮起時)，车辆须止驶(車輛須止駛)。
-    - Hóng dēng liàng qǐ shí, chēliàng xū zhǐ shǐ.
-    - When the red light turns on, vehicles must stop.
-  - 他的话语终将止于空谈(他的話語終將止於空談)。
-    - Tā de huàyǔ zhōng jiāng zhǐ yú kōng tán.
-    - His words will eventually come to a stop in empty talk.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 易(易)
-- **definition:** easy
-- **pinyin:** yì
-- **components:**
-  - 賜
-    - cì
-    - bestow
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Pictogram of filled container (original form of 賜(賜) (cì, "bestow")) ->
-    - borrowed phonetically for "easy"
-  - **interpretation:** The character 易(易) (yì, "easy") originally depicted a filled container, which is the form of 賜(賜) (cì, "bestow"). It was phonetically borrowed to express the concept of 'easy' due to its sound similarity.
-- **examples:**
-  - 他觉得这道题很易(他覺得這道題很易)。
-    - Tā juéde zhè dào tí hěn yì.
-    - He thinks this problem is very easy.
-  - 他以旧易新(他以舊易新)。
-    - Tā yǐ jiù yì xīn.
-    - He replaces the old with the new.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 易(易) → 賜(賜)
-- **definition:** bestow
-- **pinyin:** cì
-- **components:**
-  - 貝
-    - bèi
-    - shell, money
-  - 易
-    - yì
-    - easy
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - Semantic 貝(貝) (bèi, "shell, money") + phonetic 易(易) (yì, "easy") =
-    - valuable items given ->
-    - bestow
-  - **interpretation:** 賜(賜) (cì, "bestow") combines 貝(貝) (bèi, "shell, money"), indicating wealth or valuables, with 易(易) (yì), chosen for its phonetic value, to convey the action of bestowing or granting valuable items.
-  - **simplification:** Simplified by replacing 貝(貝) (bèi, "shell, money") with 贝(贝) (bèi, "shell, money") to maintain the semantic element while reducing complexity.
-- **examples:**
-  - 皇帝賜恩(皇帝賜恩)，群臣受福(群臣受福)。
-    - Huángdì cì ēn, qúnchén shòu fú.
-    - The emperor bestowed grace, and his officials received blessings.
-  - 聖上賜旨(聖上賜旨)，百官遵命(百官遵命)。
-    - Shèng shàng cì zhǐ, bǎiguān zūn mìng.
-    - The sovereign bestowed his decree, and the ministers obeyed.
-  - 国君賜封英才(國君賜封英才)。
-    - Guókūn cì fēng yīngcái.
-    - The monarch bestowed a title upon the talented.
-### 粽子(粽子) → 粽(糉) → 㚇(㚇) → 易(易) → 賜(賜) → 貝(貝)
-- **definition:** shell, money
-- **pinyin:** bèi
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a cowry shell, which was used as currency in ancient China.
-  - **interpretation:** The character 貝(貝) (bèi, "cowry") visually represents a cowry shell, a valuable item used in trade and as currency in ancient Chinese societies.
-  - **simplification:** 贝(貝) is the simplified form, derived from a cursive script version of 貝(貝) (bèi, "cowry"), maintaining the visual representation while making the character faster to write.
-- **examples:**
-  - 古代人用貝(古代人用貝)作为货币(作為貨幣)，也用来装饰(也用來裝飾)。
-    - Gǔdài rén yòng bèi zuòwéi huòbì, yě yòng lái zhuāngshì.
-    - Ancient people used cowrie shells as currency and also for decoration.
-  - 一些古文献记载了貝(一些古文獻記載了貝)的神秘价值(的神秘價值)，激发了人们对古代文化的兴趣(激發了人們對古代文化的興趣)。
-    - Yīxiē gǔ wénxiàn jìzǎi le bèi de shénmì jiàzhí, jīfā le rénmen duì gǔdài wénhuà de xìngqù.
-    - Some ancient texts recorded the mysterious value of cowrie shells, sparking people’s interest in ancient culture.
-  - 海边曾有传说(海邊曾有傳說)，珊瑚和貝点缀着沙滩的美丽(珊瑚和貝點綴著沙灘的美麗)。
-    - Hǎibiān céng yǒu chuánshuō, shānhú hé bèi diǎnzuì zhe shātān de měilì.
-    - There was a legend by the seaside that corals and cowrie shells adorned the beauty of the beach.
+  - 在祭祀仪式中(在祭祀儀式中)，卩虔诚跪拜(卩虔誠跪拜)。
+    - Zài jìsì yíshì zhōng, jié qiánchéng guìbài.
+    - During the ritual, the kneeling person prayed devoutly.
+  - 古代绘画多描绘卩风姿(古代繪畫多描繪卩風姿)。
+    - Gǔdài huìhuà duō miáohuì jié fēngzī.
+    - Ancient paintings often depict the posture of a kneeling person.
 ### 粽子(粽子) → 子(子)
 - **definition:** child; small thing
 - **pinyin:** zi
@@ -5803,19 +5731,19 @@
 - **pinyin:** bèi
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a cowry shell, which was used as currency in ancient China.
-  - **interpretation:** The character 貝(貝) (bèi, "cowry") visually represents a cowry shell, a valuable item used in trade and as currency in ancient Chinese societies.
-  - **simplification:** 贝(貝) is the simplified form, derived from a cursive script version of 貝(貝) (bèi, "cowry"), maintaining the visual representation while making the character faster to write.
+  - **description:**
+    - Depicts a cowrie shell ->
+    - used as currency in ancient China ->
+    - stylized as 貝
+  - **interpretation:** The character 貝(bèi, 'shell/money') visually represents a cowrie shell, which was used as a form of currency in ancient China. This explains why it is associated with money or valuables.
+  - **simplification:** 贝 is a cursive script simplification of 貝, transforming the character into a more streamlined form while retaining its essence.
 - **examples:**
-  - 古代人用貝(古代人用貝)作为货币(作為貨幣)，也用来装饰(也用來裝飾)。
-    - Gǔdài rén yòng bèi zuòwéi huòbì, yě yòng lái zhuāngshì.
-    - Ancient people used cowrie shells as currency and also for decoration.
-  - 一些古文献记载了貝(一些古文獻記載了貝)的神秘价值(的神秘價值)，激发了人们对古代文化的兴趣(激發了人們對古代文化的興趣)。
-    - Yīxiē gǔ wénxiàn jìzǎi le bèi de shénmì jiàzhí, jīfā le rénmen duì gǔdài wénhuà de xìngqù.
-    - Some ancient texts recorded the mysterious value of cowrie shells, sparking people’s interest in ancient culture.
-  - 海边曾有传说(海邊曾有傳說)，珊瑚和貝点缀着沙滩的美丽(珊瑚和貝點綴著沙灘的美麗)。
-    - Hǎibiān céng yǒu chuánshuō, shānhú hé bèi diǎnzuì zhe shātān de měilì.
-    - There was a legend by the seaside that corals and cowrie shells adorned the beauty of the beach.
+  - 他把贝(貝)当作护身符(護身符)，放在口袋里(口袋裡)。
+    - Tā bǎ bèi dāng zuò hùshēn fú, fàng zài kǒudài lǐ.
+    - He uses shells as a talisman, placing them in his pocket.
+  - 古代人用贝作为货币(古代人用貝作為貨幣)。
+    - Gǔdài rén yòng bèi zuòwéi huòbì.
+    - In ancient times, people used shells as currency.
 ---
 ## 网易(網易)
 ### Wǎng Yì
@@ -6110,26 +6038,29 @@
 - **components:**
   - 趾
     - zhǐ
-    - toe
+    - foot
+  - 龰
+    - yù
+    - stylized feet
+  - 手
+    - shǒu
+    - hand
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing upward ->
-    - originally meant 'foot'; stylized as 龰('stop') ->
-    - original meaning remains in derivative 趾(趾) (zhǐ, 'toe')
-  - **interpretation:** The character originated as a footprint pointing up, capturing the action of stopping or standing with one's foot, visually depicting the meaning of 'stop' or 'halt'. It evolved from representing a foot into symbolizing the act of stopping.
+    - Original: Foot pointing up with 3 toes and a sole ->
+    - Stylized as 龰 ->
+    - Derivative 趾 refers to original 'foot' meaning
+  - **interpretation:** Originally depicting a footprint with toes and a sole, 止(止) (zhǐ, "foot") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.
 - **examples:**
-  - 请止步(請止步)。
-    - Qǐng zhǐ bù.
-    - Please stop.
-  - 红灯亮起时(紅燈亮起時)，车辆须止驶(車輛須止駛)。
-    - Hóng dēng liàng qǐ shí, chēliàng xū zhǐ shǐ.
-    - When the red light turns on, vehicles must stop.
-  - 他的话语终将止于空谈(他的話語終將止於空談)。
-    - Tā de huàyǔ zhōng jiāng zhǐ yú kōng tán.
-    - His words will eventually come to a stop in empty talk.
+  - 他受伤的止需要静养(他受傷的止需要靜養)。
+    - Tā shòu shāng de zhǐ xū yào jìng yǎng.
+    - His injured foot needs adequate rest.
+  - 他走路时小心谨慎(他走路時小心謹慎)，因为止若受伤便难前行(因爲止若受傷便難前行)。
+    - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
+    - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
 ### 起床(起床) → 起(起) → 走(走) → 止(止) → 趾(趾)
-- **definition:** toe
+- **definition:** foot
 - **pinyin:** zhǐ
 - **components:**
   - 足
@@ -6175,6 +6106,42 @@
   - 我每天锻炼足部(我每天鍛鍊足部)。
     - wǒ měitiān duànliàn zúbù。
     - I exercise my foot muscles every day.
+### 起床(起床) → 起(起) → 走(走) → 止(止) → 龰(龰)
+- **definition:** stylized feet
+- **pinyin:** yù
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a footprint pointing up with three toes and a sole ->
+    - stylized as 龰 (龰) (yù, 'component stylization')
+  - **interpretation:** The character 龰 (龰) (yù, 'component stylization') stylizes the original pictogram of a foot with three toes and a sole, highlighting the upward orientation. This stylization serves as a basis for several other characters related to motion or elements related to feet.
+- **examples:**
+  - 这个汉字采用了精妙的龰(龰)，构法巧妙(構法巧妙)。
+    - Zhège hànzì cǎiyòngle jīngmiào de yù(龰)，gòufǎ qiǎomiào(構法巧妙)。
+    - This Chinese character employs an exquisite yù component, and its construction is ingeniously designed.
+  - 书法家研究汉字中的龰(龰)，探讨部件的美学(探討部件的美學)。
+    - Shūfǎjiā yánjiū hànzì zhōng de yù(龰)，tàn tǎo bùjiàn de měixué(探討部件的美學)。
+    - Calligraphers study the yù found in Chinese characters, exploring the aesthetics of component design.
+  - 古代篆刻作品常用龰(龰)，来凸显文字的精髓(凸顯文字的精髓)。
+    - Gǔdài zhuànkè zuòpǐn cháng yòng yù(龰)，lái túxiǎn wénzì de jīngsuǐ(凸顯文字的精髓)。
+    - Ancient seal carvings often utilized the yù to highlight the essence of the characters.
+### 起床(起床) → 起(起) → 走(走) → 止(止) → 手(手)
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手(手) (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他用手写字(他用手寫字)。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈妈牵着我的手走路(媽媽牽著我的手走路)。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
 ### 起床(起床) → 起(起) → 走(走) → 夭(夭)
 - **definition:** young
 - **pinyin:** yāo
@@ -6209,25 +6176,6 @@
   - 院子里的土(院子裡的土)，适合种花(適合種花)。
     - Yuànzi lǐ de tǔ, shìhé zhòng huā.
     - The soil in the yard is suitable for planting flowers.
-### 起床(起床) → 起(起) → 走(走) → 龰(龰)
-- **definition:** walking
-- **pinyin:** yuè
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a footprint pointing up with three toes and a sole ->
-    - stylized as 龰 (龰) (yù, 'component stylization')
-  - **interpretation:** The character 龰 (龰) (yù, 'component stylization') stylizes the original pictogram of a foot with three toes and a sole, highlighting the upward orientation. This stylization serves as a basis for several other characters related to motion or elements related to feet.
-- **examples:**
-  - 这个汉字采用了精妙的龰(龰)，构法巧妙(構法巧妙)。
-    - Zhège hànzì cǎiyòngle jīngmiào de yù(龰)，gòufǎ qiǎomiào(構法巧妙)。
-    - This Chinese character employs an exquisite yù component, and its construction is ingeniously designed.
-  - 书法家研究汉字中的龰(龰)，探讨部件的美学(探討部件的美學)。
-    - Shūfǎjiā yánjiū hànzì zhōng de yù(龰)，tàn tǎo bùjiàn de měixué(探討部件的美學)。
-    - Calligraphers study the yù found in Chinese characters, exploring the aesthetics of component design.
-  - 古代篆刻作品常用龰(龰)，来凸显文字的精髓(凸顯文字的精髓)。
-    - Gǔdài zhuànkè zuòpǐn cháng yòng yù(龰)，lái túxiǎn wénzì de jīngsuǐ(凸顯文字的精髓)。
-    - Ancient seal carvings often utilized the yù to highlight the essence of the characters.
 ### 起床(起床) → 起(起) → 巳(巳)
 - **definition:** sixth terrestrial branch
 - **pinyin:** sì
@@ -6460,15 +6408,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 酒单(酒單) → 单(單) → 田(田)
 - **definition:** field
 - **pinyin:** tián
@@ -6773,15 +6724,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 金竹果(金竹果) → 竹果(竹果)
 - **definition:** jinzhu fruit
 - **pinyin:** zhú guǒ
@@ -7084,15 +7038,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 同城(同城) → 城(城)
 - **definition:** city; town; fortress; walls
 - **pinyin:** chéng
@@ -7283,19 +7240,19 @@
 - **pinyin:** bèi
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a cowry shell, which was used as currency in ancient China.
-  - **interpretation:** The character 貝(貝) (bèi, "cowry") visually represents a cowry shell, a valuable item used in trade and as currency in ancient Chinese societies.
-  - **simplification:** 贝(貝) is the simplified form, derived from a cursive script version of 貝(貝) (bèi, "cowry"), maintaining the visual representation while making the character faster to write.
+  - **description:**
+    - Depicts a cowrie shell ->
+    - used as currency in ancient China ->
+    - stylized as 貝
+  - **interpretation:** The character 貝(bèi, 'shell/money') visually represents a cowrie shell, which was used as a form of currency in ancient China. This explains why it is associated with money or valuables.
+  - **simplification:** 贝 is a cursive script simplification of 貝, transforming the character into a more streamlined form while retaining its essence.
 - **examples:**
-  - 古代人用貝(古代人用貝)作为货币(作為貨幣)，也用来装饰(也用來裝飾)。
-    - Gǔdài rén yòng bèi zuòwéi huòbì, yě yòng lái zhuāngshì.
-    - Ancient people used cowrie shells as currency and also for decoration.
-  - 一些古文献记载了貝(一些古文獻記載了貝)的神秘价值(的神秘價值)，激发了人们对古代文化的兴趣(激發了人們對古代文化的興趣)。
-    - Yīxiē gǔ wénxiàn jìzǎi le bèi de shénmì jiàzhí, jīfā le rénmen duì gǔdài wénhuà de xìngqù.
-    - Some ancient texts recorded the mysterious value of cowrie shells, sparking people’s interest in ancient culture.
-  - 海边曾有传说(海邊曾有傳說)，珊瑚和貝点缀着沙滩的美丽(珊瑚和貝點綴著沙灘的美麗)。
-    - Hǎibiān céng yǒu chuánshuō, shānhú hé bèi diǎnzuì zhe shātān de měilì.
-    - There was a legend by the seaside that corals and cowrie shells adorned the beauty of the beach.
+  - 他把贝(貝)当作护身符(護身符)，放在口袋里(口袋裡)。
+    - Tā bǎ bèi dāng zuò hùshēn fú, fàng zài kǒudài lǐ.
+    - He uses shells as a talisman, placing them in his pocket.
+  - 古代人用贝作为货币(古代人用貝作為貨幣)。
+    - Gǔdài rén yòng bèi zuòwéi huòbì.
+    - In ancient times, people used shells as currency.
 ### 买完了(買完了) → 买(買) → 羅(羅)
 - **definition:** to net
 - **pinyin:** luó
@@ -7354,15 +7311,18 @@
 - **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a coil of silk thread
-  - **interpretation:** The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
 - **examples:**
-  - 古人用糸制作衣物(古人用糸製作衣物)。
-    - Gǔrén yòng mì zhìzuò yīwù.
-    - Ancient people used silk thread to make clothes.
-  - 他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。
-    - Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.
-    - He wove exquisite fabric with silk thread, decorating the robes of nobles.
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
 ### 买完了(買完了) → 买(買) → 羅(羅) → 維(維) → 唯(唯)
 - **definition:** only
 - **pinyin:** wéi
@@ -7395,15 +7355,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 买完了(買完了) → 买(買) → 羅(羅) → 維(維) → 唯(唯) → 隹(隹)
 - **definition:** short-tailed bird
 - **pinyin:** zhuī
@@ -7791,15 +7754,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 冰糖雪梨(冰糖雪梨) → 糖(糖) → 唐(唐) → 尙(尙) → 冋(冋) → 冖(冖)
 - **definition:** cover
 - **pinyin:** mì
@@ -7889,17 +7855,61 @@
 ### 冰糖雪梨(冰糖雪梨) → 雪(雪) → 彗(彗) → 甡(甡)
 - **definition:** broom
 - **pinyin:** shēn
+- **components:**
+  - 生
+    - shēng
+    - life, grow
 - **etymology:**
-  - **type:** unknown type
-  - **description:** Currently, insufficient information is available to provide a detailed breakdown of the character 甡(甡) (shēn, 'broom') and its components in terms of its evolution or type.
-  - **interpretation:** There is a lack of detailed information on how 甡(甡) (shēn, 'broom') evolved or its components. It is vital to consult additional resources or historical texts for a more comprehensive understanding.
+  - **type:** ideogrammic compound
+  - **description:**
+    - 生(生) (shēng, "life, grow") duplicated ->
+    - representing abundant growth or many creatures being born
+  - **interpretation:** The duplication of 生(生) (shēng, "life, grow") emphasizes the idea of multiplication and proliferation, symbolizing abundant growth or a multitude of beings emerging.
 - **examples:**
-  - 他用甡(甡)清扫庭院(清掃庭院)。
-    - Tā yòng shēn qīngsǎo tíngyuàn.
-    - He uses the broom to sweep the courtyard.
-  - 晨曦将至时(晨曦將至時)，老人挥动甡(甡)扫净石板路(掃淨石板路)。
-    - Chénxī jiāng zhì shí, lǎorén huīdòng shēn sǎojìng shíbǎnlù.
-    - As the dawn approaches, the old man waves the broom to clean the stone path.
+  - 他拿起甡(他拿起甡)，轻轻扫落叶(輕輕掃落葉)。
+    - Tā ná qǐ shēn, qīng qīng sǎo luò yè.
+    - He picked up the broom and gently swept the fallen leaves.
+  - 我买了一把甡(我買了一把甡)。
+    - Wǒ mǎi le yī bǎ shēn.
+    - I bought a broom.
+### 冰糖雪梨(冰糖雪梨) → 雪(雪) → 彗(彗) → 甡(甡) → 生(生)
+- **definition:** life, grow
+- **pinyin:** shēng
+- **components:**
+  - 屮
+    - chè
+    - sprout
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 屮(屮) (chè, "sprout") on top of a horizontal line ->
+    - signifies a plant sprouting from the ground ->
+    - symbolizes life
+  - **interpretation:** The character 生(生) (shēng, "life") represents the concept of life force or vitality, symbolized by a sprout emerging from the earth, embodying growth and renewal.
+- **examples:**
+  - 生命是一场美丽的旅程(生命是一場美麗的旅程)。
+    - Shēngmìng shì yī chǎng měilì de lǚchéng.
+    - Life is a beautiful journey.
+  - 他在战场上奋力生存(他在戰場上奮力生存)。
+    - Tā zài zhànchǎng shàng fènlì shēngcún.
+    - He fights to live on the battlefield.
+  - 这家餐厅的生鱼片非常新鲜(這家餐廳的生魚片非常新鮮)。
+    - Zhè jiā cāntīng de shēngyúpiàn fēicháng xīnxiān.
+    - The raw fish slices at this restaurant are very fresh.
+### 冰糖雪梨(冰糖雪梨) → 雪(雪) → 彗(彗) → 甡(甡) → 生(生) → 屮(屮)
+- **definition:** sprout
+- **pinyin:** chè
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a sprout emerging from the ground
+  - **interpretation:** The character 屮(屮) (chè, 'sprout') visually represents a young plant or sprout emerging upwards, emphasizing new growth or beginnings.
+- **examples:**
+  - 春风拂过山花旁(春風拂過山花旁)，一个小屮萌生新绿(一個小屮萌生新綠)。
+    - Chūnfēng fúguò shānhuā páng, yīgè xiǎo chè méngshēng xīn lǜ.
+    - A gentle spring breeze caresses the mountain flowers, and a little sprout begins to show its new green.
+  - 阳光普照屮生无限希望(陽光普照屮生無限希望)。
+    - Yángguāng pǔzhào chè shēng wúxiàn xīwàng.
+    - Sunshine makes the sprout grow with infinite hope.
 ### 冰糖雪梨(冰糖雪梨) → 雪(雪) → 彗(彗) → 又(又)
 - **definition:** hand
 - **pinyin:** yòu
@@ -8620,15 +8630,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 南锣鼓巷(南鑼鼓巷) → 锣鼓(鑼鼓) → 锣(鑼) → 罗(羅)
 - **definition:** net
 - **pinyin:** luó
@@ -8657,20 +8670,40 @@
 ### 南锣鼓巷(南鑼鼓巷) → 锣鼓(鑼鼓) → 锣(鑼) → 罗(羅) → 𦉎(𦉎)
 - **definition:** net
 - **pinyin:** wǎng
+- **components:**
+  - 网(網)
+    - wǎng
+    - net
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic component 网(网) (wǎng, 'net') + phonetic component (unlisted) =
+    - related to nets or weaving
+  - **interpretation:** This character relates to nets or weaving due to its semantic component 网(网) (wǎng, 'net'). However, it is rare and often supplanted by simpler forms.
+- **examples:**
+  - 渔民用𦉎捕鱼(漁民用𦉎捕魚)。
+    - Yúmín yòng wǎng bǔ yú.
+    - The fisherman uses a net to catch fish.
+  - 他编了一个新的𦉎(他編了一個新的𦉎)，用来捕捉小鱼(用來捕捉小魚)。
+    - Tā biān le yīgè xīn de wǎng, yòng lái bǔzhuō xiǎoyú.
+    - He wove a new net for catching small fish.
+### 南锣鼓巷(南鑼鼓巷) → 锣鼓(鑼鼓) → 锣(鑼) → 罗(羅) → 𦉎(𦉎) → 网(網)
+- **definition:** net
+- **pinyin:** wǎng
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a net, resembling the structure of interconnected ropes
-  - **interpretation:** 𦉎(𦉎) (wǎng, "net") is an ancient pictogram that visually represents the structure of a net, with crisscrossing lines symbolizing the ropes or cords used to form nets.
+  - **description:**
+    - Depicts a net with crossing lines or mesh ->
+    - symbol for 'net'
+  - **interpretation:** The character 网(網) (wǎng, 'net') visually represents a net with lines intersecting to form a grid, making it intuitive as a symbol for a net or mesh.
+  - **simplification:** The simplified character 网 (wǎng) retains the essential visual structure of intersecting lines to depict a net. It conveys the idea of a net through a simplified representation without additional semantic or phonetic elements.
 - **examples:**
-  - 渔夫修补了他的𦉎(漁夫修補了他的𦉎)，准备用来捕鱼(準備用來捕魚)。
-    - Yúfū xiūbǔ le tā de wǎng, zhǔnbèi yòng lái bǔ yú。
-    - The fisherman repaired his net and was ready to catch fish.
-  - 孩子们在海边玩耍时(孩子們在海邊玩耍時)，用沙子做成一个小小的𦉎(用沙子做成一個小小的𦉎)。
-    - Háizimen zài hǎibiān wánshuǎ shí, yòng shāzi zuòchéng yī gè xiǎoxiǎo de wǎng。
-    - While playing at the seaside, the children made a small net out of sand.
-  - 古人使用𦉎(古人使用𦉎)，捕捉珍稀鱼类(捕捉珍稀魚類)。
-    - Gǔrén shǐyòng wǎng, bǔzhuō zhēnxī yúlèi。
-    - Ancient people used nets to catch rare fish.
+  - 他用网捕鱼(他用網捕魚)，快乐满怀(快樂滿懷)。
+    - Tā yòng wǎng bǔ yú, kuàilè mǎn huái.
+    - He fishes with a net and is full of joy.
+  - 很多信息通过网传播(很多信息通過網傳播)，速度惊人(速度驚人)。
+    - Hěn duō xìnxī tōngguò wǎng chuánbō, sùdù jīngrén.
+    - A lot of information spreads through the net with astonishing speed.
 ### 南锣鼓巷(南鑼鼓巷) → 锣鼓(鑼鼓) → 锣(鑼) → 罗(羅) → 維(維)
 - **definition:** bird tied with string
 - **pinyin:** wéi
@@ -8701,15 +8734,18 @@
 - **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a coil of silk thread
-  - **interpretation:** The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.
+  - **description:** Depicts a skein of silk
+  - **interpretation:** 糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.
 - **examples:**
-  - 古人用糸制作衣物(古人用糸製作衣物)。
-    - Gǔrén yòng mì zhìzuò yīwù.
-    - Ancient people used silk thread to make clothes.
-  - 他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。
-    - Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.
-    - He wove exquisite fabric with silk thread, decorating the robes of nobles.
+  - 糸是纺织品的基础材料(絲是紡織品的基礎材料)。
+    - sī shì fǎngzhīpǐn de jīchǔ cáiliào.
+    - Silk is the basic material for textiles.
+  - 古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。
+    - gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.
+    - Ancient people used silk to make gorgeous clothes, symbolizing status and rank.
+  - 古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。
+    - gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.
+    - Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship.
 ### 南锣鼓巷(南鑼鼓巷) → 锣鼓(鑼鼓) → 锣(鑼) → 罗(羅) → 維(維) → 唯(唯)
 - **definition:** only
 - **pinyin:** wéi
@@ -8867,15 +8903,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 南锣鼓巷(南鑼鼓巷) → 巷(巷) → 共(共) → 廿(廿)
 - **definition:** ten
 - **pinyin:** niàn
@@ -9062,15 +9101,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 发呆(發呆) → 呆(呆) → 木(木)
 - **definition:** tree
 - **pinyin:** mù
@@ -9171,15 +9213,18 @@
 - **pinyin:** kǒu
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an open mouth
-  - **interpretation:** The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
 - **examples:**
-  - 我家有三口人(我家有三口人)。
-    - Wǒ jiā yǒu sān kǒu rén.
-    - My family has three members.
-  - 地处河口的平台很美丽(地處河口的平台很美麗)。
-    - Dì chǔ hé kǒu de píngtái hěn měilì.
-    - The platform located at the river's mouth is beautiful.
+  - 他张开口(他張開口)，大声喊叫(大聲喊叫)。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这口饭入口即化(這口飯入口即化)。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ### 呷哺呷哺(呷哺呷哺) → 呷哺(呷哺) → 呷(呷) → 甲(甲)
 - **definition:** armor
 - **pinyin:** jiǎ

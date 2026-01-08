@@ -1,0 +1,44 @@
+{
+  "simplified": "好的",
+  "traditional": "好的",
+  "pinyin": "hǎo de",
+  "english": "ok; all right",
+  "etymology": {
+    "type": "compound word",
+    "description": "好(好) (hǎo, \"good\") + 的(的) (de, \"particle used for emphasis or possession\")",
+    "interpretation": "好的 (hǎo de) is used to indicate agreement or affirmation, similarly to saying 'okay' or 'alright' in English. The character 好(好) (hǎo, \"good\") conveys a positive response, while 的(的) (de) is a particle that adds emphasis, making the phrase a polite and affirmative reply.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; fine; well"
+    },
+    {
+      "char": "的",
+      "trad": "的",
+      "pinyin": "de",
+      "english": "particle used for emphasis or possession"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们明天见(我們明天見)，好的(好的)。",
+      "pinyin": "wǒmen míngtiān jiàn, hǎo de.",
+      "english": "We will meet tomorrow, alright."
+    },
+    {
+      "chinese": "听到消息后(聽到消息後)，我说好的(我說好的)。",
+      "pinyin": "tīngdào xiāoxī hòu, wǒ shuō hǎo de.",
+      "english": "After hearing the news, I said alright."
+    },
+    {
+      "chinese": "如果你答应帮忙(如果你答應幫忙)，我会说好的(我會說好的)。",
+      "pinyin": "rúguǒ nǐ dāyìng bāngmáng, wǒ huì shuō hǎo de.",
+      "english": "If you agree to help, I will say okay."
+    }
+  ]
+}

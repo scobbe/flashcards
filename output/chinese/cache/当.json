@@ -1,0 +1,44 @@
+{
+  "simplified": "当",
+  "traditional": "當",
+  "pinyin": "dāng",
+  "english": "to be; to work as",
+  "etymology": {
+    "type": "Unorthodox variant of 當 / 当 . From cursive script .",
+    "description": "尚(尚) (shàng, \"still\") + 田(田) (tián, \"field\") = fields facing each other -> to face directly; to be",
+    "interpretation": "The character 當(当) (dāng, \"to be\") originated as a phono-semantic compound combining 尚(尚) (shàng, \"still\") for phonetic purposes with 田(田) (tián, \"field\") for semantic clues. The idea of fields facing each other represents facing responsibilities or a position directly. The simplified 当 is based on a cursive script of 當.",
+    "simplification": "当 is a cursive simplification of 當, streamlining the strokes for easier writing."
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "still"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他当医生(他當醫生)。",
+      "pinyin": "Tā dāng yīshēng.",
+      "english": "He works as a doctor."
+    },
+    {
+      "chinese": "她当老师(她當老師)，辅导学生(輔導學生)。",
+      "pinyin": "Tā dāng lǎoshī, fǔdǎo xuéshēng.",
+      "english": "She works as a teacher, tutoring students."
+    },
+    {
+      "chinese": "我当志愿者(我當志願者)，服务社会(服務社會)。",
+      "pinyin": "Wǒ dāng zhìyuànzhě, fúwù shèhuì.",
+      "english": "I work as a volunteer, serving society."
+    }
+  ]
+}

@@ -4,30 +4,28 @@
   "pinyin": "qí",
   "english": "together",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 齒(齒) (chǐ, \"teeth\") + phonetic: 齊 ○ usually written as 齐(齊) from Ancient Scripts = teeth arranged together -> aligned -> together",
-    "interpretation": "The character 齊(齊) (qí, \"together\") originates from the idea of teeth being aligned or arranged in a uniform way. This aligns with the broader sense of the character representing things coming together or being in order.",
-    "simplification": "齐(齊) was chosen as a simplified form due to its simpler strokes, reducing 齊's complexity while keeping a similar upper structure that resembles the original."
+    "type": "pictogram",
+    "description": "Depicts grain heads growing evenly at the same height -> represents uniformity and equality -> used for 'together'",
+    "interpretation": "The character 齊(齊) (qí, \"together\") was originally a pictogram showing grains at the same level, symbolizing the concept of uniformity and togetherness.",
+    "simplification": ""
   },
-  "parts": [
-    {
-      "char": "齒",
-      "trad": "齒",
-      "pinyin": "chǐ",
-      "english": "teeth"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们齐心协力(我們齊心協力)，共创美好未来(共創美好未來)。",
-      "pinyin": "Wǒmen qíxīn xiélì, gòng chuàng měihǎo wèilái.",
-      "english": "We work together with one heart to create a bright future."
+      "chinese": "我们齐心协力(我們齊心協力)，实现梦想(實現夢想)。",
+      "pinyin": "Wǒmen qí xīn xiélì, shíxiàn mèngxiǎng.",
+      "english": "We work together to achieve our dreams."
     },
     {
-      "chinese": "大家齐聚一堂(大家齊聚一堂)，分享欢乐时光(分享歡樂時光)。",
-      "pinyin": "Dàjiā qí jù yītáng, fēnxiǎng huānlè shíguāng.",
-      "english": "Everyone gathers together under one roof to share joyful moments."
+      "chinese": "大家齐聚一堂(大家齊聚一堂)，分享快乐(分享快樂)。",
+      "pinyin": "Dàjiā qí jù yī táng, fēnxiǎng kuàilè.",
+      "english": "Everyone gathers together to share happiness."
+    },
+    {
+      "chinese": "朋友们齐上阵(朋友們齊上陣)，共创辉煌(共創輝煌)。",
+      "pinyin": "Péngyǒumen qí shàng zhèn, gòng chuàng huīhuáng.",
+      "english": "Friends join forces together to create brilliance."
     }
   ]
 }

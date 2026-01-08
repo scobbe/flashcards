@@ -1,0 +1,44 @@
+{
+  "simplified": "吧",
+  "traditional": "吧",
+  "pinyin": "ba",
+  "english": "modal particle indicating suggestion or urging",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") as semantic indicator + 巴(巴) (bā, \"cling\") as phonetic component = speech or spoken suggestion -> modal particle \"ba\"",
+    "interpretation": "The character 吧 incorporates 口(口) (kǒu, \"mouth\") to emphasize its connection to speech, while 巴(巴) (bā, \"cling\") provides the pronunciation clue. It is used to express urging or suggestion in conversation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "cling"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们走吧(我們走吧)。",
+      "pinyin": "Wǒmen zǒu ba.",
+      "english": "Let's go."
+    },
+    {
+      "chinese": "不如试一试吧(不如試一試吧)，享受过程吧(享受過程吧)。",
+      "pinyin": "Bùrú shì yì shì ba, xiǎngshòu guòchéng ba.",
+      "english": "How about giving it a try, and enjoy the process."
+    },
+    {
+      "chinese": "明天早点出发吧(明天早点出發吧)。",
+      "pinyin": "Míngtiān zǎodiǎn chūfā ba.",
+      "english": "Let's set off early tomorrow."
+    }
+  ]
+}

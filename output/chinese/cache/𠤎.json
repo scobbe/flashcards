@@ -4,9 +4,9 @@
   "pinyin": "rén",
   "english": "person",
   "etymology": {
-    "type": "Ideogrammic compound",
-    "description": "人(人) (rén, \"person\") upright + 人(人) (rén, \"person\") upside down = reversal; change -> ancient form of 化(化) (huà, \"change\")",
-    "interpretation": "The character 𠤎 represents the concept of change or transformation by depicting two 人(人) (rén, \"person\") characters, one upright and one upside down, symbolizing a reversal or transformation.",
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") upright + 人(人) (rén, \"person\") upside down (𠤎) = reversal; change -> 化(化) (huà, \"transform\")",
+    "interpretation": "𠤎 is an ancient form of 化(化) (huà, \"transform\"), depicting two 人(人) (rén, \"person\"), one upright and one inverted, symbolizing change or transformation.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,28 @@
       "english": "person"
     },
     {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "这个𠤎很聪明(這個𠤎很聰明)。",
-      "pinyin": "Zhè gè rén hěn cōngmíng.",
-      "english": "This person is very intelligent."
+      "chinese": "𠤎是一位仁爱的人(𠤎是一位仁愛的人)。",
+      "pinyin": "Rén shì yī wèi rén ài de rén.",
+      "english": "The person is a kind-hearted individual."
     },
     {
-      "chinese": "他从不放弃(他從不放棄)，因为每个𠤎都有无限可能(因為每個𠤎都有無限可能)。",
-      "pinyin": "Tā cóng bù fàngqì, yīnwèi měi gè rén dōu yǒu wúxiàn kěnéng.",
-      "english": "He never gives up because every person has unlimited potential."
+      "chinese": "这个𠤎勤劳勇敢(這個𠤎勤勞勇敢)，追寻梦想(追尋夢想)。",
+      "pinyin": "Zhège rén qínláo yǒnggǎn, zhuīxún mèngxiǎng.",
+      "english": "This person is hardworking and brave, pursuing dreams."
+    },
+    {
+      "chinese": "那位𠤎博览群书(那位𠤎博覽羣書)，怀抱梦想(懷抱夢想)。",
+      "pinyin": "Nà wèi rén bó lǎn qún shū, huái bào mèngxiǎng.",
+      "english": "That person has read extensively and cherishes dreams."
     }
   ]
 }

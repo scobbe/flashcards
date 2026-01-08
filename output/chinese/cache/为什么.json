@@ -1,0 +1,39 @@
+{
+  "simplified": "为什么",
+  "traditional": "為什麼",
+  "pinyin": "wèishénme",
+  "english": "why?",
+  "etymology": {
+    "type": "compound word",
+    "description": "为(為) (wèi, \"for\") provides a context or reason, and 什么(什麼) (shénme, \"what\") asks a question or seeks further information. Combined, 为什么(為什麼) (wèishénme) asks for the reason or purpose behind something, essentially translating to \"why\".",
+    "interpretation": "为什么(為什麼) (wèishénme) is used to inquire about the reason or purpose behind an action or situation. It reflects the use of questions in Chinese to seek understanding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "为",
+      "trad": "為",
+      "pinyin": "wèi",
+      "english": "for; on account of; because of"
+    },
+    {
+      "char": "什么",
+      "trad": "什麼",
+      "pinyin": "shénme",
+      "english": "what; what kind of; how many"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你为什么生气(你為什麼生氣)？",
+      "pinyin": "Nǐ wèishénme shēngqì?",
+      "english": "Why are you angry?"
+    },
+    {
+      "chinese": "他问我为什么不参加(他問我為什麼不參加)，我不知道(我不知道)。",
+      "pinyin": "Tā wèn wǒ wèishénme bù cānjiā, wǒ bù zhīdào.",
+      "english": "He asked me why I didn't participate, and I didn't know."
+    }
+  ]
+}

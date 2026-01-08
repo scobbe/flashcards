@@ -4,23 +4,30 @@
   "pinyin": "shēn",
   "english": "broom",
   "etymology": {
-    "type": "unknown type",
-    "description": "Currently, insufficient information is available to provide a detailed breakdown of the character 甡(甡) (shēn, 'broom') and its components in terms of its evolution or type.",
-    "interpretation": "There is a lack of detailed information on how 甡(甡) (shēn, 'broom') evolved or its components. It is vital to consult additional resources or historical texts for a more comprehensive understanding.",
+    "type": "ideogrammic compound",
+    "description": "生(生) (shēng, \"life, grow\") duplicated -> representing abundant growth or many creatures being born",
+    "interpretation": "The duplication of 生(生) (shēng, \"life, grow\") emphasizes the idea of multiplication and proliferation, symbolizing abundant growth or a multitude of beings emerging.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "life, grow"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他用甡(甡)清扫庭院(清掃庭院)。",
-      "pinyin": "Tā yòng shēn qīngsǎo tíngyuàn.",
-      "english": "He uses the broom to sweep the courtyard."
+      "chinese": "他拿起甡(他拿起甡)，轻轻扫落叶(輕輕掃落葉)。",
+      "pinyin": "Tā ná qǐ shēn, qīng qīng sǎo luò yè.",
+      "english": "He picked up the broom and gently swept the fallen leaves."
     },
     {
-      "chinese": "晨曦将至时(晨曦將至時)，老人挥动甡(甡)扫净石板路(掃淨石板路)。",
-      "pinyin": "Chénxī jiāng zhì shí, lǎorén huīdòng shēn sǎojìng shíbǎnlù.",
-      "english": "As the dawn approaches, the old man waves the broom to clean the stone path."
+      "chinese": "我买了一把甡(我買了一把甡)。",
+      "pinyin": "Wǒ mǎi le yī bǎ shēn.",
+      "english": "I bought a broom."
     }
   ]
 }

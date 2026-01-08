@@ -2,30 +2,38 @@
   "simplified": "冕",
   "traditional": "冕",
   "pinyin": "miǎn",
-  "english": "ceremonial hat",
+  "english": "crown",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a ceremonial hat with a flat top and broad brim -> symbolic of authority and rank",
-    "interpretation": "The character 冕(miǎn, 'ceremonial hat') illustrates the structure and appearance of a traditional ceremonial hat, which served as a symbol of authority and rank in ancient China.",
+    "type": "phono-semantic compound",
+    "description": "Semantic 冃(冃) (mào, \"hat\") + phonetic 免(免) (miǎn) = ceremonial crown worn by nobles -> crown",
+    "interpretation": "The character 冕(miǎn, \"crown\") combines 冃(冃) (mào, \"hat\") as a semantic component to signify headwear, with 免(免) (miǎn) providing the phonetic sound, capturing the concept of an ornate crown used in formal ceremonies.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
+  "parts": [
+    {
+      "char": "冃",
+      "trad": "冃",
+      "pinyin": "mào",
+      "english": "hat"
+    },
+    {
+      "char": "免",
+      "trad": "免",
+      "pinyin": "miǎn",
+      "english": "exempt"
+    }
+  ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "皇帝头戴冕(皇帝頭戴冕)。",
-      "pinyin": "Huángdì tóu dài miǎn.",
-      "english": "The emperor wears a ceremonial hat."
+      "chinese": "皇帝戴冕(皇帝戴冕)。",
+      "pinyin": "Huángdì dài miǎn.",
+      "english": "The emperor wears a crown."
     },
     {
-      "chinese": "古时宫廷礼仪森严(古時宮廷禮儀森嚴)，官员参加登基典礼时必须佩冕(官員參加登基典禮時必須佩冕)。",
-      "pinyin": "Gǔshí gōngtíng lǐyí sēn yán, guānyuán cānjiā dēngjī diǎnlǐ shí bìxū pèi miǎn.",
-      "english": "In ancient times, when palace rituals were strict, officials had to wear the hat during enthronement ceremonies."
-    },
-    {
-      "chinese": "学者研读史书时常提及帝王冕(學者研讀史書時常提及帝王冕)。",
-      "pinyin": "Xuézhě yándú shǐshū shícháng tíjí dìwáng miǎn.",
-      "english": "Scholars often refer to the imperial hat when studying historical texts."
+      "chinese": "上朝时欣赏冕(上朝時欣賞冕)，庆典中彰显荣耀(慶典中彰顯榮耀)。",
+      "pinyin": "Shàngcháo shí xīnshǎng miǎn, qìngdiǎn zhōng zhāngxiǎn róngyào.",
+      "english": "During the morning court, the crown is admired, and in the celebration, it symbolizes glory."
     }
   ]
 }

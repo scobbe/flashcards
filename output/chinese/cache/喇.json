@@ -5,8 +5,8 @@
   "english": "horn; sound of a trumpet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 辣(辣) (là, \"spicy\") as phonetic = sound association with mouth -> trumpet sound",
-    "interpretation": "The character 喇(lǎ, \"horn\") combines the mouth radical 口(口) (kǒu, \"mouth\") with a phonetic component 辣(辣) (là), indicating sound production related to wind instruments like trumpets.",
+    "description": "口 (kǒu, \"mouth\") provides semantic meaning related to sound or speaking + 剌 (là) provides phonetic component -> used in terms for trumpet sound and as a transcription component",
+    "interpretation": "The character 喇(lǎ, \"horn\") combines the semantic element 口(kǒu, \"mouth\"), indicating a relation to sound or speech, with the phonetic element 剌(là), to form meanings related to musical instruments and loanwords like \"trumpet\" and \"lama.\"",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "mouth"
     },
     {
-      "char": "辣",
-      "trad": "辣",
+      "char": "剌",
+      "trad": "剌",
       "pinyin": "là",
-      "english": "spicy"
+      "english": "distinct"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "号角发出清脆的喇响(號角發出清脆的喇響)。",
-      "pinyin": "Hàojiǎo fāchū qīngcuì de lǎ xiǎng.",
-      "english": "The trumpet produced a clear, ringing sound."
+      "chinese": "音乐家吹响喇(音樂家吹響喇)，全场顿时安静(全場頓時安靜)。",
+      "pinyin": "Yīn yuè jiā chuī xiǎng lǎ, quán chǎng dùn shí ān jìng.",
+      "english": "The musician blew the horn, and the whole venue fell silent."
     },
     {
-      "chinese": "战鼓隆隆作响时(戰鼓隆隆作響時)，喇声随风传来(喇聲隨風傳來)。",
-      "pinyin": "Zhàngǔ lónglóng zuòxiǎng shí, lǎ shēng suí fēng chuán lái.",
-      "english": "When the battle drums roared, the sound of the horn spread with the wind."
+      "chinese": "古镇巷口传出喇的悠扬声音(古鎮巷口傳出喇的悠揚聲音)。",
+      "pinyin": "Gǔ zhèn xiàng kǒu chuán chū lǎ de yōu yáng shēng yīn.",
+      "english": "From the alley of the ancient town came the melodious sound of the horn."
     },
     {
-      "chinese": "古代仪式上(古代儀式上)，喇声悠扬回荡(喇聲悠揚迴蕩)。",
-      "pinyin": "Gǔdài yíshì shàng, lǎ shēng yōuyáng huídàng.",
-      "english": "During ancient ceremonies, the sound of the horn resonated gracefully."
+      "chinese": "战场上响起喇的急促鸣响(戰場上響起喇的急促鳴響)，令敌军心生恐惧(令敵軍心生恐懼)。",
+      "pinyin": "Zhàn chǎng shàng xiǎng qǐ lǎ de jí cù míng xiǎng, lìng dí jūn xīn shēng kǒng jù.",
+      "english": "On the battlefield, the sharp blast of the horn instilled fear in the enemy troops."
     }
   ]
 }

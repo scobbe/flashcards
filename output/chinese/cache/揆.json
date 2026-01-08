@@ -5,8 +5,8 @@
   "english": "measure",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "扌(扌) (shǒu, \"hand\") + 奎(奎) (kuí, phonetic) = action related to using hands -> measure",
-    "interpretation": "This character combines 扌(扌) (shǒu, \"hand\") indicating an action with 奎(奎) (kuí), which lends its sound. The action of using hands is intuitively connected to the concept of measuring or assessing something.",
+    "description": "扌(shǒu, \"hand\") + 癸(guǐ, phonetic) = actions involving the hand, associated with measurement or management -> measure",
+    "interpretation": "Combining 扌(shǒu, \"hand\") signifies the character's association with manual activities, while 癸(guǐ) provides the sound, forming its meaning related to managing or measuring, often in formal or literary settings.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,28 @@
       "english": "hand"
     },
     {
-      "char": "奎",
-      "trad": "奎",
-      "pinyin": "kuí",
-      "english": "phonetic"
+      "char": "癸",
+      "trad": "癸",
+      "pinyin": "guǐ",
+      "english": ""
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他揆事的方法独到(他揆事的方法獨到)。",
-      "pinyin": "Tā kuí shì de fāngfǎ dúdào.",
-      "english": "His method of measuring matters is unique."
+      "chinese": "他揆前路(他揆前路)，决定谨慎行事(決定謹慎行事)。",
+      "pinyin": "Tā kuí qiánlù, juédìng jǐnshèn xíngshì.",
+      "english": "He measured the road ahead and decided to act cautiously."
     },
     {
-      "chinese": "学者揆古今典籍(學者揆古今典籍)，以求真理(以求真理)。",
-      "pinyin": "Xuézhě kuí gǔjīn diǎnjí, yǐ qiú zhēnlǐ.",
-      "english": "The scholar measures the classics of ancient and modern times in order to seek truth."
+      "chinese": "专家揆局势(專家揆局勢)，谋划对策(謀劃對策)。",
+      "pinyin": "Zhuānjiā kuí júshì, móuhuà duìcè.",
+      "english": "The expert measured the situation and planned countermeasures."
+    },
+    {
+      "chinese": "他们揆量时间(他們揆量時間)，规划好日程(規劃好日程)。",
+      "pinyin": "Tāmen kuí liàng shíjiān, guīhuà hǎo rìchéng.",
+      "english": "They measured the time and arranged a proper schedule."
     }
   ]
 }

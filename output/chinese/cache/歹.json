@@ -1,0 +1,33 @@
+{
+  "simplified": "歹",
+  "traditional": "歹",
+  "pinyin": "dǎi",
+  "english": "carcass",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts human remains -> related to 歺(歺) as an intermediate variant",
+    "interpretation": "歹(dǎi, \"carcass\") is a pictorial representation of human remains. The character preserves an ancient form that visually suggests its meaning, and is related to the intermediate variant 歺(歺).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歺",
+      "trad": "歺",
+      "pinyin": "è",
+      "english": "variant form of 歹"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在树林中发现一具歹(他在樹林中發現一具歹)。",
+      "pinyin": "Tā zài shùlín zhōng fāxiàn yī jù dǎi.",
+      "english": "He discovered a carcass in the woods."
+    },
+    {
+      "chinese": "雨后天晴时(雨後天晴時)，村边野地露出一具歹(村邊野地露出一具歹)。",
+      "pinyin": "Yǔ hòu tiān qíng shí, cūn biān yě dì lù chū yī jù dǎi.",
+      "english": "After the rain, when the weather cleared, a carcass appeared on the village outskirts."
+    }
+  ]
+}

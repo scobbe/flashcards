@@ -1,0 +1,44 @@
+{
+  "simplified": "是啊",
+  "traditional": "是啊",
+  "pinyin": "shì a",
+  "english": "yeah; that's right",
+  "etymology": {
+    "type": "compound word",
+    "description": "是(是) (shì, \"is; are; yes\") + 啊(啊) (a, \"ah; particle used to express a modal tone\")",
+    "interpretation": "是啊 is a casual affirmation or agreement, essentially saying 'yes, that's right.' 是(是) (shì, \"is; are; yes\") confirms a statement, while 啊(啊) (a, \"ah; particle used to express a modal tone\") adds emphasis or a casual tone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "is; are; yes"
+    },
+    {
+      "char": "啊",
+      "trad": "啊",
+      "pinyin": "a",
+      "english": "ah; particle used to express a modal tone"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个答案很正确(這個答案很正確)，是啊(是啊)。",
+      "pinyin": "Zhè ge dá àn hěn zhèng què, shì a.",
+      "english": "This answer is correct; yeah."
+    },
+    {
+      "chinese": "今天的天气很好(今天的天氣很好)，是啊(是啊)。",
+      "pinyin": "Jīn tiān de tiān qì hěn hǎo, shì a.",
+      "english": "The weather is very nice today; that's right."
+    },
+    {
+      "chinese": "你说得对(你說得對)，是啊(是啊)。",
+      "pinyin": "Nǐ shuō de duì, shì a.",
+      "english": "You are right; exactly."
+    }
+  ]
+}

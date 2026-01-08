@@ -1,0 +1,50 @@
+{
+  "simplified": "𠬞",
+  "traditional": "𠬞",
+  "pinyin": "hands",
+  "english": "hands",
+  "etymology": {
+    "type": "variant form",
+    "description": "𠬞 is a variant form of 拱(拱) (gǒng, \"to cup hands\") -> Ideogrammic: 扌(扌) (shǒu, \"hand\") + phonetic 共(共) (gòng, \"together\")",
+    "interpretation": "𠬞 is an alternative form of 拱(拱) (gǒng, \"to cup hands\") and similarly represents two hands coming together, using 扌(扌) (shǒu, \"hand\") for the semantic component and 共(共) (gòng, \"together\") for the phonetic similarity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "拱",
+      "trad": "拱",
+      "pinyin": "gǒng",
+      "english": "to cup hands"
+    },
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的𠬞很灵活(他的𠬞很靈活)。",
+      "pinyin": "Tā de shǒu hěn línghuó.",
+      "english": "His hands are very agile."
+    },
+    {
+      "chinese": "妈妈用𠬞做饭(媽媽用𠬞做飯)。",
+      "pinyin": "Māmā yòng shǒu zuò fàn.",
+      "english": "Mother cooks with her hands."
+    },
+    {
+      "chinese": "他举起𠬞(他舉起𠬞)，帮助孩子站起来(幫助孩子站起來)。",
+      "pinyin": "Tā jǔ qǐ shǒu, bāngzhù háizi zhàn qǐlái.",
+      "english": "He raised his hands, helping the child stand up."
+    }
+  ]
+}

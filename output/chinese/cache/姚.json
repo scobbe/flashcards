@@ -5,8 +5,8 @@
   "english": "handsome; elegant",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "女(女) (nǚ, \"woman\") + phonetic: 兆(兆) (zhào, \"omen\") = woman with an elegant omen -> handsome; elegant",
-    "interpretation": "The character 姚(yáo) cleverly combines a reference to femininity through 女(女) (nǚ, \"woman\") with the phonetic and suggestive element 兆(兆) (zhào, \"omen\"), suggesting a woman associated with elegance or beauty.",
+    "description": "女(女) (nǚ, \"woman\") + 兆(兆) (zhào, phonetic) = semantic component 'woman' with phonetic 'zhào' -> used as a clan name and surname -> denotes 'handsome; elegant'",
+    "interpretation": "The character 姚(yáo) conveys elegance by combining the semantic element 女(女) (nǚ, \"woman\") with the phonetic element 兆(兆) (zhào), indicating that this term historically relates to qualities associated with women, later extended to mean 'handsome' or 'elegant.'",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,20 @@
       "char": "兆",
       "trad": "兆",
       "pinyin": "zhào",
-      "english": "omen"
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他长得十分姚(他長得十分姚)。",
-      "pinyin": "Tā zhǎng de shífēn yáo.",
-      "english": "He is extremely handsome."
+      "chinese": "他外貌姚(他外貌姚)。",
+      "pinyin": "tā wàimào yáo.",
+      "english": "He has a handsome appearance."
     },
     {
-      "chinese": "她穿着旗袍(她穿著旗袍)，显得尤为姚(顯得尤爲姚)。",
-      "pinyin": "Tā chuānzhuó qípáo, xiǎnde yóuwéi yáo.",
-      "english": "She wears a cheongsam and appears particularly elegant."
+      "chinese": "他不仅外貌姚(他不僅外貌姚)，气质也姚(氣質也姚)。",
+      "pinyin": "tā bù jǐn wàimào yáo, qìzhì yě yáo.",
+      "english": "Not only does he have a handsome appearance, but his temperament is also elegant."
     }
   ]
 }

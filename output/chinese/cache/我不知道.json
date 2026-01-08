@@ -1,0 +1,50 @@
+{
+  "simplified": "我不知道",
+  "traditional": "我不知道",
+  "pinyin": "wǒ bù zhīdào",
+  "english": "I don't know",
+  "etymology": {
+    "type": "compound word",
+    "description": "我(我) (wǒ, \"I\"), 不(不) (bù, \"not\"), 知道(知道) (zhīdào, \"know\")",
+    "interpretation": "The phrase 我不知道 (wǒ bù zhīdào) literally translates to \"I not know,\" indicating a lack of knowledge or information about something. It is a straightforward phrase used to express not knowing or being unaware.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "我",
+      "trad": "我",
+      "pinyin": "wǒ",
+      "english": "I; me"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no"
+    },
+    {
+      "char": "知道",
+      "trad": "知道",
+      "pinyin": "zhīdào",
+      "english": "know; aware"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我不知道(我不知道)。",
+      "pinyin": "Wǒ bù zhīdào.",
+      "english": "I don't know."
+    },
+    {
+      "chinese": "他问我答案(他問我答案)，我不知道(我不知道)。",
+      "pinyin": "Tā wèn wǒ dá'àn, wǒ bù zhīdào.",
+      "english": "He asks me for the answer, I don't know."
+    },
+    {
+      "chinese": "每次被问到问题时(每次被問到問題時)，我总是回答我不知道(我總是回答我不知道)。",
+      "pinyin": "Měi cì bèi wèn dào wèntí shí, wǒ zǒng shì huídá wǒ bù zhīdào.",
+      "english": "Every time I'm asked a question, I always reply 'I don't know.'"
+    }
+  ]
+}

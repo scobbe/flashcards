@@ -1,0 +1,39 @@
+{
+  "simplified": "一下",
+  "traditional": "一下",
+  "pinyin": "yíxià",
+  "english": "a moment; a while",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one\") and 下(下) (xià, \"down; below; verb modifier indicating brief or informal action\") combine to form 一下(一下) (yíxià, \"a moment; a while\"). The character 一(一) (yī) signifies singularity, while 下(下) (xià) modifies actions or states to indicate brevity or informality.",
+    "interpretation": "The combination suggests an action or state that occurs for a brief moment, essentially indicating 'a short while' or 'for a bit'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "down; below; verb modifier indicating brief or informal action"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我休息一下(我休息一下)。",
+      "pinyin": "Wǒ xiūxí yíxià.",
+      "english": "I'll rest for a moment."
+    },
+    {
+      "chinese": "请你等一下(請你等一下)，马上回来(馬上回來)。",
+      "pinyin": "Qǐng nǐ děng yíxià, mǎshàng huílái.",
+      "english": "Please wait a moment, I'll be right back."
+    }
+  ]
+}

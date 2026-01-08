@@ -1,0 +1,44 @@
+{
+  "simplified": "抱",
+  "traditional": "抱",
+  "pinyin": "bào",
+  "english": "hold; embrace",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌 (hand) + 包 (wrap) = hold in one’s hands -> embrace",
+    "interpretation": "The character 抱(bào, \"hold; embrace\") combines 扌 (shǒu, \"hand\") with 包 (bāo, \"wrap\") to convey the action of holding or wrapping something in one's hands, indicating an embrace.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈抱着宝宝(媽媽抱著寶寶)。",
+      "pinyin": "Māmā bào zhe bǎobǎo.",
+      "english": "Mom embraces the baby."
+    },
+    {
+      "chinese": "他经过多年的分别时(他經過多年的分別時)，激动地紧紧抱住朋友(激動地緊緊抱住朋友)。",
+      "pinyin": "Tā jīngguò duōnián de fēnbié shí, jīdòng de jǐn jǐn bào zhù péngyǒu.",
+      "english": "When he reunited with his friend after many years, he embraced him tightly in excitement."
+    },
+    {
+      "chinese": "哥哥温柔地抱着小猫(哥哥溫柔地抱著小貓)。",
+      "pinyin": "Gēgē wēnróu de bào zhe xiǎo māo.",
+      "english": "The older brother gently holds the kitten."
+    }
+  ]
+}

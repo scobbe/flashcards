@@ -1,0 +1,33 @@
+{
+  "simplified": "昔",
+  "traditional": "昔",
+  "pinyin": "xī",
+  "english": "past",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𡿧 (disaster; floods) + 日(日) (rì, \"sun\") -> the flood submerging the sun -> represents the past",
+    "interpretation": "The character 昔(xī, \"past\") symbolizes a time when disaster, like a flood, obscures the sun, metaphorically referring to past times shrouded by events.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他常怀念昔日的美好(他常懷念昔日的美好)。",
+      "pinyin": "Tā cháng huái niàn xī rì de měi hǎo.",
+      "english": "He often cherishes the beautiful past."
+    },
+    {
+      "chinese": "那古城见证了昔时光(那古城見證了昔時光)，铺陈了历史的痕迹(鋪陳了歷史的痕跡)。",
+      "pinyin": "Nà gǔ chéng jiàn zhèng le xī shí guāng, pù chén le lì shǐ de hén jì.",
+      "english": "That ancient city witnessed the bygone days and displayed the marks of history."
+    }
+  ]
+}

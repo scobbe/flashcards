@@ -1,0 +1,44 @@
+{
+  "simplified": "恩",
+  "traditional": "恩",
+  "pinyin": "ēn",
+  "english": "en",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "因(因) (yīn, \"cause\") as phonetic + 心(心) (xīn, \"heart\") as semantic = essence of heart -> benevolence/grace",
+    "interpretation": "The character 恩(恩) (ēn, \"grace\") combines 因(因) (yīn, \"cause\") for its phonetic component with 心(心) (xīn, \"heart\") to represent the concept of grace or benevolence originating from the heart.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "因",
+      "trad": "因",
+      "pinyin": "yīn",
+      "english": "cause"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的恩情无人能忘(他的恩情無人能忘)。",
+      "pinyin": "Tā de ēnqíng wú rén néng wàng.",
+      "english": "No one can forget his benevolence."
+    },
+    {
+      "chinese": "妈妈的恩惠永存(媽媽的恩惠永存)，滋养了我们的心灵(滋養了我們的心靈)。",
+      "pinyin": "Māmā de ēnhuì yǒngcún, zīyǎngle wǒmen de xīnlíng.",
+      "english": "A mother's grace lives forever, nurturing our hearts."
+    },
+    {
+      "chinese": "接受别人的恩(接受別人的恩)，使生活充满温暖(使生活充滿溫暖)。",
+      "pinyin": "Jiēshòu biérén de ēn, shǐ shēnghuó chōngmǎn wēnnuǎn.",
+      "english": "Accepting others' kindness makes life warm."
+    }
+  ]
+}

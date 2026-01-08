@@ -1,0 +1,44 @@
+{
+  "simplified": "奧",
+  "traditional": "奧",
+  "pinyin": "ào",
+  "english": "",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "匊 (jū, \"rice in a house\") + 𠬞 (hands) = concealing and storing rice in a house -> secret, deep",
+    "interpretation": "The character depicts the idea of hiding rice within a building, suggesting a sense of depth or something hidden. This representation aligns with its meaning related to concealment or profundity.",
+    "simplification": "The simplified form 奥 is a direct and variant form of 奧 where the interior components have been reduced, likely for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "匊",
+      "trad": "匊",
+      "pinyin": "jū",
+      "english": "rice in a house"
+    },
+    {
+      "char": "𠬞",
+      "trad": "𠬞",
+      "pinyin": "hands",
+      "english": "hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学充满了未知的奥秘(科學充滿了未知的奧秘)。",
+      "pinyin": "Kēxué chōngmǎnle wèizhī de àomì.",
+      "english": "Science is filled with unknown mysteries."
+    },
+    {
+      "chinese": "他对历史的深奥知识令人惊叹(他對歷史的深奧知識令人驚嘆)。",
+      "pinyin": "Tā duì lìshǐ de shēn'ào zhīshi lìng rén jīngtàn.",
+      "english": "His profound knowledge of history is astonishing."
+    },
+    {
+      "chinese": "奥林匹克运动会激发了年轻人的梦想(奧林匹克運動會激發了年輕人的夢想)，带来了世界的团结(帶來了世界的團結)。",
+      "pinyin": "Àolínpǐkè yùndònghuì jīfāle niánqīngrén de mèngxiǎng，dài láile shìjiè de tuánjié.",
+      "english": "The Olympic Games have inspired the dreams of young people and brought about world unity."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "怎",
+  "traditional": "怎",
+  "pinyin": "zěn",
+  "english": "how; why",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "乍(乍) (zhà, \"at first\") as phonetic + 心(心) (xīn, \"heart\") as semantic = how, why (involving the heart or mind)",
+    "interpretation": "The character 怎(怎) (zěn, \"how; why\") combines the phonetic element 乍(乍) (zhà, \"at first\") with the semantic element 心(心) (xīn, \"heart\"), suggesting an inquiry or pondering involving the heart or mind, thus encapsulating the meanings 'how' or 'why'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "at first"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你怎麼解決這個問題(你怎麼解決這個問題)？",
+      "pinyin": "Nǐ zěnme jiějué zhège wèntí?",
+      "english": "How do you solve this problem?"
+    },
+    {
+      "chinese": "這怎麼可能(這怎麼可能)？",
+      "pinyin": "Zhè zěnme kěnéng?",
+      "english": "How is this possible?"
+    }
+  ]
+}

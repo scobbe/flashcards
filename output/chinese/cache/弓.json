@@ -1,0 +1,31 @@
+{
+  "simplified": "弓",
+  "traditional": "弓",
+  "pinyin": "gōng",
+  "english": "bow",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bow, showing the shape of an arched weapon",
+    "interpretation": "The character 弓(弓) (gōng, \"bow\") visually represents the curved shape of a bow, a straightforward pictogram emphasizing its physical form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "弓是古老的武器(弓是古老的武器)。",
+      "pinyin": "Gōng shì gǔlǎo de wǔqì.",
+      "english": "The bow is an ancient weapon."
+    },
+    {
+      "chinese": "他拉起弓(他拉起弓)，瞄准远处的目标(瞄準遠處的目標)。",
+      "pinyin": "Tā lā qǐ gōng, miáo zhǔn yuǎn chù de mùbiāo.",
+      "english": "He draws the bow and aims at a distant target."
+    },
+    {
+      "chinese": "女战士操纵弓(女戰士操縱弓)，迅速释放箭矢(迅速釋放箭矢)。",
+      "pinyin": "Nǚ zhànshì cāozòng gōng, xùnsù shìfàng jiànshǐ.",
+      "english": "The female warrior manipulates the bow and swiftly releases the arrows."
+    }
+  ]
+}

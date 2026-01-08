@@ -1,0 +1,26 @@
+{
+  "simplified": "甶",
+  "traditional": "甶",
+  "pinyin": "fú",
+  "english": "ghost head",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized form representing the face/head of a ghost or spirit -> possibly interpreted as a mask in historical texts",
+    "interpretation": "甶(甶) (fú, \"ghost head\") is depicted as a stylized representation of a face or mask, traditionally seen as a ghost or spirit head. It illustrates the ancient belief in spiritual apparitions that might have been used in rituals.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古宅中流传着关于甶的传说(古宅中流傳著關於甶的傳說)。",
+      "pinyin": "Gǔ zhái zhōng liú chuán zhe guān yú fú de chuán shuō.",
+      "english": "An old mansion holds a legend about the ghost head."
+    },
+    {
+      "chinese": "午夜时分阴风乍起(午夜時分陰風乍起)，惊醒了封存已久的甶(驚醒了封存已久的甶)。",
+      "pinyin": "Wǔyè shí fēn yīn fēng zhà qǐ, jīng xǐng le fēng cún yǐ jiǔ de fú.",
+      "english": "At midnight, as a sudden gust of wind stirred, it awoke the long-sealed ghost head."
+    }
+  ]
+}

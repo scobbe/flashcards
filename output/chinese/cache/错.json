@@ -1,0 +1,44 @@
+{
+  "simplified": "错",
+  "traditional": "錯",
+  "pinyin": "cuò",
+  "english": "wrong; mistake; fault; error",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") + 昔(昔) (xī, \"past\") = grindstone -> incorrect positioning of elements -> mistake",
+    "interpretation": "The character combines the metal radical 金(金) (jīn, \"metal\") with the phonetic element 昔(昔) (xī, \"past\") to represent the notion of a grindstone, which is used visually to symbolize misalignment or error, leading to the meaning of 'wrong' or 'mistake.'",
+    "simplification": "Simplified by replacing 錯(錯) (cuò, \"wrong\")'s 釒(金) (jīn, \"metal\") with 钅, a cursive variant."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "昔",
+      "trad": "昔",
+      "pinyin": "xī",
+      "english": "past"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你的答案错了(你的答案錯了)。",
+      "pinyin": "Nǐ de dá'àn cuò le.",
+      "english": "Your answer is wrong."
+    },
+    {
+      "chinese": "他虽然努力了(他雖然努力了)，结果终究错了(結果終究錯了)。",
+      "pinyin": "Tā suīrán nǔlì le, jiéguǒ zhōngjiū cuò le.",
+      "english": "Although he tried hard, he ultimately made a mistake."
+    },
+    {
+      "chinese": "犯错是学习的一部分(犯錯是學習的一部分)。",
+      "pinyin": "Fàn cuò shì xuéxí de yībùfèn.",
+      "english": "Making mistakes is a part of learning."
+    }
+  ]
+}

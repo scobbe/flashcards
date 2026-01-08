@@ -1,0 +1,50 @@
+{
+  "simplified": "於",
+  "traditional": "於",
+  "pinyin": "yú",
+  "english": "at",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Derived from ancient variant of 烏(烏) (wū, \"crow; black\")",
+    "interpretation": "The character 於(於) (yú, \"at\") evolved from an ancient variant of 烏(烏) (wū, \"crow; black\"), showing a historical phonetic borrowing unrelated to the components 方(方) (fāng, \"square\") or 㫃(㫃).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "烏",
+      "trad": "烏",
+      "pinyin": "wū",
+      "english": "crow; black"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "square"
+    },
+    {
+      "char": "㫃",
+      "trad": "㫃",
+      "pinyin": "",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他出生於北京(他出生於北京)。",
+      "pinyin": "Tā chūshēng yú Běijīng。",
+      "english": "He was born in Beijing."
+    },
+    {
+      "chinese": "会议将於明天开始(會議將於明天開始)。",
+      "pinyin": "Huìyì jiāng yú míngtiān kāishǐ。",
+      "english": "The meeting will start tomorrow."
+    },
+    {
+      "chinese": "书籍陈列於图书馆(書籍陳列於圖書館)，方便读者查找(方便讀者查找)。",
+      "pinyin": "Shūjí chénliè yú túshūguǎn, fāngbiàn dúzhě cházhǎo。",
+      "english": "The books are displayed in the library, making it convenient for readers to find them."
+    }
+  ]
+}

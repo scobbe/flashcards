@@ -5,8 +5,8 @@
   "english": "a type of halberd",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "戈(戈) (gē, \"halberd\") + 鬼(鬼) (guǐ, \"ghost\") = halberd weapon + phonetic component -> a type of halberd",
-    "interpretation": "The character 戣(戣) (kuí, \"type of halberd\") combines 戈(戈) (gē, \"halberd\") as a semantic component indicating the weapon aspect, with 鬼(鬼) (guǐ, \"ghost\") as a phonetic component to hint at its pronunciation. The use of 鬼, although seemingly unrelated in meaning, aligns with phonetic representation typical in many Chinese characters.",
+    "description": "戈(戈) (gē, \"halberd\") provides meaning + 癸(癸) (guǐ) for phonetic value -> signifies a type of ancient halberd or lance",
+    "interpretation": "The character combines the radical for 'halberd' to denote its direct association with weaponry, while the phonetic element 癸(癸) (guǐ) suggests its pronunciation. This highlights its function as a specific type of ancient weapon.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,23 @@
       "english": "halberd"
     },
     {
-      "char": "鬼",
-      "trad": "鬼",
+      "char": "癸",
+      "trad": "癸",
       "pinyin": "guǐ",
-      "english": "ghost"
+      "english": ""
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "古代将领持戣(古代將領持戣)，冲破敌阵(衝破敵陣)。",
-      "pinyin": "Gǔdài jiānglǐng chí kuí, chōngpò dí zhèn.",
-      "english": "Ancient generals wielded the kuí to break enemy lines."
+      "chinese": "将士手持戣(將士手持戣)，迎敌立下战功(迎敵立下戰功)。",
+      "pinyin": "jiāngshì shǒuchí kuí, yíngdí lìxià zhàngōng.",
+      "english": "The soldiers wielded the halberd and achieved remarkable feats on the battlefield."
     },
     {
-      "chinese": "英雄举起戣(英雄舉起戣)，迎战强敌(迎戰強敵)。",
-      "pinyin": "Yīngxióng jǔqǐ kuí, yíngzhàn qiángdí.",
-      "english": "The hero raised the kuí to confront formidable foes."
-    },
-    {
-      "chinese": "那把雕刻精美的戣(那把雕刻精美的戣)，在战场上叱咤风云(在戰場上叱咤風雲)。",
-      "pinyin": "Nà bǎ diāokè jīngměi de kuí, zài zhànchǎng shàng chìchà fēngyún.",
-      "english": "That exquisitely carved kuí dominated the battlefield."
+      "chinese": "古时武将用戣(古時武將用戣)，攻城拔寨(攻城拔寨)。",
+      "pinyin": "gǔshí wǔjiàng yòng kuí, gōngchéng bázhài.",
+      "english": "In ancient times, military commanders used the halberd to breach enemy fortifications."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "watchtower",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "門(門) (mén, \"gate\") + 官(官) (guān, \"official\") = official on gate -> watchtower",
-    "interpretation": "䦕(䦕) (guān, \"watchtower\") combines 門(門) (mén, \"gate\") to indicate a structure and 官(官) (guān, \"official\") to suggest oversight, creating the idea of a watchtower.",
+    "description": "門(門) (mén, \"gate\") + phonetic component = form related to gates or openings -> watchtower",
+    "interpretation": "䦕(䦕) (guān, \"watchtower\") combines 門(門) (mén, \"gate\") for its association with gateways and the phonetic component, capturing the function of overseeing or guarding a passageway.",
     "simplification": ""
   },
   "parts": [
@@ -15,25 +15,24 @@
       "trad": "門",
       "pinyin": "mén",
       "english": "gate"
-    },
-    {
-      "char": "官",
-      "trad": "官",
-      "pinyin": "guān",
-      "english": "official"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "古城的边缘建有一座坚固的䦕(古城的邊緣建有一座堅固的䦕)。",
-      "pinyin": "Gǔchéng de biānyuán jiàn yǒu yī zuò jiāngù de guān.",
-      "english": "A sturdy watchtower was built at the edge of the ancient city."
+      "chinese": "那座䦕(那座䦕)雄伟挺拔(雄偉挺拔)。",
+      "pinyin": "Nà zuò guān xióngwěi tǐngbá.",
+      "english": "That watchtower stands magnificently and upright."
     },
     {
-      "chinese": "傍晚时分(傍晚時分)，守卫登上了高处的䦕(守衛登上了高處的䦕)。",
-      "pinyin": "Bàngwǎn shífēn, shǒuwèi dēng shàngle gāochù de guān.",
-      "english": "In the evening, the guards ascended the high watchtower."
+      "chinese": "古城旁有一座䦕(古城旁有一座䦕)，守望着远方(守望著遠方)。",
+      "pinyin": "Gǔchéng páng yǒu yī zuò guān, shǒuwàngzhe yuǎnfāng.",
+      "english": "Next to the ancient city, there is a watchtower that keeps vigil over the distance."
+    },
+    {
+      "chinese": "登上䦕(登上䦕)以后(以後)，他们观览了辽阔原野(他們觀覽了遼闊原野)。",
+      "pinyin": "Dēng shàng guān yǐhòu, tāmen guān lǎn le liáokuò yuányě.",
+      "english": "After climbing the watchtower, they admired the vast plains."
     }
   ]
 }

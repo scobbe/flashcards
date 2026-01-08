@@ -1,0 +1,44 @@
+{
+  "simplified": "嗨",
+  "traditional": "嗨",
+  "pinyin": "hāi",
+  "english": "hi",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 海(海) (hǎi, \"sea\") = speech related to howling wind or loud excitement -> casual greeting",
+    "interpretation": "The character 嗨 (嗨) (hāi, \"hi\") uses 口(口) (kǒu, \"mouth\") to suggest something related to speaking or sound, while 海(海) (hǎi, \"sea\") contributes the phonetic element approximating the pronunciation 'hāi.' This emphasizes a loud or enthusiastic vocal expression, fitting the use in greetings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "嗨(嗨)，我们开始吧(我們開始吧)。",
+      "pinyin": "hāi，wǒmen kāishǐ ba。",
+      "english": "Hi, let's get started."
+    },
+    {
+      "chinese": "他遇到老朋友时说嗨(他遇到老朋友時說嗨)。",
+      "pinyin": "tā yùdào lǎo péngyǒu shí shuō hāi。",
+      "english": "He said hi when he met his old friend."
+    },
+    {
+      "chinese": "小红看到新同学(小紅看到新同學)，便大声嗨(便大聲嗨)。",
+      "pinyin": "xiǎo hóng kàn dào xīn tóngxué，biàn dà shēng hāi。",
+      "english": "When Xiaohong saw the new classmate, she greeted loudly with a hi."
+    }
+  ]
+}

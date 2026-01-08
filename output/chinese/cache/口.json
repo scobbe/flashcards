@@ -2,25 +2,30 @@
   "simplified": "口",
   "traditional": "口",
   "pinyin": "kǒu",
-  "english": "mouth; opening; measure word for people",
+  "english": "mouth",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an open mouth",
-    "interpretation": "The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.",
+    "description": "Depicts an open mouth.",
+    "interpretation": "The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我家有三口人(我家有三口人)。",
-      "pinyin": "Wǒ jiā yǒu sān kǒu rén.",
-      "english": "My family has three members."
+      "chinese": "他张开口(他張開口)，大声喊叫(大聲喊叫)。",
+      "pinyin": "Tā zhāngkāi kǒu, dàshēng hǎnjiào.",
+      "english": "He opened his mouth and shouted loudly."
     },
     {
-      "chinese": "地处河口的平台很美丽(地處河口的平台很美麗)。",
-      "pinyin": "Dì chǔ hé kǒu de píngtái hěn měilì.",
-      "english": "The platform located at the river's mouth is beautiful."
+      "chinese": "这口饭入口即化(這口飯入口即化)。",
+      "pinyin": "Zhè kǒu fàn rùkǒu jíhuà.",
+      "english": "This mouthful of food melts in your mouth."
+    },
+    {
+      "chinese": "小女孩咬了一口苹果(小女孩咬了一口蘋果)，露出甜美的笑容(露出甜美的笑容)。",
+      "pinyin": "Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.",
+      "english": "The little girl took a bite of the apple and smiled sweetly."
     }
   ]
 }

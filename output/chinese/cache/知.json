@@ -1,0 +1,51 @@
+{
+  "simplified": "知",
+  "traditional": "知",
+  "pinyin": "zhī",
+  "english": "know; be aware",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "大(大) (dà, \"adult\") + 口(口) (kǒu, \"mouth\") + 子(子) (zǐ, \"child\") = transmit knowledge -> 大 corrupted to 矢(矢) (shǐ) for phonetic value, 子 was dropped -> final form 知",
+    "interpretation": "知(知) (zhī, \"know\") evolved from an original representation of transmitting knowledge from adults to children, which involved an adult speaking to a child. Over time, this depiction transformed into a simpler character with phonetic and semantic adaptations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "adult"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我知你的心意(我知你的心意)。",
+      "pinyin": "Wǒ zhī nǐ de xīnyì.",
+      "english": "I know your intentions."
+    },
+    {
+      "chinese": "黄昏时分你归来(黃昏時分你歸來)，我立刻便知缘分(我立刻便知緣分)。",
+      "pinyin": "Huánghūn shífēn nǐ guīlái, wǒ lìkè biàn zhī yuánfèn.",
+      "english": "At dusk, when you return, I immediately know it is fate."
+    }
+  ]
+}

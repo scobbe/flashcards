@@ -1,0 +1,39 @@
+{
+  "simplified": "遘",
+  "traditional": "遘",
+  "pinyin": "gòu",
+  "english": "to meet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 辶(辶) (chuò, \"walk\") + phonetic 冓(冓) (gòu, \"meet\") = walking to meet -> to meet",
+    "interpretation": "The character 遘(遘) (gòu, \"to meet\") combines 辶(辶) (chuò, \"walk\"), indicating movement, with 冓(冓) (gòu, \"to meet\") for its phonetic component to convey the act of walking to meet someone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "冓",
+      "trad": "冓",
+      "pinyin": "gòu",
+      "english": "meet"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他在市集遘旧友(他在市集遘舊友)。",
+      "pinyin": "Tā zài shìjí gòu jiùyǒu.",
+      "english": "He encountered an old friend at the market."
+    },
+    {
+      "chinese": "他远行时遘良师(他遠行時遘良師)，心中满是感激(心中滿是感激)。",
+      "pinyin": "Tā yuǎnxíng shí gòu liángshī, xīnzhōng mǎn shì gǎnjī.",
+      "english": "During his journey, he encountered a wise teacher, and his heart was filled with gratitude."
+    }
+  ]
+}

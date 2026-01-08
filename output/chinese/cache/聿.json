@@ -4,36 +4,41 @@
   "pinyin": "yù",
   "english": "brush",
   "etymology": {
-    "type": "Pictogram or ideogrammic compound",
-    "description": "又(又) (yòu, \"hand\") + 𰀁(𰀁) (yù, \"brush\") = hand holding a brush -> writing tool",
-    "interpretation": "The character 聿(yù, \"brush\") visually represents a hand grasping a brush, symbolizing the act of writing. This embodies the original purpose of indicating a writing tool before it was borrowed for broader meanings.",
+    "type": "Pictogram ( 象形 ) or ideogrammic compound ( 會意 / 会意 )",
+    "description": "手(手) (shǒu, \"hand\") holding a brush (𰀁) -> refers to 筆(筆) (bǐ, \"writing brush\") -> borrowed for 聿 (yù, \"thereupon\")",
+    "interpretation": "Originally depicting a hand holding a brush, it was associated with the writing brush but later used for its phonetic value unrelated to its initial meaning.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "又",
-      "trad": "又",
-      "pinyin": "yòu",
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
       "english": "hand"
     },
     {
       "char": "𰀁",
       "trad": "𰀁",
-      "pinyin": "yù",
+      "pinyin": "bǐ",
       "english": "brush"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他拿起聿(聿)，在宣紙上書寫(在宣紙上書寫)。",
-      "pinyin": "Tā ná qǐ yù, zài xuānzhǐ shàng shūxiě.",
-      "english": "He picked up the brush and wrote on rice paper."
+      "chinese": "文人執聿揮毫(文人執聿揮毫)。",
+      "pinyin": "Wénrén zhí yù huī háo.",
+      "english": "The literati wield the brush with masterful strokes."
     },
     {
-      "chinese": "古代文士喜用聿(喜用聿)。",
-      "pinyin": "Gǔdài wénshì xǐ yòng yù.",
-      "english": "Ancient literati liked to use the brush."
+      "chinese": "他蘸墨於聿(他蘸墨於聿)，繪出一幅詩卷(繪出一幅詩卷)。",
+      "pinyin": "Tā zhàn mò yú yù, huì chū yī fú shī juǎn.",
+      "english": "He dipped ink with the brush and painted a scroll of poetry."
+    },
+    {
+      "chinese": "古時書生常攜聿遊歷(古時書生常攜聿遊歷)。",
+      "pinyin": "Gǔshí shūshēng cháng xié yù yóulì.",
+      "english": "In ancient times, scholars often carried the brush while traveling."
     }
   ]
 }

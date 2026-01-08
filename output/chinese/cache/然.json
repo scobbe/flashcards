@@ -1,0 +1,51 @@
+{
+  "simplified": "然",
+  "traditional": "然",
+  "pinyin": "rán",
+  "english": "like this; correct",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 肰 (rán) + Semantic 火 (huǒ, \"fire\") = to burn -> 肉 (ròu, \"meat\") components stylistically transformed as 夕 with added stroke",
+    "interpretation": "The character 然(rán) involves the concept of burning, indicated by the fire radical. The top component, originally representing meat, has evolved in shape to resemble 夕 in its modern form, modified by an additional stroke. This reflects its evolution from depicting burning meat to its current uses implying correctness or likeness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肰",
+      "trad": "肰",
+      "pinyin": "rán",
+      "english": "phonetic component in 然"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "evening"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你这么做才是然的(你這麼做才是然的)，值得称赞(值得稱讚)。",
+      "pinyin": "Nǐ zhème zuò cái shì rán de, zhídé chēngzàn.",
+      "english": "The way you do it is correct, and it deserves praise."
+    },
+    {
+      "chinese": "按照说明操作(按照說明操作)，结果就会然(結果就會然)。",
+      "pinyin": "Ànzhào shuōmíng cāozuò, jiéguǒ jiù huì rán.",
+      "english": "If you operate according to the instructions, the result will be just so."
+    }
+  ]
+}

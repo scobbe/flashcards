@@ -1,0 +1,44 @@
+{
+  "simplified": "錡",
+  "traditional": "錡",
+  "pinyin": "qí",
+  "english": "a kind of war axe with three blades",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") + 奇(奇) (qí, \"strange\") = a metal object with unique features -> refers to a specific type of war axe",
+    "interpretation": "錡(錡) (qí) combines the metal radical 金(金), suggesting a metallic object, with the phonetic component 奇(奇), implying something uncommon or unique. This reflects the specialized nature of the weapon.",
+    "simplification": "Simplified to 锜(锜) with 金(金, \"metal\") simplified to 钅(钅, \"metal\")."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "奇",
+      "trad": "奇",
+      "pinyin": "qí",
+      "english": "strange"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "战士手中的錡发出寒光(戰士手中的錡發出寒光)。",
+      "pinyin": "Zhànshì shǒuzhōng de qí fāchū hán guāng.",
+      "english": "The warrior's three-bladed axe in his hand emitted a cold gleam."
+    },
+    {
+      "chinese": "古代战场上(古代戰場上)，三刃錡劈开敌阵(三刃錡劈開敵陣)。",
+      "pinyin": "Gǔdài zhànchǎng shàng, sān rèn qí pī kāi dí zhèn.",
+      "english": "On ancient battlefields, the three-bladed axe cleaved through enemy lines."
+    },
+    {
+      "chinese": "将军挥动錡在战场上(將軍揮動錡在戰場上)，鼓舞士气(鼓舞士氣)。",
+      "pinyin": "Jiāngjūn huīdòng qí zài zhànchǎng shàng, gǔwǔ shìqì.",
+      "english": "The general swung the three-bladed axe on the battlefield, inspiring his troops."
+    }
+  ]
+}

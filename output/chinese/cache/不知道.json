@@ -1,0 +1,44 @@
+{
+  "simplified": "不知道",
+  "traditional": "不知道",
+  "pinyin": "bù zhīdào",
+  "english": "don't know",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 知道(知道) (zhīdào, \"know\") = the state of not knowing.",
+    "interpretation": "This phrase literally means 'not know' by combining 不(不) (bù, \"not\") and 知道(知道) (zhīdào, \"know\"). It is a direct and clear expression used to indicate the lack of knowledge about something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "知道",
+      "trad": "知道",
+      "pinyin": "zhīdào",
+      "english": "know"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我不知道答案(我不知道答案)。",
+      "pinyin": "Wǒ bù zhīdào dá'àn。",
+      "english": "I don't know the answer."
+    },
+    {
+      "chinese": "他不知道去哪儿(他不知道去哪兒)，所以问别人(所以問別人)。",
+      "pinyin": "Tā bù zhīdào qù nǎr, suǒyǐ wèn biérén。",
+      "english": "He doesn't know where to go, so he asks others."
+    },
+    {
+      "chinese": "我不知道他为何迟到(我不知道他為何遲到)。",
+      "pinyin": "Wǒ bù zhīdào tā wèi hé chí dào。",
+      "english": "I don't know why he is late."
+    }
+  ]
+}

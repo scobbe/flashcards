@@ -5,8 +5,8 @@
   "english": "pulse",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 叔(叔) (shū, \"uncle\") = plant similar to grasses -> pulse",
-    "interpretation": "The character 菽(shū, \"pulse\") combines the 艹(艹) (cǎo, \"grass\") radical to indicate its association with plants, together with the phonetic component 叔(叔) (shū, \"uncle\") to suggest pronunciation. This reflects the character's meaning related to legumes, which are a type of plant.",
+    "description": "艹(艹) (cǎo, \"grass\") as semantic indicator + 叔(叔) (shū, \"uncle\") as phonetic -> denotes a type of plant -> pulse",
+    "interpretation": "The character 菽(shū, \"pulse\") combines the 艹(艹) (cǎo, \"grass\") radical, which is often used to signify plants, with 叔(叔) (shū, \"uncle\") for its phonetic component, resulting in a term historically associated with types of legumes or pulses.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,14 @@
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "这道菜以菽为主料(這道菜以菽為主料)。",
-      "pinyin": "Zhè dào cài yǐ shū wéi zhǔliào.",
-      "english": "This dish is primarily made with pulses."
+      "chinese": "农民种菽(農民種菽)，以供百姓食用(以供百姓食用)。",
+      "pinyin": "Nóngmín zhòng shū, yǐ gòng bǎixìng shíyòng.",
+      "english": "Farmers grow pulses to feed the people."
     },
     {
-      "chinese": "农家秋日采菽(農家秋日採菽)，制成美味豆粥(製成美味豆粥)。",
-      "pinyin": "Nóngjiā qiūrì cǎi shū, zhì chéng měiwèi dòuzhōu.",
-      "english": "In autumn, country folk harvest pulses to make delicious bean porridge."
+      "chinese": "古代有诗赞菽(古代有詩讚菽)。",
+      "pinyin": "Gǔdài yǒu shī zàn shū.",
+      "english": "In ancient times, poetry praised pulses."
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "simplified": "抱歉",
+  "traditional": "抱歉",
+  "pinyin": "bàoqiàn",
+  "english": "sorry; my apologies",
+  "etymology": {
+    "type": "compound word",
+    "description": "抱(抱) (bào, \"hold\") and 歉(歉) (qiàn, \"apology\") form a phrase expressing regret and a desire to hold or bear responsibility for a mistake or inconvenience.",
+    "interpretation": "抱歉(抱歉) (bàoqiàn, \"sorry\") is a common way to express an apology in Chinese, indicating a sense of regret or remorse. The combination of \"hold\" and \"apology\" conveys the notion of taking on the responsibility for causing discomfort or inconvenience.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "抱",
+      "trad": "抱",
+      "pinyin": "bào",
+      "english": "hold; embrace"
+    },
+    {
+      "char": "歉",
+      "trad": "歉",
+      "pinyin": "qiàn",
+      "english": "apology; regret"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很抱歉(我很抱歉)。",
+      "pinyin": "Wǒ hěn bàoqiàn.",
+      "english": "I am very sorry."
+    },
+    {
+      "chinese": "我为迟到感到抱歉(我為遲到感到抱歉)，请原谅(請原諒)。",
+      "pinyin": "Wǒ wèi chídào gǎndào bàoqiàn, qǐng yuánliàng.",
+      "english": "I apologize for being late, please forgive me."
+    }
+  ]
+}

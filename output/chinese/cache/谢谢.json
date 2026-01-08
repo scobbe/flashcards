@@ -1,0 +1,44 @@
+{
+  "simplified": "谢谢",
+  "traditional": "謝謝",
+  "pinyin": "xièxie",
+  "english": "thank you",
+  "etymology": {
+    "type": "compound word",
+    "description": "谢(謝) (xiè, \"thank\") + 谢(謝) (xiè, \"thank\") = express gratitude; thank you",
+    "interpretation": "Repeated use of 谢(謝) (xiè, \"thank\") intensifies the expression of gratitude, making it a polite and common way to say 'thank you' in Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "谢",
+      "trad": "謝",
+      "pinyin": "xiè",
+      "english": "thank; apologize; wither"
+    },
+    {
+      "char": "谢",
+      "trad": "謝",
+      "pinyin": "xiè",
+      "english": "thank; apologize; wither"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "谢谢你的礼物(謝謝你的禮物)。",
+      "pinyin": "xièxie nǐ de lǐwù",
+      "english": "Thank you for your gift."
+    },
+    {
+      "chinese": "他送来了花(他送來了花)，我说谢谢(我說謝謝)。",
+      "pinyin": "tā sòng láile huā, wǒ shuō xièxie",
+      "english": "He sent flowers, and I said thank you."
+    },
+    {
+      "chinese": "我遇到困难时(我遇到困難時)，朋友总会说谢谢(朋友總會說謝謝)。",
+      "pinyin": "wǒ yù dào kùnnán shí, péngyǒu zǒng huì shuō xièxie",
+      "english": "When I face difficulties, my friend always says thank you."
+    }
+  ]
+}
