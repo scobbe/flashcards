@@ -5,22 +5,22 @@
   "english": "two blocks of metal",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two blocks of metal. Originally disconnected, the connecting line was added in later scripts.",
-    "interpretation": "The two blocks evoke the image of separate pieces of metal, which can signify both physical objects and the idea of connection when linked.",
+    "description": "Depicts two blocks of metal",
+    "interpretation": "The character originally depicted two separate blocks of metal or vertebrae. In seal script, these blocks were shown connected by a line. It was later borrowed phonetically to represent the sounds for related meanings like ‘spine’ or ‘music notes’.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他给了我一个呂(他給了我一個呂)，我很高兴(我很高興)。",
-      "pinyin": "tā gěi le wǒ yī gè lǚ, wǒ hěn gāoxìng.",
-      "english": "He gave me a lǚ, and I was very happy."
+      "chinese": "我姓吕(我姓呂)。",
+      "pinyin": "wǒ xìng Lǚ.",
+      "english": "My surname is Lü."
     },
     {
-      "chinese": "在音乐中，呂(在音樂中，呂)的音符很美(的音符很美)。",
-      "pinyin": "zài yīnyuè zhōng, lǚ de yīnfú hěn měi.",
-      "english": "In music, the notes of lǚ are beautiful."
+      "chinese": "吕国是一个古代国家(呂國是一個古代國家)。",
+      "pinyin": "Lǚ guó shì yí gè gǔdài guójiā.",
+      "english": "The Lü Kingdom was an ancient state."
     }
   ]
 }

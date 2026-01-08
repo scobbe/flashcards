@@ -4,23 +4,28 @@
   "pinyin": "yī",
   "english": "one",
   "etymology": {
-    "type": "ideogram",
-    "description": "A horizontal stroke, indicating the number 'one'.",
-    "interpretation": "The character visually represents a single horizontal line, directly symbolizing the concept of one. This straightforward depiction makes it intuitive to understand its meaning at first glance.",
+    "type": "Ideogram",
+    "description": "A horizontal stroke, indicating the number 'one'",
+    "interpretation": "The simplest representation of 'one' as a horizontal line makes intuitive sense because it visually signifies a singular unit, an elemental stroke itself.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有一个苹果(我有一個蘋果)。",
-      "pinyin": "Wǒ yǒu yī gè píngguǒ.",
-      "english": "I have one apple."
+      "chinese": "我只有一只猫(我只有一隻貓)。",
+      "pinyin": "Wǒ zhǐ yǒu yī zhī māo.",
+      "english": "I only have one cat."
     },
     {
-      "chinese": "请给我一杯水(請給我一杯水)。",
-      "pinyin": "Qǐng gěi wǒ yī bēi shuǐ.",
-      "english": "Please give me one cup of water."
+      "chinese": "给我一杯水(給我一杯水)。",
+      "pinyin": "Gěi wǒ yī bēi shuǐ.",
+      "english": "Give me a glass of water."
+    },
+    {
+      "chinese": "他是一个好人(他是一個好人)。",
+      "pinyin": "Tā shì yī gè hǎo rén.",
+      "english": "He is a good person."
     }
   ]
 }

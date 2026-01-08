@@ -1,0 +1,26 @@
+{
+  "simplified": "瓦",
+  "traditional": "瓦",
+  "pinyin": "wǎ",
+  "english": "earthenware",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts fired earthenware pottery or a tile",
+    "interpretation": "The character 瓦 (wǎ, \"earthenware\") visually represents fired pottery or a roof tile, emphasizing its original use in construction or pottery making. Its shape suggests the rounded edges and general form of ceramic or tile products.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "屋顶上有很多瓦。",
+      "pinyin": "Wū dǐng shàng yǒu hěn duō wǎ.",
+      "english": "There are many tiles on the roof."
+    },
+    {
+      "chinese": "这是古代的瓦罐。",
+      "pinyin": "Zhè shì gǔdài de wǎ guàn.",
+      "english": "This is an ancient pottery jar."
+    }
+  ]
+}

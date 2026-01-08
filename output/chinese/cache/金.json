@@ -5,8 +5,8 @@
   "english": "metal",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 士 (shì, 'upside-down ritual axe') + semantic 呂 (lǚ, 'two blocks of metal') + phonetic 亼 (indicates pronunciation).",
-    "interpretation": "The components collectively suggest an object associated with precious materials and metal, emphasizing its material significance.",
+    "description": "semantic: 士 (upside-down ritual axe) + semantic: 呂 (two blocks of metal) + phonetic: 亼",
+    "interpretation": "The character 金 combines representations of metal elements for its semantic, with 亼 indicating its pronunciation. Initially signifying copper, its meaning expanded to include all metals, and eventually gold. Although initially misunderstood as related to 王, it primarily represents the fusion of metallic concepts and sound elements.",
     "simplification": ""
   },
   "parts": [
@@ -18,28 +18,33 @@
     },
     {
       "char": "呂",
-      "trad": "呂",
+      "trad": "吕",
       "pinyin": "lǚ",
       "english": "two blocks of metal"
     },
     {
       "char": "亼",
       "trad": "亼",
-      "pinyin": "jīn",
-      "english": "phonetic component"
+      "pinyin": "jí",
+      "english": "phonetic element"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "金属的性质(金屬的性質)",
-      "pinyin": "jīnshǔ de xìngzhì",
-      "english": "The properties of metal."
+      "chinese": "金属(金屬)是各种材料之一。",
+      "pinyin": "Jīnshǔ shì gè zhǒng cáiliào zhī yī.",
+      "english": "Metal is one of various materials."
     },
     {
-      "chinese": "他喜欢金(金)",
-      "pinyin": "tā xǐhuān jīn",
-      "english": "He likes gold."
+      "chinese": "黄金(黃金)很贵。",
+      "pinyin": "Huángjīn hěn guì.",
+      "english": "Gold is very expensive."
+    },
+    {
+      "chinese": "我的戒指是用金做的(我的戒指是用金做的)。",
+      "pinyin": "Wǒ de jièzhǐ shì yòng jīn zuò de.",
+      "english": "My ring is made of gold."
     }
   ]
 }

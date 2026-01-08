@@ -2,25 +2,30 @@
   "simplified": "來",
   "traditional": "來",
   "pinyin": "lái",
-  "english": "to come",
+  "english": "come",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts wheat with the middle line representing the ear, upward lines for leaves, and downward lines for stem and roots.",
-    "interpretation": "The character visually represents wheat, which historically symbolizes nourishment and growth. This connection is reflected in its use for 'to come', suggesting a bringing forth or arrival of sustenance.",
+    "type": "Pictogram",
+    "description": "Depicts a wheat plant with an ear, leaves, stem, and roots",
+    "interpretation": "Originally depicting a wheat plant, 來(來) (lái, 'come') was borrowed for the meaning 'to come'. This usage possibly reflects the significance of wheat in ancient cultures or its introduction to the area, leading to its association with arrival or coming forth.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他要來了(他要來了)，我们应该准备好(我們應該準備好)。",
-      "pinyin": "tā yào lái le, wǒmen yīnggāi zhǔnbèi hǎo.",
-      "english": "He is coming, we should be ready."
+      "chinese": "我想你来这儿(我想你來這兒)。",
+      "pinyin": "Wǒ xiǎng nǐ lái zhèr.",
+      "english": "I want you to come here."
     },
     {
-      "chinese": "请她來(請她來)！",
-      "pinyin": "qǐng tā lái!",
-      "english": "Please have her come!"
+      "chinese": "请马上来这儿(請馬上來這兒)。",
+      "pinyin": "Qǐng mǎshàng lái zhèr.",
+      "english": "Please come here immediately."
+    },
+    {
+      "chinese": "他来晚了(他來晚了)。",
+      "pinyin": "Tā lái wǎn le.",
+      "english": "He came late."
     }
   ]
 }

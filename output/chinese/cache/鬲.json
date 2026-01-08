@@ -1,0 +1,26 @@
+{
+  "simplified": "鬲",
+  "traditional": "鬲",
+  "pinyin": "lì",
+  "english": "cauldron",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts some pottery",
+    "interpretation": "The character 鬲 depicts a type of pottery, specifically a cauldron or vessel used in historical contexts for cooking. The pictogram visually represents the form of such a vessel.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "鬲常见于古代器物。",
+      "pinyin": "Lì cháng jiàn yú gǔdài qìwù.",
+      "english": "The cauldron is often seen in ancient artifacts."
+    },
+    {
+      "chinese": "古代的鬲用于烹饪。",
+      "pinyin": "Gǔdài de lì yòng yú pēngrèn.",
+      "english": "Ancient cauldrons were used for cooking."
+    }
+  ]
+}

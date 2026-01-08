@@ -1,12 +1,12 @@
 {
   "simplified": "亼",
   "traditional": "亼",
-  "pinyin": "jīn",
-  "english": "phonetic component",
+  "pinyin": "jí",
+  "english": "phonetic element",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "Combines 入 (rù, 'enter') and 一 (yī, 'one') to convey the idea of gathering or coming together.",
-    "interpretation": "This character intuitively represents the act of gathering, suggesting a union from different directions.",
+    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gathering from three sides -> gather",
+    "interpretation": "The character 亼 combines 入(入) (rù, \"enter\") and 一(一) (yī, \"one\") to convey the idea of things coming together from different sides, similar to the concept of gathering. Its connection to ancient 集(集) (jí, \"gather\") strengthens this meaning.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,14 @@
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "在集会(在集會)时，大家都亼聚。",
-      "pinyin": "zài jíhuì shí, dàjiā dōu jī jù.",
-      "english": "During the gathering, everyone came together."
+      "chinese": "在古书(在古書)，这个字很常见。",
+      "pinyin": "Zài gǔshū, zhège zì hěn chángjiàn.",
+      "english": "In ancient books, this character is very common."
     },
     {
-      "chinese": "这个部件在合并中很重要(這個部件在合併中很重要)。",
-      "pinyin": "zhège bùjiàn zài hébìnɡ zhōnɡ hěn zhònɡyào.",
-      "english": "This component is important in merging."
+      "chinese": "亼出现在一些名字里。",
+      "pinyin": "Jí chūxiàn zài yìxiē míngzì lǐ.",
+      "english": "亼 appears in some names."
     }
   ]
 }

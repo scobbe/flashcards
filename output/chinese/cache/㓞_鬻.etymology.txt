@@ -1,0 +1,14 @@
+[㓞]
+Phono-semantic compound ( 形聲 / 形声 ): phonetic 丯 ( OC *kreːds ) + semantic 刀 ( “ knife ” ) – to engrave. Perhaps the proto-form of 栔 .
+
+[鬻]
+Ideogrammic compound ( 會意 / 会意 ): 䰜 ( “ cauldron ” ) + 米 ( “ rice ” ) — congee. Original form of 粥 ( OC *ʔljuɡ, *luɡ , “congee”).
+䰜 is a variant form of 鬲 , which is a cauldron with three hollow legs, in which 米 (“rice”) is cooked. The two 弓 depict the steam emitted from the congee in the cauldron.
+粥 (“congee”) is a reduced form of 鬻 . 鬻 has since been phonetically borrowed as jiajie ( 假借 ) to represent 𧶠 ( OC *luɡ , “to sell”).
+
+[契]
+Phono-semantic compound ( 形聲 / 形声 , OC *kʰeːds, *kʰeːd, *kʰeːd, *kʰɯd ) and ideogrammic compound ( 會意 / 会意 ): phonetic 㓞 ( qià , “ to engrave ” ) + semantic 大 ( “ person ” ) , hence a person making an agreement and/or carving something with a knife.
+Possibly a variant of 栔 or vice versa, given that the two characters were used interchangeably in ancient text.
+
+[粥]
+The reduced form of the character 鬻 ( OC *luɡ ), which was an ideogrammic compound and the original character for "congee".

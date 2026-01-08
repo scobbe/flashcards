@@ -2,43 +2,38 @@
   "simplified": "麦",
   "traditional": "麥",
   "pinyin": "mài",
-  "english": "oat; wheat; grain; food",
+  "english": "wheat; grain",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 來 (lái, 'to come') + semantic 夊 (sū, 'footprint pointing down; to walk slowly') — represents the grain's association with wheat and its growth.",
-    "interpretation": "This character evokes the concept of wheat coming from the ground as it grows, represented by 夊. The phonetic part suggests a connection to its historical meaning.",
-    "simplification": "麦(麥) simplified by stroke reduction, eliminating the complex components of 夊."
+    "description": "Phonetic: 來 (come) + Semantic: 夊 (slow footprint) = growth & origin -> wheat",
+    "interpretation": "The character 麥 emphasizes growth and origin, with 來 providing the phonetic cue and 夊 suggesting movement or growth. This combination cleverly reflects wheat as both a growing plant and a staple arriving from ancient trade or cultivation.",
+    "simplification": "The 八 component in traditional 麥 was altered into a single horizontal line in simplified 麦, simplifying the character form."
   },
   "parts": [
     {
       "char": "來",
       "trad": "來",
       "pinyin": "lái",
-      "english": "to come"
+      "english": "come"
     },
     {
       "char": "夊",
       "trad": "夊",
-      "pinyin": "sū",
+      "pinyin": "suī",
       "english": "footprint pointing down; to walk slowly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃麦片(我喜歡吃麥片)。",
-      "pinyin": "Wǒ xǐhuān chī mài piàn.",
-      "english": "I like to eat oats."
+      "chinese": "这片田里种了很多麦(這片田裡種了很多麥)。",
+      "pinyin": "Zhè piàn tián lǐ zhòng le hěn duō mài.",
+      "english": "Many wheat crops are planted in this field."
     },
     {
-      "chinese": "小麦是主食之一(小麥是主食之一)。",
-      "pinyin": "Xiǎo mài shì zhǔshí zhī yī.",
-      "english": "Wheat is one of the staple foods."
-    },
-    {
-      "chinese": "这麦子收成很好(這麥子收成很好)。",
-      "pinyin": "Zhè mài zi shōuchéng hěn hǎo.",
-      "english": "This wheat harvest is very good."
+      "chinese": "他喜欢吃麦片(他喜歡吃麥片)。",
+      "pinyin": "Tā xǐhuān chī màipiàn.",
+      "english": "He likes to eat oatmeal."
     }
   ]
 }

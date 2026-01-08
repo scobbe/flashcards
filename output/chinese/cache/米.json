@@ -5,22 +5,27 @@
   "english": "rice",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts rice kernels without husk.",
-    "interpretation": "This character intuitively represents the grains of rice, illustrating them as small, separate entities. The horizontal stroke suggests a bamboo sieve, emphasizing the removal of the husk.",
+    "description": "Depicts rice kernels without husk",
+    "interpretation": "The character 米 (mǐ) represents dehusked rice kernels, differentiated from 粟 (sù, 'millet'), which includes the husk. The horizontal stroke suggests a bamboo sieve, emphasizing the processing or refinement aspect of rice.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢米(我喜歡米)，常常做米饭(常常煮米飯)。",
-      "pinyin": "wǒ xǐhuān mǐ, chángcháng zuò mǐfàn.",
-      "english": "I like rice, often making rice dishes."
+      "chinese": "我喜欢吃米饭(我喜歡吃米飯)。",
+      "pinyin": "Wǒ xǐhuān chī mǐfàn.",
+      "english": "I like eating rice."
     },
     {
-      "chinese": "米是中国的重要粮食(米是中國的重要糧食)。",
-      "pinyin": "mǐ shì zhōngguó de zhòngyào liángshí.",
-      "english": "Rice is an important staple in China."
+      "chinese": "米是粮食的主要成分(米是糧食的主要成分)。",
+      "pinyin": "Mǐ shì liángshi de zhǔyào chéngfèn.",
+      "english": "Rice is a main component of food."
+    },
+    {
+      "chinese": "我们种了很多水稻(我們種了很多水稻)。",
+      "pinyin": "Wǒmen zhòngle hěnduō shuǐdào.",
+      "english": "We planted a lot of rice."
     }
   ]
 }

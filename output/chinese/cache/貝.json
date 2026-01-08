@@ -1,26 +1,26 @@
 {
   "simplified": "貝",
   "traditional": "貝",
-  "pinyin": "běi",
+  "pinyin": "bèi",
   "english": "cowry",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cowrie shell which was used as currency in ancient China.",
-    "interpretation": "The character visually represents a cowrie shell, linking it directly to its historical use as money. This makes it intuitive as currency symbolizing wealth and trade.",
+    "description": "Depicts a cowry shell",
+    "interpretation": "The character 貝 (bèi) visually represents a cowry shell, which was used as currency in ancient China. This pictogram captures the shape and form of a shell, highlighting its economic significance.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用貝(我用贝)买东西。",
-      "pinyin": "Wǒ yòng bèi mǎi dōngxi.",
-      "english": "I use cowries to buy things."
+      "chinese": "海边找到贝壳(海邊找到貝殼)。",
+      "pinyin": "Hǎibiān zhǎodào bèiké.",
+      "english": "Found a shell at the seaside."
     },
     {
-      "chinese": "古代人用貝(古代人用贝)交易。",
-      "pinyin": "Gǔdài rén yòng bèi jiāoyì.",
-      "english": "Ancient people used cowries for trade."
+      "chinese": "贝类是一种海洋生物(貝類是一種海洋生物)。",
+      "pinyin": "Bèilèi shì yī zhǒng hǎiyáng shēngwù.",
+      "english": "Shellfish is a type of marine organism."
     }
   ]
 }

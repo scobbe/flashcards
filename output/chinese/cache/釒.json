@@ -1,0 +1,33 @@
+{
+  "simplified": "釒",
+  "traditional": "釒",
+  "pinyin": "jīn",
+  "english": "metal",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Reduced form of 金(金) (jīn, \"metal\")",
+    "interpretation": "The character 釒 is a reduced form of the original character 金, representing metal or gold. As an ideogrammic compound, it simplifies the depiction of metal through reduced strokes while still conveying the essence of the original character.",
+    "simplification": "釒 is not simplified as it is the traditional form."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "金子(金子)",
+      "pinyin": "jīn zi",
+      "english": "gold"
+    },
+    {
+      "chinese": "青铜器(青銅器)",
+      "pinyin": "qīng tóng qì",
+      "english": "bronze artifact"
+    }
+  ]
+}

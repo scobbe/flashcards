@@ -5,27 +5,27 @@
   "english": "enter",
   "etymology": {
     "type": "ideogram",
-    "description": "An arrowhead indicating 'to enter'.",
-    "interpretation": "The character visually represents the action of entering through the pointed shape, evoking a sense of movement toward a specific point.",
+    "description": "An arrowhead indicating 'to enter'",
+    "interpretation": "The character 入 is an ideogram that visually suggests the action of entering. The form resembles an arrowhead, which intuitively conveys penetration or movement into an area. This shape effectively represents the concept of entry or ingress.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请进(請進)，我们开始吧(我們開始吧)！",
-      "pinyin": "qǐng jìn, wǒmen kāishǐ ba!",
-      "english": "Please come in, let's begin!"
+      "chinese": "请进来(請進來)。",
+      "pinyin": "qǐng jìnlái.",
+      "english": "Please come in."
     },
     {
-      "chinese": "他已经入了学(他已經入了學)。",
-      "pinyin": "tā yǐjīng rùle xué.",
-      "english": "He has already entered the school."
+      "chinese": "他已经进入(他已經進入)房间(房間)。",
+      "pinyin": "tā yǐjīng jìnrù fángjiān.",
+      "english": "He has already entered the room."
     },
     {
-      "chinese": "门口有一个人(門口有一個人)，正要入内(正要入內)。",
-      "pinyin": "ménkǒu yǒu yīgè rén, zhèng yào rù nèi.",
-      "english": "There is a person at the gate, about to enter."
+      "chinese": "入口在左边(入口在左邊)。",
+      "pinyin": "rùkǒu zài zuǒbiān.",
+      "english": "The entrance is on the left."
     }
   ]
 }

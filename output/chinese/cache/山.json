@@ -5,22 +5,27 @@
   "english": "mountain",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts three mountain peaks.",
-    "interpretation": "The visual representation of three peaks captures the essence of a mountain, symbolizing height and majesty.",
+    "description": "Depicts three mountain peaks",
+    "interpretation": "The character 山 (shān) visually represents the natural landscape of three mountain peaks. Its early forms used simple triangular shapes, evoking the upward, jagged contours of a mountain range.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们去爬山。",
-      "pinyin": "Wǒmen qù pá shān.",
+      "chinese": "我们去爬山(我們去爬山)。",
+      "pinyin": "Wǒmen qù páshān。",
       "english": "We are going to climb the mountain."
     },
     {
-      "chinese": "山上有很多树。",
-      "pinyin": "Shān shàng yǒu hěn duō shù.",
-      "english": "There are many trees on the mountain."
+      "chinese": "那座山很高(那座山很高)。",
+      "pinyin": "Nà zuò shān hěn gāo。",
+      "english": "That mountain is very tall."
+    },
+    {
+      "chinese": "山上的风景很好(山上的風景很好)。",
+      "pinyin": "Shānshàng de fēngjǐng hěn hǎo。",
+      "english": "The scenery on the mountain is beautiful."
     }
   ]
 }

@@ -5,15 +5,15 @@
   "english": "structural particle; to get, obtain; must, have to",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "The character 得 represents an ideogrammic compound formed from 貝 (běi, \"cowry\") and 又 (yòu, \"hand\") — symbolizing the action of picking up a cowry, which is associated with obtaining valuables.",
-    "interpretation": "The imagery of a hand picking up cowries effectively conveys the concept of obtaining or acquiring something valuable.",
-    "simplification": ""
+    "description": "貝 (cowry) + 又 (hand) = hand obtaining a cowry -> obtain",
+    "interpretation": "The character originally depicted a hand picking up a valuable cowry shell, symbolizing acquiring or obtaining things. The addition of 彳 (road) suggests finding this valuable on a path. Over time, graphical changes in scripts altered the components visually but retained the concept of obtaining.",
+    "simplification": "None, as traditional form is used."
   },
   "parts": [
     {
       "char": "貝",
       "trad": "貝",
-      "pinyin": "běi",
+      "pinyin": "bèi",
       "english": "cowry"
     },
     {
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我得到了很多帮助。(我得到了很多幫助。)",
-      "pinyin": "Wǒ dédàole hěnduō bāngzhù.",
-      "english": "I received a lot of help."
+      "chinese": "我得去工作。",
+      "pinyin": "Wǒ děi qù gōngzuò.",
+      "english": "I have to go to work."
     },
     {
-      "chinese": "你得去那里。(你得去那裡。)",
-      "pinyin": "Nǐ děi qù nàlǐ.",
-      "english": "You must go there."
+      "chinese": "他得到了一份礼物(禮物)。",
+      "pinyin": "Tā dédàole yī fèn lǐwù.",
+      "english": "He received a gift."
+    },
+    {
+      "chinese": "努力工作后，他得到了认可(認可)。",
+      "pinyin": "Nǔlì gōngzuò hòu, tā dédàole rènkě.",
+      "english": "After working hard, he received recognition."
     }
   ]
 }

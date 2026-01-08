@@ -2,11 +2,11 @@
   "simplified": "燕麦",
   "traditional": "燕麥",
   "pinyin": "yànmài",
-  "english": "oat; swallow (bird); picturesque; delicate",
+  "english": "oat",
   "etymology": {
     "type": "compound word",
-    "description": "燕(燕) (yàn, \"swallow (bird)\") + 麦(麥) (mài, \"oat\") — swallow oat",
-    "interpretation": "燕麦 refers to oats, which are known for their delicate nature, while '燕' can also represent beauty and grace, much like the bird itself. This combination reflects both the physical attributes and the cultural sentiments associated with these elements.",
+    "description": "燕(yàn, \"swallow (bird)\") + 麦(麥) (mài, \"wheat; grain\") = oat",
+    "interpretation": "燕(yàn, \"swallow (bird)\") refers to the region associated with the bird, and 麦(麥) (mài, \"wheat; grain\") describes the grain. Together, the term describes a grain—oat—that grows in the region.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "燕",
       "trad": "燕",
       "pinyin": "yàn",
-      "english": "swallow (bird); swallow (to swall; joyful; to sing)"
+      "english": "swallow (bird)"
     },
     {
       "char": "麦",
       "trad": "麥",
       "pinyin": "mài",
-      "english": "oat; wheat; grain; food"
+      "english": "wheat; grain"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃燕麦(我喜歡吃燕麥)。",
-      "pinyin": "Wǒ xǐhuān chī yànmài.",
-      "english": "I like to eat oats."
+      "chinese": "燕麦是一种健康的早餐选择。",
+      "pinyin": "Yànmài shì yī zhǒng jiànkāng de zǎocān xuǎnzé.",
+      "english": "Oat is a healthy breakfast choice."
     },
     {
-      "chinese": "燕麦粥非常好吃(燕麥粥非常好吃)。",
-      "pinyin": "Yànmài zhōu fēicháng hǎochī.",
-      "english": "Oatmeal is very delicious."
+      "chinese": "他每天早上喝一杯燕麦牛奶。",
+      "pinyin": "Tā měitiān zǎoshang hē yī bēi yànmài niúnǎi.",
+      "english": "He drinks a cup of oat milk every morning."
+    },
+    {
+      "chinese": "燕麦片可以用来制作饼干。",
+      "pinyin": "Yànmài piàn kěyǐ yòng lái zhìzuò bǐnggān.",
+      "english": "Oat flakes can be used to make cookies."
     }
   ]
 }

@@ -5,22 +5,27 @@
   "english": "eye",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a human eye, now rotated 90 degrees.",
-    "interpretation": "The character intuitively represents the eye, symbolizing vision and perception.",
+    "description": "Depicts an eye, now rotated 90 degrees",
+    "interpretation": "The character represents a human eye turned sideways from its original vertical representation. This rotation allows it to fit within the square shape of Chinese characters. The form clearly resembles the horizontal structure of an eye, emphasizing its role in vision.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我看到了眼睛(我看到了眼睛)。",
-      "pinyin": "Wǒ kàn dào le yǎnjīng.",
-      "english": "I saw the eye."
+      "chinese": "她有美丽的眼睛(她有美麗的眼睛)。",
+      "pinyin": "tā yǒu měilì de yǎnjīng.",
+      "english": "She has beautiful eyes."
     },
     {
-      "chinese": "他的眼睛很明亮(他的眼睛很明亮)。",
-      "pinyin": "Tā de yǎnjīng hěn míngliàng.",
-      "english": "His eyes are very bright."
+      "chinese": "目不转睛(目不轉睛)地看。",
+      "pinyin": "mù bù zhuǎn jīng de kàn.",
+      "english": "Stare without blinking."
+    },
+    {
+      "chinese": "他的目光很锐利(他的目光很銳利)。",
+      "pinyin": "tā de mùguāng hěn ruìlì.",
+      "english": "His gaze is very sharp."
     }
   ]
 }

@@ -5,13 +5,13 @@
   "english": "silver",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 金 ( 'metal' ) + phonetic 艮 ( 'gēn' ).",
-    "interpretation": "The presence of the metal element suggests the nature of silver, while the phonetic component provides the pronunciation.",
-    "simplification": "金 is simplified to 钅 to reduce strokes, showcasing a standard practice in creating more efficient written forms."
+    "description": "semantic: 钅(金) (jīn, \"metal\") + phonetic: 艮(艮) (gèn) = metal sound -> silver",
+    "interpretation": "The character combines the metal radical 钅(金) (jīn, \"metal\") indicating that it is a type of metal, with the phonetic 艮(艮) (gèn), which guides the pronunciation. Silver is a precious metal, aligning with the metal semantic component.",
+    "simplification": "金 was simplified to 钅 as a more concise representation while retaining its meaning of metal in the simplified character 银."
   },
   "parts": [
     {
-      "char": "金",
+      "char": "钅",
       "trad": "金",
       "pinyin": "jīn",
       "english": "metal"
@@ -20,20 +20,25 @@
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "to stop / mountain"
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢银色的项链(我喜歡銀色的項鍊)。",
-      "pinyin": "Wǒ xǐhuān yínsè de xiàngliàn.",
-      "english": "I like silver necklaces."
+      "chinese": "我有银子(我有銀子)，想买东西(想買東西)。",
+      "pinyin": "Wǒ yǒu yínzi, xiǎng mǎi dōngxī.",
+      "english": "I have silver and want to buy something."
     },
     {
-      "chinese": "他收集了很多银币(他收集了很多銀幣)。",
-      "pinyin": "Tā shōujíle hěn duō yínbì.",
-      "english": "He has collected many silver coins."
+      "chinese": "银色的车(銀色的車)很漂亮。",
+      "pinyin": "Yínsè de chē hěn piàoliang.",
+      "english": "The silver car is very beautiful."
+    },
+    {
+      "chinese": "他买了一枚银戒指(銀戒指)。",
+      "pinyin": "Tā mǎile yī méi yín jièzhǐ.",
+      "english": "He bought a silver ring."
     }
   ]
 }

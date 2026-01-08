@@ -5,35 +5,34 @@
   "english": "to speak",
   "etymology": {
     "type": "compound word",
-    "description": "说(說) (shuō, \"speak\") + 话(話) (huà, \"words\") — speak words",
-    "interpretation": "This term is used in everyday language to refer to the act of speaking. The combination makes sense because it directly refers to producing or articulating words.",
+    "description": "說(說) (shuō, \"speak\") + 話(话) (huà, \"speech\") = to utter speech -> to speak",
+    "interpretation": "The combination of 說(說) (shuō, \"speak\") and 話(话) (huà, \"speech\") logically means 'to speak' as it involves the action of speaking words or sentences.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "说",
-      "trad": "說",
-      "pinyin": "shuō",
-      "english": "speak; say; talk; explain"
-    },
-    {
-      "char": "话",
-      "trad": "話",
-      "pinyin": "huà",
-      "english": "word; speech; language; discussion"
+      "char": "说话",
+      "trad": "說話",
+      "pinyin": "shuōhuà",
+      "english": "to speak; to talk; to say; to chat"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请小声说话。",
-      "pinyin": "Qǐng xiǎoshēng shuōhuà。",
-      "english": "Please speak quietly."
+      "chinese": "请小声说话(請小聲說話)。",
+      "pinyin": "Qǐng xiǎoshēng shuōhuà.",
+      "english": "Please speak softly."
     },
     {
-      "chinese": "她喜欢说话。",
-      "pinyin": "Tā xǐhuān shuōhuà。",
-      "english": "She likes to speak."
+      "chinese": "他说话很快(他說話很快)。",
+      "pinyin": "Tā shuōhuà hěn kuài.",
+      "english": "He speaks very fast."
+    },
+    {
+      "chinese": "我们在说话(我們在說話)。",
+      "pinyin": "Wǒmen zài shuōhuà.",
+      "english": "We are talking."
     }
   ]
 }

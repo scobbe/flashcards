@@ -1,33 +1,39 @@
 {
   "simplified": "䰜",
   "traditional": "䰜",
-  "pinyin": "yù",
-  "english": "cauldron",
+  "pinyin": "nil",
+  "english": "'cauldron'",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "䰜 (yù, 'cauldron') + 米 (mǐ, 'rice') — congee. This character represents a cauldron used for cooking rice and depicts the steam emitted from the congee.",
-    "interpretation": "The character visually conveys the idea of a cooking vessel for rice, tying the act of cooking rice in a cauldron to the concept of congee.",
+    "description": "phonetic 鬳(鬳) + semantic 瓦(瓦)",
+    "interpretation": "The character combines the phonetic element 鬳 (yǎn, 'cooking vessel') with the semantic element 瓦 (wǎ, 'earthenware'), which represents something made from clay or pottery, leading to the meaning of a 'cauldron'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "米",
-      "trad": "米",
-      "pinyin": "mǐ",
-      "english": "rice"
+      "char": "鬳",
+      "trad": "鬳",
+      "pinyin": "yǎn",
+      "english": "cooking vessel"
+    },
+    {
+      "char": "瓦",
+      "trad": "瓦",
+      "pinyin": "wǎ",
+      "english": "earthenware"
     }
   ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "我想吃粥(我想吃粥)。",
-      "pinyin": "Wǒ xiǎng chī zhōu.",
-      "english": "I want to eat congee."
+      "chinese": "在历史书中出现这个字(在歷史書中出現這個字)。",
+      "pinyin": "Zài lìshǐ shū zhōng chūxiàn zhège zì.",
+      "english": "This character appears in historical texts."
     },
     {
-      "chinese": "古人用鬲煮米(古人用鬲煮米)。",
-      "pinyin": "Gǔrén yòng lì zhǔ mǐ.",
-      "english": "Ancient people used cauldrons to cook rice."
+      "chinese": "古代有许多种类的鬲(古代有許多種類的鬲)。",
+      "pinyin": "Gǔdài yǒu xǔduō zhǒnglèi de gě.",
+      "english": "There were many kinds of cauldrons in ancient times."
     }
   ]
 }

@@ -5,27 +5,22 @@
   "english": "hand",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a right hand.",
-    "interpretation": "The character visually represents a hand, suggesting the action or agency associated with it. This is intuitive as hands are often involved in actions and decisions.",
+    "description": "Depicts a right hand",
+    "interpretation": "The character 又 (yòu) visually represents a right hand. This form illustrates the concept of 'hand' through its depiction of a hand in an abstract manner.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他又来了(他又來了)！",
-      "pinyin": "tā yòu lái le！",
-      "english": "He has come again!"
+      "chinese": "我又来了(我又來了)。",
+      "pinyin": "Wǒ yòu lái le.",
+      "english": "I came again."
     },
     {
-      "chinese": "我又忘记了(我又忘記了)。",
-      "pinyin": "wǒ yòu wàng jì le。",
-      "english": "I have forgotten again."
-    },
-    {
-      "chinese": "她又在笑(她又在笑)。",
-      "pinyin": "tā yòu zài xiào。",
-      "english": "She is laughing again."
+      "chinese": "她又哭了(她又哭了)。",
+      "pinyin": "Tā yòu kū le.",
+      "english": "She cried again."
     }
   ]
 }

@@ -2,38 +2,37 @@
   "simplified": "粥",
   "traditional": "粥",
   "pinyin": "zhōu",
-  "english": "porridge; gruel; congee; thick soup",
+  "english": "porridge",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "The character 粥 is derived from 鬻, which combines the components for 'cauldron' and 'rice', depicting the cooking of rice into congee.",
-    "interpretation": "The combination of 'cauldron' and 'rice' intuitively conveys the cooking process of rice into a thick soup, which is what congee essentially is.",
-    "simplification": ""
+    "type": "reduced form",
+    "description": "Reduced form of 鬻(鬻) (yù, \"congee\")",
+    "interpretation": "粥 is a simplified character derived from 鬻, which originally depicted the process of cooking rice in a cauldron, representing congee. The reduction maintains the core meaning of 'porridge' while omitting the more complex components.",
+    "simplification": "Simplified by reducing the complex 鬻 to 粥, retaining the core meaning related to congee."
   },
   "parts": [
     {
-      "char": "米",
-      "trad": "米",
-      "pinyin": "mǐ",
-      "english": "rice"
-    },
-    {
-      "char": "䰜",
+      "char": "鬻",
       "trad": "鬻",
       "pinyin": "yù",
-      "english": "cauldron"
+      "english": "congee"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我早餐吃粥(我早餐吃粥)。",
-      "pinyin": "Wǒ zǎocān chī zhōu.",
-      "english": "I eat porridge for breakfast."
+      "chinese": "我早上喜欢吃粥。",
+      "pinyin": "Wǒ zǎoshang xǐhuān chī zhōu.",
+      "english": "I like to eat porridge in the morning."
     },
     {
-      "chinese": "粥很容易消化(粥很容易消化)。",
-      "pinyin": "Zhōu hěn róngyì xiāohuà.",
-      "english": "Porridge is easy to digest."
+      "chinese": "广东人经常喝粥。",
+      "pinyin": "Guǎngdōng rén jīngcháng hē zhōu.",
+      "english": "Cantonese people often drink porridge."
+    },
+    {
+      "chinese": "粥是很有营养的食物。",
+      "pinyin": "Zhōu shì hěn yǒu yíngyǎng de shíwù.",
+      "english": "Porridge is a very nutritious food."
     }
   ]
 }

@@ -5,27 +5,27 @@
   "english": "upside-down ritual axe",
   "etymology": {
     "type": "pictogram",
-    "description": "A war axe, which later evolved to represent 'soldier' and 'officer, intellectual'.",
-    "interpretation": "The character depicts an upside-down ritual axe, reflecting the association with military and governance roles historically.",
+    "description": "Depicts a war axe",
+    "interpretation": "The character 士 initially depicted a war axe, which symbolized martial prowess. Over time, this association expanded to include soldierly qualities and later evolved to mean officer or intellectual.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位士(士)，很有学问。",
-      "pinyin": "Tā shì yī wèi shì, hěn yǒu xuéwèn.",
-      "english": "He is a scholar, very knowledgeable."
+      "chinese": "他是一名士兵(他是一名士兵)，服役多年。",
+      "pinyin": "Tā shì yī míng shìbīng, fúyì duō nián.",
+      "english": "He is a soldier who has served for many years."
     },
     {
-      "chinese": "士(士)兵正在执行任务。",
-      "pinyin": "Shìbīng zhèng zài zhíxíng rènwu.",
-      "english": "The soldier is carrying out a mission."
+      "chinese": "士林是一个著名的夜市(士林是一個著名的夜市)。",
+      "pinyin": "Shìlín shì yí gè zhùmíng de yèshì.",
+      "english": "Shilin is a famous night market."
     },
     {
-      "chinese": "古代士(士)人受人尊敬。",
-      "pinyin": "Gǔdài shìrén shòu rén zūnjìng.",
-      "english": "In ancient times, scholars were respected."
+      "chinese": "求学是每个士子(求學是每個士子)的梦想。",
+      "pinyin": "Qiúxué shì měi ge shìzǐ de mèngxiǎng.",
+      "english": "Pursuing education is the dream of every scholar."
     }
   ]
 }

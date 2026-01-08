@@ -1,0 +1,26 @@
+{
+  "simplified": "虍",
+  "traditional": "虍",
+  "pinyin": "hū",
+  "english": "tiger",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tiger's head",
+    "interpretation": "The character 虍 represents the distinct facial features of a tiger, including its stripes and fierce expression, focused solely on the head rather than the whole body as in 虎(虎) (hǔ, \"tiger\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古代文本中可见此字符。",
+      "pinyin": "Gǔdài wénběn zhōng kě jiàn cǐ zìfú.",
+      "english": "This character can be seen in ancient texts."
+    },
+    {
+      "chinese": "名字中有时使用此字符。",
+      "pinyin": "Míngzì zhōng yǒushí shǐyòng cǐ zìfú.",
+      "english": "Sometimes this character is used in names."
+    }
+  ]
+}

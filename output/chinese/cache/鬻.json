@@ -1,0 +1,39 @@
+{
+  "simplified": "鬻",
+  "traditional": "鬻",
+  "pinyin": "yù",
+  "english": "congee",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "䰜 ('cauldron') + 米 ('rice') = cooking rice in cauldron -> congee",
+    "interpretation": "The character 鬻 visualizes the process of making congee by depicting rice being cooked in a cauldron, with steam rising. This reflects the original culinary use before it was later borrowed to mean 'to sell.'",
+    "simplification": "粥 is a reduced form of 鬻 focused on retaining the rice component 米."
+  },
+  "parts": [
+    {
+      "char": "䰜",
+      "trad": "䰜",
+      "pinyin": "nil",
+      "english": "'cauldron'"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "鬻字很少用。",
+      "pinyin": "Yù zì hěn shǎo yòng.",
+      "english": "The character 鬻 is rarely used."
+    },
+    {
+      "chinese": "在书法中，鬻是一个复杂的字。",
+      "pinyin": "Zài shūfǎ zhōng, yù shì yīgè fùzá de zì.",
+      "english": "In calligraphy, 鬻 is a complex character."
+    }
+  ]
+}

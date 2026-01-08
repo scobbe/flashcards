@@ -2,11 +2,11 @@
   "simplified": "艮",
   "traditional": "艮",
   "pinyin": "gèn",
-  "english": "to stop / mountain",
+  "english": "sound",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") — a person looking back",
-    "interpretation": "The character captures the idea of a person looking back, suggesting the notions of stopping or being aware of limits. This visual cue makes the meaning intuitive, tying a person’s gaze to the concepts of halting or disobedience.",
+    "type": "Ideogrammic compound",
+    "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") = person looking back -> concept of disobedience or limit",
+    "interpretation": "The combination of a person 人(人) and an eye 目(目) suggests a person looking back, symbolizing a sense of limit or resistance. This character conveys the idea of hesitation or stopping.",
     "simplification": ""
   },
   "parts": [
@@ -23,17 +23,17 @@
       "english": "person"
     }
   ],
-  "in_contemporary_usage": true,
+  "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "我们要艮住自己的欲望(我們要艮住自己的慾望)。",
-      "pinyin": "Wǒmen yào gèn zhù zìjǐ de yùwàng.",
-      "english": "We need to stop our desires."
+      "chinese": "艮岳山在中国。",
+      "pinyin": "Gèn yuè shān zài Zhōngguó.",
+      "english": "Genyue Mountain is in China."
     },
     {
-      "chinese": "这条路艮了(這條路艮了)。",
-      "pinyin": "Zhè tiáo lù gènle.",
-      "english": "This road stops here."
+      "chinese": "艮也是八卦之一。",
+      "pinyin": "Gèn yě shì bāguà zhī yī.",
+      "english": "Gen is also one of the trigrams."
     }
   ]
 }

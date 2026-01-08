@@ -2,11 +2,11 @@
   "simplified": "人",
   "traditional": "人",
   "pinyin": "rén",
-  "english": "person; human; people; individual",
+  "english": "person",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a side view of a standing man, highlighting an arm and a leg.",
-    "interpretation": "The character visually represents a person standing, emphasizing human form. This direct depiction makes it easy to associate the character with the meaning of a 'person' or 'human'.",
+    "description": "Depicts a side view of a standing man, highlighting an arm and a leg",
+    "interpretation": "The character 人 (rén) visually represents a person standing, with the shape highlighting both an arm and a leg, symbolizing the human form in a simplified, iconic manner.",
     "simplification": ""
   },
   "parts": [],
@@ -14,13 +14,18 @@
   "examples": [
     {
       "chinese": "他是一个好人(他是一個好人)。",
-      "pinyin": "tā shì yī gè hǎo rén.",
+      "pinyin": "Tā shì yī gè hǎo rén.",
       "english": "He is a good person."
     },
     {
-      "chinese": "人们都知道这件事(人們都知道這件事)。",
-      "pinyin": "rén men dōu zhī dào zhè jiàn shì.",
-      "english": "People all know about this matter."
+      "chinese": "人人都有机会(人人都有機會)。",
+      "pinyin": "Rén rén dōu yǒu jī huì.",
+      "english": "Everyone has an opportunity."
+    },
+    {
+      "chinese": "我见过那个人(我見過那個人)。",
+      "pinyin": "Wǒ jiàn guò nà ge rén.",
+      "english": "I have seen that person."
     }
   ]
 }
