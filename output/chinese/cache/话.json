@@ -1,0 +1,44 @@
+{
+  "simplified": "话",
+  "traditional": "話",
+  "pinyin": "huà",
+  "english": "words; speech; talk; language",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "话(話) (huà, \"words; speech; talk; language\") — combines words with a phonetic suffix.",
+    "interpretation": "This character intuitively connects the concept of 'words' with a sound component that suggests speaking. The visual representation reinforces the idea of communication through speech.",
+    "simplification": "Stroke reduction was used to streamline the character. The semantic component 言(言) (yán, \"word\") remains intact, while the phonetic part was simplified."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word"
+    },
+    {
+      "char": "𠯑",
+      "trad": "𠯑",
+      "pinyin": "none",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你说话(請你說話)，我想听(我想聽)。",
+      "pinyin": "Qǐng nǐ shuōhuà, wǒ xiǎng tīng.",
+      "english": "Please speak, I want to listen."
+    },
+    {
+      "chinese": "他的语言(他的語言)非常丰富(非常豐富)。",
+      "pinyin": "Tā de yǔyán fēicháng fēngfù.",
+      "english": "His language is very rich."
+    },
+    {
+      "chinese": "我们正在讨论(我們正在討論)这个话题(這個話題)。",
+      "pinyin": "Wǒmen zhèngzài tǎolùn zhège huàtí.",
+      "english": "We are discussing this topic."
+    }
+  ]
+}

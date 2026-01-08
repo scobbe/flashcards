@@ -1,109 +1,118 @@
-"""English vocabulary card schema.
+"""English flashcard schemas - source of truth for AI prompts and display formatting."""
 
-Simplified card format for English vocabulary study:
-- Front: English word
-- Back: Definition, Origin, Pronunciation (non-technical)
-- No Wiktionary data, uses OpenAI for content
-"""
+from typing import List
 
-from lib.schema.base import CardField, CardSchema
-
-
-# Front side for English cards: word only
-ENGLISH_FRONT_SCHEMA = CardSchema(
-    name="front",
-    fields=[
-        CardField(
-            name="word",
-            required=True,
-            description="The English vocabulary word to study.",
-        ),
-    ],
+from lib.schema.base import (
+    PromptField,
+    DisplayField,
+    generate_system_prompt as _generate_system_prompt,
+    format_field_for_display as _format_field_for_display,
+    get_display_field as _get_display_field,
+    get_display_order as _get_display_order,
+    extract_response_fields as _extract_response_fields,
+    get_required_field_names as _get_required_field_names,
 )
 
 
-# Back side for English cards: definition, origin, pronunciation
-ENGLISH_BACK_SCHEMA = CardSchema(
-    name="back",
-    fields=[
-        CardField(
-            name="definition",
-            required=True,
-            description=(
-                "Concise but informative definition(s) of the word. Multiple related meanings "
-                "can be listed as bullet points. Include relevant dates when applicable "
-                "(birth/death dates for people, time periods for events/eras)."
-            ),
-            ai_prompt=(
-                "Provide a clear, succinct definition of the word. If there are multiple "
-                "related meanings, list each as a separate bullet point. Keep each definition "
-                "to 1-2 lines. Use plain language, avoid jargon.\n\n"
-                "IMPORTANT: Include relevant dates when applicable:\n"
-                "- For people: include birth and death dates (e.g., '1564-1616')\n"
-                "- For historical events: include the year or time period (e.g., '1776' or '14th century')\n"
-                "- For eras/periods: include the date range (e.g., '1920s' or '500-1500 CE')\n\n"
-                "Format as a bulleted list with '- '."
-            ),
-            field_type="sublist",
-            max_items=3,
+# =============================================================================
+# Prompt Schema - Controls what we ask the AI for
+# =============================================================================
+
+ENGLISH_PROMPT_PREAMBLE = "English vocabulary expert."
+
+ENGLISH_PROMPT_FIELDS = [
+    PromptField(
+        name="definition",
+        prompt=(
+            "array of 1-3 clear, succinct definitions. Include relevant dates when applicable "
+            "(birth/death for people, years for events). Format: [\"def1\", \"def2\", ...]"
         ),
-        CardField(
-            name="etymology",
-            required=True,
-            description=(
-                "Etymologie des Wortes: Sprachherkunft, Wurzelwörter und deren ursprüngliche "
-                "Bedeutung. Wie das Wort sprachlich entstanden ist."
-            ),
-            ai_prompt=(
-                "Provide the etymology of the word. Include:\n"
-                "- The language of origin (Greek, Latin, French, German, etc.)\n"
-                "- The original root word(s) and their literal meaning\n"
-                "- How the word was formed or derived\n"
-                "Keep it succinct (2-3 bullet points max). Focus on linguistic origins only. "
-                "Format as a bulleted list with '- '."
-            ),
-            field_type="sublist",
-            max_items=3,
+        response_type="list",
+        max_items=3,
+    ),
+    PromptField(
+        name="etymology",
+        prompt=(
+            "array of 2-3 bullets on linguistic origins: language of origin (Greek, Latin, etc.), "
+            "root words and their literal meaning, how the word was derived. "
+            "Format: [\"bullet1\", \"bullet2\", ...]"
         ),
-        CardField(
-            name="history",
-            required=True,
-            description=(
-                "Historischer Hintergrund: relevante Daten, Zeiträume, geschichtlicher Kontext, "
-                "wie sich die Bedeutung oder Verwendung des Wortes im Laufe der Zeit entwickelt hat."
-            ),
-            ai_prompt=(
-                "Provide historical background for the word. Include:\n"
-                "- Relevant dates (when it first appeared, key historical moments)\n"
-                "- Historical context (what was happening when this word/concept emerged)\n"
-                "- How usage or meaning evolved over time\n"
-                "- Notable people, events, or periods associated with it\n"
-                "Keep it succinct (2-3 bullet points max). Focus on history, not linguistics. "
-                "Format as a bulleted list with '- '."
-            ),
-            field_type="sublist",
-            max_items=3,
+        response_type="list",
+        max_items=3,
+    ),
+    PromptField(
+        name="history",
+        prompt=(
+            "array of 2-3 bullets on historical background: when it first appeared, "
+            "historical context, how usage evolved, notable associations. "
+            "Format: [\"bullet1\", \"bullet2\", ...]"
         ),
-        CardField(
-            name="pronunciation",
-            required=True,
-            description=(
-                "Non-technical, easy-to-read pronunciation guide. Use common syllable "
-                "breakdowns with capitalized stress, not IPA."
-            ),
-            ai_prompt=(
-                "Provide a simple, non-technical pronunciation guide. Use common syllable "
-                "breakdowns with CAPITALIZED stress. Example: 'kah-kis-TAH-kruh-see' for "
-                "'kakistocracy'. Do NOT use IPA symbols. Make it easy for anyone to read aloud."
-            ),
-            field_type="line",
+        response_type="list",
+        max_items=3,
+    ),
+    PromptField(
+        name="pronunciation",
+        prompt=(
+            "Simple syllable breakdown with STRESSED syllable capitalized. "
+            "Example: \"kah-kis-TAH-kruh-see\" for kakistocracy. Do NOT use IPA."
         ),
-    ],
-)
+        response_type="string",
+    ),
+]
+
+
+def generate_system_prompt() -> str:
+    """Generate the system prompt for English card generation."""
+    return _generate_system_prompt(ENGLISH_PROMPT_PREAMBLE, ENGLISH_PROMPT_FIELDS)
+
+
+def extract_response_fields(response_data: dict) -> dict:
+    """Extract and normalize AI response fields based on schema."""
+    return _extract_response_fields(ENGLISH_PROMPT_FIELDS, response_data)
+
+
+def get_required_field_names() -> List[str]:
+    """Get list of required field names for cache validation."""
+    return _get_required_field_names(ENGLISH_PROMPT_FIELDS)
+
+
+# =============================================================================
+# Display Schema - Controls how we render the card markdown
+# =============================================================================
+
+ENGLISH_DISPLAY_SCHEMA = [
+    DisplayField(name="definition", label="definition", field_type="bullets"),
+    DisplayField(name="etymology", label="etymology", field_type="bullets"),
+    DisplayField(name="history", label="history", field_type="bullets"),
+    DisplayField(name="pronunciation", label="pronunciation", field_type="bullets"),
+]
+
+
+def format_field_for_display(field_name: str, value) -> List[str]:
+    """Format a field value for markdown display."""
+    return _format_field_for_display(ENGLISH_DISPLAY_SCHEMA, field_name, value)
+
+
+def get_display_field(name: str):
+    """Get a display field by name."""
+    return _get_display_field(ENGLISH_DISPLAY_SCHEMA, name)
+
+
+def get_display_order() -> List[str]:
+    """Get the display field order."""
+    return _get_display_order(ENGLISH_DISPLAY_SCHEMA)
 
 
 __all__ = [
-    "ENGLISH_FRONT_SCHEMA",
-    "ENGLISH_BACK_SCHEMA",
+    # Prompt schema
+    "ENGLISH_PROMPT_PREAMBLE",
+    "ENGLISH_PROMPT_FIELDS",
+    "generate_system_prompt",
+    "extract_response_fields",
+    "get_required_field_names",
+    # Display schema
+    "ENGLISH_DISPLAY_SCHEMA",
+    "format_field_for_display",
+    "get_display_field",
+    "get_display_order",
 ]
-

@@ -1,0 +1,31 @@
+{
+  "simplified": "目",
+  "traditional": "目",
+  "pinyin": "mù",
+  "english": "eye",
+  "etymology": {
+    "type": "pictogram",
+    "description": "目(目) (mù, \"eye\")",
+    "interpretation": "The character visually represents a human eye, conveying the idea of sight. The intuitive sense comes from its direct resemblance to the shape and features of an eye.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的眼睛很大(他的眼睛很大)！",
+      "pinyin": "tā de yǎnjing hěn dà(他的眼睛很大)！",
+      "english": "His eyes are very big！"
+    },
+    {
+      "chinese": "我看到了眼睛(我看到了眼睛)！",
+      "pinyin": "wǒ kàn dào le yǎnjing(我看到了眼睛)！",
+      "english": "I saw the eye！"
+    },
+    {
+      "chinese": "那只鸟的眼睛非常美(那隻鳥的眼睛非常美)。",
+      "pinyin": "nà zhī niǎo de yǎnjing fēicháng měi(那隻鳥的眼睛非常美)。",
+      "english": "The bird's eyes are very beautiful."
+    }
+  ]
+}

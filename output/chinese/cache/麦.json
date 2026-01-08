@@ -1,0 +1,39 @@
+{
+  "simplified": "麦",
+  "traditional": "麥",
+  "pinyin": "mài",
+  "english": "wheat; grain; to sell; to advise",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "麦(麥) (mài, \"wheat\") is a combination of phonetic 來(來) (lái, \"to come\") and semantic 夊(夊) (sū, \"to walk slowly; footprint pointing down\").",
+    "interpretation": "This character conveys the idea of wheat developing from something heavenly or miraculous. 麦 emphasizes the importance of wheat as a staple food source, symbolizing nourishment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "來",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "to come"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "sū",
+      "english": "to walk slowly; footprint pointing down"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们需要买一些麦(麥)子。",
+      "pinyin": "wǒmen xūyào mǎi yīxiē mài(zǐ)。",
+      "english": "We need to buy some wheat."
+    },
+    {
+      "chinese": "这麦(麥)子长得很好。",
+      "pinyin": "zhè mài(zǐ) zhǎng dé hěn hǎo。",
+      "english": "This wheat is growing very well."
+    }
+  ]
+}

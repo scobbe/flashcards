@@ -1,0 +1,31 @@
+{
+  "simplified": "米",
+  "traditional": "米",
+  "pinyin": "mǐ",
+  "english": "rice",
+  "etymology": {
+    "type": "pictogram",
+    "description": "米(米) (mǐ, \"rice\") - represents rice kernels without husk",
+    "interpretation": "The character visually resembles rice kernels, capturing the essential identity of this staple food. Its design portrays the simple, identifiable shape of rice, making the connection to its meaning direct and clear.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想吃米饭。",
+      "pinyin": "wǒ xiǎng chī mǐfàn。",
+      "english": "I want to eat rice."
+    },
+    {
+      "chinese": "米是中国的主食。",
+      "pinyin": "mǐ shì zhōngguó de zhǔshí。",
+      "english": "Rice is a staple food in China."
+    },
+    {
+      "chinese": "她买了米和面。",
+      "pinyin": "tā mǎi le mǐ hé miàn。",
+      "english": "She bought rice and flour."
+    }
+  ]
+}

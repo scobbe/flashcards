@@ -1,0 +1,39 @@
+{
+  "simplified": "人口",
+  "traditional": "人口",
+  "pinyin": "rénkǒu",
+  "english": "population",
+  "etymology": {
+    "type": "compound word",
+    "description": "人(人) (rén, 'person') + 口(口) (kǒu, 'mouth') — person mouth",
+    "interpretation": "The morphemes combine to indicate the concept of 'people' and their representation or measurement ('mouth' can refer to an entrance, likely for expressing population). Thus, it suggests the count of persons in a given area.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; people; human; individual"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening; entrance; measure word for people"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中国人口很多。",
+      "pinyin": "Zhōngguó rénkǒu hěn duō。",
+      "english": "China's population is very large."
+    },
+    {
+      "chinese": "人口增长是一个主要问题。",
+      "pinyin": "Rénkǒu zēngzhǎng shì yīgè zhǔyào wèntí。",
+      "english": "Population growth is a major issue."
+    }
+  ]
+}

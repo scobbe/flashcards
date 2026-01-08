@@ -1,0 +1,39 @@
+{
+  "simplified": "亼",
+  "traditional": "亼",
+  "pinyin": "rén",
+  "english": "to gather",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "入(入) (rù, 'enter') + 一(一) (yī, 'one') — to gather from multiple sides",
+    "interpretation": "The combination of 入(入) (rù, 'enter') and 一(一) (yī, 'one') illustrates the concept of gathering from various directions into a singular point. This represents the act of coming together or assembling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "enter"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我們(我們)的(的)社群(社群)亼聚(亼聚)一起(一起)。",
+      "pinyin": "wǒmen de shèqún rén jù yīqǐ。",
+      "english": "Our community gathers together."
+    },
+    {
+      "chinese": "亼會(亼會)是(是)古老(古老)的(的)聚會(聚會)。",
+      "pinyin": "rén huì shì gǔlǎo de jùhuì。",
+      "english": "Gathering is an ancient meeting."
+    }
+  ]
+}

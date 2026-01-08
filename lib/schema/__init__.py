@@ -3,28 +3,32 @@
 from lib.schema.base import (
     FRONT_BACK_DIVIDER,
     CARD_DIVIDER,
-    CardField,
-    CardSchema,
+    PromptField,
+    DisplayField,
 )
 from lib.schema.chinese import (
-    CHINESE_FRONT_SCHEMA,
-    CHINESE_BACK_SCHEMA,
+    CHINESE_PROMPT_PREAMBLE,
+    CHINESE_PROMPT_FIELDS,
+    CHINESE_DISPLAY_SCHEMA,
 )
 from lib.schema.english import (
-    ENGLISH_FRONT_SCHEMA,
-    ENGLISH_BACK_SCHEMA,
+    ENGLISH_PROMPT_PREAMBLE,
+    ENGLISH_PROMPT_FIELDS,
+    ENGLISH_DISPLAY_SCHEMA,
 )
 
 __all__ = [
     # Base
     "FRONT_BACK_DIVIDER",
     "CARD_DIVIDER",
-    "CardField",
-    "CardSchema",
-    # Chinese mode (unified)
-    "CHINESE_FRONT_SCHEMA",
-    "CHINESE_BACK_SCHEMA",
-    # English mode
-    "ENGLISH_FRONT_SCHEMA",
-    "ENGLISH_BACK_SCHEMA",
+    "PromptField",
+    "DisplayField",
+    # Chinese
+    "CHINESE_PROMPT_PREAMBLE",
+    "CHINESE_PROMPT_FIELDS",
+    "CHINESE_DISPLAY_SCHEMA",
+    # English
+    "ENGLISH_PROMPT_PREAMBLE",
+    "ENGLISH_PROMPT_FIELDS",
+    "ENGLISH_DISPLAY_SCHEMA",
 ]

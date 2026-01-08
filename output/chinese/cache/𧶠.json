@@ -1,0 +1,39 @@
+{
+  "simplified": "𧶠",
+  "traditional": "𧶠",
+  "pinyin": "lè",
+  "english": "cauldron",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𧶠(𧶠) (lè, \"cauldron\") = phonetic 𡍬(𡍬) (lù, \"pot\") + semantic 貝(貝) (bèi, \"shell\") — a pot made from valuable materials",
+    "interpretation": "The combination of 𡍬(𡍬) (lù, \"pot\") suggests a cooking vessel, while 貝(貝) (bèi, \"shell\") implies value or precious materials, reflecting the cauldron's importance in cooking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𡍬",
+      "trad": "𡍬",
+      "pinyin": "lù",
+      "english": "pot"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "shell"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这锅汤用的是古老的𧶠(𧶠)。",
+      "pinyin": "Zhè guō tāng yòng de shì gǔlǎo de 𧶠(𧶠)。",
+      "english": "This soup pot is made from an ancient cauldron."
+    },
+    {
+      "chinese": "传说中，仙人使用的𧶠(𧶠)可以煮出长生不老药。",
+      "pinyin": "Chuánshuō zhōng, xiānrén shǐyòng de 𧶠(𧶠) kěyǐ zhǔ chū chángshēngbùlǎoyào。",
+      "english": "Legend has it that the cauldron used by immortals could brew the elixir of life."
+    }
+  ]
+}

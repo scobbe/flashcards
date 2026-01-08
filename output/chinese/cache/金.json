@@ -1,0 +1,39 @@
+{
+  "simplified": "金",
+  "traditional": "金",
+  "pinyin": "jīn",
+  "english": "metal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") derives from the semantic component 士 (shì, \"upside-down ritual axe perhaps made of precious materials\") and 亼 (rén, representing the phonetic sound).",
+    "interpretation": "This character intuitively evokes the idea of ritual items, indicative of precious materials, connecting to the broader concept of metal, which includes valuable substances like gold.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "soldier"
+    },
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "rén",
+      "english": "to gather"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "金属(金屬)是许多物品的重要成分。",
+      "pinyin": "jīnshǔ shì xǔduō wùpǐn de zhòngyào chéngfèn。",
+      "english": "Metal is an important component of many items."
+    },
+    {
+      "chinese": "我喜欢金色的饰品。",
+      "pinyin": "wǒ xǐhuān jīnsè de shìpǐn。",
+      "english": "I like gold-colored jewelry."
+    }
+  ]
+}

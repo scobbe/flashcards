@@ -1,0 +1,39 @@
+{
+  "simplified": "燕麦粥",
+  "traditional": "燕麥粥",
+  "pinyin": "yànmàizhōu",
+  "english": "oatmeal porridge",
+  "etymology": {
+    "type": "compound word",
+    "description": "燕麦(燕麥) (yànmài, 'oats') + 粥(粥) (zhōu, 'porridge') — oat porridge",
+    "interpretation": "燕麦粥(燕麥粥) refers to a nourishing dish made primarily from oats and water or milk. This combination logically describes a type of porridge made from oats.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "燕麦",
+      "trad": "燕麥",
+      "pinyin": "yànmài",
+      "english": "oats; porridge; meal; grain"
+    },
+    {
+      "char": "粥",
+      "trad": "粥",
+      "pinyin": "zhōu",
+      "english": "porridge; congee; gruel; rice porridge"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃燕麦粥(燕麥粥)，他也很推荐(他也很推薦)。",
+      "pinyin": "wǒ xǐhuān chī yànmàizhōu(燕麥粥)，tā yě hěn tuījiàn(他也很推薦)。",
+      "english": "I like to eat oatmeal porridge, and he highly recommends it too."
+    },
+    {
+      "chinese": "燕麦粥(燕麥粥)是很健康的早餐选择(是很健康的早餐選擇)。",
+      "pinyin": "yànmàizhōu(燕麥粥) shì hěn jiànkāng de zǎocān xuǎnzé(是很健康的早餐選擇)。",
+      "english": "Oatmeal porridge is a very healthy breakfast option."
+    }
+  ]
+}

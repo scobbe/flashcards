@@ -1,0 +1,44 @@
+{
+  "simplified": "燕麦",
+  "traditional": "燕麥",
+  "pinyin": "yànmài",
+  "english": "oats; porridge; meal; grain",
+  "etymology": {
+    "type": "compound word",
+    "description": "燕(燕) (yàn, \"swallow bird\") + 麦(麥) (mài, \"wheat; grain\") — swallow bird grain",
+    "interpretation": "燕(燕) (yàn, \"swallow bird\") relates to the natural environment where oats can be found, as swallows are often seen in agricultural areas. 麦(麥) (mài, \"grain\") indicates that oats are a type of grain, linking the two parts into a meaningful compound referring to this specific food source.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "燕",
+      "trad": "燕",
+      "pinyin": "yàn",
+      "english": "swallow bird; swallow (the bird); to smile; to chant"
+    },
+    {
+      "char": "麦",
+      "trad": "麥",
+      "pinyin": "mài",
+      "english": "wheat; grain; to sell; to advise"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "早餐我通常吃燕麦粥(燕麥粥)。",
+      "pinyin": "zǎo cān wǒ tōng cháng chī yàn mài zhōu。",
+      "english": "For breakfast, I usually eat oats porridge."
+    },
+    {
+      "chinese": "燕麦(燕麥)是一种有营养的食品。",
+      "pinyin": "yàn mài (yàn mài) shì yī zhǒng yǒu yíng yǎng de shī pǐn。",
+      "english": "Oats are a nutritious food."
+    },
+    {
+      "chinese": "我喜欢用燕麦(燕麥)制作健康的小吃。",
+      "pinyin": "wǒ xǐ huān yòng yàn mài (yàn mài) zhì zuò jiàn kāng de xiǎo chī。",
+      "english": "I like to make healthy snacks using oats."
+    }
+  ]
+}

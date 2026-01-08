@@ -1,0 +1,26 @@
+{
+  "simplified": "燕",
+  "traditional": "燕",
+  "pinyin": "yàn",
+  "english": "swallow bird; swallow (the bird); to smile; to chant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "燕(燕) (yàn, \"swallow bird\")",
+    "interpretation": "The character 燕 depicts a swallow, a type of bird known for its agile flight and distinctive shape. It intuitively represents the bodily form of the swallow with minimal stylization.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我看见一只燕子飞过了天际(我看到一隻燕子飛過了天際)。",
+      "pinyin": "Wǒ kànjiàn yī zhī yànzi fēiguòle tiānjì。(I saw a swallow flying across the sky.)",
+      "english": ""
+    },
+    {
+      "chinese": "燕子在春天(燕子在春天)。",
+      "pinyin": "Yànzi zài chūntiān。(Swallows are present in spring.)",
+      "english": ""
+    }
+  ]
+}

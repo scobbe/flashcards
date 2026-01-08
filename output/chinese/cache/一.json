@@ -1,0 +1,31 @@
+{
+  "simplified": "一",
+  "traditional": "一",
+  "pinyin": "yī",
+  "english": "one",
+  "etymology": {
+    "type": "ideogram",
+    "description": "一(一) (yī, \"one\")",
+    "interpretation": "The character 一 is a simple horizontal line that directly represents the number one. Its minimalist design makes it intuitively recognizable as a singular unit.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有一(一)本书。",
+      "pinyin": "wǒ yǒu yī(一) běn shū。",
+      "english": "I have one book."
+    },
+    {
+      "chinese": "这是一(一)个好主意。",
+      "pinyin": "zhè shì yī(一) gè hǎo zhǔyì。",
+      "english": "This is a good idea."
+    },
+    {
+      "chinese": "他只有一(一)个朋友。",
+      "pinyin": "tā zhǐ yǒu yī(一) gè péngyǒu。",
+      "english": "He has only one friend."
+    }
+  ]
+}

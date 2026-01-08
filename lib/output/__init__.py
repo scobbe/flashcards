@@ -1,8 +1,9 @@
 """Output generation library for flashcard generation.
 
-This package handles Chinese and English flashcard generation.
-For Chinese mode, use lib.output.chinese (unified processing).
-For English mode, use lib.output.english.
+Subpackages:
+- lib.output.chinese: Chinese flashcard generation
+- lib.output.english: English flashcard generation
+- lib.output.common: Shared output utilities
 """
 
 from lib.output.chinese import (
@@ -13,7 +14,6 @@ from lib.output.chinese import (
     read_parsed_input,
 )
 
-# English mode exports
 from lib.output.english import (
     write_english_card_md,
     generate_english_card_content,
@@ -23,7 +23,7 @@ from lib.output.english import (
 )
 
 __all__ = [
-    # Chinese mode (unified)
+    # Chinese mode
     "process_chinese_folder",
     "process_chinese_row",
     "write_card_md",

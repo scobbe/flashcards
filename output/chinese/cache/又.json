@@ -1,0 +1,31 @@
+{
+  "simplified": "又",
+  "traditional": "又",
+  "pinyin": "yòu",
+  "english": "hand",
+  "etymology": {
+    "type": "pictogram",
+    "description": "又(又) (yòu, \"hand\")",
+    "interpretation": "The character 又 symbolizes a depiction of a right hand. This intuitive image connects to its meaning of 'hand,' emphasizing the hand's role in various actions.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "又要下雨了(又要下雨了)。",
+      "pinyin": "yòu yào xià yǔ le(又要下雨了)。",
+      "english": "It's going to rain again(又要下雨了)。"
+    },
+    {
+      "chinese": "他又来了(他又來了)。",
+      "pinyin": "tā yòu lái le(他又來了)。",
+      "english": "He is here again(他又來了)。"
+    },
+    {
+      "chinese": "这个问题又复杂了(這個問題又複雜了)。",
+      "pinyin": "zhè ge wèn tí yòu fù zá le(這個問題又複雜了)。",
+      "english": "This problem has gotten complicated again(這個問題又複雜了)。"
+    }
+  ]
+}

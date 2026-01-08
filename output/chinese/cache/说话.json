@@ -1,0 +1,44 @@
+{
+  "simplified": "说话",
+  "traditional": "說話",
+  "pinyin": "shuōhuà",
+  "english": "to speak",
+  "etymology": {
+    "type": "compound word",
+    "description": "说(說) (shuō, \"speak\") + 话(話) (huà, \"words\") — to speak words",
+    "interpretation": "The combination of 说(說) and 话(話) directly conveys the act of using words to communicate. It emphasizes the process of verbal interaction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "说",
+      "trad": "說",
+      "pinyin": "shuō",
+      "english": "speak; say; explain; talk"
+    },
+    {
+      "char": "话",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "words; speech; talk; language"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请小声说话(請小聲說話)，",
+      "pinyin": "qǐng xiǎoshēng shuōhuà，",
+      "english": "Please speak quietly,"
+    },
+    {
+      "chinese": "他说话(他說話)很流利(很流利)，",
+      "pinyin": "tā shuōhuà hěn liúlì，",
+      "english": "He speaks very fluently,"
+    },
+    {
+      "chinese": "我们可以在这里说话(我們可以在這裡說話)。",
+      "pinyin": "wǒmen kěyǐ zài zhèlǐ shuōhuà。",
+      "english": "We can speak here."
+    }
+  ]
+}

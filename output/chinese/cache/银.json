@@ -3,42 +3,42 @@
   "traditional": "銀",
   "pinyin": "yín",
   "english": "silver",
-  "in_contemporary_usage": true,
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 金 (“metal”) + phonetic: 艮; simplified: 金 → 钅",
-    "interpretation": "金 (jīn, metal) signals that the meaning relates to metal, while 艮 (gèn, stubborn/stop; also a phonetic) guides the pronunciation toward yín. As a precious metal widely used as currency, it appears in words like 银行 (yínháng, bank).",
-    "simplification": "Left-side metal radical 金 was simplified to 钅 under the mainland scheme, yielding 银 while keeping the phonetic 艮 unchanged."
+    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gèn, \"to restrain\") — metal that restrains or holds value",
+    "interpretation": "",
+    "simplification": "金(金) (jīn, \"metal\") is simplified to 钅 (jīn, \"metal radical\") to reduce stroke complexity, and retains its meaning as a significant component in the context of currency."
   },
   "parts": [
     {
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "metal; gold"
+      "english": "metal"
     },
     {
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "stubborn; to stop; Gen trigram"
+      "english": "to restrain"
     }
   ],
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "白银价格上涨(白銀價格上漲)，投资者关注风险(投資者關注風險)。",
-      "pinyin": "Báiyín jiàgé shàngzhǎng, tóuzīzhě guānzhù fēngxiǎn.",
-      "english": "The price of silver rose, and investors are watching the risks."
+      "chinese": "我有一些银子，想去买东西。",
+      "pinyin": "wǒ yǒu yīxiē yínzi，xiǎng qù mǎi dōngxi。",
+      "english": "I have some silver and want to buy something."
     },
     {
-      "chinese": "我在银行换了一些美元(我在銀行換了一些美元)。",
-      "pinyin": "Wǒ zài yínháng huàn le yīxiē Měiyuán.",
-      "english": "I exchanged some U.S. dollars at the bank."
+      "chinese": "你知道银的价格吗？",
+      "pinyin": "nǐ zhīdào yín de jiàgé ma？",
+      "english": "Do you know the price of silver?"
     },
     {
-      "chinese": "这枚戒指是银制的(這枚戒指是銀製的)，很有质感(很有質感)。",
-      "pinyin": "Zhè méi jièzhǐ shì yínzhì de, hěn yǒu zhìgǎn.",
-      "english": "This ring is made of silver and has a nice texture."
+      "chinese": "银饰品很多人都喜欢。",
+      "pinyin": "yín shìpǐn hěn duō rén dōu xǐhuān。",
+      "english": "Many people like silver jewelry."
     }
   ]
 }

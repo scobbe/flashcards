@@ -1,0 +1,26 @@
+{
+  "simplified": "口",
+  "traditional": "口",
+  "pinyin": "kǒu",
+  "english": "mouth; opening; entrance; measure word for people",
+  "etymology": {
+    "type": "pictogram",
+    "description": "口(口) (kǒu, \"mouth; opening; entrance; measure word for people\")",
+    "interpretation": "This character visually represents an open mouth, suggesting notions of speaking or an opening of some kind. Its intuitive design closely aligns with its meanings involving openings or entrances.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想喝水(我想喝水)。",
+      "pinyin": "Wǒ xiǎng hē shuǐ (Wǒ xiǎng hē shuǐ)。",
+      "english": "I want to drink water."
+    },
+    {
+      "chinese": "这口井(這口井)很深(很深)。",
+      "pinyin": "Zhè kǒu jǐng hěn shēn (Zhè kǒu jǐng hěn shēn)。",
+      "english": "This well is very deep."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "士",
+  "traditional": "士",
+  "pinyin": "shì",
+  "english": "soldier",
+  "etymology": {
+    "type": "pictogram",
+    "description": "士(士) (shì, 'soldier') — originally representing a war axe",
+    "interpretation": "The character represents a war axe, symbolizing a soldier's weapon. This intuitive connection highlights the role of soldiers in warfare.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一名士兵(他是一名士兵)。",
+      "pinyin": "tā shì yī míng shìbīng(他是一名士兵)。",
+      "english": "He is a soldier."
+    },
+    {
+      "chinese": "古代的士人(古代的士人)往往受人尊敬。",
+      "pinyin": "gǔdài de shìrén(古代的士人) wǎng wǎng shòu rén zūn jìng。",
+      "english": "Scholars in ancient times were often respected."
+    }
+  ]
+}

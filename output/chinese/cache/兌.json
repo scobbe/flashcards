@@ -1,0 +1,45 @@
+{
+  "simplified": "兌",
+  "traditional": "兌",
+  "pinyin": "duì",
+  "english": "exchange",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "八(八) (bā, \"eight\") + 口(口) (kǒu, \"mouth\") + 人(人) (rén, \"person\") — speech exchanged among people",
+    "interpretation": "This character suggests the idea of communication or exchange through speech among individuals, signifying the concept of exchanging views or information.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们需要进行货币兌换。",
+      "pinyin": "wǒmen xūyào jìnxíng huòbì duìhuàn。",
+      "english": "We need to carry out currency exchange."
+    },
+    {
+      "chinese": "他们在商店里兌换商品。",
+      "pinyin": "tāmen zài shāngdiàn lǐ duìhuàn shāngpǐn。",
+      "english": "They are exchanging goods in the store."
+    }
+  ]
+}

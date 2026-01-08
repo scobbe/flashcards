@@ -1,0 +1,31 @@
+{
+  "simplified": "貝",
+  "traditional": "貝",
+  "pinyin": "bèi",
+  "english": "cowry",
+  "etymology": {
+    "type": "pictogram",
+    "description": "貝(貝) (bèi, \"cowry\")",
+    "interpretation": "The character 貝 visually represents a cowrie shell, which was historically used as a form of currency. This imagery captures its role as a valuable item in ancient trade.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代使用貝作為貨幣。",
+      "pinyin": "gǔdài shǐyòng bèi zuòwéi huòbì。",
+      "english": "In ancient times, cowries were used as currency。"
+    },
+    {
+      "chinese": "貝類通常生活在海洋中。",
+      "pinyin": "bèi lèi tōngcháng shēnghuó zài hǎiyáng zhōng。",
+      "english": "Shellfish typically live in the ocean。"
+    },
+    {
+      "chinese": "貝殼的顏色美麗而多樣。",
+      "pinyin": "bèi kè de yánsè měilì ér duōyàng。",
+      "english": "The colors of the shells are beautiful and varied。"
+    }
+  ]
+}

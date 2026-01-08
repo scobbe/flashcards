@@ -1,0 +1,8 @@
+[得]
+Ideogrammic compound ( 會意 / 会意 ). The ancient form of 得 is 㝵 , composed of 貝 (“cowry”) + 又 (“hand”) — to pick up a cowry > to obtain valuables. A component 彳 was sometimes added to show that the cowry was picked up on the road.
+In the Qin Bamboo and Slip script:
+• a horizontal line was added to the 又 , which means it is replaced with the related 寸 . This is a feature of Qin script, and many characters that used to compound with 又 now compound with 寸 .
+In the Shuowen seal script:
+• the 貝 corrupts into something resembling 見 . However, this should be an error of Shuowen because it can only be only found in Shuowen and not in historical Qin Seal script, Qin Bamboo, and Slip script.
+In the clerical script:
+• the 貝 is simplified as 目 (“eye”); such simplification can be seen in its early form in Spring and Autumn and Warring States bronze inscriptions, Chu Bamboo, and Silk script, as well as other characters such as 具 . Then it corrupts into 旦 (“dawn”) in later clerical script, and Regular script inherited it.

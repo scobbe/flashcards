@@ -1,0 +1,39 @@
+{
+  "simplified": "镬",
+  "traditional": "鑊",
+  "pinyin": "huò",
+  "english": "pot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, 'metal') + 蒦(蒦) (huò, 'pot') — metal used for making a pot",
+    "interpretation": "The character illustrates a metal pot as it combines the concept of 金(金) (jīn, 'metal') with 蒦(蒦) (huò, 'pot'). This makes intuitive sense, as pots are traditionally made from metal.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "蒦",
+      "trad": "蒦",
+      "pinyin": "huò",
+      "english": "pot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个镬是用来煮汤的。(這個鑊是用來煮湯的。)",
+      "pinyin": "zhè ge huò shì yòng lái zhǔ tāng de。",
+      "english": "This pot is used for cooking soup."
+    },
+    {
+      "chinese": "我买了一个新的镬。(我買了個新的鑊。)",
+      "pinyin": "wǒ mǎi le yí gè xīn de huò。",
+      "english": "I bought a new pot."
+    }
+  ]
+}

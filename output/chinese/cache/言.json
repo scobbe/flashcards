@@ -1,0 +1,31 @@
+{
+  "simplified": "言",
+  "traditional": "言",
+  "pinyin": "yán",
+  "english": "speech",
+  "etymology": {
+    "type": "ideogram",
+    "description": "言(言) (yán, \"speech\")",
+    "interpretation": "The character indicates speech through the representation of the tongue, which is a primary organ involved in producing spoken language. By adding a horizontal stroke, it emphasizes the action of speech as the tongue moves.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他说的话很有趣(他說的話很有趣)。",
+      "pinyin": "tā shuō de huà hěn yǒuqù.",
+      "english": "What he said is very interesting."
+    },
+    {
+      "chinese": "我们要好好学习语言(我們要好好學習語言)。",
+      "pinyin": "wǒmen yào hǎohǎo xuéxí yǔyán.",
+      "english": "We need to study language well."
+    },
+    {
+      "chinese": "语言是交流的重要工具(語言是交流的重要工具)。",
+      "pinyin": "yǔyán shì jiāoliú de zhòngyào gōngjù.",
+      "english": "Language is an important tool for communication."
+    }
+  ]
+}

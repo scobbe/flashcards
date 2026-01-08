@@ -1,0 +1,31 @@
+{
+  "simplified": "入",
+  "traditional": "入",
+  "pinyin": "rù",
+  "english": "enter",
+  "etymology": {
+    "type": "ideogram",
+    "description": "入(入) (rù, \"enter\") - an arrowhead indicating the action of entering.",
+    "interpretation": "The character 入 visually represents the concept of entering, akin to an arrow pointing inwards. This creates an intuitive understanding of an action where something moves into a space.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请进(請進)！",
+      "pinyin": "qǐng jìn！",
+      "english": "Please enter!"
+    },
+    {
+      "chinese": "他已经进入(他已經進入)房间(房間)了。",
+      "pinyin": "tā yǐjīng jìnrù fángjiān le。",
+      "english": "He has already entered the room."
+    },
+    {
+      "chinese": "明天我将入(明天我將入)学(學)。",
+      "pinyin": "míngtiān wǒ jiāng rùxué。",
+      "english": "Tomorrow I will enter school."
+    }
+  ]
+}

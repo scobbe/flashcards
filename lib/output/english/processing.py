@@ -12,8 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import List, Optional, Tuple
 
-from lib.common.logging import set_thread_log_context, DEFAULT_PARALLEL_WORKERS
-from lib.common.manifest import is_word_complete, mark_word_complete, init_output_manifest
+from lib.common import set_thread_log_context, DEFAULT_PARALLEL_WORKERS, is_word_complete, mark_word_complete, init_output_manifest
 from lib.output.english.cards import write_english_card_md, generate_english_card_content
 
 

@@ -1,0 +1,44 @@
+{
+  "simplified": "得",
+  "traditional": "得",
+  "pinyin": "de/dé/děi",
+  "english": "structural particle; to get, obtain; must, have to",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "得(得) (de/dé/děi, 'to get, obtain; must, have to') is an ideogrammic compound representing the act of obtaining valuables.",
+    "interpretation": "The character 得 represents the action of picking up a cowry, which was historically a valuable item. This evokes the idea of obtaining something of worth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我得去上班。",
+      "pinyin": "wǒ dé qù shàngbān。",
+      "english": "I have to go to work."
+    },
+    {
+      "chinese": "他得到了很多支持。",
+      "pinyin": "tā dédàole hěn duō zhīchí。",
+      "english": "He received a lot of support."
+    },
+    {
+      "chinese": "你得努力学习。",
+      "pinyin": "nǐ dé nǔlì xuéxí。",
+      "english": "You must study hard."
+    }
+  ]
+}

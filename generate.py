@@ -38,8 +38,7 @@ import sys
 from pathlib import Path
 from typing import List, Optional
 
-from lib.common.utils import _load_env_file, is_cjk_char
-from lib.common.config import load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
+from lib.common import _load_env_file, is_cjk_char, load_folder_config, get_output_dir, CONFIG_FILENAME, clear_output_dir_for_no_cache
 
 
 def create_chunk_folders(input_folder: Path, config, verbose: bool = False) -> int:
@@ -104,7 +103,8 @@ def create_chunk_folders(input_folder: Path, config, verbose: bool = False) -> i
             print(f"[chunk] Created {chunk_name} ({len(chunk_lines)} items)")
 
     return num_chunks
-from lib.common.manifest import load_input_manifest
+
+from lib.common import load_input_manifest
 from lib.input import process_file as process_input_file
 from lib.input.english import process_english_input
 from lib.output.chinese import process_chinese_folder
@@ -256,8 +256,8 @@ def main(argv: Optional[List[str]] = None) -> int:
     )
     parser.add_argument(
         "--model",
-        default=os.environ.get("OPENAI_MODEL"),
-        help="OpenAI model name (overrides OPENAI_MODEL)",
+        default=None,
+        help="OpenAI model name (default: gpt-4o-mini)",
     )
     parser.add_argument(
         "--delay",
