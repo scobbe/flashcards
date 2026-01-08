@@ -2,11 +2,11 @@
   "simplified": "艮",
   "traditional": "艮",
   "pinyin": "gèn",
-  "english": "sound",
+  "english": "stubborn",
   "etymology": {
-    "type": "Ideogrammic compound",
-    "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") = person looking back -> concept of disobedience or limit",
-    "interpretation": "The combination of a person 人(人) and an eye 目(目) suggests a person looking back, symbolizing a sense of limit or resistance. This character conveys the idea of hesitation or stopping.",
+    "type": "ideogrammic compound",
+    "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") = a person looking back -> concept of disobedience or limit",
+    "interpretation": "The combination of 目(目) (mù, \"eye\") and 人(人) (rén, \"person\") suggests the idea of a person looking back, symbolizing stubbornness or defiance, as they resist moving forward or following others.",
     "simplification": ""
   },
   "parts": [
@@ -23,17 +23,17 @@
       "english": "person"
     }
   ],
-  "in_contemporary_usage": false,
+  "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "艮岳山在中国。",
-      "pinyin": "Gèn yuè shān zài Zhōngguó.",
-      "english": "Genyue Mountain is in China."
+      "chinese": "他很艮(他很艮)，不轻易改变主意(不輕易改變主意)。",
+      "pinyin": "Tā hěn gèn, bù qīngyì gǎibiàn zhǔyì.",
+      "english": "He is very stubborn, unwilling to change his mind."
     },
     {
-      "chinese": "艮也是八卦之一。",
-      "pinyin": "Gèn yě shì bāguà zhī yī.",
-      "english": "Gen is also one of the trigrams."
+      "chinese": "他的脾气很艮(他的脾氣很艮)，不容易妥协(不容易妥協)。",
+      "pinyin": "Tā de píqì hěn gèn, bù róngyì tuǒxié.",
+      "english": "His temper is stubborn, making him hard to compromise."
     }
   ]
 }

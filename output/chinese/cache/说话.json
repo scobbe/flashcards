@@ -5,34 +5,40 @@
   "english": "to speak",
   "etymology": {
     "type": "compound word",
-    "description": "說(說) (shuō, \"speak\") + 話(话) (huà, \"speech\") = to utter speech -> to speak",
-    "interpretation": "The combination of 說(說) (shuō, \"speak\") and 話(话) (huà, \"speech\") logically means 'to speak' as it involves the action of speaking words or sentences.",
+    "description": "说(說) (shuō, \"speak\") and 话(話) (huà, \"word; speech\") combine to convey the act of speaking or having a conversation, reflecting the direct action of producing words.",
+    "interpretation": "The combination suggests the action of using words (话/話) to express verbally (说/說), fitting the meaning of speaking or having a conversation.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "说话",
-      "trad": "說話",
-      "pinyin": "shuōhuà",
-      "english": "to speak; to talk; to say; to chat"
+      "char": "说",
+      "trad": "說",
+      "pinyin": "shuō",
+      "english": "speak"
+    },
+    {
+      "char": "话",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "word; speech"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "请小声说话(請小聲說話)。",
-      "pinyin": "Qǐng xiǎoshēng shuōhuà.",
-      "english": "Please speak softly."
+      "pinyin": "qǐng xiǎoshēng shuōhuà.",
+      "english": "Please speak quietly."
     },
     {
-      "chinese": "他说话很快(他說話很快)。",
-      "pinyin": "Tā shuōhuà hěn kuài.",
-      "english": "He speaks very fast."
+      "chinese": "他善于说话(他善於說話)，能让气氛活跃(能讓氣氛活躍)。",
+      "pinyin": "tā shànyú shuōhuà, néng ràng qìfēn huóyuè.",
+      "english": "He is good at speaking and can liven up the atmosphere."
     },
     {
-      "chinese": "我们在说话(我們在說話)。",
-      "pinyin": "Wǒmen zài shuōhuà.",
-      "english": "We are talking."
+      "chinese": "小朋友们说话时(小朋友們說話時)，要注意礼貌(要注意禮貌)。",
+      "pinyin": "xiǎopéngyǒu men shuōhuà shí, yào zhùyì lǐmào.",
+      "english": "When children speak, they should pay attention to manners."
     }
   ]
 }

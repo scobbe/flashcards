@@ -5,27 +5,27 @@
   "english": "eye",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an eye, now rotated 90 degrees",
-    "interpretation": "The character represents a human eye turned sideways from its original vertical representation. This rotation allows it to fit within the square shape of Chinese characters. The form clearly resembles the horizontal structure of an eye, emphasizing its role in vision.",
+    "description": "Eye depicting an eye rotated 90 degrees -> 目(目) (mù, 'eye')",
+    "interpretation": "目(目) (mù, 'eye') visually represents a human eye turned to its side, capturing its essential features. This pictorial representation makes the character immediately intuitive as referring to the eye.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她有美丽的眼睛(她有美麗的眼睛)。",
-      "pinyin": "tā yǒu měilì de yǎnjīng.",
-      "english": "She has beautiful eyes."
+      "chinese": "他的目光锐利(他的目光銳利)。",
+      "pinyin": "Tā de mùguāng ruìlì.",
+      "english": "His gaze is sharp."
     },
     {
-      "chinese": "目不转睛(目不轉睛)地看。",
-      "pinyin": "mù bù zhuǎn jīng de kàn.",
-      "english": "Stare without blinking."
+      "chinese": "我看到远处那闪烁的双目(我看到遠處那閃爍的雙目)。",
+      "pinyin": "Wǒ kàn dào yuǎnchù nà shǎnshuò de shuāng mù.",
+      "english": "I see the twinkling eyes in the distance."
     },
     {
-      "chinese": "他的目光很锐利(他的目光很銳利)。",
-      "pinyin": "tā de mùguāng hěn ruìlì.",
-      "english": "His gaze is very sharp."
+      "chinese": "当晨曦初露时(當晨曦初露時)，他的目中闪烁着智慧(他的目中閃爍著智慧)。",
+      "pinyin": "Dāng chénxī chūlù shí, tā de mù zhōng shǎnshuò zhe zhìhuì.",
+      "english": "When the dawn first appears, wisdom sparkles in his eyes."
     }
   ]
 }

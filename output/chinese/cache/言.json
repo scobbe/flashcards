@@ -1,0 +1,31 @@
+{
+  "simplified": "言",
+  "traditional": "言",
+  "pinyin": "yán",
+  "english": "words",
+  "etymology": {
+    "type": "ideogram",
+    "description": "舌(舌) (shé, 'tongue') with added horizontal stroke -> indicates movement of the tongue -> modern form with additional stroke -> speech",
+    "interpretation": "The character 言(yán, 'words') visually represents the concept of speech by depicting the movement of the tongue, suggesting the act of speaking.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用寥寥几言(他用寥寥幾言)，击中了问题的要害(擊中了問題的要害)。",
+      "pinyin": "tā yòng liáo liáo jǐ yán jī zhòng le wèn tí de yào hài",
+      "english": "He hit the core of the issue with only a few words."
+    },
+    {
+      "chinese": "言出必行(言出必行)。",
+      "pinyin": "yán chū bì xíng",
+      "english": "When he speaks, his words are always followed by actions."
+    },
+    {
+      "chinese": "他说话时总是考虑周到(他說話時總是考慮周到)，每一句言辞都充满智慧(每一句言辭都充滿智慧)。",
+      "pinyin": "tā shuō huà shí zǒng shì kǎo lǜ zhōu dào, měi yī jù yán cí dōu chōng mǎn zhì huì",
+      "english": "When he speaks, he always considers things carefully; every word he utters is full of wisdom."
+    }
+  ]
+}

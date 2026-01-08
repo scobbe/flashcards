@@ -5,27 +5,22 @@
   "english": "enter",
   "etymology": {
     "type": "ideogram",
-    "description": "An arrowhead indicating 'to enter'",
-    "interpretation": "The character 入 is an ideogram that visually suggests the action of entering. The form resembles an arrowhead, which intuitively conveys penetration or movement into an area. This shape effectively represents the concept of entry or ingress.",
+    "description": "Arrowhead indicating entry -> concept of entering or joining",
+    "interpretation": "入(入) (rù, \"enter\") depicts an arrowhead pointing inwards, clearly symbolizing entering or penetrating. This helps convey the action or intent to move into something.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请进来(請進來)。",
-      "pinyin": "qǐng jìnlái.",
-      "english": "Please come in."
+      "chinese": "他走入房间(他走入房間)。",
+      "pinyin": "Tā zǒurù fángjiān.",
+      "english": "He walked into the room."
     },
     {
-      "chinese": "他已经进入(他已經進入)房间(房間)。",
-      "pinyin": "tā yǐjīng jìnrù fángjiān.",
-      "english": "He has already entered the room."
-    },
-    {
-      "chinese": "入口在左边(入口在左邊)。",
-      "pinyin": "rùkǒu zài zuǒbiān.",
-      "english": "The entrance is on the left."
+      "chinese": "学生入课堂(學生入課堂)，认真学习(認真學習)。",
+      "pinyin": "Xuéshēng rù kètáng, rènzhēn xuéxí.",
+      "english": "Students enter the classroom and study diligently."
     }
   ]
 }

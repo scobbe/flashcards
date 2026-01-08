@@ -2,30 +2,30 @@
   "simplified": "來",
   "traditional": "來",
   "pinyin": "lái",
-  "english": "come",
+  "english": "to come",
   "etymology": {
     "type": "Pictogram",
-    "description": "Depicts a wheat plant with an ear, leaves, stem, and roots",
-    "interpretation": "Originally depicting a wheat plant, 來(來) (lái, 'come') was borrowed for the meaning 'to come'. This usage possibly reflects the significance of wheat in ancient cultures or its introduction to the area, leading to its association with arrival or coming forth.",
+    "description": "Depicts wheat: line for ear, upturns for leaves, downturns for stem/roots -> borrowed for 'to come'; additions like 止 (zhǐ, 'foot') added and later removed",
+    "interpretation": "Originally depicting wheat, the character 來(lái, 'to come') was borrowed for its phonetic similarity to the word meaning 'to come'. The components effectively illustrate parts of the wheat plant, which provided an analogy for movement or arrival, hence its borrowed use.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想你来这儿(我想你來這兒)。",
-      "pinyin": "Wǒ xiǎng nǐ lái zhèr.",
-      "english": "I want you to come here."
+      "chinese": "请你来(請你來)，一起享受美好时光(一起享受美好時光)。",
+      "pinyin": "qǐng nǐ lái, yìqǐ xiǎngshòu měihǎo shíguāng.",
+      "english": "Please come and enjoy a wonderful time."
     },
     {
-      "chinese": "请马上来这儿(請馬上來這兒)。",
-      "pinyin": "Qǐng mǎshàng lái zhèr.",
-      "english": "Please come here immediately."
+      "chinese": "春风吹来(春風吹來)，花儿绽放(花兒綻放)。",
+      "pinyin": "chūnfēng chuī lái, huār zhànfàng.",
+      "english": "As the spring breeze comes, the flowers bloom."
     },
     {
-      "chinese": "他来晚了(他來晚了)。",
-      "pinyin": "Tā lái wǎn le.",
-      "english": "He came late."
+      "chinese": "我在门口等你来(我在門口等你來)。",
+      "pinyin": "wǒ zài ménkǒu děng nǐ lái.",
+      "english": "I am waiting for you at the door."
     }
   ]
 }

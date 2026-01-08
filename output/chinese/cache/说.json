@@ -1,0 +1,39 @@
+{
+  "simplified": "说",
+  "traditional": "說",
+  "pinyin": "shuō",
+  "english": "speak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 兌(兌) (duì, \"exchange\") = speech action -> speak",
+    "interpretation": "The character 說(說) combines 言(言) (yán, \"speech\") indicating a verbal action, with 兌(兌) (duì, \"exchange\"), suggesting the idea of exchanging words or speaking. This phono-semantic composition intuitively represents the act of speaking or communicating.",
+    "simplification": "Simplified to 说(說), where 訁(言) (yán, \"speech\") is replaced with 讠(讠) (yán, \"speech\"), a cursive shorthand form, to reduce the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "兌",
+      "trad": "兌",
+      "pinyin": "duì",
+      "english": "exchange"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他说中文(他說中文)。",
+      "pinyin": "Tā shuō Zhōngwén.",
+      "english": "He speaks Chinese."
+    },
+    {
+      "chinese": "妈妈对我说(媽媽對我說)，要好好学习(要好好學習)。",
+      "pinyin": "Māmā duì wǒ shuō, yào hǎohǎo xuéxí.",
+      "english": "Mom told me to study hard."
+    }
+  ]
+}

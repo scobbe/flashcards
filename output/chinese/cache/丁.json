@@ -1,0 +1,26 @@
+{
+  "simplified": "丁",
+  "traditional": "丁",
+  "pinyin": "dīng",
+  "english": "indicates pronunciation",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the head of a nail -> evolved into derivatives representing 'nail' 釘(釘), 'head' 天(天) and 頂(頂), 'city wall' 成(成) and 城(城)",
+    "interpretation": "The character 丁(丁) (dīng) originally depicted the head of a nail. It was used as a base form in the creation of several other characters that evolved to represent different meanings such as 'nail', 'head', and 'city wall'.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "丁是一个汉字(丁是一個漢字)。",
+      "pinyin": "dīng shì yīgè hànzì.",
+      "english": "Ding is a Chinese character."
+    },
+    {
+      "chinese": "‘丁’的读音为 dīng(‘丁’的讀音為 dīng)。",
+      "pinyin": "‘dīng’ de dúyīn wéi dīng.",
+      "english": "The pronunciation of '丁' is dīng."
+    }
+  ]
+}

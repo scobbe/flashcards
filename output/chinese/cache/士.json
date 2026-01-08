@@ -5,27 +5,27 @@
   "english": "upside-down ritual axe",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a war axe",
-    "interpretation": "The character 士 initially depicted a war axe, which symbolized martial prowess. Over time, this association expanded to include soldierly qualities and later evolved to mean officer or intellectual.",
+    "description": "Depicts an upside-down ritual axe -> later associated with soldier and intellectual -> final form 士",
+    "interpretation": "士(士) (shì, 'upside-down ritual axe') originally depicted a war axe, reflecting its association with martial roles like soldiers and officers. Over time, its meaning broadened to include intellectuals, reflecting the cultural evolution from warriors to scholar-officials.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一名士兵(他是一名士兵)，服役多年。",
-      "pinyin": "Tā shì yī míng shìbīng, fúyì duō nián.",
-      "english": "He is a soldier who has served for many years."
+      "chinese": "在古代祭祀中(在古代祭祀中)，士被倒置使用(士被倒置使用)。",
+      "pinyin": "Zài gǔdài jìsì zhōng, shì bèi dào zhì shǐyòng.",
+      "english": "During ancient rituals, the upside-down ritual axe was used."
     },
     {
-      "chinese": "士林是一个著名的夜市(士林是一個著名的夜市)。",
-      "pinyin": "Shìlín shì yí gè zhùmíng de yèshì.",
-      "english": "Shilin is a famous night market."
+      "chinese": "雕刻师精心打造了士(雕刻師精心打造了士)。",
+      "pinyin": "Diāokè shī jīngxīn dǎzào le shì.",
+      "english": "The sculptor meticulously crafted the upside-down ritual axe."
     },
     {
-      "chinese": "求学是每个士子(求學是每個士子)的梦想。",
-      "pinyin": "Qiúxué shì měi ge shìzǐ de mèngxiǎng.",
-      "english": "Pursuing education is the dream of every scholar."
+      "chinese": "博物馆展出了罕见的古代器物(博物館展出了罕見的古代器物)，其中包括倒放的士(其中包括倒放的士)。",
+      "pinyin": "Bówù guǎn zhǎnchū le hǎnjiàn de gǔdài qìwù, qízhōng bāokuò dàofàng de shì.",
+      "english": "The museum displayed rare ancient artifacts, including the inverted ritual axe."
     }
   ]
 }

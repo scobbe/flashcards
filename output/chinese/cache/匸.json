@@ -1,0 +1,26 @@
+{
+  "simplified": "匸",
+  "traditional": "匸",
+  "pinyin": "xì",
+  "english": "enclosure",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a graphic sign 𠃊 to symbolize something that hides something or someone",
+    "interpretation": "The character 匸(xì, \"enclosure\") depicts a shape resembling a lid or cover, suggesting something that closes or conceals a space.",
+    "simplification": "None, since 匸(xì, \"enclosure\") is both the simplified and traditional form."
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "学者研究匸的结构(學者研究匸的結構)，认为其代表一种围合概念(認為其代表一種圍合概念)。",
+      "pinyin": "Xuézhě yánjiū xì de jiégòu, rènwéi qí dàibiǎo yī zhǒng wéihé gàiniàn.",
+      "english": "Scholars study the structure of the enclosure, believing it represents a concept of encapsulation."
+    },
+    {
+      "chinese": "古籍记载匸的演变(古籍記載匸的演變)，体现古人智慧(體現古人智慧)。",
+      "pinyin": "Gǔjí jìzǎi xì de yǎnbiàn, tǐxiàn gǔrén zhìhuì.",
+      "english": "Ancient texts record the evolution of the enclosure, reflecting the wisdom of the ancients."
+    }
+  ]
+}

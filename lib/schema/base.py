@@ -233,7 +233,20 @@ def format_field_for_display(
                 for child_name in field.children or []:
                     child_value = value.get(child_name)
                     if child_value:
-                        lines.append(f"{prefix}  - **{child_name}:** {child_value}")
+                        # Special handling for description: split on " -> " and " = " into bullets, keeping delimiters
+                        if child_name == "description" and (" -> " in child_value or " = " in child_value):
+                            lines.append(f"{prefix}  - **{child_name}:**")
+                            # Split on " -> ", keep delimiter at end of each part except last
+                            arrow_parts = child_value.split(" -> ")
+                            for i, arrow_part in enumerate(arrow_parts):
+                                arrow_suffix = " ->" if i < len(arrow_parts) - 1 else ""
+                                # Split on " = ", keep delimiter at end of each part except last
+                                eq_parts = arrow_part.split(" = ")
+                                for j, eq_part in enumerate(eq_parts):
+                                    eq_suffix = " =" if j < len(eq_parts) - 1 else arrow_suffix
+                                    lines.append(f"{prefix}    - {eq_part.strip()}{eq_suffix}")
+                        else:
+                            lines.append(f"{prefix}  - **{child_name}:** {child_value}")
 
     return lines
 

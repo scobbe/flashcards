@@ -4,10 +4,10 @@
   "pinyin": "zhōu",
   "english": "porridge",
   "etymology": {
-    "type": "reduced form",
-    "description": "Reduced form of 鬻(鬻) (yù, \"congee\")",
-    "interpretation": "粥 is a simplified character derived from 鬻, which originally depicted the process of cooking rice in a cauldron, representing congee. The reduction maintains the core meaning of 'porridge' while omitting the more complex components.",
-    "simplification": "Simplified by reducing the complex 鬻 to 粥, retaining the core meaning related to congee."
+    "type": "reduced form of",
+    "description": "鬻(鬻) (yù, 'congee') original form with ideogrammic compound 䰜(䰜) (lì, 'cauldron') + 米(米) (mǐ, 'rice') = cauldron cooking rice -> depicts congee -> 粥(粥) (zhōu) as reduced form for 'porridge'",
+    "interpretation": "The character 粥(粥) (zhōu, 'porridge') was derived by simplifying its original form 鬻(鬻) (yù, 'congee'), which effectively conveyed the idea of rice cooking in a cauldron. The simplified character retained the core meaning while reducing complexity.",
+    "simplification": "粥(粥) is a reduction of 鬻(鬻), likely streamlined for easier reproduction while preserving the phonetic sound and essential meaning of 'congee' or 'porridge'."
   },
   "parts": [
     {
@@ -20,19 +20,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我早上喜欢吃粥。",
-      "pinyin": "Wǒ zǎoshang xǐhuān chī zhōu.",
-      "english": "I like to eat porridge in the morning."
+      "chinese": "每天早上我都会喝一碗热粥(每天早上我都會喝一碗熱粥)。",
+      "pinyin": "Měitiān zǎoshang wǒ dōuhuì hē yī wǎn rè zhōu.",
+      "english": "Every morning, I always drink a bowl of hot porridge."
     },
     {
-      "chinese": "广东人经常喝粥。",
-      "pinyin": "Guǎngdōng rén jīngcháng hē zhōu.",
-      "english": "Cantonese people often drink porridge."
-    },
-    {
-      "chinese": "粥是很有营养的食物。",
-      "pinyin": "Zhōu shì hěn yǒu yíngyǎng de shíwù.",
-      "english": "Porridge is a very nutritious food."
+      "chinese": "天气冷了(天氣冷了)，一碗粥让人感觉温暖(一碗粥讓人感覺溫暖)。",
+      "pinyin": "Tiānqì lěngle, yī wǎn zhōu ràng rén gǎnjué wēnnuǎn.",
+      "english": "When the weather is cold, a bowl of porridge makes one feel warm."
     }
   ]
 }

@@ -2,19 +2,19 @@
   "simplified": "麦",
   "traditional": "麥",
   "pinyin": "mài",
-  "english": "wheat; grain",
+  "english": "wheat",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic: 來 (come) + Semantic: 夊 (slow footprint) = growth & origin -> wheat",
-    "interpretation": "The character 麥 emphasizes growth and origin, with 來 providing the phonetic cue and 夊 suggesting movement or growth. This combination cleverly reflects wheat as both a growing plant and a staple arriving from ancient trade or cultivation.",
-    "simplification": "The 八 component in traditional 麥 was altered into a single horizontal line in simplified 麦, simplifying the character form."
+    "type": "Phono-semantic compound",
+    "description": "Phonetic: 來(來) (lái, 'to come') + Semantic: 夊(夊) (suī, 'footprint pointing down; to walk slowly') -> differentiation from 來(來) (lái, 'wheat') -> 麥(麥) (mài, 'wheat')",
+    "interpretation": "Originally, 來(來) (lái) referred to 'wheat,' but was borrowed for 'to come.' The character 麥(麥) (mài) was then created, using 夊(夊) (suī, 'footprint pointing down'), possibly to symbolize slow growth or an ancient concept related to wheat, to denote 'wheat' specifically.",
+    "simplification": "Simplified to 麦(麥) (mài) by changing 八(八) (bā, 'eight') to a simple horizontal stroke for visual simplification while retaining the pronunciation mài."
   },
   "parts": [
     {
       "char": "來",
       "trad": "來",
       "pinyin": "lái",
-      "english": "come"
+      "english": "to come"
     },
     {
       "char": "夊",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这片田里种了很多麦(這片田裡種了很多麥)。",
-      "pinyin": "Zhè piàn tián lǐ zhòng le hěn duō mài.",
-      "english": "Many wheat crops are planted in this field."
+      "chinese": "春天来临时(春天來臨時)，田野里的麦子开始萌发(田野裡的麥子開始萌發)。",
+      "pinyin": "Chūntiān láilín shí, tiányě lǐ de màizi kāishǐ méngfā.",
+      "english": "When spring comes, the wheat in the fields begins to sprout."
     },
     {
-      "chinese": "他喜欢吃麦片(他喜歡吃麥片)。",
-      "pinyin": "Tā xǐhuān chī màipiàn.",
-      "english": "He likes to eat oatmeal."
+      "chinese": "农夫用镰刀收割成熟的麦田(農夫用鐮刀收割成熟的麥田)。",
+      "pinyin": "Nóngfū yòng liántāo shōugē chéngshú de màitián.",
+      "english": "The farmer harvests the ripe wheat fields with a sickle."
+    },
+    {
+      "chinese": "面包是由麦制成的(麵包是由麥制成的)。",
+      "pinyin": "Miànbāo shì yóu mài zhìchéng de.",
+      "english": "Bread is made from wheat."
     }
   ]
 }

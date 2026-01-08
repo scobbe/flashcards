@@ -1,0 +1,39 @@
+{
+  "simplified": "旦",
+  "traditional": "旦",
+  "pinyin": "dàn",
+  "english": "dawn",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") + 丁(丁) (dīng) = sun over horizon (folk etymology) -> dawn",
+    "interpretation": "The character combines 日(日) (rì, \"sun\") with 丁(丁), traditionally thought to show the sun rising over the horizon, representing the concept of dawn. This visual depiction intuitively conveys the beginning of a new day.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "indicates pronunciation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜深人静时(夜深人靜時)，旦光破晓而出(旦光破曉而出)。",
+      "pinyin": "Yè shēn rén jìng shí, dàn guāng pò xiǎo ér chū.",
+      "english": "When the night is deep and serene, the light of dawn breaks through."
+    },
+    {
+      "chinese": "山巅积雪未融时(山巔積雪未融時)，旦曦映照群峰(旦曦映照羣峰)。",
+      "pinyin": "Shān diān jī xuě wèi róng shí, dàn xī yìng zhào qún fēng.",
+      "english": "When the snow on the mountain peak has not yet melted, the first light of dawn illuminates the peaks."
+    }
+  ]
+}

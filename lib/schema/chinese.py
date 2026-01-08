@@ -29,18 +29,35 @@ def _join(lines: List[str]) -> str:
 
 
 # Reusable format instructions
-CHAR_REF_FORMAT = '简(繁) (pinyin, "def"), e.g. 说(說) (shuō, "speak")'
-CHAR_REF_RULE = f"EVERY Chinese character reference (except the current char) MUST use format {CHAR_REF_FORMAT} - NEVER write bare characters"
+# Format: 简(繁) SPACE (pinyin, "def") - note the REQUIRED space between 简(繁) and (pinyin, "def")
+CHAR_REF_FORMAT = '简(繁) (pinyin, "def") with REQUIRED SPACE before the pinyin parenthetical'
+CHAR_REF_RULE = (
+    "ALL character references MUST use this EXACT format: 简(繁) (pinyin, \"def\")\n"
+    "- REQUIRED: 简(繁) with traditional in parentheses\n"
+    "- REQUIRED: space between 简(繁) and (pinyin, \"def\")\n"
+    "- REQUIRED: pinyin with tone marks\n"
+    "- REQUIRED: double quotes around definition, NEVER single quotes\n"
+    "- REQUIRED: applies to EVERY character mentioned, no exceptions\n"
+    "- CORRECT: 士(士) (shì, \"scholar\"), 呂(呂) (lǚ, \"spine\")\n"
+    "- CORRECT: 说(說) (shuō, \"speak\"), 人(人) (rén, \"person\")\n"
+    "- WRONG: 士 (\"scholar\") - missing 士(士) and pinyin\n"
+    "- WRONG: 说(說)(shuō, \"speak\") - missing space\n"
+    "- WRONG: 说(說) (shuō, 'speak') - single quotes\n"
+    "- WRONG: 说 or 說 alone - bare characters forbidden"
+)
 LENGTH_RULE = "1-2 sentences MAX"
 
 CLAUSE_TRAD_RULE = [
-    'MANDATORY FORMAT: simplified_clause(traditional_clause)punctuation',
+    'REQUIRED FORMAT: Each clause gets (traditional) immediately after, then punctuation',
+    'Traditional form in parentheses is MANDATORY - never omit it',
+    'For single clause: simplified(traditional)punctuation',
+    'For comma sentences: clause1(trad1)，clause2(trad2)。',
+    'CORRECT: 银色是一种优雅的颜色(銀色是一種優雅的顏色)。',
     'CORRECT: 我有银子(我有銀子)，想买东西(想買東西)。',
-    'CORRECT: 买银子(買銀子)。',
-    'WRONG: 买银子。(買銀子。) - NEVER put punctuation inside parens',
-    'WRONG: 米是粮食。(米是糧食。) - this format is FORBIDDEN',
-    'Traditional in parens must be FULL sentence: 我吃饭(我吃飯)。 NOT 我吃饭(吃飯)。',
-    'Pinyin must be romanization ONLY - no Chinese characters in pinyin field',
+    'CORRECT: 春天到来时(春天到來時)，麦田变得金黄(麥田變得金黃)。',
+    'WRONG: 春天到来时，麦田变得金黄(春天到來時，麥田變得金黃)。 - trad at end instead of after each clause',
+    'WRONG: 银色是一种优雅的颜色。 - MISSING traditional form',
+    'Pinyin must be romanization ONLY - no Chinese characters',
 ]
 
 EXAMPLE_SENTENCE_RULES = [
@@ -82,21 +99,23 @@ CHINESE_PROMPT_FIELDS = [
         name="description",
         prompt={
             "single_char": _join([
-                "SHORT FORMULA ONLY - no verbose explanations",
+                "SHORT FORMULA showing the character's evolutionary history through its components",
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
+                "Show progression using ARROWS: original components -> intermediate meaning -> later additions -> final form",
+                "Use ARROWS (->) to separate each step, NOT semicolons",
                 "For PICTOGRAMS: 'Depicts X'",
                 'E.g. 日(日) (rì, "sun") depicts the sun',
                 'E.g. 水(水) (shuǐ, "water") depicts flowing water',
-                'For COMPOUNDS: "A (meaning) + B (meaning) = intuitive explanation -> final meaning"',
+                'For COMPOUNDS: "A (meaning) + B (meaning) = explanation -> final meaning"',
                 'E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") = person leaning against tree -> rest',
-                'E.g. 日(日) (rì, "sun") + 月(月) (yuè, "moon") = sun and moon together -> bright',
-                'E.g. 女(女) (nǚ, "woman") + 子(子) (zǐ, "child") = woman with child -> good',
                 'E.g. semantic: 氵(氵) (shuǐ, "water") + phonetic: 青(青) (qīng) = clear water -> clear',
-                'For REDUCED/RELATED FORMS: "Reduced/related form of X" where X is the original char with format',
-                'E.g. 云(雲) (yún) = reduced form of 雲(雲) (yún, "cloud")',
-                'E.g. 从(從) (cóng) = reduced form of 從(從) (cóng, "follow")',
-                "MUST use EXACTLY the parts from 'parts' field",
+                'For COMPOUNDS with evolution in Wiktionary: show how character developed through stages',
+                'E.g. 貝(貝) (bèi, "cowry") + 又(又) (yòu, "hand") -> obtaining valuables -> 彳(彳) (chì, "step") added, 又 changed to 寸(寸) (cùn, "inch"), 貝 corrupted to 旦(旦) (dàn, "dawn") -> final form 得',
+                'For ANCIENT/RELATED FORMS: show historical relationship to contemporary form',
+                'E.g. 䰜(䰜) (lì, "cauldron") is an ancient form of 鬲(鬲) (lì, "cauldron"), both depict a cooking vessel, diverged over time',
+                "Include ALL components from Wiktionary that explain the character's development",
+                "MUST use EXACTLY ALL parts from 'parts' field - don't omit any",
             ]),
             "multi_char": _join([
                 CHAR_REF_RULE,
@@ -142,11 +161,12 @@ CHINESE_PROMPT_FIELDS = [
         prompt={
             "single_char": _join([
                 LENGTH_RULE,
+                CHAR_REF_RULE,
                 "Explain the SPECIFIC historical process - NOT generic 'for ease of writing'",
                 "Was it: a cursive shorthand? a sound-alike? a meaning-based replacement?",
-                "E.g. 鄰→邻: '令 replaced 粦 as a simpler phonetic - both sound similar (lín/lìng)'",
-                "E.g. 淚→泪: '目 (eye) replaced 戾 for semantic clarity - tears come from eyes'",
-                "E.g. 鳳→凤: '又 is a cursive shorthand for the bird radical - unrelated to sound or meaning'",
+                "E.g. 鄰(鄰)→邻(鄰): 令(令) (lìng, \"order\") replaced 粦(粦) (lín, \"fire\") as a simpler phonetic",
+                "E.g. 淚(淚)→泪(淚): 目(目) (mù, \"eye\") replaced 戾(戾) (lì, \"oppose\") for semantic clarity",
+                "E.g. 鳳(鳳)→凤(鳳): 又(又) (yòu, \"again\") is a cursive shorthand for the bird radical",
                 "NEVER say 'simplified for ease' without explaining HOW (cursive? phonetic? semantic?)",
                 'Or "none" if traditional = simplified',
             ]),
@@ -170,9 +190,14 @@ CHINESE_PROMPT_FIELDS = [
             ]),
             "multi_char": _join([
                 "Array of MORPHEME breakdown [{char, trad, pinyin, english}].",
-                "Split into meaningful subwords, NOT individual characters",
-                "E.g. 图书馆 → [图书, 馆] not [图, 书, 馆]",
-                "E.g. 电影明星 → [电影, 明星] not [电, 影, 明, 星]",
+                "Use your knowledge of Chinese to split into meaningful morphemes.",
+                "NEVER return the whole word as a single part - ALWAYS break it down.",
+                "For 2-char words: usually split into 2 individual characters.",
+                "For 3+ char words: split into meaningful morphemes (may be 1, 2, or 3 chars each).",
+                "Keep compound words together when they form a single meaning unit.",
+                "E.g. 燕麦粥 → [燕麦, 粥] because 燕麦='oats' is one lexical unit",
+                "E.g. 大同区 → [大同, 区] because 大同='Great Unity' is a Confucian concept and place name",
+                "E.g. 图书馆 → [图书, 馆] because 图书='books' is one unit",
                 "Each part: pinyin with tone marks, up to 4 meanings separated by '; ' (semicolon + space)",
             ]),
         },
@@ -192,10 +217,18 @@ CHINESE_PROMPT_FIELDS = [
         prompt={
             "single_char": _join([
                 "Array of 2-3 sentences [{chinese, pinyin, english}].",
+                "chinese field MUST have format: simplified(traditional)punctuation",
+                "E.g. chinese: \"银色是一种优雅的颜色(銀色是一種優雅的顏色)。\"",
+                "E.g. chinese: \"我有银子(我有銀子)，想买东西(想買東西)。\"",
+                "WRONG: \"银色是一种优雅的颜色。\" - missing traditional",
                 *EXAMPLE_SENTENCE_RULES,
             ]),
             "multi_char": _join([
                 "Array of 2-3 sentences [{chinese, pinyin, english}].",
+                "chinese field MUST have format: simplified(traditional)punctuation",
+                "E.g. chinese: \"我们说话(我們說話)。\"",
+                "E.g. chinese: \"人口增长很快(人口增長很快)。\"",
+                "WRONG: \"我们说话。\" - missing traditional",
                 *EXAMPLE_SENTENCE_RULES,
             ]),
         },
@@ -208,6 +241,35 @@ CHINESE_PROMPT_FIELDS = [
 def generate_system_prompt(variant: str) -> str:
     """Generate the system prompt for Chinese card generation."""
     return _generate_system_prompt(CHINESE_PROMPT_PREAMBLE, CHINESE_PROMPT_FIELDS, variant)
+
+
+def generate_system_prompt_no_examples(variant: str) -> str:
+    """Generate system prompt WITHOUT examples field."""
+    fields_no_examples = [f for f in CHINESE_PROMPT_FIELDS if f.name != "examples"]
+    return _generate_system_prompt(CHINESE_PROMPT_PREAMBLE, fields_no_examples, variant)
+
+
+def generate_examples_system_prompt(variant: str) -> str:
+    """Generate system prompt for examples ONLY."""
+    examples_field = next((f for f in CHINESE_PROMPT_FIELDS if f.name == "examples"), None)
+    if not examples_field:
+        return ""
+
+    preamble = (
+        "Chinese example sentence generator.\n"
+        "FORMAT: Each clause gets its own (traditional) immediately after, then punctuation.\n"
+        "For single clause: simplified(traditional)punctuation\n"
+        "For comma sentences: clause1(trad1)，clause2(trad2)。\n"
+        "CORRECT: \"我们在大门口等你(我們在大門口等你)。\"\n"
+        "CORRECT: \"春天到来时(春天到來時)，麦田变得金黄(麥田變得金黃)。\"\n"
+        "CORRECT: \"我有银子(我有銀子)，想买东西(想買東西)。\"\n"
+        "WRONG: \"春天到来时，麦田变得金黄(春天到來時，麥田變得金黃)。\" - trad at end instead of after each clause\n"
+        "PINYIN MUST have tone marks (ā á ǎ à, ē é ě è, etc.) - NEVER plain letters.\n"
+        "CORRECT: \"Wǒ měitiān zǎochén dōu huì chī yī wǎn yànmàizhōu.\"\n"
+        "WRONG: \"Wo meitian zaochen dou hui chi yi wan yanmaizhou.\""
+    )
+    prompt = examples_field.get_prompt(variant)
+    return f"{preamble}\nReturn JSON with this field:\n- examples: {prompt}"
 
 
 def extract_response_fields(response_data: dict) -> dict:
@@ -366,6 +428,8 @@ __all__ = [
     "CHINESE_PROMPT_PREAMBLE",
     "CHINESE_PROMPT_FIELDS",
     "generate_system_prompt",
+    "generate_system_prompt_no_examples",
+    "generate_examples_system_prompt",
     "extract_response_fields",
     "get_required_field_names",
     # Cache helpers

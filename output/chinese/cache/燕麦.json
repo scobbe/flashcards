@@ -2,43 +2,38 @@
   "simplified": "燕麦",
   "traditional": "燕麥",
   "pinyin": "yànmài",
-  "english": "oat",
+  "english": "oats",
   "etymology": {
     "type": "compound word",
-    "description": "燕(yàn, \"swallow (bird)\") + 麦(麥) (mài, \"wheat; grain\") = oat",
-    "interpretation": "燕(yàn, \"swallow (bird)\") refers to the region associated with the bird, and 麦(麥) (mài, \"wheat; grain\") describes the grain. Together, the term describes a grain—oat—that grows in the region.",
-    "simplification": ""
+    "description": "燕(燕) (yàn, \"swallow; calm\") + 麦(麥) (mài, \"wheat\") = a grain related to wheat commonly known as oats",
+    "interpretation": "燕(燕) (yàn, \"swallow; calm\") and 麦(麥) (mài, \"wheat\") combine to describe a cereal grain that is similar in agricultural characteristics to wheat but is specifically used to refer to oats.",
+    "simplification": "燕 simplified to 燕 and 麥 simplified to 麦"
   },
   "parts": [
     {
       "char": "燕",
       "trad": "燕",
       "pinyin": "yàn",
-      "english": "swallow (bird)"
+      "english": "swallow; calm"
     },
     {
       "char": "麦",
       "trad": "麥",
       "pinyin": "mài",
-      "english": "wheat; grain"
+      "english": "wheat"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "燕麦是一种健康的早餐选择。",
-      "pinyin": "Yànmài shì yī zhǒng jiànkāng de zǎocān xuǎnzé.",
-      "english": "Oat is a healthy breakfast choice."
+      "chinese": "我每天早上吃燕麦(我每天早上吃燕麥)。",
+      "pinyin": "Wǒ měitiān zǎoshang chī yànmài.",
+      "english": "I eat oats every morning."
     },
     {
-      "chinese": "他每天早上喝一杯燕麦牛奶。",
-      "pinyin": "Tā měitiān zǎoshang hē yī bēi yànmài niúnǎi.",
-      "english": "He drinks a cup of oat milk every morning."
-    },
-    {
-      "chinese": "燕麦片可以用来制作饼干。",
-      "pinyin": "Yànmài piàn kěyǐ yòng lái zhìzuò bǐnggān.",
-      "english": "Oat flakes can be used to make cookies."
+      "chinese": "燕麦富含蛋白质(燕麥富含蛋白質)，适合做早餐(適合做早餐)。",
+      "pinyin": "Yànmài fùhán dànbáizhí, shìhé zuò zǎocān.",
+      "english": "Oats are rich in protein and are suitable for breakfast."
     }
   ]
 }

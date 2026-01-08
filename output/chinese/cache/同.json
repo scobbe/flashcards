@@ -1,0 +1,26 @@
+{
+  "simplified": "同",
+  "traditional": "同",
+  "pinyin": "tóng",
+  "english": "same; together",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pipe -> later added decorative 口 (kǒu, \"mouth\") -> evolved into 筒(tóng, \"pipe\")",
+    "interpretation": "Originally depicting a pipe, 同(tóng) was likely visualized as a cylindrical object. The later addition of 口(kǒu, \"mouth\") to the character may have been decorative or added to emphasize cooperation or messages passed through a pipe, thus associating it with the idea of togetherness or communication.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们同享美食(我們同享美食)。",
+      "pinyin": "Wǒ tóng xiǎng měishí.",
+      "english": "We enjoy food together."
+    },
+    {
+      "chinese": "他和我目光相同(他和我目光相同)，心意一致(心意一致)。",
+      "pinyin": "Tā hé wǒ mùguāng xiāngtóng, xīnyì yīzhì.",
+      "english": "He and I have the same perspective, and our hearts are in agreement."
+    }
+  ]
+}

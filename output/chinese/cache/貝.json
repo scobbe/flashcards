@@ -5,22 +5,27 @@
   "english": "cowry",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cowry shell",
-    "interpretation": "The character 貝 (bèi) visually represents a cowry shell, which was used as currency in ancient China. This pictogram captures the shape and form of a shell, highlighting its economic significance.",
+    "description": "Depicts a cowry shell, which was used as currency in ancient China",
+    "interpretation": "The character 貝(貝) (bèi, 'cowry') directly represents the appearance of a cowry shell, highlighting its historical use as a form of currency.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "海边找到贝壳(海邊找到貝殼)。",
-      "pinyin": "Hǎibiān zhǎodào bèiké.",
-      "english": "Found a shell at the seaside."
+      "chinese": "古代人用貝(古代人用貝)，当作货币(當作貨幣)。",
+      "pinyin": "Gǔdài rén yòng bèi，dāng zuò huòbì。",
+      "english": "Ancient people used cowry shells as currency."
     },
     {
-      "chinese": "贝类是一种海洋生物(貝類是一種海洋生物)。",
-      "pinyin": "Bèilèi shì yī zhǒng hǎiyáng shēngwù.",
-      "english": "Shellfish is a type of marine organism."
+      "chinese": "博物馆展出一件珍贵的貝(博物館展出一件珍貴的貝)。",
+      "pinyin": "Bówùguǎn zhǎnchū yī jiàn zhēnguì de bèi。",
+      "english": "The museum displays a precious cowry shell."
+    },
+    {
+      "chinese": "诗人借貝形象来比喻人生(詩人借貝形象來比喻人生)。",
+      "pinyin": "Shīrén jiè bèi xíngxiàng lái bǐyù rénshēng。",
+      "english": "The poet uses the image of a cowry shell to metaphorically describe life."
     }
   ]
 }

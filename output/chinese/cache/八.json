@@ -1,0 +1,26 @@
+{
+  "simplified": "八",
+  "traditional": "八",
+  "pinyin": "bā",
+  "english": "\"speech; breath\"",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two bent lines -> originally 'divide' -> borrowed for 'eight'",
+    "interpretation": "The character 八(bā, 'eight') originally depicted the concept of division with two bent lines, symbolizing splitting or dividing. It was borrowed for the sound to represent 'eight', replacing its original meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的八充满智慧(他的八充滿智慧)。",
+      "pinyin": "Tā de bā chōng mǎn zhì huì.",
+      "english": "His speech is full of wisdom."
+    },
+    {
+      "chinese": "晨风拂面时(晨風拂面時)，他的八带来温暖(他的八帶來溫暖)。",
+      "pinyin": "Chén fēng fú miàn shí, tā de bā dài lái wēn nuǎn.",
+      "english": "When the morning breeze brushes the face, his breath brings warmth."
+    }
+  ]
+}

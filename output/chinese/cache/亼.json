@@ -1,12 +1,12 @@
 {
   "simplified": "亼",
   "traditional": "亼",
-  "pinyin": "jí",
-  "english": "phonetic element",
+  "pinyin": "",
+  "english": "",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gathering from three sides -> gather",
-    "interpretation": "The character 亼 combines 入(入) (rù, \"enter\") and 一(一) (yī, \"one\") to convey the idea of things coming together from different sides, similar to the concept of gathering. Its connection to ancient 集(集) (jí, \"gather\") strengthens this meaning.",
+    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gathering from three sides",
+    "interpretation": "The character 亼 captures the concept of convergence or assembly, symbolizing items coming together from three sides. The elements suggest a process of collection or formation.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "在古书(在古書)，这个字很常见。",
-      "pinyin": "Zài gǔshū, zhège zì hěn chángjiàn.",
-      "english": "In ancient books, this character is very common."
+      "chinese": "游客们亼在博物馆前(遊客們亼在博物館前)，等待讲解(等待講解)。",
+      "pinyin": "Yóukèmen jí zài bówùguǎn qián, děngdài jiǎngjiě.",
+      "english": "The tourists gathered in front of the museum, waiting for an explanation."
     },
     {
-      "chinese": "亼出现在一些名字里。",
-      "pinyin": "Jí chūxiàn zài yìxiē míngzì lǐ.",
-      "english": "亼 appears in some names."
+      "chinese": "同学们亼在图书馆内(同學們亼在圖書館內)，共同学习(共同學習)。",
+      "pinyin": "Tóngxuémen jí zài túshūguǎn nèi, gòngtóng xuéxí.",
+      "english": "The classmates gathered inside the library, studying together."
+    },
+    {
+      "chinese": "村民们亼在古老广场上(村民們亼在古老廣場上)，庆祝丰收(慶祝豐收)。",
+      "pinyin": "Cūnmínmen jí zài gǔlǎo guǎngchǎng shàng, qìngzhù fēngshōu.",
+      "english": "The villagers gathered in the old square, celebrating the harvest."
     }
   ]
 }

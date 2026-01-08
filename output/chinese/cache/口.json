@@ -1,0 +1,31 @@
+{
+  "simplified": "口",
+  "traditional": "口",
+  "pinyin": "kǒu",
+  "english": "mouth; opening; entrance; measure word for people (in census)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an open mouth",
+    "interpretation": "The character 口(口) (kǒu, \"mouth\") is a pictogram that intuitively illustrates the shape of an open mouth, making it straightforward to associate with meanings related to oral communication, entry points, and counting word for people.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他张开口大笑(他張開口大笑)。",
+      "pinyin": "Tā zhāng kāi kǒu dà xiào。",
+      "english": "He opened his mouth wide and laughed heartily."
+    },
+    {
+      "chinese": "我们从城门口进入(我們從城門口進入)，参观古城(參觀古城)。",
+      "pinyin": "Wǒ men cóng chéng mén kǒu jìn rù, cān guān gǔ chéng。",
+      "english": "We entered through the city gate and visited the ancient city."
+    },
+    {
+      "chinese": "全家五口人(全家五口人)，和睦相处(和睦相處)。",
+      "pinyin": "Quán jiā wǔ kǒu rén, hé mù xiāng chǔ。",
+      "english": "The family, consisting of five members, lives in harmony."
+    }
+  ]
+}

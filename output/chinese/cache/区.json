@@ -1,0 +1,44 @@
+{
+  "simplified": "区",
+  "traditional": "區",
+  "pinyin": "qū",
+  "english": "district",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "匸(匸) (xì, \"enclosure\") + 品(品) (pǐn, \"many people\") = many people inside an enclosure -> district",
+    "interpretation": "The character represents the idea of a space that contains many people, suggesting a defined area or district.",
+    "simplification": "區(區) simplified to 区(區) by replacing 品(品) (pǐn, \"many people\") with 乂(乂) (yì, \"to govern\"), which is visually simpler."
+  },
+  "parts": [
+    {
+      "char": "匸",
+      "trad": "匸",
+      "pinyin": "xì",
+      "english": "enclosure"
+    },
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "many people"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个区风景秀丽(這個區風景秀麗)。",
+      "pinyin": "Zhège qū fēngjǐng xiùlì.",
+      "english": "This district boasts beautiful scenery."
+    },
+    {
+      "chinese": "他们参观了老区展览(他們參觀了老區展覽)，了解了丰富的历史(了解了豐富的歷史)。",
+      "pinyin": "Tāmen cānguānle lǎo qū zhǎnlǎn, liǎojiěle fēngfù de lìshǐ.",
+      "english": "They visited the exhibition in the old district and learned about its rich history."
+    },
+    {
+      "chinese": "新区规划合理(新區規劃合理)，未来发展可期(未來發展可期)。",
+      "pinyin": "Xīn qū guīhuà hélǐ, wèilái fāzhǎn kě qī.",
+      "english": "The new district is well planned, and its future development is promising."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "日",
+  "traditional": "日",
+  "pinyin": "rì",
+  "english": "sun",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the sun -> dot/line added for distinction",
+    "interpretation": "The character 日(日) (rì, \"sun\") represents the sun, and its form reflects this by resembling a circle with a central dot or line, akin to historical symbols for the sun across cultures.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "日光洒满大地(日光灑滿大地)。",
+      "pinyin": "Rìguāng sǎ mǎn dàdì.",
+      "english": "Sunlight spreads across the land."
+    },
+    {
+      "chinese": "当日西沉时(當日西沉時)，晚霞映红天际(晚霞映紅天際)。",
+      "pinyin": "Dāng rì xī chén shí, wǎn xiá yìng hóng tiānjì.",
+      "english": "When the sun sets in the west, the evening glow colors the horizon."
+    }
+  ]
+}

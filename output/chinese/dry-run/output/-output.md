@@ -8,17 +8,17 @@
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts three mountain peaks
-  - **interpretation:** The character 山 (shān) visually represents the natural landscape of three mountain peaks. Its early forms used simple triangular shapes, evoking the upward, jagged contours of a mountain range.
+  - **interpretation:** The character 山(shān, "mountain") visually represents mountainous terrain with its three distinct peaks, giving it a natural and intuitive connection to its meaning.
 - **examples:**
   - 我们去爬山(我們去爬山)。
-    - Wǒmen qù páshān。
-    - We are going to climb the mountain.
-  - 那座山很高(那座山很高)。
-    - Nà zuò shān hěn gāo。
-    - That mountain is very tall.
-  - 山上的风景很好(山上的風景很好)。
-    - Shānshàng de fēngjǐng hěn hǎo。
-    - The scenery on the mountain is beautiful.
+    - Wǒmen qù pá shān.
+    - We go climb the mountain.
+  - 山的景色壮观(山的景色壯觀)，令人心旷神怡(令人心曠神怡)。
+    - Shān de jǐngsè zhuànguān, lìng rén xīnkuàngshényí.
+    - The mountain scenery is magnificent, and it refreshes the soul.
+  - 傍晚时分(傍晚時分)，山峦披上了晚霞(山巒披上了晚霞)。
+    - Bàngwǎn shífēn, shānluán pī shàng le wànxiá.
+    - At dusk, the mountains are draped in sunset clouds.
 ---
 ## 山(山)
 ### shān
@@ -33,129 +33,98 @@
 - **definition:** silver
 - **pinyin:** yín
 - **components:**
-  - 钅(金)
+  - 金
     - jīn
     - metal
   - 艮
     - gèn
-    - sound
+    - stubborn
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** semantic: 钅(金) (jīn, "metal") + phonetic: 艮(艮) (gèn) = metal sound -> silver
-  - **interpretation:** The character combines the metal radical 钅(金) (jīn, "metal") indicating that it is a type of metal, with the phonetic 艮(艮) (gèn), which guides the pronunciation. Silver is a precious metal, aligning with the metal semantic component.
-  - **simplification:** 金 was simplified to 钅 as a more concise representation while retaining its meaning of metal in the simplified character 银.
+  - **description:**
+    - 金(金) (jīn, "metal") + 艮(艮) (gèn, "stubborn") =
+    - metal with phonetic element suggesting sound ->
+    - silver
+  - **interpretation:** The character combines the meaning of 'metal' with a phonetic component to specify 'silver', a highly valued metal. The selection of 艮(艮) (gèn) as the phonetic part helps in pronunciation.
+  - **simplification:** The character 銀(銀) was simplified to 银(銀) by replacing the traditional 金(金) with 钅(钅), a simpler, cursive shorthand form, retaining its meaning as a metal radical.
 - **examples:**
-  - 我有银子(我有銀子)，想买东西(想買東西)。
-    - Wǒ yǒu yínzi, xiǎng mǎi dōngxī.
-    - I have silver and want to buy something.
-  - 银色的车(銀色的車)很漂亮。
-    - Yínsè de chē hěn piàoliang.
-    - The silver car is very beautiful.
-  - 他买了一枚银戒指(銀戒指)。
-    - Tā mǎile yī méi yín jièzhǐ.
-    - He bought a silver ring.
-### 银(銀) → 钅(釒)
-- **definition:** metal
-- **pinyin:** jīn
-- **components:**
-  - 釒
-    - jīn
-    - metal
-- **etymology:**
-  - **type:** reduced form of 釒
-  - **description:** Reduced form of 金(釒) (jīn, 'metal, gold')
-  - **interpretation:** 钅 is a simplified version of 釒, representing metal. It primarily condenses the strokes for ease of writing while maintaining the original meaning related to metals.
-  - **simplification:** 钅 is a reduced form of 釒, where the character is simplified by using a cursive shorthand to represent metal.
-- **examples:**
-  - 这件物品含有贵重的金属(金屬)。
-    - Zhè jiàn wùpǐn hányǒu guìzhòng de jīnshǔ.
-    - This item contains precious metal.
-  - 最近金价(金價)有所上涨。
-    - Zuìjìn jīnjià yǒusuǒ shàngzhǎng.
-    - Recently, the price of gold has risen.
-  - 他收集了很多种类的金属(金屬)。
-    - Tā shōujíle hěnduō zhǒnglèi de jīnshǔ.
-    - He collected many kinds of metals.
-### 银(銀) → 钅(釒) → 釒(釒)
-- **definition:** metal
-- **pinyin:** jīn
-- **components:**
-  - 金
-    - jīn
-    - metal
-- **etymology:**
-  - **type:** ideogrammic compound
-  - **description:** Reduced form of 金(金) (jīn, "metal")
-  - **interpretation:** The character 釒 is a reduced form of the original character 金, representing metal or gold. As an ideogrammic compound, it simplifies the depiction of metal through reduced strokes while still conveying the essence of the original character.
-  - **simplification:** 釒 is not simplified as it is the traditional form.
-- **examples:**
-  - 金子(金子)
-    - jīn zi
-    - gold
-  - 青铜器(青銅器)
-    - qīng tóng qì
-    - bronze artifact
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金)
+  - 银是一种珍贵的金属(銀是一種珍貴的金屬)。
+    - Yín shì yī zhǒng zhēnguì de jīnshǔ.
+    - Silver is a precious metal.
+  - 他用银制成的餐具(他用銀製成的餐具)，闪闪发光(閃閃發光)。
+    - Tā yòng yín zhìchéng de cānjù, shǎnshǎn fāguāng.
+    - The tableware made of silver sparkles.
+  - 雕刻师用银打造了精美的饰品(雕刻師用銀打造了精美的飾品)，赢得了许多赞誉(贏得了許多讚譽)。
+    - Diāokè shī yòng yín dǎzào le jīngměi de shìpǐn, yíngdé le xǔduō zànyù.
+    - The sculptor crafted exquisite ornaments from silver, earning much praise.
+### 银(銀) → 金(金)
 - **definition:** metal
 - **pinyin:** jīn
 - **components:**
   - 士
     - shì
     - upside-down ritual axe
-  - 呂(吕)
+  - 呂
     - lǚ
     - two blocks of metal
   - 亼
-    - jí
-    - phonetic element
+    - ancient form for 今
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** semantic: 士 (upside-down ritual axe) + semantic: 呂 (two blocks of metal) + phonetic: 亼
-  - **interpretation:** The character 金 combines representations of metal elements for its semantic, with 亼 indicating its pronunciation. Initially signifying copper, its meaning expanded to include all metals, and eventually gold. Although initially misunderstood as related to 王, it primarily represents the fusion of metallic concepts and sound elements.
+  - **description:**
+    - 士(士) (shì, 'upside-down ritual axe') + 呂(呂) (lǚ, 'two blocks of metal') + phonetic: 亼(亼) (ancient form for 今) =
+    - original pronunciation guide ->
+    - depiction of metal
+  - **interpretation:** The character combines semantic components representing metal and a phonetic element to indicate pronunciation. It evolved from representing copper to encompassing all metals and eventually gold. The misunderstanding of the semantic components illustrates how early representations were sometimes reinterpreted over time.
 - **examples:**
-  - 金属(金屬)是各种材料之一。
-    - Jīnshǔ shì gè zhǒng cáiliào zhī yī.
-    - Metal is one of various materials.
-  - 黄金(黃金)很贵。
-    - Huángjīn hěn guì.
-    - Gold is very expensive.
-  - 我的戒指是用金做的(我的戒指是用金做的)。
-    - Wǒ de jièzhǐ shì yòng jīn zuò de.
-    - My ring is made of gold.
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金) → 士(士)
+  - 金是一种宝贵的金属(金是一種寶貴的金屬)。
+    - Jīn shì yī zhǒng bǎoguì de jīnshǔ.
+    - Metal is a precious metal.
+  - 工匠用金打造精美的器物(工匠用金打造精美的器物)，展示无与伦比的手艺(展示無與倫比的手藝)。
+    - Gōngjiàng yòng jīn dǎzào jīngměi de qìwù, zhǎnshì wú yǔ lún bǐ de shǒuyì.
+    - The artisan uses metal to craft exquisite objects, showcasing unparalleled craftsmanship.
+  - 金象征着财富(金象徵著財富)，也是一种坚固的金属(也是一種堅固的金屬)。
+    - Jīn xiàngzhēng zhe cáifù, yě shì yī zhǒng jiāngù de jīnshǔ.
+    - Metal symbolizes wealth, and it is also known for its durability.
+### 银(銀) → 金(金) → 士(士)
 - **definition:** upside-down ritual axe
 - **pinyin:** shì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a war axe
-  - **interpretation:** The character 士 initially depicted a war axe, which symbolized martial prowess. Over time, this association expanded to include soldierly qualities and later evolved to mean officer or intellectual.
+  - **description:**
+    - Depicts an upside-down ritual axe ->
+    - later associated with soldier and intellectual ->
+    - final form 士
+  - **interpretation:** 士(士) (shì, 'upside-down ritual axe') originally depicted a war axe, reflecting its association with martial roles like soldiers and officers. Over time, its meaning broadened to include intellectuals, reflecting the cultural evolution from warriors to scholar-officials.
 - **examples:**
-  - 他是一名士兵(他是一名士兵)，服役多年。
-    - Tā shì yī míng shìbīng, fúyì duō nián.
-    - He is a soldier who has served for many years.
-  - 士林是一个著名的夜市(士林是一個著名的夜市)。
-    - Shìlín shì yí gè zhùmíng de yèshì.
-    - Shilin is a famous night market.
-  - 求学是每个士子(求學是每個士子)的梦想。
-    - Qiúxué shì měi ge shìzǐ de mèngxiǎng.
-    - Pursuing education is the dream of every scholar.
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金) → 呂(呂)
+  - 在古代祭祀中(在古代祭祀中)，士被倒置使用(士被倒置使用)。
+    - Zài gǔdài jìsì zhōng, shì bèi dào zhì shǐyòng.
+    - During ancient rituals, the upside-down ritual axe was used.
+  - 雕刻师精心打造了士(雕刻師精心打造了士)。
+    - Diāokè shī jīngxīn dǎzào le shì.
+    - The sculptor meticulously crafted the upside-down ritual axe.
+  - 博物馆展出了罕见的古代器物(博物館展出了罕見的古代器物)，其中包括倒放的士(其中包括倒放的士)。
+    - Bówù guǎn zhǎnchū le hǎnjiàn de gǔdài qìwù, qízhōng bāokuò dàofàng de shì.
+    - The museum displayed rare ancient artifacts, including the inverted ritual axe.
+### 银(銀) → 金(金) → 呂(呂)
 - **definition:** two blocks of metal
 - **pinyin:** lǚ
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts two blocks of metal
-  - **interpretation:** The character originally depicted two separate blocks of metal or vertebrae. In seal script, these blocks were shown connected by a line. It was later borrowed phonetically to represent the sounds for related meanings like ‘spine’ or ‘music notes’.
+  - **description:**
+    - Depicts two blocks of metal ->
+    - later connected as two vertebrae ->
+    - borrowed to represent 'spine' and music notes
+  - **interpretation:** Initially depicting two separate metal blocks, 呂(呂) (lǚ, "blocks of metal") evolved to represent anatomy and music notes due to phonetic borrowing, showcasing its flexibility in borrowing meanings.
 - **examples:**
-  - 我姓吕(我姓呂)。
-    - wǒ xìng Lǚ.
-    - My surname is Lü.
-  - 吕国是一个古代国家(呂國是一個古代國家)。
-    - Lǚ guó shì yí gè gǔdài guójiā.
-    - The Lü Kingdom was an ancient state.
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金) → 亼(亼)
-- **definition:** phonetic element
-- **pinyin:** jí
+  - 考古学家在遗址中发现呂(考古學家在遺址中發現呂)，验证了古代铸造方法(驗證了古代鑄造方法)。
+    - Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn lǚ, yànzhèngle gǔdài zhùzào fāngfǎ.
+    - Archaeologists discovered blocks of metal at the ruins, confirming ancient casting methods.
+  - 呂(呂)体现了古代金属工艺(體現了古代金屬工藝)。
+    - Lǚ tǐxiànle gǔdài jīnshǔ gōngyì.
+    - Blocks of metal embody the ancient metalworking craft.
+### 银(銀) → 金(金) → 亼(亼)
+- **definition:** ancient form for 今
 - **components:**
   - 入
     - rù
@@ -165,51 +134,57 @@
     - one
 - **etymology:**
   - **type:** ideogrammic compound
-  - **description:** 入(入) (rù, "enter") + 一(一) (yī, "one") = gathering from three sides -> gather
-  - **interpretation:** The character 亼 combines 入(入) (rù, "enter") and 一(一) (yī, "one") to convey the idea of things coming together from different sides, similar to the concept of gathering. Its connection to ancient 集(集) (jí, "gather") strengthens this meaning.
+  - **description:**
+    - 入(入) (rù, "enter") + 一(一) (yī, "one") =
+    - gathering from three sides
+  - **interpretation:** The character 亼 captures the concept of convergence or assembly, symbolizing items coming together from three sides. The elements suggest a process of collection or formation.
 - **examples:**
-  - 在古书(在古書)，这个字很常见。
-    - Zài gǔshū, zhège zì hěn chángjiàn.
-    - In ancient books, this character is very common.
-  - 亼出现在一些名字里。
-    - Jí chūxiàn zài yìxiē míngzì lǐ.
-    - 亼 appears in some names.
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金) → 亼(亼) → 入(入)
+  - 游客们亼在博物馆前(遊客們亼在博物館前)，等待讲解(等待講解)。
+    - Yóukèmen jí zài bówùguǎn qián, děngdài jiǎngjiě.
+    - The tourists gathered in front of the museum, waiting for an explanation.
+  - 同学们亼在图书馆内(同學們亼在圖書館內)，共同学习(共同學習)。
+    - Tóngxuémen jí zài túshūguǎn nèi, gòngtóng xuéxí.
+    - The classmates gathered inside the library, studying together.
+  - 村民们亼在古老广场上(村民們亼在古老廣場上)，庆祝丰收(慶祝豐收)。
+    - Cūnmínmen jí zài gǔlǎo guǎngchǎng shàng, qìngzhù fēngshōu.
+    - The villagers gathered in the old square, celebrating the harvest.
+### 银(銀) → 金(金) → 亼(亼) → 入(入)
 - **definition:** enter
 - **pinyin:** rù
 - **etymology:**
   - **type:** ideogram
-  - **description:** An arrowhead indicating 'to enter'
-  - **interpretation:** The character 入 is an ideogram that visually suggests the action of entering. The form resembles an arrowhead, which intuitively conveys penetration or movement into an area. This shape effectively represents the concept of entry or ingress.
+  - **description:**
+    - Arrowhead indicating entry ->
+    - concept of entering or joining
+  - **interpretation:** 入(入) (rù, "enter") depicts an arrowhead pointing inwards, clearly symbolizing entering or penetrating. This helps convey the action or intent to move into something.
 - **examples:**
-  - 请进来(請進來)。
-    - qǐng jìnlái.
-    - Please come in.
-  - 他已经进入(他已經進入)房间(房間)。
-    - tā yǐjīng jìnrù fángjiān.
-    - He has already entered the room.
-  - 入口在左边(入口在左邊)。
-    - rùkǒu zài zuǒbiān.
-    - The entrance is on the left.
-### 银(銀) → 钅(釒) → 釒(釒) → 金(金) → 亼(亼) → 一(一)
+  - 他走入房间(他走入房間)。
+    - Tā zǒurù fángjiān.
+    - He walked into the room.
+  - 学生入课堂(學生入課堂)，认真学习(認真學習)。
+    - Xuéshēng rù kètáng, rènzhēn xuéxí.
+    - Students enter the classroom and study diligently.
+### 银(銀) → 金(金) → 亼(亼) → 一(一)
 - **definition:** one
 - **pinyin:** yī
 - **etymology:**
-  - **type:** Ideogram
-  - **description:** A horizontal stroke, indicating the number 'one'
-  - **interpretation:** The simplest representation of 'one' as a horizontal line makes intuitive sense because it visually signifies a singular unit, an elemental stroke itself.
+  - **type:** ideogram
+  - **description:**
+    - Horizontal stroke ->
+    - indicates number 'one'
+  - **interpretation:** The character 一(yī, 'one') directly represents the concept of 'one' through a single horizontal stroke, visually embodying the idea of singularity and unity.
 - **examples:**
-  - 我只有一只猫(我只有一隻貓)。
-    - Wǒ zhǐ yǒu yī zhī māo.
-    - I only have one cat.
-  - 给我一杯水(給我一杯水)。
-    - Gěi wǒ yī bēi shuǐ.
-    - Give me a glass of water.
-  - 他是一个好人(他是一個好人)。
-    - Tā shì yī gè hǎo rén.
-    - He is a good person.
+  - 我有一只猫(我有一隻貓)。
+    - Wǒ yǒu yī zhī māo.
+    - I have one cat.
+  - 他只需要一把伞(他只需要一把傘)，就能出门(就能出門)。
+    - Tā zhǐ xūyào yī bǎ sǎn, jiù néng chūmén.
+    - He only needs one umbrella to go out.
+  - 桌上只有一支笔(桌上只有一支筆)。
+    - Zhuō shàng zhǐ yǒu yī zhī bǐ.
+    - There is only one pen on the table.
 ### 银(銀) → 艮(艮)
-- **definition:** sound
+- **definition:** stubborn
 - **pinyin:** gèn
 - **components:**
   - 目
@@ -219,50 +194,57 @@
     - rén
     - person
 - **etymology:**
-  - **type:** Ideogrammic compound
-  - **description:** 目(目) (mù, "eye") + 人(人) (rén, "person") = person looking back -> concept of disobedience or limit
-  - **interpretation:** The combination of a person 人(人) and an eye 目(目) suggests a person looking back, symbolizing a sense of limit or resistance. This character conveys the idea of hesitation or stopping.
+  - **type:** ideogrammic compound
+  - **description:**
+    - 目(目) (mù, "eye") + 人(人) (rén, "person") =
+    - a person looking back ->
+    - concept of disobedience or limit
+  - **interpretation:** The combination of 目(目) (mù, "eye") and 人(人) (rén, "person") suggests the idea of a person looking back, symbolizing stubbornness or defiance, as they resist moving forward or following others.
 - **examples:**
-  - 艮岳山在中国。
-    - Gèn yuè shān zài Zhōngguó.
-    - Genyue Mountain is in China.
-  - 艮也是八卦之一。
-    - Gèn yě shì bāguà zhī yī.
-    - Gen is also one of the trigrams.
+  - 他很艮(他很艮)，不轻易改变主意(不輕易改變主意)。
+    - Tā hěn gèn, bù qīngyì gǎibiàn zhǔyì.
+    - He is very stubborn, unwilling to change his mind.
+  - 他的脾气很艮(他的脾氣很艮)，不容易妥协(不容易妥協)。
+    - Tā de píqì hěn gèn, bù róngyì tuǒxié.
+    - His temper is stubborn, making him hard to compromise.
 ### 银(銀) → 艮(艮) → 目(目)
 - **definition:** eye
 - **pinyin:** mù
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an eye, now rotated 90 degrees
-  - **interpretation:** The character represents a human eye turned sideways from its original vertical representation. This rotation allows it to fit within the square shape of Chinese characters. The form clearly resembles the horizontal structure of an eye, emphasizing its role in vision.
+  - **description:**
+    - Eye depicting an eye rotated 90 degrees ->
+    - 目(目) (mù, 'eye')
+  - **interpretation:** 目(目) (mù, 'eye') visually represents a human eye turned to its side, capturing its essential features. This pictorial representation makes the character immediately intuitive as referring to the eye.
 - **examples:**
-  - 她有美丽的眼睛(她有美麗的眼睛)。
-    - tā yǒu měilì de yǎnjīng.
-    - She has beautiful eyes.
-  - 目不转睛(目不轉睛)地看。
-    - mù bù zhuǎn jīng de kàn.
-    - Stare without blinking.
-  - 他的目光很锐利(他的目光很銳利)。
-    - tā de mùguāng hěn ruìlì.
-    - His gaze is very sharp.
+  - 他的目光锐利(他的目光銳利)。
+    - Tā de mùguāng ruìlì.
+    - His gaze is sharp.
+  - 我看到远处那闪烁的双目(我看到遠處那閃爍的雙目)。
+    - Wǒ kàn dào yuǎnchù nà shǎnshuò de shuāng mù.
+    - I see the twinkling eyes in the distance.
+  - 当晨曦初露时(當晨曦初露時)，他的目中闪烁着智慧(他的目中閃爍著智慧)。
+    - Dāng chénxī chūlù shí, tā de mù zhōng shǎnshuò zhe zhìhuì.
+    - When the dawn first appears, wisdom sparkles in his eyes.
 ### 银(銀) → 艮(艮) → 人(人)
 - **definition:** person
 - **pinyin:** rén
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a side view of a standing man, highlighting an arm and a leg
-  - **interpretation:** The character 人 (rén) visually represents a person standing, with the shape highlighting both an arm and a leg, symbolizing the human form in a simplified, iconic manner.
+  - **description:**
+    - Depicts a standing man with highlighted arm and leg ->
+    - symbolizes a 'person'
+  - **interpretation:** 人(人) (rén, 'person') is a straightforward pictogram representing a simplified side view of a human figure, capturing the essence of a person through its minimal yet effective depiction of arms and legs.
 - **examples:**
-  - 他是一个好人(他是一個好人)。
-    - Tā shì yī gè hǎo rén.
-    - He is a good person.
-  - 人人都有机会(人人都有機會)。
-    - Rén rén dōu yǒu jī huì.
-    - Everyone has an opportunity.
-  - 我见过那个人(我見過那個人)。
-    - Wǒ jiàn guò nà ge rén.
-    - I have seen that person.
+  - 他是一个善良的人(他是一個善良的人)。
+    - Tā shì yī gè shànliáng de rén.
+    - He is a kind person.
+  - 很多人(很多人)，聚集在广场(聚集在廣場)。
+    - Hěnduō rén, jùjí zài guǎngchǎng.
+    - Many people gather in the square.
+  - 每个人都有自己的故事(每個人都有自己的故事)。
+    - Měi ge rén dōu yǒu zìjǐ de gùshì.
+    - Everyone has their own story.
 ---
 ## 银(銀)
 ### yín
@@ -276,20 +258,65 @@
 ---
 - **definition:** population
 - **pinyin:** rénkǒu
+- **components:**
+  - 人
+    - rén
+    - person; people; human; individual
+  - 口
+    - kǒu
+    - mouth; opening; entrance; measure word for people (in census)
 - **etymology:**
   - **type:** compound word
-  - **description:** 人(人) (rén, "person; people") + 口(口) (kǒu, "mouth; opening") = number of people
-  - **interpretation:** The combination of 人 (rén, "person; people") and 口 (kǒu, "mouth; opening") refers to the 'population' as a count or aggregation of people in a particular area. Here, 口 (kǒu, "mouth") is a unit measure often used in reference to people, such as counting family members or population.
+  - **description:**
+    - 人(人) (rén, "person") + 口(口) (kǒu, "mouth") =
+    - population
+  - **interpretation:** The combination of 人(人) (rén, "person") and 口(口) (kǒu, "mouth") conveys the idea of counting people, as each person is considered a 'mouth' to feed or account for, thus representing the population.
 - **examples:**
   - 中国人口很多(中國人口很多)。
     - Zhōngguó rénkǒu hěn duō.
     - China has a large population.
-  - 城市人口增长很快(城市人口增長很快)。
-    - Chéngshì rénkǒu zēngzhǎng hěn kuài.
-    - The urban population is growing rapidly.
-  - 我们村子人口不多(我們村子人口不多)。
-    - Wǒmen cūnzi rénkǒu bù duō.
-    - Our village does not have a large population.
+  - 欧洲人口分布不均(歐洲人口分布不均)。
+    - Ōuzhōu rénkǒu fēnbù bù jūn.
+    - The population in Europe is unevenly distributed.
+  - 未来人口增长可能会放缓(未來人口增長可能會放緩)。
+    - Wèilái rénkǒu zēngzhǎng kěnéng huì fànghuǎn.
+    - Future population growth may slow down.
+### 人口(人口) → 人(人)
+- **definition:** person; people; human; individual
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a standing man with highlighted arm and leg ->
+    - symbolizes a 'person'
+  - **interpretation:** 人(人) (rén, 'person') is a straightforward pictogram representing a simplified side view of a human figure, capturing the essence of a person through its minimal yet effective depiction of arms and legs.
+- **examples:**
+  - 他是一个善良的人(他是一個善良的人)。
+    - Tā shì yī gè shànliáng de rén.
+    - He is a kind person.
+  - 很多人(很多人)，聚集在广场(聚集在廣場)。
+    - Hěnduō rén, jùjí zài guǎngchǎng.
+    - Many people gather in the square.
+  - 每个人都有自己的故事(每個人都有自己的故事)。
+    - Měi ge rén dōu yǒu zìjǐ de gùshì.
+    - Everyone has their own story.
+### 人口(人口) → 口(口)
+- **definition:** mouth; opening; entrance; measure word for people (in census)
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth
+  - **interpretation:** The character 口(口) (kǒu, "mouth") is a pictogram that intuitively illustrates the shape of an open mouth, making it straightforward to associate with meanings related to oral communication, entry points, and counting word for people.
+- **examples:**
+  - 他张开口大笑(他張開口大笑)。
+    - Tā zhāng kāi kǒu dà xiào。
+    - He opened his mouth wide and laughed heartily.
+  - 我们从城门口进入(我們從城門口進入)，参观古城(參觀古城)。
+    - Wǒ men cóng chéng mén kǒu jìn rù, cān guān gǔ chéng。
+    - We entered through the city gate and visited the ancient city.
+  - 全家五口人(全家五口人)，和睦相处(和睦相處)。
+    - Quán jiā wǔ kǒu rén, hé mù xiāng chǔ。
+    - The family, consisting of five members, lives in harmony.
 ---
 ## 人口(人口)
 ### rénkǒu
@@ -303,20 +330,218 @@
 ---
 - **definition:** to speak
 - **pinyin:** shuōhuà
+- **components:**
+  - 说(說)
+    - shuō
+    - speak
+  - 话(話)
+    - huà
+    - word; speech
 - **etymology:**
   - **type:** compound word
-  - **description:** 說(說) (shuō, "speak") + 話(话) (huà, "speech") = to utter speech -> to speak
-  - **interpretation:** The combination of 說(說) (shuō, "speak") and 話(话) (huà, "speech") logically means 'to speak' as it involves the action of speaking words or sentences.
+  - **description:** 说(說) (shuō, "speak") and 话(話) (huà, "word; speech") combine to convey the act of speaking or having a conversation, reflecting the direct action of producing words.
+  - **interpretation:** The combination suggests the action of using words (话/話) to express verbally (说/說), fitting the meaning of speaking or having a conversation.
 - **examples:**
   - 请小声说话(請小聲說話)。
-    - Qǐng xiǎoshēng shuōhuà.
-    - Please speak softly.
-  - 他说话很快(他說話很快)。
-    - Tā shuōhuà hěn kuài.
-    - He speaks very fast.
-  - 我们在说话(我們在說話)。
-    - Wǒmen zài shuōhuà.
-    - We are talking.
+    - qǐng xiǎoshēng shuōhuà.
+    - Please speak quietly.
+  - 他善于说话(他善於說話)，能让气氛活跃(能讓氣氛活躍)。
+    - tā shànyú shuōhuà, néng ràng qìfēn huóyuè.
+    - He is good at speaking and can liven up the atmosphere.
+  - 小朋友们说话时(小朋友們說話時)，要注意礼貌(要注意禮貌)。
+    - xiǎopéngyǒu men shuōhuà shí, yào zhùyì lǐmào.
+    - When children speak, they should pay attention to manners.
+### 说话(說話) → 说(說)
+- **definition:** speak
+- **pinyin:** shuō
+- **components:**
+  - 言
+    - yán
+    - speech
+  - 兌
+    - duì
+    - exchange
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 言(言) (yán, "speech") + phonetic 兌(兌) (duì, "exchange") =
+    - speech action ->
+    - speak
+  - **interpretation:** The character 說(說) combines 言(言) (yán, "speech") indicating a verbal action, with 兌(兌) (duì, "exchange"), suggesting the idea of exchanging words or speaking. This phono-semantic composition intuitively represents the act of speaking or communicating.
+  - **simplification:** Simplified to 说(說), where 訁(言) (yán, "speech") is replaced with 讠(讠) (yán, "speech"), a cursive shorthand form, to reduce the number of strokes.
+- **examples:**
+  - 他说中文(他說中文)。
+    - Tā shuō Zhōngwén.
+    - He speaks Chinese.
+  - 妈妈对我说(媽媽對我說)，要好好学习(要好好學習)。
+    - Māmā duì wǒ shuō, yào hǎohǎo xuéxí.
+    - Mom told me to study hard.
+### 说话(說話) → 说(說) → 言(言)
+- **definition:** speech
+- **pinyin:** yán
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - 舌(舌) (shé, 'tongue') with added horizontal stroke ->
+    - indicates movement of the tongue ->
+    - modern form with additional stroke ->
+    - speech
+  - **interpretation:** The character 言(yán, 'words') visually represents the concept of speech by depicting the movement of the tongue, suggesting the act of speaking.
+- **examples:**
+  - 他用寥寥几言(他用寥寥幾言)，击中了问题的要害(擊中了問題的要害)。
+    - tā yòng liáo liáo jǐ yán jī zhòng le wèn tí de yào hài
+    - He hit the core of the issue with only a few words.
+  - 言出必行(言出必行)。
+    - yán chū bì xíng
+    - When he speaks, his words are always followed by actions.
+  - 他说话时总是考虑周到(他說話時總是考慮周到)，每一句言辞都充满智慧(每一句言辭都充滿智慧)。
+    - tā shuō huà shí zǒng shì kǎo lǜ zhōu dào, měi yī jù yán cí dōu chōng mǎn zhì huì
+    - When he speaks, he always considers things carefully; every word he utters is full of wisdom.
+### 说话(說話) → 说(說) → 兌(兌)
+- **definition:** exchange
+- **pinyin:** duì
+- **components:**
+  - 八
+    - bā
+    - "speech; breath"
+  - 口
+    - kǒu
+    - "mouth"
+  - 人
+    - rén
+    - "person"
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 八(八) (bā, "speech; breath") + 口(口) (kǒu, "mouth") + 人(人) (rén, "person") ->
+    - speech; original character of 說(說) (shuō, "to speak")
+  - **interpretation:** The character 兌(兌) (duì, "exchange") originally depicted the act of speaking or expressing, as shown by the combination of mouth and speech components. Over time, it became associated with expressions of emotion and satisfaction, leading to its association with 'pleased' in 悅(悅) (yuè, "pleased").
+- **examples:**
+  - 我去银行兌換日元(我去銀行兌換日元)。
+    - Wǒ qù yínháng duìhuàn rìyuán.
+    - I go to the bank to exchange for Japanese yen.
+  - 旅客在机场兌換货币(旅客在機場兌換貨幣)，以满足旅程需要(以滿足旅程需要)。
+    - Lǚkè zài jīchǎng duìhuàn huòbì, yǐ mǎnzú lǚchéng xūqiú.
+    - Travelers exchange currency at the airport to meet the needs of their journey.
+### 说话(說話) → 说(說) → 兌(兌) → 八(八)
+- **definition:** "speech; breath"
+- **pinyin:** bā
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts two bent lines ->
+    - originally 'divide' ->
+    - borrowed for 'eight'
+  - **interpretation:** The character 八(bā, 'eight') originally depicted the concept of division with two bent lines, symbolizing splitting or dividing. It was borrowed for the sound to represent 'eight', replacing its original meaning.
+- **examples:**
+  - 他的八充满智慧(他的八充滿智慧)。
+    - Tā de bā chōng mǎn zhì huì.
+    - His speech is full of wisdom.
+  - 晨风拂面时(晨風拂面時)，他的八带来温暖(他的八帶來溫暖)。
+    - Chén fēng fú miàn shí, tā de bā dài lái wēn nuǎn.
+    - When the morning breeze brushes the face, his breath brings warmth.
+### 说话(說話) → 说(說) → 兌(兌) → 口(口)
+- **definition:** "mouth"
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth
+  - **interpretation:** The character 口(口) (kǒu, "mouth") is a pictogram that intuitively illustrates the shape of an open mouth, making it straightforward to associate with meanings related to oral communication, entry points, and counting word for people.
+- **examples:**
+  - 他张开口大笑(他張開口大笑)。
+    - Tā zhāng kāi kǒu dà xiào。
+    - He opened his mouth wide and laughed heartily.
+  - 我们从城门口进入(我們從城門口進入)，参观古城(參觀古城)。
+    - Wǒ men cóng chéng mén kǒu jìn rù, cān guān gǔ chéng。
+    - We entered through the city gate and visited the ancient city.
+  - 全家五口人(全家五口人)，和睦相处(和睦相處)。
+    - Quán jiā wǔ kǒu rén, hé mù xiāng chǔ。
+    - The family, consisting of five members, lives in harmony.
+### 说话(說話) → 说(說) → 兌(兌) → 人(人)
+- **definition:** "person"
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a standing man with highlighted arm and leg ->
+    - symbolizes a 'person'
+  - **interpretation:** 人(人) (rén, 'person') is a straightforward pictogram representing a simplified side view of a human figure, capturing the essence of a person through its minimal yet effective depiction of arms and legs.
+- **examples:**
+  - 他是一个善良的人(他是一個善良的人)。
+    - Tā shì yī gè shànliáng de rén.
+    - He is a kind person.
+  - 很多人(很多人)，聚集在广场(聚集在廣場)。
+    - Hěnduō rén, jùjí zài guǎngchǎng.
+    - Many people gather in the square.
+  - 每个人都有自己的故事(每個人都有自己的故事)。
+    - Měi ge rén dōu yǒu zìjǐ de gùshì.
+    - Everyone has their own story.
+### 说话(說話) → 话(話)
+- **definition:** word; speech
+- **pinyin:** huà
+- **components:**
+  - 言
+    - yán
+    - word
+  - 𠯑
+    - unknown
+    - unknown
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 言(言) (yán, 'word') + phonetic: 𠯑(𠯑) ->
+    - word-related meaning with phonetic hint ->
+    - final form
+  - **interpretation:** The character 话(話) (huà, 'word; speech') uses 言(言) (yán, 'word') to emphasize its association with speech or language, while 𠯑 provides the phonetic component, ensuring the pronunciation aligns with the intended word-related meaning.
+  - **simplification:** 话(話) replaces the more complex phonetic 𠯑 with 舌(舌) (shé, 'tongue'), a phonetic that resembles the original in sound, reflecting phonetic and semantic changes.
+- **examples:**
+  - 他的话真诚动人(他的話真誠動人)。
+    - Tā de huà zhēnchéng dòngrén.
+    - His words are sincere and moving.
+  - 他说起话来(他說起話來)，就能打动人心(就能打動人心)。
+    - Tā shuō qǐ huà lái, jiù néng dǎdòng rénxīn.
+    - When he speaks, he can touch people's hearts.
+  - 她只选择信任的话(她只選擇信任的話)，而不相信谣言(而不相信謠言)。
+    - Tā zhǐ xuǎnzé xìnrèn de huà, ér bù xiāngxìn yáoyán.
+    - She only believes in trustworthy words, not in rumors.
+### 说话(說話) → 话(話) → 言(言)
+- **definition:** word
+- **pinyin:** yán
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - 舌(舌) (shé, 'tongue') with added horizontal stroke ->
+    - indicates movement of the tongue ->
+    - modern form with additional stroke ->
+    - speech
+  - **interpretation:** The character 言(yán, 'words') visually represents the concept of speech by depicting the movement of the tongue, suggesting the act of speaking.
+- **examples:**
+  - 他用寥寥几言(他用寥寥幾言)，击中了问题的要害(擊中了問題的要害)。
+    - tā yòng liáo liáo jǐ yán jī zhòng le wèn tí de yào hài
+    - He hit the core of the issue with only a few words.
+  - 言出必行(言出必行)。
+    - yán chū bì xíng
+    - When he speaks, his words are always followed by actions.
+  - 他说话时总是考虑周到(他說話時總是考慮周到)，每一句言辞都充满智慧(每一句言辭都充滿智慧)。
+    - tā shuō huà shí zǒng shì kǎo lǜ zhōu dào, měi yī jù yán cí dōu chōng mǎn zhì huì
+    - When he speaks, he always considers things carefully; every word he utters is full of wisdom.
+### 说话(說話) → 话(話) → 𠯑(𠯑)
+- **definition:** unknown
+- **pinyin:** unknown
+- **etymology:**
+  - **type:** unknown
+  - **description:** unknown
+  - **interpretation:** The character 𠯑 is not well-documented and lacks detailed historical or etymological information in readily available sources.
+- **examples:**
+  - 深山古寺中(深山古寺中)，藏有𠯑之谜(藏有𠯑之謎)。
+    - Shēn shān gǔ sì zhōng, cáng yǒu wèi zhī mí。
+    - In an ancient temple deep in the mountains, the mystery of 𠯑 is concealed.
+  - 湖边倒影中(湖邊倒影中)，浮现出𠯑的身影(浮現出𠯑的身影)。
+    - Hú biān dào yǐng zhōng, fú xiàn chū wèi de shēn yǐng。
+    - In the lake's reflection, the silhouette of 𠯑 emerges.
+  - 古卷传说里(古卷傳說裏)，记载着𠯑的踪迹(記載著𠯑的蹤跡)。
+    - Gǔ juàn zhuàn shuō lǐ, jì zǎi zhe wèi de zōng jì。
+    - Ancient legends in scrolls record the traces of 𠯑.
 ---
 ## 说话(說話)
 ### shuōhuà
@@ -325,10 +550,10 @@
 %%%
 ## 得(得)
 ---
-## structural particle; to get, obtain; must, have to
+## (1) structural particle for verb complements; (2) to get, obtain; (3) must, have to
 ### de/dé/děi
 ---
-- **definition:** structural particle; to get, obtain; must, have to
+- **definition:** (1) structural particle for verb complements; (2) to get, obtain; (3) must, have to
 - **pinyin:** de/dé/děi
 - **components:**
   - 貝
@@ -337,54 +562,163 @@
   - 又
     - yòu
     - hand
+  - 彳
+    - chì
+    - step
+  - 寸
+    - cùn
+    - inch
+  - 旦
+    - dàn
+    - dawn
 - **etymology:**
   - **type:** ideogrammic compound
-  - **description:** 貝 (cowry) + 又 (hand) = hand obtaining a cowry -> obtain
-  - **interpretation:** The character originally depicted a hand picking up a valuable cowry shell, symbolizing acquiring or obtaining things. The addition of 彳 (road) suggests finding this valuable on a path. Over time, graphical changes in scripts altered the components visually but retained the concept of obtaining.
-  - **simplification:** None, as traditional form is used.
+  - **description:**
+    - 貝(貝) (bèi, "cowry") + 又(又) (yòu, "hand") ->
+    - obtaining valuables ->
+    - 彳(彳) (chì, "step") added, 又 changed to 寸(寸) (cùn, "inch"), 貝 corrupted to 旦(旦) (dàn, "dawn") ->
+    - final form 得
+  - **interpretation:** The character's evolution reflects the concept of obtaining valuables via picking up cowries, which were historically valuable. The addition of 彳(彳) (chì, "step") shows action, reinforcing the meaning of acquisition.
+  - **simplification:** The process of simplification involved changing components to similar-looking elements, such as 寸(寸) (cùn, "inch") replacing 又(又) (yòu, "hand"), and 目(目) (mù, "eye") before becoming the simpler 旦(旦) (dàn, "dawn").
 - **examples:**
-  - 我得去工作。
-    - Wǒ děi qù gōngzuò.
-    - I have to go to work.
-  - 他得到了一份礼物(禮物)。
-    - Tā dédàole yī fèn lǐwù.
-    - He received a gift.
-  - 努力工作后，他得到了认可(認可)。
-    - Nǔlì gōngzuò hòu, tā dédàole rènkě.
-    - After working hard, he received recognition.
+  - 他跑得很快(他跑得很快)。
+    - Tā pǎo dé hěn kuài.
+    - He runs very fast.
+  - 他得了一本好书(他得了一本好書)。
+    - Tā dé le yī běn hǎo shū.
+    - He obtained a good book.
+  - 你得早点起床(你得早點起床)。
+    - Nǐ děi zǎo diǎn qǐ chuáng.
+    - You must get up early.
 ### 得(得) → 貝(貝)
 - **definition:** cowry
 - **pinyin:** bèi
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a cowry shell
-  - **interpretation:** The character 貝 (bèi) visually represents a cowry shell, which was used as currency in ancient China. This pictogram captures the shape and form of a shell, highlighting its economic significance.
+  - **description:** Depicts a cowry shell, which was used as currency in ancient China
+  - **interpretation:** The character 貝(貝) (bèi, 'cowry') directly represents the appearance of a cowry shell, highlighting its historical use as a form of currency.
 - **examples:**
-  - 海边找到贝壳(海邊找到貝殼)。
-    - Hǎibiān zhǎodào bèiké.
-    - Found a shell at the seaside.
-  - 贝类是一种海洋生物(貝類是一種海洋生物)。
-    - Bèilèi shì yī zhǒng hǎiyáng shēngwù.
-    - Shellfish is a type of marine organism.
+  - 古代人用貝(古代人用貝)，当作货币(當作貨幣)。
+    - Gǔdài rén yòng bèi，dāng zuò huòbì。
+    - Ancient people used cowry shells as currency.
+  - 博物馆展出一件珍贵的貝(博物館展出一件珍貴的貝)。
+    - Bówùguǎn zhǎnchū yī jiàn zhēnguì de bèi。
+    - The museum displays a precious cowry shell.
+  - 诗人借貝形象来比喻人生(詩人借貝形象來比喻人生)。
+    - Shīrén jiè bèi xíngxiàng lái bǐyù rénshēng。
+    - The poet uses the image of a cowry shell to metaphorically describe life.
 ### 得(得) → 又(又)
 - **definition:** hand
 - **pinyin:** yòu
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts a right hand
-  - **interpretation:** The character 又 (yòu) visually represents a right hand. This form illustrates the concept of 'hand' through its depiction of a hand in an abstract manner.
+  - **interpretation:** The character 又(yòu) directly visualizes a right hand, making it easy to remember as it looks like a hand, with the two strokes suggesting fingers.
 - **examples:**
-  - 我又来了(我又來了)。
-    - Wǒ yòu lái le.
-    - I came again.
-  - 她又哭了(她又哭了)。
-    - Tā yòu kū le.
-    - She cried again.
+  - 他以又轻扶古琴(他以又輕扶古琴)。
+    - Tā yǐ yòu qīng fú gǔqín.
+    - He gently strokes the ancient zither with his hand.
+  - 工匠精于雕刻(工匠精於雕刻)，全赖又灵巧施艺(全賴又靈巧施藝)。
+    - Gōngjiàng jīng yú diāokè, quán lài yòu língqiǎo shī yì.
+    - The artisan excels in carving, all thanks to the dexterity of his hand.
+  - 书法家以又运笔(書法家以又運筆)，绘出墨香传世(繪出墨香傳世)。
+    - Shūfǎjiā yǐ yòu yùn bǐ, huì chū mòxiāng chuánshì.
+    - The calligrapher employs his hand to guide the brush, producing calligraphic works that endure.
+### 得(得) → 彳(彳)
+- **definition:** step
+- **pinyin:** chì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts footsteps or path
+  - **interpretation:** This character visually represents steps or a path, often used as a radical in characters related to movement or walking.
+- **examples:**
+  - 在汉字中(在漢字中)，彳表示步伐的一部分(彳表示步伐的一部分)。
+    - Zài hànzì zhōng, chì biǎoshì bùfá de yībùfèn.
+    - In Chinese characters, 彳 represents part of a step.
+  - 书法家在练字时(書法家在練字時)，也会仔细描绘彳这一偏旁(也會仔細描繪彳這一偏旁)。
+    - Shūfǎ jiā zài liànzì shí, yě huì zǐxì miáohuì chì zhè yī piānpáng.
+    - When practicing calligraphy, calligraphers carefully depict the radical 彳.
+### 得(得) → 寸(寸)
+- **definition:** inch
+- **pinyin:** cùn
+- **etymology:**
+  - **type:** ideogram
+  - **description:**
+    - Line on hand (depicting forearm position) associated with measurement ->
+    - position near wrist for pulse ->
+    - unit of measurement
+  - **interpretation:** 寸(寸) (cùn, "inch") originates from an ideogram showing a specific position on the arm, highlighting the measurement from the wrist to the point where the pulse is felt. This evolved into the meaning of an 'inch.'
+- **examples:**
+  - 这把尺子每一寸都很精致(這把尺子每一寸都很精緻)。
+    - Zhè bǎ chǐzi měi yī cùn dōu hěn jīngzhì.
+    - Every inch of this ruler is exquisite.
+  - 木匠测量木板时(木匠測量木板時)，确保每寸精确(確保每寸精確)。
+    - Mùjiàng cèliáng mùbǎn shí, quèbǎo měi cùn jīngquè.
+    - When the carpenter measures the wood, he ensures every inch is precise.
+  - 他用手指比划出一寸的距离(他用手指比劃出一寸的距離)。
+    - Tā yòng shǒuzhǐ bǐhuà chū yī cùn de jùlí.
+    - He measured out an inch with his finger.
+### 得(得) → 旦(旦)
+- **definition:** dawn
+- **pinyin:** dàn
+- **components:**
+  - 日
+    - rì
+    - sun
+  - 丁
+    - dīng
+    - indicates pronunciation
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 日(日) (rì, "sun") + 丁(丁) (dīng) =
+    - sun over horizon (folk etymology) ->
+    - dawn
+  - **interpretation:** The character combines 日(日) (rì, "sun") with 丁(丁), traditionally thought to show the sun rising over the horizon, representing the concept of dawn. This visual depiction intuitively conveys the beginning of a new day.
+- **examples:**
+  - 夜深人静时(夜深人靜時)，旦光破晓而出(旦光破曉而出)。
+    - Yè shēn rén jìng shí, dàn guāng pò xiǎo ér chū.
+    - When the night is deep and serene, the light of dawn breaks through.
+  - 山巅积雪未融时(山巔積雪未融時)，旦曦映照群峰(旦曦映照羣峰)。
+    - Shān diān jī xuě wèi róng shí, dàn xī yìng zhào qún fēng.
+    - When the snow on the mountain peak has not yet melted, the first light of dawn illuminates the peaks.
+### 得(得) → 旦(旦) → 日(日)
+- **definition:** sun
+- **pinyin:** rì
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts the sun ->
+    - dot/line added for distinction
+  - **interpretation:** The character 日(日) (rì, "sun") represents the sun, and its form reflects this by resembling a circle with a central dot or line, akin to historical symbols for the sun across cultures.
+- **examples:**
+  - 日光洒满大地(日光灑滿大地)。
+    - Rìguāng sǎ mǎn dàdì.
+    - Sunlight spreads across the land.
+  - 当日西沉时(當日西沉時)，晚霞映红天际(晚霞映紅天際)。
+    - Dāng rì xī chén shí, wǎn xiá yìng hóng tiānjì.
+    - When the sun sets in the west, the evening glow colors the horizon.
+### 得(得) → 旦(旦) → 丁(丁)
+- **definition:** indicates pronunciation
+- **pinyin:** dīng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts the head of a nail ->
+    - evolved into derivatives representing 'nail' 釘(釘), 'head' 天(天) and 頂(頂), 'city wall' 成(成) and 城(城)
+  - **interpretation:** The character 丁(丁) (dīng) originally depicted the head of a nail. It was used as a base form in the creation of several other characters that evolved to represent different meanings such as 'nail', 'head', and 'city wall'.
+- **examples:**
+  - 丁是一个汉字(丁是一個漢字)。
+    - dīng shì yīgè hànzì.
+    - Ding is a Chinese character.
+  - ‘丁’的读音为 dīng(‘丁’的讀音為 dīng)。
+    - ‘dīng’ de dúyīn wéi dīng.
+    - The pronunciation of '丁' is dīng.
 ---
 ## 得(得)
 ### de/dé/děi
 ---
-## structural particle; to get, obtain; must, have to
+## (1) structural particle for verb complements; (2) to get, obtain; (3) must, have to
 %%%
 ## 燕麦粥(燕麥粥)
 ---
@@ -396,115 +730,126 @@
 - **components:**
   - 燕麦(燕麥)
     - yànmài
-    - oat
+    - oats
   - 粥
     - zhōu
     - porridge
 - **etymology:**
   - **type:** compound word
-  - **description:** 燕麦(燕麥) (yànmài, "oat") + 粥 (zhōu, "porridge") = oatmeal porridge
-  - **interpretation:** 燕麦(燕麥) (yànmài), meaning "oat," combined with 粥 (zhōu), meaning "porridge," makes a type of porridge specifically made from oats, known as oatmeal porridge.
+  - **description:** 燕麦(燕麥) (yànmài, "oats") + 粥(粥) (zhōu, "porridge") refers to a dish made by cooking oats into a thick, warm porridge.
+  - **interpretation:** 燕麦粥(燕麥粥) (yànmàizhōu, "oatmeal porridge") combines the concept of oats and porridge to specify a type of porridge made with oats, commonly consumed as a breakfast dish.
 - **examples:**
-  - 早上我常吃燕麦粥(早上我常吃燕麥粥)。
-    - zǎoshang wǒ cháng chī yànmàizhōu.
-    - I often eat oatmeal porridge in the morning.
-  - 燕麦粥(燕麥粥)可以配水果吃。
-    - yànmàizhōu kěyǐ pèi shuǐguǒ chī.
-    - Oatmeal porridge can be eaten with fruit.
-  - 为了健康，他改吃燕麦粥(為了健康，他改吃燕麥粥)。
-    - wèile jiànkāng, tā gǎi chī yànmàizhōu.
-    - For health reasons, he switched to eating oatmeal porridge.
+  - 我早餐喝燕麦粥(我早餐喝燕麥粥)。
+    - Wǒ zǎocān hē yànmàizhōu.
+    - I drink oatmeal porridge for breakfast.
+  - 妈妈做燕麦粥(媽媽做燕麥粥)，味道鲜美(味道鮮美)。
+    - Māmā zuò yànmàizhōu, wèidào xiānměi.
+    - Mom makes oatmeal porridge, and it tastes delicious.
+  - 冬天早晨常喝燕麦粥(冬天早晨常喝燕麥粥)，能暖胃驱寒(能暖胃驅寒)。
+    - Dōngtiān zǎochén cháng hē yànmàizhōu, néng nuǎn wèi qū hán.
+    - Drinking oatmeal porridge on a winter morning can warm the stomach and fend off the cold.
 ### 燕麦粥(燕麥粥) → 燕麦(燕麥)
-- **definition:** oat
+- **definition:** oats
 - **pinyin:** yànmài
 - **components:**
   - 燕
     - yàn
-    - swallow (bird)
+    - swallow; calm
   - 麦(麥)
     - mài
-    - wheat; grain
+    - wheat
 - **etymology:**
   - **type:** compound word
-  - **description:** 燕(yàn, "swallow (bird)") + 麦(麥) (mài, "wheat; grain") = oat
-  - **interpretation:** 燕(yàn, "swallow (bird)") refers to the region associated with the bird, and 麦(麥) (mài, "wheat; grain") describes the grain. Together, the term describes a grain—oat—that grows in the region.
+  - **description:**
+    - 燕(燕) (yàn, "swallow; calm") + 麦(麥) (mài, "wheat") =
+    - a grain related to wheat commonly known as oats
+  - **interpretation:** 燕(燕) (yàn, "swallow; calm") and 麦(麥) (mài, "wheat") combine to describe a cereal grain that is similar in agricultural characteristics to wheat but is specifically used to refer to oats.
+  - **simplification:** 燕 simplified to 燕 and 麥 simplified to 麦
 - **examples:**
-  - 燕麦是一种健康的早餐选择。
-    - Yànmài shì yī zhǒng jiànkāng de zǎocān xuǎnzé.
-    - Oat is a healthy breakfast choice.
-  - 他每天早上喝一杯燕麦牛奶。
-    - Tā měitiān zǎoshang hē yī bēi yànmài niúnǎi.
-    - He drinks a cup of oat milk every morning.
-  - 燕麦片可以用来制作饼干。
-    - Yànmài piàn kěyǐ yòng lái zhìzuò bǐnggān.
-    - Oat flakes can be used to make cookies.
+  - 我每天早上吃燕麦(我每天早上吃燕麥)。
+    - Wǒ měitiān zǎoshang chī yànmài.
+    - I eat oats every morning.
+  - 燕麦富含蛋白质(燕麥富含蛋白質)，适合做早餐(適合做早餐)。
+    - Yànmài fùhán dànbáizhí, shìhé zuò zǎocān.
+    - Oats are rich in protein and are suitable for breakfast.
 ### 燕麦粥(燕麥粥) → 燕麦(燕麥) → 燕(燕)
-- **definition:** swallow (bird)
+- **definition:** swallow; calm
 - **pinyin:** yàn
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a swallow
-  - **interpretation:** 燕(yàn, 'swallow') pictographically represents the bird known for its forked tail and streamlined body. This reflects the simple and direct nature of pictograms which aim to visually mimic the object they describe.
+  - **description:** 燕(燕) (yàn, "swallow") depicts a swallow
+  - **interpretation:** 燕(燕) (yàn) is a pictogram depicting the shape or distinctive features of a swallow, capturing its slender, streamlined form as seen in nature. This visual representation emphasizes the character's innate connection to its meaning.
 - **examples:**
-  - 燕子喜欢在屋檐下筑巢(燕子喜歡在屋簷下築巢)。
-    - Yànzǐ xǐhuān zài wūyán xià zhùcháo.
-    - Swallows like to build nests under eaves.
-  - 看到燕子，我们就知道春天来了(看到燕子，我們就知道春天來了)。
-    - Kàndào yànzǐ, wǒmen jiù zhīdào chūntiān lái le.
-    - Seeing swallows, we know spring has arrived.
+  - 春风轻拂时(春風輕拂時)，燕子悄然归来(燕子悄然歸來)。
+    - Chūn fēng qīng fú shí, yàn zi qiāo rán guī lái.
+    - When the spring breeze gently blows, the swallows quietly return.
+  - 面对挑战时(面對挑戰時)，心境燕然自若(心境燕然自若)。
+    - Miàn duì tiǎo zhàn shí, xīn jìng yàn rán zì ruò.
+    - When facing challenges, his state of mind remains unruffled.
 ### 燕麦粥(燕麥粥) → 燕麦(燕麥) → 麦(麥)
-- **definition:** wheat; grain
+- **definition:** wheat
 - **pinyin:** mài
 - **components:**
   - 來
     - lái
-    - come
+    - to come
   - 夊
     - suī
     - footprint pointing down; to walk slowly
 - **etymology:**
-  - **type:** phono-semantic compound
-  - **description:** Phonetic: 來 (come) + Semantic: 夊 (slow footprint) = growth & origin -> wheat
-  - **interpretation:** The character 麥 emphasizes growth and origin, with 來 providing the phonetic cue and 夊 suggesting movement or growth. This combination cleverly reflects wheat as both a growing plant and a staple arriving from ancient trade or cultivation.
-  - **simplification:** The 八 component in traditional 麥 was altered into a single horizontal line in simplified 麦, simplifying the character form.
+  - **type:** Phono-semantic compound
+  - **description:**
+    - Phonetic: 來(來) (lái, 'to come') + Semantic: 夊(夊) (suī, 'footprint pointing down; to walk slowly') ->
+    - differentiation from 來(來) (lái, 'wheat') ->
+    - 麥(麥) (mài, 'wheat')
+  - **interpretation:** Originally, 來(來) (lái) referred to 'wheat,' but was borrowed for 'to come.' The character 麥(麥) (mài) was then created, using 夊(夊) (suī, 'footprint pointing down'), possibly to symbolize slow growth or an ancient concept related to wheat, to denote 'wheat' specifically.
+  - **simplification:** Simplified to 麦(麥) (mài) by changing 八(八) (bā, 'eight') to a simple horizontal stroke for visual simplification while retaining the pronunciation mài.
 - **examples:**
-  - 这片田里种了很多麦(這片田裡種了很多麥)。
-    - Zhè piàn tián lǐ zhòng le hěn duō mài.
-    - Many wheat crops are planted in this field.
-  - 他喜欢吃麦片(他喜歡吃麥片)。
-    - Tā xǐhuān chī màipiàn.
-    - He likes to eat oatmeal.
+  - 春天来临时(春天來臨時)，田野里的麦子开始萌发(田野裡的麥子開始萌發)。
+    - Chūntiān láilín shí, tiányě lǐ de màizi kāishǐ méngfā.
+    - When spring comes, the wheat in the fields begins to sprout.
+  - 农夫用镰刀收割成熟的麦田(農夫用鐮刀收割成熟的麥田)。
+    - Nóngfū yòng liántāo shōugē chéngshú de màitián.
+    - The farmer harvests the ripe wheat fields with a sickle.
+  - 面包是由麦制成的(麵包是由麥制成的)。
+    - Miànbāo shì yóu mài zhìchéng de.
+    - Bread is made from wheat.
 ### 燕麦粥(燕麥粥) → 燕麦(燕麥) → 麦(麥) → 來(來)
-- **definition:** come
+- **definition:** to come
 - **pinyin:** lái
 - **etymology:**
   - **type:** Pictogram
-  - **description:** Depicts a wheat plant with an ear, leaves, stem, and roots
-  - **interpretation:** Originally depicting a wheat plant, 來(來) (lái, 'come') was borrowed for the meaning 'to come'. This usage possibly reflects the significance of wheat in ancient cultures or its introduction to the area, leading to its association with arrival or coming forth.
+  - **description:**
+    - Depicts wheat: line for ear, upturns for leaves, downturns for stem/roots ->
+    - borrowed for 'to come'; additions like 止 (zhǐ, 'foot') added and later removed
+  - **interpretation:** Originally depicting wheat, the character 來(lái, 'to come') was borrowed for its phonetic similarity to the word meaning 'to come'. The components effectively illustrate parts of the wheat plant, which provided an analogy for movement or arrival, hence its borrowed use.
 - **examples:**
-  - 我想你来这儿(我想你來這兒)。
-    - Wǒ xiǎng nǐ lái zhèr.
-    - I want you to come here.
-  - 请马上来这儿(請馬上來這兒)。
-    - Qǐng mǎshàng lái zhèr.
-    - Please come here immediately.
-  - 他来晚了(他來晚了)。
-    - Tā lái wǎn le.
-    - He came late.
+  - 请你来(請你來)，一起享受美好时光(一起享受美好時光)。
+    - qǐng nǐ lái, yìqǐ xiǎngshòu měihǎo shíguāng.
+    - Please come and enjoy a wonderful time.
+  - 春风吹来(春風吹來)，花儿绽放(花兒綻放)。
+    - chūnfēng chuī lái, huār zhànfàng.
+    - As the spring breeze comes, the flowers bloom.
+  - 我在门口等你来(我在門口等你來)。
+    - wǒ zài ménkǒu děng nǐ lái.
+    - I am waiting for you at the door.
 ### 燕麦粥(燕麥粥) → 燕麦(燕麥) → 麦(麥) → 夊(夊)
 - **definition:** footprint pointing down; to walk slowly
 - **pinyin:** suī
 - **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts footprint pointing down
-  - **interpretation:** 夊 (suī) depicts a footprint pointing down, suggesting a slow walking motion. It is a variant of 夂 (zhǐ) with a similar concept, emphasizing the directionality of movement.
+  - **type:** Pictogram ( 象形 )
+  - **description:** Depicts a footprint pointing down
+  - **interpretation:** The character 夊(suī, "footprint pointing down") is a pictogram representing a footprint, with the orientation suggesting a person walking slowly. Its graphical form resembles a foot, emphasizing its meaning related to walking.
 - **examples:**
-  - 夊是很少用的汉字(夊是很少用的漢字)
-    - suī shì hěn shǎo yòng de Hànzì
-    - 夊 is a rarely used Chinese character.
-  - 在古代，夊表示缓慢行走(在古代，夊表示緩慢行走)
-    - zài gǔdài, suī biǎoshì huǎnmàn xíngzǒu
-    - In ancient times, 夊 represented walking slowly.
+  - 他夊步而行(他夊步而行)，慢慢欣赏风景(慢慢欣賞風景)。
+    - Tā suī bù ér xíng, màn màn xīn shǎng fēng jǐng.
+    - He walks slowly, enjoying the scenery.
+  - 她夊行于山间小径(她夊行於山間小徑)。
+    - Tā suī xíng yú shān jiān xiǎo jìng.
+    - She strolls along the mountain path.
+  - 古人常夊步于庭院(古人常夊步於庭院)，眺望远山(眺望遠山)。
+    - Gǔ rén cháng suī bù yú tíng yuàn, tiào wàng yuǎn shān.
+    - Ancient people often walked slowly in the courtyard, gazing at the distant mountains.
 ### 燕麦粥(燕麥粥) → 粥(粥)
 - **definition:** porridge
 - **pinyin:** zhōu
@@ -513,145 +858,263 @@
     - yù
     - congee
 - **etymology:**
-  - **type:** reduced form
-  - **description:** Reduced form of 鬻(鬻) (yù, "congee")
-  - **interpretation:** 粥 is a simplified character derived from 鬻, which originally depicted the process of cooking rice in a cauldron, representing congee. The reduction maintains the core meaning of 'porridge' while omitting the more complex components.
-  - **simplification:** Simplified by reducing the complex 鬻 to 粥, retaining the core meaning related to congee.
+  - **type:** reduced form of
+  - **description:**
+    - 鬻(鬻) (yù, 'congee') original form with ideogrammic compound 䰜(䰜) (lì, 'cauldron') + 米(米) (mǐ, 'rice') =
+    - cauldron cooking rice ->
+    - depicts congee ->
+    - 粥(粥) (zhōu) as reduced form for 'porridge'
+  - **interpretation:** The character 粥(粥) (zhōu, 'porridge') was derived by simplifying its original form 鬻(鬻) (yù, 'congee'), which effectively conveyed the idea of rice cooking in a cauldron. The simplified character retained the core meaning while reducing complexity.
+  - **simplification:** 粥(粥) is a reduction of 鬻(鬻), likely streamlined for easier reproduction while preserving the phonetic sound and essential meaning of 'congee' or 'porridge'.
 - **examples:**
-  - 我早上喜欢吃粥。
-    - Wǒ zǎoshang xǐhuān chī zhōu.
-    - I like to eat porridge in the morning.
-  - 广东人经常喝粥。
-    - Guǎngdōng rén jīngcháng hē zhōu.
-    - Cantonese people often drink porridge.
-  - 粥是很有营养的食物。
-    - Zhōu shì hěn yǒu yíngyǎng de shíwù.
-    - Porridge is a very nutritious food.
+  - 每天早上我都会喝一碗热粥(每天早上我都會喝一碗熱粥)。
+    - Měitiān zǎoshang wǒ dōuhuì hē yī wǎn rè zhōu.
+    - Every morning, I always drink a bowl of hot porridge.
+  - 天气冷了(天氣冷了)，一碗粥让人感觉温暖(一碗粥讓人感覺溫暖)。
+    - Tiānqì lěngle, yī wǎn zhōu ràng rén gǎnjué wēnnuǎn.
+    - When the weather is cold, a bowl of porridge makes one feel warm.
 ### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻)
 - **definition:** congee
 - **pinyin:** yù
 - **components:**
   - 䰜
-    - nil
-    - 'cauldron'
+    - lì
+    - cauldron
   - 米
     - mǐ
     - rice
 - **etymology:**
-  - **type:** Ideogrammic compound
-  - **description:** 䰜 ('cauldron') + 米 ('rice') = cooking rice in cauldron -> congee
-  - **interpretation:** The character 鬻 visualizes the process of making congee by depicting rice being cooked in a cauldron, with steam rising. This reflects the original culinary use before it was later borrowed to mean 'to sell.'
-  - **simplification:** 粥 is a reduced form of 鬻 focused on retaining the rice component 米.
-- **examples:**
-  - 鬻字很少用。
-    - Yù zì hěn shǎo yòng.
-    - The character 鬻 is rarely used.
-  - 在书法中，鬻是一个复杂的字。
-    - Zài shūfǎ zhōng, yù shì yīgè fùzá de zì.
-    - In calligraphy, 鬻 is a complex character.
-### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜)
-- **definition:** 'cauldron'
-- **pinyin:** nil
-- **components:**
-  - 鬳
-    - yǎn
-    - cooking vessel
-  - 瓦
-    - wǎ
-    - earthenware
-- **etymology:**
   - **type:** ideogrammic compound
-  - **description:** phonetic 鬳(鬳) + semantic 瓦(瓦)
-  - **interpretation:** The character combines the phonetic element 鬳 (yǎn, 'cooking vessel') with the semantic element 瓦 (wǎ, 'earthenware'), which represents something made from clay or pottery, leading to the meaning of a 'cauldron'.
+  - **description:**
+    - 䰜(䰜) (lì, "cauldron") + 米(米) (mǐ, "rice") =
+    - cauldron with rice, emitting steam ->
+    - congee
+  - **interpretation:** 鬻(yù) combines a depiction of a cauldron, 䰜(䰜) (lì), with 米(米) (mǐ, "rice"), to form an image of rice being cooked in a cauldron. The two 弓 depict the steam rising from the cooking process, conveying the idea of congee.
+  - **simplification:** 粥(粥) (zhōu, "congee") simplifies 鬻(yù) by retaining the 米(米, "rice") while reducing other elements to streamline the character for phonetic reasons as a reduced form of 鬻 used for 'congee'.
 - **examples:**
-  - 在历史书中出现这个字(在歷史書中出現這個字)。
-    - Zài lìshǐ shū zhōng chūxiàn zhège zì.
-    - This character appears in historical texts.
-  - 古代有许多种类的鬲(古代有許多種類的鬲)。
-    - Gǔdài yǒu xǔduō zhǒnglèi de gě.
-    - There were many kinds of cauldrons in ancient times.
-### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜) → 鬳(鬳)
-- **definition:** cooking vessel
-- **pinyin:** yǎn
-- **components:**
-  - 虍
-    - hū
-    - tiger
-  - 鬲
-    - lì
-    - cauldron
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:** Phonetic: 虍 (tiger) + Semantic: 鬲 (cauldron) = sound element with meaning of cooking vessel -> cooking vessel
-  - **interpretation:** The character 鬳 combines the phonetic element 虍 (hū, 'tiger') with the semantic element 鬲 (lì, 'cauldron'), suggesting a cooking vessel. The phonetic hint from 虍 guides the pronunciation, while 鬲 gives the meaning related to cooking.
-- **examples:**
-  - 鬳是古代的烹饪器具。
-    - Yàn shì gǔdài de pēngrèn qìjù.
-    - 鬳 was an ancient cooking vessel.
-  - 博物馆展示了一个古老的鬳。
-    - Bówùguǎn zhǎnshìle yīgè gǔlǎo de yàn.
-    - The museum displayed an ancient 鬳.
-### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜) → 鬳(鬳) → 虍(虍)
-- **definition:** tiger
-- **pinyin:** hū
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a tiger's head
-  - **interpretation:** The character 虍 represents the distinct facial features of a tiger, including its stripes and fierce expression, focused solely on the head rather than the whole body as in 虎(虎) (hǔ, "tiger").
-- **examples:**
-  - 古代文本中可见此字符。
-    - Gǔdài wénběn zhōng kě jiàn cǐ zìfú.
-    - This character can be seen in ancient texts.
-  - 名字中有时使用此字符。
-    - Míngzì zhōng yǒushí shǐyòng cǐ zìfú.
-    - Sometimes this character is used in names.
-### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜) → 鬳(鬳) → 鬲(鬲)
+  - 妈妈煮好的鬻(鬻)，温暖了我的早晨(溫暖了我的早晨)。
+    - Māmā zhǔ hǎo de yù, wēnnuǎnle wǒ de zǎochén.
+    - The congee cooked by mom warmed my morning.
+  - 冬天喝一碗鬻(鬻)，使身体感到舒适(使身體感到舒適)。
+    - Dōngtiān hē yī wǎn yù, shǐ shēntǐ gǎndào shūshì.
+    - Having a bowl of congee in winter makes the body feel comfortable.
+  - 清晨时享用鬻(鬻)，开启充满活力的一天(開啟充滿活力的一天)。
+    - Qīngchén shí xiǎngyòng yì yù, kāiqǐ chōngmǎn huólì de yītiān.
+    - Enjoying congee in the early morning kick-starts a lively day.
+### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜)
 - **definition:** cauldron
 - **pinyin:** lì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts some pottery
-  - **interpretation:** The character 鬲 depicts a type of pottery, specifically a cauldron or vessel used in historical contexts for cooking. The pictogram visually represents the form of such a vessel.
+  - **description:** Depicts a cauldron or cooking vessel
+  - **interpretation:** 䰜(䰜) (lì, "cauldron") is an ancient form of 鬲(鬲) (lì, "cauldron"), both depict a cooking vessel, diverged over time.
 - **examples:**
-  - 鬲常见于古代器物。
-    - Lì cháng jiàn yú gǔdài qìwù.
-    - The cauldron is often seen in ancient artifacts.
-  - 古代的鬲用于烹饪。
-    - Gǔdài de lì yòng yú pēngrèn.
-    - Ancient cauldrons were used for cooking.
-### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 䰜(䰜) → 瓦(瓦)
-- **definition:** earthenware
-- **pinyin:** wǎ
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts fired earthenware pottery or a tile
-  - **interpretation:** The character 瓦 (wǎ, "earthenware") visually represents fired pottery or a roof tile, emphasizing its original use in construction or pottery making. Its shape suggests the rounded edges and general form of ceramic or tile products.
-- **examples:**
-  - 屋顶上有很多瓦。
-    - Wū dǐng shàng yǒu hěn duō wǎ.
-    - There are many tiles on the roof.
-  - 这是古代的瓦罐。
-    - Zhè shì gǔdài de wǎ guàn.
-    - This is an ancient pottery jar.
+  - 他在村里发现了一口古老的䰜(他在村裡發現了一口古老的䰜)，旁人传说它曾用于祭祀(旁人傳說它曾用於祭祀)。
+    - Tā zài cūn lǐ fāxiàn le yì kǒu gǔlǎo de lì, pángrén chuánshuō tā céng yòng yú jìsì.
+    - He discovered an ancient cauldron in the village, and people say it was once used for sacrificial rituals.
+  - 文人叹息古时铸就精美䰜(文人嘆息古時鑄就精美䰜)，见证历史风云(見證歷史風雲)。
+    - Wénrén tànxī gǔshí zhùjiù jīngměi de lì, jiànzhèng lìshǐ fēngyún.
+    - Scholars lament that the exquisitely cast ancient cauldron bears witness to a turbulent history.
 ### 燕麦粥(燕麥粥) → 粥(粥) → 鬻(鬻) → 米(米)
 - **definition:** rice
 - **pinyin:** mǐ
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts rice kernels without husk
-  - **interpretation:** The character 米 (mǐ) represents dehusked rice kernels, differentiated from 粟 (sù, 'millet'), which includes the husk. The horizontal stroke suggests a bamboo sieve, emphasizing the processing or refinement aspect of rice.
+  - **interpretation:** The character 米(mǐ, "rice") visually represents kernels of rice after being husked, differentiating it from 粟(sù, "millet" or "grain") which includes the husk. Its design effectively communicates the appearance of rice granules.
 - **examples:**
-  - 我喜欢吃米饭(我喜歡吃米飯)。
-    - Wǒ xǐhuān chī mǐfàn.
-    - I like eating rice.
-  - 米是粮食的主要成分(米是糧食的主要成分)。
-    - Mǐ shì liángshi de zhǔyào chéngfèn.
-    - Rice is a main component of food.
-  - 我们种了很多水稻(我們種了很多水稻)。
-    - Wǒmen zhòngle hěnduō shuǐdào.
-    - We planted a lot of rice.
+  - 我吃米饭(我吃米飯)。
+    - Wǒ chī mǐ fàn.
+    - I eat rice.
+  - 农民种米(農民種米)，收获丰盛(收穫豐盛)。
+    - Nóngmín zhòng mǐ, shōuhuò fēngshèng.
+    - Farmers cultivate rice, and the harvest is abundant.
+  - 厨房里有米(廚房裡有米)，我们一起做饭(我們一起做飯)。
+    - Chúfáng lǐ yǒu mǐ, wǒmen yīqǐ zuò fàn.
+    - There is rice in the kitchen, and we cook together.
 ---
 ## 燕麦粥(燕麥粥)
 ### yànmàizhōu
 ---
 ## oatmeal porridge
+%%%
+## 大同区(大同區)
+---
+## Datong District, Taipei
+### Dàtóng Qū
+---
+- **definition:** Datong District, Taipei
+- **pinyin:** Dàtóng Qū
+- **components:**
+  - 大同
+    - dàtóng
+    - great unity; Datong
+  - 区(區)
+    - qū
+    - district
+- **etymology:**
+  - **type:** compound word
+  - **description:** 大(大) (dà, "great") and 同(同) (tóng, "same; unity") form 大同(大同) (dàtóng, "great unity") which is a concept and name. This is combined with 區(區) (qū, "district") to refer to a specific district in Taipei.
+  - **interpretation:** The combination 大同(大同) (dàtóng, "great unity") with 區(區) (qū, "district") names a district in Taipei, suggesting a place embodying principles of unity or harmony.
+- **examples:**
+  - 我住在大同区(我住在大同區)。
+    - Wǒ zhù zài Dàtóng Qū.
+    - I live in Datong District.
+  - 大同区以美食出名(大同區以美食出名)，吸引了众多旅客(吸引了眾多旅客)。
+    - Dàtóng Qū yǐ měishí chūmíng, xīyǐnle zhòngduō lǚkè.
+    - Datong District is famous for its cuisine, attracting many tourists.
+  - 大同区有悠久的历史(大同區有悠久的歷史)，还是台北的重要文化区(還是臺北的重要文化區)。
+    - Dàtóng Qū yǒu yōujiǔ de lìshǐ, háishi Táiběi de zhòngyào wénhuà Qū.
+    - Datong District has a long history and is also an important cultural district in Taipei.
+### 大同区(大同區) → 大同(大同)
+- **definition:** great unity; Datong
+- **pinyin:** dàtóng
+- **components:**
+  - 大
+    - dà
+    - big; great
+  - 同
+    - tóng
+    - same; together
+- **etymology:**
+  - **type:** compound word
+  - **description:**
+    - 大(大) (dà, "big; great") + 同(同) (tóng, "same; together") =
+    - together being great ->
+    - great unity
+  - **interpretation:** The combination of 大(大) (dà, "big; great") and 同(同) (tóng, "same; together") conveys the idea of people or communities coming together to achieve a sense of greatness or unity.
+- **examples:**
+  - 国家追求大同(國家追求大同)。
+    - Guójiā zhuīqiú dàtóng.
+    - The nation strives for great unity.
+  - 游客参观大同(遊客參觀大同)，探寻历史文化(探尋歷史文化)。
+    - Yóukè cānguān dàtóng, tànxún lìshǐ wénhuà.
+    - Visitors tour Datong to explore its historical culture.
+### 大同区(大同區) → 大同(大同) → 大(大)
+- **definition:** big; great
+- **pinyin:** dà
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts 人(人) (rén, "person") facing forward ->
+    - phonetic borrowing for 大 (dà, "big")
+  - **interpretation:** The character 大 (dà, "big") originally depicted a person. It was phonetically borrowed for its current meaning, rather than literally representing the concept of 'bigness', differing from other character formations.
+- **examples:**
+  - 这个房间很大(這個房間很大)。
+    - Zhège fángjiān hěn dà.
+    - This room is big.
+  - 他有一个大梦想(他有一個大夢想)，希望改变世界(希望改變世界)。
+    - Tā yǒu yīgè dà mèngxiǎng, xīwàng gǎibiàn shìjiè.
+    - He has a great dream, hoping to change the world.
+  - 大树遮天(大樹遮天)。
+    - Dàshù zhē tiān.
+    - The large tree blocks the sky.
+### 大同区(大同區) → 大同(大同) → 同(同)
+- **definition:** same; together
+- **pinyin:** tóng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a pipe ->
+    - later added decorative 口 (kǒu, "mouth") ->
+    - evolved into 筒(tóng, "pipe")
+  - **interpretation:** Originally depicting a pipe, 同(tóng) was likely visualized as a cylindrical object. The later addition of 口(kǒu, "mouth") to the character may have been decorative or added to emphasize cooperation or messages passed through a pipe, thus associating it with the idea of togetherness or communication.
+- **examples:**
+  - 我们同享美食(我們同享美食)。
+    - Wǒ tóng xiǎng měishí.
+    - We enjoy food together.
+  - 他和我目光相同(他和我目光相同)，心意一致(心意一致)。
+    - Tā hé wǒ mùguāng xiāngtóng, xīnyì yīzhì.
+    - He and I have the same perspective, and our hearts are in agreement.
+### 大同区(大同區) → 区(區)
+- **definition:** district
+- **pinyin:** qū
+- **components:**
+  - 匸
+    - xì
+    - enclosure
+  - 品
+    - pǐn
+    - many people
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 匸(匸) (xì, "enclosure") + 品(品) (pǐn, "many people") =
+    - many people inside an enclosure ->
+    - district
+  - **interpretation:** The character represents the idea of a space that contains many people, suggesting a defined area or district.
+  - **simplification:** 區(區) simplified to 区(區) by replacing 品(品) (pǐn, "many people") with 乂(乂) (yì, "to govern"), which is visually simpler.
+- **examples:**
+  - 这个区风景秀丽(這個區風景秀麗)。
+    - Zhège qū fēngjǐng xiùlì.
+    - This district boasts beautiful scenery.
+  - 他们参观了老区展览(他們參觀了老區展覽)，了解了丰富的历史(了解了豐富的歷史)。
+    - Tāmen cānguānle lǎo qū zhǎnlǎn, liǎojiěle fēngfù de lìshǐ.
+    - They visited the exhibition in the old district and learned about its rich history.
+  - 新区规划合理(新區規劃合理)，未来发展可期(未來發展可期)。
+    - Xīn qū guīhuà hélǐ, wèilái fāzhǎn kě qī.
+    - The new district is well planned, and its future development is promising.
+### 大同区(大同區) → 区(區) → 匸(匸)
+- **definition:** enclosure
+- **pinyin:** xì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a graphic sign 𠃊 to symbolize something that hides something or someone
+  - **interpretation:** The character 匸(xì, "enclosure") depicts a shape resembling a lid or cover, suggesting something that closes or conceals a space.
+  - **simplification:** None, since 匸(xì, "enclosure") is both the simplified and traditional form.
+- **examples:**
+  - 学者研究匸的结构(學者研究匸的結構)，认为其代表一种围合概念(認為其代表一種圍合概念)。
+    - Xuézhě yánjiū xì de jiégòu, rènwéi qí dàibiǎo yī zhǒng wéihé gàiniàn.
+    - Scholars study the structure of the enclosure, believing it represents a concept of encapsulation.
+  - 古籍记载匸的演变(古籍記載匸的演變)，体现古人智慧(體現古人智慧)。
+    - Gǔjí jìzǎi xì de yǎnbiàn, tǐxiàn gǔrén zhìhuì.
+    - Ancient texts record the evolution of the enclosure, reflecting the wisdom of the ancients.
+### 大同区(大同區) → 区(區) → 品(品)
+- **definition:** many people
+- **pinyin:** pǐn
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 口
+    - kǒu
+    - mouth
+  - 口
+    - kǒu
+    - mouth
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 口(口) (kǒu, "mouth") tripled =
+    - represents various objects ->
+    - 品(品) (pǐn, "many people")
+  - **interpretation:** The character 品(品) (pǐn, "many people") consists of three 口(口) (kǒu, "mouth"), symbolizing groupings or collections. By tripling 口(口) (kǒu, "mouth"), it conveys a meaning related to gathering, collectively representing multiple items or individuals.
+- **examples:**
+  - 市井之品聚集街头(市井之品聚集街頭)。
+    - Shì jǐng zhī pǐn jùjí jiētóu.
+    - The common people gathered on the streets.
+  - 音乐会开场时(音樂會開場時)，成百上千品入场(成百上千品入場)。
+    - Yīn yuè huì kāichǎng shí, chéng bǎi shàng qiān pǐn rùchǎng.
+    - At the start of the concert, hundreds and thousands of people entered.
+### 大同区(大同區) → 区(區) → 品(品) → 口(口)
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth
+  - **interpretation:** The character 口(口) (kǒu, "mouth") is a pictogram that intuitively illustrates the shape of an open mouth, making it straightforward to associate with meanings related to oral communication, entry points, and counting word for people.
+- **examples:**
+  - 他张开口大笑(他張開口大笑)。
+    - Tā zhāng kāi kǒu dà xiào。
+    - He opened his mouth wide and laughed heartily.
+  - 我们从城门口进入(我們從城門口進入)，参观古城(參觀古城)。
+    - Wǒ men cóng chéng mén kǒu jìn rù, cān guān gǔ chéng。
+    - We entered through the city gate and visited the ancient city.
+  - 全家五口人(全家五口人)，和睦相处(和睦相處)。
+    - Quán jiā wǔ kǒu rén, hé mù xiāng chǔ。
+    - The family, consisting of five members, lives in harmony.
+---
+## 大同区(大同區)
+### Dàtóng Qū
+---
+## Datong District, Taipei

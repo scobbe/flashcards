@@ -44,7 +44,7 @@ class OpenAIClient:
         resp = self.client.chat.completions.create(
             model=self.model,
             messages=messages,
-            max_completion_tokens=2048,
+            max_completion_tokens=4096,
             response_format={"type": "json_object"},
         )
         text = resp.choices[0].message.content or "{}"

@@ -4,17 +4,17 @@
   "pinyin": "yù",
   "english": "congee",
   "etymology": {
-    "type": "Ideogrammic compound",
-    "description": "䰜 ('cauldron') + 米 ('rice') = cooking rice in cauldron -> congee",
-    "interpretation": "The character 鬻 visualizes the process of making congee by depicting rice being cooked in a cauldron, with steam rising. This reflects the original culinary use before it was later borrowed to mean 'to sell.'",
-    "simplification": "粥 is a reduced form of 鬻 focused on retaining the rice component 米."
+    "type": "ideogrammic compound",
+    "description": "䰜(䰜) (lì, \"cauldron\") + 米(米) (mǐ, \"rice\") = cauldron with rice, emitting steam -> congee",
+    "interpretation": "鬻(yù) combines a depiction of a cauldron, 䰜(䰜) (lì), with 米(米) (mǐ, \"rice\"), to form an image of rice being cooked in a cauldron. The two 弓 depict the steam rising from the cooking process, conveying the idea of congee.",
+    "simplification": "粥(粥) (zhōu, \"congee\") simplifies 鬻(yù) by retaining the 米(米, \"rice\") while reducing other elements to streamline the character for phonetic reasons as a reduced form of 鬻 used for 'congee'."
   },
   "parts": [
     {
       "char": "䰜",
       "trad": "䰜",
-      "pinyin": "nil",
-      "english": "'cauldron'"
+      "pinyin": "lì",
+      "english": "cauldron"
     },
     {
       "char": "米",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "鬻字很少用。",
-      "pinyin": "Yù zì hěn shǎo yòng.",
-      "english": "The character 鬻 is rarely used."
+      "chinese": "妈妈煮好的鬻(鬻)，温暖了我的早晨(溫暖了我的早晨)。",
+      "pinyin": "Māmā zhǔ hǎo de yù, wēnnuǎnle wǒ de zǎochén.",
+      "english": "The congee cooked by mom warmed my morning."
     },
     {
-      "chinese": "在书法中，鬻是一个复杂的字。",
-      "pinyin": "Zài shūfǎ zhōng, yù shì yīgè fùzá de zì.",
-      "english": "In calligraphy, 鬻 is a complex character."
+      "chinese": "冬天喝一碗鬻(鬻)，使身体感到舒适(使身體感到舒適)。",
+      "pinyin": "Dōngtiān hē yī wǎn yù, shǐ shēntǐ gǎndào shūshì.",
+      "english": "Having a bowl of congee in winter makes the body feel comfortable."
+    },
+    {
+      "chinese": "清晨时享用鬻(鬻)，开启充满活力的一天(開啟充滿活力的一天)。",
+      "pinyin": "Qīngchén shí xiǎngyòng yì yù, kāiqǐ chōngmǎn huólì de yītiān.",
+      "english": "Enjoying congee in the early morning kick-starts a lively day."
     }
   ]
 }

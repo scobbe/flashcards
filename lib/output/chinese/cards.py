@@ -7,7 +7,8 @@ from typing import Dict, List, Optional, Set, Tuple
 
 from lib.schema.base import FRONT_BACK_DIVIDER
 from lib.schema.chinese import (
-    generate_system_prompt,
+    generate_system_prompt_no_examples,
+    generate_examples_system_prompt,
     format_field_for_display,
     extract_to_cache_format,
     extract_from_cache,
@@ -157,13 +158,10 @@ def generate_card_content(
             True,  # from_cache
         )
 
-    client = OpenAIClient(model=model)
-
     # Generate system prompt from schema
     variant = "single_char" if is_single else "multi_char"
-    system = generate_system_prompt(variant)
 
-    # Build user prompt
+    # Build user prompt for etymology
     if is_single:
         user = f"Character: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
@@ -175,10 +173,11 @@ def generate_card_content(
         if wiktionary_etymology:
             user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE:**\n{wiktionary_etymology}"
 
-    if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
-        user += f"\n\nInclude examples:\n{input_examples}"
-
     try:
+        # First API call: etymology/parts with gpt-4o (no examples)
+        client = OpenAIClient(model=model)
+        system = generate_system_prompt_no_examples(variant)
+
         if verbose:
             print(f"[chinese] [generate] {simplified} ({variant})...")
         start = time.time()
@@ -187,6 +186,25 @@ def generate_card_content(
         elapsed = time.time() - start
         if verbose:
             print(f"[chinese] [generated] {simplified} in {elapsed:.1f}s")
+
+        # Second API call: examples with o3-mini
+        examples_client = OpenAIClient(model="o3-mini")
+        examples_system = generate_examples_system_prompt(variant)
+        examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
+        if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
+            examples_user += f"\n\nInclude these examples:\n{input_examples}"
+
+        if verbose:
+            print(f"[chinese] [examples] {simplified}...")
+        examples_start = time.time()
+        examples_data = examples_client.complete_json(examples_system, examples_user, verbose=verbose)
+        examples_elapsed = time.time() - examples_start
+        if verbose:
+            print(f"[chinese] [examples] {simplified} in {examples_elapsed:.1f}s")
+
+        # Merge examples into data
+        if examples_data and "examples" in examples_data:
+            data["examples"] = examples_data["examples"]
 
         if not data or data == {}:
             print(f"[chinese] [ERROR] API returned empty response for {simplified}")

@@ -1,0 +1,44 @@
+{
+  "simplified": "大同区",
+  "traditional": "大同區",
+  "pinyin": "Dàtóng Qū",
+  "english": "Datong District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"great\") and 同(同) (tóng, \"same; unity\") form 大同(大同) (dàtóng, \"great unity\") which is a concept and name. This is combined with 區(區) (qū, \"district\") to refer to a specific district in Taipei.",
+    "interpretation": "The combination 大同(大同) (dàtóng, \"great unity\") with 區(區) (qū, \"district\") names a district in Taipei, suggesting a place embodying principles of unity or harmony.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大同",
+      "trad": "大同",
+      "pinyin": "dàtóng",
+      "english": "great unity; Datong"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "district"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在大同区(我住在大同區)。",
+      "pinyin": "Wǒ zhù zài Dàtóng Qū.",
+      "english": "I live in Datong District."
+    },
+    {
+      "chinese": "大同区以美食出名(大同區以美食出名)，吸引了众多旅客(吸引了眾多旅客)。",
+      "pinyin": "Dàtóng Qū yǐ měishí chūmíng, xīyǐnle zhòngduō lǚkè.",
+      "english": "Datong District is famous for its cuisine, attracting many tourists."
+    },
+    {
+      "chinese": "大同区有悠久的历史(大同區有悠久的歷史)，还是台北的重要文化区(還是臺北的重要文化區)。",
+      "pinyin": "Dàtóng Qū yǒu yōujiǔ de lìshǐ, háishi Táiběi de zhòngyào wénhuà Qū.",
+      "english": "Datong District has a long history and is also an important cultural district in Taipei."
+    }
+  ]
+}

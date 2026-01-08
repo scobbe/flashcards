@@ -10,7 +10,9 @@ from lib.output.chinese.cache import CHINESE_CACHE_DIR
 
 # Module-level session for connection reuse
 _session = requests.Session()
-_session.headers.update({"User-Agent": "flashcards-script/1.0"})
+_session.headers.update({
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+})
 
 
 def _extract_see_reference(html: str) -> str:
@@ -34,6 +36,79 @@ def _extract_see_reference(html: str) -> str:
             return match.group(1).strip()
 
     return ""
+
+
+def _extract_definitions_from_html(html: str, max_defs: int = 3) -> str:
+    """Extract the first N definitions from the Chinese section.
+
+    Returns definitions as a numbered list, or empty string if not found.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Find main content
+    content = soup.find("div", {"id": "mw-content-text"})
+    if not content:
+        return ""
+
+    # Find Chinese section by looking for h2 with "Chinese" text
+    chinese_section_start = None
+    chinese_section_end = None
+
+    for h2 in content.find_all("h2"):
+        heading_text = h2.get_text().lower()
+        if "chinese" in heading_text:
+            chinese_section_start = h2
+        elif chinese_section_start and heading_text and not heading_text.startswith("chinese"):
+            # Found next language section
+            chinese_section_end = h2
+            break
+
+    if not chinese_section_start:
+        return ""
+
+    # Find all OL tags between Chinese heading and next language heading
+    definitions = []
+
+    # Get all elements after Chinese heading
+    for ol in content.find_all("ol"):
+        # Check if this OL is after Chinese heading and before next section
+        if chinese_section_start:
+            # Check position relative to Chinese heading
+            chinese_pos = str(content).find(str(chinese_section_start))
+            ol_pos = str(content).find(str(ol))
+
+            if ol_pos <= chinese_pos:
+                continue  # OL is before Chinese section
+
+            if chinese_section_end:
+                end_pos = str(content).find(str(chinese_section_end))
+                if ol_pos >= end_pos:
+                    continue  # OL is after Chinese section
+
+        # Extract definitions from this OL
+        for li in ol.find_all("li", recursive=False):
+            text = li.get_text(separator=" ", strip=True)
+            if text and len(text) > 5:
+                # Clean up
+                text = re.sub(r'\[edit\]', '', text, flags=re.IGNORECASE)
+                text = re.sub(r'\s+', ' ', text).strip()
+                # Skip Kangxi radical entries and other non-definitions
+                if text and not text.startswith("Category:") and not text.startswith("Kangxi"):
+                    definitions.append(text)
+                    if len(definitions) >= max_defs:
+                        break
+        if len(definitions) >= max_defs:
+            break
+
+    if not definitions:
+        return ""
+
+    # Format as numbered list
+    result = []
+    for i, defn in enumerate(definitions[:max_defs], 1):
+        result.append(f"{i}. {defn}")
+
+    return "\n".join(result)
 
 
 def _extract_etymology_from_html(html: str) -> str:

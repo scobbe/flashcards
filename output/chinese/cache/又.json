@@ -6,21 +6,26 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a right hand",
-    "interpretation": "The character 又 (yòu) visually represents a right hand. This form illustrates the concept of 'hand' through its depiction of a hand in an abstract manner.",
+    "interpretation": "The character 又(yòu) directly visualizes a right hand, making it easy to remember as it looks like a hand, with the two strokes suggesting fingers.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我又来了(我又來了)。",
-      "pinyin": "Wǒ yòu lái le.",
-      "english": "I came again."
+      "chinese": "他以又轻扶古琴(他以又輕扶古琴)。",
+      "pinyin": "Tā yǐ yòu qīng fú gǔqín.",
+      "english": "He gently strokes the ancient zither with his hand."
     },
     {
-      "chinese": "她又哭了(她又哭了)。",
-      "pinyin": "Tā yòu kū le.",
-      "english": "She cried again."
+      "chinese": "工匠精于雕刻(工匠精於雕刻)，全赖又灵巧施艺(全賴又靈巧施藝)。",
+      "pinyin": "Gōngjiàng jīng yú diāokè, quán lài yòu língqiǎo shī yì.",
+      "english": "The artisan excels in carving, all thanks to the dexterity of his hand."
+    },
+    {
+      "chinese": "书法家以又运笔(書法家以又運筆)，绘出墨香传世(繪出墨香傳世)。",
+      "pinyin": "Shūfǎjiā yǐ yòu yùn bǐ, huì chū mòxiāng chuánshì.",
+      "english": "The calligrapher employs his hand to guide the brush, producing calligraphic works that endure."
     }
   ]
 }

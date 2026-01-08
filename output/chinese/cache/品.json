@@ -1,0 +1,45 @@
+{
+  "simplified": "品",
+  "traditional": "品",
+  "pinyin": "pǐn",
+  "english": "many people",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "口(口) (kǒu, \"mouth\") tripled = represents various objects -> 品(品) (pǐn, \"many people\")",
+    "interpretation": "The character 品(品) (pǐn, \"many people\") consists of three 口(口) (kǒu, \"mouth\"), symbolizing groupings or collections. By tripling 口(口) (kǒu, \"mouth\"), it conveys a meaning related to gathering, collectively representing multiple items or individuals.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "市井之品聚集街头(市井之品聚集街頭)。",
+      "pinyin": "Shì jǐng zhī pǐn jùjí jiētóu.",
+      "english": "The common people gathered on the streets."
+    },
+    {
+      "chinese": "音乐会开场时(音樂會開場時)，成百上千品入场(成百上千品入場)。",
+      "pinyin": "Yīn yuè huì kāichǎng shí, chéng bǎi shàng qiān pǐn rùchǎng.",
+      "english": "At the start of the concert, hundreds and thousands of people entered."
+    }
+  ]
+}

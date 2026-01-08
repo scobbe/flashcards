@@ -4,23 +4,28 @@
   "pinyin": "suī",
   "english": "footprint pointing down; to walk slowly",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts footprint pointing down",
-    "interpretation": "夊 (suī) depicts a footprint pointing down, suggesting a slow walking motion. It is a variant of 夂 (zhǐ) with a similar concept, emphasizing the directionality of movement.",
+    "type": "Pictogram ( 象形 )",
+    "description": "Depicts a footprint pointing down",
+    "interpretation": "The character 夊(suī, \"footprint pointing down\") is a pictogram representing a footprint, with the orientation suggesting a person walking slowly. Its graphical form resembles a foot, emphasizing its meaning related to walking.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "夊是很少用的汉字(夊是很少用的漢字)",
-      "pinyin": "suī shì hěn shǎo yòng de Hànzì",
-      "english": "夊 is a rarely used Chinese character."
+      "chinese": "他夊步而行(他夊步而行)，慢慢欣赏风景(慢慢欣賞風景)。",
+      "pinyin": "Tā suī bù ér xíng, màn màn xīn shǎng fēng jǐng.",
+      "english": "He walks slowly, enjoying the scenery."
     },
     {
-      "chinese": "在古代，夊表示缓慢行走(在古代，夊表示緩慢行走)",
-      "pinyin": "zài gǔdài, suī biǎoshì huǎnmàn xíngzǒu",
-      "english": "In ancient times, 夊 represented walking slowly."
+      "chinese": "她夊行于山间小径(她夊行於山間小徑)。",
+      "pinyin": "Tā suī xíng yú shān jiān xiǎo jìng.",
+      "english": "She strolls along the mountain path."
+    },
+    {
+      "chinese": "古人常夊步于庭院(古人常夊步於庭院)，眺望远山(眺望遠山)。",
+      "pinyin": "Gǔ rén cháng suī bù yú tíng yuàn, tiào wàng yuǎn shān.",
+      "english": "Ancient people often walked slowly in the courtyard, gazing at the distant mountains."
     }
   ]
 }

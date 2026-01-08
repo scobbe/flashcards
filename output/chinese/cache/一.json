@@ -4,28 +4,28 @@
   "pinyin": "yī",
   "english": "one",
   "etymology": {
-    "type": "Ideogram",
-    "description": "A horizontal stroke, indicating the number 'one'",
-    "interpretation": "The simplest representation of 'one' as a horizontal line makes intuitive sense because it visually signifies a singular unit, an elemental stroke itself.",
+    "type": "ideogram",
+    "description": "Horizontal stroke -> indicates number 'one'",
+    "interpretation": "The character 一(yī, 'one') directly represents the concept of 'one' through a single horizontal stroke, visually embodying the idea of singularity and unity.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我只有一只猫(我只有一隻貓)。",
-      "pinyin": "Wǒ zhǐ yǒu yī zhī māo.",
-      "english": "I only have one cat."
+      "chinese": "我有一只猫(我有一隻貓)。",
+      "pinyin": "Wǒ yǒu yī zhī māo.",
+      "english": "I have one cat."
     },
     {
-      "chinese": "给我一杯水(給我一杯水)。",
-      "pinyin": "Gěi wǒ yī bēi shuǐ.",
-      "english": "Give me a glass of water."
+      "chinese": "他只需要一把伞(他只需要一把傘)，就能出门(就能出門)。",
+      "pinyin": "Tā zhǐ xūyào yī bǎ sǎn, jiù néng chūmén.",
+      "english": "He only needs one umbrella to go out."
     },
     {
-      "chinese": "他是一个好人(他是一個好人)。",
-      "pinyin": "Tā shì yī gè hǎo rén.",
-      "english": "He is a good person."
+      "chinese": "桌上只有一支笔(桌上只有一支筆)。",
+      "pinyin": "Zhuō shàng zhǐ yǒu yī zhī bǐ.",
+      "english": "There is only one pen on the table."
     }
   ]
 }

@@ -2,25 +2,25 @@
   "simplified": "呂",
   "traditional": "呂",
   "pinyin": "lǚ",
-  "english": "two blocks of metal",
+  "english": "blocks of metal",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two blocks of metal",
-    "interpretation": "The character originally depicted two separate blocks of metal or vertebrae. In seal script, these blocks were shown connected by a line. It was later borrowed phonetically to represent the sounds for related meanings like ‘spine’ or ‘music notes’.",
+    "description": "Depicts two blocks of metal -> later connected as two vertebrae -> borrowed to represent 'spine' and music notes",
+    "interpretation": "Initially depicting two separate metal blocks, 呂(呂) (lǚ, \"blocks of metal\") evolved to represent anatomy and music notes due to phonetic borrowing, showcasing its flexibility in borrowing meanings.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": true,
+  "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "我姓吕(我姓呂)。",
-      "pinyin": "wǒ xìng Lǚ.",
-      "english": "My surname is Lü."
+      "chinese": "考古学家在遗址中发现呂(考古學家在遺址中發現呂)，验证了古代铸造方法(驗證了古代鑄造方法)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn lǚ, yànzhèngle gǔdài zhùzào fāngfǎ.",
+      "english": "Archaeologists discovered blocks of metal at the ruins, confirming ancient casting methods."
     },
     {
-      "chinese": "吕国是一个古代国家(呂國是一個古代國家)。",
-      "pinyin": "Lǚ guó shì yí gè gǔdài guójiā.",
-      "english": "The Lü Kingdom was an ancient state."
+      "chinese": "呂(呂)体现了古代金属工艺(體現了古代金屬工藝)。",
+      "pinyin": "Lǚ tǐxiànle gǔdài jīnshǔ gōngyì.",
+      "english": "Blocks of metal embody the ancient metalworking craft."
     }
   ]
 }

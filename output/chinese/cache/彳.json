@@ -1,0 +1,26 @@
+{
+  "simplified": "彳",
+  "traditional": "彳",
+  "pinyin": "chì",
+  "english": "step",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts footsteps or path",
+    "interpretation": "This character visually represents steps or a path, often used as a radical in characters related to movement or walking.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在汉字中(在漢字中)，彳表示步伐的一部分(彳表示步伐的一部分)。",
+      "pinyin": "Zài hànzì zhōng, chì biǎoshì bùfá de yībùfèn.",
+      "english": "In Chinese characters, 彳 represents part of a step."
+    },
+    {
+      "chinese": "书法家在练字时(書法家在練字時)，也会仔细描绘彳这一偏旁(也會仔細描繪彳這一偏旁)。",
+      "pinyin": "Shūfǎ jiā zài liànzì shí, yě huì zǐxì miáohuì chì zhè yī piānpáng.",
+      "english": "When practicing calligraphy, calligraphers carefully depict the radical 彳."
+    }
+  ]
+}

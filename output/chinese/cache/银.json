@@ -5,13 +5,13 @@
   "english": "silver",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 钅(金) (jīn, \"metal\") + phonetic: 艮(艮) (gèn) = metal sound -> silver",
-    "interpretation": "The character combines the metal radical 钅(金) (jīn, \"metal\") indicating that it is a type of metal, with the phonetic 艮(艮) (gèn), which guides the pronunciation. Silver is a precious metal, aligning with the metal semantic component.",
-    "simplification": "金 was simplified to 钅 as a more concise representation while retaining its meaning of metal in the simplified character 银."
+    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gèn, \"stubborn\") = metal with phonetic element suggesting sound -> silver",
+    "interpretation": "The character combines the meaning of 'metal' with a phonetic component to specify 'silver', a highly valued metal. The selection of 艮(艮) (gèn) as the phonetic part helps in pronunciation.",
+    "simplification": "The character 銀(銀) was simplified to 银(銀) by replacing the traditional 金(金) with 钅(钅), a simpler, cursive shorthand form, retaining its meaning as a metal radical."
   },
   "parts": [
     {
-      "char": "钅",
+      "char": "金",
       "trad": "金",
       "pinyin": "jīn",
       "english": "metal"
@@ -20,25 +20,25 @@
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "sound"
+      "english": "stubborn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有银子(我有銀子)，想买东西(想買東西)。",
-      "pinyin": "Wǒ yǒu yínzi, xiǎng mǎi dōngxī.",
-      "english": "I have silver and want to buy something."
+      "chinese": "银是一种珍贵的金属(銀是一種珍貴的金屬)。",
+      "pinyin": "Yín shì yī zhǒng zhēnguì de jīnshǔ.",
+      "english": "Silver is a precious metal."
     },
     {
-      "chinese": "银色的车(銀色的車)很漂亮。",
-      "pinyin": "Yínsè de chē hěn piàoliang.",
-      "english": "The silver car is very beautiful."
+      "chinese": "他用银制成的餐具(他用銀製成的餐具)，闪闪发光(閃閃發光)。",
+      "pinyin": "Tā yòng yín zhìchéng de cānjù, shǎnshǎn fāguāng.",
+      "english": "The tableware made of silver sparkles."
     },
     {
-      "chinese": "他买了一枚银戒指(銀戒指)。",
-      "pinyin": "Tā mǎile yī méi yín jièzhǐ.",
-      "english": "He bought a silver ring."
+      "chinese": "雕刻师用银打造了精美的饰品(雕刻師用銀打造了精美的飾品)，赢得了许多赞誉(贏得了許多讚譽)。",
+      "pinyin": "Diāokè shī yòng yín dǎzào le jīngměi de shìpǐn, yíngdé le xǔduō zànyù.",
+      "english": "The sculptor crafted exquisite ornaments from silver, earning much praise."
     }
   ]
 }

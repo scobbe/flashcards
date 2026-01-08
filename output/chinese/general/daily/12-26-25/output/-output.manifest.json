@@ -277,7 +277,7 @@
     "275.才": "complete",
     "276.彭丽媛": "complete",
     "277.沉鱼落雁": "complete",
-    "278.醉翁之意不在酒": "complete",
+    "278.醉翁之意不在酒": "in_progress",
     "279.四季豆": "complete",
     "280.周游": "complete",
     "281.游泳": "complete",
@@ -295,9 +295,9 @@
     "293.星巴克": "complete",
     "294.高考": "complete"
   },
-  "complete": 294,
-  "in_progress": 0,
+  "complete": 293,
+  "in_progress": 1,
   "pending": 0,
   "error": 0,
-  "complete_contiguous": 294
+  "complete_contiguous": 277
 }

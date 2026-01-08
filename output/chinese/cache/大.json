@@ -1,0 +1,31 @@
+{
+  "simplified": "大",
+  "traditional": "大",
+  "pinyin": "dà",
+  "english": "big; great",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 人(人) (rén, \"person\") facing forward -> phonetic borrowing for 大 (dà, \"big\")",
+    "interpretation": "The character 大 (dà, \"big\") originally depicted a person. It was phonetically borrowed for its current meaning, rather than literally representing the concept of 'bigness', differing from other character formations.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个房间很大(這個房間很大)。",
+      "pinyin": "Zhège fángjiān hěn dà.",
+      "english": "This room is big."
+    },
+    {
+      "chinese": "他有一个大梦想(他有一個大夢想)，希望改变世界(希望改變世界)。",
+      "pinyin": "Tā yǒu yīgè dà mèngxiǎng, xīwàng gǎibiàn shìjiè.",
+      "english": "He has a great dream, hoping to change the world."
+    },
+    {
+      "chinese": "大树遮天(大樹遮天)。",
+      "pinyin": "Dàshù zhē tiān.",
+      "english": "The large tree blocks the sky."
+    }
+  ]
+}

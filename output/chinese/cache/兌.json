@@ -1,0 +1,45 @@
+{
+  "simplified": "兌",
+  "traditional": "兌",
+  "pinyin": "duì",
+  "english": "exchange",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "八(八) (bā, \"speech; breath\") + 口(口) (kǒu, \"mouth\") + 人(人) (rén, \"person\") -> speech; original character of 說(說) (shuō, \"to speak\")",
+    "interpretation": "The character 兌(兌) (duì, \"exchange\") originally depicted the act of speaking or expressing, as shown by the combination of mouth and speech components. Over time, it became associated with expressions of emotion and satisfaction, leading to its association with 'pleased' in 悅(悅) (yuè, \"pleased\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "\"speech; breath\""
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "\"mouth\""
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "\"person\""
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我去银行兌換日元(我去銀行兌換日元)。",
+      "pinyin": "Wǒ qù yínháng duìhuàn rìyuán.",
+      "english": "I go to the bank to exchange for Japanese yen."
+    },
+    {
+      "chinese": "旅客在机场兌換货币(旅客在機場兌換貨幣)，以满足旅程需要(以滿足旅程需要)。",
+      "pinyin": "Lǚkè zài jīchǎng duìhuàn huòbì, yǐ mǎnzú lǚchéng xūqiú.",
+      "english": "Travelers exchange currency at the airport to meet the needs of their journey."
+    }
+  ]
+}

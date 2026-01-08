@@ -5,8 +5,8 @@
   "english": "oatmeal porridge",
   "etymology": {
     "type": "compound word",
-    "description": "燕麦(燕麥) (yànmài, \"oat\") + 粥 (zhōu, \"porridge\") = oatmeal porridge",
-    "interpretation": "燕麦(燕麥) (yànmài), meaning \"oat,\" combined with 粥 (zhōu), meaning \"porridge,\" makes a type of porridge specifically made from oats, known as oatmeal porridge.",
+    "description": "燕麦(燕麥) (yànmài, \"oats\") + 粥(粥) (zhōu, \"porridge\") refers to a dish made by cooking oats into a thick, warm porridge.",
+    "interpretation": "燕麦粥(燕麥粥) (yànmàizhōu, \"oatmeal porridge\") combines the concept of oats and porridge to specify a type of porridge made with oats, commonly consumed as a breakfast dish.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "燕麦",
       "trad": "燕麥",
       "pinyin": "yànmài",
-      "english": "oat"
+      "english": "oats"
     },
     {
       "char": "粥",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "早上我常吃燕麦粥(早上我常吃燕麥粥)。",
-      "pinyin": "zǎoshang wǒ cháng chī yànmàizhōu.",
-      "english": "I often eat oatmeal porridge in the morning."
+      "chinese": "我早餐喝燕麦粥(我早餐喝燕麥粥)。",
+      "pinyin": "Wǒ zǎocān hē yànmàizhōu.",
+      "english": "I drink oatmeal porridge for breakfast."
     },
     {
-      "chinese": "燕麦粥(燕麥粥)可以配水果吃。",
-      "pinyin": "yànmàizhōu kěyǐ pèi shuǐguǒ chī.",
-      "english": "Oatmeal porridge can be eaten with fruit."
+      "chinese": "妈妈做燕麦粥(媽媽做燕麥粥)，味道鲜美(味道鮮美)。",
+      "pinyin": "Māmā zuò yànmàizhōu, wèidào xiānměi.",
+      "english": "Mom makes oatmeal porridge, and it tastes delicious."
     },
     {
-      "chinese": "为了健康，他改吃燕麦粥(為了健康，他改吃燕麥粥)。",
-      "pinyin": "wèile jiànkāng, tā gǎi chī yànmàizhōu.",
-      "english": "For health reasons, he switched to eating oatmeal porridge."
+      "chinese": "冬天早晨常喝燕麦粥(冬天早晨常喝燕麥粥)，能暖胃驱寒(能暖胃驅寒)。",
+      "pinyin": "Dōngtiān zǎochén cháng hē yànmàizhōu, néng nuǎn wèi qū hán.",
+      "english": "Drinking oatmeal porridge on a winter morning can warm the stomach and fend off the cold."
     }
   ]
 }

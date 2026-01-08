@@ -5,16 +5,22 @@
   "english": "population",
   "etymology": {
     "type": "compound word",
-    "description": "人(人) (rén, \"person; people\") + 口(口) (kǒu, \"mouth; opening\") = number of people",
-    "interpretation": "The combination of 人 (rén, \"person; people\") and 口 (kǒu, \"mouth; opening\") refers to the 'population' as a count or aggregation of people in a particular area. Here, 口 (kǒu, \"mouth\") is a unit measure often used in reference to people, such as counting family members or population.",
+    "description": "人(人) (rén, \"person\") + 口(口) (kǒu, \"mouth\") = population",
+    "interpretation": "The combination of 人(人) (rén, \"person\") and 口(口) (kǒu, \"mouth\") conveys the idea of counting people, as each person is considered a 'mouth' to feed or account for, thus representing the population.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "人口",
-      "trad": "人口",
-      "pinyin": "rénkǒu",
-      "english": "population"
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; people; human; individual"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth; opening; entrance; measure word for people (in census)"
     }
   ],
   "in_contemporary_usage": true,
@@ -25,14 +31,14 @@
       "english": "China has a large population."
     },
     {
-      "chinese": "城市人口增长很快(城市人口增長很快)。",
-      "pinyin": "Chéngshì rénkǒu zēngzhǎng hěn kuài.",
-      "english": "The urban population is growing rapidly."
+      "chinese": "欧洲人口分布不均(歐洲人口分布不均)。",
+      "pinyin": "Ōuzhōu rénkǒu fēnbù bù jūn.",
+      "english": "The population in Europe is unevenly distributed."
     },
     {
-      "chinese": "我们村子人口不多(我們村子人口不多)。",
-      "pinyin": "Wǒmen cūnzi rénkǒu bù duō.",
-      "english": "Our village does not have a large population."
+      "chinese": "未来人口增长可能会放缓(未來人口增長可能會放緩)。",
+      "pinyin": "Wèilái rénkǒu zēngzhǎng kěnéng huì fànghuǎn.",
+      "english": "Future population growth may slow down."
     }
   ]
 }

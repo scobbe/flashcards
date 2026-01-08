@@ -5,27 +5,27 @@
   "english": "person",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a side view of a standing man, highlighting an arm and a leg",
-    "interpretation": "The character 人 (rén) visually represents a person standing, with the shape highlighting both an arm and a leg, symbolizing the human form in a simplified, iconic manner.",
+    "description": "Depicts a standing man with highlighted arm and leg -> symbolizes a 'person'",
+    "interpretation": "人(人) (rén, 'person') is a straightforward pictogram representing a simplified side view of a human figure, capturing the essence of a person through its minimal yet effective depiction of arms and legs.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一个好人(他是一個好人)。",
-      "pinyin": "Tā shì yī gè hǎo rén.",
-      "english": "He is a good person."
+      "chinese": "他是一个善良的人(他是一個善良的人)。",
+      "pinyin": "Tā shì yī gè shànliáng de rén.",
+      "english": "He is a kind person."
     },
     {
-      "chinese": "人人都有机会(人人都有機會)。",
-      "pinyin": "Rén rén dōu yǒu jī huì.",
-      "english": "Everyone has an opportunity."
+      "chinese": "很多人(很多人)，聚集在广场(聚集在廣場)。",
+      "pinyin": "Hěnduō rén, jùjí zài guǎngchǎng.",
+      "english": "Many people gather in the square."
     },
     {
-      "chinese": "我见过那个人(我見過那個人)。",
-      "pinyin": "Wǒ jiàn guò nà ge rén.",
-      "english": "I have seen that person."
+      "chinese": "每个人都有自己的故事(每個人都有自己的故事)。",
+      "pinyin": "Měi ge rén dōu yǒu zìjǐ de gùshì.",
+      "english": "Everyone has their own story."
     }
   ]
 }

@@ -1,39 +1,26 @@
 {
   "simplified": "䰜",
   "traditional": "䰜",
-  "pinyin": "nil",
-  "english": "'cauldron'",
+  "pinyin": "lì",
+  "english": "cauldron",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "phonetic 鬳(鬳) + semantic 瓦(瓦)",
-    "interpretation": "The character combines the phonetic element 鬳 (yǎn, 'cooking vessel') with the semantic element 瓦 (wǎ, 'earthenware'), which represents something made from clay or pottery, leading to the meaning of a 'cauldron'.",
+    "type": "pictogram",
+    "description": "Depicts a cauldron or cooking vessel",
+    "interpretation": "䰜(䰜) (lì, \"cauldron\") is an ancient form of 鬲(鬲) (lì, \"cauldron\"), both depict a cooking vessel, diverged over time.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "鬳",
-      "trad": "鬳",
-      "pinyin": "yǎn",
-      "english": "cooking vessel"
-    },
-    {
-      "char": "瓦",
-      "trad": "瓦",
-      "pinyin": "wǎ",
-      "english": "earthenware"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "在历史书中出现这个字(在歷史書中出現這個字)。",
-      "pinyin": "Zài lìshǐ shū zhōng chūxiàn zhège zì.",
-      "english": "This character appears in historical texts."
+      "chinese": "他在村里发现了一口古老的䰜(他在村裡發現了一口古老的䰜)，旁人传说它曾用于祭祀(旁人傳說它曾用於祭祀)。",
+      "pinyin": "Tā zài cūn lǐ fāxiàn le yì kǒu gǔlǎo de lì, pángrén chuánshuō tā céng yòng yú jìsì.",
+      "english": "He discovered an ancient cauldron in the village, and people say it was once used for sacrificial rituals."
     },
     {
-      "chinese": "古代有许多种类的鬲(古代有許多種類的鬲)。",
-      "pinyin": "Gǔdài yǒu xǔduō zhǒnglèi de gě.",
-      "english": "There were many kinds of cauldrons in ancient times."
+      "chinese": "文人叹息古时铸就精美䰜(文人嘆息古時鑄就精美䰜)，见证历史风云(見證歷史風雲)。",
+      "pinyin": "Wénrén tànxī gǔshí zhùjiù jīngměi de lì, jiànzhèng lìshǐ fēngyún.",
+      "english": "Scholars lament that the exquisitely cast ancient cauldron bears witness to a turbulent history."
     }
   ]
 }

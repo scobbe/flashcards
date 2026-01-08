@@ -1,0 +1,39 @@
+{
+  "simplified": "大同",
+  "traditional": "大同",
+  "pinyin": "dàtóng",
+  "english": "great unity; Datong",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big; great\") + 同(同) (tóng, \"same; together\") = together being great -> great unity",
+    "interpretation": "The combination of 大(大) (dà, \"big; great\") and 同(同) (tóng, \"same; together\") conveys the idea of people or communities coming together to achieve a sense of greatness or unity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great"
+    },
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same; together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国家追求大同(國家追求大同)。",
+      "pinyin": "Guójiā zhuīqiú dàtóng.",
+      "english": "The nation strives for great unity."
+    },
+    {
+      "chinese": "游客参观大同(遊客參觀大同)，探寻历史文化(探尋歷史文化)。",
+      "pinyin": "Yóukè cānguān dàtóng, tànxún lìshǐ wénhuà.",
+      "english": "Visitors tour Datong to explore its historical culture."
+    }
+  ]
+}

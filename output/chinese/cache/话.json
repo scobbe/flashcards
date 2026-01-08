@@ -1,0 +1,44 @@
+{
+  "simplified": "话",
+  "traditional": "話",
+  "pinyin": "huà",
+  "english": "word; speech",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, 'word') + phonetic: 𠯑(𠯑) -> word-related meaning with phonetic hint -> final form",
+    "interpretation": "The character 话(話) (huà, 'word; speech') uses 言(言) (yán, 'word') to emphasize its association with speech or language, while 𠯑 provides the phonetic component, ensuring the pronunciation aligns with the intended word-related meaning.",
+    "simplification": "话(話) replaces the more complex phonetic 𠯑 with 舌(舌) (shé, 'tongue'), a phonetic that resembles the original in sound, reflecting phonetic and semantic changes."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word"
+    },
+    {
+      "char": "𠯑",
+      "trad": "𠯑",
+      "pinyin": "unknown",
+      "english": "unknown"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的话真诚动人(他的話真誠動人)。",
+      "pinyin": "Tā de huà zhēnchéng dòngrén.",
+      "english": "His words are sincere and moving."
+    },
+    {
+      "chinese": "他说起话来(他說起話來)，就能打动人心(就能打動人心)。",
+      "pinyin": "Tā shuō qǐ huà lái, jiù néng dǎdòng rénxīn.",
+      "english": "When he speaks, he can touch people's hearts."
+    },
+    {
+      "chinese": "她只选择信任的话(她只選擇信任的話)，而不相信谣言(而不相信謠言)。",
+      "pinyin": "Tā zhǐ xuǎnzé xìnrèn de huà, ér bù xiāngxìn yáoyán.",
+      "english": "She only believes in trustworthy words, not in rumors."
+    }
+  ]
+}

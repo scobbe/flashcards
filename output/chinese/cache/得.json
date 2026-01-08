@@ -2,12 +2,12 @@
   "simplified": "得",
   "traditional": "得",
   "pinyin": "de/dé/děi",
-  "english": "structural particle; to get, obtain; must, have to",
+  "english": "(1) structural particle for verb complements; (2) to get, obtain; (3) must, have to",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "貝 (cowry) + 又 (hand) = hand obtaining a cowry -> obtain",
-    "interpretation": "The character originally depicted a hand picking up a valuable cowry shell, symbolizing acquiring or obtaining things. The addition of 彳 (road) suggests finding this valuable on a path. Over time, graphical changes in scripts altered the components visually but retained the concept of obtaining.",
-    "simplification": "None, as traditional form is used."
+    "description": "貝(貝) (bèi, \"cowry\") + 又(又) (yòu, \"hand\") -> obtaining valuables -> 彳(彳) (chì, \"step\") added, 又 changed to 寸(寸) (cùn, \"inch\"), 貝 corrupted to 旦(旦) (dàn, \"dawn\") -> final form 得",
+    "interpretation": "The character's evolution reflects the concept of obtaining valuables via picking up cowries, which were historically valuable. The addition of 彳(彳) (chì, \"step\") shows action, reinforcing the meaning of acquisition.",
+    "simplification": "The process of simplification involved changing components to similar-looking elements, such as 寸(寸) (cùn, \"inch\") replacing 又(又) (yòu, \"hand\"), and 目(目) (mù, \"eye\") before becoming the simpler 旦(旦) (dàn, \"dawn\")."
   },
   "parts": [
     {
@@ -21,24 +21,42 @@
       "trad": "又",
       "pinyin": "yòu",
       "english": "hand"
+    },
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    },
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我得去工作。",
-      "pinyin": "Wǒ děi qù gōngzuò.",
-      "english": "I have to go to work."
+      "chinese": "他跑得很快(他跑得很快)。",
+      "pinyin": "Tā pǎo dé hěn kuài.",
+      "english": "He runs very fast."
     },
     {
-      "chinese": "他得到了一份礼物(禮物)。",
-      "pinyin": "Tā dédàole yī fèn lǐwù.",
-      "english": "He received a gift."
+      "chinese": "他得了一本好书(他得了一本好書)。",
+      "pinyin": "Tā dé le yī běn hǎo shū.",
+      "english": "He obtained a good book."
     },
     {
-      "chinese": "努力工作后，他得到了认可(認可)。",
-      "pinyin": "Nǔlì gōngzuò hòu, tā dédàole rènkě.",
-      "english": "After working hard, he received recognition."
+      "chinese": "你得早点起床(你得早點起床)。",
+      "pinyin": "Nǐ děi zǎo diǎn qǐ chuáng.",
+      "english": "You must get up early."
     }
   ]
 }
