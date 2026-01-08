@@ -1,0 +1,44 @@
+{
+  "simplified": "考",
+  "traditional": "考",
+  "pinyin": "kǎo",
+  "english": "exam; test; to verify; to check",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "老(老) (lǎo, \"old\") + 丂(丂) (kǎo, phonetic component) = old person giving an exam -> exam, test",
+    "interpretation": "The character 考(考) (kǎo, \"exam\") combines the semantic element 老(老) (lǎo, \"old\"), hinting at wisdom or authority, with the phonetic component 丂(丂) (kǎo), signifying the act of verifying or testing knowledge.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "明天(明天)，我要考数学(我要考數學)。",
+      "pinyin": "Míngtiān, wǒ yào kǎo shùxué.",
+      "english": "Tomorrow, I will take a math exam."
+    },
+    {
+      "chinese": "上课时(上課時)，老师考查学生作业(老師考查學生作業)。",
+      "pinyin": "Shàngkè shí, lǎoshī kǎo chá xuéshēng zuòyè.",
+      "english": "During class, the teacher checks the students' homework."
+    },
+    {
+      "chinese": "政府考核公务员(政府考核公務員)。",
+      "pinyin": "Zhèngfǔ kǎo hé gōngwùyuán.",
+      "english": "The government evaluates civil servants."
+    }
+  ]
+}

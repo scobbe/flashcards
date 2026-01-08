@@ -1,0 +1,31 @@
+{
+  "simplified": "氏",
+  "traditional": "氏",
+  "pinyin": "shì",
+  "english": "clan",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a figure bending over (various interpretations) -> evolved through bronze inscriptions where a dot transformed into a line within the character.",
+    "interpretation": "The character 氏(shì, \"clan\") is a pictogram that represents a figure engaged in actions like sowing or a symbol of a clan. Changes in historical inscriptions influenced its modern form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "张氏家族在村子里著名(張氏家族在村子裡著名)。",
+      "pinyin": "Zhāng shì jiāzú zài cūnzi lǐ zhùmíng.",
+      "english": "The Zhang clan is famous in the village."
+    },
+    {
+      "chinese": "李氏以其智慧闻名(李氏以其智慧聞名)。",
+      "pinyin": "Lǐ shì yǐ qí zhìhuì wénmíng.",
+      "english": "The Li clan is renowned for its wisdom."
+    },
+    {
+      "chinese": "王氏世代相传(王氏世代相傳)，家风熏陶深厚(家風薰陶深厚)。",
+      "pinyin": "Wáng shì shìdài xiāngchuán, jiāfēng xūntáo shēnhòu.",
+      "english": "The Wang clan's heritage has been passed down through generations, and its family traditions are deeply ingrained."
+    }
+  ]
+}

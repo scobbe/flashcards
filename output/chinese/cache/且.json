@@ -1,0 +1,26 @@
+{
+  "simplified": "且",
+  "traditional": "且",
+  "pinyin": "qiě",
+  "english": "further",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts a stone altar or a sacrificial vessel used for chopping and holding meat",
+    "interpretation": "The character 且(qiě, 'further') likely represents a stone altar or a sacrificial vessel from a top-down view, emphasizing its association with rituals or offerings. Its early usage linked it to the concept of ancestor worship or ritual practices, which later evolved to incorporate additional meanings.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他努力工作(他努力工作)，且不断学习(且不斷學習)。",
+      "pinyin": "Tā nǔlì gōngzuò, qiě bù duàn xuéxí.",
+      "english": "He works hard, and further, he keeps learning continuously."
+    },
+    {
+      "chinese": "你且等待一会儿(你且等待一會兒)，机会即将来临(機會即將來臨)。",
+      "pinyin": "Nǐ qiě děngdài yīhuǐr, jīhuì jíjiāng láilín.",
+      "english": "Please wait a moment, as further opportunity is about to arrive."
+    }
+  ]
+}

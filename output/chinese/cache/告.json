@@ -1,0 +1,39 @@
+{
+  "simplified": "告",
+  "traditional": "告",
+  "pinyin": "gào",
+  "english": "inform; announce; tell",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "初(初) (chū, 'initial') depiction unclear -> later interpretations consider abbreviated 壴(壴) (zhù, 'drum') + 口(口) (kǒu, 'mouth') = drum with open mouth -> 'announce, tell'",
+    "interpretation": "The character 告(告) (gào, 'inform; announce; tell') likely evolved from a depiction related to announcing or informing others using a combination of sound (drum) and speech (mouth). The interpretation of 告(告) as a drum and mouth aligns with its meaning of announcing or speaking out loud.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师告学生(老師告學生)，考试规则已更新(考試規則已更新)。",
+      "pinyin": "Lǎoshī gào xuéshēng, kǎoshì guīzé yǐ gēngxīn.",
+      "english": "The teacher informed the students that the exam rules have been updated."
+    },
+    {
+      "chinese": "父亲告我(父親告我)，晚上早點回家(晚上早點回家)。",
+      "pinyin": "Fùqīn gào wǒ, wǎnshàng zǎodiǎn huí jiā.",
+      "english": "My father informed me to come home early tonight."
+    }
+  ]
+}

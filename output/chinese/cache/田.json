@@ -1,0 +1,31 @@
+{
+  "simplified": "田",
+  "traditional": "田",
+  "pinyin": "tián",
+  "english": "field",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a field divided into four sections",
+    "interpretation": "The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民在田里耕作(農民在田裡耕作)。",
+      "pinyin": "Nóngmín zài tián lǐ gēngzuò.",
+      "english": "The farmer works in the field."
+    },
+    {
+      "chinese": "那边的田长满了庄稼(那邊的田長滿了莊稼)，农民收获忙碌(農民收穫忙碌)。",
+      "pinyin": "Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.",
+      "english": "The field over there is full of crops, and the farmer is busy harvesting."
+    },
+    {
+      "chinese": "秋收时节(秋收時節)，人们忙于收割田里的稻谷(人們忙於收割田裡的稻谷)。",
+      "pinyin": "Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.",
+      "english": "During the harvest season, people are busy reaping the rice in the fields."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "陈",
+  "traditional": "陳",
+  "pinyin": "chén",
+  "english": "old; aged; display; state",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 阝(阜) (fù, \"mound\") + phonetic: 東(東) (dōng, \"east\") = a place with mounds; display or state in an orderly manner",
+    "interpretation": "The character 陈(陳) (chén, \"old; aged; display; state\") combines the semantic component 阝(阜) (fù, \"mound\"), suggesting a place or terrain, with the phonetic component 東(東) (dōng, \"east\"), which contributes to the pronunciation. This combination conveys ideas of arranging or displaying things in an orderly manner, evoking a sense of structure.",
+    "simplification": "陳(陳)→陈(陳): The simplified character retains the phonetic 東(東) (dōng, \"east\") while using a simplified form of 阝(阜) (fù, \"mound\"). This change likely reduces strokes while maintaining phonetic cues."
+  },
+  "parts": [
+    {
+      "char": "阝",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "东",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那块木板显得十分陈旧(那塊木板顯得十分陳舊)。",
+      "pinyin": "Nà kuài mùbǎn xiǎnde shífēn chénjiù.",
+      "english": "That piece of wood looks very old."
+    },
+    {
+      "chinese": "博物馆陈列着古代文物(博物館陳列著古代文物)。",
+      "pinyin": "Bówùguǎn chénlièzhe gǔdài wénwù.",
+      "english": "The museum displays ancient cultural relics."
+    },
+    {
+      "chinese": "他把旧物陈设在书架上(他把舊物陳設在書架上)，表达出岁月的痕迹(表達出歲月的痕跡)。",
+      "pinyin": "Tā bǎ jiùwù chénshè zài shūjià shàng, biǎodá chū suìyuè de hénjì.",
+      "english": "He arranged the old items on the bookshelf, expressing the traces of time."
+    }
+  ]
+}

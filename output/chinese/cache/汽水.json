@@ -1,0 +1,39 @@
+{
+  "simplified": "汽水",
+  "traditional": "汽水",
+  "pinyin": "qìshuǐ",
+  "english": "sparkling water",
+  "etymology": {
+    "type": "compound word",
+    "description": "汽(汽) (qì, \"steam; vapor\") + 水(水) (shuǐ, \"water\") = water with vapor -> sparkling water",
+    "interpretation": "The word 汽水 (qìshuǐ) combines 汽(汽) (qì, \"steam; vapor\") and 水(水) (shuǐ, \"water\"), suggesting water that contains bubbles of gas or vapor, typical of sparkling water. This aptly describes fizzy water beverages.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "汽",
+      "trad": "汽",
+      "pinyin": "qì",
+      "english": "steam; vapor"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝汽水(我喜歡喝汽水)。",
+      "pinyin": "Wǒ xǐhuān hē qìshuǐ.",
+      "english": "I like to drink sparkling water."
+    },
+    {
+      "chinese": "夏天很热(夏天很熱)，一瓶汽水可以消暑(一瓶汽水可以消暑)。",
+      "pinyin": "Xiàtiān hěn rè, yī píng qìshuǐ kěyǐ xiāoshǔ.",
+      "english": "It is very hot in summer, and a bottle of sparkling water can cool you down."
+    }
+  ]
+}

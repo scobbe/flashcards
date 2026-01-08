@@ -1,0 +1,51 @@
+{
+  "simplified": "江山如画",
+  "traditional": "江山如畫",
+  "pinyin": "jiāngshān rúhuà",
+  "english": "picturesque scenery",
+  "etymology": {
+    "type": "compound word",
+    "description": "江(江) (jiāng, \"river\") and 山(山) (shān, \"mountain\") refer to natural features, while 如(如) (rú, \"like; as if\") and 画(畫) (huà, \"painting\") compare them to a painting. Together, they create the phrase 江山如畫(江山如画) (jiāngshān rúhuà, \"picturesque scenery\"), evoking an image of nature so beautifully composed it resembles a work of art.",
+    "interpretation": "This expression describes landscapes or scenery that are so magnificent and visually stunning that they seem like a painting. It invokes an appreciation for nature's beauty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "江",
+      "trad": "江",
+      "pinyin": "jiāng",
+      "english": "river"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "如",
+      "trad": "如",
+      "pinyin": "rú",
+      "english": "like; as if"
+    },
+    {
+      "char": "画",
+      "trad": "畫",
+      "pinyin": "huà",
+      "english": "painting; drawing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中国江山如画(中國江山如畫)，游客流连忘返(遊客流連忘返)。",
+      "pinyin": "Zhōngguó jiāngshān rúhuà, yóukè liúlián wàngfǎn.",
+      "english": "China's picturesque scenery captivates tourists."
+    },
+    {
+      "chinese": "祖国江山如画(祖國江山如畫)，诗人笔下常吟咏(詩人筆下常吟詠)。",
+      "pinyin": "Zǔguó jiāngshān rúhuà, shīrén bǐxià cháng yínyǒng.",
+      "english": "The motherland's picturesque scenery is often celebrated by poets."
+    }
+  ]
+}

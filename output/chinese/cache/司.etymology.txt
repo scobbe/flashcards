@@ -1,0 +1,12 @@
+[司]
+Inconclusive.
+• Jì Xùshēng: The template Template:liushu does not use the parameter(s): ls=ic Please see Module:checkparams for help with this warning. a mouth 口 giving orders and a scepter 刁 of authority.
+• Liú Xìnglóng interprets 刁 to be a hand instead.
+• Táng Lán: Originally the same character as 后 , which later diverged.
+• Shuowen : 后 flipped.
+
+[可]
+Phono-semantic compound ( 形聲 / 形声 , OC *kʰaːlʔ ): semantic 口 + phonetic 丂 ( OC *kʰluːʔ ) with a reference to exhaled air. Perhaps its original meaning was "to sing", then 訶 and 哥 (可 written twice).
+
+[呵]
+Phono-semantic compound ( 形聲 / 形声 , OC *qʰaːl, *qʰaːls ): semantic 口 + phonetic 可 ( OC *kʰaːlʔ ) .

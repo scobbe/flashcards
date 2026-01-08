@@ -1,0 +1,39 @@
+{
+  "simplified": "尭",
+  "traditional": "堯",
+  "pinyin": "yáo",
+  "english": "high",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 垚(yáo, 'tall (of earth)') + Semantic: 兀(wù, 'towering and bald') = suggests elevated height or prominence -> high",
+    "interpretation": "The character 堯(yáo) combines elements that visually and conceptually convey something tall or elevated, fitting the meaning 'high'. '垚' depicts height with stacked earth radicals, while '兀' denotes a peak or bald hill, emphasizing standing tall.",
+    "simplification": "'尭(yáo)' simplifies '堯(yáo)' in Japanese shinjitai by changing '垚' to '卉(huì)', which involves fewer strokes. This likely prioritizes ease of writing while maintaining the phonetic component."
+  },
+  "parts": [
+    {
+      "char": "垚",
+      "trad": "垚",
+      "pinyin": "yáo",
+      "english": "tall (of earth)"
+    },
+    {
+      "char": "兀",
+      "trad": "兀",
+      "pinyin": "wù",
+      "english": "towering and bald"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "那座尭峰耸入云霄(那座尭峰聳入雲霄)。",
+      "pinyin": "Nà zuò yáo fēng sǒng rù yún xiāo.",
+      "english": "That towering peak reaches into the clouds."
+    },
+    {
+      "chinese": "这幢大楼的顶层高耸(這棟大樓的頂層高聳)，达到了尭的高度(達到了尭的高度)。",
+      "pinyin": "Zhè chuáng dàlóu de dǐngcéng gāosǒng, dádàole yáo de gāodù.",
+      "english": "The top floor of this building towers, reaching a remarkably high altitude."
+    }
+  ]
+}

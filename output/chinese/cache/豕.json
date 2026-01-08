@@ -1,0 +1,31 @@
+{
+  "simplified": "豕",
+  "traditional": "豕",
+  "pinyin": "shǐ",
+  "english": "pig, boar",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pig with distinct features like snout and legs.",
+    "interpretation": "The character 豕(豕) (shǐ, 'pig') is a pictogram that visually represents a pig's profile, emphasizing features such as its snout and legs, which help to convey the idea of a pig or boar.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这头豕很肥(這頭豕很肥)。",
+      "pinyin": "Zhè tóu shǐ hěn féi.",
+      "english": "This pig is very fat."
+    },
+    {
+      "chinese": "农民饲养豕(農民飼養豕)，供应市场(供應市場)。",
+      "pinyin": "Nóngmín sìyǎng shǐ, gōngyìng shìchǎng.",
+      "english": "Farmers raise pigs to supply the market."
+    },
+    {
+      "chinese": "豕在泥潭中嬉戏(豕在泥潭中嬉戲)。",
+      "pinyin": "Shǐ zài ní tán zhōng xīxì.",
+      "english": "The pig frolics in the mud."
+    }
+  ]
+}

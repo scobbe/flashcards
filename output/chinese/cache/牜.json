@@ -1,0 +1,26 @@
+{
+  "simplified": "牜",
+  "traditional": "牜",
+  "pinyin": "niú",
+  "english": "ox",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the head of an ox with horns and ears",
+    "interpretation": "This character pictorially represents the distinct features of an ox, emphasizing its horns and ears, which are characteristic of cattle.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "牧场里的牛(牧場裡的牛)，悠闲地吃草(悠閒地吃草)。",
+      "pinyin": "mùchǎng lǐ de niú, yōuxián de chī cǎo.",
+      "english": "Oxen in the pasture graze leisurely."
+    },
+    {
+      "chinese": "那头牛(那頭牛)，正努力拉犁(正努力拉犁)。",
+      "pinyin": "nà tóu niú, zhèng nǔlì lā lí.",
+      "english": "That ox is diligently pulling a plow."
+    }
+  ]
+}

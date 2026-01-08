@@ -1,0 +1,44 @@
+{
+  "simplified": "啊",
+  "traditional": "啊",
+  "pinyin": "a",
+  "english": "particle/exclamation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic: 阿(阿) (ā) = sound or exclamation made by mouth -> exclamation or particle",
+    "interpretation": "口(口) (kǒu, \"mouth\") suggests sound production, while 阿(阿) (ā) provides the phonetic cue. Together, they form a character used for exclamations or as a particle in sentences.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "阿",
+      "trad": "阿",
+      "pinyin": "ā",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你来了啊(你來了啊)。",
+      "pinyin": "Nǐ lái le a.",
+      "english": "You've arrived, huh?"
+    },
+    {
+      "chinese": "天气真好啊(天氣真好啊)。",
+      "pinyin": "Tiānqì zhēn hǎo a.",
+      "english": "The weather is truly nice!"
+    },
+    {
+      "chinese": "快走啊(快走啊)，别迟到了啊(別遲到了啊)。",
+      "pinyin": "Kuài zǒu a, bié chídào le a.",
+      "english": "Hurry up, and don't be late!"
+    }
+  ]
+}

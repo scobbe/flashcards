@@ -1,0 +1,44 @@
+{
+  "simplified": "奶",
+  "traditional": "奶",
+  "pinyin": "nǎi",
+  "english": "milk",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 女(女) (nǚ, 'woman') + phonetic 乃(乃) (nǎi, 'so') = related to women, sound similar to 乃 -> 'milk'",
+    "interpretation": "奶(nǎi) combines the semantic component 女(女) (nǚ, 'woman') to indicate a connection with women, specifically relating to breastfeeding, and 乃(乃) (nǎi, 'so') as a phonetic component. This structure makes intuitive sense as it suggests a term linked to women, utilizing a sound similar to the word for nurturing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "乃",
+      "trad": "乃",
+      "pinyin": "nǎi",
+      "english": "so"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈给宝宝喝奶(媽媽給寶寶喝奶)。",
+      "pinyin": "Māmā gěi bǎobǎo hē nǎi.",
+      "english": "Mom gives the baby milk."
+    },
+    {
+      "chinese": "牛奶可以帮助人体吸收营养(牛奶可以幫助人體吸收營養)，尤其是儿童(尤其是兒童)。",
+      "pinyin": "Niúnǎi kěyǐ bāngzhù réntǐ xīshōu yíngyǎng, yóuqí shì értóng.",
+      "english": "Milk can help the body absorb nutrients, especially for children."
+    },
+    {
+      "chinese": "他在超市买了一瓶奶(他在超市買了一瓶奶)，打算明天做甜点(打算明天做甜點)。",
+      "pinyin": "Tā zài chāoshì mǎile yī píng nǎi, dǎsuàn míngtiān zuò tiándiǎn.",
+      "english": "He bought a bottle of milk at the supermarket and plans to make dessert tomorrow."
+    }
+  ]
+}

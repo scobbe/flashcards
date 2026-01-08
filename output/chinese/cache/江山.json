@@ -1,0 +1,39 @@
+{
+  "simplified": "江山",
+  "traditional": "江山",
+  "pinyin": "jiāngshān",
+  "english": "landscape; country",
+  "etymology": {
+    "type": "compound word",
+    "description": "江(江) (jiāng, \"river\") and 山(山) (shān, \"mountain\") together create the meaning of the country's natural landscape or the country as a whole.",
+    "interpretation": "江山(江山) (jiāngshān, \"landscape; country\") metaphorically represents the country or nation by highlighting its natural features of rivers and mountains, which have historically been pivotal in defining and defending territories in China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "江",
+      "trad": "江",
+      "pinyin": "jiāng",
+      "english": "river"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "江山如此多娇(江山如此多嬌)。",
+      "pinyin": "Jiāngshān rúcǐ duō jiāo.",
+      "english": "The landscape is so enchanting."
+    },
+    {
+      "chinese": "他保护江山(他保護江山)，像守护自己的命根子(像守護自己的命根子)。",
+      "pinyin": "Tā bǎohù jiāngshān, xiàng shǒuhù zìjǐ de mìnggēnzǐ.",
+      "english": "He protects his country as if guarding his own lifeline."
+    }
+  ]
+}

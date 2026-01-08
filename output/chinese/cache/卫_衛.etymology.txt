@@ -1,0 +1,11 @@
+[卫]
+This character is not known to have existed prior to the simplification of Chinese characters by the People's Republic of China in 1956.
+The simplification of 衛 / 卫 ( wèi ) to 卫 ( wèi ) may have been influenced by the Japanese katakana ヱ ( we ) , compare the Japanese ryakuji ⿰彳ヱ .
+In Zhongwen Da Cidian 《中文大辭典》 , a dictionary based on the Japanese Dai Kan-Wa Jiten and published in Taiwan from 1962 to 1968, 𠀄 ( wèi ) , a character which is visually similar to 卫 ( wèi ) ( 乛 on top instead of 𠃌 ( gǔn ) ), is recorded as an unorthodox variant of 衛 / 卫 ( wèi ) .
+Another theory is that 卫 ( wèi ) is a variant of 𫝀 ( wǔ ) , which is the top component of 韋 / 韦 ( wéi ) in the middle of 衛 / 卫 ( wèi ) . [ 1 ]
+
+[衛]
+Phono-semantic compound ( 形聲 / 形声 , OC *ɢʷads ): semantic 行 + phonetic 韋 ( OC *ɢʷɯl ) .
+
+[衞]
+Simplified from 䘙 . Ideogrammic compound ( 會意 / 会意 ) and phono-semantic compound ( 形聲 / 形声 , OC *ɢʷads ): semantic 行 + phonetic 韋 ( OC *ɢʷɯl ) + semantic 帀 .

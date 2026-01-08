@@ -1,0 +1,44 @@
+{
+  "simplified": "阴道",
+  "traditional": "陰道",
+  "pinyin": "yīndào",
+  "english": "vagina",
+  "etymology": {
+    "type": "compound word",
+    "description": "阴(陰) (yīn, \"concealed\") + 道(道) (dào, \"path\")",
+    "interpretation": "The combination of 阴(陰) (yīn, \"concealed\") and 道(道) (dào, \"path\") is a literal description of the vagina as a hidden or internal passage within the body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阴",
+      "trad": "陰",
+      "pinyin": "yīn",
+      "english": "concealed; shade; moon; female"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "path; way; method; teaching"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生解释说(醫生解釋說)，阴道是女性生殖系统的一部分(陰道是女性生殖系統的一部分)。",
+      "pinyin": "Yīshēng jiěshì shuō, yīndào shì nǚxìng shēngzhí xìtǒng de yībùfen.",
+      "english": "The doctor explained that the vagina is part of the female reproductive system."
+    },
+    {
+      "chinese": "正确理解阴道健康(正確理解陰道健康)，很重要(很重要)。",
+      "pinyin": "Zhèngquè lǐjiě yīndào jiànkāng, hěn zhòngyào.",
+      "english": "Understanding vaginal health correctly is important."
+    },
+    {
+      "chinese": "在体检中(在體檢中)，医生会检查阴道(醫生會檢查陰道)。",
+      "pinyin": "Zài tǐjiǎn zhōng, yīshēng huì jiǎnchá yīndào.",
+      "english": "During a physical examination, the doctor will examine the vagina."
+    }
+  ]
+}

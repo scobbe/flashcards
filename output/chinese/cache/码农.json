@@ -1,0 +1,39 @@
+{
+  "simplified": "码农",
+  "traditional": "碼農",
+  "pinyin": "mǎnóng",
+  "english": "programmer (slang)",
+  "etymology": {
+    "type": "compound word",
+    "description": "码(碼) (mǎ, \"code; number\") + 农(農) (nóng, \"farmer\") = a humorous slang term for a programmer, suggesting someone who works hard writing lines of code like a farmer tending a field.",
+    "interpretation": "The term 码农(碼農) (mǎnóng, \"programmer\") humorously implies that programmers tirelessly produce lines of code as farmers cultivate crops. This reflects the repetitive and labor-intensive nature of programming work.",
+    "simplification": "码: 碼, 农: 農"
+  },
+  "parts": [
+    {
+      "char": "码",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code; number; yard"
+    },
+    {
+      "char": "农",
+      "trad": "農",
+      "pinyin": "nóng",
+      "english": "farmer; agriculture; to farm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是码农(他是碼農)。",
+      "pinyin": "Tā shì mǎnóng.",
+      "english": "He is a programmer (slang)."
+    },
+    {
+      "chinese": "码农加班晚(碼農加班晚)，生活也不轻松(生活也不輕鬆)。",
+      "pinyin": "Mǎnóng jiābān wǎn, shēnghuó yě bù qīngsōng.",
+      "english": "The programmer works overtime until late, and life is not easy."
+    }
+  ]
+}

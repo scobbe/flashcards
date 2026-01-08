@@ -1,0 +1,44 @@
+{
+  "simplified": "𠬤",
+  "traditional": "𠬤",
+  "pinyin": "shì",
+  "english": "release",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "士(士) (shì, 'scholar') + 攵(攴) (pū, 'to tap') = a scholar releasing or annulling something",
+    "interpretation": "The character combines 士(士) (shì, 'scholar') for the sound with 攵(攴) (pū, 'to tap'), suggesting the notion of releasing or annulling as if one were tapping away responsibilities or duties.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "攵",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "to tap"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "经过一番努力(經過一番努力)，他终于𠬤了心中的重负(他終於𠬤了心中的重負)。",
+      "pinyin": "Jīngguò yī fān nǔlì, tā zhōngyú shì le xīnzhōng de zhòngfù.",
+      "english": "After much effort, he finally released the heavy burden in his heart."
+    },
+    {
+      "chinese": "春风吹拂时(春風吹拂時)，人们放𠬤了心头的重荷(人們放𠬤了心頭的重荷)。",
+      "pinyin": "Chūnfēng chuīfú shí, rénmen fàng shì le xīntóu de zhònghé.",
+      "english": "When the spring breeze blows, people release the heavy load from their hearts."
+    },
+    {
+      "chinese": "烦闷时刻(煩悶時刻)，他选择𠬤心中的忧愁(他選擇𠬤心中的憂愁)。",
+      "pinyin": "Fánmèn shíkè, tā xuǎnzé shì xīnzhōng de yōuchóu.",
+      "english": "In moments of melancholy, he chooses to release the sorrow in his heart."
+    }
+  ]
+}

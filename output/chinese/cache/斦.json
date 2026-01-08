@@ -1,0 +1,39 @@
+{
+  "simplified": "斦",
+  "traditional": "斦",
+  "pinyin": "yín",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 斤(斤) (jīn, \"axe\") + Semantic: 文(文) (wén, \"pattern\") = phonetic component relating to sound",
+    "interpretation": "斦(斦) (yín) is a phono-semantic compound where 文(文) (wén, \"pattern\") contributes to its meaning, and 斤(斤) (jīn, \"axe\") provides the sound component. This indicates the character's association with some refined or patterned aspect related to its sound, but specifics may be unclear due to lack of historical usage data.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe"
+    },
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "pattern"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个字中的斦是表音符号(這個字中的斦是表音符號)。",
+      "pinyin": "Zhège zì zhōng de yín shì biǎoyīn fúhào.",
+      "english": "The phonetic component 'yín' in this character indicates its pronunciation."
+    },
+    {
+      "chinese": "学者研究斦的起源(學者研究斦的起源)，以了解古代拼音(以了解古代拼音)。",
+      "pinyin": "Xuézhě yánjiū yín de qǐyuán, yǐ liǎojiě gǔdài pīnyīn.",
+      "english": "Scholars study the origin of 'yín' to understand ancient phonetic systems."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "魚",
+  "traditional": "魚",
+  "pinyin": "yú",
+  "english": "fish",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a fish",
+    "interpretation": "The character 魚(yú, 'fish') visually resembles a fish with a head, body, and tail. This depiction makes it easy to relate the character to its meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "河中有一尾魚(河中有一尾魚)，在陽光下閃著銀光(在陽光下閃著銀光)。",
+      "pinyin": "hé zhōng yǒu yī wěi yú, zài yángguāng xià shǎn zhe yín guāng。",
+      "english": "There is a fish in the river, shimmering under the sunlight."
+    },
+    {
+      "chinese": "海里有许多魚(海裡有許多魚)，在自由里游动(在自由裡游動)。",
+      "pinyin": "hǎi lǐ yǒu xǔ duō yú, zài zìyóu lǐ yóu dòng。",
+      "english": "There are many fish in the sea, swimming freely."
+    }
+  ]
+}

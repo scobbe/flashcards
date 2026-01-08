@@ -1,0 +1,44 @@
+{
+  "simplified": "卫",
+  "traditional": "衛",
+  "pinyin": "wèi",
+  "english": "guard; protect; defend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "行(行) (xíng, 'go') + 韋(韋) (wéi, 'tanned leather') = to guard or defend as if walking to protect -> replacement by visually similar katakana ヱ",
+    "interpretation": "The simplified form 卫 replaces the traditional character 衛 by using a visual analogy with the Japanese katakana ヱ, streamlining its components while preserving the original semantic layer of 'guarding' or 'protecting' implied by the notion of walking as protection.",
+    "simplification": "卫 simplifies 衛 through visual analogy with ヱ and cursive simplification, capturing key phonetic elements while omitting or altering strokes for brevity."
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "go"
+    },
+    {
+      "char": "韋",
+      "trad": "韋",
+      "pinyin": "wéi",
+      "english": "tanned leather"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "卫兵巡逻边境(衛兵巡邏邊境)。",
+      "pinyin": "Wèi bīng xúnluó biānjìng.",
+      "english": "The guards patrol the border."
+    },
+    {
+      "chinese": "他肩负卫国责任(他肩負衛國責任)，誓言守护家园(誓言守護家園)。",
+      "pinyin": "Tā jiānfù wèi guó zérèn, shìyán shǒuhù jiāyuán.",
+      "english": "He carries the responsibility to defend the nation and vows to protect his homeland."
+    },
+    {
+      "chinese": "警卫密切监察入口(警衛密切監察入口)。",
+      "pinyin": "Jǐngwèi mìqiè jiānchá rùkǒu.",
+      "english": "The guards closely monitor the entrance."
+    }
+  ]
+}

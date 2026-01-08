@@ -1,0 +1,44 @@
+{
+  "simplified": "锅",
+  "traditional": "鍋",
+  "pinyin": "guō",
+  "english": "pot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 钅(金) (jīn, 'metal') + phonetic: 呙(呙) (guō, 'pot') = metal pot",
+    "interpretation": "The character combines 钅(金) (jīn, 'metal') to indicate the material of the object and 呙(呙) (guō, 'pot') as the phonetic element, reflecting the character's association with metal containers.",
+    "simplification": "鍋(鍋)→锅(鍋): 钅(金) (jīn, 'metal') replaced 金(金) for a simpler form while retaining the semantic element."
+  },
+  "parts": [
+    {
+      "char": "钅",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "呙",
+      "trad": "呙",
+      "pinyin": "guō",
+      "english": "pot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一个新锅(我買了一個新鍋)。",
+      "pinyin": "Wǒ mǎile yīgè xīn guō.",
+      "english": "I bought a new pot."
+    },
+    {
+      "chinese": "妈妈用锅(媽媽用鍋)，煮了一锅汤(煮了一鍋湯)。",
+      "pinyin": "Māma yòng guō, zhǔle yī guō tāng.",
+      "english": "Mom used a pot to cook some soup."
+    },
+    {
+      "chinese": "在厨房角落里(在廚房角落裡)，那口锅闪着光(那口鍋閃著光)。",
+      "pinyin": "Zài chúfáng jiǎoluò lǐ, nà kǒu guō shǎn zhe guāng.",
+      "english": "In the corner of the kitchen, that pot sparkles."
+    }
+  ]
+}

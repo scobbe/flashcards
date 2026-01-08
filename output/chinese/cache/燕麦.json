@@ -5,35 +5,40 @@
   "english": "oats",
   "etymology": {
     "type": "compound word",
-    "description": "燕(燕) (yàn, \"swallow; calm\") + 麦(麥) (mài, \"wheat\") = a grain related to wheat commonly known as oats",
-    "interpretation": "燕(燕) (yàn, \"swallow; calm\") and 麦(麥) (mài, \"wheat\") combine to describe a cereal grain that is similar in agricultural characteristics to wheat but is specifically used to refer to oats.",
-    "simplification": "燕 simplified to 燕 and 麥 simplified to 麦"
+    "description": "燕(燕) (yàn, \"swallow; the bird\") + 麦(麥) (mài, \"wheat; grain\") refers to a type of grain known as oats, characterized by their similarity to wheat but associated with lighter and more delicate features, often metaphorically linked to the swallow.",
+    "interpretation": "燕麦(燕麥) (yànmài) combines the concepts of a swallow and wheat, symbolizing a delicate and unique type of grain. Historically, the character 燕(燕) (yàn, \"swallow\") conveys the idea of grace, matching the lightness of oats.",
+    "simplification": "燕麦"
   },
   "parts": [
     {
       "char": "燕",
       "trad": "燕",
       "pinyin": "yàn",
-      "english": "swallow; calm"
+      "english": "swallow; the bird"
     },
     {
       "char": "麦",
       "trad": "麥",
       "pinyin": "mài",
-      "english": "wheat"
+      "english": "wheat; grain"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天早上吃燕麦(我每天早上吃燕麥)。",
-      "pinyin": "Wǒ měitiān zǎoshang chī yànmài.",
-      "english": "I eat oats every morning."
+      "chinese": "我每天吃燕麦(我每天吃燕麥)。",
+      "pinyin": "Wǒ měitiān chī yànmài.",
+      "english": "I eat oats every day."
     },
     {
-      "chinese": "燕麦富含蛋白质(燕麥富含蛋白質)，适合做早餐(適合做早餐)。",
-      "pinyin": "Yànmài fùhán dànbáizhí, shìhé zuò zǎocān.",
-      "english": "Oats are rich in protein and are suitable for breakfast."
+      "chinese": "燕麦营养丰富(燕麥營養豐富)，适合做早餐(適合做早餐)。",
+      "pinyin": "Yànmài yíngyǎng fēngfù, shìhé zuò zǎocān.",
+      "english": "Oats are nutritious and suitable for breakfast."
+    },
+    {
+      "chinese": "她用燕麦制作健康的糕点(她用燕麥製作健康的糕點)。",
+      "pinyin": "Tā yòng yànmài zhìzuò jiànkāng de gāodiǎn.",
+      "english": "She uses oats to make healthy pastries."
     }
   ]
 }

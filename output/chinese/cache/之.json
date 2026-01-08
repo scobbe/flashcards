@@ -1,0 +1,31 @@
+{
+  "simplified": "之",
+  "traditional": "之",
+  "pinyin": "zhī",
+  "english": "go/arrive",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a foot walking along a path, indicating movement or the act of going towards a destination.",
+    "interpretation": "The character 之(之) (zhī, 'go/arrive') is a simple pictographic representation suggesting movement. The depiction of movement aligns with its contemporary meaning, which involves going or arriving.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "船行于急流(船行於急流)，终之彼岸(終之彼岸)。",
+      "pinyin": "Chuán xíng yú jíliú, zhōng zhī bǐ'àn.",
+      "english": "The boat sails through the rushing current, eventually arriving at the other shore."
+    },
+    {
+      "chinese": "春风拂面(春風拂面)，使君之归(使君之歸)。",
+      "pinyin": "Chūnfēng fú miàn, shǐ jūn zhī guī.",
+      "english": "The spring breeze caresses the face, as the dignitary returns home."
+    },
+    {
+      "chinese": "鸿雁展翅(鴻雁展翅)，日暮之临(日暮之臨)。",
+      "pinyin": "Hóngyàn zhǎn chì, rìmù zhī lín.",
+      "english": "The wild geese spread their wings, as dusk arrives."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "发",
+  "traditional": "發",
+  "pinyin": "fā",
+  "english": "issue; emit",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of a bow firing an arrow; hand (攴(攴) (pū, \"tap\")) added later -> evolved into phonetic component 癹(癹) (bá) -> final form as phono-semantic",
+    "interpretation": "The original depiction of a bow and arrow represents the act of emitting or issuing, like launching an arrow. The hand component implies control, leading to the contemporary concept of issuing or emitting something.",
+    "simplification": "Simplified to 发(發) by merging functions of 髮(髮) (fà, \"hair\") in the 1956 Chinese Character Simplification Scheme, as both share the pronunciation."
+  },
+  "parts": [
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    },
+    {
+      "char": "癹",
+      "trad": "癹",
+      "pinyin": "bá",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "电台发出柔和的音乐(電台發出柔和的音樂)。",
+      "pinyin": "Diàntái fāchū róuhé de yīnyuè。",
+      "english": "The radio emits soft music."
+    },
+    {
+      "chinese": "厂房发出刺鼻的气味(廠房發出刺鼻的氣味)。",
+      "pinyin": "Chǎngfáng fāchū cìbí de qìwèi。",
+      "english": "The factory emits a pungent odor."
+    },
+    {
+      "chinese": "汽车发出急促的鸣笛(汽車發出急促的鳴笛)，警告行人靠边行走(警告行人靠邊行走)。",
+      "pinyin": "Qìchē fāchū jí cù de míngdí, jǐnggào xíngrén kào biān xíngzǒu。",
+      "english": "The car emits a rapid honk, warning pedestrians to move aside."
+    }
+  ]
+}

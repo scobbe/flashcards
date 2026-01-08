@@ -1,0 +1,44 @@
+{
+  "simplified": "过敏",
+  "traditional": "過敏",
+  "pinyin": "guòmǐn",
+  "english": "be allergic",
+  "etymology": {
+    "type": "compound word",
+    "description": "过(過) (guò, \"exceed\") + 敏(敏) (mǐn, \"sensitive\")",
+    "interpretation": "过敏(過敏) (guòmǐn, \"be allergic\") consists of 过(過) (guò, \"exceed\") and 敏(敏) (mǐn, \"sensitive\"), implying a reaction where the sensitivity of the body exceeds a normal level. Hence, it describes an allergic reaction where the body's response to certain stimuli is excessively sensitive.",
+    "simplification": "simplified to remove extra strokes"
+  },
+  "parts": [
+    {
+      "char": "过",
+      "trad": "過",
+      "pinyin": "guò",
+      "english": "exceed; pass through"
+    },
+    {
+      "char": "敏",
+      "trad": "敏",
+      "pinyin": "mǐn",
+      "english": "sensitive; quick"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很容易过敏(我很容易過敏)。",
+      "pinyin": "Wǒ hěn róngyì guòmǐn.",
+      "english": "I am easily allergic."
+    },
+    {
+      "chinese": "我对花粉过敏(我對花粉過敏)，每到春天就打喷嚏(每到春天就打噴嚏)。",
+      "pinyin": "Wǒ duì huāfěn guòmǐn, měi dào chūntiān jiù dǎ pēntì.",
+      "english": "I am allergic to pollen, and I sneeze every spring."
+    },
+    {
+      "chinese": "出门前他总会检查食物(出門前他總會檢查食物)，以防过敏(以防過敏)。",
+      "pinyin": "Chūmén qián tā zǒng huì jiǎnchá shíwù, yǐ fáng guòmǐn.",
+      "english": "Before going out, he always checks his food to prevent allergic reactions."
+    }
+  ]
+}

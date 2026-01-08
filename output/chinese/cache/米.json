@@ -5,27 +5,27 @@
   "english": "rice",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts rice kernels without husk",
-    "interpretation": "The character 米(mǐ, \"rice\") visually represents kernels of rice after being husked, differentiating it from 粟(sù, \"millet\" or \"grain\") which includes the husk. Its design effectively communicates the appearance of rice granules.",
+    "description": "Depicts rice kernels -> 米(mǐ, 'rice')",
+    "interpretation": "The character 米(mǐ, 'rice') visually represents dehusked rice kernels to differentiate it from 粟. The horizontal stroke may symbolize a bamboo sieve, emphasizing the process of separating grains from their husks.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我吃米饭(我吃米飯)。",
-      "pinyin": "Wǒ chī mǐ fàn.",
-      "english": "I eat rice."
+      "chinese": "我喜欢吃米饭(我喜歡吃米飯)。",
+      "pinyin": "Wǒ xǐhuān chī mǐfàn.",
+      "english": "I like to eat rice."
     },
     {
-      "chinese": "农民种米(農民種米)，收获丰盛(收穫豐盛)。",
-      "pinyin": "Nóngmín zhòng mǐ, shōuhuò fēngshèng.",
-      "english": "Farmers cultivate rice, and the harvest is abundant."
+      "chinese": "她从农村带回一袋米(她從農村帶回一袋米)，用来煮饭(用來煮飯)。",
+      "pinyin": "Tā cóng nóngcūn dài huí yī dài mǐ, yòng lái zhǔ fàn.",
+      "english": "She brought a bag of rice from the countryside to cook."
     },
     {
-      "chinese": "厨房里有米(廚房裡有米)，我们一起做饭(我們一起做飯)。",
-      "pinyin": "Chúfáng lǐ yǒu mǐ, wǒmen yīqǐ zuò fàn.",
-      "english": "There is rice in the kitchen, and we cook together."
+      "chinese": "市场上有新米出售(市場上有新米出售)。",
+      "pinyin": "Shìchǎng shàng yǒu xīn mǐ chūshòu.",
+      "english": "New rice is available in the market."
     }
   ]
 }

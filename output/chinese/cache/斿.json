@@ -1,0 +1,44 @@
+{
+  "simplified": "斿",
+  "traditional": "斿",
+  "pinyin": "yóu",
+  "english": "travel",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "㫃(㫃) (guó, \"flag\") + 子(子) (zǐ, \"child\") = a child holding a flag -> travel",
+    "interpretation": "The character depicts the image of a child holding a flag, symbolizing the action of travel or movement, as flags were often used for signaling during journeys.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㫃",
+      "trad": "㫃",
+      "pinyin": "guó",
+      "english": "flag"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他斿名山大川(他斿名山大川)。",
+      "pinyin": "Tā yóu míngshān dàchuān.",
+      "english": "He travels through famous mountains and rivers."
+    },
+    {
+      "chinese": "古代诗人斿江山(古代詩人斿江山)，寻觅灵感(尋覓靈感)。",
+      "pinyin": "Gǔdài shīrén yóu jiāngshān, xúnmì línggǎn.",
+      "english": "Ancient poets travel across rivers and mountains, seeking inspiration."
+    },
+    {
+      "chinese": "他斿万里路途(他斿萬里路途)，心旷神怡(心曠神怡)。",
+      "pinyin": "Tā yóu wànlǐ lùtú, xīnkuàng shényí.",
+      "english": "He traverses a thousand-mile journey, feeling relaxed and joyful."
+    }
+  ]
+}

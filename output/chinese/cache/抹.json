@@ -1,0 +1,44 @@
+{
+  "simplified": "抹",
+  "traditional": "抹",
+  "pinyin": "mǒ",
+  "english": "apply; rub; grind",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(手) (shǒu, \"hand\") + 末(末) (mò, \"end\") = action involving the hand on the surface -> apply; rub; grind",
+    "interpretation": "The character 抹(mǒ) combines 扌(手) (shǒu, \"hand\") indicating an action performed by the hand, and 末(末) (mò, \"end\"), which contributes to the phonetic element. Together, they suggest the action of applying or spreading something with the hand.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "末",
+      "trad": "末",
+      "pinyin": "mò",
+      "english": "end"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你把油抹在面包上(請你把油抹在麵包上)。",
+      "pinyin": "Qǐng nǐ bǎ yóu mǒ zài miànbāo shàng.",
+      "english": "Please apply the oil on the bread."
+    },
+    {
+      "chinese": "她小心地把药膏抹在伤口上(她小心地把藥膏抹在傷口上)。",
+      "pinyin": "Tā xiǎoxīn de bǎ yàogāo mǒ zài shāngkǒu shàng.",
+      "english": "She gently applied the ointment on the wound."
+    },
+    {
+      "chinese": "他抹上了面粉(他抹上了麵粉)，用手揉面(用手揉麵)。",
+      "pinyin": "Tā mǒ shàng le miànfěn, yòng shǒu róu miàn.",
+      "english": "He spread the flour, then kneaded the dough with his hands."
+    }
+  ]
+}

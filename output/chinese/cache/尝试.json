@@ -1,0 +1,39 @@
+{
+  "simplified": "尝试",
+  "traditional": "嘗試",
+  "pinyin": "chángshì",
+  "english": "try; attempt",
+  "etymology": {
+    "type": "compound word",
+    "description": "尝(嘗) (cháng, \"taste; try\") and 试(試) (shì, \"test; experiment\") together form the concept of making an attempt or trial.",
+    "interpretation": "The word 尝试(嘗試) (chángshì, \"try; attempt\") combines the idea of 'trying' something akin to 'tasting' it, with the action of a 'test' or 'experiment', signifying an effort to do something in order to see the result.",
+    "simplification": "尝试 is the simplified form, 嘗試 is the traditional form."
+  },
+  "parts": [
+    {
+      "char": "尝",
+      "trad": "嘗",
+      "pinyin": "cháng",
+      "english": "taste; try"
+    },
+    {
+      "char": "试",
+      "trad": "試",
+      "pinyin": "shì",
+      "english": "test; experiment"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他尝试新方法(他嘗試新方法)，解决难题(解決難題)。",
+      "pinyin": "tā chángshì xīn fāngfǎ, jiějué nán tí.",
+      "english": "He tries a new method, solving a difficult problem."
+    },
+    {
+      "chinese": "她尝试解决问题(她嘗試解決問題)，然后成功了(然後成功了)。",
+      "pinyin": "tā chángshì jiějué wèntí, ránhòu chénggōng le.",
+      "english": "She tries to solve the problem, and then she succeeds."
+    }
+  ]
+}

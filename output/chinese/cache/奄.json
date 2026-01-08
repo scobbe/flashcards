@@ -1,0 +1,39 @@
+{
+  "simplified": "奄",
+  "traditional": "奄",
+  "pinyin": "yān",
+  "english": "to cover",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "盍(盍) (hé, \"why not\") abbreviated + 甲(甲) (jiǎ, \"armor\") as phonetic = original form of 掩(掩) (yǎn, \"to cover\") -> used for covering.",
+    "interpretation": "The character 奄(yān, \"to cover\") initially formed by combining the abbreviation of 盍(盍) (hé, \"why not\") for its semantic meaning and 甲(甲) (jiǎ, \"armor\") for its phonetic suggestion. It evolved to denote the concept of covering or covering over.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "盍",
+      "trad": "盍",
+      "pinyin": "hé",
+      "english": "why not"
+    },
+    {
+      "char": "甲",
+      "trad": "甲",
+      "pinyin": "jiǎ",
+      "english": "armor"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "浓雾奄盖了整个村庄(濃霧奄蓋了整個村莊)。",
+      "pinyin": "Nóngwù yān gài le zhěnggè cūnzhuāng.",
+      "english": "Thick fog covered the entire village."
+    },
+    {
+      "chinese": "晨雾初起时(晨霧初起時)，山谷奄上了一层白纱(山谷奄上了一層白紗)。",
+      "pinyin": "Chénwù chūqǐ shí, shāngǔ yān shàng le yī céng bái shā.",
+      "english": "When the morning mist arose, the valley was covered with a layer of white gauze."
+    }
+  ]
+}

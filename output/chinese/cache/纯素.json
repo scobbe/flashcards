@@ -1,0 +1,44 @@
+{
+  "simplified": "纯素",
+  "traditional": "純素",
+  "pinyin": "chúnsù",
+  "english": "vegan",
+  "etymology": {
+    "type": "compound word",
+    "description": "纯(純) (chún, \"pure\") and 素(素) (sù, \"simple; plain; vegetarian\") come together to describe a diet or lifestyle free of animal products. The use of 素(素) (sù, \"simple; plain; vegetarian\") has historical roots as a term for vegetarianism, and 纯(純) (chún, \"pure\") emphasizes the complete exclusion of animal-derived ingredients.",
+    "interpretation": "The term 纯素(純素) (chúnsù, \"vegan\") reflects an emphasis on a wholly plant-based lifestyle, avoiding any animal products. By combining the ideas of purity and simplicity or plainness, it effectively conveys a focus on ethical and dietary clarity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "纯",
+      "trad": "純",
+      "pinyin": "chún",
+      "english": "pure"
+    },
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "simple; plain; vegetarian"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我只吃纯素食物(我只吃純素食物)。",
+      "pinyin": "Wǒ zhǐ chī chúnsù shíwù.",
+      "english": "I only eat vegan food."
+    },
+    {
+      "chinese": "她开了一家纯素餐厅(她開了一家純素餐廳)，提供各种美味菜肴(提供各種美味菜餚)。",
+      "pinyin": "Tā kāile yī jiā chúnsù cāntīng, tígōng gèzhǒng měiwèi càiyáo.",
+      "english": "She opened a vegan restaurant, offering a variety of delicious dishes."
+    },
+    {
+      "chinese": "选择纯素生活(選擇純素生活)，关爱动物(關愛動物)。",
+      "pinyin": "Xuǎnzé chúnsù shēnghuó, guān'ài dòngwù.",
+      "english": "Choose a vegan lifestyle, care for animals."
+    }
+  ]
+}

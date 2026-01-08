@@ -1,0 +1,39 @@
+{
+  "simplified": "词汇",
+  "traditional": "詞彙",
+  "pinyin": "cíhuì",
+  "english": "vocabulary",
+  "etymology": {
+    "type": "compound word",
+    "description": "词(詞) (cí, \"word; term\") + 汇(彙) (huì, \"collection; to collect\") = a collection of words -> vocabulary",
+    "interpretation": "词汇(詞彙) (cíhuì, \"vocabulary\") refers to a collection or list of words, particularly those known or used by a person or within a particular language. It implies an organized collection of terms, essential for communication and language learning.",
+    "simplification": "词汇(詞彙)"
+  },
+  "parts": [
+    {
+      "char": "词",
+      "trad": "詞",
+      "pinyin": "cí",
+      "english": "word; term"
+    },
+    {
+      "char": "汇",
+      "trad": "彙",
+      "pinyin": "huì",
+      "english": "collection; to collect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每天学习词汇(他每天學習詞彙)，以扩充语言能力(以擴充語言能力)。",
+      "pinyin": "Tā měitiān xuéxí cíhuì, yǐ kuòchōng yǔyán nénglì.",
+      "english": "He studies vocabulary every day to expand his language ability."
+    },
+    {
+      "chinese": "词汇是语言的宝库(詞彙是語言的寶庫)。",
+      "pinyin": "Cíhuì shì yǔyán de bǎokù.",
+      "english": "Vocabulary is the treasure house of language."
+    }
+  ]
+}

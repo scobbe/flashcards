@@ -1,0 +1,39 @@
+{
+  "simplified": "值",
+  "traditional": "值",
+  "pinyin": "zhí",
+  "english": "value; worth; to be worth; to deserve",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 亻(亻) (rén, \"person\") + Phonetic: 直(直) (zhí, \"straight\") = a person's worth or value",
+    "interpretation": "The character 值(值) (zhí, \"value; worth\") illustrates the concept of a person 亻(亻) (rén, \"person\") whose directness or straightforwardness 直(直) (zhí, \"straight\") is valued, thus converging on the idea of 'worth' or 'value'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "直",
+      "trad": "直",
+      "pinyin": "zhí",
+      "english": "straight"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅字画值两千元(這幅字畫值兩千元)。",
+      "pinyin": "Zhè fú zìhuà zhí liǎngqiān yuán.",
+      "english": "This piece of calligraphy is worth two thousand yuan."
+    },
+    {
+      "chinese": "他努力工作(他努力工作)，这一切真的很值(這一切真的很值)。",
+      "pinyin": "Tā nǔlì gōngzuò, zhè yīqiè zhēn de hěn zhí.",
+      "english": "He works hard, and all of it is truly worthwhile."
+    }
+  ]
+}

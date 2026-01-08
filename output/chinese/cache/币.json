@@ -1,0 +1,50 @@
+{
+  "simplified": "币",
+  "traditional": "幣",
+  "pinyin": "bì",
+  "english": "currency",
+  "etymology": {
+    "type": "simplified character",
+    "description": "幣(幣) (bì, \"currency\") with 敝(敝) (bì, \"damaged\") → replaced by 丿(丿) for simplification",
+    "interpretation": "The character 币(幣) (bì, \"currency\") is simplified from 幣(幣) by replacing the component 敝(敝) (bì, \"damaged\") with a simpler stroke 丿(丿), maintaining the phonetic and semantic elements while making it easier to write.",
+    "simplification": "The simplification process involved replacing 敝(敝) (bì, \"damaged\") with the simpler 丿(丿). This serves to streamline the character for more efficient writing."
+  },
+  "parts": [
+    {
+      "char": "幣",
+      "trad": "幣",
+      "pinyin": "bì",
+      "english": "currency"
+    },
+    {
+      "char": "敝",
+      "trad": "敝",
+      "pinyin": "bì",
+      "english": "damaged"
+    },
+    {
+      "char": "丿",
+      "trad": "丿",
+      "pinyin": "piě",
+      "english": "slash"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "数字币推动金融创新(數字幣推動金融創新)。",
+      "pinyin": "Shùzì bì tuījìn jīnróng chuàngxīn.",
+      "english": "Digital currency drives financial innovation."
+    },
+    {
+      "chinese": "他从国外带回古董币(他從國外帶回古董幣)，准备收藏(準備收藏)。",
+      "pinyin": "Tā cóng guówài dài huí gǔdǒng bì, zhǔnbèi shōucáng.",
+      "english": "He brought back antique currency from abroad and plans to collect it."
+    },
+    {
+      "chinese": "这个币代表了历史文化(這個幣代表了歷史文化)，价值连城(價值連城)。",
+      "pinyin": "Zhège bì dàibiǎo le lìshǐ wénhuà, jiàzhí liánchéng.",
+      "english": "This currency represents historical culture and is extremely valuable."
+    }
+  ]
+}

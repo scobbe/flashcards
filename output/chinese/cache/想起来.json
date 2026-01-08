@@ -1,0 +1,45 @@
+{
+  "simplified": "想起来",
+  "traditional": "想起來",
+  "pinyin": "xiǎngqǐlái",
+  "english": "remember; recall",
+  "etymology": {
+    "type": "compound word",
+    "description": "想(想) (xiǎng, \"think\") + 起(起) (qǐ, \"rise\") + 來(來) (lái, \"come\") = to cause thoughts to rise and come back, meaning to remember or recall.",
+    "interpretation": "The word 想起来(想起來) (xiǎngqǐlái, \"remember; recall\") combines the idea of thinking with the action of something rising up and coming back to the mind. This reflects the process of retrieving memories or thoughts that may have been forgotten.",
+    "simplification": "想起來"
+  },
+  "parts": [
+    {
+      "char": "想",
+      "trad": "想",
+      "pinyin": "xiǎng",
+      "english": "think; ponder; consider; believe"
+    },
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; start; initiate; stand up"
+    },
+    {
+      "char": "来",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come; return; arrive"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我突然想起来(我突然想起來)，朋友的生日马上到了(朋友的生日馬上到了)。",
+      "pinyin": "Wǒ túrán xiǎngqǐlái, péngyǒu de shēngrì mǎshàng dàole.",
+      "english": "I suddenly remembered that my friend's birthday was coming soon."
+    },
+    {
+      "chinese": "听到那首歌时(聽到那首歌時)，他想起来(他想起來)旧时的快乐(舊時的快樂)。",
+      "pinyin": "Tīngdào nà shǒu gē shí, tā xiǎngqǐlái jiùshí de kuàilè.",
+      "english": "Upon hearing that song, he recalled the joy of the old days."
+    }
+  ]
+}

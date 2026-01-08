@@ -1,0 +1,31 @@
+{
+  "simplified": "首",
+  "traditional": "首",
+  "pinyin": "shǒu",
+  "english": "head",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a head with the stylized representation of eyes and hair",
+    "interpretation": "The character 首(首) (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他昂首挺胸走上领奖台(他昂首挺胸走上領獎台)。",
+      "pinyin": "Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.",
+      "english": "He walked onto the podium with his head held high."
+    },
+    {
+      "chinese": "受伤后(受傷後)，他低下首表示谦逊(他低下首表示謙遜)。",
+      "pinyin": "Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.",
+      "english": "After being injured, he lowered his head to show humility."
+    },
+    {
+      "chinese": "他被选为公司的首席执行官(他被選為公司的首席執行官)。",
+      "pinyin": "Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.",
+      "english": "He was elected as the company's chief executive officer."
+    }
+  ]
+}

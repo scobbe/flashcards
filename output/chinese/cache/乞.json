@@ -1,0 +1,31 @@
+{
+  "simplified": "乞",
+  "traditional": "乞",
+  "pinyin": "qǐ",
+  "english": "beg",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person bending over with a bowl, resembling the act of begging.",
+    "interpretation": "The character 乞(乞) (qǐ, \"beg\") visually suggests the posture of a person soliciting aid or alms. This imagery supports its meaning of asking for or requesting something, often in a context of necessity.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在街头乞讨(他在街頭乞討)。",
+      "pinyin": "Tā zài jiētóu qǐtǎo.",
+      "english": "He begs on the street."
+    },
+    {
+      "chinese": "街头的乞丐请求施舍(街頭的乞丐請求施捨)。",
+      "pinyin": "Jiētóu de qǐgài qǐngqiú shīshě.",
+      "english": "The beggar on the street asks for alms."
+    },
+    {
+      "chinese": "他乞求雨露(他乞求雨露)，期盼滋润大地(期盼滋潤大地)。",
+      "pinyin": "Tā qǐqiú yǔlù, qīpàn zīrùn dàdì.",
+      "english": "He begs for rainwater, hoping to nourish the earth."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "唐",
+  "traditional": "唐",
+  "pinyin": "táng",
+  "english": "Tang dynasty",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 广(广) (guǎng, 'wide') + phonetic: 尙(尚) (shàng, 'still') = a place that is wide or grand -> refers historically to the Tang dynasty",
+    "interpretation": "The character 唐(táng) combines 广(广) (guǎng, 'wide') suggesting an expanse or grandeur with the phonetic 尙(尚) (shàng, 'still'), hinting at something esteemed or significant, fitting for the influential Tang dynasty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "wide"
+    },
+    {
+      "char": "尙",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "still"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "唐朝是中国历史上繁荣的朝代(唐朝是中國歷史上繁榮的朝代)。",
+      "pinyin": "Táng cháo shì Zhōngguó lìshǐ shàng fánróng de cháodài.",
+      "english": "The Tang dynasty was a prosperous era in Chinese history."
+    },
+    {
+      "chinese": "唐代诗人创作了许多脍炙人口的诗篇(唐代詩人創作了許多脍炙人口的詩篇)。",
+      "pinyin": "Táng dài shīrén chuàngzuò le xǔduō kuàizhì rénkǒu de shīpiān.",
+      "english": "Poets of the Tang dynasty composed many poems that remain popular."
+    },
+    {
+      "chinese": "唐朝开放交流(唐朝開放交流)，使中外文化交融(使中外文化交融)。",
+      "pinyin": "Táng cháo kāifàng jiāoliú, shǐ zhōngwài wénhuà jiāoróng.",
+      "english": "The Tang dynasty promoted open exchanges, which led to the blending of Chinese and foreign cultures."
+    }
+  ]
+}

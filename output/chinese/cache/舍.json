@@ -1,0 +1,44 @@
+{
+  "simplified": "舍",
+  "traditional": "舍",
+  "pinyin": "shě",
+  "english": "abandon; give up; renounce",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "余(余) (yú, \"I\") as phonetic + semantic 口(口) (kǒu, \"mouth\") added for distinction",
+    "interpretation": "The character 舍(舍) (shě, \"abandon\") combines the phonetic element 余(余) (yú, \"I\") with the semantic element 口(口) (kǒu, \"mouth\"). The original pictogram for 'abandon' was 余(余), and the addition of 口(口) distinguished it from other uses of 余(余). This construction suggests an action related to speaking or deciding, reflecting the act of giving up or renouncing something verbally or through action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "余",
+      "trad": "余",
+      "pinyin": "yú",
+      "english": "\"I\""
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "\"mouth\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她舍弃了舒适的生活(她捨棄了舒適的生活)。",
+      "pinyin": "Tā shě qì le shūshì de shēnghuó.",
+      "english": "She gave up a comfortable life."
+    },
+    {
+      "chinese": "他舍不得离开家乡(他捨不得離開家鄉)。",
+      "pinyin": "Tā shě bù dé líkāi jiāxiāng.",
+      "english": "He is reluctant to leave his hometown."
+    },
+    {
+      "chinese": "他舍去旧有的观念(他捨去舊有的觀念)，迎接新的挑战(迎接新的挑戰)。",
+      "pinyin": "Tā shě qù jiùyǒu de guānniàn, yíngjiē xīn de tiǎozhàn.",
+      "english": "He renounces old beliefs and embraces new challenges."
+    }
+  ]
+}

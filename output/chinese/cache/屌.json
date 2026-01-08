@@ -1,0 +1,39 @@
+{
+  "simplified": "屌",
+  "traditional": "屌",
+  "pinyin": "diǎo",
+  "english": "male genitalia; slang for cocky",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "尭(尭) (yáo, \"high\") as phonetic + 尸(尸) (shī, \"corpse\") as semantic = slang term originally referring to male genitalia -> later extended to mean 'cocky' or 'arrogant'",
+    "interpretation": "The character 屌(diao) cleverly combines elements to convey its vulgar meaning, using 尸(尸) to set a bodily context and 尭(尭) to suggest a crude and boastful tone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尭",
+      "trad": "尭",
+      "pinyin": "yáo",
+      "english": "high"
+    },
+    {
+      "char": "尸",
+      "trad": "尸",
+      "pinyin": "shī",
+      "english": "corpse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他很屌(他很屌)。",
+      "pinyin": "Tā hěn diǎo.",
+      "english": "He is really cocky."
+    },
+    {
+      "chinese": "医生检查他的屌(醫生檢查他的屌)，发现有异常(發現有異常)。",
+      "pinyin": "Yīshēng jiǎnchá tā de diǎo, fāxiàn yǒu yìcháng.",
+      "english": "The doctor examined his genitalia and found something abnormal."
+    }
+  ]
+}

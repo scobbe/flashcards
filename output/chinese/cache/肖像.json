@@ -1,0 +1,39 @@
+{
+  "simplified": "肖像",
+  "traditional": "肖像",
+  "pinyin": "xiàoxiàng",
+  "english": "portrait",
+  "etymology": {
+    "type": "compound word",
+    "description": "肖(肖) (xiào, \"resemble\") + 像(像) (xiàng, \"image\") = a resembling image -> portrait",
+    "interpretation": "A 肖像(肖像) (xiàoxiàng, \"portrait\") is an image that resembles the appearance of a person. The character 肖(肖) (xiào, \"resemble\") signifies likeness, while 像(像) (xiàng, \"image\") denotes a representation or picture, aptly capturing the essence of a portrait.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肖",
+      "trad": "肖",
+      "pinyin": "xiào",
+      "english": "resemble; similar"
+    },
+    {
+      "char": "像",
+      "trad": "像",
+      "pinyin": "xiàng",
+      "english": "image; likeness; statue"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他画了一幅精致的肖像(他畫了一幅精緻的肖像)。",
+      "pinyin": "Tā huà le yī fú jīngzhì de xiàoxiàng.",
+      "english": "He painted a delicate portrait."
+    },
+    {
+      "chinese": "宫廷里悬挂着国王的肖像(宮廷裡懸掛著國王的肖像)，彰显王朝的荣耀(彰顯王朝的榮耀)。",
+      "pinyin": "Gōngtíng lǐ xuánguàzhe guówáng de xiàoxiàng, zhāngxiǎn wángcháo de róngyào.",
+      "english": "In the palace, the king's portrait hangs, showcasing the dynasty's glory."
+    }
+  ]
+}

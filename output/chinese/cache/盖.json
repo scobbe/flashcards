@@ -1,0 +1,44 @@
+{
+  "simplified": "盖",
+  "traditional": "蓋",
+  "pinyin": "gài",
+  "english": "cover; lid; canopy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 盍(盍) (hé, \"cover\") = a thatched cover -> cover",
+    "interpretation": "The character 蓋(gài, \"cover\") uses 艸 (\"grass\") to indicate a cover made of thatch, while 盍 acts as the phonetic element originally representing the \"cover\" sense. Over time, as 盍 also came to mean \"why not,\" 蓋 took on the primary role for various 'cover' meanings.",
+    "simplification": "盖(蓋) is a simplier form from mainland China that preserves the meaning of covering, matching the phonetic sound of the original character."
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "盍",
+      "trad": "盍",
+      "pinyin": "hé",
+      "english": "cover"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把盖子盖好(請把蓋子蓋好)。",
+      "pinyin": "Qǐng bǎ gàizi gài hǎo.",
+      "english": "Please cover the lid properly."
+    },
+    {
+      "chinese": "雨后天晴时(雨後天晴時)，云盖着山峰(雲蓋著山峰)。",
+      "pinyin": "Yǔ hòu tiān qíng shí, yún gài zhe shānfēng.",
+      "english": "After the rain, when the sky clears, clouds cover the mountains."
+    },
+    {
+      "chinese": "大树的巨大树盖遮住了一切(大樹的巨大樹蓋遮住了一切)。",
+      "pinyin": "Dà shù de jù dà shù gài zhē zhù le yī qiè.",
+      "english": "The enormous canopy of the tree covers everything."
+    }
+  ]
+}

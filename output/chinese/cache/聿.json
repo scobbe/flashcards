@@ -1,0 +1,39 @@
+{
+  "simplified": "聿",
+  "traditional": "聿",
+  "pinyin": "yù",
+  "english": "brush",
+  "etymology": {
+    "type": "Pictogram or ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 𰀁(𰀁) (yù, \"brush\") = hand holding a brush -> writing tool",
+    "interpretation": "The character 聿(yù, \"brush\") visually represents a hand grasping a brush, symbolizing the act of writing. This embodies the original purpose of indicating a writing tool before it was borrowed for broader meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "𰀁",
+      "trad": "𰀁",
+      "pinyin": "yù",
+      "english": "brush"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他拿起聿(聿)，在宣紙上書寫(在宣紙上書寫)。",
+      "pinyin": "Tā ná qǐ yù, zài xuānzhǐ shàng shūxiě.",
+      "english": "He picked up the brush and wrote on rice paper."
+    },
+    {
+      "chinese": "古代文士喜用聿(喜用聿)。",
+      "pinyin": "Gǔdài wénshì xǐ yòng yù.",
+      "english": "Ancient literati liked to use the brush."
+    }
+  ]
+}

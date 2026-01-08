@@ -1,0 +1,44 @@
+{
+  "simplified": "图",
+  "traditional": "圖",
+  "pinyin": "tú",
+  "english": "picture; map; plan",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 囧(囧) (jiǒng, \"window\") + semantic: 口(口) (kǒu, \"mouth\") = a picture drawn within a boundary -> picture/map",
+    "interpretation": "The character 图(图) (tú) combines 囧(囧) (jiǒng, \"window\") as the phonetic element, suggesting a rectangular shape like a window or a frame, with 口(口) (kǒu, \"mouth\") as a semantic component, indicating an enclosed area, apt for depicting enclosed spaces like a map or diagram.",
+    "simplification": "圖(圖) → 图(图): Simplified by removing the inner complexity of 囧(囧) and representing the frame with a simpler structure, retaining the outer 口(口) for consistency."
+  },
+  "parts": [
+    {
+      "char": "囧",
+      "trad": "囧",
+      "pinyin": "jiǒng",
+      "english": "window"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅图展示了城市历史(這幅圖展示了城市歷史)。",
+      "pinyin": "Zhè fú tú zhǎnshì le chéngshì lìshǐ.",
+      "english": "This picture displays the city's history."
+    },
+    {
+      "chinese": "我根据图来规划路线(我根據圖來規劃路線)，并成功到达目的地(並成功到達目的地)。",
+      "pinyin": "Wǒ gēnjù tú lái guīhuà lùxiàn, bìng chénggōng dàodá mùdìdì.",
+      "english": "I used the map to plan the route and successfully reached my destination."
+    },
+    {
+      "chinese": "他绘制了一张图(他繪製了一張圖)，记录了人生旅程(記錄了人生旅程)。",
+      "pinyin": "Tā huìzhì le yī zhāng tú, jìlù le rénshēng lǚchéng.",
+      "english": "He drew a picture to document his life journey."
+    }
+  ]
+}

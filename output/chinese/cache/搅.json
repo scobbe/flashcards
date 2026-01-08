@@ -1,0 +1,50 @@
+{
+  "simplified": "搅",
+  "traditional": "攪",
+  "pinyin": "jiǎo",
+  "english": "stir",
+  "etymology": {
+    "type": "simplified form",
+    "description": "扌(手) (shǒu, \"hand\") + 見(见) (jiàn, \"see\") + 攴(攴) (pū, \"tap\") -> hand moving or stirring seen by striking -> final form of 搅",
+    "interpretation": "The character 搅(攪) is formed from combining elements related to actions involving the hand and an object being manipulated, in this case, through tapping or stirring.",
+    "simplification": "攪(搅): Simplified by reducing the complexity of the component 見(见) (jiàn, \"see\") to 见."
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "見",
+      "trad": "见",
+      "pinyin": "jiàn",
+      "english": "see"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用勺子搅牛奶(他用勺子攪牛奶)。",
+      "pinyin": "Tā yòng sháozi jiǎo niúnǎi.",
+      "english": "He stirs the milk with a spoon."
+    },
+    {
+      "chinese": "厨房里(廚房裡)，他搅拌汤料(他攪拌湯料)。",
+      "pinyin": "Chúfáng lǐ, tā jiǎo bàn tāng liào.",
+      "english": "In the kitchen, he stirs the soup ingredients."
+    },
+    {
+      "chinese": "暴风雨搅乱了小镇的平静(暴風雨攪亂了小鎮的平靜)。",
+      "pinyin": "Bàofēngyǔ jiǎo luànle xiǎozhèn de píngjìng.",
+      "english": "The storm stirred up the tranquility of the small town."
+    }
+  ]
+}

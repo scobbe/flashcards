@@ -1,0 +1,44 @@
+{
+  "simplified": "淮",
+  "traditional": "淮",
+  "pinyin": "huái",
+  "english": "Huai River",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(水) (shuǐ, \"water\") + phonetic: 隹(隹) (zhuī, \"short-tailed bird\") = sound component -> name of Huai River",
+    "interpretation": "淮(淮) (huái, \"Huai River\") combines 氵(水) (shuǐ, \"water\") to convey its association with a body of water, specifically a river, and 隹(隹) (zhuī, \"short-tailed bird\") to provide the phonetic element. Together, they represent the Huai River, which is a major waterway in China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "沿着淮河寻找诗意(沿著淮河尋找詩意)。",
+      "pinyin": "Yánzhe Huái hé xúnzhǎo shīyì.",
+      "english": "Following the Huai River to seek poetic inspiration."
+    },
+    {
+      "chinese": "春风送暖时(春風送暖時)，淮河水面闪烁着银光(淮河水面閃爍著銀光)。",
+      "pinyin": "Chūnfēng sòng nuǎn shí, Huái hé shuǐmiàn shǎnshuò zhe yínguāng.",
+      "english": "When the spring breeze warms the air, the surface of the Huai River sparkles with silver light."
+    },
+    {
+      "chinese": "夜幕降临后(夜幕降臨後)，淮水流淌出古城的传说(淮水流淌出古城的傳說)。",
+      "pinyin": "Yèmù jiànglín hòu, Huái shuǐ liútǎng chū gǔchéng de chuánshuō.",
+      "english": "After dusk falls, the Huai waters flow out legends of the ancient city."
+    }
+  ]
+}

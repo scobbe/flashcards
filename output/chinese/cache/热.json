@@ -1,0 +1,39 @@
+{
+  "simplified": "热",
+  "traditional": "熱",
+  "pinyin": "rè",
+  "english": "heat; hot; fever",
+  "etymology": {
+    "type": "simplified from",
+    "description": "热(熱) (rè, \"heat\") is simplified from 熱(熱) (rè, \"heat\") with 埶(埶) (yì, \"skill\") replaced by 执(执) (zhí, \"to hold\") for phonetic representation",
+    "interpretation": "热(熱) (rè, \"heat\") was simplified by replacing 埶(埶) (yì, \"skill\") with 执(执) (zhí, \"to hold\"), which served as a simpler phonetic element while maintaining the original meaning related to heat.",
+    "simplification": "热(熱) (rè, \"heat\") was simplified by substituting 埶(埶) (yì, \"skill\") with 执(执) (zhí, \"to hold\"), allowing for a more straightforward script while preserving the phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "埶",
+      "trad": "埶",
+      "pinyin": "yì",
+      "english": "skill"
+    },
+    {
+      "char": "执",
+      "trad": "执",
+      "pinyin": "zhí",
+      "english": "to hold"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏天太热了(夏天太熱了)。",
+      "pinyin": "Xiàtiān tài rè le.",
+      "english": "It is too hot in summer."
+    },
+    {
+      "chinese": "厨房里的火炉热得冒烟(廚房裡的火爐熱得冒煙)，空气也变得闷热(空氣也變得悶熱)。",
+      "pinyin": "Chúfáng lǐ de huǒlú rè de mào yān, kōngqì yě biàn de mèn rè.",
+      "english": "The stove in the kitchen is so hot that it emits smoke, and the air becomes stuffy."
+    }
+  ]
+}

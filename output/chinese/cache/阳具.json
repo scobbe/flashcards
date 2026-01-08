@@ -1,0 +1,44 @@
+{
+  "simplified": "阳具",
+  "traditional": "陽具",
+  "pinyin": "yángjù",
+  "english": "male genitals",
+  "etymology": {
+    "type": "compound word",
+    "description": "阳(陽) (yáng, \"male; positive\") + 具(具) (jù, \"tool; implement\") = implements of the male, referring to male genitals",
+    "interpretation": "The term 阳具(陽具) (yángjù, \"male genitals\") combines 阳(陽) (yáng, \"male; positive\"), which is associated with masculinity and the yang principle in Chinese philosophy, with 具(具) (jù, \"tool; implement\") to denote what can be seen as the tools or implements of the male form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阳",
+      "trad": "陽",
+      "pinyin": "yáng",
+      "english": "male; positive"
+    },
+    {
+      "char": "具",
+      "trad": "具",
+      "pinyin": "jù",
+      "english": "tool; implement"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这只动物的阳具异常明显(這隻動物的陽具異常明顯)。",
+      "pinyin": "Zhè zhī dòngwù de yángjù yìcháng míngxiǎn.",
+      "english": "The animal's male genitals are unusually conspicuous."
+    },
+    {
+      "chinese": "古希腊艺术常描绘阳具(古希臘藝術常描繪陽具)。",
+      "pinyin": "Gǔ Xīlà yìshù cháng miáohuì yángjù.",
+      "english": "Ancient Greek art often depicted male genitals."
+    },
+    {
+      "chinese": "在生物学中(在生物學中)，阳具是一个重要的研究对象(陽具是一個重要的研究對象)。",
+      "pinyin": "Zài shēngwùxué zhōng, yángjù shì yīgè zhòngyào de yánjiū duìxiàng.",
+      "english": "In biology, male genitals are an important subject of research."
+    }
+  ]
+}

@@ -5,22 +5,22 @@
   "english": "step",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts footsteps or path",
-    "interpretation": "This character visually represents steps or a path, often used as a radical in characters related to movement or walking.",
+    "description": "Depicts a small step or a person taking a small step forward.",
+    "interpretation": "The character 彳(彳) (chì, \"step\") represents the imagery of small steps, echoing the action of stepping. It highlights the incremental movement aspect.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在汉字中(在漢字中)，彳表示步伐的一部分(彳表示步伐的一部分)。",
-      "pinyin": "Zài hànzì zhōng, chì biǎoshì bùfá de yībùfèn.",
-      "english": "In Chinese characters, 彳 represents part of a step."
+      "chinese": "运动员迈出彳(運動員邁出彳)，踏上冠军之路(踏上冠軍之路)。",
+      "pinyin": "Yùn dòng yuán mài chū chì, tà shàng guàn jūn zhī lù.",
+      "english": "The athlete took a 'chì' step and embarked on the road to championship."
     },
     {
-      "chinese": "书法家在练字时(書法家在練字時)，也会仔细描绘彳这一偏旁(也會仔細描繪彳這一偏旁)。",
-      "pinyin": "Shūfǎ jiā zài liànzì shí, yě huì zǐxì miáohuì chì zhè yī piānpáng.",
-      "english": "When practicing calligraphy, calligraphers carefully depict the radical 彳."
+      "chinese": "请看墙上雕刻的彳(請看牆上雕刻的彳)，似乎记录着古人的足迹(似乎記錄著古人的足跡)。",
+      "pinyin": "Qǐng kàn qiáng shàng diāo kè de chì, sì hū jì lù zhe gǔ rén de zú jì.",
+      "english": "Look at the 'chì' carved on the wall; it seems to record the footsteps of the ancients."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "运",
+  "traditional": "運",
+  "pinyin": "yùn",
+  "english": "transport; move; fortune; luck",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辵(辶) (chuò, \"walk\") + phonetic: 云(雲) (yún, \"cloud\") = movement (walk) + phonetic hint (cloud) -> transport and movement",
+    "interpretation": "The character uses 辵(辶) (chuò, \"walk\") to signify movement and 云(雲) (yún, \"cloud\") as a phonetic element. This combination suggests the idea of moving or transporting, as well as conveying abstract ideas like fortune or luck.",
+    "simplification": "运(運) replaces 雲 with 云 (both pronounced as yún) to create a more cursive representation of the phonetic component. This change simplifies writing while maintaining phonetic value."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "云",
+      "trad": "雲",
+      "pinyin": "yún",
+      "english": "cloud"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的运气很好(他的運氣很好)。",
+      "pinyin": "Tā de yùnqì hěn hǎo.",
+      "english": "His fortune is very good."
+    },
+    {
+      "chinese": "这辆卡车运送货物(這輛卡車運送貨物)，经过长长的公路(經過長長的公路)。",
+      "pinyin": "Zhè liàng kǎchē yùnsòng huòwù, jīngguò chángcháng de gōnglù.",
+      "english": "This truck transports goods, traveling along a long highway."
+    },
+    {
+      "chinese": "成功需要努力(成功需要努力)，也少不了运气(也少不了運氣)。",
+      "pinyin": "Chénggōng xūyào nǔlì, yě shǎo bùliǎo yùnqì.",
+      "english": "Success requires hard work, but luck is also indispensable."
+    }
+  ]
+}

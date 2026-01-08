@@ -1,0 +1,44 @@
+{
+  "simplified": "乡",
+  "traditional": "鄉",
+  "pinyin": "xiāng",
+  "english": "village; countryside; hometown",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𠨍 (𠨍) (two people facing each other) + 皀 (皀) (round-mouthed food vessel) -> original meaning 'to feast' -> phonetic borrowing or semantic shifting to mean 'village'",
+    "interpretation": "The character initially represented two people facing a food vessel, symbolizing communal feasting, which was a central part of village life. Over time, it came to denote 'village' through borrowing or semantic shift, aligning with the social aspect it originally depicted.",
+    "simplification": "乡(鄉) simplifies by using a component resembling 良(良) (liáng, 'good'), unrelated to 郎(郎) (láng, 'young man'), to streamline its form, based on 皀 during the clerical script development."
+  },
+  "parts": [
+    {
+      "char": "𠨍",
+      "trad": "𠨍",
+      "pinyin": "two people facing each other",
+      "english": "two people facing each other"
+    },
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "round-mouthed food vessel",
+      "english": "round-mouthed food vessel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我来自乡(我來自鄉)。",
+      "pinyin": "Wǒ láizì xiāng.",
+      "english": "I come from the countryside."
+    },
+    {
+      "chinese": "我怀念乡(我懷念鄉)，那里有我的故事(那裡有我的故事)。",
+      "pinyin": "Wǒ huáiniàn xiāng, nàlǐ yǒu wǒ de gùshì.",
+      "english": "I miss my hometown, where my stories lie."
+    },
+    {
+      "chinese": "他常回乡(他常回鄉)，寻找旧日情怀(尋找舊日情懷)。",
+      "pinyin": "Tā cháng huí xiāng, xúnzhǎo jiù rì qínghuái.",
+      "english": "He often returns to his hometown, seeking the old sentiments."
+    }
+  ]
+}

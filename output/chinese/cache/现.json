@@ -1,0 +1,44 @@
+{
+  "simplified": "现",
+  "traditional": "現",
+  "pinyin": "xiàn",
+  "english": "appear; now",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "見(見) (jiàn, 'see') + 王(王) (wáng, 'king') = see the presence of a ruler -> appear",
+    "interpretation": "The character uses 見(見) (jiàn, 'see') to suggest visibility or presence, combined with 王(王) (wáng, 'king') to imply the notion of a notable presence or appearance. This effectively conveys the idea of 'appearing' or 'being present.'",
+    "simplification": "現(現)→现(現): The component 王(王) (wáng, 'king') is streamlined for simplicity."
+  },
+  "parts": [
+    {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    },
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他突然现身(他突然現身)。",
+      "pinyin": "Tā túrán xiàn shēn.",
+      "english": "He suddenly appeared."
+    },
+    {
+      "chinese": "黄昏时分(黃昏時分)，他现身于云中(他現身於雲中)。",
+      "pinyin": "Huánghūn shí fēn, tā xiàn shēn yú yún zhōng.",
+      "english": "At dusk, he appeared among the clouds."
+    },
+    {
+      "chinese": "真相现出来了(真相現出來了)。",
+      "pinyin": "Zhēnxiàng xiàn chūlái le.",
+      "english": "The truth appeared."
+    }
+  ]
+}

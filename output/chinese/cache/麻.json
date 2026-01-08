@@ -1,0 +1,31 @@
+{
+  "simplified": "麻",
+  "traditional": "麻",
+  "pinyin": "má",
+  "english": "",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts hemp plants",
+    "interpretation": "The character 麻(má, \"hemp\") visually represents hemp plants with fibers or threads. It shows the processing of hemp as an essential plant material.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种衣服用麻纺织(這種衣服用麻紡織)。",
+      "pinyin": "Zhè zhǒng yīfú yòng má fǎngzhī.",
+      "english": "This kind of clothing is woven with hemp."
+    },
+    {
+      "chinese": "吃了太多辣椒(吃了太多辣椒)，手就会变得麻(手就會變得麻)。",
+      "pinyin": "Chī le tài duō làjiāo, shǒu jiù huì biàn dé má.",
+      "english": "After eating too many chili peppers, the hand becomes numb."
+    },
+    {
+      "chinese": "他跑步过后(他跑步過後)，双腿常常感到麻(雙腿常常感到麻)。",
+      "pinyin": "Tā pǎobù guòhòu, shuāngtuǐ chángcháng gǎndào má.",
+      "english": "After running, his legs often feel numb."
+    }
+  ]
+}

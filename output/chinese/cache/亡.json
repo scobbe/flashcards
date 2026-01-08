@@ -1,0 +1,33 @@
+{
+  "simplified": "亡",
+  "traditional": "亡",
+  "pinyin": "wáng",
+  "english": "perish",
+  "etymology": {
+    "type": "ideogram",
+    "description": "Line on 刀(刀) (dāo, \"knife\") indicates cutting edge -> disappearance of knowledge -> perish",
+    "interpretation": "The character 亡(wáng) visually represents the sharp, cutting edge of a knife, which metaphorically implies the loss of life or things 'perishing'. Over time, it came to signify broader concepts of disappearance and extinction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国破(國破)，家亡(家亡)。",
+      "pinyin": "Guó pò, jiā wáng.",
+      "english": "The country is broken, the family perishes."
+    },
+    {
+      "chinese": "经过激战时(經過激戰時)，士兵亡(士兵亡)。",
+      "pinyin": "Jīngguò jīzhàn shí, shìbīng wáng.",
+      "english": "During the intense battle, the soldiers perished."
+    }
+  ]
+}

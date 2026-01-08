@@ -1,0 +1,39 @@
+{
+  "simplified": "畇",
+  "traditional": "畇",
+  "pinyin": "yún",
+  "english": "even field",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "田(田) (tián, \"field\") + 匀(勻) (yún, \"even\") = even field",
+    "interpretation": "The character 畇(yún, \"even field\") uses the semantic component 田(田) (tián, \"field\") to signify agriculture or farmland, paired with the phonetic component 匀(匀) (yún, \"even\") to express the idea of a field with even or level terrain, essential for effective planting and farming.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "匀",
+      "trad": "勻",
+      "pinyin": "yún",
+      "english": "even"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "农田的畇均匀地分布着细小的庄稼(農田的畇均勻地分布著細小的莊稼)。",
+      "pinyin": "nóngtián de yún jūnyún dì fēnbù zhe xìxiǎo de zhuāngjià.",
+      "english": "The even fields in the farmland are neatly distributed with small crops."
+    },
+    {
+      "chinese": "春风拂过田野(春風拂過田野)，带动着平整的畇闪出银光(帶動著平整的畇閃出銀光)。",
+      "pinyin": "chūnfēng fúguò tiányě, dàidòng zhe píngzhěng de yún shǎnchū yínguāng.",
+      "english": "The spring breeze sweeps across the fields, causing the even fields to shine with a silvery glow."
+    }
+  ]
+}

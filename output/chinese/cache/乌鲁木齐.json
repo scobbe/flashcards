@@ -1,0 +1,39 @@
+{
+  "simplified": "乌鲁木齐",
+  "traditional": "烏魯木齊",
+  "pinyin": "Wūlǔmùqí",
+  "english": "Urumqi",
+  "etymology": {
+    "type": "compound word",
+    "description": "烏魯木齊(乌鲁木齐) is the Chinese name for the city Urumqi, the capital of the Xinjiang Uygur Autonomous Region in China.",
+    "interpretation": "Urumqi, known in Chinese as 乌鲁木齐(烏魯木齊) (Wūlǔmùqí), is the capital and largest city of the Xinjiang Uygur Autonomous Region in northwestern China. The name reflects its Uygur roots and is phonetically transliterated into Chinese.",
+    "simplification": "partial"
+  },
+  "parts": [
+    {
+      "char": "乌鲁",
+      "trad": "烏魯",
+      "pinyin": "wūlǔ",
+      "english": "Uru"
+    },
+    {
+      "char": "木齐",
+      "trad": "木齊",
+      "pinyin": "mùqí",
+      "english": "mqi"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢乌鲁木齐(烏魯木齊)。",
+      "pinyin": "Wǒ hěn xǐhuān Wūlǔmùqí.",
+      "english": "I really like Urumqi."
+    },
+    {
+      "chinese": "乌鲁木齐有悠久的历史(烏魯木齊有悠久的歷史)，文化多样性令人赞叹(文化多樣性令人讚嘆)。",
+      "pinyin": "Wūlǔmùqí yǒu yōujiǔ de lìshǐ, wénhuà duōyàngxìng lìng rén zàntàn.",
+      "english": "Urumqi has a long history, and its cultural diversity is impressive."
+    }
+  ]
+}

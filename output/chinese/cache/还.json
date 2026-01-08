@@ -1,0 +1,44 @@
+{
+  "simplified": "还",
+  "traditional": "還",
+  "pinyin": "hái",
+  "english": "still; yet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 辵(辵) (chuò, \"walk\") + phonetic 睘(睘) (qióng, \"to see clearly\") = returning, to go back",
+    "interpretation": "The character 還(還) (hái, \"return\") combines the walking radical 辵(辵) (chuò, \"walk\") with the phonetic component 睘(睘) (qióng, \"to see clearly\"), suggesting a sense of moving back to a former state or place, like seeing clearly the path back home.",
+    "simplification": "還(還) became 还(還) where 辶(辶) (chuò, \"walk\") was retained as a cursive shorthand for the movement component, and 睘 was reduced to 自(zì, \"self\"), as a simpler phonetic."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "睘",
+      "trad": "睘",
+      "pinyin": "qióng",
+      "english": "to see clearly"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他还没有来(他還沒有來)。",
+      "pinyin": "Tā hái méi yǒu lái.",
+      "english": "He still hasn't come."
+    },
+    {
+      "chinese": "考试还没有结束(考試還沒有結束)。",
+      "pinyin": "Kǎoshì hái méi yǒu jiéshù.",
+      "english": "The exam is not over yet."
+    },
+    {
+      "chinese": "他学习很努力(他學習很努力)，还希望得到好成绩(還希望得到好成績)。",
+      "pinyin": "Tā xuéxí hěn nǔlì, hái xīwàng dédào hǎo chéngjì.",
+      "english": "He studies hard, and he still hopes to achieve good grades."
+    }
+  ]
+}

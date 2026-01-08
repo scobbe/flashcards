@@ -1,0 +1,50 @@
+{
+  "simplified": "共",
+  "traditional": "共",
+  "pinyin": "gòng",
+  "english": "together",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "廾(廾) (gǒng, \"two hands\") + 口(口) (kǒu, \"an object\") = holding up an object with two hands -> 廿(廿) (niàn) replaces 口 -> fused with 廾 -> 共(共)",
+    "interpretation": "The character depicts two hands holding up an object, symbolizing 'togetherness' or 'unity.' The transformation from 口(口) (kǒu, \"an object\") to 廿(廿) (niàn) reflects a simplification in its graphic representation over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "an object"
+    },
+    {
+      "char": "廿",
+      "trad": "廿",
+      "pinyin": "niàn",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们一起共度难关(我們一起共度難關)。",
+      "pinyin": "Wǒmen yìqǐ gòngdù nánguān.",
+      "english": "We overcome hardships together."
+    },
+    {
+      "chinese": "大家共商大计(大家共商大計)。",
+      "pinyin": "Dàjiā gòngshāng dàjì.",
+      "english": "Everyone discusses the grand plan together."
+    },
+    {
+      "chinese": "我们共谋未来(我們共謀未來)。",
+      "pinyin": "Wǒmen gòng móu wèilái.",
+      "english": "We plan the future together."
+    }
+  ]
+}

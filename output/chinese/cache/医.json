@@ -1,0 +1,39 @@
+{
+  "simplified": "医",
+  "traditional": "醫",
+  "pinyin": "yī",
+  "english": "medical; heal; doctor",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "匸(匸) (xì, \"that which hides; that which stores\") + 矢(矢) (shǐ, \"arrow\") = hidden arrow -> healing",
+    "interpretation": "The character 医(醫) (yī, \"medical\") represents the concept of healing by depicting a hidden arrow. The idea is related to removing or addressing the harmful 'arrow' that might metaphorically cause illness, aligning with the role of a doctor to treat and heal.",
+    "simplification": "The traditional form 醫(醫) retains related components, while 医 (yī, \"medical\") simplifies these using 匸(匸) to maintain the core semantic elements related to healing."
+  },
+  "parts": [
+    {
+      "char": "匸",
+      "trad": "匸",
+      "pinyin": "xì",
+      "english": "that which hides; that which stores"
+    },
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他生病时(他生病時)，去看了医生(去看了醫生)。",
+      "pinyin": "Tā shēngbìng shí, qù kàn le yīshēng.",
+      "english": "When he got sick, he went to see a doctor."
+    },
+    {
+      "chinese": "她立志成为名医(她立志成為名醫)，帮助病人康复(幫助病人康復)。",
+      "pinyin": "Tā lìzhì chéngwéi míngyī, bāngzhù bìngrén kāngfù.",
+      "english": "She is determined to become a renowned doctor and help patients recover."
+    }
+  ]
+}

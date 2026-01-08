@@ -1,0 +1,44 @@
+{
+  "simplified": "瑞",
+  "traditional": "瑞",
+  "pinyin": "ruì",
+  "english": "auspicious; jade token; surname Rui",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 玉(玉) (yù, \"jade\") + phonetic: 瑞(睿) (ruì, \"bright\") = jade as a symbol of brightness and good fortune -> auspicious",
+    "interpretation": "The character 瑞(rui) combines 玉(玉) (yù, \"jade\"), symbolizing value and purity, with the original sense of brightness or clarity from the phonetic component. This association captures the idea of jade as a token of good fortune.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "睿",
+      "trad": "睿",
+      "pinyin": "ruì",
+      "english": "bright"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "瑞雪兆丰年(瑞雪兆豐年)。",
+      "pinyin": "Ruì xuě zhào fēng nián.",
+      "english": "Auspicious snowfall signifies a bountiful year."
+    },
+    {
+      "chinese": "李瑞出席晚宴(李瑞出席晚宴)。",
+      "pinyin": "Lǐ ruì chūxí wǎnyàn.",
+      "english": "Mr. Li Rui attended the dinner party."
+    },
+    {
+      "chinese": "玉器中的瑞玉十分珍贵(玉器中的瑞玉十分珍貴)。",
+      "pinyin": "Yùqì zhōng de ruì yù shífēn zhēnguì.",
+      "english": "The jade token among the jade artifacts is extremely precious."
+    }
+  ]
+}

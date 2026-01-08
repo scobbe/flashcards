@@ -1,0 +1,31 @@
+{
+  "simplified": "厶",
+  "traditional": "厶",
+  "pinyin": "sī",
+  "english": "private",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a rightward curved line representing a private or concealed space",
+    "interpretation": "The character 厶(厶) (sī, \"private\") represents a shape that suggests seclusion or enclosure, symbolizing privacy or secrecy.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "每个人都有自己的厶隐空间(每個人都有自己的厶隱空間)。",
+      "pinyin": "Měi gèrén dōu yǒu zìjǐ de sī yǐn kōngjiān.",
+      "english": "Everyone has their own private space."
+    },
+    {
+      "chinese": "请勿侵犯他人的厶权(請勿侵犯他人的厶權)，维护大家的尊严(維護大家的尊嚴)。",
+      "pinyin": "Qǐng wù qīn fàn tā rén de sī quán, wéihù dàjiā de zūnyán.",
+      "english": "Do not infringe on others' private rights, and uphold everyone's dignity."
+    },
+    {
+      "chinese": "处理公与厶时(處理公與厶時)，他总能分清界限(他總能分清界限)。",
+      "pinyin": "Chǔlǐ gōng yǔ sī shí, tā zǒng néng fēn qīng jièxiàn.",
+      "english": "When dealing with public and private matters, he always distinguishes the boundaries clearly."
+    }
+  ]
+}

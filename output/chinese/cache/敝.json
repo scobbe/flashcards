@@ -1,0 +1,44 @@
+{
+  "simplified": "敝",
+  "traditional": "敝",
+  "pinyin": "bì",
+  "english": "rags",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 廾(廾) (gǒng, \"two hands\") + phonetic: 㡀(㡀) (bì, \"cloak\") = hands holding a torn cloak -> rags",
+    "interpretation": "The character 敝(bì, \"rags\") uses the 廾(廾) (gǒng, \"two hands\") as a semantic component to indicate actions done by hands, combined with the phonetic 㡀(㡀) (bì, \"cloak\") to suggest a worn or torn piece of clothing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "㡀",
+      "trad": "㡀",
+      "pinyin": "bì",
+      "english": "cloak"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的家境贫寒(他的家境貧寒)，只能穿敝衣而已(只能穿敝衣而已)。",
+      "pinyin": "tā de jiājìng pínhán (tā de jiājìng pínhán)，zhǐ néng chuān bì yī ér yǐ (zhǐ néng chuān bì yī ér yǐ)。",
+      "english": "His family's financial situation is poor, and he can only wear rags."
+    },
+    {
+      "chinese": "他因长期劳作(他因長期勞作)，只得穿敝衣归乡(只得穿敝衣歸鄉)。",
+      "pinyin": "tā yīn chángqí láozuò (tā yīn chángqí láozuò)，zhǐ dé chuān bì yī guī xiāng (zhǐ dé chuān bì yī guī xiāng)。",
+      "english": "Because he labors for a long time, he can only return home in rags."
+    },
+    {
+      "chinese": "敝衣难遮风寒(敝衣難遮風寒)。",
+      "pinyin": "bì yī nán zhē fēng hán (bì yī nán zhē fēng hán)。",
+      "english": "Rags cannot block the cold wind."
+    }
+  ]
+}

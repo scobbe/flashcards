@@ -1,0 +1,26 @@
+{
+  "simplified": "矢",
+  "traditional": "矢",
+  "pinyin": "shǐ",
+  "english": "arrow",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an arrow",
+    "interpretation": "The character 矢(shǐ, 'arrow') is a pictogram representing an arrow. Its resemblance to arrows was more evident in ancient script forms.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拉开弓(他拉開弓)，射出一支矢(射出一支矢)。",
+      "pinyin": "Tā lā kāi gōng, shè chū yī zhī shǐ.",
+      "english": "He drew his bow and released an arrow."
+    },
+    {
+      "chinese": "古代战士用矢(古代戰士用矢)，攻破敌阵(攻破敵陣)。",
+      "pinyin": "Gǔdài zhànshì yòng shǐ, gōng pò dí zhèn.",
+      "english": "Ancient warriors used arrows to breach enemy formations."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "外卖",
+  "traditional": "外賣",
+  "pinyin": "wàimài",
+  "english": "takeout",
+  "etymology": {
+    "type": "compound word",
+    "description": "外(外) (wài, \"outside\") + 卖(賣) (mài, \"sell\")",
+    "interpretation": "The term 外卖(外賣) (wàimài) represents the concept of selling food that is meant to be eaten outside the premises of a restaurant or shop. It captures the modern convenience of ordering meals to be enjoyed elsewhere, a practice that has grown increasingly common in urban settings.",
+    "simplification": "卖 simplified to 卖"
+  },
+  "parts": [
+    {
+      "char": "外",
+      "trad": "外",
+      "pinyin": "wài",
+      "english": "outside; exterior; foreign"
+    },
+    {
+      "char": "卖",
+      "trad": "賣",
+      "pinyin": "mài",
+      "english": "sell; betray; show off"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天订了外卖(我今天訂了外賣)。",
+      "pinyin": "Wǒ jīntiān dìng le wàimài.",
+      "english": "I ordered takeout today."
+    },
+    {
+      "chinese": "工作忙碌时(工作忙碌時)，他喜欢点外卖(他喜歡點外賣)。",
+      "pinyin": "Gōngzuò mánglù shí, tā xǐhuān diǎn wàimài.",
+      "english": "When work is busy, he likes to order takeout."
+    }
+  ]
+}

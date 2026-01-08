@@ -1,0 +1,44 @@
+{
+  "simplified": "济",
+  "traditional": "濟",
+  "pinyin": "jì",
+  "english": "aid; ferry over; help; relieve",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 齐(齊) (qí, \"together/even\") = crossing or helping across water -> aid, ferry over",
+    "interpretation": "The character 济(濟) conveys the idea of aiding or crossing by associating water, essential for crossing rivers, with 齐(齊) (qí, \"together/even\"), to imply guiding or helping across. This reflects both the literal act of ferrying across water and the metaphorical sense of providing assistance.",
+    "simplification": "济 is simplified from 濟 by replacing 齊(齊) (qí, \"together/even\") with its simplified form 齐(齐). This reflects the standardization process where complex traditional components are simplified for ease of writing while retaining phonetic elements."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "齐",
+      "trad": "齊",
+      "pinyin": "qí",
+      "english": "together/even"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他济困扶危(他濟困扶危)。",
+      "pinyin": "Tā jì kùn fú wēi.",
+      "english": "He aids those in distress."
+    },
+    {
+      "chinese": "政府济急解困(政府濟急解困)，民众献爱心(民眾獻愛心)。",
+      "pinyin": "Zhèngfǔ jì jí jiě kùn, mínzhòng xiàn àixīn.",
+      "english": "The government quickly relieves the crisis, while the people donate their love."
+    },
+    {
+      "chinese": "船家济渡旅客(船家濟渡旅客)，使他们安全过河(使他們安全過河)。",
+      "pinyin": "Chuánjiā jì dù lǚkè, shǐ tāmen ānquán guò hé.",
+      "english": "The boatman ferries passengers, ensuring they safely cross the river."
+    }
+  ]
+}

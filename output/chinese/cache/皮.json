@@ -1,0 +1,26 @@
+{
+  "simplified": "皮",
+  "traditional": "皮",
+  "pinyin": "pí",
+  "english": "surface",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a surface or the skin of an animal",
+    "interpretation": "The character 皮(皮) (pí, 'surface') visually represents an animal hide or skin stretched out, emphasizing the idea of an outer covering or surface. It captures the concept of a boundary between the interior and exterior, as seen in animal skins used as material.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这张桌子的皮很光滑(這張桌子的皮很光滑)。",
+      "pinyin": "Zhè zhāng zhuōzi de pí hěn guānghuá.",
+      "english": "The surface of this table is very smooth."
+    },
+    {
+      "chinese": "新鞋的皮非常柔软(新鞋的皮非常柔軟)，适合长时间行走(適合長時間行走)。",
+      "pinyin": "Xīn xié de pí fēicháng róuruǎn, shìhé cháng shíjiān xíngzǒu.",
+      "english": "The surface of the new shoes is very soft and suitable for long walks."
+    }
+  ]
+}

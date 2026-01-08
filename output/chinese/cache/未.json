@@ -1,0 +1,31 @@
+{
+  "simplified": "未",
+  "traditional": "未",
+  "pinyin": "mèi",
+  "english": "",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tree with vertical growth not yet reaching full maturity.",
+    "interpretation": "The character 未(mèi) represents a tree that has not yet reached its full height, symbolizing the concept of 'not yet' or 'not yet fulfilled'. This pictorial representation highlights the state of incompleteness or being unfinished.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他未到家(他未到家)。",
+      "pinyin": "Tā mèi dào jiā.",
+      "english": "He has not arrived home."
+    },
+    {
+      "chinese": "我未看见他(我未看見他)，也未听到消息(也未聽到消息)。",
+      "pinyin": "Wǒ mèi kànjiàn tā, yě mèi tīngdào xiāoxī.",
+      "english": "I did not see him, nor did I hear any news."
+    },
+    {
+      "chinese": "他未明白问题(他未明白問題)。",
+      "pinyin": "Tā mèi míngbái wèntí.",
+      "english": "He did not understand the problem."
+    }
+  ]
+}

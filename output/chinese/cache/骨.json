@@ -1,0 +1,26 @@
+{
+  "simplified": "骨",
+  "traditional": "骨",
+  "pinyin": "gǔ",
+  "english": "bone",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the human spine and ribs, resembling a skeletal structure.",
+    "interpretation": "The character 骨(骨) (gǔ, \"bone\") visually represents the shape and layout of a human spine and ribs.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这根骨很坚硬(這根骨很堅硬)。",
+      "pinyin": "Zhè gēn gǔ hěn jiānyìng.",
+      "english": "This bone is very hard."
+    },
+    {
+      "chinese": "老中医观察骨的脉络(老中醫觀察骨的脈絡)，寻找健康之秘(尋找健康之秘)。",
+      "pinyin": "Lǎo zhōngyī guānchá gǔ de màiluò, xúnzhǎo jiànkāng zhī mì.",
+      "english": "The experienced Chinese doctor examines the bone structure to seek the secret of health."
+    }
+  ]
+}

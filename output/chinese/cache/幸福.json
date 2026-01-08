@@ -1,0 +1,39 @@
+{
+  "simplified": "幸福",
+  "traditional": "幸福",
+  "pinyin": "xìngfú",
+  "english": "happiness; blessed; lucky",
+  "etymology": {
+    "type": "compound word",
+    "description": "幸(幸) (xìng, \"fortunate; lucky\") + 福(福) (fú, \"blessing; good fortune\") = being fortunate and blessed, which leads to happiness.",
+    "interpretation": "The combination of being fortunate 幸(幸) (xìng) and having good fortune 福(福) (fú) perfectly captures the idea of happiness and feeling blessed. It suggests a state where favorable conditions and blessings lead to one feeling truly content and lucky.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幸",
+      "trad": "幸",
+      "pinyin": "xìng",
+      "english": "fortunate; lucky"
+    },
+    {
+      "char": "福",
+      "trad": "福",
+      "pinyin": "fú",
+      "english": "blessing; good fortune"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我追求幸福(我追求幸福)。",
+      "pinyin": "Wǒ zhuīqiú xìngfú.",
+      "english": "I pursue happiness."
+    },
+    {
+      "chinese": "家庭团聚带来幸福(家庭團聚帶來幸福)，满心喜悦溢于言表(滿心喜悅溢於言表)。",
+      "pinyin": "Jiātíng tuánjù dàilái xìngfú, mǎnxīn xǐyuè yì yú yánbiǎo.",
+      "english": "Family reunions bring happiness, and the joy is evident."
+    }
+  ]
+}

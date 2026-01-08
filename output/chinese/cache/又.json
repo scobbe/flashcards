@@ -6,26 +6,26 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a right hand",
-    "interpretation": "The character 又(yòu) directly visualizes a right hand, making it easy to remember as it looks like a hand, with the two strokes suggesting fingers.",
+    "interpretation": "The character 又(又) (yòu, \"hand\") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他以又轻扶古琴(他以又輕扶古琴)。",
-      "pinyin": "Tā yǐ yòu qīng fú gǔqín.",
-      "english": "He gently strokes the ancient zither with his hand."
+      "chinese": "「又」这个字最早来源于手(「又」這個字最早來源於手)。",
+      "pinyin": "「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。",
+      "english": "The character '又' originally comes from the hand."
     },
     {
-      "chinese": "工匠精于雕刻(工匠精於雕刻)，全赖又灵巧施艺(全賴又靈巧施藝)。",
-      "pinyin": "Gōngjiàng jīng yú diāokè, quán lài yòu língqiǎo shī yì.",
-      "english": "The artisan excels in carving, all thanks to the dexterity of his hand."
+      "chinese": "很多汉字含有又部首(很多漢字含有又部首)，表示与手有关的动作(表示與手有關的動作)。",
+      "pinyin": "Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。",
+      "english": "Many Chinese characters include the '又' radical, indicating actions related to the hand."
     },
     {
-      "chinese": "书法家以又运笔(書法家以又運筆)，绘出墨香传世(繪出墨香傳世)。",
-      "pinyin": "Shūfǎjiā yǐ yòu yùn bǐ, huì chū mòxiāng chuánshì.",
-      "english": "The calligrapher employs his hand to guide the brush, producing calligraphic works that endure."
+      "chinese": "古人用又描绘手的形态(古人用又描繪手的形態)，体现了古汉字的独特魅力(體現了古漢字的獨特魅力)。",
+      "pinyin": "Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。",
+      "english": "Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters."
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "simplified": "功",
+  "traditional": "功",
+  "pinyin": "gōng",
+  "english": "achievement; skill",
+  "etymology": {
+    "type": "phono-semantic compound and ideogrammic compound",
+    "description": "phonetic: 工(工) (gōng, \"work\") + semantic: 力(力) (lì, \"strength\") = work combined with strength -> achievement or skill",
+    "interpretation": "The character combines the idea of physical or mental work 工(工) (gōng, \"work\") with 力(力) (lì, \"strength\") to convey the concept of successfully applying effort towards an accomplishment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他勤学苦练(他勤學苦練)，练就了一身好功(練就了一身好功)。",
+      "pinyin": "Tā qín xué kǔ liàn, liàn jiù le yì shēn hǎo gōng.",
+      "english": "He studied diligently and developed excellent skills."
+    },
+    {
+      "chinese": "他凭着平时积累的功(他憑著平時積累的功)，创造了惊人的纪录(創造了驚人的紀錄)。",
+      "pinyin": "Tā píng zhe píng shí jī lěi de gōng, chuàng zào le jīng rén de jì lù.",
+      "english": "He relied on his accumulated skills to create an astonishing record."
+    }
+  ]
+}

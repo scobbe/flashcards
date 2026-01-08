@@ -1,0 +1,31 @@
+{
+  "simplified": "勿",
+  "traditional": "勿",
+  "pinyin": "wù",
+  "english": "do not",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts blood on a knife -> original character of 刎 (wěn, \"to cut\") -> jiajie for 勿 (wù, \"do not\")",
+    "interpretation": "The character 勿(wù), originally illustrated blood on a knife, visually represented the action of cutting, connecting to its initial meaning. Over time, it was borrowed to express prohibition or negation, showing the evolution beyond its pictorial roots.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "进入图书馆时(進入圖書館時)，请勿大声喧哗(請勿大聲喧嘩)。",
+      "pinyin": "Jìnrù túshūguǎn shí, qǐng wù dàshēng xuānhuá.",
+      "english": "When entering the library, please do not speak loudly."
+    },
+    {
+      "chinese": "办公区内勿吸烟(辦公區內勿吸煙)。",
+      "pinyin": "Bàngōng qū nèi wù xīyān.",
+      "english": "Do not smoke in the office area."
+    },
+    {
+      "chinese": "行路时(行路時)，勿追逐打闹(勿追逐打鬧)。",
+      "pinyin": "Xínglù shí, wù zhuīzhú dǎnào.",
+      "english": "When walking, do not engage in chasing and rough play."
+    }
+  ]
+}

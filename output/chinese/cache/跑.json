@@ -1,0 +1,44 @@
+{
+  "simplified": "跑",
+  "traditional": "跑",
+  "pinyin": "pǎo",
+  "english": "run; escape",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 足(足) (zú, \"foot\") + phonetic: 包(包) (bāo, \"wrap\") = movement involving feet -> run",
+    "interpretation": "跑(跑) (pǎo, \"run\") combines the semantic element 足(足) (zú, \"foot\"), indicating movement, with the phonetic component 包(包) (bāo, \"wrap\"), which suggests pronunciation. This pairing highlights the action of using one's feet to move rapidly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跑得很快(他跑得很快)，想赢得比赛(想贏得比賽)。",
+      "pinyin": "Tā pǎo dé hěn kuài, xiǎng yíngdé bǐsài.",
+      "english": "He runs very fast, hoping to win the race."
+    },
+    {
+      "chinese": "孩子们在操场上跑(孩子們在操場上跑)。",
+      "pinyin": "Háizimen zài cāochǎng shàng pǎo.",
+      "english": "The children are running on the playground."
+    },
+    {
+      "chinese": "危险来临时(危險來臨時)，他迅速跑向出口(他迅速跑向出口)。",
+      "pinyin": "Wēixiǎn láilín shí, tā xùnsù pǎo xiàng chūkǒu.",
+      "english": "When danger approaches, he quickly runs toward the exit."
+    }
+  ]
+}

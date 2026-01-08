@@ -1,0 +1,31 @@
+{
+  "simplified": "己",
+  "traditional": "己",
+  "pinyin": "jǐ",
+  "english": "self",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pictorial representation of a twisted rope, initially symbolizing 'self' or 'oneself'.",
+    "interpretation": "The character 己(己) (jǐ, \"self\") represents a pictogram of a twisted rope, symbolizing the idea of turning back on oneself or introspection.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "己所不欲(己所不欲)，勿施于人(勿施於人)。",
+      "pinyin": "jǐ suǒ bù yù, wù shī yú rén.",
+      "english": "Do not do unto others what you do not want done to yourself."
+    },
+    {
+      "chinese": "正视己的不足(正視己的不足)。",
+      "pinyin": "zhèng shì jǐ de bù zú.",
+      "english": "Confront and acknowledge your own shortcomings."
+    },
+    {
+      "chinese": "学会爱己(學會愛己)，才能更好地爱人(才能更好地愛人)。",
+      "pinyin": "xué huì ài jǐ, cái néng gèng hǎo de ài rén.",
+      "english": "Learn to love yourself in order to love others better."
+    }
+  ]
+}

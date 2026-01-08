@@ -1,0 +1,50 @@
+{
+  "simplified": "四季豆",
+  "traditional": "四季豆",
+  "pinyin": "sìjìdòu",
+  "english": "green bean; string bean",
+  "etymology": {
+    "type": "compound word",
+    "description": "四(四) (sì, \"four\"), 季(季) (jì, \"season\"), 豆(豆) (dòu, \"bean\") combine to describe a vegetable available throughout the year.",
+    "interpretation": "The term 四季豆 (sìjìdòu) refers to green beans or string beans, emphasizing their availability in all four seasons. This suggests that they can be grown and consumed year-round.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "四",
+      "trad": "四",
+      "pinyin": "sì",
+      "english": "four"
+    },
+    {
+      "char": "季",
+      "trad": "季",
+      "pinyin": "jì",
+      "english": "season"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我午饭吃了四季豆(我午飯吃了四季豆)。",
+      "pinyin": "Wǒ wǔfàn chīle sìjìdòu.",
+      "english": "I ate string beans for lunch."
+    },
+    {
+      "chinese": "妈妈炒四季豆(媽媽炒四季豆)，加了蒜末(加了蒜末)。",
+      "pinyin": "Māmā chǎo sìjìdòu, jiāle suàn mò.",
+      "english": "Mom stir-fried the string beans with minced garlic."
+    },
+    {
+      "chinese": "我们种了四季豆(我們種了四季豆)，享受健康生活(享受健康生活)。",
+      "pinyin": "Wǒmen zhòngle sìjìdòu, xiǎngshòu jiànkāng shēnghuó.",
+      "english": "We grew string beans, enjoying a healthy life."
+    }
+  ]
+}

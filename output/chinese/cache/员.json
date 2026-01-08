@@ -1,0 +1,44 @@
+{
+  "simplified": "员",
+  "traditional": "員",
+  "pinyin": "yuán",
+  "english": "member",
+  "etymology": {
+    "type": "simplified character",
+    "description": "Simplified from 員 (yuán, \"member\") by replacing 貝(貝) (bèi, \"cowry\") with 贝(贝) (bèi, \"cowry shell\")",
+    "interpretation": "The simplification replaced the complex 貝(貝) (bèi, \"cowry\") component with its simpler form 贝(贝) (bèi, \"cowry shell\") to create a more efficient character for modern writing.",
+    "simplification": "員(員) simplified by replacing the 貝(貝) component with 贝(贝), a reflection of reducing strokes while maintaining the original meaning."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "贝",
+      "trad": "贝",
+      "pinyin": "bèi",
+      "english": "cowry shell"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我是团队的一员(我是團隊的一員)。",
+      "pinyin": "Wǒ shì tuánduì de yī yuán.",
+      "english": "I am a member of the team."
+    },
+    {
+      "chinese": "他加入社团(他加入社團)，成为其中一员(成為其中一員)。",
+      "pinyin": "Tā jiārù shètuán, chéngwéi qízhōng yī yuán.",
+      "english": "He joined the club and became one of its members."
+    },
+    {
+      "chinese": "会议上(會議上)，每位员都有发言权(每位員都有發言權)。",
+      "pinyin": "Huìyì shàng, měi wèi yuán dōu yǒu fāyánquán.",
+      "english": "At the meeting, every member had the right to speak."
+    }
+  ]
+}

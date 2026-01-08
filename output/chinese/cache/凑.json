@@ -1,0 +1,44 @@
+{
+  "simplified": "凑",
+  "traditional": "湊",
+  "pinyin": "còu",
+  "english": "gather together; make do",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 奏(奏) (zòu) = actions associated with water flowing together -> gather together",
+    "interpretation": "The character 湊(湊) (còu, \"gather together\") uses 氵(氵) (shuǐ, \"water\") to suggest actions akin to water pooling or coming together, with 奏(奏) (zòu) providing the sound. This indicates the coming together of elements or people.",
+    "simplification": "湊(湊) was simplified to 凑(湊) by removing the water radical 氵(氵) (shuǐ, \"water\"), keeping the phonetic 奏(奏) (zòu), simplifying the structure."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "奏",
+      "trad": "奏",
+      "pinyin": "zòu",
+      "english": "perform"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们凑些钱(我們湊些錢)，买生日礼物(買生日禮物)。",
+      "pinyin": "Wǒmen còu xiē qián, mǎi shēngrì lǐwù.",
+      "english": "We gathered some money to buy a birthday gift."
+    },
+    {
+      "chinese": "他凑上邻居的钱(他湊上鄰居的錢)，解决了急事(解決了急事)。",
+      "pinyin": "Tā còu shàng lǐnjū de qián, jiějué le jíshì.",
+      "english": "He gathered money from his neighbors to deal with an urgent matter."
+    },
+    {
+      "chinese": "没有足够的材料(沒有足夠的材料)，她只好凑合做饭(她只好湊合做飯)。",
+      "pinyin": "Méiyǒu zúgòu de cáiliào, tā zhǐhǎo còu hé zuò fàn.",
+      "english": "Lacking sufficient ingredients, she had to make do with what she had to cook."
+    }
+  ]
+}

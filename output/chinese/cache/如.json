@@ -1,0 +1,44 @@
+{
+  "simplified": "如",
+  "traditional": "如",
+  "pinyin": "rú",
+  "english": "like; as if",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "女(女) (nǚ, \"woman\") + 口(口) (kǒu, \"mouth\") = semantic element (woman talking) + phonetic element (sound similar to \"rú\") -> like; as if",
+    "interpretation": "The character 如(如) (rú, \"like; as if\") combines 女(女) (nǚ, \"woman\") with 口(口) (kǒu, \"mouth\"). It suggests the idea of something resembling or being like another, possibly through speech or assertion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跑得如风一般快(他跑得如風一般快)。",
+      "pinyin": "Tā pǎo de rú fēng yībān kuài.",
+      "english": "He runs as fast as the wind."
+    },
+    {
+      "chinese": "她说话如诗般动听(她說話如詩般動聽)，举止如画般优雅(舉止如畫般優雅)。",
+      "pinyin": "Tā shuōhuà rú shī bān dòngtīng, jǔzhǐ rú huà bān yōuyǎ.",
+      "english": "She speaks as beautifully as poetry, and her demeanor is as elegant as a painting."
+    },
+    {
+      "chinese": "生活如旅程般充满未知(生活如旅程般充滿未知)，梦想如星空般璀璨(夢想如星空般璀璨)。",
+      "pinyin": "Shēnghuó rú lǚchéng bān chōngmǎn wèizhī, mèngxiǎng rú xīngkōng bān cuǐcàn.",
+      "english": "Life is as full of uncertainties as a journey, and dreams shine as brilliantly as the starry sky."
+    }
+  ]
+}

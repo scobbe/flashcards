@@ -1,0 +1,39 @@
+{
+  "simplified": "召",
+  "traditional": "召",
+  "pinyin": "zhào",
+  "english": "summon",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "刀(刀) (dāo, \"knife\") + 口(口) (kǒu, \"mouth\") = call out with one's mouth -> summon",
+    "interpretation": "Originally depicted hands over a wine vessel, symbolizing hospitality or serving wine, illustrating summoning guests. Later evolved to include 口(口) to emphasize calling out or summoning orally, while 刀(刀) serves as a phonetic marker.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国王召集忠诚的骑士(國王召集忠誠的騎士)，前往讨论国事(前往討論國事)。",
+      "pinyin": "guówáng zhàojí zhōngchéng de qíshì, qiánwǎng tǎolùn guóshì.",
+      "english": "The king summons loyal knights, heading off to discuss state affairs."
+    },
+    {
+      "chinese": "校长召见家长(校長召見家長)，讨论学生表现(討論學生表現)。",
+      "pinyin": "xiàozhǎng zhàojiàn jiāzhǎng, tǎolùn xuéshēng biǎoxiàn.",
+      "english": "The principal summons the parents to discuss the students' performance."
+    }
+  ]
+}

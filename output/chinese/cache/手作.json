@@ -1,0 +1,39 @@
+{
+  "simplified": "手作",
+  "traditional": "手作",
+  "pinyin": "shǒu zuò",
+  "english": "handmade",
+  "etymology": {
+    "type": "compound word",
+    "description": "手(手) (shǒu, \"hand\") + 作(作) (zuò, \"make\"); 手作(手作) (shǒu zuò, \"handmade\") refers to items that are crafted by hand.",
+    "interpretation": "The term 手作(手作) (shǒu zuò, \"handmade\") indicates that something is crafted manually rather than being mass-produced by machines. This conveys a sense of craftsmanship and the personal touch involved in the creation process.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "作",
+      "trad": "作",
+      "pinyin": "zuò",
+      "english": "make; create; do; work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢手作饰品(我喜歡手作飾品)。",
+      "pinyin": "Wǒ xǐhuan shǒu zuò shìpǐn.",
+      "english": "I like handmade jewelry."
+    },
+    {
+      "chinese": "这家店出售手作蛋糕(這家店出售手作蛋糕)，味道十分独特(味道十分獨特)。",
+      "pinyin": "Zhè jiā diàn chūshòu shǒu zuò dàngāo, wèidào shífēn dú tè.",
+      "english": "This shop sells handmade cakes, and they taste very unique."
+    }
+  ]
+}

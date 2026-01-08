@@ -1,0 +1,39 @@
+{
+  "simplified": "杨",
+  "traditional": "楊",
+  "pinyin": "Yáng",
+  "english": "surname Yang",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree\") + phonetic: 昜(昜) (yáng) = tree -> poplar tree, surname",
+    "interpretation": "杨(楊) (yáng) combines 木(木) (mù, \"tree\") as the semantic component indicating something related to wood or trees, with 昜(昜) (yáng), which provides the phonetic component suggesting the pronunciation. This character refers to the poplar tree and is also a common Chinese surname.",
+    "simplification": "杨(楊): The character component 鱼(魚) (yú, \"fish\") was removed in the simplified form, keeping 木(木, \"tree\") and 昜(昜, \"yáng\") for phonetic representation."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "part of the phonetic element"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "王与杨为好朋友(王與楊為好朋友)。",
+      "pinyin": "Wáng yǔ Yáng wéi hǎo péngyǒu.",
+      "english": "Wang and Yang are good friends."
+    },
+    {
+      "chinese": "杨先生来访(楊先生來訪)，带来礼物(帶來禮物)。",
+      "pinyin": "Yáng xiānshēng láifǎng, dài lái lǐwù.",
+      "english": "Mr. Yang visited and brought gifts."
+    }
+  ]
+}

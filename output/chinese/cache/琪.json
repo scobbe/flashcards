@@ -1,0 +1,39 @@
+{
+  "simplified": "琪",
+  "traditional": "琪",
+  "pinyin": "Qí",
+  "english": "fine jade; surname Qi",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 王(王) (wáng, \"king\"; indicative of jade or precious stones) + phonetic: 其(其) (qí) = phonetic element reinforces pronunciation -> fine jade",
+    "interpretation": "The character 琪(琪) combines the semantic component 王(王) indicating valuable objects like jade, with the phonetic component 其(其) to suggest the sound 'qí'. This blend conveys the idea of 'fine jade', illustrating both preciousness and correct pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这块精雕细琢的琪石(這塊精雕細琢的琪石)蕴含着大自然的灵气(蘊含著大自然的靈氣)。",
+      "pinyin": "Zhè kuài jīngdiāo xìzhuó de qí shí, yùnhánzhe dàzìrán de língqì.",
+      "english": "This finely carved piece of jade contains the natural spirit."
+    },
+    {
+      "chinese": "琪先生在国际会议上发表了重要演讲(琪先生在國際會議上發表了重要演講)。",
+      "pinyin": "Qí xiānshēng zài guójì huìyì shàng fābiǎo le zhòngyào yǎnjiǎng.",
+      "english": "Mr. Qi delivered an important speech at an international conference."
+    }
+  ]
+}

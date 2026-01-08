@@ -1,0 +1,31 @@
+{
+  "simplified": "三",
+  "traditional": "三",
+  "pinyin": "sān",
+  "english": "three",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "一(一) (yī, \"one\") triplicated -> 三(三) (sān, \"three\")",
+    "interpretation": "The character 三(三) (sān, \"three\") is an ideogram depicting the concept of the number three through the use of three parallel horizontal strokes. This straightforward representation makes it consistent with related numeric characters like 一(一) (yī, \"one\") and 二(二) (èr, \"two\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天我买了三斤苹果(今天我買了三斤蘋果)。",
+      "pinyin": "Jīntiān wǒ mǎi le sān jīn píngguǒ.",
+      "english": "Today I bought three jin of apples."
+    },
+    {
+      "chinese": "他有三支笔(他有三支筆)，我只想要其中一支(我只想要其中一支)。",
+      "pinyin": "Tā yǒu sān zhī bǐ, wǒ zhǐ xiǎng yào qízhōng yī zhī.",
+      "english": "He has three pens, but I only want one of them."
+    },
+    {
+      "chinese": "他们吃了三碗面(他們吃了三碗麵)，觉得非常满意(覺得非常滿意)。",
+      "pinyin": "Tāmen chī le sān wǎn miàn, juéde fēicháng mǎnyì.",
+      "english": "They ate three bowls of noodles and felt very satisfied."
+    }
+  ]
+}

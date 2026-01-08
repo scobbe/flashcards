@@ -1,0 +1,26 @@
+{
+  "simplified": "乌鲁",
+  "traditional": "烏魯",
+  "pinyin": "wūlǔ",
+  "english": "Uru",
+  "etymology": {
+    "type": "compound word",
+    "description": "乌(烏) (wū, \"crow; black\") and 鲁(魯) (lǔ, \"foolish; clumsy\")",
+    "interpretation": "乌鲁(烏魯) (wūlǔ) is a compound word with no direct conceptual correlation with its parts, as it serves as a transliteration. It is often used in names, such as place names like 乌鲁木齐(烏魯木齊) (Wūlǔmùqí), the capital of Xinjiang in China.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古老的乌鲁文明令人惊叹(古老的烏魯文明令人驚歎)。",
+      "pinyin": "Gǔlǎo de wūlǔ wénmíng lìng rén jīngtàn.",
+      "english": "The ancient Uru civilization is astonishing."
+    },
+    {
+      "chinese": "游客参观乌鲁遗址(遊客參觀烏魯遺址)，并记录历史(並記錄歷史)。",
+      "pinyin": "Yóukè cānguān wūlǔ yízhǐ, bìng jìlù lìshǐ.",
+      "english": "Tourists visit the Uru ruins and record history."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "毛豆",
+  "traditional": "毛豆",
+  "pinyin": "máodòu",
+  "english": "edamame",
+  "etymology": {
+    "type": "compound word",
+    "description": "毛(毛) (máo, \"hairy\") refers to the small hairs or fuzz found on the pods, and 豆(豆) (dòu, \"bean\") refers to the bean itself, which is inside the pod.",
+    "interpretation": "The term 毛豆(毛豆) (máodòu) literally means \"hairy bean,\" which describes the edamame, a young soy bean typically still in the pod. The pods are covered in fine hairs, which is why the descriptor 毛(毛) (máo, \"hairy\") is used. Edamame are popular as a snack or in dishes in East Asian cuisine.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hairy; fur; feather"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; pea; pea-like plant"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃毛豆(我喜歡吃毛豆)。",
+      "pinyin": "Wǒ xǐhuān chī máodòu.",
+      "english": "I like eating edamame."
+    },
+    {
+      "chinese": "天热时(天熱時)，一盘新鲜毛豆成为美味佳肴(一盤新鮮毛豆成為美味佳餚)。",
+      "pinyin": "Tiān rè shí, yī pán xīnxiān máodòu chéngwéi měiwèi jiāyáo.",
+      "english": "On hot days, a plate of fresh edamame becomes a delicious treat."
+    },
+    {
+      "chinese": "毛豆不仅美味(毛豆不僅美味)，而且富有营养(而且富有營養)。",
+      "pinyin": "Máodòu bù jǐn měiwèi, érqiě fùyǒu yíngyǎng.",
+      "english": "Edamame is not only delicious, but also nutritious."
+    }
+  ]
+}

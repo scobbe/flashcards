@@ -1,0 +1,44 @@
+{
+  "simplified": "气",
+  "traditional": "氣",
+  "pinyin": "qì",
+  "english": "air",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Clouds flowing through the sky -> altered to avoid confusion with 三(三) (sān, \"three\") -> 乞(乞) (qǐ, \"beg\") as a variant for phonetic borrowing",
+    "interpretation": "The character 气(qì, \"air\") started as a pictogram representing clouds in the sky, which evolved to differentiate from the character for \"three.\" Over time, 乞 was used as a variant for phonetic reasons, specifically for the meaning \"to beg.\" The meanings 'air, flow' were later borrowed from 气.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "三",
+      "trad": "三",
+      "pinyin": "sān",
+      "english": "three"
+    },
+    {
+      "char": "乞",
+      "trad": "乞",
+      "pinyin": "qǐ",
+      "english": "beg"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "房间里的气很清新(房間裡的氣很清新)。",
+      "pinyin": "Fángjiān lǐ de qì hěn qīngxīn。",
+      "english": "The air in the room is very fresh."
+    },
+    {
+      "chinese": "打开窗户(打開窗戶)，让新鲜的气进来(讓新鮮的氣進來)。",
+      "pinyin": "Dǎkāi chuānghù, ràng xīnxiān de qì jìnlái。",
+      "english": "Open the window to let fresh air in."
+    },
+    {
+      "chinese": "他深吸一口气(他深吸一口氣)，感觉心情舒畅(感覺心情舒暢)。",
+      "pinyin": "Tā shēn xī yīkǒu qì, gǎnjué xīnqíng shūchàng。",
+      "english": "He took a deep breath and felt his mood lift."
+    }
+  ]
+}

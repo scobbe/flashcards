@@ -1,0 +1,31 @@
+{
+  "simplified": "兒",
+  "traditional": "兒",
+  "pinyin": "ér",
+  "english": "child",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an infant with an imperfect cranium (fontanelle)",
+    "interpretation": "The character 兒 (ér, 'child') visually represents an infant, highlighting the soft spot on a baby's head, known as the fontanelle. This pictogram effectively conveys the idea of a young child through its depiction.",
+    "simplification": "兒 (ér) was simplified to 儿 (ér) by eliminating 臼 (jiù, 'mortar'), which represented the fontanelle, simplifying the character to represent just the form of a standing person."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个兒很聪明(這個儿很聰明)。",
+      "pinyin": "Zhè ge ér hěn cōngmíng.",
+      "english": "This child is smart."
+    },
+    {
+      "chinese": "他看见兒在公园玩耍(他看見儿在公園玩耍)，心里很高兴(心裡很高興)。",
+      "pinyin": "Tā kànjiàn ér zài gōngyuán wánshuǎ, xīn lǐ hěn gāoxìng.",
+      "english": "He saw the child playing in the park, and his heart was filled with joy."
+    },
+    {
+      "chinese": "父亲教儿学习知识(父親教儿學習知識)。",
+      "pinyin": "Fùqīn jiāo ér xuéxí zhīshi.",
+      "english": "The father teaches the child knowledge."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "羊肚菌",
+  "traditional": "羊肚菌",
+  "pinyin": "yángdùjùn",
+  "english": "morel mushroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "羊(羊) (yáng, \"sheep\") + 肚(肚) (dù, \"stomach\") + 菌(菌) (jùn, \"fungus; mushroom\")",
+    "interpretation": "The word 羊肚菌 (yángdùjùn) literally translates to 'sheep-stomach fungus'. This name is due to the appearance of the morel mushroom, which has a texture and pattern reminiscent of a sheep's stomach lining. This similarity in appearance is a typical way in Chinese to describe objects through familiar imagery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep"
+    },
+    {
+      "char": "肚",
+      "trad": "肚",
+      "pinyin": "dù",
+      "english": "stomach; belly"
+    },
+    {
+      "char": "菌",
+      "trad": "菌",
+      "pinyin": "jùn",
+      "english": "fungus; bacterium; mushroom"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今晚的汤里有羊肚菌(今晚的湯裡有羊肚菌)。",
+      "pinyin": "Jīn wǎn de tāng lǐ yǒu yángdùjùn.",
+      "english": "There are morel mushrooms in tonight's soup."
+    },
+    {
+      "chinese": "农家小院里发现了鲜嫩的羊肚菌(農家小院裡發現了鮮嫩的羊肚菌)，山路边隐约飘来诱人的香气(山路邊隱約飄來誘人的香氣)。",
+      "pinyin": "Nóngjiā xiǎoyuàn lǐ fāxiàn le xiānnèn de yángdùjùn, shānlù biān yǐnyuē piāolái yòurén de xiāngqì.",
+      "english": "In a rural courtyard, tender morel mushrooms were discovered, and along the mountain path, an enticing aroma floated."
+    },
+    {
+      "chinese": "在森林深处(在森林深處)，偶遇一群采摘羊肚菌的农人(偶遇一群採摘羊肚菌的農人)。",
+      "pinyin": "Zài sēnlín shēnchù, ǒuyù yī qún cǎizhāi yángdùjùn de nóngrén.",
+      "english": "Deep in the forest, I accidentally met a group of farmers picking morel mushrooms."
+    }
+  ]
+}

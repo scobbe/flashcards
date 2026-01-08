@@ -1,0 +1,44 @@
+{
+  "simplified": "牚",
+  "traditional": "牚",
+  "pinyin": "chēng",
+  "english": "prop up",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 尚(尚) (shàng) + semantic: 牙(牙) (yá, \"tooth\") = support or uphold -> prop up",
+    "interpretation": "The character 牚(牚) (chēng, \"prop up\") combines the phonetic element 尚(尚) (shàng) with the semantic element 牙(牙) (yá, \"tooth\") to suggest the idea of supporting something, similar to the way teeth might support a structure within the mouth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "high"
+    },
+    {
+      "char": "牙",
+      "trad": "牙",
+      "pinyin": "yá",
+      "english": "tooth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "工人用支架牚起倒塌的屋顶(工人用支架牚起倒塌的屋頂)。",
+      "pinyin": "Gōngrén yòng zhījià chēng qǐ dǎotā de wūdǐng.",
+      "english": "The workers propped up the collapsed roof with scaffolding."
+    },
+    {
+      "chinese": "他发现破损的围墙(他發現破損的圍牆)，需要用木柱牚稳(需要用木柱牚穩)。",
+      "pinyin": "Tā fāxiàn pòsǔn de wéiqiáng, xūyào yòng mùzhù chēng wěn.",
+      "english": "He found the damaged wall and needed to prop it up with wooden posts."
+    },
+    {
+      "chinese": "古籍记载昔日英雄用木桩牚起倾塌的城门(古籍記載昔日英雄用木樁牚起傾塌的城門)，激发了士气(激發了士氣)。",
+      "pinyin": "Gǔjí jìzǎi xīrì yīngxióng yòng mùzhuāng chēng qǐ qīngtā de chéngmén, jīfā le shìqì.",
+      "english": "Ancient texts record that heroes once propped up the collapsed city gate with wooden stakes, boosting morale."
+    }
+  ]
+}

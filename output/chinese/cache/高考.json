@@ -1,0 +1,39 @@
+{
+  "simplified": "高考",
+  "traditional": "高考",
+  "pinyin": "gāokǎo",
+  "english": "national college entrance exam",
+  "etymology": {
+    "type": "compound word",
+    "description": "高(高) (gāo, \"high\") + 考(考) (kǎo, \"exam\") combines to form 高考(高考) (gāokǎo, \"national college entrance exam\").",
+    "interpretation": "高考(高考) (gāokǎo, \"national college entrance exam\") is a significant assessment in China that determines university entry for students. 高(高) (gāo, \"high\") indicates the level or importance of the exam, while 考(考) (kǎo, \"exam\") explicitly states its nature as a test.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "high; tall; above average; loud"
+    },
+    {
+      "char": "考",
+      "trad": "考",
+      "pinyin": "kǎo",
+      "english": "exam; test; to verify; to check"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "高考决定命运(高考決定命運)。",
+      "pinyin": "Gāokǎo juédìng mìngyùn.",
+      "english": "The national college entrance exam determines one's destiny."
+    },
+    {
+      "chinese": "学生努力复习(學生努力複習)，希望高考取得好成绩(希望高考取得好成績)。",
+      "pinyin": "Xuéshēng nǔlì fùxí, xīwàng gāokǎo qǔdé hǎo chéngjì.",
+      "english": "Students study hard, hoping to achieve good results in the national college entrance exam."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "叔",
+  "traditional": "叔",
+  "pinyin": "shū",
+  "english": "uncle",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "Phonetic 尗 (shū, \"wooden stake\") + semantic 又 (yòu, \"hand\") = using a wooden stake to dig the ground -> phonetically borrowed for \"paternal uncle\"",
+    "interpretation": "The character 叔(shū, \"uncle\") originally depicted using a hand to plant a wooden stake, representing construction or foundation setting. This was later phonetically borrowed to refer to a \"paternal uncle\" due to similar pronunciation rather than meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尗",
+      "trad": "尗",
+      "pinyin": "shū",
+      "english": "wooden stake"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我叔爱讲笑话(我叔愛講笑話)。",
+      "pinyin": "Wǒ shū ài jiǎng xiàohuà.",
+      "english": "My uncle loves to tell jokes."
+    },
+    {
+      "chinese": "我向叔讨教古典文学(我向叔討教古典文學)，他认真地分享经验(他認真地分享經驗)。",
+      "pinyin": "Wǒ xiàng shū tǎojiào gǔdiǎn wénxué, tā rènzhēn de fēnxiǎng jīngyàn.",
+      "english": "I sought advice on classical literature from my uncle, and he seriously shared his experience."
+    }
+  ]
+}

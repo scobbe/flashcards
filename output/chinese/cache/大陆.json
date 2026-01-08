@@ -1,0 +1,44 @@
+{
+  "simplified": "大陆",
+  "traditional": "大陸",
+  "pinyin": "dàlù",
+  "english": "mainland",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big; large\") and 陆(陸) (lù, \"land\") combine to mean \"mainland.\" This refers to a large expanse of land or continent, distinct from islands.",
+    "interpretation": "The term 大陆(大陸) (dàlù, \"mainland\") is often used in contrast to islands or smaller landforms, emphasizing the vastness and primary status of the landmass.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; large"
+    },
+    {
+      "char": "陆",
+      "trad": "陸",
+      "pinyin": "lù",
+      "english": "land"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我来自大陆(我來自大陸)。",
+      "pinyin": "Wǒ láizì dàlù.",
+      "english": "I come from the mainland."
+    },
+    {
+      "chinese": "大陆经济发展迅速(大陸經濟發展迅速)。",
+      "pinyin": "Dàlù jīngjì fāzhǎn xùnsù.",
+      "english": "The mainland's economy is developing rapidly."
+    },
+    {
+      "chinese": "我们计划访问大陆(我們計劃訪問大陸)，探索这里的文化(探索這裡的文化)。",
+      "pinyin": "Wǒmen jìhuà fǎngwèn dàlù, tànsuǒ zhèlǐ de wénhuà.",
+      "english": "We plan to visit the mainland and explore the local culture."
+    }
+  ]
+}

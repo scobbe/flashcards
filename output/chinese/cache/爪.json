@@ -1,0 +1,31 @@
+{
+  "simplified": "爪",
+  "traditional": "爪",
+  "pinyin": "zhǎo",
+  "english": "claw",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand grabbing from above, resembles a claw -> stylized to represent claws",
+    "interpretation": "The character 爪(爪) (zhǎo, \"claw\") originally depicted a hand grabbing from above, stylized to resemble the form of claws.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "猫的爪非常敏捷(貓的爪非常敏捷)。",
+      "pinyin": "Māo de zhǎo fēicháng mǐnjié.",
+      "english": "The cat's claws are very agile."
+    },
+    {
+      "chinese": "狗的爪稳固(狗的爪穩固)，使它轻松爬山(使它輕鬆爬山)。",
+      "pinyin": "Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.",
+      "english": "The dog's claws are sturdy, allowing it to climb mountains easily."
+    },
+    {
+      "chinese": "鹰的爪锋利(鷹的爪鋒利)，能牢牢抓住猎物(能牢牢抓住獵物)。",
+      "pinyin": "Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.",
+      "english": "The eagle's claws are sharp, enabling it to firmly grasp its prey."
+    }
+  ]
+}

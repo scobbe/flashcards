@@ -1,0 +1,39 @@
+{
+  "simplified": "叭",
+  "traditional": "叭",
+  "pinyin": "bā",
+  "english": "trumpet sound",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 巴(巴) (bā, \"cling\") = mouth making clinging or sticky sound -> trumpet sound",
+    "interpretation": "The character 叭(bā) combines the semantic element of 口(口) (kǒu, \"mouth\") with the phonetic 巴(巴) (bā), suggesting a sound involving the mouth, reminiscent of a trumpet or similar instrument.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "cling"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "演奏会开始时(演奏會開始時)，小号发出清脆的叭声(小號發出清脆的叭聲)。",
+      "pinyin": "Yǎnzòu huì kāishǐ shí, xiǎohào fāchū qīngcuì de bā shēng.",
+      "english": "When the concert began, the trumpet produced a crisp 'bā' sound."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，远处传来叭的响声(叭的響聲)，犹如召唤记忆(猶如召喚記憶)。",
+      "pinyin": "Yèmù jiànglín shí, yuǎnchù chuán lái bā de xiǎngshēng, yóurú zhàohuàn jìyì.",
+      "english": "When night fell, a 'bā' sound echoed from afar, as if summoning memories."
+    }
+  ]
+}

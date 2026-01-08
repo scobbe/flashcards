@@ -1,0 +1,38 @@
+{
+  "simplified": "豆",
+  "traditional": "豆",
+  "pinyin": "dòu",
+  "english": "drum",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a container -> borrowed phonetically for the plant name",
+    "interpretation": "Originally depicted a container, 豆(豆) (dòu, 'drum') was phonetically borrowed to represent the plant name for beans, eventually displacing the term 菽(菽) (shū, 'pulse'). It is unrelated to the 豊(豊) (fēng, 'abundant') character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "菽",
+      "trad": "菽",
+      "pinyin": "shū",
+      "english": "pulse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "祭司敲豆奏乐(祭司敲豆奏樂)，引来神灵祝福(引來神靈祝福)。",
+      "pinyin": "Jìsī qiāo dòu zòuyuè, yǐn lái shénlíng zhùfú.",
+      "english": "The priest beats the drum, summoning divine blessings."
+    },
+    {
+      "chinese": "古风庆典上敲响豆(古風慶典上敲響豆)，唤起怀古情怀(喚起懷古情懷)。",
+      "pinyin": "Gǔfēng qìngdiǎn shàng qiāoxiǎng dòu, huànqǐ huáigǔ qínghuái.",
+      "english": "At the ancient-style celebration, the beating of the drum evokes nostalgic sentiments."
+    },
+    {
+      "chinese": "豆声震天(豆聲震天)。",
+      "pinyin": "Dòu shēng zhèntiān.",
+      "english": "The sound of the drum shakes the heavens."
+    }
+  ]
+}

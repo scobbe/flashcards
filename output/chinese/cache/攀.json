@@ -1,0 +1,39 @@
+{
+  "simplified": "攀",
+  "traditional": "攀",
+  "pinyin": "pān",
+  "english": "climb",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 樊(樊) (fán) + Semantic: 手(手) (shǒu, \"hand\") = climbing using hands -> climb",
+    "interpretation": "The character 攀(pān, \"climb\") vividly conveys the action of climbing by combining the phonetic component 樊(樊) (fán) with a depiction of a hand, emphasizing the physical effort involved.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "樊",
+      "trad": "樊",
+      "pinyin": "fán",
+      "english": ""
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他攀藤而上(他攀藤而上)。",
+      "pinyin": "Tā pān téng ér shàng.",
+      "english": "He climbs up the vines."
+    },
+    {
+      "chinese": "探险家攀登险峰(探險家攀登險峰)，追寻梦想之顶(追尋夢想之頂)。",
+      "pinyin": "Tànxiǎnjiā pāndēng xiǎnfēng, zhuīxún mèngxiǎng zhī dǐng.",
+      "english": "The adventurer climbs treacherous peaks, seeking the pinnacle of his dreams."
+    }
+  ]
+}

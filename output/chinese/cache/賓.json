@@ -1,0 +1,45 @@
+{
+  "simplified": "賓",
+  "traditional": "賓",
+  "pinyin": "bīn",
+  "english": "guest",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") in 宀(宀) (mián, \"roof\") = guest in a house + 貝(貝) (bèi, \"valuables\") added later for gift -> 賓 (bīn, \"guest\")",
+    "interpretation": "The combination of a person under a roof signifies a guest, while the addition of valuables implies the offering of gifts to a host, encapsulating the full meaning of a welcomed guest.",
+    "simplification": "賓(賓) -> 宀(宀) (mián, \"roof\") + 兵(兵) (bīng, \"soldier\") as a phonetic replacement given its simplicity and similar pronunciation, officially adopted in 1956."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "valuables"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "宴会开始前(宴會開始前)，主人已经迎接宾客(主人已經迎接賓客)。",
+      "pinyin": "Yànhuì kāishǐ qián, zhǔrén yǐjīng yíngjiē bīn kè.",
+      "english": "Before the banquet began, the host had already welcomed the guests."
+    },
+    {
+      "chinese": "宴席上的宾客热情洋溢(宴席上的賓客熱情洋溢)。",
+      "pinyin": "Yànxí shàng de bīn kè rèqíng yángyì.",
+      "english": "The guests at the banquet were full of enthusiasm."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "松树",
+  "traditional": "松樹",
+  "pinyin": "sōngshù",
+  "english": "pine tree",
+  "etymology": {
+    "type": "compound word",
+    "description": "松(松) (sōng, \"pine\") + 树(樹) (shù, \"tree\")",
+    "interpretation": "The word 松树(松樹) (sōngshù, \"pine tree\") combines 松(松) (sōng, \"pine\"), which refers to the type of tree known for its evergreen needles and cones, and 树(樹) (shù, \"tree\"), indicating a plant with a woody stem. Together, the term directly means 'pine tree,' highlighting the species of tree being described.",
+    "simplification": "松树 is the simplified form of 松樹."
+  },
+  "parts": [
+    {
+      "char": "松",
+      "trad": "松",
+      "pinyin": "sōng",
+      "english": "pine"
+    },
+    {
+      "char": "树",
+      "trad": "樹",
+      "pinyin": "shù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是一棵高大的松树(這是一棵高大的松樹)。",
+      "pinyin": "Zhè shì yī kē gāodà de sōngshù.",
+      "english": "This is a tall pine tree."
+    },
+    {
+      "chinese": "秋风扫过山坡(秋風掃過山坡)，带来松树的清香(帶來松樹的清香)。",
+      "pinyin": "Qiūfēng sǎoguò shānpō, dàilái sōngshù de qīngxiāng.",
+      "english": "The autumn wind sweeps over the hill, carrying the fresh scent of pine trees."
+    }
+  ]
+}

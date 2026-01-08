@@ -1,0 +1,39 @@
+{
+  "simplified": "具",
+  "traditional": "具",
+  "pinyin": "jù",
+  "english": "tool; implement",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 目(目) (mù, \"eye\") provides idea of observing or inspecting + phonetic: 禹(禹) (yǔ) suggests pronunciation = tool or implement -> something for inspection or use",
+    "interpretation": "The character 常(常) (cháng, \"often\") conveys the sense of being equipped or complete, integrating both observation (目) and utility (from 万). This association makes intuitive sense for a character that means 'tool' or 'implement' as it suggests both functionality and the ability to execute tasks.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "禹",
+      "trad": "禹",
+      "pinyin": "yǔ",
+      "english": "name of an ancient Chinese ruler"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工匠使用精致的具打造艺术品(工匠使用精緻的具打造藝術品)。",
+      "pinyin": "Gōngjiàng shǐyòng jīngzhì de jù dǎzào yìshùpǐn.",
+      "english": "The craftsman uses exquisite implements to create art pieces."
+    },
+    {
+      "chinese": "他把新具收纳在工具箱里(他把新具收納在工具箱裏)，以便随时使用(以便隨時使用)。",
+      "pinyin": "Tā bǎ xīn jù shōunà zài gōngjùxiāng lǐ, yǐbiàn suíshí shǐyòng.",
+      "english": "He stores the new tool in the toolbox, so that it is available for use at any time."
+    }
+  ]
+}

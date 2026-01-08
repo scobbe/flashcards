@@ -1,0 +1,44 @@
+{
+  "simplified": "金竹果",
+  "traditional": "金竹果",
+  "pinyin": "jīn zhú guǒ",
+  "english": "jinzhu fruit",
+  "etymology": {
+    "type": "compound word",
+    "description": "金(金) (jīn, \"gold\"), 竹果(竹果) (zhú guǒ, \"jinzhu fruit\")",
+    "interpretation": "金(金) (jīn, \"gold\") likely refers to the color or value associated with the fruit, while 竹果(竹果) (zhú guǒ, \"jinzhu fruit\") is the specific name for this type of fruit. Together, they form the name of a specific fruit known for its valuable or golden characteristics.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal; currency"
+    },
+    {
+      "char": "竹果",
+      "trad": "竹果",
+      "pinyin": "zhú guǒ",
+      "english": "jinzhu fruit"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "金竹果是一种罕见而美味的水果(金竹果是一種罕見而美味的水果)。",
+      "pinyin": "Jīn zhú guǒ shì yī zhǒng hǎn jiàn ér měi wèi de shuǐ guǒ.",
+      "english": "The jinzhu fruit is a rare and delicious fruit."
+    },
+    {
+      "chinese": "我听说金竹果(我聽說金竹果)，富含天然糖分(富含天然糖分)。",
+      "pinyin": "Wǒ tīng shuō jīn zhú guǒ, fù hán tiān rán táng fèn.",
+      "english": "I heard that the jinzhu fruit is rich in natural sugars."
+    },
+    {
+      "chinese": "在热带地区(在熱帶地區)，金竹果生长旺盛(金竹果生長旺盛)。",
+      "pinyin": "Zài rè dài dì qū, jīn zhú guǒ shēng zhǎng wàng shèng.",
+      "english": "In tropical regions, the jinzhu fruit grows vigorously."
+    }
+  ]
+}

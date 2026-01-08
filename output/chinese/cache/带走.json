@@ -1,0 +1,44 @@
+{
+  "simplified": "带走",
+  "traditional": "帶走",
+  "pinyin": "dàizǒu",
+  "english": "take away",
+  "etymology": {
+    "type": "compound word",
+    "description": "带(帶) (dài, \"carry\") and 走(走) (zǒu, \"walk\"; \"go\").",
+    "interpretation": "The word 带走(帶走) (dàizǒu, \"take away\") combines 带(帶) (dài, \"carry\") and 走(走) (zǒu, \"walk\"; \"go\"). This suggests the idea of carrying something or someone with you as you leave or walk away.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "带",
+      "trad": "帶",
+      "pinyin": "dài",
+      "english": "carry; bring; belt; lead"
+    },
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "walk; go; move"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈把玩具带走了(媽媽把玩具帶走了)。",
+      "pinyin": "Māmā bǎ wánjù dàizǒu le.",
+      "english": "Mom took away the toys."
+    },
+    {
+      "chinese": "警察把嫌疑人带走了(警察把嫌疑人帶走了)。",
+      "pinyin": "Jǐngchá bǎ xiányírén dàizǒu le.",
+      "english": "The police took away the suspect."
+    },
+    {
+      "chinese": "他把旧照片带走(他把舊照片帶走)，留下一段回忆(留下一段回憶)。",
+      "pinyin": "Tā bǎ jiù zhàopiàn dàizǒu, liú xià yíduàn huíyì.",
+      "english": "He took away the old photographs, leaving behind a memory."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[辟]
+In the oracle bone script, it is an ideogrammic compound ( 會意 / 会意 ): 卩 ( “ kneeling person ” ) + 䇂 ( “ sickle-like tool ” ) – to administer; to regulate; to punish.
+〇 was sometimes added, though its function is disputed:
+• Lin (1920) suggests that it represents “bind; restrain”.
+• Luo (1927) suggests that it is the original character for 璧 ( OC *peɡ , “jade annulus”) and that 辟 is the early form of 璧 , with 〇 as the semantic component and ⿰卩䇂 as the phonetic component. Chi (2010) , based on this theory, proposes that 〇 acted as a phonetic component in 辟 instead.
+• Yu (1999) suggests that it is a decorative component with no meaning.
+〇 was later corrupted into 口 or 日 . Shuowen interprets 口 as representing the enforcer of the law.
+In the bronze script from the Warring States period , forms where 䇂 is corrupted to 辛 begin to appear ( Chi, 2010 ).
+Officially adopted as the simplified form of 闢 in the Chinese Character Simplification Scheme ( 《 漢字簡化方案 》 ) in 1956 due to homophony and shared semantic fields.
+
+[闢]
+In the bronze script , an ideogrammic compound ( 會意 / 会意 ): 門 ( “ door ” ) + 𠬜 ( “ two hands pushing open the door ” ) – to open.
+Since the seal script , now a phono-semantic compound ( 形聲 / 形声 , OC *beɡ ): semantic 門 + phonetic 辟 ( OC *peɡ, *pʰeɡ, *beɡ ) .
+Compare 開 .

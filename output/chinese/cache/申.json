@@ -1,0 +1,31 @@
+{
+  "simplified": "申",
+  "traditional": "申",
+  "pinyin": "shēn",
+  "english": "to extend",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person extending the body as if stretching or reaching upwards",
+    "interpretation": "The character 申(申) (shēn, \"to extend\") visually captures the image of a person stretching or reaching upwards, which directly relates to its meaning of extending or reaching.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "图书馆将借阅期限申延(圖書館將借閱期限申延)。",
+      "pinyin": "Túshūguǎn jiāng jièyù qíxiàn shēn yán.",
+      "english": "The library will extend the borrowing period."
+    },
+    {
+      "chinese": "节日来临之际(節日來臨之際)，商家纷纷将优惠时间申长(商家紛紛將優惠時間申長)。",
+      "pinyin": "Jiérì láilín zhī jì, shāngjiā fēnfēn jiāng yōuhuì shíjiān shēn cháng.",
+      "english": "As the holiday approaches, merchants have extended their promotional periods."
+    },
+    {
+      "chinese": "老师建议学生将创意申延(老師建議學生將創意申延)，以迎接挑战(以迎接挑戰)。",
+      "pinyin": "Lǎoshī jiànyì xuéshēng jiāng chuàngyì shēn yán, yǐ yíngjiē tiǎozhàn.",
+      "english": "The teacher suggested that students extend their creativity to meet the challenge."
+    }
+  ]
+}

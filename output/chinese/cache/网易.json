@@ -1,0 +1,44 @@
+{
+  "simplified": "网易",
+  "traditional": "網易",
+  "pinyin": "Wǎng Yì",
+  "english": "NetEase",
+  "etymology": {
+    "type": "compound word",
+    "description": "網(網) (wǎng, \"net\") + 易(易) (yì, \"easy; exchange\") form the name of the Chinese internet technology company NetEase. The name suggests the company's foundational focus on internet technology and the concept of facilitating interactions or exchanges online.",
+    "interpretation": "The combination of 網(網) (wǎng, \"net\"), referring to the internet, and 易(易) (yì, \"easy\"), implies a focus on simplifying and facilitating online interactions, aligning with NetEase's core business in internet services.",
+    "simplification": "網易 is simplified to 网易."
+  },
+  "parts": [
+    {
+      "char": "网",
+      "trad": "網",
+      "pinyin": "wǎng",
+      "english": "net"
+    },
+    {
+      "char": "易",
+      "trad": "易",
+      "pinyin": "yì",
+      "english": "easy; exchange"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "网易是一家知名的互联网公司(網易是一家知名的互聯網公司)。",
+      "pinyin": "Wǎng Yì shì yī jiā zhīmíng de hùliánwǎng gōngsī.",
+      "english": "NetEase is a well-known internet company."
+    },
+    {
+      "chinese": "我常使用网易邮箱(我常使用網易郵箱)。",
+      "pinyin": "Wǒ cháng shǐyòng Wǎng Yì yóuxiāng.",
+      "english": "I often use NetEase Mail."
+    },
+    {
+      "chinese": "网易产品不断更新(網易產品不斷更新)，满足用户需求(滿足用戶需求)。",
+      "pinyin": "Wǎng Yì chǎnpǐn bùduàn gēngxīn, mǎnzú yònghù xūqiú.",
+      "english": "NetEase's products are continuously updated, meeting the needs of users."
+    }
+  ]
+}

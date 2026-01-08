@@ -1,0 +1,44 @@
+{
+  "simplified": "声",
+  "traditional": "聲",
+  "pinyin": "shēng",
+  "english": "sound; voice",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 殸 (qīng, 'sound of metal or stone') + semantic: 耳(耳) (ěr, 'ear') = sound perceived by the ear -> sound; voice",
+    "interpretation": "The character 聲 combines the sound-related context provided by 殸 and the perception aspect represented by 耳, underlining that sound is something heard by the ear.",
+    "simplification": "声(聲): The component 殸(殸) (qīng, 'sound of metal or stone') was omitted, simplifying the character while retaining the primary semantic aspect 口(口) (kǒu, 'mouth') from the singing component."
+  },
+  "parts": [
+    {
+      "char": "殸",
+      "trad": "殸",
+      "pinyin": "qīng",
+      "english": "sound of metal or stone"
+    },
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的声音非常好听(他的聲音非常好聽)。",
+      "pinyin": "Tā de shēngyīn fēicháng hǎotīng。",
+      "english": "His voice is very pleasant."
+    },
+    {
+      "chinese": "音乐产生美妙的声音(音樂產生美妙的聲音)，唤醒了沉睡的心灵(喚醒了沉睡的心靈)。",
+      "pinyin": "Yīnyuè chǎnshēng měimiào de shēngyīn, huànxǐng le chénshuì de xīnlíng。",
+      "english": "Music produces beautiful sounds, awakening the sleeping soul."
+    },
+    {
+      "chinese": "悠扬的琴声在房间里回荡(悠揚的琴聲在房間裏回蕩)，伴着月光显得宁静(伴著月光顯得寧靜)。",
+      "pinyin": "Yōuyáng de qínshēng zài fángjiān lǐ huídàng, bànzhe yuèguāng xiǎnde níngjìng。",
+      "english": "The melodious sound of the lute echoes in the room, and with the moonlight it appears tranquil."
+    }
+  ]
+}

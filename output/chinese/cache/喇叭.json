@@ -1,0 +1,39 @@
+{
+  "simplified": "喇叭",
+  "traditional": "喇叭",
+  "pinyin": "lǎbā",
+  "english": "horn; trumpet",
+  "etymology": {
+    "type": "compound word",
+    "description": "喇(喇) (lǎ, \"horn; sound of a trumpet\") and 叭(叭) (bā, \"trumpet sound\") combine to form \"喇叭(喇叭)\" (lǎbā, \"horn; trumpet\").",
+    "interpretation": "The word 喇叭(喇叭) (lǎbā, \"horn; trumpet\") consists of two components both associated with sound or musical noise, emphasizing the loud, attention-grabbing effect of a horn or trumpet.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "喇",
+      "trad": "喇",
+      "pinyin": "lǎ",
+      "english": "horn; sound of a trumpet"
+    },
+    {
+      "char": "叭",
+      "trad": "叭",
+      "pinyin": "bā",
+      "english": "trumpet sound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "司机按喇叭叫停闯红灯的人(司機按喇叭叫停闖紅燈的人)。",
+      "pinyin": "Sījī àn lǎbā jiào tíng chuǎng hóngdēng de rén.",
+      "english": "The driver honked the horn to stop the person running a red light."
+    },
+    {
+      "chinese": "音乐会上(音樂會上)，喇叭和小号演奏出激昂的旋律(喇叭和小號演奏出激昂的旋律)。",
+      "pinyin": "Yīnyuè huì shàng, lǎbā hé xiǎohào yǎnzòu chū jī'áng de xuánlǜ.",
+      "english": "At the concert, the horn and the trumpet played an inspiring melody."
+    }
+  ]
+}

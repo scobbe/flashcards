@@ -1,0 +1,39 @@
+{
+  "simplified": "很",
+  "traditional": "很",
+  "pinyin": "hěn",
+  "english": "very; quite; much; to a large extent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 彳(彳) (chì, \"step\") + Phonetic: 艮(艮) (gèn, \"stopping\") = very -> to a large extent",
+    "interpretation": "The character 很(hěn) combines 彳(彳) (chì, \"step\"), suggesting movement or continuation, with 艮(艮) (gèn, \"stopping\"), which provides the pronunciation. This juxtaposition reflects something significant—hence the meaning 'very' or 'to a large extent.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stopping"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他很勤劳(他很勤勞)。",
+      "pinyin": "Tā hěn qínláo.",
+      "english": "He is very hardworking."
+    },
+    {
+      "chinese": "今天很热(今天很熱)，我们很享受夏天(我們很享受夏天)。",
+      "pinyin": "Jīntiān hěn rè, wǒmen hěn xiǎngshòu xiàtiān.",
+      "english": "It is very hot today, and we really enjoy the summer."
+    }
+  ]
+}

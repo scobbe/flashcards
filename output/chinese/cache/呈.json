@@ -1,0 +1,44 @@
+{
+  "simplified": "呈",
+  "traditional": "呈",
+  "pinyin": "chéng",
+  "english": "present",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口(口) (kǒu, \"mouth\") + phonetic: 壬(壬) (rén, \"ninth heavenly stem\") = speak about the ninth heavenly stem -> to present",
+    "interpretation": "The character 呈(呈) (chéng, \"present\") combines 口(口) (kǒu, \"mouth\") for the act of speaking or presenting and 壬(壬) (rén, \"ninth heavenly stem\"), which serves as the phonetic component. Together, these elements convey the idea of presenting or showing something, typically through verbal communication.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "壬",
+      "trad": "壬",
+      "pinyin": "rén",
+      "english": "ninth heavenly stem"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他向领导呈上报告(他向領導呈上報告)。",
+      "pinyin": "Tā xiàng lǐngdǎo chéng shàng bàogào.",
+      "english": "He presented the report to his leader."
+    },
+    {
+      "chinese": "数据呈明显增长(數據呈明顯增長)。",
+      "pinyin": "Shùjù chéng míngxiǎn zēngzhǎng.",
+      "english": "The data shows a significant increase."
+    },
+    {
+      "chinese": "这幅画呈出浓厚的情感(這幅畫呈出濃厚的情感)。",
+      "pinyin": "Zhè fú huà chéng chū nónghòu de qínggǎn.",
+      "english": "This painting presents intense emotions."
+    }
+  ]
+}

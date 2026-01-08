@@ -1,0 +1,31 @@
+{
+  "simplified": "夂",
+  "traditional": "夂",
+  "pinyin": "zhǐ",
+  "english": "go",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a foot in motion -> go",
+    "interpretation": "The character 夂(夂) (zhǐ, \"go\") visually represents a foot taking a step, signifying movement or the action of going. This character captures the essential concept of movement through its simplistic depiction.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "旅人夂向远方(旅人夊向遠方)。",
+      "pinyin": "Lǚrén zhǐ xiàng yuǎnfāng.",
+      "english": "The traveler goes toward the distance."
+    },
+    {
+      "chinese": "学者夂求知(學者夊求知)，心怀天下(心懷天下)。",
+      "pinyin": "Xuézhě zhǐ qiúzhī, xīn huái tiānxià.",
+      "english": "The scholar goes seeking knowledge, with a heart embracing the world."
+    },
+    {
+      "chinese": "杜甫夂于长安(杜甫夊於長安)，吟诗抒怀(吟詩抒懷)。",
+      "pinyin": "Dùfǔ zhǐ yú Cháng'ān, yín shī shūhuái.",
+      "english": "Du Fu goes in Chang'an, reciting poetry to express his emotions."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "甜菜",
+  "traditional": "甜菜",
+  "pinyin": "tiáncài",
+  "english": "beet",
+  "etymology": {
+    "type": "compound word",
+    "description": "甜(甜) (tián, \"sweet\") + 菜(菜) (cài, \"vegetable\")",
+    "interpretation": "甜菜(甜菜) (tiáncài, \"beet\") is named for its sweet flavor, which is notable in beets. The use of 甜(甜) (tián, \"sweet\") reflects the characteristic taste, while 菜(菜) (cài, \"vegetable\") indicates it is a plant used in food.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甜",
+      "trad": "甜",
+      "pinyin": "tián",
+      "english": "sweet"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine; greens"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一些甜菜(我買了一些甜菜)。",
+      "pinyin": "Wǒ mǎile yīxiē tiáncài.",
+      "english": "I bought some beets."
+    },
+    {
+      "chinese": "甜菜富含维生素(甜菜富含維生素)，颜色鲜艳(顏色鮮豔)。",
+      "pinyin": "Tiáncài fùhán wéishēngsù, yánsè xiānyàn.",
+      "english": "Beets are rich in vitamins, and their color is vibrant."
+    }
+  ]
+}

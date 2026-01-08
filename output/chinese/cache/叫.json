@@ -1,0 +1,44 @@
+{
+  "simplified": "叫",
+  "traditional": "叫",
+  "pinyin": "jiào",
+  "english": "call; shout",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 丩(丩) (jiū, \"twist\") = sound produced by mouth -> call; shout",
+    "interpretation": "The character 叫(叫) (jiào, \"call; shout\") combines 口(口), representing a mouth making sounds, with 丩(丩), a phonetic element. This reflects the act of shouting or calling, which involves using the mouth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "丩",
+      "trad": "丩",
+      "pinyin": "jiū",
+      "english": "twist"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈叫我吃饭(媽媽叫我吃飯)。",
+      "pinyin": "Māmā jiào wǒ chīfàn。",
+      "english": "Mom calls me to eat."
+    },
+    {
+      "chinese": "他叫朋友快来(他叫朋友快來)，以免错过盛会(以免錯過盛會)。",
+      "pinyin": "Tā jiào péngyǒu kuài lái, yǐmiǎn cuòguò shènghuì。",
+      "english": "He calls his friend to come quickly, so as not to miss the grand event."
+    },
+    {
+      "chinese": "校长叫学生认真听讲(校長叫學生認真聽講)。",
+      "pinyin": "Xiàozhǎng jiào xuéshēng rènzhēn tīngjiǎng。",
+      "english": "The principal calls the students to listen attentively."
+    }
+  ]
+}

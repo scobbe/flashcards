@@ -1,0 +1,6 @@
+[睪]
+It traces back to oracle bone script glyphs, denoted here as ⿱㚔廾 and ⿱㚔𠬜 for typesetting convenience. These two variants depict a handcuff 㚔 and a pair of hands 廾 or 𠬜 placed on each side, likely denoting “to release” ( 釋 ), especially considering the position of hands in 𠬜 are facing away the handcuffs ( Qiu, 1993 ; Chen, 2015 ).
+Commonly used in bronze inscriptions to denote { 擇 } “to pick” (ibid.), as { 擇 } “to pick” and { 釋 } “to release” are etymologically and semantically related ( Yu and Yang, 2023 citing Liu, 2014). A composition with an eye ( 目 ) added appeared in as late as Eastern Zhou bronze inscriptions (as 𢍰 ). It probably serves to fortify the denoting of picking (with eyes) ( Chang, 2016 ; Yu and Yang, 2023 ). In the same period, a composition with hand omitted appeared, giving rise to the current glyph 目 ( “ eye ” ) + 㚔 ( “ handcuff ” ) (ibid.).
+
+[澤]
+Phono-semantic compound ( 形聲 / 形声 , OC *rlaːɡ ): semantic 水 ( “ water ” ) + phonetic 睪 ( OC *neb, *laːɡ, *kuː ) .

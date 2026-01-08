@@ -1,0 +1,31 @@
+{
+  "simplified": "贝",
+  "traditional": "貝",
+  "pinyin": "bèi",
+  "english": "cowry shell",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cowrie shell, used as currency in ancient China -> cowry shell",
+    "interpretation": "The character 贝(貝) (bèi, 'cowry shell') visually represents a cowrie, which was used as a form of currency. This pictographic representation makes it easily recognizable.",
+    "simplification": "The simplified form 贝(貝) is essentially a cursive shorthand of the traditional 貝, retaining the same visual representation but with fewer strokes."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在海滩上发现贝(在海灘上發現貝)，带来好运(帶來好運)。",
+      "pinyin": "Zài hǎitān shàng fāxiàn bèi, dài lái hǎoyùn.",
+      "english": "Finding a cowry shell on the beach brings good luck."
+    },
+    {
+      "chinese": "古人用贝交换物品(古人用貝交換物品)。",
+      "pinyin": "Gǔrén yòng bèi jiāohuàn wùpǐn.",
+      "english": "Ancient people exchanged cowry shells for goods."
+    },
+    {
+      "chinese": "博物馆里陈列着各种贝(博物館裡陳列著各種貝)，展示古人的生活(展示古人的生活)。",
+      "pinyin": "Bówùguǎn lǐ chénliè zhe gè zhǒng bèi, zhǎnshì gǔrén de shēnghuó.",
+      "english": "Various cowry shells are exhibited in the museum, showcasing the life of ancient people."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "浴",
+  "traditional": "浴",
+  "pinyin": "yù",
+  "english": "bathe; immerse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 谷(谷) (gǔ, \"valley\") = valley filled with water -> bathe",
+    "interpretation": "The character 浴(浴) (yù, \"bathe\") combines the semantic component 氵(氵) (shuǐ, \"water\") indicating relation to liquid and the phonetic component 谷(谷) (gǔ, \"valley\"). This suggests a place where water collects, such as a valley filled with water, an apt metaphor for bathing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "谷",
+      "trad": "谷",
+      "pinyin": "gǔ",
+      "english": "valley"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在浴室里洗澡(他在浴室裡洗澡)。",
+      "pinyin": "Tā zài yùshì lǐ xǐzǎo.",
+      "english": "He bathes in the bathroom."
+    },
+    {
+      "chinese": "黄昏时他在温泉浴池中沐浴(黃昏時他在溫泉浴池中沐浴)，忘却一天烦恼(忘卻一天煩惱)。",
+      "pinyin": "Huánghūn shí tā zài wēnquán yùchí zhōng mùyù, wàngquè yītiān fánnǎo.",
+      "english": "At dusk, he bathes in the hot spring pool and forgets the troubles of the day."
+    },
+    {
+      "chinese": "她享受晨浴后的清新(她享受晨浴後的清新)。",
+      "pinyin": "Tā xiǎngshòu chén yù hòu de qīngxīn.",
+      "english": "She enjoys the freshness after her morning bath."
+    }
+  ]
+}

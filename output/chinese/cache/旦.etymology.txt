@@ -2,3 +2,14 @@
 Ideogrammic compound ( 會意 / 会意 ): 日 + 丁 , in which 丁 indicates the pronunciation.
 According to Shuowen Jiezi, the sun ( 日 ) appearing over the horizon ( 一 ). However, this version is not the original one and this interpretation belongs to folk etymology. This simplification is the same that appears in 正 .
 Unrelated to the top component of 得 . Also unrelated to 查 .
+
+[蛋]
+Phono-semantic compound ( 形聲 / 形声 , OC *l'aːns ): phonetic 延 ( OC *lan, *lans ) + semantic 虫 ( “ snake, insect ” ) . Hence, the non-contracted form is 蜑 . It means "egg", with a reference to snake eggs. In the current version, 延 is abbreviated to 疋 .
+This character was coined at a late stage in Chinese, since it is unattested on oracle bones, bronzes, Shuowen Jiezi and Guangyun.
+
+[疍]
+variant form of 蜑
+
+[蜑]
+Phono-semantic compound ( 形聲 / 形声 , OC *l'aːnʔ ): phonetic 延 ( OC *lan, *lans ) + semantic 虫 ( “ snake ” ) .
+Compare 閩 ／ 闽 (“ Min ”).

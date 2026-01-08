@@ -1,0 +1,26 @@
+{
+  "simplified": "𣬉",
+  "traditional": "𣬉",
+  "pinyin": "zhā",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "pictogram",
+    "description": "The character 𣬉 is a pictogram showing a plaited hair braid, which is indicative of its usage primarily as a phonetic component in various other Chinese characters.",
+    "interpretation": "𣬉 depicts braided hair and is used as a phonetic element in other characters, but it doesn't carry a specific meaning independently.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个汉字利用了𣬉作声旁(這個漢字利用了𣬉作聲旁)。",
+      "pinyin": "Zhège hànzì lìyòng le zhā zuò shēngpáng.",
+      "english": "This Chinese character uses 𣬉 as its phonetic component."
+    },
+    {
+      "chinese": "传统字学认为𣬉是声旁的重要代表(傳統字學認為𣬉是聲旁的重要代表)。",
+      "pinyin": "Chuántǒng zì xué rènwéi zhā shì shēngpáng de zhòngyào dàibiǎo.",
+      "english": "Traditional Chinese philology considers 𣬉 an important phonetic component."
+    }
+  ]
+}

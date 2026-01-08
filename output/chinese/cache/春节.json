@@ -1,0 +1,39 @@
+{
+  "simplified": "春节",
+  "traditional": "春節",
+  "pinyin": "Chūn Jié",
+  "english": "Spring Festival",
+  "etymology": {
+    "type": "compound word",
+    "description": "春(春) (chūn, \"spring\") and 節(節) (jié, \"festival\") combine directly to mean \"Spring Festival.\" 春(春) (chūn, \"spring\") refers to the season marking new beginnings and renewal, and 節(節) (jié, \"festival\") signifies a celebratory time or occasion. The Spring Festival is a major holiday in Chinese culture, celebrated with various customs and traditions.",
+    "interpretation": "The combination of 春(春) (chūn, \"spring\") and 節(節) (jié, \"festival\") makes sense as the festival is celebrated at the beginning of the new lunar year during the spring season, marking renewal and new beginnings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "春",
+      "trad": "春",
+      "pinyin": "chūn",
+      "english": "spring"
+    },
+    {
+      "char": "节",
+      "trad": "節",
+      "pinyin": "jié",
+      "english": "festival; node; joint; segment"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春节是中国最重要的节日(春節是中國最重要的節日)。",
+      "pinyin": "Chūn Jié shì Zhōngguó zuì zhòngyào de jiérì.",
+      "english": "The Spring Festival is the most important festival in China."
+    },
+    {
+      "chinese": "家人团聚过春节(家人團聚過春節)，共享美食庆佳节(共享美食慶佳節)。",
+      "pinyin": "Jiārén tuánjù guò Chūn Jié, gòngxiǎng měishí qìng jiājié.",
+      "english": "Family gathers during the Spring Festival and enjoys delicious food to celebrate the holiday."
+    }
+  ]
+}

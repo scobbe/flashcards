@@ -1,0 +1,26 @@
+{
+  "simplified": "镸",
+  "traditional": "長",
+  "pinyin": "cháng",
+  "english": "long",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a long object, originally a long body or vessel -> long",
+    "interpretation": "The character 镸(長) (cháng, 'long') visually represents the concept of length, resembling an elongated form. This image embodies the essence of length or extension in time and space.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这条路很镸(長)。",
+      "pinyin": "Zhè tiáo lù hěn cháng.",
+      "english": "This road is very long."
+    },
+    {
+      "chinese": "从学校到家距离很镸(長)，步行需要半小时(半小時)。",
+      "pinyin": "Cóng xuéxiào dào jiā jùlí hěn cháng, bùxíng xūyào bàn xiǎoshí.",
+      "english": "The distance from school to home is very long, and it takes half an hour to walk."
+    }
+  ]
+}

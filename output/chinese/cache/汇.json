@@ -1,0 +1,39 @@
+{
+  "simplified": "汇",
+  "traditional": "匯",
+  "pinyin": "huì",
+  "english": "collection; to collect",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 匚(匚) (fāng, \"box\") = water flowing together -> to collect, to converge",
+    "interpretation": "The character 汇(匯) combines the semantic element of water, suggesting flow or gathering, with a phonetic component suggesting containment, which together convey the idea of collecting or converging, much like water pooling together.",
+    "simplification": "汇(匯): The simplified form uses 匚(匚) (fāng, \"box\") as a direct visual and phonetic component, replacing 龠(龠) (yuè, \"flute\") for a more concise representation."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "匚",
+      "trad": "匚",
+      "pinyin": "fāng",
+      "english": "box"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每天在图书馆收集文献(他每天在圖書館收集文獻)，汇成一部史诗(彙成一部史詩)。",
+      "pinyin": "Tā měitiān zài túshūguǎn shōují wénxiàn huì chéng yī bù shǐshī.",
+      "english": "He collects documents in the library every day and turns them into an epic."
+    },
+    {
+      "chinese": "邮局每天汇集邮件(郵局每天彙集郵件)，统一分送到各地(統一分送到各地)。",
+      "pinyin": "Yóujú měitiān huìjí yóujiàn, tǒngyī fēnsòng dào gèdì.",
+      "english": "The post office gathers mail every day and uniformly distributes it to various regions."
+    }
+  ]
+}

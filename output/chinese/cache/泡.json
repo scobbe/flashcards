@@ -1,0 +1,39 @@
+{
+  "simplified": "泡",
+  "traditional": "泡",
+  "pinyin": "pào",
+  "english": "bubble; foam; blister",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 包(包) (bāo) = water-like appearance of foam -> bubble; foam; blister",
+    "interpretation": "The character 泡(pào, \"bubble; foam; blister\") combines 氵(氵) (shuǐ, \"water\") to indicate its watery nature with 包(包) (bāo) providing the sound component, effectively representing the concept of foam or bubbles forming on water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "汤沸腾时会产生很多泡(湯沸騰時會產生很多泡)。",
+      "pinyin": "Tāng fèiténg shí huì chǎnshēng hěnduō pào.",
+      "english": "When the soup boils, many bubbles form."
+    },
+    {
+      "chinese": "他的手被烫出一个大泡(他的手被燙出一個大泡)，十分疼痛(十分疼痛)。",
+      "pinyin": "Tā de shǒu bèi tàng chū yīgè dà pào, shífēn téngtòng.",
+      "english": "His hand developed a large blister from the burn, and it hurts a lot."
+    }
+  ]
+}

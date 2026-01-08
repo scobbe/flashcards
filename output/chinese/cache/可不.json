@@ -1,0 +1,39 @@
+{
+  "simplified": "可不",
+  "traditional": "可不",
+  "pinyin": "kěbù",
+  "english": "exactly; right",
+  "etymology": {
+    "type": "compound word",
+    "description": "可(可) (kě, \"can; able to\") and 不(不) (bù, \"not\") together form the phrase 可不(可不) (kěbù, \"exactly; right\"). This expression is often used to express agreement or affirmation, similar to saying \"that's right\" or \"exactly\" in English. The combination uses 可(可) as an affirmative and keeps 不(不) in its negative form, but the expression as a whole conveys a positive agreement.",
+    "interpretation": "",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can; able to"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这菜好吃(這菜好吃)，可不(可不)？",
+      "pinyin": "Zhè cài hǎochī, kěbù?",
+      "english": "This dish is delicious, right?"
+    },
+    {
+      "chinese": "今天工作很忙(今天工作很忙)，可不(可不)！",
+      "pinyin": "Jīntiān gōngzuò hěn máng, kěbù!",
+      "english": "Work was really busy today, exactly!"
+    }
+  ]
+}

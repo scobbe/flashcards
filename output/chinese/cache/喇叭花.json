@@ -1,0 +1,39 @@
+{
+  "simplified": "喇叭花",
+  "traditional": "喇叭花",
+  "pinyin": "lǎbahuā",
+  "english": "morning glory",
+  "etymology": {
+    "type": "compound word",
+    "description": "喇(喇) (lǎ, \"horn\") + 叭(叭) (bā, \"trumpet sound\") + 花(花) (huā, \"flower\")",
+    "interpretation": "The term 喇叭花 (lǎbahuā, \"morning glory\") describes the morning glory flower, which blooms in a shape reminiscent of a trumpet or horn (喇叭). Thus, the name captures both the flower's appearance and its vibrant, funnel-shaped blooms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "喇叭",
+      "trad": "喇叭",
+      "pinyin": "lǎbā",
+      "english": "horn; trumpet"
+    },
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower; blossom"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里有盛开的喇叭花(公園裡有盛開的喇叭花)。",
+      "pinyin": "Gōngyuán lǐ yǒu shèngkāi de lǎbahuā.",
+      "english": "There are blooming morning glories in the park."
+    },
+    {
+      "chinese": "早晨看到喇叭花(早晨看到喇叭花)，心情就变好了(心情就變好了)。",
+      "pinyin": "Zǎochén kàn dào lǎbahuā, xīnqíng jiù biànhǎole.",
+      "english": "Seeing morning glories in the early morning lifts the spirits."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "战役",
+  "traditional": "戰役",
+  "pinyin": "zhànyì",
+  "english": "battle; campaign",
+  "etymology": {
+    "type": "compound word",
+    "description": "战(戰) (zhàn, \"war\" or \"fight\") and 役(役) (yì, \"military service\" or \"campaign\") combine to mean a \"battle\" or \"campaign\" in a military context.",
+    "interpretation": "The combination of 战(戰) (zhàn, \"war\" or \"fight\") and 役(役) (yì, \"military service\" or \"campaign\") reflects the concept of a military engagement where forces are actively fighting in a war, thus commonly translating to a battle or campaign.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "战",
+      "trad": "戰",
+      "pinyin": "zhàn",
+      "english": "war; fight"
+    },
+    {
+      "char": "役",
+      "trad": "役",
+      "pinyin": "yì",
+      "english": "military service; campaign"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那场战役艰苦卓绝(那場戰役艱苦卓絕)，士兵们勇敢无畏(士兵們勇敢無畏)。",
+      "pinyin": "Nà chǎng zhànyì jiānkǔ zhuójué, shìbīngmen yǒnggǎn wúwèi.",
+      "english": "That battle was arduous and extraordinary, and the soldiers were brave and fearless."
+    },
+    {
+      "chinese": "历史上著名的战役改变了国家命运(歷史上著名的戰役改變了國家命運)，赢得了世界的尊重(贏得了世界的尊重)。",
+      "pinyin": "Lìshǐ shàng zhùmíng de zhànyì gǎibiàn le guójiā mìngyùn, yíngdé le shìjiè de zūnzhòng.",
+      "english": "The famous historical battle changed the nation's destiny and earned respect from the world."
+    }
+  ]
+}

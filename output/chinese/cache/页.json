@@ -1,0 +1,39 @@
+{
+  "simplified": "页",
+  "traditional": "頁",
+  "pinyin": "yè",
+  "english": "page/head",
+  "etymology": {
+    "type": "pictogram",
+    "description": "首(首) (shǒu, \"head\") + 卩(卩) (jié, \"kneeling person\") = head of a kneeling person -> head -> later adopted for \"page\"",
+    "interpretation": "Originally depicting the head of a kneeling person, 頁(頁) (yè, \"head\") transitioned from describing a physical head to denote a \"page\" or \"sheet,\" connecting the idea of a main part of a document or book.",
+    "simplification": "页(頁): The character was simplified from 頁 to 页 by retaining essential strokes, emphasizing cursive efficiency."
+  },
+  "parts": [
+    {
+      "char": "首",
+      "trad": "首",
+      "pinyin": "shǒu",
+      "english": "head"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我翻开书(我翻開書)，读到第一页(讀到第一頁)。",
+      "pinyin": "Wǒ fān kāi shū, dú dào dì yī yè.",
+      "english": "I opened the book and read the first page."
+    },
+    {
+      "chinese": "他在古籍中找到了很多页(他在古籍中找到了很多頁)，记录着历史秘密(記錄著歷史秘密)。",
+      "pinyin": "Tā zài gǔjí zhōng zhǎo dào le hěn duō yè, jìlù zhe lìshǐ mìmì.",
+      "english": "He found many pages in the ancient texts that record historical secrets."
+    }
+  ]
+}

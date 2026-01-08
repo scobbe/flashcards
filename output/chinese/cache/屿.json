@@ -1,0 +1,39 @@
+{
+  "simplified": "屿",
+  "traditional": "嶼",
+  "pinyin": "yǔ",
+  "english": "islet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "山(山) (shān, \"mountain\") + 與(与) (yǔ, phonetic) = landform like a mountain + sound -> islet",
+    "interpretation": "With 山(山) (shān, \"mountain\") indicating a landform and 與(与) (yǔ) providing the pronunciation, the character depicts an enclosed land area like a mountain surrounded by water, thus representing an islet.",
+    "simplification": "嶼(嶼)→屿(嶼): 與(与) (yǔ, \"and\") simplified to 与(与), which shares the same pronunciation."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "与",
+      "trad": "與",
+      "pinyin": "yǔ",
+      "english": "and"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个屿(這個嶼)风景如画(風景如畫)。",
+      "pinyin": "Zhège yǔ fēngjǐng rúhuà.",
+      "english": "This islet boasts picturesque scenery."
+    },
+    {
+      "chinese": "海上有一座屿(海上有一座嶼)，附近住着渔民(附近住着漁民)。",
+      "pinyin": "Hǎishàng yǒuyī zuò yǔ, fùjìn zhùzhe yúmín.",
+      "english": "There is an islet on the sea, near which fishermen live."
+    }
+  ]
+}

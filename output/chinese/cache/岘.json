@@ -1,0 +1,39 @@
+{
+  "simplified": "岘",
+  "traditional": "峴",
+  "pinyin": "xiàn",
+  "english": "mountain pass",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 山(山) (shān, \"mountain\") + phonetic: 見(见) (xiàn, \"see\") = mountain shape resembling a pass -> mountain pass",
+    "interpretation": "The character 岘(峴) (xiàn, \"mountain pass\") combines 山(山) (shān, \"mountain\") indicating the geographical nature of the character, with 見(见) (xiàn, \"see\") as a phonetic component. This combination conveys the idea of a mountain shape suggesting a pass.",
+    "simplification": "Simplified to 岘(峴) by removing the character elements in 見(见) (xiàn, \"see\") while 山(山) (shān, \"mountain\") remains unchanged."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "xiàn",
+      "english": "see"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古人踏云行路(古人踏雲行路)，经由岘(經由岘)。",
+      "pinyin": "Gǔ rén tà yún xíng lù, jīng yóu xiàn.",
+      "english": "Ancient people traveled among the clouds, passing by the mountain pass."
+    },
+    {
+      "chinese": "陡峭的山路直通岘(陡峭的山路直通岘)。",
+      "pinyin": "Dǒu qiào de shān lù zhí tōng xiàn.",
+      "english": "The steep mountain road leads directly to the mountain pass."
+    }
+  ]
+}

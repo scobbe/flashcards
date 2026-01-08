@@ -1,0 +1,38 @@
+{
+  "simplified": "制",
+  "traditional": "製",
+  "pinyin": "zhì",
+  "english": "make; manufacture; control; system",
+  "etymology": {
+    "type": "ideogrammic compound and phono-semantic compound",
+    "description": "Phonetic: 制(制) (zhì, 'to cut out; to make') + Semantic: 衣(衣) (yī, 'clothes') = making clothes -> manufacture/control",
+    "interpretation": "The character 制(製) combines the idea of 制(制) (zhì, 'to cut out; to make'), which indicates an action, with 衣(衣) (yī, 'clothes'), representing the product of that action. This suggests an act of crafting or creating clothing, which extends metaphorically to making or controlling systems and processes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothes"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工厂制鞋(工廠製鞋)。",
+      "pinyin": "Gōngchǎng zhì xié.",
+      "english": "The factory manufactures shoes."
+    },
+    {
+      "chinese": "他们制订计划(他們製訂計劃)，确保生产顺利(確保生產順利)。",
+      "pinyin": "Tāmen zhìdìng jìhuà, quèbǎo shēngchǎn shùnlì.",
+      "english": "They formulate plans to ensure smooth production."
+    },
+    {
+      "chinese": "研究人员制备新材料(研究人員製備新材料)，推动科技进步(推動科技進步)。",
+      "pinyin": "Yánjiū rényuán zhìbèi xīn cáiliào, tuīdòng kējì jìnbù.",
+      "english": "Researchers prepare new materials, driving technological progress."
+    }
+  ]
+}

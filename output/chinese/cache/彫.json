@@ -1,0 +1,39 @@
+{
+  "simplified": "彫",
+  "traditional": "彫",
+  "pinyin": "diāo",
+  "english": "to carve",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "彡(彡) (shān, \"representing patterns or ornamentation\") + 周(周) (zhōu, \"encircle\") = carving patterns -> carve",
+    "interpretation": "The character 彫(diāo, \"to carve\") combines 彡(shān, \"patterns\") as the semantic element to imply ornamentation, with 周(zhōu, \"encircle\") as a phonetic component indicating sound. Together, they symbolize the act of engraving or carving patterns.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "representing patterns or ornamentation"
+    },
+    {
+      "char": "周",
+      "trad": "周",
+      "pinyin": "zhōu",
+      "english": "encircle"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他仔细彫(彫)出木头上的花纹(花紋)，展现了纯熟的技艺(技藝)。",
+      "pinyin": "Tā zǐxì diāo chū mùtou shàng de huāwén, zhǎnxiàn le chúnshú de jìyì.",
+      "english": "He carefully carved patterns on the wood, showcasing his refined craftsmanship."
+    },
+    {
+      "chinese": "古代名匠彫(彫)出精致的石像(石像)。",
+      "pinyin": "Gǔdài míngjiàng diāo chū jīngzhì de shíxiàng.",
+      "english": "Ancient master craftsmen carved exquisite stone statues."
+    }
+  ]
+}

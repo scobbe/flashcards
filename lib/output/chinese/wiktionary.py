@@ -15,27 +15,93 @@ _session.headers.update({
 })
 
 
-def _extract_see_reference(html: str) -> str:
+def _fetch_with_retry(url: str, max_retries: int = 3, base_delay: float = 1.0, verbose: bool = False):
+    """Fetch URL with exponential backoff retry on errors and non-200 responses.
+
+    Returns response object or None if all retries failed.
+    Does NOT retry 404s (page doesn't exist - permanent error).
+    """
+    for attempt in range(max_retries):
+        try:
+            resp = _session.get(url, timeout=20)
+
+            # Success
+            if resp.status_code == 200:
+                return resp
+
+            # 404 is permanent - don't retry
+            if resp.status_code == 404:
+                return resp
+
+            # Retry on other non-200 status codes
+            if attempt < max_retries - 1:
+                delay = base_delay * (2 ** attempt)
+                if verbose:
+                    print(f"[wiktionary] [retry] status {resp.status_code}, retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
+                time.sleep(delay)
+                continue
+
+            # Last attempt failed
+            return resp
+
+        except Exception as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2 ** attempt)
+                if verbose:
+                    print(f"[wiktionary] [error] {e}, retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
+                time.sleep(delay)
+                continue
+            if verbose:
+                print(f"[wiktionary] [error] {e}")
+            return None
+
+    return None
+
+
+def _extract_see_reference(html: str) -> tuple[str, str, bool]:
     """Extract 'see X' reference if the page redirects to another character.
 
-    Looks for patterns like "See also: 麥" or "For pronunciation and definitions of 麦 – see 麥"
-    Returns the referenced character, or empty string if not found.
+    Looks for patterns like:
+    - "For pronunciation and definitions of 䌓 – see 繁" (hard redirect)
+      followed by "(This character is a variant form of 繁)."
+    - "See also: 麥" (soft redirect)
+
+    Returns (referenced_character, relationship, is_hard_redirect) where:
+    - referenced_character: the character to look up, or empty string if not found
+    - relationship: e.g. "variant form of 繁", "traditional form of 简", or empty string
+    - is_hard_redirect: True if this is a "For X see Y" style redirect (use Y's etymology for X)
     """
     soup = BeautifulSoup(html, "html.parser")
+
+    # CJK character pattern (only match actual Chinese characters, not English words)
+    cjk_char = r'[\u4e00-\u9fff\u3400-\u4dbf\U00020000-\U0002a6df]'
 
     # Look for the "see also" pattern in the page
     for tag in soup.find_all(["p", "div", "span", "dd", "li"]):
         text = tag.get_text()
-        # Pattern 1: "See also: X"
-        match = re.search(r'See\s+also:\s*(\S+)', text)
+        # Pattern 1: "For pronunciation and definitions of X – see Y" (hard redirect)
+        # Exact Wiktionary format: "For pronunciation and definitions of 䌓 – see 繁"
+        # This means X is a variant of Y, use Y's info for X
+        match = re.search(rf'For pronunciation and definitions of {cjk_char}+\s*[–—-]\s*see\s+({cjk_char}+)', text)
         if match:
-            return match.group(1).strip()
-        # Pattern 2: "For ... of X – see Y" or "For ... of X — see Y"
-        match = re.search(r'For\s+.*?\s+of\s+\S+\s*[–—-]\s*see\s+(\S+)', text)
+            ref_char = match.group(1).strip()
+            # Look for relationship description like "(This character is a variant form of 繁)"
+            # or "(This character is the traditional form of 简)"
+            relationship = ""
+            rel_match = re.search(
+                rf'\(This character is (?:a |the )?(.+? form of {cjk_char}+)\)',
+                text,
+                re.IGNORECASE
+            )
+            if rel_match:
+                relationship = rel_match.group(1).strip().rstrip('.')
+            return (ref_char, relationship, True)
+        # Pattern 2: "See also: X" (soft redirect - just additional info, only CJK chars)
+        match = re.search(rf'See\s+also:\s*({cjk_char}+)', text)
         if match:
-            return match.group(1).strip()
+            return (match.group(1).strip(), "", False)
 
-    return ""
+    return ("", "", False)
 
 
 def _extract_definitions_from_html(html: str, max_defs: int = 3) -> str:
@@ -209,64 +275,50 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
             pass
 
     all_etymology_parts = []
+    all_404 = True  # Track if all failures were 404s (page doesn't exist)
+    had_success = False  # Track if any page was fetched successfully
 
     for word in words_to_fetch:
-        # Fetch from Wiktionary with rate limiting backoff
+        # Fetch from Wiktionary with retry and backoff
         url = f"https://en.wiktionary.org/wiki/{requests.utils.requote_uri(word)}"
-        max_retries = 3
-        base_delay = 1.0
-        resp = None
+        resp = _fetch_with_retry(url, verbose=verbose)
 
-        for attempt in range(max_retries):
-            try:
-                resp = _session.get(url, timeout=20)
-
-                # Handle rate limiting (429) with exponential backoff
-                if resp.status_code == 429:
-                    delay = base_delay * (2 ** attempt)
-                    print(f"[wiktionary] [rate-limit] {word}: retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
-                    time.sleep(delay)
-                    continue
-
-                if resp.status_code != 200:
-                    if verbose:
-                        print(f"[wiktionary] [skip] {word}: status {resp.status_code}")
-                    break  # Don't retry non-429 errors
-
-                # Success - break out of retry loop
-                break
-
-            except Exception as e:
-                if verbose:
-                    print(f"[wiktionary] [error] {word}: {e}")
-                if attempt < max_retries - 1:
-                    delay = base_delay * (2 ** attempt)
-                    time.sleep(delay)
-                    continue
-                break
-        else:
-            # All retries exhausted
-            if verbose:
-                print(f"[wiktionary] [error] {word}: max retries exceeded")
-            continue
-
-        # Check if we got a successful response
         if resp is None or resp.status_code != 200:
+            if resp is not None and resp.status_code == 404:
+                if verbose:
+                    print(f"[wiktionary] [404] {word}: page not found")
+            else:
+                all_404 = False  # Non-404 error, don't cache empty
+                if verbose and resp is not None:
+                    print(f"[wiktionary] [skip] {word}: status {resp.status_code}")
             continue
 
-        fetch_elapsed = time.time() - (resp.elapsed.total_seconds() if hasattr(resp, 'elapsed') else 0)
+        all_404 = False  # Got a successful response
+        had_success = True  # At least one page was fetched
+
         if verbose:
             print(f"[wiktionary] [fetch] {word} ({resp.elapsed.total_seconds():.1f}s)")
 
-        # Check for "See also: X" reference and fetch that entry too
-        see_ref = _extract_see_reference(resp.text)
+        # Check for "See also: X" or "For X see Y" reference
+        see_ref, relationship, is_hard_redirect = _extract_see_reference(resp.text)
         if see_ref and see_ref != word and see_ref not in words_to_fetch:
-            words_to_fetch.append(see_ref)
-            if verbose:
-                print(f"[wiktionary] [see-also] {word} → will also fetch {see_ref}")
+            # Skip unrenderable characters (surrogate pairs, rare CJK extensions)
+            if len(see_ref) > 1 or ord(see_ref[0]) > 0xFFFF:
+                if verbose:
+                    print(f"[wiktionary] [skip-ref] {word} → {see_ref} (unrenderable character)")
+            else:
+                words_to_fetch.append(see_ref)
+                if verbose:
+                    print(f"[wiktionary] [see-also] {word} → will also fetch {see_ref}")
 
         # Extract etymology from this page
         etymology = _extract_etymology_from_html(resp.text)
+
+        # For hard redirects with no etymology on this page, just add relationship and continue
+        if is_hard_redirect and not etymology and relationship:
+            all_etymology_parts.append(f"[{word}]\n{relationship}")
+            continue
+
         if etymology:
             # Add word label if fetching multiple
             if len(words_to_fetch) > 1:
@@ -279,12 +331,26 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
     if len(result) > 3000:
         result = result[:3000] + "..."
 
-    # Always save to cache (even if empty) to prevent re-fetching
-    cache_path.write_text(result, encoding="utf-8")
-    if verbose:
-        if result:
+    # Save to cache if:
+    # 1. We got actual content, OR
+    # 2. All pages were 404s (pages don't exist - cache empty to avoid retrying), OR
+    # 3. Pages exist but have no extractable etymology (cache empty to avoid retrying)
+    if result:
+        cache_path.write_text(result, encoding="utf-8")
+        if verbose:
             print(f"[wiktionary] [save] {cache_key}")
-        else:
-            print(f"[wiktionary] [save-empty] {cache_key}")
+    elif all_404:
+        # All pages were 404 - save empty file to avoid retrying
+        cache_path.write_text("", encoding="utf-8")
+        if verbose:
+            print(f"[wiktionary] [save-404] {cache_key} (pages not found)")
+    elif had_success:
+        # Pages exist but no extractable etymology - save empty to avoid retrying
+        cache_path.write_text("", encoding="utf-8")
+        if verbose:
+            print(f"[wiktionary] [save-empty] {cache_key} (no extractable etymology)")
+    else:
+        if verbose:
+            print(f"[wiktionary] [no-cache] {cache_key} (transient error)")
 
     return result

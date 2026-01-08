@@ -1,0 +1,39 @@
+{
+  "simplified": "迦",
+  "traditional": "迦",
+  "pinyin": "jiā",
+  "english": "assembly; to join",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 辶(辶) (chuò, \"walk\") + phonetic 加(加) (jiā, \"add\") = notion of movement or joining together -> concept of assembling or joining",
+    "interpretation": "The character combines a walking radical 辶(辶) (chuò, \"walk\"), suggesting movement or dynamic interaction, with the phonetic element 加(加) (jiā, \"add\"), which hints at the notion of adding or joining. This effectively conveys the meaning of coming together or assembling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "加",
+      "trad": "加",
+      "pinyin": "jiā",
+      "english": "add"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "人们迦为一体(人們迦為一體)。",
+      "pinyin": "Rénmen jiā wéi yī tǐ.",
+      "english": "People join together as one."
+    },
+    {
+      "chinese": "信徒迦于寺庙(信徒迦於寺廟)，寻求心灵平静(尋求心靈平靜)。",
+      "pinyin": "Xìntú jiā yú sìmiào, xúnqiú xīnlíng píngjìng.",
+      "english": "Believers assemble at the temple, seeking spiritual peace."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "葵",
+  "traditional": "葵",
+  "pinyin": "kuí",
+  "english": "mallow; sunflower; hibiscus",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, 'grass, plant') + phonetic: 癸(癸) (guǐ, 'tenth earthly branch') = refers to a type of plant → mallow, sunflower, hibiscus",
+    "interpretation": "The character 葵(葵) (kuí, 'mallow; sunflower; hibiscus') is composed of the 艹(艹) (cǎo, 'grass, plant') radical, indicating its connection to vegetation, and the phonetic component 癸(癸) (guǐ, 'tenth earthly branch'), which provides a clue to its pronunciation. Combining these elements, it specifies a type of plant known for its wide and vibrant flowers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass, plant"
+    },
+    {
+      "char": "癸",
+      "trad": "癸",
+      "pinyin": "guǐ",
+      "english": "tenth earthly branch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我种下了葵花(我種下了葵花)，期待它开出金色花朵(期待它開出金色花朵)。",
+      "pinyin": "Wǒ zhòng xià le kuíhuā, qídài tā kāichū jīnsè huāduǒ.",
+      "english": "I planted sunflowers, anticipating that they would bloom with golden petals."
+    },
+    {
+      "chinese": "微风吹过葵园(微風吹過葵園)，花影摇曳生姿(花影搖曳生姿)。",
+      "pinyin": "Wēi fēng chuī guò kuí yuán, huā yǐng yáo yè shēng zī.",
+      "english": "A gentle breeze swept over the sunflower garden, and the blossoms' shadows danced gracefully."
+    }
+  ]
+}

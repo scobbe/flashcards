@@ -1,0 +1,44 @@
+{
+  "simplified": "城",
+  "traditional": "城",
+  "pinyin": "chéng",
+  "english": "wall; city wall",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 土(土) (tǔ, \"soil\") + phonetic 成(成) (chéng, \"complete\") = city walls made of stamped earth -> wall; city wall",
+    "interpretation": "The character 城(城) (chéng, \"wall; city wall\") combines the meaning of 土(土) (tǔ, \"soil\") with the sound of 成(成) (chéng, \"complete\"), reflecting the construction of city walls using compacted earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "soil"
+    },
+    {
+      "char": "成",
+      "trad": "成",
+      "pinyin": "chéng",
+      "english": "complete"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "城外有护城河(城外有護城河)，城内居住百姓(城內居住百姓)。",
+      "pinyin": "Chéng wài yǒu hùchénghé, chéng nèi jūzhù bǎixìng。",
+      "english": "Outside the city wall there is a moat, and inside the city wall many people live."
+    },
+    {
+      "chinese": "古城历经岁月(古城歷經歲月)。",
+      "pinyin": "Gǔ chéng lìjīng suìyuè。",
+      "english": "The ancient city wall has endured the passage of time."
+    },
+    {
+      "chinese": "高耸的城令敌人畏惧(高聳的城令敵人畏懼)。",
+      "pinyin": "Gāosǒng de chéng lìng dírén wèijù。",
+      "english": "The towering city wall strikes fear into the hearts of enemies."
+    }
+  ]
+}

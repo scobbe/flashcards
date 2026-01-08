@@ -1,0 +1,39 @@
+{
+  "simplified": "跨",
+  "traditional": "跨",
+  "pinyin": "kuà",
+  "english": "straddle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 足(足) (zú, \"foot\") + phonetic 夸(夸) (kuā, \"boast\") = action involving the foot with the sound of stretching or covering distance -> straddle",
+    "interpretation": "The use of 足(足) (zú, \"foot\") emphasizes physical movement, suggesting an action related to stepping or covering an area, while 夸(夸) (kuā, \"boast\") provides the phonetic component. Together, they convey the idea of a large stride or spanning across a distance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "夸",
+      "trad": "夸",
+      "pinyin": "kuā",
+      "english": "boast"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跨上马鞍(他跨上馬鞍)，骑向远方(騎向遠方)。",
+      "pinyin": "Tā kuà shàng mǎ'ān, qí xiàng yuǎnfāng.",
+      "english": "He straddles the saddle and rides off into the distance."
+    },
+    {
+      "chinese": "她跨入新的领域(她跨入新的領域)。",
+      "pinyin": "Tā kuà rù xīn de lǐngyù.",
+      "english": "She steps into a new field."
+    }
+  ]
+}

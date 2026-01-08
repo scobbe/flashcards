@@ -1,0 +1,33 @@
+{
+  "simplified": "悤",
+  "traditional": "悤",
+  "pinyin": "cōng",
+  "english": "clever",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 心(心) (xīn, \"heart\") with 大 dot (hole) -> intelligence",
+    "interpretation": "The character originally represented intelligence through the depiction of a hole on the heart, reflecting a traditional concept of intelligence. Over time, its meaning shifted towards quickness or haste, which is retained in its association with 聰(聰) (cōng, \"intelligent\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他悤聪颖(他悤聰穎)，总能化解危机(總能化解危機)。",
+      "pinyin": "Tā cōng cōngyǐng, zǒng néng huàjiě wēijī.",
+      "english": "He is clever and always able to solve crises."
+    },
+    {
+      "chinese": "学者以悤机应变(學者以悤機應變)，成就非凡(成就非凡)。",
+      "pinyin": "Xuézhě yǐ cōng jī yìngbiàn, chéngjiù fēifán.",
+      "english": "Scholars use their clever wit to adapt, achieving extraordinary success."
+    }
+  ]
+}

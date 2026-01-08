@@ -1,0 +1,44 @@
+{
+  "simplified": "莓",
+  "traditional": "莓",
+  "pinyin": "méi",
+  "english": "berry",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 韋(韋) (wéi, phonetic) = plant-related character -> berry",
+    "interpretation": "The character 莓(莓) (méi, \"berry\") combines 艹(艹) (cǎo, \"grass\"), which signifies its association with plants, and 韋(韋) (wéi) provides the phonetic component, suggesting the pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "韋",
+      "trad": "韋",
+      "pinyin": "wéi",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我摘了一些莓(我摘了一些莓)。",
+      "pinyin": "Wǒ zhāi le yīxiē méi.",
+      "english": "I picked some berries."
+    },
+    {
+      "chinese": "春天来临时(春天來臨時)，莓都开始生长(莓都開始生長)。",
+      "pinyin": "Chūntiān láilín shí, méi dōu kāishǐ shēngzhǎng.",
+      "english": "When spring arrives, berries begin to grow."
+    },
+    {
+      "chinese": "你试试这莓(你試試這莓)，你会爱上它的味道(你會愛上它的味道)。",
+      "pinyin": "Nǐ shì shì zhè méi, nǐ huì ài shàng tā de wèidào.",
+      "english": "Try this berry, and you'll fall in love with its taste."
+    }
+  ]
+}

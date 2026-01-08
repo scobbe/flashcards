@@ -1,0 +1,26 @@
+{
+  "simplified": "土",
+  "traditional": "土",
+  "pinyin": "tǔ",
+  "english": "earth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a mound of earth",
+    "interpretation": "The character 土(tǔ, \"earth\") visually represents a mound or piece of land, with a horizontal line indicating the surface and a vertical line the height of the mound. It's a straightforward depiction of earth or soil.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民耕土(農民耕土)，种出丰收(種出豐收)。",
+      "pinyin": "Nóngmín gēng tǔ, zhòng chū fēngshōu.",
+      "english": "Farmers cultivate the earth and harvest abundantly."
+    },
+    {
+      "chinese": "院子里的土(院子裡的土)，适合种花(適合種花)。",
+      "pinyin": "Yuànzi lǐ de tǔ, shìhé zhòng huā.",
+      "english": "The soil in the yard is suitable for planting flowers."
+    }
+  ]
+}

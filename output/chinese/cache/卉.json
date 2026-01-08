@@ -1,0 +1,39 @@
+{
+  "simplified": "卉",
+  "traditional": "卉",
+  "pinyin": "huì",
+  "english": "plant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "廾(廾) (gǒng, \"two hands\") + 十(十) (shí, \"ten\") = plants rising from the ground -> plant",
+    "interpretation": "The character 卉(卉) (huì, \"plant\") combines 廾(廾) (gǒng, \"two hands\") and 十(十) (shí, \"ten\") to represent a cluster of plants emerging from the earth, evoking the idea of many plants or vegetation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "花卉盛开时(花卉盛開時)，令人心旷神怡(令人心曠神怡)。",
+      "pinyin": "Huā huì shèng kāi shí, lìng rén xīn kuàng shén yí.",
+      "english": "When the flowering plants bloom, they instill a sense of serenity."
+    },
+    {
+      "chinese": "各种卉点缀庭院(各種卉點綴庭院)，让环境充满生机(讓環境充滿生機)。",
+      "pinyin": "Gè zhǒng huì diǎn zhuì tíng yuàn, ràng huán jìng chōng mǎn shēng jī.",
+      "english": "Various plants adorn the courtyard, making the environment full of vitality."
+    }
+  ]
+}

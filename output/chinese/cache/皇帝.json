@@ -1,0 +1,44 @@
+{
+  "simplified": "皇帝",
+  "traditional": "皇帝",
+  "pinyin": "huángdì",
+  "english": "emperor",
+  "etymology": {
+    "type": "compound word",
+    "description": "皇(皇) (huáng, \"imperial; royal\") + 帝(帝) (dì, \"emperor; sovereign\") = emperor, the supreme ruler",
+    "interpretation": "皇帝(皇帝) (huángdì, \"emperor\") combines the ideas of being imperial or royal and the concept of a supreme sovereign. In ancient China, the title of emperor was considered the highest authority, both politically and spiritually, as emperors were often seen as the 'Son of Heaven' and the intermediary between heaven and earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皇",
+      "trad": "皇",
+      "pinyin": "huáng",
+      "english": "imperial; royal"
+    },
+    {
+      "char": "帝",
+      "trad": "帝",
+      "pinyin": "dì",
+      "english": "emperor; sovereign; god"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他继承帝位后称皇帝(他繼承帝位後稱皇帝)。",
+      "pinyin": "Tā jìchéng dìwèi hòu chēng huángdì.",
+      "english": "He ascended to the throne and became the emperor."
+    },
+    {
+      "chinese": "唐朝皇帝勤政爱民(唐朝皇帝勤政愛民)，后世传颂佳话(後世傳頌佳話)。",
+      "pinyin": "Tángcháo huángdì qínzhèng ài mín, hòushì chuánsòng jiāhuà.",
+      "english": "The Tang dynasty emperor governed diligently and loved his people, and later generations celebrated this fine reputation."
+    },
+    {
+      "chinese": "他梦想成为皇帝(他夢想成為皇帝)，统领万民(統領萬民)。",
+      "pinyin": "Tā mèngxiǎng chéngwéi huángdì, tǒnglǐng wànmín.",
+      "english": "He dreams of becoming the emperor and leading the people."
+    }
+  ]
+}

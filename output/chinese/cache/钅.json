@@ -1,0 +1,31 @@
+{
+  "simplified": "钅",
+  "traditional": "釒",
+  "pinyin": "jīn",
+  "english": "metal",
+  "etymology": {
+    "type": "simplified radical form",
+    "description": "Metal radical 釒(釒) (jīn, 'metal') -> simplified to 钅(钅) (jīn, 'metal') for use in compound characters",
+    "interpretation": "The character 钅(钅) is the simplified form of the metal radical 釒(釒), which represents 'metal.' The simplification retains the essential elements in a more concise form and is often used in compound characters involving metal.",
+    "simplification": "釒(釒) (jīn, 'metal') simplified by reducing strokes and creating 钅(钅) to streamline its use in characters."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学家研究钅的物理特性(科學家研究钅的物理特性)。",
+      "pinyin": "Kēxuéjiā yánjiū jīn de wùlǐ tèxìng.",
+      "english": "Scientists study the physical properties of metal."
+    },
+    {
+      "chinese": "古代文明崇尚钅的力量(古代文明崇尚钅的力量)，铸造出不朽器物(鑄造出不朽器物)。",
+      "pinyin": "Gǔdài wénmíng chóngshàng jīn de lìliàng, zhùzào chū bùxiǔ qìwù.",
+      "english": "Ancient civilizations revered the power of metal and forged timeless artifacts."
+    },
+    {
+      "chinese": "艺术家用钅打造现代雕塑(藝術家用钅打造現代雕塑)。",
+      "pinyin": "Yìshùjiā yòng jīn dǎzào xiàndài diāosù.",
+      "english": "Artists use metal to create modern sculptures."
+    }
+  ]
+}

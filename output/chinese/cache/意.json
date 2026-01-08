@@ -1,0 +1,44 @@
+{
+  "simplified": "意",
+  "traditional": "意",
+  "pinyin": "yì",
+  "english": "meaning; intention; thought; idea",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "音(音) (yīn, 'sound') + 心(心) (xīn, 'heart') = sound in the heart -> concept of thought and intention",
+    "interpretation": "The character 意(yì) represents abstract concepts of thought, intention, and meaning by combining elements symbolizing sound and heart, reflecting processed sensory input and emotional response.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "sound"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的意思很明确(他的意思很明確)。",
+      "pinyin": "Tā de yìsi hěn míngquè.",
+      "english": "His meaning is clear."
+    },
+    {
+      "chinese": "我有一个好主意(我有一個好主意)，想改变现状(想改變現狀)。",
+      "pinyin": "Wǒ yǒu yīgè hǎo zhǔyì, xiǎng gǎibiàn xiànzhuàng.",
+      "english": "I have a good idea and want to change the current situation."
+    },
+    {
+      "chinese": "他的用意并非恶意(他的用意並非惡意)。",
+      "pinyin": "Tā de yòngyì bìngfēi èyì.",
+      "english": "His intention is not malicious."
+    }
+  ]
+}

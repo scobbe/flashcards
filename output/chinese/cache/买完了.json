@@ -1,0 +1,50 @@
+{
+  "simplified": "买完了",
+  "traditional": "買完了",
+  "pinyin": "mǎi wán le",
+  "english": "finished buying",
+  "etymology": {
+    "type": "compound word",
+    "description": "买(買) (mǎi, \"buy\") + 完(完) (wán, \"finish\") + 了(了) (le, \"(particle indicating a completed action or change)\") = finished buying.",
+    "interpretation": "The word 买完了(買完了) (mǎi wán le) conveys that the action of buying has been completed. The use of 了(了) (le, \"(particle indicating a completed action or change)\") highlights the completion or change in state, specifically that the process of searching for and purchasing items is finished.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "买",
+      "trad": "買",
+      "pinyin": "mǎi",
+      "english": "buy"
+    },
+    {
+      "char": "完",
+      "trad": "完",
+      "pinyin": "wán",
+      "english": "finish; complete; done; whole"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "(particle indicating a completed action or change)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们已经买完了所有需要的东西(我們已經買完了所有需要的東西)。",
+      "pinyin": "wǒ men yǐ jīng mǎi wán le suǒ yǐ xū yào de dōng xī.",
+      "english": "We have finished buying everything we need."
+    },
+    {
+      "chinese": "他刚刚买完了新车(他剛剛買完了新車)。",
+      "pinyin": "tā gāng gāng mǎi wán le xīn chē.",
+      "english": "He just finished buying a new car."
+    },
+    {
+      "chinese": "我们买完了食材(我們買完了食材)，可以开始做饭(可以開始做飯)。",
+      "pinyin": "wǒ men mǎi wán le shí cái, kě yǐ kāi shǐ zuò fàn.",
+      "english": "We finished buying the ingredients, so we can start cooking."
+    }
+  ]
+}

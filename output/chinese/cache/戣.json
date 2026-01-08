@@ -1,0 +1,44 @@
+{
+  "simplified": "戣",
+  "traditional": "戣",
+  "pinyin": "kuí",
+  "english": "a type of halberd",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "戈(戈) (gē, \"halberd\") + 鬼(鬼) (guǐ, \"ghost\") = halberd weapon + phonetic component -> a type of halberd",
+    "interpretation": "The character 戣(戣) (kuí, \"type of halberd\") combines 戈(戈) (gē, \"halberd\") as a semantic component indicating the weapon aspect, with 鬼(鬼) (guǐ, \"ghost\") as a phonetic component to hint at its pronunciation. The use of 鬼, although seemingly unrelated in meaning, aligns with phonetic representation typical in many Chinese characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "halberd"
+    },
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古代将领持戣(古代將領持戣)，冲破敌阵(衝破敵陣)。",
+      "pinyin": "Gǔdài jiānglǐng chí kuí, chōngpò dí zhèn.",
+      "english": "Ancient generals wielded the kuí to break enemy lines."
+    },
+    {
+      "chinese": "英雄举起戣(英雄舉起戣)，迎战强敌(迎戰強敵)。",
+      "pinyin": "Yīngxióng jǔqǐ kuí, yíngzhàn qiángdí.",
+      "english": "The hero raised the kuí to confront formidable foes."
+    },
+    {
+      "chinese": "那把雕刻精美的戣(那把雕刻精美的戣)，在战场上叱咤风云(在戰場上叱咤風雲)。",
+      "pinyin": "Nà bǎ diāokè jīngměi de kuí, zài zhànchǎng shàng chìchà fēngyún.",
+      "english": "That exquisitely carved kuí dominated the battlefield."
+    }
+  ]
+}

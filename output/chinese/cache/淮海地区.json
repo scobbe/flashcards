@@ -1,0 +1,39 @@
+{
+  "simplified": "淮海地区",
+  "traditional": "淮海地區",
+  "pinyin": "Huáihǎi dìqū",
+  "english": "Huaihai region",
+  "etymology": {
+    "type": "compound word",
+    "description": "淮(淮) (huái, \"a river in China\"), 海(海) (hǎi, \"sea\"), 地(地) (dì, \"land\"), 区(區) (qū, \"area\")",
+    "interpretation": "The term 淮海地區 (Huáihǎi dìqū) refers to the geographical region surrounding the Huai River and the adjacent areas close to the sea. This name reflects the significant geographical features of the region, notably the Huai River 淮(淮) (huái, \"a river in China\") and the proximity to the sea 海(海) (hǎi, \"sea\"). 地(地) (dì, \"land\") and 区(區) (qū, \"area\") indicate that this is a distinct geographical area, known for its historical and economic significance in China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "淮海",
+      "trad": "淮海",
+      "pinyin": "huáihǎi",
+      "english": "Huai and sea; Huaihai"
+    },
+    {
+      "char": "地区",
+      "trad": "地區",
+      "pinyin": "dìqū",
+      "english": "region; area"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "淮海地区风光明媚(淮海地區風光明媚)。",
+      "pinyin": "Huáihǎi dìqū fēngguāng míngmèi.",
+      "english": "The Huaihai region has splendid scenery."
+    },
+    {
+      "chinese": "淮海地区历史悠久(淮海地區歷史悠久)，吸引了众多游客(吸引了眾多遊客)。",
+      "pinyin": "Huáihǎi dìqū lìshǐ yōujiǔ, xīyǐnle zhòngduō yóukè.",
+      "english": "The Huaihai region has a long history and attracts many tourists."
+    }
+  ]
+}

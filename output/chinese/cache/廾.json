@@ -1,0 +1,31 @@
+{
+  "simplified": "廾",
+  "traditional": "廾",
+  "pinyin": "gǒng",
+  "english": "pair of hands",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pair of hands",
+    "interpretation": "The character 廾(gǒng, \"pair of hands\") is a simple pictogram representing two hands facing each other, symbolizing the act of holding or carrying something.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "字‘廾’表示一双手(字‘廾’表示一雙手)。",
+      "pinyin": "Zì 'gǒng' biǎoshì yī shuāng shǒu.",
+      "english": "The character '廾' represents a pair of hands."
+    },
+    {
+      "chinese": "古代学者观察到汉字中用廾构成手的形状(古代學者觀察到漢字中用廾構成手的形狀)，以表达劳动的意义(以表達勞動的意義)。",
+      "pinyin": "Gǔdài xuézhě guānchá dào hànzì zhōng yòng gǒng gòuchéng shǒu de xíngzhuàng, yǐ biǎodá láodòng de yìyì.",
+      "english": "Ancient scholars observed that in Chinese characters, '廾' is used to form the shape of a hand in order to express the meaning of labor."
+    },
+    {
+      "chinese": "艺术家以廾为灵感创作雕塑(藝術家以廾為靈感創作雕塑)，展示人与工艺的智慧(展示人與工藝的智慧)。",
+      "pinyin": "Yìshùjiā yǐ gǒng wéi línggǎn chuàngzuò diāosù, zhǎnshì rén yǔ gōngyì de zhìhuì.",
+      "english": "The artist used '廾' as inspiration to create a sculpture, showcasing the wisdom of human craft."
+    }
+  ]
+}

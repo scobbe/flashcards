@@ -1,0 +1,39 @@
+{
+  "simplified": "啤酒",
+  "traditional": "啤酒",
+  "pinyin": "píjiǔ",
+  "english": "beer",
+  "etymology": {
+    "type": "compound word",
+    "description": "啤(啤) (pí, \"beer\") and 酒(酒) (jiǔ, \"alcohol\") combine to form the word 啤酒(啤酒) (píjiǔ, \"beer\"). Here, 啤(啤) doesn't have a standalone meaning in Chinese outside of this word, but 酒(酒) is a general term for alcoholic beverages.",
+    "interpretation": "啤酒(啤酒) (píjiǔ, \"beer\") combines the element referring to beer specifically with the character for alcohol, indicating beer as a type of alcoholic beverage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "啤",
+      "trad": "啤",
+      "pinyin": "pí",
+      "english": "beer"
+    },
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol; liquor; spirits; wine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝啤酒(我喜歡喝啤酒)。",
+      "pinyin": "Wǒ xǐhuān hē píjiǔ.",
+      "english": "I like to drink beer."
+    },
+    {
+      "chinese": "晚上和朋友一起喝啤酒(晚上和朋友一起喝啤酒)，聊聊天(聊聊天)。",
+      "pinyin": "Wǎnshàng hé péngyǒu yīqǐ hē píjiǔ, liáo liáotiān.",
+      "english": "In the evening, I drink beer with my friends and chat."
+    }
+  ]
+}

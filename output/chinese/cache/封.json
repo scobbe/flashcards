@@ -1,0 +1,33 @@
+{
+  "simplified": "封",
+  "traditional": "封",
+  "pinyin": "fēng",
+  "english": "seal; close",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 土(土) (tǔ, \"earth\") + phonetic: 封(封) (fēng) = covering with earth to close -> seal; close",
+    "interpretation": "The character 封(封) (fēng) combines the semantic component 土(土) (tǔ, \"earth\"), suggesting covering or enclosing something, with a phonetic component to convey the sound. It evokes the idea of sealing or closing something, like covering with earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他封了信(他封了信)。",
+      "pinyin": "Tā fēng le xìn.",
+      "english": "He sealed the letter."
+    },
+    {
+      "chinese": "收到信后(收到信後)，他们封好包裹(他們封好包裹)。",
+      "pinyin": "Shōu dào xìn hòu, tāmen fēng hǎo bāoguǒ.",
+      "english": "After receiving the letter, they sealed the package."
+    }
+  ]
+}

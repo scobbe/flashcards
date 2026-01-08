@@ -1,0 +1,44 @@
+{
+  "simplified": "马",
+  "traditional": "馬",
+  "pinyin": "mǎ",
+  "english": "horse",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a horse with head facing left and flowing mane -> head often simplified into an eye 目(目) (mù, \"eye\") -> legs evolved into four dots 灬 unrelated to 火(火) (huǒ, \"fire\")",
+    "interpretation": "The character represents a horse with its mane flowing sideways, and the simplification over time captured the essence of its most visible features.",
+    "simplification": "馬(馬) was simplified to 马(馬) by fusing the head and body, using the simplified line forms and dots to represent its features more compactly."
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小马在草地上奔跑(小馬在草地上奔跑)。",
+      "pinyin": "Xiǎo mǎ zài cǎodì shàng bēnpǎo.",
+      "english": "The little horse runs on the grassland."
+    },
+    {
+      "chinese": "我骑马看风景(我騎馬看風景)，感觉非常自在(感覺非常自在)。",
+      "pinyin": "Wǒ qí mǎ kàn fēngjǐng, gǎnjué fēicháng zìzài.",
+      "english": "I ride a horse to enjoy the scenery, feeling very at ease."
+    },
+    {
+      "chinese": "马是人类历史上的好伙伴(馬是人類歷史上的好夥伴)。",
+      "pinyin": "Mǎ shì rénlèi lìshǐ shàng de hǎo huǒbàn.",
+      "english": "Horses are good companions in human history."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "良",
+  "traditional": "良",
+  "pinyin": "liáng",
+  "english": "good",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a kneeling person over a field, symbolizing goodness and propriety",
+    "interpretation": "The character 良(良) (liáng, \"good\") visually represents a person kneeling in a respectful posture over a cultivated field, suggesting an association with positive qualities and moral correctness.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的学习成绩良好(他的學習成績良好)。",
+      "pinyin": "Tā de xuéxí chéngjì liánghǎo.",
+      "english": "His academic performance is good."
+    },
+    {
+      "chinese": "老师认为他诚实可靠(老師認為他誠實可靠)，品行十分良好(品行十分良好)。",
+      "pinyin": "Lǎoshī rènwéi tā chéngshí kěkào, pǐnxíng shífēn liánghǎo.",
+      "english": "The teacher thinks he is honest and reliable, and his character is very good."
+    },
+    {
+      "chinese": "孩子们学会了礼貌交往(孩子們學會了禮貌交往)，懂得互助为良好品德(懂得互助為良好品德)。",
+      "pinyin": "Háizimen xuéhuìle lǐmào jiāowǎng, dǒngde hùzhù wéi liánghǎo pǐndé.",
+      "english": "The children learn to interact politely, and they understand that mutual help is a good virtue."
+    }
+  ]
+}

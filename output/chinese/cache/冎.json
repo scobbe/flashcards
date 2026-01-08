@@ -1,0 +1,38 @@
+{
+  "simplified": "冎",
+  "traditional": "冎",
+  "pinyin": "guǎ",
+  "english": "bone",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts bones -> original form of 骨(骨) (gǔ, \"bone\")",
+    "interpretation": "The character 冎 is a pictogram representing bones, which later evolved into the character 骨(骨) (gǔ, \"bone\"). It visually conveys the shape of bones, illustrating its intended meaning effectively.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "骨",
+      "trad": "骨",
+      "pinyin": "gǔ",
+      "english": "bone"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "墓室里静默地躺着一块冎(墓室裡靜默地躺著一塊冎)。",
+      "pinyin": "Mùshì lǐ jìngmò de tǎngzhe yī kuài guǎ.",
+      "english": "A bone lay silently in the tomb chamber."
+    },
+    {
+      "chinese": "考古学家在遗址中偶然发现了冎(考古學家在遺址中偶然發現了冎)，并记录下这块冎的奇特纹理(並記錄下這塊冎的奇特紋理)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng ǒurán fāxiàn le guǎ, bìng jìlù xià zhè kuài guǎ de qítè wénlǐ.",
+      "english": "Archaeologists accidentally discovered a bone at the site and recorded the bone's peculiar texture."
+    },
+    {
+      "chinese": "寒冬来临时(寒冬來臨時)，河边冰层下显现出一块冎(河邊冰層下顯現出一塊冎)。",
+      "pinyin": "Hándōng láilín shí, hébiān bīngcéng xià xiǎnxiàn chū yī kuài guǎ.",
+      "english": "When the harsh winter arrived, a bone emerged beneath the icy riverbank."
+    }
+  ]
+}

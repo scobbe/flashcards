@@ -1,0 +1,39 @@
+{
+  "simplified": "阳",
+  "traditional": "陽",
+  "pinyin": "yáng",
+  "english": "male; positive",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 昜(昜) (yáng, \"sunshine\") + Semantic: 阜(阜) (fù, \"hill\") -> Brightness or influence from a hill exposed to the sun, extended to mean \"male\" or \"positive.\"",
+    "interpretation": "Originally, 昜(昜) (yáng, \"sunshine\") depicted sunlight. The addition of 阜(阜) (fù, \"hill\") emphasizes exposure to sunlight on a hill, leading to the association with brightness or positivity.",
+    "simplification": "阳(陽) simplifies the traditional 陽 by replacing 昜(昜) with 日(日) (rì, \"sun\"), reflecting the focus on sunlight in the character's meaning."
+  },
+  "parts": [
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "sunshine"
+    },
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "hill"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是家中的阳(他是家中的陽)。",
+      "pinyin": "Tā shì jiāzhōng de yáng.",
+      "english": "He is the male figure in the family."
+    },
+    {
+      "chinese": "在这场运动会上(在這場運動會上)，他的阳性能量感染了队友(他的陽性能量感染了隊友)。",
+      "pinyin": "Zài zhè chǎng yùndònghuì shàng, tā de yángnéng liàng gǎnrǎn le duìyǒu.",
+      "english": "At this sports meet, his positive energy inspired his teammates."
+    }
+  ]
+}

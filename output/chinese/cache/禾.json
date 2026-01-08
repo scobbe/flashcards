@@ -1,0 +1,31 @@
+{
+  "simplified": "禾",
+  "traditional": "禾",
+  "pinyin": "hé",
+  "english": "grain",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stalk of grain or cereal plant",
+    "interpretation": "The character 禾(禾) (hé, 'grain') visually represents a plant with roots and leaves, focusing on the appearance of staple crops like rice or millet. This clearly conveys its meaning as it resembles the actual shape of a plant grown for its grain.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "收获的禾香弥漫在田野中(收穫的禾香彌漫在田野中)。",
+      "pinyin": "Shōuhuò de hé xiāng mímàn zài tiányě zhōng.",
+      "english": "The fragrance of grain filled the fields."
+    },
+    {
+      "chinese": "农民辛勤耕作(農民辛勤耕作)，收割禾穗(收割禾穗)。",
+      "pinyin": "Nóngmín xīnqín gēngzuò, shōugē hé suì.",
+      "english": "The hardworking farmers harvested the ears of grain."
+    },
+    {
+      "chinese": "春雨滋润了禾苗(春雨滋潤了禾苗)，预示着丰收(預示著豐收)。",
+      "pinyin": "Chūnyǔ zīrùn le hé miáo, yùshì zhe fēngshōu.",
+      "english": "The spring rain nourished the grain seedlings, foreshadowing a bountiful harvest."
+    }
+  ]
+}

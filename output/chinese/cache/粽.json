@@ -1,0 +1,39 @@
+{
+  "simplified": "粽",
+  "traditional": "糉",
+  "pinyin": "zòng",
+  "english": "sticky rice wrapped in leaves",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 㚇(㚇) (zōng, \"phonetic component\") = rice wrapped in leaves -> sticky rice wrapped in leaves",
+    "interpretation": "糉(糉) (zòng, \"sticky rice wrapped in leaves\") uses 米(米) (mǐ, \"rice\") to signify the core ingredient, while the phonetic 㚇(㚇) (zōng) provides the pronunciation. This blending suggests a dish primarily composed of rice, matching its modern culinary context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "㚇",
+      "trad": "㚇",
+      "pinyin": "zōng",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "端午节期间(端午節期間)，家家户户都会吃粽(家家戶戶都會吃粽)。",
+      "pinyin": "Duānwǔ jié qījiān, jiājiāhùhù dōu huì chī zòng.",
+      "english": "During the Dragon Boat Festival, every household eats sticky rice wrapped in leaves."
+    },
+    {
+      "chinese": "我最喜欢吃粽(我最喜歡吃粽)，因为它软糯可口(因爲它軟糯可口)。",
+      "pinyin": "Wǒ zuì xǐhuan chī zòng, yīnwèi tā ruǎnnuò kěkǒu.",
+      "english": "I like eating sticky rice wrapped in leaves the most because it is soft, glutinous, and delicious."
+    }
+  ]
+}

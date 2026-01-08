@@ -1,0 +1,39 @@
+{
+  "simplified": "荷",
+  "traditional": "荷",
+  "pinyin": "hé",
+  "english": "lotus; burden",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass; plant\") + 何(何) (hé) = plant-related meaning with 何 as phonetic -> meaning of lotus or burden",
+    "interpretation": "The character 荷 combines the radical 艸(艸) (cǎo, \"grass; plant\") to indicate its association with plants, specifically the lotus, while 何(何) (hé) provides the phonetic clue. The lotus is considered both a plant and symbolically associated with roles and burdens.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "何",
+      "trad": "何",
+      "pinyin": "hé",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏日的池塘边(夏日的池塘邊)，荷花优雅盛开(荷花優雅盛開)。",
+      "pinyin": "Xiàrì de chítáng biān, héhuā yōuyǎ shèngkāi。",
+      "english": "By the pond on a summer day, lotus flowers bloom gracefully."
+    },
+    {
+      "chinese": "他肩负重担(他肩負重擔)，难以释怀那沉沉的荷(難以釋懷那沉沉的荷)。",
+      "pinyin": "Tā jiānfù zhòngdān, nán yǐ shìhuái nà chénchén de hé。",
+      "english": "He bears a heavy load, unable to let go of that persistent burden."
+    }
+  ]
+}

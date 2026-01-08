@@ -1,0 +1,44 @@
+{
+  "simplified": "完",
+  "traditional": "完",
+  "pinyin": "wán",
+  "english": "finished; intact",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 宀(宀) (mián, \"roof\") + phonetic 元(元) (yuán, \"origin\") = under a roof, things come to completion -> finished, intact",
+    "interpretation": "The character 完(完) (wán, \"finished\") combines 宀(宀) (mián, \"roof\") to convey the idea of enclosure or home, with 元(元) (yuán, \"origin\") providing the pronunciation and implying the completion of a process or development under a roof.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "元",
+      "trad": "元",
+      "pinyin": "yuán",
+      "english": "origin"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他吃完饭(他吃完飯)。",
+      "pinyin": "Tā chī wán fàn.",
+      "english": "He finished eating."
+    },
+    {
+      "chinese": "我做完作业(我做完作業)，就去睡觉(就去睡覺)。",
+      "pinyin": "Wǒ zuò wán zuòyè, jiù qù shuìjiào.",
+      "english": "After I finished my homework, I went to sleep."
+    },
+    {
+      "chinese": "风暴过后(風暴過後)，建筑依然完好(建築依然完好)。",
+      "pinyin": "Fēngbào guòhòu, jiànzhù yīrán wánhǎo.",
+      "english": "After the storm, the building remained intact."
+    }
+  ]
+}

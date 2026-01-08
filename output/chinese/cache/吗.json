@@ -1,0 +1,44 @@
+{
+  "simplified": "吗",
+  "traditional": "嗎",
+  "pinyin": "ma",
+  "english": "question particle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 馬(馬) (mǎ, \"horse\") = mouth speaks + sound of 'ma' -> question particle",
+    "interpretation": "The character 吗(嗎) (ma, \"question particle\") is used to form yes-no questions in Mandarin. The phonetic component 馬(馬) (mǎ, \"horse\") suggests the pronunciation, while 口(口) (kǒu, \"mouth\") relates to speaking or sounds.",
+    "simplification": "The simplification from 嗎 to 吗 involves replacing 馬(馬) (mǎ, \"horse\") with its simplified version 马(马) (mǎ, \"horse\")."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "马",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你好吗(你好嗎)？",
+      "pinyin": "Nǐ hǎo ma?",
+      "english": "How are you?"
+    },
+    {
+      "chinese": "明天我们去公园吗(明天我們去公園嗎)？",
+      "pinyin": "Míngtiān wǒmen qù gōngyuán ma?",
+      "english": "Are we going to the park tomorrow?"
+    },
+    {
+      "chinese": "这本书你看过了吗(這本書你看過了嗎)？",
+      "pinyin": "Zhè běn shū nǐ kàn guò le ma?",
+      "english": "Have you read this book?"
+    }
+  ]
+}

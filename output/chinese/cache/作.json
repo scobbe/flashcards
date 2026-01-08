@@ -1,0 +1,39 @@
+{
+  "simplified": "作",
+  "traditional": "作",
+  "pinyin": "zuò",
+  "english": "make; create; do; work",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 亻(人) (rén, \"person\") + Phonetic: 乍(乍) (zhà, \"sudden\") = actions of a person -> make, create, do, work",
+    "interpretation": "The composition of 作(作) (zuò, \"make\") intuitively conveys the actions typically performed by people, with 亻(人) (rén, \"person\") indicating the human element and 乍(乍) (zhà, \"sudden\") providing the phonetic hint. It represents the concept of a person involved in creating or doing something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "sudden"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他热爱作诗(他熱愛作詩)。",
+      "pinyin": "Tā rè'ài zuò shī.",
+      "english": "He loves to create poetry."
+    },
+    {
+      "chinese": "他在工厂作工(他在工廠作工)，努力挣錢(努力掙錢)。",
+      "pinyin": "Tā zài gōngchǎng zuò gōng, nǔlì zhèng qián.",
+      "english": "He works at a factory and strives to earn money."
+    }
+  ]
+}

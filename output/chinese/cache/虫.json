@@ -1,0 +1,39 @@
+{
+  "simplified": "虫",
+  "traditional": "蟲",
+  "pinyin": "chóng",
+  "english": "insect",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a snake -> borrowed for insects and similar creatures -> 虺(虺) (huǐ, \"snake\") created to reclaim original snake meaning",
+    "interpretation": "The character 虫(蟲) (chóng, \"insect\") initially depicted a snake due to its winding appearance. Over time, it was borrowed to refer to insects and similar small creatures, diverging from its original meaning.",
+    "simplification": "The character was retained in simplified Chinese, simplifying the three worms represented in 蟲 to one in 虫."
+  },
+  "parts": [
+    {
+      "char": "蟲",
+      "trad": "蟲",
+      "pinyin": "chóng",
+      "english": "insect"
+    },
+    {
+      "char": "虺",
+      "trad": "虺",
+      "pinyin": "huǐ",
+      "english": "snake"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花园里发现了许多虫(花園里發現了許多蟲)。",
+      "pinyin": "Huāyuán lǐ fāxiàn le xǔduō chóng。",
+      "english": "Many insects were discovered in the garden."
+    },
+    {
+      "chinese": "一只虫爬上树叶(一隻蟲爬上樹葉)，引起了孩子们的注意(引起了孩子們的注意)。",
+      "pinyin": "Yī zhī chóng pá shàng shùyè, yǐnqǐ le háizimen de zhùyì。",
+      "english": "A bug crawled onto a leaf, attracting the children's attention."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "饮料",
+  "traditional": "飲料",
+  "pinyin": "yǐnliào",
+  "english": "beverage",
+  "etymology": {
+    "type": "compound word",
+    "description": "饮(飲) (yǐn, \"drink\") refers to the act of consuming liquids, and 料(料) (liào, \"material; ingredient\") refers to substances used in making something. Together, 饮料(飲料) (yǐnliào, \"beverage\") indicates a prepared drink made from various ingredients.",
+    "interpretation": "A 饮料(飲料) (yǐnliào, \"beverage\") is a liquid concoction meant for consumption, often made with multiple ingredients to create a flavorful drink.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "饮",
+      "trad": "飲",
+      "pinyin": "yǐn",
+      "english": "drink; swallow"
+    },
+    {
+      "char": "料",
+      "trad": "料",
+      "pinyin": "liào",
+      "english": "material; ingredient; estimate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想喝饮料(我想喝飲料)。",
+      "pinyin": "Wǒ xiǎng hē yǐnliào.",
+      "english": "I want to drink a beverage."
+    },
+    {
+      "chinese": "商店里有各种各样的饮料(商店裡有各種各樣的飲料)。",
+      "pinyin": "Shāngdiàn lǐ yǒu gèzhǒng gèyàng de yǐnliào.",
+      "english": "There are various kinds of beverages in the store."
+    },
+    {
+      "chinese": "他吃完饭后(他吃完飯後)，买了一瓶饮料(買了一瓶飲料)。",
+      "pinyin": "Tā chī wán fàn hòu, mǎi le yì píng yǐnliào.",
+      "english": "After he finished his meal, he bought a bottle of beverage."
+    }
+  ]
+}

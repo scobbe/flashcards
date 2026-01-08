@@ -1,0 +1,44 @@
+{
+  "simplified": "游",
+  "traditional": "遊",
+  "pinyin": "yóu",
+  "english": "to swim; to travel; to wander",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 水(水) (shuǐ, \"water\") + Phonetic: 斿(斿) (yóu, originally having meaning related to travel) = movement through or on water -> swim/travel/wander",
+    "interpretation": "The character combines the water radical with a component originally meaning travel, highlighting both the aspect of swimming in water and wandering or traveling. This reflects the versatility in its meanings.",
+    "simplification": "Traditional 遊(遊) (yóu, \"wander\") uses 辵(辵) (chuò, \"walk\") for traveling, simplified by replacing it with 水(水) (shuǐ, \"water\"), focusing on swimming, which in Chinese culture is closely related to wandering or traveling freely."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "斿",
+      "trad": "斿",
+      "pinyin": "yóu",
+      "english": "travel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢游泳(我喜歡游泳)。",
+      "pinyin": "Wǒ xǐhuān yóuyǒng.",
+      "english": "I like swimming."
+    },
+    {
+      "chinese": "我们周末去郊外游(我們週末去郊外遊)，感受大自然(感受大自然)。",
+      "pinyin": "Wǒmen zhōumò qù jiāowài yóu, gǎnshòu dàzìrán.",
+      "english": "We will travel to the countryside on the weekend and enjoy nature."
+    },
+    {
+      "chinese": "他梦想环游世界(他夢想環遊世界)。",
+      "pinyin": "Tā mèngxiǎng huányóu shìjiè.",
+      "english": "He dreams of traveling the world."
+    }
+  ]
+}

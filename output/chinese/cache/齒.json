@@ -1,0 +1,38 @@
+{
+  "simplified": "齒",
+  "traditional": "齒",
+  "pinyin": "chǐ",
+  "english": "tooth",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally a pictogram depicting a mouth full of teeth -> phonetic 止(止) (zhǐ, \"stop\") added to aid pronunciation",
+    "interpretation": "The character started as a visual representation of teeth and later incorporated 止(止) as a phonetic component to reinforce its pronunciation while maintaining the original pictographic representation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每天早上刷齒(他每天早上刷齒)，晚上睡覺前再刷齒(晚上睡覺前再刷齒)。",
+      "pinyin": "Tā měitiān zǎoshang shuā chǐ, wǎnshàng shuìjiào qián zài shuā chǐ.",
+      "english": "He brushes his teeth every morning, and brushes them again before bed."
+    },
+    {
+      "chinese": "医生检查齒(醫生檢查齒)。",
+      "pinyin": "Yīshēng jiǎnchá chǐ.",
+      "english": "The doctor examined the tooth."
+    },
+    {
+      "chinese": "小猫露出洁白的齒(小貓露出潔白的齒)，显得十分可爱(顯得十分可愛)。",
+      "pinyin": "Xiǎo māo lùchū jiébái de chǐ, xiǎn de shífēn kě'ài.",
+      "english": "The little cat shows its white tooth, looking very cute."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "崾岘",
+  "traditional": "崾岘",
+  "pinyin": "yǎoxiàn",
+  "english": "Yaoxian (place name)",
+  "etymology": {
+    "type": "compound word",
+    "description": "崾(崾) (yǎo, \"difficult to walk\") and 岘(岘) (xiàn, \"mountain pass\") are combined.",
+    "interpretation": "崾岘(崾岘) (yǎoxiàn) refers to a place characterized by its challenging terrain, as suggested by the meanings of the individual characters. 崾(崾) (yǎo, \"difficult to walk\") indicates difficulty in traversing the area, while 岘(岘) (xiàn, \"mountain pass\") denotes a specific geographical feature. Together, the name describes a location that is hard to navigate, potentially due to hilly or mountainous terrain.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "崾",
+      "trad": "崾",
+      "pinyin": "yǎo",
+      "english": "difficult; arduous"
+    },
+    {
+      "char": "岘",
+      "trad": "岘",
+      "pinyin": "xiàn",
+      "english": "mountain pass"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我计划参观崾岘(我計劃參觀崾峴)。",
+      "pinyin": "Wǒ jìhuà cānguān yǎoxiàn.",
+      "english": "I plan to visit Yaoxian."
+    },
+    {
+      "chinese": "游客在夏日畅游崾岘(遊客在夏日暢遊崾峴)，欣赏自然风光(欣賞自然風光)。",
+      "pinyin": "Yóukè zài xiàrì chàngyóu yǎoxiàn, xīnshǎng zìrán fēngguāng.",
+      "english": "Tourists enjoy Yaoxian in summer, appreciating the natural scenery."
+    }
+  ]
+}

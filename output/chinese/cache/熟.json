@@ -1,0 +1,44 @@
+{
+  "simplified": "熟",
+  "traditional": "熟",
+  "pinyin": "shú",
+  "english": "mature; ripe",
+  "etymology": {
+    "type": "Ideogrammic compound and phono-semantic compound",
+    "description": "Phonetic: 孰(孰) (shú, \"cooked; ripe\") + Semantic: 灬(灬) ('fire') = mature or ripe through cooking with fire -> mature; ripe",
+    "interpretation": "The combination of 孰(孰) (shú, \"cooked; ripe\") as the phonetic element and 灬(灬) (\"fire\") as the semantic element illustrates the concept of something becoming mature or ripe through the process of cooking. This reflects the idea that heat (fire) transforms or completes the maturation process.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孰",
+      "trad": "孰",
+      "pinyin": "shú",
+      "english": "cooked; ripe"
+    },
+    {
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "biāo",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "苹果熟了(蘋果熟了)。",
+      "pinyin": "Píngguǒ shú le。",
+      "english": "The apple is ripe."
+    },
+    {
+      "chinese": "果园里的梨子熟了(果園裡的梨子熟了)，农夫正忙着采摘(農夫正忙著採摘)。",
+      "pinyin": "Guǒyuán lǐ de lízi shú le，nóngfū zhèng mángzhe cǎizhāi。",
+      "english": "The pears in the orchard are ripe, and the farmers are busy harvesting."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，桃子开始变得熟软多汁(桃子開始變得熟軟多汁)。",
+      "pinyin": "Xiàtiān láilín shí，táozi kāishǐ biàn de shú ruǎn duō zhī。",
+      "english": "When summer arrives, the peaches begin to turn ripe, soft, and juicy."
+    }
+  ]
+}

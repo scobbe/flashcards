@@ -2,25 +2,25 @@
   "simplified": "燕",
   "traditional": "燕",
   "pinyin": "yàn",
-  "english": "swallow; calm",
+  "english": "swallow; the bird",
   "etymology": {
     "type": "pictogram",
-    "description": "燕(燕) (yàn, \"swallow\") depicts a swallow",
-    "interpretation": "燕(燕) (yàn) is a pictogram depicting the shape or distinctive features of a swallow, capturing its slender, streamlined form as seen in nature. This visual representation emphasizes the character's innate connection to its meaning.",
+    "description": "Depicts a swallow",
+    "interpretation": "The character 燕(yàn, 'swallow') originally depicted a swallow, which is a type of bird. This straightforward pictogram visually represents the physical form of the bird itself.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春风轻拂时(春風輕拂時)，燕子悄然归来(燕子悄然歸來)。",
-      "pinyin": "Chūn fēng qīng fú shí, yàn zi qiāo rán guī lái.",
-      "english": "When the spring breeze gently blows, the swallows quietly return."
+      "chinese": "春天到来时(春天到來時)，燕子归来报春(燕子歸來報春)。",
+      "pinyin": "Chūntiān dào lái shí(Chūntiān dào lái shí)，yànzi guī lái bào chūn(yànzi guī lái bào chūn)。",
+      "english": "When spring arrives, the swallows return to herald the season."
     },
     {
-      "chinese": "面对挑战时(面對挑戰時)，心境燕然自若(心境燕然自若)。",
-      "pinyin": "Miàn duì tiǎo zhàn shí, xīn jìng yàn rán zì ruò.",
-      "english": "When facing challenges, his state of mind remains unruffled."
+      "chinese": "夕阳西下(夕陽西下)，燕穿梭于屋檐(燕穿梭於屋簷)。",
+      "pinyin": "Xīyáng xī xià(Xīyáng xī xià)，yàn chuān suō yú wūyán(yàn chuān suō yú wūyán)。",
+      "english": "As the sun sets in the west, swallows flit under the eaves."
     }
   ]
 }

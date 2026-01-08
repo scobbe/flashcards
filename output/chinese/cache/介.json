@@ -1,0 +1,31 @@
+{
+  "simplified": "介",
+  "traditional": "介",
+  "pinyin": "jiè",
+  "english": "to derive an idea from",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person standing between two lines or boundaries",
+    "interpretation": "The character 介(介) (jiè, 'to derive an idea from') represents the concept of being in-between or acting as a mediator. It conceptually fits the idea of deriving by positioning oneself between different ideas or entities.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他从古代诗词中介出艺术灵感(他從古代詩詞中介出藝術靈感)。",
+      "pinyin": "Tā cóng gǔdài shīcí zhōng jiè chū yìshù línggǎn.",
+      "english": "He derives artistic inspiration from ancient poems."
+    },
+    {
+      "chinese": "科学家阅读文献时介出创新思想(科學家閱讀文獻時介出創新思想)，工程师从实验结果中介出改进方案(工程師從實驗結果中介出改進方案)。",
+      "pinyin": "Kēxuéjiā yuèdú wénxiàn shí jiè chū chuàngxīn sīxiǎng, gōngchéngshī cóng shíyàn jiéguǒ zhōng jiè chū gǎijìn fāng'àn.",
+      "english": "Scientists derive innovative ideas when reading literature, and engineers derive improvement plans from experimental results."
+    },
+    {
+      "chinese": "研究者从历史资料中介出重要信息(研究者從歷史資料中介出重要資訊)。",
+      "pinyin": "Yánjiū zhě cóng lìshǐ zīliào zhōng jiè chū zhòngyào xìnxī.",
+      "english": "Researchers derive key information from historical data."
+    }
+  ]
+}

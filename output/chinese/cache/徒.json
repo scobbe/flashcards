@@ -1,0 +1,39 @@
+{
+  "simplified": "徒",
+  "traditional": "徒",
+  "pinyin": "tú",
+  "english": "follower; disciple",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 彳(彳) (chì, \"step\") + Phonetic: 走(走) (zǒu, \"walk\") = related to walking or journeying -> follower or disciple",
+    "interpretation": "The character 徒(徒) (tú, \"follower\") combines the idea of stepping with walking, suggesting the image of someone who follows or accompanies another over distances.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "walk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是孔子的徒(他是孔子的徒)。",
+      "pinyin": "Tā shì Kǒngzǐ de tú.",
+      "english": "He is a disciple of Confucius."
+    },
+    {
+      "chinese": "李明自幼仰慕大师(李明自幼仰慕大師)，成为其忠实的徒(成为其忠实的徒)。",
+      "pinyin": "Lǐ Míng zì yòu yǎngmù dàshī, chéngwéi qí zhōngshí de tú.",
+      "english": "Li Ming admired the master since childhood and became his loyal disciple."
+    }
+  ]
+}

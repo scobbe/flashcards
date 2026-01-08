@@ -1,0 +1,44 @@
+{
+  "simplified": "江",
+  "traditional": "江",
+  "pinyin": "jiāng",
+  "english": "river",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 工(工) (gōng, from its Old Chinese pronunciation) = water-related meaning reinforced by phonetic component -> river",
+    "interpretation": "The character 江(江) (jiāng, \"river\") combines the water radical 氵(氵) (shuǐ, \"water\") with the phonetic component 工(工) (gōng). This combination signifies a large body of water, fitting the meaning \"river.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条江水流湍急(這條江水流湍急)。",
+      "pinyin": "Zhè tiáo jiāng shuǐ liú tuān jí.",
+      "english": "This river flows rapidly."
+    },
+    {
+      "chinese": "江面上漂浮着渔船(江面上飄浮著漁船)。",
+      "pinyin": "Jiāng miàn shàng piāo fú zhe yú chuán.",
+      "english": "Fishing boats float on the river surface."
+    },
+    {
+      "chinese": "夜晚月光映在江上(夜晚月光映在江上)。",
+      "pinyin": "Yè wǎn yuè guāng yìng zài jiāng shàng.",
+      "english": "At night, the moonlight reflects on the river."
+    }
+  ]
+}

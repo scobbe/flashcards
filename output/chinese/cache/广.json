@@ -1,0 +1,33 @@
+{
+  "simplified": "广",
+  "traditional": "廣",
+  "pinyin": "guǎng",
+  "english": "shelter",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a house with a roof, similar to 宀(宀) (mián, \"roof\") -> a building with three walls -> shelter",
+    "interpretation": "As a pictogram, 广(廣) (guǎng, \"shelter\") visually represents a three-walled structure under a roof, conveying the concept of shelter or covering. It is closely related to the character 宀(宀) (mián, \"roof\"), which includes four walls, indicating the structural nuance captured by ancient scribes.",
+    "simplification": "广(廣) was simplified by using the pictographic element alone, omitting the phonetic component 黃(黃)."
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "暴风骤雨时(暴風驟雨時)，山洞广可供人躲避(山洞廣可供人躲避)。",
+      "pinyin": "Bào fēng zhòu yǔ shí, shān dòng guǎng kě gòng rén duǒ bì.",
+      "english": "When the storm rages, the cave provides shelter."
+    },
+    {
+      "chinese": "旅途中疲惫时(旅途中疲憊時)，老树下广给予行人庇护(老樹下廣給予行人庇護)。",
+      "pinyin": "Lǚ tú zhōng pí bèi shí, lǎo shù xià guǎng jǐ yǔ xíng rén bì hù.",
+      "english": "During a tiring journey, the shelter under the old tree gives travelers protection."
+    }
+  ]
+}

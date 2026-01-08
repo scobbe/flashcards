@@ -1,0 +1,39 @@
+{
+  "simplified": "分",
+  "traditional": "分",
+  "pinyin": "fēn",
+  "english": "divide",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "八(八) (bā, \"to separate\") + 刀(刀) (dāo, \"knife\") = to separate with a knife -> divide",
+    "interpretation": "The character 分(fēn, \"divide\") vividly depicts the action of using a knife to split or separate something into parts. 八(八) (bā, \"to separate\") emphasizes the notion of division, while 刀(刀) (dāo, \"knife\") signifies the tool necessary for such an action, illustrating the concept of dividing clearly and physically.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "to separate"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师把蛋糕分给学生(老師把蛋糕分給學生)。",
+      "pinyin": "Lǎoshī bǎ dàngāo fēn gěi xuéshēng.",
+      "english": "The teacher divided the cake among the students."
+    },
+    {
+      "chinese": "他们分家产(他們分家產)，各自过上幸福生活(各自過上幸福生活)。",
+      "pinyin": "Tāmen fēn jiāchǎn, gèzì guò shàng xìngfú shēnghuó.",
+      "english": "They divided the family estate, and each began a happy life."
+    }
+  ]
+}

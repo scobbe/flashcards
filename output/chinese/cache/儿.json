@@ -1,0 +1,31 @@
+{
+  "simplified": "儿",
+  "traditional": "兒",
+  "pinyin": "ér",
+  "english": "person",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person standing upright, showing legs",
+    "interpretation": "The character 儿(兒) (ér) originally represents a stylized depiction of a person, particularly emphasizing the legs as if they are walking or standing. This provides a visual representation of the concept 'person'.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是个勇敢的儿(他是個勇敢的兒)。",
+      "pinyin": "Tā shì gè yǒnggǎn de ér.",
+      "english": "He is a brave person."
+    },
+    {
+      "chinese": "村里有一个勤劳的儿(村里有一個勤勞的兒)，总帮助邻居解决问题(總幫助鄰居解決問題)。",
+      "pinyin": "Cūn lǐ yǒu yī gè qínláo de ér, zǒng bāngzhù línjū jiějué wèntí.",
+      "english": "There is a hardworking person in the village, who always helps neighbors solve problems."
+    },
+    {
+      "chinese": "古城中流传着一位智者儿(古城中流傳著一位智者兒)，他的故事激励后人(他的故事激勵後人)。",
+      "pinyin": "Gǔ chéng zhōng liúchuán zhe yī wèi zhìzhě de ér, tā de gùshì jīlì hòurén.",
+      "english": "In the ancient city, the story of a wise person is passed down, and his tale inspires future generations."
+    }
+  ]
+}

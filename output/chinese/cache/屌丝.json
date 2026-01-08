@@ -1,0 +1,39 @@
+{
+  "simplified": "屌丝",
+  "traditional": "屌絲",
+  "pinyin": "diǎosī",
+  "english": "loser (internet slang)",
+  "etymology": {
+    "type": "compound word",
+    "description": "屌(屌) (diǎo, \"male genitalia/slang for cocky/), 丝(絲) (sī, \"silk/thread\")",
+    "interpretation": "屌丝(屌絲) (diǎosī) is a slang term originating from Chinese internet culture, humorously referring to someone seen as a 'loser' or lacking in success by the traditional standards of wealth, prestige, or relationships. It juxtaposes the raw and blunt connotation of 屌(屌) (diǎo, \"male genitalia/slang for cocky\") with the soft, delicate imagery of 丝(絲) (sī, \"silk/thread\"), creating an ironic label for individuals who might not meet conventional success criteria but embrace their circumstances with humor and defiance.",
+    "simplification": "丝→絲"
+  },
+  "parts": [
+    {
+      "char": "屌",
+      "trad": "屌",
+      "pinyin": "diǎo",
+      "english": "male genitalia; slang for cocky"
+    },
+    {
+      "char": "丝",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk; thread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他觉得自己是个屌丝(他覺得自己是個屌絲)。",
+      "pinyin": "Tā juéde zìjǐ shìgè diǎosī.",
+      "english": "He thinks he is a loser."
+    },
+    {
+      "chinese": "他的朋友总嘲笑他(他的朋友總嘲笑他)，认为他是个屌丝(認為他是個屌絲)。",
+      "pinyin": "Tā de péngyǒu zǒng cháoxiào tā, rènwéi tā shìgè diǎosī.",
+      "english": "His friends always laugh at him, thinking he is a loser."
+    }
+  ]
+}

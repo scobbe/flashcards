@@ -1,0 +1,44 @@
+{
+  "simplified": "花束",
+  "traditional": "花束",
+  "pinyin": "huāshù",
+  "english": "bouquet",
+  "etymology": {
+    "type": "compound word",
+    "description": "花(花) (huā, \"flower\") + 束(束) (shù, \"bundle\") = bouquet",
+    "interpretation": "A 花(花) (huā, \"flower\") 束(束) (shù, \"bundle\") is a collection of flowers arranged together as a bouquet. The term directly embodies the idea of a 'bundle of flowers', capturing the visual and physical arrangement typically associated with bouquets.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower"
+    },
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle; bunch; to bind"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我给母亲买了一束花束(我給母親買了一束花束)。",
+      "pinyin": "Wǒ gěi mǔqīn mǎile yī shù huāshù.",
+      "english": "I bought a bouquet for my mother."
+    },
+    {
+      "chinese": "他在纪念日晚宴上送她花束(他在紀念日晚宴上送她花束)，表达了深情(表達了深情)。",
+      "pinyin": "Tā zài jìniànrì wǎnyàn shàng sòng tā huāshù, biǎodále shēnqíng.",
+      "english": "He gave her a bouquet during the anniversary dinner, expressing his deep affection."
+    },
+    {
+      "chinese": "花店为婚礼准备了一束花束(花店為婚禮準備了一束花束)。",
+      "pinyin": "Huādiàn wèi hūnlǐ zhǔnbèile yī shù huāshù.",
+      "english": "The florist prepared a bouquet for the wedding."
+    }
+  ]
+}

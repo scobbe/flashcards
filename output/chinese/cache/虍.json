@@ -1,0 +1,26 @@
+{
+  "simplified": "虍",
+  "traditional": "虍",
+  "pinyin": "hū",
+  "english": "\"tiger stripes\"",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tiger's head",
+    "interpretation": "The character 虍(虍) (hū, 'tiger stripes') represents the head of a tiger, distinguishing it from 虎(虎) (hǔ, 'tiger') which includes the entire body. This imagery emphasizes the distinctive features of a tiger's head, such as its stripes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "艺术家在描绘森林时(藝術家在描繪森林時)，巧妙地运用了虍的虎纹效果(巧妙地運用了虍的虎紋效果)。",
+      "pinyin": "Yìshùjiā zài miáohuì sēnlín shí, qiǎomiào de yùnyòngle hū de hǔwén xiàoguǒ.",
+      "english": "The artist, while depicting the forest, skillfully applied the effect of tiger stripes."
+    },
+    {
+      "chinese": "他对虍怀着浓厚的研究兴趣(他對虍懷著濃厚的研究興趣)。",
+      "pinyin": "Tā duì hū huáizhe nónghòu de yánjiū xìngqù.",
+      "english": "He holds a strong interest in studying tiger stripes."
+    }
+  ]
+}

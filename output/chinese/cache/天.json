@@ -1,0 +1,26 @@
+{
+  "simplified": "天",
+  "traditional": "天",
+  "pinyin": "tiān",
+  "english": "heaven",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Horizontal line above 大(dà, \"big\") to depict sky -> anthropomorphic man with large head symbolizing heaven",
+    "interpretation": "The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, \"big\"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜幕降临(夜幕降臨)，天边星光闪烁(天邊星光閃爍)。",
+      "pinyin": "Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.",
+      "english": "As night falls, starlight gleams on the horizon."
+    },
+    {
+      "chinese": "他仰望高空(他仰望高空)，祈求天佑众生(祈求天佑眾生)。",
+      "pinyin": "Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.",
+      "english": "He gazes up to the sky and prays for heaven's protection over all living beings."
+    }
+  ]
+}

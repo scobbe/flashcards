@@ -1,0 +1,44 @@
+{
+  "simplified": "亥",
+  "traditional": "亥",
+  "pinyin": "hài",
+  "english": "亥 (hài)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts plant's roots underground or an animal (original form of 荄(荄) (hài, \"roots\")) -> associated with 豕(豕) (shǐ, \"pig\") in spirit",
+    "interpretation": "The character 亥 (hài) is a pictogram with debated depiction origins. It either illustrates plant roots or an animal resembling pigs, linking it to the Chinese zodiac and calendar.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "荄",
+      "trad": "荄",
+      "pinyin": "hài",
+      "english": "roots"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "现在是亥时(現在是亥時)。",
+      "pinyin": "Xiànzài shì hài shí.",
+      "english": "It is the hai hour."
+    },
+    {
+      "chinese": "夜深了(夜深了)，亥时悄然降临(亥時悄然降臨)。",
+      "pinyin": "Yè shēn le, hài shí qiǎo rán jiàng lín.",
+      "english": "The night has deepened, and the hai hour descends quietly."
+    },
+    {
+      "chinese": "钟声敲响(鐘聲敲響)，预示着亥时来临(預示著亥時來臨)。",
+      "pinyin": "Zhōng shēng qiāo xiǎng, yù shì zhe hài shí lái lín.",
+      "english": "The chimes ring out, indicating that the hai hour has arrived."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "椰奶",
+  "traditional": "椰奶",
+  "pinyin": "yēnǎi",
+  "english": "coconut milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "椰(椰) (yē, \"coconut\") + 奶(奶) (nǎi, \"milk\") = milk from coconut",
+    "interpretation": "椰奶 (yēnǎi, \"coconut milk\") combines 椰(椰) (yē, \"coconut\") and 奶(奶) (nǎi, \"milk\") to refer to milk that is derived from coconuts. This makes sense as it describes the liquid often used in cooking and beverages, providing a creamy, tropical flavor.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "椰",
+      "trad": "椰",
+      "pinyin": "yē",
+      "english": "coconut"
+    },
+    {
+      "char": "奶",
+      "trad": "奶",
+      "pinyin": "nǎi",
+      "english": "milk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢椰奶(我喜歡椰奶)。",
+      "pinyin": "Wǒ xǐhuān yēnǎi.",
+      "english": "I like coconut milk."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，椰奶搭配新鲜水果(椰奶搭配新鮮水果)。",
+      "pinyin": "Xiàtiān láilín shí, yēnǎi dāpèi xīnxiān shuǐguǒ.",
+      "english": "When summer arrives, coconut milk pairs with fresh fruits."
+    },
+    {
+      "chinese": "他做的咖喱需要椰奶(他做的咖喱需要椰奶)，以增加浓郁风味(以增加濃郁風味)。",
+      "pinyin": "Tā zuò de gālí xūyào yēnǎi, yǐ zēngjiā nóngyù fēngwèi.",
+      "english": "The curry he makes requires coconut milk to enhance its rich flavor."
+    }
+  ]
+}

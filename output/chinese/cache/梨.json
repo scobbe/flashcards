@@ -1,0 +1,44 @@
+{
+  "simplified": "梨",
+  "traditional": "梨",
+  "pinyin": "lí",
+  "english": "pear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 利(利) (lì, \"advantage\") + Semantic: 木(木) (mù, \"wood\") = denotes a type of wood -> meaning \"pear\"",
+    "interpretation": "The character 梨(lí, \"pear\") combines the phonetic component 利(lì, \"advantage\") with the semantic component 木(mù, \"wood\") to convey the concept of a fruit-bearing tree, specifically a pear tree. The wood semantics are fitting as pear trees are valued for both their fruit and their timber.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "利",
+      "trad": "利",
+      "pinyin": "lì",
+      "english": "advantage"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃梨(我喜歡吃梨)。",
+      "pinyin": "Wǒ xǐhuān chī lí.",
+      "english": "I like eating pears."
+    },
+    {
+      "chinese": "夏天到了(夏天到了)，梨又大又甜(梨又大又甜)。",
+      "pinyin": "Xiàtiān dàole, lí yòu dà yòu tián.",
+      "english": "In summer, pears are big and sweet."
+    },
+    {
+      "chinese": "超市里有梨(超市裏有梨)，我打算买几个(我打算買幾個)。",
+      "pinyin": "Chāoshì lǐ yǒu lí, wǒ dǎsuàn mǎi jǐ gè.",
+      "english": "There are pears in the supermarket, and I plan to buy a few."
+    }
+  ]
+}

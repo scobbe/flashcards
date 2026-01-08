@@ -1,0 +1,50 @@
+{
+  "simplified": "糖葫芦",
+  "traditional": "糖葫蘆",
+  "pinyin": "tánghúlu",
+  "english": "candied hawthorn",
+  "etymology": {
+    "type": "compound word",
+    "description": "糖(糖) (táng, \"sugar\"), 葫(葫) (hú, \"bottle gourd\"), 芦(蘆) (lu, \"reed\")",
+    "interpretation": "糖葫芦(糖葫蘆) (tánghúlu, \"candied hawthorn\") combines 糖(糖) (táng, \"sugar\"), reflecting the sweetness and sugared coating, with 葫芦(葫蘆) (húlu, \"bottle gourd\"), referring to its shape. Originally, the skewered hawthorns might have resembled small gourds. It is a traditional snack in China with a distinctive sweet and sour taste, popular during winter.",
+    "simplification": "葫蘆 -> 葫芦"
+  },
+  "parts": [
+    {
+      "char": "糖",
+      "trad": "糖",
+      "pinyin": "táng",
+      "english": "sugar"
+    },
+    {
+      "char": "葫",
+      "trad": "葫",
+      "pinyin": "hú",
+      "english": "bottle gourd"
+    },
+    {
+      "char": "芦",
+      "trad": "蘆",
+      "pinyin": "lu",
+      "english": "reed; rush; bottle gourd"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天买了糖葫芦(我今天買了糖葫蘆)。",
+      "pinyin": "Wǒ jīntiān mǎile tánghúlu.",
+      "english": "I bought candied hawthorn today."
+    },
+    {
+      "chinese": "糖葫芦很甜(糖葫蘆很甜)，吸引了很多孩子(吸引了很多孩子)。",
+      "pinyin": "Tánghúlu hěn tián, xīyǐnle hěn duō háizi.",
+      "english": "Candied hawthorn is very sweet, attracting many children."
+    },
+    {
+      "chinese": "在庙会上买糖葫芦(在廟會上買糖葫蘆)，令我心情愉快(令我心情愉快)。",
+      "pinyin": "Zài miàohuì shàng mǎi tánghúlu, lìng wǒ xīnqíng yúkuài.",
+      "english": "Buying candied hawthorn at the fair makes me feel happy."
+    }
+  ]
+}

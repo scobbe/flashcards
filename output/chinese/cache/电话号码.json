@@ -1,0 +1,39 @@
+{
+  "simplified": "电话号码",
+  "traditional": "電話號碼",
+  "pinyin": "diànhuà hàomǎ",
+  "english": "telephone number",
+  "etymology": {
+    "type": "compound word",
+    "description": "電(電) (diàn, \"electricity\") + 話(話) (huà, \"speech\") forms 電話(電話) (diànhuà, \"telephone\"), which refers to the device for transmitting spoken communication through electric signals. 號(號) (hào, \"number\") + 碼(碼) (mǎ, \"code\") combine as 號碼(號碼) (hàomǎ, \"number\"), meaning a numerical identifier. Together, 電話(電話) (diànhuà, \"telephone\") + 號碼(號碼) (hàomǎ, \"number\") = 'telephone number'.",
+    "interpretation": "A 電話(電話) (diànhuà, \"telephone\") is used for communication, and its 號碼(號碼) (hàomǎ, \"number\") is the unique sequence that identifies a particular phone line for dialing.",
+    "simplification": "電話號碼 is the same in simplified."
+  },
+  "parts": [
+    {
+      "char": "电话",
+      "trad": "電話",
+      "pinyin": "diànhuà",
+      "english": "telephone; phone call"
+    },
+    {
+      "char": "号码",
+      "trad": "號碼",
+      "pinyin": "hàomǎ",
+      "english": "number; code"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请给我你的电话号码(請給我你的電話號碼)。",
+      "pinyin": "Qǐng gěi wǒ nǐ de diànhuà hàomǎ.",
+      "english": "Please give me your telephone number."
+    },
+    {
+      "chinese": "我忘记了电话号码(我忘記了電話號碼)，需要再确认(需要再確認)。",
+      "pinyin": "Wǒ wàngjìle diànhuà hàomǎ, xūyào zài quèrèn.",
+      "english": "I forgot the telephone number, and I need to confirm it again."
+    }
+  ]
+}

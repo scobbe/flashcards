@@ -1,0 +1,56 @@
+{
+  "simplified": "壹",
+  "traditional": "壹",
+  "pinyin": "yī",
+  "english": "one",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 士(士) (shì, \"scholar\") + semantic: 丨(丨) (gǔn, \"line\") + phonetic: 口(口) (kǒu, \"mouth\") + semantic: 卄(卄) (niàn, \"twenty\") = complexity and firmness in writing -> formal numeral \"one\"",
+    "interpretation": "The character 壹(壹) (yī, \"one\") was formed to represent the numeral one in formal contexts, distinguished from 一(一) (yī, \"one\"). Its components suggest formality and completeness.",
+    "simplification": "In simplified Chinese, 壹(壹) remains the same as it retains its formal and specific usage."
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "丨",
+      "trad": "丨",
+      "pinyin": "gǔn",
+      "english": "line"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "卄",
+      "trad": "卄",
+      "pinyin": "niàn",
+      "english": "twenty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有壹本书(我有壹本書)。",
+      "pinyin": "Wǒ yǒu yī běn shū.",
+      "english": "I have one book."
+    },
+    {
+      "chinese": "他只买壹件衬衫(他只買壹件襯衫)，不买其他(不買其他)。",
+      "pinyin": "Tā zhǐ mǎi yī jiàn chènshān, bù mǎi qítā.",
+      "english": "He only bought one shirt and did not buy anything else."
+    },
+    {
+      "chinese": "壹个苹果(壹個蘋果)足以代表开始(足以代表開始)。",
+      "pinyin": "Yī gè píngguǒ zúyǐ dàibiǎo kāishǐ.",
+      "english": "One apple is enough to represent a beginning."
+    }
+  ]
+}

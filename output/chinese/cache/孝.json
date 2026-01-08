@@ -1,0 +1,39 @@
+{
+  "simplified": "孝",
+  "traditional": "孝",
+  "pinyin": "xiào",
+  "english": "filial piety",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "子(子) (zǐ, \"child\") below 老(老) (lǎo, \"old\") = child carrying the elder -> filial piety",
+    "interpretation": "孝 represents the concept of filial piety by depicting a child 子(子) supporting an elder 老(老), symbolizing the responsibility and respect a child has towards their parents and elders.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他对父母非常孝(他對父母非常孝)。",
+      "pinyin": "Tā duì fùmǔ fēicháng xiào.",
+      "english": "He is very filial to his parents."
+    },
+    {
+      "chinese": "我们学习孝顺的传统(我們學習孝順的傳統)，以报答父母的恩情(以報答父母的恩情)。",
+      "pinyin": "Wǒmen xuéxí xiàoshùn de chuántǒng, yǐ bàodá fùmǔ de ēnqíng.",
+      "english": "We study the tradition of filial piety to repay our parents' kindness."
+    }
+  ]
+}

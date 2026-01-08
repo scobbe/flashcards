@@ -1,0 +1,44 @@
+{
+  "simplified": "榕",
+  "traditional": "榕",
+  "pinyin": "róng",
+  "english": "banyan",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 容(容) (róng, \"contain\") = wood-related and pronounced as róng -> banyan",
+    "interpretation": "The character 榕(róng, \"banyan\") combines 木(mù, \"tree\") as the semantic component indicating relation to trees and nature with 容(róng, \"contain\") to suggest the sound, producing a character referring to a specific type of large, spreading tree known for its extensive branches.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "容",
+      "trad": "容",
+      "pinyin": "róng",
+      "english": "contain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "榕树是热带雨林的重要组成部分(榕樹是熱帶雨林的重要組成部分)。",
+      "pinyin": "Róngshù shì rèdài yǔlín de zhòngyào zǔchéng bùfèn.",
+      "english": "The banyan is an important part of the tropical rainforest."
+    },
+    {
+      "chinese": "夏日里榕树下乘凉(夏日裡榕樹下乘涼)，学童们嬉戏玩耍(學童們嬉戲玩耍)。",
+      "pinyin": "Xiàrì lǐ róngshù xià chéngliáng, xuétóngmen xīxì wánshuǎ.",
+      "english": "On a summer day, children cool off beneath the banyan while playing happily."
+    },
+    {
+      "chinese": "古老的榕树庇护着小镇(古老的榕樹庇護著小鎮)。",
+      "pinyin": "Gǔlǎo de róngshù bìhù zhe xiǎozhèn.",
+      "english": "The ancient banyan shelters the small town."
+    }
+  ]
+}

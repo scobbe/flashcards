@@ -1,0 +1,38 @@
+{
+  "simplified": "生",
+  "traditional": "生",
+  "pinyin": "shēng",
+  "english": "life; health; live; raw",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "屮(屮) (chè, \"sprout\") on top of a horizontal line -> signifies a plant sprouting from the ground -> symbolizes life",
+    "interpretation": "The character 生(生) (shēng, \"life\") represents the concept of life force or vitality, symbolized by a sprout emerging from the earth, embodying growth and renewal.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "生命是一场美丽的旅程(生命是一場美麗的旅程)。",
+      "pinyin": "Shēngmìng shì yī chǎng měilì de lǚchéng.",
+      "english": "Life is a beautiful journey."
+    },
+    {
+      "chinese": "他在战场上奋力生存(他在戰場上奮力生存)。",
+      "pinyin": "Tā zài zhànchǎng shàng fènlì shēngcún.",
+      "english": "He fights to live on the battlefield."
+    },
+    {
+      "chinese": "这家餐厅的生鱼片非常新鲜(這家餐廳的生魚片非常新鮮)。",
+      "pinyin": "Zhè jiā cāntīng de shēngyúpiàn fēicháng xīnxiān.",
+      "english": "The raw fish slices at this restaurant are very fresh."
+    }
+  ]
+}

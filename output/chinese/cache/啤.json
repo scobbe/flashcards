@@ -1,0 +1,44 @@
+{
+  "simplified": "啤",
+  "traditional": "啤",
+  "pinyin": "pí",
+  "english": "beer",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic: 卑(卑) (bēi, \"low\") = sound element beer -> specific meaning beer",
+    "interpretation": "The character 啤(啤) (pí, \"beer\") combines 口(口) (kǒu, \"mouth\") as the semantic element indicating something related to oral consumption, with the phonetic element 卑(卑) (bēi) which contributes its sound for the character's pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "卑",
+      "trad": "卑",
+      "pinyin": "bēi",
+      "english": "low"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝啤酒(我喜歡喝啤酒)。",
+      "pinyin": "Wǒ xǐhuān hē píjiǔ.",
+      "english": "I like drinking beer."
+    },
+    {
+      "chinese": "朋友邀请我去酒吧喝啤酒(朋友邀請我去酒吧喝啤酒)，我愉快地接受(我愉快地接受)。",
+      "pinyin": "Péngyǒu yāoqǐng wǒ qù jiǔbā hē píjiǔ, wǒ yúkuài de jiēshòu.",
+      "english": "A friend invited me to the bar to drink beer, and I gladly accepted."
+    },
+    {
+      "chinese": "夏天来了(夏天來了)，街头传来啤酒节的欢声(街頭傳來啤酒節的歡聲)。",
+      "pinyin": "Xiàtiān lái le, jiētóu chuán lái píjiǔjié de huānshēng.",
+      "english": "Summer has arrived, and the streets are filled with the joyful sounds of the beer festival."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "枕头",
+  "traditional": "枕頭",
+  "pinyin": "zhěntou",
+  "english": "pillow",
+  "etymology": {
+    "type": "compound word",
+    "description": "枕(枕) (zhěn, \"pillow\") originally referred to an object to rest your head, and 頭(头) (tóu, \"head\") specifies the purpose of the pillow, indicating it is for the head.",
+    "interpretation": "枕頭(枕头) (zhěntou, \"pillow\") combines the concept of a supporting object for the head, making it clear the item is meant to hold or rest the head during sleep or rest.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "枕",
+      "trad": "枕",
+      "pinyin": "zhěn",
+      "english": "pillow"
+    },
+    {
+      "char": "头",
+      "trad": "頭",
+      "pinyin": "tóu",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢用柔软的枕头(我喜歡用柔軟的枕頭)。",
+      "pinyin": "Wǒ xǐhuān yòng róuruǎn de zhěntou.",
+      "english": "I like to use a soft pillow."
+    },
+    {
+      "chinese": "睡觉时(睡覺時)，我总是需要一个舒服的枕头(我總是需要一個舒服的枕頭)。",
+      "pinyin": "Shuìjiào shí, wǒ zǒng shì xūyào yī gè shūfu de zhěntou.",
+      "english": "When sleeping, I always need a comfortable pillow."
+    },
+    {
+      "chinese": "他送给我一个新枕头(他送給我一個新枕頭)。",
+      "pinyin": "Tā sòng gěi wǒ yī gè xīn zhěntou.",
+      "english": "He gave me a new pillow."
+    }
+  ]
+}

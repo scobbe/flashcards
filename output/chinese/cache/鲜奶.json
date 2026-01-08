@@ -1,0 +1,39 @@
+{
+  "simplified": "鲜奶",
+  "traditional": "鮮奶",
+  "pinyin": "xiānnǎi",
+  "english": "fresh milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "鮮(鲜) (xiān, \"fresh\") + 奶(奶) (nǎi, \"milk\")",
+    "interpretation": "The word 鮮奶(鲜奶) (xiānnǎi, \"fresh milk\") combines 鮮(鲜) (xiān, \"fresh\") and 奶(奶) (nǎi, \"milk\") to convey the idea of milk that is in its natural, unspoiled state. This term is commonly used to differentiate fresh milk from processed or powdered milk products.",
+    "simplification": "鲜奶 is the simplified form of 鮮奶."
+  },
+  "parts": [
+    {
+      "char": "鲜",
+      "trad": "鮮",
+      "pinyin": "xiān",
+      "english": "fresh"
+    },
+    {
+      "char": "奶",
+      "trad": "奶",
+      "pinyin": "nǎi",
+      "english": "milk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天早餐喝鲜奶(我每天早餐喝鮮奶)。",
+      "pinyin": "Wǒ měitiān zǎocān hē xiānnǎi.",
+      "english": "I drink fresh milk for breakfast every day."
+    },
+    {
+      "chinese": "早晨喝鲜奶(早晨喝鮮奶)，有助健康(有助健康)。",
+      "pinyin": "Zǎochén hē xiānnǎi, yǒuzhù jiànkāng.",
+      "english": "Drinking fresh milk in the morning is beneficial for health."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "奇",
+  "traditional": "奇",
+  "pinyin": "qí",
+  "english": "strange; odd; unique; rare",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 大(大) (dà, \"big\") + phonetic: 可(可) (kě, \"to allow\") = something that can be unusually large or remarkable -> strange or unique",
+    "interpretation": "The character 奇(奇) (qí, \"strange\") combines 大(大) (dà, \"big\") as its semantic component, suggesting size or prominence, with 可(可) (kě, \"to allow\") as a phonetic component, indicating sound and the possibility of something being unusual or distinctive.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "to allow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的想法真奇(他的想法真奇)。",
+      "pinyin": "Tā de xiǎngfǎ zhēn qí.",
+      "english": "His ideas are truly unique."
+    },
+    {
+      "chinese": "他戴了一顶奇帽(他戴了一頂奇帽)。",
+      "pinyin": "Tā dài le yī dǐng qí mào.",
+      "english": "He wore an unusual hat."
+    },
+    {
+      "chinese": "空中的云彩形状奇(空中的雲彩形狀奇)，令人联想到梦幻世界(令人聯想到夢幻世界)。",
+      "pinyin": "Kōng zhōng de yún cǎi xíng zhuàng qí, lìng rén liánxiǎng dào mènghuàn shì jiè.",
+      "english": "The shapes of the clouds in the sky are peculiar, evoking a dreamlike world."
+    }
+  ]
+}

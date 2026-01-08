@@ -1,0 +1,50 @@
+{
+  "simplified": "王老吉",
+  "traditional": "王老吉",
+  "pinyin": "Wánglǎojí",
+  "english": "Wong Lo Kat (beverage brand)",
+  "etymology": {
+    "type": "compound word",
+    "description": "王(王) (wáng, \"king\"), 老(老) (lǎo, \"old\"), 吉(吉) (jí, \"auspicious\")",
+    "interpretation": "The name 王老吉 (王老吉) (Wánglǎojí) carries connotations of respect and good fortune. 王(王) (wáng, \"king\") denotes authority and prestige, 老(老) (lǎo, \"old\") conveys respect for age and tradition, and 吉(吉) (jí, \"auspicious\") suggests good luck. Together, this name may reflect the brand's aspiration for esteemed status and prosperity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    },
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old"
+    },
+    {
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "auspicious; lucky; propitious; good fortune"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱喝王老吉(我愛喝王老吉)。",
+      "pinyin": "Wǒ ài hē Wánglǎojí.",
+      "english": "I love drinking Wong Lo Kat."
+    },
+    {
+      "chinese": "夏天来了(夏天來了)，王老吉让人感到清凉(王老吉讓人感到清涼)。",
+      "pinyin": "Xiàtiān láile, Wánglǎojí ràng rén gǎndào qīngliáng.",
+      "english": "When summer comes, Wong Lo Kat makes people feel refreshed."
+    },
+    {
+      "chinese": "在热天里(在熱天裡)，王老吉为我解渴(王老吉為我解渴)。",
+      "pinyin": "Zài rè tiān lǐ, Wánglǎojí wèi wǒ jiěkě.",
+      "english": "On hot days, Wong Lo Kat quenches my thirst."
+    }
+  ]
+}

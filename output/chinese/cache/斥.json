@@ -1,0 +1,56 @@
+{
+  "simplified": "斥",
+  "traditional": "斥",
+  "pinyin": "chì",
+  "english": "accuse, blame",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 广(广/廣) (guǎng, \"building\") + phonetic: originally 屰(屰) (nì, \"disobedient\") -> later 干(干/幹) (gàn, \"do\") + traditionally 厂(厂) (hǎn, \"cliff\") -> final form 斥",
+    "interpretation": "The character 斥(斥) (chì, \"accuse\") combines elements that convey both structure and action, linking the concept of accusation to a space and action dynamic. Initially, 屰(屰) (nì) provided phonetic guidance, suggesting action or doing, while 广(广/廣) (guǎng) offered a spatial connotation. The transformation to 干(干/幹) (gàn) and 厂(厂) (hǎn) simplified and solidified the meaning while maintaining phonetic relationships. This evolution reflects a shift from spatial structure to interaction, aligning with the character's contemporary meaning.",
+    "simplification": "No simplification; traditional and simplified forms are the same."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "building"
+    },
+    {
+      "char": "屰",
+      "trad": "屰",
+      "pinyin": "nì",
+      "english": "disobedient"
+    },
+    {
+      "char": "干",
+      "trad": "干",
+      "pinyin": "gàn",
+      "english": "do"
+    },
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "hǎn",
+      "english": "cliff"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "父母斥责不听话的孩子(父母斥責不聽話的孩子)。",
+      "pinyin": "fùmǔ chìzé bù tīnghuà de háizi.",
+      "english": "Parents blame disobedient children."
+    },
+    {
+      "chinese": "他斥责了错误的意见(他斥責了錯誤的意見)。",
+      "pinyin": "tā chìzé le cuòwù de yìjiàn.",
+      "english": "He accused the idea of being wrong."
+    },
+    {
+      "chinese": "领导斥责员工懒散(領導斥責員工懶散)。",
+      "pinyin": "lǐngdǎo chìzé yuángōng lǎnsǎn.",
+      "english": "The leader blamed the employees for being lazy."
+    }
+  ]
+}

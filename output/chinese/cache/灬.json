@@ -1,0 +1,31 @@
+{
+  "simplified": "灬",
+  "traditional": "灬",
+  "pinyin": "biāo",
+  "english": "fire",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts flames or fire at the bottom of a character",
+    "interpretation": "The character 灬(biāo, 'fire') visually resembles flames and is used to represent fire-related concepts, especially as a radical component in many Chinese characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "灬是燃烧的象征(灬是燃燒的象徵)。",
+      "pinyin": "biāo shì ránshāo de xiàngzhēng.",
+      "english": "Fire is a symbol of burning."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，灬映出温暖的光芒(灬映出溫暖的光芒)。",
+      "pinyin": "yè mù jiàng lín shí, biāo yìng chū wēnnuǎn de guāngmáng.",
+      "english": "When night falls, fire radiates a warm glow."
+    },
+    {
+      "chinese": "狂风暴雨后(狂風暴雨後)，灬象征重生(灬象徵重生)。",
+      "pinyin": "kuáng fēng bào yǔ hòu, biāo xiàngzhēng chóngshēng.",
+      "english": "After the storm, fire symbolizes rebirth."
+    }
+  ]
+}

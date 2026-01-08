@@ -1,0 +1,39 @@
+{
+  "simplified": "尙",
+  "traditional": "尙",
+  "pinyin": "shàng",
+  "english": "still",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 小(小) (xiǎo, \"small\") + phonetic: 冋(冋) (jiōng, component only, no standalone meaning in modern usage) = invoke sense of \"still\" with phonetic guidance",
+    "interpretation": "The character 尙(尙) (shàng, \"still\") combines the idea of something small or lesser with a phonetic component to suggest the notion of lingering or remaining.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "冋",
+      "trad": "冋",
+      "pinyin": "jiōng",
+      "english": "component only"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他尙在等待消息(他尚在等待消息)。",
+      "pinyin": "Tā shàng zài děngdài xiāoxī.",
+      "english": "He is still waiting for news."
+    },
+    {
+      "chinese": "我尙未决定(我尚未決定)，继续等待答案(繼續等待答案)。",
+      "pinyin": "Wǒ shàng wèi juédìng, jìxù děngdài dá'àn.",
+      "english": "I still haven't decided, and I continue to wait for an answer."
+    }
+  ]
+}

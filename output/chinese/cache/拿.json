@@ -1,0 +1,50 @@
+{
+  "simplified": "拿",
+  "traditional": "拿",
+  "pinyin": "ná",
+  "english": "take; hold",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "奴(奴) (nú, \"servant\") + 手(手) (shǒu, \"hand\") = taking with the hand -> later evolved to include 合(合) (hé, \"combine\") to form a new glyph for 'take, hold'",
+    "interpretation": "The character combines the phonetic component 奴(奴) (nú, \"servant\") with 手(手) (shǒu, \"hand\") to portray the action of a hand taking or holding. The addition of 合(合) (hé, \"combine\") in 拿 evolved it as an accepted alternative glyph, streamlining meaning and form from its earlier versions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "奴",
+      "trad": "奴",
+      "pinyin": "nú",
+      "english": "servant"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "合",
+      "trad": "合",
+      "pinyin": "hé",
+      "english": "combine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你把书拿给我(請你把書拿給我)。",
+      "pinyin": "Qǐng nǐ bǎ shū ná gěi wǒ.",
+      "english": "Please take the book to me."
+    },
+    {
+      "chinese": "他拿起电话(他拿起電話)，拨打紧急呼叫(撥打緊急呼叫)。",
+      "pinyin": "Tā ná qǐ diànhuà, bōdǎ jǐnjí hūjiào.",
+      "english": "He picked up the phone, and dialed for emergency help."
+    },
+    {
+      "chinese": "她先拿出钥匙(她先拿出鑰匙)，打开门(打開門)。",
+      "pinyin": "Tā xiān ná chū yàoshi, dǎkāi mén.",
+      "english": "She first took out the key, then opened the door."
+    }
+  ]
+}

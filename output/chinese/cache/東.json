@@ -1,0 +1,39 @@
+{
+  "simplified": "東",
+  "traditional": "東",
+  "pinyin": "dōng",
+  "english": "bag",
+  "etymology": {
+    "type": "Jiajie and ideogram",
+    "description": "Originally borrowed from 束(束) (shù, 'bundle') for sound similarity with 橐(橐) (tuó, 'bag') -> a horizontal stroke added to differentiate 東(東) (dōng, 'east') -> final form",
+    "interpretation": "東(東) (dōng) was adapted from existing characters to convey its phonetic sound. It was visually modified to create a unique form, aiding differentiation from related or sound-alike characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle"
+    },
+    {
+      "char": "橐",
+      "trad": "橐",
+      "pinyin": "tuó",
+      "english": "bag"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了个新東(我買了個新東)。",
+      "pinyin": "Wǒ mǎi le gè xīn dōng.",
+      "english": "I bought a new bag."
+    },
+    {
+      "chinese": "他把東放在桌上(他把東放在桌上)，准备去旅行(準備去旅行)。",
+      "pinyin": "Tā bǎ dōng fàng zài zhuō shàng, zhǔnbèi qù lǚxíng.",
+      "english": "He put the bag on the table, preparing to travel."
+    }
+  ]
+}

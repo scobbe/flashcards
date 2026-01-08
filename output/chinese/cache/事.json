@@ -1,0 +1,44 @@
+{
+  "simplified": "事",
+  "traditional": "事",
+  "pinyin": "shì",
+  "english": "matter; affair; problem; thing",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 中(中) (zhōng, \"a flagpole with a drum\") = flag in hand -> to perform one's job",
+    "interpretation": "The character 事(事) (shì, \"matter\") represents the concept of handling or managing affairs, symbolized by holding a flag, indicating a formal duty or role. The flagpole with a drum suggests organized activity or official matters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "a flagpole with a drum"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件事很复杂(這件事很複雜)。",
+      "pinyin": "Zhè jiàn shì hěn fùzá.",
+      "english": "This matter is very complicated."
+    },
+    {
+      "chinese": "小事也能引发大问题(小事也能引發大問題)，我们需要认真对待(我們需要認真對待)。",
+      "pinyin": "Xiǎo shì yě néng yǐn fā dà wèntí, wǒmen xūyào rènzhēn duìdài.",
+      "english": "Even small matters can trigger big problems; we need to handle them seriously."
+    },
+    {
+      "chinese": "他总是处理各种事(他總是處理各種事)，不管大小(不管大小)。",
+      "pinyin": "Tā zǒng shì chǔlǐ gèzhǒng shì, bùguǎn dàxiǎo.",
+      "english": "He always manages various affairs, regardless of their significance."
+    }
+  ]
+}

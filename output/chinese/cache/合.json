@@ -1,0 +1,44 @@
+{
+  "simplified": "合",
+  "traditional": "合",
+  "pinyin": "hé",
+  "english": "combine",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亼(亼) (jí, \"gather\") + 口(口) (kǒu, \"mouth\") = two mouths speaking together -> combine",
+    "interpretation": "This character represents the concept of combining or uniting, stemming from the idea of multiple mouths expressing or speaking together, symbolizing unity or combination.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们把两种颜色合起来(我們把兩種顏色合起來)。",
+      "pinyin": "Wǒmen bǎ liǎng zhǒng yánsè hé qǐlái.",
+      "english": "We combine two colors."
+    },
+    {
+      "chinese": "各部分合而为一(各部分合而為一)。",
+      "pinyin": "Gè bùfen hé ér wéi yī.",
+      "english": "All parts combine into one."
+    },
+    {
+      "chinese": "他将小组力量合在一起(他將小組力量合在一起)，创出辉煌成绩(創出輝煌成績)。",
+      "pinyin": "Tā jiāng xiǎozǔ lìliàng hé zài yīqǐ, chuàng chū huīhuáng chéngjì.",
+      "english": "He combines the team’s strength together to achieve brilliant results."
+    }
+  ]
+}

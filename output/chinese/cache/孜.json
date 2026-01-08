@@ -1,0 +1,44 @@
+{
+  "simplified": "孜",
+  "traditional": "孜",
+  "pinyin": "zī",
+  "english": "\"diligent\"",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 子(子) (zǐ, 'child') + Semantic: 攵(攴) (pū, 'action') = action related to diligence -> diligent",
+    "interpretation": "The character 孜(孜) (zī, 'diligent') combines the phonetic component 子(子) (zǐ, 'child') with the semantic component 攵(攴) (pū, 'action') to convey the idea of diligently applying action or effort, reflecting perseverance similar to a child's energy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "攵",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "action"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她孜孜不倦地学习(她孜孜不倦地學習)。",
+      "pinyin": "Tā zī zī bù juàn de xué xí.",
+      "english": "She studies diligently."
+    },
+    {
+      "chinese": "他工作辛勤(他工作辛勤)，始终孜孜以求(始終孜孜以求)。",
+      "pinyin": "Tā gōng zuò xīn qín, shǐ zhōng zī zī yǐ qiú.",
+      "english": "He works hard, and he is always diligent in seeking improvement."
+    },
+    {
+      "chinese": "古人以礼待人(古人以禮待人)，更讲究孜孜不倦(更講究孜孜不倦)。",
+      "pinyin": "Gǔ rén yǐ lǐ dài rén, gèng jiǎng jiù zī zī bù juàn.",
+      "english": "Ancient people treated others with courtesy, and they valued diligence immensely."
+    }
+  ]
+}

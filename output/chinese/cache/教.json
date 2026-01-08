@@ -1,0 +1,39 @@
+{
+  "simplified": "教",
+  "traditional": "教",
+  "pinyin": "jiào",
+  "english": "teach; religion",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 爻(爻) (yáo, 'false, change') + phonetic: 孝(孝) (xiào, 'filial piety') = combining change with filial acts -> instruct, teach",
+    "interpretation": "教(教) (jiào) conveys the idea of modifying behavior or passing down values, as represented by a mix of change/transformation from 爻(爻) (yáo) and the idea of governance or discipline from 孝(孝) (xiào). This reflects both teaching and the moral aspects associated with religious instruction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爻",
+      "trad": "爻",
+      "pinyin": "yáo",
+      "english": "false, change"
+    },
+    {
+      "char": "孝",
+      "trad": "孝",
+      "pinyin": "xiào",
+      "english": "filial piety"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师在教室认真教学生(老師在教室認真教學生)。",
+      "pinyin": "Lǎoshī zài jiàoshì rènzhēn jiào xuéshēng.",
+      "english": "The teacher diligently teaches the students in the classroom."
+    },
+    {
+      "chinese": "他对佛教文化充满热情(他對佛教文化充滿熱情)。",
+      "pinyin": "Tā duì Fójiào wénhuà chōngmǎn rèqíng.",
+      "english": "He is passionate about Buddhist culture."
+    }
+  ]
+}

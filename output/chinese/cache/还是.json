@@ -1,0 +1,44 @@
+{
+  "simplified": "还是",
+  "traditional": "還是",
+  "pinyin": "háishi",
+  "english": "still; yet",
+  "etymology": {
+    "type": "compound word",
+    "description": "还(還) (hái, \"still; yet\") is a word indicating continuation or persistence in a state or action. 是(是) (shì, \"be\") is a copula, used to link the subject and predicate. The combination 还是(還是) means \"still\" or \"yet,\" suggesting the persistence of a state or situation despite expectations to the contrary.",
+    "interpretation": "The word 还是(還是) (háishi, \"still; yet\") conveys the idea of something remaining unchanged or continuing in spite of circumstances that might suggest otherwise. It merges the concept of continuity from 还(還) (hái, \"still; yet\") with the confirming nature of 是(是) (shì, \"be\").",
+    "simplification": "simplified later from 還是"
+  },
+  "parts": [
+    {
+      "char": "还",
+      "trad": "還",
+      "pinyin": "hái",
+      "english": "still; yet"
+    },
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "be; yes; correct; right"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "尽管外面下大雨(儘管外面下大雨)，他还是骑车上学(他還是騎車上學)。",
+      "pinyin": "Jǐnguǎn wàimiàn xià dàyǔ, tā háishi qíchē shàngxué.",
+      "english": "Although it is raining heavily outside, he still rides his bike to school."
+    },
+    {
+      "chinese": "他累了(他累了)，还是坚持工作(他還是堅持工作)。",
+      "pinyin": "Tā lèile, háishi jiānchí gōngzuò.",
+      "english": "Even though he was tired, he still persisted in working."
+    },
+    {
+      "chinese": "时间不够了(時間不夠了)，他还是完成了任务(他還是完成了任務)。",
+      "pinyin": "Shíjiān bùgòule, tā háishi wánchéngle rènwù.",
+      "english": "Even though there wasn't enough time, he still completed the task."
+    }
+  ]
+}

@@ -2,30 +2,25 @@
   "simplified": "口",
   "traditional": "口",
   "pinyin": "kǒu",
-  "english": "mouth; opening; entrance; measure word for people (in census)",
+  "english": "mouth; opening; measure word for people",
   "etymology": {
     "type": "pictogram",
     "description": "Depicts an open mouth",
-    "interpretation": "The character 口(口) (kǒu, \"mouth\") is a pictogram that intuitively illustrates the shape of an open mouth, making it straightforward to associate with meanings related to oral communication, entry points, and counting word for people.",
+    "interpretation": "The character 口(kǒu) represents a pictorial depiction of an open mouth, indicating its meaning as 'mouth.' Its pictographic origin makes it intuitively connected to the concept it represents—related to speaking or openings. This character is also a common radical, forming part of many complex characters with meanings related to mouths or openings.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他张开口大笑(他張開口大笑)。",
-      "pinyin": "Tā zhāng kāi kǒu dà xiào。",
-      "english": "He opened his mouth wide and laughed heartily."
+      "chinese": "我家有三口人(我家有三口人)。",
+      "pinyin": "Wǒ jiā yǒu sān kǒu rén.",
+      "english": "My family has three members."
     },
     {
-      "chinese": "我们从城门口进入(我們從城門口進入)，参观古城(參觀古城)。",
-      "pinyin": "Wǒ men cóng chéng mén kǒu jìn rù, cān guān gǔ chéng。",
-      "english": "We entered through the city gate and visited the ancient city."
-    },
-    {
-      "chinese": "全家五口人(全家五口人)，和睦相处(和睦相處)。",
-      "pinyin": "Quán jiā wǔ kǒu rén, hé mù xiāng chǔ。",
-      "english": "The family, consisting of five members, lives in harmony."
+      "chinese": "地处河口的平台很美丽(地處河口的平台很美麗)。",
+      "pinyin": "Dì chǔ hé kǒu de píngtái hěn měilì.",
+      "english": "The platform located at the river's mouth is beautiful."
     }
   ]
 }

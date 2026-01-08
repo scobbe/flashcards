@@ -1,0 +1,31 @@
+{
+  "simplified": "王",
+  "traditional": "王",
+  "pinyin": "wáng",
+  "english": "king",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a ritual axe representing the king's authority",
+    "interpretation": "This character represents the form of a ceremonial axe, which was the symbol of a king's power in ancient China. The structure emphasizes the sacred and authoritative role of the king, separate from the nuanced folk interpretations linking Heaven, Man, and Earth.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被称为王(他被稱為王)，领导人民(領導人民)。",
+      "pinyin": "Tā bèi chēng wéi wáng, lǐngdǎo rénmín.",
+      "english": "He is called the king, leading his people."
+    },
+    {
+      "chinese": "古代的君主常被尊称为王(古代的君主常被尊稱為王)。",
+      "pinyin": "Gǔdài de jūnzhǔ cháng bèi zūnchēng wéi wáng.",
+      "english": "Ancient rulers were often respectfully called kings."
+    },
+    {
+      "chinese": "在祭祀仪式上(在祭祀儀式上)，人们向王致敬(人們向王致敬)。",
+      "pinyin": "Zài jìsì yíshì shàng, rénmen xiàng wáng zhìjìng.",
+      "english": "During the ceremonial sacrifices, people salute the king."
+    }
+  ]
+}

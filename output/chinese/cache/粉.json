@@ -1,0 +1,44 @@
+{
+  "simplified": "粉",
+  "traditional": "粉",
+  "pinyin": "fěn",
+  "english": "powder; starch",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 米(米) (mǐ, \"rice\") + phonetic: 分(分) (fēn) = ground or powdered rice -> powder",
+    "interpretation": "The character 粉(fěn, \"powder\") combines 米(米) (mǐ, \"rice\"), indicating the material often ground into powder, with 分(分) (fēn), suggesting the act of separating or dividing into small particles. This character relates to the creation of powdery substances like flour or starch from rice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这包面粉(這包麵粉)，看起来很新鲜(看起來很新鮮)。",
+      "pinyin": "Zhè bāo miànfěn，kàn qǐlái hěn xīnxiān。",
+      "english": "This bag of flour looks very fresh."
+    },
+    {
+      "chinese": "妈妈用玉米粉(媽媽用玉米粉)，做了美味的玉米饼(做了美味的玉米餅)。",
+      "pinyin": "Māmā yòng yùmǐ fěn，zuò le měiwèi de yùmǐ bǐng。",
+      "english": "Mom used corn flour to make delicious corn pancakes."
+    },
+    {
+      "chinese": "他买了一些洗衣粉(他買了一些洗衣粉)，准备打扫房间(準備打掃房間)。",
+      "pinyin": "Tā mǎi le yīxiē xǐyī fěn，zhǔnbèi dǎsǎo fángjiān。",
+      "english": "He bought some laundry detergent powder and prepared to clean the room."
+    }
+  ]
+}

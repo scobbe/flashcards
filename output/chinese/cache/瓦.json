@@ -1,0 +1,31 @@
+{
+  "simplified": "瓦",
+  "traditional": "瓦",
+  "pinyin": "wǎ",
+  "english": "earthenware",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts fired earthenware pottery or a tile",
+    "interpretation": "The character 瓦(wǎ) represents the shape of a piece of earthenware, capturing the essence of pottery or tiles, which were basic elements in early Chinese construction and daily life.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老工匠用心烧制瓦(瓦)。",
+      "pinyin": "Lǎo gōngjiàng yòngxīn shāozhì wǎ.",
+      "english": "The old craftsman carefully fires the earthenware."
+    },
+    {
+      "chinese": "这座老房子用瓦(瓦)，给人温馨的感觉(給人溫馨的感覺)。",
+      "pinyin": "Zhè zuò lǎo fángzi yòng wǎ, gěi rén wēnxīn de gǎnjué.",
+      "english": "This old house uses earthenware, giving a warm feeling."
+    },
+    {
+      "chinese": "古镇小巷旁边的摊位贩卖精美瓦(瓦)，吸引了四方游客(吸引了四方遊客)。",
+      "pinyin": "Gǔ zhèn xiǎo xiàng pángbiān de tānwèi fànmài jīngměi wǎ, xīyǐn le sìfāng yóukè.",
+      "english": "A stall selling exquisite earthenware beside the ancient town alley attracts tourists from all over."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "别",
+  "traditional": "別",
+  "pinyin": "bié",
+  "english": "leave; part; farewell; separate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 刂 (dāo, \"knife\") + phonetic: another part representing 刀 (dāo, \"knife\") -> initial separation meaning; changed to add 彐 (jì, \"snout\") later -> become separate -> final form to express concepts related to separation or differentiation",
+    "interpretation": "The character 别(別) (bié, \"separate\") incorporates 刂(dāo, \"knife\"), symbolizing cutting or dividing, with a phonetic component that originally represented another knife, indicating parting or separating. The addition of 彐(jì, \"snout\") might have been a later addition to clarify pronunciation or sand for the semantic distinction in usage.",
+    "simplification": "别(別): 刂(卩) dropped top to combine two components into a simpler character."
+  },
+  "parts": [
+    {
+      "char": "刂",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "彐",
+      "trad": "彐",
+      "pinyin": "jì",
+      "english": "snout"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "别走(別走)，我们以后再见(我們以後再見)。",
+      "pinyin": "Bié zǒu, wǒmen yǐhòu zài jiàn.",
+      "english": "Don't leave, we'll meet again."
+    },
+    {
+      "chinese": "在分别时(在別離時)，保持冷静(保持冷靜)。",
+      "pinyin": "Zài fēnbié shí, bǎochí lěngjìng.",
+      "english": "At the time of parting, keep calm."
+    }
+  ]
+}

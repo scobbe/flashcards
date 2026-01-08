@@ -1,0 +1,44 @@
+{
+  "simplified": "早",
+  "traditional": "早",
+  "pinyin": "zǎo",
+  "english": "early",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "Early pictogram depicts an acorn -> borrowed phonetically for 'morning' -> Late bronze inscriptions: semantic 日(日) (rì, 'sun') + phonetic 棗(枣) (zǎo) -> small seal script: 日(日, 'sun') + 甲(甲, 'first') = when the sun first rises -> 'early'",
+    "interpretation": "The character evolved from depicting an acorn to incorporating the image of the sun and the concept of 'first,' symbolizing the sun's rise to indicate 'early.' It's a combination of both semantic elements and phonetic borrowing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "甲",
+      "trad": "甲",
+      "pinyin": "jiǎ",
+      "english": "first"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天起床很早(我今天起床很早)。",
+      "pinyin": "Wǒ jīntiān qǐchuáng hěn zǎo.",
+      "english": "I woke up very early today."
+    },
+    {
+      "chinese": "他早到办公室(他早到辦公室)，开始了紧张的会议(開始了緊張的會議)。",
+      "pinyin": "Tā zǎo dào bàngōngshì, kāishǐ le jǐnzhāng de huìyì.",
+      "english": "He arrived at the office early and started a busy meeting."
+    },
+    {
+      "chinese": "他喜欢早睡(他喜歡早睡)，早起的习惯让他精力充沛(早起的習慣讓他精力充沛)。",
+      "pinyin": "Tā xǐhuān zǎo shuì, zǎo qǐ de xíguàn ràng tā jīnglì chōngpèi.",
+      "english": "He likes going to bed early, and his habit of getting up early makes him energetic."
+    }
+  ]
+}

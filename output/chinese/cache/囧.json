@@ -1,0 +1,31 @@
+{
+  "simplified": "囧",
+  "traditional": "囧",
+  "pinyin": "jiǒng",
+  "english": "window",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a window with an open lattice pattern",
+    "interpretation": "The character 囧(jǒng, \"window\") originally represents a window with an open lattice design, illustrating its functional purpose as a framework for ventilation and light.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这扇囧很大(這扇囧很大)。",
+      "pinyin": "Zhè shàn jiǒng hěn dà.",
+      "english": "This window is very large."
+    },
+    {
+      "chinese": "早晨透过囧射进温暖的光(早晨透過囧射進溫暖的光)，一切焕然一新(一切煥然一新)。",
+      "pinyin": "Zǎochén tòuguò jiǒng shè jìn wēnnuǎn de guāng, yīqiè huànrán yīxīn.",
+      "english": "In the morning, warm light poured in through the window, and everything looked brand new."
+    },
+    {
+      "chinese": "老屋的囧保存着历史的痕迹(老屋的囧保存著歷史的痕跡)，诉说着往昔的故事(訴說著往昔的故事)。",
+      "pinyin": "Lǎowū de jiǒng bǎocún zhe lìshǐ de hénjì, sùshuō zhe wǎngxī de gùshì.",
+      "english": "The old house's window preserves traces of history and tells stories of the past."
+    }
+  ]
+}

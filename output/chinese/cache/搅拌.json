@@ -1,0 +1,44 @@
+{
+  "simplified": "搅拌",
+  "traditional": "攪拌",
+  "pinyin": "jiǎobàn",
+  "english": "stir; mix",
+  "etymology": {
+    "type": "compound word",
+    "description": "搅(攪) (jiǎo, \"stir\") and 拌(拌) (bàn, \"mix\") together mean the action of stirring and mixing substances. This combination logically represents the process of actively blending materials, often for cooking or industrial purposes.",
+    "interpretation": "搅(攪) (jiǎo, \"stir\") involves a motion of agitation, while 拌(拌) (bàn, \"mix\") refers to combining substances. Used together, they succinctly describe the common action in cooking or mixing substances by stirring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "搅",
+      "trad": "攪",
+      "pinyin": "jiǎo",
+      "english": "stir"
+    },
+    {
+      "char": "拌",
+      "trad": "拌",
+      "pinyin": "bàn",
+      "english": "mix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用木棒搅拌面糊(他用木棒攪拌麵糊)。",
+      "pinyin": "Tā yòng mùbàng jiǎobàn miànhú.",
+      "english": "He stirs the batter with a wooden stick."
+    },
+    {
+      "chinese": "妈妈在厨房搅拌汤汁(媽媽在廚房攪拌湯汁)，细心调配调料(細心調配調料)。",
+      "pinyin": "Māmā zài chúfáng jiǎobàn tāngzhī, xìxīn tiáopèi tiáoliào.",
+      "english": "Mom stirs the soup in the kitchen, carefully mixing the seasonings."
+    },
+    {
+      "chinese": "厨师搅拌酱汁时(廚師攪拌醬汁時)，火候掌握得恰到好处(火候掌握得恰到好處)。",
+      "pinyin": "Chúshī jiǎobàn jiàngzhī shí, huǒhòu zhǎngwò dé qià dào hǎochù.",
+      "english": "The chef stirs the sauce, perfectly controlling the heat."
+    }
+  ]
+}

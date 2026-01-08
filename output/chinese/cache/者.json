@@ -1,0 +1,44 @@
+{
+  "simplified": "者",
+  "traditional": "者",
+  "pinyin": "zhě",
+  "english": "one who; -er, -ist",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Old Seal Script: 土(土) (tǔ, \"earth\") + 日(日) (rì, \"sun\") = in the sun on earth -> man doing something on earth -> one who does",
+    "interpretation": "The character 者(者) (zhě, \"one who\") combines 土(土) (tǔ, \"earth\") and 日(日) (rì, \"sun\") depicting a person standing upright on the ground, engaging in actions under the sun. This evolved to represent an agent or performer of an action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "勤奋者总能成功(勤奮者總能成功)。",
+      "pinyin": "qínfèn zhě zǒng néng chénggōng.",
+      "english": "Diligent people always achieve success."
+    },
+    {
+      "chinese": "学识渊博者(學識淵博者)，才能产生深远影响(才能產生深遠影響)。",
+      "pinyin": "xuéshí yuānbó zhě, cái néng chǎnshēng shēnyuǎn yǐngxiǎng.",
+      "english": "One who is knowledgeable can create far-reaching effects."
+    },
+    {
+      "chinese": "智慧者懂得自律(智慧者懂得自律)。",
+      "pinyin": "zhìhuì zhě dǒngdé zìlǜ.",
+      "english": "A wise person understands self-discipline."
+    }
+  ]
+}

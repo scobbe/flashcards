@@ -1,0 +1,39 @@
+{
+  "simplified": "利",
+  "traditional": "利",
+  "pinyin": "lì",
+  "english": "advantage",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "禾(禾) (hé, 'grain') + 刀(刀) (dāo, 'knife') = reaping grain with a knife -> advantage",
+    "interpretation": "The character 利(利) (lì, 'advantage') symbolizes the act of cutting grain efficiently with a knife, which implies an advantage or benefit in harvesting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "正确的决定能带来意想不到的利(正確的決定能帶來意想不到的利)。",
+      "pinyin": "Zhèngquè de juédìng néng dàilái yìxiǎngbùdào de lì.",
+      "english": "A correct decision can bring unexpected advantage."
+    },
+    {
+      "chinese": "团队协作能发挥各自优势带来的利(團隊協作能發揮各自優勢帶來的利)，互相支持更能增添合作的利(互相支持更能增添合作的利)。",
+      "pinyin": "Tuánduì xiézuò néng fāhuī gèzì yōushì dài lái de lì，hùxiāng zhīchí gèng néng zēngtiān hézuò de lì.",
+      "english": "Teamwork can leverage the advantages of each party, and mutual support can further enhance the benefits of cooperation."
+    }
+  ]
+}

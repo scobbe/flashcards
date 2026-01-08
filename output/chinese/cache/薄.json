@@ -1,0 +1,44 @@
+{
+  "simplified": "薄",
+  "traditional": "薄",
+  "pinyin": "bó",
+  "english": "thin; meagre; light; slight",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, 'grass') + phonetic: 溥(溥) (pǔ, 'widespread') → thin, meagre",
+    "interpretation": "The character combines 艹(艹) (cǎo, 'grass') as the semantic component, indicating associations with plants or fields, with 溥(溥) (pǔ, 'widespread') as the phonetic component, suggesting sound. Together, they convey ideas of thinness or lightness, often applicable to plant materials.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "溥",
+      "trad": "溥",
+      "pinyin": "pǔ",
+      "english": "widespread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件衣服很薄(這件衣服很薄)。",
+      "pinyin": "Zhè jiàn yīfú hěn bó.",
+      "english": "This piece of clothing is very thin."
+    },
+    {
+      "chinese": "报告内容太薄(報告內容太薄)，需要补充(需要補充)。",
+      "pinyin": "Bàogào nèiróng tài bó, xūyào bǔchōng.",
+      "english": "The report is too meagre; it needs to be supplemented."
+    },
+    {
+      "chinese": "他戴的眼镜框很薄(他戴的眼鏡框很薄)，透出一丝精致(透出一絲精緻)。",
+      "pinyin": "Tā dài de yǎnjìng kuàng hěn bó, tòuchū yī sī jīngzhì.",
+      "english": "The thin frame of his glasses exudes a touch of delicacy."
+    }
+  ]
+}

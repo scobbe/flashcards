@@ -1,0 +1,39 @@
+{
+  "simplified": "欣",
+  "traditional": "欣",
+  "pinyin": "xīn",
+  "english": "happy; joyful",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 斤(斤) (jīn, \"axe\") + Semantic: 欠(欠) (qiàn, \"yawn\") = depicts an expression of joy or delight",
+    "interpretation": "The character 欣(xīn, \"happy\") combines 欠(欠) (qiàn, \"yawn\") representing an open mouth, often related to expressions, with 斤(斤) as the phonetic component to convey the sound. Together, they suggest an expression associated with joy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他欣然接受邀请(他欣然接受邀請)。",
+      "pinyin": "Tā xīnrán jiēshòu yāoqǐng.",
+      "english": "He gladly accepted the invitation."
+    },
+    {
+      "chinese": "听闻喜讯后(聽聞喜訊後)，他欣然起舞(他欣然起舞)。",
+      "pinyin": "Tīngwén xǐxùn hòu, tā xīnrán qǐwǔ.",
+      "english": "After hearing the good news, he danced joyfully."
+    }
+  ]
+}

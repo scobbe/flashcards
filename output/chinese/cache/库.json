@@ -1,0 +1,39 @@
+{
+  "simplified": "库",
+  "traditional": "庫",
+  "pinyin": "kù",
+  "english": "warehouse; storehouse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "广(廣) (guǎng, \"shelter\") + 車(车) (chē, \"vehicle\") = shelter for vehicles -> warehouse; storehouse",
+    "interpretation": "The character 库(庫) (kù) combines 广(廣) (guǎng, \"shelter\"), depicting a spacious building, with 車(车) (chē, \"vehicle\"), indicating its use as a place to house vehicles or goods. This combination suggests a structure designed for storage purposes.",
+    "simplification": "庫(庫)→库(庫): 車(车) (chē, \"vehicle\") was replaced with a simpler form of the character, adopting the same phonetic properties."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "货物被安全存储在库中(貨物被安全存儲在庫中)。",
+      "pinyin": "Huòwù bèi ānquán cúnchǔ zài kù zhōng.",
+      "english": "The goods are safely stored in the warehouse."
+    },
+    {
+      "chinese": "公司收到新材料(公司收到新材料)，立即将其分类存入库(立即將其分類存入庫)。",
+      "pinyin": "Gōngsī shōudào xīn cáiliào, lìjí jiāng qí fēnlèi cúnrù kù.",
+      "english": "The company received new materials and immediately sorted them into the warehouse."
+    }
+  ]
+}

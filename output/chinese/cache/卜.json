@@ -1,0 +1,31 @@
+{
+  "simplified": "卜",
+  "traditional": "卜",
+  "pinyin": "bǔ",
+  "english": "divination",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a divination crack in a tortoise shell or bone",
+    "interpretation": "The character 卜(bǔ, \"divination\") represents the practice of divination used in ancient China, often involving the interpretation of cracks in tortoise shells or bones.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "占卜是一种神秘的艺术(占卜是一種神秘的藝術)。",
+      "pinyin": "Zhānbǔ shì yī zhǒng shénmì de yìshù.",
+      "english": "Divination is a mysterious art."
+    },
+    {
+      "chinese": "他通过卜算未来(他通過卜算未來)，探寻隐秘的命运(探尋隱秘的命運)。",
+      "pinyin": "Tā tōngguò bǔsuàn wèilái, tànxún yǐnmì de mìngyùn.",
+      "english": "He uses divination to predict the future, seeking out his hidden destiny."
+    },
+    {
+      "chinese": "古代人常以卜问吉凶(古代人常以卜問吉凶)，以求平安和顺(以求平安和順)。",
+      "pinyin": "Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.",
+      "english": "Ancient people often practiced divination to determine fortune, in order to pursue peace and order."
+    }
+  ]
+}

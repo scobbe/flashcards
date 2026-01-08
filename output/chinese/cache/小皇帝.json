@@ -1,0 +1,39 @@
+{
+  "simplified": "小皇帝",
+  "traditional": "小皇帝",
+  "pinyin": "xiǎohuángdì",
+  "english": "spoiled child",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small; little\") + 皇帝(皇帝) (huángdì, \"emperor\") = a metaphor for a child treated like an emperor -> spoiled child",
+    "interpretation": "The term 小皇帝(小皇帝) (xiǎohuángdì, \"spoiled child\") describes a child who is overly pampered and indulged by their parents, as an emperor would be by his court. This metaphor reflects the increasing trend of indulged children in modern society.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little"
+    },
+    {
+      "char": "皇帝",
+      "trad": "皇帝",
+      "pinyin": "huángdì",
+      "english": "emperor"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈总会满足他的所有要求(媽媽總會滿足他的所有要求)，因为他就像个小皇帝(因為他就像個小皇帝)。",
+      "pinyin": "Māmā zǒng huì mǎnzú tā de suǒyǒu yāoqiú, yīnwèi tā jiù xiàng ge xiǎohuángdì.",
+      "english": "Mom always meets all his demands because he acts like a spoiled child."
+    },
+    {
+      "chinese": "他的行为总让人哭笑不得(他的行為總讓人哭笑不得)，仿佛小皇帝在发号施令(仿佛小皇帝在發號施令)。",
+      "pinyin": "Tā de xíngwéi zǒng ràng rén kū xiào bù dé, fǎngfú xiǎohuángdì zài fāhào shīlìng.",
+      "english": "His behavior always confounds people, as if a spoiled child were giving orders."
+    }
+  ]
+}

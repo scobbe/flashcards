@@ -1,0 +1,39 @@
+{
+  "simplified": "龙华",
+  "traditional": "龍華",
+  "pinyin": "Lónghuá",
+  "english": "Longhua",
+  "etymology": {
+    "type": "compound word",
+    "description": "龍(龍) (lóng, \"dragon\") and 華(華) (huá, \"splendor; China\") suggest a name evoking grandeur and cultural richness.",
+    "interpretation": "龍(龍) (lóng, \"dragon\") is often associated with power, authority, and good fortune, while 華(華) (huá, \"splendor; China\") conveys beauty and cultural brilliance. Together, 龍華(龍華) (Lónghuá) evokes an image of a culturally rich and prosperous place, which is fitting for areas named 龙华(龍華) in China, such as districts known for their historical or cultural significance.",
+    "simplification": "龙 become simpler"
+  },
+  "parts": [
+    {
+      "char": "龙",
+      "trad": "龍",
+      "pinyin": "lóng",
+      "english": "dragon; imperial"
+    },
+    {
+      "char": "华",
+      "trad": "華",
+      "pinyin": "huá",
+      "english": "splendor; China"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "龙华闪耀着古典魅力(龍華閃耀著古典魅力)。",
+      "pinyin": "Lónghuá shǎnyào zhe gǔdiǎn mèilì.",
+      "english": "Longhua shines with classical charm."
+    },
+    {
+      "chinese": "在龙华(在龍華)，历史与现代交织(歷史與現代交織)。",
+      "pinyin": "Zài Lónghuá, lìshǐ yǔ xiàndài jiāozhī.",
+      "english": "In Longhua, history and modern life intertwine."
+    }
+  ]
+}

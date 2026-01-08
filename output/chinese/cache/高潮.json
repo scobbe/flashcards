@@ -1,0 +1,39 @@
+{
+  "simplified": "高潮",
+  "traditional": "高潮",
+  "pinyin": "gāocháo",
+  "english": "high tide; climax",
+  "etymology": {
+    "type": "compound word",
+    "description": "高(高) (gāo, \"high\") + 潮(潮) (cháo, \"tide\") = high tide or climax",
+    "interpretation": "The word combines the idea of a tide reaching its highest point with the metaphorical use of reaching a peak experience, such as a climax in a narrative or emotional build-up. This dual meaning reflects the physical phenomenon of a tide and the figurative peak in various situations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "high; tall; above; elevated"
+    },
+    {
+      "char": "潮",
+      "trad": "潮",
+      "pinyin": "cháo",
+      "english": "tide; wave; current; moist"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海浪达到高潮时(海浪達到高潮時)，船只紧急返航(船隻緊急返航)。",
+      "pinyin": "Hǎilàng dádào gāocháo shí, chuánzhī jǐnjí fǎnháng.",
+      "english": "When the waves reach high tide, the ships return urgently."
+    },
+    {
+      "chinese": "电影情节达到高潮时(電影情節達到高潮時)，观众情绪高涨(觀眾情緒高漲)。",
+      "pinyin": "Diànyǐng qíngjié dádào gāocháo shí, guānzhòng qíngxù gāozhǎng.",
+      "english": "When the film's plot reaches its climax, the audience's emotions surge."
+    }
+  ]
+}

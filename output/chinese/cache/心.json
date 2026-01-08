@@ -1,0 +1,31 @@
+{
+  "simplified": "心",
+  "traditional": "心",
+  "pinyin": "xīn",
+  "english": "heart; center; core",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized representation of a heart",
+    "interpretation": "The character 心(xīn, 'heart') visually represents the shape of a heart, emphasizing its central and essential role in both a physical and metaphorical sense.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的心温暖无比(他的心溫暖無比)。",
+      "pinyin": "Tā de xīn wēnnuǎn wúbǐ.",
+      "english": "His heart is incredibly warm."
+    },
+    {
+      "chinese": "她把心放在艺术上(她把心放在藝術上)，追求完美(追求完美)。",
+      "pinyin": "Tā bǎ xīn fàng zài yìshù shàng, zhuīqiú wánměi.",
+      "english": "She dedicates her heart to art, pursuing perfection."
+    },
+    {
+      "chinese": "音乐直击心灵(音樂直擊心靈)。",
+      "pinyin": "Yīnyuè zhí jī xīnlíng.",
+      "english": "Music strikes straight at the heart (soul)."
+    }
+  ]
+}

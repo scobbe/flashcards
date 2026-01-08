@@ -1,0 +1,44 @@
+{
+  "simplified": "即",
+  "traditional": "即",
+  "pinyin": "jí",
+  "english": "immediately",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "皀(皀) (bǐ, \"ancient round-mouthed food vessel\") + 卩(卩) (jié, \"to kneel\") = to come near to eat or approach -> immediately",
+    "interpretation": "The character 即(即) (jí, \"immediately\") combines the image of an ancient food vessel and a person kneeling, suggesting approaching the vessel to eat quickly, an action that requires immediacy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "bǐ",
+      "english": "ancient round-mouthed food vessel"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "to kneel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他听到警报后(他聽到警報後)，即跑出房间(即跑出房間)。",
+      "pinyin": "Tā tīng dào jǐngbào hòu, jí pǎo chū fángjiān.",
+      "english": "After he heard the alarm, he immediately ran out of the room."
+    },
+    {
+      "chinese": "遇到危险即行动(遇到危險即行動)。",
+      "pinyin": "Yù dào wēixiǎn jí xíngdòng.",
+      "english": "When encountering danger, act immediately."
+    },
+    {
+      "chinese": "暴风雨即至(暴風雨即至)。",
+      "pinyin": "Bàofēngyǔ jí zhì.",
+      "english": "The storm arrives immediately."
+    }
+  ]
+}

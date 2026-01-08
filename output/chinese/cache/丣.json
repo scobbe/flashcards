@@ -1,0 +1,31 @@
+{
+  "simplified": "丣",
+  "traditional": "丣",
+  "pinyin": "yǒu",
+  "english": "undefined",
+  "etymology": {
+    "type": "ancient form",
+    "description": "丣(丣) (yǒu) -> an ancient form of 酉(酉) (yǒu, \"wine vessel\") -> depicts a wine vessel",
+    "interpretation": "丣(丣) (yǒu) is an ancient form that represents the character 酉(酉) (yǒu, \"wine vessel\") and depicts a wine vessel. This character was later associated with the concept of alcohol, reflecting its historical context in ancient China.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他丣一本好书(他丣一本好書)。",
+      "pinyin": "Tā yǒu yī běn hǎo shū.",
+      "english": "He has a good book."
+    },
+    {
+      "chinese": "太阳出来时(太陽出來時)，树林中丣一片祥和(樹林中丣一片祥和)。",
+      "pinyin": "Tàiyáng chūlái shí, shùlín zhōng yǒu yī piàn xiánghé.",
+      "english": "When the sun rises, the forest exudes a peaceful atmosphere."
+    },
+    {
+      "chinese": "时间丣奇妙(時間丣奇妙)。",
+      "pinyin": "Shíjiān yǒu qímiào.",
+      "english": "Time is marvelous."
+    }
+  ]
+}

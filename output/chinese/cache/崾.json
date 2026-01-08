@@ -1,0 +1,44 @@
+{
+  "simplified": "崾",
+  "traditional": "崾",
+  "pinyin": "yǎo",
+  "english": "difficult; arduous",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 山(山) (shān, \"mountain\") + phonetic: 夭(夭) (yāo, \"tender\") = rising mountain terrain -> difficult to traverse",
+    "interpretation": "The character 崾(yǎo) combines 山(山) (shān, \"mountain\") to suggest a mountainous area with the phonetic 夭(夭) (yāo), indicating something tender or soft. Together, they convey the idea of a mountainous region that is challenging, not stable or easy to cross.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "夭",
+      "trad": "夭",
+      "pinyin": "yāo",
+      "english": "tender"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "攀登險峰时(攀登險峰時)，路途崾且艰难(路途崾且艱難)。",
+      "pinyin": "Pān dēng xiǎn fēng shí, lù tú yǎo qiě jiān nán.",
+      "english": "When scaling perilous peaks, the journey is arduous and difficult."
+    },
+    {
+      "chinese": "古道悠远时(古道悠遠時)，旅途崾而漫长(旅途崾而漫長)。",
+      "pinyin": "Gǔ dào yōu yuǎn shí, lǚ tú yǎo ér màn cháng.",
+      "english": "When the ancient path stretches afar, the journey is arduous and long."
+    },
+    {
+      "chinese": "寒冬来临时(寒冬來臨時)，行走山径崾且曲折(行走山徑崾且曲折)。",
+      "pinyin": "Hán dōng lái lín shí, xíng zǒu shān jìng yǎo qiě qū zhé.",
+      "english": "When winter arrives, traversing the mountain trail is arduous and winding."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "精",
+  "traditional": "精",
+  "pinyin": "jīng",
+  "english": "refined; essence; spirit; extract",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 米(米) (mǐ, 'rice') + phonetic 青(青) (qīng, 'green') = polished rice -> refined or essence",
+    "interpretation": "The character combines 米(米) (mǐ, 'rice') to indicate something processed or refined, with 青(青) (qīng, 'green') contributing its sound. Polished rice symbolizes purity and essence, reflecting the character's meaning of refined or essence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "青",
+      "trad": "青",
+      "pinyin": "qīng",
+      "english": "green"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这瓶香水蕴藏着花朵的精(這瓶香水蘊藏著花朵的精)。",
+      "pinyin": "Zhè píng xiāngshuǐ yùncáng zhe huāduǒ de jīng.",
+      "english": "This perfume contains the essence of flowers."
+    },
+    {
+      "chinese": "他以精湛的技巧完成艺术品(他以精湛的技巧完成藝術品)，展示出非凡的创造力(展示出非凡的創造力)。",
+      "pinyin": "Tā yǐ jīngzhàn de jìqiǎo wánchéng yìshùpǐn, zhǎnshì chū fēifán de chuàngzàolì.",
+      "english": "He completed the artwork with superb skills, showcasing extraordinary creativity."
+    },
+    {
+      "chinese": "她用心提炼花瓣的精(她用心提煉花瓣的精)，制作出天然的香精(製作出天然的香精)。",
+      "pinyin": "Tā yòngxīn tíliàn huābàn de jīng, zhìzuò chū tiānrán de xiāngjīng.",
+      "english": "She carefully extracted the essence from petals, producing a natural fragrance extract."
+    }
+  ]
+}

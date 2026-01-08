@@ -1,0 +1,39 @@
+{
+  "simplified": "扫",
+  "traditional": "掃",
+  "pinyin": "sǎo",
+  "english": "sweep",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "手(手) (shǒu, \"hand\") + 帚(帚) (zhǒu, \"broomstick\") = hand with a broomstick -> sweeping action",
+    "interpretation": "The character 扫(掃) (sǎo, \"sweep\") visually combines 手(手) (shǒu, \"hand\") with 帚(帚) (zhǒu, \"broomstick\"), clearly indicating the act of sweeping with a broom.",
+    "simplification": "扫(掃): Simplified by removing 冖(冖) (mì, \"cover\") and 巾(巾) (jīn, \"cloth\") for a less complex form."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "帚",
+      "trad": "帚",
+      "pinyin": "zhǒu",
+      "english": "broomstick"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他扫地(他掃地)。",
+      "pinyin": "tā sǎo dì.",
+      "english": "He swept the floor."
+    },
+    {
+      "chinese": "她扫落叶(她掃落葉)，使庭院焕然一新(使庭院煥然一新)。",
+      "pinyin": "tā sǎo luòyè, shǐ tíngyuàn huànrán yī xīn.",
+      "english": "She swept up the fallen leaves, making the courtyard look brand new."
+    }
+  ]
+}

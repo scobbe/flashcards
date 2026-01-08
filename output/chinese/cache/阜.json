@@ -1,0 +1,26 @@
+{
+  "simplified": "阜",
+  "traditional": "阜",
+  "pinyin": "fù",
+  "english": "mound",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a mound or hill, with a shape that suggests an elevated landform.",
+    "interpretation": "The character 阜(阜) (fù, \"mound\") originally depicted the silhouette of a small hill or mound, representing its natural shape and structure.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山边的小阜上(山邊的小阜上)，盛开着野花(盛開著野花)。",
+      "pinyin": "Shān biān de xiǎo fù shàng, shèng kāi zhe yě huā.",
+      "english": "Wildflowers bloom atop the small mound by the mountainside."
+    },
+    {
+      "chinese": "古道尽头有阜(古道盡頭有阜)。",
+      "pinyin": "Gǔ dào jìn tóu yǒu fù.",
+      "english": "There is a mound at the end of the ancient road."
+    }
+  ]
+}

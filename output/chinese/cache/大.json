@@ -2,30 +2,37 @@
   "simplified": "大",
   "traditional": "大",
   "pinyin": "dà",
-  "english": "big; great",
+  "english": "great; big; large; vast",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 人(人) (rén, \"person\") facing forward -> phonetic borrowing for 大 (dà, \"big\")",
-    "interpretation": "The character 大 (dà, \"big\") originally depicted a person. It was phonetically borrowed for its current meaning, rather than literally representing the concept of 'bigness', differing from other character formations.",
+    "description": "Depicts a person facing forward -> Borrowed phonetically for 'big'; original form of 夫(夫) (fū, 'man')",
+    "interpretation": "The character 大(dà) depicts a person facing forward, representing 'big' by suggesting the idea of someone standing prominently. Although often thought of as a person with outstretched arms, early scripts do not support this interpretation. It was originally the form of 夫(夫) (fū, 'man') and was later phonetically borrowed for the meaning 'big.'",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "夫",
+      "trad": "夫",
+      "pinyin": "fū",
+      "english": "man"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个房间很大(這個房間很大)。",
-      "pinyin": "Zhège fángjiān hěn dà.",
-      "english": "This room is big."
+      "chinese": "这个房子很大(這個房子很大)。",
+      "pinyin": "Zhè ge fángzi hěn dà.",
+      "english": "This house is very big."
     },
     {
-      "chinese": "他有一个大梦想(他有一個大夢想)，希望改变世界(希望改變世界)。",
-      "pinyin": "Tā yǒu yīgè dà mèngxiǎng, xīwàng gǎibiàn shìjiè.",
-      "english": "He has a great dream, hoping to change the world."
+      "chinese": "大海波涛汹涌(大海波濤洶湧)，展现出大自然的力量(展現出大自然的力量)。",
+      "pinyin": "Dàhǎi bōtāo xiōngyǒng, zhǎnxiàn chū dàzìrán de lìliàng.",
+      "english": "The vast ocean waves surge, showcasing the power of nature."
     },
     {
-      "chinese": "大树遮天(大樹遮天)。",
-      "pinyin": "Dàshù zhē tiān.",
-      "english": "The large tree blocks the sky."
+      "chinese": "大人物登场(大人物登場)，留下传奇(留下傳奇)。",
+      "pinyin": "Dà rénwù dēngchǎng, liúxià chuánqí.",
+      "english": "Great figures make an appearance, leaving behind legends."
     }
   ]
 }

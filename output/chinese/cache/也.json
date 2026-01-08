@@ -1,0 +1,26 @@
+{
+  "simplified": "也",
+  "traditional": "也",
+  "pinyin": "yě",
+  "english": "phonetic",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a forked object or footprint",
+    "interpretation": "The character 也(也) (yě, \"also\") is a pictogram that originally depicted a forked object or possibly a footprint. It does not represent a specific entity but evolved to be used phonemically, contributing its sound to form other characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我也喜欢这个电影(我也喜歡這個電影)。",
+      "pinyin": "Wǒ yě xǐhuān zhège diànyǐng.",
+      "english": "I also like this movie."
+    },
+    {
+      "chinese": "他学习很努力(他學習很努力)，也参加运动会(也參加運動會)。",
+      "pinyin": "Tā xuéxí hěn nǔlì, yě cānjiā yùndònghuì.",
+      "english": "He studies hard, and also participates in the sports meet."
+    }
+  ]
+}

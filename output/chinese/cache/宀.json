@@ -1,0 +1,26 @@
+{
+  "simplified": "宀",
+  "traditional": "宀",
+  "pinyin": "mián",
+  "english": "roof",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a house with four walls -> roof",
+    "interpretation": "宀(mián, \"roof\") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, \"broad\") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "含有宀的汉字代表家的温暖(含有宀的漢字代表家的溫暖)。",
+      "pinyin": "Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.",
+      "english": "Chinese characters that include the radical '宀' represent the warmth of home."
+    },
+    {
+      "chinese": "屋顶遮风挡雨(屋頂遮風擋雨)，家园散发温馨(家園散發溫馨)。",
+      "pinyin": "Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.",
+      "english": "The roof shields from wind and rain, and the home radiates warmth."
+    }
+  ]
+}

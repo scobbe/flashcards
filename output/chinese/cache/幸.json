@@ -1,0 +1,39 @@
+{
+  "simplified": "幸",
+  "traditional": "幸",
+  "pinyin": "xìng",
+  "english": "fortunate; lucky",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "彳(彳) (chì, 'step') + phonetic: 干(干) (gān, 'shield') = to walk under the shield of fortune -> fortunate",
+    "interpretation": "The character 幸(幸) (xìng, 'fortunate') combines 彳(彳) (chì, 'step'), suggesting movement or action, with 干(干) (gān, 'shield'), which phonetically and semantically implies protection or defense. Together, this suggests moving with the protection of good fortune.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "干",
+      "trad": "干",
+      "pinyin": "gān",
+      "english": "shield"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "幸得及时雨救助(幸得及時雨救助)，他才走出了困境(他才走出了困境)。",
+      "pinyin": "Xìng dé jíshí yǔ jiùzhù, tā cái zǒuchūle kùnjìng.",
+      "english": "Thanks to timely assistance, he managed to overcome the difficulties."
+    },
+    {
+      "chinese": "每当暴风雨来临时(每當暴風雨來臨時)，人们总会感到一点幸运(人們總會感到一點幸運)。",
+      "pinyin": "Měi dāng bàofēngyǔ láilín shí, rénmen zǒng huì gǎndào yīdiǎn xìngyùn.",
+      "english": "Whenever a storm comes, people always feel a bit lucky."
+    }
+  ]
+}

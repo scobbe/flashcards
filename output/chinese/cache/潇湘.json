@@ -1,0 +1,44 @@
+{
+  "simplified": "潇湘",
+  "traditional": "瀟湘",
+  "pinyin": "Xiāoxiāng",
+  "english": "poetic name for Xiang River region",
+  "etymology": {
+    "type": "compound word",
+    "description": "瀟(瀟) (xiāo, \"clear\") refers to the clear water or surroundings; 湘(湘) (xiāng, \"Xiang River\") is the name of a well-known river in Hunan province.",
+    "interpretation": "The term 瀟湘(瀟湘) (xiāoxiāng) evokes the natural beauty and clear waters of the Xiang River region, a place historically revered in Chinese poetry and known for inspiring many literary works.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "瀟",
+      "trad": "瀟",
+      "pinyin": "xiāo",
+      "english": "clear"
+    },
+    {
+      "char": "湘",
+      "trad": "湘",
+      "pinyin": "xiāng",
+      "english": "Xiang River"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜爱潇湘(瀟湘)，那里的山水充满诗意(那裡的山水充滿詩意)。",
+      "pinyin": "Wǒ xǐ'ài Xiāoxiāng(瀟湘)，nàlǐ de shānshuǐ chōngmǎn shīyì(那裡的山水充滿詩意)。",
+      "english": "I cherish Xiāoxiāng, where the landscapes brim with poetic charm."
+    },
+    {
+      "chinese": "雨后潇湘(瀟湘)，雾气缭绕(霧氣繚繞)。",
+      "pinyin": "Yǔhòu Xiāoxiāng(瀟湘)，wùqì liǎorào(霧氣繚繞)。",
+      "english": "After the rain, Xiāoxiāng is enveloped in swirling mist."
+    },
+    {
+      "chinese": "潇湘水畔寻梦(瀟湘水畔尋夢)。",
+      "pinyin": "Xiāoxiāng shuǐpàn xún mèng(瀟湘水畔尋夢)。",
+      "english": "Dreams are sought along the riverside of Xiāoxiāng."
+    }
+  ]
+}

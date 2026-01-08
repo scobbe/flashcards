@@ -1,0 +1,44 @@
+{
+  "simplified": "文化",
+  "traditional": "文化",
+  "pinyin": "wénhuà",
+  "english": "culture",
+  "etymology": {
+    "type": "compound word",
+    "description": "文(文) (wén, \"language; literature; culture\") and 化(化) (huà, \"transform; change\") together signify the transformation and development of customs, ideas, and practices within a society, encapsulating the concept of \"culture\".",
+    "interpretation": "The combination of 文(文) (wén, \"language; literature; culture\") and 化(化) (huà, \"transform; change\") reflects how culture is seen as a dynamic and evolving process that shapes the identity and practices of a community.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "language; literature; culture"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform; change"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "文化连接彼此(文化連接彼此)。",
+      "pinyin": "wénhuà liánjiē bǐcǐ",
+      "english": "Culture connects one another."
+    },
+    {
+      "chinese": "中国有悠久的历史(中國有悠久的歷史)，文化代代相传(文化代代相傳)。",
+      "pinyin": "zhōngguó yǒu yōujiǔ de lìshǐ, wénhuà dàidài xiāngchuán",
+      "english": "China has a long history, and culture is passed down through generations."
+    },
+    {
+      "chinese": "全球化背景下(全球化背景下)，文化交流日益频繁(文化交流日益頻繁)。",
+      "pinyin": "quánqiúhuà bèijǐng xià, wénhuà jiāoliú rìyì pínfán",
+      "english": "In the context of globalization, cultural exchanges are becoming increasingly frequent."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "里",
+  "traditional": "里",
+  "pinyin": "lǐ",
+  "english": "village",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "田(田) (tián, \"field\") + 土(土) (tǔ, \"soil; earth\") = a measure of land and fields -> village",
+    "interpretation": "The combination of a field with soil symbolizes an area or measure of land, which is foundational to the concept of a village or community space, often defined by its fields.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "soil; earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他从城市来(他從城市來)，进入了里(進入了里)。",
+      "pinyin": "Tā cóng chéngshì lái, jìnrùle lǐ.",
+      "english": "He came from the city and entered the village."
+    },
+    {
+      "chinese": "经过长途跋涉(經過長途跋涉)，他终于到达了里(他終於到達了里)。",
+      "pinyin": "Jīngguò chángtú báshè, tā zhōngyú dàodále lǐ.",
+      "english": "After a long journey, he finally reached the village."
+    },
+    {
+      "chinese": "故里永存于他心中(故里永存於他心中)。",
+      "pinyin": "Gùlǐ yǒngcún yú tā xīnzhōng.",
+      "english": "His native village forever lives in his heart."
+    }
+  ]
+}

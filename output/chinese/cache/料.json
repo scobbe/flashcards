@@ -1,0 +1,44 @@
+{
+  "simplified": "料",
+  "traditional": "料",
+  "pinyin": "liào",
+  "english": "material; ingredient; estimate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "米(米) (mǐ, \"rice\") + 尞(尞) (liáo, phonetic) = sound association with substance related to rice -> material or ingredient",
+    "interpretation": "The character combines 米(米) (mǐ, \"rice\") representing an essential staple or material, with the phonetic 尞(尞) (liáo), conveying the idea of a basic component or ingredient in a broader sense.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "尞",
+      "trad": "尞",
+      "pinyin": "liáo",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "麦子是制作面包的重要原料(麥子是製作麵包的重要原料)。",
+      "pinyin": "Mài zǐ shì zhìzuò miànbāo de zhòngyào yuánliào.",
+      "english": "Wheat is an important raw material for making bread."
+    },
+    {
+      "chinese": "他料得到比赛会很激烈(他料得到比賽會很激烈)，所以建议好好准备(所以建議好好準備)。",
+      "pinyin": "Tā liào dédào bǐsài huì hěn jīliè, suǒyǐ jiànyì hǎohǎo zhǔnbèi.",
+      "english": "He estimates that the match will be intense, so he suggests preparing well."
+    },
+    {
+      "chinese": "这道菜的主要调料是花椒和八角(這道菜的主要調料是花椒和八角)。",
+      "pinyin": "Zhè dào cài de zhǔyào tiáoliào shì huājiāo hé bājiǎo.",
+      "english": "The main seasoning for this dish is Sichuan pepper and star anise."
+    }
+  ]
+}

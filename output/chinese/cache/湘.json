@@ -1,0 +1,39 @@
+{
+  "simplified": "湘",
+  "traditional": "湘",
+  "pinyin": "xiāng",
+  "english": "Xiang River",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 相(相) (xiāng, \"mutual\") = water associated with the Xiang region -> Xiang River",
+    "interpretation": "The character 湘 refers to the Xiang River, emphasizing its connection to water with the semantic component 氵(氵) (shuǐ, \"water\"). The phonetic element 相(相) (xiāng, \"mutual\") provides the pronunciation 'xiāng' and links it to the region.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "相",
+      "trad": "相",
+      "pinyin": "xiāng",
+      "english": "mutual"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "湘江水悠悠(湘江水悠悠)，孕育了楚地风光(孕育了楚地風光)。",
+      "pinyin": "xiāng jiāng shuǐ yōuyōu, yùnyùle chǔ dì fēngguāng.",
+      "english": "The Xiang River flows gently, nurturing the scenic beauty of Chu."
+    },
+    {
+      "chinese": "清晨在湘岸漫步(清晨在湘岸漫步)，感受河畔诗意(感受河畔詩意)。",
+      "pinyin": "qīngchén zài xiāng àn mànbù, gǎnshòu hépàn shīyì.",
+      "english": "In the early morning, a walk along the Xiang River bank lets one feel its poetic charm."
+    }
+  ]
+}

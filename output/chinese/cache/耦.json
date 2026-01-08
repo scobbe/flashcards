@@ -1,0 +1,44 @@
+{
+  "simplified": "耦",
+  "traditional": "耦",
+  "pinyin": "ǒu",
+  "english": "to pair",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 耒(耒) (lěi, 'tilling tool') + phonetic: 禺(禺) (yú, 'paired working in the fields') = working in fields -> to pair",
+    "interpretation": "The character 耦(耦) (ǒu, 'to pair') combines the tilling tool 耒(耒) which emphasizes agricultural contexts, with 禺(禺) providing the phonetic component, suggesting collaborative work in farming. This reflects agricultural practices where two people work together.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耒",
+      "trad": "耒",
+      "pinyin": "lěi",
+      "english": "tilling tool"
+    },
+    {
+      "char": "禺",
+      "trad": "禺",
+      "pinyin": "yú",
+      "english": "paired working in the fields"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "诗人与才子耦出佳话(詩人與才子耦出佳話)。",
+      "pinyin": "Shīrén yǔ cáizǐ ǒu chū jiāhuà。",
+      "english": "The poet and the talented scholar paired to create a famous tale."
+    },
+    {
+      "chinese": "公司耦员工的技能与任务(公司耦員工的技能與任務)，创造高效成果(創造高效成果)。",
+      "pinyin": "Gōngsī ǒu yuángōng de jìnéng yǔ rènwù, chuàngzào gāoxiào chéngguǒ。",
+      "english": "The company paired employees' skills with tasks to produce efficient results."
+    },
+    {
+      "chinese": "在花园中(在花園中)，蝴蝶彼此耦伴(蝴蝶彼此耦伴)。",
+      "pinyin": "Zài huāyuán zhōng, húdié bǐcǐ ǒu bàn。",
+      "english": "In the garden, the butterflies paired with each other."
+    }
+  ]
+}

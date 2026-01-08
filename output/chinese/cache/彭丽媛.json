@@ -1,0 +1,45 @@
+{
+  "simplified": "彭丽媛",
+  "traditional": "彭麗媛",
+  "pinyin": "Péng Lìyuán",
+  "english": "Peng Liyuan",
+  "etymology": {
+    "type": "compound word",
+    "description": "彭(彭) (péng, \"surname\"), 丽(麗) (lì, \"beautiful\"), 媛(媛) (yuán, \"elegant woman\")",
+    "interpretation": "彭(彭) (péng) is a common Chinese surname. 丽(麗) (lì, \"beautiful\") and 媛(媛) (yuán, \"elegant woman\") are often used in given names for their positive connotations. Together, the name 彭丽媛(彭麗媛) reflects qualities of elegance and beauty.",
+    "simplification": "simplified"
+  },
+  "parts": [
+    {
+      "char": "彭",
+      "trad": "彭",
+      "pinyin": "péng",
+      "english": "surname"
+    },
+    {
+      "char": "丽",
+      "trad": "麗",
+      "pinyin": "lì",
+      "english": "beautiful"
+    },
+    {
+      "char": "媛",
+      "trad": "媛",
+      "pinyin": "yuán",
+      "english": "elegant woman; beauty; jade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "彭丽媛是中国著名的歌唱家(彭麗媛是中國著名的歌唱家)。",
+      "pinyin": "Péng Lìyuán shì Zhōngguó zhùmíng de gēchàngjiā.",
+      "english": "Peng Liyuan is a famous Chinese singer."
+    },
+    {
+      "chinese": "她经常出现在国际场合(她經常出現在國際場合)，传播中国文化(傳播中國文化)。",
+      "pinyin": "Tā jīngcháng chūxiàn zài guójì chǎnghé, chuánbò Zhōngguó wénhuà.",
+      "english": "She often appears in international events, disseminating Chinese culture."
+    }
+  ]
+}

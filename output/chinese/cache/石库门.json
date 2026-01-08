@@ -1,0 +1,50 @@
+{
+  "simplified": "石库门",
+  "traditional": "石庫門",
+  "pinyin": "Shíkùmén",
+  "english": "Shikumen, traditional Shanghainese architectural style",
+  "etymology": {
+    "type": "compound word",
+    "description": "石(石) (shí, \"stone\") + 库(庫) (kù, \"warehouse; storehouse\") + 门(門) (mén, \"door; gate\")",
+    "interpretation": "The term 石库门(石庫門) (shíkùmén) describes a traditional Shanghainese architectural style where stone is used prominently in the construction of door frames and arches. This style combines Western and Chinese architectural elements, often featuring stone portals with a courtyard behind, reminiscent of a 'stone warehouse gate'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone"
+    },
+    {
+      "char": "库",
+      "trad": "庫",
+      "pinyin": "kù",
+      "english": "warehouse; storehouse"
+    },
+    {
+      "char": "门",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door; gate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "石库门是上海的传统建筑(石庫門是上海的傳統建築)。",
+      "pinyin": "Shíkùmén shì Shànghǎi de chuántǒng jiànzhú.",
+      "english": "Shikumen is a traditional architectural style of Shanghai."
+    },
+    {
+      "chinese": "游客在石库门巷弄中徘徊(遊客在石庫門巷弄中徘徊)，感受老上海的韵味(感受老上海的韻味)。",
+      "pinyin": "Yóukè zài shíkùmén xiàngnòng zhōng páihuái, gǎnshòu lǎo Shànghǎi de yùnwèi.",
+      "english": "Tourists wander in the Shikumen lanes, experiencing the charm of old Shanghai."
+    },
+    {
+      "chinese": "老居民讲述石库门背后的历史(老居民講述石庫門背後的歷史)，给人留下深刻印象(給人留下深刻印象)。",
+      "pinyin": "Lǎo jūmín jiǎngshù shíkùmén bèihòu de lìshǐ, gěi rén liúxià shēnkè yìnxiàng.",
+      "english": "Elderly residents recount the history behind Shikumen, leaving a lasting impression."
+    }
+  ]
+}

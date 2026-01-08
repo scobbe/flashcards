@@ -1,0 +1,39 @@
+{
+  "simplified": "庸",
+  "traditional": "庸",
+  "pinyin": "yōng",
+  "english": "mediocre; usual; ordinary",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "广(广) (guǎng, \"house on cliff\") + 用(用) (yòng) = phonetically related to \"use\" -> ordinary",
+    "interpretation": "The character combines 广(广) (guǎng, \"house on cliff\") for its semantic association with enclosed spaces or contexts, and 用(用) (yòng) for its phonetic contribution, suggesting the notion of being used in a commonplace or routine manner.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "house on cliff"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他总是过着庸碌的生活(他總是過著庸碌的生活)。",
+      "pinyin": "Tā zǒng shì guòzhe yōnglù de shēnghuó.",
+      "english": "He always leads a mediocre life."
+    },
+    {
+      "chinese": "他不满足于庸俗(他不滿足於庸俗)，而追求非凡(而追求非凡)。",
+      "pinyin": "Tā bù mǎnzú yú yōngsú, ér zhuīqiú fēifán.",
+      "english": "He is not content with mediocrity, but strives for excellence."
+    }
+  ]
+}

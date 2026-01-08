@@ -1,0 +1,26 @@
+{
+  "simplified": "屰",
+  "traditional": "屰",
+  "pinyin": "nì",
+  "english": "disobedient",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts an upside-down human figure (大 inverted) with a horizontal stroke -> emphasizes inversion and opposition -> Original form of 逆(逆) (nì, \"contrary\")",
+    "interpretation": "屰(屰) (nì, \"disobedient\") presents an upside-down human figure, symbolizing opposition or contrary behavior. The added horizontal line emphasizes the inversion, fitting the meaning of being disobedient or contrary.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "那个屰的孩子经常顶撞父母(那個屰的孩子經常頂撞父母)。",
+      "pinyin": "Nàgè nì de háizi jīngcháng dǐngzhuàng fùmǔ.",
+      "english": "That disobedient child often talks back to his parents."
+    },
+    {
+      "chinese": "学生屰(學生屰)，老师十分苦恼(老師十分苦惱)。",
+      "pinyin": "Xuéshēng nì, lǎoshī shífēn kǔnǎo.",
+      "english": "The student is disobedient, and the teacher is very troubled."
+    }
+  ]
+}

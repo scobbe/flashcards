@@ -1,0 +1,44 @@
+{
+  "simplified": "半",
+  "traditional": "半",
+  "pinyin": "bàn",
+  "english": "",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "八(八) (bā, \"to divide\") + 牛(牛) (niú, \"cow\") = to cut a cow into two halves -> half",
+    "interpretation": "The character 半(半) (bàn, \"half\") combines 八(八) (bā, \"to divide\") and 牛(牛) (niú, \"cow\") to symbolize dividing an object into two equal parts, similar to cutting a cow in half. This reflects the basic meaning of 'half'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "to divide"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这块蛋糕只剩一半(這塊蛋糕只剩一半)。",
+      "pinyin": "Zhè kuài dàngāo zhǐ shèng yī bàn.",
+      "english": "This piece of cake only has half left."
+    },
+    {
+      "chinese": "半个小时后(半個小時後)，他到达了(他到達了)。",
+      "pinyin": "Bàn gè xiǎoshí hòu, tā dào dá le.",
+      "english": "He arrived after half an hour."
+    },
+    {
+      "chinese": "会议只进行到一半(會議只進行到一半)，就结束了(就結束了)。",
+      "pinyin": "Huìyì zhǐ jìnxíng dào yī bàn, jiù jiéshù le.",
+      "english": "The meeting ended halfway through."
+    }
+  ]
+}

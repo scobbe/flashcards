@@ -1,0 +1,39 @@
+{
+  "simplified": "人民日报",
+  "traditional": "人民日報",
+  "pinyin": "Rénmín Rìbào",
+  "english": "People’s Daily",
+  "etymology": {
+    "type": "compound word",
+    "description": "人民(日報) (Rénmín Rìbào) consists of the characters 人(人) (rén, \"person\") and 民(民) (mín, \"people\") forming 人民(人民) (rénmín, \"people\") combined with 日(日) (rì, \"day\") and 報(報) (bào, \"newspaper\"), forming 日報(日報) (rìbào, \"daily newspaper\").",
+    "interpretation": "人民(人民) (rénmín, \"people\") 日報(日報) (rìbào, \"daily newspaper\") literally denotes a newspaper for the people that is published daily. It is the official newspaper of the Central Committee of the Communist Party of China, reflecting public policies and ideology.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人民",
+      "trad": "人民",
+      "pinyin": "rénmín",
+      "english": "people"
+    },
+    {
+      "char": "日报",
+      "trad": "日報",
+      "pinyin": "rìbào",
+      "english": "daily newspaper"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "《人民日报》报道了最新消息(《人民日報》報道了最新消息)。",
+      "pinyin": "《Rénmín Rìbào》 bàodào le zuì xīn xiāoxī.",
+      "english": "The People's Daily reported the latest news."
+    },
+    {
+      "chinese": "我每天阅读人民日报(我每天閱讀人民日報)，以了解国家动态(以瞭解國家動態)。",
+      "pinyin": "Wǒ měitiān yuèdú Rénmín Rìbào, yǐ liǎojiě guójiā dòngtài.",
+      "english": "I read the People's Daily every day to understand the country's situation."
+    }
+  ]
+}

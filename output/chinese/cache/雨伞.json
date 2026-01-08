@@ -1,0 +1,39 @@
+{
+  "simplified": "雨伞",
+  "traditional": "雨傘",
+  "pinyin": "yǔsǎn",
+  "english": "umbrella",
+  "etymology": {
+    "type": "compound word",
+    "description": "雨(雨) (yǔ, \"rain\") + 伞(傘) (sǎn, \"umbrella\") = a device used for protection against rain",
+    "interpretation": "The word 雨伞(雨傘) combines 雨(雨) (yǔ, \"rain\"), representing the weather element, with 伞(傘) (sǎn, \"umbrella\"), an object designed specifically to shield one from rain. This combination indicates a tool for keeping dry during rainy weather.",
+    "simplification": "伞 is the simplified form of 傘."
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "伞",
+      "trad": "傘",
+      "pinyin": "sǎn",
+      "english": "umbrella; parasol; shelter"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天带了雨伞(我今天帶了雨傘)。",
+      "pinyin": "wǒ jīntiān dài le yǔsǎn。",
+      "english": "I brought an umbrella today."
+    },
+    {
+      "chinese": "外面下雨(外面下雨)，别忘了拿雨伞(別忘了拿雨傘)。",
+      "pinyin": "wàimiàn xiàyǔ, bié wàngle ná yǔsǎn。",
+      "english": "It is raining outside, don't forget to grab your umbrella."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "父",
+  "traditional": "父",
+  "pinyin": "fù",
+  "english": "father",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand holding a stick or an ax -> representing authority -> father",
+    "interpretation": "The character 父(fù) shows a person holding a stick to symbolize authority, reflecting the traditional role of a father in the family.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的父爱如山(他的父愛如山)。",
+      "pinyin": "Tā de fù ài rú shān.",
+      "english": "His father's love is as steady as a mountain."
+    },
+    {
+      "chinese": "我向父请教(我向父請教)，学到了智慧(學到了智慧)。",
+      "pinyin": "Wǒ xiàng fù qǐngjiào, xué dào le zhìhuì.",
+      "english": "I consulted my father and learned wisdom."
+    },
+    {
+      "chinese": "古时父训铭刻心灵(古時父訓銘刻心靈)。",
+      "pinyin": "Gǔ shí fù xùn míngkè xīn líng.",
+      "english": "In ancient times, a father's teachings were etched into the soul."
+    }
+  ]
+}

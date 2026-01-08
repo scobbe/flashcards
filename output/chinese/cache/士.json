@@ -2,30 +2,30 @@
   "simplified": "士",
   "traditional": "士",
   "pinyin": "shì",
-  "english": "upside-down ritual axe",
+  "english": "upside-down ritual axe perhaps made of precious materials",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an upside-down ritual axe -> later associated with soldier and intellectual -> final form 士",
-    "interpretation": "士(士) (shì, 'upside-down ritual axe') originally depicted a war axe, reflecting its association with martial roles like soldiers and officers. Over time, its meaning broadened to include intellectuals, reflecting the cultural evolution from warriors to scholar-officials.",
+    "description": "Depicts an upside-down ritual axe -> later meaning soldier -> eventually officer or intellectual",
+    "interpretation": "The character 士(士) (shì, 'officer') originally depicted a ritual axe, symbolizing authority and power. Over time, it evolved to signify roles associated with leadership and scholarship.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在古代祭祀中(在古代祭祀中)，士被倒置使用(士被倒置使用)。",
-      "pinyin": "Zài gǔdài jìsì zhōng, shì bèi dào zhì shǐyòng.",
-      "english": "During ancient rituals, the upside-down ritual axe was used."
+      "chinese": "博物馆今日展出了士(士)，展示古代祭祀器物(展示古代祭祀器物)。",
+      "pinyin": "Bówùguǎn jīnrì zhǎnchūle shì(士)，zhǎnshì gǔdài jìsì qìwù(展示古代祭祀器物)。",
+      "english": "The museum exhibited the shì today, showcasing ancient sacrificial vessels."
     },
     {
-      "chinese": "雕刻师精心打造了士(雕刻師精心打造了士)。",
-      "pinyin": "Diāokè shī jīngxīn dǎzào le shì.",
-      "english": "The sculptor meticulously crafted the upside-down ritual axe."
+      "chinese": "考古学家在遗址中发现了一把士(士)，被认为是祭祀用的珍贵器物(被認為是祭祀用的珍貴器物)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiànle yī bǎ shì(士)，bèi rènwéi shì jìsì yòng de zhēnguì qìwù(被認為是祭祀用的珍貴器物)。",
+      "english": "Archaeologists discovered a shì at the site, which is considered a precious ritual artifact."
     },
     {
-      "chinese": "博物馆展出了罕见的古代器物(博物館展出了罕見的古代器物)，其中包括倒放的士(其中包括倒放的士)。",
-      "pinyin": "Bówù guǎn zhǎnchū le hǎnjiàn de gǔdài qìwù, qízhōng bāokuò dàofàng de shì.",
-      "english": "The museum displayed rare ancient artifacts, including the inverted ritual axe."
+      "chinese": "工匠精心打造出的士(士)，在阳光下闪烁着金属光芒(在陽光下閃爍着金屬光芒)。",
+      "pinyin": "Gōngjiàng jīngxīn dǎzàochū de shì(士)，zài yángguāng xià shǎnshuò zhe jīnshǔ guāngmáng(在陽光下閃爍着金屬光芒)。",
+      "english": "The shì, crafted meticulously by artisans, shimmers under the sunlight with a metallic glow."
     }
   ]
 }

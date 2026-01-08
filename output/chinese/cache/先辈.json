@@ -1,0 +1,44 @@
+{
+  "simplified": "先辈",
+  "traditional": "先輩",
+  "pinyin": "xiānbèi",
+  "english": "forebears",
+  "etymology": {
+    "type": "compound word",
+    "description": "先(先) (xiān, \"first; previous\") + 辈(輩) (bèi, \"generation; lifetime\")",
+    "interpretation": "The term 先輩(先辈) (xiānbèi, \"forebears\") combines 先(先) (xiān, \"first; previous\") to indicate those who have come before or earlier, with 辈(輩) (bèi, \"generation; lifetime\") referring to people from an earlier generation. Together, it denotes ancestors or forebears, emphasizing respect for those who preceded us.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "先",
+      "trad": "先",
+      "pinyin": "xiān",
+      "english": "first; previous"
+    },
+    {
+      "char": "辈",
+      "trad": "輩",
+      "pinyin": "bèi",
+      "english": "generation; lifetime"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们缅怀先辈(我們緬懷先輩)。",
+      "pinyin": "Wǒmen miǎnhuái xiānbèi.",
+      "english": "We remember our forebears."
+    },
+    {
+      "chinese": "我们应当追随先辈(我們應當追隨先輩)，传承优秀传统(傳承優秀傳統)。",
+      "pinyin": "Wǒmen yīngdāng zhuīsuí xiānbèi, chuánchéng yōuxiù chuántǒng.",
+      "english": "We should follow our forebears and pass on the excellent traditions."
+    },
+    {
+      "chinese": "古代文献记载了先辈的智慧(古代文獻記載了先輩的智慧)，激励后人(激勵後人)。",
+      "pinyin": "Gǔdài wénxiàn jìzǎile xiānbèi de zhìhuì, jīlì hòurén.",
+      "english": "Ancient texts recorded the wisdom of our forebears, inspiring later generations."
+    }
+  ]
+}

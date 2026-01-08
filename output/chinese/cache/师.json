@@ -1,0 +1,44 @@
+{
+  "simplified": "师",
+  "traditional": "師",
+  "pinyin": "shī",
+  "english": "master; teacher; expert",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𠂤 (mound, hill) + 帀 (to surround) = ancient troops stationed at a hill -> leader, master",
+    "interpretation": "The character 師(師) (shī, 'master') combines a depiction of a mound or hill and the idea of surrounding, representing troops stationed around a hill, symbolizing command and leadership. This naturally extends to the concept of a 'master' or 'teacher'.",
+    "simplification": "师(師) simplified by removing additional strokes, preserving phonetic component."
+  },
+  "parts": [
+    {
+      "char": "𠂤",
+      "trad": "𠂤",
+      "pinyin": "-",
+      "english": "mound, hill"
+    },
+    {
+      "char": "帀",
+      "trad": "帀",
+      "pinyin": "zā",
+      "english": "to surround"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位优秀的师(他是一位優秀的師)。",
+      "pinyin": "Tā shì yī wèi yōuxiù de shī.",
+      "english": "He is an excellent master."
+    },
+    {
+      "chinese": "学生敬重师(學生敬重師)，认真求学(認真求學)。",
+      "pinyin": "Xuéshēng jìngzhòng shī, rènzhēn qiúxué.",
+      "english": "Students respect their teacher and study diligently."
+    },
+    {
+      "chinese": "他拜访名师(他拜訪名師)，虚心求教(虛心求教)。",
+      "pinyin": "Tā bàifǎng míng shī, xūxīn qiújiào.",
+      "english": "He visits a renowned master and earnestly seeks advice."
+    }
+  ]
+}

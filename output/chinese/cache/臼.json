@@ -1,0 +1,31 @@
+{
+  "simplified": "臼",
+  "traditional": "臼",
+  "pinyin": "jiù",
+  "english": "a pair of hands",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a mortar for grinding grain",
+    "interpretation": "The character 臼(臼) (jiù, 'a pair of hands') visually represents a mortar, which resembles an object where traditionally two hands might work to grind grains. It specifically captures the shape of a mortar with its hollow center.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "妈妈的臼总能给予我温暖(媽媽的臼總能給予我溫暖)，让我的心灵得到抚慰(讓我的心靈得到撫慰)。",
+      "pinyin": "Māmā de jiù zǒng néng jǐyǔ wǒ wēnnuǎn, ràng wǒ de xīnlíng dédào fǔwèi.",
+      "english": "Mother's pair of hands always gives me warmth, soothing my soul."
+    },
+    {
+      "chinese": "在关键时刻(在關鍵時刻)，他的臼伸出了援手(他的臼伸出了援手)。",
+      "pinyin": "Zài guānjiàn shíkè, tā de jiù shēnchūle yuánshǒu.",
+      "english": "At a crucial moment, his pair of hands reached out to help."
+    },
+    {
+      "chinese": "运动员挥动臼大放异彩(運動員揮動臼大放異彩)。",
+      "pinyin": "Yùndòngyuán huīdòng jiù dà fàng yìcǎi.",
+      "english": "The athlete's waving pair of hands shone brilliantly."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "点茶",
+  "traditional": "點茶",
+  "pinyin": "diǎn chá",
+  "english": "traditional tea whisking method",
+  "etymology": {
+    "type": "compound word",
+    "description": "點(點) (diǎn, \"dot; point\") + 茶(茶) (chá, \"tea\") = a method of preparing tea by whisking it into a frothy mixture.",
+    "interpretation": "點茶(點茶) (diǎn chá, \"traditional tea whisking method\") refers to an ancient method of preparing tea where finely powdered tea is whisked with hot water, creating a frothy beverage. This method was particularly popular during the Song Dynasty and laid the groundwork for the Japanese tea ceremony.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "点",
+      "trad": "點",
+      "pinyin": "diǎn",
+      "english": "dot; point"
+    },
+    {
+      "char": "茶",
+      "trad": "茶",
+      "pinyin": "chá",
+      "english": "tea"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "点茶是一种古老而优雅的茶艺(點茶是一種古老而優雅的茶藝)。",
+      "pinyin": "diǎn chá shì yī zhǒng gǔlǎo ér yōuyǎ de cháyì.",
+      "english": "Tea whisking is an ancient and elegant tea art."
+    },
+    {
+      "chinese": "在茶馆里(在茶館裡)，人们常常欣赏点茶表演(人們常常欣賞點茶表演)。",
+      "pinyin": "zài cháguǎn lǐ, rénmen chángcháng xīnshǎng diǎn chá biǎoyǎn.",
+      "english": "In tea houses, people often enjoy watching tea whisking performances."
+    },
+    {
+      "chinese": "点茶不仅传承文化(點茶不僅傳承文化)，更展现了独特魅力(更展現了獨特魅力)。",
+      "pinyin": "diǎn chá bù jǐn chuánchéng wénhuà, gèng zhǎnxiànle dútè mèilì.",
+      "english": "Tea whisking not only preserves cultural heritage, but also exhibits its unique charm."
+    }
+  ]
+}

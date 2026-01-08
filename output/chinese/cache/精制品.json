@@ -1,0 +1,50 @@
+{
+  "simplified": "精制品",
+  "traditional": "精製品",
+  "pinyin": "jīngzhìpǐn",
+  "english": "refined products",
+  "etymology": {
+    "type": "compound word",
+    "description": "精(精) (jīng, \"refined\") + 制(製) (zhì, \"to make\") + 品(品) (pǐn, \"product\") refers to products that have undergone a refining or manufacturing process to enhance their quality or value.",
+    "interpretation": "The term 精制品(精製品) (jīngzhìpǐn, \"refined products\") signifies products that have been carefully processed or manufactured to achieve a high level of refinement or quality, emphasizing meticulous craftsmanship or production methods.",
+    "simplification": "Simplified characters used in mainland China."
+  },
+  "parts": [
+    {
+      "char": "精",
+      "trad": "精",
+      "pinyin": "jīng",
+      "english": "refined; essence; spirit; extract"
+    },
+    {
+      "char": "制",
+      "trad": "製",
+      "pinyin": "zhì",
+      "english": "to make; to produce; system; to manufacture"
+    },
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "product; item; quality; article"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的店铺出售各种精制品(他的店鋪出售各種精製品)。",
+      "pinyin": "tā de diànpù chūshòu gè zhǒng jīngzhìpǐn.",
+      "english": "His shop sells various refined products."
+    },
+    {
+      "chinese": "工厂生产精制品(工廠生產精製品)，出口到世界各地(出口到世界各地)。",
+      "pinyin": "gōngchǎng shēngchǎn jīngzhìpǐn, chūkǒu dào shìjiè gèdì.",
+      "english": "The factory manufactures refined products, and exports them to various parts of the world."
+    },
+    {
+      "chinese": "我们购买只选用最好的精制品(我們購買只選用最好的精製品)。",
+      "pinyin": "wǒmen gòumǎi zhǐ xuǎnyòng zuì hǎo de jīngzhìpǐn.",
+      "english": "We only purchase the best refined products."
+    }
+  ]
+}

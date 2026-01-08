@@ -1,0 +1,39 @@
+{
+  "simplified": "厂",
+  "traditional": "廠",
+  "pinyin": "chǎng",
+  "english": "factory",
+  "etymology": {
+    "type": "simplified character",
+    "description": "厂(廠) (chǎng, 'factory') derived from an ideogrammic compound: 广(广) (guǎng, 'shelter') + 口(口) (kǒu, 'mouth') = A place beneath a shelter where people gather -> originally referred to a workshop or depot. The simplified form retains the 'shelter' meaning with just the 广(广) component.",
+    "interpretation": "厂(廠) (chǎng, 'factory') originally combined symbols for shelter and people gathering. The simplification to 厂 emphasizes its core idea of an area for work or storage, suitable for the modern meaning of 'factory'.",
+    "simplification": "广(广) (guǎng, 'shelter') is used alone to simplify the character by removing the 口(口) (kǒu, 'mouth'), retaining the idea of a workspace."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个厂生产汽车(這個廠生產汽車)。",
+      "pinyin": "Zhège chǎng shēngchǎn qìchē.",
+      "english": "This factory manufactures cars."
+    },
+    {
+      "chinese": "那个厂明天开张(那個廠明天開張)，吸引了很多顾客(吸引了很多顧客)。",
+      "pinyin": "Nàgè chǎng míngtiān kāizhāng, xīyǐnle hěn duō gùkè.",
+      "english": "That factory will open tomorrow, attracting many customers."
+    }
+  ]
+}

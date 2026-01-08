@@ -1,0 +1,26 @@
+{
+  "simplified": "元",
+  "traditional": "元",
+  "pinyin": "yuán",
+  "english": "origin",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a human head above a horizontal line, symbolizing the origin or the head of something",
+    "interpretation": "元(元) (yuán, 'origin') represents the head, which is often considered the starting point or leader, aligning with the concept of 'origin'. This setup also connects metaphorically to beginnings or first principles.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "万物之元来自于混沌(萬物之元來自於混沌)。",
+      "pinyin": "Wànwù zhī yuán láizì yú húndùn.",
+      "english": "The origin of all things comes from chaos."
+    },
+    {
+      "chinese": "道家的理念追寻心灵的元(道家的理念追尋心靈的元)。",
+      "pinyin": "Dàojiā de lǐniàn zhuīxún xīnlíng de yuán.",
+      "english": "Taoist philosophy seeks the origin of the soul."
+    }
+  ]
+}

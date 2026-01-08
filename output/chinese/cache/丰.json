@@ -1,0 +1,38 @@
+{
+  "simplified": "丰",
+  "traditional": "豐",
+  "pinyin": "fēng",
+  "english": "abundant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a luxuriant plant growing on the ground (土) -> modern version simplified, missing bottom stroke -> similar to top component of 豐(豐) (fēng, 'abundant') and 奉(奉) (fèng, 'offer')",
+    "interpretation": "The character 丰(豐) (fēng, 'abundant') originated as a pictogram depicting a plant thriving on the ground, symbolizing abundance. Over time, the detailed strokes representing the soil and growth were removed, simplifying the character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "ground"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今年的收成很丰(豐)。",
+      "pinyin": "Jīnnián de shōuchéng hěn fēng.",
+      "english": "This year's harvest is very abundant."
+    },
+    {
+      "chinese": "田里的庄稼长得十分丰(豐)，农民们笑逐颜开(農民們笑逐顏開)。",
+      "pinyin": "Tiánlǐ de zhuāngjià zhǎng de shífēn fēng, nóngmínmen xiào zhú yánkāi.",
+      "english": "The crops in the field grew very abundantly, and the farmers beamed with joy."
+    },
+    {
+      "chinese": "菜园里的番茄结得丰硕(豐碩)，老爷爷摘得满满当当(老爺爺摘得滿滿當當)。",
+      "pinyin": "Càiyuán lǐ de fānqié jié de fēngshuò, lǎo yéyé zhāi de mǎnmǎndāngdāng.",
+      "english": "The tomatoes in the vegetable garden bore abundant fruit, and the old man picked them in plenty."
+    }
+  ]
+}

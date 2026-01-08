@@ -1,0 +1,56 @@
+{
+  "simplified": "南",
+  "traditional": "南",
+  "pinyin": "nán",
+  "english": "south",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "十(十) (shí, 'ten') + 冂(冂) (jiōng, 'open country') + 丨(丨) (gǔn, 'vertical line') + 𠂇 (jiǎn, 'cover') = banner depicted over the open country -> indicates direction 'south'",
+    "interpretation": "南(nán, 'south') combines components like 十(十) (shí, 'ten'), 冂(冂) (jiōng, 'open country'), and others to form a visual representation of a banner over open country, associating the idea with the concept of direction, specifically south.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "冂",
+      "trad": "冂",
+      "pinyin": "jiōng",
+      "english": "open country"
+    },
+    {
+      "char": "丨",
+      "trad": "丨",
+      "pinyin": "gǔn",
+      "english": "vertical line"
+    },
+    {
+      "char": "𠂇",
+      "trad": "𠂇",
+      "pinyin": "jiǎn",
+      "english": "cover"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他住在城市南部(他住在城市南部)，气候温暖宜人(氣候溫暖宜人)。",
+      "pinyin": "Tā zhù zài chéngshì nánbù, qìhòu wēnnuǎn yírén.",
+      "english": "He lives in the southern part of the city, where the climate is pleasantly warm."
+    },
+    {
+      "chinese": "我们沿着南海岸旅行(我們沿著南海岸旅行)，欣赏蔚蓝海景(欣賞蔚藍海景)。",
+      "pinyin": "Wǒmen yánzhe nánhǎi'àn lǚxíng, xīnshǎng wèilán hǎijǐng.",
+      "english": "We travel along the southern coast, admiring the deep blue sea view."
+    },
+    {
+      "chinese": "从北向南走(從北向南走)，能感受到季节的变换(能感受到季節的變換)。",
+      "pinyin": "Cóng běi xiàng nán zǒu, néng gǎnshòu dào jìjié de biànhuàn.",
+      "english": "Walking from north to south, you can feel the changes of the seasons."
+    }
+  ]
+}

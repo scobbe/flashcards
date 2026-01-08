@@ -1,0 +1,44 @@
+{
+  "simplified": "醉翁",
+  "traditional": "醉翁",
+  "pinyin": "zuìwēng",
+  "english": "drunken old man",
+  "etymology": {
+    "type": "compound word",
+    "description": "醉(醉) (zuì, \"drunk\"), 翁(翁) (wēng, \"old man\")",
+    "interpretation": "醉翁(醉翁) (zuìwēng, \"drunken old man\") refers to someone who is intoxicated. The term originates from the phrase 醉翁之意不在酒 (zuì wēng zhī yì bù zài jiǔ), meaning \"the old man's intention was not just in the drinking,\" which comes from the Northern Song dynasty literati Ouyang Xiu's work \"醉翁亭记 (Drunken Old Man’s Pavilion).\" It suggests that there's often a deeper purpose or enjoyment beyond the apparent activity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "醉",
+      "trad": "醉",
+      "pinyin": "zuì",
+      "english": "drunk; intoxicated"
+    },
+    {
+      "char": "翁",
+      "trad": "翁",
+      "pinyin": "wēng",
+      "english": "old man; elder"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "宴会上醉翁豪饮美酒(宴會上醉翁豪飲美酒)，乐在其中(樂在其中)。",
+      "pinyin": "Yànhuì shàng zuìwēng háo yǐn měijiǔ, lè zài qízhōng.",
+      "english": "At the banquet, the drunken old man drank lavishly; he was deeply immersed in his enjoyment."
+    },
+    {
+      "chinese": "夜深人静时醉翁独坐亭中(夜深人靜時醉翁獨坐亭中)，遥望月圆(遙望月圓)。",
+      "pinyin": "Yè shēn rén jìng shí zuìwēng dú zuò tíng zhōng, yáo wàng yuè yuán.",
+      "english": "In the quiet deep night, the drunken old man sat alone in the pavilion, gazing at the full moon."
+    },
+    {
+      "chinese": "山间小径旁醉翁赋诗(山間小徑旁醉翁賦詩)。",
+      "pinyin": "Shānjiān xiǎojìng páng zuìwēng fù shī.",
+      "english": "The drunken old man composed poetry beside a mountain path."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "无",
+  "traditional": "無",
+  "pinyin": "wú",
+  "english": "not have; without; lacking",
+  "etymology": {
+    "type": "unknown",
+    "description": "The character 无 was one among several historical representations for expressing 'no' or 'not any,' used alongside 無(無) (wú, 'not have') and 亡(亡) (wáng, 'to lose'), especially during the Warring States period. The origin of 无 is uncertain, and it might have evolved as a variant of other characters like 元(元) (yuán, 'origin'), 天(天) (tiān, 'heaven'), or 堯(堯) (yáo, 'legendary ruler'). Adopted officially in simplified script in 1956 by the PRC.",
+    "interpretation": "Without a clear etymology, the character 无 represents a reduction and simplification that was standardized in modern times to denote the concept of absence or non-existence.",
+    "simplification": "无 is a simplified form adopted in 1956 to unify and clarify usage from various historical forms representing negation."
+  },
+  "parts": [
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "to lose"
+    },
+    {
+      "char": "元",
+      "trad": "元",
+      "pinyin": "yuán",
+      "english": "origin"
+    },
+    {
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "heaven"
+    },
+    {
+      "char": "堯",
+      "trad": "堯",
+      "pinyin": "yáo",
+      "english": "legendary ruler"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我无车(我無車)。",
+      "pinyin": "Wǒ wú chē.",
+      "english": "I don't have a car."
+    },
+    {
+      "chinese": "他无经验(他無經驗)，却有决心(卻有決心)。",
+      "pinyin": "Tā wú jīngyàn, què yǒu juéxīn.",
+      "english": "He lacks experience, but has determination."
+    },
+    {
+      "chinese": "生活中无烦恼(生活中無煩惱)，心情自然轻松(心情自然輕鬆)。",
+      "pinyin": "Shēnghuó zhōng wú fánnǎo, xīnqíng zìrán qīngsōng.",
+      "english": "When life is without worries, the mood naturally becomes relaxed."
+    }
+  ]
+}

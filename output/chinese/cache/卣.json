@@ -1,0 +1,44 @@
+{
+  "simplified": "卣",
+  "traditional": "卣",
+  "pinyin": "yǒu",
+  "english": "a kind of wine vessel",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a wine vessel; originally with 土 (tǔ, \"earth\") component on bronze inscriptions -> corrupted to 仌 (bīng, \"ice\") in small seal script",
+    "interpretation": "The character 卣(yǒu) represents a type of wine vessel, depicted as a container. Over time, its component 土(tǔ) was replaced by 仌(bīng), possibly due to misinterpretation or evolution in script styles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "仌",
+      "trad": "仌",
+      "pinyin": "bīng",
+      "english": "ice"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古代祭祀时(古代祭祀時)，卣常被用来储酒(卣常被用來儲酒)。",
+      "pinyin": "Gǔdài jìsì shí, yǒu cháng bèi yòng lái chǔ jiǔ.",
+      "english": "During ancient sacrificial ceremonies, wine vessels were commonly used to store wine."
+    },
+    {
+      "chinese": "博物馆里(博物館裡)，陈列着青铜卣(陳列著青銅卣)，供游客观赏(供遊客觀賞)。",
+      "pinyin": "Bówùguǎn lǐ, chén liè zhe qīngtóng yǒu, gòng yóukè guānshǎng.",
+      "english": "In the museum, bronze wine vessels are displayed for visitors to admire."
+    },
+    {
+      "chinese": "卣是古代的酒器(卣是古代的酒器)。",
+      "pinyin": "Yǒu shì gǔdài de jiǔqì.",
+      "english": "The wine vessel is an ancient drinking vessel."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[賁]
+Phono-semantic compound ( 形聲 / 形声 , OC *prals, *bɯl, *pɯːn, *bɯn ): phonetic 卉 ( OC *hmɯlʔ, *hmɯls ) + semantic 貝 ( “ cowry ” ) for the reading bì ( *prals ). The character was borrowed for the word 奔 ( OC *pɯːn, *pɯːns ) in ancient times, hence its reading bēn ( *pɯːn ).
+
+[斑]
+Ideogrammic compound ( 會意 / 会意 ): 珏 ( “ pieces of jade ” ) + 文 ( “ tattoo; stripe ” ) . However, the component 珏 appears as a more conservative version 玨 . The original meaning was "mixed colours" with a reference to jade pieces, then it turned into "stripe, spot, mark".

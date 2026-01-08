@@ -1,0 +1,26 @@
+{
+  "simplified": "邑",
+  "traditional": "邑",
+  "pinyin": "yì",
+  "english": "town; city",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a walled settlement with an enclosure and a road leading to it -> town or city",
+    "interpretation": "邑(邑) (yì, \"town; city\") originates from a pictogram representing a place enclosed by walls, characteristic of ancient cities with roads leading into them.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他游览了那座邑(他游覽了那座邑)，感受到了浓厚的历史气息(感受到了濃厚的歷史氣息)。",
+      "pinyin": "Tā yóulǎn le nà zuò yì, gǎnshòu dào le nónghòu de lìshǐ qìxī.",
+      "english": "He toured that town and experienced its rich historical atmosphere."
+    },
+    {
+      "chinese": "这个邑依山傍水(這個邑依山傍水)，生活节奏缓慢(生活節奏緩慢)。",
+      "pinyin": "Zhège yì yī shān bàng shuǐ, shēnghuó jiézòu huǎn màn.",
+      "english": "This town is nestled by the mountains and rivers, and its pace of life is slow."
+    }
+  ]
+}

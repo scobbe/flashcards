@@ -1,0 +1,45 @@
+{
+  "simplified": "寒",
+  "traditional": "寒",
+  "pinyin": "hán",
+  "english": "cold; chilly; wintry",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "宀(宀) (mián, \"roof\") + 彡(彡) (shān, \"lines suggesting cold air\") + 𠤎(𠤎) (xīn, \"action under roof\") = cold air under a roof -> cold",
+    "interpretation": "The character 寒(hán, \"cold\") combines various elements to depict the concept of cold or wintry conditions. The 宀(mian, \"roof\") suggests shelter, emphasizing the need to protect from the cold, while the 彡(shān, \"lines suggesting cold air\") represents the chilliness visually and 𠤎(xīn, \"action under roof\") signifies activities associated with cold weather. This effectively conveys the meaning of cold air or temperatures under shelter.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "lines suggesting cold air"
+    },
+    {
+      "char": "𠤎",
+      "trad": "𠤎",
+      "pinyin": "xīn",
+      "english": "action under roof"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "冬天到来时(冬天到來時)，寒流席卷而来(寒流襲捲而來)。",
+      "pinyin": "Dōngtiān dàolái shí, hán liú xí juǎn ér lái.",
+      "english": "When winter arrives, the cold current sweeps in."
+    },
+    {
+      "chinese": "晨风寒冷刺骨(晨風寒冷刺骨)。",
+      "pinyin": "Chén fēng hán lěng cì gǔ.",
+      "english": "The morning breeze is chilling to the bone."
+    }
+  ]
+}

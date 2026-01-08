@@ -1,0 +1,38 @@
+{
+  "simplified": "黄",
+  "traditional": "黃",
+  "pinyin": "huáng",
+  "english": "yellow",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicted a disabled person with a protruding chest or abdomen; phonetically borrowed for 'yellow' in oracle bone script.",
+    "interpretation": "The character started as a pictogram of a protruding chest or a ring of jade, illustrating historical or ritual significance. Over time, it was phonetically adopted to mean 'yellow'.",
+    "simplification": "黄 is a direct simplification of 黃, removing the top glyph 廿(廿) (niàn, 'twenty') as a result of character corruption, simplifying the form."
+  },
+  "parts": [
+    {
+      "char": "璜",
+      "trad": "璜",
+      "pinyin": "huáng",
+      "english": "semicircular jade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件衣服是黄色的(這件衣服是黃色的)。",
+      "pinyin": "Zhè jiàn yīfú shì huángsè de.",
+      "english": "This piece of clothing is yellow."
+    },
+    {
+      "chinese": "金色阳光下(金色陽光下)，稻田变得金黄(稻田變得金黃)。",
+      "pinyin": "Jīnsè yángguāng xià, dàotián biàn de jīn huáng.",
+      "english": "Under the golden sunlight, the rice fields become bright yellow."
+    },
+    {
+      "chinese": "秋天里(秋天里)，银杏叶呈黄色(銀杏葉呈黃色)。",
+      "pinyin": "Qiūtiān lǐ, yínxìng yè chéng huángsè.",
+      "english": "In autumn, the ginkgo leaves appear yellow."
+    }
+  ]
+}

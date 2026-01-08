@@ -1,0 +1,44 @@
+{
+  "simplified": "色魔",
+  "traditional": "色魔",
+  "pinyin": "sèmó",
+  "english": "sex fiend; pervert",
+  "etymology": {
+    "type": "compound word",
+    "description": "色(色) (sè, \"color; sex\") + 魔(魔) (mó, \"demon; magic\") = a demon or fiend associated with sex, indicating a person with perverted sexual behavior.",
+    "interpretation": "The combination of 色(色) (sè, \"sex\") and 魔(魔) (mó, \"demon\") evokes the idea of a person who is overtaken by a demon-like obsession with sex, characterizing them as a pervert.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "色",
+      "trad": "色",
+      "pinyin": "sè",
+      "english": "color; sex"
+    },
+    {
+      "char": "魔",
+      "trad": "魔",
+      "pinyin": "mó",
+      "english": "demon; magic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那个人总在阴暗角落出没(那個人總在陰暗角落出沒)，被大家称为色魔(被大家稱為色魔)。",
+      "pinyin": "Nàgè rén zǒng zài yīnyàn jiǎoluò chūmò, bèi dàjiā chēng wéi sèmó.",
+      "english": "That person always lurks in dark corners, and is called a sex fiend by everyone."
+    },
+    {
+      "chinese": "他是个彻头彻尾的色魔(他是個徹頭徹尾的色魔)。",
+      "pinyin": "Tā shì gè chè tóu chè wěi de sèmó.",
+      "english": "He is a complete pervert."
+    },
+    {
+      "chinese": "在酒吧里(在酒吧裡)，那名色魔引起了轰动(那名色魔引起了轟動)。",
+      "pinyin": "Zài jiǔbā lǐ, nà míng sèmó yǐnqǐ le hōngdòng.",
+      "english": "In the bar, that sex fiend caused a sensation."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "民主",
+  "traditional": "民主",
+  "pinyin": "mínzhǔ",
+  "english": "democracy",
+  "etymology": {
+    "type": "compound word",
+    "description": "民(民) (mín, \"people\"), 主(主) (zhǔ, \"master; lord\") - The term 民主(民主) (mínzhǔ) represents the concept where the power or rule belongs to the people, aligning with the fundamental idea of democracy where citizens have a role in decision-making and governance.",
+    "interpretation": "This combination signifies the concept of 'democracy,' emphasizing that the people are the primary holders of authority in the state.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people"
+    },
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "master; lord"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "人民渴望民主(人民渴望民主)，追求公平正义(追求公平正義)。",
+      "pinyin": "Rénmín kěwàng mínzhǔ, zhuīqiú gōngpíng zhèngyì.",
+      "english": "The people long for democracy, striving for fairness and justice."
+    },
+    {
+      "chinese": "民主促使社会进步(民主促使社會進步)。",
+      "pinyin": "Mínzhǔ cùshǐ shèhuì jìnbù.",
+      "english": "Democracy fosters social progress."
+    }
+  ]
+}

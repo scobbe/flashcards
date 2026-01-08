@@ -1,0 +1,26 @@
+{
+  "simplified": "丨",
+  "traditional": "丨",
+  "pinyin": "gǔn",
+  "english": "vertical line",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a vertical wooden stick",
+    "interpretation": "The character 丨(gǔn, \"vertical line\") is a simple pictogram representing a vertical line or stick. It is a basic stroke used frequently in Chinese characters and appears in other characters like 朕(朕) (zhèn, \"to mend a boat\") as a symbol of support or mending, and in 尹(尹) (yǐn, \"minister\") to symbolize authority.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅书法作品巧妙地运用了丨(丨)，表达了自然之韵(表達了自然之韻)。",
+      "pinyin": "Zhè fú shūfǎ zuòpǐn qiǎomiào de yùnyòng le gǔn, biǎodá le zìrán zhī yùn.",
+      "english": "This calligraphic work skillfully employs the vertical line to express the charm of nature."
+    },
+    {
+      "chinese": "笔画中的丨(丨)象征着笔者心中的坚韧(象徵著筆者心中的堅韌)。",
+      "pinyin": "Bǐhuà zhōng de gǔn xiàngzhēng zhe bǐzhě xīnzhōng de jiānrèn.",
+      "english": "The vertical line in the strokes symbolizes the writer's inner resilience."
+    }
+  ]
+}

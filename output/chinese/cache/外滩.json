@@ -1,0 +1,39 @@
+{
+  "simplified": "外滩",
+  "traditional": "外灘",
+  "pinyin": "wàitān",
+  "english": "the Bund",
+  "etymology": {
+    "type": "compound word",
+    "description": "外(外) (wài, \"outside\") refers to something external or foreign, while 滩(灘) (tān, \"beach; shore\") denotes a flat area of sand or small stones near the water's edge. Therefore, 外滩(外灘) (wàitān, \"the Bund\") describes an external or outside beach shore, most famously referring to the waterfront area in central Shanghai along the Huangpu River.",
+    "interpretation": "The term 外滩(外灘) (wàitān, \"the Bund\") describes a waterfront area, highlighting its feature as the external shore in the bustling city of Shanghai, offering historical and cultural significance tied to its colonial past.",
+    "simplification": "外滩 is the simplified form; the traditional form is 外灘."
+  },
+  "parts": [
+    {
+      "char": "外",
+      "trad": "外",
+      "pinyin": "wài",
+      "english": "outside; external"
+    },
+    {
+      "char": "滩",
+      "trad": "灘",
+      "pinyin": "tān",
+      "english": "beach; shore"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天去了外滩(我昨天去了外灘)。",
+      "pinyin": "Wǒ zuótiān qùle wàitān.",
+      "english": "I went to the Bund yesterday."
+    },
+    {
+      "chinese": "外滩夜景迷人(外灘夜景迷人)，吸引了众多游客(吸引了眾多遊客)。",
+      "pinyin": "Wàitān yèjǐng mírén, xīyǐn le zhòngduō yóukè.",
+      "english": "The night view of the Bund is enchanting and attracts many tourists."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "食",
+  "traditional": "食",
+  "pinyin": "shí",
+  "english": "eat; meal",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "亼(亼) (jí, \"assemble\") over a pictographic bowl of rice on a stand, symbolized by 𠊊(𠊊) (jí, \"bowl with stand\")",
+    "interpretation": "Initially, the character 食(食) (shí, \"eat\") visually represented a mouth over a bowl of rice, conveying the act of eating or a meal intuitively through this imagery.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "assemble"
+    },
+    {
+      "char": "𠊊",
+      "trad": "𠊊",
+      "pinyin": "jí",
+      "english": "bowl with stand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他食得很快(他食得很快)。",
+      "pinyin": "Tā shí dé hěn kuài.",
+      "english": "He eats very quickly."
+    },
+    {
+      "chinese": "我准备午食(我準備午食)，与朋友共享佳肴(與朋友共享佳餚)。",
+      "pinyin": "Wǒ zhǔnbèi wǔ shí, yǔ péngyǒu gòngxiǎng jiāyáo.",
+      "english": "I am preparing lunch to share a delicious meal with my friends."
+    },
+    {
+      "chinese": "民以食为天(民以食為天)。",
+      "pinyin": "Mín yǐ shí wéi tiān.",
+      "english": "Food is regarded as the most important element for the people."
+    }
+  ]
+}

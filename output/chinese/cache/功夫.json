@@ -1,0 +1,44 @@
+{
+  "simplified": "功夫",
+  "traditional": "功夫",
+  "pinyin": "gōngfu",
+  "english": "kung fu",
+  "etymology": {
+    "type": "compound word",
+    "description": "功(功) (gōng, \"achievement; skill\") + 夫(夫) (fū, \"man; master\") = skill or art of a master, referring to martial arts or any skill acquired with effort and patience.",
+    "interpretation": "The term 功夫(功夫) (gōngfu) initially referred to any skilled practice requiring time and dedication. Today, it is broadly associated with Chinese martial arts, highlighting the mastery and effort involved.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "功",
+      "trad": "功",
+      "pinyin": "gōng",
+      "english": "achievement; skill"
+    },
+    {
+      "char": "夫",
+      "trad": "夫",
+      "pinyin": "fū",
+      "english": "man; master"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他练功夫(他練功夫)。",
+      "pinyin": "Tā liàn gōngfu.",
+      "english": "He practices kung fu."
+    },
+    {
+      "chinese": "他练习功夫(他練習功夫)，追求内心平静(追求內心平靜)。",
+      "pinyin": "Tā liànxí gōngfu, zhuīqiú nèixīn píngjìng.",
+      "english": "He practices kung fu, pursuing inner peace."
+    },
+    {
+      "chinese": "学好功夫(學好功夫)，可以提高自信(可以提高自信)。",
+      "pinyin": "Xué hǎo gōngfu, kěyǐ tígāo zìxìn.",
+      "english": "Mastering kung fu can boost self-confidence."
+    }
+  ]
+}

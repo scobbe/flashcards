@@ -1,0 +1,26 @@
+{
+  "simplified": "黒",
+  "traditional": "黑",
+  "pinyin": "hēi",
+  "english": "black",
+  "etymology": {
+    "type": "Variant of 黑",
+    "description": "黑(黑) (hēi, \"black\") simplified -> two dots replaced by one stroke",
+    "interpretation": "The character 黒 is a simplified variant of 黑(黑) (hēi, \"black\"), created by merging the two original dots into a single stroke, akin to other simplifications in Japanese script reform.",
+    "simplification": "This is a reform-based simplification where two dots in 黑(黑) (hēi, \"black\") were combined into one stroke, similar to how 毋(毋) (wú, \"do not\") simplifies 母(母) (mǔ, \"mother\")."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这本书的封面是黑(黑)的。",
+      "pinyin": "Zhè běn shū de fēngmiàn shì hēi(黑) de.",
+      "english": "The cover of this book is black."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，公园里变得黑漆漆(公園裡變得黑漆漆)。",
+      "pinyin": "Yèmù jiànglín shí(夜幕降臨時)，gōngyuán lǐ biàn dé hēi qī qī(公園裡變得黑漆漆).",
+      "english": "When night falls, the park turns pitch black."
+    }
+  ]
+}

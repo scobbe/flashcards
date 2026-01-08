@@ -1,0 +1,50 @@
+{
+  "simplified": "四",
+  "traditional": "四",
+  "pinyin": "sì",
+  "english": "four",
+  "etymology": {
+    "type": "semantic compound",
+    "description": "亖(亖) (sǐ, \"four lines\") restructured into 四(四) with 口(口) (kǒu, \"mouth\") around 八(八) (bā, \"divide\") = four as dispersal of breath -> standardized form for \"four\"",
+    "interpretation": "To prevent confusion with 亖(亖) (sǐ, \"four lines\"), which could be misread as 二(二) (èr, \"two\") or 三(三) (sān, \"three\") when written vertically, the components were reorganized into 口(口) enclosing 八(八). This symbolizes the dispersal concept associated with 'mouth' and 'dividing,' linking to the number four.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亖",
+      "trad": "亖",
+      "pinyin": "sǐ",
+      "english": "four lines"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "divide"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有四支铅笔(我有四支鉛筆)。",
+      "pinyin": "Wǒ yǒu sì zhī qiānbǐ.",
+      "english": "I have four pencils."
+    },
+    {
+      "chinese": "今天是四月(今天是四月)，天气很温暖(天氣很溫暖)。",
+      "pinyin": "Jīntiān shì sì yuè，tiānqì hěn wēnnuǎn.",
+      "english": "It is April today, and the weather is warm."
+    },
+    {
+      "chinese": "公园里有四只小狗(公園裡有四隻小狗)。",
+      "pinyin": "Gōngyuán lǐ yǒu sì zhī xiǎo gǒu.",
+      "english": "There are four little dogs in the park."
+    }
+  ]
+}

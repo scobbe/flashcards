@@ -1,0 +1,39 @@
+{
+  "simplified": "箝",
+  "traditional": "箝",
+  "pinyin": "qián",
+  "english": "to pinch",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, \"bamboo\") + 拑(拑) (qián, \"to pinch\") = pinching involving bamboo -> to pinch",
+    "interpretation": "The character 箝(qián) combines the semantic element 竹(竹) (zhú, \"bamboo\"), often associated with tools or objects made of bamboo, with the phonetic element 拑(拑) (qián, \"to pinch\") to convey the meaning of pinching, potentially suggesting a bamboo device or tool used for pinching.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "拑",
+      "trad": "拑",
+      "pinyin": "qián",
+      "english": "to pinch"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他箝住了我的手(他箝住了我的手)。",
+      "pinyin": "Tā qián zhù le wǒ de shǒu.",
+      "english": "He pinched my hand."
+    },
+    {
+      "chinese": "她在做菜时不小心箝到了自己的皮肤(她在做菜時不小心箝到了自己的皮膚)，感到非常疼痛(感到非常疼痛)。",
+      "pinyin": "Tā zài zuò cài shí bù xiǎoxīn qián dào le zìjǐ de pífū, gǎndào fēicháng téngtòng.",
+      "english": "She accidentally pinched her own skin while cooking and felt a great pain."
+    }
+  ]
+}

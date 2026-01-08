@@ -1,0 +1,44 @@
+{
+  "simplified": "肖",
+  "traditional": "肖",
+  "pinyin": "xiào",
+  "english": "resemble; similar",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 小(小) (xiǎo, \"small\") + Phonetic: 月(月) (yuè, \"moon/flesh\") = small-like or resemble -> resemblance",
+    "interpretation": "肖(肖) (xiào, \"resemble\") combines 小(小) (xiǎo, \"small\") for resembling something in a smaller form, with 月(月) (yuè, \"moon/flesh\") acting as the phonetic component. This suggests a likeness or resemblance, much like something that resembles but is smaller or of similar form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon/flesh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他长得很肖他的父亲(他長得很肖他的父親)。",
+      "pinyin": "Tā zhǎng de hěn xiào tā de fùqīn.",
+      "english": "He greatly resembles his father."
+    },
+    {
+      "chinese": "那幅画中的人物肖古代仕女(那幅畫中的人物肖古代仕女)，散发着艺术的韵味(散發著藝術的韻味)。",
+      "pinyin": "Nà fú huà zhōng de rénwù xiào gǔdài shìnǚ, sànfā zhe yìshù de yùnwèi.",
+      "english": "The figure in that painting resembles an ancient court lady and exudes artistic charm."
+    },
+    {
+      "chinese": "她的笑容总是与花开的季节肖似(她的笑容總是與花開的季節肖似)，让人心情愉快(讓人心情愉快)。",
+      "pinyin": "Tā de xiàoróng zǒng shì yǔ huākāi de jìjié xiào sì, ràng rén xīnqíng yúkuài.",
+      "english": "Her smile always resembles the blossoming season, uplifting people's moods."
+    }
+  ]
+}

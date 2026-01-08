@@ -1,0 +1,39 @@
+{
+  "simplified": "府",
+  "traditional": "府",
+  "pinyin": "fǔ",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "广(廣) (guǎng, \"shelter\") + 付(付) (fù, \"hand over\") = place where things are handed over -> government office or administrative building",
+    "interpretation": "The character 府(fǔ, \"government office\") combines the semantic element 广(廣) (guǎng, \"shelter\") and the phonetic element 付(付) (fù, \"hand over\") to suggest a shelter or building where administrative transactions take place.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "付",
+      "trad": "付",
+      "pinyin": "fù",
+      "english": "hand over"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他参观了总统府(他參觀了總統府)。",
+      "pinyin": "Tā cānguānle zǒngtǒng fǔ.",
+      "english": "He visited the presidential palace."
+    },
+    {
+      "chinese": "开封府曾经闻名遐迩(開封府曾經聞名遐迩)，吸引了众多游客(吸引了眾多遊客)。",
+      "pinyin": "Kāifēng fǔ céngjīng wénmíng xiá'ěr, xīyǐnle zhòngduō yóukè.",
+      "english": "The Kaifeng government office was once famous and attracted many tourists."
+    }
+  ]
+}

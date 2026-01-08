@@ -1,0 +1,44 @@
+{
+  "simplified": "斌",
+  "traditional": "斌",
+  "pinyin": "bīn",
+  "english": "refined; literary",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "文(文) (wén, \"writing\") + 斦(斦) (yín, phonetic) = refinement and literary qualities",
+    "interpretation": "The character 斌(斌) (bīn, \"refined\") combines the semantic component 文(文) (wén, \"writing\"), suggesting cultural or literary refinement, with the phonetic component 斦(斦) (yín). This signifies a person who is refined or scholarly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "writing"
+    },
+    {
+      "char": "斦",
+      "trad": "斦",
+      "pinyin": "yín",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他叫斌(他叫斌)，气质非常斌(氣質非常斌)。",
+      "pinyin": "Tā jiào bīn, qìzhì fēicháng bīn.",
+      "english": "He is called Bin, and his demeanor is very refined."
+    },
+    {
+      "chinese": "经过岁月磨砺(經過歲月磨砺)，他变得沉稳斌(他變得沉穩斌)。",
+      "pinyin": "Jīngguò suìyuè mólì, tā biàn dé chénwěn bīn.",
+      "english": "After the tempering of time, he has become steadily refined."
+    },
+    {
+      "chinese": "他的谈吐斌(他的談吐斌)，彰显出文人的风采(彰顯出文人的風采)。",
+      "pinyin": "Tā de tán tǔ bīn, zhāngxiǎn chū wénrén de fēngcǎi.",
+      "english": "His refined manner of speaking showcases the elegance of a scholar."
+    }
+  ]
+}

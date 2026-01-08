@@ -1,0 +1,39 @@
+{
+  "simplified": "锅盔",
+  "traditional": "鍋盔",
+  "pinyin": "guōkuī",
+  "english": "round baked flatbread",
+  "etymology": {
+    "type": "compound word",
+    "description": "锅(鍋) (guō, \"pot\") and 盔(盔) (kuī, \"helmet\") combine to describe a type of baked flatbread that resembles the shape of a round helmet or pot. The word reflects the visual similarity to these objects, emphasizing the bread's rounded and typically somewhat thick form.",
+    "interpretation": "The term '锅盔(鍋盔) (guōkuī)' describes a flatbread whose shape is reminiscent of a pot or helmet. This alludes to its round and thick appearance, which visually mimics these objects.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "锅",
+      "trad": "鍋",
+      "pinyin": "guō",
+      "english": "pot"
+    },
+    {
+      "char": "盔",
+      "trad": "盔",
+      "pinyin": "kuī",
+      "english": "helmet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃锅盔(我喜歡吃鍋盔)。",
+      "pinyin": "Wǒ xǐhuān chī guōkuī.",
+      "english": "I like eating guokui (round baked flatbread)."
+    },
+    {
+      "chinese": "在路边摊可以买到锅盔(在路邊攤可以買到鍋盔)，外皮酥脆味道独特(外皮酥脆味道獨特)。",
+      "pinyin": "Zài lùbiān tān shàng kěyǐ mǎidào guōkuī, wàipí sūcuì wèidào dútè.",
+      "english": "You can buy guokui at a street stall, and its crust is crisp with a unique flavor."
+    }
+  ]
+}

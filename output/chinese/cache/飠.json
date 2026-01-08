@@ -1,0 +1,44 @@
+{
+  "simplified": "飠",
+  "traditional": "飠",
+  "pinyin": "shí",
+  "english": "eat",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "亼(亼) (jí, \"gather\") over 皀(𠊊, \"bowl of rice on a stand\") = depicts a mouth over a bowl of rice",
+    "interpretation": "The character visually represents the concept of eating, with a mouth positioned over a bowl of rice, symbolizing the action of consuming food.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
+    },
+    {
+      "char": "皀",
+      "trad": "𠊊",
+      "pinyin": "jī",
+      "english": "bowl of rice on a stand"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我飠早餐(我飠早餐)。",
+      "pinyin": "Wǒ shí zǎocān.",
+      "english": "I eat breakfast."
+    },
+    {
+      "chinese": "春天到来时(春天到來時)，我们在露天餐厅飠火锅(我們在露天餐廳飠火鍋)。",
+      "pinyin": "Chūntiān dào lái shí, wǒmen zài lùtiān cāntīng shí huǒguō.",
+      "english": "When spring comes, we eat hot pot at the open-air restaurant."
+    },
+    {
+      "chinese": "他飠完午餐后(他飠完午餐後)，便去图书馆(便去圖書館)。",
+      "pinyin": "Tā shí wán wǔcān hòu, biàn qù túshūguǎn.",
+      "english": "After he finished eating lunch, he went to the library."
+    }
+  ]
+}

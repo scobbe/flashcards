@@ -1,0 +1,38 @@
+{
+  "simplified": "辶",
+  "traditional": "辵",
+  "pinyin": "chuò",
+  "english": "walk",
+  "etymology": {
+    "type": "combining form",
+    "description": "Simplified form of 辵(辵) (chuò, \"walk\") -> used as a radical in conjunction with other components",
+    "interpretation": "辶(辵) (chuò, \"walk\") is derived by simplifying 能(mp) (néng, \"self-reliant\") structure from the character 辵. This simplified form emphasizes the act of motion or walking and is widely used as a radical in various motion-related characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学习汉字时(學習漢字時)，辶作为部首出现(辶作為部首出現)。",
+      "pinyin": "Xuéxí hànzì shí(學習漢字時)，chuò zuòwéi bùshǒu chūxiàn(辶作為部首出現)。",
+      "english": "When studying Chinese characters, '辶' appears as a radical."
+    },
+    {
+      "chinese": "许多表示走路的字(許多表示走路的字)，都含有辶这一部分(都含有辶這一部分)。",
+      "pinyin": "Xǔduō biǎoshì zǒulù de zì(許多表示走路的字)，dōu hányǒu chuò zhè yī bùfen(都含有辶這一部分)。",
+      "english": "Many characters that denote walking contain the radical '辶'."
+    },
+    {
+      "chinese": "古人写字时(古人寫字時)，常利用辶表达行走之意(常利用辶表達行走之意)。",
+      "pinyin": "Gǔrén xiězì shí(古人寫字時)，cháng lìyòng chuò biǎodá xíngzǒu zhī yì(常利用辶表達行走之意)。",
+      "english": "When ancient people wrote characters, they often used '辶' to express the idea of walking."
+    }
+  ]
+}

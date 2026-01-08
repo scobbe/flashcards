@@ -1,0 +1,44 @@
+{
+  "simplified": "企",
+  "traditional": "企",
+  "pinyin": "qǐ",
+  "english": "to plan; stand on tiptoe; look forward to",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 止(止) (zhǐ, \"foot\") = a person standing on tiptoes -> to plan; stand on tiptoe; look forward to",
+    "interpretation": "The character 企(企) (qǐ, \"to plan; stand on tiptoe; look forward to\") visually conveys the action of a person standing on tiptopes, symbolizing anticipation or looking forward to something. The combination of 人(人) (rén, \"person\") and 止(止) (zhǐ, \"foot\") intuitively suggests this posture and figurative meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他企划明天的聚会(他企劃明天的聚會)。",
+      "pinyin": "Tā qǐ huà míngtiān de jùhuì.",
+      "english": "He plans tomorrow's gathering."
+    },
+    {
+      "chinese": "大家企望美好的未来(大家企望美好的未來)。",
+      "pinyin": "Dàjiā qǐ wàng měihǎo de wèilái.",
+      "english": "Everyone looks forward to a bright future."
+    },
+    {
+      "chinese": "他企起脚尖(他企起腳尖)，想看比赛(想看比賽)。",
+      "pinyin": "Tā qǐ qǐ jiǎojiān, xiǎng kàn bǐsài.",
+      "english": "He stands on tiptoe to watch the match."
+    }
+  ]
+}

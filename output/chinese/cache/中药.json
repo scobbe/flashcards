@@ -1,0 +1,44 @@
+{
+  "simplified": "中药",
+  "traditional": "中藥",
+  "pinyin": "zhōng yào",
+  "english": "traditional Chinese medicine",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\") refers to the concept of being central or traditional, while 药(藥) (yào, \"medicine\") refers to medicinal substances. Together, 中药(中藥) signifies medicine that is traditional or central to Chinese culture, hence 'traditional Chinese medicine'.",
+    "interpretation": "The combination 中(中) (zhōng, \"middle\") and 药(藥) (yào, \"medicine\") reflects the philosophically and culturally centered approach of Traditional Chinese Medicine in Chinese society.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; central"
+    },
+    {
+      "char": "药",
+      "trad": "藥",
+      "pinyin": "yào",
+      "english": "medicine; remedy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中药是许多人选择的自然疗法(中藥是許多人選擇的自然療法)。",
+      "pinyin": "Zhōng yào shì xǔ duō rén xuǎnzé de zìrán liáofǎ.",
+      "english": "Traditional Chinese medicine is a natural therapy chosen by many people."
+    },
+    {
+      "chinese": "很多病人依赖中药调理身体(很多病人依賴中藥調理身體)。",
+      "pinyin": "Hěn duō bìngrén yīlài zhōng yào tiáolǐ shēntǐ.",
+      "english": "Many patients rely on traditional Chinese medicine to regulate their body."
+    },
+    {
+      "chinese": "中药讲究天人合一的理念(中藥講究天人合一的理念)。",
+      "pinyin": "Zhōng yào jiǎngjiù tiānrén hé yī de lǐniàn.",
+      "english": "Traditional Chinese medicine emphasizes the concept of harmony between man and nature."
+    }
+  ]
+}

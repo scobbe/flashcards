@@ -1,0 +1,26 @@
+{
+  "simplified": "戋",
+  "traditional": "戔",
+  "pinyin": "jiān",
+  "english": "small",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two crossed lines representing reduction or smallness",
+    "interpretation": "The character 戋(戔) (jiān, \"small\") visually represents two lines crossing each other, symbolizing something being diminished or reduced, which aligns with its meaning of 'small.'",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个房间太戋(戔)了。",
+      "pinyin": "Zhè ge fángjiān tài jiān le.",
+      "english": "This room is too small."
+    },
+    {
+      "chinese": "他住在戋(戔)房子里(他住在戋(戔)房子里)，过着安静生活(過著安靜生活)。",
+      "pinyin": "Tā zhù zài jiān fángzi lǐ, guò zhe ānjìng shēnghuó.",
+      "english": "He lives in a small house and leads a quiet life."
+    }
+  ]
+}

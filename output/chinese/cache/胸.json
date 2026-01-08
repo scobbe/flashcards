@@ -1,0 +1,44 @@
+{
+  "simplified": "胸",
+  "traditional": "胸",
+  "pinyin": "xiōng",
+  "english": "chest",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 月(月) (yuè, \"flesh\") + phonetic: 匈(匈) (xiōng) = part of the body related to flesh -> chest",
+    "interpretation": "The character 胸(xiōng) combines 月(月) (yuè, \"flesh\"), which indicates the character relates to a part of the body, with 匈(匈) (xiōng), which provides the phonetic element. This suggests a focus on a body part, specifically the chest.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "flesh"
+    },
+    {
+      "char": "匈",
+      "trad": "匈",
+      "pinyin": "xiōng",
+      "english": "chest"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的胸中充满勇气(他的胸中充滿勇氣)。",
+      "pinyin": "Tā de xiōng zhōng chōngmǎn yǒngqì.",
+      "english": "His chest is full of courage."
+    },
+    {
+      "chinese": "他坚持锻炼(他堅持鍛鍊)，以增强胸的力量(以增強胸的力量)。",
+      "pinyin": "Tā jiānchí duànliàn, yǐ zēngqiáng xiōng de lìliàng.",
+      "english": "He insists on exercising to strengthen the power of his chest."
+    },
+    {
+      "chinese": "医生检查了他的胸(醫生檢查了他的胸)。",
+      "pinyin": "Yīshēng jiǎnchále tā de xiōng.",
+      "english": "The doctor examined his chest."
+    }
+  ]
+}

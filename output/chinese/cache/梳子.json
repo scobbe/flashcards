@@ -1,0 +1,44 @@
+{
+  "simplified": "梳子",
+  "traditional": "梳子",
+  "pinyin": "shūzi",
+  "english": "comb",
+  "etymology": {
+    "type": "compound word",
+    "description": "梳(梳) (shū, \"comb\") + 子(子) (zi, \"small thing\") = comb",
+    "interpretation": "A 梳(梳) (shū, \"comb\") is a tool used for grooming hair, and 子(子) (zi, \"small thing\") is a common suffix in Chinese that denotes a small object. The combination suggests a small hand-held tool for grooming.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "梳",
+      "trad": "梳",
+      "pinyin": "shū",
+      "english": "comb"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "small thing; child; seed; suffix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她用梳子梳理长发(她用梳子梳理長髮)。",
+      "pinyin": "Tā yòng shūzi shūlǐ chángfǎ.",
+      "english": "She uses a comb to comb her long hair."
+    },
+    {
+      "chinese": "我买了一个漂亮的梳子(我買了一個漂亮的梳子)。",
+      "pinyin": "Wǒ mǎile yīgè piàoliàng de shūzi.",
+      "english": "I bought a pretty comb."
+    },
+    {
+      "chinese": "妈妈修剪头发时(媽媽修剪頭髮時)，总喜欢用这个梳子(總喜歡用這個梳子)。",
+      "pinyin": "Māmā xiūjiǎn tóufǎ shí, zǒng xǐhuān yòng zhège shūzi.",
+      "english": "When mom trims hair, she always likes to use this comb."
+    }
+  ]
+}

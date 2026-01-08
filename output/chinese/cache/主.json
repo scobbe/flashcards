@@ -1,0 +1,31 @@
+{
+  "simplified": "主",
+  "traditional": "主",
+  "pinyin": "zhǔ",
+  "english": "master; lord",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a torch with a flame on top, symbolizing guidance or leadership",
+    "interpretation": "The character 主(主) (zhǔ, \"master\") represents a torch with a flame, symbolizing a guiding or leading figure, akin to a master or lord providing direction.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是我们家的主(他是我們家的主)。",
+      "pinyin": "Tā shì wǒmen jiā de zhǔ.",
+      "english": "He is the master of our family."
+    },
+    {
+      "chinese": "僧侣虔诚祷告主(僧侶虔誠禱告主)。",
+      "pinyin": "Sēnglǚ qiánchéng dǎogào zhǔ.",
+      "english": "The monks devoutly prayed to the Lord."
+    },
+    {
+      "chinese": "臣子忠心辅佐主(臣子忠心輔佐主)。",
+      "pinyin": "Chénzi zhōngxīn fǔzuǒ zhǔ.",
+      "english": "The ministers loyally assist their master."
+    }
+  ]
+}

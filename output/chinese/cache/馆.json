@@ -1,0 +1,39 @@
+{
+  "simplified": "馆",
+  "traditional": "館",
+  "pinyin": "guǎn",
+  "english": "building; hall",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艮(艮) (gèn, \"stopping\") + semantic: 食(食) (shí, \"food\") = place associated with food -> building, hall",
+    "interpretation": "In 馆(館), the component 艮(艮) (gèn, \"stopping\") acts as the phonetic element, while 食(食) (shí, \"food\") is the semantic component symbolizing a place related to food, thus forming the meaning of a building or hall, particularly one related to eating or gathering.",
+    "simplification": "馆(館): Radicals simplified with 夂(夂) (zhǐ, \"go\") replacing 食(飠) for visual simplicity while keeping the overall meaning."
+  },
+  "parts": [
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stopping"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在图书馆(我在圖書館)借阅书籍(借閱書籍)。",
+      "pinyin": "Wǒ zài túshūguǎn jièyuè shūjí.",
+      "english": "I borrow books at the library."
+    },
+    {
+      "chinese": "故宫博物馆(故宮博物館)收藏珍贵文物(收藏珍貴文物)。",
+      "pinyin": "Gùgōng bówùguǎn shōucáng zhēnguì wénwù.",
+      "english": "The Palace Museum collects precious cultural relics."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "侯",
+  "traditional": "侯",
+  "pinyin": "hóu",
+  "english": "marquis",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts target for arrows -> representation of marquis as distant goal",
+    "interpretation": "Originally a pictogram showing a target for arrows, this character captures the idea of a marquis as a distant, lofty position to aim for. The visual metaphor aligns the role of a marquis, often considered a noble target or goal within a hierarchy, with the target imagery.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被封为侯(侯)。",
+      "pinyin": "Tā bèi fēng wéi hóu.",
+      "english": "He was conferred the title of marquis."
+    },
+    {
+      "chinese": "他出身名门(他出身名門)，后来晋升为侯(後來晉升為侯)。",
+      "pinyin": "Tā chūshēn míngmén, hòulái jìnshēng wéi hóu.",
+      "english": "He was born into a famous family, and later promoted to marquis."
+    }
+  ]
+}

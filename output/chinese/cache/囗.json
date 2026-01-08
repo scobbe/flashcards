@@ -1,0 +1,26 @@
+{
+  "simplified": "囗",
+  "traditional": "囗",
+  "pinyin": "wéi",
+  "english": "enclosure",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an enclosure",
+    "interpretation": "The character 囗(囗) (wéi, 'enclosure') is a pictogram representing a square or rectangular enclosure, emblematic of walls or boundaries. It visually reflects a basic enclosed area delineated by straight lines.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "博物馆外有坚固的囗(博物館外有堅固的囗)，保护着历史文物(保護著歷史文物)。",
+      "pinyin": "Bówùguǎn wài yǒu jiāngù de wéi, bǎohùzhe lìshǐ wénwù.",
+      "english": "Outside the museum, a sturdy enclosure protects historical artifacts."
+    },
+    {
+      "chinese": "古城外围的囗(古城外圍的囗)，确保了居民的安全(確保了居民的安全)。",
+      "pinyin": "Gǔchéng wàiwéi de wéi, quèbǎole jūmín de ānquán.",
+      "english": "The ancient city's enclosure ensures the residents' safety."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "昌",
+  "traditional": "昌",
+  "pinyin": "chāng",
+  "english": "prosperous; flourishing",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") on top + 日(日) (rì, \"sun\") below = brightness from two suns -> prosperous",
+    "interpretation": "昌(昌) (chāng, \"prosperous\") combines two 日(日) (rì, \"sun\") characters to symbolize great brightness and vitality, indicating prosperity and flourishing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "国家昌盛(國家昌盛)。",
+      "pinyin": "Guójiā chāngshèng.",
+      "english": "The nation is flourishing."
+    },
+    {
+      "chinese": "改革开放(改革開放)，使经济昌盛(使經濟昌盛)。",
+      "pinyin": "Gǎigé kāifàng, shǐ jīngjì chāngshèng.",
+      "english": "Reform and opening up have led to a thriving economy."
+    }
+  ]
+}

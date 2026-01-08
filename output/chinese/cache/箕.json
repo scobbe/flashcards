@@ -1,0 +1,44 @@
+{
+  "simplified": "箕",
+  "traditional": "箕",
+  "pinyin": "jī",
+  "english": "basket",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "竹(竹) (zhú, \"bamboo\") + 其(其) (qí, \"his\") providing sound -> specialized character for \"basket\"",
+    "interpretation": "The character 箕(箕) (jī, \"basket\") combines 竹(竹) (zhú, \"bamboo\"), reflecting the material commonly used to make baskets, with 其(其) (qí, \"his\"), providing the sound component to signify its specialized meaning. This association illustrates how bamboo was integral to basket construction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "农家收拾庄稼后(農家收拾莊稼後)，用箕盛起稻谷(用箕盛起稻穀)。",
+      "pinyin": "Nóngjiā shōushí zhuāngjiàhòu, yòng jī shèng qǐ dàogǔ。",
+      "english": "After the farmhouse finished harvesting, they used a basket to scoop up the rice."
+    },
+    {
+      "chinese": "节日市场上(節日市場上)，摊贩用彩色箕展示新鲜蔬果(攤販用彩色箕展示新鮮蔬果)。",
+      "pinyin": "Jiérì shìchǎng shàng, tānfàn yòng cǎisè jī zhǎnshì xīnxiān shūguǒ。",
+      "english": "At the festive market, vendors used colorful baskets to display fresh fruits and vegetables."
+    },
+    {
+      "chinese": "他买了一个木制箕(他買了一個木製箕)，用来扫院子(用來掃院子)。",
+      "pinyin": "Tā mǎile yīgè mùzhì jī, yòng lái sǎo yuànzi。",
+      "english": "He bought a wooden basket used to sweep the yard."
+    }
+  ]
+}

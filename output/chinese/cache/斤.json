@@ -1,0 +1,26 @@
+{
+  "simplified": "斤",
+  "traditional": "斤",
+  "pinyin": "jīn",
+  "english": "axe",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an axe",
+    "interpretation": "The character 斤(斤) (jīn, 'axe') is a pictogram that visually represents an axe. Its shape resembles the tool's blade and handle.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拿起一把斤(他拿起一把斤)，熟练地劈开木头(熟練地劈開木頭)。",
+      "pinyin": "Tā ná qǐ yī bǎ jīn, shú liàn de pī kāi mù tóu.",
+      "english": "He picked up an axe and skillfully split the firewood."
+    },
+    {
+      "chinese": "古人制造精巧的斤(古人製造精巧的斤)，以制作雕刻工具(以製作雕刻工具)。",
+      "pinyin": "Gǔ rén zhì zào jīng qiǎo de jīn, yǐ zhì zuò diāo kè gōng jù.",
+      "english": "In ancient times, people crafted exquisite axes for carving tools."
+    }
+  ]
+}

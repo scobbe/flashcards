@@ -1,0 +1,44 @@
+{
+  "simplified": "何",
+  "traditional": "何",
+  "pinyin": "hé",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 亻(亻) (rén, \"person\") + phonetic: 可(可) (kě, \"can, may\") = person's ability to do something -> interrogative 'what, why'",
+    "interpretation": "The character 何(何) (hé, \"what\") combines the person radical 亻(亻) (rén, \"person\") with 可(可) (kě, \"can, may\") as the phonetic component, indicating actions or attributes related to people, hence its use in asking questions starting with 'what' or 'why'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can, may"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "何是汉字中常见的声旁(何是漢字中常見的聲旁)。",
+      "pinyin": "Hé shì hànzì zhōng chángjiàn de shēngpáng.",
+      "english": "‘Hé’ is a common phonetic component in Chinese characters."
+    },
+    {
+      "chinese": "研究者探讨了何在不同字中的作用(研究者探討了何在不同字中的作用)，并强调它的重要性(並強調它的重要性)。",
+      "pinyin": "Yánjiū zhě tàntǎo le hé zài bùtóng zì zhōng de zuòyòng, bìng qiángdiào tā de zhòngyào xìng.",
+      "english": "Researchers discussed the role of 'hé' in various characters and emphasized its importance."
+    },
+    {
+      "chinese": "学者研究何的音韵功能(學者研究何的音韻功能)。",
+      "pinyin": "Xuézhě yánjiū hé de yīnyùn gōngnéng.",
+      "english": "Scholars study the phonological function of 'hé'."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "茶",
+  "traditional": "茶",
+  "pinyin": "chá",
+  "english": "tea",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 余(余) (yú) = plant component and phonetic -> tea",
+    "interpretation": "The character 茶(chá) combines 艹(艹) (cǎo, \"grass\") implying a plant, with 余(余) (yú) for its phonetic aspect. Originally derived from a modification of 荼, which meant \"bitter plant\" in classical texts, 茶(chá) specifically came to signify \"tea.\" This combines the concept of a plant with a sound similar to the word for tea.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "余",
+      "trad": "余",
+      "pinyin": "yú",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝茶(我喜歡喝茶)。",
+      "pinyin": "Wǒ xǐhuān hē chá.",
+      "english": "I like to drink tea."
+    },
+    {
+      "chinese": "早上喝茶(早上喝茶)，心情变好(心情變好)。",
+      "pinyin": "Zǎoshang hē chá, xīnqíng biàn hǎo.",
+      "english": "Drinking tea in the morning improves the mood."
+    }
+  ]
+}

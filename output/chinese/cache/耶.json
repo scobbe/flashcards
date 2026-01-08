@@ -1,0 +1,33 @@
+{
+  "simplified": "耶",
+  "traditional": "耶",
+  "pinyin": "yē",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "corruption",
+    "description": "Corruption of 邪(邪) (yé, \"wrong\") -> phonetic component",
+    "interpretation": "The character 耶(yē) evolved as a corruption of 邪(邪) (yé, \"wrong\") to serve as a phonetic component in Chinese characters. The original character 邪(邪) combined 牙(牙) (yá, \"tooth\") as the phonetic part and 邑(邑) (yì, \"town; city\") as the semantic part, suggesting its use in place names like 琅邪(lángyé).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "邪",
+      "trad": "邪",
+      "pinyin": "yé",
+      "english": "wrong"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个字的声旁是耶(這個字的聲旁是耶)。",
+      "pinyin": "Zhège zì de shēngpáng shì yē.",
+      "english": "The phonetic component of this character is yē."
+    },
+    {
+      "chinese": "他研究汉字构造(他研究漢字構造)，发现耶常作表音符号(發現耶常作表音符號)。",
+      "pinyin": "Tā yánjiū hànzì gòuzào， fāxiàn yē cháng zuò biǎoyīn fúhào.",
+      "english": "He studies the structure of Chinese characters, and finds that yē often serves as the phonetic element."
+    }
+  ]
+}

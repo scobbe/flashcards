@@ -1,0 +1,44 @@
+{
+  "simplified": "昆",
+  "traditional": "昆",
+  "pinyin": "kūn",
+  "english": "descendants",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, 'sun') + phonetic: 比(比) (bǐ, 'compare') = combined light of two suns -> descendants",
+    "interpretation": "The character 昆(昆) (kūn, 'descendants') uses the sun 日(日) (rì, 'sun') to symbolize extension or brightness, while 比(比) (bǐ, 'compare'), as a phonetic component, suggests reproduction or a continuation of a lineage. The combined imagery of two lights metaphorically communicates to the continuation of the family line through descendants.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "比",
+      "trad": "比",
+      "pinyin": "bǐ",
+      "english": "compare"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把祖先的遗志传给了他的昆(他把祖先的遺志傳給了他的昆)。",
+      "pinyin": "Tā bǎ zǔxiān de yízhì chuán gěi le tā de kūn。",
+      "english": "He passed his ancestors' will to his descendants."
+    },
+    {
+      "chinese": "家族兴旺靠传承美德(家族興旺靠傳承美德)，昆代绵延见证未来(昆代綿延見證未來)。",
+      "pinyin": "Jiāzú xīngwàng kào chuánchéng měidé, kūn dài miányán jiànzhèng wèilái。",
+      "english": "Family prosperity relies on passing on virtues, and the descendants sustain the legacy for the future."
+    },
+    {
+      "chinese": "长辈辛勤耕耘历史(長輩辛勤耕耘歷史)，昆继承文化薪火相传(昆繼承文化薪火相傳)。",
+      "pinyin": "Zhǎngbèi xīnqín gēngyún lìshǐ, kūn jìchéng wénhuà xīnhuǒ xiāngchuán。",
+      "english": "The elders diligently cultivate history, while the descendants inherit and pass on the cultural legacy."
+    }
+  ]
+}

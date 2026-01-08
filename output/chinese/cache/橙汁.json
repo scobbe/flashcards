@@ -1,0 +1,39 @@
+{
+  "simplified": "橙汁",
+  "traditional": "橙汁",
+  "pinyin": "chéngzhī",
+  "english": "orange juice",
+  "etymology": {
+    "type": "compound word",
+    "description": "橙(橙) (chéng, \"orange\") + 汁(汁) (zhī, \"juice\") means juice derived from oranges.",
+    "interpretation": "The term 橙汁(chéngzhī) logically combines 橙(橙) (chéng, \"orange\") with 汁(汁) (zhī, \"juice\") to refer to a liquid extracted from oranges, commonly known as orange juice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "橙",
+      "trad": "橙",
+      "pinyin": "chéng",
+      "english": "orange"
+    },
+    {
+      "char": "汁",
+      "trad": "汁",
+      "pinyin": "zhī",
+      "english": "juice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝橙汁(我喜歡喝橙汁)。",
+      "pinyin": "Wǒ xǐhuān hē chéngzhī.",
+      "english": "I like to drink orange juice."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，一杯冰橙汁能带来清凉(一杯冰橙汁能帶來清涼)。",
+      "pinyin": "Xiàtiān láilín shí, yī bēi bīng chéngzhī néng dàilái qīngliáng.",
+      "english": "When summer arrives, a glass of iced orange juice brings coolness."
+    }
+  ]
+}

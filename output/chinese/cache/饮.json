@@ -1,0 +1,44 @@
+{
+  "simplified": "饮",
+  "traditional": "飲",
+  "pinyin": "yǐn",
+  "english": "drink; swallow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "酉(酉) (yǒu, \"bottle\") + 人(人) (rén, \"person\") + 口(口) (kǒu, \"mouth\") -> person bending over a bottle to drink -> bronze script: 口 separate, become 今(今) (jīn), rest of body becomes 欠(欠) (qiàn) -> final: 食(食) (shí, \"eat\") + 欠(欠) (qiàn, \"yawn\") -> 飲(飲)",
+    "interpretation": "The character illustrates the act of drinking as a person bent over a bottle. Over time, the depiction was stylized, repurposing 食(食) (shí, \"eat\") and 欠(欠) (qiàn, \"yawn\") to retain the original meaning phonetically and semantically.",
+    "simplification": "In simplified Chinese, 食(食) (shí, \"eat\") is retained and 欠(欠) (qiàn, \"yawn\") remains, forming 饮. The character's form was likely adjusted for ease while maintaining pronunciation and meaning."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "to eat"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想饮茶(我想飲茶)。",
+      "pinyin": "Wǒ xiǎng yǐn chá.",
+      "english": "I want to drink tea."
+    },
+    {
+      "chinese": "炎热的夏天(炎熱的夏天)，我常常饮上一杯冰水(我常常飲上一杯冰水)。",
+      "pinyin": "Yánrè de xiàtiān, wǒ chángcháng yǐn shàng yì bēi bīngshuǐ.",
+      "english": "In the hot summer, I often drink a glass of iced water."
+    },
+    {
+      "chinese": "他饮完了酒(他飲完了酒)，便上路了(便上路了)。",
+      "pinyin": "Tā yǐn wán le jiǔ, biàn shànglù le.",
+      "english": "After he finished his drink, he set off."
+    }
+  ]
+}

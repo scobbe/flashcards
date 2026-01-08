@@ -1,0 +1,44 @@
+{
+  "simplified": "一切",
+  "traditional": "一切",
+  "pinyin": "yīqiè",
+  "english": "everything",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one; single\") denotes unity or a singular entity, while 切(切) (qiè, \"all; every\") expands this to encompass all, forming 'everything'.",
+    "interpretation": "一切(一切) (yīqiè, \"everything\") combines 一(一) (yī, \"one\") with 切(切) (qiè, \"all\") to express the totality of existence or all aspects of a situation or environment. The term is often used to denote comprehensive inclusion, reflecting the idea that all things are considered as one.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single; alone; unity"
+    },
+    {
+      "char": "切",
+      "trad": "切",
+      "pinyin": "qiè",
+      "english": "all; every; everything; to cut"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他放弃一切(他放棄一切)。",
+      "pinyin": "Tā fàngqì yīqiè.",
+      "english": "He gave up everything."
+    },
+    {
+      "chinese": "她努力工作(她努力工作)，追求一切梦想(追求一切夢想)。",
+      "pinyin": "Tā nǔlì gōngzuò, zhuīqiú yīqiè mèngxiǎng.",
+      "english": "She works hard, pursuing all her dreams."
+    },
+    {
+      "chinese": "一切皆有可能(一切皆有可能)。",
+      "pinyin": "Yīqiè jiē yǒu kěnéng.",
+      "english": "Everything is possible."
+    }
+  ]
+}

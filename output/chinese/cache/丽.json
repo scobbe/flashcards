@@ -1,0 +1,38 @@
+{
+  "simplified": "丽",
+  "traditional": "麗",
+  "pinyin": "lì",
+  "english": "beautiful",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Two people -> current form resembles upper part of 麗(麗) (lì, \"beautiful\") -> represents beauty",
+    "interpretation": "The character 丽(麗) (lì, \"beautiful\") combines the concept of two people to emphasize beauty, which was apt in ancient aesthetics. The contemporary form resembles the upper structure of 麗(麗) (lì, \"beautiful\"), visually connecting it to the traditional character.",
+    "simplification": "The traditional form 麗(麗), which depicts a deer with antlers, was simplified by retaining the upper components, eliminating complex strokes for ease of writing and recognition."
+  },
+  "parts": [
+    {
+      "char": "麗",
+      "trad": "麗",
+      "pinyin": "lì",
+      "english": "beautiful"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里的花儿真丽(公園裡的花兒真麗)。",
+      "pinyin": "Gōngyuán lǐ de huār zhēn lì.",
+      "english": "The flowers in the park are truly beautiful."
+    },
+    {
+      "chinese": "夕阳下的湖面格外丽(夕陽下的湖面格外麗)，倒映出绚烂的晚霞(倒映出絢爛的晚霞)。",
+      "pinyin": "Xīyáng xià de húmiàn géwài lì, dàoyìng chū xuànlàn de wǎnxiá.",
+      "english": "The lake under the setting sun is exceptionally beautiful, reflecting the brilliant sunset."
+    },
+    {
+      "chinese": "他穿着丽服(他穿著麗服)，参加了盛大的宴会(參加了盛大的宴會)。",
+      "pinyin": "Tā chuānzhuó lì fú, cānjiāle shèngdà de yànhuì.",
+      "english": "He wore beautiful attire and attended a grand banquet."
+    }
+  ]
+}

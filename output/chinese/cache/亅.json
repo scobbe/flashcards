@@ -1,0 +1,26 @@
+{
+  "simplified": "亅",
+  "traditional": "亅",
+  "pinyin": "jué",
+  "english": "hook",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hook",
+    "interpretation": "亅(亅) (jué, \"hook\") is a simple pictogram representing a basic hook shape, illustrating its use and function.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "书法家在宣纸上挥毫泼墨(書法家在宣紙上揮毫潑墨)，勾勒出一个优美的亅(勾勒出一個優美的亅)。",
+      "pinyin": "Shūfǎjiā zài xuānzhǐ shàng huīháo pōmò, gōulè chū yīgè yōuměi de jué.",
+      "english": "The calligrapher splashes ink on Xuan paper, skillfully outlining a graceful hook."
+    },
+    {
+      "chinese": "篆刻师巧用刀法点出亅(篆刻師巧用刀法點出亅)。",
+      "pinyin": "Zhuànkè shī qiǎoyòng dāofǎ diǎn chū jué.",
+      "english": "The seal carver skillfully uses the knife technique to dot the hook."
+    }
+  ]
+}

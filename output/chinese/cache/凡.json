@@ -1,0 +1,31 @@
+{
+  "simplified": "凡",
+  "traditional": "凡",
+  "pinyin": "fán",
+  "english": "ordinary (phonetic component)",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a plate or flat dish -> borrowed for abstract meanings -> unrelated to 几(幾) (jī, 'small table')",
+    "interpretation": "凡(凡) (fán, 'ordinary') originally depicted a flat dish or plate. Over time, it expanded to encompass broader abstract meanings and is unrelated to the character 几(幾) which represents a small table.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是个平凡的人(他是個平凡的人)。",
+      "pinyin": "tā shì gè píngfán de rén.",
+      "english": "He is an ordinary person."
+    },
+    {
+      "chinese": "凡人都可能犯错(凡人都可能犯錯)，从错误中成长(從錯誤中成長)。",
+      "pinyin": "fán rén dōu kěnéng fàncuò, cóng cuòwù zhōng chéngzhǎng.",
+      "english": "Ordinary people may make mistakes, and grow from them."
+    },
+    {
+      "chinese": "他凡去旅行(他凡去旅行)，总能发现新的风景(總能發現新的風景)。",
+      "pinyin": "tā fán qù lǚxíng, zǒng néng fāxiàn xīn de fēngjǐng.",
+      "english": "Whenever he travels, he always discovers new sceneries."
+    }
+  ]
+}

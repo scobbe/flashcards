@@ -5,22 +5,22 @@
   "english": "cauldron",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cauldron or cooking vessel",
-    "interpretation": "䰜(䰜) (lì, \"cauldron\") is an ancient form of 鬲(鬲) (lì, \"cauldron\"), both depict a cooking vessel, diverged over time.",
+    "description": "Depicts a cauldron",
+    "interpretation": "䰜(䰜) (lì, \"cauldron\") is an ancient form of 鬲(鬲) (lì, \"cauldron\"), both representing a cooking vessel made from pottery. The character originally depicted the shape of a cauldron and continues to hold this meaning as a historical form.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他在村里发现了一口古老的䰜(他在村裡發現了一口古老的䰜)，旁人传说它曾用于祭祀(旁人傳說它曾用於祭祀)。",
-      "pinyin": "Tā zài cūn lǐ fāxiàn le yì kǒu gǔlǎo de lì, pángrén chuánshuō tā céng yòng yú jìsì.",
-      "english": "He discovered an ancient cauldron in the village, and people say it was once used for sacrificial rituals."
+      "chinese": "古代祭祀时常用䰜(古代祭祀時常用䰜)。",
+      "pinyin": "Gǔdài jìsì shí cháng yòng lì.",
+      "english": "In ancient rites, cauldrons were commonly used."
     },
     {
-      "chinese": "文人叹息古时铸就精美䰜(文人嘆息古時鑄就精美䰜)，见证历史风云(見證歷史風雲)。",
-      "pinyin": "Wénrén tànxī gǔshí zhùjiù jīngměi de lì, jiànzhèng lìshǐ fēngyún.",
-      "english": "Scholars lament that the exquisitely cast ancient cauldron bears witness to a turbulent history."
+      "chinese": "王羲之参观博物馆(王羲之參觀博物館)，见到展出的古代䰜(見到展出的古代䰜)。",
+      "pinyin": "Wáng Xīzhī cānguān bówùguǎn, jiàn dào zhǎn chū de gǔdài lì.",
+      "english": "Wáng Xīzhī visited the museum and saw an ancient cauldron on display."
     }
   ]
 }

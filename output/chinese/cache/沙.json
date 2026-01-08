@@ -1,0 +1,44 @@
+{
+  "simplified": "沙",
+  "traditional": "沙",
+  "pinyin": "shā",
+  "english": "sand",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 少(少) (shǎo, \"few/little\") = little water -> sand",
+    "interpretation": "The character 沙(shā, \"sand\") combines water 氵(氵) with the idea of being sparse or scant 少(少). This blend symbolically captures sand's flowing, water-associated nature, while emphasizing its fine, tiny particles—akin to little or few.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "少",
+      "trad": "少",
+      "pinyin": "shǎo",
+      "english": "few"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孩子们在沙滩上玩耍(孩子們在沙灘上玩耍)。",
+      "pinyin": "Hái zǐ men zài shā tān shàng wán shuǎ.",
+      "english": "Children are playing on the beach."
+    },
+    {
+      "chinese": "海边的沙温暖而柔软(海邊的沙溫暖而柔軟)。",
+      "pinyin": "Hǎi biān de shā wēn nuǎn ér róu ruǎn.",
+      "english": "The sand by the seaside is warm and soft."
+    },
+    {
+      "chinese": "沙粒闪烁着光芒(沙粒閃爍著光芒)，仿佛无数星辰(仿佛無數星辰)。",
+      "pinyin": "Shā lì shǎn shuò zhe guāng máng, fǎng fú wú shù xīng chén.",
+      "english": "The grains of sand sparkle, as if countless stars."
+    }
+  ]
+}

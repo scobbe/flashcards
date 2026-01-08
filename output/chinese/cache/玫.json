@@ -1,0 +1,44 @@
+{
+  "simplified": "玫",
+  "traditional": "玫",
+  "pinyin": "méi",
+  "english": "a type of jade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 𤣩(玉) (yù, \"jade\") + phonetic: 文(文) (wén) = jade-related meaning with the sound of 'wén' -> type of jade",
+    "interpretation": "The character 玫 evolved by combining the signifier for jade, suggesting its semantic field, with the phonetic element 文(文), to indicate pronunciation. This combination represents a type of jade, emphasizing both the material aspect and the phonetic need.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "pattern"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种玫非常珍贵(這種玫非常珍貴)。",
+      "pinyin": "Zhè zhǒng méi fēicháng zhēnguì.",
+      "english": "This type of jade is very precious."
+    },
+    {
+      "chinese": "传承古法雕琢玫(傳承古法雕琢玫)，展现皇家工艺(展現皇家工藝)。",
+      "pinyin": "Chuánchéng gǔfǎ diāozhuó méi, zhǎnxiàn huángjiā gōngyì.",
+      "english": "Carved using ancient techniques, this jade displays royal craftsmanship."
+    },
+    {
+      "chinese": "匠人精心打磨玫(匠人精心打磨玫)，令其光彩熠熠(令其光彩熠熠)。",
+      "pinyin": "Jiàngrén jīngxīn dǎmó méi, lìng qí guāngcǎi yìyì.",
+      "english": "The artisan carefully polished the jade, making it shine brilliantly."
+    }
+  ]
+}

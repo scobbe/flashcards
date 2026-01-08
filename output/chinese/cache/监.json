@@ -1,0 +1,44 @@
+{
+  "simplified": "监",
+  "traditional": "監",
+  "pinyin": "jiān",
+  "english": "supervise",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "皿(皿) (mǐn, \"dish\") + 㕣(㕣) (miǎn) = overseeing from height -> 監(監) (jiān, \"supervise\")",
+    "interpretation": "The traditional character 監(監) (jiān, \"supervise\") combines 皿(皿) (mǐn, \"dish\"), indicating a container or viewing surface, and 㕣(㕣) (miǎn), signifying overseeing or viewing from height. This suggests a role of overseeing or inspecting from above.",
+    "simplification": "In simplified character 监(監), the 臣(臣) (chén, \"subject\") was replaced with 〢, likely as a shorthand, retaining the role of overseeing."
+  },
+  "parts": [
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "dish"
+    },
+    {
+      "char": "㕣",
+      "trad": "㕣",
+      "pinyin": "miǎn",
+      "english": "look over"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被委派监工(他被委派監工)，确保工程质量(確保工程質量)。",
+      "pinyin": "Tā bèi wěipài jiān gōng, quèbǎo gōngchéng zhìliàng.",
+      "english": "He was assigned to supervise the work, ensuring the project’s quality."
+    },
+    {
+      "chinese": "工头常常亲自监现场(工頭常常親自監現場)。",
+      "pinyin": "Gōngtóu chángcháng qīnzì jiān xiànchǎng.",
+      "english": "The foreman often personally supervises the site."
+    },
+    {
+      "chinese": "考试期间(考試期間)，老师认真监考学生(老師認真監考學生)。",
+      "pinyin": "Kǎoshì qíjiān, lǎoshī rènzhēn jiān kǎo xuéshēng.",
+      "english": "During the exam period, the teacher diligently supervises the students."
+    }
+  ]
+}

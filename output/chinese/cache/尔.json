@@ -1,0 +1,44 @@
+{
+  "simplified": "尔",
+  "traditional": "爾",
+  "pinyin": "ěr",
+  "english": "you",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "尒(尒) (ěr, \"ear\") + 小(小) (xiǎo, \"small\") as phonetic -> simplified to 爾(爾) (ěr, \"you\") and semantic -> 尔(爾) (ěr, \"you\")",
+    "interpretation": "The character combines the simplified form of 尒(尒), representing an ear or a small object, with 小, which acts phonetically. Over time, this form became established for the pronoun \"you.\"",
+    "simplification": "Simplified to 尔(爾) by omitting the component structure to represent the same pronoun meaning with fewer strokes."
+  },
+  "parts": [
+    {
+      "char": "尒",
+      "trad": "尒",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "尔志存高远(爾志存高遠)，行必致远(行必致遠)。",
+      "pinyin": "Ěr zhìcún gāoyuǎn, xíng bì zhìyuǎn.",
+      "english": "You aim high, and your actions will take you far."
+    },
+    {
+      "chinese": "尔所言不虚(爾所言不虛)。",
+      "pinyin": "Ěr suǒ yán bù xū.",
+      "english": "What you say is not false."
+    },
+    {
+      "chinese": "尔步入学堂(爾步入學堂)，倾听先生教诲(傾聽先生教誡)。",
+      "pinyin": "Ěr bù rù xuétáng, qīngtīng xiānshēng jiàohuì.",
+      "english": "You enter the school and listen to the teacher's instructions."
+    }
+  ]
+}

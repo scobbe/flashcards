@@ -1,0 +1,44 @@
+{
+  "simplified": "教育",
+  "traditional": "教育",
+  "pinyin": "jiàoyù",
+  "english": "education",
+  "etymology": {
+    "type": "compound word",
+    "description": "教(教) (jiào, \"teach\") refers to the act of teaching or instructing. 育(育) (yù, \"nurture\") means to nurture or cultivate. Combined, 教育(教育) (jiàoyù, \"education\") signifies the process of teaching and nurturing individuals for personal and intellectual development.",
+    "interpretation": "",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "教",
+      "trad": "教",
+      "pinyin": "jiào",
+      "english": "teach; instruct; educate; religion"
+    },
+    {
+      "char": "育",
+      "trad": "育",
+      "pinyin": "yù",
+      "english": "nurture; raise; educate; breed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "教育是改变人生的重要途径(教育是改變人生的重要途徑)。",
+      "pinyin": "Jiàoyù shì gǎibiàn rénshēng de zhòngyào tújìng.",
+      "english": "Education is an important way to change one's life."
+    },
+    {
+      "chinese": "家庭重视教育(家庭重視教育)，社会支持学校建设(社會支持學校建設)。",
+      "pinyin": "Jiātíng zhòngshì jiàoyù, shèhuì zhīchí xuéxiào jiànshè.",
+      "english": "The family values education, and society supports school construction."
+    },
+    {
+      "chinese": "古人认为教育培养人的品德(古人認為教育培養人的品德)。",
+      "pinyin": "Gǔrén rènwéi jiàoyù péiyǎng rén de pǐndé.",
+      "english": "Ancient people believed that education cultivates people's character."
+    }
+  ]
+}

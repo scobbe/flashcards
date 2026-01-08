@@ -2,12 +2,12 @@
   "simplified": "说",
   "traditional": "說",
   "pinyin": "shuō",
-  "english": "speak",
+  "english": "speak; say; explain; discuss",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 言(言) (yán, \"speech\") + phonetic 兌(兌) (duì, \"exchange\") = speech action -> speak",
-    "interpretation": "The character 說(說) combines 言(言) (yán, \"speech\") indicating a verbal action, with 兌(兌) (duì, \"exchange\"), suggesting the idea of exchanging words or speaking. This phono-semantic composition intuitively represents the act of speaking or communicating.",
-    "simplification": "Simplified to 说(說), where 訁(言) (yán, \"speech\") is replaced with 讠(讠) (yán, \"speech\"), a cursive shorthand form, to reduce the number of strokes."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 兌(兑) (duì, \"exchange\") = speak or explain through speech -> final meaning \"speak\"",
+    "interpretation": "The character 說(說) (shuō, \"speak\") combines the speech radical 言(言) (yán, \"speech\") with the phonetic component 兌(兑) (duì, \"exchange\"), emphasizing verbal communication or the exchange of spoken words.",
+    "simplification": "說(說) was simplified to 说(說) by replacing the full 言(言, \"speech\") component with its simplified form 讠(讠, \"speech\") to streamline writing while maintaining phonetic similarity."
   },
   "parts": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "char": "兌",
-      "trad": "兌",
+      "trad": "兑",
       "pinyin": "duì",
       "english": "exchange"
     }
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说中文(他說中文)。",
-      "pinyin": "Tā shuō Zhōngwén.",
-      "english": "He speaks Chinese."
+      "chinese": "他总是说诚实的话(他總是說誠實的話)。",
+      "pinyin": "Tā zǒngshì shuō chéngshí de huà.",
+      "english": "He always speaks honestly."
     },
     {
-      "chinese": "妈妈对我说(媽媽對我說)，要好好学习(要好好學習)。",
-      "pinyin": "Māmā duì wǒ shuō, yào hǎohǎo xuéxí.",
-      "english": "Mom told me to study hard."
+      "chinese": "妈妈说(媽媽說)，请你安静(請你安靜)。",
+      "pinyin": "Māma shuō, qǐng nǐ ānjìng.",
+      "english": "Mom said, please be quiet."
+    },
+    {
+      "chinese": "朋友说(朋友說)，我们该努力工作(我們該努力工作)。",
+      "pinyin": "Péngyǒu shuō, wǒmen gāi nǔlì gōngzuò.",
+      "english": "A friend said, we should work hard."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "simplified": "弗",
+  "traditional": "弗",
+  "pinyin": "fú",
+  "english": "phonetic",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a rope wrapped around two pieces of wood -> later used phonetically for 'no'",
+    "interpretation": "The original pictographic representation of tied wood reflects its ancient usage. Over time, the symbol was repurposed for its phonetic value to mean 'no'.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代文献中常用‘弗’表示否定(古代文獻中常用‘弗’表示否定)。",
+      "pinyin": "Gǔdài wénxiàn zhōng cháng yòng 'Fú' biǎoshì fǒudìng.",
+      "english": "In ancient texts, '弗' is commonly used to indicate negation."
+    },
+    {
+      "chinese": "在《史记》中(在《史記》中)，司马迁巧妙运用‘弗’来突显人物性格(司馬遷巧妙運用‘弗’來突顯人物性格)。",
+      "pinyin": "Zài 'Shǐjì' zhōng, Sīmǎqiān qiǎomiào yùnyòng 'Fú' lái tūxiǎn rénwù xìnggé.",
+      "english": "In 'Records of the Grand Historian', Sima Qian skillfully uses '弗' to highlight a character's personality."
+    }
+  ]
+}

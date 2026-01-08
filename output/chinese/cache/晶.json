@@ -1,0 +1,38 @@
+{
+  "simplified": "晶",
+  "traditional": "晶",
+  "pinyin": "jīng",
+  "english": "sparkle; sparkle; crystal; bright",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") tripled to depict multiple suns or sparkles -> brightness or sparkle",
+    "interpretation": "The character 晶(jīng) represents brightness by repeating the character 日(日) (rì, \"sun\") three times, symbolizing multiple sources of light or sparkles. This construction effectively conveys the sense of brilliance or clarity associated with crystals and sparkling objects.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "透明的水晶(透明的水晶)，闪耀着迷人的光芒(閃耀著迷人的光芒)。",
+      "pinyin": "Tòumíng de shuǐjīng, shǎnyào zhe mírén de guāngmáng.",
+      "english": "The transparent crystal sparkles with enchanting light."
+    },
+    {
+      "chinese": "湖面上映出倒影(湖面上映出倒影)，散发着晶的光彩(散發著晶的光彩)。",
+      "pinyin": "Húmiàn shàng yìngchū dàoyǐng, sànfā zhe jīng de guāngcǎi.",
+      "english": "Reflections appear on the lake surface, emitting a sparkling brilliance."
+    },
+    {
+      "chinese": "洁白的玉石中隐含着晶的韵味(潔白的玉石中隱含著晶的韻味)。",
+      "pinyin": "Jiébái de yùshí zhōng yǐnhán zhe jīng de yùnwèi.",
+      "english": "The pure jade subtly reveals a sparkling charm."
+    }
+  ]
+}

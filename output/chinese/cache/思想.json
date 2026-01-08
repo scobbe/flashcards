@@ -1,0 +1,39 @@
+{
+  "simplified": "思想",
+  "traditional": "思想",
+  "pinyin": "sīxiǎng",
+  "english": "thought; thinking",
+  "etymology": {
+    "type": "compound word",
+    "description": "思(思) (sī, \"to think\") + 想(想) (xiǎng, \"to ponder\") combine to convey the concept of thought or thinking.",
+    "interpretation": "The combination of 思(思) (sī, \"to think\") and 想(想) (xiǎng, \"to ponder\") highlights the process of intellectual reflection and consideration, capturing the essence of both conscious and unconscious thoughts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "思",
+      "trad": "思",
+      "pinyin": "sī",
+      "english": "to think; consider; idea; thought"
+    },
+    {
+      "char": "想",
+      "trad": "想",
+      "pinyin": "xiǎng",
+      "english": "to consider; ponder; imagine; think"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的思想深邃(他的思想深邃)。",
+      "pinyin": "Tā de sīxiǎng shēnsuì.",
+      "english": "His thought is profound."
+    },
+    {
+      "chinese": "艺术启迪思想(藝術啟迪思想)，梦想照亮前行(夢想照亮前行)。",
+      "pinyin": "Yìshù qǐdí sīxiǎng, mèngxiǎng zhàoliàng qiánxíng.",
+      "english": "Art inspires thought, and dreams illuminate the way forward."
+    }
+  ]
+}

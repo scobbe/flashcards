@@ -1,0 +1,31 @@
+{
+  "simplified": "车",
+  "traditional": "車",
+  "pinyin": "chē",
+  "english": "vehicle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally a carriage seen from above with large wheels and a sun shade -> vertical strokes represent wheels and loading area -> depicts a vehicle",
+    "interpretation": "The character 車(車) (chē, \"vehicle\") visually represents a traditional carriage, with its design evolving into a more simplified vertical depiction over time.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是一辆电动的车(這是一輛電動的車)。",
+      "pinyin": "Zhè shì yī liàng diàndòng de chē.",
+      "english": "This is an electric vehicle."
+    },
+    {
+      "chinese": "我在车站等车(我在車站等車)，准备乘车(準備乘車)。",
+      "pinyin": "Wǒ zài chēzhàn děng chē, zhǔnbèi chéng chē.",
+      "english": "I wait at the station for the bus, and I am ready to board."
+    },
+    {
+      "chinese": "他开车回家(他開車回家)，沿途欣赏风景(沿途欣賞風景)。",
+      "pinyin": "Tā kāi chē huí jiā, yán tú xīnshǎng fēngjǐng.",
+      "english": "He drives home, enjoying the scenery along the way."
+    }
+  ]
+}

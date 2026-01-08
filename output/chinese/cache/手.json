@@ -1,0 +1,31 @@
+{
+  "simplified": "手",
+  "traditional": "手",
+  "pinyin": "shǒu",
+  "english": "hand",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers",
+    "interpretation": "The character 手(手) (shǒu, \"hand\") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用手写字(他用手寫字)。",
+      "pinyin": "Tā yòng shǒu xiě zì.",
+      "english": "He writes with his hand."
+    },
+    {
+      "chinese": "妈妈牵着我的手走路(媽媽牽著我的手走路)。",
+      "pinyin": "Māmā qiān zhe wǒ de shǒu zǒu lù.",
+      "english": "Mom holds my hand while walking."
+    },
+    {
+      "chinese": "他的手很温暖(他的手很溫暖)，带给我力量(帶給我力量)。",
+      "pinyin": "Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.",
+      "english": "His hand is very warm, giving me strength."
+    }
+  ]
+}

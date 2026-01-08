@@ -1,0 +1,39 @@
+{
+  "simplified": "可",
+  "traditional": "可",
+  "pinyin": "kě",
+  "english": "can, may",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口(口) (kǒu, \"mouth\") + phonetic: 丂(丂) (kǎo) = reference to exhaled air \"to sing\" -> capability to perform actions",
+    "interpretation": "This character combines the semantic element 口(口) (kǒu, \"mouth\") with the phonetic 丂(丂) (kǎo), referencing exhaling or vocal actions like singing, which suggests expressing capability or permission.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "exhaled air"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你可尝试一下新方法(你可嘗試一下新方法)。",
+      "pinyin": "Nǐ kě chángshì yīxià xīn fāngfǎ.",
+      "english": "You may try a new method."
+    },
+    {
+      "chinese": "此事虽难(此事雖難)，你可坚持到底(你可堅持到底)。",
+      "pinyin": "Cǐ shì suī nán, nǐ kě jiānchí dàodǐ.",
+      "english": "Although this matter is difficult, you may persist to the end."
+    }
+  ]
+}

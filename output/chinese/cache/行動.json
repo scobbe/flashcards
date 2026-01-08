@@ -1,0 +1,44 @@
+{
+  "simplified": "行動",
+  "traditional": "行動",
+  "pinyin": "xíngdòng",
+  "english": "action; movement",
+  "etymology": {
+    "type": "compound word",
+    "description": "行(行) (xíng, \"to go; to walk\") refers to the act of moving or proceeding. 動(動) (dòng, \"move; act\") refers to motion or action. Together, 行動(行動) (xíngdòng, \"action; movement\") describes the process of taking action or engaging in movement.",
+    "interpretation": "The combination of 行(行) (xíng, \"to go; to walk\") and 動(動) (dòng, \"move; act\") underscores the dynamic nature of engaging in purposeful action or movement. This reflects a proactive and intentional behavior.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "to go; to walk"
+    },
+    {
+      "char": "動",
+      "trad": "動",
+      "pinyin": "dòng",
+      "english": "move; act"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "为了成功(為了成功)，他们展开行動(他們展開行動)。",
+      "pinyin": "Wèi le chénggōng, tāmen zhǎnkāi xíngdòng.",
+      "english": "They took action to achieve success."
+    },
+    {
+      "chinese": "改革需要行動(改革需要行動)。",
+      "pinyin": "Gǎigé xūyào xíngdòng.",
+      "english": "Reform requires action."
+    },
+    {
+      "chinese": "当局决定採取行動(當局決定採取行動)，以确保安全(以確保安全)。",
+      "pinyin": "Dāngjú juédìng cǎiqǔ xíngdòng, yǐ quèbǎo ānquán.",
+      "english": "The authorities decided to take action to ensure security."
+    }
+  ]
+}

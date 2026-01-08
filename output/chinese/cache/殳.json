@@ -1,0 +1,31 @@
+{
+  "simplified": "殳",
+  "traditional": "殳",
+  "pinyin": "shū",
+  "english": "hand holding a hammer or a mallet",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand holding a tool (hammer/mallet)",
+    "interpretation": "The character 殳 represents a hand gripping a mallet or hammer, illustrating the form and function of the object.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古代战士握紧殳(殳)，冲向敌阵(衝向敵陣)。",
+      "pinyin": "Gǔdài zhànshì wò jǐn shū, chōng xiàng dí zhèn.",
+      "english": "Ancient warriors gripped their mallets, charging toward the enemy formation."
+    },
+    {
+      "chinese": "工匠拿着殳(殳)，敲打铁砧(鐵砧)。",
+      "pinyin": "Gōngjiàng ná zhe shū, qiāo dǎ tiě zhēn.",
+      "english": "The artisan held the mallet, striking the iron anvil."
+    },
+    {
+      "chinese": "修理工举起殳(殳)，敲打破损钟表(敲打破損鐘錶)。",
+      "pinyin": "Xiūlǐgōng jǔ qǐ shū, qiāo dǎ pò sǔn zhōngbiǎo.",
+      "english": "The repairman raised the mallet, tapping the broken clock."
+    }
+  ]
+}

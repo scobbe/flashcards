@@ -1,0 +1,44 @@
+{
+  "simplified": "美术",
+  "traditional": "美術",
+  "pinyin": "měishù",
+  "english": "art",
+  "etymology": {
+    "type": "compound word",
+    "description": "美(美) (měi, \"beautiful\") + 术(術) (shù, \"skill\") = the skill of creating beautiful things -> art",
+    "interpretation": "美(美) (měi, \"beautiful\") signifies the aesthetic aspect, while 术(術) (shù, \"skill\") indicates the technical proficiency involved in creating artworks. Together, they reflect the idea of art as both a skill and an expression of beauty.",
+    "simplification": "美術"
+  },
+  "parts": [
+    {
+      "char": "美",
+      "trad": "美",
+      "pinyin": "měi",
+      "english": "beautiful"
+    },
+    {
+      "char": "术",
+      "trad": "術",
+      "pinyin": "shù",
+      "english": "skill; technique; method; art"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢美术(我喜歡美術)。",
+      "pinyin": "Wǒ xǐhuān měishù.",
+      "english": "I like art."
+    },
+    {
+      "chinese": "学校开设美术课程(學校開設美術課程)，培养学生创造力(培養學生創造力)。",
+      "pinyin": "Xuéxiào kāishè měishù kèchéng, péiyǎng xuéshēng chuàngzàolì.",
+      "english": "The school offers art courses, cultivating students' creativity."
+    },
+    {
+      "chinese": "美术启迪心灵(美術啟迪心靈)，让世界更绚丽(讓世界更絢麗)。",
+      "pinyin": "Měishù qǐdí xīnlíng, ràng shìjiè gèng xuànlì.",
+      "english": "Art enlightens the mind, making the world more brilliant."
+    }
+  ]
+}

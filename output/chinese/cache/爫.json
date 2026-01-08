@@ -1,0 +1,33 @@
+{
+  "simplified": "爫",
+  "traditional": "爫",
+  "pinyin": "zhǎo",
+  "english": "hand, claw",
+  "etymology": {
+    "type": "component form",
+    "description": "Variant representation of 爪(爪) (zhǎo, \"hand, claw\") -> depicts a hand grasping -> simplified for component use",
+    "interpretation": "爫(爫) (zhǎo, \"hand, claw\") is a variant form of 爪(爪) (zhǎo, \"hand, claw\"), simplified for usage in compound characters to represent hands or claws in various compositions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "hand, claw"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "猫的爫非常敏捷(貓的爫非常敏捷)。",
+      "pinyin": "Māo de zhǎo fēicháng mǐnjié.",
+      "english": "The cat's claw is very agile."
+    },
+    {
+      "chinese": "老虎的爫划破夜空(老虎的爫劃破夜空)，展现力量(展現力量)。",
+      "pinyin": "Lǎohǔ de zhǎo huá pò yèkōng, zhǎnxiàn lìliàng.",
+      "english": "The tiger's claw tore through the dark sky, showcasing its power."
+    }
+  ]
+}

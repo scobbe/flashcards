@@ -1,0 +1,39 @@
+{
+  "simplified": "蚝油",
+  "traditional": "蠔油",
+  "pinyin": "háoyóu",
+  "english": "oyster sauce",
+  "etymology": {
+    "type": "compound word",
+    "description": "蚝(蠔) (háo, \"oyster\"), 油(油) (yóu, \"oil; sauce\") combine to form the term for 'oyster sauce'.",
+    "interpretation": "蚝油(蠔油) (háoyóu, \"oyster sauce\") refers to a sauce made from oysters and usually used in Chinese cuisine. The term directly translates to 'oyster sauce', describing its key ingredient and texture.",
+    "simplification": "蠔 simplified to 蚝"
+  },
+  "parts": [
+    {
+      "char": "蚝",
+      "trad": "蠔",
+      "pinyin": "háo",
+      "english": "oyster"
+    },
+    {
+      "char": "油",
+      "trad": "油",
+      "pinyin": "yóu",
+      "english": "oil; sauce"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢蚝油(我喜歡蠔油)。",
+      "pinyin": "Wǒ xǐhuān háoyóu.",
+      "english": "I like oyster sauce."
+    },
+    {
+      "chinese": "炒菜的时候加点蚝油(炒菜的時候加點蠔油)，菜的味道更鲜美(菜的味道更鮮美)。",
+      "pinyin": "Chǎocài de shíhòu jiā diǎn háoyóu, cài de wèidào gèng xiānměi.",
+      "english": "Adding a bit of oyster sauce when stir-frying makes the dish taste even better."
+    }
+  ]
+}

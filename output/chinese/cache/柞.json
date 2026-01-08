@@ -1,0 +1,39 @@
+{
+  "simplified": "柞",
+  "traditional": "柞",
+  "pinyin": "zhà",
+  "english": "oak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree\") + 乍(乍) (zhà, \"sudden\") = tree with phonetic 乍 representing sound -> oak",
+    "interpretation": "The character combines 木(木) (mù, \"tree\"), indicating it represents a type of tree, with 乍(乍) (zhà, \"sudden\") for its phonetic component, suggesting the pronunciation. Together, they refer to the oak tree.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "sudden"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "森林中散布着茂密的柞树(森林中散佈著茂密的柞樹)。",
+      "pinyin": "Sēnlín zhōng sànbù zhe màomì de zhà shù。",
+      "english": "Dense oak trees are scattered throughout the forest."
+    },
+    {
+      "chinese": "他用柞木制作家具(他用柞木製作傢俱)，彰显自然的魅力(彰顯自然的魅力)。",
+      "pinyin": "Tā yòng zhà mù zhìzuò jiājù, zhāngxiǎn zìrán de mèilì。",
+      "english": "He makes furniture from oak wood, showcasing nature's charm."
+    }
+  ]
+}

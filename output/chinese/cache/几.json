@@ -1,0 +1,31 @@
+{
+  "simplified": "几",
+  "traditional": "幾",
+  "pinyin": "jī",
+  "english": "small table",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a small table or stand",
+    "interpretation": "The character 几(幾) (jī, \"small table\") is a pictogram that visually represents a small table or a similar piece of furniture. Its form suggests the minimalist shape of such an object, emphasizing its practicality and simplicity.",
+    "simplification": "The simplified 几(幾) retains the basic pictorial representation while eliminating extra strokes found in the traditional form."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把书放在几上(請把書放在几上)。",
+      "pinyin": "Qǐng bǎ shū fàng zài jī shàng.",
+      "english": "Please put the book on the small table."
+    },
+    {
+      "chinese": "那张几很漂亮(那張几很漂亮)，吸引了许多目光(吸引了許多目光)。",
+      "pinyin": "Nà zhāng jī hěn piàoliang, xīyǐnle xǔduō mùguāng.",
+      "english": "That small table is very beautiful, attracting many gazes."
+    },
+    {
+      "chinese": "客厅里的几透露出古典韵味(客廳裡的几透露出古典韻味)，让人感觉舒适(讓人感覺舒適)。",
+      "pinyin": "Kètīng lǐ de jī tòulù chū gǔdiǎn yùnwèi, ràng rén gǎnjué shūshì.",
+      "english": "The small table in the living room exudes a classical charm, making people feel comfortable."
+    }
+  ]
+}

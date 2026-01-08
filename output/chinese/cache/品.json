@@ -5,23 +5,11 @@
   "english": "many people",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "口(口) (kǒu, \"mouth\") tripled = represents various objects -> 品(品) (pǐn, \"many people\")",
-    "interpretation": "The character 品(品) (pǐn, \"many people\") consists of three 口(口) (kǒu, \"mouth\"), symbolizing groupings or collections. By tripling 口(口) (kǒu, \"mouth\"), it conveys a meaning related to gathering, collectively representing multiple items or individuals.",
+    "description": "Three 口(口) (kǒu, 'mouth') arranged together = multiple mouths speaking or consuming -> representing many or various items",
+    "interpretation": "The use of three mouths suggests plurality or variety. It's similar in structure to 晶(晶) (jīng, 'sparkle'), which uses three 日(日) (rì, 'sun') to suggest brightness or vibrancy with multiple light sources.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
     {
       "char": "口",
       "trad": "口",
@@ -32,14 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "市井之品聚集街头(市井之品聚集街頭)。",
-      "pinyin": "Shì jǐng zhī pǐn jùjí jiētóu.",
-      "english": "The common people gathered on the streets."
+      "chinese": "比赛吸引了数以千计的品(比賽吸引了數以千計的品)，个个英姿飒爽(個個英姿颯爽)。",
+      "pinyin": "Bǐsài xīyǐnle shù yǐ qiān jì de pǐn, gège yīngzī sàshuǎng.",
+      "english": "The competition attracted thousands of people, and everyone looked heroic."
     },
     {
-      "chinese": "音乐会开场时(音樂會開場時)，成百上千品入场(成百上千品入場)。",
-      "pinyin": "Yīn yuè huì kāichǎng shí, chéng bǎi shàng qiān pǐn rùchǎng.",
-      "english": "At the start of the concert, hundreds and thousands of people entered."
+      "chinese": "节日庆典上品众多(節日慶典上品眾多)，场面热烈非凡(場面熱烈非凡)。",
+      "pinyin": "Jiérì qìngdiǎn shàng pǐn zhòngduō, chǎngmiàn rèliè fēifán.",
+      "english": "The festive celebration saw a large crowd, and the scene was extraordinarily lively."
+    },
+    {
+      "chinese": "广场上聚集了众多品(廣場上聚集了眾多品)，大家热情互动(大家熱情互動)。",
+      "pinyin": "Guǎngchǎng shàng jùjíle zhòngduō pǐn, dàjiā rèqíng hùdòng.",
+      "english": "The square gathered a multitude of people, and everyone interacted enthusiastically."
     }
   ]
 }

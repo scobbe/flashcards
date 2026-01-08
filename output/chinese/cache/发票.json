@@ -1,0 +1,44 @@
+{
+  "simplified": "发票",
+  "traditional": "發票",
+  "pinyin": "fāpiào",
+  "english": "invoice",
+  "etymology": {
+    "type": "compound word",
+    "description": "發(發) (fā, \"issue; emit\") and 票(票) (piào, \"ticket; note\") combine to form 發票(發票), referring to an \"invoice\".",
+    "interpretation": "The word 發票(發票) (fāpiào, \"invoice\") makes sense as it combines 發(發) (fā, \"issue\") with 票(票) (piào, \"ticket\") to signify a document that records and issues the details of a transaction, much like a ticket or note.",
+    "simplification": "发票"
+  },
+  "parts": [
+    {
+      "char": "发",
+      "trad": "發",
+      "pinyin": "fā",
+      "english": "issue; emit"
+    },
+    {
+      "char": "票",
+      "trad": "票",
+      "pinyin": "piào",
+      "english": "ticket; note"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请给我开一张发票(請給我開一張發票)。",
+      "pinyin": "Qǐng gěi wǒ kāi yī zhāng fāpiào.",
+      "english": "Please issue me an invoice."
+    },
+    {
+      "chinese": "商店给我提供发票(商店給我提供發票)，以便报销(以便報銷)。",
+      "pinyin": "Shāngdiàn gěi wǒ tígōng fāpiào, yǐbiàn bàoxiāo.",
+      "english": "The store provided me with an invoice for reimbursement."
+    },
+    {
+      "chinese": "他认真保存发票(他認真保存發票)，以备日后核对(以備日後核對)。",
+      "pinyin": "Tā rènzhēn bǎocún fāpiào, yǐbèi rìhòu héduì.",
+      "english": "He kept the invoice carefully for future verification."
+    }
+  ]
+}

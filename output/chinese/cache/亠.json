@@ -1,0 +1,31 @@
+{
+  "simplified": "亠",
+  "traditional": "亠",
+  "pinyin": "tóu",
+  "english": "top mark",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the top of a head",
+    "interpretation": "The character 亠(tóu, 'top mark') is a pictograph representing the top or crown of the head. Its simple line and dot visually convey this concept.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个字以亠为顶(這個字以亠為頂)。",
+      "pinyin": "Zhè ge zì yǐ tóu wéi dǐng.",
+      "english": "This character uses 亠 as its top."
+    },
+    {
+      "chinese": "书法中讲究笔画(書法中講究筆畫)，亠常被用作装饰(亠常被用作裝飾)。",
+      "pinyin": "Shūfǎ zhōng jiǎngjiù bǐhuà, tóu cháng bèi yòng zuò zhuāngshì.",
+      "english": "Calligraphy emphasizes brushstrokes, and 亠 is often used as decoration."
+    },
+    {
+      "chinese": "古文中出现亠(古文中出現亠)，寓意崇高(寓意崇高)。",
+      "pinyin": "Gǔwén zhōng chūxiàn tóu, yùyì chónggāo.",
+      "english": "In classical texts, 亠 appears, symbolizing loftiness."
+    }
+  ]
+}

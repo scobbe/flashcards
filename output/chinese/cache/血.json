@@ -1,0 +1,31 @@
+{
+  "simplified": "血",
+  "traditional": "血",
+  "pinyin": "xuè",
+  "english": "blood; bloodline; lineage",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the container for sacrificial blood -> 'blood'",
+    "interpretation": "The character 血(xuè, \"blood\") originally depicted a container with blood dripping from it. This imagery effectively conveys the concept of blood, crucial both biologically and culturally.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "英雄誓言以血为盟(英雄誓言以血為盟)。",
+      "pinyin": "Yīngxióng shìyán yǐ xuè wéi méng.",
+      "english": "The hero swore an oath sealed with blood."
+    },
+    {
+      "chinese": "家族的血脉永远相连(家族的血脈永遠相連)，传承着荣耀(傳承著榮耀)。",
+      "pinyin": "Jiāzú de xuèmài yǒngyuǎn xiānglián, chuánchéng zhe róngyào.",
+      "english": "The family's bloodline is forever connected, inheriting glory."
+    },
+    {
+      "chinese": "流淌的鲜血见证了牺牲(流淌的鮮血見證了犧牲)。",
+      "pinyin": "Liútǎng de xuèxiě jiànzhèng le xīshēng.",
+      "english": "The flowing blood testified to the sacrifice."
+    }
+  ]
+}

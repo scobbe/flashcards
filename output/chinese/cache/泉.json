@@ -1,0 +1,39 @@
+{
+  "simplified": "泉",
+  "traditional": "泉",
+  "pinyin": "quán",
+  "english": "spring",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "白(白) (bái, \"spring mouth\") + 水(水) (shuǐ, \"water\") = water flowing from the source of a spring -> spring",
+    "interpretation": "The character 泉(泉) (quán, \"spring\") combines 白(白) (bái, \"spring mouth\") and 水(水) (shuǐ, \"water\") to represent water emerging from a spring's source, intuitively depicting the concept of a natural water spring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "spring mouth"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古泉涓涓而流(古泉涓涓而流)。",
+      "pinyin": "gǔ quán juānjuān ér liú。",
+      "english": "The ancient spring flows gently."
+    },
+    {
+      "chinese": "山谷中藏着泉水(山谷中藏著泉水)，滋润了大地(滋潤了大地)。",
+      "pinyin": "shāngǔ zhōng cángzhe quánshuǐ，zīrùn le dàdì。",
+      "english": "A spring is hidden in the valley, nurturing the earth."
+    }
+  ]
+}

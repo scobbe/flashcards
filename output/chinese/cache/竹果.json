@@ -1,0 +1,38 @@
+{
+  "simplified": "竹果",
+  "traditional": "竹果",
+  "pinyin": "zhú guǒ",
+  "english": "jinzhu fruit",
+  "etymology": {
+    "type": "compound word",
+    "description": "竹果(竹果) (zhú guǒ, \"jinzhu fruit\") combines 竹(竹) (zhú, \"bamboo\") and 果(果) (guǒ, \"fruit\"). This naming suggests a type of fruit related to or resembling bamboo.",
+    "interpretation": "The term 竹果(竹果) (zhú guǒ) likely refers to a fruit that is associated with bamboo in some way, perhaps resembling it in texture or shape. Since bamboo is a prominent plant in Chinese culture, the combination evokes something uniquely tied to this plant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹果",
+      "trad": "竹果",
+      "pinyin": "zhú guǒ",
+      "english": "jinzhu fruit"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我很喜欢竹果(我很喜歡竹果)。",
+      "pinyin": "Wǒ hěn xǐhuān zhú guǒ.",
+      "english": "I really like the jinzhu fruit."
+    },
+    {
+      "chinese": "春日暖阳中见到竹果(春日暖陽中見到竹果)，犹如自然的恩赐(猶如自然的恩賜)。",
+      "pinyin": "Chūnrì nuǎnyáng zhōng jiàn dào zhú guǒ, yóurú zìrán de ēncì.",
+      "english": "Seeing the jinzhu fruit under the warm spring sun is like a gift from nature."
+    },
+    {
+      "chinese": "市场上新鲜上市竹果(市場上新鮮上市竹果)，吸引众多食客(吸引眾多食客)。",
+      "pinyin": "Shìchǎng shàng xīnxiān shàngshì zhú guǒ, xīyǐn zhòngduō shíkè.",
+      "english": "The jinzhu fruit has hit the market, attracting many food enthusiasts."
+    }
+  ]
+}

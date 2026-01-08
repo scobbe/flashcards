@@ -1,0 +1,50 @@
+{
+  "simplified": "𠧪",
+  "traditional": "𠧪",
+  "pinyin": "None",
+  "english": "None",
+  "etymology": {
+    "type": "variant form",
+    "description": "𠧪 is a variant form of 卣(卣) (yǒu, \"a kind of wine vessel\") -> pictogram with 土(earth) in bronze inscriptions, later changed to 仌 in seal script -> unrelated to 鹵(鹵) (lǔ, \"bag of salt\")",
+    "interpretation": "𠧪 is an ancient variant of 卣(卣), which depicts a type of vessel for holding wine. This character evolved over time, with the enclosed component changing from 土 to 仌 in different script styles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卣",
+      "trad": "卣",
+      "pinyin": "yǒu",
+      "english": "a kind of wine vessel"
+    },
+    {
+      "char": "仌",
+      "trad": "仌",
+      "pinyin": "bīng",
+      "english": "original script component"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他姓𠧪(他姓𠧪)。",
+      "pinyin": "Tā xìng yín.",
+      "english": "His surname is Yin."
+    },
+    {
+      "chinese": "这篇文章中提到了𠧪(這篇文章中提到了𠧪)，引发了学者讨论(引發了學者討論)。",
+      "pinyin": "Zhè piān wénzhāng zhōng tí dào le yín, yǐn fā le xuézhě tǎolùn.",
+      "english": "The article mentioned Yin, sparking a discussion among scholars."
+    },
+    {
+      "chinese": "博物馆展出罕见的𠧪文物(博物館展出罕見的𠧪文物)。",
+      "pinyin": "Bówùguǎn zhǎnchū hǎnjiàn de yín wénwù.",
+      "english": "The museum exhibited the rare Yin artifact."
+    }
+  ]
+}

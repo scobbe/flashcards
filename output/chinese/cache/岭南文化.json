@@ -1,0 +1,39 @@
+{
+  "simplified": "岭南文化",
+  "traditional": "嶺南文化",
+  "pinyin": "Lǐngnán wénhuà",
+  "english": "Lingnan culture",
+  "etymology": {
+    "type": "compound word",
+    "description": "岭(嶺) (lǐng, \"mountain range\") refers to the geographical region south of the Five Ridges. 南(南) (nán, \"south\") specifies the direction this refers to. 文化(文化) (wénhuà, \"culture\") signifies the customs, art, social institutions, and achievements of the people in the Lingnan region. The Lingnan area, primarily covering parts of Guangdong and Guangxi, is historically known for its rich diversity influenced by both central Chinese and indigenous cultures.",
+    "interpretation": "Lingnan culture is the unique set of cultural characteristics that developed in the region south of the Five Ridges, heavily influenced by both Han Chinese culture and local ethnolinguistic groups. This cultural identity is distinct due to its history of geographic isolation and interaction with foreign influences through trade.",
+    "simplification": "岭南文化"
+  },
+  "parts": [
+    {
+      "char": "岭南",
+      "trad": "嶺南",
+      "pinyin": "lǐngnán",
+      "english": "south of the mountains"
+    },
+    {
+      "char": "文化",
+      "trad": "文化",
+      "pinyin": "wénhuà",
+      "english": "culture"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "岭南文化源远流长(嶺南文化源遠流長)。",
+      "pinyin": "Lǐngnán wénhuà yuányuǎn liúcháng.",
+      "english": "Lingnan culture has a long and deep history."
+    },
+    {
+      "chinese": "岭南文化博大精深(嶺南文化博大精深)，吸引着众多学者(吸引著眾多學者)。",
+      "pinyin": "Lǐngnán wénhuà bó dà jīng shēn, xīyǐn zhe zhòngduō xuézhě.",
+      "english": "Lingnan culture is profound and intricate, attracting many scholars."
+    }
+  ]
+}

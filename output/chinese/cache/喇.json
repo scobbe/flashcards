@@ -1,0 +1,44 @@
+{
+  "simplified": "喇",
+  "traditional": "喇",
+  "pinyin": "lǎ",
+  "english": "horn; sound of a trumpet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 辣(辣) (là, \"spicy\") as phonetic = sound association with mouth -> trumpet sound",
+    "interpretation": "The character 喇(lǎ, \"horn\") combines the mouth radical 口(口) (kǒu, \"mouth\") with a phonetic component 辣(辣) (là), indicating sound production related to wind instruments like trumpets.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "辣",
+      "trad": "辣",
+      "pinyin": "là",
+      "english": "spicy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "号角发出清脆的喇响(號角發出清脆的喇響)。",
+      "pinyin": "Hàojiǎo fāchū qīngcuì de lǎ xiǎng.",
+      "english": "The trumpet produced a clear, ringing sound."
+    },
+    {
+      "chinese": "战鼓隆隆作响时(戰鼓隆隆作響時)，喇声随风传来(喇聲隨風傳來)。",
+      "pinyin": "Zhàngǔ lónglóng zuòxiǎng shí, lǎ shēng suí fēng chuán lái.",
+      "english": "When the battle drums roared, the sound of the horn spread with the wind."
+    },
+    {
+      "chinese": "古代仪式上(古代儀式上)，喇声悠扬回荡(喇聲悠揚迴蕩)。",
+      "pinyin": "Gǔdài yíshì shàng, lǎ shēng yōuyáng huídàng.",
+      "english": "During ancient ceremonies, the sound of the horn resonated gracefully."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "肏",
+  "traditional": "肏",
+  "pinyin": "cào",
+  "english": "fuck (vulgar)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 入(入) (rù, 'enter') + Phonetic: 肉(肉) (ròu, 'meat') = to penetrate flesh -> vulgar for 'fuck'",
+    "interpretation": "The character combines 入(入) (rù, 'enter') symbolizing insertion, and 肉(肉) (ròu, 'meat') referring to the physical body, effectively conveying the explicit concept in a straightforward manner.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "enter"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跟人吵架时(他跟人吵架時)，用了‘肏’这个词(用了‘肏’這個詞)。",
+      "pinyin": "Tā gēn rén chǎojià shí, yòngle ‘cào’ zhège cí.",
+      "english": "He used the word 'cào' when he quarreled with someone."
+    },
+    {
+      "chinese": "别跟他开玩笑了(別跟他開玩笑了)，他总喜欢肏别人(他總喜歡肏別人)。",
+      "pinyin": "Bié gēn tā kāi wánxiào le, tā zǒng xǐhuān cào biérén.",
+      "english": "Don't joke with him; he always likes to 'cào' others."
+    },
+    {
+      "chinese": "听说他在夜店肏了很多人(聽說他在夜店肏了很多人)！",
+      "pinyin": "Tīngshuō tā zài yèdiàn cào le hěn duō rén!",
+      "english": "It is said that he 'cào'd many people at the nightclub!"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "京",
+  "traditional": "京",
+  "pinyin": "jīng",
+  "english": "tower",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tall structure resembling a tower",
+    "interpretation": "The character 京(jīng, \"tower\") visually captures the essence of a tall, tower-like building. It is a straightforward representation using a simple, vertical form to suggest height.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山顶上矗立着京(山頂上矗立著京)，诉说着古老传说(訴說著古老傳說)。",
+      "pinyin": "Shāndǐng shàng chùlì zhe jīng, sùshuō zhe gǔlǎo chuánshuō.",
+      "english": "The tower stands on the mountaintop, telling ancient legends."
+    },
+    {
+      "chinese": "夜幕降临时京闪烁着光芒(夜幕降臨時京閃爍著光芒)。",
+      "pinyin": "Yèmù jiànglín shí jīng shǎnshuò zhe guāngmáng.",
+      "english": "At nightfall, the tower flickers with light."
+    }
+  ]
+}

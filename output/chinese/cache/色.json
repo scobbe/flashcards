@@ -1,0 +1,44 @@
+{
+  "simplified": "色",
+  "traditional": "色",
+  "pinyin": "sè",
+  "english": "color; sex",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "爪(爪) (zhǎo, \"claw; hand\") + 卩(卩) (jié, \"kneeling person\") = appearance or complexion -> color, by extension sex",
+    "interpretation": "The components depict a 'hand' and a 'kneeling person,' which traditionally came together in the character 色(色) (sè, \"color\") to convey the concept of complexion or facial appearance. This, through a symbolic extension, also referred to hues and later sexual attraction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爪",
+      "trad": "爪",
+      "pinyin": "zhǎo",
+      "english": "claw; hand"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "蓝天上闪烁着柔和的色调(藍天上閃爍著柔和的色調)，大地呈现出斑斕的色彩(大地呈現出斑斕的色彩)。",
+      "pinyin": "lán tiān shàng shǎn shuò zhe róu hé de sè diào，dà dì chéng xiàn chū bān lán de sè cǎi。",
+      "english": "Under the blue sky, gentle hues shimmer, and the earth displays a variegated palette of colors."
+    },
+    {
+      "chinese": "这幅画传达出丰富的色感(這幅畫傳達出豐富的色感)。",
+      "pinyin": "zhè fú huà chuán dá chū fēng fù de sè gǎn。",
+      "english": "This painting conveys a rich sense of color."
+    },
+    {
+      "chinese": "他的一举一动都流露着浓厚的色欲(他的一舉一動都流露著濃厚的色慾)。",
+      "pinyin": "tā de yì jǔ yì dòng dōu liú lòu zhe nóng hòu de sè yù。",
+      "english": "Every action he takes reveals his strong sexual desire."
+    }
+  ]
+}

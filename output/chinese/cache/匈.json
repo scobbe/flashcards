@@ -1,0 +1,44 @@
+{
+  "simplified": "匈",
+  "traditional": "匈",
+  "pinyin": "xiōng",
+  "english": "chest",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 勹(勹) (bāo, \"wrap\") + Phonetic: 凶(凶) (xiōng, \"fierce\") = chest as an enclosed space",
+    "interpretation": "匈(xiōng) initially depicted the idea of an enclosed or wrapped area, with the phonetic 凶(xiōng) indicating the sound. The character later evolved into 胸(xiōng, \"chest\") by adding 肉(ròu, \"meat\") to emphasize its anatomical meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "勹",
+      "trad": "勹",
+      "pinyin": "bāo",
+      "english": "wrap"
+    },
+    {
+      "char": "凶",
+      "trad": "凶",
+      "pinyin": "xiōng",
+      "english": "fierce"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他挺起匈(他挺起匈)，准备迎接挑战(準備迎接挑戰)。",
+      "pinyin": "Tā tǐng qǐ xiōng, zhǔnbèi yíng jiē tiǎozhàn.",
+      "english": "He puffed out his chest, ready to face the challenge."
+    },
+    {
+      "chinese": "保护好匈(保護好匈)，有助于健康(有助於健康)。",
+      "pinyin": "Bǎohù hǎo xiōng, yǒu zhù yú jiànkāng.",
+      "english": "Protecting your chest helps maintain health."
+    },
+    {
+      "chinese": "深呼吸能使匈放松(深呼吸能使匈放鬆)。",
+      "pinyin": "Shēn hūxī néng shǐ xiōng fàngsōng.",
+      "english": "Deep breathing can relax the chest."
+    }
+  ]
+}

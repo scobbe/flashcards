@@ -1,0 +1,50 @@
+{
+  "simplified": "劉",
+  "traditional": "劉",
+  "pinyin": "liú",
+  "english": "to kill",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 卯(卯) (mǎo, \"fourth earthly branch\") + semantic 金(金) (jīn, \"metal\") + semantic 刂(刀) (dāo, \"knife\") = cutting metal -> to kill",
+    "interpretation": "The character 劉(劉) (liú, \"to kill\") combines the notion of cutting or slicing, represented by the knife and metal components, with the phonetic element 卯(卯) (mǎo). This suggests a historical context where metal and knives were associated with killing or cutting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卯",
+      "trad": "卯",
+      "pinyin": "mǎo",
+      "english": "fourth earthly branch"
+    },
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他劉了叛徒(他劉了叛徒)。",
+      "pinyin": "Tā liú le pàn tú.",
+      "english": "He killed the traitor."
+    },
+    {
+      "chinese": "将军劉敌于阵前(將軍劉敵於陣前)，士兵肃然起敬(士兵肅然起敬)。",
+      "pinyin": "Jiāngjūn liú dí yú zhèn qián, shìbīng sùrán qǐ jìng.",
+      "english": "The general killed the enemy before the battle, and the soldiers were filled with awe."
+    },
+    {
+      "chinese": "武将劉叛贼于营中(武將劉叛賊於營中)，国家恢复太平(國家恢復太平)。",
+      "pinyin": "Wǔjiàng liú pàn zéi yú yíng zhōng, guójiā huīfù tàipíng.",
+      "english": "The general killed the traitors in the camp, and the nation regained peace."
+    }
+  ]
+}

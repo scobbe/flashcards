@@ -1,0 +1,44 @@
+{
+  "simplified": "捏",
+  "traditional": "捏",
+  "pinyin": "niē",
+  "english": "pinch",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(手) (shǒu, \"hand\") + 涅(涅) (niè, \"mud\") = hand action related to mud -> pinch",
+    "interpretation": "The character 捏(捏) (niē, \"pinch\") combines 扌(手) (shǒu, \"hand\") to suggest a manual action, with 涅(涅) (niè, \"mud\") to indicate the sound component. Together, they imply the action of using one's hand to pinch or mold something, similar to handling mud.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "涅",
+      "trad": "涅",
+      "pinyin": "niè",
+      "english": "mud"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用手捏了一下火锅里的肉(他用手捏了一下火鍋裡的肉)。",
+      "pinyin": "Tā yòng shǒu niē le yīxià huǒguō lǐ de ròu.",
+      "english": "He pinched a piece of meat in the hot pot."
+    },
+    {
+      "chinese": "孩子用小手捏气球(孩子用小手捏氣球)，气球瞬间破裂(氣球瞬間破裂)。",
+      "pinyin": "Háizi yòng xiǎoshǒu niē qìqiú, qìqiú shùnjiān pòliè.",
+      "english": "The child pinched the balloon with his little hand, and the balloon burst instantly."
+    },
+    {
+      "chinese": "艺术家熟练地捏黏土(藝術家熟練地捏黏土)，雕刻出一尊精美的雕像(雕刻出一尊精美的雕像)。",
+      "pinyin": "Yìshùjiā shúliàn de niē niántǔ, diāokè chū yī zūn jīngměi de diāoxiàng.",
+      "english": "The artist skillfully pinched the clay, carving an exquisite statue."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "官",
+  "traditional": "官",
+  "pinyin": "guān",
+  "english": "official",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a building used as an official's residence or office -> official",
+    "interpretation": "The character 官(官) (guān, \"official\") originally depicted the concept of an official by representing a building associated with government officials. This pictogram conveyed the idea of someone holding an official position within such a building.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他勤奋学习(他勤奮學習)，成功走上官途(成功走上官途)。",
+      "pinyin": "Tā qínfèn xuéxí, chénggōng zǒu shàng guān tú.",
+      "english": "He studied diligently and eventually embarked on an official career."
+    },
+    {
+      "chinese": "朝廷任命新官(朝廷任命新官)，治理国家(治理國家)。",
+      "pinyin": "Cháotíng rènmìng xīn guān, zhìlǐ guójiā.",
+      "english": "The imperial court appointed a new official to govern the nation."
+    }
+  ]
+}

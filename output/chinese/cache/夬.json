@@ -1,0 +1,26 @@
+{
+  "simplified": "夬",
+  "traditional": "夬",
+  "pinyin": "guài",
+  "english": "tent",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand wearing an archer's thumb ring",
+    "interpretation": "The character 夬(夬) (guài, \"tent\") visually represents a hand adorned with an archer's thumb ring, suggesting a sense of tension or readiness associated with archery. Over time, this visual representation has been used to suggest other concepts such as \"decide\" in derivatives like 決(決) (jué, \"decide\") and its simplified form 决(決) (jué, \"decide\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "探险者在旷野搭起夬(探險者在曠野搭起夬)，用以遮风避雨(用以遮風避雨)。",
+      "pinyin": "Tànxiǎn zhě zài kuàngyě dā qǐ guài, yòng yǐ zhē fēng bì yǔ.",
+      "english": "The explorer set up a tent in the wilderness to shield from wind and rain."
+    },
+    {
+      "chinese": "边境商人在寒冷夜晚搭起夬(邊境商人在寒冷夜晚搭起夬)，供旅人休憩(供旅人休憩)。",
+      "pinyin": "Biānjìng shāngrén zài hánlěng yèwǎn dā qǐ guài, gòng lǚrén xiūqì.",
+      "english": "The frontier merchant pitched a tent on a cold night to offer resting space for travelers."
+    }
+  ]
+}

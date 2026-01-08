@@ -1,0 +1,31 @@
+{
+  "simplified": "毛",
+  "traditional": "毛",
+  "pinyin": "máo",
+  "english": "hair",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a feather or a strand of hair",
+    "interpretation": "The character 毛(máo, 'hair') visually represents a feather or hair, conveying the concept of something that is thin and soft.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "猫的毛很柔软(貓的毛很柔軟)。",
+      "pinyin": "Māo de máo hěn róuruǎn.",
+      "english": "The cat's hair is very soft."
+    },
+    {
+      "chinese": "他早上醒来时(他早上醒來時)，发现额前飘落一缕毛(發現額前飄落一縷毛)。",
+      "pinyin": "Tā zǎoshang xǐng lái shí, fāxiàn é qián piāoluò yī lǚ máo.",
+      "english": "When he woke up in the morning, he found a strand of hair floating on his forehead."
+    },
+    {
+      "chinese": "他家小狗的毛非常蓬松(他家小狗的毛非常蓬鬆)。",
+      "pinyin": "Tā jiā xiǎogǒu de máo fēicháng péngsōng.",
+      "english": "His puppy's hair is very fluffy."
+    }
+  ]
+}

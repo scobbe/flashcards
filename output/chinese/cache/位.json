@@ -1,0 +1,44 @@
+{
+  "simplified": "位",
+  "traditional": "位",
+  "pinyin": "wèi",
+  "english": "seat; position; rank",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 人(人) (rén, \"person\") + phonetic: 立(立) (lì, \"stand\") = person standing -> position, rank",
+    "interpretation": "The character 位(位) (wèi, \"position\") combines 人(人) (rén, \"person\") to signify a person and 立(立) (lì, \"stand\") to indicate the act of standing or taking a position. This reflects the idea of assuming a role or status.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他坐在第一位(他坐在第一位)。",
+      "pinyin": "Tā zuò zài dì yī wèi.",
+      "english": "He sits in the first position."
+    },
+    {
+      "chinese": "老师点名时(老師點名時)，这位学生总是表现出色(這位學生總是表現出色)。",
+      "pinyin": "Lǎoshī diǎnmíng shí, zhè wèi xuéshēng zǒng shì biǎoxiàn chūsè.",
+      "english": "When the teacher calls roll, this student always performs outstandingly."
+    },
+    {
+      "chinese": "在会议上(在會議上)，他占据了重要的一位(他佔據了重要的一位)。",
+      "pinyin": "Zài huìyì shàng, tā zhànjù le zhòngyào de yī wèi.",
+      "english": "During the meeting, he occupied an important position."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "拑",
+  "traditional": "拑",
+  "pinyin": "qián",
+  "english": "to pinch",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 扌(手) (shǒu, \"hand\") + phonetic: 佥(僉) (qiān)",
+    "interpretation": "The character 拑 combines the semantic component 扌(手) (shǒu, \"hand\"), indicating an action done by hand, with the phonetic component 佥(僉) (qiān), suggesting a similar pronunciation. This depicts the action of pinching or clamping something with hands.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "佥",
+      "trad": "僉",
+      "pinyin": "qiān",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他拑了我的手(他拑了我的手)，让我感到意外(讓我感到意外)。",
+      "pinyin": "Tā qián le wǒ de shǒu, ràng wǒ gǎndào yìwài.",
+      "english": "He pinched my hand, which surprised me."
+    },
+    {
+      "chinese": "小朋友拑了拑自己的鼻子(小朋友拑了拑自己的鼻子)。",
+      "pinyin": "Xiǎopéngyǒu qián le qián zìjǐ de bízi.",
+      "english": "The child pinched his own nose."
+    }
+  ]
+}

@@ -5,10 +5,5 @@ Two separate characters with this form exist:
 Shuowen considered it to represent a position on the forearm where the pulse can be palpated by compressing the radial artery . It is called 寸口 in modern Chinese, and the meaning of a unit of measurement is derived from the distance between the wrist and this position.
 Compare 又 , 手 , 九 , 爪 .
 
-[手]
-Pictogram ( 象形 ) – hand and fingers. The top stroke is the bent over middle finger, while the horizontal strokes are each two fingers. Compare 爪 , 寸 , 九 , 又 , and 彐 as a stylized hand. Compare 丑 as an animal claw. See also the bottom part of 举 and 奉 .
-Note that unlike the other hand/claw characters, 手 has consistently had five fingers: a mammalian/human hand, as opposed to the three digits often found in the others.
-Compare also 止 (“foot”), derived from a footprint pointing upward, originally composed of 3 toes and a sole.
-
-[爪]
-Pictogram ( 象形 ) – a hand grabbing from above (in earlier forms from side); compare 手 , 寸 , 九 . Even if it can indicate a claw, actually the pictogram depicts a human hand.
+[忖]
+Phono-semantic compound ( 形聲 / 形声 , OC *sʰuːnʔ ): semantic 忄 + phonetic 寸 ( OC *sʰuːns ) .

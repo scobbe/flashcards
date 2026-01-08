@@ -1,0 +1,44 @@
+{
+  "simplified": "板",
+  "traditional": "板",
+  "pinyin": "bǎn",
+  "english": "board; plank; model",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 反(反) (fǎn) = related to wood + sound element -> board, plank",
+    "interpretation": "The character 板(bǎn) combines the semantic 木(木) (mù, \"tree\") indicating that the character's meaning relates to wood or wooden objects, with the phonetic 反(反) (fǎn) providing the pronunciation. This phono-semantic compound effectively captures the concept of a 'board' or 'plank,' as these are typically wooden items.",
+    "simplification": "板(bǎn) directly adopted as the simplified form of the traditional character 闆(bǎn) in 1956 due to its existing use and fewer strokes, providing a more streamlined representation of the same meaning."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "反",
+      "trad": "反",
+      "pinyin": "fǎn",
+      "english": "to oppose"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用木板(他用木板)，做了一个小桌子(做了一個小桌子)。",
+      "pinyin": "Tā yòng mù bǎn, zuòle yīgè xiǎo zhuōzi.",
+      "english": "He used a wooden board to make a small table."
+    },
+    {
+      "chinese": "老师在黑板上写字(老師在黑板上寫字)。",
+      "pinyin": "Lǎoshī zài hēibǎn shàng xiězì.",
+      "english": "The teacher writes on the blackboard."
+    },
+    {
+      "chinese": "他敲击那块板(他敲擊那塊板)，发出悦耳的节奏(發出悅耳的節奏)。",
+      "pinyin": "Tā qiāojī nà kuài bǎn, fāchū yuè'ěr de jiézòu.",
+      "english": "He struck that board, producing a pleasing rhythm."
+    }
+  ]
+}

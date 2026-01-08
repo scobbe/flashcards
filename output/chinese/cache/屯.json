@@ -1,0 +1,26 @@
+{
+  "simplified": "屯",
+  "traditional": "屯",
+  "pinyin": "zhūn",
+  "english": "sprout",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a seedling pushing up from the ground",
+    "interpretation": "The character 屯(屯) (zhūn, \"sprout\") visually represents a sprout or seedling emerging from the earth. The top part resembles a plant breaking through the soil, which is a common interpretation for the concept of sprouting.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "种子遇春风激发能量(種子遇春風激發能量)，开始屯发新绿(開始屯發新綠)。",
+      "pinyin": "zhǒngzǐ yù chūnfēng jīfā néngliàng, kāishǐ zhūn fā xīn lǜ.",
+      "english": "The seeds, energized by the spring breeze, begin to sprout fresh green."
+    },
+    {
+      "chinese": "小苗吸收雨露后(小苗吸收雨露後)，纷纷屯出嫩绿叶子(紛紛屯出嫩綠葉子)。",
+      "pinyin": "xiǎo miáo xīshōu yǔlù hòu, fēnfēn zhūn chū nèn lǜ yèzi.",
+      "english": "After absorbing the rain and dew, the young sprouts begin to bud tender green leaves."
+    }
+  ]
+}

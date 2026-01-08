@@ -1,0 +1,45 @@
+{
+  "simplified": "星",
+  "traditional": "星",
+  "pinyin": "xīng",
+  "english": "star",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 晶(晶) (jīng, \"twinkling stars\") + Phonetic: 生(生) (shēng, \"grow\") -> 晶(晶) later simplified to 日(日) (rì, \"sun\") -> 星(星, \"star\")",
+    "interpretation": "The character 星(星) (xīng, \"star\") combines the idea of twinkling from 晶(晶) (jīng, \"twinkling stars\") with the concept of growth or life from 生(生) (shēng, \"grow\"). This combination effectively captures the shimmer and presence of stars in the night sky, aided by the later simplification of 晶 into the 日(日) (rì, \"sun\") component, maintaining a celestial association.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "twinkling stars"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "grow"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那颗星在黑夜中熠熠生辉(那顆星在黑夜中熠熠生輝)。",
+      "pinyin": "Nà kē xīng zài hēiyè zhōng yìyì shēnghuī.",
+      "english": "That star shines brilliantly in the dark night."
+    },
+    {
+      "chinese": "天空布满星光(天空佈滿星光)，夜色显得格外神秘(夜色顯得格外神秘)。",
+      "pinyin": "Tiānkōng bù mǎn xīnguāng, yèsè xiǎnde géwài shénmì.",
+      "english": "The sky is filled with starlight, and the night appears especially mysterious."
+    }
+  ]
+}

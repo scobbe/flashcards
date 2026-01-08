@@ -1,0 +1,39 @@
+{
+  "simplified": "咏",
+  "traditional": "詠",
+  "pinyin": "yǒng",
+  "english": "chant; eulogize",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"speech\") + 永(永) (yǒng, \"long\") = using words for a long duration -> chant; eulogize",
+    "interpretation": "The combination of 言(言) (yán, \"speech\") and 永(永) (yǒng, \"long\") suggests the idea of speaking or singing at length, reflecting the meaning of chanting or eulogizing.",
+    "simplification": "詠(詠) was simplified to 咏(詠) by replacing 言(言) (yán, \"speech\") with 口(口) (kǒu, \"mouth\") to maintain the semantic focus on utterance while reducing the stroke count."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "永",
+      "trad": "永",
+      "pinyin": "yǒng",
+      "english": "long"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "王羲之咏书法(王羲之詠書法)，表达情怀(表達情懷)。",
+      "pinyin": "Wáng Xīzhī yǒng shūfǎ, biǎodá qínghuái.",
+      "english": "Wang Xizhi chants about calligraphy, expressing his deep sentiments."
+    },
+    {
+      "chinese": "人们在纪念日咏颂英雄(人們在紀念日詠頌英雄)。",
+      "pinyin": "Rénmen zài jìniànrì yǒngsòng yīngxióng.",
+      "english": "On memorial days, people eulogize heroes."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "过",
+  "traditional": "過",
+  "pinyin": "guò",
+  "english": "exceed; pass through",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 辵(辶) (chuò, \"walk\") + phonetic 咼(咼) (guō) = walking/passing -> exceed/pass through",
+    "interpretation": "過(過) (guò, \"exceed; pass through\") combines the walking radical 辵(辶) (chuò, \"walk\") with the phonetic 咼(咼) (guō), suggesting the concept of moving past or over something. This aligns with the meanings of exceeding limits or passing through a place.",
+    "simplification": "The character 过 was simplified by removing the top part of 辵(辶) (chuò, \"walk\"), reducing the character to three strokes in 过."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "咼",
+      "trad": "咼",
+      "pinyin": "guō",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他过马路时(他過馬路時)，一直保持警觉(一直保持警覺)。",
+      "pinyin": "Tā guò mǎlù shí, yīzhí bǎochí jǐngjué.",
+      "english": "When he crosses the street, he always stays alert."
+    },
+    {
+      "chinese": "这个数字过了标准(這個數字過了標準)。",
+      "pinyin": "Zhège shùzì guòle biāozhǔn.",
+      "english": "This number has exceeded the standard."
+    }
+  ]
+}

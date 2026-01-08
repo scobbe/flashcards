@@ -1,0 +1,56 @@
+{
+  "simplified": "号",
+  "traditional": "號",
+  "pinyin": "hào",
+  "english": "mark; sign; symbol; number",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "虎(虎) (hǔ, \"tiger\") + phonetic 号(號) -> 虎(虎) representing the roar -> 口(口) (kǒu, \"mouth\") or 言(言) (yán, \"speech\") added to signify crying or calling -> 号(號) represents marks or signs",
+    "interpretation": "The character originally depicted a tiger's roar, with 虎(虎) as the key component. The addition of 口(口) or 言(言) emphasized sound, later leading to meanings related to communication, such as an exhaled sound or a sign.",
+    "simplification": "号(號) simplified the original 虎(虎) and 口(口) elements by keeping the phonetic 号(號) with the line 丂(丂)."
+  },
+  "parts": [
+    {
+      "char": "虎",
+      "trad": "虎",
+      "pinyin": "hǔ",
+      "english": "tiger"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "line representing roar or exhaled air"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请写下你的学号(請寫下你的學號)。",
+      "pinyin": "qǐng xiě xià nǐ de xué hào.",
+      "english": "Please write down your student number."
+    },
+    {
+      "chinese": "门牌号代表住址(門牌號代表住址)，彰显家的温暖(彰顯家的溫暖)。",
+      "pinyin": "mén pái hào dài biǎo zhù zhǐ, zhāng xiǎn jiā de wēn nuǎn.",
+      "english": "The house number represents the address, reflecting the warmth of home."
+    },
+    {
+      "chinese": "他在包裹上写了货物的编号(他在包裹上寫了貨物的編號)。",
+      "pinyin": "tā zài bāo guǒ shàng xiě le huò wù de biān hào.",
+      "english": "He wrote the product's serial number on the package."
+    }
+  ]
+}

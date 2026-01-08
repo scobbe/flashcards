@@ -1,0 +1,44 @@
+{
+  "simplified": "成",
+  "traditional": "成",
+  "pinyin": "chéng",
+  "english": "complete",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 戊(戊) (wù, \"weapon\") + phonetic 丁(丁) (dīng, \"nail\") = city walls -> complete",
+    "interpretation": "成(成) (chéng) originally referred to city walls, symbolizing something complete or finished, protected by the weapon element, emphasizing security and completion. Despite folk etymologies, its components are indeed 戊(戊) and 丁(丁), not 囗(囗) (wéi, \"enclosure\") or 口(口) (kǒu, \"mouth\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戊",
+      "trad": "戊",
+      "pinyin": "wù",
+      "english": "weapon"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "梦想成真(夢想成真)。",
+      "pinyin": "Mèngxiǎng chéng zhēn.",
+      "english": "Dreams come true."
+    },
+    {
+      "chinese": "经过长时间的准备(經過長時間的準備)，比赛成圆满(比賽成圓滿)。",
+      "pinyin": "Jīngguò cháng shíjiān de zhǔnbèi, bǐsài chéng yuánmǎn.",
+      "english": "After a long preparation, the competition was successfully completed."
+    },
+    {
+      "chinese": "一切都成现实(一切都成現實)。",
+      "pinyin": "Yīqiè dōu chéng xiànshí.",
+      "english": "Everything has become reality."
+    }
+  ]
+}

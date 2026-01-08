@@ -1,0 +1,50 @@
+{
+  "simplified": "通心菜",
+  "traditional": "通心菜",
+  "pinyin": "tōngxīncài",
+  "english": "water spinach",
+  "etymology": {
+    "type": "compound word",
+    "description": "通(通) (tōng, \"through\"), 心(心) (xīn, \"heart\"), 菜(菜) (cài, \"vegetable\"). The term 通心菜(通心菜) (tōngxīncài) refers to water spinach, a popular leafy vegetable in Asia characterized by its hollow stems. The name literally translates to 'through heart vegetable', highlighting the hollow stem that runs through the plant.",
+    "interpretation": "The name reflects water spinach's hollow stem, which allows water to flow through, much like the heart circulates blood. This characteristic is distinct and practical for its growth in water environments.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "通",
+      "trad": "通",
+      "pinyin": "tōng",
+      "english": "through; open; connect; communicate"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; center; core"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈做了通心菜炒蛋(媽媽做了通心菜炒蛋)。",
+      "pinyin": "Māmā zuò le tōngxīncài chǎo dàn.",
+      "english": "Mom made water spinach stir-fried with eggs."
+    },
+    {
+      "chinese": "超市有新鲜的通心菜(超市有新鮮的通心菜)，味道非常好(味道非常好)。",
+      "pinyin": "Chāoshì yǒu xīnxiān de tōngxīncài, wèidào fēicháng hǎo.",
+      "english": "The supermarket has fresh water spinach, and it tastes very good."
+    },
+    {
+      "chinese": "农夫种植通心菜(農夫種植通心菜)，收获时节到了(收穫時節到了)。",
+      "pinyin": "Nóngfū zhòngzhí tōngxīncài, shōuhuò shíjié dàole.",
+      "english": "The farmer cultivates water spinach, and the harvest season has arrived."
+    }
+  ]
+}

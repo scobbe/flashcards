@@ -1,0 +1,39 @@
+{
+  "simplified": "栅栏",
+  "traditional": "柵欄",
+  "pinyin": "shí làn",
+  "english": "fence; railing",
+  "etymology": {
+    "type": "compound word",
+    "description": "栅(柵) (zhà, \"fence; palisade\") and 栏(欄) (lán, \"railing; balustrade\") combine to convey the concept of a structure used to enclose or separate areas, typically made of rails or posts.",
+    "interpretation": "A 栅(柵) (zhà, \"fence\") is a basic structure for enclosure, while 栏(欄) (lán, \"railing\") refers to a protective barrier. Together as 栅栏(柵欄), they form a structure that can act as a protective or divisive barrier, often made of metal or wood.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "栅",
+      "trad": "柵",
+      "pinyin": "zhà",
+      "english": "fence; palisade"
+    },
+    {
+      "char": "栏",
+      "trad": "欄",
+      "pinyin": "lán",
+      "english": "railing; balustrade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工人正在修理栅栏(柵欄)。",
+      "pinyin": "Gōngrén zhèngzài xiūlǐ shí làn.",
+      "english": "The workers are repairing the fence."
+    },
+    {
+      "chinese": "小猫跳上栅栏(柵欄)，继续它的冒险(繼續它的冒險)。",
+      "pinyin": "Xiǎo māo tiào shàng shí làn, jìxù tā de màoxiǎn.",
+      "english": "The kitten jumped onto the fence and continued its adventure."
+    }
+  ]
+}

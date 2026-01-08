@@ -1,0 +1,38 @@
+{
+  "simplified": "膂",
+  "traditional": "膂",
+  "pinyin": "lǚ",
+  "english": "spine",
+  "etymology": {
+    "type": "variant form of 呂",
+    "description": "Originally 呂(呂) (lǚ, \"spine/music notes\") depicted two disconnected blocks of metal, interpreted as two vertebrae -> connected line added in seal script -> 呂(呂) later borrowed for phonetic use in 膂(膂) (lǚ, \"spine\")",
+    "interpretation": "The character 膂 is a variant of 呂, originally depicting two vertebrae or blocks of metal. Over time, it was borrowed phonetically to represent 'spine.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "spine/music notes"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他挺直膂背面对困难(他挺直膂背面對困難)。",
+      "pinyin": "Tā tǐngzhí lǚ bèi miànduì kùnnán.",
+      "english": "He straightens his spine to face difficulties."
+    },
+    {
+      "chinese": "经过锻炼(經過鍛鍊)，他的膂更加韧性十足(他的膂更加韌性十足)。",
+      "pinyin": "Jīngguò duànliàn, tā de lǚ gèngjiā rènxìng shízú.",
+      "english": "After training, his spine becomes remarkably resilient."
+    },
+    {
+      "chinese": "他虽受重伤(他雖受重傷)，却依靠坚韧的膂挺直身体(卻依靠堅韌的膂挺直身體)。",
+      "pinyin": "Tā suī shòu zhòngshāng, què yīkào jiān rèn de lǚ tǐngzhí shēntǐ.",
+      "english": "Despite his severe injuries, he relies on his resilient spine to keep his body upright."
+    }
+  ]
+}

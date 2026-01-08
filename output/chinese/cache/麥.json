@@ -1,0 +1,39 @@
+{
+  "simplified": "麥",
+  "traditional": "麥",
+  "pinyin": "mài",
+  "english": "wheat",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Phonetic: 來(來) (lái, \"come\") + Semantic: 夊(夊) (suī, \"footprint pointing down; to walk slowly\") -> original character for wheat; changed from original 來(來) \"wheat\" after 來(來) was phonetically borrowed to mean \"come\" -> 麥(麥) final form to specifically mean \"wheat\"",
+    "interpretation": "The character 麥(麥) evolved to distinguish itself from 來(來), which was phonetically borrowed to mean \"to come,\" and retained the original meaning of \"wheat.\" The semantic element 夊(夊) signifies the growth process of the wheat plant.",
+    "simplification": "The simplified form 麦(麥) resulted from a simplification process where 八(八) was corrupted into a single horizontal stroke to ease writing."
+  },
+  "parts": [
+    {
+      "char": "來",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "footprint pointing down; to walk slowly"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民在田里收割麦子(農民在田裡收割麥子)。",
+      "pinyin": "Nóngmín zài tián lǐ shōugē mài zi.",
+      "english": "The farmers harvest the wheat in the field."
+    },
+    {
+      "chinese": "夏日来临时(夏日來臨時)，麦穗低垂(麥穗低垂)。",
+      "pinyin": "Xiàrì láilín shí, mài suì dīchuí.",
+      "english": "When summer arrives, the wheat spikes droop."
+    }
+  ]
+}

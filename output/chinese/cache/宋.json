@@ -1,0 +1,39 @@
+{
+  "simplified": "宋",
+  "traditional": "宋",
+  "pinyin": "Sòng",
+  "english": "Song; surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"tree\") = phonetic element under a roof, originally related to stability and peace -> used as a surname and historical state name",
+    "interpretation": "The character 宋(Sòng) combines 宀(宀) (mián, \"roof\"), a symbol of protection and safety, with 木(木) (mù, \"tree\"), which acts as the phonetic component. This compound effectively conveys an idea of stability or shelter, which aligns with its use in ancient times as the name of the Song dynasty and as a common surname.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "宋朝艺术辉煌(宋朝藝術輝煌)。",
+      "pinyin": "Sòng cháo yìshù huīhuáng。",
+      "english": "The art of the Song dynasty was brilliant."
+    },
+    {
+      "chinese": "李先生姓宋(李先生姓宋)，他十分有礼(他十分有禮)。",
+      "pinyin": "Lǐ xiānshēng xìng Sòng, tā shífēn yǒulǐ。",
+      "english": "Mr. Li has the surname Song, and he is very polite."
+    }
+  ]
+}

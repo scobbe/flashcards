@@ -1,0 +1,39 @@
+{
+  "simplified": "沉",
+  "traditional": "沉",
+  "pinyin": "chén",
+  "english": "sink",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(氵) (shuǐ, \"water\") + phonetic: 冗(冗) (rǒng) = something sinking in water -> sink",
+    "interpretation": "The character uses 氵(氵) (shuǐ, \"water\") to indicate the context of water, implying the act of sinking, with 冗(冗) (rǒng) providing the phonetic component.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "冗",
+      "trad": "冗",
+      "pinyin": "rǒng",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小船在湖中沉(小船在湖中沈)。",
+      "pinyin": "Xiǎochuán zài húzhōng chén.",
+      "english": "The little boat sinks in the lake."
+    },
+    {
+      "chinese": "当铁块被水浇时(當鐵塊被水澆時)，它迅速沉入河底(它迅速沈入河底)。",
+      "pinyin": "Dāng tiěkuài bèi shuǐ jiāo shí, tā xùnsù chén rù hé dǐ.",
+      "english": "When the iron block is doused with water, it sinks rapidly to the riverbed."
+    }
+  ]
+}

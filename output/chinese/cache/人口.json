@@ -5,8 +5,8 @@
   "english": "population",
   "etymology": {
     "type": "compound word",
-    "description": "人(人) (rén, \"person\") + 口(口) (kǒu, \"mouth\") = population",
-    "interpretation": "The combination of 人(人) (rén, \"person\") and 口(口) (kǒu, \"mouth\") conveys the idea of counting people, as each person is considered a 'mouth' to feed or account for, thus representing the population.",
+    "description": "人(人) (rén, \"person\") refers to an individual human being; 口(口) (kǒu, \"mouth\") is often used as a measure word for people. The combination 人口(人口) (rénkǒu) refers to the collective number of persons, thus meaning \"population.\"",
+    "interpretation": "人口(人口) (rénkǒu) literally brings together the characters for \"person\" and \"mouth.\" Historically, 口(口) (kǒu) has been used as a measure word for people, reflecting counting or resources needed for each person. Thus, the term describes the population as the sum of individuals.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "人",
       "trad": "人",
       "pinyin": "rén",
-      "english": "person; people; human; individual"
+      "english": "person; people"
     },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
-      "english": "mouth; opening; entrance; measure word for people (in census)"
+      "english": "mouth; opening; measure word for people"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "中国人口很多(中國人口很多)。",
-      "pinyin": "Zhōngguó rénkǒu hěn duō.",
+      "pinyin": "Zhōngguó rénkǒu hěnduō.",
       "english": "China has a large population."
     },
     {
-      "chinese": "欧洲人口分布不均(歐洲人口分布不均)。",
-      "pinyin": "Ōuzhōu rénkǒu fēnbù bù jūn.",
-      "english": "The population in Europe is unevenly distributed."
+      "chinese": "城市人口增长快(城市人口增長快)，农村人口减少(農村人口減少)。",
+      "pinyin": "Chéngshì rénkǒu zēngzhǎng kuài, nóngcūn rénkǒu jiǎnshǎo.",
+      "english": "Urban population grows rapidly, while rural population declines."
     },
     {
-      "chinese": "未来人口增长可能会放缓(未來人口增長可能會放緩)。",
-      "pinyin": "Wèilái rénkǒu zēngzhǎng kěnéng huì fànghuǎn.",
-      "english": "Future population growth may slow down."
+      "chinese": "人口老龄化影响社会发展(人口老齡化影響社會發展)。",
+      "pinyin": "Rénkǒu lǎolínghuà yǐngxiǎng shèhuì fāzhǎn.",
+      "english": "Population aging affects social development."
     }
   ]
 }

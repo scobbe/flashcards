@@ -1,0 +1,50 @@
+{
+  "simplified": "詹",
+  "traditional": "詹",
+  "pinyin": "zhān",
+  "english": "prolong",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "言(言) (yán, \"words, to speak\") + 八(八) (bā, \"breath coming from the mouth; divide\") + 厃(厃) (wěi, \"danger\") -> speak too much",
+    "interpretation": "The character 詹(詹) (zhān, \"prolong\") is formed by combining elements related to speech and excessive verbal expression, signifying the act of prolonging speech to a potentially harmful extent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "words, to speak"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "breath coming from the mouth; divide"
+    },
+    {
+      "char": "厃",
+      "trad": "厃",
+      "pinyin": "wěi",
+      "english": "danger"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他詹了会议时间(他詹了會議時間)。",
+      "pinyin": "Tā zhān le huìyì shíjiān.",
+      "english": "He prolonged the meeting time."
+    },
+    {
+      "chinese": "她决定詹了故事的结尾(她決定詹了故事的結尾)，使情节更加曲折(使情節更加曲折)。",
+      "pinyin": "Tā juédìng zhān le gùshì de jiéwěi, shǐ qíngjié gèngjiā qūzhé.",
+      "english": "She decided to prolong the ending of the story to make the plot more twisty."
+    },
+    {
+      "chinese": "裁判决定詹比赛暂停时间(裁判決定詹比賽暫停時間)。",
+      "pinyin": "Cáipàn juédìng zhān bǐsài zhàntíng shíjiān.",
+      "english": "The referee decided to prolong the match's break time."
+    }
+  ]
+}

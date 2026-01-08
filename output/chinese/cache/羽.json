@@ -1,0 +1,26 @@
+{
+  "simplified": "羽",
+  "traditional": "羽",
+  "pinyin": "yǔ",
+  "english": "feather",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts wings or feathers, with strokes resembling an extended pair of wings",
+    "interpretation": "The character 羽(yǔ) vividly illustrates an actual feather or pair of wings with its strokes, making it easily recognizable as related to birds or flight.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古人常用羽扇纳凉(古人常用羽扇納涼)，品味闲情雅致(品味閒情雅致)。",
+      "pinyin": "Gǔrén cháng yòng yǔshàn nà liáng, pǐnwèi xiánqíng yǎzhì.",
+      "english": "The ancients used feather fans to cool off, savoring a refined leisure."
+    },
+    {
+      "chinese": "一根飘落的羽轻轻落在肩头(一根飄落的羽輕輕落在肩頭)。",
+      "pinyin": "Yī gēn piāo luò de yǔ qīngqīng luò zài jiāntóu.",
+      "english": "A falling feather gently landed on the shoulder."
+    }
+  ]
+}

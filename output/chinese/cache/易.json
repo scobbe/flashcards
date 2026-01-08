@@ -1,0 +1,33 @@
+{
+  "simplified": "易",
+  "traditional": "易",
+  "pinyin": "yì",
+  "english": "easy; exchange",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of filled container (original form of 賜(賜) (cì, \"bestow\")) -> borrowed phonetically for \"easy\"",
+    "interpretation": "The character 易(易) (yì, \"easy\") originally depicted a filled container, which is the form of 賜(賜) (cì, \"bestow\"). It was phonetically borrowed to express the concept of 'easy' due to its sound similarity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "賜",
+      "trad": "賜",
+      "pinyin": "cì",
+      "english": "bestow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他觉得这道题很易(他覺得這道題很易)。",
+      "pinyin": "Tā juéde zhè dào tí hěn yì.",
+      "english": "He thinks this problem is very easy."
+    },
+    {
+      "chinese": "他以旧易新(他以舊易新)。",
+      "pinyin": "Tā yǐ jiù yì xīn.",
+      "english": "He replaces the old with the new."
+    }
+  ]
+}

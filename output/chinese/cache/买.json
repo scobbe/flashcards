@@ -1,0 +1,45 @@
+{
+  "simplified": "买",
+  "traditional": "買",
+  "pinyin": "mǎi",
+  "english": "buy",
+  "etymology": {
+    "type": "simplified form of 買",
+    "description": "买 is the simplified form of 買 (mǎi, \"buy\"). 買 (mǎi, \"buy\") is an ideogrammic compound composed of 网 (wǎng, \"net\") + 貝 (bèi, \"money cowry\"). Another interpretation considers it a phono-semantic compound: phonetic abbreviation 羅 (luó, \"to net\") + semantic 貝 (bèi, \"money cowry\").",
+    "interpretation": "The character 買 (mǎi, \"buy\") originally combined elements of a net, indicating the act of acquiring, with cowry shells, which were used as currency to signify purchase. The simplified form 买 retains the basic structure but is streamlined for easier writing.",
+    "simplification": "买 is a simplified version where the complex 网 (wǎng, \"net\") component in 買 (mǎi, \"buy\") was removed, retaining the central 貝 (bèi, \"money cowry\") aspect to maintain its association with buying."
+  },
+  "parts": [
+    {
+      "char": "网",
+      "trad": "網",
+      "pinyin": "wǎng",
+      "english": "net"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "money cowry"
+    },
+    {
+      "char": "羅",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "to net"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算买苹果(我打算買蘋果)，因为它们很新鲜(因為它們很新鮮)。",
+      "pinyin": "Wǒ dǎsuàn mǎi píngguǒ, yīnwèi tāmen hěn xīnxiān.",
+      "english": "I plan to buy apples because they are very fresh."
+    },
+    {
+      "chinese": "他准备买一件新衣服(他準備買一件新衣服)。",
+      "pinyin": "Tā zhǔnbèi mǎi yī jiàn xīn yīfú.",
+      "english": "He is preparing to buy a new piece of clothing."
+    }
+  ]
+}

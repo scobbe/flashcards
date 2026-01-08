@@ -1,0 +1,44 @@
+{
+  "simplified": "断",
+  "traditional": "斷",
+  "pinyin": "duàn",
+  "english": "break; sever; decide",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𢇍 ('to cut') + 斤 (jīn, 'axe') = cutting with an axe -> break, sever, decide",
+    "interpretation": "The character 斷(斷) (duàn, 'break; sever; decide') combines the action of cutting with an axe, emphasizing the decisive and forceful separation or decision, which aligns well with the character's meaning of breaking or severing something.",
+    "simplification": "断(斷) was simplified by adopting an abbreviated form from less orthodox variants, streamlining the components."
+  },
+  "parts": [
+    {
+      "char": "𢇍",
+      "trad": "𢇍",
+      "pinyin": "",
+      "english": "to cut"
+    },
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她决心断绝旧情(她決心斷絕舊情)。",
+      "pinyin": "Tā juéxīn duànjué jiùqíng.",
+      "english": "She decided to sever her old attachments."
+    },
+    {
+      "chinese": "大雨使桥梁断裂(大雨使橋梁斷裂)，行人纷纷停下(行人紛紛停下)。",
+      "pinyin": "Dàyǔ shǐ qiáoliáng duànliè, xíngrén fēnfēn tíngxià.",
+      "english": "Heavy rain caused the bridge to break, and pedestrians started stopping."
+    },
+    {
+      "chinese": "医生断定他需要手术(醫生斷定他需要手術)。",
+      "pinyin": "Yīshēng duàndìng tā xūyào shǒushù.",
+      "english": "The doctor determined that he needed surgery."
+    }
+  ]
+}

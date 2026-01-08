@@ -1,0 +1,33 @@
+{
+  "simplified": "圭",
+  "traditional": "圭",
+  "pinyin": "guī",
+  "english": "jade tablet",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "土(土) (tǔ, \"earth\") + 土(土) (tǔ, \"earth\") = stylized piled earth -> representation of an ancient jade tablet used in rituals",
+    "interpretation": "圭(圭) (guī, \"jade tablet\") features two 土(土) (tǔ, \"earth\") stacked, signifying prestige and ritual significance, as jade tablets were made from earth-origin materials and held ceremonial importance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "博物馆中陈列着一块圭(博物館中陳列著一塊圭)。",
+      "pinyin": "Bówùguǎn zhōng chénliè zhe yī kuài guī.",
+      "english": "The museum displays a jade tablet."
+    },
+    {
+      "chinese": "考古学家在遗址中发现了圭(考古學家在遺址中發現了圭)，暗示着当时礼仪制度(暗示著當時禮儀制度)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn le guī, ànshì zhe dāngshí lǐyí zhìdù.",
+      "english": "The archaeologist discovered a jade tablet at the site, suggesting the ceremonial customs of that time."
+    }
+  ]
+}

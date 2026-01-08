@@ -1,0 +1,44 @@
+{
+  "simplified": "潮",
+  "traditional": "潮",
+  "pinyin": "cháo",
+  "english": "tide; wave; current; moist",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 朝(朝) (zhāo, \"morning\") = water movements -> tide",
+    "interpretation": "The character 潮 (cháo, \"tide\") combines the water radical 氵(氵) (shuǐ, \"water\") with the phonetic component 朝(朝) (zhāo, \"morning\"), indicating movements or changes associated with water, such as tides.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "朝",
+      "trad": "朝",
+      "pinyin": "zhāo",
+      "english": "morning"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海潮退去时(海潮退去時)，沙滩变得湿润(沙灘變得濕潤)。",
+      "pinyin": "Hǎi cháo tuìqù shí, shātān biàn dé shīrùn.",
+      "english": "When the tide recedes, the beach becomes moist."
+    },
+    {
+      "chinese": "他家衣服总是半潮半湿(他家衣服總是半潮半濕)。",
+      "pinyin": "Tā jiā yīfú zǒng shì bàn cháo bàn shī.",
+      "english": "The clothes at his home are always somewhat damp."
+    },
+    {
+      "chinese": "晚风吹来(晚風吹來)，海边的潮声渐起(海邊的潮聲漸起)。",
+      "pinyin": "Wǎn fēng chuī lái, hǎibiān de cháo shēng jiàn qǐ.",
+      "english": "The evening breeze blows, and the sound of the tide by the sea gradually rises."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "条",
+  "traditional": "條",
+  "pinyin": "tiáo",
+  "english": "strip; streak; item",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 攸(攸) (yōu, \"distant\") + Semantic: 木(木) (mù, \"wood\") = small branch reference -> strip or item",
+    "interpretation": "The character 條(條) (tiáo, \"strip; item\") combines the phonetic element 攸(攸) (yōu, \"distant\") with the semantic 木(木) (mù, \"wood\") to convey the idea of a wooden strip or item. This aligns with its meaning related to strips or items made of wood.",
+    "simplification": "条(條) uses a similar top component 攸(攸) from 條(條), with a simplified overall structure but retains phonetic and semantic references."
+  },
+  "parts": [
+    {
+      "char": "攸",
+      "trad": "攸",
+      "pinyin": "yōu",
+      "english": "distant"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一条裙子(我買了一條裙子)。",
+      "pinyin": "Wǒ mǎi le yī tiáo qúnzi.",
+      "english": "I bought a skirt."
+    },
+    {
+      "chinese": "他在公园看到一条蜥蜴(他在公園看到一條蜥蜴)，迅速跑开(迅速跑開)。",
+      "pinyin": "Tā zài gōngyuán kàn dào yī tiáo xīyì, xùnsù pǎokāi.",
+      "english": "He saw a lizard in the park and ran away quickly."
+    },
+    {
+      "chinese": "这本小说分为五条故事线(這本小說分為五條故事線)，各自精彩纷呈(各自精彩紛呈)。",
+      "pinyin": "Zhè běn xiǎoshuō fēnwéi wǔ tiáo gùshì xiàn, gèzì jīngcǎi fēnchéng.",
+      "english": "This novel is divided into five storylines, each wonderfully exciting."
+    }
+  ]
+}

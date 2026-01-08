@@ -1,0 +1,31 @@
+{
+  "simplified": "刀",
+  "traditional": "刀",
+  "pinyin": "dāo",
+  "english": "knife",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a knife",
+    "interpretation": "刀(刀) (dāo, \"knife\") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。",
+      "pinyin": "tā yòng fēnglì de dāo, qiē kāi shūcài.",
+      "english": "He uses a sharp knife to cut vegetables."
+    },
+    {
+      "chinese": "这把刀(這把刀)非常锋利(非常鋒利)。",
+      "pinyin": "zhè bǎ dāo fēicháng fēnglì.",
+      "english": "This knife is very sharp."
+    },
+    {
+      "chinese": "厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。",
+      "pinyin": "chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.",
+      "english": "The chef holds the knife carefully and slices meat for the guest."
+    }
+  ]
+}

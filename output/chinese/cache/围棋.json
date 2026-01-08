@@ -1,0 +1,44 @@
+{
+  "simplified": "围棋",
+  "traditional": "圍棋",
+  "pinyin": "wéiqí",
+  "english": "Go game",
+  "etymology": {
+    "type": "compound word",
+    "description": "围(圍) (wéi, \"surround\") + 棋(棋) (qí, \"board game\") refers to the board game Go, which involves strategic placement of pieces to surround more territory than the opponent.",
+    "interpretation": "围棋(圍棋) (wéiqí, \"Go game\") literally translates to a board game (棋) where players aim to surround (围) their opponent's pieces to capture territory. It is a traditional and highly strategic Chinese game, known for its rich history and deep complexity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "围",
+      "trad": "圍",
+      "pinyin": "wéi",
+      "english": "surround"
+    },
+    {
+      "char": "棋",
+      "trad": "棋",
+      "pinyin": "qí",
+      "english": "board game; chess"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢围棋(我喜歡圍棋)。",
+      "pinyin": "Wǒ xǐhuān wéiqí.",
+      "english": "I like to play Go."
+    },
+    {
+      "chinese": "昨天我和朋友下围棋(昨天我和朋友下圍棋)，双方激烈对抗(雙方激烈對抗)。",
+      "pinyin": "Zuótiān wǒ hé péngyǒu xià wéiqí, shuāngfāng jīliè duìkàng.",
+      "english": "Yesterday, my friend and I played Go, and both sides competed fiercely."
+    },
+    {
+      "chinese": "围棋不仅锻炼思维(圍棋不僅鍛鍊思維)，还培养耐心(還培養耐心)。",
+      "pinyin": "Wéiqí bùjǐn duànliàn sīwéi, hái péiyǎng nàixīn.",
+      "english": "Go not only sharpens the mind, but also develops patience."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "松茸",
+  "traditional": "松茸",
+  "pinyin": "sōng róng",
+  "english": "matsutake mushroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "松(松) (sōng, \"pine\") refers to the tree species and is often associated with natural or wild environments. 茸(茸) (róng, \"mushroom\") is used to denote soft, downy growths or fungi such as mushrooms.",
+    "interpretation": "松茸(松茸) (sōngróng, \"matsutake mushroom\") refers to a type of mushroom known for growing in pine forests. The name emphasizes the natural habitat of the matsutake, which is often found among pine trees.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "松",
+      "trad": "松",
+      "pinyin": "sōng",
+      "english": "pine"
+    },
+    {
+      "char": "茸",
+      "trad": "茸",
+      "pinyin": "róng",
+      "english": "mushroom; fungi; soft growth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "松茸是一种名贵的食用菌(松茸是一種名貴的食用菌)。",
+      "pinyin": "sōng róng shì yī zhǒng míng guì de shí yòng jūn.",
+      "english": "Matsutake mushroom is a prized edible fungus."
+    },
+    {
+      "chinese": "松茸在深山中生长(松茸在深山中生長)，被誉为珍稀食品(被譽為珍稀食品)。",
+      "pinyin": "sōng róng zài shēn shān zhōng shēng zhǎng, bèi yù wéi zhēn xī shí pǐn.",
+      "english": "Matsutake mushrooms grow in deep mountains and are revered as a rare delicacy."
+    }
+  ]
+}

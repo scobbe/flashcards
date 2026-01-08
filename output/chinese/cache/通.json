@@ -1,0 +1,44 @@
+{
+  "simplified": "通",
+  "traditional": "通",
+  "pinyin": "tōng",
+  "english": "through; open; connect; communicate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 辶(辶) (chuò, 'walk') + phonetic 甬(甬) (yǒng, 'wine cup') = movement with fluidity -> through; open; connect; communicate",
+    "interpretation": "The addition of 辶(辶) (chuò, 'walk') implies movement or progression, while 甬(甬) (yǒng, 'wine cup') serves as the phonetic element. The combination suggests moving through an area or connecting points, reinforcing the character's meanings related to passage and communication.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "甬",
+      "trad": "甬",
+      "pinyin": "yǒng",
+      "english": "wine cup"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条路通向山顶(這條路通向山頂)。",
+      "pinyin": "Zhè tiáo lù tōng xiàng shān dǐng.",
+      "english": "This road leads to the mountain top."
+    },
+    {
+      "chinese": "他希望能通邮件(他希望能通郵件)，与远方亲友保持联系(與遠方親友保持聯繫)。",
+      "pinyin": "Tā xīwàng néng tōng yóujiàn, yǔ yuǎnfāng qīnyǒu bǎochí liánxì.",
+      "english": "He hopes to communicate through email, maintaining contact with distant relatives and friends."
+    },
+    {
+      "chinese": "现代科技使世界相通(現代科技使世界相通)。",
+      "pinyin": "Xiàndài kējì shǐ shìjiè xiāng tōng.",
+      "english": "Modern technology connects the world."
+    }
+  ]
+}

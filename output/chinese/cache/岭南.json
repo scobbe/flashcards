@@ -1,0 +1,44 @@
+{
+  "simplified": "岭南",
+  "traditional": "嶺南",
+  "pinyin": "lǐngnán",
+  "english": "south of the mountains",
+  "etymology": {
+    "type": "compound word",
+    "description": "岭(嶺) (lǐng, \"ridge; mountain range\") + 南(南) (nán, \"south\") = region south of the mountain range",
+    "interpretation": "The term 岭南(嶺南) (lǐngnán, \"south of the mountains\") refers to the geographic region located south of the Nanling Mountain Range in China. This area plays a significant role in Chinese history and culture, being known for its unique climate and cultural influences, distinct from North China.",
+    "simplification": "岭(嶺)"
+  },
+  "parts": [
+    {
+      "char": "岭",
+      "trad": "嶺",
+      "pinyin": "lǐng",
+      "english": "ridge; mountain range"
+    },
+    {
+      "char": "南",
+      "trad": "南",
+      "pinyin": "nán",
+      "english": "south"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想去岭南(嶺南)。",
+      "pinyin": "Wǒ xiǎng qù lǐngnán.",
+      "english": "I want to travel to Lingnan."
+    },
+    {
+      "chinese": "岭南风光迷人(嶺南風光迷人)，吸引了众多摄影师(吸引了眾多攝影師)。",
+      "pinyin": "Lǐngnán fēngguāng mírén, xīyǐnle zhòngduō shèyǐngshī.",
+      "english": "The beautiful scenery of Lingnan attracts many photographers."
+    },
+    {
+      "chinese": "岭南料理独具风味(嶺南料理獨具風味)，让人流连忘返(讓人流連忘返)。",
+      "pinyin": "Lǐngnán liàolǐ dújù fēngwèi, ràng rén liúliánwàngfǎn.",
+      "english": "Lingnan cuisine has a unique taste that makes people reluctant to leave."
+    }
+  ]
+}

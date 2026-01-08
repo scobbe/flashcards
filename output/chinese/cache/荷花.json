@@ -1,0 +1,39 @@
+{
+  "simplified": "荷花",
+  "traditional": "荷花",
+  "pinyin": "héhuā",
+  "english": "lotus flower",
+  "etymology": {
+    "type": "compound word",
+    "description": "荷(荷) (hé, \"lotus\") + 花(花) (huā, \"flower\") creates the word 荷花(荷花) (héhuā, \"lotus flower\"). 荷(荷) (hé, \"lotus\") refers to the lotus plant, a significant symbol in various Asian cultures, often representing purity and spiritual awakening, while 花(花) (huā, \"flower\") denotes the flowering part of the plant. Together, they specify the blooming part of the lotus plant.",
+    "interpretation": "The combination of 荷(荷) (hé, \"lotus\") and 花(花) (huā, \"flower\") specifies the flower part of the lotus plant, highlighting its importance in many Eastern cultural, religious, and philosophical contexts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "荷",
+      "trad": "荷",
+      "pinyin": "hé",
+      "english": "lotus; burden"
+    },
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏日降临时(夏日降臨時)，荷花绽放光彩(荷花綻放光彩)。",
+      "pinyin": "xiàrì jiànglín shí, héhuā zhànfàng guāngcǎi.",
+      "english": "When summer arrives, the lotus flower blooms brilliantly."
+    },
+    {
+      "chinese": "池边有荷花(池邊有荷花)，迎风摇曳动人(迎風搖曳動人)。",
+      "pinyin": "chí biān yǒu héhuā, yíng fēng yáoyè dòngrén.",
+      "english": "By the pond, there are lotus flowers, swaying gracefully in the breeze."
+    }
+  ]
+}

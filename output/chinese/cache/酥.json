@@ -1,0 +1,44 @@
+{
+  "simplified": "酥",
+  "traditional": "酥",
+  "pinyin": "sū",
+  "english": "crisp; flaky",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 酉(酉) (yǒu, \"alcohol\") + Phonetic: 穌(穌) (sū, \"resuscitate\") = alcohol-related quality -> crisp, flaky",
+    "interpretation": "The character combines the alcohol radical with a phonetic element related to resuscitation, symbolizing a texture or quality often associated with alcohol or fermentation, like the crispness or flakiness in certain foods.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "alcohol"
+    },
+    {
+      "char": "穌",
+      "trad": "穌",
+      "pinyin": "sū",
+      "english": "resuscitate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这酥皮蛋糕香甜(這酥皮蛋糕香甜)，入口即化(入口即化)。",
+      "pinyin": "Zhè sū pí dàngāo xiāngtián, rùkǒu jíhuà.",
+      "english": "This flaky-layered cake is sweet and melts in your mouth."
+    },
+    {
+      "chinese": "饼干酥松(餅乾酥鬆)。",
+      "pinyin": "Bǐnggān sū sōng.",
+      "english": "The cookies are crisp and flaky."
+    },
+    {
+      "chinese": "她做的酥饼外皮酥脆(她做的酥餅外皮酥脆)，内馅香浓(內餡香濃)。",
+      "pinyin": "Tā zuò de sū bǐng wàipí sūcuì, nèixiàn xiāngnóng.",
+      "english": "The pastries she made have a crispy exterior and a richly flavored filling."
+    }
+  ]
+}

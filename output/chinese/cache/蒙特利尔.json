@@ -1,0 +1,51 @@
+{
+  "simplified": "蒙特利尔",
+  "traditional": "蒙特利爾",
+  "pinyin": "Méngtèlì'ěr",
+  "english": "Montreal",
+  "etymology": {
+    "type": "compound word",
+    "description": "蒙(蒙) (méng, \"Mongol; cover; ignorant\"), 特(特) (tè, \"special\"), 利(利) (lì, \"sharp; profit\"), 尔(爾) (ěr, \"you\")",
+    "interpretation": "This word is a phonetic approximation of the English name 'Montreal.' Each character is chosen primarily for its sound rather than its meaning, a common practice in transcribing foreign names into Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "蒙",
+      "trad": "蒙",
+      "pinyin": "méng",
+      "english": "Mongol; cover; ignorant"
+    },
+    {
+      "char": "特",
+      "trad": "特",
+      "pinyin": "tè",
+      "english": "special"
+    },
+    {
+      "char": "利",
+      "trad": "利",
+      "pinyin": "lì",
+      "english": "sharp; profit"
+    },
+    {
+      "char": "尔",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "you"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划今年夏天去蒙特利尔(蒙特利爾)。",
+      "pinyin": "Wǒ jìhuà jīnnián xiàtiān qù Méngtèlì'ěr.",
+      "english": "I plan to go to Montreal this summer."
+    },
+    {
+      "chinese": "我听说蒙特利尔有丰富的文化(我聽說蒙特利爾有豐富的文化)，风景也十分迷人(風景也十分迷人)。",
+      "pinyin": "Wǒ tīngshuō Méngtèlì'ěr yǒu fēngfù de wénhuà, fēngjǐng yě shífēn mírén.",
+      "english": "I heard that Montreal has a rich culture, and its scenery is very charming."
+    }
+  ]
+}

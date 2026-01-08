@@ -1,0 +1,44 @@
+{
+  "simplified": "彦",
+  "traditional": "彥",
+  "pinyin": "yàn",
+  "english": "elegant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 厂(厂) (hǎn, \"cliff\") + Semantic: 彣(彣) (wén, \"variegated; literary talent\") = elegant person -> elegant",
+    "interpretation": "The character combines a phonetic component, 厂(厂) (hǎn, \"cliff\"), with a semantic component, 彣(彣) (wén, \"variegated; literary talent\"), suggesting someone with refined or 'elegant' literary talent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "hǎn",
+      "english": "cliff"
+    },
+    {
+      "char": "彣",
+      "trad": "彣",
+      "pinyin": "wén",
+      "english": "variegated; literary talent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的举止彥雅(他的舉止彥雅)。",
+      "pinyin": "Tā de jǔzhǐ yàn yǎ.",
+      "english": "His demeanor is elegant."
+    },
+    {
+      "chinese": "他文章深沉(他文章深沉)，举止彥雅(舉止彥雅)。",
+      "pinyin": "Tā wénzhāng shēnchén, jǔzhǐ yàn yǎ.",
+      "english": "His writing is profound, and his behavior is elegant."
+    },
+    {
+      "chinese": "他总是言谈举止流露出彥风(他總是言談舉止流露出彥風)。",
+      "pinyin": "Tā zǒng shì yántán jǔzhǐ liúlù chū yàn fēng.",
+      "english": "He always reveals an elegant aura in his speech and manners."
+    }
+  ]
+}

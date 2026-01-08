@@ -1,0 +1,44 @@
+{
+  "simplified": "么",
+  "traditional": "麼",
+  "pinyin": "me",
+  "english": "marker for questions or emphasis",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, 'silk') as semantic indicating smallness + 幺(幺) (yāo, 'tiny') as phonetic -> diminutive or interrogative suffix",
+    "interpretation": "The character 么(麼) (me, 'marker for questions or emphasis') integrates the concept of smallness and emphasis through the silk radical and phonetically resembles something tiny or insignificant. In compound words or as a suffix, it often serves a grammatical or diminutive function.",
+    "simplification": "麼(麼)→么(麼): 幺(幺) (yāo, 'tiny') is simplified to retain the phonetic element and smallness concept, removing the additional complexity of the silk radical."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "tiny"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是什么(這是什麼)？",
+      "pinyin": "Zhè shì shénme?",
+      "english": "What is this?"
+    },
+    {
+      "chinese": "你要去么(你要去麼)？",
+      "pinyin": "Nǐ yào qù me?",
+      "english": "Are you going?"
+    },
+    {
+      "chinese": "你说得对么(你說得對麼)，我怎么知道(我怎麼知道)？",
+      "pinyin": "Nǐ shuō de duì me, wǒ zěnme zhīdào?",
+      "english": "If you say so, how would I know?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "黃",
+  "traditional": "黃",
+  "pinyin": "huáng",
+  "english": "yellow",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicted 口 (kǒu, 'mouth/face') as a stylized depiction of a person or jade ring -> borrowed for 'yellow' in oracle bone script",
+    "interpretation": "Originally a pictogram depicting something related to either a person or jade, 黃(黃) (huáng, 'yellow') was later phonetically borrowed for the meaning 'yellow'. The character's association with jade might also symbolize value and elegance, helping to explain its transition to the color 'yellow', often symbolic of wealth and opulence in Chinese culture.",
+    "simplification": "黄 replaces 黃 by dropping the radical 田 (tián, 'field') entirely, keeping only 廿 (nián, 'twenty'), a simplified pattern for phonetic or visual resemblance."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那件衬衫是黃的(那件襯衫是黃的)。",
+      "pinyin": "Nà jiàn chènshān shì huáng de.",
+      "english": "That shirt is yellow."
+    },
+    {
+      "chinese": "太阳升起时(太陽升起時)，大地披上了黃的外衣(大地披上了黃的外衣)。",
+      "pinyin": "Tàiyáng shēngqǐ shí, dàdì pī shàng le huáng de wàiyī.",
+      "english": "When the sun rises, the earth is draped in yellow."
+    }
+  ]
+}

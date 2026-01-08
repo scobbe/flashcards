@@ -1,0 +1,50 @@
+{
+  "simplified": "红菜头",
+  "traditional": "紅菜頭",
+  "pinyin": "hóngcàitóu",
+  "english": "beetroot",
+  "etymology": {
+    "type": "compound word",
+    "description": "紅(紅) (hóng, \"red\"), 菜(菜) (cài, \"vegetable\"), 頭(頭) (tóu, \"head\")",
+    "interpretation": "The word combines 紅(紅) (hóng, \"red\"), 菜(菜) (cài, \"vegetable\"), and 頭(頭) (tóu, \"head\") to describe a red-colored vegetable that is bulbous, which accurately depicts the appearance of a beetroot. Beetroot is known for its red root, resembling a round or bulbous shape.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "红",
+      "trad": "紅",
+      "pinyin": "hóng",
+      "english": "red"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable"
+    },
+    {
+      "char": "头",
+      "trad": "頭",
+      "pinyin": "tóu",
+      "english": "head; top"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃红菜头(我喜歡吃紅菜頭)。",
+      "pinyin": "Wǒ xǐhuān chī hóngcàitóu.",
+      "english": "I like eating beetroot."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，红菜头变得格外鲜艳(紅菜頭變得格外鮮豔)。",
+      "pinyin": "Xiàtiān láilín shí, hóngcàitóu biàn dé géwài xiānyàn.",
+      "english": "When summer arrives, the beetroot becomes exceptionally vibrant."
+    },
+    {
+      "chinese": "农田里种满了各种蔬菜(農田裡種滿了各種蔬菜)，红菜头也不例外(紅菜頭也不例外)。",
+      "pinyin": "Nóngtián lǐ zhòng mǎn le gèzhǒng shūcài, hóngcàitóu yě bù lìwài.",
+      "english": "The fields are filled with all kinds of vegetables, and beetroot is no exception."
+    }
+  ]
+}

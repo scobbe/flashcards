@@ -5,9 +5,9 @@
   "english": "congee",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "䰜(䰜) (lì, \"cauldron\") + 米(米) (mǐ, \"rice\") = cauldron with rice, emitting steam -> congee",
-    "interpretation": "鬻(yù) combines a depiction of a cauldron, 䰜(䰜) (lì), with 米(米) (mǐ, \"rice\"), to form an image of rice being cooked in a cauldron. The two 弓 depict the steam rising from the cooking process, conveying the idea of congee.",
-    "simplification": "粥(粥) (zhōu, \"congee\") simplifies 鬻(yù) by retaining the 米(米, \"rice\") while reducing other elements to streamline the character for phonetic reasons as a reduced form of 鬻 used for 'congee'."
+    "description": "䰜(䰜) (lì, \"cauldron\") + 米(米) (mǐ, \"rice\") = cooking rice in a cauldron -> congee",
+    "interpretation": "The character 鬻(yù, \"congee\") visually represents rice being cooked in a cauldron, with steam depicted by two 弓(弓) (gōng) elements above, highlighting the process of making congee. It shows the preparation method through its components, illustrating the origin of the word 'congee'.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -26,19 +26,14 @@
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "妈妈煮好的鬻(鬻)，温暖了我的早晨(溫暖了我的早晨)。",
-      "pinyin": "Māmā zhǔ hǎo de yù, wēnnuǎnle wǒ de zǎochén.",
-      "english": "The congee cooked by mom warmed my morning."
+      "chinese": "妈妈熬了一锅鬻(媽媽熬了一鍋鬻)。",
+      "pinyin": "Māmā áo le yī guō yù.",
+      "english": "Mom cooked up a pot of congee."
     },
     {
-      "chinese": "冬天喝一碗鬻(鬻)，使身体感到舒适(使身體感到舒適)。",
-      "pinyin": "Dōngtiān hē yī wǎn yù, shǐ shēntǐ gǎndào shūshì.",
-      "english": "Having a bowl of congee in winter makes the body feel comfortable."
-    },
-    {
-      "chinese": "清晨时享用鬻(鬻)，开启充满活力的一天(開啟充滿活力的一天)。",
-      "pinyin": "Qīngchén shí xiǎngyòng yì yù, kāiqǐ chōngmǎn huólì de yītiān.",
-      "english": "Enjoying congee in the early morning kick-starts a lively day."
+      "chinese": "在寒冷的早晨(在寒冷的早晨)，一碗热鬻驱走了冬日的寒意(一碗熱鬻驅走了冬日的寒意)。",
+      "pinyin": "Zài hánlěng de zǎochén, yī wǎn rè yù qū zǒu le dōngrì de hányì.",
+      "english": "On a cold morning, a bowl of steaming congee chased away the chill of winter."
     }
   ]
 }

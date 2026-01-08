@@ -1,0 +1,33 @@
+{
+  "simplified": "齊",
+  "traditional": "齊",
+  "pinyin": "qí",
+  "english": "together",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 齒(齒) (chǐ, \"teeth\") + phonetic: 齊 ○ usually written as 齐(齊) from Ancient Scripts = teeth arranged together -> aligned -> together",
+    "interpretation": "The character 齊(齊) (qí, \"together\") originates from the idea of teeth being aligned or arranged in a uniform way. This aligns with the broader sense of the character representing things coming together or being in order.",
+    "simplification": "齐(齊) was chosen as a simplified form due to its simpler strokes, reducing 齊's complexity while keeping a similar upper structure that resembles the original."
+  },
+  "parts": [
+    {
+      "char": "齒",
+      "trad": "齒",
+      "pinyin": "chǐ",
+      "english": "teeth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们齐心协力(我們齊心協力)，共创美好未来(共創美好未來)。",
+      "pinyin": "Wǒmen qíxīn xiélì, gòng chuàng měihǎo wèilái.",
+      "english": "We work together with one heart to create a bright future."
+    },
+    {
+      "chinese": "大家齐聚一堂(大家齊聚一堂)，分享欢乐时光(分享歡樂時光)。",
+      "pinyin": "Dàjiā qí jù yītáng, fēnxiǎng huānlè shíguāng.",
+      "english": "Everyone gathers together under one roof to share joyful moments."
+    }
+  ]
+}

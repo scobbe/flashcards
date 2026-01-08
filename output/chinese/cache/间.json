@@ -1,0 +1,44 @@
+{
+  "simplified": "间",
+  "traditional": "間",
+  "pinyin": "jiān",
+  "english": "room; between; space",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "門(門) (mén, \"gate\") + 日(日) (rì, \"sun\") = light peeking through a gate -> space/interval",
+    "interpretation": "The character combines 門(門) (mén, \"gate\") as the semantic component, suggesting separation or division, with 日(日) (rì, \"sun\") as the phonetic component, invoking the image of sunlight streaming through a gap. This evokes the idea of a 'space' or 'interval' as it is visible between two gates or within an enclosure.",
+    "simplification": "The simplification reduced the strokes in 日(日) (rì, \"sun\") for easier writing, but retained the overall structure."
+  },
+  "parts": [
+    {
+      "char": "门",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "gate"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个房间很宽敞(這個房間很寬敞)。",
+      "pinyin": "Zhège fángjiān hěn kuānchǎng.",
+      "english": "This room is very spacious."
+    },
+    {
+      "chinese": "两间公寓(兩間公寓)，中间隔着花园(中間隔著花園)。",
+      "pinyin": "Liǎng jiān gōngyù, zhōngjiān gézhe huāyuán.",
+      "english": "There are two apartments, with a garden in between."
+    },
+    {
+      "chinese": "窗户和门之间(窗戶和門之間)，有个狭小的空间(有個狹小的空間)。",
+      "pinyin": "Chuānghù hé mén zhījiān, yǒu gè xiáxiǎo de kōngjiān.",
+      "english": "Between the window and the door, there is a narrow space."
+    }
+  ]
+}

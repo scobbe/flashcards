@@ -1,0 +1,44 @@
+{
+  "simplified": "猴子",
+  "traditional": "猴子",
+  "pinyin": "hóuzi",
+  "english": "monkey",
+  "etymology": {
+    "type": "compound word",
+    "description": "猴(猴) (hóu, \"monkey\") refers to the animal itself, while 子(子) (zi, \"child; offspring\") is often used as a suffix in nouns to denote a smaller or diminutive form. Together, 猴子 (猴子) (hóuzi, \"monkey\") refers to the monkey both in the sense of the animal and as a common noun.",
+    "interpretation": "The word 猴子 (猴子) (hóuzi, \"monkey\") combines the animal's name with a suffix to create the common and familiar term for a monkey in Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "猴",
+      "trad": "猴",
+      "pinyin": "hóu",
+      "english": "monkey"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "child; offspring"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "猴子喜欢吃香蕉(猴子喜歡吃香蕉)。",
+      "pinyin": "hóuzi xǐhuān chī xiāngjiāo.",
+      "english": "Monkeys like to eat bananas."
+    },
+    {
+      "chinese": "在森林里看到一只猴子(在森林裡看到一隻猴子)，它机灵地在树上跳跃(它機靈地在樹上跳躍)。",
+      "pinyin": "zài sēnlín lǐ kàn dào yī zhī hóuzi, tā jīlíng de zài shù shàng tiàoyuè.",
+      "english": "In the forest, I saw a monkey, and it nimbly jumped on a tree."
+    },
+    {
+      "chinese": "那只小猴子又调皮又可爱(那只小猴子又調皮又可愛)。",
+      "pinyin": "nà zhī xiǎo hóuzi yòu tiáopí yòu kě'ài.",
+      "english": "That little monkey is both mischievous and cute."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "舌",
+  "traditional": "舌",
+  "pinyin": "shé",
+  "english": "tongue",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a forked tongue emerging upwards from a mouth",
+    "interpretation": "The character 舌(shé, 'tongue') visually represents a tongue extending out from a mouth, which aligns with its meaning. This direct depiction makes it easy to remember its association with speech and taste in its semantic family, also relating to words like 言(yán, 'word').",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的舌非常灵敏(他的舌非常靈敏)。",
+      "pinyin": "Tā de shé fēicháng língmǐn.",
+      "english": "His tongue is very sensitive."
+    },
+    {
+      "chinese": "品尝美食时(品嚐美食時)，他的舌细品滋味(他的舌細品滋味)。",
+      "pinyin": "Pǐncháng měishí shí, tā de shé xì pǐn zīwèi.",
+      "english": "While tasting delicious food, his tongue savors every flavor."
+    },
+    {
+      "chinese": "他长舌无忌(他長舌無忌)，经常泄露秘密(經常泄露秘密)。",
+      "pinyin": "Tā chángshé wújì, jīngcháng xièlòu mìmì.",
+      "english": "He is talkative and often spills secrets."
+    }
+  ]
+}

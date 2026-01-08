@@ -1,0 +1,31 @@
+{
+  "simplified": "𰀁",
+  "traditional": "𰀁",
+  "pinyin": "yù",
+  "english": "brush",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a brush with bristles",
+    "interpretation": "The character 𰀁 (yù, 'brush') represents a simple graphic depiction of a brush, showing bristles and handle. It captures the essential shape visually, making its meaning intuitive.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我用𰀁(我用𰀁)，蘸墨绘画(蘸墨繪畫)。",
+      "pinyin": "Wǒ yòng yù, zhàn mò huìhuà.",
+      "english": "I use the brush to dip in ink and paint."
+    },
+    {
+      "chinese": "她拿起𰀁(她拿起𰀁)，细致描绘花鸟(細致描繪花鳥)。",
+      "pinyin": "Tā ná qǐ yù, xìzhì miáohuì huāniǎo.",
+      "english": "She picks up the brush to meticulously depict flowers and birds."
+    },
+    {
+      "chinese": "古人常借𰀁(古人常借𰀁)，传递书法艺术(傳遞書法藝術)。",
+      "pinyin": "Gǔ rén cháng jiè yù, chuándì shūfǎ yìshù.",
+      "english": "Ancient scholars often used the brush to convey the art of calligraphy."
+    }
+  ]
+}

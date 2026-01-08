@@ -1,0 +1,31 @@
+{
+  "simplified": "巳",
+  "traditional": "巳",
+  "pinyin": "sì",
+  "english": "fetus",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a fetus or snake.",
+    "interpretation": "The character 巳(sì, \"fetus\") likely represents the shape of a fetus curled in the womb or possibly the sinuous form of a snake. This ambiguity is due to its pictographic origin, imitating the curves and forms seen in nature.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那小小的巳(那小小的巳)在温暖的子宫中悄然成长(在溫暖的子宮中悄然成長)。",
+      "pinyin": "Nà xiǎoxiǎo de sì zài wēnnuǎn de zǐgōng zhōng qiǎorán chéngzhǎng.",
+      "english": "The tiny fetus is growing quietly in the warm womb."
+    },
+    {
+      "chinese": "医生发现巳异常(醫生發現巳異常)，提醒家长早期注意(提醒家長早期注意)。",
+      "pinyin": "Yīshēng fāxiàn sì yìcháng, tíxǐng jiāzhǎng zǎoqī zhùyì.",
+      "english": "The doctor found an abnormality in the fetus and urged the parents to pay early attention."
+    },
+    {
+      "chinese": "母亲感受到巳微弱的心跳(母親感受到巳微弱的心跳)伴随着温柔的希望(伴隨著溫柔的希望)。",
+      "pinyin": "Mǔqīn gǎnshòudào sì wēiruò de xīntiào bànsuízhe wēnróu de xīwàng.",
+      "english": "The mother felt the fetus's faint heartbeat accompanied by a gentle hope."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "阿",
+  "traditional": "阿",
+  "pinyin": "ā",
+  "english": "prefix/particle used in names or address",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 阝(阜) (fù, 'mound') + phonetic: 可(可) (kě) = sound component → used as a prefix/particle in names or address",
+    "interpretation": "The character 阿(阿) (ā) uses the semantic component 阝(阜) (fù, 'mound') to represent locality and a structure, combined with the phonetic 可(可) (kě) to indicate its pronunciation. It's often used as a prefix to give a sense of familiarity in names.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阝",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "阿明今天来学校(阿明今天來學校)。",
+      "pinyin": "Ā míng jīntiān lái xuéxiào.",
+      "english": "Ah Ming comes to school today."
+    },
+    {
+      "chinese": "阿兰正在等你(阿蘭正在等你)，阿珍已经到达车站(阿珍已經到達車站)。",
+      "pinyin": "Ā lán zhèngzài děng nǐ, ā zhēn yǐjīng dàodá chēzhàn.",
+      "english": "Ah Lan is waiting for you, and Ah Zhen has already arrived at the station."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "呆",
+  "traditional": "呆",
+  "pinyin": "dāi",
+  "english": "dazed; dumb; blank; dull",
+  "etymology": {
+    "type": "variant form of 保",
+    "description": "Originally designated as a combination of 口(口) (kǒu, \"mouth\") and 木(木) (mù, \"tree\"), depicting a person standing still with an astonished mouth open under a tree, the character 呆 evolved as a variant of 保(保) (bǎo, \"to protect\") in historical contexts.",
+    "interpretation": "The character 呆 conveys a sense of being motionless or stagnant, akin to a tree. Over time, it developed to express feelings of being dazed or dull, illustrating a motionless or blank state of mind.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他看起来很呆(他看起来很呆)。",
+      "pinyin": "Tā kànqǐlái hěn dāi.",
+      "english": "He looks very dazed."
+    },
+    {
+      "chinese": "小明呆住了(小明呆住了)，眼神迷茫(眼神迷茫)。",
+      "pinyin": "Xiǎomíng dāi zhù le, yǎnshén mímáng.",
+      "english": "Xiaoming was stunned, his eyes were vacant."
+    },
+    {
+      "chinese": "她发呆了(她發呆了)。",
+      "pinyin": "Tā fā dāi le.",
+      "english": "She was lost in thought."
+    }
+  ]
+}

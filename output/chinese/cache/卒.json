@@ -1,0 +1,33 @@
+{
+  "simplified": "卒",
+  "traditional": "卒",
+  "pinyin": "zú",
+  "english": "graduation",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Early forms depicted as a brush in Shang oracle bone script -> Inverted brush shape mistaken for 又 (yòu, 'hand') in later scripts -> Final form 卒",
+    "interpretation": "Originally a pictogram resembling a brush, the character evolved over time due to changes in interpretation of its shape. The inverted depiction led to a misinterpretation that integrated the shape of 又 (yòu, 'hand'), resulting in the character 卒.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他努力学习(他努力學習)，终於在仪式上卒(終於在儀式上卒)。",
+      "pinyin": "Tā nǔlì xuéxí, zhōngyú zài yíshì shàng zú.",
+      "english": "He worked hard in his studies, and finally graduated at the ceremony."
+    },
+    {
+      "chinese": "小华准备明年大学卒(小华準備明年大學卒)。",
+      "pinyin": "Xiǎohuá zhǔnbèi míngnián dàxué zú.",
+      "english": "Xiaohua is preparing to graduate from university next year."
+    }
+  ]
+}

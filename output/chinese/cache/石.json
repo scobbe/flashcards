@@ -1,0 +1,26 @@
+{
+  "simplified": "石",
+  "traditional": "石",
+  "pinyin": "shí",
+  "english": "stone",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stone beneath a cliff, where the upper part originally looked like a cliff (厂) but was distorted into 丆 over time.",
+    "interpretation": "The character 石(shí, 'stone') visually represents a stone in a natural setting, highlighting the element of a cliff or mountain. Its visual design aims to reflect the appearance of rocks lodged or embedded in a mountainous or cliff-like setting.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在河边发现一块石(他在河邊發現一塊石)。",
+      "pinyin": "Tā zài hé biān fāxiàn yī kuài shí.",
+      "english": "He discovered a piece of stone by the riverside."
+    },
+    {
+      "chinese": "孩子们喜欢堆石(孩子們喜歡堆石)，玩得开心(玩得開心)。",
+      "pinyin": "Háizimen xǐhuān duī shí, wán de kāixīn.",
+      "english": "Children like to stack stones, playing happily."
+    }
+  ]
+}

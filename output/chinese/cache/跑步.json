@@ -1,0 +1,44 @@
+{
+  "simplified": "跑步",
+  "traditional": "跑步",
+  "pinyin": "pǎobù",
+  "english": "run; jog",
+  "etymology": {
+    "type": "compound word",
+    "description": "跑(跑) (pǎo, \"run\") + 步(步) (bù, \"step\") is a combination that describes the action of taking running steps, thus forming the concept of running or jogging.",
+    "interpretation": "By combining the action of running with steps, 跑步(pǎobù) captures the essence of moving rapidly on foot and is commonly used to describe the activity of jogging or running.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "跑",
+      "trad": "跑",
+      "pinyin": "pǎo",
+      "english": "run; escape"
+    },
+    {
+      "char": "步",
+      "trad": "步",
+      "pinyin": "bù",
+      "english": "step; pace"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天跑步(我每天跑步)。",
+      "pinyin": "Wǒ měitiān pǎobù.",
+      "english": "I run every day."
+    },
+    {
+      "chinese": "他爱运动(他愛運動)，尤其喜欢跑步(尤其喜歡跑步)。",
+      "pinyin": "Tā ài yùndòng, yóuqí xǐhuān pǎobù.",
+      "english": "He loves sports, especially running."
+    },
+    {
+      "chinese": "春天到了(春天到了)，我去公园跑步(我去公園跑步)。",
+      "pinyin": "Chūntiān dàole, wǒ qù gōngyuán pǎobù.",
+      "english": "Spring has arrived, and I go running in the park."
+    }
+  ]
+}

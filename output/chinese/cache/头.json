@@ -1,0 +1,44 @@
+{
+  "simplified": "头",
+  "traditional": "頭",
+  "pinyin": "tóu",
+  "english": "head; top",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 页(頁) (yè, \"page/head\") + phonetic: 豆(豆) (dòu, \"bean\") = physical head form -> head",
+    "interpretation": "The character combines 页(頁) (yè, \"page/head\"), which provides a semantic component related to the top or head, with 豆(豆) (dòu, \"bean\") for phonetic support, leading to the meaning \"head.\"",
+    "simplification": "頭(頭)→头(頭): 豆(豆) retained, 页(頁) simplified by removing parts for a cursive shorthand resembling 大(大) (dà, \"big\") to maintain a visual association with 'head'."
+  },
+  "parts": [
+    {
+      "char": "页",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "page/head"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的头很大(他的頭很大)。",
+      "pinyin": "Tā de tóu hěn dà.",
+      "english": "His head is big."
+    },
+    {
+      "chinese": "他的头发很浓密(他的頭髮很濃密)，闪耀着健康的光泽(閃耀著健康的光澤)。",
+      "pinyin": "Tā de tóufǎ hěn nóngmì, shǎnyào zhe jiànkāng de guāngzé.",
+      "english": "His hair is thick, radiating the glow of health."
+    },
+    {
+      "chinese": "他跑到山头上(他跑到山頭上)，俯瞰整个村庄(俯瞰整個村莊)。",
+      "pinyin": "Tā pǎo dào shāntóu shàng, fǔkàn zhěnggè cūnzhuāng.",
+      "english": "He ran to the hilltop and looked down over the entire village."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "习",
+  "traditional": "習",
+  "pinyin": "xí",
+  "english": "study; practice; learn; become familiar with",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "羽(羽) (yǔ, \"feather\") + 白(白) (bái, \"white\") = imitation of the repeated action of birds flapping their wings -> to practice, study",
+    "interpretation": "The character 習(習) (xí) draws on the image of birds practicing flight through repetitive flapping of wings, which parallels the concept of learning through practice and repetition in humans.",
+    "simplification": "習(習)→习(習): simplified by removing 羽(羽) (yǔ, \"feather\") details; represented by shorthand."
+  },
+  "parts": [
+    {
+      "char": "羽",
+      "trad": "羽",
+      "pinyin": "yǔ",
+      "english": "feather"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我习音乐(我習音樂)。",
+      "pinyin": "wǒ xí yīnyuè",
+      "english": "I study music."
+    },
+    {
+      "chinese": "他习历史(他習歷史)，习诗词(習詩詞)。",
+      "pinyin": "tā xí lìshǐ, xí shīcí",
+      "english": "He studies history and practices poetry."
+    },
+    {
+      "chinese": "师傅让徒弟习武(師傅讓徒弟習武)，日渐精进(日漸精進)。",
+      "pinyin": "shīfù ràng túdì xí wǔ, rìjiàn jīngjìn",
+      "english": "The master has his apprentice practice martial arts, gradually improving."
+    }
+  ]
+}

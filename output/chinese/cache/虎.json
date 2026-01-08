@@ -1,0 +1,44 @@
+{
+  "simplified": "虎",
+  "traditional": "虎",
+  "pinyin": "hǔ",
+  "english": "tiger",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tiger's head (虎) with torso transformed to 人(人) (rén, \"person\") in small seal script -> 儿(儿) (ér, \"son\") in clerical script",
+    "interpretation": "虎(hǔ) captures the powerful and recognizable features of a tiger, emphasizing the head since the torso was stylized to resemble human-like forms in later scripts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "儿",
+      "trad": "儿",
+      "pinyin": "ér",
+      "english": "son"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老虎是森林之王(老虎是森林之王)。",
+      "pinyin": "Lǎohǔ shì sēnlín zhī wáng.",
+      "english": "The tiger is the king of the forest."
+    },
+    {
+      "chinese": "动物园里有一只虎(動物園裡有一隻虎)，吸引了很多游客(吸引了很多遊客)。",
+      "pinyin": "Dòngwùyuán lǐ yǒuyī zhī hǔ, xīyǐnle hěn duō yóukè.",
+      "english": "There is a tiger in the zoo, attracting many visitors."
+    },
+    {
+      "chinese": "山林中虎啸之声回荡(山林中虎嘯之聲迴盪)，令人心生敬畏(令人心生敬畏)。",
+      "pinyin": "Shānlín zhōng hǔ xiào zhī shēng huídàng, lìng rén xīnshēng jìngwèi.",
+      "english": "In the mountains, the tiger's roar echoes, evoking awe."
+    }
+  ]
+}

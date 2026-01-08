@@ -1,0 +1,44 @@
+{
+  "simplified": "玨",
+  "traditional": "玨",
+  "pinyin": "jué",
+  "english": "strings of jade",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "玉(玉) (yù, \"jade\") + 玉(玉) (yù, \"jade\") = double jade -> strings of jade",
+    "interpretation": "The character 玨(玨) (jué, \"strings of jade\") is formed by repeating the jade radical twice. This indicates a pair or strings of jade, emphasizing the preciousness and quantity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古董盒中存放着玨(古董盒中存放著玨)。",
+      "pinyin": "gǔdǒng hé zhōng cúnfàng zhe jué.",
+      "english": "The antique box contains strings of jade."
+    },
+    {
+      "chinese": "她用玨点缀衣饰(她用玨點綴衣飾)，彰显独特品味(彰顯獨特品味)。",
+      "pinyin": "tā yòng jué diǎnzhuì yīshì, zhāngxiǎn dútè pǐnwèi.",
+      "english": "She adorns her garments with strings of jade, showcasing a unique taste."
+    },
+    {
+      "chinese": "传说中的仙女佩戴玨(傳說中的仙女佩戴玨)，增添神秘气息(增添神秘氣息)。",
+      "pinyin": "chuánshuō zhōng de xiānnǚ pèidài jué, zēngtiān shénmì qìxí.",
+      "english": "According to legend, a fairy wears strings of jade, adding a mysterious aura."
+    }
+  ]
+}

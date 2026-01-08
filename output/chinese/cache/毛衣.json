@@ -1,0 +1,44 @@
+{
+  "simplified": "毛衣",
+  "traditional": "毛衣",
+  "pinyin": "máoyī",
+  "english": "sweater",
+  "etymology": {
+    "type": "compound word",
+    "description": "毛(毛) (máo, \"hair; fur\") + 衣(衣) (yī, \"clothing\") = 毛衣(毛衣) (máoyī, \"sweater\"), clothing made from hair or fur material",
+    "interpretation": "A 毛衣(毛衣) (máoyī, \"sweater\") is a piece of clothing typically made from materials like wool, which is derived from the hair or fur of animals. This reflects the original nature of sweaters being woven from natural fibers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair; fur"
+    },
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天气转冷时(天氣轉冷時)，我穿上毛衣(我穿上毛衣)。",
+      "pinyin": "Tiānqì zhuǎn lěng shí, wǒ chuān shàng máoyī.",
+      "english": "When the weather turns cold, I put on a sweater."
+    },
+    {
+      "chinese": "冬天来了(冬天來了)，毛衣温暖舒适(毛衣溫暖舒適)。",
+      "pinyin": "Dōngtiān lái le, máoyī wēnnuǎn shūshì.",
+      "english": "Winter has come, and the sweater is warm and comfortable."
+    },
+    {
+      "chinese": "我喜爱这件毛衣(我喜愛這件毛衣)。",
+      "pinyin": "Wǒ xǐ'ài zhè jiàn máoyī.",
+      "english": "I really like this sweater."
+    }
+  ]
+}

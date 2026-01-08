@@ -1,0 +1,39 @@
+{
+  "simplified": "格",
+  "traditional": "格",
+  "pinyin": "gé",
+  "english": "grammatical unit",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree/wood\") + 各(各) (gè, \"each\") = structure, as in parts of a tree -> form, pattern -> grammatical unit",
+    "interpretation": "The character 格(格) (gé) combines 木(木) (mù, \"tree/wood\"), suggesting structure or framework, with 各(各) (gè, \"each\"), which provides the phonetic component. This combination implies a structured pattern, much like grammatical rules.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree/wood"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个句子中的每个词格都有特定的意义(這個句子中的每個詞格都有特定的意義)。",
+      "pinyin": "Zhège jùzi zhōng de měi gè cígé dōu yǒu tèdìng de yìyì.",
+      "english": "Each grammatical unit in this sentence carries its specific meaning."
+    },
+    {
+      "chinese": "语法中不同的格负责表达不同的语义(語法中不同的格負責表達不同的語義)。",
+      "pinyin": "Yǔfǎ zhōng bùtóng de gé fùzé biǎodá bùtóng de yǔyì.",
+      "english": "Different grammatical units in grammar express different semantics."
+    }
+  ]
+}

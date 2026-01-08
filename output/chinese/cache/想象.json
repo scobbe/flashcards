@@ -1,0 +1,44 @@
+{
+  "simplified": "想象",
+  "traditional": "想像",
+  "pinyin": "xiǎngxiàng",
+  "english": "imagination; imagine",
+  "etymology": {
+    "type": "compound word",
+    "description": "想(想) (xiǎng, \"think\") combined with 象(像) (xiàng, \"image\") to express the concept of forming mental images or envisioning something in the mind.",
+    "interpretation": "The word 想象(想像) (xiǎngxiàng, \"imagination; imagine\") brings together the concepts of thinking and forming images, conveying the idea of creating or conceiving mental pictures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "想",
+      "trad": "想",
+      "pinyin": "xiǎng",
+      "english": "think; ponder; consider; want"
+    },
+    {
+      "char": "象",
+      "trad": "像",
+      "pinyin": "xiàng",
+      "english": "image; likeness; elephant; phenomenon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢想象未来(他喜歡想像未來)，描绘梦想蓝图(描繪夢想藍圖)。",
+      "pinyin": "Tā xǐhuān xiǎngxiàng wèilái, miáohuì mèngxiǎng lántú.",
+      "english": "He enjoys imagining the future and sketching a blueprint of his dreams."
+    },
+    {
+      "chinese": "孩子们沉浸在故事里(孩子們沉浸在故事裡)，尽情想象奇妙世界(盡情想像奇妙世界)。",
+      "pinyin": "Háizimen chénjìn zài gùshì lǐ, jìnqíng xiǎngxiàng qímiào shìjiè.",
+      "english": "Children are immersed in stories and unabashedly imagine a magical world."
+    },
+    {
+      "chinese": "夜深人静时(夜深人靜時)，他常在心中想象童年时光(他常在心中想像童年時光)。",
+      "pinyin": "Yè shēn rénjìng shí, tā cháng zài xīnzhōng xiǎngxiàng tóngnián shíguāng.",
+      "english": "When the night is deep and quiet, he often imagines the times of his childhood in his heart."
+    }
+  ]
+}

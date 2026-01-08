@@ -1,0 +1,44 @@
+{
+  "simplified": "睘",
+  "traditional": "睘",
+  "pinyin": "qióng",
+  "english": "to see clearly",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "目(目) (mù, \"eye\") + phonetic: 袁(袁) (yuán) -> seeing clearly with the eyes",
+    "interpretation": "The character 睘(qióng) combines 目(目) (mù, \"eye\") as the semantic component, suggesting vision or sight, with 袁(袁) (yuán) as the phonetic element, indicating pronunciation related to clarity in seeing. This combination reflects the meaning of seeing clearly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "袁",
+      "trad": "袁",
+      "pinyin": "yuán",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "夜深人静时(夜深人靜時)，他睘见远方的灯火(他睘見遠方的燈火)。",
+      "pinyin": "Yè shēn rén jìng shí, tā qióng jiàn yuǎn fāng de dēng huǒ.",
+      "english": "Late at night, he sees the distant lights clearly."
+    },
+    {
+      "chinese": "风起云涌时(風起雲湧時)，智者能睘见未来(智者能睘見未來)。",
+      "pinyin": "Fēng qǐ yún yǒng shí, zhì zhě néng qióng jiàn wèi lái.",
+      "english": "When the wind rises and clouds surge, the wise can see the future clearly."
+    },
+    {
+      "chinese": "雾霭缭绕时(霧靄繚繞時)，她睘见天地间的微妙变化(她睘見天地間的微妙變化)。",
+      "pinyin": "Wù ài liáo rào shí, tā qióng jiàn tiān dì jiān de wēi miào biàn huà.",
+      "english": "When the mist swirls around, she sees the subtle changes between heaven and earth clearly."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "幣",
+  "traditional": "幣",
+  "pinyin": "bì",
+  "english": "currency",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 敝(敝) (bì, \"rags\") + Semantic: 巾(巾) (jīn, \"towel\") = silk used in rituals or as gifts -> representation of currency",
+    "interpretation": "The character 幣(幣) (bì, \"currency\") originally referred to valuable silk items used in sacrifices or as gifts. The phonetic component 敝(敝) (bì) suggests the pronunciation, while 巾(巾) (jīn, \"towel\") signifies textiles, linking to the historical use of silk as a form of money.",
+    "simplification": "Simplified to 币(币) by replacing 敝(敝) (bì, \"rags\") with 丿(丿) to streamline and facilitate writing, maintaining the core concept of a fabric-based form of currency."
+  },
+  "parts": [
+    {
+      "char": "敝",
+      "trad": "敝",
+      "pinyin": "bì",
+      "english": "rags"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "towel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他收藏了许多古幣(他收藏了許多古幣)。",
+      "pinyin": "Tā shōucángle xǔduō gǔ bì.",
+      "english": "He collects many ancient currencies."
+    },
+    {
+      "chinese": "这个国家推出新的幣(這個國家推出新的幣)，促进了经济发展(促進了經濟發展)。",
+      "pinyin": "Zhège guójiā tuīchū xīn de bì, cùjìnle jīngjì fāzhǎn.",
+      "english": "This country introduced a new currency, which promoted economic development."
+    },
+    {
+      "chinese": "电子幣在网络上流通(電子幣在網絡上流通)。",
+      "pinyin": "Diànzǐ bì zài wǎngluò shàng liútōng.",
+      "english": "Digital currency circulates online."
+    }
+  ]
+}

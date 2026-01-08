@@ -1,0 +1,44 @@
+{
+  "simplified": "豆豉",
+  "traditional": "豆豉",
+  "pinyin": "dòuchǐ",
+  "english": "fermented black beans",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆(豆) (dòu, \"bean\") refers to legumes, which are a common staple food in Chinese cuisine. 豉(豉) (chǐ, \"fermented beans\") indicates the fermentation process. Together, 豆豉 (dòuchǐ, \"fermented black beans\") refers to a traditional seasoning made by fermenting soybeans with salt and spices, often used in Chinese cooking for its deep, umami flavor.",
+    "interpretation": "豆豉 (dòuchǐ) refers to fermented beans, specifically black beans, which are a culinary staple in Chinese culture. The fermentation process enriches the beans with a savory flavor, making it a popular ingredient in various dishes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; pea"
+    },
+    {
+      "char": "豉",
+      "trad": "豉",
+      "pinyin": "chǐ",
+      "english": "fermented beans"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "厨师用豆豉调味(廚師用豆豉調味)，烹饪出独特风味(烹飪出獨特風味)。",
+      "pinyin": "Chúshī yòng dòuchǐ tiáowèi, pēngrèn chū dútè fēngwèi.",
+      "english": "The chef uses fermented black beans for seasoning, cooking up a unique flavor."
+    },
+    {
+      "chinese": "他喜欢在炒菜时加入豆豉(他喜歡在炒菜時加入豆豉)，增添香气(增添香氣)。",
+      "pinyin": "Tā xǐhuān zài chǎocài shí jiārù dòuchǐ, zēngtiān xiāngqì.",
+      "english": "He likes to add fermented black beans when stir-frying to enhance the aroma."
+    },
+    {
+      "chinese": "豆豉是一种传统调味品(豆豉是一種傳統調味品)。",
+      "pinyin": "Dòuchǐ shì yī zhǒng chuántǒng tiáowèi pǐn.",
+      "english": "Fermented black beans are a traditional seasoning."
+    }
+  ]
+}

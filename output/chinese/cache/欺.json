@@ -1,0 +1,44 @@
+{
+  "simplified": "欺",
+  "traditional": "欺",
+  "pinyin": "qī",
+  "english": "deceive",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 气(氣) (qì, \"air\") + phonetic: 其(其) (qí, \"his\") = giving false atmosphere -> deceive",
+    "interpretation": "欺(欺) (qī, \"deceive\") combines 气(氣) (qì, \"air\"), suggesting something intangible, with 其(其) (qí, \"his\"), which provides the phonetic element. Together, these imply creating a false impression or atmosphere, aligning with the meaning of deception.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "气",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "air"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "不要欺别人(不要欺別人)。",
+      "pinyin": "Bùyào qī bié rén.",
+      "english": "Do not deceive others."
+    },
+    {
+      "chinese": "他以花言巧语欺骗了村民(他以花言巧語欺騙了村民)。",
+      "pinyin": "Tā yǐ huāyán qiǎoyǔ qī piàn le cūnmín.",
+      "english": "He deceived the villagers with flowery words."
+    },
+    {
+      "chinese": "商家欺骗消费者(商家欺騙消費者)，赢得了一时的利益(贏得了一時的利益)。",
+      "pinyin": "Shāngjiā qī piàn xiāofèi zhě, yíng dé le yìshí de lìyì.",
+      "english": "The merchant deceived the consumers and gained a temporary profit."
+    }
+  ]
+}

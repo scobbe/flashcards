@@ -1,0 +1,44 @@
+{
+  "simplified": "賜",
+  "traditional": "賜",
+  "pinyin": "cì",
+  "english": "bestow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 貝(貝) (bèi, \"shell, money\") + phonetic 易(易) (yì, \"easy\") = valuable items given -> bestow",
+    "interpretation": "賜(賜) (cì, \"bestow\") combines 貝(貝) (bèi, \"shell, money\"), indicating wealth or valuables, with 易(易) (yì), chosen for its phonetic value, to convey the action of bestowing or granting valuable items.",
+    "simplification": "Simplified by replacing 貝(貝) (bèi, \"shell, money\") with 贝(贝) (bèi, \"shell, money\") to maintain the semantic element while reducing complexity."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "shell, money"
+    },
+    {
+      "char": "易",
+      "trad": "易",
+      "pinyin": "yì",
+      "english": "easy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "皇帝賜恩(皇帝賜恩)，群臣受福(群臣受福)。",
+      "pinyin": "Huángdì cì ēn, qúnchén shòu fú.",
+      "english": "The emperor bestowed grace, and his officials received blessings."
+    },
+    {
+      "chinese": "聖上賜旨(聖上賜旨)，百官遵命(百官遵命)。",
+      "pinyin": "Shèng shàng cì zhǐ, bǎiguān zūn mìng.",
+      "english": "The sovereign bestowed his decree, and the ministers obeyed."
+    },
+    {
+      "chinese": "国君賜封英才(國君賜封英才)。",
+      "pinyin": "Guókūn cì fēng yīngcái.",
+      "english": "The monarch bestowed a title upon the talented."
+    }
+  ]
+}

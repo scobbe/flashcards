@@ -1,0 +1,44 @@
+{
+  "simplified": "点",
+  "traditional": "點",
+  "pinyin": "diǎn",
+  "english": "dot; point",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 黑(黑) (hēi, \"black\") + phonetic: 占(占) (zhān, \"divination\") = black mark indicating a point -> spot, dot",
+    "interpretation": "In 點(點) (diǎn, \"dot\"), 黑(黑) (hēi, \"black\") represents the concept of a mark or dot in its dark color, while 占(占) (zhān, \"divination\") provides the phonetic spelling. Together, the components denote a small dark mark or point.",
+    "simplification": "点(點) simplifies 點 by removing the upper components of 黑(黑) (hēi, \"black\"), forming a more straightforward symbol for a dot or small point."
+  },
+  "parts": [
+    {
+      "char": "黑",
+      "trad": "黑",
+      "pinyin": "hēi",
+      "english": "black"
+    },
+    {
+      "char": "占",
+      "trad": "占",
+      "pinyin": "zhān",
+      "english": "divination"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请在图上点出目标(請在圖上點出目標)。",
+      "pinyin": "Qǐng zài tú shàng diǎn chū mùbiāo。",
+      "english": "Please mark the target on the map."
+    },
+    {
+      "chinese": "她用粉笔在黑板上点了点(她用粉筆在黑板上點了點)，指明答案(指明答案)。",
+      "pinyin": "Tā yòng fěnbǐ zài hēibǎn shàng diǎn le diǎn, zhǐmíng dá'àn。",
+      "english": "She lightly tapped on the blackboard with chalk to indicate the answer."
+    },
+    {
+      "chinese": "网格中的每个点都很重要(網格中的每個點都很重要)。",
+      "pinyin": "Wǎnggé zhōng de měi gè diǎn dōu hěn zhòngyào。",
+      "english": "Every point in the grid is important."
+    }
+  ]
+}

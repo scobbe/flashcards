@@ -1,0 +1,44 @@
+{
+  "simplified": "系",
+  "traditional": "系",
+  "pinyin": "xì",
+  "english": "continue",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "abbreviated 手(手) (shǒu, \"hand\") + 糸(糸) (mì, \"silk\") = hand manipulating thread -> simplified -> used as simplified form of 繫(繫) (xì, \"connect\")",
+    "interpretation": "The character 系(系) (xì, \"continue\") combines 手(手) (shǒu, \"hand\") and 糸(糸) (mì, \"silk\"), depicting a hand weaving or tying thread, symbolizing continuity or connection. It simplifies the more complex 繫(繫) (xì, \"connect\") by merging the elements concisely.",
+    "simplification": "Simplified by merging components into a unified character, omitting 人(人) (rén, \"person\") and retaining essential elements from related forms like 繫(繫) (xì, \"connect\") and 係(係) (xì, \"relate\")."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "课程系进行到下学期(課程系進行到下學期)。",
+      "pinyin": "Kèchéng xì jìnxíng dào xià xuéqī.",
+      "english": "The course continues into the next semester."
+    },
+    {
+      "chinese": "旅程系向未知方向展开(旅程系向未知方向展開)。",
+      "pinyin": "Lǚchéng xì xiàng wèizhī fāngxiàng zhǎnkāi.",
+      "english": "The journey continues unfolding in an unknown direction."
+    },
+    {
+      "chinese": "讨论系持续深入(討論系持續深入)。",
+      "pinyin": "Tǎolùn xì chíxù shēnrù.",
+      "english": "The discussion continues to delve deeper."
+    }
+  ]
+}

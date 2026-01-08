@@ -1,0 +1,39 @@
+{
+  "simplified": "粽子",
+  "traditional": "粽子",
+  "pinyin": "zòng zi",
+  "english": "rice dumpling",
+  "etymology": {
+    "type": "compound word",
+    "description": "粽(粽) (zòng, \"sticky rice wrapped in leaves\") and 子(子) (zi, \"child; small thing\") together mean a small bundle of sticky rice, which is typically wrapped in bamboo or reed leaves to form a dumpling.",
+    "interpretation": "粽子 (zòngzi, \"rice dumpling\") is a traditional Chinese food commonly eaten during the Dragon Boat Festival. Its shape and preparation symbolize unity and togetherness, as families often make and enjoy them together.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "粽",
+      "trad": "粽",
+      "pinyin": "zòng",
+      "english": "sticky rice wrapped in leaves"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "child; small thing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "端午节时家家户户都会包粽子(端午節時家家戶戶都會包粽子)。",
+      "pinyin": "Duān wǔ jié shí jiā jiā hù hù dōu huì bāo zòng zi.",
+      "english": "During the Dragon Boat Festival, every household makes rice dumplings."
+    },
+    {
+      "chinese": "妈妈做的粽子味道鲜美(媽媽做的粽子味道鮮美)。",
+      "pinyin": "Māmā zuò de zòng zi wèi dào xiān měi.",
+      "english": "The rice dumplings made by mom taste delicious."
+    }
+  ]
+}

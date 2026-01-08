@@ -1,0 +1,31 @@
+{
+  "simplified": "亍",
+  "traditional": "亍",
+  "pinyin": "chù",
+  "english": "step",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a single step with a foot slightly raised",
+    "interpretation": "亍(亍) (chù, 'step') is a simple pictogram representing a small step, showing a minimal depiction of movement or the positioning of a foot.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他一亍一亍地向山顶走去(他一亍一亍地向山頂走去)。",
+      "pinyin": "Tā yī chù yī chù de xiàng shāndǐng zǒuqù.",
+      "english": "He stepped steadily, one step after another, toward the mountaintop."
+    },
+    {
+      "chinese": "行人走过古道时(行人走過古道時)，每一亍都留下岁月痕迹(每一亍都留下歲月痕跡)。",
+      "pinyin": "Xíngrén zǒuguò gǔdào shí, měi yī chù dōu liúxià suìyuè hénjì.",
+      "english": "When pedestrians traverse the ancient path, each step leaves the mark of time."
+    },
+    {
+      "chinese": "旅者登山时(旅者登山時)，谨记每一亍的重要性(謹記每一亍的重要性)。",
+      "pinyin": "Lǚzhě dēngshān shí, jǐnjì měi yī chù de zhòngyàoxìng.",
+      "english": "When the traveler climbs the mountain, he remembers the importance of every single step."
+    }
+  ]
+}

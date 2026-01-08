@@ -1,0 +1,44 @@
+{
+  "simplified": "信",
+  "traditional": "信",
+  "pinyin": "xìn",
+  "english": "trust; letter; believe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 人(人) (rén, \"person\") + Semantic: 言(言) (yán, \"words\") = person speaking words -> trust, letter, believe",
+    "interpretation": "信(xìn, \"trust; letter; believe\") combines 人(人) (rén, \"person\") as the phonetic element with 言(言) (yán, \"words\") to signify the concept of words spoken by a person, which relates to trust and belief. The presence of 言(言) emphasizes the communicative aspect, hence extending the meaning to include letters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "words"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他信我(他信我)，因为我总是守时(因為我總是守時)。",
+      "pinyin": "Tā xìn wǒ, yīnwèi wǒ zǒngshì shǒushí.",
+      "english": "He trusts me because I am always punctual."
+    },
+    {
+      "chinese": "我写信给朋友(我寫信給朋友)。",
+      "pinyin": "Wǒ xiě xìn gěi péngyǒu.",
+      "english": "I write a letter to a friend."
+    },
+    {
+      "chinese": "请信自己的选择(請信自己的選擇)。",
+      "pinyin": "Qǐng xìn zìjǐ de xuǎnzé.",
+      "english": "Please trust your own choices."
+    }
+  ]
+}

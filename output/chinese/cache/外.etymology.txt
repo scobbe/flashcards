@@ -1,0 +1,13 @@
+[外]
+Phono-semantic compound ( 形聲 / 形声 , OC *ŋʷaːds ): semantic 卜 + phonetic 月 ( OC *ŋod ) .
+According to 学研漢和大字典 ( Kenkyūsha Kanwa Dai Jiten ) , it is also an ideogrammic compound ( 會意 / 会意 ); 月 originally represents a crescent moon (i.e. the moon with part “missing” to the observer). The character is thus interpreted as representing divination based on the partial phase of the moon, implying the remaining visible part of the moon is the moon's ‘outside’ . ( Can this ( + ) etymology be sourced ?)
+In oracle bone script, 外 was written identical to 卜 , but they were distinguished by the fact that 卜 has a horizontal bar extending to the inside of the tortoise shell, while 外 has a horizontal bar extending to the outside. ( Can this ( + ) etymology be sourced ?)
+
+[㚈]
+variant form of 升
+
+[升]
+Pictogram ( 象形 ) of a dipper, compare 斗 .
+
+[昇]
+Phono-semantic compound ( 形聲 / 形声 , OC *hljɯŋ ): semantic 日 ( “ sun ” ) + phonetic 升 ( OC *hljɯŋ ) .

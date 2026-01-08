@@ -1,0 +1,39 @@
+{
+  "simplified": "中山",
+  "traditional": "中山",
+  "pinyin": "zhōngshān",
+  "english": "Zhongshan; Sun Yat-sen",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle; central\") and 山(山) (shān, \"mountain\") combine to refer to a \"central mountain\". The word \"Zhongshan\" commonly refers to Sun Yat-sen, the founding father of the Republic of China, as he was also known by this name.",
+    "interpretation": "In addition to referring to a central mountain, Zhongshan is widely recognized as the alter name of Sun Yat-sen, emphasizing his central role in Chinese history as a leader. The usage of 'mountain' in names can convey importance and stability.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; central; within; among"
+    },
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain; hill; peak; range"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中山在中国历史上具有重要地位(中山在中國歷史上具有重要地位)。",
+      "pinyin": "Zhōngshān zài Zhōngguó lìshǐ shàng jùyǒu zhòngyào dìwèi.",
+      "english": "Zhongshan holds an important position in Chinese history."
+    },
+    {
+      "chinese": "中国许多地方以中山命名(中國許多地方以中山命名)，以纪念国父孙中山(以紀念國父孫中山)。",
+      "pinyin": "Zhōngguó xǔduō dìfāng yǐ Zhōngshān mìngmíng, yǐ jìniàn guófù Sūn Zhōngshān.",
+      "english": "Many places in China are named Zhongshan to commemorate the national father, Sun Yat-sen."
+    }
+  ]
+}

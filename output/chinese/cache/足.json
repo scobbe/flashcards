@@ -1,0 +1,31 @@
+{
+  "simplified": "足",
+  "traditional": "足",
+  "pinyin": "zú",
+  "english": "foot",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a leg -> originally depicted as ⽦ -> represents 'foot'",
+    "interpretation": "The character 足(zú, 'foot') is a pictographic representation of a human leg, which directly portrays the concept of a 'foot'. The pictographic origin emphasizes its fundamental meaning in the language.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他受伤后(他受傷後)，他的足不能动(他的足不能動)。",
+      "pinyin": "tā shòushāng hòu, tā de zú bù néng dòng。",
+      "english": "After he was injured, his foot couldn't move."
+    },
+    {
+      "chinese": "小明打球时(小明打球時)，不小心扭伤了足(不小心扭傷了足)。",
+      "pinyin": "xiǎo míng dǎ qiú shí, bù xiǎoxīn niǔ shāng le zú。",
+      "english": "When Xiaoming was playing ball, he accidentally twisted his foot."
+    },
+    {
+      "chinese": "我每天锻炼足部(我每天鍛鍊足部)。",
+      "pinyin": "wǒ měitiān duànliàn zúbù。",
+      "english": "I exercise my foot muscles every day."
+    }
+  ]
+}

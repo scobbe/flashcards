@@ -1,0 +1,39 @@
+{
+  "simplified": "样",
+  "traditional": "樣",
+  "pinyin": "yàng",
+  "english": "appearance; shape; manner",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 羕(羕) (yàng, \"river\") = combination of the semantic 'wood' and the phonetic contribution of 'yàng' -> appearance or shape",
+    "interpretation": "The character 样(樣) (yàng, \"appearance\") combines the component 木(木) (mù, \"wood\") to hint at material or form, with 羕(羕) (yàng, \"river\") providing the phonetic aspect. This suggests something resembling or taking shape like wood, which extends metaphorically to various forms or appearances.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "羕",
+      "trad": "羕",
+      "pinyin": "yàng",
+      "english": "river"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的样子很独特(他的樣子很獨特)。",
+      "pinyin": "tā de yàngzi hěn dútè。",
+      "english": "His appearance is very unique."
+    },
+    {
+      "chinese": "他做事的样子十分认真(他做事的樣子十分認真)，同事很佩服他(同事很佩服他)。",
+      "pinyin": "tā zuòshì de yàngzi shífēn rènzhēn, tóngshì hěn pèifú tā。",
+      "english": "His manner of working is very conscientious, and his colleagues admire him."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "𠤎",
+  "traditional": "𠤎",
+  "pinyin": "rén",
+  "english": "person",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "人(人) (rén, \"person\") upright + 人(人) (rén, \"person\") upside down = reversal; change -> ancient form of 化(化) (huà, \"change\")",
+    "interpretation": "The character 𠤎 represents the concept of change or transformation by depicting two 人(人) (rén, \"person\") characters, one upright and one upside down, symbolizing a reversal or transformation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个𠤎很聪明(這個𠤎很聰明)。",
+      "pinyin": "Zhè gè rén hěn cōngmíng.",
+      "english": "This person is very intelligent."
+    },
+    {
+      "chinese": "他从不放弃(他從不放棄)，因为每个𠤎都有无限可能(因為每個𠤎都有無限可能)。",
+      "pinyin": "Tā cóng bù fàngqì, yīnwèi měi gè rén dōu yǒu wúxiàn kěnéng.",
+      "english": "He never gives up because every person has unlimited potential."
+    }
+  ]
+}

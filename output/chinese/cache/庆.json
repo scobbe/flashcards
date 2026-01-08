@@ -1,0 +1,44 @@
+{
+  "simplified": "庆",
+  "traditional": "慶",
+  "pinyin": "qìng",
+  "english": "celebrate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 广(广) (guǎng, 'shelter') + phonetic: 大(大) (dà, 'big') = grand festivities under shelter -> celebrate",
+    "interpretation": "The character 庆(慶) (qìng, 'celebrate') combines a sense of grandness and a place of gathering, suggesting a communal celebration, often under a roof.",
+    "simplification": "广(广) (guǎng, 'shelter') was retained, while a simplified component 大(大) (dà, 'big') maintained the phonetic element, focusing on the sense of a grand event."
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们庆祝朋友的生日(我們慶祝朋友的生日)。",
+      "pinyin": "Wǒmen qìngzhù péngyǒu de shēngrì.",
+      "english": "We celebrate our friend's birthday."
+    },
+    {
+      "chinese": "每逢佳节时(每逢佳節時)，家家户户共庆团圆(家家戶戶共慶團圓)。",
+      "pinyin": "Měi féng jiājié shí, jiājiā hùhù gòng qìng tuányuán.",
+      "english": "Every festive season, every household celebrates reunion."
+    },
+    {
+      "chinese": "春风拂面时(春風拂面時)，大地复苏促人庆新生(大地復蘇促人慶新生)。",
+      "pinyin": "Chūnfēng fú miàn shí, dàdì fùsū cù rén qìng xīnshēng.",
+      "english": "When the spring breeze caresses the face, the revitalized earth prompts people to celebrate new life."
+    }
+  ]
+}

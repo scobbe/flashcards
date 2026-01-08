@@ -1,0 +1,39 @@
+{
+  "simplified": "栅",
+  "traditional": "柵",
+  "pinyin": "zhà",
+  "english": "fence; palisade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree; wood\") + 冊(冊) (cè, \"a form made by lining up pieces of wood and binding them together\") = a structure of bound wood pieces → fence",
+    "interpretation": "The character 栅(柵) (zhà, \"fence\") logically combines the idea of wood with that of lined up and bound pieces, effectively representing a fence or palisade.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    },
+    {
+      "char": "冊",
+      "trad": "冊",
+      "pinyin": "cè",
+      "english": "a form made by lining up pieces of wood and binding them together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在城边修建了栅(他在城邊修建了柵)，以保护村庄(以保護村莊)。",
+      "pinyin": "tā zài chéng biān xiū jiàn le zhà, yǐ bǎo hù cūn zhuāng.",
+      "english": "He built a fence on the edge of the city to protect the village."
+    },
+    {
+      "chinese": "庭院里的栅隔开了前后花园(庭院裡的柵隔開了前後花園)。",
+      "pinyin": "tíng yuàn lǐ de zhà gé kāi le qián hòu huā yuán.",
+      "english": "The fence in the courtyard separates the front and back gardens."
+    }
+  ]
+}

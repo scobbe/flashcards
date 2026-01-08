@@ -1,0 +1,33 @@
+{
+  "simplified": "乍",
+  "traditional": "乍",
+  "pinyin": "zhà",
+  "english": "sudden",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an axe chopping wood -> original form of 柞(柞) (zhà, \"oak\")",
+    "interpretation": "乍(乍) (zhà, \"sudden\") originally depicted an axe, which relates to the sharp, sudden action of chopping. It was later borrowed phonetically to represent the concept of 'sudden' rather than the literal act of chopping.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "柞",
+      "trad": "柞",
+      "pinyin": "zhà",
+      "english": "oak"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天边乍露红霞(天邊乍露紅霞)，预示即将日落(預示即將日落)。",
+      "pinyin": "Tiānbiān zhà lù hóngxiá, yùshì jíjiāng rìluò.",
+      "english": "A red glow suddenly appears on the horizon, signaling the imminent sunset."
+    },
+    {
+      "chinese": "雷声乍响(雷聲乍響)，预告暴风雨临近(預告暴風雨臨近)。",
+      "pinyin": "Léi shēng zhà xiǎng, yùgào bào fēng yǔ lín jìn.",
+      "english": "The thunder roars suddenly, announcing that a storm is approaching."
+    }
+  ]
+}

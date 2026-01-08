@@ -1,0 +1,44 @@
+{
+  "simplified": "影",
+  "traditional": "影",
+  "pinyin": "yǐng",
+  "english": "shadow; reflection; image",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 彡(彡) (shān, \"hair-like stripes\") + phonetic: 旡(旡) (jì) -> 彡 represents the shimmer or movement of a shadow, while 旡 contributes the sound",
+    "interpretation": "影(影) (yǐng, \"shadow\") visually combines 彡(彡) (shān, \"hair-like stripes\"), suggesting the motion or waviness of shadows, with 旡(旡) (jì) to provide the phonetic component. This unique combination successfully conveys the idea of a shadow or reflection due to its visual and auditory cues.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "hair-like stripes"
+    },
+    {
+      "char": "旡",
+      "trad": "旡",
+      "pinyin": "jì",
+      "english": "partial phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "晚风轻拂(晚風輕拂)，窗影摇曳(窗影搖曳)。",
+      "pinyin": "Wǎn fēng qīng fú, chuāng yǐng yáo yè.",
+      "english": "The gentle evening breeze brushes, and the window shadows sway."
+    },
+    {
+      "chinese": "湖面倒影静谧(湖面倒影靜謐)。",
+      "pinyin": "Hú miàn dào yǐng jìng mì.",
+      "english": "The lake's reflection is serene."
+    },
+    {
+      "chinese": "山影浮动(山影浮動)，云卷云舒(雲捲雲舒)。",
+      "pinyin": "Shān yǐng fú dòng, yún juǎn yún shū.",
+      "english": "The mountain shadows float, while the clouds roll and relax."
+    }
+  ]
+}

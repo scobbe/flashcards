@@ -1,0 +1,39 @@
+{
+  "simplified": "原",
+  "traditional": "原",
+  "pinyin": "yuán",
+  "english": "origin",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "泉(泉) (quán, \"spring\") + 厂(厂) (chǎng, \"cliff\") = a spring bursting from a cliff-side -> origin",
+    "interpretation": "The character 原(yuán) illustrates the concept of an origin by depicting a source of water, a spring 泉(quán), emerging from a cliff 厂(chǎng). This representation of a spring from a cliff metaphorically suggests the beginning or source of water, symbolizing the concept of origin.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "泉",
+      "trad": "泉",
+      "pinyin": "quán",
+      "english": "spring"
+    },
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "cliff"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每个传说都有它的原(每個傳說都有它的原)，我们应回溯历史寻找真相(我們應回溯歷史尋找真相)。",
+      "pinyin": "měi gè chuánshuō dōu yǒu tā de yuán, wǒmen yīng huísuō lìshǐ xúnzhǎo zhēnxiàng.",
+      "english": "Every legend has its origin; we should retrace history to seek the truth."
+    },
+    {
+      "chinese": "古老文化的原(古老文化的原)，蕴藏着智慧之光(蘊藏著智慧之光)。",
+      "pinyin": "gǔlǎo wénhuà de yuán, yùncáng zhe zhìhuì zhī guāng.",
+      "english": "The origin of ancient culture conceals the light of wisdom."
+    }
+  ]
+}

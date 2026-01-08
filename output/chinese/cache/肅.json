@@ -1,0 +1,44 @@
+{
+  "simplified": "肅",
+  "traditional": "肅",
+  "pinyin": "sù",
+  "english": "solemn",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "彳(彳) (chì, \"step\") + 聿(聿) (yù, \"brush\") + 肅(肅) (sù, phonetic component) = ceremonious behavior -> solemn",
+    "interpretation": "The character 肅(肅) (sù, \"solemn\") combines 彳(彳) (chì, \"step\"), suggesting movement or action, and the phonetic 聿(聿) (yù, \"brush\"), associated with writing or noble pursuits, to convey a sense of formal, solemn demeanor.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "brush"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在纪念碑前保持着肅静(他在紀念碑前保持著肅靜)。",
+      "pinyin": "Tā zài jìniànbēi qián bǎochí zhe sùjìng.",
+      "english": "He maintained a solemn silence in front of the monument."
+    },
+    {
+      "chinese": "军人肃立(軍人肅立)，目光专注(目光專注)。",
+      "pinyin": "Jūnrén sùlì, mùguāng zhuānzhù.",
+      "english": "The soldiers stood solemnly, their gazes focused."
+    },
+    {
+      "chinese": "仪式庄严(儀式莊嚴)，气氛肅穆(氣氛肅穆)。",
+      "pinyin": "Yíshì zhuāngyán, qìfēn sùmù.",
+      "english": "The ceremony was solemn, and the atmosphere was dignified."
+    }
+  ]
+}

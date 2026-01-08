@@ -1,0 +1,39 @@
+{
+  "simplified": "扫码",
+  "traditional": "掃碼",
+  "pinyin": "sǎomǎ",
+  "english": "scan a code",
+  "etymology": {
+    "type": "compound word",
+    "description": "扫(掃) (sǎo, \"sweep\") + 码(碼) (mǎ, \"code\")",
+    "interpretation": "Scan a code is derived from the action of sweeping (扫/掃) the surface to read a code (码/碼), typically with a digital device. This action mimics the sweeping motion in operating devices like scanners or smartphones to read QR codes or barcodes.",
+    "simplification": "扫(掃) for 掃 and 码(碼) for 碼"
+  },
+  "parts": [
+    {
+      "char": "扫",
+      "trad": "掃",
+      "pinyin": "sǎo",
+      "english": "sweep"
+    },
+    {
+      "char": "码",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你扫码(請你掃碼)，获取优惠信息(獲取優惠信息)。",
+      "pinyin": "Qǐng nǐ sǎomǎ, huòqǔ yōuhuì xìnxī.",
+      "english": "Please scan the code to receive discount information."
+    },
+    {
+      "chinese": "他在商店扫码(他在商店掃碼)，查看商品详情(查看商品詳情)。",
+      "pinyin": "Tā zài shāngdiàn sǎomǎ, chá kàn shāngpǐn xiángqíng.",
+      "english": "He scanned the code in the store to check the product details."
+    }
+  ]
+}

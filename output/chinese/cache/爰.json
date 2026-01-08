@@ -1,0 +1,44 @@
+{
+  "simplified": "爰",
+  "traditional": "爰",
+  "pinyin": "yuán",
+  "english": "because",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "爫('hand, claw') + 又('hand') -> combination of two hands -> 'because'",
+    "interpretation": "The character originally represented two outstretched hands, symbolizing an action or transaction, which evolved into the meaning 'because'. This suggests a connection or linkage between actions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爫",
+      "trad": "爫",
+      "pinyin": "zhǎo",
+      "english": "hand, claw"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他迟到(他遲到)，爰交通堵塞(爰交通堵塞)。",
+      "pinyin": "Tā chí dào, yuán jiāotōng dǔsè。",
+      "english": "He was late because of traffic congestion."
+    },
+    {
+      "chinese": "我不敢出门(我不敢出門)，爰天气骤变(爰天氣驟變)。",
+      "pinyin": "Wǒ bù gǎn chūmén, yuán tiānqì zhòubiàn。",
+      "english": "I dare not go out because the weather suddenly changed."
+    },
+    {
+      "chinese": "我未能赴约(我未能赴約)，爰约定时间冲突(爰約定時間衝突)。",
+      "pinyin": "Wǒ wèi néng fùyuē, yuán yuēdìng shíjiān chōngtú。",
+      "english": "I could not make the appointment because the scheduled time conflicted."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "执",
+  "traditional": "執",
+  "pinyin": "zhí",
+  "english": "to hold",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 手(扌) (shǒu, \"hand\") + phonetic: 幸(幸) (xìng) = hand holding firmly -> to hold",
+    "interpretation": "The character consists of 手(扌) (shǒu, \"hand\"), which suggests the action of holding or grasping, combined with the phonetic 幸(幸) (xìng), indicating the pronunciation. This combination signifies the action of holding something firmly.",
+    "simplification": "執(執)→执(執): 彳(彳) (chì, \"step\") removed for a simpler structure."
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "幸",
+      "trad": "幸",
+      "pinyin": "xìng",
+      "english": "happiness"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他执笔写下心声(他執筆寫下心聲)。",
+      "pinyin": "Tā zhí bǐ xiě xià xīn shēng.",
+      "english": "He held the pen to write his heartfelt thoughts."
+    },
+    {
+      "chinese": "战士手执利剑(戰士手執利劍)，冲锋陷阵(衝鋒陷陣)。",
+      "pinyin": "Zhànshì shǒu zhí lì jiàn, chōng fēng xiàn zhèn.",
+      "english": "The warrior held a sharp sword, charging into battle."
+    }
+  ]
+}

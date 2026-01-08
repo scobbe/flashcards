@@ -1,0 +1,39 @@
+{
+  "simplified": "辈",
+  "traditional": "輩",
+  "pinyin": "bèi",
+  "english": "generation; lifetime",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "車(車) (chē, \"car\") + 非(非) (fēi) = vehicle metaphorical meaning plus sound -> generation, lifetime",
+    "interpretation": "The character 辈(輩) combines 車(車) (chē, \"car\") which represents progression over time or distance, with 非(非) (fēi) providing the phonetic component, to convey the idea of a generation or lifetime as a progression through time.",
+    "simplification": "车(車) (chē, \"car\") simplified to 车(车), retaining the original sound and meaning without affecting the interpretation."
+  },
+  "parts": [
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "car"
+    },
+    {
+      "char": "非",
+      "trad": "非",
+      "pinyin": "fēi",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是我们这一辈的骄傲(他是我們這一輩的驕傲)。",
+      "pinyin": "Tā shì wǒmen zhè yī bèi de jiāo'ào.",
+      "english": "He is the pride of our generation."
+    },
+    {
+      "chinese": "老人告诉我(老人告訴我)，历史是由不同辈铸就的(歷史是由不同輩鑄就的)。",
+      "pinyin": "Lǎorén gàosù wǒ, lìshǐ shì yóu bùtóng bèi zhùjiù de.",
+      "english": "The old man told me, history is forged by different generations."
+    }
+  ]
+}

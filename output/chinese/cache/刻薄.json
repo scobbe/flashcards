@@ -1,0 +1,44 @@
+{
+  "simplified": "刻薄",
+  "traditional": "刻薄",
+  "pinyin": "kèbó",
+  "english": "unkind; harsh; mean",
+  "etymology": {
+    "type": "compound word",
+    "description": "刻(刻) (kè, \"to cut\") refers to carving or engraving, often suggesting precision or severity. 薄(薄) (bó, \"thin; meagre\") implies lack of substance or depth.",
+    "interpretation": "The combination of 刻(刻) (kè, \"to cut\") and 薄(薄) (bó, \"thin\") suggests a demeanor that is cutting or sharp in a way that lacks warmth or empathy, hence the meaning 'unkind; harsh; mean.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刻",
+      "trad": "刻",
+      "pinyin": "kè",
+      "english": "to cut; carve; moment; severe"
+    },
+    {
+      "char": "薄",
+      "trad": "薄",
+      "pinyin": "bó",
+      "english": "thin; meagre; light; slight"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的刻薄令人胆寒(她的刻薄令人膽寒)。",
+      "pinyin": "Tā de kèbó lìng rén dǎn hán.",
+      "english": "Her meanness is intimidating."
+    },
+    {
+      "chinese": "他说话直率(他說話直率)，但有时显得刻薄(但有時顯得刻薄)。",
+      "pinyin": "Tā shuōhuà zhíshuài, dàn yǒu shí xiǎn de kèbó.",
+      "english": "He speaks frankly, but sometimes he appears mean."
+    },
+    {
+      "chinese": "他的刻薄使朋友远离(他的刻薄使朋友遠離)。",
+      "pinyin": "Tā de kèbó shǐ péngyǒu yuǎn lí.",
+      "english": "His meanness drives friends away."
+    }
+  ]
+}

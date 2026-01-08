@@ -1,0 +1,33 @@
+{
+  "simplified": "龙",
+  "traditional": "龍",
+  "pinyin": "lóng",
+  "english": "dragon; imperial",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辰(辰) (chén, \"early form of dragon\") as phonetic + stylized depiction of a dragon body = 龙 -> dragon",
+    "interpretation": "龙(龍) (lóng, \"dragon\") combines a phonetic element from 辰(辰) (chén, \"early form of dragon\") with a stylized representation of a dragon's body, capturing both sound and essence to represent the mythical creature.",
+    "simplification": "龙(龍) simplified by combining phonetic 辰(辰) with a less detailed body form to represent the dragon."
+  },
+  "parts": [
+    {
+      "char": "辰",
+      "trad": "辰",
+      "pinyin": "chén",
+      "english": "early form of dragon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "传说中的龙能呼风唤雨(傳說中的龍能呼風喚雨)。",
+      "pinyin": "Chuánshuō zhōng de lóng néng hū fēng huàn yǔ.",
+      "english": "The legendary dragon can summon wind and rain."
+    },
+    {
+      "chinese": "皇宫中悬挂着龙袍(皇宮中懸掛著龍袍)，象征着至高无上的权力(象徵著至高無上的權力)。",
+      "pinyin": "Huánggōng zhōng xuánguà zhe lóng páo, xiàngzhēng zhe zhìgāo wúshàng de quánlì.",
+      "english": "In the imperial palace, the dragon robe hangs, symbolizing supreme power."
+    }
+  ]
+}

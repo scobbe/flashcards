@@ -1,0 +1,26 @@
+{
+  "simplified": "叀",
+  "traditional": "叀",
+  "pinyin": "zhuān",
+  "english": "phonetic",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a spindle",
+    "interpretation": "The character 叀(叀) (zhuān, \"phonetic\") originally depicted a spindle, capturing the form of a tool used for spinning thread.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "学者研究叀的音义(學者研究叀的音義)。",
+      "pinyin": "Xuézhě yánjiū zhuān de yīnyì.",
+      "english": "Scholars study the phonetic meaning of 叀."
+    },
+    {
+      "chinese": "书法中常用叀表达音韵(書法中常用叀表達音韻)，显示其独特魅力(顯示其獨特魅力)。",
+      "pinyin": "Shūfǎ zhōng chángyòng zhuān biǎodá yīnyùn, xiǎnshì qí dútè mèilì.",
+      "english": "In calligraphy, 叀 is often used to express phonetics, showcasing its unique charm."
+    }
+  ]
+}

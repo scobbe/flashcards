@@ -1,0 +1,44 @@
+{
+  "simplified": "醉",
+  "traditional": "醉",
+  "pinyin": "zuì",
+  "english": "drunk; intoxicated",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 酉(酉) (yǒu, \"wine jar\") + phonetic: 卆(卆) (zú, \"graduation\", phonetic) = related to alcohol -> intoxicated",
+    "interpretation": "醉(醉) (zuì, \"drunk\") combines the wine jar 酉(酉) (yǒu, \"wine jar\") indicating the character's association with alcoholic beverages, and 卆(卆) (zú) for its phonetic contribution. This signifies a state induced by consuming wine or alcohol.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "wine jar"
+    },
+    {
+      "char": "卆",
+      "trad": "卆",
+      "pinyin": "zú",
+      "english": "graduation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他昨晚喝醉了(他昨晚喝醉了)。",
+      "pinyin": "Tā zuówǎn hē zuì le.",
+      "english": "He got drunk last night."
+    },
+    {
+      "chinese": "宴会进行时(宴會進行時)，他已经醉得说不出话来(他已經醉得說不出話來)。",
+      "pinyin": "Yànhuì jìnxíng shí, tā yǐjīng zuì dé shuō bù chū huà lái.",
+      "english": "During the banquet, he was so drunk that he couldn’t speak."
+    },
+    {
+      "chinese": "那个歌手表演时(那個歌手表演時)，一边唱歌一边似乎醉了(一邊唱歌一邊似乎醉了)。",
+      "pinyin": "Nàgè gēshǒu biǎoyǎn shí, yībiān chànggē yībiān sìhū zuì le.",
+      "english": "The singer, while performing, seemed intoxicated as he sang."
+    }
+  ]
+}

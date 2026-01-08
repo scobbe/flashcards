@@ -1,0 +1,44 @@
+{
+  "simplified": "役",
+  "traditional": "役",
+  "pinyin": "yì",
+  "english": "military service; campaign",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 彳(彳) (chì, \"step\") + phonetic: 殳(殳) (shū, \"weapon\") = moving with a weapon -> military service",
+    "interpretation": "The character 役(yì) combines 彳 (chì, \"step\"), suggesting movement or marching, with 殳 (shū, \"weapon\"), indicating martial activity, to conceptually form the idea of military service or a campaign.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "weapon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他服役已经三年了(他服役已經三年了)。",
+      "pinyin": "Tā fú yì yǐ jīng sān nián le.",
+      "english": "He has served in the military for three years."
+    },
+    {
+      "chinese": "政府推行义务役制度(政府推行義務役制度)，鼓励年轻人参军(鼓勵年輕人參軍)。",
+      "pinyin": "Zhèng fǔ tuī xíng yì wù yì zhì dù, gǔ lì nián qīng rén cān jūn.",
+      "english": "The government implements the compulsory military service system and encourages young people to join the army."
+    },
+    {
+      "chinese": "史书记载的一次大役改变了历史(史書記載的一次大役改變了歷史)。",
+      "pinyin": "Shǐ shū jì zǎi de yī cì dà yì gǎi biàn le lì shǐ.",
+      "english": "Historical records note that a major military campaign changed history."
+    }
+  ]
+}

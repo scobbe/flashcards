@@ -1,0 +1,39 @@
+{
+  "simplified": "空",
+  "traditional": "空",
+  "pinyin": "kōng",
+  "english": "empty",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 穴(穴) (xué, \"cave, hole\") + Phonetic: 工(工) (gōng) = cave-like space with 工 phonetically suggesting 'kōng' -> empty",
+    "interpretation": "The character 空(kōng) combines 穴(穴) (xué, \"cave, hole\") to represent an empty or hollow space, alongside 工(工) (gōng) to provide the pronunciation, resulting in the meaning of \"empty.\" It intuitively depicts a space with nothing inside.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "穴",
+      "trad": "穴",
+      "pinyin": "xué",
+      "english": "cave, hole"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "杯子是空的(杯子是空的)。",
+      "pinyin": "Bēizi shì kōng de.",
+      "english": "The cup is empty."
+    },
+    {
+      "chinese": "他的心空空如也(他的心空空如也)，没有一丝温暖(沒有一絲溫暖)。",
+      "pinyin": "Tā de xīn kōng kōng rú yě, méiyǒu yī sī wēnnuǎn.",
+      "english": "His heart is utterly empty, with not a trace of warmth."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "佥",
+  "traditional": "僉",
+  "pinyin": "qiān",
+  "english": "",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亼(亼) (jí, \"gather\") + 吅(吅) (xuān, \"shout\") + 从(从) (cóng, \"follow\") = people responding unanimously -> unanimous agreement",
+    "interpretation": "This character visually combines elements representing gathering, shouting, and following, which effectively conveys a sense of collective response or unanimous agreement. The inclusion of 僉(僉) (qiān) has maintained this meaning, reflecting a collective action by multiple individuals.",
+    "simplification": "佥(僉) retains the original components but was simplified with slightly altered strokes for easier writing, maintaining its semantic essence."
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
+    },
+    {
+      "char": "吅",
+      "trad": "吅",
+      "pinyin": "xuān",
+      "english": "shout"
+    },
+    {
+      "char": "从",
+      "trad": "从",
+      "pinyin": "cóng",
+      "english": "follow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "同学佥完成了作业(同學僉完成了作業)。",
+      "pinyin": "Tóngxué qiān wánchéng le zuòyè.",
+      "english": "All students completed their homework."
+    },
+    {
+      "chinese": "家人佥为他庆祝生日(家人僉為他慶祝生日)。",
+      "pinyin": "Jiārén qiān wéi tā qìngzhù shēngrì.",
+      "english": "All family members celebrated his birthday."
+    },
+    {
+      "chinese": "朋友佥送上真诚的祝福(朋友僉送上真誠的祝福)。",
+      "pinyin": "Péngyǒu qiān sòng shàng zhēnchéng de zhùfú.",
+      "english": "All friends offered sincere blessings."
+    }
+  ]
+}

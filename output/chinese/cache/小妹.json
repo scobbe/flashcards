@@ -1,0 +1,39 @@
+{
+  "simplified": "小妹",
+  "traditional": "小妹",
+  "pinyin": "xiǎomèi",
+  "english": "little sister; young woman",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small; little\") combined with 妹(妹) (mèi, \"younger sister\")",
+    "interpretation": "小妹 refers to a 'little sister' and is also commonly used to refer to a 'young woman.' This term highlights the familial and respectful way young women are sometimes addressed, often in informal or familial settings. In traditional Chinese culture, family relationships and their respective titles hold significant importance in demonstrating respect and hierarchy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little"
+    },
+    {
+      "char": "妹",
+      "trad": "妹",
+      "pinyin": "mèi",
+      "english": "younger sister"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的小妹很聪明(我的小妹很聰明)。",
+      "pinyin": "Wǒ de xiǎomèi hěn cōngmíng.",
+      "english": "My little sister is very smart."
+    },
+    {
+      "chinese": "昨天我带小妹去公园(昨天我帶小妹去公園)，她玩得很开心(她玩得很開心)。",
+      "pinyin": "Zuótiān wǒ dài xiǎomèi qù gōngyuán, tā wán dé hěn kāixīn.",
+      "english": "Yesterday, I took my little sister to the park, and she had a lot of fun."
+    }
+  ]
+}

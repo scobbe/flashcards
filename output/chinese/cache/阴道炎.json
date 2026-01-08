@@ -1,0 +1,45 @@
+{
+  "simplified": "阴道炎",
+  "traditional": "陰道炎",
+  "pinyin": "yīndàoyán",
+  "english": "vaginitis",
+  "etymology": {
+    "type": "compound word",
+    "description": "阴(陰) (yīn, \"yin; shadow\"), 道(道) (dào, \"path; way\"), 炎(炎) (yán, \"inflammation; flame\")",
+    "interpretation": "阴道炎(陰道炎) (yīndàoyán, \"vaginitis\") combines 阴(陰) (yīn, \"yin; shadow\"), 道(道) (dào, \"path; way\"), and 炎(炎) (yán, \"inflammation; flame\") to describe an inflammation of the vaginal path in the body. The characters reflect the concept of a 'shadow path' referring to parts related to internal or hidden organs, with 'inflammation' indicating a medical condition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "阴",
+      "trad": "陰",
+      "pinyin": "yīn",
+      "english": "yin; shadow"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "path; way"
+    },
+    {
+      "char": "炎",
+      "trad": "炎",
+      "pinyin": "yán",
+      "english": "inflammation; flame"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她因感染而患上阴道炎(她因感染而患上陰道炎)，医生建议她及时治疗(醫生建議她及時治療)。",
+      "pinyin": "Tā yīn gǎnrǎn ér huàn shàng yīndàoyán, yīshēng jiànyì tā jíshí zhìliáo.",
+      "english": "She contracted vaginitis due to an infection, and her doctor advised prompt treatment."
+    },
+    {
+      "chinese": "她出现阴道炎的症状(她出現陰道炎的症狀)，需及早就医(需及早就醫)。",
+      "pinyin": "Tā chūxiàn yīndàoyán de zhèngzhuàng, xū jízǎo jiùyī.",
+      "english": "She exhibited symptoms of vaginitis and needs to seek medical attention early."
+    }
+  ]
+}

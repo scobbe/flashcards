@@ -1,0 +1,44 @@
+{
+  "simplified": "凯里",
+  "traditional": "凱里",
+  "pinyin": "Kǎilǐ",
+  "english": "Kaili City",
+  "etymology": {
+    "type": "compound word",
+    "description": "凯(凱) (kǎi, \"triumphant\") + 里(里) (lǐ, \"village; neighborhood\") = the name of Kaili City, suggesting a place of triumph.",
+    "interpretation": "The name 凯里(凱里) (Kǎilǐ) combines the notion of triumph with the concept of community or village. It suggests a place of success or victory, possibly reflecting aspirations or historical significance attributed to Kaili City.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "凯",
+      "trad": "凱",
+      "pinyin": "kǎi",
+      "english": "triumphant; victorious"
+    },
+    {
+      "char": "里",
+      "trad": "里",
+      "pinyin": "lǐ",
+      "english": "village; neighborhood; inner; inside"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划明天去凯里(我計劃明天去凱里)。",
+      "pinyin": "Wǒ jìhuà míngtiān qù Kǎilǐ.",
+      "english": "I plan to go to Kaili tomorrow."
+    },
+    {
+      "chinese": "凯里风光迷人(凱里風光迷人)，吸引了众多游客(吸引了眾多遊客)。",
+      "pinyin": "Kǎilǐ fēngguāng mírén, xīyǐnle zhòngduō yóukè.",
+      "english": "The scenery of Kaili is charming, attracting many tourists."
+    },
+    {
+      "chinese": "在贵州的腹地有凯里(在貴州的腹地有凱里)。",
+      "pinyin": "Zài Guìzhōu de fùdì yǒu Kǎilǐ.",
+      "english": "Kaili is located in the heartland of Guizhou."
+    }
+  ]
+}

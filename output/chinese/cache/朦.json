@@ -1,0 +1,39 @@
+{
+  "simplified": "朦",
+  "traditional": "朦",
+  "pinyin": "méng",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 月(月) (yuè, \"moon\") + Phonetic: 蒙(蒙) (méng, \"cover\") = moon covered or obscured -> dim, unclear",
+    "interpretation": "The character 朦(méng) combines 月(月) (yuè, \"moon\"), reflecting its association with the moon, and 蒙(蒙) (méng, \"cover\"), indicating something obscured or dim. This suggests an image of the moon being partially hidden, relating to conditions where visibility is impaired.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    },
+    {
+      "char": "蒙",
+      "trad": "蒙",
+      "pinyin": "méng",
+      "english": "cover"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "远处灯光朦(遠處燈光朦)，让夜晚显得神秘(讓夜晚顯得神秘)。",
+      "pinyin": "Yuǎnchù dēngguāng méng, ràng yèwǎn xiǎnde shénmì.",
+      "english": "The distant lights are hazy, making the night appear mysterious."
+    },
+    {
+      "chinese": "他的记忆朦(他的記憶朦)，历经岁月洗礼(歷經歲月洗禮)。",
+      "pinyin": "Tā de jìyì méng, lìjīng suìyuè xǐlǐ.",
+      "english": "His memories are hazy, having been refined by the passage of time."
+    }
+  ]
+}

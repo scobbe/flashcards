@@ -1,0 +1,39 @@
+{
+  "simplified": "将",
+  "traditional": "將",
+  "pinyin": "jiāng",
+  "english": "lead",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 爿(爿) (pán, 'bed') + phonetic: 丬(丬) (jiāng, phonetic component) = leading by taking to bed (figurative for keeping close control) -> lead",
+    "interpretation": "The character 将(將) combines 爿(爿) (pán, 'bed') as a semantic indicator suggesting the idea of handling or supporting, with 丬(丬) for its phonetic contribution, creating a representation of leading or taking charge.",
+    "simplification": "將(將)→将(將): 爿(爿) (pán, 'bed') was removed entirely, retaining only the simplified phonetic 丬(丬)."
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "bed"
+    },
+    {
+      "char": "丬",
+      "trad": "丬",
+      "pinyin": "jiāng",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他将军队带向胜利(他將軍隊帶向勝利)。",
+      "pinyin": "Tā jiāng jūnduì dài xiàng shènglì.",
+      "english": "He leads the army towards victory."
+    },
+    {
+      "chinese": "将领率队征战沙场(將領率隊征戰沙場)，赢得民心拥戴(贏得民心擁戴)。",
+      "pinyin": "Jiānglǐng shuài duì zhēngzhàn shāchǎng, yíngdé mínxīn yōngdài.",
+      "english": "The general leads his troops into battle, winning the people's admiration."
+    }
+  ]
+}

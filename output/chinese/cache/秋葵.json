@@ -1,0 +1,44 @@
+{
+  "simplified": "秋葵",
+  "traditional": "秋葵",
+  "pinyin": "qiū kuí",
+  "english": "okra",
+  "etymology": {
+    "type": "compound word",
+    "description": "秋(秋) (qiū, \"autumn\") and 葵(葵) (kuí, \"mallow\") combine to refer to okra, a vegetable often labeled as a type of mallow. The term emphasizes the plant’s classification within the mallow family and its seasonal growth pattern.",
+    "interpretation": "Okra, known as 秋葵, connects to its botanical family (mallow) and typical growth season. The name highlights its place in the plant kingdom and agricultural cycle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "秋",
+      "trad": "秋",
+      "pinyin": "qiū",
+      "english": "autumn; harvest; crops"
+    },
+    {
+      "char": "葵",
+      "trad": "葵",
+      "pinyin": "kuí",
+      "english": "mallow; sunflower; hibiscus"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋葵富含有益健康的营养成分(秋葵富含有益健康的營養成分)。",
+      "pinyin": "qiū kuí fù hán yǒu yì jiàn kāng de yíng yǎng chéng fèn.",
+      "english": "Okra is rich in nutrients that are beneficial for health."
+    },
+    {
+      "chinese": "我常在夏天品尝秋葵(我常在夏天品嚐秋葵)，它清爽可口(它清爽可口)。",
+      "pinyin": "wǒ cháng zài xià tiān pǐn cháng qiū kuí, tā qīng shuǎng kě kǒu.",
+      "english": "I often taste okra in the summer; it is refreshingly delicious."
+    },
+    {
+      "chinese": "农夫精心培育秋葵(農夫精心培育秋葵)，期待丰收的季节(期待豐收的季節)。",
+      "pinyin": "nóng fū jīng xīn péi yù qiū kuí, qí dài fēng shōu de jì jié.",
+      "english": "The farmer carefully cultivates okra, looking forward to a season of bountiful harvest."
+    }
+  ]
+}

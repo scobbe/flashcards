@@ -1,0 +1,39 @@
+{
+  "simplified": "奎",
+  "traditional": "奎",
+  "pinyin": "kuí",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "大(大) (dà, \"big\") + 圭(圭) (guī) = combines the idea of largeness with the phonetic influence of 圭",
+    "interpretation": "The character 奎(奎) (kuí, \"phonetic\") uses 大(大) (dà, \"big\") as the semantic component and 圭(圭) (guī) as the phonetic component. While 圭(圭) typically represents a type of jade object not related to earth, in this character, it contributes the sound component. The concept of earth may have been added due to visual interpretation in the script rather than phonetic or semantic meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "圭",
+      "trad": "圭",
+      "pinyin": "guī",
+      "english": "ritual jade object"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "专家解说“奎”字的由来(專家解說「奎」字的由來)，分析其音韵变化(分析其音韻變化)。",
+      "pinyin": "zhuānjiā jiěshuō “kuí” zì de yóulái ， fēnxī qí yīnyùn biànhuà 。",
+      "english": "The expert explained the origin of the character '奎' and analyzed its phonetic evolution."
+    },
+    {
+      "chinese": "老师教我们如何读“奎”字(老師教我們如何讀「奎」字)。",
+      "pinyin": "lǎoshī jiāo wǒmen rúhé dú “kuí” zì 。",
+      "english": "The teacher taught us how to read the character '奎'."
+    }
+  ]
+}

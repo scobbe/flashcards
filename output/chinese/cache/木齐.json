@@ -1,0 +1,31 @@
+{
+  "simplified": "木齐",
+  "traditional": "木齊",
+  "pinyin": "mùqí",
+  "english": "mqi",
+  "etymology": {
+    "type": "compound word",
+    "description": "木(木) (mù, \"wood\") and 齐(齊) (qí, \"together; uniform\").",
+    "interpretation": "木齐(木齊) (mùqí) consists of 木(木) (mù, \"wood\") and 齐(齊) (qí, \"together; uniform\"). While the literal meaning appears to suggest something like 'wood together' or 'uniform wood,' this term is primarily recognized as an abbreviation for 乌鲁木齐(烏魯木齊) (Wūlǔmùqí), the capital city of the Xinjiang Uygur Autonomous Region in China. It is commonly used to refer to the city in a shortened form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在展览中展示了木齐(他在展覽中展示了木齊)。",
+      "pinyin": "Tā zài zhǎnlǎn zhōng zhǎnshì le mùqí.",
+      "english": "He displayed the mqi at the exhibition."
+    },
+    {
+      "chinese": "这些木齐历经岁月洗礼(這些木齊歷經歲月洗禮)，依旧散发古朴韵味(依舊散發古樸韻味)。",
+      "pinyin": "Zhèxiē mùqí lìjīng suìyuè xǐlǐ, yījiù sànfā gǔpǔ yùnwèi.",
+      "english": "These mqis have withstood the test of time, still exuding a rustic charm."
+    },
+    {
+      "chinese": "大家对木齐的使用方式各有不同(大家對木齊的使用方式各有不同)。",
+      "pinyin": "Dàjiā duì mùqí de shǐyòng fāngshì gè yǒu bùtóng.",
+      "english": "Everyone uses the mqi in different ways."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "湛江市",
+  "traditional": "湛江市",
+  "pinyin": "Zhànjiāng Shì",
+  "english": "Zhanjiang City",
+  "etymology": {
+    "type": "compound word",
+    "description": "湛(湛) (zhàn, \"deep\") + 江(江) (jiāng, \"river\") + 市(市) (shì, \"city\") = Zhanjiang City, a name indicating the city's location near a river and its status as a city.",
+    "interpretation": "Zhanjiang is a city in Guangdong Province, China, named for its proximity to a river, emphasizing the significance of water bodies in the region.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "湛",
+      "trad": "湛",
+      "pinyin": "zhàn",
+      "english": "deep; clear"
+    },
+    {
+      "char": "江",
+      "trad": "江",
+      "pinyin": "jiāng",
+      "english": "river"
+    },
+    {
+      "char": "市",
+      "trad": "市",
+      "pinyin": "shì",
+      "english": "city; market; town"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在湛江市(我住在湛江市)。",
+      "pinyin": "Wǒ zhù zài Zhànjiāng Shì.",
+      "english": "I live in Zhanjiang City."
+    },
+    {
+      "chinese": "我到达湛江市后(我到達湛江市後)，便参观了当地的博物馆(便參觀了當地的博物館)。",
+      "pinyin": "Wǒ dàodá Zhànjiāng Shì hòu, biàn cānguānle dāngdì de bówùguǎn.",
+      "english": "After arriving in Zhanjiang City, I visited the local museum."
+    },
+    {
+      "chinese": "湛江市经济发展迅速(湛江市經濟發展迅速)。",
+      "pinyin": "Zhànjiāng Shì jīngjì fāzhǎn xùnsù.",
+      "english": "The economy of Zhanjiang City is developing rapidly."
+    }
+  ]
+}

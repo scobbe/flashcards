@@ -1,0 +1,44 @@
+{
+  "simplified": "凉茶",
+  "traditional": "涼茶",
+  "pinyin": "liángchá",
+  "english": "herbal tea",
+  "etymology": {
+    "type": "compound word",
+    "description": "涼(凉) (liáng, \"cool\") + 茶(茶) (chá, \"tea\") = herbal tea",
+    "interpretation": "涼茶(涼茶) (liángchá, \"herbal tea\") refers to a type of tea believed to have cooling properties, which helps reduce internal heat according to traditional Chinese medicinal beliefs. The combination makes sense as 涼(凉) (liáng, \"cool\") implies the cooling effect the tea is supposed to provide.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "凉",
+      "trad": "涼",
+      "pinyin": "liáng",
+      "english": "cool"
+    },
+    {
+      "char": "茶",
+      "trad": "茶",
+      "pinyin": "chá",
+      "english": "tea"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夏天很热(夏天很熱)，喝一杯凉茶(喝一杯涼茶)。",
+      "pinyin": "Xiàtiān hěn rè, hē yī bēi liángchá.",
+      "english": "It's very hot in summer, so drink a cup of herbal tea."
+    },
+    {
+      "chinese": "凉茶解渴(涼茶解渴)。",
+      "pinyin": "Liángchá jiě kě.",
+      "english": "Herbal tea quenches thirst."
+    },
+    {
+      "chinese": "忙碌一天后(忙碌一天後)，喝点凉茶(喝點涼茶)。",
+      "pinyin": "Mánglù yī tiān hòu, hē diǎn liángchá.",
+      "english": "After a busy day, have some herbal tea."
+    }
+  ]
+}

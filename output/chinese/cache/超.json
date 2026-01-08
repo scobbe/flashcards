@@ -1,0 +1,44 @@
+{
+  "simplified": "超",
+  "traditional": "超",
+  "pinyin": "chāo",
+  "english": "exceed; surpass",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 走(走) (zǒu, \"run\") + phonetic: 召(召) (zhào, \"summon\") = running to summon or surpass -> exceed",
+    "interpretation": "The character 超 (chāo) combines the concept of running 走(走) (zǒu, \"run\") with a sound from 召(召) (zhào, \"summon\"), implying going beyond or surpassing norms or limits, just like running might surpass a walking pace.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "run"
+    },
+    {
+      "char": "召",
+      "trad": "召",
+      "pinyin": "zhào",
+      "english": "summon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的成绩超出班级平均水平(他的成績超出班級平均水平)。",
+      "pinyin": "tā de chéngjì chāochū bānjí píngjūn shuǐpíng",
+      "english": "His performance exceeds the class average."
+    },
+    {
+      "chinese": "他在比赛中超越对手(他在比賽中超越對手)，赢得冠军(贏得冠軍)。",
+      "pinyin": "tā zài bǐsài zhōng chāoyuè duìshǒu, yíngdé guànjūn",
+      "english": "He surpassed his opponents in the competition and won the championship."
+    },
+    {
+      "chinese": "他的热情超乎想象(他的熱情超乎想象)，鼓舞了全体队员(鼓舞了全體隊員)。",
+      "pinyin": "tā de rèqíng chāohū xiǎngxiàng, gǔwǔ le quántǐ duìyuán",
+      "english": "His enthusiasm exceeded all expectations and inspired the whole team."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "鼓",
+  "traditional": "鼓",
+  "pinyin": "gǔ",
+  "english": "drum",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "壴(壴) (zhù, \"drum\") + 支(支) (zhī, \"hand holding drumstick\") = drum being played -> drum",
+    "interpretation": "The character 鼓(gǔ) combines a depiction of a drum 壴(壴) with a hand holding a drumstick 支(支). This intuitive combination directly represents the act of drumming.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
+    },
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "hand holding drumstick"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他敲鼓(他敲鼓)。",
+      "pinyin": "Tā qiāo gǔ.",
+      "english": "He beats the drum."
+    },
+    {
+      "chinese": "音乐会开始时(音樂會開始時)，乐手敲鼓(樂手敲鼓)。",
+      "pinyin": "Yīnyuèhuì kāishǐ shí, yuèshǒu qiāo gǔ.",
+      "english": "When the concert begins, the musician beats the drum."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "街",
+  "traditional": "街",
+  "pinyin": "jiē",
+  "english": "street",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 行(行) (xíng, 'go') + phonetic: 圭(圭) (guī) = walking path + phonetic element -> street",
+    "interpretation": "The character 街(街) (jiē, 'street') combines 行(行) (xíng, 'go'), which suggests a path or place for walking, with 圭(圭) (guī) as a phonetic component, indicating the pronunciation. This reflects the concept of a street as a place for passage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "go"
+    },
+    {
+      "char": "圭",
+      "trad": "圭",
+      "pinyin": "guī",
+      "english": "jade tablet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我走在热闹的街上(我走在熱鬧的街上)。",
+      "pinyin": "Wǒ zǒu zài rè nào de jiē shàng.",
+      "english": "I walk on a bustling street."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，街边灯火辉煌(街邊燈火輝煌)。",
+      "pinyin": "Yèmù jiànglín shí, jiē biān dēng huǒ huī huáng.",
+      "english": "When night falls, the street lights shine brightly."
+    }
+  ]
+}

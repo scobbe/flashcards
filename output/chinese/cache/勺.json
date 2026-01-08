@@ -1,0 +1,31 @@
+{
+  "simplified": "勺",
+  "traditional": "勺",
+  "pinyin": "sháo",
+  "english": "spoon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a ladle or spoon with a long handle.",
+    "interpretation": "The character 勺(勺) (sháo, \"spoon\") visually resembles a spoon or ladle, representing its shape with a curved section for scooping and a handle.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "勺是一种常见的餐具(勺是一種常見的餐具)。",
+      "pinyin": "Sháo shì yī zhǒng chángjiàn de cānjù.",
+      "english": "A spoon is a common piece of tableware."
+    },
+    {
+      "chinese": "妈妈用勺(媽媽用勺)，给宝宝喂饭(給寶寶喂飯)。",
+      "pinyin": "Māmā yòng sháo, gěi bǎobǎo wèi fàn.",
+      "english": "Mom uses a spoon to feed the baby."
+    },
+    {
+      "chinese": "我喜欢这把有花纹的勺(我喜歡這把有花紋的勺)，它很特别(它很特別)。",
+      "pinyin": "Wǒ xǐhuan zhè bǎ yǒu huāwén de sháo, tā hěn tèbié.",
+      "english": "I like this patterned spoon; it is very special."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "充",
+  "traditional": "充",
+  "pinyin": "chōng",
+  "english": "to charge; to fill; to act in place of; sufficient",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "서(充) (shān, \"spear\") + 儿(人, \"person\") = person with a spear filling space -> to fill",
+    "interpretation": "The character 充(充) combines the idea of a person 儿 holding or wielding a spear or decorative object 氍, representing the act of filling or occupying a position. It effectively conveys the concept of 'filling up' or acting in place of someone, as it involves an agent (the person) and an object or action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亠",
+      "trad": "亠",
+      "pinyin": "tóu",
+      "english": "lid"
+    },
+    {
+      "char": "儿",
+      "trad": "儿",
+      "pinyin": "ér",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "手机需要充电(手機需要充電)。",
+      "pinyin": "Shǒujī xūyào chōngdiàn.",
+      "english": "The phone needs to be charged."
+    },
+    {
+      "chinese": "他充当(他充當)，班长的角色(班長的角色)。",
+      "pinyin": "Tā chōngdāng, bānzhǎng de juésè.",
+      "english": "He acted as the class monitor."
+    },
+    {
+      "chinese": "水箱充满了雨水(水箱充滿了雨水)。",
+      "pinyin": "Shuǐxiāng chōngmǎn le yǔshuǐ.",
+      "english": "The water tank is filled with rainwater."
+    }
+  ]
+}

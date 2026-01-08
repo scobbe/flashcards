@@ -1,0 +1,39 @@
+{
+  "simplified": "是",
+  "traditional": "是",
+  "pinyin": "shì",
+  "english": "be; yes; correct; right",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 疋(疋) (pǐ, \"foot\") -> semantic 日 (rì, \"sun\") meaning brightness + phonetic 疋 (pǐ, \"foot\") for sound -> correctness, truth",
+    "interpretation": "The character combines the semantic component 日(日) (rì, \"sun\") suggesting brightness or clarity, with the phonetic 疋(疋) (pǐ, \"foot\"). This represents the idea of being upright or truthful, like the sun, hence 'correct' or 'to be.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "疋",
+      "trad": "疋",
+      "pinyin": "pǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是工程师(他是工程師)。",
+      "pinyin": "Tā shì gōngchéngshī.",
+      "english": "He is an engineer."
+    },
+    {
+      "chinese": "这个果实是甜的(這個果實是甜的)，那个果实是酸的(那個果實是酸的)。",
+      "pinyin": "Zhège guǒshí shì tián de, nàgè guǒshí shì suān de.",
+      "english": "This fruit is sweet, that fruit is sour."
+    }
+  ]
+}

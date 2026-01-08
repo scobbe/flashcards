@@ -1,0 +1,51 @@
+{
+  "simplified": "胸大无脑",
+  "traditional": "胸大無腦",
+  "pinyin": "xiōng dà wú nǎo",
+  "english": "bimbo (lit. big chest no brains)",
+  "etymology": {
+    "type": "compound word",
+    "description": "胸(胸) (xiōng, \"chest\"), 大(大) (dà, \"big\"), 无(無) (wú, \"no\"), 脑(腦) (nǎo, \"brain\")",
+    "interpretation": "This expression combines 胸(胸) (xiōng, \"chest\") and 大(大) (dà, \"big\") to refer to a prominent physical feature, with 无(無) (wú, \"no\") and 脑(腦) (nǎo, \"brain\") implying a lack of intelligence. It is often used disparagingly to describe someone perceived as physically attractive but lacking in intelligence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "胸",
+      "trad": "胸",
+      "pinyin": "xiōng",
+      "english": "chest"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; large; great; major"
+    },
+    {
+      "char": "无",
+      "trad": "無",
+      "pinyin": "wú",
+      "english": "no; not; without"
+    },
+    {
+      "char": "脑",
+      "trad": "腦",
+      "pinyin": "nǎo",
+      "english": "brain; mind; head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她常常被人称为胸大无脑(她常常被人稱為胸大無腦)。",
+      "pinyin": "Tā chángcháng bèi rén chēngwéi xiōng dà wú nǎo.",
+      "english": "She is often labeled a bimbo."
+    },
+    {
+      "chinese": "有的明星虽然外表光鲜(有的明星雖然外表光鮮)，但其实她们不过是胸大无脑(但其實她們不過是胸大無腦)。",
+      "pinyin": "Yǒu de míngxīng suīrán wàibiǎo guāngxían, dàn qíshí tāmen bùguò shì xiōng dà wú nǎo.",
+      "english": "Some celebrities may appear glamorous on the outside, but in reality, they are just bimbos."
+    }
+  ]
+}

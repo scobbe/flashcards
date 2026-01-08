@@ -1,0 +1,44 @@
+{
+  "simplified": "季",
+  "traditional": "季",
+  "pinyin": "jì",
+  "english": "season",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "禾(禾) (hé, \"grain\") + 子(子) (zǐ, \"child\") = final part of harvest -> season",
+    "interpretation": "The character 季(季) reflects the concept of harvesting, with 禾(禾) representing grain and 子(子) symbolizing the completion or offspring, conveying the idea of the end of a season when grains mature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春季是万物复苏的时候(春季是萬物復蘇的時候)。",
+      "pinyin": "Chūnjì shì wànwù fùsū de shíhòu.",
+      "english": "Spring season is when all things begin to revive."
+    },
+    {
+      "chinese": "每个季都有独特的魅力(每個季都有獨特的魅力)。",
+      "pinyin": "Měi gè jì dōu yǒu dútè de mèilì.",
+      "english": "Every season has its unique charm."
+    },
+    {
+      "chinese": "夏季来了(夏季來了)，人们纷纷走出家门(人們紛紛走出家門)。",
+      "pinyin": "Xià jì lái le, rénmen fēnfēn zǒuchū jiāmén.",
+      "english": "Summer has arrived, and people are rushing out of their homes."
+    }
+  ]
+}

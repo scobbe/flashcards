@@ -5,8 +5,8 @@
   "english": "to speak",
   "etymology": {
     "type": "compound word",
-    "description": "说(說) (shuō, \"speak\") and 话(話) (huà, \"word; speech\") combine to convey the act of speaking or having a conversation, reflecting the direct action of producing words.",
-    "interpretation": "The combination suggests the action of using words (话/話) to express verbally (说/說), fitting the meaning of speaking or having a conversation.",
+    "description": "说(說) (shuō, \"speak\") + 话(話) (huà, \"speech; words\") = to speak",
+    "interpretation": "The combination of 说(說) (shuō, \"speak\") and 话(話) (huà, \"speech; words\") conveys the action of producing spoken words or engaging in verbal communication.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "说",
       "trad": "說",
       "pinyin": "shuō",
-      "english": "speak"
+      "english": "speak; say; explain; discuss"
     },
     {
       "char": "话",
       "trad": "話",
       "pinyin": "huà",
-      "english": "word; speech"
+      "english": "speech; words; utterance; language"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "请小声说话(請小聲說話)。",
-      "pinyin": "qǐng xiǎoshēng shuōhuà.",
+      "pinyin": "qǐng xiǎoshēng shuōhuà",
       "english": "Please speak quietly."
     },
     {
-      "chinese": "他善于说话(他善於說話)，能让气氛活跃(能讓氣氛活躍)。",
-      "pinyin": "tā shànyú shuōhuà, néng ràng qìfēn huóyuè.",
-      "english": "He is good at speaking and can liven up the atmosphere."
+      "chinese": "他说话有趣(他說話有趣)，让人心情愉快(讓人心情愉快)。",
+      "pinyin": "tā shuōhuà yǒuqù, ràng rén xīnqíng yúkuài",
+      "english": "His way of speaking is interesting, making people feel happy."
     },
     {
-      "chinese": "小朋友们说话时(小朋友們說話時)，要注意礼貌(要注意禮貌)。",
-      "pinyin": "xiǎopéngyǒu men shuōhuà shí, yào zhùyì lǐmào.",
-      "english": "When children speak, they should pay attention to manners."
+      "chinese": "能说话自信(能說話自信)，便能赢得尊重(便能贏得尊重)。",
+      "pinyin": "néng shuōhuà zìxìn, biàn néng yíngdé zūnzhòng",
+      "english": "Confident speaking can earn respect."
     }
   ]
 }

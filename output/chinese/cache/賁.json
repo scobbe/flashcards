@@ -1,0 +1,39 @@
+{
+  "simplified": "賁",
+  "traditional": "賁",
+  "pinyin": "bēn",
+  "english": "related to \"decorate\"",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 卉(卉) (huì, 'plant') + Semantic: 貝(貝) (bèi, 'cowry') -> loaned for 奔(奔) (bēn, 'rush') -> used for 'decorate'",
+    "interpretation": "Originally, 賁(bēn) used 貝(貝) ('cowry') symbolizing valuable decoration and paired with phonetic 卉(卉) ('plant'). It was borrowed early on to represent 奔(奔) ('rush'), diversifying its meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卉",
+      "trad": "卉",
+      "pinyin": "huì",
+      "english": "plant"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他賁飾了院子(他賁飾了院子)，使之焕然一新(使之煥然一新)。",
+      "pinyin": "Tā bēn shì le yuànzi, shǐ zhī huànrán yī xīn.",
+      "english": "He decorated the courtyard, making it look completely renewed."
+    },
+    {
+      "chinese": "节日来临时(節日來臨時)，市集被彩灯賁耀(市集被彩燈賁耀)。",
+      "pinyin": "Jiérì láilín shí, shìjí bèi cǎidēng bēn yào.",
+      "english": "When the festival arrived, the market was brilliantly decorated with colorful lights."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "全",
+  "traditional": "全",
+  "pinyin": "quán",
+  "english": "complete; whole",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "入(入) (rù, \"enter\") + 玉(玉) (yù, \"jade\") = a whole piece of jade; pure jade -> complete",
+    "interpretation": "全(全) (quán, \"complete\") combines 入(入) (rù, \"enter\") and 玉(玉) (yù, \"jade\") to symbolize a complete or unblemished piece of jade, reflecting purity and wholeness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "enter"
+    },
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的家全都整洁有序(他的家全都整潔有序)。",
+      "pinyin": "Tā de jiā quán dōu zhěngjié yǒuxù.",
+      "english": "His whole house is neat and orderly."
+    },
+    {
+      "chinese": "他全班都参加了比赛(他全班都參加了比賽)。",
+      "pinyin": "Tā quán bān dōu cānjiāle bǐsài.",
+      "english": "His entire class participated in the contest."
+    }
+  ]
+}

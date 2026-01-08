@@ -1,0 +1,39 @@
+{
+  "simplified": "或者",
+  "traditional": "或者",
+  "pinyin": "huòzhě",
+  "english": "or; perhaps",
+  "etymology": {
+    "type": "compound word",
+    "description": "或(或) (huò, \"or; maybe\") suggests options or possibilities, while 者(者) (zhě, \"one who; -er, -ist\") forms a noun or emphasizes the role or function of the preceding element. Together, 或者(或者) (huòzhě, \"or; perhaps\") combines these concepts to denote an alternative or potential scenario.",
+    "interpretation": "或者(或者) (huòzhě, \"or; perhaps\") is used to present choices or possibilities in a sentence, reflecting uncertainty or alternative options.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "或",
+      "trad": "或",
+      "pinyin": "huò",
+      "english": "or; maybe"
+    },
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "one who; -er, -ist"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你可以吃面包(你可以吃麵包)，或者米饭(或者米飯)。",
+      "pinyin": "nǐ kěyǐ chī miànbāo, huòzhě mǐfàn.",
+      "english": "You can eat bread or rice."
+    },
+    {
+      "chinese": "我们明天出发(我們明天出發)，或者今天先走(或者今天先走)。",
+      "pinyin": "wǒmen míngtiān chūfā, huòzhě jīntiān xiān zǒu.",
+      "english": "We will depart tomorrow or leave today."
+    }
+  ]
+}

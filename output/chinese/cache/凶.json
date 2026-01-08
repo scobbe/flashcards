@@ -1,0 +1,44 @@
+{
+  "simplified": "凶",
+  "traditional": "凶",
+  "pinyin": "xiōng",
+  "english": "fierce",
+  "etymology": {
+    "type": "Pictogram and/or Ideogram",
+    "description": "凵 (hole) + 㐅 (indicating hole/representing rock, mud, stone, or bamboo in the hole) = hole in the ground or an object within a hole -> conveys idea of something fearsome or fierce",
+    "interpretation": "The character 凶(xiōng, 'fierce') depicts a hole or pit, suggesting danger or something fearsome, possibly illustrating a trap or something threatening emerging from it. The components convey the sense of danger associated with the unknown or concealed.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "凵",
+      "trad": "凵",
+      "pinyin": "kǎn",
+      "english": "hole"
+    },
+    {
+      "char": "㐅",
+      "trad": "㐅",
+      "pinyin": "yá",
+      "english": "rock, mud, stone, or bamboo in the hole"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那只野狗看起来很凶(那隻野狗看起來很凶)。",
+      "pinyin": "Nà zhī yěgǒu kàn qǐlái hěn xiōng.",
+      "english": "That stray dog looks very fierce."
+    },
+    {
+      "chinese": "他讲话时非常凶(他講話時非常凶)，让人害怕(讓人害怕)。",
+      "pinyin": "Tā jiǎnghuà shí fēicháng xiōng, ràng rén hàipà.",
+      "english": "When he speaks, he is extremely fierce, which scares people."
+    },
+    {
+      "chinese": "这条路在夜晚显得凶险(這條路在夜晚顯得凶險)。",
+      "pinyin": "Zhè tiáo lù zài yèwǎn xiǎnde xiōngxiǎn.",
+      "english": "This road appears dangerous at night."
+    }
+  ]
+}

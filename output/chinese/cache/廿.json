@@ -1,0 +1,33 @@
+{
+  "simplified": "廿",
+  "traditional": "廿",
+  "pinyin": "niàn",
+  "english": "twenty",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two 十(十) (shí, \"ten\") written side by side, with a horizontal stroke at the bottom that fuses them",
+    "interpretation": "The character 廿(廿) (niàn, \"twenty\") directly represents the number twenty by combining two tens ten (十) together and connecting them, illustrating the concept of two tens forming twenty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今年廿岁(我今年廿歲)，准备考大学(準備考大學)。",
+      "pinyin": "Wǒ jīnnián niàn suì, zhǔnbèi kǎo dàxué.",
+      "english": "I am twenty years old this year and I am preparing for college."
+    },
+    {
+      "chinese": "放学钟响时(放學鐘響時)，他收到廿个红包(他收到廿個紅包)。",
+      "pinyin": "Fàngxué zhōng xiǎng shí, tā shōudào niàn gè hóngbāo.",
+      "english": "When the school bell rings, he receives twenty red envelopes."
+    }
+  ]
+}

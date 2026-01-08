@@ -1,0 +1,39 @@
+{
+  "simplified": "枕",
+  "traditional": "枕",
+  "pinyin": "zhěn",
+  "english": "pillow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 冘(冘) (yín, \"sink\") = wooden object for support -> pillow",
+    "interpretation": "The character 枕(枕) (zhěn, \"pillow\") combines 木(木) (mù, \"wood\") as the material often used in ancient times for making pillows, with 冘(冘) (yín) to suggest stability and support, reflecting its function as a supportive object for resting the head during sleep.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "冘",
+      "trad": "冘",
+      "pinyin": "yín",
+      "english": "sink"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "躺下休息时(躺下休息時)，他把头轻轻枕在柔软的枕上(他把頭輕輕枕在柔軟的枕上)。",
+      "pinyin": "Tǎng xià xiūxí shí, tā bǎ tóu qīngqīng zhěn zài róuruǎn de zhěn shàng.",
+      "english": "When lying down to rest, he gently rests his head on a soft pillow."
+    },
+    {
+      "chinese": "午后小憩时(午后小憩時)，她翻开了枕边书轻阅古文(她翻開了枕邊書輕閱古文)。",
+      "pinyin": "Wǔhòu xiǎoqì shí, tā fānkāile zhěnbiān shū qīng yuè gǔwén.",
+      "english": "During her afternoon nap, she opened her bedside book and quietly read ancient texts."
+    }
+  ]
+}

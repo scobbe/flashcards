@@ -1,0 +1,44 @@
+{
+  "simplified": "豪",
+  "traditional": "豪",
+  "pinyin": "háo",
+  "english": "luxurious",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 高(gāo, \"tall\") abbreviated + Semantic: 豕(shǐ, \"pig, boar\") = luxury associated with wealth and abundance",
+    "interpretation": "The character 豪(háo, \"luxurious\") combines 高(gāo, \"tall\"), which suggests high status, with 豕(shǐ, \"pig, boar\"), associated with surplus and wealth in Chinese culture, to convey the idea of luxury and opulence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "tall"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig, boar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他住进豪宅(他住進豪宅)。",
+      "pinyin": "Tā zhù jìn háo zhái.",
+      "english": "He lives in a luxurious mansion."
+    },
+    {
+      "chinese": "店里展示豪华轿车(店裡展示豪華轎車)，吸引众多顾客(吸引眾多顧客)。",
+      "pinyin": "Diàn lǐ zhǎn shì háo huá jiào chē, xī yǐn zhòng duō gù kè.",
+      "english": "The store displays luxurious cars, attracting many customers."
+    },
+    {
+      "chinese": "她参加豪华晚宴(她參加豪華晚宴)，享受精致生活(享受精緻生活)。",
+      "pinyin": "Tā cān jiā háo huá wǎn yàn, xiǎng shòu jīng zhì shēng huó.",
+      "english": "She attends a luxurious dinner party and enjoys a refined lifestyle."
+    }
+  ]
+}

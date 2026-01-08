@@ -1,0 +1,44 @@
+{
+  "simplified": "旨",
+  "traditional": "旨",
+  "pinyin": "zhǐ",
+  "english": "tasty",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 匕(匕) (bǐ, \"spoon\") + phonetic: 甘(甘) (gān, \"sweet\") = spoon with something sweet -> tasty",
+    "interpretation": "The character 旨(旨) (zhǐ, \"tasty\") combines 匕(匕) (bǐ, \"spoon\") with 甘(甘) (gān, \"sweet\"), suggesting the action of tasting something sweet with a spoon, thus conveying the idea of deliciousness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这汤很旨(這湯很旨)。",
+      "pinyin": "Zhè tāng hěn zhǐ.",
+      "english": "This soup is tasty."
+    },
+    {
+      "chinese": "厨师煮出的面条(廚師煮出的麵條)，味道极其旨(味道極其旨)。",
+      "pinyin": "Chú shī zhǔ chū de miàn tiáo, wèi dào jí qí zhǐ.",
+      "english": "The noodles cooked by the chef are extremely tasty."
+    },
+    {
+      "chinese": "那家饭店(那家飯店)，做的菜肴都很旨(做的菜肴都很旨)。",
+      "pinyin": "Nà jiā fàn diàn, zuò de cài yáo dōu hěn zhǐ.",
+      "english": "The dishes at that restaurant are all tasty."
+    }
+  ]
+}

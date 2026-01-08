@@ -4,9 +4,9 @@
   "pinyin": "jīn",
   "english": "metal",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "士(士) (shì, 'upside-down ritual axe') + 呂(呂) (lǚ, 'two blocks of metal') + phonetic: 亼(亼) (ancient form for 今) = original pronunciation guide -> depiction of metal",
-    "interpretation": "The character combines semantic components representing metal and a phonetic element to indicate pronunciation. It evolved from representing copper to encompassing all metals and eventually gold. The misunderstanding of the semantic components illustrates how early representations were sometimes reinterpreted over time.",
+    "type": "Phono-semantic compound",
+    "description": "士(士) (shì, \"upside-down ritual axe perhaps made of precious materials\") + 呂(呂) (lǚ, \"two blocks of metal\") + 亼(亼) (jī, \"phonetic: open mouth flipped upside down\") -> original meaning related to copper -> extended to metal and gold",
+    "interpretation": "The character 金(jīn, \"metal\") initially indicated copper, reflecting its historical use before the Bronze Age in China. The combination of symbolic components for metal and sound formed the basis for its evolution into a general term for metal and subsequently gold.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "士",
       "trad": "士",
       "pinyin": "shì",
-      "english": "upside-down ritual axe"
+      "english": "upside-down ritual axe perhaps made of precious materials"
     },
     {
       "char": "呂",
@@ -25,26 +25,21 @@
     {
       "char": "亼",
       "trad": "亼",
-      "pinyin": "",
-      "english": "ancient form for 今"
+      "pinyin": "jī",
+      "english": "open mouth flipped upside down"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "金是一种宝贵的金属(金是一種寶貴的金屬)。",
-      "pinyin": "Jīn shì yī zhǒng bǎoguì de jīnshǔ.",
+      "chinese": "金是一种珍贵的金属(金是一種珍貴的金屬)。",
+      "pinyin": "Jīn shì yī zhǒng zhēnguì de jīnshǔ.",
       "english": "Metal is a precious metal."
     },
     {
-      "chinese": "工匠用金打造精美的器物(工匠用金打造精美的器物)，展示无与伦比的手艺(展示無與倫比的手藝)。",
-      "pinyin": "Gōngjiàng yòng jīn dǎzào jīngměi de qìwù, zhǎnshì wú yǔ lún bǐ de shǒuyì.",
-      "english": "The artisan uses metal to craft exquisite objects, showcasing unparalleled craftsmanship."
-    },
-    {
-      "chinese": "金象征着财富(金象徵著財富)，也是一种坚固的金属(也是一種堅固的金屬)。",
-      "pinyin": "Jīn xiàngzhēng zhe cáifù, yě shì yī zhǒng jiāngù de jīnshǔ.",
-      "english": "Metal symbolizes wealth, and it is also known for its durability."
+      "chinese": "这座桥的柱子由金铸成(這座橋的柱子由金鑄成)，闪闪发光(閃閃發光)。",
+      "pinyin": "Zhè zuò qiáo de zhùzi yóu jīn zhùchéng, shǎnshǎn fāguāng.",
+      "english": "The pillars of this bridge are cast from metal, shining brilliantly."
     }
   ]
 }

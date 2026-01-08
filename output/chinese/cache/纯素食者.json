@@ -1,0 +1,56 @@
+{
+  "simplified": "纯素食者",
+  "traditional": "純素食者",
+  "pinyin": "chúnsùshízhě",
+  "english": "vegan",
+  "etymology": {
+    "type": "compound word",
+    "description": "纯(純) (chún, \"pure\") + 素(sù, \"vegetarian; simple; plain\") + 食(shí, \"food\") + 者(者) (zhě, \"person who does something\") = a person who adheres to a pure form of a vegetarian diet, namely veganism.",
+    "interpretation": "The term 纯素食者(純素食者) (chúnsùshízhě) describes a person who chooses to follow a diet that excludes all animal products, including meat, dairy, and eggs, thus 'purely' consuming plant-based foods. This reflects a dedication to a lifestyle that emphasizes the consumption of plants in their simplest form, associated with ethical or health considerations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "纯",
+      "trad": "純",
+      "pinyin": "chún",
+      "english": "pure; simple"
+    },
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "vegetarian; simple; plain"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; eat"
+    },
+    {
+      "char": "者",
+      "trad": "者",
+      "pinyin": "zhě",
+      "english": "person who does something; -er"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位纯素食者(他是一位純素食者)。",
+      "pinyin": "Tā shì yī wèi chún sù shí zhě.",
+      "english": "He is a vegan."
+    },
+    {
+      "chinese": "纯素食者多追求健康(純素食者多追求健康)，蔬菜水果丰富美味(蔬菜水果豐富美味)。",
+      "pinyin": "Chún sù shí zhě duō zhuīqiú jiànkāng, shūcài shuǐguǒ fēngfù měiwèi.",
+      "english": "Vegans often pursue health, and their vegetables and fruits are rich and tasty."
+    },
+    {
+      "chinese": "选择纯素食者生活方式(選擇純素食者生活方式)，他追求自然与宁静(他追求自然與寧靜)。",
+      "pinyin": "Xuǎnzé chún sù shí zhě shēnghuó fāngshì, tā zhuīqiú zìrán yǔ níngjìng.",
+      "english": "By choosing a vegan lifestyle, he seeks nature and tranquility."
+    }
+  ]
+}

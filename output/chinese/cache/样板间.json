@@ -1,0 +1,45 @@
+{
+  "simplified": "样板间",
+  "traditional": "樣板間",
+  "pinyin": "yàngbǎnjiān",
+  "english": "showroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "样(樣) (yàng, \"appearance\") + 板(板) (bǎn, \"board; model\") + 间(間) (jiān, \"room\")",
+    "interpretation": "The term 样板间(樣板間) (yàngbǎnjiān, \"showroom\") combines 样(樣) (yàng, \"appearance\") to suggest an example or display, with 板(板) (bǎn, \"model\"), indicating a model or template, and 间(間) (jiān, \"room\"), referring to the physical space. Together, they describe a room that displays a model or example, often used in real estate to exhibit how a finished living space might look.",
+    "simplification": "样板间 is the simplified form of 樣板間."
+  },
+  "parts": [
+    {
+      "char": "样",
+      "trad": "樣",
+      "pinyin": "yàng",
+      "english": "appearance; shape; manner"
+    },
+    {
+      "char": "板",
+      "trad": "板",
+      "pinyin": "bǎn",
+      "english": "board; plank; model"
+    },
+    {
+      "char": "间",
+      "trad": "間",
+      "pinyin": "jiān",
+      "english": "room; between; space"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他带我们参观样板间(他帶我們參觀樣板間)。",
+      "pinyin": "Tā dài wǒmen cānguān yàngbǎnjiān.",
+      "english": "He took us to visit the showroom."
+    },
+    {
+      "chinese": "新的样板间装修精美(新的樣板間裝修精美)，吸引了很多顾客(吸引了很多顧客)。",
+      "pinyin": "Xīn de yàngbǎnjiān zhuāngxiū jīngměi, xīyǐn le hěn duō gùkè.",
+      "english": "The new showroom is exquisitely decorated and attracts many customers."
+    }
+  ]
+}

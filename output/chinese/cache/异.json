@@ -1,0 +1,39 @@
+{
+  "simplified": "异",
+  "traditional": "異",
+  "pinyin": "yì",
+  "english": "different",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 已(已) (yǐ) + Semantic: 廾(廾, \"two hands\") = conveying a sense of holding or presenting something different",
+    "interpretation": "異(异) (yì, \"different\") combines the pronunciation of 已(已) (yǐ) with the idea of 'hands bringing forward or separating' from 廾(廾), suggesting something being brought forth as 'different.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "已",
+      "trad": "已",
+      "pinyin": "yǐ",
+      "english": "already"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的设计异于常规(他的設計異於常規)，独具匠心(獨具匠心)。",
+      "pinyin": "tā de shèjì yì yú chángguī, dú jù jiàngxīn.",
+      "english": "His design is different from the norm, uniquely ingenious."
+    },
+    {
+      "chinese": "这个观点异于传统(這個觀點異於傳統)，引人深思(引人深思)。",
+      "pinyin": "zhè ge guāndiǎn yì yú chuántǒng, yǐn rén shēnsī.",
+      "english": "This viewpoint differs from tradition, provoking deep thought."
+    }
+  ]
+}

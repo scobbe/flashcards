@@ -1,0 +1,31 @@
+{
+  "simplified": "疒",
+  "traditional": "疒",
+  "pinyin": "nè",
+  "english": "illness; disease",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person sick in bed",
+    "interpretation": "The character 疒(nè, \"illness\") visually represents a person lying down with a vertical line indicating a bed, symbolizing the concept of being bedridden due to sickness or disease.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生诊断出他的疒症(醫生診斷出他的疒症)。",
+      "pinyin": "Yīshēng zhěnduàn chū tā de nè zhèng.",
+      "english": "The doctor diagnosed his illness."
+    },
+    {
+      "chinese": "他因疒困扰(他因疒困擾)，常感疲惫(常感疲憊)。",
+      "pinyin": "Tā yīn nè kùnrǎo, cháng gǎn píbèi.",
+      "english": "He is troubled by illness, often feeling fatigued."
+    },
+    {
+      "chinese": "许多汉字含有疒(許多漢字含有疒)，象徵着疾病之意(象徵著疾病之意)。",
+      "pinyin": "Xǔduō hànzì hányǒu nè, xiàngzhēng zhe jíbìng zhī yì.",
+      "english": "Many Chinese characters contain the element '疒', symbolizing illness."
+    }
+  ]
+}

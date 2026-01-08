@@ -1,0 +1,44 @@
+{
+  "simplified": "魔",
+  "traditional": "魔",
+  "pinyin": "mó",
+  "english": "demon; magic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 麻(麻) (má) + Semantic: 鬼(鬼) (guǐ, \"demon\") = represents a demonic or magical concept -> demon; magic",
+    "interpretation": "This character combines the phonetic 麻(麻) (má), contributing the pronunciation, with the semantic 鬼(鬼) (guǐ, \"demon\"), emphasizing the supernatural and demonic meaning, creating a word associated with magic or demons.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "麻",
+      "trad": "麻",
+      "pinyin": "má",
+      "english": ""
+    },
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "demon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "黑夜降临时(黑夜降臨時)，魔鬼出没于街巷(魔鬼出沒於街巷)。",
+      "pinyin": "Hēiyè jiànglín shí, móguǐ chūmò yú jiēxiàng.",
+      "english": "When night falls, demons appear in the alleys."
+    },
+    {
+      "chinese": "古老传说中(古老傳說中)，魔姬迷惑凡人(魔姬迷惑凡人)。",
+      "pinyin": "Gǔlǎo chuánshuō zhōng, mó jī míhuò fánrén.",
+      "english": "In ancient legends, a demon maiden bewilders mortals."
+    },
+    {
+      "chinese": "人心易被魔诱惑(人心易被魔誘惑)。",
+      "pinyin": "Rénxīn yì bèi mó yòuhuò.",
+      "english": "The human heart is easily tempted by demons."
+    }
+  ]
+}

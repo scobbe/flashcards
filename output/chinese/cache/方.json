@@ -1,0 +1,44 @@
+{
+  "simplified": "方",
+  "traditional": "方",
+  "pinyin": "fāng",
+  "english": "square",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "一(一) (yī, \"one\") + 刀(刀) (dāo, \"sword\") = original depiction of blade's tip -> borrowed for \"side\" -> now \"square\"",
+    "interpretation": "Initially depicting the blade of a sword, 方(方) (fāng, \"square\") was later borrowed for its current meaning due to its association with edges and boundaries, metaphorically expanded to define sides and squares.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "sword"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这张桌子是方的(這張桌子是方的)。",
+      "pinyin": "Zhè zhāng zhuōzi shì fāng de.",
+      "english": "This table is square."
+    },
+    {
+      "chinese": "院子里铺满了方砖(院子裡鋪滿了方磚)。",
+      "pinyin": "Yuànzi lǐ pū mǎn le fāng zhuān.",
+      "english": "The courtyard is paved with square bricks."
+    },
+    {
+      "chinese": "我买的花瓶是方形的(我買的花瓶是方形的)，设计简洁优美(設計簡潔優美)。",
+      "pinyin": "Wǒ mǎi de huāpíng shì fāngxíng de, shèjì jiǎnjié yōuměi.",
+      "english": "The vase I bought is square, with a simple and elegant design."
+    }
+  ]
+}

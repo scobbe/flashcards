@@ -1,0 +1,44 @@
+{
+  "simplified": "容",
+  "traditional": "容",
+  "pinyin": "róng",
+  "english": "contain",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 宀(宀) (mián, \"roof\") + phonetic 公(公) (gōng, \"public\") = shelter something under a roof -> contain",
+    "interpretation": "The character 容(róng, \"contain\") combines a roof radical with a common phonetic element suggesting the idea of holding or containing within a protected space, which makes intuitive sense as a metaphor for containing things under a roof.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "public"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个碗能容下满满的饭菜(這個碗能容下滿滿的飯菜)。",
+      "pinyin": "Zhè ge wǎn néng róng xià mǎn mǎn de fàn cài.",
+      "english": "This bowl can contain a generous serving of food."
+    },
+    {
+      "chinese": "她的心胸宽广(她的心胸寬廣)，能容百川(能容百川)。",
+      "pinyin": "Tā de xīn xiōng kuān guǎng, néng róng bǎi chuān.",
+      "english": "Her broad heart is capable of containing all kinds of ideas."
+    },
+    {
+      "chinese": "小房间里容纳不了这么多家具(小房間裡容納不了這麼多家具)。",
+      "pinyin": "Xiǎo fáng jiān lǐ róng nà bù liǎo zhè me duō jiā jù.",
+      "english": "The small room cannot contain so much furniture."
+    }
+  ]
+}

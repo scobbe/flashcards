@@ -1,0 +1,44 @@
+{
+  "simplified": "导",
+  "traditional": "導",
+  "pinyin": "dǎo",
+  "english": "guide; lead; direct; conduct",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 寸(寸) (cùn, \"inch\") + phonetic: 道(道) (dào, \"way\") = leading along a path -> guide",
+    "interpretation": "The character 导(導) (dǎo, \"guide\") conveys the notion of guiding or leading due to its component 寸(寸) (cùn, \"inch\"), which suggests measurement or careful attention, combined with 道(道) (dào, \"way\"), denoting the path or direction to be followed.",
+    "simplification": "In 导(導), the complex component of 辶(辶) (chuò, \"walk\") in 道(道) was simplified to a single line to streamline writing."
+  },
+  "parts": [
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "way"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师导我们学习(老師導我們學習)。",
+      "pinyin": "Lǎoshī dǎo wǒmen xuéxí。",
+      "english": "The teacher guides us in learning."
+    },
+    {
+      "chinese": "老师导学生成长(老師導學生成長)，父母导孩子走正途(父母導孩子走正途)。",
+      "pinyin": "Lǎoshī dǎo xuéshēng chéngzhǎng, fùmǔ dǎo háizi zǒu zhèngtú。",
+      "english": "Teachers guide students' growth, and parents guide their children on the right path."
+    },
+    {
+      "chinese": "舵手导船穿越暴风雨(舵手導船穿越暴風雨)，军官导队前进抵御危险(軍官導隊前進抵禦危險)。",
+      "pinyin": "Duòshǒu dǎo chuán chuānyuè bàofēngyǔ, jūnguān dǎo duì qiánjìn dǐyù wēixiǎn。",
+      "english": "The helmsman directs the boat through the storm, and the officer leads the team to advance against danger."
+    }
+  ]
+}

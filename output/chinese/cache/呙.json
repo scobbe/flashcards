@@ -1,0 +1,39 @@
+{
+  "simplified": "呙",
+  "traditional": "呙",
+  "pinyin": "guō",
+  "english": "sound",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") provides the semantic element related to sound, + 咼(咼) (guō, \"sound\") acts as the phonetic component -> sound articulation",
+    "interpretation": "The character combines the semantic element for 'mouth' to denote sound-making with a phonetic element to indicate pronunciation, aligning the character with its meaning related to producing sound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "咼",
+      "trad": "咼",
+      "pinyin": "guō",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "山谷中回响着呙呙的声音(山谷中回響著呙呙的聲音)。",
+      "pinyin": "Shāngǔ zhōng huíxiǎng zhe guōguō de shēngyīn.",
+      "english": "The valley echoes with the sound of guō guō."
+    },
+    {
+      "chinese": "夜深了(夜深了)，人们听到了远处呙的回响(人們聽到了遠處呙的回響)。",
+      "pinyin": "Yè shēn le, rénmen tīngdào le yuǎnchù guō de huíxiǎng.",
+      "english": "It's late at night, and people heard the echo of guō from afar."
+    }
+  ]
+}

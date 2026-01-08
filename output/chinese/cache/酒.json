@@ -1,0 +1,44 @@
+{
+  "simplified": "酒",
+  "traditional": "酒",
+  "pinyin": "jiǔ",
+  "english": "alcohol; liquor; spirits; wine",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 酉(酉) (yǒu, \"complete cycle\") = a liquid associated with 酉 (fermentation/vessels) -> alcohol",
+    "interpretation": "The character 酒(酒) (jiǔ, \"alcohol\") uses 氵(氵) (shuǐ, \"water\") to indicate a liquid, and 酉(酉) (yǒu, \"complete cycle\") to suggest fermentation or storage vessels, representing alcoholic beverages.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "complete cycle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喝了太多酒(他喝了太多酒)。",
+      "pinyin": "Tā hēle tài duō jiǔ.",
+      "english": "He drank too much alcohol."
+    },
+    {
+      "chinese": "夜深人静时(夜深人靜時)，他独自品酒(他獨自品酒)。",
+      "pinyin": "Yè shēn rén jìng shí, tā dúzì pǐn jiǔ.",
+      "english": "In the quiet of the night, he savored his drink alone."
+    },
+    {
+      "chinese": "那杯香醇的酒(那杯香醇的酒)，令他回味无穷(令他回味無窮)。",
+      "pinyin": "Nà bēi xiāngchún de jiǔ, lìng tā huíwèi wúqióng.",
+      "english": "That glass of aromatic alcohol left him with an unforgettable aftertaste."
+    }
+  ]
+}

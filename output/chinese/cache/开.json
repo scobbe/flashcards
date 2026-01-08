@@ -1,0 +1,50 @@
+{
+  "simplified": "开",
+  "traditional": "開",
+  "pinyin": "kāi",
+  "english": "open",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "門(門) (mén, 'door') + 一(一) (yī, 'latch or wooden pole') + 廾(廾) (gǒng, 'pair of hands') = hands opening a latched door -> open; simplified to 开 by removing 門",
+    "interpretation": "The traditional character 開 shows a pair of hands opening a latched door. In the simplified form 开, the representation of 門. (door) was removed to streamline writing while maintaining the essence of the action of 'opening'.",
+    "simplification": "Simplified 开 from 開 by removing the 門 (mén, 'door') to keep the focus on the action with 干 (gān) representing the trunks or latches."
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "latch or pole"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "pair of hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我开车去上班(我開車去上班)。",
+      "pinyin": "Wǒ kāichē qù shàngbān.",
+      "english": "I drive to work."
+    },
+    {
+      "chinese": "花儿开得很灿烂(花兒開得很燦爛)。",
+      "pinyin": "Huār kāi de hěn cànlàn.",
+      "english": "The flowers are blooming brilliantly."
+    },
+    {
+      "chinese": "他打开窗户(他打開窗戶)，迎进清新的空气(迎進清新的空氣)。",
+      "pinyin": "Tā dǎkāi chuānghù, yíng jìn qīngxīn de kōngqì.",
+      "english": "He opens the window to let in the fresh air."
+    }
+  ]
+}

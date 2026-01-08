@@ -1,0 +1,38 @@
+{
+  "simplified": "步",
+  "traditional": "步",
+  "pinyin": "bù",
+  "english": "step; pace",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "止(止) (zhǐ, \"foot\") facing forwards + 止(止) (zhǐ, \"foot\") reversed = one foot in front of the other -> step",
+    "interpretation": "The character 步(步) (bù, \"step\") visually represents two feet positioned for walking, symbolizing the act of taking a step. This ideogrammatic compound effectively conveys movement through the arrangement of its components.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他迈出坚实的一步(他邁出堅實的一步)。",
+      "pinyin": "Tā mài chū jiānshí de yī bù.",
+      "english": "He took a sturdy step."
+    },
+    {
+      "chinese": "他缓缓走来(他緩緩走來)，每一步都充满期待(每一步都充滿期待)。",
+      "pinyin": "Tā huǎn huǎn zǒu lái, měi yī bù dōu chōngmǎn qídài.",
+      "english": "He came slowly, each step filled with anticipation."
+    },
+    {
+      "chinese": "他走出一步一个脚印(他走出一步一個腳印)。",
+      "pinyin": "Tā zǒu chū yī bù yī gè jiǎoyìn.",
+      "english": "He progressed step by step."
+    }
+  ]
+}

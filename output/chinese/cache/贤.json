@@ -1,0 +1,44 @@
+{
+  "simplified": "贤",
+  "traditional": "賢",
+  "pinyin": "xián",
+  "english": "virtuous; worthy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 貝(貝) (bèi, \"cowry\") + phonetic: 臤(臤) (xián, associated with \"strong\") = wealth managed by a capable person -> virtuous",
+    "interpretation": "In ancient times, virtue or worthiness was often correlated with the ability to manage wealth or valuable resources effectively. The 貝(貝) (bèi, \"cowry\") indicates value or resources, while 臤(臤) (xián) provides the pronunciation and hints at strength or capability, reinforcing the idea of a worthy individual.",
+    "simplification": "The simplified form 贤(賢) retains the same phonetic component 臤(臤) and semantic component 貝(貝), making it a direct simplification without altering the structural formula or meaning."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "臤",
+      "trad": "臤",
+      "pinyin": "xián",
+      "english": "strong"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他为人贤良(他為人賢良)。",
+      "pinyin": "Tā wéi rén xiánliáng.",
+      "english": "He is virtuous."
+    },
+    {
+      "chinese": "长者推崇贤人(長者推崇賢人)，晚辈尊敬贤者(晚輩尊敬賢者)。",
+      "pinyin": "Zhǎngzhě tuīchóng xiánrén, wǎnbiè zūnjìng xiánzhě.",
+      "english": "Elders esteem the virtuous, and the younger generations respect the wise."
+    },
+    {
+      "chinese": "君子常怀贤心(君子常懷賢心)。",
+      "pinyin": "Jūnzǐ cháng huái xiánxīn.",
+      "english": "A gentleman always harbors a virtuous heart."
+    }
+  ]
+}

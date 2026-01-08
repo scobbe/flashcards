@@ -1,0 +1,44 @@
+{
+  "simplified": "柯",
+  "traditional": "柯",
+  "pinyin": "kē",
+  "english": "branch; axe handle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree\") + phonetic: 可(可) (kě, \"can\") = tree-related object -> branch; axe handle",
+    "interpretation": "The character combines 木(木) (mù, \"tree\"), signifying a wooden object, with 可(可) (kě, \"can\"), which provides the pronunciation. This reflects its meaning related to parts of a tree, such as branches or axe handles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古斧的柯(古斧的柯)经过匠人的精心打磨(經過匠人的精心打磨)，仍然结实(仍然結實)。",
+      "pinyin": "Gǔ fǔ de kē jīngguò jiàngrén de jīngxīn dǎmó, réngrán jiéshí.",
+      "english": "The axe handle of the ancient axe remains sturdy after the craftsman's meticulous polishing."
+    },
+    {
+      "chinese": "老树的柯(老樹的柯)，承载着岁月的痕迹(承載著歲月的痕跡)。",
+      "pinyin": "Lǎo shù de kē, chéngzài zhe suìyuè de hénjì.",
+      "english": "The branch of the old tree bears the marks of time."
+    },
+    {
+      "chinese": "他拿起斧头(他拿起斧頭)，细看那光滑的柯(細看那光滑的柯)。",
+      "pinyin": "Tā ná qǐ fǔtóu, xìkàn nà guānghuá de kē.",
+      "english": "He picked up the axe and closely examined its smooth handle."
+    }
+  ]
+}

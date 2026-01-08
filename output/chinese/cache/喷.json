@@ -1,0 +1,39 @@
+{
+  "simplified": "喷",
+  "traditional": "噴",
+  "pinyin": "pēn",
+  "english": "spray",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic 賁(賁) (bēn, related to \"decorate\") = sound coming from the mouth -> spray",
+    "interpretation": "The character 噴(噴) (pēn, \"spray\") combines the semantic element 口(口) (kǒu, \"mouth\") with the phonetic element 賁(賁) (bēn), suggesting the action of emitting something like spray or mist from the mouth.",
+    "simplification": "噴(噴) -> 喷(噴): 壴(壴) (zhù, \"drum\") replaced by 巾(巾) (jīn, \"towel\") for a simpler phonetic match."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "賁",
+      "trad": "賁",
+      "pinyin": "bēn",
+      "english": "related to \"decorate\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用喷壶(他用噴壺)，给花浇水(給花澆水)。",
+      "pinyin": "Tā yòng pēn hú, gěi huā jiāo shuǐ.",
+      "english": "He uses a spray bottle to water the flowers."
+    },
+    {
+      "chinese": "水龙头在下雨时(水龍頭在下雨時)，不断喷出清水(不斷噴出清水)。",
+      "pinyin": "Shuǐ lóngtóu zài xià yǔ shí, bù duàn pēn chū qīng shuǐ.",
+      "english": "The faucet continuously sprays clear water during the rain."
+    }
+  ]
+}

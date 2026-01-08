@@ -1,0 +1,44 @@
+{
+  "simplified": "中正区",
+  "traditional": "中正區",
+  "pinyin": "Zhōngzhèng Qū",
+  "english": "Zhongzheng District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\"; \"central\") and 正(正) (zhèng, \"upright\"; \"correct\") form 中正(中正) (zhōngzhèng, \"upright and central\"), a name symbolizing balance and virtue in governance, often associated with nationalist leader Chiang Kai-shek. 區(區) (qū, \"district\") refers to an administrative division or region.",
+    "interpretation": "中正(中正) (zhōngzhèng, \"upright and central\") reflects an ideal of balanced and righteous governance, which aligns with themes in Chinese political philosophy. The district is named in honor of Chiang Kai-shek, underscoring the historical significance of these ideals. 中正區 is a district that embodies these values in contemporary Taiwan.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中正",
+      "trad": "中正",
+      "pinyin": "zhōngzhèng",
+      "english": "upright; central; name honoring Chiang Kai-shek"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "district; region; area; administrative division"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在中正区(我住在中正區)。",
+      "pinyin": "Wǒ zhù zài Zhōngzhèng Qū.",
+      "english": "I live in Zhongzheng District."
+    },
+    {
+      "chinese": "中正区拥有丰富的历史(中正區擁有豐富的歷史)，并承载许多文化传承(並承載許多文化傳承)。",
+      "pinyin": "Zhōngzhèng Qū yǒngyǒu fēngfù de lìshǐ, bìng chéngzài xǔduō wénhuà chuánchéng.",
+      "english": "Zhongzheng District boasts a rich history, and it carries many cultural heritages."
+    },
+    {
+      "chinese": "每逢假日，中正区的街道热闹非凡(每逢假日，中正區的街道熱鬧非凡)。",
+      "pinyin": "Měi féng jiàrì, Zhōngzhèng Qū de jiēdào rènào fēifán.",
+      "english": "On holidays, the streets of Zhongzheng District are bustling with life."
+    }
+  ]
+}

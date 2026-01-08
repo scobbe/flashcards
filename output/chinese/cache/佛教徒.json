@@ -1,0 +1,50 @@
+{
+  "simplified": "佛教徒",
+  "traditional": "佛教徒",
+  "pinyin": "Fójiàotú",
+  "english": "Buddhist",
+  "etymology": {
+    "type": "compound word",
+    "description": "佛(佛) (Fó, \"Buddha\") + 教(教) (jiào, \"teach; religion\") + 徒(徒) (tú, \"follower; disciple\")",
+    "interpretation": "The word 佛教徒 refers to someone who follows the teachings of 佛(佛) (Fó, \"Buddha\") within the framework of 教(教) (jiào, \"religion\"), emphasizing their role as a 徒(徒) (tú, \"follower\") of Buddhism. Buddhism, which originated in ancient India, is a major world religion centered on the teachings of the Buddha, and its followers strive to live by those principles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "佛",
+      "trad": "佛",
+      "pinyin": "Fó",
+      "english": "Buddha"
+    },
+    {
+      "char": "教",
+      "trad": "教",
+      "pinyin": "jiào",
+      "english": "teach; religion"
+    },
+    {
+      "char": "徒",
+      "trad": "徒",
+      "pinyin": "tú",
+      "english": "follower; disciple"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位虔诚的佛教徒(他是一位虔誠的佛教徒)。",
+      "pinyin": "Tā shì yī wèi qiánchéng de Fójiàotú.",
+      "english": "He is a devout Buddhist."
+    },
+    {
+      "chinese": "在山间的古寺中(在山間的古寺中)，很多佛教徒聚集在一起(很多佛教徒聚集在一起)。",
+      "pinyin": "Zài shānjiān de gǔ sì zhōng, hěn duō Fójiàotú jùjí zài yìqǐ.",
+      "english": "In the ancient mountain temple, many Buddhists gather together."
+    },
+    {
+      "chinese": "从小受到佛教智慧熏陶的他(從小受到佛教智慧薰陶的他)，如今是一名虔诚的佛教徒(如今回是一名虔誠的佛教徒)。",
+      "pinyin": "Cóng xiǎo shòudào Fójiào zhìhuì xūntáo de tā, rújīn shì yī míng qiánchéng de Fójiàotú.",
+      "english": "He, who was nurtured by Buddhist wisdom since childhood, is now a devout Buddhist."
+    }
+  ]
+}

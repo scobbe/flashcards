@@ -1,0 +1,39 @@
+{
+  "simplified": "存",
+  "traditional": "存",
+  "pinyin": "cún",
+  "english": "preserve; keep; save",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 才(才) (cái, \"talent\") + Semantic: 子(子) (zǐ, \"child\") = combination symbolizing preservation or continuation -> preserve",
+    "interpretation": "In 存(存) (cún, \"preserve\"), 才(才) (cái, \"talent\") functions as the phonetic element, while 子(子) (zǐ, \"child\") provides a semantic suggestion of nurturing or preserving, which aligns with the idea of keeping or saving.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "才",
+      "trad": "才",
+      "pinyin": "cái",
+      "english": "talent"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把珍贵的信件存入保险柜(請把珍貴的信件存入保險櫃)。",
+      "pinyin": "Qǐng bǎ zhēnguì de xìn jiàn cún rù bǎoxiǎn guì.",
+      "english": "Please store the precious letters in the safe."
+    },
+    {
+      "chinese": "他把时间存起来(他把時間存起來)，为了未来计划(為了未來計劃)。",
+      "pinyin": "Tā bǎ shíjiān cún qǐlái, wèi le wèilái jìhuà.",
+      "english": "He saved up time for his future plans."
+    }
+  ]
+}

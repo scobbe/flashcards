@@ -1,0 +1,39 @@
+{
+  "simplified": "白",
+  "traditional": "白",
+  "pinyin": "bái",
+  "english": "spring mouth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an acorn -> used in 樂/乐 (oak) and 皂 (acorn) -> meaning “white” derived from acorn's inside color",
+    "interpretation": "The character 白(bái, \"white\") might originally depict an acorn, reflecting its usage in words related to oak and acorn, and the meaning of 'white' comes from the color of an acorn's interior. This interpretation connects the form with its current meaning of 'white.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "樂",
+      "trad": "乐",
+      "pinyin": "yuè",
+      "english": "oak"
+    },
+    {
+      "char": "皂",
+      "trad": "皂",
+      "pinyin": "zào",
+      "english": "acorn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "村后那处被称作‘白’的泉口(村後那處被稱作‘白’的泉口)，源源不断流出甘甜的泉水(源源不斷流出甘甜的泉水)。",
+      "pinyin": "Cūn hòu nà chù bèi chēng zuò ‘Bái’ de quán kǒu, yuán yuán bù duàn liú chū gān tián de quán shuǐ.",
+      "english": "The spring mouth behind the village, known as ‘Bái’, continuously gushes out sweet water."
+    },
+    {
+      "chinese": "古镇传说(古鎮傳說)，每逢春日便有白现身(每逢春日便有白現身)，润泽山村(潤澤山村)。",
+      "pinyin": "Gǔ zhèn chuán shuō, měi féng chūn rì biàn yǒu Bái xiàn shēn, rùn zé shān cūn.",
+      "english": "According to the legend of the ancient town, every spring a ‘Bái’ appears, nourishing the mountain village."
+    }
+  ]
+}

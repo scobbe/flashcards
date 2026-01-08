@@ -2,3 +2,13 @@
 Pictogram ( 象形 ) – human eye, now rotated 90 degrees. Compare the Egyptian hieroglyph 𓁹 .
 See also 直 , 見 , 頁 , 夏 , 面 , 臣 and the earlier versions of 要 . The eye is not rotated in the character 𢛳 , 曼 , 睪 , and 眔 (used in 褱 ).
 Sometimes it depicts a web ( 网 ) through its variant 罒 , e.g., 買 , 罵 , 罪 , 詈 (used in 罰 ) and 羅 (> 罗 ). Unrelated to 鼎 , 貝 , and 真 .
+
+[且]
+Pictogram ( 象形 ). Multiple interpretations:
+• A stone altar – original form of 祖 ( OC *ʔsaːʔ ).
+• A sacrificial vessel used for chopping and holding meat, as viewed from above ( Wang, 1923 ) – original form of 俎 ( OC *ʔsraʔ ).
+• An erect penis, the symbol of the male ancestor ( Guo Moruo, 1931 ) – original form of 祖 ( OC *ʔsaːʔ ).
+In the oracle bones and bronze inscriptions, this character was commonly used as 祖 ( OC *ʔsaːʔ ); usage as 俎 ( OC *ʔsraʔ ) is not attested until the Warring States period in the bamboo script. See also the original version of 查 .
+
+[祖]
+Phono-semantic compound ( 形聲 / 形声 , OC *ʔsaːʔ ): semantic 示 + phonetic 且 ( OC *sʰjaːʔ, *ʔsa ) . Specialization of 且 . See there for more.

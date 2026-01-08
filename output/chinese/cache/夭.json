@@ -1,0 +1,31 @@
+{
+  "simplified": "夭",
+  "traditional": "夭",
+  "pinyin": "yāo",
+  "english": "to die young (original component)",
+  "etymology": {
+    "type": "ideogram",
+    "description": "A figure leaning forward (presumably running) -> energetic, young -> later associated with dying young",
+    "interpretation": "The character 夭(yāo, \"to die young\") originally depicted youthful energy and vitality but over time became associated with the concept of dying young, reflecting the frailty of youthful life. It emphasizes impermanence, contrasting with the vigor of motion that the leaning figure initially suggested.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他年纪轻轻就夭折了(他年紀輕輕就夭折了)。",
+      "pinyin": "Tā niánjì qīngqīng jiù yāozhé le.",
+      "english": "He died young while still very young."
+    },
+    {
+      "chinese": "战乱不断(戰亂不斷)，许多英才夭折(許多英才夭折)。",
+      "pinyin": "Zhànluàn bùduàn, xǔduō yīngcái yāozhé.",
+      "english": "Amid constant warfare, many talented individuals died young."
+    },
+    {
+      "chinese": "幼鹿因寒冬而夭亡(幼鹿因寒冬而夭亡)。",
+      "pinyin": "Yòulù yīn hándōng ér yāowáng.",
+      "english": "The fawn perished in the cold winter."
+    }
+  ]
+}

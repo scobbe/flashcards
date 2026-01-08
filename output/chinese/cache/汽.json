@@ -1,0 +1,44 @@
+{
+  "simplified": "汽",
+  "traditional": "汽",
+  "pinyin": "qì",
+  "english": "steam; vapor",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 气(气) (qì, \"air\") = water vapor, steam",
+    "interpretation": "汽(汽) (qì, \"steam\") cleverly combines the concepts of water and air to represent steam, highlighting its nature as vapor or steam formed from water and air.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "气",
+      "trad": "气",
+      "pinyin": "qì",
+      "english": "air"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "热水烧开后产生汽(熱水燒開後產生汽)，蒸汽缓缓上升(蒸氣緩緩上升)。",
+      "pinyin": "Rè shuǐ shāo kāi hòu chǎnshēng qì, zhēngqì huǎnhuǎn shàngshēng.",
+      "english": "When hot water boils, it produces steam, and the vapor rises slowly."
+    },
+    {
+      "chinese": "冷空气遇到热水时形成汽(冷空氣遇到熱水時形成汽)，给人带来清凉感觉(給人帶來清涼感覺)。",
+      "pinyin": "Lěng kōngqì yù dào rè shuǐ shí xíngchéng qì, gěi rén dài lái qīngliáng gǎnjué.",
+      "english": "When cold air meets hot water, vapor is formed and it gives a refreshing feeling."
+    },
+    {
+      "chinese": "锅炉中常常产生汽(鍋爐中常常產生汽)，驱动机器运转(驅動機器運轉)。",
+      "pinyin": "Guōlú zhōng chángcháng chǎnshēng qì, qūdòng jīqì yùnzhuǎn.",
+      "english": "Steam is often produced in boilers to drive machines."
+    }
+  ]
+}

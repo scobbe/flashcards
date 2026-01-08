@@ -1,0 +1,44 @@
+{
+  "simplified": "叶",
+  "traditional": "葉",
+  "pinyin": "yè",
+  "english": "leaf",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹 (cǎo, \"grass\") + phonetic: 枼 (yè, \"leaf\") = vegetation-like and phonetic element -> leaf",
+    "interpretation": "In 叶(葉) (yè, \"leaf\"), the 艹 (cǎo, \"grass\") component suggests vegetation, while 枼 (yè, \"leaf\") provides the sound. This combination aptly conveys the meaning of a leaf, aligning both meaning and pronunciation.",
+    "simplification": "In the simplified form 叶(葉), the component 艹 (cǎo, \"grass\") is removed, and 枼 (yè, \"leaf\") alone suggests both the phonetic and semantic aspects, reducing the complexity by focusing solely on the phonetic element."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "枼",
+      "trad": "葉",
+      "pinyin": "yè",
+      "english": "leaf"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋风起时(秋風起時)，落叶纷纷飘落(落葉紛紛飄落)。",
+      "pinyin": "Qiū fēng qǐ shí, luò yè fēn fēn piāo luò.",
+      "english": "When the autumn wind rises, the leaves fall one after another."
+    },
+    {
+      "chinese": "树上的叶很美(樹上的葉很美)。",
+      "pinyin": "Shù shàng de yè hěn měi.",
+      "english": "The leaves on the tree are beautiful."
+    },
+    {
+      "chinese": "他轻轻地拿起一片叶(他輕輕地拿起一片葉)，仔细端详(仔細端詳)。",
+      "pinyin": "Tā qīng qīng de ná qǐ yī piàn yè, zǐ xì duān xiáng.",
+      "english": "He gently picked up a leaf and examined it carefully."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "热敏",
+  "traditional": "熱敏",
+  "pinyin": "rèmǐn",
+  "english": "thermo-sensitive",
+  "etymology": {
+    "type": "compound word",
+    "description": "热(熱) (rè, \"heat\") + 敏(敏) (mǐn, \"sensitive\") = being sensitive to changes in temperature.",
+    "interpretation": "The term 热敏(熱敏) (rèmǐn, \"thermo-sensitive\") describes a quality or a property of materials or devices that respond to heat. This is commonly applied in technology and materials science to refer to substances that alter their behavior or state in response to temperature changes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "热",
+      "trad": "熱",
+      "pinyin": "rè",
+      "english": "heat; hot; fever"
+    },
+    {
+      "char": "敏",
+      "trad": "敏",
+      "pinyin": "mǐn",
+      "english": "sensitive; agile; clever; fast"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "仪器采用热敏传感器检测温度(儀器採用熱敏傳感器檢測溫度)，确保数据准确(確保數據準確)。",
+      "pinyin": "Yíqì cǎiyòng rè mǐn chuángǎn qì jiǎncè wēndù, quèbǎo shùjù zhǔnquè.",
+      "english": "The device uses a thermo-sensitive sensor to monitor the temperature, ensuring accurate data."
+    },
+    {
+      "chinese": "这种热敏材料在温度变化时保持稳定(這種熱敏材料在溫度變化時保持穩定)。",
+      "pinyin": "Zhè zhǒng rè mǐn cáiliào zài wēndù biànhuà shí bǎochí wěndìng.",
+      "english": "This thermo-sensitive material remains stable when the temperature changes."
+    },
+    {
+      "chinese": "工程师利用热敏效应校准设备(工程師利用熱敏效應校準設備)。",
+      "pinyin": "Gōngchéngshī lìyòng rè mǐn xiàoyìng jiàozhǔn shèbèi.",
+      "english": "The engineer calibrates the equipment using the thermo-sensitive effect."
+    }
+  ]
+}

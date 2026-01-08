@@ -1,0 +1,45 @@
+{
+  "simplified": "秦始皇",
+  "traditional": "秦始皇",
+  "pinyin": "Qín Shǐhuáng",
+  "english": "Qin Shi Huang (first emperor of Qin)",
+  "etymology": {
+    "type": "compound word",
+    "description": "秦(秦) (Qín, \"Qin\") refers to the Qin state, which was one of the warring states in ancient China. 始(始) (shǐ, \"beginning\") indicates the notion of beginning or being the first. 皇(皇) (huáng, \"emperor\") signifies an emperor or sovereign. Together, 秦始皇(Qín Shǐhuáng) refers to the first emperor of the unified China under the Qin dynasty.",
+    "interpretation": "秦始皇(Qín Shǐhuáng), or Emperor Qin Shi Huang, is renowned for being the first emperor to unify China in 221 BCE. His rule marked the foundation of imperial China, and he is famed for monumental projects like the initial construction of the Great Wall.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "秦",
+      "trad": "秦",
+      "pinyin": "Qín",
+      "english": "Qin"
+    },
+    {
+      "char": "始",
+      "trad": "始",
+      "pinyin": "shǐ",
+      "english": "beginning; first"
+    },
+    {
+      "char": "皇",
+      "trad": "皇",
+      "pinyin": "huáng",
+      "english": "emperor; sovereign"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秦始皇统一六国(秦始皇統一六國)。",
+      "pinyin": "Qín Shǐhuáng tǒngyī liùguó.",
+      "english": "Qin Shi Huang unified the Six States."
+    },
+    {
+      "chinese": "秦始皇修建长城(秦始皇修建長城)，铸就了永恒的传说(鑄就了永恆的傳說)。",
+      "pinyin": "Qín Shǐhuáng xiūjiàn chángchéng, zhùjiù le yǒnghéng de chuánshuō.",
+      "english": "Qin Shi Huang built the Great Wall, forging an everlasting legend."
+    }
+  ]
+}

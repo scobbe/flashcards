@@ -1,0 +1,44 @@
+{
+  "simplified": "樊",
+  "traditional": "樊",
+  "pinyin": "fán",
+  "english": "",
+  "etymology": {
+    "type": "Phono-semantic compound and ideogrammic compound",
+    "description": "Phonetic: 棥 (fán) + Semantic: 武(displays strength as an enclosure, suggesting 'obstruction') -> obstacle or barrier",
+    "interpretation": "The character 樊(fán, 'obstacle') combines the phonetic component 棥 with the semantic component 武, which together indicate the concept of an obstruction. This dual combination effectively communicates the idea of a barrier or hindrance, utilizing both sound and meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "棥",
+      "trad": "棥",
+      "pinyin": "fán",
+      "english": "phonetic component"
+    },
+    {
+      "char": "武",
+      "trad": "𠬜",
+      "pinyin": "wǔ",
+      "english": "displays strength as an enclosure"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "樊先生今天来访(樊先生今天來訪)。",
+      "pinyin": "Fán xiānsheng jīntiān lái fǎng.",
+      "english": "Mr. Fan visited today."
+    },
+    {
+      "chinese": "樊家的传统文化深厚(樊家的傳統文化深厚)，人人引以为傲(人人引以為傲)。",
+      "pinyin": "Fán jiā de chuántǒng wénhuà shēnhòu, rén rén yǐn yǐ wéi ào.",
+      "english": "The Fan family's traditional culture is profound, and everyone takes pride in it."
+    },
+    {
+      "chinese": "樊先生致力于社会公益(樊先生致力於社會公益)，赢得广泛赞誉(贏得廣泛讚譽)。",
+      "pinyin": "Fán xiānsheng zhìlì yú shèhuì gōngyì, yíngdé guǎngfàn zànyù.",
+      "english": "Mr. Fan is dedicated to social welfare, earning widespread acclaim."
+    }
+  ]
+}

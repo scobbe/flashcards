@@ -1,0 +1,45 @@
+{
+  "simplified": "付",
+  "traditional": "付",
+  "pinyin": "fù",
+  "english": "hand over",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亻(人) (rén, \"person\") + 又(又) (yòu, \"hand\") or 亻(人) (rén, \"person\") + 寸(寸) (cùn, \"hand\") = person giving with hand -> to deliver, hand over",
+    "interpretation": "The character 付(付) (fù, \"hand over\") combines 亻(人) (rén, \"person\") with a hand component. It visually represents the action of a person handing something over to another, emphasizing the act of giving or delivering.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我把钱付给他(我把錢付給他)。",
+      "pinyin": "Wǒ bǎ qián fù gěi tā.",
+      "english": "I handed the money to him."
+    },
+    {
+      "chinese": "他急忙把票款付给售票员(他急忙把票款付給售票員)，以便赶上电影(以便趕上電影)。",
+      "pinyin": "Tā jímáng bǎ piào kuǎn fù gěi shòupiàoyuán, yǐbiàn gǎn shàng diànyǐng.",
+      "english": "He hurriedly handed the ticket payment to the ticket seller to catch the movie."
+    }
+  ]
+}

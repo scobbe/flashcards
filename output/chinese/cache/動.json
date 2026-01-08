@@ -1,0 +1,44 @@
+{
+  "simplified": "動",
+  "traditional": "動",
+  "pinyin": "dòng",
+  "english": "move; act",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 重(重) (zhòng, \"heavy\") + Phonetic: 力(力) (lì, \"strength\") = movement requires strength -> move; act",
+    "interpretation": "動(動) (dòng, \"move; act\") combines the idea of heaviness with strength, suggesting that movement or action often involves overcoming resistance or lifting weight.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "重",
+      "trad": "重",
+      "pinyin": "zhòng",
+      "english": "heavy"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他動起來很快(他動起來很快)。",
+      "pinyin": "Tā dòng qǐ lái hěn kuài.",
+      "english": "He moved quickly."
+    },
+    {
+      "chinese": "机遇到来时(機遇到來時)，他决定动身出发(他決定動身出發)。",
+      "pinyin": "Jīyù dào lái shí, tā juédìng dòng shēn chūfā.",
+      "english": "When opportunity arrives, he decided to set off."
+    },
+    {
+      "chinese": "我们动起来更有效率(我們動起來更有效率)。",
+      "pinyin": "Wǒmen dòng qǐ lái gèng yǒuxiàolǜ.",
+      "english": "We become more efficient when we get moving."
+    }
+  ]
+}

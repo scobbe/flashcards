@@ -1,0 +1,51 @@
+{
+  "simplified": "脑",
+  "traditional": "腦",
+  "pinyin": "nǎo",
+  "english": "brain; mind; head",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "匕(匕) (bǐ, 'spoon') + 巛(川) (chuān, 'river', used here for 'hair') + 囟(囟) (xìn, 'fontanel') -> ideogrammic for 'head with hair and a spoon-like shape inside' -> 匘 with 匕 replaced by 肉(肉) (ròu, 'flesh') = 'flesh inside a head' -> modern form for 'brain'",
+    "interpretation": "The character 脑(nǎo) ('brain') evolved from the idea of a fleshy interior within the head, emphasizing its conceptual association with the head and thoughts.",
+    "simplification": "Simplified from 腦 by replacing the complex 囟(bottom part) with the simpler character 月(yuè), retaining the meaning linked to 'flesh within the head'."
+  },
+  "parts": [
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    },
+    {
+      "char": "巛",
+      "trad": "川",
+      "pinyin": "chuān",
+      "english": "river"
+    },
+    {
+      "char": "囟",
+      "trad": "囟",
+      "pinyin": "xìn",
+      "english": "fontanel"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用脑(他用腦)，思考问题(思考問題)。",
+      "pinyin": "Tā yòng nǎo, sī kǎo wèn tí.",
+      "english": "He uses his brain to think over problems."
+    },
+    {
+      "chinese": "他的脑很聪明(他的腦很聰明)！",
+      "pinyin": "Tā de nǎo hěn cōngmíng!",
+      "english": "His brain is very smart!"
+    }
+  ]
+}

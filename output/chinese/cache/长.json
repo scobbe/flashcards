@@ -1,0 +1,44 @@
+{
+  "simplified": "长",
+  "traditional": "長",
+  "pinyin": "cháng",
+  "english": "long",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 彡(彡) (shān, \"pattern\") + Semantic: 镸(镸) (cháng, \"long\") = emphasizes length and the phonetic sound cháng -> long",
+    "interpretation": "The character combines the phonetic component 彡(彡) (shān, \"pattern\") with the semantic component 镸(镸) (cháng, \"long\") to denote the concept of length, emphasizing the characteristic of being long.",
+    "simplification": "長(長): 长 is a simplification that retains the key semantic component 镸 with a reduced form of 彡 for ease and speed of writing."
+  },
+  "parts": [
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "pattern"
+    },
+    {
+      "char": "镸",
+      "trad": "長",
+      "pinyin": "cháng",
+      "english": "long"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条路很长(這條路很長)。",
+      "pinyin": "Zhè tiáo lù hěn cháng.",
+      "english": "This road is very long."
+    },
+    {
+      "chinese": "他的等待时间很长(他的等待時間很長)，心情变得焦虑(心情變得焦慮)。",
+      "pinyin": "Tā de děngdài shíjiān hěn cháng, xīnqíng biàn de jiāolǜ.",
+      "english": "His waiting time was long, and his mood became anxious."
+    },
+    {
+      "chinese": "大桥很长(大橋很長)，连接了两岸(連接了兩岸)。",
+      "pinyin": "Dàqiáo hěn cháng, liánjiē le liǎng'àn.",
+      "english": "The bridge is long, connecting the two banks."
+    }
+  ]
+}

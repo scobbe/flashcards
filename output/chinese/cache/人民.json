@@ -1,0 +1,44 @@
+{
+  "simplified": "人民",
+  "traditional": "人民",
+  "pinyin": "rénmín",
+  "english": "the people",
+  "etymology": {
+    "type": "compound word",
+    "description": "人(人) (rén, \"person\") + 民(民) (mín, \"people\") = collective term for a population or the citizens of a country -> the people",
+    "interpretation": "人民(人民) (rénmín, \"the people\") combines 人(人) (rén, \"person\") and 民(民) (mín, \"people\") to convey the idea of a collective group of individuals that form the population of a nation or society. It emphasizes the concept of unity among individuals as constituents of a community or country.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person; man; people; human"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people; citizens; folk; the masses"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "人民是国家的基石(人民是國家的基石)。",
+      "pinyin": "rénmín shì guójiā de jīshí",
+      "english": "The people are the cornerstone of the nation."
+    },
+    {
+      "chinese": "政府依靠人民(政府依靠人民)，共同创造繁荣(共同創造繁榮)。",
+      "pinyin": "zhèngfǔ yīkào rénmín, gòngtóng chuàngzào fánróng",
+      "english": "The government relies on the people, together creating prosperity."
+    },
+    {
+      "chinese": "革命属于人民(革命屬於人民)，人民实现了解放(人民實現了解放)。",
+      "pinyin": "gémìng shǔyú rénmín, rénmín shíxiàn le jiěfàng",
+      "english": "Revolution belongs to the people, and the people achieved liberation."
+    }
+  ]
+}

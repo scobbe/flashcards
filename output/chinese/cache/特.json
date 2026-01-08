@@ -1,0 +1,39 @@
+{
+  "simplified": "特",
+  "traditional": "特",
+  "pinyin": "tè",
+  "english": "special",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 牛(牛) (niú, \"cow\") + phonetic: 寺(寺) (sì, \"temple\") = a kind of cattle used for special purposes -> special",
+    "interpretation": "The character 特(特) (tè, \"special\") combines 牛(牛) (niú, \"cow\") to imply a kind associated with cattle, and 寺(寺) (sì, \"temple\") for its phonetic value to convey the idea of something specialized or set apart. Historically, certain cattle were designated for particular uses, signifying their specialness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "temple"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这道菜味道特鲜美(這道菜味道特鮮美)。",
+      "pinyin": "Zhè dào cài wèi dào tè xiān měi.",
+      "english": "The taste of this dish is exceptionally fresh and delicious."
+    },
+    {
+      "chinese": "他努力工作(他努力工作)，成绩特突出(成績特突出)。",
+      "pinyin": "Tā nǔlì gōngzuò, chéngjì tè tū chū.",
+      "english": "He works hard, and his performance is remarkably outstanding."
+    }
+  ]
+}

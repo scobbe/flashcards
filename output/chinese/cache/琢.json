@@ -1,0 +1,50 @@
+{
+  "simplified": "琢",
+  "traditional": "琢",
+  "pinyin": "zhuó",
+  "english": "carve; polish (jade)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "玉(玉) (yù, \"jade\") + 石(石) (shí, \"stone\") = related to working with jade -> phonetic: 豆(豆) (dòu) suggests pronunciation",
+    "interpretation": "The character 琢(zhuó, \"carve; polish\") suggests the process of shaping and refining jade, a task that involves skillful use of stone tools. The presence of 玉(玉) (yù, \"jade\") highlights the context of working with valuable stones, while 豆(豆) (dòu) provides a phonetic clue to the character's pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工匠琢玉雕龙(工匠琢玉雕龍)。",
+      "pinyin": "Gōngjiàng zhuó yù diāo lóng.",
+      "english": "The craftsman carves jade into a dragon."
+    },
+    {
+      "chinese": "他琢磨古玉(他琢磨古玉)，寻找其中的美(尋找其中的美)。",
+      "pinyin": "Tā zhuó mó gǔ yù, xúnzhǎo qízhōng de měi.",
+      "english": "He polishes ancient jade, seeking the beauty within."
+    },
+    {
+      "chinese": "他不断琢玉(他不斷琢玉)，雕琢出美丽纹路(雕琢出美麗紋路)。",
+      "pinyin": "Tā bùduàn zhuó yù, diāozhuó chū měilì wénlù.",
+      "english": "He constantly polishes jade, carving out beautiful patterns."
+    }
+  ]
+}

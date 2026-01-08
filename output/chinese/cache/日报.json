@@ -1,0 +1,39 @@
+{
+  "simplified": "日报",
+  "traditional": "日報",
+  "pinyin": "rìbào",
+  "english": "daily newspaper",
+  "etymology": {
+    "type": "compound word",
+    "description": "日(日) (rì, \"day\") + 报(報) (bào, \"report; newspaper\") = daily report or newspaper. 日報(日報) (rìbào, \"daily newspaper\") refers to a newspaper that is published every day.",
+    "interpretation": "A 日報(日報) (rìbào, \"daily newspaper\") is a publication that provides news and information on a daily basis, emphasizing the frequency of release to keep the audience updated with the latest happenings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "day; sun; date; lifetime"
+    },
+    {
+      "char": "报",
+      "trad": "報",
+      "pinyin": "bào",
+      "english": "report; newspaper; recompense; respond"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天读日报(我每天讀日報)。",
+      "pinyin": "wǒ měitiān dú rìbào.",
+      "english": "I read the daily newspaper every day."
+    },
+    {
+      "chinese": "因为工作忙(因爲工作忙)，我每天抽时间看日报(我每天抽時間看日報)。",
+      "pinyin": "yīnwèi gōngzuò máng, wǒ měitiān chōu shíjiān kàn rìbào.",
+      "english": "Because work is busy, I take time every day to read the daily newspaper."
+    }
+  ]
+}

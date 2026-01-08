@@ -1,0 +1,31 @@
+{
+  "simplified": "商",
+  "traditional": "商",
+  "pinyin": "shāng",
+  "english": "commerce; business",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 㕯(㕯) (to speak slowly) + phonetic: 章(章) (zhāng, \"chapter\") -> originally estimating inside from outside, evolved to commerce",
+    "interpretation": "12.0",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他投身于商界(他投身於商界)。",
+      "pinyin": "tā tóu shēn yú shāng jiè.",
+      "english": "He devotes himself to the business world."
+    },
+    {
+      "chinese": "古代商贾往来频繁(古代商賈往來頻繁)，市井繁华似锦(市井繁華似錦)。",
+      "pinyin": "gǔdài shāng jiǎ wǎng lái pín fán, shì jǐng fán huá sì jǐn.",
+      "english": "In ancient times, merchants frequently traded, and the markets thrived brilliantly."
+    },
+    {
+      "chinese": "兴商有道者致富(興商有道者致富)。",
+      "pinyin": "xīng shāng yǒu dào zhě zhì fù.",
+      "english": "Those who engage in sound business practices prosper."
+    }
+  ]
+}

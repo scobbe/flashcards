@@ -1,0 +1,44 @@
+{
+  "simplified": "抹茶",
+  "traditional": "抹茶",
+  "pinyin": "mǒchá",
+  "english": "matcha",
+  "etymology": {
+    "type": "compound word",
+    "description": "抹(抹) (mǒ, \"apply; rub; grind\") 茶(茶) (chá, \"tea\")",
+    "interpretation": "抹茶(抹茶) (mǒchá, \"matcha\") refers to a type of finely ground powdered green tea. The term combines 抹(抹) (mǒ, \"apply; rub; grind\"), highlighting the process of grinding the tea leaves, with 茶(茶) (chá, \"tea\"), indicating the primary ingredient. This describes the unique method of preparing matcha, distinct from other forms of tea, which involves grinding tea leaves into a powder.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "抹",
+      "trad": "抹",
+      "pinyin": "mǒ",
+      "english": "apply; rub; grind"
+    },
+    {
+      "char": "茶",
+      "trad": "茶",
+      "pinyin": "chá",
+      "english": "tea"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝抹茶(我喜歡喝抹茶)。",
+      "pinyin": "Wǒ xǐhuān hē mǒchá.",
+      "english": "I like drinking matcha."
+    },
+    {
+      "chinese": "她用抹茶做蛋糕(她用抹茶做蛋糕)，味道非常独特(味道非常獨特)。",
+      "pinyin": "Tā yòng mǒchá zuò dàngāo, wèidào fēicháng dútè.",
+      "english": "She makes cakes with matcha, and the taste is very unique."
+    },
+    {
+      "chinese": "清晨时我品尝抹茶(清晨時我品嚐抹茶)，感受晨光美好(感受晨光美好)。",
+      "pinyin": "Qīngchén shí wǒ pǐncháng mǒchá, gǎnshòu chénguāng měihǎo.",
+      "english": "In the early morning, I taste matcha and feel the beauty of the morning light."
+    }
+  ]
+}

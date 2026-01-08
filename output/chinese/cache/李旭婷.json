@@ -1,0 +1,50 @@
+{
+  "simplified": "李旭婷",
+  "traditional": "李旭婷",
+  "pinyin": "Lǐ Xùtíng",
+  "english": "Chinese personal name",
+  "etymology": {
+    "type": "compound word",
+    "description": "李(李) (Lǐ, \"a common Chinese surname\"), 旭(旭) (xù, \"rising sun; dawn\"), 婷(婷) (tíng, \"graceful; elegant\")",
+    "interpretation": "The name combines 李(李) (Lǐ, \"a common Chinese surname\") with 旭(旭) (xù, \"rising sun; dawn\") and 婷(婷) (tíng, \"graceful; elegant\"), suggesting a person associated with grace and new beginnings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "李",
+      "trad": "李",
+      "pinyin": "Lǐ",
+      "english": "a common Chinese surname"
+    },
+    {
+      "char": "旭",
+      "trad": "旭",
+      "pinyin": "xù",
+      "english": "rising sun; dawn"
+    },
+    {
+      "char": "婷",
+      "trad": "婷",
+      "pinyin": "tíng",
+      "english": "graceful; elegant"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "李旭婷是我的好朋友(李旭婷是我的好朋友)。",
+      "pinyin": "Lǐ Xùtíng shì wǒ de hǎo péngyǒu.",
+      "english": "Li Xùtíng is my good friend."
+    },
+    {
+      "chinese": "昨天我见到李旭婷(昨天我見到李旭婷)，她穿着漂亮的衣服(她穿著漂亮的衣服)。",
+      "pinyin": "Zuótiān wǒ jiàn dào Lǐ Xùtíng, tā chuānzhe piàoliang de yīfú.",
+      "english": "Yesterday I met Li Xùtíng, and she was wearing beautiful clothes."
+    },
+    {
+      "chinese": "李旭婷热爱读书(李旭婷熱愛讀書)，每天都在图书馆自习(每天都在圖書館自習)。",
+      "pinyin": "Lǐ Xùtíng rè'ài dúshū, měitiān dōu zài túshūguǎn zìxí.",
+      "english": "Li Xùtíng loves reading and studies in the library every day."
+    }
+  ]
+}

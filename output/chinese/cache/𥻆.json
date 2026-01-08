@@ -1,0 +1,39 @@
+{
+  "simplified": "𥻆",
+  "traditional": "𥻆",
+  "pinyin": "None",
+  "english": "None",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 米(米) (mǐ, 'rice') + Phonetic: 夅(夅) (jiàng, 'descend') = implies rice-related context with pronunciation resembling 夅",
+    "interpretation": "The character 𥻆 combines 米(米) (mǐ, 'rice'), suggesting a connection to rice or grains, with 夅(夅) (jiàng, 'descend') for phonetic similarity. It might have been used in a specific or narrow context related to rice preparation or species.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "夅",
+      "trad": "夅",
+      "pinyin": "jiàng",
+      "english": "descend"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "那幅字画上写着𥻆(那幅字畫上寫著𥻆)，显得古朴独特(顯得古樸獨特)。",
+      "pinyin": "Nà fú zìhuà shàng xiě zhe chā, xiǎn de gǔpǔ dútè.",
+      "english": "That piece of calligraphy is inscribed with 𥻆, giving it a uniquely rustic charm."
+    },
+    {
+      "chinese": "夜空中隐约可见𥻆(夜空中隱約可見𥻆)。",
+      "pinyin": "Yè kōng zhōng yǐn yuē kě jiàn chā.",
+      "english": "In the night sky, 𥻆 can be faintly seen."
+    }
+  ]
+}

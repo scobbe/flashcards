@@ -1,0 +1,44 @@
+{
+  "simplified": "很好",
+  "traditional": "很好",
+  "pinyin": "hěn hǎo",
+  "english": "very good",
+  "etymology": {
+    "type": "compound word",
+    "description": "很(很) (hěn, \"very\") and 好(好) (hǎo, \"good\") combine to form a phrase that means \"very good.\" 很(很) (hěn, \"very\") is an intensifier used to modify adjectives, while 好(好) (hǎo, \"good\") describes a positive quality or state.",
+    "interpretation": "This combination is frequently used in Mandarin to express a high degree of positivity or approval by intensifying the adjective 好(好) (hǎo, \"good\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "很",
+      "trad": "很",
+      "pinyin": "hěn",
+      "english": "very; quite; much; to a large extent"
+    },
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "good; well; fine; nice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这部电影很好(這部電影很好)。",
+      "pinyin": "Zhè bù diànyǐng hěn hǎo.",
+      "english": "This movie is very good."
+    },
+    {
+      "chinese": "今天的天气很好(今天的天氣很好)。",
+      "pinyin": "Jīntiān de tiānqì hěn hǎo.",
+      "english": "Today's weather is very good."
+    },
+    {
+      "chinese": "他的中文说得很好(他的中文說得很好)，让人印象深刻(讓人印象深刻)。",
+      "pinyin": "Tā de Zhōngwén shuō de hěn hǎo, ràng rén yìnxiàng shēnkè.",
+      "english": "His Chinese is very good, leaving a deep impression."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "阴",
+  "traditional": "陰",
+  "pinyin": "yīn",
+  "english": "concealed; shade; moon; female",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 阜(阜) (fù, \"mound\") + Phonetic: 侌(侌) (yīn) = concealed places or shade -> moon and female associations",
+    "interpretation": "The character 阴(陰) (yīn, \"concealed\") uses 阜(阜) (fù, \"mound\") to suggest a connection to physical features like hills or mounds that create shade, while 侌(侌) (yīn) contributes the sound. This relates to concepts of concealment, shadow, and indirectly the moon and femininity in traditional Chinese thought.",
+    "simplification": "The character 阴(阴) replaces the phonetic 侌(侌) (yīn) with 月(月) (yuè, \"moon\"), making it visually more simple and retaining the association with moon-related meanings."
+  },
+  "parts": [
+    {
+      "char": "阜",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "侌",
+      "trad": "侌",
+      "pinyin": "yīn",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "北方的阴雨绵绵(北方的陰雨綿綿)，让人感到忧郁(讓人感到憂鬱)。",
+      "pinyin": "Běifāng de yīnyǔ miánmián, ràng rén gǎndào yōuyù.",
+      "english": "The continuous gloomy drizzle in the north makes people feel depressed."
+    },
+    {
+      "chinese": "她展现出阴柔之美(她展現出陰柔之美)，令人着迷(令人著迷)。",
+      "pinyin": "Tā zhǎnxiàn chū yīnróu zhī měi, lìng rén zháomí.",
+      "english": "She displays a unique feminine grace that captivates people."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，月色显得格外阴柔(月色顯得格外陰柔)。",
+      "pinyin": "Yèmù jiànglín shí, yuèsè xiǎndé géwài yīnróu.",
+      "english": "As night falls, the moonlight appears especially soft and feminine."
+    }
+  ]
+}

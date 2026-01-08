@@ -1,0 +1,9 @@
+[别]
+Variant of 別 , where 𠮠 is replaced with the visually-similar 另 .
+Officially adopted as the simplified form of 彆 in the Chinese Character Simplification Scheme ( 《 漢字簡化方案 》 ) in 1956.
+
+[別]
+Ideogrammic compound ( 會意 / 会意 ): 冎 ( “ bone ” ) + 刂 ( “ knife ” ) , hence 𠛰 – to cut up bone and flesh. Later, the character was stylized as 別. See also 另 .
+
+[彆]
+Phono-semantic compound ( 形聲 / 形声 , OC *peds, *peːd ): phonetic 敝 ( OC *beds, *bed ) + semantic 弓 ( “ bow ” ) .

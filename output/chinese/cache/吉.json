@@ -1,0 +1,44 @@
+{
+  "simplified": "吉",
+  "traditional": "吉",
+  "pinyin": "jí",
+  "english": "auspicious; lucky; propitious; good fortune",
+  "etymology": {
+    "type": "ideogram",
+    "description": "士(士) (shì, \"scholar\") (ritual axe) + 口(口) (kǒu, \"mouth\") -> representation of rituals to acquire favor -> auspiciousness",
+    "interpretation": "The character 吉(jí) combines 士(士) (shì, \"scholar\") symbolizing a ritual axe and 口(口) (kǒu, \"mouth\"), suggesting ancient rituals for gaining ancestral or divine blessings. This association leads to the meaning of 'auspicious' or 'lucky'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天是吉日(今天是吉日)，适合举办婚礼(適合舉辦婚禮)。",
+      "pinyin": "Jīntiān shì jírì, shìhé jǔbàn hūnlǐ.",
+      "english": "Today is an auspicious day, suitable for holding a wedding."
+    },
+    {
+      "chinese": "他抽到吉牌(他抽到吉牌)。",
+      "pinyin": "Tā chōu dào jí pái.",
+      "english": "He drew a lucky card."
+    },
+    {
+      "chinese": "这次考试结果吉利(這次考試結果吉利)，大家都感到欣慰(大家都感到欣慰)。",
+      "pinyin": "Zhè cì kǎoshì jiéguǒ jílì, dàjiā dōu gǎndào xīnwèi.",
+      "english": "The results of this exam were auspicious, and everyone felt relieved."
+    }
+  ]
+}

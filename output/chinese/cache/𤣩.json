@@ -1,0 +1,38 @@
+{
+  "simplified": "𤣩",
+  "traditional": "𤣩",
+  "pinyin": "yù",
+  "english": "jade",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cong (琮, 'ritual jade totem') -> interpreted as three pieces of jade strung on a string -> simplified to 玉 as a distinct shape from 王 by adding a dot",
+    "interpretation": "The character 𤣩(yù, 'jade') is a variant of 玉, which originally depicted a jade object used in rituals. The distinction with 王(wáng, 'king') was made through a simple dot to specify its unique meaning related to jade.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "那块𤣩闪着奇异的光芒(那塊𤣩閃著奇異的光芒)。",
+      "pinyin": "Nà kuài yù shǎn zhe qíyì de guāngmáng.",
+      "english": "That piece of jade shines with a strange brilliance."
+    },
+    {
+      "chinese": "他仔细打磨(他仔細打磨)，令这块𤣩更显温润(令這塊𤣩更顯溫潤)。",
+      "pinyin": "Tā zǐxì dǎmó, lìng zhè kuài yù gèng xiǎn wēnrùn.",
+      "english": "He polished it carefully, making the jade appear even more mellow."
+    },
+    {
+      "chinese": "透明的𤣩显露出细腻的纹理(透明的𤣩顯露出細膩的紋理)。",
+      "pinyin": "Tòumíng de yù xiǎnlù chū xìnì de wénlǐ.",
+      "english": "The translucent jade reveals delicate patterns."
+    }
+  ]
+}

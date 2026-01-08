@@ -1,0 +1,39 @@
+{
+  "simplified": "罗",
+  "traditional": "羅",
+  "pinyin": "luó",
+  "english": "net",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𦉎(𦉎) (wǎng, \"net\") + 維(維) (wéi, \"bird tied with string\") = net for catching birds -> 羅(羅) (luó, \"net\")",
+    "interpretation": "The character 羅(羅) (luó) originally depicted a net used for catching birds, combining the symbols for a net and a bird tied with string. This visually represents its function as a bird-catching tool.",
+    "simplification": "The simplified form 罗 simplifies 羅 by reducing the complexity of the net component, likely influenced by cursive handwriting styles."
+  },
+  "parts": [
+    {
+      "char": "𦉎",
+      "trad": "𦉎",
+      "pinyin": "wǎng",
+      "english": "net"
+    },
+    {
+      "char": "維",
+      "trad": "維",
+      "pinyin": "wéi",
+      "english": "bird tied with string"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "渔民撒下罗(漁民撒下羅)，捕到了许多鱼(捕到了許多魚)。",
+      "pinyin": "Yúmín sā xià luó, bǔ dàole xǔduō yú.",
+      "english": "The fisherman cast the net, and caught many fish."
+    },
+    {
+      "chinese": "老渔夫修补罗(老漁夫修補羅)。",
+      "pinyin": "Lǎo yúfū xiūbǔ luó.",
+      "english": "The old fisherman mended the net."
+    }
+  ]
+}

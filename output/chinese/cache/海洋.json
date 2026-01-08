@@ -1,0 +1,44 @@
+{
+  "simplified": "海洋",
+  "traditional": "海洋",
+  "pinyin": "hǎiyáng",
+  "english": "ocean; seas",
+  "etymology": {
+    "type": "compound word",
+    "description": "海(海) (hǎi, \"sea\") refers to a body of saline water, often part of the ocean. 洋(洋) (yáng, \"ocean; vast\") signifies something expansive and broad, usually referencing the larger bodies of water that cover much of the Earth's surface. Together, 海洋(海洋) (hǎiyáng, \"ocean; seas\") denotes the vast, interconnected bodies of saltwater that cover the majority of the Earth's surface.",
+    "interpretation": "海(海) (hǎi, \"sea\") combined with 洋(洋) (yáng, \"ocean; vast\") creates a term that emphasizes the vastness and interconnectivity of the seas, covering the Earth's surface.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea"
+    },
+    {
+      "char": "洋",
+      "trad": "洋",
+      "pinyin": "yáng",
+      "english": "ocean; vast"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢海洋(我喜歡海洋)。",
+      "pinyin": "Wǒ xǐhuān hǎiyáng.",
+      "english": "I like the ocean."
+    },
+    {
+      "chinese": "科学家研究海洋(科學家研究海洋)，探索未知(探索未知)。",
+      "pinyin": "Kēxuéjiā yánjiū hǎiyáng, tànsuǒ wèizhī.",
+      "english": "Scientists study the ocean and explore the unknown."
+    },
+    {
+      "chinese": "深邃的海洋孕育生命(深邃的海洋孕育生命)。",
+      "pinyin": "Shēnsuì de hǎiyáng yùnyù shēngmìng.",
+      "english": "The deep ocean nurtures life."
+    }
+  ]
+}

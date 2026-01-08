@@ -1,0 +1,44 @@
+{
+  "simplified": "粗",
+  "traditional": "粗",
+  "pinyin": "cū",
+  "english": "coarse; rough",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 且(且) (qiě, \"further\") = rice in abundance or coarseness -> coarse; rough",
+    "interpretation": "The character 粗(cū) combines 米(米) (mǐ, \"rice\") suggesting a grainy texture with 且(且) (qiě, \"further\") as the phonetic element, together implying something that is not finely processed, hence the meaning 'coarse; rough'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "further"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这块石头表面粗(這塊石頭表面粗)。",
+      "pinyin": "Zhè kuài shítou biǎomiàn cū.",
+      "english": "The surface of this stone is coarse."
+    },
+    {
+      "chinese": "他的表达方式粗(他的表達方式粗)，让人难以接受(讓人難以接受)。",
+      "pinyin": "Tā de biǎodá fāngshì cū, ràng rén nányǐ jiēshòu.",
+      "english": "His way of expression is coarse, making it hard for people to accept."
+    },
+    {
+      "chinese": "这根绳子编织得很粗(這根繩子編織得很粗)，但却十分结实(但卻十分結實)。",
+      "pinyin": "Zhè gēn shéngzi biānzhī de hěn cū, dàn què shífēn jiéshí.",
+      "english": "This rope is woven roughly, yet it is very sturdy."
+    }
+  ]
+}

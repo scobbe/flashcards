@@ -1,0 +1,44 @@
+{
+  "simplified": "宠",
+  "traditional": "寵",
+  "pinyin": "chǒng",
+  "english": "favor; pamper",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 宀(宀) (mián, \"roof\") + phonetic: 龍(龙) (lóng, \"dragon\") = protection under a roof granted to a revered creature -> favor; pamper",
+    "interpretation": "The character combines the sheltering element 宀(宀) (mián, \"roof\") with the phonetic and majestic 龍(龙) (lóng, \"dragon\"), conveying the idea of special attention or privilege granted to someone cherished, like a dragon sheltered in a house.",
+    "simplification": "寵(寵) was simplified to 宠(宠) by reducing 龍(龙) to a more cursive and phonetic form that still resembles the association with protection or favor."
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "龍",
+      "trad": "龙",
+      "pinyin": "lóng",
+      "english": "dragon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈宠孩子(媽媽寵孩子)。",
+      "pinyin": "māmā chǒng háizi.",
+      "english": "Mother pampers her child."
+    },
+    {
+      "chinese": "他宠女儿(他寵女兒)，带她去游乐园(帶她去遊樂園)。",
+      "pinyin": "tā chǒng nǚér, dài tā qù yóulèyuán.",
+      "english": "He dotes on his daughter and takes her to the amusement park."
+    },
+    {
+      "chinese": "李先生宠爱宠物(李先生寵愛寵物)。",
+      "pinyin": "lǐ xiānshēng chǒng'ài chǒngwù.",
+      "english": "Mr. Li spoils his pet."
+    }
+  ]
+}

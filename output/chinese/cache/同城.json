@@ -1,0 +1,39 @@
+{
+  "simplified": "同城",
+  "traditional": "同城",
+  "pinyin": "Wǔ Bā Tóngchéng",
+  "english": "Chinese online classifieds platform",
+  "etymology": {
+    "type": "compound word",
+    "description": "同(同) (tóng, \"same\") and 城(城) (chéng, \"city\") combine to form a term that suggests things occurring within the same city.",
+    "interpretation": "同城(同城) (tóngchéng, \"same city\") refers to services, events, or activities that take place within the same urban area. In the context of an online classifieds platform, it highlights the local focus, facilitating users to buy, sell, or trade items and services within the same geographic city, enhancing community connections.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same; similar; together; with"
+    },
+    {
+      "char": "城",
+      "trad": "城",
+      "pinyin": "chéng",
+      "english": "city; town; fortress; walls"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "58同城是一个流行的分类信息网站(58同城是一個流行的分類信息網站)。",
+      "pinyin": "Wǔ Bā Tóngchéng shì yī gè liúxíng de fēnlèi xìnxī wǎngzhàn。",
+      "english": "58 Tongcheng is a popular classifieds website."
+    },
+    {
+      "chinese": "使用同城平台找房子很简单(使用同城平臺找房子很簡單)。",
+      "pinyin": "Shǐyòng Tóngchéng píngtái zhǎo fángzi hěn jiǎndān。",
+      "english": "Using the Tongcheng platform to find a house is very easy."
+    }
+  ]
+}

@@ -1,3 +1,6 @@
 [八]
 Pictogram ( 象形 ): two bent lines indicating the original meaning of "to divide". This character is later borrowed to mean "eight" because of homonymy, making the original meaning obsolete (now represented by 分 and 別 ).
 Unrelated to the bottom part of 兵 , 共 , 具 , and 興 , in which it represents two hands holding an object. Also unrelated to 只 and 兑 in which it represents air coming out of a mouth. Unrelated to 貝 . Eventually, unrelated to the bottom part of 其 , 真 , and 典 , in which it represents the legs of a table.
+
+[捌]
+Phono-semantic compound ( 形聲 / 形声 , OC *preːd, *praːd ): semantic 扌 ( “ hand ” ) + phonetic 別 ( OC *pred, *bred ) .

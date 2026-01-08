@@ -1,0 +1,39 @@
+{
+  "simplified": "寒秋",
+  "traditional": "寒秋",
+  "pinyin": "hánqiū",
+  "english": "late autumn",
+  "etymology": {
+    "type": "compound word",
+    "description": "寒(寒) (hán, \"cold\") refers to the chilly weather that often characterizes late autumn. 秋(秋) (qiū, \"autumn\") refers to the autumn season. Together, 寒秋 (hánqiū) suggests the late autumn period when the cold temperatures begin to set in.",
+    "interpretation": "寒秋 (hánqiū) captures the essence of autumn transitioning into winter, emphasizing the cooler and crisper weather typical during this time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "寒",
+      "trad": "寒",
+      "pinyin": "hán",
+      "english": "cold; chilly; wintry"
+    },
+    {
+      "char": "秋",
+      "trad": "秋",
+      "pinyin": "qiū",
+      "english": "autumn; fall; harvest time"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "寒秋来临(寒秋來臨)，落叶纷飞(落葉紛飛)。",
+      "pinyin": "Hánqiū láilín, luòyè fēn fēi.",
+      "english": "Late autumn arrives, and the fallen leaves flutter about."
+    },
+    {
+      "chinese": "寒秋时节(寒秋時節)，山水染上一抹冷色(山水染上一抹冷色)。",
+      "pinyin": "Hánqiū shíjié, shānshuǐ rǎn shàng yī mǒ lěngsè.",
+      "english": "In late autumn, the landscapes take on a tint of cool hues."
+    }
+  ]
+}

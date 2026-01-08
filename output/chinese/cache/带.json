@@ -1,0 +1,31 @@
+{
+  "simplified": "带",
+  "traditional": "帶",
+  "pinyin": "dài",
+  "english": "carry; bring; belt; lead",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a woven belt",
+    "interpretation": "The character 帶(帶) (dài, \"carry\") represents a belt or sash used to hold or carry things. This aligns well with its meanings related to bringing or carrying items, akin to how a belt holds items close to the body.",
+    "simplification": "带(帶): The character was retained for its pictographic meaning and was not altered despite being used in simplified form with the same structure."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他带着书包去上学(他帶著書包去上學)。",
+      "pinyin": "Tā dài zhe shūbāo qù shàng xué.",
+      "english": "He carries his schoolbag to school."
+    },
+    {
+      "chinese": "妈妈带苹果回家(媽媽帶蘋果回家)，准备做水果沙拉(準備做水果沙拉)。",
+      "pinyin": "Māmā dài píngguǒ huí jiā, zhǔnbèi zuò shuǐguǒ shālā.",
+      "english": "Mom brings apples home and prepares to make a fruit salad."
+    },
+    {
+      "chinese": "他腰间系着一条皮带(他腰間系著一條皮帶)，显得非常精神(顯得非常精神)。",
+      "pinyin": "Tā yāojiān xì zhe yītiáo pídài, xiǎn de fēicháng jīngshén.",
+      "english": "He fastens a belt around his waist and looks very energetic."
+    }
+  ]
+}

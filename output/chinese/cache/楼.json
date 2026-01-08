@@ -1,0 +1,44 @@
+{
+  "simplified": "楼",
+  "traditional": "樓",
+  "pinyin": "lóu",
+  "english": "tower; building with multiple floors",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree\") + 婁(婁) (lóu, phonetic) = wooden structure -> large building -> 樓(樓) (lóu, \"tower\")",
+    "interpretation": "The character 樓(樓) (lóu, \"tower\") combines the semantic 木(木) (mù, \"tree\") signifying wooden structures and the phonetic 婁(婁) (lóu) to suggest a large wooden building. This compound character conveys the image of a building with multiple floors, typically incorporating timber in its construction.",
+    "simplification": "樓(樓) was simplified to 楼(楼) by replacing 婁(婁) with 娄(娄), which retains the phonetic component but reduces the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "婁",
+      "trad": "婁",
+      "pinyin": "lóu",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那座楼很高(那座樓很高)。",
+      "pinyin": "Nà zuò lóu hěn gāo.",
+      "english": "That tower is tall."
+    },
+    {
+      "chinese": "我住在高楼(我住在高樓)，每天欣赏美景(每天欣賞美景)。",
+      "pinyin": "Wǒ zhù zài gāo lóu, měitiān xīnshǎng měijǐng.",
+      "english": "I live in a tall building, and every day I admire the beautiful scenery."
+    },
+    {
+      "chinese": "那座古楼是城市的标志(那座古樓是城市的標誌)。",
+      "pinyin": "Nà zuò gǔ lóu shì chéngshì de biāozhì.",
+      "english": "That ancient building is the symbol of the city."
+    }
+  ]
+}

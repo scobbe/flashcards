@@ -1,0 +1,31 @@
+{
+  "simplified": "象",
+  "traditional": "象",
+  "pinyin": "xiàng",
+  "english": "elephant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an elephant: ⺈ (trunk) + 𫩏 (head) + 𧰨 (body) -> elephant",
+    "interpretation": "The character 象(象) (xiàng, 'elephant') is a pictogram that visually represents an elephant with distinct features: the trunk, head, and body. This straightforward depiction was used to convey the concept of an elephant.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大象步伐缓慢(大象步伐緩慢)。",
+      "pinyin": "dà xiàng bùfá huǎnmàn",
+      "english": "Elephants move slowly."
+    },
+    {
+      "chinese": "小象在河边戏水(小象在河邊戲水)，妈妈紧紧护卫(媽媽緊緊護衛)。",
+      "pinyin": "xiǎo xiàng zài hé biān xì shuǐ, māma jǐn jǐn hùwèi",
+      "english": "The baby elephant splashes in the river, while its mother watches closely."
+    },
+    {
+      "chinese": "象牙被视为珍贵(象牙被視為珍貴)，常被用于雕刻(常被用於雕刻)。",
+      "pinyin": "xiàng yá bèi shì wéi zhēn guì, cháng bèi yòng yú diāo kè",
+      "english": "Ivory is considered precious and is often used for carving."
+    }
+  ]
+}

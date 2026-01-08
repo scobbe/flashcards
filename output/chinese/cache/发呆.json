@@ -1,0 +1,44 @@
+{
+  "simplified": "发呆",
+  "traditional": "發呆",
+  "pinyin": "fādāi",
+  "english": "be in a daze",
+  "etymology": {
+    "type": "compound word",
+    "description": "发(發) (fā, \"to send out; to emit\") refers to the idea of expressing or emanating something, often used with an action projection. 呆(呆) (dāi, \"dazed; dumb\") describes a state of being stunned or unresponsive, often with a lack of awareness.",
+    "interpretation": "The combination 发呆(發呆) (fādāi, \"be in a daze\") captures the state of mind in which one seems to emit or project a lack of awareness, appearing mentally absent or in a reverie.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "发",
+      "trad": "發",
+      "pinyin": "fā",
+      "english": "to send out; to emit; to issue; to develop"
+    },
+    {
+      "char": "呆",
+      "trad": "呆",
+      "pinyin": "dāi",
+      "english": "dazed; dumb; blank; dull"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正在发呆(他正在發呆)。",
+      "pinyin": "Tā zhèngzài fādāi.",
+      "english": "He is in a daze."
+    },
+    {
+      "chinese": "听到这消息时(聽到這消息時)，他发呆了(他發呆了)。",
+      "pinyin": "Tīng dào zhè xiāoxī shí, tā fādāile.",
+      "english": "When he heard the news, he was in a daze."
+    },
+    {
+      "chinese": "工作太累时发呆(工作太累時發呆)，让他错过了重要的会议(讓他錯過了重要的會議)。",
+      "pinyin": "Gōngzuò tài lèi shí fādāi, ràng tā cuòguòle zhòngyào de huìyì.",
+      "english": "Being in a daze from too much work made him miss an important meeting."
+    }
+  ]
+}

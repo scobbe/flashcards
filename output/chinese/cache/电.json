@@ -1,0 +1,44 @@
+{
+  "simplified": "电",
+  "traditional": "電",
+  "pinyin": "diàn",
+  "english": "electricity; electric; electrical",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "雨(雨) (yǔ, \"rain\") + phonetic: 申(申) (shēn) = electrical phenomena during a storm -> electricity",
+    "interpretation": "The character 电(電) (diàn, \"electricity\") combines semantic and phonetic elements to represent natural electric phenomena, like lightning, associated with rainstorms. This reflects how electricity is tied to natural forces.",
+    "simplification": "电(電) was simplified by removing the rain radical 雨(雨) (yǔ, \"rain\") while maintaining the central component 申(申) (shēn) for phonetic representation."
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "申",
+      "trad": "申",
+      "pinyin": "shēn",
+      "english": "to extend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "现代科技依赖电(電)。",
+      "pinyin": "Xiàn dài kē jì yī lài diàn(電)。",
+      "english": "Modern technology relies on electricity."
+    },
+    {
+      "chinese": "办公室里的电器都已更新(辦公室裡的電器都已更新)，节约能源效果显著(節約能源效果顯著)。",
+      "pinyin": "Bàn gōng shì lǐ de diàn qì dōu yǐ gēng xīn(辦公室裡的電器都已更新)，jié yuē néng yuán xiào guǒ xiǎn zhù(節約能源效果顯著)。",
+      "english": "The office appliances have all been updated, and the energy-saving results are remarkable."
+    },
+    {
+      "chinese": "夜晚的城市因电光闪烁(夜晚的城市因電光閃爍)，显得异常璀璨(顯得異常璀璨)。",
+      "pinyin": "Yè wǎn de chéng shì yīn diàn guāng shǎn shuò(夜晚的城市因電光閃爍)，xiǎn de yì cháng cuǐ càn(顯得異常璀璨)。",
+      "english": "The city at night shines with the gleam of electricity, appearing exceptionally dazzling."
+    }
+  ]
+}

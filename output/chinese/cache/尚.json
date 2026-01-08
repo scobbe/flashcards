@@ -1,0 +1,39 @@
+{
+  "simplified": "尚",
+  "traditional": "尚",
+  "pinyin": "shàng",
+  "english": "esteem",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "小(小) (xiǎo, \"small\") + 冋(冋) (jiōng, \"closed\") = closed top -> high -> esteem",
+    "interpretation": "The character 尚(尚) (shàng, \"esteem\") combines 小(小) (xiǎo, \"small\") with 冋(冋) (jiōng, \"closed\") to form a pictorial top. This signifies something being elevated or raised, symbolizing esteem or admiration. The closed top connotes positioning at a height or high standing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "冋",
+      "trad": "冋",
+      "pinyin": "jiōng",
+      "english": "closed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他非常尚重传统(他非常尚重傳統)。",
+      "pinyin": "Tā fēicháng shàng zhòng chuántǒng.",
+      "english": "He holds tradition in high esteem."
+    },
+    {
+      "chinese": "公司尚人才(公司尚人才)，视员工为家人(視員工為家人)。",
+      "pinyin": "Gōngsī shàng réncái, shì yuángōng wéi jiārén.",
+      "english": "The company esteems talent and regards its employees as family."
+    }
+  ]
+}

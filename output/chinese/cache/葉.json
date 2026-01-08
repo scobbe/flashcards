@@ -1,0 +1,56 @@
+{
+  "simplified": "葉",
+  "traditional": "葉",
+  "pinyin": "yè",
+  "english": "leaf",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 枼(枼) (yè, \"leaf\") = depicted a leaf on or among grass -> distinguish the meaning of 'leaf'",
+    "interpretation": "The character 葉(葉) (yè, \"leaf\") combines the semantic component of 艸(艸) (cǎo, \"grass\") with the phonetic component 枼(枼) (yè, \"leaf\"), originally a pictogram, to clearly indicate something related to foliage or plants.",
+    "simplification": "The simplified form 叶(葉) replaces the 艸(艸) with 口(口) (kǒu, \"mouth\") for simplicity, while 十(十) (shí, \"ten\") acts as a phonetic and semantic substitute through a connection with 協(協) (xié, \"to cooperate\") which is a homophone."
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "枼",
+      "trad": "枼",
+      "pinyin": "yè",
+      "english": "leaf"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋天的葉变黄了(秋天的葉變黃了)。",
+      "pinyin": "Qiūtiān de yè biàn huáng le。",
+      "english": "The leaves turn yellow in autumn."
+    },
+    {
+      "chinese": "微风轻拂枝头上的葉(微風輕拂枝頭上的葉)，闪烁着露水般的光芒(閃爍著露水般的光芒)。",
+      "pinyin": "Wēi fēng qīng fú zhī tóu shàng de yè, shǎn shuò zhe lù shuǐ bān de guāng máng。",
+      "english": "The leaves on the branches glisten like dewdrops in the gentle breeze."
+    },
+    {
+      "chinese": "唐诗中常提到飘零的葉(唐詩中常提到飄零的葉)，寄托着诗人的寂寞(寄托著詩人的寂寞)。",
+      "pinyin": "Táng shī zhōng cháng tí dào piāo líng de yè, jì tuō zhe shī rén de jì mò。",
+      "english": "Tang poems often mention falling leaves, symbolizing the poet's solitude."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "馄饨",
+  "traditional": "餛飩",
+  "pinyin": "húntun",
+  "english": "wonton",
+  "etymology": {
+    "type": "compound word",
+    "description": "餛(馄) (hún, \"mix; confused\") and 飩(饨) (tún, \"swallow; round food\") together refer to a type of dumpling with mixed ingredients inside, typically boiled and served in soup.",
+    "interpretation": "The word 馄饨(餛飩) (húntun, \"wonton\") describes a dumpling with various ingredients inside, represented by the notion of mixing in 餛(馄) (hún, \"mix; confused\"). The 饨(飩) (tún, \"swallow; round food\") highlights its round shape and that it is meant to be eaten whole, often served in soup.",
+    "simplification": "Simplification: 餛→馄, 飩→饨"
+  },
+  "parts": [
+    {
+      "char": "馄",
+      "trad": "餛",
+      "pinyin": "hún",
+      "english": "mix; confused"
+    },
+    {
+      "char": "饨",
+      "trad": "飩",
+      "pinyin": "tún",
+      "english": "swallow; round food"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我点了馄饨(餛飩)。",
+      "pinyin": "Wǒ diǎnle hún tún.",
+      "english": "I ordered wonton."
+    },
+    {
+      "chinese": "早餐吃馄饨(餛飩)，营养丰富(營養豐富)。",
+      "pinyin": "Zǎocān chī hún tún, yíngyǎng fēngfù.",
+      "english": "Having wonton for breakfast makes it nutritious."
+    },
+    {
+      "chinese": "他在街角的摊位买馄饨(餛飩)，味道极佳(味道極佳)。",
+      "pinyin": "Tā zài jiējiǎo de tānwèi mǎi hún tún, wèidào jí jiā.",
+      "english": "He buys wonton at the street corner stall; the taste is excellent."
+    }
+  ]
+}

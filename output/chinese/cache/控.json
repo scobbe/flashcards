@@ -1,0 +1,44 @@
+{
+  "simplified": "控",
+  "traditional": "控",
+  "pinyin": "kòng",
+  "english": "control; accuse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 扌(扌) (shǒu, \"hand\") + phonetic: 空(空) (kōng, \"empty\") = action of controlling or accusing with hands",
+    "interpretation": "The character 控(kòng, \"control; accuse\") combines 扌(扌) (shǒu, \"hand\"), indicating an action involving hands, with 空(空) (kōng, \"empty\"), which provides the pronunciation. This suggests an action where hands are used to manage or impose authority, as in control or accusation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "空",
+      "trad": "空",
+      "pinyin": "kōng",
+      "english": "empty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他试图控制局面(他試圖控制局面)，使情况稳定(使情況穩定)。",
+      "pinyin": "Tā shìtú kòngzhì júmiàn, shǐ qíngkuàng wěndìng.",
+      "english": "He tried to control the situation, stabilizing the circumstances."
+    },
+    {
+      "chinese": "检察官控告嫌疑人(檢察官控告嫌疑人)，要求他接受审判(要求他接受審判)。",
+      "pinyin": "Jiǎncháguān kònggào xiányírén, yāoqiú tā jiēshòu shěnpàn.",
+      "english": "The prosecutor accused the suspect and demanded that he face trial."
+    },
+    {
+      "chinese": "运动员在比赛中全力控球(運動員在比賽中全力控球)，争取胜利(爭取勝利)。",
+      "pinyin": "Yùndòngyuán zài bǐsài zhōng quánlì kòngqiú, zhēngqǔ shènglì.",
+      "english": "The athlete fully controlled the ball during the match, striving for victory."
+    }
+  ]
+}

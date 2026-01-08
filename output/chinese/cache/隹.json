@@ -1,0 +1,44 @@
+{
+  "simplified": "隹",
+  "traditional": "隹",
+  "pinyin": "zhuī",
+  "english": "short-tailed bird",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a short‐tailed bird (e.g., a sparrow) -> also original form of 唯(唯) (wéi, \"only\") before evolution into 鷕(鷕) (yǎo, \"cry of a bird\")",
+    "interpretation": "隹(隹) (zhuī, \"short-tailed bird\") is a pictogram representing a bird with a short tail. Its depiction served as the foundation for other characters related to birds, such as 鷕(鷕) (yǎo, \"cry of a bird\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "鷕",
+      "trad": "鷕",
+      "pinyin": "yǎo",
+      "english": "cry of a bird"
+    },
+    {
+      "char": "唯",
+      "trad": "唯",
+      "pinyin": "wéi",
+      "english": "only"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这只短尾的隹在树林中飞翔(這只短尾的隹在樹林中飛翔)。",
+      "pinyin": "Zhè zhī duǎnwěi de zhuī zài shùlín zhōng fēixiáng.",
+      "english": "This short-tailed bird flies in the forest."
+    },
+    {
+      "chinese": "博物馆里展出了一件以隹为题材的古代绘画(博物館裡展出了一件以隹為題材的古代繪畫)。",
+      "pinyin": "Bówùguǎn lǐ zhǎnchūle yī jiàn yǐ zhuī wèi tícái de gǔdài huìhuà.",
+      "english": "The museum displays an ancient painting themed on the short-tailed bird."
+    },
+    {
+      "chinese": "远古诗篇中常用隹来象征自由(遠古詩篇中常用隹來象徵自由)，寓意生动(寓意生動)。",
+      "pinyin": "Yuǎngǔ shīpiān zhōng cháng yòng zhuī lái xiàngzhēng zìyóu, yùyì shēngdòng.",
+      "english": "In ancient poems, the short-tailed bird is often used to symbolize freedom, conveying vivid meaning."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "堂食",
+  "traditional": "堂食",
+  "pinyin": "tángshí",
+  "english": "eat in",
+  "etymology": {
+    "type": "compound word",
+    "description": "堂(堂) (táng, \"hall\") + 食(食) (shí, \"eat\") = to eat in a hall or establishment, referring to dining in a restaurant.",
+    "interpretation": "The term 堂食(堂食) (tángshí, \"eat in\") refers to the act of dining in at a restaurant or food establishment, as opposed to taking food out. 堂(堂) (táng, \"hall\") suggests a formal space, like a dining hall, while 食(食) (shí, \"eat\") indicates the action taking place within that space. This combination identifies the setting and activity specifically as an indoor dining experience.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "堂",
+      "trad": "堂",
+      "pinyin": "táng",
+      "english": "hall; chamber; central room; family"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "eat; food; meal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天选择堂食(我今天選擇堂食)。",
+      "pinyin": "Wǒ jīntiān xuǎnzé tángshí.",
+      "english": "Today I choose to eat in."
+    },
+    {
+      "chinese": "饭店推出堂食服务(飯店推出堂食服務)，吸引了许多客户(吸引了許多客戶)。",
+      "pinyin": "Fàndiàn tuīchū tángshí fúwù, xīyǐnle xǔduō kèhù.",
+      "english": "The restaurant launched an eat-in service, attracting many customers."
+    },
+    {
+      "chinese": "因为外卖不方便(因爲外賣不方便)，所以我们决定堂食(所以我們決定堂食)。",
+      "pinyin": "Yīnwèi wàimài bú fāngbiàn, suǒyǐ wǒmen juédìng tángshí.",
+      "english": "Because takeout is inconvenient, we decided to eat in."
+    }
+  ]
+}

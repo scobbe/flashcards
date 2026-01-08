@@ -1,0 +1,39 @@
+{
+  "simplified": "蕭",
+  "traditional": "蕭",
+  "pinyin": "xiāo",
+  "english": "desolate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 肅(肃) (sù, \"solemn\") = grass-like music -> desolate",
+    "interpretation": "The character 蕭(蕭) (xiāo, \"desolate\") combines the 艹(艹) (cǎo, \"grass\") radical, representing a natural theme, with 肅(肃) (sù, \"solemn\") for its phonetic element. Together, they convey the sense of a solemn, deserted landscape akin to dry grass in the wind.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "肅",
+      "trad": "肃",
+      "pinyin": "sù",
+      "english": "solemn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "庭院内风声凄蕭(庭院內風聲凄蕭)。",
+      "pinyin": "Tíngyuàn nèi fēngshēng qī xiāo",
+      "english": "The wind in the courtyard sounds desolate."
+    },
+    {
+      "chinese": "夜色降临(夜色降臨)，寒风中散发出一股蕭然的气息(寒風中散發出一股蕭然的氣息)。",
+      "pinyin": "Yèsè jiànglín, hánfēng zhōng sànfā chū yī gǔ xiāo rán de qìxī",
+      "english": "Night falls, and a desolate aura emanates in the chilly wind."
+    }
+  ]
+}

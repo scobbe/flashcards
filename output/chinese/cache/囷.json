@@ -1,0 +1,44 @@
+{
+  "simplified": "囷",
+  "traditional": "囷",
+  "pinyin": "jùn",
+  "english": "storing grains",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"enclosure\") + 畇(畇) (yún, a variant of \"even field\") = enclosure for even fields -> storing grains",
+    "interpretation": "The character 囷(jùn) combines the idea of an enclosure 口(口) (kǒu, \"enclosure\") with 畇(畇), which represents fertile, well-cultivated fields. This suggests a storage area where the harvest from such fields is kept.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "enclosure"
+    },
+    {
+      "char": "畇",
+      "trad": "畇",
+      "pinyin": "yún",
+      "english": "even field"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "秋收开始后(秋收開始後)，农民忙着囷粮(農民忙著囷糧)。",
+      "pinyin": "Qiū shōu kāishǐ hòu, nóngmín mángzhe jùn liáng.",
+      "english": "After the autumn harvest began, the farmers busily stored grain."
+    },
+    {
+      "chinese": "仓库里囷满了谷子(倉庫裡囷滿了穀子)。",
+      "pinyin": "Cāngkù lǐ jùn mǎnle gǔzi.",
+      "english": "The warehouse was filled with stored grain."
+    },
+    {
+      "chinese": "古人曾用囷储存五谷(古人曾用囷儲存五穀)。",
+      "pinyin": "Gǔrén céng yòng jùn chǔcún wǔ gǔ.",
+      "english": "The ancients once used it to store the five grains."
+    }
+  ]
+}

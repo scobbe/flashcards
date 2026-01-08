@@ -1,0 +1,44 @@
+{
+  "simplified": "凤梨酥",
+  "traditional": "鳳梨酥",
+  "pinyin": "fènglísū",
+  "english": "pineapple cake",
+  "etymology": {
+    "type": "compound word",
+    "description": "鳳(鳳) (fèng, \"phoenix\") + 梨(梨) (lí, \"pear\") + 酥(酥) (sū, \"crisp\")",
+    "interpretation": "鳳梨(鳳梨) (fènglí, \"pineapple\") refers to the fruit itself, using a metaphorical reference to a phoenix to denote exoticness and nobility. 酥(酥) (sū, \"crisp\") describes the texture of the pastry, which is flaky and delicate, giving the overall meaning of a sweet, crisp pastry made with pineapple.",
+    "simplification": "鳳 to 凤"
+  },
+  "parts": [
+    {
+      "char": "鳳梨",
+      "trad": "鳳梨",
+      "pinyin": "fènglí",
+      "english": "pineapple"
+    },
+    {
+      "char": "酥",
+      "trad": "酥",
+      "pinyin": "sū",
+      "english": "crisp; flaky"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天买了凤梨酥(我昨天買了鳳梨酥)。",
+      "pinyin": "Wǒ zuótiān mǎile fènglísū.",
+      "english": "I bought a pineapple cake yesterday."
+    },
+    {
+      "chinese": "周末时(週末時)，我跟朋友一起品尝凤梨酥(我跟朋友一起品嚐鳳梨酥)。",
+      "pinyin": "Zhōumò shí, wǒ gēn péngyǒu yīqǐ pǐncháng fènglísū.",
+      "english": "On the weekend, I tasted pineapple cake with a friend."
+    },
+    {
+      "chinese": "这种凤梨酥(這種鳳梨酥)，外皮松脆(外皮鬆脆)。",
+      "pinyin": "Zhè zhǒng fènglísū, wàipí sōngcuì.",
+      "english": "This type of pineapple cake has a crispy crust."
+    }
+  ]
+}

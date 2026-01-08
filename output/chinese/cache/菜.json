@@ -1,0 +1,44 @@
+{
+  "simplified": "菜",
+  "traditional": "菜",
+  "pinyin": "cài",
+  "english": "vegetable; dish; cuisine; greens",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 采(采) (cǎi, \"pluck\") = concept of plants gathered for consumption -> vegetable; dish",
+    "interpretation": "The character 菜(cài) conveys the idea of plants that are gathered, emphasizing the connection between agriculture and cuisine. The 艹(艹) component implies vegetation, while 采(采) provides the phonetic cue and ties to the action of picking or collecting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "采",
+      "trad": "采",
+      "pinyin": "cǎi",
+      "english": "pluck"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这道菜很美味(這道菜很美味)。",
+      "pinyin": "Zhè dào cài hěn měiwèi.",
+      "english": "This dish is very delicious."
+    },
+    {
+      "chinese": "他擅长烹饪(他擅長烹飪)，创新菜式不断涌现(創新菜式不斷湧現)。",
+      "pinyin": "Tā shàncháng pēngrèn, chuàngxīn càishì bùduàn yǒngxiàn.",
+      "english": "He excels at cooking, and innovative dishes keep emerging."
+    },
+    {
+      "chinese": "街边小摊的菜色丰富(街邊小攤的菜色豐富)。",
+      "pinyin": "Jiēbiān xiǎotān de càisè fēngfù.",
+      "english": "The street vendor's variety of dishes is abundant."
+    }
+  ]
+}

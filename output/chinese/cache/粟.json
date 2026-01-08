@@ -1,0 +1,50 @@
+{
+  "simplified": "粟",
+  "traditional": "粟",
+  "pinyin": "sù",
+  "english": "millet",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Oracle bone script shows seeds → 角(角) (jiǎo, \"horn\") for phonetic + 米(米) (mǐ, \"rice\") for semantic → 角 evolved to 𠧪 → further changed to 西(西) (xī, \"west\")",
+    "interpretation": "Initially depicting seeds, 粟(sù, \"millet\") combined phonetic and semantic elements. 米(米) (mǐ, \"rice\") indicates the grain aspect, while 角(角) (jiǎo) initially added sound. Over time, the original depiction evolved through several script forms to match pronunciation changes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "角",
+      "trad": "角",
+      "pinyin": "jiǎo",
+      "english": "horn"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "西",
+      "trad": "西",
+      "pinyin": "xī",
+      "english": "west"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋天丰收时(秋天豐收時)，田野中的粟闪着金光(田野中的粟閃著金光)。",
+      "pinyin": "Qiūtiān fēngshōu shí, tiányě zhōng de sù shǎnzhe jīnguāng.",
+      "english": "During the autumn harvest, the millet in the fields glimmers with golden light."
+    },
+    {
+      "chinese": "农夫把粟从田里收集(農夫把粟從田裡收集)，准备储存过冬(準備儲存過冬)。",
+      "pinyin": "Nóngfū bǎ sù cóng tián lǐ shōují, zhǔnbèi chúcún guòdōng.",
+      "english": "The farmer collects the millet from the fields, preparing to store it for the winter."
+    },
+    {
+      "chinese": "古代诗人常以粟象征丰收(古代詩人常以粟象徵豐收)，歌颂农事的喜悦(歌頌農事的喜悅)。",
+      "pinyin": "Gǔdài shīrén cháng yǐ sù xiàngzhēng fēngshōu, gēsòng nóngshì de xǐyuè.",
+      "english": "Ancient poets often used millet to symbolize a bountiful harvest, praising the joy of farming."
+    }
+  ]
+}

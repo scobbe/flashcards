@@ -1,0 +1,44 @@
+{
+  "simplified": "婷",
+  "traditional": "婷",
+  "pinyin": "tíng",
+  "english": "graceful; elegant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 女(女) (nǚ, \"woman\") + Phonetic: 亭(亭) (tíng, \"pavilion\") = grace associated with women -> graceful, elegant",
+    "interpretation": "婷(婷) (tíng, \"graceful; elegant\") combines 女(女) (nǚ, \"woman\") to suggest feminine grace with 亭(亭) (tíng, \"pavilion\") as the phonetic element. This combination conveys the idea of elegance typically associated with women.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "亭",
+      "trad": "亭",
+      "pinyin": "tíng",
+      "english": "pavilion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小婷在晚会上表演舞蹈(小婷在晚會上表演舞蹈)。",
+      "pinyin": "Xiǎo tíng zài wǎnhuì shàng biǎoyǎn wǔdǎo.",
+      "english": "Little Ting performed a dance at the party."
+    },
+    {
+      "chinese": "那位女子仪态端庄(那位女子儀態端莊)，风姿婷丽(風姿婷麗)。",
+      "pinyin": "Nà wèi nǚzǐ yítài duānzhuāng, fēngzī tínglì.",
+      "english": "That woman has a dignified bearing and graceful charm."
+    },
+    {
+      "chinese": "她的笑容温婉婷雅(她的笑容溫婉婷雅)。",
+      "pinyin": "Tā de xiàoróng wēnwǎn tíngyǎ.",
+      "english": "Her smile is gentle and elegantly graceful."
+    }
+  ]
+}

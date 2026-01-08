@@ -1,0 +1,26 @@
+{
+  "simplified": "犬",
+  "traditional": "犬",
+  "pinyin": "quǎn",
+  "english": "dog",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the side view of a dog",
+    "interpretation": "The character 犬(犬) (quǎn, 'dog') visually resembles a dog viewed from the side, with features that suggest the head and body of the animal. This pictorial representation allows for an intuitive understanding of its meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的犬非常温顺(他的犬非常溫順)。",
+      "pinyin": "Tā de quǎn fēicháng wēnshùn。",
+      "english": "His dog is very gentle."
+    },
+    {
+      "chinese": "我家的犬喜欢跑步(我家的犬喜歡跑步)，也爱安静(也愛安靜)。",
+      "pinyin": "Wǒ jiā de quǎn xǐhuān pǎobù, yě ài ānjìng。",
+      "english": "The dog at my home likes to run and also loves tranquility."
+    }
+  ]
+}

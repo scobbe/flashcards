@@ -1,0 +1,39 @@
+{
+  "simplified": "呷",
+  "traditional": "呷",
+  "pinyin": "xiā",
+  "english": "sip",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") provides meaning + 甲(甲) (jiǎ, \"armor\") provides sound = relates to action involving the mouth like sipping",
+    "interpretation": "The character 呷(xiā, \"sip\") combines 口(口) (kǒu, \"mouth\") as the semantic component indicating an oral action, with 甲(甲) (jiǎ, \"armor\") as the phonetic component to suggest pronunciation. This aligns with its meaning related to using the mouth for sipping.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甲",
+      "trad": "甲",
+      "pinyin": "jiǎ",
+      "english": "armor"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他呷了一口汤(他呷了一口湯)。",
+      "pinyin": "Tā xiā le yī kǒu tāng。",
+      "english": "He sipped a mouthful of soup."
+    },
+    {
+      "chinese": "她呷了一小口红酒(她呷了一小口紅酒)，沉醉于夜晚的氛围(沉醉於夜晚的氛圍)。",
+      "pinyin": "Tā xiā le yī xiǎo kǒu hóngjiǔ，chénzuì yú yèwǎn de fēnwéi。",
+      "english": "She sipped a little red wine, enchanted by the atmosphere of the night."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "束",
+  "traditional": "束",
+  "pinyin": "shù",
+  "english": "bundle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bundle of sticks tied together",
+    "interpretation": "The character 束(束) (shù, 'bundle') visually represents a group of items, such as sticks or reeds, that have been gathered and tied tightly together. This depiction is direct and intuitive for conveying the idea of a bundle.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拎着一束鲜花(他拎著一束鮮花)。",
+      "pinyin": "Tā līn zhe yī shù xiānhuā.",
+      "english": "He is carrying a bundle of fresh flowers."
+    },
+    {
+      "chinese": "园丁修剪完花朵后(園丁修剪完花朵後)，将它们整理成一束(將它們整理成一束)。",
+      "pinyin": "Yuándīng xiūjiǎn wán huāduǒ hòu, jiāng tāmen zhěnglǐ chéng yī shù.",
+      "english": "After trimming the flowers, the gardener arranged them into a bundle."
+    },
+    {
+      "chinese": "小贩把蔬菜捆成一束(小販把蔬菜捆成一束)，然后去市场出售(然後去市場出售)。",
+      "pinyin": "Xiǎofàn bǎ shūcài kǔn chéng yī shù, ránhòu qù shìchǎng chūshòu.",
+      "english": "The vendor bundled the vegetables and then went to the market to sell them."
+    }
+  ]
+}

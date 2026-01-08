@@ -1,0 +1,50 @@
+{
+  "simplified": "粉红玫瑰",
+  "traditional": "粉紅玫瑰",
+  "pinyin": "fěn hóng méi guī",
+  "english": "pink rose",
+  "etymology": {
+    "type": "compound word",
+    "description": "粉(粉) (fěn, \"powder\") and 红(紅) (hóng, \"red\") describes a color that resembles light or pale red, often referred to as pink. 玫瑰(玫瑰) (méi guī, \"rose\") is the plant known for its beautiful and fragrant flowers.",
+    "interpretation": "粉红(粉紅) (fěn hóng, \"pink\") is a color descriptor combining 粉(粉) (fěn, \"powder\") and 红(紅) (hóng, \"red\") to denote a light red or pink hue. 玫瑰(玫瑰) (méi guī, \"rose\") refers to a rose flower. The term 粉红玫瑰(粉紅玫瑰) (fěn hóng méi guī) describes a rose of a pink color.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "粉",
+      "trad": "粉",
+      "pinyin": "fěn",
+      "english": "powder; pink"
+    },
+    {
+      "char": "红",
+      "trad": "紅",
+      "pinyin": "hóng",
+      "english": "red"
+    },
+    {
+      "char": "玫瑰",
+      "trad": "玫瑰",
+      "pinyin": "méi guī",
+      "english": "rose"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她送给了我一束粉红玫瑰(她送給了我一束粉紅玫瑰)。",
+      "pinyin": "Tā sòng gěi le wǒ yī shù fěn hóng méi guī.",
+      "english": "She gave me a bouquet of pink roses."
+    },
+    {
+      "chinese": "在花园里(在花園裡)，粉红玫瑰盛开(粉紅玫瑰盛開)。",
+      "pinyin": "Zài huāyuán lǐ, fěn hóng méi guī shèngkāi.",
+      "english": "In the garden, pink roses bloom."
+    },
+    {
+      "chinese": "我喜欢粉红玫瑰那温柔的颜色(我喜歡粉紅玫瑰那溫柔的顏色)。",
+      "pinyin": "Wǒ xǐhuān fěn hóng méi guī nà wēnróu de yánsè.",
+      "english": "I like the gentle color of pink roses."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "谷",
+  "traditional": "谷",
+  "pinyin": "gǔ",
+  "english": "valley",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts valley: 口(口) (kǒu, \"mouth\" or open space) in between two mountain walls represented by near-parallel lines -> original form is 𠔌",
+    "interpretation": "The character 谷(gǔ, 'valley') visually represents a valley, with an open space flanked by lines resembling mountains. This aligns with its definition as a valley, a feature of the landscape formed by natural geological processes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他走进了幽静的谷(他走進了幽靜的谷)。",
+      "pinyin": "Tā zǒu jìnle yōujìng de gǔ.",
+      "english": "He walked into the quiet valley."
+    },
+    {
+      "chinese": "清晨的时候(清晨的時候)，薄雾笼罩着谷(薄霧籠罩著谷)。",
+      "pinyin": "Qīngchén de shíhòu, bó wù lóngzhào zhe gǔ.",
+      "english": "In the early morning, a thin mist covered the valley."
+    },
+    {
+      "chinese": "山谷里回荡着鸟鸣(山谷裡回盪著鳥鳴)。",
+      "pinyin": "Shāngǔ lǐ huídàngzhe niǎomíng.",
+      "english": "The valley echoes with birdsong."
+    }
+  ]
+}

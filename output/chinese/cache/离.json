@@ -1,0 +1,31 @@
+{
+  "simplified": "离",
+  "traditional": "離",
+  "pinyin": "lí",
+  "english": "separate; leave; part from",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 离(离) (lí, \"separate\") + phonetic: 离(离) (lí, \"separate\") = separates animals -> separation",
+    "interpretation": "The character 离(离) (lí, \"separate\") combines semantic and phonetic elements within itself to convey the idea of separation, often visually represented as two animals or parts moving apart.",
+    "simplification": "离(離): Simplified by reducing components; the traditional form features multiple complex structures that were compressed in the simplified form."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "车站离这里有一段距离(車站離這裏有一段距離)。",
+      "pinyin": "Chēzhàn lí zhèlǐ yǒu yī duàn jùlí.",
+      "english": "The station is a distance away from here."
+    },
+    {
+      "chinese": "他离开家庭(他離開家庭)，去追寻自由(去追尋自由)。",
+      "pinyin": "Tā lí kāi jiātíng, qù zhuīxún zìyóu.",
+      "english": "He left his family to pursue freedom."
+    },
+    {
+      "chinese": "他们离别时(他們離別時)，泪水难以自控(淚水難以自控)。",
+      "pinyin": "Tāmen líbié shí, lèishuǐ nányǐ zìkòng.",
+      "english": "When they parted, tears were uncontrollable."
+    }
+  ]
+}

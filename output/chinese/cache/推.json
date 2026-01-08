@@ -1,0 +1,44 @@
+{
+  "simplified": "推",
+  "traditional": "推",
+  "pinyin": "tuī",
+  "english": "push",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 扌(扌) (shǒu, \"hand\") + phonetic 隹(隹) (zhuī, \"short-tailed bird\") = push with the hand -> push",
+    "interpretation": "The character 推(tuī) combines 扌(扌) (shǒu, \"hand\"), indicating the action done by hand, with 隹(隹) (zhuī, \"short-tailed bird\"), which provides the phonetic cue. This combination visually represents the concept of pushing something with one's hand.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他推门而入(他推門而入)。",
+      "pinyin": "Tā tuī mén ér rù.",
+      "english": "He pushed the door open and entered."
+    },
+    {
+      "chinese": "我推他一把(我推他一把)，他就赶快走开(他就趕快走開)。",
+      "pinyin": "Wǒ tuī tā yī bǎ, tā jiù gǎnkuài zǒu kāi.",
+      "english": "I gave him a push, and he quickly moved away."
+    },
+    {
+      "chinese": "警察推开窗户查看(警察推開窗戶查看)。",
+      "pinyin": "Jǐngchá tuī kāi chuānghù chá kàn.",
+      "english": "The police pushed the window open to inspect."
+    }
+  ]
+}

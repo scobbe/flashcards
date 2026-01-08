@@ -1,0 +1,44 @@
+{
+  "simplified": "圣",
+  "traditional": "聖",
+  "pinyin": "shèng",
+  "english": "sacred",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "耳(耳) (ěr, \"ear\") + 王(王) (wáng, \"king\") = ear of the king -> sacred",
+    "interpretation": "The character combines 耳(耳) (ěr, \"ear\") and 王(王) (wáng, \"king\") in its traditional form, symbolizing the concept of sacredness or holiness by alluding to a ruler who listens attentively.",
+    "simplification": "The traditional character 聖 was simplified to 圣 by removing the components 耳(耳) (ěr, \"ear\") and modifying the remaining part to retain phonetic and semantic elements in a more concise form."
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座寺庙被视为圣地(這座寺廟被視為聖地)。",
+      "pinyin": "Zhè zuò sìmiào bèi shìwéi shèngdì.",
+      "english": "This temple is regarded as a sacred place."
+    },
+    {
+      "chinese": "她的微笑让人感受到一种圣洁的温暖(她的微笑讓人感受到一種聖潔的溫暖)。",
+      "pinyin": "Tā de wéixiào ràng rén gǎnshòudào yī zhǒng shèngjié de wēnnuǎn.",
+      "english": "Her smile evokes a sense of sacred warmth."
+    },
+    {
+      "chinese": "他在祈祷时虔诚地低语(他在祈禱時虔誠地低語)，心中充满圣意(心中充滿聖意)。",
+      "pinyin": "Tā zài qídǎo shí qiánchéng de dīyǔ, xīnzhōng chōngmǎn shèngyì.",
+      "english": "He whispered devoutly in prayer, his heart full of sacred intent."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "滩",
+  "traditional": "灘",
+  "pinyin": "tān",
+  "english": "beach; shore",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(氵) (shuǐ, \"water\") + phonetic: 難(难) (nán, \"difficult\") -> water along a difficult terrain -> beach or shore",
+    "interpretation": "滩(灘) (tān, \"beach\") combines the water radical 氵(氵) to signify the water element, with 難(难) providing the phonetic component and suggesting that the terrain may be challenging, like a shoreline.",
+    "simplification": "滩(灘) replaces 難(难) with 难(难) as its phonetic component to streamline the character formation, retaining the association with high difficulty or ruggedness while depicting a beach."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "難",
+      "trad": "难",
+      "pinyin": "nán",
+      "english": "difficult"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孩子们在沙滩上玩耍(孩子們在沙灘上玩耍)。",
+      "pinyin": "Háizimen zài shātān shàng wánshuǎ.",
+      "english": "The children play on the sandy beach."
+    },
+    {
+      "chinese": "归来的渔船靠近滩边(歸來的漁船靠近灘邊)，准备卸下当日的渔获(準備卸下當日的漁獲)。",
+      "pinyin": "Guī lái de yú chuán kào jìn tān biān, zhǔnbèi xiè xià dāngrì de yúhuò.",
+      "english": "The returning fishing boat approaches the shore to unload the day's catch."
+    },
+    {
+      "chinese": "黄昏时分海浪拍打着滩涂(黃昏時分海浪拍打著灘涂)。",
+      "pinyin": "Huánghūn shífēn hǎilàng pāidǎ zhe tān tú.",
+      "english": "At dusk, the sea waves beat against the tidal flats."
+    }
+  ]
+}

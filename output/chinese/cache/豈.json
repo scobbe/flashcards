@@ -1,0 +1,44 @@
+{
+  "simplified": "豈",
+  "traditional": "豈",
+  "pinyin": "qǐ",
+  "english": "drum",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 豆(豆) (dòu, \"vessel\") + phonetic: 丂(丂) (kǎo) = vessel with sound -> drum",
+    "interpretation": "The character 豈(豈) (qǐ) combines the semantic component 豆(豆) (dòu, \"vessel\") representing a container or support structure, with the phonetic 丂(丂) (kǎo), suggesting sound or noise emanating from a vessel-like object, which can be related to a drum.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "vessel"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "士兵击豈(士兵擊豈)，军心振奋(軍心振奮)。",
+      "pinyin": "Shì bīng jī qǐ, jūn xīn zhèn fèn.",
+      "english": "The soldiers beat the drum, uplifting the army's spirit."
+    },
+    {
+      "chinese": "古战场上响起豈音(古戰場上響起豈音)，唤起壮士豪情(喚起壯士豪情)。",
+      "pinyin": "Gǔ zhàn chǎng shàng xiǎng qǐ qǐ yīn, huàn qǐ zhuàng shì háo qíng.",
+      "english": "On the ancient battlefield, the drum sounded, stirring heroic passion."
+    },
+    {
+      "chinese": "晨曦初露时(晨曦初露時)，村中孩童击豈娱戏(村中孩童擊豈娛戲)。",
+      "pinyin": "Chén xī chū lù shí, cūn zhōng hái tóng jī qǐ yú xì.",
+      "english": "At dawn, the village children beat the drum as they played joyfully."
+    }
+  ]
+}

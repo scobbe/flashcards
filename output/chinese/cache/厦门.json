@@ -1,0 +1,39 @@
+{
+  "simplified": "厦门",
+  "traditional": "廈門",
+  "pinyin": "Xiàmén",
+  "english": "Xiamen",
+  "etymology": {
+    "type": "compound word",
+    "description": "厦(廈) (xià, \"mansion\") and 门(門) (mén, \"gate\") together form a name for the city of Xiamen.",
+    "interpretation": "厦门(廈門) (Xiàmén, \"Xiamen\") originates from the area's historical significance as a gateway to the sea. \"厦\" indicates the grand structures or mansions often found in the city, while \"门\" signifies its strategic importance as a gate or entrance point.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厦",
+      "trad": "廈",
+      "pinyin": "xià",
+      "english": "mansion"
+    },
+    {
+      "char": "门",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "gate; door; entrance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我从北京坐飞机去厦门(我從北京坐飛機去廈門)。",
+      "pinyin": "Wǒ cóng Běijīng zuò fēijī qù Xiàmén.",
+      "english": "I take a plane from Beijing to Xiamen."
+    },
+    {
+      "chinese": "厦门有美丽的海岸线(廈門有美麗的海岸線)，吸引了许多游客(吸引了許多遊客)。",
+      "pinyin": "Xiàmén yǒu měilì de hǎi'ànxiàn, xīyǐnle xǔduō yóukè.",
+      "english": "Xiamen has a beautiful coastline, attracting many tourists."
+    }
+  ]
+}

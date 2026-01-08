@@ -1,0 +1,39 @@
+{
+  "simplified": "流行",
+  "traditional": "流行",
+  "pinyin": "liúxíng",
+  "english": "popular; prevalent",
+  "etymology": {
+    "type": "compound word",
+    "description": "流(流) (liú, \"flow\") and 行(行) (xíng, \"move; walk\") together imply something that flows or moves through a society, much like water or people moving across a landscape, hence becoming widespread or popular.",
+    "interpretation": "In the combination 流行, 流(流) (liú, \"flow\") suggests movement or spreading, while 行(行) (xíng, \"move; walk\") refers to being in motion or action. Together, they describe trends or ideas that spread and become prevalent, much like how water flows through a river or people traverse pathways.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "流",
+      "trad": "流",
+      "pinyin": "liú",
+      "english": "flow; stream"
+    },
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "xíng",
+      "english": "move; walk; conduct"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这首歌曲非常流行(這首歌曲非常流行)。",
+      "pinyin": "Zhè shǒu gēqǔ fēicháng liúxíng.",
+      "english": "This song is extremely popular."
+    },
+    {
+      "chinese": "他的服装设计流行(他的服裝設計流行)，引领时尚(引領時尚)。",
+      "pinyin": "Tā de fúzhuāng shèjì liúxíng, yǐnlǐng shíshàng.",
+      "english": "His fashion designs are popular, setting trends."
+    }
+  ]
+}

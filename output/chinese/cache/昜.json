@@ -1,0 +1,50 @@
+{
+  "simplified": "昜",
+  "traditional": "昜",
+  "pinyin": "yáng",
+  "english": "bright",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") + 丂(丂) (kǎo, \"branch\") + 彡(彡) = rays of the sun over a tree branch -> bright",
+    "interpretation": "The character 昜(yáng) vividly illustrates the concept of 'bright' by combining 日(日) (rì, \"sun\"), suggesting light, with graphical elements representing rays and branches. This composition effectively conveys the imagery of sunlight shining through or over branches, hence the association with brightness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "丂",
+      "trad": "丂",
+      "pinyin": "kǎo",
+      "english": "branch"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "rays"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "今天的日光昜(今天的日光昜)。",
+      "pinyin": "Jīntiān de rìguāng yáng.",
+      "english": "Today's sunlight is bright."
+    },
+    {
+      "chinese": "太阳刚升起时(太陽剛升起時)，大地显得昜(大地顯得昜)。",
+      "pinyin": "Tàiyáng gāng shēngqǐ shí, dàdì xiǎnde yáng.",
+      "english": "When the sun has just risen, the earth appears bright."
+    },
+    {
+      "chinese": "清晨时分天空昜(清晨時分天空昜)，大海波光粼粼(大海波光粼粼)。",
+      "pinyin": "Qīngchén shífēn tiānkōng yáng, dàhǎi bōguāng línlín.",
+      "english": "In the early morning, the sky is bright while the sea sparkles with shimmering light."
+    }
+  ]
+}

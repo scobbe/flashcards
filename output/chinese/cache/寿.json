@@ -1,0 +1,44 @@
+{
+  "simplified": "寿",
+  "traditional": "壽",
+  "pinyin": "shòu",
+  "english": "longevity",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 士(士) (shì, \"scholar\") + phonetic: 叀(叀) (zhuān) = scholar sitting to listen to learn and live long -> longevity",
+    "interpretation": "The character 寿(壽) (shòu, \"longevity\") combines a depiction of scholarship and learning with a phonetic component to convey the idea of living a long life through knowledge and wisdom.",
+    "simplification": "During simplification, 壽(壽) was streamlined to 寿(壽) by removing the complex elements and retaining a simpler form while preserving the phonetic and semantic essence."
+  },
+  "parts": [
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "叀",
+      "trad": "叀",
+      "pinyin": "zhuān",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他盼望长寿(他盼望長壽)。",
+      "pinyin": "Tā pànwàng chángshòu.",
+      "english": "He hopes for longevity."
+    },
+    {
+      "chinese": "家人团聚时(家人團聚時)，大家都祝愿长寿(大家都祝願長壽)。",
+      "pinyin": "Jiārén tuánjù shí, dàjiā dōu zhùyuàn chángshòu.",
+      "english": "When the family gathers, everyone wishes for longevity."
+    },
+    {
+      "chinese": "寿星收到贺卡祝福(壽星收到賀卡祝福)。",
+      "pinyin": "Shòuxīng shōudào hèkǎ zhùfú.",
+      "english": "The birthday person receives wishes on a greeting card."
+    }
+  ]
+}

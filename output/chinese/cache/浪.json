@@ -1,0 +1,44 @@
+{
+  "simplified": "浪",
+  "traditional": "浪",
+  "pinyin": "làng",
+  "english": "wave",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 良(良) (liáng, 'good') = water with a flowing nature -> wave",
+    "interpretation": "The character combines the water radical 氵(氵) (shuǐ, 'water') with the phonetic component 良(良) (liáng, 'good'), suggesting the fluid and moving nature associated with waves.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "良",
+      "trad": "良",
+      "pinyin": "liáng",
+      "english": "good"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海浪拍打着礁石(海浪拍打著礁石)。",
+      "pinyin": "Hǎi làng pāidǎ zhe jiāo shí.",
+      "english": "The sea waves are hitting the coral rocks."
+    },
+    {
+      "chinese": "他冲浪时(他衝浪時)，享受自由(享受自由)。",
+      "pinyin": "Tā chōnglàng shí, xiǎngshòu zìyóu.",
+      "english": "When he surfs, he enjoys freedom."
+    },
+    {
+      "chinese": "浪花在风中飞舞(浪花在風中飛舞)。",
+      "pinyin": "Làng huā zài fēng zhōng fēiwǔ.",
+      "english": "The spray of the waves dances in the wind."
+    }
+  ]
+}

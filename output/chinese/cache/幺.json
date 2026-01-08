@@ -1,0 +1,26 @@
+{
+  "simplified": "幺",
+  "traditional": "幺",
+  "pinyin": "yāo",
+  "english": "tiny threads",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a thin silk thread",
+    "interpretation": "The character 幺(幺) (yāo, \"tiny threads\") illustrates a thin silk thread, reflecting its meaning directly through its shape. It resembles a representation of something small and delicate, like the strands of silk used in weaving.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个微小的幺在织物中闪耀(這個微小的幺在織物中閃耀)。",
+      "pinyin": "Zhège wéixiǎo de yāo zài zhīwù zhōng shǎnyào.",
+      "english": "The tiny thread sparkles within the fabric."
+    },
+    {
+      "chinese": "织布工巧妙地利用幺(織布工巧妙地利用幺)，将其编织进精美的锦缎中(將其編織進精美的錦緞中)。",
+      "pinyin": "Zhībùgōng qiǎomiào de lìyòng yāo, jiāng qí biānzhī jìn jīngměi de jǐnduàn zhōng.",
+      "english": "The weaver cleverly employs the tiny thread, integrating it into exquisite brocade."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "明星",
+  "traditional": "明星",
+  "pinyin": "míngxīng",
+  "english": "star; celebrity",
+  "etymology": {
+    "type": "compound word",
+    "description": "明(明) (míng, \"bright\") and 星(星) (xīng, \"star\"). The word conveys the idea of a star that shines brightly, akin to a celebrity's prominence and attraction in the public eye.",
+    "interpretation": "明星(明星) (míngxīng, \"star; celebrity\") refers to someone who stands out for their talent and is admired by many, comparable to a bright star in the sky.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "明",
+      "trad": "明",
+      "pinyin": "míng",
+      "english": "bright; clear; obvious"
+    },
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star; heavenly body"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他梦想成为一位国际明星(他夢想成為一位國際明星)。",
+      "pinyin": "Tā mèngxiǎng chéngwéi yī wèi guójì míngxīng。",
+      "english": "He dreams of becoming an international celebrity."
+    },
+    {
+      "chinese": "那部电影让许多观众爱上了那个明星(那部電影讓許多觀眾愛上了那個明星)。",
+      "pinyin": "Nà bù diànyǐng ràng xǔduō guānzhòng ài shàngle nà gè míngxīng。",
+      "english": "That movie made many viewers fall in love with that star."
+    },
+    {
+      "chinese": "在红毯上(在紅毯上)，明星们闪闪发光(明星們閃閃發光)。",
+      "pinyin": "Zài hóngtǎn shàng, míngxīngmen shǎnshǎn fāguāng。",
+      "english": "On the red carpet, the celebrities shone brightly."
+    }
+  ]
+}

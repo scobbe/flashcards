@@ -1,0 +1,44 @@
+{
+  "simplified": "明",
+  "traditional": "明",
+  "pinyin": "míng",
+  "english": "bright; clear; obvious",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "日(日) (rì, \"sun\") + 月(月) (yuè, \"moon\") = sun is rising and moon not yet set -> dawn -> bright; other forms: 朙囧 + 月 = moonlight, 眀目 + 月 = bright eyes, 𤰾田 + 月 = probable corruption",
+    "interpretation": "The character combines the sun and moon, which both emit light, symbolizing brightness and clarity. Alternative forms reflect similar ideas related to light.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的意图明(他的意圖明)，所有人都能看出(所有人都能看出)。",
+      "pinyin": "Tā de yìtú míng, suǒyǒu rén dōu néng kàn chū.",
+      "english": "His intention is clear; everyone can tell."
+    },
+    {
+      "chinese": "答案很明(答案很明)，无需解释(無需解釋)。",
+      "pinyin": "Dá'àn hěn míng, wúxū jiěshì.",
+      "english": "The answer is obvious; no explanation is needed."
+    },
+    {
+      "chinese": "会议内容明(會議內容明)，大家积极讨论(大家積極討論)。",
+      "pinyin": "Huìyì nèiróng míng, dàjiā jījí tǎolùn.",
+      "english": "The content of the meeting is clear, and everyone engaged in active discussion."
+    }
+  ]
+}

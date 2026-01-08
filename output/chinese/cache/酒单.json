@@ -1,0 +1,44 @@
+{
+  "simplified": "酒单",
+  "traditional": "酒單",
+  "pinyin": "jiǔ dān",
+  "english": "drinks menu",
+  "etymology": {
+    "type": "compound word",
+    "description": "酒(酒) (jiǔ, \"alcohol; wine\") + 单(單) (dān, \"list\") = drinks menu",
+    "interpretation": "A 酒單(酒單) (jiǔdān, \"drinks menu\") is a list of alcoholic beverages available at a restaurant or bar. 酒(酒) (jiǔ, \"alcohol\") signifies the focus on alcoholic drinks, while 单(單) (dān, \"list\") indicates that it is an itemized collection.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol; wine"
+    },
+    {
+      "char": "单",
+      "trad": "單",
+      "pinyin": "dān",
+      "english": "list"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请给我看看酒单(請給我看看酒單)。",
+      "pinyin": "Qǐng gěi wǒ kànkan jiǔ dān.",
+      "english": "Please show me the drinks menu."
+    },
+    {
+      "chinese": "酒单上有啤酒和葡萄酒(酒單上有啤酒和葡萄酒)。",
+      "pinyin": "Jiǔ dān shàng yǒu píjiǔ hé pútáojiǔ.",
+      "english": "The drinks menu includes beer and wine."
+    },
+    {
+      "chinese": "我们根据酒单点了饮料(我們根據酒單點了飲料)。",
+      "pinyin": "Wǒmen gēnjù jiǔ dān diǎnle yǐnliào.",
+      "english": "We ordered drinks according to the drinks menu."
+    }
+  ]
+}

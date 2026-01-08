@@ -1,0 +1,26 @@
+{
+  "simplified": "卯",
+  "traditional": "卯",
+  "pinyin": "mǎo",
+  "english": "\"phonetic component\"",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicts a pair of knives used in a ritual sacrifice, showing an animal or human cut in half for Shang dynasty sacrifices.",
+    "interpretation": "卯(mǎo) was originally a term associated with sacrificial rituals involving cutting, reflecting cultural practices of the Shang dynasty. Over time, its meaning has shifted away from these origins.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个字的卯部分揭示了它的读音(這個字的卯部分揭示了它的讀音)，构成了汉字的声音系统(構成了漢字的聲音系統)。",
+      "pinyin": "Zhège zì de mǎo bùfen jiēshì le tā de dúyīn, gòuchéng le hànzì de shēngyīn xìtǒng.",
+      "english": "The phonetic component of this character reveals its pronunciation, forming the sound system of Chinese characters."
+    },
+    {
+      "chinese": "研究卯的作用有助于理解汉字结构(研究卯的作用有助於理解漢字結構)。",
+      "pinyin": "Yánjiū mǎo de zuòyòng yǒuzhù yú lǐjiě hànzì jiégòu.",
+      "english": "Studying the role of the phonetic component helps to understand the structure of Chinese characters."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "帮助",
+  "traditional": "幫助",
+  "pinyin": "bāngzhù",
+  "english": "help",
+  "etymology": {
+    "type": "compound word",
+    "description": "帮(幫) (bāng, \"help; assist\") and 助(助) (zhù, \"aid; assist\") together emphasize the action of providing assistance or support.",
+    "interpretation": "帮(幫) (bāng, \"help; assist\") and 助(助) (zhù, \"aid; assist\") both imply offering support or help to someone else. Their combination strengthens the notion of providing assistance or aiding others.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "帮",
+      "trad": "幫",
+      "pinyin": "bāng",
+      "english": "help; assist; group"
+    },
+    {
+      "char": "助",
+      "trad": "助",
+      "pinyin": "zhù",
+      "english": "aid; assist; help; support"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我常常帮助有需要的人(我常常幫助有需要的人)。",
+      "pinyin": "Wǒ chángcháng bāngzhù yǒu xūqiú de rén.",
+      "english": "I often help those in need."
+    },
+    {
+      "chinese": "他帮助邻居(他幫助鄰居)，也给予了鼓励(也給予了鼓勵)。",
+      "pinyin": "Tā bāngzhù línjū, yě jǐyǔle gǔlì.",
+      "english": "He helps his neighbors and also gives them encouragement."
+    }
+  ]
+}

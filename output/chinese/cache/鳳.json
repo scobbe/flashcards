@@ -1,0 +1,44 @@
+{
+  "simplified": "鳳",
+  "traditional": "鳳",
+  "pinyin": "fèng",
+  "english": "phoenix",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 鳥(鳥) (niǎo, \"bird\") + phonetic: 凰(凰) (huáng, \"female phoenix\") = majestic bird -> phoenix",
+    "interpretation": "The character 鳳(鳳) (fèng, \"phoenix\") combines the bird radical 鳥(鳥) (niǎo, \"bird\") with the phonetic 凰(凰) (huáng, \"female phoenix\") to denote a mythical and majestic bird associated with auspiciousness.",
+    "simplification": "鳳(鳳) was simplified to 凤(鳳) with 又(又) (yòu, \"again\") serving as a cursive shorthand for the bird radical 鳥(鳥) (niǎo, \"bird\")."
+  },
+  "parts": [
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    },
+    {
+      "char": "凰",
+      "trad": "凰",
+      "pinyin": "huáng",
+      "english": "female phoenix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "传说中有一只鳳(傳說中有一隻鳳)，浴火重生为祥瑞(浴火重生為祥瑞)。",
+      "pinyin": "Chuánshuō zhōng yǒu yī zhī fèng, yùhuǒ chóngshēng wéi xiángruì.",
+      "english": "According to legend, a phoenix is reborn from fire as an auspicious sign."
+    },
+    {
+      "chinese": "文人墨客常以鳳(文人墨客常以鳳)，象征永恒之美(象徵永恆之美)。",
+      "pinyin": "Wénrén mòkè cháng yǐ fèng, xiàngzhēng yǒnghéng zhī měi.",
+      "english": "Literati often use the phoenix to symbolize eternal beauty."
+    },
+    {
+      "chinese": "古籍记载鳳(古籍記載鳳)，与龙同现祥瑞(與龍同現祥瑞)。",
+      "pinyin": "Gǔjí jìzǎi fèng, yǔ lóng tóng xiàn xiángruì.",
+      "english": "Ancient texts record that the phoenix appears alongside the dragon as an omen of good fortune."
+    }
+  ]
+}

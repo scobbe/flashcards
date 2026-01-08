@@ -1,0 +1,39 @@
+{
+  "simplified": "橙",
+  "traditional": "橙",
+  "pinyin": "chéng",
+  "english": "orange",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"tree; wood\") + phonetic 登(登) (dēng, \"ascend\") = a fruit from a tree -> orange",
+    "interpretation": "The character 橙(chéng) combines 木(mù, 'tree') to signify the material nature, with 登(dēng) as the phonetic element. This illustrates that oranges come from trees.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree; wood"
+    },
+    {
+      "char": "登",
+      "trad": "登",
+      "pinyin": "dēng",
+      "english": "ascend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃橙(我喜歡吃橙)。",
+      "pinyin": "Wǒ xǐhuān chī chéng.",
+      "english": "I like eating oranges."
+    },
+    {
+      "chinese": "橙子富含维生素C(橙子富含維生素C)，对健康有益(對健康有益)。",
+      "pinyin": "Chéngzi fùhán wéishēngsù C, duì jiànkāng yǒuyì.",
+      "english": "Oranges are rich in vitamin C, which is beneficial for health."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "小费",
+  "traditional": "小費",
+  "pinyin": "xiǎofèi",
+  "english": "tip; gratuity",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") and 费(費) (fèi, \"fee\")",
+    "interpretation": "The term 小费(小費) (xiǎofèi) literally translates to \"small fee,\" reflecting the notion of giving a small amount of money in addition to the main payment as a gesture of gratitude or appreciation for service.",
+    "simplification": "小费 is the simplified form of 小費."
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young"
+    },
+    {
+      "char": "费",
+      "trad": "費",
+      "pinyin": "fèi",
+      "english": "fee; expense; cost; to spend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "顾客付了小费(顧客付了小費)。",
+      "pinyin": "Gùkè fùle xiǎofèi.",
+      "english": "The customer paid a tip."
+    },
+    {
+      "chinese": "餐厅服务很好(餐廳服務很好)，顾客留下小费(顧客留下小費)。",
+      "pinyin": "Cāntīng fúwù hěn hǎo, gùkè liú xià xiǎofèi.",
+      "english": "The restaurant service was excellent, and the customer left a tip."
+    }
+  ]
+}

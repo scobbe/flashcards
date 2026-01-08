@@ -1,0 +1,39 @@
+{
+  "simplified": "邦",
+  "traditional": "邦",
+  "pinyin": "bāng",
+  "english": "nation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 丰(丰) (fēng, \"abundant\") + Semantic: 阝(阝) (fù, \"earthen mound\") = representation of an earthen mound + abundant resources -> nation",
+    "interpretation": "The character 邦(bāng, \"nation\") combines the idea of wealth or resources suggested by 丰(丰) with the earthen boundary suggested by 阝(阝), symbolizing a defined area with resources, which is the concept of a nation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丰",
+      "trad": "丰",
+      "pinyin": "fēng",
+      "english": "abundant"
+    },
+    {
+      "char": "阝",
+      "trad": "阝",
+      "pinyin": "fù",
+      "english": "earthen mound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "历史塑造了这个邦(歷史塑造了這個邦)，使之繁荣昌盛(使之繁榮昌盛)。",
+      "pinyin": "Lìshǐ sùzào le zhège bāng, shǐ zhī fánróng chāngshèng。",
+      "english": "History shaped this nation, making it prosperous."
+    },
+    {
+      "chinese": "一个善良的邦能让人民安居乐业(一個善良的邦能讓人民安居樂業)。",
+      "pinyin": "Yīgè shànliáng de bāng néng ràng rénmín ānjū lèyè。",
+      "english": "A good nation enables its people to live in peace and prosperity."
+    }
+  ]
+}

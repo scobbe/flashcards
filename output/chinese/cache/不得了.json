@@ -1,0 +1,45 @@
+{
+  "simplified": "不得了",
+  "traditional": "不得了",
+  "pinyin": "bùdéliǎo",
+  "english": "terrible; extremely; amazing",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(bù) (bù, \"not\") + 得(得) (dé, \"obtain\") + 了(了) (liǎo, \"end\") together convey a sense of reaching an extreme or unbearable point, hence the meanings \"terrible,\" \"extremely,\" or \"amazing.\"",
+    "interpretation": "The phrase 不得了 (bùdéliǎo) expresses a strong degree of emphasis, where 不(bù) (bù, \"not\") combined with 得(得) (dé, \"obtain\") and 了(了) (liǎo, \"end\") conveys something that cannot be achieved or ended, highlighting extremity or intensity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "得",
+      "trad": "得",
+      "pinyin": "dé",
+      "english": "obtain; will; can; must"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "liǎo",
+      "english": "end; finish; able to; understand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的笑容真是不得了(他的笑容真是不得了)。",
+      "pinyin": "Tā de xiàoróng zhēn shì bùdéliǎo.",
+      "english": "His smile is truly amazing."
+    },
+    {
+      "chinese": "暑假到了(暑假到了)，学生们的热情不得了(學生們的熱情不得了)。",
+      "pinyin": "Shǔjià dào le, xuéshēngmen de rèqíng bùdéliǎo.",
+      "english": "When summer vacation begins, the students' enthusiasm is incredible."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "教导",
+  "traditional": "教導",
+  "pinyin": "jiàodǎo",
+  "english": "instruct; teach",
+  "etymology": {
+    "type": "compound word",
+    "description": "教(教) (jiào, \"teach\") and 导(導) (dǎo, \"guide\") together form the compound 教导(教導) (jiàodǎo, \"instruct; teach\"). The word conveys the notion of not only imparting knowledge but also guiding and mentoring someone.",
+    "interpretation": "The combination makes sense as it encompasses both teaching and guiding, suggesting a comprehensive approach to education that includes mentorship and leadership.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "教",
+      "trad": "教",
+      "pinyin": "jiào",
+      "english": "teach; instruct; educate; guidance"
+    },
+    {
+      "char": "导",
+      "trad": "導",
+      "pinyin": "dǎo",
+      "english": "guide; lead; direct; conduct"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师教导学生(老師教導學生)。",
+      "pinyin": "Lǎoshī jiàodǎo xuéshēng.",
+      "english": "The teacher instructs the students."
+    },
+    {
+      "chinese": "父母教导孩子(父母教導孩子)，要做正直的人(要做正直的人)。",
+      "pinyin": "Fùmǔ jiàodǎo háizi, yào zuò zhèngzhí de rén.",
+      "english": "Parents instruct their children to be honest people."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "纯",
+  "traditional": "純",
+  "pinyin": "chún",
+  "english": "pure",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 糸(糸) (mì, \"silk\") + phonetic: 屯(屯) (tún, \"station\") = silk quality -> pure",
+    "interpretation": "纯(純) (chún, \"pure\") uses silk, symbolizing fine quality, combined with 屯(屯) (tún, \"station\") to express the idea of pure and unadulterated silk.",
+    "simplification": "The character 纯(純) was simplified by removing the middle component from 屯(屯) while retaining the recognizable phonetic and semantic elements."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "屯",
+      "trad": "屯",
+      "pinyin": "tún",
+      "english": "station"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这水真纯(這水真純)。",
+      "pinyin": "Zhè shuǐ zhēn chún.",
+      "english": "This water is very pure."
+    },
+    {
+      "chinese": "她的心灵纯洁(她的心靈純潔)，她的笑容纯真(她的笑容純真)。",
+      "pinyin": "Tā de xīnlíng chúnjié, tā de xiàoróng chúnzhēn.",
+      "english": "Her heart is pure, and her smile is genuine."
+    },
+    {
+      "chinese": "这首音乐纯粹动人(這首音樂純粹動人)。",
+      "pinyin": "Zhè shǒu yīnyuè chúncuì dòngrén.",
+      "english": "This piece of music is purely moving."
+    }
+  ]
+}

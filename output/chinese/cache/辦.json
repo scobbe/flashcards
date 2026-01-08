@@ -1,0 +1,44 @@
+{
+  "simplified": "辦",
+  "traditional": "辦",
+  "pinyin": "bàn",
+  "english": "handle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "半(半) (bàn, \"half\") + 力(力) (lì, \"strength\") = exerting half one's strength -> manage or handle",
+    "interpretation": "辦(辦) (bàn, \"handle\") combines 半(半) (bàn, \"half\") for phonetic indication with 力(力) (lì, \"strength\") for semantic, suggesting managing or handling tasks with effort.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "半",
+      "trad": "半",
+      "pinyin": "bàn",
+      "english": "half"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他辦事有條不紊(他辦事有條不紊)。",
+      "pinyin": "Tā bànshì yǒu tiáo bùwěn.",
+      "english": "He handles matters in an organized manner."
+    },
+    {
+      "chinese": "她辦理文件(她辦理文件)，準時完成任務(準時完成任務)。",
+      "pinyin": "Tā bànlǐ wénjiàn, zhǔnshí wánchéng rènwù.",
+      "english": "She handled the documents and completed the tasks on time."
+    },
+    {
+      "chinese": "我們辦了一個重要會議(我們辦了一個重要會議)。",
+      "pinyin": "Wǒmen bànle yīgè zhòngyào huìyì.",
+      "english": "We organized an important meeting."
+    }
+  ]
+}

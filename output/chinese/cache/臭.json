@@ -1,0 +1,44 @@
+{
+  "simplified": "臭",
+  "traditional": "臭",
+  "pinyin": "chòu",
+  "english": "stinky",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "犬(犬) (quǎn, \"dog\") + 自(自) (zì, \"nose\") = dog's nose -> strong sense of smell -> to smell -> stinky",
+    "interpretation": "The character incorporates 犬(犬) (quǎn, \"dog\") and 自(自) (zì, \"nose\"), suggesting a dog's keen sense of smell. This imagery first indicated the action of smelling, with later contexts evolving to encompass odors, including unpleasant ones.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "自",
+      "trad": "自",
+      "pinyin": "zì",
+      "english": "nose"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这只袜子很臭(這隻襪子很臭)。",
+      "pinyin": "zhè zhī wàzi hěn chòu.",
+      "english": "These socks are stinky."
+    },
+    {
+      "chinese": "空气中弥漫着臭味(空氣中瀰漫著臭味)。",
+      "pinyin": "kōngqì zhōng mímànzhe chòuwèi.",
+      "english": "The air is filled with a stinky smell."
+    },
+    {
+      "chinese": "垃圾桶里有腐烂的食物(垃圾桶裡有腐爛的食物)，气味变得十分臭(氣味變得十分臭)。",
+      "pinyin": "lājītǒng lǐ yǒu fǔlàn de shíwù, qìwèi biàn de shífēn chòu.",
+      "english": "There is rotten food in the trash can, and the odor becomes very stinky."
+    }
+  ]
+}

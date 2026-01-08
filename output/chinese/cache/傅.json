@@ -1,0 +1,44 @@
+{
+  "simplified": "傅",
+  "traditional": "傅",
+  "pinyin": "fù",
+  "english": "instructor; tutor; teacher",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Semantic: 亻(人) (rén, \"person\") + Phonetic: 尃(尃) (fū, \"disperse\") = person skilled in dispersing knowledge -> instructor",
+    "interpretation": "The character 傅(傅) (fù) represents someone who disperses or spreads knowledge, embodying the role of a teacher or tutor. The 人(亻) (rén, \"person\") component indicates that the term relates to a person, while 尃(尃) (fū, \"disperse\") suggests the action of communicating or spreading understanding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "尃",
+      "trad": "尃",
+      "pinyin": "fū",
+      "english": "disperse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的傅很耐心(我的傅很耐心)。",
+      "pinyin": "Wǒ de fù hěn nàixīn.",
+      "english": "My instructor is very patient."
+    },
+    {
+      "chinese": "他是我最敬爱的傅(他是我最敬愛的傅)，总是仔细讲解(總是仔細講解)。",
+      "pinyin": "Tā shì wǒ zuì jìng'ài de fù, zǒng shì zǐxì jiǎngjiě.",
+      "english": "He is my most respected tutor, always explaining carefully."
+    },
+    {
+      "chinese": "课堂上傅的讲解清晰(課堂上傅的講解清晰)。",
+      "pinyin": "Kètáng shàng fù de jiǎngjiě qīngxī.",
+      "english": "The tutor's explanations in class are clear."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "豉",
+  "traditional": "豉",
+  "pinyin": "chǐ",
+  "english": "fermented soybeans",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "豆(豆) (dòu, \"bean\") + phonetic 枀->士(士) (shì, \"scholar\") = sound component -> fermented soybeans",
+    "interpretation": "The character 豉(chǐ, \"fermented soybeans\") combines 豆(豆) (dòu, \"bean\") as the semantic indicator emphasizing the ingredient, with the phonetic 士(士) (shì, \"scholar\") suggesting its pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "传统食品中加入豉(傳統食品中加入豉)，能使菜肴增香(能使菜肴增香)。",
+      "pinyin": "Chuántǒng shípǐn zhōng jiārù chǐ, néng shǐ càiyáo zēng xiāng.",
+      "english": "Adding fermented soybeans in traditional foods can enhance the aroma of dishes."
+    },
+    {
+      "chinese": "他精心研磨豉(他精心研磨豉)，制成美味调料(製成美味調料)。",
+      "pinyin": "Tā jīngxīn yánmó chǐ, zhìchéng měiwèi tiáoliào.",
+      "english": "He carefully grinds the fermented soybeans to make delicious seasonings."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "dawn",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "日(日) (rì, \"sun\") + 丁(丁) (dīng) = sun over horizon (folk etymology) -> dawn",
-    "interpretation": "The character combines 日(日) (rì, \"sun\") with 丁(丁), traditionally thought to show the sun rising over the horizon, representing the concept of dawn. This visual depiction intuitively conveys the beginning of a new day.",
+    "description": "日(日) (rì, \"sun\") + 丁(丁) (dīng, \"nail\") = sun appearing over the horizon, 丁 indicates pronunciation",
+    "interpretation": "Although the original interpretation is debated, the character combines 日(日) (rì, \"sun\") and 丁(丁) (dīng, \"nail\") to depict the sun rising. This is a visual representation of dawn, where the sun emerges at the horizon line.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "丁",
       "trad": "丁",
       "pinyin": "dīng",
-      "english": "indicates pronunciation"
+      "english": "nail"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夜深人静时(夜深人靜時)，旦光破晓而出(旦光破曉而出)。",
-      "pinyin": "Yè shēn rén jìng shí, dàn guāng pò xiǎo ér chū.",
-      "english": "When the night is deep and serene, the light of dawn breaks through."
+      "chinese": "破晓的旦光洒满山川(破曉的旦光灑滿山川)。",
+      "pinyin": "Pòxiǎo de dàn guāng sǎ mǎn shānchuān.",
+      "english": "The light of dawn scattered over the mountains and rivers."
     },
     {
-      "chinese": "山巅积雪未融时(山巔積雪未融時)，旦曦映照群峰(旦曦映照羣峰)。",
-      "pinyin": "Shān diān jī xuě wèi róng shí, dàn xī yìng zhào qún fēng.",
-      "english": "When the snow on the mountain peak has not yet melted, the first light of dawn illuminates the peaks."
+      "chinese": "黎明来临时(黎明來臨時)，旦光映红天边(旦光映紅天邊)。",
+      "pinyin": "Límíng láilín shí, dàn guāng yìng hóng tiānbiān.",
+      "english": "When dawn arrives, the light of dawn paints the sky red."
+    },
+    {
+      "chinese": "在寂静的山谷中(在寂靜的山谷中)，天边的旦光预告着新生(天邊的旦光預告著新生)。",
+      "pinyin": "Zài jìjìng de shāngǔ zhōng, tiānbiān de dàn guāng yùgào zhe xīnshēng.",
+      "english": "In the quiet valley, the light of dawn heralds new life."
     }
   ]
 }

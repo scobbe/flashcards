@@ -1,0 +1,44 @@
+{
+  "simplified": "關",
+  "traditional": "關",
+  "pinyin": "guān",
+  "english": "\"close\"",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "門(門) (mén, 'door') + 䦕(䦕) (guān, 'watchtower') = sound and meaning of barrier or enclosure -> close",
+    "interpretation": "The character 關(關) (guān, 'close') combines the image of a door 門(門) (mén, 'door') with a phonetic element 䦕(䦕) (guān, 'watchtower') to convey the idea of closing or securing a passage like a fortress gate.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door"
+    },
+    {
+      "char": "䦕",
+      "trad": "䦕",
+      "pinyin": "guān",
+      "english": "watchtower"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请关门(請關門)。",
+      "pinyin": "Qǐng guān mén.",
+      "english": "Please close the door."
+    },
+    {
+      "chinese": "他总是忘记关灯(他總是忘記關燈)，夜晚显得特别黑(夜晚顯得特別黑)。",
+      "pinyin": "Tā zǒng shì wàngjì guān dēng, yèwǎn xiǎnde tèbié hēi.",
+      "english": "He always forgets to turn off the light, so the night appears especially dark."
+    },
+    {
+      "chinese": "他轻轻关上了窗户(他輕輕關上了窗戶)。",
+      "pinyin": "Tā qīngqīng guān shàngle chuānghù.",
+      "english": "He gently closed the window."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "美",
+  "traditional": "美",
+  "pinyin": "měi",
+  "english": "beautiful",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "羊(羊) (yáng, \"sheep\") + 大(大) (dà, \"big\") = a big sheep, which was seen as beautiful and auspicious -> beautiful",
+    "interpretation": "The combination of 羊(羊) (yáng, \"sheep\") and 大(大) (dà, \"big\") reflects the cultural value of sheep as symbols of beauty and prosperity in ancient China. A large sheep was particularly prized, leading to the association with beauty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个景色很美(這個景色很美)。",
+      "pinyin": "Zhège jǐngsè hěn měi.",
+      "english": "This scenery is beautiful."
+    },
+    {
+      "chinese": "她的笑容美极了(她的笑容美極了)。",
+      "pinyin": "Tā de xiàoróng měi jí le.",
+      "english": "Her smile is extremely beautiful."
+    },
+    {
+      "chinese": "夜晚来临时(夜晚來臨時)，月光无限美(月光無限美)。",
+      "pinyin": "Yèwǎn láilín shí, yuèguāng wúxiàn měi.",
+      "english": "When night falls, the moonlight is infinitely beautiful."
+    }
+  ]
+}

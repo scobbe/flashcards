@@ -1,0 +1,39 @@
+{
+  "simplified": "哺",
+  "traditional": "哺",
+  "pinyin": "bǔ",
+  "english": "nourish; feed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 甫(甫) (fǔ) = action involving the mouth -> nourish; feed",
+    "interpretation": "The character 哺(bǔ, \"nourish; feed\") combines the semantic element 口(口) (kǒu, \"mouth\"), indicating an action related to the mouth, with the phonetic element 甫(甫) (fǔ), to suggest the sounds involved in feeding or nourishing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甫",
+      "trad": "甫",
+      "pinyin": "fǔ",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "母亲哺乳婴儿(母親哺乳嬰兒)。",
+      "pinyin": "Mǔqīn bǔrǔ yīng'ér.",
+      "english": "The mother nourishes/feeds the baby."
+    },
+    {
+      "chinese": "农夫细心哺养牲畜(農夫細心哺養牲畜)，让它们健康成长(讓它們健康成長)。",
+      "pinyin": "Nóngfū xìxīn bǔyǎng shēngchù, ràng tāmen jiànkāng chéngzhǎng.",
+      "english": "The farmer carefully nourishes the livestock, allowing them to grow healthily."
+    }
+  ]
+}

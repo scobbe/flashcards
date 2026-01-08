@@ -1,0 +1,44 @@
+{
+  "simplified": "蛇",
+  "traditional": "蛇",
+  "pinyin": "shé",
+  "english": "snake",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 虫(虫) (chóng, \"insect\") + phonetic 它(它) (tā, \"it\") = 它's pictographic form depicting a snake combined with 虫 to convey the meaning of a type of serpent",
+    "interpretation": "The character 蛇(shé, \"snake\") combines 虫(chóng, \"insect\") to denote its classification as a creature with 它(tā) providing the phonetic component, which originally depicted a snake itself.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "chóng",
+      "english": "insect"
+    },
+    {
+      "char": "它",
+      "trad": "它",
+      "pinyin": "tā",
+      "english": "it"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天在花园里看见一条大蛇(我昨天在花園裡看見一條大蛇)。",
+      "pinyin": "Wǒ zuótiān zài huāyuán lǐ kànjiàn yītiáo dà shé.",
+      "english": "I saw a big snake in the garden yesterday."
+    },
+    {
+      "chinese": "蛇在水边游动(蛇在水邊游動)，展现出灵活的身姿(展現出靈活的身姿)。",
+      "pinyin": "Shé zài shuǐbiān yóudòng, zhǎnxiàn chū línghuó de shēn zī.",
+      "english": "The snake is slithering by the water, displaying its agile posture."
+    },
+    {
+      "chinese": "电影中出现了一条具有神秘气息的蛇(電影中出現了一條具有神秘氣息的蛇)。",
+      "pinyin": "Diànyǐng zhōng chūxiàn le yītiáo jùyǒu shénmì qìxí de shé.",
+      "english": "A snake with a mysterious aura appeared in the movie."
+    }
+  ]
+}

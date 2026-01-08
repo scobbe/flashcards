@@ -1,0 +1,39 @@
+{
+  "simplified": "楂",
+  "traditional": "楂",
+  "pinyin": "zhā",
+  "english": "hawthorn",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + phonetic: 𣬉 (zhā) = tree with phonetic association -> \"hawthorn\"",
+    "interpretation": "The character 楂(楂) (zhā, \"hawthorn\") combines 木(木) (mù, 'wood'), indicating it's a type of tree, with the component 𣬉 (zhā) to give the sound. This effectively conveys the phonetic and semantic qualities associated with a hawthorn tree.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "𣬉",
+      "trad": "𣬉",
+      "pinyin": "zhā",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱吃楂(我愛吃楂)，这种果实很甜(這種果實很甜)。",
+      "pinyin": "Wǒ ài chī zhā, zhè zhǒng guǒshí hěn tián.",
+      "english": "I love eating hawthorn; this fruit is very sweet."
+    },
+    {
+      "chinese": "厨师用楂制作酱料(廚師用楂製作醬料)，佐餐效果特别好(佐餐效果特別好)。",
+      "pinyin": "Chúshī yòng zhā zhìzuò jiàngliào, zuǒcān xiàoguǒ tèbié hǎo.",
+      "english": "The chef uses hawthorn to make a sauce, and it pairs especially well with meals."
+    }
+  ]
+}

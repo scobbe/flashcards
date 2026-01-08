@@ -1,0 +1,31 @@
+{
+  "simplified": "永",
+  "traditional": "永",
+  "pinyin": "yǒng",
+  "english": "long",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a long river with tributaries -> meaning \"long\"",
+    "interpretation": "The character 永(yǒng, \"long\") represents a continuously flowing river, symbolizing eternity or longevity through its perpetually moving water. This aligns with its use to denote duration.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们的友谊会永(永)长存(他們的友誼會永長存)。",
+      "pinyin": "Tāmen de yǒuyì huì yǒng yuǎn chángcún.",
+      "english": "Their friendship will last forever."
+    },
+    {
+      "chinese": "学者探讨古籍时(學者探討古籍時)，发现‘永’的用法源远流长(發現‘永’的用法源遠流長)。",
+      "pinyin": "Xuézhě tàntǎo gǔjí shí, fāxiàn ‘yǒng’ de yòngfǎ yuányuǎn liúcháng.",
+      "english": "When scholars study ancient texts, they discovered that the usage of '永' carries timeless wisdom."
+    },
+    {
+      "chinese": "记住他的承诺时(記住他的承諾時)，我们应以永(永)不放弃的精神面对挑战(我們應以永不放棄的精神面對挑戰)。",
+      "pinyin": "Jìzhù tā de chéngnuò shí, wǒmen yīng yǐ yǒng bù fàngqì de jīngshén miànduì tiǎozhàn.",
+      "english": "Remembering his promise, we should face challenges with an unyielding spirit."
+    }
+  ]
+}

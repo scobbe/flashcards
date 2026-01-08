@@ -1,0 +1,39 @@
+{
+  "simplified": "辵",
+  "traditional": "辵",
+  "pinyin": "chuò",
+  "english": "walk",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Combines 彳(彳) (chì, \"step\") + 止(止) (zhǐ, \"stop\") = movement and stopping -> walk",
+    "interpretation": "The character 辵(辵) combines elements signifying movement, 彳(彳) (chì, \"step\"), and cessation of movement, 止(止) (zhǐ, \"stop\"), to visually convey the action of walking or progressing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "行走得很稳重时(行走得很穩重時)，他总是注意辵的象形结构(他總是注意辶的象形結構)。",
+      "pinyin": "xíngzǒu dé hěn wěnzhòng shí, tā zǒng shì zhùyì chuò de xiàngxíng jiégòu.",
+      "english": "When walking steadily, he always pays attention to the pictographic structure of '辵'."
+    },
+    {
+      "chinese": "他平时喜欢漫步时(他平時喜歡漫步時)，研究古字中的辵偏旁(研究古字中的辶偏旁)。",
+      "pinyin": "tā píngshí xǐhuān mànbù shí, yánjiū gǔ zì zhōng de chuò piānpáng.",
+      "english": "He likes to stroll in his spare time, and he studies the radical '辵' in ancient characters."
+    }
+  ]
+}

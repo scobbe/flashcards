@@ -1,0 +1,44 @@
+{
+  "simplified": "油条",
+  "traditional": "油條",
+  "pinyin": "yóu tiáo",
+  "english": "fried dough stick",
+  "etymology": {
+    "type": "compound word",
+    "description": "油(油) (yóu, \"oil\") + 条(條) (tiáo, \"strip\") = 油条(油條) (yóutiáo, \"fried dough stick\")",
+    "interpretation": "The term refers to a strip of dough that is deep-fried in oil, common in Chinese cuisine as a breakfast item or snack. The name directly describes its preparation method and shape: frying (油) in oil and its oblong, strip-like form (条).",
+    "simplification": "Simplified from 油條"
+  },
+  "parts": [
+    {
+      "char": "油",
+      "trad": "油",
+      "pinyin": "yóu",
+      "english": "oil"
+    },
+    {
+      "char": "条",
+      "trad": "條",
+      "pinyin": "tiáo",
+      "english": "strip; streak; item"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "早餐常常配有油条和豆浆(早餐常常配有油條和豆漿)。",
+      "pinyin": "Zǎocān chángcháng pèiyǒu yóutiáo hé dòujiāng.",
+      "english": "Breakfast is often served with fried dough sticks and soy milk."
+    },
+    {
+      "chinese": "中式早餐里有油条(中式早餐裡有油條)，口感松软细腻(口感松軟細膩)。",
+      "pinyin": "Zhōngshì zǎocān lǐ yǒu yóutiáo, kǒugǎn sōngruǎn xìnì.",
+      "english": "In Chinese-style breakfasts, fried dough sticks are present, and they have a soft and delicate texture."
+    },
+    {
+      "chinese": "唐代的市集常见油条(唐代的市集常見油條)，深受市民喜爱(深受市民喜愛)。",
+      "pinyin": "Tángdài de shìjí chángjiàn yóutiáo, shēnshòu shìmín xǐ'ài.",
+      "english": "In the Tang Dynasty markets, fried dough sticks were commonly seen and were much loved by citizens."
+    }
+  ]
+}

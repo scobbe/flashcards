@@ -1,0 +1,31 @@
+{
+  "simplified": "雨",
+  "traditional": "雨",
+  "pinyin": "yǔ",
+  "english": "rain",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cloud with drops of rain falling from it -> horizontal stroke added later -> rain",
+    "interpretation": "雨(雨) (yǔ, \"rain\") visually represents rain falling from a cloud, capturing its essential form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天雨下得很大(今天雨下得很大)。",
+      "pinyin": "Jīntiān yǔ xià de hěn dà.",
+      "english": "It rained hard today."
+    },
+    {
+      "chinese": "他忘记带伞(他忘記帶傘)，雨却毫不留情(雨卻毫不留情)。",
+      "pinyin": "Tā wàngjì dài sǎn, yǔ què háobù liúqíng.",
+      "english": "He forgot to bring an umbrella, and the rain showed no mercy."
+    },
+    {
+      "chinese": "细雨如丝(細雨如絲)，轻拂着花瓣(輕拂著花瓣)。",
+      "pinyin": "Xì yǔ rú sī, qīng fú zhe huā bàn.",
+      "english": "The fine rain falls like silk, gently brushing the petals."
+    }
+  ]
+}

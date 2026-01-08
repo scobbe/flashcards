@@ -1,0 +1,44 @@
+{
+  "simplified": "有",
+  "traditional": "有",
+  "pinyin": "yǒu",
+  "english": "have; exist; there is",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 又(yòu, 'hand') + Semantic ⺼(肉, 'meat') -> abstracted form -> meaning: possess, exist",
+    "interpretation": "The character 有(yǒu, 'have') combines the form of a hand holding something, represented by 又(yòu, 'hand'), with the semantic idea of possession or content rooted in 肉(ròu, 'meat'). This symbolically implies having or being in possession of something. Although the original script does not explicitly show meat, the abstracted form represents the concept of existence or possession.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "⺼",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有一本书(我有一本書)。",
+      "pinyin": "Wǒ yǒu yī běn shū.",
+      "english": "I have a book."
+    },
+    {
+      "chinese": "花园里有许多美丽的花(花園裡有許多美麗的花)，小鸟也在唱歌(小鳥也在唱歌)。",
+      "pinyin": "Huāyuán lǐ yǒu xǔduō měilì de huā, xiǎo niǎo yě zài chànggē.",
+      "english": "There are many beautiful flowers in the garden, and the little bird is also singing."
+    },
+    {
+      "chinese": "桌上有一杯水(桌上有一杯水)。",
+      "pinyin": "Zhuō shàng yǒu yī bēi shuǐ.",
+      "english": "There is a glass of water on the table."
+    }
+  ]
+}

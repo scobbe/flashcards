@@ -1,0 +1,44 @@
+{
+  "simplified": "草",
+  "traditional": "草",
+  "pinyin": "cǎo",
+  "english": "grass; herb",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 早(早) (zǎo, \"early\") -> originally referred to 皂(zào, \"acorn\") -> borrowed for \"grass\" sense, replacing 艸(艸, \"grass\")",
+    "interpretation": "The character 草(cǎo, \"grass\") combines the semantic component 艹(艹, \"grass; plant\") indicating its relation to plants, with the phonetic component 早(zǎo, \"early\") to suggest its pronunciation. It was initially associated with the character 皂(zào, \"acorn\") but eventually adopted the meaning of \"grass,\" supplanting 艸(艸, \"grass\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天到了(春天到了)，青草绿了(青草綠了)。",
+      "pinyin": "Chūntiān dào le(Chūntiān dào le)，qīngcǎo lǜ le(qīngcǎo lǜ le)。",
+      "english": "Spring has arrived, and the green grass is flourishing."
+    },
+    {
+      "chinese": "牛在草地上吃草(牛在草地上吃草)。",
+      "pinyin": "Niú zài cǎodì shàng chī cǎo(niú zài cǎodì shàng chī cǎo)。",
+      "english": "The cow is eating grass in the pasture."
+    },
+    {
+      "chinese": "草不仅可以做草药(草不僅可以做草藥)，还可以用来装饰庭院(還可以用來裝飾庭院)。",
+      "pinyin": "Cǎo bùjǐn kěyǐ zuò cǎoyào(çǎo bùjǐn kěyǐ zuò cǎoyào)，hái kěyǐ yòng lái zhuāngshì tíngyuàn(hái kěyǐ yòng lái zhuāngshì tíngyuàn)。",
+      "english": "Herbs are not only used to make medicinal remedies, but they can also be used to decorate the courtyard."
+    }
+  ]
+}

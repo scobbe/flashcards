@@ -1,0 +1,39 @@
+{
+  "simplified": "先",
+  "traditional": "先",
+  "pinyin": "xiān",
+  "english": "first; previous",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "止(止) (zhǐ, \"foot\") + 儿(儿) (ér, \"person\") = person with feet moving forward -> first; previous",
+    "interpretation": "The character 先(xiān) combines the image of a foot 止(止) (zhǐ, \"foot\") and a person 儿(儿) (ér, \"person\") to suggest the idea of leading or going ahead, translating to 'first' or 'previous'. It visually represents someone with feet moving forward, emphasizing the concept of precedence or priority.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "先喝汤(先喝湯)，再吃饭(再吃飯)。",
+      "pinyin": "Xiān hē tāng, zài chī fàn.",
+      "english": "First, drink the soup, then eat the meal."
+    },
+    {
+      "chinese": "你先问问老师(你先問問老師)，再做决定(再做決定)。",
+      "pinyin": "Nǐ xiān wènwèn lǎoshī, zài zuò juédìng.",
+      "english": "Ask the teacher first, then make a decision."
+    }
+  ]
+}

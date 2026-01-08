@@ -1,0 +1,44 @@
+{
+  "simplified": "件",
+  "traditional": "件",
+  "pinyin": "jiàn",
+  "english": "item; component; piece; part",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"man\") + 牛(牛) (niú, \"cow\") = a person with a cow -> an item or component",
+    "interpretation": "The character combines 人(人) (rén, \"man\") and 牛(牛) (niú, \"cow\") to suggest an item or component associated with farming or livestock care. This idea of association extends metaphorically to any item or component, emphasizing its usefulness or role.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "man"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一件衬衫(我買了一件襯衫)。",
+      "pinyin": "Wǒ mǎile yī jiàn chènshān.",
+      "english": "I bought a shirt."
+    },
+    {
+      "chinese": "这件事(這件事)，需要仔细讨论(需要仔細討論)。",
+      "pinyin": "Zhè jiàn shì, xūyào zǐxì tǎolùn.",
+      "english": "This matter needs to be discussed carefully."
+    },
+    {
+      "chinese": "他的发明(他的發明)，由几个关键件组成(由幾個關鍵件組成)。",
+      "pinyin": "Tā de fāmíng, yóu jǐ gè guānjiàn jiàn zǔchéng.",
+      "english": "His invention is composed of several key components."
+    }
+  ]
+}

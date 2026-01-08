@@ -1,0 +1,39 @@
+{
+  "simplified": "芦",
+  "traditional": "蘆",
+  "pinyin": "lu",
+  "english": "reed; rush; bottle gourd",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艸) (cǎo, \"grass\") + 盧(盧) (lú, \"black\") = grass or plant related -> reed",
+    "interpretation": "The character combines the semantic 艹(艸) (cǎo, \"grass\") indicating it is a type of plant and the phonetic 盧(盧) (lú, \"black\") to suggest its pronunciation. This makes it intuitive as a representation of 'reed.'",
+    "simplification": "蘆(蘆)→芦(蘆): 盧(盧) (lú, \"black\") is replaced with a simplified form to reduce complexity."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "盧",
+      "trad": "盧",
+      "pinyin": "lú",
+      "english": "black"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "湖边生长着茂盛的芦(蘆)。",
+      "pinyin": "Hú biān shēngzhǎng zhe màoshèng de lú.",
+      "english": "Reeds grow luxuriantly by the lake."
+    },
+    {
+      "chinese": "河岸上芦(蘆)随风摇曳(隨風搖曳)，发出沙沙声(發出沙沙聲)。",
+      "pinyin": "Hé àn shàng lú suí fēng yáoyè, fāchū shā shā shēng.",
+      "english": "The reeds on the riverbank sway in the wind, producing a rustling sound."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[直]
+Oracle bone script: Ideogrammic compound ( 會意 / 会意 ): 目 ( “ eye ” ) + 丨 ( “ vertical stroke ” ) – vertical stroke above the eye; looking straight ahead. Then, a black dot was drawn inside the vertical stroke and this point later became a horizontal stroke (hence getting a shape similar to 十 ).
+The line on the side appears in bronze script and subsequently stretched under the 目 shape, while the traditional form appears in seal script.
+A conservative version is used inside the character 𢛳 (> 德 ), while the modern version is used inside its variant 惪 . Unrelated to 具 and 真 .
+
+[真]
+Originally phono-semantic compound ( 形聲 / 形声 , OC *ʔljin ): phonetic 𠂈 ( OC *l'ɯːnʔ ) + semantic 貝 ( “ cowry ” ) ; 𠂈 (a knife or dagger) was then a phonetic component. Often 丁 ( OC *rteːŋ, *teːŋ ) (a nail) was added as a second phonetic component at the bottom; originally, it appeared as a black dot. He Linyi posits it to be the original character for 珍 ( OC *ʔl'ɯn , “rare; valuable”).
+The sound component 𠂈 corrupted into 十 in the modern form, and into 匕 in the orthodox seal script form 眞 . The bottom of the character in both forms derives from the components 貝 and 丁 corrupting into 目 and 丌 .

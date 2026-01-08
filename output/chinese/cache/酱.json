@@ -1,0 +1,44 @@
+{
+  "simplified": "酱",
+  "traditional": "醬",
+  "pinyin": "jiàng",
+  "english": "sauce",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "酉(酉) (yǒu, \"drink\") + 將(將) (jiāng, \"lead\") = liquid for cooking or drinking -> sauce",
+    "interpretation": "The character combines the idea of fermented liquids, like those used in drink, with a phonetic hint from 將(將) (jiāng, \"lead\"), suggesting a mixture or preparation, which fits the concept of a sauce.",
+    "simplification": "醬(醬) simplified to 酱(酱) by replacing 將(將) (jiāng, \"lead\") with its cursive form 丬(丬) (pán, \"half tree trunk\") and 夕(夕) (xī, \"evening\") for phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "drink"
+    },
+    {
+      "char": "將",
+      "trad": "將",
+      "pinyin": "jiāng",
+      "english": "lead"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这瓶酱很好吃(這瓶醬很好吃)。",
+      "pinyin": "Zhè píng jiàng hěn hǎo chī.",
+      "english": "This bottle of sauce is delicious."
+    },
+    {
+      "chinese": "妈妈做菜时(媽媽做菜時)，总喜欢用自制的酱(總喜歡用自製的醬)。",
+      "pinyin": "Māmā zuò cài shí, zǒng xǐhuān yòng zì zhì de jiàng.",
+      "english": "When cooking, mom always likes using homemade sauce."
+    },
+    {
+      "chinese": "厨房里的酱香浓郁(廚房裡的醬香濃郁)。",
+      "pinyin": "Chúfáng lǐ de jiàng xiāng nóng yù.",
+      "english": "The aroma of the sauce in the kitchen is rich."
+    }
+  ]
+}

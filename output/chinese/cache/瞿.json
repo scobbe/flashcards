@@ -1,0 +1,39 @@
+{
+  "simplified": "瞿",
+  "traditional": "瞿",
+  "pinyin": "qú",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 目(目) (mù, \"eye\") + Phonetic: 取(取) (qǔ, \"take\") = related to vision or seeing -> final sound and meaning",
+    "interpretation": "瞿(瞿) (qú) combines 目(目) (mù, \"eye\") for the semantic element related to vision, with 取(取) (qǔ) to hint at the pronunciation. Despite its eye-related component, the specific applications may vary.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "取",
+      "trad": "取",
+      "pinyin": "qǔ",
+      "english": "take"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "瞿是一个不常见的姓(瞿是一個不常見的姓)。",
+      "pinyin": "Qú shì yī gè bù chángjiàn de xìng。",
+      "english": "Qú is an uncommon surname."
+    },
+    {
+      "chinese": "很多古籍论及家族姓氏(很多古籍論及家族姓氏)，其中'瞿'因其发音独特而受到关注(其中『瞿』因其發音獨特而受到關注)。",
+      "pinyin": "Hěn duō gǔjí lùn jí jiāzú xìngshì，qízhōng 'qú' yīn qí fāyīn dútè ér shòudào guānzhù。",
+      "english": "Many ancient texts discuss family surnames, among which 'Qú' has attracted attention for its unique pronunciation."
+    }
+  ]
+}

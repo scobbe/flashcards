@@ -1,0 +1,26 @@
+{
+  "simplified": "皿",
+  "traditional": "皿",
+  "pinyin": "mǐn",
+  "english": "dish",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an empty container, such as a chalice -> modern form conjoins handles -> dish",
+    "interpretation": "The character 皿(mǐn, 'dish') is a straightforward pictogram representing an empty container, highlighting its function to hold items, a role akin to modern dishes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "厨房里有一只精致的皿(廚房裡有一隻精緻的皿)。",
+      "pinyin": "Chúfáng lǐ yǒu yī zhī jīngzhì de mǐn。",
+      "english": "There is a delicate dish in the kitchen."
+    },
+    {
+      "chinese": "妈妈把菜盛在皿里(媽媽把菜盛在皿裡)，准备享用(準備享用)。",
+      "pinyin": "Māma bǎ cài shèng zài mǐn lǐ, zhǔnbèi xiǎngyòng。",
+      "english": "Mom served the food in the dish, ready to be enjoyed."
+    }
+  ]
+}

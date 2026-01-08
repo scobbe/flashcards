@@ -1,0 +1,33 @@
+{
+  "simplified": "磊",
+  "traditional": "磊",
+  "pinyin": "lěi",
+  "english": "stones piled up",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "石(石) (shí, \"stone\") triplicated -> stones piled up -> sense of strength or integrity",
+    "interpretation": "The character 磊(lěi, \"stones piled up\") uses a visual representation of three 石(石), emphasizing abundance or mass, often symbolizing strength or truth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山脚下的石头堆积成磊(山腳下的石頭堆積成磊)。",
+      "pinyin": "Shān jiǎo xià de shítou duījī chéng lěi.",
+      "english": "The stones at the foot of the mountain piled up."
+    },
+    {
+      "chinese": "河边的石子渐渐累积(河邊的石子漸漸累積)，最终形成了磊(最終形成了磊)。",
+      "pinyin": "Hé biān de shízǐ jiànjiàn lěijī, zuìzhōng xíngchéng le lěi.",
+      "english": "The stones along the river gradually accumulated and eventually formed a pile."
+    }
+  ]
+}

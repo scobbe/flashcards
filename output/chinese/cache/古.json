@@ -1,0 +1,44 @@
+{
+  "simplified": "古",
+  "traditional": "古",
+  "pinyin": "gǔ",
+  "english": "ancient",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "十 (shí, \"shield\") + 口 (kǒu, \"mouth\") = concept of \"strong, firm\" like a shield -> original meaning of 固",
+    "interpretation": "古(gǔ, \"ancient\") combines a shield and a mouth, symbolizing the strength and firmness of traditions carried through speech. This original strong or firm concept eventually extended to refer to something ancient, as traditions tend to become firmly established over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "shield"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古书记录着智慧(古書記錄著智慧)。",
+      "pinyin": "Gǔ shū jìlù zhe zhìhuì.",
+      "english": "Ancient books record wisdom."
+    },
+    {
+      "chinese": "我们参观了一个古镇(我們參觀了一個古鎮)，体验历史韵味(體驗歷史韻味)。",
+      "pinyin": "Wǒmen cānguān le yīgè gǔ zhèn, tǐyàn lìshǐ yùnwèi.",
+      "english": "We visited an ancient town and experienced its historical charm."
+    },
+    {
+      "chinese": "古建筑诉说着过去(古建築訴說著過去)。",
+      "pinyin": "Gǔ jiànzhú sùshuō zhe guòqù.",
+      "english": "Ancient architecture tells the stories of the past."
+    }
+  ]
+}

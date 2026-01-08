@@ -1,0 +1,50 @@
+{
+  "simplified": "牵牛花",
+  "traditional": "牽牛花",
+  "pinyin": "qiānniúhuā",
+  "english": "morning glory",
+  "etymology": {
+    "type": "compound word",
+    "description": "牵(牽) (qiān, \"to lead\") + 牛(牛) (niú, \"ox\") + 花(花) (huā, \"flower\") = morning glory, a flower that twines around like it is leading an ox",
+    "interpretation": "The name 牵牛花(牽牛花) (qiānniúhuā, \"morning glory\") evokes the image of the flower's tendrils twining around supports in a manner reminiscent of how a person might lead an ox by a rope. The plant's climbing habit is likened to the motion of guiding an ox.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牵",
+      "trad": "牽",
+      "pinyin": "qiān",
+      "english": "to lead"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "ox"
+    },
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "清晨时分(清晨時分)，我在花园里发现了美丽的牵牛花(我在花園裡發現了美麗的牽牛花)。",
+      "pinyin": "Qīngchén shífèn, wǒ zài huāyuán lǐ fāxiànle měilì de qiānniúhuā.",
+      "english": "Early in the morning, I discovered beautiful morning glories in the garden."
+    },
+    {
+      "chinese": "花架上爬满了牵牛花(花架上爬滿了牽牛花)。",
+      "pinyin": "Huājià shàng pá mǎnle qiānniúhuā.",
+      "english": "The trellis is covered with morning glories."
+    },
+    {
+      "chinese": "黄昏时刻(黃昏時刻)，夕阳映照的牵牛花(夕陽映照的牽牛花)，显得格外动人(顯得格外動人)。",
+      "pinyin": "Huánghūn shíkè, xīyáng yìngzhào de qiānniúhuā, xiǎnde géwài dòngrén.",
+      "english": "At dusk, the morning glories illuminated by the setting sun looked exceptionally enchanting."
+    }
+  ]
+}

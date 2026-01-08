@@ -1,0 +1,39 @@
+{
+  "simplified": "陆",
+  "traditional": "陸",
+  "pinyin": "lù",
+  "english": "land",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 阝(阜) (fù, 'mound') + Phonetic: 坴(坴) (lù), used for phonetic value -> land, elevated ground",
+    "interpretation": "The character 陸(陆) (lù, 'land') combines the semantic component 阝(阜) (fù, 'mound'), indicating something related to earth or elevation, with 坴(坴) (lù) for its phonetic representation. This effectively communicates the idea of elevated or significant land.",
+    "simplification": "陸(陸) was simplified to 陆(陸) by retaining the 阝(阜) component for semantic value and using a simpler version of 坴(坴) for phonetic association."
+  },
+  "parts": [
+    {
+      "char": "阝",
+      "trad": "阜",
+      "pinyin": "fù",
+      "english": "mound"
+    },
+    {
+      "char": "坴",
+      "trad": "坴",
+      "pinyin": "lù",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那艘船终将驶向陆(陸)。",
+      "pinyin": "Nà sōu chuán zhōng jiāng shǐ xiàng lù.",
+      "english": "That boat will eventually sail towards land."
+    },
+    {
+      "chinese": "他们跨过波涛(他們跨過波濤)，抵达陆(陸)。",
+      "pinyin": "Tāmen kuà guò bōtāo, dìdá lù.",
+      "english": "They crossed the waves and reached the land."
+    }
+  ]
+}

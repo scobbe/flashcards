@@ -1,0 +1,8 @@
+[尙]
+Phono-semantic compound ( 形聲 / 形声 ): semantic 八 + phonetic 向 ( OC *hljaŋs, *hlaŋs ) . ( Can this ( + ) etymology be sourced ?)
+
+[尚]
+Phono-semantic compound ( 形聲 / 形声 , OC *djaŋ, *djaŋs ): semantic 八 + phonetic 向 ( OC *hljaŋs, *hlaŋs ) . Similar to 冋 .
+
+[向]
+Ideogrammic compound ( 會意 / 会意 ): 宀 ( “ house ” ) + 口 ( “ mouth ” ) , echos in a place. The original form of 響 . It was borrowed to represent 𠨍 ( 嚮 ) later. The mouth doesn't represent an opening (e.g., a door or a window) as in 高 and 谷 . Similar to 冋 .

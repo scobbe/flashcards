@@ -1,0 +1,26 @@
+{
+  "simplified": "糸",
+  "traditional": "糸",
+  "pinyin": "mì",
+  "english": "silk thread",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a coil of silk thread",
+    "interpretation": "The character 糸(mì, 'silk thread') visually represents a bundle or coil of silk threads, aligning with its meaning of thread or textile.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古人用糸制作衣物(古人用糸製作衣物)。",
+      "pinyin": "Gǔrén yòng mì zhìzuò yīwù.",
+      "english": "Ancient people used silk thread to make clothes."
+    },
+    {
+      "chinese": "他用糸织成精致的布料(他用糸織成精緻的布料)，装饰了贵族的衣裳(裝飾了貴族的衣裳)。",
+      "pinyin": "Tā yòng mì zhīchéng jīngzhì de bùliào, zhuāngshì le guìzú de yīshang.",
+      "english": "He wove exquisite fabric with silk thread, decorating the robes of nobles."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "岩",
+  "traditional": "巖",
+  "pinyin": "yán",
+  "english": "rock; cliff",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "山(山) (shān, \"hill\") + 石(石) (shí, \"rock\") = combined elements representing a rocky hill or cliff -> 岩(巖) (yán, \"rock; cliff\")",
+    "interpretation": "The character 岩(巖) (yán, \"rock; cliff\") combines 山(山) (shān, \"hill\") and 石(石) (shí, \"rock\") to convey the image of a rocky hill or a cliff. The original form 巖 emphasized the phonetic 嚴(嚴) (yán), but later 岩 became the more common form.",
+    "simplification": "The character 岩(巖) was originally 巖 in traditional script, simplified by dropping the 嚴 component and directly combining 山 and 石 to retain both the sound and meaning efficiently."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "hill"
+    },
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "rock"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那块岩静静矗立在河边(那塊岩靜靜矗立在河邊)。",
+      "pinyin": "Nà kuài yán jìng jìng chùlì zài hé biān.",
+      "english": "That rock stands quietly by the river bank."
+    },
+    {
+      "chinese": "登上岩顶(登上岩頂)，看尽山川风光(看盡山川風光)。",
+      "pinyin": "Dēng shàng yán dǐng, kàn jìn shān chuān fēng guāng.",
+      "english": "Climb to the top of the rock and behold the scenic mountains and rivers."
+    },
+    {
+      "chinese": "海浪拍打着悬岩(海浪拍打著懸岩)，发出低沉的轰鸣(發出低沉的轟鳴)。",
+      "pinyin": "Hǎi làng pāidǎ zhe xuán yán, fāchū dīchén de hōngmíng.",
+      "english": "The waves crash against the cliff, producing a deep, rumbling sound."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "火",
+  "traditional": "火",
+  "pinyin": "huǒ",
+  "english": "fire",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts flames rising from a fire",
+    "interpretation": "The character 火(火) (huǒ, \"fire\") visually represents flames flickering upwards, which intuitively conveys the essence of fire. This simple depiction is an effective way to capture the dynamic and essential nature of fire.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "火在壁炉中熊熊燃烧(火在壁爐中熊熊燃燒)。",
+      "pinyin": "Huǒ zài bìlú zhōng xióngxióng ránshāo.",
+      "english": "The fire burns fiercely in the fireplace."
+    },
+    {
+      "chinese": "野外露营时(野外露營時)，火能驱走寒冷(火能驅走寒冷)。",
+      "pinyin": "Yěwài lùyíng shí, huǒ néng qūzǒu hánlěng.",
+      "english": "When camping outdoors, the fire can drive away the cold."
+    },
+    {
+      "chinese": "遇到火灾时(遇到火災時)，迅速疏散最为重要(迅速疏散最為重要)。",
+      "pinyin": "Yù dào huǒzāi shí, xùnsù shū sàn zuìwéi zhòngyào.",
+      "english": "In case of a fire, evacuating quickly is of utmost importance."
+    }
+  ]
+}

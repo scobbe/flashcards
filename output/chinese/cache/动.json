@@ -1,0 +1,44 @@
+{
+  "simplified": "动",
+  "traditional": "動",
+  "pinyin": "dòng",
+  "english": "move; act; stir; change",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "力(力) (lì, \"strength\") + 重(重) (zhòng, \"heavy\") = effort applied to shift weight -> move",
+    "interpretation": "力(力) (lì, \"strength\") indicates action or exertion of force, while 重(重) (zhòng, \"heavy\") serves as a phonetic component capturing the character's pronunciation. Together, they convey the idea of using strength to move or change something.",
+    "simplification": "动(動): Removed 艹(艹) from 重(重), leaving just another simpler form to represent the sound and meaning."
+  },
+  "parts": [
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    },
+    {
+      "char": "重",
+      "trad": "重",
+      "pinyin": "zhòng",
+      "english": "heavy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他动了动手指(他動了動手指)，同意了建议(同意了建議)。",
+      "pinyin": "Tā dòngle dòng shǒuzhǐ, tóngyìle jiànyì.",
+      "english": "He moved his finger and agreed to the suggestion."
+    },
+    {
+      "chinese": "心动不已(心動不已)。",
+      "pinyin": "Xīn dòng bù yǐ.",
+      "english": "His heart is constantly stirred."
+    },
+    {
+      "chinese": "局势频繁动荡(局勢頻繁動蕩)，民众渴望安定(民眾渴望安定)。",
+      "pinyin": "Jú shì pínfán dòng dàng, mínzhòng kěwàng āndìng.",
+      "english": "The situation is frequently changing, and the people long for stability."
+    }
+  ]
+}

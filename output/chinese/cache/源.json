@@ -1,0 +1,39 @@
+{
+  "simplified": "源",
+  "traditional": "源",
+  "pinyin": "yuán",
+  "english": "origin; source; fountainhead",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 氵(氵) (shuǐ, \"water\") + Phonetic: 原(原) (yuán, \"origin\") = water source or origin -> origin; source; fountainhead",
+    "interpretation": "The character 源(yuán) uses 氵(氵) to indicate its association with water, symbolizing the beginning or source of a river. The phonetic component 原(原) also means 'origin,' reinforcing the meaning of a point where something begins.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "原",
+      "trad": "原",
+      "pinyin": "yuán",
+      "english": "origin"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "知识的积累是灵感的源(知識的積累是靈感的源)，推动了创新的发展(推動了創新的發展)。",
+      "pinyin": "Zhīshì de jīlěi shì línggǎn de yuán, tuīdòng le chuàngxīn de fāzhǎn.",
+      "english": "The accumulation of knowledge is the source of inspiration, which propels the development of innovation."
+    },
+    {
+      "chinese": "他的成功源于不懈努力(他的成功源於不懈努力)。",
+      "pinyin": "Tā de chénggōng yuányú bùxiè nǔlì.",
+      "english": "His success originates from relentless effort."
+    }
+  ]
+}

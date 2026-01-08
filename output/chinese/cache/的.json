@@ -1,0 +1,44 @@
+{
+  "simplified": "的",
+  "traditional": "的",
+  "pinyin": "de",
+  "english": "possessive/attributive particle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "白(白) (bái, \"white\") + 勺(勺) (sháo, \"spoon\") = semantic of brightness/clarity from 白 (bái) plus phonetic 勺 (sháo) -> possessive/attributive particle",
+    "interpretation": "The character 的 combines the meaning of clarity or purity from 白(白) (bái, \"white\") with the phonetic indication from 勺(勺) (sháo, \"spoon\"). This combination has evolved to convey the grammatical function of attributing possession or characteristics.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    },
+    {
+      "char": "勺",
+      "trad": "勺",
+      "pinyin": "sháo",
+      "english": "spoon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是我的书(這是我的書)。",
+      "pinyin": "Zhè shì wǒ de shū.",
+      "english": "This is my book."
+    },
+    {
+      "chinese": "这是老师的家(這是老師的家)，也是学生的课堂(也是學生的課堂)。",
+      "pinyin": "Zhè shì lǎoshī de jiā, yě shì xuéshēng de kètáng.",
+      "english": "This is the teacher's house, and also the student's classroom."
+    },
+    {
+      "chinese": "我穿的是红色的衣服(我穿的是紅色的衣服)，看起来很精神(看起來很精神)。",
+      "pinyin": "Wǒ chuān de shì hóngsè de yīfú, kàn qǐlái hěn jīngshén.",
+      "english": "I am wearing red clothes, and they look very vibrant."
+    }
+  ]
+}

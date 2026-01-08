@@ -1,3 +1,10 @@
 [口]
 Pictogram ( 象形 ) – resembles an open mouth.
 In the oracle bone script, radical 口 is used for characters having abstract meanings. Such a character can have a figurative meaning derived from the phonetic part, e.g. 右 ( OC *ɢʷɯʔ, *ɢʷɯs , “right”) = 又 ( OC *ɢʷɯs , “right hand”) + 口 and 𪪺 (“strong; powerful”) = 弓 ( OC *kʷɯŋ , “bow”) + 口 , or be an unrelated borrowing, e.g. 否 ( OC *brɯʔ, *pɯʔ , “no”) = 不 ( OC *pɯ, *pɯʔ, *pɯ' , “calyx”) + 口 .
+
+[名]
+Ideogrammic compound ( 會意 / 会意 ): 夕 ( “ crescent moon ” ) + 口 ( “ mouth ” ) — to say one's own name to identify oneself in the dark.
+An alternative theory has been proposed based on Shang era texts. 口 was originally used to write both 口 and 名 . 夕 standing for what later came to be written 明 , was added as a phonetic indicator to disambiguate the two meanings.
+
+[各]
+Ideogrammic compound ( 會意 / 会意 ): 夂 ( “ sole of foot ” ) + 口 – to come, to enter; original form of 𢓜 and 格 ( OC *klaːɡ, *kraːɡ ). The mouth could be referred to the entrance of a cavern or building (see 高 , 去 and 谷 ; however, this is not the case in 向 ). Compare 出 .

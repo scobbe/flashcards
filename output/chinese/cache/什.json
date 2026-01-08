@@ -1,0 +1,39 @@
+{
+  "simplified": "什",
+  "traditional": "什",
+  "pinyin": "shén",
+  "english": "what; ten",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") + 十(十) (shí, \"ten\") = phonetic 十 with 人 providing semantic context of person-related inquiry -> final form 什(shén, \"what\")",
+    "interpretation": "The character combines 人(人) (rén, \"person\") with 十(十) (shí, \"ten\"), utilizing 十 for its phonetic value and 人 to suggest a general sense of inquiry or relation to people. The combination appropriately reflects the interrogative nature of 什(shén, \"what\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是什么(這是什麼)？",
+      "pinyin": "Zhè shì shénme?",
+      "english": "What is this?"
+    },
+    {
+      "chinese": "你想知道什么(你想知道什麼)，我来帮你找答案(我來幫你找答案)。",
+      "pinyin": "Nǐ xiǎng zhīdào shénme, wǒ lái bāng nǐ zhǎo dá'àn.",
+      "english": "If you want to know what, I will help you find the answer."
+    }
+  ]
+}

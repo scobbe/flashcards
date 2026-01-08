@@ -1,0 +1,39 @@
+{
+  "simplified": "痧",
+  "traditional": "痧",
+  "pinyin": "shā",
+  "english": "rash; measles",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 疒(疒) (nè, \"illness; disease\") + phonetic: 沙(沙) (shā, \"sand\") = conveys the idea of a sand-like rash -> rash; measles",
+    "interpretation": "The character 痧(shā, \"rash; measles\") combines the semantic component 疒(疒) (nè, \"illness; disease\") with the phonetic 沙(沙) (shā, \"sand\"). This pairing suggests an illness characterized by rash-like symptoms, akin to the texture of sand.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疒",
+      "trad": "疒",
+      "pinyin": "nè",
+      "english": "illness; disease"
+    },
+    {
+      "char": "沙",
+      "trad": "沙",
+      "pinyin": "shā",
+      "english": "sand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他皮肤上出现痧(他皮膚上出現痧)。",
+      "pinyin": "Tā pífū shàng chūxiàn shā.",
+      "english": "A rash appeared on his skin."
+    },
+    {
+      "chinese": "高温天气时(高溫天氣時)，部分人会得痧(部分人會得痧)。",
+      "pinyin": "Gāowēn tiānqì shí, bùfèn rén huì dé shā.",
+      "english": "In hot weather, some people may develop a rash."
+    }
+  ]
+}

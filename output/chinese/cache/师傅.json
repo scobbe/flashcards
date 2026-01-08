@@ -1,0 +1,39 @@
+{
+  "simplified": "师傅",
+  "traditional": "師傅",
+  "pinyin": "shīfu",
+  "english": "master; skilled worker",
+  "etymology": {
+    "type": "compound word",
+    "description": "师(師) (shī, \"master\") refers to a teacher, expert, or skilled person. 傅(傅) (fù, \"instructor\") emphasizes the role of guiding or instructing others.",
+    "interpretation": "The term 师傅(師傅) (shīfu) conveys respect and acknowledgment of expertise or skill, often used to address someone who has acquired a high level of knowledge or skill in a particular field, whether in craftsmanship or teaching.",
+    "simplification": "师傅"
+  },
+  "parts": [
+    {
+      "char": "师",
+      "trad": "師",
+      "pinyin": "shī",
+      "english": "master; teacher; expert"
+    },
+    {
+      "char": "傅",
+      "trad": "傅",
+      "pinyin": "fù",
+      "english": "instructor; tutor; teacher"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他请师傅修理自行车(他請師傅修理自行車)。",
+      "pinyin": "Tā qǐng shīfu xiūlǐ zìxíngchē.",
+      "english": "He asked the master to repair the bicycle."
+    },
+    {
+      "chinese": "师傅手艺高超(師傅手藝高超)，顾客纷纷赞叹(顧客紛紛讚嘆)。",
+      "pinyin": "Shīfu shǒuyì gāochāo, gùkè fēnfēn zàntàn.",
+      "english": "The master's skill is exceptional, and the customers are full of praise."
+    }
+  ]
+}

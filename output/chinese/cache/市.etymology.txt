@@ -1,0 +1,12 @@
+[市]
+Oracle bone script and bronze inscriptions: Phono-semantic compound ( 形聲 / 形声 , OC *djɯʔ ): semantic 兮 ( “ bustling ” ) + phonetic 之 ( OC *tjɯ ) .
+
+[帀]
+Uncertain. Shuowen interprets the glyph as an inverted 之 (originally written as 㞢). Zhang Shichao (張世超) also interprets it as "roots" (柢). However, 之 in oracle bones represents a footprint.
+
+[師]
+Ideogrammic compound ( 會意 / 会意 ): 𠂤 ( “ mound, hill ” ) + 帀 – ancient troops were usually stationed at a hill.
+Each of the two components can be used as 師 on their own in preclassical scripts. The meaning of 帀 is "to surround"; the glyph should be the inverted version of 㞢 (> 之 ), which represents a footstep. See also 官 and 追 .
+
+[师]
+Simplified from 師 ( 𠂤 → 刂 ). Compare 帅 from 帥 .

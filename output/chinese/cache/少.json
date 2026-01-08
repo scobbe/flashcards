@@ -1,0 +1,44 @@
+{
+  "simplified": "少",
+  "traditional": "少",
+  "pinyin": "shǎo",
+  "english": "few",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts four dots as grains of sand to indicate \"a few, a little\"; the form is also phonetically borrowed from 小(xiǎo, \"small\")",
+    "interpretation": "The character 少(shǎo, \"few\") uses dots to suggest the idea of smallness or scarcity, similar to grains of sand. It is visually and phonetically associated with 小(xiǎo, \"small\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "沙",
+      "trad": "沙",
+      "pinyin": "shā",
+      "english": "sand"
+    },
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天来的客人很少(今天來的客人很少)。",
+      "pinyin": "Jīntiān lái de kèrén hěn shǎo.",
+      "english": "There were very few guests today."
+    },
+    {
+      "chinese": "他的时间很少(他的時間很少)，用来休息(用來休息)。",
+      "pinyin": "Tā de shíjiān hěn shǎo, yòng lái xiūxí.",
+      "english": "He has little time, which he uses to rest."
+    },
+    {
+      "chinese": "这部电影票房少得可怜(這部電影票房少得可憐)。",
+      "pinyin": "Zhè bù diànyǐng piàofáng shǎo de kělián.",
+      "english": "The movie's box office was pitifully low."
+    }
+  ]
+}

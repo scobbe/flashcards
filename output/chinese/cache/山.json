@@ -6,7 +6,7 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts three mountain peaks",
-    "interpretation": "The character 山(shān, \"mountain\") visually represents mountainous terrain with its three distinct peaks, giving it a natural and intuitive connection to its meaning.",
+    "interpretation": "The character 山(shān, \"mountain\") visually represents the concept of a mountain using three vertical lines that suggest peaks. This depiction is consistent with early forms found in Oracle Bone Script, emphasizing the notion of natural elevation associated with mountains.",
     "simplification": ""
   },
   "parts": [],
@@ -18,14 +18,14 @@
       "english": "We go climb the mountain."
     },
     {
-      "chinese": "山的景色壮观(山的景色壯觀)，令人心旷神怡(令人心曠神怡)。",
-      "pinyin": "Shān de jǐngsè zhuànguān, lìng rén xīnkuàngshényí.",
-      "english": "The mountain scenery is magnificent, and it refreshes the soul."
+      "chinese": "那座大山让人惊叹(那座大山讓人驚嘆)。",
+      "pinyin": "Nà zuò dà shān ràng rén jīngtàn.",
+      "english": "That mountain astonishes people."
     },
     {
-      "chinese": "傍晚时分(傍晚時分)，山峦披上了晚霞(山巒披上了晚霞)。",
-      "pinyin": "Bàngwǎn shífēn, shānluán pī shàng le wànxiá.",
-      "english": "At dusk, the mountains are draped in sunset clouds."
+      "chinese": "远处的山隐约在云中(遠處的山隱約在雲中)，令人心旷神怡(令人心曠神怡)。",
+      "pinyin": "Yuǎnchù de shān yǐnyuē zài yún zhōng, lìng rén xīnkuàng shényí.",
+      "english": "The distant mountain fades into the clouds, leaving one in a state of peace."
     }
   ]
 }

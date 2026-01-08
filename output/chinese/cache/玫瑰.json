@@ -1,0 +1,39 @@
+{
+  "simplified": "玫瑰",
+  "traditional": "玫瑰",
+  "pinyin": "méi guī",
+  "english": "rose",
+  "etymology": {
+    "type": "compound word",
+    "description": "玫(玫) (méi, \"a type of jade\") and 瑰(瑰) (guī, \"extraordinary; precious\") together form the word for \"rose\". The combination reflects the beauty and preciousness of the flower, akin to valuable jade.",
+    "interpretation": "The term 玫瑰 (玫瑰) (méiguī, \"rose\") evokes the notion of a prized and beautiful object, similar to how jade is valued in Chinese culture, highlighting the rose's elegance and rarity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "玫",
+      "trad": "玫",
+      "pinyin": "méi",
+      "english": "a type of jade"
+    },
+    {
+      "char": "瑰",
+      "trad": "瑰",
+      "pinyin": "guī",
+      "english": "extraordinary; precious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花园里有漂亮的玫瑰(花園裡有漂亮的玫瑰)。",
+      "pinyin": "Huāyuán lǐ yǒu piàoliang de méi guī.",
+      "english": "There are beautiful roses in the garden."
+    },
+    {
+      "chinese": "我收到一束玫瑰(我收到一束玫瑰)，表达我的情意(表達我的情意)。",
+      "pinyin": "Wǒ shōudào yī shù méi guī, biǎodá wǒ de qíngyì.",
+      "english": "I received a bouquet of roses to express my feelings."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "官二代",
+  "traditional": "官二代",
+  "pinyin": "guān’èrdài",
+  "english": "children of officials",
+  "etymology": {
+    "type": "compound word",
+    "description": "官(官) (guān, \"official\") + 二(二) (èr, \"two; second\") + 代(代) (dài, \"generation\")",
+    "interpretation": "The term 官二代 (guān’èrdài) refers to the children of government officials. '二代' (èrdài, \"second generation\") is often used in Chinese to denote the children or descendants of a certain group, and 官(官) (guān, \"official\") specifies that these are the offspring of people in official positions. The phrase carries connotations of privilege and inherited status in contemporary China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "官",
+      "trad": "官",
+      "pinyin": "guān",
+      "english": "official"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two; second"
+    },
+    {
+      "char": "代",
+      "trad": "代",
+      "pinyin": "dài",
+      "english": "generation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "官二代在社会中备受关注(官二代在社會中備受關注)，他们享有许多优于普通人的机会(他們享有許多優於普通人的機會)。",
+      "pinyin": "Guān’èrdài zài shèhuì zhōng bèishòu guānzhù, tāmen xiǎngyǒu xǔduō yōuyú pǔtōng rén de jīhuì.",
+      "english": "Children of officials receive considerable attention in society, and they enjoy many opportunities superior to those of ordinary people."
+    },
+    {
+      "chinese": "有些官二代不愿背负家族的期望(有些官二代不願背負家族的期望)。",
+      "pinyin": "Yǒuxiē guān’èrdài bù yuàn bèifù jiāzú de qīwàng.",
+      "english": "Some children of officials are reluctant to bear their family's expectations."
+    }
+  ]
+}

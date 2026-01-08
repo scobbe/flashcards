@@ -1,0 +1,31 @@
+{
+  "simplified": "𦉎",
+  "traditional": "𦉎",
+  "pinyin": "wǎng",
+  "english": "net",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a net, resembling the structure of interconnected ropes",
+    "interpretation": "𦉎(𦉎) (wǎng, \"net\") is an ancient pictogram that visually represents the structure of a net, with crisscrossing lines symbolizing the ropes or cords used to form nets.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "渔夫修补了他的𦉎(漁夫修補了他的𦉎)，准备用来捕鱼(準備用來捕魚)。",
+      "pinyin": "Yúfū xiūbǔ le tā de wǎng, zhǔnbèi yòng lái bǔ yú。",
+      "english": "The fisherman repaired his net and was ready to catch fish."
+    },
+    {
+      "chinese": "孩子们在海边玩耍时(孩子們在海邊玩耍時)，用沙子做成一个小小的𦉎(用沙子做成一個小小的𦉎)。",
+      "pinyin": "Háizimen zài hǎibiān wánshuǎ shí, yòng shāzi zuòchéng yī gè xiǎoxiǎo de wǎng。",
+      "english": "While playing at the seaside, the children made a small net out of sand."
+    },
+    {
+      "chinese": "古人使用𦉎(古人使用𦉎)，捕捉珍稀鱼类(捕捉珍稀魚類)。",
+      "pinyin": "Gǔrén shǐyòng wǎng, bǔzhuō zhēnxī yúlèi。",
+      "english": "Ancient people used nets to catch rare fish."
+    }
+  ]
+}

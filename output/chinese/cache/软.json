@@ -1,0 +1,39 @@
+{
+  "simplified": "软",
+  "traditional": "軟",
+  "pinyin": "ruǎn",
+  "english": "soft",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "车(車) (chē, \"vehicle\") + phonetic: 𦘒(𦘒) (ruǎn) = softness related to vehicles -> soft",
+    "interpretation": "The character 软(軟) combines the semantic element 车(車) (chē, \"vehicle\"), which can imply something that moves smoothly or flexibly, with the phonetic component 𦘒(𦘒) (ruǎn) to give the idea of softness.",
+    "simplification": "软(軟): The simplified form retains the main semantic part 车(車) as 车, while keeping the phonetic similarity with the original."
+  },
+  "parts": [
+    {
+      "char": "车",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "vehicle"
+    },
+    {
+      "char": "𦘒",
+      "trad": "𦘒",
+      "pinyin": "ruǎn",
+      "english": "soft (phonetic)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的枕头很软(我的枕頭很軟)。",
+      "pinyin": "Wǒ de zhěntóu hěn ruǎn.",
+      "english": "My pillow is soft."
+    },
+    {
+      "chinese": "这件衣服摸起来软(這件衣服摸起來軟)，穿起来舒服(穿起來舒服)。",
+      "pinyin": "Zhè jiàn yīfu mō qǐlái ruǎn, chuān qǐlái shūfú.",
+      "english": "This piece of clothing feels soft and is comfortable to wear."
+    }
+  ]
+}

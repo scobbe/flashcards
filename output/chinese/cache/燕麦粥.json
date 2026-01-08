@@ -5,8 +5,8 @@
   "english": "oatmeal porridge",
   "etymology": {
     "type": "compound word",
-    "description": "燕麦(燕麥) (yànmài, \"oats\") + 粥(粥) (zhōu, \"porridge\") refers to a dish made by cooking oats into a thick, warm porridge.",
-    "interpretation": "燕麦粥(燕麥粥) (yànmàizhōu, \"oatmeal porridge\") combines the concept of oats and porridge to specify a type of porridge made with oats, commonly consumed as a breakfast dish.",
+    "description": "燕麦(燕麥) (yànmài, \"oats\") + 粥(粥) (zhōu, \"porridge\")",
+    "interpretation": "燕麦(燕麥) (yànmài, \"oats\") combined with 粥(粥) (zhōu, \"porridge\") indicates a type of porridge made primarily from oats, which is widely recognized as oatmeal porridge.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我早餐喝燕麦粥(我早餐喝燕麥粥)。",
-      "pinyin": "Wǒ zǎocān hē yànmàizhōu.",
-      "english": "I drink oatmeal porridge for breakfast."
+      "chinese": "我喜欢燕麦粥(我喜歡燕麥粥)。",
+      "pinyin": "Wǒ xǐhuān yànmàizhōu.",
+      "english": "I like oatmeal porridge."
     },
     {
-      "chinese": "妈妈做燕麦粥(媽媽做燕麥粥)，味道鲜美(味道鮮美)。",
-      "pinyin": "Māmā zuò yànmàizhōu, wèidào xiānměi.",
-      "english": "Mom makes oatmeal porridge, and it tastes delicious."
+      "chinese": "每天早餐时(每天早餐時)，我都会煮燕麦粥(我都會煮燕麥粥)。",
+      "pinyin": "Měitiān zǎocān shí, wǒ dōuhuì zhǔ yànmàizhōu.",
+      "english": "Every morning at breakfast, I always cook oatmeal porridge."
     },
     {
-      "chinese": "冬天早晨常喝燕麦粥(冬天早晨常喝燕麥粥)，能暖胃驱寒(能暖胃驅寒)。",
-      "pinyin": "Dōngtiān zǎochén cháng hē yànmàizhōu, néng nuǎn wèi qū hán.",
-      "english": "Drinking oatmeal porridge on a winter morning can warm the stomach and fend off the cold."
+      "chinese": "冬天来临时(冬天來臨時)，热燕麦粥能驱走寒冷(熱燕麥粥能驅走寒冷)。",
+      "pinyin": "Dōngtiān láilín shí, rè yànmàizhōu néng qūzǒu hánlěng.",
+      "english": "When winter comes, hot oatmeal porridge can drive away the cold."
     }
   ]
 }

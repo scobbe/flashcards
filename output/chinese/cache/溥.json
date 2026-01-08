@@ -1,0 +1,44 @@
+{
+  "simplified": "溥",
+  "traditional": "溥",
+  "pinyin": "pǔ",
+  "english": "widespread",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水) (shuǐ, \"water\") + 普(普) (pǔ, \"universal\") = water flowing universally -> widespread",
+    "interpretation": "The character 溥(pǔ, \"widespread\") combines the water radical 氵(水) (shuǐ, \"water\") with 普(普) (pǔ, \"universal\") to convey the idea of water spreading everywhere, symbolizing breadth or expansion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "普",
+      "trad": "普",
+      "pinyin": "pǔ",
+      "english": "universal"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的影响力溥及各行各业(他的影響力溥及各行各業)。",
+      "pinyin": "Tā de yǐngxiǎnglì pǔ jí gè háng gè yè.",
+      "english": "His influence extends to every walk of life."
+    },
+    {
+      "chinese": "好消息溥传村庄(好消息溥傳村莊)，欢笑充满街道(歡笑充滿街道)。",
+      "pinyin": "Hǎo xiāoxī pǔ chuán cūnzhuāng, huānxiào chōngmǎn jiēdào.",
+      "english": "Good news spreads throughout the village, and laughter fills the streets."
+    },
+    {
+      "chinese": "古韵犹存(古韻猶存)，艺术溥润心灵(藝術溥潤心靈)。",
+      "pinyin": "Gǔ yùn yóu cún, yìshù pǔ rùn xīnlíng.",
+      "english": "Ancient charm still exists, and art extensively nourishes the soul."
+    }
+  ]
+}

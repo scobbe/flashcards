@@ -1,0 +1,44 @@
+{
+  "simplified": "瑰",
+  "traditional": "瑰",
+  "pinyin": "guī",
+  "english": "extraordinary; precious",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 𤣩(𤣩) (yù, \"jade\") + Phonetic: 鬼(鬼) (guǐ, \"ghost\") = valuable like jade, with phonetic hint from guǐ -> extraordinary, precious",
+    "interpretation": "瑰(瑰) (guī, \"extraordinary; precious\") combines the semantic component of jade, symbolizing value, with the phonetic component 鬼(鬼) (guǐ, \"ghost\") to convey an extraordinary nature. The combination suggests something precious and unique, akin to the allure and rarity of jade.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𤣩",
+      "trad": "𤣩",
+      "pinyin": "yù",
+      "english": "jade"
+    },
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的诗句瑰美动人(他的詩句瑰美動人)。",
+      "pinyin": "Tā de shījù guīměi dòngrén.",
+      "english": "His verses are extraordinarily beautiful and moving."
+    },
+    {
+      "chinese": "古董展上(古董展上)，每件展品都极其瑰奇(每件展品都極其瑰奇)。",
+      "pinyin": "Gǔdǒng zhǎn shàng, měi jiàn zhǎnpǐn dōu jíqí guīqí.",
+      "english": "At the antique exhibition, every exhibit is extraordinarily unique."
+    },
+    {
+      "chinese": "山林中隐约传来瑰韵(山林中隱約傳來瑰韻)。",
+      "pinyin": "Shānlín zhōng yǐnyuē chuán lái guīyùn.",
+      "english": "A subtle, extraordinary charm echoed in the forest."
+    }
+  ]
+}

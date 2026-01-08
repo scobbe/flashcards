@@ -1,0 +1,44 @@
+{
+  "simplified": "唯",
+  "traditional": "唯",
+  "pinyin": "wéi",
+  "english": "only",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 隹(隹) (zhuī, \"short-tailed bird\") = phonetic element 隹 with semantic element 口 for voice -> meaning of 'only'",
+    "interpretation": "The character 唯(wéi) combines 口(口) (kǒu, \"mouth\") indicating speech or vocal expression, with 隹(隹) (zhuī, \"short-tailed bird\") which serves as a phonetic component. The combination suggests making a singular statement, hence 'only'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "唯有努力(唯有努力)，才能成功(才能成功)。",
+      "pinyin": "Wéi yǒu nǔlì, cái néng chénggōng.",
+      "english": "Only through hard work can one succeed."
+    },
+    {
+      "chinese": "他是唯一选择(他是唯一選擇)。",
+      "pinyin": "Tā shì wéiyī xuǎnzé.",
+      "english": "He is the only option."
+    },
+    {
+      "chinese": "那台电脑是全场里唯一款性能最强的(那台電腦是全場裡唯一款性能最強的)。",
+      "pinyin": "Nà tái diànnǎo shì quánchǎng lǐ wéiyī kuǎn xìngnéng zuì qiáng de.",
+      "english": "That computer is the only one with the strongest performance in the entire showroom."
+    }
+  ]
+}

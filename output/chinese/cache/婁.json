@@ -1,0 +1,39 @@
+{
+  "simplified": "婁",
+  "traditional": "婁",
+  "pinyin": "lóu",
+  "english": "bundle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 女(女) (nǚ, \"woman\") + phonetic: 尞(尞) (liáo) = woman's involvement with bundles -> bundle",
+    "interpretation": "Originally associated with women, the character depicts the act of bundling or tying together, possibly alluding to women's domestic roles in organizing or managing household items.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "尞",
+      "trad": "尞",
+      "pinyin": "liáo",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "农夫把一捆稻草整齐地扎成婁(農夫把一捆稻草整齊地扎成婁)，准备过冬时取暖(準備過冬時取暖)。",
+      "pinyin": "nóngfū bǎ yī kǔn dàocǎo zhěngqí de zhā chéng lóu, zhǔnbèi guòdōng shí qǔnuǎn.",
+      "english": "The farmer neatly tied a bundle of rice straw, preparing it for warmth during winter."
+    },
+    {
+      "chinese": "工人们把旧报纸捆成婁(工人們把舊報紙捆成婁)，送到回收站利用(送到回收站利用)。",
+      "pinyin": "gōngrénmen bǎ jiù bàozhǐ kǔn chéng lóu, sòng dào huíshōuzhàn lìyòng.",
+      "english": "The workers bundled the old newspapers to be sent to the recycling station for use."
+    }
+  ]
+}

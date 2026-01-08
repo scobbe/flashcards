@@ -1,0 +1,39 @@
+{
+  "simplified": "松",
+  "traditional": "鬆",
+  "pinyin": "sōng",
+  "english": "pine",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木(木) (mù, \"wood\") + phonetic: 公(公) (gōng, \"public\") = type of soft wood -> pine",
+    "interpretation": "The character combines 木(木) (mù, \"wood\") indicating its relation to trees, with 公(公) (gōng, \"public\") providing the phonetic component, representing a type of tree known for its tall and strong, yet flexible structure.",
+    "simplification": "松(鬆) (sōng, \"pine\") simplifies 鬆 by removing the radical 鬆, which indicated relaxation or loosening, retaining only the essential 木(木) (mù, \"wood\") and 公(公) (gōng, \"public\") for phonetic reading."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "public"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那棵松树依然挺立(那棵松樹依然挺立)。",
+      "pinyin": "Nà kē sōng shù yīrán tǐnglì.",
+      "english": "That pine still stands tall."
+    },
+    {
+      "chinese": "公园里种满了松树(公園里種滿了松樹)，空气也格外清新(空氣也格外清新)。",
+      "pinyin": "Gōngyuán lǐ zhǒng mǎn le sōng shù, kōngqì yě géwài qīngxīn.",
+      "english": "The park is filled with pine trees, and the air is exceptionally fresh."
+    }
+  ]
+}

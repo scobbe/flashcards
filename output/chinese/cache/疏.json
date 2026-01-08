@@ -1,0 +1,44 @@
+{
+  "simplified": "疏",
+  "traditional": "疏",
+  "pinyin": "shū",
+  "english": "sparse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 疋(疋) (pǐ, \"bolt of cloth\") + phonetic: 朔(朔) (shuò, \"north\") = separation of threads like a sparse cloth -> sparse",
+    "interpretation": "The character 疏(疏) (shū, \"sparse\") combines the meaning of a 'cloth' to imply something that is spread out or threadbare, with a phonetic part pointing to the reading shu. This emphasizes the sense of separation or being spread out, much like the fabric threads.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "疋",
+      "trad": "疋",
+      "pinyin": "pǐ",
+      "english": "bolt of cloth"
+    },
+    {
+      "char": "朔",
+      "trad": "朔",
+      "pinyin": "shuò",
+      "english": "north"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个花园里的花朵分布比较疏(這個花園裡的花朵分布比較疏)。",
+      "pinyin": "Zhège huāyuán lǐ de huāduǒ fēnbù bǐjiào shū.",
+      "english": "The distribution of flowers in this garden is relatively sparse."
+    },
+    {
+      "chinese": "道路两旁的树木稀疏(道路兩旁的樹木稀疏)，看起来空旷(看起來空曠)。",
+      "pinyin": "Dàolù liǎng páng de shùmù xīshū, kàn qǐlái kōngkuàng.",
+      "english": "The trees along the road are sparse, making it look open."
+    },
+    {
+      "chinese": "夜空中星星排列得十分疏(夜空中星星排列得十分疏)，没有拥挤(沒有擁擠)。",
+      "pinyin": "Yèkōng zhōng xīngxing páiliè dé shífēn shū, méiyǒu yōngjǐ.",
+      "english": "The stars in the night sky are arranged very sparsely, without crowding."
+    }
+  ]
+}

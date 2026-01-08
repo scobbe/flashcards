@@ -1,0 +1,38 @@
+{
+  "simplified": "复",
+  "traditional": "復",
+  "pinyin": "fù",
+  "english": "return; repeat",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Top: A representation of a room in a corridor -> Bottom: 夊 (suī, footprint pointing down) -> Original meaning: going back to meet people in a room -> Modern: return; repeat",
+    "interpretation": "The character 复(復) (fù, 'return; repeat') combines a representation of a room in a corridor with 夊(夊) (suī, 'footprint pointing down'), highlighting the meaning of returning or going back, suggesting a movement back to a familiar or designated space.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "footprint pointing down"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请复述你的故事(請復述你的故事)。",
+      "pinyin": "qǐng fù shù nǐ de gù shì.",
+      "english": "Please repeat your story."
+    },
+    {
+      "chinese": "等你复来时(等你復來時)，我们一起庆祝(我們一起慶祝)。",
+      "pinyin": "děng nǐ fù lái shí, wǒ men yī qǐ qìng zhù.",
+      "english": "When you return, we will celebrate together."
+    },
+    {
+      "chinese": "复查后(復查後)，他发现问题依旧(他發現問題依舊)。",
+      "pinyin": "fù chá hòu, tā fā xiàn wèn tí yī jiù.",
+      "english": "After rechecking, he found the problems unchanged."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "改",
+  "traditional": "改",
+  "pinyin": "gǎi",
+  "english": "change; alter; amend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 巳(巳) (sì, 'sixth earthly branch') + Semantic: 攴(攴) (pū, 'to tap') -> Phonetic changed to 己(己) (jǐ, 'self') -> final form meaning 'change; amend'",
+    "interpretation": "The character 改(gǎi, 'change; alter; amend') originally combined the phonetic element 巳(巳) (sì, 'sixth earthly branch') with the semantic element 攴(攴) (pū, 'to tap'), suggesting a transformation or alteration process. The phonetic evolved to 己(己) (jǐ, 'self'), indicating a shift in representation while retaining the idea of making adjustments or amendments.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巳",
+      "trad": "巳",
+      "pinyin": "sì",
+      "english": "sixth earthly branch"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "self"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "to tap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我改了计划(我改了計劃)。",
+      "pinyin": "Wǒ gǎi le jìhuà.",
+      "english": "I changed the plan."
+    },
+    {
+      "chinese": "政府决定改政策(政府決定改政策)，以适应新情况(以適應新情況)。",
+      "pinyin": "Zhèngfǔ juédìng gǎi zhèngcè, yǐ shìyìng xīn qíngkuàng.",
+      "english": "The government decided to amend its policies to adapt to the new situation."
+    }
+  ]
+}

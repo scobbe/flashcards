@@ -5,22 +5,27 @@
   "english": "enter",
   "etymology": {
     "type": "ideogram",
-    "description": "Arrowhead indicating entry -> concept of entering or joining",
-    "interpretation": "入(入) (rù, \"enter\") depicts an arrowhead pointing inwards, clearly symbolizing entering or penetrating. This helps convey the action or intent to move into something.",
+    "description": "An arrowhead indicating 'to enter'",
+    "interpretation": "The character 入(rù, 'enter') visually represents the concept of entering, with the form resembling an arrowhead suggesting movement through an opening.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他走入房间(他走入房間)。",
-      "pinyin": "Tā zǒurù fángjiān.",
-      "english": "He walked into the room."
+      "chinese": "请入座(請入座)。",
+      "pinyin": "Qǐng rùzuò.",
+      "english": "Please take a seat."
     },
     {
-      "chinese": "学生入课堂(學生入課堂)，认真学习(認真學習)。",
-      "pinyin": "Xuéshēng rù kètáng, rènzhēn xuéxí.",
-      "english": "Students enter the classroom and study diligently."
+      "chinese": "学生走入校园(學生走入校園)，开始新学期(開始新學期)。",
+      "pinyin": "Xuéshēng zǒu rù xiàoyuán, kāishǐ xīn xuéqī.",
+      "english": "The students enter the campus and start a new semester."
+    },
+    {
+      "chinese": "游客走入古城(遊客走入古城)，探索历史(探索歷史)。",
+      "pinyin": "Yóukè zǒu rù gǔchéng, tànsuǒ lìshǐ.",
+      "english": "The tourists enter the ancient city and explore its history."
     }
   ]
 }

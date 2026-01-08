@@ -1,0 +1,31 @@
+{
+  "simplified": "尸",
+  "traditional": "尸",
+  "pinyin": "shī",
+  "english": "corpse",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a man with legs bending -> indicating a corpse's posture -> linked to lying or resting position in ancient scripts",
+    "interpretation": "尸(尸) (shī, \"corpse\") is a pictogram depicting a person in a position indicating death, mirroring a sitting or lying posture. This form captures the essence of a non-living body.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在山洞中发现了尸(屍)。",
+      "pinyin": "Tā zài shāndòng zhōng fāxiàn le shī.",
+      "english": "He discovered the corpse in the cave."
+    },
+    {
+      "chinese": "考古学家在墓穴中找到了尸(屍)，他立即通知了当局(當局)。",
+      "pinyin": "Kǎogǔ xuéjiā zài mùxué zhōng zhǎodào le shī, tā lìjí tōngzhī le dāngjú.",
+      "english": "The archaeologists found the corpse in the tomb, and they immediately informed the authorities."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，古庙前那具尸散发出阴森气息(古廟前那具屍散發出陰森氣息)。",
+      "pinyin": "Yèmù jiànglín shí, gǔ miào qián nà jù shī sànfā chū yīnsēn qìxī.",
+      "english": "As night fell, the corpse in front of the ancient temple emitted a eerie aura."
+    }
+  ]
+}

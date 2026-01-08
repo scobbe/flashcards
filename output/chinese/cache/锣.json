@@ -1,0 +1,44 @@
+{
+  "simplified": "锣",
+  "traditional": "鑼",
+  "pinyin": "luó",
+  "english": "gong",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal\") + 羅(罗) (luó, \"net\") = metal instrument -> gong",
+    "interpretation": "The combination of 金(金) (jīn, \"metal\") as the semantic component indicates that the character relates to metal, while 羅(罗) (luó, \"net\") provides the phonetic element. The character represents a musical instrument made of metal—specifically a gong.",
+    "simplification": "鑼(鑼) → 锣(鑼): The radical 金(金) (jīn, \"metal\") is retained while 羅(罗) is simplified to 罗(罗), a common practice in simplification to reduce the stroke count."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "罗",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "net"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "庙会期间锣声悠扬(廟會期間鑼聲悠揚)。",
+      "pinyin": "Miào huì qījiān luó shēng yōuyáng.",
+      "english": "During the temple fair, the sound of the gong resounded melodiously."
+    },
+    {
+      "chinese": "表演开始时敲响了锣(表演開始時敲響了鑼)，引来了观众(引來了觀眾)。",
+      "pinyin": "Biǎoyǎn kāishǐ shí qiāo xiǎng le luó, yǐn lái le guānzhòng.",
+      "english": "When the performance began, the gong was struck, drawing the audience."
+    },
+    {
+      "chinese": "每当节日来临(每當節日來臨)，村民围坐在锣周围(村民圍坐在鑼周圍)。",
+      "pinyin": "Měidāng jiérì láilín, cūnmín wéizuò zài luó zhōuwéi.",
+      "english": "Whenever the festival arrives, the villagers gather around the gong."
+    }
+  ]
+}

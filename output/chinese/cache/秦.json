@@ -1,0 +1,39 @@
+{
+  "simplified": "秦",
+  "traditional": "秦",
+  "pinyin": "Qín",
+  "english": "Qin",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禾(禾) (hé, \"grain\") + phonetic: 僽(夬) (jiào, \"tent\") -> phonetic shift and addition of 辰(辰) (chén, \"early dawn\") -> development into 名稱 (Qín, \"Qin\")",
+    "interpretation": "The character 秦(Qín) originally combined semantic and phonetic components to denote cultivation and an early settlement or domain. This connection to agriculture and governance reflects how the Qin dynasty unified and cultivated lands.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "夬",
+      "trad": "夬",
+      "pinyin": "guài",
+      "english": "tent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秦始皇统一六国(秦始皇統一六國)，建立了中央政权(建立了中央政權)。",
+      "pinyin": "Qín shǐhuáng tǒngyī liù guó, jiànlì le zhōngyāng zhèngquán.",
+      "english": "Qin Shi Huang unified the six states and established a centralized government."
+    },
+    {
+      "chinese": "秦陵兵马俑展示了古代艺术(秦陵兵馬俑展示了古代藝術)。",
+      "pinyin": "Qín líng bīngmǎyǒng zhǎnshì le gǔdài yìshù.",
+      "english": "The Terracotta Warriors of Qin demonstrate ancient art."
+    }
+  ]
+}

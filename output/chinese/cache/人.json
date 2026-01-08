@@ -2,30 +2,30 @@
   "simplified": "人",
   "traditional": "人",
   "pinyin": "rén",
-  "english": "person",
+  "english": "person; people",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a standing man with highlighted arm and leg -> symbolizes a 'person'",
-    "interpretation": "人(人) (rén, 'person') is a straightforward pictogram representing a simplified side view of a human figure, capturing the essence of a person through its minimal yet effective depiction of arms and legs.",
+    "description": "Depicts side view of a standing man, highlighting an arm and a leg -> visual representation of a person",
+    "interpretation": "The character 人(人) (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一个善良的人(他是一個善良的人)。",
-      "pinyin": "Tā shì yī gè shànliáng de rén.",
-      "english": "He is a kind person."
+      "chinese": "他是个好人(他是個好人)。",
+      "pinyin": "Tā shì gè hǎo rén.",
+      "english": "He is a good person."
     },
     {
-      "chinese": "很多人(很多人)，聚集在广场(聚集在廣場)。",
-      "pinyin": "Hěnduō rén, jùjí zài guǎngchǎng.",
-      "english": "Many people gather in the square."
+      "chinese": "每个人都有责任(每個人都有責任)，为社会作出贡献(為社會作出貢獻)。",
+      "pinyin": "Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.",
+      "english": "Every person has a responsibility to contribute to society."
     },
     {
-      "chinese": "每个人都有自己的故事(每個人都有自己的故事)。",
-      "pinyin": "Měi ge rén dōu yǒu zìjǐ de gùshì.",
-      "english": "Everyone has their own story."
+      "chinese": "人在旅途中(人在旅途中)，心灵获得了成长(心靈獲得了成長)。",
+      "pinyin": "Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.",
+      "english": "People gain growth along their journey."
     }
   ]
 }

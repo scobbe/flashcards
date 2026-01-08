@@ -1,0 +1,39 @@
+{
+  "simplified": "式",
+  "traditional": "式",
+  "pinyin": "shì",
+  "english": "form",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 弋(弋) (yì, \"to shoot with a bow\") + Semantic: 工(工) (gōng, \"work\") = work-related forms -> form",
+    "interpretation": "The character 式(式) (shì, \"form\") combines 弋(弋) (yì, \"to shoot with a bow\") as the phonetic component and 工(工) (gōng, \"work\") as the semantic component to convey the idea of structured or systematic forms related to work. This reflects how forms are often systematically organized like a task or operation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "弋",
+      "trad": "弋",
+      "pinyin": "yì",
+      "english": "to shoot with a bow"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他设计了一种新式的手机外壳(他設計了一種新式的手機外殼)。",
+      "pinyin": "Tā shèjì le yī zhǒng xīnshì de shǒujī wàiké.",
+      "english": "He designed a phone case with a new form."
+    },
+    {
+      "chinese": "他采用复古式的制作方法(他採用復古式的製作方法)，表达对历史的尊重(表達對歷史的尊重)。",
+      "pinyin": "Tā cǎiyòng fùgǔ shì de zhìzuò fāngfǎ, biǎodá duì lìshǐ de zūnzhòng.",
+      "english": "He adopted a retro form of production to express respect for history."
+    }
+  ]
+}

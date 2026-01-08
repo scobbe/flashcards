@@ -1,0 +1,39 @@
+{
+  "simplified": "送",
+  "traditional": "送",
+  "pinyin": "sòng",
+  "english": "send; deliver; give as a gift; see off",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 辶(辶) (chuò, \"walk\") + phonetic: 关(關) (guān) = movement associated with giving or sending -> send, deliver",
+    "interpretation": "送(送) (sòng, \"send\") combines the idea of movement or traveling, shown by 辶(辶) (chuò, \"walk\"), with the phonetic 关(關) (guān) to indicate the action of sending off or delivering something. It emphasizes movement associated with transferring possession or accompanying someone on their way.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "关",
+      "trad": "關",
+      "pinyin": "guān",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "爸爸送子女上学(爸爸送子女上學)。",
+      "pinyin": "Bàba sòng zǐnǚ shàngxué.",
+      "english": "Dad sees his children off to school."
+    },
+    {
+      "chinese": "我送他到火车站(我送他到火車站)，陪他候车(陪他候車)。",
+      "pinyin": "Wǒ sòng tā dào huǒchēzhàn, péi tā hòuchē.",
+      "english": "I take him to the train station and accompany him while waiting."
+    }
+  ]
+}

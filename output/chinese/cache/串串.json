@@ -1,0 +1,44 @@
+{
+  "simplified": "串串",
+  "traditional": "串串",
+  "pinyin": "chuànchuàn",
+  "english": "skewers; skewered food",
+  "etymology": {
+    "type": "compound word",
+    "description": "串(串) (chuàn, \"string together\") + 串(串) (chuàn, \"string together\") refers to food items pierced and cooked on skewers.",
+    "interpretation": "The repetition of 串(串) (chuàn, \"string together\") emphasizes the act of threading ingredients onto a skewer, which is common in street food culture where various meats and vegetables are skewered together and grilled.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "串",
+      "trad": "串",
+      "pinyin": "chuàn",
+      "english": "string together; skewer"
+    },
+    {
+      "char": "串",
+      "trad": "串",
+      "pinyin": "chuàn",
+      "english": "string together; skewer"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃串串(我喜歡吃串串)。",
+      "pinyin": "Wǒ xǐhuān chī chuànchuàn.",
+      "english": "I like eating skewered food."
+    },
+    {
+      "chinese": "冬天寒冷时(冬天寒冷時)，串串让人感觉温暖(串串讓人感覺溫暖)。",
+      "pinyin": "Dōngtiān hánlěng shí, chuànchuàn ràng rén gǎnjué wēnnuǎn.",
+      "english": "When winter is cold, skewers make people feel warm."
+    },
+    {
+      "chinese": "夜市里(夜市裡)，各种美味的串串吸引顾客(各種美味的串串吸引顧客)。",
+      "pinyin": "Yèshì lǐ, gèzhǒng měiwèi de chuànchuàn xīyǐn gùkè.",
+      "english": "In the night market, various delicious skewers attract customers."
+    }
+  ]
+}

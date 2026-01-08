@@ -1,0 +1,31 @@
+{
+  "simplified": "攴",
+  "traditional": "攴",
+  "pinyin": "pū",
+  "english": "tap",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand holding a stick -> action of tapping or striking",
+    "interpretation": "The character 攴(攴) (pū, 'tap') visually represents a hand gripping a stick, which suggests the actions of tapping or light striking, consistent with its meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他用手指攴了一下门(他用手指攴了一下門)。",
+      "pinyin": "Tā yòng shǒuzhǐ pūle yīxià mén.",
+      "english": "He tapped the door with his finger."
+    },
+    {
+      "chinese": "门响后(門響後)，他便迅速攴了一下门把手(他便迅速攴了一下門把手)。",
+      "pinyin": "Mén xiǎng hòu, tā biàn xùnsù pūle yīxià ménbǎshǒu.",
+      "english": "After the door sounded, he quickly tapped the door handle."
+    },
+    {
+      "chinese": "夜深人静时(夜深人靜時)，他轻轻攴了一下窗(他輕輕攴了一下窗)。",
+      "pinyin": "Yè shēn rénjìng shí, tā qīngqīng pūle yīxià chuāng.",
+      "english": "In the dead of night, he gently tapped the window."
+    }
+  ]
+}

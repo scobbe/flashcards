@@ -1,0 +1,44 @@
+{
+  "simplified": "領",
+  "traditional": "領",
+  "pinyin": "lǐng",
+  "english": "neck, collar",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 頁(頁) (yè, \"head\") + phonetic: 令(令) (lǐng) = head related part -> neck, collar",
+    "interpretation": "領(領) (lǐng, \"neck, collar\") combines 頁(頁) (yè, \"head\"), indicating a part of the body, with 令(令) (lǐng), which gives the phonetic sound. The character conveys the connection to the head area, specifically the neck or collar.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lǐng",
+      "english": "order"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她穿着带有花边领的衬衫(她穿著帶有花邊領的襯衫)。",
+      "pinyin": "tā chuānzhuó dài yǒu huābiān lǐng de chènshān。",
+      "english": "She is wearing a blouse with a lace collar."
+    },
+    {
+      "chinese": "他穿着西装(他穿著西裝)，衬衫的领口很精致(襯衫的領口很精緻)。",
+      "pinyin": "tā chuānzhuó xīzhuāng, chènshān de lǐngkǒu hěn jīngzhì。",
+      "english": "He is wearing a suit, and his shirt’s collar is exquisite."
+    },
+    {
+      "chinese": "老狗的脖子上挂着一个小领(老狗的脖子上掛著一個小領)。",
+      "pinyin": "lǎo gǒu de bózi shàng guà zhe yí gè xiǎo lǐng。",
+      "english": "The old dog has a small collar hanging on its neck."
+    }
+  ]
+}

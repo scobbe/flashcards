@@ -1,0 +1,39 @@
+{
+  "simplified": "肙",
+  "traditional": "玄",
+  "pinyin": "xuán",
+  "english": "mysterious",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "幺(幺) (yāo, \"small threads\") + 亠(亠) (tóu, \"top mark\") = two interwoven threads with a mark on top -> represents a rope -> mysterious",
+    "interpretation": "The character depicts twisted threads with a top mark, emphasizing complexity and enigma, hence the meaning \"mysterious.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "small threads"
+    },
+    {
+      "char": "亠",
+      "trad": "亠",
+      "pinyin": "tóu",
+      "english": "top mark"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜色笼罩着古城(夜色籠罩著古城)，散发着肙的魅力(散發著玄的魅力)。",
+      "pinyin": "Yè sè lǒng zhào zhe gǔ chéng, sàn fā zhe xuán de mèi lì.",
+      "english": "The night envelops the ancient city, exuding a mysterious charm."
+    },
+    {
+      "chinese": "他讲述的传说充满了肙意(他講述的傳說充滿了玄意)。",
+      "pinyin": "Tā jiǎng shù de chuán shuō chōng mǎn le xuán yì.",
+      "english": "The legends he recounted were full of mystery."
+    }
+  ]
+}

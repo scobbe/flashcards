@@ -1,0 +1,44 @@
+{
+  "simplified": "椰",
+  "traditional": "椰",
+  "pinyin": "yē",
+  "english": "coconut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木(木) (mù, \"tree\") + phonetic: 耶(耶) (yē, a phonetic component) = a tree associated with the sound - coconut tree",
+    "interpretation": "The character combines the 木(木) (mù, \"tree\") radical, indicating it is a type of tree, with 耶(耶) (yē) to suggest its pronunciation, forming the word for \"coconut.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "耶",
+      "trad": "耶",
+      "pinyin": "yē",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海边的椰子树(海邊的椰子樹)，摇曳生姿(搖曳生姿)。",
+      "pinyin": "Hǎibiān de yēzi shù, yáoyè shēngzī.",
+      "english": "The coconut trees by the sea sway gracefully."
+    },
+    {
+      "chinese": "在热带岛屿(在熱帶島嶼)，椰子很受欢迎(椰子很受歡迎)。",
+      "pinyin": "Zài rèdài dǎoyǔ, yēzi hěn shòu huānyíng.",
+      "english": "In tropical islands, coconuts are very popular."
+    },
+    {
+      "chinese": "我买了一颗椰子(我買了一顆椰子)。",
+      "pinyin": "Wǒ mǎile yī kē yēzi.",
+      "english": "I bought a coconut."
+    }
+  ]
+}

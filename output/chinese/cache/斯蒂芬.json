@@ -1,0 +1,50 @@
+{
+  "simplified": "斯蒂芬",
+  "traditional": "斯蒂芬",
+  "pinyin": "Sīdìfēn",
+  "english": "Stephen",
+  "etymology": {
+    "type": "compound word",
+    "description": "斯(斯) (sī, \"this\") is often used as a phonetic representation in transliterated names. 蒂(蒂) (dì, \"stem\") and 芬(芬) (fēn, \"perfume; fragrance\") are also used for phonetic matching in transliterations, rather than their literal meanings.",
+    "interpretation": "斯蒂芬 is a transliteration of the Western name 'Stephen.' The choice of characters is based on their phonetic similarity to the original name, rather than their individual meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "斯",
+      "trad": "斯",
+      "pinyin": "sī",
+      "english": "this"
+    },
+    {
+      "char": "蒂",
+      "trad": "蒂",
+      "pinyin": "dì",
+      "english": "stem"
+    },
+    {
+      "char": "芬",
+      "trad": "芬",
+      "pinyin": "fēn",
+      "english": "perfume; fragrance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的朋友叫斯蒂芬(我的朋友叫斯蒂芬)。",
+      "pinyin": "Wǒ de péngyǒu jiào Sīdìfēn.",
+      "english": "My friend is named Stephen."
+    },
+    {
+      "chinese": "斯蒂芬是一位优秀的作家(斯蒂芬是一位優秀的作家)，他的小说横扫全球(他的小說橫掃全球)。",
+      "pinyin": "Sīdìfēn shì yī wèi yōuxiù de zuòjiā, tā de xiǎoshuō héngsǎo quánqiú.",
+      "english": "Stephen is an outstanding writer, and his novels have taken the world by storm."
+    },
+    {
+      "chinese": "在纽约(在紐約)，斯蒂芬出演了著名话剧(斯蒂芬出演了著名話劇)。",
+      "pinyin": "Zài Niǔyuē, Sīdìfēn chūyǎnle zhùmíng huàjù.",
+      "english": "In New York, Stephen starred in a famous play."
+    }
+  ]
+}

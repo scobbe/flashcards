@@ -1,0 +1,31 @@
+{
+  "simplified": "禺",
+  "traditional": "禺",
+  "pinyin": "yú",
+  "english": "paired working in the fields",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a monkey with its long tail, which has also been associated with paired working in the fields",
+    "interpretation": "The character originally depicted a monkey, highlighting its connection in meaning to lively or disciplined motion, similar to agricultural activities.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "两人禺于农田(兩人禺於農田)。",
+      "pinyin": "Liǎng rén yú nóngtián.",
+      "english": "Two people work in pairs in the fields."
+    },
+    {
+      "chinese": "邻居们共赴农忙季(鄰居們共赴農忙季)，齐心禺于良田(齊心禺於良田)。",
+      "pinyin": "Lín jū men gòng fù nóngmáng jì, qí xīn yú liáng tián.",
+      "english": "The neighbors rush to the busy farming season, and work in pairs in the fertile fields."
+    },
+    {
+      "chinese": "青年在乡间禺作(青年在鄉間禺作)，传承古法耕作(傳承古法耕作)。",
+      "pinyin": "Qīngnián zài xiāngjiān yú zuò, chuánchéng gǔ fǎ gēngzuò.",
+      "english": "The young people work in pairs in the countryside, inheriting the ancient farming methods."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "simplified": "丌",
+  "traditional": "丌",
+  "pinyin": "jī",
+  "english": "table",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally 𠀠 (basket) -> 丌 (added to represent a stand) = basket on stand -> ancient form of 其(qí, 'his')",
+    "interpretation": "The character 丌 (jī, 'table') initially depicted a stand used for supporting a basket. This aligns with its eventual borrowing into the character 其(qí, 'his'), illustrating how components can shift from concrete objects to abstract uses.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这张丌很宽敞(這張丌很寬敞)。",
+      "pinyin": "Zhè zhāng jī hěn kuānchǎng.",
+      "english": "This table is very spacious."
+    },
+    {
+      "chinese": "工匠精心制作丌(工匠精心製作丌)，设计独具匠心(設計獨具匠心)。",
+      "pinyin": "Gōngjiàng jīngxīn zhìzuò jī, shèjì dújù jiàngxīn.",
+      "english": "The craftsman meticulously made the table, and its design is uniquely ingenious."
+    },
+    {
+      "chinese": "古董店里有一张古旧的丌(古董店裡有一張古舊的丌)。",
+      "pinyin": "Gǔdǒngdiàn lǐ yǒu yī zhāng gǔjiù de jī.",
+      "english": "There is an old table in the antique shop."
+    }
+  ]
+}

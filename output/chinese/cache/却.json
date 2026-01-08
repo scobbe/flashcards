@@ -1,0 +1,39 @@
+{
+  "simplified": "却",
+  "traditional": "卻",
+  "pinyin": "què",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 卩(卩) (jié, 'seal') + phonetic: 去(去) (qù, 'to go') = signifies a systematic arrangement or placement with phonetic association -> retreat, decline",
+    "interpretation": "The character 却(卻) (què, 'retreat') combines the semantic element 卩(卩) (jié, 'seal'), indicating something official or systematic, with the phonetic element 去(去) (qù, 'to go'). This suggests an official or planned movement away, leading to the meaning 'retreat' or 'decline'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal"
+    },
+    {
+      "char": "去",
+      "trad": "去",
+      "pinyin": "qù",
+      "english": "to go"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他努力学习(他努力學習)，却成绩不理想(卻成績不理想)。",
+      "pinyin": "Tā nǔlì xuéxí, què chéngjī bù lǐxiǎng.",
+      "english": "He studies hard, but his grades are unsatisfactory."
+    },
+    {
+      "chinese": "她想去看戏(她想去看戲)，却没有时间(卻沒有時間)。",
+      "pinyin": "Tā xiǎng qù kàn xì, què méiyǒu shíjiān.",
+      "english": "She wanted to see the play, but she didn’t have time."
+    }
+  ]
+}

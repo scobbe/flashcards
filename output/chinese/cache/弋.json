@@ -1,0 +1,31 @@
+{
+  "simplified": "弋",
+  "traditional": "弋",
+  "pinyin": "yì",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bow with an arrow ready to be shot",
+    "interpretation": "The character 弋(yì, \"phonetic component\") represents a bow with an arrow, an imagery that signifies shooting or catching. As such, it has been used as a phonetic component in other characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个字以弋作声旁(這個字以弋作聲旁)。",
+      "pinyin": "Zhège zì yǐ yì zuò shēngpáng.",
+      "english": "This character uses yì as its phonetic component."
+    },
+    {
+      "chinese": "古代学者研究弋的音韵(古代學者研究弋的音韻)，认为其具有独特功能(認爲其具有獨特功能)。",
+      "pinyin": "Gǔdài xuézhě yánjiū yì de yīnyùn, rènwéi qí jùyǒu dútè gōngnéng.",
+      "english": "Ancient scholars studied the rhyme of yì, believing that it possessed a unique function."
+    },
+    {
+      "chinese": "书法艺术中常见弋的应用(書法藝術中常見弋的應用)。",
+      "pinyin": "Shūfǎ yìshù zhōng chángjiàn yì de yìngyòng.",
+      "english": "The use of yì is common in calligraphic art."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "武昌起义",
+  "traditional": "武昌起義",
+  "pinyin": "Wǔchāng Qǐyì",
+  "english": "Wuchang Uprising",
+  "etymology": {
+    "type": "compound word",
+    "description": "武(武) (wǔ, \"military\"), 昌(昌) (chāng, \"prosperous\"); 起(起) (qǐ, \"rise\"), 义(義) (yì, \"righteousness\")",
+    "interpretation": "The 武昌起义 (武昌起義) (Wǔchāng Qǐyì, \"Wuchang Uprising\") refers to the military uprising that began in Wuchang, leading to the fall of the Qing Dynasty and the establishment of the Republic of China in 1911. The name signifies a \"prosperous\" beginning (昌) of a \"righteous\" movement (义) to \"rise\" (起) against the existing regime with a \"military\" (武) effort.",
+    "simplification": "武昌起义"
+  },
+  "parts": [
+    {
+      "char": "武昌",
+      "trad": "武昌",
+      "pinyin": "wǔchāng",
+      "english": "military; prosperous"
+    },
+    {
+      "char": "起义",
+      "trad": "起義",
+      "pinyin": "qǐyì",
+      "english": "rise; righteous"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "1911年爆发了武昌起义(1911年爆發了武昌起義)。",
+      "pinyin": "1911 nián bào fā le Wǔchāng Qǐyì.",
+      "english": "The Wuchang Uprising erupted in 1911."
+    },
+    {
+      "chinese": "武昌起义揭开了推翻清朝的序幕(武昌起義揭開了推翻清朝的序幕)，激发了全国人民的革命热情(激發了全國人民的革命熱情)。",
+      "pinyin": "Wǔchāng Qǐyì jiē kāi le tuī fān Qīng cháo de xù mù, jī fā le quán guó rén mín de gé mìng rè qíng.",
+      "english": "The Wuchang Uprising opened the prelude to overthrowing the Qing Dynasty, igniting the revolutionary fervor of the nation."
+    },
+    {
+      "chinese": "武昌起义标志着中国从封建帝制走向共和(武昌起義標誌著中國從封建帝制走向共和)。",
+      "pinyin": "Wǔchāng Qǐyì biāo zhì zhe Zhōng guó cóng fēng jiàn dì zhì zǒu xiàng gòng hé.",
+      "english": "The Wuchang Uprising marked China's transition from a feudal monarchy to a republic."
+    }
+  ]
+}

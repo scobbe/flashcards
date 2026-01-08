@@ -1,0 +1,45 @@
+{
+  "simplified": "菠萝包",
+  "traditional": "菠蘿包",
+  "pinyin": "bōluóbāo",
+  "english": "pineapple bun",
+  "etymology": {
+    "type": "compound word",
+    "description": "菠萝包(菠蘿包) (bōluóbāo, \"pineapple bun\") is a type of sweet pastry with a crunchy, sugary topping resembling the texture of a pineapple.",
+    "interpretation": "The name 菠萝包(菠蘿包) (bōluóbāo) describes a bun (包) with a topping that visually resembles a pineapple (菠萝/菠蘿) due to its pattern and color, even though it contains no pineapple. It is popular in Hong Kong and reflects the creativity of Cantonese bakery culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "菠",
+      "trad": "菠",
+      "pinyin": "bō",
+      "english": "spinach; leafy vegetable"
+    },
+    {
+      "char": "萝",
+      "trad": "蘿",
+      "pinyin": "luó",
+      "english": "vines; fraxinus; radish"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "package; wrap; bun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢吃菠萝包(他喜歡吃菠蘿包)。",
+      "pinyin": "Tā xǐhuān chī bōluóbāo.",
+      "english": "He likes to eat pineapple buns."
+    },
+    {
+      "chinese": "早上经过面包店(早上經過麵包店)，我买了一个菠萝包(我買了一個菠蘿包)。",
+      "pinyin": "Zǎoshang jīngguò miànbāodiàn, wǒ mǎile yīgè bōluóbāo.",
+      "english": "I passed by a bakery in the morning and bought a pineapple bun."
+    }
+  ]
+}

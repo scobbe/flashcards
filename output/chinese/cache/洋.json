@@ -1,0 +1,44 @@
+{
+  "simplified": "洋",
+  "traditional": "洋",
+  "pinyin": "yáng",
+  "english": "ocean; foreign",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(氵) (shuǐ, \"water\") + 羊(羊) (yáng, \"sheep\") = vastness of water -> ocean; by extension -> foreign",
+    "interpretation": "The character combines 氵(氵) (shuǐ, \"water\") to denote a connection to water and 羊(羊) (yáng, \"sheep\") for its phonetic value. The vastness associated with oceans was conceptually extended to anything foreign.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢洋服(他喜歡洋服)，认为它们时尚(認為它們時尚)。",
+      "pinyin": "Tā xǐhuān yángfú, rènwéi tāmen shíshàng.",
+      "english": "He likes foreign clothes and thinks they are trendy."
+    },
+    {
+      "chinese": "遥远的洋(遙遠的洋)隐藏着无数谜团(隱藏著無數謎團)。",
+      "pinyin": "Yáoyuǎn de yáng yǐncángzhe wúshù mítuán.",
+      "english": "The distant ocean conceals countless mysteries."
+    },
+    {
+      "chinese": "她听洋乐(她聽洋樂)，感受异国风情(感受異國風情)。",
+      "pinyin": "Tā tīng yángyuè, gǎnshòu yìguó fēngqíng.",
+      "english": "She listens to foreign music and experiences exotic charm."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "直",
+  "traditional": "直",
+  "pinyin": "zhí",
+  "english": "straight",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an eye above a horizontal line, originally representing 'straight' or 'upright.'",
+    "interpretation": "The character 直(直) (zhí, 'straight') is a pictogram showing a vertical line beneath an eye at the top, imitating a straight path or direct sightline, symbolizing directness or straightforwardness.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的头发很直(她的頭髮很直)。",
+      "pinyin": "Tā de tóufǎ hěn zhí.",
+      "english": "Her hair is very straight."
+    },
+    {
+      "chinese": "飞机从北京直飞(飛機從北京直飛)，到达东京(到達東京)。",
+      "pinyin": "Fēijī cóng Běijīng zhífēi, dào dá Dōngjīng.",
+      "english": "The airplane flies directly from Beijing to Tokyo."
+    },
+    {
+      "chinese": "他直言不讳(他直言不諱)。",
+      "pinyin": "Tā zhí yán bù huì.",
+      "english": "He speaks frankly."
+    }
+  ]
+}

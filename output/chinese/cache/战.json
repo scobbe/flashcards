@@ -1,0 +1,44 @@
+{
+  "simplified": "战",
+  "traditional": "戰",
+  "pinyin": "zhàn",
+  "english": "war; fight",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "戈(戈) (gē, \"spear\") + 単(單) (dān) = weapon and phonetic component -> battle",
+    "interpretation": "The character 战(戰) (zhàn, \"war; fight\") combines 戈(戈) (gē, \"spear\"), a symbol of weaponry, with 単(單) (dān), which acts as the phonetic component, to represent the concept of battle or warfare. The spear suggests the martial aspect, while the phonetic component ties in with pronunciation.",
+    "simplification": "战(戰) simplified by reducing the complexity of the single component, replacing 戔(戔) with its simplified form."
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
+    },
+    {
+      "char": "単",
+      "trad": "單",
+      "pinyin": "dān",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在战场上奋勇杀敌(他在戰場上奮勇殺敵)。",
+      "pinyin": "Tā zài zhànchǎng shàng fèn yǒng shā dí。",
+      "english": "He fought bravely on the battlefield."
+    },
+    {
+      "chinese": "历史记载了许多惨烈的战斗(歷史記載了許多慘烈的戰鬥)。",
+      "pinyin": "Lìshǐ jìzǎi le xǔduō cǎn liè de zhàndòu。",
+      "english": "History records many fierce battles."
+    },
+    {
+      "chinese": "胜利属于勇于战斗的人(勝利屬於勇於戰鬥的人)。",
+      "pinyin": "Shènglì shǔyú yǒng yú zhàndòu de rén。",
+      "english": "Victory belongs to those who fight courageously."
+    }
+  ]
+}

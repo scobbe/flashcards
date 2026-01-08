@@ -1,0 +1,26 @@
+{
+  "simplified": "矛",
+  "traditional": "矛",
+  "pinyin": "máo",
+  "english": "spear",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bamboo spear with a ring in the middle -> spear",
+    "interpretation": "The character 矛(máo, 'spear') is a pictogram, directly illustrating the shape of a bamboo spear. The design reflects the basic components of the object it represents.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "士兵举起矛(士兵舉起矛)。",
+      "pinyin": "Shìbīng jǔ qǐ máo.",
+      "english": "The soldier raised his spear."
+    },
+    {
+      "chinese": "古代战士用矛(古代戰士用矛)，冲锋陷阵(衝鋒陷陣)。",
+      "pinyin": "Gǔdài zhànshì yòng máo, chōngfēng xiànzhèn.",
+      "english": "Ancient warriors used spears to charge and break enemy formations."
+    }
+  ]
+}

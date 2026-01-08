@@ -1,0 +1,26 @@
+{
+  "simplified": "巴",
+  "traditional": "巴",
+  "pinyin": "bā",
+  "english": "to cling; a surname",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a snake coiled around a branch",
+    "interpretation": "The character 巴(bā, \"to cling\") originally depicted a snake wrapped around a branch or object, symbolizing the idea of clinging or sticking to something.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她总是巴着妈妈(她總是巴著媽媽)。",
+      "pinyin": "Tā zǒngshì bā zhe māmā.",
+      "english": "She always clings to her mother."
+    },
+    {
+      "chinese": "巴先生今天出席会议(巴先生今天出席會議)，分享成功经验(分享成功經驗)。",
+      "pinyin": "Bā xiānshēng jīntiān chūxí huìyì, fēnxiǎng chénggōng jīngyàn.",
+      "english": "Mr. Ba attended the meeting today, sharing his success experience."
+    }
+  ]
+}

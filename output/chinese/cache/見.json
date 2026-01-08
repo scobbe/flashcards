@@ -1,0 +1,44 @@
+{
+  "simplified": "見",
+  "traditional": "見",
+  "pinyin": "jiàn",
+  "english": "see",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "目(目) (mù, \"eye\") + 卩(卩) (jié, \"kneeling person\") = a kneeling figure with large eye -> see",
+    "interpretation": "The combination of a human figure and an eye visually represents the act of seeing. The eye symbolizes vision, while the person emphasizes the human context of this action, making the meaning intuitive.",
+    "simplification": "见(見) is derived from using a cursive variant of the character in place of the traditional form."
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天见到她(我昨天見到她)。",
+      "pinyin": "Wǒ zuótiān jiàn dào tā.",
+      "english": "I saw her yesterday."
+    },
+    {
+      "chinese": "太阳升起时(太陽升起時)，我看见了大海(我看見了大海)。",
+      "pinyin": "Tàiyáng shēng qǐ shí, wǒ kàn jiàn le dàhǎi.",
+      "english": "When the sun rose, I saw the sea."
+    },
+    {
+      "chinese": "在公园里(在公園裡)，我见到了老朋友(我見到了老朋友)。",
+      "pinyin": "Zài gōngyuán lǐ, wǒ jiàn dào le lǎo péngyǒu.",
+      "english": "In the park, I met an old friend."
+    }
+  ]
+}

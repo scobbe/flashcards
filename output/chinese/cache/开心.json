@@ -1,0 +1,44 @@
+{
+  "simplified": "开心",
+  "traditional": "開心",
+  "pinyin": "kāixīn",
+  "english": "happy",
+  "etymology": {
+    "type": "compound word",
+    "description": "開心(开心) comprises 開(开) (kāi, \"open\") and 心(心) (xīn, \"heart\"). The combination suggests opening one's heart, allowing happiness and joy to enter.",
+    "interpretation": "The term 開心(开心) evokes the image of opening one's heart to let in happiness and positive emotions. It is a vivid way of expressing the state of feeling happy or joyous.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "开",
+      "trad": "開",
+      "pinyin": "kāi",
+      "english": "open; start"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天感觉很开心(我今天感覺很開心)。",
+      "pinyin": "Wǒ jīntiān gǎnjué hěn kāixīn.",
+      "english": "I feel happy today."
+    },
+    {
+      "chinese": "他听到好消息(他聽到好消息)，变得异常开心(變得異常開心)。",
+      "pinyin": "Tā tīngdào hǎo xiāoxī, biàn de yìcháng kāixīn.",
+      "english": "He became extremely happy after hearing the good news."
+    },
+    {
+      "chinese": "朋友聚会时(朋友聚會時)，大家都很开心(大家都很開心)。",
+      "pinyin": "Péngyǒu jùhuì shí, dàjiā dōu hěn kāixīn.",
+      "english": "Everyone is happy during the friends' gathering."
+    }
+  ]
+}

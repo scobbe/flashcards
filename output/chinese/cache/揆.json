@@ -1,0 +1,39 @@
+{
+  "simplified": "揆",
+  "traditional": "揆",
+  "pinyin": "kuí",
+  "english": "measure",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + 奎(奎) (kuí, phonetic) = action related to using hands -> measure",
+    "interpretation": "This character combines 扌(扌) (shǒu, \"hand\") indicating an action with 奎(奎) (kuí), which lends its sound. The action of using hands is intuitively connected to the concept of measuring or assessing something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "奎",
+      "trad": "奎",
+      "pinyin": "kuí",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他揆事的方法独到(他揆事的方法獨到)。",
+      "pinyin": "Tā kuí shì de fāngfǎ dúdào.",
+      "english": "His method of measuring matters is unique."
+    },
+    {
+      "chinese": "学者揆古今典籍(學者揆古今典籍)，以求真理(以求真理)。",
+      "pinyin": "Xuézhě kuí gǔjīn diǎnjí, yǐ qiú zhēnlǐ.",
+      "english": "The scholar measures the classics of ancient and modern times in order to seek truth."
+    }
+  ]
+}

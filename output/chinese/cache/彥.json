@@ -1,0 +1,39 @@
+{
+  "simplified": "彥",
+  "traditional": "彥",
+  "pinyin": "yàn",
+  "english": "talented",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 厂(厂) (hǎn) + semantic: 彣(彣) (wén, \"variegated; literary talent\") = represents someone with literary or scholarly talent -> talented",
+    "interpretation": "The character combines the phonetic element 厂(厂) (hǎn) with the semantic 彣(彣) (wén, \"literary talent\"), highlighting the esteemed nature of the talent indicated. It suggests a person skilled or knowledgeable in literature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "hǎn",
+      "english": "cliff"
+    },
+    {
+      "char": "彣",
+      "trad": "彣",
+      "pinyin": "wén",
+      "english": "variegated; literary talent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位才華橫溢的彥(他是一位才華橫溢的彥)。",
+      "pinyin": "Tā shì yī wèi cái huá héng yì de yàn.",
+      "english": "He is a person of exceptional talent."
+    },
+    {
+      "chinese": "在科技界中有一位彥展露非凡天賦(在科技界中有一位彥展露非凡天賦)，他的創新理念令人耳目一新(他的創新理念令人耳目一新)。",
+      "pinyin": "Zài kē jì jiè zhōng yǒu yī wèi yàn zhǎn lù fēi fán tiān fù, tā de chuàng xīn lǐ niàn lìng rén ěr mù yī xīn.",
+      "english": "In the world of technology, there is a talented individual demonstrating extraordinary abilities, and his innovative ideas are truly refreshing."
+    }
+  ]
+}

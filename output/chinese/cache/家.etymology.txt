@@ -1,0 +1,13 @@
+[家]
+Oracle bone script: Phono-semantic compound ( 形聲 / 形声 , OC *kraː ): semantic 宀 ( “ roof ” ) + phonetic 𢑓 ( xiá , “ male pig ” ) . [ 1 ] An archaic variant closer to the original drawing is 𡩀 . See 𢑓 ( xiá ) for more. Similar to 冡 .
+Later the phonetic component have been corrupted to 豕, so Shuowen Jiezi erroneously analyzed it as Phono-semantic compound ( 形聲 / 形声 , OC *kraː ): semantic 宀 ( “ roof ” ) + abbreviated phonetic 豭 ( OC *kraː , “ pig ” ) .
+All etymologies based on the modern version of the phonetic component (豕) are folk etymologies since they miss the original component (𢑓).
+
+[傢]
+recorded in one or more historical dictionaries as a variant form of 像
+
+[像]
+Phono-semantic compound ( 形聲 / 形声 , OC *ljaŋʔ ): semantic 亻 ( “ person ” ) + phonetic 象 ( OC *ljaŋʔ ) .
+
+[象]
+Pictogram ( 象形 ) - pictographic representation of an elephant. ⺈ represents the trunk, 𫩏 represents the head, and 𧰨 represents the body.

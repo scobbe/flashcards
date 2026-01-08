@@ -1,0 +1,39 @@
+{
+  "simplified": "送给",
+  "traditional": "送給",
+  "pinyin": "sònggěi",
+  "english": "give as a present; send to",
+  "etymology": {
+    "type": "compound word",
+    "description": "送(送) (sòng, \"deliver; send\") and 给(給) (gěi, \"to give\") combine to describe the action of giving or sending something to someone, often as a present or gift.",
+    "interpretation": "送给(送給) (sònggěi) makes sense as it combines the concepts of sending or delivering (送) with the notion of giving (给), highlighting the act of gifting or presenting something to someone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "送",
+      "trad": "送",
+      "pinyin": "sòng",
+      "english": "deliver; send; carry out; see off"
+    },
+    {
+      "char": "给",
+      "trad": "給",
+      "pinyin": "gěi",
+      "english": "to give; for; provide; allow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我写了一张贺卡(我寫了一張賀卡)，送给远方的朋友(送給遠方的朋友)。",
+      "pinyin": "Wǒ xiěle yī zhāng hèkǎ, sònggěi yuǎnfāng de péngyǒu.",
+      "english": "I wrote a greeting card and sent it to a friend far away."
+    },
+    {
+      "chinese": "他把鲜花送给母亲(他把鮮花送給母親)。",
+      "pinyin": "Tā bǎ xiānhuā sònggěi mǔqīn.",
+      "english": "He sent flowers to his mother."
+    }
+  ]
+}

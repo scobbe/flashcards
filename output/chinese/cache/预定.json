@@ -1,0 +1,39 @@
+{
+  "simplified": "预定",
+  "traditional": "預定",
+  "pinyin": "yùdìng",
+  "english": "schedule; book",
+  "etymology": {
+    "type": "compound word",
+    "description": "預(預) (yù, \"in advance\") + 定(定) (dìng, \"decide; settle\") = to arrange or schedule something in advance",
+    "interpretation": "The word 預定(預定) (yùdìng, \"schedule; book\") is composed of 預(預) (yù, \"in advance\") and 定(定) (dìng, \"decide; settle\"). Together, these morphemes convey the action of arranging or deciding something before it happens, which can apply to making reservations, scheduling events, or booking in general.",
+    "simplification": "Simplified characters match the traditional ones provided."
+  },
+  "parts": [
+    {
+      "char": "预",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "in advance; beforehand; before; prepare"
+    },
+    {
+      "char": "定",
+      "trad": "定",
+      "pinyin": "dìng",
+      "english": "decide; settle; fix; stable"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我预定了一张电影票(我預定了一張電影票)。",
+      "pinyin": "Wǒ yùdìngle yī zhāng diànyǐng piào.",
+      "english": "I booked a movie ticket."
+    },
+    {
+      "chinese": "他预定了会议室(他預定了會議室)，打算安排讨论(打算安排討論)。",
+      "pinyin": "Tā yùdìngle huìyì shì, dǎsuàn ānpái tǎolùn.",
+      "english": "He booked the conference room and plans to organize a discussion."
+    }
+  ]
+}

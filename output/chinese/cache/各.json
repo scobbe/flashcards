@@ -1,0 +1,44 @@
+{
+  "simplified": "各",
+  "traditional": "各",
+  "pinyin": "gè",
+  "english": "each",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + phonetic: 夂(夊) (zhǐ, \"go\") = sound element -> \"each\"",
+    "interpretation": "The character 各(各) (gè, \"each\") combines 口(口) (kǒu, \"mouth\") representing a semantic element with 夂(夊) (zhǐ, \"go\") for the phonetic aspect, suggesting the pronunciation and semantic concept of different mouths taking separate paths.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "夂",
+      "trad": "夊",
+      "pinyin": "zhǐ",
+      "english": "go"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们各自承担责任(他們各自承擔責任)。",
+      "pinyin": "Tāmen gèzì chéngdān zérèn.",
+      "english": "They each take responsibility."
+    },
+    {
+      "chinese": "老师将试卷分给各个学生(老師將試卷分給各個學生)。",
+      "pinyin": "Lǎoshī jiāng shìjuàn fēn gěi gègè xuésheng.",
+      "english": "The teacher distributed the test papers to each student."
+    },
+    {
+      "chinese": "会议上(會議上)，各部门各显其能(各部門各顯其能)。",
+      "pinyin": "Huìyì shàng, gè bùmén gè xiǎn qí néng.",
+      "english": "At the meeting, each department exhibited its capabilities."
+    }
+  ]
+}

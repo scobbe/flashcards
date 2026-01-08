@@ -1,0 +1,44 @@
+{
+  "simplified": "拌",
+  "traditional": "拌",
+  "pinyin": "bàn",
+  "english": "mix",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + phonetic: 半(半) (bàn) = action performed with hands -> mix",
+    "interpretation": "The character 拌(拌) (bàn, \"mix\") uses the hand radical 扌(扌) (shǒu, \"hand\") to indicate an action typically performed with the hands, while 半(半) (bàn) provides the phonetic element to suggest the sound of the word. Together, they illustrate the action of mixing or stirring, which is commonly done with hands.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "半",
+      "trad": "半",
+      "pinyin": "bàn",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我将蔬菜和调料拌在一起(我將蔬菜和調料拌在一起)，做成美味沙拉(做成美味沙拉)。",
+      "pinyin": "Wǒ jiāng shūcài hé tiáoliào bàn zài yìqǐ, zuò chéng měiwèi shālà.",
+      "english": "I mix the vegetables and seasonings together to make a delicious salad."
+    },
+    {
+      "chinese": "她拌面条(她拌麵條)。",
+      "pinyin": "Tā bàn miàntiáo.",
+      "english": "She mixes the noodles."
+    },
+    {
+      "chinese": "厨师拌汤时(廚師拌湯時)，加入了秘密佐料(加入了秘密佐料)。",
+      "pinyin": "Chúshī bàn tāng shí, jiārùle mìmì zuǒliào.",
+      "english": "When the chef was mixing the soup, he added a secret seasoning."
+    }
+  ]
+}

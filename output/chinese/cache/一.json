@@ -5,27 +5,27 @@
   "english": "one",
   "etymology": {
     "type": "ideogram",
-    "description": "Horizontal stroke -> indicates number 'one'",
-    "interpretation": "The character 一(yī, 'one') directly represents the concept of 'one' through a single horizontal stroke, visually embodying the idea of singularity and unity.",
+    "description": "A horizontal stroke representing the concept of 'one'.",
+    "interpretation": "The character 一(yī, \"one\") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有一只猫(我有一隻貓)。",
-      "pinyin": "Wǒ yǒu yī zhī māo.",
-      "english": "I have one cat."
+      "chinese": "我有一个苹果(我有一個蘋果)。",
+      "pinyin": "Wǒ yǒu yī gè píngguǒ.",
+      "english": "I have one apple."
     },
     {
-      "chinese": "他只需要一把伞(他只需要一把傘)，就能出门(就能出門)。",
-      "pinyin": "Tā zhǐ xūyào yī bǎ sǎn, jiù néng chūmén.",
-      "english": "He only needs one umbrella to go out."
+      "chinese": "他只看到一只鸟(他只看到一隻鳥)，飞进了花园(飛進了花園)。",
+      "pinyin": "Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.",
+      "english": "He only saw one bird, which flew into the garden."
     },
     {
-      "chinese": "桌上只有一支笔(桌上只有一支筆)。",
-      "pinyin": "Zhuō shàng zhǐ yǒu yī zhī bǐ.",
-      "english": "There is only one pen on the table."
+      "chinese": "一条直路通向远方(一條直路通向遠方)。",
+      "pinyin": "Yī tiáo zhí lù tōng xiàng yuǎn fāng.",
+      "english": "One straight road leads to the distance."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "simplified": "兔",
+  "traditional": "兔",
+  "pinyin": "tù",
+  "english": "rabbit",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a rabbit",
+    "interpretation": "The character 兔(tù, \"rabbit\") visually represents the profile of a rabbit, with exaggerated features such as the ears and posture, to capture the essence of the animal.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "野兔警觉地观察周围(野兔警覺地觀察周圍)。",
+      "pinyin": "Yě tù jǐngjué de guānchá zhōuwéi.",
+      "english": "The wild rabbit watches its surroundings alertly."
+    },
+    {
+      "chinese": "夜晚降临时(夜晚降臨時)，兔子开始活跃(兔子開始活躍)。",
+      "pinyin": "Yèwǎn jiànglín shí, tùzi kāishǐ huóyuè.",
+      "english": "At nightfall, the rabbit starts to become active."
+    }
+  ]
+}

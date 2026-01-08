@@ -1,0 +1,44 @@
+{
+  "simplified": "长城",
+  "traditional": "長城",
+  "pinyin": "Chángchéng",
+  "english": "Great Wall",
+  "etymology": {
+    "type": "compound word",
+    "description": "长(長) (cháng, \"long\") and 城(城) (chéng, \"wall; city wall\") combine to refer to the Great Wall of China.",
+    "interpretation": "长城(長城) (Chángchéng, \"Great Wall\") describes the long fortifications built to protect the Chinese states against invasions and raids. The word literally means 'long wall,' highlighting its extensive structure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "长",
+      "trad": "長",
+      "pinyin": "cháng",
+      "english": "long"
+    },
+    {
+      "char": "城",
+      "trad": "城",
+      "pinyin": "chéng",
+      "english": "wall; city wall"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "长城坚不可摧(長城堅不可摧)。",
+      "pinyin": "Chángchéng jiān bù kě cuī.",
+      "english": "The Great Wall is indestructible."
+    },
+    {
+      "chinese": "游客登上长城(遊客登上長城)，感受历史沧桑(感受歷史滄桑)。",
+      "pinyin": "Yóukè dēng shàng Chángchéng, gǎn shòu lìshǐ cāngsāng.",
+      "english": "Tourists climb the Great Wall and experience the vicissitudes of history."
+    },
+    {
+      "chinese": "长城雄伟壮丽(長城雄偉壯麗)。",
+      "pinyin": "Chángchéng xióngwěi zhuànglì.",
+      "english": "The Great Wall is majestic and magnificent."
+    }
+  ]
+}

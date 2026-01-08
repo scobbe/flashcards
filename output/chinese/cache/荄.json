@@ -1,0 +1,39 @@
+{
+  "simplified": "荄",
+  "traditional": "荄",
+  "pinyin": "hài",
+  "english": "roots",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + phonetic: 亥(亥) (hài, a branch of the Earthly Branches) = plant-related term with phonetic hint",
+    "interpretation": "The 艹(艹) (cǎo, \"grass\") component signifies a connection to plants or vegetation, while 亥(亥) (hài) provides the phonetic guide. This combination expresses the concept of roots.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "亥",
+      "trad": "亥",
+      "pinyin": "hài",
+      "english": "Earthly Branches"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "老农在春雨后挖掘荄(老農在春雨後挖掘荄)，期待着新一季的丰收(期待著新一季的豐收)。",
+      "pinyin": "lǎo nóng zài chūn yǔ hòu wā jué hài, qí dài zhe xīn yī jì de fēng shōu.",
+      "english": "The old farmer dug out the roots after the spring rain, anticipating a bountiful harvest for the new season."
+    },
+    {
+      "chinese": "湿土中偶露荄(濕土中偶露荄)，暗示着土壤深处的秘密(暗示著土壤深處的秘密)。",
+      "pinyin": "shī tǔ zhōng ǒu lù hài, àn shì zhe tǔ rǎng shēn chù de mì mì.",
+      "english": "Amid the damp soil, the roots occasionally appeared, hinting at the secrets deep within the earth."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "冫",
+  "traditional": "冫",
+  "pinyin": "bīng",
+  "english": "cold",
+  "etymology": {
+    "type": "Radical form of 仌",
+    "description": "Radical form of 仌(仌) (bīng, \"cold\") -> Two blocks of ice compressed and stylized -> 冫(冫) (bīng, \"cold\") radical",
+    "interpretation": "冫(冫) represents a compressed depiction of ice used as a radical form to express the concept of coldness. It visually communicates the idea of ice by simplifying multiple blocks into a streamlined form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜晚的湖面显得冫(夜晚的湖面顯得冫)。",
+      "pinyin": "Yèwǎn de húmiàn xiǎndé bīng.",
+      "english": "The lake's surface at night appears cold."
+    },
+    {
+      "chinese": "他的声音听起来冫(他的聲音聽起來冫)。",
+      "pinyin": "Tā de shēngyīn tīngqǐlái bīng.",
+      "english": "His voice sounds cold."
+    },
+    {
+      "chinese": "寒冬来临时(寒冬來臨時)，大地铺上一层冫(大地鋪上一層冫)。",
+      "pinyin": "Hándōng láilínshí, dàdì pū shàng yī céng bīng.",
+      "english": "When the cold winter arrives, the earth is covered with a layer of cold."
+    }
+  ]
+}

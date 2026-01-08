@@ -1,0 +1,26 @@
+{
+  "simplified": "爿",
+  "traditional": "爿",
+  "pinyin": "pán",
+  "english": "bed",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a half of a tree trunk resembling a bed frame",
+    "interpretation": "The character 爿(爿) (pán, 'bed') originally depicted a vertical half of a split tree trunk, representing the wooden structure akin to a bed or bed frame.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我睡在柔软的爿上(我睡在柔軟的爿上)。",
+      "pinyin": "Wǒ shuì zài róuruǎn de pán shàng.",
+      "english": "I sleep on a soft bed."
+    },
+    {
+      "chinese": "昨晚我躺在硬爿上(昨晚我躺在硬爿上)，感受夜的宁静(感受夜的寧靜)。",
+      "pinyin": "Zuówǎn wǒ tǎng zài yìng pán shàng, gǎnshòu yè de níngjìng.",
+      "english": "Last night I lay on a hard bed, feeling the tranquility of the night."
+    }
+  ]
+}

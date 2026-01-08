@@ -1,0 +1,31 @@
+{
+  "simplified": "平",
+  "traditional": "平",
+  "pinyin": "píng",
+  "english": "flat; peaceful",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicted a flat, level object -> evolved to signify both 'flat' and 'peaceful' due to the association of flatness with stability",
+    "interpretation": "The character 平 symbolizes the concept of flatness, which naturally extends to ideas of equality and peace because a flat surface is stable and calm. This character captures the intuition that levelness in both physical and metaphorical senses promotes harmony.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "湖面平静(湖面平靜)。",
+      "pinyin": "Hú miàn píng jìng.",
+      "english": "The surface of the lake is calm."
+    },
+    {
+      "chinese": "这片土地平坦(這片土地平坦)，适合耕作(適合耕作)。",
+      "pinyin": "Zhè piàn tǔ dì píng tǎn, shì hé gēng zuò.",
+      "english": "This piece of land is flat and suitable for farming."
+    },
+    {
+      "chinese": "人们向往平和(人們向往平和)。",
+      "pinyin": "Rén men xiàng wǎng píng hé.",
+      "english": "People yearn for a peaceful state."
+    }
+  ]
+}

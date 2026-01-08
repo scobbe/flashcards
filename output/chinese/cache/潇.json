@@ -1,0 +1,44 @@
+{
+  "simplified": "潇",
+  "traditional": "瀟",
+  "pinyin": "xiāo",
+  "english": "deep and clear (literary); brisk",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "水(水) (shuǐ, \"water\") + 蕭(萧) (xiāo, \"rustling sound/ph) = clear water characteristics -> deep and clear water",
+    "interpretation": "The character 潇 (瀟) combines 水(水) (shuǐ, \"water\") for its semantic component, indicating a relationship with water, with the phonetic 蕭(萧) (xiāo, \"rustling sound/ph)\" to convey the sound of flowing water. This reflects the ideas of clarity and briskness associated with moving water.",
+    "simplification": "The character 潇 is the simplified form of 瀟, retaining the semantic 水(水) (shuǐ, \"water\") component while simplifying the complex 蕭(萧) (xiāo, \"rustling sound/ph)\" component by replacing it with the simpler 萧(萧) (xiāo, \"rustling sound/ph)\", retaining its phonetic properties."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "萧",
+      "trad": "蕭",
+      "pinyin": "xiāo",
+      "english": "rustling sound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋风潇洒(秋風瀟灑)。",
+      "pinyin": "qiū fēng xiāo sǎ",
+      "english": "The autumn wind is brisk and elegant."
+    },
+    {
+      "chinese": "他的步伐潇洒(他的步伐瀟灑)，眼神深远(眼神深遠)。",
+      "pinyin": "tā de bùfá xiāo sǎ, yǎnshén shēnyuǎn",
+      "english": "His stride is brisk and relaxed, and his gaze is profound."
+    },
+    {
+      "chinese": "湖面波光潇洒(湖面波光瀟灑)，映出天际长空(映出天際長空)。",
+      "pinyin": "húmiàn bōguāng xiāo sǎ, yìng chū tiānjì chángkōng",
+      "english": "The shimmering waves on the lake reflect the vast, clear sky."
+    }
+  ]
+}

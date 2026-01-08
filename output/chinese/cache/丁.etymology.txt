@@ -4,3 +4,6 @@ Pictogram ( 象形 ) – different theories exist:
 • a head. The derivative 天 and 頂 is now used to represent this sense. Characters like 元 contain it as a semantic component. This is interpretation was formulated by Gao Hongjin (高鴻縉) and could be linked to the first interpretation ("head of a nail").
 • a city wall. In ancient China, city walls were square-shaped. The derivative 成 and later 城 is now used to represent this sense. The character 正 ／ 征 contains it as a semantic component (but in 邑 , the top component is 囗 , not 丁). This interpretation was formulated by He Linyi (何琳儀).
 See also 旦 .
+
+[叮]
+Phono-semantic compound ( 形聲 / 形声 , OC *teːŋ ): phonetic 丁 ( OC *rteːŋ, *teːŋ ) + semantic 口 .

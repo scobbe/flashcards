@@ -1,0 +1,44 @@
+{
+  "simplified": "花生",
+  "traditional": "花生",
+  "pinyin": "huāshēng",
+  "english": "peanut",
+  "etymology": {
+    "type": "compound word",
+    "description": "花(花) (huā, \"flower\") + 生(生) (shēng, \"birth; grow\") = peanut",
+    "interpretation": "The term 花生(花生) (huāshēng, \"peanut\") uses the idea of a 'flower' (花) growing or being born (生). This reflects the peanut's growth process, as it flowers above ground and the pods develop underground, which might resemble a 'flower giving birth,' connecting it metaphorically to the earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "花",
+      "trad": "花",
+      "pinyin": "huā",
+      "english": "flower"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "birth; grow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃花生(我喜歡吃花生)。",
+      "pinyin": "Wǒ xǐhuān chī huāshēng.",
+      "english": "I like to eat peanuts."
+    },
+    {
+      "chinese": "市集上常卖花生(市集上常賣花生)，价格公道(價格公道)。",
+      "pinyin": "Shìjí shàng cháng mài huāshēng, jiàgé gōngdào.",
+      "english": "Peanuts are commonly sold at the market with fair prices."
+    },
+    {
+      "chinese": "花生虽小(花生雖小)，营养丰富(營養豐富)。",
+      "pinyin": "Huāshēng suī xiǎo, yíngyǎng fēngfù.",
+      "english": "Although peanuts are small, they are rich in nutrients."
+    }
+  ]
+}

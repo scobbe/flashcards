@@ -1,0 +1,44 @@
+{
+  "simplified": "皁",
+  "traditional": "皁",
+  "pinyin": "zào",
+  "english": "acorn",
+  "etymology": {
+    "type": "variant traditional form",
+    "description": "皁(皁) (zào, \"acorn\") is a variant traditional form of 皂(皂) (zào, \"acorn\") and a variant form of 早(早) (zǎo, \"early\"), retaining the original sense 'acorn.'",
+    "interpretation": "皁(皁) (zào, \"acorn\") is directly linked to 皂(皂) (zào, \"acorn\") and 早(早) (zǎo, \"early\") through shared historical forms. It illustrates how graph forms evolved while maintaining some of their original meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皂",
+      "trad": "皂",
+      "pinyin": "zào",
+      "english": "acorn"
+    },
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "秋天落叶时(秋天落葉時)，地上散落着许多皁(地上散落著許多皁)。",
+      "pinyin": "Qiūtiān luòyè shí, dìshàng sànluò zhe xǔduō zào.",
+      "english": "When autumn leaves fall, many acorns scatter on the ground."
+    },
+    {
+      "chinese": "树林边的小路上(樹林邊的小路上)，我看见了一只松鼠啃皁(我看見了一隻松鼠啃皁)。",
+      "pinyin": "Shùlín biān de xiǎolù shàng, wǒ kànjiàn le yī zhī sōngshǔ kěn zào.",
+      "english": "On the path by the woods, I saw a squirrel gnawing an acorn."
+    },
+    {
+      "chinese": "他把捡到的皁收入囊中(他把撿到的皁收入囊中)。",
+      "pinyin": "Tā bǎ jiǎndào de zào shōurù nángzhōng.",
+      "english": "He put the acorn he found into his pocket."
+    }
+  ]
+}

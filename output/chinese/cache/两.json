@@ -1,0 +1,44 @@
+{
+  "simplified": "两",
+  "traditional": "兩",
+  "pinyin": "liǎng",
+  "english": "two",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 一(一) (yī, \"one\") + phonetic: 官(官) (guān, \"official\") -> two units of the same kind",
+    "interpretation": "The character 两(兩) (liǎng, \"two\") combines 一(一) (yī, \"one\") to signify singular quantity, with 官(官) (guān, \"official\") denoting two of a kind, suggesting a pair or a couple of official units. This reflects its usage to count or refer to two items, particularly in contexts like weight (as in the traditional Chinese ounce or 'liang').",
+    "simplification": "Traditional character 兩(兩) was simplified by reducing the complexity of components like 官(官) to a more cursive form without changing the fundamental elements, thus retaining semantic and phonetic associations."
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "官",
+      "trad": "官",
+      "pinyin": "guān",
+      "english": "official"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有两本书(我有兩本書)。",
+      "pinyin": "Wǒ yǒu liǎng běn shū.",
+      "english": "I have two books."
+    },
+    {
+      "chinese": "他买了两件衣服(他買了兩件衣服)，准备出门(準備出門)。",
+      "pinyin": "Tā mǎi le liǎng jiàn yīfú, zhǔnbèi chūmén.",
+      "english": "He bought two pieces of clothing and is ready to go out."
+    },
+    {
+      "chinese": "考题有两种答案(考題有兩種答案)，请选择正确的(請選擇正確的)。",
+      "pinyin": "Kǎotí yǒu liǎng zhǒng dá'àn, qǐng xuǎnzé zhèngquè de.",
+      "english": "The exam question has two types of answers; please choose the correct one."
+    }
+  ]
+}

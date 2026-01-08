@@ -1,0 +1,44 @@
+{
+  "simplified": "数",
+  "traditional": "數",
+  "pinyin": "shù",
+  "english": "number; count",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 婁(婁) (lóu, \"bundle\") + semantic: 攴(攴) (pū, \"tap\") = calculating by tapping or marking numbers -> number; count",
+    "interpretation": "The character 数(數) (shù, \"number; count\") combines 婁(婁) (lóu, \"bundle\") as a phonetic component with 攴(攴) (pū, \"tap\") as the semantic component, reflecting the action of physically counting or tallying numbers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "婁",
+      "trad": "婁",
+      "pinyin": "lóu",
+      "english": "bundle"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我会数(我會數)。",
+      "pinyin": "Wǒ huì shù.",
+      "english": "I can count."
+    },
+    {
+      "chinese": "妈妈教我数(媽媽教我數)，像一、二、三那样(像一、二、三那樣)。",
+      "pinyin": "Māmā jiào wǒ shù, xiàng yī, èr, sān nàyàng.",
+      "english": "Mom teaches me how to count, like one, two, three."
+    },
+    {
+      "chinese": "这个数很大(這個數很大)，使人难以计算(使人難以計算)。",
+      "pinyin": "Zhège shù hěn dà, shǐ rén nán yǐ jìsuàn.",
+      "english": "This number is huge, making it hard to calculate."
+    }
+  ]
+}

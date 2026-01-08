@@ -1,0 +1,26 @@
+{
+  "simplified": "支",
+  "traditional": "支",
+  "pinyin": "zhī",
+  "english": "hand holding drumstick",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand holding a drumstick",
+    "interpretation": "The character 支(支) (zhī, 'hand holding drumstick') visually represents a hand grasping a stick-like object, suggesting support or physical action, which aligns with its meanings related to branching or supporting.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他支鼓槌(他支鼓槌)，敲响大鼓(敲響大鼓)。",
+      "pinyin": "Tā zhī gǔchuí, qiāo xiǎng dà gǔ.",
+      "english": "He holds the drumstick and strikes the big drum."
+    },
+    {
+      "chinese": "鼓手支着鼓槌(鼓手支著鼓槌)，打出动人节奏(打出動人節奏)。",
+      "pinyin": "Gǔshǒu zhī zhe gǔchuí, dǎ chū dòngrén jiézòu.",
+      "english": "The drummer holds the drumstick and produces a captivating rhythm."
+    }
+  ]
+}

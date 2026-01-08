@@ -1,0 +1,44 @@
+{
+  "simplified": "给",
+  "traditional": "給",
+  "pinyin": "gěi",
+  "english": "to give; for; provide; allow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 纟(絲) (sī, \"silk\") + phonetic: 合(合) (hé, \"fit\") = providing silk -> supply, give",
+    "interpretation": "The silk radical 纟(絲) (sī, \"silk\") indicates a connection to textile goods or transactions, while 合(合) (hé, \"fit\") provides the sound component, suggesting the meaning of providing or supplying, as in a transaction.",
+    "simplification": "給(給)→给(給): The radical 纟(絲) is a simplified shorthand for 糸(糸) (mì, \"silk thread\"). The phonetic 合(合) remains unchanged."
+  },
+  "parts": [
+    {
+      "char": "纟",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "合",
+      "trad": "合",
+      "pinyin": "hé",
+      "english": "fit"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈给我糖果(媽媽給我糖果)。",
+      "pinyin": "Māmā gěi wǒ tángguǒ.",
+      "english": "Mom gives me candy."
+    },
+    {
+      "chinese": "老师给我们作业(老師給我們作業)，帮助我们进步(幫助我們進步)。",
+      "pinyin": "Lǎoshī gěi wǒmen zuòyè, bāngzhù wǒmen jìnbù.",
+      "english": "The teacher gives us homework to help us improve."
+    },
+    {
+      "chinese": "他给朋友送上礼物(他給朋友送上禮物)，表达谢意(表達謝意)。",
+      "pinyin": "Tā gěi péngyǒu sòng shàng lǐwù, biǎodá xièyì.",
+      "english": "He gave his friend a gift to express gratitude."
+    }
+  ]
+}

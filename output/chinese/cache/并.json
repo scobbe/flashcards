@@ -1,0 +1,39 @@
+{
+  "simplified": "并",
+  "traditional": "並",
+  "pinyin": "bìng",
+  "english": "combine",
+  "etymology": {
+    "type": "simplified character",
+    "description": "并(並) (bìng, \"combine\") is the simplified form of 並(並) → 厂(厂) (chǎng, \"factory\") morphed with 干(干) (gān, \"stem\") for a simplified structure",
+    "interpretation": "The simplification of 並(並) to 并(並) involved streamlining the character by replacing parts with similar-sounding or conceptually related components, leading to a more concise form. 厂(厂) (chǎng) and 干(干) (gān) are visually more distinct yet phonetically linked.",
+    "simplification": "厂(厂) (chǎng, \"factory\") and 干(干) (gān, \"stem\") replaced the more complex structure of 並(並) for easier writing."
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "factory"
+    },
+    {
+      "char": "干",
+      "trad": "干",
+      "pinyin": "gān",
+      "english": "stem"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学家并融合多学科知识(科學家並融合多學科知識)，设计创新实验(設計創新實驗)。",
+      "pinyin": "Kēxuéjiā bìng rónghé duō xuékē zhīshi, shèjì chuàngxīn shíyàn.",
+      "english": "The scientist combines knowledge from multiple disciplines and designs innovative experiments."
+    },
+    {
+      "chinese": "厨师并混合多种香料(廚師並混合多種香料)，制作独特佳肴(製作獨特佳肴)。",
+      "pinyin": "Chúshī bìng hùnhé duō zhǒng xiāngliào, zhìzuò dútè jiāyáo.",
+      "english": "The chef combines various spices to create unique dishes."
+    }
+  ]
+}

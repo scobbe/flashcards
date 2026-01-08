@@ -1,0 +1,39 @@
+{
+  "simplified": "它",
+  "traditional": "它",
+  "pinyin": "tā",
+  "english": "it",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "宀(宀) (mián, 'roof') + 也(也) (yě, 'also') -> 宀 suggests a meaning related to 'under a roof', while 也 provides the phonetic element -> 'it', a general pronoun",
+    "interpretation": "The character 它(tā, 'it') combines 宀(宀) (mián, 'roof') as a semantic element indicating something within a defined space or category, while 也(也) (yě, 'also') suggests phonetics. It was originally used to refer to a snake or serpent in ancient Chinese but evolved in modern usage to refer to inanimate objects or abstract entities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "也",
+      "trad": "也",
+      "pinyin": "yě",
+      "english": "also"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "它在花园里奔跑(它在花園裡奔跑)。",
+      "pinyin": "Tā zài huāyuán lǐ bēnpǎo.",
+      "english": "It is running in the garden."
+    },
+    {
+      "chinese": "电视坏了(電視壞了)，它不能运作(它不能運作)。",
+      "pinyin": "Diànshì huài le, tā bùnéng yùnzuò.",
+      "english": "The television is broken, it cannot operate."
+    }
+  ]
+}

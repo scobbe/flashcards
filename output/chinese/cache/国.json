@@ -1,0 +1,39 @@
+{
+  "simplified": "国",
+  "traditional": "國",
+  "pinyin": "guó",
+  "english": "country; nation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "囗(囗) (wéi, \"enclosure\") + 玉(玉) (yù, \"jade\") as phonetic = an enclosed area associated with valuables -> country",
+    "interpretation": "国(國) (guó, \"country\") combines the meaning of enclosure from 囗(囗) (wéi, \"enclosure\") with the pronunciation and cultural importance of 玉(玉) (yù, \"jade\"), emphasizing a protected, valuable territory.",
+    "simplification": "Simplified by replacing 玉(玉) (yù, \"jade\") with 王(王) (wáng, \"king\") as a phonetic and visual simplification."
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个国家拥有悠久的历史(這個國家擁有悠久的歷史)。",
+      "pinyin": "Zhège guójiā yǒngyǒu yōujiǔ de lìshǐ.",
+      "english": "This country has a long history."
+    },
+    {
+      "chinese": "我们应该团结国民(我們應該團結國民)，共创辉煌(共創輝煌)。",
+      "pinyin": "Wǒmen yīnggāi tuánjié guómín, gòng chuàng huīhuáng.",
+      "english": "We should unite the people of our nation and create a brilliant future."
+    }
+  ]
+}

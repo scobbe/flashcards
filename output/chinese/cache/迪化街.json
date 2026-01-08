@@ -1,0 +1,50 @@
+{
+  "simplified": "迪化街",
+  "traditional": "迪化街",
+  "pinyin": "Díhuà Jiē",
+  "english": "Dihua Street, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "迪(迪) (dí, \"enlighten\") + 化(化) (huà, \"transform\") = an enlightened transformation or progress; 街(街) (jiē, \"street\") refers to a physical street.",
+    "interpretation": "迪化街 is a historical street in Taipei, known for its rich cultural and architectural heritage. The name suggests a place associated with progress and transformation, fitting given its historical role as an important commercial hub.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "迪",
+      "trad": "迪",
+      "pinyin": "dí",
+      "english": "enlighten; progress; guide"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform; change"
+    },
+    {
+      "char": "街",
+      "trad": "街",
+      "pinyin": "jiē",
+      "english": "street"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在迪化街(我在迪化街)。",
+      "pinyin": "Wǒ zài Díhuà Jiē.",
+      "english": "I am at Dihua Street."
+    },
+    {
+      "chinese": "迪化街拥有传统建筑(迪化街擁有傳統建築)，吸引许多游客(吸引許多遊客)。",
+      "pinyin": "Díhuà Jiē yōngyǒu chuántǒng jiànzhù, xīyǐn xǔduō yóukè.",
+      "english": "Dihua Street boasts traditional architecture and attracts many visitors."
+    },
+    {
+      "chinese": "夜幕降临(夜幕降臨)，迪化街熠熠生辉(迪化街熠熠生輝)。",
+      "pinyin": "Yèmù jiànglín, Díhuà Jiē yìyì shēnghuī.",
+      "english": "At nightfall, Dihua Street shines brilliantly."
+    }
+  ]
+}

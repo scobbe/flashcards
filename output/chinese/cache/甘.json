@@ -1,0 +1,26 @@
+{
+  "simplified": "甘",
+  "traditional": "甘",
+  "pinyin": "gān",
+  "english": "sweet",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a mouth with a sweet flavor",
+    "interpretation": "The character 甘(甘) (gān, 'sweet') visually represents the idea of sweetness being savored by the mouth. It's a straightforward depiction of tasting pleasure.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个果子很甘(這個果子很甘)。",
+      "pinyin": "Zhège guǒzi hěn gān.",
+      "english": "This fruit is sweet."
+    },
+    {
+      "chinese": "这种酒甘而不腻(這種酒甘而不膩)，让人回味无穷(讓人回味無窮)。",
+      "pinyin": "Zhè zhǒng jiǔ gān ér bù nì, ràng rén huí wèi wú qióng.",
+      "english": "This wine is sweet without being cloying, leaving a lasting aftertaste."
+    }
+  ]
+}

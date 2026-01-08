@@ -1,0 +1,31 @@
+{
+  "simplified": "冒",
+  "traditional": "冒",
+  "pinyin": "mào",
+  "english": "emit; give off",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a head covered by a hat or helmet -> emit; give off",
+    "interpretation": "The character 冒(mào, \"emit\") visually represents a head protected by a cover, symbolizing the idea of something being emitted or given off from under a surface.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "烟囱冒出浓烟(煙囪冒出濃煙)。",
+      "pinyin": "Yān cōng mào chū nóng yān.",
+      "english": "The chimney gives off thick smoke."
+    },
+    {
+      "chinese": "工厂冒出黑烟(工廠冒出黑煙)，太阳冒着光芒(太陽冒著光芒)。",
+      "pinyin": "Gōngchǎng mào chū hēiyān, tàiyáng mào zhe guāngmáng.",
+      "english": "The factory emits black smoke, and the sun radiates its glow."
+    },
+    {
+      "chinese": "汤锅冒出热气(湯鍋冒出熱氣)。",
+      "pinyin": "Tāngguō mào chū rèqì.",
+      "english": "The soup pot is giving off steam."
+    }
+  ]
+}

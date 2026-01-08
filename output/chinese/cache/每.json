@@ -1,0 +1,31 @@
+{
+  "simplified": "每",
+  "traditional": "每",
+  "pinyin": "měi",
+  "english": "each",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts grain plant with two leaves -> symbolizing multiplicity and repetition -> each, every",
+    "interpretation": "This character originally depicted a grain plant with two leaves emerging from the sides, symbolizing the idea of multiplicity and is used to mean 'each' or 'every' in contexts, suggesting repetition.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每个人都有机会(每個人都有機會)。",
+      "pinyin": "Měi gèrén dōu yǒu jīhuì.",
+      "english": "Each person has a chance."
+    },
+    {
+      "chinese": "我每天练习一小时(我每天練習一小時)。",
+      "pinyin": "Wǒ měitiān liànxí yī xiǎoshí.",
+      "english": "I practice for an hour each day."
+    },
+    {
+      "chinese": "每朵花都有它的香气(每朵花都有它的香氣)。",
+      "pinyin": "Měi duǒ huā dōu yǒu tā de xiāngqì.",
+      "english": "Each flower has its own fragrance."
+    }
+  ]
+}

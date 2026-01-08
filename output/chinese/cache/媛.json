@@ -1,0 +1,44 @@
+{
+  "simplified": "媛",
+  "traditional": "媛",
+  "pinyin": "yuán",
+  "english": "elegant woman; beauty; jade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "女(女) (nǚ, \"woman\") + 爰(爰) (yuán, phonetic) = woman with the quality associated with yuán -> elegant woman",
+    "interpretation": "The character 媛 combines 女(女) (nǚ, \"woman\") to signify a female, with the phonetic component 爰(爰) (yuán) to suggest pronunciation. This combination conveys the idea of an 'elegant woman' or 'beauty,' focusing on refinement and grace.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "爰",
+      "trad": "爰",
+      "pinyin": "yuán",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那位媛拥有古典美(那位媛擁有古典美)，令人倾倒(令人傾倒)。",
+      "pinyin": "Nà wèi yuán yǒngyǒu gǔdiǎn měi, lìng rén qīngdǎo.",
+      "english": "That elegant woman possesses a classic beauty that captivates."
+    },
+    {
+      "chinese": "宴会上媛闪耀(宴會上媛閃耀)，吸引所有目光(吸引所有目光)。",
+      "pinyin": "Yànhuì shàng yuán shǎnyào, xīyǐn suǒyǒu mùguāng.",
+      "english": "At the banquet, the elegant woman shone, attracting all eyes."
+    },
+    {
+      "chinese": "她宛如玉石般的媛独具风韵(她宛如玉石般的媛獨具風韻)。",
+      "pinyin": "Tā wǎnrú yùshí bān de yuán dújù fēngyùn.",
+      "english": "She, like a piece of jade, is an elegant woman with unique charm."
+    }
+  ]
+}

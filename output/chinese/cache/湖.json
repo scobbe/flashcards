@@ -1,0 +1,44 @@
+{
+  "simplified": "湖",
+  "traditional": "湖",
+  "pinyin": "hú",
+  "english": "lake",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 氵(氵) (shuǐ, \"water\") + phonetic 胡 (胡) (hú, \"beard\") = water area shaped by land -> lake",
+    "interpretation": "The character 湖(hú, \"lake\") combines the water radical 氵(氵) (shuǐ, \"water\") with the phonetic 胡 (胡) (hú, \"beard\") to denote a body of water. The use of 胡 suggests a broad, open water surface, similar to how a beard spreads across the face.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "胡",
+      "trad": "胡",
+      "pinyin": "hú",
+      "english": "beard"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在湖边散步(我在湖邊散步)，感觉心情放松(感覺心情放鬆)。",
+      "pinyin": "Wǒ zài hú biān sànbù, gǎnjué xīnqíng fàngsōng.",
+      "english": "I take a walk by the lake, feeling relaxed."
+    },
+    {
+      "chinese": "宁静的湖水映着蓝天(寧靜的湖水映著藍天)。",
+      "pinyin": "Níngjìng de húshuǐ yìngzhe lántiān.",
+      "english": "The quiet lake reflects the blue sky."
+    },
+    {
+      "chinese": "小船在湖上荡漾(小船在湖上蕩漾)，映出一轮明月(映出一輪明月)。",
+      "pinyin": "Xiǎochuán zài hú shàng dàngyàng, yìng chū yī lún míngyuè.",
+      "english": "A small boat drifts on the lake, reflecting a bright full moon."
+    }
+  ]
+}

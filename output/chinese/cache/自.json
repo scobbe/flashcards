@@ -1,0 +1,26 @@
+{
+  "simplified": "自",
+  "traditional": "自",
+  "pinyin": "zì",
+  "english": "nose",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a nose -> nose",
+    "interpretation": "The character 自(自) (zì, \"nose\") is a pictogram representing the human nose, often used in ancient times to symbolize oneself, as pointing to the nose was a way of indicating oneself.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "狗的自非常灵敏(狗的自非常靈敏)。",
+      "pinyin": "Gǒu de zì fēicháng língmǐn.",
+      "english": "The dog's nose is very sensitive."
+    },
+    {
+      "chinese": "他闻到花香(他聞到花香)，用自轻拂脸庞(用自輕拂臉龐)。",
+      "pinyin": "Tā wéndào huāxiāng, yòng zì qīngfú liǎnpáng.",
+      "english": "He smelled the scent of flowers and softly brushed his nose against his cheek."
+    }
+  ]
+}

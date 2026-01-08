@@ -1,0 +1,26 @@
+{
+  "simplified": "肉",
+  "traditional": "肉",
+  "pinyin": "ròu",
+  "english": "flesh",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a piece of flesh or meat with stripes representing texture.",
+    "interpretation": "The character 肉(ròu, \"flesh\") depicts a piece of meat, meant to evoke the concept of flesh through its visual resemblance to a striped or sectioned piece of meat.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃肉(我喜歡吃肉)。",
+      "pinyin": "Wǒ xǐhuān chī ròu.",
+      "english": "I like eating meat."
+    },
+    {
+      "chinese": "这块肉很鲜美(這塊肉很鮮美)，营养丰富(營養豐富)。",
+      "pinyin": "Zhè kuài ròu hěn xiānměi, yíngyǎng fēngfù.",
+      "english": "This piece of meat is very fresh and delicious, and it is nutritious."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "单",
+  "traditional": "單",
+  "pinyin": "dān",
+  "english": "list",
+  "etymology": {
+    "type": "Unorthodox variant of 單.",
+    "description": "Pictogram of a Y-shaped wooden stick A + two stones attached on top B = weapon for hunting -> later stylized to resemble 口 (kǒu, 'mouth') resembling 中 (zhōng, 'middle') -> further stylized as 田 (tián, 'field') with additional horizontal stroke below -> final form 單(單).",
+    "interpretation": "The character 單(單) intuitively represents a hunting tool or weapon, emphasizing its initial function and eventual simplification and stylization over time. The component 单 in this case represents a simplified form, which might have been used for practical writing needs.",
+    "simplification": "單(單) was simplified to 单 by eliminating additional strokes, creating a more straightforward representation that aligns with modern writing practices."
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请将参加聚会的人员名单准备好(請將參加聚會的人員名單準備好)。",
+      "pinyin": "Qǐng jiāng cānjiā jùhuì de rényuán míngdān zhǔnbèi hǎo.",
+      "english": "Please prepare the list of people attending the party."
+    },
+    {
+      "chinese": "老师检查了学生考试名单(老師檢查了學生考試名單)。",
+      "pinyin": "Lǎoshī jiǎnchá le xuéshēng kǎoshì míngdān.",
+      "english": "The teacher checked the list of students taking the exam."
+    },
+    {
+      "chinese": "经理整理了客户订购单(經理整理了客戶訂購單)。",
+      "pinyin": "Jīnglǐ zhěnglǐ le kèhù dìnggòu dān.",
+      "english": "The manager organized the customers' order list."
+    }
+  ]
+}

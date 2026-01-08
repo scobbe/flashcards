@@ -1,0 +1,44 @@
+{
+  "simplified": "词源",
+  "traditional": "詞源",
+  "pinyin": "cíyuán",
+  "english": "etymology",
+  "etymology": {
+    "type": "compound word",
+    "description": "詞(词) (cí, \"word\") refers to words or expressions, while 源(源) (yuán, \"origin\") indicates the source or origin of something.",
+    "interpretation": "詞源(词源) (cíyuán, \"etymology\") combines 詞(词) (cí, \"word\") with 源(源) (yuán, \"origin\") to signify the study or origin of words. It reflects an investigation into how words have developed and where they come from, aligning with the Western concept of etymology.",
+    "simplification": "Converted to simplified characters: 詞 to 词"
+  },
+  "parts": [
+    {
+      "char": "词",
+      "trad": "詞",
+      "pinyin": "cí",
+      "english": "word; phrase; expression"
+    },
+    {
+      "char": "源",
+      "trad": "源",
+      "pinyin": "yuán",
+      "english": "origin; source; fountainhead"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "词源研究十分重要(詞源研究十分重要)。",
+      "pinyin": "Cíyuán yánjiū shífēn zhòngyào.",
+      "english": "The study of etymology is very important."
+    },
+    {
+      "chinese": "我从词源中了解单词的历史(我從詞源中了解單詞的歷史)。",
+      "pinyin": "Wǒ cóng cíyuán zhōng liǎojiě dāncí de lìshǐ.",
+      "english": "I learn about the history of words from their etymology."
+    },
+    {
+      "chinese": "他对词源感兴趣(他對詞源感興趣)，希望找到更多例子(希望找到更多例子)。",
+      "pinyin": "Tā duì cíyuán gǎn xìngqù, xīwàng zhǎodào gèng duō lìzi.",
+      "english": "He is interested in etymology and hopes to find more examples."
+    }
+  ]
+}

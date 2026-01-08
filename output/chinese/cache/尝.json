@@ -1,0 +1,39 @@
+{
+  "simplified": "尝",
+  "traditional": "嘗",
+  "pinyin": "cháng",
+  "english": "taste; try",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Phonetic: 尚(尚) (shàng) + Semantic: 旨(旨) (zhǐ, \"tasty\") = relating to flavor -> taste; try",
+    "interpretation": "The character combines 尚(尚) (shàng) for its similar sound with 旨(旨) (zhǐ, \"tasty\") to convey the idea of experiencing or trying different flavors.",
+    "simplification": "尝(嘗) replaces the complex 龍(龍) (lóng, \"dragon\") with a simpler phonetic 尚(尚) (shàng), while retaining the essential meaning with 旨(旨) (zhǐ, \"tasty\") component."
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "of high esteem"
+    },
+    {
+      "char": "旨",
+      "trad": "旨",
+      "pinyin": "zhǐ",
+      "english": "tasty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想尝这个菜(我想嘗這個菜)。",
+      "pinyin": "Wǒ xiǎng cháng zhège cài.",
+      "english": "I want to taste this dish."
+    },
+    {
+      "chinese": "他尝了果汁(他嘗了果汁)，觉得味道不错(覺得味道不錯)。",
+      "pinyin": "Tā cháng le guǒ zhī, juéde wèidào búcuò.",
+      "english": "He tasted the juice and thought the flavor was good."
+    }
+  ]
+}

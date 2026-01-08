@@ -1,0 +1,44 @@
+{
+  "simplified": "红",
+  "traditional": "紅",
+  "pinyin": "hóng",
+  "english": "red",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, 'silk') + 工(工) (gōng, 'work') = associated with silk and resembles gōng sound -> red",
+    "interpretation": "The character 红(紅) (hóng, 'red') combines the silk radical 糸(糸) with the phonetic 工(工). Silk was often dyed in vibrant colors, like red, making it a suitable semantic component. 工(工) provides the phonetic aspect.",
+    "simplification": "红(紅) replaced the silk radical 糸(糸) with 纟(纟), a simplified version often used in the simplified script."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "红花盛开(紅花盛開)。",
+      "pinyin": "hóng huā shèngkāi",
+      "english": "The red flowers are in full bloom."
+    },
+    {
+      "chinese": "她戴着红帽子(她戴著紅帽子)，步履轻盈(步履輕盈)。",
+      "pinyin": "tā dàizhe hóng màozi, bùlǚ qīngyíng",
+      "english": "She wears a red hat and walks gracefully."
+    },
+    {
+      "chinese": "傍晚时分(傍晚時分)，天空被红云装点(天空被紅雲裝點)。",
+      "pinyin": "bàngwǎn shífēn, tiānkōng bèi hóng yún zhuāngdiǎn",
+      "english": "In the evening, the sky is adorned with red clouds."
+    }
+  ]
+}

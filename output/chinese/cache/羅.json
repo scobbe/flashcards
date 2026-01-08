@@ -1,0 +1,44 @@
+{
+  "simplified": "羅",
+  "traditional": "羅",
+  "pinyin": "luó",
+  "english": "to net",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "网(网) (wǎng, \"net\") + 維(維) (wéi, \"bird (tied with string)\") = net for catching birds -> trapping or a net",
+    "interpretation": "The character 羅(羅) (luó, \"to net\") intuitively combines the concept of a net 网(网) (wǎng) with 維(維) (wéi, \"bird (tied with string)\") to visually represent a tool designed for trapping or catching, similar to a bird snare.",
+    "simplification": "羅(羅) was simplified to 罗(罗) by replacing 維(維) with 夕(夕) (xī, \"evening\") as a more streamlined form."
+  },
+  "parts": [
+    {
+      "char": "网",
+      "trad": "网",
+      "pinyin": "wǎng",
+      "english": "net"
+    },
+    {
+      "char": "維",
+      "trad": "維",
+      "pinyin": "wéi",
+      "english": "bird (tied with string)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "渔夫用网罗鱼(漁夫用網羅魚)。",
+      "pinyin": "Yúfū yòng wǎng luó yú.",
+      "english": "The fisherman nets fish."
+    },
+    {
+      "chinese": "猎人精心布置陷阱(獵人精心佈置陷阱)，罗捕野兔(羅捕野兔)。",
+      "pinyin": "Lièrén jīngxīn bùzhì xiànjǐng, luó bǔ yětù.",
+      "english": "The hunter carefully sets traps, netting wild rabbits."
+    },
+    {
+      "chinese": "渔船扬帆出海(漁船揚帆出海)，罗捕群鱼(羅捕羣魚)。",
+      "pinyin": "Yúchuán yángfān chūhǎi, luó bǔ qúnyú.",
+      "english": "The fishing boat sets sail, netting a school of fish."
+    }
+  ]
+}

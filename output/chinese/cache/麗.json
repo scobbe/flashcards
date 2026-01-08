@@ -1,0 +1,31 @@
+{
+  "simplified": "麗",
+  "traditional": "麗",
+  "pinyin": "lí",
+  "english": "beautiful; magnificent; elegant",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a deer with antlers",
+    "interpretation": "麗(麗) (lí, \"beautiful\") is a pictographic representation of a deer with antlers, symbolizing grace and beauty, reflective of the elegance often attributed to deer in various cultures.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅画展现了麗的风采(這幅畫展現了麗的風采)。",
+      "pinyin": "Zhè fú huà zhǎnxiànle lí de fēngcǎi.",
+      "english": "This painting showcases elegant charm."
+    },
+    {
+      "chinese": "她走进大厅(她走進大廳)，看见墙上挂着麗的字画(看見牆上掛著麗的字畫)。",
+      "pinyin": "Tā zǒu jìn dàtīng, kànjiàn qiáng shàng guàzhe lí de zìhuà.",
+      "english": "She walked into the hall, and saw elegant calligraphy hanging on the wall."
+    },
+    {
+      "chinese": "那座山因云雾缭绕而显得格外麗(那座山因雲霧繚繞而顯得格外麗)。",
+      "pinyin": "Nà zuò shān yīn yúnwù liáorào ér xiǎndé géwài lí.",
+      "english": "That mountain looks exceptionally elegant due to the swirling mist."
+    }
+  ]
+}

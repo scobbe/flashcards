@@ -2,11 +2,11 @@
   "simplified": "大同",
   "traditional": "大同",
   "pinyin": "dàtóng",
-  "english": "great unity; Datong",
+  "english": "Great Unity; Datong",
   "etymology": {
     "type": "compound word",
-    "description": "大(大) (dà, \"big; great\") + 同(同) (tóng, \"same; together\") = together being great -> great unity",
-    "interpretation": "The combination of 大(大) (dà, \"big; great\") and 同(同) (tóng, \"same; together\") conveys the idea of people or communities coming together to achieve a sense of greatness or unity.",
+    "description": "大(大) (dà, \"great\") + 同(同) (tóng, \"same; unity\") = Great Unity, a concept of harmony where all people are united as one.",
+    "interpretation": "大同(大同) (dàtóng, \"Great Unity\") is a Confucian utopian ideal described in the Book of Rites (禮記/礼记) where society achieves a state of perfect harmony, justice, and equality. It is often referenced in both historical and philosophical contexts as an aspiration for social order.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "big; great"
+      "english": "great; big; large"
     },
     {
       "char": "同",
       "trad": "同",
       "pinyin": "tóng",
-      "english": "same; together"
+      "english": "same; unity; together; common"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "国家追求大同(國家追求大同)。",
-      "pinyin": "Guójiā zhuīqiú dàtóng.",
-      "english": "The nation strives for great unity."
+      "chinese": "全世界人民向往大同(大同)。",
+      "pinyin": "Quán shìjiè rénmín xiàngwǎng dàtóng.",
+      "english": "People around the world yearn for Great Unity."
     },
     {
-      "chinese": "游客参观大同(遊客參觀大同)，探寻历史文化(探尋歷史文化)。",
-      "pinyin": "Yóukè cānguān dàtóng, tànxún lìshǐ wénhuà.",
-      "english": "Visitors tour Datong to explore its historical culture."
+      "chinese": "先賢夢想大同(大同)，後人追求和諧(後人追求和諧)。",
+      "pinyin": "Xiānxián mèngxiǎng dàtóng, hòurén zhuīqiú héxié.",
+      "english": "The wise of the past dream of Great Unity, while later generations strive for harmony."
+    },
+    {
+      "chinese": "柏拉图論大同(大同)，啟發現代理想社會(啟發現代理想社會)。",
+      "pinyin": "Bǎilātú lùn dàtóng, qǐfā xiàndài lǐxiǎng shèhuì.",
+      "english": "Plato discussed Great Unity, inspiring the modern ideal society."
     }
   ]
 }

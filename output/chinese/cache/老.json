@@ -1,0 +1,50 @@
+{
+  "simplified": "老",
+  "traditional": "老",
+  "pinyin": "lǎo",
+  "english": "old",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"man\") + 毛(毛) (máo, \"hair\") + 匕(匕) (bǐ, \"cane\") = a man with long hair leaning on a cane -> old man",
+    "interpretation": "The character 老(lǎo) visually depicts aspects associated with age: a man with long hair and a cane. This combination intuitively suggests the concept of being elderly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "man"
+    },
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair"
+    },
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "cane"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他虽然年老(他雖然年老)，但经验丰富(但經驗豐富)。",
+      "pinyin": "tā suīrán niánlǎo, dàn jīngyàn fēngfù.",
+      "english": "He may be old, but he is experienced."
+    },
+    {
+      "chinese": "他是我们班的老老师(他是我們班的老老師)。",
+      "pinyin": "tā shì wǒmen bān de lǎo lǎoshī.",
+      "english": "He is our class's venerable teacher."
+    },
+    {
+      "chinese": "老故事传递智慧(老故事傳遞智慧)。",
+      "pinyin": "lǎo gùshi chuándì zhìhuì.",
+      "english": "Old stories convey wisdom."
+    }
+  ]
+}

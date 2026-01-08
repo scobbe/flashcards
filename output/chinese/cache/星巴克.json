@@ -1,0 +1,50 @@
+{
+  "simplified": "星巴克",
+  "traditional": "星巴克",
+  "pinyin": "Xīngbākè",
+  "english": "Starbucks",
+  "etymology": {
+    "type": "compound word",
+    "description": "星(星) (xīng, \"star\") + 巴(巴) (bā, \"area; wish\") + 克(克) (kè, \"to overcome; gram\")",
+    "interpretation": "星巴克 (Xīngbākè) is a phonetic transcription of the name Starbucks, the international coffee company. The components 星(星) (xīng, \"star\"), 巴(巴) (bā, \"area; wish\"), and 克(克) (kè, \"to overcome; gram\") are selected to approximate the sound of 'Starbucks' rather than to convey a specific meaningful translation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "area; wish"
+    },
+    {
+      "char": "克",
+      "trad": "克",
+      "pinyin": "kè",
+      "english": "to overcome; gram"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天去星巴克(我今天去星巴克)，尝试新品(嘗試新品)。",
+      "pinyin": "Wǒ jīntiān qù Xīngbākè, chángshì xīn pǐn.",
+      "english": "Today I went to Starbucks and tried new products."
+    },
+    {
+      "chinese": "星巴克是我最喜欢的聚会场所(星巴克是我最喜歡的聚會場所)。",
+      "pinyin": "Xīngbākè shì wǒ zuì xǐhuān de jùhuì chǎngsuǒ.",
+      "english": "Starbucks is my favorite venue for gatherings."
+    },
+    {
+      "chinese": "晚上我在星巴克(晚上我在星巴克)，坐下来写作业(坐下來寫作業)。",
+      "pinyin": "Wǎnshàng wǒ zài Xīngbākè, zuò xiàlái xiě zuòyè.",
+      "english": "At night, I sat down at Starbucks to do my homework."
+    }
+  ]
+}

@@ -2,30 +2,56 @@
   "simplified": "來",
   "traditional": "來",
   "pinyin": "lái",
-  "english": "to come",
+  "english": "come",
   "etymology": {
-    "type": "Pictogram",
-    "description": "Depicts wheat: line for ear, upturns for leaves, downturns for stem/roots -> borrowed for 'to come'; additions like 止 (zhǐ, 'foot') added and later removed",
-    "interpretation": "Originally depicting wheat, the character 來(lái, 'to come') was borrowed for its phonetic similarity to the word meaning 'to come'. The components effectively illustrate parts of the wheat plant, which provided an analogy for movement or arrival, hence its borrowed use.",
-    "simplification": ""
+    "type": "pictogram",
+    "description": "Depicts wheat: middle line = ear, upward lines = leaves, downward lines = stem and roots -> horizontal line highlighted the ear -> borrowed for 'to come'",
+    "interpretation": "The character originally depicted wheat, visually representing its structure. It was borrowed for its phonetic similarity to express the concept 'to come.' Over time, this borrowed meaning became predominant, while the original reference to wheat became associated with 麥(麥) (mài, 'wheat') through additional phonetic differentiation.",
+    "simplification": "来 is a simplified form of 來 with fewer strokes, maintaining a similar appearance for ease of writing."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "麥",
+      "trad": "麥",
+      "pinyin": "mài",
+      "english": "wheat"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "to walk slowly"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "to walk"
+    },
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请你来(請你來)，一起享受美好时光(一起享受美好時光)。",
-      "pinyin": "qǐng nǐ lái, yìqǐ xiǎngshòu měihǎo shíguāng.",
-      "english": "Please come and enjoy a wonderful time."
+      "chinese": "我来了(我來了)。",
+      "pinyin": "Wǒ lái le.",
+      "english": "I have come."
     },
     {
-      "chinese": "春风吹来(春風吹來)，花儿绽放(花兒綻放)。",
-      "pinyin": "chūnfēng chuī lái, huār zhànfàng.",
-      "english": "As the spring breeze comes, the flowers bloom."
-    },
-    {
-      "chinese": "我在门口等你来(我在門口等你來)。",
-      "pinyin": "wǒ zài ménkǒu děng nǐ lái.",
-      "english": "I am waiting for you at the door."
+      "chinese": "请你今天来我家(請你今天來我家)，一起喝茶(一起喝茶)。",
+      "pinyin": "Qǐng nǐ jīntiān lái wǒ jiā, yīqǐ hē chá.",
+      "english": "Please come to my house today, and have tea together."
     }
   ]
 }

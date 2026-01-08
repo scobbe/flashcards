@@ -1,0 +1,26 @@
+{
+  "simplified": "西",
+  "traditional": "西",
+  "pinyin": "xī",
+  "english": "west",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bag or basket -> borrowed for phonetic value to mean 'west'",
+    "interpretation": "The character 西(xī, 'west') originally depicted a bag or basket and was phonetically borrowed to represent 'west'. Although traditionally linked to the image of a bird in a nest symbolizing the setting sun, this interpretation is disputed. Instead, it reflects a simple phonetic borrowing.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他家住在西边(他家住在西邊)，附近有一座大山(附近有一座大山)。",
+      "pinyin": "Tā jiā zhù zài xībiān, fùjìn yǒu yī zuò dà shān.",
+      "english": "His home is on the west side, and there is a big mountain nearby."
+    },
+    {
+      "chinese": "风筝向西飞去(風箏向西飛去)。",
+      "pinyin": "Fēngzhēng xiàng xī fēi qù.",
+      "english": "The kite flies toward the west."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "七",
+  "traditional": "七",
+  "pinyin": "qī",
+  "english": "seven",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a horizontal line (一) intersected by a short vertical line (|) -> symbolic representation of the number seven",
+    "interpretation": "The character 七(qī, \"seven\") is a pictogram that visually abstracts the number seven with a simple shape that suggests counting or enumeration.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有七个苹果(我有七個蘋果)。",
+      "pinyin": "Wǒ yǒu qī gè píngguǒ.",
+      "english": "I have seven apples."
+    },
+    {
+      "chinese": "花园里有七只蝴蝶(花園裡有七隻蝴蝶)，在阳光下翩翩起舞(在陽光下翩翩起舞)。",
+      "pinyin": "Huāyuán lǐ yǒu qī zhī húdié, zài yángguāng xià piānpiān qǐwǔ.",
+      "english": "There are seven butterflies in the garden, dancing gracefully under the sunlight."
+    },
+    {
+      "chinese": "会议定在七点(會議定在七點)，不容迟到(不容遲到)。",
+      "pinyin": "Huìyì dìng zài qī diǎn, bù róng chídào.",
+      "english": "The meeting is scheduled at seven o'clock, and lateness is not allowed."
+    }
+  ]
+}

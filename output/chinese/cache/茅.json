@@ -1,0 +1,44 @@
+{
+  "simplified": "茅",
+  "traditional": "茅",
+  "pinyin": "máo",
+  "english": "cogon grass",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"plant\") + phonetic 矛(矛) (máo, \"spear\") = grass with long, pointed shape -> cogon grass",
+    "interpretation": "The character 茅(máo) conveys its meaning as cogon grass through the plant radical 艹(艹) (cǎo, \"plant\") to signify vegetation, while 矛(矛) (máo, \"spear\") suggests its long, sharp shape.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "plant"
+    },
+    {
+      "char": "矛",
+      "trad": "矛",
+      "pinyin": "máo",
+      "english": "spear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "村里的人们用茅盖房子(村裡的人們用茅蓋房子)。",
+      "pinyin": "Cūn lǐ de rénmen yòng máo gài fángzi.",
+      "english": "The villagers use cogon grass to thatch their houses."
+    },
+    {
+      "chinese": "那间茅屋充满古朴气息(那間茅屋充滿古樸氣息)。",
+      "pinyin": "Nà jiān máo wū chōngmǎn gǔpǔ qìxī.",
+      "english": "That cogon grass hut is full of rustic charm."
+    },
+    {
+      "chinese": "村庄外的山坡上长满了茅(村莊外的山坡上長滿了茅)。",
+      "pinyin": "Cūnzhuāng wài de shānpō shàng zhǎngmǎn le máo.",
+      "english": "The hillside outside the village is covered with cogon grass."
+    }
+  ]
+}

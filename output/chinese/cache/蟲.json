@@ -1,0 +1,38 @@
+{
+  "simplified": "蟲",
+  "traditional": "蟲",
+  "pinyin": "chóng",
+  "english": "insect",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Triplication of 虫(虫) (chóng, \"snake; insect\") -> representation of multiple insects or a group of insects -> evolves to mean 'insect'",
+    "interpretation": "The character 蟲(chóng, \"insect\") visually emphasizes the idea of a group of insects or a swarm by repeating the depiction of 虫(虫) (chóng, \"snake; insect\"), symbolizing an abundance or multiplicity of insect-like creatures.",
+    "simplification": "虫 is a simplified form where tripod 虫 components in 蟲 were reduced to a single 虫 for simplicity."
+  },
+  "parts": [
+    {
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "chóng",
+      "english": "snake; insect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花園裡有很多蟲(花園裡有很多蟲)。",
+      "pinyin": "Huāyuán lǐ yǒu hěn duō chóng.",
+      "english": "There are many insects in the garden."
+    },
+    {
+      "chinese": "我看到一隻蟲(我看到一隻蟲)，爬上了牆(爬上了牆)。",
+      "pinyin": "Wǒ kàn dào yī zhī chóng, pá shàng le qiáng.",
+      "english": "I saw an insect, and it crawled up the wall."
+    },
+    {
+      "chinese": "蟲在夜晚飛舞(蟲在夜晚飛舞)。",
+      "pinyin": "Chóng zài yèwǎn fēiwǔ.",
+      "english": "Insects dance in the night air."
+    }
+  ]
+}

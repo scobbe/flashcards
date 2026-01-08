@@ -1,0 +1,44 @@
+{
+  "simplified": "滨",
+  "traditional": "濱",
+  "pinyin": "bīn",
+  "english": "shore; coast",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 賓(賓) (bīn, \"guest\") = water near guest -> shore",
+    "interpretation": "The character 滨(濱) (bīn, \"shore\") combines 水(shuǐ, \"water\"), representing the water characteristic of a shore, with 賓(bīn, \"guest\"), which provides the pronunciation. This formation suggests a place where guests might arrive by water, reflecting coastal regions.",
+    "simplification": "濱(濱) was simplified by removing parts of the 賓(bīn, \"guest\") component that were deemed less essential for maintaining pronunciation, while keeping the overall structure recognizable."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "賓",
+      "trad": "賓",
+      "pinyin": "bīn",
+      "english": "guest"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我沿着河滨散步(我沿着河濱散步)。",
+      "pinyin": "Wǒ yánzhe hé bīn sànbù.",
+      "english": "I took a walk along the river shore."
+    },
+    {
+      "chinese": "太阳落在滨海的尽头(太陽落在濱海的盡頭)。",
+      "pinyin": "Tàiyáng luò zài bīn hǎi de jìntóu.",
+      "english": "The sun set at the edge of the coast."
+    },
+    {
+      "chinese": "沿滨公路风景宜人(沿濱公路風景宜人)。",
+      "pinyin": "Yán bīn gōnglù fēngjǐng yírén.",
+      "english": "The scenic coastal road is pleasant."
+    }
+  ]
+}

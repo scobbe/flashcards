@@ -1,0 +1,39 @@
+{
+  "simplified": "疋",
+  "traditional": "疋",
+  "pinyin": "pǐ",
+  "english": "foot",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a foot 止 with a leg/thigh on top; similar to 足 while unrelated to the bottom part of 是",
+    "interpretation": "The character 疋(pǐ) visually represents a foot with an attached leg or thigh, illustrating its primary meaning. It is visually similar to 足(zú, 'foot') but distinct from 是(shì, 'is'), reinforcing its focus on the anatomical structure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "is"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他买了一疋绫(他買了一疋綾)。",
+      "pinyin": "Tā mǎi le yī pǐ líng.",
+      "english": "He bought a bolt of satin."
+    },
+    {
+      "chinese": "这件绸缎足有五疋长(這件綢緞足有五疋長)。",
+      "pinyin": "Zhè jiàn chóuduàn zú yǒu wǔ pǐ zhǎng.",
+      "english": "This piece of satin is five feet long."
+    }
+  ]
+}

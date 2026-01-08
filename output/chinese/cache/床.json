@@ -1,0 +1,44 @@
+{
+  "simplified": "床",
+  "traditional": "床",
+  "pinyin": "chuáng",
+  "english": "bed",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "广(廣) (guǎng, \"house\") + 木(木) (mù, \"tree/wood\") = wooden furniture (bed) in a house",
+    "interpretation": "The character 床(床) (chuáng, \"bed\") signifies a piece of wooden furniture located within a house. The inclusion of 木(木), meaning 'wood,' intuitively aligns with beds being made from wooden materials, while 广(廣) represents the enclosing structure of a house, emphasizing the indoor placement of furniture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "house"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我睡在床上(我睡在床上)。",
+      "pinyin": "Wǒ shuì zài chuáng shàng.",
+      "english": "I sleep on the bed."
+    },
+    {
+      "chinese": "买了新床(買了新床)，感觉睡眠更好(感覺睡眠更好)。",
+      "pinyin": "Mǎile xīn chuáng, gǎnjué shuìmián gèng hǎo.",
+      "english": "I bought a new bed, and I feel my sleep is better."
+    },
+    {
+      "chinese": "孩子在床上玩耍(孩子在床上玩耍)，笑声充满房间(笑聲充滿房間)。",
+      "pinyin": "Háizi zài chuáng shàng wánshuǎ, xiàoshēng chōngmǎn fángjiān.",
+      "english": "The child plays on the bed, and laughter fills the room."
+    }
+  ]
+}

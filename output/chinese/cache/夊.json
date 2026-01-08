@@ -2,30 +2,25 @@
   "simplified": "夊",
   "traditional": "夊",
   "pinyin": "suī",
-  "english": "footprint pointing down; to walk slowly",
+  "english": "footprint pointing down",
   "etymology": {
-    "type": "Pictogram ( 象形 )",
+    "type": "pictogram",
     "description": "Depicts a footprint pointing down",
-    "interpretation": "The character 夊(suī, \"footprint pointing down\") is a pictogram representing a footprint, with the orientation suggesting a person walking slowly. Its graphical form resembles a foot, emphasizing its meaning related to walking.",
+    "interpretation": "The character 夊(suī, \"footprint pointing down\") visually depicts the shape of a footprint, indicating an action of stepping or moving downward, contrasting with 止(zhǐ, \"stop\"), which illustrates a foot moving upwards.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "他夊步而行(他夊步而行)，慢慢欣赏风景(慢慢欣賞風景)。",
-      "pinyin": "Tā suī bù ér xíng, màn màn xīn shǎng fēng jǐng.",
-      "english": "He walks slowly, enjoying the scenery."
+      "chinese": "书法家笔下的夊字传达出足迹向下的意境(書法家筆下的夊字傳達出足跡向下的意境)。",
+      "pinyin": "Shūfǎjiā bǐxià de suī zì chuándá chū zújì xiàng xià de yìjìng.",
+      "english": "The calligraphic form of the character suī conveys the imagery of footprints pointing downward."
     },
     {
-      "chinese": "她夊行于山间小径(她夊行於山間小徑)。",
-      "pinyin": "Tā suī xíng yú shān jiān xiǎo jìng.",
-      "english": "She strolls along the mountain path."
-    },
-    {
-      "chinese": "古人常夊步于庭院(古人常夊步於庭院)，眺望远山(眺望遠山)。",
-      "pinyin": "Gǔ rén cháng suī bù yú tíng yuàn, tiào wàng yuǎn shān.",
-      "english": "Ancient people often walked slowly in the courtyard, gazing at the distant mountains."
+      "chinese": "古代雕刻中常用夊象征行走(古代雕刻中常用夊象徵行走)，展示追寻足迹的智慧(展示追尋足跡的智慧)。",
+      "pinyin": "Gǔdài diāokè zhōng cháng yòng suī xiàngzhēng xíngzǒu, zhǎnshì zhuīxún zújì de zhìhuì.",
+      "english": "In ancient carvings, suī is often used to symbolize walking, displaying the wisdom of following one’s trail."
     }
   ]
 }

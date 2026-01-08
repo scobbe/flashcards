@@ -1,0 +1,39 @@
+{
+  "simplified": "姚滨",
+  "traditional": "姚濱",
+  "pinyin": "Yáo Bīn",
+  "english": "Yao Bin (name)",
+  "etymology": {
+    "type": "compound word",
+    "description": "姚(姚) (yáo, \"handsome; elegant\") refers to the surname Yao. 濱(滨) (bīn, \"shore; coast\") is often used as a given name meaning \"shore\" or \"coast\", signifying a connection to nature or elegance.",
+    "interpretation": "姚濱(姚滨) is a common Chinese name, where 姚(姚) (yáo, \"handsome; elegant\") is a family name, and 濱(滨) (bīn, \"shore; coast\") is typically a given name that may suggest elegance or a serene, natural beauty.",
+    "simplification": "滨 is the simplified form of 濱."
+  },
+  "parts": [
+    {
+      "char": "姚",
+      "trad": "姚",
+      "pinyin": "yáo",
+      "english": "handsome; elegant"
+    },
+    {
+      "char": "滨",
+      "trad": "濱",
+      "pinyin": "bīn",
+      "english": "shore; coast"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "姚滨是一位杰出的科学家(姚濱是一位傑出的科學家)。",
+      "pinyin": "Yáo Bīn shì yī wèi jié chū de kē xué jiā.",
+      "english": "Yao Bin is an outstanding scientist."
+    },
+    {
+      "chinese": "姚滨今年出国访问(姚濱今年出國訪問)，带回了很多珍贵的学术资源(帶回了很多珍貴的學術資源)。",
+      "pinyin": "Yáo Bīn jīn nián chū guó fǎng wèn, dài huí le hěn duō zhēn guì de xué shù zī yuán.",
+      "english": "This year, Yao Bin went abroad for an academic visit and brought back many valuable scholarly resources."
+    }
+  ]
+}

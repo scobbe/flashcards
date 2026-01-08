@@ -1,0 +1,44 @@
+{
+  "simplified": "鲜",
+  "traditional": "鮮",
+  "pinyin": "xiān",
+  "english": "fresh",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "魚(魚) (yú, 'fish') + phonetic: 羴(羴) (shān) = combination of fish and mutton implies high-quality, delectable food -> fresh",
+    "interpretation": "The character combines 'fish' and 'mutton' to emphasize freshness and deliciousness, which are traits associated with high-quality food. This reflects cultural values of taste and quality in food.",
+    "simplification": "鮮(鮮) ('xiān, 'fresh') was simplified to 鲜 by replacing 魚(魚) with its simplified form 鱼(鱼) for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "魚",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish"
+    },
+    {
+      "char": "羴",
+      "trad": "羴",
+      "pinyin": "shān",
+      "english": "-"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这家餐厅的鱼很鲜(這家餐廳的魚很鮮)。",
+      "pinyin": "Zhè jiā cāntīng de yú hěn xiān.",
+      "english": "The fish in this restaurant are fresh."
+    },
+    {
+      "chinese": "市场上有新鲜水果(市場上有新鮮水果)，吸引了很多顾客(吸引了很多顧客)。",
+      "pinyin": "Shìchǎng shàng yǒu xīnxiān shuǐguǒ, xīyǐn le hěn duō gùkè.",
+      "english": "Fresh fruits in the market attract many customers."
+    },
+    {
+      "chinese": "鲜汤清澈诱人(鮮湯清澈誘人)。",
+      "pinyin": "Xiān tāng qīngchè yòurén.",
+      "english": "The fresh soup is clear and appetizing."
+    }
+  ]
+}

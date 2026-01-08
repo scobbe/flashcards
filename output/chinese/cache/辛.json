@@ -1,0 +1,26 @@
+{
+  "simplified": "辛",
+  "traditional": "辛",
+  "pinyin": "xīn",
+  "english": "spice",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tool—chisel, awl, spike—used to mark slaves and criminals -> 辛",
+    "interpretation": "The character 辛(xīn, 'spice'), while meaning 'spice' in contemporary usage, originally depicted a tool used for branding slaves and criminals, indicating its historical connection to marking and intensity.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在厨房里加了些辛(我在廚房裡加了些辛)，使得菜的味道更加丰富(使得菜的味道更加豐富)。",
+      "pinyin": "Wǒ zài chúfáng lǐ jiā le xiē xīn, shǐdé cài de wèidào gèngjiā fēngfù.",
+      "english": "I added some spice in the kitchen, making the dish more flavorful."
+    },
+    {
+      "chinese": "这家餐馆以独特的辛著称(這家餐館以獨特的辛著稱)，吸引了很多食客(吸引了很多食客)。",
+      "pinyin": "Zhè jiā cānguǎn yǐ dútè de xīn zhùchēng, xīyǐn le hěn duō shíkè.",
+      "english": "This restaurant is renowned for its unique spice, attracting many diners."
+    }
+  ]
+}

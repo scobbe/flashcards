@@ -1,0 +1,45 @@
+{
+  "simplified": "禹",
+  "traditional": "禹",
+  "pinyin": "yǔ",
+  "english": "name of an ancient Chinese ruler",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禸(禸) (róu, \"track\") as semantic indicating land and 土(土) (tǔ, \"earth\") indicating terrain + 口(口) (kǒu, \"mouth\") phonetic component = a name for a ruler famed for flood control -> name of ancient Chinese ruler",
+    "interpretation": "The character 禹(yǔ) reflects the historical association with land and flood management, as indicated by the components representing earth and terrain combined with a phonetic element.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禸",
+      "trad": "禸",
+      "pinyin": "róu",
+      "english": "track"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "禹开创了防洪治水的先河(禹開創了防洪治水的先河)。",
+      "pinyin": "Yǔ kāichuàng le fánghóng zhìshuǐ de xiānhé.",
+      "english": "Yu pioneered flood control and water management."
+    },
+    {
+      "chinese": "禹制定了治水规划(禹制定了治水規劃)，启示后代治理水患(啟示後代治理水患)。",
+      "pinyin": "Yǔ zhìdìng le zhìshuǐ guīhuà, qǐshì hòudài zhìlǐ shuǐhuàn.",
+      "english": "Yu established water management strategies, inspiring later generations to manage floods."
+    }
+  ]
+}

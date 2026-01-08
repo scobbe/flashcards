@@ -1,0 +1,39 @@
+{
+  "simplified": "秋波",
+  "traditional": "秋波",
+  "pinyin": "qiūbō",
+  "english": "autumn wave; flirtatious glance",
+  "etymology": {
+    "type": "compound word",
+    "description": "秋(秋) (qiū, \"autumn\") 波(波) (bō, \"wave\")",
+    "interpretation": "The term 秋波 (qiūbō, \"autumn wave\") figuratively describes a flirtatious or alluring glance. The term originates from classical Chinese poetry, where it was used to describe the gentle and captivating movement of a woman's eyes, akin to the beauty and calmness of autumn waves. It suggests both grace and the subtlety of an enticing look.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "秋",
+      "trad": "秋",
+      "pinyin": "qiū",
+      "english": "autumn; fall"
+    },
+    {
+      "char": "波",
+      "trad": "波",
+      "pinyin": "bō",
+      "english": "wave; ripple; undulation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她投射出温柔的秋波(她投射出溫柔的秋波)。",
+      "pinyin": "tā tóushè chū wēnróu de qiūbō。",
+      "english": "She cast a gentle, flirtatious glance."
+    },
+    {
+      "chinese": "他抛出秋波(他拋出秋波)，引得她心动(引得她心動)。",
+      "pinyin": "tā pāo chū qiūbō, yǐn de tā xīn dòng。",
+      "english": "He shot a flirtatious glance that made her heart flutter."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[冫]
+Radical form of 仌 , in which the two blocks of ice appear compressed and stylized. Unrelated to 氵 , 次 , and 准 .
+
+[氷]
+variant form of 冰
+
+[冰]
+Phono-semantic compound ( 形聲 / 形声 , OC *pŋrɯŋ, *ŋrɯŋ ): phonetic 冫 ( OC *pŋrɯŋ, *ŋrɯŋ ) + semantic 水 . The above vulgar character in Shuowen Jiezi is 凝 .
+
+[凝]
+Phono-semantic compound ( 形聲 / 形声 , OC *ŋrɯŋ, *ŋrɯŋs ): semantic 冫 ( “ ice ” ) + phonetic 疑 ( OC *ŋɯ )

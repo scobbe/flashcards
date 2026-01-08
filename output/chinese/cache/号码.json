@@ -1,0 +1,44 @@
+{
+  "simplified": "号码",
+  "traditional": "號碼",
+  "pinyin": "hàomǎ",
+  "english": "number; code",
+  "etymology": {
+    "type": "compound word",
+    "description": "號(号) (hào, \"mark; sign\") + 碼(码) (mǎ, \"code; number\") = number; code",
+    "interpretation": "The word 號碼(号码) (hàomǎ) combines 號(号) (hào, \"mark; sign\") and 碼(码) (mǎ, \"code; number\") to refer to a sequence of symbols or digits used for identification, typically as a number or code in various contexts such as telephone numbers and serial numbers.",
+    "simplification": "号 simplified from 號; 码 simplified from 碼"
+  },
+  "parts": [
+    {
+      "char": "号",
+      "trad": "號",
+      "pinyin": "hào",
+      "english": "mark; sign; symbol; number"
+    },
+    {
+      "char": "码",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code; number; digit; yard"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请拨这个号码(請撥這個號碼)。",
+      "pinyin": "Qǐng bō zhège hàomǎ.",
+      "english": "Please dial this number."
+    },
+    {
+      "chinese": "我把号码记在本子上(我把號碼記在本子上)，以免忘记(以免忘記)。",
+      "pinyin": "Wǒ bǎ hàomǎ jì zài běnzi shàng, yǐmiǎn wàngjì.",
+      "english": "I write down the number in my notebook so that I won't forget."
+    },
+    {
+      "chinese": "联系时(聯繫時)，请提供你的号码(請提供你的號碼)。",
+      "pinyin": "Liánxì shí, qǐng tígōng nǐ de hàomǎ.",
+      "english": "When contacting, please provide your number."
+    }
+  ]
+}

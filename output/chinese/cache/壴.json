@@ -1,0 +1,26 @@
+{
+  "simplified": "壴",
+  "traditional": "壴",
+  "pinyin": "zhù",
+  "english": "drum",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a drum with its stand and sticks arranged on top, representing a musical instrument.",
+    "interpretation": "壴(壴) (zhù, \"drum\") visually depicts a traditional Chinese drum, with its structure and accessories, making the character intuitively understandable as representing a drum.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古人用壴打节奏(古人用壴打節奏)。",
+      "pinyin": "Gǔrén yòng zhù dǎ jiézòu.",
+      "english": "Ancient people used the drum to beat the rhythm."
+    },
+    {
+      "chinese": "夜晚沙场上(夜晚沙場上)，战鼓和壴同时响起(戰鼓和壴同時響起)。",
+      "pinyin": "Yèwǎn shāchǎng shàng, zhàngǔ hé zhù tóngshí xiǎngqǐ.",
+      "english": "On the battlefield at night, both the war drum and the drum sounded simultaneously."
+    }
+  ]
+}

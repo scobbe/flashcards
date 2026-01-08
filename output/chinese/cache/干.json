@@ -1,0 +1,26 @@
+{
+  "simplified": "干",
+  "traditional": "干",
+  "pinyin": "gān",
+  "english": "shield",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a simple representation of a shield",
+    "interpretation": "The character 干(gān, \"shield\") originally represented a simple depiction of a shield used in ancient Chinese warfare. It visually resembles a shield with a handle in its structure.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "战士举起干(戰士舉起干)。",
+      "pinyin": "Zhànshì jǔ qǐ gān.",
+      "english": "The warrior raises his shield."
+    },
+    {
+      "chinese": "在夜幕降临时他紧握干(在夜幕降臨時他緊握干)，抵抗敌人的侵袭(抵抗敵人的侵襲)。",
+      "pinyin": "Zài yèmù jiànglín shí tā jǐnwò gān, dǐkàng dírén de qīn xí.",
+      "english": "As night falls, he tightly grasps his shield to fend off the enemy's attack."
+    }
+  ]
+}

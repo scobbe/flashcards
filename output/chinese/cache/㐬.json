@@ -1,0 +1,44 @@
+{
+  "simplified": "㐬",
+  "traditional": "㐬",
+  "pinyin": "liú",
+  "english": "no definition",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "孚(孚) (fú, \"trust\") as semantic part + 劉(劉) (liú, \"to kill\") as phonetic part = meaning related to concept or sound of 劉",
+    "interpretation": "The character 㐬 combines the meaning of 孚(孚) (fú, \"trust\") with the phonetic component 劉(劉) (liú, \"to kill\") for a specific meaning or sound related to existing lexicon or function in classical texts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孚",
+      "trad": "孚",
+      "pinyin": "fú",
+      "english": "trust"
+    },
+    {
+      "char": "劉",
+      "trad": "劉",
+      "pinyin": "liú",
+      "english": "to kill"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "小溪㐬流不断(小溪㐬流不斷)。",
+      "pinyin": "Xiǎoxī liú liúbùduàn.",
+      "english": "The creek flows continuously."
+    },
+    {
+      "chinese": "山间雾气沉沉(山間霧氣沉沉)，晨曦中云朵㐬散(晨曦中雲朵㐬散)。",
+      "pinyin": "Shānjiān wùqì chénchén, chénxī zhōng yúnduǒ liú sàn.",
+      "english": "The mountain mist hangs heavy, while at dawn the clouds disperse."
+    },
+    {
+      "chinese": "古城河畔(古城河畔)，时光将往事㐬进(時光將往事㐬進)。",
+      "pinyin": "Gǔchéng hépàn, shíguāng jiāng wǎngshì liú jìn.",
+      "english": "By the ancient city's riverbank, time carries memories along."
+    }
+  ]
+}

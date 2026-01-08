@@ -1,0 +1,31 @@
+{
+  "simplified": "牛",
+  "traditional": "牛",
+  "pinyin": "niú",
+  "english": "ox",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the head and horns of an ox",
+    "interpretation": "The character 牛(牛) (niú, \"ox\") is a pictogram representing the head and horns of an ox, reflecting its importance in agriculture and daily life in ancient China.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民牵着牛(農民牽著牛)，去市场买东西(去市場買東西)。",
+      "pinyin": "Nóngmín qiānzhe niú，qù shìchǎng mǎi dōngxī。",
+      "english": "The farmer leads the ox and goes to the market to buy things."
+    },
+    {
+      "chinese": "农家养牛(農家養牛)，生活更加富足(生活更加富足)。",
+      "pinyin": "Nóngjiā yǎng niú，shēnghuó gèngjiā fùzú。",
+      "english": "Rural families raise oxen, making their lives more prosperous."
+    },
+    {
+      "chinese": "这个牛非常听话(這個牛非常聽話)。",
+      "pinyin": "Zhège niú fēicháng tīnghuà。",
+      "english": "This ox is very obedient."
+    }
+  ]
+}

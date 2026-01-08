@@ -1,0 +1,39 @@
+{
+  "simplified": "洛",
+  "traditional": "洛",
+  "pinyin": "luò",
+  "english": "a river; water",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 各(各) (gè, 'each') = flowing water with sound of 'gè' -> river, water",
+    "interpretation": "The character 洛(luò) combines the water radical 氵(氵) to represent its meaning associated with water, and 各(各) for its phonetic component to determine pronunciation. It relates to flowing water like a river.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "洛静静流淌(洛靜靜流淌)。",
+      "pinyin": "Luò jìngjìng liútǎng.",
+      "english": "The Luo flows quietly."
+    },
+    {
+      "chinese": "春日融融照洛岸(春日融融照洛岸)，柳絮纷飞(柳絮紛飛)。",
+      "pinyin": "Chūnrì róngróng zhào Luò àn, liǔxù fēnfēi.",
+      "english": "The gentle spring sun illuminates the banks of the Luo, while the willow catkins flutter."
+    }
+  ]
+}

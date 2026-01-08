@@ -1,0 +1,45 @@
+{
+  "simplified": "中国美术馆",
+  "traditional": "中國美術館",
+  "pinyin": "Zhōngguó Měishùguǎn",
+  "english": "National Art Museum of China",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle; central\") + 国(國) (guó, \"country; nation\") = 中国(中國) (zhōngguó, \"China\") + 美(美) (měi, \"beautiful\") + 术(術) (shù, \"art; technique\") = 美术(美術) (měishù, \"art\") + 馆(館) (guǎn, \"building; hall\") = 美术馆(美術館) (měishùguǎn, \"art museum\")",
+    "interpretation": "中国(中國) (zhōngguó, \"China\") refers to the nation, while 美术馆(美術館) (měishùguǎn, \"art museum\") denotes a place dedicated to the exhibition and appreciation of art. Therefore, 中国美术馆(中國美術館) (zhōngguó měishùguǎn) describes an art museum located in China, specifically the National Art Museum of China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中国",
+      "trad": "中國",
+      "pinyin": "zhōngguó",
+      "english": "China"
+    },
+    {
+      "char": "美术",
+      "trad": "美術",
+      "pinyin": "měishù",
+      "english": "art"
+    },
+    {
+      "char": "馆",
+      "trad": "館",
+      "pinyin": "guǎn",
+      "english": "building; hall"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我参观了中国美术馆(我參觀了中國美術館)。",
+      "pinyin": "Wǒ cānguānle Zhōngguó Měishùguǎn.",
+      "english": "I visited the National Art Museum of China."
+    },
+    {
+      "chinese": "中国美术馆举办了新展览(中國美術館舉辦了新展覽)，吸引了众多艺术爱好者(吸引了眾多藝術愛好者)。",
+      "pinyin": "Zhōngguó Měishùguǎn jǔbànle xīn zhǎnlǎn, xīyǐnle zhòngduō yìshù àihào zhě.",
+      "english": "The National Art Museum of China held a new exhibition, attracting numerous art enthusiasts."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "华",
+  "traditional": "華",
+  "pinyin": "huá",
+  "english": "China; magnificent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 化(化) (huà, \"transform\") + Semantic: 十(十) (\"stalk and leaves\") -> 華(華) (\"magnificent\") -> Simplified to 华 with 化(化)",
+    "interpretation": "The traditional character 華(華) uses 十(十) to evoke a stalk with leaves, representing growth and magnificence. In the simplified form 华, 化(化) helps retain the original sound while removing visual complexity.",
+    "simplification": "The character was simplified by using 化(化) to streamline its phonetic component and reduce stroke count, while 十(十) was omitted."
+  },
+  "parts": [
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "stalk and leaves"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中国古代文明辉煌(中國古代文明輝煌)，成就了华夏的美名(成就了華夏的美名)。",
+      "pinyin": "Zhōngguó gǔdài wénmíng huīhuáng, chéngjiùle huáxià de měimíng.",
+      "english": "The brilliance of ancient Chinese civilization has earned China a magnificent reputation."
+    },
+    {
+      "chinese": "他穿着一件华服(他穿著一件華服)，显得格外自信(顯得格外自信)。",
+      "pinyin": "Tā chuānzhuó yī jiàn huáfú, xiǎnde géwài zìxìn.",
+      "english": "He wears a magnificent garment, looking exceptionally confident."
+    }
+  ]
+}

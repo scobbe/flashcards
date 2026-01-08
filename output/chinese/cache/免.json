@@ -1,0 +1,38 @@
+{
+  "simplified": "免",
+  "traditional": "免",
+  "pinyin": "miǎn",
+  "english": "exempt; dismiss; avoid; release",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a man wearing a ceremonial hat -> borrowed for abstract meanings",
+    "interpretation": "The character originally depicted a ceremonial figure, emphasizing authority. Over time, it was borrowed for abstract concepts like 'exempt' or 'dismiss.' The derivative 冕(冕) (miǎn, 'crown') retains the original meaning related to ceremonial apparel.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冕",
+      "trad": "冕",
+      "pinyin": "miǎn",
+      "english": "crown"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学生们免缴学费(學生們免繳學費)。",
+      "pinyin": "Xuéshēngmen miǎn jiǎo xuéfèi.",
+      "english": "Students are exempt from paying tuition."
+    },
+    {
+      "chinese": "因工作繁忙(因工作繁忙)，他被免去部分职责(他被免去部分職責)。",
+      "pinyin": "Yīn gōngzuò fánmáng, tā bèi miǎn qù bùfen zhízé.",
+      "english": "Due to his busy work schedule, he was dismissed from some of his duties."
+    },
+    {
+      "chinese": "为了节省开支(為了節省開支)，公司决定免发年终奖(公司決定免發年終獎)。",
+      "pinyin": "Wèile jiéshěng kāizhī, gōngsī juédìng miǎn fā niánzhōng jiǎng.",
+      "english": "In order to save expenses, the company decided to avoid giving out the year-end bonus."
+    }
+  ]
+}

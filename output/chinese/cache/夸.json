@@ -1,0 +1,33 @@
+{
+  "simplified": "夸",
+  "traditional": "誇",
+  "pinyin": "kuā",
+  "english": "boast",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "誇(誇): semantic 言(言) (yán, 'words, language') + phonetic 夸(夸) (kuā, 'boast') -> 'boastful or exaggerated words'",
+    "interpretation": "In 誇(誇), the element 言(言) relates to 'words' or 'speech', indicating the act of speaking in a boastful manner; 夸(夸) provides the phonetic component, reinforcing the sound and meaning of boasting.",
+    "simplification": "夸(誇): In simplified form, 言(言) ('words') is removed, leaving only 夸 to represent boasting, simplifying by removing the semantic component."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "words"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他总爱夸自己会说多种语言(他總愛夸自己會說多種語言)。",
+      "pinyin": "Tā zǒng ài kuā zìjǐ huì shuō duō zhǒng yǔyán.",
+      "english": "He always loves to boast about his ability to speak multiple languages."
+    },
+    {
+      "chinese": "他在聚会中夸自己的财富(他在聚會中夸自己的財富)，引得旁人侧目(引得旁人側目)。",
+      "pinyin": "Tā zài jùhuì zhōng kuā zìjǐ de cáifù, yǐn de pángrén cèmù.",
+      "english": "He boasts about his wealth at the party, drawing sideways glances from others."
+    }
+  ]
+}

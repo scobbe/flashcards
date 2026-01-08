@@ -1,0 +1,39 @@
+{
+  "simplified": "遥",
+  "traditional": "遙",
+  "pinyin": "yáo",
+  "english": "distant; remote",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 辶(辶) (chuò, 'movement') + phonetic: 杳(杳) (yǎo, 'hidden') = signifies moving away into obscurity or distance -> 'distant; remote'",
+    "interpretation": "The character 遥(遙) (yáo, 'distant; remote') combines the idea of movement with the element 杳(杳) (yǎo, 'hidden'), suggesting movement that leads to a place so far it's hidden from view.",
+    "simplification": "遥(遙) retains 杳(杳) while the traditional 辶(辶) ('movement') remains unchanged, maintaining both meaning and phonetic elements for clarity."
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "movement"
+    },
+    {
+      "char": "杳",
+      "trad": "杳",
+      "pinyin": "yǎo",
+      "english": "hidden"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那遥远的山川藏着秘密(那遙遠的山川藏著秘密)。",
+      "pinyin": "Nà yáoyuǎn de shānchuān cángzhe mìmì。",
+      "english": "Those distant mountains conceal secrets."
+    },
+    {
+      "chinese": "我们登上高峰(我們登上高峰)，远望遥远村庄(遠望遙遠村莊)。",
+      "pinyin": "Wǒmen dēng shàng gāofēng, yuǎn wàng yáoyuǎn cūnzhuāng。",
+      "english": "We climbed the high peak and gazed at the distant village."
+    }
+  ]
+}

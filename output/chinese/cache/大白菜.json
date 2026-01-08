@@ -1,0 +1,50 @@
+{
+  "simplified": "大白菜",
+  "traditional": "大白菜",
+  "pinyin": "dàbáicài",
+  "english": "Chinese cabbage",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big\") + 白(白) (bái, \"white\") + 菜(菜) (cài, \"vegetable\")",
+    "interpretation": "大白菜(大白菜) (dàbáicài, \"Chinese cabbage\") refers to the large, white leafy vegetable commonly found in Chinese cuisine. The combination of 大(大) (dà, \"big\"), 白(白) (bái, \"white\"), and 菜(菜) (cài, \"vegetable\") emphasizes the large size and pale color of this cabbage variety, distinguishing it from other vegetables.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; large; major"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white; clear; bright"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; greens"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了大白菜(我買了大白菜)。",
+      "pinyin": "Wǒ mǎile dàbáicài.",
+      "english": "I bought Chinese cabbage."
+    },
+    {
+      "chinese": "他从市场买大白菜(他從市場買大白菜)，准备做泡菜(準備做泡菜)。",
+      "pinyin": "Tā cóng shìchǎng mǎi dàbáicài, zhǔnbèi zuò pàocài.",
+      "english": "He bought Chinese cabbage from the market and is ready to make pickles."
+    },
+    {
+      "chinese": "大白菜营养丰富(大白菜營養豐富)，非常适合做汤(非常適合做湯)。",
+      "pinyin": "Dàbáicài yíngyǎng fēngfù, fēicháng shìhé zuò tāng.",
+      "english": "Chinese cabbage is nutritious and is very suitable for making soup."
+    }
+  ]
+}

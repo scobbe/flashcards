@@ -1,0 +1,26 @@
+{
+  "simplified": "㕣",
+  "traditional": "㕣",
+  "pinyin": "miǎn",
+  "english": "look over",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person looking over at something or surveying the area",
+    "interpretation": "The character 㕣 visually represents the action of a person looking over or surveying, capturing the essence of its meaning directly.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他㕣了菜单(他㕣了菜單)，准备点餐(準備點餐)。",
+      "pinyin": "Tā miǎn le càidān, zhǔnbèi diǎncān.",
+      "english": "He looked over the menu and prepared to order."
+    },
+    {
+      "chinese": "老师㕣考卷(老師㕣考卷)，指出错误(指出錯誤)。",
+      "pinyin": "Lǎoshī miǎn kǎojuàn, zhǐchū cuòwù.",
+      "english": "The teacher looked over the exam papers and pointed out the mistakes."
+    }
+  ]
+}

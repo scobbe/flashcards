@@ -1,0 +1,44 @@
+{
+  "simplified": "程",
+  "traditional": "程",
+  "pinyin": "chéng",
+  "english": "process; journey",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禾(禾) (hé, \"grain\") + phonetic: 呈(呈) (chéng) = processes involving grain -> process; journey",
+    "interpretation": "The character 程(程) (chéng, \"process; journey\") combines the semantic element 禾(禾) (hé, \"grain\") with the phonetic element 呈(呈) (chéng). This suggests tasks or processes related to agriculture, but its meaning has been generalized to include any kind of process or journey.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "呈",
+      "trad": "呈",
+      "pinyin": "chéng",
+      "english": "present"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他踏上征程去追寻梦想(他踏上征程去追尋夢想)。",
+      "pinyin": "Tā tà shàng zhēngchéng qù zhuīxún mèngxiǎng.",
+      "english": "He embarked on a journey to pursue his dreams."
+    },
+    {
+      "chinese": "学习的过程需要耐心(學習的過程需要耐心)，一步步积累经验(一步步積累經驗)。",
+      "pinyin": "Xuéxí de guòchéng xūyào nàixīn, yībùbù jīlěi jīngyàn.",
+      "english": "The learning process requires patience, and experience is accumulated step by step."
+    },
+    {
+      "chinese": "计算机进程管理复杂(計算機進程管理複雜)，系统优化提升效率(系統優化提升效率)。",
+      "pinyin": "Jìsuànjī jìnchéng guǎnlǐ fùzá, xìtǒng yōuhuà tíshēng xiàolǜ.",
+      "english": "Computer process management is complex, but system optimization enhances efficiency."
+    }
+  ]
+}

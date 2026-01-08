@@ -1,0 +1,39 @@
+{
+  "simplified": "岭",
+  "traditional": "嶺",
+  "pinyin": "lǐng",
+  "english": "ridge; mountain range",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "山(山) (shān, \"mountain\") as semantic + 領(領) (lǐng, \"neck, collar\") as phonetic = mountain ridge -> ridge; mountain range",
+    "interpretation": "The character combines 山(山) (shān, \"mountain\") to convey the concept of a mountainous terrain with the phonetic 領(領) (lǐng, \"neck, collar\") to suggest sound, emphasizing the ridge-like quality of a mountain range.",
+    "simplification": "Simplified by replacing the phonetic 領(領) (lǐng, \"neck, collar\") with a similar-looking and phonetically matching component 岭(岭)."
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "領",
+      "trad": "領",
+      "pinyin": "lǐng",
+      "english": "neck, collar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山岭蜿蜒(山嶺蜿蜒)，远处连绵不绝(遠處連綿不絕)。",
+      "pinyin": "shān lǐng wān yán, yuǎn chù lián mián bù jué.",
+      "english": "The ridge winds through the mountains, with endless ranges in the distance."
+    },
+    {
+      "chinese": "这条岭贯穿全山脉(這條嶺貫穿全山脈)。",
+      "pinyin": "zhè tiáo lǐng guàn chuān quán shān mài.",
+      "english": "This ridge runs through the entire mountain range."
+    }
+  ]
+}

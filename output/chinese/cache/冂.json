@@ -1,0 +1,26 @@
+{
+  "simplified": "冂",
+  "traditional": "冂",
+  "pinyin": "jiōng",
+  "english": "open country",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts open country with three lines representing the territory outside city walls",
+    "interpretation": "冂(冂) (jiōng, \"open country\") effectively represents an unbounded area, signifying the open and vast spaces beyond city boundaries, aligning with the concept of an uncontaminated countryside.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个字的偏旁冂(冂)，显示了开放乡村的意境(顯示了開放鄉村的意境)。",
+      "pinyin": "Zhège zì de piānpáng jiōng, xiǎnshìle kāifàng xiāngcūn de yìjìng.",
+      "english": "The radical '冂' in this character reveals the imagery of an open countryside."
+    },
+    {
+      "chinese": "在古文献中(在古文獻中)，冂常被用来象征广大国土(冂常被用來象徵廣大國土)。",
+      "pinyin": "Zài gǔwénxiàn zhōng, jiōng cháng bèi yòng lái xiàngzhēng guǎngdà guótǔ.",
+      "english": "In ancient texts, '冂' was often used to symbolize vast territories."
+    }
+  ]
+}

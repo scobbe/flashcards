@@ -1,0 +1,31 @@
+{
+  "simplified": "火锅",
+  "traditional": "火鍋",
+  "pinyin": "huǒguō",
+  "english": "hot pot",
+  "etymology": {
+    "type": "compound word",
+    "description": "火(火) (huǒ, \"fire\"), 锅(鍋) (guō, \"pot\") - a pot in which food is cooked over a fire, typically at the table",
+    "interpretation": "火鍋(huǒguō) (huǒ, \"fire\" + guō, \"pot\") literally denotes a pot heated by fire. It refers to a communal dish where ingredients are cooked together at the table in a simmering pot of broth. The term captures the direct culinary method of combining fire and pot for cooking.",
+    "simplification": "火锅 => 火鍋"
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢吃火锅(我很喜歡吃火鍋)。",
+      "pinyin": "Wǒ hěn xǐhuān chī huǒguō.",
+      "english": "I really like to eat hot pot."
+    },
+    {
+      "chinese": "每到冬天(每到冬天)，朋友们围坐一起吃火锅(朋友們圍坐一起吃火鍋)。",
+      "pinyin": "Měi dào dōngtiān, péngyǒu men wéizuò yīqǐ chī huǒguō.",
+      "english": "Every winter, friends sit around together eating hot pot."
+    },
+    {
+      "chinese": "这家店的火锅(這家店的火鍋)，又麻又辣(又麻又辣)。",
+      "pinyin": "Zhè jiā diàn de huǒguō, yòu má yòu là.",
+      "english": "The hot pot at this restaurant is both numbing and spicy."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "示",
+  "traditional": "示",
+  "pinyin": "shì",
+  "english": "to show/divine",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an altar -> additional strokes added to distinguish from unrelated characters",
+    "interpretation": "Originally, 示(示) (shì, \"to show/divine\") depicted an altar, hinting at its usage in rites and ceremonies. Additional strokes differentiated it from similar ancient characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师示范操作(老師示範操作)，让同学更易理解(讓同學更易理解)。",
+      "pinyin": "lǎo shī shì fàn cāo zuò, ràng tóng xué gèng yì lǐ jiě。",
+      "english": "The teacher demonstrates the operation, making it easier for students to understand."
+    },
+    {
+      "chinese": "祭司示天意(祭司示天意)，点燃希望之火(點燃希望之火)。",
+      "pinyin": "jì sì shì tiān yì, diǎn rán xī wàng zhī huǒ。",
+      "english": "The priest divines the will of heaven, igniting the flame of hope."
+    },
+    {
+      "chinese": "古人以卜示未来(古人以卜示未來)。",
+      "pinyin": "gǔ rén yǐ bǔ shì wèi lái。",
+      "english": "Ancient people used divination to foretell the future."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "拉制",
+  "traditional": "拉製",
+  "pinyin": "lāzhì",
+  "english": "metal drawing process",
+  "etymology": {
+    "type": "compound word",
+    "description": "拉(拉) (lā, \"pull\") + 制(製) (zhì, \"make or manufacture\") comes together to refer to the action of pulling or drawing a material, specifically in a manufacturing context.",
+    "interpretation": "The combination of 拉(拉) (lā, \"pull\") and 制(製) (zhì, \"make or manufacture\") reflects a process in manufacturing where metal is drawn out through pulling, a common technique in the fabrication of metal products.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "pull; drag; draw out"
+    },
+    {
+      "char": "制",
+      "trad": "製",
+      "pinyin": "zhì",
+      "english": "make; manufacture; control; system"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "现代工厂运用拉制技术(現代工廠運用拉製技術)，制造精密金属线材(製造精密金屬線材)。",
+      "pinyin": "Xiàndài gōngchǎng yùnyòng lāzhì jìshù, zhìzào jīngmì jīnshǔ xiàncái。",
+      "english": "Modern factories use the metal drawing process to manufacture precision metal wires."
+    },
+    {
+      "chinese": "借助拉制工艺(借助拉製工藝)，金属板材变得更加坚韧(金屬板材變得更加堅韌)。",
+      "pinyin": "Jièzhù lāzhì gōngyì, jīnshǔ bǎncái biàn de gèngjiā jiānrèn。",
+      "english": "With the help of the metal drawing process, metal plates become even tougher."
+    }
+  ]
+}

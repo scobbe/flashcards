@@ -1,0 +1,31 @@
+{
+  "simplified": "曲",
+  "traditional": "曲",
+  "pinyin": "qū",
+  "english": "bent",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "C (outer curves) + 曲 (bent lines) = object depicted with a curve -> bent",
+    "interpretation": "The character 曲(曲) (qū, \"bent\") visually represents the concept of bending or curving with its structure. The two curved lines symbolize bending, illustrating the fundamental meaning of the character.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小河弯曲(小河彎曲)。",
+      "pinyin": "Xiǎo hé wān qū.",
+      "english": "The small river is bent."
+    },
+    {
+      "chinese": "山路曲折(山路曲折)，尽显雄伟(盡顯雄偉)。",
+      "pinyin": "Shān lù qūzhé, jǐn xiǎn xióngwěi.",
+      "english": "The mountain road is winding, fully showcasing its grandeur."
+    },
+    {
+      "chinese": "他的胡须微微曲(他的鬍鬚微微曲)，仿佛在诉说故事(彷彿在訴說故事)。",
+      "pinyin": "Tā de húxū wēi wēi qū, fǎngfú zài sùshuō gùshi.",
+      "english": "His whiskers are slightly bent, as if telling a story."
+    }
+  ]
+}

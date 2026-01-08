@@ -1,0 +1,44 @@
+{
+  "simplified": "延",
+  "traditional": "延",
+  "pinyin": "yán",
+  "english": "prolong",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "彳(彳) (chì, \"walking\") + 止(止) (zhǐ, \"foot\") = travel far -> 㢟 extended with a top stroke to indicate prolonged usage",
+    "interpretation": "延(yán, \"prolong\") originally depicted walking far, symbolizing distance or extension. The addition of a distinguishing stroke made it an ideogram, emphasizing the sense of prolongation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "walking"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "假期因坏天气而被延长(假期因壞天氣而被延長)。",
+      "pinyin": "Jiàqī yīn huài tiānqì ér bèi yáncháng.",
+      "english": "The holiday was prolonged due to bad weather."
+    },
+    {
+      "chinese": "我们希望能延长比赛时间(我們希望能延長比賽時間)，以便让更多人参与(以便讓更多人參與)。",
+      "pinyin": "Wǒmen xīwàng néng yáncháng bǐsài shíjiān, yǐbiàn ràng gèng duō rén cānyù.",
+      "english": "We hope to extend the game time so that more people can participate."
+    },
+    {
+      "chinese": "医生建议延缓手术(醫生建議延緩手術)。",
+      "pinyin": "Yīshēng jiànyì yánhuǎn shǒushù.",
+      "english": "The doctor recommended postponing the surgery."
+    }
+  ]
+}

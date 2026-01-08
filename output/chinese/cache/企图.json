@@ -1,0 +1,44 @@
+{
+  "simplified": "企图",
+  "traditional": "企圖",
+  "pinyin": "qǐtú",
+  "english": "attempt; try; intend",
+  "etymology": {
+    "type": "compound word",
+    "description": "企(企) (qǐ, \"to plan or stand on tiptoe\") and 图(圖) (tú, \"to plan or intend\")",
+    "interpretation": "The combination of 企(企) (qǐ, \"to plan or stand on tiptoe\") and 图(圖) (tú, \"to plan or intend\") expresses the notion of actively planning or intending to achieve a goal. Both components involve aspects of making a deliberate effort or intention.",
+    "simplification": "simplified from 企圖"
+  },
+  "parts": [
+    {
+      "char": "企",
+      "trad": "企",
+      "pinyin": "qǐ",
+      "english": "to plan; stand on tiptoe; look forward to"
+    },
+    {
+      "char": "图",
+      "trad": "圖",
+      "pinyin": "tú",
+      "english": "to plan; to scheme; intention; chart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他企图逃跑(他企圖逃跑)。",
+      "pinyin": "Tā qǐtú táopǎo.",
+      "english": "He attempted to escape."
+    },
+    {
+      "chinese": "公司企图拓展市场(公司企圖拓展市場)，忽视了内部管理(忽視了內部管理)。",
+      "pinyin": "Gōngsī qǐtú tuòzhǎn shìchǎng, hūshìle nèibù guǎnlǐ.",
+      "english": "The company attempted to expand into the market while neglecting internal management."
+    },
+    {
+      "chinese": "他企图说服老师(他企圖說服老師)，改变态度(改變態度)。",
+      "pinyin": "Tā qǐtú shuōfú lǎoshī, gǎibiàn tàidù.",
+      "english": "He attempted to persuade his teacher to change his attitude."
+    }
+  ]
+}

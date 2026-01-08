@@ -1,0 +1,39 @@
+{
+  "simplified": "皂",
+  "traditional": "皂",
+  "pinyin": "zào",
+  "english": "acorn",
+  "etymology": {
+    "type": "variant form",
+    "description": "皂 (zào) is a variant form of 皁, which is in turn a variant form of 早 (zǎo, \"early\") retaining its original sense \"acorn.\"",
+    "interpretation": "皂 (zào) originally represented the concept of \"acorn\" before it was adapted to signify colors such as black. This transformation shows the fluidity of meanings as characters evolved over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皁",
+      "trad": "皁",
+      "pinyin": "zào",
+      "english": "acorn"
+    },
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋风吹过树林时(秋風吹過樹林時)，地上落满了皂和落叶(地上落滿了皂和落葉)。",
+      "pinyin": "qiū fēng chuīguò shùlín shí, dìshàng luò mǎn le zào hé luòyè.",
+      "english": "When the autumn wind blows through the forest, the ground is covered with acorns and fallen leaves."
+    },
+    {
+      "chinese": "山野中不时有皂掉落(山野中不時有皂掉落)，象征着秋天的丰收(象徵著秋天的豐收)。",
+      "pinyin": "shānyě zhōng bùshí yǒu zào diàoluò, xiàngzhēng zhe qiūtiān de fēngshōu.",
+      "english": "In the hills and fields, acorns occasionally fall, symbolizing the abundant harvest of autumn."
+    }
+  ]
+}

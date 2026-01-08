@@ -1,0 +1,44 @@
+{
+  "simplified": "蒙",
+  "traditional": "蒙",
+  "pinyin": "méng",
+  "english": "Mongol; cover; ignorant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艸(艸) (cǎo, \"grass\") + phonetic: 朦(朦) (méng) = grass-covered state -> cover, ignorance",
+    "interpretation": "The character 蒙(蒙) (méng) combines 艸(艸) (cǎo, \"grass\") as the semantic element, representing covering, with 朦(朦) (méng) as the phonetic element, suggesting the sound. It reflects states of being obscured or ignorant, often metaphorically 'covered.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "朦",
+      "trad": "朦",
+      "pinyin": "méng",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用布蒙住食物(他用布蒙住食物)。",
+      "pinyin": "Tā yòng bù méng zhù shíwù.",
+      "english": "He covered the food with a cloth."
+    },
+    {
+      "chinese": "他听信谣言(他聽信謠言)，显得十分蒙昧(顯得十分蒙昧)。",
+      "pinyin": "Tā tīngxìn yáoyán, xiǎnde shífēn méngmèi.",
+      "english": "He believed the rumors, appearing utterly ignorant."
+    },
+    {
+      "chinese": "他的祖先是蒙古人(他的祖先是蒙古人)。",
+      "pinyin": "Tā de zǔxiān shì ménggǔ rén.",
+      "english": "His ancestors were Mongols."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "什么",
+  "traditional": "什麼",
+  "pinyin": "shénme",
+  "english": "what",
+  "etymology": {
+    "type": "compound word",
+    "description": "什(什) (shén, \"what\") and 麼(麼) (me, marker for questions or emphasis)",
+    "interpretation": "什麼(什麼) (shénme, \"what\") combines 什(什) (shén, \"what\") with 麼(麼) (me, a particle often used to form questions or provide emphasis), creating a term used to ask questions or refer to things in an indefinite manner. This pairing is a common way to formulate questions in Chinese.",
+    "simplification": "Simplified form 什麼 is 什么."
+  },
+  "parts": [
+    {
+      "char": "什",
+      "trad": "什",
+      "pinyin": "shén",
+      "english": "what; ten"
+    },
+    {
+      "char": "么",
+      "trad": "麼",
+      "pinyin": "me",
+      "english": "marker for questions or emphasis"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你今天穿什么(你今天穿什麼)？",
+      "pinyin": "Nǐ jīntiān chuān shénme?",
+      "english": "What are you wearing today?"
+    },
+    {
+      "chinese": "妈妈问孩子(媽媽問孩子)，想要什么(想要什麼)？",
+      "pinyin": "Māmā wèn háizi, xiǎng yào shénme?",
+      "english": "Mother asked the child, 'What do you want?'"
+    },
+    {
+      "chinese": "请问这是什么(請問這是什麼)？",
+      "pinyin": "Qǐngwèn zhè shì shénme?",
+      "english": "Excuse me, what is this?"
+    }
+  ]
+}

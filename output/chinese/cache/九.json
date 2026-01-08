@@ -1,0 +1,31 @@
+{
+  "simplified": "九",
+  "traditional": "九",
+  "pinyin": "jiǔ",
+  "english": "nine",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized hand with bent elbow -> original meaning 'elbow' lost -> adopted as 'nine' for metaphorical bumping against ten",
+    "interpretation": "九(九) (jiǔ, 'nine') originated as a depiction of a hand with a bent elbow, similar to 手(手) (shǒu, 'hand'). Over time, its original meaning 'elbow' was lost, and it came to represent 'nine' symbolizing the bump of a fist against ten.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有九本书(我有九本書)。",
+      "pinyin": "Wǒ yǒu jiǔ běn shū.",
+      "english": "I have nine books."
+    },
+    {
+      "chinese": "九个学生努力学习(九個學生努力學習)，追求卓越(追求卓越)。",
+      "pinyin": "Jiǔ gè xuéshēng nǔlì xuéxí, zhuīqiú zhuóyuè.",
+      "english": "Nine students study diligently and pursue excellence."
+    },
+    {
+      "chinese": "房间里有九把椅子(房間裡有九把椅子)。",
+      "pinyin": "Fángjiān lǐ yǒu jiǔ bǎ yǐzi.",
+      "english": "There are nine chairs in the room."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "或",
+  "traditional": "或",
+  "pinyin": "huò",
+  "english": "or; maybe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "戈(戈) (gē, \"spear\") + 口(口) (kǒu, \"mouth\") + 一(一) (yī, \"one\") = a person using a spear with an open mouth -> uncertain decision or possibility -> final meaning 'or; maybe'",
+    "interpretation": "The character combines a depiction of a weapon with a mouth, suggesting someone deliberating verbally while holding a spear, thus conveying uncertainty or consideration between options.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你可以挑选红色(你可以挑選紅色)，或蓝色(或藍色)。",
+      "pinyin": "nǐ kěyǐ tiāoxuǎn hóngsè, huò lán sè.",
+      "english": "You can choose red, or blue."
+    },
+    {
+      "chinese": "他今天到达(他今天到達)，或明天再来(或明天再來)。",
+      "pinyin": "tā jīntiān dàodá, huò míngtiān zài lái.",
+      "english": "He arrives today, or comes again tomorrow."
+    },
+    {
+      "chinese": "午餐时(午餐時)，你可选择面条(你可選擇麵條)，或米饭(或米飯)？",
+      "pinyin": "wǔcān shí, nǐ kě xuǎnzé miàntiáo, huò mǐfàn?",
+      "english": "At lunch, you may choose noodles, or rice?"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "皀",
+  "traditional": "皀",
+  "pinyin": "none",
+  "english": "none",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bowl of rice on a stand",
+    "interpretation": "皀(皀) illustrates a simple image of a bowl containing rice placed on a pedestal. This image effectively conveys the concept of a staple food item presented respectfully.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "夜空中皀的星光闪烁(夜空中皀的星光閃爍)。",
+      "pinyin": "Yèkōng zhōng càn de xīngguāng shǎnshuò.",
+      "english": "Under the night sky, the brilliant starlight twinkles."
+    },
+    {
+      "chinese": "他调色板上丰富的皀色让人惊叹(他調色板上豐富的皀色讓人驚嘆)。",
+      "pinyin": "Tā tiáosè bǎn shàng fēngfù de càn sè ràng rén jīngtàn.",
+      "english": "The rich càn hue on his palette astonishes viewers."
+    },
+    {
+      "chinese": "清晨日出时(清晨日出時)，薄雾中映出一抹皀光(薄霧中映出一抹皀光)。",
+      "pinyin": "Qīngchén rìchū shí, bó wù zhōng yìng chū yī mǒ càn guāng.",
+      "english": "At dawn, as the sun rises, a glimpse of càn light appears through the mist."
+    }
+  ]
+}

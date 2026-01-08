@@ -1,0 +1,44 @@
+{
+  "simplified": "育",
+  "traditional": "育",
+  "pinyin": "yù",
+  "english": "nurture; raise; educate; breed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "⺹(⺹) (lǎo, \"old\") + 子(子) (zǐ, \"child\") = associated with growing or raising -> 育(育)",
+    "interpretation": "The character 育(育) (yù, \"nurture\") combines ⺹(⺹) (lǎo, \"old\") to suggest wisdom or age, with 子(子) (zǐ, \"child\") to represent the young. This represents the concept of nurturing or educating younger generations which is an integral part of raising or breeding.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "⺹",
+      "trad": "⺹",
+      "pinyin": "lǎo",
+      "english": "old"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用爱心育儿(他用愛心育兒)。",
+      "pinyin": "Tā yòng àixīn yù ér.",
+      "english": "He nurtures his children with love."
+    },
+    {
+      "chinese": "学校严谨治学(學校嚴謹治學)，精心育才(精心育才)。",
+      "pinyin": "Xuéxiào yánjǐn zhìxué, jīngxīn yùcái.",
+      "english": "The school pursues rigorous scholarship and carefully nurtures talented students."
+    },
+    {
+      "chinese": "科学家致力于动物育种(科學家致力於動物育種)。",
+      "pinyin": "Kēxuéjiā zhìlì yú dòngwù yùzhǒng.",
+      "english": "Scientists are committed to animal breeding."
+    }
+  ]
+}

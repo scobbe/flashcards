@@ -2,25 +2,25 @@
   "simplified": "匸",
   "traditional": "匸",
   "pinyin": "xì",
-  "english": "enclosure",
+  "english": "box",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a graphic sign 𠃊 to symbolize something that hides something or someone",
-    "interpretation": "The character 匸(xì, \"enclosure\") depicts a shape resembling a lid or cover, suggesting something that closes or conceals a space.",
-    "simplification": "None, since 匸(xì, \"enclosure\") is both the simplified and traditional form."
+    "type": "Pictogram",
+    "description": "𠃊 (graphic sign symbolizing something hidden) ->匸 (depicts a box or container that hides something)",
+    "interpretation": "The character 匸(xì, 'box') is a pictogram representing a container used to conceal something. The form aligns with its purpose of symbolizing concealment.",
+    "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "学者研究匸的结构(學者研究匸的結構)，认为其代表一种围合概念(認為其代表一種圍合概念)。",
-      "pinyin": "Xuézhě yánjiū xì de jiégòu, rènwéi qí dàibiǎo yī zhǒng wéihé gàiniàn.",
-      "english": "Scholars study the structure of the enclosure, believing it represents a concept of encapsulation."
+      "chinese": "我在匸(匸)中发现了一枚古钱(我在匸(匸)中發現了一枚古錢)。",
+      "pinyin": "Wǒ zài xì zhōng fāxiànle yī méi gǔqián.",
+      "english": "I discovered an ancient coin in the box."
     },
     {
-      "chinese": "古籍记载匸的演变(古籍記載匸的演變)，体现古人智慧(體現古人智慧)。",
-      "pinyin": "Gǔjí jìzǎi xì de yǎnbiàn, tǐxiàn gǔrén zhìhuì.",
-      "english": "Ancient texts record the evolution of the enclosure, reflecting the wisdom of the ancients."
+      "chinese": "他用匸(匸)装载宝物(他用匸(匸)裝載寶物)，悄悄把它藏起来(悄悄把它藏起來)。",
+      "pinyin": "Tā yòng xì zhuāngzài bǎowù, qiāoqiāo bǎ tā cángqǐlái.",
+      "english": "He used the box to store treasures and secretly hid them."
     }
   ]
 }

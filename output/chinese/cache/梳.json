@@ -1,0 +1,39 @@
+{
+  "simplified": "梳",
+  "traditional": "梳",
+  "pinyin": "shū",
+  "english": "comb",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木(木) (mù, \"wood\") + phonetic: 疏(疏) (shū, \"sparse\") = wood used for making combs -> comb",
+    "interpretation": "The character 梳(shū) combines 木(mù, \"wood\") to indicate that combs are traditionally made from wood, with 疏(shū, \"sparse\") as the phonetic component providing the sound. This highlights both the material and the function of the comb in separating hair.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "疏",
+      "trad": "疏",
+      "pinyin": "shū",
+      "english": "sparse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈帮我梳头发(媽媽幫我梳頭髮)。",
+      "pinyin": "Māmā bāng wǒ shū tóufà.",
+      "english": "Mom combs my hair."
+    },
+    {
+      "chinese": "每天早晨她梳头发(每天早晨她梳頭髮)，开启美好的新一天(開啟美好的新一天)。",
+      "pinyin": "Měitiān zǎochén tā shū tóufà, kāiqǐ měihǎo de xīn yītiān.",
+      "english": "Every morning she combs her hair, and begins a wonderful new day."
+    }
+  ]
+}

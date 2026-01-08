@@ -1,0 +1,31 @@
+{
+  "simplified": "高",
+  "traditional": "高",
+  "pinyin": "gāo",
+  "english": "high; tall; above; elevated",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts a tall building",
+    "interpretation": "The character 高(gāo, \"high; tall\") visually represents a tall structure or building, symbolizing height or elevation. Unlike 京(jīng, \"capital\"), it is straightforwardly a representation of height.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座山高(這座山高)。",
+      "pinyin": "Zhè zuò shān gāo.",
+      "english": "This mountain is high."
+    },
+    {
+      "chinese": "那棵树长得高(那棵樹長得高)，比其他树高很多(比其他樹高很多)。",
+      "pinyin": "Nà kē shù zhǎng de gāo, bǐ qítā shù gāo hěn duō.",
+      "english": "That tree grows tall, much taller than the other trees."
+    },
+    {
+      "chinese": "飞机在高空飞行(飛機在高空飛行)。",
+      "pinyin": "Fēijī zài gāokōng fēixíng.",
+      "english": "The airplane flies in high altitude."
+    }
+  ]
+}

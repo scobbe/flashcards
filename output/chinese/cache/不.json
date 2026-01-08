@@ -1,0 +1,31 @@
+{
+  "simplified": "不",
+  "traditional": "不",
+  "pinyin": "bù",
+  "english": "not",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicted as a calyx or flower stem, indicating negation - symbolically suggesting something not fully formed or not happening.",
+    "interpretation": "The character 不(bù, \"not\") started as a pictographic representation of a calyx or incomplete form, symbolizing the idea of negation or absence.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我不喜欢吃辣椒(我不喜歡吃辣椒)。",
+      "pinyin": "Wǒ bù xǐhuān chī làjiāo.",
+      "english": "I do not like eating chili."
+    },
+    {
+      "chinese": "他不是医生(他不是醫生)，而是老师(而是老師)。",
+      "pinyin": "Tā bù shì yīshēng, ér shì lǎoshī.",
+      "english": "He is not a doctor, but a teacher."
+    },
+    {
+      "chinese": "天气不好(天氣不好)，我们不出门(我們不出門)。",
+      "pinyin": "Tiānqì bù hǎo, wǒmen bù chūmén.",
+      "english": "The weather is bad, and we do not go out."
+    }
+  ]
+}

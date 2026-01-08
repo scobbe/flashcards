@@ -1,0 +1,38 @@
+{
+  "simplified": "晶晶",
+  "traditional": "晶晶",
+  "pinyin": "jīngjīng",
+  "english": "sparkling; gleaming",
+  "etymology": {
+    "type": "compound word",
+    "description": "晶(晶) (jīng, \"sparkle\") repeated for emphasis, indicating something that is sparkling or gleaming.",
+    "interpretation": "The repetition of 晶(晶) (jīng, \"sparkle\") emphasizes the brightness or gleaming quality of an object or light. In Chinese, repeating a character can intensify the meaning, suggesting something that is shining or reflecting light vibrantly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "sparkle; sparkle; crystal; bright"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜空布满星辰(夜空佈滿星辰)，晶晶光芒点缀其间(晶晶光芒點綴其間)。",
+      "pinyin": "Yè kōng bù mǎn xīngchén, jīngjīng guāngmáng diǎn zhuì qí jiān.",
+      "english": "The night sky was filled with stars, and sparkling light decorated it."
+    },
+    {
+      "chinese": "湖水泛起晶晶波纹(湖水泛起晶晶波紋)，给寂静的夜添了生机(給寂靜的夜添了生機)。",
+      "pinyin": "Hú shuǐ fàn qǐ jīngjīng bōwén, gěi jìjìng de yè tiān le shēngjī.",
+      "english": "The lake water rippled with sparkling waves, adding life to the quiet night."
+    },
+    {
+      "chinese": "那颗钻石晶晶夺目(那顆鑽石晶晶奪目)。",
+      "pinyin": "Nà kē zuànshí jīngjīng duó mù.",
+      "english": "That diamond dazzled with a sparkling brilliance."
+    }
+  ]
+}

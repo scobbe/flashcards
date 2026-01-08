@@ -1,0 +1,51 @@
+{
+  "simplified": "走",
+  "traditional": "走",
+  "pinyin": "zǒu",
+  "english": "run",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Running man (original depiction) + 止(止) (zhǐ, \"foot\") added later -> top 夭(夭) (yāo, \"young\") simplified to 土(土) (tǔ, \"earth\"), bottom stylized as 龰 -> modern 走",
+    "interpretation": "The character originally depicted a man running, with an added foot to emphasize movement. Over time, elements like the top 夭(夭) were simplified to 土(土), and the bottom was stylized to 龰, although they are unrelated to the original meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "夭",
+      "trad": "夭",
+      "pinyin": "yāo",
+      "english": "young"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "龰",
+      "trad": "龰",
+      "pinyin": "yuè",
+      "english": "walking"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "看到前方火光时(看到前方火光時)，他急忙走向安全地带(他急忙走向安全地帶)。",
+      "pinyin": "Kàndào qiánfāng huǒguāng shí, tā jímáng zǒu xiàng ānquán dìdài.",
+      "english": "When he saw the firelight ahead, he hurriedly ran toward safety."
+    },
+    {
+      "chinese": "比赛开始后(比賽開始後)，选手们奋力走向终点(選手們奮力走向終點)。",
+      "pinyin": "Bǐsài kāishǐ hòu, xuǎnshǒu men fènlì zǒu xiàng zhōngdiǎn.",
+      "english": "After the race began, the contestants ran towards the finish line."
+    }
+  ]
+}

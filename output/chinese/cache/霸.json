@@ -1,0 +1,50 @@
+{
+  "simplified": "霸",
+  "traditional": "霸",
+  "pinyin": "bà",
+  "english": "overlord; tyrant; large; dominant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "革(革) (gé, \"change\") + 月(月) (yuè, \"moon\") = changes in moonlight -> 雨(雨) (yǔ, \"rain\") added -> final form 霸",
+    "interpretation": "The character 霸 originally depicted the concept of changes occurring with the moon, which connoted authority and dominance. The addition of 雨(雨) (yǔ, \"rain\") as a phonetic component refined its association with natural influence and dominance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "革",
+      "trad": "革",
+      "pinyin": "gé",
+      "english": "change"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    },
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢称霸武林(他喜歡稱霸武林)。",
+      "pinyin": "Tā xǐhuān chēng bà wǔlín.",
+      "english": "He enjoys dominating the martial arts world."
+    },
+    {
+      "chinese": "这座建筑设计得十分霸气(這座建築設計得十分霸氣)，引来众人赞叹(引來眾人讚歎)。",
+      "pinyin": "Zhè zuò jiànzhù shèjì dé shífēn bàqì, yǐn lái zhòng rén zàntàn.",
+      "english": "The building is designed in a strikingly dominant style, attracting widespread admiration."
+    },
+    {
+      "chinese": "那位霸主(那位霸主)独自统治着边疆(獨自統治著邊疆)。",
+      "pinyin": "Nà wèi bàzhǔ dúzì tǒngzhì zhe biānjiāng.",
+      "english": "That overlord rules the border alone."
+    }
+  ]
+}

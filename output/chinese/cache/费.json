@@ -1,0 +1,39 @@
+{
+  "simplified": "费",
+  "traditional": "費",
+  "pinyin": "fèi",
+  "english": "fee; expense; cost; to spend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "貝(貝) (bèi, 'shell/money') + 弗(弗) (fú, 'not') = related to payments and expenses -> fee",
+    "interpretation": "費(費) (fèi) represents matters related to expenses by combining 貝(貝) (bèi, 'shell/money'), which symbolizes wealth or money, with 弗(弗) (fú, 'not'), serving as the phonetic component. Historically, shells were used as currency, linking the character to financial transactions.",
+    "simplification": "費(費)→费(費): 貝(貝) (bèi, 'shell/money') was simplified by removing the inner strokes for a more streamlined form."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "shell/money"
+    },
+    {
+      "char": "弗",
+      "trad": "弗",
+      "pinyin": "fú",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我花了很多钱(我花了很多錢)，支付学费(支付學費)。",
+      "pinyin": "Wǒ huā le hěnduō qián, zhīfù xuéfèi.",
+      "english": "I spent a lot of money to pay tuition fees."
+    },
+    {
+      "chinese": "公司为新项目支出了高额费用(公司為新項目支出了高額費用)。",
+      "pinyin": "Gōngsī wèi xīn xiàngmù zhīchū le gāo’é fèiyòng.",
+      "english": "The company incurred high expenses for the new project."
+    }
+  ]
+}

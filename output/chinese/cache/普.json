@@ -1,0 +1,44 @@
+{
+  "simplified": "普",
+  "traditional": "普",
+  "pinyin": "pǔ",
+  "english": "universal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "並(並) (bìng, \"together\") + phonetic: 用(用) (yòng, \"use\") = spreading together wide and far -> universal",
+    "interpretation": "The character 普(pǔ, \"universal\") combines 並(bìng, \"together\") suggesting things aligned uniformly, with 用(yòng, \"use\") indicating an action applied broadly. This evokes the sense of something applied or spread universally.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "並",
+      "trad": "並",
+      "pinyin": "bìng",
+      "english": "together"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "真理普照人间(真理普照人間)。",
+      "pinyin": "Zhēnlǐ pǔ zhào rénjiān.",
+      "english": "Truth shines universally among people."
+    },
+    {
+      "chinese": "古代先贤提倡普及教育(古代先賢提倡普及教育)。",
+      "pinyin": "Gǔdài xiānxián tíchàng pǔjí jiàoyù.",
+      "english": "Ancient sages advocated universal education."
+    },
+    {
+      "chinese": "日新月异推动科技进步(日新月異推動科技進步)，普及知识改变生活(普及知識改變生活)。",
+      "pinyin": "Rìxīn yuèyì tuīdòng kējì jìnbù, pǔjí zhīshi gǎibiàn shēnghuó.",
+      "english": "Rapid changes propel technological progress, and the universal spread of knowledge transforms lives."
+    }
+  ]
+}

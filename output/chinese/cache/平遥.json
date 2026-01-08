@@ -1,0 +1,39 @@
+{
+  "simplified": "平遥",
+  "traditional": "平遙",
+  "pinyin": "Píngyáo",
+  "english": "Pingyao",
+  "etymology": {
+    "type": "compound word",
+    "description": "平(平) (píng, 'flat; peaceful') refers to flatness or tranquility, while 遥(遙) (yáo, 'distant; remote') suggests distance or remoteness. Together, 平遥(平遙) can describe a place known for its landscape or historical significance.",
+    "interpretation": "The combination of 平(平) (píng, 'flat; peaceful') and 遥(遙) (yáo, 'distant; remote') suggests a place that is tranquil and somewhat removed from bustling urban centers, reflecting the geography and historical heritage of Pingyao, a well-preserved ancient city in China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "平",
+      "trad": "平",
+      "pinyin": "píng",
+      "english": "flat; peaceful"
+    },
+    {
+      "char": "遥",
+      "trad": "遙",
+      "pinyin": "yáo",
+      "english": "distant; remote"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我去平遥旅游(我去平遙旅遊)。",
+      "pinyin": "Wǒ qù Píngyáo lǚyóu.",
+      "english": "I am going to visit Pingyao."
+    },
+    {
+      "chinese": "平遥古城风景优美(平遙古城風景優美)，吸引了许多游客(吸引了許多遊客)。",
+      "pinyin": "Píngyáo gǔchéng fēngjǐng yōuměi, xīyǐnle xǔduō yóukè.",
+      "english": "Pingyao Ancient City has beautiful scenery, attracting many visitors."
+    }
+  ]
+}

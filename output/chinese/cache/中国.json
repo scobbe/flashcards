@@ -1,0 +1,44 @@
+{
+  "simplified": "中国",
+  "traditional": "中國",
+  "pinyin": "zhōngguó",
+  "english": "China",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle; center\") + 国(國) (guó, \"country; nation\") combines to mean a centrally situated country, often referred to as China. The notion of \"Middle Kingdom\" reflects historical views of China's position in the world.",
+    "interpretation": "China is perceived historically as the central nation, a view dating back to ancient times when Chinese civilization was considered the heart of the world.",
+    "simplification": "Simplified 中 and 國 to 中 and 国"
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center"
+    },
+    {
+      "char": "国",
+      "trad": "國",
+      "pinyin": "guó",
+      "english": "country; nation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我来自中国(我來自中國)。",
+      "pinyin": "Wǒ láizì Zhōngguó.",
+      "english": "I come from China."
+    },
+    {
+      "chinese": "中国经济迅速发展(中國經濟迅速發展)，吸引了世界目光(吸引了世界目光)。",
+      "pinyin": "Zhōngguó jīngjì xùnsù fāzhǎn, xīyǐnle shìjiè mùguāng.",
+      "english": "China's economy is rapidly developing, attracting global attention."
+    },
+    {
+      "chinese": "中国的风景壮丽(中國的風景壯麗)，历史悠久(歷史悠久)。",
+      "pinyin": "Zhōngguó de fēngjǐng zhuànglì, lìshǐ yōujiǔ.",
+      "english": "China has magnificent landscapes and a long history."
+    }
+  ]
+}

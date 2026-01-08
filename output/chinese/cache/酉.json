@@ -1,0 +1,33 @@
+{
+  "simplified": "酉",
+  "traditional": "酉",
+  "pinyin": "yǒu",
+  "english": "complete cycle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a wine vessel with a pointed bottom -> original character for 酒(酒) (jiǔ, \"alcohol\")",
+    "interpretation": "酉(酉) (yǒu, \"complete cycle\") originally depicted a wine vessel, indicating the integral role of alcohol in traditional cycles, such as moon phases or ceremonial events. It is the original character for 酒(酒) (jiǔ, \"alcohol\"), highlighting its use in fermentation processes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每一次回望旧地(每一次回望舊地)，都仿佛见证了一个酉的完结(都彷彿見證了一個酉的完結)。",
+      "pinyin": "Měi yīcì huíwàng jiùdì, dōu fǎngfú jiànzhèngle yīgè yǒu de wánjié.",
+      "english": "Every time I look back, it seems to witness a complete cycle coming to an end."
+    },
+    {
+      "chinese": "日落黄昏后(日落黃昏後)，大地经历了一个酉的循环(大地經歷了一個酉的循環)。",
+      "pinyin": "Rìluò huánghūn hòu, dàdì jīnglìle yīgè yǒu de xúnhuán.",
+      "english": "After sunset, the land has undergone a complete cycle."
+    }
+  ]
+}

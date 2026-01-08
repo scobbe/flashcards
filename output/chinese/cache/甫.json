@@ -1,0 +1,31 @@
+{
+  "simplified": "甫",
+  "traditional": "甫",
+  "pinyin": "fǔ",
+  "english": "man",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a broad field, originally representing a seedling sprouting from the earth, later associated with 'man' or 'male name'.",
+    "interpretation": "Originally a pictogram representing soil and a growing plant, 甫(甫) (fǔ, 'man') evolved to also symbolize a person, often used in names as a prefix denoting masculinity or adulthood.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位正直的甫(他是一位正直的甫)。",
+      "pinyin": "Tā shì yī wèi zhèngzhí de fǔ.",
+      "english": "He is an upright man."
+    },
+    {
+      "chinese": "古时英豪皆尊甫为表率(古時英豪皆尊甫為表率)。",
+      "pinyin": "Gǔshí yīngháo jiē zūn fǔ wéi biǎolǜ.",
+      "english": "In ancient times, heroes all revered the man as a role model."
+    },
+    {
+      "chinese": "文史名家赞扬这位甫(文史名家讚揚這位甫)。",
+      "pinyin": "Wénshǐ míngjiā zànyáng zhè wèi fǔ.",
+      "english": "Prominent writers and historians praised this man."
+    }
+  ]
+}

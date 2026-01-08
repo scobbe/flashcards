@@ -1,0 +1,44 @@
+{
+  "simplified": "安",
+  "traditional": "安",
+  "pinyin": "ān",
+  "english": "peace; safe; quiet; calm",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "宀(宀) (mián, \"house\") + 女(女) (nǚ, \"a kneeling woman\") = a woman at ease in the house -> peace, safety, calm",
+    "interpretation": "The combination of a house and a kneeling woman conveys the sense of tranquility and safety; it symbolizes a harmonious and secure environment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "house"
+    },
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "a kneeling woman"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小村庄一直很安(小村莊一直很安)。",
+      "pinyin": "Xiǎo cūnzhuāng yīzhí hěn ān.",
+      "english": "The small village has always been peaceful."
+    },
+    {
+      "chinese": "经过风雨洗礼(經過風雨洗禮)，生活变得安(生活變得安)。",
+      "pinyin": "Jīngguò fēngyǔ xǐlǐ, shēnghuó biàn de ān.",
+      "english": "After enduring storms and rains, life becomes calm."
+    },
+    {
+      "chinese": "远离喧嚣后(遠離喧囂後)，他找到了内心的安(他找到了內心的安)。",
+      "pinyin": "Yuǎnlí xuānxiāo hòu, tā zhǎodàole nèixīn de ān.",
+      "english": "After escaping the hustle and bustle, he found inner peace."
+    }
+  ]
+}

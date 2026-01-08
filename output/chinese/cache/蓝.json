@@ -1,0 +1,44 @@
+{
+  "simplified": "蓝",
+  "traditional": "藍",
+  "pinyin": "lán",
+  "english": "blue; indigo",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 監(监) (jiān, \"supervise\") = phonetic 监 with 草 radical for plants -> indigo plant, blue color",
+    "interpretation": "The character 蓝(藍) (lán, \"blue\") uses 艹(艹) (cǎo, \"grass\") to signify its connection to plants, combined with 監(监) (jiān, \"supervise\") for phonetic purposes. It historically referred to the indigo dye derived from plants, which corresponds to its usage in denoting the color blue.",
+    "simplification": "蓝(藍) was simplified by altering the phonetic component 監(监) with its simpler variant 监(监), keeping the meaning intact."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "监",
+      "trad": "監",
+      "pinyin": "jiān",
+      "english": "supervise"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天空是蓝的(天空是藍的)。",
+      "pinyin": "Tiānkōng shì lán de.",
+      "english": "The sky is blue."
+    },
+    {
+      "chinese": "海洋很蓝(海洋很藍)，让人心旷神怡(讓人心曠神怡)。",
+      "pinyin": "Hǎiyáng hěn lán, ràng rén xīnkuàng shényí.",
+      "english": "The ocean is blue, making people feel relaxed."
+    },
+    {
+      "chinese": "她穿着蓝裙子(她穿著藍裙子)，看起来十分迷人(看起來十分迷人)。",
+      "pinyin": "Tā chuānzhe lán qúnzi, kàn qǐlái shífēn mírén.",
+      "english": "She wears a blue dress, looking very charming."
+    }
+  ]
+}

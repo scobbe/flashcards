@@ -1,0 +1,26 @@
+{
+  "simplified": "匕",
+  "traditional": "匕",
+  "pinyin": "bǐ",
+  "english": "cane",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the shape of a spoon or dagger, indicating an object with a handle.",
+    "interpretation": "The character 匕 (bǐ, \"cane\") originally depicts a spoon or dagger, highlighting its application as a tool with a handle, which conceptually relates to a cane.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用匕支撑自己(他用匕支撐自己)，慢慢走过崎岖的小路(慢慢走過崎嶇的小路)。",
+      "pinyin": "Tā yòng bǐ zhīchēng zìjǐ, màn màn zǒuguò qíqū de xiǎolù.",
+      "english": "He supports himself with his cane, and slowly walks along the rugged path."
+    },
+    {
+      "chinese": "老人依靠匕(老人依靠匕)，缓缓行走在乡间小道(緩緩行走在鄉間小道)。",
+      "pinyin": "Lǎorén yīkào bǐ, huǎn huǎn xíngzǒu zài xiāngjiān xiǎodào.",
+      "english": "The old man relies on his cane, and gently walks on the country lane."
+    }
+  ]
+}

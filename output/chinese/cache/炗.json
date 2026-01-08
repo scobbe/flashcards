@@ -1,0 +1,39 @@
+{
+  "simplified": "炗",
+  "traditional": "炗",
+  "pinyin": "jiǒng",
+  "english": "light",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "火(火) (huǒ, \"fire\") + 向(向) (xiàng, \"towards\") = indication of direction with fire -> light",
+    "interpretation": "The character combines 火(火) (huǒ, \"fire\") as the semantic component indicating light or heat, with 向(向) (xiàng, \"towards\") serving as the phonetic component. This suggests illuminating in a direction or the idea of light extending outward.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "向",
+      "trad": "向",
+      "pinyin": "xiàng",
+      "english": "towards"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "夕阳炗映(夕陽炗映)，湖面银光闪烁(湖面銀光閃爍)。",
+      "pinyin": "Xīyáng jiǒng yìng, húmiàn yín guāng shǎn shuò.",
+      "english": "The setting sun shines brightly, and the lake reflects a silvery glow."
+    },
+    {
+      "chinese": "月夜微风起(月夜微風起)，古刹炗出清辉(古剎炗出清輝)。",
+      "pinyin": "Yuèyè wēifēng qǐ, gǔchà jiǒng chū qīng huī.",
+      "english": "On a moonlit night, as a gentle breeze stirs, the ancient temple radiates a serene light."
+    }
+  ]
+}

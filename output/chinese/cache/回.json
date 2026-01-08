@@ -1,0 +1,31 @@
+{
+  "simplified": "回",
+  "traditional": "回",
+  "pinyin": "huí",
+  "english": "return; turn back",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts rotation (originally a spiral) -> concept of returning or turning back",
+    "interpretation": "The character 回(回) (huí, \"return\") visually represents a circular motion or spiral, symbolizing the action of returning or coming back.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我决定回家(我決定回家)。",
+      "pinyin": "Wǒ juédìng huí jiā.",
+      "english": "I decided to return home."
+    },
+    {
+      "chinese": "他回头看了看(他回頭看了看)，确认找到了路(確認找到了路)。",
+      "pinyin": "Tā huítóu kàn le kàn, quèrèn zhǎodào le lù.",
+      "english": "He turned back to take a look, confirming that he found the way."
+    },
+    {
+      "chinese": "钟声响起时(鐘聲響起時)，她便回故乡了(她便回故鄉了)。",
+      "pinyin": "Zhōngshēng xiǎngqǐ shí, tā biàn huí gùxiāng le.",
+      "english": "When the bell rang, she immediately returned to her hometown."
+    }
+  ]
+}

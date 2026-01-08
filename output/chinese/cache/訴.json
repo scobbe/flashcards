@@ -1,0 +1,39 @@
+{
+  "simplified": "訴",
+  "traditional": "訴",
+  "pinyin": "sù",
+  "english": "narrate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 言(言) (yán, \"word, speak\") + Phonetic 斥(斥) (chì, \"accuse, blame\") = to accuse verbally -> narrate",
+    "interpretation": "The character combines the semantic component 言(言) (yán, \"word, speak\") with the phonetic component 斥(斥) (chì, \"accuse, blame\") to convey the idea of speaking or narrating, as one would when accusing or telling a story.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word, speak"
+    },
+    {
+      "char": "斥",
+      "trad": "斥",
+      "pinyin": "chì",
+      "english": "accuse, blame"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他向朋友诉心事(他向朋友訴心事)。",
+      "pinyin": "Tā xiàng péngyǒu sù xīnshì.",
+      "english": "He narrates his feelings to his friend."
+    },
+    {
+      "chinese": "父亲诉往日艰辛(父親訴往日艱辛)，母亲静静聆听(母親靜靜傾聽)。",
+      "pinyin": "Fùqīn sù wǎngrì jiān xīn, mǔqīn jìngjìng língtīng.",
+      "english": "The father narrates the hardships of his past, while the mother listens silently."
+    }
+  ]
+}

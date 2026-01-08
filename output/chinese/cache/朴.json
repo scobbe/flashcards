@@ -1,0 +1,44 @@
+{
+  "simplified": "朴",
+  "traditional": "樸",
+  "pinyin": "pǔ",
+  "english": "plain; simple",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 卜(卜) (bǔ, \"divination\") = plain, simple wood",
+    "interpretation": "The character 朴(pǔ) combines 木(木) (mù, \"tree\") as the semantic component since it relates to wood, with 卜(卜) (bǔ, \"divination\") providing the phonetic aspect, hinting at the pronunciation. The combination conveys the idea of plainness or simplicity akin to unrefined wood.",
+    "simplification": "Simplified to 朴(pǔ) from 樸(pǔ) as part of the official Chinese Character Simplification Scheme in 1956, replacing the more complex traditional character with a simpler version that retained the original meaning and phonetic cues."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divination"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他过着朴的生活(他過著樸的生活)。",
+      "pinyin": "Tā guòzhe pǔ de shēnghuó.",
+      "english": "He lives a plain life."
+    },
+    {
+      "chinese": "他偏爱朴的设计(他偏愛樸的設計)，追求简单的美(追求簡單的美)。",
+      "pinyin": "Tā piān'ài pǔ de shèjì, zhuīqiú jiǎndān de měi.",
+      "english": "He prefers plain designs, pursuing simple beauty."
+    },
+    {
+      "chinese": "他的书法风格朴(他的書法風格樸)，透露出深厚的功底(透露出深厚的功底)。",
+      "pinyin": "Tā de shūfǎ fēnggé pǔ, tòulù chū shēnhòu de gōngdǐ.",
+      "english": "His calligraphy has a plain style, revealing profound mastery."
+    }
+  ]
+}

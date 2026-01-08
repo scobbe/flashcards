@@ -1,0 +1,44 @@
+{
+  "simplified": "菠",
+  "traditional": "菠",
+  "pinyin": "bō",
+  "english": "spinach; leafy vegetable",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 波(波) (bō, \"wave\") = plant (grass radical) phonetic -> leafy vegetable",
+    "interpretation": "The character 菠(bō) uses 艹(艹) to indicate the general category of plants or vegetables, while 波(bō) provides the phonetic component to specify the sound. Together, they capture the meaning of a type of leafy vegetable, commonly known as spinach.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "波",
+      "trad": "波",
+      "pinyin": "bō",
+      "english": "wave"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃菠(菠)。",
+      "pinyin": "Wǒ xǐhuān chī bō.",
+      "english": "I like to eat spinach."
+    },
+    {
+      "chinese": "妈妈炒菠(媽媽炒菠)，厨房飘来香味(廚房飄來香味)。",
+      "pinyin": "Māmā chǎo bō, chúfáng piāo lái xiāngwèi.",
+      "english": "Mom stir-fries the spinach, and the kitchen is filled with a fragrant aroma."
+    },
+    {
+      "chinese": "清晨的菜园里有新鲜的菠(清晨的菜園里有新鮮的菠)，让人感到生机勃勃(讓人感到生機勃勃)。",
+      "pinyin": "Qīngchén de càiyuán lǐ yǒu xīnxiān de bō, ràng rén gǎndào shēngjī bóbó.",
+      "english": "In the early morning, the vegetable garden has fresh spinach, which makes people feel vibrant."
+    }
+  ]
+}

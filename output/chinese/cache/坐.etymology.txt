@@ -1,0 +1,5 @@
+[坐]
+Ideogrammic compound ( 會意 / 会意 ): 留 ( “ to stay ” ) + 土 ( “ ground ” ) .
+
+[座]
+Phono-semantic compound ( 形聲 / 形声 , OC *zoːls ): semantic 广 ( “ house on cliff ” ) + phonetic 坐 ( OC *zoːlʔ, *zoːls ) .

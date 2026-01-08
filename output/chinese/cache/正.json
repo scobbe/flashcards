@@ -1,0 +1,39 @@
+{
+  "simplified": "正",
+  "traditional": "正",
+  "pinyin": "zhèng",
+  "english": "upright; correct; straight; proper",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "phonetic 丁(丁) (dīng, \"fourth heavenly stem\") + semantic 止(止) (zhǐ, \"foot\") -> original 'to go on a long journey' -> 丁 simplified into a horizontal stroke -> modern form represents 'upright; correct; straight; proper'",
+    "interpretation": "The character originally suggested movement, fitting its early meaning of long journeys. 丁(丁) (dīng) as the phonetic component changed over time but helped indicate pronunciation. The modern form has evolved to emphasize the concept of straightforwardness and correctness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "fourth heavenly stem"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他站得正(他站得正)。",
+      "pinyin": "Tā zhàn de zhèng.",
+      "english": "He stands upright."
+    },
+    {
+      "chinese": "请把书放正(請把書放正)，不要歪着(不要歪著)。",
+      "pinyin": "Qǐng bǎ shū fàng zhèng, bù yào wāi zhe.",
+      "english": "Please place the book properly; don't let it tilt."
+    }
+  ]
+}

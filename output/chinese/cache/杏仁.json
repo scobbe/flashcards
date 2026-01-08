@@ -1,0 +1,44 @@
+{
+  "simplified": "杏仁",
+  "traditional": "杏仁",
+  "pinyin": "xìngrén",
+  "english": "almond",
+  "etymology": {
+    "type": "compound word",
+    "description": "杏(杏) (xìng, \"apricot\") + 仁(仁) (rén, \"kernel; seed\") = kernel or seed of the apricot, by extension refers to almond",
+    "interpretation": "The term 杏仁(杏仁) (xìngrén) translates directly to 'apricot kernel', as almonds were historically associated with apricot kernels due to their similar appearance and use in Chinese cuisine and medicine. Over time, the term became synonymous with 'almond'. This usage likely reflects historical trade and agricultural practices in which true almonds became more familiar to Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "杏",
+      "trad": "杏",
+      "pinyin": "xìng",
+      "english": "apricot"
+    },
+    {
+      "char": "仁",
+      "trad": "仁",
+      "pinyin": "rén",
+      "english": "kernel; seed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢杏仁(我喜歡杏仁)。",
+      "pinyin": "Wǒ xǐhuān xìngrén.",
+      "english": "I like almonds."
+    },
+    {
+      "chinese": "早餐时(早餐時)，吃杏仁可以增加营养(吃杏仁可以增加營養)。",
+      "pinyin": "Zǎocān shí, chī xìngrén kěyǐ zēngjiā yíngyǎng.",
+      "english": "Eating almonds at breakfast can boost nutrition."
+    },
+    {
+      "chinese": "这种蛋糕(這種蛋糕)，放入杏仁后更香甜(放入杏仁後更香甜)。",
+      "pinyin": "Zhè zhǒng dàngāo, fàng rù xìngrén hòu gèng xiāngtián.",
+      "english": "This type of cake becomes sweeter after adding almonds."
+    }
+  ]
+}

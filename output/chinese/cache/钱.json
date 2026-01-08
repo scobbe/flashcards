@@ -1,0 +1,44 @@
+{
+  "simplified": "钱",
+  "traditional": "錢",
+  "pinyin": "qián",
+  "english": "money",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "釒(釒) (jīn, \"metal\") + 戔(戔) (jiān, \"small\") -> denotes coinage or currency made of metal",
+    "interpretation": "The character 钱(錢) (qián, \"money\") combines 釒(釒) (jīn, \"metal\"), signifying currency or coins made from metal, and 戔(戔) (jiān, \"small\"), indicating small or fractional amounts. This suggests money as both metal-based and divisible.",
+    "simplification": "The traditional component 釒(釒) (jīn, \"metal\") was simplified to 钅(钅) (jīn, \"metal\"). The component 戔(戔) (jiān, \"small\") was also simplified to 戋(戋) (jiān, \"small\")."
+  },
+  "parts": [
+    {
+      "char": "钅",
+      "trad": "釒",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "戋",
+      "trad": "戔",
+      "pinyin": "jiān",
+      "english": "small"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有钱(我有錢)。",
+      "pinyin": "Wǒ yǒu qián.",
+      "english": "I have money."
+    },
+    {
+      "chinese": "他花钱(他花錢)，买了新衣服(買了新衣服)。",
+      "pinyin": "Tā huā qián, mǎi le xīn yīfú.",
+      "english": "He spent money and bought new clothes."
+    },
+    {
+      "chinese": "没有钱(沒有錢)，我们不能旅行(我們不能旅行)。",
+      "pinyin": "Méiyǒu qián, wǒmen bùnéng lǚxíng.",
+      "english": "Without money, we cannot travel."
+    }
+  ]
+}

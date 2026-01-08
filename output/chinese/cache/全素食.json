@@ -1,0 +1,44 @@
+{
+  "simplified": "全素食",
+  "traditional": "全素食",
+  "pinyin": "quánsùshí",
+  "english": "vegan diet",
+  "etymology": {
+    "type": "compound word",
+    "description": "全(全) (quán, \"entire\"), 素(素) (sù, \"vegetarian; plain\"), 食(食) (shí, \"food\")",
+    "interpretation": "The term 全素食 (quánsùshí) meaning \"vegan diet\" is composed of 全(全) (quán, \"entire\"), emphasizing the completeness or exclusiveness of the practice, and 素食(素食) (sùshí, \"vegetarian food\"), which refers to foods free from meat, focusing on a diet not including any animal products at all.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "全",
+      "trad": "全",
+      "pinyin": "quán",
+      "english": "entire"
+    },
+    {
+      "char": "素食",
+      "trad": "素食",
+      "pinyin": "sùshí",
+      "english": "vegetarian food"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我决定尝试全素食(我決定嘗試全素食)。",
+      "pinyin": "Wǒ juédìng chángshì quánsùshí.",
+      "english": "I decided to try a vegan diet."
+    },
+    {
+      "chinese": "他因健康问题选择全素食(他因健康問題選擇全素食)，并改善了生活(並改善了生活)。",
+      "pinyin": "Tā yīn jiànkāng wèntí xuǎnzé quánsùshí, bìng gǎishàn le shēnghuó.",
+      "english": "He chose a vegan diet due to health issues, and improved his life."
+    },
+    {
+      "chinese": "全素食能够提供充足的营养(全素食能夠提供充足的營養)。",
+      "pinyin": "Quánsùshí nénggòu tígōng chōngzú de yíngyǎng.",
+      "english": "A vegan diet can provide adequate nutrition."
+    }
+  ]
+}

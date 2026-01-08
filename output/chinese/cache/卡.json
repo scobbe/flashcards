@@ -1,0 +1,38 @@
+{
+  "simplified": "卡",
+  "traditional": "卡",
+  "pinyin": "kǎ",
+  "english": "card; punch card; calorie",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 扌(手) (shǒu, \"hand\") + phonetic: 卡(卡) (qiǎ, \"block\") = hand stops -> derived sense of card, calorie",
+    "interpretation": "The character 卡(卡) (kǎ, \"card\") combines 扌(手) (shǒu, \"hand\") representing a holding or grasping action and 卡(卡) (qiǎ, \"block\") to convey the idea of stopping or blocking. This hints at the function of a card as a tangible object one handles or processes for a specific purpose.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用信用卡购物(我用信用卡購物)。",
+      "pinyin": "Wǒ yòng xìnyòngkǎ gòuwù.",
+      "english": "I shop using a credit card."
+    },
+    {
+      "chinese": "请刷卡(請刷卡)，进入大楼(進入大樓)。",
+      "pinyin": "Qǐng shuākǎ, jìnrù dàlóu.",
+      "english": "Please swipe your card, and then enter the building."
+    },
+    {
+      "chinese": "这个运动消耗了很多卡路里(這個運動消耗了很多卡路里)。",
+      "pinyin": "Zhège yùndòng xiāohào le hěn duō kǎlùlǐ.",
+      "english": "This exercise burned many calories."
+    }
+  ]
+}

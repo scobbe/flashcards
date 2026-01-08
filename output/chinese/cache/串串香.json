@@ -1,0 +1,44 @@
+{
+  "simplified": "串串香",
+  "traditional": "串串香",
+  "pinyin": "chuàn chuàn xiāng",
+  "english": "skewered hot pot",
+  "etymology": {
+    "type": "compound word",
+    "description": "串(串) (chuàn, \"skewer\") refers to food threaded on sticks, 香(香) (xiāng, \"fragrant\") describes the enticing aroma and flavor. Together, 串串 refers to the skewered items in hotpot, which are known for their fragrance.",
+    "interpretation": "串串香, often associated with Sichuan cuisine, is a type of hot pot where various skewered foods are cooked in a flavorful and aromatic broth, reflecting the popular social dining experience and rich flavors typical of the region.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "串串",
+      "trad": "串串",
+      "pinyin": "chuànchuàn",
+      "english": "skewers; skewered food"
+    },
+    {
+      "char": "香",
+      "trad": "香",
+      "pinyin": "xiāng",
+      "english": "fragrant; aromatic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "串串香是一种受欢迎的街头小吃(串串香是一種受歡迎的街頭小吃)。",
+      "pinyin": "Chuàn chuàn xiāng shì yī zhǒng shòu huānyíng de jiētóu xiǎochī.",
+      "english": "Skewered hot pot is a popular street snack."
+    },
+    {
+      "chinese": "我喜欢吃串串香(我喜歡吃串串香)，因为它辣味十足(因爲它辣味十足)。",
+      "pinyin": "Wǒ xǐhuān chī chuàn chuàn xiāng, yīnwèi tā làwèi shízú.",
+      "english": "I like to eat skewered hot pot because it is wonderfully spicy."
+    },
+    {
+      "chinese": "冬天的时候(冬天的時候)，一碗热气腾腾的串串香可以驱寒(一碗熱氣騰騰的串串香可以驅寒)。",
+      "pinyin": "Dōngtiān de shíhòu, yī wǎn rèqì téngténg de chuàn chuàn xiāng kěyǐ qūhán.",
+      "english": "In winter, a bowl of steamy skewered hot pot can ward off the cold."
+    }
+  ]
+}

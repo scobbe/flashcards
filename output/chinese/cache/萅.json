@@ -1,0 +1,51 @@
+{
+  "simplified": "萅",
+  "traditional": "萅",
+  "pinyin": "chūn",
+  "english": "spring",
+  "etymology": {
+    "type": "ancient form of 春",
+    "description": "萅 constitutes an early form of 春(春) (chūn, \"spring\"). Initially, as 春, it was a phono-semantic compound: 艸(艸) (cǎo, \"grass\") + 屯(屯) (tún, \"sprout\") for phonetics + later addition of 日(日) (rì, \"sun\") symbolizing growth. Over time, 艸(艸) and 屯(屯) merged into 𡗗.",
+    "interpretation": "萅 represents an early step in the evolution of 春(春) (chūn, \"spring\"), highlighting the essential elements of sprouting plants signified by grass and sprouts under the sun — symbolizing the burgeoning growth of spring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "春",
+      "trad": "春",
+      "pinyin": "chūn",
+      "english": "spring"
+    },
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "屯",
+      "trad": "屯",
+      "pinyin": "tún",
+      "english": "sprout"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "萅日融融(萅日融融)，百花盛开(百花盛開)。",
+      "pinyin": "Chūn rì róngróng, bǎihuā shèngkāi.",
+      "english": "The spring day is warm, and the flowers are in full bloom."
+    },
+    {
+      "chinese": "我爱萅季(我愛萅季)，万物更新(萬物更新)。",
+      "pinyin": "Wǒ ài chūn jì, wànwù gēngxīn.",
+      "english": "I love the season of spring, when all things are renewed."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "化",
+  "traditional": "化",
+  "pinyin": "huà",
+  "english": "transform",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亻(亻) (rén, \"person\") + 𠤎(𠤎) (rén, \"person\") upside down = two people, one upright, one reversed -> transformation or change",
+    "interpretation": "The character 化(化) (huà, \"transform\") visually represents change or transformation, signified by two 人(人) (rén, \"person\") characters in opposite orientations, suggesting reversal or alteration.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "𠤎",
+      "trad": "𠤎",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学进步(科學進步)，推动社会化转型(推動社會化轉型)。",
+      "pinyin": "Kēxué jìnbù, tuīdòng shèhuì huà zhuǎnxíng.",
+      "english": "Scientific progress transforms social structures."
+    },
+    {
+      "chinese": "时间能让伤痛化作记忆(時間能讓傷痛化作記憶)。",
+      "pinyin": "Shíjiān néng ràng shāngtòng huà zuò jìyì.",
+      "english": "Time transforms pain into memories."
+    },
+    {
+      "chinese": "困境中他不断努力(困境中他不斷努力)，生命终将化为辉煌(生命終將化為輝煌)。",
+      "pinyin": "Kùnjìng zhōng tā bùduàn nǔlì, shēngmìng zhōng jiāng huà wéi huīhuáng.",
+      "english": "Amid difficulties he perseveres, and his life will eventually transform into brilliance."
+    }
+  ]
+}

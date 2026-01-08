@@ -2,25 +2,43 @@
   "simplified": "八",
   "traditional": "八",
   "pinyin": "bā",
-  "english": "\"speech; breath\"",
+  "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two bent lines -> originally 'divide' -> borrowed for 'eight'",
-    "interpretation": "The character 八(bā, 'eight') originally depicted the concept of division with two bent lines, symbolizing splitting or dividing. It was borrowed for the sound to represent 'eight', replacing its original meaning.",
+    "description": "Two bent lines indicating original meaning 'to divide' -> borrowed for sound to mean 'eight'",
+    "interpretation": "Originally depicting the concept of division, 八 was later borrowed to represent 'eight' due to its similar pronunciation to the numeral. Its initial meaning is now represented by other characters like 分 and 別.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
+    },
+    {
+      "char": "別",
+      "trad": "別",
+      "pinyin": "bié",
+      "english": "separate"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的八充满智慧(他的八充滿智慧)。",
-      "pinyin": "Tā de bā chōng mǎn zhì huì.",
-      "english": "His speech is full of wisdom."
+      "chinese": "我有八支笔(我有八支筆)。",
+      "pinyin": "Wǒ yǒu bā zhī bǐ.",
+      "english": "I have eight pens."
     },
     {
-      "chinese": "晨风拂面时(晨風拂面時)，他的八带来温暖(他的八帶來溫暖)。",
-      "pinyin": "Chén fēng fú miàn shí, tā de bā dài lái wēn nuǎn.",
-      "english": "When the morning breeze brushes the face, his breath brings warmth."
+      "chinese": "桌子上有八个苹果(桌子上有八個蘋果)。",
+      "pinyin": "Zhuōzi shàng yǒu bā gè píngguǒ.",
+      "english": "There are eight apples on the table."
+    },
+    {
+      "chinese": "我在八点(我在八點)，起床开始一天的生活(起床開始一天的生活)。",
+      "pinyin": "Wǒ zài bā diǎn, qǐchuáng kāishǐ yītiān de shēnghuó.",
+      "english": "I wake up at eight o'clock to start my day."
     }
   ]
 }

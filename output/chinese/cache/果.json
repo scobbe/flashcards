@@ -1,0 +1,26 @@
+{
+  "simplified": "果",
+  "traditional": "果",
+  "pinyin": "guǒ",
+  "english": "n/a",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Represents fruits hanging on a tree -> fruit",
+    "interpretation": "果(果) (guǒ, 'fruit') visually depicts fruit on a tree, aligning with its meaning as a representation of fruits hanging from branches. This intuitive imagery is related to how the character 栗(栗) (lì, 'chestnut') and 某(某) (mǒu, 'certain') depict similar objects, though other uses like 喿 do not apply here.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她把最甜的果挑出来(她把最甜的果挑出來)。",
+      "pinyin": "Tā bǎ zuì tián de guǒ tiāo chūlái.",
+      "english": "She picked out the sweetest fruit."
+    },
+    {
+      "chinese": "秋天到了(秋天到了)，树上挂满了红艳艳的果(樹上掛滿了紅艷艷的果)。",
+      "pinyin": "Qiūtiān dào le, shù shàng guà mǎn le hóng yàn yàn de guǒ.",
+      "english": "Autumn arrived, and the trees were laden with brilliantly red fruits."
+    }
+  ]
+}

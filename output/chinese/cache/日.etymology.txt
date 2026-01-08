@@ -1,2 +1,9 @@
 [日]
 Pictogram ( 象形 ) – the sun. A dot or line was added in the centre to distinguish it from visually similar characters, e.g. 囗 (early form of 丁 ). Compare earlier forms of the character with the astronomical and astrological symbol for the Sun ( ☉ ) and the Egyptian hieroglyph 𓇳 .
+
+[時]
+Phono-semantic compound ( 形聲 / 形声 , OC *djɯ ): semantic 日 ( “ sun; day ” ) + phonetic 寺 ( OC *ljɯs ) . The phonetic component however represents a footprint pointing up, which could be linked to the concept of the movement of the sun and hence the passing of time.
+In ancient scripts, it had the form 旹 , with 之 ( OC *tjɯ ) as the phonetic instead (as well as a reference to the passing of time). The component 寸 was added later.
+
+[时]
+Variant of 時 . From cursive script .

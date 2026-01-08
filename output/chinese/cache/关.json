@@ -1,0 +1,39 @@
+{
+  "simplified": "关",
+  "traditional": "關",
+  "pinyin": "guān",
+  "english": "",
+  "etymology": {
+    "type": "simplified character",
+    "description": "關(關) (guān, \"close\") -> eliminate the 門(門) (mén, \"gate\") radical -> simplified to 关(關)",
+    "interpretation": "The simplification process removed the 門(門) (mén, \"gate\") radical, leaving only the central component to represent the meaning of 'close' or 'barrier'. This change was primarily a reduction in strokes to streamline writing.",
+    "simplification": "This simplification involved removing the 門(門) (mén, \"gate\") radical to create a more streamlined version by focusing on the central component for phonetic representation."
+  },
+  "parts": [
+    {
+      "char": "關",
+      "trad": "關",
+      "pinyin": "guān",
+      "english": "\"close\""
+    },
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "\"gate\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请关门(請關門)。",
+      "pinyin": "Qǐng guān mén.",
+      "english": "Please close the door."
+    },
+    {
+      "chinese": "每天睡前他都会关掉电视(每天睡前他都會關掉電視)，以节省能源(以節省能源)。",
+      "pinyin": "Měitiān shuìqián tā dōu huì guān diào diànshì, yǐ jiéshěng néngyuán.",
+      "english": "Every night before sleeping, he turns off the TV to save energy."
+    }
+  ]
+}

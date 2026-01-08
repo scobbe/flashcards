@@ -1,0 +1,44 @@
+{
+  "simplified": "帮",
+  "traditional": "幫",
+  "pinyin": "bāng",
+  "english": "help; assist; group",
+  "etymology": {
+    "type": "simplified",
+    "description": "幚(幫) (bāng, \"help\") with 帛(帛) (bó, \"silk\") replaced by 巾(巾) (jīn, \"cloth\") -> variant form 幚(幚) (bāng, \"help\") -> phonetic 封(封) (fēng, \"seal\") replaced with 邦(邦) (bāng, \"nation\") -> simplified to 帮",
+    "interpretation": "The character 帮(bāng) was simplified from 幫 by replacing complex components with simpler ones, while retaining the phonetic and semantic elements related to 'help'. By using 邦(bāng, \"nation\") as the phonetic component, the character preserves its pronunciation and essential meaning. The simplification reflects a streamlined writing process by altering the cloth radical to巾(jīn, \"cloth\").",
+    "simplification": "The complex 幫 was simplified to 帮 by replacing 帛(bó, \"silk\") with 巾(jīn, \"cloth\") and 封(fēng, \"seal\") with the more streamlined 邦(bāng, \"nation\") for phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    },
+    {
+      "char": "邦",
+      "trad": "邦",
+      "pinyin": "bāng",
+      "english": "nation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她常常帮邻居买菜(她常常幫鄰居買菜)。",
+      "pinyin": "tā chángcháng bāng línjū mǎi cài",
+      "english": "She often helps her neighbors buy groceries."
+    },
+    {
+      "chinese": "妈妈帮我做作业(媽媽幫我做作業)，让我学习更多(讓我學習更多)。",
+      "pinyin": "māma bāng wǒ zuò zuòyè, ràng wǒ xuéxí gèng duō",
+      "english": "Mom helps me with my homework, letting me learn more."
+    },
+    {
+      "chinese": "他加入了一个帮派(他加入了一個幫派)，获得了新的朋友(獲得了新的朋友)。",
+      "pinyin": "tā jiārùle yīgè bāngpài, huòdéle xīn de péngyǒu",
+      "english": "He joined a group, making new friends."
+    }
+  ]
+}

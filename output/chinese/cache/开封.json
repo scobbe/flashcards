@@ -1,0 +1,44 @@
+{
+  "simplified": "开封",
+  "traditional": "開封",
+  "pinyin": "Kāifēng",
+  "english": "Kaifeng",
+  "etymology": {
+    "type": "compound word",
+    "description": "开(開) (kāi, \"open\") means to open or start, and 封(封) (fēng, \"seal\") means to seal or close. Together as a place name, 开封(開封) (Kāifēng) does not carry the literal meanings of its components but rather serves as the name of a historical city in China, with meanings derived from historical context.",
+    "interpretation": "开封(開封) (Kāifēng) is the name of an ancient city in China's Henan province, which has served as the capital of several dynasties. The characters in its name, while having their own meanings, do not directly relate to its function as a city.",
+    "simplification": "开封 is the simplified form of the traditional 開封."
+  },
+  "parts": [
+    {
+      "char": "开",
+      "trad": "開",
+      "pinyin": "kāi",
+      "english": "open; start"
+    },
+    {
+      "char": "封",
+      "trad": "封",
+      "pinyin": "fēng",
+      "english": "seal; close"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划参观开封(我計劃參觀開封)。",
+      "pinyin": "Wǒ jìhuà cānguān Kāifēng.",
+      "english": "I plan to visit Kaifeng."
+    },
+    {
+      "chinese": "古都开封(古都開封)，见证了历史(見證了歷史)。",
+      "pinyin": "Gǔdū Kāifēng, jiànzhèng le lìshǐ.",
+      "english": "The ancient capital Kaifeng has witnessed history."
+    },
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，开封的城门散发出古韵(開封的城門散發出古韻)。",
+      "pinyin": "Yèmù jiànglín shí, Kāifēng de chéngmén sànfā chū gǔyùn.",
+      "english": "When night falls, the city gates of Kaifeng exude an ancient charm."
+    }
+  ]
+}

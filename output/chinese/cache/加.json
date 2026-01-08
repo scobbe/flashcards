@@ -1,0 +1,44 @@
+{
+  "simplified": "加",
+  "traditional": "加",
+  "pinyin": "jiā",
+  "english": "add",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "力(力) (lì, \"strength\") + 口(口) (kǒu, \"mouth\") = applying strength vocally -> add",
+    "interpretation": "The character 加(加) (jiā, \"add\") shows the idea of using strength in a vocal or pronounced way, suggesting an emphasis or increase, which aligns with the meaning of 'to add.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请加糖(請加糖)。",
+      "pinyin": "Qǐng jiā táng.",
+      "english": "Please add sugar."
+    },
+    {
+      "chinese": "厨师在汤里加盐(廚師在湯裡加鹽)，让味道更浓(讓味道更濃)。",
+      "pinyin": "Chúshī zài tāng lǐ jiā yán, ràng wèidào gèng nóng.",
+      "english": "The chef adds salt to the soup, making the flavor richer."
+    },
+    {
+      "chinese": "他总是加一点努力(他總是加一點努力)，来克服困难(來克服困難)。",
+      "pinyin": "Tā zǒngshì jiā yīdiǎn nǔlì, lái kèfú kùnnán.",
+      "english": "He always adds a bit more effort to overcome difficulties."
+    }
+  ]
+}

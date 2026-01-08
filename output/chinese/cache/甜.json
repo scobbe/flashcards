@@ -1,0 +1,44 @@
+{
+  "simplified": "甜",
+  "traditional": "甜",
+  "pinyin": "tián",
+  "english": "sweet",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "舌(舌) (shé, \"tongue\") + 甘(甘) (gān, \"sweet\") = tongue tasting sweetness -> sweet",
+    "interpretation": "甜(甜) (tián, \"sweet\") combines 舌(舌) (shé, \"tongue\") and 甘(甘) (gān, \"sweet\") to represent the concept of tasting sweetness, which conveys the idea of something sweet to the taste.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这蛋糕真甜(這蛋糕真甜)。",
+      "pinyin": "zhè dàngāo zhēn tián.",
+      "english": "This cake is really sweet."
+    },
+    {
+      "chinese": "这个苹果很甜(這個蘋果很甜)，咬上一口满是果香(咬上一口滿是果香)。",
+      "pinyin": "zhège píngguǒ hěn tián, yǎo shàng yì kǒu mǎn shì guǒxiāng.",
+      "english": "This apple is very sweet, and one bite is full of fruity aroma."
+    },
+    {
+      "chinese": "蜂蜜的滋味很甜(蜂蜜的滋味很甜)。",
+      "pinyin": "fēngmì de zīwèi hěn tián.",
+      "english": "The taste of honey is very sweet."
+    }
+  ]
+}

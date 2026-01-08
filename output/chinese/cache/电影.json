@@ -1,0 +1,39 @@
+{
+  "simplified": "电影",
+  "traditional": "電影",
+  "pinyin": "diànyǐng",
+  "english": "movie; film",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electric\") + 影(影) (yǐng, \"shadow\") = electric shadow -> movie or film. This reflects how films were originally perceived as moving images or 'shadows' created by electrical technology, capturing the essence of early cinema.",
+    "interpretation": "电影(電影) (diànyǐng, \"movie\" or \"film\") refers to the concept of 'electric shadows', highlighting how films are animated sequences of images projected with electric power. This term encapsulates the experience of watching moving images in a cinema.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electric; electricity"
+    },
+    {
+      "char": "影",
+      "trad": "影",
+      "pinyin": "yǐng",
+      "english": "shadow; reflection; image"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们昨天看电影(我們昨天看電影)。",
+      "pinyin": "Wǒmen zuótiān kàn diànyǐng.",
+      "english": "We watched a movie yesterday."
+    },
+    {
+      "chinese": "这部电影很精彩(這部電影很精彩)，我很喜欢(我很喜歡)。",
+      "pinyin": "Zhè bù diànyǐng hěn jīngcǎi, wǒ hěn xǐhuān.",
+      "english": "This movie is very exciting, and I like it very much."
+    }
+  ]
+}

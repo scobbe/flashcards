@@ -1,0 +1,39 @@
+{
+  "simplified": "奇怪",
+  "traditional": "奇怪",
+  "pinyin": "qíguài",
+  "english": "strange",
+  "etymology": {
+    "type": "compound word",
+    "description": "奇(奇) (qí, \"strange; odd\") and 怪(怪) (guài, \"weird; strange\") combine to form 奇怪(奇怪) (qíguài, \"strange\").",
+    "interpretation": "The combination of 奇(奇) (qí, \"strange; odd\") and 怪(怪) (guài, \"weird; strange\") strengthens the idea of 'strange' by bringing together two characters that convey unusualness or abnormality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "奇",
+      "trad": "奇",
+      "pinyin": "qí",
+      "english": "strange; odd; unique; rare"
+    },
+    {
+      "char": "怪",
+      "trad": "怪",
+      "pinyin": "guài",
+      "english": "weird; strange; blame; monster"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件事情真奇怪(這件事情真奇怪)。",
+      "pinyin": "Zhè jiàn shìqíng zhēn qíguài.",
+      "english": "This matter is really strange."
+    },
+    {
+      "chinese": "他看起来的表情很奇怪(他看起來的表情很奇怪)，让大家感到困惑(讓大家感到困惑)。",
+      "pinyin": "Tā kàn qǐlái de biǎoqíng hěn qíguài, ràng dàjiā gǎndào kùnhuò.",
+      "english": "His expression looked strange, making everyone feel puzzled."
+    }
+  ]
+}

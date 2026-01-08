@@ -1,0 +1,44 @@
+{
+  "simplified": "擘",
+  "traditional": "擘",
+  "pinyin": "bò",
+  "english": "thumb",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 辟 (bì, \"distinguish\") + Semantic: 手 (shǒu, \"hand\") = action done with the thumb",
+    "interpretation": "The character combines 辟 (bì, \"distinguish\") to suggest sound with 手 (shǒu, \"hand\") suggesting the meaning, reflecting actions often performed with the thumb like grabbing or pressing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辟",
+      "trad": "辟",
+      "pinyin": "bì",
+      "english": "distinguish"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的擘非常灵活(他的擘非常靈活)。",
+      "pinyin": "Tā de bò fēicháng línghuó.",
+      "english": "His thumb is very agile."
+    },
+    {
+      "chinese": "请用擘轻触屏幕(請用擘輕觸螢幕)。",
+      "pinyin": "Qǐng yòng bò qīng chù píngmù.",
+      "english": "Please use your thumb to gently touch the screen."
+    },
+    {
+      "chinese": "他用擘写下记号(他用擘寫下記號)，表明选择(表明選擇)。",
+      "pinyin": "Tā yòng bò xiě xià jìhào, biǎomíng xuǎnzé.",
+      "english": "He used his thumb to mark, indicating his choice."
+    }
+  ]
+}

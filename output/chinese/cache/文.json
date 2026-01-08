@@ -1,0 +1,31 @@
+{
+  "simplified": "文",
+  "traditional": "文",
+  "pinyin": "wén",
+  "english": "language; literature; culture",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a crested animal pattern, representing patterns of writing.",
+    "interpretation": "文(文) (wén, 'language; culture') originally depicted a symbol or pattern on objects, which is closely related to text and writing as forms of patterned representation, embodying cultural expression.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他研究古文(他研究古文)。",
+      "pinyin": "Tā yánjiū gǔwén.",
+      "english": "He studies classical literature."
+    },
+    {
+      "chinese": "我们的文化深厚(我們的文化深厚)，文学绵长悠远(文學綿長悠遠)。",
+      "pinyin": "Wǒmen de wénhuà shēnhòu, wénxué miáncháng yōuyuǎn.",
+      "english": "Our culture is profound, and our literature is long and far-reaching."
+    },
+    {
+      "chinese": "书中蕴含丰厚的文采(書中蘊含豐厚的文采)。",
+      "pinyin": "Shū zhōng yùnhán fēnghòu de wéncǎi.",
+      "english": "The book is imbued with rich literary elegance."
+    }
+  ]
+}

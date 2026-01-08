@@ -1,0 +1,44 @@
+{
+  "simplified": "小龙",
+  "traditional": "小龍",
+  "pinyin": "xiǎolóng",
+  "english": "snake (zodiac)",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 龙(龍) (lóng, \"dragon\")",
+    "interpretation": "In the context of the Chinese zodiac, 小龙(小龍) (xiǎolóng, \"small dragon\") refers to the \"snake,\" symbolically representing a smaller version of a dragon. In Chinese culture, the dragon is a mythical creature symbolizing power and strength, and the snake is often seen as its earthly counterpart. By referring to the snake as a small dragon, it acknowledges the snake's link to the similarly agile and revered dragon.",
+    "simplification": "小龙"
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "龙",
+      "trad": "龍",
+      "pinyin": "lóng",
+      "english": "dragon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在十二生肖中(在十二生肖中)，有时人们称蛇为小龙(有時人們稱蛇為小龍)。",
+      "pinyin": "Zài shí'èr shēngxiào zhōng, yǒu shí rénmen chēng shé wéi xiǎolóng.",
+      "english": "Among the twelve zodiac animals, sometimes people refer to the snake as Little Dragon."
+    },
+    {
+      "chinese": "小龙(小龍)在民间传说中代表智慧(在民間傳說中代表智慧)。",
+      "pinyin": "Xiǎolóng zài mínjiān chuánshuō zhōng dàibiǎo zhìhuì.",
+      "english": "Little Dragon represents wisdom in folklore."
+    },
+    {
+      "chinese": "许多人在新年时(許多人在新年時)，会挂起小龙形状的装饰(會掛起小龍形狀的裝飾)。",
+      "pinyin": "Xǔduō rén zài xīnnián shí, huì guà qǐ xiǎolóng xíngzhuàng de zhuāngshì.",
+      "english": "During the New Year, many people hang decorations shaped like Little Dragon."
+    }
+  ]
+}

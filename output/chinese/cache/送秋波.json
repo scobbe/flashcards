@@ -1,0 +1,44 @@
+{
+  "simplified": "送秋波",
+  "traditional": "送秋波",
+  "pinyin": "sòng qiūbō",
+  "english": "cast amorous glances",
+  "etymology": {
+    "type": "compound word",
+    "description": "送(送) (sòng, \"send\") + 秋波(秋波) (qiūbō, \"autumn wave\")",
+    "interpretation": "The phrase 送秋波 (sòng qiūbō) metaphorically means to cast amorous glances. 秋波(秋波) (qiūbō, \"autumn wave\") refers to the soft and gentle look in one's eyes, evoking the idea of a calm autumn scene or a gentle wave, often used in poetry to describe a flirtatious or enchanting gaze. By combining it with 送(送) (sòng, \"send\"), it creates the meaning of sending or directing such gazes toward someone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "送",
+      "trad": "送",
+      "pinyin": "sòng",
+      "english": "send; deliver; give as a gift; see off"
+    },
+    {
+      "char": "秋波",
+      "trad": "秋波",
+      "pinyin": "qiūbō",
+      "english": "autumn wave; flirtatious glance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她在晚会中送秋波(她在晚會中送秋波)，让他心动(讓他心動)。",
+      "pinyin": "Tā zài wǎnhuì zhōng sòng qiūbō, ràng tā xīndòng.",
+      "english": "She cast amorous glances during the party, making his heart flutter."
+    },
+    {
+      "chinese": "帅哥见到她便送秋波(帥哥見到她便送秋波)，悄悄表达心意(悄悄表達心意)。",
+      "pinyin": "Shuài gē jiàn dào tā biàn sòng qiūbō, qiāoqiāo biǎodá xīnyì.",
+      "english": "The handsome guy, upon seeing her, cast amorous glances, subtly expressing his feelings."
+    },
+    {
+      "chinese": "在音乐会间隙，他悄悄送秋波(在音樂會間隙，他悄悄送秋波)，引起了她的注意(引起了她的注意)。",
+      "pinyin": "Zài yīnyuèhuì jiànxì, tā qiāoqiāo sòng qiūbō, yǐnqǐ le tā de zhùyì.",
+      "english": "During the intermission of the concert, he quietly cast amorous glances, catching her attention."
+    }
+  ]
+}

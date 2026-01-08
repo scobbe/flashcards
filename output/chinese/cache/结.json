@@ -1,0 +1,44 @@
+{
+  "simplified": "结",
+  "traditional": "結",
+  "pinyin": "jié",
+  "english": "knot; tie; bond",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 糸(糸) (mì, \"silk\") + phonetic: 吉(吉) (jí, \"lucky\") = tying silk threads together -> knot; tie",
+    "interpretation": "The character 结(結) (jié, \"knot; tie\") combines the semantic component 糸(糸) (mì, \"silk\"), which relates to string or thread, with the phonetic 吉(吉) (jí, \"lucky\") to convey the act of tying or binding, often symbolizing unity or connection.",
+    "simplification": "The simplified character 结 replaces the traditional 結 by applying a cursive form for the 糸(糸) (mì, \"silk\") radical, reducing strokes for easier writing."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "lucky"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把绳子打了个结(他把繩子打了個結)。",
+      "pinyin": "Tā bǎ shéngzǐ dǎ le gè jié.",
+      "english": "He tied a knot in the rope."
+    },
+    {
+      "chinese": "友情是一种牢不可破的结(友情是一種牢不可破的結)。",
+      "pinyin": "Yǒuqíng shì yī zhǒng láo bù kě pò de jié.",
+      "english": "Friendship is a bond that cannot be broken."
+    },
+    {
+      "chinese": "她和朋友结下了深厚的情谊(她和朋友結下了深厚的情誼)，共同走过风雨人生(共同走過風雨人生)。",
+      "pinyin": "Tā hé péngyǒu jié xià le shēnhòu de qíngyì, gòngtóng zǒu guò fēngyǔ rénshēng.",
+      "english": "She and her friend formed a deep bond as they faced life's challenges together."
+    }
+  ]
+}

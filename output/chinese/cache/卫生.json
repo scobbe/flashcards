@@ -1,0 +1,44 @@
+{
+  "simplified": "卫生",
+  "traditional": "衛生",
+  "pinyin": "wèishēng",
+  "english": "hygiene",
+  "etymology": {
+    "type": "compound word",
+    "description": "卫(衛) (wèi, \"guard\") + 生(生) (shēng, \"life\") = guarding life -> hygiene",
+    "interpretation": "Hygiene involves practices that guard or protect one's health and life by promoting cleanliness and preventing disease. In this context, 卫(衛) (wèi, \"guard\") implies protection, while 生(生) (shēng, \"life\") refers to health and life itself.",
+    "simplification": "卫生 is the simplified form of 衛生."
+  },
+  "parts": [
+    {
+      "char": "卫",
+      "trad": "衛",
+      "pinyin": "wèi",
+      "english": "guard; protect; defend"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "life; health; live; raw"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "保持卫生很重要(保持衛生很重要)。",
+      "pinyin": "Bǎochí wèishēng hěn zhòngyào.",
+      "english": "Maintaining hygiene is important."
+    },
+    {
+      "chinese": "在餐厅用餐前(在餐廳用餐前)，请检查卫生(請檢查衛生)。",
+      "pinyin": "Zài cāntīng yòngcān qián, qǐng jiǎnchá wèishēng.",
+      "english": "Before dining in the restaurant, please check the hygiene."
+    },
+    {
+      "chinese": "环境卫生关系到健康(環境衛生關係到健康)。",
+      "pinyin": "Huánjìng wèishēng guānxì dào jiànkāng.",
+      "english": "Environmental hygiene is related to health."
+    }
+  ]
+}

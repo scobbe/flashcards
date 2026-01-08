@@ -1,0 +1,44 @@
+{
+  "simplified": "混血",
+  "traditional": "混血",
+  "pinyin": "hùnxuè",
+  "english": "mixed blood",
+  "etymology": {
+    "type": "compound word",
+    "description": "混(混) (hùn, 'mix') + 血(血) (xuè, 'blood') = mix blood -> mixed blood",
+    "interpretation": "The term 混血(混血) (hùnxuè, 'mixed blood') describes a person of mixed racial or ethnic ancestry. It emphasizes the concept of blending different 'bloodlines' or heritages, highlighting the diversity and combination of different genetic backgrounds.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "混",
+      "trad": "混",
+      "pinyin": "hùn",
+      "english": "mix; confuse; blend"
+    },
+    {
+      "char": "血",
+      "trad": "血",
+      "pinyin": "xuè",
+      "english": "blood; bloodline; lineage"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拥有混血的魅力(他擁有混血的魅力)。",
+      "pinyin": "Tā yǒngyǒu hùnxuè de mèilì.",
+      "english": "He has the charm of mixed blood."
+    },
+    {
+      "chinese": "他的长相别具一格(他的長相別具一格)，因为他是混血(因爲他是混血)。",
+      "pinyin": "Tā de zhǎngxiàng biéjù yīgé, yīnwèi tā shì hùnxuè.",
+      "english": "His appearance is unique because he is of mixed blood."
+    },
+    {
+      "chinese": "她在众人中脱颖而出(她在眾人中脫穎而出)，混血赋予了她异国风情(混血賦予了她異國風情)。",
+      "pinyin": "Tā zài zhòngrén zhōng tuōyǐng ér chū, hùnxuè fùyǔ le tā yìguó fēngqíng.",
+      "english": "She stands out among the crowd; her mixed blood gives her an exotic charm."
+    }
+  ]
+}

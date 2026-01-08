@@ -1,0 +1,26 @@
+{
+  "simplified": "並",
+  "traditional": "並",
+  "pinyin": "bìng",
+  "english": "together",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two people standing side-by-side.",
+    "interpretation": "The character 並(bìng, 'together') visually represents the concept of 'togetherness' by depicting two individuals standing next to each other, symbolizing unity and combination.",
+    "simplification": "The character 并(並) is a simplified form of 並(bìng, 'together'), using a related but visually simpler representation while retaining the original meaning of unity."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们並肩前行(我們並肩前行)。",
+      "pinyin": "Wǒmen bìngjiān qiánxíng.",
+      "english": "We move forward side by side."
+    },
+    {
+      "chinese": "他们並肩作戰(他們並肩作戰)，戰勝困難(戰勝困難)。",
+      "pinyin": "Tāmen bìngjiān zuòzhàn, zhànshèng kùnnán.",
+      "english": "They fight together, overcoming difficulties."
+    }
+  ]
+}

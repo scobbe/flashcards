@@ -1,0 +1,26 @@
+{
+  "simplified": "衣",
+  "traditional": "衣",
+  "pinyin": "yī",
+  "english": "clothes",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a basic outline of a garment with sleeves hanging down.",
+    "interpretation": "The character 衣(衣) (yī, 'clothes') clearly resembles a simple garment, with parts representing sleeves and the body of clothing. This visual representation aligns with its meaning of 'clothes' or 'clothing.'",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件衣很特别(這件衣很特別)。",
+      "pinyin": "Zhè jiàn yī hěn tè bié.",
+      "english": "This piece of clothing is very special."
+    },
+    {
+      "chinese": "冬天来了(冬天來了)，人们换上了暖和的衣(人們換上了暖和的衣)。",
+      "pinyin": "Dōngtiān lái le, rénmen huàn shàng le nuǎn huó de yī.",
+      "english": "Winter has arrived, and people put on warm clothes."
+    }
+  ]
+}

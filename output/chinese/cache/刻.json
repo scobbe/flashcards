@@ -1,0 +1,39 @@
+{
+  "simplified": "刻",
+  "traditional": "刻",
+  "pinyin": "kè",
+  "english": "to cut; carve; moment; severe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 刀(刀) (dāo, \"knife\") + phonetic: 亥(亥) (hài) = cutting or carving with a knife -> to cut, carve",
+    "interpretation": "刻(刻) (kè, \"to cut; carve\") combines the knife 刀(刀) (dāo, \"knife\") as the semantic component, indicating the action of cutting or carving, with 亥(亥) (hài) providing the phonetic aspect. This combination effectively communicates the action of cutting or carving.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "亥",
+      "trad": "亥",
+      "pinyin": "hài",
+      "english": "亥 (hài)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用刻刀刻花(他用刻刀刻花)，展示艺术(展示藝術)。",
+      "pinyin": "Tā yòng kè dāo kè huā, zhǎnshì yìshù.",
+      "english": "He carved flowers with a carving knife, showcasing his art."
+    },
+    {
+      "chinese": "此刻心情难耐(此刻心情難耐)。",
+      "pinyin": "Cǐ kè xīnqíng nán nài.",
+      "english": "At this moment, his emotions were overwhelming."
+    }
+  ]
+}

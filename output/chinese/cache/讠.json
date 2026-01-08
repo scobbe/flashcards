@@ -1,0 +1,31 @@
+{
+  "simplified": "讠",
+  "traditional": "訁",
+  "pinyin": "yán",
+  "english": "speech",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a curved line with a dot, symbolizing speech or words",
+    "interpretation": "讠(訁) (yán, \"speech\") is the simplified radical for words or speech. As a pictogram, it represents the essential concept of communication.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "汉字中的讠构件(漢字中的言構件)，常出现在有关话语的字中(常出現在有關話語的字中)。",
+      "pinyin": "Hànzì zhōng de yán gòujiàn, cháng chūxiàn zài yǒuguān huàyǔ de zì zhōng.",
+      "english": "The 讠 component in Chinese characters often appears in characters related to speech."
+    },
+    {
+      "chinese": "古人重视讠之力量(古人重視言之力量)，认为言传身教胜过万言(認為言傳身教勝過萬言)。",
+      "pinyin": "Gǔrén zhòngshì yán zhī lìliàng, rènwéi yán chuán shēnjiào shèngguò wànyán.",
+      "english": "Ancient people valued the power of speech, believing that teaching by example was superior to a thousand words."
+    },
+    {
+      "chinese": "含讠字形的汉字(含言字形的漢字)，通常与言语表达密切相关(通常與言語表達密切相關)。",
+      "pinyin": "Hán yán zìxíng de hànzì, tōngcháng yǔ yányǔ biǎodá mìqiè xiāngguān.",
+      "english": "Chinese characters with the 讠 radical are usually closely associated with speech expression."
+    }
+  ]
+}

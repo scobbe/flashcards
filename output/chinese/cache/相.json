@@ -1,0 +1,44 @@
+{
+  "simplified": "相",
+  "traditional": "相",
+  "pinyin": "xiāng",
+  "english": "mutual",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 木(木) (mù, \"tree\") + Phonetic: 目(目) (mù) = eye on tree -> to look at each other -> mutual",
+    "interpretation": "The character 相(xiāng, \"mutual\") combines 目(目) (mù, \"eye\") suggesting seeing or observing, with 木(木) (mù, \"tree\"), reflecting the idea of looking out over a distance or surveying. This is extended to mean looking at each other, thus becoming associated with mutual or reciprocal actions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们相互扶持(他們相互扶持)。",
+      "pinyin": "Tāmen xiānghù fúchí.",
+      "english": "They support each other."
+    },
+    {
+      "chinese": "朋友之间要相互理解(朋友之間要相互理解)，共同进步(共同進步)。",
+      "pinyin": "Péngyǒu zhījiān yào xiānghù lǐjiě, gòngtóng jìnbù.",
+      "english": "Friends should understand each other and make progress together."
+    },
+    {
+      "chinese": "夫妻之间应相互尊重(夫妻之間應相互尊重)。",
+      "pinyin": "Fūqī zhījiān yīng xiānghù zūnzhòng.",
+      "english": "Husbands and wives should mutually respect each other."
+    }
+  ]
+}

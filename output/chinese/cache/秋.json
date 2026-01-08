@@ -1,0 +1,44 @@
+{
+  "simplified": "秋",
+  "traditional": "秋",
+  "pinyin": "qiū",
+  "english": "autumn; fall; harvest time",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禾(禾) (hé, 'grain') + 火(火) (huǒ, 'fire') = grain + fire -> harvest time -> autumn",
+    "interpretation": "The character combines 'grain' and 'fire', symbolizing the practice of burning fields after harvest, marking autumn as harvest time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋天来了(秋天來了)。",
+      "pinyin": "Qiū tiān lái le.",
+      "english": "Autumn has arrived."
+    },
+    {
+      "chinese": "秋风送爽(秋風送爽)，稻谷金黄(稻穀金黃)。",
+      "pinyin": "Qiū fēng sòng shuǎng, dào gǔ jīn huáng.",
+      "english": "The autumn breeze brings coolness, and the rice is golden."
+    },
+    {
+      "chinese": "在秋季的午后(在秋季的午后)，书香满室(書香滿室)。",
+      "pinyin": "Zài qiū jì de wǔ hòu, shū xiāng mǎn shì.",
+      "english": "On an autumn afternoon, the room is filled with the fragrance of books."
+    }
+  ]
+}

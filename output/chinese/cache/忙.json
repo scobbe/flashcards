@@ -1,0 +1,44 @@
+{
+  "simplified": "忙",
+  "traditional": "忙",
+  "pinyin": "máng",
+  "english": "busy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 心(心) (xīn, \"heart\") + phonetic: 亡(亡) (wáng, \"perish\") = heart in turmoil -> busy",
+    "interpretation": "忙(忙) (máng, \"busy\") combines 心(心) (xīn, \"heart\") for the emotional aspect with 亡(亡) (wáng, \"perish\") which lends its sound, capturing the sense of a heart overwhelmed with activities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "perish"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天很忙(我今天很忙)。",
+      "pinyin": "Wǒ jīntiān hěn máng.",
+      "english": "I am very busy today."
+    },
+    {
+      "chinese": "他虽然很忙(他雖然很忙)，仍然抽时间学习(仍然抽時間學習)。",
+      "pinyin": "Tā suīrán hěn máng, réngrán chōu shíjiān xuéxí.",
+      "english": "Although he is busy, he still finds time to study."
+    },
+    {
+      "chinese": "忙于工作的人(忙於工作的人)，总是忘记休息(總是忘記休息)。",
+      "pinyin": "Máng yú gōngzuò de rén, zǒng shì wàngjì xiūxí.",
+      "english": "People who are busy at work always forget to rest."
+    }
+  ]
+}

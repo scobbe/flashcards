@@ -1,0 +1,39 @@
+{
+  "simplified": "龄",
+  "traditional": "齡",
+  "pinyin": "líng",
+  "english": "age; years; time",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 齒(齿) (chǐ, \"tooth\") + Phonetic: 令(令) (lìng, \"order\") = related to teeth through years -> by extension, age and years",
+    "interpretation": "The character 龄(líng, \"age\") is associated with \"teeth\" which can signify the process of aging. The phonetic component 令(令) (lìng, \"order\") suggests the sound. This combination conveys the concept of \"age\" or \"years,\" as teeth have cultural associations with growth and development over time.",
+    "simplification": "Simplified by replacing 齒(齒) (chǐ, \"tooth\") with its simpler form 齿(齿) (chǐ, \"tooth\")."
+  },
+  "parts": [
+    {
+      "char": "齿",
+      "trad": "齒",
+      "pinyin": "chǐ",
+      "english": "tooth"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "order"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的年龄增长迅速(他的年齡增長迅速)，未来充满希望(未來充滿希望)。",
+      "pinyin": "Tā de nián líng zēng zhǎng xùn sù, wèi lái chōng mǎn xī wàng.",
+      "english": "His age is increasing rapidly, and the future is full of hope."
+    },
+    {
+      "chinese": "科学研究表明(科學研究表明)，年龄只是一个数字(年齡只是一個數字)。",
+      "pinyin": "Kē xué yán jiū biǎo míng, nián líng zhǐ shì yī gè shù zì.",
+      "english": "Scientific research shows that age is just a number."
+    }
+  ]
+}

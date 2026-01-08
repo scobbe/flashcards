@@ -1,0 +1,44 @@
+{
+  "simplified": "豆浆",
+  "traditional": "豆漿",
+  "pinyin": "dòujiāng",
+  "english": "soy milk",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆(豆) (dòu, \"bean\") + 浆(漿) (jiāng, \"thick liquid\") = 豆浆(豆漿) (dòujiāng, \"soy milk\") refers to the thick liquid made from soybeans.",
+    "interpretation": "This combination makes sense as 豆(豆) (dòu, \"bean\") indicates the main ingredient, soybeans, and 浆(漿) (jiāng, \"thick liquid\") describes its liquid form. Together, they precisely describe soy milk, a popular beverage made by soaking and grinding soybeans.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    },
+    {
+      "char": "浆",
+      "trad": "漿",
+      "pinyin": "jiāng",
+      "english": "thick liquid; starch; broth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天早晨都喝豆浆(我每天早晨都喝豆漿)。",
+      "pinyin": "Wǒ měitiān zǎochén dōu hē dòujiāng.",
+      "english": "I drink soy milk every morning."
+    },
+    {
+      "chinese": "早餐配豆浆(早餐配豆漿)，让身体充满活力(讓身體充滿活力)。",
+      "pinyin": "Zǎocān pèi dòujiāng, ràng shēntǐ chōngmǎn huólì.",
+      "english": "Having soy milk with breakfast energizes the body."
+    },
+    {
+      "chinese": "豆浆营养丰富(豆漿營養豐富)。",
+      "pinyin": "Dòujiāng yíngyǎng fēngfù.",
+      "english": "Soy milk is rich in nutrients."
+    }
+  ]
+}

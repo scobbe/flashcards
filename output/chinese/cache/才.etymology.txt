@@ -1,0 +1,12 @@
+[才]
+Pictogram ( 象形 ) — a sharp peg. Same as 弋 and 尗 . See also the top component of 𢦏 .
+Xu Shen erroneously analyzed this character as a sprout growing from the ground.
+
+[儕]
+Phono-semantic compound ( 形聲 / 形声 , OC *zriːl ): semantic 人 + phonetic 齊 ( OC *zliːl, *zliːls ) .
+
+[濟]
+Phono-semantic compound ( 形聲 / 形声 , OC *ʔsliːlʔ, *ʔsliːls ): semantic 水 ( “ water ” ) + phonetic 齊 ( OC *zliːl, *zliːls ) .
+
+[济]
+Simplified from 濟 ( 齊 → 齐 ).

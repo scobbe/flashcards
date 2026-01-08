@@ -1,0 +1,39 @@
+{
+  "simplified": "鋁",
+  "traditional": "鋁",
+  "pinyin": "lǚ",
+  "english": "ingot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "金(金) (jīn, \"metal; gold\") + phonetic 慮(慮) (lǜ) = related to metal properties -> ingot",
+    "interpretation": "鋁(lǚ) (\"ingot\") combines 金(金) to indicate association with metal and 慮(慮) as a phonetic component, suggesting the importance of careful consideration in metallurgy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "慮",
+      "trad": "慮",
+      "pinyin": "lǜ",
+      "english": "consider"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工厂里熔化的铝经过快速冷却后(工廠裡熔化的鋁經過快速冷卻後)，凝固成锭形状(凝固成錠形狀)。",
+      "pinyin": "Gōngchǎng lǐ rónghuà de lǚ jīngguò kuàisù lěngquè hòu, nínggù chéng dìng xíngzhuàng.",
+      "english": "In the factory, the melted aluminum quickly cooled and solidified into ingot shapes."
+    },
+    {
+      "chinese": "冶炼工匠精心铸造铝为高质量锭(冶煉工匠精心鑄造鋁為高質量錠)。",
+      "pinyin": "Yěliàn gōngjiàng jīngxīn zhùzào lǚ wèi gāo zhìliàng dìng.",
+      "english": "The metallurgists meticulously cast the aluminum into high-quality ingots."
+    }
+  ]
+}

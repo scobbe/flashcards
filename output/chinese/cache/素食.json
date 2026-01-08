@@ -1,0 +1,44 @@
+{
+  "simplified": "素食",
+  "traditional": "素食",
+  "pinyin": "sùshí",
+  "english": "vegetarian food",
+  "etymology": {
+    "type": "compound word",
+    "description": "素(素) (sù, \"plain; vegetarian\") + 食(食) (shí, \"food; eat\") = vegetarian food",
+    "interpretation": "素食(素食) (sùshí, \"vegetarian food\") is a term that refers to food prepared without meat. This concept is significant in Buddhism, where vegetarianism is practiced for ethical and spiritual reasons, promoting non-violence and compassion towards all living beings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "素",
+      "trad": "素",
+      "pinyin": "sù",
+      "english": "plain; vegetarian"
+    },
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food; eat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢素食(我喜歡素食)。",
+      "pinyin": "Wǒ xǐhuān sùshí.",
+      "english": "I like vegetarian food."
+    },
+    {
+      "chinese": "为了健康(為了健康)，他选择了素食(他選擇了素食)。",
+      "pinyin": "Wèi le jiànkāng, tā xuǎnzé le sùshí.",
+      "english": "For the sake of health, he chose vegetarian food."
+    },
+    {
+      "chinese": "古人喜好素食(古人喜好素食)，认为这是一种养生之道(認為這是一種養生之道)。",
+      "pinyin": "Gǔ rén xǐhào sùshí, rènwéi zhè shì yī zhǒng yǎngshēng zhī dào.",
+      "english": "Ancient people liked vegetarian food, considering it a way to nurture life."
+    }
+  ]
+}

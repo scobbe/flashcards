@@ -1,0 +1,31 @@
+{
+  "simplified": "阝",
+  "traditional": "阝",
+  "pinyin": "fù",
+  "english": "mound",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a small mound or hillock.",
+    "interpretation": "The character 阝(阝) (fù, 'mound') visually represents a small elevation of land, resembling a hillside or embankment.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小山顶上耸立着阝(小山頂上聳立著阜)。",
+      "pinyin": "Xiǎo shāndǐng shàng sǒnglì zhe fù.",
+      "english": "A small mound stands atop the hill."
+    },
+    {
+      "chinese": "山坡上长满了绿色的草丛(山坡上長滿了綠色的草叢)，山丘边坐落着一座古老的阝(山丘邊坐落著一座古老的阜)。",
+      "pinyin": "Shānpō shàng cháng mǎn le lǜsè de cǎocóng, shānqiū biān zuòluò zhe yī zuò gǔlǎo de fù.",
+      "english": "The hillside is covered with green grass, and an ancient mound sits by the hill."
+    },
+    {
+      "chinese": "远处沙丘边隐约可见一堆阝(遠處沙丘邊隱約可見一堆阜)，仿佛历史的见证(彷彿歷史的見證)。",
+      "pinyin": "Yuǎnchù shāqiū biān yǐnyuē kějiàn yī duī fù, fǎngfú lìshǐ de jiànzhèng.",
+      "english": "In the distance, a pile of mounds is barely visible by the sand dunes, as if witnessing history."
+    }
+  ]
+}

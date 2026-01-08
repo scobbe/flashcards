@@ -1,0 +1,50 @@
+{
+  "simplified": "不在酒",
+  "traditional": "不在酒",
+  "pinyin": "bù zài jiǔ",
+  "english": "not in the wine",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\"), 在(在) (zài, \"in; at\"), 酒(酒) (jiǔ, \"wine\")",
+    "interpretation": "不在酒(不在酒) (bù zài jiǔ, \"not in the wine\") can imply that the essence or true meaning lies elsewhere, perhaps drawing on the concept that external appearances or substances do not contain the true nature or spirit of something. In Chinese culture, wine is often associated with social gatherings, but this expression suggests something deeper is at play, not merely found in the wine itself.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "在",
+      "trad": "在",
+      "pinyin": "zài",
+      "english": "in; at"
+    },
+    {
+      "char": "酒",
+      "trad": "酒",
+      "pinyin": "jiǔ",
+      "english": "wine"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "快乐不在酒(快樂不在酒)。",
+      "pinyin": "Kuài lè bù zài jiǔ.",
+      "english": "Happiness is not found in wine."
+    },
+    {
+      "chinese": "品味真正的快乐不在酒(品味真正的快樂不在酒)，而在于心(而在於心)。",
+      "pinyin": "Pǐn wèi zhēn zhèng de kuài lè bù zài jiǔ, ér zài yú xīn.",
+      "english": "To appreciate true happiness is not in wine, but in the heart."
+    },
+    {
+      "chinese": "他坚信智慧不在酒(他堅信智慧不在酒)，而在勤奋中体现(而在勤奮中體現)。",
+      "pinyin": "Tā jiān xìn zhì huì bù zài jiǔ, ér zài qín fèn zhōng tǐ xiàn.",
+      "english": "He firmly believes that wisdom is not in wine, but is embodied in diligence."
+    }
+  ]
+}

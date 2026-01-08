@@ -1,0 +1,44 @@
+{
+  "simplified": "甚",
+  "traditional": "甚",
+  "pinyin": "shèn",
+  "english": "very",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "甘(甘) (gān, \"sweet\") as phonetic component + 匹(匹) (pǐ, \"equal\") as semantic component = emphasizes extent or degree -> final meaning \"very\"",
+    "interpretation": "The character 甚(甚) (shèn, \"very\") combines 甘(甘) (gān, \"sweet\") for sound, associated with harmony and pleasantness, with 匹(匹) (pǐ, \"equal\") to convey the idea of exceeding or surpassing the norm in degree or extent.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    },
+    {
+      "char": "匹",
+      "trad": "匹",
+      "pinyin": "pǐ",
+      "english": "equal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个苹果甚甜(這個蘋果甚甜)。",
+      "pinyin": "Zhège píngguǒ shèn tián.",
+      "english": "This apple is very sweet."
+    },
+    {
+      "chinese": "他的工作甚辛苦(他的工作甚辛苦)，但他仍然乐观(但他仍然樂觀)。",
+      "pinyin": "Tā de gōngzuò shèn xīnkǔ, dàn tā réngrán lèguān.",
+      "english": "His work is very hard, but he remains optimistic."
+    },
+    {
+      "chinese": "这道菜甚好吃(這道菜甚好吃)。",
+      "pinyin": "Zhè dào cài shèn hǎochī.",
+      "english": "This dish is very delicious."
+    }
+  ]
+}

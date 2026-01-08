@@ -1,0 +1,26 @@
+{
+  "simplified": "中",
+  "traditional": "中",
+  "pinyin": "zhōng",
+  "english": "middle; center",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an arrow piercing through the center of a target",
+    "interpretation": "The character 中(中) (zhōng, \"middle\") visually represents an arrow passing through the central point of a target, illustrating the concept of 'center' or 'middle' effectively. This visual imagery is straightforward and memorable, corresponding closely with its meaning of being at the center or middle of something.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他站在道路中(他站在道路中)，看着远方(看著遠方)。",
+      "pinyin": "tā zhàn zài dàolù zhōng, kànzhe yuǎnfāng.",
+      "english": "He stands in the middle of the road, gazing into the distance."
+    },
+    {
+      "chinese": "房间正中(房間正中)，挂着一幅名画(掛著一幅名畫)。",
+      "pinyin": "fángjiān zhèng zhōng, guàzhe yī fú mínghuà.",
+      "english": "A famous painting hangs in the exact center of the room."
+    }
+  ]
+}

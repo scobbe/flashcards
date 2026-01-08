@@ -1,0 +1,44 @@
+{
+  "simplified": "周游",
+  "traditional": "周遊",
+  "pinyin": "zhōuyóu",
+  "english": "travel around",
+  "etymology": {
+    "type": "compound word",
+    "description": "周(周) (zhōu, \"circle; complete\") + 游(遊) (yóu, \"travel; wander\") = to travel around; to roam",
+    "interpretation": "The combination of 周(周) (zhōu, \"circle; complete\") and 游(遊) (yóu, \"travel; wander\") conveys the idea of traveling in a circular or comprehensive manner, suggesting extensive travel or wandering across different places.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "周",
+      "trad": "周",
+      "pinyin": "zhōu",
+      "english": "circle; complete; cycle"
+    },
+    {
+      "char": "游",
+      "trad": "遊",
+      "pinyin": "yóu",
+      "english": "travel; wander; roam"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他周游世界(他周遊世界)。",
+      "pinyin": "Tā zhōuyóu shìjiè.",
+      "english": "He traveled around the world."
+    },
+    {
+      "chinese": "艺术家周游名城(藝術家周遊名城)，寻找灵感源泉(尋找靈感源泉)。",
+      "pinyin": "Yìshùjiā zhōuyóu míngchéng, xúnzhǎo línggǎn yuánquán.",
+      "english": "The artist traveled around famous cities, seeking sources of inspiration."
+    },
+    {
+      "chinese": "学者周游古国(學者周遊古國)，采撷典故(採擷典故)。",
+      "pinyin": "Xuézhě zhōuyóu gǔguó, cǎixié diǎngù.",
+      "english": "The scholar traveled around ancient kingdoms, collecting classic allusions."
+    }
+  ]
+}

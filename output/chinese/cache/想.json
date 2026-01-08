@@ -1,0 +1,44 @@
+{
+  "simplified": "想",
+  "traditional": "想",
+  "pinyin": "xiǎng",
+  "english": "think; ponder; consider; believe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 相(相) (xiāng, \"appearance\") + Semantic: 心(心) (xīn, \"heart, mind\") = visualizing in the mind -> to think, to consider",
+    "interpretation": "想(想) (xiǎng, \"think\") combines the phonetic component 相(相) (xiāng, \"appearance\") with the semantic component 心(心) (xīn, \"heart, mind\") to convey the idea of visualizing or pondering something with the heart or mind. This effectively captures the essence of internal contemplation or consideration.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "相",
+      "trad": "相",
+      "pinyin": "xiāng",
+      "english": "appearance"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart, mind"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想去图书馆(我想去圖書館)。",
+      "pinyin": "Wǒ xiǎng qù túshūguǎn.",
+      "english": "I want to go to the library."
+    },
+    {
+      "chinese": "妈妈想做饭(媽媽想做飯)，我们想吃中餐(我們想吃中餐)。",
+      "pinyin": "Māmā xiǎng zuò fàn, wǒmen xiǎng chī zhōngcān.",
+      "english": "Mom wants to cook, and we want to eat Chinese food."
+    },
+    {
+      "chinese": "他想一想(他想一想)，就决定了(就決定了)。",
+      "pinyin": "Tā xiǎng yīxiǎng, jiù juédìng le.",
+      "english": "He gave it some thought, then made a decision."
+    }
+  ]
+}

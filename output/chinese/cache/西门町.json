@@ -1,0 +1,45 @@
+{
+  "simplified": "西门町",
+  "traditional": "西門町",
+  "pinyin": "Xīmén Dīng",
+  "english": "Ximending, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "西(西) (xī, \"west\"), 門(門) (mén, \"gate\"), 町(町) (dīng, \"pavilion; village; ward\") is a term used in Taiwan to designate wards or urban districts.",
+    "interpretation": "西門町(西门町) (Xīmén Dīng) refers to Ximending, a well-known shopping and entertainment district in Taipei, Taiwan. The name combines 西(西) (xī, \"west\") and 門(門) (mén, \"gate\"), indicating its historic location near the western gate of old Taipei, with 町(町) (dīng, \"pavilion; village; ward\") as a naming convention for urban districts, reflecting its vibrant community atmosphere.",
+    "simplification": "门"
+  },
+  "parts": [
+    {
+      "char": "西",
+      "trad": "西",
+      "pinyin": "xī",
+      "english": "west"
+    },
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "gate"
+    },
+    {
+      "char": "町",
+      "trad": "町",
+      "pinyin": "dīng",
+      "english": "pavilion; village; ward"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算这个星期去西门町(我打算這個星期去西門町)，体验台北独特的文化(體驗臺北獨特的文化)。",
+      "pinyin": "Wǒ dǎsuàn zhège xīngqī qù Xīmén Dīng(Xīmén Dīng)，tǐyàn Táiběi dú tè de wénhuà(Táiběi dú tè de wénhuà)。",
+      "english": "I plan to go to Ximending this week and experience Taipei's unique culture."
+    },
+    {
+      "chinese": "我来到西门町(我來到西門町)，寻找时尚新品(尋找時尚新品)。",
+      "pinyin": "Wǒ láidào Xīmén Dīng(Xīmén Dīng)，xúnzhǎo shíshàng xīnpǐn(xúnzhǎo shíshàng xīnpǐn)。",
+      "english": "I came to Ximending to look for fashionable new products."
+    }
+  ]
+}

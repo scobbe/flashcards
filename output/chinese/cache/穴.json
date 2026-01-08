@@ -1,0 +1,31 @@
+{
+  "simplified": "穴",
+  "traditional": "穴",
+  "pinyin": "xué",
+  "english": "cave, hole",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cave or hole, resembling a small dwelling or opening",
+    "interpretation": "The character 穴(穴) (xué, \"cave\") visually represents a hole or cave with an open entry, suggesting a sheltered space similar to a primitive dwelling or burrow.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山里隐匿着一个深深的穴(山裡隱匿著一個深深的穴)。",
+      "pinyin": "Shān lǐ yǐn nì zhe yí gè shēn shēn de xué.",
+      "english": "A deep cave is hidden in the mountains."
+    },
+    {
+      "chinese": "探险家在悬崖下发现了一个幽静的穴(探險家在懸崖下發現了一個幽靜的穴)，据说里面住着古老的精灵(據說裡面住著古老的精靈)。",
+      "pinyin": "Tàn xiǎnjiā zài xuán yá xià fāxiàn le yí gè yōu jìng de xué, jù shuō lǐmiàn zhùzhe gǔlǎo de jīng líng.",
+      "english": "The explorer discovered a quiet cave beneath the cliff, and it is said that ancient spirits dwell inside."
+    },
+    {
+      "chinese": "河岸边的岩石上有一个小穴(河岸邊的岩石上有一個小穴)。",
+      "pinyin": "Hé àn biān de yán shí shàng yǒu yí gè xiǎo xué.",
+      "english": "There is a small cave on the rock by the riverbank."
+    }
+  ]
+}

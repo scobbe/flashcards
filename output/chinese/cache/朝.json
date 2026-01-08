@@ -1,0 +1,44 @@
+{
+  "simplified": "朝",
+  "traditional": "朝",
+  "pinyin": "zhāo",
+  "english": "morning",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 月(月) (yuè, 'moon') + Phonetic: 𦣞(𦣞) (unknown) = aspects of the day -> morning",
+    "interpretation": "The character 朝(朝) (zhāo, 'morning') combines the semantic component 月(月) (yuè, 'moon') suggesting a time associated with the moon, while the phonetic component 𦣞(𦣞) lends its sound. Together, these elements capture the transition from night to day, or morning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    },
+    {
+      "char": "𦣞",
+      "trad": "𦣞",
+      "pinyin": "unknown",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "朝風拂面(朝風拂面)。",
+      "pinyin": "Zhāo fēng fú miàn.",
+      "english": "The morning breeze caresses one's face."
+    },
+    {
+      "chinese": "朝露滋潤花朵(朝露滋潤花朵)。",
+      "pinyin": "Zhāo lù zī rùn huā duǒ.",
+      "english": "The morning dew nourishes the flowers."
+    },
+    {
+      "chinese": "朝霜悄降山野(朝霜悄降山野)，預兆豐收季節(預兆豐收季節)。",
+      "pinyin": "Zhāo shuāng qiāo jiàng shān yě, yù zhào fēng shōu jì jié.",
+      "english": "The morning frost silently falls on the mountains and fields, signaling a season of abundant harvest."
+    }
+  ]
+}

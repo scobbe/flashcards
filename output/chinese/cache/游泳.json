@@ -1,0 +1,44 @@
+{
+  "simplified": "游泳",
+  "traditional": "游泳",
+  "pinyin": "yóuyǒng",
+  "english": "swim; swimming",
+  "etymology": {
+    "type": "compound word",
+    "description": "游(遊) (yóu, \"to swim; to travel\") + 泳(泳) (yǒng, \"to swim\") = swim; swimming",
+    "interpretation": "The word 游泳 (yóuyǒng) combines 游(遊) (yóu, \"to swim; to travel\") and 泳(泳) (yǒng, \"to swim\") to depict the action of swimming. It emphasizes the physical act as well as the potential enjoyment or leisure activity associated with it.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "游",
+      "trad": "遊",
+      "pinyin": "yóu",
+      "english": "to swim; to travel; to wander"
+    },
+    {
+      "char": "泳",
+      "trad": "泳",
+      "pinyin": "yǒng",
+      "english": "to swim"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢游泳(我喜歡游泳)。",
+      "pinyin": "Wǒ xǐhuān yóuyǒng.",
+      "english": "I like swimming."
+    },
+    {
+      "chinese": "夏天来了(夏天來了)，我们去游泳(我們去游泳)。",
+      "pinyin": "Xiàtiān láile, wǒmen qù yóuyǒng.",
+      "english": "When summer comes, we go swimming."
+    },
+    {
+      "chinese": "他每天练习游泳(他每天練習游泳)，以备参加比赛(以備參加比賽)。",
+      "pinyin": "Tā měitiān liànxí yóuyǒng, yǐ bèi cānjiā bǐsài.",
+      "english": "He practices swimming every day in preparation for competitions."
+    }
+  ]
+}

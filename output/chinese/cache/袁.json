@@ -1,0 +1,39 @@
+{
+  "simplified": "袁",
+  "traditional": "袁",
+  "pinyin": "yuán",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "衣(衣) (yī, 'clothing') + 音(音) (yīn, used for phonetic purposes) = phonetic sound carrier -> phonetic component 'yuán'",
+    "interpretation": "The character 袁(yuán) utilizes 衣(yī, 'clothing') to suggest a connection to garments, while 音(yīn) serves as the phonetic element. Together, they form a character used phonologically.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothing"
+    },
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在汉字构造中(在漢字構造中)，袁常被用作声旁(袁常被用作聲旁)。",
+      "pinyin": "Zài hànzì gòuzào zhōng, yuán cháng bèi yòng zuò shēngpáng.",
+      "english": "In the formation of Chinese characters, '袁' is often used as a phonetic component."
+    },
+    {
+      "chinese": "这个字里面(這個字裡面)，包含了袁这个音旁(包含了袁這個音旁)。",
+      "pinyin": "Zhège zì lǐmiàn, bāohánle yuán zhège yīnpáng.",
+      "english": "This character contains '袁' as its phonetic component."
+    }
+  ]
+}

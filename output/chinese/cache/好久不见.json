@@ -1,0 +1,56 @@
+{
+  "simplified": "好久不见",
+  "traditional": "好久不見",
+  "pinyin": "hǎojiǔ bújiàn",
+  "english": "long time no see",
+  "etymology": {
+    "type": "compound word",
+    "description": "好(好) (hǎo, \"very\") + 久(久) (jiǔ, \"long time\") + 不(不) (bù, \"not\") + 见(見) (jiàn, \"see\"). This phrase is used when meeting someone after not having seen them for a while.",
+    "interpretation": "好久不见(好久不見) (hǎojiǔ bújiàn, \"long time no see\") is a greeting used when you meet someone again after a long period has passed. It conveys the idea of being pleased to see each other after a long absence, reflecting friendliness and warmth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "好",
+      "trad": "好",
+      "pinyin": "hǎo",
+      "english": "very; good"
+    },
+    {
+      "char": "久",
+      "trad": "久",
+      "pinyin": "jiǔ",
+      "english": "long time"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not; no"
+    },
+    {
+      "char": "见",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see; meet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你今天来了(你今天來了)，好久不见(好久不見)。",
+      "pinyin": "Nǐ jīntiān láile, hǎojiǔ bújiàn.",
+      "english": "You have come today, long time no see."
+    },
+    {
+      "chinese": "我们好久不见(我們好久不見)。",
+      "pinyin": "Wǒmen hǎojiǔ bújiàn.",
+      "english": "Long time no see, we haven't met for ages."
+    },
+    {
+      "chinese": "老朋友(老朋友)，好久不见(好久不見)！",
+      "pinyin": "Lǎo péngyǒu, hǎojiǔ bújiàn!",
+      "english": "Old friend, long time no see!"
+    }
+  ]
+}

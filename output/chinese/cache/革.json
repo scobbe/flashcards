@@ -1,0 +1,31 @@
+{
+  "simplified": "革",
+  "traditional": "革",
+  "pinyin": "gé",
+  "english": "change",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stretched animal hide: head and tail/legs visible with hands briefly added",
+    "interpretation": "The character 革(革) (gé, \"change\") originally depicted a stretched animal hide, emphasizing the transformation process involved in treatment of the hide. Over time, this visual representation came to symbolize broader transformations or changes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司需要革新(公司需要革新)，才能适应市场变化(才能適應市場變化)。",
+      "pinyin": "Gōngsī xūyào géxīn，cái néng shìyìng shìchǎng biànhuà。",
+      "english": "The company needs to innovate in order to adapt to market changes."
+    },
+    {
+      "chinese": "我们应当革除旧习(我們應當革除舊習)，采纳新理念(採納新理念)。",
+      "pinyin": "Wǒmen yīngdāng géchú jiùxí，cǎinà xīn lǐniàn。",
+      "english": "We should abolish old practices and adopt new ideas."
+    },
+    {
+      "chinese": "时代在革(時代在革)，记录着巨变(記錄著巨變)。",
+      "pinyin": "Shídài zài gé，jìlù zhe jùbiàn。",
+      "english": "The era is changing, recording tremendous transformations."
+    }
+  ]
+}

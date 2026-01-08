@@ -1,0 +1,45 @@
+{
+  "simplified": "信义区",
+  "traditional": "信義區",
+  "pinyin": "Xìnyì Qū",
+  "english": "Xinyi District, Taipei",
+  "etymology": {
+    "type": "compound word",
+    "description": "信(信) (xìn, \"trust\") + 義(義) (yì, \"righteousness\") = moral concepts suggesting a trustworthy and righteous area -> 区(區) (qū, \"district\") indicates an administrative division.",
+    "interpretation": "信义(信義) (xìnyì, \"trust and righteousness\") suggests a place governed by principles of trust and righteousness, reflecting positive attributes. Originally likely chosen for its auspicious qualities, this name now denotes a distinguished administrative region, Xinyi District, in Taipei.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "信",
+      "trad": "信",
+      "pinyin": "xìn",
+      "english": "trust; letter; believe"
+    },
+    {
+      "char": "义",
+      "trad": "義",
+      "pinyin": "yì",
+      "english": "righteousness; justice; meaning"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "district; region; area"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我住在信义区(我住在信義區)。",
+      "pinyin": "Wǒ zhù zài Xìnyì Qū.",
+      "english": "I live in Xinyi District."
+    },
+    {
+      "chinese": "信义区(信義區)经济繁荣(經濟繁榮)，吸引许多国际企业(吸引許多國際企業)。",
+      "pinyin": "Xìnyì Qū jīngjì fánróng, xīyǐn xǔduō guójì qǐyè.",
+      "english": "Xinyi District's economy is booming and attracts many international companies."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "李",
+  "traditional": "李",
+  "pinyin": "Lǐ",
+  "english": "a common Chinese surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 來(來) (lái, 'wheat') + Semantic: 子(子) (zǐ, 'child') -> 木(木) (mù, 'tree') emerged corrupting 来 -> 李(李, 'plum tree')",
+    "interpretation": "Originally, 李(李) combined 來(來) and 子(子) to form the character. Over time, the phonetic component resembled 木(木), giving 李 its association with 'plum tree,' and evolving into a common surname.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "來",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "wheat"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "李姓在中国很常见(李姓在中國很常見)。",
+      "pinyin": "Lǐ xìng zài Zhōngguó hěn chángjiàn.",
+      "english": "The surname Li is very common in China."
+    },
+    {
+      "chinese": "我在学校认识了李老师(我在學校認識了李老師)，她非常慈祥(她非常慈祥)。",
+      "pinyin": "Wǒ zài xuéxiào rènshi le Lǐ lǎoshī, tā fēicháng cíxiáng.",
+      "english": "I met Teacher Li at school, and she is very kind."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "工程师",
+  "traditional": "工程師",
+  "pinyin": "gōngchéngshī",
+  "english": "engineer",
+  "etymology": {
+    "type": "compound word",
+    "description": "工(工) (gōng, \"work\") + 程(程) (chéng, \"process\") + 师(師) (shī, \"expert\") = engineer",
+    "interpretation": "An engineer is someone who is an expert 师(師) (shī, \"expert\") in the process 程(程) (chéng, \"process\") of work 工(工) (gōng, \"work\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work; craft"
+    },
+    {
+      "char": "程",
+      "trad": "程",
+      "pinyin": "chéng",
+      "english": "process; journey"
+    },
+    {
+      "char": "师",
+      "trad": "師",
+      "pinyin": "shī",
+      "english": "teacher; master; expert"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一名优秀的工程师(他是一名優秀的工程師)。",
+      "pinyin": "Tā shì yī míng yōuxiù de gōngchéngshī.",
+      "english": "He is an excellent engineer."
+    },
+    {
+      "chinese": "工程师设计建筑(工程師設計建築)，创造未来(創造未來)。",
+      "pinyin": "Gōngchéngshī shèjì jiànzhú, chuàngzào wèilái.",
+      "english": "Engineers design buildings, creating the future."
+    },
+    {
+      "chinese": "许多人梦想成为工程师(許多人夢想成為工程師)。",
+      "pinyin": "Xǔduō rén mèngxiǎng chéngwéi gōngchéngshī.",
+      "english": "Many people dream of becoming an engineer."
+    }
+  ]
+}

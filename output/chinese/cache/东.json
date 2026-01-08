@@ -1,0 +1,26 @@
+{
+  "simplified": "东",
+  "traditional": "東",
+  "pinyin": "dōng",
+  "english": "east",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally a pictogram of a bundle; simplified to 东 (dōng, \"east\") in cursive, mirroring 車 (chē, \"vehicle\") to 车",
+    "interpretation": "The character 東 originally depicted a bundle of objects tied together, visually symbolizing the concept of 'east' through its form. As writing evolved, the character was simplified to 东, following a similar reduction from 車 to 车. This simplification focused on retaining core visual elements while removing complexity.",
+    "simplification": "The simplification from 東 to 东 involved a reduction to a cursive shorthand form, parallel to 車 becoming 车."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "太阳从东边升起(太陽從東邊升起)。",
+      "pinyin": "Tàiyáng cóng dōngbiān shēngqǐ.",
+      "english": "The sun rises from the east."
+    },
+    {
+      "chinese": "风从东面吹来(風從東面吹來)。",
+      "pinyin": "Fēng cóng dōngmiàn chuī lái.",
+      "english": "The wind blows from the east."
+    }
+  ]
+}

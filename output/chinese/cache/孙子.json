@@ -1,0 +1,44 @@
+{
+  "simplified": "孙子",
+  "traditional": "孫子",
+  "pinyin": "Sūnzǐ",
+  "english": "Sun Tzu; Master Sun",
+  "etymology": {
+    "type": "compound word",
+    "description": "孙(孫) (sūn, \"grandson; descendant\") refers to the surname Sun, and 子(子) (zǐ, \"master; learned man\") is a respectful title for a scholar or master. Together, 孙子(孫子) (Sūnzǐ, \"Master Sun\") refers to the ancient Chinese military strategist, Sun Tzu, author of 'The Art of War.'",
+    "interpretation": "孙子(孫子) (Sūnzǐ, \"Master Sun\") combines the surname Sun with the title 子(子) (zǐ, \"master\") to honor Sun Tzu as a learned and respected military strategist.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孙",
+      "trad": "孫",
+      "pinyin": "sūn",
+      "english": "grandson; descendant"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "master; child; son; learned man"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孙子是兵法大师(孫子是兵法大師)。",
+      "pinyin": "Sūnzǐ shì bīngfǎ dàshī.",
+      "english": "Sun Tzu is a master of military strategy."
+    },
+    {
+      "chinese": "《孙子兵法》是古代军事经典(《孫子兵法》是古代軍事經典)，影响深远(影響深遠)。",
+      "pinyin": "《Sūnzǐ bīngfǎ》 shì gǔdài jūnshì jīngdiǎn, yǐngxiǎng shēnyuǎn.",
+      "english": "The Art of War is an ancient military classic with far-reaching influence."
+    },
+    {
+      "chinese": "许多学者尊崇孙子(許多學者尊崇孫子)，研究兵法智慧(研究兵法智慧)。",
+      "pinyin": "Xǔduō xuézhě zūncóng Sūnzǐ, yánjiū bīngfǎ zhìhuì.",
+      "english": "Many scholars revere Sun Tzu and study the wisdom of military strategy."
+    }
+  ]
+}

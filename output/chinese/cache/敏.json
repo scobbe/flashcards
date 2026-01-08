@@ -1,0 +1,39 @@
+{
+  "simplified": "敏",
+  "traditional": "敏",
+  "pinyin": "mǐn",
+  "english": "sensitive; quick",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 攵(攴) (pū, 'tap') + phonetic: 每(每) (měi, 'each') = quick movements -> sensitive; quick",
+    "interpretation": "The character 敏(mǐn) suggests quick or sensitive actions, combining 攴(攴) (pū, 'tap'), symbolizing action, with 每(每) (měi, 'each'), which hints at repetitive or efficient action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "攵",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    },
+    {
+      "char": "每",
+      "trad": "每",
+      "pinyin": "měi",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他做事十分敏捷(他做事十分敏捷)，总能迅速反应(總能迅速反應)。",
+      "pinyin": "Tā zuò shì shífēn mǐnjié, zǒng néng xùnsù fǎnyìng.",
+      "english": "He is very quick in his actions, always responding swiftly."
+    },
+    {
+      "chinese": "她天生很敏感(她天生很敏感)，容易察觉情绪变化(容易察覺情緒變化)。",
+      "pinyin": "Tā tiānshēng hěn mǐngǎn, róngyì chájué qíngxù biànhuà.",
+      "english": "She is naturally sensitive and easily perceives mood changes."
+    }
+  ]
+}

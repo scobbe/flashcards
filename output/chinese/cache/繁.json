@@ -1,0 +1,44 @@
+{
+  "simplified": "繁",
+  "traditional": "繁",
+  "pinyin": "fán",
+  "english": "complex; numerous",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 糸(糸) (mì, \"silk\") + phonetic: 敏(敏) (mǐn, \"quick/agile\") = elaborate silk -> complex; numerous",
+    "interpretation": "The character combines 糸(糸) (mì, \"silk\") suggesting something elaborate or industrious with 敏(敏) (mǐn, \"quick/agile\") implying multiplicity or complexity. This connects to the idea of something being complex or numerous, as elaborate silk textiles often were.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "敏",
+      "trad": "敏",
+      "pinyin": "mǐn",
+      "english": "quick/agile"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "会议上讨论的问题繁多(會議上討論的問題繁多)。",
+      "pinyin": "Huìyì shàng tǎolùn de wèntí fánduō.",
+      "english": "The issues discussed at the meeting are numerous."
+    },
+    {
+      "chinese": "古书中的文字繁复(古書中的文字繁複)，读者需细细品味(讀者需細細品味)。",
+      "pinyin": "Gǔshū zhōng de wénzì fánfù, dúzhě xū xìxì pǐnwèi.",
+      "english": "The texts in ancient books are complex, and readers must savor them carefully."
+    },
+    {
+      "chinese": "生活中的琐事繁多(生活中的瑣事繁多)，却给人以温暖的记忆(卻給人以溫暖的記憶)。",
+      "pinyin": "Shēnghuó zhōng de suǒshì fánduō, què gěi rén yǐ wēnnuǎn de jìyì.",
+      "english": "The trivial matters in life are numerous, yet they leave people with warm memories."
+    }
+  ]
+}

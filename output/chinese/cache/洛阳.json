@@ -1,0 +1,39 @@
+{
+  "simplified": "洛阳",
+  "traditional": "洛陽",
+  "pinyin": "Luòyáng",
+  "english": "Luoyang",
+  "etymology": {
+    "type": "compound word",
+    "description": "洛(洛) (luò, \"a river or water\") and 阳(陽) (yáng, \"sun; positive principle\"). 洛阳(洛陽) (luòyáng) is the name of a historical city in China, where it refers to a place located by the Luo River with a sunny or favorable position—often south of a river due to the association of 阳(陽) (yáng, \"sun\") with the south side of a hill or north of a river.",
+    "interpretation": "洛阳(洛陽) (luòyáng) is a historically significant city, once the capital of several Chinese dynasties. Its name reflects its geographic and auspicious positioning by the Luo River, emphasizing prosperity and centrality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "洛",
+      "trad": "洛",
+      "pinyin": "luò",
+      "english": "a river; water"
+    },
+    {
+      "char": "阳",
+      "trad": "陽",
+      "pinyin": "yáng",
+      "english": "sun; positive principle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "洛阳是历史名城(洛陽是歷史名城)。",
+      "pinyin": "Luòyáng shì lìshǐ míngchéng.",
+      "english": "Luoyang is a historic city."
+    },
+    {
+      "chinese": "春天来临时(春天來臨時)，洛阳迎来繁花似锦(洛陽迎來繁花似錦)。",
+      "pinyin": "Chūntiān láilín shí, Luòyáng yínglái fánhuā sì jǐn.",
+      "english": "When spring arrives, Luoyang welcomes a profusion of flowers."
+    }
+  ]
+}

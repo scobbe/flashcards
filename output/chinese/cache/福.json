@@ -1,0 +1,44 @@
+{
+  "simplified": "福",
+  "traditional": "福",
+  "pinyin": "fú",
+  "english": "blessing; good fortune",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 示(示) (shì, \"to show/divine\") + phonetic 畐(畐) (fú, \"abundance\") = divine abundance -> blessing; good fortune",
+    "interpretation": "福(fú, \"blessing\") combines 示(shì, \"to show/divine\"), suggesting a spiritual or ritual aspect, with 畐(fú, \"abundance\"), providing the sound and conveying the idea of plentifulness. Together, it represents the concept of blessings or good fortune, which are often associated with divine favor.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "to show/divine"
+    },
+    {
+      "char": "畐",
+      "trad": "畐",
+      "pinyin": "fú",
+      "english": "abundance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "新春到来时(新春到來時)，家家户户张贴福字(家家戶戶張貼福字)。",
+      "pinyin": "Xīnchūn dào lái shí，jiājiā hùhù zhāngtiē fúzì。",
+      "english": "When spring arrives, every household puts up the character for blessing."
+    },
+    {
+      "chinese": "他相信福会照亮人生(他相信福會照亮人生)。",
+      "pinyin": "Tā xiāngxìn fú huì zhàoliàng rénshēng。",
+      "english": "He believes that blessings will illuminate his life."
+    },
+    {
+      "chinese": "满怀福意迎接未来(滿懷福意迎接未來)。",
+      "pinyin": "Mǎn huái fú yì yíngjiē wèilái。",
+      "english": "Embracing blessings, they welcome the future."
+    }
+  ]
+}

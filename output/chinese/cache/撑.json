@@ -1,0 +1,39 @@
+{
+  "simplified": "撑",
+  "traditional": "撐",
+  "pinyin": "chēng",
+  "english": "support; prop up",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + phonetic: 牚(牚) (chēng, \"prop up\") = action involving the hand -> support or prop up",
+    "interpretation": "The character 撐(撐) (chēng, \"support\") brings together the concept of a hand, represented by 手(手) (shǒu, \"hand\"), with the phonetic component 牚(牚) (chēng, \"prop up\"), to convey the idea of using one's hand to physically support or prop something up.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "牚",
+      "trad": "牚",
+      "pinyin": "chēng",
+      "english": "prop up"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用木棍撑起破旧的屋顶(他用木棍撐起破舊的屋頂)。",
+      "pinyin": "Tā yòng mùgùn chēng qǐ pòjiù de wūdǐng。",
+      "english": "He propped up the dilapidated roof with a wooden stick."
+    },
+    {
+      "chinese": "朋友们的鼓励撑起了他的信心(朋友們的鼓勵撐起了他的信心)，让他勇敢面对挑战(讓他勇敢面對挑戰)。",
+      "pinyin": "Péngyǒumen de gǔlì chēng qǐle tā de xìnxīn, ràng tā yǒnggǎn miànduì tiǎozhàn。",
+      "english": "The encouragement from his friends supported his confidence, enabling him to face challenges bravely."
+    }
+  ]
+}

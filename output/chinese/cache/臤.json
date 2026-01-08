@@ -1,0 +1,26 @@
+{
+  "simplified": "臤",
+  "traditional": "臤",
+  "pinyin": "xián",
+  "english": "strong",
+  "etymology": {
+    "type": "ancient form",
+    "description": "臤(臤) (xián, \"strong\") is an ancient form of 賢(賢) (xián, \"worthy\")",
+    "interpretation": "The character 臤(臤) represents an earlier version of 賢(賢) (xián, \"worthy\") and reflects historical orthographic variations before the standardization of Chinese characters.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的臤力不可抵挡(他的臤力不可抵擋)。",
+      "pinyin": "Tā de xián lì bù kě dǐdǎng.",
+      "english": "His strength is unstoppable."
+    },
+    {
+      "chinese": "运动员体格臤壮(運動員體格臤壯)，精神焕发(精神煥發)。",
+      "pinyin": "Yùndòngyuán tǐgé xián zhuàng, jīngshén huànfā.",
+      "english": "The athlete has a robust physique and his spirit is invigorated."
+    }
+  ]
+}

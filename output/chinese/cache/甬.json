@@ -1,0 +1,31 @@
+{
+  "simplified": "甬",
+  "traditional": "甬",
+  "pinyin": "yǒng",
+  "english": "wine cup",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a neck and a cup shape",
+    "interpretation": "甬(甬) (yǒng, \"wine cup\") visually represents a neck and cup shape, suggesting its original meaning related to narrow passages or containers.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古典诗词中常描绘那只镶有雕花纹路的甬(古典詩詞中常描繪那只鑲有雕花紋路的甬)。",
+      "pinyin": "gǔdiǎn shīcí zhōng cháng miáohuì nà zhī xiāng yǒu diāohuā wénlù de yǒng.",
+      "english": "In classical poetry, the intricately carved wine cup is often depicted."
+    },
+    {
+      "chinese": "文人喜饮佳酿(文人喜飲佳釀)，常以甬盛载真情(常以甬盛載真情)。",
+      "pinyin": "wénrén xǐ yǐn jiāniàng, cháng yǐ yǒng shèngzài zhēnqíng.",
+      "english": "Scholars enjoy fine wine, often using the wine cup to convey heartfelt sentiments."
+    },
+    {
+      "chinese": "宴会间，他举起古色古香的甬(宴會間，他舉起古色古香的甬)。",
+      "pinyin": "yànhuì jiān, tā jǔqǐ gǔsè gǔxiāng de yǒng.",
+      "english": "During the banquet, he raised the antique wine cup."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "斯",
+  "traditional": "斯",
+  "pinyin": "sī",
+  "english": "this",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 其(其) (qí, \"his\") + semantic: 斤(斤) (jīn, \"axe\") = indicates a specific object -> this",
+    "interpretation": "斯(斯) (sī) combines 其(其) (qí, \"his\") as a phonetic component suggesting pronunciation with 斤(斤) (jīn, \"axe\") as a semantic component initially related to chopping or cutting, leading to the function of pointing to a specific item or idea, hence the meaning \"this.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    },
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "axe"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "斯时万物复苏(斯時萬物復甦)。",
+      "pinyin": "Sī shí wànwù fùsū.",
+      "english": "At this moment, all things are awakening."
+    },
+    {
+      "chinese": "斯城风光旖旎(斯城風光旖旎)，吸引无数游客(吸引無數遊客)。",
+      "pinyin": "Sī chéng fēngguāng yǐnǐ, xīyǐn wúshù yóukè.",
+      "english": "The enchanting scenery of this city attracts countless tourists."
+    }
+  ]
+}

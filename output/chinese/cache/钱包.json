@@ -1,0 +1,39 @@
+{
+  "simplified": "钱包",
+  "traditional": "錢包",
+  "pinyin": "qiánbāo",
+  "english": "wallet",
+  "etymology": {
+    "type": "compound word",
+    "description": "The word 钱包(錢包) (qiánbāo) is a compound word which combines 钱(錢) (qián, \"money\") and 包(包) (bāo, \"bag\"). The combination literally means a 'money bag', which refers to a wallet.",
+    "interpretation": "Combining 钱(錢) (qián, \"money\") and 包(包) (bāo, \"bag\"), 钱包(錢包) signifies a container or pouch for carrying money, fitting the modern concept of a wallet.",
+    "simplification": "Traditional '錢' simplified to '钱'."
+  },
+  "parts": [
+    {
+      "char": "钱",
+      "trad": "錢",
+      "pinyin": "qián",
+      "english": "money"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "bag"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我丢了钱包(我丟了錢包)。",
+      "pinyin": "Wǒ diū le qiánbāo.",
+      "english": "I lost my wallet."
+    },
+    {
+      "chinese": "今天出门时(今天出門時)，我发现钱包不见了(我發現錢包不見了)。",
+      "pinyin": "Jīntiān chūmén shí, wǒ fāxiàn qiánbāo bùjiàn le.",
+      "english": "Today when leaving home, I discovered that my wallet was missing."
+    }
+  ]
+}

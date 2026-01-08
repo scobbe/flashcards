@@ -1,0 +1,26 @@
+{
+  "simplified": "瓜",
+  "traditional": "瓜",
+  "pinyin": "guā",
+  "english": "melon; squash; gourd",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a melon suspended by its vines",
+    "interpretation": "The character 瓜(瓜) (guā, \"melon\") visually represents the shape and outline of a melon with its vines, emphasizing its organic form and growth pattern.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜爱吃瓜(他喜愛吃瓜)。",
+      "pinyin": "Tā xǐ'ài chī guā.",
+      "english": "He loves eating melons."
+    },
+    {
+      "chinese": "夏日炎炎时(夏日炎炎時)，瓜农开始采摘瓜(瓜農開始采摘瓜)。",
+      "pinyin": "Xiàrì yányán shí, guānóng kāishǐ cǎizhāi guā.",
+      "english": "On scorching summer days, melon farmers start harvesting melons."
+    }
+  ]
+}

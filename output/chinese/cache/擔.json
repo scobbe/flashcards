@@ -1,0 +1,39 @@
+{
+  "simplified": "擔",
+  "traditional": "擔",
+  "pinyin": "dān",
+  "english": "to carry on the shoulder",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(手) (shǒu, \"hand\") as semantic indicating action + 詹(詹) (zhān, \"prolong\") as phonetic -> hand action of carrying -> 擔(擔) (dān, \"to carry on the shoulder\")",
+    "interpretation": "The character 擔 is composed of 扌(手) (shǒu, \"hand\") to signify a hand action and 詹(詹) (zhān) for its phonetic contribution, illustrating the idea of carrying something on one's shoulder with both hands.",
+    "simplification": "The traditional character 擔 was simplified by reducing the complexity of its components, specifically merging 扌(手) with a simplified variant of 詹(詹)."
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "詹",
+      "trad": "詹",
+      "pinyin": "zhān",
+      "english": "prolong"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他担着沉重的木材(他擔著沉重的木材)，走向工地(走向工地)。",
+      "pinyin": "Tā dān zhe chén zhòng de mù cái, zǒu xiàng gōng dì.",
+      "english": "He is carrying heavy wood and heading to the construction site."
+    },
+    {
+      "chinese": "农夫担着谷物(農夫擔著穀物)，赶往市场(趕往市場)。",
+      "pinyin": "Nóng fū dān zhe gǔ wù, gǎn wǎng shì chǎng.",
+      "english": "The farmer is carrying grains and hurrying to the market."
+    }
+  ]
+}

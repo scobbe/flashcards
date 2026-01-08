@@ -1,0 +1,39 @@
+{
+  "simplified": "词",
+  "traditional": "詞",
+  "pinyin": "cí",
+  "english": "word; term",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 言(言) (yán, \"speech\") + phonetic: 司(司) (sī, \"manage\") = word or term relating to speech -> simplified by replacing 言(言) (yán, \"speech\") with 讠(讠) (yán, \"speech\") -> final form 词(詞)",
+    "interpretation": "The character 词(詞) (cí, \"word; term\") combines the speech radical 言(言) (yán, \"speech\") with 司(司) (sī, \"manage\") to indicate a managed or structured form of speech, i.e., a word or term. The simplified form retains this concept, making writing faster with 讠(讠) (yán, \"speech\") being a cursive form of the speech radical.",
+    "simplification": "Simplified by changing the full radical 言(言) (yán, \"speech\") to its cursive form 讠(讠) (yán, \"speech\"), facilitating quicker writing while retaining the original meaning."
+  },
+  "parts": [
+    {
+      "char": "讠",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "司",
+      "trad": "司",
+      "pinyin": "sī",
+      "english": "manage"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个词意义丰富(這個詞意義豐富)。",
+      "pinyin": "Zhè ge cí yìyì fēngfù.",
+      "english": "This word has a rich meaning."
+    },
+    {
+      "chinese": "诗歌中的每个词都富有韵律(詩歌中的每個詞都富有韻律)，展现了作者的才华(展現了作者的才華)。",
+      "pinyin": "Shīgē zhōng de měi ge cí dōu fùyǒu yùnlǜ, zhǎnxiànle zuòzhě de cáihuá.",
+      "english": "Every word in the poem is full of rhythm, revealing the author's talent."
+    }
+  ]
+}

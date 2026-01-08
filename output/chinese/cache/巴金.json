@@ -1,0 +1,44 @@
+{
+  "simplified": "巴金",
+  "traditional": "巴金",
+  "pinyin": "Bā Jīn",
+  "english": "Ba Jin",
+  "etymology": {
+    "type": "compound word",
+    "description": "巴(巴) (bā, \"to cling; a surname\") is often used as a proper noun or surname, and 金(金) (jīn, \"gold; metal\") is also commonly used as a surname or to represent wealth or value.",
+    "interpretation": "巴金(Bā Jīn) is a well-known pen name of the famed 20th-century Chinese writer. The pen name reflects both personal identity as a surname and the value or richness associated with his literary contributions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "to cling; a surname"
+    },
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我经常阅读巴金的小说(我經常閱讀巴金的小說)。",
+      "pinyin": "Wǒ jīngcháng yuèdú Bā Jīn de xiǎoshuō.",
+      "english": "I often read Ba Jin's novels."
+    },
+    {
+      "chinese": "巴金的作品深刻(巴金的作品深刻)，影响了一代人(影響了一代人)。",
+      "pinyin": "Bā Jīn de zuòpǐn shēnkè, yǐngxiǎngle yī dài rén.",
+      "english": "Ba Jin's works are profound and have influenced a generation."
+    },
+    {
+      "chinese": "我在讲座中听到巴金的演讲(我在講座中聽到巴金的演講)。",
+      "pinyin": "Wǒ zài jiǎngzuò zhōng tīngdào Bā Jīn de yǎnjiǎng.",
+      "english": "I heard Ba Jin's speech at the lecture."
+    }
+  ]
+}

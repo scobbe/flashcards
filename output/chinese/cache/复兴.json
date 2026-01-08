@@ -1,0 +1,39 @@
+{
+  "simplified": "复兴",
+  "traditional": "復興",
+  "pinyin": "fùxīng",
+  "english": "revive; rejuvenate",
+  "etymology": {
+    "type": "compound word",
+    "description": "復(復) (fù, \"return; repeat\") and 興(興) (xīng, \"rise; prosper\") together convey the meaning of reviving or rejuvenating something back to its prosperous state.",
+    "interpretation": "The combination of 復(復) (fù, \"return; repeat\") and 興(興) (xīng, \"rise; prosper\") reflects the idea of bringing something back to a state of prosperity or importance, echoing historical efforts to restore cultural or national greatness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "复",
+      "trad": "復",
+      "pinyin": "fù",
+      "english": "return; repeat"
+    },
+    {
+      "char": "兴",
+      "trad": "興",
+      "pinyin": "xīng",
+      "english": "rise; prosper"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "实现国家复兴需要改革(實現國家復興需要改革)，团结民心共创未来(團結民心共創未來)。",
+      "pinyin": "Shíxiàn guójiā fùxīng xūyào gǎigé, tuánjié mínxīn gòngchuàng wèilái.",
+      "english": "Reviving the nation requires reform, uniting the people to create a bright future."
+    },
+    {
+      "chinese": "文化复兴激发创新(文化復興激發創新)，吸引世界关注(吸引世界關注)。",
+      "pinyin": "Wénhuà fùxīng jīfā chuàngxīn, xīyǐn shìjiè guānzhù.",
+      "english": "Cultural revival stimulates innovation and attracts global attention."
+    }
+  ]
+}

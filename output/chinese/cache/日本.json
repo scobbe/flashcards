@@ -1,0 +1,39 @@
+{
+  "simplified": "日本",
+  "traditional": "日本",
+  "pinyin": "Rìběn",
+  "english": "Japan",
+  "etymology": {
+    "type": "compound word",
+    "description": "日(日) (rì, \"sun\") and 本(本) (běn, \"origin\") together signify Japan as the \"origin of the sun.\" This reflects the geographical position of Japan east of the Asian continent, where the sun rises.",
+    "interpretation": "Japan is called 日本 because it is located to the east of the Asian mainland, where the sun rises, symbolizing the \"origin of the sun.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun; day; date"
+    },
+    {
+      "char": "本",
+      "trad": "本",
+      "pinyin": "běn",
+      "english": "origin; root; source; foundation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今年计划去日本(我今年計劃去日本)，体验当地文化(體驗當地文化)。",
+      "pinyin": "Wǒ jīnnián jìhuà qù Rìběn, tǐyàn dāngdì wénhuà.",
+      "english": "I plan to go to Japan this year, to experience the local culture."
+    },
+    {
+      "chinese": "日本美食吸引众多游客(日本美食吸引眾多遊客)。",
+      "pinyin": "Rìběn měishí xīyǐn zhòngduō yóukè.",
+      "english": "Japanese cuisine attracts many tourists."
+    }
+  ]
+}

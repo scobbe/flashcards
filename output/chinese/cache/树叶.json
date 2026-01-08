@@ -1,0 +1,44 @@
+{
+  "simplified": "树叶",
+  "traditional": "樹葉",
+  "pinyin": "shùyè",
+  "english": "leaves",
+  "etymology": {
+    "type": "compound word",
+    "description": "树(樹) (shù, \"tree\") + 叶(葉) (yè, \"leaf\")",
+    "interpretation": "The combination of 树(樹) (shù, \"tree\") and 叶(葉) (yè, \"leaf\") to form 树叶(樹葉) (shùyè, \"leaves\") makes sense as leaves are directly associated with trees. Trees produce leaves, so this word describes the plant part that grows on branches.",
+    "simplification": "树(樹) is the simplified form of 樹, and 叶(葉) is the simplified form of 葉."
+  },
+  "parts": [
+    {
+      "char": "树",
+      "trad": "樹",
+      "pinyin": "shù",
+      "english": "tree"
+    },
+    {
+      "char": "叶",
+      "trad": "葉",
+      "pinyin": "yè",
+      "english": "leaf"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋天到来时(秋天到來時)，树叶变得斑斕(樹葉變得斑斕)。",
+      "pinyin": "Qiūtiān dàolái shí, shùyè biàn de bānlán.",
+      "english": "When autumn arrives, the leaves turn colorful."
+    },
+    {
+      "chinese": "微风吹过(微風吹過)，树叶轻轻落下(樹葉輕輕落下)。",
+      "pinyin": "Wēifēng chuīguò, shùyè qīngqīng luòxià.",
+      "english": "When the gentle wind blows, the leaves fall softly."
+    },
+    {
+      "chinese": "风起时(風起時)，树叶在空中跳舞(樹葉在空中跳舞)。",
+      "pinyin": "Fēngqǐ shí, shùyè zài kōngzhōng tiàowǔ.",
+      "english": "When the wind rises, the leaves dance in the air."
+    }
+  ]
+}

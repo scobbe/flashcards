@@ -1,0 +1,31 @@
+{
+  "simplified": "曰",
+  "traditional": "曰",
+  "pinyin": "yuē",
+  "english": "say",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an open mouth, signifying speech",
+    "interpretation": "The character 曰(曰) (yuē, \"say\") visually resembles a mouth or an opening, symbolizing the action of speaking or saying something.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师曰(老師曰)：勤奋是成功之母(勤奮是成功之母)。",
+      "pinyin": "Lǎoshī yuē：qínfèn shì chénggōng zhī mǔ。",
+      "english": "The teacher said, 'Diligence is the mother of success.'"
+    },
+    {
+      "chinese": "孔子曰(孔子曰)，学而不思则罔(學而不思則罔)。",
+      "pinyin": "Kǒngzǐ yuē, xué ér bù sī zé wǎng。",
+      "english": "Confucius said, 'Learning without thought leads to confusion.'"
+    },
+    {
+      "chinese": "老子曰(老子曰)，无为而治(無為而治)。",
+      "pinyin": "Lǎozǐ yuē, wúwéi ér zhì。",
+      "english": "Laozi said, 'Governance should be achieved through non-action.'"
+    }
+  ]
+}

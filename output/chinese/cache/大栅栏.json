@@ -1,0 +1,39 @@
+{
+  "simplified": "大栅栏",
+  "traditional": "大柵欄",
+  "pinyin": "dà shí làn",
+  "english": "historic commercial street in Beijing",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big\") usually indicates size or importance. 栅(柵) (zhà, \"fence\") and 栏(欄) (lán, \"railing\") together depict a physical structure related to protection or guiding passage.",
+    "interpretation": "大(大) (dà, \"big\") in this context emphasizes the importance of 栅栏(柵欄) (shí làn, \"fence or railing\"), referring to a significant street historically known for its bustling commercial activity, likened to a place enclosed or guided by these structures.",
+    "simplification": "The simplification involves changing 柵 to 栅 and 欄 to 栏."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great; major"
+    },
+    {
+      "char": "栅栏",
+      "trad": "柵欄",
+      "pinyin": "shí làn",
+      "english": "fence; railing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大栅栏有很多老字号的店铺(大柵欄有很多老字號的店舖)。",
+      "pinyin": "dà zhàn lán yǒu hěn duō lǎo zì hào de diàn pù.",
+      "english": "Dà zhàn lán has many time-honored brand shops."
+    },
+    {
+      "chinese": "大栅栏保留着老北京的韵味(大柵欄保留著老北京的韻味)，吸引着众多历史爱好者(吸引著眾多歷史愛好者)。",
+      "pinyin": "dà zhàn lán bǎoliú zhe lǎo běijīng de yùn wèi, xī yǐn zhe zhòng duō lì shǐ ài hào zhě.",
+      "english": "Dà zhàn lán preserves the charm of old Beijing, attracting many history enthusiasts."
+    }
+  ]
+}

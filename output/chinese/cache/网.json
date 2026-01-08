@@ -1,0 +1,26 @@
+{
+  "simplified": "网",
+  "traditional": "網",
+  "pinyin": "wǎng",
+  "english": "net",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a net with crossing lines or mesh -> symbol for 'net'",
+    "interpretation": "The character 网(網) (wǎng, 'net') visually represents a net with lines intersecting to form a grid, making it intuitive as a symbol for a net or mesh.",
+    "simplification": "The simplified character 网 (wǎng) retains the essential visual structure of intersecting lines to depict a net. It conveys the idea of a net through a simplified representation without additional semantic or phonetic elements."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用网捕鱼(他用網捕魚)，快乐满怀(快樂滿懷)。",
+      "pinyin": "Tā yòng wǎng bǔ yú, kuàilè mǎn huái.",
+      "english": "He fishes with a net and is full of joy."
+    },
+    {
+      "chinese": "很多信息通过网传播(很多信息通過網傳播)，速度惊人(速度驚人)。",
+      "pinyin": "Hěn duō xìnxī tōngguò wǎng chuánbō, sùdù jīngrén.",
+      "english": "A lot of information spreads through the net with astonishing speed."
+    }
+  ]
+}

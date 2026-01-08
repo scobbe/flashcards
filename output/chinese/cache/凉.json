@@ -1,0 +1,39 @@
+{
+  "simplified": "凉",
+  "traditional": "涼",
+  "pinyin": "liáng",
+  "english": "cool",
+  "etymology": {
+    "type": "simplified and variant traditional",
+    "description": "氵(水, \"water\") represents the element of water -> 兩(两) (liǎng, \"two\") phonetic component, indicating similarity to calmness or balance -> final meaning \"cool\"",
+    "interpretation": "The character 凉(涼) (liáng, \"cool\") combines the water radical 氵(水, \"water\") suggesting a cooling effect, with the phonetic component 兩(两), hinting at a balanced or moderate temperature.",
+    "simplification": "Simplified by replacing the phonetic component 兩 with its simpler variant 两 while retaining the original meaning."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "两",
+      "trad": "兩",
+      "pinyin": "liǎng",
+      "english": "two"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天天气很凉(今天天氣很涼)。",
+      "pinyin": "Jīntiān tiānqì hěn liáng.",
+      "english": "The weather is cool today."
+    },
+    {
+      "chinese": "夏日午后虽热(夏日午后雖熱)，室内微风凉(室內微風涼)。",
+      "pinyin": "Xiàrì wǔhòu suī rè, shìnèi wēifēng liáng.",
+      "english": "Although the summer afternoon is hot, the indoor breeze is cool."
+    }
+  ]
+}

@@ -5,9 +5,9 @@
   "english": "silver",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gèn, \"stubborn\") = metal with phonetic element suggesting sound -> silver",
-    "interpretation": "The character combines the meaning of 'metal' with a phonetic component to specify 'silver', a highly valued metal. The selection of 艮(艮) (gèn) as the phonetic part helps in pronunciation.",
-    "simplification": "The character 銀(銀) was simplified to 银(銀) by replacing the traditional 金(金) with 钅(钅), a simpler, cursive shorthand form, retaining its meaning as a metal radical."
+    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gěn, \"stopping\") = metal that shines -> silver",
+    "interpretation": "银(銀) (yín, \"silver\") combines the metal radical 金(金) (jīn, \"metal\") with the phonetic component 艮(艮) (gěn, \"stopping\"), suggesting a valuable or precious metal that is not as reactive and considered stable, much like the quality of stopping in 艮(艮).",
+    "simplification": "Traditional component 金(金) (jīn, \"metal\") was simplified to 钅(钅) (jīn, \"metal\") in 银(銀), reducing stroke count for ease of writing while maintaining the semantic meaning."
   },
   "parts": [
     {
@@ -17,28 +17,34 @@
       "english": "metal"
     },
     {
+      "char": "钅",
+      "trad": "钅",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
       "char": "艮",
       "trad": "艮",
-      "pinyin": "gèn",
-      "english": "stubborn"
+      "pinyin": "gěn",
+      "english": "stopping"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "银是一种珍贵的金属(銀是一種珍貴的金屬)。",
-      "pinyin": "Yín shì yī zhǒng zhēnguì de jīnshǔ.",
-      "english": "Silver is a precious metal."
+      "chinese": "银色是一种优雅的颜色(銀色是一種優雅的顏色)。",
+      "pinyin": "Yínsè shì yī zhǒng yōuyǎ de yánsè。",
+      "english": "Silver is an elegant color."
     },
     {
-      "chinese": "他用银制成的餐具(他用銀製成的餐具)，闪闪发光(閃閃發光)。",
-      "pinyin": "Tā yòng yín zhìchéng de cānjù, shǎnshǎn fāguāng.",
-      "english": "The tableware made of silver sparkles."
+      "chinese": "这枚银戒指闪闪发光(這枚銀戒指閃閃發光)。",
+      "pinyin": "Zhè méi yín jièzhǐ shǎnshǎn fāguāng。",
+      "english": "This silver ring sparkles."
     },
     {
-      "chinese": "雕刻师用银打造了精美的饰品(雕刻師用銀打造了精美的飾品)，赢得了许多赞誉(贏得了許多讚譽)。",
-      "pinyin": "Diāokè shī yòng yín dǎzào le jīngměi de shìpǐn, yíngdé le xǔduō zànyù.",
-      "english": "The sculptor crafted exquisite ornaments from silver, earning much praise."
+      "chinese": "店里出售银饰(店裡出售銀飾)，价格十分合理(價格十分合理)。",
+      "pinyin": "Diàn lǐ chūshòu yín shì，jiàgé shífēn hélǐ。",
+      "english": "The store sells silver jewelry, and the prices are very reasonable."
     }
   ]
 }

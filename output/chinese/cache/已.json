@@ -1,0 +1,26 @@
+{
+  "simplified": "已",
+  "traditional": "已",
+  "pinyin": "yǐ",
+  "english": "already",
+  "etymology": {
+    "type": "pictogram",
+    "description": "May have originally been the same character as 巳, depicting a snake or a fetus.",
+    "interpretation": "The character 已(yǐ, \"already\") may have shared its origins with 巳(sì, \"sixth Earthly Branch\"), as both originally depicted a snake or a fetus. Although not found in the Shuowen Jiezi, it has evolved to represent the concept of 'already' in modern usage.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我已完成作业(我已完成作業)。",
+      "pinyin": "Wǒ yǐ wánchéng zuòyè.",
+      "english": "I have already completed my homework."
+    },
+    {
+      "chinese": "他已到达机场(他已到達機場)，航班即将起飞(航班即將起飛)。",
+      "pinyin": "Tā yǐ dàodá jīchǎng, hángbān jíjiāng qǐfēi.",
+      "english": "He has already arrived at the airport, and the flight will take off soon."
+    }
+  ]
+}

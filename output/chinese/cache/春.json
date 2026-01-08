@@ -1,0 +1,50 @@
+{
+  "simplified": "春",
+  "traditional": "春",
+  "pinyin": "chūn",
+  "english": "spring",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "⾠(艸) (cǎo, \"grass\") + 日(日) (rì, \"sun\") + 屯(屯) (zhūn, \"sprout\") = sun shining on grass with sprouts -> spring",
+    "interpretation": "The character 春(春) (chūn, \"spring\") involves elements representing natural growth and revival: grass, sun, and sprouts together illustrate the vibrant growth occurring in springtime.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "⾠",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "屯",
+      "trad": "屯",
+      "pinyin": "zhūn",
+      "english": "sprout"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天来了(春天來了)。",
+      "pinyin": "Chūntiān láile.",
+      "english": "Spring has arrived."
+    },
+    {
+      "chinese": "春天来了(春天來了)，万物复苏(萬物復蘇)。",
+      "pinyin": "Chūntiān láile, wànwù fùsū.",
+      "english": "Spring has arrived, and all things are reviving."
+    },
+    {
+      "chinese": "春光明媚(春光明媚)，人们心情愉快(人們心情愉快)。",
+      "pinyin": "Chūnguāng míngmèi, rénmen xīnqíng yúkuài.",
+      "english": "The spring light is bright, and people feel joyful."
+    }
+  ]
+}

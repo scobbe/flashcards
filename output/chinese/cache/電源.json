@@ -1,0 +1,44 @@
+{
+  "simplified": "電源",
+  "traditional": "電源",
+  "pinyin": "diànyuán",
+  "english": "power source",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electricity\") refers to electrical energy or power, and 源(源) (yuán, \"source\") means the origin or supply of something. Together, 电源(電源) (diànyuán, \"power source\") indicates the origin or supply point for electrical energy.",
+    "interpretation": "A 电源(電源) (diànyuán, \"power source\") is where electrical power originates or is supplied from, necessary for operating electrical equipment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electricity; electric; electrical"
+    },
+    {
+      "char": "源",
+      "trad": "源",
+      "pinyin": "yuán",
+      "english": "source; origin; supply"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我找不到电源(我找不到電源)。",
+      "pinyin": "Wǒ zhǎo bù dào diànyuán.",
+      "english": "I cannot find the power source."
+    },
+    {
+      "chinese": "系统没有电源(系統沒有電源)，机器无法启动(機器無法啟動)。",
+      "pinyin": "Xìtǒng méiyǒu diànyuán, jīqì wúfǎ qǐdòng.",
+      "english": "Without a power source, the machine cannot start."
+    },
+    {
+      "chinese": "请检查电源是否正常(請檢查電源是否正常)。",
+      "pinyin": "Qǐng jiǎnchá diànyuán shìfǒu zhèngcháng.",
+      "english": "Please check if the power source is functioning properly."
+    }
+  ]
+}

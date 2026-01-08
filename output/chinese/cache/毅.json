@@ -1,0 +1,39 @@
+{
+  "simplified": "毅",
+  "traditional": "毅",
+  "pinyin": "yì",
+  "english": "firm; resolute; courageous",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Semantic: 殳(殳) (shū, \"weapon/tool\") + Phonetic: 𠂤(𠂤) (yì, no standalone meaning) = originally related to bravery involving weapons -> firm, resolute",
+    "interpretation": "毅(毅) (yì, \"firm; resolute; courageous\") combines the concept of weapons or tools, associated with strength and warfare from 殳(殳) (shū, \"weapon/tool\"), with 𠂤(𠂤) to provide the phonetic element, emphasizing traits of bravery and courage necessary in warfare. Over time, it came to signify resoluteness and firmness in character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "weapon/tool"
+    },
+    {
+      "char": "𠂤",
+      "trad": "𠂤",
+      "pinyin": "yì",
+      "english": "no standalone meaning"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "面对挫折(面對挫折)，他依然保持了毅(毅)。",
+      "pinyin": "Miànduì cuòzhé, tā yīrán bǎochíle yì.",
+      "english": "In the face of setbacks, he still maintained his resoluteness."
+    },
+    {
+      "chinese": "他的毅让人肃然起敬(他的毅讓人肅然起敬)。",
+      "pinyin": "Tā de yì ràng rén sùrán qǐjìng.",
+      "english": "His resoluteness commands respect."
+    }
+  ]
+}

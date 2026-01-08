@@ -1,0 +1,26 @@
+{
+  "simplified": "耳",
+  "traditional": "耳",
+  "pinyin": "ěr",
+  "english": "ear",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an ear",
+    "interpretation": "The character 耳(耳) (ěr, \"ear\") is a pictogram that visually represents an ear with its distinctive shape. This straightforward representation made it intuitive for ancient speakers to associate the character directly with the concept of an ear.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "音乐直入耳(音樂直入耳)。",
+      "pinyin": "Yīn yuè zhí rù ěr.",
+      "english": "The music goes straight to the ear."
+    },
+    {
+      "chinese": "他亲耳听到谣言(他親耳聽到謠言)，心中充满疑虑(心中充滿疑慮)。",
+      "pinyin": "Tā qīn ěr tīng dào yáo yán, xīn zhōng chōng mǎn yí lǜ.",
+      "english": "He heard the rumor with his own ears, and his heart was filled with doubt."
+    }
+  ]
+}

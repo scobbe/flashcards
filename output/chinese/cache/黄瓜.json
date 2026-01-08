@@ -1,0 +1,44 @@
+{
+  "simplified": "黄瓜",
+  "traditional": "黃瓜",
+  "pinyin": "huánggua",
+  "english": "cucumber",
+  "etymology": {
+    "type": "compound word",
+    "description": "黄(黃) (huáng, \"yellow\") + 瓜(瓜) (guā, \"melon\") = cucumber",
+    "interpretation": "The term 黄瓜(黃瓜) (huángguā) translates literally to 'yellow melon.' It refers to the cucumber, which is botanically a type of gourd and can have a yellowish tinge when ripe. By naming the cucumber this way, the focus is on its classification among the gourd family rather than its usual green color.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "黄",
+      "trad": "黃",
+      "pinyin": "huáng",
+      "english": "yellow"
+    },
+    {
+      "char": "瓜",
+      "trad": "瓜",
+      "pinyin": "guā",
+      "english": "melon; squash; gourd"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一根黄瓜(我買了一根黃瓜)。",
+      "pinyin": "Wǒ mǎi le yī gēn huángguā.",
+      "english": "I bought a cucumber."
+    },
+    {
+      "chinese": "我洗了黄瓜(我洗了黃瓜)，切成了薄片(切成了薄片)。",
+      "pinyin": "Wǒ xǐ le huángguā, qiē chéng le bó piàn.",
+      "english": "I washed the cucumber and sliced it into thin pieces."
+    },
+    {
+      "chinese": "夏天吃黄瓜(夏天吃黃瓜)，很解暑(很解暑)。",
+      "pinyin": "Xiàtiān chī huángguā, hěn jiěshǔ.",
+      "english": "Eating cucumber in summer is very refreshing."
+    }
+  ]
+}

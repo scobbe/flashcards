@@ -1,0 +1,44 @@
+{
+  "simplified": "订",
+  "traditional": "訂",
+  "pinyin": "dìng",
+  "english": "order; agree; conclude",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "讠(言) (yán, \"speech\") + 丁(丁) (dīng, \"nail\") = to fix with words -> order; agree; conclude",
+    "interpretation": "The character 订(訂) (dìng, \"order; agree; conclude\") combines 讠(言) (yán, \"speech\"), indicating verbal communication, with 丁(丁) (dīng, \"nail\"), giving the sense of securing or fixing an agreement with words.",
+    "simplification": "訂(訂) simplified by changing 言(言) (yán, \"speech\") to 讠, a cursive shorthand retaining the meaning of speech."
+  },
+  "parts": [
+    {
+      "char": "讠",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在餐厅订了一份面条(我在餐廳訂了一份麵條)。",
+      "pinyin": "Wǒ zài cāntīng dìng le yī fèn miàntiáo.",
+      "english": "I ordered a serving of noodles at the restaurant."
+    },
+    {
+      "chinese": "我们订好机票(我們訂好機票)，准备明天出发(準備明天出發)。",
+      "pinyin": "Wǒmen dìng hǎo jīpiào, zhǔnbèi míngtiān chūfā.",
+      "english": "We have booked our tickets and are ready to depart tomorrow."
+    },
+    {
+      "chinese": "经过讨论(經過討論)，双方订立协议(雙方訂立協議)。",
+      "pinyin": "Jīngguò tǎolùn, shuāngfāng dìnglì xiéyì.",
+      "english": "After discussions, both parties concluded an agreement."
+    }
+  ]
+}

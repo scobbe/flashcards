@@ -1,0 +1,44 @@
+{
+  "simplified": "齿",
+  "traditional": "齒",
+  "pinyin": "chǐ",
+  "english": "tooth",
+  "etymology": {
+    "type": "simplified character",
+    "description": "齒(齒) (chǐ, \"tooth\") simplified by removing the central 多(多) (duō, \"many\") component, leaving 歯 + 止(止) (zhǐ, \"stop\") -> simplified form 齿",
+    "interpretation": "The simplification process of 齒(齒) (chǐ, \"tooth\") involved removing the central complexity of the character to streamline writing while retaining the essential imagery related to teeth.",
+    "simplification": "The character 齒(齒) was simplified by removing the middle component 多(多), which was deemed unnecessary for understanding the character's meaning related to 'tooth.'"
+  },
+  "parts": [
+    {
+      "char": "齒",
+      "trad": "齒",
+      "pinyin": "chǐ",
+      "english": "tooth"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生建议刷齿(齒)，勤漱口水(勤漱口水)。",
+      "pinyin": "Yīshēng jiànyì shuā chǐ, qín shù kǒushuǐ。",
+      "english": "The doctor recommends brushing teeth and rinsing the mouth frequently."
+    },
+    {
+      "chinese": "老虎的齿非常锋利(老虎的齒非常鋒利)。",
+      "pinyin": "Lǎohǔ de chǐ fēicháng fēnglì。",
+      "english": "The tiger's teeth are exceptionally sharp."
+    },
+    {
+      "chinese": "考古学家发现古器上隐约可见的齿痕(考古學家發現古器上隱約可見的齒痕)，推测古代工具的制造工艺(推測古代工具的製造工藝)。",
+      "pinyin": "Kǎogǔ xuéjiā fāxiàn gǔqì shàng yǐnyuē kějiàn de chǐhén, tuīcè gǔdài gōngjù de zhìzào gōngyì。",
+      "english": "Archaeologists discovered faint tooth marks on ancient utensils, suggesting the craftsmanship of ancient tools."
+    }
+  ]
+}

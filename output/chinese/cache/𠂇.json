@@ -1,0 +1,26 @@
+{
+  "simplified": "𠂇",
+  "traditional": "𠂇",
+  "pinyin": "jiǎn",
+  "english": "cover",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a left hand -> originally from 又 (yòu, \"again\") but flipped",
+    "interpretation": "The character 𠂇 is a pictogram of a left hand, showing the shape of a hand turned in the opposite direction. It is sometimes visible in the top component of other characters like 灰(灰) (huī, \"ash\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "妈妈用布𠂇住窗户(媽媽用布𠂇住窗戶)。",
+      "pinyin": "Māmā yòng bù jiǎn zhù chuānghù.",
+      "english": "Mom covers the window with cloth."
+    },
+    {
+      "chinese": "为了防尘(為了防塵)，工人用塑料布𠂇住机器(工人用塑料布𠂇住機器)。",
+      "pinyin": "Wèile fángchén, gōngrén yòng sùliàobù jiǎn zhù jīqì.",
+      "english": "To prevent dust, the worker covers the machine with plastic cloth."
+    }
+  ]
+}

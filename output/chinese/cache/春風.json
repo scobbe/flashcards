@@ -1,0 +1,39 @@
+{
+  "simplified": "春風",
+  "traditional": "春風",
+  "pinyin": "chūn fēng",
+  "english": "spring breeze",
+  "etymology": {
+    "type": "compound word",
+    "description": "春(春) (chūn, \"spring\") + 風(風) (fēng, \"wind\") = spring breeze",
+    "interpretation": "The combination of 春(春) (chūn, \"spring\") and 風(風) (fēng, \"wind\") creates an evocative image of the gentle, refreshing winds associated with the spring season. In Chinese culture, spring is often symbolic of renewal, growth, and hope, and the spring breeze represents these themes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "春",
+      "trad": "春",
+      "pinyin": "chūn",
+      "english": "spring"
+    },
+    {
+      "char": "風",
+      "trad": "風",
+      "pinyin": "fēng",
+      "english": "wind; breeze"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春风拂面(春風拂面)。",
+      "pinyin": "chūn fēng fú miàn.",
+      "english": "The spring breeze caresses the face."
+    },
+    {
+      "chinese": "春风轻拂万物(春風輕拂萬物)，唤来温暖阳光(喚來溫暖陽光)。",
+      "pinyin": "chūn fēng qīng fú wànwù, huàn lái wēn nuǎn yángguāng.",
+      "english": "The spring breeze gently brushes all living things, summoning warm sunshine."
+    }
+  ]
+}

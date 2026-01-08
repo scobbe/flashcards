@@ -1,0 +1,50 @@
+{
+  "simplified": "儋",
+  "traditional": "儋",
+  "pinyin": "dān",
+  "english": "to carry on the shoulder",
+  "etymology": {
+    "type": "variant form of 擔",
+    "description": "儋(儋) is a variant form of 擔(擔) (dān, \"to carry on the shoulder\") -> semantic: 扌(手) (shǒu, \"hand\") + phonetic: 詹(詹) (zhān, \"surname\") = using the hand to carry",
+    "interpretation": "儋(儋) is a variant form of 擔(擔) (dān, \"to carry on the shoulder\"), which combines the hand radical 扌(手) (shǒu, \"hand\") with the phonetic 詹(詹) (zhān, \"surname\") to suggest carrying by hand, emphasizing the action of bearing a load on the shoulder.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "擔",
+      "trad": "擔",
+      "pinyin": "dān",
+      "english": "to carry on the shoulder"
+    },
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "詹",
+      "trad": "詹",
+      "pinyin": "zhān",
+      "english": "surname"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他儋起重担(他儋起重擔)，向前迈步(向前邁步)。",
+      "pinyin": "Tā dān qǐ zhòng dàn, xiàng qián mài bù.",
+      "english": "He carried a heavy load on his shoulder and stepped forward."
+    },
+    {
+      "chinese": "农夫儋起担子(農夫儋起擔子)，辛苦劳作(辛苦勞作)。",
+      "pinyin": "Nóngfū dān qǐ dānzi, xīnkǔ láozuò.",
+      "english": "The farmer carried his burden on his shoulder and worked hard."
+    },
+    {
+      "chinese": "少年儋起书包(少年儋起書包)，急忙奔向学校(急忙奔向學校)。",
+      "pinyin": "Shàonián dān qǐ shūbāo, jímáng bēn xiàng xuéxiào.",
+      "english": "The boy carried his school bag on his shoulder and hurried towards school."
+    }
+  ]
+}

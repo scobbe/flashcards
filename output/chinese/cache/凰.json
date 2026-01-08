@@ -1,0 +1,44 @@
+{
+  "simplified": "凰",
+  "traditional": "凰",
+  "pinyin": "huáng",
+  "english": "female phoenix",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "黃(黃) (huáng, \"yellow\") as a phonetic + 鳥(鳥) (niǎo, \"bird\") as a semantic component = a yellow bird -> female phoenix",
+    "interpretation": "The character combines the yellow color representative of wealth and prosperity with the bird radical to depict the majestic female phoenix, a symbol of grace and elegance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "黃",
+      "trad": "黃",
+      "pinyin": "huáng",
+      "english": "yellow"
+    },
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她拥有凰般的气质(她擁有凰般的氣質)，令世人倾倒(令世人傾倒)。",
+      "pinyin": "Tā yǒng yǒu huáng bān de qì zhì, lìng shì rén qīng dǎo.",
+      "english": "She possesses a phoenix-like elegance that captivates everyone."
+    },
+    {
+      "chinese": "传说中凰象征着温柔(傳說中凰象徵著溫柔)，孕育希望(孕育希望)。",
+      "pinyin": "Chuán shuō zhōng huáng xiàng zhēng zhe wēn róu, yùn yù xī wàng.",
+      "english": "In legends, the phoenix represents gentleness and nurtures hope."
+    },
+    {
+      "chinese": "唐诗中常用凰指代高雅的女子(唐詩中常用凰指代高雅的女子)，寓意重生(寓意重生)。",
+      "pinyin": "Táng shī zhōng cháng yòng huáng zhǐ dài gāo yǎ de nǚ zǐ, yù yì zhòng shēng.",
+      "english": "In Tang poems, the phoenix is often used as a metaphor for elegant women, symbolizing rebirth."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "票",
+  "traditional": "票",
+  "pinyin": "piào",
+  "english": "ticket; note",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "覀(覀) (yà, \"west\") + 示(示) (shì, \"show\") = show identity or value -> implying a ticket or note",
+    "interpretation": "The character 票(票) (piào, \"ticket\") combines elements denoting direction and display, conceptualizing a document that demonstrates or verifies identity or value, like a ticket or banknote.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "覀",
+      "trad": "覀",
+      "pinyin": "yà",
+      "english": "west"
+    },
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "show"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一张票(我買了一張票)。",
+      "pinyin": "Wǒ mǎile yī zhāng piào.",
+      "english": "I bought a ticket."
+    },
+    {
+      "chinese": "他订了电影票(他訂了電影票)，准备去看电影(準備去看電影)。",
+      "pinyin": "Tā dìngle diànyǐng piào, zhǔnbèi qù kàn diànyǐng.",
+      "english": "He booked a movie ticket, preparing to watch a film."
+    },
+    {
+      "chinese": "演唱会的票很快就卖完了(演唱會的票很快就賣完了)。",
+      "pinyin": "Yǎnchànghuì de piào hěn kuài jiù màiwánle.",
+      "english": "The tickets for the concert sold out quickly."
+    }
+  ]
+}

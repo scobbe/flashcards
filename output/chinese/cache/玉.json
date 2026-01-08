@@ -1,0 +1,31 @@
+{
+  "simplified": "玉",
+  "traditional": "玉",
+  "pinyin": "yù",
+  "english": "jade",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cong (琮, a ritual jade totem)",
+    "interpretation": "玉(玉) (yù, \"jade\") visually represents the concept of jade, either as a cong or three pieces of jade strung together. It is distinct from 王(王) (wáng, \"king\") thanks to the added dot, ensuring clarity in their usage and meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他收藏了一块古玉(他收藏了一塊古玉)。",
+      "pinyin": "Tā shōucáng le yī kuài gǔ yù.",
+      "english": "He collected a piece of antique jade."
+    },
+    {
+      "chinese": "晴空万里时(晴空萬里時)，玉石在阳光下闪烁(玉石在陽光下閃爍)。",
+      "pinyin": "Qíngkōng wànlǐ shí, yù shí zài yángguāng xià shǎnshuò.",
+      "english": "Under a clear sky, the jade sparkled under the sunlight."
+    },
+    {
+      "chinese": "在宫廷中(在宮廷中)，玉制的饰物象征着高贵(玉製的飾物象徵著高貴)。",
+      "pinyin": "Zài gōngtíng zhōng, yù zhì de shìwù xiàngzhēng zhe gāoguì.",
+      "english": "In the palace, jade ornaments symbolize nobility."
+    }
+  ]
+}

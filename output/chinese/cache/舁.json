@@ -1,0 +1,39 @@
+{
+  "simplified": "舁",
+  "traditional": "舁",
+  "pinyin": "yú",
+  "english": "both hands of two people",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "臼(臼) (jiù, \"a pair of hands\") + 廾(廾) (gǒng, \"a pair of hands\") = two pairs of hands working together -> both hands of two people",
+    "interpretation": "The character combines two different components both representing hands, emphasizing the idea of cooperation or shared effort between two people.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "a pair of hands"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "a pair of hands"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "老李和老张合力舁木材(老李和老張合力舁木材)。",
+      "pinyin": "Lǎo Lǐ hé Lǎo Zhāng hé lì yú mùcái.",
+      "english": "Old Li and Old Zhang work together to carry lumber."
+    },
+    {
+      "chinese": "村民舁着新修的石板路(村民舁著新修的石板路)，迎接远方客人(迎接遠方客人)。",
+      "pinyin": "Cūnmín yú zhe xīn xiū de shíbǎn lù, yíngjiē yuǎnfāng kèrén.",
+      "english": "Villagers carry the newly renovated stone pavement, welcoming guests from afar."
+    }
+  ]
+}

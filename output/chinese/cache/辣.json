@@ -1,0 +1,39 @@
+{
+  "simplified": "辣",
+  "traditional": "辣",
+  "pinyin": "là",
+  "english": "spicy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辛(辛) (xīn, \"spice\") + phonetic: 束(束) (shù) = intense spice -> spicy",
+    "interpretation": "The character 辣(là) combines 辛(辛) (xīn, \"spice\") for its semantic element, indicating the spicy or pungent nature of the character, with 束(束) (shù) serving as the phonetic component, suggesting the sound. Together, they represent something intensely flavorful or spicy.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "spice"
+    },
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这道菜很辣(這道菜很辣)。",
+      "pinyin": "Zhè dào cài hěn là.",
+      "english": "This dish is very spicy."
+    },
+    {
+      "chinese": "他喜欢吃辣(他喜歡吃辣)，因为辣味让他兴奋(因爲辣味讓他興奮)。",
+      "pinyin": "Tā xǐhuān chī là, yīnwèi làwèi ràng tā xīngfèn.",
+      "english": "He likes spicy food because the spiciness excites him."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "藕粉",
+  "traditional": "藕粉",
+  "pinyin": "ǒufěn",
+  "english": "lotus root starch",
+  "etymology": {
+    "type": "compound word",
+    "description": "藕(藕) (ǒu, \"lotus root\") + 粉(粉) (fěn, \"powder\") = lotus root starch",
+    "interpretation": "藕粉(藕粉) (ǒufěn, \"lotus root starch\") is a powder derived from the lotus root, a common ingredient used in Chinese cuisine for its nutritional benefits and unique texture. Mixing 藕(藕) (ǒu, \"lotus root\") with 粉(粉) (fěn, \"powder\") aptly describes the product.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "藕",
+      "trad": "藕",
+      "pinyin": "ǒu",
+      "english": "lotus root"
+    },
+    {
+      "char": "粉",
+      "trad": "粉",
+      "pinyin": "fěn",
+      "english": "powder; starch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了藕粉(我買了藕粉)。",
+      "pinyin": "Wǒ mǎile ǒufěn.",
+      "english": "I bought lotus root starch."
+    },
+    {
+      "chinese": "妈妈用藕粉(媽媽用藕粉)，做出了美味的汤圆(做出了美味的湯圓)。",
+      "pinyin": "Māmā yòng ǒufěn, zuò chūle měiwèi de tāngyuán.",
+      "english": "Mom used lotus root starch to make delicious glutinous rice balls."
+    },
+    {
+      "chinese": "藕粉可以用来增稠(藕粉可以用來增稠)，调制传统的甜品(調制傳統的甜品)。",
+      "pinyin": "Ǒufěn kěyǐ yòng lái zēngchóu, tiáozhì chuántǒng de tiánpǐn.",
+      "english": "Lotus root starch can be used as a thickener to prepare traditional desserts."
+    }
+  ]
+}

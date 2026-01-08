@@ -1,0 +1,39 @@
+{
+  "simplified": "混",
+  "traditional": "混",
+  "pinyin": "hùn",
+  "english": "mix; confuse; blend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(水) (shuǐ, 'water') + phonetic: 昆(昆) (kūn, 'elder brother') = water plus sound of 昆 -> to mix or blend",
+    "interpretation": "The character 混(hùn) combines the semantic element 氵(水) (shuǐ, 'water') suggesting fluidity or mixing, with the phonetic element 昆(昆) (kūn, 'elder brother'), hinting at the pronunciation. This reflects the concept of blending or mixing, much like different substances would when water is involved.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "昆",
+      "trad": "昆",
+      "pinyin": "kūn",
+      "english": "elder brother"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把面粉和水混在一起(他把麵粉和水混在一起)，制成了面团(製成了麵團)。",
+      "pinyin": "Tā bǎ miànfěn hé shuǐ hùn zài yīqǐ，zhìchéngle miàntuán。",
+      "english": "He mixed flour and water together, and made dough."
+    },
+    {
+      "chinese": "他经常把事实和虚构混淆起来(他經常把事實和虛構混淆起來)，使人困惑(使人困惑)。",
+      "pinyin": "Tā jīngcháng bǎ shìshí hé xūgòu hùnxiáo qǐlái，shǐ rén kùnhuò。",
+      "english": "He often confuses facts with fiction, which puzzles people."
+    }
+  ]
+}

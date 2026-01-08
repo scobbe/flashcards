@@ -1,0 +1,45 @@
+{
+  "simplified": "中南海",
+  "traditional": "中南海",
+  "pinyin": "Zhōngnánhǎi",
+  "english": "Zhongnanhai",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\") + 南(南) (nán, \"south\") + 海(海) (hǎi, \"sea\") = literally means 'middle southern sea'",
+    "interpretation": "The name 中南海 (Zhōngnánhǎi, \"Zhongnanhai\") refers to a central government complex in Beijing, adjacent to the Forbidden City. Historically, it was an imperial garden during the Qing dynasty and today serves as the central headquarters for the Chinese Communist Party and the State Council of China. The name reflects its geographical location made up of a series of linked lakes and ponds, combining the characters for \"middle,\" \"south,\" and \"sea,\" symbolizing a significant central place south of the Forbidden City.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; central"
+    },
+    {
+      "char": "南",
+      "trad": "南",
+      "pinyin": "nán",
+      "english": "south"
+    },
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea; ocean; large body of water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我今天经过中南海(我今天經過中南海)。",
+      "pinyin": "Wǒ jīntiān jīngguò Zhōngnánhǎi.",
+      "english": "I passed by Zhongnanhai today."
+    },
+    {
+      "chinese": "中南海是中国权力的象征(中南海是中國權力的象徵)，常聚集政要进行会谈(常聚集政要進行會談)。",
+      "pinyin": "Zhōngnánhǎi shì Zhōngguó quánlì de xiàngzhēng, cháng jùjí zhèngyào jìnxíng huìtán.",
+      "english": "Zhongnanhai is a symbol of China's power, frequently hosting meetings with government leaders."
+    }
+  ]
+}

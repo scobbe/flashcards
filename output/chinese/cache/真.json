@@ -1,0 +1,69 @@
+{
+  "simplified": "真",
+  "traditional": "真",
+  "pinyin": "zhēn",
+  "english": "true; real",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 𠂈 (a knife) + Semantic: 貝(貝) (bèi, \"cowry\") -> denoting rarity/preciousness -> 丁 (a nail) added as phonetic at bottom as black dot -> corruption to 十, 匕, 目, and 丌 -> final form 真",
+    "interpretation": "The character 真(真) (zhēn, \"true\") emerged as a combination of 𠂈, a phonetic element related to knives, and semantic 貝(貝) (bèi, \"cowry\") to indicate value or rarity. The complex evolution involved the addition and transformation of 丁 and other elements, eventually settling in the form 真 commonly used today to mean \"true\" or \"real.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𠂈",
+      "trad": "𠂈",
+      "pinyin": "(no pinyin)",
+      "english": "knife"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "nail"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "char": "匕",
+      "trad": "匕",
+      "pinyin": "bǐ",
+      "english": "spoon"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "丌",
+      "trad": "丌",
+      "pinyin": "jī",
+      "english": "table"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件衣服真漂亮(這件衣服真漂亮)。",
+      "pinyin": "Zhè jiàn yīfú zhēn piàoliang.",
+      "english": "This piece of clothing is really beautiful."
+    },
+    {
+      "chinese": "他说的话真可信(他說的話真可信)，她的笑容真温暖(她的笑容真溫暖)。",
+      "pinyin": "Tā shuō de huà zhēn kěxìn, tā de xiàoróng zhēn wēnnuǎn.",
+      "english": "What he said is truly credible, and her smile is really warm."
+    }
+  ]
+}

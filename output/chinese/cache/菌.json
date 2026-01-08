@@ -1,0 +1,39 @@
+{
+  "simplified": "菌",
+  "traditional": "菌",
+  "pinyin": "jùn",
+  "english": "fungus; bacterium; mushroom",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass\") + 囷(囷) (jùn, \"storing grains\") = plant-related context + phonetic element -> fungus, bacterium, mushroom",
+    "interpretation": "The character 简(菌) combines 艹(艹) for its semantic association with plants and fungi, and 囷(囷) as a phonetic component. This fusion suggests the growth or existence of fungi, fitting well with their natural habitat among vegetation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "囷",
+      "trad": "囷",
+      "pinyin": "jùn",
+      "english": "storing grains"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种菌可以用于发酵(這種菌可以用於發酵)。",
+      "pinyin": "Zhè zhǒng jùn kěyǐ yòng yú fājiào.",
+      "english": "This fungus can be used for fermentation."
+    },
+    {
+      "chinese": "实验室培养出新型菌(實驗室培養出新型菌)，有望用于抗生素生产(有望用於抗生素生產)。",
+      "pinyin": "Shíyànshì péiyǎng chū xīnxíng jùn, yǒuwàng yòng yú kàngshēngsù shēngchǎn.",
+      "english": "A new type of fungus was cultivated in the laboratory, and it is expected to be used in antibiotic production."
+    }
+  ]
+}

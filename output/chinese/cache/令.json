@@ -1,0 +1,44 @@
+{
+  "simplified": "令",
+  "traditional": "令",
+  "pinyin": "lǐng",
+  "english": "order",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") + 卩(卩) (jié, \"seal\") = person with seal -> issuing orders or commands",
+    "interpretation": "The character 令(令) (lǐng, \"order\") combines 人(人) (rén, \"person\") and 卩(卩) (jié, \"seal\") to depict someone with a seal or authority, signifying the power to issue orders or commands.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "将军令部队保持警戒(將軍令部隊保持警戒)，士兵严格服从(士兵嚴格服從)。",
+      "pinyin": "jiāngjūn lǐng bùduì bǎochí jǐngjiè, shìbīng yángé fúcóng.",
+      "english": "The general orders the troops to maintain vigilance, and the soldiers strictly obey."
+    },
+    {
+      "chinese": "老师令学生认真听讲(老師令學生認真聽講)。",
+      "pinyin": "lǎoshī lǐng xuéshēng rènzhēn tīngjiǎng.",
+      "english": "The teacher orders the students to listen attentively."
+    },
+    {
+      "chinese": "国王令大臣速速筹备(國王令大臣速速籌備)，迎接远方使节(迎接遠方使節)。",
+      "pinyin": "guówáng lǐng dàchén sùsù chóubèi, yíngjiē yuǎnfāng shǐjié.",
+      "english": "The king orders his ministers to quickly make preparations to welcome the foreign envoy."
+    }
+  ]
+}

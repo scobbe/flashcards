@@ -1,0 +1,50 @@
+{
+  "simplified": "毛泽东思想",
+  "traditional": "毛澤東思想",
+  "pinyin": "Máo Zédōng Sīxiǎng",
+  "english": "Mao Zedong Thought",
+  "etymology": {
+    "type": "compound word",
+    "description": "毛(毛) (máo, \"hair\"; \"surname Mao\"), 泽(澤) (zé, \"marsh\"; \"beneficial influence\"), 东(東) (dōng, \"east\"; \"surname Dong\"), 思(思) (sī, \"think\"; \"ponder\"), 想(想) (xiǎng, \"consider\"; \"wish\")",
+    "interpretation": "毛泽东思想(毛澤東思想) (Máo Zédōng Sīxiǎng) refers to the ideological and political principles of Mao Zedong, the founding father of the People's Republic of China. It combines 毛泽东(毛澤東) (Máo Zédōng, \"Mao Zedong\") as the person and 思想(思想) (sīxiǎng, \"thought\"; \"thinking\") to signify Mao's body of ideas and their influence on Chinese society and governance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair; surname Mao"
+    },
+    {
+      "char": "泽东",
+      "trad": "澤東",
+      "pinyin": "Zédōng",
+      "english": "Zedong; eastern marsh"
+    },
+    {
+      "char": "思想",
+      "trad": "思想",
+      "pinyin": "sīxiǎng",
+      "english": "thought; thinking"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "毛泽东思想深刻影响了中国历史(毛澤東思想深刻影響了中國歷史)。",
+      "pinyin": "Máo Zédōng Sīxiǎng shēnkè yǐngxiǎng le Zhōngguó lìshǐ.",
+      "english": "Mao Zedong Thought profoundly influenced China's history."
+    },
+    {
+      "chinese": "学习毛泽东思想(學習毛澤東思想)，可以了解革命精神(可以了解革命精神)。",
+      "pinyin": "Xuéxí Máo Zédōng Sīxiǎng, kěyǐ liǎojiě gémìng jīngshén.",
+      "english": "Studying Mao Zedong Thought helps to understand the revolutionary spirit."
+    },
+    {
+      "chinese": "在课堂上讨论毛泽东思想(在課堂上討論毛澤東思想)，激发了学生热情(激發了學生熱情)。",
+      "pinyin": "Zài kètáng shàng tǎolùn Máo Zédōng Sīxiǎng, jīfā le xuéshēng rèqíng.",
+      "english": "Discussing Mao Zedong Thought in class stirred the students' enthusiasm."
+    }
+  ]
+}

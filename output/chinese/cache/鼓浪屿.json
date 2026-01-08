@@ -1,0 +1,50 @@
+{
+  "simplified": "鼓浪屿",
+  "traditional": "鼓浪嶼",
+  "pinyin": "Gǔlàngyǔ",
+  "english": "Gulangyu Island",
+  "etymology": {
+    "type": "compound word",
+    "description": "鼓(鼓) (gǔ, \"drum\") + 浪(浪) (làng, \"wave\") + 屿(嶼) (yǔ, \"islet\") forms 鼓浪屿(鼓浪嶼) (gǔlàngyǔ), referring to Gulangyu Island.",
+    "interpretation": "The name 鼓浪屿(鼓浪嶼) (gǔlàngyǔ) reflects the natural setting of the island where the sound of waves might resemble the beating of drums due to its coastal location. The name captures both the auditory and geographical features of this picturesque island.",
+    "simplification": "鼓浪嶼 to 鼓浪屿"
+  },
+  "parts": [
+    {
+      "char": "鼓",
+      "trad": "鼓",
+      "pinyin": "gǔ",
+      "english": "drum"
+    },
+    {
+      "char": "浪",
+      "trad": "浪",
+      "pinyin": "làng",
+      "english": "wave"
+    },
+    {
+      "char": "屿",
+      "trad": "嶼",
+      "pinyin": "yǔ",
+      "english": "islet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划明天去鼓浪屿游览(我計劃明天去鼓浪嶼遊覽)。",
+      "pinyin": "Wǒ jìhuà míngtiān qù Gǔlàngyǔ yóulǎn.",
+      "english": "I plan to visit Gulangyu Island tomorrow."
+    },
+    {
+      "chinese": "鼓浪屿风景迷人(鼓浪嶼風景迷人)，吸引了许多游客(吸引了許多遊客)。",
+      "pinyin": "Gǔlàngyǔ fēngjǐng mírén, xīyǐnle xǔduō yóukè.",
+      "english": "Gulangyu Island's scenery is enchanting, attracting many tourists."
+    },
+    {
+      "chinese": "我乘船到鼓浪屿(我乘船到鼓浪嶼)，参观了古迹(參觀了古蹟)。",
+      "pinyin": "Wǒ chéngchuán dào Gǔlàngyǔ, cānguānle gǔjì.",
+      "english": "I took a boat to Gulangyu Island and visited historical sites."
+    }
+  ]
+}

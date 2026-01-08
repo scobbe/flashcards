@@ -1,0 +1,44 @@
+{
+  "simplified": "茸",
+  "traditional": "茸",
+  "pinyin": "róng",
+  "english": "mushroom; fungi; soft growth",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + phonetic: abbreviated 聰(聰) (cōng) = plant-like growth characteristic -> fungi, mushroom",
+    "interpretation": "The character 茸(róng) indicates a kind of plant or growth with the 艸(艸) (cǎo, \"grass\") indicating its nature as a plant-related entity. The phonetic 聰(聰) (cōng) suggests the pronunciation, though it is abbreviated in this character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "聰",
+      "trad": "聰",
+      "pinyin": "cōng",
+      "english": "clever"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种茸在雨后更为鲜美(這種茸在雨後更為鮮美)。",
+      "pinyin": "Zhè zhǒng róng zài yǔ hòu gèng wéi xiān měi.",
+      "english": "This mushroom is even more delicious after the rain."
+    },
+    {
+      "chinese": "春天来临时(春天來臨時)，边林的茸悄然绽放(邊林的茸悄然綻放)。",
+      "pinyin": "Chūn tiān lái lín shí, biān lín de róng qiāo rán zhàn fàng.",
+      "english": "When spring arrives, the mushrooms at the edge of the forest bloom quietly."
+    },
+    {
+      "chinese": "他采集茸样品(他採集茸樣品)，送往实验室检测(送往實驗室檢測)。",
+      "pinyin": "Tā cǎi jí róng yàng pǐn, sòng wǎng shí yàn shì jiǎn cè.",
+      "english": "He collected samples of the mushroom and sent them to the laboratory for testing."
+    }
+  ]
+}

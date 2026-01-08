@@ -1,0 +1,39 @@
+{
+  "simplified": "咼",
+  "traditional": "咼",
+  "pinyin": "guō",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 呙(呙) (guō, \"sound\" or variant) used for phonetic value -> sound or speech-related meaning",
+    "interpretation": "The character 咼(咼) (guō) utilizes the radical 口(口) (kǒu, \"mouth\") indicating a meaning related to sound or speech, and the component 呙(呙) (guō) serves as the phonetic guide.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "呙",
+      "trad": "呙",
+      "pinyin": "guō",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "学者讨论咼字的起源(學者討論咼字的起源)，认为它源自古汉语(認為它源自古漢語)。",
+      "pinyin": "Xuézhě tǎolùn guō zì de qǐyuán, rènwéi tā yuánzì gǔ hànyǔ.",
+      "english": "Scholars discuss the origin of the character guō, believing it originates from Old Chinese."
+    },
+    {
+      "chinese": "古籍中咼字被频繁使用(古籍中咼字被頻繁使用)。",
+      "pinyin": "Gǔjí zhōng guō zì bèi pínfán shǐyòng.",
+      "english": "In ancient texts, the character guō was frequently used."
+    }
+  ]
+}

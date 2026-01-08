@@ -1,0 +1,26 @@
+{
+  "simplified": "𣒚",
+  "traditional": "𣒚",
+  "pinyin": "tuó",
+  "english": "bag with a bottom",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bag or container with a bottom, possibly indicating a sack or pouch shape.",
+    "interpretation": "The character visually represents a bag with an emphasis on its bottom, conveying the concept of a completed, functional container.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个𣒚很结实(這個𣒚很結實)，可以装很多东西(可以裝很多東西)。",
+      "pinyin": "Zhè ge tuó hěn jiéshí, kěyǐ zhuāng hěn duō dōngxī.",
+      "english": "This bag with a bottom is very sturdy, and it can hold many things."
+    },
+    {
+      "chinese": "我用𣒚装米(我用𣒚裝米)。",
+      "pinyin": "Wǒ yòng tuó zhuāng mǐ.",
+      "english": "I use the bag with a bottom to store rice."
+    }
+  ]
+}

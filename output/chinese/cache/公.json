@@ -1,0 +1,44 @@
+{
+  "simplified": "公",
+  "traditional": "公",
+  "pinyin": "gōng",
+  "english": "public",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "八(八) (bā, \"eight\") + 厶(厶) (sī, \"private\") = division among many; a reduction of privacy through sharing -> public",
+    "interpretation": "The character 公(gōng) combines 八(bā, \"eight\"), representing division into multiple parts, with 厶(sī, \"private\") to convey the idea of something being shared by many, thus becoming public.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "厶",
+      "trad": "厶",
+      "pinyin": "sī",
+      "english": "private"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个公共图书馆很安静(這個公共圖書館很安靜)。",
+      "pinyin": "Zhè ge gōnggòng túshūguǎn hěn ānjìng。",
+      "english": "This public library is very quiet."
+    },
+    {
+      "chinese": "他们在公路上等车(他們在公路上等車)，天气很热(天氣很熱)。",
+      "pinyin": "Tāmen zài gōnglù shàng děng chē，tiānqì hěn rè。",
+      "english": "They are waiting on the highway, and the weather is very hot."
+    },
+    {
+      "chinese": "学校举办公开讲座(學校舉辦公開講座)。",
+      "pinyin": "Xuéxiào jǔbàn gōngkāi jiǎngzuò。",
+      "english": "The school holds a public lecture."
+    }
+  ]
+}

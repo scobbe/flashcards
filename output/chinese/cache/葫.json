@@ -1,0 +1,39 @@
+{
+  "simplified": "葫",
+  "traditional": "葫",
+  "pinyin": "hú",
+  "english": "bottle gourd",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 胡(胡) (hú, \"foreign\") = plant associated with the phonetic sound of hú -> bottle gourd",
+    "interpretation": "The character 葫(hú, \"bottle gourd\") combines 艸(艸) (cǎo, \"grass\") for the semantic element, indicating its connection to plants, with 胡(胡) (hú, \"foreign\") as the phonetic component. This suggests the word likely describes a type of gourd or plant with a similar sounding name, harnessing 胡's phonetic properties.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "胡",
+      "trad": "胡",
+      "pinyin": "hú",
+      "english": "foreign"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在集市上买了一个精美的葫(我在集市上買了一個精美的葫)，打算用来制作乐器(打算用來製作樂器)。",
+      "pinyin": "Wǒ zài jíshì shàng mǎile yīgè jīngměi de hú, dǎsuàn yòng lái zhìzuò yuèqì。",
+      "english": "I bought a fine bottle gourd at the market, and I plan to use it to make musical instruments."
+    },
+    {
+      "chinese": "园中长出一个大葫(園中長出一個大葫)，吸引了无数目光(吸引了無數目光)。",
+      "pinyin": "Yuán zhōng cháng chū yīgè dà hú, xīyǐnle wúshù mùguāng。",
+      "english": "A large bottle gourd grew in the garden, attracting countless gazes."
+    }
+  ]
+}

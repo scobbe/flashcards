@@ -1,0 +1,44 @@
+{
+  "simplified": "慮",
+  "traditional": "慮",
+  "pinyin": "lǜ",
+  "english": "consider",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "思(思) (sī, \"to think\") for meaning + 虍(虍) (hū, phonic) = thinking deeply -> consider",
+    "interpretation": "The character 慮(慮) (lǜ, \"consider\") combines 思(思) (sī, \"to think\") to emphasize the idea of cognition or consideration, with 虍(虍) (hū), which provides a phonetic cue. This character reflects the thoughtful and deliberative nature of the action it represents.",
+    "simplification": "Simplified to 虑(慮) (lǜ, \"consider\") by removing the 田(田) (tián, \"field\") component from 思(思) (sī, \"to think\") to streamline the character without losing the primary radical."
+  },
+  "parts": [
+    {
+      "char": "思",
+      "trad": "思",
+      "pinyin": "sī",
+      "english": "to think"
+    },
+    {
+      "char": "虍",
+      "trad": "虍",
+      "pinyin": "hū",
+      "english": "phonic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在做决定前(在做決定前)，他总是仔细慮及各方面因素(他總是仔細慮及各方面因素)。",
+      "pinyin": "Zài zuò juédìng qián, tā zǒng shì zǐxì lǜ jí gè fāngmiàn yīnsù。",
+      "english": "Before making a decision, he always carefully considers all aspects."
+    },
+    {
+      "chinese": "慎慮是一种智慧(慎慮是一種智慧)。",
+      "pinyin": "Shèn lǜ shì yī zhǒng zhìhuì。",
+      "english": "Careful consideration is a form of wisdom."
+    },
+    {
+      "chinese": "面临困难时(面臨困難時)，他总会花时间慮处理方案(他總會花時間慮處理方案)。",
+      "pinyin": "Miànlín kùnnán shí, tā zǒng huì huā shíjiān lǜ chǔlǐ fāng'àn。",
+      "english": "When facing difficulties, he always takes time to consider the solution."
+    }
+  ]
+}

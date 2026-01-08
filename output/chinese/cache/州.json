@@ -1,0 +1,31 @@
+{
+  "simplified": "州",
+  "traditional": "州",
+  "pinyin": "zhōu",
+  "english": "administrative division",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an islet in a river",
+    "interpretation": "州(州) (zhōu, \"administrative division\") was originally a pictogram representing a small piece of land or islet amidst water, illustrating the ancient practice of using distinct land areas as administrative divisions.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我计划参观几个州(我計劃參觀幾個州)。",
+      "pinyin": "Wǒ jìhuà cānguān jǐ gè zhōu.",
+      "english": "I plan to visit several states."
+    },
+    {
+      "chinese": "美国的各州都有独特的风景(美國的各州都有獨特的風景)。",
+      "pinyin": "Měiguó de gè zhōu dōu yǒu dútè de fēngjǐng.",
+      "english": "Every state in the United States has unique scenery."
+    },
+    {
+      "chinese": "州政府负责管理地方事务(州政府負責管理地方事務)，政策由州长制定(政策由州長制定)。",
+      "pinyin": "Zhōu zhèngfǔ fùzé guǎnlǐ dìfāng shìwù, zhèngcè yóu zhōu zhǎng zhìdìng.",
+      "english": "The state government is responsible for managing local affairs, and the policies are set by the governor."
+    }
+  ]
+}

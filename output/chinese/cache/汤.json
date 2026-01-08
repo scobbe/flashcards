@@ -1,0 +1,44 @@
+{
+  "simplified": "汤",
+  "traditional": "湯",
+  "pinyin": "tāng",
+  "english": "soup",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(氵) (shuǐ, \"water\") + 昜(昜) (yáng, \"bright\") = liquid plus phonetic component -> soup",
+    "interpretation": "The character 湯(湯) (tāng, \"soup\") combines the water radical 氵(氵) (shuǐ, \"water\") to indicate liquid with the phonetic component 昜(昜) (yáng, \"bright\"). This suggests an association with hot or cooked liquids, appropriate for soup.",
+    "simplification": "湯(湯) simplified to 汤(湯) by altering 昜(昜) to 𠃓 (a simpler component) for ease of writing while maintaining the phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "昜",
+      "trad": "昜",
+      "pinyin": "yáng",
+      "english": "bright"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈煮了一锅汤(媽媽煮了一鍋湯)。",
+      "pinyin": "māmā zhǔ le yì guō tāng.",
+      "english": "Mom cooked a pot of soup."
+    },
+    {
+      "chinese": "汤里有蔬菜(湯裡有蔬菜)，味道鲜美(味道鮮美)。",
+      "pinyin": "tāng lǐ yǒu shūcài, wèidào xiānměi.",
+      "english": "The soup has vegetables, and it tastes delicious."
+    },
+    {
+      "chinese": "我们去饭馆点汤(我們去飯館點湯)。",
+      "pinyin": "wǒmen qù fànguǎn diǎn tāng.",
+      "english": "We went to the restaurant to order soup."
+    }
+  ]
+}

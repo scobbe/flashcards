@@ -1,0 +1,44 @@
+{
+  "simplified": "节",
+  "traditional": "節",
+  "pinyin": "jié",
+  "english": "festival; node; joint; segment",
+  "etymology": {
+    "type": "simplified and variant form",
+    "description": "艹(艹) (cǎo, \"grass\") + 即(即) (jí, \"immediately\") = 节(節), originally 節(\"node\") simplified for ease of writing",
+    "interpretation": "The character 节(節) simplifies 节, replacing 竹(竹) (zhú, \"bamboo\") with 艹(艹) (cǎo, \"grass\") to reflect the sound and partial meaning retention through 即(即) (jí). This simplification maintains the notion of sections or segments, akin to nodes on a bamboo stem.",
+    "simplification": "For 節(節)→节(節), 艹(艹) (cǎo, \"grass\") replaces the bamboo radical 竹(竹) (zhú, \"bamboo\") for a simpler form while retaining the component 即(即) (jí) as a phonetic indicator."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "即",
+      "trad": "即",
+      "pinyin": "jí",
+      "english": "immediately"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春节是传统的节日(春節是傳統的節日)。",
+      "pinyin": "Chūnjié shì chuántǒng de jiérì.",
+      "english": "Spring Festival is a traditional festival."
+    },
+    {
+      "chinese": "竹子每一段都有一个节(竹子每一段都有一個節)，使整体更为灵活(使整體更為靈活)。",
+      "pinyin": "Zhúzi měiyī duàn dōu yǒu yīgè jié, shǐ zhěngtǐ gèng wéi línghuó.",
+      "english": "Every segment of the bamboo has a joint, which makes it more flexible as a whole."
+    },
+    {
+      "chinese": "竹节清脆有力(竹節清脆有力)。",
+      "pinyin": "Zhújié qīngcuì yǒulì.",
+      "english": "The bamboo joints are crisp and strong."
+    }
+  ]
+}

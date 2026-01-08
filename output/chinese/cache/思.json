@@ -1,0 +1,39 @@
+{
+  "simplified": "思",
+  "traditional": "思",
+  "pinyin": "sī",
+  "english": "to think; consider; idea; thought",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "心(心) (xīn, \"heart\") + phonetic: 田(田) (tián) = the act of the heart dwelling or contemplating -> to think or consider",
+    "interpretation": "The character 思(sī, \"to think\") combines 心(心) (xīn, \"heart\") to represent the mind or emotions, with 田(田) (tián) as the phonetic component, indicating the sound. This suggests a process where thoughts originate or dwell in the heart, metaphorically speaking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我常常思考未来(我常常思考未來)。",
+      "pinyin": "wǒ chángcháng sīkǎo wèilái.",
+      "english": "I often contemplate the future."
+    },
+    {
+      "chinese": "她深深思念故乡(她深深思念故鄉)，心中充满温暖(心中充滿溫暖)。",
+      "pinyin": "tā shēnshēn sīniàn gùxiāng, xīnzhōng chōngmǎn wēnnuǎn.",
+      "english": "She deeply misses her hometown, and her heart is filled with warmth."
+    }
+  ]
+}

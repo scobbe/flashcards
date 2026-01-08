@@ -1,0 +1,39 @@
+{
+  "simplified": "伏",
+  "traditional": "伏",
+  "pinyin": "fú",
+  "english": "to bend down",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 人(人) (rén, \"person\") + phonetic: 犬(犬) (quǎn, \"dog\") = person bending over like a dog -> to bend down",
+    "interpretation": "The character combines 人(人) (rén, \"person\") depicting the idea of a person with 犬(犬) (quǎn, \"dog\") for its phonetic value, suggesting the action of a person bending or crouching down, akin to a dog.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "猫咪伏在窗台上(貓咪伏在窗臺上)。",
+      "pinyin": "Māomī fú zài chuāngtái shàng.",
+      "english": "The cat is crouching on the windowsill."
+    },
+    {
+      "chinese": "他伏在树下(他伏在樹下)，休息了一会儿(休息了一會兒)。",
+      "pinyin": "Tā fú zài shù xià, xiūxí le yīhuǐ'er.",
+      "english": "He bent down under the tree, and rested for a while."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "茯苓",
+  "traditional": "茯苓",
+  "pinyin": "fúlíng",
+  "english": "poria; tuckahoe (medicinal fungus)",
+  "etymology": {
+    "type": "compound word",
+    "description": "茯(茯) (fú, \"poria root\") + 苓(苓) (líng, \"medicinal plant\") come together to refer specifically to the medicinal fungus known as poria, used in traditional Chinese medicine for various health purposes.",
+    "interpretation": "茯苓(fúlíng, \"poria\") is a term from traditional Chinese medicine, where 茯(茯) (fú, \"poria root\") refers to the part of the fungi used, and 苓(苓) (líng, \"medicinal plant\") highlights its therapeutic applications.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "茯",
+      "trad": "茯",
+      "pinyin": "fú",
+      "english": "poria root"
+    },
+    {
+      "char": "苓",
+      "trad": "苓",
+      "pinyin": "líng",
+      "english": "medicinal plant; poria"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用茯苓(茯苓)煮汤(煮湯)。",
+      "pinyin": "Wǒ yòng fúlíng zhǔ tāng.",
+      "english": "I use poria to cook soup."
+    },
+    {
+      "chinese": "中医认为茯苓能健脾(中醫認為茯苓能健脾)，具有保健作用(具有保健作用)。",
+      "pinyin": "Zhōngyī rènwéi fúlíng néng jiànpí, jùyǒu bǎojiàn zuòyòng.",
+      "english": "Traditional Chinese medicine believes that poria strengthens the spleen and offers health benefits."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "逼",
+  "traditional": "逼",
+  "pinyin": "bī",
+  "english": "force; compel",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 辶(辶) (chuò, 'walk') + phonetic: 畐(畐) (fú) = movement towards a point -> force or compel",
+    "interpretation": "The character 逼(逼) (bī, 'force') combines the walking radical 辶(辶) (chuò, 'walk'), suggesting movement, with the phonetic 畐(畐) (fú), to indicate moving towards or pressuring something. This aligns with the meaning of forcing or compelling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "畐",
+      "trad": "畐",
+      "pinyin": "fú",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他逼我回答问题(他逼我回答問題)。",
+      "pinyin": "Tā bī wǒ huídá wèntí.",
+      "english": "He forced me to answer the question."
+    },
+    {
+      "chinese": "老板逼员工加班(老闆逼員工加班)，工期紧迫(工期緊迫)。",
+      "pinyin": "Lǎobǎn bī yuángōng jiābān, gōngqī jǐnpò.",
+      "english": "The boss compelled the employees to work overtime, and the project deadline was tight."
+    }
+  ]
+}

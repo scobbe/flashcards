@@ -1,0 +1,45 @@
+{
+  "simplified": "在",
+  "traditional": "在",
+  "pinyin": "zài",
+  "english": "in; at",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 才(才) (cái, \"talent\") + Phonetic: 士(士) (shì, \"scholar\") -> 刻(刻) (kè, \"engrave\") phonetic proxy -> 土(土) (tǔ, \"earth\") corrupted",
+    "interpretation": "Originally, the character 在(zài, \"in; at\") just used 才(才) (cái, \"talent\") as a phonetic element. However, 士(士) (shì, \"scholar\") was later added as another phonetic layer. Over time, 士 shifted to 土(土) (tǔ, \"earth\"), reflecting its usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "才",
+      "trad": "才",
+      "pinyin": "cái",
+      "english": "talent"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在学校学习(我在學校學習)。",
+      "pinyin": "Wǒ zài xuéxiào xuéxí.",
+      "english": "I study at school."
+    },
+    {
+      "chinese": "他在图书馆看书(他在圖書館看書)，妈妈在厨房做饭(媽媽在廚房做飯)。",
+      "pinyin": "Tā zài túshūguǎn kànshū, māmā zài chúfáng zuò fàn.",
+      "english": "He reads books in the library, and his mother cooks in the kitchen."
+    }
+  ]
+}

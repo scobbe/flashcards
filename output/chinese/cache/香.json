@@ -1,0 +1,62 @@
+{
+  "simplified": "香",
+  "traditional": "香",
+  "pinyin": "xiāng",
+  "english": "fragrant; aromatic",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "黍(黍) (shǔ, \"glutinous millet\") + 口(口) (kǒu, \"mouth\") -> millet used for liquor -> 甘(甘) (gān, \"sweet\") replaced 口, indicating sweetness -> 禾(禾) + 曰(曰) final form",
+    "interpretation": "The character 香(xiāng) originated from showcasing millet as a beverage ingredient, hinting at the fragrant nature of such products. Over time, the components evolved to stress the sweet and fragrant aspect, becoming 禾 and 曰 to convey aroma.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "黍",
+      "trad": "黍",
+      "pinyin": "shǔ",
+      "english": "glutinous millet"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    },
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "say"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花儿散发出香气(花兒散發出香氣)。",
+      "pinyin": "Huār sànfā chū xiāngqì.",
+      "english": "The flowers emit a fragrant scent."
+    },
+    {
+      "chinese": "这汤闻起来很香(這湯聞起來很香)。",
+      "pinyin": "Zhè tāng wén qǐlái hěn xiāng.",
+      "english": "This soup smells very fragrant."
+    },
+    {
+      "chinese": "她的香水味迷人(她的香水味迷人)，让人陶醉(讓人陶醉)。",
+      "pinyin": "Tā de xiāngshuǐ wèi mírén, ràng rén táozuì.",
+      "english": "Her perfume is enchanting, making people intoxicated."
+    }
+  ]
+}

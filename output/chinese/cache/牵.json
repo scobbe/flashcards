@@ -1,0 +1,44 @@
+{
+  "simplified": "牵",
+  "traditional": "牽",
+  "pinyin": "qiān",
+  "english": "to lead",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "牜(牛) (niú, 'ox') + phonetic: 肙(玄) (xuán, 'mysterious/deep') = leading an ox -> lead/guide",
+    "interpretation": "The character 牵(牽) (qiān, 'to lead') conveys the idea of leading an ox, a common agricultural activity in ancient China. The semantic component 牛(牛) (niú, 'ox') represents the act of leading livestock, while the phonetic component 玄(玄) (xuán, 'mysterious') contributes to the sound.",
+    "simplification": "牽(牽) (qiān) was simplified by replacing 玄(玄) with a simplified component structure to streamline writing."
+  },
+  "parts": [
+    {
+      "char": "牜",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "ox"
+    },
+    {
+      "char": "肙",
+      "trad": "玄",
+      "pinyin": "xuán",
+      "english": "mysterious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈牵着我(媽媽牽著我)，走在街上(走在街上)。",
+      "pinyin": "Māmā qiānzhe wǒ, zǒu zài jiēshàng.",
+      "english": "Mom leads me as we walk on the street."
+    },
+    {
+      "chinese": "父亲牵着牛(父親牽著牛)，穿过田野(穿過田野)。",
+      "pinyin": "Fùqīn qiānzhe niú, chuānguò tiányě.",
+      "english": "Father leads the cow across the fields."
+    },
+    {
+      "chinese": "京剧演员牵着木偶(京劇演員牽著木偶)，演绎古典故事(演繹古典故事)。",
+      "pinyin": "Jīngjù yǎnyuán qiānzhe mùǒu, yǎnyì gǔdiǎn gùshì.",
+      "english": "The Peking opera actor leads the puppet to perform a classical story."
+    }
+  ]
+}

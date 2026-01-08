@@ -2,30 +2,43 @@
   "simplified": "𠯑",
   "traditional": "𠯑",
   "pinyin": "unknown",
-  "english": "unknown",
+  "english": "phonetic component",
   "etymology": {
-    "type": "unknown",
-    "description": "unknown",
-    "interpretation": "The character 𠯑 is not well-documented and lacks detailed historical or etymological information in readily available sources.",
+    "type": "ideogrammic compound",
+    "description": "氏(氏) (shì, \"clan\") + 日(日) (rì, \"sun\") = sun lowering -> phonetic component",
+    "interpretation": "The character uses the image of the sun setting or lowering to convey an associated sound, serving as a phonetic component in compounds. Unlike 昏(昏) (hūn, \"dusk\"), it doesn't form an independent word but contributes phonetically in other characters.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "氏",
+      "trad": "氏",
+      "pinyin": "shì",
+      "english": "clan"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "深山古寺中(深山古寺中)，藏有𠯑之谜(藏有𠯑之謎)。",
-      "pinyin": "Shēn shān gǔ sì zhōng, cáng yǒu wèi zhī mí。",
-      "english": "In an ancient temple deep in the mountains, the mystery of 𠯑 is concealed."
+      "chinese": "许多形声字使用𠯑(𠯑)，表示音旁作用(表示音旁作用)。",
+      "pinyin": "Xǔ duō xíng shēng zì shǐ yòng 𠯑, biǎo shì yīn páng zuò yòng.",
+      "english": "Many phono-semantic compound characters use 𠯑 to indicate a phonetic component."
     },
     {
-      "chinese": "湖边倒影中(湖邊倒影中)，浮现出𠯑的身影(浮現出𠯑的身影)。",
-      "pinyin": "Hú biān dào yǐng zhōng, fú xiàn chū wèi de shēn yǐng。",
-      "english": "In the lake's reflection, the silhouette of 𠯑 emerges."
+      "chinese": "在字典中(在字典中)，学者探讨了𠯑的音读功能(學者探討了𠯑的音讀功能)。",
+      "pinyin": "Zài zìdiǎn zhōng, xué zhě tàn tǎo le 𠯑 de yīn dú gōng néng.",
+      "english": "In the dictionary, scholars have explored the phonetic reading function of 𠯑."
     },
     {
-      "chinese": "古卷传说里(古卷傳說裏)，记载着𠯑的踪迹(記載著𠯑的蹤跡)。",
-      "pinyin": "Gǔ juàn zhuàn shuō lǐ, jì zǎi zhe wèi de zōng jì。",
-      "english": "Ancient legends in scrolls record the traces of 𠯑."
+      "chinese": "很多生僻字包含𠯑(𠯑)，提供了声音线索(提供了聲音線索)。",
+      "pinyin": "Hěn duō shēng pì zì bāo hán 𠯑, tí gōng le shēng yīn xiàn suǒ.",
+      "english": "Many obscure characters include 𠯑, providing a clue to pronunciation."
     }
   ]
 }

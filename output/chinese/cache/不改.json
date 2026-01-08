@@ -1,0 +1,44 @@
+{
+  "simplified": "不改",
+  "traditional": "不改",
+  "pinyin": "bù gǎi",
+  "english": "not change",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") and 改(改) (gǎi, \"change\") come together to mean \"not change.\"",
+    "interpretation": "This combination of 不(不) (bù, \"not\") and 改(改) (gǎi, \"change\") directly expresses the concept of retaining the current state or refusing alterations.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "改",
+      "trad": "改",
+      "pinyin": "gǎi",
+      "english": "change; alter; amend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "尽管世界变化万千(儘管世界變化萬千)，内心情怀不改(內心情懷不改)。",
+      "pinyin": "Jǐnguǎn shìjiè biànhuà wànqiān, nèixīn qínghuái bù gǎi.",
+      "english": "Although the world changes in myriad ways, the inner sentiments remain unaltered."
+    },
+    {
+      "chinese": "面对挑战(面對挑戰)，他信念不改(他信念不改)。",
+      "pinyin": "Miànduì tiǎozhàn, tā xìnniàn bù gǎi.",
+      "english": "Facing challenges, his conviction remains unchanged."
+    },
+    {
+      "chinese": "在岁月流逝中(在歲月流逝中)，我们的理想不改(我們的理想不改)。",
+      "pinyin": "Zài suìyuè liúshì zhōng, wǒmen de lǐxiǎng bù gǎi.",
+      "english": "Amid the passage of time, our ideals remain unaltered."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "浴巾",
+  "traditional": "浴巾",
+  "pinyin": "yùjīn",
+  "english": "bath towel",
+  "etymology": {
+    "type": "compound word",
+    "description": "浴(浴) (yù, \"bathe\") refers to the act of washing or immersing oneself in water, while 巾(巾) (jīn, \"towel\") refers to a cloth used to dry oneself.",
+    "interpretation": "A 浴巾(浴巾) (yùjīn, \"bath towel\") is a towel specifically intended for use after bathing, designed to absorb water from the body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "浴",
+      "trad": "浴",
+      "pinyin": "yù",
+      "english": "bathe; immerse"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "towel; cloth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用浴巾擦干头发(我用浴巾擦乾頭髮)。",
+      "pinyin": "Wǒ yòng yùjīn cā gān tóufà.",
+      "english": "I use the bath towel to dry my hair."
+    },
+    {
+      "chinese": "洗完澡后(洗完澡後)，用浴巾擦干身体(用浴巾擦乾身體)。",
+      "pinyin": "Xǐ wán zǎo hòu, yòng yùjīn cā gān shēntǐ.",
+      "english": "After bathing, use the bath towel to dry your body."
+    },
+    {
+      "chinese": "他忘记(他忘記)，把浴巾放在椅子上(把浴巾放在椅子上)。",
+      "pinyin": "Tā wàngjì, bǎ yùjīn fàng zài yǐzi shàng.",
+      "english": "He forgot to bring the bath towel and left it on the chair."
+    }
+  ]
+}

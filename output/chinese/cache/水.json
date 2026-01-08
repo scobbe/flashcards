@@ -1,0 +1,31 @@
+{
+  "simplified": "水",
+  "traditional": "水",
+  "pinyin": "shuǐ",
+  "english": "water",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts flowing water",
+    "interpretation": "水(水) (shuǐ, 'water') is a pictogram that directly represents the appearance of flowing water, making it intuitive and easy to recognize. Its simplicity and direct visual reference to its meaning have allowed it to remain unchanged over millennia.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "水是一种生命之源(水是一種生命之源)。",
+      "pinyin": "Shuǐ shì yī zhǒng shēngmìng zhī yuán.",
+      "english": "Water is the source of life."
+    },
+    {
+      "chinese": "夏天很热(夏天很熱)，喝水能解暑(喝水能解暑)。",
+      "pinyin": "Xiàtiān hěn rè, hē shuǐ néng jiě shǔ.",
+      "english": "It is very hot in summer, drinking water can relieve the heat."
+    },
+    {
+      "chinese": "河水潺潺(河水潺潺)，沿岸绿树成荫(沿岸綠樹成蔭)。",
+      "pinyin": "Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.",
+      "english": "The river flows babbling, and green trees along the bank provide shade."
+    }
+  ]
+}

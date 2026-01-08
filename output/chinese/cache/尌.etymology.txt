@@ -1,0 +1,10 @@
+[尌]
+Ideogrammic compound ( 會意 / 会意 ): 木 ( “ tree ” ) + 寸 ( “ hand ” ) — to plant a tree. The form in the oracle bone script appears as 权 . A phonetic 豆 ( OC *doːs ) was added later.
+In the modern form, 木 and 豆 have fused into 壴 , and the character is sometimes mistaken for a compound of 壴 + 寸 ;.
+This character has largely been superseded by 樹 ( OC *djoʔ, *djos ).
+
+[樹]
+Phono-semantic compound ( 形聲 / 形声 , OC *djoʔ, *djos ): semantic 木 ( “ tree ” ) + phonetic 尌 ( OC *djos , “ to plant a tree ” ) . Originally written as 尌 ; an extra 木 was added to differentiate.
+
+[树]
+Simplified from 樹 ( 壴 → 又 )

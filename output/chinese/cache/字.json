@@ -1,0 +1,39 @@
+{
+  "simplified": "字",
+  "traditional": "字",
+  "pinyin": "zì",
+  "english": "character",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "子(子) (zǐ, \"child\") + 宀(宀) (mián, \"roof\") = child under a roof -> representation of how children would learn to write characters inside a house -> character",
+    "interpretation": "The character 字(zì, \"character\") combines 子(zǐ, \"child\") and 宀(mián, \"roof\") to depict a child learning to write under the protection of a roof. This makes intuitive sense as learning and education traditionally took place at home.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个字很漂亮(這個字很漂亮)。",
+      "pinyin": "Zhège zì hěn piàoliang.",
+      "english": "This character is very beautiful."
+    },
+    {
+      "chinese": "每个字都有故事(每個字都有故事)，蕴含着历史智慧(蘊含著歷史智慧)。",
+      "pinyin": "Měi gè zì dōu yǒu gùshì, yùnhán zhe lìshǐ zhìhuì.",
+      "english": "Every character has a story, containing the wisdom of history."
+    }
+  ]
+}

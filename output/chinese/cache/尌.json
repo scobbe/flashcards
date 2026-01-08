@@ -1,0 +1,26 @@
+{
+  "simplified": "尌",
+  "traditional": "尌",
+  "pinyin": "shù",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "unknown",
+    "description": "Unknown -> phonetic component with unclear origin and meaning -> often used in the context of phonetics or as a component in compound characters",
+    "interpretation": "The character 尌 is primarily used as a phonetic element rather than having its own standalone meaning. It appears in the inside of other characters but lacks a definitive etymological breakdown.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个字的结构中(這個字的結構中)，尌作为声旁存在(尌作為聲旁存在)。",
+      "pinyin": "Zhège zì de jiégòu zhōng, shù zuòwéi shēngpáng cúnzài.",
+      "english": "In the structure of this character, the component 尌 functions as the phonetic element."
+    },
+    {
+      "chinese": "书法家研究汉字时(書法家研究漢字時)，仔细观察声旁尌的用法(仔細觀察聲旁尌的用法)。",
+      "pinyin": "Shūfǎ jiā yánjiū Hànzì shí, zǐxì guānchá shēngpáng shù de yòngfǎ.",
+      "english": "When calligraphers study Chinese characters, they carefully observe the usage of the phonetic component 尌."
+    }
+  ]
+}

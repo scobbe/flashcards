@@ -1,0 +1,44 @@
+{
+  "simplified": "栏",
+  "traditional": "欄",
+  "pinyin": "lán",
+  "english": "railing; balustrade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 闌(闌) (lán, \"block\") = wood structure -> railing",
+    "interpretation": "The character 栏(欄) (lán, \"railing\") combines 木(木) (mù, \"wood\") for its structural material and the phonetic 闌(闌) (lán, \"block\"). This indicates a barrier or partition made of wood, like a railing or fence.",
+    "simplification": "Simplified 栏(欄) (lán, \"railing\") uses 兰(兰) (lán, \"orchid\") from 闌(闌) (lán) for phonetic similarity. This created a simpler form by reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "闌",
+      "trad": "闌",
+      "pinyin": "lán",
+      "english": "block"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "楼梯旁的栏(樓梯旁的欄)，防止了跌倒(防止了跌倒)。",
+      "pinyin": "Lóutī páng de lán, fángzhǐ le diēdǎo.",
+      "english": "The railing beside the stairs prevents falls."
+    },
+    {
+      "chinese": "阳台外的栏(陽臺外的欄)，提供了安全保护(提供了安全保護)。",
+      "pinyin": "Yángtái wài de lán, tígōng le ānquán bǎohù.",
+      "english": "The railing outside the balcony provides safety."
+    },
+    {
+      "chinese": "城墙边的栏(城牆邊的欄)，俨然形成一道屏障(儼然形成一道屏障)。",
+      "pinyin": "Chéngqiáng biān de lán, yǎnrán xíngchéng yīdào píngzhàng.",
+      "english": "The railing by the city wall forms a clear barrier."
+    }
+  ]
+}

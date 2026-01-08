@@ -1,0 +1,26 @@
+{
+  "simplified": "卩",
+  "traditional": "卩",
+  "pinyin": "jié",
+  "english": "kneeling person",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: represents a kneeling person from a side view",
+    "interpretation": "The character 卩(卩) (jié, \"kneeling person\") visually depicts someone kneeling, highlighting the physical posture. It is distinct and unrelated to other characters like 欠(欠) (qiàn, \"owe\") and 女(女) (nǚ, \"woman\") despite similar appearances.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "在祭祀仪式中(在祭祀儀式中)，卩虔诚跪拜(卩虔誠跪拜)。",
+      "pinyin": "Zài jìsì yíshì zhōng, jié qiánchéng guìbài.",
+      "english": "During the ritual, the kneeling person prayed devoutly."
+    },
+    {
+      "chinese": "古代绘画多描绘卩风姿(古代繪畫多描繪卩風姿)。",
+      "pinyin": "Gǔdài huìhuà duō miáohuì jié fēngzī.",
+      "english": "Ancient paintings often depict the posture of a kneeling person."
+    }
+  ]
+}

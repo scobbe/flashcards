@@ -1,0 +1,38 @@
+{
+  "simplified": "卖",
+  "traditional": "賣",
+  "pinyin": "mài",
+  "english": "sell; betray; show off",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 貝(貝) (bèi, \"cowry\") + Phonetic: 卖(賣) (mài, \"sell\") = selling valuables -> sell",
+    "interpretation": "賣(賣) originally combines 貝(貝) (bèi, \"cowry\"), a symbol of money and valuables in ancient China, with a phonetic component indicating the sound. Selling involved valuables, making the connection logical.",
+    "simplification": "賣(賣) → 卖(賣): The shell radical 貝(貝) (bèi, \"cowry\") was replaced by 单(單) (dān, \"single\") in a simplified phonetic and semantic reduction."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我去市场卖水果(我去市場賣水果)。",
+      "pinyin": "Wǒ qù shìchǎng mài shuǐguǒ。",
+      "english": "I go to the market to sell fruit."
+    },
+    {
+      "chinese": "他卖友求荣(他賣友求榮)。",
+      "pinyin": "Tā mài yǒu qiú róng。",
+      "english": "He betrays his friends to seek glory."
+    },
+    {
+      "chinese": "他总是喜欢卖弄(他總是喜歡賣弄)，自己的才华(自己的才華)。",
+      "pinyin": "Tā zǒngshì xǐhuān mài nòng, zìjǐ de cáihuá。",
+      "english": "He always likes to show off his talent."
+    }
+  ]
+}

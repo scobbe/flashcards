@@ -1,0 +1,44 @@
+{
+  "simplified": "包",
+  "traditional": "包",
+  "pinyin": "bāo",
+  "english": "wrap",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts fetus 巳(巳) (sì, \"fetus\") in womb 勹(勹) (bāo, \"wrap\") -> swaddled baby -> wrap",
+    "interpretation": "The character 包(bāo) visually represents a fetus enclosed in the womb, akin to wrapping. This imagery conveys the concept of enveloping or wrapping something securely.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巳",
+      "trad": "巳",
+      "pinyin": "sì",
+      "english": "fetus"
+    },
+    {
+      "char": "勹",
+      "trad": "勹",
+      "pinyin": "bāo",
+      "english": "wrap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈正在包饺子(媽媽正在包餃子)。",
+      "pinyin": "māmā zhèngzài bāo jiǎozi.",
+      "english": "Mom is wrapping dumplings."
+    },
+    {
+      "chinese": "她学习如何包礼物(她學習如何包禮物)，让它看起来更漂亮(讓它看起來更漂亮)。",
+      "pinyin": "tā xuéxí rúhé bāo lǐwù, ràng tā kàn qǐlái gèng piàoliang.",
+      "english": "She learns how to wrap gifts to make them look more beautiful."
+    },
+    {
+      "chinese": "厨师熟练地包春卷(廚師熟練地包春捲)，确保每一个都紧紧地包着(確保每一個都緊緊地包著)。",
+      "pinyin": "chúshī shúliàn de bāo chūnjuǎn, quèbǎo měi yīgè dōu jǐn jǐn de bāozhe.",
+      "english": "The chef skillfully wraps spring rolls, ensuring each one is tightly wrapped."
+    }
+  ]
+}

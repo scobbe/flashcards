@@ -1,0 +1,31 @@
+{
+  "simplified": "十",
+  "traditional": "十",
+  "pinyin": "shí",
+  "english": "ten",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Original vertical stroke -> later horizontal stroke added -> forms a cross -> represents 'ten'",
+    "interpretation": "The character 十(shí, 'ten') represents the number ten with a cross shape that could be seen as tally marks. It evolved from a simple vertical stroke to a cross by adding a horizontal stroke, symbolizing a complete set of ten.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有十本书(我有十本書)。",
+      "pinyin": "Wǒ yǒu shí běn shū.",
+      "english": "I have ten books."
+    },
+    {
+      "chinese": "花园里有十棵树(花園裡有十棵樹)，景色十分优美(景色十分優美)。",
+      "pinyin": "Huāyuán lǐ yǒu shí kē shù, jǐngsè shífēn yōuměi.",
+      "english": "There are ten trees in the garden, and the scenery is very beautiful."
+    },
+    {
+      "chinese": "十年磨一剑(十年磨一劍)。",
+      "pinyin": "Shí nián mó yī jiàn.",
+      "english": "It takes ten years of practice to hone a sword."
+    }
+  ]
+}

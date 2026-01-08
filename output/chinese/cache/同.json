@@ -2,25 +2,32 @@
   "simplified": "同",
   "traditional": "同",
   "pinyin": "tóng",
-  "english": "same; together",
+  "english": "same; unity; together; common",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a pipe -> later added decorative 口 (kǒu, \"mouth\") -> evolved into 筒(tóng, \"pipe\")",
-    "interpretation": "Originally depicting a pipe, 同(tóng) was likely visualized as a cylindrical object. The later addition of 口(kǒu, \"mouth\") to the character may have been decorative or added to emphasize cooperation or messages passed through a pipe, thus associating it with the idea of togetherness or communication.",
+    "type": "Pictogram",
+    "description": "Originally depicted as a pipe 筒(筒) (tǒng, \"pipe\") -> 口 added as decoration -> interpreted as mouth 口(口) (kǒu, \"mouth\") giving orders -> evolved to mean togetherness and unity",
+    "interpretation": "The character 同(同) (tóng, \"same; unity; together; common\") originally depicted a pipe but later took on the symbolic meaning of unity, possibly influenced by the shared cooperation in activities like music or rigid group tasks. The addition of 口(口) (kǒu, \"mouth\") emphasizes communication and collaboration.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "\"mouth\""
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们同享美食(我們同享美食)。",
-      "pinyin": "Wǒ tóng xiǎng měishí.",
-      "english": "We enjoy food together."
+      "chinese": "我们同心协力(我們同心協力)。",
+      "pinyin": "Wǒmen tóngxīn xiélì.",
+      "english": "We work together with one heart and mind."
     },
     {
-      "chinese": "他和我目光相同(他和我目光相同)，心意一致(心意一致)。",
-      "pinyin": "Tā hé wǒ mùguāng xiāngtóng, xīnyì yīzhì.",
-      "english": "He and I have the same perspective, and our hearts are in agreement."
+      "chinese": "他们穿着同款衣服(他們穿著同款衣服)，看起来十分整齐(看起來十分整齊)。",
+      "pinyin": "Tāmen chuānzhe tóng kuǎn yīfú, kàn qǐlái shífēn zhěngqí.",
+      "english": "They are wearing the same style of clothes and look very orderly."
     }
   ]
 }

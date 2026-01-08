@@ -1,0 +1,39 @@
+{
+  "simplified": "司",
+  "traditional": "司",
+  "pinyin": "sī",
+  "english": "manage",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "一(一) (yī, \"one\") + 口(口) (kǒu, \"mouth\") = overseeing one's speech or words -> manage",
+    "interpretation": "The character 司(司) (sī, \"manage\") combines 一(一) (yī, \"one\") and 口(口) (kǒu, \"mouth\") suggesting the idea of control or direction over speech, symbolizing management or supervision.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他司图书馆(他司圖書館)，井井有条(井井有條)。",
+      "pinyin": "Tā sī lǐ túshūguǎn, jǐng jǐng yǒu tiáo.",
+      "english": "He manages the library, keeping it in perfect order."
+    },
+    {
+      "chinese": "他亲自司掌全局(他親自司掌全局)。",
+      "pinyin": "Tā qīnzì sī zhǎng quán jú.",
+      "english": "He personally takes charge of the overall situation."
+    }
+  ]
+}

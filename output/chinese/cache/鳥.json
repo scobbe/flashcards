@@ -1,0 +1,31 @@
+{
+  "simplified": "鳥",
+  "traditional": "鳥",
+  "pinyin": "niǎo",
+  "english": "bird",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bird with a prominent beak and tail feathers",
+    "interpretation": "The character 鳥(鳥) (niǎo, \"bird\") visually represents a bird, featuring distinct elements such as a beak and tail feathers, capturing its essence through its graphical form.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花园里有许多鸟(花園裡有許多鳥)，在空中翱翔(在空中翱翔)。",
+      "pinyin": "Huāyuán lǐ yǒu xǔduō niǎo, zài kōngzhōng áoxiáng.",
+      "english": "Many birds soar in the garden."
+    },
+    {
+      "chinese": "树林中有一只鸟(樹林中有一隻鳥)，在枝头跳跃(在枝頭跳躍)。",
+      "pinyin": "Shùlín zhōng yǒu yī zhī niǎo, zài zhītóu tiàoyuè.",
+      "english": "A bird hops on a branch in the forest."
+    },
+    {
+      "chinese": "海边的天空中飞翔着鸟(海邊的天空中飛翔著鳥)。",
+      "pinyin": "Hǎibiān de tiānkōng zhōng fēixiáng zhe niǎo.",
+      "english": "A bird soars in the sky by the seaside."
+    }
+  ]
+}

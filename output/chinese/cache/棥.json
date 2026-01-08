@@ -1,0 +1,39 @@
+{
+  "simplified": "棥",
+  "traditional": "棥",
+  "pinyin": "fán",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, 'wood') + phonetic: 反(反) (fǎn) = provides sound -> used in transcriptions",
+    "interpretation": "The character 棥(fán) uses 木(木) (mù, 'wood') to denote its category related to wood or wood-like materials, while 反(反) (fǎn) contributes the phonetic component. This character was likely used for phonetic purposes in transcription or borrowing in historical texts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "反",
+      "trad": "反",
+      "pinyin": "fǎn",
+      "english": "opposite"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "形声字由意旁和棥组成(形聲字由意旁和棥組成)。",
+      "pinyin": "Xíngshēngzì yóu yìpáng hé fán zǔchéng。",
+      "english": "Phonetic compound characters consist of a semantic component and a phonetic component."
+    },
+    {
+      "chinese": "学者研究汉字的棥以探究字音规律(學者研究漢字的棥以探究字音規律)。",
+      "pinyin": "Xuézhě yánjiū hànzì de fán yǐ tànjiū zìyīn guīlǜ。",
+      "english": "Scholars study the phonetic component of Chinese characters to explore the rules of pronunciation."
+    }
+  ]
+}

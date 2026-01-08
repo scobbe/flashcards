@@ -1,0 +1,44 @@
+{
+  "simplified": "蚝",
+  "traditional": "蠔",
+  "pinyin": "háo",
+  "english": "oyster",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "虫(蟲) (chóng, \"insect\") + phonetic 豪(豪) (háo, \"luxurious\") = a type of insect -> refers to oysters, which are a type of mollusk",
+    "interpretation": "The character 蚝(蠔) combines 虫(蟲) (chóng, \"insect\") to convey the association with creatures from the animal kingdom, specifically shelled sea animals like oysters, and 豪(豪) (háo, \"luxurious\") as the phonetic component to denote the sound and perhaps the luxurious aspect of eating oysters.",
+    "simplification": "蚝(蠔) retains the phonetic 豪(豪) (háo) but simplifies the insect component 虫(蟲) (chóng) as a common shorthand for any invertebrate or small creature, resulting in the modern form."
+  },
+  "parts": [
+    {
+      "char": "虫",
+      "trad": "蟲",
+      "pinyin": "chóng",
+      "english": "insect"
+    },
+    {
+      "char": "豪",
+      "trad": "豪",
+      "pinyin": "háo",
+      "english": "luxurious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃蚝(我喜歡吃蠔)。",
+      "pinyin": "Wǒ xǐhuān chī háo.",
+      "english": "I like eating oysters."
+    },
+    {
+      "chinese": "蚝肉鲜嫩(蠔肉鮮嫩)，味道极佳(味道極佳)。",
+      "pinyin": "Háo ròu xiānnèn, wèidào jí jiā.",
+      "english": "Oyster meat is tender and delicious."
+    },
+    {
+      "chinese": "海边的市场里有很多新鲜的蚝(海邊的市場裡有很多新鮮的蠔)。",
+      "pinyin": "Hǎibiān de shìchǎng lǐ yǒu hěn duō xīnxiān de háo.",
+      "english": "The seaside market has many fresh oysters."
+    }
+  ]
+}

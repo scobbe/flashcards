@@ -1,0 +1,31 @@
+{
+  "simplified": "久",
+  "traditional": "久",
+  "pinyin": "jiǔ",
+  "english": "long time",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person bending the lower back -> extended time",
+    "interpretation": "The character 久(久) (jiǔ, \"long time\") visually represents a person leaning forward, symbolizing the passage of a significant amount of time. The bending posture suggests protracted duration.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我等待了很久(我等待了很久)。",
+      "pinyin": "Wǒ děngdài le hěn jiǔ.",
+      "english": "I waited for a long time."
+    },
+    {
+      "chinese": "分别了很久(分別了很久)，朋友仍然相聚(朋友仍然相聚)。",
+      "pinyin": "Fēnbié le hěn jiǔ, péngyǒu réngrán xiāngjù.",
+      "english": "It has been a long time since we parted, yet friends still meet."
+    },
+    {
+      "chinese": "远行归来已久(遠行歸來已久)，家门依旧温暖(家門依舊溫暖)。",
+      "pinyin": "Yuǎnxíng guīlái yǐ jiǔ, jiāmén yījiù wēnnuǎn.",
+      "english": "It has been a long time since returning from a journey, yet the home remains welcoming."
+    }
+  ]
+}

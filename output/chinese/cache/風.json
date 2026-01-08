@@ -1,0 +1,39 @@
+{
+  "simplified": "風",
+  "traditional": "風",
+  "pinyin": "fēng",
+  "english": "wind; breeze",
+  "etymology": {
+    "type": "Jiajie ( 假借 )",
+    "description": "鳳(鳳) (fèng, \"fenghuang\") borrowed for sound to represent 風(風) (fēng, \"wind\") -> bronze inscription phonetic 凡 (top) + three fur-like threads (bottom) -> later forms simplified fur -> 虫 misinterpretation as insects",
+    "interpretation": "The character 風(風) (fēng, \"wind\") originally borrowed the sound from 鳳(鳳) (fèng, \"fenghuang\"), a mythical bird, and eventually evolved by simplifying the depiction of fur to represent wind. Its correct interpretation focuses on sound association rather than its visual components being insects.",
+    "simplification": "风 is a simplification of 風 where 䖝 is replaced with 㐅 to create a more streamlined form."
+  },
+  "parts": [
+    {
+      "char": "鳳",
+      "trad": "鳳",
+      "pinyin": "fèng",
+      "english": "fenghuang"
+    },
+    {
+      "char": "凡",
+      "trad": "凡",
+      "pinyin": "fán",
+      "english": "ordinary (phonetic component)"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海边的风拂过脸颊(海邊的風拂過臉頰)。",
+      "pinyin": "Hǎibiān de fēng fúguò liǎnjiá.",
+      "english": "The seaside wind brushes past the cheeks."
+    },
+    {
+      "chinese": "微风轻拂树梢(微風輕拂樹梢)，鸟儿欢唱于林间(鳥兒歡唱於林間)。",
+      "pinyin": "Wēifēng qīngfú shùshāo, niǎor huānchàng yú línjiān.",
+      "english": "The gentle breeze caresses the treetops, while birds chirp joyfully in the forest."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "拉",
+  "traditional": "拉",
+  "pinyin": "lā",
+  "english": "pull; drag; draw out",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "hand 手(手) (shǒu, 'hand') + phonetic 立(立) (lì, 'stand') = action performed with the hand, using the sound of 立(立) to signify 'pull'",
+    "interpretation": "The character 拉(拉) (lā, 'pull') combines 手(手) (shǒu, 'hand') to indicate an action involving manipulation with a hand, while 立(立) (lì, 'stand') provides the phonetic pronunciation. The character effectively conveys the idea of using one's hand to 'pull' or 'drag' something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用力拉门(他用力拉門)。",
+      "pinyin": "Tā yònglì lā mén.",
+      "english": "He pulls the door with force."
+    },
+    {
+      "chinese": "她拉开窗帘(她拉開窗簾)，让阳光进来(讓陽光進來)。",
+      "pinyin": "Tā lā kāi chuānglián, ràng yángguāng jìn lái.",
+      "english": "She pulls open the curtains to let the sunlight in."
+    },
+    {
+      "chinese": "那只狗拉着绳子(那只狗拉著繩子)，追赶着主人(追趕著主人)。",
+      "pinyin": "Nà zhī gǒu lāzhe shéngzi, zhuīgǎn zhe zhǔrén.",
+      "english": "The dog pulls its leash while chasing its owner."
+    }
+  ]
+}

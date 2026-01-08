@@ -1,0 +1,44 @@
+{
+  "simplified": "玄",
+  "traditional": "玄",
+  "pinyin": "xuán",
+  "english": "dark/mysterious",
+  "etymology": {
+    "type": "ideogram",
+    "description": "幺(幺) (yāo, \"tiny threads\") + 亠(亠) (tóu, \"top mark\") = two interwoven threads with a top mark representing a rope -> dark/mysterious",
+    "interpretation": "The character combines tiny threads 幺(幺) with a distinguishing top mark 亠(亠), symbolizing complexity or intricacy akin to a rope. This imagery connects to its meaning of something dark or mysterious, possibly alluding to complexity not easily understood.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "tiny threads"
+    },
+    {
+      "char": "亠",
+      "trad": "亠",
+      "pinyin": "tóu",
+      "english": "top mark"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜幕降临时(夜幕降臨時)，大地笼罩着玄秘的色彩(大地籠罩著玄秘的色彩)。",
+      "pinyin": "Yèmù jiànglín shí, dàdì lǒngzhào zhe xuánmì de sècǎi.",
+      "english": "When night falls, the earth is enveloped by mysterious, dark hues."
+    },
+    {
+      "chinese": "这幅山水画(這幅山水畫)充满玄妙意境(充滿玄妙意境)。",
+      "pinyin": "Zhè fú shānshuǐhuà chōngmǎn xuánmiào yìjìng.",
+      "english": "This landscape painting is full of mystical allure."
+    },
+    {
+      "chinese": "他的故事(他的故事)令人感到玄虚莫测(令人感到玄虛莫測)。",
+      "pinyin": "Tā de gùshì lìngrén gǎndào xuánxū mòcè.",
+      "english": "His story gives an impression of enigmatic inscrutability."
+    }
+  ]
+}

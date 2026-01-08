@@ -1,0 +1,44 @@
+{
+  "simplified": "奴",
+  "traditional": "奴",
+  "pinyin": "nú",
+  "english": "servant",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "女(女) (nǚ, \"woman\") + 又(又) (yòu, \"hand\") = a hand capturing and ordering a woman -> servant",
+    "interpretation": "This character combines 女(女) (nǚ, \"woman\") with 又(又) (yòu, \"hand\") to symbolize a hand exerting control over a woman, indicating subjugation or servitude. It captures a historical view of societal roles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被迫成为奴(他被迫成為奴)。",
+      "pinyin": "Tā bèi pò chéngwéi nú.",
+      "english": "He was forced to become a servant."
+    },
+    {
+      "chinese": "这个奴全心全意侍奉主人(這個奴全心全意侍奉主人)，从不怨言(從不怨言)。",
+      "pinyin": "Zhège nú quánxīn quányì shìfèng zhǔrén, cóng bù yuànyán.",
+      "english": "This servant serves his master wholeheartedly and never complains."
+    },
+    {
+      "chinese": "昔日名将的奴曾立下汗马功劳(昔日名將的奴曾立下汗馬功勞)。",
+      "pinyin": "Xīrì míngjiāng de nú céng lìxià hànmǎ gōngláo.",
+      "english": "The servant of the once-famous general once accomplished remarkable feats."
+    }
+  ]
+}

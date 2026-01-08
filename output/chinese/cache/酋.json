@@ -1,0 +1,39 @@
+{
+  "simplified": "酋",
+  "traditional": "酋",
+  "pinyin": "qiú",
+  "english": "long-fermented alcohol or decoration",
+  "etymology": {
+    "type": "pictogram",
+    "description": "八(八) above 酉(酉) = some exposed liquid above alcohol vessel -> fermenting container",
+    "interpretation": "The character 酋(酋) (qiú, \"long-fermented alcohol or decoration\") visually depicts an alcohol vessel with liquid at the top, signifying fermentation. This makes intuitive sense as it conveys the idea of prolonged fermentation of alcohol inside the container.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "alcohol vessel"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这瓶酋散发着古香古色(這瓶酋散發著古香古色)。",
+      "pinyin": "Zhè píng qiú sànfā zhe gǔxiāng gǔsè.",
+      "english": "This bottle of long-fermented alcohol exudes an ancient fragrance and style."
+    },
+    {
+      "chinese": "他精心制作的酋装饰独具匠心(他精心製作的酋裝飾獨具匠心)，吸引了许多游客(吸引了許多遊客)。",
+      "pinyin": "Tā jīngxīn zhìzuò de qiú zhuāngshì dújù jiàngxīn, xīyǐn le xǔduō yóukè.",
+      "english": "His exquisitely crafted qiú decoration is ingeniously designed, attracting many tourists."
+    }
+  ]
+}

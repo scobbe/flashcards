@@ -1,0 +1,44 @@
+{
+  "simplified": "幸福堂",
+  "traditional": "幸福堂",
+  "pinyin": "Xìngfú Táng",
+  "english": "Taiwanese beverage chain Xing Fu Tang",
+  "etymology": {
+    "type": "compound word",
+    "description": "幸福(幸福) (xìngfú, \"happiness\") + 堂(堂) (táng, \"hall\")",
+    "interpretation": "幸福堂(幸福堂) (xìngfú táng, \"Xing Fu Tang\") can be interpreted as a 'hall of happiness,' evoking a sense of joyful experiences and pleasant ambiance associated with enjoying delicious drinks at this popular Taiwanese beverage chain.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "幸福",
+      "trad": "幸福",
+      "pinyin": "xìngfú",
+      "english": "happiness; blessed; lucky"
+    },
+    {
+      "char": "堂",
+      "trad": "堂",
+      "pinyin": "táng",
+      "english": "hall; room; large room"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢去幸福堂(我喜歡去幸福堂)，喝奶茶(喝奶茶)。",
+      "pinyin": "Wǒ xǐhuān qù Xìngfú Táng, hē nǎichá.",
+      "english": "I like to go to Xing Fu Tang and drink milk tea."
+    },
+    {
+      "chinese": "她推荐去幸福堂(她推薦去幸福堂)，品尝招牌饮品(品嚐招牌飲品)。",
+      "pinyin": "Tā tuījiàn qù Xìngfú Táng, pǐncháng zhāopái yǐnpǐn.",
+      "english": "She recommends going to Xing Fu Tang and tasting the signature drink."
+    },
+    {
+      "chinese": "幸福堂在台湾非常受欢迎(幸福堂在臺灣非常受歡迎)。",
+      "pinyin": "Xìngfú Táng zài Táiwān fēicháng shòu huānyíng.",
+      "english": "Xing Fu Tang is very popular in Taiwan."
+    }
+  ]
+}

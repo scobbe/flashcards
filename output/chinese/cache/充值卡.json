@@ -1,0 +1,50 @@
+{
+  "simplified": "充值卡",
+  "traditional": "充值卡",
+  "pinyin": "chōngzhíkǎ",
+  "english": "recharge card",
+  "etymology": {
+    "type": "compound word",
+    "description": "充(充) (chōng, \"to charge\"), 值(值) (zhí, \"value\"), 卡(卡) (kǎ, \"card\")",
+    "interpretation": "充值卡(充值卡) (chōngzhíkǎ, \"recharge card\") combines 充(充) (chōng, \"to charge\") and 值(值) (zhí, \"value\") to indicate the action of adding value, along with 卡(卡) (kǎ, \"card\"), representing a card. Therefore, a 充值卡 is a card that is used to recharge or add value to an account, such as for mobile phones or prepaid services.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "充",
+      "trad": "充",
+      "pinyin": "chōng",
+      "english": "to charge; to fill; to act in place of; sufficient"
+    },
+    {
+      "char": "值",
+      "trad": "值",
+      "pinyin": "zhí",
+      "english": "value; worth; to be worth; to deserve"
+    },
+    {
+      "char": "卡",
+      "trad": "卡",
+      "pinyin": "kǎ",
+      "english": "card; punch card; calorie"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我昨天买了一张充值卡(我昨天買了一張充值卡)。",
+      "pinyin": "Wǒ zuótiān mǎile yī zhāng chōngzhíkǎ.",
+      "english": "I bought a recharge card yesterday."
+    },
+    {
+      "chinese": "手机流量用完时(手機流量用完時)，充值卡可以让我继续上网(充值卡可以讓我繼續上網)。",
+      "pinyin": "Shǒujī liúliàng yòng wán shí, chōngzhíkǎ kěyǐ ràng wǒ jìxù shàngwǎng.",
+      "english": "When my phone's data runs out, a recharge card lets me continue to go online."
+    },
+    {
+      "chinese": "他不明白充值卡的使用方法(他不明白充值卡的使用方法)。",
+      "pinyin": "Tā bù míngbái chōngzhíkǎ de shǐyòng fāngfǎ.",
+      "english": "He doesn't understand how to use the recharge card."
+    }
+  ]
+}

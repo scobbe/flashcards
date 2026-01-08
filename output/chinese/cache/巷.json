@@ -1,0 +1,39 @@
+{
+  "simplified": "巷",
+  "traditional": "巷",
+  "pinyin": "xiàng",
+  "english": "alley; lane",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 共(共) (gòng, 'together') + semantic: 己(己) (jǐ, 'oneself') = combining paths for oneself -> alley",
+    "interpretation": "巷(巷) (xiàng, 'alley') uses 共(共) (gòng, 'together') to phonetically suggest a shared space, while 己(己) (jǐ, 'oneself') implies a path for personal passage. The character embodies the concept of a personal path running through communal areas, hence an alley.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "oneself"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条巷很窄(這條巷很窄)。",
+      "pinyin": "Zhè tiáo xiàng hěn zhǎi.",
+      "english": "This alley is very narrow."
+    },
+    {
+      "chinese": "夜色降临时(夜色降臨時)，巷子里传来了笑声(巷子裡傳來了笑聲)。",
+      "pinyin": "Yèsè jiànglín shí, xiàngzi lǐ chuán lái le xiàoshēng.",
+      "english": "As night falls, laughter can be heard from the alley."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "音",
+  "traditional": "音",
+  "pinyin": "yīn",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "言(言) (yán, \"word\") + something in 口(口) (kǒu, \"mouth\") written like 甘(甘) = sound coming from the mouth -> vertical trait representing tongue disappeared -> 甘 stylized as 曰 -> final form",
+    "interpretation": "Originally depicting words or sounds coming from the mouth with an implied symbolic depiction of the tongue, the character evolved by stylizing the components. The progression from 甘(甘) to 曰 indicates a refinement in the depiction of sound production over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在合成汉字中(在合成漢字中)，音决定读音(音決定讀音)。",
+      "pinyin": "Zài héchéng hànzì zhōng, yīn juédìng dúyīn.",
+      "english": "In compound characters, the phonetic component determines the pronunciation."
+    },
+    {
+      "chinese": "这个字的音使我们联想到原始发音(這個字的音使我們聯想到原始發音)。",
+      "pinyin": "Zhège zì de yīn shǐ wǒmen liánxiǎng dào yuánshǐ fàyīn.",
+      "english": "The phonetic component of this character reminds us of its original pronunciation."
+    }
+  ]
+}

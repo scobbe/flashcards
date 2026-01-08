@@ -1,0 +1,44 @@
+{
+  "simplified": "帝",
+  "traditional": "帝",
+  "pinyin": "dì",
+  "english": "emperor; sovereign; god",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(人) (rén, \"person\") + 巾(巾) (jīn, \"cloth\") as phonetic = person with cloth or headdress -> sovereign or emperor",
+    "interpretation": "The character 帝(帝) (dì, \"emperor\") combines 人(人) (rén, \"person\"), indicating a person, with 巾(巾) (jīn, \"cloth\"), representing the garments of high status. This suggests a person adorned, symbolizing sovereignty or divine status.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天帝庇佑万物(天帝庇佑萬物)。",
+      "pinyin": "Tiāndì bìyòu wànwù.",
+      "english": "The Heavenly Emperor protects all beings."
+    },
+    {
+      "chinese": "他被世人尊为帝(他被世人尊為帝)，享有无上荣耀(享有無上榮耀)。",
+      "pinyin": "Tā bèi shìrén zūn wéi dì, xiǎng yǒu wú shàng róngyào.",
+      "english": "He is revered as an emperor by the people, enjoying supreme glory."
+    },
+    {
+      "chinese": "秦始皇帝统一六国(秦始皇帝統一六國)。",
+      "pinyin": "Qín shǐhuángdì tǒngyī liù guó.",
+      "english": "The First Emperor of Qin unified the Six States."
+    }
+  ]
+}

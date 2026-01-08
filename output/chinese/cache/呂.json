@@ -2,25 +2,38 @@
   "simplified": "呂",
   "traditional": "呂",
   "pinyin": "lǚ",
-  "english": "blocks of metal",
+  "english": "two blocks of metal",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two blocks of metal -> later connected as two vertebrae -> borrowed to represent 'spine' and music notes",
-    "interpretation": "Initially depicting two separate metal blocks, 呂(呂) (lǚ, \"blocks of metal\") evolved to represent anatomy and music notes due to phonetic borrowing, showcasing its flexibility in borrowing meanings.",
-    "simplification": ""
+    "description": "Depicts two blocks of metal -> original form of 鋁(鋁) (lǚ, 'ingot') -> borrowed phonetically for 膂(膂) (lǚ, 'spine') and 呂(呂) (lǚ, 'music notes')",
+    "interpretation": "Initially a pictogram illustrating two disconnected metal blocks, the character 呂(呂) (lǚ, 'two blocks of metal') was later adapted by connecting the blocks, becoming stylized as it was repurposed for various meanings including 'spine' and 'music notes'.",
+    "simplification": "呂(呂) was adapted into 呂(吕) as a simplified form without altering the meaning, simplifying the lines to produce a more cursive appearance."
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "考古学家在遗址中发现呂(考古學家在遺址中發現呂)，验证了古代铸造方法(驗證了古代鑄造方法)。",
-      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiàn lǚ, yànzhèngle gǔdài zhùzào fāngfǎ.",
-      "english": "Archaeologists discovered blocks of metal at the ruins, confirming ancient casting methods."
+      "char": "鋁",
+      "trad": "鋁",
+      "pinyin": "lǚ",
+      "english": "ingot"
     },
     {
-      "chinese": "呂(呂)体现了古代金属工艺(體現了古代金屬工藝)。",
-      "pinyin": "Lǚ tǐxiànle gǔdài jīnshǔ gōngyì.",
-      "english": "Blocks of metal embody the ancient metalworking craft."
+      "char": "膂",
+      "trad": "膂",
+      "pinyin": "lǚ",
+      "english": "spine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工匠将呂打造成精美的装饰品(工匠將呂打造成精美的裝飾品)。",
+      "pinyin": "Gōngjiàng jiāng Lǚ dǎzào chéng jīngměi de zhuāngshìpǐn.",
+      "english": "The artisan forged the two blocks of metal into an exquisite ornament."
+    },
+    {
+      "chinese": "考古学家在古墓中发现了呂(考古學家在古墓中發現了呂)。",
+      "pinyin": "Kǎogǔ xuéjiā zài gǔmù zhōng fāxiànle Lǚ.",
+      "english": "The archaeologist discovered the two blocks of metal in the ancient tomb."
     }
   ]
 }

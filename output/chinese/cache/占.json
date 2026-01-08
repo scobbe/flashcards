@@ -1,0 +1,44 @@
+{
+  "simplified": "占",
+  "traditional": "占",
+  "pinyin": "zhān",
+  "english": "divination",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "卜(卜) (bǔ, \"divination\") + 口(口) (kǒu, \"mouth\") = speaking about divination -> divination",
+    "interpretation": "The character 占(占) (zhān, \"divination\") represents the act of divination, combining the symbol for divination itself with the mouth, which may imply speaking or chanting during the divinatory practice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divination"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古人借占(古人借占)，测定吉凶(測定吉凶)。",
+      "pinyin": "Gǔ rén jiè zhān, cè dìng jí xiōng.",
+      "english": "Ancient people used divination to determine auspiciousness and inauspiciousness."
+    },
+    {
+      "chinese": "他占了一卦(他占了一卦)。",
+      "pinyin": "Tā zhānle yī guà.",
+      "english": "He performed a divination."
+    },
+    {
+      "chinese": "他运用占(他運用占)，预测未来(預測未來)。",
+      "pinyin": "Tā yùnyòng zhān, yùcè wèilái.",
+      "english": "He relied on divination to predict the future."
+    }
+  ]
+}

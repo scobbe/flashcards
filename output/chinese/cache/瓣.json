@@ -1,0 +1,39 @@
+{
+  "simplified": "瓣",
+  "traditional": "瓣",
+  "pinyin": "bàn",
+  "english": "petal; segment",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 瓦(瓦) (wǎ, \"tile\") + phonetic: 辦(辦) (bàn, \"handle\") = segment of tile -> petal",
+    "interpretation": "The character uses 瓦(瓦) (wǎ, \"tile\") to suggest a physical object with segments, such as tiles or petals, while 辦(辦) (bàn) provides the phonetic element. It elegantly captures the concept of a 'petal' as a segment of a whole.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "瓦",
+      "trad": "瓦",
+      "pinyin": "wǎ",
+      "english": "tile"
+    },
+    {
+      "char": "辦",
+      "trad": "辦",
+      "pinyin": "bàn",
+      "english": "handle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "玫瑰花的花瓣娇嫩芬芳(玫瑰花的花瓣嬌嫩芬芳)。",
+      "pinyin": "méiguī huā de huābàn jiāonèn fēnfāng.",
+      "english": "The rose's petals are delicate and fragrant."
+    },
+    {
+      "chinese": "橙子的瓣剥开后呈现鲜黄(橙子的瓣剝開後呈現鮮黃)，味道甜美(味道甜美)。",
+      "pinyin": "chéngzi de bàn bōkāi hòu chéngxiàn xiānhuáng, wèidào tiánměi.",
+      "english": "After the orange's segments peel open, they reveal a bright yellow color, and the taste is sweet."
+    }
+  ]
+}

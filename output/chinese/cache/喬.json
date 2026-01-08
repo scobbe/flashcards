@@ -1,0 +1,39 @@
+{
+  "simplified": "喬",
+  "traditional": "喬",
+  "pinyin": "qiáo",
+  "english": "tall, high",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "Originally 高(高) (gāo, \"high\") → Differentiated with various components like 屮(屮), 止(止), 力(力), 九(九), or 夭(夭) → Finalized with 夭(夭) for the form of 喬(喬)",
+    "interpretation": "The character 喬(喬) (qiáo, \"tall, high\") differentiates from 高(高) (gāo, \"high\") by using additional components like 夭(夭) to indicate a similar meaning. Despite variant interpretations, the use of 夭(夭) stabilizes the character's form, primarily reflecting the idea of height or elevation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高",
+      "trad": "高",
+      "pinyin": "gāo",
+      "english": "high"
+    },
+    {
+      "char": "夭",
+      "trad": "夭",
+      "pinyin": "yāo",
+      "english": "to bend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座大楼很喬(这座大楼很乔)。",
+      "pinyin": "Zhè zuò dàlóu hěn qiáo.",
+      "english": "This building is tall."
+    },
+    {
+      "chinese": "那棵树看起来特别喬(那棵樹看起來特別乔)，映衬着蓝天(映襯著藍天)。",
+      "pinyin": "Nà kē shù kàn qǐlái tèbié qiáo, yìngchèn zhe lántiān.",
+      "english": "That tree looks especially tall, complementing the blue sky."
+    }
+  ]
+}

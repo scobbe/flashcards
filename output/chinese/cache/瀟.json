@@ -1,0 +1,39 @@
+{
+  "simplified": "瀟",
+  "traditional": "瀟",
+  "pinyin": "xiāo",
+  "english": "clear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 水(水) (shuǐ, \"water\") + Phonetic: 蕭(蕭) (xiāo, \"desolate\") = clear water -> clear",
+    "interpretation": "The character 瀟(xiāo, \"clear\") combines the water radical 水(水) (shuǐ, \"water\") indicating relation to fluidity or clarity, with the phonetic component 蕭(蕭) (xiāo, \"desolate\") for its sound. It suggests the idea of water, specifically highlighting its clarity or purity.",
+    "simplification": "潇(瀟): Simplified by modifying the component structure for ease of writing while retaining the phonetic element."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "蕭",
+      "trad": "蕭",
+      "pinyin": "xiāo",
+      "english": "desolate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "溪水在阳光下显得格外瀟(溪水在陽光下顯得格外瀟)。",
+      "pinyin": "Xīshuǐ zài yángguāng xià xiǎnde géwài xiāo.",
+      "english": "The creek appears especially clear in the sunlight."
+    },
+    {
+      "chinese": "晨风轻拂(晨風輕拂)，湖面显得瀟(湖面顯得瀟)。",
+      "pinyin": "Chénfēng qīngfú, húmiàn xiǎnde xiāo.",
+      "english": "The morning breeze gently brushes, and the lake appears clear."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "始",
+  "traditional": "始",
+  "pinyin": "shǐ",
+  "english": "beginning; first",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "女(女) (nǚ, 'woman') + 台(台) (tái, phonetic) = woman giving orders while sitting -> beginning",
+    "interpretation": "The character 始(shǐ, 'beginning') combines 女(女) (nǚ, 'woman'), representing the female as a nurturing and initiating figure, with 台(台) (tái), which provides the phonetic element. This combination intuitively conveys the idea of starting or beginning, often associated with the cultural role of women in ancient society to initiate processes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "台",
+      "trad": "台",
+      "pinyin": "tái",
+      "english": "platform"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天的始(春天的始)，万物复苏(萬物復甦)。",
+      "pinyin": "Chūntiān de shǐ, wànwù fùsū.",
+      "english": "The beginning of spring, and all living things revive."
+    },
+    {
+      "chinese": "学业的始(學業的始)，奠定未来(奠定未來)。",
+      "pinyin": "Xuéyè de shǐ, diàndìng wèilái.",
+      "english": "The beginning of education lays the foundation for the future."
+    },
+    {
+      "chinese": "每一个努力都是成功的始(每一個努力都是成功的始)。",
+      "pinyin": "Měi yī gè nǔlì dōu shì chénggōng de shǐ.",
+      "english": "Every effort is the beginning of success."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "脚",
+  "traditional": "腳",
+  "pinyin": "jiǎo",
+  "english": "foot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "月(肉) (ròu, \"meat\") + 却(卻) (què, phonetic) = bodily part + phonetic indication -> foot",
+    "interpretation": "The character 脚(腳) (jiǎo, \"foot\") combines 月(肉) (ròu, \"meat\") as a semantic component to indicate it is a part of the body, with 却(卻) (què) as a phonetic component to suggest pronunciation.",
+    "simplification": "脚(腳) was derived by reducing the complexity of 卻 in traditional form to 却 in simplified form, retaining phonetic elements while easing writing."
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "却",
+      "trad": "卻",
+      "pinyin": "què",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我散步时(我散步時)，脚感觉很舒服(腳感覺很舒服)。",
+      "pinyin": "Wǒ sànbù shí, jiǎo gǎnjué hěn shūfú.",
+      "english": "When I take a walk, my foot feels very comfortable."
+    },
+    {
+      "chinese": "他不小心踢到了桌子(他不小心踢到了桌子)，脚受了伤(腳受了傷)。",
+      "pinyin": "Tā bù xiǎoxīn tī dào le zhuōzi, jiǎo shòu le shāng.",
+      "english": "He accidentally kicked the table and injured his foot."
+    },
+    {
+      "chinese": "运动时(運動時)，脚会流汗(腳會流汗)。",
+      "pinyin": "Yùndòng shí, jiǎo huì liú hàn.",
+      "english": "During exercise, the foot starts to sweat."
+    }
+  ]
+}

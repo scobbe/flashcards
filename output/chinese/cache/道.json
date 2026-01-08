@@ -1,0 +1,50 @@
+{
+  "simplified": "道",
+  "traditional": "道",
+  "pinyin": "dào",
+  "english": "path; way; method; teaching",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 行(行) (háng, \"street\") + phonetic 𩠐 + semantic 止(止) (zhǐ, \"foot\") -> 亍 disappears, components combine into 辵 -> final form 道",
+    "interpretation": "The character 道(dào) combines elements associated with a street and foot to convey the meaning of a path or way. The evolution and merging of components reflect the concept of movement along a path, ultimately forming the character we recognize today.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "行",
+      "trad": "行",
+      "pinyin": "háng",
+      "english": "street"
+    },
+    {
+      "char": "𩠐",
+      "trad": "𩠐",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们走上正道(我們走上正道)。",
+      "pinyin": "Wǒmen zǒu shàng zhèng dào.",
+      "english": "We follow the right way."
+    },
+    {
+      "chinese": "古人通过修身达道(古人通過修身達道)，探求自然的法则(探求自然的法則)。",
+      "pinyin": "Gǔrén tōngguò xiūshēn dá dào, tànqiú zìrán de fǎzé.",
+      "english": "Ancient people attained the Tao through self-cultivation and sought the laws of nature."
+    },
+    {
+      "chinese": "武术不仅是一种技艺(武術不僅是一種技藝)，更是一种修道之路(更是一種修道之路)。",
+      "pinyin": "Wǔshù bùjǐn shì yī zhǒng jìyì, gèng shì yī zhǒng xiūdào zhī lù.",
+      "english": "Martial arts is not only a skill, but also a path of self-cultivation."
+    }
+  ]
+}

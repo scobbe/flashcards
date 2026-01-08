@@ -1,0 +1,39 @@
+{
+  "simplified": "萝",
+  "traditional": "蘿",
+  "pinyin": "luó",
+  "english": "vines; fraxinus; radish",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 罗(羅) (luó) = type of plant -> vines; radish",
+    "interpretation": "The character 萝(蘿) (luó, \"vines; radish\") integrates the 艹(艹) (cǎo, \"grass\") radical to signify its relation to plants, while 罗(羅) (luó, \"net\") provides the phonetic component. Together, they convey the meaning of plant-related entities such as vines or radish.",
+    "simplification": "Simplified by replacing the traditional component 羅(羅) (luó, \"net\") with 罗(羅), maintaining its pronunciation while reducing the complexity of writing."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "罗",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "net"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天来临时(春天來臨時)，菜园里的萝开始发芽(菜園裏的蘿開始發芽)。",
+      "pinyin": "Chūntiān láilín shí, càiyuán lǐ de luó kāishǐ fāyá.",
+      "english": "When spring arrives, the radish in the garden begins to sprout."
+    },
+    {
+      "chinese": "月光下的萝(蘿)，闪着微光(閃著微光)。",
+      "pinyin": "Yuèguāng xià de luó, shǎn zhe wēiguāng.",
+      "english": "Under the moonlight, the vine glimmers with a faint light."
+    }
+  ]
+}

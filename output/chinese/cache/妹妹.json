@@ -1,0 +1,38 @@
+{
+  "simplified": "妹妹",
+  "traditional": "妹妹",
+  "pinyin": "mèimei",
+  "english": "younger sister; young girl",
+  "etymology": {
+    "type": "compound word",
+    "description": "妹(妹) (mèi, \"younger sister\") + 妹(妹) (mèi, \"younger sister\") = repetition for emphasis or endearment, referring collectively to younger sisters or a young girl",
+    "interpretation": "妹妹 (mèimei) combines 妹(妹) (mèi, \"younger sister\") twice to emphasize the idea of a younger female sibling, often used affectionately. The repetition not only reinforces the familial relationship but can also imply endearment or a familial role, similar to saying 'little sister' or affectionately addressing a young girl.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "妹",
+      "trad": "妹",
+      "pinyin": "mèi",
+      "english": "younger sister; sister"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的妹妹很可爱(我的妹妹很可愛)。",
+      "pinyin": "Wǒ de mèimei hěn kě'ài.",
+      "english": "My younger sister is very cute."
+    },
+    {
+      "chinese": "我陪妹妹玩耍(我陪妹妹玩耍)，她笑得很开心(她笑得很開心)。",
+      "pinyin": "Wǒ péi mèimei wánshuǎ, tā xiào de hěn kāixīn.",
+      "english": "I play with my younger sister, and she laughs happily."
+    },
+    {
+      "chinese": "妹妹在花园里采花(妹妹在花園裡採花)。",
+      "pinyin": "Mèimei zài huāyuán lǐ cǎihuā.",
+      "english": "My younger sister picks flowers in the garden."
+    }
+  ]
+}

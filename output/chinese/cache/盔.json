@@ -1,0 +1,44 @@
+{
+  "simplified": "盔",
+  "traditional": "盔",
+  "pinyin": "kuī",
+  "english": "helmet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "皿(皿) (mǐn, \"container\") + 𠂤(果) (guǒ, phonetic component) = container-like object + phonetic element -> helmet",
+    "interpretation": "This character combines the idea of a container and a phonetic element that suggests sound. Helmets resemble containers that fit over the head, and the phonetic component 𠂤(果) (guǒ) provides the pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "container"
+    },
+    {
+      "char": "果",
+      "trad": "果",
+      "pinyin": "guǒ",
+      "english": "n/a"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "士兵戴着坚固的盔(士兵戴著堅固的盔)。",
+      "pinyin": "Shìbīng dài zhe jiāngù de kuī.",
+      "english": "The soldier wears a sturdy helmet."
+    },
+    {
+      "chinese": "骑士举起闪亮的盔(騎士舉起閃亮的盔)，走向战场(走向戰場)。",
+      "pinyin": "Qíshì jǔ qǐ shǎnliàng de kuī, zǒuxiàng zhànchǎng.",
+      "english": "The knight raised his shiny helmet and headed to the battlefield."
+    },
+    {
+      "chinese": "古代将领佩戴华丽的盔(古代將領佩戴華麗的盔)。",
+      "pinyin": "Gǔdài jiānglǐng pèidài huálì de kuī.",
+      "english": "Ancient generals wore ornate helmets."
+    }
+  ]
+}

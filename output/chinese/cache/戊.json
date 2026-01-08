@@ -1,0 +1,31 @@
+{
+  "simplified": "戊",
+  "traditional": "戊",
+  "pinyin": "wù",
+  "english": "weapon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a weapon or lance with a broad blade",
+    "interpretation": "The character 戊(wù, 'weapon') visually represents a kind of weapon, emphasizing its sharp, pointed nature typical of ancient tools used for combat.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古时候的勇士用戊(古時候的勇士用戊)，保卫家园(保衛家園)。",
+      "pinyin": "Gǔ shíhòu de yǒngshì yòng wù，bǎowèi jiāyuán。",
+      "english": "An ancient warrior used the weapon to defend his homeland."
+    },
+    {
+      "chinese": "战士紧握戊(戰士緊握戊)，冲锋陷阵(衝鋒陷陣)。",
+      "pinyin": "Zhànshì jǐn wò wù，chōngfēng xiànzhèn。",
+      "english": "The soldier gripped the weapon tightly and charged into battle."
+    },
+    {
+      "chinese": "戊是一种强大的武器(戊是一種強大的武器)。",
+      "pinyin": "Wù shì yī zhǒng qiángdà de wǔqì。",
+      "english": "Wù is a powerful weapon."
+    }
+  ]
+}

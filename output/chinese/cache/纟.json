@@ -1,0 +1,38 @@
+{
+  "simplified": "纟",
+  "traditional": "絲",
+  "pinyin": "sī",
+  "english": "silk",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "糸(糸) (mì, \"silk thread\") + 糸(糸) (mì, \"silk thread\") = intertwining threads -> silk",
+    "interpretation": "The character 丝(絲) represents the intertwining of silk threads, effectively symbolizing the core concept of silk through repetition of the 糸(糸) component, which originally depicts silk.",
+    "simplification": "丝(絲) simplifies the repeated 糸(糸) into a single 纟(纟) stroke for efficiency while maintaining the association with silk."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk thread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她穿着用纟制成的衣服(她穿著用絲製成的衣服)。",
+      "pinyin": "Tā chuānzhuó yòng sī zhìchéng de yīfú.",
+      "english": "She is wearing clothes made of silk."
+    },
+    {
+      "chinese": "这块纟图案的披肩(這塊絲圖案的披肩)，让人联想到古代的华服(讓人聯想到古代的華服)。",
+      "pinyin": "Zhè kuài sī tú'àn de pījiān, ràng rén liánxiǎng dào gǔdài de huáfú.",
+      "english": "This shawl with a silk pattern reminds people of the elegant attire of ancient times."
+    },
+    {
+      "chinese": "博物馆里展出了唐朝时用纟织造的绸缎(博物館裡展出了唐朝時用絲織造的綢緞)。",
+      "pinyin": "Bówùguǎn lǐ zhǎnchūle Tángcháo shí yòng sī zhīzào de chóuduàn.",
+      "english": "The museum displayed silk brocade that was woven during the Tang Dynasty."
+    }
+  ]
+}

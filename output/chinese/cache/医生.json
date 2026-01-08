@@ -1,0 +1,44 @@
+{
+  "simplified": "医生",
+  "traditional": "醫生",
+  "pinyin": "yīshēng",
+  "english": "doctor",
+  "etymology": {
+    "type": "compound word",
+    "description": "医(醫) (yī, \"medical\") refers to healing or medicine, while 生(生) (shēng, \"person\") typically denotes a person or someone who is involved in a particular activity.",
+    "interpretation": "An 医生(醫生) (yīshēng, \"doctor\") is a person involved in the practice of medicine and healing.",
+    "simplification": "医 is simplified from 醫."
+  },
+  "parts": [
+    {
+      "char": "医",
+      "trad": "醫",
+      "pinyin": "yī",
+      "english": "medical; heal; doctor"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "life; living; person; student"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位医生(他是一位醫生)。",
+      "pinyin": "Tā shì yī wèi yīshēng.",
+      "english": "He is a doctor."
+    },
+    {
+      "chinese": "病人来到医院(病人來到醫院)，医生耐心问诊(醫生耐心問診)。",
+      "pinyin": "Bìngrén lái dào yīyuàn, yīshēng nàixīn wènzhěn.",
+      "english": "The patient came to the hospital, and the doctor patiently examined him."
+    },
+    {
+      "chinese": "遇到紧急情况时(遇到緊急情況時)，医生总是第一时间出现(醫生總是第一時間出現)。",
+      "pinyin": "Yù dào jǐnjí qíngkuàng shí, yīshēng zǒng shì dì yī shíjiān chūxiàn.",
+      "english": "In emergencies, the doctor always shows up first."
+    }
+  ]
+}

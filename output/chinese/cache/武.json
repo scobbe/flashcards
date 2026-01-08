@@ -1,0 +1,44 @@
+{
+  "simplified": "武",
+  "traditional": "武",
+  "pinyin": "wǔ",
+  "english": "displays strength as an enclosure",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "戈(戈) (gē, \"blade\") + 止(止) (zhǐ, \"foot; to walk\") = army going on an expedition -> displays strength",
+    "interpretation": "The character 武(wǔ) combines 戈(戈) (gē, \"blade\") representing weaponry and 止(止) (zhǐ, \"foot; to walk\") indicating movement or marching, to symbolize the movement of an armed force or military expedition, hence conveying the notion of martial strength.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "blade"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot; to walk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "战士依靠武(𠬜)，筑起长城防线(築起長城防線)。",
+      "pinyin": "Zhànshì yīkào wǔ(𠬜), zhùqǐ chángchéng fángxiàn.",
+      "english": "The soldier relies on martial strength to build a protective wall."
+    },
+    {
+      "chinese": "古时将领以武(𠬜)守国(古時將領以武(𠬜)守國)，将敌人拒于门外(將敵人拒於門外)。",
+      "pinyin": "Gǔshí jiānglǐng yǐ wǔ(𠬜) shǒuguó, jiāng dírén jù yú ménwài.",
+      "english": "In ancient times, generals defended the country with martial might, keeping enemies at bay."
+    },
+    {
+      "chinese": "边塞隐约传来武(𠬜)之气势(邊塞隱約傳來武(𠬜)之氣勢)。",
+      "pinyin": "Biānsài yǐnyuē chuán lái wǔ(𠬜) zhī qìshì.",
+      "english": "At the frontier, the aura of martial strength can be faintly felt."
+    }
+  ]
+}

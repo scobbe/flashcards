@@ -1,0 +1,39 @@
+{
+  "simplified": "根",
+  "traditional": "根",
+  "pinyin": "gēn",
+  "english": "root; base; origin",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木(木) (mù, 'wood') + phonetic: 艮(艮) (gēn, 'obstinate') = root of a tree or plant -> 'root; base; origin'",
+    "interpretation": "The 木(木) (mù, 'wood') component indicates the connection to trees or plants, while the 艮(艮) (gēn, 'obstinate') provides the sound element and suggests a firm and stable foundation, similar to how roots anchor a plant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gēn",
+      "english": "obstinate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每棵树都有根(每棵樹都有根)。",
+      "pinyin": "Měi kē shù dōu yǒu gēn.",
+      "english": "Every tree has roots."
+    },
+    {
+      "chinese": "历史是文化的根(歷史是文化的根)，传统给予我们智慧(傳統給予我們智慧)。",
+      "pinyin": "Lìshǐ shì wénhuà de gēn, chuántǒng jǐyǔ wǒmen zhìhuì.",
+      "english": "History is the root of culture, and tradition gives us wisdom."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "呷哺呷哺",
+  "traditional": "呷哺呷哺",
+  "pinyin": "xiā bǔ xiā bǔ",
+  "english": "Xiabu Xiabu hot pot chain",
+  "etymology": {
+    "type": "compound word",
+    "description": "呷(呷) (xiā, \"sip\") 哺(哺) (bǔ, \"nourish\") 呷(呷) (xiā, \"sip\") 哺(哺) (bǔ, \"nourish\")",
+    "interpretation": "The repetition of 呷(呷) (xiā, \"sip\") and 哺(哺) (bǔ, \"nourish\") suggests the act of savoring and being nourished by food, which perfectly encapsulates the dining experience at this hot pot chain. It reflects the social and communal aspect of sharing a meal in Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "呷哺",
+      "trad": "呷哺",
+      "pinyin": "xiā bǔ",
+      "english": "sip; nourish"
+    },
+    {
+      "char": "呷哺",
+      "trad": "呷哺",
+      "pinyin": "xiā bǔ",
+      "english": "sip; nourish"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "呷哺呷哺是一个非常受欢迎的连锁火锅店(呷哺呷哺是一個非常受歡迎的連鎖火鍋店)。",
+      "pinyin": "xiā bǔ xiā bǔ shì yīgè fēicháng shòu huānyíng de liánsuǒ huǒguō diàn.",
+      "english": "Xiabu Xiabu is a very popular hot pot chain."
+    },
+    {
+      "chinese": "我和朋友喜欢去呷哺呷哺(我和朋友喜歡去呷哺呷哺)，尝试各种新口味(嘗試各種新口味)。",
+      "pinyin": "wǒ hé péngyǒu xǐhuān qù xiā bǔ xiā bǔ, chángshì gè zhǒng xīn kǒuwèi.",
+      "english": "My friends and I like to go to Xiabu Xiabu to try various new flavors."
+    },
+    {
+      "chinese": "每次去呷哺呷哺(每次去呷哺呷哺)，都能品尝到独特的火锅风味(都能品嚐到獨特的火鍋風味)。",
+      "pinyin": "měi cì qù xiā bǔ xiā bǔ, dōu néng pǐncháng dào dútè de huǒguō fēngwèi.",
+      "english": "Every time I go to Xiabu Xiabu, I can taste a unique hot pot flavor."
+    }
+  ]
+}

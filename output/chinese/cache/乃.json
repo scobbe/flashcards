@@ -1,0 +1,26 @@
+{
+  "simplified": "乃",
+  "traditional": "乃",
+  "pinyin": "nǎi",
+  "english": "so",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a simplified hand holding a thread",
+    "interpretation": "乃(乃) (nǎi, 'so') originally depicted a hand holding an object, symbolizing a connection or linkage, which lends itself to meanings related to causation and result, like 'so' or 'then.'",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他受尽磨难(他受盡磨難)，乃成大器(乃成大器)。",
+      "pinyin": "Tā shòu jìn mó nàn, nǎi chéng dà qì.",
+      "english": "He endured many hardships, so he became great."
+    },
+    {
+      "chinese": "山明水秀(山明水秀)，乃令人心旷神怡(乃令人心曠神怡)。",
+      "pinyin": "Shān míng shuǐ xiù, nǎi lìng rén xīn kuàng shén yí.",
+      "english": "The scenery is picturesque, so it refreshes one's mind."
+    }
+  ]
+}

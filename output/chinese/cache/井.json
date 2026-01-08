@@ -1,0 +1,26 @@
+{
+  "simplified": "井",
+  "traditional": "井",
+  "pinyin": "jǐng",
+  "english": "well",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a grid symbolizing a well's structure",
+    "interpretation": "The character 井(井) (jǐng, \"well\") visually represents the framework or grid of wooden or stone beams that would make up the top view of a traditional well, highlighting its function and design.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "村口有一口老井(村口有一口老井)。",
+      "pinyin": "Cūnkǒu yǒuyī kǒu lǎo jǐng.",
+      "english": "There is an old well at the village entrance."
+    },
+    {
+      "chinese": "夏天酷热时(夏天酷熱時)，井水带来阵阵凉意(井水帶來陣陣涼意)。",
+      "pinyin": "Xiàtiān kùrè shí, jǐng shuǐ dàilái zhèn zhèn liángyì.",
+      "english": "In the scorching summer, well water brings a refreshing coolness."
+    }
+  ]
+}

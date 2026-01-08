@@ -4,10 +4,10 @@
   "pinyin": "de/dé/děi",
   "english": "(1) structural particle for verb complements; (2) to get, obtain; (3) must, have to",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "貝(貝) (bèi, \"cowry\") + 又(又) (yòu, \"hand\") -> obtaining valuables -> 彳(彳) (chì, \"step\") added, 又 changed to 寸(寸) (cùn, \"inch\"), 貝 corrupted to 旦(旦) (dàn, \"dawn\") -> final form 得",
-    "interpretation": "The character's evolution reflects the concept of obtaining valuables via picking up cowries, which were historically valuable. The addition of 彳(彳) (chì, \"step\") shows action, reinforcing the meaning of acquisition.",
-    "simplification": "The process of simplification involved changing components to similar-looking elements, such as 寸(寸) (cùn, \"inch\") replacing 又(又) (yòu, \"hand\"), and 目(目) (mù, \"eye\") before becoming the simpler 旦(旦) (dàn, \"dawn\")."
+    "type": "Ideogrammic compound",
+    "description": "貝(貝) (bèi, 'cowry') + 又(又) (yòu, 'hand') -> obtaining valuables -> 彳(彳) (chì, 'step') sometimes added -> 又(又) changes to 寸(寸) (cùn, 'inch') in Qin script -> 貝(貝) corrupts to resemble 見(見) (jiàn, 'see') in Shuowen (likely error) -> 貝(貝) simplified to resemble 旦(旦) (dàn, 'dawn') in clerical script -> final form得",
+    "interpretation": "The character 得 depicts obtaining something valuable, starting with the ancient form showing a hand picking up a cowry. Over time, modifications and errors in historical scripts evolved the character into its current form.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -35,6 +35,12 @@
       "english": "inch"
     },
     {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    },
+    {
       "char": "旦",
       "trad": "旦",
       "pinyin": "dàn",
@@ -44,19 +50,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他跑得很快(他跑得很快)。",
-      "pinyin": "Tā pǎo dé hěn kuài.",
-      "english": "He runs very fast."
+      "chinese": "他跑得快(他跑得快)。",
+      "pinyin": "Tā pǎo de kuài.",
+      "english": "He runs fast."
     },
     {
-      "chinese": "他得了一本好书(他得了一本好書)。",
-      "pinyin": "Tā dé le yī běn hǎo shū.",
-      "english": "He obtained a good book."
+      "chinese": "我得到了礼物(我得到了禮物)，好开心(好開心)。",
+      "pinyin": "Wǒ dé le yí gè lǐwù, hǎo kāixīn.",
+      "english": "I got a gift and I'm very happy."
     },
     {
-      "chinese": "你得早点起床(你得早點起床)。",
-      "pinyin": "Nǐ děi zǎo diǎn qǐ chuáng.",
-      "english": "You must get up early."
+      "chinese": "我得早点出门(我得早點出門)，去赶火车(去趕火車)。",
+      "pinyin": "Wǒ děi zǎodiǎn chūmén, qù gǎn huǒchē.",
+      "english": "I must leave early to catch the train."
     }
   ]
 }

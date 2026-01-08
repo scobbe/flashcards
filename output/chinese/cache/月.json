@@ -1,0 +1,26 @@
+{
+  "simplified": "月",
+  "traditional": "月",
+  "pinyin": "yuè",
+  "english": "moon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a crescent moon",
+    "interpretation": "The character 月(yuè, \"moon\") is a pictographic representation of a crescent moon, straightforwardly capturing the curved shape often associated with the moon's appearance. Though interchangeable with 夕 (xī, \"evening\") in the past, it distinctly represents the moon in this usage.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜空挂着明月(夜空掛著明月)。",
+      "pinyin": "Yè kōng guà zhe míng yuè.",
+      "english": "The bright moon hangs in the night sky."
+    },
+    {
+      "chinese": "人们赏月(人們賞月)，寄托相思(寄託相思)。",
+      "pinyin": "Rén men shǎng yuè, jì tuō xiāng sī.",
+      "english": "People enjoy the moon, expressing their longing."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "simplified": "吃饱了饭撑的",
+  "traditional": "吃飽了飯撐的",
+  "pinyin": "chī bǎo le fàn chēng de",
+  "english": "have nothing better to do",
+  "etymology": {
+    "type": "compound word",
+    "description": "吃(吃) (chī, \"eat\"), 饱(飽) (bǎo, \"full\"), 了(了) (le, \"[modal particle indicating completed action]\"), 饭(飯) (fàn, \"meal; rice\"), 撑(撐) (chēng, \"support; prop up\"), 的(的) (de, \"[possessive particle whose function is to express possession, modification, or description]\")",
+    "interpretation": "The phrase 吃饱了饭撑的 (chī bǎo le fàn chēng de) is a colloquial expression implying that someone, having eaten a fulfilling meal, engages in unnecessary or frivolous activities for lack of anything better to do. It humorously suggests that one's over-satisfaction has led them to overextend into doing trivial or senseless things.",
+    "simplification": "The simplified characters are 吃饱了饭撑的."
+  },
+  "parts": [
+    {
+      "char": "吃",
+      "trad": "吃",
+      "pinyin": "chī",
+      "english": "eat"
+    },
+    {
+      "char": "饱",
+      "trad": "飽",
+      "pinyin": "bǎo",
+      "english": "full"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "[modal particle indicating completed action]"
+    },
+    {
+      "char": "饭",
+      "trad": "飯",
+      "pinyin": "fàn",
+      "english": "meal; rice"
+    },
+    {
+      "char": "撑",
+      "trad": "撐",
+      "pinyin": "chēng",
+      "english": "support; prop up"
+    },
+    {
+      "char": "的",
+      "trad": "的",
+      "pinyin": "de",
+      "english": "[possessive particle whose function is to express possession, modification, or description]"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他吃饱了饭撑的(他吃飽了飯撐的)，整天无所事事(整天無所事事)。",
+      "pinyin": "Tā chī bǎo le fàn chēng de, zhěng tiān wú suǒ shì shì.",
+      "english": "He has nothing better to do and spends his day idly."
+    },
+    {
+      "chinese": "朋友嘲笑他吃饱了饭撑的(朋友嘲笑他吃飽了飯撐的)，因为他没什么目标(因為他沒什麼目標)。",
+      "pinyin": "Péngyǒu cháoxiào tā chī bǎo le fàn chēng de, yīnwèi tā méi shénme mùbiāo.",
+      "english": "His friends mock him for having nothing better to do because he lacks ambition."
+    }
+  ]
+}

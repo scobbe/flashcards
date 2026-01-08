@@ -1,0 +1,39 @@
+{
+  "simplified": "树",
+  "traditional": "樹",
+  "pinyin": "shù",
+  "english": "tree",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 木(木) (mù, \"tree\") + phonetic: 尌(尌) (shù) = tree-like object described by 尌 -> tree",
+    "interpretation": "The character 树(樹) (shù, \"tree\") combines 木(木) (mù, \"tree\") for its meaning, and 尌(尌) (shù) provides the pronunciation. Together, these components create a character that is pronounced like 尌(尌) and relates to trees.",
+    "simplification": "树(樹): The simplified form retains 木(木) (\"tree\") while modifying 尌 to simplify strokes."
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "尌",
+      "trad": "尌",
+      "pinyin": "shù",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那棵树非常茂盛(那棵樹非常茂盛)。",
+      "pinyin": "Nà kē shù fēicháng màoshèng.",
+      "english": "That tree is very lush."
+    },
+    {
+      "chinese": "微风拂过树梢(微風拂過樹梢)，阳光洒满枝头(陽光灑滿枝頭)。",
+      "pinyin": "Wēifēng fúguò shùshāo, yángguāng sǎ mǎn zhītóu.",
+      "english": "A gentle breeze brushes the treetops, while sunlight fills the branches."
+    }
+  ]
+}

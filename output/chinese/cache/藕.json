@@ -1,0 +1,39 @@
+{
+  "simplified": "藕",
+  "traditional": "藕",
+  "pinyin": "ǒu",
+  "english": "lotus root",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 耦(耦) (ǒu, \"to pair\") = plant related to lotus -> lotus root",
+    "interpretation": "The character 藕(藕) (ǒu, \"lotus root\") combines the grass/plant radical 艸(艸) (cǎo, \"grass\"), signifying a botanical connection, with the phonetic component 耦(耦) (ǒu, \"to pair\"), representing the sound, illustrating the phonetic and semantic aspect of this character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "耦",
+      "trad": "耦",
+      "pinyin": "ǒu",
+      "english": "to pair"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "藕是一种营养丰富的食材(藕是一種營養豐富的食材)。",
+      "pinyin": "ǒu shì yī zhǒng yíngyǎng fēngfù de shícái.",
+      "english": "Lotus root is a nutritious ingredient."
+    },
+    {
+      "chinese": "我在市场买到了新鲜的藕(我在市場買到了新鮮的藕)，朋友推荐用藕做汤(朋友推薦用藕做湯)。",
+      "pinyin": "wǒ zài shìchǎng mǎidàole xīnxiān de ǒu, péngyǒu tuījiàn yòng ǒu zuò tāng.",
+      "english": "I bought fresh lotus root at the market, and my friend recommended making soup with it."
+    }
+  ]
+}

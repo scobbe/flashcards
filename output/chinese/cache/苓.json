@@ -1,0 +1,26 @@
+{
+  "simplified": "苓",
+  "traditional": "苓",
+  "pinyin": "líng",
+  "english": "medicinal plant; poria",
+  "etymology": {
+    "type": "variant",
+    "description": "苓(苓) (líng, \"medicinal plant\") is a variant form of 蓮(蓮) (lián, \"lotus\") -> stylized form developed from original",
+    "interpretation": "苓(苓) (líng, \"medicinal plant\") retains its association with plants and healing due to its formation as a variant of characters related to plants, such as 蓮(蓮) (lián, \"lotus\"). Although it serves a different function by referring specifically to a medicinal fungus, its roots lie in a shared thematic component of plants and health.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医师用苓煎成汤剂(醫師用苓煎成湯劑)。",
+      "pinyin": "Yīshī yòng líng jiān chéng tāng jì.",
+      "english": "The doctor decocted the poria to make a herbal soup."
+    },
+    {
+      "chinese": "中药中常用苓(苓)，来调理健脾(來調理健脾)。",
+      "pinyin": "Zhōngyào zhōng cháng yòng líng, lái tiáolǐ jiànpí.",
+      "english": "Poria is often used in traditional Chinese medicine to improve spleen function."
+    }
+  ]
+}

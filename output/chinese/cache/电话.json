@@ -1,0 +1,39 @@
+{
+  "simplified": "电话",
+  "traditional": "電話",
+  "pinyin": "diànhuà",
+  "english": "telephone; phone call",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electric\") + 话(話) (huà, \"speech; talk\") = means of electric speech -> telephone",
+    "interpretation": "The combination of 电(電) (diàn, \"electric\") and 话(話) (huà, \"speech; talk\") reflects the concept of using electricity to transmit speech over distances, which is the fundamental principle of a telephone. The term accurately captures the invention's purpose, aligning with technological advancements in communication.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electric"
+    },
+    {
+      "char": "话",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "speech; talk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我正在打电话(我正在打電話)。",
+      "pinyin": "Wǒ zhèngzài dǎ diànhuà.",
+      "english": "I am making a phone call."
+    },
+    {
+      "chinese": "他昨天接到了一个紧急的电话(他昨天接到了一個緊急的電話)，匆忙出门(匆忙出門)。",
+      "pinyin": "Tā zuótiān jiē dào le yīgè jǐnjí de diànhuà, cōngmáng chūmén.",
+      "english": "He received an urgent phone call yesterday and hurried out."
+    }
+  ]
+}

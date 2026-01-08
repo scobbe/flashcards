@@ -1,0 +1,39 @@
+{
+  "simplified": "匹",
+  "traditional": "匹",
+  "pinyin": "pǐ",
+  "english": "equal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 匚(匚) (fāng, 'box') + phonetic: 儿(兒) (ér, 'child') = unit of measure -> equal",
+    "interpretation": "The character combines the semantic component 匚(匚) (fāng, 'box'), suggesting a container or unit, with the phonetic 儿(兒) (ér, 'child'), to convey the idea of items that are measured or considered in equal units.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "匚",
+      "trad": "匚",
+      "pinyin": "fāng",
+      "english": "box"
+    },
+    {
+      "char": "兒",
+      "trad": "儿",
+      "pinyin": "ér",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的能力匹敌(他的能力匹敵)。",
+      "pinyin": "tā de nénglì pǐ dí.",
+      "english": "His ability is equal to that of his rivals."
+    },
+    {
+      "chinese": "他努力奋斗(他努力奮鬥)，与优秀对手匹敌(與優秀對手匹敵)。",
+      "pinyin": "tā nǔlì fèndòu, yǔ yōuxiù duìshǒu pǐ dí.",
+      "english": "He works hard, and his effort makes him equal to his outstanding opponents."
+    }
+  ]
+}

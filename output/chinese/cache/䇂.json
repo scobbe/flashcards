@@ -1,0 +1,38 @@
+{
+  "simplified": "䇂",
+  "traditional": "䇂",
+  "pinyin": "",
+  "english": "sickle-like tool",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Original form of 辛(辛) (xīn, \"bitter\") -> depicts a chisel for marking prisoners -> point became horizontal stroke -> evolved to 辛 for \"bitter\" meaning",
+    "interpretation": "䇂 represents a chisel tool originally tied to marking prisoners and evolved to the character 辛(辛) for \"bitter,\" showing the shift from a literal tool to an abstract concept.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "农民用䇂(農民用䇂)，收割田里的谷物(收割田裡的穀物)。",
+      "pinyin": "Nóngmín yòng huá，shōugē tián lǐ de gǔwù。",
+      "english": "Farmers use the sickle-like tool, harvesting the grains in the fields."
+    },
+    {
+      "chinese": "古人用䇂(古人用䇂)，耕地更为轻便(耕地更為輕便)。",
+      "pinyin": "Gǔrén yòng huá，gēng dì gèng wéi qīngbiàn。",
+      "english": "Ancients used the sickle-like tool, making plowing easier."
+    },
+    {
+      "chinese": "这把䇂很锋利(這把䇂很鋒利)。",
+      "pinyin": "Zhè bǎ huá hěn fēnglì。",
+      "english": "This sickle-like tool is very sharp."
+    }
+  ]
+}

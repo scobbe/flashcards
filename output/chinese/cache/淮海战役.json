@@ -1,0 +1,39 @@
+{
+  "simplified": "淮海战役",
+  "traditional": "淮海戰役",
+  "pinyin": "Huáihǎi zhànyì",
+  "english": "Huaihai Campaign",
+  "etymology": {
+    "type": "compound word",
+    "description": "淮(淮) (huái, \"Huai River\"), 海(海) (hǎi, \"sea\"), 战(戰) (zhàn, \"war; battle\"), 役(役) (yì, \"campaign; battle\")",
+    "interpretation": "The 淮海(淮海) (Huáihǎi, \"Huai and sea\") refers to the geographical area between the Huai River and the sea. 战役(戰役) (zhànyì, \"battle; campaign\") signifies a military campaign. The word 淮海战役(淮海戰役) (Huáihǎi zhànyì) refers specifically to the historical military campaign during the Chinese Civil War, fought in the region around the Huai River.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "淮海",
+      "trad": "淮海",
+      "pinyin": "huáihǎi",
+      "english": "Huai and sea; region between Huai River and the sea"
+    },
+    {
+      "char": "战役",
+      "trad": "戰役",
+      "pinyin": "zhànyì",
+      "english": "battle; campaign"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "淮海战役震撼历史(淮海戰役震撼歷史)。",
+      "pinyin": "Huáihǎi zhànyì zhènhàn lìshǐ.",
+      "english": "The Huaihai Campaign shook history."
+    },
+    {
+      "chinese": "许多人纪念淮海战役(許多人紀念淮海戰役)，铭记那段历史(銘記那段歷史)。",
+      "pinyin": "Xǔduō rén jìniàn Huáihǎi zhànyì, míngjì nà duàn lìshǐ.",
+      "english": "Many people commemorate the Huaihai Campaign, remembering that period of history."
+    }
+  ]
+}

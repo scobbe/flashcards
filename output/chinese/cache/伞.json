@@ -1,0 +1,38 @@
+{
+  "simplified": "伞",
+  "traditional": "傘",
+  "pinyin": "sǎn",
+  "english": "umbrella; parasol; shelter",
+  "etymology": {
+    "type": "simplified from",
+    "description": "𠈌(𠈌) (sǎn, “umbrella”) originally depicted four people under a canopy -> simplified by replacing 𠈌 with 丷(丷, “eight”) -> 伞(伞) (sǎn, “umbrella”)",
+    "interpretation": "The character 伞(伞) (sǎn, “umbrella”) simplifies 傘(傘) by changing the complex canopy depiction to 丷(丷), maintaining the concept of separation under an umbrella.",
+    "simplification": "𠈌(𠈌) was simplified to 丷(丷), removing the detailed depiction of people for a simpler, more abstract representation."
+  },
+  "parts": [
+    {
+      "char": "丷",
+      "trad": "丷",
+      "pinyin": "bā",
+      "english": "eight"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢用伞在雨中漫步(我喜歡用傘在雨中漫步)。",
+      "pinyin": "Wǒ xǐhuān yòng sǎn zài yǔzhōng mànbù.",
+      "english": "I like to stroll in the rain with an umbrella."
+    },
+    {
+      "chinese": "暴风雨来临时(暴風雨來臨時)，伞可以保护我们(傘可以保護我們)。",
+      "pinyin": "Bàofēngyǔ láilín shí, sǎn kěyǐ bǎohù wǒmen.",
+      "english": "When a storm comes, an umbrella can protect us."
+    },
+    {
+      "chinese": "夏日阳光下(夏日陽光下)，一把伞带来清凉(一把傘帶來清涼)。",
+      "pinyin": "Xiàrì yángguāng xià, yī bǎ sǎn dàilái qīngliáng.",
+      "english": "Under the summer sunshine, an umbrella brings coolness."
+    }
+  ]
+}

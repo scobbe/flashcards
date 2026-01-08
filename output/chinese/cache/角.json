@@ -1,0 +1,31 @@
+{
+  "simplified": "角",
+  "traditional": "角",
+  "pinyin": "jiǎo",
+  "english": "horn",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an animal horn",
+    "interpretation": "The character 角(角) (jiǎo, \"horn\") visually represents the distinctive shape of an animal's horn.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "牛角是一种坚固的天然武器(牛角是一種堅固的天然武器)。",
+      "pinyin": "niú jiǎo shì yī zhǒng jiān gù de tiān rán wǔ qì。",
+      "english": "Cow horns are sturdy natural weapons."
+    },
+    {
+      "chinese": "鹿角丰富了森林的传说(鹿角豐富了森林的傳說)，象征着自由与力量(象徵著自由與力量)。",
+      "pinyin": "lù jiǎo fēng fù le sēn lín de chuán shuō, xiàng zhēng zhe zì yóu yǔ lì liàng。",
+      "english": "Deer antlers enrich the legends of the forest and symbolize freedom and strength."
+    },
+    {
+      "chinese": "犀牛角在古代被视作珍贵药材(犀牛角在古代被視作珍貴藥材)。",
+      "pinyin": "xī niú jiǎo zài gǔ dài bèi shì zuò zhēn guì yào cái。",
+      "english": "Rhinoceros horns were regarded as precious medicinal materials in ancient times."
+    }
+  ]
+}

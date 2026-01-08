@@ -1,0 +1,33 @@
+{
+  "simplified": "夫",
+  "traditional": "夫",
+  "pinyin": "fū",
+  "english": "man; master",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a variant form of 大(大) (dà, \"big\") representing an adult man with a hairpin -> became associated with 夫(夫) (fū, \"man\").",
+    "interpretation": "夫(夫) (fū, \"man\") was visually similar to 大(大) (dà, \"big\") and was originally interchangeable. The addition of the horizontal stroke was interpreted as a hairpin, symbolizing adulthood for men.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "此夫心怀大志(此夫心懷大志)。",
+      "pinyin": "Cǐ fū xīn huái dà zhì.",
+      "english": "This man has lofty aspirations."
+    },
+    {
+      "chinese": "他勤劳努力(他勤勞努力)，堪称良夫(堪稱良夫)。",
+      "pinyin": "Tā qín láo nǔ lì, kān chēng liáng fū.",
+      "english": "He works diligently and is regarded as an exemplary man."
+    }
+  ]
+}

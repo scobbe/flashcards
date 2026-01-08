@@ -1,0 +1,44 @@
+{
+  "simplified": "陈毅",
+  "traditional": "陳毅",
+  "pinyin": "Chén Yì",
+  "english": "Chen Yi",
+  "etymology": {
+    "type": "compound word",
+    "description": "陳(陳) (chén, \"to arrange; to explain; surname\") is a common Chinese surname, and 毅(毅) (yì, \"firm; resolute; courageous\") represents qualities such as determination and bravery. The name 陈毅(陳毅) (Chén Yì) is a personal name.",
+    "interpretation": "陈毅(陳毅) (Chén Yì) was a prominent Chinese figure known for his leadership during the Chinese Civil War and his role as a marshal in the People's Liberation Army. The name reflects both his family lineage and the personal qualities of firmness and courage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "陈",
+      "trad": "陳",
+      "pinyin": "chén",
+      "english": "to arrange; to explain; surname"
+    },
+    {
+      "char": "毅",
+      "trad": "毅",
+      "pinyin": "yì",
+      "english": "firm; resolute; courageous"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "陈毅是一位杰出的军事家(陳毅是一位傑出的軍事家)。",
+      "pinyin": "Chén Yì shì yí wèi jié chū de jūn shì jiā.",
+      "english": "Chen Yi is an outstanding military strategist."
+    },
+    {
+      "chinese": "陈毅曾发表过重要演讲(陳毅曾發表過重要演講)，激励了许多人(激勵了許多人)。",
+      "pinyin": "Chén Yì céng fā biǎo guò zhòng yào yǎn jiǎng, jī lì le xǔ duō rén.",
+      "english": "Chen Yi once delivered an important speech, inspiring many people."
+    },
+    {
+      "chinese": "陈毅在困境中沉着应对(陳毅在困境中沉著應對)，赢得了同志们的尊敬(贏得了同志們的尊敬)。",
+      "pinyin": "Chén Yì zài kùn jìng zhōng chén zhuó yìng duì, yíng dé le tóng zhì men de zūn jìng.",
+      "english": "Chen Yi handled adversity calmly and won the respect of his comrades."
+    }
+  ]
+}

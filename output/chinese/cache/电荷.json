@@ -1,0 +1,44 @@
+{
+  "simplified": "电荷",
+  "traditional": "電荷",
+  "pinyin": "diànhè",
+  "english": "electric charge",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electric; electricity\") + 荷(荷) (hè, \"load; burden\") = electric charge",
+    "interpretation": "The term 电荷(電荷) (diànhè, \"electric charge\") combines 电(電) (diàn, \"electric\") and 荷(荷) (hè, \"load\") to describe the concept of an electric charge as the 'load' or 'burden' carried by particles such as electrons and ions. This concept is foundational in physics and relates to the way electricity is transmitted and stored.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "电",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electric; electricity"
+    },
+    {
+      "char": "荷",
+      "trad": "荷",
+      "pinyin": "hè",
+      "english": "load; burden"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学家测量电荷(科學家測量電荷)。",
+      "pinyin": "Kēxuéjiā cèliàng diànhè.",
+      "english": "Scientists measure electric charge."
+    },
+    {
+      "chinese": "电子带负电荷(電子帶負電荷)，质子带正电荷(質子帶正電荷)。",
+      "pinyin": "Diànzǐ dài fù diànhè, zhìzǐ dài zhèng diànhè.",
+      "english": "Electrons carry negative electric charge, while protons carry positive electric charge."
+    },
+    {
+      "chinese": "根据库仑定律(根據庫侖定律)，电荷之间的吸引力与距离成反比(電荷之間的吸引力與距離成反比)。",
+      "pinyin": "Gēnjù Kùlún dìnglǜ, diànhè zhījiān de xīyǐnlì yǔ jùlí chéng fǎnbǐ.",
+      "english": "According to Coulomb's law, the attractive force between electric charges is inversely proportional to the distance."
+    }
+  ]
+}

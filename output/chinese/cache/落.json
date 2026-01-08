@@ -1,0 +1,39 @@
+{
+  "simplified": "落",
+  "traditional": "落",
+  "pinyin": "luò",
+  "english": "fall",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 艹(艹) (cǎo, \"grass\") + Phonetic: 洛(洛) (luò, \"a river's name\") = associated with things falling from plants, such as leaves -> fall",
+    "interpretation": "The character 落(luò, \"fall\") combines 艹(艹) (cǎo, \"grass\"), indicating something related to plants, with 洛(洛) (luò, \"a river's name\") as the phonetic component, suggesting the sound. This phono-semantic combination evokes the imagery of leaves or flowers falling from plants.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "洛",
+      "trad": "洛",
+      "pinyin": "luò",
+      "english": "a river's name"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋风吹过(秋風吹過)，落叶纷纷落下(落葉紛紛落下)。",
+      "pinyin": "qiū fēng chuī guò, luò yè fēn fēn luò xià.",
+      "english": "The autumn wind blows, and the leaves fall one after another."
+    },
+    {
+      "chinese": "冬雪纷纷落(冬雪紛紛落)，大地银装素裹(大地銀裝素裹)。",
+      "pinyin": "dōng xuě fēn fēn luò, dà dì yín zhuāng sù guǒ.",
+      "english": "Winter snow falls in profusion, covering the earth in a silvery cloak."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "辟",
+  "traditional": "辟",
+  "pinyin": "bì",
+  "english": "distinguish",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "卩(卩) (jié, \"kneeling person\") + 䇂(䇂) (\"sickle-like tool\") = to administer/regulate -> 辟(辟) (bì, \"distinguish\") with disputed 〇 (function varies) later corrupted to 口 or 日",
+    "interpretation": "The character 辟(辟) (bì, \"distinguish\") originally depicted the act of administering or regulating through the image of a kneeling person paired with a tool, conveying a sense of authority and governance. The inclusion of 〇 and its subsequent corruption into 口 or 日 reflects changes in character form and interpretation over time.",
+    "simplification": "辟(辟) was officially adopted as the simplified form of 闢(闢), utilizing shared phonetic and semantic elements for ease due to homophony."
+  },
+  "parts": [
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    },
+    {
+      "char": "䇂",
+      "trad": "䇂",
+      "pinyin": "",
+      "english": "sickle-like tool"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "专家辟真伪(專家辟真偽)，识别伪装(識別偽裝)。",
+      "pinyin": "zhuānjiā bì zhēnwěi, shíbié wěizhuāng.",
+      "english": "The expert distinguishes authenticity, recognizing disguises."
+    },
+    {
+      "chinese": "父母教孩子辟善恶(父母教孩子辟善惡)，分清美丑(分清美醜)。",
+      "pinyin": "fùmǔ jiào háizi bì shàn'è, fēn qīng měichǒu.",
+      "english": "Parents teach their children to distinguish between good and evil, discerning beauty from ugliness."
+    },
+    {
+      "chinese": "古人辟虚实(古人辟虛實)，参透玄机(參透玄機)。",
+      "pinyin": "gǔrén bì xūshí, cāntòu xuánjī.",
+      "english": "The ancients distinguished the real from the illusory, comprehending profound mysteries."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "刂",
+  "traditional": "刂",
+  "pinyin": "dāo",
+  "english": "knife",
+  "etymology": {
+    "type": "Variant of 刀 ( dāo ).",
+    "description": "刁(刁) (diāo, \"clever\") is a variant of 刀(刀) (dāo, \"knife\") -> simplification for clarity",
+    "interpretation": "The character 刂(dāo) is a simplified variant of 刀(dāo), which is a pictogram depicting a knife. The two-stroke 刂(dāo) is often used as a radical in other characters related to cutting or knives. It maintains the core meaning and functionality of 刀(dāo) in a more streamlined form.",
+    "simplification": "刂(dāo) is a cursive shorthand of 刀(dāo), used as a radical for clarity and conciseness in compound characters."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用刂(刀)，迅速劈开木头(迅速劈開木頭)。",
+      "pinyin": "Tā yòng dāo, xùnsù pī kāi mùtou.",
+      "english": "He uses a knife to quickly chop wood."
+    },
+    {
+      "chinese": "厨房里挂着一把闪亮的刂(刀)，让人看了食欲大增(讓人看了食慾大增)。",
+      "pinyin": "Chúfáng lǐ guà zhe yī bǎ shǎnliàng de dāo, ràng rén kàn le shíyù dà zēng.",
+      "english": "A shining knife hangs in the kitchen, arousing one's appetite."
+    },
+    {
+      "chinese": "刂(刀)是厨房中不可缺少的工具(廚房中不可缺少的工具)。",
+      "pinyin": "Dāo shì chúfáng zhōng bùkě quēshǎo de gōngjù.",
+      "english": "The knife is an indispensable tool in the kitchen."
+    }
+  ]
+}

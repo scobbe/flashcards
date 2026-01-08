@@ -1,0 +1,44 @@
+{
+  "simplified": "围",
+  "traditional": "圍",
+  "pinyin": "wéi",
+  "english": "surround",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "囗(囗) (wéi, \"enclosure\") + 韋(韋) (wéi, \"soft leather\") = something surrounded by an enclosure -> surround",
+    "interpretation": "The character 围(圍) (wéi, \"surround\") combines the concept of an enclosure with the phonetic element 韋(韋) (wéi, \"soft leather\"). This combination intuitively suggests the idea of surrounding something, much like enclosing soft leather around an object.",
+    "simplification": "圍(圍) → 围(圍): 囗(囗) (wéi, \"enclosure\") was simplified by removing the internal component 韋(韋) (wéi, \"soft leather\")."
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "韋",
+      "trad": "韋",
+      "pinyin": "wéi",
+      "english": "soft leather"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "士兵围困敌军(士兵圍困敵軍)。",
+      "pinyin": "Shìbīng wéikùn díjūn.",
+      "english": "Soldiers surrounded the enemy army."
+    },
+    {
+      "chinese": "村民围绕湖边举行庆典(村民圍繞湖邊舉行慶典)。",
+      "pinyin": "Cūnmín wéirào húbiān jǔxíng qìngdiǎn.",
+      "english": "Villagers held a celebration around the lake."
+    },
+    {
+      "chinese": "老师围着学生讲解科学(老師圍著學生講解科學)。",
+      "pinyin": "Lǎoshī wéizhe xuéshēng jiǎngjiě kēxué.",
+      "english": "The teacher explained science while gathering the students around."
+    }
+  ]
+}

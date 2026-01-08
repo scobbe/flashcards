@@ -1,0 +1,31 @@
+{
+  "simplified": "民",
+  "traditional": "民",
+  "pinyin": "mín",
+  "english": "people",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts an eye stabbed by a needle, symbolizing oppression of the people -> people",
+    "interpretation": "The character 民(民) (mín, 'people') originally depicted an eye being pierced by a tool, a metaphor for the suffering and experiences of the common people. This imagery evolved to represent the broader concept of the populace.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "勤劳的民(勤勞的民)，构成国家的支柱(構成國家的支柱)。",
+      "pinyin": "Qínláo de mín, gòuchéng guójiā de zhīzhù.",
+      "english": "Hardworking people form the backbone of the nation."
+    },
+    {
+      "chinese": "民是国家不可忽视的力量(民是國家不可忽視的力量)。",
+      "pinyin": "Mín shì guójiā bùkě hūshì de lìliàng.",
+      "english": "The people are an indispensable force in the country."
+    },
+    {
+      "chinese": "民聚沙成塔(民聚沙成塔)。",
+      "pinyin": "Mín jù shā chéng tǎ.",
+      "english": "People can achieve great feats through unity."
+    }
+  ]
+}

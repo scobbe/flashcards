@@ -1,0 +1,44 @@
+{
+  "simplified": "画",
+  "traditional": "畫",
+  "pinyin": "huà",
+  "english": "painting; drawing",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phono-semantic compound: semantic 聿(聿) (yù, \"brush\") + phonetic 規(規) (guī, \"compass\") added later, originally 畵(畵) without 𦘒",
+    "interpretation": "The character 畫(畫) originally depicted the idea of making lines or designs using a brush, reflecting the semantic 聿(聿) (yù, \"brush\") aspect. The additional component 規(規) (guī, \"compass\") serves as a phonetic element and reinforces the notion of creating bounded or regulated art forms.",
+    "simplification": "The simplified character 画 omits 𦘒 from the original 畵, retaining the central semantic of brushwork while streamlining the complexity."
+  },
+  "parts": [
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "brush"
+    },
+    {
+      "char": "規",
+      "trad": "規",
+      "pinyin": "guī",
+      "english": "compass"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正在画风景(他正在畫風景)。",
+      "pinyin": "Tā zhèngzài huà fēngjǐng。",
+      "english": "He is painting a landscape."
+    },
+    {
+      "chinese": "小明喜欢画动物(小明喜歡畫動物)，他的画充满生命力(他的畫充滿生命力)。",
+      "pinyin": "Xiǎomíng xǐhuān huà dòngwù, tā de huà chōngmǎn shēngmìnglì。",
+      "english": "Xiaoming enjoys painting animals, and his paintings are full of vitality."
+    },
+    {
+      "chinese": "博物馆里有几幅名家画(博物館裡有幾幅名家畫)。",
+      "pinyin": "Bówùguǎn lǐ yǒu jǐ fú míngjiā huà。",
+      "english": "There are several famous paintings in the museum."
+    }
+  ]
+}

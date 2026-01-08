@@ -1,0 +1,44 @@
+{
+  "simplified": "体",
+  "traditional": "體",
+  "pinyin": "tǐ",
+  "english": "body; style; form",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 骨(骨) (gǔ, \"bone\") + phonetic: 豊(豐) (lǐ, \"abundant\") = structure and form -> body",
+    "interpretation": "The character combines 骨(骨) (gǔ, \"bone\") to convey the idea of a physical structure with 豊(豐) (lǐ, \"abundant\") for its phonetic element. The combination suggests a well-formed body.",
+    "simplification": "體(體)→体(體): The 豊(豐) component was replaced by the simpler 大(大) (dà, \"big\") as a streamlined phonetic element."
+  },
+  "parts": [
+    {
+      "char": "骨",
+      "trad": "骨",
+      "pinyin": "gǔ",
+      "english": "bone"
+    },
+    {
+      "char": "豊",
+      "trad": "豐",
+      "pinyin": "lǐ",
+      "english": "abundant"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的体态优美(他的體態優美)。",
+      "pinyin": "Tā de tǐtài yōuměi.",
+      "english": "His posture is graceful."
+    },
+    {
+      "chinese": "这幅画运用了独特的体裁(這幅畫運用了獨特的體裁)，展现出艺术家的风格(展現出藝術家的風格)。",
+      "pinyin": "Zhè fú huà yùnyòngle dútè de tǐcái, zhǎnxiàn chū yìshùjiā de fēnggé.",
+      "english": "This painting employs a unique form, showcasing the artist's style."
+    },
+    {
+      "chinese": "这种字体简洁明快(這種字體簡潔明快)，蕴含传统韵味(蘊含傳統韻味)。",
+      "pinyin": "Zhè zhǒng zìtǐ jiǎnjié míngkuài, yùnhán chuántǒng yùnwèi.",
+      "english": "This typeface is concise and bright, containing traditional charm."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "𦣞",
+  "traditional": "𦣞",
+  "pinyin": "unknown",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic component used in other characters",
+    "interpretation": "The character 𦣞 is primarily used for its phonetic properties in forming other characters rather than for any standalone meaning. It serves as a component contributing sound aspects in composite characters.",
+    "simplification": "Not applicable as this character functions as a phonetic component."
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "这个字的构造含有𦣞(這個字的構造含有𦣞)，作为声旁(作為聲旁)。",
+      "pinyin": "Zhège zì de gòuzào hányǒu 𦣞，zuòwéi shēngpáng。",
+      "english": "The structure of this character contains 𦣞 as its phonetic component."
+    },
+    {
+      "chinese": "在造字法中(在造字法中)，𦣞常作为提示发音的符号(𦣞常作為提示發音的符號)。",
+      "pinyin": "Zài zàozìfǎ zhōng, 𦣞 cháng zuòwéi tíshì fāyīn de fúhào。",
+      "english": "In character formation, 𦣞 is often used as a symbol to indicate pronunciation."
+    },
+    {
+      "chinese": "学者利用𦣞来分析字音(學者利用𦣞來分析字音)，揭示汉字演变规律(揭示漢字演變規律)。",
+      "pinyin": "Xuézhě lìyòng 𦣞 lái fēnxī zìyīn, jiēshì hànzì yǎnbiàn guīlǜ。",
+      "english": "Scholars use 𦣞 to analyze the phonetic clues and reveal the evolution patterns of Chinese characters."
+    }
+  ]
+}

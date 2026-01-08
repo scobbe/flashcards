@@ -1,0 +1,33 @@
+{
+  "simplified": "亖",
+  "traditional": "亖",
+  "pinyin": "sǐ",
+  "english": "four lines",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "一(一) (yī, \"one\") stacked in sequence -> representation of the number \"four\"",
+    "interpretation": "The character 亖 is formed by stacking the character 一(一) (yī, \"one\") four times in a sequence to visually represent the concept of the number four.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他在宣纸上写下亖(亖)。",
+      "pinyin": "Tā zài xuānzhǐ shàng xiě xià sǐ.",
+      "english": "He wrote the character 'four lines' on rice paper."
+    },
+    {
+      "chinese": "古人喜爱运用亖(亖)，刻画简朴之美(刻畫簡樸之美)。",
+      "pinyin": "Gǔrén xǐ'ài yùnyòng sǐ，kèhuà jiǎnpǔ zhī měi.",
+      "english": "Ancients loved to use 'four lines' to depict the beauty of simplicity."
+    }
+  ]
+}

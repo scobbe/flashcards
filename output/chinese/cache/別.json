@@ -1,0 +1,39 @@
+{
+  "simplified": "別",
+  "traditional": "別",
+  "pinyin": "bié",
+  "english": "separate",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "冎(冎) (guǎ, 'bone') + 刂(刂) (dāo, 'knife') = to cut up bone and flesh -> stylized as 別(別)",
+    "interpretation": "The character 別(別) (bié, 'separate') originally depicted the act of cutting flesh from bone, signifying separation, which logically evolved into the current meaning of 'separate.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冎",
+      "trad": "冎",
+      "pinyin": "guǎ",
+      "english": "bone"
+    },
+    {
+      "char": "刂",
+      "trad": "刂",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "請把可回收垃圾與其他垃圾別放(請把可回收垃圾與其他垃圾別放)。",
+      "pinyin": "Qǐng bǎ kě huíshōu lājī yǔ qítā lājī bié fàng.",
+      "english": "Please separate recyclables from other trash."
+    },
+    {
+      "chinese": "我們要把電子郵件與紙質文件別存(我們要把電子郵件與紙質文件別存)，確保資料安全(確保資料安全)。",
+      "pinyin": "Wǒmen yào bǎ diànzǐ yóujiàn yǔ zhǐzhì wénjiàn bié cún, quèbǎo zīliào ānquán.",
+      "english": "We need to store emails and paper documents separately to ensure data security."
+    }
+  ]
+}

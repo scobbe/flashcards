@@ -1,0 +1,44 @@
+{
+  "simplified": "湛",
+  "traditional": "湛",
+  "pinyin": "zhàn",
+  "english": "deep; clear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 甚(甚) (shèn, \"very\") = water with emphasis -> deep, clear",
+    "interpretation": "The character combines the semantic element of water, 氵(氵), with the phonetic 甚(甚), suggesting an intense or emphasized state. This implies water that is particularly deep or clear.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "甚",
+      "trad": "甚",
+      "pinyin": "shèn",
+      "english": "very"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "湖水湛蓝(湖水湛藍)。",
+      "pinyin": "Hú shuǐ zhàn lán.",
+      "english": "The lake water is deep blue."
+    },
+    {
+      "chinese": "海水湛清(海水湛清)。",
+      "pinyin": "Hǎi shuǐ zhàn qīng.",
+      "english": "The sea water is deep and clear."
+    },
+    {
+      "chinese": "夜空湛黑(夜空湛黑)，星光熠熠(星光熠熠)。",
+      "pinyin": "Yè kōng zhàn hēi, xīng guāng yì yì.",
+      "english": "The night sky is deep black, and the starlight sparkles."
+    }
+  ]
+}

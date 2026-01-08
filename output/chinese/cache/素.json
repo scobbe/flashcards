@@ -1,0 +1,44 @@
+{
+  "simplified": "素",
+  "traditional": "素",
+  "pinyin": "sù",
+  "english": "plain; vegetarian; simple",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 糸(絲) (sī, \"silk\") + phonetic: 粟(粟) (sù, \"millet\") = combining silk and millet -> suggests plainness or simplicity",
+    "interpretation": "The character 素 originally depicted plain, undyed silk, suggesting simplicity or purity. The phonetic element 粟(粟) (sù, \"millet\") supports the sound and also relates to a basic, unadorned life.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "粟",
+      "trad": "粟",
+      "pinyin": "sù",
+      "english": "millet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条围巾设计得很素(這條圍巾設計得很素)。",
+      "pinyin": "Zhè tiáo wéijīn shèjì de hěn sù.",
+      "english": "This scarf is designed very simply."
+    },
+    {
+      "chinese": "他坚持吃素(他堅持吃素)，拒绝肉食(拒絕肉食)。",
+      "pinyin": "Tā jiānchí chī sù, jùjué ròushí.",
+      "english": "He insists on a vegetarian diet and rejects meat."
+    },
+    {
+      "chinese": "她向往一种素雅的风格(她嚮往一種素雅的風格)。",
+      "pinyin": "Tā xiàngwǎng yì zhǒng sùyǎ de fēnggé.",
+      "english": "She aspires to a plain and elegant style."
+    }
+  ]
+}

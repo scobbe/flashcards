@@ -1,0 +1,44 @@
+{
+  "simplified": "橐",
+  "traditional": "橐",
+  "pinyin": "tuó",
+  "english": "bag",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Oracle bone script depicted a bag with a bottom -> evolved into phono-semantic with 石(石) (shí, 'stone') as phonetic + 𣒚(𣒚) (tuó, 'bag with a bottom') as semantic",
+    "interpretation": "Originally depicted as a simple image of a bag, the character later adopted 石(石) (shí, 'stone') for phonetic guidance while maintaining the concept of a bag through 𣒚(𣒚) ('bag with a bottom'), highlighting the character's evolution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone"
+    },
+    {
+      "char": "𣒚",
+      "trad": "𣒚",
+      "pinyin": "tuó",
+      "english": "bag with a bottom"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他准备了一个橐(他準備了一個橐)。",
+      "pinyin": "Tā zhǔnbèi le yī gè tuó.",
+      "english": "He prepared a bag."
+    },
+    {
+      "chinese": "老人从橐中取出零钱(老人從橐中取出零錢)，细数着几枚古钱(細數著幾枚古錢)。",
+      "pinyin": "Lǎorén cóng tuó zhōng qǔchū língqián, xì shǔ zhe jǐ méi gǔqián.",
+      "english": "The old man took out some change from the bag and carefully counted a few ancient coins."
+    },
+    {
+      "chinese": "侠客背着橐行走天下(俠客背著橐行走天下)，江湖传闻不断(江湖傳聞不斷)。",
+      "pinyin": "Xiákè bèi zhe tuó xíngzǒu tiānxià, jiānghú chuánwén bùduàn.",
+      "english": "The chivalrous hero roamed the world with a bag, and legends in the martial world kept spreading."
+    }
+  ]
+}

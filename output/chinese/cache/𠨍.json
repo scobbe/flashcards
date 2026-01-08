@@ -1,0 +1,33 @@
+{
+  "simplified": "𠨍",
+  "traditional": "𠨍",
+  "pinyin": "two people facing each other",
+  "english": "two people facing each other",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, 'person') + 人(人) (rén, 'person') = two people facing each other",
+    "interpretation": "The character is a visual depiction of two human forms arranged as if they are facing each other, representing the concept directly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "两位候选人 𠨍 辩论(兩位候選人 𠨍 辯論)。",
+      "pinyin": "Liǎng wèi hòuxuǎn rén miàn duì biànlùn.",
+      "english": "The two candidates face each other and debate."
+    },
+    {
+      "chinese": "会议上双方对峙(會議上雙方對峙)，仅凭 𠨍 解读意图(僅憑 𠨍 解讀意圖)。",
+      "pinyin": "Huìyì shàng shuāngfāng duìzhì, jǐn píng miàn duì jiědú yìtú.",
+      "english": "At the meeting, both sides confronted each other, solely interpreting intentions by facing each other."
+    }
+  ]
+}

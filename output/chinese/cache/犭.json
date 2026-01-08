@@ -1,0 +1,31 @@
+{
+  "simplified": "犭",
+  "traditional": "犭",
+  "pinyin": "quǎn",
+  "english": "dog",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the side view of a dog",
+    "interpretation": "The character 犭(quǎn, \"dog\") is a simplified form depicting a dog in profile, used as a component in other characters to signify relation to animals or beasts.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "看这个偏旁是犭(看這個偏旁是犭)，说明许多字与狗有关(說明許多字與狗有關)。",
+      "pinyin": "Kàn zhège piānpáng shì quǎn, shuōmíng xǔduō zì yǔ gǒu yǒuguān.",
+      "english": "Observing that this radical is 犭 indicates that many characters are related to dogs."
+    },
+    {
+      "chinese": "犭作为偏旁常用于涉及动物的字(犭作為偏旁常用於涉及動物的字)，传达出狗的形象(傳達出狗的形象)。",
+      "pinyin": "Quǎn zuòwéi piānpáng cháng yòng yú shèjí dòngwù de zì, chuándá chū gǒu de xíngxiàng.",
+      "english": "The radical 犭, used in characters related to animals, conveys the image of a dog."
+    },
+    {
+      "chinese": "学习汉字时(學習漢字時)，了解犭的起源有助于记忆字形(了解犭的起源有助於記憶字形)。",
+      "pinyin": "Xuéxí hànzì shí, liǎojiě quǎn de qǐyuán yǒuzhù yú jìyì zìxíng.",
+      "english": "When learning Chinese characters, understanding the origin of the radical 犭 helps in memorizing their structures."
+    }
+  ]
+}

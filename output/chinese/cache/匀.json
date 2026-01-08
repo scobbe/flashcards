@@ -1,0 +1,39 @@
+{
+  "simplified": "匀",
+  "traditional": "勻",
+  "pinyin": "yún",
+  "english": "even",
+  "etymology": {
+    "type": "simplified and variant form",
+    "description": "勹(勹) (bāo, \"wrap\") + 鬲(鬲) (lì, \"cauldron\") = state of equal distribution -> balanced or even",
+    "interpretation": "The character 勻(勻) (yún, \"even\") combines the concept of wrapping with a vessel, metaphorically suggesting the idea of equal distribution or balance.",
+    "simplification": "Simplified form of 勻(勻) where 勹(勹) was kept, and the shape was altered for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "勹",
+      "trad": "勹",
+      "pinyin": "bāo",
+      "english": "wrap"
+    },
+    {
+      "char": "鬲",
+      "trad": "鬲",
+      "pinyin": "lì",
+      "english": "cauldron"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把奶油匀开后(請把奶油勻開後)，再把面包烤熟(再把麵包烤熟)。",
+      "pinyin": "Qǐng bǎ nǎiyóu yún kāi hòu, zài bǎ miànbāo kǎo shú.",
+      "english": "Please evenly spread the butter first, then toast the bread."
+    },
+    {
+      "chinese": "糖水必须搅拌得匀(糖水必須攪拌得勻)。",
+      "pinyin": "Tángshuǐ bìxū jiǎobàn dé yún.",
+      "english": "The sugar water must be stirred evenly."
+    }
+  ]
+}

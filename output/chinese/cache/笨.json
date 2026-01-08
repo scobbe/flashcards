@@ -1,0 +1,44 @@
+{
+  "simplified": "笨",
+  "traditional": "笨",
+  "pinyin": "bèn",
+  "english": "stupid; clumsy; foolish; slow-witted",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 本(本) (běn) = bamboo meaning + phonetic clue -> clumsy, stupid",
+    "interpretation": "The character 笨(bèn) combines the semantic element 竹(竹) (zhú, \"bamboo\") with the phonetic 本(本) (běn). The inclusion of 竹(竹) can suggest something related to rigidity or awkwardness, reinforcing the meaning of clumsiness or slow-wittedness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    },
+    {
+      "char": "本",
+      "trad": "本",
+      "pinyin": "běn",
+      "english": "root"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他做事情总是很笨(他做事情總是很笨)。",
+      "pinyin": "Tā zuò shìqíng zǒng shì hěn bèn.",
+      "english": "He is always clumsy when doing things."
+    },
+    {
+      "chinese": "他学东西学得很慢(他學東西學得很慢)，因为他太笨了(因為他太笨了)。",
+      "pinyin": "Tā xué dōngxī xué de hěn màn, yīnwèi tā tài bèn le.",
+      "english": "He learns things very slowly because he is too stupid."
+    },
+    {
+      "chinese": "虽然他年纪轻轻(雖然他年紀輕輕)，但有时显得有点笨(但有時顯得有點笨)。",
+      "pinyin": "Suīrán tā niánjì qīngqīng, dàn yǒu shí xiǎnde yǒudiǎn bèn.",
+      "english": "Although he is young, he sometimes appears a little foolish."
+    }
+  ]
+}

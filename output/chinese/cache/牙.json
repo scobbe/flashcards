@@ -1,0 +1,26 @@
+{
+  "simplified": "牙",
+  "traditional": "牙",
+  "pinyin": "yá",
+  "english": "tooth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pair of elephant tusks -> used to indicate human molars",
+    "interpretation": "The character 牙(牙) (yá, 'tooth') originated as a pictogram representing elephant tusks, which resemble human molars in shape. This specific imagery was chosen to signify back teeth rather than incisors.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天刷牙(我每天刷牙)。",
+      "pinyin": "Wǒ měitiān shuā yá.",
+      "english": "I brush my teeth every day."
+    },
+    {
+      "chinese": "医生检查牙齿(醫生檢查牙齒)，建议定期看牙(建議定期看牙)。",
+      "pinyin": "Yīshēng jiǎnchá yá chǐ, jiànyì dìngqī kàn yá.",
+      "english": "The doctor examines the teeth and advises regular dental check-ups."
+    }
+  ]
+}

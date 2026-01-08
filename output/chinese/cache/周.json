@@ -1,0 +1,50 @@
+{
+  "simplified": "周",
+  "traditional": "周",
+  "pinyin": "zhōu",
+  "english": "circle; complete; cycle",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram: a jade artifact with carved patterns -> Character 業(業) (yè, \"to carve\") evolved -> borrowed as a country name -> 口(口) (kǒu, \"mouth\") added for distinction -> similar top to 用(用) (yòng, \"to use\") in later form",
+    "interpretation": "周(周) (zhōu, \"circle\") originally depicted a carved jade artifact, indicating completeness or thoroughness. Over time, it was borrowed for the country name and modified to distinguish it with an added component 口(口) (kǒu, \"mouth\"), resembling 用(用) (yòng, \"to use\") in later forms.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "to use"
+    },
+    {
+      "char": "業",
+      "trad": "業",
+      "pinyin": "yè",
+      "english": "to carve"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "钟摆转了一周(鐘擺轉了一周)。",
+      "pinyin": "Zhōngbǎi zhuǎn le yī zhōu.",
+      "english": "The pendulum completed one full cycle."
+    },
+    {
+      "chinese": "他沿公园小径走了一周(他沿公園小徑走了一周)，满怀期待回到起点(滿懷期待回到起點)。",
+      "pinyin": "Tā yán gōngyuán xiǎojìng zǒu le yī zhōu, mǎn huái qídài huí dào qǐdiǎn.",
+      "english": "He walked a complete circle along the park path, returning to the starting point with anticipation."
+    },
+    {
+      "chinese": "风车转动着一周(風車轉動著一周)。",
+      "pinyin": "Fēng chē zhuǎndòng zhe yī zhōu.",
+      "english": "The windmill rotates in a full circle."
+    }
+  ]
+}

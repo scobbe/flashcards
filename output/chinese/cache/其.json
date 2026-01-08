@@ -1,0 +1,39 @@
+{
+  "simplified": "其",
+  "traditional": "其",
+  "pinyin": "qí",
+  "english": "his",
+  "etymology": {
+    "type": "pictogram",
+    "description": "𠀠 (basket pictogram) -> 丌 (stand) added under basket as phonetic and to enhance meaning -> borrowed for pronoun 'his' -> 箕(箕) (jī, 'basket') derived with additional 竹(竹) (zhú, 'bamboo')",
+    "interpretation": "The character originally depicted a basket, symbolized by 𠀠, emphasizing its use. The addition of 丌 beneath the basket strengthened the meaning of a structural object or container, eventually leading to its phonetic borrowing to represent the pronoun 'his'. To reclaim the original meaning of a 'basket', 箕(箕) (jī, 'basket') was formed with an added bamboo radical.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "箕",
+      "trad": "箕",
+      "pinyin": "jī",
+      "english": "basket"
+    },
+    {
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "将军因其英勇闻名(將軍因其英勇聞名)。",
+      "pinyin": "Jiāngjūn yīn qí yīngyǒng wénmíng。",
+      "english": "The general is famous for his valor."
+    },
+    {
+      "chinese": "同袍尊其忠诚(同袍尊其忠誠)，士卒佩服其英明(士卒佩服其英明)。",
+      "pinyin": "Tóngpáo zūn qí zhōngchéng, shìzú pèifú qí yīngmíng。",
+      "english": "His comrades revere his loyalty, and the soldiers admire his wisdom."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "臭豆腐",
+  "traditional": "臭豆腐",
+  "pinyin": "chòudòufu",
+  "english": "stinky tofu",
+  "etymology": {
+    "type": "compound word",
+    "description": "臭(臭) (chòu, \"stinky\"), 豆腐(豆腐) (dòufu, \"tofu\")",
+    "interpretation": "臭豆腐(臭豆腐) (chòudòufu, \"stinky tofu\") refers to a popular East Asian snack made from fermented tofu, known for its strong odor. The fermentation process gives the tofu its characteristic smell, which is considered an acquired taste but enjoyed widely for its unique flavor.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臭",
+      "trad": "臭",
+      "pinyin": "chòu",
+      "english": "stinky"
+    },
+    {
+      "char": "豆腐",
+      "trad": "豆腐",
+      "pinyin": "dòufu",
+      "english": "tofu"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢臭豆腐(我喜歡臭豆腐)。",
+      "pinyin": "Wǒ xǐhuān chòudòufu.",
+      "english": "I like stinky tofu."
+    },
+    {
+      "chinese": "她尝了一口臭豆腐(她嘗了一口臭豆腐)，觉得味道真特别(覺得味道真特別)。",
+      "pinyin": "Tā cháng le yīkǒu chòudòufu, juéde wèidào zhēn tèbié.",
+      "english": "She took a bite of stinky tofu, and thought its taste was really unique."
+    },
+    {
+      "chinese": "小吃摊上卖臭豆腐(小吃攤上賣臭豆腐)，吸引了很多游客(吸引了很多遊客)。",
+      "pinyin": "Xiǎochī tān shàng mài chòudòufu, xīyǐnle hěn duō yóukè.",
+      "english": "The food stall selling stinky tofu attracted many tourists."
+    }
+  ]
+}

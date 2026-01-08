@@ -1,0 +1,31 @@
+{
+  "simplified": "欠",
+  "traditional": "欠",
+  "pinyin": "qiàn",
+  "english": "yawn",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person in a bent posture with an open mouth, suggesting the act of yawning or slackening",
+    "interpretation": "The character 欠(欠) (qiàn, \"yawn\") visually represents a person with their mouth open, capturing the physical gesture associated with yawning. It symbolizes a relaxed or tired state.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他打哈欠(他打哈欠)。",
+      "pinyin": "tā dǎ hāqiàn",
+      "english": "He yawns."
+    },
+    {
+      "chinese": "上课时他总是打哈欠(上課時他總是打哈欠)，让老师分心(讓老師分心)。",
+      "pinyin": "shàngkè shí tā zǒng shì dǎ hāqiàn, ràng lǎoshī fēnxīn",
+      "english": "He keeps yawning during class, distracting the teacher."
+    },
+    {
+      "chinese": "会议中(會議中)，他不自觉地打哈欠(他不自覺地打哈欠)。",
+      "pinyin": "huìyì zhōng, tā bù zìjué dì dǎ hāqiàn",
+      "english": "During the meeting, he involuntarily yawns."
+    }
+  ]
+}

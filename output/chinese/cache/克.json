@@ -1,0 +1,44 @@
+{
+  "simplified": "克",
+  "traditional": "克",
+  "pinyin": "kè",
+  "english": "to overcome; gram",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "由(由) (yóu, \"battle helmet\") + 皮(皮) (pí, \"pelt\") = to defeat or vanquish -> 克(克)",
+    "interpretation": "The character 克(克) (kè) illustrates the concept of overcoming an opponent in battle, symbolized by the combination of a helmet and a pelt. Alternatively, it can depict a person carrying a load, signifying the ability to bear or undertake tasks competently.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "battle helmet"
+    },
+    {
+      "char": "皮",
+      "trad": "皮",
+      "pinyin": "pí",
+      "english": "pelt"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这瓶药含50克(這瓶藥含50克)。",
+      "pinyin": "Zhè píng yào hán 50 kè.",
+      "english": "This bottle of medicine contains 50 grams."
+    },
+    {
+      "chinese": "他克服困难(他克服困難)，迈向成功(邁向成功)。",
+      "pinyin": "Tā kèfú kùnnán, mài xiàng chénggōng.",
+      "english": "He overcame difficulties and stepped towards success."
+    },
+    {
+      "chinese": "她决心克敌制胜(她決心克敵制勝)，面对挑战(面對挑戰)。",
+      "pinyin": "Tā juéxīn kè dí zhì shèng, miànduì tiǎozhàn.",
+      "english": "She is determined to overcome her enemies and triumph when facing challenges."
+    }
+  ]
+}

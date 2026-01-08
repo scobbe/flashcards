@@ -1,0 +1,31 @@
+{
+  "simplified": "比",
+  "traditional": "比",
+  "pinyin": "bǐ",
+  "english": "compare",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Two figures standing side by side -> concept of comparison",
+    "interpretation": "The character 比(bǐ, \"compare\") depicts two human figures standing side by side, illustrating the act of comparing one thing to another. It's a visual representation that captures the idea of juxtaposition and evaluation.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他比我跑得快(他比我跑得快)。",
+      "pinyin": "Tā bǐ wǒ pǎo de kuài.",
+      "english": "He runs faster than I do."
+    },
+    {
+      "chinese": "这件衣服比那件衣服便宜(這件衣服比那件衣服便宜)。",
+      "pinyin": "Zhè jiàn yīfu bǐ nà jiàn yīfu piányí.",
+      "english": "This piece of clothing is cheaper than that one."
+    },
+    {
+      "chinese": "他比我聪明(他比我聰明)，而且比她勤奋(而且比她勤奮)。",
+      "pinyin": "Tā bǐ wǒ cōngmíng, érqiě bǐ tā qínfèn.",
+      "english": "He is smarter than I am, and also more hardworking than she is."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "气泡",
+  "traditional": "氣泡",
+  "pinyin": "qìpào",
+  "english": "air bubble",
+  "etymology": {
+    "type": "compound word",
+    "description": "气(氣) (qì, \"air; gas\") refers to air or gas, often considered the vital force in traditional Chinese thought. 泡(泡) (pào, \"bubble\") signifies a bubble. Combined, 气泡(氣泡) (qìpào) refers to an \"air bubble\" as it is a bubble filled with air.",
+    "interpretation": "The word 气泡(氣泡) (qìpào) directly combines the concepts of air and a bubble, clearly describing a bubble filled with air.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "气",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "air; gas; spirit"
+    },
+    {
+      "char": "泡",
+      "trad": "泡",
+      "pinyin": "pào",
+      "english": "bubble; foam; blister"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "气泡在水中闪烁(氣泡在水中閃爍)。",
+      "pinyin": "qìpào zài shuǐ zhōng shǎnshuò.",
+      "english": "Air bubbles shimmer in the water."
+    },
+    {
+      "chinese": "他喝汽水时(他喝汽水時)，欣赏气泡上升(欣賞氣泡上升)。",
+      "pinyin": "tā hē qìshuǐ shí, xīnshǎng qìpào shàngshēng.",
+      "english": "He admires the rising air bubbles while drinking soda."
+    }
+  ]
+}

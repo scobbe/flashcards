@@ -1,0 +1,26 @@
+{
+  "simplified": "旡",
+  "traditional": "旡",
+  "pinyin": "jì",
+  "english": "partial phonetic",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person raising their head to gape which conveys the idea of yawning or being breathless",
+    "interpretation": "The character 旡(旡) (jì, no direct English translation) originally represents a human figure with their head tilted back, which is interpreted as a person stretching or gasping for breath. This form reflects a pictographic representation of that action.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "'旡'在汉字构造中起偏旁作用(‘旡’在漢字構造中起偏旁作用)，显示了它的部分语音特性(顯示了它的部分語音特性)。",
+      "pinyin": "'Jì' zài hànzì gòuzào zhōng qǐ piānpáng zuòyòng, xiǎnshì le tā de bùfèn yǔyīn tèxìng.",
+      "english": "The character 'jì' functions as a radical in Chinese character formation, displaying its partial phonetic property."
+    },
+    {
+      "chinese": "古代学者分析字形时(古代學者分析字形時)，认为‘旡’具有部分语音的提示功能(認為‘旡’具有部分語音的提示功能)。",
+      "pinyin": "Gǔdài xuézhě fēnxī zìxíng shí, rènwéi 'jì' jùyǒu bùfèn yǔyīn de tíshì gōngnéng.",
+      "english": "Ancient scholars, analyzing the form of characters, believed that 'jì' provided a partial phonetic hint."
+    }
+  ]
+}

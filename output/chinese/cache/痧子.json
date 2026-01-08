@@ -1,0 +1,44 @@
+{
+  "simplified": "痧子",
+  "traditional": "痧子",
+  "pinyin": "shāzi",
+  "english": "measles",
+  "etymology": {
+    "type": "compound word",
+    "description": "痧(痧) (shā, \"rash\") + 子(子) (zi, \"child; small thing\"), referring to measles",
+    "interpretation": "The word 痧子 (shāzi) refers to measles by combining 痧(痧) (shā, \"rash\"), which represents the characteristic rash associated with the disease, and 子(子) (zi, \"child; small thing\"), indicating something small or relating to children, as measles commonly affects young children.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "痧",
+      "trad": "痧",
+      "pinyin": "shā",
+      "english": "rash; measles"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "child; small thing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他得了痧子(他得了痧子)。",
+      "pinyin": "Tā déle shāzi.",
+      "english": "He contracted measles."
+    },
+    {
+      "chinese": "当孩子暴露在阳光下时(當孩子暴露在陽光下時)，痧子容易传播(痧子容易傳播)。",
+      "pinyin": "Dāng háizi bàolù zài yángguāng xià shí, shāzi róngyì chuánbò.",
+      "english": "When children are exposed to sunlight, measles spreads easily."
+    },
+    {
+      "chinese": "医生建议及时治疗痧子(醫生建議及時治療痧子)。",
+      "pinyin": "Yīshēng jiànyì jíshí zhìliáo shāzi.",
+      "english": "The doctor advised prompt treatment for measles."
+    }
+  ]
+}

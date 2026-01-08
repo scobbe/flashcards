@@ -2,25 +2,30 @@
   "simplified": "丁",
   "traditional": "丁",
   "pinyin": "dīng",
-  "english": "indicates pronunciation",
+  "english": "nail",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts the head of a nail -> evolved into derivatives representing 'nail' 釘(釘), 'head' 天(天) and 頂(頂), 'city wall' 成(成) and 城(城)",
-    "interpretation": "The character 丁(丁) (dīng) originally depicted the head of a nail. It was used as a base form in the creation of several other characters that evolved to represent different meanings such as 'nail', 'head', and 'city wall'.",
+    "description": "Depicts the head of a nail -> 丁",
+    "interpretation": "The character 丁 originally depicted the head of a nail, emphasizing simplicity and directness. While it has developed other interpretations over time, such as a head or city wall, these relate to similar shapes and functions. Today, 釘(釘) (dīng, 'nail') reflects this meaning.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "丁是一个汉字(丁是一個漢字)。",
-      "pinyin": "dīng shì yīgè hànzì.",
-      "english": "Ding is a Chinese character."
+      "chinese": "工人熟练地把丁敲进了墙壁(工人熟練地把丁敲進了牆壁)。",
+      "pinyin": "Gōngrén shúliàn de bǎ dīng qiāng jìnle qiángbì.",
+      "english": "The worker skillfully hammered the nail into the wall."
     },
     {
-      "chinese": "‘丁’的读音为 dīng(‘丁’的讀音為 dīng)。",
-      "pinyin": "‘dīng’ de dúyīn wéi dīng.",
-      "english": "The pronunciation of '丁' is dīng."
+      "chinese": "他精心挑选了铁质丁(他精心挑選了鐵質丁)，确保家具稳固(確保傢俱穩固)。",
+      "pinyin": "Tā jīngxīn tiāoxuǎnle tiě zhì dīng, quèbǎo jiājù wěngù.",
+      "english": "He carefully selected the iron nail to ensure the furniture was stable."
+    },
+    {
+      "chinese": "请把散落的丁收好(請把散落的丁收好)。",
+      "pinyin": "Qǐng bǎ sànluò de dīng shōuhǎo.",
+      "english": "Please gather the scattered nails."
     }
   ]
 }

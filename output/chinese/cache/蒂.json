@@ -1,0 +1,39 @@
+{
+  "simplified": "蒂",
+  "traditional": "蒂",
+  "pinyin": "dì",
+  "english": "stem",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, 'grass') + phonetic: 帝(帝) (dì, 'emperor') = part of a plant -> stem",
+    "interpretation": "The character 蒂(蒂) (dì, 'stem') combines the 艹(艹) (cǎo, 'grass') radical, indicating its relation to plants, with 帝(帝) (dì, 'emperor') as a phonetic component. This suggests something foundational or central, much like a stem.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "帝",
+      "trad": "帝",
+      "pinyin": "dì",
+      "english": "emperor"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "采摘花朵时(採摘花朵時)，注意保护花蒂(注意保護花蒂)。",
+      "pinyin": "Cǎizhāi huāduǒ shí, zhùyì bǎohù huādì.",
+      "english": "When picking flowers, pay attention to protecting the stem."
+    },
+    {
+      "chinese": "这束花的蒂突出(這束花的蒂突出)。",
+      "pinyin": "Zhè shù huā de huādì tūchū.",
+      "english": "The stem of this bouquet stands out."
+    }
+  ]
+}

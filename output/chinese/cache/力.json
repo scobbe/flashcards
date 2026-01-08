@@ -1,0 +1,31 @@
+{
+  "simplified": "力",
+  "traditional": "力",
+  "pinyin": "lì",
+  "english": "strength",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts either an arm bending out from the side of the body, or a wooden plough",
+    "interpretation": "The character 力(lì, 'strength') visually represents physical power through the image of an arm or tool, emphasizing the fundamental concept of muscular force.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用尽全力(他用盡全力)，赢得比赛(贏得比賽)。",
+      "pinyin": "Tā yòng jìn quánlì, yíng dé bǐsài.",
+      "english": "He used all his strength to win the competition."
+    },
+    {
+      "chinese": "他把力气用在学习上(他把力氣用在學習上)。",
+      "pinyin": "Tā bǎ lìqì yòng zài xuéxí shàng.",
+      "english": "He applies his strength to his studies."
+    },
+    {
+      "chinese": "面对困难(面對困難)，他毫不退缩(他毫不退縮)，全力以赴(全力以赴)。",
+      "pinyin": "Miànduì kùnnán, tā háo bù tuìsuō, quánlì yǐ fù.",
+      "english": "Facing difficulties, he neither retreats nor gives up, but goes all out."
+    }
+  ]
+}

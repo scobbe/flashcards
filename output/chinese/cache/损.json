@@ -1,0 +1,39 @@
+{
+  "simplified": "损",
+  "traditional": "損",
+  "pinyin": "sǔn",
+  "english": "decrease; damage",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 扌(手) (shǒu, \"hand\") + phonetic: 員(员) (yuán, \"member\") = action involving hands affecting people -> decrease, damage",
+    "interpretation": "损(損) (sǔn, \"decrease; damage\") combines 扌(手) (shǒu, \"hand\") suggesting a manual or active process, with 員(员) (yuán, \"member\") providing the sound element. The hand indicates an activity or operation, and 員(员) points to an action affecting individuals, together implying the notion of causing decrease or damage.",
+    "simplification": "損 (sǔn, \"decrease; damage\") was simplified by replacing the more complex 員(員) with its modern simplified form 员(员) while retaining the core structure of the character."
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "员",
+      "trad": "員",
+      "pinyin": "yuán",
+      "english": "member"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "过度使用会损害器材(過度使用會損害器材)，效率会有所降低(效率會有所降低)。",
+      "pinyin": "Guòdù shǐyòng huì sǔnhài qìcái, xiàolǜ huì yǒusuǒ jiàngdī.",
+      "english": "Excessive use will damage the equipment, and efficiency will decrease."
+    },
+    {
+      "chinese": "沉重的负担让他身心受损(沉重的負擔讓他身心受損)。",
+      "pinyin": "Chénzhòng de fùdān ràng tā shēnxīn shòusǔn.",
+      "english": "The heavy burden has impaired his body and mind."
+    }
+  ]
+}

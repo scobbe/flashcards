@@ -1,0 +1,44 @@
+{
+  "simplified": "攀岩",
+  "traditional": "攀岩",
+  "pinyin": "pānyán",
+  "english": "rock climbing",
+  "etymology": {
+    "type": "compound word",
+    "description": "攀(攀) (pān, \"climb\"), 岩(岩) (yán, \"rock; cliff\")",
+    "interpretation": "The word 攀岩 (pānyán) translates to \"rock climbing,\" referring specifically to the activity of climbing on natural rock formations or artificial rock walls. 攀(攀) (pān, \"climb\") represents the act of ascending, while 岩(岩) (yán, \"rock; cliff\") specifies the natural surface being climbed. This combination effectively conveys the idea of physically climbing rock surfaces, either as a sport or recreational activity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "攀",
+      "trad": "攀",
+      "pinyin": "pān",
+      "english": "climb"
+    },
+    {
+      "char": "岩",
+      "trad": "岩",
+      "pinyin": "yán",
+      "english": "rock; cliff"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢攀岩(他喜歡攀岩)。",
+      "pinyin": "Tā xǐhuān pānyán.",
+      "english": "He likes rock climbing."
+    },
+    {
+      "chinese": "周末他去海边攀岩(週末他去海邊攀岩)，体验自然乐趣(體驗自然樂趣)。",
+      "pinyin": "Zhōumò tā qù hǎibiān pānyán, tǐyàn zìrán lèqù.",
+      "english": "On the weekend, he goes rock climbing by the seaside, experiencing the joy of nature."
+    },
+    {
+      "chinese": "小明通过攀岩(小明通過攀岩)，不断挑战自己(不斷挑戰自己)。",
+      "pinyin": "Xiǎomíng tōngguò pānyán, bùduàn tiǎozhàn zìjǐ.",
+      "english": "Xiaoming continuously challenges himself through rock climbing."
+    }
+  ]
+}

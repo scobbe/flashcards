@@ -1,0 +1,44 @@
+{
+  "simplified": "起",
+  "traditional": "起",
+  "pinyin": "qǐ",
+  "english": "rise; lift; begin; get up",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 走(走) (zǒu, \"walk\") + phonetic: 巳(巳) (sì, \"sixth terrestrial branch\") = implying movement or ascent -> rise, begin",
+    "interpretation": "The character 起(起) (qǐ, \"rise\") combines 走(走) (zǒu, \"walk\"), indicating motion or activity, with 巳(巳) (sì, \"sixth terrestrial branch\"), contributing the phonetic element. This combination intuitively represents the concept of rising or beginning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "走",
+      "trad": "走",
+      "pinyin": "zǒu",
+      "english": "walk"
+    },
+    {
+      "char": "巳",
+      "trad": "巳",
+      "pinyin": "sì",
+      "english": "sixth terrestrial branch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我早上起床(我早上起床)。",
+      "pinyin": "Wǒ zǎoshang qǐ chuáng.",
+      "english": "I get up in the morning."
+    },
+    {
+      "chinese": "太阳升起时(太陽升起時)，世界变得明亮(世界變得明亮)。",
+      "pinyin": "Tàiyáng shēng qǐ shí, shìjiè biàn dé míngliàng.",
+      "english": "When the sun rises, the world becomes bright."
+    },
+    {
+      "chinese": "他鼓起勇气(他鼓起勇氣)，面对挑战(面對挑戰)。",
+      "pinyin": "Tā gǔ qǐ yǒngqì, miànduì tiǎozhàn.",
+      "english": "He mustered his courage to face the challenges."
+    }
+  ]
+}

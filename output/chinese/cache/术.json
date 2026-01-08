@@ -1,0 +1,39 @@
+{
+  "simplified": "术",
+  "traditional": "術",
+  "pinyin": "shù",
+  "english": "skill; technique; method; art",
+  "etymology": {
+    "type": "simplified form of 術",
+    "description": "彳(彳) (chì, \"step\") + 朮(朮) (zhú, \"millet\") = path of action for achieving a specific goal (like planting crops) -> 術 (shù, \"method\") simplified as 术 for more efficient writing",
+    "interpretation": "术(術) retains the essence of \"method\" or \"technique\" by simplifying the complex structure of 術. It maintains the general meaning through its association with paths and structured approaches, just as 訴(訴) relates to communication.",
+    "simplification": "術 was simplified to 术 by adopting a streamlined form, maintaining the semantic essence without intricate components."
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "朮",
+      "trad": "朮",
+      "pinyin": "zhú",
+      "english": "millet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "医生诊治病人的秘诀是一门精湛的医术(醫生診治病人的祕訣是一門精湛的醫術)。",
+      "pinyin": "Yīshēng zhěnzhì bìngrén de mìjué shì yī mén jīngzhàn de yīshù.",
+      "english": "The doctor's secret in treating patients is an exquisite medical art."
+    },
+    {
+      "chinese": "古人用占卜术(古人用占卜術)，预测未来(預測未來)。",
+      "pinyin": "Gǔrén yòng zhānbǔ shù, yùcè wèilái.",
+      "english": "Ancient people used divination techniques to predict the future."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "运动",
+  "traditional": "運動",
+  "pinyin": "yùndòng",
+  "english": "exercise; sports",
+  "etymology": {
+    "type": "compound word",
+    "description": "運(運) (yùn, \"transport; move\") and 動(動) (dòng, \"move; act\") together convey the concept of movement or activity. The combination suggests engaging in physical activity or movement, which can be interpreted as exercise or sports.",
+    "interpretation": "The word 运动(運動) (yùndòng) refers to engaging in physical activities or sports, emphasizing the idea of movement and action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "运",
+      "trad": "運",
+      "pinyin": "yùn",
+      "english": "transport; move; fortune; luck"
+    },
+    {
+      "char": "动",
+      "trad": "動",
+      "pinyin": "dòng",
+      "english": "move; act; stir; change"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天运动(我每天運動)。",
+      "pinyin": "Wǒ měitiān yùndòng.",
+      "english": "I exercise every day."
+    },
+    {
+      "chinese": "运动使身体更强壮(運動使身體更強壯)，也带来快乐(也帶來快樂)。",
+      "pinyin": "Yùndòng shǐ shēntǐ gèng qiángzhuàng, yě dàilái kuàilè.",
+      "english": "Exercise makes the body stronger and brings joy."
+    },
+    {
+      "chinese": "参加运动会可以结识朋友(參加運動會可以結識朋友)，体验团队精神(體驗團隊精神)。",
+      "pinyin": "Cānjiā yùndònghuì kěyǐ jiéshí péngyǒu, tǐyàn tuánduì jīngshén.",
+      "english": "Participating in a sports meet can help you make friends and experience team spirit."
+    }
+  ]
+}

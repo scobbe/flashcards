@@ -1,0 +1,44 @@
+{
+  "simplified": "涅",
+  "traditional": "涅",
+  "pinyin": "niè",
+  "english": "mud",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水) (shuǐ, \"water\") + 黒(黑) (hēi, \"black\") = black mud mixed with water -> mud",
+    "interpretation": "The character 涅(涅) (niè, \"mud\") combines the radical for water 氵(水) (shuǐ, \"water\") with 黒(黑) (hēi, \"black\"), suggesting a dark substance associated with wetness, hence signifying 'mud.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "黒",
+      "trad": "黑",
+      "pinyin": "hēi",
+      "english": "black"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "雨后小路边累积了厚厚的涅(雨後小路邊累積了厚厚的涅)。",
+      "pinyin": "Yǔhòu xiǎolù biān lěijīle hòuhòu de niè.",
+      "english": "After the rain, thick mud accumulated by the roadside."
+    },
+    {
+      "chinese": "溪水冲刷着石滩上的涅(溪水沖刷著石灘上的涅)，大地呈现出湿润的色彩(大地呈現出濕潤的色彩)。",
+      "pinyin": "Xīshuǐ chōngshuā zhe shítān shàng de niè, dàdì chéngxiàn chū shīrùn de sècǎi.",
+      "english": "The stream washed the muddy stone beach, and the land displayed a moist hue."
+    },
+    {
+      "chinese": "河畔旁堆满了流动的涅(河畔旁堆滿了流動的涅)。",
+      "pinyin": "Hépàn páng duīmǎnle liúdòng de niè.",
+      "english": "By the riverbank, flowing mud had piled up."
+    }
+  ]
+}

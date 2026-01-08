@@ -1,0 +1,39 @@
+{
+  "simplified": "瓶",
+  "traditional": "瓶",
+  "pinyin": "píng",
+  "english": "bottle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 并(並) (bìng, \"combine\") + Semantic: 瓦(瓦) (wǎ, \"earthenware\") = initially an earthenware vessel -> now any kind of bottle",
+    "interpretation": "The character 瓶(píng) represents a vessel made of clay due to the 瓦(wǎ, \"earthenware\") component, while 并(並) (bìng, \"combine\") likely influenced the pronunciation. Initially referring to clay vessels, it now broadly indicates bottles in modern usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "并",
+      "trad": "並",
+      "pinyin": "bìng",
+      "english": "combine"
+    },
+    {
+      "char": "瓦",
+      "trad": "瓦",
+      "pinyin": "wǎ",
+      "english": "earthenware"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一瓶水(我買了一瓶水)。",
+      "pinyin": "Wǒ mǎile yī píng shuǐ.",
+      "english": "I bought a bottle of water."
+    },
+    {
+      "chinese": "厨房里摆着一瓶橄榄油(廚房裏擺著一瓶橄欖油)，餐桌上也放着一瓶苹果醋(餐桌上也放著一瓶蘋果醋)。",
+      "pinyin": "Chúfáng lǐ bǎizhe yī píng gǎnlǎn yóu, cānzhuō shàng yě fàngzhe yī píng píngguǒ cù.",
+      "english": "There is a bottle of olive oil in the kitchen, and there is also a bottle of apple cider on the dining table."
+    }
+  ]
+}

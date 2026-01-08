@@ -1,0 +1,39 @@
+{
+  "simplified": "芥蓝",
+  "traditional": "芥藍",
+  "pinyin": "gàilán",
+  "english": "Chinese broccoli",
+  "etymology": {
+    "type": "compound word",
+    "description": "芥(芥) (gài, \"mustard; herb\") + 蓝(藍) (lán, \"blue; indigo\") = a type of vegetable resembling mustard, often with associated blue-green leaves, thus known as Chinese broccoli.",
+    "interpretation": "芥(芥) (gài, \"mustard; herb\") and 蓝(藍) (lán, \"blue; indigo\") combine to describe a leafy green vegetable, commonly known as Chinese broccoli. The term likely refers to the vegetable's mustard-like qualities and its typical blue-green leaf color.",
+    "simplification": "芥(芥) was simplified to 芥 and 藍 was simplified to 蓝."
+  },
+  "parts": [
+    {
+      "char": "芥",
+      "trad": "芥",
+      "pinyin": "gài",
+      "english": "mustard; herb"
+    },
+    {
+      "char": "蓝",
+      "trad": "藍",
+      "pinyin": "lán",
+      "english": "blue; indigo"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃芥蓝(芥藍)。",
+      "pinyin": "Wǒ xǐhuān chī gàilán.",
+      "english": "I like eating Chinese broccoli."
+    },
+    {
+      "chinese": "这道菜里有芥蓝(芥藍)，味道非常鲜美(味道非常鮮美)。",
+      "pinyin": "Zhè dào cài lǐ yǒu gàilán, wèidào fēicháng xiānměi.",
+      "english": "This dish contains Chinese broccoli, and its flavor is very fresh and delicious."
+    }
+  ]
+}

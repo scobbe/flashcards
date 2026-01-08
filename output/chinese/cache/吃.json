@@ -1,0 +1,39 @@
+{
+  "simplified": "吃",
+  "traditional": "吃",
+  "pinyin": "chī",
+  "english": "eat",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 口(口) (kǒu, \"mouth\") + phonetic: 乞(乞) (qǐ, \"beg\") = action involving the mouth; suggestive of eating -> eat",
+    "interpretation": "The character 吃(吃) (chī, \"eat\") combines the essential semantic element of a mouth, indicating oral activity, with a phonetic component suggesting the sound related to begging or requesting food, reinforcing the concept of eating.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "乞",
+      "trad": "乞",
+      "pinyin": "qǐ",
+      "english": "beg"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我吃苹果(我吃蘋果)。",
+      "pinyin": "Wǒ chī píngguǒ.",
+      "english": "I eat apples."
+    },
+    {
+      "chinese": "他吃早餐(他吃早餐)，然后去上班(然後去上班)。",
+      "pinyin": "Tā chī zǎocān, ránhòu qù shàngbān.",
+      "english": "He eats breakfast, then goes to work."
+    }
+  ]
+}

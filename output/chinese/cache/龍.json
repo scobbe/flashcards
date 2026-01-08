@@ -1,0 +1,26 @@
+{
+  "simplified": "龍",
+  "traditional": "龍",
+  "pinyin": "lóng",
+  "english": "dragon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stylized dragon with exaggerated features, including a body, claws, and tail.",
+    "interpretation": "The character 龍(龍) (lóng, \"dragon\") represents a mythical creature in Chinese folklore, known for its power, majesty, and symbolic links to strength and good fortune. Its stylized depiction emphasizes these attributes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古老的传说里有一条龍(古老的傳說裡有一條龙)，它能呼风唤雨(它能呼風喚雨)。",
+      "pinyin": "Gǔlǎo de chuánshuō lǐ yǒu yī tiáo lóng, tā néng hū fēng huàn yǔ。",
+      "english": "In ancient legends, there is a dragon; it can summon wind and rain."
+    },
+    {
+      "chinese": "节日里舞龍表演吸引众人(節日裡舞龙表演吸引眾人)。",
+      "pinyin": "Jiérì lǐ wǔ lóng biǎoyǎn xīyǐn zhòngrén。",
+      "english": "During festivals, the dragon dance performance attracts everyone."
+    }
+  ]
+}

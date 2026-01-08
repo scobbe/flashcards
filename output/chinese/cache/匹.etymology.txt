@@ -1,0 +1,12 @@
+[匹]
+Uncertain. Various theories have been proposed based on the evidence from the bronze inscriptions:
+• Pictogram ( 象形 ) of folds in cloth ( Lin, 1920 );
+• Phono-semantic compound ( 形聲 / 形声 , OC *pʰid ): semantic 石 ( “ rock ” ) + phonetic 乙 ( OC *qriɡ ) or 乀 ( MC phjut ). The phonetic component may be replaced with 匕 ( OC *pilʔ ) (not shown above);
+• Ideogram ( 指事 ): half of 丙 (“two horses”) – one horse ( Zhang et al., 1996 ), but the origin of the character 丙 is also uncertain (for example, it could be the tail of a fish).
+Shuowen considers it to be an ideogrammic compound ( 會意 / 会意 ) and phono-semantic compound ( 形聲 / 形声 , OC *pʰid ): phonetic 八 ( OC *preːd , “ eight ” ) + semantic 匸 ( “ to conceal ” ) – unit of measuring cloth. 八 refers to eight folds in one 匹 of cloth (two bolts of cloth), and 匸 refers to concealing the two ends of the cloth when rolling it up. This interpretation is not likely since the older forms evidently do not contain these components.
+
+[鴄]
+Phono-semantic compound ( 形聲 / 形声 , OC *pʰid ): phonetic 匹 ( OC *pʰid ) + semantic 鳥 ( “ bird ” ) .
+
+[鹎]
+simplified form of 鵯

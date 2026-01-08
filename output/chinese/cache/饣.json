@@ -1,0 +1,44 @@
+{
+  "simplified": "饣",
+  "traditional": "食",
+  "pinyin": "shí",
+  "english": "food",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Pictogram: mouth 亼(亼) (none, \"none\") over a bowl of rice 皀(皀) (none, \"none\") on a stand -> food -> simplified to 饣(食)",
+    "interpretation": "The character 食(食) (shí, \"food\") originally depicted a mouth over a food container, symbolizing eating or food. The simplified form 饣(食) retains the essence of the original, with a simplified radical representing food.",
+    "simplification": "The simplified form 饣(食) was derived from 食 by using a shorthand radical, reflecting a cursive or condensed writing style while maintaining the original meaning."
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "none",
+      "english": "none"
+    },
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "none",
+      "english": "none"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "饣是汉字中表示‘食物’的偏旁(飠是漢字中表示‘食物’的偏旁)。",
+      "pinyin": "Shí shì hànzì zhōng biǎoshì ‘shíwù’ de piānpáng。",
+      "english": "Shí is a radical in Chinese characters that represents 'food'."
+    },
+    {
+      "chinese": "每当看到美食时(每當看到美食時)，我就想到饣的意义(我就想到飠的意義)。",
+      "pinyin": "Měi dāng kàn dào měishí shí, wǒ jiù xiǎngdào shí de yìyì。",
+      "english": "Whenever I see delicious food, I think of the meaning of 'shí'."
+    },
+    {
+      "chinese": "古代文献中常见饣的用例(古代文獻中常見飠的用例)，反映了食文化的发展(反映了食文化的發展)。",
+      "pinyin": "Gǔdài wénxiàn zhōng chángjiàn shí de yònglì, fǎnyìngle shí wénhuà de fāzhǎn。",
+      "english": "Ancient texts often feature examples using 'shí', reflecting the development of food culture."
+    }
+  ]
+}

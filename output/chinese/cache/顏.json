@@ -1,0 +1,39 @@
+{
+  "simplified": "顏",
+  "traditional": "顏",
+  "pinyin": "yán",
+  "english": "face",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 頁(頁) (yè, \"page/head\") + phonetic: 彥(彥) (yàn) = face related to the head -> face",
+    "interpretation": "頁(頁) (yè, \"page/head\") indicates the character is related to the head, while 彥(彥) (yàn) provides the phonetic component. Together, they combine to signify 'face,' a prominent part of the head.",
+    "simplification": "Simplified to 颜(顏) by replacing 頁(頁) (yè, \"page/head\") with a simpler version without the 'head' radical."
+  },
+  "parts": [
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "page/head"
+    },
+    {
+      "char": "彥",
+      "trad": "彥",
+      "pinyin": "yàn",
+      "english": "talented"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的顏流露出淡淡的忧伤(他的顏流露出淡淡的憂傷)。",
+      "pinyin": "Tā de yán liúlù chū dàndàn de yōushāng.",
+      "english": "His face shows a hint of sorrow."
+    },
+    {
+      "chinese": "她看了看镜子(她看了看鏡子)，发现自己的顏上挂着笑容(發現自己的顏上掛著笑容)。",
+      "pinyin": "Tā kànle kàn jìngzi, fāxiàn zìjǐ de yán shàng guàzhe xiàoróng.",
+      "english": "She looked in the mirror and found a smile on her face."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "喝",
+  "traditional": "喝",
+  "pinyin": "hē",
+  "english": "drink",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 口(口) (kǒu, \"mouth\") + Phonetic: 曷(曷) (hē) = incorporates mouth element for drinking + phonetic cue -> drink",
+    "interpretation": "The character 喝(hē, \"drink\") uses 口(口) (kǒu, \"mouth\") to signify the act of drinking, logically involving the mouth. The phonetic component 曷(曷) (hē) suggests the pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "曷",
+      "trad": "曷",
+      "pinyin": "hē",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢喝茶(我喜歡喝茶)。",
+      "pinyin": "Wǒ xǐhuān hē chá.",
+      "english": "I like drinking tea."
+    },
+    {
+      "chinese": "他喝了一杯果汁(他喝了一杯果汁)，享受下午时光(享受下午時光)。",
+      "pinyin": "Tā hēle yī bēi guǒzhī, xiǎngshòu xiàwǔ shíguāng.",
+      "english": "He drank a glass of juice and enjoyed the afternoon."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "芬",
+  "traditional": "芬",
+  "pinyin": "fēn",
+  "english": "perfume; fragrance",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 分(分) (fēn, \"divide\") = fragrant essence of grass -> perfume",
+    "interpretation": "The character 芬(fēn) combines the 艹(艹) (cǎo, \"grass\") radical, indicating plant material or herbs, with 分(分) (fēn, \"divide\") for its sound, to convey the idea of a fragrance derived from natural sources like plants or herbs.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "空气中弥漫着淡淡芬香(空氣中瀰漫著淡淡芬香)。",
+      "pinyin": "Kōngqì zhōng mímàn zhe dàndàn fēnxiāng.",
+      "english": "The air is filled with a faint fragrance."
+    },
+    {
+      "chinese": "他喷洒了香水(他噴灑了香水)，使房间充满芬的气息(使房間充滿芬的氣息)。",
+      "pinyin": "Tā pēn sǎ le xiāngshuǐ, shǐ fángjiān chōngmǎn fēn de qìxī.",
+      "english": "He sprayed perfume, filling the room with a fragrance."
+    }
+  ]
+}

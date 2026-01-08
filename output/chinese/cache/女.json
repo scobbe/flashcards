@@ -1,0 +1,26 @@
+{
+  "simplified": "女",
+  "traditional": "女",
+  "pinyin": "nǚ",
+  "english": "woman",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a woman kneeling or standing -> enclosed area as remnant of right breast",
+    "interpretation": "The character 女(nǚ, \"woman\") is a pictogram originally depicting a woman with highlighted bodily features, such as the breasts, symbolizing femininity. Its orientation changed from the Oracle Bone script to face right, simplifying over time while still retaining the essence of its original depiction.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那位才华横溢的女(那位才華橫溢的女)，赢得了全场注目(贏得了全場注目)。",
+      "pinyin": "Nà wèi cáihuá héngyì de nǚ, yíng dé le quánchǎng zhùmù.",
+      "english": "That talented woman won everyone's attention."
+    },
+    {
+      "chinese": "古时候‘女’常被用来象征温柔(古時候‘女’常被用來象徵溫柔)，而如今它代表独立自信(而如今它代表獨立自信)。",
+      "pinyin": "Gǔshíhòu ‘nǚ’ cháng bèi yòng lái xiàngzhēng wēnróu, ér rújīn tā dàibiǎo dúlì zìxìn.",
+      "english": "In ancient times, the character '女' was often used to symbolize gentleness, whereas today it represents independence and confidence."
+    }
+  ]
+}

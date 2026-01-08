@@ -1,0 +1,39 @@
+{
+  "simplified": "豆腐",
+  "traditional": "豆腐",
+  "pinyin": "dòufu",
+  "english": "tofu",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆(豆) (dòu, \"bean\") + 腐(腐) (fǔ, \"ferment\") = 豆腐(豆腐) (dòufu, \"tofu\")",
+    "interpretation": "This combination makes sense as 豆(豆) (dòu, \"bean\") refers to the main ingredient, soybeans, used in producing tofu, while 腐(腐) (fǔ, \"ferment\") suggests the process of transformation the beans undergo in making tofu. Tofu is a soybean product and, historically, its preparation involved fermentative processes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    },
+    {
+      "char": "腐",
+      "trad": "腐",
+      "pinyin": "fǔ",
+      "english": "ferment; spoil; decay"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃豆腐(我喜歡吃豆腐)。",
+      "pinyin": "Wǒ xǐhuān chī dòufu.",
+      "english": "I like eating tofu."
+    },
+    {
+      "chinese": "豆腐很滑嫩(豆腐很滑嫩)，适合做凉拌菜(適合做涼拌菜)。",
+      "pinyin": "Dòufu hěn huá nèn, shìhé zuò liángbàn cài.",
+      "english": "Tofu is very smooth and tender, and it is suitable for making cold dishes."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "宋庆龄",
+  "traditional": "宋慶齡",
+  "pinyin": "Sòng Qìnglíng",
+  "english": "Song Qingling",
+  "etymology": {
+    "type": "compound word",
+    "description": "宋(宋) (Sòng, \"Song\") is a surname that can be traced back to the Song Dynasty. 庆(慶) (Qìng, \"celebrate\") conveys a sense of joy and auspiciousness. 龄(齡) (líng, \"age\") refers to a person's age, but in names, it often suggests wisdom or longevity.",
+    "interpretation": "宋(宋) (Sòng, \"Song\") is the surname, and 慶齡 (Qìnglíng) together can suggest 'joyful and wise'. Song Qingling (宋慶齡) was a prominent Chinese political figure and the wife of Sun Yat-sen, playing an integral role in the political landscape of China.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宋",
+      "trad": "宋",
+      "pinyin": "Sòng",
+      "english": "Song; surname"
+    },
+    {
+      "char": "庆",
+      "trad": "慶",
+      "pinyin": "Qìng",
+      "english": "celebrate; congratulate; praise"
+    },
+    {
+      "char": "龄",
+      "trad": "齡",
+      "pinyin": "líng",
+      "english": "age; years; time"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "宋庆龄(宋慶齡)致力于国际和平(致力於國際和平)，获得了世界的认可(獲得了世界的認可)。",
+      "pinyin": "Sòng Qìnglíng zhìlì yú guójì hépíng, huòdéle shìjiè de rènkě.",
+      "english": "Song Qingling dedicated her efforts to international peace and earned global recognition."
+    },
+    {
+      "chinese": "宋庆龄(宋慶齡)的智慧与勇气激励了无数人(的智慧與勇氣激勵了無數人)。",
+      "pinyin": "Sòng Qìnglíng de zhìhuì yǔ yǒngqì jīlìle wúshù rén.",
+      "english": "Song Qingling's wisdom and courage inspired countless people."
+    },
+    {
+      "chinese": "宋庆龄(宋慶齡)倡导的人权理念影响深远(倡導的人權理念影響深遠)。",
+      "pinyin": "Sòng Qìnglíng chàngdǎo de rénquán lǐniàn yǐngxiǎng shēnyuǎn.",
+      "english": "Song Qingling's advocacy for human rights has had a profound impact."
+    }
+  ]
+}

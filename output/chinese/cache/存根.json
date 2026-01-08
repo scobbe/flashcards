@@ -1,0 +1,39 @@
+{
+  "simplified": "存根",
+  "traditional": "存根",
+  "pinyin": "cún gēn",
+  "english": "preserved root",
+  "etymology": {
+    "type": "compound word",
+    "description": "存(存) (cún, \"preserve\") + 根(根) (gēn, \"root\")",
+    "interpretation": "存根(存根) (cún gēn, \"preserved root\") traditionally refers to a part that remains as a record or proof, such as the stub of a receipt. The concept aligns with something being kept ('preserved') as a foundation ('root').",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "存",
+      "trad": "存",
+      "pinyin": "cún",
+      "english": "preserve; keep; save"
+    },
+    {
+      "char": "根",
+      "trad": "根",
+      "pinyin": "gēn",
+      "english": "root; base; origin"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请妥善保管这张存根(請妥善保管這張存根)。",
+      "pinyin": "Qǐng tuǒshàn bǎoguǎn zhè zhāng cún gēn.",
+      "english": "Please keep this receipt stub carefully."
+    },
+    {
+      "chinese": "银行开具了存根(銀行開具了存根)，作为交易凭证(作為交易憑證)。",
+      "pinyin": "Yínháng kāijù le cún gēn, zuòwéi jiāoyì píngzhèng.",
+      "english": "The bank issued a receipt stub as proof of the transaction."
+    }
+  ]
+}

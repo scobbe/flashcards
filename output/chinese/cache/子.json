@@ -1,0 +1,31 @@
+{
+  "simplified": "子",
+  "traditional": "子",
+  "pinyin": "zǐ",
+  "english": "child",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a baby with a large head and spread arms, with legs wrapped in a blanket",
+    "interpretation": "The character 子(zǐ, \"child\") is a pictorial representation of a baby, emphasizing characteristics like a large head and outstretched arms typical of infants, which conveys the essence of a child. This visual element helps infer its meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这小子很调皮(這小子很調皮)。",
+      "pinyin": "Zhè xiǎo zǐ hěn tiáopí.",
+      "english": "This kid is very naughty."
+    },
+    {
+      "chinese": "他的小子爱打篮球(他的小子愛打籃球)，每天都锻炼身体(每天都鍛煉身體)。",
+      "pinyin": "Tā de xiǎo zǐ ài dǎ lánqiú, měitiān dōu duànliàn shēntǐ.",
+      "english": "His child loves playing basketball, and practices every day."
+    },
+    {
+      "chinese": "孤独的子需要关爱(孤獨的子需要關愛)。",
+      "pinyin": "Gūdú de zǐ xūyào guān'ài.",
+      "english": "A lonely child needs care."
+    }
+  ]
+}

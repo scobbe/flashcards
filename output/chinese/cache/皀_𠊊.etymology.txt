@@ -1,0 +1,9 @@
+[皀]
+Pictogram ( 象形 ) - a bowl of rice on a stand. The pictogram is part of the radical 食 . Unrelated to 良 and 旨 .
+
+[𠊊]
+variant form of 食
+
+[食]
+Pictogram ( 象形 ): a mouth ( 亼 ) over a bowl of rice on a stand. While the current form is 亼 + 艮 , the lower part (bowl of rice on a stand) is the pictogram 皀 and is similar but unrelated 良 or 艮 . This is more visible in the form 𠊊 .
+Shuowen : Phono-semantic compound ( 形聲 / 形声 , OC *lɯɡs, *ɦljɯɡ ): phonetic 亼 ( OC *zub ) + semantic 皀 ; see 𠊊 .

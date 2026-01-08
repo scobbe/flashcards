@@ -1,0 +1,39 @@
+{
+  "simplified": "睿",
+  "traditional": "叡",
+  "pinyin": "ruì",
+  "english": "bright",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "目(目) (mù, 'eye') + 爰(爰) (yuán, 'therefore; because') = sharp and discerning eyes -> bright",
+    "interpretation": "The character 睿(叡) (ruì, 'bright') combines 目(目) (mù, 'eye') to represent vision, with 爰(爰) (yuán, 'therefore') serving as a phonetic indicator. This implies heightened perception or insight, thus denoting 'bright' in terms of intelligence or wisdom.",
+    "simplification": "Simplified by removing 爰(爰) (yuán) and leaving a simplified form with just 目(目) (mù) + 一(一) (yī, 'one') as a representation of clarity or singular focus."
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "爰",
+      "trad": "爰",
+      "pinyin": "yuán",
+      "english": "because"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他有着睿的智慧(他有著睿的智慧)。",
+      "pinyin": "Tā yǒuzhe ruì de zhìhuì.",
+      "english": "He possesses bright wisdom."
+    },
+    {
+      "chinese": "面对复杂问题(面對複雜問題)，他总能做出睿断的选择(他總能做出睿斷的選擇)。",
+      "pinyin": "Miànduì fùzá wèntí, tā zǒng néng zuòchū ruì duàn de xuǎnzé.",
+      "english": "In the face of complex issues, he always makes wise decisions."
+    }
+  ]
+}

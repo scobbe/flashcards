@@ -1,0 +1,44 @@
+{
+  "simplified": "现金",
+  "traditional": "現金",
+  "pinyin": "xiànjīn",
+  "english": "cash",
+  "etymology": {
+    "type": "compound word",
+    "description": "现(現) (xiàn, \"current\"; \"present\"; \"appear\") refers to the present time or situation. 金(金) (jīn, \"gold\"; \"money\"; \"metal\") represents wealth or monetary resources. Together, 现金(現金) (xiànjīn) describes money that is immediately available for transactions - cash.",
+    "interpretation": "The term 现金(現金) (xiànjīn, \"cash\") signifies money available for use right now, emphasizing both its availability and standard function as a currency.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "现",
+      "trad": "現",
+      "pinyin": "xiàn",
+      "english": "current; present; appear"
+    },
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; money; metal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用现金买了面包(我用現金買了麵包)。",
+      "pinyin": "Wǒ yòng xiànjīn mǎile miànbāo.",
+      "english": "I bought bread with cash."
+    },
+    {
+      "chinese": "商店只接受现金(商店只接受現金)，不接受信用卡(不接受信用卡)。",
+      "pinyin": "Shāngdiàn zhǐ jiēshòu xiànjīn, bù jiēshòu xìnyòngkǎ.",
+      "english": "The store accepts only cash, not credit cards."
+    },
+    {
+      "chinese": "出门前(出門前)，他检查是否携带了现金(他檢查是否攜帶了現金)。",
+      "pinyin": "Chūmén qián, tā jiǎnchá shìfǒu xiédài le xiànjīn.",
+      "english": "Before leaving home, he checked whether he brought cash."
+    }
+  ]
+}

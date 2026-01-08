@@ -1,0 +1,44 @@
+{
+  "simplified": "像",
+  "traditional": "像",
+  "pinyin": "xiàng",
+  "english": "image; likeness; statue",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 亻(亻) (rén, \"person\") + phonetic: 象(象) (xiàng, \"elephant\") = person + likeness of an elephant",
+    "interpretation": "In 像(像) (xiàng, \"image\"), the component 亻(亻) (rén, \"person\") indicates that the character is related to human figures or likenesses. 象(象) (xiàng, \"elephant\") serves as a phonetic component, hinting at the word's pronunciation, as well as symbolizing something large or prominent. Together, they suggest an image or likeness that conveys significant form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "象",
+      "trad": "象",
+      "pinyin": "xiàng",
+      "english": "elephant"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这尊雕像像活着的英雄(這尊雕像像活著的英雄)。",
+      "pinyin": "Zhè zūn diāoxiàng xiàng huózhe de yīngxióng.",
+      "english": "This statue resembles a living hero."
+    },
+    {
+      "chinese": "他的面庞像雕刻般精致(他的面龐像雕刻般精緻)，给人留下深刻的印象(給人留下深刻的印象)。",
+      "pinyin": "Tā de miànpáng xiàng diāokè bān jīngzhì, gěi rén liúchū shēnkè de yìnxiàng.",
+      "english": "His features are as exquisitely carved as a sculpture, leaving a deep impression on people."
+    },
+    {
+      "chinese": "孩子的笑容像一幅生动的画像(孩子的笑容像一幅生動的畫像)。",
+      "pinyin": "Háizi de xiàoróng xiàng yī fú shēngdòng de huàxiàng.",
+      "english": "The child's smile is like a vivid portrait."
+    }
+  ]
+}

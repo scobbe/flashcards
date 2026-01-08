@@ -1,0 +1,44 @@
+{
+  "simplified": "尊",
+  "traditional": "尊",
+  "pinyin": "zūn",
+  "english": "vessel",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "酋(酋) (qiú, \"wine\") + 寸(寸) (cùn, \"hand\") = to give a hand offering a vessel of wine -> show respect",
+    "interpretation": "The character combines the idea of offering wine with a hand, symbolizing an act of respect or veneration. This representation aligns with the traditional use of vessels in rituals and offerings to deities or important figures.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酋",
+      "trad": "酋",
+      "pinyin": "qiú",
+      "english": "wine"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座青铜尊(這座青銅尊)，见证了历史(見證了歷史)。",
+      "pinyin": "Zhè zuò qīngtóng zūn, jiànzhèngle lìshǐ.",
+      "english": "This bronze vessel witnessed history."
+    },
+    {
+      "chinese": "博物馆收藏的珍贵尊(博物館收藏的珍貴尊)，代表着古代工艺(代表著古代工藝)。",
+      "pinyin": "Bówùguǎn shōucáng de zhēnguì zūn, dàibiǎozhe gǔdài gōngyì.",
+      "english": "The precious vessel collected by the museum represents ancient craftsmanship."
+    },
+    {
+      "chinese": "考古学家在遗址中发现了一尊完好的瓷尊(考古學家在遺址中發現了一尊完好的瓷尊)，令世人称奇(令世人稱奇)。",
+      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiànle yì sù wánhǎo de cí zūn, lìng shìrén chēngqí.",
+      "english": "Archaeologists discovered a well-preserved porcelain vessel at the site, which amazed the world."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "癸",
+  "traditional": "癸",
+  "pinyin": "guǐ",
+  "english": "tenth earthly branch",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Original form of 戣(戣) (kuí, \"a type of halberd\") -> Original form of 葵(葵) (kuí, \"mallow\") -> Measuring tool related to 揆(揆) (kuí, \"measure\") -> Character related to determining directions and solstices with 土圭(土圭) (tǔguī, \"clay measuring rule\") -> Original form of 規(规) (guī, \"compass; rule\")",
+    "interpretation": "The character 癸(癸) (guǐ, \"tenth earthly branch\") originally depicted an object used for measuring or determining directions, which is conceptually relatable to its connections with measuring tools like 揆(揆) (kuí, \"measure\") and tools used in determining cardinal directions. This indicates its role as a significant marker or tool in ancient practices and its evolution into characters associated with regulation and measurement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戣",
+      "trad": "戣",
+      "pinyin": "kuí",
+      "english": "a type of halberd"
+    },
+    {
+      "char": "葵",
+      "trad": "葵",
+      "pinyin": "kuí",
+      "english": "mallow"
+    },
+    {
+      "char": "揆",
+      "trad": "揆",
+      "pinyin": "kuí",
+      "english": "measure"
+    },
+    {
+      "char": "規",
+      "trad": "規",
+      "pinyin": "guī",
+      "english": "compass; rule"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "古人将四时与十二地支相联(古人將四時與十二地支相聯)，癸位列其中第十(癸位列其中第十)。",
+      "pinyin": "gǔ rén jiāng sì shí yǔ shí èr dì zhī xiāng lián, guǐ wèi liè qí zhōng dì shí.",
+      "english": "In ancient times, people associated the seasons with the twelve earthly branches, with Guǐ occupying the tenth position."
+    },
+    {
+      "chinese": "历代学者推崇癸卦之意(歷代學者推崇癸卦之意)。",
+      "pinyin": "lì dài xué zhě tuī chóng guǐ guà zhī yì.",
+      "english": "Scholars throughout history admired the significance of Guǐ in divinatory texts."
+    },
+    {
+      "chinese": "观察天象时(觀察天象時)，易学家解读癸之变化(易學家解讀癸之變化)。",
+      "pinyin": "guān chá tiān xiàng shí, yì xué jiā jiě dú guǐ zhī biàn huà.",
+      "english": "When observing celestial phenomena, diviners interpreted the changes associated with Guǐ."
+    }
+  ]
+}

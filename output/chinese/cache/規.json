@@ -1,0 +1,39 @@
+{
+  "simplified": "規",
+  "traditional": "規",
+  "pinyin": "guī",
+  "english": "compass",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 見(見) (jiàn, \"see\") + phonetic: 瞿(瞿) (qú) = tool for seeing precise lines -> compass",
+    "interpretation": "The character 規(規) (guī, \"compass\") combines the idea of seeing with precision, represented by 見(見) (jiàn, \"see\"), with the phonetic component 瞿(瞿) (qú) to form a character representing a tool for creating precise lines, such as a compass.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "見",
+      "trad": "見",
+      "pinyin": "jiàn",
+      "english": "see"
+    },
+    {
+      "char": "瞿",
+      "trad": "瞿",
+      "pinyin": "qú",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个規指引着航海者找到方向(這個規指引著航海者找到方向)。",
+      "pinyin": "Zhège guī zhǐyǐn zhe hánghǎi zhě zhǎodào fāngxiàng.",
+      "english": "This compass guides the seafarers to find their direction."
+    },
+    {
+      "chinese": "迷路的水手依靠規(迷路的水手依靠規)，穿越惊涛骇浪(穿越驚濤駭浪)。",
+      "pinyin": "Mílù de shuǐshǒu yīkào guī, chuānyuè jīngtāo hàilàng.",
+      "english": "The lost sailor relies on the compass, braving the tumultuous waves."
+    }
+  ]
+}

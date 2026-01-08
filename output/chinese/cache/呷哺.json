@@ -1,0 +1,44 @@
+{
+  "simplified": "呷哺",
+  "traditional": "呷哺",
+  "pinyin": "xiā bǔ",
+  "english": "sip; nourish",
+  "etymology": {
+    "type": "compound word",
+    "description": "呷(呷) (xiā, \"sip\") and 哺(哺) (bǔ, \"nourish\") both carry meanings related to consuming food or drink. 呷(呷) (xiā, \"sip\") suggests taking small sips or bites, while 哺(哺) (bǔ, \"nourish\") indicates providing sustenance, often associated with feeding or nurturing.",
+    "interpretation": "The combination 呷哺(呷哺) (xiā bǔ) symbolically represents the dual actions of sipping and nourishing, conveying an intimate and sustaining eating or drinking experience. It evokes a sense of carefully consuming food or drink in a way that both fulfills and comforts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "呷",
+      "trad": "呷",
+      "pinyin": "xiā",
+      "english": "sip"
+    },
+    {
+      "char": "哺",
+      "trad": "哺",
+      "pinyin": "bǔ",
+      "english": "nourish; feed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "饥饿时(飢餓時)，他呷哺一口温汤(他呷哺一口溫湯)。",
+      "pinyin": "Jī'è shí, tā xiā bǔ yī kǒu wēn tāng.",
+      "english": "When hungry, he sips a mouthful of warm soup."
+    },
+    {
+      "chinese": "小鸟每日呷哺露水(小鳥每日呷哺露水)。",
+      "pinyin": "Xiǎo niǎo měi rì xiā bǔ lù shuǐ.",
+      "english": "The little bird sips dewdrops every day."
+    },
+    {
+      "chinese": "他常呷哺清茶(他常呷哺清茶)，以滋养体魄(以滋養體魄)。",
+      "pinyin": "Tā cháng xiā bǔ qīng chá, yǐ zī yǎng tǐ pò.",
+      "english": "He often sips clear tea to nourish his body."
+    }
+  ]
+}

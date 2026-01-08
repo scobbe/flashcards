@@ -1,0 +1,39 @@
+{
+  "simplified": "兴",
+  "traditional": "興",
+  "pinyin": "xīng",
+  "english": "rise; prosper",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "舁(舁) (yú, 'both hands of two people') + 同(同) (tóng, 'together') = two people lifting something together -> rise, prosper",
+    "interpretation": "The character combines 舁(舁) (yú, 'both hands') and 同(同) (tóng, 'together') to depict a joint effort, symbolizing the action of rising or prospering through cooperation.",
+    "simplification": "Simplified to remove complexity while retaining the original structure: 兴(興) uses fewer strokes for simplicity."
+  },
+  "parts": [
+    {
+      "char": "舁",
+      "trad": "舁",
+      "pinyin": "yú",
+      "english": "both hands of two people"
+    },
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司业务日渐兴(公司業務日漸興)，市场环境逐步改善兴(市場環境逐步改善興)。",
+      "pinyin": "Gōngsī yèwù rìjiàn xīng, shìchǎng huánjìng zhúbù gǎishàn xīng.",
+      "english": "The company's business is steadily prospering, and the market environment is gradually improving."
+    },
+    {
+      "chinese": "改革开放使国家兴(改革開放使國家興)。",
+      "pinyin": "Gǎigé kāifàng shǐ guójiā xīng.",
+      "english": "Reform and opening-up make the nation prosper."
+    }
+  ]
+}

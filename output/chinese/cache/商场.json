@@ -1,0 +1,44 @@
+{
+  "simplified": "商场",
+  "traditional": "商場",
+  "pinyin": "shāngchǎng",
+  "english": "shopping mall",
+  "etymology": {
+    "type": "compound word",
+    "description": "商(商) (shāng, \"commerce\") + 场(場) (chǎng, \"open space\" or \"place\") = a place for commerce",
+    "interpretation": "A 商场(商場) (shāngchǎng, \"shopping mall\") is a large open space dedicated to commerce where various shops and businesses are situated. The combination of 商(商) (shāng, \"commerce\") with 场(場) (chǎng, \"open space\" or \"place\") conveys the idea of a designated area for trade and services, aligning with modern commercial practices.",
+    "simplification": "Customary simplification by converting 場 to 场"
+  },
+  "parts": [
+    {
+      "char": "商",
+      "trad": "商",
+      "pinyin": "shāng",
+      "english": "commerce; business"
+    },
+    {
+      "char": "场",
+      "trad": "場",
+      "pinyin": "chǎng",
+      "english": "open space; place; field; stage"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她喜欢在商场(她喜歡在商場)，在那里逛街(在那裏逛街)。",
+      "pinyin": "Tā xǐhuān zài shāngchǎng, zài nàlǐ guàngjiē.",
+      "english": "She likes shopping at the mall, strolling around there."
+    },
+    {
+      "chinese": "我打算去商场(我打算去商場)，看看新款服装(看看新款服裝)。",
+      "pinyin": "Wǒ dǎsuàn qù shāngchǎng, kànkan xīnkuǎn fúzhuāng.",
+      "english": "I plan to go to the mall to check out the new fashion clothes."
+    },
+    {
+      "chinese": "周末时(周末時)，我们在商场(我們在商場)放松休闲(放鬆休閒)。",
+      "pinyin": "Zhōumò shí, wǒmen zài shāngchǎng fàngsōng xiūxián.",
+      "english": "On weekends, we relax at the shopping mall."
+    }
+  ]
+}

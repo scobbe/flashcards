@@ -1,0 +1,44 @@
+{
+  "simplified": "聰",
+  "traditional": "聰",
+  "pinyin": "cōng",
+  "english": "clever",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Proto-form 悤 (pictogram: 心 with a hole) -> Phonetic 囪 + Semantic 心 = open heart/open mind -> Later: Phonetic 悤 + Semantic 耳 = intelligence through listening",
+    "interpretation": "The character 聰(cōng, 'clever') originally depicted an open heart and mind, symbolizing intelligence. It evolved to focus on listening, with 耳 (ear) representing the ability to learn quickly by hearing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "悤",
+      "trad": "悤",
+      "pinyin": "cōng",
+      "english": "clever"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他聰明過人(他聰明過人)。",
+      "pinyin": "Tā cōngmíng guòrén.",
+      "english": "He is extraordinarily clever."
+    },
+    {
+      "chinese": "老師讚許他的聰明(老師讚許他的聰明)，鼓勵其他同學努力學習(鼓勵其他同學努力學習)。",
+      "pinyin": "Lǎoshī zànxǔ tā de cōngmíng, gǔlì qítā tóngxué nǔlì xuéxí.",
+      "english": "The teacher praised his cleverness and encouraged his classmates to study hard."
+    },
+    {
+      "chinese": "這個孩子既活潑又聰明(這個孩子既活潑又聰明)，深受大家喜愛(深受大家喜愛)。",
+      "pinyin": "Zhège háizi jì huópō yòu cōngmíng, shēn shòu dàjiā xǐ'ài.",
+      "english": "This child is both lively and clever, and is deeply loved by everyone."
+    }
+  ]
+}

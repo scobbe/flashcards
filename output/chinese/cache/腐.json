@@ -1,0 +1,44 @@
+{
+  "simplified": "腐",
+  "traditional": "腐",
+  "pinyin": "fǔ",
+  "english": "ferment; spoil; decay",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 肉(肉) (ròu, \"flesh\") + phonetic: 府(府) (fǔ) = decomposition of flesh -> ferment; spoil; decay",
+    "interpretation": "腐(fǔ) effectively combines the concept of rotting flesh, represented by 肉(肉) (ròu, \"flesh\"), with the phonetic 府(府) (fǔ), to convey the idea of decay or decomposition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
+    },
+    {
+      "char": "府",
+      "trad": "府",
+      "pinyin": "fǔ",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "食物腐烂会产生异味(食物腐爛會產生異味)。",
+      "pinyin": "Shíwù fǔlàn huì chǎnshēng yìwèi.",
+      "english": "Spoiled food produces a foul smell."
+    },
+    {
+      "chinese": "这瓶牛奶放久了(這瓶牛奶放久了)，就会腐坏(就會腐壞)。",
+      "pinyin": "Zhè píng niúnǎi fàng jiǔ le, jiù huì fǔhuài.",
+      "english": "This bottle of milk will spoil if left for too long."
+    },
+    {
+      "chinese": "鱼在高温下容易腐坏(魚在高溫下容易腐壞)。",
+      "pinyin": "Yú zài gāowēn xià róngyì fǔhuài.",
+      "english": "Fish tends to decay easily under high temperatures."
+    }
+  ]
+}

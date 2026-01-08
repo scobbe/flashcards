@@ -1,0 +1,44 @@
+{
+  "simplified": "甦",
+  "traditional": "甦",
+  "pinyin": "sū",
+  "english": "revive",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 生(生) (shēng, 'life') + phonetic: 訴(诉) (sù, 'narrate') = bringing to life -> revive",
+    "interpretation": "The character 甦(sū, 'revive') combines 生(生) (shēng, 'life') as the semantic element to indicate life or revitalization, with 訴(诉) (sù, 'narrate') serving as the phonetic element, suggesting the act of returning to life.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "life"
+    },
+    {
+      "char": "訴",
+      "trad": "诉",
+      "pinyin": "sù",
+      "english": "narrate"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "音乐响起时(音樂響起時)，疲惫的身体甦(疲憊的身體蘇)。",
+      "pinyin": "Yīn yuè xiǎng qǐ shí, pí bèi de shēn tǐ sū.",
+      "english": "When the music starts, the weary body revives."
+    },
+    {
+      "chinese": "记忆甦(記憶蘇)。",
+      "pinyin": "Jì yì sū.",
+      "english": "Memories are revived."
+    },
+    {
+      "chinese": "暴风雨过后(暴風雨過後)，大地甦(大地蘇)焕发新生(煥發新生)。",
+      "pinyin": "Bào fēng yǔ guò hòu, dà dì sū huàn fā xīn shēng.",
+      "english": "After the storm, the earth revives and bursts forth with new life."
+    }
+  ]
+}

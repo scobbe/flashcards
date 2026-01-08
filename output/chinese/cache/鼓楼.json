@@ -1,0 +1,39 @@
+{
+  "simplified": "鼓楼",
+  "traditional": "鼓樓",
+  "pinyin": "gǔ lóu",
+  "english": "drum tower",
+  "etymology": {
+    "type": "compound word",
+    "description": "鼓(鼓) (gǔ, \"drum\") + 楼(樓) (lóu, \"tower\") refers to a traditional structure often found in Chinese cities, where drums were used to signal time or events.",
+    "interpretation": "A 鼓(鼓) (gǔ, \"drum\") is placed in a 楼(樓) (lóu, \"tower\") and used to signal time in ancient China. Drum towers were central to city life, serving as public timekeepers and ceremonial spaces.",
+    "simplification": "楼 is simplified from 樓"
+  },
+  "parts": [
+    {
+      "char": "鼓",
+      "trad": "鼓",
+      "pinyin": "gǔ",
+      "english": "drum"
+    },
+    {
+      "char": "楼",
+      "trad": "樓",
+      "pinyin": "lóu",
+      "english": "tower; building with multiple floors"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "到北京旅游一定要去看看鼓楼(鼓樓)。",
+      "pinyin": "Dào Běijīng lǚyóu yīdìng yào qù kànkàn gǔ lóu.",
+      "english": "When traveling to Beijing, you must visit the Drum Tower."
+    },
+    {
+      "chinese": "傍晚时分(傍晚時分)，鼓楼散发出古老的韵味(鼓樓散發出古老的韻味)。",
+      "pinyin": "Bàngwǎn shí fēn, gǔ lóu sànfā chū gǔlǎo de yùnwèi.",
+      "english": "In the evening, the Drum Tower exudes an ancient charm."
+    }
+  ]
+}

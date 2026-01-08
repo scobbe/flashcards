@@ -1,0 +1,26 @@
+{
+  "simplified": "匚",
+  "traditional": "匚",
+  "pinyin": "fāng",
+  "english": "box",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a box",
+    "interpretation": "The character 匚(fāng, \"box\") is a pictogram representing the shape of an open box, viewed from above. It captures the simple geometric form of a container, emphasizing its open top and defined edges.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他在匚里找到了一枚古钱(他在匚裡找到了一枚古錢)。",
+      "pinyin": "Tā zài fāng lǐ zhǎodàole yī méi gǔ qián.",
+      "english": "He found an old coin in the box."
+    },
+    {
+      "chinese": "古老匚上刻满了神秘符号(古老匚上刻滿了神秘符號)。",
+      "pinyin": "Gǔlǎo fāng shàng kè mǎnle shénmì fúhào.",
+      "english": "The ancient box is engraved with mysterious symbols."
+    }
+  ]
+}

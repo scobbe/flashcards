@@ -1,0 +1,33 @@
+{
+  "simplified": "廣",
+  "traditional": "廣",
+  "pinyin": "guǎng",
+  "english": "shelter",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 广(廣) (guǎng, 'wide') + phonetic 黃(黃) (huáng, 'yellow') -> conveys the idea of a wide space or shelter",
+    "interpretation": "廣(廣) (guǎng, 'wide') represents the concept of an expansive area, while 黃(黃) (huáng) provides the phonetic component; together, they suggest a spacious shelter.",
+    "simplification": "广(廣): The character was simplified from several strokes depicting a house with a roof to its core element, resembling a house, for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "黃",
+      "trad": "黃",
+      "pinyin": "huáng",
+      "english": "yellow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大雨袭来时(大雨襲來時)，那家小店成了廣的庇护所(那家小店成了廣的庇護所)。",
+      "pinyin": "Dà yǔ xí lái shí, nà jiā xiǎo diàn chéng le guǎng de bìhù suǒ.",
+      "english": "When the heavy rain came, that small shop became a shelter."
+    },
+    {
+      "chinese": "大火蔓延之际(大火蔓延之際)，难民纷纷奔向廣的庇护所(難民紛紛奔向廣的庇護所)。",
+      "pinyin": "Dà huǒ màn yán zhī jì, nànmín fēnfēn bēn xiàng guǎng de bìhù suǒ.",
+      "english": "At the outbreak of the fire, refugees rushed towards the shelter."
+    }
+  ]
+}

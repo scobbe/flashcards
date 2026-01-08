@@ -1,0 +1,39 @@
+{
+  "simplified": "饨",
+  "traditional": "飩",
+  "pinyin": "tún",
+  "english": "swallow; round food",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "飠(飠) (shí, \"eat\") + phonetic: 豚(豚) (tún, \"piglet\") = round food -> swallow",
+    "interpretation": "The character 饨(飩) (tún, \"swallow; round food\") combines the semantic component 飠(飠) (shí, \"eat\") with the phonetic component 豚(豚) (tún, \"piglet\"), suggesting the concept of a round edible item, analogous to how piglets round out when well-fed.",
+    "simplification": "Simplified from 飩(飩) by omitting the top component of the radical on the right side, maintaining the sound and meaning."
+  },
+  "parts": [
+    {
+      "char": "飠",
+      "trad": "飠",
+      "pinyin": "shí",
+      "english": "eat"
+    },
+    {
+      "char": "豚",
+      "trad": "豚",
+      "pinyin": "tún",
+      "english": "piglet"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱吃饨(我愛吃飩)。",
+      "pinyin": "Wǒ ài chī tún.",
+      "english": "I love eating wontons."
+    },
+    {
+      "chinese": "他用汤做饨(他用湯做飩)，味道很好(味道很好)。",
+      "pinyin": "Tā yòng tāng zuò tún, wèidào hěn hǎo.",
+      "english": "He makes wontons with soup, and they taste very good."
+    }
+  ]
+}

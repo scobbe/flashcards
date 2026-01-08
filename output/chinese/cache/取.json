@@ -1,0 +1,26 @@
+{
+  "simplified": "取",
+  "traditional": "取",
+  "pinyin": "qǔ",
+  "english": "take",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "耳(耳) (ěr, \"ear\") + 又(又) (yòu, \"hand\") = taking the ear of prey (hunter's rite) -> to take",
+    "interpretation": "40",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他取了钥匙(他取了鑰匙)。",
+      "pinyin": "Tā qǔ le yàoshi.",
+      "english": "He took the key."
+    },
+    {
+      "chinese": "图书管理员从书架上取下图书(圖書管理員從書架上取下圖書)，交给借书的人(交給借書的人)。",
+      "pinyin": "Túshū guǎnlǐyuán cóng shūjià shàng qǔ xià túshū, jiāo gěi jièshū de rén.",
+      "english": "The librarian took a book from the shelf and handed it to the borrower."
+    }
+  ]
+}

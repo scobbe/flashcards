@@ -1,0 +1,44 @@
+{
+  "simplified": "旭",
+  "traditional": "旭",
+  "pinyin": "xù",
+  "english": "rising sun; dawn",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 九(九) (jiǔ, \"nine\") + Semantic: 日(日) (rì, \"sun\") = phonetic and semantic component combined to suggest the notion of the sun rising -> rising sun; dawn",
+    "interpretation": "旭(旭) (xù, \"rising sun\") effectively combines 日(日) (rì, \"sun\") to denote the sun with 九(九) (jiǔ, \"nine\") for phonetic purposes, reflecting the idea of a rising sun and the beginning of the day.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "九",
+      "trad": "九",
+      "pinyin": "jiǔ",
+      "english": "nine"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "晨曦初露之时(晨曦初露之時)，旭日东升(旭日東升)。",
+      "pinyin": "Chénxī chūlù zhī shí, xùrì dōngshēng.",
+      "english": "When the dawn first appears, the rising sun ascends."
+    },
+    {
+      "chinese": "我站在山顶(我站在山頂)，凝望着旭光万丈(凝望著旭光萬丈)。",
+      "pinyin": "Wǒ zhàn zài shāndǐng, níngwàng zhe xùguāng wànzhàng.",
+      "english": "I stand on the mountaintop, gazing at the magnificent sunrise."
+    },
+    {
+      "chinese": "旭日初升映红天边(旭日初升映紅天邊)。",
+      "pinyin": "Xùrì chūshēng yìng hóng tiānbiān.",
+      "english": "The rising sun paints the horizon in red."
+    }
+  ]
+}

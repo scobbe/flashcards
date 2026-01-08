@@ -1,0 +1,26 @@
+{
+  "simplified": "才",
+  "traditional": "才",
+  "pinyin": "cái",
+  "english": "talent; only then",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a sprouting seed or still-growing plant, symbolizing young talent or a beginning",
+    "interpretation": "The character 才(才) (cái, \"talent\") represents a young plant or seedling sprouting from the ground, capturing the idea of potential or beginning which aligns with its meaning related to talent or developing ability.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "完成作业后(完成作業後)，他才开始玩耍(他才開始玩耍)。",
+      "pinyin": "Wánchéng zuòyè hòu, tā cái kāishǐ wánshuǎ.",
+      "english": "Only after finishing his homework did he begin to play."
+    },
+    {
+      "chinese": "这个年轻人有优秀的才(這個年輕人有優秀的才)，令人惊叹(令人驚嘆)。",
+      "pinyin": "Zhège niánqīngrén yǒu yōuxiù de cái, lìng rén jīngtàn.",
+      "english": "This young person has outstanding talent, which amazes people."
+    }
+  ]
+}

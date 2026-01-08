@@ -1,0 +1,26 @@
+{
+  "simplified": "㔾",
+  "traditional": "㔾",
+  "pinyin": "jié",
+  "english": "joint",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a kneeling person to indicate a specific position or joint-like movement.",
+    "interpretation": "The character 㔾(㔾) (jié, \"joint\") visually represents a kneeling figure, symbolizing a position where components of a limb (like joints) come into contact or bend.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "运动员练习跳跃时(運動員練習跳躍時)，他的膝盖㔾承受巨大压力(他的膝蓋節承受巨大壓力)。",
+      "pinyin": "Yùndòngyuán liànxí tiàoyuè shí, tā de xīgài jié chéngshòu jùdà yālì.",
+      "english": "When the athlete practices jumping, the joint in his knee bears tremendous pressure."
+    },
+    {
+      "chinese": "机器人关节的㔾设计精密(機器人關節的節設計精密)，确保动作流畅(確保動作流暢)。",
+      "pinyin": "Jīqìrén guānjié de jié shèjì jīngmì, quèbǎo dòngzuò liúchàng.",
+      "english": "The joint in the robot's mechanism is precisely designed to ensure smooth movements."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "电影明星",
+  "traditional": "電影明星",
+  "pinyin": "diànyǐng míngxīng",
+  "english": "movie star",
+  "etymology": {
+    "type": "compound word",
+    "description": "电(電) (diàn, \"electric\") + 影(影) (yǐng, \"shadow\" or \"film\") = 电影(電影) (diànyǐng, \"movie\"); 明(明) (míng, \"bright\" or \"famous\") + 星(星) (xīng, \"star\") = 明星(明星) (míngxīng, \"star\" or \"celebrity\")",
+    "interpretation": "电影(電影) (diànyǐng, \"movie\") literally refers to a film made with electrical technology, while 明星(明星) (míngxīng, \"star\") denotes someone famous and shining. A 电影明星(電影明星) is a renowned and celebrated individual in the world of cinema.",
+    "simplification": "電; 影; 明; 星"
+  },
+  "parts": [
+    {
+      "char": "电影",
+      "trad": "電影",
+      "pinyin": "diànyǐng",
+      "english": "movie; film"
+    },
+    {
+      "char": "明星",
+      "trad": "明星",
+      "pinyin": "míngxīng",
+      "english": "star; celebrity"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这位电影明星热爱表演(這位電影明星熱愛表演)。",
+      "pinyin": "Zhè wèi diànyǐng míngxīng rè'ài biǎoyǎn.",
+      "english": "This movie star loves acting."
+    },
+    {
+      "chinese": "电影明星走上红毯(電影明星走上紅毯)，接受观众热烈掌声(接受觀眾熱烈掌聲)。",
+      "pinyin": "Diànyǐng míngxīng zǒu shàng hóng tǎn, jiēshòu guānzhòng rèliè zhǎngshēng.",
+      "english": "The movie star walked the red carpet and received enthusiastic applause from the audience."
+    },
+    {
+      "chinese": "许多年轻人梦想成为电影明星(許多年輕人夢想成為電影明星)。",
+      "pinyin": "Xǔduō niánqīngrén mèngxiǎng chéngwéi diànyǐng míngxīng.",
+      "english": "Many young people dream of becoming movie stars."
+    }
+  ]
+}

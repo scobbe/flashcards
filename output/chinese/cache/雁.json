@@ -1,0 +1,45 @@
+{
+  "simplified": "雁",
+  "traditional": "雁",
+  "pinyin": "yàn",
+  "english": "wild goose",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 厂(厂) (chǎng, \"cliff\") + Semantic: 人(人) (rén, \"person\") + Semantic: 隹(隹) (zhuī, \"short-tailed bird\") = combination of elements suggesting sound and meaning of 'wild goose'",
+    "interpretation": "The character 雁(yàn, 'wild goose') uses 厂(厂) (chǎng) as a phonetic component, suggesting sounds related to it, while 人(人) (rén) and 隹(隹) (zhuī) semantically strengthen the imagery of a bird in a natural setting, depicting a wild goose.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "cliff"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "秋风送爽(秋風送爽)，大雁南飞(大雁南飛)。",
+      "pinyin": "qiū fēng sòng shuǎng, dà yàn nán fēi.",
+      "english": "When the autumn breeze blows, wild geese fly south."
+    },
+    {
+      "chinese": "夜色降临(夜色降臨)，孤雁远鸣(孤雁遠鳴)。",
+      "pinyin": "yè sè jiàng lín, gū yàn yuǎn míng.",
+      "english": "As night falls, a lone wild goose cries in the distance."
+    }
+  ]
+}

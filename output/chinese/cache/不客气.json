@@ -1,0 +1,45 @@
+{
+  "simplified": "不客气",
+  "traditional": "不客氣",
+  "pinyin": "bú kèqi",
+  "english": "you’re welcome; don’t mention it",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 客(客) (kè, \"guest\") + 气(氣) (qì, \"manner; air\") = \"you're welcome\" or \"don't mention it\"",
+    "interpretation": "The phrase 不客气(不客氣) (bú kèqì, \"you're welcome\") is used as a polite response to 'thank you,' emphasizing that no formalities or special courtesy (客气) is necessary. Originally, the characters 客(客) (kè, \"guest\") and 气(氣) (qì, \"manner\") together suggest the idea of showing etiquette or hospitality as one would to a guest. By adding 不(不) (bù, \"not\"), it conveys the relaxed, friendly sense that there's no need for the person to feel like a guest engaging in formalities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "客",
+      "trad": "客",
+      "pinyin": "kè",
+      "english": "guest"
+    },
+    {
+      "char": "气",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "manner; air"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "谢谢你的帮助(謝謝你的幫助)，不客气(不客氣)。",
+      "pinyin": "Xièxiè nǐ de bāngzhù，bú kèqi。",
+      "english": "Thank you for your help, you're welcome."
+    },
+    {
+      "chinese": "有困难时(有困難時)，你可以说不客气(你可以說不客氣)。",
+      "pinyin": "Yǒu kùnnán shí，nǐ kěyǐ shuō bú kèqi。",
+      "english": "When in difficulty, you can say 'you're welcome'."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "切",
+  "traditional": "切",
+  "pinyin": "qiè",
+  "english": "all; every; everything; to cut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 七(七) (qī, 'seven') + Semantic: 刀(刀) (dāo, 'knife') = sharp object -> to cut",
+    "interpretation": "The character 切(qiè, 'to cut') combines the sound component 七(qī, 'seven') with the semantic component 刀(dāo, 'knife'). This implies the action of cutting with a sharp tool.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "七",
+      "trad": "七",
+      "pinyin": "qī",
+      "english": "seven"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "厨房的刀非常锋利(廚房的刀非常鋒利)，切菜时请小心(切菜時請小心)。",
+      "pinyin": "chúfáng de dāo fēicháng fēnglì, qiè cài shí qǐng xiǎoxīn.",
+      "english": "The kitchen knife is very sharp, so be careful when cutting vegetables."
+    },
+    {
+      "chinese": "一切问题都能解决(一切問題都能解決)。",
+      "pinyin": "yīqiè wèntí dōu néng jiějué.",
+      "english": "Every problem can be solved."
+    }
+  ]
+}

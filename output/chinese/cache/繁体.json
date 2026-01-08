@@ -1,0 +1,44 @@
+{
+  "simplified": "繁体",
+  "traditional": "繁體",
+  "pinyin": "fántǐ",
+  "english": "traditional Chinese characters",
+  "etymology": {
+    "type": "compound word",
+    "description": "繁(繁) (fán, \"complex or numerous\") + 體(體) (tǐ, \"body; style\") = style of complex characters, referring to traditional Chinese characters",
+    "interpretation": "繁體(繁體) (fántǐ, \"traditional characters\") refers to the traditional form of Chinese characters, which are often more complex in structure than simplified characters. These characters preserve more of the original strokes and forms that have been used historically across Chinese literature and documents.",
+    "simplification": "繁体→繁體"
+  },
+  "parts": [
+    {
+      "char": "繁",
+      "trad": "繁",
+      "pinyin": "fán",
+      "english": "complex; numerous"
+    },
+    {
+      "char": "体",
+      "trad": "體",
+      "pinyin": "tǐ",
+      "english": "body; style; form"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "很多人认为繁体更有韵味(很多人認為繁體更有韻味)。",
+      "pinyin": "Hěn duō rén rènwéi fántǐ gèng yǒu yùnwèi.",
+      "english": "Many people think that traditional Chinese characters have more charm."
+    },
+    {
+      "chinese": "书法作品常采用繁体书写(書法作品常採用繁體書寫)。",
+      "pinyin": "Shūfǎ zuòpǐn cháng cǎiyòng fántǐ shūxiě.",
+      "english": "Calligraphy works are often written in traditional Chinese characters."
+    },
+    {
+      "chinese": "老一辈喜爱繁体字(老一輩喜愛繁體字)。",
+      "pinyin": "Lǎo yī bèi xǐ'ài fántǐ zì.",
+      "english": "The older generation loves traditional Chinese characters."
+    }
+  ]
+}

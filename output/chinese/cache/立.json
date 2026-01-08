@@ -1,0 +1,31 @@
+{
+  "simplified": "立",
+  "traditional": "立",
+  "pinyin": "lì",
+  "english": "stand",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person standing on the ground",
+    "interpretation": "The character 立(立) (lì, 'stand') intuitively represents the concept of standing by depicting a person in an upright position, emphasizing the posture.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小王立在窗前(小王立在窗前)，等待朋友到来(等待朋友到來)。",
+      "pinyin": "Xiǎo Wáng lì zài chuāng qián, děngdài péngyǒu dàolái.",
+      "english": "Xiao Wang stands at the window, waiting for his friend to arrive."
+    },
+    {
+      "chinese": "园中雕像静立于石台上(園中雕像靜立於石臺上)。",
+      "pinyin": "Yuán zhōng diāoxiàng jìng lì yú shí tái shàng.",
+      "english": "The statue in the garden stands quietly on the stone platform."
+    },
+    {
+      "chinese": "士兵集合后(士兵集合後)，整齐地立定阵型(整齊地立定陣型)。",
+      "pinyin": "Shìbīng jíhé hòu, zhěngqí de lì dìng zhènxíng.",
+      "english": "After the soldiers assemble, they stand in formation neatly."
+    }
+  ]
+}

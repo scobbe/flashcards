@@ -1,0 +1,26 @@
+{
+  "simplified": "勹",
+  "traditional": "勹",
+  "pinyin": "bāo",
+  "english": "wrap",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person bending over",
+    "interpretation": "The character 勹(bāo, \"wrap\") illustrates a person bending over, signifying an action of encircling or enclosing, which aligns well with meanings related to wrapping or containing.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈用柔软的布包住易碎品(媽媽用柔軟的布包住易碎品)。",
+      "pinyin": "Māmā yòng róuruǎn de bù bāo zhù yì suìpǐn.",
+      "english": "Mother wraps fragile items with soft cloth."
+    },
+    {
+      "chinese": "他熟练地把礼物包成漂亮的形状(他熟練地把禮物包成漂亮的形狀)，让人感受到温情(讓人感受到溫情)。",
+      "pinyin": "Tā shúliàn de bǎ lǐwù bāo chéng piàoliang de xíngzhuàng, ràng rén gǎnshòu dào wēnqíng.",
+      "english": "He skillfully wraps the gift into a beautiful shape, letting people feel warmth."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "⺼",
+  "traditional": "肉",
+  "pinyin": "ròu",
+  "english": "meat",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts ribs of an animal's torso -> physical representation of a slice of meat",
+    "interpretation": "The character 肉(肉) (ròu, 'meat') visually represents the structure of ribs or flesh, making its meaning clear and direct in relation to its shape. Over time, its form was stylized into other component shapes like 月 when combined with phonetic elements.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃肉(我喜歡吃肉)。",
+      "pinyin": "Wǒ xǐhuān chī ròu.",
+      "english": "I like to eat meat."
+    },
+    {
+      "chinese": "妈妈做了一道红烧肉(媽媽做了一道紅燒肉)，味道鲜美无比(味道鮮美無比)。",
+      "pinyin": "Māmā zuòle yīdào hóngshāo ròu, wèidào xiānměi wúbǐ.",
+      "english": "Mom prepared a dish of braised meat, and its flavor is extraordinarily delicious."
+    },
+    {
+      "chinese": "聚会时，我点了一份烤肉(聚會時，我點了一份烤肉)，大家都赞不绝口(大家都讚不絕口)。",
+      "pinyin": "Jùhuì shí, wǒ diǎnle yī fèn kǎo ròu, dàjiā dōu zàn bù jué kǒu.",
+      "english": "During the party, I ordered a portion of grilled meat, and everyone couldn't stop praising it."
+    }
+  ]
+}

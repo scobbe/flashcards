@@ -1,0 +1,44 @@
+{
+  "simplified": "蛋",
+  "traditional": "蛋",
+  "pinyin": "dàn",
+  "english": "egg; oval; testicle; coward",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 延(延) (yán, \"prolong\") + semantic: 虫(虫) (chóng, \"snake, insect\") -> originally 蜑 -> 延 simplified to 疋 -> 蛋 (\"egg\")",
+    "interpretation": "The character 蛋 refers to an egg, with the semantic component 虫(虫) (chóng, \"snake, insect\") indicating snake eggs, reinforced by the phonetic 延(延) (yán, \"prolong\"). The character 蜑 was the original non-contracted form, later simplified to 蛋 with 延 becoming 疋. This reflects the later coinage of the character, indicating it wasn't part of very early Chinese script.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "延",
+      "trad": "延",
+      "pinyin": "yán",
+      "english": "prolong"
+    },
+    {
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "chóng",
+      "english": "snake, insect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "早餐的时候(早餐的時候)，我吃了一个蛋(我吃了一個蛋)。",
+      "pinyin": "Zǎocān de shíhòu, wǒ chīle yīgè dàn.",
+      "english": "At breakfast, I ate an egg."
+    },
+    {
+      "chinese": "运动员因意外受伤(運動員因意外受傷)，他的蛋受了伤(他的蛋受了傷)。",
+      "pinyin": "Yùndòngyuán yīn yìwài shòushāng, tā de dàn shòule shāng.",
+      "english": "The athlete got injured in an accident, and his testicle was hurt."
+    },
+    {
+      "chinese": "那个常常临阵退缩的人被叫做蛋(那個常常臨陣退縮的人被叫做蛋)。",
+      "pinyin": "Nàgè chángcháng línzhèn tuìsuō de rén bèi jiào zuò dàn.",
+      "english": "That person who always shrinks in the face of danger is called a coward."
+    }
+  ]
+}

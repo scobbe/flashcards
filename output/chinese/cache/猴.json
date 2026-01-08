@@ -1,0 +1,39 @@
+{
+  "simplified": "猴",
+  "traditional": "猴",
+  "pinyin": "hóu",
+  "english": "monkey",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 犭(犭) (quǎn, \"dog\") + phonetic 侯(侯) (hóu, \"marquis\") = animal phoneticized by 侯 -> monkey",
+    "interpretation": "猴(猴) (hóu, \"monkey\") combines 犭(犭) (quǎn, \"dog\") as a radical indicating an animal, with 侯(侯) (hóu, \"marquis\") as a phonetic element that provides the sound. This forms the character for monkey by linking the concept of an animal with the sound similar to '侯'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犭",
+      "trad": "犭",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "侯",
+      "trad": "侯",
+      "pinyin": "hóu",
+      "english": "marquis"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "一只猴爬上高高的树(一隻猴爬上高高的樹)。",
+      "pinyin": "Yī zhī hóu pá shàng gāogāo de shù.",
+      "english": "A monkey climbs up the tall tree."
+    },
+    {
+      "chinese": "猴在森林中跳跃(猴在森林中跳躍)，寻找美味的果子(尋找美味的果子)。",
+      "pinyin": "Hóu zài sēnlín zhōng tiàoyuè, xúnzhǎo měiwèi de guǒzi.",
+      "english": "The monkey leaps in the forest, searching for delicious fruits."
+    }
+  ]
+}

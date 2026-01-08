@@ -1,0 +1,31 @@
+{
+  "simplified": "了",
+  "traditional": "了",
+  "pinyin": "liǎo",
+  "english": "end; finish; able to; understand",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a person kneeling or a child -> represents finishing or ending by representing completion of an action -> also interpreted as understanding or ability through context",
+    "interpretation": "The character 了(了) (liǎo, 'end; finish; able to; understand') visually resembles a person in a kneeling position, symbolizing completion or conclusion. This association has extended over time to include meanings related to capability and understanding.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "会议结束了(會議結束了)。",
+      "pinyin": "Huìyì jiéshù liǎo.",
+      "english": "The meeting has ended."
+    },
+    {
+      "chinese": "他听懂了我的建议(他聽懂了我的建議)。",
+      "pinyin": "Tā tīng dǒng liǎo wǒ de jiànyì.",
+      "english": "He understood my suggestion."
+    },
+    {
+      "chinese": "我做完作业了(我做完作業了)，就去休息了(就去休息了)。",
+      "pinyin": "Wǒ zuò wán zuòyè liǎo, jiù qù xiūxí liǎo.",
+      "english": "I finished my homework, and then I went to rest."
+    }
+  ]
+}

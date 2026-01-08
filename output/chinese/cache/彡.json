@@ -1,0 +1,26 @@
+{
+  "simplified": "彡",
+  "traditional": "彡",
+  "pinyin": "shān",
+  "english": "rays",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts three strands of hair -> used to indicate three light rays in certain contexts",
+    "interpretation": "彡(shān, \"rays\") originally depicted strands of hair but also came to represent light rays, reflecting a change in symbolic meaning over time. Its use as a representation of 'ornament' and in characters like 昜 and 參 highlights its versatility in indicating rays or decorative elements.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天空洒下金色的彡(天空灑下金色的彡)，大地迎来温暖(大地迎來溫暖)。",
+      "pinyin": "Tiānkōng sǎ xià jīnsè de shān, dàdì yíng lái wēnnuǎn.",
+      "english": "The sky showers golden rays, and the earth welcomes warmth."
+    },
+    {
+      "chinese": "晨曦中的彡闪耀着希望(晨曦中的彡閃耀著希望)。",
+      "pinyin": "Chénxī zhōng de shān shǎnyào zhe xīwàng.",
+      "english": "The rays in the morning light shine with hope."
+    }
+  ]
+}

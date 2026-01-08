@@ -1,0 +1,26 @@
+{
+  "simplified": "戈",
+  "traditional": "戈",
+  "pinyin": "gē",
+  "english": "spear",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a spear or halberd, a type of weapon",
+    "interpretation": "The character 戈(gē, 'spear') visually represents a spear or halberd, highlighting its function and importance as a weapon in ancient Chinese warfare.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代战士持戈(古代戰士持戈)，勇闯敌营(勇闖敵營)。",
+      "pinyin": "Gǔdài zhànshì chí gē, yǒng chuǎng dí yíng.",
+      "english": "Ancient warriors wielded the spear, bravely attacking the enemy camp."
+    },
+    {
+      "chinese": "博物馆珍藏古兵器(博物館珍藏古兵器)，展厅陈列戈(展廳陳列戈)。",
+      "pinyin": "Bówùguǎn zhēncáng gǔ bīngqì, zhǎntīng chénliè gē.",
+      "english": "The museum preserves ancient weapons, and the exhibition hall displays a spear."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "乌鲁木齐市",
+  "traditional": "烏魯木齊市",
+  "pinyin": "Wūlǔmùqí Shì",
+  "english": "Urumqi (capital of Xinjiang)",
+  "etymology": {
+    "type": "compound word",
+    "description": "乌鲁木齐(烏魯木齊) (Wūlǔmùqí, \"Urumqi\") + 市(市) (shì, \"city\") = Urumqi city",
+    "interpretation": "乌鲁木齐(烏魯木齊) (Wūlǔmùqí, \"Urumqi\") is the name of the capital city of the Xinjiang Uygur Autonomous Region in China. The term 市(市) (shì, \"city\") denotes it as an urban area. Urumqi is historically significant as a major hub on the northern route of the ancient Silk Road.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "乌鲁木齐",
+      "trad": "烏魯木齊",
+      "pinyin": "Wūlǔmùqí",
+      "english": "Urumqi"
+    },
+    {
+      "char": "市",
+      "trad": "市",
+      "pinyin": "shì",
+      "english": "city"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "乌鲁木齐市魅力无限(烏魯木齊市魅力無限)。",
+      "pinyin": "Wūlǔmùqí Shì mèilì wúxiàn.",
+      "english": "Urumqi has endless charm."
+    },
+    {
+      "chinese": "乌鲁木齐市位于新疆中部(烏魯木齊市位於新疆中部)，经济发展迅速(經濟發展迅速)。",
+      "pinyin": "Wūlǔmùqí Shì wèiyú Xīnjiāng zhōngbù, jīngjì fāzhǎn xùnsù.",
+      "english": "Urumqi is located in the central part of Xinjiang, and its economy is developing rapidly."
+    },
+    {
+      "chinese": "乌鲁木齐市交通便利(烏魯木齊市交通便利)，文化活动丰富(文化活動豐富)。",
+      "pinyin": "Wūlǔmùqí Shì jiāotōng biànlì, wénhuà huódòng fēngfù.",
+      "english": "Urumqi has convenient transportation, and cultural activities are abundant."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "尞",
+  "traditional": "尞",
+  "pinyin": "liáo",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "䒑(䒑) (cǎo, \"grass\") + 尞(尞) (liáo, phonetic) = phonetic component for words related to burning or fire",
+    "interpretation": "The character 尞(liáo) combines the grass radical 䒑(䒑) to connect to concepts related to burning or fire, with 尞(láo) as the phonetic component to guide pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "䒑",
+      "trad": "䒑",
+      "pinyin": "cǎo",
+      "english": "grass"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他在古文中遇见尞这个字(他在古文中遇見尞這個字)，拼读为liáo且含义独特(拼讀為liáo且含義獨特)。",
+      "pinyin": "Tā zài gǔwén zhōng yùjiàn liáo zhège zì, pīn dú wéi liáo qiě hányì dú tè.",
+      "english": "He encountered the character 尞 in classical texts, which is pronounced liáo and has a unique connotation."
+    },
+    {
+      "chinese": "尞字在古籍中常作为音旁使用(尞字在古籍中常作為音旁使用)。",
+      "pinyin": "Liáo zì zài gǔjí zhōng cháng zuòwéi yīn páng shǐyòng.",
+      "english": "The character 尞 is often used as a phonetic component in ancient texts."
+    }
+  ]
+}

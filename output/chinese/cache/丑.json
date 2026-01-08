@@ -1,0 +1,38 @@
+{
+  "simplified": "丑",
+  "traditional": "丑",
+  "pinyin": "chǒu",
+  "english": "ugly",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand with emphasizing claws or fingernails -> borrowed phonetically to represent an earthly branch -> later developed meaning 'ugly' as simplified for 醜(醜) (chǒu, 'ugly').",
+    "interpretation": "Originally representing a hand with claws, 丑(chǒu) was phonetically borrowed for unrelated meanings like 'earthly branch' and eventually adopted the meaning 'ugly' from 醜(醜) (chǒu, 'ugly').",
+    "simplification": "醜(醜) was simplified to 丑(chǒu), adopting the latter for its phonetic similarity."
+  },
+  "parts": [
+    {
+      "char": "醜",
+      "trad": "醜",
+      "pinyin": "chǒu",
+      "english": "ugly"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这幅画看起来很丑(這幅畫看起來很丑)。",
+      "pinyin": "Zhè fú huà kàn qǐ lái hěn chǒu.",
+      "english": "This painting looks very ugly."
+    },
+    {
+      "chinese": "那个雕像做得很丑(那個雕像做得很丑)，引来路人的议论(引來路人的議論)。",
+      "pinyin": "Nà ge diāo xiàng zuò de hěn chǒu, yǐn lái lù rén de yì lùn.",
+      "english": "That statue is made very ugly, attracting the criticism of passersby."
+    },
+    {
+      "chinese": "天气炎热时(天氣炎熱時)，穿这件丑衬衫更让人不舒服(穿這件醜襯衫更讓人不舒服)。",
+      "pinyin": "Tiān qì yán rè shí, chuān zhè jiàn chǒu chèn shān gèng ràng rén bù shū fu.",
+      "english": "When the weather is hot, wearing this ugly shirt makes people even more uncomfortable."
+    }
+  ]
+}

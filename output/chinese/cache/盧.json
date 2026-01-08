@@ -1,0 +1,39 @@
+{
+  "simplified": "盧",
+  "traditional": "盧",
+  "pinyin": "lú",
+  "english": "black",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 虍(虍) (hū) + Semantic: 皿(皿) (mǐn, \"vessel\") = container or vessel with dark coloring -> black",
+    "interpretation": "The character 盧(盧) (lú, \"black\") combines an element suggesting a container with 虍(虍) (hū), often related to pigmentation. The use of 皿(皿) (mǐn, \"vessel\") here suggests a vessel with dark coloring, aligning with the definition as black.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "虍",
+      "trad": "虍",
+      "pinyin": "hū",
+      "english": "\"tiger stripes\""
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "\"vessel\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他穿着盧色的外套(他穿著盧色的外套)，在冬日显得格外温暖(在冬日顯得格外溫暖)。",
+      "pinyin": "Tā chuānzhuó lú sè de wàitào, zài dōngrì xiǎnde géwài wēnnuǎn.",
+      "english": "He is wearing a black coat, making him look exceptionally warm in winter."
+    },
+    {
+      "chinese": "夜空挂满盧云(夜空掛滿盧雲)，仿佛一幅古画(仿佛一幅古畫)。",
+      "pinyin": "Yèkōng guà mǎn lú yún, fǎngfú yī fú gǔhuà.",
+      "english": "The night sky is filled with black clouds, resembling an ancient painting."
+    }
+  ]
+}

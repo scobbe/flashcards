@@ -1,0 +1,39 @@
+{
+  "simplified": "邠",
+  "traditional": "邠",
+  "pinyin": "Bīn",
+  "english": "Bin (ancient place name)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 分(分) (fēn, \"divide\") + semantic 邑(邑) (yì, \"city\") = sound based on 分(分) + meaning of city -> ancient place name",
+    "interpretation": "The character 邠(bīn, \"Bin\") combines the phonetic element 分(fēn, \"divide\") to suggest its sound and the semantic element 邑(yì, \"city\") to indicate it's a place name, reflecting its use as the name of an ancient city.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
+    },
+    {
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "city"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "学者研究邠(學者研究邠)，探寻古地风貌(探尋古地風貌)。",
+      "pinyin": "Xuézhě yánjiū Bīn, tànxún gǔ dì fēngmào.",
+      "english": "Scholars study Bin, exploring the ancient landscape."
+    },
+    {
+      "chinese": "考古学家在邠(考古學家在邠)发现了珍贵遗迹(發現了珍貴遺蹟)。",
+      "pinyin": "Kǎogǔ xuéjiā zài Bīn fāxiàn le zhēnguì yíjì.",
+      "english": "Archaeologists discovered precious relics in Bin."
+    }
+  ]
+}

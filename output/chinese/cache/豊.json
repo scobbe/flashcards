@@ -1,0 +1,45 @@
+{
+  "simplified": "豊",
+  "traditional": "豊",
+  "pinyin": "lǐ",
+  "english": "abundant",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Ideogrammic: 壴(壴) (zhù, \"drum\") + 玨(玨) (jué, \"strings of jade\") = ceremony -> 豆(豆) (dòu, \"vessel\") added in bronze inscriptions -> interpreted as 豆 + 壴",
+    "interpretation": "The character 豊(lǐ, \"abundant\") originally depicted a ceremonial context with a drum and jade, linking to abundance. The character was later altered in bronze scripts, and its association with 豐(fēng, \"abundant\") added to its usage as an abundant variant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
+    },
+    {
+      "char": "玨",
+      "trad": "玨",
+      "pinyin": "jué",
+      "english": "strings of jade"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "vessel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今年稻田长势豊茂(今年稻田長勢豐茂)。",
+      "pinyin": "Jīnnián dàotián zhǎngshì lǐmào.",
+      "english": "This year's rice fields are lush and abundant."
+    },
+    {
+      "chinese": "这片土地充满豊饒(這片土地充滿豐饒)。",
+      "pinyin": "Zhè piàn tǔdì chōngmǎn lǐráo.",
+      "english": "This land is filled with bountiful richness."
+    }
+  ]
+}

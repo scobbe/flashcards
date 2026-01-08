@@ -1,0 +1,31 @@
+{
+  "simplified": "串",
+  "traditional": "串",
+  "pinyin": "chuàn",
+  "english": "string together; skewer",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts objects strung together",
+    "interpretation": "The character 串(chuàn) visually represents the concept of objects strung together, often like beads or skewers. This straightforward pictographic representation effectively conveys its meaning as 'to string together' or 'skewer'.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用铁签串起葡萄(他用鐵簽串起葡萄)，准备烧烤(準備燒烤)。",
+      "pinyin": "Tā yòng tiě qiān chuàn qǐ pútao, zhǔnbèi shāokǎo.",
+      "english": "He skewered the grapes with an iron skewer, preparing for a barbecue."
+    },
+    {
+      "chinese": "她把各色小灯笼串成一条彩带(她把各色小燈籠串成一條彩帶)，装点夜宵(裝點夜宵)。",
+      "pinyin": "Tā bǎ gèsè xiǎo dēnglóng chuàn chéng yī tiáo cǎidài, zhuāngdiǎn yèxiāo.",
+      "english": "She strung various small lanterns together into a colorful ribbon, decorating the night market."
+    },
+    {
+      "chinese": "老板让工人把散乱的零件串起来(老板讓工人把散亂的零件串起來)，以便机器组装(以便機器組裝)。",
+      "pinyin": "Lǎobǎn ràng gōngrén bǎ sǎnluàn de língjiàn chuàn qǐlái, yǐbiàn jīqì zǔzhuāng.",
+      "english": "The boss had the workers string together the scattered parts, so that the machine could be assembled."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "武昌",
+  "traditional": "武昌",
+  "pinyin": "wǔchāng",
+  "english": "military; prosperous",
+  "etymology": {
+    "type": "compound word",
+    "description": "武(武) (wǔ, \"military; martial\"), 昌(昌) (chāng, \"prosperous; flourishing\")",
+    "interpretation": "武昌 (wǔchāng) is the name of a district in Wuhan, China, known for its historical significance as a site of revolutionary activity. The name suggests a place where martial or military strength and prosperity come together, perhaps reflecting the area's strategic and economic importance historically.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "武",
+      "trad": "武",
+      "pinyin": "wǔ",
+      "english": "military; martial"
+    },
+    {
+      "char": "昌",
+      "trad": "昌",
+      "pinyin": "chāng",
+      "english": "prosperous; flourishing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "武昌展现繁荣(武昌展現繁榮)。",
+      "pinyin": "wǔchāng zhǎnxiàn fánróng",
+      "english": "Wuchang displays prosperity."
+    },
+    {
+      "chinese": "我参观武昌(我參觀武昌)，感受那里的军魂(感受那裡的軍魂)。",
+      "pinyin": "wǒ cānguān wǔchāng, gǎnshòu nàlǐ de jūnhún",
+      "english": "I visited Wuchang and felt the military spirit there."
+    }
+  ]
+}

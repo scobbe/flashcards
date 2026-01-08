@@ -1,0 +1,39 @@
+{
+  "simplified": "皇",
+  "traditional": "皇",
+  "pinyin": "huáng",
+  "english": "imperial; royal",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "白(白) (bái, \"white\") + 王(王) (wáng, \"king\") = resplendent king -> imperial",
+    "interpretation": "The character 皇(皇) (huáng) combines 白(白) (bái, \"white\") for brightness or purity with 王(王) (wáng, \"king\"), emphasizing the resplendent and authoritative nature associated with imperial or royal status.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    },
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是皇家的风格(這是皇家的風格)。",
+      "pinyin": "Zhè shì huángjiā de fēnggé.",
+      "english": "This is an imperial style."
+    },
+    {
+      "chinese": "皇室成员享受特殊待遇(皇室成員享受特殊待遇)，国家尊崇他们(國家尊崇他們)。",
+      "pinyin": "Huángshì chéngyuán xiǎngshòu tèshū dàiyù, guójiā zūnchóng tāmén.",
+      "english": "Royal family members enjoy special privileges; the nation respects them."
+    }
+  ]
+}

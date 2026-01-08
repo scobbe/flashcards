@@ -1,0 +1,44 @@
+{
+  "simplified": "侨",
+  "traditional": "僑",
+  "pinyin": "qiáo",
+  "english": "to live abroad",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 喬(乔) (qiáo, \"tall\") = person living abroad, tall metaphorically representing distance -> to live abroad",
+    "interpretation": "The character 侨(僑) (qiáo) combines 亻(亻) (rén, \"person\") indicating that it relates to people, and 喬(乔) (qiáo, \"tall\") as the phonetic component, suggesting the idea of living afar or abroad. The character evokes the image of a person living at a distance.",
+    "simplification": "The simplification involves replacing the phonetic component 喬(乔) (qiáo, \"tall\") with its simplified form 乔(乔) (qiáo), simplifying the character structure while retaining its phonetic and semantic essence."
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "喬",
+      "trad": "乔",
+      "pinyin": "qiáo",
+      "english": "tall, high"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他选择侨居欧美(他選擇僑居歐美)。",
+      "pinyin": "Tā xuǎnzé qiáo jū Ōuměi.",
+      "english": "He chose to live abroad in Europe and America."
+    },
+    {
+      "chinese": "许多华侨在海外创业(許多華僑在海外創業)，为家乡带来投资(為家鄉帶來投資)。",
+      "pinyin": "Xǔduō Huáqiáo zài hǎiwài chuàngyè, wèi jiāxiāng dài lái tóuzī.",
+      "english": "Many overseas Chinese start businesses abroad, bringing investments to their hometown."
+    },
+    {
+      "chinese": "他的家族曾侨居东南亚(他的家族曾僑居東南亞)。",
+      "pinyin": "Tā de jiāzú céng qiáo jū Dōngnán Yà.",
+      "english": "His family once lived abroad in Southeast Asia."
+    }
+  ]
+}

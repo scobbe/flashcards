@@ -2,30 +2,32 @@
   "simplified": "言",
   "traditional": "言",
   "pinyin": "yán",
-  "english": "words",
+  "english": "speech",
   "etymology": {
-    "type": "ideogram",
-    "description": "舌(舌) (shé, 'tongue') with added horizontal stroke -> indicates movement of the tongue -> modern form with additional stroke -> speech",
-    "interpretation": "The character 言(yán, 'words') visually represents the concept of speech by depicting the movement of the tongue, suggesting the act of speaking.",
+    "type": "Ideogram",
+    "description": "舌(舌) (shé, \"tongue\") with added horizontal stroke -> indicates movement of tongue for speech -> modern form adds another stroke on top",
+    "interpretation": "The character 言(yán, \"speech\") visually emphasizes the movement of the tongue, illustrating how speech is produced through tongue actions. The additional stroke and evolution to a more abstract form highlight the facet of communication.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用寥寥几言(他用寥寥幾言)，击中了问题的要害(擊中了問題的要害)。",
-      "pinyin": "tā yòng liáo liáo jǐ yán jī zhòng le wèn tí de yào hài",
-      "english": "He hit the core of the issue with only a few words."
+      "chinese": "他的言令人信服(他的言令人信服)。",
+      "pinyin": "Tā de yán lìng rén xìn fú.",
+      "english": "His speech is convincing."
     },
     {
-      "chinese": "言出必行(言出必行)。",
-      "pinyin": "yán chū bì xíng",
-      "english": "When he speaks, his words are always followed by actions."
-    },
-    {
-      "chinese": "他说话时总是考虑周到(他說話時總是考慮周到)，每一句言辞都充满智慧(每一句言辭都充滿智慧)。",
-      "pinyin": "tā shuō huà shí zǒng shì kǎo lǜ zhōu dào, měi yī jù yán cí dōu chōng mǎn zhì huì",
-      "english": "When he speaks, he always considers things carefully; every word he utters is full of wisdom."
+      "chinese": "他喜欢研究古人的言论(他喜歡研究古人的言論)，并整理成册(並整理成冊)。",
+      "pinyin": "Tā xǐhuān yánjiū gǔ rén de yánlùn, bìng zhěnglǐ chéng cè.",
+      "english": "He likes to study the speeches of ancient people and compile them into volumes."
     }
   ]
 }

@@ -1,0 +1,13 @@
+[台]
+Phono-semantic compound ( 形聲 / 形声 , OC *l̥ʰɯː, *l'ɯː, *l'ɯː, *lɯ ): phonetic 㠯 + semantic 口 ( “ mouth ” ) .
+An alternate variant of 㠯 (modern form: 以 ( yǐ ) ) in Chinese bronze inscriptions .
+
+[臺]
+Ideogrammic compound ( 會意 / 会意 ): abbreviated 喬 + 室 . Its exact structure changes depending on region and time period, but for most of its existence it has been a phono-semantic compound ( 形聲 / 形声 ). The phonetic has always been 之 ( OC *tjɯ ) or 止 ( OC *kjɯʔ ).
+Shuowen Jiezi interprets it as ideogrammic compound ( 會意 / 会意 ): 之 ( “ foot ” ) + abbreviated 高 ( “ high ” ) + 室 ( “ building ” ) – a watch tower. The Shuowen Jiezi Zhu considers 㞢 ( *tjɯ ) to be the sound component.
+
+[檯]
+Phono-semantic compound ( 形聲 / 形声 , OC *dɯː ): semantic 木 + phonetic 臺 ( OC *dɯː ) .
+
+[枱]
+Phono-semantic compound ( 形聲 / 形声 ): semantic 木 ( “ wood ” ) + phonetic 台 ( OC *l̥ʰɯː, *l'ɯː, *l'ɯː, *lɯ ) .

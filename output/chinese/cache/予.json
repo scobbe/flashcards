@@ -1,0 +1,39 @@
+{
+  "simplified": "予",
+  "traditional": "予",
+  "pinyin": "yǔ",
+  "english": "give",
+  "etymology": {
+    "type": "Jiajie",
+    "description": "Originally written as 呂(呂) (lǚ, \"spine\") for phonetic purposes -> borrowed for \"give\" and \"I\" -> distinguishing 亅(亅) (jué, \"hook\") added at the bottom -> stylized to final form 予(予) (yǔ, \"give\")",
+    "interpretation": "The character 予(予) (yǔ, \"give\") was adapted from 呂(呂) (lǚ, \"spine\") due to phonetic similarity. The addition of 亅(亅) (jué, \"hook\") helped set it apart visually, leading to the modern form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "spine"
+    },
+    {
+      "char": "亅",
+      "trad": "亅",
+      "pinyin": "jué",
+      "english": "hook"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他予我一本书(他予我一本書)。",
+      "pinyin": "Tā yǔ wǒ yī běn shū.",
+      "english": "He gave me a book."
+    },
+    {
+      "chinese": "老师予以指导(老師予以指導)，学生表示感谢(學生表示感謝)。",
+      "pinyin": "Lǎoshī yǔyǐ zhǐdǎo, xuéshēng biǎoshì gǎnxiè.",
+      "english": "The teacher provided guidance and the students expressed their gratitude."
+    }
+  ]
+}

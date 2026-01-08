@@ -1,0 +1,39 @@
+{
+  "simplified": "浆",
+  "traditional": "漿",
+  "pinyin": "jiāng",
+  "english": "thick liquid; starch; broth",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 將(将) (jiāng, 'lead') = thick water-based substance -> thick liquid; starch; broth",
+    "interpretation": "The character 浆(漿) (jiāng, 'thick liquid') combines the water radical 氵(氵) (shuǐ, 'water'), which suggests a liquid, with the phonetic component 將(将) (jiāng, 'lead'), to convey the idea of a water-based liquid that is thicker, such as broth or starch.",
+    "simplification": "漿(漿)→浆(漿): Simplified by reducing 將(将) (jiāng, 'lead') to the left component 几(几) (jī, 'small table'), retaining the similar phonetic reading."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "将",
+      "trad": "將",
+      "pinyin": "jiāng",
+      "english": "lead"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这碗汤加了玉米浆(這碗湯加了玉米漿)。",
+      "pinyin": "Zhè wǎn tāng jiā le yùmǐ jiāng.",
+      "english": "This bowl of soup has added corn starch."
+    },
+    {
+      "chinese": "厨师先将玉米浆和面粉混合(廚師先將玉米漿和麵粉混合)，后加入鸡汤煮制浓汁(後加入雞湯煮製濃汁)。",
+      "pinyin": "Chúshī xiān jiāng yùmǐ jiāng hé miàn fěn hùn hé, hòu jiā rù jī tāng zhǔ zhì nóng zhī.",
+      "english": "The chef first mixes corn starch with flour, then adds chicken broth to cook a rich sauce."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[亠]
+A couvercle with a handle on top. However, in some characters it is actually a false friend:
+• in 高 , 京 , 亭 , and 亮 it represents the roof of a tower
+• in 立 and 交 it represents the head and open arms of a human
+• in 六 it represents the roof of a hut
+• in 衣 it represents the top of a traditional cloth
+• in 玄 it represents a mark over two interwoven silk threads
+• in 辛 it represents the top of a knife or chisel to mark prisoners
+• in 离 it represents grass
+
+[宀]
+Pictogram ( 象形 ) – a house; similar to 广 . According to Wang Yun (王筠), the latter character depicts a building with three walls, while the former depicts a house with four walls.
+Today, the pictogram appears smaller, but a conservative character is 𰃦 , which appears in 向 . See also the top component of 冡 and the original version of 叟 .
+
+[冖]
+A cloth used to cover something. Unrelated to 写 (< 寫 ), 愛 , 亭 , 亮 , 高 , and 學 .
+
+[冪]
+Originally written as 幎 : Phono-semantic compound ( 形聲 / 形声 , OC *meːɡ ): semantic 巾 ( “ cloth ” ) + phonetic 冥 ( OC *meːŋ ) ; Xu Shen indicates that the character 幎 means "幔", "tent" (today written as 帷幕).
+Later the 六 was corrupted to 大 and the radical was written under the character, thus it became 幂 .
+艹 was added to form a new phono-semantic compound ( 形聲 / 形声 , OC *meːɡ ): semantic 巾 ( “ cloth ” ) + phonetic 幕 ( OC *maːɡ ) .
+
+[幂]
+See 冪 ／ 幂 ( mì ).

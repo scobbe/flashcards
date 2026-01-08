@@ -1,0 +1,44 @@
+{
+  "simplified": "冗",
+  "traditional": "冗",
+  "pinyin": "rǒng",
+  "english": "phonetic",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "冖(冖) (mì, \"cover\") + 八(八) (bā, \"eight\") provides sound = redundant or spare",
+    "interpretation": "The character 冗(rǒng) combines 冖(冖) (mì, \"cover\") as the semantic component with 八(八) (bā, \"eight\") serving as a phonetic component, suggesting something extra or redundant, as if covered overly so.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冖",
+      "trad": "冖",
+      "pinyin": "mì",
+      "english": "cover"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这篇文章太冗(這篇文章太冗)。",
+      "pinyin": "Zhè piān wénzhāng tài rǒng.",
+      "english": "This article is too redundant."
+    },
+    {
+      "chinese": "他的演讲冗长(他的演講冗長)，听众感到疲倦(聽眾感到疲倦)。",
+      "pinyin": "Tā de yǎnjiǎng rǒngcháng, tīngzhòng gǎndào píkùn.",
+      "english": "His speech was long-winded, making the audience feel tired."
+    },
+    {
+      "chinese": "报告中不必要的部分显得冗(報告中不必要的部分顯得冗)，应予删除(應予刪除)。",
+      "pinyin": "Bàogào zhōng bù bìyào de bùfèn xiǎndé rǒng, yīng yǔ shānchú.",
+      "english": "The unnecessary parts of the report appear redundant and should be removed."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "㡀",
+  "traditional": "㡀",
+  "pinyin": "bì",
+  "english": "cloak",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a cloak or a piece of cloth draping down",
+    "interpretation": "The character 㡀 (bì, 'cloak') visually resembles a piece of cloth hanging down, which aligns with its meaning of a cloak. This simple pictogram effectively conveys the concept of something that covers or drapes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他披上㡀(他披上㡀)。",
+      "pinyin": "Tā pī shàng bì.",
+      "english": "He put on the cloak."
+    },
+    {
+      "chinese": "寒冷来袭时(寒冷來襲時)，他把㡀披在身上(他把㡀披在身上)。",
+      "pinyin": "Hánlěng lái xí shí, tā bǎ bì pī zài shēnshàng.",
+      "english": "When the cold arrives, he drapes the cloak over himself."
+    }
+  ]
+}

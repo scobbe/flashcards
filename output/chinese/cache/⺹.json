@@ -1,0 +1,26 @@
+{
+  "simplified": "⺹",
+  "traditional": "老",
+  "pinyin": "lǎo",
+  "english": "old",
+  "etymology": {
+    "type": "pictogram",
+    "description": "A bent-over figure with long hair -> an old man",
+    "interpretation": "The character ⺹ (lǎo) is a pictogram showing an elderly person bent over, perhaps with the implication of frailty or wisdom associated with age. This component is central to conveying the concept of 'old' and also appears in other characters related to age or respect for elders.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他已经⺹了(他已經⺹了)。",
+      "pinyin": "Tā yǐjīng lǎo le.",
+      "english": "He is already old."
+    },
+    {
+      "chinese": "他收藏的古董(他收藏的古董)，散发着⺹魅力(散發著⺹魅力)。",
+      "pinyin": "Tā shōucáng de gǔdǒng, sànfā zhe lǎo mèilì.",
+      "english": "The antiques he collects exude an old charm."
+    }
+  ]
+}

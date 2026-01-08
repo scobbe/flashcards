@@ -1,0 +1,33 @@
+{
+  "simplified": "炎",
+  "traditional": "炎",
+  "pinyin": "yán",
+  "english": "inflammation; flame",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "火(火) (huǒ, 'fire') + 火(火) (huǒ, 'fire') = two fires together -> flame, inflammation",
+    "interpretation": "The character combines two 火(火) (huǒ, 'fire') symbols, emphasizing an intense or extensive fire. This conveys the meanings of 'flame' and 'inflammation', as both involve a spreading or intensified heat.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他因感冒导致喉咙炎(他因感冒導致喉嚨炎)。",
+      "pinyin": "Tā yīn gǎnmào dǎozhì hóulóng yán.",
+      "english": "He developed throat inflammation due to a cold."
+    },
+    {
+      "chinese": "壁炉里燃烧着炎(壁爐裡燃燒著炎)。",
+      "pinyin": "Bìlú lǐ ránshāo zhe yán.",
+      "english": "Flames are burning in the fireplace."
+    }
+  ]
+}

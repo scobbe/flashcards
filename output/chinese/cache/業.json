@@ -1,0 +1,26 @@
+{
+  "simplified": "業",
+  "traditional": "業",
+  "pinyin": "yè",
+  "english": "to carve",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally depicted a person lifting a beam from which bells and chimes hang -> representation of a tool or implement -> evolved to include chisel and large person for launching a great attack -> current form",
+    "interpretation": "The character originates as a pictogram of a person lifting a beam, symbolizing a tool used in work, reflecting the idea of effort or task associated with various types of work.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工匠專心業在石頭上(工匠專心業在石頭上)，創造獨特紋理(創造獨特紋理)。",
+      "pinyin": "Gōngjiàng zhuānxīn yè zài shítou shàng, chuàngzào dútè wénlǐ.",
+      "english": "The craftsman carved unique textures on the stone with full concentration."
+    },
+    {
+      "chinese": "他用刻刀業出精美圖案(他用刻刀業出精美圖案)。",
+      "pinyin": "Tā yòng kèdāo yè chū jīngměi tú'àn.",
+      "english": "He carved exquisite patterns using a carving knife."
+    }
+  ]
+}

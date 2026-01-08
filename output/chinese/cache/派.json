@@ -1,0 +1,44 @@
+{
+  "simplified": "派",
+  "traditional": "派",
+  "pinyin": "pài",
+  "english": "style; school; group",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Pictogram: 𠂢 (original form) -> Phono-semantic: semantic 水(水) (shuǐ, \"water; river\") + phonetic 𠂢 = differentiation of original form with water",
+    "interpretation": "The character originally depicted 𠂢 alone. To differentiate and specify meanings related to water or a flowing style, 水(水) (shuǐ, \"water; river\") was added as a semantic element.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "𠂢",
+      "trad": "𠂢",
+      "pinyin": "mǐ",
+      "english": "original form"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们研究传统文人派(我們研究傳統文人派)，注重文化底蕴(注重文化底蘊)。",
+      "pinyin": "Wǒmen yánjiū chuántǒng wénrén pài, zhùzhòng wénhuà dǐyùn.",
+      "english": "We study the traditional literati school, emphasizing cultural depth."
+    },
+    {
+      "chinese": "他加入了摇滚派(他加入了搖滾派)，追求自由精神(追求自由精神)。",
+      "pinyin": "Tā jiārùle yáogǔn pài, zhuīqiú zìyóu jīngshén.",
+      "english": "He joined the rock group to pursue a spirit of freedom."
+    },
+    {
+      "chinese": "古典音乐派(古典音樂派)，具有悠久历史(具有悠久歷史)。",
+      "pinyin": "Gǔdiǎn yīnyuè pài, jùyǒu yōujiǔ lìshǐ.",
+      "english": "The classical music school has a long history."
+    }
+  ]
+}

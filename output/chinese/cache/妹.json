@@ -1,0 +1,44 @@
+{
+  "simplified": "妹",
+  "traditional": "妹",
+  "pinyin": "mèi",
+  "english": "younger sister",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 女(女) (nǚ, \"female, woman\") + phonetic 未(未) (mèi) -> female sibling -> younger sister",
+    "interpretation": "妹(妹) (mèi, \"younger sister\") combines 女(女) (nǚ, \"female, woman\") to indicate gender, with 未(未) (mèi) as a phonetic component to guide pronunciation. This reflects the traditional familial structure where siblings are often distinguished by relative age.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "female, woman"
+    },
+    {
+      "char": "未",
+      "trad": "未",
+      "pinyin": "mèi",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有妹妹(我有妹妹)。",
+      "pinyin": "Wǒ yǒu mèimei.",
+      "english": "I have a younger sister."
+    },
+    {
+      "chinese": "昨天见到妹妹(昨天見到妹妹)，她笑得很开心(她笑得很開心)。",
+      "pinyin": "Zuótiān jiàndào mèimei, tā xiào dé hěn kāixīn.",
+      "english": "I saw my younger sister yesterday, and she was smiling happily."
+    },
+    {
+      "chinese": "我的妹妹喜欢画画(我的妹妹喜歡畫畫)，她梦想成为艺术家(她夢想成為藝術家)。",
+      "pinyin": "Wǒ de mèimei xǐhuān huàhuà, tā mèngxiǎng chéngwéi yìshùjiā.",
+      "english": "My younger sister loves painting, and she dreams of becoming an artist."
+    }
+  ]
+}

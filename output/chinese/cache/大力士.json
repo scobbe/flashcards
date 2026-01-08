@@ -1,0 +1,50 @@
+{
+  "simplified": "大力士",
+  "traditional": "大力士",
+  "pinyin": "dàlìshì",
+  "english": "strongman",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big\"), 力(力) (lì, \"strength\"), 士(士) (shì, \"scholar; man\")",
+    "interpretation": "大力士(大力士) (dàlìshì, \"strongman\") is a term for someone with great physical power, combining 大(大) (dà, \"big\") to denote magnitude, 力(力) (lì, \"strength\") for power, and 士(士) (shì, \"man\") to indicate a person who has these qualities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar; man"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大力士举起重物(大力士舉起重物)。",
+      "pinyin": "Dàlìshì jǔ qǐ zhòng wù.",
+      "english": "The strongman lifts a heavy object."
+    },
+    {
+      "chinese": "在比赛中(在比賽中)，大力士奋力一举击倒对手(大力士奮力一舉擊倒對手)。",
+      "pinyin": "Zài bǐsài zhōng, dàlìshì fènlì yī jǔ jī dǎo duìshǒu.",
+      "english": "During the competition, the strongman knocked down his opponent with a powerful lift."
+    },
+    {
+      "chinese": "大力士的力量让人惊叹(大力士的力量讓人驚嘆)。",
+      "pinyin": "Dàlìshì de lìliàng ràng rén jīngtàn.",
+      "english": "The strongman's strength is breathtaking."
+    }
+  ]
+}

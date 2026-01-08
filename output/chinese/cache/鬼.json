@@ -1,0 +1,26 @@
+{
+  "simplified": "鬼",
+  "traditional": "鬼",
+  "pinyin": "guǐ",
+  "english": "demon",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a kneeling man or figure with an ugly face (甶) + small 厶 (trace of tail) added later",
+    "interpretation": "The character 鬼(鬼) (guǐ, \"demon\") visually represents a kneeling figure with a distinctive, mask-like face, evoking the image of a supernatural being or ghost. The addition of a small 厶 suggests a residual tail, enhancing its demon-like appearance. This depiction highlights the character's association with eerie, otherworldly entities.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "深夜独行时(深夜獨行時)，忽遇鬼影飘忽(忽遇鬼影飄忽)。",
+      "pinyin": "Shēnyè dúxíng shí, hū yù guǐ yǐng piāohū.",
+      "english": "Walking alone in the deep night, suddenly encountering a fleeting ghostly silhouette."
+    },
+    {
+      "chinese": "村里流传故事说鬼出没(村裡流傳故事說鬼出沒)，人们夜半小心提灯(人們夜半小心提燈)。",
+      "pinyin": "Cūn lǐ liúchuán gùshì shuō guǐ chūmò, rénmen yèbàn xiǎoxīn tí dēng.",
+      "english": "Stories circulate in the village that demons haunt the area, so people cautiously carry lanterns at midnight."
+    }
+  ]
+}

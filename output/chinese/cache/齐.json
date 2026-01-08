@@ -1,0 +1,38 @@
+{
+  "simplified": "齐",
+  "traditional": "齊",
+  "pinyin": "qí",
+  "english": "together/even",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "齊(齊) (qí, 'together') originally depicted rows of identical teeth in an upper jaw -> later evolved to include 'equal' and 'uniform' meanings",
+    "interpretation": "The character 齊(齐) (qí) represents the idea of uniformity and evenness through its depiction of orderly rows of teeth, which visually suggest alignment and harmony.",
+    "simplification": "齊(齊) was simplified to 齐(齊) by streamlining the upper portion to a single uniform shape, maintaining the concept of 'together' and 'even.'"
+  },
+  "parts": [
+    {
+      "char": "齊",
+      "trad": "齊",
+      "pinyin": "qí",
+      "english": "together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大家齐心协力(大家齊心協力)，完成任务(完成任務)。",
+      "pinyin": "Dàjiā qí xīn xiélì, wánchéng rènwù。",
+      "english": "Everyone works together to accomplish the task."
+    },
+    {
+      "chinese": "台上的演员(台上的演員)，站得齐(站得齊)。",
+      "pinyin": "Tái shàng de yǎnyuán, zhàn dé qí。",
+      "english": "The actors on stage stand evenly."
+    },
+    {
+      "chinese": "他的衣服整齐划一(他的衣服整齊劃一)。",
+      "pinyin": "Tā de yīfú zhěngqí huàyī。",
+      "english": "His clothes are neat and uniform."
+    }
+  ]
+}

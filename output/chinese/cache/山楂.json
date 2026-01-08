@@ -1,0 +1,44 @@
+{
+  "simplified": "山楂",
+  "traditional": "山楂",
+  "pinyin": "shānzhā",
+  "english": "hawthorn",
+  "etymology": {
+    "type": "compound word",
+    "description": "山(山) (shān, \"mountain\") and 楂(楂) (zhā, \"hawthorn\"). The Chinese hawthorn is a small tree or shrub commonly found in mountainous regions, influencing its name.",
+    "interpretation": "The term 山楂(山楂) (shānzhā, \"hawthorn\") effectively captures the habitat where hawthorns naturally grow, often in mountainous areas. Therefore, the name reflects both the plant and its common environment.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "楂",
+      "trad": "楂",
+      "pinyin": "zhā",
+      "english": "hawthorn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢吃山楂(我很喜歡吃山楂)。",
+      "pinyin": "Wǒ hěn xǐhuān chī shānzhā.",
+      "english": "I really enjoy eating hawthorn."
+    },
+    {
+      "chinese": "夏日炎炎(夏日炎炎)，一碗冰镇山楂汤使人清凉(一碗冰鎮山楂湯使人清涼)。",
+      "pinyin": "Xiàrì yányán, yī wǎn bīngzhèn shānzhā tāng shǐ rén qīngliáng.",
+      "english": "On a scorching summer day, a bowl of chilled hawthorn soup refreshes you."
+    },
+    {
+      "chinese": "山楂不仅好吃(山楂不僅好吃)，还对消化有益(還對消化有益)。",
+      "pinyin": "Shānzhā bùjǐn hǎochī, hái duì xiāohuà yǒuyì.",
+      "english": "Not only is hawthorn tasty, but it also aids digestion."
+    }
+  ]
+}

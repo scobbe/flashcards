@@ -1,0 +1,44 @@
+{
+  "simplified": "登",
+  "traditional": "登",
+  "pinyin": "dēng",
+  "english": "ascend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "癶(癶) (bō, \"footsteps\") + 豆(豆) (dòu, \"earthenware footed vessel\") = climbing steps like ascending a ladder -> ascend",
+    "interpretation": "The character 登(dēng) combines \"steps\" with an \"earthenware vessel,\" hinting at the action of climbing or ascending, similar to stepping onto an elevated object.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "癶",
+      "trad": "癶",
+      "pinyin": "bō",
+      "english": "footsteps"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "earthenware footed vessel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他登上高峰(他登上高峰)，俯瞰群山(俯瞰群山)。",
+      "pinyin": "Tā dēng shàng gāofēng, fǔkàn qúnshān.",
+      "english": "He ascended to the peak and admired the surrounding mountains."
+    },
+    {
+      "chinese": "我们明天登长城(我們明天登長城)，感受历史气息(感受歷史氣息)。",
+      "pinyin": "Wǒmen míngtiān dēng Chángchéng, gǎnshòu lìshǐ qìxī.",
+      "english": "We will ascend the Great Wall tomorrow to experience its historical ambience."
+    },
+    {
+      "chinese": "登山是一种锻炼(登山是一種鍛煉)。",
+      "pinyin": "Dēngshān shì yī zhǒng duànliàn.",
+      "english": "Mountain climbing is a form of exercise."
+    }
+  ]
+}

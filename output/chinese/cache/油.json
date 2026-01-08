@@ -1,0 +1,44 @@
+{
+  "simplified": "油",
+  "traditional": "油",
+  "pinyin": "yóu",
+  "english": "oil; sauce",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 氵(氵) (shuǐ, 'water') + phonetic 由(由) (yóu, 'reason') = liquid that flows -> oil, sauce",
+    "interpretation": "The character 油(yóu) combines the water radical 氵(氵) (shuǐ, 'water') with the phonetic 由(由) (yóu, 'reason'). This suggests something liquid, aligning with the meanings 'oil' and 'sauce', both of which flow like water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "reason"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "油可以用来炒菜(油可以用來炒菜)。",
+      "pinyin": "Yóu kěyǐ yòng lái chǎo cài.",
+      "english": "Oil can be used for stir-frying dishes."
+    },
+    {
+      "chinese": "我喜欢辣椒油(我喜歡辣椒油)，因为它增加了味道(因為它增加了味道)。",
+      "pinyin": "Wǒ xǐhuān làjiāo yóu, yīnwèi tā zēngjiāle wèidào.",
+      "english": "I like chili oil because it enhances the flavor."
+    },
+    {
+      "chinese": "煎鱼时可以先在鱼上抹点油(煎魚時可以先在魚上抹點油)，这样鱼更滑嫩(這樣魚更滑嫩)。",
+      "pinyin": "Jiān yú shí kěyǐ xiān zài yú shàng mǒ diǎn yóu, zhèyàng yú gèng huá nèn.",
+      "english": "When pan-frying fish, you can first spread a little oil on the fish, so that the fish becomes more tender."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "爻",
+  "traditional": "爻",
+  "pinyin": "yáo",
+  "english": "false, change",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts two intersecting lines, often used to represent change or transformation.",
+    "interpretation": "The character 爻(爻) (yáo, \"false, change\") depicts intersecting lines, symbolizing the concept of crossing and transformation as seen in the Yijing or Book of Changes.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "在卜筮中(在卜筮中)，爻代表着变化的可能性(爻代表著變化的可能性)。",
+      "pinyin": "Zài bǔ shì zhōng, yáo dài biǎo zhe biàn huà de kě néng xìng.",
+      "english": "In divination, the yao represents the potential for change."
+    },
+    {
+      "chinese": "他研究易经爻辞(他研究易經爻辭)，探讨虚实界限(探討虛實界限)。",
+      "pinyin": "Tā yán jiū Yì jīng yáo cí, tàn tǎo xū shí jiè xiàn.",
+      "english": "He studies the yao texts of the I Ching and explores the boundary between reality and illusion."
+    },
+    {
+      "chinese": "爻的变化反映天命(爻的變化反映天命)。",
+      "pinyin": "Yáo de biàn huà fǎn yìng tiān mìng.",
+      "english": "The change of the yao reflects destiny."
+    }
+  ]
+}

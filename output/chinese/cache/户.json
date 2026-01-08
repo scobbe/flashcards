@@ -1,0 +1,26 @@
+{
+  "simplified": "户",
+  "traditional": "戶",
+  "pinyin": "hù",
+  "english": "household; door",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts one-half of 門(門) (mén, \"gate\")",
+    "interpretation": "The character 戶(戶) (hù, \"household; door\") resembles the side view of a gate, representing its function as an entrance or access point similar to a door or household entry.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每户人家都有自己的故事(每戶人家都有自己的故事)。",
+      "pinyin": "Měi hù rénjiā dōu yǒu zìjǐ de gùshì.",
+      "english": "Every household has its own story."
+    },
+    {
+      "chinese": "这个小区住着数百户(這個小區住著數百戶)，居民和睦相处(居民和睦相處)。",
+      "pinyin": "Zhège xiǎoqū zhùzhe shù bǎi hù, jūmín hémù xiāngchǔ.",
+      "english": "Hundreds of households live in this community, and the residents live in harmony."
+    }
+  ]
+}

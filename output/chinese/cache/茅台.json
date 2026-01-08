@@ -1,0 +1,44 @@
+{
+  "simplified": "茅台",
+  "traditional": "茅台",
+  "pinyin": "máo tái",
+  "english": "Moutai liquor",
+  "etymology": {
+    "type": "compound word",
+    "description": "茅(茅) (máo, \"cogon grass\") refers to the type of grass native to the region. 台(台) (tái, \"platform\") often refers to a place or a location. When combined, 茅台(Máotái) becomes the name of a town in Guizhou Province famous for producing Maotai liquor, a renowned Chinese Baijiu.",
+    "interpretation": "The word 茅台(Máotái) denotes the name of the town recognized for its production of Maotai liquor, signifying both its geographical origin and cultural heritage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "茅",
+      "trad": "茅",
+      "pinyin": "máo",
+      "english": "cogon grass"
+    },
+    {
+      "char": "台",
+      "trad": "台",
+      "pinyin": "tái",
+      "english": "platform; stage; table; place"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "茅台是中国顶级的白酒品牌之一(茅台是中國頂級的白酒品牌之一)。",
+      "pinyin": "Máo tái shì Zhōngguó dǐngjí de báijiǔ pǐnpái zhī yī.",
+      "english": "Moutai is one of China's top premium baijiu brands."
+    },
+    {
+      "chinese": "我每次聚会时都喜欢喝茅台(我每次聚會時都喜歡喝茅台)，朋友认为这是一种奢华的味道(朋友認為這是一種奢華的味道)。",
+      "pinyin": "Wǒ měi cì jùhuì shí dōu xǐhuān hē Máo tái, péngyǒu rènwéi zhè shì yī zhǒng shēhuá de wèidào.",
+      "english": "I like to drink Moutai at every gathering, and my friends think it has a luxurious taste."
+    },
+    {
+      "chinese": "专家认为茅台不仅口感醇厚(專家認為茅台不僅口感醇厚)，而且香气扑鼻(而且香氣撲鼻)。",
+      "pinyin": "Zhuānjiā rènwéi Máo tái bù jǐn kǒugǎn chúnhòu, érqiě xiāngqì pūbí.",
+      "english": "Experts believe that Moutai is not only rich in flavor, but also has a fragrant aroma."
+    }
+  ]
+}

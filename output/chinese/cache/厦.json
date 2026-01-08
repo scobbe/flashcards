@@ -1,0 +1,26 @@
+{
+  "simplified": "厦",
+  "traditional": "廈",
+  "pinyin": "xià",
+  "english": "mansion",
+  "etymology": {
+    "type": "simplified and variant traditional form",
+    "description": "simplified and variant traditional form of 廈(廈) (xià, \"mansion\")",
+    "interpretation": "厦(廈) (xià, \"mansion\") is both a simplified and variant traditional form. The character retains the meaning and essence of grandeur associated with a mansion.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那座老厦矗立在小镇中心(那座老廈矗立在小鎮中心)。",
+      "pinyin": "Nà zuò lǎo xià chùlì zài xiǎo zhèn zhōngxīn.",
+      "english": "That old mansion stands in the center of the small town."
+    },
+    {
+      "chinese": "他梦想拥有一座宽敞的厦(他夢想擁有一座寬敞的廈)，举办盛大的晚宴(舉辦盛大的晚宴)。",
+      "pinyin": "Tā mèngxiǎng yōngyǒu yī zuò kuānchǎng de xià, jǔbàn shèngdà de wǎnyàn.",
+      "english": "He dreams of owning a spacious mansion, where he can host a grand banquet."
+    }
+  ]
+}

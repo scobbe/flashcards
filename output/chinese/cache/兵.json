@@ -1,0 +1,39 @@
+{
+  "simplified": "兵",
+  "traditional": "兵",
+  "pinyin": "bīng",
+  "english": "soldier; military",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "斤(斤) (jīn, \"a short axe\") + 廾(廾) (gǒng, \"two hands\") = a pair of hands holding a weapon -> soldier or military",
+    "interpretation": "The character 兵(bīng) represents the concept of a soldier through the depiction of two hands grasping an axe, symbolizing the act of holding a weapon. This effectively conveys the idea of military force or the presence of soldiers.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "斤",
+      "trad": "斤",
+      "pinyin": "jīn",
+      "english": "a short axe"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一名勇敢的兵(他是一名勇敢的兵)。",
+      "pinyin": "Tā shì yī míng yǒnggǎn de bīng.",
+      "english": "He is a brave soldier."
+    },
+    {
+      "chinese": "当战鼓响起时(當戰鼓響起時)，所有的兵都聚集在前线(所有的兵都聚集在前線)。",
+      "pinyin": "Dāng zhàngǔ xiǎngqǐ shí, suǒyǒu de bīng dōu jùjí zài qiánxiàn.",
+      "english": "When the war drums sounded, all the soldiers gathered at the front line."
+    }
+  ]
+}

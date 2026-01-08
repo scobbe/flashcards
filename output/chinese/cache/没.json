@@ -1,0 +1,44 @@
+{
+  "simplified": "没",
+  "traditional": "沒",
+  "pinyin": "méi",
+  "english": "not have; without; drown; sink",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 殳(殳) (shū) = action related to water sinking or disappearing -> final meaning of drowning/sinking or 'not have'",
+    "interpretation": "The character 没(沒) (méi, \"not have; without; drown; sink\") combines the semantic element 氵(氵) (shuǐ, \"water\") with the phonetic 殳(殳) (shū) to associate the action of submerging or becoming imperceptible with water, reflecting the sense of losing something or lacking.",
+    "simplification": "Simplified from 没(沒) (méi, \"not have\") by retaining original components, with no significant change in structure."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "an ancient weapon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我没钱(我沒錢)。",
+      "pinyin": "Wǒ méi qián.",
+      "english": "I don't have money."
+    },
+    {
+      "chinese": "他没看到信(他沒看到信)，就离开了(就離開了)。",
+      "pinyin": "Tā méi kàn dào xìn, jiù lí kāi le.",
+      "english": "He didn't see the letter, and then he left."
+    },
+    {
+      "chinese": "花园里没人(花園里沒人)。",
+      "pinyin": "Huāyuán lǐ méi rén.",
+      "english": "There is no one in the garden."
+    }
+  ]
+}

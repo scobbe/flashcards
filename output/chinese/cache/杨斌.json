@@ -1,0 +1,44 @@
+{
+  "simplified": "杨斌",
+  "traditional": "楊斌",
+  "pinyin": "Yáng Bīn",
+  "english": "Yang Bin (name)",
+  "etymology": {
+    "type": "compound word",
+    "description": "楊(杨) (yáng, \"a surname\") is a common Chinese surname. 斌(斌) (bīn, \"refined; literary\") refers to a person who is cultivated or possesses literary talent. Together, 杨斌/楊斌 (Yáng Bīn) is used as a personal name.",
+    "interpretation": "杨斌/楊斌 (Yáng Bīn) is a Chinese name combining a common surname with a given name suggesting refinement and cultural sophistication.",
+    "simplification": "Simplified characters used"
+  },
+  "parts": [
+    {
+      "char": "杨",
+      "trad": "楊",
+      "pinyin": "yáng",
+      "english": "a surname"
+    },
+    {
+      "char": "斌",
+      "trad": "斌",
+      "pinyin": "bīn",
+      "english": "refined; literary"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "杨斌热爱音乐(楊斌熱愛音樂)。",
+      "pinyin": "Yáng Bīn rè'ài yīnyuè.",
+      "english": "Yang Bin loves music."
+    },
+    {
+      "chinese": "杨斌去了图书馆(楊斌去了圖書館)，寻找珍贵的手稿(尋找珍貴的手稿)。",
+      "pinyin": "Yáng Bīn qùle túshūguǎn, xúnzhǎo zhēnguì de shǒugǎo.",
+      "english": "Yang Bin went to the library, searching for valuable manuscripts."
+    },
+    {
+      "chinese": "昨晚杨斌与朋友共进晚餐(昨晚楊斌與朋友共進晚餐)，交流了彼此的梦想(交流了彼此的夢想)。",
+      "pinyin": "Zuówǎn Yáng Bīn yǔ péngyǒu gòng jìn wǎncān, jiāoliú le bǐcǐ de mèngxiǎng.",
+      "english": "Last night, Yang Bin dined with friends and exchanged their dreams."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "林",
+  "traditional": "林",
+  "pinyin": "lín",
+  "english": "forest; circles",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"tree\") + 木(木) (mù, \"tree\") = multiple trees -> forest",
+    "interpretation": "林(林) (lín, \"forest\") uses the repetition of 木(木) (mù, \"tree\") to visually and conceptually represent a forest, which consists of many trees grouped together. This ideogram effectively captures the collective meaning through duplication.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我走进幽静的林(我走進幽靜的林)。",
+      "pinyin": "Wǒ zǒu jìn yōujìng de lín.",
+      "english": "I walked into the quiet forest."
+    },
+    {
+      "chinese": "孩子们在林中围成一圈(孩子們在林中圍成一圈)，嬉戏声此起彼伏(嬉戲聲此起彼伏)。",
+      "pinyin": "Háizimen zài lín zhōng wéi chéng yī quān, xīxì shēng cǐ qǐ bǐ fú.",
+      "english": "The children formed a circle in the forest, and their laughter echoed continuously."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "艸",
+  "traditional": "艸",
+  "pinyin": "cǎo",
+  "english": "grass",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts grass blades -> duplication of 屮(屮) (chè, \"grass\") -> related to the top component of 萅(萅) (chūn, \"spring\")",
+    "interpretation": "The character 艸(艸) (cǎo, \"grass\") visually represents two grass blades side by side, emphasizing its natural form and connection to vegetation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "grass"
+    },
+    {
+      "char": "萅",
+      "trad": "萅",
+      "pinyin": "chūn",
+      "english": "spring"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "春风吹拂时(春風吹拂時)，艸生长得茂盛(艸生長得茂盛)。",
+      "pinyin": "Chūn fēng chuīfú shí, cǎo shēngzhǎng dé màoshèng.",
+      "english": "When the spring breeze blows, the grass grows lushly."
+    },
+    {
+      "chinese": "野外一片艸(野外一片艸)，生机盎然(生機盎然)。",
+      "pinyin": "Yěwài yī piàn cǎo, shēngjī àngrán.",
+      "english": "In the wilderness, the grass thrives with vitality."
+    },
+    {
+      "chinese": "大地披上了艸(大地披上了艸)。",
+      "pinyin": "Dàdì pī shàng le cǎo.",
+      "english": "The earth is draped in grass."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "非",
+  "traditional": "非",
+  "pinyin": "fēi",
+  "english": "not",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pair of wings pointing in opposite directions -> conveying a sense of negation or opposition",
+    "interpretation": "The character 非(非) (fēi, \"not\") visually resembles two wings turned away from each other, symbolizing opposition and disagreement. This imagery captures the essence of negation, which is central to the character's meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这非巧合(這非巧合)。",
+      "pinyin": "Zhè fēi qiǎohé.",
+      "english": "This is no coincidence."
+    },
+    {
+      "chinese": "他努力学习(他努力學習)，非仅为功名(非僅為功名)。",
+      "pinyin": "Tā nǔlì xuéxí, fēi jǐn wèi gōngmíng.",
+      "english": "He studies hard, not solely for fame."
+    },
+    {
+      "chinese": "此举非易事(此舉非易事)。",
+      "pinyin": "Cǐ jǔ fēi yìshì.",
+      "english": "This undertaking is not an easy matter."
+    }
+  ]
+}

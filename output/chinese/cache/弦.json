@@ -1,0 +1,39 @@
+{
+  "simplified": "弦",
+  "traditional": "弦",
+  "pinyin": "xián",
+  "english": "string",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"silk thread\") + 玄(玄) (xuán) = thread or string-themed meaning -> string of a bow or musical instrument",
+    "interpretation": "The character 弦(xián, \"string\") combines 糸(糸) (mì, \"silk thread\") as the semantic part to indicate its association with threads or strings, and 玄(玄) (xuán) provides the phonetic element. Together, it conveys the idea of threads used as strings in bows or musical instruments.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk thread"
+    },
+    {
+      "char": "玄",
+      "trad": "玄",
+      "pinyin": "xuán",
+      "english": "dark/mysterious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "吉他有六根弦(吉他有六根弦)。",
+      "pinyin": "Jítā yǒu liù gēn xián.",
+      "english": "The guitar has six strings."
+    },
+    {
+      "chinese": "我拨动古琴的弦(我撥動古琴的弦)，奏出优美的旋律(奏出優美的旋律)。",
+      "pinyin": "Wǒ bōdòng gǔqín de xián, zòuchū yōuměi de xuànlǜ.",
+      "english": "I pluck the strings of the guqin and play a beautiful melody."
+    }
+  ]
+}

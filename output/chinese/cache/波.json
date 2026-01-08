@@ -1,0 +1,39 @@
+{
+  "simplified": "波",
+  "traditional": "波",
+  "pinyin": "bō",
+  "english": "wave",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 皮(皮) (pí, \"surface\") = water surface -> wave",
+    "interpretation": "The character 波(bō, \"wave\") combines the water radical 氵 to indicate relation to water, with 皮 serving as the phonetic component, hinting at fluidity or a surface feature like a wave.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "皮",
+      "trad": "皮",
+      "pinyin": "pí",
+      "english": "surface"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海风轻拂时(海風輕拂時)，水面泛起微波(水面泛起微波)。",
+      "pinyin": "Hǎi fēng qīng fú shí, shuǐ miàn fàn qǐ wēi bō.",
+      "english": "When the sea breeze caresses, ripples appear on the water's surface."
+    },
+    {
+      "chinese": "小船在湖中荡漾着波(小船在湖中蕩漾著波)。",
+      "pinyin": "Xiǎo chuán zài hú zhōng dàng yàng zhe bō.",
+      "english": "The small boat drifts on the lake with gentle waves."
+    }
+  ]
+}

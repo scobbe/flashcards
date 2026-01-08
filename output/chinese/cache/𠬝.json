@@ -1,0 +1,39 @@
+{
+  "simplified": "𠬝",
+  "traditional": "𠬝",
+  "pinyin": "fú",
+  "english": "to serve",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "乃(乃) (nǎi, \"be\") + 八(八) (bā, \"divide\") = serving or attending to tasks divided among people -> to serve",
+    "interpretation": "The character combines 乃(乃) (nǎi, \"be\") suggesting the state of being with 八(八) (bā, \"divide\") indicating distribution or division of tasks, fittingly representing service or attendance to duties.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "乃",
+      "trad": "乃",
+      "pinyin": "nǎi",
+      "english": "be"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "divide"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他服從父母(他服從父母)，努力学习(努力學習)。",
+      "pinyin": "Tā fúcóng fùmǔ, nǔlì xuéxí.",
+      "english": "He serves his parents and studies hard."
+    },
+    {
+      "chinese": "士兵服役于军队(士兵服役於軍隊)。",
+      "pinyin": "Shìbīng fúyì yú jūnduì.",
+      "english": "Soldiers serve in the army."
+    }
+  ]
+}

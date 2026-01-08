@@ -1,0 +1,38 @@
+{
+  "simplified": "末",
+  "traditional": "末",
+  "pinyin": "mò",
+  "english": "end",
+  "etymology": {
+    "type": "ideogram",
+    "description": "木(木) (mù, \"tree\") with a horizontal line above -> top of the tree -> end",
+    "interpretation": "The character 末(末) (mò, \"end\") uses the character 木(木) (mù, \"tree\") with a line at the top to convey the idea of the end or the uppermost part, showing the concept of conclusion or the utmost point.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "当故事走到末(當故事走到末)，读者心中充满感慨(讀者心中充滿感慨)。",
+      "pinyin": "Dāng gùshì zǒu dào mò, dúzhě xīnzhōng chōngmǎn gǎnkǎi.",
+      "english": "When the story reached its end, the readers were filled with emotion."
+    },
+    {
+      "chinese": "比赛进入末(比賽進入末)，胜负难料(勝負難料)。",
+      "pinyin": "Bǐsài jìnrù mò, shèngfù náiliào.",
+      "english": "The match entered its final stage, and the outcome was unpredictable."
+    },
+    {
+      "chinese": "他坚持到末(他堅持到末)。",
+      "pinyin": "Tā jiānchí dào mò.",
+      "english": "He persevered until the very end."
+    }
+  ]
+}

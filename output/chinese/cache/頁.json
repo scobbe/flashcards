@@ -1,0 +1,44 @@
+{
+  "simplified": "頁",
+  "traditional": "頁",
+  "pinyin": "yè",
+  "english": "page",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "首(首) (shǒu, \"head\") + 卩(卩) (jié, \"kneeling person\") = head of a kneeling person -> emphasis on \"head\" -> later used for \"page\"",
+    "interpretation": "Originally depicting the head of a kneeling person, 頁(yè) was adapted to signify 'page' by association with leaves (葉). While its original sense of 'head' is retained in some radicals, its contemporary meaning as 'page' is more commonly recognized.",
+    "simplification": "頁(頁) was simplified by adopting the cursive script version, resulting in 页(页). This process focused on reducing the complexity of the character while maintaining its phonetic resemblance."
+  },
+  "parts": [
+    {
+      "char": "首",
+      "trad": "首",
+      "pinyin": "shǒu",
+      "english": "head"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "书的第一页上印有精美的插图(書的第一頁上印有精美的插圖)。",
+      "pinyin": "Shū de dì yī yè shàng yìn yǒu jīng měi de chā tú.",
+      "english": "The first page of the book is printed with exquisite illustrations."
+    },
+    {
+      "chinese": "她认真阅读每一頁(她認真閱讀每一頁)，体会作者的用意(體會作者的用意)。",
+      "pinyin": "Tā rèn zhēn yuè dú měi yī yè, tǐ huì zuò zhě de yòng yì.",
+      "english": "She carefully reads every page to appreciate the author's intentions."
+    },
+    {
+      "chinese": "翻开这几頁(翻開這幾頁)，你将发现一个新世界(你將發現一個新世界)。",
+      "pinyin": "Fān kāi zhè jǐ yè, nǐ jiāng fā xiàn yī gè xīn shì jiè.",
+      "english": "Turn over these pages, and you will discover a new world."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "卄",
+  "traditional": "卄",
+  "pinyin": "niàn",
+  "english": "twenty",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bundle of twenty sticks",
+    "interpretation": "The character 卄(卄) (niàn, \"twenty\") visually resembles a grouping of vertical lines, representing the number 20, similar to tally marks.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的年龄是卄岁(他的年齡是卄歲)。",
+      "pinyin": "Tā de niánlíng shì niàn suì.",
+      "english": "He is twenty years old."
+    },
+    {
+      "chinese": "班级里有卄位学生(班級裡有卄位學生)，他们都积极参加活动(他們都積極參加活動)。",
+      "pinyin": "Bānjí lǐ yǒu niàn wèi xuéshēng, tāmen dōu jījí cānjiā huódòng.",
+      "english": "There are twenty students in the class, and they all participate actively in activities."
+    }
+  ]
+}

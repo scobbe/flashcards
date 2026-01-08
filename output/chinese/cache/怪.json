@@ -1,0 +1,44 @@
+{
+  "simplified": "怪",
+  "traditional": "怪",
+  "pinyin": "guài",
+  "english": "weird; strange; blame; monster",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 心(心) (xīn, \"heart\") + phonetic: 圣(聖) (shèng, \"sacred\") = heart associated with sacred or unusual -> weird, strange",
+    "interpretation": "The character 怪(怪) (guài, \"weird\") combines 心(心) (xīn, \"heart\") to represent emotions or feelings and 圣(聖) (shèng, \"sacred\") to convey a sense of the extraordinary or unusual. Together, they emphasize a feeling connected with strange or unusual occurrences.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "圣",
+      "trad": "聖",
+      "pinyin": "shèng",
+      "english": "sacred"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的笑容看起来很怪(他的笑容看起來很怪)。",
+      "pinyin": "Tā de xiàoróng kàn qǐlái hěn guài.",
+      "english": "His smile looks very strange."
+    },
+    {
+      "chinese": "妈妈不怪我(媽媽不怪我)，因为我已经尽力了(因為我已經盡力了)。",
+      "pinyin": "Māmā bù guài wǒ, yīnwèi wǒ yǐjīng jìnlì le.",
+      "english": "Mom doesn't blame me because I have done my best."
+    },
+    {
+      "chinese": "傍晚时分(傍晚時分)，远处传来怪响(遠處傳來怪響)。",
+      "pinyin": "Bàngwǎn shífēn, yuǎnchù chuán lái guài xiǎng.",
+      "english": "At dusk, strange sounds came from afar."
+    }
+  ]
+}

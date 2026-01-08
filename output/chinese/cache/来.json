@@ -1,0 +1,39 @@
+{
+  "simplified": "来",
+  "traditional": "來",
+  "pinyin": "lái",
+  "english": "come; return; arrive",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Pictogram of wheat: line in middle (ear) + two lines upwards (leaves) + lines downwards (stem, roots) -> borrowed for 来(來) (lái, 'come'); additional semantic components (e.g. 止 (zhǐ, 'foot')) added in Western Zhou, later removed",
+    "interpretation": "來(來) (lái, 'come') visually depicts aspects of wheat, but was phonetically borrowed early for its modern meaning. Components like 'foot' and 'walk' were historically added to clarify this borrowing, but were later omitted, indicating the character's core phonetic origin.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "來",
+      "trad": "來",
+      "pinyin": "lái",
+      "english": "come"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他来参加会议(他來參加會議)。",
+      "pinyin": "Tā lái cānjiā huìyì.",
+      "english": "He comes to attend the meeting."
+    },
+    {
+      "chinese": "我们等你来(我們等你來)，一起庆祝生日(一起慶祝生日)。",
+      "pinyin": "Wǒmen děng nǐ lái, yīqǐ qìngzhù shēngrì.",
+      "english": "We are waiting for you to come so we can celebrate the birthday together."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "彗",
+  "traditional": "彗",
+  "pinyin": "huì",
+  "english": "broom",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "甡(甡) (shēn, 'broom') + 又(又) (yòu, 'hand') = holding a broom made of bamboo -> broom",
+    "interpretation": "This character visually combines the idea of a broom and a hand into one, symbolizing the action of holding or using a broom made from bamboo.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "甡",
+      "trad": "甡",
+      "pinyin": "shēn",
+      "english": "broom"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "妈妈拿起彗(媽媽拿起彗)，扫去落叶(掃去落葉)。",
+      "pinyin": "Māmā ná qǐ huì, sǎo qù luòyè.",
+      "english": "Mama picks up the broom and sweeps away the fallen leaves."
+    },
+    {
+      "chinese": "清晨时分(清晨時分)，我用彗扫去尘埃(我用彗掃去塵埃)。",
+      "pinyin": "Qīngchén shífēn, wǒ yòng huì sǎo qù chén'āi.",
+      "english": "In the early morning, I sweep away the dust with the broom."
+    }
+  ]
+}

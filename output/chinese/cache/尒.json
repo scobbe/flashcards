@@ -1,0 +1,33 @@
+{
+  "simplified": "尒",
+  "traditional": "尒",
+  "pinyin": "ěr",
+  "english": "ear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic component 尒(尒) (ěr, \"small child\") with semantic association to 耳(耳) (ěr, \"ear\")",
+    "interpretation": "The character 尒(尒) was an early phonetic representation of the word for 'ear' due to its phonetic resemblance. It later evolved into the character 耳(耳) (ěr, \"ear\"), solidifying its association with the 'ear' meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他的尒听力非常灵敏(他的尒聽力非常靈敏)，能捕捉最细微的声音(能捕捉最細微的聲音)。",
+      "pinyin": "Tā de ěr tīnglì fēicháng língmǐn, néng bǔzhuō zuì xìwēi de shēngyīn.",
+      "english": "His ear's hearing is extremely sensitive, capable of picking up the faintest sounds."
+    },
+    {
+      "chinese": "音乐刺激着尒的共鸣(音樂刺激著尒的共鳴)。",
+      "pinyin": "Yīnyuè cìjī zhe ěr de gòngmíng.",
+      "english": "Music stimulates the resonance of the ear."
+    }
+  ]
+}

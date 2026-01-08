@@ -1,0 +1,44 @@
+{
+  "simplified": "笨蛋",
+  "traditional": "笨蛋",
+  "pinyin": "bèndàn",
+  "english": "idiot",
+  "etymology": {
+    "type": "compound word",
+    "description": "笨(笨) (bèn, \"stupid\") and 蛋(蛋) (dàn, \"egg\") combine to form 笨蛋(笨蛋) (bèndàn, \"idiot\").",
+    "interpretation": "The word 笨蛋(笨蛋) (bèndàn) uses the metaphor of an egg to describe someone considered stupid or foolish. In some contexts, an 'egg' is used humorously or derogatorily to imply emptiness or lack of intelligence, similar to calling someone an 'airhead' in English.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "笨",
+      "trad": "笨",
+      "pinyin": "bèn",
+      "english": "stupid; clumsy; foolish; slow-witted"
+    },
+    {
+      "char": "蛋",
+      "trad": "蛋",
+      "pinyin": "dàn",
+      "english": "egg; oval; testicle; coward"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你这个笨蛋(你這個笨蛋)！",
+      "pinyin": "Nǐ zhège bèndàn！",
+      "english": "You idiot!"
+    },
+    {
+      "chinese": "他经常搞错方向(他經常搞錯方向)，因为他是个笨蛋(因為他是個笨蛋)。",
+      "pinyin": "Tā jīngcháng gǎo cuò fāngxiàng，yīnwèi tā shì gè bèndàn。",
+      "english": "He often goes the wrong way because he is an idiot."
+    },
+    {
+      "chinese": "小红说你别再胡闹了(小紅說你別再胡鬧了)，不然大家都叫你笨蛋(不然大家都叫你笨蛋)。",
+      "pinyin": "Xiǎohóng shuō nǐ bié zài húnào le，bùrán dàjiā dōu jiào nǐ bèndàn。",
+      "english": "Xiaohong said stop fooling around, otherwise everyone will call you an idiot."
+    }
+  ]
+}

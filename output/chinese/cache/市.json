@@ -1,0 +1,39 @@
+{
+  "simplified": "市",
+  "traditional": "市",
+  "pinyin": "shì",
+  "english": "city; market; town",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 巾(巾) (jīn, \"cloth\") + phonetic: 巴(巴) (bā) = place where goods are wrapped in cloth for trade -> city, market, town",
+    "interpretation": "The character 市(市) (shì) combines 巾(巾) (jīn, \"cloth\") as the semantic element, indicating a place associated with goods and trade, with 巴(巴) (bā) as the phonetic component. This highlights its association with a marketplace or city where trading occurs.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    },
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个市很繁华(這個市很繁華)。",
+      "pinyin": "Zhège shì hěn fánhuá.",
+      "english": "This city is very prosperous."
+    },
+    {
+      "chinese": "市场喧闹(市場喧鬧)，人流如织(人流如織)。",
+      "pinyin": "Shìchǎng xuānnào, rénliú rúzhī.",
+      "english": "The market is bustling, and the crowds are like woven threads."
+    }
+  ]
+}

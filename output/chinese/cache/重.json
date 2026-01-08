@@ -1,0 +1,45 @@
+{
+  "simplified": "重",
+  "traditional": "重",
+  "pinyin": "zhòng",
+  "english": "heavy",
+  "etymology": {
+    "type": "Phono-semantic compound ( 形聲 / 形声 , OC *doŋ, *doŋʔ, *doŋs ) and ideogrammic compound ( 會意 / 会意 )",
+    "description": "人(人) (rén, \"man\") + 東(東) (dōng, \"bag\") = a man carrying a bag -> 土(土) (tǔ, \"earth\") added to show the bag-carrying man is on the ground -> current form shows heaviness",
+    "interpretation": "This character combines the meaning of a person carrying a burden or bag, emphasizing the weight (heavy) of the load, with the semantic reinforcement of standing on the ground. This visually conveys the idea of heaviness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "man"
+    },
+    {
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "bag"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个箱子很重(這個箱子很重)。",
+      "pinyin": "Zhège xiāngzi hěn zhòng.",
+      "english": "This box is very heavy."
+    },
+    {
+      "chinese": "我挑水井水时(我挑水井水時)，感觉瓶子异常重(感覺瓶子異常重)。",
+      "pinyin": "Wǒ tiāo shuǐjǐng shuǐ shí, gǎnjué píngzi yìcháng zhòng.",
+      "english": "While I was drawing water from the well, I felt that the bottle was unusually heavy."
+    }
+  ]
+}

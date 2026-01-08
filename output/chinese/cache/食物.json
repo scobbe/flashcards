@@ -1,0 +1,44 @@
+{
+  "simplified": "食物",
+  "traditional": "食物",
+  "pinyin": "shíwù",
+  "english": "food",
+  "etymology": {
+    "type": "compound word",
+    "description": "食(食) (shí, \"eat\"; \"meal\") + 物(物) (wù, \"thing\") together form the compound \"food.\"",
+    "interpretation": "The combination of 食(食) (shí, \"eat\") and 物(物) (wù, \"thing\") refers to anything that is eaten, thus aptly describing \"food.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "eat; meal"
+    },
+    {
+      "char": "物",
+      "trad": "物",
+      "pinyin": "wù",
+      "english": "thing; object"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那家餐厅的食物很美味(那家餐廳的食物很美味)。",
+      "pinyin": "Nà jiā cāntīng de shíwù hěn měiwèi.",
+      "english": "The food at that restaurant is delicious."
+    },
+    {
+      "chinese": "冰箱里有很多食物(冰箱裏有很多食物)。",
+      "pinyin": "Bīngxiāng lǐ yǒu hěn duō shíwù.",
+      "english": "There is a lot of food in the refrigerator."
+    },
+    {
+      "chinese": "他们整理了食物(他們整理了食物)，以备明天的聚会(以備明天的聚會)。",
+      "pinyin": "Tāmen zhěnglǐ le shíwù, yǐ bèi míngtiān de jùhuì.",
+      "english": "They organized the food to prepare for tomorrow's gathering."
+    }
+  ]
+}

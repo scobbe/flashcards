@@ -1,0 +1,50 @@
+{
+  "simplified": "试",
+  "traditional": "試",
+  "pinyin": "shì",
+  "english": "test; experiment",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 言(言) (yán, \"speech\") + Phonetic: 式(式) (shì, \"form\") = related to speaking or expressing via structured form -> test or experiment",
+    "interpretation": "試(試) (shì, \"test\") combines 言(言) (yán, \"speech\") for the semantic meaning of communication and 式(式) (shì, \"form\") as a phonetic guide, symbolizing the act of trying out or testing through structured verbal expressions or methods.",
+    "simplification": "試(試) was simplified to 试(試) by replacing 言(言) (yán, \"speech\") with 讠(讠) (yán, \"speech\") for a simpler form with the same phonetic component."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "讠",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "式",
+      "trad": "式",
+      "pinyin": "shì",
+      "english": "form"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "让我们试一试(讓我們試一試)。",
+      "pinyin": "Ràng wǒmen shì yī shì.",
+      "english": "Let's give it a try."
+    },
+    {
+      "chinese": "他试着解决问题(他試著解決問題)，以求进步(以求進步)。",
+      "pinyin": "Tā shìzhe jiějué wèntí, yǐ qiú jìnbù.",
+      "english": "He is trying to solve the problem in order to make progress."
+    },
+    {
+      "chinese": "科学家试图发现新理论(科學家試圖發現新理論)。",
+      "pinyin": "Kēxuéjiā shìtú fāxiàn xīn lǐlùn.",
+      "english": "Scientists try to discover a new theory."
+    }
+  ]
+}

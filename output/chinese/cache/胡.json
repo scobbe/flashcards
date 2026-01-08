@@ -1,0 +1,44 @@
+{
+  "simplified": "胡",
+  "traditional": "胡",
+  "pinyin": "hú",
+  "english": "foreign",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 月(月) (yuè, 'moon/month') + phonetic: 古(古) (gǔ) = sound element -> associated with foreigners to the north of China",
+    "interpretation": "The character 胡(胡) originally denoted people from beyond the northern borders of ancient China, often referring to non-Chinese tribes. The phonetic 古(古) (gǔ) provides the sound while 月(月) (yuè, 'moon/month') may relate to nighttime activities or timing, aspects associated with distant lands and peoples.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon/month"
+    },
+    {
+      "char": "古",
+      "trad": "古",
+      "pinyin": "gǔ",
+      "english": "ancient"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他穿着胡服(他穿著胡服)，看起来充满异域风情(看起來充滿異域風情)。",
+      "pinyin": "tā chuānzhe hú fú, kàn qǐlái chōngmǎn yìyù fēngqíng.",
+      "english": "He is wearing foreign-style clothes, and he appears full of exotic charm."
+    },
+    {
+      "chinese": "古代诗人喜欢描写胡地(古代詩人喜歡描寫胡地)，以表示对异国情调的向往(以表示對異國情調的嚮往)。",
+      "pinyin": "gǔdài shīrén xǐhuān miáoxiě hú dì, yǐ biǎoshì duì yìguó qíngdiào de xiàngwǎng.",
+      "english": "Ancient poets liked to depict the lands of foreigners, expressing their longing for exotic allure."
+    },
+    {
+      "chinese": "他研究胡文化(他研究胡文化)。",
+      "pinyin": "tā yánjiū hú wénhuà.",
+      "english": "He studies foreign culture."
+    }
+  ]
+}

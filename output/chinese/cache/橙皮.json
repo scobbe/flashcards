@@ -1,0 +1,44 @@
+{
+  "simplified": "橙皮",
+  "traditional": "橙皮",
+  "pinyin": "chéngpí",
+  "english": "orange peel",
+  "etymology": {
+    "type": "compound word",
+    "description": "橙(橙) (chéng, \"orange\") + 皮(皮) (pí, \"skin; peel\") combines to refer directly to the literal outer layer or \"peel\" of the \"orange\" fruit. This combination is straightforward, with each character providing a specific meaning that, when combined, directly describes the nature of the object.",
+    "interpretation": "The term 橙皮 (chéngpí, \"orange peel\") is a straightforward description of the outer layer (皮) of an orange (橙), which is commonly peeled off in order to eat the fruit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "橙",
+      "trad": "橙",
+      "pinyin": "chéng",
+      "english": "orange"
+    },
+    {
+      "char": "皮",
+      "trad": "皮",
+      "pinyin": "pí",
+      "english": "skin; peel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢橙皮(我喜歡橙皮)。",
+      "pinyin": "Wǒ xǐhuān chéngpí.",
+      "english": "I like orange peel."
+    },
+    {
+      "chinese": "做蛋糕时(做蛋糕時)，他加入了橙皮(他加入了橙皮)。",
+      "pinyin": "Zuò dàngāo shí, tā jiārùle chéngpí.",
+      "english": "When making cake, he added orange peel."
+    },
+    {
+      "chinese": "市场上(市場上)，橙皮卖得不错(橙皮賣得不錯)。",
+      "pinyin": "Shìchǎng shàng, chéngpí mài de bùcuò.",
+      "english": "In the market, orange peel sells well."
+    }
+  ]
+}

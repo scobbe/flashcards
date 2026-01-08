@@ -1,0 +1,39 @@
+{
+  "simplified": "萧",
+  "traditional": "蕭",
+  "pinyin": "xiāo",
+  "english": "rustling sound",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 肖(肖) (xiāo, \"resemble\") = grass rustling sound -> rustling sound",
+    "interpretation": "萧(蕭) (xiāo) combines the grass radical 艹(艹) (cǎo, \"grass\") with the phonetic 肖(肖) (xiāo, \"resemble\") to signify the sound of wind rustling through grass. This character effectively conveys the auditory imagery associated with wind passing through vegetation.",
+    "simplification": "蕭(蕭)→萧(蕭): The component 肖(肖) (xiāo, \"resemble\") directly replaced 簫(箫) (xiāo, \"end-blown flute\") for simplicity, focusing on the phonetic aspect."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "肖",
+      "trad": "肖",
+      "pinyin": "xiāo",
+      "english": "resemble"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "夜风吹过竹林时(夜風吹過竹林時)，传来阵阵萧声(傳來陣陣蕭聲)。",
+      "pinyin": "Yè fēng chuī guò zhúlín shí, chuán lái zhèn zhèn xiāo shēng.",
+      "english": "When the night breeze blows through the bamboo grove, a rustling sound is heard."
+    },
+    {
+      "chinese": "落叶纷飞时(落葉紛飛時)，耳边回响着萧的低语(耳邊迴響著蕭的低語)。",
+      "pinyin": "Luò yè fēn fēi shí, ěr biān huí xiǎng zhe xiāo de dī yǔ.",
+      "english": "As the leaves flutter down, a rustling whisper echoes by the ear."
+    }
+  ]
+}

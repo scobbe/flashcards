@@ -1,0 +1,38 @@
+{
+  "simplified": "本",
+  "traditional": "本",
+  "pinyin": "běn",
+  "english": "root",
+  "etymology": {
+    "type": "Ideogram",
+    "description": "木(木) (mù, \"tree\") + additional stroke = accentuates the root -> \"root\"",
+    "interpretation": "The character 本(本) (běn, \"root\") emphasizes the base or origin of a tree by highlighting its root with an additional stroke. This visual representation helps convey the idea of 'root' or 'foundation.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们必须找到问题的本(我們必須找到問題的本)，然后对症下药(然後對症下藥)。",
+      "pinyin": "Wǒmen bìxū zhǎodào wèntí de běn, ránhòu duìzhèng xiàyào.",
+      "english": "We must find the root of the problem, then prescribe the remedy accordingly."
+    },
+    {
+      "chinese": "医生不仅治标(醫生不僅治標)，更注重治本(更注重治本)。",
+      "pinyin": "Yīshēng bújǐn zhìbiāo, gèng zhùzhòng zhìběn.",
+      "english": "Doctors not only address the symptoms, but also focus on treating the root cause."
+    },
+    {
+      "chinese": "他试图探明这种现象的本(他試圖探明這種現象的本)，以便找到解决方案(以便找到解決方案)。",
+      "pinyin": "Tā shìtú tànmíng zhè zhǒng xiànxiàng de běn, yǐbiàn zhǎodào jiějué fāng'àn.",
+      "english": "He tried to ascertain the root of this phenomenon in order to find a solution."
+    }
+  ]
+}

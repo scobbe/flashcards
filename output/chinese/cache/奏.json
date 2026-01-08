@@ -1,0 +1,44 @@
+{
+  "simplified": "奏",
+  "traditional": "奏",
+  "pinyin": "zòu",
+  "english": "perform",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "two hands 廾(廾) (gǒng, 'two hands') holding an object, perhaps an instrument from a ritual originally similar to 夲(夲) (tuō, 'root') -> final form 奏(奏) (zòu, 'perform')",
+    "interpretation": "The character 奏(奏) (zòu, 'perform') symbolizes two hands holding a musical object used in a ritual, highlighting the connection to ceremonial performances. This reflects its role in traditional sacrificial music performances.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
+    {
+      "char": "夲",
+      "trad": "夲",
+      "pinyin": "tuō",
+      "english": "root"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "乐团今晚将在音乐厅奏一首新曲(樂團今晚將在音樂廳奏一首新曲)。",
+      "pinyin": "Yuètuán jīnwǎn jiāng zài yīnyuètīng zòu yī shǒu xīnqǔ.",
+      "english": "The orchestra will perform a new piece tonight."
+    },
+    {
+      "chinese": "他每次上台都会全情投入奏自己的作品(他每次上臺都會全情投入奏自己的作品)。",
+      "pinyin": "Tā měi cì shàngtái dōu huì quánqíng tóurù zòu zìjǐ de zuòpǐn.",
+      "english": "He always puts his heart into performing his own pieces every time he goes on stage."
+    },
+    {
+      "chinese": "琴师精心调音后(琴師精心調音後)，开始奏乐(開始奏樂)。",
+      "pinyin": "Qínshī jīngxīn tiáoyīn hòu, kāishǐ zòu yuè.",
+      "english": "After the pianist finely tuned the instrument, he began to perform music."
+    }
+  ]
+}

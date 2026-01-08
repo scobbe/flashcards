@@ -1,0 +1,31 @@
+{
+  "simplified": "小",
+  "traditional": "小",
+  "pinyin": "xiǎo",
+  "english": "small",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts three small dots arranged symmetrically to represent something small",
+    "interpretation": "The character 小(xiǎo, 'small') uses three small strokes to symbolize size or quantity, visually capturing the essence of 'smallness'.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个小猫很可爱(這個小貓很可愛)。",
+      "pinyin": "Zhège xiǎo māo hěn kě'ài.",
+      "english": "This small cat is very cute."
+    },
+    {
+      "chinese": "这座小桥横跨河流(這座小橋橫跨河流)，连接两岸(連接兩岸)。",
+      "pinyin": "Zhè zuò xiǎo qiáo héngkuà héliú, liánjiē liǎng àn.",
+      "english": "This small bridge spans the river, connecting both banks."
+    },
+    {
+      "chinese": "请给我一小杯水(請給我一小杯水)。",
+      "pinyin": "Qǐng gěi wǒ yī xiǎo bēi shuǐ.",
+      "english": "Please give me a small cup of water."
+    }
+  ]
+}

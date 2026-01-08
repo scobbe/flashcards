@@ -1,0 +1,44 @@
+{
+  "simplified": "高丽菜",
+  "traditional": "高麗菜",
+  "pinyin": "gāolícài",
+  "english": "cabbage",
+  "etymology": {
+    "type": "compound word",
+    "description": "高(高) (gāo, \"high\"), 麗(麗) (lì, \"beautiful\"), 菜(菜) (cài, \"vegetable\")",
+    "interpretation": "高麗(高麗) (gāolí, \"Korea\") refers historically to the Goryeo dynasty in Korea, known for its cultural influence in ancient times. 菜(菜) (cài, \"vegetable\") indicates this is a type of vegetable. Thus, 高丽菜(高麗菜) (gāolícài) means 'Korean vegetable,' which is how cabbage is referred to in some regions, especially Taiwan.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "高麗",
+      "trad": "高麗",
+      "pinyin": "gāolí",
+      "english": "Korea; Goryeo dynasty"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢吃高丽菜(我很喜歡吃高麗菜)。",
+      "pinyin": "Wǒ hěn xǐhuān chī gāolícài.",
+      "english": "I really like eating cabbage."
+    },
+    {
+      "chinese": "今天市场上有很多新鲜的高丽菜(今天市場上有很多新鮮的高麗菜)，我们打算买一些回家做菜(我們打算買一些回家做菜)。",
+      "pinyin": "Jīntiān shìchǎng shàng yǒu hěn duō xīnxiān de gāolícài, wǒmen dǎsuàn mǎi yīxiē huíjiā zuò cài.",
+      "english": "There are many fresh cabbages at the market today, and we plan to buy some to cook at home."
+    },
+    {
+      "chinese": "妈妈常常用高丽菜(媽媽常常用高麗菜)，做一锅清汤(做一鍋清湯)。",
+      "pinyin": "Māmā chángcháng yòng gāolícài, zuò yī guō qīngtāng.",
+      "english": "Mom often uses cabbage to make a pot of clear soup."
+    }
+  ]
+}

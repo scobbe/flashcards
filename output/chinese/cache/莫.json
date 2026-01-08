@@ -1,0 +1,44 @@
+{
+  "simplified": "莫",
+  "traditional": "莫",
+  "pinyin": "mò",
+  "english": "sound and sense",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "艸(艸) (cǎo, 'grass') + 日(日) (rì, 'sun') = sun setting behind grass -> dusk, a time of silence",
+    "interpretation": "This character combines 艸(艸) (cǎo, 'grass') and 日(日) (rì, 'sun'), depicting the image of the sun setting behind the grass, symbolizing dusk, a time associated with silence. It evolved to represent the concept of 'none' or 'not' as dusk signifies the end of the day.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "莫轻易承诺(莫輕易承諾)。",
+      "pinyin": "Mò qīngyì chéngnuò.",
+      "english": "Do not make promises lightly."
+    },
+    {
+      "chinese": "面对挑战(面對挑戰)，莫失信心(莫失信心)。",
+      "pinyin": "Miànduì tiǎozhàn, mò shī xìnxīn.",
+      "english": "When facing challenges, never lose confidence."
+    },
+    {
+      "chinese": "这股气势(這股氣勢)，莫人能敌(莫人能敵)。",
+      "pinyin": "Zhè gǔ qìshì, mò rén néng dí.",
+      "english": "Such momentum is invincible."
+    }
+  ]
+}

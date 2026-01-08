@@ -1,0 +1,6 @@
+[采]
+Ideogrammic compound ( 會意 / 会意 ). Two forms can be found in oracle bone script:
+The current glyph is of composition 2.
+
+[採]
+Phono-semantic compound ( 形聲 / 形声 , OC *sʰɯːʔ ): semantic 扌 ( “ hand ” ) + phonetic 采 ( OC *sʰɯːʔ , “ to pick ” ) . Originally written 采 .

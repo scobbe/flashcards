@@ -1,0 +1,51 @@
+{
+  "simplified": "鷕",
+  "traditional": "鷕",
+  "pinyin": "yǎo",
+  "english": "cry of a bird",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 隹(隹) (zhuī, \"short-tailed bird\") -> 唯(唯) (wéi) with 口(口) (kǒu, \"mouth\") added -> phonetic 唯(唯) (wéi) + semantic 鳥(鳥) (niǎo, \"bird\") -> 鷕(鷕) (yǎo, \"cry of a bird\")",
+    "interpretation": "The character 鷕(鷕) (yǎo) is a phono-semantic compound where 唯(唯) (wéi) acts as the phonetic component and 鳥(鳥) (niǎo) provides the semantic meaning related to birds, representing the sound or cry made by birds.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    },
+    {
+      "char": "唯",
+      "trad": "唯",
+      "pinyin": "wéi",
+      "english": "only"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "清晨听到鷕(鷕)，使人心情舒畅(使人心情舒暢)。",
+      "pinyin": "Qīngchén tīng dào yǎo, shǐ rén xīnqíng shūchàng.",
+      "english": "Hearing the cry of a bird in the early morning makes people feel cheerful."
+    },
+    {
+      "chinese": "在树林中回响鷕(鷕)，唤起远古记忆(唤起遠古記憶)。",
+      "pinyin": "Zài shùlín zhōng huíxiǎng yǎo, huànqǐ yuǎngǔ jìyì.",
+      "english": "In the forest, the bird's cry echoes and evokes ancient memories."
+    }
+  ]
+}

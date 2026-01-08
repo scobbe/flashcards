@@ -1,0 +1,44 @@
+{
+  "simplified": "逸",
+  "traditional": "逸",
+  "pinyin": "yì",
+  "english": "ease; leisure; escape",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辶(辶) (chuò, \"walk\") + 兔(兔) (tù, \"rabbit\") = rabbit running -> escape, ease",
+    "interpretation": "The character 逸(yì) combines the 辶(辶) (chuò, \"walk\"), which signifies movement, with 兔(兔) (tù, \"rabbit\"), which adds the sound and also suggests the idea of a rabbit swiftly escaping. Together, they convey the notion of escaping or fleeing with ease, embodying the meanings of both leisure and escape.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "兔",
+      "trad": "兔",
+      "pinyin": "tù",
+      "english": "rabbit"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在安静的庭院中享受逸趣(他在安靜的庭院中享受逸趣)。",
+      "pinyin": "Tā zài ānjìng de tíngyuàn zhōng xiǎngshòu yìqù.",
+      "english": "He enjoys leisure in the quiet courtyard."
+    },
+    {
+      "chinese": "他喜欢逸居(他喜歡逸居)，远离城市喧嚣(遠離城市喧囂)。",
+      "pinyin": "Tā xǐhuān yìjū, yuǎnlí chéngshì xuānxiāo.",
+      "english": "He likes to live in seclusion, away from the city's hustle and bustle."
+    },
+    {
+      "chinese": "假日来临时(假日來臨時)，他计划逸出尘嚣(他計劃逸出塵囂)。",
+      "pinyin": "Jiàrì láilín shí, tā jìhuà yìchū chénxiāo.",
+      "english": "When the holiday arrives, he plans to escape the hustle and bustle."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "帀",
+  "traditional": "帀",
+  "pinyin": "zā",
+  "english": "to surround",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts surrounding or enclosing",
+    "interpretation": "The character 帀 originally depicted the act of surrounding or enclosing an area. Though it does not have additional components to represent phonetics or specific meanings, this depiction is straightforward in illustrating the concept of encirclement.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "河流帀着岛屿(河流帀著島嶼)。",
+      "pinyin": "Héliú zā zhe dǎoyǔ.",
+      "english": "The river surrounds the island."
+    },
+    {
+      "chinese": "大海帀着孤岛(大海帀著孤島)，巍峨山峰帀着村庄(巍峨山峰帀著村莊)。",
+      "pinyin": "Dàhǎi zā zhe gūdǎo, wēi'é shānfēng zā zhe cūnzhuāng.",
+      "english": "The ocean surrounds the solitary island, and the majestic peaks encircle the village."
+    }
+  ]
+}

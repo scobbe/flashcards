@@ -1,0 +1,44 @@
+{
+  "simplified": "仁",
+  "traditional": "仁",
+  "pinyin": "rén",
+  "english": "kernel; seed",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 人(人) (rén, \"person\") + semantic: 二(二) (èr, \"two\") = combining personal relationships -> benevolence",
+    "interpretation": "The character 仁(rén) uses 人(人) (rén, \"person\") to convey sound and 二(二) (èr, \"two\") to suggest interaction or connection between two people, leading to the idea of benevolence or humaneness in relationships.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农民精选玉米仁(農民精選玉米仁)，用心制作爆米花(用心製作爆米花)。",
+      "pinyin": "Nóngmín jīngxuǎn yùmǐ rén, yòngxīn zhìzuò bàomǐhuā.",
+      "english": "The farmer carefully selected corn kernels and made delicious popcorn."
+    },
+    {
+      "chinese": "这粒仁体积虽小(這粒仁體積雖小)，蕴含着大自然的力量(蘊含著大自然的力量)。",
+      "pinyin": "Zhè lì rén tǐjī suī xiǎo, yùnhán zhe dàzìrán de lìliàng.",
+      "english": "Although the kernel is small in size, it contains the power of nature."
+    },
+    {
+      "chinese": "厨师将花生仁(廚師將花生仁)，研磨成细腻的酱料(研磨成細膩的醬料)。",
+      "pinyin": "Chúshī jiāng huāshēng rén, yánmó chéng xì nì de jiàngliào.",
+      "english": "The chef grinds peanut kernels into a smooth sauce."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "流",
+  "traditional": "流",
+  "pinyin": "liú",
+  "english": "flow; stream",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 氵(氵) (shuǐ, 'water') + Phonetic: 㐬(㐬) (liú, no definition) = flowing of water -> flow; stream",
+    "interpretation": "The character 流(liú) combines the semantic component 氵(氵) (shuǐ, 'water'), indicating relation to water, with the phonetic component 㐬(㐬), providing the pronunciation. This combination effectively conveys the idea of moving water, consistent with its meaning of 'flow' or 'stream'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "㐬",
+      "trad": "㐬",
+      "pinyin": "liú",
+      "english": "no definition"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "河水缓缓流(河水緩緩流)。",
+      "pinyin": "Hé shuǐ huǎn huǎn liú.",
+      "english": "The river flows slowly."
+    },
+    {
+      "chinese": "岁月如流水(歲月如流水)，时光匆匆流(時光匆匆流)。",
+      "pinyin": "Suì yuè rú liú shuǐ, shí guāng cōng cōng liú.",
+      "english": "The years flow like a stream, and time passes quickly."
+    }
+  ]
+}

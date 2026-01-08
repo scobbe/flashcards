@@ -1,0 +1,44 @@
+{
+  "simplified": "迪",
+  "traditional": "迪",
+  "pinyin": "dí",
+  "english": "enlighten; progress; guide",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辶(辶) (chuò, 'walk') + 由(由) (yóu, 'cause') = moving forward with assurance -> guide/progress",
+    "interpretation": "辶(辶) (chuò, 'walk') conveys the physical act of traveling or progression, while 由(由) (yóu, 'cause') suggests purpose or direction. The combination symbolizes directed movement, which aligns with the meanings of guiding or making progress.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk"
+    },
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "cause"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "书籍迪开智慧之门(書籍迪開智慧之門)。",
+      "pinyin": "shūjí dí kāi zhìhuì zhī mén",
+      "english": "Books open the door to wisdom."
+    },
+    {
+      "chinese": "明师迪引迷途学子(明師迪引迷途學子)，引领正确方向(引領正確方向)。",
+      "pinyin": "míngshī dí yǐn mítú xuézǐ, yǐnlǐng zhèngquè fāngxiàng",
+      "english": "A wise teacher guides lost students, leading them in the right direction."
+    },
+    {
+      "chinese": "改革迪向社会进步(改革迪向社會進步)，推动时代变革(推動時代變革)。",
+      "pinyin": "gǎigé dí xiàng shèhuì jìnbù, tuīdòng shídài biàngé",
+      "english": "Reforms enlighten social progress, driving the transformation of the times."
+    }
+  ]
+}

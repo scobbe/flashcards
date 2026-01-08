@@ -1,0 +1,39 @@
+{
+  "simplified": "苏",
+  "traditional": "蘇",
+  "pinyin": "Sū",
+  "english": "surname Su; also shorthand for Jiangsu",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艸) (cǎo, \"grass\") + 穌(穌) (sū, \"revive\") = grass reviving -> used for the surname Su",
+    "interpretation": "The character 苏(蘇) (sū) combines the semantic 艹(艸) (cǎo, \"grass\") with the phonetic 穌(穌) (sū, \"revive\"). The association of grass with revival is intuitive, as grass regenerates and grows back after unfavorable conditions. This makes it a fitting character for representing regeneration or a return to life, and by extension, the surname Su.",
+    "simplification": "艹(艸) (cǎo, \"grass\") retained to suggest plant-like revival, following simplification patterns common in Chinese script reform, while keeping the overall meaning recognizable."
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "穌",
+      "trad": "穌",
+      "pinyin": "sū",
+      "english": "revive"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "苏先生今天到访江苏(蘇先生今天到訪江蘇)。",
+      "pinyin": "Sū xiānshēng jīntiān dàofǎng Jiāngsū.",
+      "english": "Mr. Su visited Jiangsu today."
+    },
+    {
+      "chinese": "我朋友姓苏(我朋友姓蘇)，他是个热心人(他是個熱心人)。",
+      "pinyin": "Wǒ péngyǒu xìng Sū, tā shì gè rèxīn rén.",
+      "english": "My friend has the surname Su; he is a warm-hearted person."
+    }
+  ]
+}

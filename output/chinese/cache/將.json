@@ -1,0 +1,39 @@
+{
+  "simplified": "將",
+  "traditional": "將",
+  "pinyin": "jiāng",
+  "english": "lead",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 爿(爿) (pán, \"half of a tree trunk\") + phonetic: 寸(寸) (cùn) = something measured in leadership -> lead",
+    "interpretation": "The character 將(將) (jiāng, \"lead\") combines 爿(爿) (pán, \"half of a tree trunk\"), suggesting a foundation or base, with 寸(寸) (cùn), indicating measurement or precision. This implies the careful guidance or leadership required to manage and direct.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "half of a tree trunk"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他將带领队伍(他將帶領隊伍)，迈向胜利(邁向勝利)。",
+      "pinyin": "Tā jiāng dài lǐng duì wǔ, mài xiàng shèng lì.",
+      "english": "He will lead the team towards victory."
+    },
+    {
+      "chinese": "他將引导学生(他將引導學生)。",
+      "pinyin": "Tā jiāng yǐn dǎo xué shēng.",
+      "english": "He will lead the students."
+    }
+  ]
+}

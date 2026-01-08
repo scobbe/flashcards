@@ -1,0 +1,31 @@
+{
+  "simplified": "工",
+  "traditional": "工",
+  "pinyin": "gōng",
+  "english": "work",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bladed tool to plow the ground and to mark a border, or a carpenter's square",
+    "interpretation": "工(工) (gōng, \"work\") represents either a tool used in agriculture for marking or a carpenter's square, reflecting its connection to traditional manual labor and craftsmanship.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每天下午去做工(他每天下午去做工)。",
+      "pinyin": "Tā měitiān xiàwǔ qù zuò gōng.",
+      "english": "He goes to work every afternoon."
+    },
+    {
+      "chinese": "工厂里的机器不停地运转(工廠裡的機器不停地運轉)。",
+      "pinyin": "Gōng chǎng lǐ de jīqì bù tíng de yùnzhuǎn.",
+      "english": "The machines in the factory run nonstop."
+    },
+    {
+      "chinese": "这位工人技艺精湛(這位工人技藝精湛)。",
+      "pinyin": "Zhè wèi gōngrén jìyì jīngzhàn.",
+      "english": "This worker is highly skilled."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "码",
+  "traditional": "碼",
+  "pinyin": "mǎ",
+  "english": "code",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 石(石) (shí, 'stone') + Phonetic: 馬(馬) (mǎ, 'horse') = used for counting stones -> number, code",
+    "interpretation": "The character 码(碼) combines 石(石) (shí, 'stone') symbolizing things that can be counted, with 馬(馬) (mǎ, 'horse'), chosen as a phonetic match. Together, they formed a character initially used for counting objects like stones, which later evolved to mean 'number' or 'code'.",
+    "simplification": "The simplified character uses the exact same components as the traditional one."
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone"
+    },
+    {
+      "char": "马",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请输入密码(請輸入密碼)。",
+      "pinyin": "Qǐng shūrù mìmǎ.",
+      "english": "Please enter the password."
+    },
+    {
+      "chinese": "系统自动生成验证码(系統自動生成驗證碼)。",
+      "pinyin": "Xìtǒng zìdòng shēngchéng yànzhèngmǎ.",
+      "english": "The system automatically generates a verification code."
+    },
+    {
+      "chinese": "扫描二维码(掃描二維碼)，即可获取信息(即可獲取信息)。",
+      "pinyin": "Sǎomiáo èrwéi mǎ, jí kě huòqǔ xìnxī.",
+      "english": "Scan the QR code to get the information."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "助",
+  "traditional": "助",
+  "pinyin": "zhù",
+  "english": "aid; assist; help; support",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "力(力) (lì, \"strength\") + 且(且) (qiě) = providing strength -> aid or assist",
+    "interpretation": "The character 助 combines 力(力) (lì, \"strength\") as the semantic component, conveying the idea of providing support or assistance, and 且(且) (qiě) as the phonetic component. This combination emphasizes offering strength or help to someone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她在危急时刻助我一臂之力(她在危急時刻助我一臂之力)。",
+      "pinyin": "Tā zài wēijí shíkè zhù wǒ yī bì zhī lì.",
+      "english": "She lent me a crucial helping hand in a moment of crisis."
+    },
+    {
+      "chinese": "朋友常在困难时助我(朋友常在困難時助我)，给予支持(給予支持)。",
+      "pinyin": "Péngyǒu cháng zài kùnnán shí zhù wǒ, jǐyǔ zhīchí.",
+      "english": "A friend helps me in times of difficulty and provides support."
+    },
+    {
+      "chinese": "政府设立援助项目助弱(政府設立援助項目助弱)。",
+      "pinyin": "Zhèngfǔ shèlì yuánzhù xiàngmù zhù ruò.",
+      "english": "The government has established aid programs to help the vulnerable."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "炒",
+  "traditional": "炒",
+  "pinyin": "chǎo",
+  "english": "stir-fry",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 火(火) (huǒ, \"fire\") + phonetic 少(少) (shǎo, \"little\") = a little fire -> stir-fry",
+    "interpretation": "The character 炒(chǎo) combines 火(火) (huǒ, \"fire\") to indicate cooking with heat, specifically stir-frying, with 少(少) (shǎo, \"little\") as a phonetic component. This suggests cooking with a small amount of heat or quickly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "少",
+      "trad": "少",
+      "pinyin": "shǎo",
+      "english": "little"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈炒菜(媽媽炒菜)。",
+      "pinyin": "Māmā chǎo cài.",
+      "english": "Mom stir-fries food."
+    },
+    {
+      "chinese": "他炒面时(他炒麵時)，加了很多蔬菜(加了很多蔬菜)。",
+      "pinyin": "Tā chǎo miàn shí, jiā le hěn duō shūcài.",
+      "english": "While he was stir-frying noodles, he added a lot of vegetables."
+    },
+    {
+      "chinese": "我喜欢炒牛肉(我喜歡炒牛肉)。",
+      "pinyin": "Wǒ xǐhuān chǎo niúròu.",
+      "english": "I like stir-frying beef."
+    }
+  ]
+}

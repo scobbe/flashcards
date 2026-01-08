@@ -1,0 +1,44 @@
+{
+  "simplified": "告别",
+  "traditional": "告別",
+  "pinyin": "gàobié",
+  "english": "say goodbye; farewell",
+  "etymology": {
+    "type": "compound word",
+    "description": "告(告) (gào, \"inform\") + 别(別) (bié, \"leave; part\") = say goodbye; farewell",
+    "interpretation": "The word 告别(告別) (gàobié, \"say goodbye; farewell\") consists of 告(告) (gào, \"inform\") and 别(別) (bié, \"leave; part\"). When you 'inform' someone about a 'parting,' you are essentially saying goodbye. This concept is relevant in both personal departures and formal farewells.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "告",
+      "trad": "告",
+      "pinyin": "gào",
+      "english": "inform; announce; tell"
+    },
+    {
+      "char": "别",
+      "trad": "別",
+      "pinyin": "bié",
+      "english": "leave; part; farewell; separate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们告别(我們告別)。",
+      "pinyin": "Wǒmen gàobié.",
+      "english": "We say farewell."
+    },
+    {
+      "chinese": "他在码头告别(他在碼頭告別)，依依不舍地离去(依依不舍地離去)。",
+      "pinyin": "Tā zài mǎtóu gàobié, yīyī bùshě dì líqù.",
+      "english": "He said farewell at the dock and left reluctantly."
+    },
+    {
+      "chinese": "朋友聚会后告别(朋友聚會後告别)，彼此期待重逢(彼此期待重逢)。",
+      "pinyin": "Péngyǒu jùhuì hòu gàobié, bǐcǐ qídài chóngféng.",
+      "english": "After the gathering, friends said farewell, each looking forward to reuniting."
+    }
+  ]
+}

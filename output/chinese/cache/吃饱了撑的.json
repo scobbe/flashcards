@@ -1,0 +1,57 @@
+{
+  "simplified": "吃饱了撑的",
+  "traditional": "吃飽了撐的",
+  "pinyin": "chī bǎo le chēng de",
+  "english": "have nothing better to do (lit. stuffed from eating)",
+  "etymology": {
+    "type": "compound word",
+    "description": "吃(吃) (chī, \"eat\") + 饱(飽) (bǎo, \"full\") + 了(了) (le, a particle indicating completion) + 撑(撐) (chēng, \"stuffed\") + 的(的) (de, a particle used for emphasis)",
+    "interpretation": "This expression humorously suggests being so overly full from eating, one has nothing better to do than find trivial activities. It plays on the idea that after being 拷(bao) (饱,\"full\") and 撑(chēng,\"stuffed\"), one idles and finds unnecessary tasks due to excessive satiety.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "吃",
+      "trad": "吃",
+      "pinyin": "chī",
+      "english": "eat"
+    },
+    {
+      "char": "饱",
+      "trad": "飽",
+      "pinyin": "bǎo",
+      "english": "full; satisfied"
+    },
+    {
+      "char": "了",
+      "trad": "了",
+      "pinyin": "le",
+      "english": "particle indicating completion"
+    },
+    {
+      "char": "撑",
+      "trad": "撐",
+      "pinyin": "chēng",
+      "english": "stuffed; support"
+    },
+    {
+      "char": "的",
+      "trad": "的",
+      "pinyin": "de",
+      "english": "particle for emphasis"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他吃饱了撑的(他吃飽了撐的)，在楼下闲逛(在樓下閒逛)。",
+      "pinyin": "Tā chī bǎo le chēng de, zài lóu xià xián guàng.",
+      "english": "He has nothing better to do but wander around downstairs."
+    },
+    {
+      "chinese": "真是吃饱了撑的(真是吃飽了撐的)！",
+      "pinyin": "Zhēn shì chī bǎo le chēng de!",
+      "english": "Really, you've got nothing better to do!"
+    }
+  ]
+}

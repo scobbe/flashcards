@@ -1,0 +1,39 @@
+{
+  "simplified": "草莓",
+  "traditional": "草莓",
+  "pinyin": "cǎoméi",
+  "english": "strawberry",
+  "etymology": {
+    "type": "compound word",
+    "description": "草(草) (cǎo, \"grass; herb\") refers to herbaceous plants, and 莓(莓) (méi, \"berry\") denotes small, pulpy, edible fruits. Together they form 草莓(草莓) (cǎoméi, \"strawberry\"), a small, red, juicy fruit commonly considered a type of small berry.",
+    "interpretation": "The word 草莓(草莓) (cǎoméi, \"strawberry\") literally means a 'herb berry,' reflecting both the plant nature of strawberries and their status as small, sweet fruits.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "草",
+      "trad": "草",
+      "pinyin": "cǎo",
+      "english": "grass; herb"
+    },
+    {
+      "char": "莓",
+      "trad": "莓",
+      "pinyin": "méi",
+      "english": "berry"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢吃草莓(我喜歡吃草莓)。",
+      "pinyin": "Wǒ xǐhuān chī cǎoméi.",
+      "english": "I like to eat strawberries."
+    },
+    {
+      "chinese": "市场上有很多草莓(市場上有很多草莓)，味道香甜(味道香甜)。",
+      "pinyin": "Shìchǎng shàng yǒu hěn duō cǎoméi, wèidào xiāngtián.",
+      "english": "There are many strawberries in the market, and they taste very sweet."
+    }
+  ]
+}

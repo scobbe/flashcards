@@ -1,0 +1,44 @@
+{
+  "simplified": "糖",
+  "traditional": "糖",
+  "pinyin": "táng",
+  "english": "sugar",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 唐(唐) (táng, \"Tang dynasty\") = rice-based sweetener -> sugar",
+    "interpretation": "The character 糖(táng) combines 米(米) (mǐ, \"rice\"), indicating that sugar can be derived from grain-based sources like rice, with 唐(唐) (táng), which provides the sound. This reflects the historical use of grain in sweeteners.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "唐",
+      "trad": "唐",
+      "pinyin": "táng",
+      "english": "Tang dynasty"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈在烘焙时用糖调味(媽媽在烘焙時用糖調味)。",
+      "pinyin": "Māmā zài hōngbèi shí yòng táng tiáowèi.",
+      "english": "Mom uses sugar to flavor the baked goods."
+    },
+    {
+      "chinese": "他煮咖啡时放了糖(他煮咖啡時放了糖)，使味道更加浓郁(使味道更加濃郁)。",
+      "pinyin": "Tā zhǔ kāfēi shí fàng le táng, shǐ wèidào gèngjiā nóngyù.",
+      "english": "He added sugar when brewing the coffee, which made the flavor richer."
+    },
+    {
+      "chinese": "秋天的时候有人卖糖(秋天的時候有人賣糖)，这种糖在节日里很受欢迎(這種糖在節日裡很受歡迎)。",
+      "pinyin": "Qiūtiān de shíhòu yǒurén mài táng, zhèzhǒng táng zài jiérì lǐ hěn shòu huānyíng.",
+      "english": "In autumn, someone sells sugar, and this kind of sugar is very popular during festivals."
+    }
+  ]
+}

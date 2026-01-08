@@ -1,0 +1,44 @@
+{
+  "simplified": "柬",
+  "traditional": "柬",
+  "pinyin": "jiǎn",
+  "english": "card",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 音(音) (yīn, \"sound\") = phonetic element 音(音) with semantic 木(木, \"wood\") -> card or written announcement on wood",
+    "interpretation": "The character 柬(柬) (jiǎn, \"card\") is a combination of 木(木) (mù, \"wood\") indicating material, and 音(音) (yīn, \"sound\") for phonetic purposes. Historically, messages and cards were written on wooden tablets.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我收到了一张柬(我收到了一張柬)，邀请我参加聚会(邀請我參加聚會)。",
+      "pinyin": "Wǒ shōu dào le yī zhāng jiǎn, yāo qǐng wǒ cān jiā jù huì。",
+      "english": "I received a card inviting me to attend a party."
+    },
+    {
+      "chinese": "柬上写着精美的图案(柬上寫著精美的圖案)，使人印象深刻(使人印象深刻)。",
+      "pinyin": "Jiǎn shàng xiě zhe jīngměi de tú àn, shǐ rén yìnxiàng shēnkè。",
+      "english": "The card is adorned with exquisite designs, which leave a deep impression."
+    },
+    {
+      "chinese": "这是一张精致的柬(這是一張精緻的柬)。",
+      "pinyin": "Zhè shì yī zhāng jīngzhì de jiǎn。",
+      "english": "This is an exquisite card."
+    }
+  ]
+}

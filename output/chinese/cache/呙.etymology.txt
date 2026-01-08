@@ -1,0 +1,11 @@
+[呙]
+Simplified Chinese.
+
+[咼]
+Phono-semantic compound ( 形聲 / 形声 , OC *kʰʷroːl ): phonetic 冎 ( OC *kroːlʔ ) + semantic 口 .
+
+[剮]
+Phono-semantic compound ( 形聲 / 形声 , OC *kroːlʔ ): phonetic 咼 ( OC *kʰʷroːl ) + semantic 刀 ( “ knife ” ) .
+
+[剐]
+Unorthodox variant of 剮 . Simplified from 剮 ( 咼 → 呙 )

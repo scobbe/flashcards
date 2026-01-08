@@ -1,0 +1,44 @@
+{
+  "simplified": "豚",
+  "traditional": "豚",
+  "pinyin": "tún",
+  "english": "piglet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 犭(犭) (quǎn, \"dog\") + phonetic: 豕(豕) (shǐ, \"pig\") = pig or dog-like animal -> piglet",
+    "interpretation": "The character 豚(tún, \"piglet\") combines 犭(犭) (quǎn, \"dog\") which commonly signifies animals with 豕(豕) (shǐ, \"pig\") as the phonetic component, suggesting a small or young pig.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    },
+    {
+      "char": "犭",
+      "trad": "犭",
+      "pinyin": "quǎn",
+      "english": "dog"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小豚吃着食物(小豚吃著食物)。",
+      "pinyin": "Xiǎo tún chī zhe shí wù。",
+      "english": "The piglet is eating food."
+    },
+    {
+      "chinese": "农夫照料豚(農夫照料豚)，小豚在草地上跳跃(小豚在草地上跳躍)。",
+      "pinyin": "Nóng fū zhào liào tún，xiǎo tún zài cǎo dì shàng tiào yuè。",
+      "english": "The farmer cares for the piglet, and the piglet hops on the grassy field."
+    },
+    {
+      "chinese": "豚在泥地中打滚(豚在泥地中打滾)。",
+      "pinyin": "Tún zài ní dì zhōng dǎ gǔn。",
+      "english": "The piglet rolls in the mud."
+    }
+  ]
+}

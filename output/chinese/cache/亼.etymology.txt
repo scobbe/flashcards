@@ -1,3 +1,9 @@
 [亼]
 Ideogrammic compound ( 會意 / 会意 ): 入 + 一 . To gather from three sides, if connected to the ancient version of 集 .
 Otherwise, it's an open mouth 口 reversed upside-down and the original version of 今 . This character can be seen in 合 , 今 , 會 , 令 , 侖 , 食 , 僉 , and 龠 . Unrelated to 俞 , in which it represents part of a flipped vessel, 由 .
+
+[集]
+Ideogrammic compound ( 會意 / 会意 ): 隹 ( “ bird ” ) + 木 ( “ tree ” ) . The variant 雧 ( jí ) shows three birds instead.
+
+[隼]
+The upper component is a reference to a bird with a short tail, in this case a falcon, and is used both as a semantic and phonetic component. Originally, it was written as 鵻 . Then it became 隼 and eventually 鶽 .

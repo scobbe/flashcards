@@ -1,0 +1,39 @@
+{
+  "simplified": "坴",
+  "traditional": "坴",
+  "pinyin": "lù",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 圥 (lù) + semantic: 土(土) (tǔ, 'earth; soil') = component in larger characters",
+    "interpretation": "坴(lù) combines semantic 土(土) (tǔ, 'earth; soil') with the phonetic 圥 to form a phono-semantic compound used within more complex characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "圥",
+      "trad": "圥",
+      "pinyin": "lù",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "在这个字中(在這個字中)，‘坴’起了音旁作用(‘坴’起了音旁作用)。",
+      "pinyin": "Zài zhège zì zhōng, ‘Lù’ qǐle yīnpáng zuòyòng.",
+      "english": "In this character, ‘坴’ functions as the phonetic component."
+    },
+    {
+      "chinese": "‘坴’是构字的一个组成部分(‘坴’是構字的一個組成部分)。",
+      "pinyin": "‘Lù’ shì gòuzì de yīgè zǔchéng bùfèn.",
+      "english": "‘坴’ is a component in character formation."
+    }
+  ]
+}

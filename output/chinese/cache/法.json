@@ -1,0 +1,39 @@
+{
+  "simplified": "法",
+  "traditional": "法",
+  "pinyin": "fǎ",
+  "english": "method; law; way",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 去(去) (qù, 'to go') = water flowing smoothly, orderly, like a law -> method; law",
+    "interpretation": "The character 法(fǎ, 'method; law; way') combines 水(shuǐ, 'water') to suggest the smooth, guiding nature of laws or methods, with 去(qù, 'to go') as a phonetic element, reinforcing the orderly progression associated with law.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "氵",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "去",
+      "trad": "去",
+      "pinyin": "qù",
+      "english": "to go"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "政府颁布法律(政府頒布法律)，维护社会秩序(維護社會秩序)。",
+      "pinyin": "Zhèngfǔ bānbù fǎlǜ, wéihù shèhuì zhìxù.",
+      "english": "The government enacts laws to maintain social order."
+    },
+    {
+      "chinese": "我们应该探索新的方法(我們應該探索新的方法)，解决困难(解決困難)。",
+      "pinyin": "Wǒmen yīnggāi tànsuǒ xīn de fāngfǎ, jiějué kùnnán.",
+      "english": "We should explore new methods to solve problems."
+    }
+  ]
+}

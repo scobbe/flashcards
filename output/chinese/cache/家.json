@@ -1,0 +1,39 @@
+{
+  "simplified": "家",
+  "traditional": "家",
+  "pinyin": "jiā",
+  "english": "home; family; house",
+  "etymology": {
+    "type": "pictogram",
+    "description": "宀(宀) (mián, 'roof') + 豕(豕) (shǐ, 'pig') = pig under a roof -> home, house",
+    "interpretation": "The character 家(家) (jiā, 'home; family; house') uses the pictorial elements of a 'roof' and a 'pig' to evoke an ancient image of a house, where pigs were commonly kept under the same roof as a family, indicating the concept of a home.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱我的家(我愛我的家)。",
+      "pinyin": "Wǒ ài wǒ de jiā.",
+      "english": "I love my home."
+    },
+    {
+      "chinese": "回家路上遇见老朋友(回家路上遇見老朋友)，聊起往事(聊起往事)。",
+      "pinyin": "Huí jiā lùshàng yùjiàn lǎo péngyǒu, liáo qǐ wǎngshì.",
+      "english": "On the way home, I met an old friend, and we reminisced about the past."
+    }
+  ]
+}

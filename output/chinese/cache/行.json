@@ -1,0 +1,44 @@
+{
+  "simplified": "行",
+  "traditional": "行",
+  "pinyin": "xíng",
+  "english": "to go; to walk",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Originally a symmetric depiction of a street intersection; simplified asymmetrically -> 彳(彳) (chì, \"step\") + 亍(亍) (chù, \"step\")",
+    "interpretation": "The character 行(xíng) visually represented a street intersection, with two symmetrical parts symbolizing the act of going or walking along paths. Despite its current breakdown into separate elements, it was originally a unified pictogram rather than a compound.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "亍",
+      "trad": "亍",
+      "pinyin": "chù",
+      "english": "step"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我行往学校(我行往學校)。",
+      "pinyin": "Wǒ xíng wǎng xuéxiào.",
+      "english": "I go to school."
+    },
+    {
+      "chinese": "他行于青山之间(他行於青山之間)，徒步旅行至古城(徒步旅行至古城)。",
+      "pinyin": "Tā xíng yú qīngshān zhī jiān, túbù lǚxíng zhì gǔchéng.",
+      "english": "He walks among the green mountains and hikes to the ancient city."
+    },
+    {
+      "chinese": "他们行在林间小路上(他們行在林間小路上)。",
+      "pinyin": "Tāmen xíng zài línjiān xiǎolù shàng.",
+      "english": "They walk on the forest trail."
+    }
+  ]
+}

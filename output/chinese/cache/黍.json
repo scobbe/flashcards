@@ -1,0 +1,44 @@
+{
+  "simplified": "黍",
+  "traditional": "黍",
+  "pinyin": "shǔ",
+  "english": "glutinous millet",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Depicts a cereal 禾 (hé, 'grain') with kernels or water 水 (shuǐ, 'water') below",
+    "interpretation": "The character 黍(shǔ, 'glutinous millet') represents a grain with something akin to water or possibly kernels beneath, suggesting its properties or uses, like being sticky or used in fermentation. The character captures the essential features of millet.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "秋收时节农民收获黍(秋收時節農民收穫黍)。",
+      "pinyin": "Qiūshōu shíjié nóngmín shōuhuò shǔ.",
+      "english": "During the autumn harvest, farmers gather glutinous millet."
+    },
+    {
+      "chinese": "他用黍做粥(他用黍做粥)，味道十分香甜(味道十分香甜)。",
+      "pinyin": "Tā yòng shǔ zuò zhōu, wèidào shífēn xiāngtián.",
+      "english": "He makes porridge with glutinous millet, and it tastes very sweet."
+    },
+    {
+      "chinese": "老农常用黍酿酒(老農常用黍釀酒)，以庆丰收(以慶豐收)。",
+      "pinyin": "Lǎonóng cháng yòng shǔ niàng jiǔ, yǐ qìng fēngshōu.",
+      "english": "The old farmer often brews wine with glutinous millet to celebrate a bountiful harvest."
+    }
+  ]
+}

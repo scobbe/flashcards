@@ -1,0 +1,26 @@
+{
+  "simplified": "攵",
+  "traditional": "攵",
+  "pinyin": "pū",
+  "english": "tap",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand holding a stick, preparing to strike, tap or hit",
+    "interpretation": "This character visually represents a hand wielding a stick, which aligns with its meaning of 'tap' or 'hit.' As a pictogram, it captures the action directly and succinctly.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他用手攵了一下门(他用手攴了一下門)。",
+      "pinyin": "Tā yòng shǒu pūle yīxià mén.",
+      "english": "He tapped on the door with his hand."
+    },
+    {
+      "chinese": "读古书时(讀古書時)，他注意到‘攵’这个偏旁(他注意到‘攴’這個偏旁)。",
+      "pinyin": "Dú gǔshū shí, tā zhùyì dào 'pū' zhège piānpáng.",
+      "english": "While reading ancient books, he noticed the radical '攵'."
+    }
+  ]
+}

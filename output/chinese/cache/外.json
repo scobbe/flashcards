@@ -1,0 +1,44 @@
+{
+  "simplified": "外",
+  "traditional": "外",
+  "pinyin": "wài",
+  "english": "outside; exterior; foreign",
+  "etymology": {
+    "type": "Phono-semantic compound",
+    "description": "Semantic: 卜(卜) (bǔ, \"divination\") + Phonetic: 月(月) (yuè, \"moon\") -> originally related to phases of moon for divination -> exterior",
+    "interpretation": "The character 外(wài, \"outside\") combines 卜(卜) (bǔ, \"divination\") as a semantic element and 月(月) (yuè, \"moon\") as a phonetic element. This suggests divination practices related to moon phases, reflecting an understanding of measuring what is 'outside' or observable of the moon, thus extending to the concept of 'outside'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "卜",
+      "trad": "卜",
+      "pinyin": "bǔ",
+      "english": "divination"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孩子们在外玩耍(孩子們在外玩耍)。",
+      "pinyin": "Háizimen zài wài wánshuǎ.",
+      "english": "The children are playing outside."
+    },
+    {
+      "chinese": "他离开喧嚣(他離開喧囂)，向外探索(向外探索)。",
+      "pinyin": "Tā líkāi xuānxiāo, xiàng wài tànsuǒ.",
+      "english": "He leaves the hustle and bustle to explore the outside."
+    },
+    {
+      "chinese": "外國的文化充滿魅力(外國的文化充滿魅力)。",
+      "pinyin": "Wàiguó de wénhuà chōngmǎn mèilì.",
+      "english": "Foreign cultures are full of charm."
+    }
+  ]
+}

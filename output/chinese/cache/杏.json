@@ -1,0 +1,44 @@
+{
+  "simplified": "杏",
+  "traditional": "杏",
+  "pinyin": "xìng",
+  "english": "apricot",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"wood\") + 口(口) (kǒu, \"mouth\") = possibly describes the tastiness of apricot fruit",
+    "interpretation": "The character 杏(杏) (xìng, \"apricot\") represents an apricot tree, with 木(木) (mù, \"wood\") standing for a tree or plant and 口(口) (kǒu, \"mouth\") possibly suggesting the enjoyment or edibility of the apricot's fruit. Though Shuowen proposed a phono-semantic origin with 可(可) (kě, \"can\"), the ideogram explanation focused on the fruit's appeal is more intuitive.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公园里有杏(公園裡有杏)。",
+      "pinyin": "Gōngyuán lǐ yǒu xìng.",
+      "english": "There are apricots in the park."
+    },
+    {
+      "chinese": "夏天来临时(夏天來臨時)，杏果成熟饱满(杏果成熟飽滿)。",
+      "pinyin": "Xiàtiān láilín shí, xìng guǒ chéngshú bǎomǎn.",
+      "english": "When summer arrives, the apricot fruits ripen fully."
+    },
+    {
+      "chinese": "老农种杏树(老農種杏樹)，收获满满喜悦溢于言表(收穫滿滿喜悅溢於言表)。",
+      "pinyin": "Lǎo nóng zhòng xìngshù, shōuhuò mǎnmǎn xǐyuè yì yú yánbiǎo.",
+      "english": "The old farmer plants apricot trees, and his harvest overflows with joy."
+    }
+  ]
+}

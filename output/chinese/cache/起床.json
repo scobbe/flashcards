@@ -1,0 +1,44 @@
+{
+  "simplified": "起床",
+  "traditional": "起床",
+  "pinyin": "qǐ chuáng",
+  "english": "to get out of bed; to wake up",
+  "etymology": {
+    "type": "compound word",
+    "description": "起(起) (qǐ, \"rise\") + 床(床) (chuáng, \"bed\") = the action of rising from the bed or waking up.",
+    "interpretation": "The word 起床(qǐ chuáng) combines 起(qǐ, \"rise\") with 床(chuáng, \"bed\") to describe the action of getting out of bed, signifying the transition from lying down to a wakeful state.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "起",
+      "trad": "起",
+      "pinyin": "qǐ",
+      "english": "rise; begin; get up; start"
+    },
+    {
+      "char": "床",
+      "trad": "床",
+      "pinyin": "chuáng",
+      "english": "bed"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每天早上七点(每天早上七點)，我准时起床(我準時起床)。",
+      "pinyin": "Měi tiān zǎoshang qī diǎn, wǒ zhǔnshí qǐ chuáng.",
+      "english": "I get up on time at seven every morning."
+    },
+    {
+      "chinese": "闹钟一响(鬧鐘一響)，我就起床(我就起床)。",
+      "pinyin": "Nào zhōng yī xiǎng, wǒ jiù qǐ chuáng.",
+      "english": "As soon as the alarm rings, I get up."
+    },
+    {
+      "chinese": "上学前必须起床(上學前必須起床)，否则会迟到(否則會遲到)。",
+      "pinyin": "Shàng xué qián bìxū qǐ chuáng, fǒuzé huì chídào.",
+      "english": "I must get up before school, otherwise I'll be late."
+    }
+  ]
+}

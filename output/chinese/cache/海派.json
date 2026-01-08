@@ -1,0 +1,44 @@
+{
+  "simplified": "海派",
+  "traditional": "海派",
+  "pinyin": "hǎi pài",
+  "english": "Shanghai style",
+  "etymology": {
+    "type": "compound word",
+    "description": "海(海) (hǎi, \"sea\") refers to the ocean, emphasizing Shanghai's coastal location. 派(派) (pài, \"style; school\") indicates a particular style or group, reflecting the unique cultural characteristics associated with Shanghai.",
+    "interpretation": "海派(海派) (hǎi pài, \"Shanghai style\") describes the distinctive cultural and artistic ethos of Shanghai, characterized by its openness to both traditional Chinese and Western influences, given its historic status as an international port city.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea; ocean"
+    },
+    {
+      "char": "派",
+      "trad": "派",
+      "pinyin": "pài",
+      "english": "style; school; group"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他喜欢海派的生活方式(他喜歡海派的生活方式)。",
+      "pinyin": "tā xǐhuān hǎi pài de shēnghuó fāngshì.",
+      "english": "He likes the Shanghai style lifestyle."
+    },
+    {
+      "chinese": "上海的文化时尚体现了海派艺术(上海的文化時尚體現了海派藝術)。",
+      "pinyin": "Shànghǎi de wénhuà shíshàng tǐxiàn le hǎi pài yìshù.",
+      "english": "Shanghai's cultural fashion reflects the Shanghai style art."
+    },
+    {
+      "chinese": "走在外滩(走在外灘)，你能感受到浓厚的海派韵味(你能感受到濃厚的海派韻味)。",
+      "pinyin": "Zǒu zài Wàitān, nǐ néng gǎnshòu dào nónghòu de hǎi pài yùnwèi.",
+      "english": "Walking along the Bund, you can feel the rich vibe of Shanghai style."
+    }
+  ]
+}

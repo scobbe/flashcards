@@ -1,0 +1,51 @@
+{
+  "simplified": "留",
+  "traditional": "留",
+  "pinyin": "liú",
+  "english": "to stay",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "畱(畱) (liú) originally: phonetic 丣(丣) (liú) + semantic 田(田) (tián, \"field\") -> 留(留) evolved: phonetic 卯(卯) (mǎo) + semantic 田(田, \"field\") = field-related action -> to stay",
+    "interpretation": "The character 留(留) (liú) combines 田(田) (tián, \"field\"), indicating a place of settlement or work, with phonetic elements 卯(卯) (mǎo) and 丣(丣) (liú) related to staying or remaining. This suggests staying or being present in a field or place.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "畱",
+      "trad": "畱",
+      "pinyin": "liú",
+      "english": "\"stay\""
+    },
+    {
+      "char": "丣",
+      "trad": "丣",
+      "pinyin": "liú",
+      "english": "\"phonetic component\""
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "\"field\""
+    },
+    {
+      "char": "卯",
+      "trad": "卯",
+      "pinyin": "mǎo",
+      "english": "\"phonetic component\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我决定留在学校(我決定留在學校)。",
+      "pinyin": "Wǒ juédìng liú zài xuéxiào.",
+      "english": "I decided to stay at school."
+    },
+    {
+      "chinese": "老师建议留在班级(老師建議留在班級)，继续提高成绩(繼續提高成績)。",
+      "pinyin": "Lǎoshī jiànyì liú zài bānjí, jìxù tígāo chéngjī.",
+      "english": "The teacher suggested staying in the class to continue improving the grades."
+    }
+  ]
+}

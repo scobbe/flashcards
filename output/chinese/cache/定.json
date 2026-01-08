@@ -1,0 +1,44 @@
+{
+  "simplified": "定",
+  "traditional": "定",
+  "pinyin": "dìng",
+  "english": "decide; settle; fix; stable",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "宀(宀) (mián, \"roof\") + 正(正) (zhèng, \"correct\") = roof under which something is correct/stable -> decide; settle; fix; stable",
+    "interpretation": "The character 定 combines 宀(宀) (mián, \"roof\") symbolizing a place or structure with 正(正) (zhèng, \"correct\"), suggesting a stable or correct position within a sheltered space, implying decisions or settlements occur securely under one's own roof.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "correct"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们定了明天的见面时间(我們定了明天的見面時間)。",
+      "pinyin": "Wǒ dìng le míngtiān de jiànmiàn shíjiān.",
+      "english": "We fixed the meeting time for tomorrow."
+    },
+    {
+      "chinese": "他定下了终生的承诺(他定下了終生的承諾)。",
+      "pinyin": "Tā dìng xià le zhōngshēng de chéngnuò.",
+      "english": "He made a lifelong commitment."
+    },
+    {
+      "chinese": "经过讨论(經過討論)，他们定好了策略(他們定好了策略)。",
+      "pinyin": "Jīngguò tǎolùn, tāmen dìng hǎo le cèlüè.",
+      "english": "After discussion, they settled on a strategy."
+    }
+  ]
+}

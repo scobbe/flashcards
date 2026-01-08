@@ -1,0 +1,44 @@
+{
+  "simplified": "期",
+  "traditional": "期",
+  "pinyin": "qī",
+  "english": "period; phase; time",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "其(其) (qí, \"his\") + 月(月) (yuè, \"moon\") = period of time marked by the moon -> period; phase; time",
+    "interpretation": "The character 期(期) combines the semantic 月(月) (yuè, \"moon\"), representing a natural cycle of time, with the phonetic 其(其) (qí, \"his\") to suggest temporal relationships or durations. This reflects the traditional role of the moon in marking time in historical Chinese calendars.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "考试期将至(考試期將至)，考生们紧张准备(考生們緊張準備)。",
+      "pinyin": "Kǎoshì qī jiāng zhì, kǎoshēng men jǐnzhāng zhǔnbèi.",
+      "english": "The exam period is approaching, and the candidates are preparing nervously."
+    },
+    {
+      "chinese": "他度过了一个充满期待的艺术期(他度過了一個充滿期待的藝術期)。",
+      "pinyin": "Tā dùguò le yīgè chōngmǎn qīdài de yìshù qī.",
+      "english": "He experienced an art phase full of anticipation."
+    },
+    {
+      "chinese": "这个经济期虽然艰难(這個經濟期雖然艱難)，但蕴藏着无限可能(但蘊藏著無限可能)。",
+      "pinyin": "Zhège jīngjì qī suīrán jiānnán, dàn yùncáng zhe wúxiàn kěnéng.",
+      "english": "Although this economic period is tough, it holds infinite possibilities."
+    }
+  ]
+}

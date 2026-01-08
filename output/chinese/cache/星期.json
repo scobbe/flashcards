@@ -1,0 +1,44 @@
+{
+  "simplified": "星期",
+  "traditional": "星期",
+  "pinyin": "xīngqī",
+  "english": "week; weekday",
+  "etymology": {
+    "type": "compound word",
+    "description": "星(星) (xīng, \"star\") and 期(期) (qī, \"period\") combine to form the word 星期(星期) (xīngqī, \"week; weekday\"). Originally, the concept of a seven-day week in Chinese culture is believed to have been influenced by the Seven Luminaries (七曜), which include the Sun, the Moon, and the five classical planets. These were historically associated with different days of the week, giving a celestial significance to the structuring of time.",
+    "interpretation": "",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星",
+      "trad": "星",
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    {
+      "char": "期",
+      "trad": "期",
+      "pinyin": "qī",
+      "english": "period; phase; time"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天是星期五(今天是星期五)。",
+      "pinyin": "Jīntiān shì xīngqīwǔ.",
+      "english": "Today is Friday."
+    },
+    {
+      "chinese": "我们在星期三学习新知识(我們在星期三學習新知識)，然后去博物馆(然後去博物館)。",
+      "pinyin": "Wǒmen zài xīngqīsān xuéxí xīn zhīshì, ránhòu qù bówùguǎn.",
+      "english": "We study new knowledge on Wednesday, then go to the museum."
+    },
+    {
+      "chinese": "他计划下个星期旅行(他計劃下個星期旅行)。",
+      "pinyin": "Tā jìhuà xiàgè xīngqī lǚxíng.",
+      "english": "He plans to travel next week."
+    }
+  ]
+}

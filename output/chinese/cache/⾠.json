@@ -1,0 +1,38 @@
+{
+  "simplified": "⾠",
+  "traditional": "艸",
+  "pinyin": "cǎo",
+  "english": "grass",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "Duplication of 屮(屮) (chè, \"grass\") -> depicts blades of grass",
+    "interpretation": "The character 艸(艸) (cǎo, \"grass\") is a pictogram representing grass blades. It duplicates the character 屮(屮) (chè, \"grass\") to emphasize the appearance of grass.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "grass"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "草铺满了田野(艸鋪滿了田野)。",
+      "pinyin": "Cǎo pū mǎn le tiányě.",
+      "english": "Grass covers the fields."
+    },
+    {
+      "chinese": "微风拂过草原(微風拂過艸原)，晨露滋润万物(晨露滋潤萬物)。",
+      "pinyin": "Wēi fēng fú guò cǎoyuán, chén lù zī rùn wànwù.",
+      "english": "A gentle breeze blows over the grassland, and morning dew nourishes all things."
+    },
+    {
+      "chinese": "孩子们在草地上奔跑(孩子們在艸地上奔跑)。",
+      "pinyin": "Háizimen zài cǎodì shàng bēnpǎo.",
+      "english": "Children run on the grassland."
+    }
+  ]
+}

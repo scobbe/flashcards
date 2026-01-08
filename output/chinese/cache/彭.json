@@ -1,0 +1,33 @@
+{
+  "simplified": "彭",
+  "traditional": "彭",
+  "pinyin": "péng",
+  "english": "surname",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 彭(彭) (péng, phono-semantic) + Semantic: 彳(彳) (chì, 'step') = sounds like 'péng', suggests something large or expansive -> used as a surname",
+    "interpretation": "The character 彭(彭) (péng) combines sound and meaning to suggest largeness or expansive presence, fitting characteristics associated with surnames in Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "彭先生今天来访(彭先生今天來訪)。",
+      "pinyin": "Péng xiānsheng jīntiān lái fǎng.",
+      "english": "Mr. Peng visited today."
+    },
+    {
+      "chinese": "彭家人热情款待客人(彭家人熱情款待客人)，赢得大家赞赏(贏得大家讚賞)。",
+      "pinyin": "Péng jiā rén rèqíng kuǎndài kèrén, yíngdé dàjiā zànshǎng.",
+      "english": "The Peng family warmly entertained the guests, earning everyone’s praise."
+    }
+  ]
+}

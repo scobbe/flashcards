@@ -1,0 +1,44 @@
+{
+  "simplified": "没事",
+  "traditional": "沒事",
+  "pinyin": "méishì",
+  "english": "be free; no problem",
+  "etymology": {
+    "type": "compound word",
+    "description": "没(沒) (méi, \"not have\") + 事(事) (shì, \"matter; affair; problem\")",
+    "interpretation": "The phrase 没事(沒事) (méishì) means that there is no problem or nothing to worry about. By breaking it down, it conveys the idea of 'not have matters' or 'no affairs', suggesting that the person is free from issues or concerns. This expression is frequently used in everyday situations to reassure someone that everything is fine or there is no trouble.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "没",
+      "trad": "沒",
+      "pinyin": "méi",
+      "english": "not have; without; drown; sink"
+    },
+    {
+      "char": "事",
+      "trad": "事",
+      "pinyin": "shì",
+      "english": "matter; affair; problem; thing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你忙完了(你忙完了)，没事(沒事)。",
+      "pinyin": "nǐ máng wán le, méishì.",
+      "english": "You're done with your work; it's all fine."
+    },
+    {
+      "chinese": "遇到困难时(遇到困難時)，没事(沒事)。",
+      "pinyin": "yù dào kùn nán shí, méishì.",
+      "english": "When you face difficulties, it's no problem."
+    },
+    {
+      "chinese": "受了点小伤(受了點小傷)，没事吧(沒事吧)？",
+      "pinyin": "shòu le diǎn xiǎo shāng, méishì ba?",
+      "english": "You got a minor injury; it's okay, isn’t it?"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "羊",
+  "traditional": "羊",
+  "pinyin": "yáng",
+  "english": "sheep",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a ram's head",
+    "interpretation": "The character 羊(yáng, 'sheep') visually represents the head of a sheep or ram, capturing the animal's distinctive features. It serves as a straightforward pictogram, portraying one of the common animals in ancient agrarian societies.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "农场里有羊(農場裡有羊)。",
+      "pinyin": "Nóngchǎng lǐ yǒu yáng.",
+      "english": "There are sheep on the farm."
+    },
+    {
+      "chinese": "春天来了(春天來了)，羊群在草地上吃草(羊群在草地上吃草)。",
+      "pinyin": "Chūntiān lái le, yángqún zài cǎodì shàng chī cǎo.",
+      "english": "In spring, the flock of sheep grazes on the meadow."
+    },
+    {
+      "chinese": "那只羊看起来很温顺(那隻羊看起來很溫順)。",
+      "pinyin": "Nà zhī yáng kàn qǐlái hěn wēnshùn.",
+      "english": "That sheep looks very gentle."
+    }
+  ]
+}

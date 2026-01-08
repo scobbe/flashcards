@@ -1,0 +1,44 @@
+{
+  "simplified": "客",
+  "traditional": "客",
+  "pinyin": "kè",
+  "english": "guest",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "宀(宀) (mián, \"roof\") + 各(各) (gè, \"each\") = under each roof -> guest",
+    "interpretation": "客(客) (kè, \"guest\") combines 宀(宀) (mián, \"roof\") to indicate a building or home, and 各(各) (gè, \"each\") as the phonetic component. Together, they symbolize a person staying under a roof other than their own, thus representing a guest.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "欢迎客人进来(歡迎客人進來)。",
+      "pinyin": "Huānyíng kèrén jìnlái.",
+      "english": "Welcome, guest, to come in."
+    },
+    {
+      "chinese": "他是国外来的客(他是國外來的客)，留宿在旅馆(留宿在旅館)。",
+      "pinyin": "Tā shì guówài lái de kè, liú sù zài lǚguǎn.",
+      "english": "He is a guest from overseas, staying overnight at the hotel."
+    },
+    {
+      "chinese": "她是热情的客(她是熱情的客)，为我们带来快乐(為我們帶來快樂)。",
+      "pinyin": "Tā shì rèqíng de kè, wèi wǒmen dài lái kuàilè.",
+      "english": "She is a friendly guest, bringing joy to us."
+    }
+  ]
+}

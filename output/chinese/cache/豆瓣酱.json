@@ -1,0 +1,50 @@
+{
+  "simplified": "豆瓣酱",
+  "traditional": "豆瓣醬",
+  "pinyin": "dòubànjiàng",
+  "english": "doubanjiang; chili bean paste",
+  "etymology": {
+    "type": "compound word",
+    "description": "豆(豆) (dòu, \"bean\"), 瓣(瓣) (bàn, \"petal\"; \"segment\"), 酱(醬) (jiàng, \"paste\")",
+    "interpretation": "豆瓣醬 (dòubànjiàng, \"doubanjiang\") is a type of paste made from fermented broad beans, soybeans, and usually chili. The term 豆(豆) (dòu, \"bean\") indicates the primary ingredient, while 瓣(瓣) (bàn, \"petal\"; \"segment\") suggests the segmented appearance of the ingredients, and 酱(醬) (jiàng, \"paste\") denotes its form as a thick sauce. It is a staple in Sichuan cuisine, used for its rich umami flavor and spiciness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean"
+    },
+    {
+      "char": "瓣",
+      "trad": "瓣",
+      "pinyin": "bàn",
+      "english": "petal; segment"
+    },
+    {
+      "char": "酱",
+      "trad": "醬",
+      "pinyin": "jiàng",
+      "english": "paste"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我用豆瓣酱(豆瓣醬)，做鱼香茄子(魚香茄子)。",
+      "pinyin": "Wǒ yòng dòubànjiàng, zuò yúxiāng qiézi.",
+      "english": "I use doubanjiang to cook fish-flavored eggplant."
+    },
+    {
+      "chinese": "豆瓣酱(豆瓣醬)提升菜肴(菜肴)，带来独特味道(獨特味道)。",
+      "pinyin": "Dòubànjiàng tíshēng càiyáo, dàilái dútè wèidào.",
+      "english": "Doubanjiang enhances dishes and brings a unique flavor."
+    },
+    {
+      "chinese": "她学做菜时(學做菜時)，总用豆瓣酱(豆瓣醬)调味(調味)。",
+      "pinyin": "Tā xué zuòcài shí, zǒng yòng dòubànjiàng tiáowèi.",
+      "english": "When she learns to cook, she always uses doubanjiang for seasoning."
+    }
+  ]
+}

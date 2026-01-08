@@ -1,0 +1,39 @@
+{
+  "simplified": "維",
+  "traditional": "維",
+  "pinyin": "wéi",
+  "english": "bird tied with string",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"thread\") + 唯(唯) (wéi, \"only\") = thread as a component of linkage -> bird tied with string",
+    "interpretation": "The character 維(wéi) connects the idea of threads with the phonetic component 唯(wéi) to suggest the action of tying or connecting, which can be related to how birds might be symbolically tied.",
+    "simplification": "維(維) → 维(維): 糸(糸) (mì, \"thread\") simplified to 纟(纟) as a cursive shorthand for the thread radical."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "thread"
+    },
+    {
+      "char": "唯",
+      "trad": "唯",
+      "pinyin": "wéi",
+      "english": "only"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用細線維著受驚的小鳥(他用細線維著受驚的小鳥)。",
+      "pinyin": "Tā yòng xìxiàn wéi zhe shòu jīng de xiǎoniǎo.",
+      "english": "He ties the frightened bird with a thin string."
+    },
+    {
+      "chinese": "妈妈用細繩維著小鳥(媽媽用細繩維著小鳥)，以防它亂飛(以防它亂飛)。",
+      "pinyin": "Māmā yòng xìshéng wéi zhe xiǎoniǎo, yǐ fáng tā luàn fēi.",
+      "english": "Mama ties the bird with a fine rope to prevent it from flying away."
+    }
+  ]
+}

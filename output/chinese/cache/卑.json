@@ -1,0 +1,39 @@
+{
+  "simplified": "卑",
+  "traditional": "卑",
+  "pinyin": "bēi",
+  "english": "low",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 㔾(節) (jié, \"joint\") + Semantic: 田(田) (tián, \"field\") = picturing something low in status or position like a field -> low",
+    "interpretation": "The character combines the phonetic element 㔾(節) (jié, \"joint\") with the semantic element 田(田) (tián, \"field\"). A field is a low-lying area, which aligns with the meaning of being low or humble in status.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㔾",
+      "trad": "節",
+      "pinyin": "jié",
+      "english": "joint"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的行为卑劣(他的行為卑劣)，令人厌恶(令人厭惡)。",
+      "pinyin": "tā de xíngwéi bēi liè, lìng rén yànwù.",
+      "english": "His behavior is despicable, making people feel disgusted."
+    },
+    {
+      "chinese": "他卑躬屈膝(他卑躬屈膝)，以讨好上司(以討好上司)。",
+      "pinyin": "tā bēi gōng qū xī, yǐ tǎohǎo shàngsī.",
+      "english": "He acts in a servile manner to please his boss."
+    }
+  ]
+}

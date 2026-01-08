@@ -1,0 +1,44 @@
+{
+  "simplified": "丝",
+  "traditional": "絲",
+  "pinyin": "sī",
+  "english": "silk; thread",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "糸(糸) (sī, \"silk\") + 糸(糸) (sī, \"silk\") = intertwined threads -> silk/thread",
+    "interpretation": "The character 絲(絲) (sī, \"silk\") symbolizes the concept of silk or thread by combining two 糸(糸) (sī, \"silk\") components, representing weaving or threading.",
+    "simplification": "絲(絲) was simplified to 丝 by replacing the stacked 糸(糸) forms with a cursive and more streamlined 𢇁 representation."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他选用蚕丝(他選用蠶絲)，制作精美的围巾(製作精美的圍巾)。",
+      "pinyin": "Tā xuǎn yòng cán sī, zhì zuò jīng měi de wéi jīn.",
+      "english": "He selects silkworm silk to make a beautiful scarf."
+    },
+    {
+      "chinese": "古代诗人常以丝(古代詩人常以絲)，比喻柔情(比喻柔情)。",
+      "pinyin": "Gǔ dài shī rén cháng yǐ sī, bǐ yù róu qíng.",
+      "english": "Ancient poets often used silk as a metaphor for tenderness."
+    },
+    {
+      "chinese": "这件披肩由丝(這件披肩由絲)织成(織成)精细的花纹(精細的花紋)。",
+      "pinyin": "Zhè jiàn pī jiān yóu sī zhī chéng jīng xì de huā wén.",
+      "english": "This shawl is woven from silk into intricate patterns."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "花",
+  "traditional": "花",
+  "pinyin": "huā",
+  "english": "flower",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 化(化) (huà, \"transform\") = plant + phonetic indicator -> flower",
+    "interpretation": "花(花) (huā, \"flower\") combines 艹(艹) (cǎo, \"grass; plant\") indicating its association with vegetation, and 化(化) (huà, \"transform\") for its phonetic value. This illustrates both the natural aspect and the phonetic pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "花香四溢(花香四溢)。",
+      "pinyin": "huā xiāng sì yì。",
+      "english": "The fragrance of flowers fills the air."
+    },
+    {
+      "chinese": "阳光明媚(陽光明媚)，花儿争艳(花兒爭艷)。",
+      "pinyin": "yáng guāng míng mèi，huā ér zhēng yàn。",
+      "english": "The bright sunshine shines as the flowers compete in beauty."
+    },
+    {
+      "chinese": "她用花装点房间(她用花裝點房間)。",
+      "pinyin": "tā yòng huā zhuāng diǎn fáng jiān。",
+      "english": "She decorates the room with flowers."
+    }
+  ]
+}

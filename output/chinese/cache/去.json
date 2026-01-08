@@ -1,0 +1,44 @@
+{
+  "simplified": "去",
+  "traditional": "去",
+  "pinyin": "qù",
+  "english": "go",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "大(大) (dà, \"big\") + 口(口) (kǒu, \"mouth, object\") = originally depicted a man departing from a cave or city -> meaning \"go\"",
+    "interpretation": "The original form illustrated a man leaving a place, possibly a city or a cave, suggesting the concept of going away or departing. This imagery naturally leads to the modern meaning of \"go.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth, object"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我要去学校(我要去學校)。",
+      "pinyin": "Wǒ yào qù xuéxiào.",
+      "english": "I want to go to school."
+    },
+    {
+      "chinese": "她去商店(她去商店)，买了一些水果(買了一些水果)。",
+      "pinyin": "Tā qù shāngdiàn, mǎile yīxiē shuǐguǒ.",
+      "english": "She went to the shop and bought some fruits."
+    },
+    {
+      "chinese": "明年我打算去法国(明年我打算去法國)。",
+      "pinyin": "Míngnián wǒ dǎsuàn qù Fǎguó.",
+      "english": "I plan to go to France next year."
+    }
+  ]
+}

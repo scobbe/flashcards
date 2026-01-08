@@ -1,0 +1,31 @@
+{
+  "simplified": "氵",
+  "traditional": "氵",
+  "pinyin": "shuǐ",
+  "english": "water",
+  "etymology": {
+    "type": "pictogram",
+    "description": "氵is the radical form of 水(水) (shuǐ, \"water\") -> depicts flowing water, compressed and stylized next to characters.",
+    "interpretation": "The character 氵is a simplified variant used as a radical to represent water-related meanings in other characters. It retains the flowing water depiction of 水(水) (shuǐ, \"water\") but is stylized to fit alongside other components.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "水是生命之源(水是生命之源)。",
+      "pinyin": "Shuǐ shì shēngmìng zhī yuán.",
+      "english": "Water is the source of life."
+    },
+    {
+      "chinese": "汉字中偏旁氵(漢字中偏旁氵)，代表水(代表水)。",
+      "pinyin": "Hànzì zhōng piān páng shuǐ, dàibiǎo shuǐ.",
+      "english": "In Chinese characters, the radical '氵' signifies water."
+    },
+    {
+      "chinese": "河水清澈透明(河水清澈透明)，鱼儿欢快戏水(魚兒歡快戲水)。",
+      "pinyin": "Hé shuǐ qīngchè tòumíng, yú er huānkuaì xì shuǐ.",
+      "english": "The river water is clear and transparent, and the fish happily play in it."
+    }
+  ]
+}

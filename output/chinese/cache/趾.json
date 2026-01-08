@@ -1,0 +1,44 @@
+{
+  "simplified": "趾",
+  "traditional": "趾",
+  "pinyin": "zhǐ",
+  "english": "toe",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "足(足) (zú, \"foot\") + 止(止) (zhǐ, \"stop\") = semantic: foot + phonetic: stop -> toe",
+    "interpretation": "The character combines 足(足) (zú, \"foot\") as the semantic indicator and 止(止) (zhǐ, \"stop\") as the phonetic component to represent the idea of a 'toe,' which is a part of the foot.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的趾因寒冷而僵硬了(他的趾因寒冷而僵硬了)。",
+      "pinyin": "tā de zhǐ yīn hánlěng ér jiāngyìng le.",
+      "english": "His toe became stiff due to the cold."
+    },
+    {
+      "chinese": "我走路时(我走路時)，不小心扭到了趾(不小心扭到了趾)。",
+      "pinyin": "wǒ zǒulù shí, bù xiǎoxīn niǔ dào le zhǐ.",
+      "english": "While I was walking, I accidentally twisted my toe."
+    },
+    {
+      "chinese": "古代剑客战斗时(古代劍客戰鬥時)，常因疏忽伤及趾(常因疏忽傷及趾)。",
+      "pinyin": "gǔdài jiànkè zhàndòu shí, cháng yīn shūhū shāng jí zhǐ.",
+      "english": "Ancient swordsmen often injured their toes due to carelessness during battles."
+    }
+  ]
+}

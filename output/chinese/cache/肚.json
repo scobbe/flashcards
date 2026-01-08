@@ -1,0 +1,39 @@
+{
+  "simplified": "肚",
+  "traditional": "肚",
+  "pinyin": "dù",
+  "english": "stomach; belly",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "月(月) (yuè, \"moon; month\") as semantic indicator related to the body + 土(土) (tǔ, \"earth\") as phonetic component = refers to the body's belly area",
+    "interpretation": "In 肚(肚) (dù, \"stomach; belly\"), 月(月) (yuè, \"moon; month\") acts as a semantic indicator, symbolizing a part of the body, while 土(土) (tǔ, \"earth\") provides the pronunciation. The combination suggests a bodily area similar in shape to the roundness of the earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon; month"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "饭后他轻轻拍了拍肚(飯後他輕輕拍了拍肚)。",
+      "pinyin": "Fàn hòu tā qīngqīng pāi le pāi dù.",
+      "english": "After the meal, he lightly patted his stomach."
+    },
+    {
+      "chinese": "吃完饭(吃完飯)，他的肚开始咕咕叫(他的肚開始咕咕叫)。",
+      "pinyin": "Chī wán fàn, tā de dù kāishǐ gūgū jiào.",
+      "english": "After eating, his stomach started to rumble."
+    }
+  ]
+}

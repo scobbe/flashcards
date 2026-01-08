@@ -1,0 +1,39 @@
+{
+  "simplified": "好",
+  "traditional": "好",
+  "pinyin": "hǎo",
+  "english": "good; well; fine; nice",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "女(女) (nǚ, \"woman\") + 子(子) (zǐ, \"child\") = a woman with a child -> mutual affection, extended meaning 'good'",
+    "interpretation": "The character 好(hǎo) (\"good\") combines 女(nǚ) (\"woman\") and 子(zǐ) (\"child\"), depicting the traditional view that it is good for a woman to have a child, symbolizing affinity and care. This visual representation of nurturing and affection extended metaphorically to mean general goodness or well-being.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这本书写得很好(這本書寫得很好)。",
+      "pinyin": "Zhè běn shū xiě dé hěn hǎo.",
+      "english": "This book is written very well."
+    },
+    {
+      "chinese": "他今天心情很好(他今天心情很好)，所以笑得很灿烂(所以笑得很燦爛)。",
+      "pinyin": "Tā jīntiān xīnqíng hěn hǎo, suǒyǐ xiào dé hěn cànlàn.",
+      "english": "He is in a good mood today, so he smiles brightly."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "器",
+  "traditional": "器",
+  "pinyin": "qì",
+  "english": "tool; device; utensil; implement",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 口(口) + 口(口) + 口(口) + phonetic: 呂(呂) (lǚ, \"spine\") = mouths indicating multiple compartments + spine indicating strength -> tool or device",
+    "interpretation": "The character 器(qì) combines four instances of 口(kǒu, \"mouth\") to suggest multiple openings or compartments, symbolizing a tool or device. The addition of 呂(lǚ, \"spine\") adds a phonetic element and conveys strength or structural integrity, reinforcing the idea of something solidly constructed and multifaceted like a tool or implement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "呂",
+      "trad": "呂",
+      "pinyin": "lǚ",
+      "english": "spine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个器很精致(這個器很精緻)。",
+      "pinyin": "Zhège qì hěn jīngzhì.",
+      "english": "This implement is exquisite."
+    },
+    {
+      "chinese": "古人制作器时注重工艺(古人製作器時注重工藝)，传承千古智慧(傳承千古智慧)。",
+      "pinyin": "Gǔrén zhìzuò qì shí zhùzhòng gōngyì, chuánchéng qiān gǔ zhìhuì.",
+      "english": "Ancient people paid attention to craftsmanship when making tools, inheriting timeless wisdom."
+    },
+    {
+      "chinese": "他借用精良的器修复了古董(他借用精良的器修復了古董)。",
+      "pinyin": "Tā jièyòng jīngliáng de qì xiūfùle gǔdǒng.",
+      "english": "He borrowed a fine tool to restore the antique."
+    }
+  ]
+}

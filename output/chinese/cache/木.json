@@ -1,0 +1,26 @@
+{
+  "simplified": "木",
+  "traditional": "木",
+  "pinyin": "mù",
+  "english": "wood",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a tree with branches and roots",
+    "interpretation": "The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这把椅子的主要材料是木(這把椅子的主要材料是木)。",
+      "pinyin": "Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.",
+      "english": "The main material of this chair is wood."
+    },
+    {
+      "chinese": "工匠精心雕刻木(工匠精心雕刻木)，制成精美家具(制成精美家具)。",
+      "pinyin": "Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.",
+      "english": "The craftsman carefully carved the wood, crafting exquisite furniture."
+    }
+  ]
+}

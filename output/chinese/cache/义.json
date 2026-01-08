@@ -1,0 +1,38 @@
+{
+  "simplified": "义",
+  "traditional": "義",
+  "pinyin": "yì",
+  "english": "righteousness; justice; meaning",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "乂(乂) (yì, \"to govern/cut\") was originally used for its sound -> 刈(刈) (yì, \"to cut\") displaced 乂(乂) -> a stroke was added on top of 乂(乂) to distinguish it for the meaning of righteousness -> final form 义(義)",
+    "interpretation": "Originally, 乂(乂) was used for both its phonetic and semantic meanings but was mainly displaced by 刈(刈). To distinguish the idea of \"righteousness,\" a stroke was added, creating a differentiation that allowed the character to develop its own unique meaning related to justice and propriety.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "乂",
+      "trad": "乂",
+      "pinyin": "yì",
+      "english": "to govern/cut"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他行侠仗义(他行俠仗義)，扶危济困(扶危濟困)。",
+      "pinyin": "Tā xíng xiá zhàng yì, fú wēi jì kùn.",
+      "english": "He upholds chivalry and helps those in distress."
+    },
+    {
+      "chinese": "正义必胜(正義必勝)。",
+      "pinyin": "Zhèng yì bì shèng.",
+      "english": "Justice will surely prevail."
+    },
+    {
+      "chinese": "他始终坚守义(他始終堅守義)，维护公正(維護公正)。",
+      "pinyin": "Tā shǐ zhōng jiān shǒu yì, wèi hù gōng zhèng.",
+      "english": "He always adheres to righteousness and upholds fairness."
+    }
+  ]
+}

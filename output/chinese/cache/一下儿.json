@@ -1,0 +1,50 @@
+{
+  "simplified": "一下儿",
+  "traditional": "一下兒",
+  "pinyin": "yíxiàr",
+  "english": "a bit; for a moment",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(yī, \"one\") + 下(xià, \"down\") + 儿(兒) (ér, \"child or diminutive suffix\")",
+    "interpretation": "一下儿(一下兒) (yíxiàr) is commonly used in Mandarin to soften the tone of a request or action, indicating a short or quick action. The character 一(yī, \"one\") suggests singularity, and 下(xià, \"down\") often indicates a brief duration or a minor action, while 儿(兒) (ér, \"child or diminutive suffix\") adds an informal tone.",
+    "simplification": "儿 simplified to 儿"
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "down"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; son; diminutive suffix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请坐一下儿(請坐一下兒)。",
+      "pinyin": "Qǐng zuò yíxiàr.",
+      "english": "Please have a seat for a moment."
+    },
+    {
+      "chinese": "我休息一下儿(我休息一下兒)，再继续工作(再繼續工作)。",
+      "pinyin": "Wǒ xiūxí yíxiàr, zài jìxù gōngzuò.",
+      "english": "I'll rest for a moment and then continue working."
+    },
+    {
+      "chinese": "你试一下儿(你試一下兒)，看看效果如何(看看效果如何)。",
+      "pinyin": "Nǐ shì yíxiàr, kànkan xiàoguǒ rúhé.",
+      "english": "Try it for a bit and see how it works."
+    }
+  ]
+}

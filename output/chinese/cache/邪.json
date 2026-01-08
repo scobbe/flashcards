@@ -1,0 +1,44 @@
+{
+  "simplified": "邪",
+  "traditional": "邪",
+  "pinyin": "yé",
+  "english": "wrong",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 牙(牙) (yá, \"tooth\") + Semantic: 邑(邑) (yì, \"town; city\") = originally a place name 琅邪 -> borrowed for 'wrong; evil'",
+    "interpretation": "The character 邪(yé, 'wrong') originated from its use in place names, with the phonetic 牙(yá, 'tooth') suggesting sound and the semantic 邑(yì, 'town; city') indicating its geographical associations. Over time, this character was borrowed to represent the idea of wrongness or evil.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牙",
+      "trad": "牙",
+      "pinyin": "yá",
+      "english": "tooth"
+    },
+    {
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "town; city"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "有人散布邪说(有人散播邪說)。",
+      "pinyin": "Yǒurén sànbù yéshuō.",
+      "english": "Some people spread wrong doctrines."
+    },
+    {
+      "chinese": "他相信真理(他相信真理)，拒绝邪观点(拒絕邪觀點)。",
+      "pinyin": "Tā xiāngxìn zhēnlǐ, jùjué yé guāndiǎn.",
+      "english": "He believes in the truth and rejects wrong views."
+    },
+    {
+      "chinese": "流言蜚语常常掺杂邪成分(流言蜚語常常摻雜邪成分)。",
+      "pinyin": "Liúyán fēiyǔ chángcháng chānzá yé chéngfèn.",
+      "english": "Rumors are often tainted with wrong elements."
+    }
+  ]
+}

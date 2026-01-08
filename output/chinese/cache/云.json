@@ -1,0 +1,33 @@
+{
+  "simplified": "云",
+  "traditional": "雲",
+  "pinyin": "yún",
+  "english": "cloud",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "云(云) (yún, \"say\") + phonetic: 二(二) (èr) = cloud association; originally depicted the form of clouds",
+    "interpretation": "The character 云(云) (yún, \"cloud\") combines 云(云) (yún, 'say') as a semantic element, originally meaning 'to say' or 'to speak,' but is used phonetically to represent a similar-sounding word for 'cloud.' The character was simplified from 雲(雲) to 云(云), retaining its phonetic and semantic components.",
+    "simplification": "The traditional 雲(雲) was simplified by removing the radical 厶(厶) (sī, \"private\") and merging 冖(冖) (mì, \"cover\") with 二(二) (èr, \"two\") for a simpler form 云(云)."
+  },
+  "parts": [
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天空中飘着洁白的云(天空中飄著潔白的雲)。",
+      "pinyin": "Tiānkōng zhōng piāo zhe jiébái de yún.",
+      "english": "Beautiful white clouds are floating in the sky."
+    },
+    {
+      "chinese": "乌云密布时(烏雲密佈時)，可能马上下雨(可能馬上下雨)。",
+      "pinyin": "Wūyún mìbù shí, kěnéng mǎshàng xiàyǔ.",
+      "english": "When dark clouds gather, it might rain soon."
+    }
+  ]
+}

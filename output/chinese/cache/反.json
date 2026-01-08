@@ -1,0 +1,26 @@
+{
+  "simplified": "反",
+  "traditional": "反",
+  "pinyin": "fǎn",
+  "english": "opposite",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand turning or flipping over something -> idea of 'opposite', 'reverse'",
+    "interpretation": "The character 反(反) (fǎn, 'opposite') visually represents the concept of turning something over, which is a physical action associated with reversal or opposites. This intuitive representation connects the physical flip to the abstract idea of opposition.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他总是反着说话(他總是反著說話)。",
+      "pinyin": "Tā zǒng shì fǎn zhe shuō huà.",
+      "english": "He always speaks in the opposite way."
+    },
+    {
+      "chinese": "正面思考问题(正面思考問題)，反面寻找答案(反面尋找答案)。",
+      "pinyin": "Zhèngmiàn sīkǎo wèntí, fǎnmiàn xúnzhǎo dá'àn.",
+      "english": "Consider the problem from a positive perspective; seek solutions from the opposite side."
+    }
+  ]
+}

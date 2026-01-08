@@ -1,0 +1,31 @@
+{
+  "simplified": "门",
+  "traditional": "門",
+  "pinyin": "mén",
+  "english": "gate; door; entrance",
+  "etymology": {
+    "type": "pictogram",
+    "description": "門(門) (mén, \"gate\") depicts a gate -> simplified to 门(门) (mén, \"gate\")",
+    "interpretation": "The character 门(門) (mén, \"gate\") represents the image of a double-sided gate. It simplifies to 门(门) but retains the depiction of an entrance or gateway.",
+    "simplification": "The character 门(门) is a simplified form of 門(門), where the complex structure is replaced by a more straightforward representation while preserving the overall image of a gate."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学校门前站着一位老师(學校門前站著一位老師)。",
+      "pinyin": "Xuéxiào mén qián zhànzhe yī wèi lǎoshī(學校門前站著一位老師)。",
+      "english": "A teacher stands at the school gate."
+    },
+    {
+      "chinese": "请你从这扇门(請你從這扇門)进来(進來)，把鞋子(把鞋子)脱掉(脫掉)。",
+      "pinyin": "Qǐng nǐ cóng zhè shàn mén(請你從這扇門) jìnlái(進來)，bǎ xiézi(把鞋子) tuōdiào(脫掉)。",
+      "english": "Please come in through this door and take off your shoes."
+    },
+    {
+      "chinese": "夜深了(夜深了)，只有微弱的光从门缝里泄出(只有微弱的光從門縫裡洩出)。",
+      "pinyin": "Yè shēn le(夜深了)，zhǐ yǒu wēiruò de guāng cóng mén fèng lǐ xiè chū(只有微弱的光從門縫裡洩出)。",
+      "english": "It's late at night, and only a faint light seeps through the gap in the door."
+    }
+  ]
+}

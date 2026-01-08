@@ -1,0 +1,33 @@
+{
+  "simplified": "兆",
+  "traditional": "兆",
+  "pinyin": "zhào",
+  "english": "omen",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 禺(禺) (yú, \"ape\") escaping from a flood -> borrowed phonetically for \"omen\"",
+    "interpretation": "The character originally depicted an ape escaping from a flood, relating to the meaning of escape. Over time, it was borrowed to mean \"omen\" due to phonetic similarities. This illustrates how historical uses of characters can evolve into vastly different meanings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禺",
+      "trad": "禺",
+      "pinyin": "yú",
+      "english": "ape"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大雪纷飞可能是吉兆(大雪紛飛可能是吉兆)。",
+      "pinyin": "Dà xuě fēn fēi kě néng shì jí zhào.",
+      "english": "Heavy snowfall may be a good omen."
+    },
+    {
+      "chinese": "有人预言凶兆将至(有人預言兇兆將至)，我们应当警惕(我們應當警惕)。",
+      "pinyin": "Yǒurén yùyán xiōng zhào jiāng zhì, wǒmen yīngdāng jǐngtì.",
+      "english": "Someone predicted that a bad omen is coming, so we should be alert."
+    }
+  ]
+}

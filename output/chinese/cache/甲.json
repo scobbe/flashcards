@@ -1,0 +1,26 @@
+{
+  "simplified": "甲",
+  "traditional": "甲",
+  "pinyin": "jiǎ",
+  "english": "armor",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts the shape of a suit of armor with overlapping plates",
+    "interpretation": "The character 甲(甲) (jiǎ, 'armor') is a pictogram representing a stylized view of a suit of armor consisting of overlapping plates, suggesting protection and covering.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "骑士穿戴甲(騎士穿戴甲)，保卫国家(保衛國家)。",
+      "pinyin": "Qíshì chuāndài jiǎ, bǎowèi guójiā.",
+      "english": "The knight dons the armor, defending the country."
+    },
+    {
+      "chinese": "古代兵士依靠甲(古代兵士依靠甲)，抵御强敌(抵禦強敵)。",
+      "pinyin": "Gǔdài bīngshì yīkào jiǎ, dǐyù qiángdí.",
+      "english": "Ancient soldiers relied on armor, repelling formidable enemies."
+    }
+  ]
+}

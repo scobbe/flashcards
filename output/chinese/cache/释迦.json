@@ -1,0 +1,39 @@
+{
+  "simplified": "释迦",
+  "traditional": "釋迦",
+  "pinyin": "shìjiā",
+  "english": "sugar apple",
+  "etymology": {
+    "type": "compound word",
+    "description": "释(釋) (shì, \"Buddha\"; \"to explain\"; \"to release\") is short for 释迦牟尼(釋迦牟尼) (Shìjiāmóuní, \"Shakyamuni\"), the historical Buddha. 迦(迦) (jiā, \"assembly\"; \"to join\") is part of his name. This combination specifically refers to the fruit Annona squamosa, named for its association with the Buddha’s name due to the fruit's shape resembling the Buddha's head or because it was grown and offered during Buddhist practices.",
+    "interpretation": "释迦(釋迦) (shìjiā, \"sugar apple\") is named after Shakyamuni Buddha because the fruit’s exterior resembles the curls of Buddha’s hair. The connection reflects cultural importance of Buddhism and symbolic representation in things like nature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "释",
+      "trad": "釋",
+      "pinyin": "shì",
+      "english": "Buddha; to explain; to release"
+    },
+    {
+      "char": "迦",
+      "trad": "迦",
+      "pinyin": "jiā",
+      "english": "assembly; to join"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢吃释迦(釋迦)。",
+      "pinyin": "Wǒ hěn xǐhuān chī shìjiā.",
+      "english": "I really like to eat sugar apple."
+    },
+    {
+      "chinese": "释迦很甜(釋迦很甜)，营养丰富(營養豐富)。",
+      "pinyin": "Shìjiā hěn tián, yíngyǎng fēngfù.",
+      "english": "Sugar apples are very sweet and nutritious."
+    }
+  ]
+}

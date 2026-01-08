@@ -1,0 +1,39 @@
+{
+  "simplified": "埶",
+  "traditional": "埶",
+  "pinyin": "yì",
+  "english": "skill",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "圥(圥) (lù, \"earth structure\") + 丮(丮) (jǐ, \"to hold\") = kneeling person planting a sapling into soil -> skill",
+    "interpretation": "埶(yì, \"skill\") combines the image of planting, symbolizing cultivation and development. The character evolved from depicting the action of planting, reflecting the idea of nurturing and acquiring skill over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "圥",
+      "trad": "圥",
+      "pinyin": "lù",
+      "english": "earth structure"
+    },
+    {
+      "char": "丮",
+      "trad": "丮",
+      "pinyin": "jǐ",
+      "english": "to hold"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "他练就了非凡埶(他練就了非凡埶)。",
+      "pinyin": "Tā liàn jiù le fēifán yì.",
+      "english": "He has honed extraordinary skill."
+    },
+    {
+      "chinese": "她在绘画上展现出精湛的埶(她在繪畫上展現出精湛的埶)，令观众啧啧称奇(令觀眾啧啧稱奇)。",
+      "pinyin": "Tā zài huìhuà shàng zhǎnxiàn chū jīngzhàn de yì, lìng guānzhòng zézé chēngqí.",
+      "english": "She displays exquisite skill in painting, amazing the audience."
+    }
+  ]
+}

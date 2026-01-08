@@ -1,0 +1,44 @@
+{
+  "simplified": "芥",
+  "traditional": "芥",
+  "pinyin": "gài",
+  "english": "mustard; herb",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艸(艸) (cǎo, 'grass, plant') + phonetic 介(介) (jiè, 'to derive an idea from') = plant with specific qualities -> mustard; herb",
+    "interpretation": "The character 芥(gài) is composed of 艸(艸), signifying its association with plants or herbs, combined with 介(介), which gives the sound and contributes to the idea of it being a specific kind of plant, namely mustard.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass, plant"
+    },
+    {
+      "char": "介",
+      "trad": "介",
+      "pinyin": "jiè",
+      "english": "to derive an idea from"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这道菜用了芥(這道菜用了芥)。",
+      "pinyin": "Zhè dào cài yòng le gài.",
+      "english": "This dish used mustard."
+    },
+    {
+      "chinese": "当芥遇上蜂蜜时(當芥遇上蜂蜜時)，风味变得独特(風味變得獨特)。",
+      "pinyin": "Dāng gài yù shàng fēngmì shí, fēngwèi biàn de dú tè.",
+      "english": "When mustard meets honey, the flavor becomes unique."
+    },
+    {
+      "chinese": "菜市场里卖芥(菜市場裡賣芥)，新鲜又香醇(新鮮又香醇)。",
+      "pinyin": "Cài shì chǎng lǐ mài gài, xīnxiān yòu xiāngchún.",
+      "english": "At the market, they sell mustard that is fresh and aromatic."
+    }
+  ]
+}

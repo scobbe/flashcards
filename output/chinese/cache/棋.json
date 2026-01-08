@@ -1,0 +1,44 @@
+{
+  "simplified": "棋",
+  "traditional": "棋",
+  "pinyin": "qí",
+  "english": "board game; chess",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wooden\") + 其(其) (qí, \"his\") = object made of wood, phonetically related to 'his' -> board game",
+    "interpretation": "The character 棋(qí) combines 木(木) (mù, \"wood\") to indicate that traditional board games are made of wood, with 其(其) (qí) providing the pronunciation link. This aligns with the nature of board games, typically played on wooden boards.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wooden"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "his"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他经常下棋(他經常下棋)。",
+      "pinyin": "Tā jīngcháng xià qí.",
+      "english": "He often plays chess."
+    },
+    {
+      "chinese": "他们在公园下棋(他們在公園下棋)，享受美好时光(享受美好時光)。",
+      "pinyin": "Tāmen zài gōngyuán xià qí, xiǎngshòu měihǎo shíguāng.",
+      "english": "They play chess in the park and enjoy a wonderful time."
+    },
+    {
+      "chinese": "她学习棋艺(她學習棋藝)，以提高智力(以提高智力)。",
+      "pinyin": "Tā xuéxí qí yì, yǐ tígāo zhìlì.",
+      "english": "She studies chess techniques to improve her intellect."
+    }
+  ]
+}

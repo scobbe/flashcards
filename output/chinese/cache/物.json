@@ -1,0 +1,44 @@
+{
+  "simplified": "物",
+  "traditional": "物",
+  "pinyin": "wù",
+  "english": "thing; object",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 牛(牛) (niú, 'ox') + phonetic: 勿(勿) (wù, 'do not') = items related to oxen -> generic 'thing' or 'object'",
+    "interpretation": "The character 物 evolved from the combination of an ox, a familiar and essential domestic animal, and 勿(勿) (wù), which serves as the phonetic component. This suggests a broad category of things concerning daily life and utility.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "ox"
+    },
+    {
+      "char": "勿",
+      "trad": "勿",
+      "pinyin": "wù",
+      "english": "do not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个物引起了人们的注意(這個物引起了人們的注意)。",
+      "pinyin": "Zhège wù yǐnqǐ le rénmen de zhùyì.",
+      "english": "This object attracted people's attention."
+    },
+    {
+      "chinese": "古代的学者重视物理现象(古代的學者重視物理現象)，探讨物质的本原(探討物質的本原)。",
+      "pinyin": "Gǔdài de xuézhě zhòngshì wùlǐ xiànxiàng, tàntǎo wùzhì de běnyuán.",
+      "english": "Ancient scholars valued physical phenomena, exploring the essence of matter."
+    },
+    {
+      "chinese": "生活中的每种物都承载着记忆(生活中的每種物都承載著記憶)。",
+      "pinyin": "Shēnghuó zhōng de měi zhǒng wù dōu chéngzài zhe jìyì.",
+      "english": "Every object in life carries memories."
+    }
+  ]
+}

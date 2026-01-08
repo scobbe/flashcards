@@ -1,0 +1,38 @@
+{
+  "simplified": "下",
+  "traditional": "下",
+  "pinyin": "xià",
+  "english": "down",
+  "etymology": {
+    "type": "ideogram",
+    "description": "一(一) (yī, \"one\") below horizontal line = below -> down",
+    "interpretation": "The character 下(xià, \"down\") visually represents something placed below another object. The simple representation of a line under a horizontal stroke symbolically conveys the concept of 'down' or 'below'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请你下来(請你下來)。",
+      "pinyin": "Qǐng nǐ xiàlái.",
+      "english": "Please come down."
+    },
+    {
+      "chinese": "他走下楼梯(他走下樓梯)，进入房间(進入房間)。",
+      "pinyin": "Tā zǒu xià lóutī, jìnrù fángjiān.",
+      "english": "He walked down the stairs and entered the room."
+    },
+    {
+      "chinese": "雨下得很大(雨下得很大)，街道上满是积水(街道上滿是積水)。",
+      "pinyin": "Yǔ xià de hěn dà, jiēdào shàng mǎn shì jīshuǐ.",
+      "english": "It rained heavily, and the streets were full of puddles."
+    }
+  ]
+}

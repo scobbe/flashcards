@@ -1,0 +1,26 @@
+{
+  "simplified": "門",
+  "traditional": "門",
+  "pinyin": "mén",
+  "english": "door",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a double-door gate",
+    "interpretation": "The character depicts a pair of doors, visually representing the concept of a door or gate, which is fundamental in indicating entrance and exit points in structures.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我走到门口(我走到門口)。",
+      "pinyin": "Wǒ zǒu dào ménkǒu.",
+      "english": "I walk to the door."
+    },
+    {
+      "chinese": "门轻轻打开(門輕輕打開)，房客进来了(房客進來了)。",
+      "pinyin": "Mén qīngqīng dǎkāi, fángkè jìn láile.",
+      "english": "The door opened gently, and the tenant came in."
+    }
+  ]
+}

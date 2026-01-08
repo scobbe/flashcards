@@ -1,0 +1,44 @@
+{
+  "simplified": "坐",
+  "traditional": "坐",
+  "pinyin": "zuò",
+  "english": "sit; ride",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "留(留) (liú, \"to stay\") + 土(土) (tǔ, \"ground\") = staying on the ground -> sit",
+    "interpretation": "The character 坐(坐) (zuò, \"sit\") combines 留(留) (liú, \"to stay\") to convey the idea of remaining or staying, with 土(土) (tǔ, \"ground\") to indicate being positioned on the ground. This conveys the action of sitting down, highlighting being in a stable position on the ground.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "留",
+      "trad": "留",
+      "pinyin": "liú",
+      "english": "to stay"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "ground"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请坐(請坐)！",
+      "pinyin": "Qǐng zuò!",
+      "english": "Please sit down!"
+    },
+    {
+      "chinese": "我坐在公园的长椅上(我坐在公園的長椅上)。",
+      "pinyin": "Wǒ zuò zài gōngyuán de chángyǐ shàng.",
+      "english": "I sit on the park bench."
+    },
+    {
+      "chinese": "去旅行时(去旅行時)，他喜欢坐火车享受美景(他喜歡坐火車享受美景)。",
+      "pinyin": "Qù lǚxíng shí, tā xǐhuān zuò huǒchē xiǎngshòu měijǐng.",
+      "english": "When traveling, he likes to ride the train and enjoy the beautiful scenery."
+    }
+  ]
+}

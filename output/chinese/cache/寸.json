@@ -5,27 +5,22 @@
   "english": "inch",
   "etymology": {
     "type": "ideogram",
-    "description": "Line on hand (depicting forearm position) associated with measurement -> position near wrist for pulse -> unit of measurement",
-    "interpretation": "寸(寸) (cùn, \"inch\") originates from an ideogram showing a specific position on the arm, highlighting the measurement from the wrist to the point where the pulse is felt. This evolved into the meaning of an 'inch.'",
+    "description": "Line on the hand (ideographic) emphasizing the elbow -> represents measurement unit between wrist and specific forearm position -> meaning 'inch'",
+    "interpretation": "寸(寸) (cùn, \"inch\") originated as a depiction of a line on the hand, indicating the area near the elbow. This specific placement was considered significant for pulse palpation, originally suggesting a forearm position, which then came to denote the measurement 'inch'.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这把尺子每一寸都很精致(這把尺子每一寸都很精緻)。",
-      "pinyin": "Zhè bǎ chǐzi měi yī cùn dōu hěn jīngzhì.",
-      "english": "Every inch of this ruler is exquisite."
+      "chinese": "这块布每一寸都是精心制作(這塊布每一寸都是精心製作)。",
+      "pinyin": "Zhè kuài bù měi yī cùn dōu shì jīngxīn zhìzuò.",
+      "english": "Every inch of this cloth is crafted with care."
     },
     {
-      "chinese": "木匠测量木板时(木匠測量木板時)，确保每寸精确(確保每寸精確)。",
-      "pinyin": "Mùjiàng cèliáng mùbǎn shí, quèbǎo měi cùn jīngquè.",
-      "english": "When the carpenter measures the wood, he ensures every inch is precise."
-    },
-    {
-      "chinese": "他用手指比划出一寸的距离(他用手指比劃出一寸的距離)。",
-      "pinyin": "Tā yòng shǒuzhǐ bǐhuà chū yī cùn de jùlí.",
-      "english": "He measured out an inch with his finger."
+      "chinese": "请用卷尺量一寸(請用卷尺量一寸)，每一寸数据都准确(每一寸數據都準確)。",
+      "pinyin": "Qǐng yòng juǎnchǐ liàng yī cùn, měi yī cùn shùjù dōu zhǔnquè.",
+      "english": "Please use a tape measure to measure an inch, every inch's data is accurate."
     }
   ]
 }

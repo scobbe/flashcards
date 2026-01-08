@@ -1,0 +1,39 @@
+{
+  "simplified": "欺负",
+  "traditional": "欺負",
+  "pinyin": "qīfu",
+  "english": "bully",
+  "etymology": {
+    "type": "compound word",
+    "description": "欺(欺) (qī, \"deceive\") + 负(負) (fù, \"bear; suffer\") is interpreted as causing someone to suffer through deceptive or harmful actions, which aligns with the concept of bullying.",
+    "interpretation": "欺负(欺負) (qīfu, \"bully\") combines the ideas of deceit and causing someone to bear suffering, representing the unfair and harmful behavior typical of bullying.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "欺",
+      "trad": "欺",
+      "pinyin": "qī",
+      "english": "deceive"
+    },
+    {
+      "char": "负",
+      "trad": "負",
+      "pinyin": "fù",
+      "english": "bear; suffer"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他欺负同学(他欺負同學)。",
+      "pinyin": "Tā qīfù tóngxué.",
+      "english": "He bullies his classmates."
+    },
+    {
+      "chinese": "小明欺负同学(小明欺負同學)，结果被老师批评(結果被老師批評)。",
+      "pinyin": "Xiǎomíng qīfù tóngxué, jiéguǒ bèi lǎoshī pīpíng.",
+      "english": "Xiaoming bullies his classmates, and as a result, he was criticized by the teacher."
+    }
+  ]
+}

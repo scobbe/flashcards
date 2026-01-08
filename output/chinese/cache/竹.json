@@ -1,0 +1,26 @@
+{
+  "simplified": "竹",
+  "traditional": "竹",
+  "pinyin": "zhú",
+  "english": "bamboo",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts bamboo stalks with leaves",
+    "interpretation": "The character 竹(竹) (zhú, \"bamboo\") visually represents two stalks of bamboo with leaves at the top, illustrating the appearance of bamboo plants traditionally found in nature.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这根竹(這根竹)坚韧且美丽(堅韌且美麗)。",
+      "pinyin": "Zhè gēn zhú jiān rèn qiě měi lì.",
+      "english": "This bamboo is strong and beautiful."
+    },
+    {
+      "chinese": "竹子在风中摇曳(竹子在風中搖曳)，发出沙沙的声音(發出沙沙的聲音)。",
+      "pinyin": "Zhúzi zài fēng zhōng yáo yè, fā chū shā shā de shēng yīn.",
+      "english": "The bamboo sways in the wind, making a rustling sound."
+    }
+  ]
+}

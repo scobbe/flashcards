@@ -1,0 +1,31 @@
+{
+  "simplified": "𠂤",
+  "traditional": "𠂤",
+  "pinyin": "-",
+  "english": "mound, hill",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts mounds or hills",
+    "interpretation": "The character 𠂤 is a pictogram that visually resembles hills or mounds. This visual representation suggests its meaning as a natural elevation in the landscape. Alternatively, it can symbolize multiple rooms under a roof in complex characters like 官(官) (guān, \"official\").",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "山顶的小𠂤镶嵌在晨曦中(山頂的小𠂤鑲嵌在晨曦中)。",
+      "pinyin": "Shāndǐng de xiǎo qiū xiāngqiàn zài chénxī zhōng.",
+      "english": "The small mound on the mountaintop is embedded in the morning light."
+    },
+    {
+      "chinese": "乡间的田野上耸立着一座古老的𠂤(鄉間的田野上聳立着一座古老的𠂤)，仿佛讲述着远古的传说(彷彿講述着遠古的傳說)。",
+      "pinyin": "Xiāngjiān de tiányě shàng sǒnglì zhe yí zuò gǔlǎo de qiū, fǎngfú jiǎngshù zhe yuǎngǔ de chuánshuō.",
+      "english": "In the countryside's fields stands an ancient mound, as if recounting legends of old."
+    },
+    {
+      "chinese": "古道边的小𠂤平静而孤寂(古道邊的小𠂤平靜而孤寂)。",
+      "pinyin": "Gǔdào biān de xiǎo qiū píngjìng ér gūjì.",
+      "english": "The small mound beside the ancient road is calm and lonely."
+    }
+  ]
+}

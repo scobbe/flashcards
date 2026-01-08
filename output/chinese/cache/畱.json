@@ -1,0 +1,44 @@
+{
+  "simplified": "畱",
+  "traditional": "畱",
+  "pinyin": "liú",
+  "english": "\"stay\"",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 丣(丣) (yǒu, undefined) + semantic 田(田) (tián, \"field\") -> field-related meaning -> evolved to include notion of staying or remaining",
+    "interpretation": "The character 畱 combines 田(田) (tián, \"field\") for the semantic field and 丣(丣) (yǒu) for phonetic properties. Fields can symbolize locations where something is held or remains, contributing to the sense of 'stay.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "丣",
+      "trad": "丣",
+      "pinyin": "yǒu",
+      "english": "undefined"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "我打算畱一天(我打算畱一天)。",
+      "pinyin": "Wǒ dǎsuàn liú yītiān.",
+      "english": "I plan to stay for one day."
+    },
+    {
+      "chinese": "她决定畱在旧城(她決定畱在舊城)，与朋友谈心(與朋友談心)。",
+      "pinyin": "Tā juédìng liú zài jiùchéng, yǔ péngyǒu tánxīn.",
+      "english": "She decided to stay in the old city and chat with her friends."
+    },
+    {
+      "chinese": "夜深人静(夜深人靜)，我拟畱此所安眠(我擬畱此所安眠)。",
+      "pinyin": "Yè shēn rénjìng, wǒ nǐ liú cǐ suǒ ānmián.",
+      "english": "When the night is quiet, I intend to stay here and sleep peacefully."
+    }
+  ]
+}

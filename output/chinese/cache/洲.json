@@ -1,0 +1,44 @@
+{
+  "simplified": "洲",
+  "traditional": "洲",
+  "pinyin": "zhōu",
+  "english": "continent; river island",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 水(水) (shuǐ, \"water\") + phonetic: 州(州) (zhōu, \"administrative division\") = area surrounded by water -> continent; river island",
+    "interpretation": "The character combines 水(水) (shuǐ, \"water\") to signify areas associated with water bodies and 州(州) (zhōu, \"administrative division\") which provides the sound element. This construction effectively depicts landmasses surrounded by water like continents or river islands.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "州",
+      "trad": "州",
+      "pinyin": "zhōu",
+      "english": "administrative division"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "亚洲是一个巨大的洲(亞洲是一個巨大的洲)。",
+      "pinyin": "Yàzhōu shì yīgè jùdà de zhōu.",
+      "english": "Asia is a vast continent."
+    },
+    {
+      "chinese": "非洲气候炎热(非洲氣候炎熱)，拥有丰富物产的洲(擁有豐富物產的洲)。",
+      "pinyin": "Fēizhōu qìhòu yánrè, yǒngyǒu fēngfù wùchǎn de zhōu.",
+      "english": "Africa has a hot climate, a continent with abundant resources."
+    },
+    {
+      "chinese": "河中心的小洲为水鸟搭建栖息地(河中心的小洲為水鳥搭建棲息地)。",
+      "pinyin": "Hé zhōngxīn de xiǎo zhōu wéi shuǐniǎo dājiàn qīxīdì.",
+      "english": "The small river island at the center of the river provides a habitat for waterfowl."
+    }
+  ]
+}

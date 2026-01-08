@@ -1,0 +1,39 @@
+{
+  "simplified": "佛",
+  "traditional": "佛",
+  "pinyin": "Fó",
+  "english": "Buddha",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") + 弗(弗) (fú, phonetic) = represents a person related to the concept of 佛教 (Fó jiào, \"Buddhism\") -> Buddha",
+    "interpretation": "The character 佛 reflects the connection between a person and the teachings of Buddhism, with 弗(弗) (fú) providing the phonetic element related to 巴利語 (Pali language) word for \"Buddha\".",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "弗",
+      "trad": "弗",
+      "pinyin": "fú",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "佛是智慧与慈悲的象征(佛是智慧與慈悲的象徵)。",
+      "pinyin": "Fó shì zhìhuì yǔ cíbēi de xiàngzhēng.",
+      "english": "Buddha is a symbol of wisdom and compassion."
+    },
+    {
+      "chinese": "人们向佛祈祷(人們向佛祈禱)，寻求生命的真谛(尋求生命的真諦)。",
+      "pinyin": "Rénmen xiàng Fó qídǎo, xúnqiú shēngmìng de zhēndì.",
+      "english": "People pray to Buddha, seeking the true meaning of life."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "翁",
+  "traditional": "翁",
+  "pinyin": "wēng",
+  "english": "old man; elder",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 公(公) (gōng, \"duke\") + Semantic: 羽(羽) (yǔ, \"wings\") -> Originally \"feathers\" -> Loaned to mean \"old man\" through association with 公",
+    "interpretation": "The character 翁(wēng, \"old man\") originally depicted something related to feathers or birds, with 公(公) contributing sound. Over time, as 公 also connoted a certain status or respect, the term was borrowed to respectfully refer to an elder or 'old man'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "duke"
+    },
+    {
+      "char": "羽",
+      "trad": "羽",
+      "pinyin": "yǔ",
+      "english": "wings"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "庭院中坐着一位翁(庭院中坐著一位翁)，目光远眺(目光遠眺)。",
+      "pinyin": "Tíngyuàn zhōng zuòzhe yī wèi wēng, mùguāng yuǎntiào.",
+      "english": "An old man sits in the courtyard and gazes into the distance."
+    },
+    {
+      "chinese": "街角那位白发翁(街角那位白髮翁)，总是微笑(總是微笑)。",
+      "pinyin": "Jiējiǎo nà wèi báifà wēng, zǒngshì wēixiào.",
+      "english": "The old man with white hair on the corner always smiles."
+    },
+    {
+      "chinese": "老翁的故事(老翁的故事)，在村里流传(在村裡流傳)。",
+      "pinyin": "Lǎo wēng de gùshì, zài cūn lǐ liúchuán.",
+      "english": "The old man's story is passed down in the village."
+    }
+  ]
+}

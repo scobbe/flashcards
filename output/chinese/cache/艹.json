@@ -1,0 +1,26 @@
+{
+  "simplified": "艹",
+  "traditional": "艹",
+  "pinyin": "cǎo",
+  "english": "grass",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts blades of grass",
+    "interpretation": "艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他写字时用艹作草字的偏旁(他寫字時用艹作草字的偏旁)。",
+      "pinyin": "Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.",
+      "english": "He uses '艹' as the radical for grass in his characters."
+    },
+    {
+      "chinese": "春天到来时(春天到來時)，艹生长得很快(艹生長得很快)。",
+      "pinyin": "Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.",
+      "english": "When spring arrives, grass grows rapidly."
+    }
+  ]
+}

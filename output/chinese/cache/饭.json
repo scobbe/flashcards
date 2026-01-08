@@ -1,0 +1,44 @@
+{
+  "simplified": "饭",
+  "traditional": "飯",
+  "pinyin": "fàn",
+  "english": "meal; rice",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "食(食) (shí, \"food\") + 反(反) (fǎn, \"opposite\") = concept of food -> meal",
+    "interpretation": "This character combines 食(食) (shí, \"food\"), representing the semantic element, with 反(反) (fǎn, \"opposite\"), representing the phonetic element. This creates the idea of a meal, associated with food consumption.",
+    "simplification": "饭(飯): Simplified by replacing 食(食) (shí, \"food\") with the simpler radical 饣(饣) (shí, \"food\") for easier handwriting."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food"
+    },
+    {
+      "char": "反",
+      "trad": "反",
+      "pinyin": "fǎn",
+      "english": "opposite"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们吃饭(我們吃飯)。",
+      "pinyin": "Wǒ chī fàn.",
+      "english": "We eat a meal."
+    },
+    {
+      "chinese": "我做好饭(我做好飯)，大家都很开心(大家都很開心)。",
+      "pinyin": "Wǒ zuò hǎo fàn, dàjiā dōu hěn kāixīn.",
+      "english": "I cooked the meal well, and everyone was very happy."
+    },
+    {
+      "chinese": "饭香满屋(飯香滿屋)。",
+      "pinyin": "Fàn xiāng mǎn wū.",
+      "english": "The aroma of the meal fills the room."
+    }
+  ]
+}

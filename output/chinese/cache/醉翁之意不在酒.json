@@ -1,0 +1,45 @@
+{
+  "simplified": "醉翁之意不在酒",
+  "traditional": "醉翁之意不在酒",
+  "pinyin": "zuìwēng zhī yì bù zài jiǔ",
+  "english": "the real intention is not in the wine",
+  "etymology": {
+    "type": "compound word",
+    "description": "醉(醉) (zuì, \"drunk\"), 翁(翁) (wēng, \"old man\"), 之(之) (zhī, \"of\"), 意(意) (yì, \"intention\"), 不(不) (bù, \"not\"), 在(在) (zài, \"in\"), 酒(酒) (jiǔ, \"wine\")",
+    "interpretation": "This phrase originates from a famous poem by Ouyang Xiu, a Song dynasty scholar. The literal translation is 'the intention of the drunken old man is not in the wine.' It implies that the true interest or purpose is in something other than what is immediately apparent. The phrase suggests looking beyond the surface to understand the real motivation behind an action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "醉翁",
+      "trad": "醉翁",
+      "pinyin": "zuìwēng",
+      "english": "drunken old man"
+    },
+    {
+      "char": "之意",
+      "trad": "之意",
+      "pinyin": "zhī yì",
+      "english": "intention of"
+    },
+    {
+      "char": "不在酒",
+      "trad": "不在酒",
+      "pinyin": "bù zài jiǔ",
+      "english": "not in the wine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他借口参加聚会(他借口參加聚會)，其实醉翁之意不在酒(其實醉翁之意不在酒)。",
+      "pinyin": "Tā jièkǒu cānjiā jùhuì, qíshí zuìwēng zhī yì bù zài jiǔ.",
+      "english": "He pretended to attend the party, but his real intention was not about the wine."
+    },
+    {
+      "chinese": "大家以为他喜欢饮酒(大家以為他喜歡飲酒)，实际上醉翁之意不在酒(實際上醉翁之意不在酒)。",
+      "pinyin": "Dàjiā yǐwéi tā xǐhuān yǐnjiǔ, shíjì shàng zuìwēng zhī yì bù zài jiǔ.",
+      "english": "Everyone thought he enjoyed drinking, but in reality, his true intention lay elsewhere."
+    }
+  ]
+}

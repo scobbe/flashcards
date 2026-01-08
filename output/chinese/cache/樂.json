@@ -1,0 +1,50 @@
+{
+  "simplified": "樂",
+  "traditional": "樂",
+  "pinyin": "lè",
+  "english": "music",
+  "etymology": {
+    "type": "Ideogrammic compound",
+    "description": "糸(糸) (mì, \"string\") + 木(木) (mù, \"wood\") = strings on a piece of wood -> wooden musical instrument",
+    "interpretation": "The character 樂(樂) (lè, \"music\") originally represents strings attached to a wooden frame, depicting a musical instrument. The addition of 白(白) (bái) in bronze inscriptions likely represents either the thumb in playing motion or serves as a phonetic component. Over time, it became associated with music and by extension, happiness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "string"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜歡聽樂(我喜歡聽樂)。",
+      "pinyin": "Wǒ xǐhuān tīng lè.",
+      "english": "I like listening to music."
+    },
+    {
+      "chinese": "他在音樂會上欣賞樂(他在音樂會上欣賞樂)，感受文化魅力(感受文化魅力)。",
+      "pinyin": "Tā zài yīnyuèhuì shàng xīnshǎng lè, gǎnshòu wénhuà mèilì.",
+      "english": "He appreciates music at the concert and experiences the charm of culture."
+    },
+    {
+      "chinese": "書房中傳來樂(書房中傳來樂)，令人心情愉悅(令人心情愉悅)。",
+      "pinyin": "Shūfáng zhōng chuán lái lè, lìngrén xīnqíng yúyuè.",
+      "english": "Music comes from the study, making people feel delighted."
+    }
+  ]
+}

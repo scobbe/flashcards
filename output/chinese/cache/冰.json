@@ -1,0 +1,44 @@
+{
+  "simplified": "冰",
+  "traditional": "冰",
+  "pinyin": "bīng",
+  "english": "ice",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 冫(bīng, \"cold\") + Semantic: 水(shuǐ, \"water\") = water frozen -> ice",
+    "interpretation": "The character 冰(bīng, \"ice\") is formed by combining the water radical 水(shuǐ, \"water\") with a phonetic component 冫(bīng, \"cold\"), signifying the freezing of water into ice.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "冫",
+      "trad": "冫",
+      "pinyin": "bīng",
+      "english": "cold"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "河面上的冰很厚(河面上的冰很厚)。",
+      "pinyin": "Hé miàn shàng de bīng hěn hòu.",
+      "english": "The ice on the river is very thick."
+    },
+    {
+      "chinese": "冬天来了(冬天來了)，湖面的冰开始形成(湖面的冰開始形成)。",
+      "pinyin": "Dōngtiān láile, hú miàn de bīng kāishǐ xíngchéng.",
+      "english": "Winter has arrived, and the ice on the lake is beginning to form."
+    },
+    {
+      "chinese": "小朋友们喜欢在雪地里玩冰(小朋友們喜歡在雪地裡玩冰)。",
+      "pinyin": "Xiǎopéngyǒumen xǐhuān zài xuědì lǐ wán bīng.",
+      "english": "Children like to play with ice in the snow."
+    }
+  ]
+}

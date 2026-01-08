@@ -1,0 +1,31 @@
+{
+  "simplified": "用",
+  "traditional": "用",
+  "pinyin": "yòng",
+  "english": "use",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a vessel with contents being poured out",
+    "interpretation": "用(用) (yòng, 'use') visually represents the action of utilizing or employing, as depicted by a container pouring out its contents. This imagery effectively conveys the core idea of using resources or applying effort in a task.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请用心体会这首诗(請用心體會這首詩)。",
+      "pinyin": "qǐng yòng xīn tǐhuì zhè shǒu shī。",
+      "english": "Please use your heart to appreciate this poem."
+    },
+    {
+      "chinese": "他用笔写字(他用筆寫字)，也用心记录生活(也用心記錄生活)。",
+      "pinyin": "tā yòng bǐ xiě zì，yě yòng xīn jìlù shēnghuó。",
+      "english": "He writes with a pen, and also uses his heart to record life."
+    },
+    {
+      "chinese": "老板用新策略吸引顾客(老闆用新策略吸引顧客)。",
+      "pinyin": "lǎobǎn yòng xīn cèlüè xīyǐn gùkè。",
+      "english": "The boss uses new strategies to attract customers."
+    }
+  ]
+}

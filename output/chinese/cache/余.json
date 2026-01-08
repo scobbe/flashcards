@@ -1,0 +1,38 @@
+{
+  "simplified": "余",
+  "traditional": "餘",
+  "pinyin": "yú",
+  "english": "\"I\"",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 余(余) (yú) + semantic: 食(食) (shí, \"eat\") = eating that is remaining -> surplus, remainder",
+    "interpretation": "The character 餘(餘) (yú) combines 余(余) (yú), a phonetic element meaning \"I,\" with 食(食) (shí, \"eat\") to convey the concept of a surplus or remainder after eating, which fittingly extends to the idea of something left over.",
+    "simplification": "余(余) retains the phonetic component without the semantic 食(食), focusing on simplicity by removing the eating element while keeping the core pronunciation."
+  },
+  "parts": [
+    {
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "\"eat\""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "余喜欢读书(余喜歡讀書)。",
+      "pinyin": "Yú xǐhuān dúshū.",
+      "english": "I enjoy reading."
+    },
+    {
+      "chinese": "余游历名山(余遊歷名山)，探索古今(探索古今)。",
+      "pinyin": "Yú yóulì míngshān, tànsuǒ gǔjīn.",
+      "english": "I travel through famous mountains and explore the ancient and the modern."
+    },
+    {
+      "chinese": "余静坐思过(余靜坐思過)。",
+      "pinyin": "Yú jìngzuò sīguò.",
+      "english": "I sit quietly and reflect on my mistakes."
+    }
+  ]
+}

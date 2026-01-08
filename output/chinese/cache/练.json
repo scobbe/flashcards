@@ -1,0 +1,39 @@
+{
+  "simplified": "练",
+  "traditional": "練",
+  "pinyin": "liàn",
+  "english": "practice; train; exercise",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"silk\") + 柬(柬) (jiǎn, \"card\") = silk related to sorting or selecting -> practice",
+    "interpretation": "練 originally referred to refining or processing silk, implying the act of making material smooth and usable. Over time, this idea of refinement was metaphorically extended to training and practice, where skills are refined and polished.",
+    "simplification": "練(練) → 练(練): 糸(糸) (mì, \"silk\") simplified to 纟(纟) for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "柬",
+      "trad": "柬",
+      "pinyin": "jiǎn",
+      "english": "card"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天练(練)书法(書法)。",
+      "pinyin": "Wǒ měitiān liàn shūfǎ.",
+      "english": "I practice calligraphy every day."
+    },
+    {
+      "chinese": "他在武馆练(練)武术(武術)，并指导年轻人(並指導年輕人)。",
+      "pinyin": "Tā zài wǔguǎn liàn wǔshù, bìng zhǐdǎo niánqīng rén.",
+      "english": "He trains in martial arts at the gym, and he guides young people."
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "simplified": "艮",
   "traditional": "艮",
-  "pinyin": "gèn",
-  "english": "stubborn",
+  "pinyin": "gěn",
+  "english": "stopping",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "目(目) (mù, \"eye\") + 人(人) (rén, \"person\") = a person looking back -> concept of disobedience or limit",
-    "interpretation": "The combination of 目(目) (mù, \"eye\") and 人(人) (rén, \"person\") suggests the idea of a person looking back, symbolizing stubbornness or defiance, as they resist moving forward or following others.",
+    "description": "目(目) (mù, 'eye') + 人(人) (rén, 'person') = a person looking back -> concept of disobedience or limit",
+    "interpretation": "The character 艮(gěn) depicts a person turning around to look back, symbolizing hesitation or obstruction. The association with stopping or limiting arises from the act of looking back as a check on forward movement.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他很艮(他很艮)，不轻易改变主意(不輕易改變主意)。",
-      "pinyin": "Tā hěn gèn, bù qīngyì gǎibiàn zhǔyì.",
-      "english": "He is very stubborn, unwilling to change his mind."
+      "chinese": "火车在车站艮停(火車在車站艮停)。",
+      "pinyin": "huǒchē zài chēzhàn gěn tíng.",
+      "english": "The train is stopping at the station."
     },
     {
-      "chinese": "他的脾气很艮(他的脾氣很艮)，不容易妥协(不容易妥協)。",
-      "pinyin": "Tā de píqì hěn gèn, bù róngyì tuǒxié.",
-      "english": "His temper is stubborn, making him hard to compromise."
+      "chinese": "他前行至半途便艮住(他前行至半途便艮住)。",
+      "pinyin": "tā qiánxíng zhì bàntú biàn gěn zhù.",
+      "english": "He stopped halfway through his journey."
+    },
+    {
+      "chinese": "研究易经时(研究易經時)，学者发现艮象寓意着停止(學者發現艮象寓意著停止)。",
+      "pinyin": "yánjiū yìjīng shí, xuézhě fāxiàn gěn xiàng yùyì zhe tíngzhǐ.",
+      "english": "While studying the I Ching, scholars discovered that the image of Gèn implies stopping."
     }
   ]
 }

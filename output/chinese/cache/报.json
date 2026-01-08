@@ -1,0 +1,39 @@
+{
+  "simplified": "报",
+  "traditional": "報",
+  "pinyin": "bào",
+  "english": "report; newspaper; recompense; respond",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(手) (shǒu, \"hand\") + 𠬝(服) (fú, \"to serve\") as a phonetic element = hand delivering or serving a message -> report, recompense",
+    "interpretation": "The character 报(報) (bào) combines 扌(手) (shǒu, \"hand\") to signify the action of handling or delivering something with 𠬝(服) (fú) to provide the phonetic hint. This fittingly represents the hand delivering a report or message, capturing the sense of conveying information or compensation.",
+    "simplification": "報(報) simplified to 报(報) by replacing 𠬝(服) with an even simpler element for phonetic clarity."
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "𠬝",
+      "trad": "服",
+      "pinyin": "fú",
+      "english": "to serve"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天看报(我每天看報)。",
+      "pinyin": "Wǒ měitiān kàn bào.",
+      "english": "I read the newspaper daily."
+    },
+    {
+      "chinese": "他收到好消息后(他收到好消息後)，立即报喜(立即報喜)。",
+      "pinyin": "Tā shōudào hǎo xiāoxī hòu, lìjí bào xǐ.",
+      "english": "After receiving the good news, he immediately reported his joy."
+    }
+  ]
+}

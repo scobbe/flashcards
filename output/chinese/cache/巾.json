@@ -1,0 +1,31 @@
+{
+  "simplified": "巾",
+  "traditional": "巾",
+  "pinyin": "jīn",
+  "english": "cloth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a piece of cloth with two ends hanging down",
+    "interpretation": "The character 巾(jīn, \"cloth\") visually represents a cloth or towel, with its depiction emphasizing the idea of a piece of fabric and its functionality.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "爸爸用干净的巾擦手(爸爸用乾淨的巾擦手)。",
+      "pinyin": "Bàba yòng gānjìng de jīn cā shǒu.",
+      "english": "Dad uses a clean cloth to wipe his hands."
+    },
+    {
+      "chinese": "她拿着一条巾(她拿著一條巾)，轻轻擦拭眼角(輕輕擦拭眼角)。",
+      "pinyin": "Tā názhe yì tiáo jīn, qīngqīng cā shì yǎnjiǎo.",
+      "english": "She holds a cloth and gently wipes the corners of her eyes."
+    },
+    {
+      "chinese": "老人用巾给手上包扎伤口(老人用巾給手上包扎傷口)。",
+      "pinyin": "Lǎorén yòng jīn gěi shǒu shàng bāozā shāngkǒu.",
+      "english": "The elderly person uses a cloth to bandage the wound on his hand."
+    }
+  ]
+}

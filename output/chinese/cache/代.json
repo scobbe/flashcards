@@ -1,0 +1,44 @@
+{
+  "simplified": "代",
+  "traditional": "代",
+  "pinyin": "dài",
+  "english": "generation",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 亻(亻) (rén, \"person\") + phonetic 弋(弋) (yì) = aids in pronunciation -> concept of replacing or succeeding, leading to the meaning 'generation'",
+    "interpretation": "The character combines the idea of a 'person' with a phonetic component to suggest a succession of people or generations. This association with both an individual and the continuity through different generations underpins its meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "弋",
+      "trad": "弋",
+      "pinyin": "yì",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我这一代人肩负着责任(我這一代人肩負著責任)。",
+      "pinyin": "Wǒ zhè yī dài rén jiānfù zhe zérèn.",
+      "english": "Our generation bears the responsibility."
+    },
+    {
+      "chinese": "老一代传授智慧(老一代傳授智慧)，年轻一代追求梦想(年輕一代追求夢想)。",
+      "pinyin": "Lǎo yī dài chuánshòu zhìhuì, niánqīng yī dài zhuīqiú mèngxiǎng.",
+      "english": "The older generation imparts wisdom, while the younger generation pursues dreams."
+    },
+    {
+      "chinese": "新技术推动这代人创新(新技術推動這代人創新)。",
+      "pinyin": "Xīn jìshù tuīdòng zhè dài rén chuàngxīn.",
+      "english": "New technology drives innovation in this generation."
+    }
+  ]
+}

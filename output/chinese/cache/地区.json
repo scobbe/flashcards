@@ -1,0 +1,39 @@
+{
+  "simplified": "地区",
+  "traditional": "地區",
+  "pinyin": "dìqū",
+  "english": "region; area",
+  "etymology": {
+    "type": "compound word",
+    "description": "地(地) (dì, \"earth; ground\") and 区(區) (qū, \"area; district\") combine to indicate a specific part of the earth's surface or a defined geographical area.",
+    "interpretation": "A 地区(地區) (dìqū) refers to a specific location, defined by geographical or administrative boundaries. The combination of 地(地) (dì, \"earth; ground\") and 区(區) (qū, \"area; district\") highlights a portion of land designated within these parameters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "地",
+      "trad": "地",
+      "pinyin": "dì",
+      "english": "earth; ground"
+    },
+    {
+      "char": "区",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; district"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个地区经济繁荣(這個地區經濟繁榮)。",
+      "pinyin": "Zhège dìqū jīngjì fánróng.",
+      "english": "The economy in this region is flourishing."
+    },
+    {
+      "chinese": "南部地区气候温暖(南部地區氣候溫暖)，适合种植热带水果(適合種植熱帶水果)。",
+      "pinyin": "Nánbù dìqū qìhòu wēnnuǎn, shìhé zhòngzhí rèdài shuǐguǒ.",
+      "english": "The southern region has a warm climate, making it suitable for growing tropical fruits."
+    }
+  ]
+}

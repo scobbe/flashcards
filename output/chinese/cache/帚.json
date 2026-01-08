@@ -1,0 +1,45 @@
+{
+  "simplified": "帚",
+  "traditional": "帚",
+  "pinyin": "zhǒu",
+  "english": "broomstick",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a broom with bristles on top and a tied handle at the bottom -> stylized as 肀(肀) (yù, \"brush\") + 冖(冖) (mì, \"cover\") + 巾(巾) (jīn, \"cloth\")",
+    "interpretation": "The character 帚(帚) (zhǒu, \"broomstick\") originally depicted a simple broom with its bristles spread out, emphasizing its use as a cleaning tool. Its form evolved, incorporating shapes resembling a brush and cloth, which metaphorically align with cleaning and sweeping.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肀",
+      "trad": "肀",
+      "pinyin": "yù",
+      "english": "brush"
+    },
+    {
+      "char": "冖",
+      "trad": "冖",
+      "pinyin": "mì",
+      "english": "cover"
+    },
+    {
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他拿起帚(帚)，开始打扫房间(開始打掃房間)。",
+      "pinyin": "Tā ná qǐ zhǒu, kāishǐ dǎsǎo fángjiān.",
+      "english": "He picked up the broomstick, and began cleaning the room."
+    },
+    {
+      "chinese": "扫帚在风中飞舞(掃帚在風中飛舞)。",
+      "pinyin": "Sǎozhǒu zài fēng zhōng fēiwǔ.",
+      "english": "The broomstick danced in the wind."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "饱",
+  "traditional": "飽",
+  "pinyin": "bǎo",
+  "english": "full",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic: 饣(食) (shí, \"food\") + Phonetic: 包(包) (bāo, \"wrap\") -> related to eating and being full",
+    "interpretation": "The character 饱(飽) combines the food radical 食(食) (shí, \"food\") with the phonetic 包(包) (bāo, \"wrap\") to signify fullness after eating, as when something is wrapped and contained. This is intuitive because the phonetic component is associated with wrapping or encompassing, which echoes the idea of being filled.",
+    "simplification": "饱 was simplified from 飽 by replacing 食(食) (shí, \"food\") with the simpler 饣(饣), retaining both semantic clarity and phonetic hint."
+  },
+  "parts": [
+    {
+      "char": "饣",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food"
+    },
+    {
+      "char": "包",
+      "trad": "包",
+      "pinyin": "bāo",
+      "english": "wrap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我吃得很饱(我吃得很飽)。",
+      "pinyin": "Wǒ chī dé hěn bǎo.",
+      "english": "I ate until I was full."
+    },
+    {
+      "chinese": "他中饭吃饱了(他中飯吃飽了)，精神充沛(精神充沛)。",
+      "pinyin": "Tā zhōngfàn chī bǎo le, jīngshén chōngpèi.",
+      "english": "He had a full lunch and felt energetic."
+    },
+    {
+      "chinese": "他吃饱了(他吃飽了)，心满意足(心滿意足)。",
+      "pinyin": "Tā chī bǎo le, xīn mǎn yì zú.",
+      "english": "He ate until he was full and felt completely satisfied."
+    }
+  ]
+}

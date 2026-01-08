@@ -1,0 +1,51 @@
+{
+  "simplified": "中庸之道",
+  "traditional": "中庸之道",
+  "pinyin": "zhōngyōng zhī dào",
+  "english": "Doctrine of the Mean; middle way",
+  "etymology": {
+    "type": "compound word",
+    "description": "中(中) (zhōng, \"middle\"), 庸(庸) (yōng, \"mediocre\"), 之(之) (zhī, \"of\"), 道(道) (dào, \"way\")",
+    "interpretation": "中庸之道 (zhōngyōng zhī dào, \"Doctrine of the Mean\") comes from Confucian philosophy, specifically the Book of Doctrine of the Mean (中庸), one of the Four Books in Confucianism. It emphasizes moderation and balance as a path to harmony and virtue. By combining 中(中) (zhōng, \"middle\") and 庸(庸) (yōng, \"mediocre\"), it suggests avoiding extremes to achieve a balanced 'way' (道, dào).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; mean"
+    },
+    {
+      "char": "庸",
+      "trad": "庸",
+      "pinyin": "yōng",
+      "english": "mediocre; usual; ordinary"
+    },
+    {
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "of; possessive particle"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "way; path; doctrine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "儒家思想重视中庸之道(儒家思想重視中庸之道)，认为调和各方最为重要(認為調和各方最為重要)。",
+      "pinyin": "Rújiā sīxiǎng zhòngshì zhōngyōng zhī dào, rènwéi tiáohé gèfāng zuìwéi zhòngyào.",
+      "english": "Confucian thought emphasizes the doctrine of the mean, believing that balancing various interests is paramount."
+    },
+    {
+      "chinese": "追求内心和谐是中庸之道的体现(追求內心和諧是中庸之道的體現)。",
+      "pinyin": "Zhuīqiú nèixīn héxié shì zhōngyōng zhī dào de tǐxiàn.",
+      "english": "Pursuing inner harmony is a manifestation of the middle way."
+    }
+  ]
+}

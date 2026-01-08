@@ -1,0 +1,44 @@
+{
+  "simplified": "释",
+  "traditional": "釋",
+  "pinyin": "shì",
+  "english": "Buddha; to explain; to release",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "睪(睪) (yì, 'armpit/to release') originally -> changed to 𠬤(𠬤) (shì, 'release') within 釋(釋) (shì, 'explain/release') -> final form 释(釋)",
+    "interpretation": "The character 释(釋) (shì, 'Buddha/to explain/to release') involves a simplified process where 睪(睪) (yì) was replaced by the simpler 𠬤(𠬤) (shì) to better capture the sense of release and explanation, resulting in a streamlined representation of 释(釋).",
+    "simplification": "释(釋) simplifies by replacing the complex 睪(睪) (yì) with the more straightforward 𠬤(𠬤) (shì) to enhance readability and efficiency in writing."
+  },
+  "parts": [
+    {
+      "char": "睪",
+      "trad": "睪",
+      "pinyin": "yì",
+      "english": "armpit/to release"
+    },
+    {
+      "char": "𠬤",
+      "trad": "𠬤",
+      "pinyin": "shì",
+      "english": "release"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "释迦牟尼是佛教创始人(釋迦牟尼是佛教創始人)。",
+      "pinyin": "Shìjiāmóuní shì Fójiào chuàngshǐrén.",
+      "english": "Shakyamuni is the founder of Buddhism."
+    },
+    {
+      "chinese": "老师释疑(老師釋疑)，平息学生疑惑(平息學生疑惑)。",
+      "pinyin": "Lǎoshī shìyí, píngxī xuéshēng yíhuò.",
+      "english": "The teacher explains doubts, easing the students' confusion."
+    },
+    {
+      "chinese": "法官释囚犯(法官釋囚犯)，给予新生机会(給予新生機會)。",
+      "pinyin": "Fǎguān shì qiúfàn, jǐyǔ xīnshēng jīhuì.",
+      "english": "The judge releases the prisoners, giving them a chance at a new life."
+    }
+  ]
+}

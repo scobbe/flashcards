@@ -1,0 +1,44 @@
+{
+  "simplified": "向",
+  "traditional": "向",
+  "pinyin": "xiàng",
+  "english": "towards",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "宀(宀) (mián, \"roof\") + 口(口) (kǒu, \"mouth\") = indoors with sound -> direction towards which something is directed",
+    "interpretation": "The character 向(向) (xiàng, \"towards\") combines 宀(宀) (mián, \"roof\") and 口(口) (kǒu, \"mouth\") to suggest the idea of a sound or attention being directed towards a certain point or direction within an enclosed space. This reflects the concept of orientation or facing a direction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他向前走(他向前走)。",
+      "pinyin": "tā xiàng qián zǒu",
+      "english": "He walked forward."
+    },
+    {
+      "chinese": "我向老师请教(我向老師請教)。",
+      "pinyin": "wǒ xiàng lǎo shī qǐng jiào",
+      "english": "I consulted the teacher."
+    },
+    {
+      "chinese": "风向改变(風向改變)。",
+      "pinyin": "fēng xiàng gǎi biàn",
+      "english": "The wind direction changed."
+    }
+  ]
+}

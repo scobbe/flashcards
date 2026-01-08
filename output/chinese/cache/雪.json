@@ -1,0 +1,44 @@
+{
+  "simplified": "雪",
+  "traditional": "雪",
+  "pinyin": "xuě",
+  "english": "snow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Rain 雨(雨) (yǔ, \"rain\") + Phonetic 彗(彗) (huì, \"broom\") = sweeping away rain -> snow",
+    "interpretation": "The combination of 雨(雨) (yǔ, \"rain\") and 彗(彗) (huì, \"broom\") effectively conveys the idea of snow as light, fluffy precipitation that resembles rain being swept away like with a broom, likely reflecting how snow covers surfaces.",
+    "simplification": "The character 雪 is an ancient simplification of 䨮, both sharing the same components for rain and broom."
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "彗",
+      "trad": "彗",
+      "pinyin": "huì",
+      "english": "broom"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "冬天来了(冬天來了)，雪花纷飞(雪花紛飛)。",
+      "pinyin": "Dōngtiān láile, xuěhuā fēnfēi.",
+      "english": "Winter has arrived, and snowflakes are fluttering."
+    },
+    {
+      "chinese": "屋顶上挂着雪(屋頂上掛著雪)。",
+      "pinyin": "Wūdǐng shàng guàzhe xuě.",
+      "english": "Snow is hanging on the roof."
+    },
+    {
+      "chinese": "初雪降临时(初雪降臨時)，万物银装(萬物銀裝)。",
+      "pinyin": "Chū xuě jiànglín shí, wànwù yínzhuāng.",
+      "english": "When the first snow arrives, everything is dressed in silver."
+    }
+  ]
+}

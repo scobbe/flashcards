@@ -1,0 +1,44 @@
+{
+  "simplified": "黑",
+  "traditional": "黑",
+  "pinyin": "hēi",
+  "english": "black",
+  "etymology": {
+    "type": "Pictogram",
+    "description": "大(大) (dà, \"person\") with a tattooed face for penal purposes -> ancient punishments -> dots added around 大 representing tattoo marks -> erroneously interpreted as 火(火) (huǒ, \"fire\") under a chimney causing blackening -> displaced 玄(玄) (xuán, \"black\")",
+    "interpretation": "The character 黑(hēi) originally represented a person with facial tattoos, symbolizing punishment. Over time, its meaning evolved to represent the color black, replacing 玄(玄) (xuán, \"black\") which was previously used.",
+    "simplification": "The character is not simplified in Chinese. However, in Japanese, the modern form 黒 replaces two dots with one stroke as part of orthographic reform."
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "person"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这只乌鸦的羽毛非常黑(這只烏鴉的羽毛非常黑)。",
+      "pinyin": "Zhè zhī wūyā de yǔmáo fēicháng hēi.",
+      "english": "The crow's feathers are very black."
+    },
+    {
+      "chinese": "他的心情因为失落而变得黑(他的心情因為失落而變得黑)，看不出一丝笑容(看不出一絲笑容)。",
+      "pinyin": "Tā de xīnqíng yīnwèi shīluò ér biànde hēi, kànbùchū yīsī xiàoróng.",
+      "english": "His mood turned dark because of the loss, showing no trace of a smile."
+    },
+    {
+      "chinese": "黑色在时尚中代表神秘(黑色在時尚中代表神秘)。",
+      "pinyin": "Hēisè zài shíshàng zhōng dàibiǎo shénmì.",
+      "english": "Black represents mystery in fashion."
+    }
+  ]
+}
