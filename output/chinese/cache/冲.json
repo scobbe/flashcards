@@ -1,0 +1,44 @@
+{
+  "simplified": "冲",
+  "traditional": "沖",
+  "pinyin": "chōng",
+  "english": "rush",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水) ('shuǐ', 'water') + 中(中) (zhōng, 'middle') -> representation of water rushing or surging",
+    "interpretation": "沖(沖) (chōng, 'rush') combines 氵(水) (shuǐ, 'water') for its semantic value, emphasizing the character's association with water, and 中(中) (zhōng, 'middle'), providing a phonetic cue while illustrating the action of rushing or surging through like water flowing. The composition illustrates the dynamic movement and power associated with 'rushing' water.",
+    "simplification": "The traditional character 沖(沖) was simplified to 冲(沖) by replacing 氵(氵) (shuǐ, 'water') with the similar 冫(冫) (bīng, 'ice') to streamline the structure and reduce strokes."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他紧急地冲出办公室(他緊急地沖出辦公室)。",
+      "pinyin": "Tā jǐnjí de chōng chū bàngōngshì.",
+      "english": "He rushed out of the office in a hurry."
+    },
+    {
+      "chinese": "水流冲过堤坝(水流沖過堤壩)，带走了许多东西(帶走了許多東西)。",
+      "pinyin": "Shuǐliú chōng guò dībà, dài zǒu le xǔduō dōngxi.",
+      "english": "The water rushed over the dam, carrying away many things."
+    },
+    {
+      "chinese": "你需要冲咖啡粉(你需要沖咖啡粉)，等水煮开(等水煮開)。",
+      "pinyin": "Nǐ xūyào chōng kāfēi fěn, děng shuǐ zhǔ kāi.",
+      "english": "You need to brew the coffee grounds by pouring boiling water."
+    }
+  ]
+}

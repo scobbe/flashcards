@@ -1,0 +1,44 @@
+{
+  "simplified": "肘",
+  "traditional": "肘",
+  "pinyin": "zhǒu",
+  "english": "elbow",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "寸 (hand indicating measurement) with 肉 (meat/flesh) added for distinction -> 肘",
+    "interpretation": "The character 肘(肘) (zhǒu, \"elbow\") combines 寸(寸) (cùn, \"inch\"), originally depicting a hand with a stroke for the elbow, with 肉(肉) (ròu, \"meat\") to specifically indicate the fleshiness of the elbow area in the human body.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他撞到了我的肘(肘)。",
+      "pinyin": "Tā zhuàng dào le wǒ de zhǒu.",
+      "english": "He bumped into my elbow."
+    },
+    {
+      "chinese": "在瑜伽课上(在瑜伽課上)，我们学习如何将肘(肘)贴地(貼地)。",
+      "pinyin": "Zài yújiākè shàng, wǒmen xuéxí rúhé jiāng zhǒu tiē dì.",
+      "english": "In yoga class, we learn how to place our elbows on the ground."
+    },
+    {
+      "chinese": "医生建议我(醫生建議我)，在锻炼时(在鍛鍊時)保护好肘关节(肘關節)。",
+      "pinyin": "Yīshēng jiànyì wǒ, zài duànliàn shí bǎohù hǎo zhǒu guānjié.",
+      "english": "The doctor advised me to protect my elbow joint during exercise."
+    }
+  ]
+}

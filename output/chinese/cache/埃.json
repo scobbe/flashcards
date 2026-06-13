@@ -1,0 +1,44 @@
+{
+  "simplified": "埃",
+  "traditional": "埃",
+  "pinyin": "āi",
+  "english": "dust; angstrom",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 土(土) (tǔ, \"earth; soil\") + phonetic 矣(矣) (yǐ) -> dust; angstrom",
+    "interpretation": "The character 埃(埃) (āi, \"dust\") combines 土(土) (tǔ, \"earth; soil\") to represent the idea of something related to the ground, with 矣(矣) (yǐ) functioning as a phonetic component to indicate pronunciation. The pairing suggests a small particle or angstrom, embodying the concept of dust as minute earth particles.",
+    "simplification": "埃 is the simplified and most commonly used form of the character, derived directly to function in modern contexts without further simplification."
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth; soil"
+    },
+    {
+      "char": "矣",
+      "trad": "矣",
+      "pinyin": "yǐ",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "一层薄薄的埃覆盖了家具(一層薄薄的埃覆蓋了傢俱)。",
+      "pinyin": "Yī céng báo báo de āi fùgài le jiājù.",
+      "english": "A thin layer of dust covered the furniture."
+    },
+    {
+      "chinese": "他用抹布擦掉书架上的埃(他用抹布擦掉書架上的埃)。",
+      "pinyin": "Tā yòng mābù cā diào shūjià shàng de āi.",
+      "english": "He wiped off the dust on the bookshelf with a cloth."
+    },
+    {
+      "chinese": "科学家使用埃作为长度单位来测量(科學家使用埃作為長度單位來測量)。",
+      "pinyin": "Kēxuéjiā shǐyòng āi zuòwéi chángdù dānwèi lái cèliáng.",
+      "english": "Scientists use angstrom as a unit of length for measurement."
+    }
+  ]
+}

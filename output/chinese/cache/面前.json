@@ -1,0 +1,44 @@
+{
+  "simplified": "面前",
+  "traditional": "面前",
+  "pinyin": "miànqián",
+  "english": "in front of",
+  "etymology": {
+    "type": "compound word",
+    "description": "面(面) (miàn, \"face\"; \"surface\") and 前(前) (qián, \"front\"; \"before\"). The combination refers to the area directly in front of someone's face or the surface ahead.",
+    "interpretation": "面前(面前) (miànqián, \"in front of\") refers to the space or area that is directly before a person or object, aligning with the literal meanings of both words: the face or surface (面) and the front (前).",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "面",
+      "trad": "面",
+      "pinyin": "miàn",
+      "english": "face; surface"
+    },
+    {
+      "char": "前",
+      "trad": "前",
+      "pinyin": "qián",
+      "english": "front; before"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他站在我面前(他站在我面前)。",
+      "pinyin": "Tā zhàn zài wǒ miànqián.",
+      "english": "He stands in front of me."
+    },
+    {
+      "chinese": "在老师面前(在老師面前)，我们应该保持安静(我們應該保持安靜)。",
+      "pinyin": "Zài lǎoshī miànqián, wǒmen yīnggāi bǎochí ānjìng.",
+      "english": "In front of the teacher, we should remain quiet."
+    },
+    {
+      "chinese": "孩子们在圣诞树面前合影(孩子們在聖誕樹面前合影)。",
+      "pinyin": "Háizi men zài shèngdànshù miànqián héyǐng.",
+      "english": "The children take a picture in front of the Christmas tree."
+    }
+  ]
+}

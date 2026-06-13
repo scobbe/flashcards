@@ -1,0 +1,44 @@
+{
+  "simplified": "界",
+  "traditional": "界",
+  "pinyin": "jiè",
+  "english": "boundary; realm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "田(田) (tián, \"field\") as the semantic component + 介(介) (jiè, \"mediate\") as the phonetic component = indicates a boundary surrounding fields -> boundary; realm",
+    "interpretation": "The character 界 (jiè, \"boundary\") combines the idea of a field (田) with something that mediates or divides (介), which logically conveys the concept of setting boundaries or defining a realm.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "介",
+      "trad": "介",
+      "pinyin": "jiè",
+      "english": "mediate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "科学界对这个发现感到兴奋(科學界對這個發現感到興奮)。",
+      "pinyin": "Kēxué jiè duì zhège fāxiàn gǎndào xīngfèn.",
+      "english": "The scientific community is excited about this discovery."
+    },
+    {
+      "chinese": "他在艺术界很有名(他在藝術界很有名)。",
+      "pinyin": "Tā zài yìshù jiè hěn yǒumíng.",
+      "english": "He is well-known in the art world."
+    },
+    {
+      "chinese": "这本书探讨了神秘的精神界(這本書探討了神秘的精神界)。",
+      "pinyin": "Zhè běn shū tàntǎo le shénmì de jīngshén jiè.",
+      "english": "This book explores the mysterious spiritual realm."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "小子",
+  "traditional": "小子",
+  "pinyin": "xiǎozi",
+  "english": "boy; chap; guy",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 子(子) (zǐ, \"child\")",
+    "interpretation": "The combination of 小(小) (xiǎo, \"small\") and 子(子) (zǐ, \"child\") historically signifies a 'small child' or 'boy'. Over time, it has come to be used more broadly to refer to a 'chap' or 'guy' in colloquial contexts, often with a casual or informal tone.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child; son; person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那个小子总是调皮捣蛋(那個小子總是調皮搗蛋)。",
+      "pinyin": "Nàge xiǎozi zǒng shì tiáopí dǎodàn.",
+      "english": "That boy is always being naughty."
+    },
+    {
+      "chinese": "这个小子很聪明(這個小子很聰明)，学习成绩很好(學習成績很好)。",
+      "pinyin": "Zhège xiǎozi hěn cōngmíng, xuéxí chéngjī hěn hǎo.",
+      "english": "This chap is very smart, and his academic performance is excellent."
+    },
+    {
+      "chinese": "那个小子是我邻居的儿子(那個小子是我鄰居的兒子)。",
+      "pinyin": "Nàge xiǎozi shì wǒ línjū de érzi.",
+      "english": "That guy is my neighbor's son."
+    }
+  ]
+}

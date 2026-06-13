@@ -1,0 +1,28 @@
+{
+  "simplified": "侖",
+  "traditional": "侖",
+  "pinyin": "lún",
+  "english": "phonetic",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亼 (gather or interpret words) + 冊 (book) = arranging or interpreting books -> phonetic use",
+    "interpretation": "The character 侖(lún) uses the component 亼 to convey gathering or interpreting, combined with 冊 (book), suggesting the arrangement or reading of books, which relates to the idea of ordering or arranging things, leading to its phonetic use.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
+    },
+    {
+      "char": "冊",
+      "trad": "冊",
+      "pinyin": "cè",
+      "english": "book"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

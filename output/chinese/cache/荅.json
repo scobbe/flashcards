@@ -1,0 +1,28 @@
+{
+  "simplified": "荅",
+  "traditional": "荅",
+  "pinyin": "dá",
+  "english": "reply",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, \"grass; plant\") + 合(合) (hé, \"combine\") = combine the meanings suggesting something related to communication plants -> reply",
+    "interpretation": "The character 荅(dá, \"reply\") combines the semantic component 艸(艸) (cǎo, \"grass; plant\"), indicating relation to plants or growth, with the phonetic component 合(合) (hé, \"combine\"), to convey the idea of a response or reply growing as an interaction or combination of information, much like how plants grow.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "合",
+      "trad": "合",
+      "pinyin": "hé",
+      "english": "combine"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

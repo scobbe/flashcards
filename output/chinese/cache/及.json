@@ -1,0 +1,44 @@
+{
+  "simplified": "及",
+  "traditional": "及",
+  "pinyin": "jí",
+  "english": "and; to reach; up to",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 又(又) (yòu, \"hand\") = a hand grabbing a person -> to reach",
+    "interpretation": "The character 及(jí, \"and; to reach\") combines 人(人) (rén, \"person\") with 又(又) (yòu, \"hand\") to depict the idea of a hand catching up to or reaching for a person. This visual metaphor effectively communicates the concept of reaching or arriving at something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的表现及格了(他的表現及格了)。",
+      "pinyin": "Tā de biǎoxiàn jígé le.",
+      "english": "His performance reached the passing mark."
+    },
+    {
+      "chinese": "会议时间及地点会提前通知(會議時間及地點會提前通知)。",
+      "pinyin": "Huìyì shíjiān jí dìdiǎn huì tíqián tōngzhī.",
+      "english": "The meeting time and location will be notified in advance."
+    },
+    {
+      "chinese": "我们可以提供餐饮及住宿服务(我們可以提供餐飲及住宿服務)。",
+      "pinyin": "Wǒmen kěyǐ tígōng cānyǐn jí zhùsù fúwù.",
+      "english": "We can provide catering and accommodation services."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "面",
+  "traditional": "面",
+  "pinyin": "miàn",
+  "english": "face; surface",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a man's face, with an eye exaggerated, derived from 𦣻; the horizontal stroke was added later",
+    "interpretation": "The character 面(miàn, \"face\") visually represents a person's face with an exaggerated eye, highlighting the frontal aspect of the head. The design was later complemented by a horizontal stroke to complete its pictorial depiction.",
+    "simplification": "In the case of 麵, the component 麥(麥) (mài, \"wheat\") was eliminated to simplify the character, resulting in 面 being used as the sole representation."
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的面容(她的面容)总是带着微笑(總是帶著微笑)。",
+      "pinyin": "Tā de miànróng zǒng shì dài zhe wéixiào.",
+      "english": "Her face always wears a smile."
+    },
+    {
+      "chinese": "这个湖的表面(這個湖的表面)很平静(很平靜)。",
+      "pinyin": "Zhège hú de biǎomiàn hěn píngjìng.",
+      "english": "The surface of this lake is very calm."
+    },
+    {
+      "chinese": "他面对(他面對)困难(困難)毫不退缩(毫不退縮)。",
+      "pinyin": "Tā miànduì kùnnán háo bù tuìsuō.",
+      "english": "He faces difficulties without retreating."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "買",
+  "traditional": "買",
+  "pinyin": "mǎi",
+  "english": "buy",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Original 𧵽: 网(網) (wǎng, 'net') + 貝(貝) (bèi, 'money cowrie') -> codified as buy -> 買 (simplified to phono: 羅(羅) (luó) + semantic: 貝)",
+    "interpretation": "Although 買(mǎi, 'buy') originally used a net and cowrie to symbolize a transaction, it later evolved into a phono-semantic compound, using 羅(羅) (luó) as a phonetic component along with 貝(貝) (bèi, 'money cowrie') as the semantic element to maintain its association with purchasing goods.",
+    "simplification": "买 is a simplified form where 网(網) (wǎng, 'net') and 貝(貝) (bèi, 'money cowrie') were omitted, leaving the essential components of transaction indicated through simpler glyphs."
+  },
+  "parts": [
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "money cowrie"
+    },
+    {
+      "char": "羅",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "net"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我要去商店買新衣服(我要去商店買新衣服)。",
+      "pinyin": "Wǒ yào qù shāngdiàn mǎi xīn yīfú.",
+      "english": "I am going to the store to buy new clothes."
+    },
+    {
+      "chinese": "她喜歡買書(她喜歡買書)，因為她熱愛閱讀(因為她熱愛閱讀)。",
+      "pinyin": "Tā xǐhuān mǎi shū, yīnwèi tā rè'ài yuèdú.",
+      "english": "She likes to buy books because she loves reading."
+    },
+    {
+      "chinese": "我們今天就可以買票(我們今天就可以買票)，以確保有位置(以確保有位置)。",
+      "pinyin": "Wǒmen jīntiān jiù kěyǐ mǎi piào, yǐ quèbǎo yǒu wèizhì.",
+      "english": "We can buy tickets today to ensure we have seats."
+    }
+  ]
+}

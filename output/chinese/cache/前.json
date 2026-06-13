@@ -1,0 +1,56 @@
+{
+  "simplified": "前",
+  "traditional": "前",
+  "pinyin": "qián",
+  "english": "front; before",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "止(止) (zhǐ, 'foot') + 舟(舟) (zhōu, 'boat') = foot on a boat moving forward -> 止 simplified to 䒑 and 舟 to 月 with 刀(刀) (dāo, 'knife') added",
+    "interpretation": "Originally, 前 depicted a foot moving a boat forward, symbolizing advance or progress. Later, components were simplified and a knife was added, linking to its historical connection as the original form of 剪(剪) (jiǎn, 'to cut').",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "剪",
+      "trad": "剪",
+      "pinyin": "jiǎn",
+      "english": "to cut"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我站在房子前面(我站在房子前面)。",
+      "pinyin": "Wǒ zhàn zài fángzi qiánmiàn.",
+      "english": "I am standing in front of the house."
+    },
+    {
+      "chinese": "前几天我去北京旅游(前幾天我去北京旅遊)。",
+      "pinyin": "Qián jǐ tiān wǒ qù Běijīng lǚyóu.",
+      "english": "A few days ago, I went to Beijing for a trip."
+    },
+    {
+      "chinese": "他比我到得更早(他比我到得更早)，已经在咖啡店前等我(已經在咖啡店前等我)。",
+      "pinyin": "Tā bǐ wǒ dào de gèng zǎo, yǐjīng zài kāfēidiàn qián děng wǒ.",
+      "english": "He arrived earlier than me and was already waiting for me in front of the café."
+    }
+  ]
+}

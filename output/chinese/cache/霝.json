@@ -1,0 +1,22 @@
+{
+  "simplified": "霝",
+  "traditional": "霝",
+  "pinyin": "líng",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 雨(雨) (yǔ, \"rain\") with big and small raindrops",
+    "interpretation": "霝(霝) (líng, \"phonetic component\") visually represents rain coming down in varying sizes, with both large and small drops.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

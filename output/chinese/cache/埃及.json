@@ -1,0 +1,44 @@
+{
+  "simplified": "埃及",
+  "traditional": "埃及",
+  "pinyin": "Āijí",
+  "english": "Egypt",
+  "etymology": {
+    "type": "compound word",
+    "description": "The word 埃及(埃及) (āijí, \"Egypt\") combines two characters that individually don't convey its modern meaning as a country name, but together they represent the ancient nation of Egypt. As with many foreign place names transliterated into Chinese, the characters were chosen for their phonetic resemblance rather than meaning.",
+    "interpretation": "The word 埃及(埃及) (āijí, \"Egypt\") is a phonetic transcription rather than a semantic one. It does not relate to any specific attributes of Egypt but provides a sound approximation using available Chinese characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "埃",
+      "trad": "埃",
+      "pinyin": "āi",
+      "english": "dust; angstrom"
+    },
+    {
+      "char": "及",
+      "trad": "及",
+      "pinyin": "jí",
+      "english": "and; to reach; up to"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我打算去埃及(埃及)旅行。",
+      "pinyin": "Wǒ dǎsuàn qù Āijí lǚxíng.",
+      "english": "I plan to travel to Egypt."
+    },
+    {
+      "chinese": "埃及(埃及)的金字塔非常著名(非常著名)。",
+      "pinyin": "Āijí de jīnzìtǎ fēicháng zhùmíng.",
+      "english": "The pyramids of Egypt are very famous."
+    },
+    {
+      "chinese": "去年夏天(去年夏天)，我们去了埃及(我們去了埃及)和希腊(和希臘)。",
+      "pinyin": "Qùnián xiàtiān, wǒmen qùle Āijí hé Xīlà.",
+      "english": "Last summer, we went to Egypt and Greece."
+    }
+  ]
+}

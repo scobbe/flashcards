@@ -1,0 +1,44 @@
+{
+  "simplified": "灭",
+  "traditional": "滅",
+  "pinyin": "miè",
+  "english": "(of a light, fire, etc.) go out",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水, 'water') + 烕(烕, phonetic) = to destroy with water -> extinguish",
+    "interpretation": "The character 滅(滅) combines the water radical 氵(水, 'water') and the phonetic 烕(烕), symbolizing the extinguishing of a fire or destruction by flooding. This reflects the imagery of using water to put out or destroy something.",
+    "simplification": "The traditional character 滅(滅) was simplified to 灭(滅) by removing the components 氵(水, 'water') and 戊(戊, 'fifth heavenly stem') while retaining the core phonetic and semantic composition."
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "烕",
+      "trad": "烕",
+      "pinyin": "huǐ",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "火焰熄灭了(火焰熄滅了)。",
+      "pinyin": "Huǒyàn xīmiè le.",
+      "english": "The flame went out."
+    },
+    {
+      "chinese": "灯光在暴风雨中熄灭(燈光在暴風雨中熄滅)，我们陷入黑暗(我們陷入黑暗)。",
+      "pinyin": "Dēngguāng zài bàofēngyǔ zhōng xīmiè，wǒmen xiànrù hēi'àn.",
+      "english": "The lights went out during the storm, and we fell into darkness."
+    },
+    {
+      "chinese": "他的希望已经破灭(他的希望已經破滅)。",
+      "pinyin": "Tā de xīwàng yǐjīng pòmiè.",
+      "english": "His hopes have already been shattered."
+    }
+  ]
+}

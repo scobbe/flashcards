@@ -1,0 +1,31 @@
+{
+  "simplified": "巫",
+  "traditional": "巫",
+  "pinyin": "wū",
+  "english": "witch",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a shaman or witch with ritualistic gestures",
+    "interpretation": "The character 巫(wū, 'witch') is traditionally believed to represent a person engaging in shamanic or ritualistic activities, highlighted by the dynamic gestures that suggest the role of a witch or a medium.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那个村庄有一个著名的巫师(那個村莊有一個著名的巫師)。",
+      "pinyin": "Nàge cūnzhuāng yǒu yīgè zhùmíng de wūshī.",
+      "english": "That village has a famous witch."
+    },
+    {
+      "chinese": "传说中(傳說中)，巫可以召唤风雨(巫可以召喚風雨)。",
+      "pinyin": "Chuánshuō zhōng, wū kěyǐ zhàohuàn fēngyǔ.",
+      "english": "According to legend, the witch can summon storms."
+    },
+    {
+      "chinese": "古代神话里(古代神話裡)，巫常常与神灵交流(巫常常與神靈交流)。",
+      "pinyin": "Gǔdài shénhuà lǐ, wū chángcháng yǔ shénlíng jiāoliú.",
+      "english": "In ancient myths, witches often communicated with spirits."
+    }
+  ]
+}

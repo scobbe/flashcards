@@ -1,0 +1,44 @@
+{
+  "simplified": "记得",
+  "traditional": "記得",
+  "pinyin": "jìde",
+  "english": "remember",
+  "etymology": {
+    "type": "compound word",
+    "description": "記(記) (jì, \"record; remember\") and 得(得) (dé, \"obtain; get\") together convey the idea of \"successfully recording in one's mind,\" thus meaning \"to remember.\"",
+    "interpretation": "This combination makes sense because 記(記) (jì, \"record; remember\") implies the act of noting information mentally, while 得(得) (dé, \"obtain; get\") indicates the successful acquisition of this memory.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "记",
+      "trad": "記",
+      "pinyin": "jì",
+      "english": "record; remember"
+    },
+    {
+      "char": "得",
+      "trad": "得",
+      "pinyin": "dé",
+      "english": "obtain; get"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请记得锁门(請記得鎖門)。",
+      "pinyin": "Qǐng jìde suǒ mén.",
+      "english": "Please remember to lock the door."
+    },
+    {
+      "chinese": "你还记得那次旅行吗(你還記得那次旅行嗎)？",
+      "pinyin": "Nǐ hái jìde nà cì lǚxíng ma?",
+      "english": "Do you still remember that trip?"
+    },
+    {
+      "chinese": "他让我记得带伞(他讓我記得帶傘)。",
+      "pinyin": "Tā ràng wǒ jìde dài sǎn.",
+      "english": "He asked me to remember to bring an umbrella."
+    }
+  ]
+}

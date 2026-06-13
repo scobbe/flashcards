@@ -2,21 +2,14 @@
   "simplified": "乂",
   "traditional": "乂",
   "pinyin": "yì",
-  "english": "to govern/cut",
+  "english": "to govern",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tool similar to a knife or possibly a huge pair of scissors",
-    "interpretation": "The character 乂 (yì, \"to govern/cut\") shows a tool, possibly a sickle or large scissors, reflecting its original purpose in cutting or mowing. This meaning influenced its derivative 刈 (yì, \"to mow/cut weed\").",
+    "description": "Depicts a tool similar to a knife, possibly a sickle or large scissors used to cut weeds",
+    "interpretation": "The character 乂 originally depicted a cutting tool used for mowing or cutting weeds, reflecting its earliest meaning linked to agriculture and governance through farming tools. This pictogram emphasizes the act of cutting or management directly through the visual representation of a tool.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "刈",
-      "trad": "刈",
-      "pinyin": "yì",
-      "english": "mow/cut weed"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

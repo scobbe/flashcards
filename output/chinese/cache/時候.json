@@ -1,0 +1,44 @@
+{
+  "simplified": "時候",
+  "traditional": "時候",
+  "pinyin": "shíhòu",
+  "english": "time period; time; moment; length of time",
+  "etymology": {
+    "type": "compound word",
+    "description": "時(時) (shí, \"time; hour; period\") refers to a specific point in time or a duration. 候(候) (hòu, \"wait; moment\") indicates a time or a period during which something can occur.",
+    "interpretation": "The combination of 時(時) (shí, \"time; hour; period\") and 候(候) (hòu, \"wait; moment\") suggests a span of time or a specific moment when something happens. It reflects how a moment is both a point and a period in time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "時",
+      "trad": "時",
+      "pinyin": "shí",
+      "english": "time; hour; period"
+    },
+    {
+      "char": "候",
+      "trad": "候",
+      "pinyin": "hòu",
+      "english": "wait; moment; time; period"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我走的时候(我走的時候)，天已经黑了(天已經黑了)。",
+      "pinyin": "Wǒ zǒu de shíhòu, tiān yǐjīng hēi le.",
+      "english": "By the time I left, it was already dark."
+    },
+    {
+      "chinese": "上学的时候(上學的時候)，他喜欢写作(他喜歡寫作)。",
+      "pinyin": "Shàngxué de shíhòu, tā xǐhuān xiězuò.",
+      "english": "When he was in school, he liked writing."
+    },
+    {
+      "chinese": "你什么时候回来(你什麼時候回來)？",
+      "pinyin": "Nǐ shénme shíhòu huílái?",
+      "english": "When will you come back?"
+    }
+  ]
+}

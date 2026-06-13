@@ -1,0 +1,44 @@
+{
+  "simplified": "出",
+  "traditional": "出",
+  "pinyin": "chū",
+  "english": "go out",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "止(\"foot\") + 凵(\"cave\") = to step out of a cave -> exit",
+    "interpretation": "The character '出' is composed of '止'(\"foot\") and '凵'(\"cave\"), symbolizing the action of stepping out of a cave, which aligns well with the meaning 'to exit'. This ancient imagery effectively conveys the concept of going out or emerging.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "凵",
+      "trad": "凵",
+      "pinyin": "qǔ",
+      "english": "cave"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们计划下周末出门(我們計劃下週末出門)。",
+      "pinyin": "Wǒmen jìhuà xià zhōumò chūmén.",
+      "english": "We plan to go out next weekend."
+    },
+    {
+      "chinese": "他每天早上七点出门上班(他每天早上七點出門上班)。",
+      "pinyin": "Tā měitiān zǎoshang qī diǎn chūmén shàngbān.",
+      "english": "He goes out to work at seven every morning."
+    },
+    {
+      "chinese": "请等我几分钟，我马上就出来(請等我幾分鐘，我馬上就出來)。",
+      "pinyin": "Qǐng děng wǒ jǐ fēnzhōng, wǒ mǎshàng jiù chūlái.",
+      "english": "Please wait for me a few minutes, I will come out right away."
+    }
+  ]
+}

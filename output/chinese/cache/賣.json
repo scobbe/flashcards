@@ -1,0 +1,50 @@
+{
+  "simplified": "賣",
+  "traditional": "賣",
+  "pinyin": "mài",
+  "english": "sell",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 𧷓: 出(出) (chū, \"go out\") + 買(買) (mǎi, \"buy\") = sell -> 出 replaced by 士(士) (shì, \"scholar\") for semantic simplification -> 賣",
+    "interpretation": "The character 賣(mài, \"sell\") originally combined the sense of 'going out' with the act of 'buying', highlighting the transaction of goods leaving one's possession. Over time, the component 出(出) (chū, \"go out\") was replaced by 士(士) (shì, \"scholar\"), which no longer holds the original meaning but retained the character's structure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "出",
+      "trad": "出",
+      "pinyin": "chū",
+      "english": "go out"
+    },
+    {
+      "char": "買",
+      "trad": "買",
+      "pinyin": "mǎi",
+      "english": "buy"
+    },
+    {
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他想卖掉他的旧汽车(他想賣掉他的舊汽車)。",
+      "pinyin": "Tā xiǎng mài diào tā de jiù qìchē.",
+      "english": "He wants to sell his old car."
+    },
+    {
+      "chinese": "她在市场上卖水果(她在市場上賣水果)。",
+      "pinyin": "Tā zài shìchǎng shàng mài shuǐguǒ.",
+      "english": "She sells fruits at the market."
+    },
+    {
+      "chinese": "我们打算把房子卖掉(我們打算把房子賣掉)。",
+      "pinyin": "Wǒmen dǎsuàn bǎ fángzi mài diào.",
+      "english": "We plan to sell the house."
+    }
+  ]
+}

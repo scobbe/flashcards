@@ -1,0 +1,44 @@
+{
+  "simplified": "室",
+  "traditional": "室",
+  "pinyin": "shì",
+  "english": "room",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "宀(“roof”) + 至(phonetic, “arrive”/“this exact spot”) = a house or residence under a roof",
+    "interpretation": "The character 室(shì, \"room\") combines the semantic element 宀(shì, \"roof\") with the phonetic 至(zhì, \"arrive\"), symbolizing a covered place where one stops or resides. This interpretation aligns with historical uses of 室 to denote a specific location or dwelling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "至",
+      "trad": "至",
+      "pinyin": "zhì",
+      "english": "arrive"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的书在房间里(他的書在房間裏)。",
+      "pinyin": "Tā de shū zài fángjiān lǐ.",
+      "english": "His book is in the room."
+    },
+    {
+      "chinese": "走进这个房间(走進這個房間)，你会发现它很温馨(你會發現它很溫馨)。",
+      "pinyin": "Zǒujìn zhègè fángjiān, nǐ huì fāxiàn tā hěn wēnxīn.",
+      "english": "When you enter this room, you will find it very cozy."
+    },
+    {
+      "chinese": "会议室在走廊的尽头(會議室在走廊的盡頭)。",
+      "pinyin": "Huìyì shì zài zǒuláng de jìntóu.",
+      "english": "The meeting room is at the end of the corridor."
+    }
+  ]
+}

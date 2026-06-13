@@ -5,30 +5,11 @@
   "english": "four lines",
   "etymology": {
     "type": "ideogram",
-    "description": "Quadruplicates 一(一) (yī, \"one\") = four parallel lines -> represents the concept of 'four'",
-    "interpretation": "亖(亖) (sǐ, \"four lines\") is an ideogram representing the number four through four horizontal lines. This visual representation clearly distinguishes the character from 二(二) (èr, \"two\") and 三(三) (sān, \"three\"), especially when written vertically. It was used before the Qin dynasty before being replaced to avoid confusion.",
+    "description": "一(一) (yī, \"one\") quadruplicated = four parallel lines",
+    "interpretation": "The character 亖(sǐ) represents an ideogram by depicting four parallel horizontal lines. This visual depiction directly conveys the concept of 'four' by repeating the line 一(yī, \"one\") four times, making it a straightforward representation of the number.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one"
-    },
-    {
-      "char": "二",
-      "trad": "二",
-      "pinyin": "èr",
-      "english": "two"
-    },
-    {
-      "char": "三",
-      "trad": "三",
-      "pinyin": "sān",
-      "english": "three"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "澡",
+  "traditional": "澡",
+  "pinyin": "zǎo",
+  "english": "bathe; bath; wash",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "水(水) (shuǐ, \"water\") + 喿(喿) (zào, used phonetically) = interaction with water -> bathe",
+    "interpretation": "The character 澡(zǎo) combines the semantic element 水(水) (shuǐ, \"water\") with the phonetic element 喿(喿) (zào) to convey the idea of washing or bathing with water.",
+    "simplification": "In simplified Chinese, 澡 remains the same, as no simplified variant exists."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "喿",
+      "trad": "喿",
+      "pinyin": "zào",
+      "english": "used phonetically"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每天晚上他都会洗澡(每天晚上他都會洗澡)。",
+      "pinyin": "Měitiān wǎnshàng tā dōu huì xǐzǎo.",
+      "english": "He takes a bath every night."
+    },
+    {
+      "chinese": "孩子们喜欢在阳光下玩水后去洗澡(孩子們喜歡在陽光下玩水後去洗澡)。",
+      "pinyin": "Háizimen xǐhuān zài yángguāng xià wán shuǐ hòu qù xǐzǎo.",
+      "english": "The children like to bathe after playing in the sun."
+    },
+    {
+      "chinese": "早上的淋浴让他感到精神焕发(早上的淋浴讓他感到精神煥發)。",
+      "pinyin": "Zǎoshang de línyù ràng tā gǎndào jīngshén huànfā.",
+      "english": "The morning shower makes him feel refreshed."
+    }
+  ]
+}

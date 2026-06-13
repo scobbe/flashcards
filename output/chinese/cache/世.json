@@ -1,0 +1,50 @@
+{
+  "simplified": "世",
+  "traditional": "世",
+  "pinyin": "shì",
+  "english": "generation; lifetime",
+  "etymology": {
+    "type": "jiajie",
+    "description": "Variant form of 枼 (original form of 葉) with the tree removed -> borrowed meaning for 'generation'; traditionally explained as triplicated 十 ('thirty'), referencing thirty years as a standard generation -> simplified to adopt new meaning",
+    "interpretation": "The character 世 originated as a variant of 枼, the word for 'leaf', with the tree component removed, representing a borrowing of its shape for the phonetic similarity. Over time, it acquired a meaning related to 'generation' due to the interpretation of triplicated 十, symbolizing a traditional thirty-year generation cycle, which is how it came to represent age or lifetime.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "枼",
+      "trad": "枼",
+      "pinyin": "yè",
+      "english": "leaf"
+    },
+    {
+      "char": "葉",
+      "trad": "葉",
+      "pinyin": "yè",
+      "english": "leaf"
+    },
+    {
+      "char": "十",
+      "trad": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这一代人肩负着重大的责任(這一代人肩負著重大的責任)。",
+      "pinyin": "Zhè yī dài rén jiānfùzhe zhòngdà de zérèn.",
+      "english": "This generation shoulders a great responsibility."
+    },
+    {
+      "chinese": "他用一生的努力创造了伟大的成就(他用一生的努力創造了偉大的成就)。",
+      "pinyin": "Tā yòng yī shēng de nǔlì chuàngzàole wěidà de chéngjiù.",
+      "english": "He used a lifetime of effort to create great achievements."
+    },
+    {
+      "chinese": "整个世纪的历史都记载在这本书里(整個世紀的歷史都記載在這本書裡)。",
+      "pinyin": "Zhěnggè shìjì de lìshǐ dōu jìzǎi zài zhè běn shū lǐ.",
+      "english": "The history of the entire century is recorded in this book."
+    }
+  ]
+}

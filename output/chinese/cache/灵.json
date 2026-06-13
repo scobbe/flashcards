@@ -1,0 +1,50 @@
+{
+  "simplified": "灵",
+  "traditional": "靈",
+  "pinyin": "líng",
+  "english": "effective",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "霝 (phonetic) + 玉 (original semantic 'jade') -> later 巫 ('witch') used as semantic in current form -> final form 靈",
+    "interpretation": "The character 靈 originally combined a phonetic element with a semantic component that suggested something precious or revered, like 玉(jade). Over time, the semantic component evolved to 巫, associating the character with spirituality or otherworldly power.",
+    "simplification": "靈(靈) was simplified to 灵 by removing the semantic component 巫(巫) and retaining the core phonetic element of 霝."
+  },
+  "parts": [
+    {
+      "char": "霝",
+      "trad": "霝",
+      "pinyin": "líng",
+      "english": "phonetic component"
+    },
+    {
+      "char": "巫",
+      "trad": "巫",
+      "pinyin": "wū",
+      "english": "witch"
+    },
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个药非常灵(這個藥非常靈)。",
+      "pinyin": "Zhège yào fēicháng líng.",
+      "english": "This medicine is very effective."
+    },
+    {
+      "chinese": "他的方法真灵(他的方法真靈)！",
+      "pinyin": "Tā de fāngfǎ zhēn líng!",
+      "english": "His method is truly effective!"
+    },
+    {
+      "chinese": "她的灵感总是很灵(她的靈感總是很靈)。",
+      "pinyin": "Tā de línggǎn zǒngshì hěn líng.",
+      "english": "Her inspiration is always very effective."
+    }
+  ]
+}

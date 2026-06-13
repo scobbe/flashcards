@@ -1,0 +1,44 @@
+{
+  "simplified": "厌",
+  "traditional": "厭",
+  "pinyin": "yàn",
+  "english": "to loathe; bore; disgust",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "厂(厂) (chǎng, 'cliff') as semantic component + 猒(猒) (yàn) as phonetic component = to loathe or be disgusted by something",
+    "interpretation": "The character 厭(厭) (yàn, 'to loathe') combines the semantic element 厂(厂) (chǎng, 'cliff'), suggesting something imposing or daunting, with the phonetic component 猒(猒) (yàn), guiding pronunciation and reinforcing the meaning of finding something distasteful or burdensome.",
+    "simplification": "厭(厭) was simplified to 厌(厌) by removing the phonetic 猒(猒) (yàn) and retaining the similar semantic impression under 厂(厂) (chǎng, 'cliff')."
+  },
+  "parts": [
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "cliff"
+    },
+    {
+      "char": "猒",
+      "trad": "猒",
+      "pinyin": "yàn",
+      "english": "phonetic element"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他对这份工作感到厌烦(他對這份工作感到厭煩)。",
+      "pinyin": "Tā duì zhè fèn gōngzuò gǎndào yànfán.",
+      "english": "He feels bored with this job."
+    },
+    {
+      "chinese": "我一听到这些长篇大论就感到厌倦(我一聽到這些長篇大論就感到厭倦)。",
+      "pinyin": "Wǒ yī tīngdào zhèxiē chángpiāndàlùn jiù gǎndào yànjuàn.",
+      "english": "I feel bored whenever I hear these lengthy speeches."
+    },
+    {
+      "chinese": "厌恶的情绪充满了他的内心(厭惡的情緒充滿了他的內心)。",
+      "pinyin": "Yànwù de qíngxù chōngmǎnle tā de nèixīn.",
+      "english": "Feelings of loathing filled his heart."
+    }
+  ]
+}

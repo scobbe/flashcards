@@ -1,0 +1,44 @@
+{
+  "simplified": "记",
+  "traditional": "記",
+  "pinyin": "jì",
+  "english": "record; remember",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"speech; words\") + 己(己) (jǐ, \"self\") = speech related to oneself -> final form 記",
+    "interpretation": "The character 記 (jì, \"record\") combines speech 言(言), indicating communication or words, with the phonetic 己(己), referring to oneself. This combination suggests the idea of recording or remembering words related to oneself or one's experiences.",
+    "simplification": "The traditional character 記 was simplified to 记 by replacing 言(言, \"speech\") with the simpler 讠, reducing stroke count while maintaining the semantic component."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "self"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天写日记(我每天寫日記)。",
+      "pinyin": "Wǒ měitiān xiě rìjì.",
+      "english": "I write a diary every day."
+    },
+    {
+      "chinese": "请记住这条重要的规则(請記住這條重要的規則)。",
+      "pinyin": "Qǐng jì zhù zhè tiáo zhòngyào de guīzé.",
+      "english": "Please remember this important rule."
+    },
+    {
+      "chinese": "他把电话号码记在本子上(他把電話號碼記在本子上)。",
+      "pinyin": "Tā bǎ diànhuà hàomǎ jì zài běnzi shàng.",
+      "english": "He recorded the phone number in the notebook."
+    }
+  ]
+}

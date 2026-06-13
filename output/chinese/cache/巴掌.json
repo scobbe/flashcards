@@ -1,0 +1,44 @@
+{
+  "simplified": "巴掌",
+  "traditional": "巴掌",
+  "pinyin": "bāzhang",
+  "english": "palm; slap",
+  "etymology": {
+    "type": "compound word",
+    "description": "巴(巴) (bā, \"to cling\") + 掌(掌) (zhǎng, \"palm\") combine to describe the flat part of the hand, which can be used to deliver a slap. This imagery captures both the anatomical and functional aspect of the word.",
+    "interpretation": "The term 巴掌(bāzhang) describes the palm of the hand, focusing on its use for clinging or grasping, and by extension, its ability to give a slap. This reflects a practical understanding of the hand's function.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "to cling; to hope"
+    },
+    {
+      "char": "掌",
+      "trad": "掌",
+      "pinyin": "zhǎng",
+      "english": "palm; control"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的巴掌很用力(他的巴掌很用力)。",
+      "pinyin": "Tā de bāzhang hěn yònglì.",
+      "english": "His slap was very forceful."
+    },
+    {
+      "chinese": "小孩们在课堂上开玩笑(小孩們在課堂上開玩笑)，老师生气地拍了拍桌子(老師生氣地拍了拍桌子)，但没有打巴掌(但沒有打巴掌)。",
+      "pinyin": "Xiǎohái men zài kètáng shàng kāiwánxiào, lǎoshī shēngqì de pāile pāi zhuōzi, dàn méiyǒu dǎ bāzhang.",
+      "english": "The children joked in class, the teacher angrily patted the table, but didn't slap."
+    },
+    {
+      "chinese": "他的脸上有一个红红的巴掌印(他的臉上有一個紅紅的巴掌印)。",
+      "pinyin": "Tā de liǎn shàng yǒu yīgè hónghóng de bāzhang yìn.",
+      "english": "There was a red palm print on his face."
+    }
+  ]
+}

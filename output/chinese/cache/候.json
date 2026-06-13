@@ -1,0 +1,44 @@
+{
+  "simplified": "候",
+  "traditional": "候",
+  "pinyin": "hòu",
+  "english": "wait; moment; time; period",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 矦(侯) (hóu, ancient form, \"target for arrows\") = combined human element with phonetic cue from 侯(侯) to imply waiting or time-related activities",
+    "interpretation": "The character 候 was designed to convey a sense of humans involved with waiting or being on the lookout, borrowing the sound and visual elements from 侯(侯), which represented a target for arrows, suggesting observation or anticipation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "侯",
+      "trad": "侯",
+      "pinyin": "hóu",
+      "english": "target for arrows"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请稍等一会儿(請稍等一會兒)。",
+      "pinyin": "Qǐng shāo děng yī huìr.",
+      "english": "Please wait a moment."
+    },
+    {
+      "chinese": "我们在车站等候(我們在車站等候)，汽车却迟迟未来(汽車卻遲遲未來)。",
+      "pinyin": "Wǒmen zài chēzhàn děnghòu, qìchē què chíchí wèi lái.",
+      "english": "We waited at the station, but the bus did not come for a long time."
+    },
+    {
+      "chinese": "工作繁忙的候(工作繁忙的候)，他总是很疲倦(他總是很疲倦)。",
+      "pinyin": "Gōngzuò fánmáng de hòu, tā zǒng shì hěn píjuàn.",
+      "english": "During busy work periods, he always feels tired."
+    }
+  ]
+}

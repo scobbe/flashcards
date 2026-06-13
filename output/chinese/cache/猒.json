@@ -1,0 +1,46 @@
+{
+  "simplified": "猒",
+  "traditional": "猒",
+  "pinyin": "yàn",
+  "english": "phonetic element",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "犬(犬) (quǎn, \"dog\") + ⺼(肉) (ròu, \"meat\") -> dog eating meat = \"satisfied\" -> 口(口) (kǒu, \"mouth\") corrupted into 甘(甘) (gān) and later 日(日) (rì)",
+    "interpretation": "The character originally depicted a dog consuming meat to convey the concept of being satisfied. Over time, the components evolved, with the mouth radical being replaced by 甘 and eventually 日, reflecting changes in depiction while retaining the original notion of satisfaction.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": ""
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

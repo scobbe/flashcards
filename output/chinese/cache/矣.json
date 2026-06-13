@@ -1,0 +1,28 @@
+{
+  "simplified": "矣",
+  "traditional": "矣",
+  "pinyin": "yǐ",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 㠯 + Semantic: 矢 (arrow) = combines phonetic element with semantic indicator",
+    "interpretation": "The character 矣(yǐ) acts as a final particle in classical Chinese, indicating a change or completed action. The combination of components uses the phonetic 㠯 and semantic 矢 (shǐ, 'arrow') to suggest completedness, akin to reaching a target.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "㠯",
+      "trad": "㠯",
+      "pinyin": "yǐ",
+      "english": ""
+    },
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "小学",
+  "traditional": "小學",
+  "pinyin": "xiǎoxué",
+  "english": "primary school",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 学(學) (xué, \"study\") = a place or institution for small or young students to study, hence 'primary school'.",
+    "interpretation": "小学(小學) (xiǎoxué, \"primary school\") refers to the initial stage of formal education, where young children first begin their structured learning. The use of 'small' signifies the early and foundational level of schooling.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "学",
+      "trad": "學",
+      "pinyin": "xué",
+      "english": "study; learn; school; knowledge"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的小女儿今年开始上小学(我的小女兒今年開始上小學)。",
+      "pinyin": "Wǒ de xiǎo nǚ'ér jīnnián kāishǐ shàng xiǎoxué.",
+      "english": "My little daughter is starting primary school this year."
+    },
+    {
+      "chinese": "小学的课程比较简单(小學的課程比較簡單)。",
+      "pinyin": "Xiǎoxué de kèchéng bǐjiào jiǎndān.",
+      "english": "The curriculum in primary school is relatively simple."
+    },
+    {
+      "chinese": "我第一次见他是在小学(我第一次見他是在小學)。",
+      "pinyin": "Wǒ dì yī cì jiàn tā shì zài xiǎoxué.",
+      "english": "The first time I met him was in primary school."
+    }
+  ]
+}

@@ -6,29 +6,10 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a footprint pointing up -> stylized as 龰",
-    "interpretation": "The character 龰 (yù, 'stylized feet') is a pictographic representation of a footprint with the toes pointing upwards. It was stylized over time from its original form and is related to the character 止(止) (zhǐ, 'foot'), which captures the idea of resting a foot, evolved from oracle script depictions with three toes and a sole.",
+    "interpretation": "The character 龰 (yù) represents stylized feet, initially illustrating a footprint pointing upward with an outline of three toes and a sole. It was streamlined into this form, suggesting motion or directionality, distinctly different from similar characters depicting downward footprints or other styles like animal claws.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "止",
-      "trad": "止",
-      "pinyin": "zhǐ",
-      "english": "foot"
-    },
-    {
-      "char": "趾",
-      "trad": "趾",
-      "pinyin": "zhǐ",
-      "english": "toe"
-    },
-    {
-      "char": "爪",
-      "trad": "爪",
-      "pinyin": "zhǎo",
-      "english": "claw"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "塔",
+  "traditional": "塔",
+  "pinyin": "tǎ",
+  "english": "tower; pagoda",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "土(土) (tǔ, \"earth\") + 荅(荅) (dá, \"reply\") = semantic element indicating structure + phonetic element -> tower; pagoda",
+    "interpretation": "The character 塔 combines 土(土) (tǔ, \"earth\"), which indicates a structure built on earth, with 荅(荅) (dá, \"reply\") for its phonetic component. This suggests a tall structure like a tower or pagoda, typically founded on the earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "荅",
+      "trad": "荅",
+      "pinyin": "dá",
+      "english": "reply"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座旧塔已有几百年的历史(這座舊塔已有幾百年的歷史)。",
+      "pinyin": "Zhè zuò jiù tǎ yǐ yǒu jǐ bǎi nián de lìshǐ.",
+      "english": "This old tower has a history of several hundred years."
+    },
+    {
+      "chinese": "在山顶上可以看到远处的塔(在山頂上可以看到遠處的塔)。",
+      "pinyin": "Zài shāndǐng shàng kěyǐ kàn dào yuǎn chù de tǎ.",
+      "english": "From the mountain top, you can see the tower in the distance."
+    },
+    {
+      "chinese": "这座城市因其标志性的塔而闻名(這座城市因其標誌性的塔而聞名)。",
+      "pinyin": "Zhè zuò chéngshì yīn qí biāozhì xìng de tǎ ér wénmíng.",
+      "english": "This city is famous for its iconic tower."
+    }
+  ]
+}

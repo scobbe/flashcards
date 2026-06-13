@@ -1,0 +1,44 @@
+{
+  "simplified": "敢",
+  "traditional": "敢",
+  "pinyin": "gǎn",
+  "english": "dare",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, 'hand') + 豕(豕) (shǐ, 'boar') with capturing tool 𰅱 -> hand using tool to hunt boar -> 𰅱 omitted, 口/甘 added redudantly -> modern 敢",
+    "interpretation": "The character 敢(gǎn, 'dare') evolved from an original depiction of a hand with a tool hunting a boar, signifying bravery or audacity. Over time, a capturing tool component was dropped, and minor strokes or components were added, resulting in the modern form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "boar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他敢于挑战权威(他敢於挑戰權威)。",
+      "pinyin": "Tā gǎnyú tiǎozhàn quánwēi.",
+      "english": "He dares to challenge authority."
+    },
+    {
+      "chinese": "我不敢一个人走那条路(我不敢一個人走那條路)。",
+      "pinyin": "Wǒ bù gǎn yī gèrén zǒu nà tiáo lù.",
+      "english": "I don't dare to walk that road alone."
+    },
+    {
+      "chinese": "如果有人敢欺负你(如果有人敢欺負你)，就告诉我(就告訴我)。",
+      "pinyin": "Rúguǒ yǒurén gǎn qīfù nǐ，jiù gàosù wǒ。",
+      "english": "If anyone dares to bully you, just tell me."
+    }
+  ]
+}

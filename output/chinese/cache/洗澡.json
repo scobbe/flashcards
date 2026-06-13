@@ -1,0 +1,44 @@
+{
+  "simplified": "洗澡",
+  "traditional": "洗澡",
+  "pinyin": "xǐzǎo",
+  "english": "have a bath",
+  "etymology": {
+    "type": "compound word",
+    "description": "洗(洗) (xǐ, \"wash\") and 澡(澡) (zǎo, \"bathe\") combine to form a word meaning to take a bath or wash oneself. 洗(洗) (xǐ, \"wash\") indicates the act of cleaning, while 澡(澡) (zǎo, \"bathe\") specifically refers to the act of bathing. Together, they create a term for the complete process of cleansing the body through bathing.",
+    "interpretation": "洗(洗) (xǐ, \"wash\") and 澡(澡) (zǎo, \"bathe\") together describe the action of washing oneself in water, indicating the practice of personal hygiene.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "洗",
+      "trad": "洗",
+      "pinyin": "xǐ",
+      "english": "wash; cleanse; clean"
+    },
+    {
+      "char": "澡",
+      "trad": "澡",
+      "pinyin": "zǎo",
+      "english": "bathe; bath; wash"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她每天洗澡(她每天洗澡)。",
+      "pinyin": "Tā měitiān xǐzǎo.",
+      "english": "She has a bath every day."
+    },
+    {
+      "chinese": "我想在晚饭后洗澡(我想在晚飯後洗澡)。",
+      "pinyin": "Wǒ xiǎng zài wǎnfàn hòu xǐzǎo.",
+      "english": "I want to have a bath after dinner."
+    },
+    {
+      "chinese": "孩子不愿意洗澡(孩子不願意洗澡)，总是找借口(總是找藉口)。",
+      "pinyin": "Háizi bù yuànyì xǐzǎo, zǒng shì zhǎo jièkǒu.",
+      "english": "The child doesn't want to have a bath and always makes excuses."
+    }
+  ]
+}

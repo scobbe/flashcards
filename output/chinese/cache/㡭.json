@@ -1,0 +1,28 @@
+{
+  "simplified": "㡭",
+  "traditional": "㡭",
+  "pinyin": "jì",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 糸 (糸, \"rope\") + phonetic 㡭 (jì)",
+    "interpretation": "The character 㡭 serves as an ancient form of 繼(繼) (jì, \"continue\"), acting as its phonetic component in the phono-semantic compound. The semantic component 糸(糸) (mì, \"rope\") implies continuity or connection, which supports the meaning of \"continue.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "繼",
+      "trad": "繼",
+      "pinyin": "jì",
+      "english": "continue"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "rope"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

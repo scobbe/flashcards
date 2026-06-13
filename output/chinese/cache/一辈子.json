@@ -1,0 +1,50 @@
+{
+  "simplified": "一辈子",
+  "traditional": "一輩子",
+  "pinyin": "yíbèizi",
+  "english": "all one's life; throughout one's life",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one\") + 辈(輩) (bèi, \"generation\") + 子(子) (zi, \"noun suffix\")",
+    "interpretation": "The term 一輩子 (yíbèizi) literally translates to 'one generation', with the addition of the suffix 子(子) (zi, \"noun suffix\") to denote a duration of time encompassing one's entire lifetime, emphasizing continuity and entirety.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "辈",
+      "trad": "輩",
+      "pinyin": "bèi",
+      "english": "generation; lifetime; contemporaries"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "noun suffix; son; child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想一辈子守护你(我想一輩子守護你)。",
+      "pinyin": "Wǒ xiǎng yíbèizi shǒuhù nǐ.",
+      "english": "I want to protect you all my life."
+    },
+    {
+      "chinese": "他一辈子都在追求真理(他一輩子都在追求真理)。",
+      "pinyin": "Tā yíbèizi dōu zài zhuīqiú zhēnlǐ.",
+      "english": "He has been pursuing the truth all his life."
+    },
+    {
+      "chinese": "一辈子生活在这个小镇上(一輩子生活在這個小鎮上)，他已经和这里融为一体(他已經和這裡融為一體)。",
+      "pinyin": "Yíbèizi shēnghuó zài zhège xiǎo zhèn shàng, tā yǐjīng hé zhèlǐ róng wéi yī tǐ.",
+      "english": "Having lived in this small town all his life, he has become one with it."
+    }
+  ]
+}

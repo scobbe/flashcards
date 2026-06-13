@@ -1,0 +1,28 @@
+{
+  "simplified": "喿",
+  "traditional": "喿",
+  "pinyin": "zào",
+  "english": "used phonetically",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "品(品) (pǐn, \"three mouths\") + 木(木) (mù, \"tree\") = chirping of birds in a tree",
+    "interpretation": "The character 喿(zào) graphically combines three mouths 品(品) atop a tree 木(木) to symbolize the sound of birds chirping in a tree. This imagery effectively captures the idea of abundant sounds emanating from one location, akin to a chorus of birds.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "three mouths"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

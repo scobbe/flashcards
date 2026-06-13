@@ -1,0 +1,50 @@
+{
+  "simplified": "時",
+  "traditional": "時",
+  "pinyin": "shí",
+  "english": "time; hour; period",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "日(日) (rì, \"sun\") + 寺(寺) (sì, \"temple\") as phonetic = time marker influenced by the sun's movement -> 寸(寸) (cùn, \"inch\") added in associated compound",
+    "interpretation": "The character 時(shí, \"time\") combines the semantic element 日(日) (rì, \"sun\") with the phonetic element 寺(寺) (sì, \"temple\"). The concept of measuring time relates to the sun's movement; 寸(寸) (cùn, \"inch\") later added emphasized the notion of time as a measurable entity.",
+    "simplification": "The simplified character 时 is a cursive handwritten variant of 時, streamlined by omitting the 寸(寸) component."
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "temple"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "时间就是金钱(時間就是金錢)。",
+      "pinyin": "Shíjiān jiùshì jīnqián.",
+      "english": "Time is money."
+    },
+    {
+      "chinese": "每当我想你时(每當我想你時)，心情就会变好(心情就會變好)。",
+      "pinyin": "Měidāng wǒ xiǎng nǐ shí, xīnqíng jiù huì biàn hǎo.",
+      "english": "Whenever I think of you, my mood improves."
+    },
+    {
+      "chinese": "雨季来临时(雨季來臨時)，我们需要准备好雨具(我們需要準備好雨具)。",
+      "pinyin": "Yǔjì láilín shí, wǒmen xūyào zhǔnbèi hǎo yǔjù.",
+      "english": "When the rainy season arrives, we need to prepare our rain gear."
+    }
+  ]
+}

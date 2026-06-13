@@ -1,0 +1,44 @@
+{
+  "simplified": "轮",
+  "traditional": "輪",
+  "pinyin": "lún",
+  "english": "take turns",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "車(車) (chē, \"carriage\") + 侖(侖) (lún, phonetic) = related to carriages or wheeled transport -> wheel -> turn/rotate",
+    "interpretation": "The character 輪 combines 車(車) (chē, \"carriage\") for its semantic meaning related to vehicles, with 侖(侖) (lún) to provide the phonetic aspect. Together they convey the idea of something that rotates or turns, like a wheel.",
+    "simplification": "輪(輪) was simplified to 轮(輪) by changing 車(車) (chē, \"carriage\") to 车(車) and 侖(侖) (lún) to 仑(侖), reducing stroke count while maintaining similar phonetic and semantic elements."
+  },
+  "parts": [
+    {
+      "char": "車",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "carriage"
+    },
+    {
+      "char": "侖",
+      "trad": "侖",
+      "pinyin": "lún",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们只需轮流上岗(我們只需輪流上崗)。",
+      "pinyin": "Wǒmen zhǐ xū lúnliú shàng gǎng.",
+      "english": "We only need to take turns on duty."
+    },
+    {
+      "chinese": "他们轮着做饭(他們輪著做飯)，每天换人(每天換人)。",
+      "pinyin": "Tāmen lúnzhe zuò fàn, měitiān huàn rén.",
+      "english": "They take turns cooking, changing people every day."
+    },
+    {
+      "chinese": "在游戏中，我们都轮到发言(在遊戲中，我們都輪到發言)。",
+      "pinyin": "Zài yóuxì zhōng, wǒmen dōu lún dào fāyán.",
+      "english": "In the game, we all take turns speaking."
+    }
+  ]
+}

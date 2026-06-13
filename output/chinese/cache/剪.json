@@ -1,0 +1,50 @@
+{
+  "simplified": "剪",
+  "traditional": "剪",
+  "pinyin": "jiǎn",
+  "english": "to cut",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𣦃 (original) -> stylized as 前 (phonetic 歬 + semantic 刀) -> 前 replaced 歬; extra 刀 added -> final form 剪",
+    "interpretation": "Initially represented by 𣦃 and later evolved by stylization into 前 with a phonetic component 歬 and a semantic component 刀 (a knife). To retain the semantic connection with cutting, an additional 刀 component was added after the phonetic part was replaced by 前.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "前",
+      "trad": "前",
+      "pinyin": "qián",
+      "english": "before"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "歬",
+      "trad": "歬",
+      "pinyin": "qián",
+      "english": "phonetic element"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她用剪刀剪纸(她用剪刀剪紙)。",
+      "pinyin": "Tā yòng jiǎndāo jiǎn zhǐ.",
+      "english": "She uses scissors to cut paper."
+    },
+    {
+      "chinese": "妈妈帮我剪头发(媽媽幫我剪頭髮)。",
+      "pinyin": "Māma bāng wǒ jiǎn tóufà.",
+      "english": "Mom helps me cut my hair."
+    },
+    {
+      "chinese": "他喜欢剪小说中的插图(他喜歡剪小說中的插圖)。",
+      "pinyin": "Tā xǐhuān jiǎn xiǎoshuō zhōng de chātú.",
+      "english": "He likes to cut illustrations from novels."
+    }
+  ]
+}

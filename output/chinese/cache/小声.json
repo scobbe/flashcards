@@ -1,0 +1,44 @@
+{
+  "simplified": "小声",
+  "traditional": "小聲",
+  "pinyin": "xiǎoshēng",
+  "english": "in a low voice",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small; few\") refers to something small or in a reduced form. 聲(聲) (shēng, \"sound; voice\") refers to sound or voice. Together, 小聲 refers to speaking or making sounds in a low, soft manner.",
+    "interpretation": "小聲(小声) (xiǎoshēng, \"in a low voice\") literally means 'small voice', suggesting speaking quietly or softly, which is often used to describe speaking in a whisper or to avoid being overheard.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; few"
+    },
+    {
+      "char": "声",
+      "trad": "聲",
+      "pinyin": "shēng",
+      "english": "sound; voice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她小声地说(她小聲地說)，怕吵醒孩子(怕吵醒孩子)。",
+      "pinyin": "Tā xiǎoshēng de shuō, pà chǎoxǐng háizi.",
+      "english": "She spoke in a low voice, afraid of waking the child."
+    },
+    {
+      "chinese": "请小声一点(請小聲一點)，以免影响别人(以免影響別人)。",
+      "pinyin": "Qǐng xiǎoshēng yīdiǎn, yǐmiǎn yǐngxiǎng biérén.",
+      "english": "Please speak a little softer to avoid disturbing others."
+    },
+    {
+      "chinese": "他常常小声地唱歌(他常常小聲地唱歌)。",
+      "pinyin": "Tā chángcháng xiǎoshēng de chànggē.",
+      "english": "He often sings in a low voice."
+    }
+  ]
+}

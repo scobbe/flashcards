@@ -5,11 +5,18 @@
   "english": "leaf",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts leaves growing from a tree",
-    "interpretation": "The character 枼 (yè, 'leaf') is a pictogram that visually represents leaves sprouting from the branches of a tree. Originally, it depicted the concept of a 'leaf' and was later phonetically borrowed for meanings related to 'flat.'",
+    "description": "Depicts leaves growing from a tree -> Original form of 葉(葉) (yè, \"leaf\")",
+    "interpretation": "The character 枼 depicts the visual concept of leaves attached to a stem or branch, symbolizing vegetation. It was originally used to mean \"leaf\" before being phonetically borrowed to represent the idea of \"flatness.\"",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "葉",
+      "trad": "葉",
+      "pinyin": "yè",
+      "english": "leaf"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "浴室",
+  "traditional": "浴室",
+  "pinyin": "yùshì",
+  "english": "bathroom",
+  "etymology": {
+    "type": "compound word",
+    "description": "浴(浴) (yù, \"bathe\") + 室(室) (shì, \"room\") = a room for bathing",
+    "interpretation": "A 浴室(浴室) (yùshì, \"bathroom\") combines 浴(浴) (yù, \"bathe\") and 室(室) (shì, \"room\") to describe a room that is specifically designated for bathing activities. This combination is straightforward and commonly understood in modern contexts as a place equipped for personal hygiene.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "浴",
+      "trad": "浴",
+      "pinyin": "yù",
+      "english": "bathe"
+    },
+    {
+      "char": "室",
+      "trad": "室",
+      "pinyin": "shì",
+      "english": "room"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天早上在浴室(浴室)洗澡(洗澡)。",
+      "pinyin": "Wǒ měitiān zǎoshang zài yùshì xǐzǎo.",
+      "english": "I take a shower in the bathroom every morning."
+    },
+    {
+      "chinese": "浴室(浴室)的墙壁(牆壁)是蓝色的(是藍色的)。",
+      "pinyin": "Yùshì de qiángbì shì lánsè de.",
+      "english": "The walls of the bathroom are blue."
+    },
+    {
+      "chinese": "他在装修浴室(他在裝修浴室)，所以现在不能使用(所以現在不能使用)。",
+      "pinyin": "Tā zài zhuāngxiū yùshì, suǒyǐ xiànzài bùnéng shǐyòng.",
+      "english": "He is renovating the bathroom, so it can't be used right now."
+    }
+  ]
+}

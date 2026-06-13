@@ -1,0 +1,44 @@
+{
+  "simplified": "讨",
+  "traditional": "討",
+  "pinyin": "tǎo",
+  "english": "ask for; beg; demand",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"speech\") + phonetic 肘(肘) = asking with words -> final meaning",
+    "interpretation": "The traditional character 討(tǎo) consists of the speech element 言(言) (yán, \"speech\") combined with the phonetic 肘(肘), reflecting the action of 'asking for' or 'demanding' through spoken words.",
+    "simplification": "討(討) was simplified to 讨(討) by reducing 訁(言) (yán, \"speech\") to 讠, maintaining the phonetic phonetic link."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "肘",
+      "trad": "肘",
+      "pinyin": "zhǒu",
+      "english": "elbow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他去讨钱(他去討錢)。",
+      "pinyin": "Tā qù tǎo qián.",
+      "english": "He went to ask for money."
+    },
+    {
+      "chinese": "我们不能总是讨别人的帮助(我們不能總是討別人的幫助)。",
+      "pinyin": "Wǒmen bù néng zǒng shì tǎo biérén de bāngzhù.",
+      "english": "We cannot always ask for help from others."
+    },
+    {
+      "chinese": "她讨厌被人忽视(她討厭被人忽視)，所以总是努力表现自己(所以總是努力表現自己)。",
+      "pinyin": "Tā tǎoyàn bèi rén hūshì, suǒyǐ zǒng shì nǔlì biǎoxiàn zìjǐ.",
+      "english": "She hates being ignored, so she always tries to make herself known."
+    }
+  ]
+}

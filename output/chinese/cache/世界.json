@@ -1,0 +1,44 @@
+{
+  "simplified": "世界",
+  "traditional": "世界",
+  "pinyin": "shìjiè",
+  "english": "world",
+  "etymology": {
+    "type": "compound word",
+    "description": "世(世) (shì, \"generation; lifetime\") and 界(界) (jiè, \"boundary; realm\") combine to form 世界(世界), which refers to the \"world\" as the realm or entire space where generations of people live.",
+    "interpretation": "世界(世界) (shìjiè, \"world\") combines the concept of 世(世) (shì, \"generation; lifetime\") with 界(界) (jiè, \"boundary; realm\") to describe the totality of human civilization across time and space. It conveys the idea of the human world or the earth as the domain for generations of people.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "世",
+      "trad": "世",
+      "pinyin": "shì",
+      "english": "generation; lifetime"
+    },
+    {
+      "char": "界",
+      "trad": "界",
+      "pinyin": "jiè",
+      "english": "boundary; realm"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "世界很大(世界很大)。",
+      "pinyin": "Shìjiè hěn dà.",
+      "english": "The world is big."
+    },
+    {
+      "chinese": "他想环游世界(他想環遊世界)。",
+      "pinyin": "Tā xiǎng huán yóu shìjiè.",
+      "english": "He wants to travel around the world."
+    },
+    {
+      "chinese": "世界上有很多美丽的地方(世界上有很多美麗的地方)。",
+      "pinyin": "Shìjiè shàng yǒu hěn duō měilì de dìfāng.",
+      "english": "There are many beautiful places in the world."
+    }
+  ]
+}

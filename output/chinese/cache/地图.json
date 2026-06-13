@@ -1,0 +1,44 @@
+{
+  "simplified": "地图",
+  "traditional": "地圖",
+  "pinyin": "dìtú",
+  "english": "map; plat; atlas",
+  "etymology": {
+    "type": "compound word",
+    "description": "In the word 地图(地圖) (dìtú, \"map\"), 地(地) (dì, \"earth; ground\") refers to the land or ground, and 圖(圖) (tú, \"diagram; picture\") refers to a drawing or diagram. Together, these characters are used to describe a diagram or representation of a section of the earth's surface or ground, which is essentially what a map is.",
+    "interpretation": "A 地圖(地图) (dìtú, \"map\") is a representation or diagram of the earth's surface, which fits logically with its components: 地(地) (dì, \"earth\") and 圖(圖) (tú, \"diagram\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "地",
+      "trad": "地",
+      "pinyin": "dì",
+      "english": "earth; ground; land; place"
+    },
+    {
+      "char": "图",
+      "trad": "圖",
+      "pinyin": "tú",
+      "english": "diagram; picture; drawing; map"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他给我看了一张地图(他給我看了一張地圖)。",
+      "pinyin": "Tā gěi wǒ kàn le yī zhāng dìtú.",
+      "english": "He showed me a map."
+    },
+    {
+      "chinese": "我在寻找图书馆的位置(我在尋找圖書館的位置)，但地图不是很清晰(但地圖不是很清晰)。",
+      "pinyin": "Wǒ zài xúnzhǎo túshūguǎn de wèizhì, dàn dìtú bù shì hěn qīngxī.",
+      "english": "I am looking for the library's location, but the map is not very clear."
+    },
+    {
+      "chinese": "这本书包含了世界各地的地图(這本書包含了世界各地的地圖)。",
+      "pinyin": "Zhè běn shū bāohán le shìjiè gèdì de dìtú.",
+      "english": "This book contains maps of various places around the world."
+    }
+  ]
+}

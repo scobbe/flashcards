@@ -1,0 +1,44 @@
+{
+  "simplified": "续",
+  "traditional": "續",
+  "pinyin": "xù",
+  "english": "continue; extend; maintain",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, 'rope') + phonetic 𧶠 = continuation or extension by symbolic association of maintaining and extending connections",
+    "interpretation": "The character 續(續) (xù, 'continue') combines the semantic element 糸(糸) (mì, 'rope'), representing continuity or connection, with a phonetic component 𧶠, to express the idea of continuing or maintaining a connection.",
+    "simplification": "The traditional form 續(續) was simplified to 续 by replacing 糹(糹) with 纟(纟) and 賣(賣) with 卖, preserving the pronunciation and meaning while reducing stroke count."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "rope"
+    },
+    {
+      "char": "𧶠",
+      "trad": "𧶠",
+      "pinyin": "",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们需要继续努力(我們需要繼續努力)。",
+      "pinyin": "Wǒmen xūyào jìxù nǔlì.",
+      "english": "We need to continue our efforts."
+    },
+    {
+      "chinese": "请续写故事(請續寫故事)。",
+      "pinyin": "Qǐng xùxiě gùshì.",
+      "english": "Please continue the story."
+    },
+    {
+      "chinese": "会议中断后(會議中斷後)，我们继续讨论(我們繼續討論)。",
+      "pinyin": "Huìyì zhōngduàn hòu, wǒmen jìxù tǎolùn.",
+      "english": "After the meeting paused, we continued the discussion."
+    }
+  ]
+}

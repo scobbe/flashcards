@@ -1,0 +1,44 @@
+{
+  "simplified": "掌",
+  "traditional": "掌",
+  "pinyin": "zhǎng",
+  "english": "palm; control",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "尚(尚) (shàng, \"esteem\") as phonetic + 手(手) (shǒu, \"hand\") as semantic = related to the hand -> palm, control",
+    "interpretation": "The character 掌 combines the phonetic component 尚(尚) (shàng, \"esteem\") with the semantic component 手(手) (shǒu, \"hand\") to indicate its meaning related to the hand, specifically the palm, which is often associated with handling or controlling something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "esteem"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的手掌很宽大(她的手掌很寬大)。",
+      "pinyin": "Tā de shǒuzhǎng hěn kuāndà.",
+      "english": "Her palms are very broad."
+    },
+    {
+      "chinese": "公司由他掌控(公司由他掌控)。",
+      "pinyin": "Gōngsī yóu tā zhǎngkòng.",
+      "english": "The company is controlled by him."
+    },
+    {
+      "chinese": "他试图掌握局势(他試圖掌握局勢)，但情况很复杂(但情況很複雜)。",
+      "pinyin": "Tā shìtú zhǎngwò júshì, dàn qíngkuàng hěn fùzá.",
+      "english": "He tried to control the situation, but it was very complicated."
+    }
+  ]
+}
