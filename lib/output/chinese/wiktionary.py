@@ -132,25 +132,21 @@ def _extract_definitions_from_html(html: str, max_defs: int = 3) -> str:
     if not chinese_section_start:
         return ""
 
+    # Collect <ol> tags between the Chinese heading and the next language
+    # heading using a single document-order pass (the parsed tree is already in
+    # source order), instead of repeatedly serializing the whole page to find
+    # element positions.
+    ols_in_chinese = []
+    for el in chinese_section_start.next_elements:
+        if el is chinese_section_end:
+            break
+        if getattr(el, "name", None) == "ol":
+            ols_in_chinese.append(el)
+
     # Find all OL tags between Chinese heading and next language heading
     definitions = []
 
-    # Get all elements after Chinese heading
-    for ol in content.find_all("ol"):
-        # Check if this OL is after Chinese heading and before next section
-        if chinese_section_start:
-            # Check position relative to Chinese heading
-            chinese_pos = str(content).find(str(chinese_section_start))
-            ol_pos = str(content).find(str(ol))
-
-            if ol_pos <= chinese_pos:
-                continue  # OL is before Chinese section
-
-            if chinese_section_end:
-                end_pos = str(content).find(str(chinese_section_end))
-                if ol_pos >= end_pos:
-                    continue  # OL is after Chinese section
-
+    for ol in ols_in_chinese:
         # Extract definitions from this OL
         for li in ol.find_all("li", recursive=False):
             text = li.get_text(separator=" ", strip=True)

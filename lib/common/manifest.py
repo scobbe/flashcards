@@ -34,6 +34,13 @@ from typing import Any, Dict, List, Optional, Set
 # Lock for thread-safe manifest updates
 MANIFEST_LOCK = threading.Lock()
 
+# In-memory mirror of output manifests, keyed by manifest path. Avoids
+# re-reading + re-parsing the whole manifest from disk on every single state
+# transition (every card flips in_progress -> complete/error under the lock).
+# Every change is still written through to disk for crash-safe resumability;
+# this only removes the redundant read. All access is guarded by MANIFEST_LOCK.
+_OUTPUT_MANIFEST_MEM: Dict[str, tuple] = {}  # path_str -> (file_status, error_details)
+
 # Valid states
 PENDING = "pending"
 IN_PROGRESS = "in_progress"
@@ -354,6 +361,27 @@ def save_output_manifest(output_dir: Path, file_status: Dict[str, str]) -> None:
     _save_manifest(output_manifest_path(output_dir), file_status)
 
 
+def _get_output_state(path: Path) -> tuple:
+    """Return (file_status, error_details) for an output manifest.
+
+    Served from the in-memory mirror when available, otherwise loaded from disk
+    once and cached. Caller must hold MANIFEST_LOCK.
+    """
+    cached = _OUTPUT_MANIFEST_MEM.get(str(path))
+    if cached is not None:
+        return cached
+    manifest = _load_manifest(path)
+    state = (manifest.get("file_status", {}), manifest.get("error_details", {}))
+    _OUTPUT_MANIFEST_MEM[str(path)] = state
+    return state
+
+
+def _commit_output_state(path: Path, file_status: Dict[str, str], error_details: Dict[str, str]) -> None:
+    """Persist output manifest state to memory + disk. Caller must hold MANIFEST_LOCK."""
+    _OUTPUT_MANIFEST_MEM[str(path)] = (file_status, error_details)
+    _save_manifest(path, file_status, error_details or None)
+
+
 def init_output_manifest(output_dir: Path, word_keys: List[str]) -> None:
     """Initialize output manifest with expected words (all set to pending).
 
@@ -365,9 +393,12 @@ def init_output_manifest(output_dir: Path, word_keys: List[str]) -> None:
         word_keys: List of word keys like ["1.山", "2.银", "3.人口"]
     """
     with MANIFEST_LOCK:
-        # Load existing to preserve any already-complete items
+        path = output_manifest_path(output_dir)
+        # Load existing (from disk - seed the in-memory mirror) to preserve any
+        # already-complete items.
         manifest = load_output_manifest(output_dir)
         existing_status = manifest.get("file_status", {})
+        error_details = manifest.get("error_details", {})
 
         # MERGE: Start with existing status, then add new keys
         file_status = dict(existing_status)
@@ -375,7 +406,7 @@ def init_output_manifest(output_dir: Path, word_keys: List[str]) -> None:
             if key not in file_status:
                 file_status[key] = PENDING
 
-        save_output_manifest(output_dir, file_status)
+        _commit_output_state(path, file_status, error_details)
 
 
 def is_word_complete(output_dir: Path, word: str) -> bool:
@@ -395,45 +426,46 @@ def get_word_state(output_dir: Path, word: str) -> str:
 def mark_word_in_progress(output_dir: Path, word: str) -> None:
     """Mark a word as in progress."""
     with MANIFEST_LOCK:
-        manifest = load_output_manifest(output_dir)
-        file_status = manifest.get("file_status", {})
+        path = output_manifest_path(output_dir)
+        file_status, error_details = _get_output_state(path)
         file_status[word] = IN_PROGRESS
-        save_output_manifest(output_dir, file_status)
+        _commit_output_state(path, file_status, error_details)
 
 
 def mark_word_complete(output_dir: Path, word: str) -> None:
     """Mark a word as complete."""
     with MANIFEST_LOCK:
-        manifest = load_output_manifest(output_dir)
-        file_status = manifest.get("file_status", {})
+        path = output_manifest_path(output_dir)
+        file_status, error_details = _get_output_state(path)
         file_status[word] = COMPLETE
-        save_output_manifest(output_dir, file_status)
+        _commit_output_state(path, file_status, error_details)
 
 
 def mark_word_error(output_dir: Path, word: str, error_message: Optional[str] = None) -> None:
     """Mark a word as error, optionally with an error message."""
     with MANIFEST_LOCK:
-        manifest = load_output_manifest(output_dir)
-        file_status = manifest.get("file_status", {})
-        error_details = manifest.get("error_details", {})
+        path = output_manifest_path(output_dir)
+        file_status, error_details = _get_output_state(path)
         file_status[word] = ERROR
         if error_message:
             error_details[word] = error_message
-        _save_manifest(output_manifest_path(output_dir), file_status, error_details)
+        _commit_output_state(path, file_status, error_details)
 
 
 def mark_word_incomplete(output_dir: Path, word: str) -> None:
     """Mark a word as pending (for regeneration)."""
     with MANIFEST_LOCK:
-        manifest = load_output_manifest(output_dir)
-        file_status = manifest.get("file_status", {})
+        path = output_manifest_path(output_dir)
+        file_status, error_details = _get_output_state(path)
         file_status[word] = PENDING
-        save_output_manifest(output_dir, file_status)
+        _commit_output_state(path, file_status, error_details)
 
 
 def clear_output_manifest(output_dir: Path) -> None:
     """Clear the output manifest (for full regeneration)."""
     path = output_manifest_path(output_dir)
+    with MANIFEST_LOCK:
+        _OUTPUT_MANIFEST_MEM.pop(str(path), None)
     if path.exists():
         path.unlink()
 
@@ -473,12 +505,11 @@ def add_subcomponent_error(output_dir: Path, parent_word: str, subcomponent: str
     Errors are stored in error_details with key format "parent→subcomponent".
     """
     with MANIFEST_LOCK:
-        manifest = load_output_manifest(output_dir)
-        file_status = manifest.get("file_status", {})
-        error_details = manifest.get("error_details", {})
+        path = output_manifest_path(output_dir)
+        file_status, error_details = _get_output_state(path)
         error_key = f"{parent_word}→{subcomponent}"
         error_details[error_key] = error_message
-        _save_manifest(output_manifest_path(output_dir), file_status, error_details)
+        _commit_output_state(path, file_status, error_details)
 
 
 def migrate_manifest(path: Path) -> bool:

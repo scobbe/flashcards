@@ -51,6 +51,7 @@ from lib.common.openai import OpenAIClient
 from lib.common.cache import (
     sanitize_filename,
     get_cache_path,
+    key_lock,
     read_cache,
     write_cache,
 )
@@ -94,6 +95,7 @@ __all__ = [
     # cache
     "sanitize_filename",
     "get_cache_path",
+    "key_lock",
     "read_cache",
     "write_cache",
 ]

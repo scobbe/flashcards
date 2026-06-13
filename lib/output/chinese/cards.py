@@ -15,7 +15,7 @@ from lib.schema.chinese import (
     is_cache_valid,
     CHINESE_DISPLAY_SCHEMA,
 )
-from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char
+from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char, key_lock
 
 from lib.output.chinese.cache import read_cache, write_cache
 from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
@@ -121,11 +121,15 @@ def generate_card_content(
     pinyin: str,
     english: str,
     input_examples: Optional[str] = None,
-    wiktionary_etymology: Optional[str] = None,
     model: Optional[str] = None,
     verbose: bool = False,
 ) -> Tuple[Dict[str, str], str, List[Tuple[str, str, str, str]], List[Tuple[str, str, str, str]], List[dict], bool, bool]:
     """Generate all card content in a single API call.
+
+    Wiktionary etymology is fetched lazily (only on a cache miss). The whole
+    read -> fetch -> generate -> write sequence is serialized per word via
+    ``key_lock`` so parallel workers never redundantly regenerate (and pay for)
+    the same shared component.
 
     Returns (etymology_dict, traditional, components, character_breakdown, examples, in_contemporary_usage, from_cache).
     """
@@ -133,112 +137,131 @@ def generate_card_content(
     cjk_chars = [ch for ch in simplified if is_cjk_char(ch)]
     is_single = len(cjk_chars) == 1
 
-    # Check cache first
-    cached = read_cache(word, verbose=verbose)
-    if is_cache_valid(cached):
-        # Extract from cache using schema helper
-        extracted = extract_from_cache(cached)
-        parts = _parts_to_tuples(extracted["parts"])
-        examples = _normalize_examples(extracted["examples"])
+    # Serialize generation of this specific word/component across threads.
+    with key_lock(word):
+        # Check cache first (now memoized in-process, so this is cheap).
+        cached = read_cache(word, verbose=verbose)
+        if is_cache_valid(cached):
+            # Extract from cache using schema helper
+            extracted = extract_from_cache(cached)
+            parts = _parts_to_tuples(extracted["parts"])
+            examples = _normalize_examples(extracted["examples"])
 
-        if is_single:
-            components = parts
-            char_breakdown = []
-        else:
-            components = []
-            char_breakdown = parts
+            if is_single:
+                components = parts
+                char_breakdown = []
+            else:
+                components = []
+                char_breakdown = parts
 
-        return (
-            extracted["etymology"],
-            extracted["traditional"],
-            components,
-            char_breakdown,
-            examples,
-            extracted["in_contemporary_usage"],
-            True,  # from_cache
+            return (
+                extracted["etymology"],
+                extracted["traditional"],
+                components,
+                char_breakdown,
+                examples,
+                extracted["in_contemporary_usage"],
+                True,  # from_cache
+            )
+
+        # Cache miss: only now do we hit Wiktionary (avoids wasted network/IO
+        # for words that were already cached).
+        wiktionary_etymology = fetch_wiktionary_etymology(
+            simplified or word, traditional or word, verbose=verbose
         )
 
-    # Generate system prompt from schema
-    variant = "single_char" if is_single else "multi_char"
+        # Generate system prompt from schema
+        variant = "single_char" if is_single else "multi_char"
 
-    # Build user prompt for etymology
-    if is_single:
-        user = f"Character: {simplified}"
-        user += f"\nPinyin: {pinyin}\nMeaning: {english}"
-        if wiktionary_etymology:
-            user += f"\n\n**MANDATORY RULES:**\n1. Use the TRADITIONAL form's etymology type (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound')\n2. IGNORE any line that says 'simplified form of X' - that is NOT a valid etymology type\n3. If you see '[{traditional}] Phono-semantic compound...' - use 'phono-semantic compound' as the type\n\n**Wiktionary etymology:**\n{wiktionary_etymology}"
-    else:
-        user = f"Word: {simplified}"
-        user += f"\nPinyin: {pinyin}\nMeaning: {english}"
-        if wiktionary_etymology:
-            user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE:**\n{wiktionary_etymology}"
-
-    try:
-        # First API call: etymology/parts with gpt-4o (no examples)
-        client = OpenAIClient(model=model)
-        system = generate_system_prompt_no_examples(variant)
-
-        if verbose:
-            print(f"[chinese] [generate] {simplified} ({variant})...")
-        start = time.time()
-        data = client.complete_json(system, user, verbose=verbose)
-
-        elapsed = time.time() - start
-        if verbose:
-            print(f"[chinese] [generated] {simplified} in {elapsed:.1f}s")
-
-        # Second API call: examples with o3-mini (skip if not in contemporary usage)
-        if data.get("in_contemporary_usage", True):
-            examples_client = OpenAIClient(model="o3-mini")
-            examples_system = generate_examples_system_prompt(variant)
-            examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
-            if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
-                examples_user += f"\n\nInclude these examples:\n{input_examples}"
-
-            if verbose:
-                print(f"[chinese] [examples] {simplified}...")
-            examples_start = time.time()
-            examples_data = examples_client.complete_json(examples_system, examples_user, verbose=verbose)
-            examples_elapsed = time.time() - examples_start
-            if verbose:
-                print(f"[chinese] [examples] {simplified} in {examples_elapsed:.1f}s")
-
-            # Merge examples into data
-            if examples_data and "examples" in examples_data:
-                data["examples"] = examples_data["examples"]
-        else:
-            if verbose:
-                print(f"[chinese] [examples] {simplified} skipped (not in contemporary usage)")
-            data["examples"] = []
-
-        if not data or data == {}:
-            print(f"[chinese] [ERROR] API returned empty response for {simplified}")
-            return {"error": f"API returned empty response for {simplified}"}, simplified, [], [], [], True, False
-
-        # Use schema to extract and transform to cache format
-        cache_data = extract_to_cache_format(data, simplified, pinyin, english)
-
-        # Extract values for return
-        etymology = cache_data["etymology"]
-        api_traditional = cache_data["traditional"] or simplified
-        parts_list = _parts_to_tuples(cache_data["parts"])
-        examples = _normalize_examples(cache_data["examples"])
-        in_contemporary_usage = cache_data["in_contemporary_usage"]
-
+        # Build user prompt for etymology
         if is_single:
-            components = [(c, t, p, e) for c, t, p, e in parts_list
-                         if len(c) == 1 and is_cjk_char(c) and c != simplified]
-            char_breakdown = []
+            user = f"Character: {simplified}"
+            user += f"\nPinyin: {pinyin}\nMeaning: {english}"
+            if wiktionary_etymology:
+                user += f"\n\n**MANDATORY RULES:**\n1. Use the TRADITIONAL form's etymology type (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound')\n2. IGNORE any line that says 'simplified form of X' - that is NOT a valid etymology type\n3. If you see '[{traditional}] Phono-semantic compound...' - use 'phono-semantic compound' as the type\n\n**Wiktionary etymology:**\n{wiktionary_etymology}"
         else:
-            components = []
-            char_breakdown = parts_list
+            user = f"Word: {simplified}"
+            user += f"\nPinyin: {pinyin}\nMeaning: {english}"
+            if wiktionary_etymology:
+                user += f"\n\n**CRITICAL: Use this Wiktionary etymology as your PRIMARY SOURCE:**\n{wiktionary_etymology}"
 
-        return etymology, api_traditional, components, char_breakdown, examples, in_contemporary_usage, False
+        try:
+            # First API call: etymology/parts (no examples)
+            client = OpenAIClient(model=model)
+            system = generate_system_prompt_no_examples(variant)
 
-    except Exception as e:
-        if verbose:
-            print(f"[chinese] [error] Failed to generate content for {simplified}: {e}")
-        return {}, simplified, [], [], [], True, False
+            if verbose:
+                print(f"[chinese] [generate] {simplified} ({variant})...")
+            start = time.time()
+            data = client.complete_json(system, user, verbose=verbose)
+
+            elapsed = time.time() - start
+            if verbose:
+                print(f"[chinese] [generated] {simplified} in {elapsed:.1f}s")
+
+            # Second API call: examples (skip if not in contemporary usage).
+            # Uses the same model as the rest of the pipeline (respects --model)
+            # instead of a hardcoded reasoning model.
+            if data.get("in_contemporary_usage", True):
+                examples_client = OpenAIClient(model=model)
+                examples_system = generate_examples_system_prompt(variant)
+                examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
+                if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
+                    examples_user += f"\n\nInclude these examples:\n{input_examples}"
+
+                if verbose:
+                    print(f"[chinese] [examples] {simplified}...")
+                examples_start = time.time()
+                examples_data = examples_client.complete_json(examples_system, examples_user, verbose=verbose)
+                examples_elapsed = time.time() - examples_start
+                if verbose:
+                    print(f"[chinese] [examples] {simplified} in {examples_elapsed:.1f}s")
+
+                # Merge examples into data
+                if examples_data and "examples" in examples_data:
+                    data["examples"] = examples_data["examples"]
+            else:
+                if verbose:
+                    print(f"[chinese] [examples] {simplified} skipped (not in contemporary usage)")
+                data["examples"] = []
+
+            if not data or data == {}:
+                print(f"[chinese] [ERROR] API returned empty response for {simplified}")
+                return {"error": f"API returned empty response for {simplified}"}, simplified, [], [], [], True, False
+
+            # Use schema to extract and transform to cache format
+            cache_data = extract_to_cache_format(data, simplified, pinyin, english)
+
+            # Extract values for return
+            etymology = cache_data["etymology"]
+            api_traditional = cache_data["traditional"] or simplified
+            parts_list = _parts_to_tuples(cache_data["parts"])
+            examples = _normalize_examples(cache_data["examples"])
+            in_contemporary_usage = cache_data["in_contemporary_usage"]
+
+            if is_single:
+                components = [(c, t, p, e) for c, t, p, e in parts_list
+                             if len(c) == 1 and is_cjk_char(c) and c != simplified]
+                char_breakdown = []
+            else:
+                components = []
+                char_breakdown = parts_list
+
+            # Persist to cache inside the lock so a waiting thread for the same
+            # word gets a cache hit instead of regenerating.
+            fresh_parts = components if components else char_breakdown
+            save_to_cache(
+                word, simplified or word, api_traditional, pinyin, english,
+                etymology=etymology, parts=fresh_parts, examples=examples,
+                in_contemporary_usage=in_contemporary_usage, verbose=verbose,
+            )
+
+            return etymology, api_traditional, components, char_breakdown, examples, in_contemporary_usage, False
+
+        except Exception as e:
+            if verbose:
+                print(f"[chinese] [error] Failed to generate content for {simplified}: {e}")
+            return {}, simplified, [], [], [], True, False
 
 
 def _write_single_card(
@@ -332,11 +355,9 @@ def _generate_recursive_component_cards(
             continue
         visited.add(comp_simp)
 
-        wiki_ety = fetch_wiktionary_etymology(comp_simp, comp_trad, verbose=verbose)
-
         comp_etymology, comp_trad_api, sub_components, _, comp_examples, comp_in_contemporary, from_cache = generate_card_content(
             comp_simp, comp_trad, comp_pin, comp_eng,
-            wiktionary_etymology=wiki_ety, model=model, verbose=verbose
+            model=model, verbose=verbose
         )
         comp_trad = comp_trad_api
 
@@ -345,13 +366,6 @@ def _generate_recursive_component_cards(
             errors.append(f"{comp_simp}: {error_msg}")
             if out_dir and parent_word:
                 add_subcomponent_error(out_dir, parent_word, comp_simp, error_msg)
-
-        if not from_cache:
-            save_to_cache(
-                comp_simp, comp_simp, comp_trad, comp_pin, comp_eng,
-                etymology=comp_etymology, parts=sub_components, examples=comp_examples,
-                in_contemporary_usage=comp_in_contemporary, verbose=verbose,
-            )
 
         current_breadcrumbs = breadcrumbs + [(comp_simp, comp_trad)]
 
@@ -438,11 +452,9 @@ def write_card_md(
             morpheme_cjk = [c for c in ch_simp if is_cjk_char(c)]
             is_single_char_morpheme = len(morpheme_cjk) == 1
 
-            ch_wiki_ety = fetch_wiktionary_etymology(ch_simp, ch_trad, verbose=verbose)
-
             ch_etymology, ch_trad_api, ch_components, ch_char_breakdown, ch_examples, ch_in_contemporary, from_cache = generate_card_content(
                 ch_simp, ch_trad, ch_pin, ch_eng,
-                wiktionary_etymology=ch_wiki_ety, model=model, verbose=verbose
+                model=model, verbose=verbose
             )
             ch_trad = ch_trad_api
 
@@ -450,16 +462,6 @@ def write_card_md(
                 error_msg = ch_etymology.get("error", "Unknown error")
                 subcomponent_errors.append(f"{ch_simp}: {error_msg}")
                 add_subcomponent_error(out_dir, word, ch_simp, error_msg)
-
-            if not from_cache:
-                parts_to_cache = ch_components if is_single_char_morpheme else ch_char_breakdown
-                save_to_cache(
-                    ch_simp, ch_simp, ch_trad, ch_pin, ch_eng,
-                    etymology=ch_etymology,
-                    parts=parts_to_cache,
-                    examples=ch_examples,
-                    in_contemporary_usage=ch_in_contemporary, verbose=verbose,
-                )
 
             morpheme_breadcrumbs = initial_breadcrumb + [(ch_simp, ch_trad)]
 
@@ -501,20 +503,11 @@ def write_card_md(
                         continue
                     morpheme_visited.add(sub_simp)
 
-                    sub_wiki_ety = fetch_wiktionary_etymology(sub_simp, sub_trad, verbose=verbose)
-
                     sub_etymology, sub_trad_api, sub_components, _, sub_examples, sub_in_contemporary, sub_from_cache = generate_card_content(
                         sub_simp, sub_trad, sub_pin, sub_eng,
-                        wiktionary_etymology=sub_wiki_ety, model=model, verbose=verbose
+                        model=model, verbose=verbose
                     )
                     sub_trad = sub_trad_api
-
-                    if not sub_from_cache:
-                        save_to_cache(
-                            sub_simp, sub_simp, sub_trad, sub_pin, sub_eng,
-                            etymology=sub_etymology, parts=sub_components, examples=sub_examples,
-                            in_contemporary_usage=sub_in_contemporary, verbose=verbose,
-                        )
 
                     sub_breadcrumbs = morpheme_breadcrumbs + [(sub_simp, sub_trad)]
 

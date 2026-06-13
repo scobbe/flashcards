@@ -11,8 +11,7 @@ from lib.common import (
     is_word_complete, mark_word_complete, mark_word_in_progress, mark_word_error, init_output_manifest,
 )
 
-from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
-from lib.output.chinese.cards import read_parsed_input, generate_card_content, write_card_md, save_to_cache
+from lib.output.chinese.cards import read_parsed_input, generate_card_content, write_card_md
 
 
 def process_chinese_row(
@@ -57,25 +56,14 @@ def process_chinese_row(
         print(f"[chinese] [info] Generating card: {file_base}")
 
     try:
-        # Fetch Wiktionary etymology for this word
-        wiki_ety = fetch_wiktionary_etymology(simp or headword, trad or headword, verbose=verbose)
-
-        # Generate all content in single API call
+        # Generate all content (etymology fetch + caching happen inside, only on
+        # a cache miss, serialized per word).
         input_examples = phrase if phrase and phrase.strip() and phrase.strip().lower() != "none" else None
         etymology, trad_api, components, characters, examples, in_contemporary, from_cache = generate_card_content(
             simp, trad, pin, eng, input_examples=input_examples,
-            wiktionary_etymology=wiki_ety, model=model, verbose=verbose
+            model=model, verbose=verbose
         )
         trad = trad_api
-
-        # Write complete cache entry for main headword only if newly generated
-        if not from_cache:
-            parts_to_cache = components if components else characters
-            save_to_cache(
-                simp or headword, simp or headword, trad, pin, eng,
-                etymology=etymology, parts=parts_to_cache,
-                examples=examples, in_contemporary_usage=in_contemporary, verbose=verbose,
-            )
 
         # Write card
         md_path, subcomponent_errors = write_card_md(
