@@ -1,0 +1,44 @@
+{
+  "simplified": "繼",
+  "traditional": "繼",
+  "pinyin": "jì",
+  "english": "to continue",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糸) (mì, \"silk; thread\") + 㡭(㡭) (jì, phonetic) = continuing threads -> to continue",
+    "interpretation": "The character 繼(jì, \"to continue\") combines the semantic component 糸(糸) (mì, \"silk; thread\"), signifying threads or continuity, with a phonetic component 㡭(㡭) (jì), which together convey the meaning of continuing or passing on, similar to the unbroken nature of a thread.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "㡭",
+      "trad": "㡭",
+      "pinyin": "jì",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请继续努力(請繼續努力)。",
+      "pinyin": "Qǐng jìxù nǔlì.",
+      "english": "Please continue to work hard."
+    },
+    {
+      "chinese": "她继续讲故事(她繼續講故事)，孩子们听得入迷(孩子們聽得入迷)。",
+      "pinyin": "Tā jìxù jiǎng gùshì, háizimen tīng dé rùmí.",
+      "english": "She continued telling the story, and the children listened intently."
+    },
+    {
+      "chinese": "在会议上，大家决定继续这个计划(在會議上，大家決定繼續這個計畫)。",
+      "pinyin": "Zài huìyì shàng, dàjiā juédìng jìxù zhège jìhuà.",
+      "english": "At the meeting, everyone decided to continue with this plan."
+    }
+  ]
+}

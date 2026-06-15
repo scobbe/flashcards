@@ -5,17 +5,11 @@
   "english": "phonetic element",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "歬 (qián, \"phonetic element\") with original 止(止) (zhǐ, \"foot\") + 舟(舟) (zhōu, \"boat\") = foot on boat -> moving forward -> phonetic in 前(前)",
-    "interpretation": "The character 歬 originally depicted a foot 止(止) (zhǐ, \"foot\") on a boat 舟(舟) (zhōu, \"boat\"), capturing the idea of moving forward, and was used as a phonetic component in the character 前(前) (qián, \"front\"). Its original meaning has evolved, and it is now primarily recognized as a phonetic component.",
+    "description": "舟(舟) (zhōu, \"boat\") + 止(止) (zhǐ, \"foot\") = a foot on a boat moving forward -> phonetic for 前(前) (qián, \"forward\")",
+    "interpretation": "The character 歬 is a historical variant for 前(前) (qián, \"forward\"), combining 舟(舟) (zhōu, \"boat\") and 止(止) (zhǐ, \"foot\") to depict moving forward on a boat. It also served as a phonetic element for the character 剪(剪) (jiǎn, \"to cut\").",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "止",
-      "trad": "止",
-      "pinyin": "zhǐ",
-      "english": "foot"
-    },
     {
       "char": "舟",
       "trad": "舟",
@@ -23,10 +17,22 @@
       "english": "boat"
     },
     {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
       "char": "前",
       "trad": "前",
       "pinyin": "qián",
-      "english": "front"
+      "english": "forward"
+    },
+    {
+      "char": "剪",
+      "trad": "剪",
+      "pinyin": "jiǎn",
+      "english": "to cut"
     }
   ],
   "in_contemporary_usage": false,

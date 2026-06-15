@@ -2,11 +2,11 @@
   "simplified": "耜",
   "traditional": "耜",
   "pinyin": "sì",
-  "english": "plowshare",
+  "english": "plow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "耒(耒) (lěi, \"plow\") + 㠯 (phonetic) = plow-related tool",
-    "interpretation": "The character 耜 (sì) represents a plowshare, combining the semantic element 耒(耒) (lěi, \"plow\") which indicates the agricultural tool category with the phonetic element 㠯 to signify the specific sound. This composition highlights its function as an agricultural implement.",
+    "description": "semantic: 耒(耒) (lěi, \"plow\") + phonetic: 㠯(㠯) (yǐ) = a specific type of plow",
+    "interpretation": "The character 耜(sì) combines the semantic element 耒(耒) (lěi, \"plow\"), indicating the tool's function, with the phonetic element 㠯(㠯) (yǐ) to convey the specific type of plowing tool it represents.",
     "simplification": ""
   },
   "parts": [
@@ -19,8 +19,8 @@
     {
       "char": "㠯",
       "trad": "㠯",
-      "pinyin": "yī",
-      "english": "phonetic element"
+      "pinyin": "yǐ",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": false,

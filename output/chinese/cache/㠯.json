@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "pictogram",
-    "description": "㠯 (original pictogram of a plow) -> original form of 耜 (sì, \"plowshare\")",
-    "interpretation": "The character 㠯 is traditionally explained in Shuowen Jiezi as a turned form of 巳 (sì, \"the sixth Earthly Branch\"), but it is more commonly understood as a pictogram depicting a plow. This original usage emphasizes its agricultural context, being an early representation of the plow ultimately depicted by 耜 (sì, \"plowshare\").",
+    "description": "Depicts a plow -> original form of 耜(耜) (sì, 'plow')",
+    "interpretation": "The character 㠯 originally depicted a plow, making it a pictogram. This depiction serves as the basis for the character 耜(耜) (sì, 'plow'), showing its historical use as a farming tool.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "耜",
       "trad": "耜",
       "pinyin": "sì",
-      "english": "plowshare"
+      "english": "plow"
     }
   ],
   "in_contemporary_usage": false,

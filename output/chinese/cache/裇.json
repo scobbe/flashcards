@@ -5,8 +5,8 @@
   "english": "undergarment",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "衤(\"clothing\") + 血(血) (xuè, \"blood\") = phonetic element within Cantonese by replacing the radical of 恤(恤) (xù, \"condolence\") -> final form relates to clothing, specifically undergarment",
-    "interpretation": "The character 裇(sù, \"undergarment\") combines the semantic element of \"clothing\" indicated by 衤, with the phonetic influence of 血(xuè, \"blood\") in its formation, adapted from 恤(xù, \"condolence\"), aligning with its meaning related to garments worn under regular clothing.",
+    "description": "衤(衤) (yī, \"clothing\") + 血(血) (xiě, \"blood\") = semantic \"clothing\" with phonetic component -> undergarment",
+    "interpretation": "The character 裇(sù, \"undergarment\") uses the semantic component 衤(衤) (\"clothing\") to indicate its association with garments, while the phonetic component 血(血) (\"blood\") helps convey its pronunciation. This character is derived within Cantonese by changing the radical of 恤 (xù, \"concern\") to 衤 to denote a specific type of clothing.",
     "simplification": ""
   },
   "parts": [
@@ -19,16 +19,26 @@
     {
       "char": "血",
       "trad": "血",
-      "pinyin": "xuè",
+      "pinyin": "xiě",
       "english": "blood"
-    },
-    {
-      "char": "恤",
-      "trad": "恤",
-      "pinyin": "xù",
-      "english": "condolence"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的裇衫很舒服(他的裇衫很舒服)。",
+      "pinyin": "Tā de sùshān hěn shūfú.",
+      "english": "His undergarment is very comfortable."
+    },
+    {
+      "chinese": "我喜欢穿棉质的裇(我喜歡穿棉質的裇)。",
+      "pinyin": "Wǒ xǐhuān chuān miánzhì de sù.",
+      "english": "I like to wear cotton undergarments."
+    },
+    {
+      "chinese": "天气冷时(天氣冷時)，多穿一件裇保暖(多穿一件裇保暖)。",
+      "pinyin": "Tiānqì lěng shí, duō chuān yī jiàn sù bǎonuǎn.",
+      "english": "When the weather is cold, wear an extra undergarment for warmth."
+    }
+  ]
 }

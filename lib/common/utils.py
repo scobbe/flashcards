@@ -81,23 +81,59 @@ _CJK_RANGES = (
 _IDENTICAL_PARENS_RE = re.compile(rf"([{_CJK_RANGES}〇]+)\(([{_CJK_RANGES}〇]+)\)")
 
 
-def collapse_identical_parens(text: str) -> str:
-    """Collapse ``汉字(汉字)`` -> ``汉字`` where the traditional form in parentheses
-    merely repeats the preceding (simplified) characters.
+def _minimize_trad_pair(simp: str, trad: str) -> str:
+    """Re-render a ``simp(trad)`` pair so parentheses wrap ONLY the characters
+    that actually differ.
 
-    The parenthetical is dropped when it is a suffix of the preceding CJK run
-    (the run is greedy, so ``他糾(糾)`` -> ``他糾``). Differing forms like
-    ``续(續)`` or ``我的口误(我的口誤)`` are left untouched, and non-CJK
-    parentheticals (e.g. pinyin "(shuō, ...)" or "(a picture)") are never
-    matched. Used so the rendered card only shows a traditional form when it
-    actually differs.
+    The traditional run aligns to the SUFFIX of the (greedy) simplified run, so
+    any leading context is emitted verbatim. Identical characters are emitted
+    bare; each maximal run of differing characters is wrapped together.
+
+    Examples (simp, trad) -> output:
+      (糸, 糸)                         -> 糸
+      (小学, 小學)                     -> 小学(學)
+      (他糾, 糾)                       -> 他糾
+      (我的小女儿今年开始上小学,
+       我的小女兒今年開始上小學)        -> 我的小女儿(兒)今年开(開)始上小学(學)
+    """
+    if len(trad) > len(simp):
+        return None  # can't align - leave the original untouched
+    prefix = simp[: len(simp) - len(trad)]
+    s_tail = simp[len(simp) - len(trad):]
+    out = [prefix]
+    i = 0
+    n = len(trad)
+    while i < n:
+        if s_tail[i] == trad[i]:
+            out.append(s_tail[i])
+            i += 1
+        else:
+            j = i
+            while j < n and s_tail[j] != trad[j]:
+                j += 1
+            out.append(f"{s_tail[i:j]}({trad[i:j]})")
+            i = j
+    return "".join(out)
+
+
+def collapse_identical_parens(text: str) -> str:
+    """Minimize ``汉字(繁體)`` annotations so parentheses wrap only the characters
+    whose traditional form differs from the simplified form.
+
+    Fully-identical runs collapse entirely (``糸(糸)`` -> ``糸``), partially
+    differing runs keep parentheses only around the differing characters
+    (``小学(小學)`` -> ``小学(學)``; a long example clause keeps only its handful
+    of differing characters annotated). Non-CJK parentheticals (pinyin
+    "(shuō, ...)", "(a picture)") are never matched.
     """
     if not text or "(" not in text:
         return text
-    return _IDENTICAL_PARENS_RE.sub(
-        lambda m: m.group(1) if m.group(1).endswith(m.group(2)) else m.group(0),
-        text,
-    )
+
+    def _sub(m):
+        result = _minimize_trad_pair(m.group(1), m.group(2))
+        return result if result is not None else m.group(0)
+
+    return _IDENTICAL_PARENS_RE.sub(_sub, text)
 
 
 def line_has_cjk(line: str) -> bool:

@@ -5,8 +5,8 @@
   "english": "used phonetically",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "品(品) (pǐn, \"three mouths\") + 木(木) (mù, \"tree\") = chirping of birds in a tree -> original form of 噪(噪) (zào, \"to chirp\")",
-    "interpretation": "The character 喿(zào) visually combines three mouths (品) with a tree (木), symbolizing the sound of multiple birds chirping together in a tree. It serves as the original form for the word 噪(噪) (zào, \"to chirp\"), emphasizing the concept of noise made by birds.",
+    "description": "品(品) (pǐn, \"three mouths\") + 木(木) (mù, \"tree\") = chirping of birds in a tree",
+    "interpretation": "喿(zào) depicts the sound of the chirping created by multiple birds in a tree, suggested by the multiple mouths and the tree components. It originally represented the meaning associated with the chirping of birds, which later evolved into 噪(噪) (zào, \"noise\") as a phonetic extension.",
     "simplification": ""
   },
   "parts": [
@@ -26,7 +26,7 @@
       "char": "噪",
       "trad": "噪",
       "pinyin": "zào",
-      "english": "to chirp"
+      "english": "noise"
     }
   ],
   "in_contemporary_usage": false,

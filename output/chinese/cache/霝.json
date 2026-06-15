@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 雨(雨) (yǔ, \"rain\") with small and large raindrops -> symbolizes various rain conditions -> phonetic use in compounds",
-    "interpretation": "The character 霝 is a pictorial representation of rain, capturing the essence of rainfall with varying drop sizes. It serves as a phonetic component in other Chinese characters.",
+    "description": "Depicts 雨(雨) (yǔ, \"rain\") with both 小(小) (xiǎo, \"small\") and 大(大) (dà, \"big\") drops.",
+    "interpretation": "The character 霝(霝) (líng, phonic component) represents rain with a combination of different-sized drops, emphasizing the variety and abundance found in a rainstorm. It is an ancient pictogram related to the natural elements and the depiction of rain.",
     "simplification": ""
   },
   "parts": [
@@ -15,6 +15,18 @@
       "trad": "雨",
       "pinyin": "yǔ",
       "english": "rain"
+    },
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big"
     }
   ],
   "in_contemporary_usage": false,

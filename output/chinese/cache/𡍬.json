@@ -1,21 +1,15 @@
 {
   "simplified": "𡍬",
   "traditional": "𡍬",
-  "pinyin": "n.a.",
-  "english": "no gloss available",
+  "pinyin": "mlù",
+  "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 圥 (sound value) + Semantic 囧 (\"eye\") = suggests a meaning related to 'eyes' or vision",
-    "interpretation": "The character combines the semantic element 囧 (jiǒng, \"eye\") with the phonetic indicative 圥. As a phono-semantic compound, it is crafted to convey a meaning associated with vision or observation, though further detailed meaning is unclear due to limited contemporary usage.",
+    "description": "phonetic 圥 (pinyin not available) + semantic 囧(囧) (jiǒng, \"eye\") -> phonetic component",
+    "interpretation": "The character 𡍬 uses 圥 as a phonetic element and 囧(囧) (jiǒng, \"eye\") for its association with visual elements, indicating its function as a phonetic component in other characters.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "圥",
-      "trad": "圥",
-      "pinyin": "n.a.",
-      "english": "phonetic component"
-    },
     {
       "char": "囧",
       "trad": "囧",
