@@ -5,11 +5,24 @@
   "english": "stylized feet",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing up -> stylized as 龰",
-    "interpretation": "The character 龰 (yù) represents stylized feet, initially illustrating a footprint pointing upward with an outline of three toes and a sole. It was streamlined into this form, suggesting motion or directionality, distinctly different from similar characters depicting downward footprints or other styles like animal claws.",
+    "description": "[止] footprint pointing up -> stylized as 龰",
+    "interpretation": "The character 龰(yù, 'stylized feet') is derived from the pictogram of a footprint pointing upwards. Unlike similar characters that point in different directions, 龰 uniquely evolved as an upward-pointing stylization, emphasizing its representation of feet in a general form.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "趾",
+      "trad": "趾",
+      "pinyin": "zhǐ",
+      "english": "toe"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

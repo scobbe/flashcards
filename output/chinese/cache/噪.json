@@ -1,0 +1,44 @@
+{
+  "simplified": "噪",
+  "traditional": "噪",
+  "pinyin": "zào",
+  "english": "noise",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 喿(喿) (zào, \"to chirp\") = mouth making sounds -> noise",
+    "interpretation": "The character 噪 combines the semantic component 口(口) (kǒu, \"mouth\") with the phonetic 喿(喿) (zào, \"to chirp\"), suggesting vocal noises or sounds made by the mouth, such as chirping or making noise.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "喿",
+      "trad": "喿",
+      "pinyin": "zào",
+      "english": "to chirp"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工地上的噪音很大(工地上的噪音很大)。",
+      "pinyin": "Gōngdì shàng de zàoyīn hěn dà.",
+      "english": "The noise at the construction site is very loud."
+    },
+    {
+      "chinese": "她用耳机遮住了外面的噪音(她用耳機遮住了外面的噪音)。",
+      "pinyin": "Tā yòng ěrjī zhē zhùle wàimiàn de zàoyīn.",
+      "english": "She used headphones to block out the outside noise."
+    },
+    {
+      "chinese": "公园里有很多鸟的噪声(公園裡有很多鳥的噪聲)。",
+      "pinyin": "Gōngyuán lǐ yǒu hěn duō niǎo de zàoshēng.",
+      "english": "There is a lot of bird noise in the park."
+    }
+  ]
+}

@@ -5,16 +5,16 @@
   "english": "continue; follow; succeed",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, \"rope\") + 㡭(㡭) (jì) = silk thread + phonetic 㡭 -> continue",
-    "interpretation": "繼(繼) (jì, \"continue\") combines the semantic element of 糸(糸) (mì, \"rope\"), representing continuity and connection, with the phonetic element 㡭(㡭) (jì), to convey the concept of following or succeeding through a continued thread.",
-    "simplification": "In simplified form 继(繼), the radical 糹(糸, \"rope\") was replaced with 纟(纟), reflecting a reduction in stroke count while maintaining the phonetic element."
+    "description": "糸(糸) (mì, \"silk; thread\") + 㡭(㡭) (jì) = thread coming one after another -> continue; follow; succeed",
+    "interpretation": "In 繼(繼), the component 糸(糸) (mì, \"silk; thread\") suggests continuity, resembling threads being woven continuously. The phonetic element 㡭(㡭) (jì) provides the sound, aligning with the idea of succeeding or following. The original form possibly depicted multiple threads, reinforcing the notion of continuation.",
+    "simplification": "The character 繼 was simplified to 继 by replacing the 糸(糸) (mì, \"silk; thread\") with the simpler 纟, while retaining the phonetic value provided by 㡭(㡭)."
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
-      "english": "rope"
+      "english": "silk; thread"
     },
     {
       "char": "㡭",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他决定要继承家族事业(他決定要繼承家族事業)。",
-      "pinyin": "Tā juédìng yào jìchéng jiāzú shìyè.",
-      "english": "He decided to inherit the family business."
+      "chinese": "他继承了父亲的事业(他繼承了父親的事業)。",
+      "pinyin": "Tā jìchéng le fùqīn de shìyè.",
+      "english": "He succeeded his father's business."
     },
     {
-      "chinese": "我们会继续努力(我們會繼續努力)，直到成功(直到成功)。",
-      "pinyin": "Wǒmen huì jìxù nǔlì, zhídào chénggōng.",
-      "english": "We will continue working hard until we succeed."
+      "chinese": "会议将在午餐后继续(會議將在午餐後繼續)。",
+      "pinyin": "Huìyì jiāng zài wǔcān hòu jìxù.",
+      "english": "The meeting will continue after lunch."
     },
     {
-      "chinese": "他继去年夺冠后(他繼去年奪冠後)，再次赢得比赛(再次贏得比賽)。",
-      "pinyin": "Tā jì qùnián duóguàn hòu, zàicì yíngdé bǐsài.",
-      "english": "After winning the championship last year, he won the match again."
+      "chinese": "他们制定了一个继往开来的计划(他們制定了一個繼往開來的計劃)。",
+      "pinyin": "Tāmen zhìdìng le yī gè jìwǎngkāilái de jìhuà.",
+      "english": "They devised a plan to continue and innovate."
     }
   ]
 }

@@ -25,7 +25,8 @@ def call_openai_for_vocab_and_forms(
         "5. Extract: simplified form, traditional form, pinyin with tone marks, short English definition, and example phrases.\n"
         "6. ALWAYS provide the correct traditional form (e.g., 酱→醬, 头→頭). Only repeat simplified if genuinely identical (e.g., 的→的).\n"
         "7. Return entries in the same order as the input, one entry per numbered line.\n"
-        "8. Do NOT censor or filter profanity/vulgarity - include exact definitions for all words."
+        "8. Do NOT censor or filter profanity/vulgarity - include exact definitions for all words.\n"
+        "9. If a line includes an example sentence/phrase, PRESERVE it VERBATIM in the 'phrase' field exactly as written (do NOT translate, paraphrase, or drop it). Leave 'phrase' empty only when the line has no example."
     )
     user = "Parse this vocabulary list and return JSON:\n\n" + text
     data = client.complete_json(system=system, user=user)

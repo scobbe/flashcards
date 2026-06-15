@@ -1,31 +1,31 @@
 {
   "simplified": "糸",
   "traditional": "糸",
-  "pinyin": "sī",
-  "english": "silk",
+  "pinyin": "mì",
+  "english": "silk; thread",
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a skein of silk",
-    "interpretation": "糸(糸) (sī, 'silk') visually represents intertwined threads or fibers, emphasizing the appearance of silk strands.",
+    "interpretation": "The character 糸(mì, \"silk; thread\") represents a pictorial representation of a skein of silk, visually capturing the concept of thread or fiber.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "糸是纺织品的基础材料(絲是紡織品的基礎材料)。",
-      "pinyin": "sī shì fǎngzhīpǐn de jīchǔ cáiliào.",
-      "english": "Silk is the basic material for textiles."
+      "chinese": "她手工制作了一条漂亮的丝巾(她手工製作了一條漂亮的絲巾)。",
+      "pinyin": "Tā shǒugōng zhìzuòle yī tiáo piàoliang de sī jīn.",
+      "english": "She handcrafted a beautiful silk scarf."
     },
     {
-      "chinese": "古代人用糸制作华丽衣裳(古代人用絲製作華麗衣裳)，象征着身份和地位(象徵著身份和地位)。",
-      "pinyin": "gǔdài rén yòng sī zhìzuò huálì yīshang, xiàngzhēng zhe shēnfèn hé dìwèi.",
-      "english": "Ancient people used silk to make gorgeous clothes, symbolizing status and rank."
+      "chinese": "这个设计图必须用细糸画出来(這個設計圖必須用細糸畫出來)。",
+      "pinyin": "Zhège shèjìtú bìxū yòng xì mì huà chūlái.",
+      "english": "This design drawing must be sketched with fine thread."
     },
     {
-      "chinese": "古代的衣物多使用糸织造(古代的衣物多使用絲織造)，展现工匠的技艺(展現工匠的技藝)。",
-      "pinyin": "gǔdài de yīwù duō shǐyòng sī zhīzào, zhǎnxiàn gōngjiàng de jìyì.",
-      "english": "Ancient clothing was mostly woven with silk, showcasing exquisite craftsmanship."
+      "chinese": "我们参观了古代的织布技术(我們參觀了古代的織布技術)，对丝绸制作产生了兴趣(對絲綢製作產生了興趣)。",
+      "pinyin": "Wǒmen cānguānle gǔdài de zhībù jìshù, duì sīchóu zhìzuò chǎnshēngle xìngqù.",
+      "english": "We visited ancient weaving techniques and developed an interest in silk production."
     }
   ]
 }

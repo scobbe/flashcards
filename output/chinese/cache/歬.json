@@ -5,8 +5,8 @@
   "english": "phonetic element",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "止(止) (zhǐ, 'foot') + 舟(舟) (zhōu, 'boat') = foot on a boat -> 前 (qián, 'forward') with 刀 (dāo, 'knife') added to form 剪 (jiǎn, 'cut')",
-    "interpretation": "歬(qián) was originally an ideogrammic compound representing the concept of a foot on a moving boat, indicating forward movement. It later evolved into the character 前(qián, 'forward'), which further incorporated 刀(dāo, 'knife') to form 剪(jiǎn, 'cut').",
+    "description": "歬 (qián, \"phonetic element\") with original 止(止) (zhǐ, \"foot\") + 舟(舟) (zhōu, \"boat\") = foot on boat -> moving forward -> phonetic in 前(前)",
+    "interpretation": "The character 歬 originally depicted a foot 止(止) (zhǐ, \"foot\") on a boat 舟(舟) (zhōu, \"boat\"), capturing the idea of moving forward, and was used as a phonetic component in the character 前(前) (qián, \"front\"). Its original meaning has evolved, and it is now primarily recognized as a phonetic component.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,7 @@
       "char": "前",
       "trad": "前",
       "pinyin": "qián",
-      "english": "forward"
-    },
-    {
-      "char": "刀",
-      "trad": "刀",
-      "pinyin": "dāo",
-      "english": "knife"
-    },
-    {
-      "char": "剪",
-      "trad": "剪",
-      "pinyin": "jiǎn",
-      "english": "cut"
+      "english": "front"
     }
   ],
   "in_contemporary_usage": false,

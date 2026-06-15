@@ -2,6 +2,7 @@
 
 import hashlib
 import os
+import re
 from pathlib import Path
 from typing import Iterable, List, Sequence, Set
 
@@ -70,6 +71,33 @@ def is_cjk_char(ch: str) -> bool:
 def keep_only_cjk(text: str) -> str:
     """Keep only CJK characters from text."""
     return "".join(ch for ch in text if is_cjk_char(ch))
+
+
+# CJK ranges (mirrors is_cjk_char) for regex matching of bare character runs.
+_CJK_RANGES = (
+    r"㐀-鿿豈-﫿⺀-⻿⼀-⿟"
+    r"\U00020000-\U0002ebef\U00030000-\U0003134f"
+)
+_IDENTICAL_PARENS_RE = re.compile(rf"([{_CJK_RANGES}〇]+)\(([{_CJK_RANGES}〇]+)\)")
+
+
+def collapse_identical_parens(text: str) -> str:
+    """Collapse ``汉字(汉字)`` -> ``汉字`` where the traditional form in parentheses
+    merely repeats the preceding (simplified) characters.
+
+    The parenthetical is dropped when it is a suffix of the preceding CJK run
+    (the run is greedy, so ``他糾(糾)`` -> ``他糾``). Differing forms like
+    ``续(續)`` or ``我的口误(我的口誤)`` are left untouched, and non-CJK
+    parentheticals (e.g. pinyin "(shuō, ...)" or "(a picture)") are never
+    matched. Used so the rendered card only shows a traditional form when it
+    actually differs.
+    """
+    if not text or "(" not in text:
+        return text
+    return _IDENTICAL_PARENS_RE.sub(
+        lambda m: m.group(1) if m.group(1).endswith(m.group(2)) else m.group(0),
+        text,
+    )
 
 
 def line_has_cjk(line: str) -> bool:

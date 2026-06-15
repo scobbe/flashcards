@@ -5,22 +5,22 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 糸 (糸, \"rope\") + phonetic 㡭 (jì)",
-    "interpretation": "The character 㡭 serves as an ancient form of 繼(繼) (jì, \"continue\"), acting as its phonetic component in the phono-semantic compound. The semantic component 糸(糸) (mì, \"rope\") implies continuity or connection, which supports the meaning of \"continue.\"",
+    "description": "Originally depicted four 幺(幺) (yāo, 'silk') -> semantic 糸(糸) (mì, 'silk; thread') + phonetic 㡭(jì)",
+    "interpretation": "The character 㡭 is an ancient form of 繼(繼) (jì, 'continue'), where 㡭 itself served as a phonetic element signifying succession, and the character 糸(糸) highlights its semantic link to threads, metaphorically representing continuity.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "繼",
-      "trad": "繼",
-      "pinyin": "jì",
-      "english": "continue"
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "silk"
     },
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
-      "english": "rope"
+      "english": "silk; thread"
     }
   ],
   "in_contemporary_usage": false,

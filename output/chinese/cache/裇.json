@@ -5,14 +5,14 @@
   "english": "undergarment",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "衤(衣) (yī, \"clothing\") + phonetic 血(血) (xuè, \"blood\") -> 衤 denotes the semantic category of clothing, while 血 provides the phonetic clue -> undergarment",
-    "interpretation": "The character 裇(sù, \"undergarment\") combines the semantic component for clothing 衤(衣) (yī, \"clothing\") with the phonetic element 血(血) (xuè, \"blood\") to form a character meaning undergarment. The use of the 血 component provides the phonetic pronunciation sù in Cantonese.",
+    "description": "衤(\"clothing\") + 血(血) (xuè, \"blood\") = phonetic element within Cantonese by replacing the radical of 恤(恤) (xù, \"condolence\") -> final form relates to clothing, specifically undergarment",
+    "interpretation": "The character 裇(sù, \"undergarment\") combines the semantic element of \"clothing\" indicated by 衤, with the phonetic influence of 血(xuè, \"blood\") in its formation, adapted from 恤(xù, \"condolence\"), aligning with its meaning related to garments worn under regular clothing.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "衤",
-      "trad": "衣",
+      "trad": "衤",
       "pinyin": "yī",
       "english": "clothing"
     },
@@ -26,7 +26,7 @@
       "char": "恤",
       "trad": "恤",
       "pinyin": "xù",
-      "english": "grieve"
+      "english": "condolence"
     }
   ],
   "in_contemporary_usage": false,

@@ -13,6 +13,7 @@ Note: Schemas are in lib/schema/ (chinese.py, english.py)
 from lib.common.utils import (
     is_cjk_char,
     keep_only_cjk,
+    collapse_identical_parens,
     unique_preserve_order,
     filter_substrings,
     _load_env_file,
@@ -60,6 +61,7 @@ __all__ = [
     # utils
     "is_cjk_char",
     "keep_only_cjk",
+    "collapse_identical_parens",
     "unique_preserve_order",
     "filter_substrings",
     "_load_env_file",

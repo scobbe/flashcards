@@ -15,7 +15,7 @@ from lib.schema.chinese import (
     is_cache_valid,
     CHINESE_DISPLAY_SCHEMA,
 )
-from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char, key_lock
+from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char, key_lock, collapse_identical_parens
 
 from lib.output.chinese.cache import read_cache, write_cache
 from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
@@ -207,7 +207,12 @@ def generate_card_content(
                 examples_system = generate_examples_system_prompt(variant)
                 examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
                 if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":
-                    examples_user += f"\n\nInclude these examples:\n{input_examples}"
+                    examples_user += (
+                        f"\n\nPRESERVE this provided example VERBATIM as the FIRST example sentence - "
+                        f"keep its exact wording, do NOT paraphrase, replace, or drop it. Only add the "
+                        f"required (traditional) annotation and tone-marked pinyin, then add 1-2 more of "
+                        f"your own:\n{input_examples}"
+                    )
 
                 if verbose:
                     print(f"[chinese] [examples] {simplified}...")
@@ -542,7 +547,10 @@ def write_card_md(
     parts.append(FRONT_BACK_DIVIDER)
     parts.append(f"## {english}")
 
-    content = "\n".join(parts) + "\n"
+    # Only show a traditional form in parentheses when it differs from the
+    # simplified form (collapses headings, breadcrumbs, etymology and example
+    # text alike, e.g. 糸(糸) -> 糸 while keeping 说(說)).
+    content = collapse_identical_parens("\n".join(parts)) + "\n"
     md_path.write_text(content, encoding="utf-8")
     if verbose:
         print(f"[chinese] [file] Created card: {md_path.name}")

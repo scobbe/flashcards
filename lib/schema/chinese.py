@@ -47,6 +47,15 @@ CHAR_REF_RULE = (
 )
 LENGTH_RULE = "1-2 sentences MAX"
 
+# Pin the gloss of commonly-mislabeled components so etymology text stays accurate.
+COMPONENT_GLOSS_RULE = (
+    "ACCURATE COMPONENT GLOSSES (use these exact meanings, do not invent others):\n"
+    "- 糸(糸)/糹/纟 = \"silk; thread\" (NEVER \"rope\")\n"
+    "- 辵(辵)/辶 = \"walk; movement\"\n"
+    "- 氵/水(水) = \"water\"\n"
+    "- Give every component its correct standard meaning"
+)
+
 CLAUSE_TRAD_RULE = [
     'REQUIRED FORMAT: Each clause gets (traditional) immediately after, then punctuation',
     'Traditional form in parentheses is MANDATORY - never omit it',
@@ -103,6 +112,7 @@ CHINESE_PROMPT_FIELDS = [
                 "ALWAYS describe the TRADITIONAL form - never describe simplification as the etymology",
                 "ALL TEXT MUST BE IN ENGLISH - no Chinese except in character references like 欣(欣)",
                 CHAR_REF_RULE,
+                COMPONENT_GLOSS_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
                 "Show progression using ARROWS: original components -> intermediate meaning -> later additions -> final form",
                 "Use ARROWS (->) to separate each step, NOT semicolons",
@@ -191,6 +201,8 @@ CHINESE_PROMPT_FIELDS = [
         prompt={
             "single_char": _join([
                 "Array of ALL OTHER characters referenced in YOUR description AND interpretation fields [{char, trad, pinyin, english}].",
+                "EVERY part MUST have a non-empty pinyin AND english meaning - give the best-known gloss even for rare/archaic/obscure components (e.g. 𧶠 = \"to sell; trade\"); NEVER leave english blank",
+                COMPONENT_GLOSS_RULE,
                 "ONLY include characters that YOU wrote in description/interpretation - nothing else",
                 "IGNORE self-references (don't include the character itself in parts)",
                 "NEVER include simplified variants of components - only use TRADITIONAL forms",

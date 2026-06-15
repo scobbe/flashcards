@@ -5,8 +5,8 @@
   "english": "tall (of earth)",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "Triplication of 土(土) (tǔ, \"earth\") -> emphasizes the meaning of height or elevated earth -> 垚",
-    "interpretation": "The character 垚 emphasizes the concept of height or elevation through the repetition of 土(土) (tǔ, \"earth\"), suggesting a mound or a pile that grows taller.",
+    "description": "Triplication of 土(土) (tǔ, \"earth; dirt\") -> represents a tall mound or elevation of earth -> final form 垚",
+    "interpretation": "The character 垚(yáo, \"tall (of earth)\") is formed by tripling 土(土) (tǔ, \"earth; dirt\"), visually depicting a mound of earth piled up to signify height or elevation. This visual repetition underscores its meaning of something being lofty when related to earth or soil.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
-      "english": "earth"
+      "english": "earth; dirt"
     }
   ],
   "in_contemporary_usage": false,

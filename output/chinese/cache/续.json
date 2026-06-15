@@ -5,40 +5,40 @@
   "english": "continue; extend; maintain",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, 'rope') + phonetic 𧶠 = continuation or extension by symbolic association of maintaining and extending connections",
-    "interpretation": "The character 續(續) (xù, 'continue') combines the semantic element 糸(糸) (mì, 'rope'), representing continuity or connection, with a phonetic component 𧶠, to express the idea of continuing or maintaining a connection.",
-    "simplification": "The traditional form 續(續) was simplified to 续 by replacing 糹(糹) with 纟(纟) and 賣(賣) with 卖, preserving the pronunciation and meaning while reducing stroke count."
+    "description": "糸(糸) (sī, \"silk; thread\") + 𧶠 (lù, \"to sell; trade\") = thread-related concept with phonetic 𧶠 -> continued threadwork",
+    "interpretation": "The character combines the semantic element of 糸(糸) (sī, \"silk; thread\") with the phonetic component 𧶠 (lù, \"to sell; trade\"), suggesting the idea of maintaining or extending a thread, symbolically extending or continuing something.",
+    "simplification": "續(續)→续(續): 糸(糸) (sī, \"silk; thread\") was simplified to 纟(纟) as a stroke reduction, and 𧶠 was replaced by 卖(卖) with fewer strokes while keeping phonetic resemblance."
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
-      "pinyin": "mì",
-      "english": "rope"
+      "pinyin": "sī",
+      "english": "silk; thread"
     },
     {
       "char": "𧶠",
       "trad": "𧶠",
-      "pinyin": "",
-      "english": ""
+      "pinyin": "lù",
+      "english": "to sell; trade"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们需要继续努力(我們需要繼續努力)。",
-      "pinyin": "Wǒmen xūyào jìxù nǔlì.",
-      "english": "We need to continue our efforts."
+      "chinese": "我们站在这里聊天(我們站在這裡聊天)，然后继续前进(然後繼續前進)。",
+      "pinyin": "Wǒmen zhàn zài zhèlǐ liáotiān, ránhòu jìxù qiánjìn.",
+      "english": "We stand here chatting, then continue moving forward."
     },
     {
-      "chinese": "请续写故事(請續寫故事)。",
-      "pinyin": "Qǐng xùxiě gùshì.",
-      "english": "Please continue the story."
+      "chinese": "他决定继续他的研究(他決定繼續他的研究)。",
+      "pinyin": "Tā juédìng jìxù tā de yánjiū.",
+      "english": "He decided to continue his research."
     },
     {
-      "chinese": "会议中断后(會議中斷後)，我们继续讨论(我們繼續討論)。",
-      "pinyin": "Huìyì zhōngduàn hòu, wǒmen jìxù tǎolùn.",
-      "english": "After the meeting paused, we continued the discussion."
+      "chinese": "即使遇到困难(即使遇到困難)，我们也要继续努力(我們也要繼續努力)。",
+      "pinyin": "Jíshǐ yù dào kùnnán, wǒmen yě yào jìxù nǔlì.",
+      "english": "Even when facing difficulties, we must continue to work hard."
     }
   ]
 }
