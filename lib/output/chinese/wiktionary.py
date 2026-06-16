@@ -104,6 +104,66 @@ def _extract_see_reference(html: str) -> tuple[str, str, bool]:
     return ("", "", False)
 
 
+def _extract_all_see_references(html: str) -> list[tuple[str, str]]:
+    """Extract ALL 'For pronunciation and definitions of X – see Y ("gloss")'
+    hard-redirect targets from a page's multiple Etymology sections.
+
+    A simplified char can map to several traditional forms (e.g. 广 -> 廣 "broad"
+    and 庵 "hut"); each appears as its own etymology with a 'see Y' redirect.
+    Returns a de-duped list of (target_char, gloss).
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    cjk = r'[一-鿿㐀-䶿\U00020000-\U0002a6df]'
+    pat = re.compile(
+        rf'For pronunciation and definitions of {cjk}+\s*[–—-]\s*see\s+({cjk}+)'
+        rf'\s*\(\s*[\"“]?([^\"”\)]*)'
+    )
+    out: list[tuple[str, str]] = []
+    seen = set()
+    for tag in soup.find_all(["p", "div", "span", "dd", "li"]):
+        for m in pat.finditer(tag.get_text()):
+            char = m.group(1).strip()
+            gloss = m.group(2).strip().strip(';').strip()
+            if char and char not in seen:
+                seen.add(char)
+                out.append((char, gloss))
+    return out
+
+
+def _route_etymology(simplified: str, traditional: str, pinyin: str, english: str,
+                     candidates: list[tuple[str, str]], model=None, verbose: bool = False) -> str:
+    """Pick which traditional form's etymology applies to this headword.
+
+    Uses the known traditional form when it is one of the candidates (free,
+    deterministic); otherwise asks OpenAI to route by pinyin + meaning.
+    """
+    chars = [c for c, _ in candidates]
+    if traditional and traditional in chars:
+        return traditional
+    if len(candidates) == 1:
+        return candidates[0][0]
+    try:
+        from lib.common import OpenAIClient
+        client = OpenAIClient(model=model)
+        options = "\n".join(f'- {c}: {g}' for c, g in candidates)
+        system = (
+            "You map a simplified Chinese character to the ONE traditional character whose "
+            "meaning/reading matches the given headword. Reply JSON: {\"char\": \"<exactly one candidate>\"}."
+        )
+        user = (f"Simplified character: {simplified}\nPinyin: {pinyin}\nMeaning: {english}\n\n"
+                f"Candidate traditional forms:\n{options}\n\nWhich candidate matches?")
+        data = client.complete_json(system, user)
+        chosen = str((data or {}).get("char", "")).strip()
+        if chosen in chars:
+            if verbose:
+                print(f"[wiktionary] [route] {simplified} ({pinyin}) -> {chosen} via OpenAI")
+            return chosen
+    except Exception as e:
+        if verbose:
+            print(f"[wiktionary] [route-error] {e}")
+    return candidates[0][0]
+
+
 def _extract_definitions_from_html(html: str, max_defs: int = 3) -> str:
     """Extract the first N definitions from the Chinese section.
 
@@ -242,10 +302,16 @@ def _extract_etymology_from_html(html: str) -> str:
     return "\n".join(section_text)
 
 
-def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: bool = False) -> str:
+def fetch_wiktionary_etymology(simplified: str, traditional: str = "",
+                               pinyin: str = "", english: str = "", model=None,
+                               verbose: bool = False) -> str:
     """Fetch and extract ONLY etymology/glyph origin from Wiktionary.
 
     Fetches BOTH simplified and traditional forms if they differ.
+    When the simplified char's page has MULTIPLE etymologies (each redirecting to
+    a different traditional form, e.g. 广 -> 廣 "broad" / 庵 "hut"), routes to the
+    correct one by pinyin/meaning and uses THAT character's etymology instead of
+    the simplified char's own (radical) glyph origin.
     Saves to cache directory as {word}.etymology.txt alongside the JSON cache.
     Returns the combined etymology text, or empty string if not found.
     """
@@ -297,6 +363,23 @@ def fetch_wiktionary_etymology(simplified: str, traditional: str = "", verbose: 
 
         # Extract etymology from this page FIRST
         etymology = _extract_etymology_from_html(resp.text)
+
+        # MULTI-ETYMOLOGY ROUTING: a simplified headword whose page lists several
+        # etymologies (each redirecting to a different traditional form) — route
+        # to the one matching this word's pinyin/meaning and use ITS etymology,
+        # discarding the simplified char's own (radical) glyph origin.
+        if word == simplified:
+            multi = _extract_all_see_references(resp.text)
+            if len(multi) >= 2:
+                target = _route_etymology(simplified, traditional, pinyin, english,
+                                          multi, model=model, verbose=verbose)
+                if verbose:
+                    print(f"[wiktionary] [multi-etym] {simplified} → {target} "
+                          f"(candidates {[c for c, _ in multi]})")
+                all_etymology_parts.append(f"[{simplified}] simplified/variant form of {target}.")
+                if target != simplified and target not in words_to_fetch:
+                    words_to_fetch.append(target)
+                continue  # skip the simplified char's radical glyph origin
 
         # Check for "See also: X" or "For X see Y" reference
         see_ref, relationship, is_hard_redirect = _extract_see_reference(resp.text)

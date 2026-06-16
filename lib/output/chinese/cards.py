@@ -167,7 +167,8 @@ def generate_card_content(
         # Cache miss: only now do we hit Wiktionary (avoids wasted network/IO
         # for words that were already cached).
         wiktionary_etymology = fetch_wiktionary_etymology(
-            simplified or word, traditional or word, verbose=verbose
+            simplified or word, traditional or word,
+            pinyin=pinyin, english=english, model=model, verbose=verbose
         )
 
         # Generate system prompt from schema
