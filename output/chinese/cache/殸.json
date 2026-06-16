@@ -5,14 +5,14 @@
   "english": "sound of metal or stone",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "聲(声) ('stone chime') + 殳(殳) ('hand holding a hammer or a mallet') = a stone chime being struck by a mallet",
-    "interpretation": "The character 殸 represents the action of striking a stone chime with a mallet, associating the sound of metal or stone with imagery derived from both components. This visual depiction helps in understanding the character’s meaning relating to sound.",
+    "description": "声(聲) (shēng, 'stone chime') + 殳(殳) (shū, 'hand holding a hammer or a mallet') = a stone chime being struck by a mallet -> sound of metal or stone",
+    "interpretation": "The character 殸(qīng, 'sound of metal or stone') represents the concept of producing sound by striking a chime-like stone with a mallet, conveying the idea of resonant sounds akin to those produced by metal or stone instruments.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "聲",
-      "trad": "声",
+      "trad": "聲",
       "pinyin": "shēng",
       "english": "stone chime"
     },

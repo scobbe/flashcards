@@ -81,49 +81,52 @@ _CJK_RANGES = (
 _IDENTICAL_PARENS_RE = re.compile(rf"([{_CJK_RANGES}〇]+)\(([{_CJK_RANGES}〇]+)\)")
 
 
+# Empty ruby slot for a character whose traditional form equals its simplified
+# form. Keeps per-character ruby aligned in Mochi (a bare char would otherwise
+# let its neighbor's traditional ruby drift off-center over a multi-char token).
+_EMPTY_RUBY = "( )"
+
+
 def _minimize_trad_pair(simp: str, trad: str) -> str:
-    """Re-render a ``simp(trad)`` pair so parentheses wrap ONLY the characters
-    that actually differ.
+    """Re-render a ``simp(trad)`` pair with per-character parentheses.
 
     The traditional run aligns to the SUFFIX of the (greedy) simplified run, so
-    any leading context is emitted verbatim. Identical characters are emitted
-    bare; each maximal run of differing characters is wrapped together.
+    any leading context is emitted verbatim. A fully-identical run collapses to
+    bare text; otherwise each character is annotated individually - differing
+    characters get ``(traditional)`` and identical characters get an empty
+    ``( )`` slot so the ruby stays centered per character.
 
     Examples (simp, trad) -> output:
       (糸, 糸)                         -> 糸
-      (小学, 小學)                     -> 小学(學)
+      (小学, 小學)                     -> 小( )学(學)
       (他糾, 糾)                       -> 他糾
       (我的小女儿今年开始上小学,
-       我的小女兒今年開始上小學)        -> 我的小女儿(兒)今年开(開)始上小学(學)
+       我的小女兒今年開始上小學)        -> 我( )的( )小( )女( )儿(兒)今( )年( )开(開)始( )上( )小( )学(學)
     """
     if len(trad) > len(simp):
         return None  # can't align - leave the original untouched
     prefix = simp[: len(simp) - len(trad)]
     s_tail = simp[len(simp) - len(trad):]
+    if s_tail == trad:
+        return prefix + s_tail  # fully identical -> drop parentheses entirely
     out = [prefix]
-    i = 0
-    n = len(trad)
-    while i < n:
-        if s_tail[i] == trad[i]:
-            out.append(s_tail[i])
-            i += 1
+    for s_ch, t_ch in zip(s_tail, trad):
+        if s_ch == t_ch:
+            out.append(f"{s_ch}{_EMPTY_RUBY}")
         else:
-            j = i
-            while j < n and s_tail[j] != trad[j]:
-                j += 1
-            out.append(f"{s_tail[i:j]}({trad[i:j]})")
-            i = j
+            out.append(f"{s_ch}({t_ch})")
     return "".join(out)
 
 
 def collapse_identical_parens(text: str) -> str:
-    """Minimize ``汉字(繁體)`` annotations so parentheses wrap only the characters
-    whose traditional form differs from the simplified form.
+    """Minimize ``汉字(繁體)`` annotations to per-character ruby slots.
 
-    Fully-identical runs collapse entirely (``糸(糸)`` -> ``糸``), partially
-    differing runs keep parentheses only around the differing characters
-    (``小学(小學)`` -> ``小学(學)``; a long example clause keeps only its handful
-    of differing characters annotated). Non-CJK parentheticals (pinyin
+    A run whose traditional form is identical collapses entirely
+    (``糸(糸)`` -> ``糸``). In a run where some characters differ, every
+    character is annotated individually: differing characters keep
+    ``(traditional)`` and identical characters get an empty ``( )`` slot, so
+    Mochi renders each character's ruby centered over that character instead of
+    drifting across a multi-character token. Non-CJK parentheticals (pinyin
     "(shuō, ...)", "(a picture)") are never matched.
     """
     if not text or "(" not in text:

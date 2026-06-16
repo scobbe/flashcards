@@ -5,8 +5,8 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "㡭 was an ancient character related to 繼(繼) (jì, \"to continue\") when it depicted four strands of 幺(幺) (yāo, \"silk\"). 繼(繼) = 糸(糸) (sī, \"silk; thread\") + phonetic: 㡭 (jì)",
-    "interpretation": "㡭 initially focused on the phonetic component for 繼(繼) (jì, \"to continue\"). The character emphasizes the continuity concept through silk threads, symbolizing connection and extension in fabric and meaning.",
+    "description": "Original form of 繼(繼) (jì, \"continue\") -> Phonetic 㡭(㡭) (jì) + semantic 糸(糸) (mì, \"silk; thread\")",
+    "interpretation": "The character 㡭 is an ancient form of 繼(繼) (jì, \"continue\") used as the phonetic component in the compound with 糸(糸) (mì, \"silk; thread\"), emphasizing the concept of continuation through the imagery of weaving or connecting threads.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,13 @@
       "char": "繼",
       "trad": "繼",
       "pinyin": "jì",
-      "english": "to continue"
+      "english": "continue"
     },
     {
       "char": "糸",
       "trad": "糸",
-      "pinyin": "sī",
+      "pinyin": "mì",
       "english": "silk; thread"
-    },
-    {
-      "char": "幺",
-      "trad": "幺",
-      "pinyin": "yāo",
-      "english": "silk"
     }
   ],
   "in_contemporary_usage": false,

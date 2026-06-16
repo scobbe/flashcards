@@ -4,9 +4,9 @@
   "pinyin": "yàn",
   "english": "phonetic element",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "犬(犬) (quǎn, 'dog') + 口(口) (kǒu, 'mouth') + ⺼ (meat) -> depiction of a dog eating meat to express 'satisfied' -> modern form corrupted to include 甘 and 日",
-    "interpretation": "The character originally depicted a dog consuming meat, symbolizing satisfaction or satiation. Over time, the components evolved and corrupted into their modern forms, yet retained the original concept of fulfillment or being 'satiated.'",
+    "type": "phono-semantic compound",
+    "description": "犬(犬) (quǎn, \"dog\") + ⺼(⺼) (ròu, \"meat\") = dog eating meat (ideogrammic compound) -> 猒 with evolution from 口 to 甘 and later to 日 -> modern form",
+    "interpretation": "In its historical forms, the character depicted a dog consuming meat, representing satisfaction. Over time, the component representing the mouth transitioned from 口 to 甘 and then to 日, leading to the contemporary depiction with added phonetic approximations.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "dog"
     },
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
+      "char": "⺼",
+      "trad": "⺼",
+      "pinyin": "ròu",
+      "english": "meat"
     }
   ],
   "in_contemporary_usage": false,

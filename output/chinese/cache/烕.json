@@ -5,22 +5,22 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "火(火) (huǒ, 'fire') + 戌(戌) (xū, 'ninth month') = phonetic component for a sound resembling 'huǐ'",
-    "interpretation": "烕(烕) is created by combining the semantic component 火(火) (huǒ, 'fire') with the phonetic component 戌(戌) (xū, 'ninth month'). This combination represents a word related to fire with a pronunciation similar to 'huǐ'.",
+    "description": "phonetic 戌(戌) (xū, \"ninth month\") + semantic 火(火) (huǒ, \"fire\") = character used as phonetic 'huǐ'",
+    "interpretation": "The character combines 戌(戌) (xū, \"ninth month\" or phonetic indicator) with 火(火) (huǒ, \"fire\") to convey a burning or destructive quality, making it a suitable candidate for use in phonetic contexts where 'huǐ' is needed.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "火",
-      "trad": "火",
-      "pinyin": "huǒ",
-      "english": "fire"
-    },
     {
       "char": "戌",
       "trad": "戌",
       "pinyin": "xū",
       "english": "ninth month"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
     }
   ],
   "in_contemporary_usage": false,
