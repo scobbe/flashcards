@@ -4,9 +4,9 @@
   "pinyin": "yàn",
   "english": "phonetic element",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "犬(犬) (quǎn, \"dog\") + 口(口) (kǒu, \"mouth\") + ⺼(⺼) (ròu, \"meat\") -> dog eating meat to satisfaction -> modern form: 犬 + 甘 (corrupted 口) + 日 (subsequent change)",
-    "interpretation": "The character 猒 originally depicted a dog enjoying a meal, symbolizing satisfaction. Over time, the components evolved, particularly with 口 changing to 甘, and further to 日 in the modern character.",
+    "type": "phono-semantic compound",
+    "description": "犬(犬) (quǎn, \"dog\") + original 口(口) (kǒu, \"mouth\") with ⺼ (肉) (ròu, \"meat\") = dog eating meat -> components changed to 甘 (gān, \"sweet\") and then 日 (rì, \"sun\") -> final form indicating satisfaction",
+    "interpretation": "The character combines elements that originally depicted a dog consuming meat, which connotes being satisfied. Over time, the phonetic elements were altered to better convey the desired sound, with the semantic essence of satisfaction retained.",
     "simplification": ""
   },
   "parts": [
@@ -17,14 +17,8 @@
       "english": "dog"
     },
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "⺼",
-      "trad": "⺼",
+      "char": "肉",
+      "trad": "肉",
       "pinyin": "ròu",
       "english": "meat"
     },
@@ -32,7 +26,7 @@
       "char": "甘",
       "trad": "甘",
       "pinyin": "gān",
-      "english": "sweet; tasty"
+      "english": "sweet"
     },
     {
       "char": "日",

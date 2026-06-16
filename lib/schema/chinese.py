@@ -428,6 +428,7 @@ def is_cache_valid(cached_data: dict) -> bool:
 # =============================================================================
 
 CHINESE_DISPLAY_SCHEMA = [
+    DisplayField(name="traditional", label="traditional", field_type="line"),
     DisplayField(name="definition", label="definition", field_type="line"),
     DisplayField(name="pinyin", label="pinyin", field_type="line"),
     DisplayField(name="components", label="components", field_type="nested",

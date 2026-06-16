@@ -5,11 +5,17 @@
   "english": "stylized feet",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing up -> stylized as 龰 -> derivative 趾 (zhǐ, 'toe') retains original meaning",
-    "interpretation": "龰 symbolizes a stylized representation of feet or foot movement, aligning with its portrayal as a footprint pointing upwards. It is used in reference to foot-related contexts and concepts, maintaining its visual and semantic links to the original depiction of a foot.",
+    "description": "Depicts original form of 止(止) (zhǐ, 'halt') -> stylized as 龰 to represent feet; derivative 趾(趾) (zhǐ, 'toe') for vocalic borrowing",
+    "interpretation": "The character 龰 is a pictogram that originally depicted a footprint pointing upward, with the intent to represent the concept of 'foot'. It has been stylized to differentiate from other similar characters, but its use and recognition have diminished over time.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "halt"
+    },
     {
       "char": "趾",
       "trad": "趾",

@@ -311,6 +311,8 @@ def _write_single_card(
     # Build field data for display schema
     display_components = characters if (characters and len(characters) > 1) else components
     field_data = {
+        # Only surface a traditional field when the form actually differs.
+        "traditional": traditional if (traditional and traditional != simplified) else None,
         "definition": english,
         "pinyin": pinyin,
         "components": display_components if display_components else None,

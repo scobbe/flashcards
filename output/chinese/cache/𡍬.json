@@ -1,20 +1,20 @@
 {
   "simplified": "𡍬",
   "traditional": "𡍬",
-  "pinyin": "mù",
-  "english": "",
+  "pinyin": "",
+  "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 圥 (rudimentary form) + Semantic: 囧 (eye) -> indicates enclosure with visible eyeball aspects",
-    "interpretation": "The character is a rare and archaic form that combines the phonetic element 圥 with the semantic component 囧, suggesting the idea of a visible structure related to eyes.",
+    "description": "phonetic 圥 + semantic 囧 (\"eye\") -> phonetic representation attributed to eye motif",
+    "interpretation": "The character 𡍬 combines the phonetic component 圥 with the semantic component 囧, which depicts an eye. It is used primarily for its phonetic value rather than its visual meaning.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "圥",
       "trad": "圥",
-      "pinyin": "",
-      "english": "rudimentary form"
+      "pinyin": "lù",
+      "english": "phonetic component"
     },
     {
       "char": "囧",

@@ -5,18 +5,11 @@
   "english": "four lines",
   "etymology": {
     "type": "ideogram",
-    "description": "Four parallel 一(一) (yī, \"one\") = four lines -> four",
-    "interpretation": "The character 亖 is an ideogram depicting four horizontal lines, meant to represent the number four by repeating the single line 一(一) (yī, \"one\") four times. This representation was eventually replaced by 四(四) (sì, \"four\") for clarity in writing systems, particularly to avoid confusion with 二(二) (èr, \"two\") and 三(三) (sān, \"three\") in vertical scripts.",
+    "description": "Depicts four parallel lines -> symbolizing the number four -> used before 口 (kǒu) components were added in 四 (四)",
+    "interpretation": "The character 亖 (sǐ, \"four\") originated as an ideogram representing four parallel lines to signify the number four. It became obsolete after the Qin dynasty's writing standardization, with 四 (sì, \"four\") replacing it to avoid confusion with 二 (èr, \"two\") and 三 (sān, \"three\") in vertical writing formats.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }
