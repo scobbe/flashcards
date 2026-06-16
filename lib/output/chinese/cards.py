@@ -662,13 +662,14 @@ def write_card_md(
     parts.append(FRONT_BACK_DIVIDER)
     parts.append(f"## {english}")
 
-    # Only annotate a character whose traditional form DIFFERS from the
-    # simplified — 说(說) stays, identical chars are left bare (糸(糸) -> 糸,
-    # 小学(小學) -> 小学(學), 我回答是的(我回答是的) -> 我回答是的). Differing chars are
-    # wrapped individually so the ruby stays per-character. (No empty ( ) ruby
-    # slots — they cluttered every character even when nothing changed.)
+    # Mochi renders 字(繁) as furigana (繁 above 字). To keep the baseline evenly
+    # spaced, EVERY character needs a furigana box: differing chars get 字(繁),
+    # identical chars an empty 字( ) (renders as whitespace above the char in
+    # Mochi — invisible there, only the raw markdown shows the parens). Without
+    # the empty slots the annotated chars render wider and the line misaligns.
+    # Fully-identical runs still collapse to bare (糸(糸) -> 糸).
     rendered = [
-        collapse_identical_parens(line, empty_slots=False)
+        collapse_identical_parens(line, empty_slots=True)
         for line in "\n".join(parts).split("\n")
     ]
     content = "\n".join(rendered) + "\n"
