@@ -69,10 +69,18 @@ Mochi sync, or the Teams reader — these are the traps that have bitten us.
   same-timestamp block as "today."
 - Only locally-cached chats are available; one contact can have multiple threads.
 
-## Glyph progressions (`scripts/glyph_progression.py`)
-- Builds a "historical forms" strip from Wiktionary and attaches it to a Mochi
-  card. Wiktionary/Wikimedia rate-limits (429) and only renders some thumb sizes
-  — back off and fall back to the page's own src. Attach name = `glyph<cp>.png`.
+## Glyph progressions (`lib/output/chinese/glyph.py`)
+- `build_progression(char)` scrapes the "Historical forms" table from Wiktionary
+  and composites a labeled strip to `output/chinese/media/glyph<cp>.png`. It runs
+  **inline during normal generation** — `generate_card_content` builds the image
+  for each freshly-generated single char; the renderer emits `![](@media/...)` for
+  any char whose image exists. Best-effort: failures/no-table return None (never
+  break generation); no-table chars are remembered in `media/.no_table.txt`.
+- **Wikimedia needs a policy-compliant User-Agent** (project URL + contact) or
+  `upload.wikimedia.org` 429s every image regardless of rate.
+- `scripts/build_all_glyphs.py` bulk-backfills the library for existing cards;
+  `scripts/glyph_progression.py` is a one-off CLI + Mochi attach. `mochi_sync`
+  uploads every `@media` image a card references as a per-card attachment.
 
 ## Misc
 - Don't commit secrets. Commit/push only when asked. Reusable interactive flows

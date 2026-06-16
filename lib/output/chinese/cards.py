@@ -277,6 +277,12 @@ def generate_card_content(
                 in_contemporary_usage=in_contemporary_usage, verbose=verbose,
             )
 
+            # Build this character's glyph-progression image inline (best-effort,
+            # cached) so it's part of normal generation, not a separate step.
+            if is_single:
+                from lib.output.chinese.glyph import build_progression
+                build_progression(simplified)
+
             return etymology, api_traditional, components, char_breakdown, examples, in_contemporary_usage, False
 
         except Exception as e:

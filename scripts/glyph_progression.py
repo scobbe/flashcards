@@ -1,22 +1,14 @@
 #!/usr/bin/env python3
-"""Build a "historical forms" progression image for a Chinese character and
-optionally attach it to its Mochi card.
-
-Scrapes the "Historical forms of the character X" table from English Wiktionary
-(oracle bone -> bronze -> seal -> ...), composites the glyphs into one labeled
-strip, and saves it to output/chinese/media/<char>-progression.png.
+"""CLI to (re)build a character's glyph-progression image and optionally attach
+it to its Mochi card. The build logic now lives in lib/output/chinese/glyph.py
+and runs inline during normal card generation; this script is for one-offs and
+Mochi attachment.
 
     python scripts/glyph_progression.py 火
-    python scripts/glyph_progression.py 火 --card 5v8HdbPn     # also attach to Mochi
-    python scripts/glyph_progression.py 火 --deck pEEsBOAT     # find card by headword + attach
-
-Mochi attach uploads the PNG (POST /cards/:id/attachments/<file>) and inserts
-`![Historical forms of X](@media/<file>)` into the card content. MOCHI_API_KEY
-must be set (or read from ~/.claude.json).
+    python scripts/glyph_progression.py 火 --card 5v8HdbPn   # also attach to Mochi
+    python scripts/glyph_progression.py 火 --deck pEEsBOAT   # find card by headword + attach
 """
 import argparse
-import io
-import time
 import json
 import os
 import re
@@ -24,15 +16,10 @@ import sys
 from pathlib import Path
 
 import requests
-from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont
 
-ROOT = Path(__file__).resolve().parent.parent
-MEDIA = ROOT / "output" / "chinese" / "media"
-# Wikimedia requires a policy-compliant User-Agent with contact info; a generic
-# one gets 429'd by upload.wikimedia.org regardless of rate.
-UA = "ChineseFlashcards/1.0 (https://github.com/scobbe/flashcards; scobbe502@gmail.com) python-requests"
-FONT = "/System/Library/Fonts/Supplemental/Arial.ttf"
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from lib.output.chinese.glyph import build_progression, media_path, MEDIA, UA  # noqa: E402,F401
+
 API = "https://app.mochi.cards/api"
 
 
@@ -40,76 +27,6 @@ def _session():
     s = requests.Session()
     s.headers.update({"User-Agent": UA})
     return s
-
-
-def media_path(char: str) -> Path:
-    return MEDIA / f"glyph{ord(char):x}.png"
-
-
-def build(char: str) -> Path | None:
-    """Build the progression strip PNG for `char` -> output/chinese/media/
-    glyph<cp>.png. Returns the path, or None if the Wiktionary page has no
-    historical-forms table. Skips the fetch if the PNG already exists."""
-    out = media_path(char)
-    if out.exists():
-        return out
-    s = _session()
-    url = "https://en.wiktionary.org/wiki/" + requests.utils.quote(char)
-    soup = BeautifulSoup(s.get(url, timeout=30).text, "html.parser")
-    tbl = next((t for t in soup.find_all("table")
-                if "Historical forms of the character" in t.get_text()), None)
-    if not tbl:
-        return None
-    rows = tbl.find_all("tr")
-    imgs_row = next(r for r in rows if r.find("img"))
-    imgs = imgs_row.find_all("img")
-    captions = []
-    for r in rows:
-        cells = [c.get_text(" ", strip=True) for c in r.find_all(["td", "th"])]
-        if r is not imgs_row and any("script" in c.lower() for c in cells):
-            captions = cells
-
-    def fetch(img):
-        # Use the page's own thumbnail src (always valid) to minimize requests;
-        # one larger retry only if that succeeds-but-empty. Long backoff on 429.
-        raw = "https:" + img["src"].split("?")[0]
-        last = None
-        delay = 3.0
-        for _ in range(3):
-            try:
-                r = s.get(raw, timeout=30)
-                if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
-                    time.sleep(0.4)  # space out image requests within a char
-                    return Image.open(io.BytesIO(r.content)).convert("RGBA")
-                if r.status_code in (429, 503):
-                    time.sleep(delay); delay = min(delay * 2, 8); continue
-                last = r.status_code; break
-            except Exception as e:
-                last = e; time.sleep(delay); delay = min(delay * 2, 8)
-        raise RuntimeError(f"no working image for {raw} ({last})")
-
-    glyphs = [fetch(im) for im in imgs]
-    font = ImageFont.truetype(FONT, 15)
-    CW, GH, PAD = 210, 210, 16
-    canvas = Image.new("RGBA", (CW * len(glyphs), GH + 50 + PAD), "white")
-    d = ImageDraw.Draw(canvas)
-    for i, g in enumerate(glyphs):
-        g.thumbnail((CW - 2 * PAD, GH - 2 * PAD), Image.LANCZOS)
-        canvas.alpha_composite(g, (i * CW + (CW - g.width) // 2, PAD + (GH - 2 * PAD - g.height) // 2 + PAD))
-        cap = captions[i] if i < len(captions) else ""
-        l1, l2 = "", ""
-        for w in cap.split():
-            if d.textlength((l1 + " " + w).strip(), font=font) < CW - 10 and not l2:
-                l1 = (l1 + " " + w).strip()
-            else:
-                l2 = (l2 + " " + w).strip()
-        for j, ln in enumerate([l1, l2]):
-            d.text((i * CW + (CW - d.textlength(ln, font=font)) // 2, GH + j * 18), ln, fill="black", font=font)
-        if i:
-            d.line([(i * CW, PAD), (i * CW, GH)], fill="#ccc")
-    MEDIA.mkdir(parents=True, exist_ok=True)
-    canvas.convert("RGB").save(out)
-    return out
 
 
 def _key():
@@ -142,19 +59,14 @@ def _find_card(s, key, deck_id, char):
 def attach(char: str, png: Path, card_id: str):
     key = _key()
     s = _session()
-    # Mochi attachment file-names must be alphanumeric ([0-9a-zA-Z]{8,16}); a
-    # Chinese char / hyphen is rejected, so key it off the codepoint.
-    fname = f"glyph{ord(char):x}.png"
-    # 1) upload attachment (multipart, field 'file')
+    fname = f"glyph{ord(char):x}.png"  # alphanumeric (Mochi rejects 火-/hyphens)
     up = s.post(f"{API}/cards/{card_id}/attachments/{fname}", auth=(key, ""),
                 files={"file": (fname, png.open("rb"), "image/png")})
     up.raise_for_status()
-    # 2) reference it in the card content (once)
     content = s.get(f"{API}/cards/{card_id}", auth=(key, "")).json()["content"]
     if f"@media/{fname}" not in content:
         block = f"\n- **historical forms:**\n\n![Historical forms of {char}](@media/{fname})\n"
-        m = "\n---\n## "
-        i = content.rfind(m)
+        i = content.rfind("\n---\n## ")
         content = content[:i] + block + content[i:] if i != -1 else content + block
         s.post(f"{API}/cards/{card_id}", auth=(key, ""), json={"content": content}).raise_for_status()
     return fname
@@ -167,9 +79,9 @@ def main(argv=None):
     ap.add_argument("--deck", help="Mochi deck id to find the card by headword")
     args = ap.parse_args(argv)
 
-    png = build(args.char)
+    png = build_progression(args.char)
     if not png:
-        print(f"No historical-forms table on Wiktionary for {args.char}")
+        print(f"No historical-forms image for {args.char}")
         return 1
     print(f"built {png}")
 
@@ -181,8 +93,7 @@ def main(argv=None):
             return 1
         card_id = card["id"]
     if card_id:
-        fname = attach(args.char, png, card_id)
-        print(f"attached {fname} to card {card_id}")
+        print(f"attached {attach(args.char, png, card_id)} to card {card_id}")
     return 0
 
 
