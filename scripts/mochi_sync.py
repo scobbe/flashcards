@@ -44,6 +44,21 @@ DECK_MAP = {
 }
 
 _PARENS = re.compile(r"\([^)]*\)")
+# A glyph-progression image block added on the Mochi side (see glyph_progression.py).
+# It lives only in Mochi, so preserve it when pushing local content over a card.
+_MEDIA_BLOCK = re.compile(r"\n- \*\*historical forms:\*\*\n\n!\[[^\]]*\]\(@media/[^)]+\)\n")
+
+
+def preserve_media(local: str, mochi: str) -> str:
+    """Re-insert any @media historical-forms block from the existing Mochi card
+    into the local content (before the reverse-card footer), so syncing doesn't
+    strip an image that only exists on the Mochi side."""
+    m = _MEDIA_BLOCK.search(mochi or "")
+    if not m or m.group(0) in local:
+        return local
+    block = m.group(0)
+    i = local.rfind("\n---\n## ")
+    return local[:i] + block + local[i:] if i != -1 else local + block
 
 
 def headword(text: str) -> str:
@@ -77,7 +92,10 @@ def fetch_deck_cards(s, deck_id):
         r = _req(s, "GET", f"{API}/cards/", params=params)
         r.raise_for_status()
         data = r.json()
-        docs = data.get("docs", [])
+        # Skip trashed cards - Mochi keeps soft-deleted cards in the deck listing
+        # but they are hidden in the app; matching against them would wrongly
+        # "update" a deleted card instead of recreating a live one.
+        docs = [c for c in data.get("docs", []) if c.get("trashed?") is None]
         cards.extend(docs)
         bookmark = data.get("bookmark")
         if not docs or not bookmark:
@@ -117,8 +135,9 @@ def plan_deck(s, rel, deck_id):
             creates.append((word, content))
             continue
         card = matches[0]
-        if (card.get("content") or "").strip() != content.strip():
-            updates.append((card["id"], word, content))
+        effective = preserve_media(content, card.get("content") or "")
+        if (card.get("content") or "").strip() != effective.strip():
+            updates.append((card["id"], word, effective))
         else:
             unchanged.append(word)
 

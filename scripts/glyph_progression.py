@@ -135,7 +135,9 @@ def _find_card(s, key, deck_id, char):
 def attach(char: str, png: Path, card_id: str):
     key = _key()
     s = _session()
-    fname = f"{char}-progression.png"
+    # Mochi attachment file-names must be alphanumeric ([0-9a-zA-Z]{8,16}); a
+    # Chinese char / hyphen is rejected, so key it off the codepoint.
+    fname = f"glyph{ord(char):x}.png"
     # 1) upload attachment (multipart, field 'file')
     up = s.post(f"{API}/cards/{card_id}/attachments/{fname}", auth=(key, ""),
                 files={"file": (fname, png.open("rb"), "image/png")})
