@@ -39,6 +39,8 @@ _WS = re.compile(r"\s+")
 
 def _clean_text(s):
     """Strip RichText HTML and fix bytes-repr mojibake from the serializer."""
+    if isinstance(s, bytes):
+        s = s.decode("utf-8", "replace")
     if not isinstance(s, str):
         return ""
     if s.startswith(("b'", 'b"')):
@@ -113,7 +115,9 @@ def load_messages(idb, profiles):
         for m in mmap.values():
             if not isinstance(m, dict):
                 continue
-            if m.get("type") != "Message" or m.get("messageType") not in ("RichText", "Text"):
+            mt = m.get("messageType") or ""
+            # messageType is "Text", "RichText", or "RichText/Html", "RichText/Media_Card", etc.
+            if m.get("type") != "Message" or not (mt == "Text" or mt.startswith("RichText")):
                 continue
             text = _clean_text(m.get("content"))
             if not text:
