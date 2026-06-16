@@ -1,0 +1,44 @@
+{
+  "simplified": "不如",
+  "traditional": "不如",
+  "pinyin": "bùrú",
+  "english": "be inferior to",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(不) (bù, \"not\") + 如(如) (rú, \"like; as; to be\") = a negation of being like -> to be inferior to",
+    "interpretation": "In 不如 (bùrú, \"be inferior to\"), 不(不) (bù, \"not\") negates the quality or status of 如(如) (rú, \"like; as; to be\"), implying a failure to measure up or match something else. The core concept is the absence of equality, where one thing ‘is not like’ or ‘as’ another, thus indicating inferiority in comparison.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "如",
+      "trad": "如",
+      "pinyin": "rú",
+      "english": "like; as; to be"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的成绩不如我(他的成績不如我)。",
+      "pinyin": "Tā de chéngjì bùrú wǒ.",
+      "english": "His grades are inferior to mine."
+    },
+    {
+      "chinese": "在效率上，手工操作不如自动化(在效率上，手工操作不如自動化)。",
+      "pinyin": "Zài xiàolǜ shàng, shǒugōng cāozuò bùrú zìdòng huà.",
+      "english": "In terms of efficiency, manual operation is inferior to automation."
+    },
+    {
+      "chinese": "这家餐厅的味道不如那家老店(這家餐廳的味道不如那家老店)。",
+      "pinyin": "Zhè jiā cāntīng de wèidào bùrú nà jiā lǎodiàn.",
+      "english": "The flavor of this restaurant is inferior to that old one."
+    }
+  ]
+}

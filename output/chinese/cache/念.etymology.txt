@@ -1,0 +1,6 @@
+[念]
+Zhang (2021): Ideogrammic compound ( 會意 / 会意 ): 亼 ( “ upside-down mouth ” ) + 心 ( “ heart ” ) : to listen to one's heart. [ 1 ] Original character for 念 ( OC *nɯːms , “to think”).
+Shuowen : Phono-semantic compound ( 形聲 / 形声 , OC *nɯːms ): phonetic 今 ( OC *krɯm ) + semantic 心 ( “ heart ” ) .
+
+[唸]
+Phono-semantic compound ( 形聲 / 形声 , OC *tɯːms, *tɯːns ): semantic 口 ( “ mouth ” ) + phonetic 念 ( OC *nɯːms , “ to read ” ) .

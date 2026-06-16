@@ -1,0 +1,44 @@
+{
+  "simplified": "心情",
+  "traditional": "心情",
+  "pinyin": "xīnqíng",
+  "english": "mood; state of mind",
+  "etymology": {
+    "type": "compound word",
+    "description": "心(心) (xīn, \"heart; mind; core\") refers to the seat of emotions and the psychological aspect of a person, reflecting emotional sensitivity or disposition. 情(情) (qíng, \"feeling; emotion; condition\") encompasses emotions, states, and circumstances experienced by an individual.",
+    "interpretation": "心(心) (xīn, \"heart\") represents one's emotional center, often symbolizing the mind's emotional state. 情(情) (qíng, \"feeling\") points to the emotions or conditions that one experiences, resulting in 'state of mind' or 'mood'. The core essence of emotions arises from the heart, explaining the link between emotional core and emotional conditions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart; mind; core"
+    },
+    {
+      "char": "情",
+      "trad": "情",
+      "pinyin": "qíng",
+      "english": "feeling; emotion; condition"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天我的心情很好(今天我的心情很好)。",
+      "pinyin": "Jīntiān wǒ de xīnqíng hěn hǎo.",
+      "english": "Today, my mood is very good."
+    },
+    {
+      "chinese": "听音乐能使人心情放松(聽音樂能使人心情放鬆)。",
+      "pinyin": "Tīng yīnyuè néng shǐ rén xīnqíng fàngsōng.",
+      "english": "Listening to music can make a person feel relaxed."
+    },
+    {
+      "chinese": "他心情不好(他心情不好)，所以不想说话(所以不想說話)。",
+      "pinyin": "Tā xīnqíng bù hǎo, suǒyǐ bù xiǎng shuōhuà.",
+      "english": "He is in a bad mood, so he doesn't want to talk."
+    }
+  ]
+}

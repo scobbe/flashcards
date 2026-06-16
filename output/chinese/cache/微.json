@@ -1,0 +1,50 @@
+{
+  "simplified": "微",
+  "traditional": "微",
+  "pinyin": "wēi",
+  "english": "tiny; slight; subtle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𡵂 (a person with long hair, phonetic) + 攵 (hand with tool, semantic) -> minute actions -> 彳 added for movement -> modern form 微",
+    "interpretation": "The character 微(wēi, 'tiny; slight; subtle') originally borrowed the phonetic from 𡵂, resembling a person with long hair. The component 攵 suggests minute actions requiring precision like splitting or combing hairs, thus reflecting subtlety. To reinforce the sense of movement or subtle change, 彳 was added, highlighting the tiny nuanced actions represented by the character.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𡵂",
+      "trad": "𡵂",
+      "pinyin": "mri",
+      "english": "person with long hair"
+    },
+    {
+      "char": "攵",
+      "trad": "攵",
+      "pinyin": "pū",
+      "english": "hand with tool"
+    },
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step; movement"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "雨后的空气有一丝微凉(雨後的空氣有一絲微涼)。",
+      "pinyin": "Yǔ hòu de kōngqì yǒu yī sī wēiliáng.",
+      "english": "The air after the rain is slightly cool."
+    },
+    {
+      "chinese": "她脸上露出微笑(她臉上露出微笑)。",
+      "pinyin": "Tā liǎn shàng lùchū wēixiào.",
+      "english": "A slight smile appeared on her face."
+    },
+    {
+      "chinese": "他在演讲中微微地点了头(他在演講中微微地點了頭)。",
+      "pinyin": "Tā zài yǎnjiǎng zhōng wēiwēi de diǎn le tóu.",
+      "english": "He nodded subtly during the speech."
+    }
+  ]
+}

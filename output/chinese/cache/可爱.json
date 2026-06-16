@@ -1,0 +1,44 @@
+{
+  "simplified": "可爱",
+  "traditional": "可愛",
+  "pinyin": "kě'ài",
+  "english": "lovable; likable",
+  "etymology": {
+    "type": "compound word",
+    "description": "可(可) (kě, \"can; may; approve\") + 爱(愛) (ài, \"love\") forms a word suggesting something that is \"approvingly lovable.\" The combination denotes qualities that are pleasing and endearing.",
+    "interpretation": "可(可) (kě, \"can; may; approve\") suggests potential or approval, implying that something possesses qualities deserving of affection. 爱(愛) (ài, \"love\") directly conveys the sentiment of heartfelt affection or liking. Together, \"可愛\" (kě'ài) means an entity is charming or possesses qualities that naturally attract love and fondness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "可",
+      "trad": "可",
+      "pinyin": "kě",
+      "english": "can; may; approve"
+    },
+    {
+      "char": "爱",
+      "trad": "愛",
+      "pinyin": "ài",
+      "english": "love"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这只猫很可爱(這隻貓很可愛)。",
+      "pinyin": "Zhè zhī māo hěn kě'ài.",
+      "english": "This cat is very lovable."
+    },
+    {
+      "chinese": "小孩子的笑声很可爱(小孩子的笑聲很可愛)。",
+      "pinyin": "Xiǎo háizi de xiàoshēng hěn kě'ài.",
+      "english": "The laughter of children is very likable."
+    },
+    {
+      "chinese": "她有一个可爱的微笑(她有一個可愛的微笑)。",
+      "pinyin": "Tā yǒu yī gè kě'ài de wéixiào.",
+      "english": "She has a lovable smile."
+    }
+  ]
+}

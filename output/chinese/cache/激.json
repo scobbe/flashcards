@@ -1,0 +1,44 @@
+{
+  "simplified": "激",
+  "traditional": "激",
+  "pinyin": "jī",
+  "english": "stimulate; agitate; arouse",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 敫 (jiǎo) -> (of water) to swash -> stimulate",
+    "interpretation": "The character 激(jī, \"stimulate\") combines the semantic component 氵(水) (shuǐ, \"water\") representing liquid or water-related actions, with the phonetic component 敫 (jiǎo), which provides the sound. The meaning relates to the action of water, such as swashing or agitation, which evokes the idea of something being stirred up, excited, or stimulated.",
+    "simplification": "敫 was entirely removed from the simplified form, and the remaining 水 (water radical) took on a less complex form to create the simplified 激."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "敫",
+      "trad": "敫",
+      "pinyin": "jiǎo",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的话激发了我的兴趣(他的話激發了我的興趣)。",
+      "pinyin": "Tā de huà jīfāle wǒ de xìngqù.",
+      "english": "His words stimulated my interest."
+    },
+    {
+      "chinese": "音乐激起了观众的热情(音樂激起了觀眾的熱情)。",
+      "pinyin": "Yīnyuè jīqǐle guānzhòng de rèqíng.",
+      "english": "The music aroused the audience's enthusiasm."
+    },
+    {
+      "chinese": "事件激起公众的愤怒(事件激起公眾的憤怒)。",
+      "pinyin": "Shìjiàn jīqǐ gōngzhòng de fènnù.",
+      "english": "The event agitated public anger."
+    }
+  ]
+}

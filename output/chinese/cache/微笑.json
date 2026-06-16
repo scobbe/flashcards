@@ -1,0 +1,44 @@
+{
+  "simplified": "微笑",
+  "traditional": "微笑",
+  "pinyin": "wēixiào",
+  "english": "smile",
+  "etymology": {
+    "type": "compound word",
+    "description": "微(微) (wēi, \"tiny; slight\") suggests a small or slight expression, almost imperceptible. 笑(笑) (xiào, \"laugh; smile\") involves the action of expressing joy or pleasure through facial expressions.",
+    "interpretation": "微(微) (wēi, \"tiny; slight\") captures the nuance of subtlety in a smile, which is not as pronounced as laughter, thus a 'slight expression' suggests the gentle nature of a smile. 笑(笑) (xiào, \"laugh; smile\") primarily indicates joy expressed in facial muscles, serving as the base emotion from which a smile is derived. The combination 微(微) (wēi, \"tiny; slight\") + 笑(笑) (xiào, \"laugh; smile\") signifies a subtle and gentle form of expressing joy and amusement, hence a 'smile'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "微",
+      "trad": "微",
+      "pinyin": "wēi",
+      "english": "tiny; slight; subtle"
+    },
+    {
+      "char": "笑",
+      "trad": "笑",
+      "pinyin": "xiào",
+      "english": "laugh; smile"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "见到朋友时我会微笑(見到朋友時我會微笑)。",
+      "pinyin": "Jiàndào péngyǒu shí wǒ huì wēixiào.",
+      "english": "I smile when I see my friends."
+    },
+    {
+      "chinese": "他的微笑(他的微笑)总是让我感到温暖(總是讓我感到溫暖)。",
+      "pinyin": "Tā de wēixiào zǒngshì ràng wǒ gǎndào wēnnuǎn.",
+      "english": "His smile always makes me feel warm."
+    },
+    {
+      "chinese": "宝宝看到妈妈时露出了微笑(寶寶看到媽媽時露出了微笑)。",
+      "pinyin": "Bǎobǎo kàndào māma shí lùchū le wēixiào.",
+      "english": "The baby smiled when he saw his mother."
+    }
+  ]
+}

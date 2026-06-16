@@ -1,0 +1,44 @@
+{
+  "simplified": "烈",
+  "traditional": "烈",
+  "pinyin": "liè",
+  "english": "fierce; intense; strong; violent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 列 (liè, \"line up\") + semantic 灬 (\"fire\") -> intense, fierce quality",
+    "interpretation": "The character 烈(烈) (liè, \"fierce\") combines the phonetic element 列(列) (liè, \"line up\") for its sound with 灬, which represents \"fire\" to convey the concept of intensity or fierceness associated with fire. The idea is that fire represents strength and violence, which captures the character's association with intensity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "列",
+      "trad": "列",
+      "pinyin": "liè",
+      "english": "line up"
+    },
+    {
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "biāo",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "太阳的光辉非常强烈(太陽的光輝非常強烈)。",
+      "pinyin": "Tàiyáng de guānghuī fēicháng qiángliè.",
+      "english": "The sunlight is very intense."
+    },
+    {
+      "chinese": "她对生活有着强烈的热情(她對生活有著強烈的熱情)。",
+      "pinyin": "Tā duì shēnghuó yǒuzhe qiángliè de rèqíng.",
+      "english": "She has a strong passion for life."
+    },
+    {
+      "chinese": "战斗异常猛烈(戰鬥異常猛烈)，所有人都拼尽全力(所有人都拼盡全力)。",
+      "pinyin": "Zhàndòu yìcháng měngliè, suǒyǒu rén dōu pīn jìn quánlì.",
+      "english": "The battle was extremely fierce, and everyone fought with all their strength."
+    }
+  ]
+}

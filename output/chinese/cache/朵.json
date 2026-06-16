@@ -1,0 +1,50 @@
+{
+  "simplified": "朵",
+  "traditional": "朵",
+  "pinyin": "duǒ",
+  "english": "earlobe; measure word for flowers/clouds",
+  "etymology": {
+    "type": "ideogram",
+    "description": "禾(禾) (hé, 'grain crop') with an extra stroke/something drooping corrupting into 木 (mù, 'tree') + 乃(乃) (nǎi, 'to be') -> bottom part of 禾(禾) becomes 木(木) -> final form 朵",
+    "interpretation": "The character started as an ideogram depicting a drooping plant on a stalk, symbolizing the way something hangs, which relates to the shape of an earlobe. Thus, 朵 is used for 'earlobe' and metaphorically for 'measure word for flowers/clouds' because they also hang or droop in form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain crop"
+    },
+    {
+      "char": "乃",
+      "trad": "乃",
+      "pinyin": "nǎi",
+      "english": "to be"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "天空中飘着几朵白云(天空中飄着幾朵白雲)。",
+      "pinyin": "Tiānkōng zhōng piāo zhe jǐ duǒ báiyún.",
+      "english": "A few white clouds are floating in the sky."
+    },
+    {
+      "chinese": "她头上戴着一朵红玫瑰(她頭上戴着一朵紅玫瑰)。",
+      "pinyin": "Tā tóushàng dài zhe yī duǒ hóng méigui.",
+      "english": "She is wearing a red rose on her head."
+    },
+    {
+      "chinese": "海边有朵朵浪花(海邊有朵朵浪花)，非常美丽(非常美麗)。",
+      "pinyin": "Hǎibiān yǒu duǒ duǒ lànghuā, fēicháng měilì.",
+      "english": "There are waves of flowers by the seaside, which are very beautiful."
+    }
+  ]
+}

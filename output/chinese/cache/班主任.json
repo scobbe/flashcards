@@ -1,0 +1,44 @@
+{
+  "simplified": "班主任",
+  "traditional": "班主任",
+  "pinyin": "bānzhǔrèn",
+  "english": "teacher in charge of a class",
+  "etymology": {
+    "type": "compound word",
+    "description": "班(班) (bān, \"class; team\") refers to a group of students taught together. 主任(主任) (zhǔrèn, \"director; person in charge\") indicates a person who holds responsibility or leads in a specific capacity. In this context, it refers to someone who has the direct responsibility and management of a particular class.",
+    "interpretation": "班(班) (bān, \"class\") refers to the organized group of students. 主任(主任) (zhǔrèn, \"person in charge\") implies someone who oversees responsibilities. Thus 班主任 refers to a teacher who not only teaches but is also responsible for administering and supervising the class's overall functioning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "班",
+      "trad": "班",
+      "pinyin": "bān",
+      "english": "class; team"
+    },
+    {
+      "char": "主任",
+      "trad": "主任",
+      "pinyin": "zhǔrèn",
+      "english": "director; person in charge"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们的班主任每天都很关心我们的学习(我們的班主任每天都很關心我們的學習)。",
+      "pinyin": "Wǒmen de bānzhǔrèn měitiān dōu hěn guānxīn wǒmen de xuéxí.",
+      "english": "Our class teacher is very concerned about our studies every day."
+    },
+    {
+      "chinese": "班主任组织了一个课外活动(班主任組織了一個課外活動)。",
+      "pinyin": "Bānzhǔrèn zǔzhīle yīgè kèwài huódòng.",
+      "english": "The class teacher organized an extracurricular activity."
+    },
+    {
+      "chinese": "每个新学期开始时(每個新學期開始時)，班主任都会召开班会(班主任都會召開班會)。",
+      "pinyin": "Měi gè xīn xuéqī kāishǐ shí, bānzhǔrèn dōu huì zhàokāi bānhuì.",
+      "english": "At the beginning of each new semester, the class teacher holds a class meeting."
+    }
+  ]
+}

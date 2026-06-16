@@ -1,0 +1,44 @@
+{
+  "simplified": "列",
+  "traditional": "列",
+  "pinyin": "liè",
+  "english": "line up",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "歹(歹) (dǎi, \"skeletal remains\") + 刀(刀) (dāo, \"knife\") = to tear apart -> line up",
+    "interpretation": "The character 列 originally combines 歹(歹) (dǎi, \"skeletal remains\") with 刀(刀) (dāo, \"knife\") to convey the idea of cutting or tearing apart, akin to separating bones. This visual of arranging bones in a specific order or line leads to the modern meaning of 'line up.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歹",
+      "trad": "歹",
+      "pinyin": "dǎi",
+      "english": "skeletal remains"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们需要把桌椅排成一列(我們需要把桌椅排成一列)。",
+      "pinyin": "Wǒmen xūyào bǎ zhuōyǐ páichéng yī liè.",
+      "english": "We need to line up the tables and chairs."
+    },
+    {
+      "chinese": "士兵们整齐地列成一列(士兵們整齊地列成一列)，等待长官检阅(等待長官檢閱)。",
+      "pinyin": "Shìbīngmen zhěngqí de liè chéng yī liè, děngdài zhǎngguān jiǎnyuè.",
+      "english": "The soldiers lined up neatly, waiting for the officer's inspection."
+    },
+    {
+      "chinese": "火车一列接一列地驶过(火車一列接一列地駛過)。",
+      "pinyin": "Huǒchē yī liè jiē yī liè de shǐguò.",
+      "english": "The trains passed one line after another."
+    }
+  ]
+}

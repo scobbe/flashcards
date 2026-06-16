@@ -1,0 +1,50 @@
+{
+  "simplified": "泪",
+  "traditional": "淚",
+  "pinyin": "lèi",
+  "english": "tear; tears",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 戾(戾) (lì) -> tear",
+    "interpretation": "The traditional character 淚 (lèi, \"tear\") combines semantic 水(水) (shuǐ, \"water\"), representing the liquid form of tears, with phonetic 戾(戾) (lì), contributing the pronunciation. The character intuitively associates water flowing from the eye with the concept of tears.",
+    "simplification": "The traditional character 淚(淚) was simplified to 泪(淚) by replacing the component 戾(戾) with 目(目) (mù, \"eye\") for clearer semantic representation while reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "戾",
+      "trad": "戾",
+      "pinyin": "lì",
+      "english": "oppose; disorder"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的脸上流下了泪水(她的臉上流下了淚水)。",
+      "pinyin": "Tā de liǎn shàng liú xià le lèishuǐ.",
+      "english": "Tears flowed down her face."
+    },
+    {
+      "chinese": "每当听到那首歌(每當聽到那首歌)，我总是会流泪(我總是會流淚)。",
+      "pinyin": "Měidāng tīng dào nà shǒu gē, wǒ zǒng shì huì liú lèi.",
+      "english": "Whenever I hear that song, I always tear up."
+    },
+    {
+      "chinese": "他努力地忍住泪水(他努力地忍住淚水)，不想让别人看到(不想讓別人看到)。",
+      "pinyin": "Tā nǔlì de rěnzhù lèishuǐ, bù xiǎng ràng biérén kàn dào.",
+      "english": "He tried hard to hold back his tears, not wanting others to see."
+    }
+  ]
+}

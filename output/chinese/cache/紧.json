@@ -1,0 +1,44 @@
+{
+  "simplified": "紧",
+  "traditional": "緊",
+  "pinyin": "jǐn",
+  "english": "tight; strict; close; urgent",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 臤(𰀡) (kān) -> tight",
+    "interpretation": "The character combines the semantic 糸(糸) (mì, \"silk; thread\") to denote the concept of tightness or tension, with the phonetic element 臤(𰀡) to suggest the pronunciation. The character evokes the idea of threads drawn tightly together, conveying both physical tightness and the notion of strictness or urgency in matters closely monitored or managed.",
+    "simplification": "Simplified by replacing 糸(糸) (mì, \"silk; thread\") with 纟, a more concise version of the silk radical."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "𰀡",
+      "trad": "臤",
+      "pinyin": "kān",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她紧紧握住我的手(她緊緊握住我的手)。",
+      "pinyin": "Tā jǐn jǐn wòzhù wǒ de shǒu.",
+      "english": "She held my hand tightly."
+    },
+    {
+      "chinese": "考试的时间很紧(考試的時間很緊)，我们必须抓紧时间(我們必須抓緊時間)。",
+      "pinyin": "Kǎoshì de shíjiān hěn jǐn, wǒmen bìxū zhuājǐn shíjiān.",
+      "english": "The exam time is tight, we must make the most of our time."
+    },
+    {
+      "chinese": "这条裙子有点紧(這條裙子有點緊)，你要不要换一件(你要不要換一件)？",
+      "pinyin": "Zhè tiáo qúnzi yǒudiǎn jǐn, nǐ yào bù yào huàn yī jiàn?",
+      "english": "This dress is a bit tight, do you want to change it?"
+    }
+  ]
+}

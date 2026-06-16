@@ -1,0 +1,28 @@
+{
+  "simplified": "敫",
+  "traditional": "敫",
+  "pinyin": "jiǎo",
+  "english": "",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "白(白) (bái, \"white\") + 放(放) (fàng, \"to release\") = to release light -> to shine",
+    "interpretation": "The combination of 白(白) (bái, \"white\") and 放(放) (fàng, \"to release\") suggests the act of releasing light, which leads to the meaning 'to shine'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    },
+    {
+      "char": "放",
+      "trad": "放",
+      "pinyin": "fàng",
+      "english": "to release"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

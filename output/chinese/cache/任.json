@@ -1,0 +1,44 @@
+{
+  "simplified": "任",
+  "traditional": "任",
+  "pinyin": "rèn",
+  "english": "duty; appoint",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 亻(人) (rén, \"person\") + phonetic 壬(壬) (rén)",
+    "interpretation": "The character 任(rèn, \"duty; appoint\") combines the radical 亻(亻) (rén, \"person\") to convey the notion of an individual bearing responsibility, with the phonetic component 壬(壬) (rén), which originally depicted a shoulder pole and provided the sound. This association with a shoulder pole suggests the act of bearing a burden, linking conceptually to taking on a duty or role. This further extends to the sense of 'appoint', as appointing someone involves designating them to bear certain responsibilities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "壬",
+      "trad": "壬",
+      "pinyin": "rén",
+      "english": "shoulder pole"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被任命为部门经理(他被任命為部門經理)。",
+      "pinyin": "Tā bèi rènmìng wèi bùmén jīnglǐ.",
+      "english": "He was appointed as the department manager."
+    },
+    {
+      "chinese": "你有什么职责(你有甚麼職責)？",
+      "pinyin": "Nǐ yǒu shénme zhízé?",
+      "english": "What are your duties?"
+    },
+    {
+      "chinese": "她在工作中尽职尽责(她在工作中盡職盡責)，被大家认可(被大家認可)。",
+      "pinyin": "Tā zài gōngzuò zhōng jìnzhí jìnzé, bèi dàjiā rènkě.",
+      "english": "She is conscientious in her work and is acknowledged by everyone."
+    }
+  ]
+}

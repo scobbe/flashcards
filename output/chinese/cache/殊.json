@@ -1,0 +1,44 @@
+{
+  "simplified": "殊",
+  "traditional": "殊",
+  "pinyin": "shū",
+  "english": "special; different; extraordinary",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 歺(歺, \"remains\") + phonetic 朱(朱, \"vermilion\")",
+    "interpretation": "The character 殊(shū, \"special; different; extraordinary\") combines semantic 歺(歺, \"remains\"), which can suggest change or end, with phonetic 朱(朱, \"vermilion\"), an intense, distinct color. This implies something distinct or extraordinary in nature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歺",
+      "trad": "歺",
+      "pinyin": "è",
+      "english": "remains"
+    },
+    {
+      "char": "朱",
+      "trad": "朱",
+      "pinyin": "zhū",
+      "english": "vermilion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的想法非常特殊(他的想法非常特殊)。",
+      "pinyin": "Tā de xiǎngfǎ fēicháng tèshū.",
+      "english": "His ideas are very special."
+    },
+    {
+      "chinese": "这次的情况与往常不同(這次的情況與往常不同)，需要特别处理(需要特別處理)。",
+      "pinyin": "Zhè cì de qíngkuàng yǔ wǎngcháng bùtóng, xūyào tèbié chǔlǐ.",
+      "english": "This situation is different from usual and requires special handling."
+    },
+    {
+      "chinese": "我们之间的友谊与众不同(我們之間的友誼與眾不同)，极为珍贵(極為珍貴)。",
+      "pinyin": "Wǒmen zhījiān de yǒuyì yǔ zhòng bùtóng, jíwéi zhēnguì.",
+      "english": "The friendship between us is extraordinary and extremely precious."
+    }
+  ]
+}

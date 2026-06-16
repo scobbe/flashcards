@@ -1,0 +1,44 @@
+{
+  "simplified": "一刻",
+  "traditional": "一刻",
+  "pinyin": "yíkè",
+  "english": "a moment; a little while",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one\") + 刻(刻) (kè, \"quarter of an hour; moment; cut\") = an instance of time as short as fifteen minutes -> a very brief period or \"moment\".",
+    "interpretation": "The sense of 'a moment' in 一刻 (yíkè) comes from 一(一) (yī, \"one\") suggesting a single unit, combined with 刻(刻) (kè, \"quarter of an hour;\nmoment; cut\"), which in classical usage can refer to a time division like 'quarter of an hour'. This yields the idea of a specific, very short span of time or 'a little while'. The association with 'moment' stems from the image of cutting/chiseling out a tiny portion of time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; single"
+    },
+    {
+      "char": "刻",
+      "trad": "刻",
+      "pinyin": "kè",
+      "english": "quarter of an hour; moment; cut"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请等我一刻(請等我一刻)。",
+      "pinyin": "Qǐng děng wǒ yíkè.",
+      "english": "Please wait for me a moment."
+    },
+    {
+      "chinese": "太阳出来一刻(太陽出來一刻)，大地暖和起来(大地暖和起來)。",
+      "pinyin": "Tàiyáng chūlái yíkè, dàdì nuǎnhé qǐlái.",
+      "english": "The moment the sun comes out, the earth warms up."
+    },
+    {
+      "chinese": "这一刻是值得珍惜的(這一刻是值得珍惜的)。",
+      "pinyin": "Zhè yíkè shì zhídé zhēnxī de.",
+      "english": "This moment is worth cherishing."
+    }
+  ]
+}

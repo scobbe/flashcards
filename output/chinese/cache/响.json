@@ -1,0 +1,44 @@
+{
+  "simplified": "响",
+  "traditional": "響",
+  "pinyin": "xiǎng",
+  "english": "sound",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 鄉 (xiāng) + semantic 音(\"sound\") -> sound",
+    "interpretation": "The character 響(響) (xiǎng, \"sound\") combines the phonetic component 鄉(鄉) (xiāng, \"village\") with the semantic component 音(音) (yīn, \"sound\") to convey the idea of sound. 鄉(鄉) supplies the pronunciation, while 音(音) clarifies the meaning.",
+    "simplification": "The traditional form 響(響) was simplified by removing the outer component, leaving only the essential structural elements of the sound component."
+  },
+  "parts": [
+    {
+      "char": "鄉",
+      "trad": "鄉",
+      "pinyin": "xiāng",
+      "english": "village"
+    },
+    {
+      "char": "音",
+      "trad": "音",
+      "pinyin": "yīn",
+      "english": "sound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "下午的钟声响起(下午的鐘聲響起)。",
+      "pinyin": "Xiàwǔ de zhōngshēng xiǎngqǐ.",
+      "english": "The afternoon chime sounded."
+    },
+    {
+      "chinese": "音乐在房间里回响(音樂在房間裡回響)。",
+      "pinyin": "Yīnyuè zài fángjiān lǐ huíxiǎng.",
+      "english": "The music resonated in the room."
+    },
+    {
+      "chinese": "他的话在我耳边久久不散(他的話在我耳邊久久不散)。",
+      "pinyin": "Tā de huà zài wǒ ěrbiān jiǔjiǔ bù sàn.",
+      "english": "His words echoed in my ear for a long time."
+    }
+  ]
+}

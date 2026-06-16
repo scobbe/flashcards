@@ -1,0 +1,44 @@
+{
+  "simplified": "特殊",
+  "traditional": "特殊",
+  "pinyin": "tèshū",
+  "english": "special",
+  "etymology": {
+    "type": "compound word",
+    "description": "特(特) (tè, \"special\") conveys something distinct or unique, often indicating an outstanding or exceptional quality. 殊(殊) (shū, \"special\") emphasizes difference, often used to denote deviation from the norm.",
+    "interpretation": "特殊 (tèshū) refers to something being distinct or not ordinary, emphasizing its difference from the standard or typical. The combination of 特(特) (tè, \"special\") and 殊(殊) (shū, \"special\") reinforces the notion of being noteworthy or deviating from the usual expectations or forms. In this way, 特殊 (tèshū) encapsulates the idea of being 'special' in the sense of both being unique and exceptionally different.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "特",
+      "trad": "特",
+      "pinyin": "tè",
+      "english": "special; particular; unusual"
+    },
+    {
+      "char": "殊",
+      "trad": "殊",
+      "pinyin": "shū",
+      "english": "special; different; extraordinary"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天是一个特殊的日子(今天是一個特殊的日子)。",
+      "pinyin": "Jīntiān shì yī gè tèshū de rìzi.",
+      "english": "Today is a special day."
+    },
+    {
+      "chinese": "这种情况非常特殊(這種情況非常特殊)。",
+      "pinyin": "Zhè zhǒng qíngkuàng fēicháng tèshū.",
+      "english": "This situation is very special."
+    },
+    {
+      "chinese": "特殊情况下(特殊情況下)，我们会采取特别措施(我們會採取特別措施)。",
+      "pinyin": "Tèshū qíngkuàng xià, wǒmen huì cǎiqǔ tèbié cuòshī.",
+      "english": "Under special circumstances, we will take special measures."
+    }
+  ]
+}

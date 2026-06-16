@@ -1,0 +1,44 @@
+{
+  "simplified": "游戏",
+  "traditional": "遊戲",
+  "pinyin": "yóuxì",
+  "english": "game",
+  "etymology": {
+    "type": "compound word",
+    "description": "遊(遊) (yóu, \"wander\") + 戲(戲) (xì, \"play\") = activity where one wanders and engages in playful actions, like in a game.",
+    "interpretation": "遊(遊) (yóu, \"wander\") implies moving freely and without constraints, essential for the freedom needed in games. 戲(戲) (xì, \"play\") involves playful activities or performances, tying directly to the nature of games where play is central. Together, the notion of wandering freely while engaged in play leads naturally to the concept of a 'game' — an activity enjoyed for entertainment or competition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "游",
+      "trad": "遊",
+      "pinyin": "yóu",
+      "english": "wander; roam"
+    },
+    {
+      "char": "戏",
+      "trad": "戲",
+      "pinyin": "xì",
+      "english": "play; perform; trick"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小朋友们在公园里玩游戏(小朋友們在公園裡玩遊戲)。",
+      "pinyin": "Xiǎopéngyǒumen zài gōngyuán lǐ wán yóuxì.",
+      "english": "The children are playing games in the park."
+    },
+    {
+      "chinese": "他最喜欢的游戏是国际象棋(他最喜歡的遊戲是國際象棋)。",
+      "pinyin": "Tā zuì xǐhuān de yóuxì shì guójì xiàngqí.",
+      "english": "His favorite game is international chess."
+    },
+    {
+      "chinese": "晚饭后我们会玩一个新游戏(晚飯後我們會玩一個新遊戲)。",
+      "pinyin": "Wǎnfàn hòu wǒmen huì wán yīgè xīn yóuxì.",
+      "english": "After dinner we will play a new game."
+    }
+  ]
+}

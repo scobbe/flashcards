@@ -1,0 +1,44 @@
+{
+  "simplified": "眼",
+  "traditional": "眼",
+  "pinyin": "yǎn",
+  "english": "eye",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 目(目) (mù, 'eye') + phonetic 艮(艮) (gěn) -> eye",
+    "interpretation": "The character 眼(yǎn, 'eye') combines 目(目) (mù, 'eye'), representing its meaning, with 艮(艮) (gěn), which provides the pronunciation. This construction directly associates the character with the concept of an eye.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gěn",
+      "english": "stopping"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的眼睛很大(她的眼睛很大)。",
+      "pinyin": "Tā de yǎnjīng hěn dà.",
+      "english": "Her eyes are big."
+    },
+    {
+      "chinese": "我右眼有点疼(我右眼有點疼)。",
+      "pinyin": "Wǒ yòu yǎn yǒudiǎn téng.",
+      "english": "My right eye hurts a bit."
+    },
+    {
+      "chinese": "他的眼神总是很温柔(他的眼神總是很溫柔)。",
+      "pinyin": "Tā de yǎnshén zǒng shì hěn wēnróu.",
+      "english": "His gaze is always gentle."
+    }
+  ]
+}

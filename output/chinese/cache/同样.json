@@ -1,0 +1,44 @@
+{
+  "simplified": "同样",
+  "traditional": "同樣",
+  "pinyin": "tóngyàng",
+  "english": "same",
+  "etymology": {
+    "type": "compound word",
+    "description": "The word 同樣(同样) (tóngyàng, \"same\") is formed by combining: 同(同) (tóng, \"same; together\") + 樣(样) (yàng, \"appearance; kind; pattern\"). 同(同) (tóng, \"same\") implies similarity or uniformity, while 樣(样) (yàng, \"appearance\") refers to the form or type. Together, they convey the idea of having the same form or type, hence \"same\".",
+    "interpretation": "同(同) (tóng, \"same; together\") signifies similarity, as in collective identity. 樣(样) (yàng, \"appearance; kind; pattern\") encompasses visual or structural qualities. Combining these, 同樣(同样) (tóngyàng) denotes having the identical appearance or type, hence 'same.' This bridges concepts of likeness and form/pattern.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same; together"
+    },
+    {
+      "char": "样",
+      "trad": "樣",
+      "pinyin": "yàng",
+      "english": "appearance; kind; pattern"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们喜欢同样的音乐(我們喜歡同樣的音樂)。",
+      "pinyin": "Wǒmen xǐhuān tóngyàng de yīnyuè.",
+      "english": "We like the same music."
+    },
+    {
+      "chinese": "他的意见和我的意见同样重要(他的意見和我的意見同樣重要)。",
+      "pinyin": "Tā de yìjiàn hé wǒ de yìjiàn tóngyàng zhòngyào.",
+      "english": "His opinion is equally important as mine."
+    },
+    {
+      "chinese": "这两份工作同样有挑战性(這兩份工作同樣有挑戰性)。",
+      "pinyin": "Zhè liǎng fèn gōngzuò tóngyàng yǒu tiǎozhàn xìng.",
+      "english": "Both jobs have the same level of challenge."
+    }
+  ]
+}

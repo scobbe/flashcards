@@ -1,0 +1,44 @@
+{
+  "simplified": "耳朵",
+  "traditional": "耳朵",
+  "pinyin": "ěrduo",
+  "english": "ear",
+  "etymology": {
+    "type": "compound word",
+    "description": "耳(耳) (ěr, 'ear') + 朵(朵) (duǒ, 'earlobe; measure word for flowers/clouds') = ear",
+    "interpretation": "耳(耳) (ěr, 'ear') refers to the organ used for hearing. 朵(朵) (duǒ, 'earlobe; measure word for flowers/clouds') contributes the idea of a distinct, soft, and possibly rounded part, enhancing the reference to the ear with an emphasis on its shape or form.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "朵",
+      "trad": "朵",
+      "pinyin": "duǒ",
+      "english": "earlobe; measure word for flowers/clouds"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的小狗有大耳朵(他的小狗有大耳朵)。",
+      "pinyin": "Tā de xiǎo gǒu yǒu dà ěrduo.",
+      "english": "His puppy has big ears."
+    },
+    {
+      "chinese": "请不要大声喊，她的耳朵很敏感(請不要大聲喊，她的耳朵很敏感)。",
+      "pinyin": "Qǐng búyào dàshēng hǎn, tā de ěrduo hěn mǐngǎn.",
+      "english": "Please don't shout loudly, her ears are very sensitive."
+    },
+    {
+      "chinese": "听音乐时，他喜欢戴上耳机以保护耳朵(聽音樂時，他喜歡戴上耳機以保護耳朵)。",
+      "pinyin": "Tīng yīnyuè shí, tā xǐhuān dàishang ěrjī yǐ bǎohù ěrduo.",
+      "english": "When listening to music, he likes to wear headphones to protect his ears."
+    }
+  ]
+}

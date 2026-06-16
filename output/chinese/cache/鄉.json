@@ -1,0 +1,44 @@
+{
+  "simplified": "鄉",
+  "traditional": "鄉",
+  "pinyin": "xiāng",
+  "english": "village",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𠨍 ('two people facing each other') + 皀 ('round-mouthed food vessel') -> to feast -> phonetic borrowing for 'village'",
+    "interpretation": "The character 鄉 (xiāng, 'village') originated as an ideogram depicting two people facing each other around a food vessel, symbolizing a feast, an event central to community life. This notion of communal gatherings naturally extended to the concept of a 'village' as a community. The character later acquired the sense of 'village' through phonetic borrowing or semantic shift, as such gatherings were held in communal districts or villages.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𠨍",
+      "trad": "𠨍",
+      "pinyin": "?",
+      "english": "two people facing each other"
+    },
+    {
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "?",
+      "english": "round-mouthed food vessel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我来自一个小乡村(我來自一個小鄉村)。",
+      "pinyin": "Wǒ láizì yī gè xiǎo xiāngcūn.",
+      "english": "I come from a small village."
+    },
+    {
+      "chinese": "这个乡以风景如画而闻名(這個鄉以風景如畫而聞名)。",
+      "pinyin": "Zhège xiāng yǐ fēngjǐng rúhuà ér wénmíng.",
+      "english": "This village is known for its picturesque scenery."
+    },
+    {
+      "chinese": "乡人们在田间辛勤劳动(鄉人們在田間辛勤勞動)。",
+      "pinyin": "Xiāngrénmen zài tiánjiān xīnqín láodòng.",
+      "english": "The villagers work hard in the fields."
+    }
+  ]
+}

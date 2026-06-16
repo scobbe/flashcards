@@ -1,0 +1,28 @@
+{
+  "simplified": "䖒",
+  "traditional": "䖒",
+  "pinyin": "xī",
+  "english": "(phonetic component)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 虍 + semantic 豆 -> contributes to the sound 'xī'",
+    "interpretation": "The character 䖒 combines the phonetic element 虍 with the semantic element 豆 to form a character primarily used as a phonetic component in other characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "虍",
+      "trad": "虍",
+      "pinyin": "hū",
+      "english": "tiger stripes"
+    },
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "bean; vessel"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

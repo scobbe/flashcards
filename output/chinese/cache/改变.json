@@ -1,0 +1,44 @@
+{
+  "simplified": "改变",
+  "traditional": "改變",
+  "pinyin": "gǎibiàn",
+  "english": "change",
+  "etymology": {
+    "type": "compound word",
+    "description": "改(改) (gǎi, \"to change; to alter; to correct\") + 變(變) (biàn, \"to transform; to alter; change in form or nature\") = the entire process or act of changing in form, nature, or condition.",
+    "interpretation": "改(改) (gǎi, \"to change\") means to make adjustments or corrections, focusing on the process of altering details; 變(變) (biàn, \"to transform\") focuses on transformation, referring both to the result and being subjected to change in form or essence. Together, 改變(改变) (gǎibiàn) combines these nuances to cover both the act of making changes and the broader process or result of change.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "改",
+      "trad": "改",
+      "pinyin": "gǎi",
+      "english": "to change; to alter; to correct"
+    },
+    {
+      "char": "变",
+      "trad": "變",
+      "pinyin": "biàn",
+      "english": "to transform; to alter; change in form or nature"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们可以改变计划(我們可以改變計劃)。",
+      "pinyin": "Wǒmen kěyǐ gǎibiàn jìhuà.",
+      "english": "We can change the plan."
+    },
+    {
+      "chinese": "他的态度明显改变(他的態度明顯改變)。",
+      "pinyin": "Tā de tàidù míngxiǎn gǎibiàn.",
+      "english": "His attitude has changed noticeably."
+    },
+    {
+      "chinese": "为了适应新环境(為了適應新環境)，我们需要改变自己(我們需要改變自己)。",
+      "pinyin": "Wèile shìyìng xīn huánjìng, wǒmen xūyào gǎibiàn zìjǐ.",
+      "english": "To adapt to the new environment, we need to change ourselves."
+    }
+  ]
+}

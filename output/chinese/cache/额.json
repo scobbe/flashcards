@@ -1,0 +1,44 @@
+{
+  "simplified": "额",
+  "traditional": "額",
+  "pinyin": "é",
+  "english": "forehead; amount",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 頁(頁) (yè, \"head\") + phonetic 客(客) (kè) -> forehead",
+    "interpretation": "The character 額(額) (é, \"forehead\") combines the semantic element 頁(頁) (yè, \"head\") to indicate the part of the head, with the phonetic element 客(客) (kè) providing the sound. The meaning extends to 'amount' due to the forehead's frontal prominence, analogous to the foremost or uppermost 'amount' in rank or position.",
+    "simplification": "The traditional 頁(頁) component was replaced with 页, reducing the stroke count and producing a simpler form."
+  },
+  "parts": [
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    },
+    {
+      "char": "客",
+      "trad": "客",
+      "pinyin": "kè",
+      "english": "guest"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用毛巾擦了擦额头(他用毛巾擦了擦額頭)。",
+      "pinyin": "Tā yòng máojīn cāle cā étóu.",
+      "english": "He wiped his forehead with a towel."
+    },
+    {
+      "chinese": "银行批准了我们贷款的额度(銀行批准了我們貸款的額度)。",
+      "pinyin": "Yínháng pīzhǔnle wǒmen dàikuǎn de édù.",
+      "english": "The bank approved our loan amount."
+    },
+    {
+      "chinese": "额外的费用需要提前支付(額外的費用需要提前支付)。",
+      "pinyin": "Éwài de fèiyòng xūyào tíqián zhīfù.",
+      "english": "Additional fees need to be paid in advance."
+    }
+  ]
+}

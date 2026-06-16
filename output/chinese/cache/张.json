@@ -1,0 +1,44 @@
+{
+  "simplified": "张",
+  "traditional": "張",
+  "pinyin": "zhāng",
+  "english": "stretch; expand; open; nervous",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 弓 (弓, 'bow') + phonetic 長 (長, 'long') -> stretch; expand; open",
+    "interpretation": "The character 張(張) (zhāng, 'stretch') combines 弓(弓) (gōng, 'bow') as the semantic component, suggesting the action of stretching or expanding like the bending of a bow, with 長(長) (cháng, 'long') as the phonetic component, contributing the sound. This implies the concept of stretching or expanding something to make it longer or more open, linking directly to the meanings of 'stretch' and 'expand'. The sense of 'open' follows logically from the idea of drawing something to extend or expand. 'Nervous' likely derives from the tension implied in stretching or having something drawn tense, akin to a bowstring under pressure.",
+    "simplification": "In the simplified form, 張(張) was changed to 张 by simplifying 長(長) to 长, reducing stroke count while maintaining the original sound-link with 弓(弓)."
+  },
+  "parts": [
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    },
+    {
+      "char": "長",
+      "trad": "長",
+      "pinyin": "cháng",
+      "english": "long"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他紧张地张开双臂(他緊張地張開雙臂)。",
+      "pinyin": "Tā jǐnzhāng de zhāngkāi shuāng bì.",
+      "english": "He nervously stretched out his arms."
+    },
+    {
+      "chinese": "请张开你的书(請張開你的書)，我们开始上课(我們開始上課)。",
+      "pinyin": "Qǐng zhāngkāi nǐ de shū, wǒmen kāishǐ shàngkè.",
+      "english": "Please open your book, we are starting the class."
+    },
+    {
+      "chinese": "风筝在空中飞得很高(風箏在空中飛得很高)，绳子慢慢地松开(繩子慢慢地鬆開)。",
+      "pinyin": "Fēngzhēng zài kōngzhōng fēi de hěn gāo, shéngzi mànmàn de sōng kāi.",
+      "english": "The kite flew high in the sky, and the string slowly loosened."
+    }
+  ]
+}

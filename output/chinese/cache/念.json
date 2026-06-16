@@ -1,0 +1,38 @@
+{
+  "simplified": "念",
+  "traditional": "念",
+  "pinyin": "niàn",
+  "english": "thought; remember",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "亼(亼) (an 'upside-down mouth') + 心(心) (xīn, 'heart') = listening to one's heart -> thought",
+    "interpretation": "The character 念(念) (niàn, 'thought; remember') combines 亼(亼) as a representation of an 'upside-down mouth' with 心(心) (xīn, 'heart') to emphasize contemplating with one's heart or inner thoughts. Thus, it evokes the concept of internal reflection, linking directly to 'thought' and 'remember.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他常常念起过去的日子(他常常念起過去的日子)。",
+      "pinyin": "Tā chángcháng niàn qǐ guòqù de rìzi.",
+      "english": "He often remembers the past days."
+    },
+    {
+      "chinese": "我念这本书时(我念這本書時)，感触良多(感觸良多)。",
+      "pinyin": "Wǒ niàn zhè běn shū shí, gǎnchù liáng duō.",
+      "english": "While reading this book, I have many feelings."
+    },
+    {
+      "chinese": "她每天念他的名字(她每天念他的名字)，心中充满了思念(心中充滿了思念)。",
+      "pinyin": "Tā měitiān niàn tā de míngzì, xīnzhōng chōngmǎn le sīniàn.",
+      "english": "She recites his name every day, and her heart is filled with longing."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "𰀡",
+  "traditional": "𰀡",
+  "pinyin": "kān",
+  "english": "",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𰀡: phonetic 臤 + semantic 貝 -> valuable or worthy",
+    "interpretation": "𰀡 is an ancient form of 賢(賢) (xián, \"worthy\"). It combines the phonetic element 臤 with the semantic 貝(貝) (bèi, \"money\"), suggesting worthiness or value similar to the importance attached to money. This understanding emphasizes the character's association with merit or excellence.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臤",
+      "trad": "臤",
+      "pinyin": "kān",
+      "english": "phonetic element (ancient form)"
+    },
+    {
+      "char": "賢",
+      "trad": "賢",
+      "pinyin": "xián",
+      "english": "worthy"
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "money"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

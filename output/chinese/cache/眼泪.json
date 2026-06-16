@@ -1,0 +1,44 @@
+{
+  "simplified": "眼泪",
+  "traditional": "眼淚",
+  "pinyin": "yǎnlèi",
+  "english": "tear",
+  "etymology": {
+    "type": "compound word",
+    "description": "眼(眼) (yǎn, \"eye\") + 泪(淚) (lèi, \"tear; tears\") refers to the drops of liquid that come from the eyes. Combining the two characters captures the source and substance of tears.",
+    "interpretation": "眼(眼) (yǎn, \"eye\") indicates the origin of tears, as tears emerge from the eyes. 泪(淚) (lèi, \"tear; tears\") conveys the substance produced by the eyes when weeping or due to irritation. This combination reflects the process and physical manifestation of crying—liquid from the eyes. This imagery embodies both an emotional and physiological response to various stimuli or feelings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "眼",
+      "trad": "眼",
+      "pinyin": "yǎn",
+      "english": "eye"
+    },
+    {
+      "char": "泪",
+      "trad": "淚",
+      "pinyin": "lèi",
+      "english": "tear; tears"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的眼泪不断流下来(她的眼淚不斷流下來)。",
+      "pinyin": "Tā de yǎnlèi búduàn liú xiàlái.",
+      "english": "Her tears kept falling."
+    },
+    {
+      "chinese": "他看到这感人的场面时(他看到這感人的場面時)，泪水模糊了视线(淚水模糊了視線)。",
+      "pinyin": "Tā kàndào zhè gǎnrén de chǎngmiàn shí, lèishuǐ móhúle shìxiàn.",
+      "english": "When he saw this touching scene, tears blurred his vision."
+    },
+    {
+      "chinese": "孩子摔倒后立刻流下了眼泪(孩子摔倒後立刻流下了眼淚)。",
+      "pinyin": "Háizi shuāi dǎo hòu lìkè liú xiàle yǎnlèi.",
+      "english": "The child immediately shed tears after falling."
+    }
+  ]
+}

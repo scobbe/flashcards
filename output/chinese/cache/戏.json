@@ -1,0 +1,44 @@
+{
+  "simplified": "戏",
+  "traditional": "戲",
+  "pinyin": "xì",
+  "english": "play; perform; trick",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "䖒 (phonetic xī) + 戈 (semantic “halberd”) -> originally referred to the wing or flank of an army",
+    "interpretation": "The character 戲 originally described the positioning or maneuvering of soldiers (represented by 戈, 'halberd') on the battlefield, emphasizing the strategic play or maneuver involved. This maneuvering concept extended to mean 'play' or 'performance', as both involve strategic and planned actions. The idea of a 'trick' also derives from the notion of maneuvering, as tricks often involve skillful manipulation.",
+    "simplification": "戲 was simplified to 戏 by replacing 䖒 with 又 (yòu, 'again'), reducing the complexity of the character's structure."
+  },
+  "parts": [
+    {
+      "char": "䖒",
+      "trad": "䖒",
+      "pinyin": "xī",
+      "english": "(phonetic component)"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "halberd"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们今晚要去看一场戏(我們今晚要去看一場戲)。",
+      "pinyin": "Wǒmen jīnwǎn yào qù kàn yī chǎng xì.",
+      "english": "We are going to watch a play tonight."
+    },
+    {
+      "chinese": "他喜欢在课堂上表演小戏(他喜歡在課堂上表演小戲)。",
+      "pinyin": "Tā xǐhuān zài kètáng shàng biǎoyǎn xiǎo xì.",
+      "english": "He likes to perform little tricks in class."
+    },
+    {
+      "chinese": "他们计划了一出精彩的戏(他們計劃了一出精彩的戲)，吸引了很多观众(吸引了很多觀眾)。",
+      "pinyin": "Tāmen jìhuàle yī chū jīngcǎi de xì, xīyǐnle hěn duō guānzhòng.",
+      "english": "They planned an amazing play that attracted many viewers."
+    }
+  ]
+}

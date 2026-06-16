@@ -1,0 +1,38 @@
+{
+  "simplified": "朱",
+  "traditional": "朱",
+  "pinyin": "zhū",
+  "english": "vermilion",
+  "etymology": {
+    "type": "ideogram",
+    "description": "木(木) (mù, 'tree') with a dot to highlight the center -> emphasis on core -> vermilion",
+    "interpretation": "朱(朱) (zhū, 'vermilion') emphasizes the core or heartwood of a tree, symbolizing the earthy reddish color. The highlighted center of a tree reflects the vividness and importance of the vermilion dye.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她穿了一件艳丽的朱色旗袍(她穿了一件艷麗的朱色旗袍)。",
+      "pinyin": "Tā chuānle yī jiàn yànlì de zhū sè qípáo.",
+      "english": "She wore a striking vermilion-colored cheongsam."
+    },
+    {
+      "chinese": "这种画风以朱红为主色调(這種畫風以朱紅為主色調)。",
+      "pinyin": "Zhè zhǒng huà fēng yǐ zhū hóng wéi zhǔ sè diào.",
+      "english": "This painting style uses vermilion as the main color tone."
+    },
+    {
+      "chinese": "他的印章用朱色印泥(他的印章用朱色印泥)，显得格外显眼(顯得格外顯眼)。",
+      "pinyin": "Tā de yìnzhāng yòng zhū sè yìnní, xiǎnde géwài xiǎnyǎn.",
+      "english": "His seal used vermilion inkpad, which made it particularly eye-catching."
+    }
+  ]
+}

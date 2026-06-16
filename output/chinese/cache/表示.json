@@ -1,0 +1,44 @@
+{
+  "simplified": "表示",
+  "traditional": "表示",
+  "pinyin": "biǎoshì",
+  "english": "show; express; indicate",
+  "etymology": {
+    "type": "compound word",
+    "description": "表(表) (biǎo, \"surface; external\") + 示(示) (shì, \"show; indicate\") captures the idea of making something visible or apparent. 表(表) suggests the external manifestation and 示(示) adds the action of showing or making known.",
+    "interpretation": "表(表) (biǎo, \"surface; external\") relates to something outward or visible — one expresses thought by making it visible, which leads to 'show; express.' 示(示) (shì, \"show; indicate\") involves presenting or pointing out, which is a clear semantic link to 'indicate.' Together, 表示 means to bring something to the external or visible plane — to 'show, express, or indicate.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "表",
+      "trad": "表",
+      "pinyin": "biǎo",
+      "english": "surface; external"
+    },
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "show; indicate"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她点头表示同意(她點頭表示同意)。",
+      "pinyin": "Tā diǎntóu biǎoshì tóngyì.",
+      "english": "She nodded to show agreement."
+    },
+    {
+      "chinese": "他的礼物表示感谢(他的禮物表示感謝)。",
+      "pinyin": "Tā de lǐwù biǎoshì gǎnxiè.",
+      "english": "His gift indicated gratitude."
+    },
+    {
+      "chinese": "请用行动来表示支持(請用行動來表示支持)。",
+      "pinyin": "Qǐng yòng xíngdòng lái biǎoshì zhīchí.",
+      "english": "Please use actions to express support."
+    }
+  ]
+}

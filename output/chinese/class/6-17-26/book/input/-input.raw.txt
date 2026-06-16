@@ -1,0 +1,29 @@
+Chinese,Pinyin,English
+时刻,shíkè,hour; moment; occasion
+一刻,yíkè,a moment; a little while
+改变,gǎibiàn,change
+紧张,jǐnzhāng,intense; tense; keyed up
+高考,gāokǎo,college entrance examination
+心情,xīnqíng,mood; state of mind
+班主任,bānzhǔrèn,teacher in charge of a class
+同样,tóngyàng,same
+特殊,tèshū,special
+可爱,kě'ài,lovable; likable
+游戏,yóuxì,game
+发,fā,hand out
+数字,shùzì,number
+表示,biǎoshì,show; express; indicate
+纪念品,jìniànpǐn,souvenir; keepsake
+美丽,měilì,beautiful
+耳朵,ěrduo,ear
+不如,bùrú,be inferior to
+微笑,wēixiào,smile
+额头,étóu,forehead
+轻,qīng,light; gentle
+吻,wěn,kiss
+响,xiǎng,sound
+热烈,rèliè,warm; enthusiastic
+掌声,zhǎngshēng,applause
+幸福,xìngfú,happy
+激动,jīdòng,be excited
+眼泪,yǎnlèi,tear

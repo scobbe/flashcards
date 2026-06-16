@@ -58,6 +58,7 @@ DECK_MAP = {
     "output/chinese/general/daily/12-27-25": "xhm1819o",
     "output/chinese/class/6-15-26/book": "aSfC8sE5",
     "output/chinese/class/6-15-26/class": "sQY3iY3s",
+    "output/chinese/class/6-17-26/book": "oHA8erXe",
     "output/chinese/class/6-8-26/book": "pEEsBOAT",
 }
 

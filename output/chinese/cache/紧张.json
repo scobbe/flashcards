@@ -1,0 +1,44 @@
+{
+  "simplified": "紧张",
+  "traditional": "緊張",
+  "pinyin": "jǐnzhāng",
+  "english": "intense; tense; keyed up",
+  "etymology": {
+    "type": "compound word",
+    "description": "緊(緊) (jǐn, \"tight\") + 張(張) (zhāng, \"stretch\") = intensified or strained state, leading to 'intense', 'tense', 'keyed up'. A state of increased tension or anxiety often feels like being pulled taut.",
+    "interpretation": "緊(緊) (jǐn, \"tight\") suggests a firm and highly constrained position, like pulling a rope taut. 張(張) (zhāng, \"stretch\") indicates extending something, often to the limit. When combined, the image is of something stretched very tightly, which can cause increased intensity ('intense') or nervousness ('tense', 'keyed up'). The core idea is maintaining maximum tension or pressure.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "紧",
+      "trad": "緊",
+      "pinyin": "jǐn",
+      "english": "tight; strict; close; urgent"
+    },
+    {
+      "char": "张",
+      "trad": "張",
+      "pinyin": "zhāng",
+      "english": "stretch; expand; open; nervous"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "考试前我很紧张(考試前我很緊張)。",
+      "pinyin": "Kǎoshì qián wǒ hěn jǐnzhāng.",
+      "english": "I was very tense before the exam."
+    },
+    {
+      "chinese": "他说话时(他說話時)，手脚都显得很紧张(手腳都顯得很緊張)。",
+      "pinyin": "Tā shuōhuà shí, shǒujiǎo dōu xiǎnde hěn jǐnzhāng.",
+      "english": "When he spoke, his hands and feet appeared very tense."
+    },
+    {
+      "chinese": "她的声音听起来很紧张(她的聲音聽起來很緊張)，好像有什么事发生了(好像有什麼事發生了)。",
+      "pinyin": "Tā de shēngyīn tīng qǐlái hěn jǐnzhāng, hǎoxiàng yǒu shé me shì fāshēng le.",
+      "english": "Her voice sounded very tense, as if something had happened."
+    }
+  ]
+}

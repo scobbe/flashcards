@@ -1,0 +1,44 @@
+{
+  "simplified": "主任",
+  "traditional": "主任",
+  "pinyin": "zhǔrèn",
+  "english": "director; person in charge",
+  "etymology": {
+    "type": "compound word",
+    "description": "The word 主任(主任) (zhǔrèn, \"director; person in charge\") consists of: 主(主) (zhǔ, \"master; main\") and 任(任) (rèn, \"duty; appoint\"). 主(主) suggests the concept of a leader or primary entity, while 任(任) refers to a role or responsibility. Together, they form the idea of someone with the primary responsibilities or duties, thus a \"director\" or \"person in charge.\"",
+    "interpretation": "",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "master; main"
+    },
+    {
+      "char": "任",
+      "trad": "任",
+      "pinyin": "rèn",
+      "english": "duty; appoint"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是这个项目的主任(他是這個項目的主任)。",
+      "pinyin": "Tā shì zhège xiàngmù de zhǔrèn.",
+      "english": "He is the director of this project."
+    },
+    {
+      "chinese": "学校主任正在开会(學校主任正在開會)。",
+      "pinyin": "Xuéxiào zhǔrèn zhèngzài kāihuì.",
+      "english": "The school director is having a meeting."
+    },
+    {
+      "chinese": "如果你有问题请找主任(如果你有問題請找主任)。",
+      "pinyin": "Rúguǒ nǐ yǒu wèntí qǐng zhǎo zhǔrèn.",
+      "english": "If you have any questions, please contact the director."
+    }
+  ]
+}

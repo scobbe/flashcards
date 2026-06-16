@@ -1,0 +1,28 @@
+{
+  "simplified": "戾",
+  "traditional": "戾",
+  "pinyin": "lì",
+  "english": "oppose; disorder",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "犬(犬) (quǎn, \"dog\") + 戶(戶) (hù, \"door\") -> a dog bending to enter through a door -> crooked, deviant -> extended to mean oppose, disorder",
+    "interpretation": "The character depicts a dog 犬(犬) (quǎn, \"dog\") bending to enter through a door 戶(戶) (hù, \"door\"), suggesting something that is not straightforward, hence 'crooked' or 'deviant'. This physical imagery of bending or twisting was extended to describe behaviors or situations that oppose the norm or are out of order, thus the meanings 'oppose' and 'disorder'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
+    },
+    {
+      "char": "戶",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

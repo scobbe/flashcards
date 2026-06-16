@@ -1,0 +1,44 @@
+{
+  "simplified": "轻",
+  "traditional": "輕",
+  "pinyin": "qīng",
+  "english": "light; gentle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 車 (chē, \"carriage\") + phonetic 巠 (jīng, sound) -> originally referred to a kind of light carriage",
+    "interpretation": "The character 輕 (qīng, \"light; gentle\") originally described a light carriage, combining 車 (chē, \"carriage\") for its meaning with 巠 (jīng) for its sound. The extended senses of \"light\" and \"gentle\" stem from the idea of a carriage that moves smoothly and with ease, thus conveying a sense of delicacy and lack of heaviness.",
+    "simplification": "輕 was simplified by replacing 車 (chē, \"carriage\") with its simplified form 车 (chē), and 巠 (jīng) with 𢀖 to reduce the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "車",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "carriage"
+    },
+    {
+      "char": "巠",
+      "trad": "巠",
+      "pinyin": "jīng",
+      "english": "underground water channel"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这本书很轻(這本書很輕)。",
+      "pinyin": "Zhè běn shū hěn qīng.",
+      "english": "This book is very light."
+    },
+    {
+      "chinese": "他说话的声音很轻(他說話的聲音很輕)。",
+      "pinyin": "Tā shuōhuà de shēngyīn hěn qīng.",
+      "english": "His speaking voice is very gentle."
+    },
+    {
+      "chinese": "轻轻地打开门(輕輕地打開門)，就能看到外面的花园(就能看到外面的花園)。",
+      "pinyin": "Qīngqīng de dǎkāi mén, jiù néng kàn dào wàimiàn de huāyuán.",
+      "english": "Gently open the door, and you can see the garden outside."
+    }
+  ]
+}

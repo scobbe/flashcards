@@ -1,0 +1,44 @@
+{
+  "simplified": "掌声",
+  "traditional": "掌聲",
+  "pinyin": "zhǎngshēng",
+  "english": "applause",
+  "etymology": {
+    "type": "compound word",
+    "description": "掌(掌) (zhǎng, \"palm; control\") refers to the palm of the hand, which is the part used to clap. 聲(聲) (shēng, \"sound; voice\") denotes sound, which results from clapping. The combination of these two characters refers to the sound made by the clapping of palms, which is known as \"applause.\"",
+    "interpretation": "掌(掌) (zhǎng, \"palm; control\") denotes the palm of the hand. The primary sense here is the palm's role in creating sound by clapping the hands. 聲(聲) (shēng, \"sound; voice\") means sound. When paired with 掌(掌) (zhǎng, \"palm\"), it implies the sound generated when multiple palms clap together, correlated with applause. Applause derives from this clapping gesture specifically as a way for audiences to express appreciation or approval audibly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "掌",
+      "trad": "掌",
+      "pinyin": "zhǎng",
+      "english": "palm; control"
+    },
+    {
+      "char": "声",
+      "trad": "聲",
+      "pinyin": "shēng",
+      "english": "sound; voice"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "表演结束后(表演結束後)，观众爆发出热烈的掌声(觀眾爆發出熱烈的掌聲)。",
+      "pinyin": "Biǎoyǎn jiéshù hòu, guānzhòng bàofā chū rèliè de zhǎngshēng.",
+      "english": "After the performance ended, the audience erupted into enthusiastic applause."
+    },
+    {
+      "chinese": "他的演讲赢得了全场掌声(他的演講贏得了全場掌聲)。",
+      "pinyin": "Tā de yǎnjiǎng yíngdé le quánchǎng zhǎngshēng.",
+      "english": "His speech won applause from the whole audience."
+    },
+    {
+      "chinese": "在音乐会中(在音樂會中)，钢琴家每首曲子后都收到了掌声(鋼琴家每首曲子後都收到了掌聲)。",
+      "pinyin": "Zài yīnyuèhuì zhōng, gāngqínjiā měi shǒu qǔzi hòu dōu shōudào le zhǎngshēng.",
+      "english": "During the concert, the pianist received applause after each piece."
+    }
+  ]
+}

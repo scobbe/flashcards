@@ -1,0 +1,44 @@
+{
+  "simplified": "热烈",
+  "traditional": "熱烈",
+  "pinyin": "rèliè",
+  "english": "warm; enthusiastic",
+  "etymology": {
+    "type": "compound word",
+    "description": "熱(熱) (rè, \"heat; fervent\") suggests a warm and intense feeling, which naturally conveys the sense of warmth. 烈(烈) (liè, \"fierce; intense\") enhances this idea, adding intensity and strength to emotions. Together, 熱烈(熱烈) (rèliè) originally conveys an intensely warm feeling that manifests as enthusiasm.",
+    "interpretation": "For 'warm', the warmth and passion from 熱(熱) (rè, \"heat\") combined with the intensity from 烈(烈) (liè, \"fierce\") convey a heartfelt and engaging presence. For 'enthusiastic', the fierce intensity of 烈(烈) (liè, \"intense\") amplifies the fervent passion of 熱(熱) (rè, \"fervent\"), forming a mood of eager engagement and animated interest.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "热",
+      "trad": "熱",
+      "pinyin": "rè",
+      "english": "heat; fervent; passionate; hot"
+    },
+    {
+      "char": "烈",
+      "trad": "烈",
+      "pinyin": "liè",
+      "english": "fierce; intense; strong; violent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "观众给予热烈的掌声(觀眾給予熱烈的掌聲)。",
+      "pinyin": "Guānzhòng gěiyǔ rèliè de zhǎngshēng.",
+      "english": "The audience gave a warm applause."
+    },
+    {
+      "chinese": "他受到朋友的热烈欢迎(他受到朋友的熱烈歡迎)。",
+      "pinyin": "Tā shòudào péngyǒu de rèliè huānyíng.",
+      "english": "He received a warm welcome from his friends."
+    },
+    {
+      "chinese": "会议的气氛非常热烈(會議的氣氛非常熱烈)。",
+      "pinyin": "Huìyì de qìfēn fēicháng rèliè.",
+      "english": "The atmosphere of the meeting was very enthusiastic."
+    }
+  ]
+}

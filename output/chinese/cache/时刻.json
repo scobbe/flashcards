@@ -1,0 +1,44 @@
+{
+  "simplified": "时刻",
+  "traditional": "時刻",
+  "pinyin": "shíkè",
+  "english": "hour; moment; occasion",
+  "etymology": {
+    "type": "compound word",
+    "description": "时(時) (shí, \"time; season\") + 刻(刻) (kè, \"moment; quarter hour\") = specific points in time or instances",
+    "interpretation": "时(時) (shí, \"time\") represents the general concept of time or duration, while 刻(刻) (kè, \"moment\") denotes a precise, smaller unit of time like a 'moment' or 'quarter hour.' Together, they refer to specific points or instances in time, such as an 'hour' or 'occasion' when particular events or actions occur.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "时",
+      "trad": "時",
+      "pinyin": "shí",
+      "english": "time; season; hour; era"
+    },
+    {
+      "char": "刻",
+      "trad": "刻",
+      "pinyin": "kè",
+      "english": "moment; quarter hour; carve; severe"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在关键时刻(在關鍵時刻)，他总能保持冷静(他總能保持冷靜)。",
+      "pinyin": "Zài guānjiàn shíkè, tā zǒng néng bǎochí lěngjìng.",
+      "english": "At critical moments, he always remains calm."
+    },
+    {
+      "chinese": "我们需要珍惜每一个时刻(我們需要珍惜每一個時刻)。",
+      "pinyin": "Wǒmen xūyào zhēnxī měi yī gè shíkè.",
+      "english": "We need to cherish every moment."
+    },
+    {
+      "chinese": "她在正确的时刻出现(她在正確的時刻出現)，拯救了大家(拯救了大家)。",
+      "pinyin": "Tā zài zhèngquè de shíkè chūxiàn, zhěngjiùle dàjiā.",
+      "english": "She appeared at the right moment and saved everyone."
+    }
+  ]
+}

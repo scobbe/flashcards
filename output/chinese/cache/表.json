@@ -1,0 +1,44 @@
+{
+  "simplified": "表",
+  "traditional": "表",
+  "pinyin": "biǎo",
+  "english": "surface; external",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "衣(衣) (yī, \"garment\") + 毛(毛) (máo, \"hair\") = outer garment -> surface; external",
+    "interpretation": "The character 表(biǎo) depicts an outer garment consisting of 衣(衣) (yī, \"garment\") and 毛(毛) (máo, \"hair\"), representing something worn on the outside, hence the meaning 'surface' or 'external'. This emphasizes the external visible layer of clothing as a metaphor for surfaces and external aspects in general.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衣",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "garment"
+    },
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的表情很平静(她的表情很平靜)。",
+      "pinyin": "Tā de biǎoqíng hěn píngjìng.",
+      "english": "Her expression is very calm."
+    },
+    {
+      "chinese": "这个表面是光滑的(這個表面是光滑的)。",
+      "pinyin": "Zhège biǎomiàn shì guānghuá de.",
+      "english": "This surface is smooth."
+    },
+    {
+      "chinese": "他的手表很昂贵(他的手錶很昂貴)。",
+      "pinyin": "Tā de shǒubiǎo hěn ángguì.",
+      "english": "His watch is very expensive."
+    }
+  ]
+}

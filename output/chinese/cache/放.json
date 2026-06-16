@@ -1,0 +1,44 @@
+{
+  "simplified": "放",
+  "traditional": "放",
+  "pinyin": "fàng",
+  "english": "to release",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 攵(“hand, action”) + phonetic 方(“side”) -> release action",
+    "interpretation": "The character 放(fàng, \"to release\") combines 攵 (pū, \"hand, action\") as the semantic component indicating an action performed by hand, with 方(fāng, \"side\") as the phonetic component. This suggests the meaning of releasing or setting something aside, implying a deliberate action of letting go or freeing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "side"
+    },
+    {
+      "char": "攵",
+      "trad": "攵",
+      "pinyin": "pū",
+      "english": "hand; action"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把鸟放进笼子里(他把鳥放進籠子裡)。",
+      "pinyin": "Tā bǎ niǎo fàng jìn lóngzi lǐ.",
+      "english": "He put the bird into the cage."
+    },
+    {
+      "chinese": "请你把东西放在桌子上(請你把東西放在桌子上)。",
+      "pinyin": "Qǐng nǐ bǎ dōngxi fàng zài zhuōzi shàng.",
+      "english": "Please put the things on the table."
+    },
+    {
+      "chinese": "公司决定放假吗(公司決定放假吗)？",
+      "pinyin": "Gōngsī juédìng fàngjià ma?",
+      "english": "Did the company decide on a holiday?"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "纪念品",
+  "traditional": "紀念品",
+  "pinyin": "jìniànpǐn",
+  "english": "souvenir; keepsake",
+  "etymology": {
+    "type": "compound word",
+    "description": "紀(紀) (jì, \"record\") expresses keeping memory or events in a form of writing; 念(念) (niàn, \"thought\"; \"remember\") reflects holding memories in the mind; 品(品) (pǐn, \"item\"; \"product\") indicates a tangible object. Together, this character combination forms the concept of a \"紀念品(紀念品),\" referring to an object that helps record and remember past experiences.",
+    "interpretation": "紀(紀) (jì, \"record\") + 念(念) (niàn, \"thought\"; \"remember\") creates the context of calling to mind or preserving something mentally. With 品(品) (pǐn, \"item\") added, it signifies an item that concretizes a memory, thereby creating a \"souvenir\" or \"keepsake.\" This combination makes sense because a \"纪念品(紀念品)\" is a tangible object designed to physically embody or trigger the memory of an event, maintaining its recall over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "纪",
+      "trad": "紀",
+      "pinyin": "jì",
+      "english": "record; chronicle"
+    },
+    {
+      "char": "念",
+      "trad": "念",
+      "pinyin": "niàn",
+      "english": "thought; remember"
+    },
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "item; product"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我在博物馆买了纪念品(我在博物館買了紀念品)。",
+      "pinyin": "Wǒ zài bówùguǎn mǎile jìniànpǐn.",
+      "english": "I bought a souvenir at the museum."
+    },
+    {
+      "chinese": "旅行结束时(旅行結束時)，我带回了许多纪念品(我帶回了許多紀念品)。",
+      "pinyin": "Lǚxíng jiéshù shí, wǒ dài huíle xǔduō jìniànpǐn.",
+      "english": "When the trip ended, I brought back many souvenirs."
+    },
+    {
+      "chinese": "这个杯子是我从巴黎带回来的纪念品(這個杯子是我從巴黎帶回來的紀念品)。",
+      "pinyin": "Zhège bēizi shì wǒ cóng Bālí dài huílái de jìniànpǐn.",
+      "english": "This cup is a souvenir I brought back from Paris."
+    }
+  ]
+}
