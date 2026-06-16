@@ -40,9 +40,17 @@ def _session():
     return s
 
 
+def media_path(char: str) -> Path:
+    return MEDIA / f"glyph{ord(char):x}.png"
+
+
 def build(char: str) -> Path | None:
-    """Build the progression strip PNG for `char`. Returns path, or None if the
-    Wiktionary page has no historical-forms table."""
+    """Build the progression strip PNG for `char` -> output/chinese/media/
+    glyph<cp>.png. Returns the path, or None if the Wiktionary page has no
+    historical-forms table. Skips the fetch if the PNG already exists."""
+    out = media_path(char)
+    if out.exists():
+        return out
     s = _session()
     url = "https://en.wiktionary.org/wiki/" + requests.utils.quote(char)
     soup = BeautifulSoup(s.get(url, timeout=30).text, "html.parser")
@@ -100,7 +108,6 @@ def build(char: str) -> Path | None:
         if i:
             d.line([(i * CW, PAD), (i * CW, GH)], fill="#ccc")
     MEDIA.mkdir(parents=True, exist_ok=True)
-    out = MEDIA / f"{char}-progression.png"
     canvas.convert("RGB").save(out)
     return out
 

@@ -26,6 +26,24 @@ import requests
 
 API = "https://app.mochi.cards/api"
 ROOT = Path(__file__).resolve().parent.parent
+MEDIA = ROOT / "output" / "chinese" / "media"
+_MEDIA_REF = re.compile(r"@media/(\S+?\.png)")
+
+
+def _upload_media(s, card_id, content):
+    """Upload every @media image a card references as a Mochi attachment."""
+    if not card_id:
+        return
+    for fname in dict.fromkeys(_MEDIA_REF.findall(content or "")):
+        p = MEDIA / fname
+        if not p.exists():
+            continue
+        with p.open("rb") as fh:
+            r = _req(s, "POST", f"{API}/cards/{card_id}/attachments/{fname}",
+                     files={"file": (fname, fh, "image/png")})
+        if r is not None and r.status_code >= 400:
+            print(f"      [warn] attach {fname} -> {r.status_code}")
+        time.sleep(0.2)
 
 # repo batch dir (relative to repo root) -> Mochi deck id
 DECK_MAP = {
@@ -153,11 +171,13 @@ def apply_deck(s, plan, trash_orphans):
     for cid, word, content in plan["updates"]:
         r = _req(s, "POST", f"{API}/cards/{cid}", json={"content": content})
         r.raise_for_status()
+        _upload_media(s, cid, content)
         print(f"    updated {word}")
         time.sleep(0.25)
     for word, content in plan["creates"]:
         r = _req(s, "POST", f"{API}/cards/", json={"content": content, "deck-id": did})
         r.raise_for_status()
+        _upload_media(s, r.json().get("id"), content)
         print(f"    created {word}")
         time.sleep(0.25)
     if trash_orphans:

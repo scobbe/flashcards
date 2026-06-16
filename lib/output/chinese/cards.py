@@ -20,6 +20,21 @@ from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char, key_lo
 from lib.output.chinese.cache import read_cache, write_cache
 from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
 
+# Glyph-progression images (built by scripts/glyph_progression.py) live here and
+# are referenced from a card as ![](@media/glyph<codepoint>.png); mochi_sync
+# uploads the matching file as a Mochi attachment.
+MEDIA_DIR = Path(__file__).parent.parent.parent.parent / "output" / "chinese" / "media"
+
+
+def _progression_lines(simplified: str) -> List[str]:
+    """Markdown for a single character's historical-forms image, if one exists."""
+    if len(simplified) != 1 or not is_cjk_char(simplified):
+        return []
+    fname = f"glyph{ord(simplified):x}.png"
+    if not (MEDIA_DIR / fname).exists():
+        return []
+    return ["- **historical forms:**", "", f"![Historical forms of {simplified}](@media/{fname})"]
+
 
 def read_parsed_input(parsed_path: Path) -> List[Tuple[str, str, str, str, str, str]]:
     """Read parsed input CSV file."""
@@ -329,6 +344,9 @@ def _write_single_card(
 
         lines = format_field_for_display(display_field.name, value)
         parts.extend(lines)
+
+    # Historical-forms (glyph progression) image for single-character sections.
+    parts.extend(_progression_lines(simplified))
 
     # Handle error separately (not in display schema)
     if etymology and isinstance(etymology, dict) and "error" in etymology:
