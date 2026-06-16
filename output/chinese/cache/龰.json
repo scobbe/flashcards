@@ -5,11 +5,18 @@
   "english": "stylized feet",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing up with three toes and a sole, stylized as 龰",
-    "interpretation": "The character originally depicted a foot with a sole and toes pointing upward. It evolved into a stylized form, 龰, representing the concept of 'stylized feet'. Related characters, such as 趾(趾) (zhǐ, 'foot' or 'toe'), developed from the original depiction of a foot.",
+    "description": "Depicts a footprint pointing up -> stylized as 龰 -> derivative 趾 (zhǐ, 'toe') retains original meaning",
+    "interpretation": "龰 symbolizes a stylized representation of feet or foot movement, aligning with its portrayal as a footprint pointing upwards. It is used in reference to foot-related contexts and concepts, maintaining its visual and semantic links to the original depiction of a foot.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "趾",
+      "trad": "趾",
+      "pinyin": "zhǐ",
+      "english": "toe"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

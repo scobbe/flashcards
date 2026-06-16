@@ -1,15 +1,22 @@
 {
   "simplified": "圥",
   "traditional": "圥",
-  "pinyin": "n.a.",
-  "english": "phonetic component",
+  "pinyin": "",
+  "english": "rudimentary form",
   "etymology": {
-    "type": "variant form",
-    "description": "圥 is a variant form of 𡴆, with no widely accepted etymology or component breakdown",
-    "interpretation": "圥 is a variant form that does not have a distinct etymology separate from 𡴆 and serves as a phonetic component without additional meaning.",
+    "type": "variant character",
+    "description": "Variant of 𡴆 (rudimentary form)",
+    "interpretation": "圥 is a variant form of 𡴆 without any significant functional difference, primarily used as an orthographic variation.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "𡴆",
+      "trad": "𡴆",
+      "pinyin": "",
+      "english": "rudimentary form"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

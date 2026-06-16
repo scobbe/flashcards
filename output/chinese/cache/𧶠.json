@@ -5,11 +5,17 @@
   "english": "to sell; trade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 𡍬 (phonetic component, evolved from 士(士) (shì, 'scholar') and 四(四) (sì, 'four')) + Semantic: 貝(貝) (bèi, 'cowry') -> to sell; trade",
-    "interpretation": "The character 𧶠 combines the phonetic element 𡍬, which later simplified into components 士(士) (shì, 'scholar') and 四(四) (sì, 'four'), with 貝(貝) (bèi, 'cowry'), indicating a connection to trade and the use of cowry shells as money. It is related in meaning to the character 賣(賣) (mài, 'sell').",
+    "description": "Phonetic: 𡍬 (original phonetic) + Semantic: 貝(貝) (bèi, \"cowry\") -> reduced phonetic: 士(士) (shì, \"scholar\") + 四(四) (sì, \"four\") -> to sell; trade",
+    "interpretation": "The character 𧶠 evolved from a combination of a phonetic element 𡍬 with the semantic 貝(貝) (bèi, \"cowry\"), representing trade or items of value. The phonetic was simplified to 士 and 四, providing a new form that maintains its original sense of selling or trading.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "𡍬",
+      "trad": "𡍬",
+      "pinyin": "mù",
+      "english": ""
+    },
     {
       "char": "貝",
       "trad": "貝",

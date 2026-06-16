@@ -548,9 +548,15 @@ def write_card_md(
     parts.append(f"## {english}")
 
     # Only show a traditional form in parentheses when it differs from the
-    # simplified form (collapses headings, breadcrumbs, etymology and example
-    # text alike, e.g. 糸(糸) -> 糸 while keeping 说(說)).
-    content = collapse_identical_parens("\n".join(parts)) + "\n"
+    # simplified form (糸(糸) -> 糸, 小学(小學) -> 小学(學), while keeping 说(說)).
+    # Heading/breadcrumb lines use empty ( ) ruby slots for identical chars so
+    # per-character ruby stays centered in Mochi (小学(小學) -> 小( )学(學));
+    # body lines (examples, etymology) just drop the identical characters.
+    rendered = [
+        collapse_identical_parens(line, empty_slots=line.lstrip().startswith("#"))
+        for line in "\n".join(parts).split("\n")
+    ]
+    content = "\n".join(rendered) + "\n"
     md_path.write_text(content, encoding="utf-8")
     if verbose:
         print(f"[chinese] [file] Created card: {md_path.name}")

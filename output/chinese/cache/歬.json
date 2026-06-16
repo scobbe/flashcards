@@ -5,8 +5,8 @@
   "english": "phonetic element",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "止(止) (zhǐ, \"foot\") + 舟(舟) (zhōu, \"boat\") = a foot on a boat moving forward -> used for phonetic value in compounds with 刀(刀) (dāo, \"knife\") -> ancient form of 前(前) (qián, \"forward\")",
-    "interpretation": "歬 consists of The combination of 止(止) (zhǐ, \"foot\") and 舟(舟) (zhōu, \"boat\") represents movement forward, likely symbolizing the concept of advancing or moving forward. Over time, it was used phonetically in the development of the character 前 (qián, \"forward\"), where 刀(刀) (dāo, \"knife\") was added for phonetic emphasis in later iterations such as 剪 (jiǎn, \"to cut\").",
+    "description": "止(foot) + 舟(boat) = foot on boat moving forward -> phonetically borrowed for 剪 to mean cut",
+    "interpretation": "The character 歬 is an ancient form of 前 (qián, \"forward\") and originally depicted a foot on a boat, symbolizing movement forward. It served as the phonetic element in 剪 (jiǎn, \"to cut\"), where an additional 刀 (dāo, \"knife\") was added.",
     "simplification": ""
   },
   "parts": [
@@ -33,6 +33,12 @@
       "trad": "前",
       "pinyin": "qián",
       "english": "forward"
+    },
+    {
+      "char": "剪",
+      "trad": "剪",
+      "pinyin": "jiǎn",
+      "english": "to cut"
     }
   ],
   "in_contemporary_usage": false,

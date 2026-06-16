@@ -87,21 +87,20 @@ _IDENTICAL_PARENS_RE = re.compile(rf"([{_CJK_RANGES}〇]+)\(([{_CJK_RANGES}〇]+
 _EMPTY_RUBY = "( )"
 
 
-def _minimize_trad_pair(simp: str, trad: str) -> str:
-    """Re-render a ``simp(trad)`` pair with per-character parentheses.
+def _minimize_trad_pair(simp: str, trad: str, empty_slots: bool = False) -> str:
+    """Re-render a ``simp(trad)`` pair so parentheses wrap only differing chars.
 
     The traditional run aligns to the SUFFIX of the (greedy) simplified run, so
     any leading context is emitted verbatim. A fully-identical run collapses to
-    bare text; otherwise each character is annotated individually - differing
-    characters get ``(traditional)`` and identical characters get an empty
-    ``( )`` slot so the ruby stays centered per character.
+    bare text. Otherwise differing characters get ``(traditional)``; identical
+    characters are dropped (bare) by default, or given an empty ``( )`` ruby
+    slot when ``empty_slots`` is set (used for headings so per-character ruby
+    stays centered in Mochi instead of drifting across a multi-char token).
 
     Examples (simp, trad) -> output:
-      (糸, 糸)                         -> 糸
-      (小学, 小學)                     -> 小( )学(學)
-      (他糾, 糾)                       -> 他糾
-      (我的小女儿今年开始上小学,
-       我的小女兒今年開始上小學)        -> 我( )的( )小( )女( )儿(兒)今( )年( )开(開)始( )上( )小( )学(學)
+      (糸, 糸)        -> 糸
+      (小学, 小學)     -> 小学(學)          | empty_slots -> 小( )学(學)
+      (他糾, 糾)       -> 他糾
     """
     if len(trad) > len(simp):
         return None  # can't align - leave the original untouched
@@ -109,31 +108,44 @@ def _minimize_trad_pair(simp: str, trad: str) -> str:
     s_tail = simp[len(simp) - len(trad):]
     if s_tail == trad:
         return prefix + s_tail  # fully identical -> drop parentheses entirely
+
     out = [prefix]
-    for s_ch, t_ch in zip(s_tail, trad):
-        if s_ch == t_ch:
-            out.append(f"{s_ch}{_EMPTY_RUBY}")
-        else:
-            out.append(f"{s_ch}({t_ch})")
+    if empty_slots:
+        for s_ch, t_ch in zip(s_tail, trad):
+            out.append(f"{s_ch}{_EMPTY_RUBY}" if s_ch == t_ch else f"{s_ch}({t_ch})")
+    else:
+        # Drop identical characters, wrapping each maximal differing run together.
+        i, n = 0, len(trad)
+        while i < n:
+            if s_tail[i] == trad[i]:
+                out.append(s_tail[i])
+                i += 1
+            else:
+                j = i
+                while j < n and s_tail[j] != trad[j]:
+                    j += 1
+                out.append(f"{s_tail[i:j]}({trad[i:j]})")
+                i = j
     return "".join(out)
 
 
-def collapse_identical_parens(text: str) -> str:
-    """Minimize ``汉字(繁體)`` annotations to per-character ruby slots.
+def collapse_identical_parens(text: str, empty_slots: bool = False) -> str:
+    """Minimize ``汉字(繁體)`` annotations so parentheses wrap only the characters
+    whose traditional form differs from the simplified form.
 
-    A run whose traditional form is identical collapses entirely
-    (``糸(糸)`` -> ``糸``). In a run where some characters differ, every
-    character is annotated individually: differing characters keep
-    ``(traditional)`` and identical characters get an empty ``( )`` slot, so
-    Mochi renders each character's ruby centered over that character instead of
-    drifting across a multi-character token. Non-CJK parentheticals (pinyin
-    "(shuō, ...)", "(a picture)") are never matched.
+    Fully-identical runs collapse entirely (``糸(糸)`` -> ``糸``); partially
+    differing runs keep parentheses only around the differing characters
+    (``小学(小學)`` -> ``小学(學)``). With ``empty_slots`` set, identical
+    characters instead get an empty ``( )`` ruby slot (``小学(小學)`` ->
+    ``小( )学(學)``) so Mochi keeps each character's ruby centered - used for
+    heading/breadcrumb lines. Non-CJK parentheticals (pinyin "(shuō, ...)",
+    "(a picture)") are never matched.
     """
     if not text or "(" not in text:
         return text
 
     def _sub(m):
-        result = _minimize_trad_pair(m.group(1), m.group(2))
+        result = _minimize_trad_pair(m.group(1), m.group(2), empty_slots)
         return result if result is not None else m.group(0)
 
     return _IDENTICAL_PARENS_RE.sub(_sub, text)

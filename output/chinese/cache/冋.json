@@ -4,18 +4,12 @@
   "pinyin": "jiōng",
   "english": "closed",
   "etymology": {
-    "type": "pictogram",
-    "description": "An ancient variant of 冂(冂) (jiōng, 'borders') -> with 口(口) (kǒu, 'mouth') inside -> depicting a closed space",
-    "interpretation": "The character 冋 represents a boundary or enclosure with an opening, as indicated by the mouth 口 within, emphasizing a sense of a contained or closed space.",
+    "type": "ideogrammic compound",
+    "description": "Depicts a closed area with a mouth 口(口) (kǒu, \"mouth\") inside -> closed",
+    "interpretation": "The character 冋 visually represents an enclosure with a mouth 口(口) (kǒu, \"mouth\") inside, symbolizing something that is closed off or contained within boundaries.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "冂",
-      "trad": "冂",
-      "pinyin": "jiōng",
-      "english": "borders"
-    },
     {
       "char": "口",
       "trad": "口",
