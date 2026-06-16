@@ -38,7 +38,8 @@ DECK_MAP = {
     "output/chinese/general/daily/1-8-26": "3VIUL9uy",
     "output/chinese/general/daily/12-26-25": "fhufsYYG",
     "output/chinese/general/daily/12-27-25": "xhm1819o",
-    "output/chinese/class/6-15-26/book": "HTfuXufW",
+    "output/chinese/class/6-15-26/book": "aSfC8sE5",
+    "output/chinese/class/6-15-26/class": "sQY3iY3s",
     # 6-8-26 deck holds 120 cards vs 30 local (duplicate-imported 4x); the dupe
     # guard skips it until it is deduped.
     "output/chinese/class/6-8-26/book": "LH83d1Xx",
