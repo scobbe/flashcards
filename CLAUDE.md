@@ -69,11 +69,15 @@ Mochi sync, or the Teams reader — these are the traps that have bitten us.
 
 ## Card formatting — traditional-form parens
 - Traditional annotations are minimized per character via
-  `collapse_identical_parens(line, empty_slots=True)` in `write_card_md`:
-  fully-identical runs collapse (`糸(糸)`→`糸`); in a mixed run every char gets a
-  slot — differing chars `字(繁)`, identical chars an empty `字( )`. The empty
-  slots are required so Mochi renders each char's ruby centered (without them the
-  traditional ruby drifts across the run). Applied to ALL lines incl. examples.
+  `collapse_identical_parens(line, empty_slots=False)` in `write_card_md`,
+  applied to ALL lines incl. examples. **A character is annotated ONLY when its
+  traditional form differs** from the simplified: differing chars are wrapped
+  individually as `字(繁)`, identical chars are left BARE (`糸(糸)`→`糸`,
+  `小学(小學)`→`小学(學)`, `我回答是的(我回答是的)`→`我回答是的`). Each differing char is
+  wrapped on its own (never a multi-char `(…)`) so the ruby stays per-character
+  and the malformed-parens audit (multi-char clause annotations) doesn't trip.
+  (Earlier versions used empty `字( )` ruby slots on identical chars; that
+  parenthesised every character and was removed.)
 
 ## Mochi sync (`scripts/mochi_sync.py`) — the big traps
 - **`DELETE /cards/:id` is a SOFT-trash, not a real delete.** Trashed cards stay

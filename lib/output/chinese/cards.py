@@ -662,14 +662,13 @@ def write_card_md(
     parts.append(FRONT_BACK_DIVIDER)
     parts.append(f"## {english}")
 
-    # Only show a traditional form in parentheses when it differs from the
-    # simplified form (糸(糸) -> 糸, while keeping 说(說)). Every line — headings,
-    # breadcrumbs, AND example/etymology text — uses empty ( ) ruby slots for
-    # identical chars (小学(小學) -> 小( )学(學)) so each character gets its own
-    # ruby slot and the traditional annotations stay centered per-character in
-    # Mochi instead of drifting across a multi-character run.
+    # Only annotate a character whose traditional form DIFFERS from the
+    # simplified — 说(說) stays, identical chars are left bare (糸(糸) -> 糸,
+    # 小学(小學) -> 小学(學), 我回答是的(我回答是的) -> 我回答是的). Differing chars are
+    # wrapped individually so the ruby stays per-character. (No empty ( ) ruby
+    # slots — they cluttered every character even when nothing changed.)
     rendered = [
-        collapse_identical_parens(line, empty_slots=True)
+        collapse_identical_parens(line, empty_slots=False)
         for line in "\n".join(parts).split("\n")
     ]
     content = "\n".join(rendered) + "\n"

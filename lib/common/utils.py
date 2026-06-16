@@ -129,18 +129,12 @@ def _minimize_trad_pair(simp: str, trad: str, empty_slots: bool = False) -> str:
             else:
                 out.append(f"{s_ch}({t_ch})")
     else:
-        # Drop identical characters, wrapping each maximal differing run together.
-        i, n = 0, len(trad)
-        while i < n:
-            if s_tail[i] == trad[i]:
-                out.append(s_tail[i])
-                i += 1
-            else:
-                j = i
-                while j < n and s_tail[j] != trad[j]:
-                    j += 1
-                out.append(f"{s_tail[i:j]}({trad[i:j]})")
-                i = j
+        # Identical characters stay BARE (no parentheses); each differing
+        # character is wrapped individually as 字(繁). Per-char wrapping keeps the
+        # traditional ruby centered over its own character and never lets a paren
+        # span 2+ chars (which would read as an un-expanded clause annotation).
+        for s_ch, t_ch in zip(s_tail, trad):
+            out.append(s_ch if s_ch == t_ch else f"{s_ch}({t_ch})")
     return "".join(out)
 
 
