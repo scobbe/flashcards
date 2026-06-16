@@ -748,9 +748,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** 龰 (yù, "stylized feet") is a pictogram that originally depicted a footprint pointing upwards, representing the base form of a foot. In its evolution, it has been stylized differently to show just this part. This depiction uses three toes and a sole, similar to how the human hand is represented in ancient script with three parts like 爪 (zhǎo, "claw"), 寸 (cùn, "inch"), 九 (jiǔ, "nine"), 又 (yòu, "again"), and 彐 (jì, "snout"). This character serves as a fundamental representation of the foot element in Chinese script, distinctively pointing upwards unlike other related shapes.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 工( )程( )师(師) → 师(師) → 帀 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -1022,8 +1023,8 @@
 - **pinyin:** unknown
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a hand with fingers possibly spread apart
-  - **interpretation:** The character 𠁣 is a rare pictogram. It is not part of the standard set of characters used in contemporary Chinese, and its specific meaning is not well-documented in commonly available resources. It appears to depict a hand or fingers, which may suggest an action or manual gesture.
+  - **description:** Depicts a hand holding a tool
+  - **interpretation:** This character appears to represent a hand holding an object, possibly related to actions involving grasping or manipulation. It is not commonly used in modern Chinese, but may appear in specialized contexts or as an ancient form.
 ### 创(創)业(業)公( )司( ) → 创(創) → 倉 → 口
 - **definition:** pit for storing grain
 - **pinyin:** kǒu
@@ -1092,13 +1093,14 @@
 - **components:**
   - 辛
     - xīn
-    - chisel tool
+    - bitter
 - **etymology:**
   - **type:** pictogram
-  - **description:** Derived from 辛 (xīn, "chisel tool")
-  - **interpretation:** The character 丵 is a pictogram that derives from 辛 (xīn, "chisel tool"), indicating its origin from a tool used for chiseling. The form visually represents the tool itself.
+  - **description:** Depicts 辛 (chisel, tool for digging)
+  - **interpretation:** The character 丵 is a pictogram depicting a tool such as a chisel, derived from 辛 (xīn,
+  - **simplification:** 丵 was simplified into 凿 (ض) by integrating other elements conveying the chisel’s use inside a mortar, reflected in its complex historical graphical evolution into simplified forms during modernization efforts.
 ### 创(創)业(業)公( )司( ) → 业(業) → 丵 → 辛
-- **definition:** chisel tool
+- **definition:** bitter
 - **pinyin:** xīn
 - **etymology:**
   - **type:** pictogram
@@ -1613,9 +1615,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up with 3 toes and a sole ->
-    - stylized as 龰
-  - **interpretation:** 龰(yù, "stylized feet") began as a pictogram depicting a footprint with an upward orientation, featuring three toes and a sole, abstracted in later stages into the character itself. The reference to toes is consistent with how similar arrangements like 爪(zhuǎ, "claw") or 寸(cùn, "inch") showcase digits like fingers or claws, illustrating appendages. This ancient character sheds light on the early Chinese fascination with depicting feet alongside related limb representations.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 时(時)间(間) → 时(時) → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -2540,9 +2543,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing upwards ->
-    - stylized as 龰
-  - **interpretation:** The character 龰(yù, "stylized feet") originally depicted a footprint pointing upwards, using a pictographic representation. It showed a foot with three toes and a sole, conveying the concept of a 'foot'. This image evolved into a stylized form used to denote feet visually in characters.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5740,16 +5744,16 @@
 - **definition:** ancient form of 多
 - **pinyin:** duō
 - **components:**
-  - 夕
-    - xī
-    - evening
+  - 多(夛)
+    - duō
+    - many
 - **etymology:**
-  - **type:** ideogrammic compound
+  - **type:** pictogram
   - **description:**
-    - 夕 (xī, "evening") duplicated ->
-    - represents abundance ->
-    - ancient form of 多
-  - **interpretation:** The character 夛 is an ancient form and precursor of 多 (duō, "many"). It comprises two instances of 夕 (xī, "evening"), illustrating duplication to signify abundance. Over time, 夛 evolved into 多, where the duplication of evening transformed to represent the idea of 'many' or 'abundance,' similar to how 林 depicts multiple trees as a 'forest.'
+    - Depicts multiple moon shapes ->
+    - symbolic of abundance ->
+    - ancient form of 多(夛) (duō, "many")
+  - **interpretation:** The character 夛 serves as an ancient form of 多(夛) (duō, "many"), using a pictogram that represents multiple symbols resembling moons (夕), reflecting abundance or multiplicity. It is connected in form and meaning to 多(夛), where the recurring shapes suggest 'many' similar to how 林(lín, "forest") uses multiple 木(mù, "tree;") to denote a collection of trees.
 ### 多 → 林
 - **definition:** forest
 - **pinyin:** lín
@@ -6003,18 +6007,16 @@
 - **definition:** ancient form of 多
 - **pinyin:** duō
 - **components:**
-  - 肉
-    - ròu
-    - meat
-  - 夕
-    - xī
-    - evening
-- **etymology:**
-  - **type:** ideogrammic compound
-  - **description:**
-    - 肉 (ròu, 'meat') corrupted to 夕 (xī, 'evening') duplicated ->
+  - 多(夛)
+    - duō
     - many
-  - **interpretation:** 夛 is an ancient form of 多 (duō, 'many'). It originated as an ideogrammic compound where two pictographs of meat, 肉 (ròu, 'meat'), indicate 'many' due to the duplicative nature, similar to 林 (lín, 'forest'), which uses two trees. Over time, the pictograph 肉 was visually corrupted into 夕 (xī, 'evening'), leading to the form of 多 used today.
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts multiple moon shapes ->
+    - symbolic of abundance ->
+    - ancient form of 多(夛) (duō, "many")
+  - **interpretation:** The character 夛 serves as an ancient form of 多(夛) (duō, "many"), using a pictogram that represents multiple symbols resembling moons (夕), reflecting abundance or multiplicity. It is connected in form and meaning to 多(夛), where the recurring shapes suggest 'many' similar to how 林(lín, "forest") uses multiple 木(mù, "tree;") to denote a collection of trees.
 ### 多少 → 多 → 林
 - **definition:** forest
 - **pinyin:** lín
@@ -7108,29 +7110,29 @@
 - **components:**
   - 岡
     - gāng
-    - hill
+    - mountain ridge
   - 刀
     - dāo
     - knife
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 岡 (gāng, "hill") + 刀 (dāo, "knife") =
-    - meaning of firmness due to sharpness → firm, hard
-  - **interpretation:** The character 剛 combines 岡 (gāng, "hill"), which acts as the phonetic component, with 刀 (dāo, "knife"), which serves the semantic role suggesting sharpness, strength or firmness. This pairing results in meanings of toughness and resilience, later extended to temporal nuances like "just now" or "barely," reflecting the idea of 'immediate' or 'barely' completing with strength or emphasis.
-  - **simplification:** The traditional form 剛 was simplified to 刚 by replacing 岡 (gāng, "hill") with its simplified form 冈(岡), maintaining the pronunciation but simplifying the stroke count.
+    - phonetic 岡 (gāng) + semantic 刀 (knife) ->
+    - hard, firm
+  - **interpretation:** 岡 (gāng, 'mountain ridge') provides the sound, suggesting a firm or solid structure, with 刀 (dāo, 'knife') indicating sharpness or firmness. Thus, 刚(剛) (gāng, 'firm') connotes hardness or strength, while the definite, exact nature of a firm edge lends to meanings of precise timing ('just now') and minimal sufficiency ('barely').
+  - **simplification:** 剛 (gāng, 'firm') was simplified to 刚(剛) by replacing the phonetic 岡 (gāng, 'mountain ridge') with 冈, retaining the knife radical 刀.
 - **examples:**
-  - 我( )刚(剛)吃( )完( )午( )饭(飯)。
-    - Wǒ gāng chī wán wǔfàn.
-    - I just finished lunch.
-  - 他( )刚(剛)才( )出( )门(門)，现(現)在( )不( )在( )家( )。
-    - Tā gāngcái chūmén, xiànzài bù zài jiā.
-    - He just went out, and is not at home now.
-  - 他( )们(們)刚(剛)到( )这(這)里(裡)，就( )开(開)始( )下( )雨( )。
-    - Tāmen gāng dào zhèlǐ, jiù kāishǐ xiàyǔ.
-    - They just arrived here, and it started to rain.
+  - 我( )刚(剛)吃( )完( )晚( )饭(飯)。
+    - Wǒ gāng chī wán wǎnfàn.
+    - I just finished dinner.
+  - 他( )刚(剛)走( )进(進)教( )室( )，铃(鈴)声(聲)就( )响(響)了( )。
+    - Tā gāng zǒu jìn jiàoshì, língshēng jiù xiǎng le.
+    - He just entered the classroom when the bell rang.
+  - 这(這)个(個)盒( )子( )很( )坚(堅)硬( )，像( )石( )头(頭)一( )样(樣)。
+    - Zhège hézi hěn jiānyìng, xiàng shítou yīyàng.
+    - This box is very hard, like a stone.
 ### 刚(剛) → 岡
-- **definition:** hill
+- **definition:** mountain ridge
 - **pinyin:** gāng
 - **components:**
   - 网(網)
@@ -7246,29 +7248,29 @@
 - **components:**
   - 岡
     - gāng
-    - hill
+    - mountain ridge
   - 刀
     - dāo
     - knife
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 岡 (gāng, "hill") + 刀 (dāo, "knife") =
-    - meaning of firmness due to sharpness → firm, hard
-  - **interpretation:** The character 剛 combines 岡 (gāng, "hill"), which acts as the phonetic component, with 刀 (dāo, "knife"), which serves the semantic role suggesting sharpness, strength or firmness. This pairing results in meanings of toughness and resilience, later extended to temporal nuances like "just now" or "barely," reflecting the idea of 'immediate' or 'barely' completing with strength or emphasis.
-  - **simplification:** The traditional form 剛 was simplified to 刚 by replacing 岡 (gāng, "hill") with its simplified form 冈(岡), maintaining the pronunciation but simplifying the stroke count.
+    - phonetic 岡 (gāng) + semantic 刀 (knife) ->
+    - hard, firm
+  - **interpretation:** 岡 (gāng, 'mountain ridge') provides the sound, suggesting a firm or solid structure, with 刀 (dāo, 'knife') indicating sharpness or firmness. Thus, 刚(剛) (gāng, 'firm') connotes hardness or strength, while the definite, exact nature of a firm edge lends to meanings of precise timing ('just now') and minimal sufficiency ('barely').
+  - **simplification:** 剛 (gāng, 'firm') was simplified to 刚(剛) by replacing the phonetic 岡 (gāng, 'mountain ridge') with 冈, retaining the knife radical 刀.
 - **examples:**
-  - 我( )刚(剛)吃( )完( )午( )饭(飯)。
-    - Wǒ gāng chī wán wǔfàn.
-    - I just finished lunch.
-  - 他( )刚(剛)才( )出( )门(門)，现(現)在( )不( )在( )家( )。
-    - Tā gāngcái chūmén, xiànzài bù zài jiā.
-    - He just went out, and is not at home now.
-  - 他( )们(們)刚(剛)到( )这(這)里(裡)，就( )开(開)始( )下( )雨( )。
-    - Tāmen gāng dào zhèlǐ, jiù kāishǐ xiàyǔ.
-    - They just arrived here, and it started to rain.
+  - 我( )刚(剛)吃( )完( )晚( )饭(飯)。
+    - Wǒ gāng chī wán wǎnfàn.
+    - I just finished dinner.
+  - 他( )刚(剛)走( )进(進)教( )室( )，铃(鈴)声(聲)就( )响(響)了( )。
+    - Tā gāng zǒu jìn jiàoshì, língshēng jiù xiǎng le.
+    - He just entered the classroom when the bell rang.
+  - 这(這)个(個)盒( )子( )很( )坚(堅)硬( )，像( )石( )头(頭)一( )样(樣)。
+    - Zhège hézi hěn jiānyìng, xiàng shítou yīyàng.
+    - This box is very hard, like a stone.
 ### 刚(剛)刚(剛) → 刚(剛) → 岡
-- **definition:** hill
+- **definition:** mountain ridge
 - **pinyin:** gāng
 - **components:**
   - 网(網)
@@ -7861,16 +7863,13 @@
 ### 从(從)到( ) → 从(從) → 辵 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized foot pointing upwards ->
-    - used for feet-related concepts
-  - **interpretation:** 龰 (yù, "stylized feet") depicts a stylized foot with three toes and a sole, illustrating the concept of a footprint. Over time, it became a stylized representation of the foot, emphasizing its shape and function. It connects to the character 趾 (zhǐ, "toe"), which continues the original meaning of a foot part. The change to a stylized form reflects its use in script rather than a literal depiction, separating its function from other similar representations like 夂 and 爪, which orient differently or depict different body parts like claws.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 从(從)到( ) → 从(從) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -8560,10 +8559,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts footprint pointing up ->
-    - original meaning 'foot' ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 (yù, 'stylized feet') originally depicted a footprint pointing upwards, signifying 'foot' in ancient scripts. It has been stylized into a more abstract form in 龰. The depiction includes three toes and a sole, similar to a footprint or a simplified representation of feet.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 过(過) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -13083,19 +13082,13 @@
 ### 旅行 → 旅 → 从(從) → 辵 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - stop; foot
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up, originally meaning 'foot' ->
-    - stylized as 龰 (yù, 'stylized feet')
-  - **interpretation:** 龰 (yù, 'stylized feet') is derived from 止 (zhǐ, 'stop; foot') and represents a stylized form that simplifies the depiction of a foot. The original character had a footprint pointing upward, which was later stylized to simplify the design while maintaining its association with the concept of 'foot' or 'feet'.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 旅行 → 旅 → 从(從) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -13467,17 +13460,20 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 刀 (dāo, "knife") + 口 (kǒu, "mouth") =
-    - call out with one's mouth ->
+    - original hands over a wine vessel ->
+    - phonetic 刀 (dāo) + semantic 口 (kǒu, 'mouth') ->
     - summon
-  - **interpretation:** Originally depicted hands over a wine vessel, symbolizing hospitality or serving wine, illustrating summoning guests. Later evolved to include 口 to emphasize calling out or summoning orally, while 刀 serves as a phonetic marker.
+  - **interpretation:** Originally, 召 depicted hands over a wine vessel, linked to the practice of serving wine to guests. The character evolved by adding a phonetic component 刀 (dāo) and a semantic component 口 (kǒu, 'mouth'). The mouth element implies calling out, and the knife contributes the zhào sound. The meaning extended to 'summoning' due to both calling out and the attentiveness required in serving. The concept of welcoming and calling guests informs its modern sense of summoning or calling.
 - **examples:**
-  - 国(國)王( )召( )集( )忠( )诚(誠)的( )骑(騎)士( )，前( )往( )讨(討)论(論)国(國)事( )。
-    - guówáng zhàojí zhōngchéng de qíshì, qiánwǎng tǎolùn guóshì.
-    - The king summons loyal knights, heading off to discuss state affairs.
-  - 校( )长(長)召( )见(見)家( )长(長)，讨(討)论(論)学(學)生( )表( )现(現)。
-    - xiàozhǎng zhàojiàn jiāzhǎng, tǎolùn xuéshēng biǎoxiàn.
-    - The principal summons the parents to discuss the students' performance.
+  - 国(國)王( )召( )集( )大( )臣( )们(們)商( )讨(討)对(對)策( )。
+    - Guówáng zhàojí dàchénmen shāngtǎo duìcè.
+    - The king summoned the ministers to discuss strategies.
+  - 他( )被( )召( )回( )故( )乡(鄉)接( )受( )新( )的( )任( )务(務)。
+    - Tā bèi zhào huí gùxiāng jiēshòu xīn de rènwù.
+    - He was called back to his hometown to accept a new assignment.
+  - 战争爆发后，军队迅速召集士兵(戰爭爆發後，軍隊迅速召集士兵)。
+    - Zhànzhēng bàofā hòu, jūnduì xùnsù zhàojí shìbīng.
+    - After the outbreak of war, the army quickly summoned soldiers.
 ### 介( )绍(紹) → 绍(紹) → 召 → 刀
 - **definition:** knife
 - **pinyin:** dāo
@@ -13978,8 +13974,11 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a footprint originally pointing up, stylized as 龰
-  - **interpretation:** 龰 (yù, "stylized feet") is a stylized representation of a footprint, showcasing a foot or footprint pointing up, with three toes and a sole. This depiction aligns with the original use of the character, which represented the concept of "foot". The original pictographic intent is retained in its stylization, conveying the imagery clearly.
+  - **description:**
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 小( )时(時) → 时(時) → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu

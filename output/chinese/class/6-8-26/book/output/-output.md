@@ -313,10 +313,8 @@
 - **pinyin:** kù
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a pair of hands ->
-    - original form for expressing 'hands'
-  - **interpretation:** The character 𦥑 is a simple pictogram representing a pair of hands. It visually resembles hands, capturing their essential form in a straightforward manner.
+  - **description:** Depicts a pair of hands
+  - **interpretation:** The character 𦥑 (kù, "hands") directly represents the image of two hands, embodying the concept through visual depiction. It is a straightforward pictogram, intended to convey the physical form and function of hands.
 ### 小( )学(學) → 学(學) → 子
 - **definition:** child
 - **pinyin:** zǐ
@@ -639,60 +637,12 @@
 ### 叫 → 丩
 - **definition:** twist
 - **pinyin:** jiū
-- **components:**
-  - 糾
-    - jiū
-    - to correct
 - **etymology:**
   - **type:** pictogram
   - **description:**
     - Depicts two entangled ropes ->
-    - to entangle; to intertwine ->
-    - original form of 糾 (jiū, "to correct")
-  - **interpretation:** The character 丩 (jiū, "twist") visually represents two ropes entwined with each other, symbolizing the concept of twisting or entanglement. This form later evolved into characters like 糾 (jiū, "to correct"), retaining the notion of intricacy or complexity.
-### 叫 → 丩 → 糾
-- **definition:** to correct
-- **pinyin:** jiū
-- **components:**
-  - 糸
-    - sī
-    - silk
-  - 丩
-    - jiū
-    - to entangle
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - semantic 糸 (sī, "silk") + phonetic 丩 (jiū, "to entangle") ->
-    - 糾 (jiū, "correct")
-  - **interpretation:** The character 糾 (jiū, "correct") combines 糸 (sī, "silk") to suggest the idea of threads or strings involved in entangling or correcting, with 丩 (jiū, "to entangle") providing the phonetic element. Originally, 丩 referred to the concept of entanglement directly, and 糹 (the silk radical) was later added to emphasize the textile-related meaning.
-- **examples:**
-  - 他糾我( )的( )口( )误(誤)，并(並)讲(講)解( )正( )确(確)发(發)音( )。
-    - Tā jiū wǒ de kǒuwù, bìng jiǎngjiě zhèngquè fāyīn.
-    - He corrected my slip of the tongue and explained the correct pronunciation.
-  - 经理要求员工糾报(報)告( )中( )的( )遗(遺)漏( )，以( )确(確)保( )准(準)确(確)性( )。
-    - Jīnglǐ yāoqiú yuángōng jiū bàogào zhōng de yílòu, yǐ quèbǎo zhǔnquèxìng.
-    - The manager required the employees to correct the omissions in the report to ensure accuracy.
-  - 专家在讨论中糾理( )论(論)漏( )洞( )。
-    - Zhuānjiā zài tǎolùn zhōng jiū lǐlùn lòudòng.
-    - The expert corrected the theoretical loopholes during the discussion.
-### 叫 → 丩 → 糾 → 糸
-- **definition:** silk
-- **pinyin:** sī
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a skein of silk
-  - **interpretation:** The character 糸(mì, "silk; thread") represents a pictorial representation of a skein of silk, visually capturing the concept of thread or fiber.
-- **examples:**
-  - 她( )手( )工( )制(製)作( )了( )一( )条(條)漂( )亮( )的( )丝(絲)巾( )。
-    - Tā shǒugōng zhìzuòle yī tiáo piàoliang de sī jīn.
-    - She handcrafted a beautiful silk scarf.
-  - 这(這)个(個)设(設)计(計)图(圖)必( )须(須)用( )细(細)糸( )画(畫)出( )来(來)。
-    - Zhège shèjìtú bìxū yòng xì mì huà chūlái.
-    - This design drawing must be sketched with fine thread.
-  - 我( )们(們)参(參)观(觀)了( )古( )代( )的( )织(織)布( )技( )术(術)，对(對)丝(絲)绸(綢)制(製)作( )产(產)生( )了( )兴(興)趣( )。
-    - Wǒmen cānguānle gǔdài de zhībù jìshù, duì sīchóu zhìzuò chǎnshēngle xìngqù.
-    - We visited ancient weaving techniques and developed an interest in silk production.
+    - to entangle; to intertwine
+  - **interpretation:** The character 丩 (jiū, "twist") visually represents entangled ropes, symbolizing the concept of twisting or intertwining.
 ---
 ## 叫
 ### jiào
@@ -1403,17 +1353,24 @@
 - **components:**
   - 冂
     - jiōng
-    - boundary
+    - border
   - 口
     - kǒu
     - mouth
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 冂 (boundary) + 口 (mouth) =
-    - enclosed space ->
-    - closed
-  - **interpretation:** The character 冋 combines 冂, representing an enclosure or boundary, with 口, symbolizing an opening, thereby giving the idea of closing or enclosing an area within the boundary.
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ### 讨(討)厌(厭) → 厌(厭) → 猒
 - **definition:** phonetic element
 - **pinyin:** yàn
@@ -1569,21 +1526,21 @@
 - **definition:** vessel; sound
 - **pinyin:** kēng
 - **components:**
-  - 声
+  - 声(聲)
     - shēng
-    - sound of stone chime
+    - stone chime
   - 殳
     - shū
-    - hand holding a hammer or mallet
+    - hand holding a hammer or a mallet
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 声 (shēng, "sound of stone chime") + 殳 (shū, "hand holding a hammer or mallet") =
-    - depiction of striking a stone chime with a mallet ->
+    - 聲(声) (shēng, "stone chime") + 殳 (shū, "hand holding a hammer or a mallet") =
+    - a stone chime being struck by a mallet ->
     - vessel; sound
-  - **interpretation:** The character 殸 is an ideogrammic compound that combines the symbolic representation of a stone chime producing sound with the image of a hand holding a mallet, suggesting the action of striking the chime to produce a sound. This composition effectively conveys the idea of sound, particularly the sound produced from striking a vessel or chime with a tool, as seen in ancient ceremonial or musical contexts.
+  - **interpretation:** The character 殸(kēng, "vessel; sound") visually represents a hand wielding a mallet striking a stone chime, signifying the action of creating sound or the vessel on which it is made. This composition intentionally evokes the sounds produced by striking.
 ### 小( )声(聲) → 声(聲) → 殸 → 殳
-- **definition:** hand holding a hammer or mallet
+- **definition:** hand holding a hammer or a mallet
 - **pinyin:** shū
 - **components:**
   - 又
@@ -1762,11 +1719,19 @@
     - kǒu
     - mouth
 - **etymology:**
-  - **type:** pictogram
+  - **type:** ideogrammic compound
   - **description:**
-    - Depicts an ancient variant of 冂 (jiōng, "border") with 口 (kǒu, "mouth") inside ->
-    - enclosure
-  - **interpretation:** The character 冋 represents an enclosure, illustrated by a border with an opening, symbolizing a closed or bounded space. This concept of boundaries is extended into related applications like direction or confinement.
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ### 巴掌 → 掌 → 尚 → 冋 → 冂
 - **definition:** border
 - **pinyin:** jiōng
@@ -2669,8 +2634,8 @@
 - **pinyin:** lù
 - **etymology:**
   - **type:** variant form
-  - **description:** 圥 is a variant form of the character 𡴆, sharing its structure and meaning.
-  - **interpretation:** 圥 is a simply a variation of 𡴆 used historically or for specific linguistic contexts. It doesn't have a separate etymological history or significant semantic differentiation from 𡴆.
+  - **description:** Variant form of 𡴆 (no etymological breakdown available for 圥)
+  - **interpretation:** 圥 (lù) does not have a specific etymological breakdown and is noted as a variant form of 𡴆. Therefore, its meaning and usage are based on this relationship.
 ### 继(繼)续(續) → 续(續) → 𧶠 → 𡍬 → 囧
 - **definition:** eye
 - **pinyin:** jiǒng
@@ -3203,10 +3168,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰 ->
-    - represents 'stylized feet'
-  - **interpretation:** 龰 is a pictographic representation originally depicting a footprint pointing upwards, symbolizing a foot. This character evolved into a stylized icon for representing 'feet' in script.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 面前 → 前 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -4713,18 +4678,11 @@
 ### 世界 → 世 → 枼
 - **definition:** leaf
 - **pinyin:** yè
-- **components:**
-  - 葉
-    - yè
-    - leaf
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts leaves growing from a tree ->
-    - original form of 葉 (yè, "leaf") ->
-    - phonetically borrowed for 枼 "flat"
-  - **interpretation:** The character 枼 (yè, "leaf") visually represents the concept of leaves sprouting from a tree. It originally symbolized the word for "leaf," which was later extended to also express ideas like "flat" through phonetic borrowing. Despite Shuowen's misclassification, it retains its primary organic imagery in its traditional form.
-### 世界 → 世 → 枼 → 葉
+  - **description:** Depicts a leaf or leaves growing from a tree
+  - **interpretation:** The character 枼 depicts the image of leaves, which are associated with a tree. Originally, it was the form used for the word 'leaf', later phonetically borrowed to represent 'flat'.
+### 世界 → 世 → 葉
 - **definition:** leaf
 - **pinyin:** yè
 - **components:**
@@ -4758,7 +4716,7 @@
   - 唐( )诗(詩)中( )常( )提( )到( )飘(飄)零( )的( )葉( )，寄( )托( )着(著)诗(詩)人( )的( )寂( )寞( )。
     - Táng shī zhōng cháng tí dào piāo líng de yè, jì tuō zhe shī rén de jì mò。
     - Tang poems often mention falling leaves, symbolizing the poet's solitude.
-### 世界 → 世 → 枼 → 葉 → 艸
+### 世界 → 世 → 葉 → 艸
 - **definition:** grass
 - **pinyin:** cǎo
 - **components:**
@@ -4782,7 +4740,7 @@
   - 秋( )天( )时(時)艸( )变(變)黄(黃)，冬天它又枯萎。
     - Qiūtiān shí cǎo biàn huáng, dōngtiān tā yòu kūwěi.
     - In autumn, the grass turns yellow, and in winter, it withers.
-### 世界 → 世 → 枼 → 葉 → 艸 → 屮
+### 世界 → 世 → 葉 → 艸 → 屮
 - **definition:** grass
 - **pinyin:** chè
 - **etymology:**
@@ -4796,7 +4754,7 @@
   - 草屮初生露尖端。
     - cǎo chè chū shēng lù jiān duān.
     - The grass sprout's tip has just emerged.
-### 世界 → 世 → 枼 → 葉 → 口
+### 世界 → 世 → 葉 → 口
 - **definition:** mouth
 - **pinyin:** kǒu
 - **etymology:**
@@ -4813,7 +4771,7 @@
   - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
     - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
     - The little girl took a bite of the apple and smiled sweetly.
-### 世界 → 世 → 枼 → 葉 → 十
+### 世界 → 世 → 葉 → 十
 - **definition:** ten
 - **pinyin:** shí
 - **etymology:**
@@ -5003,8 +4961,10 @@
     - plow
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a plow
-  - **interpretation:** The character 㠯 is thought to originally depict a plow, which later evolved into the character 耜 (sì, 'plow'). This pictographic origin serves as a basic visual reference for farming tools in early written language.
+  - **description:**
+    - Originally depicted a plow ->
+    - Related to the original form of 耜 (sì, "plow")
+  - **interpretation:** The character 㠯 originally depicted a plow, providing insight into early agricultural tools and practices. It served as the original form for 耜 (sì, "plow"), reflecting its functional purpose in farming.
 ### 埃及 → 埃 → 矣 → 㠯 → 耜
 - **definition:** plow
 - **pinyin:** sì
@@ -5013,23 +4973,22 @@
     - lěi
     - plow
   - 㠯
-    - yǐ
-    - phonetic component
+    - variant
+    - sound
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:**
-    - 耒 (lěi, "plow") + 㠯 (phonetic) =
-    - plow
-  - **interpretation:** The character 耜(sì, "plow") combines the semantic component 耒 (lěi, "plow") suggesting the tool for agriculture, with the phonetic component 㠯, indicating its pronunciation. This reflects the character's function and sound.
+  - **description:** semantic 耒 (lěi, "plow") + phonetic 㠯 (variant sound)
+  - **interpretation:** The character 耜(sì, "plow") combines the semantic element 耒 (lěi, "plow"), representing the tool itself, with the phonetic component 㠯 to convey its pronunciation.
 ### 埃及 → 埃 → 矣 → 㠯 → 耜 → 耒
 - **definition:** plow
 - **pinyin:** lěi
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a wooden bifurcated plow with furrow lines (彡 and 丯) ->
-    - simplified to two cross lines for a plow
-  - **interpretation:** 耒(lěi, "plow") is a pictographic representation of an agricultural tool, crucial for farming, emphasizing its historical significance in early agrarian society.
+    - Depicts a wooden bifurcated plow with originally three cross lines (彡 and 丯) for plow furrows ->
+    - later simplified to two cross lines ->
+    - final form 耒
+  - **interpretation:** The character 耒 (lěi, 'tilling tool') directly represents an ancient agricultural implement, visually illustrating its structure with the cross lines symbolizing furrows made by the tool. This clearly links the character's shape to its function in farming.
 ### 埃及 → 埃 → 矣 → 矢
 - **definition:** arrow
 - **pinyin:** shǐ
@@ -5486,10 +5445,9 @@
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - Triplication of 土 (tǔ, "earth") =
-    - tall of earth ->
-    - 垚
-  - **interpretation:** The character 垚 is formed by repeating the character 土 (tǔ, "earth") three times to symbolize a large accumulation or height of earth, thus conveying the meaning of "tall (of earth)." This triplication is a visual representation to emphasize the concept of height or elevation when associated with earth or soil.
+    - 垚 (triplication of 土 (tǔ, "earth") =
+    - "tall (of earth)"
+  - **interpretation:** 垚 is an ideogrammic compound composed of three 土 (tǔ, "earth") characters stacked together, symbolizing a mound or a tall accumulation of earth. This character uses repetition to emphasize the abundance or height of the soil, representing the concept of 'tall'.
 ### 烧(燒) → 堯 → 垚 → 土
 - **definition:** earth
 - **pinyin:** tǔ
@@ -5636,6 +5594,9 @@
   - 河水潺潺，沿( )岸( )绿(綠)树(樹)成( )荫(蔭)。
     - Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.
     - The river flows babbling, and green trees along the bank provide shade.
+- **historical forms:**
+
+![Historical forms of 水](@media/glyph6c34.png)
 ### 洗澡 → 洗 → 先
 - **definition:** first
 - **pinyin:** xiān
@@ -5740,9 +5701,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** 龰 (yù, 'stylized feet') originally depicted a footprint pointing upward, showing the sole and toes. It serves as a simplified or abstract form to represent the notion of a footprint, evolving from oracle bone script designs.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 洗澡 → 洗 → 先 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5824,6 +5786,9 @@
   - 河水潺潺，沿( )岸( )绿(綠)树(樹)成( )荫(蔭)。
     - Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.
     - The river flows babbling, and green trees along the bank provide shade.
+- **historical forms:**
+
+![Historical forms of 水](@media/glyph6c34.png)
 ### 洗澡 → 澡 → 喿
 - **definition:** used phonetically
 - **pinyin:** zào

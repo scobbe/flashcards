@@ -1,0 +1,44 @@
+{
+  "simplified": "經",
+  "traditional": "經",
+  "pinyin": "jīng",
+  "english": "classics; pass through",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糹(糸) (mì, 'silk; thread') + 巠(巠) (jīng, phonetic) -> classic texts woven like threads",
+    "interpretation": "經(經) (jīng, 'classics; pass through') combines 糹(糸) (mì, 'silk; thread'), referring to weaving, with the phonetic 巠(巠) (jīng), suggesting something foundational like classic texts. The sense of 'classics' connects to the idea of weaving cohesive, enduring narratives through time, while 'pass through' aligns with the idea of threads continuously extending.",
+    "simplification": "Simplified as 经, where 巠(巠) (jīng, phonetic) was replaced by 圣(圣) (shèng, 'sage; holy') for phonetic reasons, even though this change is not etymologically related to the meaning of 圣."
+  },
+  "parts": [
+    {
+      "char": "糹",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "巠",
+      "trad": "巠",
+      "pinyin": "jīng",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这本书里包含了许多古代经典(這本書裡包含了許多古代經典)。",
+      "pinyin": "Zhè běn shū lǐ bāohán le xǔduō gǔdài jīngdiǎn.",
+      "english": "This book contains many ancient classics."
+    },
+    {
+      "chinese": "河流穿过城市(河流穿過城市)，最后流入大海(最後流入大海)。",
+      "pinyin": "Héliú chuānguò chéngshì, zuìhòu liúrù dàhǎi.",
+      "english": "The river passes through the city and eventually flows into the sea."
+    },
+    {
+      "chinese": "他在事业中经历了许多挑战(他在事業中經歷了許多挑戰)。",
+      "pinyin": "Tā zài shìyè zhōng jīnglì le xǔduō tiǎozhàn.",
+      "english": "He has gone through many challenges in his career."
+    }
+  ]
+}

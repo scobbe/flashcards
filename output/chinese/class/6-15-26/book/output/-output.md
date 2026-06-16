@@ -70,48 +70,13 @@
 ### 旧(舊)梦(夢) → 旧(舊) → 雈 → 雚
 - **definition:** type of bird
 - **pinyin:** guàn
-- **components:**
-  - 雈
-    - huán
-    - stork
-  - 吅
-    - xuān
-    - sound; phonetic
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stork
-  - **interpretation:** The character 雚 (guàn, "type of bird") originally depicted a stork. It was historically the same as 雈, but later, the component 吅 was added during the Shang dynasty. The character emphasizes the visual representation of the bird, and the addition of 吅 served to reinforce the phonetic or semantic aspects in some historical interpretations.
-### 旧(舊)梦(夢) → 旧(舊) → 雈 → 雚 → 吅
-- **definition:** sound; phonetic
-- **pinyin:** xuān
-- **components:**
-  - 口
-    - kǒu
-    - mouth
-- **etymology:**
-  - **type:** ideogrammic compound
   - **description:**
-    - 口 (kǒu, "mouth") + 口 (kǒu, "mouth") =
-    - multiple mouths producing sound ->
-    - phonetic
-  - **interpretation:** The character 吅(xuān, "sound; phonetic") combines two 口 (kǒu, "mouth") to symbolize the idea of multiple mouths or repeated speech, indicating sound or phonetic elements.
-### 旧(舊)梦(夢) → 旧(舊) → 雈 → 雚 → 吅 → 口
-- **definition:** mouth
-- **pinyin:** kǒu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts an open mouth.
-  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
-- **examples:**
-  - 他( )张(張)开(開)口( )，大( )声(聲)喊( )叫( )。
-    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
-    - He opened his mouth and shouted loudly.
-  - 这(這)口( )饭(飯)入( )口( )即( )化( )。
-    - Zhè kǒu fàn rùkǒu jíhuà.
-    - This mouthful of food melts in your mouth.
-  - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
-    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
-    - The little girl took a bite of the apple and smiled sweetly.
+    - Originally depicted a stork ->
+    - additional component 吅 (xūn) suggests vocalization ->
+    - final form 雚 (guān, "cry of waterfowl")
+  - **interpretation:** The character 雚 (guān) originally depicted a stork and was a pictogram. Over time, it evolved with the addition of 吅 (xūn) to indicate the vocalization of the bird, becoming associated with the cry of waterfowl.
 ### 旧(舊)梦(夢) → 旧(舊) → 臼
 - **definition:** mortar
 - **pinyin:** jiù
@@ -1127,9 +1092,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts footprint pointing upward; stylized as 龰 ->
-    - derivative in 趾 (zhǐ, "toe")
-  - **interpretation:** The character 龰 (yù, "stylized feet") is a stylized representation of a footprint, originally depicting the sole with three toes pointing upwards. It serves as a symbol for 'foot' in its original context, and the derivative character 趾 (zhǐ, "toe") specifically refers to that meaning. This pictogram illustrates the similarity between human feet and hands, which is evident in characters like 爪 (zhuǎ, "claw") and 寸 (cùn, "inch"), all using three appendages as a motif.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 有( )时(時) → 时(時) → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -1322,8 +1288,11 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a footprint pointing up with three toes and a sole
-  - **interpretation:** The character 龰(yù, 'stylized feet') is a pictographic representation of a footprint pointing upwards, often stylized as part of more complex characters. It originally conveyed the meaning of 'foot,' with three toes, similar to the depiction style of hands in characters like 又(yòu, 'again') or 爪(zhǎo, 'claw'). The character served as a base for derivatives like 趾(zhǐ, 'toe'), which still retains the original meaning of 'foot.'
+  - **description:**
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 出( )现(現) → 出 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -1698,8 +1667,13 @@
     - bird
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** 唯 (wéi, 'only') as phonetic component + 鳥 (niǎo, 'bird') as semantic component
-  - **interpretation:** The character 鷕 combines 唯 (wéi, 'only') for its phonetic property with 鳥 (niǎo, 'bird') for its semantic meaning, indicating the cry of a bird. The character thus conveys the sound associated with birds as informed by its phonetic and semantic elements.
+  - **description:**
+    - Originally 隹 (bird) ->
+    - added 唯 (phonetic) and 口 (mouth) to signify bird sound ->
+    - currently phonetic 唯 + semantic 鳥 (bird) =
+    - bird's cry ->
+    - cry of a bird
+  - **interpretation:** 鷕(yǎo, "cry of a bird") combines 唯(wéi, "only") for its phonetic properties, indicating sound, with 鳥(niǎo, "bird"), representing its semantic meaning of a bird's cry. This illustrates a phonetic addition to represent the sound aspect ('cry') while retaining the bird concept, leading to the meaning 'cry of a bird'.
 ### 双(雙) → 雔 → 隹 → 鷕 → 唯
 - **definition:** only
 - **pinyin:** wéi
@@ -2215,9 +2189,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** 龰 is a pictogram representing a footprint with toes and a sole pointing upward, stylized from the depiction of a foot in ancient scripts. It evolved to show a stylized view of feet in the character form, distinct from down-pointing representations like 夊 (suī, "to walk slowly") and 夂 (zhǐ, "go slowly"). This character visually conveys the concept of a footstep or stylized feet through its shape.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 年( )龄(齡) → 龄(齡) → 齿(齒) → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -2908,17 +2883,20 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 刀 (dāo, "knife") + 口 (kǒu, "mouth") =
-    - call out with one's mouth ->
+    - original hands over a wine vessel ->
+    - phonetic 刀 (dāo) + semantic 口 (kǒu, 'mouth') ->
     - summon
-  - **interpretation:** Originally depicted hands over a wine vessel, symbolizing hospitality or serving wine, illustrating summoning guests. Later evolved to include 口 to emphasize calling out or summoning orally, while 刀 serves as a phonetic marker.
+  - **interpretation:** Originally, 召 depicted hands over a wine vessel, linked to the practice of serving wine to guests. The character evolved by adding a phonetic component 刀 (dāo) and a semantic component 口 (kǒu, 'mouth'). The mouth element implies calling out, and the knife contributes the zhào sound. The meaning extended to 'summoning' due to both calling out and the attentiveness required in serving. The concept of welcoming and calling guests informs its modern sense of summoning or calling.
 - **examples:**
-  - 国(國)王( )召( )集( )忠( )诚(誠)的( )骑(騎)士( )，前( )往( )讨(討)论(論)国(國)事( )。
-    - guówáng zhàojí zhōngchéng de qíshì, qiánwǎng tǎolùn guóshì.
-    - The king summons loyal knights, heading off to discuss state affairs.
-  - 校( )长(長)召( )见(見)家( )长(長)，讨(討)论(論)学(學)生( )表( )现(現)。
-    - xiàozhǎng zhàojiàn jiāzhǎng, tǎolùn xuéshēng biǎoxiàn.
-    - The principal summons the parents to discuss the students' performance.
+  - 国(國)王( )召( )集( )大( )臣( )们(們)商( )讨(討)对(對)策( )。
+    - Guówáng zhàojí dàchénmen shāngtǎo duìcè.
+    - The king summoned the ministers to discuss strategies.
+  - 他( )被( )召( )回( )故( )乡(鄉)接( )受( )新( )的( )任( )务(務)。
+    - Tā bèi zhào huí gùxiāng jiēshòu xīn de rènwù.
+    - He was called back to his hometown to accept a new assignment.
+  - 战争爆发后，军队迅速召集士兵(戰爭爆發後，軍隊迅速召集士兵)。
+    - Zhànzhēng bàofā hòu, jūnduì xùnsù zhàojí shìbīng.
+    - After the outbreak of war, the army quickly summoned soldiers.
 ### 照( )顾(顧) → 照 → 昭 → 召 → 刀
 - **definition:** knife
 - **pinyin:** dāo
@@ -3050,8 +3028,8 @@
 - **pinyin:** unknown
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stylized representation of an object or concept
-  - **interpretation:** The character 𠁣 does not have a modern significance or common usage, making it challenging to determine its exact historical representation or concept.
+  - **description:** Depicts a hand holding a tool
+  - **interpretation:** This character appears to represent a hand holding an object, possibly related to actions involving grasping or manipulation. It is not commonly used in modern Chinese, but may appear in specialized contexts or as an ancient form.
 ### 照( )顾(顧) → 顾(顧) → 雇 → 隹
 - **definition:** bird
 - **pinyin:** zhuī
@@ -4099,29 +4077,29 @@
 - **components:**
   - 岡
     - gāng
-    - hill
+    - mountain ridge
   - 刀
     - dāo
     - knife
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 岡 (gāng, "hill") + 刀 (dāo, "knife") =
-    - meaning of firmness due to sharpness → firm, hard
-  - **interpretation:** The character 剛 combines 岡 (gāng, "hill"), which acts as the phonetic component, with 刀 (dāo, "knife"), which serves the semantic role suggesting sharpness, strength or firmness. This pairing results in meanings of toughness and resilience, later extended to temporal nuances like "just now" or "barely," reflecting the idea of 'immediate' or 'barely' completing with strength or emphasis.
-  - **simplification:** The traditional form 剛 was simplified to 刚 by replacing 岡 (gāng, "hill") with its simplified form 冈(岡), maintaining the pronunciation but simplifying the stroke count.
+    - phonetic 岡 (gāng) + semantic 刀 (knife) ->
+    - hard, firm
+  - **interpretation:** 岡 (gāng, 'mountain ridge') provides the sound, suggesting a firm or solid structure, with 刀 (dāo, 'knife') indicating sharpness or firmness. Thus, 刚(剛) (gāng, 'firm') connotes hardness or strength, while the definite, exact nature of a firm edge lends to meanings of precise timing ('just now') and minimal sufficiency ('barely').
+  - **simplification:** 剛 (gāng, 'firm') was simplified to 刚(剛) by replacing the phonetic 岡 (gāng, 'mountain ridge') with 冈, retaining the knife radical 刀.
 - **examples:**
-  - 我( )刚(剛)吃( )完( )午( )饭(飯)。
-    - Wǒ gāng chī wán wǔfàn.
-    - I just finished lunch.
-  - 他( )刚(剛)才( )出( )门(門)，现(現)在( )不( )在( )家( )。
-    - Tā gāngcái chūmén, xiànzài bù zài jiā.
-    - He just went out, and is not at home now.
-  - 他( )们(們)刚(剛)到( )这(這)里(裡)，就( )开(開)始( )下( )雨( )。
-    - Tāmen gāng dào zhèlǐ, jiù kāishǐ xiàyǔ.
-    - They just arrived here, and it started to rain.
+  - 我( )刚(剛)吃( )完( )晚( )饭(飯)。
+    - Wǒ gāng chī wán wǎnfàn.
+    - I just finished dinner.
+  - 他( )刚(剛)走( )进(進)教( )室( )，铃(鈴)声(聲)就( )响(響)了( )。
+    - Tā gāng zǒu jìn jiàoshì, língshēng jiù xiǎng le.
+    - He just entered the classroom when the bell rang.
+  - 这(這)个(個)盒( )子( )很( )坚(堅)硬( )，像( )石( )头(頭)一( )样(樣)。
+    - Zhège hézi hěn jiānyìng, xiàng shítou yīyàng.
+    - This box is very hard, like a stone.
 ### 刚(剛)刚(剛) → 刚(剛) → 岡
-- **definition:** hill
+- **definition:** mountain ridge
 - **pinyin:** gāng
 - **components:**
   - 网(網)
@@ -4619,16 +4597,13 @@
 ### 往事 → 往 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint or foot with toes pointing up, originally meaning "foot" ->
-    - derivative 趾 (zhǐ, "toe") refers back to the original foot form
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram representing a stylized image of a human foot. It begins as a depiction of a footprint with three toes and a sole, pointing upward. Although it has evolved to become a stylized representation, its original sense of depicting a foot has been preserved and referenced in characters like 趾 (zhǐ, "toe").
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 往事 → 往 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -6264,20 +6239,13 @@
 ### 进(進)入( ) → 进(進) → 辵 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint pointing upwards ->
-    - representation of foot ->
-    - stylized as 龰
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram that originally depicted a footprint pointing upward, stylized from the character 止 (zhǐ, "foot"). It is related to the derivative character 趾 (zhǐ, "toe") which refers to the original meaning of foot. In its final form, it represents the concept of foot, stylizing the original pictorial representation of three toes and a sole.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 进(進)入( ) → 进(進) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -6334,10 +6302,12 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 唯 (wéi, "only") + 鳥 (niǎo, "bird") =
-    - 唯 (phonetic) + 鳥 (semantic) ->
+    - Originally 隹 (bird) ->
+    - added 唯 (phonetic) and 口 (mouth) to signify bird sound ->
+    - currently phonetic 唯 + semantic 鳥 (bird) =
+    - bird's cry ->
     - cry of a bird
-  - **interpretation:** The character 鷕 (yǎo, "cry of a bird") combines 唯 (wéi, "only") for its phonetic component and 鳥 (niǎo, "bird") for its semantic element, indicating a sound associated with birds. This reflects the use of a similar sound to denote the cry of a bird in written form.
+  - **interpretation:** 鷕(yǎo, "cry of a bird") combines 唯(wéi, "only") for its phonetic properties, indicating sound, with 鳥(niǎo, "bird"), representing its semantic meaning of a bird's cry. This illustrates a phonetic addition to represent the sound aspect ('cry') while retaining the bird concept, leading to the meaning 'cry of a bird'.
 ### 进(進)入( ) → 进(進) → 隹 → 鷕 → 唯
 - **definition:** only
 - **pinyin:** wéi
@@ -6878,9 +6848,12 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 唯 (phonetic) + 鳥 (semantic, 'bird') ->
+    - Originally 隹 (bird) ->
+    - added 唯 (phonetic) and 口 (mouth) to signify bird sound ->
+    - currently phonetic 唯 + semantic 鳥 (bird) =
+    - bird's cry ->
     - cry of a bird
-  - **interpretation:** The character 鷕 (yǎo, 'cry of a bird') is formed with 唯 (wéi, 'only') as the phonetic component and 鳥 (niǎo, 'bird') representing the category of birds, which indicates the sound a bird makes. The combination suggests the specific call or cry associated with birds, making it fit the meaning 'cry of a bird'.
+  - **interpretation:** 鷕(yǎo, "cry of a bird") combines 唯(wéi, "only") for its phonetic properties, indicating sound, with 鳥(niǎo, "bird"), representing its semantic meaning of a bird's cry. This illustrates a phonetic addition to represent the sound aspect ('cry') while retaining the bird concept, leading to the meaning 'cry of a bird'.
 ### 难(難)忘( ) → 难(難) → 隹 → 鷕 → 唯
 - **definition:** only
 - **pinyin:** wéi

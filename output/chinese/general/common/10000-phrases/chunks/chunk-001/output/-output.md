@@ -193,9 +193,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts footprint pointing up with three toes ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 depicts a footprint with three toes pointing upwards, symbolizing the action or concept related to feet. It's a stylized form derived from the pictogram 止 (zhǐ, 'foot') which highlights the same upward toe orientation and originally represented a foot. This graphic representation connects to similar concepts like the characters 夊 and 夂, which suggest downward pointing toes due to their different evolutionary paths and orientations in ancient script.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 是的 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -762,15 +763,15 @@
   - 木
     - mù
     - wood
-  - 尼
+  - 倪
     - ní
-    - Buddhist nun
+    - end; limit
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 木 (mù, "wood") + phonetic 尼 (ní, "Buddhist nun") =
-    - loom component for wooden tools
-  - **interpretation:** The character 檷 (nǐ, "loom") is a phono-semantic compound where 木 (mù, "wood") represents its semantic component, indicating its association with wood, typically how looms were historically constructed. The phonetic component is 尼 (ní, "Buddhist nun"), used for its phonetic value rather than literal meaning. This combination suggests the character relates to a type of wooden tool, specifically a loom.
+    - 木 (mù, "wood") + 倪 (ní, "end; limit") =
+    - loom
+  - **interpretation:** 檷 (nǐ, "loom") combines 木 (mù, "wood") to signify the material commonly used in making looms, with 倪 (ní, "end; limit") as a phonetic component providing the pronunciation. The combination depicts the idea of a wooden structure used in weaving, hence the meaning "loom". The character is specific and technical, referring to the tool used in textile production.
 ### 你好 → 你 → 尔(爾) → 尒 → 檷 → 木
 - **definition:** wood
 - **pinyin:** mù
@@ -785,33 +786,33 @@
   - 工匠精心雕刻木，制成精美家具。
     - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
     - The craftsman carefully carved the wood, crafting exquisite furniture.
-### 你好 → 你 → 尔(爾) → 尒 → 檷 → 尼
-- **definition:** Buddhist nun
+### 你好 → 你 → 尔(爾) → 尒 → 檷 → 倪
+- **definition:** end; limit
 - **pinyin:** ní
 - **components:**
-  - 尸
-    - shī
-    - corpse
-  - 匕
-    - bǐ
-    - spoon
+  - 人(亻)
+    - rén
+    - person
+  - 儿(兒)
+    - ér
+    - child
 - **etymology:**
-  - **type:** ideogrammic compound
+  - **type:** phono-semantic compound
   - **description:**
-    - 尸 (shī, 'corpse') sitting on or leaning against 匕 (bǐ, 'spoon') ->
-    - 'to stop' or 'close; intimate' ->
-    - later usage as 'nun'
-  - **interpretation:** The character 尼 (ní, 'nun') originated from depicting one person sitting on or leaning against another, symbolizing a close or intimate state. This evolved into meanings related to stopping and intimacy, which by extension came to be associated with the concept of a nun, reflecting a person's commitment to a spiritual life.
+    - 亻(人, "person") + 兒(儿, "child"/phonetic) =
+    - a figurative extension of limit or boundary ->
+    - referentially associated with limits of a person or actions
+  - **interpretation:** The character 倪(ní) combines 人(亻) (rén, "person") as the semantic component, indicating a relationship to human characteristics or conditions, with 兒(儿) as the phonetic component, suggesting the pronunciation. This combination may metaphorically suggest the limitations inherent to a person or situation.
 - **examples:**
-  - 寺( )院( )里(裡)有( )一( )位( )慈( )爱(愛)的( )尼( )。
-    - Sìyuàn lǐ yǒu yī wèi cí'ài de ní.
-    - There is a kind-hearted nun in the temple.
-  - 那( )位( )尼( )每( )天( )诵(誦)经(經)，静(靜)心( )参(參)禅(禪)。
-    - Nà wèi ní měitiān sòngjīng, jìngxīn cānchán.
-    - That nun recites scriptures daily and meditates in tranquility.
-  - 这(這)位( )尼( )身( )穿( )灰( )色( )僧( )袍( )，安( )静(靜)地( )阅(閱)读(讀)经(經)典( )。
-    - Zhè wèi ní shēn chuān huīsè sēngpáo, ānjìng de yuèdú jīngdiǎn.
-    - This nun, wearing a grey robe, reads the classics quietly.
+  - 他( )发(發)现(現)了( )事( )情( )的( )倪( )端( )。
+    - Tā fāxiàn le shìqíng de ní duān.
+    - He discovered the clue to the situation.
+  - 这(這)问(問)题(題)似( )乎( )没(沒)有( )尽(盡)头(頭)和( )倪( )端( )。
+    - Zhè wèntí sìhū méiyǒu jìntóu hé ní duān.
+    - This problem seems to have no end or limit.
+  - 科( )学(學)的( )进(進)步( )不( )断(斷)超( )越( )极(極)限( )和( )倪( )端( )。
+    - Kēxué de jìnbù bùduàn chāoyuè jíxiàn hé ní duān.
+    - Scientific progress constantly surpasses limits and boundaries.
 ### 你好 → 你 → 尔(爾) → 小
 - **definition:** small
 - **pinyin:** xiǎo
@@ -1410,31 +1411,10 @@
     - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
     - One straight road leads to the distance.
 ### 我不知道 → 知道 → 道 → 𩠐
-- **components:**
-  - 首
-    - shǒu
-    - head
 - **etymology:**
-  - **type:** pictogram
-  - **description:** Ancient form depicting a head with a prominent nose and eyes
-  - **interpretation:** The character 𩠐 is an ancient representation of 首 (shǒu, "head"), constructed to visualize key facial features like the nose and eyes. Over time, it evolved into the modern form 首 (shǒu, "head"), but maintains the core visual elements representing a head in its structure.
-### 我不知道 → 知道 → 道 → 𩠐 → 首
-- **definition:** head
-- **pinyin:** shǒu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a head with the stylized representation of eyes and hair
-  - **interpretation:** The character 首 (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.
-- **examples:**
-  - 他( )昂( )首( )挺( )胸( )走( )上( )领(領)奖(獎)台( )。
-    - Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.
-    - He walked onto the podium with his head held high.
-  - 受( )伤(傷)后(後)，他( )低( )下( )首( )表( )示( )谦(謙)逊(遜)。
-    - Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.
-    - After being injured, he lowered his head to show humility.
-  - 他( )被( )选(選)为(為)公( )司( )的( )首( )席( )执(執)行( )官( )。
-    - Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.
-    - He was elected as the company's chief executive officer.
+  - **type:** ancient form
+  - **description:** An ancient form of 首 (shǒu, "head")
+  - **interpretation:** 𩠐 is a form used in ancient texts that corresponds to the modern character 首 (shǒu, "head"), indicating it was historically a variant or predecessor of the character used today for 'head'.
 ### 我不知道 → 知道 → 道 → 止
 - **definition:** foot
 - **pinyin:** zhǐ
@@ -1515,10 +1495,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts stylized feet ->
-    - original form of 止 (zhǐ, "foot") ->
-    - evolved to 龰(yù, "stylized feet")
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram depicting a footprint pointing upwards, originally meaning "foot". It has three toes and a sole, similar to how human hands are depicted in characters like 爪(zhuǎ, "claw") and 寸(cùn, "inch"). The character evolved to represent the stylized concept of feet.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 我不知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -2817,12 +2797,9 @@
     - One straight road leads to the distance.
 ### 我知道 → 知道 → 道 → 𩠐
 - **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - 𩠐 depicts a head with features like eyes and nose ->
-    - stylized as 首 ->
-    - evolved into modern form 首
-  - **interpretation:** 𩠐 is an ancient depiction of a head, capturing essential features such as eyes and nose, which was later standardized as 首 (shǒu, 'head'). This evolution reflects the character's role in representing parts of the body associated with the head, such as the face and skull.
+  - **type:** ancient form
+  - **description:** An ancient form of 首 (shǒu, "head")
+  - **interpretation:** 𩠐 is a form used in ancient texts that corresponds to the modern character 首 (shǒu, "head"), indicating it was historically a variant or predecessor of the character used today for 'head'.
 ### 我知道 → 知道 → 道 → 止
 - **definition:** foot
 - **pinyin:** zhǐ
@@ -2903,9 +2880,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 (yù, "stylized feet") is a pictogram representing a footprint pointing upwards, symbolizing the foot. Over time, it became stylized as 龰, serving as a graphical representation of feet, differentiated from similar characters like 夊 and 夂, which depict feet oriented in different directions. These variations indicate different historical evolutions and usages related to feet.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 我知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -4479,10 +4457,8 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Originally depicted a person with air exhaling from the mouth ->
-    - Represents exhaled air
-  - **interpretation:** The character 丂 (kǎo, 'exhaled air') is a pictogram that illustrates the concept of air being exhaled through an open mouth. In its original form, it visually depicted a person exhaling, capturing the essence of breath and air movement.
+  - **description:** Depicts exhaled air; breath or vapor
+  - **interpretation:** 丂(kǎo, "exhaled air") is traditionally depicted as the shape of breath or vapor being exhaled, characterizing the concept of air being expelled from the mouth. This led to meanings associated with breath or something that has escaped into the air.
 ---
 ## 啊
 ### a
@@ -4668,9 +4644,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 represents a stylized depiction of a foot, tracing back to the original ideogram of a footprint pointing upwards. It emphasizes the foot's shape by including the image of toes much like how the hand is represented in other characters such as 爪 (zhǎo, "claw") and 寸 (cùn, "inch"). It's differentiated from similar characters by its upward orientation, unlike 夊 and 夂 which point down.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 等等 → 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5009,9 +4986,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Originally depicts a footprint pointing up (止 'foot') ->
-    - stylized to represent feet as 龰
-  - **interpretation:** 龰(yù, 'stylized feet') originated as a pictograph of a footprint in the upward direction, symbolizing 'foot'. This character has been stylized to emphasize feet in general, particularly the shape and orientation of toes akin to the depiction of a human hand. Related characters like 趾(zhi, 'toe') carry the specific meaning derived directly from this original pictograph. While the depiction of 龰 captures the essence of feet, similarly oriented character representations of hands or claws are expressed with analogous strokes and structure.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 是( )吗(嗎) → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5388,19 +5366,13 @@
 ### 走吧 → 走 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint with toes pointing up ->
-    - used to represent stylized feet in script
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram derived from 止 (zhǐ, "foot") originally depicting a footprint pointing upwards. This layout evolved to stylize the concept of 'feet' for use in script. Although 趾 (zhǐ, "toe") eventually referred back to the original meaning of foot, 龰 became a stylized representation. The character reflects three toes and a sole, similar to the hand representation found in characters like 爪 (zhǎo, "claw") and 寸 (cùn, "inch") in its earlier form.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 走吧 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -6557,59 +6529,13 @@
 ### 不是 → 是 → 正 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
-  - 爪
-    - zhǎo
-    - claw
-  - 又
-    - yòu
-    - again
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint pointing up ->
-    - originally meant 'foot'; stylized as 龰 ->
-    - derivative of 趾 (zhǐ, 'toe').
-  - **interpretation:** The character 龰 is a stylized depiction of a footprint which originally represented the concept of 'foot'. In its depiction, the character shows a foot with three toes and a sole, similar to the way human hands are rendered in other characters like 爪 (zhǎo, 'claw') and 又 (yòu, 'again'). Although 龰 evolved its own distinct form, it shares its origin with the character 趾 (zhǐ, 'toe'), reflecting its historical connection to depictions of feet.
-### 不是 → 是 → 正 → 止 → 龰 → 爪
-- **definition:** claw
-- **pinyin:** zhǎo
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a hand grabbing from above, resembles a claw ->
-    - stylized to represent claws
-  - **interpretation:** The character 爪 (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
-- **examples:**
-  - 猫(貓)的( )爪( )非( )常( )敏( )捷( )。
-    - Māo de zhǎo fēicháng mǐnjié.
-    - The cat's claws are very agile.
-  - 狗( )的( )爪( )稳(穩)固( )，使( )它( )轻(輕)松(鬆)爬( )山( )。
-    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
-    - The dog's claws are sturdy, allowing it to climb mountains easily.
-  - 鹰(鷹)的( )爪( )锋(鋒)利( )，能( )牢( )牢( )抓( )住( )猎(獵)物( )。
-    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
-    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
-### 不是 → 是 → 正 → 止 → 龰 → 又
-- **definition:** again
-- **pinyin:** yòu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a right hand
-  - **interpretation:** The character 又 (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
-- **examples:**
-  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
-    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
-    - The character '又' originally comes from the hand.
-  - 很( )多( )汉(漢)字( )含( )有( )又( )部( )首( )，表( )示( )与(與)手( )有( )关(關)的( )动(動)作( )。
-    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
-    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
-  - 古( )人( )用( )又( )描( )绘(繪)手( )的( )形( )态(態)，体(體)现(現)了( )古( )汉(漢)字( )的( )独(獨)特( )魅( )力( )。
-    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
-    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 不是 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -7207,8 +7133,8 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stylized form resembling an exhaled breath
-  - **interpretation:** The character 丂 (kǎo, "exhaled air") is a pictogram representing the concept of exhalation through a stylized depiction of breath.
+  - **description:** Depicts exhaled air; breath or vapor
+  - **interpretation:** 丂(kǎo, "exhaled air") is traditionally depicted as the shape of breath or vapor being exhaled, characterizing the concept of air being expelled from the mouth. This led to meanings associated with breath or something that has escaped into the air.
 ---
 ## 天啊
 ### tiān a
@@ -7441,9 +7367,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰 with three toes and a sole
-  - **interpretation:** The character 龰 (yù) depicts a footprint with the toes pointing upwards. This character, originally representing a foot, has been stylized with three toes and a sole, similar to the depiction of hands in other pictograms like 爪 (zhǎo, "claw") and 又 (yòu, "again"). Over time, this form evolved into other related characters such as 趾 (zhǐ, "toe"), which retains the original meaning of 'foot'.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 来(來)吧( ) → 来(來) → 來 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -8485,8 +8412,11 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stylized footprint originally pointing up, intended to represent a foot
-  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram representing a footprint oriented upwards, signifying the concept of feet. Derived forms like 趾 (zhǐ, 'toe') have maintained the notion of 'foot'. The pictogram is akin to other body part depictions such as 手 (shǒu, 'hand'), with the commonality of three appendages depicted (toes in this case), reflecting human anatomy. The character is directly related to the oracle script representation wherein it incorporated three toes and a sole, visually grounding its meaning as 'feet'.
+  - **description:**
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 不知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -9019,16 +8949,13 @@
 ### 等一下 → 等 → 寺 → 之 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized pair of feet pointing upwards; original form as 止 (zhǐ, 'foot') ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 is a pictogram representing feet or steps, showing a stylized design reflecting footprints pointing upwards. It originates from the character 止 (zhǐ, 'foot') which graphically depicted a footprint.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 等一下 → 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -9958,9 +9885,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** 龰 (yù, "stylized feet") originally depicted a footprint pointing upwards, highlighting its connection to the concept of 'foot'. It's stylized in its modern form as 龰 to represent feet. This character stems from the depiction of foot shapes and directions in the script's evolution, similar to other characters representing different hand or foot variants in historical scripts.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 是啊 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -10789,9 +10717,10 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up, styled as 龰 with three toes and a sole in earlier script ->
-    - interpreted as stylized feet
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram depicting a footprint pointing upward. This character has evolved to represent 'stylized feet' and serves as a foundational component in related characters such as 趾 (zhǐ, "toe"), which retains the original meaning of 'foot'.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 是的 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -11972,12 +11901,31 @@
 ### 对(對) → 丵
 - **definition:** tool for digging
 - **pinyin:** zhuó
+- **components:**
+  - 辛
+    - xīn
+    - bitter
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts 辛 (chisel, tool for digging)
+  - **interpretation:** The character 丵 is a pictogram depicting a tool such as a chisel, derived from 辛 (xīn,
+  - **simplification:** 丵 was simplified into 凿 (ض) by integrating other elements conveying the chisel’s use inside a mortar, reflected in its complex historical graphical evolution into simplified forms during modernization efforts.
+### 对(對) → 丵 → 辛
+- **definition:** bitter
+- **pinyin:** xīn
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Derived from 辛 (chisel tool) ->
-    - represents a tool for digging
-  - **interpretation:** The character 丵 (zhuó, "tool for digging") is a pictogram that depicts a chisel tool, symbolizing a tool used for digging or cutting. Its form is derived from the character 辛 (xīn, "bitter"), which originally depicted a chisel and was used to convey the sense of carving or cutting through the earth or materials.
+    - Depicts a tool—chisel, awl, spike—used to mark slaves and criminals ->
+    - 辛
+  - **interpretation:** The character 辛(xīn, 'spice'), while meaning 'spice' in contemporary usage, originally depicted a tool used for branding slaves and criminals, indicating its historical connection to marking and intensity.
+- **examples:**
+  - 我( )在( )厨(廚)房( )里(裡)加( )了( )些( )辛( )，使( )得( )菜( )的( )味( )道( )更( )加( )丰(豐)富( )。
+    - Wǒ zài chúfáng lǐ jiā le xiē xīn, shǐdé cài de wèidào gèngjiā fēngfù.
+    - I added some spice in the kitchen, making the dish more flavorful.
+  - 这(這)家( )餐( )馆(館)以( )独(獨)特( )的( )辛( )著( )称(稱)，吸引了很多食客。
+    - Zhè jiā cānguǎn yǐ dútè de xīn zhùchēng, xīyǐn le hěn duō shíkè.
+    - This restaurant is renowned for its unique spice, attracting many diners.
 ### 对(對) → 土
 - **definition:** earth
 - **pinyin:** tǔ
@@ -12373,41 +12321,13 @@
 ### 对(對)不( )起( ) → 起 → 走 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - stop
-  - 趾
-    - zhǐ
-    - toe
-  - 爪
-    - zhǎo
-    - claw
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up, originally meaning 'foot' ->
-    - stylized as 龰
-  - **interpretation:** 龰 is a pictogram representing a stylized foot with three toes and a sole, analogous to other human features depicted with three elements like the hand in 爪 (zhǎo, 'claw'), 爪, 寸, 九, 又, and 彐. It evolved from the original character 止 (zhǐ, 'stop'), which had a similar depiction of a footprint in the oracle script.
-### 对(對)不( )起( ) → 起 → 走 → 止 → 龰 → 爪
-- **definition:** claw
-- **pinyin:** zhǎo
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a hand grabbing from above, resembles a claw ->
-    - stylized to represent claws
-  - **interpretation:** The character 爪 (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
-- **examples:**
-  - 猫(貓)的( )爪( )非( )常( )敏( )捷( )。
-    - Māo de zhǎo fēicháng mǐnjié.
-    - The cat's claws are very agile.
-  - 狗( )的( )爪( )稳(穩)固( )，使( )它( )轻(輕)松(鬆)爬( )山( )。
-    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
-    - The dog's claws are sturdy, allowing it to climb mountains easily.
-  - 鹰(鷹)的( )爪( )锋(鋒)利( )，能( )牢( )牢( )抓( )住( )猎(獵)物( )。
-    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
-    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 对(對)不( )起( ) → 起 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -12647,17 +12567,13 @@
 ### 是 → 正 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized foot with a footprint pointing up, originally meaning 'foot' ->
-    - stylized as 龰 ->
-    - derivative 趾 refers to original meaning
-  - **interpretation:** The character 龰 (yù, 'stylized feet') represents a footprint pointing upward, originally indicating the concept of a 'foot.' Over time, it became stylized into its current form. The character 趾 (zhǐ, 'toe'), which derives from the same idea, refers back to this original meaning. The depiction includes three toes and a sole similar to other characters representing human limbs with three parts, such as 爪 (zhǎo, 'claw') and 寸 (cùn, 'inch').
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu

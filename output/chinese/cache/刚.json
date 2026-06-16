@@ -5,16 +5,16 @@
   "english": "just now; only just; barely; firm; hard",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "岡(岡) (gāng, \"hill\") + 刀(刀) (dāo, \"knife\") = meaning of firmness due to sharpness → firm, hard",
-    "interpretation": "The character 剛 combines 岡(岡) (gāng, \"hill\"), which acts as the phonetic component, with 刀(刀) (dāo, \"knife\"), which serves the semantic role suggesting sharpness, strength or firmness. This pairing results in meanings of toughness and resilience, later extended to temporal nuances like \"just now\" or \"barely,\" reflecting the idea of 'immediate' or 'barely' completing with strength or emphasis.",
-    "simplification": "The traditional form 剛 was simplified to 刚 by replacing 岡(岡) (gāng, \"hill\") with its simplified form 冈(岡), maintaining the pronunciation but simplifying the stroke count."
+    "description": "phonetic 岡 (gāng) + semantic 刀 (knife) -> hard, firm",
+    "interpretation": "岡(岡) (gāng, 'mountain ridge') provides the sound, suggesting a firm or solid structure, with 刀(刀) (dāo, 'knife') indicating sharpness or firmness. Thus, 刚(剛) (gāng, 'firm') connotes hardness or strength, while the definite, exact nature of a firm edge lends to meanings of precise timing ('just now') and minimal sufficiency ('barely').",
+    "simplification": "剛(剛) (gāng, 'firm') was simplified to 刚(剛) by replacing the phonetic 岡(岡) (gāng, 'mountain ridge') with 冈(冈), retaining the knife radical 刀(刀)."
   },
   "parts": [
     {
       "char": "岡",
       "trad": "岡",
       "pinyin": "gāng",
-      "english": "hill"
+      "english": "mountain ridge"
     },
     {
       "char": "刀",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我刚吃完午饭(我剛吃完午飯)。",
-      "pinyin": "Wǒ gāng chī wán wǔfàn.",
-      "english": "I just finished lunch."
+      "chinese": "我刚吃完晚饭(我剛吃完晚飯)。",
+      "pinyin": "Wǒ gāng chī wán wǎnfàn.",
+      "english": "I just finished dinner."
     },
     {
-      "chinese": "他刚才出门(他剛才出門)，现在不在家(現在不在家)。",
-      "pinyin": "Tā gāngcái chūmén, xiànzài bù zài jiā.",
-      "english": "He just went out, and is not at home now."
+      "chinese": "他刚走进教室(他剛走進教室)，铃声就响了(鈴聲就響了)。",
+      "pinyin": "Tā gāng zǒu jìn jiàoshì, língshēng jiù xiǎng le.",
+      "english": "He just entered the classroom when the bell rang."
     },
     {
-      "chinese": "他们刚到这里(他們剛到這裡)，就开始下雨(就開始下雨)。",
-      "pinyin": "Tāmen gāng dào zhèlǐ, jiù kāishǐ xiàyǔ.",
-      "english": "They just arrived here, and it started to rain."
+      "chinese": "这个盒子很坚硬(這個盒子很堅硬)，像石头一样(像石頭一樣)。",
+      "pinyin": "Zhège hézi hěn jiānyìng, xiàng shítou yīyàng.",
+      "english": "This box is very hard, like a stone."
     }
   ]
 }

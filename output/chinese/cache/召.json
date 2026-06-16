@@ -2,11 +2,11 @@
   "simplified": "召",
   "traditional": "召",
   "pinyin": "zhào",
-  "english": "summon",
+  "english": "to summon; to call",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "刀(刀) (dāo, \"knife\") + 口(口) (kǒu, \"mouth\") = call out with one's mouth -> summon",
-    "interpretation": "Originally depicted hands over a wine vessel, symbolizing hospitality or serving wine, illustrating summoning guests. Later evolved to include 口(口) to emphasize calling out or summoning orally, while 刀(刀) serves as a phonetic marker.",
+    "description": "original hands over a wine vessel -> phonetic 刀 (dāo) + semantic 口 (kǒu, 'mouth') -> summon",
+    "interpretation": "Originally, 召 depicted hands over a wine vessel, linked to the practice of serving wine to guests. The character evolved by adding a phonetic component 刀(刀) (dāo) and a semantic component 口(口) (kǒu, 'mouth'). The mouth element implies calling out, and the knife contributes the zhào sound. The meaning extended to 'summoning' due to both calling out and the attentiveness required in serving. The concept of welcoming and calling guests informs its modern sense of summoning or calling.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "国王召集忠诚的骑士(國王召集忠誠的騎士)，前往讨论国事(前往討論國事)。",
-      "pinyin": "guówáng zhàojí zhōngchéng de qíshì, qiánwǎng tǎolùn guóshì.",
-      "english": "The king summons loyal knights, heading off to discuss state affairs."
+      "chinese": "国王召集大臣们商讨对策(國王召集大臣們商討對策)。",
+      "pinyin": "Guówáng zhàojí dàchénmen shāngtǎo duìcè.",
+      "english": "The king summoned the ministers to discuss strategies."
     },
     {
-      "chinese": "校长召见家长(校長召見家長)，讨论学生表现(討論學生表現)。",
-      "pinyin": "xiàozhǎng zhàojiàn jiāzhǎng, tǎolùn xuéshēng biǎoxiàn.",
-      "english": "The principal summons the parents to discuss the students' performance."
+      "chinese": "他被召回故乡接受新的任务(他被召回故鄉接受新的任務)。",
+      "pinyin": "Tā bèi zhào huí gùxiāng jiēshòu xīn de rènwù.",
+      "english": "He was called back to his hometown to accept a new assignment."
+    },
+    {
+      "chinese": "战争爆发后，军队迅速召集士兵(戰爭爆發後，軍隊迅速召集士兵)。",
+      "pinyin": "Zhànzhēng bàofā hòu, jūnduì xùnsù zhàojí shìbīng.",
+      "english": "After the outbreak of war, the army quickly summoned soldiers."
     }
   ]
 }

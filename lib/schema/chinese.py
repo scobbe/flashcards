@@ -55,12 +55,19 @@ INTERP_LENGTH_RULE = (
     "to 1-2 sentences. Be concise, never pad."
 )
 COVER_ALL_SENSES = (
-    "COVER EVERY SENSE: the Meaning often lists several senses (separated by ';' or ','). "
-    "Explain how the character connects to EACH sense, including derived, extended, and "
-    "phonetically-borrowed meanings — spell out the linking logic so no sense is left "
-    "unexplained. E.g. 息 (\"rest; interest; news\"): nose + heart = breathing -> rest; "
-    "what keeps growing like breath / money breeding money -> interest; a breath passed "
-    "along -> tidings -> news."
+    "COVER EVERY SENSE with its INTUITION: the Meaning often lists several senses "
+    "(separated by ';' or ','). For EACH sense give the concrete semantic bridge — the "
+    "specific intuition for HOW the core meaning leads to it, through the intermediate "
+    "concept. Naming the jump is NOT enough.\n"
+    "- BANNED vague connectors: 'later extended to', 'reflecting the idea of', 'relating "
+    "to', 'associated with', 'symbolizing' — state the actual conceptual link instead.\n"
+    "- E.g. 刚 (\"firm; just now; barely\"): a hard/firm edge is a DEFINITE, exact boundary "
+    "-> 'exactly, precisely' (刚好 'exactly right') -> right at the exact point in time = "
+    "'just now', and right at the exact threshold = 'barely/only just' (刚够 'just barely "
+    "enough').\n"
+    "- E.g. 息 (\"rest; interest; news\"): nose + heart = breathing -> rest; the steady "
+    "self-multiplying of breath, money breeding money -> interest; a breath passed from "
+    "mouth to mouth -> tidings -> news."
 )
 
 # Pin the gloss of commonly-mislabeled components so etymology text stays accurate.
@@ -138,9 +145,10 @@ CHINESE_PROMPT_FIELDS = [
                 'E.g. 日(日) (rì, "sun") depicts the sun',
                 'E.g. 水(水) (shuǐ, "water") depicts flowing water',
                 'E.g. 易(易) depicts a filled container (original form of 賜(賜) (cì, "bestow")) -> borrowed phonetically for "easy"',
-                'For COMPOUNDS: "A (meaning) + B (meaning) = explanation -> final meaning"',
-                'E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") = person leaning against tree -> rest',
-                'E.g. semantic: 氵(氵) (shuǐ, "water") + phonetic: 青(青) (qīng) = clear water -> clear',
+                'For IDEOGRAMMIC COMPOUNDS (both parts give meaning): "A (meaning) + B (meaning) = explanation -> final meaning". E.g. 人(人) (rén, "person") + 木(木) (mù, "tree") = person leaning against tree -> rest',
+                'For PHONO-SEMANTIC COMPOUNDS you MUST label each part\'s role as "semantic" or "phonetic": "semantic A (meaning) + phonetic B (sound) -> meaning". The phonetic part contributes ONLY the SOUND - do NOT build the meaning from it.',
+                'E.g. semantic 氵(氵) (shuǐ, "water") + phonetic 青(青) (qīng) = clear water -> clear',
+                'E.g. 召: semantic 口(口) (kǒu, "mouth") + phonetic 刀(刀) (dāo) -> a mouth calling out -> summon (刀 only supplies the zhāo sound, it is NOT "knife" here)',
                 'For COMPOUNDS with evolution in Wiktionary: show how character developed through stages',
                 'E.g. 貝(貝) (bèi, "cowry") + 又(又) (yòu, "hand") -> obtaining valuables -> 彳(彳) (chì, "step") added, 又 changed to 寸(寸) (cùn, "inch"), 貝 corrupted to 旦(旦) (dàn, "dawn") -> final form 得',
                 'For ANCIENT/RELATED FORMS: show historical relationship to contemporary form',
@@ -425,8 +433,11 @@ def is_cache_valid(cached_data: dict) -> bool:
         if cache_field and cache_field not in cached_data:
             return False
 
-    # Additional validation: examples must be non-empty
-    if not cached_data.get("examples"):
+    # Examples must be non-empty for CONTEMPORARY characters. Archaic/literary
+    # chars (in_contemporary_usage=False) legitimately have no examples — they
+    # are cached without them, so don't treat them as invalid or they would
+    # regenerate (non-deterministically) on every re-render and churn the diff.
+    if cached_data.get("in_contemporary_usage", True) and not cached_data.get("examples"):
         return False
 
     # Additional validation: traditional must be set
