@@ -1,0 +1,44 @@
+{
+  "simplified": "难",
+  "traditional": "難",
+  "pinyin": "nán",
+  "english": "difficult",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantically: 隹(隹) (zhuī, \"bird\") + abbreviated phonetic: 暵(暵) (xiàn, \"dry\") -> semantically refers to a type of bird, later phonetically borrowed for \"difficult\"",
+    "interpretation": "The character 难(難) (nán, \"difficult\") combines the semantic component 隹(隹) (zhuī, \"bird\"), originally depicting a type of bird, with the phonetic component 暵(暵) (xiàn, \"dry\"). It was later phonetically borrowed to represent 'difficult.'",
+    "simplification": "难(難): The traditional component 隹(隹) (zhuī, \"bird\") was replaced by 又(又) (yòu, \"again\"), simplifying the structure while retaining the phonetic."
+  },
+  "parts": [
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "bird"
+    },
+    {
+      "char": "暵",
+      "trad": "暵",
+      "pinyin": "xiàn",
+      "english": "dry"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学习新的语言对我来说很难(學習新的語言對我來說很難)。",
+      "pinyin": "Xuéxí xīn de yǔyán duì wǒ lái shuō hěn nán.",
+      "english": "Learning a new language is difficult for me."
+    },
+    {
+      "chinese": "这个数学题很难(這個數學題很難)，我花了两个小时才解出来(我花了兩個小時才解出來)。",
+      "pinyin": "Zhège shùxuétí hěn nán, wǒ huāle liǎng gè xiǎoshí cái jiě chūlái.",
+      "english": "This math problem is difficult; it took me two hours to solve it."
+    },
+    {
+      "chinese": "虽然任务很难(雖然任務很難)，但我们一定能完成(但我們一定能完成)。",
+      "pinyin": "Suīrán rènwù hěn nán, dàn wǒmen yīdìng néng wánchéng.",
+      "english": "Although the task is difficult, we will definitely complete it."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "旧梦",
+  "traditional": "舊夢",
+  "pinyin": "jiùmèng",
+  "english": "old dream; past experience",
+  "etymology": {
+    "type": "compound word",
+    "description": "舊(舊) (jiù, \"old\") + 夢(夢) (mèng, \"dream\")",
+    "interpretation": "舊夢(舊夢) (jiùmèng, \"old dream\") refers to a dream or experience from the past. This combination suggests the idea of reminiscing or recalling past experiences or memories, often with a sense of nostalgia or sentimentality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "旧",
+      "trad": "舊",
+      "pinyin": "jiù",
+      "english": "old; past; worn"
+    },
+    {
+      "char": "梦",
+      "trad": "夢",
+      "pinyin": "mèng",
+      "english": "dream; vision; illusion"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "每当我听到这首歌(每當我聽到這首歌)，就会想起那些旧梦(就會想起那些舊夢)。",
+      "pinyin": "Měidāng wǒ tīng dào zhè shǒu gē, jiù huì xiǎng qǐ nàxiē jiùmèng.",
+      "english": "Whenever I hear this song, I remember those old dreams."
+    },
+    {
+      "chinese": "旧梦重现时(舊夢重現時)，他的脸上露出了微笑(他的臉上露出了微笑)。",
+      "pinyin": "Jiùmèng chóngxiàn shí, tā de liǎn shàng lùchū le wēixiào.",
+      "english": "When old dreams reappeared, a smile appeared on his face."
+    },
+    {
+      "chinese": "她常常沉浸在旧梦中(她常常沉浸在舊夢中)，无法自拔(無法自拔)。",
+      "pinyin": "Tā chángcháng chénjìn zài jiùmèng zhōng, wúfǎ zìbá.",
+      "english": "She often gets lost in old dreams, unable to free herself."
+    }
+  ]
+}

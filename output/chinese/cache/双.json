@@ -1,0 +1,44 @@
+{
+  "simplified": "双",
+  "traditional": "雙",
+  "pinyin": "shuāng",
+  "english": "pair",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "雔 (two birds) + 又 (hand) -> Represents two birds in a hand",
+    "interpretation": "The character 雙 (shuāng, \"pair\") illustrates the concept by depicting two birds held together, symbolizing a pair, with a hand component indicating possession or holding. This construction conveys the idea of pairing or doubling.",
+    "simplification": "双 (simplified from 䨇, a variant of 雙) eliminated the bird component and uses abstract duplication with the character resembling hands, reflecting a simplified representation of a pair."
+  },
+  "parts": [
+    {
+      "char": "雔",
+      "trad": "雔",
+      "pinyin": "chóu",
+      "english": "two birds"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我买了一双鞋子(我買了一雙鞋子)。",
+      "pinyin": "Wǒ mǎile yī shuāng xiézi.",
+      "english": "I bought a pair of shoes."
+    },
+    {
+      "chinese": "这双筷子很漂亮(這雙筷子很漂亮)。",
+      "pinyin": "Zhè shuāng kuàizi hěn piàoliang.",
+      "english": "This pair of chopsticks is very beautiful."
+    },
+    {
+      "chinese": "他有一双聪明的眼睛(他有一雙聰明的眼睛)。",
+      "pinyin": "Tā yǒu yī shuāng cōngmíng de yǎnjīng.",
+      "english": "He has a pair of intelligent eyes."
+    }
+  ]
+}

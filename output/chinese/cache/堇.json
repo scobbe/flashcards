@@ -1,0 +1,28 @@
+{
+  "simplified": "堇",
+  "traditional": "堇",
+  "pinyin": "jǐn",
+  "english": "man burned alive",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "大(person) + 火(fire) = person burned in a sacrificial ceremony -> man burned alive",
+    "interpretation": "The character 堇(jǐn, 'man burned alive') combines the imagery of a person 大(dà, 'person') and fire 火(huǒ, 'fire'), illustrating a sacrificial context where a person is burned, historically associated with rituals to invoke rain.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "person"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

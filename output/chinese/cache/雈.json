@@ -2,21 +2,14 @@
   "simplified": "雈",
   "traditional": "雈",
   "pinyin": "huán",
-  "english": "phonetic distinction",
+  "english": "owl",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a representation; compare to 雚(雚) (guàn, \"heron\")",
-    "interpretation": "The character 雈 seems to represent something visually similar to or associated with 雚(雚) (guàn, \"heron\"), but its precise depiction or implications are less certain.",
+    "description": "Depicts an owl perched among reeds;",
+    "interpretation": "The character 雈 represents an owl and is visually similar to 雚(guàn, \"stork\"), albeit with a slightly different depiction focusing on an owl among vegetation. It is a pictogram emphasizing the appearance of owls in natural surroundings.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "雚",
-      "trad": "雚",
-      "pinyin": "guàn",
-      "english": "heron"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

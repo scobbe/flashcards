@@ -1,0 +1,44 @@
+{
+  "simplified": "进入",
+  "traditional": "進入",
+  "pinyin": "jìnrù",
+  "english": "enter; get into",
+  "etymology": {
+    "type": "compound word",
+    "description": "進(進) (jìn, \"to advance\") and 入(入) (rù, \"to enter\") together convey the action of moving into a space, hence the meaning \"enter\" or \"get into.\"",
+    "interpretation": "The term 進入(進入) (jìnrù, \"enter\") combines 進(進) (jìn, \"to advance\") with 入(入) (rù, \"to enter\") to express the concept of advancing into or entering a space. This captures the seamless transition from outside to inside, whether a physical place or a metaphorical context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "进",
+      "trad": "進",
+      "pinyin": "jìn",
+      "english": "to advance; to move forward"
+    },
+    {
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "to enter; to go into"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她进入房间(她進入房間)。",
+      "pinyin": "Tā jìnrù fángjiān.",
+      "english": "She entered the room."
+    },
+    {
+      "chinese": "太阳刚刚进入黄昏时(太陽剛剛進入黃昏時)，天空变得美丽无比(天空變得美麗無比)。",
+      "pinyin": "Tàiyáng gānggāng jìnrù huánghūn shí, tiānkōng biànde měilì wúbǐ.",
+      "english": "As the sun just entered the dusk, the sky became incredibly beautiful."
+    },
+    {
+      "chinese": "他进入了大学(他進入了大學)，开始他的学术旅程(開始他的學術旅程)。",
+      "pinyin": "Tā jìnrùle dàxué, kāishǐ tā de xuéshù lǚchéng.",
+      "english": "He entered the university, starting his academic journey."
+    }
+  ]
+}

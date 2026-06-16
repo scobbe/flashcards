@@ -1,0 +1,44 @@
+{
+  "simplified": "吏",
+  "traditional": "吏",
+  "pinyin": "lì",
+  "english": "official",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 又(又) (yòu, \"hand\") holding a stylized flag or stick",
+    "interpretation": "The character 吏(lì, \"official\") represents a hand holding a flag or stick, which is indicative of an official or ambassador role. It shares historical roots with 史(史) (shǐ, \"history\"), which originally depicted a similar figure. In 吏(lì), the stylized depiction of a tool in a hand signifies the function of an official or representative.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "史",
+      "trad": "史",
+      "pinyin": "shǐ",
+      "english": "history"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "古代的官吏(古代的官吏)负责管理地方事务(負責管理地方事務)。",
+      "pinyin": "Gǔdài de guānlì fùzé guǎnlǐ dìfāng shìwù.",
+      "english": "Officials in ancient times were responsible for managing local affairs."
+    },
+    {
+      "chinese": "这位吏员(這位吏員)在衙门工作(在衙門工作)。",
+      "pinyin": "Zhè wèi lì yuán zài yámén gōngzuò.",
+      "english": "This official works in the government office."
+    },
+    {
+      "chinese": "官吏的职责(官吏的職責)是为百姓服务(是為百姓服務)。",
+      "pinyin": "Guānlì de zhízé shì wèi bǎixìng fúwù.",
+      "english": "The duty of officials is to serve the people."
+    }
+  ]
+}

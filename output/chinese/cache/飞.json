@@ -1,0 +1,38 @@
+{
+  "simplified": "飞",
+  "traditional": "飛",
+  "pinyin": "fēi",
+  "english": "fly",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bird flying upwards -> modern form resembles a tasseled 升(升) (shēng, \"ascend\")",
+    "interpretation": "The traditional form 飛(fēi, \"fly\") originally depicted a bird ascending, capturing the essence of flight. This reflects its meaning as visualized through the image of the flying bird.",
+    "simplification": "The simplified form 飞(fēi, \"fly\") streamlines the depiction by reducing the strokes of the flying bird while still capturing the essence of flight to convey its meaning."
+  },
+  "parts": [
+    {
+      "char": "升",
+      "trad": "升",
+      "pinyin": "shēng",
+      "english": "ascend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "鸟在天空中飞翔(鳥在天空中飛翔)。",
+      "pinyin": "Niǎo zài tiānkōng zhōng fēixiáng.",
+      "english": "The bird is flying in the sky."
+    },
+    {
+      "chinese": "他梦想着有一天能飞上蓝天(他夢想著有一天能飛上藍天)。",
+      "pinyin": "Tā mèngxiǎngzhe yǒu yītiān néng fēi shàng lántiān.",
+      "english": "He dreams of flying up to the blue sky one day."
+    },
+    {
+      "chinese": "飞机在云层间快速飞行(飛機在雲層間快速飛行)。",
+      "pinyin": "Fēijī zài yúncéng jiān kuàisù fēixíng.",
+      "english": "The plane flies quickly between the clouds."
+    }
+  ]
+}

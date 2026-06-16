@@ -1,0 +1,44 @@
+{
+  "simplified": "有时",
+  "traditional": "有時",
+  "pinyin": "yǒushí",
+  "english": "sometimes",
+  "etymology": {
+    "type": "compound word",
+    "description": "有(有) (yǒu, \"have; there is\") and 时(時) (shí, \"time\") combine to describe an occurrence that happens occasionally by having certain times or instances.",
+    "interpretation": "The combination of 有(有) (yǒu, \"have; there is\") and 时(時) (shí, \"time\") conceptualizes the idea of having certain times, which translates to the occasional or non-regular occurrence of something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "有",
+      "trad": "有",
+      "pinyin": "yǒu",
+      "english": "have; there is"
+    },
+    {
+      "char": "时",
+      "trad": "時",
+      "pinyin": "shí",
+      "english": "time; o'clock; when; hour"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "有时(有時)天气很热。",
+      "pinyin": "Yǒushí tiānqì hěn rè.",
+      "english": "Sometimes the weather is very hot."
+    },
+    {
+      "chinese": "他有时(他有時)会在早上跑步(會在早上跑步)。",
+      "pinyin": "Tā yǒushí huì zài zǎoshang pǎobù.",
+      "english": "He sometimes goes running in the morning."
+    },
+    {
+      "chinese": "我有时(我有時)在周末去看电影(在周末去看電影)。",
+      "pinyin": "Wǒ yǒushí zài zhōumò qù kàn diànyǐng.",
+      "english": "I sometimes go to watch movies on weekends."
+    }
+  ]
+}

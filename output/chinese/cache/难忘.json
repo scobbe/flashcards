@@ -1,0 +1,44 @@
+{
+  "simplified": "难忘",
+  "traditional": "難忘",
+  "pinyin": "nánwàng",
+  "english": "unforgettable; memorable",
+  "etymology": {
+    "type": "compound word",
+    "description": "難(難) (nán, \"difficult\") + 忘(忘) (wàng, \"forget\") = hard to forget -> unforgettable",
+    "interpretation": "The word 難忘(難忘) (nánwàng, \"unforgettable\") combines 難(難) (nán, \"difficult\") and 忘(忘) (wàng, \"forget\") to describe something that leaves a strong impression, making it difficult to erase from memory.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "难",
+      "trad": "難",
+      "pinyin": "nán",
+      "english": "difficult"
+    },
+    {
+      "char": "忘",
+      "trad": "忘",
+      "pinyin": "wàng",
+      "english": "forget"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这次旅行非常难忘(這次旅行非常難忘)。",
+      "pinyin": "Zhè cì lǚxíng fēicháng nánwàng.",
+      "english": "This trip was unforgettable."
+    },
+    {
+      "chinese": "他给我留下了难忘的印象(他給我留下了難忘的印象)。",
+      "pinyin": "Tā gěi wǒ liúxiàle nánwàng de yìnxiàng.",
+      "english": "He left me with an unforgettable impression."
+    },
+    {
+      "chinese": "毕业典礼是一个难忘的时刻(畢業典禮是一個難忘的時刻)。",
+      "pinyin": "Bìyè diǎnlǐ shì yīgè nánwàng de shíkè.",
+      "english": "The graduation ceremony was a memorable moment."
+    }
+  ]
+}

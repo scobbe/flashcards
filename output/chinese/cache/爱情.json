@@ -1,0 +1,44 @@
+{
+  "simplified": "爱情",
+  "traditional": "愛情",
+  "pinyin": "àiqíng",
+  "english": "love (between a man and a woman)",
+  "etymology": {
+    "type": "compound word",
+    "description": "愛(愛) (ài, \"love\") refers to a deep affection or attachment, often in a romantic sense, and 情(情) (qíng, \"emotion; feeling\") encompasses feelings and emotions. Combined, 愛情(愛情) (àiqíng, \"love\") specifically denotes the romantic love between individuals.",
+    "interpretation": "The combination of 愛(愛) (ài, \"love\") and 情(情) (qíng, \"emotion; feeling\") makes sense as it captures the essence of romantic love, which is both an emotion and an expression of deep affection.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "爱",
+      "trad": "愛",
+      "pinyin": "ài",
+      "english": "love"
+    },
+    {
+      "char": "情",
+      "trad": "情",
+      "pinyin": "qíng",
+      "english": "emotion; feeling"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们的爱情故事让人感动(他們的愛情故事讓人感動)。",
+      "pinyin": "Tāmen de àiqíng gùshì ràng rén gǎndòng.",
+      "english": "Their love story is touching."
+    },
+    {
+      "chinese": "爱情需要时间来培养(愛情需要時間來培養)。",
+      "pinyin": "Àiqíng xūyào shíjiān lái péiyǎng.",
+      "english": "Love needs time to grow."
+    },
+    {
+      "chinese": "她相信爱情能改变一切(她相信愛情能改變一切)。",
+      "pinyin": "Tā xiāngxìn àiqíng néng gǎibiàn yīqiè.",
+      "english": "She believes love can change everything."
+    }
+  ]
+}

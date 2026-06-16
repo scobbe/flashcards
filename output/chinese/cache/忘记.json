@@ -1,0 +1,44 @@
+{
+  "simplified": "忘记",
+  "traditional": "忘記",
+  "pinyin": "wàngjì",
+  "english": "forget",
+  "etymology": {
+    "type": "compound word",
+    "description": "忘(忘) (wàng, \"forget\") suggests the act of losing memory or failing to remember something. 記(記) (jì, \"remember\") contrasts with 忘(忘) (wàng, \"forget\") by indicating the act of keeping information in mind.",
+    "interpretation": "In Chinese, 忘記(忘記) (wàngjì, \"forget\") combines 忘(忘) (wàng, \"forget\") and 記(記) (jì, \"remember\") to denote the act of failing to retain or recall information. The pairing emphasizes the idea of letting go of what is or should be remembered.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "忘",
+      "trad": "忘",
+      "pinyin": "wàng",
+      "english": "forget; lose"
+    },
+    {
+      "char": "记",
+      "trad": "記",
+      "pinyin": "jì",
+      "english": "remember; record"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我总是忘记带钥匙(我總是忘記帶鑰匙)。",
+      "pinyin": "Wǒ zǒng shì wàngjì dài yàoshi.",
+      "english": "I always forget to bring keys."
+    },
+    {
+      "chinese": "他常常忘记吃药(他常常忘記吃藥)。",
+      "pinyin": "Tā chángcháng wàngjì chī yào.",
+      "english": "He often forgets to take his medicine."
+    },
+    {
+      "chinese": "请不要忘记这次会议(請不要忘記這次會議)。",
+      "pinyin": "Qǐng bùyào wàngjì zhè cì huìyì.",
+      "english": "Please don't forget this meeting."
+    }
+  ]
+}

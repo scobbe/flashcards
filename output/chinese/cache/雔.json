@@ -1,0 +1,22 @@
+{
+  "simplified": "雔",
+  "traditional": "雔",
+  "pinyin": "chóu",
+  "english": "two birds",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "隹(隹) (zhuī, \"short-tailed bird\") duplicated = two birds",
+    "interpretation": "The character 雔 (chóu) visually represents two birds, emphasizing a pair or duplication, with both birds depicted facing each other.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tailed bird"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

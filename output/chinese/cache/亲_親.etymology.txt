@@ -1,0 +1,5 @@
+[亲] simplified and variant form of 親.
+
+[親]
+Bronze script: phono-semantic compound ( 形聲 / 形声 , OC *sʰin, *sʰins ): phonetic 辛 ( OC *siŋ ) + semantic 見 ( “ see ” ) .
+Seal script: phono-semantic compound ( 形聲 / 形声 , OC *sʰin, *sʰins ): phonetic 𣓀 + semantic 見 ( “ see ” ) . The left part (a chisel with a tree at the bottom to indicate "hazelnut branch" used as a whip) was then stylized as 亲, which originally is a variant of 辛, the chisel.

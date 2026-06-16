@@ -1,0 +1,50 @@
+{
+  "simplified": "爱",
+  "traditional": "愛",
+  "pinyin": "ài",
+  "english": "love",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "旡(旡) (phonetic) + 心(心) (semantic, 'heart') -> 夊(夊) ('foot') added for depiction of person -> corrupted to 爫冖",
+    "interpretation": "The character 愛(愛) (ài, 'love') combines the semantic component 心(心) (xīn, 'heart') with the phonetic component 旡(旡), representing feelings from the heart. The 夊(夊) ('foot') was later added, reflecting a common stylistic practice adding human elements, turning the original form into 𢙴 and evolving further into the current form.",
+    "simplification": "The traditional component 爫(爪) ('claw') with 冖(冖) ('cover') was simplified in 爱(愛) by replacing 爫冖 with 友(友) (yǒu, 'friend')."
+  },
+  "parts": [
+    {
+      "char": "旡",
+      "trad": "旡",
+      "pinyin": "jì",
+      "english": "inhale"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "foot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱我的家人(我愛我的家人)。",
+      "pinyin": "Wǒ ài wǒ de jiārén.",
+      "english": "I love my family."
+    },
+    {
+      "chinese": "爱是一种美好的情感(愛是一種美好的情感)。",
+      "pinyin": "Ài shì yī zhǒng měihǎo de qínggǎn.",
+      "english": "Love is a beautiful emotion."
+    },
+    {
+      "chinese": "她总是用心去爱身边的人(她總是用心去愛身邊的人)。",
+      "pinyin": "Tā zǒngshì yòng xīn qù ài shēnbiān de rén.",
+      "english": "She always loves the people around her wholeheartedly."
+    }
+  ]
+}

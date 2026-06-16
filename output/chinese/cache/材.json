@@ -1,0 +1,44 @@
+{
+  "simplified": "材",
+  "traditional": "材",
+  "pinyin": "cái",
+  "english": "material; timber",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"tree\") + 才(才) (cái, \"talent\") = tree-related material",
+    "interpretation": "The character 材(cái, \"material; timber\") combines 木(木) (mù, \"tree\"), which imparts the semantic element of wood or tree-related material, with 才(才) (cái, \"talent\") serving as the phonetic component, indicating pronunciation. This pairing signifies wood or materials derived from trees, hence \"material\" or \"timber.\"",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "才",
+      "trad": "才",
+      "pinyin": "cái",
+      "english": "talent"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这张桌子是用优质木材制作的(這張桌子是用優質木材製作的)。",
+      "pinyin": "Zhè zhāng zhuōzi shì yòng yōuzhì mùcái zhìzuò de.",
+      "english": "This table is made of high-quality wood."
+    },
+    {
+      "chinese": "建筑工人正在运送建筑材料(建築工人在運送建築材料)。",
+      "pinyin": "Jiànzhù gōngrén zhèngzài yùnsòng jiànzhù cáiliào.",
+      "english": "The construction workers are transporting building materials."
+    },
+    {
+      "chinese": "为了完成这个项目(為了完成這個項目)，我们需要更多的材料(我們需要更多的材料)。",
+      "pinyin": "Wèile wánchéng zhège xiàngmù, wǒmen xūyào gèng duō de cáiliào.",
+      "english": "To complete this project, we need more materials."
+    }
+  ]
+}

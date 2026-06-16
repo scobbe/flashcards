@@ -1,0 +1,44 @@
+{
+  "simplified": "使",
+  "traditional": "使",
+  "pinyin": "shǐ",
+  "english": "cause; send; enable",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") as semantic + 吏(吏) (lì, \"official\") as phonetic -> causing or enabling something as an official or representative action",
+    "interpretation": "The character 使(使) (shǐ, \"cause; send; enable\") combines the semantic component 亻(亻) (rén, \"person\"), implying an action performed by a person, with the phonetic component 吏(吏) (lì, \"official\"), which represents a hand holding a representative object. This combination suggests the meaning of sending or enabling as carried out by an ambassador or representative.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "吏",
+      "trad": "吏",
+      "pinyin": "lì",
+      "english": "official"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种药使他的病情好转(這種藥使他的病情好轉)。",
+      "pinyin": "Zhè zhǒng yào shǐ tā de bìngqíng hǎozhuǎn.",
+      "english": "This medicine caused his condition to improve."
+    },
+    {
+      "chinese": "父亲使我去城里买东西(父親使我去城里買東西)。",
+      "pinyin": "Fùqīn shǐ wǒ qù chéng lǐ mǎi dōngxi.",
+      "english": "Father sent me to the city to buy things."
+    },
+    {
+      "chinese": "新的法律使公司必须遵循更严格的标准(新的法律使公司必須遵循更嚴格的標準)。",
+      "pinyin": "Xīn de fǎlǜ shǐ gōngsī bìxū zūnxún gèng yángé de biāozhǔn.",
+      "english": "The new law requires companies to adhere to stricter standards."
+    }
+  ]
+}

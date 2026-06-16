@@ -1,0 +1,44 @@
+{
+  "simplified": "进",
+  "traditional": "進",
+  "pinyin": "jìn",
+  "english": "to advance; to move forward",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "辵(辵) ('walk/movement') + 隹(隹) (zhuī, 'short-tail bird') = a bird that can only move forward",
+    "interpretation": "The character 進(進) (jìn, 'to advance') combines the idea of movement with the imagery of a bird, symbolizing forward movement, as the bird naturally progresses forward on foot.",
+    "simplification": "進(進) was simplified to 进(進) by replacing the phonetic component 隹(隹) (zhuī, 'short-tail bird') with 井(井) (jǐng, 'well') to reduce strokes."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk; movement"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "short-tail bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他决定继续努力(他決定繼續努力)，以便在职业生涯中进步(以便在職業生涯中進步)。",
+      "pinyin": "Tā juédìng jìxù nǔlì, yǐbiàn zài zhíyè shēngyá zhōng jìnbù.",
+      "english": "He decided to keep working hard in order to advance in his career."
+    },
+    {
+      "chinese": "在我们进入隧道时(在我們進入隧道時)，速度变得越来越快(速度變得越來越快)。",
+      "pinyin": "Zài wǒmen jìnrù suìdào shí, sùdù biàn de yuè lái yuè kuài.",
+      "english": "As we entered the tunnel, the speed became faster and faster."
+    },
+    {
+      "chinese": "大门刚一打开(大門剛一打開)，他就立刻走了进去(他就立刻走了進去)。",
+      "pinyin": "Dàmén gāng yī dǎkāi, tā jiù lìkè zǒu le jìnqù.",
+      "english": "As soon as the door opened, he immediately walked in."
+    }
+  ]
+}

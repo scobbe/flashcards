@@ -1,0 +1,44 @@
+{
+  "simplified": "同事",
+  "traditional": "同事",
+  "pinyin": "tóngshì",
+  "english": "colleague",
+  "etymology": {
+    "type": "compound word",
+    "description": "同(同) (tóng, \"same\") + 事(事) (shì, \"business; affair; work\") = people engaged in the same work or business -> colleague",
+    "interpretation": "A 同事(同事) (tóngshì, \"colleague\") is someone who shares the same work environment or responsibilities, highlighting the companionship and cooperation in professional settings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "同",
+      "trad": "同",
+      "pinyin": "tóng",
+      "english": "same; together; with"
+    },
+    {
+      "char": "事",
+      "trad": "事",
+      "pinyin": "shì",
+      "english": "business; affair; work; matter"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的同事今天在开会(我的同事今天在開會)。",
+      "pinyin": "Wǒ de tóngshì jīntiān zài kāihuì.",
+      "english": "My colleague is attending a meeting today."
+    },
+    {
+      "chinese": "我们常常和同事一起吃午餐(我們常常和同事一起吃午餐)。",
+      "pinyin": "Wǒmen chángcháng hé tóngshì yīqǐ chī wǔcān.",
+      "english": "We often have lunch together with colleagues."
+    },
+    {
+      "chinese": "他是我最喜欢的同事(他是我最喜歡的同事)。",
+      "pinyin": "Tā shì wǒ zuì xǐhuān de tóngshì.",
+      "english": "He is my favorite colleague."
+    }
+  ]
+}

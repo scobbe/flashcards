@@ -1,0 +1,6 @@
+[材]
+Phono-semantic compound ( 形聲 / 形声 , OC *zlɯː ): semantic 木 + phonetic 才 ( OC *zlɯː, *zlɯːs ) .
+
+[村]
+Phono-semantic compound ( 形聲 / 形声 , OC *sʰuːn ): semantic 木 ( “ tree ” ) + phonetic 寸 ( OC *sʰuːns ) .
+Origin unclear. Seems a late graph, not in Shuowen dictionary of ca.100AD. Ogawa treats it as variant of CO graph 杶 "lacquer tree" which was used phonetically in the sense of "village" in place of another graph for "village", 邨 , which may be taken provisionally as 阝 "settlement, village", and 屯 "accumulate, stay" as semantic and phonetic. [ 1 ]

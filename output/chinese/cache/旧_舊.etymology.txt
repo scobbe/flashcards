@@ -1,0 +1,7 @@
+[旧]
+Variant of 臼 .
+The reformative usage in simplified Chinese and Japanese that replaced 舊 can be analysed either as from an elimination of 雈 with glyphic alteration from 臼 to 旧 or as using a homophonic character.
+
+[舊]
+Phono-semantic compound ( 形聲 / 形声 , OC *ɡʷɯs ): semantic 雈 ( “ owl ” ) + phonetic 臼 ( OC *ɡuʔ ) .
+Originally refers to a type of owl; later phonetically borrowed for a homophonous word meaning "old." The upper portion frequently appears as 萑 (a type of grass).

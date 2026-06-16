@@ -2,21 +2,14 @@
   "simplified": "旡",
   "traditional": "旡",
   "pinyin": "jì",
-  "english": "partial phonetic",
+  "english": "inhale",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a kneeling figure turning around with mouth open -> original form 㒫 -> stylized as 欠(欠) (qiàn, \"yawn\") showing a front-facing mouth",
-    "interpretation": "The character 旡(jì), a pictogram, represents a kneeling figure turning away with their mouth open, emphasizing the act of pausing or ceasing, akin to stopping speech or action. This depiction connects to the idea of turning away or abstaining from further action. Its structure is related to 欠(欠) (qiàn, \"yawn\"), which also features a figure with an open mouth, although facing forward, suggesting a common theme of cessation or incompletion.",
+    "description": "Depicts a kneeling figure turning around with mouth open",
+    "interpretation": "The character 旡(jì, \"inhale\") visually represents a person kneeling with their mouth open as if inhaling or turning. This pictorial form is related to the idea of consuming or taking in something, which aligns with its meaning. The ancient version of this character is 㒫, showing a more explicit resemblance to its intended depiction.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "欠",
-      "trad": "欠",
-      "pinyin": "qiàn",
-      "english": "yawn"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

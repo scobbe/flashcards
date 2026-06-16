@@ -1,0 +1,44 @@
+{
+  "simplified": "打",
+  "traditional": "打",
+  "pinyin": "dǎ",
+  "english": "hit; make; break; strike",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "扌(扌) (shǒu, \"hand\") + 丁(丁) (dīng) = action involving the hand with a phonetic element -> to hit or strike",
+    "interpretation": "The character 打(dǎ) combines the semantic element \"hand\" 扌, suggesting an action performed by hand, with the phonetic element 丁(dīng), which indicates the pronunciation. This composition reflects the basic meaning of 'to hit' or 'strike'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "扌",
+      "trad": "扌",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "丁",
+      "trad": "丁",
+      "pinyin": "dīng",
+      "english": "fourth; robust"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在运动会上打破了世界纪录(他在運動會上打破了世界紀錄)。",
+      "pinyin": "Tā zài yùndònghuì shàng dǎpòle shìjiè jìlù.",
+      "english": "He broke the world record at the sports meet."
+    },
+    {
+      "chinese": "我打电话给朋友(我打電話給朋友)。",
+      "pinyin": "Wǒ dǎ diànhuà gěi péngyǒu.",
+      "english": "I am calling a friend."
+    },
+    {
+      "chinese": "他们喜欢在空地上打篮球(他們喜歡在空地上打籃球)。",
+      "pinyin": "Tāmen xǐhuān zài kòngdì shàng dǎ lánqiú.",
+      "english": "They like to play basketball on the open ground."
+    }
+  ]
+}

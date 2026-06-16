@@ -1,0 +1,50 @@
+{
+  "simplified": "使劲儿",
+  "traditional": "使勁兒",
+  "pinyin": "shǐ jìnr",
+  "english": "exert oneself (physically)",
+  "etymology": {
+    "type": "compound word",
+    "description": "使(使) (shǐ, \"cause or send\") is a verb meaning 'to cause' or 'send', often used to denote initiating an action. 勁(勁) (jìn, \"strength\") refers to physical strength or energy. 兒(兒) (ér, \"child; diminutive or nominal suffix\") is a common suffix in Chinese, often used in northern dialects to denote the diminutive or a casual tone.",
+    "interpretation": "The phrase 使劲儿(使勁兒) (shǐ jìnr) translates to 'exert oneself' by combining the notion of causing or using 使(使) (shǐ, 'cause or send') with 勁(勁) (jìn, 'strength'), implying putting forth effort or using one's full strength. The added 兒(兒) (ér) gives it a casual or colloquial tone. Commonly used in contexts requiring physical exertion.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "使",
+      "trad": "使",
+      "pinyin": "shǐ",
+      "english": "cause; send; enable"
+    },
+    {
+      "char": "劲",
+      "trad": "勁",
+      "pinyin": "jìn",
+      "english": "strength; energy; enthusiasm"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child; diminutive; nominal suffix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他使劲儿推门(他使勁兒推門)。",
+      "pinyin": "Tā shǐ jìnr tuī mén.",
+      "english": "He exerted himself to push the door."
+    },
+    {
+      "chinese": "请使劲儿拉绳子(請使勁兒拉繩子)。",
+      "pinyin": "Qǐng shǐ jìnr lā shéngzi.",
+      "english": "Please pull the rope with all your strength."
+    },
+    {
+      "chinese": "他使劲儿地跑(他使勁兒地跑)，但还是迟到了(但還是遲到了)。",
+      "pinyin": "Tā shǐ jìnr de pǎo, dàn háishì chídào le.",
+      "english": "He ran with all his might, but he was still late."
+    }
+  ]
+}

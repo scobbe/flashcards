@@ -1,0 +1,38 @@
+{
+  "simplified": "絲",
+  "traditional": "絲",
+  "pinyin": "sī",
+  "english": "silk; thread",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "糸(糸) (sī, “silk; thread”) + 糸(糸) (sī, “silk; thread”) = two threads -> silk",
+    "interpretation": "The character 絲(絲) (sī, \"silk; thread\") represents the concept of silk or thread through the duplication of the 糸(糸) (sī, \"silk; thread\") radical, emphasizing the intertwining and abundant nature of silk threads.",
+    "simplification": "絲 was simplified to 𢇁 by combining two instances of 糸(糸) into a single component that was later simplified to 丝, maintaining the resemblance to thread while reducing strokes."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk; thread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条裙子是用最好的丝制作的(這條裙子是用最好的絲製作的)。",
+      "pinyin": "Zhè tiáo qúnzi shì yòng zuì hǎo de sī zhìzuò de.",
+      "english": "This skirt is made of the finest silk."
+    },
+    {
+      "chinese": "她的头发像丝一样柔顺(她的頭髮像絲一樣柔順)。",
+      "pinyin": "Tā de tóufà xiàng sī yīyàng róushùn.",
+      "english": "Her hair is as smooth as silk."
+    },
+    {
+      "chinese": "那幅画上有几根细细的丝线(那幅畫上有幾根細細的絲線)。",
+      "pinyin": "Nà fú huà shàng yǒu jǐ gēn xìxì de sīxiàn.",
+      "english": "There are a few fine threads on that painting."
+    }
+  ]
+}

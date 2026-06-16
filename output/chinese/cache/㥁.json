@@ -1,0 +1,40 @@
+{
+  "simplified": "㥁",
+  "traditional": "㥁",
+  "pinyin": "unknown",
+  "english": "unknown",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Semantic 彳(彳) (chì, \"step\") + Phonetic 惪(惪) (dé, \"virtue\") -> 𢛳(𢛳) corrupted to create 㥁 -> Variant of 德(德) (dé, \"virtue\")",
+    "interpretation": "The character 㥁 is a variant form of 德(德) (dé, \"virtue\"), using the road/step component 彳(彳) (chì) alongside a corrupted phonetic representation of 惪(惪). The variant form was affected by historical character reforms and variants.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "惪",
+      "trad": "惪",
+      "pinyin": "dé",
+      "english": "virtue"
+    },
+    {
+      "char": "𢛳",
+      "trad": "𢛳",
+      "pinyin": "unknown",
+      "english": "unknown"
+    },
+    {
+      "char": "德",
+      "trad": "德",
+      "pinyin": "dé",
+      "english": "virtue"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "昭",
+  "traditional": "昭",
+  "pinyin": "zhāo",
+  "english": "clear, bright",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 日(日) (rì, \"sun\") + phonetic: 召(召) (zhào, \"summon\") -> clear, bright",
+    "interpretation": "The character 昭(昭) (zhāo, \"clear, bright\") combines 日(日) (rì, \"sun\"), suggesting clarity or brightness, with 召(召) (zhào, \"summon\"), providing the phonetic component. The sun's light is often associated with clarity and brightness.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "召",
+      "trad": "召",
+      "pinyin": "zhào",
+      "english": "summon"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的意图非常昭然若揭(他的意圖非常昭然若揭)。",
+      "pinyin": "Tā de yìtú fēicháng zhāorán ruò jiē.",
+      "english": "His intentions were very clear and obvious."
+    },
+    {
+      "chinese": "阳光照耀使一切变得清晰明了(陽光照耀使一切變得清晰明了)。",
+      "pinyin": "Yángguāng zhàoyào shǐ yīqiè biàn de qīngxī míngliǎo.",
+      "english": "The sunlight made everything clear and bright."
+    },
+    {
+      "chinese": "这段历史在书中被描述得非常昭明(這段歷史在書中被描述得非常昭明)。",
+      "pinyin": "Zhè duàn lìshǐ zài shū zhōng bèi miáoshù de fēicháng zhāomíng.",
+      "english": "This part of history is described very clearly in the book."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "一生",
+  "traditional": "一生",
+  "pinyin": "yìshēng",
+  "english": "all one's life; a lifetime",
+  "etymology": {
+    "type": "compound word",
+    "description": "一(一) (yī, \"one\") + 生(生) (shēng, \"life\") = all one's life or a lifetime, referring to the entirety of a person's life.",
+    "interpretation": "The word 一生 (yìshēng) conveys the concept of a singular, continuous span of life. By combining 一(一) (yī, \"one\") and 生(生) (shēng, \"life\"), it symbolizes the whole duration from birth to death as a single unit.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "生",
+      "trad": "生",
+      "pinyin": "shēng",
+      "english": "life; birth; grow; raw"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他一生都在追求艺术的完美(他一生都在追求藝術的完美)。",
+      "pinyin": "Tā yìshēng dōu zài zhuīqiú yìshù de wánměi.",
+      "english": "He spent his entire life pursuing artistic perfection."
+    },
+    {
+      "chinese": "小明希望能一生幸福(小明希望能一生幸福)。",
+      "pinyin": "Xiǎomíng xīwàng néng yìshēng xìngfú.",
+      "english": "Xiaoming hopes to have a lifetime of happiness."
+    },
+    {
+      "chinese": "她的一生充满了冒险和挑战(她的一生充滿了冒險和挑戰)。",
+      "pinyin": "Tā de yìshēng chōngmǎnle màoxiǎn hé tiǎozhàn.",
+      "english": "Her life was full of adventures and challenges."
+    }
+  ]
+}

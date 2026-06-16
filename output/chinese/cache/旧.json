@@ -1,0 +1,44 @@
+{
+  "simplified": "旧",
+  "traditional": "舊",
+  "pinyin": "jiù",
+  "english": "old; past; worn",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic: 雈 (\"owl\") + phonetic: 臼 (jiù, \"mortar\") -> originally owl -> borrowed for \"old\"",
+    "interpretation": "舊 originally depicted an owl using 雈, with 臼 providing the phonetic element. It was later borrowed for its phonetic sound to represent the meaning 'old' instead. The owl meaning became obsolete as the character evolved.",
+    "simplification": "舊(舊) was simplified to 旧(舊) by removing the 雈 element and altering 臼 to 旧. This simplification used a homophonic character to maintain the pronunciation while reducing complexity."
+  },
+  "parts": [
+    {
+      "char": "雈",
+      "trad": "雈",
+      "pinyin": "huán",
+      "english": "owl"
+    },
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "mortar"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有一辆旧自行车(我有一輛舊自行車)。",
+      "pinyin": "Wǒ yǒu yī liàng jiù zìxíngchē.",
+      "english": "I have an old bicycle."
+    },
+    {
+      "chinese": "这个旧房子非常有历史(這個舊房子非常有歷史)。",
+      "pinyin": "Zhège jiù fángzi fēicháng yǒu lìshǐ.",
+      "english": "This old house is very historical."
+    },
+    {
+      "chinese": "他常常怀念旧时光(他常常懷念舊時光)。",
+      "pinyin": "Tā chángcháng huáiniàn jiù shíguāng.",
+      "english": "He often reminisces about the old days."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "闭",
+  "traditional": "閉",
+  "pinyin": "bì",
+  "english": "shut; close",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "門(門) (mén, \"door\") + abbreviated 材(材) (cái, \"material; timber\") = a door with material blocking it -> shut; close",
+    "interpretation": "The character depicts a door being obstructed by some material, symbolizing the act of shutting or closing it.",
+    "simplification": "The traditional form 閉(閉) was simplified by reducing 門(門) (mén, \"door\") to 门(门) in the simplified character 闭(闭)."
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door"
+    },
+    {
+      "char": "材",
+      "trad": "材",
+      "pinyin": "cái",
+      "english": "material; timber"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请把门闭上(請把門閉上)。",
+      "pinyin": "Qǐng bǎ mén bì shàng.",
+      "english": "Please shut the door."
+    },
+    {
+      "chinese": "他闭了一只眼睛(他閉了一隻眼睛)，假装在睡觉(假裝在睡覺)。",
+      "pinyin": "Tā bìle yī zhī yǎnjīng, jiǎzhuāng zài shuìjiào.",
+      "english": "He closed one eye, pretending to sleep."
+    },
+    {
+      "chinese": "这个窗户很难闭上(這個窗戶很難閉上)，你需要用点力气(你需要用點力氣)。",
+      "pinyin": "Zhège chuānghù hěn nán bì shàng, nǐ xūyào yòng diǎn lìqi.",
+      "english": "This window is hard to close; you need to use some force."
+    }
+  ]
+}

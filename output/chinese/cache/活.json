@@ -1,0 +1,44 @@
+{
+  "simplified": "活",
+  "traditional": "活",
+  "pinyin": "huó",
+  "english": "live; be alive",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水, \"water\") + 𠯑 (phonetic) transformed to 舌(舌, \"tongue\") = life-giving water -> live; be alive",
+    "interpretation": "The character 活 (huó, \"live; be alive\") symbolizes the essential role of water 氵(水) in sustaining life, enhanced by the phonetic component initially represented by 𠯑 but later transformed into 舌(舌, \"tongue\"). This reflects how water is crucial for vitality and life.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他活得很快乐(他活得很快樂)。",
+      "pinyin": "Tā huó de hěn kuàilè.",
+      "english": "He lives very happily."
+    },
+    {
+      "chinese": "人们需要水才能活(人們需要水才能活)。",
+      "pinyin": "Rénmen xūyào shuǐ cáinéng huó.",
+      "english": "People need water to live."
+    },
+    {
+      "chinese": "如果努力工作(如果努力工作)，我们会活得更好(我們會活得更好)。",
+      "pinyin": "Rúguǒ nǔlì gōngzuò, wǒmen huì huó de gèng hǎo.",
+      "english": "If we work hard, we will live better."
+    }
+  ]
+}

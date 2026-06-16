@@ -1,0 +1,44 @@
+{
+  "simplified": "照",
+  "traditional": "照",
+  "pinyin": "zhào",
+  "english": "illuminate; shine; reflect; take (photo)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 灬 (\"fire\") + phonetic 昭 (zhāo, \"clear, bright\") = illuminate",
+    "interpretation": "The character 照 (zhào) combines 灬, representing \"fire,\" with 昭 (zhāo, \"clear, bright\") as the phonetic, conveying the idea of something being illuminated or shining clearly, paralleling the bright qualities of fire.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "灬",
+      "trad": "灬",
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    {
+      "char": "昭",
+      "trad": "昭",
+      "pinyin": "zhāo",
+      "english": "clear, bright"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "太阳照在海面上(太陽照在海面上)。",
+      "pinyin": "Tàiyáng zhào zài hǎimiàn shàng.",
+      "english": "The sun shines on the surface of the sea."
+    },
+    {
+      "chinese": "他喜欢照相(他喜歡照相)。",
+      "pinyin": "Tā xǐhuān zhàoxiàng.",
+      "english": "He likes to take photographs."
+    },
+    {
+      "chinese": "镜子可以照出你的形象(鏡子可以照出你的形象)。",
+      "pinyin": "Jìngzi kěyǐ zhào chū nǐ de xíngxiàng.",
+      "english": "The mirror can reflect your image."
+    }
+  ]
+}

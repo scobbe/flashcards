@@ -1,0 +1,44 @@
+{
+  "simplified": "消息",
+  "traditional": "消息",
+  "pinyin": "xiāoxi",
+  "english": "news; information",
+  "etymology": {
+    "type": "compound word",
+    "description": "消(消) (xiāo, \"to disappear; to eliminate\") + 息(息) (xī, \"rest; interest; news\")",
+    "interpretation": "The word 消息(消息) (xiāoxi) combines 消(消) (xiāo, \"to disappear; to eliminate\") with 息(息) (xī, \"rest; interest; news\") to imply the concept of news or information as something that comes and goes, flows, or spreads, much like the elimination of silence with the arrival of sound or news.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "消",
+      "trad": "消",
+      "pinyin": "xiāo",
+      "english": "to disappear; to eliminate"
+    },
+    {
+      "char": "息",
+      "trad": "息",
+      "pinyin": "xī",
+      "english": "rest; interest; news"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我收到了一条好消息(我收到了一條好消息)。",
+      "pinyin": "Wǒ shōudào le yī tiáo hǎo xiāoxi.",
+      "english": "I received a piece of good news."
+    },
+    {
+      "chinese": "他打电话告诉我一个重要的消息(他打電話告訴我一個重要的消息)。",
+      "pinyin": "Tā dǎ diànhuà gàosù wǒ yī gè zhòngyào de xiāoxi.",
+      "english": "He called to tell me an important piece of information."
+    },
+    {
+      "chinese": "这条消息引起了广泛的关注(這條消息引起了廣泛的關注)。",
+      "pinyin": "Zhè tiáo xiāoxi yǐnqǐ le guǎngfàn de guānzhù.",
+      "english": "This news attracted widespread attention."
+    }
+  ]
+}

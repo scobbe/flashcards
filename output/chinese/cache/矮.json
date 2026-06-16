@@ -1,0 +1,44 @@
+{
+  "simplified": "矮",
+  "traditional": "矮",
+  "pinyin": "ǎi",
+  "english": "short (of stature)",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "矢(矢) (shǐ, \"arrow\") + 委(委) (wěi, \"entrust\") = semantic arrow and phonetic component -> short stature",
+    "interpretation": "矮(矮) (ǎi, \"short\") combines 矢(矢) (shǐ, \"arrow\") as the semantic component related to precision or directness with 委(委) (wěi, \"entrust\") providing the phonetic cue, together conveying the idea of shortness or low stature.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "矢",
+      "trad": "矢",
+      "pinyin": "shǐ",
+      "english": "arrow"
+    },
+    {
+      "char": "委",
+      "trad": "委",
+      "pinyin": "wěi",
+      "english": "entrust"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他比我矮(他比我矮)。",
+      "pinyin": "Tā bǐ wǒ ǎi.",
+      "english": "He is shorter than me."
+    },
+    {
+      "chinese": "房子的天花板很矮(房子的天花板很矮)。",
+      "pinyin": "Fángzi de tiānhuābǎn hěn ǎi.",
+      "english": "The ceiling of the house is very low."
+    },
+    {
+      "chinese": "在篮球队中(在籃球隊中)，他显得特别矮(他顯得特別矮)。",
+      "pinyin": "Zài lánqiú duì zhōng, tā xiǎnde tèbié ǎi.",
+      "english": "In the basketball team, he appears particularly short."
+    }
+  ]
+}

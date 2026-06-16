@@ -1,0 +1,44 @@
+{
+  "simplified": "顾",
+  "traditional": "顧",
+  "pinyin": "gù",
+  "english": "look after; take into consideration; visit; turn around",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 雇 (gù, \"hire\") + Semantic: 頁 (yè, \"head\") = looking after someone's head; figuratively, \"look after; consider; visit; turn around\"",
+    "interpretation": "The character 顧(顧) (gù, \"look after; consider\") combines the phonetic element 雇(雇) with the semantic 頁(頁) (yán, \"head\"), suggesting the idea of thinking or considering something, akin to looking after or taking into account someone's head or affairs.",
+    "simplification": "Simplified by replacing 頁(頁) (yè, \"head\") with 页(页) and 雇 (gù, \"hire\") with simplification retained."
+  },
+  "parts": [
+    {
+      "char": "雇",
+      "trad": "雇",
+      "pinyin": "gù",
+      "english": "hire"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她在医院里照顾她的母亲(她在醫院裡照顧她的母親)。",
+      "pinyin": "Tā zài yīyuàn lǐ zhàogù tā de mǔqin.",
+      "english": "She is looking after her mother in the hospital."
+    },
+    {
+      "chinese": "请顾全大局(請顧全大局)，不要只考虑个人利益(不要只考慮個人利益)。",
+      "pinyin": "Qǐng gùquán dàjú, bùyào zhǐ kǎolǜ gèrén lìyì.",
+      "english": "Please consider the bigger picture and don't just focus on personal interests."
+    },
+    {
+      "chinese": "他曾经拜访过我(他曾經拜訪過我)，让我很感动(讓我很感動)。",
+      "pinyin": "Tā céngjīng bàifǎng guò wǒ, ràng wǒ hěn gǎndòng.",
+      "english": "He visited me once, which touched me deeply."
+    }
+  ]
+}

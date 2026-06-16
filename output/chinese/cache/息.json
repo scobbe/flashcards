@@ -1,0 +1,44 @@
+{
+  "simplified": "息",
+  "traditional": "息",
+  "pinyin": "xī",
+  "english": "rest; interest; news",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "自(自) (zì, \"nose\") + 心(心) (xīn, \"heart\") = breathing indicative of life -> rest",
+    "interpretation": "The character 息 combines 自(自) (zì, \"nose\") which originally depicted 'nose', with 心(心) (xīn, \"heart\"), representing the heart. Together, these components symbolize the process of breathing, an essential function of life that connects the nose to respiration, ultimately signifying rest and relaxation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "自",
+      "trad": "自",
+      "pinyin": "zì",
+      "english": "nose"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他需要一些时间休息(他需要一些時間休息)。",
+      "pinyin": "Tā xūyào yīxiē shíjiān xiūxī.",
+      "english": "He needs some time to rest."
+    },
+    {
+      "chinese": "投资理财时(投資理財時)，要注意利息变化(要注意利息變化)。",
+      "pinyin": "Tóuzī lǐcái shí, yào zhùyì lìxī biànhuà.",
+      "english": "When investing, pay attention to interest rate changes."
+    },
+    {
+      "chinese": "他经常关注国际新闻(他經常關注國際新聞)。",
+      "pinyin": "Tā jīngcháng guānzhù guójì xīnwén.",
+      "english": "He frequently follows international news."
+    }
+  ]
+}

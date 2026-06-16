@@ -1,0 +1,44 @@
+{
+  "simplified": "广东话",
+  "traditional": "廣東話",
+  "pinyin": "Guǎngdōnghuà",
+  "english": "Cantonese; a Chinese dialect",
+  "etymology": {
+    "type": "compound word",
+    "description": "廣東(廣東) (Guǎngdōng, 'Guangdong') refers to the Guangdong province in southern China, which is historically the region where Cantonese is spoken. 話(話) (huà, 'speech; language; dialect') indicates a form of spoken language. Thus, 廣東話(廣東話) refers to the language or dialect spoken in the Guangdong region, known as Cantonese.",
+    "interpretation": "廣東話(廣東話) (Guǎngdōnghuà, 'Cantonese') is the dialect of Chinese that originated in the Guangdong region. The term specifies the local language as opposed to other dialects of Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廣東",
+      "trad": "廣東",
+      "pinyin": "Guǎngdōng",
+      "english": "Guangdong; a province in southern China"
+    },
+    {
+      "char": "話",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "speech; language; dialect; talk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我正在学习广东话(我正在學習廣東話)。",
+      "pinyin": "Wǒ zhèngzài xuéxí Guǎngdōnghuà.",
+      "english": "I am learning Cantonese."
+    },
+    {
+      "chinese": "在香港(在香港)，很多人说广东话(很多人說廣東話)。",
+      "pinyin": "Zài Xiānggǎng, hěn duō rén shuō Guǎngdōnghuà.",
+      "english": "In Hong Kong, many people speak Cantonese."
+    },
+    {
+      "chinese": "她能流畅地讲广东话(她能流暢地講廣東話)。",
+      "pinyin": "Tā néng liúchàng de jiǎng Guǎngdōnghuà.",
+      "english": "She can speak Cantonese fluently."
+    }
+  ]
+}

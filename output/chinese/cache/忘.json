@@ -1,0 +1,44 @@
+{
+  "simplified": "忘",
+  "traditional": "忘",
+  "pinyin": "wàng",
+  "english": "forget; lose",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亡(亡) (wáng, \"lose\") as phonetic + 心(心) (xīn, \"heart\") as semantic = to lose something in the heart -> forget",
+    "interpretation": "The character 忘(wàng, \"forget\") combines the phonetic element 亡(亡) (wáng, \"lose\") with 心(心) (xīn, \"heart\"), indicating the concept of losing something from the heart, hence the idea of forgetting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "lose"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他总是忘记带钥匙(他總是忘記帶鑰匙)。",
+      "pinyin": "Tā zǒng shì wàngjì dài yàoshi.",
+      "english": "He always forgets to bring the keys."
+    },
+    {
+      "chinese": "请不要忘记你的承诺(請不要忘記你的承諾)。",
+      "pinyin": "Qǐng bùyào wàngjì nǐ de chéngnuò.",
+      "english": "Please don't forget your promise."
+    },
+    {
+      "chinese": "有时我会忘记时间(有時我會忘記時間)，错过重要的事情(錯過重要的事情)。",
+      "pinyin": "Yǒushí wǒ huì wàngjì shíjiān, cuòguò zhòngyào de shìqíng.",
+      "english": "Sometimes I forget the time and miss important things."
+    }
+  ]
+}

@@ -38,10 +38,11 @@ DECK_MAP = {
     "output/chinese/general/daily/1-8-26": "3VIUL9uy",
     "output/chinese/general/daily/12-26-25": "fhufsYYG",
     "output/chinese/general/daily/12-27-25": "xhm1819o",
-    # 6-15-26: Mochi deck holds 120 cards vs 30 local (likely duplicate imports).
-    # Excluded from auto-sync until cleaned up; see --include-6-15-26.
+    "output/chinese/class/6-15-26/book": "HTfuXufW",
+    # 6-8-26 deck holds 120 cards vs 30 local (duplicate-imported 4x); the dupe
+    # guard skips it until it is deduped.
+    "output/chinese/class/6-8-26/book": "LH83d1Xx",
 }
-DECK_6_15 = ("output/chinese/class/6-15-26/book", "LH83d1Xx")
 
 _PARENS = re.compile(r"\([^)]*\)")
 
@@ -155,7 +156,6 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true", help="perform writes (default: dry run)")
     ap.add_argument("--trash-orphans", action="store_true", help="soft-delete Mochi cards with no local match")
-    ap.add_argument("--include-6-15-26", action="store_true", help="also sync the 6-15-26 deck (count mismatch)")
     ap.add_argument("--only", help="substring filter on batch path")
     args = ap.parse_args(argv)
 
@@ -166,8 +166,6 @@ def main(argv=None):
     s = session(key)
 
     mapping = dict(DECK_MAP)
-    if args.include_6_15_26:
-        mapping[DECK_6_15[0]] = DECK_6_15[1]
 
     tot_u = tot_c = tot_o = 0
     for rel, did in mapping.items():

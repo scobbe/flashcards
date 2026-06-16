@@ -1,0 +1,44 @@
+{
+  "simplified": "马路",
+  "traditional": "馬路",
+  "pinyin": "mǎlù",
+  "english": "road; street",
+  "etymology": {
+    "type": "compound word",
+    "description": "馬路(馬路) is a combination of 馬(馬) (mǎ, \"horse\") and 路(路) (lù, \"road\"). In historical contexts, horses were a primary mode of transportation, thus 馬(馬) (mǎ, \"horse\") is used to indicate the traditional method of traveling on a 路(路) (lù, \"road\") or path.",
+    "interpretation": "The term 馬路(馬路) (mǎlù, \"road; street\") reflects the historical importance of roads as pathways for horse-driven travel, now extending to all vehicles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "马",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse; cavalry; knight"
+    },
+    {
+      "char": "路",
+      "trad": "路",
+      "pinyin": "lù",
+      "english": "road; path; way; street"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孩子们在马路上踢球(孩子們在馬路上踢球)。",
+      "pinyin": "Háizimen zài mǎlù shàng tī qiú.",
+      "english": "The children are playing ball on the road."
+    },
+    {
+      "chinese": "这条马路通向市中心(這條馬路通向市中心)。",
+      "pinyin": "Zhè tiáo mǎlù tōng xiàng shì zhōngxīn.",
+      "english": "This road leads to the city center."
+    },
+    {
+      "chinese": "马路两旁种满了树(馬路兩旁種滿了樹)。",
+      "pinyin": "Mǎlù liǎng páng zhòng mǎn le shù.",
+      "english": "Trees were planted on both sides of the street."
+    }
+  ]
+}

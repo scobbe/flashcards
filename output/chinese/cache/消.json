@@ -1,0 +1,44 @@
+{
+  "simplified": "消",
+  "traditional": "消",
+  "pinyin": "xiāo",
+  "english": "to disappear; to eliminate",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "氵(水, 'water') + 肖(肖, 'resemblance') = to extinguish something (with water) -> to disappear; to eliminate",
+    "interpretation": "The character 消(xiāo, 'to disappear; to eliminate') combines the semantic element 氵(水, 'water'), representing the act of extinguishing or removing with water, and the phonetic element 肖(肖, 'resemblance') to convey the idea of causing something to disappear or be eliminated.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "氵",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "肖",
+      "trad": "肖",
+      "pinyin": "xiào",
+      "english": "resemblance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "雨后的彩虹很快消失(雨後的彩虹很快消失)。",
+      "pinyin": "Yǔ hòu de cǎihóng hěn kuài xiāoshī.",
+      "english": "The rainbow after the rain quickly disappeared."
+    },
+    {
+      "chinese": "他用智慧消除了误解(他用智慧消除了誤解)。",
+      "pinyin": "Tā yòng zhìhuì xiāochúle wùjiě.",
+      "english": "He eliminated the misunderstanding with his wisdom."
+    },
+    {
+      "chinese": "随着时间的流逝(隨著時間的流逝)，痛苦会慢慢消退(痛苦會慢慢消退)。",
+      "pinyin": "Suízhe shíjiān de liúshì, tòngkǔ huì mànmàn xiāotuì.",
+      "english": "As time passes, the pain will gradually recede."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "初",
+  "traditional": "初",
+  "pinyin": "chū",
+  "english": "initial; beginning",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "衤(衣) ('clothes') + 刀(刀) ('knife; to cut') = starting to make clothes by cutting the cloth",
+    "interpretation": "This character combines elements representing 'clothes' and 'knife' to convey the concept of beginning the process of making clothes by cutting the cloth, symbolizing the start or initial phase.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "衤",
+      "trad": "衣",
+      "pinyin": "yī",
+      "english": "clothes"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife; to cut"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们在新年的开始(我們在新年的開始)，总是感到充满希望(總是感到充滿希望)。",
+      "pinyin": "Wǒmen zài xīnnián de kāishǐ, zǒng shì gǎndào chōngmǎn xīwàng.",
+      "english": "At the beginning of the new year, we always feel full of hope."
+    },
+    {
+      "chinese": "春天初到时(春天初到時)，天气总是很宜人(天氣總是很宜人)。",
+      "pinyin": "Chūntiān chū dào shí, tiānqì zǒng shì hěn yírén.",
+      "english": "When spring initially arrives, the weather is always pleasant."
+    },
+    {
+      "chinese": "在学习初期(在學習初期)，很多人会感到有点困难(很多人會感到有點困難)。",
+      "pinyin": "Zài xuéxí chūqī, hěn duō rén huì gǎndào yǒudiǎn kùnnán.",
+      "english": "In the initial stages of learning, many people feel a bit challenged."
+    }
+  ]
+}

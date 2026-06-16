@@ -1,0 +1,44 @@
+{
+  "simplified": "委",
+  "traditional": "委",
+  "pinyin": "wěi",
+  "english": "entrust",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic 禾(禾) (hé, 'grain') + Semantic 女(女) (nǚ, 'woman') -> carrying or entrusting responsibilities -> 'entrust'",
+    "interpretation": "In 委(委) (wěi, 'entrust'), the phonetic component 禾(禾) (hé, 'grain') suggests the sound, while the semantic component 女(女) (nǚ, 'woman'), originally depicted by 𠃊, implies the concept of carrying or handling responsibilities, leading to the meaning 'entrust'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把重要的任务委托给我(他把重要的任務委託給我)。",
+      "pinyin": "Tā bǎ zhòngyào de rènwù wěituō gěi wǒ.",
+      "english": "He entrusted me with an important task."
+    },
+    {
+      "chinese": "公司委任他为项目经理(公司委任他為項目經理)。",
+      "pinyin": "Gōngsī wěirèn tā wéi xiàngmù jīnglǐ.",
+      "english": "The company appointed him as the project manager."
+    },
+    {
+      "chinese": "他感到很委屈，因为没被告知所有的信息(他感到很委屈，因為沒被告知所有的信息)。",
+      "pinyin": "Tā gǎndào hěn wěiqu, yīnwèi méi bèi gàozhī suǒyǒu de xìnxī.",
+      "english": "He felt wronged because he wasn't informed of all the information."
+    }
+  ]
+}

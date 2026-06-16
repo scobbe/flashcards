@@ -1,0 +1,44 @@
+{
+  "simplified": "恋",
+  "traditional": "戀",
+  "pinyin": "liàn",
+  "english": "romance; love",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "䜌 (phonetic) + 心(\"heart\") = romantic feelings -> love/romance",
+    "interpretation": "The traditional character 戀 combines the phonetic element 䜌 with the semantic 心 (xīn, \"heart\") to convey the concept of feelings associated with the heart, thus representing love or romance.",
+    "simplification": "戀(戀) was simplified to 恋(戀) where the phonetic component 䜌 was omitted, maintaining the semantic core with 心 (heart)."
+  },
+  "parts": [
+    {
+      "char": "䜌",
+      "trad": "䜌",
+      "pinyin": "luán",
+      "english": "phonetic"
+    },
+    {
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们的恋情让人羡慕(他們的戀情讓人羨慕)。",
+      "pinyin": "Tāmen de liànqíng ràng rén xiànmù.",
+      "english": "Their romance makes people envious."
+    },
+    {
+      "chinese": "我对她的恋慕使我每一天都期待未来(我對她的戀慕使我每一天都期待未來)。",
+      "pinyin": "Wǒ duì tā de liànmù shǐ wǒ měi yītiān dōu qídài wèilái.",
+      "english": "My love for her makes me look forward to every day."
+    },
+    {
+      "chinese": "爱情是甜蜜的(愛情是甜蜜的)，恋人总是牵手散步(戀人總是牽手散步)。",
+      "pinyin": "Àiqíng shì tiánmì de, liànrén zǒngshì qiānshǒu sànbù.",
+      "english": "Love is sweet, lovers always walk hand in hand."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "史",
+  "traditional": "史",
+  "pinyin": "shǐ",
+  "english": "history",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a hand 又 holding a stylized flag 中 -> original meaning 'representative, ambassador' -> evolved to mean 'history'",
+    "interpretation": "The character 史(shǐ, 'history') originated from the depiction of a hand holding a flag, symbolizing a representative or ambassador who would record events. Over time, this idea evolved to represent the recording of events as history.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "中国的历史悠久(中國的歷史悠久)。",
+      "pinyin": "Zhōngguó de lìshǐ yōujiǔ.",
+      "english": "China's history is long and rich."
+    },
+    {
+      "chinese": "他对世界历史很感兴趣(他對世界歷史很感興趣)。",
+      "pinyin": "Tā duì shìjiè lìshǐ hěn gǎn xìngqù.",
+      "english": "He is very interested in world history."
+    },
+    {
+      "chinese": "历史可以教会我们很多东西(歷史可以教會我們很多東西)。",
+      "pinyin": "Lìshǐ kěyǐ jiāohuì wǒmen hěn duō dōngxī.",
+      "english": "History can teach us many things."
+    }
+  ]
+}

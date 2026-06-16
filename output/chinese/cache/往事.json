@@ -1,0 +1,44 @@
+{
+  "simplified": "往事",
+  "traditional": "往事",
+  "pinyin": "wǎngshì",
+  "english": "bygones; past events",
+  "etymology": {
+    "type": "compound word",
+    "description": "往(往) (wǎng, \"past; to go\") and 事(事) (shì, \"affair; event\") together refer to events or affairs that have happened in the past.",
+    "interpretation": "往事(往事) (wǎngshì, \"bygones; past events\") combines 往(往) (wǎng, \"past\") and 事(事) (shì, \"event\") to refer to events or matters that have occurred in the past, highlighting their status as part of one's history.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "往",
+      "trad": "往",
+      "pinyin": "wǎng",
+      "english": "past; to go"
+    },
+    {
+      "char": "事",
+      "trad": "事",
+      "pinyin": "shì",
+      "english": "affair; event"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他常常想起往事(他常常想起往事)。",
+      "pinyin": "Tā chángcháng xiǎngqǐ wǎngshì.",
+      "english": "He often thinks about past events."
+    },
+    {
+      "chinese": "往事如烟(往事如煙)，不可追忆(不可追憶)。",
+      "pinyin": "Wǎngshì rú yān, bù kě zhuīyì.",
+      "english": "Past events are like smoke, not to be recalled."
+    },
+    {
+      "chinese": "我们不应为往事烦恼(我們不應為往事煩惱)。",
+      "pinyin": "Wǒmen bù yīng wèi wǎngshì fánnǎo.",
+      "english": "We should not worry about past events."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "往",
+  "traditional": "往",
+  "pinyin": "wǎng",
+  "english": "past; to go",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 止(止) (zhǐ, \"foot\") + 王(王) (wáng, \"king\") = phonetic for pronunciation -> 彳(彳) (chì, \"step\") added for movement -> right component stylized to unrelated 主(主) (zhǔ, \"lord\") forming final character",
+    "interpretation": "The character 往(wǎng) incorporates semantic and phonetic elements: 彳(chì, \"step\") suggests movement and 止(zhǐ, \"foot\") indicates direction, while 王(wáng, \"king\") originally provided the pronunciation, which was later obscured as the character evolved.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "foot"
+    },
+    {
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
+    },
+    {
+      "char": "王",
+      "trad": "王",
+      "pinyin": "wáng",
+      "english": "king"
+    },
+    {
+      "char": "主",
+      "trad": "主",
+      "pinyin": "zhǔ",
+      "english": "lord"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他往门口走(他往門口走)。",
+      "pinyin": "Tā wǎng ménkǒu zǒu.",
+      "english": "He walked towards the door."
+    },
+    {
+      "chinese": "我们往东边旅行(我們往東邊旅行)。",
+      "pinyin": "Wǒmen wǎng dōngbian lǚxíng.",
+      "english": "We are traveling east."
+    },
+    {
+      "chinese": "她常常回忆往事(她常常回憶往事)。",
+      "pinyin": "Tā chángcháng huíyì wǎngshì.",
+      "english": "She often reminisces about the past."
+    }
+  ]
+}

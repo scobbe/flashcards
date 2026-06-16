@@ -1,0 +1,44 @@
+{
+  "simplified": "飞吻",
+  "traditional": "飛吻",
+  "pinyin": "fēiwěn",
+  "english": "kiss one's hand to; blow a kiss",
+  "etymology": {
+    "type": "compound word",
+    "description": "飛(飛) (fēi, \"fly\") + 吻(吻) (wěn, \"kiss\") = to send a kiss through the air by blowing",
+    "interpretation": "The word 飛吻 (fēiwěn) represents the action of sending a kiss through the air, as if it is flying. This combines the sense of motion from 飛(飛) (fēi, \"fly\") with the affectionate gesture of 吻(吻) (wěn, \"kiss\"). Such a gesture is often used to express warmth or affection from a distance.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "飞",
+      "trad": "飛",
+      "pinyin": "fēi",
+      "english": "fly"
+    },
+    {
+      "char": "吻",
+      "trad": "吻",
+      "pinyin": "wěn",
+      "english": "kiss"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她给我送了一个飞吻(她給我送了一個飛吻)。",
+      "pinyin": "Tā gěi wǒ sòng le yī gè fēiwěn.",
+      "english": "She blew me a kiss."
+    },
+    {
+      "chinese": "在道别的时候(在道別的時候)，他给了我一个飞吻(他給了我一個飛吻)。",
+      "pinyin": "Zài dàobié de shíhòu, tā gěi le wǒ yī gè fēiwěn.",
+      "english": "When saying goodbye, he blew me a kiss."
+    },
+    {
+      "chinese": "小女孩朝她的偶像送了一个飞吻(小女孩朝她的偶像送了一個飛吻)。",
+      "pinyin": "Xiǎo nǚhái cháo tā de ǒuxiàng sòng le yī gè fēiwěn.",
+      "english": "The little girl blew a kiss to her idol."
+    }
+  ]
+}

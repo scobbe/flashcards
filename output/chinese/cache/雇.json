@@ -1,0 +1,44 @@
+{
+  "simplified": "雇",
+  "traditional": "雇",
+  "pinyin": "gù",
+  "english": "hire",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 戶(戶) (hù, \"door\") + semantic 隹(隹) (zhuī, \"bird\")",
+    "interpretation": "The character 雇 (gù, \"hire\") combines 戶(戶) (hù, \"door\") as a phonetic component with 隹(隹) (zhuī, \"bird\") as a semantic component, suggesting a context involving movement or transition, akin to employment or hiring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "戶",
+      "trad": "戶",
+      "pinyin": "hù",
+      "english": "door"
+    },
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "公司决定雇一些新员工(公司決定雇一些新員工)。",
+      "pinyin": "Gōngsī juédìng gù yīxiē xīn yuángōng.",
+      "english": "The company decided to hire some new employees."
+    },
+    {
+      "chinese": "他们打算雇一位专业律师(他們打算雇一位專業律師)。",
+      "pinyin": "Tāmen dǎsuàn gù yī wèi zhuānyè lǜshī.",
+      "english": "They plan to hire a professional lawyer."
+    },
+    {
+      "chinese": "老板正在考虑雇更多的兼职工人(老闆正在考慮雇更多的兼職工人)。",
+      "pinyin": "Lǎobǎn zhèngzài kǎolǜ gù gèng duō de jiānzhí gōngrén.",
+      "english": "The boss is considering hiring more part-time workers."
+    }
+  ]
+}

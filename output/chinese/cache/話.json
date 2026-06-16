@@ -1,0 +1,44 @@
+{
+  "simplified": "話",
+  "traditional": "話",
+  "pinyin": "huà",
+  "english": "speech; language; dialect; talk",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "言(言) (yán, \"speech\") + 𠯑(𠯑) (ph) = composed of word speech + phonetic sound",
+    "interpretation": "The character 話(話) (huà, \"speech; language\") combines 言(言) (yán, \"speech\") as the semantic component with 𠯑(𠯑) (ph) as the phonetic component to convey the concept of communication or spoken language.",
+    "simplification": "话(話) replaces 言(言) (yán, \"speech\") with 讠, reducing the stroke count while maintaining the semantic meaning."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "𠯑",
+      "trad": "𠯑",
+      "pinyin": "ph",
+      "english": "phonetic sound"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他说的话让我很感动(他說的話讓我很感動)。",
+      "pinyin": "Tā shuō de huà ràng wǒ hěn gǎndòng.",
+      "english": "His words moved me deeply."
+    },
+    {
+      "chinese": "语言是交流的工具(語言是交流的工具)。",
+      "pinyin": "Yǔyán shì jiāoliú de gōngjù.",
+      "english": "Language is a tool for communication."
+    },
+    {
+      "chinese": "我听不懂他的方言(我聽不懂他的方言)。",
+      "pinyin": "Wǒ tīng bù dǒng tā de fāngyán.",
+      "english": "I don't understand his dialect."
+    }
+  ]
+}

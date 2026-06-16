@@ -1,0 +1,44 @@
+{
+  "simplified": "打听",
+  "traditional": "打聽",
+  "pinyin": "dǎtīng",
+  "english": "ask about; inquire about",
+  "etymology": {
+    "type": "compound word",
+    "description": "打(打) (dǎ, \"hit\") originally means to strike or hit, but it has extended meanings such as to make or to carry out an action. 聽(聽) (tīng, \"listen\") means to listen or hear. Together, 打聽 (dǎtīng) conveys the idea of actively seeking information by listening and asking questions.",
+    "interpretation": "The combination of 打(打) (dǎ, \"hit\") and 聽(聽) (tīng, \"listen\") suggests the proactive act of gathering information by listening and inquiring. It implies engaging others to listen to their replies while inquiring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "打",
+      "trad": "打",
+      "pinyin": "dǎ",
+      "english": "hit; make; break; strike"
+    },
+    {
+      "char": "聽",
+      "trad": "聽",
+      "pinyin": "tīng",
+      "english": "listen; hear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她在打听一个朋友的消息(她在打聽一個朋友的消息)。",
+      "pinyin": "Tā zài dǎtīng yī gè péngyǒu de xiāoxi.",
+      "english": "She is inquiring about a friend's news."
+    },
+    {
+      "chinese": "他总是喜欢打听别人的私事(他總是喜歡打聽別人的私事)。",
+      "pinyin": "Tā zǒngshì xǐhuān dǎtīng biérén de sīshì.",
+      "english": "He always likes to ask about other people's private matters."
+    },
+    {
+      "chinese": "我去市场打听水果的价格(我去市場打聽水果的價格)，发现苹果很便宜(發現蘋果很便宜)。",
+      "pinyin": "Wǒ qù shìchǎng dǎtīng shuǐguǒ de jiàgé, fāxiàn píngguǒ hěn piányí.",
+      "english": "I went to the market to inquire about the price of fruits and found that apples are very cheap."
+    }
+  ]
+}

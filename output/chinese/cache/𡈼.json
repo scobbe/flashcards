@@ -1,0 +1,28 @@
+{
+  "simplified": "𡈼",
+  "traditional": "𡈼",
+  "pinyin": "unknown",
+  "english": "unknown",
+  "etymology": {
+    "type": "pictogram",
+    "description": "亻(亻) (rén, \"person\") + 土(土) (tǔ, \"soil\") = person standing on soil",
+    "interpretation": "The character 𡈼 is a pictogram that combines the image of a human represented by 亻(亻) (rén, \"person\") with 土(土) (tǔ, \"soil\"), suggesting a person standing on the ground.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "soil"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "年龄",
+  "traditional": "年齡",
+  "pinyin": "niánlíng",
+  "english": "age (of a person, animal or plant, etc.)",
+  "etymology": {
+    "type": "compound word",
+    "description": "年(年) (nián, \"year\") + 齡(齡) (líng, \"age\")",
+    "interpretation": "The combination of 年(年) (nián, \"year\") and 齡(齡) (líng, \"age\") refers to the length of time measured in years that a living being or entity has existed. It highlights the concept of age as being a function of the passage of time, measured in years.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "年",
+      "trad": "年",
+      "pinyin": "nián",
+      "english": "year"
+    },
+    {
+      "char": "龄",
+      "trad": "齡",
+      "pinyin": "líng",
+      "english": "age"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她的年龄(她的年齡)是二十五岁(是二十五歲)。",
+      "pinyin": "Tā de niánlíng shì èrshíwǔ suì.",
+      "english": "Her age is twenty-five years old."
+    },
+    {
+      "chinese": "这棵树的年龄已经超过一百年(這棵樹的年齡已經超過一百年)。",
+      "pinyin": "Zhè kē shù de niánlíng yǐjīng chāoguò yībǎi nián.",
+      "english": "The age of this tree is already over one hundred years."
+    },
+    {
+      "chinese": "随着年龄的增长(隨著年齡的增長)，他的见识也更加广泛(他的見識也更加廣泛)。",
+      "pinyin": "Suízhe niánlíng de zēngzhǎng, tā de jiànshì yě gèng jiā guǎngfàn.",
+      "english": "As his age increases, his knowledge also becomes more extensive."
+    }
+  ]
+}

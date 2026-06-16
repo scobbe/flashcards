@@ -1,0 +1,44 @@
+{
+  "simplified": "路",
+  "traditional": "路",
+  "pinyin": "lù",
+  "english": "road; path; way; street",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "足(足) (zú, \"foot\") + 各(各) (gè, \"each\") = movement by foot -> road",
+    "interpretation": "The character 路(lù, \"road\") combines 足(足) (zú, \"foot\") to indicate walking or movement, with 各(各) (gè, \"each\") to provide the phonetic element. This compound captures the idea of a path or road suitable for movement.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这条路通向海边(這條路通向海邊)。",
+      "pinyin": "Zhè tiáo lù tōngxiàng hǎibiān.",
+      "english": "This road leads to the seaside."
+    },
+    {
+      "chinese": "我们今天必须找到正确的路(我們今天必須找到正確的路)。",
+      "pinyin": "Wǒmen jīntiān bìxū zhǎodào zhèngquè de lù.",
+      "english": "We must find the correct path today."
+    },
+    {
+      "chinese": "前面的路很长(前面的路很長)，但风景很美(但風景很美)。",
+      "pinyin": "Qiánmiàn de lù hěn cháng, dàn fēngjǐng hěn měi.",
+      "english": "The road ahead is long, but the scenery is beautiful."
+    }
+  ]
+}

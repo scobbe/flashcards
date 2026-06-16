@@ -5,48 +5,11 @@
   "english": "stylized feet",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing up -> stylized as 龰",
-    "interpretation": "The character 龰 (yù) represents a stylized depiction of feet with a footprint pointing upwards. It is closely related to the character 止 (zhǐ, \"foot\") which depicts a foot, and the derivative character 趾 (zhǐ, \"toe\") has similar origins. The depiction emphasizes the sole and toes, similar to how hands are depicted with three toes, such as in the characters 爪, 寸, 九, 又, and 彐. This stylization captures the essence of the foot through simplified lines and shapes, emphasizing its characteristic form.",
+    "description": "Originally a footprint pointing up -> stylized as 龰",
+    "interpretation": "龰 (yù, \"stylized feet\") is a pictogram originally depicting a human footprint with toes, stylized to represent feet. This character reflects the basic form of a footprint's impression, retaining three toes similar to the depiction of fingers in various other pictograms.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "止",
-      "trad": "止",
-      "pinyin": "zhǐ",
-      "english": "foot"
-    },
-    {
-      "char": "爪",
-      "trad": "爪",
-      "pinyin": "zhǎo",
-      "english": "claw"
-    },
-    {
-      "char": "寸",
-      "trad": "寸",
-      "pinyin": "cùn",
-      "english": "inch"
-    },
-    {
-      "char": "九",
-      "trad": "九",
-      "pinyin": "jiǔ",
-      "english": "nine"
-    },
-    {
-      "char": "又",
-      "trad": "又",
-      "pinyin": "yòu",
-      "english": "again"
-    },
-    {
-      "char": "彐",
-      "trad": "彐",
-      "pinyin": "jì",
-      "english": "snout"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

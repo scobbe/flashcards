@@ -1,0 +1,44 @@
+{
+  "simplified": "照顾",
+  "traditional": "照顧",
+  "pinyin": "zhàogù",
+  "english": "take care of; look after",
+  "etymology": {
+    "type": "compound word",
+    "description": "照(照) (zhào, \"illuminate\") + 顾(顧) (gù, \"look after\") = take care of; look after",
+    "interpretation": "The word 照顾(照顧) (zhàogù) combines 照(照) (zhào, \"illuminate\") with 顾(顧) (gù, \"look after\") to convey the idea of providing care or attention to something or someone, akin to shining light on them to ensure their well-being.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "照",
+      "trad": "照",
+      "pinyin": "zhào",
+      "english": "illuminate; shine; reflect; take (photo)"
+    },
+    {
+      "char": "顾",
+      "trad": "顧",
+      "pinyin": "gù",
+      "english": "look after; take into consideration; visit; turn around"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我会照顾你的猫(我會照顧你的貓)。",
+      "pinyin": "Wǒ huì zhàogù nǐ de māo.",
+      "english": "I will take care of your cat."
+    },
+    {
+      "chinese": "她总是细心地照顾每一个病人(她總是細心地照顧每一個病人)。",
+      "pinyin": "Tā zǒngshì xìxīn de zhàogù měi yī gè bìngrén.",
+      "english": "She always takes care of every patient attentively."
+    },
+    {
+      "chinese": "父母年纪大了，需要孩子们的照顾(父母年紀大了，需要孩子們的照顧)。",
+      "pinyin": "Fùmǔ niánjì dà le, xūyào háizimen de zhàogù.",
+      "english": "Parents are getting older and need their children's care."
+    }
+  ]
+}

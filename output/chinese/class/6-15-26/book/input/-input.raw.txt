@@ -1,31 +1,35 @@
 Chinese,Pinyin,English
-小学,xiǎoxué,primary school
-得,dé,get; obtain; win
-世界,shìjiè,world
-地图,dìtú,map; plat; atlas
-轮,lún,take turns
-烧,shāo,boil; burn
-洗澡,xǐzǎo,have a bath
-围,wéi,wrap; swathe
-浴巾,yùjīn,bath towel
-浴室,yùshì,bathroom
-冲,chōng,rush
-叫,jiào,shout; cry
-干,gàn,do; work
-火,huǒ,fire
-灭,miè,(of a light, fire, etc.) go out
-讨厌,tǎoyàn,dislike
-小声,xiǎoshēng,in a low voice
-巴掌,bāzhang,palm; slap
-一辈子,yíbèizi,all one's life; throughout one's life
-了,liǎo,used after a verb with 得/不 to express possibility or impossibility
-敢,gǎn,dare
-继续,jìxù,continue; go on
-明信片,míngxìnpiàn,postcard; lettercard
-面前,miànqián,in front of
-金字塔,jīnzìtǎ,pyramid
-记得,jìde,remember
-小时候,xiǎoshíhou,childhood
-灵,líng,effective
-小子,xiǎozi,boy; chap; guy
-埃及,Āijí,Egypt
+旧梦,jiùmèng,old dream; past experience
+闭,bì,shut; close
+往事,wǎngshì,bygones; past events
+进入,jìnrù,enter; get into
+梦,mèng,dream
+一生,yìshēng,all one's life; a lifetime
+中,zhōng,in
+难忘,nánwàng,unforgettable; memorable
+老年,lǎonián,old age
+忘记,wàngjì,forget
+同事,tóngshì,colleague
+有时,yǒushí,sometimes
+出现,chūxiàn,appear
+比,bǐ,than; (superior or inferior) to
+矮,ǎi,short (of stature)
+双,shuāng,pair
+年级,niánjí,grade; year (in school, etc.)
+年龄,niánlíng,age (of a person, animal or plant, etc.)
+马路,mǎlù,road; street
+领,lǐng,lead; usher; take
+照顾,zhàogù,take care of; look after
+拉（手）,lā (shǒu),hold (hands)
+使劲儿,shǐ jìnr,exert oneself (physically)
+亲,qīn,kiss
+告别,gàobié,say goodbye to; part from
+飞吻,fēiwěn,kiss one's hand to; blow a kiss
+刚刚,gānggāng,just; no more than
+爱情,àiqíng,love (between a man and a woman)
+并,bìng,used before a negative for emphasis, usu. as a retort
+初恋,chūliàn,first love
+活,huó,live; be alive
+打听,dǎtīng,ask about; inquire about
+消息,xiāoxi,news; information
+广东话,Guǎngdōnghuà,Cantonese; a Chinese dialect

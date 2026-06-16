@@ -1,0 +1,44 @@
+{
+  "simplified": "年级",
+  "traditional": "年級",
+  "pinyin": "niánjí",
+  "english": "grade; year (in school, etc.)",
+  "etymology": {
+    "type": "compound word",
+    "description": "年(年) (nián, \"year\") + 級(級) (jí, \"level; grade\") forms a compound word that refers to a specific year level within educational systems, such as \"grade\" or \"year\" in school.",
+    "interpretation": "年(年) (nián, \"year\") indicates the passage of time, while 級(級) (jí, \"level; grade\") signifies a rank or stage in a sequence. Therefore, 年級(年級) (niánjí, \"grade; year\") refers to a student's current stage or year in their educational journey.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "年",
+      "trad": "年",
+      "pinyin": "nián",
+      "english": "year"
+    },
+    {
+      "char": "级",
+      "trad": "級",
+      "pinyin": "jí",
+      "english": "level; grade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他今年上五年级(他今年上五年級)。",
+      "pinyin": "Tā jīnnián shàng wǔ niánjí.",
+      "english": "He is in the fifth grade this year."
+    },
+    {
+      "chinese": "六年级的学生正在准备考试(六年級的學生正在準備考試)。",
+      "pinyin": "Liù niánjí de xuéshēng zhèngzài zhǔnbèi kǎoshì.",
+      "english": "The sixth-grade students are preparing for the exam."
+    },
+    {
+      "chinese": "每个年级(每個年級)都有自己的活动(都有自己的活動)。",
+      "pinyin": "Měi gè niánjí dōu yǒu zìjǐ de huódòng.",
+      "english": "Each grade has its own activities."
+    }
+  ]
+}

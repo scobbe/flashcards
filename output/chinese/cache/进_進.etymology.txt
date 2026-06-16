@@ -1,0 +1,5 @@
+[进]
+Simplified from 進 ( 隹 → 井 ) in the 1956 Chinese Character Simplification Scheme by the People's Republic of China. This character is not known to have existed before that. In simplified form, Phono-semantic compound ( 形聲 / 形声 ): semantic 辵 + phonetic 井 ( OC *skeŋʔ ) .
+
+[進]
+Ideogrammic compound ( 會意 / 会意 ): 辵 ( “ walk ” ) + 隹 ( “ short-tail bird ” ) . A bird can only walk forward, not backward, hence implying "forward". Shuowen Jiezi interprets it as Phono-semantic compound ( 形聲 / 形声 , OC *ʔslins ): semantic 辵 + abbreviated phonetic 閵 ( OC *rins ) .

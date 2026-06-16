@@ -1,0 +1,44 @@
+{
+  "simplified": "领",
+  "traditional": "領",
+  "pinyin": "lǐng",
+  "english": "lead; usher; take",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "令(令) (lìng, \"order\") + 頁(頁) (yè, \"head\") = order or leadership pertaining to the head -> lead; usher; take",
+    "interpretation": "In the traditional form 領(lǐng, \"lead\"), 令(令) (lìng, \"order\") serves as the phonetic component, suggesting sound, while 頁(頁) (yè, \"head\") provides semantic value, indicating a concept related to leadership or guidance.",
+    "simplification": "領(領)→领(領): 頁(頁) (yè, \"head\") was simplified to 页(頁) for easier writing."
+  },
+  "parts": [
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "order"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她总是选择带头(她總是選擇帶頭)，因为她喜欢领大家去新的高度(因為她喜歡領大家去新的高度)。",
+      "pinyin": "Tā zǒng shì xuǎnzé dàitóu, yīnwèi tā xǐhuān lǐng dàjiā qù xīn de gāodù.",
+      "english": "She always chooses to lead because she likes to usher everyone to new heights."
+    },
+    {
+      "chinese": "导游会在十点钟领游客去博物馆(導遊會在十點鐘領遊客去博物館)。",
+      "pinyin": "Dǎoyóu huì zài shí diǎn zhōng lǐng yóukè qù bówùguǎn.",
+      "english": "The tour guide will take the tourists to the museum at ten o'clock."
+    },
+    {
+      "chinese": "他在比赛中领着球队获得了胜利(他在比賽中領著球隊獲得了勝利)。",
+      "pinyin": "Tā zài bǐsài zhōng lǐngzhe qiúduì huòdéle shènglì.",
+      "english": "He led the team to victory in the match."
+    }
+  ]
+}

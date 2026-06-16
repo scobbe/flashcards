@@ -1,0 +1,44 @@
+{
+  "simplified": "拉手",
+  "traditional": "拉手",
+  "pinyin": "lā (shǒu)",
+  "english": "hold (hands)",
+  "etymology": {
+    "type": "compound word",
+    "description": "拉(拉) (lā, \"pull\") + 手(手) (shǒu, \"hand\") = to hold hands",
+    "interpretation": "The word 拉手 (lāshǒu, \"hold hands\") combines 拉(拉) (lā, \"pull\") to imply the action of bringing something closer, with 手(手) (shǒu, \"hand\"), referring to the body part. Together, it describes the action of 'pulling' another's hand towards oneself, typically to express affection or friendship.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "拉",
+      "trad": "拉",
+      "pinyin": "lā",
+      "english": "pull; draw in; play (instrument)"
+    },
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand; manual worker; handy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小女孩和她的妈妈拉手(小女孩和她的媽媽拉手)。",
+      "pinyin": "Xiǎo nǚhái hé tā de māma lā shǒu.",
+      "english": "The little girl holds hands with her mother."
+    },
+    {
+      "chinese": "他们在公园里散步时拉手(他們在公園裡散步時拉手)。",
+      "pinyin": "Tāmen zài gōngyuán lǐ sànbù shí lā shǒu.",
+      "english": "They hold hands while walking in the park."
+    },
+    {
+      "chinese": "拉手是表达关爱的方式(拉手是表達關愛的方式)。",
+      "pinyin": "Lā shǒu shì biǎodá guān'ài de fāngshì.",
+      "english": "Holding hands is a way to express affection."
+    }
+  ]
+}

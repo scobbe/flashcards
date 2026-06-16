@@ -1,0 +1,56 @@
+{
+  "simplified": "聽",
+  "traditional": "聽",
+  "pinyin": "tīng",
+  "english": "listen; hear",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Originally 𦔻 -> ideogrammic compound (耳 ('ear') + 口 ('mouths')) -> Later as phono-semantic: phonetic 𡈼 + semantic 耳 ('ear') + semantic 㥁",
+    "interpretation": "聽(tīng, 'listen; hear') combines multiple elements related to the act of listening: 耳(耳) (ěr, 'ear') represents the organ involved, while 𡈼 provides the phonetic cue. The additional semantic element 㥁 emphasizes the idea of focused attention or presence, completing the concept of listening carefully.",
+    "simplification": "The traditional character 聽 was simplified to 听 by adopting the unrelated earlier character 𠯸, which was itself stylized and phoneticized in modern simplification processes."
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "𡈼",
+      "trad": "𡈼",
+      "pinyin": "unknown",
+      "english": "unknown"
+    },
+    {
+      "char": "㥁",
+      "trad": "㥁",
+      "pinyin": "unknown",
+      "english": "unknown"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢听音乐(我喜歡聽音樂)。",
+      "pinyin": "Wǒ xǐhuān tīng yīnyuè.",
+      "english": "I like to listen to music."
+    },
+    {
+      "chinese": "请仔细听讲(請仔細聽講)，保持安静(保持安靜)。",
+      "pinyin": "Qǐng zǐxì tīngjiǎng，bǎochí ānjìng.",
+      "english": "Please listen carefully and keep quiet."
+    },
+    {
+      "chinese": "孩子们坐下(孩子們坐下)，安静地听故事(安靜地聽故事)。",
+      "pinyin": "Háizimen zuò xià，ānjìng de tīng gùshì.",
+      "english": "The children sat down and listened quietly to the story."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "年",
+  "traditional": "年",
+  "pinyin": "nián",
+  "english": "year; age",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禾(“wheat; grain”) + 人(“person”) as phonetic -> originally “harvest” -> later “year”",
+    "interpretation": "The character 年(年) (nián, \"year\") originally depicted a harvest of grains, linking the concept of agricultural cycles with the passing of a year. Over time, the form evolved, retaining the semantic component 禾(禾) (hé, \"grain\") and using 人(人) (rén, \"person\") for its phonetic sound in early stages, which later transformed into the current form through script evolution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今年是兔年(今年是兔年)。",
+      "pinyin": "Jīnnián shì tùnián.",
+      "english": "This year is the Year of the Rabbit."
+    },
+    {
+      "chinese": "他今年二十岁(他今年二十歲)。",
+      "pinyin": "Tā jīnnián èrshí suì.",
+      "english": "He is twenty years old this year."
+    },
+    {
+      "chinese": "五年后我希望能去旅行(五年後我希望能去旅行)。",
+      "pinyin": "Wǔ nián hòu wǒ xīwàng néng qù lǚxíng.",
+      "english": "I hope to travel in five years."
+    }
+  ]
+}

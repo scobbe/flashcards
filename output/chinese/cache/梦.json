@@ -1,0 +1,56 @@
+{
+  "simplified": "梦",
+  "traditional": "夢",
+  "pinyin": "mèng",
+  "english": "dream",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Early: 人(人) (rén, \"person\") + 爿(爿) (pán, \"bed\") -> person lying on bed -> Added 目(目) (mù, \"eye\") with emphasis -> Bronze: Added 夕(夕) (xī, \"night\") beneath -> Modern: 目 evolved into 罒, person became 冖, with 夕 retained",
+    "interpretation": "The character 夢(夢) (mèng, \"dream\") evolved from a depiction of a person resting at night, conveying the concept of dreams occurring during sleep. The phono-semantic element 瞢 provides the pronunciation while 夕 emphasizes the nighttime context.",
+    "simplification": "In 梦(夢), 目(目) (mù, \"eye\") was replaced with a simpler form in 罒, and the central complexity was reduced."
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "pán",
+      "english": "bed"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "night"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "昨晚我做了一个奇怪的梦(昨晚我做了一個奇怪的夢)。",
+      "pinyin": "Zuówǎn wǒ zuòle yī gè qíguài de mèng.",
+      "english": "I had a strange dream last night."
+    },
+    {
+      "chinese": "她的梦想(她的夢想)是成为一名医生(是成為一名醫生)。",
+      "pinyin": "Tā de mèngxiǎng shì chéngwéi yī míng yīshēng.",
+      "english": "Her dream is to become a doctor."
+    },
+    {
+      "chinese": "无论多么艰难(無論多麼艱難)，我们都不应该放弃我们的梦想(我們都不應該放棄我們的夢想)。",
+      "pinyin": "Wúlùn duōme jiānnán, wǒmen dōu bù yīnggāi fàngqì wǒmen de mèngxiǎng.",
+      "english": "No matter how difficult it is, we should not give up our dreams."
+    }
+  ]
+}

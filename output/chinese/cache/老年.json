@@ -1,0 +1,44 @@
+{
+  "simplified": "老年",
+  "traditional": "老年",
+  "pinyin": "lǎonián",
+  "english": "old age",
+  "etymology": {
+    "type": "compound word",
+    "description": "老(老) (lǎo, \"old\") + 年(年) (nián, \"year\") combine to express the concept of 'old age'. 老(老) (lǎo, \"old\") refers to someone who is advanced in years, while 年(年) (nián, \"year\") signifies the passage of time. Together, they denote a period in a person's life characterized by seniority and the accumulation of many years.",
+    "interpretation": "老年(老年) (lǎonián, \"old age\") represents the stage of life corresponding to advanced years, reflecting wisdom and experience gained over time.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old; experienced; elder"
+    },
+    {
+      "char": "年",
+      "trad": "年",
+      "pinyin": "nián",
+      "english": "year; age"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老年人需要更多的照顾(老年人需要更多的照顧)。",
+      "pinyin": "Lǎonián rén xūyào gèng duō de zhàogù.",
+      "english": "Old people need more care."
+    },
+    {
+      "chinese": "他在老年时享受退休生活(他在老年時享受退休生活)。",
+      "pinyin": "Tā zài lǎonián shí xiǎngshòu tuìxiū shēnghuó.",
+      "english": "He enjoys his retirement life in old age."
+    },
+    {
+      "chinese": "保持健康的生活习惯对老年很重要(保持健康的生活習慣對老年很重要)。",
+      "pinyin": "Bǎochí jiànkāng de shēnghuó xíguàn duì lǎonián hěn zhòngyào.",
+      "english": "Maintaining healthy living habits is important for old age."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "劲",
+  "traditional": "勁",
+  "pinyin": "jìn",
+  "english": "strength; energy; enthusiasm",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 巠 (jīng, 'a rivulet') + semantic: 力 (lì, 'strength') = powerful strength",
+    "interpretation": "The traditional character 勁(jìn, 'strength') combines 巠(jīng, 'a rivulet') for its sound and 力(lì, 'strength') for its meaning. This creates a character meaning 'strength' or 'vigor', highlighting the power indicated by 力(lì).",
+    "simplification": "劲(勁) is simplified by retaining the semantic component 力(lì, 'strength') and modifying the phonetic component 巠(jīng) into a simpler form."
+  },
+  "parts": [
+    {
+      "char": "巠",
+      "trad": "巠",
+      "pinyin": "jīng",
+      "english": "a rivulet"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他跑步非常有劲(他跑步非常有勁)。",
+      "pinyin": "Tā pǎobù fēicháng yǒu jìn.",
+      "english": "He runs with a lot of strength."
+    },
+    {
+      "chinese": "这孩子做事总是充满劲(這孩子做事總是充滿勁)。",
+      "pinyin": "Zhè háizi zuòshì zǒng shì chōngmǎn jìn.",
+      "english": "This child always does things with enthusiasm."
+    },
+    {
+      "chinese": "喝了咖啡后，我感觉有劲了(喝了咖啡後，我感覺有勁了)。",
+      "pinyin": "Hēle kāfēi hòu, wǒ gǎnjué yǒu jìn le.",
+      "english": "After drinking coffee, I feel energetic."
+    }
+  ]
+}

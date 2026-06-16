@@ -1,0 +1,28 @@
+{
+  "simplified": "䜌",
+  "traditional": "䜌",
+  "pinyin": "luán",
+  "english": "phonetic",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "絲(絲) (sī, \"silk; thread\") + 言(言) (yán, \"speech\") = thread moving through speech sounds -> phonetic expression",
+    "interpretation": "The character 䜌 combines the ideas of thread and speech, conveying the concept of a structured or patterned speech, suggestive of phonetic elements or expressions. It is a unique representation relating threads and speech.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "絲",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk; thread"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}
