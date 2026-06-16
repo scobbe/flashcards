@@ -41,21 +41,21 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 雈 (huán, 'owl') + 臼 (jiù, 'mortar') =
-    - originally an owl ->
-    - phonetically borrowed for 'old'
-  - **interpretation:** 舊 combines the semantic component 雈 representing an owl, and the phonetic component 臼. It was later used for its phonetic value to represent the concept of 'old’ as this word sounded the same as a word meaning 'old'.
-  - **simplification:** 舊 was simplified to 旧(舊) by replacing 雈 (huán, 'owl') with 日 (rì, 'sun'), which is visually simpler and retains some phonetic similarity.
+    - semantic 雈 ('owl') + phonetic 臼 (sound) ->
+    - originally a type of owl ->
+    - borrowed for 'old'
+  - **interpretation:** 舊 originally depicted a type of owl, using 雈 for its meaning. It was later borrowed phonetically to represent the concept 'old', as the sound of the character matched a word for 'old' in phonetic series.
+  - **simplification:** 舊 was simplified to 旧(舊) by removing 雈 (owl) and replacing it with the simpler component 臼 (used as a radical and phonetic).
 - **examples:**
-  - 这(這)个(個)旧(舊)房( )子( )很( )有( )历(歷)史( )。
-    - Zhège jiù fángzi hěn yǒu lìshǐ.
-    - This old house has a lot of history.
-  - 他( )穿( )着(著)旧(舊)鞋( )子( )，走( )了( )很( )长(長)的( )路( )。
-    - Tā chuānzhe jiù xiézi, zǒu le hěn cháng de lù.
-    - He wore old shoes and walked a long way.
-  - 旧(舊)时(時)光( )总(總)是( )让(讓)人( )怀(懷)念( )。
-    - Jiù shíguāng zǒng shì ràng rén huáiniàn.
-    - Old times always bring nostalgia.
+  - 这(這)本( )书(書)很( )旧(舊)。
+    - Zhè běn shū hěn jiù.
+    - This book is very old.
+  - 我( )找( )到( )了( )旧(舊)照( )片( )。
+    - Wǒ zhǎodào le jiù zhàopiàn.
+    - I found the old photos.
+  - 他( )老( )想( )着( )过(過)去( )的( )旧(舊)时(時)光( )。
+    - Tā lǎo xiǎngzhe guòqù de jiù shíguāng.
+    - He always reminisces about the past times.
 ### 旧(舊)梦(夢) → 旧(舊) → 雈
 - **definition:** owl
 - **pinyin:** huán

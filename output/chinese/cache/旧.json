@@ -5,9 +5,9 @@
   "english": "old; past; worn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "雈(雈) (huán, 'owl') + 臼(臼) (jiù, 'mortar') = originally an owl -> phonetically borrowed for 'old'",
-    "interpretation": "舊(舊) combines the semantic component 雈(雈) representing an owl, and the phonetic component 臼(臼). It was later used for its phonetic value to represent the concept of 'old’ as this word sounded the same as a word meaning 'old'.",
-    "simplification": "舊(舊) was simplified to 旧(舊) by replacing 雈(雈) (huán, 'owl') with 日(日) (rì, 'sun'), which is visually simpler and retains some phonetic similarity."
+    "description": "semantic 雈 ('owl') + phonetic 臼 (sound) -> originally a type of owl -> borrowed for 'old'",
+    "interpretation": "舊 originally depicted a type of owl, using 雈 for its meaning. It was later borrowed phonetically to represent the concept 'old', as the sound of the character matched a word for 'old' in phonetic series.",
+    "simplification": "舊(舊) was simplified to 旧(舊) by removing 雈 (owl) and replacing it with the simpler component 臼 (used as a radical and phonetic)."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个旧房子很有历史(這個舊房子很有歷史)。",
-      "pinyin": "Zhège jiù fángzi hěn yǒu lìshǐ.",
-      "english": "This old house has a lot of history."
+      "chinese": "这本书很旧(這本書很舊)。",
+      "pinyin": "Zhè běn shū hěn jiù.",
+      "english": "This book is very old."
     },
     {
-      "chinese": "他穿着旧鞋子(他穿著舊鞋子)，走了很长的路(走了很長的路)。",
-      "pinyin": "Tā chuānzhe jiù xiézi, zǒu le hěn cháng de lù.",
-      "english": "He wore old shoes and walked a long way."
+      "chinese": "我找到了旧照片(我找到了舊照片)。",
+      "pinyin": "Wǒ zhǎodào le jiù zhàopiàn.",
+      "english": "I found the old photos."
     },
     {
-      "chinese": "旧时光总是让人怀念(舊時光總是讓人懷念)。",
-      "pinyin": "Jiù shíguāng zǒng shì ràng rén huáiniàn.",
-      "english": "Old times always bring nostalgia."
+      "chinese": "他老想着过去的旧时光(他老想着過去的舊時光)。",
+      "pinyin": "Tā lǎo xiǎngzhe guòqù de jiù shíguāng.",
+      "english": "He always reminisces about the past times."
     }
   ]
 }

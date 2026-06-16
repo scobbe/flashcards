@@ -59,18 +59,11 @@
 ### 世界 → 世 → 枼
 - **definition:** leaf
 - **pinyin:** yè
-- **components:**
-  - 葉
-    - yè
-    - leaf
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts leaves growing from a tree ->
-    - original form of 葉 (yè, "leaf") ->
-    - phonetically borrowed to represent "flat"
-  - **interpretation:** The character originally depicted leaves sprouting from a tree, visually representing the concept of a leaf. It later became the original form of 葉 (yè, "leaf") and was also used to represent the word "flat" due to phonetic borrowing.
-### 世界 → 世 → 枼 → 葉
+  - **description:** Depicts a leaf or leaves growing from a tree
+  - **interpretation:** The character 枼 depicts the image of leaves, which are associated with a tree. Originally, it was the form used for the word 'leaf', later phonetically borrowed to represent 'flat'.
+### 世界 → 世 → 葉
 - **definition:** leaf
 - **pinyin:** yè
 - **components:**
@@ -104,7 +97,7 @@
   - 唐( )诗(詩)中( )常( )提( )到( )飘(飄)零( )的( )葉( )，寄( )托( )着(著)诗(詩)人( )的( )寂( )寞( )。
     - Táng shī zhōng cháng tí dào piāo líng de yè, jì tuō zhe shī rén de jì mò。
     - Tang poems often mention falling leaves, symbolizing the poet's solitude.
-### 世界 → 世 → 枼 → 葉 → 艸
+### 世界 → 世 → 葉 → 艸
 - **definition:** grass
 - **pinyin:** cǎo
 - **components:**
@@ -128,7 +121,7 @@
   - 秋( )天( )时(時)艸( )变(變)黄(黃)，冬天它又枯萎。
     - Qiūtiān shí cǎo biàn huáng, dōngtiān tā yòu kūwěi.
     - In autumn, the grass turns yellow, and in winter, it withers.
-### 世界 → 世 → 枼 → 葉 → 艸 → 屮
+### 世界 → 世 → 葉 → 艸 → 屮
 - **definition:** grass
 - **pinyin:** chè
 - **etymology:**
@@ -142,7 +135,7 @@
   - 草屮初生露尖端。
     - cǎo chè chū shēng lù jiān duān.
     - The grass sprout's tip has just emerged.
-### 世界 → 世 → 枼 → 葉 → 口
+### 世界 → 世 → 葉 → 口
 - **definition:** mouth
 - **pinyin:** kǒu
 - **etymology:**
@@ -159,7 +152,7 @@
   - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
     - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
     - The little girl took a bite of the apple and smiled sweetly.
-### 世界 → 世 → 枼 → 葉 → 十
+### 世界 → 世 → 葉 → 十
 - **definition:** ten
 - **pinyin:** shí
 - **etymology:**
@@ -515,20 +508,13 @@
 ### 闭(閉)嘴( ) → 嘴 → 觜 → 此 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - stop
-  - 爪
-    - zhuǎ
-    - claw
-  - 又
-    - yòu
-    - hand
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stylized foot with three toes pointing up, originally sharing the meaning with 止 (zhǐ, "stop") as a footprint
-  - **interpretation:** 龰(yù, "stylized feet") visually represents a foot with toes, highlighting the original idea of a footprint pointing upwards. The arrangement of toes is akin to other characters that symbolize human limbs or extremities, such as 爪(zhuǎ, "claw") and 又(yòu, "hand").
+  - **description:**
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 闭(閉)嘴( ) → 嘴 → 觜 → 此 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -1540,17 +1526,13 @@
 ### 支持 → 持 → 寺 → 之 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot; stop
 - **etymology:**
-  - **type:** ideogrammic compound
+  - **type:** pictogram
   - **description:**
-    - 止 (zhǐ, "foot; stop") stylized as 龰 in oracle script ->
-    - depicted with three toes and a sole ->
-    - became stylized as 'stylized feet'
-  - **interpretation:** The character 龰 represents a stylized foot, originating from the pictogram of a footprint depicted as 止 (zhǐ, "foot; stop"). In the oracle script, it was composed of a sole and three toes. Over time, it became more abstract, leading to its use as a component in various characters related to feet and movement.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 支持 → 持 → 寺 → 之 → 一
 - **definition:** the beginning place
 - **pinyin:** yī
@@ -1609,44 +1591,42 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 雈 (huán, 'owl') + 臼 (jiù, 'mortar') =
-    - originally an owl ->
-    - phonetically borrowed for 'old'
-  - **interpretation:** 舊 combines the semantic component 雈 representing an owl, and the phonetic component 臼. It was later used for its phonetic value to represent the concept of 'old’ as this word sounded the same as a word meaning 'old'.
-  - **simplification:** 舊 was simplified to 旧(舊) by replacing 雈 (huán, 'owl') with 日 (rì, 'sun'), which is visually simpler and retains some phonetic similarity.
+    - semantic 雈 ('owl') + phonetic 臼 (sound) ->
+    - originally a type of owl ->
+    - borrowed for 'old'
+  - **interpretation:** 舊 originally depicted a type of owl, using 雈 for its meaning. It was later borrowed phonetically to represent the concept 'old', as the sound of the character matched a word for 'old' in phonetic series.
+  - **simplification:** 舊 was simplified to 旧(舊) by removing 雈 (owl) and replacing it with the simpler component 臼 (used as a radical and phonetic).
 - **examples:**
-  - 这(這)个(個)旧(舊)房( )子( )很( )有( )历(歷)史( )。
-    - Zhège jiù fángzi hěn yǒu lìshǐ.
-    - This old house has a lot of history.
-  - 他( )穿( )着(著)旧(舊)鞋( )子( )，走( )了( )很( )长(長)的( )路( )。
-    - Tā chuānzhe jiù xiézi, zǒu le hěn cháng de lù.
-    - He wore old shoes and walked a long way.
-  - 旧(舊)时(時)光( )总(總)是( )让(讓)人( )怀(懷)念( )。
-    - Jiù shíguāng zǒng shì ràng rén huáiniàn.
-    - Old times always bring nostalgia.
+  - 这(這)本( )书(書)很( )旧(舊)。
+    - Zhè běn shū hěn jiù.
+    - This book is very old.
+  - 我( )找( )到( )了( )旧(舊)照( )片( )。
+    - Wǒ zhǎodào le jiù zhàopiàn.
+    - I found the old photos.
+  - 他( )老( )想( )着( )过(過)去( )的( )旧(舊)时(時)光( )。
+    - Tā lǎo xiǎngzhe guòqù de jiù shíguāng.
+    - He always reminisces about the past times.
 ### 旧(舊) → 雈
 - **definition:** owl
 - **pinyin:** huán
 - **components:**
   - 雚
     - guàn
-    - reed
+    - type of bird
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an owl sitting on a tree
-  - **interpretation:** The character 雈 (huán, "owl") is a pictogram illustrating an owl perched in a tree, conveying the idea visually through its form. The resemblance of 雈 to the related character 雚 (guàn, "reed") illustrates how similar graphical elements can lead to different meanings.
+  - **description:** Depicts an owl, similar to 雚 (guàn, "type of bird")
+  - **interpretation:** The character 雈 (huán, "owl") is a pictogram depicting the silhouette or characteristics of an owl. Historically, it is visually similar to 雚 (guàn, "type of bird"), emphasizing its avian nature. This is a direct representation of the creature it denotes.
 ### 旧(舊) → 雈 → 雚
-- **definition:** reed
+- **definition:** type of bird
 - **pinyin:** guàn
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Originally a pictogram of a stork ->
-    - same character with 雈 (reed) ->
-    - 吅 added for phonetic reasons ->
-    - now resembles 鳥 (bird)
-  - **interpretation:** The character 雚 (guàn, "reed") was originally a pictogram representing a stork, denoting its similarity to another character 雈, symbolizing its original meaning. It evolved by adding 吅 to clarify the phonetic aspect, linking it to the pronunciation while retaining its pictorial essence.
-  - **simplification:** The character is complexified now as 鸛 (guàn, "stork") to differentiate the meanings and to capture the modern representation of the stork.
+    - Originally depicted a stork ->
+    - additional component 吅 (xūn) suggests vocalization ->
+    - final form 雚 (guān, "cry of waterfowl")
+  - **interpretation:** The character 雚 (guān) originally depicted a stork and was a pictogram. Over time, it evolved with the addition of 吅 (xūn) to indicate the vocalization of the bird, becoming associated with the cry of waterfowl.
 ### 旧(舊) → 臼
 - **definition:** mortar
 - **pinyin:** jiù
@@ -1681,9 +1661,9 @@
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 廾 ("both hands") + 午 ("pestle") + 臼 ("mortar") =
+    - 廾 (both hands) + 午 (pestle) + 臼 (mortar) =
     - using both hands to pound with a mortar and pestle
-  - **interpretation:** The character 舂(chōng, "pound grain") represents the action of pounding grain using both hands with a pestle and mortar, combining elements that depict this specific manual process logically.
+  - **interpretation:** The character 舂(chōng, 'pound grain') represents the action of using both hands to pound grain with a pestle in a mortar. The combination of these components reflects the traditional method of processing grains. 廾 (gǒng, 'both hands') suggests the manual aspect, 午 (wǔ, 'pestle') indicates the tool used, and 臼 (jiù, 'mortar') represents the container. This imagery directly ties to its meaning of pounding grain.
 ### 旧(舊) → 臼 → 舂 → 廾
 - **definition:** both hands
 - **pinyin:** gǒng
@@ -2084,9 +2064,9 @@
 - **definition:** locked door; two wooden sticks to lock a door
 - **pinyin:** guàn
 - **etymology:**
-  - **type:** simplified character of 丱
-  - **description:** simplified/variant of 丱
-  - **interpretation:** 卝 is a simplified or variant form and is not commonly used with its own distinct structure. It's generally associated with other forms, primarily 丱, which does not provide a clear etymological insight itself but is also linked to other characters like 礦.
+  - **type:** pictogram
+  - **description:** Depicts two wooden sticks or bars
+  - **interpretation:** The character 卝 (guàn) originally depicted two wooden sticks or bars, representing a locked door mechanism where wood was used to secure the door.
 ---
 ## 关(關)
 ### guān

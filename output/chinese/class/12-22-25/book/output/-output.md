@@ -449,9 +449,9 @@
   - **type:** phono-semantic compound
   - **description:**
     - 甫 (fǔ, "garden") + 寸 (cùn, "hand") =
-    - growing or distributing crops referenced by a hand in a field ->
-    - phonetic component
-  - **interpretation:** The character 尃 combines the sound from 甫 (fǔ, "garden") and the meaning from 寸 (cùn, "hand") to convey the action of distributing or growing something, often related to agriculture. Although it visually suggests hands operating within the context of land, its primary role in modern usage is phonetic.
+    - reference to agricultural distribution ->
+    - elaborate
+  - **interpretation:** The character combines the phonetic element 甫 (fǔ, "garden"), suggesting the original context of distributing crops, with the semantic component 寸 (cùn, "hand"), reinforcing the idea of distributing or handling goods, leading to the broad meaning of 'elaborating'.
 ### 胳膊 → 膊 → 尃 → 甫
 - **definition:** garden
 - **pinyin:** fǔ
@@ -577,7 +577,7 @@
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts a bowl of rice on a stand
-  - **interpretation:** The character 皀(jī, 'food vessel') is a pictogram representing a bowl of rice, indicating its function as a container for food, which relates to its association with the radical 食(shí, 'food').
+  - **interpretation:** The character 皀(bá, 'acorn') is a pictogram illustrating a bowl of rice set upon a stand, conveying the idea of a small, rounded object resembling an acorn.
 ### 腿 → 退 → 夊
 - **definition:** downward foot
 - **pinyin:** suī
@@ -992,10 +992,8 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a bent line representing exhalation ->
-    - represents exhaled air
-  - **interpretation:** This character suggests the image of breath being released, with the bent line indicating the path or movement of air as it is exhaled.
+  - **description:** Depicts exhaled air; breath or vapor
+  - **interpretation:** 丂(kǎo, "exhaled air") is traditionally depicted as the shape of breath or vapor being exhaled, characterizing the concept of air being expelled from the mouth. This led to meanings associated with breath or something that has escaped into the air.
 ---
 ## 骑(騎)
 ### qí
@@ -1382,6 +1380,9 @@
   - 河水潺潺，沿( )岸( )绿(綠)树(樹)成( )荫(蔭)。
     - Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.
     - The river flows babbling, and green trees along the bank provide shade.
+- **historical forms:**
+
+![Historical forms of 水](@media/glyph6c34.png)
 ### 注意 → 注 → 主
 - **definition:** master
 - **pinyin:** zhǔ
@@ -1913,8 +1914,18 @@
     - early
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** Originally a variant form of 早 (zǎo, "early"), evolving to retain its sense as "acorn" as 皁.
-  - **interpretation:** Although 皁 is listed as a variant form of 早 (zǎo, "early"), it specifically retained the meaning of "acorn," suggesting a semantic shift while maintaining the phonetic components of its earlier form.
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 医(醫)药(藥)费(費) → 药(藥) → 樂 → 白 → 皂 → 早
 - **definition:** early
 - **pinyin:** zǎo
@@ -2376,16 +2387,13 @@
 ### 送 → 辶(辵) → 辵 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized foot with a footprint pointing upward ->
-    - 龰
-  - **interpretation:** The character 龰(yù, 'stylized feet') is a pictogram representing a footprint with toes pointing upward, suggesting a foot in its most simplified visual form. It originally denoted 'foot' and evolved separately as a derivative from the character 止 (zhǐ, 'foot'), which is why it bears a resemblance to other characters representing limbs or extremities.
+    - Depicts a stylized footprint pointing upward ->
+    - originally meaning 'foot' ->
+    - later forms like 趾 (zhǐ, 'toe') refer back to original meaning
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram showing a footprint pointing up, originally indicating the concept of a foot. The character 趾 (zhǐ, 'toe') evolved from this and retains the reference to the original meaning. It visually resembles a sole with three toes, similar to representations of the human hand in characters like 爪 (zhuǎ, 'claw'), 寸 (cùn, 'inch'), and 又 (yòu, 'again').
 ### 送 → 辶(辵) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -2448,11 +2456,9 @@
 - **definition:** locked door; two wooden sticks to lock a door
 - **pinyin:** guàn
 - **etymology:**
-  - **type:** variant form
-  - **description:**
-    - Simplified/variant form of 丱 (guàn, 'youthful hair; ancient hairpin') ->
-    - related to 礦 (kuàng, 'ore') by extension
-  - **interpretation:** While 卝 is noted as a simplified or variant form, the etymology points to its occasional use related to 'ore' or 'mineral,' reflecting its historical borrowing from this context.
+  - **type:** pictogram
+  - **description:** Depicts two wooden sticks or bars
+  - **interpretation:** The character 卝 (guàn) originally depicted two wooden sticks or bars, representing a locked door mechanism where wood was used to secure the door.
 ---
 ## 送
 ### sòng
@@ -2722,12 +2728,32 @@
 ### 撞 → 童 → 䇂
 - **definition:** chisel
 - **pinyin:** chisel
+- **components:**
+  - 辛
+    - xīn
+    - bitter
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a primitive chisel or tool for marking prisoners ->
-    - point became horizontal stroke
-  - **interpretation:** The character 䇂 is an ancient depiction of a chisel or tool, emphasizing its use to mark prisoners. The central point in its structure, which transformed into a horizontal stroke, highlights the tool's function. This ancient form provides insight into early societal practices regarding punishment or identification.
+    - Original version of 辛 (xīn, "bitter") ->
+    - depicts a chisel used to mark prisoners
+  - **interpretation:** The character 䇂 originally depicted a chisel tool, indicating its use in marking. This form evolved into 辛, which retains no functional relation to marking but conveys meanings related to hardship, likely influenced by the history of the chisel's use.
+### 撞 → 童 → 䇂 → 辛
+- **definition:** bitter
+- **pinyin:** xīn
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a tool—chisel, awl, spike—used to mark slaves and criminals ->
+    - 辛
+  - **interpretation:** The character 辛(xīn, 'spice'), while meaning 'spice' in contemporary usage, originally depicted a tool used for branding slaves and criminals, indicating its historical connection to marking and intensity.
+- **examples:**
+  - 我( )在( )厨(廚)房( )里(裡)加( )了( )些( )辛( )，使( )得( )菜( )的( )味( )道( )更( )加( )丰(豐)富( )。
+    - Wǒ zài chúfáng lǐ jiā le xiē xīn, shǐdé cài de wèidào gèngjiā fēngfù.
+    - I added some spice in the kitchen, making the dish more flavorful.
+  - 这(這)家( )餐( )馆(館)以( )独(獨)特( )的( )辛( )著( )称(稱)，吸引了很多食客。
+    - Zhè jiā cānguǎn yǐ dútè de xīn zhùchēng, xīyǐn le hěn duō shíkè.
+    - This restaurant is renowned for its unique spice, attracting many diners.
 ### 撞 → 童 → 見
 - **definition:** kneeling person with a huge eye
 - **pinyin:** jiàn
@@ -2866,7 +2892,7 @@
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts a bag with a bottom
-  - **interpretation:** The character 𣒚 visually represents a bag or container with a distinct base. It is a straightforward pictogram that conveys the concept of a sack or bag, emphasizing the stability and structure provided by the bottom of the container.
+  - **interpretation:** 𣒚 is a pictogram that visually represents a bag with a distinct bottom part. Its structure captures the shape and function of a container designed to hold items securely. This supports its meaning in textual works as a representation of a storage vessel.
 ### 撞 → 童 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
@@ -3024,48 +3050,10 @@
     - People gain growth along their journey.
 ### 伤(傷) → 𥏻
 - **definition:** phonetic
-- **components:**
-  - 竹
-    - zhú
-    - bamboo
-  - 木
-    - mù
-    - wood
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 竹 (zhú, "bamboo") + phonetic: 木 (mù, "wood") =
-    - represents a sound related to wood or bamboo ->
-    - phonetic representation
-  - **interpretation:** The character 𥏻 combines the radical for bamboo, 竹 (zhú, "bamboo"), with the phonetic element 木 (mù, "wood"), implying a relation to materials made from or functioning like bamboo or wood. However, this character primarily serves as a phonetic symbol rather than conveying a specific meaning.
-### 伤(傷) → 𥏻 → 竹
-- **definition:** bamboo
-- **pinyin:** zhú
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts bamboo stalks with leaves
-  - **interpretation:** The character 竹 (zhú, "bamboo") visually represents two stalks of bamboo with leaves at the top, illustrating the appearance of bamboo plants traditionally found in nature.
-- **examples:**
-  - 这(這)根( )竹( )坚(堅)韧(韌)且( )美( )丽(麗)。
-    - Zhè gēn zhú jiān rèn qiě měi lì.
-    - This bamboo is strong and beautiful.
-  - 竹( )子( )在( )风(風)中( )摇(搖)曳( )，发(發)出( )沙( )沙( )的( )声(聲)音( )。
-    - Zhúzi zài fēng zhōng yáo yè, fā chū shā shā de shēng yīn.
-    - The bamboo sways in the wind, making a rustling sound.
-### 伤(傷) → 𥏻 → 木
-- **definition:** wood
-- **pinyin:** mù
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a tree with branches and roots
-  - **interpretation:** The character 木(mù) depicts a tree, showing the trunk in the center and two slanting lines representing branches or roots. It directly signifies the concept of wood or a tree.
-- **examples:**
-  - 这(這)把( )椅( )子( )的( )主( )要( )材( )料( )是( )木( )。
-    - Zhè bǎ yǐzi de zhǔyào cáiliào shì mù.
-    - The main material of this chair is wood.
-  - 工匠精心雕刻木，制成精美家具。
-    - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
-    - The craftsman carefully carved the wood, crafting exquisite furniture.
+  - **description:** Depicts a window
+  - **interpretation:** The character 𥏻 is an ancient pictographic representation of a window with window panes. It is primarily used as a phonetic component in other characters.
 ### 伤(傷) → 力
 - **definition:** strength
 - **pinyin:** lì
@@ -3168,9 +3156,9 @@
 - **definition:** breath
 - **pinyin:** kǎo
 - **etymology:**
-  - **type:** conflation
-  - **description:** Represents a combination or merge of several early characters related to breath or sound
-  - **interpretation:** The character 丂(kǎo, 'breath') is a historical conflation of multiple characters related to breath or sound. It was used to denote breathing or the emission of gas or vapor. The simplicity of its form reflects an early stage of character development where precise differentiation between similar concepts was not strictly enforced.
+  - **type:** pictogram
+  - **description:** Depicts exhaled air; breath or vapor
+  - **interpretation:** 丂(kǎo, "exhaled air") is traditionally depicted as the shape of breath or vapor being exhaled, characterizing the concept of air being expelled from the mouth. This led to meanings associated with breath or something that has escaped into the air.
 ### 伤(傷) → 昜 → 彡
 - **definition:** rays of light
 - **pinyin:** xiǎn
@@ -3449,9 +3437,9 @@
   - **type:** ideogrammic compound
   - **description:**
     - 口 (kǒu, "mouth") + 口 (kǒu, "mouth") =
-    - multiple mouths speaking ->
-    - declare
-  - **interpretation:** The character 吅(xuān) is an ideogrammic compound illustrating the concept of multiple mouths, implying the act of declaring or speaking collectively.
+    - multiple mouths producing sound ->
+    - phonetic
+  - **interpretation:** The character 吅(xuān, "sound; phonetic") combines two 口 (kǒu, "mouth") to symbolize the idea of multiple mouths or repeated speech, indicating sound or phonetic elements.
 ### 检(檢)查( ) → 检(檢) → 僉 → 从(從)
 - **traditional:** 從
 - **definition:** follow
@@ -3822,8 +3810,8 @@
 - **pinyin:** n/a
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bag with a bottom, illustrating the character's meaning as a container.
-  - **interpretation:** The character 𣒚 visually represents a bag or container with an emphasized bottom, clearly communicating its purpose and function through its straightforward shape.
+  - **description:** Depicts a bag with a bottom
+  - **interpretation:** 𣒚 is a pictogram that visually represents a bag with a distinct bottom part. Its structure captures the shape and function of a container designed to hold items securely. This supports its meaning in textual works as a representation of a storage vessel.
 ### 重 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
