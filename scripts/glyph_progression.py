@@ -29,7 +29,9 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
 MEDIA = ROOT / "output" / "chinese" / "media"
-UA = "FlashcardsTool/1.0 (personal Chinese study project)"
+# Wikimedia requires a policy-compliant User-Agent with contact info; a generic
+# one gets 429'd by upload.wikimedia.org regardless of rate.
+UA = "ChineseFlashcards/1.0 (https://github.com/scobbe/flashcards; scobbe502@gmail.com) python-requests"
 FONT = "/System/Library/Fonts/Supplemental/Arial.ttf"
 API = "https://app.mochi.cards/api"
 
