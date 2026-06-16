@@ -1,0 +1,20 @@
+{
+  "file_status": {
+    "1.世界": "complete",
+    "2.杯": "complete",
+    "3.参加": "complete",
+    "4.赢": "complete",
+    "5.支持": "complete",
+    "6.旧": "complete",
+    "7.老": "complete",
+    "8.关": "complete",
+    "9.闭": "complete",
+    "10.闭嘴": "complete",
+    "11.邻居": "complete"
+  },
+  "complete": 11,
+  "in_progress": 0,
+  "pending": 0,
+  "error": 0,
+  "complete_contiguous": 11
+}

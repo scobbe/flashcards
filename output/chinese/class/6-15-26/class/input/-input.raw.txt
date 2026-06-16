@@ -1,0 +1,12 @@
+Chinese,Pinyin,English
+世界,shìjiè,world
+杯,bēi,cup
+参加,cānjiā,to participate; to attend
+赢,yíng,to win
+支持,zhīchí,to support
+旧,jiù,old (of things)
+老,lǎo,old
+关,guān,to close; to shut; to turn off
+闭,bì,to close; to shut
+闭嘴,bìzuǐ,to shut up
+邻居,línjū,neighbor
