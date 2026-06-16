@@ -1,0 +1,44 @@
+{
+  "simplified": "星期二",
+  "traditional": "星期二",
+  "pinyin": "xīngqī'èr",
+  "english": "Tuesday",
+  "etymology": {
+    "type": "compound word",
+    "description": "星期(星期) (xīngqī, \"week\") + 二(二) (èr, \"two\") = the second day of the week -> Tuesday",
+    "interpretation": "星期(星期) (xīngqī, \"week\") refers to the cycle of seven days, while 二(二) (èr, \"two\") denotes the second day of this cycle. Therefore, 星期二 (xīngqī'èr) specifically refers to Tuesday as the second day of the week.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "星期",
+      "trad": "星期",
+      "pinyin": "xīngqī",
+      "english": "week"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们在星期二开会(我們在星期二開會)。",
+      "pinyin": "Wǒmen zài xīngqī'èr kāihuì.",
+      "english": "We have a meeting on Tuesday."
+    },
+    {
+      "chinese": "星期二是我的休息日(星期二是我的休息日)。",
+      "pinyin": "Xīngqī'èr shì wǒ de xiūxī rì.",
+      "english": "Tuesday is my day off."
+    },
+    {
+      "chinese": "她每个星期二去上健身课(她每個星期二去上健身課)。",
+      "pinyin": "Tā měi gè xīngqī'èr qù shàng jiànshēn kè.",
+      "english": "She attends a fitness class every Tuesday."
+    }
+  ]
+}

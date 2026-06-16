@@ -1,0 +1,44 @@
+{
+  "simplified": "嘴",
+  "traditional": "嘴",
+  "pinyin": "zuǐ",
+  "english": "mouth",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, \"mouth\") as semantic indicator + 觜(觜) (zuǐ, \"beak\") as phonetic component -> mouth",
+    "interpretation": "The character 嘴 (zuǐ, \"mouth\") combines 口(口) (kǒu, \"mouth\") to denote a relation to speech or the mouth, with 觜(觜) (zuǐ, \"beak\") providing the phonetic sound. This suggests a meaning associated with the mouth, akin to beak-like features or functions.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "觜",
+      "trad": "觜",
+      "pinyin": "zuǐ",
+      "english": "beak"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "小猫用它的小嘴喝牛奶(小貓用它的小嘴喝牛奶)。",
+      "pinyin": "Xiǎo māo yòng tā de xiǎo zuǐ hē niúnǎi.",
+      "english": "The kitten drinks milk with its tiny mouth."
+    },
+    {
+      "chinese": "她张开嘴大笑(她張開嘴大笑)。",
+      "pinyin": "Tā zhāngkāi zuǐ dà xiào.",
+      "english": "She opened her mouth and laughed loudly."
+    },
+    {
+      "chinese": "后来，他忍不住开口说话(後來，他忍不住開口說話)。",
+      "pinyin": "Hòulái, tā rěnbuzhù kāikǒu shuōhuà.",
+      "english": "Later, he couldn't help but open his mouth to speak."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "问题",
+  "traditional": "問題",
+  "pinyin": "wèntí",
+  "english": "problem; question",
+  "etymology": {
+    "type": "compound word",
+    "description": "问(問) (wèn, \"ask\") refers to the act of inquiring or posing a question. 题(題) (tí, \"topic; subject; title\") denotes the subject or main point of discussion or inquiry. Combining these characters, 问题(問題) (wèntí, \"problem; question\") signifies an issue or topic that requires one to ask questions or seek solutions.",
+    "interpretation": "The word 问题(問題) (wèntí) represents an inquiry (问/問) about a specific subject (题/題), making it relevant for both questions posed in an academic or conversational setting and problems that require resolution.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "问",
+      "trad": "問",
+      "pinyin": "wèn",
+      "english": "ask"
+    },
+    {
+      "char": "题",
+      "trad": "題",
+      "pinyin": "tí",
+      "english": "topic; subject; title"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他提出了一个问题(他提出了一個問題)。",
+      "pinyin": "Tā tíchūle yīgè wèntí.",
+      "english": "He raised a question."
+    },
+    {
+      "chinese": "我们需要解决问题(我們需要解決問題)。",
+      "pinyin": "Wǒmen xūyào jiějué wèntí.",
+      "english": "We need to solve the problem."
+    },
+    {
+      "chinese": "如果有问题(如果有問題)，请随时告诉我(請隨時告訴我)。",
+      "pinyin": "Rúguǒ yǒu wèntí, qǐng suíshí gàosù wǒ.",
+      "english": "If there are any problems, please let me know at any time."
+    }
+  ]
+}

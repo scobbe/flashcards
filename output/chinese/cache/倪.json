@@ -1,0 +1,44 @@
+{
+  "simplified": "倪",
+  "traditional": "倪",
+  "pinyin": "ní",
+  "english": "limit",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(人, \"person\") + 兒(儿, \"child\"/phonetic) = a figurative extension of limit or boundary -> referentially associated with limits of a person or actions",
+    "interpretation": "The character 倪(ní) combines 人(亻) (rén, \"person\") as the semantic component, indicating a relationship to human characteristics or conditions, with 兒(儿) as the phonetic component, suggesting the pronunciation. This combination may metaphorically suggest the limitations inherent to a person or situation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "儿",
+      "trad": "兒",
+      "pinyin": "ér",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他发现了事情的倪端(他發現了事情的倪端)。",
+      "pinyin": "Tā fāxiàn le shìqíng de ní duān.",
+      "english": "He discovered the clue to the situation."
+    },
+    {
+      "chinese": "这问题似乎没有尽头和倪端(這問題似乎沒有盡頭和倪端)。",
+      "pinyin": "Zhè wèntí sìhū méiyǒu jìntóu hé ní duān.",
+      "english": "This problem seems to have no end or limit."
+    },
+    {
+      "chinese": "科学的进步不断超越极限和倪端(科學的進步不斷超越極限和倪端)。",
+      "pinyin": "Kēxué de jìnbù bùduàn chāoyuè jíxiàn hé ní duān.",
+      "english": "Scientific progress constantly surpasses limits and boundaries."
+    }
+  ]
+}

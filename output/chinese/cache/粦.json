@@ -1,0 +1,34 @@
+{
+  "simplified": "粦",
+  "traditional": "粦",
+  "pinyin": "lín",
+  "english": "fire",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "炎(炎) ('fire; flame') + 舛(舛) ('feet') -> small seal script: 舛 detached, 大 with dots split as 炎 -> 米(米) ('rice'), 炎 and 舛 interpreted graphically",
+    "interpretation": "Initially used as a phonetic component, 粦(lín, 'fire') combines the elements of fire and feet, which were visually adapted over time. The character's modern form evolved through various script changes, leading to the inclusion of 米(米) (mǐ, 'rice') in its structure without retaining a semantic connection to rice.",
+    "simplification": "To simplify 鄰(鄰), the component 粦(粦) was replaced by 令(令) (lìng, 'order') for easier writing."
+  },
+  "parts": [
+    {
+      "char": "炎",
+      "trad": "炎",
+      "pinyin": "yán",
+      "english": "fire; flame"
+    },
+    {
+      "char": "舛",
+      "trad": "舛",
+      "pinyin": "chuǎn",
+      "english": "feet"
+    },
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "邻居",
+  "traditional": "鄰居",
+  "pinyin": "línjū",
+  "english": "neighbor",
+  "etymology": {
+    "type": "compound word",
+    "description": "鄰(邻) (lín, \"neighboring\") refers to something that is adjacent or next to something else. 居(居) (jū, \"reside\") means to live or dwell in a place.",
+    "interpretation": "鄰(邻) (lín, \"neighboring\") combined with 居(居) (jū, \"reside\") creates the concept of a 'neighbor,' which refers to people residing in adjacent or nearby homes.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "邻",
+      "trad": "鄰",
+      "pinyin": "lín",
+      "english": "neighboring; adjacent"
+    },
+    {
+      "char": "居",
+      "trad": "居",
+      "pinyin": "jū",
+      "english": "reside; live; dwell"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的邻居很友好(我的鄰居很友好)。",
+      "pinyin": "Wǒ de línjū hěn yǒuhǎo.",
+      "english": "My neighbor is very friendly."
+    },
+    {
+      "chinese": "我们经常和邻居一起聊天(我們經常和鄰居一起聊天)。",
+      "pinyin": "Wǒmen jīngcháng hé línjū yīqǐ liáotiān.",
+      "english": "We often chat with our neighbor."
+    },
+    {
+      "chinese": "邻居家的小狗很可爱(鄰居家的小狗很可愛)。",
+      "pinyin": "Línjū jiā de xiǎogǒu hěn kě'ài.",
+      "english": "The neighbor's puppy is very cute."
+    }
+  ]
+}

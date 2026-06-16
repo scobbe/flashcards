@@ -1,0 +1,44 @@
+{
+  "simplified": "酷",
+  "traditional": "酷",
+  "pinyin": "kù",
+  "english": "cool",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "酉(酉) (yǒu, \"alcoholic drink vessel\") + 告(告) (gào) = 酉(\"alcoholic drink vessel\") provides meaning related to fermentation -> 告 serves as the phonetic element -> final form of 酷",
+    "interpretation": "The character 酷(酷) (kù, \"cool\") combines 酉(酉) (yǒu, \"alcoholic drink vessel\") indicating fermentation or strong flavors, with 告(告) (gào) suggesting the phonetic sound, forming a character that conveys the sense of something intense or severe, historically applied to harshness or intensity, now colloquially adapted to mean 'cool' or 'stylish.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "酉",
+      "trad": "酉",
+      "pinyin": "yǒu",
+      "english": "alcoholic drink vessel"
+    },
+    {
+      "char": "告",
+      "trad": "告",
+      "pinyin": "gào",
+      "english": "announce"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的风格很酷(他的風格很酷)。",
+      "pinyin": "Tā de fēnggé hěn kù.",
+      "english": "His style is very cool."
+    },
+    {
+      "chinese": "这辆车看起来非常酷(這輛車看起來非常酷)。",
+      "pinyin": "Zhè liàng chē kàn qǐlái fēicháng kù.",
+      "english": "This car looks extremely cool."
+    },
+    {
+      "chinese": "她的新发型很酷(她的新髮型很酷)，让她看起来更有气质(讓她看起來更有氣質)。",
+      "pinyin": "Tā de xīn fàxíng hěn kù, ràng tā kàn qǐlái gèng yǒu qìzhí.",
+      "english": "Her new hairstyle is cool, making her look more elegant."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "杯",
+  "traditional": "杯",
+  "pinyin": "bēi",
+  "english": "cup",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "木(木) (mù, \"wood\") + 不(不) (bù, \"not\") = semantic wood + phonetic element -> final form",
+    "interpretation": "The character 杯(bēi, \"cup\") uses 木(木) (mù, \"wood\") as the semantic component, indicating a wooden object, and 不(不) (bù, \"not\") as the phonetic component to suggest pronunciation. The inclusion of wood likely references the historical use of wood in making drinking vessels.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我有一个新杯子(我有一個新杯子)。",
+      "pinyin": "Wǒ yǒu yīgè xīn bēizi.",
+      "english": "I have a new cup."
+    },
+    {
+      "chinese": "他给我倒了一杯茶(他給我倒了一杯茶)。",
+      "pinyin": "Tā gěi wǒ dào le yī bēi chá.",
+      "english": "He poured me a cup of tea."
+    },
+    {
+      "chinese": "请用这个杯子喝水(請用這個杯子喝水)。",
+      "pinyin": "Qǐng yòng zhège bēizi hē shuǐ.",
+      "english": "Please use this cup to drink water."
+    }
+  ]
+}

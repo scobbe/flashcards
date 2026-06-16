@@ -1,0 +1,44 @@
+{
+  "simplified": "赢",
+  "traditional": "贏",
+  "pinyin": "yíng",
+  "english": "to win",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "𦝠 (luó, phonetic) + 貝(貝) (bèi, \"cowry; money\") = phonetic indication with a semantic element of wealth -> to win",
+    "interpretation": "The character combines the phonetic 𦝠 (luó) with the semantic 貝(貝) (bèi, \"cowry; money\"), symbolizing success or gaining wealth, which aligns with the meaning of 'to win'.",
+    "simplification": "The character 贏 was simplified to 赢 by removing complex elements and merging parts for ease of writing."
+  },
+  "parts": [
+    {
+      "char": "𦝠",
+      "trad": "𦝠",
+      "pinyin": "luó",
+      "english": ""
+    },
+    {
+      "char": "貝",
+      "trad": "貝",
+      "pinyin": "bèi",
+      "english": "cowry; money"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在比赛中赢得了冠军(他在比賽中贏得了冠軍)。",
+      "pinyin": "Tā zài bǐsài zhōng yíngdé le guànjūn.",
+      "english": "He won the championship in the competition."
+    },
+    {
+      "chinese": "无论如何，我们都要努力去赢(無論如何，我們都要努力去贏)。",
+      "pinyin": "Wúlùn rúhé, wǒmen dōu yào nǔlì qù yíng.",
+      "english": "No matter what, we must strive to win."
+    },
+    {
+      "chinese": "我们的团队在最后一秒逆转赢得了比赛(我們的團隊在最後一秒逆轉贏得了比賽)。",
+      "pinyin": "Wǒmen de tuánduì zài zuìhòu yī miǎo nìzhuǎn yíngdé le bǐsài.",
+      "english": "Our team made a comeback and won the game in the last second."
+    }
+  ]
+}

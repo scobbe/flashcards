@@ -1,0 +1,44 @@
+{
+  "simplified": "闭嘴",
+  "traditional": "閉嘴",
+  "pinyin": "bìzuǐ",
+  "english": "to shut up",
+  "etymology": {
+    "type": "compound word",
+    "description": "闭(閉) (bì, \"close; shut\") + 嘴(嘴) (zuǐ, \"mouth\") describes the act of closing or shutting one's mouth, leading to the expression \"to shut up.\" This combination is straightforward as it involves closing the mouth to stop speaking.",
+    "interpretation": "闭(閉) (bì, \"close; shut\") paired with 嘴(嘴) (zuǐ, \"mouth\") literally means shutting the mouth, which is a direct way to indicate stopping speech.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "闭",
+      "trad": "閉",
+      "pinyin": "bì",
+      "english": "close; shut"
+    },
+    {
+      "char": "嘴",
+      "trad": "嘴",
+      "pinyin": "zuǐ",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他让大家闭嘴(他讓大家閉嘴)。",
+      "pinyin": "Tā ràng dàjiā bìzuǐ.",
+      "english": "He told everyone to shut up."
+    },
+    {
+      "chinese": "会议上有人要求他闭嘴(會議上有人要求他閉嘴)。",
+      "pinyin": "Huìyì shàng yǒurén yāoqiú tā bìzuǐ.",
+      "english": "Someone asked him to shut up during the meeting."
+    },
+    {
+      "chinese": "争论中，她突然对对方说闭嘴(爭論中，她突然對對方說閉嘴)！",
+      "pinyin": "Zhēnglùn zhōng, tā tūrán duì duìfāng shuō bìzuǐ!",
+      "english": "In the middle of the argument, she suddenly told the other person to shut up!"
+    }
+  ]
+}

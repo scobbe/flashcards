@@ -1,0 +1,44 @@
+{
+  "simplified": "老师",
+  "traditional": "老師",
+  "pinyin": "lǎoshī",
+  "english": "teacher",
+  "etymology": {
+    "type": "compound word",
+    "description": "老(老) (lǎo, \"old\") refers to someone of age and thus implies respect and experience. 师(師) (shī, \"teacher\") denotes someone who imparts knowledge or skills. Combining these, 老师(老師) (lǎoshī) suggests a \"respected person who teaches\" or a \"teacher.\"",
+    "interpretation": "The term 老师(老師) (lǎoshī) implies respect through age, commonly associated with wisdom, making it a respectful title for someone who imparts knowledge.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "老",
+      "trad": "老",
+      "pinyin": "lǎo",
+      "english": "old; experienced"
+    },
+    {
+      "char": "师",
+      "trad": "師",
+      "pinyin": "shī",
+      "english": "teacher; expert"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师(老師)今天给我们布置了很多作业(今天給我們布置了很多作業)。",
+      "pinyin": "Lǎoshī jīntiān gěi wǒmen bùzhìle hěn duō zuòyè.",
+      "english": "The teacher assigned us a lot of homework today."
+    },
+    {
+      "chinese": "我们的老师(我們的老師)很有耐心(很有耐心)。",
+      "pinyin": "Wǒmen de lǎoshī hěn yǒu nàixīn.",
+      "english": "Our teacher is very patient."
+    },
+    {
+      "chinese": "老师说(老師說)学习是一个持续的过程(學習是一個持續的過程)。",
+      "pinyin": "Lǎoshī shuō xuéxí shì yī gè chíxù de guòchéng.",
+      "english": "The teacher says learning is a continuous process."
+    }
+  ]
+}

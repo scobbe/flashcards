@@ -1,0 +1,5 @@
+[嘴]
+Phono-semantic compound ( 形聲 / 形声 , OC *ʔseʔ ): semantic 口 + phonetic 觜 ( OC *ʔse, *ʔse, *ʔseʔ ) .
+
+[咀]
+Phono-semantic compound ( 形聲 / 形声 , OC *ʔsaʔ, *zaʔ ): semantic 口 ( “ speech ” ) + phonetic 且 ( OC *sʰjaːʔ, *ʔsa ) .

@@ -1,0 +1,44 @@
+{
+  "simplified": "题",
+  "traditional": "題",
+  "pinyin": "tí",
+  "english": "topic; subject; title",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 是(是) (shì) + Semantic: 頁(頁) (yè, \"head\") = represents 'forehead' -> elaborated to mean 'topic; heading'",
+    "interpretation": "The character 題(題) integrates 是(是) (shì, \"is\") as the phonetic component and 頁(頁) (yè, \"head\") as the semantic component, hinting at the idea of referring to something conceptual on a 'figurative forehead'. Over time it evolved to mean 'topic' or 'title'.",
+    "simplification": "The character 題(題) was simplified to 题 by replacing 頁(頁) with its simplified form 页(页), reducing the number of strokes while maintaining the phonetic component 是(是)."
+  },
+  "parts": [
+    {
+      "char": "是",
+      "trad": "是",
+      "pinyin": "shì",
+      "english": "is"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "老师给我们布置了一道有趣的题(老師給我們佈置了一道有趣的題)。",
+      "pinyin": "Lǎoshī gěi wǒmen bùzhìle yī dào yǒuqù de tí.",
+      "english": "The teacher assigned us an interesting topic."
+    },
+    {
+      "chinese": "面对复杂的题(面對複雜的題)，他显得有些不知所措(他顯得有些不知所措)。",
+      "pinyin": "Miànduì fùzá de tí, tā xiǎndé yǒuxiē bù zhī suǒ cuò.",
+      "english": "Faced with the complex subject, he seemed a bit overwhelmed."
+    },
+    {
+      "chinese": "这篇文章的题很吸引人(這篇文章的題很吸引人)。",
+      "pinyin": "Zhè piān wénzhāng de tí hěn xīyǐn rén.",
+      "english": "The title of this article is very captivating."
+    }
+  ]
+}

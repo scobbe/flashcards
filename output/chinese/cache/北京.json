@@ -1,0 +1,44 @@
+{
+  "simplified": "北京",
+  "traditional": "北京",
+  "pinyin": "Běijīng",
+  "english": "Beijing",
+  "etymology": {
+    "type": "compound word",
+    "description": "北(北) (běi, \"north\") is used in astronomy and geography to denote north as one of the cardinal directions, and 京(京) (jīng, \"capital\") refers to a large city or the capital city of a region or country. China has a long history of naming its capitals using directions to distinguish them from other prominent cities.",
+    "interpretation": "北京(北京) (Běijīng, \"Beijing\") means 'northern capital.' The name was chosen because, in Chinese history, the city of Beijing was established as a major political center to the north, differentiating it from other traditional capitals like 南京(南京) (Nánjīng, \"southern capital\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "北",
+      "trad": "北",
+      "pinyin": "běi",
+      "english": "north"
+    },
+    {
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": "capital; large city"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "北京(北京)是中国的首都。",
+      "pinyin": "Běijīng shì Zhōngguó de shǒudū.",
+      "english": "Beijing is the capital of China."
+    },
+    {
+      "chinese": "我计划在北京(北京)度假。",
+      "pinyin": "Wǒ jìhuà zài Běijīng dùjià.",
+      "english": "I plan to vacation in Beijing."
+    },
+    {
+      "chinese": "北京(北京)的故宫很有名。",
+      "pinyin": "Běijīng de Gùgōng hěn yǒumíng.",
+      "english": "The Forbidden City in Beijing is very famous."
+    }
+  ]
+}

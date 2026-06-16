@@ -1,0 +1,44 @@
+{
+  "simplified": "持",
+  "traditional": "持",
+  "pinyin": "chí",
+  "english": "to hold; maintain; support",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "手(手) (shǒu, \"hand\") + 寺(寺) (sì, \"temple\") = hand positioning something in a manner akin to being orderly as in a temple -> to hold or maintain",
+    "interpretation": "The character 持 combines the semantic element 手(手) (shǒu, \"hand\") indicating a manual action, with the phonetic element 寺(寺) (sì, \"temple\") to suggest the orderly position associated with holding or maintaining something, as one might maintain a temple.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "char": "寺",
+      "trad": "寺",
+      "pinyin": "sì",
+      "english": "temple"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他一直持积极的态度(他一直持積極的態度)。",
+      "pinyin": "Tā yīzhí chí jījí de tàidù.",
+      "english": "He always maintains a positive attitude."
+    },
+    {
+      "chinese": "在这个团队中，大家都互相支持(在這個團隊中，大家都互相支持)。",
+      "pinyin": "Zài zhège tuánduì zhōng, dàjiā dōu hùxiāng zhīchí.",
+      "english": "In this team, everyone supports each other."
+    },
+    {
+      "chinese": "他能够持久地微笑(他能夠持久地微笑)，让人感到温暖(讓人感到溫暖)。",
+      "pinyin": "Tā nénggòu chíjiǔ de wēixiào, ràng rén gǎndào wēnnuǎn.",
+      "english": "He can maintain a lasting smile, making others feel warmth."
+    }
+  ]
+}

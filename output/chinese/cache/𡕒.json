@@ -1,12 +1,12 @@
 {
   "simplified": "𡕒",
   "traditional": "𡕒",
-  "pinyin": "unknown",
-  "english": "",
+  "pinyin": "yī",
+  "english": "layered shape",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "足(足) (zú, \"foot\") + 夸(夸) (kuā, \"boast\") = foot's action with expansion -> action of striding or stretching the leg, meaning lend support to 跨(跨) (kuà, \"straddle\")",
-    "interpretation": "The character 𡕒 is a variant form of 跨(跨) (kuà, \"straddle\") and involves 足(足) (zú, \"foot\"), which indicates an action involving the feet, and 夸(夸) (kuā, \"boast\"), which likely contributes the phonetic aspect. This combination helps convey the idea of spreading or extending legs across something.",
+    "description": "足(足) (zú, \"foot\") + 夸(夸) (kuā, \"boast\") = foot stepping broadly (夸) -> final meaning \"layered shape\"",
+    "interpretation": "The character 𡕒, a variant form of 跨(跨) (kuà, \"stride\"), combines the semantic component 足(足) (zú, \"foot\") linked to movement or action with the phonetic component 夸(夸) (kuā, \"boast\"), suggesting a bold or broad movement originally associated with stepping across or striding. The meaning \"layered shape\" likely evolved from the interpretation of layered or stratified arrangement tied to broad structures.",
     "simplification": ""
   },
   "parts": [
@@ -21,12 +21,6 @@
       "trad": "夸",
       "pinyin": "kuā",
       "english": "boast"
-    },
-    {
-      "char": "跨",
-      "trad": "跨",
-      "pinyin": "kuà",
-      "english": "straddle"
     }
   ],
   "in_contemporary_usage": false,

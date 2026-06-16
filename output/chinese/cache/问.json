@@ -1,0 +1,44 @@
+{
+  "simplified": "问",
+  "traditional": "問",
+  "pinyin": "wèn",
+  "english": "ask",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 門(門) (mén, \"door\") + semantic: 口(口) (kǒu, \"mouth\") = speaking through a door -> ask",
+    "interpretation": "The character 問(問) (wèn, \"ask\") combines 門(門) (mén, \"door\") as the phonetic component, suggesting pronunciation, with 口(口) (kǒu, \"mouth\") representing speech or asking, indicating the idea of communicating or asking through a barrier, metaphorically implying inquiry.",
+    "simplification": "Simplified to 问(問) by replacing 門(門) (mén, \"door\") with its simplified form 门(門)."
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他想问老师一个问题(他想問老師一個問題)。",
+      "pinyin": "Tā xiǎng wèn lǎoshī yī gè wèntí.",
+      "english": "He wants to ask the teacher a question."
+    },
+    {
+      "chinese": "请问您贵姓(請問您貴姓)？",
+      "pinyin": "Qǐngwèn nín guìxìng?",
+      "english": "May I ask your surname?"
+    },
+    {
+      "chinese": "我们应该问路(我們應該問路)，免得迷路(免得迷路)。",
+      "pinyin": "Wǒmen yīnggāi wèn lù, miǎnde mílù.",
+      "english": "We should ask for directions to avoid getting lost."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "觜",
+  "traditional": "觜",
+  "pinyin": "zuǐ",
+  "english": "beak",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 此(ci, \"this\") + semantic: 角(jiǎo, \"horn\") = beak",
+    "interpretation": "The character 觜(觜) (zuǐ, \"beak\") is a phono-semantic compound combining the phonetic component 此(此) (cǐ, \"this\") and the semantic component 角(角) (jiǎo, \"horn\"), symbolizing the pointed shape of a beak which is similar to a horn.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "此",
+      "trad": "此",
+      "pinyin": "cǐ",
+      "english": "this"
+    },
+    {
+      "char": "角",
+      "trad": "角",
+      "pinyin": "jiǎo",
+      "english": "horn"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "参加",
+  "traditional": "參加",
+  "pinyin": "cānjiā",
+  "english": "to participate; to attend",
+  "etymology": {
+    "type": "compound word",
+    "description": "參(參) (cān, \"participate\") and 加(加) (jiā, \"add\") together convey the meaning of joining or being part of something by 'adding' oneself into a group or activity.",
+    "interpretation": "The combination of 參(參) (cān, \"participate\") and 加(加) (jiā, \"add\") illustrates the action of adding oneself into an event or group, which is understood as participation or attendance. Historically, this reflects the notion of involving oneself in communal or shared activities.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "參",
+      "trad": "參",
+      "pinyin": "cān",
+      "english": "participate; attend; take part in; counsel"
+    },
+    {
+      "char": "加",
+      "trad": "加",
+      "pinyin": "jiā",
+      "english": "add; increase; append; join"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我想参加下周的会议(我想參加下週的會議)。",
+      "pinyin": "Wǒ xiǎng cānjiā xià zhōu de huìyì.",
+      "english": "I want to attend the meeting next week."
+    },
+    {
+      "chinese": "她参加了一个国际比赛(她參加了一個國際比賽)。",
+      "pinyin": "Tā cānjiā le yī ge guójì bǐsài.",
+      "english": "She participated in an international competition."
+    },
+    {
+      "chinese": "很多人报名参加了这次活动(很多人報名參加了這次活動)。",
+      "pinyin": "Hěn duō rén bàomíng cānjiā le zhè cì huódòng.",
+      "english": "Many people signed up to participate in this event."
+    }
+  ]
+}

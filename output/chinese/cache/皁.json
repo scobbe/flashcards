@@ -4,25 +4,12 @@
   "pinyin": "zào",
   "english": "acorn",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "早(早) (zǎo, \"early\") + 白(白) (bái, \"white\") = acorn-shaped fruit pod -> initial phonetic usage retaining original sense \"acorn\"",
-    "interpretation": "The character 皁 uses the structure of 早(早) (zǎo, \"early\") combined with 白(白) (bái, \"white\") to represent an acorn, initially serving as a descriptor relating to the shape or appearance, and later maintained its meaning over time.",
+    "type": "variant",
+    "description": "皁 is a variant traditional form of 皂, itself a variant form of 早",
+    "interpretation": "皁 (zào, 'acorn') is a traditional variant of 皂. Historically, it retains its original meaning from 早 (zǎo, 'early') when it referred to 'acorn'.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "早",
-      "trad": "早",
-      "pinyin": "zǎo",
-      "english": "early"
-    },
-    {
-      "char": "白",
-      "trad": "白",
-      "pinyin": "bái",
-      "english": "white"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

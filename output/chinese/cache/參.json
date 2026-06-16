@@ -1,0 +1,50 @@
+{
+  "simplified": "參",
+  "traditional": "參",
+  "pinyin": "cān",
+  "english": "participate; attend; take part in; counsel",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "晶(晶) (jīng, \"stars\") + 光(光) (guāng, \"light; brightness\") + 彡(彡) (shān, \"light rays\") = Three Stars mansion -> depiction of brightness from stars",
+    "interpretation": "The character 參(cān) originally depicted the Three Stars mansion, using components symbolizing stars, light, and light rays to create a vivid representation of brightness in the night sky.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "晶",
+      "trad": "晶",
+      "pinyin": "jīng",
+      "english": "stars"
+    },
+    {
+      "char": "光",
+      "trad": "光",
+      "pinyin": "guāng",
+      "english": "light; brightness"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "light rays"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他决定参加今天的会议(他決定參加今天的會議)。",
+      "pinyin": "Tā juédìng cānjiā jīntiān de huìyì.",
+      "english": "He decided to participate in today's meeting."
+    },
+    {
+      "chinese": "我们将参加音乐会(我們將參加音樂會)。",
+      "pinyin": "Wǒmen jiāng cānjiā yīnyuèhuì.",
+      "english": "We will attend the concert."
+    },
+    {
+      "chinese": "学生们积极参加学校的各种活动(學生們積極參加學校的各種活動)。",
+      "pinyin": "Xuéshēngmen jījí cānjiā xuéxiào de gè zhǒng huódòng.",
+      "english": "The students actively take part in various school activities."
+    }
+  ]
+}

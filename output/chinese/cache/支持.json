@@ -1,0 +1,44 @@
+{
+  "simplified": "支持",
+  "traditional": "支持",
+  "pinyin": "zhīchí",
+  "english": "to support",
+  "etymology": {
+    "type": "compound word",
+    "description": "支(支) (zhī, \"to sustain\") + 持(持) (chí, \"to hold\") combine to form 支持(支持) (zhīchí, \"to support\"), which conveys the idea of holding up or sustaining something.",
+    "interpretation": "The combination of 支(支) (zhī, \"to sustain\") and 持(持) (chí, \"to hold\") implies providing assistance or reinforcing something, much like holding up an object to keep it stable.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "to sustain; support; branch"
+    },
+    {
+      "char": "持",
+      "trad": "持",
+      "pinyin": "chí",
+      "english": "to hold; maintain; support"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他支持我们的决定(他支持我們的決定)。",
+      "pinyin": "Tā zhīchí wǒmen de juédìng.",
+      "english": "He supports our decision."
+    },
+    {
+      "chinese": "无论发生什么(無論發生什麼)，我们都会支持你(我們都會支持你)。",
+      "pinyin": "Wúlùn fāshēng shénme, wǒmen dōu huì zhīchí nǐ.",
+      "english": "No matter what happens, we will support you."
+    },
+    {
+      "chinese": "他的建议得到了广泛支持(他的建議得到了廣泛支持)。",
+      "pinyin": "Tā de jiànyì dédào le guǎngfàn zhīchí.",
+      "english": "His proposal received widespread support."
+    }
+  ]
+}
