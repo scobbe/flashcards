@@ -4,9 +4,9 @@
   "pinyin": "zhī",
   "english": "of; possessive particle",
   "etymology": {
-    "type": "Ideogrammic compound",
-    "description": "止(止) (zhǐ, \"foot\") + 一(一) (yī, \"the beginning place\") = to go -> footprint -> evolved to a point above -> final form 之",
-    "interpretation": "Originally depicting a foot at the start of movement, the character evolved into a possessive marker, possibly due to conceptual association with movement or direction.",
+    "type": "ideogrammic compound",
+    "description": "止(止) ('foot') + 一(一) ('beginning place') -> originally 㞢 ('to go') -> simplified to a point",
+    "interpretation": "The original compound 㞢 depicted a foot 止(止) (zhǐ, 'foot') stepping on a line 一(一) (yī, 'one; the beginning place'), indicating the concept of 'to go'. The footprint evolving into a point symbolized direction or movement, ultimately abstracted into 之(之) (zhī, 'of; possessive particle'), representing directionality or connection, as in 'of'.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,20 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "the beginning place"
+      "english": "one; the beginning place"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "知识之光照亮心灵(知識之光照亮心靈)。",
-      "pinyin": "Zhīshì zhī guāng zhào liàng xīn líng.",
-      "english": "The light of knowledge illuminates the heart."
+      "chinese": "天空之蓝(天空之藍)让人心旷神怡(讓人心曠神怡)。",
+      "pinyin": "Tiānkōng zhī lán ràng rén xīnkuàngshényí.",
+      "english": "The blue of the sky makes people feel relaxed and happy."
     },
     {
-      "chinese": "理想之翼助人飞翔(理想之翼助人飛翔)，努力之心成就未来(努力之心成就未來)。",
-      "pinyin": "Lǐxiǎng zhī yì zhù rén fēi xiáng, Nǔlì zhī xīn chéngjiù wèilái.",
-      "english": "The wings of ideals help people to soar, and the heart of effort accomplishes the future."
+      "chinese": "树之影在湖面上摇曳(樹之影在湖面上搖曳)。",
+      "pinyin": "Shù zhī yǐng zài húmiàn shàng yáoyè.",
+      "english": "The shadow of the tree sways on the surface of the lake."
     }
   ]
 }

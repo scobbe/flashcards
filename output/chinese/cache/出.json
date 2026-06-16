@@ -5,8 +5,8 @@
   "english": "go out",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "止(\"foot\") + 凵(\"cave\") = to step out of a cave -> exit",
-    "interpretation": "The character '出' is composed of '止'(\"foot\") and '凵'(\"cave\"), symbolizing the action of stepping out of a cave, which aligns well with the meaning 'to exit'. This ancient imagery effectively conveys the concept of going out or emerging.",
+    "description": "止(止) (zhǐ, \"foot\") + 凵(凵) (kǎn, \"cave\") = to step out of a cave -> to exit",
+    "interpretation": "The original depiction involved a foot 止(止) (zhǐ, \"foot\") stepping out of a cave 凵(凵) (kǎn, \"cave\"), representing the act of exiting or going out. This visual concept naturally conveys the meaning of leaving an enclosed space.",
     "simplification": ""
   },
   "parts": [
@@ -19,26 +19,26 @@
     {
       "char": "凵",
       "trad": "凵",
-      "pinyin": "qǔ",
+      "pinyin": "kǎn",
       "english": "cave"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们计划下周末出门(我們計劃下週末出門)。",
-      "pinyin": "Wǒmen jìhuà xià zhōumò chūmén.",
-      "english": "We plan to go out next weekend."
+      "chinese": "我每天早上出门(我每天早上出門)。",
+      "pinyin": "Wǒ měitiān zǎoshang chūmén.",
+      "english": "I go out every morning."
     },
     {
-      "chinese": "他每天早上七点出门上班(他每天早上七點出門上班)。",
-      "pinyin": "Tā měitiān zǎoshang qī diǎn chūmén shàngbān.",
-      "english": "He goes out to work at seven every morning."
+      "chinese": "他出去了(他出去了)，给我留下了一封信(給我留下了一封信)。",
+      "pinyin": "Tā chūqù le, gěi wǒ liúxià le yī fēng xìn.",
+      "english": "He went out and left me a letter."
     },
     {
-      "chinese": "请等我几分钟，我马上就出来(請等我幾分鐘，我馬上就出來)。",
-      "pinyin": "Qǐng děng wǒ jǐ fēnzhōng, wǒ mǎshàng jiù chūlái.",
-      "english": "Please wait for me a few minutes, I will come out right away."
+      "chinese": "晚上出门(晚上出門)需要小心(需要小心)。",
+      "pinyin": "Wǎnshang chūmén xūyào xiǎoxīn.",
+      "english": "Going out at night requires caution."
     }
   ]
 }

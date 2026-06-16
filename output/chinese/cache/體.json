@@ -1,0 +1,44 @@
+{
+  "simplified": "體",
+  "traditional": "體",
+  "pinyin": "tǐ",
+  "english": "body; style",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 骨 (gǔ, \"bone\") + phonetic 豐 (fēng, \"bountiful\") -> body",
+    "interpretation": "The character combines 骨 (gǔ, \"bone\"), indicating the physical aspect, with 豐 (fēng) as a phonetic component to represent the concept of \"body\". The core essence of the body is captured by emphasizing its structure, akin to the human skeletal framework. The senses \"style\" and \"body\" reflect the original idea of a physical framework or structure, which becomes a metaphor for style when referring to the structure of art or writing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "骨",
+      "trad": "骨",
+      "pinyin": "gǔ",
+      "english": "bone"
+    },
+    {
+      "char": "豐",
+      "trad": "豐",
+      "pinyin": "fēng",
+      "english": "bountiful"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个汉字的书写风格很奇特(這個漢字的書寫風格很奇特)。",
+      "pinyin": "Zhège hànzì de shūxiě fēnggé hěn qítè.",
+      "english": "The writing style of this Chinese character is very unique."
+    },
+    {
+      "chinese": "良好的体能是保持健康的关键(良好的體能是保持健康的關鍵)。",
+      "pinyin": "Liánghǎo de tǐnéng shì bǎochí jiànkāng de guānjiàn.",
+      "english": "Good physical condition is the key to maintaining health."
+    },
+    {
+      "chinese": "这件衣服的剪裁非常合体(這件衣服的剪裁非常合體)。",
+      "pinyin": "Zhè jiàn yīfu de jiǎncái fēicháng hétǐ.",
+      "english": "The tailoring of this clothing is very fitting."
+    }
+  ]
+}

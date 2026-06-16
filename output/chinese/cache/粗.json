@@ -5,8 +5,8 @@
   "english": "coarse; rough",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 且(且) (qiě, \"further\") = rice in abundance or coarseness -> coarse; rough",
-    "interpretation": "The character 粗(cū) combines 米(米) (mǐ, \"rice\") suggesting a grainy texture with 且(且) (qiě, \"further\") as the phonetic element, together implying something that is not finely processed, hence the meaning 'coarse; rough'.",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 且(且) (qiě) -> coarse; rough",
+    "interpretation": "The character 粗(cū, \"coarse; rough\") combines semantic 米(米) (mǐ, \"rice\"), suggesting something granular or coarse, with phonetic 且(且) (qiě), which supplies the sound. This links to the notion of coarse grains or texture, which is the primary meaning of the character.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "且",
       "trad": "且",
       "pinyin": "qiě",
-      "english": "further"
+      "english": "furthermore"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这块石头表面粗(這塊石頭表面粗)。",
-      "pinyin": "Zhè kuài shítou biǎomiàn cū.",
-      "english": "The surface of this stone is coarse."
+      "chinese": "这条毛巾很粗(這條毛巾很粗)。",
+      "pinyin": "Zhè tiáo máojīn hěn cū.",
+      "english": "This towel is very coarse."
     },
     {
-      "chinese": "他的表达方式粗(他的表達方式粗)，让人难以接受(讓人難以接受)。",
-      "pinyin": "Tā de biǎodá fāngshì cū, ràng rén nányǐ jiēshòu.",
-      "english": "His way of expression is coarse, making it hard for people to accept."
+      "chinese": "他的声音粗粗的(他的聲音粗粗的)，让人感到不舒服(讓人感到不舒服)。",
+      "pinyin": "Tā de shēngyīn cūcū de, ràng rén gǎndào bù shūfú.",
+      "english": "His voice is rough, making people feel uncomfortable."
     },
     {
-      "chinese": "这根绳子编织得很粗(這根繩子編織得很粗)，但却十分结实(但卻十分結實)。",
-      "pinyin": "Zhè gēn shéngzi biānzhī de hěn cū, dàn què shífēn jiéshí.",
-      "english": "This rope is woven roughly, yet it is very sturdy."
+      "chinese": "这块石头表面很粗糙(這塊石頭表面很粗糙)，要小心触摸(要小心觸摸)。",
+      "pinyin": "Zhè kuài shítou biǎomiàn hěn cūcāo, yào xiǎoxīn chùmō.",
+      "english": "The surface of this stone is very rough, touch it carefully."
     }
   ]
 }

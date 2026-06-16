@@ -5,8 +5,8 @@
   "english": "loom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"wood\") + 倪(倪) (ní, \"end; limit\") = loom",
-    "interpretation": "檷 (nǐ, \"loom\") combines 木(木) (mù, \"wood\") to signify the material commonly used in making looms, with 倪(倪) (ní, \"end; limit\") as a phonetic component providing the pronunciation. The combination depicts the idea of a wooden structure used in weaving, hence the meaning \"loom\". The character is specific and technical, referring to the tool used in textile production.",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 爾(爾) (ěr) -> wooden tool -> loom",
+    "interpretation": "檷(nǐ, \"loom\") combines 木(木) (mù, \"wood\"), indicating the material traditionally used in construction, with the phonetic element 爾(爾) (ěr) to convey the pronunciation. The loom, being primarily made of wood, aligns with the semantic contribution of 木(木), building the idea of a structure used in weaving.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "wood"
     },
     {
-      "char": "倪",
-      "trad": "倪",
-      "pinyin": "ní",
-      "english": "end; limit"
+      "char": "爾",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "you"
     }
   ],
   "in_contemporary_usage": false,

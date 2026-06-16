@@ -5,8 +5,8 @@
   "english": "autumn",
   "etymology": {
     "type": "compound word",
-    "description": "秋(秋) (qiū, \"autumn\") and 天(天) (tiān, \"sky; day; heavens\") come together to refer to the season of autumn.",
-    "interpretation": "The combination 秋(秋) (qiū, \"autumn\") and 天(天) (tiān, \"sky; day; heavens\") denotes the time of year when autumn is present in the sky, symbolizing the autumn season. This aligns with the traditional division of the year into seasons observed in Chinese culture.",
+    "description": "秋(秋) (qiū, \"autumn\") + 天(天) (tiān, \"sky; heaven; weather\") combine to mean \"autumn\". In this context, the characters suggest the 'autumn season', linking the time of year (秋) with the general concept of time or weather (天).",
+    "interpretation": "秋(秋) (qiū, \"autumn\") represents the season following summer, characterized by harvest time. 天(天) (tiān, \"sky; heaven; weather\") commonly denotes weather or a period in general. The term 秋天 expresses the particular segment of time within a year designated as autumn, combining the notion of this transitional period with its atmospheric and temporal nuances that 天 implies.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "天",
       "trad": "天",
       "pinyin": "tiān",
-      "english": "sky; day; heavens"
+      "english": "sky; heaven; weather"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋天来了(秋天來了)。",
-      "pinyin": "Qiūtiān láile.",
-      "english": "Autumn has arrived."
+      "chinese": "秋天是一个收获的季节(秋天是一個收穫的季節)。",
+      "pinyin": "Qiūtiān shì yī ge shōuhuò de jìjié.",
+      "english": "Autumn is a season of harvest."
     },
     {
-      "chinese": "秋天的风很凉爽(秋天的風很涼爽)，树叶开始变黄(樹葉開始變黃)。",
-      "pinyin": "Qiūtiān de fēng hěn liángshuǎng, shùyè kāishǐ biàn huáng.",
-      "english": "The autumn wind is cool, and the leaves begin to turn yellow."
+      "chinese": "秋天到了(秋天到了)，树叶变成了金黄色(樹葉變成了金黃色)。",
+      "pinyin": "Qiūtiān dào le, shùyè biàn chéng le jīnhuángsè.",
+      "english": "Autumn has arrived, and the leaves have turned golden yellow."
     },
     {
-      "chinese": "秋天到了(秋天到了)，农民开始忙碌(農民開始忙碌)。",
-      "pinyin": "Qiūtiān dàole, nóngmín kāishǐ mánglù.",
-      "english": "Autumn has come, and the farmers start to bustle about."
+      "chinese": "在秋天(在秋天)，我们常去公园散步(我們常去公園散步)。",
+      "pinyin": "Zài qiūtiān, wǒmen cháng qù gōngyuán sànbù.",
+      "english": "In autumn, we often go for walks in the park."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "地區",
+  "traditional": "地區",
+  "pinyin": "dìqū",
+  "english": "region",
+  "etymology": {
+    "type": "compound word",
+    "description": "地(地) (dì, \"earth; land\") refers to ground or a location, emphasizing a physical or geographical area. 區(區) (qū, \"area; region\") highlights a bounded part of a larger space, suggesting separation or segmentation within the larger context.",
+    "interpretation": "地(地) (dì, \"earth; land\") suggests a physical, defined space, such as land or ground, which forms the basis for larger conceptual areas. 區(區) (qū, \"area; region\") suggests a subdivision within a larger area; it implies distinguishing one part of the space from another within the overall land. Together, these convey the concept of a distinct 'region' or 'district' as a specific part of a geographical landscape.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "地",
+      "trad": "地",
+      "pinyin": "dì",
+      "english": "earth; land; ground; place"
+    },
+    {
+      "char": "區",
+      "trad": "區",
+      "pinyin": "qū",
+      "english": "area; region; district; division"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "這個地區以美麗的風景聞名(這個地區以美麗的風景聞名)。",
+      "pinyin": "Zhège dìqū yǐ měilì de fēngjǐng wénmíng.",
+      "english": "This region is famous for its beautiful scenery."
+    },
+    {
+      "chinese": "在冬季(在冬季)，該地區經常下雪(該地區經常下雪)。",
+      "pinyin": "Zài dōngjì, gāi dìqū jīngcháng xià xuě.",
+      "english": "During winter, that region often experiences snow."
+    },
+    {
+      "chinese": "他們計劃開發新的旅遊地區(他們計劃開發新的旅遊地區)。",
+      "pinyin": "Tāmen jìhuà kāifā xīn de lǚyóu dìqū.",
+      "english": "They plan to develop a new tourist region."
+    }
+  ]
+}

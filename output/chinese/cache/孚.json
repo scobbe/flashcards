@@ -5,8 +5,8 @@
   "english": "trust",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "爪(爪) (zhǎo, \"hand\") + 子(子) (zǐ, \"child\") = to capture a child -> original form of 俘(俘) (fú, \"captive\")",
-    "interpretation": "This character combines 爪(爪) (zhǎo, \"hand\") representing grasping or capturing, with 子(子) (zǐ, \"child\"), symbolizing a vulnerable person. It depicts the concept of capturing or having dominion, which evolved into the meaning of trust as the character was used in various contexts related to control and assurance.",
+    "description": "爪(爪) (zhǎo, \"hand\") + 子(子) (zǐ, \"child\") = to capture a child -> trust",
+    "interpretation": "The image of a hand reaching for a child symbolizes a firm grasp, representing trust and the reliability of what is held, much as one would trust a capture or hold to be secure.",
     "simplification": ""
   },
   "parts": [
@@ -23,22 +23,6 @@
       "english": "child"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "他的忠诚赢得了大家的信任与孚(他的忠誠贏得了大家的信任與孚)。",
-      "pinyin": "Tā de zhōngchéng yíngdéle dàjiā de xìnrèn yǔ fú.",
-      "english": "His loyalty earned him everyone's trust and confidence."
-    },
-    {
-      "chinese": "建立互相的孚需要时间和努力(建立互相的孚需要時間和努力)。",
-      "pinyin": "Jiànlì hùxiāng de fú xūyào shíjiān hé nǔlì.",
-      "english": "Building mutual trust requires time and effort."
-    },
-    {
-      "chinese": "政府致力于提高民众对其的孚度(政府致力於提高民眾對其的孚度)。",
-      "pinyin": "Zhèngfǔ zhìlì yú tígāo mínzhòng duì qí de fúdù.",
-      "english": "The government is committed to increasing the public's trust in it."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

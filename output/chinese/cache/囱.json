@@ -5,18 +5,11 @@
   "english": "pattern",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a window closed with a shutter -> modern usage as 囱",
-    "interpretation": "The character 囱(囪) (cōng, \"pattern\") is a pictogram representing a window with a shutter, indicating how structures were closed or protected in the past. This visual representation evolved to the modern character form, keeping the sense of enclosure or coverage, which fits its meaning slightly differently as 'pattern.'",
-    "simplification": "囪(囪) simplified to 囱 by removing one instance of 囗(囗) (wéi, \"enclosure\") and the top portion of the character."
+    "description": "Depicts a window closed with a shutter, or something similar.",
+    "interpretation": "The character 囪(cōng, \"pattern\") visually represents a basic structure resembling a closed window or a shutter, capturing the sense of an opaque or patterned surface.",
+    "simplification": "囱 is a simplified form of 囪, with visual details reduced from the original depiction of a window shutter."
   },
-  "parts": [
-    {
-      "char": "囗",
-      "trad": "囗",
-      "pinyin": "wéi",
-      "english": "enclosure"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

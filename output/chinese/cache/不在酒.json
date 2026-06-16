@@ -5,8 +5,8 @@
   "english": "not in the wine",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 在(在) (zài, \"in\") + 酒(酒) (jiǔ, \"wine; alcohol\") = \"not in the wine,\" a saying meaning that the true intention or meaning is not in the literal or obvious interpretation but lies elsewhere, often in the context of social drinking or gatherings.",
-    "interpretation": "In the phrase 不在酒(不在酒) (bù zài jiǔ, \"not in the wine\"), the idea comes from the context in which the literal element is secondary to the underlying interaction or message, often used in social settings to imply that the importance is in the conversation or relationship rather than just the act of drinking.",
+    "description": "The expression 不在酒 (bù zài jiǔ) means 'not in the wine'. It's a metaphorical phrase that implies one's true intentions or interest lies elsewhere. This expression hints that the situation or topic at hand is about more than it initially appears to be.",
+    "interpretation": "不 (bù, 'not') negates whatever follows, suggesting the focus isn't what it seems. 在 (zài, 'in, at') indicates location or presence, redirecting the focus elsewhere. 酒 (jiǔ, 'wine'), a common drink associated with social gatherings, hints at superficial or surface-level appearances. Altogether, it's often used to suggest that true motivations are beyond what is immediately obvious, analogous to the phrase 'the truth lies elsewhere'.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,19 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; no; un-"
+      "english": "not"
     },
     {
       "char": "在",
       "trad": "在",
       "pinyin": "zài",
-      "english": "in; at; on; exist"
+      "english": "in; at"
     },
     {
       "char": "酒",
       "trad": "酒",
       "pinyin": "jiǔ",
-      "english": "wine; liquor; alcohol"
+      "english": "wine; alcoholic beverage"
     }
   ],
   "in_contemporary_usage": true,
@@ -34,17 +34,17 @@
     {
       "chinese": "问题不在酒(問題不在酒)。",
       "pinyin": "Wèntí bù zài jiǔ.",
-      "english": "The issue is not in the wine."
+      "english": "The problem is not in the wine."
     },
     {
-      "chinese": "她的心情不在酒，而在于朋友的陪伴(她的心情不在酒，而在於朋友的陪伴)。",
-      "pinyin": "Tā de xīnqíng bù zài jiǔ, ér zài yú péngyǒu de péibàn.",
-      "english": "Her mood is not because of the wine, but due to the companionship of friends."
+      "chinese": "他的快乐不在酒(他的快樂不在酒)。",
+      "pinyin": "Tā de kuàilè bù zài jiǔ.",
+      "english": "His happiness is not in the wine."
     },
     {
-      "chinese": "我们聚会的乐趣不在酒，而在大家的笑声(我們聚會的樂趣不在酒，而在大家的笑聲)。",
-      "pinyin": "Wǒmen jùhuì de lèqù bù zài jiǔ, ér zài dàjiā de xiàoshēng.",
-      "english": "The fun of our gathering is not in the wine, but in everyone's laughter."
+      "chinese": "真正的乐趣不在酒(真正的樂趣不在酒)。",
+      "pinyin": "Zhēnzhèng de lèqù bù zài jiǔ.",
+      "english": "The real pleasure is not in the wine."
     }
   ]
 }

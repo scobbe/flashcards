@@ -5,16 +5,16 @@
   "english": "China; magnificent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 化(化) (huà, \"transform\") + Semantic: 十(十) (\"stalk and leaves\") -> 華(華) (\"magnificent\") -> Simplified to 华 with 化(化)",
-    "interpretation": "The traditional character 華(華) uses 十(十) to evoke a stalk with leaves, representing growth and magnificence. In the simplified form 华, 化(化) helps retain the original sound while removing visual complexity.",
-    "simplification": "The character was simplified by using 化(化) to streamline its phonetic component and reduce stroke count, while 十(十) was omitted."
+    "description": "phonetic 化(化) (huà, \"to transform\") + semantic 十(十) (shí, \"stalk and leaves\") -> 華(華) (huá, \"magnificent\")",
+    "interpretation": "華(華) (huá, \"magnificent\") combines 化(化) (huà, \"to transform\") providing the pronunciation, with 十(十) (shí, \"stalk and leaves\") symbolizing growth and abundance, resulting in the sense of magnificence and richness. This imagery naturally bridges to the idea of 'magnificent', depicting flourishing plants as a symbol of splendor, which extends to refer to China as a culturally rich and illustrious place.",
+    "simplification": "华(華): The top component of 華(華) was simplified by using 化(化) (huà, \"to transform\") in the simplified version 华, retaining phonetic resemblance while removing the detailed component 十(十)."
   },
   "parts": [
     {
       "char": "化",
       "trad": "化",
       "pinyin": "huà",
-      "english": "transform"
+      "english": "to transform"
     },
     {
       "char": "十",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "中国古代文明辉煌(中國古代文明輝煌)，成就了华夏的美名(成就了華夏的美名)。",
-      "pinyin": "Zhōngguó gǔdài wénmíng huīhuáng, chéngjiùle huáxià de měimíng.",
-      "english": "The brilliance of ancient Chinese civilization has earned China a magnificent reputation."
+      "chinese": "中国是一个充满魅力的国家(中國是一個充滿魅力的國家)。",
+      "pinyin": "Zhōngguó shì yīge chōngmǎn mèilì de guójiā.",
+      "english": "China is a country full of charm."
     },
     {
-      "chinese": "他穿着一件华服(他穿著一件華服)，显得格外自信(顯得格外自信)。",
-      "pinyin": "Tā chuānzhuó yī jiàn huáfú, xiǎnde géwài zìxìn.",
-      "english": "He wears a magnificent garment, looking exceptionally confident."
+      "chinese": "他的家在华北平原(他的家在華北平原)。",
+      "pinyin": "Tā de jiā zài Huáběi píngyuán.",
+      "english": "His home is on the North China Plain."
+    },
+    {
+      "chinese": "这座建筑非常华丽(這座建築非常華麗)。",
+      "pinyin": "Zhè zuò jiànzhù fēicháng huálì.",
+      "english": "This building is very magnificent."
     }
   ]
 }

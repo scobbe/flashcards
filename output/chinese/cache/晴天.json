@@ -5,8 +5,8 @@
   "english": "sunny day; clear sky",
   "etymology": {
     "type": "compound word",
-    "description": "晴(晴) (qíng, \"clear; fine [weather]\") + 天(天) (tiān, \"sky; day\") = a day with clear sky and good weather.",
-    "interpretation": "The combination of 晴(晴) (qíng, \"clear; fine [weather]\") and 天(天) (tiān, \"sky; day\") conveys the idea of a day where the sky is clear and the weather is favorable. This aligns with the term 'sunny day' or 'clear sky,' describing conditions without clouds or rain, highlighting pleasant weather.",
+    "description": "晴(晴) (qíng, \"clear; fine (weather)\") combines with 天(天) (tiān, \"sky; day\") to describe a day when the sky is clear and bright, free from clouds, resulting in a 'sunny day' or 'clear sky'.",
+    "interpretation": "晴(晴) (qíng, \"clear; fine (weather)\") represents clarity and brightness in the weather, indicating no clouds or rain, which naturally results in 天(天) (tiān, \"sky; day\") presenting clear visibility. Therefore, 晴天 (qíngtiān) describes a day with a clear sky, usually under sunny conditions.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "晴",
       "trad": "晴",
       "pinyin": "qíng",
-      "english": "clear; fine [weather]"
+      "english": "clear; fine (weather)"
     },
     {
       "char": "天",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天是个晴天(今天是個晴天)。",
-      "pinyin": "Jīntiān shì gè qíngtiān。",
+      "chinese": "今天是晴天(今天是晴天)。",
+      "pinyin": "Jīntiān shì qíngtiān.",
       "english": "Today is a sunny day."
     },
     {
-      "chinese": "每当遇到晴天(每當遇到晴天)，心情就特别好(心情就特別好)。",
-      "pinyin": "Měi dāng yù dào qíngtiān, xīnqíng jiù tèbié hǎo。",
-      "english": "Whenever it's a sunny day, the mood becomes especially pleasant."
+      "chinese": "我们在晴天(我們在晴天)去公园散步(去公園散步)。",
+      "pinyin": "Wǒmen zài qíngtiān qù gōngyuán sànbù.",
+      "english": "We go for a walk in the park on sunny days."
     },
     {
-      "chinese": "晴天时(晴天時)，小鸟在枝头歌唱(小鳥在枝頭歌唱)。",
-      "pinyin": "Qíngtiān shí, xiǎo niǎo zài zhītóu gēchàng。",
-      "english": "On a sunny day, little birds sing on the branches."
+      "chinese": "晴天时(晴天時)，我喜欢骑自行车(我喜歡騎自行車)。",
+      "pinyin": "Qíngtiān shí, wǒ xǐhuān qí zìxíngchē.",
+      "english": "I like to ride a bicycle on sunny days."
     }
   ]
 }

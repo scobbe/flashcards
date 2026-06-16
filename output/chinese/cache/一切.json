@@ -5,8 +5,8 @@
   "english": "everything",
   "etymology": {
     "type": "compound word",
-    "description": "一(一) (yī, \"one; single\") denotes unity or a singular entity, while 切(切) (qiè, \"all; every\") expands this to encompass all, forming 'everything'.",
-    "interpretation": "一切(一切) (yīqiè, \"everything\") combines 一(一) (yī, \"one\") with 切(切) (qiè, \"all\") to express the totality of existence or all aspects of a situation or environment. The term is often used to denote comprehensive inclusion, reflecting the idea that all things are considered as one.",
+    "description": "The word 一切 (yīqiè, \"everything\") is composed of two characters: 一(一) (yī, \"one\") and 切(切) (qiè, \"all; each\").",
+    "interpretation": "The character 一(一) (yī, \"one\") signifies singularity and entirety, suggesting totality when combined with 切(切) (qiè, \"all; each\"), which extends the concept to mean 'collectively' or 'every single one.' Together, 一切 (yīqiè) embodies the idea of 'everything' by emphasizing the inclusion of all possible parts or elements as a single unified whole.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "one; single; alone; unity"
+      "english": "one; single; entire"
     },
     {
       "char": "切",
       "trad": "切",
       "pinyin": "qiè",
-      "english": "all; every; everything; to cut"
+      "english": "all; each; every; to cut"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他放弃一切(他放棄一切)。",
-      "pinyin": "Tā fàngqì yīqiè.",
-      "english": "He gave up everything."
+      "chinese": "一切都会好起来(一切都會好起來)。",
+      "pinyin": "Yīqiè dōu huì hǎo qǐlái.",
+      "english": "Everything will get better."
     },
     {
-      "chinese": "她努力工作(她努力工作)，追求一切梦想(追求一切夢想)。",
-      "pinyin": "Tā nǔlì gōngzuò, zhuīqiú yīqiè mèngxiǎng.",
-      "english": "She works hard, pursuing all her dreams."
+      "chinese": "我们需要为一切做好准备(我們需要為一切做好準備)。",
+      "pinyin": "Wǒmen xūyào wèi yīqiè zuò hǎo zhǔnbèi.",
+      "english": "We need to prepare for everything."
     },
     {
-      "chinese": "一切皆有可能(一切皆有可能)。",
-      "pinyin": "Yīqiè jiē yǒu kěnéng.",
-      "english": "Everything is possible."
+      "chinese": "他失去了对一切的信心(他失去了對一切的信心)。",
+      "pinyin": "Tā shīqùle duì yīqiè de xìnxīn.",
+      "english": "He lost confidence in everything."
     }
   ]
 }

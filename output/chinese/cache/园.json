@@ -5,9 +5,9 @@
   "english": "garden",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "囗(\"fence\") + 袁(\"phonetic cue\") -> enclosure for growing plants",
-    "interpretation": "The character 園(園) (yuán, \"garden\") conveys the idea of an enclosed area, represented by 囗(囗) (wéi, \"fence\"), with 袁(袁) (yuán, \"phonetic cue\") providing the pronunciation. This combines the concepts of an enclosed space and phonetic similarity to suggest a 'garden'.",
-    "simplification": "園(園) was simplified to 园(园) by replacing 袁(袁) with a simpler phonetic element: the upper component from 袁 was removed, leaving only the important semantic enclosure 口(口) (kǒu, \"mouth\") and a component of 袁 for phonetical cue."
+    "description": "semantic 囗(囗) (wéi, \"fence\") + phonetic 袁(袁) (yuán) -> garden enclosed by a fence",
+    "interpretation": "The character 囗(囗) (wéi, \"fence\") suggests an enclosed area, a common feature of gardens. 袁(袁) (yuán) provides the sound. Together, they form the concept of a garden, which is typically a fenced or confined area designated for cultivation or enjoyment.",
+    "simplification": "园(園): Simplified by substituting 袁(袁) (yuán) with the more straightforward character 元(元) (yuán, \"origin\"), reducing stroke complexity while keeping the phonetic element intact."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "袁",
       "trad": "袁",
       "pinyin": "yuán",
-      "english": "phonetic cue"
+      "english": "a surname"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她在花园里种了很多玫瑰(她在花園裏種了很多玫瑰)。",
-      "pinyin": "Tā zài huāyuán lǐ zhòng le hěn duō méiguī.",
-      "english": "She planted many roses in the garden."
+      "chinese": "这个花园里有很多种花(這個花園裡有很多種花)。",
+      "pinyin": "Zhège huāyuán lǐ yǒu hěn duō zhǒng huā.",
+      "english": "There are many kinds of flowers in this garden."
     },
     {
-      "chinese": "这个公园非常适合散步(這個公園非常適合散步)。",
-      "pinyin": "Zhège gōngyuán fēicháng shìhé sànbù.",
-      "english": "This park is very suitable for walking."
+      "chinese": "她喜欢在园子里种花(她喜歡在園子裡種花)。",
+      "pinyin": "Tā xǐhuān zài yuánzi lǐ zhòng huā.",
+      "english": "She likes to plant flowers in the garden."
     },
     {
-      "chinese": "我们计划在后院建一个小花园(我們計劃在後院建一個小花園)。",
-      "pinyin": "Wǒmen jìhuà zài hòuyuàn jiàn yī gè xiǎo huāyuán.",
-      "english": "We plan to build a small garden in the backyard."
+      "chinese": "我们周末常去那座公园(我們周末常去那座公園)。",
+      "pinyin": "Wǒmen zhōumò cháng qù nà zuò gōngyuán.",
+      "english": "We often go to that park on weekends."
     }
   ]
 }

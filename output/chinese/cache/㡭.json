@@ -2,31 +2,19 @@
   "simplified": "㡭",
   "traditional": "㡭",
   "pinyin": "jì",
-  "english": "",
+  "english": "coat, overcoat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Depicts four 幺(幺) (yāo, \"silk\") -> incorporated into 繼(繼) (jì, \"continue\") as a phonetic element",
-    "interpretation": "㡭(jì) is an ancient form of 繼(繼) (jì, \"continue\") and serves as the phonetic component in the character 繼(繼), which combines with 糸(糸) (mì, \"silk; thread\") to denote 'continuation' as in 'continuing the silk thread'.",
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 㡭 (jì) -> coat, overcoat; originally related to 繼(繼) (jì, \"to continue\")",
+    "interpretation": "The character 㡭 originally relates to 繼(繼) (jì, \"to continue\"), where a thread weaves continuity. Here, it is used primarily for phonetic purposes, contributing its sound to the reading of 繼 but loses its original context when referencing a coat or overcoat.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "繼",
-      "trad": "繼",
-      "pinyin": "jì",
-      "english": "continue"
-    },
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
       "english": "silk; thread"
-    },
-    {
-      "char": "幺",
-      "trad": "幺",
-      "pinyin": "yāo",
-      "english": "silk"
     }
   ],
   "in_contemporary_usage": false,

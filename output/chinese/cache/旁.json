@@ -5,8 +5,8 @@
   "english": "side",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "辛(辛) (xīn, \"knife or chisel\") above 方(方) (fāng, \"side\") = unclear semantic evolution -> concept of moving to remote -> modern form from clerical script",
-    "interpretation": "The character 旁(旁) (páng, \"side\") uses 方(方) (fāng, \"side\") for its phonetic component and has an unclear semantic component that has evolved over time. Despite its complex history, it suggests the notion of moving to or being on the side.",
+    "description": "semantic 辛(辛) (xīn, \"knife; chisel\") + phonetic 方(方) (fāng, giving 'páng' sound) -> moving to corner or side",
+    "interpretation": "The character 旁(páng, \"side\") combines 辛(辛) (xīn, \"knife; chisel\") with 方(方), where 方 provides the phonetic part. The component 辛 historically suggested the concept of being cut off or separate, leading to the idea of being on the 'side' or 'apart'. The sound of the character is derived from 方, linking it phonetically.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "辛",
       "trad": "辛",
       "pinyin": "xīn",
-      "english": "knife or chisel"
+      "english": "knife; chisel"
     },
     {
       "char": "方",
       "trad": "方",
       "pinyin": "fāng",
-      "english": "side"
+      "english": "square; direction"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他走到河旁(他走到河旁)，静静地欣赏风景(靜靜地欣賞風景)。",
-      "pinyin": "Tā zǒu dào hé páng, jìngjìng de xīnshǎng fēngjǐng.",
-      "english": "He walked to the riverside, quietly admiring the scenery."
+      "chinese": "狗在桌子旁(狗在桌子旁)。",
+      "pinyin": "Gǒu zài zhuōzi páng.",
+      "english": "The dog is beside the table."
     },
     {
-      "chinese": "他站在树旁(他站在樹旁)。",
-      "pinyin": "Tā zhàn zài shù páng.",
-      "english": "He stands beside the tree."
+      "chinese": "她坐在我旁边(她坐在我旁邊)。",
+      "pinyin": "Tā zuò zài wǒ pángbiān.",
+      "english": "She is sitting beside me."
+    },
+    {
+      "chinese": "我们在公园的湖旁转了一圈(我們在公園的湖旁轉了一圈)。",
+      "pinyin": "Wǒmen zài gōngyuán de hú páng zhuànle yī quān.",
+      "english": "We took a walk around the lake in the park."
     }
   ]
 }

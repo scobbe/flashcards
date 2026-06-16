@@ -4,9 +4,9 @@
   "pinyin": "xiāng",
   "english": "mutual",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Semantic: 木(木) (mù, \"tree\") + Phonetic: 目(目) (mù) = eye on tree -> to look at each other -> mutual",
-    "interpretation": "The character 相(xiāng, \"mutual\") combines 目(目) (mù, \"eye\") suggesting seeing or observing, with 木(木) (mù, \"tree\"), reflecting the idea of looking out over a distance or surveying. This is extended to mean looking at each other, thus becoming associated with mutual or reciprocal actions.",
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"tree\") + 目(目) (mù, \"eye\") = eye looking at a tree -> original character for observing -> borrowed for 'mutual'",
+    "interpretation": "The character depicts an eye watching a tree, symbolizing the act of observation. This original sense of observation evolved into 'mutual' as the action involves careful consideration or attention between parties.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他们相互扶持(他們相互扶持)。",
-      "pinyin": "Tāmen xiānghù fúchí.",
+      "chinese": "他们互相支持(他們互相支持)。",
+      "pinyin": "Tāmen hùxiāng zhīchí.",
       "english": "They support each other."
     },
     {
-      "chinese": "朋友之间要相互理解(朋友之間要相互理解)，共同进步(共同進步)。",
-      "pinyin": "Péngyǒu zhījiān yào xiānghù lǐjiě, gòngtóng jìnbù.",
-      "english": "Friends should understand each other and make progress together."
+      "chinese": "我们需要相互理解(我們需要相互理解)。",
+      "pinyin": "Wǒmen xūyào xiānghù lǐjiě.",
+      "english": "We need to understand each other."
     },
     {
-      "chinese": "夫妻之间应相互尊重(夫妻之間應相互尊重)。",
-      "pinyin": "Fūqī zhījiān yīng xiānghù zūnzhòng.",
-      "english": "Husbands and wives should mutually respect each other."
+      "chinese": "相互尊重是重要的(相互尊重是重要的)。",
+      "pinyin": "Xiānghù zūnzhòng shì zhòngyào de.",
+      "english": "Mutual respect is important."
     }
   ]
 }

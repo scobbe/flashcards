@@ -5,8 +5,8 @@
   "english": "armpit",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "肉(肉) (ròu, \"flesh\") + 夜(夜) (yè, \"night\") = part of the body associated with night -> armpit",
-    "interpretation": "The character 腋(yè, \"armpit\") combines the semantic element 肉(肉) (ròu, \"flesh\") indicating its association with the body, and the phonetic component 夜(夜) (yè, \"night\") contributing the sound. The use of 夜 is purely phonetic and the character originally used to be written as 亦, which suggests an historical borrowing of the phonetic element for armpit.",
+    "description": "semantic 肉(肉) (ròu, \"flesh\") + phonetic 夜(夜) (yè) -> armpit",
+    "interpretation": "The character 腋(yè, \"armpit\") uses the component 肉(肉) (ròu, \"flesh\") to signify its association with the body. The phonetic part 夜(夜) (yè) provides the sound. The armpit, being a part of the body, is logically linked to the reference to flesh.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的腋流着汗珠(他的腋流著汗珠)。",
-      "pinyin": "Tā de yè liúzhe hànzhū.",
-      "english": "Beads of sweat stream from his armpit."
+      "chinese": "他感到他的腋下出汗(他感到他的腋下出汗)。",
+      "pinyin": "Tā gǎndào tā de yèxià chū hàn.",
+      "english": "He felt his armpits sweating."
     },
     {
-      "chinese": "运动后(運動後)，他的腋开始刺痛(他的腋開始刺痛)。",
-      "pinyin": "Yùndòng hòu, tā de yè kāishǐ cìtòng.",
-      "english": "After exercising, his armpit began to sting."
+      "chinese": "夏天的时候(夏天的時候)，我经常使用止汗剂在腋下(我經常使用止汗劑在腋下)。",
+      "pinyin": "Xiàtiān de shíhòu, wǒ jīngcháng shǐyòng zhǐhànjì zài yèxià.",
+      "english": "During the summer, I often use deodorant on my armpits."
     },
     {
-      "chinese": "夏日午后(夏日午後)，清风拂过腋边(清風拂過腋邊)。",
-      "pinyin": "Xiàrì wǔhòu, qīngfēng fúguò yè biān.",
-      "english": "On a summer afternoon, a gentle breeze brushed past his armpit."
+      "chinese": "这个体操动作需要抬高手臂，保持腋下的紧张(這個體操動作需要抬高手臂，保持腋下的緊張)。",
+      "pinyin": "Zhège tǐcāo dòngzuò xūyào tái gāo shǒubì, bǎochí yèxià de jǐnzhāng.",
+      "english": "This gymnastics move requires lifting the arms high, keeping tension in the armpits."
     }
   ]
 }

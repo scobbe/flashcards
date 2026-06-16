@@ -5,40 +5,40 @@
   "english": "level; grade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糹(糹) (sī, \"silk; thread\") + 及(及) (jí, \"reach\") = thread-related sequence -> level; grade",
-    "interpretation": "The character 糹(糹) (sī, \"silk; thread\") signifies a sequence or order related to silk, while 及(及) (jí, \"reach\") provides the sound. The idea is of arranging threads in a sequence, symbolizing structured levels or grades.",
-    "simplification": "級(級) was simplified to 级(级) by replacing 糹(糹) (sī, \"silk; thread\") with the simplified form 纟(纟), reducing the number of strokes."
+    "description": "semantic 糹(糹) (mì, \"silk; thread\") + phonetic 及(及) (jí) -> thread sequence -> level; grade",
+    "interpretation": "The character 級 (jí, \"level; grade\") combines 糹(糹) (mì, \"silk; thread\") for the idea of a sequence, such as threads being arranged, with 及(及) (jí) providing the sound. The association with a sequence of threads leads to the concept of progression or arrangement, hence the meaning of level or grade.",
+    "simplification": "級 (jí, \"level; grade\") was simplified by replacing 糹(糹) (mì, \"silk; thread\") with 纟 for ease of writing while retaining the other component 及(及) (jí)."
   },
   "parts": [
     {
       "char": "糹",
-      "trad": "糹",
-      "pinyin": "sī",
+      "trad": "糸",
+      "pinyin": "mì",
       "english": "silk; thread"
     },
     {
       "char": "及",
       "trad": "及",
       "pinyin": "jí",
-      "english": "reach"
+      "english": "to reach"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她的数学水平达到了一定的级别(她的數學水平達到了一定的級別)。",
-      "pinyin": "Tā de shùxué shuǐpíng dádào le yīdìng de jíbié.",
-      "english": "Her math skills have reached a certain level."
+      "chinese": "学生们的成绩很好，达到了及格的级别(學生們的成績很好，達到了及格的級別)。",
+      "pinyin": "Xuéshēngmen de chéngjī hěn hǎo, dádào le jígé de jíbié.",
+      "english": "The students' grades are good, reaching a passing level."
     },
     {
-      "chinese": "每个级别都有不同的挑战(每個級別都有不同的挑戰)。",
-      "pinyin": "Měi gè jíbié dōu yǒu bùtóng de tiǎozhàn.",
-      "english": "Each level has different challenges."
+      "chinese": "这条河流的水位已经超过了警戒级别(這條河流的水位已經超過了警戒級別)。",
+      "pinyin": "Zhè tiáo héliú de shuǐwèi yǐjīng chāoguòle jǐngjiè jíbié.",
+      "english": "The water level of this river has already exceeded the warning level."
     },
     {
-      "chinese": "他在比赛中表现出了高级的技能(他在比賽中表現出了高級的技能)。",
-      "pinyin": "Tā zài bǐsài zhōng biǎoxiàn chūle gāojí de jìnéng.",
-      "english": "He demonstrated advanced skills in the competition."
+      "chinese": "这个考试分为多个难度级(這個考試分為多個難度級)，学生可以根据自己的水平选择(學生可以根據自己的水平選擇)。",
+      "pinyin": "Zhège kǎoshì fēn wéi duō gè nándù jí, xuéshēng kěyǐ gēnjù zìjǐ de shuǐpíng xuǎnzé.",
+      "english": "This test is divided into multiple difficulty levels, and students can choose based on their own level."
     }
   ]
 }

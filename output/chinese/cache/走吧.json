@@ -5,8 +5,8 @@
   "english": "let's go",
   "etymology": {
     "type": "compound word",
-    "description": "走(走) (zǒu, \"walk\") + 吧(吧) (ba, \"particle indicating suggestion or invitation\") = let's go",
-    "interpretation": "The word 走吧 is a casual expression used to suggest or invite someone to start walking or to leave. The particle 吧(吧) (ba) softens the suggestion, making it more polite and friendly.",
+    "description": "走(走) (zǒu, \"walk\") indicates the action of moving or going, while 吧(吧) (ba, \"particle suggesting a request or mild command\") softens the expression, making it a suggestion or invitation.",
+    "interpretation": "走(走) (zǒu, \"walk\") suggests the basic action of going or moving. The addition of the particle 吧(吧) (ba, \"particle suggesting a request or mild command\") turns a directive into a suggestion, transforming the simple action into a polite invitation or urging: 'let's go' as a friendly nudge to initiate departing or proceeding together.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "走",
       "trad": "走",
       "pinyin": "zǒu",
-      "english": "walk; go"
+      "english": "walk; go; move; leave"
     },
     {
       "char": "吧",
       "trad": "吧",
       "pinyin": "ba",
-      "english": "particle indicating suggestion or invitation"
+      "english": "particle suggesting a request or mild command"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们走吧(我們走吧)。",
-      "pinyin": "Wǒmen zǒu ba.",
-      "english": "Let's go."
+      "chinese": "电影结束了(電影結束了)，走吧(走吧)。",
+      "pinyin": "Diànyǐng jiéshù le, zǒu ba.",
+      "english": "The movie has ended, let's go."
     },
     {
-      "chinese": "天黑了(天黑了)，我们走吧(我們走吧)。",
-      "pinyin": "Tiān hēi le, wǒmen zǒu ba.",
-      "english": "It's getting dark, let's go."
+      "chinese": "天色已晚(天色已晚)，走吧(走吧)。",
+      "pinyin": "Tiānsè yǐ wǎn, zǒu ba.",
+      "english": "It's getting late, let's go."
+    },
+    {
+      "chinese": "我们去吃晚餐吧(我們去吃晚餐吧)，走吧(走吧)！",
+      "pinyin": "Wǒmen qù chī wǎncān ba, zǒu ba!",
+      "english": "Let's go have dinner, let's go!"
     }
   ]
 }

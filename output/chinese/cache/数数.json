@@ -5,40 +5,40 @@
   "english": "count",
   "etymology": {
     "type": "compound word",
-    "description": "数(數) (shǔ, \"to count\") + 数(數) (shù, \"number\") implies the action of counting numbers.",
-    "interpretation": "The combination of 数(數) (shǔ, \"to count\") and 数(數) (shù, \"number\") denotes the activity of counting the numbers themselves. It highlights the process of enumeration.",
+    "description": "數(數) (shǔ, \"count\") is the verb for counting in Chinese, often referring to the act of enumerating items or numbers. 數(數) (shù, \"number\") is the noun that refers to numbers themselves. This combination highlights the interplay between counting as an action and numbers as a concept.",
+    "interpretation": "數(數) (shǔ, \"count\") captures the active process of determining quantity by enumeration. 數(數) (shù, \"number\") embodies the result of that process, the abstract concept of numerals. Together, summing up a specific counting activity with its numerical result creates the cohesive action of 'counting numbers' or simply 'count'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "数",
+      "char": "數",
       "trad": "數",
       "pinyin": "shǔ",
-      "english": "to count; to enumerate; number"
+      "english": "count; enumerate"
     },
     {
-      "char": "数",
+      "char": "數",
       "trad": "數",
       "pinyin": "shù",
-      "english": "number; to count; several"
+      "english": "number; figure; count"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小孩学数数(小孩學數數)。",
-      "pinyin": "xiǎohái xué shǔ shù.",
+      "chinese": "孩子在学着数数(孩子在學著數數)。",
+      "pinyin": "Háizi zài xuézhe shǔ shù.",
       "english": "The child is learning to count."
     },
     {
-      "chinese": "她喜欢在公园数数花朵(她喜歡在公園數數花朵)，以欣赏它们的美丽(以欣賞它們的美麗)。",
-      "pinyin": "tā xǐhuān zài gōngyuán shǔ shù huāduǒ, yǐ xīnshǎng tāmen de měilì.",
-      "english": "She likes to count the flowers in the park to appreciate their beauty."
+      "chinese": "我们来数数聚会的人数(我們來數數聚會的人數)。",
+      "pinyin": "Wǒmen lái shǔ shù jùhuì de rénshù.",
+      "english": "Let's count the number of people at the party."
     },
     {
-      "chinese": "他们在学校数数积木(他們在學校數數積木)，锻炼数学能力(鍛鍊數學能力)。",
-      "pinyin": "tāmen zài xuéxiào shǔ shù jīmù, duànliàn shùxué nénglì.",
-      "english": "They count the building blocks in school to improve their math skills."
+      "chinese": "老师让学生数数(老師讓學生數數)，练习加法(練習加法)。",
+      "pinyin": "Lǎoshī ràng xuéshēng shǔ shù, liànxí jiāfǎ.",
+      "english": "The teacher asked the students to count and practice addition."
     }
   ]
 }

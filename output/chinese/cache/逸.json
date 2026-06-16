@@ -4,17 +4,29 @@
   "pinyin": "yì",
   "english": "ease; leisure; escape",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "辶(辶) (chuò, \"walk\") + 兔(兔) (tù, \"rabbit\") = rabbit running -> escape, ease",
-    "interpretation": "The character 逸(yì) combines the 辶(辶) (chuò, \"walk\"), which signifies movement, with 兔(兔) (tù, \"rabbit\"), which adds the sound and also suggests the idea of a rabbit swiftly escaping. Together, they convey the notion of escaping or fleeing with ease, embodying the meanings of both leisure and escape.",
+    "type": "ideogrammic compound",
+    "description": "止 + 㚔 -> 辵 + 兔 -> escaping quickly",
+    "interpretation": "The character 逸(yì, 'ease; leisure; escape') originally combined 止(止) (zhǐ, 'stop') and 㚔(㚔) to depict a sense of stopping in an unfamiliar place. Later it evolved to use 辵(辶) (chuò, 'walk; movement') and 兔(兔) (tù, 'rabbit'). The rabbit moves quickly, suggesting the concept of escape and speed, thus forming the idea of 'escaping quickly' and leading to meanings of 'ease' and 'leisure' as derived from the relief of escape.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "辶",
-      "trad": "辶",
+      "char": "止",
+      "trad": "止",
+      "pinyin": "zhǐ",
+      "english": "stop"
+    },
+    {
+      "char": "㚔",
+      "trad": "㚔",
+      "pinyin": "tuó",
+      "english": "unknown"
+    },
+    {
+      "char": "辵",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     },
     {
       "char": "兔",
@@ -26,19 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在安静的庭院中享受逸趣(他在安靜的庭院中享受逸趣)。",
-      "pinyin": "Tā zài ānjìng de tíngyuàn zhōng xiǎngshòu yìqù.",
-      "english": "He enjoys leisure in the quiet courtyard."
+      "chinese": "父亲喜欢在周末享受闲逸(父親喜歡在週末享受閑逸)。",
+      "pinyin": "Fùqīn xǐhuan zài zhōumò xiǎngshòu xián yì.",
+      "english": "Father enjoys leisure on weekends."
     },
     {
-      "chinese": "他喜欢逸居(他喜歡逸居)，远离城市喧嚣(遠離城市喧囂)。",
-      "pinyin": "Tā xǐhuān yìjū, yuǎnlí chéngshì xuānxiāo.",
-      "english": "He likes to live in seclusion, away from the city's hustle and bustle."
+      "chinese": "他在诗中常常表达逸士(他在詩中常常表達逸士)的生活态度(的生活態度)。",
+      "pinyin": "Tā zài shī zhōng chángcháng biǎodá yìshì de shēnghuó tàidù.",
+      "english": "He often expresses the lifestyle attitude of a recluse in his poems."
     },
     {
-      "chinese": "假日来临时(假日來臨時)，他计划逸出尘嚣(他計劃逸出塵囂)。",
-      "pinyin": "Jiàrì láilín shí, tā jìhuà yìchū chénxiāo.",
-      "english": "When the holiday arrives, he plans to escape the hustle and bustle."
+      "chinese": "山间有一条小路可以让人逃逸(山間有一條小路可以讓人逃逸)到幽静之地(到幽靜之地)。",
+      "pinyin": "Shānjiān yǒu yī tiáo xiǎo lù kěyǐ ràng rén táoyì dào yōujìng zhī dì.",
+      "english": "There is a path in the mountains that leads to a secluded place for escape."
     }
   ]
 }

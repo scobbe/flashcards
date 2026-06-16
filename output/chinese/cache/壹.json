@@ -5,52 +5,40 @@
   "english": "one",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 士(士) (shì, \"scholar\") + semantic: 丨(丨) (gǔn, \"line\") + phonetic: 口(口) (kǒu, \"mouth\") + semantic: 卄(卄) (niàn, \"twenty\") = complexity and firmness in writing -> formal numeral \"one\"",
-    "interpretation": "The character 壹(壹) (yī, \"one\") was formed to represent the numeral one in formal contexts, distinguished from 一(一) (yī, \"one\"). Its components suggest formality and completeness.",
-    "simplification": "In simplified Chinese, 壹(壹) remains the same as it retains its formal and specific usage."
+    "description": "semantic 壺(壺) (hú, \"jar\") + phonetic 吉(吉) (jí, \"lucky; auspicious\") -> a complete or whole item -> reinforced meaning of \"one\"",
+    "interpretation": "壹(壹) (yī, \"one\") uses 壺(壺) (hú, \"jar\") as the semantic component suggesting entirety or completeness, while 吉(吉) (jí, \"lucky; auspicious\") provides the phonetic element. This character emphasizes a complete or singular unit, unlike 一(一) (yī, \"one\"). 壹 often appears in formal contexts to prevent alterations, such as in checks and legal documents.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "士",
-      "trad": "士",
-      "pinyin": "shì",
-      "english": "scholar"
+      "char": "壺",
+      "trad": "壺",
+      "pinyin": "hú",
+      "english": "jar"
     },
     {
-      "char": "丨",
-      "trad": "丨",
-      "pinyin": "gǔn",
-      "english": "line"
-    },
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "卄",
-      "trad": "卄",
-      "pinyin": "niàn",
-      "english": "twenty"
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "lucky; auspicious"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有壹本书(我有壹本書)。",
-      "pinyin": "Wǒ yǒu yī běn shū.",
-      "english": "I have one book."
+      "chinese": "他每天只喝壹杯茶(他每天只喝壹杯茶)。",
+      "pinyin": "Tā měitiān zhǐ hē yī bēi chá.",
+      "english": "He only drinks one cup of tea every day."
     },
     {
-      "chinese": "他只买壹件衬衫(他只買壹件襯衫)，不买其他(不買其他)。",
-      "pinyin": "Tā zhǐ mǎi yī jiàn chènshān, bù mǎi qítā.",
-      "english": "He only bought one shirt and did not buy anything else."
+      "chinese": "他用壹只手就能提起那包东西(他用壹隻手就能提起那包東西)。",
+      "pinyin": "Tā yòng yī zhī shǒu jiù néng tí qǐ nà bāo dōngxī.",
+      "english": "He can lift that bag with one hand."
     },
     {
-      "chinese": "壹个苹果(壹個蘋果)足以代表开始(足以代表開始)。",
-      "pinyin": "Yī gè píngguǒ zúyǐ dàibiǎo kāishǐ.",
-      "english": "One apple is enough to represent a beginning."
+      "chinese": "壹个人守着壹座空房子(壹個人守著壹座空房子)，感觉十分孤独(感覺十分孤獨)。",
+      "pinyin": "Yī gè rén shǒuzhe yī zuò kōng fángzi, gǎnjué shífēn gūdú.",
+      "english": "Guarding an empty house alone feels very lonely."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "take a look",
   "etymology": {
     "type": "compound word",
-    "description": "看(看) (kàn, \"look\") + 一(一) (yī, \"one\") + 看(看) (kàn, \"look\") indicates the act of taking a quick or casual glance at something. The repetition of 看(看) (kàn, \"look\") emphasizes the act, while 一(一) (yī, \"one\") signifies a single or brief instance.",
-    "interpretation": "看一看 (kàn yī kàn) suggests a quick or casual glance at something, implying it is a brief or singular view without detailed examination.",
+    "description": "看(看) (kàn, \"look; see\") + 一(一) (yī, \"one; once\") + 看(看) (kàn, \"look; see\") = take a look",
+    "interpretation": "看(看) (kàn, \"look; see\") refers to using one's eyes to observe or inspect. 一(一) (yī, \"one; once\") serves to indicate a single action or an attempt, similar to saying 'once' or 'a bit' in English. By having 看(看) (kàn, \"look; see\") both before and after 一(一) (yī, \"one\"), it emphasizes or softens the action, suggesting a brief or casual glance rather than a thorough examination. It carries the sense of 'taking a moment to see', implying a light or simple action with no deep commitment.",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,37 @@
       "char": "看",
       "trad": "看",
       "pinyin": "kàn",
-      "english": "look; watch; see; inspect"
+      "english": "look; see"
     },
     {
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "one; single; a; uniform"
+      "english": "one; once"
     },
     {
       "char": "看",
       "trad": "看",
       "pinyin": "kàn",
-      "english": "look; watch; see; inspect"
+      "english": "look; see"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你看一看(你看一看)。",
-      "pinyin": "Nǐ kàn yī kàn.",
-      "english": "Have a look."
+      "chinese": "你可以过来这儿看一看(你可以過來這兒看一看)。",
+      "pinyin": "Nǐ kěyǐ guòlái zhè'er kàn yī kàn.",
+      "english": "You can come over here to take a look."
     },
     {
-      "chinese": "请你看一看(請你看一看)，那幅画好美丽(那幅畫好美麗)。",
-      "pinyin": "Qǐng nǐ kàn yī kàn, nà fú huà hǎo měilì.",
-      "english": "Please take a look, that painting is beautiful."
+      "chinese": "我们去书店看一看(我們去書店看一看)，然后再决定(然後再決定)。",
+      "pinyin": "Wǒmen qù shūdiàn kàn yī kàn, ránhòu zài juédìng.",
+      "english": "Let's go to the bookstore to take a look, then decide."
     },
     {
-      "chinese": "到了展览馆(到了展覽館)，先看一看(先看一看)，再挑选喜欢的作品(再挑選喜歡的作品)。",
-      "pinyin": "Dào le zhǎnlǎn guǎn, xiān kàn yī kàn, zài tiāo xuǎn xǐhuān de zuòpǐn.",
-      "english": "Upon arriving at the exhibition hall, take a look first, then select the artwork you like."
+      "chinese": "她想去市场看一看(她想去市場看一看)。",
+      "pinyin": "Tā xiǎng qù shìchǎng kàn yī kàn.",
+      "english": "She wants to go to the market to take a look."
     }
   ]
 }

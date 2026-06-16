@@ -5,40 +5,40 @@
   "english": "Yang Bin (name)",
   "etymology": {
     "type": "compound word",
-    "description": "楊(杨) (yáng, \"a surname\") is a common Chinese surname. 斌(斌) (bīn, \"refined; literary\") refers to a person who is cultivated or possesses literary talent. Together, 杨斌/楊斌 (Yáng Bīn) is used as a personal name.",
-    "interpretation": "杨斌/楊斌 (Yáng Bīn) is a Chinese name combining a common surname with a given name suggesting refinement and cultural sophistication.",
-    "simplification": "Simplified characters used"
+    "description": "楊(楊) (yáng, \"poplar\") refers to a type of tree commonly used in personal names. The character 斌(斌) (bīn, \"refined; cultivated\") conveys qualities of elegance or refinement, typically used in names to suggest cultured or scholarly attributes.",
+    "interpretation": "楊(楊) (yáng, \"poplar\") likely serves as a family name and doesn't directly contribute meaning beyond identification. 斌(斌) (bīn, \"refined; cultivated\") implies traits of sophistication and culture. Most names in Chinese culture include characters that represent positive attributes, suggesting that the person is or will be erudite or of noble character.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "杨",
       "trad": "楊",
       "pinyin": "yáng",
-      "english": "a surname"
+      "english": "poplar"
     },
     {
       "char": "斌",
       "trad": "斌",
       "pinyin": "bīn",
-      "english": "refined; literary"
+      "english": "refined; cultivated"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "杨斌热爱音乐(楊斌熱愛音樂)。",
-      "pinyin": "Yáng Bīn rè'ài yīnyuè.",
-      "english": "Yang Bin loves music."
+      "chinese": "杨斌是我最好的朋友(楊斌是我最好的朋友)。",
+      "pinyin": "Yáng Bīn shì wǒ zuì hǎo de péngyǒu.",
+      "english": "Yang Bin is my best friend."
     },
     {
-      "chinese": "杨斌去了图书馆(楊斌去了圖書館)，寻找珍贵的手稿(尋找珍貴的手稿)。",
-      "pinyin": "Yáng Bīn qùle túshūguǎn, xúnzhǎo zhēnguì de shǒugǎo.",
-      "english": "Yang Bin went to the library, searching for valuable manuscripts."
+      "chinese": "我昨天和杨斌一起去看电影(我昨天和楊斌一起去看電影)。",
+      "pinyin": "Wǒ zuótiān hé Yáng Bīn yīqǐ qù kàn diànyǐng.",
+      "english": "I went to watch a movie with Yang Bin yesterday."
     },
     {
-      "chinese": "昨晚杨斌与朋友共进晚餐(昨晚楊斌與朋友共進晚餐)，交流了彼此的梦想(交流了彼此的夢想)。",
-      "pinyin": "Zuówǎn Yáng Bīn yǔ péngyǒu gòng jìn wǎncān, jiāoliú le bǐcǐ de mèngxiǎng.",
-      "english": "Last night, Yang Bin dined with friends and exchanged their dreams."
+      "chinese": "杨斌喜欢旅行(楊斌喜歡旅行)，每年都会去不同的国家(每年都會去不同的國家)。",
+      "pinyin": "Yáng Bīn xǐhuān lǚxíng, měi nián dū huì qù bùtóng de guójiā.",
+      "english": "Yang Bin enjoys traveling and visits different countries every year."
     }
   ]
 }

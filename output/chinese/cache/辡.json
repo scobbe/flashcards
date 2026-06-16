@@ -1,0 +1,22 @@
+{
+  "simplified": "辡",
+  "traditional": "辡",
+  "pinyin": "biàn",
+  "english": "two prisoners accusing each other",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "Duplication of 辛 (辛) (xīn, \"bitter\") -> symbolizes two prisoners accusing each other",
+    "interpretation": "The duplication of 辛(辛) (xīn, \"bitter\"), which resembles two chisels or knives, suggests a scenario where two marked individuals are in opposition, reflecting a visual representation of recrimination or mutual accusation. This conceptual framework evokes the notion of quarrels or debates where two sides confront each other.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -5,8 +5,8 @@
   "english": "Luoyang",
   "etymology": {
     "type": "compound word",
-    "description": "洛(洛) (luò, \"a river or water\") and 阳(陽) (yáng, \"sun; positive principle\"). 洛阳(洛陽) (luòyáng) is the name of a historical city in China, where it refers to a place located by the Luo River with a sunny or favorable position—often south of a river due to the association of 阳(陽) (yáng, \"sun\") with the south side of a hill or north of a river.",
-    "interpretation": "洛阳(洛陽) (luòyáng) is a historically significant city, once the capital of several Chinese dynasties. Its name reflects its geographic and auspicious positioning by the Luo River, emphasizing prosperity and centrality.",
+    "description": "洛(洛) (luò, 'river name') refers to the Luo River, which flows through the region, and 陽(陽) (yáng, 'sun; yang side') means 'north bank of a river' (the 'sunny side' in Northern Hemisphere geography), indicating the north of the Luo River.",
+    "interpretation": "洛(洛) (luò, 'river name') specifically references the Luo River. The term 陽(陽) (yáng, 'north bank of a river') traditionally denotes the sunny side, typically associated with the north side of a river bank. Thus, 洛陽(洛陽) (Luòyáng) refers to the city located on the north bank of the Luo River.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "洛",
       "trad": "洛",
       "pinyin": "luò",
-      "english": "a river; water"
+      "english": "river name; Luo River"
     },
     {
       "char": "阳",
       "trad": "陽",
       "pinyin": "yáng",
-      "english": "sun; positive principle"
+      "english": "sun; yang side; north bank of a river"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "洛阳是历史名城(洛陽是歷史名城)。",
-      "pinyin": "Luòyáng shì lìshǐ míngchéng.",
-      "english": "Luoyang is a historic city."
+      "chinese": "洛阳是一个历史悠久的城市(洛陽是一個歷史悠久的城市)。",
+      "pinyin": "Luòyáng shì yī gè lìshǐ yōujiǔ de chéngshì.",
+      "english": "Luoyang is a city with a long history."
     },
     {
-      "chinese": "春天来临时(春天來臨時)，洛阳迎来繁花似锦(洛陽迎來繁花似錦)。",
-      "pinyin": "Chūntiān láilín shí, Luòyáng yínglái fánhuā sì jǐn.",
-      "english": "When spring arrives, Luoyang welcomes a profusion of flowers."
+      "chinese": "每年春天(每年春天)，许多人去洛阳赏花(許多人去洛陽賞花)。",
+      "pinyin": "Měinián chūntiān, xǔduō rén qù Luòyáng shǎng huā.",
+      "english": "Every spring, many people go to Luoyang to see the flowers."
+    },
+    {
+      "chinese": "我们计划去洛阳旅行(我們計劃去洛陽旅行)。",
+      "pinyin": "Wǒmen jìhuà qù Luòyáng lǚxíng.",
+      "english": "We plan to travel to Luoyang."
     }
   ]
 }

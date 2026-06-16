@@ -5,8 +5,8 @@
   "english": "etc.; and so on",
   "etymology": {
     "type": "compound word",
-    "description": "等(等) (děng, \"wait; rank; class\") + 等(等) (děng, \"wait; rank; class\") is a repetition used to indicate continuation, often translated as \"etc.\" or \"and so on.\" This suggests incompleteness, indicating that what has been mentioned is part of a larger list or sequence.",
-    "interpretation": "The repetition of 等(等) (děng, \"wait; rank; class\") emphasizes continuity or an extension of a list, commonly abbreviated in English as \"etc.\" to indicate additional items are included.",
+    "description": "等(等) (děng, \"wait; rank; kind; etc.\") is repeated to form a phrase that suggests the idea of continuation or a list of similar items.",
+    "interpretation": "By repeating 等(等) (děng, \"wait; rank; kind; etc.\"), the character emphasizes the idea of continuation or that there are more similar items yet unlisted. The concept of postponing the conclusion or extending a category logically leads to 'et cetera' as it implies the presence of further similar elements. Originally, the meaning comes from ranking or classifying, extending to list continuation by implying additional elements are of the same rank or kind.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "等",
       "trad": "等",
       "pinyin": "děng",
-      "english": "wait; rank; class"
+      "english": "wait; rank; kind; etc."
     },
     {
       "char": "等",
       "trad": "等",
       "pinyin": "děng",
-      "english": "wait; rank; class"
+      "english": "wait; rank; kind; etc."
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "书店里有小说(書店裡有小說)，杂志(雜誌)，等等(等等)。",
-      "pinyin": "Shūdiàn lǐ yǒu xiǎoshuō, zázhì, děngděng.",
-      "english": "The bookstore has novels, magazines, and so on."
+      "chinese": "商店里有各种水果，比如苹果(蘋果)、香蕉(香蕉)、橙子(橙子)等等(等等)。",
+      "pinyin": "Shāngdiàn lǐ yǒu gèzhǒng shuǐguǒ, bǐrú píngguǒ, xiāngjiāo, chéngzi děngděng.",
+      "english": "The store has various fruits, such as apples, bananas, oranges, etc."
     },
     {
-      "chinese": "他们讨论了旅行计划(他們討論了旅行計劃)，价格(價格)，等等(等等)。",
-      "pinyin": "Tāmen tǎolùn le lǚxíng jìhuà, jiàgé, děngděng.",
-      "english": "They discussed travel plans, prices, etc."
+      "chinese": "他擅长多种乐器，比如钢琴(鋼琴)、吉他(吉他)、小提琴(小提琴)等等(等等)。",
+      "pinyin": "Tā shàncháng duōzhǒng yuèqì, bǐrú gāngqín, jítā, xiǎotíqín děngděng.",
+      "english": "He is good at various musical instruments, such as the piano, guitar, violin, etc."
     },
     {
-      "chinese": "餐桌上摆满了菜(餐桌上擺滿了菜)，水果(水果)，等等(等等)。",
-      "pinyin": "Cānzhuō shàng bǎi mǎn le cài, shuǐguǒ, děngděng.",
-      "english": "The table is filled with dishes, fruits, and so on."
+      "chinese": "温室里种植了西红柿(西紅柿)、黄瓜(黃瓜)、胡萝卜(胡蘿蔔)等等(等等)。",
+      "pinyin": "Wēnshì lǐ zhòngzhí le xīhóngshì, huángguā, húluóbo děngděng.",
+      "english": "The greenhouse grows tomatoes, cucumbers, carrots, etc."
     }
   ]
 }

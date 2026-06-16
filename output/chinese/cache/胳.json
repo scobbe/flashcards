@@ -5,8 +5,8 @@
   "english": "arm",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "肉(肉) (ròu, \"flesh\") + 各(各) (gè, \"each\") = 肉 provides meaning related to flesh or body + 各 provides the sound -> term for \"arm\"",
-    "interpretation": "The character 胳(gē, \"arm\") combines the flesh radical 肉(肉) (ròu, \"flesh\") with 各(各) (gè, \"each\") to suggest a part of the body, specifically the arm. This aligns with its meaning, as the arm is a significant fleshy part of the human body.",
+    "description": "semantic 肉(肉) (ròu, \"flesh\") + phonetic 各(各) (gè, \"each\") -> arm",
+    "interpretation": "The character 胳 (gē, \"arm\") combines the semantic component 肉(肉) (ròu, \"flesh\") to indicate the association with the body, particularly soft tissue like an arm, with the phonetic 各(各) (gè, \"each\") which suggests the sound. The presence of \"flesh\" directly supports the anatomical meaning of 'arm'.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的胳膊很强壮(他的胳膊很強壯)。",
-      "pinyin": "Tā de gēbó hěn qiángzhuàng.",
-      "english": "His arm is very strong."
+      "chinese": "他把胳膊(他把胳膊)抬起来(抬起來)。",
+      "pinyin": "Tā bǎ gēbo tái qǐlái.",
+      "english": "He raised his arm."
     },
     {
-      "chinese": "他不小心撞到了胳肢窝(他不小心撞到了胳肢窩)，感到十分疼痛(感到十分疼痛)。",
-      "pinyin": "Tā bù xiǎoxīn zhuàngdào le gēzhīwō, gǎndào shífēn téngtòng.",
-      "english": "He accidentally bumped his armpit and felt very painful."
+      "chinese": "她的胳膊(她的胳膊)上有一个纹身(上有一個紋身)。",
+      "pinyin": "Tā de gēbo shàng yǒu yī gè wénshēn.",
+      "english": "There is a tattoo on her arm."
     },
     {
-      "chinese": "医师仔细检查了病人的胳膊(醫師仔細檢查了病人的胳膊)，确定没有骨折(確定沒有骨折)。",
-      "pinyin": "Yīshī zǐxì jiǎnchá le bìngrén de gēbó, quèdìng méiyǒu gǔzhé.",
-      "english": "The doctor carefully examined the patient's arm and confirmed that there was no fracture."
+      "chinese": "小孩的胳膊(小孩的胳膊)很细(很細)。",
+      "pinyin": "Xiǎohái de gē bo hěn xì.",
+      "english": "The child's arm is very thin."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "US dollar",
   "etymology": {
     "type": "compound word",
-    "description": "美(美) (měi, \"American\") + 元(元) (yuán, \"dollar\") indicate the currency of the United States.",
-    "interpretation": "The word 美元(美元) (měiyuán, \"US dollar\") combines 美(美) (měi, \"American\") to signify the Americas or things related to the United States, and 元(元) (yuán, \"dollar\") which is a common term for currency units, to specifically denote the currency of the US.",
+    "description": "美(美) (měi, \"beautiful; America\") + 元(元) (yuán, \"currency unit; origin\") creates the term for 'US dollar', emphasizing America as both the location associated with the currency and 'beautiful', which historically ties to the perception of America.",
+    "interpretation": "美(美) (měi, \"beautiful; America\") is used here as a phonetic and semantic element representing America, stemming from usage where 美洲 (měizhōu, \"America\") reinforces this link. 元(元) (yuán, \"currency unit; origin\") refers to money; the core or fundamental unit. The combination thus signifies the primary monetary unit of the United States.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "美",
       "trad": "美",
       "pinyin": "měi",
-      "english": "American; beautiful; USA"
+      "english": "beautiful; America"
     },
     {
       "char": "元",
       "trad": "元",
       "pinyin": "yuán",
-      "english": "dollar; primary; basic unit"
+      "english": "currency unit; origin"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "我有一百美元(我有一百美元)。",
-      "pinyin": "Wǒ yǒu yī bǎi měiyuán.",
+      "pinyin": "Wǒ yǒu yì bǎi měiyuán.",
       "english": "I have one hundred US dollars."
     },
     {
-      "chinese": "这件商品价格为五十美元(這件商品價格為五十美元)，十分便宜(十分便宜)。",
-      "pinyin": "Zhè jiàn shāngpǐn jiàgé wéi wǔ shí měiyuán, shífēn piányí.",
-      "english": "This item is priced at fifty US dollars, which is very cheap."
+      "chinese": "美元对人民币的汇率(美元對人民幣的匯率)，最近有所改变(最近有所改變)。",
+      "pinyin": "Měiyuán duì rénmínbì de huìlǜ, zuìjìn yǒu suǒ gǎibiàn.",
+      "english": "The exchange rate of the US dollar to RMB has changed recently."
     },
     {
-      "chinese": "他存了很多美元(他存了很多美元)，计划去美国旅游(計劃去美國旅遊)。",
-      "pinyin": "Tā cúnle hěn duō měiyuán, jìhuà qù měiguó lǚyóu.",
-      "english": "He has saved a lot of US dollars and plans to travel to the United States."
+      "chinese": "许多人用美元储蓄(許多人用美元儲蓄)，因为它的稳定性(因為它的穩定性)。",
+      "pinyin": "Xǔduō rén yòng měiyuán chǔxù, yīnwèi tā de wěndìngxìng.",
+      "english": "Many people save in US dollars because of its stability."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "to loathe; bore; disgust",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "厂(厂) (chǎng, 'cliff') as semantic component + 猒(猒) (yàn) as phonetic component = to loathe or be disgusted by something",
-    "interpretation": "The character 厭(厭) (yàn, 'to loathe') combines the semantic element 厂(厂) (chǎng, 'cliff'), suggesting something imposing or daunting, with the phonetic component 猒(猒) (yàn), guiding pronunciation and reinforcing the meaning of finding something distasteful or burdensome.",
-    "simplification": "厭(厭) was simplified to 厌(厌) by removing the phonetic 猒(猒) (yàn) and retaining the similar semantic impression under 厂(厂) (chǎng, 'cliff')."
+    "description": "semantic 厂(厂) (chǎng, \"cliff\") + phonetic 猒(猒) (yàn) -> meaning",
+    "interpretation": "In 厭(厭) (yàn, \"to loathe; bore; disgust\"), the semantic component 厂(厂) (chǎng, \"cliff\") conveys an image of something oppressive or imposing, while the phonetic component 猒(猒) (yàn), which carries a similar sound, helps to form the character's pronunciation. This combination suggests the overwhelming nature of loathing or disgust, as if something metaphorically looms over a person like a cliff.",
+    "simplification": "The character 厭(厭) was simplified to 厌(厌) by removing the phonetic component 猒(猒) (yàn), keeping the meaning while reducing strokes."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "猒",
       "trad": "猒",
       "pinyin": "yàn",
-      "english": "phonetic element"
+      "english": "abundant; excessive"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他对这份工作感到厌烦(他對這份工作感到厭煩)。",
-      "pinyin": "Tā duì zhè fèn gōngzuò gǎndào yànfán.",
-      "english": "He feels bored with this job."
+      "chinese": "他对重复的工作感到厌倦(他對重複的工作感到厭倦)。",
+      "pinyin": "Tā duì chóngfù de gōngzuò gǎndào yànjuàn.",
+      "english": "He feels weary of the repetitive work."
     },
     {
-      "chinese": "我一听到这些长篇大论就感到厌倦(我一聽到這些長篇大論就感到厭倦)。",
-      "pinyin": "Wǒ yī tīngdào zhèxiē chángpiāndàlùn jiù gǎndào yànjuàn.",
-      "english": "I feel bored whenever I hear these lengthy speeches."
+      "chinese": "过于复杂的程序让人厌烦(過於複雜的程序讓人厭煩)。",
+      "pinyin": "Guòyú fùzá de chéngxù ràng rén yànfán.",
+      "english": "The overly complicated procedure is annoying."
     },
     {
-      "chinese": "厌恶的情绪充满了他的内心(厭惡的情緒充滿了他的內心)。",
-      "pinyin": "Yànwù de qíngxù chōngmǎnle tā de nèixīn.",
-      "english": "Feelings of loathing filled his heart."
+      "chinese": "她对快餐感到厌恶(她對快餐感到厭惡)。",
+      "pinyin": "Tā duì kuàicān gǎndào yànwù.",
+      "english": "She feels disgusted with fast food."
     }
   ]
 }

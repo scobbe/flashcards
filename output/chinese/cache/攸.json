@@ -5,8 +5,8 @@
   "english": "distant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"tap, strike\") -> symbolizing authority or correction -> dots possibly indicating 水(水) (shuǐ, \"water\") -> purification ceremony or washing -> final sense related to 修(修) (xiū, \"repair\") and 滌(滌) (dí, \"wash\")",
-    "interpretation": "The character originally depicts a person warned or corrected by a hand with a stick, symbolizing authority or discipline, linked to 修(修) (xiū, \"repair\"). However, an alternative interpretation suggests the act of pouring water over a person for purification, aligned with the meaning in 滌(滌) (dí, \"wash\"). These interpretations explain its association with 'distant' as a reminder of proper conduct or purification.",
+    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"strike\" or \"hit\") -> depiction may include drops of water -> combines to suggest 'warning' or 'purification'",
+    "interpretation": "The character 攸 is an ideogrammic compound with 人(人) (rén, \"person\") + 攴(攴) (pū, \"strike\" or \"hit\"). Two interpretations exist: one posits it as a depiction of a person about to be disciplined, thus suggesting 'warning'; another suggests a ritual washing, connected to ceremonial purification, and thus involves water symbolism. The sense of 'distant' likely emerged as a metaphorical extension from the idea of warning or cleansing, which sets one apart or corrects a path.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,7 @@
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "tap; strike"
-    },
-    {
-      "char": "修",
-      "trad": "修",
-      "pinyin": "xiū",
-      "english": "repair"
-    },
-    {
-      "char": "滌",
-      "trad": "滌",
-      "pinyin": "dí",
-      "english": "wash"
-    },
-    {
-      "char": "水",
-      "trad": "水",
-      "pinyin": "shuǐ",
-      "english": "water"
+      "english": "strike"
     }
   ],
   "in_contemporary_usage": false,

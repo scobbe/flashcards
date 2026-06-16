@@ -5,8 +5,8 @@
   "english": "hall; chamber; central room; family",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 尚(尚) (shàng, \"esteem\") + Semantic: 土(土) (tǔ, \"earth\") -> 向(向) (xiàng, \"towards\") represents a house -> 堂(táng, \"hall\")",
-    "interpretation": "The character 堂(táng) combines the phonetic component 尚(shàng), which hints at pronunciation, with the semantic 土(tǔ) for earth, relating to a building or structure. 向(xiàng) provides the sense of a house, reinforcing the meaning of 'hall' or 'central room'.",
+    "description": "phonetic 尚(shàng) + semantic 土(tǔ, \"earth\") -> meaning",
+    "interpretation": "堂(táng) combines 尚(shàng), a phonetic component, with 土(tǔ, \"earth\"), denoting a structure built on the ground. 尚(shàng) provides the sound, while 土(tǔ) suggests its function as a building or space, naturally extending to 'hall' or 'central room'—a significant interior space within a structure. The sense of 'family' stems from its function as a place for familial gatherings and activities.",
     "simplification": ""
   },
   "parts": [
@@ -14,32 +14,31 @@
       "char": "尚",
       "trad": "尚",
       "pinyin": "shàng",
-      "english": "esteem"
+      "english": "still; yet"
     },
     {
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
       "english": "earth"
-    },
-    {
-      "char": "向",
-      "trad": "向",
-      "pinyin": "xiàng",
-      "english": "towards"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他踏入正堂参拜祖先(他踏入正堂參拜祖先)。",
-      "pinyin": "Tā tà rù zhèng táng cān bài zǔ xiān.",
-      "english": "He stepped into the main hall to pay respects to his ancestors."
+      "chinese": "他们在餐堂吃饭(他們在餐堂吃飯)。",
+      "pinyin": "Tāmen zài cāntáng chīfàn.",
+      "english": "They are eating in the dining hall."
     },
     {
-      "chinese": "家庭聚会在大堂举行(家庭聚會在大堂舉行)，传递家族荣誉(傳遞家族榮譽)。",
-      "pinyin": "Jiātíng jùhuì zài dà táng jǔxíng, chuándì jiāzú róngyù.",
-      "english": "Family gatherings are held in the great hall, passing on the family's honor."
+      "chinese": "书法作品挂在正堂上(書法作品掛在正堂上)。",
+      "pinyin": "Shūfǎ zuòpǐn guà zài zhèng táng shàng.",
+      "english": "The calligraphy works are hanging in the main hall."
+    },
+    {
+      "chinese": "宫殿里的大堂十分壮观(宮殿裡的大堂十分壯觀)。",
+      "pinyin": "Gōngdiàn lǐ de dàtáng shífēn zhuàngguān.",
+      "english": "The hall in the palace is very spectacular."
     }
   ]
 }

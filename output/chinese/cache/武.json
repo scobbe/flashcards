@@ -5,8 +5,8 @@
   "english": "displays strength as an enclosure",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "戈(戈) (gē, \"blade\") + 止(止) (zhǐ, \"foot; to walk\") = army going on an expedition -> displays strength",
-    "interpretation": "The character 武(wǔ) combines 戈(戈) (gē, \"blade\") representing weaponry and 止(止) (zhǐ, \"foot; to walk\") indicating movement or marching, to symbolize the movement of an armed force or military expedition, hence conveying the notion of martial strength.",
+    "description": "戈(戈) (gē, \"blade\") + 止(止) (zhǐ, \"foot; to walk; to stop\") = army going on an expedition -> later associated with just warfare",
+    "interpretation": "The character 武 originally combines the idea of a blade (戈) with movement or marching (止), representing an army on the move. While traditionally reinterpreted as 'to stop violence', linguistically it aligns better with the idea of martial activity or skill. The connection to just warfare is a later reinterpretation.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
-      "english": "foot; to walk"
+      "english": "foot; to walk; to stop"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "战士依靠武(𠬜)，筑起长城防线(築起長城防線)。",
-      "pinyin": "Zhànshì yīkào wǔ(𠬜), zhùqǐ chángchéng fángxiàn.",
-      "english": "The soldier relies on martial strength to build a protective wall."
+      "chinese": "他喜歡看武俠小說(他喜歡看武俠小說)。",
+      "pinyin": "Tā xǐhuān kàn wǔxiá xiǎoshuō.",
+      "english": "He likes to read martial arts novels."
     },
     {
-      "chinese": "古时将领以武(𠬜)守国(古時將領以武(𠬜)守國)，将敌人拒于门外(將敵人拒於門外)。",
-      "pinyin": "Gǔshí jiānglǐng yǐ wǔ(𠬜) shǒuguó, jiāng dírén jù yú ménwài.",
-      "english": "In ancient times, generals defended the country with martial might, keeping enemies at bay."
+      "chinese": "我們去看了一場武術表演(我們去看了一場武術表演)。",
+      "pinyin": "Wǒmen qù kànle yī chǎng wǔshù biǎoyǎn.",
+      "english": "We went to watch a martial arts performance."
     },
     {
-      "chinese": "边塞隐约传来武(𠬜)之气势(邊塞隱約傳來武(𠬜)之氣勢)。",
-      "pinyin": "Biānsài yǐnyuē chuán lái wǔ(𠬜) zhī qìshì.",
-      "english": "At the frontier, the aura of martial strength can be faintly felt."
+      "chinese": "他正在學習武功招式(他正在學習武功招式)。",
+      "pinyin": "Tā zhèngzài xuéxí wǔgōng zhāoshì.",
+      "english": "He is learning martial arts moves."
     }
   ]
 }

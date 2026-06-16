@@ -4,53 +4,41 @@
   "pinyin": "duì",
   "english": "exchange",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "八(八) (bā, \"speech; breath\") + 口(口) (kǒu, \"mouth\") + 人(人) (rén, \"person\") = speech -> original character of 說(說) (shuō, \"speak\")",
-    "interpretation": "The character 兌(兌) (duì, \"exchange\") depicts the act of speaking or expressing with 八(八) representing the concept of speech or breath, combined with 口(口) as the mouth, and 人(人) as the person. This composition reflects the use of speech and has historically been associated with speaking or exchanging words, eventually evolving to mean 'exchange' in a broader sense.",
+    "type": "phono-semantic compound",
+    "description": "semantic 卩(卩) (jié, 'kneeling person') + phonetic 兄(兄) (xiōng, 'elder brother') -> standing elder brother -> phonetic element",
+    "interpretation": "The character 兌 originally depicts a person with an open mouth and an extended hand, symbolizing an elder brother who speaks or declares. It evolved to a phonetic role in other characters, such as 悅(悅) (yuè, 'delight'), where it also retains the suggestion of expression or declaration, fitting the emotional context.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "八",
-      "trad": "八",
-      "pinyin": "bā",
-      "english": "speech; breath"
+      "char": "兄",
+      "trad": "兄",
+      "pinyin": "xiōng",
+      "english": "elder brother"
     },
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
-    },
-    {
-      "char": "說",
-      "trad": "說",
-      "pinyin": "shuō",
-      "english": "speak"
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我计划兌换外国货币(我計劃兑換外國貨幣)。",
-      "pinyin": "Wǒ jìhuà duìhuàn wàiguó huòbì.",
-      "english": "I plan to exchange foreign currency."
+      "chinese": "他在银行兌钱(他在銀行兌錢)。",
+      "pinyin": "Tā zài yínháng duì qián.",
+      "english": "He exchanged money at the bank."
     },
     {
-      "chinese": "在路边的小店(在路邊的小店)，他愿意兌出多余的零钱(他願意兑出多餘的零錢)。",
-      "pinyin": "Zài lùbiān de xiǎodiàn, tā yuànyì duì chū duōyú de língqián.",
-      "english": "At the small shop by the roadside, he is willing to exchange his extra change."
+      "chinese": "我们可以在这里兌外币(我們可以在這裡兌外幣)。",
+      "pinyin": "Wǒmen kěyǐ zài zhèlǐ duì wàibì.",
+      "english": "We can exchange foreign currency here."
     },
     {
-      "chinese": "古时商人常兌宝物(古時商人常兑寶物)，以求吉祥(以求吉祥)。",
-      "pinyin": "Gǔ shí shāngrén cháng duì bǎowù, yǐ qiú jíxiáng.",
-      "english": "Ancient merchants often exchanged treasures to seek good fortune."
+      "chinese": "你需要先去柜台兌票(你需要先去櫃檯兌票)。",
+      "pinyin": "Nǐ xūyào xiān qù guìtái duì piào.",
+      "english": "You need to first go to the counter to exchange your ticket."
     }
   ]
 }

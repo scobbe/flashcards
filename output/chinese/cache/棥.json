@@ -4,19 +4,12 @@
   "pinyin": "unknown",
   "english": "unknown",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic 棥 + semantic 𠬜 = variant form of 樊(樊)",
-    "interpretation": "The character 棥 serves as a variant of 樊(樊) (fán, \"fence\"), where it combines the phonetic element 棥 with a semantic element 𠬜. The composition indicates its pronunciation related to 樊, while not altering its semantic association.",
+    "type": "variant form",
+    "description": "Variant form of 樊",
+    "interpretation": "The character 棥 is a variant form of 樊, which itself is both a phono-semantic compound and an ideogrammic compound. It utilizes 棥 for its phonetic value and 𠬜 for its semantic contribution, suggesting an enclosure or barrier. However, specific historical and functional details of 棥 remain unclear.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "樊",
-      "trad": "樊",
-      "pinyin": "fán",
-      "english": "fence"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

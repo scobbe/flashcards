@@ -1,0 +1,28 @@
+{
+  "simplified": "胄",
+  "traditional": "胄",
+  "pinyin": "zhòu",
+  "english": "helmet",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 肉(肉) (ròu, \"meat; flesh\") + phonetic 由(由) (yóu) -> helmet",
+    "interpretation": "The character 胄 (zhòu, \"helmet\") employs the semantic component 肉(肉) (ròu, \"meat; flesh\") to indicate protection for the head, akin to a casing over flesh, and uses 由(由) (yóu) for its phonetic property, connecting sound rather than contributing to meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
+    },
+    {
+      "char": "由",
+      "trad": "由",
+      "pinyin": "yóu",
+      "english": "cause; from"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

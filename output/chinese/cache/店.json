@@ -5,13 +5,13 @@
   "english": "shop",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "广(广) (guǎng, \"house built to depend on a cliff\") + 占(占) (zhān, \"divine\") = house component gives a context of a structure + phonetic component provides sound -> shop",
-    "interpretation": "The character 店(店) (diàn, \"shop\") combines a component representing a building structure, underlining its meaning as a place of commerce, with a phonetic element that hints at its pronunciation.",
+    "description": "semantic 广 (\"house built to depend on a cliff\") + phonetic 占 -> shop",
+    "interpretation": "The character 店 (diàn, \"shop\") combines the semantic element 广, representing a building or structure, with the phonetic element 占, providing the sound. The idea is of a structure where goods are stationed, forming a place to sell or trade items, hence a 'shop'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "广",
+      "char": "廣",
       "trad": "廣",
       "pinyin": "guǎng",
       "english": "house built to depend on a cliff"
@@ -20,25 +20,25 @@
       "char": "占",
       "trad": "占",
       "pinyin": "zhān",
-      "english": "divine"
+      "english": "divine; observe"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这家店很好(這家店很好)。",
-      "pinyin": "Zhè jiā diàn hěn hǎo.",
-      "english": "This shop is good."
+      "chinese": "我在书店买了一本书(我在書店買了一本書)。",
+      "pinyin": "Wǒ zài shūdiàn mǎi le yī běn shū.",
+      "english": "I bought a book at the bookstore."
     },
     {
-      "chinese": "店里人很多(店裡人很多)。",
-      "pinyin": "Diàn lǐ rén hěn duō.",
-      "english": "There are many people in the shop."
+      "chinese": "这个小村庄只有一家小杂货店(這個小村莊只有一家小雜貨店)。",
+      "pinyin": "Zhège xiǎo cūnzhuāng zhǐ yǒu yī jiā xiǎo záhuòdiàn.",
+      "english": "This small village has only one small grocery shop."
     },
     {
-      "chinese": "他去那家店(他去那家店)，买东西(買東西)。",
-      "pinyin": "Tā qù nà jiā diàn, mǎi dōngxi.",
-      "english": "He goes to that shop to buy things."
+      "chinese": "每当我路过那家甜品店(每當我路過那家甜品店)，我都会停下来买些东西(我都會停下來買些東西)。",
+      "pinyin": "Měidāng wǒ lùguò nà jiā tiánpǐndiàn, wǒ dūhuì tíng xiàlái mǎi xiē dōngxi.",
+      "english": "Whenever I pass by that dessert shop, I always stop to buy something."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "breakup; change in relationship",
   "etymology": {
     "type": "compound word",
-    "description": "情(情) (qíng, \"emotions; feelings\") 變(變) (biàn, \"change; transform\")",
-    "interpretation": "The word 情變 (qíngbiàn) refers to a change or transformation in emotions or relationships, particularly in the context of a romantic breakup. The combination of 情(情) (qíng, \"emotions; feelings\") and 變(變) (biàn, \"change; transform\") emphasizes an alteration in the emotional state or circumstances of a relationship.",
+    "description": "情(情) (qíng, \"emotion; feeling; relationship\") represents emotions or the state of being related to someone. 變(變) (biàn, \"change; alter\") indicates a change or transformation. Together, 情變 (qíngbiàn) refers to a change or upheaval in a relationship, most commonly a breakup or a significant shift in emotional relations.",
+    "interpretation": "The term combines the sense of personal emotions and feelings (情) with the concept of change or transformation (變). In this context, a change in feelings implies a shift or breakdown in a relationship, such as a breakup. The emotional component is forefronted, signaling significant emotional alteration.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "情",
       "trad": "情",
       "pinyin": "qíng",
-      "english": "emotions; feelings"
+      "english": "emotion; feeling; relationship"
     },
     {
       "char": "变",
       "trad": "變",
       "pinyin": "biàn",
-      "english": "change; transform"
+      "english": "change; alter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他们之间情变(他們之間情變)。",
-      "pinyin": "Tāmen zhī jiān qíngbiàn.",
-      "english": "Their relationship broke down."
+      "chinese": "他们的感情经历了情变(他們的感情經歷了情變)。",
+      "pinyin": "Tāmen de gǎnqíng jīnglìle qíngbiàn.",
+      "english": "Their relationship experienced a breakup."
     },
     {
-      "chinese": "这段婚姻曾经幸福(這段婚姻曾經幸福)，如今却因情变而终止(如今日卻因情變而終止)。",
-      "pinyin": "Zhè duàn hūnyīn céngjīng xìngfú, rújīn què yīn qíngbiàn ér zhōngzhǐ.",
-      "english": "This marriage was once happy, but now it has ended due to a breakup."
+      "chinese": "情变后(情變後)，他感到很失落(他感到很失落)。",
+      "pinyin": "Qíngbiàn hòu, tā gǎndào hěn shīluò.",
+      "english": "After the breakup, he felt very lost."
     },
     {
-      "chinese": "他们因矛盾累积情变(他們因矛盾累積情變)，最终各奔东西(最終各奔東西)。",
-      "pinyin": "Tāmen yīn máodùn lěijī qíngbiàn, zuìzhōng gè bèn dōngxī.",
-      "english": "They broke up due to accumulating conflicts and eventually went their separate ways."
+      "chinese": "他们因为误会而产生了情变(他們因為誤會而產生了情變)，最后分手了(最後分手了)。",
+      "pinyin": "Tāmen yīnwèi wùhuì ér chǎnshēngle qíngbiàn, zuìhòu fēnshǒule.",
+      "english": "They had a breakup due to misunderstandings and eventually separated."
     }
   ]
 }

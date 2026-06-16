@@ -5,19 +5,19 @@
   "english": "beauty that sinks fish and makes birds fall",
   "etymology": {
     "type": "compound word",
-    "description": "沉(沈) (chén, \"sink\") is paired with 鱼(魚) (yú, \"fish\") and 落(落) (luò, \"fall\") is paired with 雁(雁) (yàn, \"wild goose\"). The phrase 沉鱼落雁(沈魚落雁) (chén yú luò yàn) describes a beauty so profound that fish forget to swim and sink, while geese are so entranced they forget to fly and fall.",
-    "interpretation": "In classical Chinese literature, 沉鱼落雁(沈魚落雁) (chén yú luò yàn) is a description of overwhelming beauty that captivates the natural world; it's often used to praise exceptional feminine beauty.",
-    "simplification": "traditional simplified to 沉鱼落雁"
+    "description": "沉(沉) (chén, \"sink\") + 魚(魚) (yú, \"fish\") + 落(落) (luò, \"fall\") + 雁(雁) (yàn, \"wild goose\") form an idiomatic expression describing a level of beauty so profound that fish in water would dive down and wild geese in flight would descend, in awe of such beauty.",
+    "interpretation": "This idiom describes a beauty that is so enchanting that it surpasses the natural elements, capable of captivating both aquatic and avian creatures. The idea is that a woman's beauty is so stunning that fish, feeling unworthy, sink to the depths of the water, while geese mistake it for nightfall and descend from the sky. This colorful imagery conveys the idea of an otherworldly grace and allure. The expression originates from legendary stories of beautiful women in Chinese history whose beauty was spoken of in such grandiose metaphors.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "沉",
-      "trad": "沈",
+      "trad": "沉",
       "pinyin": "chén",
-      "english": "sink"
+      "english": "sink; submerge"
     },
     {
-      "char": "鱼",
+      "char": "魚",
       "trad": "魚",
       "pinyin": "yú",
       "english": "fish"
@@ -26,7 +26,7 @@
       "char": "落",
       "trad": "落",
       "pinyin": "luò",
-      "english": "fall"
+      "english": "fall; drop"
     },
     {
       "char": "雁",
@@ -38,14 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她的容貌沉鱼落雁(她的容貌沉魚落雁)。",
-      "pinyin": "Tā de róngmào chén yú luò yàn.",
-      "english": "Her beauty is so extraordinary that it could sink fish and make birds fall."
+      "chinese": "她的美貌让人想到古代绝世美女的沉鱼落雁(她的美貌讓人想到古代絕世美女的沉魚落雁)。",
+      "pinyin": "Tā de měimào ràng rén xiǎngdào gǔdài juéshì měinǚ de chényúluòyàn.",
+      "english": "Her beauty reminds people of the legendary beauties of ancient times."
     },
     {
-      "chinese": "那位佳人走进宴会上(那位佳人走進宴會上)，令众人惊叹沉鱼落雁(令眾人驚嘆沉魚落雁)。",
-      "pinyin": "Nà wèi jiā rén zǒu jìn yànhuì shàng, lìng zhòngrén jīngtàn chén yú luò yàn.",
-      "english": "That beauty walked into the banquet, leaving everyone in awe with her sink-fish and falling-bird charm."
+      "chinese": "每次看到她，我都会感叹沉鱼落雁的真实存在(每次看到她，我都會感嘆沉魚落雁的真實存在)。",
+      "pinyin": "Měi cì kàn dào tā, wǒ dūhuì gǎntàn chényúluòyàn de zhēnshí cúnzài.",
+      "english": "Every time I see her, I marvel at the real existence of 'beauty that sinks fish and makes birds fall'."
+    },
+    {
+      "chinese": "她的姿态如沉鱼落雁般令人惊叹(她的姿態如沉魚落雁般令人驚嘆)。",
+      "pinyin": "Tā de zītài rú chényúluòyàn bān lìng rén jīngtàn.",
+      "english": "Her demeanor is as stunning as the legendary beauty that sinks fish and makes birds fall."
     }
   ]
 }

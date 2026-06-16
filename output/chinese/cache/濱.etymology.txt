@@ -1,0 +1,5 @@
+[濱]
+Phono-semantic compound ( 形聲 / 形声 , OC *pin ): semantic 水 ( “ water ” ) + phonetic 賓 ( OC *mpin ) .
+
+[浜]
+Phono-semantic compound ( 形聲 / 形声 , OC *praːŋ, *praːŋʔ ): semantic 氵 ( “ water ” ) + phonetic 兵 ( OC *praŋ ) .

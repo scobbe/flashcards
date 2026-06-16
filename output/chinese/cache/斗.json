@@ -5,22 +5,27 @@
   "english": "ladle",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two figures face-to-face, fighting with bare hands",
-    "interpretation": "The traditional character 鬥(dòu) represents two figures opposed, illustrating the concept of contest or struggle. It vividly depicts the idea of confrontation, which is embedded in its historical usage and imagery.",
-    "simplification": "The simplified character 斗(dòu) retained the basic outline and dropped one of the components, simplifying the strokes while preserving the original meaning even though it was derived from variant forms."
+    "description": "Two figures facing each other with bristled hair -> picturing a fight -> conflict, struggle",
+    "interpretation": "The pictogram depicts two figures in a face-to-face stance, their hair bristled, indicating tension and readiness to fight. This imagery captures the concept of a struggle or conflict, as each figure is poised to engage in combat.",
+    "simplification": "The character 鬥 (dòu, 'fight') was simplified to 斗 (dòu, 'ladle') by reducing its complex strokes to resemble the variant form."
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用斗舀水(他用斗舀水)。",
-      "pinyin": "Tā yòng dǒu yǎo shuǐ.",
-      "english": "He uses a ladle to scoop water."
+      "chinese": "她用木斗(她用木鬥)从井打水。",
+      "pinyin": "Tā yòng mù dǒu cóng jǐng dǎ shuǐ.",
+      "english": "She used a wooden ladle to fetch water from the well."
     },
     {
-      "chinese": "这个斗很旧(這個斗很舊)，我们需要买一个新的(我們需要買一個新的)。",
-      "pinyin": "Zhè gè dǒu hěn jiù, wǒmen xūyào mǎi yī gè xīn de.",
-      "english": "This ladle is very old, we need to buy a new one."
+      "chinese": "祖母有一个古老的铁斗(祖母有一個古老的鐵鬥)，用来舀汤(用來舀湯)。",
+      "pinyin": "Zǔmǔ yǒu yī ge gǔlǎo de tiě dǒu, yòng lái yǎo tāng.",
+      "english": "Grandmother has an ancient iron ladle, used to scoop soup."
+    },
+    {
+      "chinese": "这个斗(這個鬥)能装多少水？",
+      "pinyin": "Zhège dǒu néng zhuāng duōshǎo shuǐ?",
+      "english": "How much water can this ladle hold?"
     }
   ]
 }

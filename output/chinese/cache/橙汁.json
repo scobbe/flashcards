@@ -5,8 +5,8 @@
   "english": "orange juice",
   "etymology": {
     "type": "compound word",
-    "description": "橙(橙) (chéng, \"orange\") + 汁(汁) (zhī, \"juice\") means juice derived from oranges.",
-    "interpretation": "The term 橙汁(chéngzhī) logically combines 橙(橙) (chéng, \"orange\") with 汁(汁) (zhī, \"juice\") to refer to a liquid extracted from oranges, commonly known as orange juice.",
+    "description": "橙(橙) (chéng, \"orange\") + 汁(汁) (zhī, \"juice\") forms the term 橙汁 (chéngzhī, \"orange juice\"), referring to the liquid extracted from oranges.",
+    "interpretation": "橙(橙) (chéng, \"orange\") refers to the fruit known for its vibrant color and citrus flavor. When combined with 汁(汁) (zhī, \"juice\"), which denotes the liquid content obtained by pressing or squeezing fruits, it specifies the juice derived from oranges. Thus, 橙汁 captures the notion of the liquid essence of the orange fruit, commonly used as a refreshing drink.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "橙",
       "trad": "橙",
       "pinyin": "chéng",
-      "english": "orange"
+      "english": "orange (fruit)"
     },
     {
       "char": "汁",
       "trad": "汁",
       "pinyin": "zhī",
-      "english": "juice"
+      "english": "juice; liquid"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢喝橙汁(我喜歡喝橙汁)。",
-      "pinyin": "Wǒ xǐhuān hē chéngzhī.",
-      "english": "I like to drink orange juice."
+      "chinese": "我早餐喝了一杯橙汁(我早餐喝了一杯橙汁)。",
+      "pinyin": "Wǒ zǎocān hēle yī bēi chéngzhī.",
+      "english": "I had a glass of orange juice for breakfast."
     },
     {
-      "chinese": "夏天来临时(夏天來臨時)，一杯冰橙汁能带来清凉(一杯冰橙汁能帶來清涼)。",
-      "pinyin": "Xiàtiān láilín shí, yī bēi bīng chéngzhī néng dàilái qīngliáng.",
-      "english": "When summer arrives, a glass of iced orange juice brings coolness."
+      "chinese": "橙汁(橙汁)是维生素C的重要来源(是維生素C的重要來源)。",
+      "pinyin": "Chéngzhī shì wéishēngsù C de zhòngyào láiyuán.",
+      "english": "Orange juice is an important source of vitamin C."
+    },
+    {
+      "chinese": "她喜欢在午餐时喝橙汁(她喜歡在午餐時喝橙汁)。",
+      "pinyin": "Tā xǐhuān zài wǔcān shí hē chéngzhī.",
+      "english": "She likes to drink orange juice during lunch."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "strange",
   "etymology": {
     "type": "compound word",
-    "description": "奇(奇) (qí, \"strange; odd\") and 怪(怪) (guài, \"weird; strange\") combine to form 奇怪(奇怪) (qíguài, \"strange\").",
-    "interpretation": "The combination of 奇(奇) (qí, \"strange; odd\") and 怪(怪) (guài, \"weird; strange\") strengthens the idea of 'strange' by bringing together two characters that convey unusualness or abnormality.",
+    "description": "奇(奇) (qí, \"strange; odd\") denotes something unusual or out of the ordinary. 怪(怪) (guài, \"odd; strange; to blame\") further emphasizes strangeness or peculiarity, and can also be associated with moral judgment or assigning blame.",
+    "interpretation": "The word 奇怪 (qíguài) combines two characters that both relate to concepts of irregularity and difference from the norm. 奇(奇) (qí, \"strange; odd\") refers to something that stands out due to its rarity or surprising nature. 怪(怪) (guài, \"odd; strange; to blame\") adds an additional layer, not only marking something as strange but also featuring a sense of moral judgment or emotional reaction, like something being so unusual it may invoke curiosity or suspicion. Together, they form a phrase that strongly conveys a sense of strangeness or peculiarity.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "奇",
       "trad": "奇",
       "pinyin": "qí",
-      "english": "strange; odd; unique; rare"
+      "english": "strange; odd"
     },
     {
       "char": "怪",
       "trad": "怪",
       "pinyin": "guài",
-      "english": "weird; strange; blame; monster"
+      "english": "odd; strange; to blame"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这件事情真奇怪(這件事情真奇怪)。",
-      "pinyin": "Zhè jiàn shìqíng zhēn qíguài.",
-      "english": "This matter is really strange."
+      "chinese": "这个地方有很多奇怪的声音(這個地方有很多奇怪的聲音)。",
+      "pinyin": "Zhège dìfāng yǒu hěn duō qíguài de shēngyīn.",
+      "english": "There are many strange sounds in this place."
     },
     {
-      "chinese": "他看起来的表情很奇怪(他看起來的表情很奇怪)，让大家感到困惑(讓大家感到困惑)。",
-      "pinyin": "Tā kàn qǐlái de biǎoqíng hěn qíguài, ràng dàjiā gǎndào kùnhuò.",
-      "english": "His expression looked strange, making everyone feel puzzled."
+      "chinese": "他今天的行为很奇怪(他今天的行為很奇怪)。",
+      "pinyin": "Tā jīntiān de xíngwéi hěn qíguài.",
+      "english": "His behavior today is very strange."
+    },
+    {
+      "chinese": "我觉得这件事情有点奇怪(我覺得這件事情有點奇怪)。",
+      "pinyin": "Wǒ juéde zhè jiàn shìqíng yǒu diǎn qíguài.",
+      "english": "I think this matter is a bit strange."
     }
   ]
 }

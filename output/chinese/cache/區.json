@@ -1,0 +1,44 @@
+{
+  "simplified": "區",
+  "traditional": "區",
+  "pinyin": "qū",
+  "english": "area; district",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "匸(匸) (xì, \"concealed\") + 品(品) (pǐn, \"goods\") = many people or goods concealed in a space -> area",
+    "interpretation": "The character 區 (qū, \"area\") illustrates the concept of an enclosed space with multiple items or individuals represented by 品(品) (pǐn, \"goods\") within 匸(匸) (xì, \"concealed\"). This evokes the sense of a defined area or district where such items are contained.",
+    "simplification": "The traditional component 品(品) (pǐn, \"goods\") was replaced by 乂(乂) (yì, \"to govern\") in the simplified form, 区 (区), keeping the enclosure concept."
+  },
+  "parts": [
+    {
+      "char": "匸",
+      "trad": "匸",
+      "pinyin": "xì",
+      "english": "concealed"
+    },
+    {
+      "char": "品",
+      "trad": "品",
+      "pinyin": "pǐn",
+      "english": "goods"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这一区的房价很高(這一區的房價很高)。",
+      "pinyin": "Zhè yī qū de fángjià hěn gāo.",
+      "english": "The house prices in this area are very high."
+    },
+    {
+      "chinese": "他们住在城市的南区(他們住在城市的南區)。",
+      "pinyin": "Tāmen zhù zài chéngshì de nán qū.",
+      "english": "They live in the southern district of the city."
+    },
+    {
+      "chinese": "这个区以其丰富的文化遗产而闻名(這個區以其豐富的文化遺產而聞名)。",
+      "pinyin": "Zhège qū yǐ qí fēngfù de wénhuà yíchǎn ér wénmíng.",
+      "english": "This area is famous for its rich cultural heritage."
+    }
+  ]
+}

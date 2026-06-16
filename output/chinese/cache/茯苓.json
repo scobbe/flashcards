@@ -5,8 +5,8 @@
   "english": "poria; tuckahoe (medicinal fungus)",
   "etymology": {
     "type": "compound word",
-    "description": "茯(茯) (fú, \"poria root\") + 苓(苓) (líng, \"medicinal plant\") come together to refer specifically to the medicinal fungus known as poria, used in traditional Chinese medicine for various health purposes.",
-    "interpretation": "茯苓(fúlíng, \"poria\") is a term from traditional Chinese medicine, where 茯(茯) (fú, \"poria root\") refers to the part of the fungi used, and 苓(苓) (líng, \"medicinal plant\") highlights its therapeutic applications.",
+    "description": "茯苓 (fúlíng, \"poria; tuckahoe\") is a compound referring to a type of medicinal fungus highly regarded in Chinese herbal medicine. It is noted for its adaptogenic properties used to balance bodily functions.",
+    "interpretation": "茯 (fú, \"tuckahoe; a kind of herb\") and 苓 (líng, \"fungus; medicinal plant\") together specify a medicinal fungus used in traditional Chinese medicine. 茯 (fú) suggests the plant's herbal use, while 苓 (líng) highlights its classification as a fungus or plant component in herbal prescriptions. The combination integrates these aspects to directly denote the specific medicinal mushroom, poria, and its role as both herb and fungus in therapy.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "茯",
       "trad": "茯",
       "pinyin": "fú",
-      "english": "poria root"
+      "english": "tuckahoe; a kind of herb"
     },
     {
       "char": "苓",
       "trad": "苓",
       "pinyin": "líng",
-      "english": "medicinal plant; poria"
+      "english": "fungus; medicinal plant"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用茯苓(茯苓)煮汤(煮湯)。",
-      "pinyin": "Wǒ yòng fúlíng zhǔ tāng.",
-      "english": "I use poria to cook soup."
+      "chinese": "汤里加了一些茯苓(湯裡加了一些茯苓)。",
+      "pinyin": "Tāng lǐ jiāle yīxiē fúlíng.",
+      "english": "Some poria was added to the soup."
     },
     {
-      "chinese": "中医认为茯苓能健脾(中醫認為茯苓能健脾)，具有保健作用(具有保健作用)。",
-      "pinyin": "Zhōngyī rènwéi fúlíng néng jiànpí, jùyǒu bǎojiàn zuòyòng.",
-      "english": "Traditional Chinese medicine believes that poria strengthens the spleen and offers health benefits."
+      "chinese": "茯苓常用于中药(茯苓常用於中藥)。",
+      "pinyin": "Fúlíng cháng yòng yú zhōngyào.",
+      "english": "Poria is commonly used in traditional Chinese medicine."
+    },
+    {
+      "chinese": "她买了一包茯苓(她買了一包茯苓)，准备做药膳(準備做藥膳)。",
+      "pinyin": "Tā mǎile yī bāo fúlíng, zhǔnbèi zuò yàoshàn.",
+      "english": "She bought a package of poria to prepare herbal cuisine."
     }
   ]
 }

@@ -5,35 +5,34 @@
   "english": "Urumqi",
   "etymology": {
     "type": "compound word",
-    "description": "烏魯木齊(乌鲁木齐) is the Chinese name for the city Urumqi, the capital of the Xinjiang Uygur Autonomous Region in China.",
-    "interpretation": "Urumqi, known in Chinese as 乌鲁木齐(烏魯木齊) (Wūlǔmùqí), is the capital and largest city of the Xinjiang Uygur Autonomous Region in northwestern China. The name reflects its Uygur roots and is phonetically transliterated into Chinese.",
-    "simplification": "partial"
+    "description": "乌鲁木齐(烏魯木齊) (Wūlǔmùqí, 'Urumqi') is the name of a city in China, and its meaning is not directly derived from the Chinese characters individually. Instead, it is a direct phonetic transliteration from a Uyghur word.",
+    "interpretation": "The name 乌鲁木齐(烏魯木齊) (Wūlǔmùqí, 'Urumqi') is a phonetic transliteration from the original Uyghur language, in which it means 'beautiful pasture'. The Chinese characters are chosen for their phonetic sounds rather than individual meanings, thus the components '乌(烏)' (wū, 'crow; black') + '鲁(魯)' (lǔ, 'crude; foolish') + '木' (mù, 'wood; tree') + '齐(齊)' (qí, 'together; neat') do not contribute meaning to the word. This phonetic appropriation is common in place names when representing sounds unique to non-Chinese languages.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "乌鲁",
-      "trad": "烏魯",
-      "pinyin": "wūlǔ",
-      "english": "Uru"
-    },
-    {
-      "char": "木齐",
-      "trad": "木齊",
-      "pinyin": "mùqí",
-      "english": "mqi"
+      "char": "乌鲁木齐",
+      "trad": "烏魯木齊",
+      "pinyin": "Wūlǔmùqí",
+      "english": "Urumqi"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我很喜欢乌鲁木齐(烏魯木齊)。",
-      "pinyin": "Wǒ hěn xǐhuān Wūlǔmùqí.",
-      "english": "I really like Urumqi."
+      "chinese": "乌鲁木齐(烏魯木齊)是新疆的首府。",
+      "pinyin": "Wūlǔmùqí shì Xīnjiāng de shǒufǔ.",
+      "english": "Urumqi is the capital of Xinjiang."
     },
     {
-      "chinese": "乌鲁木齐有悠久的历史(烏魯木齊有悠久的歷史)，文化多样性令人赞叹(文化多樣性令人讚嘆)。",
-      "pinyin": "Wūlǔmùqí yǒu yōujiǔ de lìshǐ, wénhuà duōyàngxìng lìng rén zàntàn.",
-      "english": "Urumqi has a long history, and its cultural diversity is impressive."
+      "chinese": "乌鲁木齐(烏魯木齊)的气候独特(氣候獨特)。",
+      "pinyin": "Wūlǔmùqí de qìhòu dútè.",
+      "english": "The climate in Urumqi is unique."
+    },
+    {
+      "chinese": "我们乘火车前往乌鲁木齐(我們乘火車前往烏魯木齊)。",
+      "pinyin": "Wǒmen chéng huǒchē qiánwǎng Wūlǔmùqí.",
+      "english": "We took a train to Urumqi."
     }
   ]
 }

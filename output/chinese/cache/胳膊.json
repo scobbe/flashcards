@@ -5,8 +5,8 @@
   "english": "arm",
   "etymology": {
     "type": "compound word",
-    "description": "胳(胳) (gē, \"arm\") and 膊(膊) (bó, \"arm\"). The characters together emphasize the meaning of \"arm.\" This is a compound where both parts refer to the same body part, reinforcing its identity.",
-    "interpretation": "The word 胳膊 (gēbo) combines two characters both denoting 'arm,' forming a term specifically for this part of the body. This is an example of lexical reinforcement commonly found in Chinese.",
+    "description": "胳(胳) (gē, \"arm, upper arm\") originally referred to the fleshy part of the arm, drawing on the imagery of meat/flesh (月, radical for body parts), combining with a phonetic component 合(hé, \"to combine\") for its sound. 膊(膊) (bó, \"shoulder, arm\") focuses on the shoulder area, also using the flesh radical (月), paired with the phonetic component 铂(bó, \"platinum\") providing its reading.",
+    "interpretation": "The combination of 胳(胳) (gē, \"upper arm\") and 膊(膊) (bó, \"shoulder\") represents the entire upper limb. 胳 suggests the fleshy part of the arm, while 膊 emphasizes the shoulder's relation to movement/strength - collectively encompassing the 'arm'.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "胳",
       "trad": "胳",
       "pinyin": "gē",
-      "english": "arm"
+      "english": "arm; upper arm"
     },
     {
       "char": "膊",
       "trad": "膊",
       "pinyin": "bó",
-      "english": "arm"
+      "english": "shoulder; arm"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的胳膊被撞伤了(我的胳膊被撞傷了)。",
-      "pinyin": "Wǒ de gēbo bèi zhuàng shāng le.",
-      "english": "My arm was injured in an accident."
+      "chinese": "他的胳膊受伤了(他的胳膊受傷了)。",
+      "pinyin": "Tā de gēbo shòushāng le.",
+      "english": "His arm is injured."
     },
     {
-      "chinese": "运动时他胳膊疼(運動時他胳膊疼)，不得不休息(不得不休息)。",
-      "pinyin": "Yùndòng shí tā gēbo téng, bùdébù xiūxí.",
-      "english": "During exercise, his arm hurt, so he had to rest."
+      "chinese": "小女孩的胳膊很长(小女孩的胳膊很長)。",
+      "pinyin": "Xiǎo nǚhái de gēbo hěn cháng.",
+      "english": "The little girl's arms are long."
+    },
+    {
+      "chinese": "我举起胳膊(我舉起胳膊)，挥了挥手(揮了揮手)。",
+      "pinyin": "Wǒ jǔqǐ gēbo, huīle huīshǒu.",
+      "english": "I raised my arm and waved."
     }
   ]
 }

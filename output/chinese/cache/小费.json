@@ -5,35 +5,40 @@
   "english": "tip; gratuity",
   "etymology": {
     "type": "compound word",
-    "description": "小(小) (xiǎo, \"small\") and 费(費) (fèi, \"fee\")",
-    "interpretation": "The term 小费(小費) (xiǎofèi) literally translates to \"small fee,\" reflecting the notion of giving a small amount of money in addition to the main payment as a gesture of gratitude or appreciation for service.",
-    "simplification": "小费 is the simplified form of 小費."
+    "description": "小(小) (xiǎo, \"small\") + 費(費) (fèi, \"expense\"): Together, 小費 (小费) (xiǎofèi) refers to a \"small expense,\" aligning with the concept of a tip or gratuity, which is a minor cost offered for service",
+    "interpretation": "In the context of service, a tip is viewed as a minor monetary gesture; thus, the character 小(小) (xiǎo, \"small\") represents the minor nature of the expense, while 費(費) (fèi, \"expense\") designates it as an additional monetary consideration beyond the primary cost. This minor financial gesture is given voluntarily to acknowledge service.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "小",
       "trad": "小",
       "pinyin": "xiǎo",
-      "english": "small; little; young"
+      "english": "small; little"
     },
     {
       "char": "费",
       "trad": "費",
       "pinyin": "fèi",
-      "english": "fee; expense; cost; to spend"
+      "english": "expense; fee; cost"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "顾客付了小费(顧客付了小費)。",
-      "pinyin": "Gùkè fùle xiǎofèi.",
-      "english": "The customer paid a tip."
+      "chinese": "在餐厅吃饭后(在餐廳吃飯後)，我给服务员小费(我給服務員小費)。",
+      "pinyin": "Zài cāntīng chīfàn hòu, wǒ gěi fúwùyuán xiǎofèi.",
+      "english": "After dining at the restaurant, I gave the waiter a tip."
     },
     {
-      "chinese": "餐厅服务很好(餐廳服務很好)，顾客留下小费(顧客留下小費)。",
-      "pinyin": "Cāntīng fúwù hěn hǎo, gùkè liú xià xiǎofèi.",
-      "english": "The restaurant service was excellent, and the customer left a tip."
+      "chinese": "服务很周到(服務很周到)，所以我决定给更多小费(所以我決定給更多小費)。",
+      "pinyin": "Fúwù hěn zhōudào, suǒyǐ wǒ juédìng gěi gèng duō xiǎofèi.",
+      "english": "The service was very attentive, so I decided to give a bigger tip."
+    },
+    {
+      "chinese": "在美国(在美國)，给餐馆服务员小费是很常见的(給餐館服務員小費是很常見的)。",
+      "pinyin": "Zài Měiguó, gěi cānguǎn fúwùyuán xiǎofèi shì hěn chángjiàn de.",
+      "english": "In the United States, it's very common to give restaurant waitstaff a tip."
     }
   ]
 }

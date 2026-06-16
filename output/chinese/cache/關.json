@@ -5,8 +5,8 @@
   "english": "\"close\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "門(門) (mén, 'door') + 䦕(䦕) (guān, 'watchtower') = sound and meaning of barrier or enclosure -> close",
-    "interpretation": "The character 關(關) (guān, 'close') combines the image of a door 門(門) (mén, 'door') with a phonetic element 䦕(䦕) (guān, 'watchtower') to convey the idea of closing or securing a passage like a fortress gate.",
+    "description": "門(門) (mén, \"door\") + 卝(卝) (\"locked door; two wooden sticks to lock a door\") -> 門 locked with wooden bars -> semantic 門 (mén, \"door\") + phonetic 𢇅 (rings on wooden sticks)",
+    "interpretation": "Original form depicted a door (門) secured by placing two sticks (卝) across it, representing the concept of closure or fastening. The character evolved, incorporating a phonetic element with additional rings (𢇅) suggesting reinforcement and structure, emphasizing the act of closing or securing.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,34 @@
       "english": "door"
     },
     {
-      "char": "䦕",
-      "trad": "䦕",
-      "pinyin": "guān",
-      "english": "watchtower"
+      "char": "卝",
+      "trad": "卝",
+      "pinyin": "kuàng",
+      "english": "locked door; two wooden sticks to lock a door"
+    },
+    {
+      "char": "𢇅",
+      "trad": "𢇅",
+      "pinyin": "not defined",
+      "english": "rings on wooden sticks"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请关门(請關門)。",
-      "pinyin": "Qǐng guān mén.",
+      "chinese": "请把门关上(請把門關上)。",
+      "pinyin": "Qǐng bǎ mén guān shàng.",
       "english": "Please close the door."
     },
     {
-      "chinese": "他总是忘记关灯(他總是忘記關燈)，夜晚显得特别黑(夜晚顯得特別黑)。",
-      "pinyin": "Tā zǒng shì wàngjì guān dēng, yèwǎn xiǎnde tèbié hēi.",
-      "english": "He always forgets to turn off the light, so the night appears especially dark."
+      "chinese": "她总是小心地关窗(她總是小心地關窗)，以免生病(以免生病)。",
+      "pinyin": "Tā zǒng shì xiǎoxīn de guān chuāng, yǐmiǎn shēngbìng.",
+      "english": "She always carefully closes the window to avoid getting sick."
     },
     {
-      "chinese": "他轻轻关上了窗户(他輕輕關上了窗戶)。",
-      "pinyin": "Tā qīngqīng guān shàngle chuānghù.",
-      "english": "He gently closed the window."
+      "chinese": "电视机关掉了(電視機關掉了)，家里突然安静了下来(家裡突然安靜了下來)。",
+      "pinyin": "Diànshì jī guān diào le, jiālǐ tūrán ānjìng le xiàlái.",
+      "english": "The TV was turned off, and the house suddenly became quiet."
     }
   ]
 }

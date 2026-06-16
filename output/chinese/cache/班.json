@@ -5,14 +5,14 @@
   "english": "shift; work",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "珏(珏) (jué, \"pieces of jade\") + 刀(刀) (dāo, \"knife\") = cutting jade into pieces -> split or divided -> shift or work group",
-    "interpretation": "The character 班(bān) metaphorically represents dividing or splitting work into shifts, akin to cutting jade into pieces. This concept stems from the process of dividing a whole into parts, as suggested by the act of cutting jade.",
+    "description": "玨(玨) (jué, \"pieces of jade\") + 刀(刀) (dāo, \"knife\") -> to cut jade into pieces with a knife -> shift; work",
+    "interpretation": "The character 班(bān, \"shift; work\") originally depicted the action of cutting a piece of jade into parts with a knife. Just as jade is divided into smaller parts, work or tasks are divided into shifts or segments, bridging the concept of dividing valuable items and dividing time or tasks.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "珏",
-      "trad": "珏",
+      "char": "玨",
+      "trad": "玨",
       "pinyin": "jué",
       "english": "pieces of jade"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天我上晚班(今天我上晚班)。",
-      "pinyin": "Jīntiān wǒ shàng wǎn bān.",
-      "english": "Today I work the night shift."
+      "chinese": "我今天的班(我今天的班)结束后我们去喝饮料(結束後我們去喝飲料)。",
+      "pinyin": "Wǒ jīntiān de bān jiéshù hòu wǒmen qù hē yǐnliào.",
+      "english": "After my shift ends today, we will go for drinks."
     },
     {
-      "chinese": "他换了班(他換了班)，去休息了(去休息了)。",
-      "pinyin": "Tā huàn le bān, qù xiūxí le.",
-      "english": "He changed his shift, and then went to rest."
+      "chinese": "他新换了一个班(他新換了一個班)，觉得很适应(覺得很適應)。",
+      "pinyin": "Tā xīn huànle yī gè bān, juéde hěn shìyìng.",
+      "english": "He has switched to a new shift and feels very adapted to it."
     },
     {
-      "chinese": "天黑后(天黑後)，我开始新班(我開始新班)。",
-      "pinyin": "Tiān hēi hòu, wǒ kāishǐ xīn bān.",
-      "english": "After it got dark, I started a new shift."
+      "chinese": "这个班(這個班)的工作时间很长(的工作時間很長)，但是报酬不错(但是報酬不錯)。",
+      "pinyin": "Zhège bān de gōngzuò shíjiān hěn cháng, dànshì bàochóu bùcuò.",
+      "english": "This shift has long working hours, but the pay is good."
     }
   ]
 }

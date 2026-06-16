@@ -2,21 +2,14 @@
   "simplified": "𦣞",
   "traditional": "𦣞",
   "pinyin": "unknown",
-  "english": "phonetic component",
+  "english": "many, numerous",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a chin -> Original form of 頤(頤) (yí, \"chin\")",
-    "interpretation": "The character 𦣞 is a pictogram that possibly represents a chin and serves as the original form for the character 頤(頤) (yí, \"chin\"), reflecting its function as a phonetic component related to the head.",
+    "description": "Depicts a chin -> original form of 頤(頤) (yí, \"chin\")",
+    "interpretation": "𦣞 originally depicts the shape of a chin. This intuitive image underlies its proposed role as the early form of 頤(頤) (yí, \"chin\"), visually representing the anatomy it names. There is no continuation to mean 'many, numerous'; this seems a borrowing or error.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "頤",
-      "trad": "頤",
-      "pinyin": "yí",
-      "english": "chin"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -5,8 +5,8 @@
   "english": "emotions; feelings",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 心(心) (xīn, \"heart\") + phonetic 青(青) (qīng) = emotions related to the heart -> emotions; feelings",
-    "interpretation": "The character 情(qíng) emphasizes that emotions and feelings are intrinsically connected to the heart, with 青(青) (qīng) contributing its sound. This combination reflects the concept that emotions are deep-seated in one's heart.",
+    "description": "semantic 心(心) (xīn, \"heart\") + phonetic 青(青) (qīng) -> emotions; feelings",
+    "interpretation": "The character 情(qíng) combines the semantic component 心(心) (xīn, \"heart\"), representing emotions and feelings, with the phonetic component 青(青) (qīng) to suggest the pronunciation. The heart is considered the seat of emotions, thus naturally leading to the character's meaning of \"emotions; feelings.\"",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "青",
       "trad": "青",
       "pinyin": "qīng",
-      "english": "green/blue"
+      "english": "green; young"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的情深似海(他的情深似海)。",
-      "pinyin": "Tā de qíng shēn sì hǎi.",
-      "english": "His feelings are as deep as the ocean."
+      "chinese": "他的情感非常丰富(他的情感非常豐富)。",
+      "pinyin": "Tā de qínggǎn fēicháng fēngfù.",
+      "english": "His emotions are very rich."
     },
     {
-      "chinese": "我看到了他眼中的情(我看到了他眼中的情)，那是一种温柔(那是一種溫柔)。",
-      "pinyin": "Wǒ kàn dào le tā yǎn zhōng de qíng, nà shì yī zhǒng wēnróu.",
-      "english": "I saw the emotion in his eyes; it was a kind tenderness."
+      "chinese": "她对这部电影没有任何情感(她對這部電影沒有任何情感)。",
+      "pinyin": "Tā duì zhè bù diànyǐng méiyǒu rènhé qínggǎn.",
+      "english": "She has no feelings towards this movie."
     },
     {
-      "chinese": "书中描写了作者内心的情(書中描寫了作者內心的情)，令人感动(令人感動)。",
-      "pinyin": "Shū zhōng miáoxiě le zuòzhě nèixīn de qíng, lìng rén gǎndòng.",
-      "english": "The book describes the author's inner emotions, which touched people deeply."
+      "chinese": "在写信时(在寫信時)，表达自己的情感很重要(表達自己的情感很重要)。",
+      "pinyin": "Zài xiě xìn shí, biǎodá zìjǐ de qínggǎn hěn zhòngyào.",
+      "english": "When writing a letter, it's important to express one's emotions."
     }
   ]
 }

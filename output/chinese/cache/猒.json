@@ -2,11 +2,11 @@
   "simplified": "猒",
   "traditional": "猒",
   "pinyin": "yàn",
-  "english": "phonetic element",
+  "english": "satisfied, weary",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "犬(犬) (quǎn, \"dog\") + 口(口) (kǒu, \"mouth\") + ⺼(⺼) (ròu, \"meat\") -> dog eating meat with mouth -> satisfaction",
-    "interpretation": "The character 猒(yàn) originally depicted a dog eating meat with its mouth, conveying the idea of being satisfied. Over time, the component for mouth transformed into 甘(gān, \"sweet\") and later into 日(rì, \"sun\") in the modern form.",
+    "description": "犬 (dog) + 口 (mouth, corrupted to 甘 and later 日) + ⺼ (meat) -> a dog eating meat -> satisfied",
+    "interpretation": "The character 猒 originally depicted a dog 犬 (quǎn, 'dog') eating from a mouth 口 (kǒu, 'mouth') filled with meat ⺼ (ròu, 'meat'), illustrating a state of being 'satisfied' after consuming a meal. Over time, the component 口 transformed into 甘 (gān, 'sweet') and then 日 (rì, 'sun'), keeping the basic imagery of fulfillment or satisfaction intact. This concept also extends to a feeling of weariness that often follows complete satisfaction.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,16 @@
       "english": "dog"
     },
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
     },
     {
       "char": "⺼",

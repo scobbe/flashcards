@@ -1,0 +1,28 @@
+{
+  "simplified": "冏",
+  "traditional": "冏",
+  "pinyin": "jiǒng",
+  "english": "an ancient phonetic component",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Hut (stylized as 穴) + mouth 口 = window opening",
+    "interpretation": "The character 冏 (jiǒng) originally depicted a structure resembling a hut with an opening. This design, where the hut is stylized as 穴 (xuè, \"cave\") and the central 口 (kǒu, \"mouth\") suggests an opening, led to the concept of a window or ventilation. Historically, its usage broadened to serve as a phonetic component in other characters.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "穴",
+      "trad": "穴",
+      "pinyin": "xuè",
+      "english": "cave"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

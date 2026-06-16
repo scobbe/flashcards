@@ -5,9 +5,9 @@
   "english": "vines; fraxinus; radish",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 罗(羅) (luó) = type of plant -> vines; radish",
-    "interpretation": "The character 萝(蘿) (luó, \"vines; radish\") integrates the 艹(艹) (cǎo, \"grass\") radical to signify its relation to plants, while 罗(羅) (luó, \"net\") provides the phonetic component. Together, they convey the meaning of plant-related entities such as vines or radish.",
-    "simplification": "Simplified by replacing the traditional component 羅(羅) (luó, \"net\") with 罗(羅), maintaining its pronunciation while reducing the complexity of writing."
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 羅(羅) (luó) -> vines or creeping plants",
+    "interpretation": "The semantic component 艹(艹) (cǎo, \"grass\") indicates the plant or botanical aspect, while the phonetic component 羅(羅) (luó) provides the pronunciation. This combination suggests a connection to creeping plants such as vines, emphasizing their vegetation nature.",
+    "simplification": "Simplified 蘿(羅) (luó, \"vines\") to 萝 by retaining 艹 while simplifying 羅 to 罗 for reduced complexity."
   },
   "parts": [
     {
@@ -17,7 +17,7 @@
       "english": "grass"
     },
     {
-      "char": "罗",
+      "char": "羅",
       "trad": "羅",
       "pinyin": "luó",
       "english": "net"
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春天来临时(春天來臨時)，菜园里的萝开始发芽(菜園裏的蘿開始發芽)。",
-      "pinyin": "Chūntiān láilín shí, càiyuán lǐ de luó kāishǐ fāyá.",
-      "english": "When spring arrives, the radish in the garden begins to sprout."
+      "chinese": "这道菜需要一些白萝卜(這道菜需要一些白蘿蔔)。",
+      "pinyin": "Zhè dào cài xūyào yīxiē bái luóbo.",
+      "english": "This dish needs some white radishes."
     },
     {
-      "chinese": "月光下的萝(蘿)，闪着微光(閃著微光)。",
-      "pinyin": "Yuèguāng xià de luó, shǎn zhe wēiguāng.",
-      "english": "Under the moonlight, the vine glimmers with a faint light."
+      "chinese": "花园里长满了藤萝(花園裡長滿了藤蘿)，它们的气味很香(它們的氣味很香)。",
+      "pinyin": "Huāyuán lǐ zhǎng mǎn le téng luó, tāmen de qìwèi hěn xiāng.",
+      "english": "The garden is full of vines, and they smell very fragrant."
+    },
+    {
+      "chinese": "炒萝卜丝是一道典型的家常菜(炒蘿蔔絲是一道典型的家常菜)。",
+      "pinyin": "Chǎo luóbo sī shì yī dào diǎnxíng de jiācháng cài.",
+      "english": "Stir-fried radish strips is a typical home-cooked dish."
     }
   ]
 }

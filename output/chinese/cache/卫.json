@@ -5,16 +5,16 @@
   "english": "guard; protect; defend",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "行(行) (xíng, 'go') + 韋(韋) (wéi, 'tanned leather') = to guard or defend as if walking to protect -> replacement by visually similar katakana ヱ",
-    "interpretation": "The simplified form 卫 replaces the traditional character 衛 by using a visual analogy with the Japanese katakana ヱ, streamlining its components while preserving the original semantic layer of 'guarding' or 'protecting' implied by the notion of walking as protection.",
-    "simplification": "卫 simplifies 衛 through visual analogy with ヱ and cursive simplification, capturing key phonetic elements while omitting or altering strokes for brevity."
+    "description": "semantic 行(行) (xíng, 'walk') + phonetic 韋(韋) (wéi, 'tanned leather') -> guard; protect; defend",
+    "interpretation": "The character 衛(衛) (wèi, 'guard; protect; defend') combines the semantic element 行(行) (xíng, 'walk'), which suggests movement or patrolling, with the phonetic component 韋(韋) (wéi, 'tanned leather'), which provides the pronunciation. The imagery of a person moving while wearing protective leather gear conveys the sense of guarding or defending an area.",
+    "simplification": "The traditional form 衛 was simplified to 卫 by reducing it to a minimal structure that phonetically resembles the compound it was simplified from. The complex parts were replaced by a form influenced by certain katakana elements (as in Japanese writing), a process unrelated to preserving meaning but retaining phonetic recognition."
   },
   "parts": [
     {
       "char": "行",
       "trad": "行",
       "pinyin": "xíng",
-      "english": "go"
+      "english": "walk"
     },
     {
       "char": "韋",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "卫兵巡逻边境(衛兵巡邏邊境)。",
-      "pinyin": "Wèi bīng xúnluó biānjìng.",
-      "english": "The guards patrol the border."
+      "chinese": "保安在大楼门口守卫(保安在大樓門口守衛)。",
+      "pinyin": "Bǎo'ān zài dàlóu ménkǒu shǒuwèi.",
+      "english": "The security guard is stationed at the entrance of the building."
     },
     {
-      "chinese": "他肩负卫国责任(他肩負衛國責任)，誓言守护家园(誓言守護家園)。",
-      "pinyin": "Tā jiānfù wèi guó zérèn, shìyán shǒuhù jiāyuán.",
-      "english": "He carries the responsibility to defend the nation and vows to protect his homeland."
+      "chinese": "小王负责卫士的工作(小王負責衛士的工作)。",
+      "pinyin": "Xiǎo Wáng fùzé wèishì de gōngzuò.",
+      "english": "Xiao Wang is responsible for the work of the guard."
     },
     {
-      "chinese": "警卫密切监察入口(警衛密切監察入口)。",
-      "pinyin": "Jǐngwèi mìqiè jiānchá rùkǒu.",
-      "english": "The guards closely monitor the entrance."
+      "chinese": "我们要卫国(我們要衛國)，保家(保家)。",
+      "pinyin": "Wǒmen yào wèi guó, bǎo jiā.",
+      "english": "We need to defend the country and protect the home."
     }
   ]
 }

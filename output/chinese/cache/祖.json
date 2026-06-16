@@ -1,0 +1,39 @@
+{
+  "simplified": "祖",
+  "traditional": "祖",
+  "pinyin": "zǔ",
+  "english": "ancestor",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 示(示) (shì, \"to show; indicate\") + phonetic 且(且) (qiě) -> ancestor",
+    "interpretation": "The component 示(示) (shì, \"to show; indicate\") is related to rituals and offering to ancestors, symbolizing the spiritual connection to them. The phonetic component 且(且) (qiě) contributes the sound and also hints at the idea of continuation through generations, aligning with the concept of 'ancestor' as a source from which things originate.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "to show; indicate"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "moreover; furthermore"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们的祖先在这里生活了很多年(我們的祖先在這裡生活了很多年)。",
+      "pinyin": "Wǒmen de zǔxiān zài zhèlǐ shēnghuóle hěn duō nián.",
+      "english": "Our ancestors lived here for many years."
+    },
+    {
+      "chinese": "过年的时候(過年的時候)，我们会祭拜祖先(我們會祭拜祖先)。",
+      "pinyin": "Guònián de shíhòu, wǒmen huì jì bài zǔxiān.",
+      "english": "During the New Year, we will pay homage to our ancestors."
+    }
+  ]
+}

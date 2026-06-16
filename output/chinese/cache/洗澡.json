@@ -5,8 +5,8 @@
   "english": "have a bath",
   "etymology": {
     "type": "compound word",
-    "description": "洗(洗) (xǐ, \"wash\") and 澡(澡) (zǎo, \"bathe\") combine to form a word meaning to take a bath or wash oneself. 洗(洗) (xǐ, \"wash\") indicates the act of cleaning, while 澡(澡) (zǎo, \"bathe\") specifically refers to the act of bathing. Together, they create a term for the complete process of cleansing the body through bathing.",
-    "interpretation": "洗(洗) (xǐ, \"wash\") and 澡(澡) (zǎo, \"bathe\") together describe the action of washing oneself in water, indicating the practice of personal hygiene.",
+    "description": "洗(洗) (xǐ, \"wash\") refers to the act of cleansing, typically involving water. 澡(澡) (zǎo, \"bath\") indicates a soaking process to cleanse the body. The combination implies the action of having a bath or a thorough wash.",
+    "interpretation": "洗(洗) (xǐ, \"wash\") involves the action of cleansing by scrubbing or rinsing. 澡(澡) (zǎo, \"bath\") suggests the traditional method of immersing oneself in water for purification or relaxation. Together, 洗澡 (xǐzǎo, \"have a bath\") conveys the act of immersing in water and washing away dirt, thereby achieving cleanliness.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "洗",
       "trad": "洗",
       "pinyin": "xǐ",
-      "english": "wash; cleanse; clean"
+      "english": "wash"
     },
     {
       "char": "澡",
       "trad": "澡",
       "pinyin": "zǎo",
-      "english": "bathe; bath; wash"
+      "english": "bath"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她每天洗澡(她每天洗澡)。",
-      "pinyin": "Tā měitiān xǐzǎo.",
-      "english": "She has a bath every day."
+      "chinese": "我每天睡觉之前都会洗澡(我每天睡覺之前都會洗澡)。",
+      "pinyin": "Wǒ měitiān shuìjiào zhīqián dōu huì xǐzǎo.",
+      "english": "I have a bath every day before going to bed."
     },
     {
-      "chinese": "我想在晚饭后洗澡(我想在晚飯後洗澡)。",
-      "pinyin": "Wǒ xiǎng zài wǎnfàn hòu xǐzǎo.",
-      "english": "I want to have a bath after dinner."
+      "chinese": "他在运动后马上去洗澡(他在運動後馬上去洗澡)。",
+      "pinyin": "Tā zài yùndòng hòu mǎshàng qù xǐzǎo.",
+      "english": "He goes to have a bath immediately after exercising."
     },
     {
-      "chinese": "孩子不愿意洗澡(孩子不願意洗澡)，总是找借口(總是找藉口)。",
-      "pinyin": "Háizi bù yuànyì xǐzǎo, zǒng shì zhǎo jièkǒu.",
-      "english": "The child doesn't want to have a bath and always makes excuses."
+      "chinese": "小王喜欢用热水洗澡(小王喜歡用熱水洗澡)。",
+      "pinyin": "Xiǎo Wáng xǐhuān yòng rèshuǐ xǐzǎo.",
+      "english": "Xiao Wang likes to have a bath with hot water."
     }
   ]
 }

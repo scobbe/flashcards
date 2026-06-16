@@ -1,0 +1,44 @@
+{
+  "simplified": "聖",
+  "traditional": "聖",
+  "pinyin": "shèng",
+  "english": "saint",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 耳(耳) (ěr, \"ear\") + phonetic 呈(呈) (chéng) -> saint",
+    "interpretation": "The semantic component 耳(耳) (ěr, \"ear\") suggests listening or heeding, which is an important quality of a wise or 'sacred' person, while the phonetic 呈(呈) (chéng) provides the sound. This combination reflects the notion of someone who listens and communicates divine wisdom or guidance, thus leading to the meaning 'saint.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "耳",
+      "trad": "耳",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "char": "呈",
+      "trad": "呈",
+      "pinyin": "chéng",
+      "english": "present"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他被称为圣人(他被稱為聖人)。",
+      "pinyin": "Tā bèi chēngwéi shèngrén.",
+      "english": "He is called a saint."
+    },
+    {
+      "chinese": "那座经典的教堂是为一位圣人而建(那座經典的教堂是為一位聖人而建)。",
+      "pinyin": "Nà zuò jīngdiǎn de jiàotáng shì wèi yī wèi shèngrén ér jiàn.",
+      "english": "That classic church was built in honor of a saint."
+    },
+    {
+      "chinese": "她在许多人的心中是个无私的圣者(她在許多人的心中是個無私的聖者)。",
+      "pinyin": "Tā zài xǔduō rén de xīnzhōng shì gè wúsī de shèngzhě.",
+      "english": "In many people's hearts, she is a selfless saint."
+    }
+  ]
+}

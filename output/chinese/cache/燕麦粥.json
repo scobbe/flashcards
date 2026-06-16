@@ -5,8 +5,8 @@
   "english": "oatmeal porridge",
   "etymology": {
     "type": "compound word",
-    "description": "燕麦(燕麥) (yànmài, \"oats\") + 粥(粥) (zhōu, \"porridge\")",
-    "interpretation": "燕麦(燕麥) (yànmài, \"oats\") combined with 粥(粥) (zhōu, \"porridge\") indicates a type of porridge made primarily from oats, which is widely recognized as oatmeal porridge.",
+    "description": "燕(燕) (yàn, \"swallow\" [the bird]) is a sound-loan here, borrowed only for its sound, not its meaning. 麥(麥) (mài, \"wheat\") represents grains in general. 粥(粥) (zhōu, \"porridge\") comes from the concept of grain boiled into a soft, consumable form.\"",
+    "interpretation": "燕(燕) (yàn, \"swallow\" [the bird]) was borrowed for its phonetic value and reflects no semantic contribution to the meaning. 麥(麥) (mài, \"wheat\") signifies cereal grains. Together, 燕麦(燕麥) (yànmài, \"oats\") designates a specific type of cereal grain, differentiated from wheat (麦). 粥(粥) (zhōu, \"porridge\") refers to the preparation method of grains being cooked into a thick, soft dish suitable for eating. Thus, 燕麦粥(燕麥粥) (yànmàizhōu, \"oatmeal porridge\") logically denotes a porridge made from oats, emphasizing the grain used and its transformation into a consumable form.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢燕麦粥(我喜歡燕麥粥)。",
-      "pinyin": "Wǒ xǐhuān yànmàizhōu.",
-      "english": "I like oatmeal porridge."
+      "chinese": "我每天早餐都吃燕麦粥(我每天早餐都吃燕麥粥)。",
+      "pinyin": "Wǒ měitiān zǎocān dōu chī yànmàizhōu.",
+      "english": "I eat oatmeal porridge for breakfast every day."
     },
     {
-      "chinese": "每天早餐时(每天早餐時)，我都会煮燕麦粥(我都會煮燕麥粥)。",
-      "pinyin": "Měitiān zǎocān shí, wǒ dōuhuì zhǔ yànmàizhōu.",
-      "english": "Every morning at breakfast, I always cook oatmeal porridge."
+      "chinese": "燕麦粥对健康有益(燕麥粥對健康有益)。",
+      "pinyin": "Yànmàizhōu duì jiànkāng yǒuyì.",
+      "english": "Oatmeal porridge is beneficial to health."
     },
     {
-      "chinese": "冬天来临时(冬天來臨時)，热燕麦粥能驱走寒冷(熱燕麥粥能驅走寒冷)。",
-      "pinyin": "Dōngtiān láilín shí, rè yànmàizhōu néng qūzǒu hánlěng.",
-      "english": "When winter comes, hot oatmeal porridge can drive away the cold."
+      "chinese": "她在炉子上煮了一锅燕麦粥(她在爐子上煮了一鍋燕麥粥)。",
+      "pinyin": "Tā zài lúzi shàng zhǔ le yī guō yànmàizhōu.",
+      "english": "She cooked a pot of oatmeal porridge on the stove."
     }
   ]
 }

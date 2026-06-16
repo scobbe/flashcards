@@ -1,0 +1,28 @@
+{
+  "simplified": "𠫓",
+  "traditional": "𠫓",
+  "pinyin": "newborn",
+  "english": "newborn",
+  "etymology": {
+    "type": "pictogram",
+    "description": "母(母) (mǔ, \"woman\") + 子(子) (zǐ, \"child\") = a woman giving birth to a child -> original form of 育(育)",
+    "interpretation": "The pictogram represents the concept of giving birth, with 母(母) symbolizing the mother and 子(子) the child, depicting the act of a woman giving birth. This directly leads to the meanings associated with birth and care of offspring.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "母",
+      "trad": "母",
+      "pinyin": "mǔ",
+      "english": "woman"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

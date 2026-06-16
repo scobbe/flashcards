@@ -5,8 +5,8 @@
   "english": "blessing; good fortune",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 示(示) (shì, \"to show/divine\") + phonetic 畐(畐) (fú, \"abundance\") = divine abundance -> blessing; good fortune",
-    "interpretation": "福(fú, \"blessing\") combines 示(shì, \"to show/divine\"), suggesting a spiritual or ritual aspect, with 畐(fú, \"abundance\"), providing the sound and conveying the idea of plentifulness. Together, it represents the concept of blessings or good fortune, which are often associated with divine favor.",
+    "description": "semantic 示(示) (shì, \"altar; spirit\") + phonetic 畐(畐) (fú) -> blessing; good fortune",
+    "interpretation": "The character combines the element 示(示) (shì, \"altar; spirit\"), which signifies an offering made in the hopes of receiving blessings or spiritual intervention, with 畐(畐) (fú), which contributes the sound. This merging of the semantic and phonetic elements suggests the concept of receiving blessings or fortune through spiritual or ritual intervention.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "示",
       "trad": "示",
       "pinyin": "shì",
-      "english": "to show/divine"
+      "english": "altar; spirit"
     },
     {
       "char": "畐",
       "trad": "畐",
       "pinyin": "fú",
-      "english": "abundance"
+      "english": "full"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "新春到来时(新春到來時)，家家户户张贴福字(家家戶戶張貼福字)。",
-      "pinyin": "Xīnchūn dào lái shí，jiājiā hùhù zhāngtiē fúzì。",
-      "english": "When spring arrives, every household puts up the character for blessing."
+      "chinese": "每个人都希望新年到来时可以得到更多的福(每個人都希望新年到來時可以得到更多的福)。",
+      "pinyin": "Měi gè rén dōu xīwàng xīnnián dàolái shí kěyǐ dédào gèng duō de fú.",
+      "english": "Everyone hopes to receive more blessings in the new year."
     },
     {
-      "chinese": "他相信福会照亮人生(他相信福會照亮人生)。",
-      "pinyin": "Tā xiāngxìn fú huì zhàoliàng rénshēng。",
-      "english": "He believes that blessings will illuminate his life."
+      "chinese": "挂春联是为家庭带来福的传统(掛春聯是為家庭帶來福的傳統)。",
+      "pinyin": "Guà chūnlián shì wèi jiātíng dàilái fú de chuántǒng.",
+      "english": "Hanging spring couplets is a tradition to bring blessings to the family."
     },
     {
-      "chinese": "满怀福意迎接未来(滿懷福意迎接未來)。",
-      "pinyin": "Mǎn huái fú yì yíngjiē wèilái。",
-      "english": "Embracing blessings, they welcome the future."
+      "chinese": "他相信每天做好事可以积累福(他相信每天做好事可以積累福)。",
+      "pinyin": "Tā xiāngxìn měitiān zuò hǎoshì kěyǐ jīlěi fú.",
+      "english": "He believes that doing good deeds every day can accumulate blessings."
     }
   ]
 }

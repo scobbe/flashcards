@@ -1,0 +1,44 @@
+{
+  "simplified": "芒",
+  "traditional": "芒",
+  "pinyin": "máng",
+  "english": "edge of a knife",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 亡(亡) (wáng) -> edge of a knife",
+    "interpretation": "The character 芒(máng, \"edge of a knife\") uses the 艹(艹) (cǎo, \"grass\") component to highlight its relation to plant life or natural elements, while 亡(亡) (wáng) provides the phonetic indication. Originally it may have depicted something like 方 but evolved to illustrate the thinness or sharpness of grass edges, metaphorically linking to the sharp edge of a knife.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "to flee"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "刀的芒在阳光下闪闪发光(刀的芒在陽光下閃閃發光)。",
+      "pinyin": "Dāo de máng zài yángguāng xià shǎnshǎn fāguāng.",
+      "english": "The edge of the knife glistens in the sunlight."
+    },
+    {
+      "chinese": "我们要小心刀的芒(我們要小心刀的芒)，因为它非常锋利(因為它非常鋒利)。",
+      "pinyin": "Wǒmen yào xiǎoxīn dāo de máng, yīnwèi tā fēicháng fēnglì.",
+      "english": "We must be careful of the knife's edge because it is very sharp."
+    },
+    {
+      "chinese": "他用手指轻轻触摸刀的芒(他用手指輕輕觸摸刀的芒)，感受到它的锋利(感受到它的鋒利)。",
+      "pinyin": "Tā yòng shǒuzhǐ qīngqīng chùmō dāo de máng, gǎnshòudào tā de fēnglì.",
+      "english": "He gently touched the blade's edge with his finger and felt its sharpness."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "hat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "冒(冒) (mào, \"risk\") as phonetic -> 冃(冃) (mào, \"hat\") as original form -> later added 目(目) (mù, \"eye\") for semantic connection to look/appearance + 巾(巾) (jīn, \"cloth\") = cloth covering",
-    "interpretation": "The character 帽(mào, \"hat\") combines 巾(巾) (jīn, \"cloth\") for its fabric aspect with the phonetic 冒(冒) (mào, \"risk\") to convey a sound. The original form 冃(冃) was adapted to include 目(目) (mù, \"eye\") and 巾(巾) (jīn, \"cloth\") to emphasize its use as a wearable item that covers the head.",
+    "description": "冃 ('covering') -> phonetic 冒 + semantic 巾 ('cloth') added -> 帽",
+    "interpretation": "The character 帽 originally depicted a covering with the element 冃. By adding 冒 (mào), the phonetic element, and 巾 (jīn, 'cloth'), the semantic component, it specified something that covers the head made of cloth, which logically leads to the meaning 'hat'.",
     "simplification": ""
   },
   "parts": [
@@ -14,43 +14,37 @@
       "char": "冒",
       "trad": "冒",
       "pinyin": "mào",
-      "english": "risk"
-    },
-    {
-      "char": "冃",
-      "trad": "冃",
-      "pinyin": "mào",
-      "english": "hat"
-    },
-    {
-      "char": "目",
-      "trad": "目",
-      "pinyin": "mù",
-      "english": "eye"
+      "english": "to risk; to face"
     },
     {
       "char": "巾",
       "trad": "巾",
       "pinyin": "jīn",
       "english": "cloth"
+    },
+    {
+      "char": "冃",
+      "trad": "冃",
+      "pinyin": "mào",
+      "english": "covering"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夏天时(夏天時)，我总喜欢戴帽(我總喜歡戴帽)。",
-      "pinyin": "Xiàtiān shí, wǒ zǒng xǐhuān dài mào.",
-      "english": "During summer, I always like to wear a hat."
+      "chinese": "他戴了一顶红色的帽子(他戴了一頂紅色的帽子)。",
+      "pinyin": "Tā dài le yī dǐng hóngsè de màozi.",
+      "english": "He wore a red hat."
     },
     {
-      "chinese": "他用布做了新帽(他用布做了新帽)。",
-      "pinyin": "Tā yòng bù zuòle xīn mào.",
-      "english": "He made a new hat out of cloth."
+      "chinese": "这顶帽子是我去年买的(這頂帽子是我去年買的)。",
+      "pinyin": "Zhè dǐng màozi shì wǒ qùnián mǎi de.",
+      "english": "This hat is the one I bought last year."
     },
     {
-      "chinese": "下雨天时(下雨天時)，我忘记带帽(我忘記帶帽)。",
-      "pinyin": "Xiàyǔ tiān shí, wǒ wàngjì dài mào.",
-      "english": "On rainy days, I forget to bring my hat."
+      "chinese": "她在商店看见了一顶漂亮的帽子(她在商店看見了一頂漂亮的帽子)。",
+      "pinyin": "Tā zài shāngdiàn kànjiàn le yī dǐng piàoliang de màozi.",
+      "english": "She saw a beautiful hat at the store."
     }
   ]
 }

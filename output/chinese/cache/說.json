@@ -5,8 +5,8 @@
   "english": "speak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + 兌(兌) (duì) = combines speech element with phonetic cue -> \"speak\"",
-    "interpretation": "The character combines 言(言) (yán, \"speech\") for its semantic meaning related to communication, and 兌(兌) (duì) to provide the phonetic component. This combination effectively conveys the concept of speaking or talking.",
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 兌(兌) (duì, \"exchange\") -> meaning: speak",
+    "interpretation": "The character 說 (shuō, \"speak\") combines 言(言) (yán, \"speech\"), representing the act of speaking or expression, with 兌(兌) (duì, \"exchange\"), included for its phonetic contribution. As speaking often involves the exchange of words or ideas, this character effectively integrates both elements to signify the concept of talking or speaking.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "兌",
       "trad": "兌",
       "pinyin": "duì",
-      "english": ""
+      "english": "exchange"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他說(他說)，请你安静(請你安靜)。",
-      "pinyin": "Tā shuō, qǐng nǐ ānjìng.",
-      "english": "He said, please be quiet."
+      "chinese": "老师说我今天的表现很好(老師說我今天的表現很好)。",
+      "pinyin": "Lǎoshī shuō wǒ jīntiān de biǎoxiàn hěn hǎo.",
+      "english": "The teacher said my performance today was very good."
     },
     {
-      "chinese": "她說(她說)，成功属于努力的人(成功屬於努力的人)。",
-      "pinyin": "Tā shuō, chénggōng shǔyú nǔlì de rén.",
-      "english": "She said that success belongs to those who work hard."
+      "chinese": "他说他喜欢这本书(他說他喜歡這本書)。",
+      "pinyin": "Tā shuō tā xǐhuān zhè běn shū.",
+      "english": "He says he likes this book."
+    },
+    {
+      "chinese": "她总是说一些鼓励的话(她總是說一些鼓勵的話)，让我们感到温暖(讓我們感到溫暖)。",
+      "pinyin": "Tā zǒng shì shuō yīxiē gǔlì de huà, ràng wǒmen gǎndào wēnnuǎn.",
+      "english": "She always says encouraging words, making us feel warm."
     }
   ]
 }

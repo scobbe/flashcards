@@ -5,8 +5,8 @@
   "english": "first love",
   "etymology": {
     "type": "compound word",
-    "description": "初(初) (chū, \"initial; beginning\") + 恋(戀) (liàn, \"romance; love\") = initial stage of romance or first love",
-    "interpretation": "初戀(初戀) (chūliàn) signifies the beginning or first experience of romantic feelings, capturing the novelty and emotional intensity of a person's initial romantic relationship.",
+    "description": "初(初) (chū, \"beginning; first\") + 恋(戀) (liàn, \"love; long for\")",
+    "interpretation": "初(初) (chū, \"beginning; first\") indicates the earliest or first instance of something, establishing the context of 'firstness'. 恋(戀) (liàn, \"love; long for\") expresses the emotion of deep affection or desire. Together, 初戀 (chūliàn, \"first love\") suggests the initial experience of love or romantic feelings in a person's life.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "初",
       "trad": "初",
       "pinyin": "chū",
-      "english": "initial; beginning"
+      "english": "beginning; first"
     },
     {
       "char": "恋",
       "trad": "戀",
       "pinyin": "liàn",
-      "english": "romance; love"
+      "english": "love; long for"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的初恋是在高中时遇到的(我的初戀是在高中時遇到的)。",
-      "pinyin": "Wǒ de chūliàn shì zài gāozhōng shí yùdào de.",
-      "english": "My first love was met during high school."
+      "chinese": "他的初恋(他的初戀)是一位邻居家的女孩(是一位鄰居家的女孩)。",
+      "pinyin": "Tā de chūliàn shì yī wèi línjū jiā de nǚhái.",
+      "english": "His first love was a girl from the neighbor's house."
     },
     {
-      "chinese": "初恋的感觉是如此特别(初戀的感覺是如此特別)。",
-      "pinyin": "Chūliàn de gǎnjué shì rúcǐ tèbié.",
-      "english": "The feeling of first love is so special."
+      "chinese": "初恋的回忆(初戀的回憶)总是最甜美(總是最甜美)。",
+      "pinyin": "Chūliàn de huíyì zǒng shì zuì tiánměi.",
+      "english": "The memories of first love are always the sweetest."
     },
     {
-      "chinese": "他常常回忆起他的初恋(他常常回憶起他的初戀)，因为那是他最快乐的时光(因為那是他最快樂的時光)。",
-      "pinyin": "Tā chángcháng huíyì qǐ tā de chūliàn, yīnwèi nà shì tā zuì kuàilè de shíguāng.",
-      "english": "He often reminisces about his first love because it was his happiest time."
+      "chinese": "我在十五岁时(我在十五歲時)遇到我的初恋(遇到我的初戀)。",
+      "pinyin": "Wǒ zài shíwǔ suì shí yùdào wǒ de chūliàn.",
+      "english": "I met my first love when I was fifteen."
     }
   ]
 }

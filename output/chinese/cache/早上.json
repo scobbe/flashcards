@@ -5,8 +5,8 @@
   "english": "morning",
   "etymology": {
     "type": "compound word",
-    "description": "早(早) (zǎo, \"early\") + 上(上) (shàng, \"up; on\") together mean \"morning\". The idea is the early part of the day, when the sun is starting to rise, which corresponds with the concept of 'up' or 'on'.",
-    "interpretation": "早上(早上) (zǎoshang, \"morning\") reflects the time of day that comes early and signifies the beginning of daily activities when the sun is rising.",
+    "description": "早(早) (zǎo, \"early\") indicates the early part of the day, while 上(上) (shàng, \"above; upper; on top\") suggests the beginning or upper/first segment of the day. Together they indicate the 'morning', the early part that comes before the main part of the day.",
+    "interpretation": "早(早) (zǎo, \"early\") signifies the time when activities typically begin. As the sun rises from the horizon, it marks the transition from night to day. 上(上) (shàng, \"above; upper; on top\") conveys the upper half of the day after night, delineating the morning as the start or upper section of the daytime sequence.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "上",
       "trad": "上",
       "pinyin": "shàng",
-      "english": "up; on"
+      "english": "above; upper; on top"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "早上好(早上好)！",
-      "pinyin": "zǎoshang hǎo！",
-      "english": "Good morning!"
+      "chinese": "我每天早上(我每天早上)都去跑步(都去跑步)。",
+      "pinyin": "Wǒ měitiān zǎoshang dōu qù pǎobù.",
+      "english": "I go jogging every morning."
     },
     {
-      "chinese": "早上空气清新(早上空氣清新)，适合散步(適合散步)。",
-      "pinyin": "zǎoshang kōngqì qīngxīn, shìhé sànbù。",
-      "english": "The morning air is fresh, perfect for a walk."
+      "chinese": "早上(早上)的空气(的空氣)很清新(很清新)。",
+      "pinyin": "Zǎoshang de kōngqì hěn qīngxīn.",
+      "english": "The morning air is very fresh."
     },
     {
-      "chinese": "我早上醒来(我早上醒來)，看到窗外日出(看到窗外日出)。",
-      "pinyin": "wǒ zǎoshang xǐnglái, kàn dào chuāngwài rìchū。",
-      "english": "I wake up in the morning and see the sunrise outside the window."
+      "chinese": "我们计划在早上(我們計劃在早上)出发(出發)。",
+      "pinyin": "Wǒmen jìhuà zài zǎoshang chūfā.",
+      "english": "We plan to depart in the morning."
     }
   ]
 }

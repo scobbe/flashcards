@@ -5,8 +5,8 @@
   "english": "don't; don't want",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 要(要) (yào, \"want\") = expressing negation or a command to refrain from wanting or doing something.",
-    "interpretation": "The word 不要(不要) (bú yào, \"don't; don't want\") combines 不(不) (bù, \"not\") with 要(要) (yào, \"want\") to express a prohibition or a lack of desire for something. It is commonly used in giving commands or expressing that something is not needed or not wanted.",
+    "description": "不(不) (bù, \"not\") negates something, making it a negative command or statement. 要(要) (yào, \"want; need; want to\") expresses desire or requirement; thus, 不要(不要) combines to form 'do not want' or 'do not do so', commonly used for prohibition or refusal.",
+    "interpretation": "不(不) (bù, \"not\") negates the desire or action implied by 要(要) (yào, \"want; need\"), leading to a prohibition or refusal. The combination effectively forbids or denies interest or intent, resulting in meanings like 'don't do that' or 'don't want'.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "要",
       "trad": "要",
       "pinyin": "yào",
-      "english": "want; need; will; important"
+      "english": "want; need; will"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "不要浪费时间(不要浪費時間)。",
-      "pinyin": "bú yào làng fèi shí jiān.",
-      "english": "Don't waste time."
+      "chinese": "请不要打扰我(請不要打擾我)。",
+      "pinyin": "Qǐng bú yào dǎrǎo wǒ.",
+      "english": "Please don't disturb me."
     },
     {
-      "chinese": "我不要再说谎(我不要再說謊)，因为诚实才是最重要的(因為誠實才是最重要的)。",
-      "pinyin": "wǒ bú yào zài shuō huǎng, yīn wèi chéng shí cái shì zuì zhòng yào.",
-      "english": "I don't want to lie anymore, because honesty is the most important."
+      "chinese": "他不要吃饭(他不要吃飯)，因为他不饿(因為他不餓)。",
+      "pinyin": "Tā bú yào chīfàn, yīnwèi tā bù è.",
+      "english": "He doesn't want to eat because he's not hungry."
     },
     {
-      "chinese": "如果你说不要(如果你說不要)，就说明你已有主见(就說明你已有主見)。",
-      "pinyin": "rú guǒ nǐ shuō bú yào, jiù shuō míng nǐ yǐ yǒu zhǔ jiàn.",
-      "english": "If you say 'no', it shows that you already have your own opinions."
+      "chinese": "不要将事情复杂化(不要將事情複雜化)。",
+      "pinyin": "Bú yào jiāng shìqíng fùzáhuà.",
+      "english": "Don't complicate matters."
     }
   ]
 }

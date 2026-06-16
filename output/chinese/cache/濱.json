@@ -1,0 +1,44 @@
+{
+  "simplified": "濱",
+  "traditional": "濱",
+  "pinyin": "bīn",
+  "english": "shore; edge",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 賓(賓) (bīn) -> shore; edge",
+    "interpretation": "The semantic component 水(水) (shuǐ, \"water\") indicates a connection to water, suggesting proximity to bodies of water such as rivers or seas. The phonetic component 賓(賓) (bīn), which shares a similar pronunciation, provides the sound. Together, they create a character for 'shore' or 'edge', places typically bordering water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "賓",
+      "trad": "賓",
+      "pinyin": "bīn",
+      "english": "guest"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们在河滨散步(我們在河濱散步)。",
+      "pinyin": "Wǒmen zài hébīn sànbù.",
+      "english": "We stroll by the riverside."
+    },
+    {
+      "chinese": "湖滨长满了绿草(湖濱長滿了綠草)。",
+      "pinyin": "Húbīn zhǎng mǎn le lǜcǎo.",
+      "english": "The lakeshore is covered with green grass."
+    },
+    {
+      "chinese": "城市滨海区发展迅速(城市濱海區發展迅速)。",
+      "pinyin": "Chéngshì bīnhǎi qū fāzhǎn xùnsù.",
+      "english": "The city's coastal area is developing rapidly."
+    }
+  ]
+}

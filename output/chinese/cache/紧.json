@@ -5,9 +5,9 @@
   "english": "tight; strict; close; urgent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 臤(𰀡) (kān) -> tight",
-    "interpretation": "The character combines the semantic 糸(糸) (mì, \"silk; thread\") to denote the concept of tightness or tension, with the phonetic element 臤(𰀡) to suggest the pronunciation. The character evokes the idea of threads drawn tightly together, conveying both physical tightness and the notion of strictness or urgency in matters closely monitored or managed.",
-    "simplification": "Simplified by replacing 糸(糸) (mì, \"silk; thread\") with 纟, a more concise version of the silk radical."
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 臤(𰀡) (kān) -> tightness",
+    "interpretation": "The character 緊(緊) (jǐn, \"tight; strict; close; urgent\") combines the semantic 糸(糸) (mì, \"silk; thread\") with the phonetic 臤(𰀡) (kān), conveying the concept of tightness as threads pulled taut are tight. This imagery naturally extends to strictness, closeness, and urgent situations, which all similarly require tension or pressure.",
+    "simplification": "Simplified from 緊 (緊) by replacing 臤 with 𰀡, maintaining the original sound while simplifying the component."
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "silk; thread"
     },
     {
-      "char": "𰀡",
-      "trad": "臤",
+      "char": "臤",
+      "trad": "𰀡",
       "pinyin": "kān",
-      "english": ""
+      "english": "an old form; phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她紧紧握住我的手(她緊緊握住我的手)。",
-      "pinyin": "Tā jǐn jǐn wòzhù wǒ de shǒu.",
-      "english": "She held my hand tightly."
+      "chinese": "他的鞋带太紧(他的鞋帶太緊)。",
+      "pinyin": "Tā de xiédài tài jǐn.",
+      "english": "His shoelaces are too tight."
     },
     {
-      "chinese": "考试的时间很紧(考試的時間很緊)，我们必须抓紧时间(我們必須抓緊時間)。",
-      "pinyin": "Kǎoshì de shíjiān hěn jǐn, wǒmen bìxū zhuājǐn shíjiān.",
-      "english": "The exam time is tight, we must make the most of our time."
+      "chinese": "老板对项目的期限要求很紧(老闆對項目的期限要求很緊)。",
+      "pinyin": "Lǎobǎn duì xiàngmù de qīxiàn yāoqiú hěn jǐn.",
+      "english": "The boss is very strict with the project deadlines."
     },
     {
-      "chinese": "这条裙子有点紧(這條裙子有點緊)，你要不要换一件(你要不要換一件)？",
-      "pinyin": "Zhè tiáo qúnzi yǒudiǎn jǐn, nǐ yào bù yào huàn yī jiàn?",
-      "english": "This dress is a bit tight, do you want to change it?"
+      "chinese": "我们之间的关系很紧(我們之間的關係很緊)。",
+      "pinyin": "Wǒmen zhījiān de guānxì hěn jǐn.",
+      "english": "Our relationship is very close."
     }
   ]
 }

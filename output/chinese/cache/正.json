@@ -4,9 +4,9 @@
   "pinyin": "zhèng",
   "english": "upright; correct; straight; proper",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "phonetic 丁(丁) (dīng, \"fourth heavenly stem\") + semantic 止(止) (zhǐ, \"foot\") -> original 'to go on a long journey' -> 丁 simplified into a horizontal stroke -> modern form represents 'upright; correct; straight; proper'",
-    "interpretation": "The character originally suggested movement, fitting its early meaning of long journeys. 丁(丁) (dīng) as the phonetic component changed over time but helped indicate pronunciation. The modern form has evolved to emphasize the concept of straightforwardness and correctness.",
+    "type": "phono-semantic compound",
+    "description": "phonetic 丁 (sound) + semantic 止 ('foot') -> to go on a long journey -> 丁 simplified into a horizontal stroke -> current form 'upright'",
+    "interpretation": "Begins with the idea of a journey, suggesting something linear or directional, which transforms into being 'straight' or 'correct'. The horizontal stroke represents precision, aligning with the sense of correctness.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "丁",
       "trad": "丁",
       "pinyin": "dīng",
-      "english": "fourth heavenly stem"
+      "english": "sound"
     },
     {
       "char": "止",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他站得正(他站得正)。",
-      "pinyin": "Tā zhàn de zhèng.",
-      "english": "He stands upright."
+      "chinese": "他做事非常正直(他做事非常正直)。",
+      "pinyin": "Tā zuòshì fēicháng zhèngzhí.",
+      "english": "He is very upright in his actions."
     },
     {
-      "chinese": "请把书放正(請把書放正)，不要歪着(不要歪著)。",
-      "pinyin": "Qǐng bǎ shū fàng zhèng, bù yào wāi zhe.",
-      "english": "Please place the book properly; don't let it tilt."
+      "chinese": "这个答案是正确的(這個答案是正確的)。",
+      "pinyin": "Zhège dá'àn shì zhèngquè de.",
+      "english": "This answer is correct."
+    },
+    {
+      "chinese": "要保持身体正直(要保持身體正直)，对健康有好处(對健康有好處)。",
+      "pinyin": "Yào bǎochí shēntǐ zhèngzhí, duì jiànkāng yǒu hǎochù.",
+      "english": "Keeping the body straight is good for health."
     }
   ]
 }

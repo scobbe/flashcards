@@ -5,8 +5,8 @@
   "english": "reply",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, \"grass; plant\") + 合(合) (hé, \"combine\") = plant-related action with phonetic 合 (hé)",
-    "interpretation": "The character 荅(dá, \"reply\") uses 艸(艸) (cǎo, \"grass; plant\") to indicate a broad category of plant-related words, while 合(合) (hé, \"combine\") provides the phonetic element. This suggests an action related to plants or growth, metaphorically extended to the notion of a 'reply,' akin to the unfolding or coming together of information.",
+    "description": "semantic 艸(艸) (cǎo, \"grass; plant\") + phonetic 合(合) (hé, \"to combine\") -> reply",
+    "interpretation": "The character 荅(dá, \"reply\") uses 艸 to signify plants, reflecting growth or interaction, combined with 合 as a phonetic component to provide the sound \"dá.\" The notion of replying is metaphorically linked to growth and interaction, as in a back-and-forth exchange.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "合",
       "trad": "合",
       "pinyin": "hé",
-      "english": "combine"
+      "english": "to combine"
     }
   ],
   "in_contemporary_usage": false,

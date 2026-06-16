@@ -5,17 +5,11 @@
   "english": "wild goose",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 厂(厂) (chǎng, \"cliff\") + Semantic: 人(人) (rén, \"person\") + Semantic: 隹(隹) (zhuī, \"short-tailed bird\") = combination of elements suggesting sound and meaning of 'wild goose'",
-    "interpretation": "The character 雁(yàn, 'wild goose') uses 厂(厂) (chǎng) as a phonetic component, suggesting sounds related to it, while 人(人) (rén) and 隹(隹) (zhuī) semantically strengthen the imagery of a bird in a natural setting, depicting a wild goose.",
+    "description": "semantic 人(人) (rén, \"person\") + semantic 隹(隹) (zhuī, \"short-tailed bird\") + phonetic 厂(厂) (chǎng) -> wild goose",
+    "interpretation": "The character 雁 (yàn, \"wild goose\") combines 厂(厂) for its phonetic contribution with 隹(隹) representing a bird, and 人(人) implying the presence or movement, which altogether describe a wild goose, a common bird observed flying in formation, often resembling human-like characteristics of social order.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "厂",
-      "trad": "厂",
-      "pinyin": "chǎng",
-      "english": "cliff"
-    },
     {
       "char": "人",
       "trad": "人",
@@ -27,19 +21,30 @@
       "trad": "隹",
       "pinyin": "zhuī",
       "english": "short-tailed bird"
+    },
+    {
+      "char": "厂",
+      "trad": "厂",
+      "pinyin": "chǎng",
+      "english": "cliff"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋风送爽(秋風送爽)，大雁南飞(大雁南飛)。",
-      "pinyin": "qiū fēng sòng shuǎng, dà yàn nán fēi.",
-      "english": "When the autumn breeze blows, wild geese fly south."
+      "chinese": "大雁在天空中飞翔(大雁在天空中飛翔)。",
+      "pinyin": "Dàyàn zài tiānkōng zhōng fēixiáng.",
+      "english": "The wild geese are flying in the sky."
     },
     {
-      "chinese": "夜色降临(夜色降臨)，孤雁远鸣(孤雁遠鳴)。",
-      "pinyin": "yè sè jiàng lín, gū yàn yuǎn míng.",
-      "english": "As night falls, a lone wild goose cries in the distance."
+      "chinese": "每年秋天(每年秋天)，雁群会南迁(雁群會南遷)。",
+      "pinyin": "Měinián qiūtiān, yànqún huì nánqiān.",
+      "english": "Every autumn, the flocks of wild geese migrate south."
+    },
+    {
+      "chinese": "古诗中常描写雁的旅程(古詩中常描寫雁的旅程)。",
+      "pinyin": "Gǔshī zhōng cháng miáoxiě yàn de lǚchéng.",
+      "english": "Ancient poems often depict the journey of wild geese."
     }
   ]
 }

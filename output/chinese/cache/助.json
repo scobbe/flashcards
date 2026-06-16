@@ -5,8 +5,8 @@
   "english": "aid; assist; help; support",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "力(力) (lì, \"strength\") + 且(且) (qiě) = providing strength -> aid or assist",
-    "interpretation": "The character 助 combines 力(力) (lì, \"strength\") as the semantic component, conveying the idea of providing support or assistance, and 且(且) (qiě) as the phonetic component. This combination emphasizes offering strength or help to someone.",
+    "description": "semantic 力 (力) (lì, \"strong arm\") + phonetic 且 (且) (qiě) -> to help with one’s strength",
+    "interpretation": "The character 助 (zhù, \"aid\") combines 力 (力) (lì, \"strong arm\") as the semantic element, suggesting the use of strength, with 且 (且) (qiě) as the phonetic element providing the sound. The concept links physical strength to the act of assisting, thus forming the meaning of 'aid' or 'support.'",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "力",
       "trad": "力",
       "pinyin": "lì",
-      "english": "strength"
+      "english": "strong arm"
     },
     {
       "char": "且",
       "trad": "且",
       "pinyin": "qiě",
-      "english": ""
+      "english": "moreover"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她在危急时刻助我一臂之力(她在危急時刻助我一臂之力)。",
-      "pinyin": "Tā zài wēijí shíkè zhù wǒ yī bì zhī lì.",
-      "english": "She lent me a crucial helping hand in a moment of crisis."
+      "chinese": "他总是乐于助人(他總是樂於助人)。",
+      "pinyin": "Tā zǒng shì lè yú zhù rén.",
+      "english": "He is always willing to help others."
     },
     {
-      "chinese": "朋友常在困难时助我(朋友常在困難時助我)，给予支持(給予支持)。",
-      "pinyin": "Péngyǒu cháng zài kùnnán shí zhù wǒ, jǐyǔ zhīchí.",
-      "english": "A friend helps me in times of difficulty and provides support."
+      "chinese": "需要帮助的时候(需要幫助的時候)，可以随时找我(可以隨時找我)。",
+      "pinyin": "Xūyào bāngzhù de shíhòu, kěyǐ suíshí zhǎo wǒ.",
+      "english": "When you need help, you can reach out to me anytime."
     },
     {
-      "chinese": "政府设立援助项目助弱(政府設立援助項目助弱)。",
-      "pinyin": "Zhèngfǔ shèlì yuánzhù xiàngmù zhù ruò.",
-      "english": "The government has established aid programs to help the vulnerable."
+      "chinese": "他的成功离不开家人的支持和帮助(他的成功離不開家人的支持和幫助)。",
+      "pinyin": "Tā de chénggōng lí bù kāi jiārén de zhīchí hé bāngzhù.",
+      "english": "His success is inseparable from the support and help of his family."
     }
   ]
 }

@@ -5,35 +5,52 @@
   "english": "telephone number",
   "etymology": {
     "type": "compound word",
-    "description": "電(電) (diàn, \"electricity\") + 話(話) (huà, \"speech\") forms 電話(電話) (diànhuà, \"telephone\"), which refers to the device for transmitting spoken communication through electric signals. 號(號) (hào, \"number\") + 碼(碼) (mǎ, \"code\") combine as 號碼(號碼) (hàomǎ, \"number\"), meaning a numerical identifier. Together, 電話(電話) (diànhuà, \"telephone\") + 號碼(號碼) (hàomǎ, \"number\") = 'telephone number'.",
-    "interpretation": "A 電話(電話) (diànhuà, \"telephone\") is used for communication, and its 號碼(號碼) (hàomǎ, \"number\") is the unique sequence that identifies a particular phone line for dialing.",
-    "simplification": "電話號碼 is the same in simplified."
+    "description": "電(電) (diàn, \"electric\") + 話(話) (huà, \"speech\") form 'telephone'; 號(號) (hào, \"number\") + 碼(碼) (mǎ, \"code\") form 'number'. A 電話(電話) (diànhuà, \"telephone\") lets speech travel via electricity. A 號碼(號碼) (hàomǎ, \"number\") is given to connect calls.",
+    "interpretation": "電(電) (diàn, \"electric\") + 話(話) (huà, \"speech\"): talking through electricity makes long-distance communication possible, thus 'telephone'. 號(號) (hào, \"number\") + 碼(碼) (mǎ, \"code\"): a precise digit sequence or 'code' is necessary for dialing, hence 'number' in phone contexts.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "电话",
-      "trad": "電話",
-      "pinyin": "diànhuà",
-      "english": "telephone; phone call"
+      "char": "電",
+      "trad": "電",
+      "pinyin": "diàn",
+      "english": "electric"
     },
     {
-      "char": "号码",
-      "trad": "號碼",
-      "pinyin": "hàomǎ",
-      "english": "number; code"
+      "char": "話",
+      "trad": "話",
+      "pinyin": "huà",
+      "english": "speech"
+    },
+    {
+      "char": "號",
+      "trad": "號",
+      "pinyin": "hào",
+      "english": "number"
+    },
+    {
+      "char": "碼",
+      "trad": "碼",
+      "pinyin": "mǎ",
+      "english": "code"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请给我你的电话号码(請給我你的電話號碼)。",
-      "pinyin": "Qǐng gěi wǒ nǐ de diànhuà hàomǎ.",
-      "english": "Please give me your telephone number."
+      "chinese": "你能给我你的电话号码吗(你能給我你的電話號碼嗎)？",
+      "pinyin": "Nǐ néng gěi wǒ nǐ de diànhuà hàomǎ ma?",
+      "english": "Can you give me your telephone number?"
     },
     {
-      "chinese": "我忘记了电话号码(我忘記了電話號碼)，需要再确认(需要再確認)。",
-      "pinyin": "Wǒ wàngjìle diànhuà hàomǎ, xūyào zài quèrèn.",
-      "english": "I forgot the telephone number, and I need to confirm it again."
+      "chinese": "我错记了他的电话号码(我錯記了他的電話號碼)。",
+      "pinyin": "Wǒ cuòjì le tā de diànhuà hàomǎ.",
+      "english": "I misremembered his telephone number."
+    },
+    {
+      "chinese": "我们联系的方式是通过电子邮件和电话号码(我們聯繫的方式是通過電子郵件和電話號碼)。",
+      "pinyin": "Wǒmen liánxì de fāngshì shì tōngguò diànzǐ yóujiàn hé diànhuà hàomǎ.",
+      "english": "Our ways of communication are through email and telephone number."
     }
   ]
 }

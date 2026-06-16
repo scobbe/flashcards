@@ -5,40 +5,40 @@
   "english": "Chun Feng handmade",
   "etymology": {
     "type": "compound word",
-    "description": "春(春) (chūn, \"spring\") refers to the season of renewal and growth, 風(風) (fēng, \"wind\") commonly symbolizes change and movement. 手(手) (shǒu, \"hand\") indicates crafting or creating with one's hands, and 作(作) (zuò, \"make\") refers to the action of making or creating.",
-    "interpretation": "The phrase 春風手作 (春風手作) (chūn fēng shǒu zuò, \"Chun Feng handmade\") illustrates the concept of producing goods by hand, often invoking the renewal and creativity associated with spring and wind.",
+    "description": "The word 春风手作 (春風手作) is a compound word combining the elements 春风(春風) (chūnfēng, \"spring wind\") and 手作 (shǒuzuò, \"handmade\").",
+    "interpretation": "春风(春風) (chūnfēng, \"spring wind\") symbolizes the beginning or renewal as spring represents growth and new life. The gentle and refreshing qualities of 春风(春風) (chūnfēng, \"spring wind\") metaphorically convey a sense of creativity and rejuvenation found in handmade crafts. 手作 (shǒuzuò, \"handmade\") directly indicates something crafted by hand, emphasizing personal touch and uniqueness. Together, the phrase implies crafting items with the refreshing, renewing energy of spring, suggesting creativity and artistry.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "春風",
       "trad": "春風",
-      "pinyin": "chūn fēng",
-      "english": "spring breeze"
+      "pinyin": "chūnfēng",
+      "english": "spring wind"
     },
     {
       "char": "手作",
       "trad": "手作",
-      "pinyin": "shǒu zuò",
+      "pinyin": "shǒuzuò",
       "english": "handmade"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春风手作提供精致的手工艺品(春風手作提供精緻的手工藝品)。",
-      "pinyin": "chūn fēng shǒu zuò tí gōng jīng zhì de shǒu gōng yì pǐn。",
-      "english": "Chun Feng Handmade provides exquisite handicrafts."
+      "chinese": "春风手作的产品很受欢迎(春風手作的產品很受歡迎)。",
+      "pinyin": "Chūn fēng shǒu zuò de chǎnpǐn hěn shòu huānyíng.",
+      "english": "Chun Feng handmade products are very popular."
     },
     {
-      "chinese": "我购买了春风手作的手工艺品(我購買了春風手作的手工藝品)，感受到了品牌的温度(感受到了品牌的溫度)。",
-      "pinyin": "wǒ gòu mǎi le chūn fēng shǒu zuò de shǒu gōng yì pǐn, gǎn shòu dào le pǐn pái de wēn dù。",
-      "english": "I purchased Chun Feng Handmade's handicrafts and experienced the brand's warmth."
+      "chinese": "我喜欢春风手作的设计(我喜歡春風手作的設計)。",
+      "pinyin": "Wǒ xǐhuān chūn fēng shǒu zuò de shèjì.",
+      "english": "I like the design of Chun Feng handmade."
     },
     {
-      "chinese": "春风手作注重环保理念(春風手作注重環保理念)，致力于可持续发展(致力於可持續發展)。",
-      "pinyin": "chūn fēng shǒu zuò zhù zhòng huán bǎo lǐ niàn, zhì lì yú kě chí xù fā zhǎn。",
-      "english": "Chun Feng Handmade values environmental protection ideas and is committed to sustainable development."
+      "chinese": "春风手作每件作品都很独特(春風手作每件作品都很獨特)。",
+      "pinyin": "Chūn fēng shǒu zuò měi jiàn zuòpǐn dōu hěn dútè.",
+      "english": "Every piece from Chun Feng handmade is unique."
     }
   ]
 }

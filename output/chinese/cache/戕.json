@@ -5,22 +5,22 @@
   "english": "murder",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 爿(爿) (pán, \"half of a tree trunk\") + semantic: 戈(戈) (gē, \"dagger-axe\") = related to use of a weapon -> final meaning 'murder'",
-    "interpretation": "The character 戕(戕) (qiāng, \"murder\") combines the phonetic component 爿(爿) (pán, \"half of a tree trunk\") with the semantic component 戈(戈) (gē, \"dagger-axe\") to suggest an association with using a weapon, specifically a dagger-axe, leading to the meaning of causing harm or murder.",
+    "description": "semantic 戈(戈) (gē, \"dagger-axe\") + phonetic 爿(爿) (qiáng) -> murder",
+    "interpretation": "The character 戕 (qiāng, \"murder\") combines 戈(戈) (gē, \"dagger-axe\") as the semantic component, a weapon associated with violence and killing, with the phonetic component 爿(爿) (qiáng). The association with a weapon underscores the meaning of causing death or murder through violent means.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "爿",
-      "trad": "爿",
-      "pinyin": "pán",
-      "english": "half of a tree trunk"
-    },
     {
       "char": "戈",
       "trad": "戈",
       "pinyin": "gē",
       "english": "dagger-axe"
+    },
+    {
+      "char": "爿",
+      "trad": "爿",
+      "pinyin": "qiáng",
+      "english": "half of a tree trunk"
     }
   ],
   "in_contemporary_usage": false,

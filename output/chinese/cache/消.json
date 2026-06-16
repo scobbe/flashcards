@@ -5,8 +5,8 @@
   "english": "to disappear; to eliminate",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "氵(水, 'water') + 肖(肖, 'resemblance') = to extinguish something (with water) -> to disappear; to eliminate",
-    "interpretation": "The character 消(xiāo, 'to disappear; to eliminate') combines the semantic element 氵(水, 'water'), representing the act of extinguishing or removing with water, and the phonetic element 肖(肖, 'resemblance') to convey the idea of causing something to disappear or be eliminated.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 肖 (xiāo) -> to extinguish something (with water) -> disappear; eliminate",
+    "interpretation": "The character combines the semantic component 氵(水) (shuǐ, \"water\"), symbolizing extinguishing or quenching, with the phonetic component 肖 (xiāo) to convey the sense of causing something to disappear or be eliminated, similar to how water can extinguish a fire.",
     "simplification": ""
   },
   "parts": [
@@ -19,26 +19,26 @@
     {
       "char": "肖",
       "trad": "肖",
-      "pinyin": "xiào",
-      "english": "resemblance"
+      "pinyin": "xiāo",
+      "english": "to resemble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "雨后的彩虹很快消失(雨後的彩虹很快消失)。",
-      "pinyin": "Yǔ hòu de cǎihóng hěn kuài xiāoshī.",
-      "english": "The rainbow after the rain quickly disappeared."
+      "chinese": "冰块在阳光下很快消失(冰塊在陽光下很快消失)。",
+      "pinyin": "Bīngkuài zài yángguāng xià hěn kuài xiāoshī.",
+      "english": "The ice cubes disappear quickly under the sunlight."
     },
     {
-      "chinese": "他用智慧消除了误解(他用智慧消除了誤解)。",
-      "pinyin": "Tā yòng zhìhuì xiāochúle wùjiě.",
-      "english": "He eliminated the misunderstanding with his wisdom."
+      "chinese": "那些负面情绪慢慢地消散了(那些負面情緒慢慢地消散了)。",
+      "pinyin": "Nàxiē fùmiàn qíngxù mànmàn de xiāosàn le.",
+      "english": "Those negative emotions gradually dissipated."
     },
     {
-      "chinese": "随着时间的流逝(隨著時間的流逝)，痛苦会慢慢消退(痛苦會慢慢消退)。",
-      "pinyin": "Suízhe shíjiān de liúshì, tòngkǔ huì mànmàn xiāotuì.",
-      "english": "As time passes, the pain will gradually recede."
+      "chinese": "药物可以帮助消除疼痛(藥物可以幫助消除疼痛)。",
+      "pinyin": "Yàowù kěyǐ bāngzhù xiāochú téngtòng.",
+      "english": "The medication can help eliminate pain."
     }
   ]
 }

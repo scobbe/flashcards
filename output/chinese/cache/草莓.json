@@ -5,8 +5,8 @@
   "english": "strawberry",
   "etymology": {
     "type": "compound word",
-    "description": "草(草) (cǎo, \"grass; herb\") refers to herbaceous plants, and 莓(莓) (méi, \"berry\") denotes small, pulpy, edible fruits. Together they form 草莓(草莓) (cǎoméi, \"strawberry\"), a small, red, juicy fruit commonly considered a type of small berry.",
-    "interpretation": "The word 草莓(草莓) (cǎoméi, \"strawberry\") literally means a 'herb berry,' reflecting both the plant nature of strawberries and their status as small, sweet fruits.",
+    "description": "草(草) (cǎo, \"grass\") refers to small or low plants, often used generically for herbaceous plants. 莓(莓) (méi, \"berry\") is a term for small, soft fruits.",
+    "interpretation": "The combination of 草(草) (cǎo, \"grass\") and 莓(莓) (méi, \"berry\") gives the impression of a berry-like fruit growing close to the ground, akin to grass and other low vegetation. This reflects the actual growth pattern of strawberries, which are ground-hugging plants. The name evokes the image of a berry that grows among grass or in fields like herbaceous plants.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "草",
       "trad": "草",
       "pinyin": "cǎo",
-      "english": "grass; herb"
+      "english": "grass; herbaceous plant; rough; draft"
     },
     {
       "char": "莓",
       "trad": "莓",
       "pinyin": "méi",
-      "english": "berry"
+      "english": "berry; small fruit; bramble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃草莓(我喜歡吃草莓)。",
-      "pinyin": "Wǒ xǐhuān chī cǎoméi.",
-      "english": "I like to eat strawberries."
+      "chinese": "草莓很甜(草莓很甜)。",
+      "pinyin": "Cǎoméi hěn tián.",
+      "english": "Strawberries are very sweet."
     },
     {
-      "chinese": "市场上有很多草莓(市場上有很多草莓)，味道香甜(味道香甜)。",
-      "pinyin": "Shìchǎng shàng yǒu hěn duō cǎoméi, wèidào xiāngtián.",
-      "english": "There are many strawberries in the market, and they taste very sweet."
+      "chinese": "她喜欢吃草莓(她喜歡吃草莓)。",
+      "pinyin": "Tā xǐhuān chī cǎoméi.",
+      "english": "She likes to eat strawberries."
+    },
+    {
+      "chinese": "这果盘里有草莓(這果盤裡有草莓)，香蕉和葡萄(香蕉和葡萄)。",
+      "pinyin": "Zhè guǒpán lǐ yǒu cǎoméi, xiāngjiāo hé pútáo.",
+      "english": "This fruit platter has strawberries, bananas, and grapes."
     }
   ]
 }

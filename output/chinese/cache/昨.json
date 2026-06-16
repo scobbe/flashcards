@@ -5,8 +5,8 @@
   "english": "yesterday",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 乍(乍) (zhà, \"for the first time\") = sun with temporal aspect -> yesterday",
-    "interpretation": "The character 昨(昨) (zuó, \"yesterday\") combines 日(日) (rì, \"sun\") indicating the cyclical nature of time with 乍(乍) (zhà, \"for the first time\"), which adds a phonetic and partial semantic component, suggesting a time related to prior events, thus forming the meaning 'yesterday'.",
+    "description": "semantic 日 (rì, \"sun\") + phonetic 乍 (zhà) -> yesterday",
+    "interpretation": "The character 昨 (zuó, \"yesterday\") combines the semantic component 日 (rì, \"sun\"), representing the day, with the phonetic component 乍 (zhà), which provides the sound. The combination intuitively indicates the concept of 'yesterday,' which is the day that has passed.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "乍",
       "trad": "乍",
       "pinyin": "zhà",
-      "english": "for the first time"
+      "english": "at first"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "昨天晚上(昨天晚上)，我看了一场电影(我看了一場電影)。",
-      "pinyin": "zuótiān wǎnshàng, wǒ kàn le yī chǎng diànyǐng",
-      "english": "Last night, I watched a movie."
+      "chinese": "昨天我和朋友去看电影(昨天我和朋友去看電影)。",
+      "pinyin": "Zuótiān wǒ hé péngyǒu qù kàn diànyǐng.",
+      "english": "Yesterday, my friend and I went to watch a movie."
     },
     {
-      "chinese": "昨天下起了雨(昨天下起了雨)。",
-      "pinyin": "zuótiān xià qǐ le yǔ",
-      "english": "It rained yesterday."
+      "chinese": "他昨天做了什么(他昨天做了什麼)？",
+      "pinyin": "Tā zuótiān zuòle shénme?",
+      "english": "What did he do yesterday?"
     },
     {
-      "chinese": "昨夜星空格外明亮(昨夜星空格外明亮)。",
-      "pinyin": "zuóyè xīngkōng géwài míngliàng",
-      "english": "The stars were especially bright last night."
+      "chinese": "昨天下了雨(昨天下了雨)，所以路上很湿(所以路上很濕)。",
+      "pinyin": "Zuótiān xiàle yǔ, suǒyǐ lùshàng hěn shī.",
+      "english": "It rained yesterday, so the roads are very wet."
     }
   ]
 }

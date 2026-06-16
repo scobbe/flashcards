@@ -5,8 +5,8 @@
   "english": "to",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "至(至) (zhì, \"to arrive\") + 刀(刀) (dāo, \"knife\") = semantic 'to arrive' + phonetic value -> to",
-    "interpretation": "The character 到(dào) combines the meaning of arriving from 至(至) (zhì, \"to arrive\") with the sound component from 刀(刀) (dāo, \"knife\") to represent the concept of reaching a destination.",
+    "description": "semantic 至(至) (zhì, \"to arrive\") + phonetic 刀(刀) (dāo) -> to arrive, reach",
+    "interpretation": "The character 到(dào, \"to\") combines the meaning of 至(至) (zhì, \"to arrive\"), indicating movement or arrival at a destination, with the phonetic component 刀(刀) (dāo) to provide the pronunciation. This construction intuitively conveys the action of reaching a point or destination.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我到家了(我到家了)。",
-      "pinyin": "Wǒ dào jiā le.",
-      "english": "I have arrived home."
+      "chinese": "我刚到学校(我剛到學校)。",
+      "pinyin": "Wǒ gāng dào xuéxiào.",
+      "english": "I just arrived at school."
     },
     {
-      "chinese": "我们到学校后(我們到學校後)，开始上课(開始上課)。",
-      "pinyin": "Wǒmen dào xuéxiào hòu, kāishǐ shàngkè.",
-      "english": "We arrived at school, and then started class."
+      "chinese": "他从北京到上海(他從北京到上海)。",
+      "pinyin": "Tā cóng Běijīng dào Shànghǎi.",
+      "english": "He went from Beijing to Shanghai."
     },
     {
-      "chinese": "火车到站时(火車到站時)，旅客纷纷下车(旅客紛紛下車)。",
-      "pinyin": "Huǒchē dào zhàn shí, lǚkè fēnfēn xià chē.",
-      "english": "When the train arrived at the station, the passengers got off one after another."
+      "chinese": "我们到那里时(我們到那裡時)，天已经黑了(天已經黑了)。",
+      "pinyin": "Wǒmen dào nàlǐ shí, tiān yǐjīng hēi le.",
+      "english": "By the time we got there, it was already dark."
     }
   ]
 }

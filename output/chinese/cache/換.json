@@ -5,9 +5,9 @@
   "english": "to change",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "手(手) (shǒu, \"hand\") + 奐(奐) (huàn, \"expand\") = action performed by hand -> to change",
-    "interpretation": "The character 換(換) incorporates 手(手) (shǒu, \"hand\") to denote an action or activity involving the hands, while 奐(奐) (huàn, \"expand\") contributes the phonetic component. Altogether, it suggests the idea of changing or exchanging something through physical action.",
-    "simplification": "The traditional component 奐(奐) (huàn, \"expand\") was simplified to 䜣 to reduce stroke count while keeping the phonetic sound, and 手(手) (shǒu, \"hand\") was simplified to 扌."
+    "description": "semantic 手(手) (shǒu, \"hand\") + phonetic 奐(奐) (huàn) -> to change",
+    "interpretation": "The character 換(換) (huàn, \"to change\") combines the semantic component 手(手) (shǒu, \"hand\") and the phonetic component 奐(奐) (huàn). The hand indicates action, and along with the sound from 奐(奐), the character conveys changing or exchanging through manual activity.",
+    "simplification": "In the simplified form, 换(換), the component 奐(奐) was retained to keep the phonetic element, while the structure of the character was slightly altered to simplify the strokes."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "奐",
       "trad": "奐",
       "pinyin": "huàn",
-      "english": "expand"
+      "english": "grand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他換了衣服(他換了衣服)。",
-      "pinyin": "Tā huàn le yīfú.",
-      "english": "He changed his clothes."
+      "chinese": "我要换一个房间(我要換一個房間)。",
+      "pinyin": "Wǒ yào huàn yī gè fángjiān.",
+      "english": "I want to change a room."
     },
     {
-      "chinese": "老闆考慮換辦公室(老闆考慮換辦公室)，以改善工作氛圍(以改善工作氛圍)。",
-      "pinyin": "Lǎobǎn kǎolǜ huàn bàngōngshì, yǐ gǎishàn gōngzuò fēnwéi.",
-      "english": "The boss is considering changing the office to improve the work atmosphere."
+      "chinese": "他换了工作(他換了工作)，现在在银行上班(現在在銀行上班)。",
+      "pinyin": "Tā huàn le gōngzuò, xiànzài zài yínháng shàngbān.",
+      "english": "He changed jobs and now works at a bank."
     },
     {
-      "chinese": "春天來臨時(春天來臨時)，大地換上新裝(大地換上新裝)。",
-      "pinyin": "Chūntiān láilín shí, dàdì huàn shàng xīn zhuāng.",
-      "english": "When spring arrives, the earth changes into a new look."
+      "chinese": "我们应该换一种思维方式(我們應該換一種思維方式)。",
+      "pinyin": "Wǒmen yīnggāi huàn yī zhǒng sīwéi fāngshì.",
+      "english": "We should change our way of thinking."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "shadow; reflection; image",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 彡(彡) (shān, \"hair-like stripes\") + phonetic: 旡(旡) (jì) -> 彡 represents the shimmer or movement of a shadow, while 旡 contributes the sound",
-    "interpretation": "影(影) (yǐng, \"shadow\") visually combines 彡(彡) (shān, \"hair-like stripes\"), suggesting the motion or waviness of shadows, with 旡(旡) (jì) to provide the phonetic component. This unique combination successfully conveys the idea of a shadow or reflection due to its visual and auditory cues.",
+    "description": "semantic 彡(彡) (shān, \"pattern\") + phonetic 景(景) (jǐng, \"scenery\") -> shadow or image",
+    "interpretation": "影 combines the visual aspect of 彡(彡) (shān, \"pattern\") with the sound and concept of 景(景) (jǐng, \"scenery\"), to denote intangible representations such as shadows and images, which are both detailed patterns influenced by light, similar to how scenery can provide a view or an image.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "彡",
       "trad": "彡",
       "pinyin": "shān",
-      "english": "hair-like stripes"
+      "english": "pattern"
     },
     {
-      "char": "旡",
-      "trad": "旡",
-      "pinyin": "jì",
-      "english": "partial phonetic"
+      "char": "景",
+      "trad": "景",
+      "pinyin": "jǐng",
+      "english": "scenery"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "晚风轻拂(晚風輕拂)，窗影摇曳(窗影搖曳)。",
-      "pinyin": "Wǎn fēng qīng fú, chuāng yǐng yáo yè.",
-      "english": "The gentle evening breeze brushes, and the window shadows sway."
+      "chinese": "他的影子在墙上显得很长(他的影子在牆上顯得很長)。",
+      "pinyin": "Tā de yǐngzi zài qiáng shàng xiǎnde hěn cháng.",
+      "english": "His shadow appeared very long on the wall."
     },
     {
-      "chinese": "湖面倒影静谧(湖面倒影靜謐)。",
-      "pinyin": "Hú miàn dào yǐng jìng mì.",
-      "english": "The lake's reflection is serene."
+      "chinese": "她的笑容在湖水中映出了美丽的影像(她的笑容在湖水中映出了美麗的影像)。",
+      "pinyin": "Tā de xiàoróng zài hú shuǐ zhōng yìng chūle měilì de yǐngxiàng.",
+      "english": "Her smile reflected as a beautiful image in the lake."
     },
     {
-      "chinese": "山影浮动(山影浮動)，云卷云舒(雲捲雲舒)。",
-      "pinyin": "Shān yǐng fú dòng, yún juǎn yún shū.",
-      "english": "The mountain shadows float, while the clouds roll and relax."
+      "chinese": "电影的第一幕给我留下了深刻的印象(電影的第一幕給我留下了深刻的印象)。",
+      "pinyin": "Diànyǐng de dì yī mù gěi wǒ liúxiàle shēnkè de yìnxiàng.",
+      "english": "The first scene of the movie left a deep impression on me."
     }
   ]
 }

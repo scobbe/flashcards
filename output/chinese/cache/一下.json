@@ -5,8 +5,8 @@
   "english": "a moment; a while",
   "etymology": {
     "type": "compound word",
-    "description": "一(一) (yī, \"one\") and 下(下) (xià, \"down; below; verb modifier indicating brief or informal action\") combine to form 一下(一下) (yíxià, \"a moment; a while\"). The character 一(一) (yī) signifies singularity, while 下(下) (xià) modifies actions or states to indicate brevity or informality.",
-    "interpretation": "The combination suggests an action or state that occurs for a brief moment, essentially indicating 'a short while' or 'for a bit'.",
+    "description": "In this word, 一(一) (yī, \"one\") is used to signify a single or brief occurrence, while 下(下) (xià, \"down; below\") suggests a short interval. Together, 一下(一下) (yíxià, \"a moment\") conveys the idea of something happening briefly or temporarily.",
+    "interpretation": "The sense 'a moment; a while' emerges because 一(一) (yī, \"one\") implies a single or specific instance, and 下(下) (xià, \"down; below\") indicates a downward transition or brief action. The combination suggests doing something 'for a single moment' or 'briefly' as if applying an effort or action in a singular, complete manner.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "one"
+      "english": "one; single; whole"
     },
     {
       "char": "下",
       "trad": "下",
       "pinyin": "xià",
-      "english": "down; below; verb modifier indicating brief or informal action"
+      "english": "down; below; short of; next"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我休息一下(我休息一下)。",
-      "pinyin": "Wǒ xiūxí yíxià.",
-      "english": "I'll rest for a moment."
+      "chinese": "请等一下(請等一下)。",
+      "pinyin": "Qǐng děng yíxià.",
+      "english": "Please wait for a moment."
     },
     {
-      "chinese": "请你等一下(請你等一下)，马上回来(馬上回來)。",
-      "pinyin": "Qǐng nǐ děng yíxià, mǎshàng huílái.",
-      "english": "Please wait a moment, I'll be right back."
+      "chinese": "他想休息一下(他想休息一下)。",
+      "pinyin": "Tā xiǎng xiūxi yíxià.",
+      "english": "He wants to rest for a while."
+    },
+    {
+      "chinese": "过来一下(過來一下)，我有事情告诉你(我有事情告訴你)。",
+      "pinyin": "Guòlái yíxià, wǒ yǒu shìqíng gàosù nǐ.",
+      "english": "Come over for a moment, I have something to tell you."
     }
   ]
 }

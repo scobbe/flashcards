@@ -5,8 +5,8 @@
   "english": "virtue",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "彳(彳) (chì, \"step; road\") + 惪(惪) (dí, \"virtue\") -> virtuous path",
-    "interpretation": "The character 德 (dé, \"virtue\") combines 彳(彳) (chì, \"step; road\"), indicating movement or progress, with 惪 (a variant which carries the meaning of \"virtue\"). This suggests a path of virtue or moral conduct.",
+    "description": "semantic 彳(彳) (chì, \"road\") + phonetic 惪(惪) (dé, \"virtue\") -> 德",
+    "interpretation": "The character 德 (dé, \"virtue\") combines 彳(彳) (chì, \"road\"), suggesting a path or way to follow, with the phonetic component 惪(惪), which shares the virtue-related meaning. The road or path implies a moral journey or conduct, aligning with the concept of virtue as a way of life or code of behavior.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "彳",
       "trad": "彳",
       "pinyin": "chì",
-      "english": "step; road"
+      "english": "road"
     },
     {
       "char": "惪",
       "trad": "惪",
-      "pinyin": "dí",
+      "pinyin": "dé",
       "english": "virtue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "儒家思想强调道德与文化(儒家思想強調道德與文化)。",
-      "pinyin": "Rújiā sīxiǎng qiángdiào dàodé yǔ wénhuà.",
-      "english": "Confucianism emphasizes virtue and culture."
+      "chinese": "他的品德很好(他的品德很好)。",
+      "pinyin": "Tā de pǐndé hěn hǎo.",
+      "english": "His virtue is very good."
     },
     {
-      "chinese": "她的行为展现了高尚的品德(她的行為展現了高尚的品德)。",
-      "pinyin": "Tā de xíngwéi zhǎnxiànle gāoshàng de pǐndé.",
-      "english": "Her actions demonstrated noble virtue."
+      "chinese": "我们应该学习孔子的道德思想(我們應該學習孔子的道德思想)。",
+      "pinyin": "Wǒmen yīnggāi xuéxí Kǒngzǐ de dàodé sīxiǎng.",
+      "english": "We should study Confucius's moral philosophy."
     },
     {
-      "chinese": "在中国历史中，很多帝王以德治国(在中國歷史中，很多帝王以德治國)。",
-      "pinyin": "Zài Zhōngguó lìshǐ zhōng, hěnduō dìwáng yǐ dé zhìguó.",
-      "english": "In Chinese history, many emperors ruled the country with virtue."
+      "chinese": "德行是一个人真正的财富(德行是一個人真正的財富)。",
+      "pinyin": "Déxíng shì yīgè rén zhēnzhèng de cáifù.",
+      "english": "Virtue is a person's true wealth."
     }
   ]
 }

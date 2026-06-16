@@ -5,27 +5,27 @@
   "english": "to mix",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a human with crossed legs -> person interacting -> concept of mixing or exchange",
-    "interpretation": "The character 交(交) (xiāo, \"to mix\") visually represents a person with crossed legs, symbolizing interaction or meeting, which conveys the idea of mixing or exchanging.",
+    "description": "Depicts a human with crossed legs -> today's form shows upper part similar to 立(立) (lì, 'stand')",
+    "interpretation": "Originally depicted a human figure with crossed legs, visually suggesting the notion of crossing or mixing, as legs are intertwined. This cross-legged posture naturally extended to meanings associated with mixing or crossing paths.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "厨师把香料交入汤中(廚師把香料交入湯中)。",
-      "pinyin": "Chúshī bǎ xiāngliào xiāo rù tāng zhōng.",
-      "english": "The chef mixes the spices into the soup."
+      "chinese": "我们必须把材料交在一起(我們必須把材料交在一起)。",
+      "pinyin": "Wǒmen bìxū bǎ cáiliào xiāo zài yīqǐ.",
+      "english": "We must mix the materials together."
     },
     {
-      "chinese": "他把红色交蓝色(他把紅色交藍色)，调成了紫色(調成了紫色)。",
-      "pinyin": "Tā bǎ hóngsè xiāo lánsè, tiáo chéng le zǐsè.",
-      "english": "He mixes red and blue to turn them into purple."
+      "chinese": "在烹饪课上(在烹飪課上)，老师教我们如何交不同的配料(老師教我們如何交不同的配料)。",
+      "pinyin": "Zài pēngrèn kè shàng, lǎoshī jiāo wǒmen rúhé xiāo bùtóng de pèiliào.",
+      "english": "In the cooking class, the teacher taught us how to mix different ingredients."
     },
     {
-      "chinese": "艺术家善于交不同元素(藝術家善於交不同元素)，创造出独特风格(創造出獨特風格)。",
-      "pinyin": "Yìshùjiā shànyú xiāo bùtóng yuánsù, chuàngzào chū dútè fēnggé.",
-      "english": "The artist is good at mixing different elements to create a unique style."
+      "chinese": "把这两种颜料交在一起(把這兩種顏料交在一起)，可以得到一种新的颜色(可以得到一種新的顏色)。",
+      "pinyin": "Bǎ zhè liǎng zhǒng yánliào xiāo zài yīqǐ, kěyǐ dédào yī zhǒng xīn de yánsè.",
+      "english": "By mixing these two paints together, you can get a new color."
     }
   ]
 }

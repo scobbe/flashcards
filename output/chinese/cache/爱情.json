@@ -5,8 +5,8 @@
   "english": "love (between a man and a woman)",
   "etymology": {
     "type": "compound word",
-    "description": "愛(愛) (ài, \"love\") refers to a deep affection or attachment, often in a romantic sense, and 情(情) (qíng, \"emotion; feeling\") encompasses feelings and emotions. Combined, 愛情(愛情) (àiqíng, \"love\") specifically denotes the romantic love between individuals.",
-    "interpretation": "The combination of 愛(愛) (ài, \"love\") and 情(情) (qíng, \"emotion; feeling\") makes sense as it captures the essence of romantic love, which is both an emotion and an expression of deep affection.",
+    "description": "愛(愛) (ài, \"love\") as affection or deep feeling, and 情(情) (qíng, \"emotion; sentiment\") as emotional state or sentiment, together denote romantic feelings.",
+    "interpretation": "愛(愛) (ài, \"love\") illustrates deep attachment and commitment, which is the foundation of a romantic bond. 情(情) (qíng, \"emotion; sentiment\") captures the subjective, often passionate, feelings between partners. Together, 愛情 (àiqíng) emphasizes romantic love, characterized by both commitment and passionate emotional connection.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "情",
       "trad": "情",
       "pinyin": "qíng",
-      "english": "emotion; feeling"
+      "english": "emotion; sentiment; feeling"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他们的爱情故事让人感动(他們的愛情故事讓人感動)。",
-      "pinyin": "Tāmen de àiqíng gùshì ràng rén gǎndòng.",
-      "english": "Their love story is touching."
+      "chinese": "爱情是我们生活中的一部分(愛情是我們生活中的一部分)。",
+      "pinyin": "Àiqíng shì wǒmen shēnghuó zhōng de yī bùfèn.",
+      "english": "Love is a part of our lives."
     },
     {
-      "chinese": "爱情需要时间来培养(愛情需要時間來培養)。",
-      "pinyin": "Àiqíng xūyào shíjiān lái péiyǎng.",
-      "english": "Love needs time to grow."
+      "chinese": "在电影里(在電影裡)，爱情总是充满挑战(愛情總是充滿挑戰)。",
+      "pinyin": "Zài diànyǐng lǐ, àiqíng zǒng shì chōngmǎn tiǎozhàn.",
+      "english": "In movies, love is always full of challenges."
     },
     {
-      "chinese": "她相信爱情能改变一切(她相信愛情能改變一切)。",
-      "pinyin": "Tā xiāngxìn àiqíng néng gǎibiàn yīqiè.",
-      "english": "She believes love can change everything."
+      "chinese": "他的小说里描述了很多种爱情(他的小說裡描述了很多種愛情)。",
+      "pinyin": "Tā de xiǎoshuō lǐ miáoshù le hěn duō zhǒng àiqíng.",
+      "english": "His novels describe many types of love."
     }
   ]
 }

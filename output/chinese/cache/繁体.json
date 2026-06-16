@@ -5,9 +5,9 @@
   "english": "traditional Chinese characters",
   "etymology": {
     "type": "compound word",
-    "description": "繁(繁) (fán, \"complex or numerous\") + 體(體) (tǐ, \"body; style\") = style of complex characters, referring to traditional Chinese characters",
-    "interpretation": "繁體(繁體) (fántǐ, \"traditional characters\") refers to the traditional form of Chinese characters, which are often more complex in structure than simplified characters. These characters preserve more of the original strokes and forms that have been used historically across Chinese literature and documents.",
-    "simplification": "繁体→繁體"
+    "description": "繁(繁) (fán, \"complex; numerous\") + 體(體) (tǐ, \"body; style\") form the compound word 繁體 (fántǐ), referring to the traditional and complex style of Chinese characters, as opposed to simplified characters.",
+    "interpretation": "繁(繁) (fán, \"complex; numerous\") indicates the intricate nature of traditional characters, which have numerous strokes. 體(體) (tǐ, \"body; style\") refers to the form or style of these characters. The combination conveys the concept of the traditional orthography, emphasizing its complexity and detailed form compared to the streamlined simplified characters.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "complex; numerous"
     },
     {
-      "char": "体",
+      "char": "體",
       "trad": "體",
       "pinyin": "tǐ",
-      "english": "body; style; form"
+      "english": "body; style"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "很多人认为繁体更有韵味(很多人認為繁體更有韻味)。",
-      "pinyin": "Hěn duō rén rènwéi fántǐ gèng yǒu yùnwèi.",
-      "english": "Many people think that traditional Chinese characters have more charm."
+      "chinese": "很多书籍使用繁体字(很多書籍使用繁體字)。",
+      "pinyin": "Hěn duō shūjí shǐyòng fántǐzì.",
+      "english": "Many books use traditional Chinese characters."
     },
     {
-      "chinese": "书法作品常采用繁体书写(書法作品常採用繁體書寫)。",
-      "pinyin": "Shūfǎ zuòpǐn cháng cǎiyòng fántǐ shūxiě.",
-      "english": "Calligraphy works are often written in traditional Chinese characters."
+      "chinese": "繁体字在香港和台湾广泛使用(繁體字在香港和臺灣廣泛使用)。",
+      "pinyin": "Fántǐzì zài Xiānggǎng hé Táiwān guǎngfàn shǐyòng.",
+      "english": "Traditional Chinese characters are widely used in Hong Kong and Taiwan."
     },
     {
-      "chinese": "老一辈喜爱繁体字(老一輩喜愛繁體字)。",
-      "pinyin": "Lǎo yī bèi xǐ'ài fántǐ zì.",
-      "english": "The older generation loves traditional Chinese characters."
+      "chinese": "有些人觉得书写繁体字很难(有些人覺得書寫繁體字很難)。",
+      "pinyin": "Yǒuxiē rén juéde shūxiě fántǐzì hěn nán.",
+      "english": "Some people find writing traditional Chinese characters very difficult."
     }
   ]
 }

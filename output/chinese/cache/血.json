@@ -4,28 +4,41 @@
   "pinyin": "xuè",
   "english": "blood; bloodline; lineage",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts the container for sacrificial blood -> 'blood'",
-    "interpretation": "The character 血(xuè, \"blood\") originally depicted a container with blood dripping from it. This imagery effectively conveys the concept of blood, crucial both biologically and culturally.",
+    "type": "ideogrammic compound",
+    "description": "一 ('drop of blood') + 皿 ('container') -> drop of blood inside a chalice for sacrificial use",
+    "interpretation": "The character 血(xuè, 'blood') combines 一(yī, 'drop') and 皿(mǐn, 'container') to depict a drop of blood in a container. This reflects ancient practices of collecting blood for sacrificial purposes. The concept of lineage and bloodline extends from the association with ancestral rituals.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one; drop"
+    },
+    {
+      "char": "皿",
+      "trad": "皿",
+      "pinyin": "mǐn",
+      "english": "container"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "英雄誓言以血为盟(英雄誓言以血為盟)。",
-      "pinyin": "Yīngxióng shìyán yǐ xuè wéi méng.",
-      "english": "The hero swore an oath sealed with blood."
+      "chinese": "他流了一些血(他流了一些血)。",
+      "pinyin": "Tā liúle yīxiē xuè.",
+      "english": "He bled a little."
     },
     {
-      "chinese": "家族的血脉永远相连(家族的血脈永遠相連)，传承着荣耀(傳承著榮耀)。",
-      "pinyin": "Jiāzú de xuèmài yǒngyuǎn xiānglián, chuánchéng zhe róngyào.",
-      "english": "The family's bloodline is forever connected, inheriting glory."
+      "chinese": "他的血液里流淌着勇敢的血统(他的血液裡流淌著勇敢的血統)。",
+      "pinyin": "Tā de xuèyè lǐ liútǎngzhe yǒnggǎn de xuètǒng.",
+      "english": "Brave lineage flows in his blood."
     },
     {
-      "chinese": "流淌的鲜血见证了牺牲(流淌的鮮血見證了犧牲)。",
-      "pinyin": "Liútǎng de xuèxiě jiànzhèng le xīshēng.",
-      "english": "The flowing blood testified to the sacrifice."
+      "chinese": "血是一种非常宝贵的生命资源(血是一種非常寶貴的生命資源)。",
+      "pinyin": "Xuè shì yī zhǒng fēicháng bǎoguì de shēngmìng zīyuán.",
+      "english": "Blood is a very valuable life resource."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "spinach; leafy vegetable",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, 'grass') + 波(波) (bō, 'wave') = plant related to 波(波) ('wave') -> leafy vegetable",
-    "interpretation": "The character 菠 (bō, 'spinach') is formed by combining 艹(艹) (cǎo, 'grass'), which indicates its meaning related to plants, with the phonetic component 波(波) (bō, 'wave'), suggesting the pronunciation. This implies a connection to a plant associated with 水(波) ('wave'), metaphorically as a leafy vegetable like spinach which may have a wavy appearance.",
+    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 波(波) (bō) -> leafy vegetable",
+    "interpretation": "The character 菠(bō, 'spinach; leafy vegetable') combines the semantic component 艹(艹) (cǎo, 'grass; plant'), indicating a connection to vegetation, with the phonetic component 波(波) (bō), which provides the pronunciation. This combination denotes a type of leafy plant, specifically referencing spinach.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "grass; plant"
     },
     {
       "char": "波",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃菠(菠)。",
-      "pinyin": "Wǒ xǐhuān chī bō.",
-      "english": "I like to eat spinach."
+      "chinese": "他喜欢吃炒菠(他喜歡吃炒菠)。",
+      "pinyin": "Tā xǐhuān chī chǎo bō.",
+      "english": "He likes to eat stir-fried spinach."
     },
     {
-      "chinese": "妈妈买了菠(菠)，做了沙拉(沙拉)。",
-      "pinyin": "Māmā mǎile bō, zuòle shālā.",
-      "english": "Mom bought spinach and made a salad."
+      "chinese": "我在市场上买了新鲜的菠(我在市場上買了新鮮的菠)。",
+      "pinyin": "Wǒ zài shìchǎng shàng mǎi le xīnxiān de bō.",
+      "english": "I bought fresh spinach at the market."
     },
     {
-      "chinese": "农夫辛勤耕作菠(菠)，期待丰收(期待豐收)。",
-      "pinyin": "Nóngfū xīnqín gēngzuò bō, qídài fēngshōu.",
-      "english": "The farmer diligently cultivates spinach, anticipating a bountiful harvest."
+      "chinese": "菠汤最适合在寒冷的冬天喝(菠湯最適合在寒冷的冬天喝)。",
+      "pinyin": "Bō tāng zuì shìhé zài hánlěng de dōngtiān hē.",
+      "english": "Spinach soup is best enjoyed in the cold winter."
     }
   ]
 }

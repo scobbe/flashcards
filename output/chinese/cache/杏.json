@@ -5,8 +5,8 @@
   "english": "apricot",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"wood\") + 口(口) (kǒu, \"mouth\") = possibly describes the tastiness of apricot fruit",
-    "interpretation": "The character 杏(杏) (xìng, \"apricot\") represents an apricot tree, with 木(木) (mù, \"wood\") standing for a tree or plant and 口(口) (kǒu, \"mouth\") possibly suggesting the enjoyment or edibility of the apricot's fruit. Though Shuowen proposed a phono-semantic origin with 可(可) (kě, \"can\"), the ideogram explanation focused on the fruit's appeal is more intuitive.",
+    "description": "木(木) (mù, \"wood\") + 口(口) (kǒu, \"mouth\") -> referring to the tastiness of apricot fruit",
+    "interpretation": "The combination of 木(木) (mù, \"wood\") and 口(口) (kǒu, \"mouth\") intuitively suggests the appealing nature of apricots, as wood represents the tree and mouth denotes savoring the fruit.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公园里有杏(公園裡有杏)。",
-      "pinyin": "Gōngyuán lǐ yǒu xìng.",
-      "english": "There are apricots in the park."
+      "chinese": "我喜欢吃杏子(我喜歡吃杏子)。",
+      "pinyin": "Wǒ xǐhuān chī xìngzi.",
+      "english": "I like to eat apricots."
     },
     {
-      "chinese": "夏天来临时(夏天來臨時)，杏果成熟饱满(杏果成熟飽滿)。",
-      "pinyin": "Xiàtiān láilín shí, xìng guǒ chéngshú bǎomǎn.",
-      "english": "When summer arrives, the apricot fruits ripen fully."
+      "chinese": "杏树上结满了果实(杏樹上結滿了果實)。",
+      "pinyin": "Xìng shù shàng jié mǎnle guǒshí.",
+      "english": "The apricot tree is full of fruit."
     },
     {
-      "chinese": "老农种杏树(老農種杏樹)，收获满满喜悦溢于言表(收穫滿滿喜悅溢於言表)。",
-      "pinyin": "Lǎo nóng zhòng xìngshù, shōuhuò mǎnmǎn xǐyuè yì yú yánbiǎo.",
-      "english": "The old farmer plants apricot trees, and his harvest overflows with joy."
+      "chinese": "春天时(春天時)，杏花开得特别美丽(杏花開得特別美麗)。",
+      "pinyin": "Chūntiān shí, xìnghuā kāi de tèbié měilì.",
+      "english": "In spring, apricot blossoms bloom beautifully."
     }
   ]
 }

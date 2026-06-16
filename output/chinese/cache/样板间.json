@@ -5,41 +5,46 @@
   "english": "showroom",
   "etymology": {
     "type": "compound word",
-    "description": "样(樣) (yàng, \"appearance\") + 板(板) (bǎn, \"board; model\") + 间(間) (jiān, \"room\")",
-    "interpretation": "The term 样板间(樣板間) (yàngbǎnjiān, \"showroom\") combines 样(樣) (yàng, \"appearance\") to suggest an example or display, with 板(板) (bǎn, \"model\"), indicating a model or template, and 间(間) (jiān, \"room\"), referring to the physical space. Together, they describe a room that displays a model or example, often used in real estate to exhibit how a finished living space might look.",
-    "simplification": "样板间 is the simplified form of 樣板間."
+    "description": "樣(樣) (yàng, \"appearance; pattern\") + 板(板) (bǎn, \"board; template\") + 間(間) (jiān, \"room; between\") combine to describe a space designed to show a template or example layout, hence 'showroom'. The idea is that the room (間) represents a pattern (樣板) that can be replicated or followed.",
+    "interpretation": "樣(樣) (yàng, \"appearance; pattern\") suggests an outward appearance or model form. 板(板) (bǎn, \"board; template\") implies a standard or mold that can be followed. 間(間) (jiān, \"room; between\") refers to a physical space. Together, this forms the concept of a room set up to display a model for others to replicate, embodying the notion of a showroom.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "样",
       "trad": "樣",
       "pinyin": "yàng",
-      "english": "appearance; shape; manner"
+      "english": "appearance; pattern"
     },
     {
       "char": "板",
       "trad": "板",
       "pinyin": "bǎn",
-      "english": "board; plank; model"
+      "english": "board; template"
     },
     {
       "char": "间",
       "trad": "間",
       "pinyin": "jiān",
-      "english": "room; between; space"
+      "english": "room; between"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他带我们参观样板间(他帶我們參觀樣板間)。",
-      "pinyin": "Tā dài wǒmen cānguān yàngbǎnjiān.",
-      "english": "He took us to visit the showroom."
+      "chinese": "我们参观了样板间(我們參觀了樣板間)。",
+      "pinyin": "Wǒmen cānguānle yàngbǎnjiān.",
+      "english": "We visited the showroom."
     },
     {
-      "chinese": "新的样板间装修精美(新的樣板間裝修精美)，吸引了很多顾客(吸引了很多顧客)。",
-      "pinyin": "Xīn de yàngbǎnjiān zhuāngxiū jīngměi, xīyǐn le hěn duō gùkè.",
-      "english": "The new showroom is exquisitely decorated and attracts many customers."
+      "chinese": "装修公司提供了几个样板间(裝修公司提供了幾個樣板間)，供客户参考(供客戶參考)。",
+      "pinyin": "Zhuāngxiū gōngsī tígōngle jǐ gè yàngbǎnjiān, gōng kè hù cānkǎo.",
+      "english": "The renovation company provided several showrooms for clients to reference."
+    },
+    {
+      "chinese": "新的样板间展示了最新的家居设计(新的樣板間展示了最新的家居設計)。",
+      "pinyin": "Xīn de yàngbǎnjiān zhǎnshìle zuìxīn de jiājū shèjì.",
+      "english": "The new showroom displayed the latest home designs."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "hamburger",
   "etymology": {
     "type": "compound word",
-    "description": "漢(漢) (hàn, \"Han Chinese\") is used here to denote something foreign or international, while 堡(堡) (bǎo, \"fort; castle\") suggests a compact, layered structure. Together, 漢堡(漢堡) (hànbǎo, \"hamburger\") refers to the Western-style sandwich known as a hamburger.",
-    "interpretation": "The word 汉堡(漢堡) (hànbǎo) is a calque that combines the idea of foreign influence or Western origin (漢) with the structural imagery of a layered sandwich (堡), representing the hamburger's physical form and its introduced cultural context. This reflects the adaptation of foreign culinary concepts within Chinese language and culture.",
+    "description": "漢(漢) (hàn, \"Han\"); 堡(堡) (bǎo, \"fort; castle\")",
+    "interpretation": "漢(漢) (hàn, \"Han\") often represents the ethnic group or language but here is used phonetically. 堡(堡) (bǎo, \"fort; castle\") is a phonetic component capturing the pronunciation of the word. When combined, 漢堡(漢堡) (hànbǎo, \"hamburger\") represents the borrowed term for 'hamburger', utilizing both characters for their phonetic similarity to the English term rather than semantic meaning.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "汉",
       "trad": "漢",
       "pinyin": "hàn",
-      "english": "Han Chinese; Chinese"
+      "english": "Han"
     },
     {
       "char": "堡",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃汉堡(我喜歡吃漢堡)。",
-      "pinyin": "Wǒ xǐhuān chī hànbǎo.",
-      "english": "I like to eat hamburgers."
+      "chinese": "我今天中午吃了一个汉堡(我今天中午吃了一個漢堡)。",
+      "pinyin": "Wǒ jīntiān zhōngwǔ chīle yī gè hànbǎo.",
+      "english": "I had a hamburger for lunch today."
     },
     {
-      "chinese": "他点了一个汉堡(他點了一個漢堡)，加一份薯条(加一份薯條)。",
-      "pinyin": "Tā diǎnle yīgè hànbǎo, jiā yī fèn shǔtiáo.",
-      "english": "He ordered a hamburger and a portion of fries."
+      "chinese": "这家店的汉堡非常美味(這家店的漢堡非常美味)。",
+      "pinyin": "Zhè jiā diàn de hànbǎo fēicháng měiwèi.",
+      "english": "The hamburgers at this place are very delicious."
     },
     {
-      "chinese": "在快餐店里(在快餐店裡)，汉堡总是新鲜美味(漢堡總是新鮮美味)。",
-      "pinyin": "Zài kuàicāndiàn lǐ, hànbǎo zǒng shì xīnxiān měiwèi.",
-      "english": "Hamburgers are always fresh and delicious in fast food restaurants."
+      "chinese": "小明买了两个汉堡(小明買了兩個漢堡)，还买了一瓶可乐(還買了一瓶可樂)。",
+      "pinyin": "Xiǎo Míng mǎile liǎng gè hànbǎo, hái mǎile yī píng kělè.",
+      "english": "Xiao Ming bought two hamburgers and also bought a bottle of cola."
     }
   ]
 }

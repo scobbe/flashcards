@@ -1,0 +1,28 @@
+{
+  "simplified": "圂",
+  "traditional": "圂",
+  "pinyin": "hùn",
+  "english": "confused",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts 囗(囗) (wéi, \"enclosure\") enclosing 豕(豕) (shǐ, \"pig\") -> pen or pigsty",
+    "interpretation": "The character 圂(hùn, \"confused\") historically depicts a pig within an enclosure, symbolizing a pigsty. The association with being 'confused' arises metaphorically from the cramped and potentially chaotic environment of the pigsty.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

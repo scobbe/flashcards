@@ -5,8 +5,8 @@
   "english": "line up",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "歹(歹) (dǎi, \"skeletal remains\") + 刀(刀) (dāo, \"knife\") = to tear apart -> line up",
-    "interpretation": "The character 列 originally combines 歹(歹) (dǎi, \"skeletal remains\") with 刀(刀) (dāo, \"knife\") to convey the idea of cutting or tearing apart, akin to separating bones. This visual of arranging bones in a specific order or line leads to the modern meaning of 'line up.'",
+    "description": "歹(歹) (dǎi, \"skeletal remains\") + 刀(刀) (dāo, \"knife\") -> to tear apart",
+    "interpretation": "The character 列(liè, \"line up\") is an ideogrammic compound where the component 歹(歹) (dǎi, \"skeletal remains\") combined with 刀(刀) (dāo, \"knife\") evokes the action of dividing or tearing something apart, akin to arranging skeletal remains. This concept connects to the sense of orderly arranging or lining up elements.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们需要把桌椅排成一列(我們需要把桌椅排成一列)。",
-      "pinyin": "Wǒmen xūyào bǎ zhuōyǐ páichéng yī liè.",
-      "english": "We need to line up the tables and chairs."
+      "chinese": "在火车站，大家排成一列(在火車站，大家排成一列)。",
+      "pinyin": "Zài huǒchē zhàn, dàjiā páichéng yī liè.",
+      "english": "At the train station, everyone lined up."
     },
     {
-      "chinese": "士兵们整齐地列成一列(士兵們整齊地列成一列)，等待长官检阅(等待長官檢閱)。",
-      "pinyin": "Shìbīngmen zhěngqí de liè chéng yī liè, děngdài zhǎngguān jiǎnyuè.",
-      "english": "The soldiers lined up neatly, waiting for the officer's inspection."
+      "chinese": "学生们依次列队进入教室(學生們依次列隊進入教室)。",
+      "pinyin": "Xuéshēngmen yīcì lièduì jìnrù jiàoshì.",
+      "english": "The students lined up in order to enter the classroom."
     },
     {
-      "chinese": "火车一列接一列地驶过(火車一列接一列地駛過)。",
-      "pinyin": "Huǒchē yī liè jiē yī liè de shǐguò.",
-      "english": "The trains passed one line after another."
+      "chinese": "他拥有优秀的领导才能(他擁有優秀的領導才能)，总是能把团队列成一条线(總是能把團隊列成一條線)。",
+      "pinyin": "Tā yǒngyǒu yōuxiù de lǐngdǎo cáinéng, zǒng shì néng bǎ tuánduì liè chéng yī tiáo xiàn.",
+      "english": "He has excellent leadership abilities and can always line up the team in a row."
     }
   ]
 }

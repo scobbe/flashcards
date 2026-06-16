@@ -1,0 +1,44 @@
+{
+  "simplified": "碼",
+  "traditional": "碼",
+  "pinyin": "mǎ",
+  "english": "code",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 石(石) (shí, \"stone; rock\") + phonetic 馬(馬) (mǎ, \"horse\") -> code",
+    "interpretation": "In this character, 石(石) (shí, \"stone; rock\") provides the meaning component suggesting something solid, substantial, or foundational, like a block or unit. 馬(馬) (mǎ, \"horse\") is borrowed for its sound to give the pronunciation. The sense of 'code' can be associated as a foundational unit of communication or computation.",
+    "simplification": "Simplified as 码, where the left component 石(石) (shí, \"stone\") is replaced by a simpler form 讠, which represents speech or language elements to reflect the coding aspect."
+  },
+  "parts": [
+    {
+      "char": "石",
+      "trad": "石",
+      "pinyin": "shí",
+      "english": "stone; rock"
+    },
+    {
+      "char": "馬",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我需要你的邮政编码(我需要你的郵政編碼)。",
+      "pinyin": "Wǒ xūyào nǐ de yóuzhèng biānmǎ.",
+      "english": "I need your postal code."
+    },
+    {
+      "chinese": "请告诉我网页的源代码(請告訴我網頁的源代碼)。",
+      "pinyin": "Qǐng gàosù wǒ wǎngyè de yuán dàimǎ.",
+      "english": "Please tell me the source code of the webpage."
+    },
+    {
+      "chinese": "这个代码很复杂(這個代碼很複雜)。",
+      "pinyin": "Zhège dàimǎ hěn fùzá.",
+      "english": "This code is very complex."
+    }
+  ]
+}

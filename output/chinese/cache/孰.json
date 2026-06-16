@@ -5,8 +5,8 @@
   "english": "cooked; ripe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 𦎫 (shú) + semantic 丮 (to grasp) -> modern script corrupted to 享 (xiǎng, \"enjoy\") + 丸 (wán, \"pill\") -> resulting form 孰 (shú, \"cooked; ripe\")",
-    "interpretation": "The character 孰 (shú) originated from a combination of the components 𦎫 (phonetic value) and 丮 (semantic meaning of grasping or holding). Over time, the script evolved, with 𦎫 becoming 享 (used for its phonetic value) and 丮 transforming into 丸, leading to the current form that retains the sense of something that is fully processed or ripe as if grasped or completed.",
+    "description": "phonetic 𦎫 + semantic 丮 -> modern script 享 + 丸 -> 孰",
+    "interpretation": "The character 孰 originally incorporates 𦎫, which provides the sound, and 丮, which signifies grasping, representing the concept of acquiring knowledge as something 'cooked' or 'ripe' through experience. Over time, in modern script, these components have transformed into 享, maintaining similar sounds, and 丸, completing the current form.",
     "simplification": ""
   },
   "parts": [
@@ -23,22 +23,6 @@
       "english": "pill"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "这个苹果已经孰(這個蘋果已經孰)。",
-      "pinyin": "Zhège píngguǒ yǐjīng shú.",
-      "english": "This apple is already ripe."
-    },
-    {
-      "chinese": "当果子孰时(當果子孰時)，它会掉落(它會掉落)。",
-      "pinyin": "Dāng guǒzi shú shí, tā huì diàoluò.",
-      "english": "When the fruit is ripe, it will fall."
-    },
-    {
-      "chinese": "他在等肉孰(他在等肉孰)，才能开始吃(才能開始吃)。",
-      "pinyin": "Tā zài děng ròu shú, cái néng kāishǐ chī.",
-      "english": "He is waiting for the meat to be cooked before he starts eating."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

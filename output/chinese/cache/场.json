@@ -5,9 +5,9 @@
   "english": "open space; place; field; stage",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "土(土) (tǔ, \"earth\") + phonetic: 昜(昜) (yáng, \"sun\") = place associated with land \"open space\" -> field or stage",
-    "interpretation": "场(場) (chǎng, \"open space\") combines the semantics of 土(土) (tǔ, \"earth\") with the phonetic indication of 昜(昜) (yáng, \"sun\") to denote an open area or place, such as a field or stage.",
-    "simplification": "场(場): Simplified by adjusting the phonetic component 昜(昜) visually, preserving the core semantic and phonetic elements."
+    "description": "semantic 土(土) (tǔ, \"earth\") + phonetic 昜(昜) (yáng) -> open space",
+    "interpretation": "土(土) (tǔ, \"earth\") represents the ground or a place, while 昜(昜) (yáng) provides the sound. The combination denotes a physical expanse of land, which extends to 'place' and 'open space', and metaphorically to 'stage' or 'field' as areas for events or activities.",
+    "simplification": "Simplified from 場 (場) by replacing 昜(昜) (yáng) with 𠃓."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "昜",
       "trad": "昜",
       "pinyin": "yáng",
-      "english": "sun"
+      "english": "open; bright"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "体育场(體育場)上，运动员比赛(運動員比賽)。",
-      "pinyin": "Tǐyùchǎng shàng, yùndòngyuán bǐsài.",
-      "english": "At the stadium, athletes compete."
+      "chinese": "这个足球场(這個足球場)很大，可以容纳两万人(可以容納兩萬人)。",
+      "pinyin": "Zhège zúqiúchǎng hěn dà, kěyǐ róngnà liǎng wàn rén.",
+      "english": "This football field is very large and can accommodate twenty thousand people."
     },
     {
-      "chinese": "露天剧场(露天劇場)中，演员演出(演員演出)。",
-      "pinyin": "Lùtiān jùchǎng zhōng, yǎnyuán yǎnchū.",
-      "english": "In the open-air theater, actors perform."
+      "chinese": "市场上(市場上)有很多新鲜的水果(有很多新鮮的水果)。",
+      "pinyin": "Shìchǎng shàng yǒu hěn duō xīnxiān de shuǐguǒ.",
+      "english": "There are many fresh fruits in the market."
     },
     {
-      "chinese": "演唱会场(演唱會場)内，歌迷热情洋溢(歌迷熱情洋溢)。",
-      "pinyin": "Yǎnchànghuì chǎng nèi, gēmí rèqíng yángyì.",
-      "english": "Inside the concert venue, fans exude enthusiasm."
+      "chinese": "他在舞台上表演(他在舞台上表演)，观众热烈鼓掌(觀眾熱烈鼓掌)。",
+      "pinyin": "Tā zài wǔtái shàng biǎoyǎn, guānzhòng rèliè gǔzhǎng.",
+      "english": "He performed on stage, and the audience applauded enthusiastically."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "the people",
   "etymology": {
     "type": "compound word",
-    "description": "人(人) (rén, \"person\") + 民(民) (mín, \"people\") = collective term for a population or the citizens of a country -> the people",
-    "interpretation": "人民(人民) (rénmín, \"the people\") combines 人(人) (rén, \"person\") and 民(民) (mín, \"people\") to convey the idea of a collective group of individuals that form the population of a nation or society. It emphasizes the concept of unity among individuals as constituents of a community or country.",
+    "description": "人(人) (rén, \"person\") denotes an individual or human being. 民(民) (mín, \"people\") signifies the people or populace. Together, 人民(人民) (rénmín, \"the people\") represents the collective body of individuals within a community or nation.",
+    "interpretation": "人(人) (rén, \"person\") signifies an individual human, while 民(民) (mín, \"people\") refers to the collective populace. The combination of these characters captures the concept of all individuals forming a nation or society. The image of many 人(人) (rén, \"person\") constituting a single 民(民) (mín, \"people\") group effectively conveys the idea of a community or population as a whole.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "人",
       "trad": "人",
       "pinyin": "rén",
-      "english": "person; man; people; human"
+      "english": "person; human; individual; people"
     },
     {
       "char": "民",
       "trad": "民",
       "pinyin": "mín",
-      "english": "people; citizens; folk; the masses"
+      "english": "people; populace; citizenry; folk"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "人民是国家的基石(人民是國家的基石)。",
-      "pinyin": "rénmín shì guójiā de jīshí",
-      "english": "The people are the cornerstone of the nation."
+      "chinese": "人民(人民)是国家的基础(是國家的基礎)。",
+      "pinyin": "Rénmín shì guójiā de jīchǔ.",
+      "english": "The people are the foundation of the nation."
     },
     {
-      "chinese": "政府依靠人民(政府依靠人民)，共同创造繁荣(共同創造繁榮)。",
-      "pinyin": "zhèngfǔ yīkào rénmín, gòngtóng chuàngzào fánróng",
-      "english": "The government relies on the people, together creating prosperity."
+      "chinese": "政府应该服务人民(政府應該服務人民)，不是官僚(不是官僚)。",
+      "pinyin": "Zhèngfǔ yīnggāi fúwù rénmín, bùshì guānliáo.",
+      "english": "The government should serve the people, not bureaucrats."
     },
     {
-      "chinese": "革命属于人民(革命屬於人民)，人民实现了解放(人民實現了解放)。",
-      "pinyin": "gémìng shǔyú rénmín, rénmín shíxiàn le jiěfàng",
-      "english": "Revolution belongs to the people, and the people achieved liberation."
+      "chinese": "人民有权利决定自己的未来(人民有權利決定自己的未來)。",
+      "pinyin": "Rénmín yǒu quánlì juédìng zìjǐ de wèilái.",
+      "english": "The people have the right to decide their own future."
     }
   ]
 }

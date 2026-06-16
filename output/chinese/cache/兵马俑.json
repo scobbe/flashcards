@@ -5,8 +5,8 @@
   "english": "Terracotta Warriors",
   "etymology": {
     "type": "compound word",
-    "description": "兵(兵) (bīng, \"soldier; military\"), 马(馬) (mǎ, \"horse\"), 俑(俑) (yǒng, \"figurine\")",
-    "interpretation": "The term 兵马俑(兵馬俑) (bīngmǎyǒng) refers to the life-sized terracotta statues of soldiers and horses that were buried with the first Emperor of China, Qin Shi Huang, to protect him in the afterlife. These figures, found in Xi'an, represent a combination of military power with artistic craftsmanship, highlighting the importance of the military in ancient Chinese society.",
+    "description": "兵(兵) (bīng, \"soldier\") refers to the military personnel or troops. 馬(馬) (mǎ, \"horse\") represents the mounts for soldiers, highlighting the cavalry element. 俑(俑) (yǒng, \"figurine\") specifically denotes burial figurines or statues, often crafted to serve the deceased in the afterlife.",
+    "interpretation": "兵(兵) (bīng, \"soldier\") conveys the concept of military troops, while 馬(馬) (mǎ, \"horse\") emphasizes the involvement of cavalry, indicating the military aspect of the figures. 俑(俑) (yǒng, \"figurine\") suggests these are not real individuals but sculpted figures meant for burial use, enhancing the sacred duty of serving in the afterlife. Together, 兵马俑 signifies the Terracotta Warriors, illustrating an army of lifelike soldier and horse statues buried to protect the emperor in the afterlife.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "兵",
       "trad": "兵",
       "pinyin": "bīng",
-      "english": "soldier; military"
+      "english": "soldier"
     },
     {
       "char": "马",
@@ -26,25 +26,25 @@
       "char": "俑",
       "trad": "俑",
       "pinyin": "yǒng",
-      "english": "figurine"
+      "english": "figurine; burial statue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "兵马俑展示古代军队的威武(兵馬俑展示古代軍隊的威武)。",
-      "pinyin": "bīngmǎyǒng zhǎnshì gǔdài jūnduì de wēiwǔ.",
-      "english": "The Terracotta Warriors display the grandeur of the ancient army."
+      "chinese": "兵马俑(兵馬俑)是中国古代文化的瑰宝(是中國古代文化的瑰寶)。",
+      "pinyin": "Bīngmǎyǒng shì Zhōngguó gǔdài wénhuà de guībǎo.",
+      "english": "The Terracotta Warriors are a treasure of ancient Chinese culture."
     },
     {
-      "chinese": "许多人参观兵马俑(許多人參觀兵馬俑)，感受到了历史的震撼(感受到了歷史的震撼)。",
-      "pinyin": "xǔ duō rén cānguān bīngmǎyǒng, gǎnshòu dàole lìshǐ de zhènhàn.",
-      "english": "Many people visited the Terracotta Warriors and felt the shock of history."
+      "chinese": "参观兵马俑(參觀兵馬俑)后，他对中国历史更感兴趣了(他對中國歷史更感興趣了)。",
+      "pinyin": "Cānguān bīngmǎyǒng hòu, tā duì Zhōngguó lìshǐ gèng gǎn xìngqù le.",
+      "english": "After visiting the Terracotta Warriors, he became more interested in Chinese history."
     },
     {
-      "chinese": "兵马俑是秦始皇陵的陪葬品(兵馬俑是秦始皇陵的陪葬品)，展示了古代工匠的智慧(展示了古代工匠的智慧)。",
-      "pinyin": "bīngmǎyǒng shì qínshǐhuáng líng de péizàngpǐn, zhǎnshìle gǔdài gōngjiàng de zhìhuì.",
-      "english": "The Terracotta Warriors, as burial artifacts of Qin Shi Huang's mausoleum, showcase the ingenuity of ancient craftsmen."
+      "chinese": "许多人来到西安(許多人來到西安)，就是为了一睹兵马俑的风采(就是為了一睹兵馬俑的風采)。",
+      "pinyin": "Xǔduō rén láidào Xī'ān, jiùshì wèile yī dǔ bīngmǎyǒng de fēngcǎi.",
+      "english": "Many people come to Xi'an just to witness the grandeur of the Terracotta Warriors."
     }
   ]
 }

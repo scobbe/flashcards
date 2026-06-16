@@ -4,41 +4,25 @@
   "pinyin": "qǐ",
   "english": "how",
   "etymology": {
-    "type": "variation",
-    "description": "Possibly a variation of 壴(壴) (zhù, \"drum\") with the top part modified -> related to 凱(凱) (kǎi, \"music of triumph\")",
-    "interpretation": "The character 豈(qǐ) originally may have depicted or been associated with a drum, symbolizing its connection to the idea of musical triumph. The modified top part differentiates it from similar characters like 壴(壴) (zhù, \"drum\"), leading to its unique modern meaning of \"how\" in expressions.",
+    "type": "phono-semantic compound",
+    "description": "Possibly a variation of 壴(壴) (zhù, 'drum') with a modified top part -> evolved into original form of 凱(凱) (kǎi, 'music of triumph') -> phonetic value later used for 'how'",
+    "interpretation": "The character may originally depict a type of musical instrument, specifically a drum, with its form adapted and later associated with the meaning 'music of triumph'. It is thought to contribute phonetic value to related characters rather than semantic meaning, later evolving phonetically to express the interrogative 'how'.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "壴",
-      "trad": "壴",
-      "pinyin": "zhù",
-      "english": "drum"
-    },
     {
       "char": "凱",
       "trad": "凱",
       "pinyin": "kǎi",
       "english": "music of triumph"
+    },
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "若不努力(若不努力)，豈能成功(豈能成功)？",
-      "pinyin": "ruò bù nǔ lì, qǐ néng chéng gōng?",
-      "english": "If you do not work hard, how can you succeed?"
-    },
-    {
-      "chinese": "只要心中有夢(只要心中有夢)，豈會輕言放棄(豈會輕言放棄)？",
-      "pinyin": "zhǐ yào xīn zhōng yǒu mèng, qǐ huì qīng yán fàng qì?",
-      "english": "As long as you have a dream in your heart, how could you easily give up?"
-    },
-    {
-      "chinese": "豈可輕忽天命(豈可輕忽天命)！",
-      "pinyin": "qǐ kě qīng hū tiān mìng!",
-      "english": "How can one disregard destiny!"
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

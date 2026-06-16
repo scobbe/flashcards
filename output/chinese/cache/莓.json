@@ -5,8 +5,8 @@
   "english": "berry",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + 韋(韋) (wéi, phonetic) = plant-related character -> berry",
-    "interpretation": "The character 莓(莓) (méi, \"berry\") combines 艹(艹) (cǎo, \"grass\"), which signifies its association with plants, and 韋(韋) (wéi) provides the phonetic component, suggesting the pronunciation.",
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 每(每) (měi)",
+    "interpretation": "The character 莓(莓) (méi, \"berry\") is formed with the semantic 艹(艹) (cǎo, \"grass\"), indicating a plant, and the phonetic 每(每) (měi), which suggests the pronunciation. The character's construction suggests a plant-related term with a sound similar to 每(每) (měi).",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "grass"
     },
     {
-      "char": "韋",
-      "trad": "韋",
-      "pinyin": "wéi",
-      "english": "phonetic"
+      "char": "每",
+      "trad": "每",
+      "pinyin": "měi",
+      "english": "each; every"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我摘了一些莓(我摘了一些莓)。",
-      "pinyin": "Wǒ zhāi le yīxiē méi.",
-      "english": "I picked some berries."
+      "chinese": "草莓是一种美味的水果(草莓是一種美味的水果)。",
+      "pinyin": "Cǎoméi shì yī zhǒng měiwèi de shuǐguǒ.",
+      "english": "Strawberry is a delicious fruit."
     },
     {
-      "chinese": "春天来临时(春天來臨時)，莓都开始生长(莓都開始生長)。",
-      "pinyin": "Chūntiān láilín shí, méi dōu kāishǐ shēngzhǎng.",
-      "english": "When spring arrives, berries begin to grow."
+      "chinese": "蓝莓富含维生素C(藍莓富含維生素C)，对身体有益(對身體有益)。",
+      "pinyin": "Lánméi fùhán wéishēngsù C, duì shēntǐ yǒuyì.",
+      "english": "Blueberries are rich in vitamin C and are beneficial to the body."
     },
     {
-      "chinese": "你试试这莓(你試試這莓)，你会爱上它的味道(你會愛上它的味道)。",
-      "pinyin": "Nǐ shì shì zhè méi, nǐ huì ài shàng tā de wèidào.",
-      "english": "Try this berry, and you'll fall in love with its taste."
+      "chinese": "去年夏天，我们在山上摘了很多野莓(去年夏天，我們在山上摘了很多野莓)。",
+      "pinyin": "Qùnián xiàtiān, wǒmen zài shānshang zhāi le hěn duō yěméi.",
+      "english": "Last summer, we picked many wild berries on the mountain."
     }
   ]
 }

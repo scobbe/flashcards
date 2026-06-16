@@ -5,8 +5,8 @@
   "english": "be free; no problem",
   "etymology": {
     "type": "compound word",
-    "description": "没(沒) (méi, \"not have\") + 事(事) (shì, \"matter; affair; problem\")",
-    "interpretation": "The phrase 没事(沒事) (méishì) means that there is no problem or nothing to worry about. By breaking it down, it conveys the idea of 'not have matters' or 'no affairs', suggesting that the person is free from issues or concerns. This expression is frequently used in everyday situations to reassure someone that everything is fine or there is no trouble.",
+    "description": "沒(沒) (méi, \"not have; drown\") + 事(事) (shì, \"matter; affair\") = \"no matter\" -> be free; no problem",
+    "interpretation": "沒(沒) (méi, \"not have\") negates the presence or occurrence of something, while 事(事) (shì, \"matter; affair\") broadly encompasses events, issues, or tasks. Together, the term 沒事(沒事) (méishì, \"be free; no problem\") logically suggests that there is nothing on hand that warrants concern or attention. In essence, if there is no matter to deal with, one is free or unoccupied, and there are no complications.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "没",
       "trad": "沒",
       "pinyin": "méi",
-      "english": "not have; without; drown; sink"
+      "english": "not have; drown"
     },
     {
       "char": "事",
       "trad": "事",
       "pinyin": "shì",
-      "english": "matter; affair; problem; thing"
+      "english": "matter; affair; event; task"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你忙完了(你忙完了)，没事(沒事)。",
-      "pinyin": "nǐ máng wán le, méishì.",
-      "english": "You're done with your work; it's all fine."
+      "chinese": "我今天沒事(我今天沒事)。",
+      "pinyin": "Wǒ jīntiān méishì.",
+      "english": "I'm free today."
     },
     {
-      "chinese": "遇到困难时(遇到困難時)，没事(沒事)。",
-      "pinyin": "yù dào kùn nán shí, méishì.",
-      "english": "When you face difficulties, it's no problem."
+      "chinese": "小問題，沒事(小問題，沒事)。",
+      "pinyin": "Xiǎo wèntí, méishì.",
+      "english": "It's a small issue, no problem."
     },
     {
-      "chinese": "受了点小伤(受了點小傷)，没事吧(沒事吧)？",
-      "pinyin": "shòu le diǎn xiǎo shāng, méishì ba?",
-      "english": "You got a minor injury; it's okay, isn’t it?"
+      "chinese": "如果你沒事(如果你沒事)，我們可以一起去看電影(我們可以一起去看電影)。",
+      "pinyin": "Rúguǒ nǐ méishì, wǒmen kěyǐ yīqǐ qù kàn diànyǐng.",
+      "english": "If you're free, we can go watch a movie together."
     }
   ]
 }

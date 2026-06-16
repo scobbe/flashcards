@@ -5,8 +5,8 @@
   "english": "dad",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 父(父) (fù, \"father\") + phonetic 巴(巴) (bā, \"adhere\") = 父 with phonetic element 巴 for sound -> \"dad\"",
-    "interpretation": "The character 爸 combines the significance of 父(父) (fù, \"father\") to convey the meaning and uses 巴(巴) (bā) to suggest the pronunciation, creating an informal term for 'father' or 'dad'.",
+    "description": "semantic 父(父) (fù, \"father\") + phonetic 巴(巴) (bā) -> \"dad\"",
+    "interpretation": "The character 爸 (bà, \"dad\") combines 父(父) (fù, \"father\") as the meaning component to indicate paternal relation, with 巴(巴) (bā) providing the sound. This combination specifies an informal or affectionate term for a father.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "巴",
       "trad": "巴",
       "pinyin": "bā",
-      "english": "adhere"
+      "english": "to cling"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我爱我的爸(我愛我的爸)。",
-      "pinyin": "Wǒ ài wǒ de bà.",
-      "english": "I love my dad."
+      "chinese": "爸爸喜欢钓鱼(爸爸喜歡釣魚)。",
+      "pinyin": "Bàba xǐhuān diàoyú.",
+      "english": "Dad likes fishing."
     },
     {
-      "chinese": "当太阳下山时(當太陽下山時)，爸在厨房准备晚饭(爸在廚房準備晚飯)。",
-      "pinyin": "Dāng tàiyáng xiàshān shí, bà zài chúfáng zhǔnbèi wǎnfàn.",
-      "english": "When the sun sets, dad prepares dinner in the kitchen."
+      "chinese": "我跟爸爸去过很多地方(我跟爸爸去過很多地方)。",
+      "pinyin": "Wǒ gēn bàba qùguò hěn duō dìfāng.",
+      "english": "I have been to many places with dad."
     },
     {
-      "chinese": "每个周末他都会带爸去钓鱼(每個週末他都會帶爸去釣魚)。",
-      "pinyin": "Měi gè zhōumò tā dūhuì dài bà qù diàoyú.",
-      "english": "Every weekend, he takes his dad fishing."
+      "chinese": "每个周末(每個週末)，爸爸都会带我去公园(爸爸都會帶我去公園)。",
+      "pinyin": "Měi gè zhōumò，bàba dōu huì dài wǒ qù gōngyuán.",
+      "english": "Every weekend, dad takes me to the park."
     }
   ]
 }

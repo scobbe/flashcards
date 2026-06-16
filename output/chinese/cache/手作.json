@@ -5,8 +5,8 @@
   "english": "handmade",
   "etymology": {
     "type": "compound word",
-    "description": "手(手) (shǒu, \"hand\") + 作(作) (zuò, \"make\"); 手作(手作) (shǒu zuò, \"handmade\") refers to items that are crafted by hand.",
-    "interpretation": "The term 手作(手作) (shǒu zuò, \"handmade\") indicates that something is crafted manually rather than being mass-produced by machines. This conveys a sense of craftsmanship and the personal touch involved in the creation process.",
+    "description": "手(手) (shǒu, \"hand\") + 作(作) (zuò, \"make; work\") combine to form 手作(手作), meaning \"handmade\".",
+    "interpretation": "手(手) (shǒu, \"hand\") refers to the direct involvement of the hands in creating something, emphasizing the manual aspect of the process. 作(作) (zuò, \"make; work\") indicates the act of producing or crafting. Together, 手作(手作) implies creating something by hand, highlighting the traditional or artisanal nature of the work, as opposed to machine-made products.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "作",
       "trad": "作",
       "pinyin": "zuò",
-      "english": "make; create; do; work"
+      "english": "make; work; act"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢手作饰品(我喜歡手作飾品)。",
-      "pinyin": "Wǒ xǐhuan shǒu zuò shìpǐn.",
-      "english": "I like handmade jewelry."
+      "chinese": "我喜欢手作的礼物(我喜歡手作的禮物)。",
+      "pinyin": "Wǒ xǐhuān shǒu zuò de lǐwù.",
+      "english": "I like handmade gifts."
     },
     {
-      "chinese": "这家店出售手作蛋糕(這家店出售手作蛋糕)，味道十分独特(味道十分獨特)。",
-      "pinyin": "Zhè jiā diàn chūshòu shǒu zuò dàngāo, wèidào shífēn dú tè.",
-      "english": "This shop sells handmade cakes, and they taste very unique."
+      "chinese": "市场上展示了许多精美的手作饰品(市場上展示了許多精美的手作飾品)。",
+      "pinyin": "Shìchǎng shàng zhǎnshìle xǔduō jīngměi de shǒu zuò shìpǐn.",
+      "english": "The market showcased many exquisite handmade accessories."
+    },
+    {
+      "chinese": "她在周末开设了一个手作工作坊(她在週末開設了一個手作工作坊)。",
+      "pinyin": "Tā zài zhōumò kāishèle yī gè shǒu zuò gōngzuòfāng.",
+      "english": "She started a handmade workshop on the weekend."
     }
   ]
 }

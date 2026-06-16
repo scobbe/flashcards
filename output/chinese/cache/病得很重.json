@@ -5,8 +5,8 @@
   "english": "seriously ill",
   "etymology": {
     "type": "compound word",
-    "description": "病(病) (bìng, \"illness\") + 得(得) (de, \"complement particle\") + 很(很) (hěn, \"very\") + 重(重) (zhòng, \"heavy\") indicates the condition of being seriously ill.",
-    "interpretation": "This combination conveys the idea of an illness (病) being severe (重) to a degree (很) that is significant or serious (得). It is used to describe a person whose health condition is seriously affected.",
+    "description": "病(病) (bìng, \"illness\") + 得(得) (de, \"structural particle\") + 很(很) (hěn, \"very\") + 重(重) (zhòng, \"heavy\") together form the phrase, indicating a severe state of illness.",
+    "interpretation": "病(病) (bìng, \"illness\") refers to a state of being unwell. 得(得) (de, \"structural particle\") is used after an adjective to form a complement indicating the degree or manner of the preceding action or state. 很(很) (hěn, \"very\") intensifies the adjective following it. 重(重) (zhòng, \"heavy\") conveys the seriousness or gravity of the condition. Together, '病得很重' literally describes an illness that is 'very heavy,' metaphorically indicating a severe or serious illness.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "得",
       "trad": "得",
       "pinyin": "de",
-      "english": "complement particle"
+      "english": "structural particle"
     },
     {
       "char": "很",
@@ -32,20 +32,25 @@
       "char": "重",
       "trad": "重",
       "pinyin": "zhòng",
-      "english": "heavy; serious; important"
+      "english": "heavy; important"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生说他病得很重(醫生說他病得很重)，必须马上住院(必須馬上住院)。",
-      "pinyin": "Yīshēng shuō tā bìng de hěn zhòng，bìxū mǎshàng zhùyuàn。",
-      "english": "The doctor said he is seriously ill, and he must be hospitalized immediately."
+      "chinese": "他病得很重(他病得很重)，需要住院治疗(需要住院治療)。",
+      "pinyin": "Tā bìng de hěn zhòng, xūyào zhùyuàn zhìliáo.",
+      "english": "He is seriously ill and needs to be hospitalized for treatment."
     },
     {
-      "chinese": "昨晚他熬夜过度(昨晚他熬夜過度)，结果病得很重(結果病得很重)。",
-      "pinyin": "Zuówǎn tā áo yè guòdù，jiéguǒ bìng de hěn zhòng。",
-      "english": "He stayed up too late last night, and as a result, he is seriously ill."
+      "chinese": "医生说她病得很重(醫生說她病得很重)，必须马上送去急诊(必須馬上送去急診)。",
+      "pinyin": "Yīshēng shuō tā bìng de hěn zhòng, bìxū mǎshàng sòng qù jízhěn.",
+      "english": "The doctor said she is seriously ill and must be sent to the emergency room immediately."
+    },
+    {
+      "chinese": "他的父亲病得很重(他的父親病得很重)，因此家人非常担心(因此家人非常擔心)。",
+      "pinyin": "Tā de fùqīn bìng de hěn zhòng, yīncǐ jiārén fēicháng dānxīn.",
+      "english": "His father is seriously ill, so the family is very worried."
     }
   ]
 }

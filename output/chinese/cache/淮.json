@@ -5,14 +5,14 @@
   "english": "Huai River",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(水) (shuǐ, \"water\") + phonetic: 隹(隹) (zhuī, \"short-tailed bird\") = sound component -> name of Huai River",
-    "interpretation": "淮(淮) (huái, \"Huai River\") combines 氵(水) (shuǐ, \"water\") to convey its association with a body of water, specifically a river, and 隹(隹) (zhuī, \"short-tailed bird\") to provide the phonetic element. Together, they represent the Huai River, which is a major waterway in China.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 隹(隹) (zhuī) -> Huai River",
+    "interpretation": "The character combines 水(水) (shuǐ, \"water\") symbolizing a river, with 隹(隹) (zhuī), contributing the sound. This construction is used to denote the Huai River, specifically naming this geographic feature.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "沿着淮河寻找诗意(沿著淮河尋找詩意)。",
-      "pinyin": "Yánzhe Huái hé xúnzhǎo shīyì.",
-      "english": "Following the Huai River to seek poetic inspiration."
+      "chinese": "淮河是中国的一条重要河流(淮河是中國的一條重要河流)。",
+      "pinyin": "Huái hé shì Zhōngguó de yītiáo zhòngyào héliú.",
+      "english": "The Huai River is an important river in China."
     },
     {
-      "chinese": "春风送暖时(春風送暖時)，淮河水面闪烁着银光(淮河水面閃爍著銀光)。",
-      "pinyin": "Chūnfēng sòng nuǎn shí, Huái hé shuǐmiàn shǎnshuò zhe yínguāng.",
-      "english": "When the spring breeze warms the air, the surface of the Huai River sparkles with silver light."
+      "chinese": "每年夏季(每年夏季)，淮河流域常常发生洪水(淮河流域常常發生洪水)。",
+      "pinyin": "Měinián xiàjì, Huái hé liúyù chángcháng fāshēng hóngshuǐ.",
+      "english": "Every summer, floods often occur in the Huai River basin."
     },
     {
-      "chinese": "夜幕降临后(夜幕降臨後)，淮水流淌出古城的传说(淮水流淌出古城的傳說)。",
-      "pinyin": "Yèmù jiànglín hòu, Huái shuǐ liútǎng chū gǔchéng de chuánshuō.",
-      "english": "After dusk falls, the Huai waters flow out legends of the ancient city."
+      "chinese": "淮河的水质近年来有所改善(淮河的水質近年来有所改善)。",
+      "pinyin": "Huái hé de shuǐzhì jìnnián lái yǒusuǒ gǎishàn.",
+      "english": "The water quality of the Huai River has improved in recent years."
     }
   ]
 }

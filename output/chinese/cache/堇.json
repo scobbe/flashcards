@@ -5,8 +5,8 @@
   "english": "burnt earth",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "大 (person) + 火 (fire) + 廿 (mouth screaming) = a person being burned in a sacrificial ceremony",
-    "interpretation": "The character 堇 (jǐn) symbolizes a ritual involving burning a person as a sacrifice, reflected by the components 大 (dà, 'person'), 火 (huǒ, 'fire'), and 廿 (niàn, 'mouth'), which together suggest the scene of an ancient ceremony intended to invoke rain by offering burnt earth.",
+    "description": "大 (person) + 火 (fire) + 廿 (open mouth screaming) = a person being burned in a sacrificial ceremony -> burnt earth",
+    "interpretation": "The character 堇(jǐn, \"burnt earth\") combines the elements of a person 大(dà, \"big\") depicted as being part of a sacrifice, with 火(huǒ, \"fire\") representing a burning action. 廿(niàn, \"twenty\") is stylized here to depict an open mouth screaming, emphasizing the ritual aspect. The fire ritual thus conveys the idea of burnt earth used in sacrificial ceremonies, believed necessary for invoking rain or fertility in ancient practices.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "person"
+      "english": "big"
     },
     {
       "char": "火",
@@ -26,7 +26,7 @@
       "char": "廿",
       "trad": "廿",
       "pinyin": "niàn",
-      "english": "mouth"
+      "english": "twenty"
     }
   ],
   "in_contemporary_usage": false,

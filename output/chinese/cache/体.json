@@ -5,9 +5,9 @@
   "english": "body; style; form",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 骨(骨) (gǔ, \"bone\") + phonetic: 豊(豐) (lǐ, \"abundant\") = structure and form -> body",
-    "interpretation": "The character combines 骨(骨) (gǔ, \"bone\") to convey the idea of a physical structure with 豊(豐) (lǐ, \"abundant\") for its phonetic element. The combination suggests a well-formed body.",
-    "simplification": "體(體)→体(體): The 豊(豐) component was replaced by the simpler 大(大) (dà, \"big\") as a streamlined phonetic element."
+    "description": "semantic 骨 (gǔ, \"bone\") + phonetic 豊 (lǐ) -> representation of the body or form",
+    "interpretation": "The character combines 骨 (骨) (gǔ, \"bone\") serving as the semantic component to indicate something related to the physical structure or skeleton, and 豊 (lǐ) as the phonetic component to provide the sound. This combination suggests something pertaining to the body, emphasizing the underlying structure.",
+    "simplification": "体 (體) simplifies by reducing the complex 骨 (骨) (gǔ, \"bone\") component to 亻(亻) (rén, \"person\") for ease of writing, and replaces 豊 (lǐ) with 本 (běn, \"basis\") to retain a semblance of pronunciation."
   },
   "parts": [
     {
@@ -18,27 +18,27 @@
     },
     {
       "char": "豊",
-      "trad": "豐",
+      "trad": "豊",
       "pinyin": "lǐ",
-      "english": "abundant"
+      "english": "prosper; fertile"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的体态优美(他的體態優美)。",
-      "pinyin": "Tā de tǐtài yōuměi.",
-      "english": "His posture is graceful."
+      "chinese": "每天锻炼可以保持健康的身体(每天鍛鍊可以保持健康的身體)。",
+      "pinyin": "Měitiān duànliàn kěyǐ bǎochí jiànkāng de shēntǐ.",
+      "english": "Exercising daily can keep a healthy body."
     },
     {
-      "chinese": "这幅画运用了独特的体裁(這幅畫運用了獨特的體裁)，展现出艺术家的风格(展現出藝術家的風格)。",
-      "pinyin": "Zhè fú huà yùnyòngle dútè de tǐcái, zhǎnxiàn chū yìshùjiā de fēnggé.",
-      "english": "This painting employs a unique form, showcasing the artist's style."
+      "chinese": "书法有很多种字体(書法有很多種字體)，每种都有独特的风格(每種都有獨特的風格)。",
+      "pinyin": "Shūfǎ yǒu hěn duō zhǒng zìtǐ, měi zhǒng dōu yǒu dútè de fēnggé.",
+      "english": "There are many styles of calligraphy, each with a unique style."
     },
     {
-      "chinese": "这种字体简洁明快(這種字體簡潔明快)，蕴含传统韵味(蘊含傳統韻味)。",
-      "pinyin": "Zhè zhǒng zìtǐ jiǎnjié míngkuài, yùnhán chuántǒng yùnwèi.",
-      "english": "This typeface is concise and bright, containing traditional charm."
+      "chinese": "他的写作风格非常特别(他的寫作風格非常特別)，我非常喜欢(我非常喜歡)。",
+      "pinyin": "Tā de xiězuò fēnggé fēicháng tèbié, wǒ fēicháng xǐhuān.",
+      "english": "His writing style is very unique, and I like it a lot."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "late autumn",
   "etymology": {
     "type": "compound word",
-    "description": "寒(寒) (hán, \"cold\") refers to the chilly weather that often characterizes late autumn. 秋(秋) (qiū, \"autumn\") refers to the autumn season. Together, 寒秋 (hánqiū) suggests the late autumn period when the cold temperatures begin to set in.",
-    "interpretation": "寒秋 (hánqiū) captures the essence of autumn transitioning into winter, emphasizing the cooler and crisper weather typical during this time.",
+    "description": "寒(寒) (hán, \"cold\") refers to the chilliness often associated with the colder months. 秋(秋) (qiū, \"autumn\") represents the autumn season, a time known for cooler weather as it transitions towards winter.",
+    "interpretation": "The word 寒秋 (hánqiū, \"late autumn\") combines 寒(寒) (hán, \"cold\") and 秋(秋) (qiū, \"autumn\"), reflecting the late stage of autumn when the weather becomes noticeably colder, marking the transition into winter. This captures the tangible sensation of chilliness experienced during this time of year.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "寒",
       "trad": "寒",
       "pinyin": "hán",
-      "english": "cold; chilly; wintry"
+      "english": "cold; chilly"
     },
     {
       "char": "秋",
       "trad": "秋",
       "pinyin": "qiū",
-      "english": "autumn; fall; harvest time"
+      "english": "autumn; fall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "寒秋来临(寒秋來臨)，落叶纷飞(落葉紛飛)。",
-      "pinyin": "Hánqiū láilín, luòyè fēn fēi.",
-      "english": "Late autumn arrives, and the fallen leaves flutter about."
+      "chinese": "寒秋的夜晚很冷(寒秋的夜晚很冷)。",
+      "pinyin": "Hánqiū de yèwǎn hěn lěng.",
+      "english": "The late autumn nights are very cold."
     },
     {
-      "chinese": "寒秋时节(寒秋時節)，山水染上一抹冷色(山水染上一抹冷色)。",
-      "pinyin": "Hánqiū shíjié, shānshuǐ rǎn shàng yī mǒ lěngsè.",
-      "english": "In late autumn, the landscapes take on a tint of cool hues."
+      "chinese": "在寒秋的田野上(在寒秋的田野上)，我欣赏到了迷人的景色(我欣賞到了迷人的景色)。",
+      "pinyin": "Zài hánqiū de tiányě shàng, wǒ xīnshǎng dào le mírén de jǐngsè.",
+      "english": "In the late autumn fields, I admired the enchanting scenery."
+    },
+    {
+      "chinese": "寒秋到来时(寒秋到來時)，树叶变成了金黄色(樹葉變成了金黃色)。",
+      "pinyin": "Hánqiū dàolái shí, shùyè biànchéngle jīn huángsè.",
+      "english": "When late autumn arrives, the leaves turn golden."
     }
   ]
 }

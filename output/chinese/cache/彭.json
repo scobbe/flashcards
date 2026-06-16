@@ -4,30 +4,41 @@
   "pinyin": "péng",
   "english": "surname",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic: 彭(彭) (péng, phono-semantic) + Semantic: 彳(彳) (chì, 'step') = sounds like 'péng', suggests something large or expansive -> used as a surname",
-    "interpretation": "The character 彭(彭) (péng) combines sound and meaning to suggest largeness or expansive presence, fitting characteristics associated with surnames in Chinese culture.",
+    "type": "ideogrammic compound",
+    "description": "壴 (鼓, 'drum') + 彡 (visualization of the sound of drumming) = sound of drumming",
+    "interpretation": "The character combines 壴(壴) (zhù, 'drum') and 彡(彡) (shān, 'visualization of the sound of drumming') to form the sound of drumming. This represents the reverberating sound produced by a drum, conveying a sense of volume and resonance which can also be metaphorically extended to imply magnification or resonance in other contexts.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "彳",
-      "trad": "彳",
-      "pinyin": "chì",
-      "english": "step"
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "visualization of the sound of drumming"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "彭先生今天来访(彭先生今天來訪)。",
-      "pinyin": "Péng xiānsheng jīntiān lái fǎng.",
-      "english": "Mr. Peng visited today."
+      "chinese": "彭先生是一位著名的医生(彭先生是一位著名的醫生)。",
+      "pinyin": "Péng xiānsheng shì yī wèi zhùmíng de yīshēng.",
+      "english": "Mr. Peng is a renowned doctor."
     },
     {
-      "chinese": "彭家人热情款待客人(彭家人熱情款待客人)，赢得大家赞赏(贏得大家讚賞)。",
-      "pinyin": "Péng jiā rén rèqíng kuǎndài kèrén, yíngdé dàjiā zànshǎng.",
-      "english": "The Peng family warmly entertained the guests, earning everyone’s praise."
+      "chinese": "她最近和彭女士一起工作(她最近和彭女士一起工作)。",
+      "pinyin": "Tā zuìjìn hé Péng nǚshì yīqǐ gōngzuò.",
+      "english": "She has been working with Ms. Peng recently."
+    },
+    {
+      "chinese": "彭家在这个社区很受欢迎(彭家在這個社區很受歡迎)。",
+      "pinyin": "Péng jiā zài zhège shèqū hěn shòu huānyíng.",
+      "english": "The Peng family is very popular in this community."
     }
   ]
 }

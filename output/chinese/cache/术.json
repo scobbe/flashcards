@@ -5,9 +5,9 @@
   "english": "skill; technique; method; art",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "行(行) (xíng, \"street; path\") as semantic component + 朮(朮) (zhú, \"glutinous millet\") as phonetic -> denotes paths or methods",
-    "interpretation": "The character 術(術) combines the meaning of a path or course, represented by 行(行) (xíng, \"street; path\"), with the phonetic cue from 朮(朮) (zhú, \"glutinous millet\") to convey the concept of methods or techniques like following a path.",
-    "simplification": "The simplified form 术(術) retains the core meaning without including the full representation of 行(行), streamlining the strokes while partially maintaining the phonetic element of 朮(朮)."
+    "description": "semantic 行 (xíng, \"street; path\") + phonetic 朮 (zhú, \"glutinous millet\") -> method or path of doing things",
+    "interpretation": "The character 術(術) (shù, \"skill; technique\") combines 行(行) (xíng, \"street; path\") symbolizing a way or method, with 朮(朮) (zhú, \"glutinous millet\") providing the sound. The path or method aspect leads to senses of 'technique' and 'skill', where a particular method or 'path' of doing things is implied.",
+    "simplification": "术(術): The traditional character 術 had the phonetic component 朮 simplified by removing 阝 resulting in 术, maintaining the sound value while reducing strokes."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的艺术水平很高(他的藝術水平很高)。",
-      "pinyin": "Tā de yìshù shuǐpíng hěn gāo.",
-      "english": "His artistic skill is very high."
+      "chinese": "她的烹饪术(她的烹飪術)非常高超。",
+      "pinyin": "Tā de pēngrèn shù fēicháng gāochāo.",
+      "english": "Her cooking skills are exceptional."
     },
     {
-      "chinese": "医生采用了新术(醫生採用了新術)，病人很快康复(病人很快康復)。",
-      "pinyin": "Yīshēng cǎiyòngle xīn shù, bìngrén hěn kuài kāngfù.",
-      "english": "The doctor used a new technique, and the patient recovered quickly."
+      "chinese": "他学习魔术(他學習魔術)，希望能成为一名专业魔术师(希望能成為一名專業魔術師)。",
+      "pinyin": "Tā xuéxí móshù, xīwàng néng chéngwéi yī míng zhuānyè móshù shī.",
+      "english": "He is learning magic, hoping to become a professional magician."
     },
     {
-      "chinese": "学习一种新技能(學習一種新技能)需要时间(需要時間)。",
-      "pinyin": "Xuéxí yī zhǒng xīn jìnéng xūyào shíjiān.",
-      "english": "Learning a new skill takes time."
+      "chinese": "在现代医学中(在現代醫學中)，外科手术(外科手術)是常见的治疗方法。",
+      "pinyin": "Zài xiàndài yīxué zhōng, wàikē shǒushù shì chángjiàn de zhìliáo fāngfǎ.",
+      "english": "In modern medicine, surgery is a common treatment method."
     }
   ]
 }

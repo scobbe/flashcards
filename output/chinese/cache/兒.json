@@ -5,27 +5,27 @@
   "english": "child",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an infant with an imperfect cranium (fontanelle)",
-    "interpretation": "The character 兒 (ér, 'child') visually represents an infant, highlighting the soft spot on a baby's head, known as the fontanelle. This pictogram effectively conveys the idea of a young child through its depiction.",
-    "simplification": "兒 (ér) was simplified to 儿 (ér) by eliminating 臼 (jiù, 'mortar'), which represented the fontanelle, simplifying the character to represent just the form of a standing person."
+    "description": "Depicts an infant with an imperfect cranium -> represents 'child'",
+    "interpretation": "The pictogram captures the distinctive shape of a child's head, with the undeveloped cranium represented as open. This directly conveys the idea of a young child or infant.",
+    "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个兒很聪明(這個儿很聰明)。",
-      "pinyin": "Zhè ge ér hěn cōngmíng.",
-      "english": "This child is smart."
+      "chinese": "那个小孩(那個小孩)在公园里玩耍(在公園裡玩耍)。",
+      "pinyin": "Nàge xiǎohái zài gōngyuán lǐ wánshuǎ.",
+      "english": "The child is playing in the park."
     },
     {
-      "chinese": "他看见兒在公园玩耍(他看見儿在公園玩耍)，心里很高兴(心裡很高興)。",
-      "pinyin": "Tā kànjiàn ér zài gōngyuán wánshuǎ, xīn lǐ hěn gāoxìng.",
-      "english": "He saw the child playing in the park, and his heart was filled with joy."
+      "chinese": "她的儿子(她的兒子)聪明又好学(聰明又好學)。",
+      "pinyin": "Tā de érzi cōngmíng yòu hàoxué.",
+      "english": "Her child is smart and eager to learn."
     },
     {
-      "chinese": "父亲教儿学习知识(父親教儿學習知識)。",
-      "pinyin": "Fùqīn jiāo ér xuéxí zhīshi.",
-      "english": "The father teaches the child knowledge."
+      "chinese": "每个家庭(每個家庭)都希望他们的孩子(都希望他們的孩子)健康快乐(健康快樂)。",
+      "pinyin": "Měi gè jiātíng dōu xīwàng tāmen de háizi jiànkāng kuàilè.",
+      "english": "Every family hopes their children are healthy and happy."
     }
   ]
 }

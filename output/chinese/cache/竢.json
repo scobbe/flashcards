@@ -5,8 +5,8 @@
   "english": "to wait; bamboo",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "立(立) (lì, \"to stand\") provides the meaning + 矣(矣) (yǐ) provides the sound",
-    "interpretation": "The character 竢 incorporates 立(立) (lì, \"to stand\") as the semantic component, implying a sense of remaining in place or waiting, combined with the phonetic component 矣(矣) (yǐ) to suggest its pronunciation.",
+    "description": "semantic 立 (lì, \"to stand\") + phonetic 矣 (yǐ) -> to wait",
+    "interpretation": "The character combines 立 (lì, \"to stand\"), representing the act of standing in anticipation, with 矣 (yǐ) as a phonetic component to convey the meaning \"to wait.\" Standing still is a natural posture associated with waiting.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "矣",
       "trad": "矣",
       "pinyin": "yǐ",
-      "english": "final particle"
+      "english": ""
     }
   ],
   "in_contemporary_usage": false,

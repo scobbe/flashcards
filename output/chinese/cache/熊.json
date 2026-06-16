@@ -5,8 +5,8 @@
   "english": "bear",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "能(能) (néng, \"bear\") + stylized form of 炎(炎) (yán, \"flame\") = original onomatopoeic word for \"raging flame\" -> borrowed to mean \"bear\"",
-    "interpretation": "The character 熊(xióng) was initially an onomatopoeic term for the raging flame, where the semantic element, 能(能) (néng, \"bear\"), indicates its original meaning. It was later borrowed to signify \"bear\" when the concept required a representation, utilizing the abbreviated form of 炎(炎) (yán, \"flame\") as the phonetic component.",
+    "description": "semantic 能 (néng, \"able\") + abbreviated phonetic 炎 (yán, \"flame\") -> original representation of an onomatopoetic word for flaming -> borrowed for the word 'bear'",
+    "interpretation": "Originally, 熊(xióng, \"bear\") depicted the sound of flames raging, with 炎 (yán, \"flame\") as the sound component and 能 (néng, \"able\") representing the original semantic concept of a familiar powerful presence, later shifting to mean 'bear' when 能 (néng, \"bear\") was borrowed for the animal name.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "能",
       "trad": "能",
       "pinyin": "néng",
-      "english": "bear"
+      "english": "able"
     },
     {
       "char": "炎",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那只熊看起来很可爱(那隻熊看起來很可愛)。",
-      "pinyin": "Nà zhī xióng kàn qǐlái hěn kě'ài.",
-      "english": "That bear looks very cute."
+      "chinese": "这个熊看起来很友好(這個熊看起來很友好)。",
+      "pinyin": "Zhè ge xióng kàn qǐlái hěn yǒuhǎo.",
+      "english": "This bear looks friendly."
     },
     {
-      "chinese": "森林里有很多熊(森林裡有很多熊)，人们也要小心(人們也要小心)。",
-      "pinyin": "Sēnlín lǐ yǒu hěn duō xióng, rénmen yě yào xiǎoxīn.",
-      "english": "There are many bears in the forest, and people must be careful."
+      "chinese": "熊喜欢住在森林里(熊喜歡住在森林裡)。",
+      "pinyin": "Xióng xǐhuān zhù zài sēnlín lǐ.",
+      "english": "Bears like to live in the forest."
     },
     {
-      "chinese": "冬天来临时(冬天來臨時)，熊会准备过冬(熊會準備過冬)。",
-      "pinyin": "Dōngtiān láilín shí, xióng huì zhǔnbèi guòdōng.",
-      "english": "When winter comes, bears prepare for winter."
+      "chinese": "当我在山上徒步时(當我在山上徒步時)，我看到了一个熊(我看到了一个熊)。",
+      "pinyin": "Dāng wǒ zài shān shàng túbù shí, wǒ kàn dào le yī gè xióng.",
+      "english": "When I was hiking in the mountains, I saw a bear."
     }
   ]
 }

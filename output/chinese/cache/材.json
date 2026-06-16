@@ -5,8 +5,8 @@
   "english": "material; timber",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + 才(才) (cái, \"talent\") = tree-related material",
-    "interpretation": "The character 材(cái, \"material; timber\") combines 木(木) (mù, \"tree\"), which imparts the semantic element of wood or tree-related material, with 才(才) (cái, \"talent\") serving as the phonetic component, indicating pronunciation. This pairing signifies wood or materials derived from trees, hence \"material\" or \"timber.\"",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 才(才) (cái, \"talent (phonetic)\") -> material; timber",
+    "interpretation": "The character combines 木(木) (mù, \"tree\") as the semantic component, representing trees or wood, with 才(才) (cái), which provides the phonetic element. The combination indicates timber as processed wood material, derived from trees, and this extends metaphorically to 'material' in general as a resource or substance that can be worked with, much like wood.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这张桌子是用优质木材制作的(這張桌子是用優質木材製作的)。",
-      "pinyin": "Zhè zhāng zhuōzi shì yòng yōuzhì mùcái zhìzuò de.",
-      "english": "This table is made of high-quality wood."
+      "chinese": "这座房子是用优质的木材建造的(這座房子是用優質的木材建造的)。",
+      "pinyin": "Zhè zuò fángzi shì yòng yōuzhì de mùcái jiànzào de.",
+      "english": "This house is built with high-quality timber."
     },
     {
-      "chinese": "建筑工人正在运送建筑材料(建築工人在運送建築材料)。",
-      "pinyin": "Jiànzhù gōngrén zhèngzài yùnsòng jiànzhù cáiliào.",
-      "english": "The construction workers are transporting building materials."
-    },
-    {
-      "chinese": "为了完成这个项目(為了完成這個項目)，我们需要更多的材料(我們需要更多的材料)。",
-      "pinyin": "Wèile wánchéng zhège xiàngmù, wǒmen xūyào gèng duō de cáiliào.",
-      "english": "To complete this project, we need more materials."
+      "chinese": "他具备成为优秀工程师的材料(他具備成為優秀工程師的材料)。",
+      "pinyin": "Tā jùbèi chéngwéi yōuxiù gōngchéngshī de cáiliào.",
+      "english": "He has the material to become an excellent engineer."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "to speak",
   "etymology": {
     "type": "compound word",
-    "description": "说(說) (shuō, \"speak\") + 话(話) (huà, \"speech; words\") = to speak",
-    "interpretation": "The combination of 说(說) (shuō, \"speak\") and 话(話) (huà, \"speech; words\") conveys the action of producing spoken words or engaging in verbal communication.",
+    "description": "说(說) (shuō, \"speak\") means to say or speak, typically representing verbal communication. 话(話) (huà, \"words; speech\") refers to spoken words or language, derived from a character that includes the speech radical, indicating a relation to spoken communication.",
+    "interpretation": "说(說) (shuō, \"speak\") is the act of talking, where one uses verbal speech to communicate ideas. 话(話) (huà, \"words; speech\") refers to the content or unit of speech, representing the medium or form of spoken expression. Together, 说话(說話) combines the action of speaking with the words spoken, directly pointing to the act of communicating speech or engaging in conversation.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "说",
       "trad": "說",
       "pinyin": "shuō",
-      "english": "speak; say; explain; discuss"
+      "english": "speak; say"
     },
     {
       "char": "话",
       "trad": "話",
       "pinyin": "huà",
-      "english": "speech; words; utterance; language"
+      "english": "words; speech; talk; language"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请小声说话(請小聲說話)。",
-      "pinyin": "qǐng xiǎoshēng shuōhuà",
-      "english": "Please speak quietly."
+      "chinese": "孩子们在花园里说话(孩子們在花園裏說話)。",
+      "pinyin": "Háizimen zài huāyuán lǐ shuōhuà.",
+      "english": "The children are speaking in the garden."
     },
     {
-      "chinese": "他说话有趣(他說話有趣)，让人心情愉快(讓人心情愉快)。",
-      "pinyin": "tā shuōhuà yǒuqù, ràng rén xīnqíng yúkuài",
-      "english": "His way of speaking is interesting, making people feel happy."
+      "chinese": "她喜欢在大会上说话(她喜歡在大會上說話)。",
+      "pinyin": "Tā xǐhuān zài dàhuì shàng shuōhuà.",
+      "english": "She likes to speak at conferences."
     },
     {
-      "chinese": "能说话自信(能說話自信)，便能赢得尊重(便能贏得尊重)。",
-      "pinyin": "néng shuōhuà zìxìn, biàn néng yíngdé zūnzhòng",
-      "english": "Confident speaking can earn respect."
+      "chinese": "我们不应该在图书馆大声说话(我們不應該在圖書館大聲說話)。",
+      "pinyin": "Wǒmen bù yīnggāi zài túshūguǎn dàshēng shuōhuà.",
+      "english": "We should not speak loudly in the library."
     }
   ]
 }

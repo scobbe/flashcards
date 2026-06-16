@@ -1,0 +1,44 @@
+{
+  "simplified": "鲁",
+  "traditional": "魯",
+  "pinyin": "lǔ",
+  "english": "foolish; simple; Lu (ancient state)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "魚(魚) (yú, \"fish\") + 口(口) (kǒu, \"mouth\") -> fish entering the mouth = delicious > excellent",
+    "interpretation": "The character originally depicted a fish 魚(魚) (yú, \"fish\") entering a mouth 口(口) (kǒu, \"mouth\"), implying something 'delicious' and hence 'excellent'. Over time, the concept extended to denote things of good quality or excellence, which through usage also developed figurative meanings such as 'foolish', reflecting perhaps a later phonetic borrowing or cultural nuance shift.",
+    "simplification": "Simplified from 魯 by changing 魚(魚) (yú, \"fish\") to its simplified form 鱼."
+  },
+  "parts": [
+    {
+      "char": "魚",
+      "trad": "魚",
+      "pinyin": "yú",
+      "english": "fish"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的行为很鲁莽(他的行為很魯莽)。",
+      "pinyin": "Tā de xíngwéi hěn lǔmǎng.",
+      "english": "His behavior is very reckless."
+    },
+    {
+      "chinese": "鲁国是春秋时期的重要国家(魯國是春秋時期的重要國家)。",
+      "pinyin": "Lǔ guó shì chūnqiū shíqī de zhòngyào guójiā.",
+      "english": "The state of Lu was an important nation during the Spring and Autumn period."
+    },
+    {
+      "chinese": "他说话简单直率，有些鲁(他說話簡單直率，有些魯)。",
+      "pinyin": "Tā shuōhuà jiǎndān zhíshuài, yǒuxiē lǔ.",
+      "english": "He speaks simply and directly, somewhat bluntly."
+    }
+  ]
+}

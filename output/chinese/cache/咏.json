@@ -5,9 +5,9 @@
   "english": "chant; eulogize",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + 永(永) (yǒng, \"long\") = using words for a long duration -> chant; eulogize",
-    "interpretation": "The combination of 言(言) (yán, \"speech\") and 永(永) (yǒng, \"long\") suggests the idea of speaking or singing at length, reflecting the meaning of chanting or eulogizing.",
-    "simplification": "詠(詠) was simplified to 咏(詠) by replacing 言(言) (yán, \"speech\") with 口(口) (kǒu, \"mouth\") to maintain the semantic focus on utterance while reducing the stroke count."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 永(永) (yǒng) -> chant with speech",
+    "interpretation": "詠(詠) (yǒng, \"chant; eulogize\") combines the semantic component 言(言) (yán, \"speech\") with the phonetic 永(永) (yǒng). The character invokes the idea of chanting or composing with words (言) and uses 永 for its sound, suggesting an extended or enduring verbal expression, fitting for chanting or eulogizing.",
+    "simplification": "詠(詠) (yǒng, \"chant; eulogize\") was simplified to 咏(咏) by replacing the speech component 言(言) (yán, \"speech\") with the simpler 口(口) (kǒu, \"mouth\") while retaining the phonetic 永(永) (yǒng)."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "永",
       "trad": "永",
       "pinyin": "yǒng",
-      "english": "long"
+      "english": "eternal"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "王羲之咏书法(王羲之詠書法)，表达情怀(表達情懷)。",
-      "pinyin": "Wáng Xīzhī yǒng shūfǎ, biǎodá qínghuái.",
-      "english": "Wang Xizhi chants about calligraphy, expressing his deep sentiments."
+      "chinese": "他喜欢咏诗(他喜歡詠詩)。",
+      "pinyin": "Tā xǐhuān yǒng shī.",
+      "english": "He likes to chant poetry."
     },
     {
-      "chinese": "人们在纪念日咏颂英雄(人們在紀念日詠頌英雄)。",
-      "pinyin": "Rénmen zài jìniànrì yǒngsòng yīngxióng.",
-      "english": "On memorial days, people eulogize heroes."
+      "chinese": "我们常在聚会上咏颂古诗词(我們常在聚會上詠頌古詩詞)。",
+      "pinyin": "Wǒmen cháng zài jùhuì shàng yǒng sòng gǔ shī cí.",
+      "english": "We often chant and recite ancient poetry at gatherings."
+    },
+    {
+      "chinese": "咏叹调是歌剧的重要组成部分(詠嘆調是歌劇的重要組成部分)。",
+      "pinyin": "Yǒngtàndiào shì gējù de zhòngyào zǔchéng bùfèn.",
+      "english": "The aria is an important part of the opera."
     }
   ]
 }

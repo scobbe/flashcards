@@ -5,40 +5,40 @@
   "english": "think; ponder; consider; believe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 相(相) (xiāng, \"appearance\") + Semantic: 心(心) (xīn, \"heart, mind\") = visualizing in the mind -> to think, to consider",
-    "interpretation": "想(想) (xiǎng, \"think\") combines the phonetic component 相(相) (xiāng, \"appearance\") with the semantic component 心(心) (xīn, \"heart, mind\") to convey the idea of visualizing or pondering something with the heart or mind. This effectively captures the essence of internal contemplation or consideration.",
+    "description": "semantic 心 (heart, mind) + phonetic 相 (sound) -> act of thinking and visualizing in one's mind",
+    "interpretation": "The character 想 involves the heart 心 (xīn, 'heart', which symbolizes emotions and thought processes) with the phonetic component 相 (xiāng, which lends the sound and adds the idea of perception or visualization). This combination suggests using the heart/mind to perceive or think deeply, thereby leading to meanings such as 'think', 'ponder', 'consider', or 'believe'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "相",
-      "trad": "相",
-      "pinyin": "xiāng",
-      "english": "appearance"
-    },
-    {
       "char": "心",
       "trad": "心",
       "pinyin": "xīn",
-      "english": "heart, mind"
+      "english": "heart"
+    },
+    {
+      "char": "相",
+      "trad": "相",
+      "pinyin": "xiāng",
+      "english": "mutual; appearance"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想去图书馆(我想去圖書館)。",
-      "pinyin": "Wǒ xiǎng qù túshūguǎn.",
-      "english": "I want to go to the library."
+      "chinese": "我想去看电影(我想去看電影)。",
+      "pinyin": "Wǒ xiǎng qù kàn diànyǐng.",
+      "english": "I want to go watch a movie."
     },
     {
-      "chinese": "妈妈想做饭(媽媽想做飯)，我们想吃中餐(我們想吃中餐)。",
-      "pinyin": "Māmā xiǎng zuò fàn, wǒmen xiǎng chī zhōngcān.",
-      "english": "Mom wants to cook, and we want to eat Chinese food."
+      "chinese": "他在安静的地方想事情(他在安靜的地方想事情)。",
+      "pinyin": "Tā zài ānjìng de dìfāng xiǎng shìqíng.",
+      "english": "He is thinking about things in a quiet place."
     },
     {
-      "chinese": "他想一想(他想一想)，就决定了(就決定了)。",
-      "pinyin": "Tā xiǎng yīxiǎng, jiù juédìng le.",
-      "english": "He gave it some thought, then made a decision."
+      "chinese": "我们得好好想一想这个问题(我們得好好想一想這個問題)。",
+      "pinyin": "Wǒmen děi hǎo hǎo xiǎng yī xiǎng zhège wèntí.",
+      "english": "We need to think carefully about this problem."
     }
   ]
 }

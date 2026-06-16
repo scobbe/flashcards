@@ -5,22 +5,22 @@
   "english": "thumb",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 辟 (bì, \"distinguish\") + Semantic: 手 (shǒu, \"hand\") = action done with the thumb",
-    "interpretation": "The character combines 辟 (bì, \"distinguish\") to suggest sound with 手 (shǒu, \"hand\") suggesting the meaning, reflecting actions often performed with the thumb like grabbing or pressing.",
+    "description": "semantic 手 (shǒu, \"hand\") + phonetic 辟 (pì) -> used to mean thumb",
+    "interpretation": "The character 擘 (bò, \"thumb\") is constructed with the semantic component 手 (shǒu, \"hand\"), indicating that it pertains to something related to the hand. The phonetic component 辟 (pì), helps convey the sound. The specific application to 'thumb' makes intuitive sense as the thumb is a prominent feature of the hand that can be distinguished from the other fingers.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "辟",
-      "trad": "辟",
-      "pinyin": "bì",
-      "english": "distinguish"
-    },
     {
       "char": "手",
       "trad": "手",
       "pinyin": "shǒu",
       "english": "hand"
+    },
+    {
+      "char": "辟",
+      "trad": "辟",
+      "pinyin": "pì",
+      "english": "law; to rule"
     }
   ],
   "in_contemporary_usage": false,

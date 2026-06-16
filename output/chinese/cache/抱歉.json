@@ -5,8 +5,8 @@
   "english": "sorry; my apologies",
   "etymology": {
     "type": "compound word",
-    "description": "抱(抱) (bào, \"hold\") and 歉(歉) (qiàn, \"apology\") form a phrase expressing regret and a desire to hold or bear responsibility for a mistake or inconvenience.",
-    "interpretation": "抱歉(抱歉) (bàoqiàn, \"sorry\") is a common way to express an apology in Chinese, indicating a sense of regret or remorse. The combination of \"hold\" and \"apology\" conveys the notion of taking on the responsibility for causing discomfort or inconvenience.",
+    "description": "抱(抱) (bào, \"embrace\") suggests holding onto something, often implying care or concern, while 歉(歉) (qiàn, \"apologize\") signifies a shortage or lacking, leading to the idea of not having fulfilled something. The combination of an embrace (implying sincerity) with an apology gives the sense of being \"sorry\" or offering \"my apologies.\"",
+    "interpretation": "抱(抱) (bào, \"embrace\") represents holding onto something with care, showing a desire to make a situation right, combining with 歉(歉) (qiàn, \"apologize\") which indicates acknowledging a deficiency or failing. Together, they capture the idea of sincerely acknowledging a shortcoming or error and expressing regret, leading to the meaning of \"sorry\" or \"my apologies.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "抱",
       "trad": "抱",
       "pinyin": "bào",
-      "english": "hold; embrace"
+      "english": "embrace; hug; cherish; surround"
     },
     {
       "char": "歉",
       "trad": "歉",
       "pinyin": "qiàn",
-      "english": "apology; regret"
+      "english": "apologize; regret; lack; shortage"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我很抱歉(我很抱歉)。",
-      "pinyin": "Wǒ hěn bàoqiàn.",
-      "english": "I am very sorry."
+      "chinese": "我很抱歉(我很抱歉)，因为我迟到了(因為我遲到了)。",
+      "pinyin": "Wǒ hěn bàoqiàn, yīnwèi wǒ chídào le.",
+      "english": "I am very sorry, because I am late."
     },
     {
-      "chinese": "我为迟到感到抱歉(我為遲到感到抱歉)，请原谅(請原諒)。",
-      "pinyin": "Wǒ wèi chídào gǎndào bàoqiàn, qǐng yuánliàng.",
-      "english": "I apologize for being late, please forgive me."
+      "chinese": "他感到抱歉(他感到抱歉)，不能参加聚会(不能參加聚會)。",
+      "pinyin": "Tā gǎndào bàoqiàn, bùnéng cānjiā jùhuì.",
+      "english": "He feels sorry that he cannot attend the party."
+    },
+    {
+      "chinese": "抱歉(抱歉)，这不是我故意的(這不是我故意的)。",
+      "pinyin": "Bàoqiàn, zhè bù shì wǒ gùyì de.",
+      "english": "Sorry, I didn't do this on purpose."
     }
   ]
 }

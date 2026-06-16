@@ -5,40 +5,46 @@
   "english": "Da’an District, Taipei",
   "etymology": {
     "type": "compound word",
-    "description": "大(大) (dà, \"big\") + 安(安) (ān, \"peace\") form the name 大安(大安) (Dà’ān, \"Da’an\") to refer to 'Da’an District,' a significant district in Taipei, Taiwan. It is named with the aspiration for 'great peace,' and these character meanings are common in place names throughout Chinese culture. 區(区) (qū, \"district\") indicates an administrative division.",
-    "interpretation": "The combination 大安(大安) (Dà’ān, \"Da’an\") implies a place of 'great peace' or tranquility. The name reflects aspirations or historical ideals for harmony within the region. Located in Taipei, 大安區(大安区) (Dà’ān Qū, \"Da’an District\") is known for its dynamic neighborhoods and vibrant culture.",
-    "simplification": "區"
+    "description": "大(大) (dà, \"big; great\") 安(安) (ān, \"peace; safe\") 區(區) (qū, \"area; district\")",
+    "interpretation": "大安(大安) (dà'ān, \"great peace\") combines 'great' and 'peace', reflecting an ideal or desirable state of tranquility and well-being, often used as a name for places aiming to convey these qualities. 區(區) (qū, \"area; district\") denotes a division or administrative region, hence 大安區(大安區) (Dà'ān Qū) specifically refers to the Da’an District in Taipei, suggesting it as an area of large tranquility or prominence.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "大安",
-      "trad": "大安",
-      "pinyin": "Dà’ān",
-      "english": "Da’an; great peace"
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great"
     },
     {
-      "char": "区",
+      "char": "安",
+      "trad": "安",
+      "pinyin": "ān",
+      "english": "peace; safe"
+    },
+    {
+      "char": "區",
       "trad": "區",
       "pinyin": "qū",
-      "english": "district; area; region"
+      "english": "area; district"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我住在大安区(大安區)。",
-      "pinyin": "Wǒ zhù zài Dà’ān Qū.",
-      "english": "I live in Da’an District."
+      "chinese": "大安区的公园很美丽(大安區的公園很美麗)。",
+      "pinyin": "Dà’ān Qū de gōngyuán hěn měilì.",
+      "english": "The parks in Da’an District are beautiful."
     },
     {
-      "chinese": "大安区融合传统与现代(大安區融合傳統與現代)，交通便利且设施完善(交通便利且設施完善)。",
-      "pinyin": "Dà’ān Qū rónghé chuántǒng yǔ xiàndài, jiāotōng biànlì qiě shèshī wánshàn.",
-      "english": "Da’an District integrates tradition with modernity, with convenient transportation and complete facilities."
+      "chinese": "我住在大安区(我住在大安區)，每天都在附近跑步(每天都在附近跑步)。",
+      "pinyin": "Wǒ zhù zài Dà’ān Qū, měitiān dōu zài fùjìn pǎobù.",
+      "english": "I live in Da’an District and run nearby every day."
     },
     {
-      "chinese": "大安区是台北的文化中心(大安區是台北的文化中心)，吸引了众多游客(吸引了眾多遊客)。",
-      "pinyin": "Dà’ān Qū shì Táiběi de wénhuà zhōngxīn, xīyǐn le zhòngduō yóukè.",
-      "english": "Da’an District is the cultural center of Taipei, attracting many tourists."
+      "chinese": "大安区有许多不错的餐厅(大安區有許多不錯的餐廳)。",
+      "pinyin": "Dà’ān Qū yǒu xǔduō bùcuò de cāntīng.",
+      "english": "Da’an District has many great restaurants."
     }
   ]
 }

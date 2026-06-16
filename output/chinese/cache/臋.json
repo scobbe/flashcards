@@ -5,8 +5,8 @@
   "english": "buttocks",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "肉(肉) (ròu, \"flesh\") + 殿(殿) (diàn, \"hall\") = flesh of the lower body -> variant form of 臀(臀) (tún, \"buttocks\")",
-    "interpretation": "The character 臋 is a variant of 臀 with the same components, where 肉(肉) (\"flesh\") indicates the part of the body and 殿(殿) provides the phonetic component to denote something related to the flesh, particularly the buttocks.",
+    "description": "semantic 肉(肉) (ròu, \"flesh\") + phonetic 殿(殿) (diàn, \"hall\") -> relating to the flesh -> buttocks",
+    "interpretation": "The character 臋 (tún) is a phono-semantic compound where the semantic component 肉(肉) (ròu, \"flesh\") indicates the involvement of flesh, making it apt for anatomical reference. The phonetic component 殿(殿) (diàn) contributes the sound element associated with 臋. This combination intuitively leads to the meaning of 'buttocks', as it relates to a fleshy part of the body.",
     "simplification": ""
   },
   "parts": [
@@ -21,12 +21,6 @@
       "trad": "殿",
       "pinyin": "diàn",
       "english": "hall"
-    },
-    {
-      "char": "臀",
-      "trad": "臀",
-      "pinyin": "tún",
-      "english": "buttocks"
     }
   ],
   "in_contemporary_usage": false,

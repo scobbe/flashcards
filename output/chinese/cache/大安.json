@@ -5,8 +5,8 @@
   "english": "Da’an; great peace",
   "etymology": {
     "type": "compound word",
-    "description": "大(大) (dà, \"great\") + 安(安) (ān, \"peace\")",
-    "interpretation": "The word 大安(大安) (dà'ān) combines 大(大) (dà, \"great\") and 安(安) (ān, \"peace\") to convey the concept of 'great peace.' This term can symbolize a state or aspiration of profound tranquility and stability. It might also refer to place names, as 'Da’an' (大安) is a common toponym in Chinese-speaking regions.",
+    "description": "大(大) (dà, \"big; great\") signifies largeness or importance, while 安(安) (ān, \"peace; calm\") suggests tranquility and safety. Combined, 大安 (dà’ān) conveys a sense of \"great peace\".",
+    "interpretation": "The concept of 大(大) (dà, \"big; great\") coupled with 安(安) (ān, \"peace; calm\") suggests an overarching or vast state of tranquility. This can imply societal harmony or personal well-being experienced on a grand scale, hence \"great peace\". The use of 大(大) (dà, \"big; great\") emphasizes an enhanced level of 安(安) (ān, \"peace; calm\"), indicating not just ordinary peace, but a significant, prevailing peace.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "great; big; large; vast"
+      "english": "big; great"
     },
     {
       "char": "安",
       "trad": "安",
       "pinyin": "ān",
-      "english": "peace; safe; quiet; calm"
+      "english": "peace; calm"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "大安象征了永恒的和平(大安象徵了永恆的和平)。",
-      "pinyin": "Dà’ān xiàngzhēng le yǒnghéng de hépíng.",
-      "english": "Da'an symbolizes eternal peace."
+      "chinese": "大安是一个理想的居住地(大安是一個理想的居住地)。",
+      "pinyin": "Dà’ān shì yī gè lǐxiǎng de jūzhù dì.",
+      "english": "Da’an is an ideal place to live."
     },
     {
-      "chinese": "古时人们追求大安(古時人們追求大安)，以获得心灵的安宁(以獲得心靈的安寧)。",
-      "pinyin": "Gǔshí rénmen zhuīqiú Dà’ān, yǐ huòdé xīnlíng de ānníng.",
-      "english": "In ancient times, people pursued Da'an to attain inner tranquility."
+      "chinese": "他们计划去大安公园野餐(他們計劃去大安公園野餐)。",
+      "pinyin": "Tāmen jìhuà qù Dà’ān gōngyuán yěcān.",
+      "english": "They plan to have a picnic in Da’an Park."
     },
     {
-      "chinese": "走进大安社区(走進大安社區)，体验宁静生活(體驗寧靜生活)。",
-      "pinyin": "Zǒu jìn Dà’ān shèqū, tǐyàn níngjìng shēnghuó.",
-      "english": "Step into the Da'an community and experience a peaceful life."
+      "chinese": "大安给人一种宁静的感觉(大安給人一種寧靜的感覺)。",
+      "pinyin": "Dà’ān gěi rén yī zhǒng níngjìng de gǎnjué.",
+      "english": "Da’an gives a sense of tranquility."
     }
   ]
 }

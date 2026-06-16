@@ -5,16 +5,16 @@
   "english": "bird tied with string",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, \"thread\") + 唯(唯) (wéi, \"only\") = thread as a component of linkage -> bird tied with string",
-    "interpretation": "The character 維(wéi) connects the idea of threads with the phonetic component 唯(wéi) to suggest the action of tying or connecting, which can be related to how birds might be symbolically tied.",
-    "simplification": "維(維) → 维(維): 糸(糸) (mì, \"thread\") simplified to 纟(纟) as a cursive shorthand for the thread radical."
+    "description": "semantic 糸(糸) ('silk; thread') + phonetic 唯(唯) (wéi) -> bird tied with string",
+    "interpretation": "The character 維 depicts the semantic element 糸(糸) (mì, 'silk; thread'), representing strings or threads, combined with the phonetic element 唯(唯) (wéi), which shares the pronunciation. This combination suggests the action of tying or fastening with thread, which is metaphorically extended to denote binding or maintaining concepts, leading to meanings like 'to hold together' or 'to maintain the integrity of'. The image of a bird tied with string serves as a metaphor for something being secured or controlled.",
+    "simplification": "維 is simplified to 维 by substituting 糸(糸) (mì, 'silk; thread') with its simplified version 纟, reducing the number of strokes."
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
-      "english": "thread"
+      "english": "silk; thread"
     },
     {
       "char": "唯",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用細線維著受驚的小鳥(他用細線維著受驚的小鳥)。",
-      "pinyin": "Tā yòng xìxiàn wéi zhe shòu jīng de xiǎoniǎo.",
-      "english": "He ties the frightened bird with a thin string."
+      "chinese": "古代人用绳子捕捉鸟类(古代人用繩子捕捉鳥類)，这种方法称为维(這種方法稱為維)。",
+      "pinyin": "Gǔdài rén yòng shéngzi bǔzhuō niǎolèi, zhè zhǒng fāngfǎ chēng wéi wéi.",
+      "english": "In ancient times, people used ropes to catch birds, and this method was called 'wéi'."
     },
     {
-      "chinese": "妈妈用細繩維著小鳥(媽媽用細繩維著小鳥)，以防它亂飛(以防它亂飛)。",
-      "pinyin": "Māmā yòng xìshéng wéi zhe xiǎoniǎo, yǐ fáng tā luàn fēi.",
-      "english": "Mama ties the bird with a fine rope to prevent it from flying away."
+      "chinese": "在村落里(在村落裡)，维常常用于帮助打猎(維常常用於幫助打獵)。",
+      "pinyin": "Zài cūnluò lǐ, wéi chángcháng yòng yú bāngzhù dǎliè.",
+      "english": "In the village, 'wéi' was often used to assist in hunting."
+    },
+    {
+      "chinese": "小孩们好奇地观察大人如何使用维(小孩們好奇地觀察大人如何使用維)。",
+      "pinyin": "Xiǎohái men hàoqí de guānchá dàren rúhé shǐyòng wéi.",
+      "english": "Children curiously observed how adults used 'wéi'."
     }
   ]
 }

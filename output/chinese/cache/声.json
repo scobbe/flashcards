@@ -5,40 +5,40 @@
   "english": "sound; voice",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "耳(耳) (ěr, \"ear\") + phonetic 殸(殸) -> 聲(聲)",
-    "interpretation": "The character 聲(聲) (shēng, \"sound; voice\") combines the semantic indicator 耳(耳) (ěr, \"ear\") to represent the idea of sound heard by the ear, with the phonetic component 殸(殸) providing the sound element. This reflects the essential nature of sound as something that is perceived audibly through the ears.",
-    "simplification": "声(聲) is the simplified form where 殸 was replaced with 士(士) (shì, \"scholar\") and 工(工) (gōng, \"work\") was omitted; it retains the core meaning through phonetic reduction."
+    "description": "semantic 耳(耳) (ěr, \"ear\") + phonetic 殸(殸) -> perception of sounds",
+    "interpretation": "The character 聲 (shēng, \"sound\"; \"voice\") combines 耳(耳) (ěr, \"ear\") as the semantic component, suggesting listening or hearing, with 殸(殸) as the phonetic component, to produce the concept of a sound as perceived by the ear.",
+    "simplification": "声 is a simplified form where the character 殸 has been reduced to 士(士) (shì, \"scholar\") plus the addition of 𠂇 (movement), dropping the 耳(耳) (ěr, \"ear\") component for simplicity."
   },
   "parts": [
-    {
-      "char": "殸",
-      "trad": "殸",
-      "pinyin": "kēng",
-      "english": "vessel; sound"
-    },
     {
       "char": "耳",
       "trad": "耳",
       "pinyin": "ěr",
       "english": "ear"
+    },
+    {
+      "char": "殸",
+      "trad": "殸",
+      "pinyin": "qìng",
+      "english": "an ancient chime stone"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那是一种美妙的声音(那是一種美妙的聲音)。",
-      "pinyin": "Nà shì yī zhǒng měimiào de shēngyīn.",
-      "english": "That is a wonderful sound."
+      "chinese": "我听到了一种奇怪的声音(我聽到了一種奇怪的聲音)。",
+      "pinyin": "Wǒ tīngdào le yī zhǒng qíguài de shēngyīn.",
+      "english": "I heard a strange sound."
     },
     {
-      "chinese": "我听到了他的声音(我聽到了他的聲音)，感到很高兴(感到很高興)。",
-      "pinyin": "Wǒ tīngdào le tā de shēngyīn, gǎndào hěn gāoxìng.",
-      "english": "I heard his voice and felt very happy."
+      "chinese": "鸟儿在树上快乐地歌唱(鳥兒在樹上快樂地歌唱)，它们的声音如音乐般动听(它們的聲音如音樂般動聽)。",
+      "pinyin": "Niǎor men zài shù shàng kuàilè de gēchàng, tāmen de shēngyīn rú yīnyuè bān dòngtīng.",
+      "english": "The birds sing happily on the tree, and their voices are as melodious as music."
     },
     {
-      "chinese": "风的声音很柔和(風的聲音很柔和)。",
-      "pinyin": "Fēng de shēngyīn hěn róuhé.",
-      "english": "The sound of the wind is gentle."
+      "chinese": "老师的声音充满了自信(老師的聲音充滿了自信)，让学生们感受到安全(讓學生們感受到安全)。",
+      "pinyin": "Lǎoshī de shēngyīn chōngmǎnle zìxìn, ràng xuéshēngmen gǎnshòudào ānquán.",
+      "english": "The teacher's voice was full of confidence, making the students feel safe."
     }
   ]
 }

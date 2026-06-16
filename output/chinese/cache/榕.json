@@ -5,8 +5,8 @@
   "english": "banyan",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 木(木) (mù, \"tree\") + phonetic 容(容) (róng, \"contain\") = wood-related and pronounced as róng -> banyan",
-    "interpretation": "The character 榕(róng, \"banyan\") combines 木(mù, \"tree\") as the semantic component indicating relation to trees and nature with 容(róng, \"contain\") to suggest the sound, producing a character referring to a specific type of large, spreading tree known for its extensive branches.",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 容(容) (róng, \"contain\") -> banyan",
+    "interpretation": "The character 榕 (róng, \"banyan\") combines the semantic 木(木) (mù, \"wood\") to indicate a connection with trees, with the phonetic 容(容) (róng, \"contain\") to convey the sound. This reflects its meaning related to a type of tree, specifically the banyan.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "tree"
+      "english": "wood"
     },
     {
       "char": "容",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "榕树是热带雨林的重要组成部分(榕樹是熱帶雨林的重要組成部分)。",
-      "pinyin": "Róngshù shì rèdài yǔlín de zhòngyào zǔchéng bùfèn.",
-      "english": "The banyan is an important part of the tropical rainforest."
+      "chinese": "榕树是我家附近的标志性植物(榕樹是我家附近的標誌性植物)。",
+      "pinyin": "Róngshù shì wǒ jiā fùjìn de biāozhìxìng zhíwù.",
+      "english": "The banyan tree is a symbolic plant near my home."
     },
     {
-      "chinese": "夏日里榕树下乘凉(夏日裡榕樹下乘涼)，学童们嬉戏玩耍(學童們嬉戲玩耍)。",
-      "pinyin": "Xiàrì lǐ róngshù xià chéngliáng, xuétóngmen xīxì wánshuǎ.",
-      "english": "On a summer day, children cool off beneath the banyan while playing happily."
+      "chinese": "在公园里(在公園裡)，我常在榕树下阅读(我常在榕樹下閱讀)。",
+      "pinyin": "Zài gōngyuán lǐ, wǒ cháng zài róngshù xià yuèdú.",
+      "english": "In the park, I often read under the banyan tree."
     },
     {
-      "chinese": "古老的榕树庇护着小镇(古老的榕樹庇護著小鎮)。",
-      "pinyin": "Gǔlǎo de róngshù bìhù zhe xiǎozhèn.",
-      "english": "The ancient banyan shelters the small town."
+      "chinese": "榕树的根系非常发达(榕樹的根系非常發達)，能够抵抗强风(能夠抵抗強風)。",
+      "pinyin": "Róngshù de gēnxì fēicháng fādá, nénggòu dǐkàng qiángfēng.",
+      "english": "The roots of the banyan tree are very developed and can withstand strong winds."
     }
   ]
 }

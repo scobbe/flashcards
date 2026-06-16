@@ -5,16 +5,16 @@
   "english": "\"stay\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 丣 (liú) + Semantic 田 (field) = meaning related to staying or remaining",
-    "interpretation": "The character 畱 combines the phonetic 丣 (liú) with the semantic component 田 (field), suggesting a sense of staying or lingering in a field or specific place.",
-    "simplification": "留(畱) replaces the obsolete 丣 (liú) with a more recognizable structure while retaining 田 (field) for consistency in meaning."
+    "description": "phonetic 丣 + semantic 田 -> phonetic 卯 + semantic 田 -> phonetic 丣 + semantic 田",
+    "interpretation": "畱 is composed of the phonetic component 丣 (liú), which provides the sound, combined with the semantic component 田 (tián, \"field\"), suggesting an action or state related to fields. The idea is of remaining in a field or a place, hence 'stay'.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "丣",
       "trad": "丣",
-      "pinyin": "liú",
-      "english": "phonetic component"
+      "pinyin": "yǒu",
+      "english": "12th earthly branch; a time; a stem"
     },
     {
       "char": "田",

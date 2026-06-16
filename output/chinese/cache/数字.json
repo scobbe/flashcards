@@ -5,8 +5,8 @@
   "english": "number",
   "etymology": {
     "type": "compound word",
-    "description": "數(數) (shù, \"count; number\") + 字(字) (zì, \"character; word\") = written character for numbers",
-    "interpretation": "數(數) (shù, \"count; number\"): The concept of counting and assigning a numerical value implies representation as numerals. 字(字) (zì, \"character; word\"): Surfaces the nature of individual components making up the language written system. Combining 數(數) (shù, \"number\") with 字(字) (zì, \"character\") therefore refers to numerals or written symbols that represent numbers specifically. This is an intuitive connection, where each number must be captured in a distinct character form, represented by a 字(字).",
+    "description": "數(數) (shù, \"number\") + 字(字) (zì, \"character; word\")",
+    "interpretation": "數(數) (shù, \"number\") represents counting or measurable quantities, combining with 字(字) (zì, \"character; word\"), which refers to written symbols or units of language. Together, the word captures the idea of numerals as characters that represent numbers and are the graphical units for expressing numerical quantities.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "数",
       "trad": "數",
       "pinyin": "shù",
-      "english": "count; number"
+      "english": "number; count"
     },
     {
       "char": "字",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他对数字很敏感(他對數字很敏感)。",
-      "pinyin": "Tā duì shùzì hěn mǐngǎn.",
-      "english": "He is very sensitive to numbers."
+      "chinese": "我喜欢数学，因为我喜欢研究数字(我喜歡數學，因為我喜歡研究數字)。",
+      "pinyin": "Wǒ xǐhuān shùxué, yīnwèi wǒ xǐhuān yánjiū shùzì.",
+      "english": "I like mathematics because I enjoy studying numbers."
     },
     {
-      "chinese": "这个数字很重要(這個數字很重要)。",
-      "pinyin": "Zhège shùzì hěn zhòngyào.",
-      "english": "This number is very important."
+      "chinese": "密码由六个数字组成(密碼由六個數字組成)。",
+      "pinyin": "Mìmǎ yóu liù gè shùzì zǔchéng.",
+      "english": "The password consists of six numbers."
     },
     {
-      "chinese": "我需要检查这些数字是否正确(我需要檢查這些數字是否正確)。",
-      "pinyin": "Wǒ xūyào jiǎnchá zhèxiē shùzì shìfǒu zhèngquè.",
-      "english": "I need to check whether these numbers are correct."
+      "chinese": "我不太擅长记数字(我不太擅長記數字)。",
+      "pinyin": "Wǒ bù tài shàncháng jì shùzì.",
+      "english": "I am not very good at remembering numbers."
     }
   ]
 }

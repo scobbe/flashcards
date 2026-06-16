@@ -5,8 +5,8 @@
   "english": "hello",
   "etymology": {
     "type": "compound word",
-    "description": "你(你) (nǐ, \"you\") + 好(好) (hǎo, \"good\") = direct address greeting literally meaning 'you good' -> hello",
-    "interpretation": "你好(你好) (nǐhǎo, \"hello\") is a common greeting in Mandarin Chinese, directly addressing a person with a wish for well-being. It reflects the importance of politeness and friendliness in Chinese social interactions.",
+    "description": "你(你) (nǐ, 'you') + 好(好) (hǎo, 'good') creates a friendly greeting similar to 'hello' in English.",
+    "interpretation": "The phrase 你好 (nǐ hǎo) directly translates to 'you good', which when used together forms a standard greeting. The combination reflects a polite inquiry into someone's well-being, acknowledging the other person with a positive and open expression, akin to saying 'hello' in English.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "好",
       "trad": "好",
       "pinyin": "hǎo",
-      "english": "good; well; fine; nice"
+      "english": "good; well; fine"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你好(你好)。",
-      "pinyin": "nǐ hǎo.",
-      "english": "Hello."
+      "chinese": "你好(你好)，我很高兴认识你(我很高興認識你)。",
+      "pinyin": "Nǐ hǎo, wǒ hěn gāoxìng rènshi nǐ.",
+      "english": "Hello, I'm very happy to meet you."
     },
     {
-      "chinese": "当你见到朋友时(當你見到朋友時)，记得先说你好(記得先說你好)。",
-      "pinyin": "dāng nǐ jiàn dào péngyǒu shí, jìdé xiān shuō nǐ hǎo.",
-      "english": "When you meet a friend, remember to say hello."
+      "chinese": "每天早上见面时(每天早上見面時)，我们都会说“你好”(我們都會說“你好”)。",
+      "pinyin": "Měitiān zǎoshang jiànmiàn shí, wǒmen dōu huì shuō “nǐ hǎo”.",
+      "english": "Every morning when we meet, we all say 'hello'."
     },
     {
-      "chinese": "老师见到学生时(老師見到學生時)，总是微笑着说你好(總是微笑著說你好)。",
-      "pinyin": "lǎoshī jiàn dào xuéshēng shí, zǒng shì wēixiào zhe shuō nǐ hǎo.",
-      "english": "When the teacher sees the students, he always greets them with hello."
+      "chinese": "她总是用愉快的语气说“你好”(她總是用愉快的語氣說“你好”)。",
+      "pinyin": "Tā zǒngshì yòng yúkuài de yǔqì shuō “nǐ hǎo”.",
+      "english": "She always says 'hello' with a cheerful tone."
     }
   ]
 }

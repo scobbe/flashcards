@@ -4,23 +4,28 @@
   "pinyin": "gān",
   "english": "sweet",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a mouth with a sweet flavor",
-    "interpretation": "The character 甘(甘) (gān, 'sweet') visually represents the idea of sweetness being savored by the mouth. It's a straightforward depiction of tasting pleasure.",
+    "type": "ideogram",
+    "description": "𠁿 -> something sweet in an open mouth -> 甘",
+    "interpretation": "甘 (gān, \"sweet\") is an ideogram depicting something sweet inside an open mouth. This visualization of taste illustrates the core concept of sweetness as directly related to the act of consuming something pleasant. This visual representation connects the sensory experience of sweetness with its meaning in the character.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个果子很甘(這個果子很甘)。",
-      "pinyin": "Zhège guǒzi hěn gān.",
-      "english": "This fruit is sweet."
+      "chinese": "蜂蜜很甘(蜂蜜很甘)。",
+      "pinyin": "Fēngmì hěn gān.",
+      "english": "Honey is very sweet."
     },
     {
-      "chinese": "这种酒甘而不腻(這種酒甘而不膩)，让人回味无穷(讓人回味無窮)。",
-      "pinyin": "Zhè zhǒng jiǔ gān ér bù nì, ràng rén huí wèi wú qióng.",
-      "english": "This wine is sweet without being cloying, leaving a lasting aftertaste."
+      "chinese": "他的话如甘露滋润了我的心(他的話如甘露滋潤了我的心)。",
+      "pinyin": "Tā de huà rú gānlù zīrùnle wǒ de xīn.",
+      "english": "His words nourished my heart like sweet dew."
+    },
+    {
+      "chinese": "这种水果味道甘美(這種水果味道甘美)。",
+      "pinyin": "Zhè zhǒng shuǐguǒ wèidào gān měi.",
+      "english": "The taste of this fruit is sweet and delicious."
     }
   ]
 }

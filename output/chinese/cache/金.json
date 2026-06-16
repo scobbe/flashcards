@@ -4,9 +4,9 @@
   "pinyin": "jīn",
   "english": "metal",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "士(士) (shì, \"upside-down ritual axe perhaps made of precious materials\") + 呂(呂) (lǚ, \"two blocks of metal\") + 亼(亼) (jī, \"phonetic: open mouth flipped upside down\") -> original meaning related to copper -> extended to metal and gold",
-    "interpretation": "The character 金(jīn, \"metal\") initially indicated copper, reflecting its historical use before the Bronze Age in China. The combination of symbolic components for metal and sound formed the basis for its evolution into a general term for metal and subsequently gold.",
+    "type": "phono-semantic compound",
+    "description": "士 (upside-down ritual axe) + 呂 (two blocks of metal) + phonetic 亼 (open mouth upside down) -> original pronunciation; no earth pictogram in ancient forms -> metal, later gold",
+    "interpretation": "Initially representing copper, due to its use in the Copper Age, the character 金 (jīn, \"metal\") evolved to refer broadly to metal as technological progress made various metals crucial in society. The extension to gold reflects its value and prominence. The phonetic 亼 indicates the character's pronunciation, with semantic elements showing early associations with precious materials.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "士",
       "trad": "士",
       "pinyin": "shì",
-      "english": "upside-down ritual axe perhaps made of precious materials"
+      "english": "upside-down ritual axe"
     },
     {
       "char": "呂",
@@ -25,21 +25,26 @@
     {
       "char": "亼",
       "trad": "亼",
-      "pinyin": "jī",
-      "english": "open mouth flipped upside down"
+      "pinyin": "jí",
+      "english": "open mouth upside down"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "金是一种珍贵的金属(金是一種珍貴的金屬)。",
-      "pinyin": "Jīn shì yī zhǒng zhēnguì de jīnshǔ.",
-      "english": "Metal is a precious metal."
+      "chinese": "金是一种重要的工业原料(金是一種重要的工業原料)。",
+      "pinyin": "Jīn shì yī zhǒng zhòngyào de gōngyè yuánliào.",
+      "english": "Metal is an important industrial material."
     },
     {
-      "chinese": "这座桥的柱子由金铸成(這座橋的柱子由金鑄成)，闪闪发光(閃閃發光)。",
-      "pinyin": "Zhè zuò qiáo de zhùzi yóu jīn zhùchéng, shǎnshǎn fāguāng.",
-      "english": "The pillars of this bridge are cast from metal, shining brilliantly."
+      "chinese": "她的项链是纯金的(她的項鍊是純金的)。",
+      "pinyin": "Tā de xiàngliàn shì chún jīn de.",
+      "english": "Her necklace is made of pure gold."
+    },
+    {
+      "chinese": "每个国家都有自己的金矿(每個國家都有自己的金礦)。",
+      "pinyin": "Měi gè guójiā dōu yǒu zìjǐ de jīnkuàng.",
+      "english": "Every country has its own gold mines."
     }
   ]
 }

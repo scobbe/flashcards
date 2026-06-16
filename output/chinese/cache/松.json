@@ -5,35 +5,34 @@
   "english": "pine",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 木(木) (mù, \"wood\") + phonetic: 公(公) (gōng, \"public\") = type of soft wood -> pine",
-    "interpretation": "The character combines 木(木) (mù, \"wood\") indicating its relation to trees, with 公(公) (gōng, \"public\") providing the phonetic component, representing a type of tree known for its tall and strong, yet flexible structure.",
-    "simplification": "松(鬆) (sōng, \"pine\") simplifies 鬆 by removing the radical 鬆, which indicated relaxation or loosening, retaining only the essential 木(木) (mù, \"wood\") and 公(公) (gōng, \"public\") for phonetic reading."
+    "description": "semantic 髟 (\"hair\") + phonetic 松 (sōng) -> meaning",
+    "interpretation": "鬆(鬆) (sōng, \"loose\") combines 髟(髟) (biāo, \"hair\") as the semantic element expressing the idea of looseness or something flowing freely, similar to hair, with 松(松) (sōng, \"pine\") as the phonetic element. This links to the concept of being loose or relaxed, as hair can freely flow and pine branches are not tightly bound.",
+    "simplification": "The simplified form 松(鬆) (sōng, \"pine\") retains 毛(毛) (máo, \"fur\") as a reduced element replacing 髟(髟) (biāo, \"hair\") and removing excess components for simplicity."
   },
   "parts": [
     {
-      "char": "木",
-      "trad": "木",
-      "pinyin": "mù",
-      "english": "wood"
-    },
-    {
-      "char": "公",
-      "trad": "公",
-      "pinyin": "gōng",
-      "english": "public"
+      "char": "髟",
+      "trad": "髟",
+      "pinyin": "biāo",
+      "english": "hair"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那棵松树依然挺立(那棵松樹依然挺立)。",
-      "pinyin": "Nà kē sōng shù yīrán tǐnglì.",
-      "english": "That pine still stands tall."
+      "chinese": "院子里有一棵高大的松树(院子裡有一棵高大的鬆樹)。",
+      "pinyin": "Yuànzi lǐ yǒu yī kē gāodà de sōngshù.",
+      "english": "There is a tall pine tree in the yard."
     },
     {
-      "chinese": "公园里种满了松树(公園里種滿了松樹)，空气也格外清新(空氣也格外清新)。",
-      "pinyin": "Gōngyuán lǐ zhǒng mǎn le sōng shù, kōngqì yě géwài qīngxīn.",
-      "english": "The park is filled with pine trees, and the air is exceptionally fresh."
+      "chinese": "那片森林以松树闻名(那片森林以鬆樹聞名)。",
+      "pinyin": "Nà piàn sēnlín yǐ sōngshù wénmíng.",
+      "english": "That forest is famous for its pine trees."
+    },
+    {
+      "chinese": "他躺在松针覆盖的地面上(他躺在鬆針覆蓋的地面上)。",
+      "pinyin": "Tā tǎng zài sōngzhēn fùgài de dìmiàn shàng.",
+      "english": "He lay on the ground covered with pine needles."
     }
   ]
 }

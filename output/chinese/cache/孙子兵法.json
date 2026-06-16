@@ -5,40 +5,40 @@
   "english": "The Art of War by Sun Tzu",
   "etymology": {
     "type": "compound word",
-    "description": "孫(孫) (sūn, \"grandson\"), 子(子) (zǐ, \"master\"), 兵(兵) (bīng, \"military\"), 法(法) (fǎ, \"method\")",
-    "interpretation": "The term 孙子兵法(孫子兵法) (Sūnzǐ Bīngfǎ, \"The Art of War\") refers to a classical Chinese military treatise written by Sun Tzu, also known as Sunzi. 孙子(孫子) (Sūnzǐ, \"Master Sun\") is a respectful reference to the author, while 兵法(兵法) (Bīngfǎ, \"military method\") indicates the systematic and strategic approach of the text. This work is renowned for its strategic insights and has been widely studied in both military and business contexts.",
+    "description": "The term 孫子兵法 (Sūnzǐ Bīngfǎ) refers to 'The Art of War,' an ancient Chinese military treatise. It was traditionally attributed to the military strategist 孫(孫) (Sūn, \"surname Sun\") 子(子) (zǐ, \"master; son\") whose name collectively forms 孫子 (Sūnzǐ, \"Master Sun\"). The surname 孫(孫) (Sūn, \"surname Sun\") connects him to his lineage, while 子(子) (zǐ, \"master\") conveys reverence and mastery. 兵(兵) (bīng, \"soldier; military\") emphasizes the military focus of his teachings. 法(法) (fǎ, \"method; law\") indicates a comprehensive systematic methodology, reflecting the structured and strategic nature of the text.",
+    "interpretation": "The name 孫子 (Sūnzǐ, \"Master Sun\") acknowledges Sun Tzu's status as a venerated figure in military strategy. 兵法 (bīngfǎ, \"military methods\") signifies the strategic doctrines and tactics explained in the text, making it an authoritative guide on warfare. 'Master Sun's Military Methods' highlights the treatise's focus on strategic principles employed by military leaders.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "孙子",
+      "char": "孫子",
       "trad": "孫子",
       "pinyin": "Sūnzǐ",
-      "english": "Sun Tzu; Master Sun"
+      "english": "Master Sun"
     },
     {
       "char": "兵法",
       "trad": "兵法",
-      "pinyin": "Bīngfǎ",
-      "english": "military method; art of war"
+      "pinyin": "bīngfǎ",
+      "english": "military methods"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "孙子兵法是一本著名的军事著作(孫子兵法是一本著名的軍事著作)。",
-      "pinyin": "Sūnzǐ Bīngfǎ shì yī běn zhùmíng de jūnshì zhùzuò.",
-      "english": "The Art of War by Sun Tzu is a famous military treatise."
+      "chinese": "孙子兵法(孫子兵法)是一部著名的兵书(是一部著名的兵書)。",
+      "pinyin": "Sūnzǐ Bīngfǎ shì yī bù zhùmíng de bīngshū.",
+      "english": "The Art of War is a famous military treatise."
     },
     {
-      "chinese": "学习孙子兵法(學習孫子兵法)，可以提高战略思维(可以提高戰略思維)。",
-      "pinyin": "Xuéxí Sūnzǐ Bīngfǎ, kěyǐ tígāo zhànlüè sīwéi.",
-      "english": "Studying The Art of War can enhance strategic thinking."
+      "chinese": "许多商界领袖(許多商界領袖)都从孙子兵法中(都從孫子兵法中)获得灵感(獲得靈感)。",
+      "pinyin": "Xǔduō shāngjiè lǐngxiù dōu cóng Sūnzǐ Bīngfǎ zhōng huòdé línggǎn.",
+      "english": "Many business leaders draw inspiration from The Art of War."
     },
     {
-      "chinese": "专家分析孙子兵法(專家分析孫子兵法)，探讨古代战争的智慧(探討古代戰爭的智慧)。",
-      "pinyin": "Zhuānjiā fēnxī Sūnzǐ Bīngfǎ, tàntǎo gǔdài zhànzhēng de zhìhuì.",
-      "english": "Experts analyze The Art of War and explore the wisdom of ancient warfare."
+      "chinese": "读孙子兵法(讀孫子兵法)能提高我们的战略思维(能提高我們的戰略思維)。",
+      "pinyin": "Dú Sūnzǐ Bīngfǎ néng tígāo wǒmen de zhànlüè sīwéi.",
+      "english": "Reading The Art of War can enhance our strategic thinking."
     }
   ]
 }

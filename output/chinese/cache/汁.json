@@ -5,14 +5,14 @@
   "english": "juice",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 氵(水) (shuǐ, \"water\") + Phonetic: 十 (shí, \"ten\") -> fluid-like water -> juice",
-    "interpretation": "The character 汁(汁) combines 氵(水) (shuǐ, \"water\") to signify a liquid and 十 (shí, \"ten\") for its phonetic value. Together, they convey the idea of a fluid or liquid extract, much like juice.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 十(十) (shí) -> a liquid",
+    "interpretation": "The semantic component 氵(水) (shuǐ, \"water\") suggests a liquid, while the phonetic component 十(十) (shí) provides the sound 'zhī'. Together, they represent a liquid substance, hence the meaning 'juice'.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他从柠檬中榨出酸汁(他從檸檬中榨出酸汁)。",
-      "pinyin": "Tā cóng níngméng zhōng zhà chū suān zhī.",
-      "english": "He squeezed sour juice from a lemon."
+      "chinese": "我喜欢喝橙汁(我喜歡喝橙汁)。",
+      "pinyin": "Wǒ xǐhuān hē chéng zhī.",
+      "english": "I like to drink orange juice."
     },
     {
-      "chinese": "鲜果汁很适合夏天饮用(鮮果汁很適合夏天飲用)。",
-      "pinyin": "Xiān guǒ zhī hěn shìhé xiàtiān yǐnyòng.",
-      "english": "Fresh fruit juice is perfect for summer drinking."
+      "chinese": "她把苹果榨成汁(她把蘋果榨成汁)。",
+      "pinyin": "Tā bǎ píngguǒ zhà chéng zhī.",
+      "english": "She juiced the apples."
     },
     {
-      "chinese": "妈妈为我调了混合果汁(媽媽為我調了混合果汁)，加了一点蜂蜜(加了一點蜂蜜)。",
-      "pinyin": "Māmā wèi wǒ tiáo le hùnhé guǒ zhī, jiā le yīdiǎn fēngmì.",
-      "english": "Mom made a mixed fruit juice for me, adding a little honey."
+      "chinese": "果汁比汽水健康(果汁比汽水健康)。",
+      "pinyin": "Guǒ zhī bǐ qìshuǐ jiànkāng.",
+      "english": "Juice is healthier than soda."
     }
   ]
 }

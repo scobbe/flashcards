@@ -4,36 +4,41 @@
   "pinyin": "gōng",
   "english": "achievement; skill",
   "etymology": {
-    "type": "phono-semantic compound and ideogrammic compound",
-    "description": "phonetic: 工(工) (gōng, \"work\") + semantic: 力(力) (lì, \"strength\") = work combined with strength -> achievement or skill",
-    "interpretation": "The character combines the idea of physical or mental work 工(工) (gōng, \"work\") with 力(力) (lì, \"strength\") to convey the concept of successfully applying effort towards an accomplishment.",
+    "type": "phono-semantic compound",
+    "description": "semantic 力 (strength) + phonetic 工 (work) -> work plus strength -> achieving results",
+    "interpretation": "The character 功 (gōng, \"achievement; skill\") combines 力(力) (lì, \"strength\") as the semantic component, indicating the effort or energy expended, with 工(工) (gōng, \"work\") as the phonetic, also emphasizing the idea of labor. The combination implies utilizing strength in work to achieve success or skill, highlighting the relationship between effort and achievement.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "工",
-      "trad": "工",
-      "pinyin": "gōng",
-      "english": "work"
-    },
     {
       "char": "力",
       "trad": "力",
       "pinyin": "lì",
       "english": "strength"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他勤学苦练(他勤學苦練)，练就了一身好功(練就了一身好功)。",
-      "pinyin": "Tā qín xué kǔ liàn, liàn jiù le yì shēn hǎo gōng.",
-      "english": "He studied diligently and developed excellent skills."
+      "chinese": "他花了很多时间在功课上(他花了很多時間在功課上)。",
+      "pinyin": "Tā huāle hěnduō shíjiān zài gōngkè shàng.",
+      "english": "He spent a lot of time on his homework."
     },
     {
-      "chinese": "他凭着平时积累的功(他憑著平時積累的功)，创造了惊人的纪录(創造了驚人的紀錄)。",
-      "pinyin": "Tā píng zhe píng shí jī lěi de gōng, chuàng zào le jīng rén de jì lù.",
-      "english": "He relied on his accumulated skills to create an astonishing record."
+      "chinese": "努力工作会带来成功(努力工作會帶來成功)。",
+      "pinyin": "Nǔlì gōngzuò huì dàilái chénggōng.",
+      "english": "Hard work will bring success."
+    },
+    {
+      "chinese": "这个计划终于取得了预期的成功(這個計劃終於取得了預期的成功)。",
+      "pinyin": "Zhège jìhuà zhōngyú qǔdéle yùqī de chénggōng.",
+      "english": "The plan finally achieved the expected success."
     }
   ]
 }

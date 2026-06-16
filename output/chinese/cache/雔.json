@@ -5,8 +5,8 @@
   "english": "two birds",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "隹(隹) (zhuī, \"bird\") duplicated = two birds -> pair of birds",
-    "interpretation": "The character 雔(chóu) represents the concept of two birds by doubling the character 隹(隹) (zhuī, \"bird\"), conveying the idea of a pair or couple of birds. This reflects its meaning directly by visually reinforcing the association with birds as a group or pair.",
+    "description": "隹(隹) (zhuī, 'short-tailed bird') + 隹(隹) (zhuī, 'short-tailed bird') = two birds together -> representation of gathering or flocking of birds",
+    "interpretation": "The character represents two birds together, emphasizing the idea of a pair or group of birds. The repetition of 隹(隹) (zhuī, 'short-tailed bird') suggests a flock or gathering, visually and conceptually reinforcing the notion of multiple birds.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "隹",
       "trad": "隹",
       "pinyin": "zhuī",
-      "english": "bird"
+      "english": "short-tailed bird"
     }
   ],
   "in_contemporary_usage": false,

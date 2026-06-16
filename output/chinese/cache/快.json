@@ -5,8 +5,8 @@
   "english": "fast; rapid",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "忄(忄) (xīn, \"heart\") + 夬(夬) (guài, \"decisive\") = semantic element of heart + phonetic element suggesting sound -> fast",
-    "interpretation": "The character combines 忄(忄), the radical for matters related to emotions or states of mind, with the phonetic 夬(夬), hinting at decisiveness and speed, thus meaning \"fast\" or \"rapid.\"",
+    "description": "semantic 忄(忄) (heart) + phonetic 夬(夬) (夬) -> fast",
+    "interpretation": "The semantic component 忄(忄) (xīn, \"heart\") suggests emotional or internal state, while the phonetic component 夬(夬) (kuài, \"decisive\") provides the pronunciation. Together, they convey the sense of something being 'fast' or 'rapid' as a decision or action may stem from a quick mind or heart.",
     "simplification": ""
   },
   "parts": [
@@ -19,7 +19,7 @@
     {
       "char": "夬",
       "trad": "夬",
-      "pinyin": "guài",
+      "pinyin": "kuài",
       "english": "decisive"
     }
   ],
@@ -31,9 +31,14 @@
       "english": "He runs very fast."
     },
     {
-      "chinese": "他答题快(他答題快)，老师夸奖他(老師誇獎他)。",
-      "pinyin": "Tā dá tí kuài, lǎoshī kuā jiǎng tā.",
-      "english": "He answers the questions quickly, and the teacher praises him."
+      "chinese": "快餐店里总是很热闹(快餐店裡總是很熱鬧)。",
+      "pinyin": "Kuàicān diàn lǐ zǒng shì hěn rènào.",
+      "english": "Fast food restaurants are always bustling."
+    },
+    {
+      "chinese": "时间过得真快(時間過得真快)。",
+      "pinyin": "Shíjiān guò de zhēn kuài.",
+      "english": "Time passes really fast."
     }
   ]
 }

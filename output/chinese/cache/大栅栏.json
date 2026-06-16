@@ -5,35 +5,40 @@
   "english": "historic commercial street in Beijing",
   "etymology": {
     "type": "compound word",
-    "description": "大(大) (dà, \"big\") usually indicates size or importance. 栅(柵) (zhà, \"fence\") and 栏(欄) (lán, \"railing\") together depict a physical structure related to protection or guiding passage.",
-    "interpretation": "大(大) (dà, \"big\") in this context emphasizes the importance of 栅栏(柵欄) (shí làn, \"fence or railing\"), referring to a significant street historically known for its bustling commercial activity, likened to a place enclosed or guided by these structures.",
-    "simplification": "The simplification involves changing 柵 to 栅 and 欄 to 栏."
+    "description": "大(大) (dà, \"big; great\") is used to signify importance or size. 柵(栅) (zhà, \"fence; barrier\") and 欄(栏) (lán, \"rail; fence\") together can form the sense of a barricade or structural barrier. Historically, this area in Beijing served as a bustling commercial hub, often characterized by notable structures and barriers.",
+    "interpretation": "The combination 大(大) (dà, \"big; great\") with 柵欄(栅栏) (shí lán, \"fence; barrier\") suggests a significant place bounded or defined by notable structures, fitting for a prominent area like a major commercial street in Beijing which was well-established and recognizable by such features. It indicates both the historical significance and the structural aspect of this area.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "big; great; major"
+      "english": "big; great"
     },
     {
       "char": "栅栏",
       "trad": "柵欄",
-      "pinyin": "shí làn",
-      "english": "fence; railing"
+      "pinyin": "shí lán",
+      "english": "fence; barrier"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "大栅栏有很多老字号的店铺(大柵欄有很多老字號的店舖)。",
-      "pinyin": "dà zhàn lán yǒu hěn duō lǎo zì hào de diàn pù.",
-      "english": "Dà zhàn lán has many time-honored brand shops."
+      "chinese": "我们今天要去大栅栏(我們今天要去大柵欄)。",
+      "pinyin": "Wǒmen jīntiān yào qù dà shí làn.",
+      "english": "Today, we are going to Dàshílàn."
     },
     {
-      "chinese": "大栅栏保留着老北京的韵味(大柵欄保留著老北京的韻味)，吸引着众多历史爱好者(吸引著眾多歷史愛好者)。",
-      "pinyin": "dà zhàn lán bǎoliú zhe lǎo běijīng de yùn wèi, xī yǐn zhe zhòng duō lì shǐ ài hào zhě.",
-      "english": "Dà zhàn lán preserves the charm of old Beijing, attracting many history enthusiasts."
+      "chinese": "大栅栏(大柵欄)是一个充满历史风情的地方(是一個充滿歷史風情的地方)。",
+      "pinyin": "Dà shí làn shì yī gè chōngmǎn lìshǐ fēngqíng de dìfāng.",
+      "english": "Dàshílàn is a place full of historical charm."
+    },
+    {
+      "chinese": "游览完天安门(遊覽完天安門)，我们可以去大栅栏(我們可以去大柵欄)逛逛。",
+      "pinyin": "Yóulǎn wán tiānānmén, wǒmen kěyǐ qù dà shí làn guàng guàng.",
+      "english": "After touring Tiananmen, we can visit Dàshílàn."
     }
   ]
 }

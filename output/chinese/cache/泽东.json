@@ -5,35 +5,40 @@
   "english": "Zedong; eastern marsh",
   "etymology": {
     "type": "compound word",
-    "description": "澤(泽) (zé, \"marsh\") refers to a wetland or swampy area which nourishes and supports life. 東(东) (dōng, \"east\") indicates the direction of the sunrise, associated with beginnings.",
-    "interpretation": "The word 泽东(澤東) (Zédōng) combines the concept of a life-nurturing marshland with the direction east. Symbolically, it can represent the idea of a fertile and sustaining area to the east. The name is famously associated with Mao Zedong, the former leader of China.",
-    "simplification": "泽 is the simplified form of 澤, and 东 is the simplified form of 東."
+    "description": "澤(澤) (zé, \"marsh\") refers to a wetland or marsh, indicating a moist and fertile area. 東(東) (dōng, \"east\") signifies the direction east. The combination in a personal name like 毛泽东 (Máo Zédōng) suggests renown or auspiciousness associated with the east.",
+    "interpretation": "In personal names, 澤 (zé, \"marsh\") conveys a sense of growth or abundance, as marshes are fertile. 東 (dōng, \"east\") is often culturally seen as an auspicious direction, symbolizing new beginnings or drawn associations with the rising sun. Thus, 澤東 (Zédōng) in names can imply thriving prosperity from the east.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "泽",
       "trad": "澤",
       "pinyin": "zé",
-      "english": "marsh; wetland; benefit; grace"
+      "english": "marsh; moist; grace; brilliance"
     },
     {
       "char": "东",
       "trad": "東",
       "pinyin": "dōng",
-      "english": "east; host; landlord"
+      "english": "east; eastern"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "毛泽东(毛澤東)领导革命(領導革命)，创建新中国(創建新中國)。",
-      "pinyin": "Máo Zédōng lǐngdǎo gémìng, chuàngjiàn xīn Zhōngguó.",
-      "english": "Mao Zedong led the revolution and founded the new China."
+      "chinese": "毛泽东(毛澤東)是中国历史上的一个重要人物(中國歷史上的一個重要人物)。",
+      "pinyin": "Máo Zédōng shì Zhōngguó lìshǐ shàng de yī gè zhòngyào rénwù.",
+      "english": "Mao Zedong is an important figure in Chinese history."
     },
     {
-      "chinese": "泽东(澤東)原指东边的沼泽(原指東邊的沼澤)，后来成为名字(後來成為名字)。",
-      "pinyin": "Zédōng yuán zhǐ dōngbiān de zhǎozé, hòulái chéngwéi míngzì.",
-      "english": "Zedong originally referred to an eastern marsh and later became a name."
+      "chinese": "泽东(澤東)河畔的风景非常美丽(河畔的風景非常美麗)。",
+      "pinyin": "Zédōng hépàn de fēngjǐng fēicháng měilì.",
+      "english": "The scenery by the eastern marsh is very beautiful."
+    },
+    {
+      "chinese": "他在阅读毛泽东(毛澤東)的著作(的著作)。",
+      "pinyin": "Tā zài yuèdú Máo Zédōng de zhùzuò.",
+      "english": "He is reading the works of Mao Zedong."
     }
   ]
 }

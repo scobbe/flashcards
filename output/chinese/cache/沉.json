@@ -5,35 +5,40 @@
   "english": "sink",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "氵(氵) (shuǐ, \"water\") + phonetic: 冗(冗) (rǒng) = something sinking in water -> sink",
-    "interpretation": "The character uses 氵(氵) (shuǐ, \"water\") to indicate the context of water, implying the act of sinking, with 冗(冗) (rǒng) providing the phonetic component.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 冘(冘) -> meaning",
+    "interpretation": "The semantic component 水(水) (shuǐ, \"water\") provides the context of being in water, while the phonetic component 冘 (yín, \"to go forward slowly\") contributes the sound. The character 沉 (chén, \"sink\") thus conveys the action related to water immersion, specifically the idea of sinking into water.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
     {
-      "char": "冗",
-      "trad": "冗",
-      "pinyin": "rǒng",
-      "english": "phonetic"
+      "char": "冘",
+      "trad": "冘",
+      "pinyin": "yín",
+      "english": "to go forward slowly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小船在湖中沉(小船在湖中沈)。",
-      "pinyin": "Xiǎochuán zài húzhōng chén.",
-      "english": "The little boat sinks in the lake."
+      "chinese": "他的船在暴风雨中沉(他的船在暴風雨中沉)。",
+      "pinyin": "Tā de chuán zài bàofēngyǔ zhōng chén.",
+      "english": "His ship sank during the storm."
     },
     {
-      "chinese": "当铁块被水浇时(當鐵塊被水澆時)，它迅速沉入河底(它迅速沈入河底)。",
-      "pinyin": "Dāng tiěkuài bèi shuǐ jiāo shí, tā xùnsù chén rù hé dǐ.",
-      "english": "When the iron block is doused with water, it sinks rapidly to the riverbed."
+      "chinese": "太阳慢慢沉入地平线(太陽慢慢沉入地平線)。",
+      "pinyin": "Tàiyáng mànmàn chén rù dìpíngxiàn.",
+      "english": "The sun slowly sank below the horizon."
+    },
+    {
+      "chinese": "他感到自己的心沉入了谷底(他感到自己的心沉入了谷底)。",
+      "pinyin": "Tā gǎndào zìjǐ de xīn chén rù le gǔdǐ.",
+      "english": "He felt his heart sink to the bottom."
     }
   ]
 }

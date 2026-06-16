@@ -5,40 +5,40 @@
   "english": "reserve; book",
   "etymology": {
     "type": "compound word",
-    "description": "预(預) (yù, \"in advance\") + 订(訂) (dìng, \"order\") = to order in advance, hence to reserve or book",
-    "interpretation": "The word 预订(預訂) (yùdìng, \"reserve; book\") combines the idea of taking action in advance with the act of ordering. This concept is applied when setting aside services or items before they are needed, such as booking a hotel room or reserving a table at a restaurant.",
-    "simplification": "预订 is the simplified form of 預訂."
+    "description": "預(預) (yù, \"beforehand\") indicating anticipation or planning in advance, and 訂(訂) (dìng, \"fix; set\") meaning to establish or confirm. This combination suggests the action of confirming something in advance.",
+    "interpretation": "The sense of 'reserve' or 'book' in 預訂 derives from the concept of making arrangements (訂) beforehand (預). The act of setting or fixing something (such as a schedule, seat, or service) ahead of time leads to the concept of reserving or booking.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "预",
       "trad": "預",
       "pinyin": "yù",
-      "english": "in advance"
+      "english": "beforehand"
     },
     {
       "char": "订",
       "trad": "訂",
       "pinyin": "dìng",
-      "english": "order; agree; conclude"
+      "english": "fix; set"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我预订了酒店(我預訂了酒店)。",
-      "pinyin": "Wǒ yùdìngle jiǔdiàn.",
-      "english": "I booked a hotel."
+      "chinese": "我想预订一张餐桌(我想預訂一張餐桌)。",
+      "pinyin": "Wǒ xiǎng yùdìng yī zhāng cānzhuō.",
+      "english": "I would like to reserve a table."
     },
     {
-      "chinese": "他预订了餐位(他預訂了餐位)，打算邀请朋友一起用餐(打算邀請朋友一起用餐)。",
-      "pinyin": "Tā yùdìngle cānwèi, dǎsuàn yāoqǐng péngyǒu yīqǐ yòngcān.",
-      "english": "He reserved a table, planning to invite friends to dine together."
+      "chinese": "请提前预订机票(請提前預訂機票)。",
+      "pinyin": "Qǐng tíqián yùdìng jīpiào.",
+      "english": "Please book the plane tickets in advance."
     },
     {
-      "chinese": "我们预订了演唱会门票(我們預訂了演唱會門票)，期待美好的夜晚(期待美好的夜晚)。",
-      "pinyin": "Wǒmen yùdìngle yǎnchànghuì ménpiao, qídài měihǎo de yèwǎn.",
-      "english": "We booked concert tickets, looking forward to a wonderful evening."
+      "chinese": "她已经预订了这家酒店(她已經預訂了這家酒店)，我们可以直接入住(我們可以直接入住)。",
+      "pinyin": "Tā yǐjīng yùdìng le zhè jiā jiǔdiàn, wǒmen kěyǐ zhíjiē rùzhù.",
+      "english": "She has already booked this hotel, so we can check in directly."
     }
   ]
 }

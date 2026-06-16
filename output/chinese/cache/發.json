@@ -4,47 +4,41 @@
   "pinyin": "fā",
   "english": "issue",
   "etymology": {
-    "type": "variant form",
-    "description": "發 is a variant form of 暴 (暴) (bào, \"violence\")",
-    "interpretation": "Although 發 (fā, \"issue\") is a variant of 暴 (bào, \"violence\"), it shows a shift from the original meaning of violence and exposure to the sun, represented by the components 虎 (hǔ, \"tiger\") and 戈 (gē, \"weapon\"), with a focus on issuing or generating something, which is a common semantic shift in character evolution.",
-    "simplification": ""
+    "type": "phono-semantic compound",
+    "description": "semantic 癶 (stretch out) + phonetic 殳 (a type of weapon) -> to issue",
+    "interpretation": "The character 發(fā, \"issue\") combines the semantic element 癶(bó, \"stretch out\") representing action or movement, with the phonetic element 殳(shū, \"a type of weapon\") which provides the sound. The idea of stretching out or moving forward aligns with the notion of issuing or sending forth, whether it be an object, action, or command.",
+    "simplification": "In the simplified form 发, the component 殳 (shū, \"a type of weapon\") was replaced with another element that retains the phonetic sound to reduce the number of strokes."
   },
   "parts": [
     {
-      "char": "暴",
-      "trad": "暴",
-      "pinyin": "bào",
-      "english": "violence"
+      "char": "癶",
+      "trad": "癶",
+      "pinyin": "bó",
+      "english": "stretch out"
     },
     {
-      "char": "虎",
-      "trad": "虎",
-      "pinyin": "hǔ",
-      "english": "tiger"
-    },
-    {
-      "char": "戈",
-      "trad": "戈",
-      "pinyin": "gē",
-      "english": "weapon"
+      "char": "殳",
+      "trad": "殳",
+      "pinyin": "shū",
+      "english": "a type of weapon"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公司發新通知(公司發新通知)。",
-      "pinyin": "Gōngsī fā xīn tōngzhī.",
-      "english": "The company issued a new notice."
+      "chinese": "公司今天发布了新的政策(公司今天發佈了新的政策)。",
+      "pinyin": "Gōngsī jīntiān fābù le xīn de zhèngcè.",
+      "english": "The company issued a new policy today."
     },
     {
-      "chinese": "学校發考试日程(學校發考試日程)，确保学生知晓(確保學生知曉)。",
-      "pinyin": "Xuéxiào fā kǎoshì rìchéng, quèbǎo xuéshēng zhīxiǎo.",
-      "english": "The school issued the exam schedule to ensure the students were informed."
+      "chinese": "他发了一封邀请函給我(他發了一封邀請函給我)。",
+      "pinyin": "Tā fāle yī fēng yāoqǐng hán gěi wǒ.",
+      "english": "He issued an invitation letter to me."
     },
     {
-      "chinese": "邮局發快递通知(郵局發快遞通知)。",
-      "pinyin": "Yóujú fā kuàidì tōngzhī.",
-      "english": "The post office issued a delivery notice."
+      "chinese": "老师决定不对这个错误发言(老師決定不對這個錯誤發言)。",
+      "pinyin": "Lǎoshī juédìng bù duì zhège cuòwù fāyán.",
+      "english": "The teacher decided not to issue a comment on this mistake."
     }
   ]
 }

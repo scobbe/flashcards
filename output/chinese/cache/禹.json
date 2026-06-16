@@ -5,41 +5,40 @@
   "english": "name of an ancient Chinese ruler",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禸(禸) (róu, \"track\") as semantic indicating land and 土(土) (tǔ, \"earth\") indicating terrain + 口(口) (kǒu, \"mouth\") phonetic component = a name for a ruler famed for flood control -> name of ancient Chinese ruler",
-    "interpretation": "The character 禹(yǔ) reflects the historical association with land and flood management, as indicated by the components representing earth and terrain combined with a phonetic element.",
+    "description": "Phono-semantic compound: semantic 虫 (insect) + phonetic 兀 (sound) -> related to 虺 (a kind of snake) -> later used for the legendary ruler 禹",
+    "interpretation": "The character 禹 combines the insect radical 虫 (chóng, \"insect\") for association with creatures and the phonetic element 兀 (wù, \"cut-off foot\"). Originally part of words relating to snakes or creatures, it was borrowed for its sound to denote Emperor Yu, a semi-mythical figure known for taming nature, connecting the character to a legendary ruler rather than an animal form.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "禸",
-      "trad": "禸",
-      "pinyin": "róu",
-      "english": "track"
+      "char": "兀",
+      "trad": "兀",
+      "pinyin": "wù",
+      "english": "cut-off foot"
     },
     {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
-    },
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "chóng",
+      "english": "insect"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "禹开创了防洪治水的先河(禹開創了防洪治水的先河)。",
-      "pinyin": "Yǔ kāichuàng le fánghóng zhìshuǐ de xiānhé.",
-      "english": "Yu pioneered flood control and water management."
+      "chinese": "大禹治水时(大禹治水時)，展示了非凡的才能(展示了非凡的才能)。",
+      "pinyin": "Dà Yǔ zhì shuǐ shí，zhǎnshì le fēifán de cáinéng.",
+      "english": "When Yu the Great controlled the floods, he displayed extraordinary talent."
     },
     {
-      "chinese": "禹制定了治水规划(禹制定了治水規劃)，启示后代治理水患(啟示後代治理水患)。",
-      "pinyin": "Yǔ zhìdìng le zhìshuǐ guīhuà, qǐshì hòudài zhìlǐ shuǐhuàn.",
-      "english": "Yu established water management strategies, inspiring later generations to manage floods."
+      "chinese": "禹是中国历史上的传奇人物(禹是中國曆史上的傳奇人物)。",
+      "pinyin": "Yǔ shì Zhōngguó lìshǐ shàng de chuánqí rénwù.",
+      "english": "Yu is a legendary figure in Chinese history."
+    },
+    {
+      "chinese": "传说禹花了十三年时间(傳說禹花了十三年時間)，才治理好黄河水患(才治理好黃河水患)。",
+      "pinyin": "Chuánshuō yǔ huā le shí sān nián shíjiān，cái zhìlǐ hǎo Huánghé shuǐhuàn.",
+      "english": "Legend has it that Yu spent thirteen years to successfully control the Yellow River floods."
     }
   ]
 }

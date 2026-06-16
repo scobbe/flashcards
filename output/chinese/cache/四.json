@@ -4,18 +4,12 @@
   "pinyin": "sì",
   "english": "four",
   "etymology": {
-    "type": "semantic compound",
-    "description": "亖(亖) (sǐ, \"four lines\") restructured into 四(四) with 口(口) (kǒu, \"mouth\") around 八(八) (bā, \"divide\") = four as dispersal of breath -> standardized form for \"four\"",
-    "interpretation": "To prevent confusion with 亖(亖) (sǐ, \"four lines\"), which could be misread as 二(二) (èr, \"two\") or 三(三) (sān, \"three\") when written vertically, the components were reorganized into 口(口) enclosing 八(八). This symbolizes the dispersal concept associated with 'mouth' and 'dividing,' linking to the number four.",
+    "type": "phono-semantic compound",
+    "description": "口(口) (kǒu, 'mouth') + 八(八) (bā, 'divide') -> dispersal of breath -> borrowed for 'four'",
+    "interpretation": "Originally depicted by 亖, representing four lines, the character later evolved to include 口 (kǒu, 'mouth') enclosing 八 (bā, 'divide') to symbolize a dispersal of breath. This representation was adapted over time for the numerical value 'four', borrowing phonetically from the original pronunciation linked to breath dispersion. The character was standardized during the Qin dynasty to its current form to avoid confusion with 'two' and 'three' in vertical script.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "亖",
-      "trad": "亖",
-      "pinyin": "sǐ",
-      "english": "four lines"
-    },
     {
       "char": "口",
       "trad": "口",
@@ -32,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有四支铅笔(我有四支鉛筆)。",
-      "pinyin": "Wǒ yǒu sì zhī qiānbǐ.",
-      "english": "I have four pencils."
+      "chinese": "我有四本书(我有四本書)。",
+      "pinyin": "Wǒ yǒu sì běn shū.",
+      "english": "I have four books."
     },
     {
-      "chinese": "今天是四月(今天是四月)，天气很温暖(天氣很溫暖)。",
-      "pinyin": "Jīntiān shì sì yuè，tiānqì hěn wēnnuǎn.",
-      "english": "It is April today, and the weather is warm."
+      "chinese": "四个人在公园里散步(四個人在公園裡散步)。",
+      "pinyin": "Sì gè rén zài gōngyuán lǐ sànbù.",
+      "english": "Four people are walking in the park."
     },
     {
-      "chinese": "公园里有四只小狗(公園裡有四隻小狗)。",
-      "pinyin": "Gōngyuán lǐ yǒu sì zhī xiǎo gǒu.",
-      "english": "There are four little dogs in the park."
+      "chinese": "比赛将在四点开始(比賽將在四點開始)。",
+      "pinyin": "Bǐsài jiāng zài sì diǎn kāishǐ.",
+      "english": "The match will start at four o'clock."
     }
   ]
 }

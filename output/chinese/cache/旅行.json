@@ -5,8 +5,8 @@
   "english": "to travel",
   "etymology": {
     "type": "compound word",
-    "description": "旅(旅) (lǚ, \"to travel; journey\") + 行(行) (xíng, \"to walk; to travel\") = to travel",
-    "interpretation": "The word 旅行(旅行) (lǚxíng, \"to travel\") combines the idea of embarking on a journey and walking or moving through different places. Together, they convey the concept of engaging in travel as a form of exploration or movement across various destinations.",
+    "description": "旅(旅) (lǚ, \"trip\") refers to a journey or expedition. 行(行) (xíng, \"to go; to walk\") involves the action of moving or proceeding. Together, 旅行(旅行) (lǚxíng) literally means \"to go on a trip,\" corresponding directly to the meaning \"to travel.\"",
+    "interpretation": "",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "旅",
       "trad": "旅",
       "pinyin": "lǚ",
-      "english": "to travel; journey"
+      "english": "trip; journey; travel"
     },
     {
       "char": "行",
       "trad": "行",
       "pinyin": "xíng",
-      "english": "to walk; to travel"
+      "english": "to go; to walk; behavior; conduct"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "I like to travel."
     },
     {
-      "chinese": "夏天来临时(夏天來臨時)，我常常去旅行(我常常去旅行)。",
-      "pinyin": "Xiàtiān láilín shí, wǒ chángcháng qù lǚxíng.",
-      "english": "When summer comes, I often travel."
+      "chinese": "我们计划下个月去旅行(我們計劃下個月去旅行)。",
+      "pinyin": "Wǒmen jìhuà xià gè yuè qù lǚxíng.",
+      "english": "We are planning to travel next month."
     },
     {
-      "chinese": "每次旅行都充满惊喜(每次旅行都充滿驚喜)。",
-      "pinyin": "Měi cì lǚxíng dōu chōngmǎn jīngxǐ.",
-      "english": "Every trip is full of surprises."
+      "chinese": "他想去欧洲旅行(他想去歐洲旅行)，体验不同的文化(體驗不同的文化)。",
+      "pinyin": "Tā xiǎng qù Ōuzhōu lǚxíng, tǐyàn bùtóng de wénhuà.",
+      "english": "He wants to travel to Europe to experience different cultures."
     }
   ]
 }

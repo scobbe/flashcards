@@ -1,0 +1,44 @@
+{
+  "simplified": "殃",
+  "traditional": "殃",
+  "pinyin": "yāng",
+  "english": "misfortune",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 歹(歹) (dǎi, \"death; bad\") + phonetic 央(央) (yāng) -> misfortune",
+    "interpretation": "The character 殃 (yāng, \"misfortune\") combines 歹(歹) (dǎi, \"death; bad\") as the semantic element, indicating a negative or destructive aspect, with 央(央) (yāng) providing the phonetic element. The concept of death or badness from 歹 informs the sense of misfortune, with the phonetic 央 contributing the pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "歹",
+      "trad": "歹",
+      "pinyin": "dǎi",
+      "english": "death; bad"
+    },
+    {
+      "char": "央",
+      "trad": "央",
+      "pinyin": "yāng",
+      "english": "center"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这件事给整个家庭带来了殃(這件事給整個家庭帶來了殃)。",
+      "pinyin": "Zhè jiàn shì gěi zhěnggè jiātíng dàiláile yāng.",
+      "english": "This situation brought misfortune to the whole family."
+    },
+    {
+      "chinese": "他因为朋友的不良行为而遭殃(他因為朋友的不良行為而遭殃)。",
+      "pinyin": "Tā yīnwèi péngyou de bùliáng xíngwéi ér zāoyāng.",
+      "english": "He suffered misfortune due to his friend's misconduct."
+    },
+    {
+      "chinese": "暴风雨过后(暴風雨過後)，村子里的庄稼都遭了殃(村子裡的莊稼都遭了殃)。",
+      "pinyin": "Bàofēngyǔ guòhòu，cūnzi lǐ de zhuāngjia dōu zāole yāng.",
+      "english": "After the storm, the crops in the village suffered misfortune."
+    }
+  ]
+}

@@ -5,35 +5,40 @@
   "english": "foundation",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "其(其) (qí, \"his\") + 土(土) (tǔ, \"earth\") = foundation of earth -> final form",
-    "interpretation": "The character 基(基) (jī, \"foundation\") combines 其(其) (qí, \"his\"), which serves as the phonetic component, and 土(土) (tǔ, \"earth\"), representing its semantic meaning of being a foundational layer or base made of earth.",
+    "description": "semantic 土(土) (tǔ, \"earth\") + phonetic 其(其) (qí) -> a foundation of earth",
+    "interpretation": "The character 基(jī, \"foundation\") combines the semantic component 土(土) (tǔ, \"earth\") with the phonetic component 其(其) (qí). The earth component suggests the idea of being on or in the ground, which is foundational for building. The phonetic part 其 provides the pronunciation but does not contribute to the meaning.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "其",
-      "trad": "其",
-      "pinyin": "qí",
-      "english": "his"
-    },
     {
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
       "english": "earth"
+    },
+    {
+      "char": "其",
+      "trad": "其",
+      "pinyin": "qí",
+      "english": "a basket (original meaning); it's"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "建筑物的稳定依赖于坚固的基(堅固的基)。",
-      "pinyin": "Jiànzhùwù de wěndìng yīlài yú jiāngù de jī.",
-      "english": "The building's stability relies on a strong foundation."
+      "chinese": "这个建筑的基础很牢固(這個建築的基礎很牢固)。",
+      "pinyin": "Zhège jiànzhù de jīchǔ hěn láogù.",
+      "english": "The foundation of this building is very solid."
     },
     {
-      "chinese": "传统智慧支撑着改革的基(傳統智慧支撐著改革的基)，现代科技推动着进步的基(現代科技推動著進步的基)。",
-      "pinyin": "Chuántǒng zhìhuì zhīchēng zhe gǎigé de jī, xiàndài kējì tuīdòng zhe jìnbù de jī.",
-      "english": "Traditional wisdom supports the foundation of reform, while modern technology drives the foundation of progress."
+      "chinese": "他用数学为他的理论奠定了基础(他用數學為他的理論奠定了基礎)。",
+      "pinyin": "Tā yòng shùxué wèi tā de lǐlùn diàndìngle jīchǔ.",
+      "english": "He laid the foundation for his theory using mathematics."
+    },
+    {
+      "chinese": "教育是社会进步的基础(教育是社會進步的基礎)。",
+      "pinyin": "Jiàoyù shì shèhuì jìnbù de jīchǔ.",
+      "english": "Education is the foundation of societal progress."
     }
   ]
 }

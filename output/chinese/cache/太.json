@@ -4,9 +4,9 @@
   "pinyin": "tài",
   "english": "too; very; extremely",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "大(大) (dà, \"big; great\") + 丶(added dot) = differentiated to represent 太(tài, \"too big\")",
-    "interpretation": "太(tài, \"too\") evolved as a variation of 大(大) (dà, \"big\") with an additional dot to convey the sense of excessiveness or extremity. This reflects the character's meaning of being \"too\" or \"very\".",
+    "type": "phono-semantic compound",
+    "description": "大 (big; great) with added 丶 to differentiate sound and meaning -> 太 (too big)",
+    "interpretation": "The character 太 (tài, \"too; very; extremely\") uses 大 (dà, \"big; great\") as a base to convey a sense of augmentation. By adding 丶 (an extra dot), it differentiates from 大 to express something beyond the norm or limit, hence 'too; very; extremely'. It graphically conveys extending beyond, akin to emphasizing 'more than just big'.",
     "simplification": ""
   },
   "parts": [
@@ -15,24 +15,30 @@
       "trad": "大",
       "pinyin": "dà",
       "english": "big; great"
+    },
+    {
+      "char": "丶",
+      "trad": "丶",
+      "pinyin": "zhǔ",
+      "english": "dot"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天太热了(今天太熱了)。",
-      "pinyin": "Jīntiān tài rè le.",
-      "english": "It is too hot today."
+      "chinese": "这盘菜太辣了(這盤菜太辣了)。",
+      "pinyin": "Zhè pán cài tài là le.",
+      "english": "This dish is too spicy."
     },
     {
-      "chinese": "这个房间太宽敞了(這個房間太寬敞了)。",
-      "pinyin": "Zhège fángjiān tài kuānchǎng le.",
-      "english": "This room is too spacious."
+      "chinese": "她今天看起来太累了(她今天看起來太累了)。",
+      "pinyin": "Tā jīntiān kàn qǐlái tài lèi le.",
+      "english": "She looks very tired today."
     },
     {
-      "chinese": "他的工作太辛苦了(他的工作太辛苦了)，需要更多的休息(需要更多的休息)。",
-      "pinyin": "Tā de gōngzuò tài xīnkǔ le, xūyào gèng duō de xiūxí.",
-      "english": "His work is too strenuous; he needs more rest."
+      "chinese": "外面的天气太好了(外面的天氣太好了)，我们出去走走吧(我們出去走走吧)！",
+      "pinyin": "Wàimiàn de tiānqì tài hǎo le, wǒmen chūqù zǒuzǒu ba!",
+      "english": "The weather outside is too good, let's go for a walk!"
     }
   ]
 }

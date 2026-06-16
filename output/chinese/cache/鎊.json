@@ -5,9 +5,9 @@
   "english": "pound",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") + 旁(旁) (páng) (phonetic) = metal object denoting weight -> pound",
-    "interpretation": "鎊(鎊) (bàng, \"pound\") combines 金(金) (jīn, \"metal\") signifying currency and objects of metal with 旁(旁) (páng) for phonetic approximation, representing the British currency 'pound', originally associated with a specific weight of precious metals.",
-    "simplification": "金(金) (jīn, \"metal\") was replaced with 钅(钅) (jīn, \"metal\") to form the simplified character 镑(鎊)."
+    "description": "semantic 金(金) (jīn, \"metal\") + phonetic 旁(旁) (páng) -> metal currency -> pound",
+    "interpretation": "鎊(bàng, \"pound\") combines 金(金) (jīn, \"metal\"), indicating a metallic object or currency, with 旁(旁) (páng) as the phonetic component to provide the pronunciation. The meaning of 'pound' arises from the context of a unit of currency, traditionally minted in metal.",
+    "simplification": "鎊(bàng, \"pound\") was simplified to 镑(bàng) by replacing the 金(金) \"metal\" radical with 钅(钅) (jīn), the simplified form of the metal radical, to reduce strokes while retaining the phonetic 旁(旁) (páng)."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一鎊苹果(我買了一鎊蘋果)。",
-      "pinyin": "Wǒ mǎile yī bàng píngguǒ.",
-      "english": "I bought one pound of apples."
+      "chinese": "我给了他一百英镑(我給了他一百英鎊)。",
+      "pinyin": "Wǒ gěi le tā yī bǎi yīngbàng.",
+      "english": "I gave him one hundred pounds."
     },
     {
-      "chinese": "厨师投掷一鎊的肉(廚師投擲一鎊的肉)，以展示力量(以展示力量)。",
-      "pinyin": "Chúshī tóuzhì yī bàng de ròu, yǐ zhǎnshì lìliàng.",
-      "english": "The chef tossed a pound of meat to display his strength."
+      "chinese": "这把古董剑重十磅(這把古董劍重十鎊)。",
+      "pinyin": "Zhè bǎ gǔdǒng jiàn zhòng shí bàng.",
+      "english": "This antique sword weighs ten pounds."
     },
     {
-      "chinese": "他用力举起一鎊铁锤(他用力舉起一鎊鐵錘)。",
-      "pinyin": "Tā yònglì jǔ qǐ yī bàng tiěchuí.",
-      "english": "He lifted a one-pound iron hammer with force."
+      "chinese": "他们刚买了一台重达两百磅的钢琴(他們剛買了一台重達兩百鎊的鋼琴)。",
+      "pinyin": "Tāmen gāng mǎi le yī tái zhòng dá liǎng bǎi bàng de gāngqín.",
+      "english": "They just bought a piano that weighs two hundred pounds."
     }
   ]
 }

@@ -5,40 +5,40 @@
   "english": "tasty",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 匕(匕) (bǐ, \"spoon\") + phonetic: 甘(甘) (gān, \"sweet\") = spoon with something sweet -> tasty",
-    "interpretation": "The character 旨(旨) (zhǐ, \"tasty\") combines 匕(匕) (bǐ, \"spoon\") with 甘(甘) (gān, \"sweet\"), suggesting the action of tasting something sweet with a spoon, thus conveying the idea of deliciousness.",
+    "description": "semantic 甘(甘) (gān, \"sweet; delicious\") + phonetic 匕(匕) (bǐ, \"spoon\") -> tasty",
+    "interpretation": "The character combines the semantic element 甘(甘) (gān, \"sweet; delicious\") to indicate the concept of tastefulness with the phonetic element 匕(匕) (bǐ, \"spoon\") to convey the sound. 甘(甘) represents the idea of something being sweet or delicious, while 匕(匕) suggests the act of eating, thus forming the meaning of 'tasty' associated with consuming delightful flavors.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet; delicious"
+    },
     {
       "char": "匕",
       "trad": "匕",
       "pinyin": "bǐ",
       "english": "spoon"
-    },
-    {
-      "char": "甘",
-      "trad": "甘",
-      "pinyin": "gān",
-      "english": "sweet"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这汤很旨(這湯很旨)。",
-      "pinyin": "Zhè tāng hěn zhǐ.",
-      "english": "This soup is tasty."
+      "chinese": "这道菜非常美味可口(這道菜非常美味可口)。",
+      "pinyin": "Zhè dào cài fēicháng měiwèi kěkǒu.",
+      "english": "This dish is very tasty and delicious."
     },
     {
-      "chinese": "厨师煮出的面条(廚師煮出的麵條)，味道极其旨(味道極其旨)。",
-      "pinyin": "Chú shī zhǔ chū de miàn tiáo, wèi dào jí qí zhǐ.",
-      "english": "The noodles cooked by the chef are extremely tasty."
+      "chinese": "这家餐厅以其旨的菜品闻名(這家餐廳以其旨的菜品聞名)。",
+      "pinyin": "Zhè jiā cāntīng yǐ qí zhǐ de càipǐn wénmíng.",
+      "english": "This restaurant is famous for its tasty dishes."
     },
     {
-      "chinese": "那家饭店(那家飯店)，做的菜肴都很旨(做的菜肴都很旨)。",
-      "pinyin": "Nà jiā fàn diàn, zuò de cài yáo dōu hěn zhǐ.",
-      "english": "The dishes at that restaurant are all tasty."
+      "chinese": "为了品尝那道旨的甜点，我经常光顾那家咖啡馆(為了品嚐那道旨的甜點，我經常光顧那家咖啡館)。",
+      "pinyin": "Wèile pǐncháng nà dào zhǐ de tiándiǎn, wǒ jīngcháng guānggù nà jiā kāfēiguǎn.",
+      "english": "To taste that tasty dessert, I often visit that café."
     }
   ]
 }

@@ -5,14 +5,14 @@
   "english": "sea; ocean",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 每(每) (měi) = body of water suggested by pronunciation -> sea or ocean",
-    "interpretation": "海(海) (hǎi, \"sea; ocean\") combines 氵(氵) (shuǐ, \"water\") to suggest its relation to water bodies, with 每(每) (měi) providing the phonetic component to shape the pronunciation, effectively communicating the concept of a vast body of water.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 每(每) (měi) -> sea; ocean",
+    "interpretation": "The character 海(hǎi, \"sea; ocean\") combines the semantic component 氵(水) (shuǐ, \"water\"), representing water or fluidity, with the phonetic component 每(每) (měi), which provides the pronunciation. The meaning of 'sea or ocean' naturally extends from the association with water, emphasizing a large body of it.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢在海边散步(我喜歡在海邊散步)。",
-      "pinyin": "Wǒ xǐhuān zài hǎibiān sànbù.",
-      "english": "I enjoy taking walks by the sea."
+      "chinese": "孩子们喜欢去海边玩耍(孩子們喜歡去海邊玩耍)。",
+      "pinyin": "Háizimen xǐhuān qù hǎibiān wánshuǎ.",
+      "english": "Children like to play by the sea."
     },
     {
-      "chinese": "夕阳映照在海面上(夕陽映照在海面上)，波光闪烁(波光閃爍)。",
-      "pinyin": "Xīyáng yìngzhào zài hǎimiàn shàng, bōguāng shǎnsuò.",
-      "english": "The setting sun reflects on the sea surface, and the waves sparkle."
+      "chinese": "海洋的蓝色令人心旷神怡(海洋的藍色令人心曠神怡)。",
+      "pinyin": "Hǎiyáng de lánsè lìng rén xīnkuàngshényí.",
+      "english": "The blue of the ocean is refreshing."
     },
     {
-      "chinese": "海风送来凉意(海風送來涼意)，旅人心生惬意(旅人心生愜意)。",
-      "pinyin": "Hǎifēng sòng lái liángyì, lǚrén xīnshēng qièyì.",
-      "english": "The sea breeze brings coolness, and the traveler feels content."
+      "chinese": "他梦想去环游世界的海洋(他夢想去環遊世界的海洋)。",
+      "pinyin": "Tā mèngxiǎng qù huányóu shìjiè de hǎiyáng.",
+      "english": "He dreams of traveling around the world's oceans."
     }
   ]
 }

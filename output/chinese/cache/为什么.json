@@ -5,8 +5,8 @@
   "english": "why?",
   "etymology": {
     "type": "compound word",
-    "description": "为(為) (wèi, \"for\") provides a context or reason, and 什么(什麼) (shénme, \"what\") asks a question or seeks further information. Combined, 为什么(為什麼) (wèishénme) asks for the reason or purpose behind something, essentially translating to \"why\".",
-    "interpretation": "为什么(為什麼) (wèishénme) is used to inquire about the reason or purpose behind an action or situation. It reflects the use of questions in Chinese to seek understanding.",
+    "description": "為(為) (wèi, \"for; because of\") originally means \"for\" or \"on behalf of\", used here to indicate cause or reason. 什(麼) (shén, \"what\") is a question word referring to objects or concepts that are unknown or unspecified. Together, they form a question phrase 'why?', asking for the reason or purpose behind something.",
+    "interpretation": "為(為) (wèi, \"for\") signals an inquiry into the reason or cause, emphasizing the context of the action or event. 什(麼) (shén, \"what\") broadens the inquiry scope by requiring an explanation or information. The combination naturally forms a question about the reason or purpose, essentially asking 'for what purpose?', which translates to 'why?'.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "为",
       "trad": "為",
       "pinyin": "wèi",
-      "english": "for; on account of; because of"
+      "english": "for; because of; to act as; be"
     },
     {
       "char": "什么",
       "trad": "什麼",
       "pinyin": "shénme",
-      "english": "what; what kind of; how many"
+      "english": "what; something; anything; what?; why?"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你为什么生气(你為什麼生氣)？",
-      "pinyin": "Nǐ wèishénme shēngqì?",
-      "english": "Why are you angry?"
+      "chinese": "你为什么哭(你為什麼哭)？",
+      "pinyin": "Nǐ wèishénme kū?",
+      "english": "Why are you crying?"
     },
     {
-      "chinese": "他问我为什么不参加(他問我為什麼不參加)，我不知道(我不知道)。",
-      "pinyin": "Tā wèn wǒ wèishénme bù cānjiā, wǒ bù zhīdào.",
-      "english": "He asked me why I didn't participate, and I didn't know."
+      "chinese": "他为什么离开(他為什麼離開)？",
+      "pinyin": "Tā wèishénme líkāi?",
+      "english": "Why did he leave?"
+    },
+    {
+      "chinese": "我们为什么要学习外语(我們為什麼要學習外語)？",
+      "pinyin": "Wǒmen wèishénme yào xuéxí wàiyǔ?",
+      "english": "Why do we need to learn foreign languages?"
     }
   ]
 }

@@ -4,41 +4,28 @@
   "pinyin": "dān",
   "english": "list",
   "etymology": {
-    "type": "Unorthodox variant of 單.",
-    "description": "Pictogram of a Y-shaped wooden stick A + two stones attached on top B = weapon for hunting -> later stylized to resemble 口 (kǒu, 'mouth') resembling 中 (zhōng, 'middle') -> further stylized as 田 (tián, 'field') with additional horizontal stroke below -> final form 單(單).",
-    "interpretation": "The character 單(單) intuitively represents a hunting tool or weapon, emphasizing its initial function and eventual simplification and stylization over time. The component 单 in this case represents a simplified form, which might have been used for practical writing needs.",
-    "simplification": "單(單) was simplified to 单 by eliminating additional strokes, creating a more straightforward representation that aligns with modern writing practices."
+    "type": "pictogram",
+    "description": "Y-shaped wooden stick with stones -> hunting or war weapon -> resemblance to 中 -> stylized to 田",
+    "interpretation": "Initially depicting a Y-shaped weapon with stones suggesting a hunting tool, the character evolved visually, resembling a pole or stick (中), later taking a form similar to 田. This innovative stylization reveals its original purpose as a practical tool for warfare or hunting, thereby informing its association with tasks and lists in the modern sense.",
+    "simplification": "单(單): The character was simplified by removing the complex elements within 田, reducing it to a more direct form that still suggests the idea of a singular, straightforward entity akin to a list."
   },
-  "parts": [
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请将参加聚会的人员名单准备好(請將參加聚會的人員名單準備好)。",
-      "pinyin": "Qǐng jiāng cānjiā jùhuì de rényuán míngdān zhǔnbèi hǎo.",
-      "english": "Please prepare the list of people attending the party."
+      "chinese": "请给我一张清单(請給我一張清單)。",
+      "pinyin": "Qǐng gěi wǒ yī zhāng qīngdān.",
+      "english": "Please give me a list."
     },
     {
-      "chinese": "老师检查了学生考试名单(老師檢查了學生考試名單)。",
-      "pinyin": "Lǎoshī jiǎnchá le xuéshēng kǎoshì míngdān.",
-      "english": "The teacher checked the list of students taking the exam."
+      "chinese": "他列出了需要购买的物品清单(他列出了需要購買的物品清單)。",
+      "pinyin": "Tā liè chūle xūyào gòumǎi de wùpǐn qīngdān.",
+      "english": "He made a list of items to purchase."
     },
     {
-      "chinese": "经理整理了客户订购单(經理整理了客戶訂購單)。",
-      "pinyin": "Jīnglǐ zhěnglǐ le kèhù dìnggòu dān.",
-      "english": "The manager organized the customers' order list."
+      "chinese": "她准备了一份客人的名单(她準備了一份客人的名單)。",
+      "pinyin": "Tā zhǔnbèi le yī fèn kèrén de míngdān.",
+      "english": "She prepared a list of guests."
     }
   ]
 }

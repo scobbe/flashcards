@@ -1,0 +1,28 @@
+{
+  "simplified": "棼",
+  "traditional": "棼",
+  "pinyin": "fén",
+  "english": "luxuriant",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 分(分) (fēn) -> luxuriant",
+    "interpretation": "The character 棼 (fén, \"luxuriant\") combines 木(木) (mù, \"wood\") as the semantic component, indicating a connection to growing plants or trees, with 分(分) (fēn) as the phonetic component supplying the sound. The image evokes the sense of trees or wood being abundant or luxuriant.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

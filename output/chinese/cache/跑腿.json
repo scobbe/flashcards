@@ -5,8 +5,8 @@
   "english": "paid on-demand errand and same-city delivery services",
   "etymology": {
     "type": "compound word",
-    "description": "跑(跑) (pǎo, \"run\") and 腿(腿) (tuǐ, \"leg\") together describe the act of running errands.",
-    "interpretation": "The term 跑腿(跑腿) (pǎo tuǐ) conveys the idea of someone using their legs to 'run' or carry out errands for others, often as a service. This makes sense as a metaphor for quick, on-demand delivery or errand running, where the 'running' signifies speed and activity.",
+    "description": "跑(跑) (pǎo, \"run\") + 腿(腿) (tuǐ, \"leg\") suggests the action of using one's legs to run errands or deliver items locally.",
+    "interpretation": "跑(跑) (pǎo, \"run\") denotes movement, particularly at speed, while 腿(腿) (tuǐ, \"leg\") emphasizes the physical act of using one's legs. The concept extends to performing errands as a service, using speed and mobility to handle various tasks or deliveries within a city.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我昨天请人跑腿送文件(我昨天請人跑腿送文件)。",
-      "pinyin": "Wǒ zuótiān qǐng rén pǎo tuǐ sòng wénjiàn.",
-      "english": "Yesterday, I hired someone to run an errand to deliver documents."
+      "chinese": "我晚上没空(我晚上沒空)，所以找人跑腿(所以找人跑腿)。",
+      "pinyin": "Wǒ wǎnshang méi kòng，suǒyǐ zhǎo rén pǎotuǐ.",
+      "english": "I am not free in the evening, so I hired someone for errands."
     },
     {
-      "chinese": "她用跑腿服务买了新鲜蔬菜(她用跑腿服務買了新鮮蔬菜)，节省了时间(節省了時間)。",
-      "pinyin": "Tā yòng pǎo tuǐ fúwù mǎile xīnxiān shūcài, jiéshěngle shíjiān.",
-      "english": "She used the on-demand errand service to buy fresh vegetables, which saved time."
+      "chinese": "她在网上提供跑腿服务(她在網上提供跑腿服務)。",
+      "pinyin": "Tā zài wǎngshàng tígōng pǎotuǐ fúwù.",
+      "english": "She offers errands service online."
     },
     {
-      "chinese": "在忙碌的下午(在忙碌的下午)，跑腿成为必备服务(跑腿成為必備服務)。",
-      "pinyin": "Zài mánglù de xiàwǔ, pǎo tuǐ chéngwéi bìbèi fúwù.",
-      "english": "During a busy afternoon, errand running becomes an essential service."
+      "chinese": "当我生病时(當我生病時)，朋友帮我跑腿买药(朋友幫我跑腿買藥)。",
+      "pinyin": "Dāng wǒ shēngbìng shí，péngyǒu bāng wǒ pǎotuǐ mǎi yào.",
+      "english": "When I was sick, a friend helped run errands to buy medicine."
     }
   ]
 }

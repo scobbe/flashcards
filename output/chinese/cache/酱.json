@@ -5,9 +5,9 @@
   "english": "sauce",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "酉(酉) (yǒu, \"drink\") + 將(將) (jiāng, \"lead\") = liquid for cooking or drinking -> sauce",
-    "interpretation": "The character combines the idea of fermented liquids, like those used in drink, with a phonetic hint from 將(將) (jiāng, \"lead\"), suggesting a mixture or preparation, which fits the concept of a sauce.",
-    "simplification": "醬(醬) simplified to 酱(酱) by replacing 將(將) (jiāng, \"lead\") with its cursive form 丬(丬) (pán, \"half tree trunk\") and 夕(夕) (xī, \"evening\") for phonetic similarity."
+    "description": "semantic 酉(酉) (yǒu, \"drink\") + phonetic 將(將) (jiāng, \"to lead/drop\") -> sauce",
+    "interpretation": "The character combines 酉(酉) (yǒu, \"drink\") as the semantic component indicating a liquid or fermented substance, with 將(將) (jiāng, \"to lead/drop\") as the phonetic component, which provides the sound. Together, they represent a fermented or preserved sauce used to enhance the flavor of food.",
+    "simplification": "Simplified by replacing 將(將) (jiāng, \"to lead/drop\") with a simpler structure resembling 丬(丬) (pán, a radical suggesting plate or container) and 夕(夕) (xī, \"evening\"), reducing complexity."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "將",
       "trad": "將",
       "pinyin": "jiāng",
-      "english": "lead"
+      "english": "to lead; drop"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这瓶酱很好吃(這瓶醬很好吃)。",
-      "pinyin": "Zhè píng jiàng hěn hǎo chī.",
-      "english": "This bottle of sauce is delicious."
+      "chinese": "这道菜需要一些辣酱(這道菜需要一些辣醬)。",
+      "pinyin": "Zhè dào cài xūyào yīxiē là jiàng.",
+      "english": "This dish needs some spicy sauce."
     },
     {
-      "chinese": "妈妈做菜时(媽媽做菜時)，总喜欢用自制的酱(總喜歡用自製的醬)。",
-      "pinyin": "Māmā zuò cài shí, zǒng xǐhuān yòng zì zhì de jiàng.",
-      "english": "When cooking, mom always likes using homemade sauce."
+      "chinese": "他喜欢把酱加在意大利面上(他喜歡把醬加在意大利麵上)。",
+      "pinyin": "Tā xǐhuān bǎ jiàng jiā zài Yìdàlì miàn shàng.",
+      "english": "He likes to add sauce on spaghetti."
     },
     {
-      "chinese": "厨房里的酱香浓郁(廚房裡的醬香濃郁)。",
-      "pinyin": "Chúfáng lǐ de jiàng xiāng nóng yù.",
-      "english": "The aroma of the sauce in the kitchen is rich."
+      "chinese": "我买了一瓶新酱(我買了一瓶新醬)，等不及想试试(等不及想試試)。",
+      "pinyin": "Wǒ mǎile yī píng xīn jiàng, děng bù jí xiǎng shìshì.",
+      "english": "I bought a new bottle of sauce and can't wait to try it."
     }
   ]
 }

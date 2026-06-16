@@ -4,23 +4,41 @@
   "pinyin": "wéi",
   "english": "soft leather",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts leather being twisted or tanned",
-    "interpretation": "The character 韋(韋) (wéi, 'soft leather') visually represents a process in leatherworking, such as twisting or tanning, which softens the tough material.",
+    "type": "ideogrammic compound",
+    "description": "舛 (footsteps) + 囗 (enclosure) -> footsteps around an enclosure -> originally for 圍 (to surround); phonetically borrowed for 'soft leather'",
+    "interpretation": "The character combines 舛 (footsteps) and 囗 (enclosure) to depict the idea of footsteps moving around an enclosed area, which was originally associated with the concept of surrounding. This shape was later borrowed for its phonetic value to mean 'soft leather,' as the structural composition resembles a process of encasing or wrapping, similar to the treatment of leather.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "舛",
+      "trad": "舛",
+      "pinyin": "chuǎn",
+      "english": "footsteps"
+    },
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这种韋皮手感细腻(這種韋皮手感細膩)，更适合制作高档家具(更適合製作高檔家具)。",
-      "pinyin": "Zhè zhǒng wěi pí shǒu gǎn xì nì, gèng shì hé zhì zuò gāo dàng jiā jù.",
-      "english": "This kind of soft leather has a delicate texture and is more suitable for making high-end furniture."
+      "chinese": "这件夹克是用韦材料制成的(這件夾克是用韋材料製成的)。",
+      "pinyin": "Zhè jiàn jiákè shì yòng wéi cáiliào zhìchéng de.",
+      "english": "This jacket is made from soft leather material."
     },
     {
-      "chinese": "博物馆展出了许多用韋制成的文物(博物館展出了許多用韋制成的文物)，吸引了众多游客(吸引了眾多遊客)。",
-      "pinyin": "Bówùguǎn zhǎnchūle xǔduō yòng wěi zhìchéng de wénwù, xīyǐnle zhòngduō yóukè.",
-      "english": "The museum exhibited numerous artifacts made of soft leather, attracting many visitors."
+      "chinese": "古代的盔甲常以韦作装饰(古代的盔甲常以韋作裝飾)。",
+      "pinyin": "Gǔdài de kuījiǎ cháng yǐ wéi zuò zhuāngshì.",
+      "english": "Ancient armor was often decorated with soft leather."
+    },
+    {
+      "chinese": "他的书包用韦边制成(他的書包用韋邊製成)。",
+      "pinyin": "Tā de shūbāo yòng wéi biān zhìchéng.",
+      "english": "His backpack is made with soft leather edges."
     }
   ]
 }

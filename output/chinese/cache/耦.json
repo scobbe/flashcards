@@ -5,8 +5,8 @@
   "english": "to pair",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "耒(耒) (lěi, \"tilling tool\") + 禺(禺) (yú, \"monkey\"; phonetic) = paired working in the fields -> to pair",
-    "interpretation": "The character 耦(耦) (ǒu, \"to pair\") combines the semantic component 耒(耒) (lěi, \"tilling tool\"), representing agriculture or working the field, with the phonetic component 禺(禺) (yú, \"monkey\"), suggesting the pronunciation. This implies the concept of pairing or working together, as in paired labor in agriculture.",
+    "description": "semantic 耒(耒) (lěi, \"tilling tool\") + phonetic 禺(禺) (yú) -> paired working in the fields",
+    "interpretation": "The character 耦 (ǒu, \"to pair\") combines 耒(耒) (lěi, \"tilling tool\"), suggesting agricultural work, with 禺(禺) (yú) for its phonetic value. This represents the concept of working together or pairing in agricultural tasks.",
     "simplification": ""
   },
   "parts": [
@@ -20,9 +20,25 @@
       "char": "禺",
       "trad": "禺",
       "pinyin": "yú",
-      "english": "monkey"
+      "english": "a legendary beast; district"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们常常一起耦(他們常常一起耦)，分享彼此的快乐(分享彼此的快樂)。",
+      "pinyin": "Tāmen chángcháng yīqǐ ǒu, fēnxiǎng bǐcǐ de kuàilè.",
+      "english": "They often pair up, sharing each other's happiness."
+    },
+    {
+      "chinese": "我们耦在一起(我們耦在一起)，合作完成了这个项目(合作完成了這個項目)。",
+      "pinyin": "Wǒmen ǒu zài yīqǐ, hézuò wánchéngle zhège xiàngmù.",
+      "english": "We paired together and cooperated to complete this project."
+    },
+    {
+      "chinese": "在婚宴上(在婚宴上)，新人被象征性地耦在一起(新人被象徵性地耦在一起)。",
+      "pinyin": "Zài hūnyàn shàng, xīnrén bèi xiàngzhēngxìng de ǒu zài yīqǐ.",
+      "english": "At the wedding banquet, the couple is symbolically paired together."
+    }
+  ]
 }

@@ -5,14 +5,14 @@
   "english": "stem",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, 'grass') + phonetic: 帝(帝) (dì, 'emperor') = part of a plant -> stem",
-    "interpretation": "The character 蒂(蒂) (dì, 'stem') combines the 艹(艹) (cǎo, 'grass') radical, indicating its relation to plants, with 帝(帝) (dì, 'emperor') as a phonetic component. This suggests something foundational or central, much like a stem.",
+    "description": "semantic 艸(艸) (cǎo, \"grass\") + phonetic 帝(帝) (dì) -> stem",
+    "interpretation": "The character 蒂(dì, \"stem\") combines the semantic element 艸(艸) (cǎo, \"grass\") indicating vegetation or plant life, with the phonetic 帝(帝) (dì), which provides the pronunciation. The semantic element connects the character to concepts related to plants, thereby creating the meaning 'stem,' which is a crucial part of plant structure.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "艹",
-      "trad": "艹",
+      "char": "艸",
+      "trad": "艸",
       "pinyin": "cǎo",
       "english": "grass"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "采摘花朵时(採摘花朵時)，注意保护花蒂(注意保護花蒂)。",
-      "pinyin": "Cǎizhāi huāduǒ shí, zhùyì bǎohù huādì.",
-      "english": "When picking flowers, pay attention to protecting the stem."
+      "chinese": "这朵花的蒂很牢固(這朵花的蒂很牢固)。",
+      "pinyin": "Zhè duǒ huā de dì hěn láogù.",
+      "english": "The stem of this flower is very sturdy."
     },
     {
-      "chinese": "这束花的蒂突出(這束花的蒂突出)。",
-      "pinyin": "Zhè shù huā de huādì tūchū.",
-      "english": "The stem of this bouquet stands out."
+      "chinese": "他轻轻地摘下果实从蒂上(他輕輕地摘下果實從蒂上)。",
+      "pinyin": "Tā qīngqīng de zhāi xià guǒshí cóng dì shàng.",
+      "english": "He gently picked the fruit from the stem."
+    },
+    {
+      "chinese": "苹果的蒂已经变色了(蘋果的蒂已經變色了)，要尽快吃(要儘快吃)。",
+      "pinyin": "Píngguǒ de dì yǐjīng biàn sè le，yào jǐnkuài chī.",
+      "english": "The stem of the apple has changed color, it should be eaten soon."
     }
   ]
 }

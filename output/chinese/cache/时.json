@@ -5,22 +5,28 @@
   "english": "time; season",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 寺(寺) (sì, \"temple\") = footprint symbolizing sun's movement -> passing of time -> 寸(寸) (cùn, \"inch\") added -> final form",
-    "interpretation": "The character combines 日(日) (rì, \"sun\") as the semantic component representing the passage of time with 寺(寺) (sì, \"temple\") as the phonetic, which historically symbolized movement. The later addition of 寸(寸) (cùn, \"inch\") emphasizes precision in time measurement.",
-    "simplification": "时(時) is a cursive script variant where omitting 寸(寸) (cùn, \"inch\") simplifies without losing the core components of 日(日) and 寺(寺)."
+    "description": "日(日) (rì, 'sun; day') as semantic + 寺(寺) as phonetic -> associated with time; ancient form 旹 with 日 and 之(之) (zhī, 'governing'), referring to the passing of time -> over time, 寸(寸) (cùn, 'inch') added to form current 時",
+    "interpretation": "The character 時 (shí, 'time; season') stems from the interplay between 日(日) (rì, 'sun; day'), which signifies the passage of time marked by the sun, and 寺(寺) as the phonetic component capturing the sound. The historical forms show an evolution from 旹, merging 日 and 之(之) (zhī, 'governing') to imply governance over time, to its modern form, where 寸(寸) ('inch') likely emphasizes precision or measurement in the concept of time.",
+    "simplification": "In 时 (shí), the component 寺(寺) was retained for phonetic purposes, while 日(日) (rì, 'sun; day') was simplified to resemble 日 with fewer strokes, streamlining the character."
   },
   "parts": [
     {
       "char": "日",
       "trad": "日",
       "pinyin": "rì",
-      "english": "sun"
+      "english": "sun; day"
     },
     {
       "char": "寺",
       "trad": "寺",
       "pinyin": "sì",
       "english": "temple"
+    },
+    {
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "governing"
     },
     {
       "char": "寸",
@@ -32,14 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "此时正是友谊的开始(此時正是友誼的開始)。",
-      "pinyin": "Cǐ shí zhèng shì yǒuyì de kāishǐ.",
-      "english": "At this time, it is the beginning of friendship."
+      "chinese": "我们相识时(我們相識時)，天已经暗了(天已經暗了)。",
+      "pinyin": "Wǒmen xiāngshí shí, tiān yǐjīng àn le.",
+      "english": "When we met, the sky was already dark."
     },
     {
-      "chinese": "花开之时(花開之時)，蝶舞之时(蝶舞之時)。",
-      "pinyin": "Huā kāi zhī shí, dié wǔ zhī shí.",
-      "english": "When flowers bloom, butterflies dance."
+      "chinese": "在这样的时刻(在這樣的時刻)，我们需要团结(我們需要團結)。",
+      "pinyin": "Zài zhèyàng de shíkè, wǒmen xūyào tuánjié.",
+      "english": "At such a time, we need to unite."
+    },
+    {
+      "chinese": "时光流逝(時光流逝)，童年的回忆依然鲜活(童年的回憶依然鮮活)。",
+      "pinyin": "Shíguāng liúshì, tóngnián de huíyì yīrán xiānhuó.",
+      "english": "As time passes, childhood memories remain vivid."
     }
   ]
 }

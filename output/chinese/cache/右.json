@@ -5,8 +5,8 @@
   "english": "right",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "又(又) (yòu, \"again\") + 口(口) (kǒu, \"mouth\") -> phonetic and semantic components",
-    "interpretation": "The character 右(右) (yòu, \"right\") combines 又(又) (yòu, \"again\") for its phonetic value and 口(口) (kǒu, \"mouth\") as a semantic component to distinguish its meaning. Initially, 又(又) alone was used in oracle bone script to convey 'right', but the addition of 口(口) during the bronze inscription period served as a distinguishing mark without direct meaning contribution.",
+    "description": "originally written as 又(又) (yòu, \"again\") -> bronze inscriptions added 口(口) (kǒu, \"mouth\") as a distinguishing mark joining phonetic 又 to form 右",
+    "interpretation": "又(又) (yòu, \"again\") provided the phonetic value, initially serving as a phonetic loan for 'right'. The character 口(口) (kǒu, \"mouth\") was added later without semantic significance to differentiate it from other uses of 又, finalizing the character 右 for the direction \"right\".",
     "simplification": ""
   },
   "parts": [
@@ -31,14 +31,14 @@
       "english": "Please turn right."
     },
     {
-      "chinese": "当你到达十字路口时(當你到達十字路口時)，请向右行走(請向右行走)。",
-      "pinyin": "Dāng nǐ dào dá shí zì lù kǒu shí, qǐng xiàng yòu xíng zǒu.",
-      "english": "When you reach the intersection, please walk to the right."
+      "chinese": "他的右手抬起来了(他的右手抬起來了)。",
+      "pinyin": "Tā de yòushǒu tái qǐláile.",
+      "english": "His right hand was raised."
     },
     {
-      "chinese": "他的右手握紧了笔(他的右手握緊了筆)。",
-      "pinyin": "Tā de yòu shǒu wò jǐn le bǐ.",
-      "english": "His right hand holds the pen tightly."
+      "chinese": "小猫藏在沙发的右侧(小貓藏在沙發的右側)。",
+      "pinyin": "Xiǎo māo cáng zài shāfā de yòu cè.",
+      "english": "The kitten is hiding on the right side of the sofa."
     }
   ]
 }

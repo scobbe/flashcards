@@ -5,8 +5,8 @@
   "english": "pillow",
   "etymology": {
     "type": "compound word",
-    "description": "枕(枕) (zhěn, \"pillow\") originally referred to an object to rest your head, and 頭(头) (tóu, \"head\") specifies the purpose of the pillow, indicating it is for the head.",
-    "interpretation": "枕頭(枕头) (zhěntou, \"pillow\") combines the concept of a supporting object for the head, making it clear the item is meant to hold or rest the head during sleep or rest.",
+    "description": "枕(枕) (zhěn, \"pillow\") indicates the object used to support the head during sleep. 頭(頭) (tóu, \"head\") specifies the part of the body the object supports, emphasizing that this pillow is indeed for resting the head.",
+    "interpretation": "枕(枕) (zhěn, \"pillow\") inherently denotes an object used for support during rest, notably under the head. 頭(頭) (tóu, \"head\") clarifies the focus of support, indicating the primary function of a pillow during sleep or rest. Together, they clearly refer to an item designed to support the head.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢用柔软的枕头(我喜歡用柔軟的枕頭)。",
-      "pinyin": "Wǒ xǐhuān yòng róuruǎn de zhěntou.",
-      "english": "I like to use a soft pillow."
+      "chinese": "我找不到我的枕头(我找不到我的枕頭)。",
+      "pinyin": "Wǒ zhǎo bù dào wǒ de zhěntou.",
+      "english": "I can't find my pillow."
     },
     {
-      "chinese": "睡觉时(睡覺時)，我总是需要一个舒服的枕头(我總是需要一個舒服的枕頭)。",
-      "pinyin": "Shuìjiào shí, wǒ zǒng shì xūyào yī gè shūfu de zhěntou.",
-      "english": "When sleeping, I always need a comfortable pillow."
+      "chinese": "她买了一个新的枕头(她買了一個新的枕頭)。",
+      "pinyin": "Tā mǎi le yí gè xīn de zhěntou.",
+      "english": "She bought a new pillow."
     },
     {
-      "chinese": "他送给我一个新枕头(他送給我一個新枕頭)。",
-      "pinyin": "Tā sòng gěi wǒ yī gè xīn zhěntou.",
-      "english": "He gave me a new pillow."
+      "chinese": "枕头很柔软(枕頭很柔軟)，使我能睡得更好(使我能睡得更好)。",
+      "pinyin": "Zhěntou hěn róuruǎn, shǐ wǒ néng shuì de gèng hǎo.",
+      "english": "The pillow is very soft, which helps me sleep better."
     }
   ]
 }

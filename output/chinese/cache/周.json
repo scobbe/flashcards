@@ -5,8 +5,8 @@
   "english": "circle; complete; cycle",
   "etymology": {
     "type": "pictogram",
-    "description": "Pictogram: a jade artifact with carved patterns -> Character 業(業) (yè, \"to carve\") evolved -> borrowed as a country name -> 口(口) (kǒu, \"mouth\") added for distinction -> similar top to 用(用) (yòng, \"to use\") in later form",
-    "interpretation": "周(周) (zhōu, \"circle\") originally depicted a carved jade artifact, indicating completeness or thoroughness. Over time, it was borrowed for the country name and modified to distinguish it with an added component 口(口) (kǒu, \"mouth\"), resembling 用(用) (yòng, \"to use\") in later forms.",
+    "description": "Depicts a jade artifact with carved patterns -> borrowed as a country name -> 口 (mouth) added for distinction -> top part evolved into 用 (use)",
+    "interpretation": "Originally depicting a jade artifact with intricate carvings, this character was borrowed to represent a geographical area. The addition of 口 (kǒu, \"mouth\") served as a distinguishing mark over time. The meaning of 'circle' or 'complete cycle' comes from the idea of encircling and encompassing something entirely, akin to the completeness or intricacy of the jade artifact, leading to senses of wholeness and completion.",
     "simplification": ""
   },
   "parts": [
@@ -21,30 +21,24 @@
       "trad": "用",
       "pinyin": "yòng",
       "english": "to use"
-    },
-    {
-      "char": "業",
-      "trad": "業",
-      "pinyin": "yè",
-      "english": "to carve"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "钟摆转了一周(鐘擺轉了一周)。",
-      "pinyin": "Zhōngbǎi zhuǎn le yī zhōu.",
-      "english": "The pendulum completed one full cycle."
+      "chinese": "他们每周都去游泳(他們每週都去游泳)。",
+      "pinyin": "Tāmen měi zhōu dōu qù yóuyǒng.",
+      "english": "They go swimming every week."
     },
     {
-      "chinese": "他沿公园小径走了一周(他沿公園小徑走了一周)，满怀期待回到起点(滿懷期待回到起點)。",
-      "pinyin": "Tā yán gōngyuán xiǎojìng zǒu le yī zhōu, mǎn huái qídài huí dào qǐdiǎn.",
-      "english": "He walked a complete circle along the park path, returning to the starting point with anticipation."
+      "chinese": "他在报告中提出了完整的解决方案(他在報告中提出了完整的解決方案)。",
+      "pinyin": "Tā zài bàogào zhōng tíchū le wánzhěng de jiějué fāng'àn.",
+      "english": "He provided a complete solution in the report."
     },
     {
-      "chinese": "风车转动着一周(風車轉動著一周)。",
-      "pinyin": "Fēng chē zhuǎndòng zhe yī zhōu.",
-      "english": "The windmill rotates in a full circle."
+      "chinese": "春天到来时(春天到來時)，我们可以看到生命的循环(我們可以看到生命的循環)。",
+      "pinyin": "Chūntiān dàolái shí, wǒmen kěyǐ kàn dào shēngmìng de xúnhuán.",
+      "english": "When spring arrives, we can see the cycle of life."
     }
   ]
 }

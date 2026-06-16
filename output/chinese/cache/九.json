@@ -5,27 +5,27 @@
   "english": "nine",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a stylized hand with bent elbow -> original meaning 'elbow' lost -> adopted as 'nine' for metaphorical bumping against ten",
-    "interpretation": "九(九) (jiǔ, 'nine') originated as a depiction of a hand with a bent elbow, similar to 手(手) (shǒu, 'hand'). Over time, its original meaning 'elbow' was lost, and it came to represent 'nine' symbolizing the bump of a fist against ten.",
+    "description": "Depicts a stylized hand with bent wrist -> original 'elbow' 肘 (zhǒu) meaning -> associated with nine as metaphorical bumping up against ten",
+    "interpretation": "九 originally depicted the elbow, symbolizing movement akin to pulling back in momentum, which culturally reflects nearing a complete cycle at ten. Later, 九 came to symbolize the number nine, a fist bumping up against ten, the last count on one's fingers.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有九本书(我有九本書)。",
-      "pinyin": "Wǒ yǒu jiǔ běn shū.",
-      "english": "I have nine books."
+      "chinese": "今天是九号(今天是九號)。",
+      "pinyin": "Jīntiān shì jiǔ hào.",
+      "english": "Today is the ninth."
     },
     {
-      "chinese": "九个学生努力学习(九個學生努力學習)，追求卓越(追求卓越)。",
-      "pinyin": "Jiǔ gè xuéshēng nǔlì xuéxí, zhuīqiú zhuóyuè.",
-      "english": "Nine students study diligently and pursue excellence."
+      "chinese": "她有九个苹果(她有九個蘋果)。",
+      "pinyin": "Tā yǒu jiǔ gè píngguǒ.",
+      "english": "She has nine apples."
     },
     {
-      "chinese": "房间里有九把椅子(房間裡有九把椅子)。",
-      "pinyin": "Fángjiān lǐ yǒu jiǔ bǎ yǐzi.",
-      "english": "There are nine chairs in the room."
+      "chinese": "我们九点钟出发(我們九點鐘出發)，去探望朋友(去探望朋友)。",
+      "pinyin": "Wǒmen jiǔ diǎn zhōng chūfā, qù tànwàng péngyǒu.",
+      "english": "We will leave at nine o'clock to visit a friend."
     }
   ]
 }

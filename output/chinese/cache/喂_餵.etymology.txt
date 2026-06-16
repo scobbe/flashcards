@@ -1,0 +1,5 @@
+[喂]
+Phono-semantic compound ( 形聲 / 形声 ): semantic 口 + phonetic 畏 ( OC *quls ) .
+
+[餵]
+Phono-semantic compound ( 形聲 / 形声 , OC *qrols ): semantic 食 + phonetic 畏 ( OC *quls ) .

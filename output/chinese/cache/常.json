@@ -5,17 +5,11 @@
   "english": "ordinary; usual",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "尚(尚) (shàng, \"still\") as phonetic + 巾(巾) (jīn, \"cloth\") as semantic -> originally meant \"lower garment\" -> phonetically borrowed to mean \"ordinary\"",
-    "interpretation": "The character 常(cháng, \"ordinary\") combines 尚(shàng, \"still\") as the phonetic element with 巾(jīn, \"cloth\") suggesting its original meaning related to clothing. It was later borrowed for the ideas of frequency and commonality.",
+    "description": "semantic 巾(巾) (jīn, \"cloth\") + phonetic 尚(尚) (shàng) -> originally \"lower garment\" -> borrowed for \"long-lasting; frequently\" -> \"ordinary; usual\"",
+    "interpretation": "The semantic component 巾(巾) (jīn, \"cloth\") conveys the original idea of a cloth-like lower garment, which was later phonetically borrowed with 尚(尚) (shàng) for its sound rather than meaning, expanding to \"long-lasting\" and thus \"ordinary; usual\".",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "尚",
-      "trad": "尚",
-      "pinyin": "shàng",
-      "english": "still"
-    },
     {
       "char": "巾",
       "trad": "巾",
@@ -23,28 +17,28 @@
       "english": "cloth"
     },
     {
-      "char": "裳",
-      "trad": "裳",
-      "pinyin": "cháng",
-      "english": "lower garment"
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "still; yet"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他常去图书馆(他常去圖書館)。",
-      "pinyin": "Tā cháng qù túshūguǎn.",
-      "english": "He often goes to the library."
+      "chinese": "他是一个非常普通的人(他是一個非常普通的人)。",
+      "pinyin": "Tā shì yī gè fēicháng pǔtōng de rén.",
+      "english": "He is a very ordinary person."
     },
     {
-      "chinese": "我常吃中餐(我常吃中餐)，因为味道独特(因為味道獨特)。",
-      "pinyin": "Wǒ cháng chī zhōngcān, yīnwèi wèidào dútè.",
-      "english": "I usually eat Chinese food because its flavors are distinct."
+      "chinese": "我们常常去那家咖啡店(我們常常去那家咖啡店)。",
+      "pinyin": "Wǒmen chángcháng qù nà jiā kāfēidiàn.",
+      "english": "We usually go to that coffee shop."
     },
     {
-      "chinese": "我们常在黄昏散步(我們常在黃昏散步)。",
-      "pinyin": "Wǒmen cháng zài huánghūn sànbù.",
-      "english": "We often take a walk at dusk."
+      "chinese": "这个问题在日常生活中很常见(這個問題在日常生活中很常見)。",
+      "pinyin": "Zhège wèntí zài rìcháng shēnghuó zhōng hěn chángjiàn.",
+      "english": "This issue is very common in everyday life."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "historic alley in Beijing",
   "etymology": {
     "type": "compound word",
-    "description": "南(南) (nán, \"south\") refers to its location south of central Beijing. 锣(鑼) (luó, \"gong\") and 鼓(鼓) (gǔ, \"drum\") suggest traditional musical instruments, hinting at the area's historical cultural activities. 巷(巷) (xiàng, \"alley\") depicts its narrow street nature often found in historic residential areas like hutongs in Beijing.",
-    "interpretation": "南锣鼓巷(南鑼鼓巷) reflects a place characterized by its southern location and rich association with traditional Chinese culture, particularly music. It is a historic alley known for its connection to the cultural legacy of Beijing.",
-    "simplification": "Traditional characters are used for 锣(鑼) and 巷(巷) in Simplified Chinese."
+    "description": "南(南) (nán, \"south\") + 鑼(鑼) (luó, \"gong\") + 鼓(鼓) (gǔ, \"drum\") + 巷(巷) (xiàng, \"alley\")",
+    "interpretation": "The name 南鑼鼓巷 (Nánluógǔ Xiàng, \"South Gong and Drum Alley\") reflects its historical location oriented to the south of an area once famous for craftsmen making gongs and drums. These instruments suggest a bustling, lively atmosphere, which is a trait of the neighborhood as a social and cultural hub. The combination evokes an image of an alleyway resonating with musical sounds from gongs and drums, highlighting its vibrant historical significance.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -17,34 +17,40 @@
       "english": "south"
     },
     {
-      "char": "锣鼓",
-      "trad": "鑼鼓",
-      "pinyin": "luó gǔ",
-      "english": "gong and drum"
+      "char": "鑼",
+      "trad": "鑼",
+      "pinyin": "luó",
+      "english": "gong"
+    },
+    {
+      "char": "鼓",
+      "trad": "鼓",
+      "pinyin": "gǔ",
+      "english": "drum"
     },
     {
       "char": "巷",
       "trad": "巷",
       "pinyin": "xiàng",
-      "english": "alley; lane"
+      "english": "alley"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "南锣鼓巷(南鑼鼓巷)是北京著名的旅游景点(北京著名的旅遊景點)。",
+      "chinese": "南锣鼓巷(南鑼鼓巷)是北京著名的旅游景点。",
       "pinyin": "Nán luó gǔ xiàng shì Běijīng zhùmíng de lǚyóu jǐngdiǎn.",
-      "english": "Nanluogu Alley is a famous tourist attraction in Beijing."
+      "english": "Nanluoguxiang is a famous tourist attraction in Beijing."
     },
     {
-      "chinese": "我在南锣鼓巷闲逛(我在南鑼鼓巷閒逛)。",
-      "pinyin": "Wǒ zài Nán luó gǔ xiàng xiánguàng.",
-      "english": "I'm strolling around Nanluogu Alley."
+      "chinese": "每年有很多游客参观南锣鼓巷(每年有很多遊客參觀南鑼鼓巷)。",
+      "pinyin": "Měinián yǒu hěn duō yóukè cānguān Nán luó gǔ xiàng.",
+      "english": "Every year, many tourists visit Nanluoguxiang."
     },
     {
-      "chinese": "去年夏天(去年夏天)，我们在南锣鼓巷尝试了地道小吃(我們在南鑼鼓巷嚐試了地道小吃)。",
-      "pinyin": "Qùnián xiàtiān, wǒmen zài Nán luó gǔ xiàng chángshì le dìdào xiǎochī.",
-      "english": "Last summer, we tried authentic local snacks in Nanluogu Alley."
+      "chinese": "南锣鼓巷(南鑼鼓巷)有许多历史悠久的建筑和现代化的商店。",
+      "pinyin": "Nán luó gǔ xiàng yǒu xǔduō lìshǐ yōujiǔ de jiànzhù hé xiàndàihuà de shāngdiàn.",
+      "english": "Nanluoguxiang has many historic buildings and modern shops."
     }
   ]
 }

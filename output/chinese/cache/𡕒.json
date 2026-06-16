@@ -5,8 +5,8 @@
   "english": "foot; part of an ancient form",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "足(足) (zú, 'foot') + 夸(夸) (kuā, 'to brag') = foot + phonetic component -> final meaning related to foot part",
-    "interpretation": "The character 𡕒 is a variant form of 跨(跨), which uses 足(足) to denote the semantic field of 'foot' and the phonetic 夸(夸) to suggest pronunciation. This combination indicates actions or positions related to the feet.",
+    "description": "semantic 足(足) (zú, \"foot\") + phonetic 夸(夸) (kuā) -> meaning relates to feet",
+    "interpretation": "The character 𡕒 is a variant of 跨, which is constructed from the semantic component 足(足) (zú, \"foot\"), indicating its relation to activities involving feet, and the phonetic component 夸(夸) (kuā). This combination suggests the notion of actions involving feet, such as 'stride' or 'step over', derived from the sound provided by 夸.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "夸",
       "trad": "夸",
       "pinyin": "kuā",
-      "english": "to brag"
+      "english": "boast"
     }
   ],
   "in_contemporary_usage": false,

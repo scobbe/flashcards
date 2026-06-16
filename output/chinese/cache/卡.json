@@ -4,35 +4,41 @@
   "pinyin": "kǎ",
   "english": "card; punch card; calorie",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 扌(手) (shǒu, \"hand\") + phonetic: 卡(卡) (qiǎ, \"block\") = hand stops -> derived sense of card, calorie",
-    "interpretation": "The character 卡(卡) (kǎ, \"card\") combines 扌(手) (shǒu, \"hand\") representing a holding or grasping action and 卡(卡) (qiǎ, \"block\") to convey the idea of stopping or blocking. This hints at the function of a card as a tangible object one handles or processes for a specific purpose.",
+    "type": "ideogrammic compound",
+    "description": "上(上) (shàng, \"up\") + 下(下) (xià, \"down\") -> horizontal lines fuse -> pressed between above and below",
+    "interpretation": "The character 卡(kǎ, \"card; punch card; calorie\") depicts a situation where something is compressed or stuck by forces from above and below, hence the sense of something being jammed or squeezed, which aligns with being wedged or a punch card cutting mechanism.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "扌",
-      "trad": "手",
-      "pinyin": "shǒu",
-      "english": "hand"
+      "char": "上",
+      "trad": "上",
+      "pinyin": "shàng",
+      "english": "up"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "down"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用信用卡购物(我用信用卡購物)。",
-      "pinyin": "Wǒ yòng xìnyòngkǎ gòuwù.",
-      "english": "I shop using a credit card."
+      "chinese": "我需要一张新的银行卡(我需要一張新的銀行卡)。",
+      "pinyin": "Wǒ xūyào yī zhāng xīn de yínháng kǎ.",
+      "english": "I need a new bank card."
     },
     {
-      "chinese": "请刷卡(請刷卡)，进入大楼(進入大樓)。",
-      "pinyin": "Qǐng shuākǎ, jìnrù dàlóu.",
-      "english": "Please swipe your card, and then enter the building."
+      "chinese": "她买了一张生日贺卡(她買了一張生日賀卡)。",
+      "pinyin": "Tā mǎi le yī zhāng shēngrì hèkǎ.",
+      "english": "She bought a birthday card."
     },
     {
-      "chinese": "这个运动消耗了很多卡路里(這個運動消耗了很多卡路里)。",
-      "pinyin": "Zhège yùndòng xiāohào le hěn duō kǎlùlǐ.",
-      "english": "This exercise burned many calories."
+      "chinese": "我们计算了今天摄入的卡路里(我們計算了今天攝入的卡路里)。",
+      "pinyin": "Wǒmen jìsuàn le jīntiān shèrù de kǎlùlǐ.",
+      "english": "We calculated today's calorie intake."
     }
   ]
 }

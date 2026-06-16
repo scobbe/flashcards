@@ -5,40 +5,40 @@
   "english": "ferment; spoil; decay",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 肉(肉) (ròu, \"flesh\") + phonetic: 府(府) (fǔ) = decomposition of flesh -> ferment; spoil; decay",
-    "interpretation": "腐(fǔ) effectively combines the concept of rotting flesh, represented by 肉(肉) (ròu, \"flesh\"), with the phonetic 府(府) (fǔ), to convey the idea of decay or decomposition.",
-    "simplification": ""
+    "description": "semantic 肉(肉) (ròu, \"flesh; body\") + phonetic 府(府) (fǔ) -> ferment; spoil; decay",
+    "interpretation": "The semantic component 肉(肉) (ròu, \"flesh; body\") suggests organic matter, which is prone to fermentation or decay. The phonetic component 府(府) (fǔ) provides the sound aspect. Together, they represent the concept of 'fermenting' or 'decaying' as it relates to organic material.",
+    "simplification": "府(府) (fǔ), originally a separate character, retains its form, so 腐 remains unchanged in the simplified script."
   },
   "parts": [
     {
       "char": "肉",
       "trad": "肉",
       "pinyin": "ròu",
-      "english": "flesh"
+      "english": "flesh; body"
     },
     {
       "char": "府",
       "trad": "府",
       "pinyin": "fǔ",
-      "english": ""
+      "english": "government office; seat of government"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "食物腐烂会产生异味(食物腐爛會產生異味)。",
-      "pinyin": "Shíwù fǔlàn huì chǎnshēng yìwèi.",
-      "english": "Spoiled food produces a foul smell."
+      "chinese": "这块肉已经变质腐臭(這塊肉已經變質腐臭)。",
+      "pinyin": "Zhè kuài ròu yǐjīng biànzhì fǔchòu.",
+      "english": "This piece of meat has already become rotten and smelly."
     },
     {
-      "chinese": "这瓶牛奶放久了(這瓶牛奶放久了)，就会腐坏(就會腐壞)。",
-      "pinyin": "Zhè píng niúnǎi fàng jiǔ le, jiù huì fǔhuài.",
-      "english": "This bottle of milk will spoil if left for too long."
+      "chinese": "由于长时间存放(由於長時間存放)，蔬菜开始腐烂(蔬菜開始腐爛)。",
+      "pinyin": "Yóuyú cháng shíjiān cúnfàng, shūcài kāishǐ fǔlàn.",
+      "english": "Due to long-term storage, the vegetables began to decay."
     },
     {
-      "chinese": "鱼在高温下容易腐坏(魚在高溫下容易腐壞)。",
-      "pinyin": "Yú zài gāowēn xià róngyì fǔhuài.",
-      "english": "Fish tends to decay easily under high temperatures."
+      "chinese": "他不小心吃了腐坏的食物(他不小心吃了腐壞的食物)，感到不适(感到不適)。",
+      "pinyin": "Tā bù xiǎoxīn chīle fǔhuài de shíwù, gǎndào bùshì.",
+      "english": "He accidentally ate spoiled food and felt unwell."
     }
   ]
 }

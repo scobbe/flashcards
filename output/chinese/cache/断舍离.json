@@ -5,41 +5,46 @@
   "english": "decluttering; minimalism",
   "etymology": {
     "type": "compound word",
-    "description": "斷(斷) (duàn, \"break\"), 捨(捨) (shě, \"abandon\"), 離(離) (lí, \"separate\") comes from 斷(斷) which means to \"break away,\" 捨(捨) which involves \"abandoning or letting go,\" and 離(離) which signifies \"separation.\" Together, they form a concept of decluttering by breaking attachment, letting go, and separating oneself from unnecessary material possessions.",
-    "interpretation": "斷捨離(断舍离) (duànshělí) encourages living a simplified life by minimizing material possessions and eliminating unnecessary items, a philosophy aligning with the principles of minimalism. Originally rooted in the Japanese philosophy of 'Danshari,' it has been embraced more broadly in Chinese-speaking contexts.",
-    "simplification": "断舍离 to 斷捨離"
+    "description": "斷(斷) (duàn, \"cut off\") + 捨(捨) (shě, \"discard\") + 離(離) (lí, \"separate\").",
+    "interpretation": "斷(斷) (duàn, \"cut off\") involves decisively breaking away from attachments, typically physical or emotional. 捨(捨) (shě, \"discard\") suggests letting go of unnecessary items or burdens, emphasizing the action of removal. 離(離) (lí, \"separate\") implies creating distance from the clutter or allure of material possessions. Together, 斷捨離 (duànshělí) embodies the philosophy of reducing excess and embracing minimalism by separating oneself from the physical and mental clutter, promoting a lifestyle of simplicity and focus.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "断",
       "trad": "斷",
       "pinyin": "duàn",
-      "english": "break; sever; decide"
+      "english": "cut off; sever; break; absolutely"
     },
     {
       "char": "舍",
       "trad": "捨",
       "pinyin": "shě",
-      "english": "abandon; give up; renounce"
+      "english": "discard; abandon; give up"
     },
     {
       "char": "离",
       "trad": "離",
       "pinyin": "lí",
-      "english": "separate; leave; part from"
+      "english": "separate; leave; apart from; different"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我决定开始断舍离(我決定開始斷捨離)。",
-      "pinyin": "Wǒ juédìng kāishǐ duànshělí.",
-      "english": "I decide to start decluttering."
+      "chinese": "练习断舍离(練習斷捨離)，可以让你的生活更简单(可以讓你的生活更簡單)。",
+      "pinyin": "Liànxí duànshělí, kěyǐ ràng nǐ de shēnghuó gèng jiǎndān.",
+      "english": "Practicing decluttering can make your life simpler."
     },
     {
-      "chinese": "家里太拥挤时(家裏太擁擠時)，断舍离让生活更简约(斷捨離讓生活更簡約)。",
-      "pinyin": "Jiālǐ tài yōngjǐ shí, duànshělí ràng shēnghuó gèng jiǎnyuē.",
-      "english": "When home is too crowded, minimalism makes life simpler."
+      "chinese": "我决定开始断舍离(我決定開始斷捨離)，因为家里东西太多了(因為家裡東西太多了)。",
+      "pinyin": "Wǒ juédìng kāishǐ duànshělí, yīnwèi jiālǐ dōngxi tài duō le.",
+      "english": "I decided to start decluttering because there are too many things at home."
+    },
+    {
+      "chinese": "断舍离的过程(斷捨離的過程)让人感到轻松(讓人感到輕鬆)。",
+      "pinyin": "Duànshělí de guòchéng ràng rén gǎndào qīngsōng.",
+      "english": "The process of decluttering makes people feel relaxed."
     }
   ]
 }

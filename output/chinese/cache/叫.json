@@ -5,8 +5,8 @@
   "english": "call; shout",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 丩(丩) (jiū, \"twist\") = sound produced by mouth -> call; shout",
-    "interpretation": "The character 叫(叫) (jiào, \"call; shout\") combines 口(口), representing a mouth making sounds, with 丩(丩), a phonetic element. This reflects the act of shouting or calling, which involves using the mouth.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 丩(丩) -> shout",
+    "interpretation": "The mouth 口(口) (kǒu, \"mouth\") indicates an action related to speaking or making noise, while the phonetic 丩(丩) suggests the sound of shouting or calling. Together, they convey the concept of calling out or shouting.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "丩",
       "trad": "丩",
       "pinyin": "jiū",
-      "english": "twist"
+      "english": "hook"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈叫我吃饭(媽媽叫我吃飯)。",
-      "pinyin": "Māmā jiào wǒ chīfàn。",
-      "english": "Mom calls me to eat."
+      "chinese": "他叫了一声(他叫了一聲)，但没有人回答(但沒有人回答)。",
+      "pinyin": "Tā jiào le yī shēng, dàn méiyǒu rén huídá.",
+      "english": "He shouted, but no one answered."
     },
     {
-      "chinese": "他叫朋友快来(他叫朋友快來)，以免错过盛会(以免錯過盛會)。",
-      "pinyin": "Tā jiào péngyǒu kuài lái, yǐmiǎn cuòguò shènghuì。",
-      "english": "He calls his friend to come quickly, so as not to miss the grand event."
+      "chinese": "我叫他来帮忙(我叫他來幫忙)，他马上就答应了(他馬上就答應了)。",
+      "pinyin": "Wǒ jiào tā lái bāngmáng, tā mǎshàng jiù dāyìng le.",
+      "english": "I called him to help, and he agreed immediately."
     },
     {
-      "chinese": "校长叫学生认真听讲(校長叫學生認真聽講)。",
-      "pinyin": "Xiàozhǎng jiào xuéshēng rènzhēn tīngjiǎng。",
-      "english": "The principal calls the students to listen attentively."
+      "chinese": "医生叫我每天多喝水(醫生叫我每天多喝水)。",
+      "pinyin": "Yīshēng jiào wǒ měitiān duō hē shuǐ.",
+      "english": "The doctor told me to drink more water every day."
     }
   ]
 }

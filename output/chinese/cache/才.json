@@ -5,22 +5,27 @@
   "english": "talent; only then",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a sprouting seed or still-growing plant, symbolizing young talent or a beginning",
-    "interpretation": "The character 才(才) (cái, \"talent\") represents a young plant or seedling sprouting from the ground, capturing the idea of potential or beginning which aligns with its meaning related to talent or developing ability.",
+    "description": "Depicts a sharp peg -> originally referred to pegs used in board games -> conceptually extended to 'talent' as skill pegs straight into a task",
+    "interpretation": "The character 才 (cái) initially depicted a sharp peg, which was associated with playing board games that required skill. This sense of skill was then extended metaphorically to mean 'talent'. The leap to 'only then' likely comes from the notion that one's capabilities are unlocked or recognized through achievement, akin to placing the right peg in the right spot.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "完成作业后(完成作業後)，他才开始玩耍(他才開始玩耍)。",
-      "pinyin": "Wánchéng zuòyè hòu, tā cái kāishǐ wánshuǎ.",
-      "english": "Only after finishing his homework did he begin to play."
+      "chinese": "他的音乐才华令人惊叹(他的音樂才華令人驚嘆)。",
+      "pinyin": "Tā de yīnyuè cáihuá lìngrén jīngtàn.",
+      "english": "His musical talent is astonishing."
     },
     {
-      "chinese": "这个年轻人有优秀的才(這個年輕人有優秀的才)，令人惊叹(令人驚嘆)。",
-      "pinyin": "Zhège niánqīngrén yǒu yōuxiù de cái, lìng rén jīngtàn.",
-      "english": "This young person has outstanding talent, which amazes people."
+      "chinese": "我刚刚才知道这个消息(我剛剛才知道這個消息)。",
+      "pinyin": "Wǒ gānggāng cái zhīdào zhège xiāoxi.",
+      "english": "I just now found out about this news."
+    },
+    {
+      "chinese": "只有努力工作才能取得成功(只有努力工作才能取得成功)。",
+      "pinyin": "Zhǐyǒu nǔlì gōngzuò cái néng qǔdé chénggōng.",
+      "english": "Only by working hard can one achieve success."
     }
   ]
 }

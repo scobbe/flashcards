@@ -5,11 +5,17 @@
   "english": "shelter",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 广(廣) (guǎng, 'wide') + phonetic 黃(黃) (huáng, 'yellow') -> conveys the idea of a wide space or shelter",
-    "interpretation": "廣(廣) (guǎng, 'wide') represents the concept of an expansive area, while 黃(黃) (huáng) provides the phonetic component; together, they suggest a spacious shelter.",
-    "simplification": "广(廣): The character was simplified from several strokes depicting a house with a roof to its core element, resembling a house, for ease of writing."
+    "description": "semantic 广 (roof; shelter) + phonetic 黃 (huáng, sound) -> shelter",
+    "interpretation": "The character 廣(廣) (guǎng, 'shelter') combines the semantic component 广, which suggests the idea of covering or enclosure like a roof, with the phonetic component 黃(黃) (huáng). The enclosure aspect of 广 underlines the meaning of providing shelter or an expansive space.",
+    "simplification": "廣 was simplified to 广 by retaining the roof radical but removing 黃, simplifying the structure considerably."
   },
   "parts": [
+    {
+      "char": "广",
+      "trad": "广",
+      "pinyin": "guǎng",
+      "english": "roof; shelter"
+    },
     {
       "char": "黃",
       "trad": "黃",
@@ -20,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "大雨袭来时(大雨襲來時)，那家小店成了廣的庇护所(那家小店成了廣的庇護所)。",
-      "pinyin": "Dà yǔ xí lái shí, nà jiā xiǎo diàn chéng le guǎng de bìhù suǒ.",
-      "english": "When the heavy rain came, that small shop became a shelter."
+      "chinese": "我们正在寻找一个可以提供广(廣)的地方。",
+      "pinyin": "Wǒmen zhèngzài xúnzhǎo yī gè kěyǐ tígōng guǎng de dìfāng.",
+      "english": "We are looking for a place that can provide shelter."
     },
     {
-      "chinese": "大火蔓延之际(大火蔓延之際)，难民纷纷奔向廣的庇护所(難民紛紛奔向廣的庇護所)。",
-      "pinyin": "Dà huǒ màn yán zhī jì, nànmín fēnfēn bēn xiàng guǎng de bìhù suǒ.",
-      "english": "At the outbreak of the fire, refugees rushed towards the shelter."
+      "chinese": "那里的广(廣)设施非常完善，适合长时间停留。",
+      "pinyin": "Nàlǐ de guǎng shèshī fēicháng wánshàn, shìhé cháng shíjiān tíngliú.",
+      "english": "The shelter facilities there are very complete, suitable for long stays."
+    },
+    {
+      "chinese": "如果有恶劣天气，我们需要一个广(廣)来保护自己。",
+      "pinyin": "Rúguǒ yǒu èliè tiānqì, wǒmen xūyào yī gè guǎng lái bǎohù zìjǐ.",
+      "english": "If there is bad weather, we need a shelter to protect ourselves."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "particle/exclamation",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + phonetic: 阿(阿) (ā) = sound or exclamation made by mouth -> exclamation or particle",
-    "interpretation": "口(口) (kǒu, \"mouth\") suggests sound production, while 阿(阿) (ā) provides the phonetic cue. Together, they form a character used for exclamations or as a particle in sentences.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 阿(阿)",
+    "interpretation": "The character 啊 (a) combines 口(口) (kǒu, \"mouth\") indicating something spoken or uttered, with 阿(阿) providing the sound. The component 口 illustrates that this term is used for vocal expression, specifically as a particle or exclamation.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "阿",
       "trad": "阿",
       "pinyin": "ā",
-      "english": "phonetic component"
+      "english": "hill; prefix for place names"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你来了啊(你來了啊)。",
-      "pinyin": "Nǐ lái le a.",
-      "english": "You've arrived, huh?"
+      "chinese": "今天天气真好啊！(今天天氣真好啊！)",
+      "pinyin": "Jīntiān tiānqì zhēn hǎo a!",
+      "english": "The weather is really nice today!"
     },
     {
-      "chinese": "天气真好啊(天氣真好啊)。",
-      "pinyin": "Tiānqì zhēn hǎo a.",
-      "english": "The weather is truly nice!"
+      "chinese": "快来看啊，他在这儿呢！(快來看啊，他在這兒呢！)",
+      "pinyin": "Kuài lái kàn a, tā zài zhè'er ne!",
+      "english": "Come quickly, he's here!"
     },
     {
-      "chinese": "快走啊(快走啊)，别迟到了啊(別遲到了啊)。",
-      "pinyin": "Kuài zǒu a, bié chídào le a.",
-      "english": "Hurry up, and don't be late!"
+      "chinese": "你听我说啊，这事情很重要！(你聽我說啊，這事情很重要！)",
+      "pinyin": "Nǐ tīng wǒ shuō a, zhè shìqíng hěn zhòngyào!",
+      "english": "Listen to me, this is very important!"
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "officer",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 宀 (roof; structure) + phonetic 尞 (liáo)",
-    "interpretation": "寮(liáo, \"officer\") combines 宀 (mián, \"roof; structure\") as the semantic component, suggesting a building or place, often associated with official duties or administration, with 尞 (liáo) serving as the phonetic component to indicate pronunciation.",
+    "description": "semantic 宀 (roof) + phonetic 尞 (liáo) -> meaning",
+    "interpretation": "寮 (liáo, \"officer\") combines 宀 (mián, \"roof\"), suggesting a structure or building, with 尞 (liáo) to provide the sound. This character originally pertains to a type of official building or office, leading to its meaning related to 'officer'. The roof suggests a protected space where an officer might work.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "宀",
       "trad": "宀",
       "pinyin": "mián",
-      "english": "roof; structure"
+      "english": "roof"
     },
     {
       "char": "尞",
       "trad": "尞",
       "pinyin": "liáo",
-      "english": "phonetic component"
+      "english": "a place name; sound"
     }
   ],
   "in_contemporary_usage": false,

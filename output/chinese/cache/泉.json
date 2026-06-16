@@ -6,7 +6,7 @@
   "etymology": {
     "type": "ideogrammic compound",
     "description": "白(白) (bái, \"spring mouth\") + 水(水) (shuǐ, \"water\") = water flowing from the source of a spring -> spring",
-    "interpretation": "The character 泉(泉) (quán, \"spring\") combines 白(白) (bái, \"spring mouth\") and 水(水) (shuǐ, \"water\") to represent water emerging from a spring's source, intuitively depicting the concept of a natural water spring.",
+    "interpretation": "The character combines 白(白) (bái, \"spring mouth\") with 水(水) (shuǐ, \"water\") to depict the concept of water emerging from the origin of a spring. This imagery conveys the idea of a fresh water source coming out from an opening, which is metaphorically the 'mouth' of the spring.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古泉涓涓而流(古泉涓涓而流)。",
-      "pinyin": "gǔ quán juānjuān ér liú。",
-      "english": "The ancient spring flows gently."
+      "chinese": "山脚下有一个清澈的泉(山腳下有一個清澈的泉)。",
+      "pinyin": "Shānjiǎo xià yǒu yīgè qīngchè de quán.",
+      "english": "There is a clear spring at the foot of the mountain."
     },
     {
-      "chinese": "山谷中藏着泉水(山谷中藏著泉水)，滋润了大地(滋潤了大地)。",
-      "pinyin": "shāngǔ zhōng cángzhe quánshuǐ，zīrùn le dàdì。",
-      "english": "A spring is hidden in the valley, nurturing the earth."
+      "chinese": "村民用泉水灌溉农田(村民用泉水灌溉農田)。",
+      "pinyin": "Cūnmín yòng quánshuǐ guàngài nóngtián.",
+      "english": "The villagers use spring water to irrigate the fields."
+    },
+    {
+      "chinese": "这个地方以温泉而闻名(這個地方以溫泉而聞名)。",
+      "pinyin": "Zhège dìfāng yǐ wēnquán ér wénmíng.",
+      "english": "This place is famous for its hot springs."
     }
   ]
 }

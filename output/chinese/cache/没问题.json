@@ -5,8 +5,8 @@
   "english": "no problem",
   "etymology": {
     "type": "compound word",
-    "description": "沒(沒) (méi, \"not\") indicates the negation or absence of something. 問題(問題) (wèntí, \"problem; question\") combines 問(問) (wèn, \"ask\") and 題(題) (tí, \"topic; subject\") to refer to a question or problem. Together, 沒問題(沒問題) suggests the absence of a problem.",
-    "interpretation": "沒問題(沒問題) (méi wèntí, \"no problem\") is a reassuring expression used to indicate that something is feasible or acceptable, alleviating concerns about any obstacles.",
+    "description": "沒(沒) (méi, \"not have\") indicates the negation, conveying the absence or lack of something. 問題(問題) (wèntí, \"problem; question\") consists of 問(問) (wèn, \"ask\") and 題(題) (tí, \"topic; subject\"), suggesting a topic that is inquired about. Together, 沒問題(沒問題) expresses that there is no problem or issue present.",
+    "interpretation": "沒(沒) (méi, \"not have\") directly negates the existence or presence of 問題(問題) (wèntí, \"problem; question\"), thus meaning 'no problem'. This phrase signifies reassurance and agreement, indicating that a situation is free from issues or complications. As problems are often topics of inquiry, 問題(問題) invokes the notion of things to ask about or resolve; hence 沒(沒) simply denies their presence, leading to the interpretation as 'no problem'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "没",
       "trad": "沒",
       "pinyin": "méi",
-      "english": "not"
+      "english": "not have; lack; without; none"
     },
     {
       "char": "问题",
       "trad": "問題",
       "pinyin": "wèntí",
-      "english": "problem; question"
+      "english": "problem; question; issue; matter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "如果你需要帮助(如果你需要幫助)，请告诉我(請告訴我)，没问题(沒問題)！",
-      "pinyin": "Rúguǒ nǐ xūyào bāngzhù, qǐng gàosù wǒ, méi wèntí!",
-      "english": "If you need help, please tell me, no problem!"
+      "chinese": "如果你需要帮助(如果你需要幫助)，我会尽力(我會盡力)。",
+      "pinyin": "Rúguǒ nǐ xūyào bāngzhù, wǒ huì jìnlì.",
+      "english": "If you need help, I will do my best."
     },
     {
-      "chinese": "老板要求加班(老闆要求加班)，我说没问题(我說沒問題)。",
-      "pinyin": "Lǎobǎn yāoqiú jiābān, wǒ shuō méi wèntí.",
-      "english": "The boss asked for overtime, I said no problem."
+      "chinese": "请放心(請放心)，这个任务没问题(這個任務沒問題)。",
+      "pinyin": "Qǐng fàngxīn, zhège rènwù méi wèntí.",
+      "english": "Rest assured, there's no problem with this task."
     },
     {
-      "chinese": "你能修理这台电脑吗(你能修理這台電腦嗎)？没问题(沒問題)！",
-      "pinyin": "Nǐ néng xiūlǐ zhè tái diànnǎo ma? Méi wèntí!",
-      "english": "Can you fix this computer? No problem!"
+      "chinese": "他答应了所有的工作要求(他答應了所有的工作要求)，所以领导很满意(所以領導很滿意)。",
+      "pinyin": "Tā dāyìngle suǒyǒu de gōngzuò yāoqiú, suǒyǐ lǐngdǎo hěn mǎnyì.",
+      "english": "He agreed to all the work requirements, so the leader was very satisfied."
     }
   ]
 }

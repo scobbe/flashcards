@@ -4,41 +4,41 @@
   "pinyin": "kǎo",
   "english": "exam; test; to verify; to check",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "老(老) (lǎo, \"old\") + 丂(丂) (kǎo, phonetic component) = old person giving an exam -> exam, test",
-    "interpretation": "The character 考(考) (kǎo, \"exam\") combines the semantic element 老(老) (lǎo, \"old\"), hinting at wisdom or authority, with the phonetic component 丂(丂) (kǎo), signifying the act of verifying or testing knowledge.",
+    "type": "ideogrammic compound",
+    "description": "耂 ('an old man with long hair, bent over') + 丂 ('a walking cane' originally drawn as 匕) -> an old man leaning on a cane",
+    "interpretation": "The character 考(kǎo, 'exam; test; to verify; to check') depicts an old man with long hair and bent over, combined with a cane. This image represents the wisdom and scrutiny often associated with elders, which conceptually extends to the idea of examining, verifying, or testing knowledge or truth.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "老",
-      "trad": "老",
+      "char": "耂",
+      "trad": "耂",
       "pinyin": "lǎo",
-      "english": "old"
+      "english": "old man with long hair, bent over"
     },
     {
       "char": "丂",
       "trad": "丂",
       "pinyin": "kǎo",
-      "english": "phonetic component"
+      "english": "a walking cane"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "明天(明天)，我要考数学(我要考數學)。",
-      "pinyin": "Míngtiān, wǒ yào kǎo shùxué.",
-      "english": "Tomorrow, I will take a math exam."
+      "chinese": "我下周有一个重要的考试(我下週有一個重要的考試)。",
+      "pinyin": "Wǒ xià zhōu yǒu yī gè zhòngyào de kǎoshì.",
+      "english": "I have an important exam next week."
     },
     {
-      "chinese": "上课时(上課時)，老师考查学生作业(老師考查學生作業)。",
-      "pinyin": "Shàngkè shí, lǎoshī kǎo chá xuéshēng zuòyè.",
-      "english": "During class, the teacher checks the students' homework."
+      "chinese": "老师要检查我们的作业(老師要檢查我們的作業)。",
+      "pinyin": "Lǎoshī yào jiǎnchá wǒmen de zuòyè.",
+      "english": "The teacher wants to check our homework."
     },
     {
-      "chinese": "政府考核公务员(政府考核公務員)。",
-      "pinyin": "Zhèngfǔ kǎo hé gōngwùyuán.",
-      "english": "The government evaluates civil servants."
+      "chinese": "为了准备考试(為了準備考試)，他每天都学习到很晚(他每天都學習到很晚)。",
+      "pinyin": "Wèile zhǔnbèi kǎoshì, tā měitiān dōu xuéxí dào hěn wǎn.",
+      "english": "In order to prepare for the test, he studies until late every day."
     }
   ]
 }

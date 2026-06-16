@@ -5,40 +5,40 @@
   "english": "marsh; wetland; benefit; grace",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 睪(ze, \"to gaze\") = water pattern + sound -> marsh, benefit, grace",
-    "interpretation": "The character 泽(澤) (zé, \"marsh\") combines the water radical 氵(氵) (shuǐ, \"water\"), which is associated with liquid or wet environments, with the phonetic component 睪 which suggests its pronunciation. This combination reflects the concept of a marsh, a wetland area, and by extension, ideas of nourishment and grace.",
-    "simplification": "泽(澤) simplified by retaining the water radical 氵(氵) (shuǐ, \"water\") and selecting a simpler phonetic form 睪 rather than complex traditional forms."
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 睪(睪) -> concept of \"marsh, wetland\" by combining water with phonetic",
+    "interpretation": "The semantic component 水(水) (shuǐ, \"water\") suggests a watery area, while the phonetic component 睪(睪) contributes the pronunciation. The combination reflects a place characterized by presence of water, leading to senses like \"marsh\" and \"wetland\". The extension to \"benefit\" and \"grace\" links metaphorically to the idea of water providing sustenance and nurturing qualities.",
+    "simplification": "Simplified 泽(澤) replaces 睪(睪) with simplified 𦰩, maintaining the pronunciation but reducing strokes."
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
     {
       "char": "睪",
-      "trad": "澤",
-      "pinyin": "ze",
-      "english": "to gaze (phonetic component)"
+      "trad": "睪",
+      "pinyin": "yì",
+      "english": "a kind of examination; to watch over"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋雨过后(秋雨過後)，泽水满盈(澤水滿盈)。",
-      "pinyin": "Qiū yǔ guòhòu, zé shuǐ mǎn yíng.",
-      "english": "After the autumn rain, the marsh is filled with water."
+      "chinese": "在雨后的清晨(在雨後的清晨)，我们穿过了一片广阔的泽地(我們穿過了一片廣闊的澤地)。",
+      "pinyin": "Zài yǔhòu de qīngchén, wǒmen chuānguòle yī piàn guǎngkuò de zédì.",
+      "english": "On the morning after the rain, we walked through a vast marshland."
     },
     {
-      "chinese": "他的仁德如泽(他的仁德如澤)。",
-      "pinyin": "Tā de réndé rú zé.",
-      "english": "His benevolence is like grace."
+      "chinese": "他的恩泽(他的恩澤)让所有人都感激不已(讓所有人都感激不已)。",
+      "pinyin": "Tā de ēnzé ràng suǒyǒu rén dōu gǎnjī bù yǐ.",
+      "english": "His grace made everyone feel incredibly grateful."
     },
     {
-      "chinese": "广阔的泽滋养了周围的土地(廣闊的澤滋養了周圍的土地)。",
-      "pinyin": "Guǎngkuò de zé zīyǎng le zhōuwéi de tǔdì.",
-      "english": "The vast wetland nourishes the surrounding land."
+      "chinese": "这片湿地(這片濕地)在春天成为鸟类的天堂(在春天成為鳥類的天堂)。",
+      "pinyin": "Zhè piàn shīdì zài chūntiān chéngwéi niǎolèi de tiāntáng.",
+      "english": "This wetland becomes a paradise for birds in the spring."
     }
   ]
 }

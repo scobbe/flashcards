@@ -5,40 +5,40 @@
   "english": "rising sun; dawn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 九(九) (jiǔ, \"nine\") + Semantic: 日(日) (rì, \"sun\") = phonetic and semantic component combined to suggest the notion of the sun rising -> rising sun; dawn",
-    "interpretation": "旭(旭) (xù, \"rising sun\") effectively combines 日(日) (rì, \"sun\") to denote the sun with 九(九) (jiǔ, \"nine\") for phonetic purposes, reflecting the idea of a rising sun and the beginning of the day.",
+    "description": "semantic 日(日) (rì, \"sun\") + phonetic 九(九) (jiǔ) -> rising sun",
+    "interpretation": "The character 旭(xù, \"rising sun; dawn\") combines the semantic component 日(日) (rì, \"sun\"), suggesting brightness or a celestial body, with the phonetic component 九(九) (jiǔ), which contributes the sound. This combination conveys the sense of the sun rising, signifying dawn or the early morning.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "九",
-      "trad": "九",
-      "pinyin": "jiǔ",
-      "english": "nine"
-    },
     {
       "char": "日",
       "trad": "日",
       "pinyin": "rì",
       "english": "sun"
+    },
+    {
+      "char": "九",
+      "trad": "九",
+      "pinyin": "jiǔ",
+      "english": "nine"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "晨曦初露之时(晨曦初露之時)，旭日东升(旭日東升)。",
-      "pinyin": "Chénxī chūlù zhī shí, xùrì dōngshēng.",
-      "english": "When the dawn first appears, the rising sun ascends."
+      "chinese": "天边露出了旭日(天邊露出了旭日)，空气显得特别清新(空氣顯得特別清新)。",
+      "pinyin": "Tiānbiān lùchūle xùrì, kōngqì xiǎnde tèbié qīngxīn.",
+      "english": "The rising sun appeared on the horizon, and the air felt especially fresh."
     },
     {
-      "chinese": "我站在山顶(我站在山頂)，凝望着旭光万丈(凝望著旭光萬丈)。",
-      "pinyin": "Wǒ zhàn zài shāndǐng, níngwàng zhe xùguāng wànzhàng.",
-      "english": "I stand on the mountaintop, gazing at the magnificent sunrise."
+      "chinese": "旭光渐渐照亮了大地(旭光漸漸照亮了大地)。",
+      "pinyin": "Xù guāng jiànjiàn zhàoliàngle dàdì.",
+      "english": "The light of the rising sun gradually illuminated the land."
     },
     {
-      "chinese": "旭日初升映红天边(旭日初升映紅天邊)。",
-      "pinyin": "Xùrì chūshēng yìng hóng tiānbiān.",
-      "english": "The rising sun paints the horizon in red."
+      "chinese": "每天清晨，我们都会沐浴在旭日的光辉中(每天清晨，我們都會沐浴在旭日的光輝中)。",
+      "pinyin": "Měitiān qīngchén, wǒmen dōu huì mùyù zài xù rì de guānghuī zhōng.",
+      "english": "Every morning, we bathe in the glory of the rising sun."
     }
   ]
 }

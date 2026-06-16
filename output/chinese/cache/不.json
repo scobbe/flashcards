@@ -5,27 +5,46 @@
   "english": "not",
   "etymology": {
     "type": "pictogram",
-    "description": "Originally depicted as a calyx or flower stem, indicating negation - symbolically suggesting something not fully formed or not happening.",
-    "interpretation": "The character 不(bù, \"not\") started as a pictographic representation of a calyx or incomplete form, symbolizing the idea of negation or absence.",
+    "description": "Depicts a calyx of a flower -> used phono-semantically in 否(否) (fǒu, \"no\") with 口(口) (kǒu, \"mouth\") to express negation -> borrowed back as synonym for 否 to mean \"not\"",
+    "interpretation": "Originally depicted a calyx, the character 不 was used phonosemantically in 否(否) (fǒu, \"no\") to convey negation by combining with 口(口) (kǒu, \"mouth\"). This negation concept spread back to 不, shifting its meaning to \"not\". The calyx meaning is now expressed by 柎.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "否",
+      "trad": "否",
+      "pinyin": "fǒu",
+      "english": "no"
+    },
+    {
+      "char": "柎",
+      "trad": "柎",
+      "pinyin": "fū",
+      "english": "calyx"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我不喜欢吃辣椒(我不喜歡吃辣椒)。",
-      "pinyin": "Wǒ bù xǐhuān chī làjiāo.",
-      "english": "I do not like eating chili."
+      "chinese": "我不是医生(我不是醫生)。",
+      "pinyin": "Wǒ bú shì yīshēng.",
+      "english": "I am not a doctor."
     },
     {
-      "chinese": "他不是医生(他不是醫生)，而是老师(而是老師)。",
-      "pinyin": "Tā bù shì yīshēng, ér shì lǎoshī.",
-      "english": "He is not a doctor, but a teacher."
+      "chinese": "他不想去公园(他不想去公園)。",
+      "pinyin": "Tā bù xiǎng qù gōngyuán.",
+      "english": "He doesn't want to go to the park."
     },
     {
-      "chinese": "天气不好(天氣不好)，我们不出门(我們不出門)。",
-      "pinyin": "Tiānqì bù hǎo, wǒmen bù chūmén.",
-      "english": "The weather is bad, and we do not go out."
+      "chinese": "天气不太好(天氣不太好)，所以我们待在家里(所以我們待在家裡)。",
+      "pinyin": "Tiānqì bù tài hǎo, suǒyǐ wǒmen dāi zài jiālǐ.",
+      "english": "The weather is not very good, so we stayed at home."
     }
   ]
 }

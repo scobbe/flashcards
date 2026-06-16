@@ -5,35 +5,40 @@
   "english": "petal; segment",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 瓦(瓦) (wǎ, \"tile\") + phonetic: 辦(辦) (bàn, \"handle\") = segment of tile -> petal",
-    "interpretation": "The character uses 瓦(瓦) (wǎ, \"tile\") to suggest a physical object with segments, such as tiles or petals, while 辦(辦) (bàn) provides the phonetic element. It elegantly captures the concept of a 'petal' as a segment of a whole.",
+    "description": "phonetic 辡 (two prisoners accusing each other) + semantic 瓜 (melon) -> differentiation; originally referred to melon seeds -> petal",
+    "interpretation": "The reduplication of the knife in 辡 highlights the image of separating parts or distinguishing sections, with 瓜 (melon) suggesting something that is segmented, much like melon seeds. The character originally described the splitting of melons and by extension their seeds, eventually coming to mean any natural segment like a petal.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "瓦",
-      "trad": "瓦",
-      "pinyin": "wǎ",
-      "english": "tile"
+      "char": "辡",
+      "trad": "辡",
+      "pinyin": "biàn",
+      "english": "two prisoners accusing each other"
     },
     {
-      "char": "辦",
-      "trad": "辦",
-      "pinyin": "bàn",
-      "english": "handle"
+      "char": "瓜",
+      "trad": "瓜",
+      "pinyin": "guā",
+      "english": "melon"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "玫瑰花的花瓣娇嫩芬芳(玫瑰花的花瓣嬌嫩芬芳)。",
-      "pinyin": "méiguī huā de huābàn jiāonèn fēnfāng.",
-      "english": "The rose's petals are delicate and fragrant."
+      "chinese": "每朵花有五片花瓣(每朵花有五片花瓣)。",
+      "pinyin": "Měi duǒ huā yǒu wǔ piàn huābàn.",
+      "english": "Each flower has five petals."
     },
     {
-      "chinese": "橙子的瓣剥开后呈现鲜黄(橙子的瓣剝開後呈現鮮黃)，味道甜美(味道甜美)。",
-      "pinyin": "chéngzi de bàn bōkāi hòu chéngxiàn xiānhuáng, wèidào tiánměi.",
-      "english": "After the orange's segments peel open, they reveal a bright yellow color, and the taste is sweet."
+      "chinese": "她轻轻地擦去一瓣花瓣上的露水(她輕輕地擦去一瓣花瓣上的露水)。",
+      "pinyin": "Tā qīngqīng de cā qù yī bàn huābàn shàng de lùshuǐ.",
+      "english": "She gently wiped the dew off a petal."
+    },
+    {
+      "chinese": "橘子的每一瓣果肉都很甜(橘子的每一瓣果肉都很甜)。",
+      "pinyin": "Júzi de měi yī bàn guǒròu dōu hěn tián.",
+      "english": "Each segment of the orange is very sweet."
     }
   ]
 }

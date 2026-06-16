@@ -5,9 +5,9 @@
   "english": "plain; simple",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 木(木) (mù, \"tree\") + phonetic 卜(卜) (bǔ, \"divination\") = plain, simple wood",
-    "interpretation": "The character 朴(pǔ) combines 木(木) (mù, \"tree\") as the semantic component since it relates to wood, with 卜(卜) (bǔ, \"divination\") providing the phonetic aspect, hinting at the pronunciation. The combination conveys the idea of plainness or simplicity akin to unrefined wood.",
-    "simplification": "Simplified to 朴(pǔ) from 樸(pǔ) as part of the official Chinese Character Simplification Scheme in 1956, replacing the more complex traditional character with a simpler version that retained the original meaning and phonetic cues."
+    "description": "semantic 木(木) (mù, 'tree') + phonetic 卜(卜) (bǔ) -> representing simplicity and plainness associated with untreated wood",
+    "interpretation": "The semantic component 木(木) (mù, 'tree') signifies untreated or natural wood, conveying the notion of something simple and unembellished. The phonetic component 卜(卜) (bǔ) lends its sound to form the character. Together, these elements suggest the quality of something that remains plain or unworked, akin to raw wood.",
+    "simplification": "As part of the Chinese Character Simplification Scheme, the character 樸 was simplified to 朴 by removing the additional components and retaining the simpler structure."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "卜",
       "trad": "卜",
       "pinyin": "bǔ",
-      "english": "divination"
+      "english": "divine"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他过着朴的生活(他過著樸的生活)。",
-      "pinyin": "Tā guòzhe pǔ de shēnghuó.",
-      "english": "He lives a plain life."
+      "chinese": "她的穿着风格非常朴素(她的穿著風格非常樸素)。",
+      "pinyin": "Tā de chuānzhuó fēnggé fēicháng pǔsù.",
+      "english": "Her style of dressing is very plain."
     },
     {
-      "chinese": "他偏爱朴的设计(他偏愛樸的設計)，追求简单的美(追求簡單的美)。",
-      "pinyin": "Tā piān'ài pǔ de shèjì, zhuīqiú jiǎndān de měi.",
-      "english": "He prefers plain designs, pursuing simple beauty."
+      "chinese": "这间房子的设计很朴实(這間房子的設計很樸實)。",
+      "pinyin": "Zhè jiān fángzi de shèjì hěn pǔshí.",
+      "english": "The design of this house is very simple."
     },
     {
-      "chinese": "他的书法风格朴(他的書法風格樸)，透露出深厚的功底(透露出深厚的功底)。",
-      "pinyin": "Tā de shūfǎ fēnggé pǔ, tòulù chū shēnhòu de gōngdǐ.",
-      "english": "His calligraphy has a plain style, revealing profound mastery."
+      "chinese": "他过着朴素的生活(他過著樸素的生活)，不喜欢奢华(不喜歡奢華)。",
+      "pinyin": "Tā guòzhe pǔsù de shēnghuó, bù xǐhuān shēhuá.",
+      "english": "He leads a plain life and does not like luxury."
     }
   ]
 }

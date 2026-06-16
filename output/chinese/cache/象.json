@@ -5,27 +5,27 @@
   "english": "elephant",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an elephant: ⺈ (trunk) + 𫩏 (head) + 𧰨 (body) -> elephant",
-    "interpretation": "The character 象(象) (xiàng, 'elephant') is a pictogram that visually represents an elephant with distinct features: the trunk, head, and body. This straightforward depiction was used to convey the concept of an elephant.",
+    "description": "Depicts an elephant: ⺈ represents the trunk, 𫩏 represents the head, and 𧰨 represents the body",
+    "interpretation": "The character 象(xiàng, \"elephant\") is a direct pictorial representation of an elephant, emphasizing its prominent features such as the trunk, head, and body to convey its meaning.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "大象步伐缓慢(大象步伐緩慢)。",
-      "pinyin": "dà xiàng bùfá huǎnmàn",
-      "english": "Elephants move slowly."
+      "chinese": "大象是陆地上最大的动物(大象是陸地上最大的動物)。",
+      "pinyin": "Dàxiàng shì lùdì shàng zuì dà de dòngwù.",
+      "english": "The elephant is the largest animal on land."
     },
     {
-      "chinese": "小象在河边戏水(小象在河邊戲水)，妈妈紧紧护卫(媽媽緊緊護衛)。",
-      "pinyin": "xiǎo xiàng zài hé biān xì shuǐ, māma jǐn jǐn hùwèi",
-      "english": "The baby elephant splashes in the river, while its mother watches closely."
+      "chinese": "在非洲的草原上(在非洲的草原上)，你能看到许多野生的大象(你能看到許多野生的大象)。",
+      "pinyin": "Zài Fēizhōu de cǎoyuán shàng，nǐ néng kàn dào xǔduō yěshēng de dàxiàng.",
+      "english": "On the African savannah, you can see many wild elephants."
     },
     {
-      "chinese": "象牙被视为珍贵(象牙被視為珍貴)，常被用于雕刻(常被用於雕刻)。",
-      "pinyin": "xiàng yá bèi shì wéi zhēn guì, cháng bèi yòng yú diāo kè",
-      "english": "Ivory is considered precious and is often used for carving."
+      "chinese": "我第一次看到大象是在动物园(我第一次看到大象是在動物園)。",
+      "pinyin": "Wǒ dì yī cì kàn dào dàxiàng shì zài dòngwùyuán.",
+      "english": "The first time I saw an elephant was at the zoo."
     }
   ]
 }

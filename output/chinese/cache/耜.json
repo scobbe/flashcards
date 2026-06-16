@@ -5,8 +5,8 @@
   "english": "plow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 耒(耒) (lěi, \"plow\") + phonetic 㠯(㠯) (variant sound)",
-    "interpretation": "The character 耜(sì, \"plow\") combines the semantic element 耒(耒) (lěi, \"plow\"), representing the tool itself, with the phonetic component 㠯 to convey its pronunciation.",
+    "description": "semantic 耒(耒) (lěi, \"plow\") + phonetic 㠯(㠯)",
+    "interpretation": "The character 耜(sì, \"plow\") combines the semantic component 耒(耒) (lěi, \"plow\"), representing the agricultural tool, with the phonetic component 㠯(㠯) to convey the sound. The semantic component indicates its association with farming and plowing, while the phonetic element suggests the pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -19,8 +19,8 @@
     {
       "char": "㠯",
       "trad": "㠯",
-      "pinyin": "variant",
-      "english": "sound"
+      "pinyin": "",
+      "english": ""
     }
   ],
   "in_contemporary_usage": false,

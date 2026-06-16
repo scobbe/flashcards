@@ -5,8 +5,8 @@
   "english": "coconut milk",
   "etymology": {
     "type": "compound word",
-    "description": "椰(椰) (yē, \"coconut\") + 奶(奶) (nǎi, \"milk\") = milk from coconut",
-    "interpretation": "椰奶 (yēnǎi, \"coconut milk\") combines 椰(椰) (yē, \"coconut\") and 奶(奶) (nǎi, \"milk\") to refer to milk that is derived from coconuts. This makes sense as it describes the liquid often used in cooking and beverages, providing a creamy, tropical flavor.",
+    "description": "椰(椰) (yē, \"coconut\") refers to the coconut palm and its fruit, which provides the core ingredient in this word. 奶(奶) (nǎi, \"milk\") describes the liquid aspect, which is derived from the coconut and resembles milk in both texture and use.",
+    "interpretation": "椰(椰) (yē, \"coconut\") refers to the coconut fruit, which is rich in a creamy liquid used similarly to milk. 奶(奶) (nǎi, \"milk\") indicates the white, milk-like liquid extracted from the coconut, used in cooking and beverages for its similar properties to animal milk.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢椰奶(我喜歡椰奶)。",
-      "pinyin": "Wǒ xǐhuān yēnǎi.",
-      "english": "I like coconut milk."
+      "chinese": "椰奶(椰奶)是我最喜欢的饮品之一(是我最喜歡的飲品之一)。",
+      "pinyin": "Yēnǎi shì wǒ zuì xǐhuān de yǐnpǐn zhī yī.",
+      "english": "Coconut milk is one of my favorite drinks."
     },
     {
-      "chinese": "夏天来临时(夏天來臨時)，椰奶搭配新鲜水果(椰奶搭配新鮮水果)。",
-      "pinyin": "Xiàtiān láilín shí, yēnǎi dāpèi xīnxiān shuǐguǒ.",
-      "english": "When summer arrives, coconut milk pairs with fresh fruits."
+      "chinese": "他在咖啡里加了一点椰奶(他在咖啡裡加了一點椰奶)，味道非常独特(味道非常獨特)。",
+      "pinyin": "Tā zài kāfēi lǐ jiā le yīdiǎn yēnǎi, wèidào fēicháng dútè.",
+      "english": "He added a bit of coconut milk to the coffee, and the taste was very unique."
     },
     {
-      "chinese": "他做的咖喱需要椰奶(他做的咖喱需要椰奶)，以增加浓郁风味(以增加濃郁風味)。",
-      "pinyin": "Tā zuò de gālí xūyào yēnǎi, yǐ zēngjiā nóngyù fēngwèi.",
-      "english": "The curry he makes requires coconut milk to enhance its rich flavor."
+      "chinese": "这个菜需要椰奶(這個菜需要椰奶)，请帮我买一些(請幫我買一些)。",
+      "pinyin": "Zhège cài xūyào yēnǎi, qǐng bāng wǒ mǎi yīxiē.",
+      "english": "This dish needs coconut milk, please help me buy some."
     }
   ]
 }

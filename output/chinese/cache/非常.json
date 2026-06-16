@@ -5,8 +5,8 @@
   "english": "very; extremely",
   "etymology": {
     "type": "compound word",
-    "description": "非(非) (fēi, \"not; wrong\") + 常(常) (cháng, \"ordinary; usual\") = beyond the ordinary",
-    "interpretation": "The word 非常(非常) (fēicháng, \"very; extremely\") combines 非(非) (fēi, \"not; wrong\") and 常(常) (cháng, \"ordinary; usual\") to express the idea of something that goes beyond the ordinary or usual, hence being very or extremely in nature.",
+    "description": "非常 (fēicháng, \"very; extremely\") combines two characters: 非(非) (fēi, \"not; wrong\") and 常(常) (cháng, \"ordinary; usual\"). 非(非) indicates negation or contrariety, while 常(常) refers to the usual or regular state of things.",
+    "interpretation": "The combination 非(非) (fēi, \"not; wrong\") + 常(常) (cháng, \"ordinary; usual\") creates an image of something that is 'not ordinary' or 'out of the ordinary', leading to an intensified sense of something being beyond the norm or extremely so. This mechanism forms the basis for its use to mean 'very' or 'extremely', as it indicates a departure from the expected or typical state.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我今天非常高兴(我今天非常高興)。",
-      "pinyin": "Wǒ jīntiān fēicháng gāoxìng.",
-      "english": "I am very happy today."
+      "chinese": "天气非常好(天氣非常好)。",
+      "pinyin": "Tiānqì fēicháng hǎo.",
+      "english": "The weather is very good."
     },
     {
-      "chinese": "这本书非常有趣(這本書非常有趣)。",
-      "pinyin": "Zhè běn shū fēicháng yǒuqù.",
-      "english": "This book is extremely interesting."
+      "chinese": "今天的食物非常美味(今天的食物非常美味)。",
+      "pinyin": "Jīntiān de shíwù fēicháng měiwèi.",
+      "english": "Today's food is extremely delicious."
     },
     {
-      "chinese": "他们非常努力(他們非常努力)，终于成功了(終於成功了)。",
-      "pinyin": "Tāmen fēicháng nǔlì, zhōngyú chénggōngle.",
-      "english": "They worked very hard, and finally succeeded."
+      "chinese": "他工作非常努力(他工作非常努力)，因此得到了晋升(因此得到了晉升)。",
+      "pinyin": "Tā gōngzuò fēicháng nǔlì, yīncǐ dédào le jìnshēng.",
+      "english": "He works very hard, so he got a promotion."
     }
   ]
 }

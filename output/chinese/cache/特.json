@@ -5,8 +5,8 @@
   "english": "special",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 牛(牛) (niú, \"cow\") + phonetic: 寺(寺) (sì, \"temple\") = a kind of cattle used for special purposes -> special",
-    "interpretation": "The character 特(特) (tè, \"special\") combines 牛(牛) (niú, \"cow\") to imply a kind associated with cattle, and 寺(寺) (sì, \"temple\") for its phonetic value to convey the idea of something specialized or set apart. Historically, certain cattle were designated for particular uses, signifying their specialness.",
+    "description": "semantic 牛(牛) (niú, \"ox\") + phonetic 寺(寺) (sì) -> large bull",
+    "interpretation": "The character 特(tè, \"special\") combines the semantic component 牛(牛) (niú, \"ox\"), representing strength and significance, with the phonetic component 寺(寺) (sì), which contributes the sound. The meaning 'special' might derive from the metaphor of a notably large bull, indicating something out of the ordinary or exceptional.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "牛",
       "trad": "牛",
       "pinyin": "niú",
-      "english": "cow"
+      "english": "ox"
     },
     {
       "char": "寺",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这道菜味道特鲜美(這道菜味道特鮮美)。",
-      "pinyin": "Zhè dào cài wèi dào tè xiān měi.",
-      "english": "The taste of this dish is exceptionally fresh and delicious."
+      "chinese": "这是一种特别的经历(這是一種特別的經歷)。",
+      "pinyin": "Zhè shì yī zhǒng tèbié de jīnglì.",
+      "english": "This is a special experience."
     },
     {
-      "chinese": "他努力工作(他努力工作)，成绩特突出(成績特突出)。",
-      "pinyin": "Tā nǔlì gōngzuò, chéngjì tè tū chū.",
-      "english": "He works hard, and his performance is remarkably outstanding."
+      "chinese": "他的声音在演讲中显得特别清晰(他的聲音在演講中顯得特別清晰)。",
+      "pinyin": "Tā de shēngyīn zài yǎnjiǎng zhōng xiǎndé tèbié qīngxī.",
+      "english": "His voice sounded particularly clear during the speech."
+    },
+    {
+      "chinese": "为了这个特殊的场合，我们准备了一些特别的菜肴(為了這個特殊的場合，我們準備了一些特別的菜餚)。",
+      "pinyin": "Wèile zhège tèshū de chǎnghé, wǒmen zhǔnbèi le yīxiē tèbié de càiyáo.",
+      "english": "For this special occasion, we prepared some special dishes."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "exempt; dismiss; avoid; release",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a man wearing a ceremonial hat -> borrowed for abstract meanings",
-    "interpretation": "The character originally depicted a ceremonial figure, emphasizing authority. Over time, it was borrowed for abstract concepts like 'exempt' or 'dismiss.' The derivative 冕(冕) (miǎn, 'crown') retains the original meaning related to ceremonial apparel.",
+    "description": "Depicts a man wearing a ceremonial hat -> borrowed for sound and abstract meanings (e.g., 'exempt', 'dismiss', 'avoid') -> 冕 (miǎn, 'crown') confirms original ceremonial context",
+    "interpretation": "Originally depicted a man with a ceremonial hat, which over time became associated with the idea of exemption or dismissal like one being ceremonially released or avoided from obligations. This ceremonial context still lingers in the derived character 冕 (miǎn, 'crown'), reinforcing the visual origin.",
     "simplification": ""
   },
   "parts": [
@@ -20,19 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "学生们免缴学费(學生們免繳學費)。",
-      "pinyin": "Xuéshēngmen miǎn jiǎo xuéfèi.",
-      "english": "Students are exempt from paying tuition."
+      "chinese": "我们可以免去会议(我們可以免去會議)。",
+      "pinyin": "Wǒmen kěyǐ miǎn qù huìyì.",
+      "english": "We can dismiss the meeting."
     },
     {
-      "chinese": "因工作繁忙(因工作繁忙)，他被免去部分职责(他被免去部分職責)。",
-      "pinyin": "Yīn gōngzuò fánmáng, tā bèi miǎn qù bùfen zhízé.",
-      "english": "Due to his busy work schedule, he was dismissed from some of his duties."
+      "chinese": "为避免误解(為避免誤解)，我们要仔细沟通(我們要仔細溝通)。",
+      "pinyin": "Wèi bìmiǎn wùjiě, wǒmen yào zǐxì gōutōng.",
+      "english": "To avoid misunderstanding, we need to communicate carefully."
     },
     {
-      "chinese": "为了节省开支(為了節省開支)，公司决定免发年终奖(公司決定免發年終獎)。",
-      "pinyin": "Wèile jiéshěng kāizhī, gōngsī juédìng miǎn fā niánzhōng jiǎng.",
-      "english": "In order to save expenses, the company decided to avoid giving out the year-end bonus."
+      "chinese": "他被免除了责任(他被免除了責任)。",
+      "pinyin": "Tā bèi miǎnchúle zérèn.",
+      "english": "He was exempted from responsibility."
     }
   ]
 }

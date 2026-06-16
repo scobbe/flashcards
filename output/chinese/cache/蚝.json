@@ -4,41 +4,41 @@
   "pinyin": "háo",
   "english": "oyster",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "虫(蟲) (chóng, \"insect\") + phonetic 豪(豪) (háo, \"luxurious\") = a type of insect -> refers to oysters, which are a type of mollusk",
-    "interpretation": "The character 蚝(蠔) combines 虫(蟲) (chóng, \"insect\") to convey the association with creatures from the animal kingdom, specifically shelled sea animals like oysters, and 豪(豪) (háo, \"luxurious\") as the phonetic component to denote the sound and perhaps the luxurious aspect of eating oysters.",
-    "simplification": "蚝(蠔) retains the phonetic 豪(豪) (háo) but simplifies the insect component 虫(蟲) (chóng) as a common shorthand for any invertebrate or small creature, resulting in the modern form."
+    "type": "phono-semantic compound",
+    "description": "semantic 虫(虫) (chóng, \"insect; bug\") + phonetic 豪(豪) (háo) -> meaning",
+    "interpretation": "The character 蠔 (háo) for \"oyster\" combines the semantic component 虫(虫) (chóng, \"insect; bug\"), which is commonly used in characters related to animals or small creatures, with the phonetic component 豪(豪) (háo) that provides the sound. The logical connection is made by recognizing oysters as sea creatures, aligning with the semantic association.",
+    "simplification": "The traditional character 蠔 was simplified to 蚝 by reducing components while retaining the structure that suggests both meaning and sound elements. Specifically, 𧐢 was employed as an intermediate simplification step, maintaining enough of the original's recognizable elements."
   },
   "parts": [
     {
       "char": "虫",
-      "trad": "蟲",
+      "trad": "虫",
       "pinyin": "chóng",
-      "english": "insect"
+      "english": "insect; bug"
     },
     {
       "char": "豪",
       "trad": "豪",
       "pinyin": "háo",
-      "english": "luxurious"
+      "english": "magnificent; luxury"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃蚝(我喜歡吃蠔)。",
-      "pinyin": "Wǒ xǐhuān chī háo.",
-      "english": "I like eating oysters."
+      "chinese": "在海边的餐厅，我点了一盘生蚝(在海邊的餐廳，我點了一盤生蠔)。",
+      "pinyin": "Zài hǎibiān de cāntīng, wǒ diǎnle yī pán shēngháo.",
+      "english": "At the seaside restaurant, I ordered a plate of raw oysters."
     },
     {
-      "chinese": "蚝肉鲜嫩(蠔肉鮮嫩)，味道极佳(味道極佳)。",
-      "pinyin": "Háo ròu xiānnèn, wèidào jí jiā.",
-      "english": "Oyster meat is tender and delicious."
+      "chinese": "蚝油是制作中餐的重要调料(蠔油是製作中餐的重要調料)。",
+      "pinyin": "Háoyóu shì zhìzuò zhōngcān de zhòngyào tiáoliào.",
+      "english": "Oyster sauce is an important condiment in making Chinese dishes."
     },
     {
-      "chinese": "海边的市场里有很多新鲜的蚝(海邊的市場裡有很多新鮮的蠔)。",
-      "pinyin": "Hǎibiān de shìchǎng lǐ yǒu hěn duō xīnxiān de háo.",
-      "english": "The seaside market has many fresh oysters."
+      "chinese": "渔夫每天收集新鲜的蚝(漁夫每天收集新鮮的蠔)。",
+      "pinyin": "Yúfū měitiān shōují xīnxiān de háo.",
+      "english": "The fisherman collects fresh oysters every day."
     }
   ]
 }

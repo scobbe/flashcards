@@ -5,40 +5,46 @@
   "english": "Cantonese; a Chinese dialect",
   "etymology": {
     "type": "compound word",
-    "description": "廣東(廣東) (Guǎngdōng, 'Guangdong') refers to the Guangdong province in southern China, which is historically the region where Cantonese is spoken. 話(話) (huà, 'speech; language; dialect') indicates a form of spoken language. Thus, 廣東話(廣東話) refers to the language or dialect spoken in the Guangdong region, known as Cantonese.",
-    "interpretation": "廣東話(廣東話) (Guǎngdōnghuà, 'Cantonese') is the dialect of Chinese that originated in the Guangdong region. The term specifies the local language as opposed to other dialects of Chinese.",
+    "description": "廣(廣) (guǎng, \"broad\") + 東(東) (dōng, \"east\") + 話(話) (huà, \"speech; language\") forms the name for a specific regional dialect often used by the people in the Guangdong province, leading to its designation.",
+    "interpretation": "廣(廣) (guǎng, \"broad\") and 東(東) (dōng, \"east\") together refer to the Guangdong province, a region in the southeastern part of China known for its expanse to the east. 話(話) (huà, \"speech; language\") indicates the spoken language. Thus, 廣東話 (Guǎngdōnghuà) signifies the language of the broad eastern region, i.e., Cantonese, the specific language used predominantly by people in Guangdong.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "廣東",
-      "trad": "廣東",
-      "pinyin": "Guǎngdōng",
-      "english": "Guangdong; a province in southern China"
+      "char": "廣",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "broad"
+    },
+    {
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
     },
     {
       "char": "話",
       "trad": "話",
       "pinyin": "huà",
-      "english": "speech; language; dialect; talk"
+      "english": "speech; language"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我正在学习广东话(我正在學習廣東話)。",
-      "pinyin": "Wǒ zhèngzài xuéxí Guǎngdōnghuà.",
-      "english": "I am learning Cantonese."
+      "chinese": "很多香港人会说广东话(很多香港人會說廣東話)。",
+      "pinyin": "Hěnduō Xiānggǎng rén huì shuō Guǎngdōnghuà.",
+      "english": "Many people in Hong Kong can speak Cantonese."
     },
     {
-      "chinese": "在香港(在香港)，很多人说广东话(很多人說廣東話)。",
-      "pinyin": "Zài Xiānggǎng, hěn duō rén shuō Guǎngdōnghuà.",
-      "english": "In Hong Kong, many people speak Cantonese."
+      "chinese": "我学习广东话(我學習廣東話)，因为我想去广东旅行(因為我想去廣東旅行)。",
+      "pinyin": "Wǒ xuéxí Guǎngdōnghuà, yīnwèi wǒ xiǎng qù Guǎngdōng lǚxíng.",
+      "english": "I study Cantonese because I want to travel to Guangdong."
     },
     {
-      "chinese": "她能流畅地讲广东话(她能流暢地講廣東話)。",
-      "pinyin": "Tā néng liúchàng de jiǎng Guǎngdōnghuà.",
-      "english": "She can speak Cantonese fluently."
+      "chinese": "听懂广东话(聽懂廣東話)对我来说有点难(對我來說有點難)。",
+      "pinyin": "Tīng dǒng Guǎngdōnghuà duì wǒ lái shuō yǒudiǎn nán.",
+      "english": "Understanding Cantonese is a bit difficult for me."
     }
   ]
 }

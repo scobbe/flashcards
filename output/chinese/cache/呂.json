@@ -5,35 +5,27 @@
   "english": "two blocks of metal",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two blocks of metal -> original form of 鋁(鋁) (lǚ, 'ingot') -> borrowed phonetically for 膂(膂) (lǚ, 'spine') and 呂(呂) (lǚ, 'music notes')",
-    "interpretation": "Initially a pictogram illustrating two disconnected metal blocks, the character 呂(呂) (lǚ, 'two blocks of metal') was later adapted by connecting the blocks, becoming stylized as it was repurposed for various meanings including 'spine' and 'music notes'.",
-    "simplification": "呂(呂) was adapted into 呂(吕) as a simplified form without altering the meaning, simplifying the lines to produce a more cursive appearance."
+    "description": "Depicts two disconnected blocks of metal, later connected in seal script -> Original form of 鋁(鋁) (lǚ, 'ingot') -> Borrowed phonetically for 'spine' and 'music notes'",
+    "interpretation": "The character 呂(lǚ) ('two blocks of metal') visually represents two separate blocks aligned vertically. In its earliest forms, these blocks were disconnected, symbolizing distinct metal segments, which aligns with its early use for 'ingot'. Over time, as seen in seal script, a connecting line was added to form the modern appearance. This visual interpretation supports its original meaning related to metal. It was later phonetically borrowed to convey concepts like 'spine' and 'music notes', where no direct semantic link exists with metal, but the sound similarity allowed its reuse in these contexts.",
+    "simplification": ""
   },
-  "parts": [
-    {
-      "char": "鋁",
-      "trad": "鋁",
-      "pinyin": "lǚ",
-      "english": "ingot"
-    },
-    {
-      "char": "膂",
-      "trad": "膂",
-      "pinyin": "lǚ",
-      "english": "spine"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "工匠将呂打造成精美的装饰品(工匠將呂打造成精美的裝飾品)。",
-      "pinyin": "Gōngjiàng jiāng Lǚ dǎzào chéng jīngměi de zhuāngshìpǐn.",
-      "english": "The artisan forged the two blocks of metal into an exquisite ornament."
+      "chinese": "他用两个大的金属块(他用兩個大的金屬塊)铸造了一个雕像(鑄造了一個雕像)。",
+      "pinyin": "Tā yòng liǎng gè dà de jīnshǔ kuài zhùzào le yī gè diāoxiàng.",
+      "english": "He cast a statue using two large blocks of metal."
     },
     {
-      "chinese": "考古学家在古墓中发现了呂(考古學家在古墓中發現了呂)。",
-      "pinyin": "Kǎogǔ xuéjiā zài gǔmù zhōng fāxiànle Lǚ.",
-      "english": "The archaeologist discovered the two blocks of metal in the ancient tomb."
+      "chinese": "现代工业中(現代工業中)，金属块(金屬塊)常用于制造重型设备(常用於製造重型設備)。",
+      "pinyin": "Xiàndài gōngyè zhōng, jīnshǔ kuài cháng yòng yú zhìzào zhòngxíng shèbèi.",
+      "english": "In modern industry, metal blocks are often used for manufacturing heavy equipment."
+    },
+    {
+      "chinese": "这个设计师用金属块(這個設計師用金屬塊)建造了一个现代化建筑(建造了一個現代化建築)。",
+      "pinyin": "Zhège shèjì shī yòng jīnshǔ kuài jiànzào le yī gè xiàndàihuà jiànzhù.",
+      "english": "The designer built a modern structure using metal blocks."
     }
   ]
 }

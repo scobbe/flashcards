@@ -5,16 +5,16 @@
   "english": "correct",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 糸(糸) (sī, \"silk\") + phonetic 丩(丩) (jiū, \"to entangle\") -> 糾(糾) (jiū, \"correct\")",
-    "interpretation": "The character 糾(糾) (jiū, \"correct\") combines 糸(糸) (sī, \"silk\") to suggest the idea of threads or strings involved in entangling or correcting, with 丩(丩) (jiū, \"to entangle\") providing the phonetic element. Originally, 丩 referred to the concept of entanglement directly, and 糹 (the silk radical) was later added to emphasize the textile-related meaning.",
+    "description": "semantic 糹(糸) (mì, \"silk; thread\") + phonetic 丩(丩) (jiū, \"to entangle\") -> concept of correcting",
+    "interpretation": "In the character 糾, the silk radical 糹(糸) represents something that can be tangled or arranged, reflecting the idea of adjusting or correcting, while the phonetic component 丩(丩) contributes the sound and also originally meant 'to entangle', hinting at the process of resolving issues by 'correcting' entanglements.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "糸",
+      "char": "糹",
       "trad": "糸",
-      "pinyin": "sī",
-      "english": "silk"
+      "pinyin": "mì",
+      "english": "silk; thread"
     },
     {
       "char": "丩",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他糾(糾)我的口误(我的口誤)，并讲解正确发音(並講解正確發音)。",
-      "pinyin": "Tā jiū wǒ de kǒuwù, bìng jiǎngjiě zhèngquè fāyīn.",
-      "english": "He corrected my slip of the tongue and explained the correct pronunciation."
+      "chinese": "他们在会上讨论如何纠正错误(他們在會上討論如何糾正錯誤)。",
+      "pinyin": "Tāmen zài huìshàng tǎolùn rúhé jiūzhèng cuòwù.",
+      "english": "They are discussing how to correct mistakes at the meeting."
     },
     {
-      "chinese": "经理要求员工糾(糾)报告中的遗漏(報告中的遺漏)，以确保准确性(以確保準確性)。",
-      "pinyin": "Jīnglǐ yāoqiú yuángōng jiū bàogào zhōng de yílòu, yǐ quèbǎo zhǔnquèxìng.",
-      "english": "The manager required the employees to correct the omissions in the report to ensure accuracy."
+      "chinese": "老师帮助学生纠正发音(老師幫助學生糾正發音)。",
+      "pinyin": "Lǎoshī bāngzhù xuéshēng jiūzhèng fāyīn.",
+      "english": "The teacher helps students correct pronunciation."
     },
     {
-      "chinese": "专家在讨论中糾(糾)理论漏洞(理論漏洞)。",
-      "pinyin": "Zhuānjiā zài tǎolùn zhōng jiū lǐlùn lòudòng.",
-      "english": "The expert corrected the theoretical loopholes during the discussion."
+      "chinese": "他尝试纠正自己的态度(他嘗試糾正自己的態度)。",
+      "pinyin": "Tā chángshì jiūzhèng zìjǐ de tàidù.",
+      "english": "He tries to correct his own attitude."
     }
   ]
 }

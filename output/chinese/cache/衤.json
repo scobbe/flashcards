@@ -4,9 +4,9 @@
   "pinyin": "yī",
   "english": "clothing",
   "etymology": {
-    "type": "component",
-    "description": "Left radical form of 衣(衣) (yī, 'clothing') -> used as radical for clothing-related characters",
-    "interpretation": "衤 is a simplified component derived from 衣(衣) (yī, 'clothing'), representing the left radical associated with clothing. It indicates the association with clothing in characters where it appears.",
+    "type": "pictogram",
+    "description": "衤(left radical form of 衣(衣) (yī, \"clothing\")) -> version of 衣 showing depiction of folded or worn garment",
+    "interpretation": "衤 is a variant form of 衣(衣) (yī, \"clothing\"), representing the appearance of a folded or worn garment, used when part of other characters where the focus is related to clothing or garments.",
     "simplification": ""
   },
   "parts": [
@@ -20,14 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他穿上了一件漂亮的衤(衣)。",
-      "pinyin": "Tā chuān shàng le yī jiàn piàoliang de yī.",
-      "english": "He put on a beautiful piece of clothing."
+      "chinese": "他穿上一件新衤(他穿上一件新衤)。",
+      "pinyin": "Tā chuānshàng yī jiàn xīn yī.",
+      "english": "He put on a new outfit."
     },
     {
-      "chinese": "博物馆里展出古代衤(衣)，展示传统工艺(展示傳統工藝)。",
-      "pinyin": "Bówùguǎn lǐ zhǎnchū gǔdài yī, zhǎnshì chuántǒng gōngyì.",
-      "english": "The museum displays ancient clothing and exhibits traditional craftsmanship."
+      "chinese": "衤字象征着人的外表(衤字象徵著人的外表)。",
+      "pinyin": "Yī zì xiàngzhēngzhe rén de wàibiǎo.",
+      "english": "The character 衤 symbolizes the appearance of a person."
+    },
+    {
+      "chinese": "古代的衤主要用来遮盖身体(古代的衤主要用來遮蓋身體)。",
+      "pinyin": "Gǔdài de yī zhǔyào yòng lái zhē gài shēntǐ.",
+      "english": "In ancient times, clothing was mainly used to cover the body."
     }
   ]
 }

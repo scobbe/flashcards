@@ -5,8 +5,8 @@
   "english": "to be afraid",
   "etymology": {
     "type": "compound word",
-    "description": "害(害) (hài, \"harm\") + 怕(怕) (pà, \"fear\") means to experience fear or be afraid of something bad happening.",
-    "interpretation": "The combination of 害(害) (hài, \"harm\") and 怕(怕) (pà, \"fear\") suggests the feeling of fear that arises from the anticipation of potential harm or danger.",
+    "description": "害(害) (hài, \"harm\") + 怕(怕) (pà, \"fear\") = to experience fear from a potential harm, leading to the feeling of being afraid",
+    "interpretation": "害(害) (hài, \"harm\") suggests the presence of something that could cause trouble or injury, while 怕(怕) (pà, \"fear\") represents the emotional response to such a threat. Together, they indicate the feeling of being afraid, as one experiences fear when there is a potential for harm or danger.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "害",
       "trad": "害",
       "pinyin": "hài",
-      "english": "harm; injure; evil; calamity"
+      "english": "harm"
     },
     {
       "char": "怕",
       "trad": "怕",
       "pinyin": "pà",
-      "english": "fear; dread; afraid"
+      "english": "fear"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我害怕大雨(我害怕大雨)。",
-      "pinyin": "Wǒ hàipà dàyǔ.",
-      "english": "I am afraid of heavy rain."
+      "chinese": "她害怕黑暗(她害怕黑暗)。",
+      "pinyin": "Tā hàipà hēi'àn.",
+      "english": "She is afraid of the dark."
     },
     {
-      "chinese": "当夜深人静时(當夜深人靜時)，我害怕孤独(我害怕孤獨)。",
-      "pinyin": "Dāng yè shēn rén jìng shí, wǒ hàipà gūdú.",
-      "english": "When the night is quiet, I am afraid of loneliness."
+      "chinese": "他不再害怕说话(他不再害怕說話)。",
+      "pinyin": "Tā bùzài hàipà shuōhuà.",
+      "english": "He is no longer afraid to speak."
+    },
+    {
+      "chinese": "孩子们对吠叫的狗感到害怕(孩子們對吠叫的狗感到害怕)。",
+      "pinyin": "Háizimen duì fèijiào de gǒu gǎndào hàipà.",
+      "english": "The children are afraid of the barking dog."
     }
   ]
 }

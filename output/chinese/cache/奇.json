@@ -5,8 +5,8 @@
   "english": "strange; odd; unique; rare",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 大(大) (dà, \"big\") + phonetic: 可(可) (kě, \"to allow\") = something that can be unusually large or remarkable -> strange or unique",
-    "interpretation": "The character 奇(奇) (qí, \"strange\") combines 大(大) (dà, \"big\") as its semantic component, suggesting size or prominence, with 可(可) (kě, \"to allow\") as a phonetic component, indicating sound and the possibility of something being unusual or distinctive.",
+    "description": "semantic 大(大) (dà, \"big; great\") + phonetic 可(可) (kě) -> strange; odd; unique; rare",
+    "interpretation": "The character 奇(qí) combines 大(大) (dà, \"big; great\") as the semantic component indicating something substantial or significant, with 可(可) (kě) providing the phonetic element. Together, this combination suggests something that stands out as significant due to its unusual or unique nature, leading to meanings such as 'strange', 'odd', 'unique', and 'rare'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "big"
+      "english": "big; great"
     },
     {
       "char": "可",
       "trad": "可",
       "pinyin": "kě",
-      "english": "to allow"
+      "english": "can; may"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的想法真奇(他的想法真奇)。",
-      "pinyin": "Tā de xiǎngfǎ zhēn qí.",
-      "english": "His ideas are truly unique."
+      "chinese": "这是一场奇怪的梦(這是一場奇怪的夢)。",
+      "pinyin": "Zhè shì yī chǎng qíguài de mèng.",
+      "english": "This was a strange dream."
     },
     {
-      "chinese": "他戴了一顶奇帽(他戴了一頂奇帽)。",
-      "pinyin": "Tā dài le yī dǐng qí mào.",
-      "english": "He wore an unusual hat."
+      "chinese": "他有一种奇异的天赋(他有一種奇異的天賦)。",
+      "pinyin": "Tā yǒu yī zhǒng qíyì de tiānfù.",
+      "english": "He has a unique talent."
     },
     {
-      "chinese": "空中的云彩形状奇(空中的雲彩形狀奇)，令人联想到梦幻世界(令人聯想到夢幻世界)。",
-      "pinyin": "Kōng zhōng de yún cǎi xíng zhuàng qí, lìng rén liánxiǎng dào mènghuàn shì jiè.",
-      "english": "The shapes of the clouds in the sky are peculiar, evoking a dreamlike world."
+      "chinese": "这本书中包含许多奇闻异事(這本書中包含許多奇聞異事)。",
+      "pinyin": "Zhè běn shū zhōng bāohán xǔduō qíwén yìshì.",
+      "english": "This book contains many strange tales."
     }
   ]
 }

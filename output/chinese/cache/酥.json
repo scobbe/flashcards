@@ -5,8 +5,8 @@
   "english": "crisp; flaky",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 酉(酉) (yǒu, \"alcohol\") + Phonetic: 穌(穌) (sū, \"resuscitate\") = alcohol-related quality -> crisp, flaky",
-    "interpretation": "The character combines the alcohol radical with a phonetic element related to resuscitation, symbolizing a texture or quality often associated with alcohol or fermentation, like the crispness or flakiness in certain foods.",
+    "description": "semantic 酉(酉) (yǒu, \"alcohol\") + phonetic abbreviation of 穌(穌) (sū, \"revive\") -> crisp; flaky",
+    "interpretation": "The character 酥(sū, \"crisp; flaky\") combines the semantic part 酉(酉) (yǒu, \"alcohol\") to suggest a process or quality associated with alcohol, possibly invoking the idea of fermentation or texture, with the phonetic element 穌(穌) (sū, \"revive\") contributing the sound. The resulting character conveys a sense of something that is flaky or crisp, akin to the texture of certain pastries or substances made through fermentation.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "穌",
       "trad": "穌",
       "pinyin": "sū",
-      "english": "resuscitate"
+      "english": "revive"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这酥皮蛋糕香甜(這酥皮蛋糕香甜)，入口即化(入口即化)。",
-      "pinyin": "Zhè sū pí dàngāo xiāngtián, rùkǒu jíhuà.",
-      "english": "This flaky-layered cake is sweet and melts in your mouth."
+      "chinese": "这些酥饼非常美味(這些酥餅非常美味)。",
+      "pinyin": "Zhèxiē sūbǐng fēicháng měiwèi.",
+      "english": "These flaky pastries are very delicious."
     },
     {
-      "chinese": "饼干酥松(餅乾酥鬆)。",
-      "pinyin": "Bǐnggān sū sōng.",
-      "english": "The cookies are crisp and flaky."
+      "chinese": "外面的炸鸡非常酥脆(外面的炸雞非常酥脆)。",
+      "pinyin": "Wàimiàn de zhájī fēicháng sūcuì.",
+      "english": "The fried chicken outside is very crispy."
     },
     {
-      "chinese": "她做的酥饼外皮酥脆(她做的酥餅外皮酥脆)，内馅香浓(內餡香濃)。",
-      "pinyin": "Tā zuò de sū bǐng wàipí sūcuì, nèixiàn xiāngnóng.",
-      "english": "The pastries she made have a crispy exterior and a richly flavored filling."
+      "chinese": "他做的面包松软酥香(他做的麵包鬆軟酥香)。",
+      "pinyin": "Tā zuò de miànbāo sōngruǎn sū xiāng.",
+      "english": "The bread he made is soft and pleasantly flaky."
     }
   ]
 }

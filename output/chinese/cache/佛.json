@@ -5,14 +5,14 @@
   "english": "Buddha",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "人(人) (rén, \"person\") + 弗(弗) (fú, phonetic) = represents a person related to the concept of 佛教 (Fó jiào, \"Buddhism\") -> Buddha",
-    "interpretation": "The character 佛 reflects the connection between a person and the teachings of Buddhism, with 弗(弗) (fú) providing the phonetic element related to 巴利語 (Pali language) word for \"Buddha\".",
+    "description": "semantic 亻(亻) (rén, \"person\") + phonetic 弗(弗) (fú) -> Buddha",
+    "interpretation": "The character 佛 (fó, \"Buddha\") combines 亻(亻) (rén, \"person\") as the semantic part indicating a person, and 弗(弗) (fú) providing the phonetic element. The combination suggests the concept of a revered human figure, specifically referring to Buddha.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "人",
-      "trad": "人",
+      "char": "亻",
+      "trad": "亻",
       "pinyin": "rén",
       "english": "person"
     },
@@ -20,20 +20,25 @@
       "char": "弗",
       "trad": "弗",
       "pinyin": "fú",
-      "english": "phonetic"
+      "english": "not"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "佛是智慧与慈悲的象征(佛是智慧與慈悲的象徵)。",
-      "pinyin": "Fó shì zhìhuì yǔ cíbēi de xiàngzhēng.",
-      "english": "Buddha is a symbol of wisdom and compassion."
+      "chinese": "寺庙里供奉了一尊佛像(寺廟裏供奉了一尊佛像)。",
+      "pinyin": "Sìmiào lǐ gōngfèng le yī zūn fóxiàng.",
+      "english": "A statue of Buddha is enshrined in the temple."
     },
     {
-      "chinese": "人们向佛祈祷(人們向佛祈禱)，寻求生命的真谛(尋求生命的真諦)。",
-      "pinyin": "Rénmen xiàng Fó qídǎo, xúnqiú shēngmìng de zhēndì.",
-      "english": "People pray to Buddha, seeking the true meaning of life."
+      "chinese": "他每天早上打坐冥想关于佛的智慧(他每天早上打坐冥想關於佛的智慧)。",
+      "pinyin": "Tā měitiān zǎoshang dǎzuò míngxiǎng guānyú Fó de zhìhuì.",
+      "english": "He meditates every morning on the wisdom of Buddha."
+    },
+    {
+      "chinese": "佛教在亚洲许多国家中非常流行(佛教在亞洲許多國家中非常流行)。",
+      "pinyin": "Fójiào zài Yàzhōu xǔduō guójiā zhōng fēicháng liúxíng.",
+      "english": "Buddhism is very popular in many Asian countries."
     }
   ]
 }

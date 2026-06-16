@@ -5,40 +5,40 @@
   "english": "亥 (hài)",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts plant's roots underground or an animal (original form of 荄(荄) (hài, \"roots\")) -> associated with 豕(豕) (shǐ, \"pig\") in spirit",
-    "interpretation": "The character 亥 (hài) is a pictogram with debated depiction origins. It either illustrates plant roots or an animal resembling pigs, linking it to the Chinese zodiac and calendar.",
+    "description": "Depicts uncertain plant roots or an animal, possibly related to 豕(豕) (shǐ, \"pig\")",
+    "interpretation": "亥 (hài) is traditionally understood as a pictographic depiction with unclear specifics. Some scholars suggest it represents the roots of a plant underground, conceptually linked to the original form of 荄(荄) (gāi, \"roots\"). Alternatively, it might illustrate an animal shape, potentially related to 豕(豕) (shǐ, \"pig\"), contributing to its association with the twelfth earthly branch in the Chinese zodiac, signifying the pig.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "荄",
-      "trad": "荄",
-      "pinyin": "hài",
-      "english": "roots"
-    },
     {
       "char": "豕",
       "trad": "豕",
       "pinyin": "shǐ",
       "english": "pig"
+    },
+    {
+      "char": "荄",
+      "trad": "荄",
+      "pinyin": "gāi",
+      "english": "roots"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "现在是亥时(現在是亥時)。",
-      "pinyin": "Xiànzài shì hài shí.",
-      "english": "It is the hai hour."
+      "chinese": "这个年份是猪年，在十二生肖里对应的是亥(這個年份是豬年，在十二生肖里對應的是亥)。",
+      "pinyin": "Zhège niánfèn shì zhū nián, zài shí'èr shēngxiào lǐ duìyìng de shì hài.",
+      "english": "This year is the Year of the Pig, corresponding to Hai in the Chinese zodiac."
     },
     {
-      "chinese": "夜深了(夜深了)，亥时悄然降临(亥時悄然降臨)。",
-      "pinyin": "Yè shēn le, hài shí qiǎo rán jiàng lín.",
-      "english": "The night has deepened, and the hai hour descends quietly."
+      "chinese": "亥时是一天中的第十个时辰，对于夜猫子来说是开始活跃的时候(亥時是一天中的第十個時辰，對於夜貓子來說是開始活躍的時候)。",
+      "pinyin": "Hài shí shì yītiān zhōng de dì shí gè shíchén, duìyú yèmāozi lái shuō shì kāishǐ huóyuè de shíhòu.",
+      "english": "The Hai hour is the tenth hour of the day, when night owls begin to be active."
     },
     {
-      "chinese": "钟声敲响(鐘聲敲響)，预示着亥时来临(預示著亥時來臨)。",
-      "pinyin": "Zhōng shēng qiāo xiǎng, yù shì zhe hài shí lái lín.",
-      "english": "The chimes ring out, indicating that the hai hour has arrived."
+      "chinese": "据说在古代，亥时正是盗贼活动最猖獗的时候(據說在古代，亥時正是盜賊活動最猖獗的時候)。",
+      "pinyin": "Jùshuō zài gǔdài, hài shí zhèng shì dàozéi huódòng zuì chāngjué de shíhòu.",
+      "english": "It's said that in ancient times, the Hai hour was when thieves were most rampant."
     }
   ]
 }

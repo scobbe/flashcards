@@ -5,15 +5,15 @@
   "english": "Buddhist",
   "etymology": {
     "type": "compound word",
-    "description": "佛(佛) (Fó, \"Buddha\") + 教(教) (jiào, \"teach; religion\") + 徒(徒) (tú, \"follower; disciple\")",
-    "interpretation": "The word 佛教徒 refers to someone who follows the teachings of 佛(佛) (Fó, \"Buddha\") within the framework of 教(教) (jiào, \"religion\"), emphasizing their role as a 徒(徒) (tú, \"follower\") of Buddhism. Buddhism, which originated in ancient India, is a major world religion centered on the teachings of the Buddha, and its followers strive to live by those principles.",
+    "description": "佛(佛) (fó, \"Buddha\"), 教(教) (jiào, \"teach; religion\"), 徒(徒) (tú, \"disciple; follower\")",
+    "interpretation": "佛(佛) (fó, \"Buddha\") refers to the enlightened being central to this religion. 教(教) (jiào, \"teach; religion\") denotes a systematic teaching or organized belief system. Thus, 佛教(佛教) (fójiào, \"Buddhism\") means the religious teachings of Buddha. 徒(徒) (tú, \"disciple; follower\") refers to someone who adheres to or practices these teachings. Together, 佛教徒(佛教徒) (fójiàotú, \"Buddhist\") describes a person who follows the teachings of Buddhism or is a disciple of Buddha.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "佛",
       "trad": "佛",
-      "pinyin": "Fó",
+      "pinyin": "fó",
       "english": "Buddha"
     },
     {
@@ -26,25 +26,25 @@
       "char": "徒",
       "trad": "徒",
       "pinyin": "tú",
-      "english": "follower; disciple"
+      "english": "disciple; follower"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位虔诚的佛教徒(他是一位虔誠的佛教徒)。",
-      "pinyin": "Tā shì yī wèi qiánchéng de Fójiàotú.",
-      "english": "He is a devout Buddhist."
+      "chinese": "他是一位佛教徒(他是一位佛教徒)。",
+      "pinyin": "Tā shì yī wèi Fójiàotú.",
+      "english": "He is a Buddhist."
     },
     {
-      "chinese": "在山间的古寺中(在山間的古寺中)，很多佛教徒聚集在一起(很多佛教徒聚集在一起)。",
-      "pinyin": "Zài shānjiān de gǔ sì zhōng, hěn duō Fójiàotú jùjí zài yìqǐ.",
-      "english": "In the ancient mountain temple, many Buddhists gather together."
+      "chinese": "很多佛教徒(很多佛教徒)会去寺庙祷告(會去寺廟禱告)。",
+      "pinyin": "Hěn duō Fójiàotú huì qù sìmiào dǎogào.",
+      "english": "Many Buddhists go to the temple to pray."
     },
     {
-      "chinese": "从小受到佛教智慧熏陶的他(從小受到佛教智慧薰陶的他)，如今是一名虔诚的佛教徒(如今回是一名虔誠的佛教徒)。",
-      "pinyin": "Cóng xiǎo shòudào Fójiào zhìhuì xūntáo de tā, rújīn shì yī míng qiánchéng de Fójiàotú.",
-      "english": "He, who was nurtured by Buddhist wisdom since childhood, is now a devout Buddhist."
+      "chinese": "佛教徒们(佛教徒們)相信因果法则(相信因果法則)。",
+      "pinyin": "Fójiàotúmen xiāngxìn yīnguǒ fǎzé.",
+      "english": "Buddhists believe in the law of karma."
     }
   ]
 }

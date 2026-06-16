@@ -5,9 +5,9 @@
   "english": "to exchange",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "手(手) (shǒu, \"hand\") + 奐(奐) (huàn, phonetic) = action involving hands -> exchange",
-    "interpretation": "The character 换(換) (huàn) combines 手(手) (shǒu, \"hand\") to indicate an action performed with the hands, and 奐(奐) (huàn) providing phonetic guidance, thus conveying the idea of exchanging or swapping things manually.",
-    "simplification": "The simplified form 换 replaces the complex 奐(奐) (huàn, phonetic) with simpler elements to facilitate easier writing."
+    "description": "semantic 手(手) (shǒu, \"hand\") + phonetic 奐(奐) (huàn)",
+    "interpretation": "The character 换(換) uses the semantic part 手(手) (shǒu, \"hand\") to signify an action typically performed by the hand, such as exchanging or swapping. The phonetic 奐(奐) (huàn) provides the pronunciation, and together they indicate the act of using hands to make an exchange.",
+    "simplification": "The traditional form 換 switched from 手(手) (shǒu, \"hand\") to 扌(扌), the simplified hand radical, and retained 奐(奐) (huàn) for phonetic purpose."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "奐",
       "trad": "奐",
       "pinyin": "huàn",
-      "english": "phonetic"
+      "english": "abundant"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想换钱(我想換錢)。",
-      "pinyin": "Wǒ xiǎng huàn qián.",
-      "english": "I want to exchange money."
+      "chinese": "请帮我换桌子(請幫我換桌子)。",
+      "pinyin": "Qǐng bāng wǒ huàn zhuōzi.",
+      "english": "Please help me exchange the table."
     },
     {
-      "chinese": "他把旧书换成新书(他把舊書換成新書)。",
-      "pinyin": "Tā bǎ jiù shū huàn chéng xīn shū.",
-      "english": "He exchanges old books for new ones."
+      "chinese": "如果你不喜欢这件衣服(如果你不喜歡這件衣服)，可以去店里换另一件(可以去店裡換另一件)。",
+      "pinyin": "Rúguǒ nǐ bù xǐhuān zhè jiàn yīfu, kěyǐ qù diàn lǐ huàn lìng yī jiàn.",
+      "english": "If you don't like this piece of clothing, you can go to the store to exchange it for another."
     },
     {
-      "chinese": "在市场上(在市場上)，你可以换鱼和肉(你可以換魚和肉)。",
-      "pinyin": "Zài shìchǎng shàng, nǐ kěyǐ huàn yú hé ròu.",
-      "english": "At the market, you can exchange fish and meat."
+      "chinese": "我每两个月换一次手机壳(我每兩個月換一次手機殼)。",
+      "pinyin": "Wǒ měi liǎng gè yuè huàn yīcì shǒujī ké.",
+      "english": "I change my phone case every two months."
     }
   ]
 }

@@ -4,9 +4,9 @@
   "pinyin": "zhòng",
   "english": "heavy",
   "etymology": {
-    "type": "Phono-semantic compound ( 形聲 / 形声 , OC *doŋ, *doŋʔ, *doŋs ) and ideogrammic compound ( 會意 / 会意 )",
-    "description": "人(人) (rén, \"man\") + 東(東) (dōng, \"bag\") = a man carrying a bag -> 土(土) (tǔ, \"earth\") added to show the bag-carrying man is on the ground -> current form shows heaviness",
-    "interpretation": "This character combines the meaning of a person carrying a burden or bag, emphasizing the weight (heavy) of the load, with the semantic reinforcement of standing on the ground. This visually conveys the idea of heaviness.",
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"man\") + 東(東) (dōng, \"bag\") = a man carrying a bag -> 土(土) (tǔ, \"earth\") added -> symbol of load -> final form",
+    "interpretation": "Originally, it depicts a man carrying a bag, indicating the concept of weight. With 土(土) (tǔ, \"earth\") added to signify being grounded, it amplifies the idea of heaviness due to the man's connection to the ground or earth, suggesting substantial weight or burden. This visual representation naturally evolved into \"heavy\", as a person burdened by earth is weighed down.",
     "simplification": ""
   },
   "parts": [
@@ -32,14 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个箱子很重(這個箱子很重)。",
-      "pinyin": "Zhège xiāngzi hěn zhòng.",
-      "english": "This box is very heavy."
+      "chinese": "这箱苹果很重(這箱蘋果很重)。",
+      "pinyin": "Zhè xiāng píngguǒ hěn zhòng.",
+      "english": "This box of apples is very heavy."
     },
     {
-      "chinese": "我挑水井水时(我挑水井水時)，感觉瓶子异常重(感覺瓶子異常重)。",
-      "pinyin": "Wǒ tiāo shuǐjǐng shuǐ shí, gǎnjué píngzi yìcháng zhòng.",
-      "english": "While I was drawing water from the well, I felt that the bottle was unusually heavy."
+      "chinese": "他的行李太重(他的行李太重)，无法一个人搬动(無法一個人搬動)。",
+      "pinyin": "Tā de xíngli tài zhòng, wúfǎ yīgè rén bāndòng.",
+      "english": "His luggage is too heavy to carry alone."
+    },
+    {
+      "chinese": "雨后的空气显得特别重(雨後的空氣顯得特別重)。",
+      "pinyin": "Yǔ hòu de kōngqì xiǎnde tèbié zhòng.",
+      "english": "The air feels especially heavy after the rain."
     }
   ]
 }

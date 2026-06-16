@@ -5,19 +5,19 @@
   "english": "Guangdong; a province in southern China",
   "etymology": {
     "type": "compound word",
-    "description": "廣(廣) (guǎng, \"broad; vast\") refers to the wide and expansive nature of the area. 東(東) (dōng, \"east\") indicates the geographical direction, as Guangdong is located in the eastern part of the Lingnan region.",
-    "interpretation": "廣東(廣東) (Guǎngdōng, \"Guangdong\") reflects the provincial name noting its vast expanse and location in the eastern section of the Lingnan cultural area. Historically, this region was recognized for its significance as a gateway and pivotal area in China's southern coast.",
+    "description": "廣(廣) (guǎng, \"broad; wide\") 拼音(拼音) (dōng, \"east\")",
+    "interpretation": "廣(廣) (guǎng, \"broad; wide\"), depicting a large expanse, represents the vastness of the region. 東(東) (dōng, \"east\") indicates its geographical location trending towards the eastern part of the southern area. Combined, 廣東(廣東) (Guǎngdōng) denotes a place that is broad and situated in the east, specifically referring to Guangdong province which historically emphasized its wide coastal plains in the eastern part of the south of China.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "广",
+      "char": "廣",
       "trad": "廣",
       "pinyin": "guǎng",
-      "english": "broad; vast"
+      "english": "broad; wide"
     },
     {
-      "char": "东",
+      "char": "東",
       "trad": "東",
       "pinyin": "dōng",
       "english": "east"
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "廣東的菜非常有名(廣東的菜非常有名)。",
-      "pinyin": "Guǎngdōng de cài fēicháng yǒumíng.",
-      "english": "Guangdong's cuisine is very famous."
+      "chinese": "廣東是中國的一個省(廣東是中國的一個省)。",
+      "pinyin": "Guǎngdōng shì Zhōngguó de yī gè shěng.",
+      "english": "Guangdong is a province of China."
     },
     {
-      "chinese": "他出生于廣東省(他出生於廣東省)，后来搬到了北京(後來搬到了北京)。",
-      "pinyin": "Tā chūshēng yú Guǎngdōng shěng, hòulái bān dào le Běijīng.",
-      "english": "He was born in Guangdong province and later moved to Beijing."
+      "chinese": "廣東的飲食文化非常有名(廣東的飲食文化非常有名)。",
+      "pinyin": "Guǎngdōng de yǐnshí wénhuà fēicháng yǒumíng.",
+      "english": "The food culture of Guangdong is very famous."
     },
     {
-      "chinese": "每年春節時(每年春節時)，很多人在廣東旅行(很多人在廣東旅行)。",
-      "pinyin": "Měinián chūnjié shí, hěn duō rén zài Guǎngdōng lǚxíng.",
-      "english": "Many people travel to Guangdong during the Spring Festival every year."
+      "chinese": "他們打算去廣東旅行(他們打算去廣東旅行)。",
+      "pinyin": "Tāmen dǎsuàn qù Guǎngdōng lǚxíng.",
+      "english": "They plan to travel to Guangdong."
     }
   ]
 }

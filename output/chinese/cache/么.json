@@ -5,40 +5,40 @@
   "english": "marker for questions or emphasis",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, 'silk') as semantic indicating smallness + 幺(幺) (yāo, 'tiny') as phonetic -> diminutive or interrogative suffix",
-    "interpretation": "The character 么(麼) (me, 'marker for questions or emphasis') integrates the concept of smallness and emphasis through the silk radical and phonetically resembles something tiny or insignificant. In compound words or as a suffix, it often serves a grammatical or diminutive function.",
-    "simplification": "麼(麼)→么(麼): 幺(幺) (yāo, 'tiny') is simplified to retain the phonetic element and smallness concept, removing the additional complexity of the silk radical."
+    "description": "phonetic 麻 (má) + semantic 幺 (small, tiny) -> question/softening particle",
+    "interpretation": "The character combines 幺(幺) (yāo, \"small, tiny\") referring to something minor or subtle, with the phonetic 麻(麻) (má, \"hemp\"), to create a particle used to denote questions or emphasis, perhaps implying a subtle inquiry or emphasis.",
+    "simplification": "The simplification involved reducing the character size and complexity by employing 幺(幺) (yāo, \"small\") directly to form the modern simplified 么."
   },
   "parts": [
     {
-      "char": "糸",
-      "trad": "糸",
-      "pinyin": "mì",
-      "english": "silk"
+      "char": "麻",
+      "trad": "麻",
+      "pinyin": "má",
+      "english": "hemp"
     },
     {
       "char": "幺",
       "trad": "幺",
       "pinyin": "yāo",
-      "english": "tiny"
+      "english": "small; tiny"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这是什么(這是什麼)？",
-      "pinyin": "Zhè shì shénme?",
-      "english": "What is this?"
+      "chinese": "你要去哪里么(你要去哪裡麼)？",
+      "pinyin": "Nǐ yào qù nǎlǐ me?",
+      "english": "Where are you going?"
     },
     {
-      "chinese": "你要去么(你要去麼)？",
-      "pinyin": "Nǐ yào qù me?",
-      "english": "Are you going?"
+      "chinese": "这件事你知道么(這件事你知道麼)？",
+      "pinyin": "Zhè jiàn shì nǐ zhīdào me?",
+      "english": "Do you know about this?"
     },
     {
-      "chinese": "你说得对么(你說得對麼)，我怎么知道(我怎麼知道)？",
-      "pinyin": "Nǐ shuō de duì me, wǒ zěnme zhīdào?",
-      "english": "If you say so, how would I know?"
+      "chinese": "这花很漂亮么(這花很漂亮麼)！",
+      "pinyin": "Zhè huā hěn piàoliang me!",
+      "english": "This flower is very beautiful!"
     }
   ]
 }

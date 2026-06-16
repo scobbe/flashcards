@@ -4,9 +4,9 @@
   "pinyin": "xì",
   "english": "play",
   "etymology": {
-    "type": "variant form of 麾",
-    "description": "戯(戲) (xì, 'play') is a variant form of 麾(麾) (huī), originally associated with military signals or overseeing a performance -> used later to mean 'play' or 'drama'.",
-    "interpretation": "The character 戲(xì, 'play') evolved as a variant form of 麾(麾), which typically related to commanding or directing. Over time, its meaning expanded to encompass the idea of 'play' or theatrical performance, reflecting an evolution from a military context to entertainment.",
+    "type": "phono-semantic compound",
+    "description": "伍(伍) (wǔ, 'military ranks') [phonetic phonetic component] + 戈(戈) (gē, 'spear') [semantic component] -> 戲 originally borrowing meaning from near homophone 麾(麾) (huī, 'military banner') for 'command' -> play",
+    "interpretation": "戲 (xì, 'play') combines the phonetic component 伍(伍) (wǔ, 'military ranks') and semantic component 戈(戈) (gē, 'spear') to denote the original sense of commanding or signaling troops, similar to 麾(麾) (huī, 'military banner'). Over time, this military signaling led to a sense of orchestrating or orchestrated performance, hence 'play'.",
     "simplification": ""
   },
   "parts": [
@@ -14,25 +14,37 @@
       "char": "麾",
       "trad": "麾",
       "pinyin": "huī",
-      "english": "military signal"
+      "english": "military banner"
+    },
+    {
+      "char": "伍",
+      "trad": "伍",
+      "pinyin": "wǔ",
+      "english": "military ranks"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "父母鼓励他演戲(父母鼓勵他演戲)。",
-      "pinyin": "Fùmǔ gǔlì tā yǎn xì.",
-      "english": "His parents encourage him to act in plays."
+      "chinese": "孩子们正在操场上玩戏(孩子們正在操場上玩戲)。",
+      "pinyin": "Háizimen zhèngzài cāochǎng shàng wán xì.",
+      "english": "The children are playing on the playground."
     },
     {
-      "chinese": "明天我们去看戲(明天我們去看戲)，体验传统文化(體驗傳統文化)。",
-      "pinyin": "Míngtiān wǒmen qù kàn xì, tǐyàn chuántǒng wénhuà.",
-      "english": "Tomorrow we will go watch a play and experience traditional culture."
+      "chinese": "我喜欢看京戏(我喜歡看京戲)，尤其是传统的剧目(尤其是傳統的劇目)。",
+      "pinyin": "Wǒ xǐhuan kàn jīngxì, yóuqí shì chuántǒng de jùmù.",
+      "english": "I enjoy watching Peking opera, especially traditional performances."
     },
     {
-      "chinese": "老演员总是执着于戲(老演員總是執著於戲)。",
-      "pinyin": "Lǎo yǎnyuán zǒngshì zhízhuó yú xì.",
-      "english": "Veteran actors are always devoted to the play."
+      "chinese": "今晚剧院里有一场戏(今晚劇院裡有一場戲)，一定很精彩(一定很精彩)。",
+      "pinyin": "Jīnwǎn jùyuàn lǐ yǒu yī chǎng xì, yídìng hěn jīngcǎi.",
+      "english": "There is a play in the theater tonight; it's sure to be spectacular."
     }
   ]
 }

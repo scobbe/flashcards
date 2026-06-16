@@ -5,8 +5,8 @@
   "english": "eye",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 目(目) (mù, 'eye') + phonetic 艮(艮) (gěn) -> eye",
-    "interpretation": "The character 眼(yǎn, 'eye') combines 目(目) (mù, 'eye'), representing its meaning, with 艮(艮) (gěn), which provides the pronunciation. This construction directly associates the character with the concept of an eye.",
+    "description": "semantic 目(目) (mù, \"eye\") + phonetic 艮(艮) (gèn) -> meaning",
+    "interpretation": "The character 眼(yǎn, \"eye\") combines 目(mù, \"eye\") as the semantic component, indicating the meaning related to the eyes. 艮(gèn) serves as the phonetic component, contributing the sound but not the meaning.",
     "simplification": ""
   },
   "parts": [
@@ -19,26 +19,26 @@
     {
       "char": "艮",
       "trad": "艮",
-      "pinyin": "gěn",
+      "pinyin": "gèn",
       "english": "stopping"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她的眼睛很大(她的眼睛很大)。",
-      "pinyin": "Tā de yǎnjīng hěn dà.",
-      "english": "Her eyes are big."
+      "chinese": "她有一双漂亮的眼睛(她有一雙漂亮的眼睛)。",
+      "pinyin": "Tā yǒu yī shuāng piàoliang de yǎnjīng.",
+      "english": "She has a pair of beautiful eyes."
     },
     {
-      "chinese": "我右眼有点疼(我右眼有點疼)。",
-      "pinyin": "Wǒ yòu yǎn yǒudiǎn téng.",
-      "english": "My right eye hurts a bit."
+      "chinese": "在黑暗中(在黑暗中)，我看见了一束光(我看見了一束光)。",
+      "pinyin": "Zài hēi'àn zhōng, wǒ kànjiànle yī shù guāng.",
+      "english": "In the darkness, I saw a beam of light."
     },
     {
-      "chinese": "他的眼神总是很温柔(他的眼神總是很溫柔)。",
-      "pinyin": "Tā de yǎnshén zǒng shì hěn wēnróu.",
-      "english": "His gaze is always gentle."
+      "chinese": "他的眼神流露出悲伤(他的眼神流露出悲傷)。",
+      "pinyin": "Tā de yǎnshén liúlù chū bēishāng.",
+      "english": "His eyes revealed sadness."
     }
   ]
 }

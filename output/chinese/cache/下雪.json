@@ -5,8 +5,8 @@
   "english": "to snow",
   "etymology": {
     "type": "compound word",
-    "description": "下(下) (xià, \"fall\") + 雪(雪) (xuě, \"snow\") = when snow falls",
-    "interpretation": "The term 下雪 (xià xuě) literally means 'snow fall' and is used to describe the meteorological event when snow descends from the sky.",
+    "description": "下(下) (xià, \"down\") + 雪(雪) (xuě, \"snow\")",
+    "interpretation": "下(下) (xià, \"down\") describes the direction in which snow falls, as it comes from the sky above. 雪(雪) (xuě, \"snow\") refers to the frozen precipitation that falls during winter. Together, these parts describe the action of snow falling from the sky, hence 'to snow'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "下",
       "trad": "下",
       "pinyin": "xià",
-      "english": "fall; descend; under; next"
+      "english": "down"
     },
     {
       "char": "雪",
       "trad": "雪",
       "pinyin": "xuě",
-      "english": "snow; wipe away"
+      "english": "snow"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "昨晚下雪了(昨晚下雪了)。",
-      "pinyin": "Zuówǎn xià xuě le",
-      "english": "It snowed last night."
+      "chinese": "冬天常常下雪(冬天常常下雪)。",
+      "pinyin": "Dōngtiān chángcháng xià xuě.",
+      "english": "It often snows in winter."
     },
     {
-      "chinese": "天越来越冷(天越來越冷)，下雪的日子真美(下雪的日子真美)。",
-      "pinyin": "Tiān yuèláiyuè lěng, xià xuě de rìzi zhēn měi",
-      "english": "The weather is getting colder, and snowy days are truly beautiful."
+      "chinese": "昨晚下雪了(昨晚下雪了)，早上地上有一层雪(早上地上有一層雪)。",
+      "pinyin": "Zuówǎn xià xuě le, zǎoshang dìshàng yǒu yī céng xuě.",
+      "english": "It snowed last night, and there is a layer of snow on the ground this morning."
     },
     {
-      "chinese": "一出门就遇到下雪(一出門就遇到下雪)，心情就变得愉快(心情就變得愉快)。",
-      "pinyin": "Yī chūmén jiù yùdào xià xuě, xīnqíng jiù biàn dé yúkuài",
-      "english": "When I stepped out, it started snowing, and my mood instantly became cheerful."
+      "chinese": "如果晚上还下雪(如果晚上還下雪)，我们明天就去滑雪(我們明天就去滑雪)。",
+      "pinyin": "Rúguǒ wǎnshàng hái xià xuě, wǒmen míngtiān jiù qù huáxuě.",
+      "english": "If it continues to snow tonight, we'll go skiing tomorrow."
     }
   ]
 }

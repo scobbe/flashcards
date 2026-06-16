@@ -4,41 +4,41 @@
   "pinyin": "nóng",
   "english": "farmer; agriculture; to farm",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 辰(辰) (chén, 'fifth earthly branch') + phonetic: 曲(曲) (qū, 'bent') = farm work at the time of 辰 -> agriculture, farming",
-    "interpretation": "The character 农(農) (nóng, 'farmer; agriculture') conveys the concept of farming activities aligned with the cycles of time, represented by 辰(辰) (chén, 'fifth earthly branch') which signifies a specific time, and 曲(曲) (qū, 'bent') indicating the physical nature of farm work.",
-    "simplification": "农(農) was simplified by removing the 田(田) (tián, 'field') radical and using a simplified form of the original components."
+    "type": "ideogrammic compound",
+    "description": "曲(曲) (qū, \"bent; curved\") + 辰(辰) (chén, \"field\") -> originally two hands holding a bundle of produce from the field -> farmer bringing goods to market",
+    "interpretation": "The character originally depicted two hands holding a bundle of produce from the field, representing the act of farming and bringing agricultural goods to market. This image conveys the hard work and process involved in agriculture.",
+    "simplification": "农(農): The traditional character 農 was simplified by reducing the complexity and strokes of its components, creating the simpler form 农 with a similar overall structure."
   },
   "parts": [
-    {
-      "char": "辰",
-      "trad": "辰",
-      "pinyin": "chén",
-      "english": "fifth earthly branch"
-    },
     {
       "char": "曲",
       "trad": "曲",
       "pinyin": "qū",
-      "english": "bent"
+      "english": "bent; curved"
+    },
+    {
+      "char": "辰",
+      "trad": "辰",
+      "pinyin": "chén",
+      "english": "field"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位农民(他是一位農民)。",
-      "pinyin": "Tā shì yī wèi nóngmín.",
-      "english": "He is a farmer."
+      "chinese": "农民正在田里工作(農民正在田裡工作)。",
+      "pinyin": "Nóngmín zhèngzài tián lǐ gōngzuò.",
+      "english": "The farmers are working in the field."
     },
     {
-      "chinese": "他专注于农业研究(他專注於農業研究)，推广农耕技术(推廣農耕技術)。",
-      "pinyin": "Tā zhuānzhù yú nóngyè yánjiū, tuīguǎng nónggēng jìshù.",
-      "english": "He focuses on agricultural research and promotes farming techniques."
+      "chinese": "农业对国家非常重要(農業對國家非常重要)。",
+      "pinyin": "Nóngyè duì guójiā fēicháng zhòngyào.",
+      "english": "Agriculture is very important to the country."
     },
     {
-      "chinese": "古时候有农夫耕作(古時候有農夫耕作)，辛勤劳作(辛勤勞作)，换来丰收(換來豐收)。",
-      "pinyin": "Gǔ shíhòu yǒu nóngfū gēngzuò, xīnqín láozuò, huàn lái fēngshōu.",
-      "english": "In ancient times, farmers toiled in the fields, working hard and reaped a bountiful harvest."
+      "chinese": "他决定回家乡从事农业(他決定回家鄉從事農業)。",
+      "pinyin": "Tā juédìng huí jiāxiāng cóngshì nóngyè.",
+      "english": "He decided to return to his hometown to pursue agriculture."
     }
   ]
 }

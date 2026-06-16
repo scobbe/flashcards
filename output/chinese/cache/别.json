@@ -5,9 +5,9 @@
   "english": "leave; part; farewell; separate",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "冎 (bone) + 刂 (knife) = to cut up bone and flesh -> stylized as 別",
-    "interpretation": "The character 別 (bié, \"separate\") originally depicted the action of cutting apart bones, highlighting the idea of separation. It combines the components 冎 (guǎ, \"bone\") and 刂 (dāo, \"knife\") to convey this meaning.",
-    "simplification": "The simplified form 别 is a variation of 別 where the component 冎 (guǎ, \"bone\") is replaced by the simpler 另 (lìng, \"other\"), maintaining the concept of separation."
+    "description": "冎 ('bone') + 刂 ('knife') = to cut up bone and flesh -> 別",
+    "interpretation": "The character originally depicted using a knife to cut up bone and flesh, symbolizing separation. This intuition leads to meanings like 'to part' or 'to separate,' reflecting the act of dividing or moving away from something or someone.",
+    "simplification": "The traditional character 別 was directly retained in its simplified form without further reduction in strokes."
   },
   "parts": [
     {
@@ -18,33 +18,27 @@
     },
     {
       "char": "刂",
-      "trad": "刂",
+      "trad": "刀",
       "pinyin": "dāo",
       "english": "knife"
-    },
-    {
-      "char": "另",
-      "trad": "另",
-      "pinyin": "lìng",
-      "english": "other"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们在车站告别(我們在車站告別)。",
-      "pinyin": "Wǒmen zài chēzhàn gàobié.",
-      "english": "We said farewell at the station."
+      "chinese": "请别担心(請別擔心)。",
+      "pinyin": "Qǐng bié dānxīn.",
+      "english": "Please don't worry."
     },
     {
-      "chinese": "她别着一朵花在头上(她別著一朵花在頭上)。",
-      "pinyin": "Tā bié zhe yī duǒ huā zài tóushàng.",
-      "english": "She pinned a flower on her head."
+      "chinese": "我们在车站告别(我們在車站告別)，他渐渐走远(他漸漸走遠)。",
+      "pinyin": "Wǒmen zài chēzhàn gàobié, tā jiànjiàn zǒu yuǎn.",
+      "english": "We said goodbye at the station, and he gradually walked away."
     },
     {
-      "chinese": "请别打扰我(請別打擾我)。",
-      "pinyin": "Qǐng bié dǎrǎo wǒ.",
-      "english": "Please don't disturb me."
+      "chinese": "他别开旧生活(他別開舊生活)，开始新的冒险(開始新的冒險)。",
+      "pinyin": "Tā bié kāi jiù shēnghuó, kāishǐ xīn de màoxiǎn.",
+      "english": "He left his old life and started a new adventure."
     }
   ]
 }

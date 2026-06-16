@@ -5,8 +5,8 @@
   "english": "evening",
   "etymology": {
     "type": "compound word",
-    "description": "This word consists of 晚(晚) (wǎn, \"evening; late\") and 上(上) (shang, \"above; on\") to denote the time period in the evening.",
-    "interpretation": "The combination 晚上(晚上) (wǎnshang, \"evening\") refers to the time of day after the sun sets, when the sky is darkening. It represents the period of day when evening activities typically occur.",
+    "description": "晚(晚) (wǎn, \"evening; late\") and 上(上) (shàng, \"up; above; on\") combine to depict the concept of evening.",
+    "interpretation": "晚(晚) (wǎn, \"evening; late\") denotes the time of day after sunset, when activities typically slow down. 上(上) (shàng, \"up; above; on\") can give the sense of something being on or upon, here suggesting the time that follows the day being 'upon' us, in the sense of happening now. Together, 晚上 ('evening') describes the period of transition from day to night when it becomes late.",
     "simplification": ""
   },
   "parts": [
@@ -19,21 +19,26 @@
     {
       "char": "上",
       "trad": "上",
-      "pinyin": "shang",
-      "english": "above; on"
+      "pinyin": "shàng",
+      "english": "up; above; on"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "晚上七点我在家(晚上七點我在家)。",
-      "pinyin": "wǎnshang qī diǎn wǒ zài jiā.",
-      "english": "I'm home at seven in the evening."
+      "chinese": "晚上(晚上)，我们常常去散步(我們常常去散步)。",
+      "pinyin": "Wǎnshang, wǒmen chángcháng qù sànbù.",
+      "english": "In the evening, we often go for a walk."
     },
     {
-      "chinese": "晚上街灯亮起(晚上街燈亮起)，城市变得温柔(城市變得溫柔)。",
-      "pinyin": "wǎnshang jiē dēng liàng qǐ, chéngshì biàn dé wēnróu.",
-      "english": "In the evening, the streetlights turn on, and the city becomes gentle."
+      "chinese": "晚上(晚上)，星星在天上闪烁(星星在天上閃爍)。",
+      "pinyin": "Wǎnshang, xīngxing zài tiān shàng shǎnshuò.",
+      "english": "In the evening, the stars twinkle in the sky."
+    },
+    {
+      "chinese": "我喜欢晚上喝热茶(我喜歡晚上喝熱茶)。",
+      "pinyin": "Wǒ xǐhuān wǎnshang hē rè chá.",
+      "english": "I like drinking hot tea in the evening."
     }
   ]
 }

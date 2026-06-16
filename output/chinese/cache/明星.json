@@ -5,8 +5,8 @@
   "english": "star; celebrity",
   "etymology": {
     "type": "compound word",
-    "description": "明(明) (míng, \"bright\") and 星(星) (xīng, \"star\"). The word conveys the idea of a star that shines brightly, akin to a celebrity's prominence and attraction in the public eye.",
-    "interpretation": "明星(明星) (míngxīng, \"star; celebrity\") refers to someone who stands out for their talent and is admired by many, comparable to a bright star in the sky.",
+    "description": "明(明) (míng, \"bright; clear\") + 星(星) (xīng, \"star\")",
+    "interpretation": "明(明) (míng, \"bright\") plus 星(星) (xīng, \"star\") gives the image of a bright star in the sky, easily noticeable and distinct. This physical brightness translates to prominence and recognition, leading to the sense of a 'celebrity.' The mental image of a luminous star is a natural metaphor for someone widely recognized and admired.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "明",
       "trad": "明",
       "pinyin": "míng",
-      "english": "bright; clear; obvious"
+      "english": "bright; clear"
     },
     {
       "char": "星",
       "trad": "星",
       "pinyin": "xīng",
-      "english": "star; heavenly body"
+      "english": "star"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他梦想成为一位国际明星(他夢想成為一位國際明星)。",
-      "pinyin": "Tā mèngxiǎng chéngwéi yī wèi guójì míngxīng。",
-      "english": "He dreams of becoming an international celebrity."
+      "chinese": "他是一位著名的电影明星(他是一位著名的電影明星)。",
+      "pinyin": "Tā shì yī wèi zhùmíng de diànyǐng míngxīng.",
+      "english": "He is a famous movie star."
     },
     {
-      "chinese": "那部电影让许多观众爱上了那个明星(那部電影讓許多觀眾愛上了那個明星)。",
-      "pinyin": "Nà bù diànyǐng ràng xǔduō guānzhòng ài shàngle nà gè míngxīng。",
-      "english": "That movie made many viewers fall in love with that star."
+      "chinese": "很多年轻人都梦想成为明星(很多年輕人都夢想成為明星)。",
+      "pinyin": "Hěn duō niánqīng rén dōu mèngxiǎng chéngwéi míngxīng.",
+      "english": "Many young people dream of becoming a star."
     },
     {
-      "chinese": "在红毯上(在紅毯上)，明星们闪闪发光(明星們閃閃發光)。",
-      "pinyin": "Zài hóngtǎn shàng, míngxīngmen shǎnshǎn fāguāng。",
-      "english": "On the red carpet, the celebrities shone brightly."
+      "chinese": "这位明星参加了许多慈善活动(這位明星參加了許多慈善活動)。",
+      "pinyin": "Zhè wèi míngxīng cānjiāle xǔduō císhàn huódòng.",
+      "english": "This celebrity participated in many charity events."
     }
   ]
 }

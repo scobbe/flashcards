@@ -5,9 +5,9 @@
   "english": "old; past; worn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 雈 ('owl') + phonetic 臼 (sound) -> originally a type of owl -> borrowed for 'old'",
-    "interpretation": "舊 originally depicted a type of owl, using 雈 for its meaning. It was later borrowed phonetically to represent the concept 'old', as the sound of the character matched a word for 'old' in phonetic series.",
-    "simplification": "舊(舊) was simplified to 旧(舊) by removing 雈 (owl) and replacing it with the simpler component 臼 (used as a radical and phonetic)."
+    "description": "semantic 雈(雈) (huán, 'owl') + phonetic 臼(臼) (jiù) -> originally 'a type of owl', borrowed for phonetic similarity to 'old'",
+    "interpretation": "The character 舊(舊) (jiù, 'old') combines the semantic component 雈(雈) (huán, 'owl') with the phonetic component 臼(臼) (jiù, 'mortar'). It was initially used to represent a type of owl, which was later borrowed for its sound to denote 'old', associating the unchanging nature of the owl with the concept of 'oldness' or the passage of time.",
+    "simplification": "旧 is the simplified form, reducing complexity from 舊 by removing the semantic component 雈(雈) (huán, 'owl') while preserving the sound with 臼(臼) (jiù)."
   },
   "parts": [
     {
@@ -31,14 +31,14 @@
       "english": "This book is very old."
     },
     {
-      "chinese": "我找到了旧照片(我找到了舊照片)。",
-      "pinyin": "Wǒ zhǎodào le jiù zhàopiàn.",
-      "english": "I found the old photos."
+      "chinese": "他穿着旧衬衫(他穿著舊襯衫)，看起来有些疲倦(看起來有些疲倦)。",
+      "pinyin": "Tā chuānzhe jiù chènshān, kàn qǐlái yǒu xiē píjuàn.",
+      "english": "He is wearing a worn shirt and looks a bit tired."
     },
     {
-      "chinese": "他老想着过去的旧时光(他老想着過去的舊時光)。",
-      "pinyin": "Tā lǎo xiǎngzhe guòqù de jiù shíguāng.",
-      "english": "He always reminisces about the past times."
+      "chinese": "她时常怀念过去的旧时光(她時常懷念過去的舊時光)。",
+      "pinyin": "Tā shícháng huáiniàn guòqù de jiù shíguāng.",
+      "english": "She often reminisces about the old times."
     }
   ]
 }

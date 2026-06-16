@@ -5,8 +5,8 @@
   "english": "dislike",
   "etymology": {
     "type": "compound word",
-    "description": "讨(討) (tǎo, \"ask for\") + 厌(厭) (yàn, \"disgust\") = express asking for disgust or dislike.",
-    "interpretation": "The word 討厭 (tǎoyàn, \"dislike\") combines 討(討) (tǎo, \"ask for\") with 厭(厭) (yàn, \"disgust\") to convey the sense of finding something unpleasant or undesirable.",
+    "description": "討(討) (tǎo, \"demand\") and 厭(厭) (yàn, \"aversion\") together convey developing a feeling of aversion in response to a demand or bother, leading to 'dislike' or 'annoyance'.",
+    "interpretation": "討(討) (tǎo, \"demand\") represents the idea of demands or engagements, often leading to irritation. 厭(厭) (yàn, \"aversion\") captures the feeling of detachment or weariness that can result from such demands. Together, they imply a state where ongoing demands lead to annoyance or dislike, forming the idea of 'dislike'. This reflects the emotional response to feeling burdened or overwhelmed by unwanted interactions.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "讨",
       "trad": "討",
       "pinyin": "tǎo",
-      "english": "ask for; beg; demand"
+      "english": "demand; discuss; ask for"
     },
     {
       "char": "厌",
       "trad": "厭",
       "pinyin": "yàn",
-      "english": "to loathe; bore; disgust"
+      "english": "aversion; detest; be fed up with; be tired of"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他讨厌吃菠菜(他討厭吃菠菜)。",
-      "pinyin": "Tā tǎoyàn chī bōcài.",
-      "english": "He dislikes eating spinach."
+      "chinese": "我讨厌吃辣的食物(我討厭吃辣的食物)。",
+      "pinyin": "Wǒ tǎoyàn chī là de shíwù.",
+      "english": "I dislike eating spicy food."
     },
     {
-      "chinese": "有些人讨厌下雨天(有些人討厭下雨天)。",
-      "pinyin": "Yǒuxiē rén tǎoyàn xiàyǔ tiān.",
-      "english": "Some people dislike rainy days."
+      "chinese": "他总是迟到(他總是遲到)，真让人讨厌(真讓人討厭)。",
+      "pinyin": "Tā zǒng shì chídào, zhēn ràng rén tǎoyàn.",
+      "english": "He's always late, which is really annoying."
     },
     {
-      "chinese": "我讨厌早起床(我討厭早起床)。",
-      "pinyin": "Wǒ tǎoyàn zǎo qǐ chuáng.",
-      "english": "I dislike getting up early."
+      "chinese": "这个天气让我很讨厌(這個天氣讓我很討厭)。",
+      "pinyin": "Zhège tiānqì ràng wǒ hěn tǎoyàn.",
+      "english": "This weather makes me very annoyed."
     }
   ]
 }

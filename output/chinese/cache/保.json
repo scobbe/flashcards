@@ -5,9 +5,9 @@
   "english": "protect",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"person\") + 子(子) (zǐ, \"child\") = person carrying a child -> 爪 added to emphasize carrying -> simplified strokes -> protect",
-    "interpretation": "The character represents the concept of protection by depicting a person carrying a child, emphasizing care and responsibility. The addition of 爪 further highlights the action of physically supporting or protecting.",
-    "simplification": ""
+    "description": "人(人) (rén, \"person\") + 子(子) (zǐ, \"child\") -> person carrying a child -> to carry (a child) -> 爪(爪) (zhuǎ, \"hand\") added to emphasize carrying -> simplified to enhance meaning -> current form with two strokes for hand",
+    "interpretation": "The character 保 (bǎo, \"protect\") originates from the image of a person carrying a child, representing protection and caregiving. The addition of 爪(爪) (zhuǎ, \"hand\") in early forms highlights the act of carrying with hands, reinforcing the protective role of the person. The modern form retains the strokes that symbolize hands, maintaining the theme of protection through physical support and care, which follows from the basic image of human protection of offspring.",
+    "simplification": "徤 replaced with a simpler form for ease of writing without changing pronunciation or meaning."
   },
   "parts": [
     {
@@ -25,21 +25,26 @@
     {
       "char": "爪",
       "trad": "爪",
-      "pinyin": "zhǎo",
+      "pinyin": "zhuǎ",
       "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈会保你健康(媽媽會保你健康)。",
-      "pinyin": "Māmā huì bǎo nǐ jiànkāng.",
-      "english": "Mom will protect your health."
+      "chinese": "警察负责保护市民的安全(警察負責保護市民的安全)。",
+      "pinyin": "Jǐngchá fùzé bǎohù shìmín de ānquán.",
+      "english": "The police are responsible for protecting the safety of the citizens."
     },
     {
-      "chinese": "风雨来临时(風雨來臨時)，家人总会保你周全(家人總會保你周全)。",
-      "pinyin": "Fēngyǔ láilín shí, jiārén zǒng huì bǎo nǐ zhōuquán.",
-      "english": "When storms come, the family will always protect you completely."
+      "chinese": "请保管好你的贵重物品(請保管好你的貴重物品)。",
+      "pinyin": "Qǐng bǎoguǎn hǎo nǐ de guìzhòng wùpǐn.",
+      "english": "Please keep your valuable items safe."
+    },
+    {
+      "chinese": "我们要保证食物的质量(我們要保證食物的質量)。",
+      "pinyin": "Wǒmen yào bǎozhèng shíwù de zhìliàng.",
+      "english": "We need to ensure the quality of the food."
     }
   ]
 }

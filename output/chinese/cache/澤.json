@@ -1,0 +1,44 @@
+{
+  "simplified": "澤",
+  "traditional": "澤",
+  "pinyin": "zé",
+  "english": "marsh; favor; grace",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 睪(睪) (yì) -> marsh; favor; grace",
+    "interpretation": "The character 澤 (zé, \"marsh; favor; grace\") combines the semantic element 水(水) (shuǐ, \"water\"), connecting to the wet and marshy nature of a swamp, with the phonetic element 睪(睪) (yì) providing the sound. By extension, just as water spreads favorably over the land in a marsh, the character also conveys the ideas of favor and grace.",
+    "simplification": "Simplified as 泽 by replacing 睪(睪) (yì) with the simpler 𠬤."
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "睪",
+      "trad": "睪",
+      "pinyin": "yì",
+      "english": "inspect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "澤(澤)是一片充满生机的湿地(是一片充滿生機的濕地)。",
+      "pinyin": "Zé shì yī piàn chōngmǎn shēngjī de shīdì.",
+      "english": "A marsh is a vibrant wetland."
+    },
+    {
+      "chinese": "他在公司中享有很大的恩澤(他在公司中享有很大的恩澤)。",
+      "pinyin": "Tā zài gōngsī zhōng xiǎngyǒu hěn dà de ēnzé.",
+      "english": "He enjoys great favor in the company."
+    },
+    {
+      "chinese": "古老的城市依偎在河流的澤邊(古老的城市依偎在河流的澤邊)，仿佛在聆听大自然的呢喃(彷彿在聆聽大自然的呢喃)。",
+      "pinyin": "Gǔlǎo de chéngshì yīwēi zài héliú de zé biān, fǎngfú zài língtīng dàzìrán de nénán.",
+      "english": "The ancient city snuggled by the river's marsh, as if listening to the whispers of nature."
+    }
+  ]
+}

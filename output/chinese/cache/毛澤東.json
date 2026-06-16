@@ -1,0 +1,50 @@
+{
+  "simplified": "毛澤東",
+  "traditional": "毛澤東",
+  "pinyin": "Máo Zédōng",
+  "english": "Mao Zedong",
+  "etymology": {
+    "type": "compound word",
+    "description": "The name 毛澤東(毛泽东) (Máo Zédōng) refers specifically to the historical figure Mao Zedong, a founding father of the People's Republic of China. This name is composed of three characters: 毛(毛) (máo, \"hair; surname\"), 澤(泽) (zé, \"marsh; favor; grace\"), and 東(东) (dōng, \"east\"). In this context, 毛(Máo) serves as a family or clan name without inherent meaning about Mao Zedong's leadership or ideology. 澤(Zé) commonly refers to grace or kindness, while 東(Dōng) indicates direction, but here they form part of a personal name rather than conveying specific attributes of meaning.",
+    "interpretation": "While 毛(毛) (máo, \"hair; surname\") provides no inherent semantic in this context, it is a common Chinese surname. 澤(澤) (zé, \"marsh; favor; grace\") could historically imply beneficence or nurturing qualities, but here it's merely a namesake. 東(東) (dōng, \"east\") likely signifies geographical or directional symbolism in some names, but in Mao Zedong's case, it is a standard component of the given name with no primary interpretation. Thus, Mao Zedong's name doesn't imply a synthesis of these elements but identifies a historical personality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "毛",
+      "trad": "毛",
+      "pinyin": "máo",
+      "english": "hair; surname"
+    },
+    {
+      "char": "澤",
+      "trad": "澤",
+      "pinyin": "zé",
+      "english": "marsh; favor; grace"
+    },
+    {
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "毛泽东(毛澤東)是中国革命的重要领袖(是中國革命的重要領袖)。",
+      "pinyin": "Máo Zédōng shì Zhōngguó gémìng de zhòngyào lǐngxiù.",
+      "english": "Mao Zedong was an important leader of the Chinese revolution."
+    },
+    {
+      "chinese": "毛泽东(毛澤東)于1949年建立了中华人民共和国(於1949年建立了中華人民共和國)。",
+      "pinyin": "Máo Zédōng yú 1949 nián jiànlì le Zhōnghuá Rénmín Gònghéguó.",
+      "english": "Mao Zedong established the People's Republic of China in 1949."
+    },
+    {
+      "chinese": "许多人认为毛泽东(許多人認為毛澤東)对20世纪的中国影响深远(對20世紀的中國影響深遠)。",
+      "pinyin": "Xǔduō rén rènwéi Máo Zédōng duì èrshí shìjì de Zhōngguó yǐngxiǎng shēnyuǎn.",
+      "english": "Many people believe Mao Zedong had a profound influence on 20th-century China."
+    }
+  ]
+}

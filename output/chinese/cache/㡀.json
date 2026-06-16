@@ -4,12 +4,19 @@
   "pinyin": "bì",
   "english": "cloak",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a cloak or a piece of cloth draping down",
-    "interpretation": "The character 㡀 (bì, 'cloak') visually resembles a piece of cloth hanging down, which aligns with its meaning of a cloak. This simple pictogram effectively conveys the concept of something that covers or drapes.",
+    "type": "variant traditional form",
+    "description": "Originally a variant traditional form of 敝(敝) (bì, 'worn out')",
+    "interpretation": "As a variant of 敝(敝) (bì, 'worn out'), 㡀(bì, 'cloak') conveys the idea of a cloak affected by wear or dirt.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "敝",
+      "trad": "敝",
+      "pinyin": "bì",
+      "english": "worn out"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -4,9 +4,9 @@
   "pinyin": "gài",
   "english": "original meaning unknown",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts the tip of a blade 亡 inside a knife 刀",
-    "interpretation": "The character 匄(gài) originally featured a blade tip within a knife structure, and it likely represented a concept related to sharpness or damage. Over time, it gave rise to other forms, including 丐(gài) (gài, \"beggar\") and 匃(gài), but its original meaning has largely been forgotten.",
+    "type": "ideogrammic compound",
+    "description": "亡 (tip of a blade) + 刀 (knife) = perhaps indicating damage",
+    "interpretation": "The character 匄 (gài, \"original meaning unknown\") combines 亡(亡) (wáng, \"tip of a blade\") and 刀(刀) (dāo, \"knife\") to potentially represent an idea connected to the edge or damage inflicted by a blade. The exact original meaning is not entirely clear, but it suggests some form of impairment or damage related to knife usage.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "亡",
       "trad": "亡",
       "pinyin": "wáng",
-      "english": "perish"
+      "english": "tip of a blade"
     },
     {
       "char": "刀",

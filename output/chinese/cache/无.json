@@ -5,17 +5,11 @@
   "english": "not have; without; lacking",
   "etymology": {
     "type": "unknown",
-    "description": "The character 无 was one among several historical representations for expressing 'no' or 'not any,' used alongside 無(無) (wú, 'not have') and 亡(亡) (wáng, 'to lose'), especially during the Warring States period. The origin of 无 is uncertain, and it might have evolved as a variant of other characters like 元(元) (yuán, 'origin'), 天(天) (tiān, 'heaven'), or 堯(堯) (yáo, 'legendary ruler'). Adopted officially in simplified script in 1956 by the PRC.",
-    "interpretation": "Without a clear etymology, the character 无 represents a reduction and simplification that was standardized in modern times to denote the concept of absence or non-existence.",
-    "simplification": "无 is a simplified form adopted in 1956 to unify and clarify usage from various historical forms representing negation."
+    "description": "Unknown origin: possibly related to 元(元) (yuán, 'origin'), 天(天) (tiān, 'heaven'), or 堯(堯) (yáo, 'a legendary emperor; tall')",
+    "interpretation": "The character's origin remains undetermined, but it shares usage with 無(無) (wú, 'not have; without') and was historically used interchangeably with it to represent the concept of non-existence or absence.",
+    "simplification": "Simplified to 无 by streamlining strokes and adopting an alternate simple form for ease of writing and recognition."
   },
   "parts": [
-    {
-      "char": "亡",
-      "trad": "亡",
-      "pinyin": "wáng",
-      "english": "to lose"
-    },
     {
       "char": "元",
       "trad": "元",
@@ -32,25 +26,25 @@
       "char": "堯",
       "trad": "堯",
       "pinyin": "yáo",
-      "english": "legendary ruler"
+      "english": "a legendary emperor; tall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我无车(我無車)。",
-      "pinyin": "Wǒ wú chē.",
-      "english": "I don't have a car."
+      "chinese": "他无话可说(他無話可說)。",
+      "pinyin": "Tā wú huà kě shuō.",
+      "english": "He has nothing to say."
     },
     {
-      "chinese": "他无经验(他無經驗)，却有决心(卻有決心)。",
-      "pinyin": "Tā wú jīngyàn, què yǒu juéxīn.",
-      "english": "He lacks experience, but has determination."
+      "chinese": "城市的夜空几乎无星(城市的夜空幾乎無星)，只有月亮(只有月亮)。",
+      "pinyin": "Chéngshì de yèkōng jīhū wú xīng, zhǐ yǒu yuèliàng.",
+      "english": "The city's night sky is almost without stars, only the moon."
     },
     {
-      "chinese": "生活中无烦恼(生活中無煩惱)，心情自然轻松(心情自然輕鬆)。",
-      "pinyin": "Shēnghuó zhōng wú fánnǎo, xīnqíng zìrán qīngsōng.",
-      "english": "When life is without worries, the mood naturally becomes relaxed."
+      "chinese": "他们之间无解(他們之間無解)，只能随缘(只能隨緣)。",
+      "pinyin": "Tāmen zhījiān wú jiě, zhǐ néng suíyuán.",
+      "english": "There's no solution between them, they can only go with the flow."
     }
   ]
 }

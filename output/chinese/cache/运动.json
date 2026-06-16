@@ -5,8 +5,8 @@
   "english": "exercise; sports",
   "etymology": {
     "type": "compound word",
-    "description": "運(運) (yùn, \"transport; move\") and 動(動) (dòng, \"move; act\") together convey the concept of movement or activity. The combination suggests engaging in physical activity or movement, which can be interpreted as exercise or sports.",
-    "interpretation": "The word 运动(運動) (yùndòng) refers to engaging in physical activities or sports, emphasizing the idea of movement and action.",
+    "description": "運(運) (yùn, \"to transport; fortune\") refers to movement or transportation, which extends to imply activity. 動(動) (dòng, \"to move; movement\") reinforces the theme of motion or activity.",
+    "interpretation": "運(運) (yùn, \"to transport; fortune\") originally meant the act of carrying or moving something from one place to another, thus denoting activity and motion. 動(動) (dòng, \"to move; movement\") signifies physical movement or change in position, adding to the idea of actively engaging in physical activities. Together, the term 運動(運動) encompasses physical exercises and sports as activities involving coordinated movement and effort.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "运",
       "trad": "運",
       "pinyin": "yùn",
-      "english": "transport; move; fortune; luck"
+      "english": "to transport; fortune; motion; luck"
     },
     {
       "char": "动",
       "trad": "動",
       "pinyin": "dòng",
-      "english": "move; act; stir; change"
+      "english": "to move; movement; action; motion"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天运动(我每天運動)。",
-      "pinyin": "Wǒ měitiān yùndòng.",
-      "english": "I exercise every day."
+      "chinese": "我每天早晨去公园运动(我每天早晨去公園運動)。",
+      "pinyin": "Wǒ měitiān zǎochén qù gōngyuán yùndòng.",
+      "english": "I go to the park to exercise every morning."
     },
     {
-      "chinese": "运动使身体更强壮(運動使身體更強壯)，也带来快乐(也帶來快樂)。",
-      "pinyin": "Yùndòng shǐ shēntǐ gèng qiángzhuàng, yě dàilái kuàilè.",
-      "english": "Exercise makes the body stronger and brings joy."
+      "chinese": "他喜欢参加各种运动(他喜歡參加各種運動)。",
+      "pinyin": "Tā xǐhuān cānjiā gè zhǒng yùndòng.",
+      "english": "He likes to participate in various sports."
     },
     {
-      "chinese": "参加运动会可以结识朋友(參加運動會可以結識朋友)，体验团队精神(體驗團隊精神)。",
-      "pinyin": "Cānjiā yùndònghuì kěyǐ jiéshí péngyǒu, tǐyàn tuánduì jīngshén.",
-      "english": "Participating in a sports meet can help you make friends and experience team spirit."
+      "chinese": "运动对健康有益(運動對健康有益)，可以让人保持活力(可以讓人保持活力)。",
+      "pinyin": "Yùndòng duì jiànkāng yǒuyì, kěyǐ ràng rén bǎochí huólì.",
+      "english": "Exercise is beneficial for health and can help people stay energetic."
     }
   ]
 }

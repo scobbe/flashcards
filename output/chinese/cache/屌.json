@@ -5,35 +5,40 @@
   "english": "male genitalia; slang for cocky",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "尭(尭) (yáo, \"high\") as phonetic + 尸(尸) (shī, \"corpse\") as semantic = slang term originally referring to male genitalia -> later extended to mean 'cocky' or 'arrogant'",
-    "interpretation": "The character 屌(diao) cleverly combines elements to convey its vulgar meaning, using 尸(尸) to set a bodily context and 尭(尭) to suggest a crude and boastful tone.",
+    "description": "semantic 尸(尸) (shī, \"body\") + phonetic 吊(吊) (diào, \"hanging\") -> something that hangs from the body",
+    "interpretation": "The character 屌(dǐao, \"male genitalia\") combines the semantic component 尸(尸) (shī, \"body\") with the phonetic component 吊(吊) (diào, \"hanging\") to convey the idea of something hanging from the body, referring to male genitalia. The slang sense of 'cocky' links to boldness and assertiveness, metaphorically extending from the physical feature.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "尭",
-      "trad": "尭",
-      "pinyin": "yáo",
-      "english": "high"
-    },
-    {
       "char": "尸",
       "trad": "尸",
       "pinyin": "shī",
-      "english": "corpse"
+      "english": "body"
+    },
+    {
+      "char": "吊",
+      "trad": "吊",
+      "pinyin": "diào",
+      "english": "hanging"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他很屌(他很屌)。",
-      "pinyin": "Tā hěn diǎo.",
-      "english": "He is really cocky."
+      "chinese": "他总是表现得很屌(他總是表現得很屌)。",
+      "pinyin": "Tā zǒng shì biǎoxiàn de hěn diǎo.",
+      "english": "He always acts very cocky."
     },
     {
-      "chinese": "医生检查他的屌(醫生檢查他的屌)，发现有异常(發現有異常)。",
-      "pinyin": "Yīshēng jiǎnchá tā de diǎo, fāxiàn yǒu yìcháng.",
-      "english": "The doctor examined his genitalia and found something abnormal."
+      "chinese": "那件事情让他觉得自己很屌(那件事情讓他覺得自己很屌)。",
+      "pinyin": "Nà jiàn shìqíng ràng tā juéde zìjǐ hěn diǎo.",
+      "english": "That incident made him feel very cocky."
+    },
+    {
+      "chinese": "他以为自己很屌，其实并没有(他以為自己很屌，其實並沒有)。",
+      "pinyin": "Tā yǐwéi zìjǐ hěn diǎo, qíshí bìng méiyǒu.",
+      "english": "He thinks he is very cocky, but he isn't."
     }
   ]
 }

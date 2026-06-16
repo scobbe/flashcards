@@ -5,8 +5,8 @@
   "english": "bright",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "旦(旦) (dàn, \"sunrise\") + 㫃(㫃) (yǎn, phonetic) = bright -> brightness",
-    "interpretation": "The character 倝(gàn, \"bright\") combines 旦(旦) (dàn, \"sunrise\"), which indicates the semantic idea of brightness associated with dawn, with the phonetic component 㫃(㫃) (yǎn) to convey the meaning of brightness or radiance. This reflects the concept of light emerging to illuminate, akin to the brightness at sunrise.",
+    "description": "semantic 旦 (dàn, \"sunrise\") + phonetic 㫃 (yǎn) -> bright",
+    "interpretation": "The character 倝 (gàn, \"bright\") combines the semantic component 旦 (dàn, \"sunrise\"), which suggests the idea of luminosity or brightness associated with the sun rising, with the phonetic component 㫃 (yǎn), contributing the sound. This combination emphasizes the brightness associated with the rising sun.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "㫃",
       "trad": "㫃",
       "pinyin": "yǎn",
-      "english": "phonetic"
+      "english": "(phonetic component)"
     }
   ],
   "in_contemporary_usage": false,

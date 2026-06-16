@@ -5,46 +5,40 @@
   "english": "write",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, 'grass') + 者(者) (zhě, 'person who does X') = grass-related phonetic element -> meaning relates to writing",
-    "interpretation": "The character 著(著) (zhù, 'write') combines 艸(艸) (cǎo, 'grass') for semantic association with natural growth or flourish, and 者(者) (zhě, 'person who does X') for phonetic suggestion. This implies the flourishing of words, akin to the growth of plants.",
-    "simplification": "The character 著 has a corrupted variant form, 着, where 艹(艹) (cǎo, 'grass') is replaced by 䒑 and 者(者) (zhě, 'person who does X') is altered to include 目(目) (mù, 'eye') based on historical orthographic changes recorded in dictionaries."
+    "description": "艸(艸) (cǎo, \"grass; plant\") semantic + 者(者) (zhě) phonetic -> related to writing or creating a significant work",
+    "interpretation": "The character 著(著) (zhù, \"write\") combines the semantic 艸(艸) (cǎo, \"grass; plant\") with the phonetic 者(者) (zhě, \"person responsible\") to suggest writing as an act of creation, akin to cultivating plants. The prominently used phonetic 者 conveys the sound while the imagery implies bringing forth or producing something notable.",
+    "simplification": "着(着): The components 艹 and 日 were replaced with 䒑 and 目 to create a simpler, albeit non-standard, form that has been recorded from as early as the Tang dynasty."
   },
   "parts": [
     {
       "char": "艸",
       "trad": "艸",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "grass; plant"
     },
     {
       "char": "者",
       "trad": "者",
       "pinyin": "zhě",
-      "english": "person who does X"
-    },
-    {
-      "char": "目",
-      "trad": "目",
-      "pinyin": "mù",
-      "english": "eye"
+      "english": "person responsible"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我著小说(我著小說)，表达对生活的感悟(表達對生活的感悟)。",
-      "pinyin": "Wǒ zhù xiǎoshuō, biǎodá duì shēnghuó de gǎnwù.",
-      "english": "I write novels to express my insights about life."
+      "chinese": "他正在写一本书(他正在寫一本書)。",
+      "pinyin": "Tā zhèngzài xiě yī běn shū.",
+      "english": "He is writing a book."
     },
     {
-      "chinese": "他著诗(他著詩)。",
-      "pinyin": "Tā zhù shī.",
-      "english": "He writes poetry."
+      "chinese": "这篇文章是著名作家所著(這篇文章是著名作家所著)。",
+      "pinyin": "Zhè piān wénzhāng shì zhùmíng zuòjiā suǒ zhù.",
+      "english": "This article is written by a famous author."
     },
     {
-      "chinese": "我著学术论文(我著學術論文)，期望得到专家认可(期望得到專家認可)。",
-      "pinyin": "Wǒ zhù xuéshù lùnwén, qīwàng dédào zhuānjiā rènkě.",
-      "english": "I write academic papers hoping to be recognized by experts."
+      "chinese": "她正在著一部新小说(她正在著一部新小說)。",
+      "pinyin": "Tā zhèngzài zhù yī bù xīn xiǎoshuō.",
+      "english": "She is currently writing a new novel."
     }
   ]
 }

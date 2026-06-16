@@ -1,0 +1,38 @@
+{
+  "simplified": "粉紅",
+  "traditional": "粉紅",
+  "pinyin": "fěnhóng",
+  "english": "pink",
+  "etymology": {
+    "type": "compound word",
+    "description": "粉(粉) (fěn, \"powder\") + 紅(紅) (hóng, \"red\") = powdery red -> pink",
+    "interpretation": "The term 粉紅(fěnhóng) derives its meaning from combining 粉(粉) (fěn, \"powder\"), which evokes a sense of lightness and dilution, with 紅(紅) (hóng, \"red\"), which provides the base color. The combination suggests a red that has been lightened or softened into a pink hue, akin to the appearance of red when mixed with white powder.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "紅",
+      "trad": "紅",
+      "pinyin": "hóng",
+      "english": "red; popular; revolution; bonus"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我喜欢粉红色的花(我喜歡粉紅色的花)。",
+      "pinyin": "Wǒ xǐhuān fěnhóng sè de huā.",
+      "english": "I like pink flowers."
+    },
+    {
+      "chinese": "她穿了一件粉红裙子(她穿了一件粉紅裙子)。",
+      "pinyin": "Tā chuānle yī jiàn fěnhóng qúnzi.",
+      "english": "She wore a pink dress."
+    },
+    {
+      "chinese": "这面墙是粉红色的(這面牆是粉紅色的)，感觉很温暖(感覺很溫暖)。",
+      "pinyin": "Zhè miàn qiáng shì fěnhóng sè de, gǎnjué hěn wēnnuǎn.",
+      "english": "This wall is pink, and it feels very warm."
+    }
+  ]
+}

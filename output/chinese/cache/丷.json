@@ -5,22 +5,11 @@
   "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Part of 爲(為) (wéi, 'to do') used as a top component or radical -> simple pictographic component",
-    "interpretation": "While 丷(bā, 'eight') often resembles the top part of certain characters like 爲(為), it stands as a simple graphic element, often used in modern Chinese to signify shared roots with other characters.",
+    "description": "Depicts a pair of diverging lines -> stylized as part of 爲(為) (wéi, 'to do')",
+    "interpretation": "The character 丷 is a simple pictogram that visually represents two separate lines or marks, which were stylized to form part of the more complex character 爲(為) (wéi, 'to do'). Though it appears in other contexts, its core depiction remains as intersecting or diverging lines.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "我们班上有八(八)名学生。",
-      "pinyin": "Wǒmen bān shàng yǒu bā míng xuéshēng.",
-      "english": "There are eight students in our class."
-    },
-    {
-      "chinese": "在中国，八(八)是一个吉利的数字(數字)。",
-      "pinyin": "Zài Zhōngguó, bā shì yī gè jílì de shùzì.",
-      "english": "In China, eight is considered a lucky number."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

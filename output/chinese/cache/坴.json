@@ -2,25 +2,25 @@
   "simplified": "坴",
   "traditional": "坴",
   "pinyin": "lù",
-  "english": "phonetic component",
+  "english": "continent, land",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 圥(圥) (lù, \"phonetic component\") + semantic 土(土) (tǔ, \"earth; soil\") = earth-related term with phonetic lù",
-    "interpretation": "坴 is a phono-semantic compound where the component 圥(圥) (lù) provides the phonetic value, while 土(土) (tǔ, \"earth; soil\") suggests its relation to earth. The character is primarily a phonetic component used in more complex characters.",
+    "description": "semantic 土(土) (tǔ, \"earth; soil\") + phonetic 圥(圥) (lù) -> continent; land",
+    "interpretation": "The character 坴 combines 土(土) (tǔ, \"earth; soil\") as the semantic component indicating a connection to land or soil, with 圥(圥) (lù) as the phonetic component providing the sound. This suggests an expansive area of land or territory due to the association with earth.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "圥",
-      "trad": "圥",
-      "pinyin": "lù",
-      "english": "phonetic component"
-    },
     {
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
       "english": "earth; soil"
+    },
+    {
+      "char": "圥",
+      "trad": "圥",
+      "pinyin": "lù",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": false,

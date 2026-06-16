@@ -5,9 +5,9 @@
   "english": "take turns",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "車(車) (chē, \"carriage\") + 侖(侖) (lún, phonetic) = related to carriages or wheeled transport -> wheel -> turn/rotate",
-    "interpretation": "The character 輪 combines 車(車) (chē, \"carriage\") for its semantic meaning related to vehicles, with 侖(侖) (lún) to provide the phonetic aspect. Together they convey the idea of something that rotates or turns, like a wheel.",
-    "simplification": "輪(輪) was simplified to 轮(輪) by changing 車(車) (chē, \"carriage\") to 车(車) and 侖(侖) (lún) to 仑(侖), reducing stroke count while maintaining similar phonetic and semantic elements."
+    "description": "semantic 車(車) (chē, \"carriage\") + phonetic 侖(侖) (lún, \"order\") -> take turns",
+    "interpretation": "The character combines 車(車) (chē, \"carriage\"), indicating the wheel's association with vehicles, and 侖(侖) (lún, \"order\"), suggesting the orderly sequence or turning. This imagery of a wheel turning in an orderly fashion leads to the idea of 'taking turns'.",
+    "simplification": "The traditional form 輪 was simplified by replacing 車(車) (chē, \"carriage\") with 车(车), and 侖(侖) (lún, \"order\") with 仑(仑), reducing the character's complexity while preserving both the semantic vehicle and the sound."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "侖",
       "trad": "侖",
       "pinyin": "lún",
-      "english": "phonetic"
+      "english": "order"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们只需轮流上岗(我們只需輪流上崗)。",
-      "pinyin": "Wǒmen zhǐ xū lúnliú shàng gǎng.",
-      "english": "We only need to take turns on duty."
+      "chinese": "我们应该轮流洗碗(我們應該輪流洗碗)。",
+      "pinyin": "Wǒmen yīnggāi lúnliú xǐwǎn.",
+      "english": "We should take turns washing the dishes."
     },
     {
-      "chinese": "他们轮着做饭(他們輪著做飯)，每天换人(每天換人)。",
-      "pinyin": "Tāmen lúnzhe zuò fàn, měitiān huàn rén.",
-      "english": "They take turns cooking, changing people every day."
+      "chinese": "老师让每个学生轮流发言(老師讓每個學生輪流發言)。",
+      "pinyin": "Lǎoshī ràng měi gè xuéshēng lúnliú fāyán.",
+      "english": "The teacher asked each student to take turns speaking."
     },
     {
-      "chinese": "在游戏中，我们都轮到发言(在遊戲中，我們都輪到發言)。",
-      "pinyin": "Zài yóuxì zhōng, wǒmen dōu lún dào fāyán.",
-      "english": "In the game, we all take turns speaking."
+      "chinese": "在晚会上，他们轮流表演节目(在晚會上，他們輪流表演節目)。",
+      "pinyin": "Zài wǎnhuì shàng, tāmen lúnliú biǎoyǎn jiémù.",
+      "english": "At the party, they took turns performing."
     }
   ]
 }

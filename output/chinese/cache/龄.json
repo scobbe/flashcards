@@ -5,13 +5,13 @@
   "english": "age; years; time",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 齒(齿) (chǐ, \"tooth\") + Phonetic: 令(令) (lìng, \"order\") = related to teeth through years -> by extension, age and years",
-    "interpretation": "The character 龄(líng, \"age\") is associated with \"teeth\" which can signify the process of aging. The phonetic component 令(令) (lìng, \"order\") suggests the sound. This combination conveys the concept of \"age\" or \"years,\" as teeth have cultural associations with growth and development over time.",
-    "simplification": "Simplified by replacing 齒(齒) (chǐ, \"tooth\") with its simpler form 齿(齿) (chǐ, \"tooth\")."
+    "description": "semantic 齒(齒) (chǐ, \"tooth\") + phonetic 令(令) (lìng) -> meaning related to counting years",
+    "interpretation": "The character 齡(齡) (líng, \"age\") is formed by combining 齒(齒) (chǐ, \"tooth\"), which represents 'age' through the symbolism of teeth as a marker of maturity, with the phonetic 令(令) (lìng), which contributes the sound. Teeth are often associated with stages of life, lending themselves naturally to the concept of age or duration.",
+    "simplification": "Simplified to 龄 by changing 齒(齒) (chǐ, \"tooth\") to its simplified form 齿(齿)."
   },
   "parts": [
     {
-      "char": "齿",
+      "char": "齒",
       "trad": "齒",
       "pinyin": "chǐ",
       "english": "tooth"
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的年龄增长迅速(他的年齡增長迅速)，未来充满希望(未來充滿希望)。",
-      "pinyin": "Tā de nián líng zēng zhǎng xùn sù, wèi lái chōng mǎn xī wàng.",
-      "english": "His age is increasing rapidly, and the future is full of hope."
+      "chinese": "她的年龄不大(她的年齡不大)。",
+      "pinyin": "Tā de niánlíng bù dà.",
+      "english": "She is not very old."
     },
     {
-      "chinese": "科学研究表明(科學研究表明)，年龄只是一个数字(年齡只是一個數字)。",
-      "pinyin": "Kē xué yán jiū biǎo míng, nián líng zhǐ shì yī gè shù zì.",
-      "english": "Scientific research shows that age is just a number."
+      "chinese": "他的实际年龄比看起来要大(他的實際年齡比看起來要大)。",
+      "pinyin": "Tā de shíjì niánlíng bǐ kàn qǐlái yào dà.",
+      "english": "His actual age is older than he looks."
+    },
+    {
+      "chinese": "这份工作的最低年龄要求是十八岁(這份工作的最低年齡要求是十八歲)。",
+      "pinyin": "Zhè fèn gōngzuò de zuìdī niánlíng yāoqiú shì shíbā suì.",
+      "english": "The minimum age requirement for this job is eighteen years old."
     }
   ]
 }

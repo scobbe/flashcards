@@ -5,27 +5,27 @@
   "english": "a form made by lining up pieces of wood and binding them together",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts bamboo slips strung together -> represents a form made by lining up pieces of wood and binding them together",
-    "interpretation": "This character 昔(昔) (xié, \"now obsolete\"), depicted bamboo slips tied together, a common method for creating books or records in ancient China.",
-    "simplification": "册(冊) is a variant form derived as a stylized representation of the traditional 冊(冊), retaining the same layout but with simplified strokes."
+    "description": "Depicts bamboo slips strung together -> books; documents",
+    "interpretation": "The character 冊(cè, 'a form made by lining up pieces of wood and binding them together') represents bamboo slips tied together with string, symbolizing early forms of books or documents compiled in this manner.",
+    "simplification": "冊 was simplified to 册 by removing interior strokes, forming a more straightforward and less intricate version."
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "师傅将木片整齐排列(師傅將木片整齊排列)，合成了一冊申请表(合成了一冊申請表)。",
-      "pinyin": "Shīfù jiāng mùpiàn zhěngqí páiliè, héchéngle yī cè shēnqǐngbiǎo.",
-      "english": "The master neatly arranged the wood pieces and combined them into a form for applications."
+      "chinese": "这本书共有五冊(這本書共有五冊)。",
+      "pinyin": "Zhè běn shū gòngyǒu wǔ cè.",
+      "english": "This book consists of five volumes."
     },
     {
-      "chinese": "古代官员用木片制冊(古代官員用木片製冊)，登记户籍(登記戶籍)。",
-      "pinyin": "Gǔdài guānyuán yòng mùpiàn zhì cè, dēngjì hùjí.",
-      "english": "In ancient times, officials used wood pieces to make forms for recording households."
+      "chinese": "古代的册子(古代的冊子)是用竹片制作的。",
+      "pinyin": "Gǔdài de cèzi shì yòng zhúpiàn zhìzuò de.",
+      "english": "Ancient booklets were made using bamboo strips."
     },
     {
-      "chinese": "图书馆保存着一本古老的冊(圖書館保存著一本古老的冊)，记载着地方风俗(記載著地方風俗)。",
-      "pinyin": "Túshūguǎn bǎocún zhe yī běn gǔlǎo de cè, jìzǎi zhe dìfāng fēngsú.",
-      "english": "The library preserves an ancient form that records local customs."
+      "chinese": "他在研究一件古老的册(他在研究一件古老的冊)。",
+      "pinyin": "Tā zài yánjiū yī jiàn gǔlǎo de cè.",
+      "english": "He is studying an ancient tome."
     }
   ]
 }

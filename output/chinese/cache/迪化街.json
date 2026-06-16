@@ -5,8 +5,8 @@
   "english": "Dihua Street, Taipei",
   "etymology": {
     "type": "compound word",
-    "description": "迪(迪) (dí, \"enlighten\") + 化(化) (huà, \"transform\") = an enlightened transformation or progress; 街(街) (jiē, \"street\") refers to a physical street.",
-    "interpretation": "迪化街 is a historical street in Taipei, known for its rich cultural and architectural heritage. The name suggests a place associated with progress and transformation, fitting given its historical role as an important commercial hub.",
+    "description": "迪(dí, \"enlighten; illuminate\") 化(huà, \"transform; change\") 街(jiē, \"street\")",
+    "interpretation": "迪(迪) (dí, \"enlighten; illuminate\") here suggests guidance or forward movement. 化(化) (huà, \"transform; change\") can imply transformation or cultural development. This reflects the street's historical significance as a center of commerce and cultural exchange in Taipei. 街(街) (jiē, \"street\") signifies the physical location. The name evokes an image of a place where people are guided and cultures transform, emphasizing its role as a vibrant commercial hub.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "迪",
       "trad": "迪",
       "pinyin": "dí",
-      "english": "enlighten; progress; guide"
+      "english": "enlighten; illuminate"
     },
     {
       "char": "化",
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在迪化街(我在迪化街)。",
-      "pinyin": "Wǒ zài Díhuà Jiē.",
-      "english": "I am at Dihua Street."
+      "chinese": "迪化街(迪化街)是一个充满文化的地方(是一個充滿文化的地方)。",
+      "pinyin": "Díhuà Jiē shì yí gè chōngmǎn wénhuà de dìfāng.",
+      "english": "Dihua Street is a place full of culture."
     },
     {
-      "chinese": "迪化街拥有传统建筑(迪化街擁有傳統建築)，吸引许多游客(吸引許多遊客)。",
-      "pinyin": "Díhuà Jiē yōngyǒu chuántǒng jiànzhù, xīyǐn xǔduō yóukè.",
-      "english": "Dihua Street boasts traditional architecture and attracts many visitors."
+      "chinese": "我喜欢在迪化街(我喜歡在迪化街)购买传统草药(購買傳統草藥)。",
+      "pinyin": "Wǒ xǐhuān zài Díhuà Jiē gòumǎi chuántǒng cǎoyào.",
+      "english": "I like to buy traditional herbs at Dihua Street."
     },
     {
-      "chinese": "夜幕降临(夜幕降臨)，迪化街熠熠生辉(迪化街熠熠生輝)。",
-      "pinyin": "Yèmù jiànglín, Díhuà Jiē yìyì shēnghuī.",
-      "english": "At nightfall, Dihua Street shines brilliantly."
+      "chinese": "每年春节时(每年春節時)，迪化街(迪化街)都非常热闹(都非常熱鬧)。",
+      "pinyin": "Měinián chūnjié shí, Díhuà Jiē dōu fēicháng rènào.",
+      "english": "During the Spring Festival every year, Dihua Street is always very lively."
     }
   ]
 }

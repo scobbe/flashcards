@@ -5,8 +5,8 @@
   "english": "three-stringed Chinese lute used in Pingtan",
   "etymology": {
     "type": "compound word",
-    "description": "三(三) (sān, \"three\") + 弦(弦) (xián, \"string\")",
-    "interpretation": "The word 三弦(三弦) (sānxián, \"three-stringed lute\") refers to a traditional Chinese musical instrument with three strings. It is often used in the storytelling art form known as Pingtan, popular in the Jiangsu and Zhejiang provinces.",
+    "description": "三(三) (sān, \"three\"), 弦(弦) (xián, \"string\")",
+    "interpretation": "The word 三弦 (sānxián) literally describes a musical instrument with 'three strings'. The numeral 三 (sān, \"three\") specifies the number of strings on the instrument, while 弦 (xián, \"string; chord\") denotes the part of the lute that produces sound. This particular lute, used in traditional Chinese music like Pingtan, emphasizes the design feature of having exactly three strings, distinguishing it from other string instruments.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "弦",
       "trad": "弦",
       "pinyin": "xián",
-      "english": "string"
+      "english": "string; chord"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他听三弦的旋律陶醉(他聽三弦的旋律陶醉)。",
-      "pinyin": "Tā tīng sānxián de xuànlǜ táozuì.",
-      "english": "He becomes enchanted by the melody of the three-stringed lute."
+      "chinese": "他正在学习演奏三弦(他正在學習演奏三弦)。",
+      "pinyin": "Tā zhèngzài xuéxí yǎnzòu sānxián.",
+      "english": "He is learning to play the three-stringed lute."
     },
     {
-      "chinese": "在评弹表演中(在評彈表演中)，艺人弹奏三弦伴奏(藝人彈奏三弦伴奏)。",
-      "pinyin": "Zài píngtán biǎoyǎn zhōng, yìrén dànzòu sānxián bànzòu.",
-      "english": "During the Pingtan performance, the artist plays the three-stringed lute to accompany the show."
+      "chinese": "三弦的声音优美动人(三弦的聲音優美動人)。",
+      "pinyin": "Sānxián de shēngyīn yōuměi dòngrén.",
+      "english": "The sound of the three-stringed lute is beautiful and moving."
     },
     {
-      "chinese": "古时的文人常以三弦为乐器(古時的文人常以三弦為樂器)。",
-      "pinyin": "Gǔshí de wénrén cháng yǐ sānxián wéi yuèqì.",
-      "english": "In ancient times, scholars often used the three-stringed lute as a musical instrument."
+      "chinese": "在苏州，他们常用三弦演奏评弹(在蘇州，他們常用三弦演奏評彈)。",
+      "pinyin": "Zài Sūzhōu, tāmen cháng yòng sānxián yǎnzòu píngtán.",
+      "english": "In Suzhou, they often use the three-stringed lute to perform Pingtan."
     }
   ]
 }

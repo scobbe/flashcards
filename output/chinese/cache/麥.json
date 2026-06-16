@@ -4,17 +4,17 @@
   "pinyin": "mài",
   "english": "wheat",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Phonetic: 來(來) (lái, \"come\") + Semantic: 夊(夊) (suī, \"footprint pointing down; to walk slowly\") -> original character for wheat; changed from original 來(來) \"wheat\" after 來(來) was phonetically borrowed to mean \"come\" -> 麥(麥) final form to specifically mean \"wheat\"",
-    "interpretation": "The character 麥(麥) evolved to distinguish itself from 來(來), which was phonetically borrowed to mean \"to come,\" and retained the original meaning of \"wheat.\" The semantic element 夊(夊) signifies the growth process of the wheat plant.",
-    "simplification": "The simplified form 麦(麥) resulted from a simplification process where 八(八) was corrupted into a single horizontal stroke to ease writing."
+    "type": "phono-semantic compound",
+    "description": "phonetic 來 (lái, originally 'wheat') + semantic 夊 (footprint pointing down; to walk slowly) -> wheat differentiation from 來",
+    "interpretation": "The character 麥(mài, 'wheat') originally developed from 來(lái, 'to come'), which was borrowed phonetically. The component 夊, depicting slow movement or growth, represents the growth of the wheat plant. As 來 shifted to mean 'to come,' 麥 took on the specific meaning of 'wheat' to differentiate from its original form.",
+    "simplification": "The character 麦(麦) is a simplification where 八(bā, 'eight') was altered into a horizontal stroke, reducing the stroke count."
   },
   "parts": [
     {
       "char": "來",
       "trad": "來",
       "pinyin": "lái",
-      "english": "come"
+      "english": "to come"
     },
     {
       "char": "夊",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "农民在田里收割麦子(農民在田裡收割麥子)。",
-      "pinyin": "Nóngmín zài tián lǐ shōugē mài zi.",
-      "english": "The farmers harvest the wheat in the field."
+      "chinese": "這片田裡種滿了小麥(這片田裡種滿了小麥)。",
+      "pinyin": "Zhè piàn tián lǐ zhòng mǎnle xiǎo mài.",
+      "english": "This field is full of wheat."
     },
     {
-      "chinese": "夏日来临时(夏日來臨時)，麦穗低垂(麥穗低垂)。",
-      "pinyin": "Xiàrì láilín shí, mài suì dīchuí.",
-      "english": "When summer arrives, the wheat spikes droop."
+      "chinese": "農夫正在收割成熟的麥子(農夫正在收割成熟的麥子)。",
+      "pinyin": "Nóngfū zhèng zài shōugē chéngshú de mài zi.",
+      "english": "The farmer is harvesting the ripe wheat."
+    },
+    {
+      "chinese": "麥子成熟後(麥子成熟後)，景色特別美麗(景色特別美麗)。",
+      "pinyin": "Màizi chéngshú hòu, jǐngsè tèbié měilì.",
+      "english": "After the wheat ripens, the scenery is especially beautiful."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "assemble",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "隹(隹) (zhuī, \"bird\") + 木(木) (mù, \"tree\") = birds gathering on a tree",
-    "interpretation": "The character 集(jí, \"assemble\") visually represents birds, 隹(隹) (zhuī, \"bird\"), gathering on a tree, 木(木) (mù, \"tree\"), symbolizing the act of assembling or gathering together. This image effectively conveys the meaning of assembling similar to how birds might congregate in trees.",
+    "description": "隹(隹) (zhuī, \"bird\") + 木(木) (mù, \"tree\") = birds gathering on a tree -> assemble",
+    "interpretation": "The character 集(jí, \"assemble\") depicts birds resting on a tree, which intuitively represents gathering or assembling. This image of multiple birds converging on a single tree naturally leads to the sense of collecting or assembling together.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "军队在黎明时分集结(軍隊在黎明時分集結)。",
-      "pinyin": "Jūnduì zài límíng shífēn jíjié.",
-      "english": "The troops assembled at dawn."
+      "chinese": "我们在公司门口集合(我們在公司門口集合)。",
+      "pinyin": "Wǒmen zài gōngsī ménkǒu jíhé.",
+      "english": "We assemble at the company entrance."
     },
     {
-      "chinese": "居民们在公园里集会(居民們在公園裡集會)。",
-      "pinyin": "Jūmín men zài gōngyuán lǐ jíhuì.",
-      "english": "The residents assembled in the park."
+      "chinese": "书籍是人类智慧的结晶(書籍是人類智慧的結晶)。",
+      "pinyin": "Shūjí shì rénlèi zhìhuì de jiéjīng.",
+      "english": "Books are the crystallization of human wisdom."
     },
     {
-      "chinese": "艺术家们将各自的作品集成一本画册(藝術家們將各自的作品集成一本畫冊)。",
-      "pinyin": "Yìshùjiā men jiāng gèzì de zuòpǐn jíchéng yī běn huàcè.",
-      "english": "The artists compiled their works into a picture book."
+      "chinese": "他们每天在操场上集合(他們每天在操場上集合)，准备训练(準備訓練)。",
+      "pinyin": "Tāmen měitiān zài cāochǎng shàng jíhé, zhǔnbèi xùnliàn.",
+      "english": "They assemble on the field every day, ready to train."
     }
   ]
 }

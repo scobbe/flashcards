@@ -5,8 +5,8 @@
   "english": "Chinese knot",
   "etymology": {
     "type": "compound word",
-    "description": "中(中) (zhōng, \"middle\") + 国(國) (guó, \"country\") + 结(結) (jié, \"knot\")",
-    "interpretation": "中国结(中國結) (zhōngguó jié, \"Chinese knot\") refers to the traditional decorative knotting art from China, symbolizing unity, harmony, and eternity. These knots often serve as cultural symbols and are popular in art, fashion, and festivals.",
+    "description": "中(中) (zhōng, \"middle; center\") + 國(國) (guó, \"country; nation\") + 結(結) (jié, \"knot; tie\") = traditional decorative knot with cultural significance originating from China.",
+    "interpretation": "The name 中國(zhōngguó, \"China\") couples with 結(jié, \"knot\") to denote a type of knot uniquely characteristic or originating from Chinese culture. The intricate designs of these knots often symbolize unity, prosperity, and harmony, with the concept of tying playing a significant role in Chinese tradition.",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,37 @@
       "char": "中",
       "trad": "中",
       "pinyin": "zhōng",
-      "english": "middle; center; China"
+      "english": "middle; center"
     },
     {
-      "char": "国",
+      "char": "國",
       "trad": "國",
       "pinyin": "guó",
       "english": "country; nation"
     },
     {
-      "char": "结",
+      "char": "結",
       "trad": "結",
       "pinyin": "jié",
-      "english": "knot; tie; bond"
+      "english": "knot; tie"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个中国结很精美(這個中國結很精美)。",
-      "pinyin": "Zhège Zhōngguó jié hěn jīngměi.",
-      "english": "This Chinese knot is exquisite."
+      "chinese": "中国结(中國結)是一种传统的装饰品(是一種傳統的裝飾品)。",
+      "pinyin": "Zhōngguó jié shì yī zhǒng chuántǒng de zhuāngshì pǐn.",
+      "english": "The Chinese knot is a type of traditional decoration."
     },
     {
-      "chinese": "她佩戴中国结(她佩戴中國結)，庆祝节日(慶祝節日)。",
-      "pinyin": "Tā pèidài Zhōngguó jié, qìngzhù jiérì.",
-      "english": "She wears a Chinese knot to celebrate the festival."
+      "chinese": "我买了一个漂亮的中国结(我買了一個漂亮的中國結)。",
+      "pinyin": "Wǒ mǎi le yī gè piàoliang de zhōngguó jié.",
+      "english": "I bought a beautiful Chinese knot."
     },
     {
-      "chinese": "老师讲述中国结的故事(老師講述中國結的故事)，引来学生的兴趣(引來學生的興趣)。",
-      "pinyin": "Lǎoshī jiǎngshù Zhōngguó jié de gùshì, yǐnlái xuéshēng de xìngqù.",
-      "english": "The teacher told the story of the Chinese knot, arousing the students' interest."
+      "chinese": "他将中国结挂在门上(他將中國結掛在門上)，寓意吉祥(寓意吉祥)。",
+      "pinyin": "Tā jiāng zhōngguó jié guà zài mén shàng, yùyì jíxiáng.",
+      "english": "He hangs the Chinese knot on the door, symbolizing good fortune."
     }
   ]
 }

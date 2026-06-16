@@ -5,8 +5,8 @@
   "english": "imagination; imagine",
   "etymology": {
     "type": "compound word",
-    "description": "想(想) (xiǎng, \"think\") combined with 象(像) (xiàng, \"image\") to express the concept of forming mental images or envisioning something in the mind.",
-    "interpretation": "The word 想象(想像) (xiǎngxiàng, \"imagination; imagine\") brings together the concepts of thinking and forming images, conveying the idea of creating or conceiving mental pictures.",
+    "description": "The word 想像 (xiǎngxiàng) consists of two characters: 想(想) (xiǎng, \"think; miss; want\") and 像(像) (xiàng, \"image; resemble\"). 想(想) represents the act of thinking or forming concepts in the mind, while 像(像) refers to images or likenesses, which are the mental representations created in the process of imagination.",
+    "interpretation": "To imagine is to 'think' (想(想)) and create or invoke 'images' (像(像)) in the mind. The core idea of 想(想), 'thinking', connects with the visual elements and similarity of 'image' (像(像)); together, these form the act of creating mental pictures or scenarios by using one's cognitive faculties. Thus, 'imagination' signifies this mental creation and visualization, composed through these elements in our thinking process.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "想",
       "trad": "想",
       "pinyin": "xiǎng",
-      "english": "think; ponder; consider; want"
+      "english": "think; miss; want"
     },
     {
-      "char": "象",
+      "char": "像",
       "trad": "像",
       "pinyin": "xiàng",
-      "english": "image; likeness; elephant; phenomenon"
+      "english": "image; resemble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他喜欢想象未来(他喜歡想像未來)，描绘梦想蓝图(描繪夢想藍圖)。",
-      "pinyin": "Tā xǐhuān xiǎngxiàng wèilái, miáohuì mèngxiǎng lántú.",
-      "english": "He enjoys imagining the future and sketching a blueprint of his dreams."
+      "chinese": "孩子们的想象力很丰富(孩子們的想像力很豐富)。",
+      "pinyin": "Háizimen de xiǎngxiànglì hěn fēngfù.",
+      "english": "Children's imaginations are very rich."
     },
     {
-      "chinese": "孩子们沉浸在故事里(孩子們沉浸在故事裡)，尽情想象奇妙世界(盡情想像奇妙世界)。",
-      "pinyin": "Háizimen chénjìn zài gùshì lǐ, jìnqíng xiǎngxiàng qímiào shìjiè.",
-      "english": "Children are immersed in stories and unabashedly imagine a magical world."
+      "chinese": "通过阅读小说(通過閱讀小說)，我们可以进入不同的想象世界(我們可以進入不同的想像世界)。",
+      "pinyin": "Tōngguò yuèdú xiǎoshuō, wǒmen kěyǐ jìnrù bùtóng de xiǎngxiàng shìjiè.",
+      "english": "Through reading novels, we can enter different worlds of imagination."
     },
     {
-      "chinese": "夜深人静时(夜深人靜時)，他常在心中想象童年时光(他常在心中想像童年時光)。",
-      "pinyin": "Yè shēn rénjìng shí, tā cháng zài xīnzhōng xiǎngxiàng tóngnián shíguāng.",
-      "english": "When the night is deep and quiet, he often imagines the times of his childhood in his heart."
+      "chinese": "在艺术创作中(在藝術創作中)，想象力是非常重要的(想像力是非常重要的)。",
+      "pinyin": "Zài yìshù chuàngzuò zhōng，xiǎngxiànglì shì fēicháng zhòngyào de.",
+      "english": "In artistic creation, imagination is very important."
     }
   ]
 }

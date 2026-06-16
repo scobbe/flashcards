@@ -5,16 +5,16 @@
   "english": "topic; subject; title",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 是(是) (shì) + Semantic: 頁(頁) (yè, \"head\") = represents 'forehead' -> elaborated to mean 'topic; heading'",
-    "interpretation": "The character 題(題) integrates 是(是) (shì, \"is\") as the phonetic component and 頁(頁) (yè, \"head\") as the semantic component, hinting at the idea of referring to something conceptual on a 'figurative forehead'. Over time it evolved to mean 'topic' or 'title'.",
-    "simplification": "The character 題(題) was simplified to 题 by replacing 頁(頁) with its simplified form 页(页), reducing the number of strokes while maintaining the phonetic component 是(是)."
+    "description": "phonetic 是(是) (shì) + semantic 頁(頁) (yè, \"head\") -> \"forehead\"",
+    "interpretation": "The traditional character 題 combines the phonetic element 是(是) (shì) for its sound with the semantic element 頁(頁) (yè, \"head\") to denote the 'forehead'. The notion of 'forehead' relates to the front or main part of the head, leading to the meaning 'title' or 'subject,' as these are forefront considerations.",
+    "simplification": "Simplified from 題 by replacing 頁(頁) (yè, \"head\") with 页(頁), reducing stroke count while retaining the sound element 是(是) (shì)."
   },
   "parts": [
     {
       "char": "是",
       "trad": "是",
       "pinyin": "shì",
-      "english": "is"
+      "english": "is; yes; correct"
     },
     {
       "char": "頁",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师给我们布置了一道有趣的题(老師給我們佈置了一道有趣的題)。",
-      "pinyin": "Lǎoshī gěi wǒmen bùzhìle yī dào yǒuqù de tí.",
-      "english": "The teacher assigned us an interesting topic."
+      "chinese": "这次考试的题很难(這次考試的題很難)。",
+      "pinyin": "Zhè cì kǎoshì de tí hěn nán.",
+      "english": "The exam topics this time are difficult."
     },
     {
-      "chinese": "面对复杂的题(面對複雜的題)，他显得有些不知所措(他顯得有些不知所措)。",
-      "pinyin": "Miànduì fùzá de tí, tā xiǎndé yǒuxiē bù zhī suǒ cuò.",
-      "english": "Faced with the complex subject, he seemed a bit overwhelmed."
+      "chinese": "老师让我们准备五个题目(老師讓我們準備五個題目)。",
+      "pinyin": "Lǎoshī ràng wǒmen zhǔnbèi wǔ gè tímù.",
+      "english": "The teacher asked us to prepare five topics."
     },
     {
-      "chinese": "这篇文章的题很吸引人(這篇文章的題很吸引人)。",
-      "pinyin": "Zhè piān wénzhāng de tí hěn xīyǐn rén.",
-      "english": "The title of this article is very captivating."
+      "chinese": "他喜欢写与科学相关的题材(他喜歡寫與科學相關的題材)。",
+      "pinyin": "Tā xǐhuān xiě yǔ kēxué xiāngguān de tícái.",
+      "english": "He likes to write about topics related to science."
     }
   ]
 }

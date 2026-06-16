@@ -5,8 +5,8 @@
   "english": "neighbor",
   "etymology": {
     "type": "compound word",
-    "description": "鄰(邻) (lín, \"neighboring\") refers to something that is adjacent or next to something else. 居(居) (jū, \"reside\") means to live or dwell in a place.",
-    "interpretation": "鄰(邻) (lín, \"neighboring\") combined with 居(居) (jū, \"reside\") creates the concept of a 'neighbor,' which refers to people residing in adjacent or nearby homes.",
+    "description": "邻(鄰) (lín, \"neighbor\") originally depicted ears of grain stacked close together, illustrating proximity. 居(居) (jū, \"live\") shows a person under a roof, representing habitation.",
+    "interpretation": "鄰(鄰) (lín, \"neighbor\") reflects people or homes situated close to one another, similar to how stacked grain ears are adjacent. 居(居) (jū, \"live\") indicates a place of residence. Together, 鄰居 (línjū, \"neighbor\") describes those who live nearby in relation to one's home.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "邻",
       "trad": "鄰",
       "pinyin": "lín",
-      "english": "neighboring; adjacent"
+      "english": "neighbor"
     },
     {
       "char": "居",
       "trad": "居",
       "pinyin": "jū",
-      "english": "reside; live; dwell"
+      "english": "live; dwell; reside"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的邻居很友好(我的鄰居很友好)。",
-      "pinyin": "Wǒ de línjū hěn yǒuhǎo.",
-      "english": "My neighbor is very friendly."
+      "chinese": "我的邻居(我的鄰居)每天早上都遛狗(每天早上都遛狗)。",
+      "pinyin": "Wǒ de línjū měitiān zǎoshang dōu liù gǒu.",
+      "english": "My neighbor walks the dog every morning."
     },
     {
-      "chinese": "我们经常和邻居一起聊天(我們經常和鄰居一起聊天)。",
-      "pinyin": "Wǒmen jīngcháng hé línjū yīqǐ liáotiān.",
-      "english": "We often chat with our neighbor."
+      "chinese": "新来的邻居(新來的鄰居)很友好(很友好)，我们常常一起聊天(我們常常一起聊天)。",
+      "pinyin": "Xīn lái de línjū hěn yǒuhǎo, wǒmen chángcháng yìqǐ liáotiān.",
+      "english": "The new neighbor is very friendly, and we often chat together."
     },
     {
-      "chinese": "邻居家的小狗很可爱(鄰居家的小狗很可愛)。",
-      "pinyin": "Línjū jiā de xiǎogǒu hěn kě'ài.",
-      "english": "The neighbor's puppy is very cute."
+      "chinese": "邻居家的孩子(鄰居家的孩子)每天都在院子里玩耍(每天都在院子裡玩耍)。",
+      "pinyin": "Línjū jiā de háizi měitiān dōu zài yuànzi lǐ wánshuǎ.",
+      "english": "The neighbor's children play in the yard every day."
     }
   ]
 }

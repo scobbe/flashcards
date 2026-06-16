@@ -5,34 +5,34 @@
   "english": "member",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "〇 (top edge of a 鼎(dǐng, \"ding\")) indicating roundness -> round object -> member",
-    "interpretation": "The character 員(員) (yuán, \"member\") originally depicts the top edge of a 鼎(鼎) (dǐng, \"cauldron\"), highlighting roundness. Over time, it came to denote a \"member\" as in a group, signifying a unit within a larger structured whole.",
-    "simplification": "员(員): 貝(貝) (bèi, \"cowry\") was simplified to 贝(貝), reducing strokes while keeping the phonetic 口(口) (kǒu, \"mouth\")."
+    "description": "〇 representing top edge of 鼎 (dǐng, \"ding\") -> roundness -> member",
+    "interpretation": "〇 indicates the top edge of a 鼎 (dǐng, \"ding\") representing roundness, which metaphorically connects to the idea of a group of members forming a unified whole.",
+    "simplification": "員(員): 貝(貝) (bèi, \"cowry\") was simplified to 贝(貝) in the character 員 to form the simplified character 员, which visually reduces the strokes."
   },
   "parts": [
     {
       "char": "鼎",
       "trad": "鼎",
       "pinyin": "dǐng",
-      "english": "cauldron"
+      "english": "ding"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公司重视每一位员工(公司重視每一位員工)。",
-      "pinyin": "Gōngsī zhòngshì měi yī wèi yuángōng.",
-      "english": "The company values every employee."
+      "chinese": "他是一名团队成员(他是一名團隊成員)。",
+      "pinyin": "Tā shì yī míng tuánduì chéngyuán.",
+      "english": "He is a member of the team."
     },
     {
-      "chinese": "他是团队的核心成员(他是團隊的核心成員)，总是提出好点子(總是提出好點子)。",
-      "pinyin": "Tā shì tuánduì de héxīn chéngyuán, zǒng shì tíchū hǎo diǎnzi.",
-      "english": "He is a core member of the team and always comes up with good ideas."
+      "chinese": "公司需要招募新员工(公司需要招募新員工)。",
+      "pinyin": "Gōngsī xūyào zhāomù xīn yuángōng.",
+      "english": "The company needs to recruit new members of staff."
     },
     {
-      "chinese": "俱乐部新录取了一位优秀的会员(俱樂部新錄取了一位優秀的會員)。",
-      "pinyin": "Jùlèbù xīn lùqǔ le yī wèi yōuxiù de huìyuán.",
-      "english": "The club has newly admitted an outstanding member."
+      "chinese": "俱乐部的所有成员都喜欢运动(俱樂部的所有成員都喜歡運動)。",
+      "pinyin": "Jùlèbù de suǒyǒu chéngyuán dōu xǐhuān yùndòng.",
+      "english": "All the members of the club like sports."
     }
   ]
 }

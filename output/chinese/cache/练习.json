@@ -5,40 +5,40 @@
   "english": "practice",
   "etymology": {
     "type": "compound word",
-    "description": "练(練) (liàn, \"to practice\") refers to the act of training or honing a skill through repetition. 习(習) (xí, \"to study; practice\") denotes learning or developing proficiency in an activity. Together, 练习(練習) (liànxí) means \"practice\" in the sense of engaging in activities to improve skill through repetition and learning.",
-    "interpretation": "练习(練習) (liànxí, \"practice\") emphasizes the combination of active training and study to achieve mastery or proficiency in various skills. The individual elements highlight both the repetitive act and the learning process critical to practice.",
-    "simplification": "练(練): 纟 (silk radical) + 柬 (cards); simplification involves removing strokes."
+    "description": "練(練) (liàn, \"practice; refine\") means to practice or train, often implying the refining or improving of skills. 習(習) (xí, \"practice; habit\") involves repetition or habit, often employed in the context of learning something through regular repetition.",
+    "interpretation": "練(練) (liàn, \"practice; refine\") conveys the idea of honing skills through disciplined training, likened to refining raw materials into something more valuable. 習(習) (xí, \"practice; habit\") emphasizes the repetitive aspect, akin to mastering a skill through regular use which becomes habitual. Thus, 練習(練習) (liànxí, \"practice\") combines the ideas of active training and repetitive learning, resulting in the improvement and internalization of skills.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "练",
       "trad": "練",
       "pinyin": "liàn",
-      "english": "practice; train; exercise"
+      "english": "practice; refine"
     },
     {
       "char": "习",
       "trad": "習",
       "pinyin": "xí",
-      "english": "study; practice; learn; become familiar with"
+      "english": "practice; habit"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天练习英语(我每天練習英語)。",
-      "pinyin": "Wǒ měitiān liànxí yīngyǔ.",
-      "english": "I practice English every day."
+      "chinese": "每天练习是提高技能的关键(每天練習是提高技能的關鍵)。",
+      "pinyin": "Měitiān liànxí shì tígāo jìnéng de guānjiàn.",
+      "english": "Practicing every day is key to improving skills."
     },
     {
-      "chinese": "老师建议我们先温习课文(老師建議我們先溫習課文)，再练习发音(再練習發音)。",
-      "pinyin": "Lǎoshī jiànyì wǒmen xiān wēnxí kèwén, zài liànxí fāyīn.",
-      "english": "The teacher suggested that we first review the text, then practice our pronunciation."
+      "chinese": "她在为比赛认真练习(她在為比賽認真練習)。",
+      "pinyin": "Tā zài wèi bǐsài rènzhēn liànxí.",
+      "english": "She is practicing diligently for the competition."
     },
     {
-      "chinese": "练习使人进步(練習使人進步)。",
-      "pinyin": "Liànxí shǐ rén jìnbù.",
-      "english": "Practice makes perfect."
+      "chinese": "孩子们喜欢在放学后练习钢琴(孩子們喜歡在放學後練習鋼琴)。",
+      "pinyin": "Háizimen xǐhuān zài fàngxué hòu liànxí gāngqín.",
+      "english": "The children like to practice piano after school."
     }
   ]
 }

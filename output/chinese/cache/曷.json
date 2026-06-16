@@ -2,25 +2,25 @@
   "simplified": "曷",
   "traditional": "曷",
   "pinyin": "hē",
-  "english": "",
+  "english": "why, what",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 匃(匃) (gài, 'beg') + semantic 曰(曰) (yuē, 'say')",
-    "interpretation": "The character 曷(hē, '') combines 匃(gài, 'beg'), which provides the phonetic component, with 曰(yuē, 'say'), adding a semantic layer related to speaking or questioning. It was used in classical Chinese to indicate 'why' or 'how,' often in the context of questioning.",
+    "description": "semantic 曰 (yuē, 'say') + phonetic 匃 (gài) -> meaning",
+    "interpretation": "The character 曷(hē, 'why, what') combines the semantic element 曰(yuē, 'say') with the phonetic element 匃(gài). The semantic part suggests an interrogative aspect, as if questioning speech or something said. Thus, it forms the basis for meanings like 'why' and 'what' that indicate inquiries or questioning.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "匃",
-      "trad": "匃",
-      "pinyin": "gài",
-      "english": "beg"
-    },
     {
       "char": "曰",
       "trad": "曰",
       "pinyin": "yuē",
       "english": "say"
+    },
+    {
+      "char": "匃",
+      "trad": "匃",
+      "pinyin": "gài",
+      "english": "empty vessel"
     }
   ],
   "in_contemporary_usage": false,

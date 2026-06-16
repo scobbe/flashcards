@@ -5,8 +5,8 @@
   "english": "really; truly",
   "etymology": {
     "type": "compound word",
-    "description": "真(真) (zhēn, \"real; true\") + 的(的) (de, \"of; possessive particle\") = expresses the quality of being genuine or true -> really or truly.",
-    "interpretation": "The word combines 真(真) (zhēn, \"real; true\") with 的(的) (de, \"of; possessive particle\") to emphasize the truth or genuineness of an assertion or statement.",
+    "description": "真(真) (zhēn, \"real; true\") refers to something that is genuine or authentic. 的(的) (de, \"a grammatical marker\") functions as a particle that often indicates possession or forms an adjectival phrase.",
+    "interpretation": "真(真) (zhēn, \"real; true\") coupled with 的(的) (de, \"a grammatical marker\") creates an expression emphasizing the authenticity or truth of a statement. By using 真(真) to indicate something genuine, the addition of 的(的) turns the word into an adverbial phrase used to assert the truthfulness of a claim or fact in a sentence, leading to meanings like 'really' or 'truly'.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "真",
       "trad": "真",
       "pinyin": "zhēn",
-      "english": "real; true"
+      "english": "real; true; genuine; authentic"
     },
     {
       "char": "的",
       "trad": "的",
       "pinyin": "de",
-      "english": "of; possessive particle"
+      "english": "grammatical particle; marking possession/adjective"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我真的很高兴(我真的很高興)。",
-      "pinyin": "Wǒ zhēn de hěn gāoxìng.",
-      "english": "I am really happy."
+      "chinese": "这件事真的很重要(這件事真的很重要)。",
+      "pinyin": "Zhè jiàn shì zhēn de hěn zhòngyào.",
+      "english": "This matter is really important."
     },
     {
-      "chinese": "她真的喜欢这本书(她真的喜歡這本書)，因为它非常有趣(因為它非常有趣)。",
-      "pinyin": "Tā zhēn de xǐhuān zhè běn shū, yīnwèi tā fēicháng yǒuqù.",
-      "english": "She really likes this book because it is very interesting."
+      "chinese": "我真的不知道怎么办(我真的不知道怎麼辦)。",
+      "pinyin": "Wǒ zhēn de bù zhīdào zěnme bàn.",
+      "english": "I really don't know what to do."
+    },
+    {
+      "chinese": "你真的相信他吗(你真的相信他嗎)？",
+      "pinyin": "Nǐ zhēn de xiāngxìn tā ma?",
+      "english": "Do you really trust him?"
     }
   ]
 }

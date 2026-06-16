@@ -1,0 +1,44 @@
+{
+  "simplified": "孫子",
+  "traditional": "孫子",
+  "pinyin": "Sūnzǐ",
+  "english": "Master Sun",
+  "etymology": {
+    "type": "compound word",
+    "description": "孫(孫) (sūn, \"grandson\") + 子(子) (zǐ, \"master; child\"): The term can refer to Sun Tzu (Sūnzǐ, \"Master Sun\"), the author of The Art of War, an ancient Chinese military treatise.",
+    "interpretation": "Sun Tzu, historically known as Sūnzǐ (孫子), amalgamates the meaning of 'descendant' or 'grandson' (孫) implying lineage and heritage, with 'master' (子), denoting his revered status and intellectual stature in military strategy. The combination suggests not only lineage but also implies respect, similar to calling someone 'Master Smith' in English. In full, it marks Sun Tzu as an esteemed figure in Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "孫",
+      "trad": "孫",
+      "pinyin": "sūn",
+      "english": "grandson"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "master; child"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": [
+    {
+      "chinese": "孫子兵法(孫子兵法)是一本关于战争策略的书(是一本關於戰爭策略的書)。",
+      "pinyin": "Sūnzǐ Bīngfǎ shì yī běn guānyú zhànzhēng cèlüè de shū.",
+      "english": "The Art of War by Master Sun is a book about military strategy."
+    },
+    {
+      "chinese": "很多人认为孫子的智慧(很多人認為孫子的智慧)，仍然适用于现代社会(仍然適用於現代社會)。",
+      "pinyin": "Hěn duō rén rènwéi Sūnzǐ de zhìhuì, réngrán shìyòng yú xiàndài shèhuì.",
+      "english": "Many people believe that the wisdom of Master Sun is still applicable in modern society."
+    },
+    {
+      "chinese": "孫子是一位古代的军事战略家(孫子是一位古代的軍事戰略家)。",
+      "pinyin": "Sūnzǐ shì yī wèi gǔdài de jūnshì zhànlüèjiā.",
+      "english": "Master Sun was an ancient military strategist."
+    }
+  ]
+}

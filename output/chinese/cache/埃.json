@@ -5,9 +5,9 @@
   "english": "dust; angstrom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 土(土) (tǔ, \"earth; soil\") + phonetic 矣(矣) (yǐ) -> dust; angstrom",
-    "interpretation": "The character 埃(埃) (āi, \"dust\") combines 土(土) (tǔ, \"earth; soil\") to represent the idea of something related to the ground, with 矣(矣) (yǐ) functioning as a phonetic component to indicate pronunciation. The pairing suggests a small particle or angstrom, embodying the concept of dust as minute earth particles.",
-    "simplification": "埃 is the simplified and most commonly used form of the character, derived directly to function in modern contexts without further simplification."
+    "description": "semantic 土(土) (tǔ, \"earth; soil\") + phonetic 矣(矣) (yǐ) -> dust",
+    "interpretation": "The character 埃(埃) combines the semantic element 土(土) (tǔ, \"earth; soil\"), indicating a connection to earth or material substances, with 矣(矣) (yǐ) as the phonetic component, which does not carry meaning here but provides the pronunciation. The meaning 'dust' relates directly to fine particles originating from soil or ground.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -20,25 +20,20 @@
       "char": "矣",
       "trad": "矣",
       "pinyin": "yǐ",
-      "english": ""
+      "english": "final particle"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "一层薄薄的埃覆盖了家具(一層薄薄的埃覆蓋了傢俱)。",
-      "pinyin": "Yī céng báo báo de āi fùgài le jiājù.",
-      "english": "A thin layer of dust covered the furniture."
+      "chinese": "房间里满是灰尘(房間裡滿是灰塵)，桌子上覆盖了一层厚厚的埃(桌子上覆蓋了一層厚厚的埃)。",
+      "pinyin": "Fángjiān lǐ mǎn shì huīchén，zhuōzi shàng fùgài le yī céng hòuhòu de āi.",
+      "english": "The room is full of dust, and the table is covered with a thick layer of dust."
     },
     {
-      "chinese": "他用抹布擦掉书架上的埃(他用抹布擦掉書架上的埃)。",
-      "pinyin": "Tā yòng mābù cā diào shūjià shàng de āi.",
-      "english": "He wiped off the dust on the bookshelf with a cloth."
-    },
-    {
-      "chinese": "科学家使用埃作为长度单位来测量(科學家使用埃作為長度單位來測量)。",
-      "pinyin": "Kēxuéjiā shǐyòng āi zuòwéi chángdù dānwèi lái cèliáng.",
-      "english": "Scientists use angstrom as a unit of length for measurement."
+      "chinese": "在显微镜下(在顯微鏡下)，我们可以看到每一个埃的细节(我們可以看到每一個埃的細節)。",
+      "pinyin": "Zài xiǎnwēijìng xià，wǒmen kěyǐ kàn dào měi yī gè āi de xìjié.",
+      "english": "Under the microscope, we can see the details of each angstrom."
     }
   ]
 }

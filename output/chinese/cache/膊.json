@@ -5,9 +5,9 @@
   "english": "arm",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "肉(肉) (ròu, \"body\") + 尃(尃) (fū, \"phonetic component\") = related to the body → arm",
-    "interpretation": "The character 膊(bó, \"arm\") uses the 肉(肉) (ròu, \"body\") component to indicate its association with the body, while 尃(尃) (fū) provides the phonetic element. This combination effectively conveys the meaning of a part of the body, specifically the arm.",
-    "simplification": ""
+    "description": "semantic 肉 (肉) (ròu, \"body\") + phonetic 尃 (尃) (fū) -> arm",
+    "interpretation": "The character 膊 combines 肉(肉) (ròu, \"body\"), indicating a part of the anatomy, with 尃(尃) (fū) as the phonetic component. The semantic component emphasizes its meaning related to the body, specifically referring to the 'arm' as a body part.",
+    "simplification": "The simplified form 膊 directly retains the traditional components without further simplification."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "尃",
       "trad": "尃",
       "pinyin": "fū",
-      "english": "phonetic component"
+      "english": "spread; unroll"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的膊很结实(他的膊很結實)。",
-      "pinyin": "Tā de bó hěn jiéshí.",
-      "english": "His arm is very strong."
+      "chinese": "他的膊非常强壮(他的膊非常強壯)。",
+      "pinyin": "Tā de bó fēicháng qiángzhuàng.",
+      "english": "His arms are very strong."
     },
     {
-      "chinese": "他举起重物(他舉起重物)，用力弯曲膊(用力彎曲膊)。",
-      "pinyin": "Tā jǔqǐ zhòngwù, yònglì wānqū bó.",
-      "english": "He lifted heavy objects and forcefully bent his arm."
+      "chinese": "她举起了双手，露出了膊(她舉起了雙手，露出了膊)。",
+      "pinyin": "Tā jǔ qǐ le shuāng shǒu, lùchūle bó.",
+      "english": "She raised her hands, revealing her arms."
+    },
+    {
+      "chinese": "那个舞蹈动作需要灵活的膊(那個舞蹈動作需要靈活的膊)。",
+      "pinyin": "Nàge wǔdǎo dòngzuò xūyào línghuó de bó.",
+      "english": "That dance move requires flexible arms."
     }
   ]
 }

@@ -2,30 +2,37 @@
   "simplified": "弋",
   "traditional": "弋",
   "pinyin": "yì",
-  "english": "phonetic component",
+  "english": "catch, arrest",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bow with an arrow ready to be shot",
-    "interpretation": "The character 弋(yì, \"phonetic component\") represents a bow with an arrow, an imagery that signifies shooting or catching. As such, it has been used as a phonetic component in other characters.",
+    "description": "Depicts a sharp peg -> original form of 杙 (yì, \"peg\")",
+    "interpretation": "The character 弋(yì, \"catch, arrest\") originally depicted a sharp peg used to secure or catch something, like fixing an object in place. This visual representation associated with catching or arresting aligns with its meaning.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "杙",
+      "trad": "杙",
+      "pinyin": "yì",
+      "english": "peg"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个字以弋作声旁(這個字以弋作聲旁)。",
-      "pinyin": "Zhège zì yǐ yì zuò shēngpáng.",
-      "english": "This character uses yì as its phonetic component."
+      "chinese": "警察用镣铐弋住了嫌疑犯(警察用鐐銬弋住了嫌疑犯)。",
+      "pinyin": "Jǐngchá yòng liáokào yì zhù le xiányífàn.",
+      "english": "The police used handcuffs to arrest the suspect."
     },
     {
-      "chinese": "古代学者研究弋的音韵(古代學者研究弋的音韻)，认为其具有独特功能(認爲其具有獨特功能)。",
-      "pinyin": "Gǔdài xuézhě yánjiū yì de yīnyùn, rènwéi qí jùyǒu dútè gōngnéng.",
-      "english": "Ancient scholars studied the rhyme of yì, believing that it possessed a unique function."
+      "chinese": "他们在森林中抓住了一只弋获的鸟(他們在森林中抓住了一隻弋獲的鳥)。",
+      "pinyin": "Tāmen zài sēnlín zhōng zhuā zhù le yī zhī yì huò de niǎo.",
+      "english": "They caught a hunted bird in the forest."
     },
     {
-      "chinese": "书法艺术中常见弋的应用(書法藝術中常見弋的應用)。",
-      "pinyin": "Shūfǎ yìshù zhōng chángjiàn yì de yìngyòng.",
-      "english": "The use of yì is common in calligraphic art."
+      "chinese": "弋箭用于古代的狩猎(弋箭用於古代的狩獵)。",
+      "pinyin": "Yì jiàn yòng yú gǔdài de shòuliè.",
+      "english": "The arrow was used in ancient hunting."
     }
   ]
 }

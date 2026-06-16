@@ -5,8 +5,8 @@
   "english": "gentle; harmonious; and",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, \"grain\") + 口(口) (kǒu, \"mouth\") = grain and mouth sound alike; use of grain implies peace, prosperity -> gentle; harmonious",
-    "interpretation": "The character 和(和) (hé, \"gentle; harmonious; and\") combines the semantic element symbolizing grain with a phonetic element related to the mouth. This conveys the idea of a harmonious state, often associated with the abundance of grain and sustenance.",
+    "description": "phonetic 禾 (hé, 'grain') + semantic 口 (kǒu, 'mouth') -> harmony",
+    "interpretation": "The character 和(hé, 'gentle; harmonious; and') combines the phonetic component 禾(hé, 'grain') with the semantic component 口(kǒu, 'mouth'). The idea of harmony arises from the combination of grain, representing sustenance and peace, with the mouth, indicating communication or speech. In historical contexts, 和 was related to musical harmony, as indicated by the original version 龢 representing harmony in music. Overall, harmony reflects a state of balance, whether in sound, communication, or social relations.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的声音温和(他的聲音溫和)，令人感觉安心(令人感覺安心)。",
-      "pinyin": "Tā de shēngyīn wēnhé, lìng rén gǎnjué ānxīn.",
-      "english": "His voice is gentle, making people feel at ease."
+      "chinese": "我们和家人一起旅行(我們和家人一起旅行)。",
+      "pinyin": "Wǒmen hé jiārén yīqǐ lǚxíng.",
+      "english": "We travel together with family."
     },
     {
-      "chinese": "我和朋友一起散步(我和朋友一起散步)，享受宁静时光(享受寧靜時光)。",
-      "pinyin": "Wǒ hé péngyǒu yīqǐ sànbù, xiǎngshòu níngjìng shíguāng.",
-      "english": "I take a walk with my friend, enjoying the peaceful moments."
+      "chinese": "他性格温和(他性格溫和)，深受大家喜爱(深受大家喜愛)。",
+      "pinyin": "Tā xìnggé wēnhé, shēn shòu dàjiā xǐ'ài.",
+      "english": "He has a gentle personality and is well liked by everyone."
     },
     {
-      "chinese": "春风和煦(春風和煦)，大地回春(大地回春)。",
-      "pinyin": "Chūnfēng héxù, dàdì huíchūn.",
-      "english": "The spring breeze is gentle, and the earth rejuvenates."
+      "chinese": "书和笔都是学习的工具(書和筆都是學習的工具)。",
+      "pinyin": "Shū hé bǐ dōu shì xuéxí de gōngjù.",
+      "english": "Books and pens are tools for learning."
     }
   ]
 }

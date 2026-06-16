@@ -5,35 +5,27 @@
   "english": "yellow",
   "etymology": {
     "type": "pictogram",
-    "description": "Originally depicted 口 (kǒu, 'mouth/face') as a stylized depiction of a person or jade ring -> borrowed for 'yellow' in oracle bone script",
-    "interpretation": "Originally a pictogram depicting something related to either a person or jade, 黃(黃) (huáng, 'yellow') was later phonetically borrowed for the meaning 'yellow'. The character's association with jade might also symbolize value and elegance, helping to explain its transition to the color 'yellow', often symbolic of wealth and opulence in Chinese culture.",
-    "simplification": "黄 replaces 黃 by dropping the radical 田 (tián, 'field') entirely, keeping only 廿 (nián, 'twenty'), a simplified pattern for phonetic or visual resemblance."
+    "description": "Originally a pictogram depicting a disabled person or man with a ring of jade on the chest -> phonetically borrowed for 'yellow' -> 黃",
+    "interpretation": "The character 黃 (huáng, 'yellow') originated from a pictogram representing either a disabled person or a man with a jade ring, showing a connection to cultural rituals or symbols of status. It was later phonetically borrowed to represent the color 'yellow' without semantic connection to its original depiction. In modern Chinese, its primary use is to denote the color yellow, disconnecting entirely from its debated pictographic origins.",
+    "simplification": ""
   },
-  "parts": [
-    {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那件衬衫是黃的(那件襯衫是黃的)。",
-      "pinyin": "Nà jiàn chènshān shì huáng de.",
-      "english": "That shirt is yellow."
+      "chinese": "这朵花是黄色的(這朵花是黃色的)。",
+      "pinyin": "Zhè duǒ huā shì huángsè de.",
+      "english": "This flower is yellow."
     },
     {
-      "chinese": "太阳升起时(太陽升起時)，大地披上了黃的外衣(大地披上了黃的外衣)。",
-      "pinyin": "Tàiyáng shēngqǐ shí, dàdì pī shàng le huáng de wàiyī.",
-      "english": "When the sun rises, the earth is draped in yellow."
+      "chinese": "秋天来临时(秋天來臨時)，树叶变成金黄色(樹葉變成金黃色)。",
+      "pinyin": "Qiūtiān láilín shí, shùyè biàn chéng jīnhuáng sè.",
+      "english": "When autumn arrives, the leaves turn golden yellow."
+    },
+    {
+      "chinese": "他穿了一件黄色的外套(他穿了一件黃色的外套)。",
+      "pinyin": "Tā chuānle yī jiàn huángsè de wàitào.",
+      "english": "He wore a yellow jacket."
     }
   ]
 }

@@ -5,16 +5,16 @@
   "english": "exactly; right",
   "etymology": {
     "type": "compound word",
-    "description": "可(可) (kě, \"can; able to\") and 不(不) (bù, \"not\") together form the phrase 可不(可不) (kěbù, \"exactly; right\"). This expression is often used to express agreement or affirmation, similar to saying \"that's right\" or \"exactly\" in English. The combination uses 可(可) as an affirmative and keeps 不(不) in its negative form, but the expression as a whole conveys a positive agreement.",
-    "interpretation": "",
-    "simplification": ""
+    "description": "可(可) (kě, \"possible; can\") + 不(不) (bù, \"not\")",
+    "interpretation": "可(可) (kě, \"possible;\u00117 can\") suggests ability or possibility, while 不(不) (bù, \"not\") negates a statement. Together, they form an expression used for strong affirmation or agreement; it's like saying 'how could it not be!', conveying 'exactly!' or 'right!'. It creates an emphatic acceptance or agreement with what was stated.",
+    "simplification": "N/A"
   },
   "parts": [
     {
       "char": "可",
       "trad": "可",
       "pinyin": "kě",
-      "english": "can; able to"
+      "english": "possible; can"
     },
     {
       "char": "不",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这菜好吃(這菜好吃)，可不(可不)？",
-      "pinyin": "Zhè cài hǎochī, kěbù?",
-      "english": "This dish is delicious, right?"
+      "chinese": "这个地方很漂亮(這個地方很漂亮)，可不是吗(可不是嗎)？",
+      "pinyin": "Zhège dìfāng hěn piàoliang, kě bú shì ma?",
+      "english": "This place is beautiful, isn't it?"
     },
     {
-      "chinese": "今天工作很忙(今天工作很忙)，可不(可不)！",
-      "pinyin": "Jīntiān gōngzuò hěn máng, kěbù!",
-      "english": "Work was really busy today, exactly!"
+      "chinese": "你说得没错(你說得沒錯)，可不(可不)。",
+      "pinyin": "Nǐ shuō de méi cuò, kěbù.",
+      "english": "You're absolutely right, exactly."
+    },
+    {
+      "chinese": "他的意见很重要(他的意見很重要)，可不(可不)。",
+      "pinyin": "Tā de yìjiàn hěn zhòngyào, kěbù.",
+      "english": "His opinion is important, exactly."
     }
   ]
 }

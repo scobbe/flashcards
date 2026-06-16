@@ -5,9 +5,9 @@
   "english": "still; yet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "辵(辵) (chuò, 'walk; movement') + 睘(睘) (jué, 'inspect') = go back or return -> still; yet",
-    "interpretation": "The character 還(還) combines 辵(辵) (chuò, 'walk; movement'), indicating an action involving movement, with the phonetic 睘(睘) (jué, 'inspect'), suggesting the sound and concept of returning. This compound thus conveys the idea of going back or returning, extended to mean 'still' or 'yet' in modern usage.",
-    "simplification": "The character 還(還) is simplified by removing the component 睘, reducing the number of strokes while keeping the overall meaning intact."
+    "description": "semantic 辵(辵) (chuò, \"walk; movement\") + phonetic 睘(睘) (qióng) -> to go back; to return",
+    "interpretation": "The character 還(還) (huán, \"to return\") combines the semantic element 辵(辵) (chuò, \"walk; movement\") indicating movement, and the phonetic element 睘(睘) (qióng), providing the sound. The notion is of moving back or returning.",
+    "simplification": "The traditional 還 was simplified to 还 by reducing the complex 辵(辵) (chuò, \"walk; movement\") component to simpler form 辶."
   },
   "parts": [
     {
@@ -19,26 +19,26 @@
     {
       "char": "睘",
       "trad": "睘",
-      "pinyin": "jué",
-      "english": "inspect"
+      "pinyin": "qióng",
+      "english": "a rare character"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我还年轻(我還年輕)。",
-      "pinyin": "Wǒ hái niánqīng.",
-      "english": "I am still young."
+      "chinese": "我还在工作(我還在工作)。",
+      "pinyin": "Wǒ hái zài gōngzuò.",
+      "english": "I am still working."
     },
     {
-      "chinese": "下雨时(下雨時)，他还在外面跑步(他還在外面跑步)。",
-      "pinyin": "Xià yǔ shí，tā hái zài wàimiàn pǎobù.",
-      "english": "When it rains, he is still running outside."
+      "chinese": "他已经吃过午饭，但他还饿(他已經吃過午飯，但他還餓)。",
+      "pinyin": "Tā yǐjīng chī guò wǔfàn, dàn tā hái è.",
+      "english": "He already had lunch, but he is still hungry."
     },
     {
-      "chinese": "你已经吃过了晚饭，你还饿吗(你已經吃過了晚飯，你還餓嗎)？",
-      "pinyin": "Nǐ yǐjīng chī guò le wǎnfàn，nǐ hái è ma?",
-      "english": "You have already had dinner, are you still hungry?"
+      "chinese": "虽然已经很晚了，我们还得继续工作(雖然已經很晚了，我們還得繼續工作)。",
+      "pinyin": "Suīrán yǐjīng hěn wǎn le, wǒmen hái děi jìxù gōngzuò.",
+      "english": "Although it's already very late, we still have to continue working."
     }
   ]
 }

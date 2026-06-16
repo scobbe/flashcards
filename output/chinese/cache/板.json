@@ -5,9 +5,9 @@
   "english": "board; plank; model",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 木(木) (mù, \"tree\") + phonetic 反(反) (fǎn) = related to wood + sound element -> board, plank",
-    "interpretation": "The character 板(bǎn) combines the semantic 木(木) (mù, \"tree\") indicating that the character's meaning relates to wood or wooden objects, with the phonetic 反(反) (fǎn) providing the pronunciation. This phono-semantic compound effectively captures the concept of a 'board' or 'plank,' as these are typically wooden items.",
-    "simplification": "板(bǎn) directly adopted as the simplified form of the traditional character 闆(bǎn) in 1956 due to its existing use and fewer strokes, providing a more streamlined representation of the same meaning."
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 反(反) (fǎn) -> board; plank",
+    "interpretation": "The character 板 (bǎn, \"board; plank\") is a phono-semantic compound. The semantic 木(木) (mù, \"tree\") indicates the material of wood, which is the substance of a board. The phonetic 反(反) (fǎn) provides the pronunciation. This character directly refers to objects made from wood that are flat, like boards or planks.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "反",
       "trad": "反",
       "pinyin": "fǎn",
-      "english": "to oppose"
+      "english": "oppose"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用木板(他用木板)，做了一个小桌子(做了一個小桌子)。",
-      "pinyin": "Tā yòng mù bǎn, zuòle yīgè xiǎo zhuōzi.",
-      "english": "He used a wooden board to make a small table."
+      "chinese": "他用力把钉子钉进木板(他用力把釘子釘進木板)。",
+      "pinyin": "Tā yònglì bǎ dīngzi dīng jìn mùbǎn.",
+      "english": "He forcefully nailed the nail into the wooden board."
     },
     {
-      "chinese": "老师在黑板上写字(老師在黑板上寫字)。",
-      "pinyin": "Lǎoshī zài hēibǎn shàng xiězì.",
-      "english": "The teacher writes on the blackboard."
+      "chinese": "制作这个模型需要许多木板(製作這個模型需要許多木板)。",
+      "pinyin": "Zhìzuò zhège móxíng xūyào xǔduō mùbǎn.",
+      "english": "Many wooden planks are needed to build this model."
     },
     {
-      "chinese": "他敲击那块板(他敲擊那塊板)，发出悦耳的节奏(發出悅耳的節奏)。",
-      "pinyin": "Tā qiāojī nà kuài bǎn, fāchū yuè'ěr de jiézòu.",
-      "english": "He struck that board, producing a pleasing rhythm."
+      "chinese": "老师在黑板上写下了答案(老師在黑板上寫下了答案)。",
+      "pinyin": "Lǎoshī zài hēibǎn shàng xiěxià le dá'àn.",
+      "english": "The teacher wrote the answers on the blackboard."
     }
   ]
 }

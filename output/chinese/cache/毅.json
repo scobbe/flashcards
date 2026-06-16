@@ -4,36 +4,41 @@
   "pinyin": "yì",
   "english": "firm; resolute; courageous",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Semantic: 殳(殳) (shū, \"weapon/tool\") + Phonetic: 𠂤(𠂤) (yì, no standalone meaning) = originally related to bravery involving weapons -> firm, resolute",
-    "interpretation": "毅(毅) (yì, \"firm; resolute; courageous\") combines the concept of weapons or tools, associated with strength and warfare from 殳(殳) (shū, \"weapon/tool\"), with 𠂤(𠂤) to provide the phonetic element, emphasizing traits of bravery and courage necessary in warfare. Over time, it came to signify resoluteness and firmness in character.",
+    "type": "phono-semantic compound",
+    "description": "phonetic 豙 + semantic 殳 (an ancient Chinese weapon) -> firm, resolute, courageous",
+    "interpretation": "The character 毅 (yì, 'firm; resolute; courageous') combines the phonetic element 豙 with the semantic element 殳, which represents an ancient Chinese weapon. The presence of the weapon imagery contributes to the sense of being steadfast and resolute, as such weapons were symbols of strength and courage.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "豙",
+      "trad": "豙",
+      "pinyin": "yì",
+      "english": "phonetic element"
+    },
+    {
       "char": "殳",
       "trad": "殳",
       "pinyin": "shū",
-      "english": "weapon/tool"
-    },
-    {
-      "char": "𠂤",
-      "trad": "𠂤",
-      "pinyin": "yì",
-      "english": "no standalone meaning"
+      "english": "an ancient Chinese weapon"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "面对挫折(面對挫折)，他依然保持了毅(毅)。",
-      "pinyin": "Miànduì cuòzhé, tā yīrán bǎochíle yì.",
-      "english": "In the face of setbacks, he still maintained his resoluteness."
+      "chinese": "他的意志非常坚定(他的意志非常堅定)，无论遇到什么困难(無論遇到什麼困難)，他都毅然决然地前进(他都毅然決然地前進)。",
+      "pinyin": "Tā de yìzhì fēicháng jiāndìng, wúlùn yùdào shénme kùnnan, tā dōu yìrán juérán de qiánjìn.",
+      "english": "His willpower is very strong, and no matter what difficulties he faces, he moves forward resolutely."
     },
     {
-      "chinese": "他的毅让人肃然起敬(他的毅讓人肅然起敬)。",
-      "pinyin": "Tā de yì ràng rén sùrán qǐjìng.",
-      "english": "His resoluteness commands respect."
+      "chinese": "她以毅力克服了所有挑战(她以毅力克服了所有挑戰)。",
+      "pinyin": "Tā yǐ yìlì kèfúle suǒyǒu tiǎozhàn.",
+      "english": "She overcame all challenges with perseverance."
+    },
+    {
+      "chinese": "小明以毅勇精神完成了比赛(小明以毅勇精神完成了比賽)。",
+      "pinyin": "Xiǎo Míng yǐ yìyǒng jīngshén wánchéngle bǐsài.",
+      "english": "Xiao Ming completed the competition with a spirit of courage and determination."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "soldier; military",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "斤(斤) (jīn, \"a short axe\") + 廾(廾) (gǒng, \"two hands\") = a pair of hands holding a weapon -> soldier or military",
-    "interpretation": "The character 兵(bīng) represents the concept of a soldier through the depiction of two hands grasping an axe, symbolizing the act of holding a weapon. This effectively conveys the idea of military force or the presence of soldiers.",
+    "description": "斤 (axe) + 廾 (two hands) = hands holding a weapon -> soldier; military",
+    "interpretation": "The character 兵 (bīng, \"soldier; military\") is composed of 斤 (jīn, \"a short axe\"), representing a weapon, and 廾 (gǒng, \"two hands\"), depicting a pair of hands gripping the weapon. This combination intuitively symbolizes a person equipped with a weapon, directly leading to the meanings of \"soldier\" and \"military.\"",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一名勇敢的兵(他是一名勇敢的兵)。",
-      "pinyin": "Tā shì yī míng yǒnggǎn de bīng.",
-      "english": "He is a brave soldier."
+      "chinese": "他的梦想是当一名优秀的兵(他的夢想是當一名優秀的兵)。",
+      "pinyin": "Tā de mèngxiǎng shì dāng yī míng yōuxiù de bīng.",
+      "english": "His dream is to become an excellent soldier."
     },
     {
-      "chinese": "当战鼓响起时(當戰鼓響起時)，所有的兵都聚集在前线(所有的兵都聚集在前線)。",
-      "pinyin": "Dāng zhàngǔ xiǎngqǐ shí, suǒyǒu de bīng dōu jùjí zài qiánxiàn.",
-      "english": "When the war drums sounded, all the soldiers gathered at the front line."
+      "chinese": "兵营里的生活很有纪律(兵營裡的生活很有紀律)。",
+      "pinyin": "Bīngyíng lǐ de shēnghuó hěn yǒu jìlǜ.",
+      "english": "Life in the barracks is very disciplined."
+    },
+    {
+      "chinese": "军队集结完毕(軍隊集結完畢)，准备出发(準備出發)。",
+      "pinyin": "Jūnduì jíjié wánbì, zhǔnbèi chūfā.",
+      "english": "The troops have assembled and are ready to depart."
     }
   ]
 }

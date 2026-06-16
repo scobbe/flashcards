@@ -5,8 +5,8 @@
   "english": "beautiful",
   "etymology": {
     "type": "compound word",
-    "description": "美(美) (měi, \"beauty; beautiful\") refers to what is pleasing visually or aesthetically, capturing a sense of attractiveness and elegance. 麗(麗) (lì, \"beautiful; splendid\") emphasizes brightness and attractiveness, suggesting something that stands out due to its visually striking quality. Together, 美麗(美麗) forms a compound that emphasizes the quality of being visually pleasing and strikingly attractive.",
-    "interpretation": "美(美) (měi, \"beauty; beautiful\") evokes attractiveness and aesthetic appeal, which leads to 'beautiful'. 麗(麗) (lì, \"beautiful; splendid\") implies brightness and striking appearance, linking to vivid beauty. Together, 美麗(美麗) signifies something that possesses both elegance and vivid visual appeal, rightfully describing 'beautiful'.",
+    "description": "The word 美麗 (měilì, 'beautiful') is a compound word in Traditional Chinese, referring to someone or something that has an aesthetic appealing quality.",
+    "interpretation": "In 美麗 (měilì, 'beautiful'), 美(美) (měi, 'beautiful; pretty; pleasing') suggests the inherent quality of physical or aesthetic appeal, conveying beauty in form or appearance. 麗(麗) (lì, 'beautiful; elegant; magnificent') emphasizes elegance and grace. Together, they describe a state or quality of enhanced beauty, where elegance and appealing form combine to create an impression of beauty.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "美",
       "trad": "美",
       "pinyin": "měi",
-      "english": "beauty; beautiful"
+      "english": "beautiful; pretty; pleasing"
     },
     {
       "char": "丽",
       "trad": "麗",
       "pinyin": "lì",
-      "english": "beautiful; splendid"
+      "english": "beautiful; elegant; magnificent"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座美丽的花园令人心醉(這座美麗的花園令人心醉)。",
-      "pinyin": "Zhè zuò měilì de huāyuán lìngrén xīnzuì.",
-      "english": "This beautiful garden is enchanting."
+      "chinese": "这座城市非常美丽(這座城市非常美麗)。",
+      "pinyin": "Zhè zuò chéngshì fēicháng měilì.",
+      "english": "This city is very beautiful."
     },
     {
-      "chinese": "她的笑容非常美丽(她的笑容非常美麗)。",
-      "pinyin": "Tā de xiàoróng fēicháng měilì.",
-      "english": "Her smile is extremely beautiful."
+      "chinese": "她有一头美丽的长发(她有一頭美麗的長髮)。",
+      "pinyin": "Tā yǒu yītóu měilì de chángfà.",
+      "english": "She has beautiful long hair."
     },
     {
-      "chinese": "沿着这条美丽的小路漫步(沿著這條美麗的小路漫步)，能让人心情愉悦(能讓人心情愉悅)。",
-      "pinyin": "Yánzhe zhè tiáo měilì de xiǎolù mànbù, néng ràng rén xīnqíng yúyuè.",
-      "english": "Strolling along this beautiful path can make one feel delighted."
+      "chinese": "美丽的花园吸引了很多游客(美麗的花園吸引了很多遊客)。",
+      "pinyin": "Měilì de huāyuán xīyǐn le hěn duō yóukè.",
+      "english": "The beautiful garden attracted many tourists."
     }
   ]
 }

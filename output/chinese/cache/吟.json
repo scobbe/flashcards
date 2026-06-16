@@ -5,8 +5,8 @@
   "english": "chant",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 今(今) (jīn, \"now\") = mouth's sound resembling the phonetic 'jīn' -> chant",
-    "interpretation": "The character 吟(yín, \"chant\") combines the semantic component 口(口) (kǒu, \"mouth\") representing vocal expression, with the phonetic component 今(今) (jīn, \"now\") to convey the idea of making sound, specifically the act of chanting or intoning.",
+    "description": "semantic 口(口) (kǒu, 'mouth') + phonetic 今(今) (jīn) -> chant",
+    "interpretation": "The character 吟(yín, 'chant') uses the semantic component 口(口) (kǒu, 'mouth') to suggest an action involving the mouth, related to speaking or making sound. The phonetic component 今(今) (jīn) provides the pronunciation. Together, they logically form the concept of 'chanting', which involves producing a melody or rhythm vocally.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "诗人在月下吟诗(詩人在月下吟詩)。",
-      "pinyin": "Shīrén zài yuèxià yín shī.",
-      "english": "The poet chants his poetry under the moon."
+      "chinese": "他常常吟诗(他常常吟詩)。",
+      "pinyin": "Tā chángcháng yín shī.",
+      "english": "He often chants poems."
     },
     {
-      "chinese": "古人常常吟咏怀古(古人常常吟咏懷古)，借诗流露情怀(借詩流露情懷)。",
-      "pinyin": "Gǔrén chángcháng yín yǒng huái gǔ, jiè shī liúlù qínghuái.",
-      "english": "Ancient people often chanted nostalgic verses, revealing their sentiments through poetry."
+      "chinese": "月光下(月光下)，她的吟声格外动人(她的吟聲格外動人)。",
+      "pinyin": "Yuèguāng xià, tā de yín shēng géwài dòngrén.",
+      "english": "Under the moonlight, her chanting was especially moving."
+    },
+    {
+      "chinese": "老人坐在树下(老人坐在樹下)，低声吟唱着古老的曲调(低聲吟唱著古老的曲調)。",
+      "pinyin": "Lǎorén zuò zài shù xià, dīshēng yínchàng zhe gǔlǎo de qǔdiào.",
+      "english": "The old man sat under the tree, softly chanting an ancient tune."
     }
   ]
 }

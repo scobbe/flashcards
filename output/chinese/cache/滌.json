@@ -5,9 +5,9 @@
   "english": "wash",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 條(條) (tiáo, \"strip\") = water and sound of strip -> wash",
-    "interpretation": "The character 滌(dí, \"wash\") combines 水(水) (shuǐ, \"water\") for its association with cleaning and 條(條) (tiáo, \"strip\") to convey the phonetic aspect, reflecting the action of washing or cleaning with water.",
-    "simplification": "滌(滌) was simplified to 涤(滌) by replacing 條(條) with 条(條), streamlining the structure while retaining the original sound."
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 條(條) (tiáo) -> wash",
+    "interpretation": "The character 滌(dí, \"wash\") combines the semantic component 氵(水) (shuǐ, \"water\"), indicating a water-related action, with the phonetic component 條(條) (tiáo) to convey the act of washing or cleansing.",
+    "simplification": "The traditional component 條(條) (tiáo) was simplified in 涤(涤) to 失(失) (shī), reducing stroke count while maintaining phonetic quality."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "條",
       "trad": "條",
       "pinyin": "tiáo",
-      "english": "strip"
+      "english": "twig; article"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们用清水滌洗衣物(我們用清水滌洗衣物)。",
-      "pinyin": "Wǒmen yòng qīngshuǐ dí xǐ yīwù.",
-      "english": "We wash clothes with clear water."
+      "chinese": "她用温水洗涤衣物(她用溫水洗滌衣物)。",
+      "pinyin": "Tā yòng wēnshuǐ xǐdí yīwù.",
+      "english": "She washes the clothes with warm water."
     },
     {
-      "chinese": "园中落叶经过雨水滌净(園中落葉經過雨水滌淨)。",
-      "pinyin": "Yuán zhōng luòyè jīngguò yǔshuǐ dí jìng.",
-      "english": "The fallen leaves in the garden are cleansed by rainwater."
+      "chinese": "古代诗人常用诗歌洗涤心灵(古代詩人常用詩歌洗滌心靈)。",
+      "pinyin": "Gǔdài shīrén cháng yòng shīgē xǐdí xīnlíng.",
+      "english": "Ancient poets often used poetry to cleanse the soul."
     },
     {
-      "chinese": "僧人在静院中苦修(僧人在靜院中苦修)，常以禅茶滌心(常以禪茶滌心)。",
-      "pinyin": "Sēngrén zài jìngyuàn zhōng kǔxiū, cháng yǐ chánchá dí xīn.",
-      "english": "The monk practices diligently in the quiet courtyard, often using Zen tea to cleanse his mind."
+      "chinese": "在西湖畔漫步，可以感受到自然的洗涤(在西湖畔漫步，可以感受到自然的洗滌)。",
+      "pinyin": "Zài Xīhú pàn mànbù, kěyǐ gǎnshòu dào zìrán de xǐdí.",
+      "english": "Walking by the West Lake, one can feel the cleansing of nature."
     }
   ]
 }

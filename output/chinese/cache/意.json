@@ -4,9 +4,9 @@
   "pinyin": "yì",
   "english": "meaning; intention; thought; idea",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "音(音) (yīn, 'sound') + 心(心) (xīn, 'heart') = sound in the heart -> concept of thought and intention",
-    "interpretation": "The character 意(yì) represents abstract concepts of thought, intention, and meaning by combining elements symbolizing sound and heart, reflecting processed sensory input and emotional response.",
+    "type": "phono-semantic compound",
+    "description": "𠶷 (言 'speech' + 中 'middle') in bronze inscriptions -> 音(音) (yīn, 'sound') for phonetic resemblance + 心(心) (xīn, 'heart') for semantic -> final form 意",
+    "interpretation": "The character initially used 𠶷, combining 'speech' and 'middle' for expression which evolved to approximate modern semantics. Currently, 意 uses 音 as a phonetic component, though in origin the top component did not relate directly to sound. The 心 ('heart') indicates the essence of intention and thought, suggesting thoughtfulness originates from the heart.",
     "simplification": ""
   },
   "parts": [
@@ -21,24 +21,36 @@
       "trad": "心",
       "pinyin": "xīn",
       "english": "heart"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    },
+    {
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的意思很明确(他的意思很明確)。",
-      "pinyin": "Tā de yìsi hěn míngquè.",
-      "english": "His meaning is clear."
+      "chinese": "这句话的意思是错误的(這句話的意思是錯誤的)。",
+      "pinyin": "Zhè jù huà de yìsi shì cuòwù de.",
+      "english": "The meaning of this sentence is incorrect."
     },
     {
-      "chinese": "我有一个好主意(我有一個好主意)，想改变现状(想改變現狀)。",
-      "pinyin": "Wǒ yǒu yīgè hǎo zhǔyì, xiǎng gǎibiàn xiànzhuàng.",
-      "english": "I have a good idea and want to change the current situation."
+      "chinese": "他的意图很明显(他的意圖很明顯)。",
+      "pinyin": "Tā de yìtú hěn míngxiǎn.",
+      "english": "His intention is very clear."
     },
     {
-      "chinese": "他的用意并非恶意(他的用意並非惡意)。",
-      "pinyin": "Tā de yòngyì bìngfēi èyì.",
-      "english": "His intention is not malicious."
+      "chinese": "我对你的建议很感兴趣(我對你的建議很感興趣)。",
+      "pinyin": "Wǒ duì nǐ de jiànyì hěn gǎn xìngqù.",
+      "english": "I am very interested in your idea."
     }
   ]
 }

@@ -5,15 +5,15 @@
   "english": "bag",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𣒚 (depicts a bag with a bottom) + 石(石) (shí, 'stone') as phonetic = bag-like object -> concept of 'bag'",
-    "interpretation": "The character 橐 combines the semantic element 𣒚, which originally depicted a bag with a distinct bottom, with 石(石) (shí, 'stone') to convey the sound. The character represents the concept of a 'bag' by visually incorporating the shape of a bag and using 石(石) to aid pronunciation.",
+    "description": "𣒚 (depicts a bag with a bottom) + 石 (phonetic) = a bag",
+    "interpretation": "In its original form, 橐(橐) (tuó, 'bag') depicted a bag with a distinct bottom, emphasizing its function of holding items securely. Over time, 石(石) (shí, 'stone') was borrowed phonetically to provide the pronunciation, while maintaining the visual idea of a bag in combination with 𣒚, which represents the conceptual image of a bag.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "𣒚",
       "trad": "𣒚",
-      "pinyin": "n/a",
+      "pinyin": "",
       "english": "bag with a bottom"
     },
     {
@@ -23,22 +23,6 @@
       "english": "stone"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "他把珍贵的卷轴放进橐里(他把珍貴的卷軸放進橐裡)。",
-      "pinyin": "tā bǎ zhēnguì de juǎnzhóu fàng jìn tuó lǐ.",
-      "english": "He put the precious scroll into the bag."
-    },
-    {
-      "chinese": "晋朝文人描绘官员携橐归来(晉朝文人描繪官員攜橐歸來)。",
-      "pinyin": "jìn cháo wénrén miáohuì guānyuán xié tuó guī lái.",
-      "english": "Literati from the Jin Dynasty depicted officials returning with the bag."
-    },
-    {
-      "chinese": "他的小橐装满了长江水(他的小橐裝滿了長江水)，激起了浪花(激起了浪花)。",
-      "pinyin": "tā de xiǎo tuó zhuāng mǎn le chángjiāng shuǐ, jī qǐ le lànghuā.",
-      "english": "His small bag was filled with water from the Yangtze, splashing into waves."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

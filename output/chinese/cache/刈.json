@@ -5,9 +5,9 @@
   "english": "mow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "害(害) (hài, \"harm\") + 刂(刂) (dāo, \"knife\") = action involving cutting with a knife -> mow",
-    "interpretation": "刈(yì, \"mow\") combines 害(害) (hài, \"harm\") as the phonetic component, suggesting the sound, with 刂(刂) (dāo, \"knife\") which conveys the idea of an action involving cutting or mowing. Despite being a second-round simplified form of 割(割) (gē, \"cut\"), it retains the essence of cutting with a blade.",
-    "simplification": "刈(刈) is a second-round simplification of 割(割), where sound and component reduction was achieved by directly adopting the existing form, which aligns closely with 割's function and sound."
+    "description": "semantic 刂(刂) (dāo, \"knife\") + phonetic 害(害) (hài) -> mow",
+    "interpretation": "The character 刈(yì, \"mow\") represents the action of cutting or mowing using a knife, with 刂(刂) (dāo, \"knife\") providing the semantic meaning of cutting and 害(害) (hài) providing the phonetic component.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -23,17 +23,6 @@
       "english": "knife"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "农民正在刈草(農民正在刈草)。",
-      "pinyin": "Nóngmín zhèngzài yì cǎo.",
-      "english": "The farmer is mowing the grass."
-    },
-    {
-      "chinese": "夏天来临时(夏天來臨時)，过长的杂草需要及时刈除(過長的雜草需要及時刈除)。",
-      "pinyin": "Xiàtiān láilín shí, guòcháng de zácǎo xūyào jíshí yì chú.",
-      "english": "When summer arrives, overgrown weeds need to be mowed down in time."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

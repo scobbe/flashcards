@@ -5,8 +5,8 @@
   "english": "stinky tofu",
   "etymology": {
     "type": "compound word",
-    "description": "臭(臭) (chòu, \"stinky\"), 豆腐(豆腐) (dòufu, \"tofu\")",
-    "interpretation": "臭豆腐(臭豆腐) (chòudòufu, \"stinky tofu\") refers to a popular East Asian snack made from fermented tofu, known for its strong odor. The fermentation process gives the tofu its characteristic smell, which is considered an acquired taste but enjoyed widely for its unique flavor.",
+    "description": "臭(臭) (chòu, \"stinky\") + 豆腐(豆腐) (dòufu, \"tofu\") combine to describe a type of tofu known for its strong odor.",
+    "interpretation": "臭(臭) (chòu, \"stinky\") refers to a strong or unpleasant smell. 豆腐(豆腐) (dòufu, \"tofu\") is a versatile food product made from soybeans. Together, they describe a fermented tofu dish that is characterized by its pungent smell. This strong odor is the key feature that distinguishes 臭豆腐 (chòudòufu, \"stinky tofu\") from regular tofu, which is generally bland in smell and taste. The term emphasizes the unique aspect of this delicacy, where the odor signifies the fermentation process it undergoes, giving it a distinct flavor celebrated in many regions of China.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢臭豆腐(我喜歡臭豆腐)。",
-      "pinyin": "Wǒ xǐhuān chòudòufu.",
-      "english": "I like stinky tofu."
+      "chinese": "臭豆腐是闻起来很臭(臭豆腐是聞起來很臭)，但吃起来很香的小吃(但吃起來很香的小吃)。",
+      "pinyin": "Chòudòufu shì wén qǐlái hěn chòu，dàn chī qǐlái hěn xiāng de xiǎochī.",
+      "english": "Stinky tofu is a snack that smells bad but tastes delicious."
     },
     {
-      "chinese": "她尝了一口臭豆腐(她嘗了一口臭豆腐)，觉得味道真特别(覺得味道真特別)。",
-      "pinyin": "Tā cháng le yīkǒu chòudòufu, juéde wèidào zhēn tèbié.",
-      "english": "She took a bite of stinky tofu, and thought its taste was really unique."
+      "chinese": "每次去夜市(每次去夜市)，我都一定会买臭豆腐(我都一定會買臭豆腐)。",
+      "pinyin": "Měicì qù yèshì，wǒ dōu yídìng huì mǎi chòudòufu.",
+      "english": "Every time I go to the night market, I always buy stinky tofu."
     },
     {
-      "chinese": "小吃摊上卖臭豆腐(小吃攤上賣臭豆腐)，吸引了很多游客(吸引了很多遊客)。",
-      "pinyin": "Xiǎochī tān shàng mài chòudòufu, xīyǐnle hěn duō yóukè.",
-      "english": "The food stall selling stinky tofu attracted many tourists."
+      "chinese": "他不喜欢臭豆腐的味道(他不喜歡臭豆腐的味道)，但非常喜欢它的口感(但非常喜歡它的口感)。",
+      "pinyin": "Tā bù xǐhuān chòudòufu de wèidào，dàn fēicháng xǐhuān tā de kǒugǎn.",
+      "english": "He doesn't like the smell of stinky tofu, but he loves its texture."
     }
   ]
 }

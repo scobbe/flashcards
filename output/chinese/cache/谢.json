@@ -5,9 +5,9 @@
   "english": "thank; apologize; wither",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"word; speech\") + 射(射) (shè, \"shoot\") = expression of words -> thank; apologize",
-    "interpretation": "The character 谢(謝) (xiè, \"thank; apologize\") combines 言(言) (yán, \"word; speech\") to represent communication and 射(射) (shè, \"shoot\") for its phonetic properties. This suggests the use of speech in a directed, intentional way to convey gratitude or apology.",
-    "simplification": "Simplification involved replacing 言(言) (yán, \"word; speech\") with the simpler 讠(讠) (yán, \"word; speech\") radical for ease of writing."
+    "description": "semantic 言(言) (yán, \"word; speech\") + phonetic 射(射) (shè) -> express words of thanks or apologies",
+    "interpretation": "The character combines 言(言) (yán, \"word; speech\") to indicate the act of speaking with 射(射) (shè) to provide the sound, forming the basis for meanings related to speaking words of gratitude or apology. The core sense relates to expressing thanks through speech, while 'apologize' involves acknowledging fault through words, and 'wither' is a figurative extension reflecting fading or diminishing, similar to the waning impact of words over time.",
+    "simplification": "Simplified to 谢 by replacing 言(言) (yán, \"word; speech\") with its simplified version 讠."
   },
   "parts": [
     {
@@ -20,7 +20,7 @@
       "char": "射",
       "trad": "射",
       "pinyin": "shè",
-      "english": "shoot"
+      "english": "shoot; emit"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "Thank you for your help."
     },
     {
-      "chinese": "我必须道谢(我必須道謝)，并向你道歉(並向你道歉)。",
-      "pinyin": "Wǒ bìxū dào xiè, bìng xiàng nǐ dào qiàn.",
-      "english": "I must thank you and apologize to you."
+      "chinese": "他道了歉(他道了歉)，大家都很满意(大家都很滿意)。",
+      "pinyin": "Tā dàole qiàn, dàjiā dōu hěn mǎnyì.",
+      "english": "He apologized, and everyone was satisfied."
     },
     {
-      "chinese": "秋风起时(秋風起時)，花谢了(花謝了)。",
-      "pinyin": "Qiūfēng qǐ shí, huā xièle.",
-      "english": "When the autumn wind rises, the flowers wither."
+      "chinese": "秋风一吹(秋風一吹)，树叶渐渐枯萎(樹葉漸漸枯萎)。",
+      "pinyin": "Qiūfēng yī chuī, shùyè jiànjiàn kūwěi.",
+      "english": "When the autumn wind blows, the leaves gradually wither."
     }
   ]
 }

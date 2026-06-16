@@ -5,8 +5,8 @@
   "english": "thing; object",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 牛(牛) (niú, 'ox') + phonetic: 勿(勿) (wù, 'do not') = items related to oxen -> generic 'thing' or 'object'",
-    "interpretation": "The character 物 evolved from the combination of an ox, a familiar and essential domestic animal, and 勿(勿) (wù), which serves as the phonetic component. This suggests a broad category of things concerning daily life and utility.",
+    "description": "semantic 牛(牛) (niú, \"cow\") + phonetic 勿(勿) (wù) -> thing; object",
+    "interpretation": "The character 物(物) (wù, \"thing; object\") combines 牛(牛) (niú, \"cow\") as the semantic component, signifying tangible entities or physical objects, with 勿(勿) (wù) as the phonetic component to provide the sound. The usage of 牛(牛), representing cattle, suggests that the meanings originally included tangible, concrete items before broadening to general objects.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "牛",
       "trad": "牛",
       "pinyin": "niú",
-      "english": "ox"
+      "english": "cow"
     },
     {
       "char": "勿",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个物引起了人们的注意(這個物引起了人們的注意)。",
-      "pinyin": "Zhège wù yǐnqǐ le rénmen de zhùyì.",
-      "english": "This object attracted people's attention."
+      "chinese": "这个物品很贵重(這個物品很貴重)。",
+      "pinyin": "Zhège wùpǐn hěn guìzhòng.",
+      "english": "This object is very valuable."
     },
     {
-      "chinese": "古代的学者重视物理现象(古代的學者重視物理現象)，探讨物质的本原(探討物質的本原)。",
-      "pinyin": "Gǔdài de xuézhě zhòngshì wùlǐ xiànxiàng, tàntǎo wùzhì de běnyuán.",
-      "english": "Ancient scholars valued physical phenomena, exploring the essence of matter."
+      "chinese": "我在寻找一个特别的东西(我在尋找一個特別的東西)。",
+      "pinyin": "Wǒ zài xúnzhǎo yī gè tèbié de dōngxi.",
+      "english": "I am looking for a special thing."
     },
     {
-      "chinese": "生活中的每种物都承载着记忆(生活中的每種物都承載著記憶)。",
-      "pinyin": "Shēnghuó zhōng de měi zhǒng wù dōu chéngzài zhe jìyì.",
-      "english": "Every object in life carries memories."
+      "chinese": "每样物品都有其用途(每樣物品都有其用途)。",
+      "pinyin": "Měi yàng wùpǐn dōu yǒu qí yòngtú.",
+      "english": "Every object has its use."
     }
   ]
 }

@@ -5,16 +5,22 @@
   "english": "tassel",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "⺕(非standard) + 㐬(variant form of 荒) = stylized combination related to tassels on flags",
-    "interpretation": "The character 旒 (liú, \"tassel\") is a phono-semantic compound where ⺕ acts as a semantic component, relevant to textile and tassel imagery. The component 㐬 is a variant form of 荒 (huāng, \"desolate\"), providing a phonetic element. This makes 旒 a specialized term for decorative tassels, emphasizing its use in ceremonial contexts.",
+    "description": "semantic 方(方) (fāng, \"square\") + phonetic 㐦(㐦) (liú)",
+    "interpretation": "旒 is a phono-semantic compound where the 方(方) (fāng, \"square\") component suggests association with structured elements or parts, and 㐦(㐦) provides the pronunciation liú. The character refers to tassels that hang from corners, often seen as decorative attachments dangling from square or rectangular structures like ceremonial canopies or standards.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "㐬",
-      "trad": "㐬",
-      "pinyin": "huāng",
-      "english": "\"desolate\" (variant form of 荒)"
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "square"
+    },
+    {
+      "char": "㐦",
+      "trad": "㐦",
+      "pinyin": "liú",
+      "english": "variant"
     }
   ],
   "in_contemporary_usage": false,

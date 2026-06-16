@@ -5,8 +5,8 @@
   "english": "possessive/attributive particle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "白(白) (bái, \"white\") + 勺(勺) (sháo, \"spoon\") = semantic of brightness/clarity from 白 (bái) plus phonetic 勺 (sháo) -> possessive/attributive particle",
-    "interpretation": "The character 的 combines the meaning of clarity or purity from 白(白) (bái, \"white\") with the phonetic indication from 勺(勺) (sháo, \"spoon\"). This combination has evolved to convey the grammatical function of attributing possession or characteristics.",
+    "description": "semantic 白(白) (bái, \"white\") + phonetic 勺(勺) (sháo) -> possessive/attributive particle",
+    "interpretation": "The character 的 originally combined 白(白) (bái, \"white\") as the semantic element, denoting brightness or clarity, with 勺(勺) (sháo), providing the phonetic component for sound. Over time, the meaning shifted from this literal sense to function as a grammatical particle marking possession or attribution, likely due to a sound borrowing or figurative extension from the clarity or specification inherent in 'white.'",
     "simplification": ""
   },
   "parts": [
@@ -31,14 +31,14 @@
       "english": "This is my book."
     },
     {
-      "chinese": "这是老师的家(這是老師的家)，也是学生的课堂(也是學生的課堂)。",
-      "pinyin": "Zhè shì lǎoshī de jiā, yě shì xuéshēng de kètáng.",
-      "english": "This is the teacher's house, and also the student's classroom."
+      "chinese": "他的新车很漂亮(他的新車很漂亮)。",
+      "pinyin": "Tā de xīn chē hěn piàoliang.",
+      "english": "His new car is very beautiful."
     },
     {
-      "chinese": "我穿的是红色的衣服(我穿的是紅色的衣服)，看起来很精神(看起來很精神)。",
-      "pinyin": "Wǒ chuān de shì hóngsè de yīfú, kàn qǐlái hěn jīngshén.",
-      "english": "I am wearing red clothes, and they look very vibrant."
+      "chinese": "我喜欢听大海的声音(我喜歡聽大海的聲音)。",
+      "pinyin": "Wǒ xǐhuān tīng dàhǎi de shēngyīn.",
+      "english": "I like listening to the sound of the sea."
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "simplified": "杙",
+  "traditional": "杙",
+  "pinyin": "yì",
+  "english": "peg",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "木(木) (mù, \"wood\") + 二(二) (èr, \"two\") = two wooden pieces used as a peg",
+    "interpretation": "The character 杙(yì, \"peg\") combines 木(木) (mù, \"wood\"), indicating the material, and 二(二) (èr, \"two\"), symbolizing the function of two pieces coming together, to convey the idea of a wooden peg or post.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "二",
+      "trad": "二",
+      "pinyin": "èr",
+      "english": "two"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

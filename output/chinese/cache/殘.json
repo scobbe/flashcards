@@ -5,40 +5,40 @@
   "english": "to damage; to destroy",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 歹(歹) (dǎi, \"vicious, bones\") + Phonetic 戔(戔) (jiān) -> to viciously harm, injure",
-    "interpretation": "The character 殘(cán) represents the concept of causing harm or destruction through a combination of a semantic component, 歹(歹) (dǎi, \"vicious, bones\"), which conveys the idea of viciousness or death, and a phonetic component, 戔(戔) (jiān), indicating the sound. The semantic aspect underscores the destructive meaning inherent in the character.",
-    "simplification": "Simplified as 残(残) with the component 歹(歹) retained while other parts were simplified."
+    "description": "semantic 歹 (\"vicious, bones\") + phonetic 戔 -> to viciously harm, injure",
+    "interpretation": "The character 殘 is constructed with the semantic component 歹(dǎi, \"vicious, bones\"), indicating harm or damage, paired with the phonetic component 戔(jiān), suggesting the sound. The use of 歹 emphasizes the notion of destruction or injury, which fits the meanings of 'to damage' and 'to destroy.'",
+    "simplification": "残 is a simplified form where the component 歹 was retained and the complex phonetic 戔 was replaced to streamline the character."
   },
   "parts": [
     {
       "char": "歹",
       "trad": "歹",
       "pinyin": "dǎi",
-      "english": "vicious, bones"
+      "english": "vicious; bones"
     },
     {
       "char": "戔",
       "trad": "戔",
       "pinyin": "jiān",
-      "english": "(phonetic component)"
+      "english": "to cut; to hurt"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "暴风雨殘害了古树(暴風雨殘害了古樹)。",
-      "pinyin": "Bào fēng yǔ cán hài le gǔ shù.",
-      "english": "The storm damaged the ancient tree."
+      "chinese": "这场战争带来了巨大的破坏(這場戰爭帶來了巨大的破壞)，使许多城市变得残破不堪(使許多城市變得殘破不堪)。",
+      "pinyin": "Zhè chǎng zhànzhēng dàilái le jùdà de pòhuài, shǐ xǔduō chéngshì biàn dé cánpò bùkān.",
+      "english": "This war brought massive destruction, leaving many cities in ruins."
     },
     {
-      "chinese": "工人不小心殘了文物(工人不小心殘了文物)，博物馆立即展开修复(博物館立即展開修復)。",
-      "pinyin": "Gōngrén bù xiǎoxīn cán le wénwù, bówùguǎn lìjí zhǎnkāi xiūfù.",
-      "english": "The workers accidentally damaged the cultural relics, and the museum immediately began repairs."
+      "chinese": "他的心被过去的伤害弄得支离破碎(他的心被過去的傷害弄得支離破碎)，再也无法愈合(再也無法癒合)。",
+      "pinyin": "Tā de xīn bèi guòqù de shānghài nòng de zhīlí pòsuì, zài yě wúfǎ yùhé.",
+      "english": "His heart was shattered by past injuries, unable to heal anymore."
     },
     {
-      "chinese": "不当操作殘害了电脑(不當操作殘害了電腦)，数据全部丢失(數據全部丟失)。",
-      "pinyin": "Bùdāng cāozuò cán hài le diànnǎo, shùjù quánbù diūshī.",
-      "english": "Improper operation damaged the computer, and all the data was lost."
+      "chinese": "暴风雨过后(暴風雨過後)，许多树木被摧残得面目全非(許多樹木被摧殘得面目全非)。",
+      "pinyin": "Bàofēngyǔ guòhòu, xǔduō shùmù bèi cuīcán dé miànmù quán fēi.",
+      "english": "After the storm, many trees were so damaged they were unrecognizable."
     }
   ]
 }

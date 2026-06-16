@@ -5,8 +5,8 @@
   "english": "street",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 行(行) (xíng, 'go') + phonetic: 圭(圭) (guī) = walking path + phonetic element -> street",
-    "interpretation": "The character 街(街) (jiē, 'street') combines 行(行) (xíng, 'go'), which suggests a path or place for walking, with 圭(圭) (guī) as a phonetic component, indicating the pronunciation. This reflects the concept of a street as a place for passage.",
+    "description": "semantic 行(行) (xíng, \"to go; walk\") + phonetic 圭(圭) (guī, \"jade tablet\") -> street",
+    "interpretation": "The character 街(街) (jiē, \"street\") combines the semantic element 行(行) (xíng, \"to go; walk\"), which suggests movement or travel, with the phonetic element 圭(圭) (guī, \"jade tablet\"), which gives the sound. The notion of a 'street' emerges from the idea of a path or way where people would walk or travel.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "行",
       "trad": "行",
       "pinyin": "xíng",
-      "english": "go"
+      "english": "to go; walk"
     },
     {
       "char": "圭",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我走在热闹的街上(我走在熱鬧的街上)。",
-      "pinyin": "Wǒ zǒu zài rè nào de jiē shàng.",
-      "english": "I walk on a bustling street."
+      "chinese": "她每天早上沿着这条街跑步(她每天早上沿著這條街跑步)。",
+      "pinyin": "Tā měitiān zǎoshang yánzhe zhè tiáo jiē pǎobù.",
+      "english": "She jogs along this street every morning."
     },
     {
-      "chinese": "夜幕降临时(夜幕降臨時)，街边灯火辉煌(街邊燈火輝煌)。",
-      "pinyin": "Yèmù jiànglín shí, jiē biān dēng huǒ huī huáng.",
-      "english": "When night falls, the street lights shine brightly."
+      "chinese": "这条街上有许多商店(這條街上有許多商店)。",
+      "pinyin": "Zhè tiáo jiē shàng yǒu xǔduō shāngdiàn.",
+      "english": "There are many shops on this street."
+    },
+    {
+      "chinese": "他们在街对面开了一家新餐馆(他們在街對面開了一家新餐館)。",
+      "pinyin": "Tāmen zài jiē duìmiàn kāile yī jiā xīn cānguǎn.",
+      "english": "They opened a new restaurant across the street."
     }
   ]
 }

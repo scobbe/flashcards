@@ -4,9 +4,9 @@
   "pinyin": "qiáo",
   "english": "tall, high",
   "etymology": {
-    "type": "Ideogram",
-    "description": "Originally 高(高) (gāo, \"high\") → Differentiated with various components like 屮(屮), 止(止), 力(力), 九(九), or 夭(夭) → Finalized with 夭(夭) for the form of 喬(喬)",
-    "interpretation": "The character 喬(喬) (qiáo, \"tall, high\") differentiates from 高(高) (gāo, \"high\") by using additional components like 夭(夭) to indicate a similar meaning. Despite variant interpretations, the use of 夭(夭) stabilizes the character's form, primarily reflecting the idea of height or elevation.",
+    "type": "ideogram",
+    "description": "高 (meaning 'high, tall') with a differentiating marker (variously a stroke, 屮, 止, 力, 九, or 夭) added",
+    "interpretation": "The character 喬 (qiáo) is a differentiated form of 高 (gāo, 'high, tall'), created by marking it with additional strokes or components to distinguish it from the original character. This was done to differentiate its use for meanings specifically related to 'tall' or 'high', leading to its specific sense.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,25 @@
       "char": "高",
       "trad": "高",
       "pinyin": "gāo",
-      "english": "high"
-    },
-    {
-      "char": "夭",
-      "trad": "夭",
-      "pinyin": "yāo",
-      "english": "to bend"
+      "english": "high; tall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座大楼很喬(这座大楼很乔)。",
-      "pinyin": "Zhè zuò dàlóu hěn qiáo.",
-      "english": "This building is tall."
+      "chinese": "喬木常常长得很高(喬木常常長得很高)。",
+      "pinyin": "Qiáomù chángcháng zhǎng de hěn gāo.",
+      "english": "Tall trees often grow very high."
     },
     {
-      "chinese": "那棵树看起来特别喬(那棵樹看起來特別乔)，映衬着蓝天(映襯著藍天)。",
-      "pinyin": "Nà kē shù kàn qǐlái tèbié qiáo, yìngchèn zhe lántiān.",
-      "english": "That tree looks especially tall, complementing the blue sky."
+      "chinese": "他住在一座喬楼中(他住在一座喬樓中)。",
+      "pinyin": "Tā zhù zài yī zuò qiáo lóu zhōng.",
+      "english": "He lives in a tall building."
+    },
+    {
+      "chinese": "那座喬山看起来壮观(那座喬山看起來壯觀)。",
+      "pinyin": "Nà zuò qiáo shān kànqǐlái zhuàngguān.",
+      "english": "That tall mountain looks magnificent."
     }
   ]
 }

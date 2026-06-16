@@ -4,9 +4,9 @@
   "pinyin": "chuān",
   "english": "to wear",
   "etymology": {
-    "type": "Ideogrammic compound",
-    "description": "穴(穴) (xué, \"cave\") + 牙(牙) (yá, \"tooth\") = to penetrate through -> to wear",
-    "interpretation": "The character 穿 combines 穴, symbolizing an opening or aperture, with 牙, representing something penetrating through. Together, they convey the idea of passing through, consistent with the concept of wearing something as it involves penetrating through fabric or material.",
+    "type": "ideogrammic compound",
+    "description": "穴(穴) (xué, \"cave\") + 牙(牙) (yá, \"tooth\") = something boring or piercing through a cave -> to penetrate -> to wear",
+    "interpretation": "The character 穿(chuān, \"to wear\") combines a cave 穴(穴) (xué, \"cave\") and a tooth 牙(牙) (yá, \"tooth\"), suggesting the action of piercing or boring through a surface, akin to a tooth digging into material, leading to the concept of passing through or penetrating. This imagery extends to the act of wearing, penetrating clothing.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她穿红衣服(她穿紅衣服)。",
-      "pinyin": "Tā chuān hóng yīfú.",
-      "english": "She wears red clothes."
+      "chinese": "今天我穿了一件新衣服(今天我穿了一件新衣服)。",
+      "pinyin": "Jīntiān wǒ chuānle yī jiàn xīn yīfú.",
+      "english": "Today, I wore a new piece of clothing."
     },
     {
-      "chinese": "我穿蓝牛仔裤(我穿藍牛仔褲)。",
-      "pinyin": "Wǒ chuān lán niúzǎikù.",
-      "english": "I wear blue jeans."
+      "chinese": "他每次上班都穿西装(他每次上班都穿西裝)。",
+      "pinyin": "Tā měicì shàngbān dōu chuān xīzhuāng.",
+      "english": "He wears a suit every time he goes to work."
     },
     {
-      "chinese": "他穿运动鞋(他穿運動鞋)。",
-      "pinyin": "Tā chuān yùndòngxié.",
-      "english": "He wears sneakers."
+      "chinese": "小孩子喜欢穿鲜艳的颜色(小孩子喜歡穿鮮豔的顏色)。",
+      "pinyin": "Xiǎo háizi xǐhuān chuān xiānyàn de yánsè.",
+      "english": "Children like to wear bright colors."
     }
   ]
 }

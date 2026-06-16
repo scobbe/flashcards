@@ -5,27 +5,22 @@
   "english": "weapon",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a weapon or lance with a broad blade",
-    "interpretation": "The character 戊(wù, 'weapon') visually represents a kind of weapon, emphasizing its sharp, pointed nature typical of ancient tools used for combat.",
+    "description": "Depicts a halberd.",
+    "interpretation": "The character 戊(wù, \"weapon\") depicts a halberd, which is a traditional Chinese pole weapon with an axe blade and spike. Originally, the character visually represented the weapon and was used to denote its image and function in ancient contexts.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古时候的勇士用戊(古時候的勇士用戊)，保卫家园(保衛家園)。",
-      "pinyin": "Gǔ shíhòu de yǒngshì yòng wù，bǎowèi jiāyuán。",
-      "english": "An ancient warrior used the weapon to defend his homeland."
+      "chinese": "戊是古代军队的重要装备(戊是古代軍隊的重要裝備)。",
+      "pinyin": "Wù shì gǔdài jūnduì de zhòngyào zhuāngbèi.",
+      "english": "Weapons were essential equipment for ancient armies."
     },
     {
-      "chinese": "战士紧握戊(戰士緊握戊)，冲锋陷阵(衝鋒陷陣)。",
-      "pinyin": "Zhànshì jǐn wò wù，chōngfēng xiànzhèn。",
-      "english": "The soldier gripped the weapon tightly and charged into battle."
-    },
-    {
-      "chinese": "戊是一种强大的武器(戊是一種強大的武器)。",
-      "pinyin": "Wù shì yī zhǒng qiángdà de wǔqì。",
-      "english": "Wù is a powerful weapon."
+      "chinese": "随着科技的发展(隨著科技的發展)，现代戊的种类越来越多(現代戊的種類越來越多)。",
+      "pinyin": "Suízhe kējì de fāzhǎn, xiàndài wù de zhǒnglèi yuèláiyuè duō.",
+      "english": "With the development of technology, the varieties of modern weapons have increased."
     }
   ]
 }

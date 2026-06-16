@@ -5,8 +5,8 @@
   "english": "might",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "戌(戌) (xū, \"pestle\") + 女(女) (nǚ, \"woman\") = symbol of authority and control -> might",
-    "interpretation": "The combination of 戌(戌) (xū, \"pestle\") and 女(女) (nǚ, \"woman\") creates an image of strength and authority, suggesting a powerful or commanding presence, represented by the concept of 'might.'",
+    "description": "戌(戌) (xū, \"halberd\") + 女(女) (nǚ, \"woman\") = a woman exerting force with a halberd -> might",
+    "interpretation": "The character 威 (wēi, \"might\") combines 戌(戌) (xū, \"halberd\") and 女(女) (nǚ, \"woman\") to depict the image of a woman wielding a halberd, a weapon of authority and power. This image metaphorically conveys the concept of strength and might, suggesting a commanding presence.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "戌",
       "trad": "戌",
       "pinyin": "xū",
-      "english": "pestle"
+      "english": "halberd"
     },
     {
       "char": "女",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的威严令人敬畏(他的威嚴令人敬畏)。",
-      "pinyin": "Tā de wēiyán lìng rén jìngwèi.",
-      "english": "His majesty is awe-inspiring."
+      "chinese": "狮子散发出威严的气息(獅子散發出威嚴的氣息)。",
+      "pinyin": "Shīzi sànfā chū wēiyán de qìxī.",
+      "english": "The lion exudes an aura of might."
     },
     {
-      "chinese": "军队展现出强大的威势(軍隊展現出強大的威勢)，敌人感到畏惧(敵人感到畏懼)。",
-      "pinyin": "Jūnduì zhǎnxiàn chū qiángdà de wēishì, dírén gǎndào wèijù.",
-      "english": "The army displayed great might, and the enemy felt intimidated."
+      "chinese": "那位将军的威力令人畏惧(那位將軍的威力令人畏懼)。",
+      "pinyin": "Nà wèi jiāngjūn de wēilì lìng rén wèijù.",
+      "english": "The power of that general is intimidating."
     },
     {
-      "chinese": "在会议上(在會議上)，他以不凡的威仪震慑全场(他以不凡的威儀震懾全場)。",
-      "pinyin": "Zài huìyì shàng, tā yǐ bùfán de wēiyí zhènshè quán chǎng.",
-      "english": "During the meeting, he impressed everyone with his extraordinary presence."
+      "chinese": "城堡在山顶上展现出雄伟(城堡在山頂上展現出雄偉)，仿佛在宣扬它的威力(彷佛在宣揚它的威力)。",
+      "pinyin": "Chéngbǎo zài shāndǐng shàng zhǎnxiàn chū xióngwěi, fǎngfú zài xuānyáng tā de wēilì.",
+      "english": "The castle stands majestically on the hilltop as if proclaiming its might."
     }
   ]
 }

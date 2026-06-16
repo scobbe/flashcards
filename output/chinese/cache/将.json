@@ -5,35 +5,40 @@
   "english": "lead",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 爿(爿) (pán, 'bed') + phonetic: 丬(丬) (jiāng, phonetic component) = leading by taking to bed (figurative for keeping close control) -> lead",
-    "interpretation": "The character 将(將) combines 爿(爿) (pán, 'bed') as a semantic indicator suggesting the idea of handling or supporting, with 丬(丬) for its phonetic contribution, creating a representation of leading or taking charge.",
-    "simplification": "將(將)→将(將): 爿(爿) (pán, 'bed') was removed entirely, retaining only the simplified phonetic 丬(丬)."
+    "description": "semantic 爿(爿) (pán, \"bed; half of a tree trunk\") + phonetic 曹(曹) (cáo) -> leader; general",
+    "interpretation": "The semantic component 爿(爿) (pán, \"bed; half of a tree trunk\") can imply division or separation, evoking leadership and strategy. The phonetic element 曹(曹) (cáo) contributes the sound. Together, these components symbolize guidance or leadership, used for a lead or command role.",
+    "simplification": "將 was simplified to 将 by changing 爿(爿) (pán) to a simpler component with fewer strokes."
   },
   "parts": [
     {
       "char": "爿",
       "trad": "爿",
       "pinyin": "pán",
-      "english": "bed"
+      "english": "bed; half of a tree trunk"
     },
     {
-      "char": "丬",
-      "trad": "丬",
-      "pinyin": "jiāng",
-      "english": "phonetic component"
+      "char": "曹",
+      "trad": "曹",
+      "pinyin": "cáo",
+      "english": "minister; assistant"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他将军队带向胜利(他將軍隊帶向勝利)。",
-      "pinyin": "Tā jiāng jūnduì dài xiàng shènglì.",
-      "english": "He leads the army towards victory."
+      "chinese": "这位将军将带领军队(這位將軍將帶領軍隊)。",
+      "pinyin": "Zhè wèi jiāngjūn jiāng dàilǐng jūnduì.",
+      "english": "This general will lead the army."
     },
     {
-      "chinese": "将领率队征战沙场(將領率隊征戰沙場)，赢得民心拥戴(贏得民心擁戴)。",
-      "pinyin": "Jiānglǐng shuài duì zhēngzhàn shāchǎng, yíngdé mínxīn yōngdài.",
-      "english": "The general leads his troops into battle, winning the people's admiration."
+      "chinese": "小船将离开港口(小船將離開港口)。",
+      "pinyin": "Xiǎochuán jiāng líkāi gǎngkǒu.",
+      "english": "The small boat will leave the harbor."
+    },
+    {
+      "chinese": "老师将安排新的课程计划(老師將安排新的課程計劃)。",
+      "pinyin": "Lǎoshī jiāng ānpái xīn de kèchéng jìhuà.",
+      "english": "The teacher will arrange a new course plan."
     }
   ]
 }

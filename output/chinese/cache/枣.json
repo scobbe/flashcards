@@ -5,9 +5,9 @@
   "english": "jujube (Chinese date fruit)",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "朿(朿) (cì, \"thorn\") duplicated = representation of a thorny fruit -> jujube",
-    "interpretation": "棗(棗) captures the essence of the jujube fruit as it is associated with thorns, likely highlighting its tree's thorny branches or protective nature.",
-    "simplification": "棗(棗) simplified by reducing 朿(朿) (cì, \"thorn\") to a simpler form ⺀ in 枣(枣)."
+    "description": "朿(朿) (cì, 'thorn') duplicated -> suggests multiple thorns clustering in a tree",
+    "interpretation": "The duplication of 朿(朿) (cì, 'thorn') visually suggests clusters of thorns or branches, which aligns with the form of a jujube tree where fruits grow densely amid thorny branches.",
+    "simplification": "Simplified by reducing the duplication of 朿(朿) to a simpler form: 朿(棗) was replaced with ⺀(棗) to form the simplified 枣."
   },
   "parts": [
     {
@@ -20,19 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃枣(我喜歡吃棗)。",
-      "pinyin": "Wǒ xǐhuān chī zǎo.",
-      "english": "I like eating jujubes."
+      "chinese": "我每天吃一颗枣(我每天吃一顆棗)。",
+      "pinyin": "Wǒ měitiān chī yī kē zǎo.",
+      "english": "I eat one jujube every day."
     },
     {
-      "chinese": "秋天成熟时(秋天成熟時)，树上挂满枣(樹上掛滿棗)。",
-      "pinyin": "Qiūtiān chéngshú shí, shù shàng guà mǎn zǎo.",
-      "english": "When autumn ripens, the trees are laden with jujubes."
+      "chinese": "枣树生长在温暖的地区(棗樹生長在溫暖的地區)。",
+      "pinyin": "Zǎo shù shēngzhǎng zài wēnnuǎn de dìqū.",
+      "english": "Jujube trees grow in warm areas."
     },
     {
-      "chinese": "她用枣熬制药膳(她用棗熬製藥膳)。",
-      "pinyin": "Tā yòng zǎo áo zhì yào shàn.",
-      "english": "She uses jujubes to simmer medicinal cuisine."
+      "chinese": "他喜欢用枣做甜品(他喜歡用棗做甜品)。",
+      "pinyin": "Tā xǐhuān yòng zǎo zuò tiánpǐn.",
+      "english": "He likes to use jujubes to make desserts."
     }
   ]
 }

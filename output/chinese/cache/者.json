@@ -4,41 +4,28 @@
   "pinyin": "zhě",
   "english": "one who; -er, -ist",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "Old Seal Script: 土(土) (tǔ, \"earth\") + 日(日) (rì, \"sun\") = in the sun on earth -> man doing something on earth -> one who does",
-    "interpretation": "The character 者(者) (zhě, \"one who\") combines 土(土) (tǔ, \"earth\") and 日(日) (rì, \"sun\") depicting a person standing upright on the ground, engaging in actions under the sun. This evolved to represent an agent or performer of an action.",
+    "type": "pictogram",
+    "description": "Depicts sugarcane with full stems -> used phonetically for abstract meanings",
+    "interpretation": "Originally, 者 depicted a sugarcane, emphasizing its full stems and possibly depicting drops of liquid or leaves. This pictogram was visually and phonetically linked to either the words for 'sugarcane' or 'to boil.' Over time, it was borrowed phonetically for more abstract meanings relating to 'one who' or the agentive '-er/-ist.'",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
-    },
-    {
-      "char": "日",
-      "trad": "日",
-      "pinyin": "rì",
-      "english": "sun"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "勤奋者总能成功(勤奮者總能成功)。",
-      "pinyin": "qínfèn zhě zǒng néng chénggōng.",
-      "english": "Diligent people always achieve success."
+      "chinese": "读者需要安静的环境(讀者需要安靜的環境)。",
+      "pinyin": "Dúzhě xūyào ānjìng de huánjìng.",
+      "english": "Readers need a quiet environment."
     },
     {
-      "chinese": "学识渊博者(學識淵博者)，才能产生深远影响(才能產生深遠影響)。",
-      "pinyin": "xuéshí yuānbó zhě, cái néng chǎnshēng shēnyuǎn yǐngxiǎng.",
-      "english": "One who is knowledgeable can create far-reaching effects."
+      "chinese": "作者正在创作新小说(作者正在創作新小說)。",
+      "pinyin": "Zuòzhě zhèngzài chuàngzuò xīn xiǎoshuō.",
+      "english": "The author is creating a new novel."
     },
     {
-      "chinese": "智慧者懂得自律(智慧者懂得自律)。",
-      "pinyin": "zhìhuì zhě dǒngdé zìlǜ.",
-      "english": "A wise person understands self-discipline."
+      "chinese": "勇者无畏(勇者無畏)。",
+      "pinyin": "Yǒngzhě wúwèi.",
+      "english": "The brave are fearless."
     }
   ]
 }

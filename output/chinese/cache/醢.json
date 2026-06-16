@@ -4,9 +4,9 @@
   "pinyin": "hǎi",
   "english": "minced pickled meat",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 酉 (wine) + phonetic: 𦝢 (yǒu, content of a vessel) = minced pickled meat -> fermented or pickled meats",
-    "interpretation": "醢(hǎi, 'minced pickled meat') combines the semantic component 酉(yǒu, 'wine') referring to fermentation or pickling, with the phonetic component 𦝢(yǒu, 'content of a vessel') to suggest the process of making pickled meat.",
+    "type": "ideogrammic compound",
+    "description": "酉(酉) (yǒu, \"wine; alcohol\") + 𦥑(𦥑) (hǎi, \"minced meat\") = pickled or preserved meat or fish in wine -> minced pickled meat",
+    "interpretation": "The character combines 酉(酉) (yǒu, \"wine; alcohol\") for its association with fermentation and preservation, with 𦥑(𦥑) (hǎi, \"minced meat\"), representing the meat that is preserved. Together, they indicate meat minced and preserved in wine, which is a traditional method of preparing and preserving meat.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "酉",
       "trad": "酉",
       "pinyin": "yǒu",
-      "english": "wine"
+      "english": "wine; alcohol"
     },
     {
-      "char": "𦝢",
-      "trad": "𦝢",
-      "pinyin": "yǒu",
-      "english": "content of a vessel"
+      "char": "𦥑",
+      "trad": "𦥑",
+      "pinyin": "hǎi",
+      "english": "minced meat"
     }
   ],
   "in_contemporary_usage": false,

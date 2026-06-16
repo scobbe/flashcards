@@ -5,35 +5,52 @@
   "english": "Huaihai Campaign",
   "etymology": {
     "type": "compound word",
-    "description": "淮(淮) (huái, \"Huai River\"), 海(海) (hǎi, \"sea\"), 战(戰) (zhàn, \"war; battle\"), 役(役) (yì, \"campaign; battle\")",
-    "interpretation": "The 淮海(淮海) (Huáihǎi, \"Huai and sea\") refers to the geographical area between the Huai River and the sea. 战役(戰役) (zhànyì, \"battle; campaign\") signifies a military campaign. The word 淮海战役(淮海戰役) (Huáihǎi zhànyì) refers specifically to the historical military campaign during the Chinese Civil War, fought in the region around the Huai River.",
+    "description": "淮(淮) (huái, \"Huai River\"), 海(海) (hǎi, \"sea; large body of water\"), 战(戰) (zhàn, \"war; battle\"), 役(役) (yì, \"campaign; service\")",
+    "interpretation": "淮(淮) (huái, \"Huai River\") specifies the geographical region associated with the campaign, which took place near the Huai River. 海(海) (hǎi, \"sea\") here does not imply an actual sea but rather emphasizes vastness and strategic importance, reflecting the major scale of the campaign area. 战(戰) (zhàn, \"war; battle\") denotes the military engagement aspect, indicating an organized combat situation. 役(役) (yì, \"campaign; service\") further specifies this as a large-scale planned military operation. Together, 淮海戰役 (Huáihǎi zhànyì) refers to the significant battle campaign fought in the region near the Huai River, known historically as the Huaihai Campaign.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "淮海",
-      "trad": "淮海",
-      "pinyin": "huáihǎi",
-      "english": "Huai and sea; region between Huai River and the sea"
+      "char": "淮",
+      "trad": "淮",
+      "pinyin": "huái",
+      "english": "Huai River"
     },
     {
-      "char": "战役",
-      "trad": "戰役",
-      "pinyin": "zhànyì",
-      "english": "battle; campaign"
+      "char": "海",
+      "trad": "海",
+      "pinyin": "hǎi",
+      "english": "sea; large body of water"
+    },
+    {
+      "char": "战",
+      "trad": "戰",
+      "pinyin": "zhàn",
+      "english": "war; battle"
+    },
+    {
+      "char": "役",
+      "trad": "役",
+      "pinyin": "yì",
+      "english": "campaign; service"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "淮海战役震撼历史(淮海戰役震撼歷史)。",
-      "pinyin": "Huáihǎi zhànyì zhènhàn lìshǐ.",
-      "english": "The Huaihai Campaign shook history."
+      "chinese": "淮海战役(淮海戰役)是中国革命史上的重大战役。",
+      "pinyin": "Huáihǎi zhànyì shì Zhōngguó gémìng shǐ shàng de zhòngdà zhànyì.",
+      "english": "The Huaihai Campaign is a significant battle in the history of the Chinese revolution."
     },
     {
-      "chinese": "许多人纪念淮海战役(許多人紀念淮海戰役)，铭记那段历史(銘記那段歷史)。",
-      "pinyin": "Xǔduō rén jìniàn Huáihǎi zhànyì, míngjì nà duàn lìshǐ.",
-      "english": "Many people commemorate the Huaihai Campaign, remembering that period of history."
+      "chinese": "我们学习了淮海战役(淮海戰役)的战术和战略。",
+      "pinyin": "Wǒmen xuéxí le Huáihǎi zhànyì de zhànshù hé zhànlüè.",
+      "english": "We studied the tactics and strategies of the Huaihai Campaign."
+    },
+    {
+      "chinese": "为了了解更多历史细节(為了了解更多歷史細節)，你可以查阅有关淮海战役(淮海戰役)的资料。",
+      "pinyin": "Wèile liǎojiě gèng duō lìshǐ xìjié, nǐ kěyǐ cháyuè yǒuguān Huáihǎi zhànyì de zīliào.",
+      "english": "To learn more historical details, you can look up information about the Huaihai Campaign."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "glutinous millet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, \"grain\") + 朮(朮) (zhú, \"glutinous millet\") = grain with phonetic \"glutinous millet\" -> glutinous millet",
-    "interpretation": "The character 秫 (shú, \"glutinous millet\") combines 禾(禾) (hé, \"grain\") to signify its association with grains, and 朮(朮) (zhú, \"glutinous millet\") for its phonetic value, representing the specific type of grain, glutinous millet.",
+    "description": "semantic 禾 (\"grain\") + phonetic 朮 (\"glutinous millet\") -> glutinous millet",
+    "interpretation": "The character 秫(shú, \"glutinous millet\") combines 禾 (hé, \"grain\") as the semantic component, indicating it is related to grains or cereals, with 朮 (zhú, \"glutinous millet\") as the phonetic component, providing the sound and specifying the grain type. This structure aptly represents the concept of glutinous millet.",
     "simplification": ""
   },
   "parts": [

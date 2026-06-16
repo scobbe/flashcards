@@ -5,8 +5,8 @@
   "english": "teach; religion",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 爻(爻) (yáo, 'false, change') + phonetic: 孝(孝) (xiào, 'filial piety') = combining change with filial acts -> instruct, teach",
-    "interpretation": "教(教) (jiào) conveys the idea of modifying behavior or passing down values, as represented by a mix of change/transformation from 爻(爻) (yáo) and the idea of governance or discipline from 孝(孝) (xiào). This reflects both teaching and the moral aspects associated with religious instruction.",
+    "description": "phonetic 爻 + semantic 子 (child) + semantic 攵 (teaching cane) -> teaching a child",
+    "interpretation": "The character 教(教) (jiào, \"teach\") combines the phonetic element 爻(爻) with semantic elements 子(子) (zǐ, \"child\") and 攵(攵) (pū, \"teaching cane\"). The 子(子, \"child\") represents the learners or the ones being taught. The 攵(攵, \"teaching cane\") symbolizes authority and the traditional method of instruction, emphasizing discipline in teaching. Together, these elements depict the act of instructing or guiding a child, which leads to the meanings of 'teach' and by extension, 'religion' as a system of teaching beliefs.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,37 @@
       "char": "爻",
       "trad": "爻",
       "pinyin": "yáo",
-      "english": "false, change"
+      "english": "diagram"
     },
     {
-      "char": "孝",
-      "trad": "孝",
-      "pinyin": "xiào",
-      "english": "filial piety"
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "攵",
+      "trad": "攵",
+      "pinyin": "pū",
+      "english": "teaching cane"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师在教室认真教学生(老師在教室認真教學生)。",
-      "pinyin": "Lǎoshī zài jiàoshì rènzhēn jiào xuéshēng.",
-      "english": "The teacher diligently teaches the students in the classroom."
+      "chinese": "他是一名经验丰富的教师(他是一名經驗豐富的教師)。",
+      "pinyin": "Tā shì yī míng jīngyàn fēngfù de jiàoshī.",
+      "english": "He is an experienced teacher."
     },
     {
-      "chinese": "他对佛教文化充满热情(他對佛教文化充滿熱情)。",
-      "pinyin": "Tā duì Fójiào wénhuà chōngmǎn rèqíng.",
-      "english": "He is passionate about Buddhist culture."
+      "chinese": "佛教是世界上最古老的宗教之一(佛教是世界上最古老的宗教之一)。",
+      "pinyin": "Fójiào shì shìjiè shàng zuì gǔlǎo de zōngjiào zhī yī.",
+      "english": "Buddhism is one of the oldest religions in the world."
+    },
+    {
+      "chinese": "我的母亲教我游泳(我的母親教我游泳)。",
+      "pinyin": "Wǒ de mǔqīn jiào wǒ yóuyǒng.",
+      "english": "My mother taught me how to swim."
     }
   ]
 }

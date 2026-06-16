@@ -1,21 +1,15 @@
 {
   "simplified": "𠀠",
   "traditional": "𠀠",
-  "pinyin": "",
+  "pinyin": "yī",
   "english": "basket",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "竹(竹) (zhú, \"bamboo\") + 其(其) (qí, \"his\") as phonetic = basket specialization",
-    "interpretation": "The character 𠀠 is a variant of 箕(箕) (jī, \"basket\"), retaining its bamboo imagery with 竹(竹) and using 其(其) as a phonetic element to convey sound. This reflects its specialized usage for carrying items, signified by the bamboo material.",
+    "description": "simplified/variant form of 箕(箕) (jī, \"basket\"): semantic 竹(竹) (zhú, \"bamboo\") + phonetic 其(其) (qí, \"his\")",
+    "interpretation": "The character 箕(箕) (jī, \"basket\") represents a basket made of bamboo, with 竹(竹) (zhú, \"bamboo\") indicating the material and 其(其) (qí, \"his\") providing the sound. The character 𠀠 is a simplified or variant representation of this concept, retaining the primary components.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "箕",
-      "trad": "箕",
-      "pinyin": "jī",
-      "english": "basket"
-    },
     {
       "char": "竹",
       "trad": "竹",

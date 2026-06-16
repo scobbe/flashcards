@@ -5,8 +5,8 @@
   "english": "this",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 其(其) (qí, \"his\") + semantic: 斤(斤) (jīn, \"axe\") = indicates a specific object -> this",
-    "interpretation": "斯(斯) (sī) combines 其(其) (qí, \"his\") as a phonetic component suggesting pronunciation with 斤(斤) (jīn, \"axe\") as a semantic component initially related to chopping or cutting, leading to the function of pointing to a specific item or idea, hence the meaning \"this.\"",
+    "description": "semantic 其(其) (qí, \"sieve; basket\") + phonetic 斤(斤) (jīn, \"axe\") -> the original meaning \"to divide/break with an axe\" -> borrowed for phonetic value to mean \"this\"",
+    "interpretation": "The semantic component 其(其) (qí, \"sieve; basket\") implies separation or sorting, which associates well with the idea of dividing with an axe, represented by 斤(斤) (jīn, \"axe\") as the phonetic component. The character was used for its phonetic value to indicate \"this.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "其",
       "trad": "其",
       "pinyin": "qí",
-      "english": "his"
+      "english": "sieve; basket"
     },
     {
       "char": "斤",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "斯时万物复苏(斯時萬物復甦)。",
-      "pinyin": "Sī shí wànwù fùsū.",
-      "english": "At this moment, all things are awakening."
+      "chinese": "在斯地(在斯地)，我找到了平静(我找到了平靜)。",
+      "pinyin": "Zài sī dì, wǒ zhǎodào le píngjìng.",
+      "english": "In this place, I found peace."
     },
     {
-      "chinese": "斯城风光旖旎(斯城風光旖旎)，吸引无数游客(吸引無數遊客)。",
-      "pinyin": "Sī chéng fēngguāng yǐnǐ, xīyǐn wúshù yóukè.",
-      "english": "The enchanting scenery of this city attracts countless tourists."
+      "chinese": "此乃斯人(此乃斯人)，吾心之所向(吾心之所向)。",
+      "pinyin": "Cǐ nǎi sī rén, wú xīn zhī suǒ xiàng.",
+      "english": "This is the person whom my heart desires."
+    },
+    {
+      "chinese": "斯书曾伴我多年(斯書曾伴我多年)，如今倍感珍惜(如今倍感珍惜)。",
+      "pinyin": "Sī shū céng bàn wǒ duō nián, rújīn bèi gǎn zhēnxī.",
+      "english": "This book has accompanied me for many years, and now I treasure it even more."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "starter with brewer's yeast",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "麥(麥) (mài, \"wheat\") + 匊(匊) (jū, \"handful\") = wheat-related component with phonetic element -> refers to yeast starter",
-    "interpretation": "The character 麴(qū, \"starter with brewer's yeast\") combines 麥(麥) (mài, \"wheat\") as a semantic component, indicating its connection to grains, and 匊(匊) (jū, \"handful\") as a phonetic component, providing pronunciation. This reflects its use in brewing processes involving grains.",
+    "description": "semantic 麥(麥) (mài, \"wheat\") + phonetic 匊(匊) (jū, \"to scoop with both hands\") -> starter with brewer's yeast",
+    "interpretation": "The character 麴 (qū) represents a starter with brewer's yeast and combines the semantic element 麥(麥) (mài, \"wheat\") indicating the grain involved, with the phonetic component 匊(匊) (jū, \"to scoop with both hands\"), to convey the sound. Brewing traditionally relies on yeast initiated from grains like wheat, hence the appropriate semantic choice of 麥(麥) in constructing an association with fermenting starter cultures.",
     "simplification": ""
   },
   "parts": [
@@ -20,9 +20,25 @@
       "char": "匊",
       "trad": "匊",
       "pinyin": "jū",
-      "english": "handful"
+      "english": "to scoop with both hands"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "传统的酿酒方法中会用到很多麴(傳統的釀酒方法中會用到很多麴)。",
+      "pinyin": "Chuántǒng de niàngjiǔ fāngfǎ zhōng huì yòng dào hěn duō qū.",
+      "english": "Traditional brewing methods use a lot of starter with brewer's yeast."
+    },
+    {
+      "chinese": "为了提高酒的质量(為了提高酒的質量)，他们改进了麴的配方(他們改進了麴的配方)。",
+      "pinyin": "Wèile tígāo jiǔ de zhìliàng, tāmen gǎijìnle qū de pèifāng.",
+      "english": "To improve the quality of the wine, they modified the recipe for the starter with brewer's yeast."
+    },
+    {
+      "chinese": "这种特别的麴使得酒更香醇(這種特別的麴使得酒更香醇)。",
+      "pinyin": "Zhè zhǒng tèbié de qū shǐdé jiǔ gèng xiāngchún.",
+      "english": "This special type of starter with brewer's yeast makes the wine more fragrant and mellow."
+    }
+  ]
 }

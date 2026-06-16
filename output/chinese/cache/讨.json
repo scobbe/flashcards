@@ -5,9 +5,9 @@
   "english": "ask for; beg; demand",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + phonetic 肘(肘) = asking with words -> final meaning",
-    "interpretation": "The traditional character 討(tǎo) consists of the speech element 言(言) (yán, \"speech\") combined with the phonetic 肘(肘), reflecting the action of 'asking for' or 'demanding' through spoken words.",
-    "simplification": "討(討) was simplified to 讨(討) by reducing 訁(言) (yán, \"speech\") to 讠, maintaining the phonetic phonetic link."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 肘(肘) -> speech-initiated action",
+    "interpretation": "言(言) (yán, \"speech\") indicates the involvement of speaking or communication, while 肘(肘) provides the phonetic element. The concept is of a speech-initiated action, like asking or demanding something by speaking. The action element hints at intention, bridging to meanings like 'ask for' or 'demand'.",
+    "simplification": "In the simplification to 讨, 言(言) (yán, \"speech\") was replaced by its simplified form 讠, reducing the number of strokes while retaining the phonetic element."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他去讨钱(他去討錢)。",
-      "pinyin": "Tā qù tǎo qián.",
-      "english": "He went to ask for money."
+      "chinese": "孩子们总是讨糖果(孩子們總是討糖果)。",
+      "pinyin": "Háizimen zǒng shì tǎo tángguǒ.",
+      "english": "The children always beg for candy."
     },
     {
-      "chinese": "我们不能总是讨别人的帮助(我們不能總是討別人的幫助)。",
-      "pinyin": "Wǒmen bù néng zǒng shì tǎo biérén de bāngzhù.",
-      "english": "We cannot always ask for help from others."
+      "chinese": "他讨工资时(他討工資時)，老板总推脱(老闆總推脫)。",
+      "pinyin": "Tā tǎo gōngzī shí, lǎobǎn zǒng tuītuō.",
+      "english": "When he asks for his salary, the boss always evades."
     },
     {
-      "chinese": "她讨厌被人忽视(她討厭被人忽視)，所以总是努力表现自己(所以總是努力表現自己)。",
-      "pinyin": "Tā tǎoyàn bèi rén hūshì, suǒyǐ zǒng shì nǔlì biǎoxiàn zìjǐ.",
-      "english": "She hates being ignored, so she always tries to make herself known."
+      "chinese": "你能不能替我讨一个公道(你能不能替我討一個公道)？",
+      "pinyin": "Nǐ néng bù néng tì wǒ tǎo yī gè gōngdào?",
+      "english": "Can you help me demand justice?"
     }
   ]
 }

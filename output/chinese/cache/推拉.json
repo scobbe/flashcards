@@ -5,8 +5,8 @@
   "english": "push and pull",
   "etymology": {
     "type": "compound word",
-    "description": "推(推) (tuī, \"push\"), 拉(拉) (lā, \"pull\") are combined to describe the physical actions of pushing and pulling, often used for doors or handles.",
-    "interpretation": "The word 推拉 (tuīlā) combines the actions of 'push' and 'pull', which are commonly used instructions on doors indicating how to open them. By joining these two characters, the compound signifies both actions necessary for operating certain mechanisms or entrances.",
+    "description": "推(推) (tuī, \"push\") and 拉(拉) (lā, \"pull\") are combined directly to express the reciprocal actions of physically exerting force on an object away from and towards a person or center, respectively.",
+    "interpretation": "推(推) (tuī, \"push\") involves exerting force to move something away, while 拉(拉) (lā, \"pull\") involves drawing something closer by force. In combination, 推拉 describes the dual physical actions or motions often encountered in daily activities, such as opening doors or operating machinery that requires both pushing and pulling actions.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "推",
       "trad": "推",
       "pinyin": "tuī",
-      "english": "push"
+      "english": "push; shove"
     },
     {
       "char": "拉",
       "trad": "拉",
       "pinyin": "lā",
-      "english": "pull"
+      "english": "pull; drag; draw"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用力推拉门(他用力推拉門)。",
-      "pinyin": "Tā yònglì tuīlā mén.",
-      "english": "He pushes and pulls the door forcefully."
+      "chinese": "推拉门很方便(推拉門很方便)。",
+      "pinyin": "Tuīlā mén hěn fāngbiàn.",
+      "english": "Sliding doors are very convenient."
     },
     {
-      "chinese": "如果门无法自动关闭(如果門無法自動關閉)，请尝试推拉操作(請嘗試推拉操作)。",
-      "pinyin": "Rúguǒ mén wúfǎ zìdòng guānbì, qǐng chángshì tuīlā cāozuò.",
-      "english": "If the door cannot close automatically, please try pushing and pulling it."
+      "chinese": "请勿用力推拉这扇门(請勿用力推拉這扇門)。",
+      "pinyin": "Qǐng wù yòng lì tuīlā zhè shàn mén.",
+      "english": "Please do not forcefully push and pull this door."
+    },
+    {
+      "chinese": "这个游戏需要团队的推拉合作(這個遊戲需要團隊的推拉合作)。",
+      "pinyin": "Zhège yóuxì xūyào tuánduì de tuīlā hézuò.",
+      "english": "This game requires push and pull cooperation from the team."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "make; create; do; work",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 亻(人) (rén, \"person\") + Phonetic: 乍(乍) (zhà, \"sudden\") = actions of a person -> make, create, do, work",
-    "interpretation": "The composition of 作(作) (zuò, \"make\") intuitively conveys the actions typically performed by people, with 亻(人) (rén, \"person\") indicating the human element and 乍(乍) (zhà, \"sudden\") providing the phonetic hint. It represents the concept of a person involved in creating or doing something.",
+    "description": "semantic 亻(人) (rén, \"person\") + phonetic 乍(乍) (zhà) -> make; create; do; work",
+    "interpretation": "The character combines 亻(人) (rén, \"person\") indicating human involvement or action with 乍(乍) (zhà) for its phonetic sound. This results in the meaning of acting or creating, as it involves a person performing an action or task.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他热爱作诗(他熱愛作詩)。",
-      "pinyin": "Tā rè'ài zuò shī.",
-      "english": "He loves to create poetry."
+      "chinese": "他每天都要工作(他每天都要工作)。",
+      "pinyin": "Tā měitiān dōu yào gōngzuò.",
+      "english": "He has to work every day."
     },
     {
-      "chinese": "他在工厂作工(他在工廠作工)，努力挣錢(努力掙錢)。",
-      "pinyin": "Tā zài gōngchǎng zuò gōng, nǔlì zhèng qián.",
-      "english": "He works at a factory and strives to earn money."
+      "chinese": "我正在创作一首新歌(我正在創作一首新歌)。",
+      "pinyin": "Wǒ zhèngzài chuàngzuò yī shǒu xīn gē.",
+      "english": "I am composing a new song."
+    },
+    {
+      "chinese": "他们共同制作了这部电影(他們共同製作了這部電影)。",
+      "pinyin": "Tāmen gòngtóng zhìzuò le zhè bù diànyǐng.",
+      "english": "They jointly produced this film."
     }
   ]
 }

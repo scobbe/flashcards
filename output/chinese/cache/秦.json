@@ -4,36 +4,47 @@
   "pinyin": "Qín",
   "english": "Qin",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, \"grain\") + phonetic: 僽(夬) (jiào, \"tent\") -> phonetic shift and addition of 辰(辰) (chén, \"early dawn\") -> development into 名稱 (Qín, \"Qin\")",
-    "interpretation": "The character 秦(Qín) originally combined semantic and phonetic components to denote cultivation and an early settlement or domain. This connection to agriculture and governance reflects how the Qin dynasty unified and cultivated lands.",
+    "type": "ideogrammic compound",
+    "description": "午(午) (wǔ, 'pestle') + 廾(廾) (gǒng, 'two hands') + 禾(禾) (hé, 'grain') = husked grain -> modern form 秦",
+    "interpretation": "秦(Qín, 'Qin') represents a combination of a pestle, two hands, and grain, which together suggest the action of husking grain. This imagery aligns with agricultural processes and symbolically connects to the Qin state, known for its agricultural development and foundational role in unifying China.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "pestle"
+    },
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
+    },
     {
       "char": "禾",
       "trad": "禾",
       "pinyin": "hé",
       "english": "grain"
-    },
-    {
-      "char": "夬",
-      "trad": "夬",
-      "pinyin": "guài",
-      "english": "tent"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秦始皇统一六国(秦始皇統一六國)，建立了中央政权(建立了中央政權)。",
-      "pinyin": "Qín shǐhuáng tǒngyī liù guó, jiànlì le zhōngyāng zhèngquán.",
-      "english": "Qin Shi Huang unified the six states and established a centralized government."
+      "chinese": "秦始皇是中国历史上第一个皇帝(秦始皇是中國歷史上第一個皇帝)。",
+      "pinyin": "Qín Shǐhuáng shì Zhōngguó lìshǐ shàng dì yī gè huángdì.",
+      "english": "Qin Shi Huang was the first emperor in Chinese history."
     },
     {
-      "chinese": "秦陵兵马俑展示了古代艺术(秦陵兵馬俑展示了古代藝術)。",
-      "pinyin": "Qín líng bīngmǎyǒng zhǎnshì le gǔdài yìshù.",
-      "english": "The Terracotta Warriors of Qin demonstrate ancient art."
+      "chinese": "秦朝是一个重要的历史朝代(秦朝是一個重要的歷史朝代)。",
+      "pinyin": "Qín cháo shì yī gè zhòngyào de lìshǐ cháodài.",
+      "english": "The Qin Dynasty is an important historical period."
+    },
+    {
+      "chinese": "长城是秦朝修建的(長城是秦朝修建的)，它非常壮观(它非常壯觀)。",
+      "pinyin": "Chángchéng shì Qín cháo xiūjiàn de, tā fēicháng zhuàngguān.",
+      "english": "The Great Wall was built during the Qin Dynasty, and it is very magnificent."
     }
   ]
 }

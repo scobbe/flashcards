@@ -5,22 +5,28 @@
   "english": "all",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "亼(亼) (jí, \"assemble\") + 吅(吅) (xuān, \"sound\") + 从(从) (cóng, \"from\") = people collectively answering or speaking together",
-    "interpretation": "The character 僉 (qiān, \"all\") illustrates the concept of people gathering and responding in unison. The components convey the sense of assembly and unified voice.",
-    "simplification": "佥(僉) replaced 吅(吅) (xuān, \"sound\") and 从(从) (cóng, \"from\") with simplified strokes for ease of writing."
+    "description": "亼(亼) (jié, \"to gather\") + two 兄(兄) (xiōng, \"elder brother\") -> people answering together or unanimously -> stylized as 亼(亼) (jié, \"to gather\") + 吅(吅) (xuān, \"speak aloud\") + 从(从) (cóng, \"from\")",
+    "interpretation": "The traditional form 僉 (qiān, \"all\") represents unity and agreement, as it depicts an assembly of people answering together, emphasized by the elements for gathering, speaking aloud collectively, and the idea of coming together.",
+    "simplification": "佥 is a simplified form of 僉, retaining only 亼(亼) (jié, \"to gather\") with a single component for streamlining the idea of consensus."
   },
   "parts": [
     {
       "char": "亼",
       "trad": "亼",
-      "pinyin": "jí",
-      "english": "assemble"
+      "pinyin": "jié",
+      "english": "to gather"
+    },
+    {
+      "char": "兄",
+      "trad": "兄",
+      "pinyin": "xiōng",
+      "english": "elder brother"
     },
     {
       "char": "吅",
       "trad": "吅",
       "pinyin": "xuān",
-      "english": "sound"
+      "english": "speak aloud"
     },
     {
       "char": "从",
@@ -29,6 +35,22 @@
       "english": "from"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "佥在场的人(僉在場的人)都同意了这个建议(都同意了這個建議)。",
+      "pinyin": "Qiān zàichǎng de rén dōu tóngyìle zhège jiànyì.",
+      "english": "All the people present agreed with this suggestion."
+    },
+    {
+      "chinese": "我们佥认为(我們僉認為)，这个方案是最好的(這個方案是最好的)。",
+      "pinyin": "Wǒmen qiān rènwéi, zhège fāng'àn shì zuì hǎo de.",
+      "english": "We all believe that this plan is the best."
+    },
+    {
+      "chinese": "佥都知道(僉都知道)，他是一个诚实的人(他是一個誠實的人)。",
+      "pinyin": "Qiān dōu zhīdào, tā shì yīgè chéngshí de rén.",
+      "english": "Everyone knows that he is an honest person."
+    }
+  ]
 }

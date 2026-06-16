@@ -4,28 +4,28 @@
   "pinyin": "bīng",
   "english": "cold",
   "etymology": {
-    "type": "Radical form of 仌",
-    "description": "Radical form of 仌(仌) (bīng, \"cold\") -> Two blocks of ice compressed and stylized -> 冫(冫) (bīng, \"cold\") radical",
-    "interpretation": "冫(冫) represents a compressed depiction of ice used as a radical form to express the concept of coldness. It visually communicates the idea of ice by simplifying multiple blocks into a streamlined form.",
+    "type": "pictogram",
+    "description": "Depicts two stylized blocks of ice, suggesting the concept of cold or freezing.",
+    "interpretation": "The character 冫(piān, \"cold\") depicts two compressed and stylized blocks of ice, representing the idea of cold. This radical is commonly used in characters related to ice or coldness, capturing the visual simplicity and fundamental concept of ice in visual form.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夜晚的湖面显得冫(夜晚的湖面顯得冫)。",
-      "pinyin": "Yèwǎn de húmiàn xiǎndé bīng.",
-      "english": "The lake's surface at night appears cold."
+      "chinese": "冬天时(冬天時)，河水都结成冰(河水都結成冰)。",
+      "pinyin": "Dōngtiān shí, hé shuǐ dōu jié chéng bīng.",
+      "english": "In winter, the river water freezes into ice."
     },
     {
-      "chinese": "他的声音听起来冫(他的聲音聽起來冫)。",
-      "pinyin": "Tā de shēngyīn tīngqǐlái bīng.",
-      "english": "His voice sounds cold."
+      "chinese": "他的手像冰一样冷(他的手像冰一樣冷)。",
+      "pinyin": "Tā de shǒu xiàng bīng yīyàng lěng.",
+      "english": "His hands are as cold as ice."
     },
     {
-      "chinese": "寒冬来临时(寒冬來臨時)，大地铺上一层冫(大地鋪上一層冫)。",
-      "pinyin": "Hándōng láilínshí, dàdì pū shàng yī céng bīng.",
-      "english": "When the cold winter arrives, the earth is covered with a layer of cold."
+      "chinese": "打开冰箱(打開冰箱)，可以感觉到冷气扑面而来(可以感覺到冷氣撲面而來)。",
+      "pinyin": "Dǎkāi bīngxiāng, kěyǐ gǎnjué dào lěngqì pūmiàn ér lái.",
+      "english": "When you open the refrigerator, you can feel the cold air rush out."
     }
   ]
 }

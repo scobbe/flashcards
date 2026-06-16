@@ -4,17 +4,17 @@
   "pinyin": "zào",
   "english": "acorn",
   "etymology": {
-    "type": "variant form",
-    "description": "皂 (zào) is a variant form of 皁, which is in turn a variant form of 早 (zǎo, \"early\") retaining its original sense \"acorn.\"",
-    "interpretation": "皂 (zào) originally represented the concept of \"acorn\" before it was adapted to signify colors such as black. This transformation shows the fluidity of meanings as characters evolved over time.",
+    "type": "phono-semantic compound",
+    "description": "白(白) (bái, \"white\") + phonetic 早(早) (zǎo) -> acorn; used phonetically for 皂(皂) (zào, \"black\")",
+    "interpretation": "皂(皂) (zào, \"acorn\") uses 早(早) (zǎo) for its sound, with 白(白) (bái, \"white\") as the semantic component originally coupled to mean acorn. Over time, its meaning extended to black due to phonetic borrowing, showing an intriguing shift contrasting its visual elements.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "皁",
-      "trad": "皁",
-      "pinyin": "zào",
-      "english": "acorn"
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
     },
     {
       "char": "早",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋风吹过树林时(秋風吹過樹林時)，地上落满了皂和落叶(地上落滿了皂和落葉)。",
-      "pinyin": "qiū fēng chuīguò shùlín shí, dìshàng luò mǎn le zào hé luòyè.",
-      "english": "When the autumn wind blows through the forest, the ground is covered with acorns and fallen leaves."
+      "chinese": "我第一次看到皂(皂)是在森林里(在森林裡)。",
+      "pinyin": "Wǒ dì yī cì kàn dào zào shì zài sēnlín lǐ.",
+      "english": "I saw acorns for the first time in the forest."
     },
     {
-      "chinese": "山野中不时有皂掉落(山野中不時有皂掉落)，象征着秋天的丰收(象徵著秋天的豐收)。",
-      "pinyin": "shānyě zhōng bùshí yǒu zào diàoluò, xiàngzhēng zhe qiūtiān de fēngshōu.",
-      "english": "In the hills and fields, acorns occasionally fall, symbolizing the abundant harvest of autumn."
+      "chinese": "秋天时(秋天時)，树林里到处都是皂(樹林裡到處都是皂)。",
+      "pinyin": "Qiūtiān shí, shùlín lǐ dàochù dōu shì zào.",
+      "english": "In autumn, acorns are everywhere in the woods."
+    },
+    {
+      "chinese": "松鼠会储存皂(松鼠會儲存皂)，以备冬天(以備冬天)。",
+      "pinyin": "Sōngshǔ huì chǔcún zào, yǐ bèi dōngtiān.",
+      "english": "Squirrels will store acorns to prepare for winter."
     }
   ]
 }

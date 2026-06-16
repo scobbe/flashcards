@@ -5,9 +5,9 @@
   "english": "appearance; shape; manner",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"wood\") + 羕(羕) (yàng, \"river\") = combination of the semantic 'wood' and the phonetic contribution of 'yàng' -> appearance or shape",
-    "interpretation": "The character 样(樣) (yàng, \"appearance\") combines the component 木(木) (mù, \"wood\") to hint at material or form, with 羕(羕) (yàng, \"river\") providing the phonetic aspect. This suggests something resembling or taking shape like wood, which extends metaphorically to various forms or appearances.",
-    "simplification": ""
+    "description": "semantic 木(木) (mù, 'wood') + phonetic 羕(羕) (yàng) -> meaning",
+    "interpretation": "The character 樣(樣) (yàng, 'appearance; shape; manner') combines the semantic component 木(木) (mù, 'wood') to suggest a tangible or physical form, with the phonetic 羕(羕) to provide the sound. The concept of 'appearance; shape; manner' relates to understanding form or style as if referring to forms made of or carved in wood.",
+    "simplification": "样(樣): 羊(羊) (yáng, 'sheep') replaced 羕(羕) (yàng) for a simpler phonetic component."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "羕",
       "trad": "羕",
       "pinyin": "yàng",
-      "english": "river"
+      "english": "a place in ancient Shu"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的样子很独特(他的樣子很獨特)。",
-      "pinyin": "tā de yàngzi hěn dútè。",
-      "english": "His appearance is very unique."
+      "chinese": "他的样子看起来很疲惫(他的樣子看起來很疲憊)。",
+      "pinyin": "Tā de yàngzi kàn qǐlái hěn pí bèi.",
+      "english": "His appearance looks very tired."
     },
     {
-      "chinese": "他做事的样子十分认真(他做事的樣子十分認真)，同事很佩服他(同事很佩服他)。",
-      "pinyin": "tā zuòshì de yàngzi shífēn rènzhēn, tóngshì hěn pèifú tā。",
-      "english": "His manner of working is very conscientious, and his colleagues admire him."
+      "chinese": "这件衣服的款式和样式很流行(這件衣服的款式和樣式很流行)。",
+      "pinyin": "Zhè jiàn yīfú de kuǎnshì hé yàngshì hěn liúxíng.",
+      "english": "The style and appearance of this clothing are very popular."
+    },
+    {
+      "chinese": "你应该学学他的工作样(你應該學學他的工作樣)。",
+      "pinyin": "Nǐ yīnggāi xué xué tā de gōngzuò yàng.",
+      "english": "You should learn his manner of working."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "how many",
   "etymology": {
     "type": "compound word",
-    "description": "多(多) (duō, \"many\") + 少(少) (shao, \"few\") combine to ask about quantity or degree. They are used together to form a question about 'how many' or 'how much'.",
-    "interpretation": "In Chinese, the combination of 多(多) (duō, \"many\") and 少(少) (shao, \"few\") is used to inquire about an amount or quantity, effectively functioning as a way to ask 'how many' or 'how much' in both colloquial and formal contexts.",
+    "description": "多(多) (duō, \"many\") refers to a large quantity, while 少(少) (shǎo, \"few\") refers to a small quantity or lack. Together, 多少(多少) (duōshao, \"how many\") asks about the number of items, functioning as an interrogative phrase inquiring about quantity.",
+    "interpretation": "The character 多(多) (duō, \"many\") suggests an abundance or a large number, while 少(少) (shǎo, \"few\") signifies a small number or scarcity. Combining these contrasting notions forms a question about numerical quantity, 'how many,' blending the concepts of more and less.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "多",
       "trad": "多",
       "pinyin": "duō",
-      "english": "many; much; more"
+      "english": "many; much"
     },
     {
       "char": "少",
       "trad": "少",
-      "pinyin": "shao",
-      "english": "few; little; less"
+      "pinyin": "shǎo",
+      "english": "few; little"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你的公司有多少人(你的公司有多少人)？",
-      "pinyin": "nǐ de gōngsī yǒu duōshǎo rén?",
-      "english": "How many people are in your company?"
+      "chinese": "你想买多少苹果(你想買多少蘋果)？",
+      "pinyin": "Nǐ xiǎng mǎi duōshao píngguǒ?",
+      "english": "How many apples do you want to buy?"
     },
     {
-      "chinese": "公园里有多少花(公園裡有多少花)？",
-      "pinyin": "gōngyuán lǐ yǒu duōshǎo huā?",
-      "english": "How many flowers are in the park?"
+      "chinese": "这里有多少人(這裡有多少人)？",
+      "pinyin": "Zhèlǐ yǒu duōshao rén?",
+      "english": "How many people are here?"
     },
     {
-      "chinese": "书架上有多少本书(書架上有多少本書)？",
-      "pinyin": "shūjià shàng yǒu duōshǎo běn shū?",
-      "english": "How many books are on the shelf?"
+      "chinese": "你们学校有多少老师(你們學校有多少老師)？",
+      "pinyin": "Nǐmen xuéxiào yǒu duōshao lǎoshī?",
+      "english": "How many teachers are at your school?"
     }
   ]
 }

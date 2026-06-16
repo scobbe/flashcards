@@ -5,8 +5,8 @@
   "english": "kiss",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + phonetic: 勿(勿) (wù) = related to the mouth, with phonetic indication",
-    "interpretation": "The character 吻(wěn, \"kiss\") combines 口(口) (kǒu, \"mouth\") for its semantic element, as a kiss is associated with the mouth, and 勿(勿) (wù) for its phonetic component, indicating pronunciation.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 勿(勿) (wù) -> meaning",
+    "interpretation": "口(口) (kǒu, \"mouth\") suggests the action involves the mouth, which is central to the act of a kiss. The character 勿(勿) (wù) provides the sound. There is no direct semantic contribution from 勿(勿) beyond its phonetic value.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "勿",
       "trad": "勿",
       "pinyin": "wù",
-      "english": "do not; no"
+      "english": "do not"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他轻轻地吻了她的额头(他輕輕地吻了她的額頭)。",
-      "pinyin": "Tā qīngqīng de wěn le tā de étóu.",
-      "english": "He gently kissed her forehead."
+      "chinese": "她给了我一个温柔的吻(她給了我一個溫柔的吻)。",
+      "pinyin": "Tā gěile wǒ yīgè wēnróu de wěn.",
+      "english": "She gave me a gentle kiss."
     },
     {
-      "chinese": "在电影结束时(在電影結束時)，他们深情地吻在一起(他們深情地吻在一起)。",
-      "pinyin": "Zài diànyǐng jiéshù shí, tāmen shēnqíng de wěn zài yīqǐ.",
-      "english": "At the end of the movie, they kissed passionately."
+      "chinese": "他们在月光下接吻(他們在月光下接吻)。",
+      "pinyin": "Tāmen zài yuèguāng xià jiēwěn.",
+      "english": "They kissed under the moonlight."
     },
     {
-      "chinese": "她给了我一个告别吻(她給了我一個告別吻)。",
-      "pinyin": "Tā gěi le wǒ yī gè gàobié wěn.",
-      "english": "She gave me a farewell kiss."
+      "chinese": "初吻总是让人难以忘怀(初吻總是讓人難以忘懷)。",
+      "pinyin": "Chūwěn zǒng shì ràng rén nányǐ wànghuái.",
+      "english": "The first kiss is always unforgettable."
     }
   ]
 }

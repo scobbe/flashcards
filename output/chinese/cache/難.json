@@ -5,35 +5,40 @@
   "english": "difficult",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 隹(隹) (zhuī, \"short-tailed bird\") + phonetic: 莫(莫) (mò) = sound and sense -> difficult",
-    "interpretation": "The character combines 隹(隹) (zhuī, \"short-tailed bird\"), suggesting something small or elusive, with 莫(莫) (mò) for its phonetic contribution. Together, they evoke a sense of difficulty or challenge.",
-    "simplification": ""
+    "description": "semantic 隹(隹) (zhuī, \"bird\") + phonetic 暵(暵) (hàn) -> a type of bird -> borrowed phonetically for \"difficult\"",
+    "interpretation": "The character originally referred to a specific type of bird using 隹(隹) (zhuī, \"bird\") as the semantic element and 暵(暵) (hàn) as the phonetic sound. Over time, it was borrowed phonetically for the sense of \"difficult,\" detached from the original bird meaning.",
+    "simplification": "The traditional form 難 was simplified by removing the left component, resulting in the character 难, which retains the phonetic element but simplifies the writing."
   },
   "parts": [
     {
       "char": "隹",
       "trad": "隹",
       "pinyin": "zhuī",
-      "english": "short-tailed bird"
+      "english": "bird"
     },
     {
-      "char": "莫",
-      "trad": "莫",
-      "pinyin": "mò",
-      "english": "sound and sense"
+      "char": "暵",
+      "trad": "暵",
+      "pinyin": "hàn",
+      "english": "dry hot wind; phonetic element"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这道题太难(這道題太難)。",
-      "pinyin": "Zhè dào tí tài nán.",
-      "english": "This problem is too difficult."
+      "chinese": "这道数学题很难(這道數學題很難)。",
+      "pinyin": "Zhè dào shùxuétí hěn nán.",
+      "english": "This math problem is very difficult."
     },
     {
-      "chinese": "考试不容易(考試不容易)，却很难掌握(卻很難掌握)。",
-      "pinyin": "Kǎoshì bù róngyì, què hěn nán zhǎngwò.",
-      "english": "Exams are not easy, yet they are difficult to master."
+      "chinese": "学习一种新语言不容易(學習一種新語言不容易)，但是很有趣(但是很有趣)。",
+      "pinyin": "Xuéxí yī zhǒng xīn yǔyán bù róngyì, dànshì hěn yǒuqù.",
+      "english": "Learning a new language is not easy, but it's very interesting."
+    },
+    {
+      "chinese": "他觉得掌握钢琴技巧很难(他覺得掌握鋼琴技巧很難)。",
+      "pinyin": "Tā juéde zhǎngwò gāngqín jìqiǎo hěn nán.",
+      "english": "He finds mastering piano skills difficult."
     }
   ]
 }

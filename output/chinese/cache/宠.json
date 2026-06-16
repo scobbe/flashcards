@@ -5,9 +5,9 @@
   "english": "favor; pamper",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 宀(宀) (mián, \"roof\") + phonetic: 龍(龙) (lóng, \"dragon\") = protection under a roof granted to a revered creature -> favor; pamper",
-    "interpretation": "The character combines the sheltering element 宀(宀) (mián, \"roof\") with the phonetic and majestic 龍(龙) (lóng, \"dragon\"), conveying the idea of special attention or privilege granted to someone cherished, like a dragon sheltered in a house.",
-    "simplification": "寵(寵) was simplified to 宠(宠) by reducing 龍(龙) to a more cursive and phonetic form that still resembles the association with protection or favor."
+    "description": "semantic 宀 (mián, \"roof\") + phonetic 龍 (lóng, \"dragon\") -> favor",
+    "interpretation": "The character 寵 (chǒng) combines the semantic component 宀 (mián, \"roof\"), suggesting the home or a nurturing space, with the phonetic component 龍 (lóng, \"dragon\"), which contributes the pronunciation. The combination suggests the idea of conferring favor or special care, akin to how one might cherish something precious within one's own home.",
+    "simplification": "寵(寵) (chǒng, \"favor\") was simplified by replacing the complex 龍 (lóng, \"dragon\") with the simpler component 宀 and removing multiple strokes, creating 宠(寵)."
   },
   "parts": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "char": "龍",
-      "trad": "龙",
+      "trad": "龍",
       "pinyin": "lóng",
       "english": "dragon"
     }
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈宠孩子(媽媽寵孩子)。",
-      "pinyin": "māmā chǒng háizi.",
-      "english": "Mother pampers her child."
+      "chinese": "他很宠他的狗(他很寵他的狗)。",
+      "pinyin": "Tā hěn chǒng tā de gǒu.",
+      "english": "He pampers his dog a lot."
     },
     {
-      "chinese": "他宠女儿(他寵女兒)，带她去游乐园(帶她去遊樂園)。",
-      "pinyin": "tā chǒng nǚér, dài tā qù yóulèyuán.",
-      "english": "He dotes on his daughter and takes her to the amusement park."
+      "chinese": "这个孩子被父母宠坏了(這個孩子被父母寵壞了)。",
+      "pinyin": "Zhège háizi bèi fùmǔ chǒng huài le.",
+      "english": "This child has been spoiled by the parents."
     },
     {
-      "chinese": "李先生宠爱宠物(李先生寵愛寵物)。",
-      "pinyin": "lǐ xiānshēng chǒng'ài chǒngwù.",
-      "english": "Mr. Li spoils his pet."
+      "chinese": "她一直是个备受宠爱的公主(她一直是個備受寵愛的公主)。",
+      "pinyin": "Tā yīzhí shì gè bèi shòu chǒng'ài de gōngzhǔ.",
+      "english": "She has always been a much-pampered princess."
     }
   ]
 }

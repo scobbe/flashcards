@@ -5,8 +5,8 @@
   "english": "first; previous",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "止(止) (zhǐ, \"foot\") + 儿(儿) (ér, \"person\") = person with feet moving forward -> first; previous",
-    "interpretation": "The character 先(xiān) combines the image of a foot 止(止) (zhǐ, \"foot\") and a person 儿(儿) (ér, \"person\") to suggest the idea of leading or going ahead, translating to 'first' or 'previous'. It visually represents someone with feet moving forward, emphasizing the concept of precedence or priority.",
+    "description": "止(止) (zhǐ, \"foot\") + 儿(儿) (ér, \"person\") = foot in front of person -> to go forward -> first, previous",
+    "interpretation": "The character 先(xiān, \"first; previous\") combines 止(止) (zhǐ, \"foot\") and 儿(儿) (ér, \"person\") to depict a foot moving forward in front of a person, symbolizing the act of proceeding or being ahead, leading to the meaning of 'first' as something that goes before or precedes others.",
     "simplification": ""
   },
   "parts": [
@@ -18,7 +18,7 @@
     },
     {
       "char": "儿",
-      "trad": "兒",
+      "trad": "儿",
       "pinyin": "ér",
       "english": "person"
     }
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "先喝汤(先喝湯)，再吃饭(再吃飯)。",
-      "pinyin": "Xiān hē tāng, zài chī fàn.",
-      "english": "First, drink the soup, then eat the meal."
+      "chinese": "我先去商店(我先去商店)。",
+      "pinyin": "Wǒ xiān qù shāngdiàn.",
+      "english": "I will go to the store first."
     },
     {
-      "chinese": "你先问问老师(你先問問老師)，再做决定(再做決定)。",
-      "pinyin": "Nǐ xiān wènwèn lǎoshī, zài zuò juédìng.",
-      "english": "Ask the teacher first, then make a decision."
+      "chinese": "你需要先完成作业(你需要先完成作業)，然后才能看电视(然後才能看電視)。",
+      "pinyin": "Nǐ xūyào xiān wánchéng zuòyè, ránhòu cáinéng kàn diànshì.",
+      "english": "You need to finish your homework first, then you can watch TV."
+    },
+    {
+      "chinese": "请先听我说(請先聽我說)，再决定(再決定)。",
+      "pinyin": "Qǐng xiān tīng wǒ shuō, zài juédìng.",
+      "english": "Please listen to me first before making a decision."
     }
   ]
 }

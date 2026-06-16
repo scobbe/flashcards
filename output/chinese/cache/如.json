@@ -5,40 +5,40 @@
   "english": "like; as if",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "女(女) (nǚ, \"woman\") + 口(口) (kǒu, \"mouth\") = semantic element (woman talking) + phonetic element (sound similar to \"rú\") -> like; as if",
-    "interpretation": "The character 如(如) (rú, \"like; as if\") combines 女(女) (nǚ, \"woman\") with 口(口) (kǒu, \"mouth\"). It suggests the idea of something resembling or being like another, possibly through speech or assertion.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 女(女) (nǚ, \"woman\") -> like/as if",
+    "interpretation": "The character 如(rú, \"like; as if\") combines 口(口) (kǒu, \"mouth\") as the semantic element, suggesting speech or expression, with 女(女) (nǚ, \"woman\") as the phonetic element indicating the sound. The woman's compliance in cultural contexts implies conformity or likeness, leading to meanings like 'like' or 'as if'.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "女",
-      "trad": "女",
-      "pinyin": "nǚ",
-      "english": "woman"
-    },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
       "english": "mouth"
+    },
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他跑得如风一般快(他跑得如風一般快)。",
-      "pinyin": "Tā pǎo de rú fēng yībān kuài.",
-      "english": "He runs as fast as the wind."
+      "chinese": "他如风一般快速穿过人群(他如風一般快速穿過人群)。",
+      "pinyin": "Tā rú fēng yī bān kuài sù chuān guò rén qún.",
+      "english": "He moved through the crowd as swiftly as the wind."
     },
     {
-      "chinese": "她说话如诗般动听(她說話如詩般動聽)，举止如画般优雅(舉止如畫般優雅)。",
-      "pinyin": "Tā shuōhuà rú shī bān dòngtīng, jǔzhǐ rú huà bān yōuyǎ.",
-      "english": "She speaks as beautifully as poetry, and her demeanor is as elegant as a painting."
+      "chinese": "他的声音如天籁(他的聲音如天籟)，令人陶醉(令人陶醉)。",
+      "pinyin": "Tā de shēng yīn rú tiān lài, lìng rén táo zuì.",
+      "english": "His voice was like celestial music, intoxicating to the listener."
     },
     {
-      "chinese": "生活如旅程般充满未知(生活如旅程般充滿未知)，梦想如星空般璀璨(夢想如星空般璀璨)。",
-      "pinyin": "Shēnghuó rú lǚchéng bān chōngmǎn wèizhī, mèngxiǎng rú xīngkōng bān cuǐcàn.",
-      "english": "Life is as full of uncertainties as a journey, and dreams shine as brilliantly as the starry sky."
+      "chinese": "她的笑容如阳光般灿烂(她的笑容如陽光般燦爛)。",
+      "pinyin": "Tā de xiào róng rú yáng guāng bān càn làn.",
+      "english": "Her smile was as bright as the sunlight."
     }
   ]
 }

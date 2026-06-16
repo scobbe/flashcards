@@ -5,8 +5,8 @@
   "english": "overlord; tyrant; large; dominant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "革(革) (gé, \"change\") + 月(月) (yuè, \"moon\") = changes in moonlight -> 雨(雨) (yǔ, \"rain\") added -> final form 霸",
-    "interpretation": "The character 霸 originally depicted the concept of changes occurring with the moon, which connoted authority and dominance. The addition of 雨(雨) (yǔ, \"rain\") as a phonetic component refined its association with natural influence and dominance.",
+    "description": "革(革) (gé, \"change\") + 月(月) (yuè, \"moon\") -> changes in moonlight; bronze inscriptions added 雨(雨) (yǔ, \"rain\") to form 䨣 (bà)",
+    "interpretation": "The character 霸(bà, \"overlord; tyrant\") combines 革(革) (gé, \"change\") and 月(月) (yuè, \"moon\"), representing changes seen in the moonlight. This signifies the power or changeability inherent in an overlord. The added 雨(雨) (yǔ, \"rain\") in bronze inscriptions emphasizes natural forces affecting leadership and dominance.",
     "simplification": ""
   },
   "parts": [
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他喜欢称霸武林(他喜歡稱霸武林)。",
-      "pinyin": "Tā xǐhuān chēng bà wǔlín.",
-      "english": "He enjoys dominating the martial arts world."
+      "chinese": "那个国王渐渐变成了一个暴虐的霸主(那個國王漸漸變成了一個暴虐的霸主)。",
+      "pinyin": "Nàgè guówáng jiànjiàn biànchéngle yīgè bàonüè de bàzhǔ.",
+      "english": "The king gradually became a tyrannical overlord."
     },
     {
-      "chinese": "这座建筑设计得十分霸气(這座建築設計得十分霸氣)，引来众人赞叹(引來眾人讚歎)。",
-      "pinyin": "Zhè zuò jiànzhù shèjì dé shífēn bàqì, yǐn lái zhòng rén zàntàn.",
-      "english": "The building is designed in a strikingly dominant style, attracting widespread admiration."
+      "chinese": "在这个市场上(在這個市場上)，他们公司的产品处于霸主地位(他們公司的產品處於霸主地位)。",
+      "pinyin": "Zài zhège shìchǎng shàng, tāmen gōngsī de chǎnpǐn chǔyú bàzhǔ dìwèi.",
+      "english": "In this market, their company's products are in a dominant position."
     },
     {
-      "chinese": "那位霸主(那位霸主)独自统治着边疆(獨自統治著邊疆)。",
-      "pinyin": "Nà wèi bàzhǔ dúzì tǒngzhì zhe biānjiāng.",
-      "english": "That overlord rules the border alone."
+      "chinese": "这部电影描述了一个古代霸主的兴衰故事(這部電影描述了一個古代霸主的興衰故事)。",
+      "pinyin": "Zhè bù diànyǐng miáoshùle yīgè gǔdài bàzhǔ de xīngshuāi gùshì.",
+      "english": "This film describes the rise and fall of an ancient overlord."
     }
   ]
 }

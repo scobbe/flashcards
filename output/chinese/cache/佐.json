@@ -5,14 +5,14 @@
   "english": "to assist",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, \"person\") + 左(左) (zuǒ) = person assisting -> to assist",
-    "interpretation": "In the character 佐(佐) (zuǒ, \"to assist\"), the semantic component 亻(亻) (rén, \"person\") indicates the involvement of a person, while 左(左) (zuǒ) provides the phonetic hint. This combination suggests someone helping or aiding another, with the focus on action related to people.",
+    "description": "semantic 亻(人) (rén, \"person\") + phonetic 左(左) (zuǒ) -> to assist",
+    "interpretation": "The character 佐(佐) (zuǒ, \"to assist\") combines 亻(人) (rén, \"person\"), indicating action related to a person, with 左(左) (zuǒ), which provides the sound. The idea is of a person providing support or assistance, aligning with the meaning of 'to assist'.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "亻",
-      "trad": "亻",
+      "trad": "人",
       "pinyin": "rén",
       "english": "person"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我主动佐同事解决问题(我主動佐同事解決問題)。",
-      "pinyin": "Wǒ zhǔdòng zuǒ tóngshì jiějué wèntí.",
-      "english": "I actively assist colleagues in solving problems."
+      "chinese": "他在工作上佐我(他在工作上佐我)。",
+      "pinyin": "Tā zài gōngzuò shàng zuǒ wǒ.",
+      "english": "He assists me at work."
     },
     {
-      "chinese": "他在危急关头佐医护人员抢救伤员(他在危急關頭佐醫護人員搶救傷員)，展现了团队合作精神(展現了團隊合作精神)。",
-      "pinyin": "Tā zài wéijí guāntóu zuǒ yīhù rényuán qiǎngjiù shāngyuán, zhǎnxiàn le tuánduì hézuò jīngshén.",
-      "english": "He assisted the medical staff in rescuing the injured during a critical moment, demonstrating team spirit."
+      "chinese": "这位年轻的医生通过佐导师获得了宝贵的经验(這位年輕的醫生通過佐導師獲得了寶貴的經驗)。",
+      "pinyin": "Zhè wèi niánqīng de yīshēng tōngguò zuǒ dǎoshī huòdéle bǎoguì de jīngyàn.",
+      "english": "The young doctor gained valuable experience through assisting the mentor."
+    },
+    {
+      "chinese": "他愿意佐国家渡过难关(他願意佐國家渡過難關)。",
+      "pinyin": "Tā yuànyì zuǒ guójiā dùguò nánguān.",
+      "english": "He is willing to assist the country through difficult times."
     }
   ]
 }

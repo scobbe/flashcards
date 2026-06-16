@@ -1,0 +1,44 @@
+{
+  "simplified": "紅",
+  "traditional": "紅",
+  "pinyin": "hóng",
+  "english": "red; popular; revolution; bonus",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 糸(糸) (mì, \"silk\") + phonetic 工(工) (gōng) -> red",
+    "interpretation": "The character combines 糸(糸) (mì, \"silk\"), illustrating the context of dyed or colored silk, with the phonetic 工(工) (gōng), offering the pronunciation. The use of silk relates to the traditional skill of dyeing fabric, specifically producing the color red.",
+    "simplification": "Simplified as 红, where 糸(糸) (mì, \"silk\") was replaced by the simplified radical 纟, reducing strokes while keeping the character's meaning intact."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    },
+    {
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的脸红了(他的臉紅了)。",
+      "pinyin": "Tā de liǎn hóng le.",
+      "english": "His face turned red."
+    },
+    {
+      "chinese": "这本书最近很红(這本書最近很紅)。",
+      "pinyin": "Zhè běn shū zuìjìn hěn hóng.",
+      "english": "This book is very popular recently."
+    },
+    {
+      "chinese": "在革命时期(在革命時期)，许多人都穿着红色的服装(許多人都穿著紅色的服裝)。",
+      "pinyin": "Zài gémìng shíqí, xǔduō rén dōu chuānzhe hóngsè de fúzhuāng.",
+      "english": "During the revolutionary period, many people wore red clothing."
+    }
+  ]
+}

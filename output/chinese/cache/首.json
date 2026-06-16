@@ -5,27 +5,27 @@
   "english": "head",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a head with the stylized representation of eyes and hair",
-    "interpretation": "The character 首(首) (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.",
+    "description": "Depicts the head of an animal with a long mouth and horns, often shown with or without hair ( 巛) -> perpetuated as 𩠐 (form with hair) -> streamlined to 首",
+    "interpretation": "The character depicts the head of an animal, with prominent features like a long mouth and horns, emphasizing the notion of a 'head' both physically and symbolically as the foremost part.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他昂首挺胸走上领奖台(他昂首挺胸走上領獎台)。",
-      "pinyin": "Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.",
-      "english": "He walked onto the podium with his head held high."
+      "chinese": "他是这个团队的首领(他是這個團隊的首領)。",
+      "pinyin": "Tā shì zhège tuánduì de shǒulǐng.",
+      "english": "He is the head of this team."
     },
     {
-      "chinese": "受伤后(受傷後)，他低下首表示谦逊(他低下首表示謙遜)。",
-      "pinyin": "Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.",
-      "english": "After being injured, he lowered his head to show humility."
+      "chinese": "这首歌(這首歌)是我最喜欢的歌曲(是我最喜歡的歌曲)。",
+      "pinyin": "Zhè shǒu gē shì wǒ zuì xǐhuān de gēqǔ.",
+      "english": "This song is my favorite track."
     },
     {
-      "chinese": "他被选为公司的首席执行官(他被選為公司的首席執行官)。",
-      "pinyin": "Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.",
-      "english": "He was elected as the company's chief executive officer."
+      "chinese": "他抬起头(他抬起頭)，看向远方的山(看向遠方的山)。",
+      "pinyin": "Tā tái qǐ tóu, kàn xiàng yuǎnfāng de shān.",
+      "english": "He raised his head and looked towards the distant mountains."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "in; at",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 才(才) (cái, \"talent\") + Phonetic: 士(士) (shì, \"scholar\") -> 刻(刻) (kè, \"engrave\") phonetic proxy -> 土(土) (tǔ, \"earth\") corrupted",
-    "interpretation": "Originally, the character 在(zài, \"in; at\") just used 才(才) (cái, \"talent\") as a phonetic element. However, 士(士) (shì, \"scholar\") was later added as another phonetic layer. Over time, 士 shifted to 土(土) (tǔ, \"earth\"), reflecting its usage.",
+    "description": "才(才) (cái, \"ability\") phonetically borrowed -> 士(士) (shì, \"scholar\") added phonetically -> 士 corrupted into 土(土) (tǔ, \"earth\") -> final form 在 (zài, \"in; at\")",
+    "interpretation": "Originally, 才(才) (cái, \"ability\") was used for its sound to express the meaning 'in' or 'at'. The character then evolved by adding 士(士) (shì, \"scholar\") as an additional phonetic component. Over time, 士 transformed into 土(土) (tǔ, \"earth\"), which is preserved in the modern character. The compound thus indicates presence (being 'at' or 'in' a specific location), with 土 suggesting ground or location.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "才",
       "trad": "才",
       "pinyin": "cái",
-      "english": "talent"
+      "english": "ability"
     },
     {
       "char": "士",
@@ -37,9 +37,14 @@
       "english": "I study at school."
     },
     {
-      "chinese": "他在图书馆看书(他在圖書館看書)，妈妈在厨房做饭(媽媽在廚房做飯)。",
-      "pinyin": "Tā zài túshūguǎn kànshū, māmā zài chúfáng zuò fàn.",
-      "english": "He reads books in the library, and his mother cooks in the kitchen."
+      "chinese": "猫在沙发上睡觉(貓在沙發上睡覺)。",
+      "pinyin": "Māo zài shāfā shàng shuìjiào.",
+      "english": "The cat is sleeping on the sofa."
+    },
+    {
+      "chinese": "他在房间看书(他在房間看書)。",
+      "pinyin": "Tā zài fángjiān kànshū.",
+      "english": "He is reading a book in the room."
     }
   ]
 }

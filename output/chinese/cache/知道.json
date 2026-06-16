@@ -5,8 +5,8 @@
   "english": "know; aware",
   "etymology": {
     "type": "compound word",
-    "description": "知(知) (zhī, \"know; be aware\") refers to understanding or awareness, and 道(道) (dào, \"way; path\") signifies a method or principle. Combined, 知道(知道) (zhīdào, \"know; aware\") conveys the concept of having awareness or knowledge of a particular matter or principle.",
-    "interpretation": "In the phrase 知道(知道), the concept of 'knowing the way or principle' is emphasized, reflecting an understanding or awareness of something specific.",
+    "description": "知(知) (zhī, \"know\") refers to mental knowledge or awareness, often related to understanding or being informed about something. 道(道) (dào, \"way\") originally means \"way\" or \"path,\" and by extension, it came to mean a way or method of doing something, as well as information or knowledge in a philosophical sense.",
+    "interpretation": "知(知) (zhī, \"know\") represents the intellectual act of knowing, which involves awareness and understanding. 道(道) (dào, \"way\") adds the dimension of method or path, suggesting knowing as a structured or guided process. Together, 知道 (zhīdào) conveys the notion of being informed or aware, as if one has found and follows a path to knowledge or understanding.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "知",
       "trad": "知",
       "pinyin": "zhī",
-      "english": "know; be aware"
+      "english": "know; understand; be aware"
     },
     {
       "char": "道",
       "trad": "道",
       "pinyin": "dào",
-      "english": "way; path; principle; method"
+      "english": "way; path; method; knowledge"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我知道(我知道)，他明天会来(他明天會來)。",
-      "pinyin": "Wǒ zhīdào, tā míngtiān huì lái.",
-      "english": "I know that he will come tomorrow."
+      "chinese": "我知道这个问题的答案(我知道這個問題的答案)。",
+      "pinyin": "Wǒ zhīdào zhège wèntí de dá'àn.",
+      "english": "I know the answer to this question."
     },
     {
-      "chinese": "你知道吗(你知道嗎)？",
-      "pinyin": "Nǐ zhīdào ma?",
-      "english": "Do you know?"
+      "chinese": "她不知道明天的计划(她不知道明天的計劃)。",
+      "pinyin": "Tā bù zhīdào míngtiān de jìhuà.",
+      "english": "She doesn't know tomorrow's plans."
     },
     {
-      "chinese": "她一听到消息就知道(她一聽到消息就知道)，结果会很严重(結果會很嚴重)。",
-      "pinyin": "Tā yī tīngdào xiāoxī jiù zhīdào, jiéguǒ huì hěn yánzhòng.",
-      "english": "She knew immediately upon hearing the news that the outcome would be very serious."
+      "chinese": "我们都知道战争的影响(我們都知道戰爭的影響)。",
+      "pinyin": "Wǒmen dōu zhīdào zhànzhēng de yǐngxiǎng.",
+      "english": "We all know the impact of war."
     }
   ]
 }

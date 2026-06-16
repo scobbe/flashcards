@@ -5,9 +5,9 @@
   "english": "lou",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Originally 爪(爪) (zhǎo, \"hands\") + 角(角) (jiǎo, \"horn\") + 女(女) (nǚ, \"woman\") -> later 母(母) (mǔ, \"mother\") + 中(中) (zhōng, \"middle\") + 女(女) (nǚ, \"daughter\")",
-    "interpretation": "The character initially combined elements representing hands, a horn, and a woman to form a phonetic compound. Over time, it evolved to convey a conceptual idea involving 'mother' and 'daughter' with a 'middle', although the exact meaning is uncertain.",
-    "simplification": "娄(婁): the complex character 婁 was simplified by omitting the central components and streamlining the structure."
+    "description": "Original: semantic 爪(爪) (zhǎo, \"hands\") + phonetic 角(角) (jiǎo, \"horn\") + semantic 女(女) (nǚ, \"woman\") -> meaning uncertain -> Later: ideogrammic compound 母(母) (mǔ, \"mother\") + 中(中) (zhōng, \"middle\") + 女(女) (nǚ, \"woman\")",
+    "interpretation": "Initially, the character combined 爪(爪) (zhǎo, \"hands\"), 角(角) (jiǎo, \"horn\"), and 女(女) (nǚ, \"woman\") for a meaning that remains uncertain. The later pictographic representation of 母(母) (mǔ, \"mother\") plus 中(中) (zhōng, \"middle\") and 女(女) (nǚ, \"woman\") suggests the idea of familial relations, particularly involving women, though specifics are unclear.",
+    "simplification": "娄 is the simplified form of the traditional 婁 by reducing complexity and likely through the removal of some components for ease of writing, maintaining just 女(女) (nǚ, \"woman\") to preserve minimal recognition."
   },
   "parts": [
     {
@@ -44,19 +44,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在古代，娄星(在古代，婁星)被认为是一颗重要的恒星。",
-      "pinyin": "Zài gǔdài, lóuxīng bèi rènwéi shì yī kē zhòngyào de héngxīng.",
-      "english": "In ancient times, the star Lou was considered an important star."
+      "chinese": "他刚建造了一座新的大厦(他剛建造了一座新的大廈)，名字叫做娄星大厦(名字叫做婁星大廈)。",
+      "pinyin": "Tā gāng jiànzàole yī zuò xīn de dàshà, míngzì jiàozuò lóuxīng dàshà.",
+      "english": "He just built a new building called Louxing Tower."
     },
     {
-      "chinese": "他研究的天文学项目涉及到娄宿(他研究的天文學項目涉及到婁宿)，希望揭示更多宇宙秘密(希望揭示更多宇宙秘密)。",
-      "pinyin": "Tā yánjiū de tiānwénxué xiàngmù shèjí dào lóusù, xīwàng jiēshì gèng duō yǔzhòu mìmì.",
-      "english": "His astronomy project involves the Lou constellation, hoping to uncover more secrets of the universe."
+      "chinese": "我们住在一个叫娄底的地方(我們住在一個叫婁底的地方)。",
+      "pinyin": "Wǒmen zhù zài yīgè jiào Lóudǐ de dìfāng.",
+      "english": "We live in a place called Loudi."
     },
     {
-      "chinese": "对于一些古老文化而言，娄与神话故事紧密相连(對於一些古老文化而言，婁與神話故事緊密相連)。",
-      "pinyin": "Duìyú yīxiē gǔlǎo wénhuà ér yán, lóu yǔ shénhuà gùshì jǐnmì xiānglián.",
-      "english": "For some ancient cultures, Lou is closely connected to mythological stories."
+      "chinese": "娄是一个罕见的姓氏(婁是一個罕見的姓氏)。",
+      "pinyin": "Lóu shì yī gè hǎnjiàn de xìngshì.",
+      "english": "Lou is an uncommon surname."
     }
   ]
 }

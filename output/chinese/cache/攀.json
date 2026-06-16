@@ -5,8 +5,8 @@
   "english": "climb",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 樊(樊) (fán) + Semantic: 手(手) (shǒu, \"hand\") = climbing using hands -> climb",
-    "interpretation": "The character 攀(pān, \"climb\") vividly conveys the action of climbing by combining the phonetic component 樊(樊) (fán) with a depiction of a hand, emphasizing the physical effort involved.",
+    "description": "phonetic 樊(fán) (fence) + semantic 手(手) (shǒu, \"hand\") -> climb",
+    "interpretation": "攀(pān) combines the phonetic element 樊(fán) with the semantic 手(手), suggesting the use of hands to climb over fences or obstacles. The hand represents the action of climbing, while 樊 provides the sound.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "樊",
       "trad": "樊",
       "pinyin": "fán",
-      "english": ""
+      "english": "fence"
     },
     {
       "char": "手",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他攀藤而上(他攀藤而上)。",
-      "pinyin": "Tā pān téng ér shàng.",
-      "english": "He climbs up the vines."
+      "chinese": "他喜欢去山区攀岩(他喜歡去山區攀岩)。",
+      "pinyin": "Tā xǐhuān qù shānqū pānyán.",
+      "english": "He likes to go rock climbing in the mountains."
     },
     {
-      "chinese": "探险家攀登险峰(探險家攀登險峰)，追寻梦想之顶(追尋夢想之頂)。",
-      "pinyin": "Tànxiǎnjiā pāndēng xiǎnfēng, zhuīxún mèngxiǎng zhī dǐng.",
-      "english": "The adventurer climbs treacherous peaks, seeking the pinnacle of his dreams."
+      "chinese": "我们一起攀登这座高山(我們一起攀登這座高山)。",
+      "pinyin": "Wǒmen yīqǐ pāndēng zhè zuò gāoshān.",
+      "english": "We will climb this tall mountain together."
+    },
+    {
+      "chinese": "在春天，他常常攀树(在春天，他常常攀樹)，享受大自然(享受大自然)。",
+      "pinyin": "Zài chūntiān, tā chángcháng pān shù, xiǎngshòu dàzìrán.",
+      "english": "In spring, he often climbs trees to enjoy nature."
     }
   ]
 }

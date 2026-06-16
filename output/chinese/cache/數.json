@@ -1,0 +1,44 @@
+{
+  "simplified": "數",
+  "traditional": "數",
+  "pinyin": "shǔ",
+  "english": "count; number; several",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 婁 (lǒu) + semantic 攴(攴) (pū, \"tap\") -> count; number; several",
+    "interpretation": "The character 數 combines the phonetic 婁(lǒu) with the semantic 攴(攴) (pū, \"tap\"), suggesting an action involving counting or enumerating, akin to tapping items or keeping track of numbers. This leads to its meaning of 'count' and 'number'. Over time, the sense extended to 'several,' referring to a count of multiple items.",
+    "simplification": "數 was simplified to 数 by replacing 婁(婁) (lǒu, \"a surname\") with its simpler variant 娄(婁)."
+  },
+  "parts": [
+    {
+      "char": "婁",
+      "trad": "婁",
+      "pinyin": "lǒu",
+      "english": "a surname"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我开始数星星(我開始數星星)。",
+      "pinyin": "Wǒ kāishǐ shǔ xīngxīng.",
+      "english": "I started counting the stars."
+    },
+    {
+      "chinese": "这几天(這幾天)，我有很多事情要处理(我有很多事情要處理)。",
+      "pinyin": "Zhè jǐ tiān, wǒ yǒu hěn duō shìqíng yào chǔlǐ.",
+      "english": "In the past few days, I have had many things to handle."
+    },
+    {
+      "chinese": "数一数(數一數)，看看我们有多少苹果(看看我們有多少蘋果)。",
+      "pinyin": "Shǔ yī shǔ, kàn kàn wǒmen yǒu duōshǎo píngguǒ.",
+      "english": "Count and see how many apples we have."
+    }
+  ]
+}

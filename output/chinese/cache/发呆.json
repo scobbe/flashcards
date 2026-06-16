@@ -5,8 +5,8 @@
   "english": "be in a daze",
   "etymology": {
     "type": "compound word",
-    "description": "发(發) (fā, \"to send out; to emit\") refers to the idea of expressing or emanating something, often used with an action projection. 呆(呆) (dāi, \"dazed; dumb\") describes a state of being stunned or unresponsive, often with a lack of awareness.",
-    "interpretation": "The combination 发呆(發呆) (fādāi, \"be in a daze\") captures the state of mind in which one seems to emit or project a lack of awareness, appearing mentally absent or in a reverie.",
+    "description": "发(發) (fā, \"send out; emit; develop\") + 呆(呆) (dāi, \"dull; foolish\") = to be in a daze",
+    "interpretation": "發(fā, \"send out; emit\") suggests an outward movement or releasing state, such as going into another mental state. 呆(dāi, \"dull; foolish\") indicates a state of being mentally unresponsive or stupefied. Together, 發呆(fādāi) refers to being in a mental state where one 'emits' or transitions into dullness or unresponsiveness, hence being 'in a daze'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "发",
       "trad": "發",
       "pinyin": "fā",
-      "english": "to send out; to emit; to issue; to develop"
+      "english": "send out; emit; develop"
     },
     {
       "char": "呆",
       "trad": "呆",
       "pinyin": "dāi",
-      "english": "dazed; dumb; blank; dull"
+      "english": "dull; foolish"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他正在发呆(他正在發呆)。",
-      "pinyin": "Tā zhèngzài fādāi.",
-      "english": "He is in a daze."
+      "chinese": "他坐在椅子上发呆(他坐在椅子上發呆)。",
+      "pinyin": "Tā zuò zài yǐzi shàng fādāi.",
+      "english": "He sits in a chair in a daze."
     },
     {
-      "chinese": "听到这消息时(聽到這消息時)，他发呆了(他發呆了)。",
-      "pinyin": "Tīng dào zhè xiāoxī shí, tā fādāile.",
-      "english": "When he heard the news, he was in a daze."
+      "chinese": "天气这么好，为什么你还在发呆(天氣這麼好，為什麼你還在發呆)？",
+      "pinyin": "Tiānqì zhème hǎo, wèishéme nǐ hái zài fādāi?",
+      "english": "The weather is so nice, why are you still in a daze?"
     },
     {
-      "chinese": "工作太累时发呆(工作太累時發呆)，让他错过了重要的会议(讓他錯過了重要的會議)。",
-      "pinyin": "Gōngzuò tài lèi shí fādāi, ràng tā cuòguòle zhòngyào de huìyì.",
-      "english": "Being in a daze from too much work made him miss an important meeting."
+      "chinese": "她喜欢在黄昏时分对着天空发呆(她喜歡在黃昏時分對著天空發呆)。",
+      "pinyin": "Tā xǐhuān zài huánghūn shífēn duìzhe tiānkōng fādāi.",
+      "english": "She likes to be in a daze staring at the sky during dusk."
     }
   ]
 }

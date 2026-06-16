@@ -5,8 +5,8 @@
   "english": "very good",
   "etymology": {
     "type": "compound word",
-    "description": "很(很) (hěn, \"very\") and 好(好) (hǎo, \"good\") combine to form a phrase that means \"very good.\" 很(很) (hěn, \"very\") is an intensifier used to modify adjectives, while 好(好) (hǎo, \"good\") describes a positive quality or state.",
-    "interpretation": "This combination is frequently used in Mandarin to express a high degree of positivity or approval by intensifying the adjective 好(好) (hǎo, \"good\").",
+    "description": "很(很) (hěn, \"very\") intensifies a quality or state. 好(好) (hǎo, \"good\") indicates a positive condition.",
+    "interpretation": "很(很) (hěn, \"very\") is used to intensify the following adjective, marking a high degree of the quality it describes. 好(好) (hǎo, \"good\") directly refers to a positive or desirable state. Together, 很好 signifies something that is exceptionally positive or favorable, combining intensity with a good condition.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "很",
       "trad": "很",
       "pinyin": "hěn",
-      "english": "very; quite; much; to a large extent"
+      "english": "very"
     },
     {
       "char": "好",
       "trad": "好",
       "pinyin": "hǎo",
-      "english": "good; well; fine; nice"
+      "english": "good; fine; nice; well"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这部电影很好(這部電影很好)。",
-      "pinyin": "Zhè bù diànyǐng hěn hǎo.",
-      "english": "This movie is very good."
+      "chinese": "你的中文说得很好(你的中文說得很好)。",
+      "pinyin": "Nǐ de zhōngwén shuō de hěn hǎo.",
+      "english": "Your Chinese is spoken very well."
     },
     {
-      "chinese": "今天的天气很好(今天的天氣很好)。",
-      "pinyin": "Jīntiān de tiānqì hěn hǎo.",
-      "english": "Today's weather is very good."
+      "chinese": "这道菜尝起来很好(這道菜嘗起來很好)。",
+      "pinyin": "Zhè dào cài cháng qǐlái hěn hǎo.",
+      "english": "This dish tastes very good."
     },
     {
-      "chinese": "他的中文说得很好(他的中文說得很好)，让人印象深刻(讓人印象深刻)。",
-      "pinyin": "Tā de Zhōngwén shuō de hěn hǎo, ràng rén yìnxiàng shēnkè.",
-      "english": "His Chinese is very good, leaving a deep impression."
+      "chinese": "天气很好(天氣很好)，我们去公园吧(我們去公園吧)。",
+      "pinyin": "Tiānqì hěn hǎo, wǒmen qù gōngyuán ba.",
+      "english": "The weather is very good, let's go to the park."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "force; compel",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 辶(辶) (chuò, 'walk') + phonetic: 畐(畐) (fú) = movement towards a point -> force or compel",
-    "interpretation": "The character 逼(逼) (bī, 'force') combines the walking radical 辶(辶) (chuò, 'walk'), suggesting movement, with the phonetic 畐(畐) (fú), to indicate moving towards or pressuring something. This aligns with the meaning of forcing or compelling.",
+    "description": "semantic 辶(辵) (chuò, \"walk; movement\") + phonetic 畐(畐) (fú) -> meaning",
+    "interpretation": "The character 逼(bī, \"force; compel\") combines the semantic element 辶(辵) (chuò, \"walk; movement\"), suggesting motion or advancement, with the phonetic element 畐(畐) (fú), which provides the sound. Together, these convey the concept of forcing or compelling something to move or advance.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "辶",
-      "trad": "辶",
+      "char": "辵",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     },
     {
       "char": "畐",
       "trad": "畐",
       "pinyin": "fú",
-      "english": "phonetic component"
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他逼我回答问题(他逼我回答問題)。",
-      "pinyin": "Tā bī wǒ huídá wèntí.",
-      "english": "He forced me to answer the question."
+      "chinese": "他常常逼我做不想做的事(他常常逼我做不想做的事)。",
+      "pinyin": "Tā chángcháng bī wǒ zuò bù xiǎng zuò de shì.",
+      "english": "He often forces me to do things I don't want to do."
     },
     {
-      "chinese": "老板逼员工加班(老闆逼員工加班)，工期紧迫(工期緊迫)。",
-      "pinyin": "Lǎobǎn bī yuángōng jiābān, gōngqī jǐnpò.",
-      "english": "The boss compelled the employees to work overtime, and the project deadline was tight."
+      "chinese": "老板逼员工加班(老闆逼員工加班)，引起了很多不满(引起了很多不滿)。",
+      "pinyin": "Lǎobǎn bī yuángōng jiābān, yǐnqǐle hěnduō bùmǎn.",
+      "english": "The boss forces employees to work overtime, causing a lot of dissatisfaction."
+    },
+    {
+      "chinese": "压力感到越逼迫(壓力感到越逼迫)，我越想放弃(我越想放棄)。",
+      "pinyin": "Yālì gǎndào yuè bīpò, wǒ yuè xiǎng fàngqì.",
+      "english": "The more pressured I feel, the more I want to give up."
     }
   ]
 }

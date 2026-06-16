@@ -5,40 +5,40 @@
   "english": "festival; node; joint; segment",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, 'grass') + 即(即) (jí, 'approach') = festival segment relating to seasonal nodes",
-    "interpretation": "節(節) (jié) combines 艹(艹) (cǎo, 'grass'), symbolizing plant growth and natural cycles, with 即(即) (jí, 'approach'), which may imply the approach of events or time segments, to represent festivals and segments of time. This reflects the seasonal and periodic nature of festivals.",
-    "simplification": "節(節) was simplified to 节(節) by reducing 艹(艹) (cǎo, 'grass') to a simpler form and replacing 卽 with 卩(jié), representing the meaning-related concept of 'section'."
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 即(即) (jí)",
+    "interpretation": "節(Jié, \"festival; node; joint; segment\") combines 竹(竹) (zhú, \"bamboo\") with 即(即) (jí) as a phonetic complement. Bamboo represents the semantic aspect due to its segmented structure, reminiscent of nodes or joints. The phonetic 即(即) complements this by providing the sound, without contributing a semantic layer, leading to the meanings related to segmentation, such as 'node', 'joint', or 'segment', and through metaphorical extension, 'festival' as a demarcated time.",
+    "simplification": "节(節) simplifies 節 by removing the 竹(竹) (zhú, \"bamboo\") radical, focusing solely on the phonetic 即(即) (jí) with a visually simpler form."
   },
   "parts": [
     {
-      "char": "艹",
-      "trad": "艹",
-      "pinyin": "cǎo",
-      "english": "grass"
+      "char": "竹",
+      "trad": "竹",
+      "pinyin": "zhú",
+      "english": "bamboo"
     },
     {
       "char": "即",
       "trad": "即",
       "pinyin": "jí",
-      "english": "approach"
+      "english": "to approach"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春节是中国最隆重的节日之一(春節是中國最隆重的節日之一)。",
-      "pinyin": "Chūnjié shì Zhōngguó zuì lóngzhòng de jiérì zhī yī.",
-      "english": "The Spring Festival is one of the most grand festivals in China."
+      "chinese": "春节是中国最重要的节日(春節是中國最重要的節日)。",
+      "pinyin": "Chūnjié shì Zhōngguó zuì zhòngyào de jiérì.",
+      "english": "Spring Festival is the most important festival in China."
     },
     {
-      "chinese": "竹子每隔一节(竹子每隔一節)，就长出一片新叶(就長出一片新葉)。",
-      "pinyin": "Zhúzi měi gé yī jié, jiù zhǎng chū yī piàn xīn yè.",
-      "english": "Every segment of the bamboo gives rise to a new leaf."
+      "chinese": "这根竹子的每个节都很明显(這根竹子的每個節都很明顯)。",
+      "pinyin": "Zhè gēn zhúzi de měi gè jié dōu hěn míngxiǎn.",
+      "english": "Each joint on this bamboo stalk is very distinct."
     },
     {
-      "chinese": "手臂的关节(手臂的關節)，让人能够灵活挥动(讓人能夠靈活揮動)。",
-      "pinyin": "Shǒubì de guānjié, ràng rén nénggòu línghuó huīdòng.",
-      "english": "The joints in the arms allow for flexible movement."
+      "chinese": "我们公司最近完成了一个项目的第一个阶段(我們公司最近完成了一個項目的第一個階段)。",
+      "pinyin": "Wǒmen gōngsī zuìjìn wánchéngle yīgè xiàngmù de dì yī gè jiēduàn.",
+      "english": "Our company recently completed the first segment of a project."
     }
   ]
 }

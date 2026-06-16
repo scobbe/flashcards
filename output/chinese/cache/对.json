@@ -5,9 +5,9 @@
   "english": "correct; right",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "丵(丵) (\"tool for digging\") + 土(土) (tǔ, \"earth\") + 又(又) (yòu, \"hand\") -> originally related to developing land -> borrowed for \"to reply\" -> 又 evolved to 寸(寸) (cùn) in seal script",
-    "interpretation": "The character 對(對) (duì, \"corrects; right\") originally depicted a hand and tool working the earth, possibly related to cultivation. It was later borrowed for meanings related to replying or responding, with script evolution creatively altering its components.",
-    "simplification": "The simplified form 对(對) removes components for a streamlined appearance."
+    "description": "丵 (tool for digging) + 土 (earth) + 又 (hand) -> original uncertain meaning likely 'to develop (land)' -> borrowed for 'to reply'",
+    "interpretation": "The combination of a tool for digging, earth, and a hand suggests engaging with the land, possibly meaning 'to develop (land)'. This original sense was obscure and later broadened to 'to reply', indicating a structured response akin to engaging with an orderly development.",
+    "simplification": "Simplified through the reduction of 對 (對) to 对 (對), where the complex forms of 丵 (tool for digging) and related components were replaced by simpler elements for ease of writing."
   },
   "parts": [
     {
@@ -27,36 +27,24 @@
       "trad": "又",
       "pinyin": "yòu",
       "english": "hand"
-    },
-    {
-      "char": "寸",
-      "trad": "寸",
-      "pinyin": "cùn",
-      "english": "inch"
-    },
-    {
-      "char": "士",
-      "trad": "士",
-      "pinyin": "shì",
-      "english": "scholar"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你说得对(你說得對)。",
-      "pinyin": "Nǐ shuō de duì.",
-      "english": "You are right."
+      "chinese": "你的回答是对的(你的回答是對的)。",
+      "pinyin": "Nǐ de huídá shì duì de.",
+      "english": "Your answer is correct."
     },
     {
-      "chinese": "他的判断对(他的判斷對)，解决问题更高效(解決問題更高效)。",
-      "pinyin": "Tā de pànduàn duì, jiějué wèntí gèng gāoxiào.",
-      "english": "His judgment is correct, making problem solving more efficient."
+      "chinese": "我们对事情的看法不同(我們對事情的看法不同)，所以经常争论(所以經常爭論)。",
+      "pinyin": "Wǒmen duì shìqíng de kànfǎ bù tóng, suǒyǐ jīngcháng zhēnglùn.",
+      "english": "We have different views on things, so we often argue."
     },
     {
-      "chinese": "这个答案对(這個答案對)。",
-      "pinyin": "Zhège dá'àn duì.",
-      "english": "This answer is correct."
+      "chinese": "这就是我想要的答案(這就是我想要的答案)，对吗(對嗎)？",
+      "pinyin": "Zhè jiùshì wǒ xiǎng yào de dá'àn, duì ma?",
+      "english": "This is the answer I want, right?"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "謝",
+  "traditional": "謝",
+  "pinyin": "xiè",
+  "english": "thank",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 言(言) (yán, \"word; speech\") + phonetic 射(射) (shè)",
+    "interpretation": "The character combines 言(言) (yán, \"word; speech\") to convey the idea of verbal expression or saying something, with 射(射) (shè) providing the sound. This combination produces the sense of giving thanks through words.",
+    "simplification": "謝(謝) was simplified to 谢(謝) by replacing 言(言) (yán, \"word; speech\") with its simplified form 讠(讠)."
+  },
+  "parts": [
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "word; speech"
+    },
+    {
+      "char": "射",
+      "trad": "射",
+      "pinyin": "shè",
+      "english": "shoot; archery"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "谢谢你的帮助(謝謝你的幫助)。",
+      "pinyin": "Xièxiè nǐ de bāngzhù.",
+      "english": "Thank you for your help."
+    },
+    {
+      "chinese": "她向我道了一声谢(她向我道了一聲謝)。",
+      "pinyin": "Tā xiàng wǒ dàole yī shēng xiè.",
+      "english": "She thanked me."
+    },
+    {
+      "chinese": "我们应该感谢大自然给予的礼物(我們應該感謝大自然給予的禮物)。",
+      "pinyin": "Wǒmen yīnggāi gǎnxiè dàzìrán jǐyǔ de lǐwù.",
+      "english": "We should thank nature for its gifts."
+    }
+  ]
+}

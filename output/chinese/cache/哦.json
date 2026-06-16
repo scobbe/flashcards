@@ -5,8 +5,8 @@
   "english": "oh",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + phonetic: 我(我) (wǒ, \"I\") = related to speech + phonetic element ó",
-    "interpretation": "The character 哦(哦) (ó, \"oh\") combines the semantic component 口(口) (kǒu, \"mouth\") indicating relation to speech or sound, with the phonetic component 我(我) (wǒ, \"I\"), which suggests its pronunciation. This aligns with its use as an exclamation in spoken language.",
+    "description": "semantic 口 (mouth; speech) + phonetic 我 (sound: ó)",
+    "interpretation": "The character 哦 (ó, 'oh') combines the semantic element 口 (kǒu, 'mouth') indicating speech or voice, with the phonetic component 我 (wǒ) indicating the sound. The presence of 口 suggests an exclamation or verbal expression, aligning with the meaning 'oh'.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "哦(哦)，我明白了(我明白了)。",
-      "pinyin": "Ó, wǒ míngbái le.",
-      "english": "Oh, I understand."
+      "chinese": "哦，我知道了(哦，我知道了)。",
+      "pinyin": "Ó, wǒ zhīdào le.",
+      "english": "Oh, I understand now."
     },
     {
-      "chinese": "你错过车了(你錯過車了)，哦(哦)，请尽快赶去接人(請盡快趕去接人)。",
-      "pinyin": "Nǐ cuòguò chē le, ó, qǐng jǐnkuài gǎn qù jiē rén.",
-      "english": "You missed the bus, oh, please go pick someone up quickly."
+      "chinese": "哦，原来如此(哦，原來如此)。",
+      "pinyin": "Ó, yuánlái rúcǐ.",
+      "english": "Oh, so that's how it is."
+    },
+    {
+      "chinese": "她突然说(她突然說)：“哦，我忘记了(哦，我忘記了)！”",
+      "pinyin": "Tā tūrán shuō: “Ó, wǒ wàngjì le!”",
+      "english": "She suddenly said, 'Oh, I forgot!'"
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "fresh milk",
   "etymology": {
     "type": "compound word",
-    "description": "鮮(鲜) (xiān, \"fresh\") + 奶(奶) (nǎi, \"milk\")",
-    "interpretation": "The word 鮮奶(鲜奶) (xiānnǎi, \"fresh milk\") combines 鮮(鲜) (xiān, \"fresh\") and 奶(奶) (nǎi, \"milk\") to convey the idea of milk that is in its natural, unspoiled state. This term is commonly used to differentiate fresh milk from processed or powdered milk products.",
-    "simplification": "鲜奶 is the simplified form of 鮮奶."
+    "description": "鮮(鮮) (xiān, \"fresh\") refers to something that is fresh and newly produced. 奶(奶) (nǎi, \"milk\") denotes milk, the liquid produced by mammals. Together, 鮮奶(鮮) (xiānnǎi, \"fresh milk\") signifies milk that is fresh and hasn’t undergone prolonged storage or processing.",
+    "interpretation": "鮮(鮮) (xiān, \"fresh\") naturally applies to milk to indicate that it is newly produced and unspoiled, emphasizing quality by implying it is at its natural, unadulterated state. 奶(奶) (nǎi, \"milk\") straightforwardly indicates the type of substance, thus 鮮奶(鮮奶) (xiānnǎi, \"fresh milk\") simply communicates milk that is fresh.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "鲜",
       "trad": "鮮",
       "pinyin": "xiān",
-      "english": "fresh"
+      "english": "fresh; bright; delicious; rare"
     },
     {
       "char": "奶",
       "trad": "奶",
       "pinyin": "nǎi",
-      "english": "milk"
+      "english": "milk; breast; to breastfeed"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天早餐喝鲜奶(我每天早餐喝鮮奶)。",
-      "pinyin": "Wǒ měitiān zǎocān hē xiānnǎi.",
-      "english": "I drink fresh milk for breakfast every day."
+      "chinese": "早餐时我喜欢喝鲜奶(早餐時我喜歡喝鮮奶)。",
+      "pinyin": "Zǎocān shí wǒ xǐhuān hē xiānnǎi.",
+      "english": "I like to drink fresh milk during breakfast."
     },
     {
-      "chinese": "早晨喝鲜奶(早晨喝鮮奶)，有助健康(有助健康)。",
-      "pinyin": "Zǎochén hē xiānnǎi, yǒuzhù jiànkāng.",
-      "english": "Drinking fresh milk in the morning is beneficial for health."
+      "chinese": "她去超市买了一瓶鲜奶(她去超市買了一瓶鮮奶)。",
+      "pinyin": "Tā qù chāoshì mǎile yī píng xiānnǎi.",
+      "english": "She went to the supermarket to buy a bottle of fresh milk."
+    },
+    {
+      "chinese": "小猫最喜欢的食物是鲜奶(小貓最喜歡的食物是鮮奶)。",
+      "pinyin": "Xiǎo māo zuì xǐhuān de shíwù shì xiānnǎi.",
+      "english": "The kitten's favorite food is fresh milk."
     }
   ]
 }

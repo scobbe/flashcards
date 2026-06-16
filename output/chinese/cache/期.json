@@ -5,8 +5,8 @@
   "english": "period; phase; time",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "其(其) (qí, \"his\") + 月(月) (yuè, \"moon\") = period of time marked by the moon -> period; phase; time",
-    "interpretation": "The character 期(期) combines the semantic 月(月) (yuè, \"moon\"), representing a natural cycle of time, with the phonetic 其(其) (qí, \"his\") to suggest temporal relationships or durations. This reflects the traditional role of the moon in marking time in historical Chinese calendars.",
+    "description": "phonetic 其(其) (qí) + semantic 月(月) (yuè, \"moon\") -> changing moon marks passage of time -> period of time",
+    "interpretation": "The character 期(qī, \"period\") combines the phonetic 其(其) (qí, \"his\") with the semantic 月(月) (yuè, \"moon\") to signify the phases of the moon, which naturally represent cycles and periods of time. The moon's regular changes provide a clear, cyclical marker of time's passage.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "考试期将至(考試期將至)，考生们紧张准备(考生們緊張準備)。",
-      "pinyin": "Kǎoshì qī jiāng zhì, kǎoshēng men jǐnzhāng zhǔnbèi.",
-      "english": "The exam period is approaching, and the candidates are preparing nervously."
+      "chinese": "这个项目需要完成的时间是三个月(這個項目需要完成的時間是三個月)。",
+      "pinyin": "Zhège xiàngmù xūyào wánchéng de shíjiān shì sān gè yuè.",
+      "english": "The period required to complete this project is three months."
     },
     {
-      "chinese": "他度过了一个充满期待的艺术期(他度過了一個充滿期待的藝術期)。",
-      "pinyin": "Tā dùguò le yīgè chōngmǎn qīdài de yìshù qī.",
-      "english": "He experienced an art phase full of anticipation."
+      "chinese": "在考试期间(在考試期間)，请保持安静(請保持安靜)。",
+      "pinyin": "Zài kǎoshì qījiān, qǐng bǎochí ānjìng.",
+      "english": "During the exam period, please remain quiet."
     },
     {
-      "chinese": "这个经济期虽然艰难(這個經濟期雖然艱難)，但蕴藏着无限可能(但蘊藏著無限可能)。",
-      "pinyin": "Zhège jīngjì qī suīrán jiānnán, dàn yùncáng zhe wúxiàn kěnéng.",
-      "english": "Although this economic period is tough, it holds infinite possibilities."
+      "chinese": "我们在下一个阶段继续努力(我們在下一個階段繼續努力)。",
+      "pinyin": "Wǒmen zài xià yī gè jiēduàn jìxù nǔlì.",
+      "english": "We will continue to work hard in the next phase."
     }
   ]
 }

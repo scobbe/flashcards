@@ -5,8 +5,8 @@
   "english": "Chinese personal name",
   "etymology": {
     "type": "compound word",
-    "description": "李(李) (Lǐ, \"a common Chinese surname\"), 旭(旭) (xù, \"rising sun; dawn\"), 婷(婷) (tíng, \"graceful; elegant\")",
-    "interpretation": "The name combines 李(李) (Lǐ, \"a common Chinese surname\") with 旭(旭) (xù, \"rising sun; dawn\") and 婷(婷) (tíng, \"graceful; elegant\"), suggesting a person associated with grace and new beginnings.",
+    "description": "A Chinese personal name, typically consisting of a family name followed by two given names.",
+    "interpretation": "李(李) (Lǐ, \"a common Chinese surname\") is one of the most common Chinese surnames, originating from the plum tree. 旭(旭) (xù, \"dawn; rising sun\") represents the rising sun and often symbolizes new beginnings or hope. 婷(婷) (tíng, \"graceful; elegant; attractive\") suggests grace and elegance. Together, the name 李旭婷 (Lǐ Xùtíng) combines the common surname 李(李) with a given name evoking the hopeful beauty of a new dawn and grace, typical for personal names that reflect positive attributes or aspirations for the individual.",
     "simplification": ""
   },
   "parts": [
@@ -20,31 +20,31 @@
       "char": "旭",
       "trad": "旭",
       "pinyin": "xù",
-      "english": "rising sun; dawn"
+      "english": "dawn; rising sun"
     },
     {
       "char": "婷",
       "trad": "婷",
       "pinyin": "tíng",
-      "english": "graceful; elegant"
+      "english": "graceful; elegant; attractive"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "李旭婷是我的好朋友(李旭婷是我的好朋友)。",
+      "chinese": "李旭婷(李旭婷)是我的好朋友(是我的好朋友)。",
       "pinyin": "Lǐ Xùtíng shì wǒ de hǎo péngyǒu.",
-      "english": "Li Xùtíng is my good friend."
+      "english": "Li Xuting is my good friend."
     },
     {
-      "chinese": "昨天我见到李旭婷(昨天我見到李旭婷)，她穿着漂亮的衣服(她穿著漂亮的衣服)。",
-      "pinyin": "Zuótiān wǒ jiàn dào Lǐ Xùtíng, tā chuānzhe piàoliang de yīfú.",
-      "english": "Yesterday I met Li Xùtíng, and she was wearing beautiful clothes."
+      "chinese": "我昨天见到了李旭婷(我昨天見到了李旭婷)，她看起来很开心(她看起來很開心)。",
+      "pinyin": "Wǒ zuótiān jiàn dào le Lǐ Xùtíng, tā kàn qǐlái hěn kāixīn.",
+      "english": "I met Li Xuting yesterday, she looked very happy."
     },
     {
-      "chinese": "李旭婷热爱读书(李旭婷熱愛讀書)，每天都在图书馆自习(每天都在圖書館自習)。",
-      "pinyin": "Lǐ Xùtíng rè'ài dúshū, měitiān dōu zài túshūguǎn zìxí.",
-      "english": "Li Xùtíng loves reading and studies in the library every day."
+      "chinese": "李旭婷(李旭婷)喜欢旅行(喜歡旅行)，她去过很多国家(她去過很多國家)。",
+      "pinyin": "Lǐ Xùtíng xǐhuān lǚxíng, tā qù guò hěn duō guójiā.",
+      "english": "Li Xuting likes traveling, she has visited many countries."
     }
   ]
 }

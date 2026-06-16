@@ -1,0 +1,40 @@
+{
+  "simplified": "毓",
+  "traditional": "毓",
+  "pinyin": "yù",
+  "english": "give birth",
+  "etymology": {
+    "type": "pictogram",
+    "description": "母(母) (mǔ, \"woman\") + 子(子) (zǐ, \"child\") -> a woman giving birth to a child -> original form decorated as 每(每) (měi) and 㐬(㐬)",
+    "interpretation": "The pictogram 毓 combines 母(母) (mǔ, \"woman\") and 子(子) (zǐ, \"child\") to directly depict a woman giving birth to a child. This represents the act of giving birth. The character was an original form of 育(育) (yù, \"to raise\"), which later evolved with additional decorative elements but kept the core image of the birth process.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "母",
+      "trad": "母",
+      "pinyin": "mǔ",
+      "english": "woman"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "每",
+      "trad": "每",
+      "pinyin": "měi",
+      "english": "each"
+    },
+    {
+      "char": "㐬",
+      "trad": "㐬",
+      "pinyin": "lù",
+      "english": "a variant form"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

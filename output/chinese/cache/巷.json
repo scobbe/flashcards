@@ -5,35 +5,40 @@
   "english": "alley; lane",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 共(共) (gòng, 'together') + semantic: 己(己) (jǐ, 'oneself') = combining paths for oneself -> alley",
-    "interpretation": "巷(巷) (xiàng, 'alley') uses 共(共) (gòng, 'together') to phonetically suggest a shared space, while 己(己) (jǐ, 'oneself') implies a path for personal passage. The character embodies the concept of a personal path running through communal areas, hence an alley.",
+    "description": "semantic 己 (己) (jǐ, \"oneself\") + phonetic 共 (共) (gòng, \"together\") -> alley; lane",
+    "interpretation": "The character 巷 illustrates a concept of joining or confluence, similar to intersecting roads creating an alley or lane. The semantic component 己 (jǐ, \"oneself\") initially suggests a personal, inner path, which when combined with the phonetic component 共 (gòng, \"together\"), lends the idea of a shared or common path used by all, such as an alley or lane.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "共",
-      "trad": "共",
-      "pinyin": "gòng",
-      "english": "together"
-    },
     {
       "char": "己",
       "trad": "己",
       "pinyin": "jǐ",
       "english": "oneself"
+    },
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条巷很窄(這條巷很窄)。",
-      "pinyin": "Zhè tiáo xiàng hěn zhǎi.",
-      "english": "This alley is very narrow."
+      "chinese": "我们在这条巷子里迷路了(我們在這條巷子裡迷路了)。",
+      "pinyin": "Wǒmen zài zhè tiáo xiàngzi lǐ mílù le.",
+      "english": "We got lost in this alley."
     },
     {
-      "chinese": "夜色降临时(夜色降臨時)，巷子里传来了笑声(巷子裡傳來了笑聲)。",
-      "pinyin": "Yèsè jiànglín shí, xiàngzi lǐ chuán lái le xiàoshēng.",
-      "english": "As night falls, laughter can be heard from the alley."
+      "chinese": "老房子坐落在安静的巷中(老房子坐落在安靜的巷中)。",
+      "pinyin": "Lǎo fángzi zuòluò zài ānjìng de xiàng zhōng.",
+      "english": "The old house is located in a quiet alley."
+    },
+    {
+      "chinese": "小猫常常在巷尾的角落玩耍(小貓常常在巷尾的角落玩耍)。",
+      "pinyin": "Xiǎo māo chángcháng zài xiàng wěi de jiǎoluò wánshuǎ.",
+      "english": "The kitten often plays in the corner at the end of the alley."
     }
   ]
 }

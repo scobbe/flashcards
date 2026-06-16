@@ -1,0 +1,44 @@
+{
+  "simplified": "畫",
+  "traditional": "畫",
+  "pinyin": "huà",
+  "english": "painting; drawing",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 聿(聿) (yù, \"brush\") + phonetic 規(規) (guī, \"compass\")",
+    "interpretation": "The character combines 聿(聿) (yù, \"brush\") as the semantic component, signifying the connection to writing or drawing, with 規(規) (guī, \"compass\") as the phonetic component to provide the sound. The use of a brush underscores the association with painting or drawing, depicting the action or art of making images with a brush.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "brush"
+    },
+    {
+      "char": "規",
+      "trad": "規",
+      "pinyin": "guī",
+      "english": "compass"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正在绘制一幅美丽的画(畫)。",
+      "pinyin": "Tā zhèngzài huìzhì yī fú měilì de huà.",
+      "english": "He is creating a beautiful painting."
+    },
+    {
+      "chinese": "这幅画(這幅畫)展示了春天的景色(展示了春天的景色)。",
+      "pinyin": "Zhè fú huà zhǎnshìle chūntiān de jǐngsè.",
+      "english": "This painting depicts a spring scene."
+    },
+    {
+      "chinese": "孩子们喜欢用蜡笔画(孩子們喜歡用蠟筆畫)，创作自己的故事(創作自己的故事)。",
+      "pinyin": "Háizimen xǐhuān yòng làbǐ huà, chuàngzuò zìjǐ de gùshì.",
+      "english": "Children like to draw with crayons and create their own stories."
+    }
+  ]
+}

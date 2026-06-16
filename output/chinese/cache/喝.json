@@ -5,8 +5,8 @@
   "english": "drink",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 口(口) (kǒu, \"mouth\") + Phonetic: 曷(曷) (hē) = incorporates mouth element for drinking + phonetic cue -> drink",
-    "interpretation": "The character 喝(hē, \"drink\") uses 口(口) (kǒu, \"mouth\") to signify the act of drinking, logically involving the mouth. The phonetic component 曷(曷) (hē) suggests the pronunciation.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 曷(曷) -> expression involving the mouth -> to drink",
+    "interpretation": "The semantic element 口(口) (kǒu, \"mouth\") indicates an action related to the mouth, such as drinking, while the phonetic component 曷(曷) provides the sound. This combination naturally leads to the meaning of 'drink', as drinking involves using the mouth.",
     "simplification": ""
   },
   "parts": [
@@ -19,21 +19,26 @@
     {
       "char": "曷",
       "trad": "曷",
-      "pinyin": "hē",
-      "english": ""
+      "pinyin": "hé",
+      "english": "question; why"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢喝茶(我喜歡喝茶)。",
-      "pinyin": "Wǒ xǐhuān hē chá.",
-      "english": "I like drinking tea."
+      "chinese": "我每天早上都喝一杯咖啡(我每天早上都喝一杯咖啡)。",
+      "pinyin": "Wǒ měitiān zǎoshang dōu hē yī bēi kāfēi.",
+      "english": "I drink a cup of coffee every morning."
     },
     {
-      "chinese": "他喝了一杯果汁(他喝了一杯果汁)，享受下午时光(享受下午時光)。",
-      "pinyin": "Tā hēle yī bēi guǒzhī, xiǎngshòu xiàwǔ shíguāng.",
-      "english": "He drank a glass of juice and enjoyed the afternoon."
+      "chinese": "她喜欢在夏天喝冰茶(她喜歡在夏天喝冰茶)。",
+      "pinyin": "Tā xǐhuān zài xiàtiān hē bīngchá.",
+      "english": "She likes to drink iced tea in the summer."
+    },
+    {
+      "chinese": "小明喝完了整瓶水(小明喝完了整瓶水)。",
+      "pinyin": "Xiǎomíng hē wán le zhěng píng shuǐ.",
+      "english": "Xiaoming drank the entire bottle of water."
     }
   ]
 }

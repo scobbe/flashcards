@@ -5,8 +5,8 @@
   "english": "pillow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 木(木) (mù, \"wood\") + phonetic 冘(冘) (yín, \"sink\") = wooden object for support -> pillow",
-    "interpretation": "The character 枕(枕) (zhěn, \"pillow\") combines 木(木) (mù, \"wood\") as the material often used in ancient times for making pillows, with 冘(冘) (yín) to suggest stability and support, reflecting its function as a supportive object for resting the head during sleep.",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 冘(冘) (yóu) -> pillow",
+    "interpretation": "枕 (zhěn, \"pillow\") combines 木(木) (mù, \"wood\") with 冘(冘) (yóu) for its sound. The wooden or firm block traditionally used as a headrest or pillow relies on the semantic 木(木), which denotes material properties and the phonic sign 冘(冘) to provide the correct pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -19,21 +19,26 @@
     {
       "char": "冘",
       "trad": "冘",
-      "pinyin": "yín",
-      "english": "sink"
+      "pinyin": "yóu",
+      "english": "wandering"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "躺下休息时(躺下休息時)，他把头轻轻枕在柔软的枕上(他把頭輕輕枕在柔軟的枕上)。",
-      "pinyin": "Tǎng xià xiūxí shí, tā bǎ tóu qīngqīng zhěn zài róuruǎn de zhěn shàng.",
-      "english": "When lying down to rest, he gently rests his head on a soft pillow."
+      "chinese": "我每天晚上都用一个软枕(我每天晚上都用一個軟枕)。",
+      "pinyin": "Wǒ měitiān wǎnshàng dōu yòng yī gè ruǎn zhěn.",
+      "english": "I use a soft pillow every night."
     },
     {
-      "chinese": "午后小憩时(午后小憩時)，她翻开了枕边书轻阅古文(她翻開了枕邊書輕閱古文)。",
-      "pinyin": "Wǔhòu xiǎoqì shí, tā fānkāile zhěnbiān shū qīng yuè gǔwén.",
-      "english": "During her afternoon nap, she opened her bedside book and quietly read ancient texts."
+      "chinese": "他喜欢用高枕(他喜歡用高枕)，因为它能支撑脖子(因為它能支撐脖子)。",
+      "pinyin": "Tā xǐhuān yòng gāo zhěn, yīnwèi tā néng zhīchēng bózi.",
+      "english": "He likes to use a high pillow because it supports his neck."
+    },
+    {
+      "chinese": "枕头(枕頭)是床上必备的物品(是床上必備的物品)。",
+      "pinyin": "Zhěntou shì chuángshàng bìbèi de wùpǐn.",
+      "english": "A pillow is an essential item on the bed."
     }
   ]
 }

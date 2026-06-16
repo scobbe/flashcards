@@ -4,12 +4,18 @@
   "pinyin": "zuǒ",
   "english": "left",
   "etymology": {
-    "type": "phono-semantic compound and ideogrammic compound",
-    "description": "𠂇 (pictogram of left hand) -> 𠂇 (left hand) + 工 (work) = phono-semantic compound representing assistance -> later 佐",
-    "interpretation": "The character 左(左) (zuǒ, 'left') combines the pictogram of a left hand with the symbol for work, 工(工) (gōng, 'work'), to suggest the use or assistance of the left hand in work, reflecting its original association with the word 佐(佐) (zuǒ, 'to assist').",
+    "type": "phono-semantic compound",
+    "description": "𠂇 (pictogram of left hand) + 工 (work; assist) -> original form of 佐 (assist) -> phonetic 𠂇 (left hand) + semantic 工 (work) -> left",
+    "interpretation": "The character originally depicted a left hand and later included 工 (work) to form a compound that conveys assisting, which the left hand was traditionally associated with. This developed into a phono-semantic compound where 𠂇 provides the sound 'zuǒ' and 工 adds a context of work or function, maintaining the idea of the left side as supportive or adjunctive.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "𠂇",
+      "trad": "𠂇",
+      "pinyin": "zuǒ",
+      "english": "left hand"
+    },
     {
       "char": "工",
       "trad": "工",
@@ -20,25 +26,25 @@
       "char": "佐",
       "trad": "佐",
       "pinyin": "zuǒ",
-      "english": "to assist"
+      "english": "assist"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他往左走(他往左走)。",
-      "pinyin": "Tā wǎng zuǒ zǒu.",
-      "english": "He goes to the left."
+      "chinese": "我习惯用左手写字(我習慣用左手寫字)。",
+      "pinyin": "Wǒ xíguàn yòng zuǒ shǒu xiězì.",
+      "english": "I am accustomed to writing with my left hand."
     },
     {
-      "chinese": "公交车站在左边(公車站在左邊)，步行只需两分钟(步行只需兩分鐘)。",
-      "pinyin": "Gōngjiāo chēzhàn zài zuǒbiān, bùxíng zhǐ xū liǎng fēnzhōng.",
-      "english": "The bus stop is on the left, and it only takes two minutes on foot."
+      "chinese": "在地图上，左边是北方(在地圖上，左邊是北方)。",
+      "pinyin": "Zài dìtú shàng, zuǒ biān shì běifāng.",
+      "english": "On the map, the left side is north."
     },
     {
-      "chinese": "左边的风景很美(左邊的風景很美)。",
-      "pinyin": "Zuǒbiān de fēngjǐng hěn měi.",
-      "english": "The scenery on the left is beautiful."
+      "chinese": "请向左转，然后你会看到公园(請向左轉，然後你會看到公園)。",
+      "pinyin": "Qǐng xiàng zuǒ zhuǎn, ránhòu nǐ huì kàn dào gōngyuán.",
+      "english": "Please turn left, and then you will see the park."
     }
   ]
 }

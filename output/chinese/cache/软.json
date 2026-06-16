@@ -5,35 +5,46 @@
   "english": "soft",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "车(車) (chē, \"vehicle\") + phonetic: 𦘒(𦘒) (ruǎn) = softness related to vehicles -> soft",
-    "interpretation": "The character 软(軟) combines the semantic element 车(車) (chē, \"vehicle\"), which can imply something that moves smoothly or flexibly, with the phonetic component 𦘒(𦘒) (ruǎn) to give the idea of softness.",
-    "simplification": "软(軟): The simplified form retains the main semantic part 车(車) as 车, while keeping the phonetic similarity with the original."
+    "description": "車 (carriage) semantic + 耎 (phonetic, sounds like \"njon\") -> variant with 欠 replaces 耎 -> soft",
+    "interpretation": "This character's association with softness may come from the use of wood in carriage construction that is soft enough to be shaped, or the exhaustion associated with operating a heavy carriage. The phonetic component 耎 was replaced with 欠, which depicts exhaustion (a man breathing heavily), fitting the idea of softness as lacking hardness or rigidity.",
+    "simplification": "軟(軟) was simplified to 软(軟) by replacing 車(車) (chē, \"carriage\") with 车, a simpler form representing the same meaning."
   },
   "parts": [
     {
-      "char": "车",
+      "char": "車",
       "trad": "車",
       "pinyin": "chē",
-      "english": "vehicle"
+      "english": "carriage"
     },
     {
-      "char": "𦘒",
-      "trad": "𦘒",
-      "pinyin": "ruǎn",
-      "english": "soft (phonetic)"
+      "char": "耎",
+      "trad": "耎",
+      "pinyin": "nuǎn",
+      "english": "phonetic component"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的枕头很软(我的枕頭很軟)。",
-      "pinyin": "Wǒ de zhěntóu hěn ruǎn.",
-      "english": "My pillow is soft."
+      "chinese": "这张床很软(這張床很軟)。",
+      "pinyin": "Zhè zhāng chuáng hěn ruǎn.",
+      "english": "This bed is very soft."
     },
     {
-      "chinese": "这件衣服摸起来软(這件衣服摸起來軟)，穿起来舒服(穿起來舒服)。",
-      "pinyin": "Zhè jiàn yīfu mō qǐlái ruǎn, chuān qǐlái shūfú.",
-      "english": "This piece of clothing feels soft and is comfortable to wear."
+      "chinese": "她的声音很柔软(她的聲音很柔軟)。",
+      "pinyin": "Tā de shēngyīn hěn róuruǎn.",
+      "english": "Her voice is very soft."
+    },
+    {
+      "chinese": "这种面包很软(這種麵包很軟)，非常好吃(非常好吃)。",
+      "pinyin": "Zhè zhǒng miànbāo hěn ruǎn, fēicháng hǎochī.",
+      "english": "This type of bread is very soft and delicious."
     }
   ]
 }

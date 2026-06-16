@@ -5,16 +5,16 @@
   "english": "to be; to work as",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 尚 (shàng, \"still\") + semantic: 田 (tián, \"field\") -> fields facing each other -> to be; to work as",
-    "interpretation": "The character 當 combines the phonetic element 尚 (shàng, \"still\") with the semantic element 田 (tián, \"field\") to illustrate the concept of facing fields, which extends metaphorically to notions of appropriate positioning or function, as in 'to be' or 'to work as.'",
-    "simplification": "In the simplified form 当, the component 尚 (shàng) is replaced with a simpler structure while maintaining the phonetic and conceptual elements connected with positioning or appropriateness."
+    "description": "phonetic 尚 (shàng) + semantic 田 (field) -> fields facing each other",
+    "interpretation": "The character 當(dāng) (traditional form) combines 尚(shàng, phonetic) which gives the sound, with 田(tián, 'field'), suggesting the concept of 'facing' or 'confronting', as fields might do. The notion of 'facing' or 'meeting' directly correlates to the meaning 'to be' or 'to take on a role.' These are about taking position or facing duties or tasks, hence 'to be' and 'to work as'.",
+    "simplification": "当(當): 當 was simplified by removing 田(田) (tián, 'field') and preserving the phonetic component 尚(shàng)."
   },
   "parts": [
     {
       "char": "尚",
       "trad": "尚",
       "pinyin": "shàng",
-      "english": "still"
+      "english": "still; yet"
     },
     {
       "char": "田",
@@ -31,14 +31,14 @@
       "english": "He wants to be a doctor."
     },
     {
-      "chinese": "她当时很生气(她當時很生氣)，不想和任何人说话(不想和任何人說話)。",
-      "pinyin": "Tā dāngshí hěn shēngqì, bù xiǎng hé rènhé rén shuōhuà.",
-      "english": "She was very angry at that time and didn't want to talk to anyone."
+      "chinese": "她在学校当老师(她在學校當老師)。",
+      "pinyin": "Tā zài xuéxiào dāng lǎoshī.",
+      "english": "She works as a teacher at the school."
     },
     {
-      "chinese": "当老师很有挑战性(當老師很有挑戰性)。",
-      "pinyin": "Dāng lǎoshī hěn yǒu tiǎozhàn xìng.",
-      "english": "Being a teacher is very challenging."
+      "chinese": "当机会来临时(當機會來臨時)，要大胆抓住(要大膽抓住)。",
+      "pinyin": "Dāng jīhuì láilín shí, yào dàdǎn zhuāzhù.",
+      "english": "When opportunity comes, you must seize it boldly."
     }
   ]
 }

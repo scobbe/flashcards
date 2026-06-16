@@ -1,0 +1,22 @@
+{
+  "simplified": "茻",
+  "traditional": "茻",
+  "pinyin": "mǎng",
+  "english": "grass",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 艸(艸) (cǎo, \"grass\") = multiple grasses -> multitude of grass",
+    "interpretation": "The character 茻(mǎng, \"grass\") is an ideogrammic compound formed from repeating 艸(艸) (cǎo, \"grass\") twice to visually represent a dense thicket or multitude of grass.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -5,40 +5,40 @@
   "english": "south of the mountains",
   "etymology": {
     "type": "compound word",
-    "description": "岭(嶺) (lǐng, \"ridge; mountain range\") + 南(南) (nán, \"south\") = region south of the mountain range",
-    "interpretation": "The term 岭南(嶺南) (lǐngnán, \"south of the mountains\") refers to the geographic region located south of the Nanling Mountain Range in China. This area plays a significant role in Chinese history and culture, being known for its unique climate and cultural influences, distinct from North China.",
-    "simplification": "岭(嶺)"
+    "description": "岭(嶺) (lǐng, \"mountain ridge\") is used to describe a series of connected mountains forming a continuous elevated crest. 南(南) (nán, \"south\") indicates the direction towards the south. Together, these characters describe the geographic region south of the mountain range, particularly referring to the area south of the Nanling Mountains in southern China.",
+    "interpretation": "岭(嶺) (lǐng, \"mountain ridge\") visually depicts a path or crest between heights, signaling a droplet-like shape, which naturally signifies a high, narrow point. 南(南) (nán, \"south\") culturally aligns with directions, land divisions, and cardinality essential in Chinese climatology and geography, indicating the region beneath the mountain ridges. Hence, 岭南(嶺南) describes the geographical area lying south of these natural barriers, famously known as the region south of the Nanling mountain ranges, with historical implications of being a culturally distinctive and economically significant space within southern China.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "岭",
       "trad": "嶺",
       "pinyin": "lǐng",
-      "english": "ridge; mountain range"
+      "english": "mountain ridge; peak"
     },
     {
       "char": "南",
       "trad": "南",
       "pinyin": "nán",
-      "english": "south"
+      "english": "south; southern part of country"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想去岭南(嶺南)。",
-      "pinyin": "Wǒ xiǎng qù lǐngnán.",
-      "english": "I want to travel to Lingnan."
+      "chinese": "岭南地区以其独特的文化而闻名(嶺南地區以其獨特的文化而聞名)。",
+      "pinyin": "Lǐngnán dìqū yǐ qí dútè de wénhuà ér wénmíng.",
+      "english": "The Lingnan area is famous for its unique culture."
     },
     {
-      "chinese": "岭南风光迷人(嶺南風光迷人)，吸引了众多摄影师(吸引了眾多攝影師)。",
-      "pinyin": "Lǐngnán fēngguāng mírén, xīyǐnle zhòngduō shèyǐngshī.",
-      "english": "The beautiful scenery of Lingnan attracts many photographers."
+      "chinese": "许多岭南菜肴在全国各地都很受欢迎(許多嶺南菜餚在全國各地都很受歡迎)。",
+      "pinyin": "Xǔduō lǐngnán càiyáo zài quánguó gèdì dōu hěn shòu huānyíng.",
+      "english": "Many Lingnan dishes are very popular across the country."
     },
     {
-      "chinese": "岭南料理独具风味(嶺南料理獨具風味)，让人流连忘返(讓人流連忘返)。",
-      "pinyin": "Lǐngnán liàolǐ dújù fēngwèi, ràng rén liúliánwàngfǎn.",
-      "english": "Lingnan cuisine has a unique taste that makes people reluctant to leave."
+      "chinese": "他打算去岭南旅游(他打算去嶺南旅遊)。",
+      "pinyin": "Tā dǎsuàn qù lǐngnán lǚyóu.",
+      "english": "He plans to travel to Lingnan."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "military method; art of war",
   "etymology": {
     "type": "compound word",
-    "description": "兵(兵) (bīng, \"soldier; military\") + 法(法) (fǎ, \"method; law\") = \"military method; art of war\". The term 兵法(兵法) (bīngfǎ, \"art of war\") refers to strategies and tactics used in warfare and is famously associated with 孙子兵法(孫子兵法) (Sūnzǐ Bīngfǎ, \"Sun Tzu's Art of War\"), an ancient Chinese military treatise.",
-    "interpretation": "兵法(兵法) (bīngfǎ, \"art of war\") combines 兵(兵) (bīng, \"soldier; military\") and 法(法) (fǎ, \"method; law\") to describe the strategic and tactical doctrines used in warfare, particularly influenced by the teachings of Sun Tzu. It highlights the importance of understanding and implementing military strategies effectively.",
+    "description": "兵(兵) (bīng, \"soldier; weapon\") refers to soldiers or warfare, encompassing everything related to military matters. 法(法) (fǎ, \"method; rule; law\") denotes a method or doctrine, indicating a set of structured practices or principles.",
+    "interpretation": "兵(兵) (bīng, \"soldier; weapon\") implies the entire scope of military operations, while 法(法) (fǎ, \"method; rule; law\") suggests a formalized system or set of techniques. Together, they signify the structured methods and principles essential to conducting warfare, encapsulating the strategic and tactical doctrines that guide military operations.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "兵",
       "trad": "兵",
       "pinyin": "bīng",
-      "english": "soldier; military"
+      "english": "soldier; weapon"
     },
     {
       "char": "法",
       "trad": "法",
       "pinyin": "fǎ",
-      "english": "method; law"
+      "english": "method; rule; law"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他研习兵法(他研習兵法)，探索战争策略(探索戰爭策略)。",
-      "pinyin": "Tā yánxí bīngfǎ, tànsuǒ zhànzhēng cèlüè.",
-      "english": "He studies military art and explores war strategies."
+      "chinese": "孙子兵法是一本著名的古代军事著作(孫子兵法是一本著名的古代軍事著作)。",
+      "pinyin": "Sūnzǐ Bīngfǎ shì yī běn zhùmíng de gǔdài jūnshì zhùzuò.",
+      "english": "The Art of War by Sun Tzu is a famous ancient military work."
     },
     {
-      "chinese": "古代兵法影响深远(古代兵法影響深遠)。",
-      "pinyin": "Gǔdài bīngfǎ yǐngxiǎng shēnyuǎn.",
-      "english": "Ancient military art has a profound influence."
+      "chinese": "他精通兵法(他精通兵法)，可以在战场上灵活应对(可以在戰場上靈活應對)。",
+      "pinyin": "Tā jīngtōng bīngfǎ, kěyǐ zài zhànchǎng shàng línghuó yìngduì.",
+      "english": "He is well-versed in military methods and can adapt flexibly on the battlefield."
     },
     {
-      "chinese": "諸葛亮精通兵法(諸葛亮精通兵法)，指挥军队如运筹帷幄(指揮軍隊如運籌帷幄)。",
-      "pinyin": "Zhūgě Liàng jīngtōng bīngfǎ, zhǐhuī jūnduì rú yùnchóu wéiwò.",
-      "english": "Zhuge Liang was adept in military art and led his troops with brilliant strategy."
+      "chinese": "了解各种兵法(了解各種兵法)，有助于提高战略思维(有助於提高戰略思維)。",
+      "pinyin": "Liǎojiě gèzhǒng bīngfǎ, yǒuzhù yú tígāo zhànlüè sīwéi.",
+      "english": "Understanding various military methods helps in enhancing strategic thinking."
     }
   ]
 }

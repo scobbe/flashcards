@@ -4,20 +4,20 @@
   "pinyin": "nǐ",
   "english": "you",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Semantic 亻(亻) (rén, \"person\") + Phonetic 尔 (ěr, \"you\") -> Represents a person you are addressing -> \"you\"",
-    "interpretation": "The character 你(nǐ) combines the person radical 亻(亻) (rén, \"person\") with the phonetic component 尔 (ěr, \"you\"), indicating it refers to addressing another person. This compound makes it intuitively clear it means \"you\" as it involves speaking to another person.",
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 尔(爾) (ěr, \"you\") = person + you -> you",
+    "interpretation": "This character combines 人(人) (rén, \"person\") meaning 'person' with 尔(爾) (ěr, \"you\") symbolizing 'you', forming a logical representation of 'you' as a 'person you are addressing'. The meaning of addressing a 'you' comes naturally from the combination of these components.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "亻",
-      "trad": "亻",
+      "char": "人",
+      "trad": "人",
       "pinyin": "rén",
       "english": "person"
     },
     {
-      "char": "尔",
+      "char": "爾",
       "trad": "爾",
       "pinyin": "ěr",
       "english": "you"
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你好吗(你好嗎)？",
-      "pinyin": "nǐ hǎo ma？",
-      "english": "How are you?"
+      "chinese": "你是学生嗎(妳是學生嗎)？",
+      "pinyin": "Nǐ shì xuéshēng ma?",
+      "english": "Are you a student?"
     },
     {
-      "chinese": "如果你愿意(如果你願意)，我们一起去公园(我們一起去公園)。",
-      "pinyin": "rúguǒ nǐ yuànyì, wǒmen yìqǐ qù gōngyuán。",
-      "english": "If you are willing, we can go to the park together."
+      "chinese": "你今天有什么计划(你今天有什麼計劃)？",
+      "pinyin": "Nǐ jīntiān yǒu shénme jìhuà?",
+      "english": "What plans do you have today?"
     },
     {
-      "chinese": "见到你(見到你)，我很开心(我很開心)。",
-      "pinyin": "jiàn dào nǐ, wǒ hěn kāixīn。",
-      "english": "Seeing you makes me very happy."
+      "chinese": "请你帮我一个忙(請你幫我一個忙)。",
+      "pinyin": "Qǐng nǐ bāng wǒ yī gè máng.",
+      "english": "Please do me a favor."
     }
   ]
 }

@@ -5,22 +5,16 @@
   "english": "child",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "䇂(䇂) (chisel) + 見(見) (jiàn, 'kneeling person with a huge eye') -> depicted punishment -> 東 corrupted over time -> modern phonetic 立(立) (lì, 'stand') + semantic 里(里) (lǐ, 'village')",
-    "interpretation": "Originally depicting a cruel punishment involving eye gouging, the character evolved to incorporate 東 as a phonetic element, eventually corrupting to 立, with the bottom 里 reflecting the phonetic development similar to the character 重. Despite its origin, 童(tóng) is now associated with 'child' or 'boy' in modern usage.",
+    "description": "Original as 䇂 (\"chisel\") + 見 (\"kneeling person with a huge eye\") -> person punished by eye gouging -> 東 added as phonetic (\"child\") -> 里 (from 東 and 土) holds meaning in modern form -> 䇂 corrupted to 立",
+    "interpretation": "The early depiction of punishment evolved into a character where 東 provided the sound for \"child\". The imagery of a person, possibly disciplined or trained, links to the concept of a child being taught or guided, hence 'child'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "䇂",
-      "trad": "䇂",
-      "pinyin": "chisel",
-      "english": "chisel"
-    },
-    {
       "char": "見",
       "trad": "見",
       "pinyin": "jiàn",
-      "english": "kneeling person with a huge eye"
+      "english": "see"
     },
     {
       "char": "東",
@@ -29,29 +23,40 @@
       "english": "east"
     },
     {
-      "char": "立",
-      "trad": "立",
-      "pinyin": "lì",
-      "english": "stand"
-    },
-    {
       "char": "里",
       "trad": "里",
       "pinyin": "lǐ",
       "english": "village"
+    },
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    },
+    {
+      "char": "立",
+      "trad": "立",
+      "pinyin": "lì",
+      "english": "stand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公园里的小童正在追逐蝴蝶(公園裡的小童正在追逐蝴蝶)。",
-      "pinyin": "Gōngyuán lǐ de xiǎo tóng zhèngzài zhuīzhú húdié.",
-      "english": "The little child in the park is chasing butterflies."
+      "chinese": "那个孩子有一颗纯洁的童心(那個孩子有一顆純潔的童心)。",
+      "pinyin": "Nàge háizi yǒu yī kē chúnjié de tóngxīn.",
+      "english": "That child has a pure heart."
     },
     {
-      "chinese": "小童在院子里玩耍(小童在院子裡玩耍)，露出灿烂笑容(露出燦爛笑容)。",
-      "pinyin": "Xiǎo tóng zài yuànzi lǐ wánshuǎ, lùchū cànlàn xiàoróng.",
-      "english": "The child is playing in the yard and showing a bright smile."
+      "chinese": "童年是充满欢乐的时光(童年是充滿歡樂的時光)。",
+      "pinyin": "Tóngnián shì chōngmǎn huānlè de shíguāng.",
+      "english": "Childhood is a time filled with joy."
+    },
+    {
+      "chinese": "他的声音依旧如同童声般清澈(他的聲音依舊如同童聲般清澈)。",
+      "pinyin": "Tā de shēngyīn yījiù rútóng tóngshēng bān qīngchè.",
+      "english": "His voice remains as clear as a child's."
     }
   ]
 }

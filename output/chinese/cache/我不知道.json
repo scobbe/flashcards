@@ -5,8 +5,8 @@
   "english": "I don't know",
   "etymology": {
     "type": "compound word",
-    "description": "我(我) (wǒ, \"I\"), 不(不) (bù, \"not\"), 知道(知道) (zhīdào, \"know\")",
-    "interpretation": "The phrase 我不知道 (wǒ bù zhīdào) literally translates to \"I not know,\" indicating a lack of knowledge or information about something. It is a straightforward phrase used to express not knowing or being unaware.",
+    "description": "The phrase combines the individual characters 我(我) (wǒ, \"I\"), 不(不) (bù, \"no; not\"), and 知道(知道) (zhīdào, \"to know\"). 我(我) (wǒ, \"I\") indicates the speaker themselves. 不(不) (bù, \"no; not\") negates the action or state. 知道(知道) (zhīdào, \"to know\") describes having knowledge or awareness.",
+    "interpretation": "The phrase 我不知道 (wǒ bù zhīdào, \"I don't know\") straightforwardly negates the state of knowing by combining 我(我) (wǒ, \"I\") and 不(不) (bù, \"not\") with 知道(知道) (zhīdào, \"to know\"). 我(我) (wǒ, \"I\") identifies the subject; while 知道(知道) (zhīdào, \"to know\") conveys the idea of having knowledge. By adding 不(不) (bù, \"not\"), it forms the simple negation of this knowledge.",
     "simplification": ""
   },
   "parts": [
@@ -20,13 +20,13 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; no"
+      "english": "no; not"
     },
     {
       "char": "知道",
       "trad": "知道",
       "pinyin": "zhīdào",
-      "english": "know; aware"
+      "english": "to know"
     }
   ],
   "in_contemporary_usage": true,
@@ -37,14 +37,14 @@
       "english": "I don't know."
     },
     {
-      "chinese": "他问我答案(他問我答案)，我不知道(我不知道)。",
-      "pinyin": "Tā wèn wǒ dá'àn, wǒ bù zhīdào.",
-      "english": "He asks me for the answer, I don't know."
+      "chinese": "他问我问题(他問我問題)，我不知道答案(我不知道答案)。",
+      "pinyin": "Tā wèn wǒ wèntí, wǒ bù zhīdào dá'àn.",
+      "english": "He asked me a question, I don't know the answer."
     },
     {
-      "chinese": "每次被问到问题时(每次被問到問題時)，我总是回答我不知道(我總是回答我不知道)。",
-      "pinyin": "Měi cì bèi wèn dào wèntí shí, wǒ zǒng shì huídá wǒ bù zhīdào.",
-      "english": "Every time I'm asked a question, I always reply 'I don't know.'"
+      "chinese": "如果你问我这个(如果你問我這個)，我不知道(我不知道)。",
+      "pinyin": "Rúguǒ nǐ wèn wǒ zhège, wǒ bù zhīdào.",
+      "english": "If you ask me this, I don't know."
     }
   ]
 }

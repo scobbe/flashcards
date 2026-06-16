@@ -4,10 +4,10 @@
   "pinyin": "jiàn",
   "english": "see; meet",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Depicts an eye 目(目) (mù, \"eye\") over a person 人(人) (rén, \"person\") -> representation of seeing or perception",
-    "interpretation": "The character originally depicted an eye positioned over a person, symbolizing the act of seeing or encountering someone. This combination effectively conveys the idea of sight or meeting, aligning with its core meanings.",
-    "simplification": "見(見) (jiàn, \"see\") was simplified by reducing the number of strokes, using a simplified structure to retain both meaning and phonetic aspects effectively."
+    "type": "ideogrammic compound",
+    "description": "目(目) (mù, \"eye\") + 卩(卩) (jié, \"kneeling person\") = a kneeling human figure with a large eye for a head -> see; meet",
+    "interpretation": "The 丁-like structure originally depicting a figure with a large eye suggests a human observing or being watchful, leading to the meaning \"see\"; seeing or meeting someone often involves a position of acknowledgment or respect, as implied by the kneeling.",
+    "simplification": "见 is the simplified form derived from the cursive script of 見, reducing the visual complexity while retaining the main elements."
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "eye"
     },
     {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "kneeling person"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我见到老朋友时(我見到老朋友時)，心情十分愉快(心情十分愉快)。",
-      "pinyin": "Wǒ jiàn dào lǎo péngyǒu shí, xīnqíng shífēn yúkuài.",
-      "english": "I felt very happy when I met my old friend."
+      "chinese": "我在公园见到了一个老朋友(我在公園見到了一個老朋友)。",
+      "pinyin": "Wǒ zài gōngyuán jiàn dào le yī gè lǎo péngyǒu.",
+      "english": "I saw an old friend in the park."
     },
     {
-      "chinese": "我们见面了(我們見面了)。",
-      "pinyin": "Wǒmen jiàn miàn le.",
-      "english": "We met."
+      "chinese": "她每周五都会见医生(她每週五都會見醫生)。",
+      "pinyin": "Tā měizhōu wǔ dū huì jiàn yīshēng.",
+      "english": "She meets the doctor every Friday."
     },
     {
-      "chinese": "在公园里见到一只小猫(在公園裡見到一隻小貓)，让我十分高兴(讓我十分高興)。",
-      "pinyin": "Zài gōngyuán lǐ jiàn dào yī zhī xiǎo māo, ràng wǒ shífēn gāoxìng.",
-      "english": "Seeing a little cat in the park made me very happy."
+      "chinese": "我们下周见面(我們下週見面)。",
+      "pinyin": "Wǒmen xià zhōu jiàn miàn.",
+      "english": "We will meet next week."
     }
   ]
 }

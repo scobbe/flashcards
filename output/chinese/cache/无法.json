@@ -5,16 +5,16 @@
   "english": "unable",
   "etymology": {
     "type": "compound word",
-    "description": "无(無) (wú, \"not have\") and 法(法) (fǎ, \"method\") combine to express the concept of lacking a method or way, thus conveying the meaning of being 'unable' or 'without a method'. In this context, 无(無) (wú, \"not have\") negates the existence of 法(法) (fǎ, \"method\"), leading to the interpretation.",
-    "interpretation": "This combination conveys the idea of being without a method or means to achieve something, hence being unable to do it.",
-    "simplification": "无 simplified from 無."
+    "description": "These two characters together express the concept of being unable or without means.",
+    "interpretation": "無(wú, \"without; none; lack\") indicates nonexistence or the absence of something, often setting the stage for an impossibility. 法(fǎ, \"method; law; way\") refers to a manner, method, or means by which something can be done. Together, 無法(wúfǎ, \"unable\") suggests a lack of means or method, thus expressing the idea of being unable to do something.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "无",
       "trad": "無",
       "pinyin": "wú",
-      "english": "not have; without; lacking"
+      "english": "without; none; lack"
     },
     {
       "char": "法",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我无法解决这个问题(我無法解決這個問題)。",
-      "pinyin": "Wǒ wúfǎ jiějué zhège wèntí.",
-      "english": "I am unable to solve this problem."
+      "chinese": "我们无法抵达那里(我們無法抵達那裡)。",
+      "pinyin": "Wǒmen wúfǎ dǐdá nàlǐ.",
+      "english": "We are unable to reach there."
     },
     {
-      "chinese": "天气变坏(天氣變壞)，我们无法出门(我們無法出門)。",
-      "pinyin": "Tiānqì biàn huài, wǒmen wúfǎ chūmén.",
-      "english": "When the weather turns bad, we are unable to go out."
+      "chinese": "他因受伤而无法比赛(他因受傷而無法比賽)。",
+      "pinyin": "Tā yīn shòushāng ér wúfǎ bǐsài.",
+      "english": "He is unable to compete due to injury."
     },
     {
-      "chinese": "他面对困难时无法动弹(他面對困難時無法動彈)。",
-      "pinyin": "Tā miànduì kùnnán shí wúfǎ dòngtán.",
-      "english": "He is unable to move when faced with difficulties."
+      "chinese": "这个问题太复杂以至于我们无法解决(這個問題太複雜以至於我們無法解決)。",
+      "pinyin": "Zhège wèntí tài fùzá yǐ zhìyú wǒmen wúfǎ jiějué.",
+      "english": "This problem is too complex for us to solve."
     }
   ]
 }

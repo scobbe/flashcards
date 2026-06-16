@@ -5,35 +5,40 @@
   "english": "leader",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 鬼(鬼) (guǐ, \"ghost\") + semantic 斗(斗) (dǒu, \"ladle\") -> soup ladle -> \"leader\"",
-    "interpretation": "The character 魁(魁) combines 鬼(鬼) (guǐ, \"ghost\") as the phonetic component with 斗(斗) (dǒu, \"ladle\") as the semantic component. Originally representing a large soup ladle, it evolved to mean \"leader\" due to associations with a prominent or significant position.",
+    "description": "semantic 斗(斗) (dòu, \"ladle\") + phonetic 鬼(鬼) (guǐ) -> soup ladle -> leader",
+    "interpretation": "The character originally described a large ladle or soup ladle, represented by the combination of 鬼(鬼) (guǐ), which supplies the sound, and 斗(斗) (dòu, \"ladle\"), which contributes the sense of a large measuring or serving tool. The idea of a large, commanding tool like a ladle is metaphorically extended to mean 'leader' in the sense of someone who stands out or is prominent.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "斗",
+      "trad": "斗",
+      "pinyin": "dòu",
+      "english": "ladle"
+    },
     {
       "char": "鬼",
       "trad": "鬼",
       "pinyin": "guǐ",
       "english": "ghost"
-    },
-    {
-      "char": "斗",
-      "trad": "斗",
-      "pinyin": "dǒu",
-      "english": "ladle"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他被誉为乐队的魁(他被譽為樂隊的魁)，深受大众敬仰(深受大眾敬仰)。",
-      "pinyin": "Tā bèi yù wéi yuèduì de kuí, shēn shòu dàzhòng jìngyǎng.",
-      "english": "He is hailed as the leader of the band and is deeply admired by the public."
+      "chinese": "他被选为团队的魁(他被選為團隊的魁)。",
+      "pinyin": "Tā bèi xuǎn wéi tuánduì de kuí.",
+      "english": "He was chosen as the leader of the team."
     },
     {
-      "chinese": "学校选举时(學校選舉時)，他理所当然当上了魁(他理所當然當上了魁)。",
-      "pinyin": "Xuéxiào xuǎnjǔ shí, tā lǐsuǒdāngrán dāng shàng le kuí.",
-      "english": "During the school election, he naturally became the leader."
+      "chinese": "这场比赛的魁是个传奇(這場比賽的魁是個傳奇)。",
+      "pinyin": "Zhè chǎng bǐsài de kuí shì gè chuánqí.",
+      "english": "The leader of this competition is a legend."
+    },
+    {
+      "chinese": "领导者不一定是最大的魁(領導者不一定是最大的魁)。",
+      "pinyin": "Lǐngdǎozhě bù yídìng shì zuìdà de kuí.",
+      "english": "A leader is not necessarily the greatest."
     }
   ]
 }

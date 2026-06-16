@@ -5,8 +5,8 @@
   "english": "mixed",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "馬(馬) (mǎ, \"horse\") + 爻(爻) (yáo, \"marks\") = horse with marks -> mixed",
-    "interpretation": "The character 駁(bó, \"mixed\") combines the semantic element 馬(馬) (mǎ, \"horse\"), suggesting the concept related to horses, with the phonetic 爻(爻) (yáo, \"marks\") to convey the idea of a horse with mixed or different colors or marks, figuratively indicating something mixed or mottled.",
+    "description": "semantic 馬(馬) (mǎ, \"horse\") + phonetic 爻(爻) (yáo, \"marks\") -> mixed",
+    "interpretation": "The character 駁 (bó, \"mixed\") uses the semantic component 馬(馬) (mǎ, \"horse\") combined with the phonetic component 爻(爻) (yáo, \"marks\"), suggesting the idea of a horse with mixed or mottled markings, leading to the general sense of something being mixed or having varied characteristics.",
     "simplification": ""
   },
   "parts": [
@@ -23,6 +23,22 @@
       "english": "marks"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的论点很难被驳倒(他的論點很難被駁倒)。",
+      "pinyin": "Tā de lùndiǎn hěn nán bèi bódǎo.",
+      "english": "His argument is difficult to refute."
+    },
+    {
+      "chinese": "我们正在讨论这个驳杂的主题(我們正在討論這個駁雜的主題)。",
+      "pinyin": "Wǒmen zhèngzài tǎolùn zhège bózá de zhǔtí.",
+      "english": "We are discussing this mixed topic."
+    },
+    {
+      "chinese": "艺术家的作品充满了驳杂的色彩(藝術家的作品充滿了駁雜的色彩)。",
+      "pinyin": "Yìshùjiā de zuòpǐn chōngmǎnle bówé de sècǎi.",
+      "english": "The artist's work is full of mixed colors."
+    }
+  ]
 }

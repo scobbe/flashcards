@@ -5,8 +5,8 @@
   "english": "all one's life; a lifetime",
   "etymology": {
     "type": "compound word",
-    "description": "一(一) (yī, \"one\") + 生(生) (shēng, \"life\") = all one's life or a lifetime, referring to the entirety of a person's life.",
-    "interpretation": "The word 一生 (yìshēng) conveys the concept of a singular, continuous span of life. By combining 一(一) (yī, \"one\") and 生(生) (shēng, \"life\"), it symbolizes the whole duration from birth to death as a single unit.",
+    "description": "一(一) (yī, \"one\") indicates a singularity or unity, while 生(生) (shēng, \"life\") signifies the concept of living or existence. Combined, they refer to everything from birth to death, encapsulating a complete span of life.",
+    "interpretation": "The word 一生 (yìshēng) portrays the idea of a single, complete life journey. 一(一) (yī, \"one\") emphasizes the entirety or singularity of one's existence, while 生(生) (shēng, \"life\") denotes the period of living from birth to death. Together, they convey the notion of an individual's entire life span.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "one"
+      "english": "one; single; whole"
     },
     {
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life; birth; grow; raw"
+      "english": "life; birth; alive; grow"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他一生都在追求艺术的完美(他一生都在追求藝術的完美)。",
-      "pinyin": "Tā yìshēng dōu zài zhuīqiú yìshù de wánměi.",
-      "english": "He spent his entire life pursuing artistic perfection."
+      "chinese": "他一生都在追求梦想(他一生都在追求夢想)。",
+      "pinyin": "Tā yìshēng dōu zài zhuīqiú mèngxiǎng.",
+      "english": "He spent all his life chasing dreams."
     },
     {
-      "chinese": "小明希望能一生幸福(小明希望能一生幸福)。",
-      "pinyin": "Xiǎomíng xīwàng néng yìshēng xìngfú.",
-      "english": "Xiaoming hopes to have a lifetime of happiness."
+      "chinese": "她一生中最快乐的时光是和家人在一起(她一生中最快樂的時光是和家人在一起)。",
+      "pinyin": "Tā yìshēng zhōng zuì kuàilè de shíguāng shì hé jiārén zài yīqǐ.",
+      "english": "Her happiest times in life were spent with her family."
     },
     {
-      "chinese": "她的一生充满了冒险和挑战(她的一生充滿了冒險和挑戰)。",
-      "pinyin": "Tā de yìshēng chōngmǎnle màoxiǎn hé tiǎozhàn.",
-      "english": "Her life was full of adventures and challenges."
+      "chinese": "老师把他的一生都奉献给了教育事业(老師把他的一生都奉獻給了教育事業)。",
+      "pinyin": "Lǎoshī bǎ tā de yìshēng dōu fèngxiàn gěi le jiàoyù shìyè.",
+      "english": "The teacher devoted his entire life to the cause of education."
     }
   ]
 }

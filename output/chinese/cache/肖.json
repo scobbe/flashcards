@@ -5,8 +5,8 @@
   "english": "resemble; similar",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 小(小) (xiǎo, \"small\") + Phonetic: 月(月) (yuè, \"moon/flesh\") = small-like or resemble -> resemblance",
-    "interpretation": "肖(肖) (xiào, \"resemble\") combines 小(小) (xiǎo, \"small\") for resembling something in a smaller form, with 月(月) (yuè, \"moon/flesh\") acting as the phonetic component. This suggests a likeness or resemblance, much like something that resembles but is smaller or of similar form.",
+    "description": "phonetic 小(xiǎo, \"small\") + semantic 肉(ròu, \"meat\") -> resemble",
+    "interpretation": "肖(xiào, \"resemble\") combines the phonetic element 小(xiǎo, \"small\") to suggest its pronunciation with the semantic element 肉(ròu, \"meat\") indicating a connection to physical appearance. The core meaning 'resemble' arises from the idea of something appearing similar to another, as meat can take on various appearances, enhanced by the phonetic component.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "small"
     },
     {
-      "char": "月",
-      "trad": "月",
-      "pinyin": "yuè",
-      "english": "moon/flesh"
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他长得很肖他的父亲(他長得很肖他的父親)。",
-      "pinyin": "Tā zhǎng de hěn xiào tā de fùqīn.",
+      "chinese": "这幅画很好地描绘了他的肖像(這幅畫很好地描繪了他的肖像)。",
+      "pinyin": "Zhè fú huà hěn hǎo de miáohuì le tā de xiàoxiàng.",
+      "english": "This painting excellently depicts his likeness."
+    },
+    {
+      "chinese": "他长得很像他的父亲(他長得很像他的父親)。",
+      "pinyin": "Tā zhǎng de hěn xiàng tā de fùqīn.",
       "english": "He greatly resembles his father."
     },
     {
-      "chinese": "那幅画中的人物肖古代仕女(那幅畫中的人物肖古代仕女)，散发着艺术的韵味(散發著藝術的韻味)。",
-      "pinyin": "Nà fú huà zhōng de rénwù xiào gǔdài shìnǚ, sànfā zhe yìshù de yùnwèi.",
-      "english": "The figure in that painting resembles an ancient court lady and exudes artistic charm."
-    },
-    {
-      "chinese": "她的笑容总是与花开的季节肖似(她的笑容總是與花開的季節肖似)，让人心情愉快(讓人心情愉快)。",
-      "pinyin": "Tā de xiàoróng zǒng shì yǔ huākāi de jìjié xiào sì, ràng rén xīnqíng yúkuài.",
-      "english": "Her smile always resembles the blossoming season, uplifting people's moods."
+      "chinese": "这个模型逼真地模仿了原物(這個模型逼真地模仿了原物)。",
+      "pinyin": "Zhège móxíng bīzhēn de mófǎng le yuánwù.",
+      "english": "This model realistically imitates the original."
     }
   ]
 }

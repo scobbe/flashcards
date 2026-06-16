@@ -5,8 +5,8 @@
   "english": "power bank",
   "etymology": {
     "type": "compound word",
-    "description": "行動(行動) (xíngdòng, \"action; movement\") + 電源(電源) (diànyuán, \"power source\") = power source for movement -> power bank",
-    "interpretation": "The term 行動電源(行動電源) (xíngdòngdiànyuán, \"power bank\") makes sense as it literally describes a portable power source that facilitates movement or action, which is essential for charging devices on the go. This combination reflects the practical use of a power bank in ensuring devices remain powered while being mobile.",
+    "description": "行(行) (xíng, \"to move\") refers to moving or traveling, and 動(動) (dòng, \"action\") indicates action or motion. Together, 行動(行動) (xíngdòng, \"action; movement\") conveys the concept of mobility or movement. 電(電) (diàn, \"electricity\") represents electricity or electric power, and 源(源) (yuán, \"source\") denotes a source or origin. Thus, 電源(電源) (diànyuán, \"power source\") signifies a source of electric power. In this compound, 行動(行動) (xíngdòng, \"movement\") + 電源(電源) (diànyuán, \"power source\") forms the idea of a \"power source that is mobile or portable,\" which accurately describes a power bank.",
+    "interpretation": "行(行) (xíng, \"to move\") and 動(動) (dòng, \"action\") together denote the concept of mobility, emphasizing something that can be moved or used while moving. This connects to portable or mobile functionality. 電(電) (diàn, \"electricity\") and 源(源) (yuán, \"source\") create the concept of an electrical source. Combining these two segments, the term signifies a source of electricity that can be used on the go, perfectly capturing the concept of a power bank—a device providing portable electric power.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一个行动电源(我買了一個行動電源)。",
-      "pinyin": "Wǒ mǎile yīgè xíngdòngdiànyuán.",
-      "english": "I bought a power bank."
+      "chinese": "我忘记带行动电源(我忘記帶行動電源)。",
+      "pinyin": "Wǒ wàngjì dài xíngdòngdiànyuán.",
+      "english": "I forgot to bring the power bank."
     },
     {
-      "chinese": "在旅行时(在旅行時)，行动电源很方便(行動電源很方便)。",
-      "pinyin": "Zài lǚxíng shí, xíngdòngdiànyuán hěn fāngbiàn.",
-      "english": "When traveling, the power bank is very convenient."
+      "chinese": "旅行的时候(旅行的時候)，行动电源很重要(行動電源很重要)。",
+      "pinyin": "Lǚxíng de shíhòu, xíngdòngdiànyuán hěn zhòngyào.",
+      "english": "A power bank is very important when traveling."
     },
     {
-      "chinese": "他推荐购买行动电源(他推薦購買行動電源)。",
-      "pinyin": "Tā tuījiàn gòumǎi xíngdòngdiànyuán.",
-      "english": "He recommended buying a power bank."
+      "chinese": "他的手机没电了(他的手機沒電了)，但幸好有行动电源(但幸好有行動電源)。",
+      "pinyin": "Tā de shǒujī méi diàn le, dàn xìnghǎo yǒu xíngdòngdiànyuán.",
+      "english": "His phone ran out of battery, but luckily there was a power bank."
     }
   ]
 }

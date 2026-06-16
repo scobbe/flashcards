@@ -5,22 +5,22 @@
   "english": "snake",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 兀(兀) (wù, \"towering\") + Semantic: 虫(虫) (chóng, \"insect\") = a type of snake",
-    "interpretation": "The character 虺(虺) combines the pronunciation clue from 兀(兀) (wù, \"towering\") with the semantic indicator 虫(虫) (chóng, \"insect\") to specifically denote a type of snake, reflecting the creature's slithering form.",
+    "description": "semantic 虫(虫) (huǐ, \"insect\") + phonetic 兀(兀) (wù, \"steep\") -> meaning 'snake'",
+    "interpretation": "虺(虺) (huǐ, \"snake\") combines the semantic 虫(虫) (huǐ, \"insect\") indicating a creature category, with the phonetic 兀(兀) (wù, \"steep\") contributing the sound. This forms a character used to denote a type of serpent, consolidating the idea of an insect-like crawling creature with specific phonetic sounds.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "huǐ",
+      "english": "insect"
+    },
+    {
       "char": "兀",
       "trad": "兀",
       "pinyin": "wù",
-      "english": "towering"
-    },
-    {
-      "char": "虫",
-      "trad": "虫",
-      "pinyin": "chóng",
-      "english": "insect"
+      "english": "steep"
     }
   ],
   "in_contemporary_usage": false,

@@ -1,12 +1,12 @@
 {
   "simplified": "𠯑",
-  "traditional": "昏",
+  "traditional": "𠯑",
   "pinyin": "unknown",
-  "english": "phonetic component",
+  "english": "carry out, perform",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "氏(氏) (shì, \"descendant\") + 日(日) (rì, \"sun\") = sun lowering -> twilight or nightfall",
-    "interpretation": "The character 昏 depicts the concept of twilight or nightfall by combining the sun going down, represented by 日(日) (rì, \"sun\"), with 氐, a component indicating lowering. This captures the idea of the sun descending from the sky, symbolizing the evening or beginning of night.",
+    "description": "氏氏 (movement) + 日 (sun) -> twilight or nightfall, when sun is lowered",
+    "interpretation": "The character 𠯑 combines 氏(氏) (shì, \"movement\") with 日(日) (rì, \"sun\") to visually represent the concept of twilight or nightfall, a time when the sun lowers below the horizon. As the sun transitions into this downward position, it symbolically signifies the idea of concluding or carrying out activities as the day ends, which connects to broader meanings of performing or carrying out tasks.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "氏",
       "trad": "氏",
       "pinyin": "shì",
-      "english": "descendant"
+      "english": "movement"
     },
     {
       "char": "日",
@@ -23,22 +23,6 @@
       "english": "sun"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "这个字由形旁和𠯑构成(這個字由形旁和𠯑構成)。",
-      "pinyin": "Zhè gè zì yóu xíng páng hé 𠯑 gòu chéng。",
-      "english": "This character is composed of a radical and the phonetic component 𠯑."
-    },
-    {
-      "chinese": "古代造字时(古代造字時)，常借用𠯑作为音符(常借用𠯑作為音符)。",
-      "pinyin": "Gǔdài zào zì shí, cháng jiè yòng 𠯑 zuò wéi yīn fú。",
-      "english": "In ancient times, people often used 𠯑 as a phonetic element in character creation."
-    },
-    {
-      "chinese": "这个字的𠯑部分独特(這個字的𠯑部分獨特)。",
-      "pinyin": "Zhè gè zì de 𠯑 bù fèn dú tè。",
-      "english": "The phonetic component of this character is unique."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

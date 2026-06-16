@@ -5,40 +5,40 @@
   "english": "holiday; vacation",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, \"person\") + 叚(叚) (jiǎ, phonetic) = person taking a leave -> holiday",
-    "interpretation": "The character 假(假) (jià, \"holiday\") combines the semantic element 亻(亻) (rén, \"person\"), indicating a person or human activity, with the phonetic element 叚(叚) (jiǎ), suggesting the sound. This conveys the concept of a person taking time off, such as a holiday or vacation.",
+    "description": "semantic 亻(人) (rén, \"person\") + phonetic 叚(叚) (jià) -> holiday; vacation",
+    "interpretation": "The character 假 combines the semantic element 亻(人) (rén, \"person\") suggesting human activity or state, with the phonetic 叚(叚) (jià) to form the meaning related to taking a break or time off from daily duties, represented by the concept of 'holiday' or 'vacation'.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "亻",
-      "trad": "亻",
+      "trad": "人",
       "pinyin": "rén",
       "english": "person"
     },
     {
       "char": "叚",
       "trad": "叚",
-      "pinyin": "jiǎ",
-      "english": "phonetic"
+      "pinyin": "jià",
+      "english": "half-leaf door"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "国庆假期来临了(國慶假期來臨了)。",
-      "pinyin": "Guó qìng jiàqī láilín le.",
-      "english": "The National Day holiday has arrived."
+      "chinese": "我决定在暑假(我決定在暑假)去旅行(去旅行)。",
+      "pinyin": "Wǒ juédìng zài shǔjià qù lǚxíng.",
+      "english": "I decided to travel during the summer vacation."
     },
     {
-      "chinese": "他放假在家休息(他放假在家休息)，也计划和朋友出游(也計劃和朋友出遊)。",
-      "pinyin": "Tā fàngjià zài jiā xiūxí, yě jìhuà hé péngyǒu chūyóu.",
-      "english": "He is resting at home during his vacation, and he also plans to go out with his friends."
+      "chinese": "假期(假期)时(時)，我们去海滩度假(我們去海灘度假)。",
+      "pinyin": "Jiàqī shí, wǒmen qù hǎitān dùjià.",
+      "english": "During the holiday, we went to the beach for vacation."
     },
     {
-      "chinese": "我们的假期很短暂(我們的假期很短暫)。",
-      "pinyin": "Wǒmen de jiàqī hěn duǎnzàn.",
-      "english": "Our vacation is very short."
+      "chinese": "她申请了两周的假期(她申請了兩週的假期)，以便更好地放松(以便更好地放鬆)。",
+      "pinyin": "Tā shēnqǐngle liǎng zhōu de jiàqī, yǐbiàn gèng hǎo de fàngsōng.",
+      "english": "She applied for a two-week vacation to relax better."
     }
   ]
 }

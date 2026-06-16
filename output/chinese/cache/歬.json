@@ -2,11 +2,11 @@
   "simplified": "歬",
   "traditional": "歬",
   "pinyin": "qián",
-  "english": "phonetic element",
+  "english": "advance, move forward",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "止(止, 'foot') + 舟(舟, 'boat') = a forward-moving action -> later revised with 刀 ('knife') to form the original of 剪 (with 歬 as phonetic)",
-    "interpretation": "歬 originally depicted a foot and a boat, symbolizing forward movement, and was later used phonetically in conjunction with 刀 ('knife') to form 剪, meaning 'to cut'.",
+    "description": "semantic 止(止) (zhǐ, \"foot\") + phonetic 舟(舟) (zhōu) -> moving forward (by foot on a boat)",
+    "interpretation": "Originally, 歬 (qián) (\"advance, move forward\") combined a foot 止(止) (zhǐ, \"foot\") and a boat 舟(舟) (zhōu, \"boat\") to symbolize movement, as one would advance by stepping onto a boat. This imagery conveys the concept of advancing or moving forward in a dynamic, physical manner.",
     "simplification": ""
   },
   "parts": [
@@ -21,12 +21,6 @@
       "trad": "舟",
       "pinyin": "zhōu",
       "english": "boat"
-    },
-    {
-      "char": "刀",
-      "trad": "刀",
-      "pinyin": "dāo",
-      "english": "knife"
     }
   ],
   "in_contemporary_usage": false,

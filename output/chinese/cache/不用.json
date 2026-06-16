@@ -5,8 +5,8 @@
   "english": "not need",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 用(用) (yòng, \"use\") = not need",
-    "interpretation": "The word 不用(不用) (búyòng, \"not need\") combines 不(不) (bù, \"not\") with 用(用) (yòng, \"use\") to convey the absence of necessity or requirement for something. By pairing 'not' with 'use,' the compound expresses the meaning of something being unnecessary.",
+    "description": "不(不) (bù, \"not\") + 用(用) (yòng, \"use\") combine to produce \"not need\" by conveying the idea of not using something, hence not requiring or needing it.",
+    "interpretation": "The core meaning of 不用 (bùyòng, \"not need\") comes from combining 不(不) (bù, \"not\") and 用(用) (yòng, \"use\"). 不(不) (bù, \"not\") negates whatever follows it, while 用(用) (yòng, \"use\") refers to the act of utilizing or employing something. Together, they clearly imply \"not use,\" which naturally extends to \"not need,\" as need often leads to use. In this construction, 不(不) (bù, \"not\") directly negates the act implied by 用(用) (yòng, \"use\"). Therefore, in context, 不用 denotes a lack of necessity since something that is not used is typically not needed.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "用",
       "trad": "用",
       "pinyin": "yòng",
-      "english": "use; apply"
+      "english": "use; employ; need; consume"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你不用去(你不用去)。",
-      "pinyin": "nǐ bú yòng qù。",
-      "english": "You don't need to go."
+      "chinese": "你不用担心(你不用擔心)。",
+      "pinyin": "Nǐ bú yòng dānxīn.",
+      "english": "You don't need to worry."
     },
     {
-      "chinese": "他不用担心(他不用擔心)，问题会自行解决(問題會自行解決)。",
-      "pinyin": "tā bú yòng dān xīn, wèn tí huì zì xíng jiě jué。",
-      "english": "He doesn't need to worry, the problem will solve itself."
+      "chinese": "我们不用买票(我們不用買票)，因为这是免费的(因為這是免費的)。",
+      "pinyin": "Wǒmen bú yòng mǎi piào, yīnwèi zhè shì miǎnfèi de.",
+      "english": "We don't need to buy tickets because this is free."
     },
     {
-      "chinese": "我们不用买票(我們不用買票)。",
-      "pinyin": "wǒ men bú yòng mǎi piào。",
-      "english": "We don't need to buy tickets."
+      "chinese": "他们不用早点到(他們不用早点到)。",
+      "pinyin": "Tāmen bú yòng zǎodiǎn dào.",
+      "english": "They don't need to arrive early."
     }
   ]
 }

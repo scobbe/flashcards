@@ -4,17 +4,17 @@
   "pinyin": "cháng",
   "english": "taste; try",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Phonetic: 尚(尚) (shàng) + Semantic: 旨(旨) (zhǐ, \"tasty\") = relating to flavor -> taste; try",
-    "interpretation": "The character combines 尚(尚) (shàng) for its similar sound with 旨(旨) (zhǐ, \"tasty\") to convey the idea of experiencing or trying different flavors.",
-    "simplification": "尝(嘗) replaces the complex 龍(龍) (lóng, \"dragon\") with a simpler phonetic 尚(尚) (shàng), while retaining the essential meaning with 旨(旨) (zhǐ, \"tasty\") component."
+    "type": "phono-semantic compound",
+    "description": "semantic 旨(旨) (zhǐ, \"tasty\") + phonetic 尚(尚) (shàng) -> taste",
+    "interpretation": "The character 嘗 represents the act of tasting, with 尚(尚) providing the sound and 旨(旨) contributing the meaning of 'tasty'. The semantic component 旨(旨) evokes the idea of a delicious flavor, leading naturally to the concept of tasting or trying food.",
+    "simplification": "尝(嘗) reduced the character by removing the semantic element 旨(旨), leaving only the phonetic 尚(尚)."
   },
   "parts": [
     {
       "char": "尚",
       "trad": "尚",
       "pinyin": "shàng",
-      "english": "of high esteem"
+      "english": "still; yet"
     },
     {
       "char": "旨",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想尝这个菜(我想嘗這個菜)。",
-      "pinyin": "Wǒ xiǎng cháng zhège cài.",
+      "chinese": "我想尝一下这道菜(我想嘗一下這道菜)。",
+      "pinyin": "Wǒ xiǎng cháng yīxià zhè dào cài.",
       "english": "I want to taste this dish."
     },
     {
-      "chinese": "他尝了果汁(他嘗了果汁)，觉得味道不错(覺得味道不錯)。",
-      "pinyin": "Tā cháng le guǒ zhī, juéde wèidào búcuò.",
-      "english": "He tasted the juice and thought the flavor was good."
+      "chinese": "她总是尝试新事物(她總是嘗試新事物)。",
+      "pinyin": "Tā zǒng shì chángshì xīn shìwù.",
+      "english": "She always tries new things."
+    },
+    {
+      "chinese": "我们在集市上尝了很多美食(我們在集市上嘗了很多美食)。",
+      "pinyin": "Wǒmen zài jíshì shàng cháng le hěn duō měishí.",
+      "english": "We tasted a lot of delicacies at the market."
     }
   ]
 }

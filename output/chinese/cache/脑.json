@@ -4,10 +4,10 @@
   "pinyin": "nǎo",
   "english": "brain; mind; head",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "匕(匕) (bǐ, 'spoon') + 巛(川) (chuān, 'river', used here for 'hair') + 囟(囟) (xìn, 'fontanel') -> ideogrammic for 'head with hair and a spoon-like shape inside' -> 匘 with 匕 replaced by 肉(肉) (ròu, 'flesh') = 'flesh inside a head' -> modern form for 'brain'",
-    "interpretation": "The character 脑(nǎo) ('brain') evolved from the idea of a fleshy interior within the head, emphasizing its conceptual association with the head and thoughts.",
-    "simplification": "Simplified from 腦 by replacing the complex 囟(bottom part) with the simpler character 月(yuè), retaining the meaning linked to 'flesh within the head'."
+    "type": "ideogrammic compound",
+    "description": "匕 (spoon) + 巛 (hair) + 囟 (fontanel) -> conception of brain elements -> 肉 (flesh) replaces 匕 for clarity -> 腦 (brain)",
+    "interpretation": "The original character 匘 combined spoon-like 匕, hair-like 巛, and head-related 囟 to represent the brain's layered complexity. Later, 匕 was replaced with the more relevant 肉 (flesh), emphasizing the brain as a physical part of the body, leading to the modern character 腦 (nǎo, 'brain').",
+    "simplification": "In simplified form, 脑, the complex components of 腦 were replaced with simpler forms to ease writing, retaining the essential semantic connection to flesh and head."
   },
   "parts": [
     {
@@ -18,9 +18,9 @@
     },
     {
       "char": "巛",
-      "trad": "川",
+      "trad": "巛",
       "pinyin": "chuān",
-      "english": "river"
+      "english": "hair"
     },
     {
       "char": "囟",
@@ -38,14 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用脑(他用腦)，思考问题(思考問題)。",
-      "pinyin": "Tā yòng nǎo, sī kǎo wèn tí.",
-      "english": "He uses his brain to think over problems."
+      "chinese": "用脑好好思考(用腦好好思考)。",
+      "pinyin": "Yòng nǎo hǎohǎo sīkǎo.",
+      "english": "Use your brain to think properly."
     },
     {
-      "chinese": "他的脑很聪明(他的腦很聰明)！",
-      "pinyin": "Tā de nǎo hěn cōngmíng!",
-      "english": "His brain is very smart!"
+      "chinese": "他有一个聪明的脑袋(他有一個聰明的腦袋)。",
+      "pinyin": "Tā yǒu yīgè cōngmíng de nǎodai.",
+      "english": "He has a smart head."
+    },
+    {
+      "chinese": "大脑是人体最重要的器官之一(大腦是人體最重要的器官之一)。",
+      "pinyin": "Dà nǎo shì réntǐ zuì zhòngyào de qìguān zhī yī.",
+      "english": "The brain is one of the most important organs in the human body."
     }
   ]
 }

@@ -5,16 +5,16 @@
   "english": "harmonious",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "吕(呂) (lǚ, 'spine') + 隹(隹) (zhuī, 'bird') = phonetic and semantic combination -> 水(水) (shuǐ, 'water') added or 邑(邑) (yì, 'city') corrupted from 吕(呂) -> harmonious",
-    "interpretation": "The character 雝 originally combined the phonetic element 吕(呂) from an ancient form similar to 宮 (not the current form 吕) with the semantic element 隹, symbolizing a bird. This was phonetically transformed over time, often incorporating 水 or 邑, contributing to the sense of harmony, as birds and water together evoke natural harmony.",
+    "description": "phonetic 吕 (ancient form of 宮) + semantic 隹 (bird) -> original meaning unknown; some variants contained 水; during Warring States, 吕 below 水 corrupted to 邑, making 邕 a new phonetic",
+    "interpretation": "The original meaning is unknown. The character was formed by combining a bird component 隹 with the ancient variant of 宮 as the phonetic element to determine sound. Over time, and particularly during the Warring States period, it evolved, where the component below 水 (water) changed into 邑, modifying its phonetic influence to resemble 邕, yet the exact semantic leap to 'harmonious' is not historically clarified in this transformation.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "呂",
-      "trad": "呂",
-      "pinyin": "lǚ",
-      "english": "spine"
+      "char": "宮",
+      "trad": "宮",
+      "pinyin": "gōng",
+      "english": "palace"
     },
     {
       "char": "隹",
@@ -33,6 +33,12 @@
       "trad": "邑",
       "pinyin": "yì",
       "english": "city"
+    },
+    {
+      "char": "邕",
+      "trad": "邕",
+      "pinyin": "yōng",
+      "english": "name of a river"
     }
   ],
   "in_contemporary_usage": false,

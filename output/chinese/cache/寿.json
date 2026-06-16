@@ -5,9 +5,9 @@
   "english": "longevity",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 士(士) (shì, \"scholar\") + phonetic: 叀(叀) (zhuān) = scholar sitting to listen to learn and live long -> longevity",
-    "interpretation": "The character 寿(壽) (shòu, \"longevity\") combines a depiction of scholarship and learning with a phonetic component to convey the idea of living a long life through knowledge and wisdom.",
-    "simplification": "During simplification, 壽(壽) was streamlined to 寿(壽) by removing the complex elements and retaining a simpler form while preserving the phonetic and semantic essence."
+    "description": "semantic 士(士) (shì, \"scholar\") + phonetic 寸(寸) (cùn) -> longevity",
+    "interpretation": "壽(壽) (shòu, \"longevity\") consists of 士(士) (shì, \"scholar\"), representing an esteemed, noble quality, combined with the phonetic 寸(寸) (cùn), indicating the measurement of life. Together they convey the notion of a long, honored life.",
+    "simplification": "Simplified 寿 from traditional 壽 involves the omission of 示(示) (shì, \"sign\") and retaining the common phonetic component, 寸(寸) (cùn), focusing on the pronunciation without the semantic complexity."
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "scholar"
     },
     {
-      "char": "叀",
-      "trad": "叀",
-      "pinyin": "zhuān",
-      "english": "phonetic"
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "inch"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他盼望长寿(他盼望長壽)。",
-      "pinyin": "Tā pànwàng chángshòu.",
-      "english": "He hopes for longevity."
+      "chinese": "爷爷的寿命(爺爺的壽命)很长(很長)，大家都希望他健康长寿(大家都希望他健康長壽)。",
+      "pinyin": "Yéye de shòumìng hěn cháng, dàjiā dōu xīwàng tā jiànkāng chángshòu.",
+      "english": "Grandpa's life is very long; everyone hopes he stays healthy and has a long life."
     },
     {
-      "chinese": "家人团聚时(家人團聚時)，大家都祝愿长寿(大家都祝願長壽)。",
-      "pinyin": "Jiārén tuánjù shí, dàjiā dōu zhùyuàn chángshòu.",
-      "english": "When the family gathers, everyone wishes for longevity."
+      "chinese": "在传统文化中(在傳統文化中)，龟象征着长寿(龜象徵著長壽)。",
+      "pinyin": "Zài chuántǒng wénhuà zhōng, guī xiàngzhēngzhe chángshòu.",
+      "english": "In traditional culture, the turtle symbolizes longevity."
     },
     {
-      "chinese": "寿星收到贺卡祝福(壽星收到賀卡祝福)。",
-      "pinyin": "Shòuxīng shōudào hèkǎ zhùfú.",
-      "english": "The birthday person receives wishes on a greeting card."
+      "chinese": "他们为奶奶的八十大寿(他們為奶奶的八十大壽)举行了一个盛大的庆祝。(舉行了一個盛大的慶祝)。",
+      "pinyin": "Tāmen wèi nǎinai de bāshí dàshòu jǔxíngle yīgè shèngdà de qìngzhù.",
+      "english": "They held a grand celebration for grandma's 80th birthday."
     }
   ]
 }

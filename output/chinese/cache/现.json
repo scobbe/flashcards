@@ -5,40 +5,40 @@
   "english": "appear; now",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "見(見) (jiàn, 'see') + 王(王) (wáng, 'king') = see the presence of a ruler -> appear",
-    "interpretation": "The character uses 見(見) (jiàn, 'see') to suggest visibility or presence, combined with 王(王) (wáng, 'king') to imply the notion of a notable presence or appearance. This effectively conveys the idea of 'appearing' or 'being present.'",
-    "simplification": "現(現)→现(現): The component 王(王) (wáng, 'king') is streamlined for simplicity."
+    "description": "semantic 玉(玉) (yù, \"jade\") + phonetic 見(見) (jiàn, \"see\") -> to appear",
+    "interpretation": "現(現) (jiàn, \"see\") acts as the phonetic component indicating pronunciation, while the semantic component 玉(玉) (yù, \"jade\") suggests something valuable or significant that becomes visible, leading to the meaning 'to appear; now'.",
+    "simplification": "現(現) was simplified to 现(現) by replacing the semantic component 見(見) (jiàn, \"see\") with its simplified form 见."
   },
   "parts": [
+    {
+      "char": "玉",
+      "trad": "玉",
+      "pinyin": "yù",
+      "english": "jade"
+    },
     {
       "char": "見",
       "trad": "見",
       "pinyin": "jiàn",
       "english": "see"
-    },
-    {
-      "char": "王",
-      "trad": "王",
-      "pinyin": "wáng",
-      "english": "king"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他突然现身(他突然現身)。",
-      "pinyin": "Tā túrán xiàn shēn.",
-      "english": "He suddenly appeared."
+      "chinese": "现在是时候出发了(現在是時候出發了)。",
+      "pinyin": "Xiànzài shì shíhòu chūfā le.",
+      "english": "Now is the time to depart."
     },
     {
-      "chinese": "黄昏时分(黃昏時分)，他现身于云中(他現身於雲中)。",
-      "pinyin": "Huánghūn shí fēn, tā xiàn shēn yú yún zhōng.",
-      "english": "At dusk, he appeared among the clouds."
+      "chinese": "他突然出现在门口(他突然出現在門口)。",
+      "pinyin": "Tā tūrán chūxiàn zài ménkǒu.",
+      "english": "He suddenly appeared at the door."
     },
     {
-      "chinese": "真相现出来了(真相現出來了)。",
-      "pinyin": "Zhēnxiàng xiàn chūlái le.",
-      "english": "The truth appeared."
+      "chinese": "这幅画在博物馆中展现(這幅畫在博物館中展現)。",
+      "pinyin": "Zhè fú huà zài bówùguǎn zhōng zhǎnxiàn.",
+      "english": "This painting is exhibited in the museum."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "mallow; sunflower; hibiscus",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, 'grass, plant') + phonetic: 癸(癸) (guǐ, 'tenth earthly branch') = refers to a type of plant → mallow, sunflower, hibiscus",
-    "interpretation": "The character 葵(葵) (kuí, 'mallow; sunflower; hibiscus') is composed of the 艹(艹) (cǎo, 'grass, plant') radical, indicating its connection to vegetation, and the phonetic component 癸(癸) (guǐ, 'tenth earthly branch'), which provides a clue to its pronunciation. Combining these elements, it specifies a type of plant known for its wide and vibrant flowers.",
+    "description": "semantic 艹(\"grass; plant\") + phonetic 癸(sound) -> a kind of plant",
+    "interpretation": "The character 葵 combines the semantic component 艹, indicating 'grass' or 'plant', with the phonetic component 癸, which provides the sound. This structure denotes a kind of plant, which can include mallow, sunflower, or hibiscus based on context.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "grass, plant"
+      "english": "grass; plant"
     },
     {
       "char": "癸",
       "trad": "癸",
       "pinyin": "guǐ",
-      "english": "tenth earthly branch"
+      "english": "tenth heavenly stem"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我种下了葵花(我種下了葵花)，期待它开出金色花朵(期待它開出金色花朵)。",
-      "pinyin": "Wǒ zhòng xià le kuíhuā, qídài tā kāichū jīnsè huāduǒ.",
-      "english": "I planted sunflowers, anticipating that they would bloom with golden petals."
+      "chinese": "花园中种满了向日葵(花園中種滿了向日葵)。",
+      "pinyin": "Huāyuán zhōng zhòng mǎn le xiàngrìkuí.",
+      "english": "The garden is filled with sunflowers."
     },
     {
-      "chinese": "微风吹过葵园(微風吹過葵園)，花影摇曳生姿(花影搖曳生姿)。",
-      "pinyin": "Wēi fēng chuī guò kuí yuán, huā yǐng yáo yè shēng zī.",
-      "english": "A gentle breeze swept over the sunflower garden, and the blossoms' shadows danced gracefully."
+      "chinese": "在古代(在古代)，葵花常被用作药材(葵花常被用作藥材)。",
+      "pinyin": "Zài gǔdài, kuíhuā cháng bèi yòng zuò yàocái.",
+      "english": "In ancient times, the mallow flower was often used as medicine."
+    },
+    {
+      "chinese": "清晨的露水(清晨的露水)，使葵花显得更加美丽(使葵花顯得更加美麗)。",
+      "pinyin": "Qīngchén de lùshuǐ, shǐ kuíhuā xiǎnde gèngjiā měilì.",
+      "english": "The morning dew makes the sunflower look even more beautiful."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "straddle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 足(足) (zú, \"foot\") + phonetic 夸(夸) (kuā, \"boast\") = action involving the foot with the sound of stretching or covering distance -> straddle",
-    "interpretation": "The use of 足(足) (zú, \"foot\") emphasizes physical movement, suggesting an action related to stepping or covering an area, while 夸(夸) (kuā, \"boast\") provides the phonetic component. Together, they convey the idea of a large stride or spanning across a distance.",
+    "description": "semantic 足(足) (zú, \"foot\") + phonetic 夸(夸) (kuā, \"boast\") -> straddle",
+    "interpretation": "The semantic component 足(足) (zú, \"foot\") represents the physical action of stepping or spreading one's legs. The character 夸(夸) (kuā, \"boast\") contributes the pronunciation but not the meaning. Together, they convey the idea of spreading one's feet apart, capturing the sense of 'straddling'.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他跨上马鞍(他跨上馬鞍)，骑向远方(騎向遠方)。",
-      "pinyin": "Tā kuà shàng mǎ'ān, qí xiàng yuǎnfāng.",
-      "english": "He straddles the saddle and rides off into the distance."
+      "chinese": "他跨过了小溪(他跨過了小溪)。",
+      "pinyin": "Tā kuàguò le xiǎoxī.",
+      "english": "He straddled the stream."
     },
     {
-      "chinese": "她跨入新的领域(她跨入新的領域)。",
-      "pinyin": "Tā kuà rù xīn de lǐngyù.",
-      "english": "She steps into a new field."
+      "chinese": "这座桥跨越了两座山谷(這座橋跨越了兩座山谷)。",
+      "pinyin": "Zhè zuò qiáo kuàyuè le liǎng zuò shāngǔ.",
+      "english": "This bridge straddles two valleys."
+    },
+    {
+      "chinese": "他跨上了马(他跨上了馬)，开始了旅程(開始了旅程)。",
+      "pinyin": "Tā kuàshàng le mǎ, kāishǐ le lǚchéng.",
+      "english": "He mounted the horse and began his journey."
     }
   ]
 }

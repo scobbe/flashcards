@@ -5,27 +5,40 @@
   "english": "mqi",
   "etymology": {
     "type": "compound word",
-    "description": "木(木) (mù, \"wood\") and 齐(齊) (qí, \"together; uniform\").",
-    "interpretation": "木齐(木齊) (mùqí) consists of 木(木) (mù, \"wood\") and 齐(齊) (qí, \"together; uniform\"). While the literal meaning appears to suggest something like 'wood together' or 'uniform wood,' this term is primarily recognized as an abbreviation for 乌鲁木齐(烏魯木齊) (Wūlǔmùqí), the capital city of the Xinjiang Uygur Autonomous Region in China. It is commonly used to refer to the city in a shortened form.",
+    "description": "The word 木齊 (mùqí) is used as an abbreviation for the city name 乌鲁木齐 (烏魯木齊) (Wūlǔmùqí), which is the capital of Xinjiang Uygur Autonomous Region in China. The first character, 木 (木) (mù, \"wood\"), is taken from the middle syllable of the city's name, while 齊 (齊) (qí, \"equal; neat\") is borrowed phonologically from the last syllable. Together, these characters are not intended to convey a specific meaning through their combined definitions but serve as a shortened form for ease of reference.",
+    "interpretation": "木齊 is essentially a phonetic abbreviation for 乌鲁木齐 (烏魯木齊), with 木 (mù, \"wood\") capturing the middle syllable and 齊 (qí, \"equal; neat\") capturing the ending sound of the original name. The characters themselves don't combine to create a semantic meaning but serve the purpose of simplification in daily reference, particularly because the full city name is lengthy.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood; tree"
+    },
+    {
+      "char": "齐",
+      "trad": "齊",
+      "pinyin": "qí",
+      "english": "equal; neat; alike"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在展览中展示了木齐(他在展覽中展示了木齊)。",
-      "pinyin": "Tā zài zhǎnlǎn zhōng zhǎnshì le mùqí.",
-      "english": "He displayed the mqi at the exhibition."
+      "chinese": "木齐(木齊)是一个古老的城市(木齊是一個古老的城市)。",
+      "pinyin": "Mùqí shì yī gè gǔlǎo de chéngshì.",
+      "english": "Mqi is an ancient city."
     },
     {
-      "chinese": "这些木齐历经岁月洗礼(這些木齊歷經歲月洗禮)，依旧散发古朴韵味(依舊散發古樸韻味)。",
-      "pinyin": "Zhèxiē mùqí lìjīng suìyuè xǐlǐ, yījiù sànfā gǔpǔ yùnwèi.",
-      "english": "These mqis have withstood the test of time, still exuding a rustic charm."
+      "chinese": "他打算去木齐(他打算去木齊)旅行。",
+      "pinyin": "Tā dǎsuàn qù Mùqí lǚxíng.",
+      "english": "He plans to travel to Mqi."
     },
     {
-      "chinese": "大家对木齐的使用方式各有不同(大家對木齊的使用方式各有不同)。",
-      "pinyin": "Dàjiā duì mùqí de shǐyòng fāngshì gè yǒu bùtóng.",
-      "english": "Everyone uses the mqi in different ways."
+      "chinese": "木齐的历史悠久(木齊的歷史悠久)，吸引了很多游客(木齊的歷史悠久，吸引了很多遊客)。",
+      "pinyin": "Mùqí de lìshǐ yōujiǔ, xīyǐnle hěnduō yóukè.",
+      "english": "The long history of Mqi attracts many tourists."
     }
   ]
 }

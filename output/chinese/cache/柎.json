@@ -1,0 +1,28 @@
+{
+  "simplified": "柎",
+  "traditional": "柎",
+  "pinyin": "fū",
+  "english": "calyx",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 付(付) (fù) -> meaning",
+    "interpretation": "柎(fū, \"calyx\") combines 木(木) (mù, \"wood\"), which highlights the botanical context related to plants and flowers, with 付(付) (fù), which provides the phonetic component. The structure suggests a part of a plant, specifically the calyx, which is wooden or firm like 木(木) (mù, \"wood\").",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "wood"
+    },
+    {
+      "char": "付",
+      "trad": "付",
+      "pinyin": "fù",
+      "english": "to pay"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

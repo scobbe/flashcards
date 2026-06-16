@@ -5,35 +5,46 @@
   "english": "Zhongshan District, Taipei",
   "etymology": {
     "type": "compound word",
-    "description": "中(中) (zhōng, \"middle\") + 山(山) (shān, \"mountain\") form 中山(中山) (Zhōngshān, \"Zhongshan\") referring to Sun Yat-sen, a key figure in modern Chinese history. 區(區) (qū, \"district\") indicates an administrative division.",
-    "interpretation": "中山(中山) (Zhōngshān, \"Zhongshan\") commemorates Sun Yat-sen, known as the 'Father of the Nation' in Republic of China (Taiwan). 中山区(中山區) (Zhōngshān Qū, \"Zhongshan District\") in Taipei is named in his honor.",
+    "description": "中(中) (zhōng, \"middle\") 山(山) (shān, \"mountain\") 區(區) (qū, \"district\")",
+    "interpretation": "中(中) (zhōng, \"middle\") suggests centrality or being at the center, often used in names to signify the importance or central position of a place. 山(山) (shān, \"mountain\") refers to a mountain or a hilly area, commonly appearing in geographical names to indicate natural topography or to honor Sun Yat-sen (孫中山), a revered figure in Chinese history known as the \"Father of the Nation.\" Therefore, 中山(中山) (Zhōngshān, \"central mountain\") often signifies a place named in honor of Sun Yat-sen. Finally, 區(區) (qū, \"district\") denotes an administrative division or area. In the context of 中山區(中山區) (Zhōngshān Qū), it indicates a district named Zhongshan.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "中山",
-      "trad": "中山",
-      "pinyin": "zhōngshān",
-      "english": "Zhongshan; Sun Yat-sen"
+      "char": "中",
+      "trad": "中",
+      "pinyin": "zhōng",
+      "english": "middle; center; within"
     },
     {
-      "char": "区",
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain; hill"
+    },
+    {
+      "char": "區",
       "trad": "區",
       "pinyin": "qū",
-      "english": "district; area; region; ward"
+      "english": "district; area; region"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我住在中山区(我住在中山區)。",
-      "pinyin": "Wǒ zhù zài Zhōngshān Qū.",
-      "english": "I live in Zhongshan District."
+      "chinese": "中山区(中山區)是台北的重要商业区(是台北的重要商業區)。",
+      "pinyin": "Zhōngshān Qū shì Táiběi de zhòngyào shāngyè qū.",
+      "english": "Zhongshan District is an important commercial area in Taipei."
     },
     {
-      "chinese": "中山区是台北市的热门商业区(中山區是臺北市的熱門商業區)，生活节奏很快(生活節奏很快)。",
-      "pinyin": "Zhōngshān Qū shì Táiběi shì de rè mén shāng yè qū，shēng huó jié zòu hěn kuài.",
-      "english": "Zhongshan District is a popular commercial area in Taipei, where life moves at a fast pace."
+      "chinese": "许多游客喜欢在中山区购物(許多遊客喜歡在中山區購物)。",
+      "pinyin": "Xǔduō yóukè xǐhuān zài Zhōngshān Qū gòuwù.",
+      "english": "Many tourists enjoy shopping in Zhongshan District."
+    },
+    {
+      "chinese": "中山区(中山區)有许多咖啡馆(有許多咖啡館)，晚上特别热闹(晚上特別熱鬧)。",
+      "pinyin": "Zhōngshān Qū yǒu xǔduō kāfēiguǎn, wǎnshàng tèbié rènào.",
+      "english": "Zhongshan District has many cafes, and it is especially lively at night."
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "simplified": "庚",
+  "traditional": "庚",
+  "pinyin": "gēng",
+  "english": "standard; fifth of the ten heavenly stems",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a flail and a threshing device",
+    "interpretation": "The character 庚 (gēng, \"standard; fifth of the ten heavenly stems\") originally depicted a flail and a threshing device used in agriculture, illustrating its role connected to the cycles and standards in agricultural work, which were fundamental in traditional Chinese calendars and reckoning systems.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "庚是天干的第五位(庚是天干的第五位)。",
+      "pinyin": "Gēng shì tiāngān de dì wǔ wèi.",
+      "english": "Geng is the fifth of the ten heavenly stems."
+    },
+    {
+      "chinese": "在古代历法中，庚被用作记录年份的符号(在古代曆法中，庚被用作記錄年份的符號)。",
+      "pinyin": "Zài gǔdài lìfǎ zhōng, gēng bèi yòng zuò jìlù niánfèn de fúhào.",
+      "english": "In ancient calendars, Geng was used as a symbol to record the year."
+    },
+    {
+      "chinese": "庚日适合举办婚礼(庚日適合舉辦婚禮)，因为它象征着新开始(因為它象徵著新開始)。",
+      "pinyin": "Gēng rì shìhé jǔbàn hūnlǐ, yīnwèi tā xiàngzhēngzhe xīn kāishǐ.",
+      "english": "The Geng day is suitable for holding weddings because it symbolizes a new beginning."
+    }
+  ]
+}

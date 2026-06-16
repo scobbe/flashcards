@@ -5,8 +5,8 @@
   "english": "don't know",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 知道(知道) (zhīdào, \"know\") = the state of not knowing.",
-    "interpretation": "This phrase literally means 'not know' by combining 不(不) (bù, \"not\") and 知道(知道) (zhīdào, \"know\"). It is a direct and clear expression used to indicate the lack of knowledge about something.",
+    "description": "不(bù) (bù, \"not\") negates the verb phrase 知道(知道) (zhīdào, \"to know\"). Together, they express the concept of lacking knowledge.",
+    "interpretation": "不(bù, \"not\") directly negates the affirmative state described by 知道(知道) (zhīdào, \"to know\"). When you are not in a state of knowing, you simply do not have that knowledge, leading to 'don't know'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not"
+      "english": "not; no"
     },
     {
       "char": "知道",
       "trad": "知道",
       "pinyin": "zhīdào",
-      "english": "know"
+      "english": "to know; be aware of; be acquainted with"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我不知道答案(我不知道答案)。",
-      "pinyin": "Wǒ bù zhīdào dá'àn。",
-      "english": "I don't know the answer."
+      "chinese": "我不知道今天有什么计划(我不知道今天有什麼計劃)。",
+      "pinyin": "Wǒ bù zhīdào jīntiān yǒu shénme jìhuà.",
+      "english": "I don't know what the plan is for today."
     },
     {
-      "chinese": "他不知道去哪儿(他不知道去哪兒)，所以问别人(所以問別人)。",
-      "pinyin": "Tā bù zhīdào qù nǎr, suǒyǐ wèn biérén。",
-      "english": "He doesn't know where to go, so he asks others."
+      "chinese": "他不知道问题的答案(他不知道問題的答案)。",
+      "pinyin": "Tā bù zhīdào wèntí de dá'àn.",
+      "english": "He doesn't know the answer to the question."
     },
     {
-      "chinese": "我不知道他为何迟到(我不知道他為何遲到)。",
-      "pinyin": "Wǒ bù zhīdào tā wèi hé chí dào。",
-      "english": "I don't know why he is late."
+      "chinese": "她不知道明天是否下雨(她不知道明天是否下雨)。",
+      "pinyin": "Tā bù zhīdào míngtiān shìfǒu xià yǔ.",
+      "english": "She doesn't know if it will rain tomorrow."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "branch; axe handle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + phonetic: 可(可) (kě, \"can\") = tree-related object -> branch; axe handle",
-    "interpretation": "The character combines 木(木) (mù, \"tree\"), signifying a wooden object, with 可(可) (kě, \"can\"), which provides the pronunciation. This reflects its meaning related to parts of a tree, such as branches or axe handles.",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 可(可) (kě) -> branch; axe handle",
+    "interpretation": "The character 柯(kē, \"branch; axe handle\") combines the semantic component 木(木) (mù, \"tree\"), which suggests something relating to wood, with the phonetic component 可(可) (kě) to provide the pronunciation. As a branch and an axe handle are both made from wood, the semantic component directly relates to the material and function.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "可",
       "trad": "可",
       "pinyin": "kě",
-      "english": "can"
+      "english": "able; can"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古斧的柯(古斧的柯)经过匠人的精心打磨(經過匠人的精心打磨)，仍然结实(仍然結實)。",
-      "pinyin": "Gǔ fǔ de kē jīngguò jiàngrén de jīngxīn dǎmó, réngrán jiéshí.",
-      "english": "The axe handle of the ancient axe remains sturdy after the craftsman's meticulous polishing."
+      "chinese": "他用一根木头做了一个斧柄(他用一根木頭做了一個斧柄)。",
+      "pinyin": "Tā yòng yī gēn mùtou zuòle yī gè fǔbǐng.",
+      "english": "He made an axe handle out of a piece of wood."
     },
     {
-      "chinese": "老树的柯(老樹的柯)，承载着岁月的痕迹(承載著歲月的痕跡)。",
-      "pinyin": "Lǎo shù de kē, chéngzài zhe suìyuè de hénjì.",
-      "english": "The branch of the old tree bears the marks of time."
+      "chinese": "树的每个分支都很坚固(樹的每個分支都很堅固)。",
+      "pinyin": "Shù de měi gè fēnzhī dōu hěn jiāngù.",
+      "english": "Each branch of the tree is strong."
     },
     {
-      "chinese": "他拿起斧头(他拿起斧頭)，细看那光滑的柯(細看那光滑的柯)。",
-      "pinyin": "Tā ná qǐ fǔtóu, xìkàn nà guānghuá de kē.",
-      "english": "He picked up the axe and closely examined its smooth handle."
+      "chinese": "他轻轻地触碰了那棵树的枝条(他輕輕地觸碰了那棵樹的枝條)。",
+      "pinyin": "Tā qīngqīng de chùpèngle nà kē shù de zhītiáo.",
+      "english": "He gently touched the branches of the tree."
     }
   ]
 }

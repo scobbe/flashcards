@@ -5,8 +5,8 @@
   "english": "I know",
   "etymology": {
     "type": "compound word",
-    "description": "我(我) (wǒ, \"I\"), 知(知) (zhī, \"know\"), 道(道) (dào, \"way; path; to speak\")",
-    "interpretation": "The phrase combines 我(我) (wǒ, \"I\") with 知道(知道) (zhīdào, \"know\") which itself consists of 知(知) meaning \"know\" and 道(道) which in this context acts as a complement to intensify the meaning of knowing or recognizing something. This phrase simply means \"I know\".",
+    "description": "The phrase 我知道 (wǒ zhīdào, \"I know\") combines the pronoun for oneself with the act of comprehension or awareness.",
+    "interpretation": "我(我) (wǒ, \"I\") is the pronoun used to express the self. 知(知) (zhī, \"know\") indicates awareness or knowledge, while 道(道) (dào, \"way; path; to say\") suggests a path or method of understanding, as well as verbal expression. Together, 知道 (zhīdào, \"know\") conveys the action of understanding or having knowledge of something, with 我(我) (wǒ, \"I\") making it personal, resulting in the meaning \"I know.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,37 @@
       "char": "我",
       "trad": "我",
       "pinyin": "wǒ",
-      "english": "I"
+      "english": "I; me; my"
     },
     {
-      "char": "知道",
-      "trad": "知道",
-      "pinyin": "zhīdào",
-      "english": "know; aware"
+      "char": "知",
+      "trad": "知",
+      "pinyin": "zhī",
+      "english": "know; be aware of; perceive"
+    },
+    {
+      "char": "道",
+      "trad": "道",
+      "pinyin": "dào",
+      "english": "way; path; channel; to say"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我知道(我知道)。",
-      "pinyin": "Wǒ zhīdào.",
-      "english": "I know."
+      "chinese": "我知道他在图书馆(我知道他在圖書館)。",
+      "pinyin": "Wǒ zhīdào tā zài túshūguǎn.",
+      "english": "I know he is in the library."
     },
     {
-      "chinese": "他告诉我事实(他告訴我事實)，我知道真相(我知道真相)。",
-      "pinyin": "Tā gàosù wǒ shìshí, wǒ zhīdào zhēnxiàng.",
-      "english": "He told me the facts, I know the truth."
+      "chinese": "他告诉我一个秘密(他告訴我一個祕密)，我知道了(我知道了)。",
+      "pinyin": "Tā gàosù wǒ yī gè mìmì, wǒ zhīdào le.",
+      "english": "He told me a secret, I know now."
     },
     {
-      "chinese": "当你说完(當你說完)，我知道(我知道)。",
-      "pinyin": "Dāng nǐ shuō wán, wǒ zhīdào.",
-      "english": "When you finish speaking, I know."
+      "chinese": "我知道她今天会来(我知道她今天會來)。",
+      "pinyin": "Wǒ zhīdào tā jīntiān huì lái.",
+      "english": "I know she will come today."
     }
   ]
 }

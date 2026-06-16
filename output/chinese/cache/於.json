@@ -5,46 +5,40 @@
   "english": "at",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Derived from ancient variant of 烏(烏) (wū, \"crow; black\")",
-    "interpretation": "The character 於(於) (yú, \"at\") evolved from an ancient variant of 烏(烏) (wū, \"crow; black\"), showing a historical phonetic borrowing unrelated to the components 方(方) (fāng, \"square\") or 㫃(㫃).",
+    "description": "Semantic 文 (wén, \"writing\") + phonetic 烏 (wū, \"crow\") -> at, in",
+    "interpretation": "The character 於 (yú, \"at\") is a phono-semantic compound, where 文(wén, \"writing\") symbolizes the place or point of reference, and 烏 (wū, \"crow\") provides the phonetic element. This composition emphasizes the concept of location or presence, as designated by its use in contexts indicating position or situation.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "文",
+      "trad": "文",
+      "pinyin": "wén",
+      "english": "writing"
+    },
+    {
       "char": "烏",
       "trad": "烏",
       "pinyin": "wū",
-      "english": "crow; black"
-    },
-    {
-      "char": "方",
-      "trad": "方",
-      "pinyin": "fāng",
-      "english": "square"
-    },
-    {
-      "char": "㫃",
-      "trad": "㫃",
-      "pinyin": "",
-      "english": ""
+      "english": "crow"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他出生於北京(他出生於北京)。",
-      "pinyin": "Tā chūshēng yú Běijīng。",
-      "english": "He was born in Beijing."
+      "chinese": "我们於公园见面(我們於公園見面)。",
+      "pinyin": "Wǒmen yú gōngyuán jiànmiàn.",
+      "english": "We meet at the park."
     },
     {
-      "chinese": "会议将於明天开始(會議將於明天開始)。",
-      "pinyin": "Huìyì jiāng yú míngtiān kāishǐ。",
-      "english": "The meeting will start tomorrow."
+      "chinese": "他於晚上抵达(他於晚上抵達)。",
+      "pinyin": "Tā yú wǎnshàng dǐdá.",
+      "english": "He arrives at night."
     },
     {
-      "chinese": "书籍陈列於图书馆(書籍陳列於圖書館)，方便读者查找(方便讀者查找)。",
-      "pinyin": "Shūjí chénliè yú túshūguǎn, fāngbiàn dúzhě cházhǎo。",
-      "english": "The books are displayed in the library, making it convenient for readers to find them."
+      "chinese": "会议将於周二举行(會議將於週二舉行)。",
+      "pinyin": "Huìyì jiāng yú zhōu èr jǔxíng.",
+      "english": "The meeting will be held on Tuesday."
     }
   ]
 }

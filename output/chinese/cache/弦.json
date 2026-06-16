@@ -1,39 +1,44 @@
 {
   "simplified": "弦",
-  "traditional": "弦",
+  "traditional": "絃",
   "pinyin": "xián",
   "english": "string",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, \"silk thread\") + 玄(玄) (xuán) = thread or string-themed meaning -> string of a bow or musical instrument",
-    "interpretation": "The character 弦(xián, \"string\") combines 糸(糸) (mì, \"silk thread\") as the semantic part to indicate its association with threads or strings, and 玄(玄) (xuán) provides the phonetic element. Together, it conveys the idea of threads used as strings in bows or musical instruments.",
-    "simplification": ""
+    "description": "semantic 糸(糸) (sī, \"silk; thread\") + phonetic 玄(玄) (xuán) -> string",
+    "interpretation": "The character 絃(絃) (xián, \"string\") combines the semantic component 糸(糸) (sī, \"silk; thread\"), which indicates its association with threads or strings, with the phonetic component 玄(玄) (xuán) to provide the sound. The use of 'silk' (糸) reflects the traditional material for making strings in musical instruments, directly linking to its meaning 'string'.",
+    "simplification": "The traditional character 絃(絃) was simplified to 弦(弦) by replacing 糸(糸) (sī, \"silk; thread\") with 弓(弓) (gōng, \"bow\"). This changes the initial component to one less related to the material but still retains the phonetic 玄(玄) (xuán)."
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
-      "pinyin": "mì",
-      "english": "silk thread"
+      "pinyin": "sī",
+      "english": "silk; thread"
     },
     {
       "char": "玄",
       "trad": "玄",
       "pinyin": "xuán",
-      "english": "dark/mysterious"
+      "english": "dark; profound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "吉他有六根弦(吉他有六根弦)。",
-      "pinyin": "Jítā yǒu liù gēn xián.",
-      "english": "The guitar has six strings."
+      "chinese": "他的吉他上缺了一根弦(他的吉他上缺了一根絃)。",
+      "pinyin": "Tā de jítā shàng quēle yī gēn xián.",
+      "english": "His guitar is missing a string."
     },
     {
-      "chinese": "我拨动古琴的弦(我撥動古琴的弦)，奏出优美的旋律(奏出優美的旋律)。",
-      "pinyin": "Wǒ bōdòng gǔqín de xián, zòuchū yōuměi de xuànlǜ.",
-      "english": "I pluck the strings of the guqin and play a beautiful melody."
+      "chinese": "弹琴时他总是调松一根弦(彈琴時他總是調鬆一根絃)。",
+      "pinyin": "Tán qín shí tā zǒng shì tiáo sōng yī gēn xián.",
+      "english": "He always loosens a string when playing the piano."
+    },
+    {
+      "chinese": "这些乐器的弦(這些樂器的絃)非常精致(非常精緻)。",
+      "pinyin": "Zhèxiē yuèqì de xián fēicháng jīngzhì.",
+      "english": "The strings of these instruments are very delicate."
     }
   ]
 }

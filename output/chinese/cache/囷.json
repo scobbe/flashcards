@@ -4,25 +4,12 @@
   "pinyin": "jùn",
   "english": "storing grains",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "囗(囗) (wéi, \"enclosure\") + 畐(畐) (fú, \"abundant\") = grain stored in an enclosure -> storing grains",
-    "interpretation": "The character 囷(jùn, \"storing grains\") combines 囗(囗) (wéi, \"enclosure\"), indicating a confined space where items are held, with 畐(畐) (fú, \"abundant\"), suggesting a surplus of grain being kept safe and protected. This combination effectively conveys the idea of storing grains securely.",
+    "type": "pictogram",
+    "description": "Depicts a round structure with an opening at the top -> used to represent a storage pit for grains",
+    "interpretation": "The character 囷(jùn, \"storing grains\") represents a storage pit, capturing the shape and functionality of a grain silo. Its circular form and central opening specifically suggest a place for storing or keeping grains secured.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "囗",
-      "trad": "囗",
-      "pinyin": "wéi",
-      "english": "enclosure"
-    },
-    {
-      "char": "畐",
-      "trad": "畐",
-      "pinyin": "fú",
-      "english": "abundant"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

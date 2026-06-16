@@ -5,8 +5,8 @@
   "english": "item; component; piece; part",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"man\") + 牛(牛) (niú, \"cow\") = a person with a cow -> an item or component",
-    "interpretation": "The character combines 人(人) (rén, \"man\") and 牛(牛) (niú, \"cow\") to suggest an item or component associated with farming or livestock care. This idea of association extends metaphorically to any item or component, emphasizing its usefulness or role.",
+    "description": "人(人) (rén, \"person\") + 牛(牛) (niú, \"cow\") = items or parts related to or involving work with animals -> item; component; piece; part",
+    "interpretation": "The combination of 人(人) (rén, \"person\") and 牛(牛) (niú, \"cow\") suggests activities or tasks a person might perform with cattle, illustrating the idea of a task or work unit, and thus extending to mean an 'item' or 'component' as a distinct piece of work or object.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "人",
       "trad": "人",
       "pinyin": "rén",
-      "english": "man"
+      "english": "person"
     },
     {
       "char": "牛",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一件衬衫(我買了一件襯衫)。",
-      "pinyin": "Wǒ mǎile yī jiàn chènshān.",
-      "english": "I bought a shirt."
+      "chinese": "这是一件漂亮的衬衫(這是一件漂亮的襯衫)。",
+      "pinyin": "Zhè shì yī jiàn piàoliang de chènshān.",
+      "english": "This is a beautiful shirt."
     },
     {
-      "chinese": "这件事(這件事)，需要仔细讨论(需要仔細討論)。",
-      "pinyin": "Zhè jiàn shì, xūyào zǐxì tǎolùn.",
-      "english": "This matter needs to be discussed carefully."
+      "chinese": "他每周都会买一件新衣服(他每週都會買一件新衣服)。",
+      "pinyin": "Tā měi zhōu dōu huì mǎi yī jiàn xīn yīfú.",
+      "english": "He buys a new piece of clothing every week."
     },
     {
-      "chinese": "他的发明(他的發明)，由几个关键件组成(由幾個關鍵件組成)。",
-      "pinyin": "Tā de fāmíng, yóu jǐ gè guānjiàn jiàn zǔchéng.",
-      "english": "His invention is composed of several key components."
+      "chinese": "那是一个重要的项目的一部分(那是一個重要的項目的一部分)。",
+      "pinyin": "Nà shì yīgè zhòngyào de xiàngmù de yī bùfèn.",
+      "english": "That is a part of an important project."
     }
   ]
 }

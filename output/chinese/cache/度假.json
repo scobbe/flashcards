@@ -5,8 +5,8 @@
   "english": "to go on vacation",
   "etymology": {
     "type": "compound word",
-    "description": "度(度) (dù, \"spend\") + 假(假) (jià, \"holiday\") = to spend time on a holiday",
-    "interpretation": "The word 度假(度假) (dùjià, \"to go on vacation\") literally means spending time during a holiday period. It suggests taking a break from regular activities to rest and relax.",
+    "description": "度(度) (dù, \"spend; measure\") + 假(假) (jià, \"vacation; leave\") - to spend one's time on leave or vacation.",
+    "interpretation": "度(度) (dù, \"spend; measure\") refers to the allocation or passage of time. 假(假) (jià, \"vacation; leave\") is specifically the time taken off from regular duties. Together, 度假(度假) (dù jià) translates to spending one's time on vacation, emphasizing the idea of taking a break from routine activities.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "度",
       "trad": "度",
       "pinyin": "dù",
-      "english": "spend; degree; limit; procedure"
+      "english": "spend; measure"
     },
     {
       "char": "假",
       "trad": "假",
       "pinyin": "jià",
-      "english": "holiday; vacation"
+      "english": "vacation; leave"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我计划度假(我計劃度假)。",
-      "pinyin": "Wǒ jìhuà dù jià.",
-      "english": "I plan to go on vacation."
+      "chinese": "我们打算去海边度假(我們打算去海邊度假)。",
+      "pinyin": "Wǒmen dǎsuàn qù hǎibiān dù jià.",
+      "english": "We plan to go to the seaside for vacation."
     },
     {
-      "chinese": "暑假期间我们会度假(暑假期間我們會度假)，享受阳光与沙滩(享受陽光與沙灘)。",
-      "pinyin": "Shǔjià qíjiān wǒmen huì dù jià, xiǎngshòu yángguāng yǔ shātān.",
-      "english": "During summer vacation, we will go on vacation, enjoying the sunshine and the beach."
+      "chinese": "度假时(度假時)，我喜欢读书(我喜歡讀書)。",
+      "pinyin": "Dù jià shí, wǒ xǐhuān dúshū.",
+      "english": "When on vacation, I like to read books."
+    },
+    {
+      "chinese": "他们去了欧洲度假(他們去了歐洲度假)，游览了许多地方(遊覽了許多地方)。",
+      "pinyin": "Tāmen qùle Ōuzhōu dù jià, yóulǎnle xǔduō dìfāng.",
+      "english": "They went on vacation to Europe and visited many places."
     }
   ]
 }

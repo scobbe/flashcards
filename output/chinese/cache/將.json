@@ -5,35 +5,46 @@
   "english": "lead",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 爿(爿) (pán, \"half of a tree trunk\") + phonetic: 寸(寸) (cùn) = something measured in leadership -> lead",
-    "interpretation": "The character 將(將) (jiāng, \"lead\") combines 爿(爿) (pán, \"half of a tree trunk\"), suggesting a foundation or base, with 寸(寸) (cùn), indicating measurement or precision. This implies the careful guidance or leadership required to manage and direct.",
-    "simplification": ""
+    "description": "phonetic 爿 + semantic ⺼ + semantic 寸 -> offering meat as tribute",
+    "interpretation": "The character 將(將) (jiāng, \"lead\") combines the phonetic component 爿(爿) (\"bed; small table\") with semantic elements ⺼(⺼) (\"meat\") and 寸(寸) (\"hand\"). This configuration suggests the concept of offering meat on a table, with a hand indicating the action of presenting or leading in a ritual context. Over time, this notion of directing or leading became associated with the act of guiding or commanding.",
+    "simplification": "将(將): The simplified form removes the components ⺼ (\"meat\") and 寸 (\"hand\"), merging into a single simplified character while maintaining the phonetic similarity through the shape resemblance."
   },
   "parts": [
     {
       "char": "爿",
       "trad": "爿",
       "pinyin": "pán",
-      "english": "half of a tree trunk"
+      "english": "bed; small table"
+    },
+    {
+      "char": "⺼",
+      "trad": "⺼",
+      "pinyin": "ròu",
+      "english": "meat"
     },
     {
       "char": "寸",
       "trad": "寸",
       "pinyin": "cùn",
-      "english": "inch"
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他將带领队伍(他將帶領隊伍)，迈向胜利(邁向勝利)。",
-      "pinyin": "Tā jiāng dài lǐng duì wǔ, mài xiàng shèng lì.",
-      "english": "He will lead the team towards victory."
+      "chinese": "他将成为一个伟大的领袖(他將成為一個偉大的領袖)。",
+      "pinyin": "Tā jiāng chéngwéi yīgè wěidà de lǐngxiù.",
+      "english": "He will become a great leader."
     },
     {
-      "chinese": "他將引导学生(他將引導學生)。",
-      "pinyin": "Tā jiāng yǐn dǎo xué shēng.",
-      "english": "He will lead the students."
+      "chinese": "这次胜利将再次激励我们(這次勝利將再次激勵我們)。",
+      "pinyin": "Zhè cì shènglì jiāng zàicì jīlì wǒmen.",
+      "english": "This victory will inspire us again."
+    },
+    {
+      "chinese": "我们将来可能会遇到挑战(我們將來可能會遇到挑戰)。",
+      "pinyin": "Wǒmen jiānglái kěnéng huì yùdào tiǎozhàn.",
+      "english": "We may encounter challenges in the future."
     }
   ]
 }

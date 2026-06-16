@@ -5,27 +5,11 @@
   "english": "ninth heavenly stem",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a weaving tool (e.g., spool or bobbin), a carrying pole for 任(任) (rèn, \"assign\"), or a double-bladed axe -> original meaning uncertain -> used as ninth heavenly stem",
-    "interpretation": "壬 originally depicted either a weaving tool, a carrying pole, or a double-bladed axe. Its specific pictorial representation remains unclear, but it was later used in the context of the Chinese calendrical system as the ninth heavenly stem.",
+    "description": "Depicts a weaving tool, a carrying pole, or a double-bladed axe",
+    "interpretation": "The character 壬(rén, \"ninth heavenly stem\") depicts a physical object, though its precise identity is uncertain. Proposed interpretations include a spool for weaving, reflecting its potential connection to other tools, or a carrying pole, suggesting it as an original form of 任(rèn, \"to bear\"). Additionally, it may represent a double-bladed axe, reminiscent of its visible form.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "在纪年系统中(在紀年系統中)，壬为第九个天干(壬為第九個天干)。",
-      "pinyin": "zài jì nián xì tǒng zhōng，rén wéi dì jiǔ gè tiān gān。",
-      "english": "In the chronological system, Ren is the ninth heavenly stem."
-    },
-    {
-      "chinese": "古人以壬配合地支论命(古人以壬配合地支論命)。",
-      "pinyin": "gǔ rén yǐ rén pèi hé dì zhī lùn mìng。",
-      "english": "Ancient scholars used Ren in conjunction with the earthly branches to determine fate."
-    },
-    {
-      "chinese": "夜深人静时(夜深人靜時)，古籍中常见壬的记载(古籍中常見壬的記載)。",
-      "pinyin": "yè shēn rén jìng shí，gǔ jí zhōng cháng jiàn rén de jì zǎi。",
-      "english": "In the quiet depths of night, ancient texts often record the character Ren."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

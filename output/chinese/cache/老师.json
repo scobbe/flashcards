@@ -5,8 +5,8 @@
   "english": "teacher",
   "etymology": {
     "type": "compound word",
-    "description": "老(老) (lǎo, \"old\") refers to someone of age and thus implies respect and experience. 师(師) (shī, \"teacher\") denotes someone who imparts knowledge or skills. Combining these, 老师(老師) (lǎoshī) suggests a \"respected person who teaches\" or a \"teacher.\"",
-    "interpretation": "The term 老师(老師) (lǎoshī) implies respect through age, commonly associated with wisdom, making it a respectful title for someone who imparts knowledge.",
+    "description": "老(老) (lǎo, \"old\"; \"experienced\") + 师(師) (shī, \"master\"; \"teacher\") = an experienced master -> teacher",
+    "interpretation": "老(老) (lǎo, \"old\") conveys the idea of age or experience, suggesting accumulated wisdom over time. 师(師) (shī, \"master\") refers to someone who has mastered a skill or body of knowledge. Together, 老師 implies a person who is both experienced and knowledgeable enough to guide and instruct others, thus a 'teacher'. This combination reflects the Confucian value placed on age and experience in learning and imparting knowledge.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "老",
       "trad": "老",
       "pinyin": "lǎo",
-      "english": "old; experienced"
+      "english": "old; experienced; venerable; aged"
     },
     {
       "char": "师",
       "trad": "師",
       "pinyin": "shī",
-      "english": "teacher; expert"
+      "english": "master; teacher; expert; army"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师(老師)今天给我们布置了很多作业(今天給我們布置了很多作業)。",
-      "pinyin": "Lǎoshī jīntiān gěi wǒmen bùzhìle hěn duō zuòyè.",
-      "english": "The teacher assigned us a lot of homework today."
+      "chinese": "老师(老師)正在讲课(正在講課)。",
+      "pinyin": "Lǎoshī zhèngzài jiǎngkè.",
+      "english": "The teacher is giving a lecture."
     },
     {
-      "chinese": "我们的老师(我們的老師)很有耐心(很有耐心)。",
-      "pinyin": "Wǒmen de lǎoshī hěn yǒu nàixīn.",
-      "english": "Our teacher is very patient."
+      "chinese": "学生们(學生們)请教老师(請教老師)问题(問題)。",
+      "pinyin": "Xuéshēngmen qǐngjiào lǎoshī wèntí.",
+      "english": "The students ask the teacher questions."
     },
     {
-      "chinese": "老师说(老師說)学习是一个持续的过程(學習是一個持續的過程)。",
-      "pinyin": "Lǎoshī shuō xuéxí shì yī gè chíxù de guòchéng.",
-      "english": "The teacher says learning is a continuous process."
+      "chinese": "他是一位优秀的老师(他是一位優秀的老師)。",
+      "pinyin": "Tā shì yī wèi yōuxiù de lǎoshī.",
+      "english": "He is an excellent teacher."
     }
   ]
 }

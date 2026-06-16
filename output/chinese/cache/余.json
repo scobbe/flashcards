@@ -5,34 +5,34 @@
   "english": "\"I\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 余(余) (yú) + semantic: 食(食) (shí, \"eat\") = eating that is remaining -> surplus, remainder",
-    "interpretation": "The character 餘(餘) (yú) combines 余(余) (yú), a phonetic element meaning \"I,\" with 食(食) (shí, \"eat\") to convey the concept of a surplus or remainder after eating, which fittingly extends to the idea of something left over.",
-    "simplification": "余(余) retains the phonetic component without the semantic 食(食), focusing on simplicity by removing the eating element while keeping the core pronunciation."
+    "description": "semantic 食(食) (shí, 'food') + phonetic 余(餘) (yú, 'I') -> remains of food -> 'excess, surplus'",
+    "interpretation": "The character 餘(餘) evolved to represent the concept of 'excess' or 'surplus' through a phono-semantic compound. It combines the semantic component 食(食) (shí, 'food'), representing food or consumption, with the phonetic component 余(餘) (yú, 'I'), to indicate leftovers or remains of food. This directly suggests an aspect of having more than what is needed, thus an 'excess' or 'surplus'.",
+    "simplification": "The traditional character 餘 was simplified to 余 by removing the semantic component 食(食) (shí, 'food'), leaving only the phonetic component."
   },
   "parts": [
     {
       "char": "食",
       "trad": "食",
       "pinyin": "shí",
-      "english": "\"eat\""
+      "english": "food"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "余喜欢读书(余喜歡讀書)。",
-      "pinyin": "Yú xǐhuān dúshū.",
-      "english": "I enjoy reading."
+      "chinese": "余(餘)愿以诗书为乐(願以詩書為樂)。",
+      "pinyin": "Yú yuàn yǐ shīshū wéi lè.",
+      "english": "I wish to take pleasure in poetry and books."
     },
     {
-      "chinese": "余游历名山(余遊歷名山)，探索古今(探索古今)。",
-      "pinyin": "Yú yóulì míngshān, tànsuǒ gǔjīn.",
-      "english": "I travel through famous mountains and explore the ancient and the modern."
+      "chinese": "余(餘)在此地(在此地)，心安吾归(心安吾歸)。",
+      "pinyin": "Yú zài cǐdì, xīn ān wú guī.",
+      "english": "I am here, at peace and at home."
     },
     {
-      "chinese": "余静坐思过(余靜坐思過)。",
-      "pinyin": "Yú jìngzuò sīguò.",
-      "english": "I sit quietly and reflect on my mistakes."
+      "chinese": "余(餘)莫负此生(莫負此生)。",
+      "pinyin": "Yú mò fù cǐ shēng.",
+      "english": "I should not waste this life."
     }
   ]
 }

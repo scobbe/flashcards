@@ -5,22 +5,27 @@
   "english": "tower",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tall structure resembling a tower",
-    "interpretation": "The character 京(jīng, \"tower\") visually captures the essence of a tall, tower-like building. It is a straightforward representation using a simple, vertical form to suggest height.",
+    "description": "Depicts a tall building or tower",
+    "interpretation": "The character 京 (jīng, \"tower\") is a pictogram representing a tall building or a tower. Its form directly illustrates the concept of height and grandeur associated with a prominent structure.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "山顶上矗立着京(山頂上矗立著京)，诉说着古老传说(訴說著古老傳說)。",
-      "pinyin": "Shāndǐng shàng chùlì zhe jīng, sùshuō zhe gǔlǎo chuánshuō.",
-      "english": "The tower stands on the mountaintop, telling ancient legends."
+      "chinese": "故宫的塔楼很高(故宮的塔樓很高)。",
+      "pinyin": "Gùgōng de tǎlóu hěn gāo.",
+      "english": "The tower of the Forbidden City is very tall."
     },
     {
-      "chinese": "夜幕降临时京闪烁着光芒(夜幕降臨時京閃爍著光芒)。",
-      "pinyin": "Yèmù jiànglín shí jīng shǎnshuò zhe guāngmáng.",
-      "english": "At nightfall, the tower flickers with light."
+      "chinese": "在北京(在北京)，你可以看到许多高楼大厦(你可以看到許多高樓大廈)。",
+      "pinyin": "Zài Běijīng, nǐ kěyǐ kàn dào xǔduō gāolóu dàshà.",
+      "english": "In Beijing, you can see many tall buildings."
+    },
+    {
+      "chinese": "古代的建筑中常常能见到高耸的塔顶(古代的建築中常常能見到高聳的塔頂)。",
+      "pinyin": "Gǔdài de jiànzhú zhōng chángcháng néng jiàn dào gāosǒng de tǎdǐng.",
+      "english": "In ancient architecture, towering spires can often be seen."
     }
   ]
 }

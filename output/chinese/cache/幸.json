@@ -4,36 +4,41 @@
   "pinyin": "xìng",
   "english": "fortunate; lucky",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "彳(彳) (chì, 'step') + phonetic: 干(干) (gān, 'shield') = to walk under the shield of fortune -> fortunate",
-    "interpretation": "The character 幸(幸) (xìng, 'fortunate') combines 彳(彳) (chì, 'step'), suggesting movement or action, with 干(干) (gān, 'shield'), which phonetically and semantically implies protection or defense. Together, this suggests moving with the protection of good fortune.",
+    "type": "compound",
+    "description": "犬(犬) (quǎn, \"dog\") + 羊(羊) (yáng, \"sheep\") -> dog and sheep associated with good fortune",
+    "interpretation": "The character combines 犬(犬) (quǎn, \"dog\") and 羊(羊) (yáng, \"sheep\"), symbolizing animals that were traditionally seen as bringing good fortune. The combination reflects the belief that possessing such animals would bring luck and prosperity.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "彳",
-      "trad": "彳",
-      "pinyin": "chì",
-      "english": "step"
+      "char": "犬",
+      "trad": "犬",
+      "pinyin": "quǎn",
+      "english": "dog"
     },
     {
-      "char": "干",
-      "trad": "干",
-      "pinyin": "gān",
-      "english": "shield"
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "sheep"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "幸得及时雨救助(幸得及時雨救助)，他才走出了困境(他才走出了困境)。",
-      "pinyin": "Xìng dé jíshí yǔ jiùzhù, tā cái zǒuchūle kùnjìng.",
-      "english": "Thanks to timely assistance, he managed to overcome the difficulties."
+      "chinese": "这是我最幸运的一天(這是我最幸運的一天)。",
+      "pinyin": "Zhè shì wǒ zuì xìngyùn de yī tiān.",
+      "english": "This is my luckiest day."
     },
     {
-      "chinese": "每当暴风雨来临时(每當暴風雨來臨時)，人们总会感到一点幸运(人們總會感到一點幸運)。",
-      "pinyin": "Měi dāng bàofēngyǔ láilín shí, rénmen zǒng huì gǎndào yīdiǎn xìngyùn.",
-      "english": "Whenever a storm comes, people always feel a bit lucky."
+      "chinese": "幸运的是(幸運的是)，我们赶上了最后一班车(我們趕上了最後一班車)。",
+      "pinyin": "Xìngyùn de shì, wǒmen gǎn shàng le zuìhòu yī bān chē.",
+      "english": "Fortunately, we caught the last bus."
+    },
+    {
+      "chinese": "他感到自己很幸运(他感到自己很幸運)，因为有一个支持他的家庭(因為有一個支持他的家庭)。",
+      "pinyin": "Tā gǎndào zìjǐ hěn xìngyùn, yīnwèi yǒu yīgè zhīchí tā de jiātíng.",
+      "english": "He feels fortunate because he has a supportive family."
     }
   ]
 }

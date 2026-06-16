@@ -2,43 +2,30 @@
   "simplified": "単",
   "traditional": "單",
   "pinyin": "dān",
-  "english": "phonetic component",
+  "english": "single, alone",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "甲(甲) (jiǎ, 'armor') as semantic component + 丷(丷) (bā, 'eight') as phonetic component = phonetic support -> sound 'dān'",
-    "interpretation": "The character 単(單) (dān) primarily serves as a phonetic component. The semantic component, similar to 甲(甲) (jiǎ, 'armor'), gives a hint to its ancient origins related to structure or protection. Over time, its use has expanded, primarily capturing the phonetic aspect due to 丷(丷) (bā, 'eight').",
-    "simplification": ""
+    "type": "pictogram",
+    "description": "Depicts a weapon: Y-shaped stick with stones on top -> middle point (rope or additional stone) -> stylized as horizontal line -> resembling 中 (middle) -> later as 田 (field) with added horizontal stroke at bottom",
+    "interpretation": "Originally depicted a weapon or tool, resonating with the idea of singularity or usage as a individual instrument; the transformation into a character signifying 'single' or 'alone' relates to the singular nature of the weapon's depiction.",
+    "simplification": "單 simplified to 单 by removing the complex top component 吅 and retaining only the simplified character form."
   },
-  "parts": [
-    {
-      "char": "甲",
-      "trad": "甲",
-      "pinyin": "jiǎ",
-      "english": "armor"
-    },
-    {
-      "char": "丷",
-      "trad": "丷",
-      "pinyin": "bā",
-      "english": "eight"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在汉字构造中(在漢字構造中)，单(單)作为声旁发挥作用(作為聲旁發揮作用)。",
-      "pinyin": "Zài hànzì gòuzào zhōng, dān zuòwéi shēngpáng fāhuī zuòyòng.",
-      "english": "In the structure of Chinese characters, dān functions as the phonetic component."
+      "chinese": "我喜欢单独旅行(我喜歡單獨旅行)。",
+      "pinyin": "Wǒ xǐhuān dāndú lǚxíng.",
+      "english": "I like to travel alone."
     },
     {
-      "chinese": "这个字的发音来自于(這個字的發音來自於)，单(單)的音韵提示(的音韻提示)。",
-      "pinyin": "Zhège zì de fāyīn láizì yú, dān de yīnyùn tíshì.",
-      "english": "The pronunciation of this character comes from the phonetic cue provided by dān."
+      "chinese": "他只点了一道单菜(他只點了一道單菜)。",
+      "pinyin": "Tā zhǐ diǎnle yī dào dān cài.",
+      "english": "He only ordered a single dish."
     },
     {
-      "chinese": "古代字书中(古代字書中)，常用单(常用單)作为表示读音的符号(作爲表示讀音的符號)。",
-      "pinyin": "Gǔdài zìshū zhōng, chángyòng dān zuòwéi biǎoshì dúyīn de fúhào.",
-      "english": "In ancient dictionaries, dān was commonly used as a symbol to indicate pronunciation."
+      "chinese": "这封信需要单独邮寄(這封信需要單獨郵寄)。",
+      "pinyin": "Zhè fēng xìn xūyào dāndú yóujì.",
+      "english": "This letter needs to be mailed separately."
     }
   ]
 }

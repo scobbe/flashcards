@@ -5,29 +5,34 @@
   "english": "cloud",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "云(云) (yún, \"say\") + phonetic: 二(二) (èr) = cloud association; originally depicted the form of clouds",
-    "interpretation": "The character 云(云) (yún, \"cloud\") combines 云(云) (yún, 'say') as a semantic element, originally meaning 'to say' or 'to speak,' but is used phonetically to represent a similar-sounding word for 'cloud.' The character was simplified from 雲(雲) to 云(云), retaining its phonetic and semantic components.",
-    "simplification": "The traditional 雲(雲) was simplified by removing the radical 厶(厶) (sī, \"private\") and merging 冖(冖) (mì, \"cover\") with 二(二) (èr, \"two\") for a simpler form 云(云)."
+    "description": "semantic 雨(雨) (yǔ, \"rain\") + phonetic 云(云) (yún, \"cloud\") -> character for \"cloud\"",
+    "interpretation": "The character combines 雨(雨) (yǔ, \"rain\") to represent the connection to weather, specifically rain, with the phonetic component 云(云) (yún, \"cloud\") to suggest its pronunciation. This construction clearly connects the idea of rain in the atmosphere with clouds.",
+    "simplification": "The simplified form removes the 雨(雨) component which explicitly denotes weather, simplifying to 云, which serves both as a phonetic marker and a representation of the concept."
   },
   "parts": [
     {
-      "char": "二",
-      "trad": "二",
-      "pinyin": "èr",
-      "english": "two"
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "天空中飘着洁白的云(天空中飄著潔白的雲)。",
-      "pinyin": "Tiānkōng zhōng piāo zhe jiébái de yún.",
-      "english": "Beautiful white clouds are floating in the sky."
+      "chinese": "天空中的云很美(天空中的雲很美)。",
+      "pinyin": "Tiānkōng zhōng de yún hěn měi.",
+      "english": "The clouds in the sky are beautiful."
     },
     {
-      "chinese": "乌云密布时(烏雲密佈時)，可能马上下雨(可能馬上下雨)。",
-      "pinyin": "Wūyún mìbù shí, kěnéng mǎshàng xiàyǔ.",
-      "english": "When dark clouds gather, it might rain soon."
+      "chinese": "今天的天气预报说会有很多云(今天的天氣預報說會有很多雲)。",
+      "pinyin": "Jīntiān de tiānqì yùbào shuō huì yǒu hěn duō yún.",
+      "english": "Today's weather forecast says there will be a lot of clouds."
+    },
+    {
+      "chinese": "乌云密布时(烏雲密布時)，看起来好像要下雨(看起來好像要下雨)。",
+      "pinyin": "Wūyún mìbù shí, kàn qǐlái hǎoxiàng yào xiàyǔ.",
+      "english": "When the dark clouds gather, it looks like it's going to rain."
     }
   ]
 }

@@ -5,40 +5,40 @@
   "english": "pure",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 糸(糸) (mì, \"silk\") + phonetic: 屯(屯) (tún, \"station\") = silk quality -> pure",
-    "interpretation": "纯(純) (chún, \"pure\") uses silk, symbolizing fine quality, combined with 屯(屯) (tún, \"station\") to express the idea of pure and unadulterated silk.",
-    "simplification": "The character 纯(純) was simplified by removing the middle component from 屯(屯) while retaining the recognizable phonetic and semantic elements."
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 屯(屯) (tún)",
+    "interpretation": "The character combines the semantic element of 糸(糸) (mì, \"silk; thread\"), representing something fine and uniform like a singular, untainted thread, with the phonetic 屯(屯) (tún) to provide the pronunciation. Together, these components convey the sense of something being 'pure' or 'without impurities,' emphasizing the idea of uniformity and exclusivity in purity.",
+    "simplification": "Simplified by reducing 糸(糸) (mì, \"silk; thread\") to 纟(纟), which is a simpler form used in several characters to maintain the semantic implication of 'silk; thread.'"
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
-      "english": "silk"
+      "english": "silk; thread"
     },
     {
       "char": "屯",
       "trad": "屯",
       "pinyin": "tún",
-      "english": "station"
+      "english": "barracks; station troops"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这水真纯(這水真純)。",
-      "pinyin": "Zhè shuǐ zhēn chún.",
-      "english": "This water is very pure."
+      "chinese": "这个水看起来很纯(這個水看起來很純)。",
+      "pinyin": "Zhège shuǐ kàn qǐlái hěn chún.",
+      "english": "This water looks very pure."
     },
     {
-      "chinese": "她的心灵纯洁(她的心靈純潔)，她的笑容纯真(她的笑容純真)。",
-      "pinyin": "Tā de xīnlíng chúnjié, tā de xiàoróng chúnzhēn.",
-      "english": "Her heart is pure, and her smile is genuine."
+      "chinese": "她有一颗纯真的心(她有一顆純真的心)。",
+      "pinyin": "Tā yǒu yī kē chúnzhēn de xīn.",
+      "english": "She has a pure heart."
     },
     {
-      "chinese": "这首音乐纯粹动人(這首音樂純粹動人)。",
-      "pinyin": "Zhè shǒu yīnyuè chúncuì dòngrén.",
-      "english": "This piece of music is purely moving."
+      "chinese": "为了保持纯净(為了保持純淨)，不能往茶里加糖(不能往茶裡加糖)。",
+      "pinyin": "Wèile bǎochí chúnjìng，bùnéng wǎng chá lǐ jiā táng.",
+      "english": "To keep it pure, you shouldn't add sugar to the tea."
     }
   ]
 }

@@ -2,11 +2,11 @@
   "simplified": "府",
   "traditional": "府",
   "pinyin": "fǔ",
-  "english": "",
+  "english": "government office",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "广(廣) (guǎng, \"shelter\") + 付(付) (fù, \"hand over\") = place where things are handed over -> government office or administrative building",
-    "interpretation": "The character 府(fǔ, \"government office\") combines the semantic element 广(廣) (guǎng, \"shelter\") and the phonetic element 付(付) (fù, \"hand over\") to suggest a shelter or building where administrative transactions take place.",
+    "description": "semantic 广 (guǎng, \"building\") + phonetic 付 (fù, \"to pay\") -> a type of building",
+    "interpretation": "The character 府(fǔ, \"government office\") combines 广 (guǎng, \"building\") to suggest a structure or place, with 付 (fù, \"to pay\") providing the sound. It historically referred to a building or place associated with administrative functions, leading to the sense of a government office.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "广",
       "trad": "廣",
       "pinyin": "guǎng",
-      "english": "shelter"
+      "english": "building"
     },
     {
       "char": "付",
       "trad": "付",
       "pinyin": "fù",
-      "english": "hand over"
+      "english": "to pay"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他参观了总统府(他參觀了總統府)。",
-      "pinyin": "Tā cānguānle zǒngtǒng fǔ.",
-      "english": "He visited the presidential palace."
+      "chinese": "新建的政府大楼看起来很现代化(新建的政府大樓看起來很現代化)。",
+      "pinyin": "Xīnjiàn de zhèngfǔ dàlóu kàn qǐlái hěn xiàndàihuà.",
+      "english": "The newly built government office building looks very modern."
     },
     {
-      "chinese": "开封府曾经闻名遐迩(開封府曾經聞名遐迩)，吸引了众多游客(吸引了眾多遊客)。",
-      "pinyin": "Kāifēng fǔ céngjīng wénmíng xiá'ěr, xīyǐnle zhòngduō yóukè.",
-      "english": "The Kaifeng government office was once famous and attracted many tourists."
+      "chinese": "政府正在制定新的政策(政府正在制定新的政策)，以应对城市发展(以應對城市發展)。",
+      "pinyin": "Zhèngfǔ zhèngzài zhìdìng xīn de zhèngcè, yǐ yìngduì chéngshì fāzhǎn.",
+      "english": "The government is formulating new policies to address urban development."
+    },
+    {
+      "chinese": "市政府计划改善交通设施(市政府計劃改善交通設施)。",
+      "pinyin": "Shì zhèngfǔ jìhuà gǎishàn jiāotōng shèshī.",
+      "english": "The city government plans to improve transportation facilities."
     }
   ]
 }

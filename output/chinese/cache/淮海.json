@@ -5,8 +5,8 @@
   "english": "Huai-Hai region",
   "etymology": {
     "type": "compound word",
-    "description": "淮(淮) (huái, \"Huai River\") is the name of a major river in China that historically served as a geographical boundary, and 海(海) (hǎi, \"sea\") refers to large bodies of saltwater. Together, 淮海(淮海) (Huái-Hǎi, \"Huai-Hai\") refers to the region encompassing the area around the Huai River and near the sea, typically indicating a significant and historical geographical area in China.",
-    "interpretation": "The term 淮海(淮海) (Huái-Hǎi) identifies a specific geographical region in China, known for its location around the Huai River and proximity to bodies of water like the East China Sea. It highlights the importance of water bodies in defining historical and cultural regions.",
+    "description": "The word 淮海 (Huái-Hǎi) refers to the Huai-Hai region, a historical and geographical area in China.",
+    "interpretation": "淮(淮) (huái, \"Huai River\") refers specifically to the Huai River, which is a significant geographical landmark in central China. 海(海) (hǎi, \"sea; large water body\") often denotes a vast water expanse. Together, 淮海 (Huái-Hǎi) designates an area defined by proximity to the Huai River and to maritime influences, emphasizing both inland and coastal geographical features.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "海",
       "trad": "海",
       "pinyin": "hǎi",
-      "english": "sea; ocean"
+      "english": "sea; large water body"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "淮海是中国重要的农业区(淮海是中國重要的農業區)。",
-      "pinyin": "Huái-Hǎi shì Zhōngguó zhòngyào de nóngyè qū.",
-      "english": "Huai-Hai is an important agricultural region in China."
+      "chinese": "淮海是一个历史悠久的地区(淮海是一個歷史悠久的地區)。",
+      "pinyin": "Huái-Hǎi shì yī gè lìshǐ yōujiǔ de dìqū.",
+      "english": "Huai-Hai is a region with a long history."
     },
     {
-      "chinese": "淮海风光旖旎(淮海風光旖旎)，吸引了无数游客(吸引了無數遊客)。",
-      "pinyin": "Huái-Hǎi fēngguāng yǐnǐ, xīyǐn le wúshù yóukè.",
-      "english": "The picturesque scenery of Huai-Hai attracts countless tourists."
+      "chinese": "淮海地区的文化丰富多彩(淮海地區的文化豐富多彩)。",
+      "pinyin": "Huái-Hǎi dìqū de wénhuà fēngfù duōcǎi.",
+      "english": "The culture of the Huai-Hai region is rich and diverse."
     },
     {
-      "chinese": "历史上淮海曾经见证了许多重要事件(歷史上淮海曾經見證了許多重要事件)。",
-      "pinyin": "Lìshǐ shàng Huái-Hǎi céngjīng jiànzhèng le xǔduō zhòngyào shìjiàn.",
-      "english": "Historically, Huai-Hai has witnessed many important events."
+      "chinese": "许多人喜欢去淮海旅游(許多人喜歡去淮海旅遊)。",
+      "pinyin": "Xǔduō rén xǐhuān qù Huái-Hǎi lǚyóu.",
+      "english": "Many people enjoy traveling to the Huai-Hai region."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "inspect",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "目(目) (mù, \"eye\") + 袁(袁) (yuán, abbreviation) = the eye component confers meaning, while the phonetic 袁 suggests sound -> inspect",
-    "interpretation": "The character 睘 (jué, \"inspect\") combines 目(目) (mù, \"eye\") as the semantic element indicating observation or viewing with 袁(袁) (yuán), serving as the phonetic component. This combination suggests the act of inspecting or observing carefully, a logical association given the focus on the eye in the character's etymology.",
+    "description": "semantic 目(目) (mù, \"eye\") + phonetic 袁(袁) (yuán, \"long-robed person\") -> inspect",
+    "interpretation": "The character 睘 combines the element 目(目) (mù, \"eye\"), which signifies seeing or viewing, with the phonetic component 袁(袁) (yuán, \"long-robed person\") to convey the act of looking or inspecting closely. The imagery of an eye implies careful observation, aligning with the meaning of 'inspect.'",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "袁",
       "trad": "袁",
       "pinyin": "yuán",
-      "english": "abbreviation"
+      "english": "long-robed person"
     }
   ],
   "in_contemporary_usage": false,

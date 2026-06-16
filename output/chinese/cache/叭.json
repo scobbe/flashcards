@@ -5,8 +5,8 @@
   "english": "trumpet sound",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 巴(巴) (bā) = sound made by mouth -> trumpet sound",
-    "interpretation": "The character 叭(bā) combines the semantic element 口(口) (kǒu, \"mouth\"), indicating that the sound originates from the mouth, with the phonetic component 巴(巴) (bā) to suggest the pronunciation. This configuration emphasizes sounds that are articulated in a pronounced manner, such as a trumpet sound.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 巴(巴) (bā) -> trumpet sound",
+    "interpretation": "The character combines 口(口) (kǒu, \"mouth\"), indicating sound made by the mouth, with 巴(巴) (bā), providing the sound. Together, they capture the notion of a 'trumpet sound,' an onomatopoeic expression of a loud, musical noise.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "巴",
       "trad": "巴",
       "pinyin": "bā",
-      "english": "sound"
+      "english": "a musical note"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小号演奏时(小號演奏時)，会发出‘叭’声(會發出‘叭’聲)。",
-      "pinyin": "xiǎo hào yǎnzòu shí, huì fāchū 'bā' shēng.",
-      "english": "When the trumpet is played, it produces a 'bā' sound."
+      "chinese": "我听到了一声叭(我聽到了一聲叭)。",
+      "pinyin": "Wǒ tīngdào le yī shēng bā.",
+      "english": "I heard a trumpet sound."
     },
     {
-      "chinese": "列车启动时(列車啟動時)，传来嘹亮的叭(傳來嘹亮的叭)。",
-      "pinyin": "lièchē qǐdòng shí, chuán lái liáoliàng de bā.",
-      "english": "When the train starts, a resounding 'bā' can be heard."
+      "chinese": "小孩们吹着玩具喇叭(小孩們吹著玩具喇叭)，声音叭叭作响(聲音叭叭作響)。",
+      "pinyin": "Xiǎohái men chuīzhe wánjù lǎbā, shēngyīn bābā zuò xiǎng.",
+      "english": "The children were blowing toy trumpets, making trumpet sounds."
     },
     {
-      "chinese": "在音乐会上(在音樂會上)，那悠扬的叭成为节目的亮点(那悠揚的叭成為節目的亮點)。",
-      "pinyin": "zài yīnyuèhuì shàng, nà yōuyáng de bā chéngwéi jiémù de liàngdiǎn.",
-      "english": "At the concert, the melodious 'bā' became the highlight of the program."
+      "chinese": "他用力按下喇叭(他用力按下喇叭)，发出叭的一声(發出叭的一聲)。",
+      "pinyin": "Tā yònglì àn xià lǎbā, fāchū bā de yī shēng.",
+      "english": "He pressed the horn forcefully, making a 'bā' sound."
     }
   ]
 }

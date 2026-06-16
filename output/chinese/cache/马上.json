@@ -5,8 +5,8 @@
   "english": "right away; immediately",
   "etymology": {
     "type": "compound word",
-    "description": "The word 马上(馬上) (mǎshàng, \"right away; immediately\") combines 马(馬) (mǎ, \"horse\") and 上(上) (shàng, \"on top; upward\"). Historically, this term conveyed the sense of being mounted on a horse, ready to depart swiftly and promptly. When one was on horseback, they could move without delay, which has evolved into the figurative meaning of doing something \"right away\" or \"immediately.\"",
-    "interpretation": "",
+    "description": "马(馬) (mǎ, \"horse\") + 上(上) (shàng, \"on; above; up\"); riding on horseback was the fastest mode of transport in ancient times, enabling swift movement, hence the sense of 'immediately' or 'right away'.",
+    "interpretation": "The character 马(馬) (mǎ, \"horse\") represents the speed and mobility of a horse, a symbol of rapid movement. 上(上) (shàng, \"on; above; up\") suggests the position or action on such a swift vehicle. The combination evokes the speed at which one could move when immediately mounting or being on a horse, illustrating the sense of 'right away' or 'immediately'.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "上",
       "trad": "上",
       "pinyin": "shàng",
-      "english": "on top; upward; ascend"
+      "english": "on; above; up"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我马上就来(我馬上就來)，请你先喝茶(請你先喝茶)。",
-      "pinyin": "Wǒ mǎshàng jiù lái, qǐng nǐ xiān hē chá.",
-      "english": "I'll come right away, please have some tea first."
+      "chinese": "我马上到家(我馬上到家)。",
+      "pinyin": "Wǒ mǎshàng dào jiā.",
+      "english": "I will arrive home right away."
     },
     {
-      "chinese": "他马上去超市(他馬上去超市)，买齐所有东西(買齊所有東西)。",
-      "pinyin": "Tā mǎshàng qù chāoshì, mǎi qí suǒyǒu dōngxī.",
-      "english": "He will go to the supermarket right away and buy all the things needed."
+      "chinese": "请马上回复(請馬上回覆)。",
+      "pinyin": "Qǐng mǎshàng huífù.",
+      "english": "Please reply immediately."
     },
     {
-      "chinese": "我们马上看完电影(我們馬上看完電影)，然后马上出发旅行(然後馬上出發旅行)。",
-      "pinyin": "Wǒmen mǎshàng kàn wán diànyǐng, ránhòu mǎshàng chūfā lǚxíng.",
-      "english": "We will finish watching the movie immediately, then set off for the trip right away."
+      "chinese": "事情发生后(事情發生後)，他马上道歉(他馬上道歉)。",
+      "pinyin": "Shìqíng fāshēng hòu, tā mǎshàng dàoqiàn.",
+      "english": "After the event happened, he apologized immediately."
     }
   ]
 }

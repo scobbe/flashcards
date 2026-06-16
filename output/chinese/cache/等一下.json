@@ -5,8 +5,8 @@
   "english": "wait a moment",
   "etymology": {
     "type": "compound word",
-    "description": "等(等) (děng, \"wait\") + 一下(一下) (yíxià, \"a moment\") combines to mean \"wait a moment.\"",
-    "interpretation": "The combination of 等(等) (děng, \"wait\") and 一下(一下) (yíxià, \"a moment\") is a straightforward command or request for someone to pause or stop for a brief period.",
+    "description": "等(等) (děng, \"wait\") and 一下(一下) (yíxià, \"a little; a moment\").",
+    "interpretation": "等(等) (děng, \"wait\") refers to standing by or pausing. 一下(一下) (yíxià) combines 一(yī, \"one\") and 下(xià, \"a little; moment\") to specify a short, brief action, akin to 'for a moment'. Together, 等一下 (děng yíxià) directs someone to wait or pause for a short period.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,19 @@
       "char": "等",
       "trad": "等",
       "pinyin": "děng",
-      "english": "wait; await; rank; grade"
+      "english": "wait; rank; equal"
     },
     {
-      "char": "一下",
-      "trad": "一下",
-      "pinyin": "yíxià",
-      "english": "a moment; a while"
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "below; down; a little"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,9 +37,14 @@
       "english": "Please wait a moment."
     },
     {
-      "chinese": "我马上回来(我馬上回來)，请等一下(請等一下)。",
-      "pinyin": "Wǒ mǎshàng huílái, qǐng děng yíxià.",
-      "english": "I'll be right back, please wait a moment."
+      "chinese": "如果你忙(如果你忙)，我可以等一下(我可以等一下)。",
+      "pinyin": "Rúguǒ nǐ máng, wǒ kěyǐ děng yíxià.",
+      "english": "If you are busy, I can wait a moment."
+    },
+    {
+      "chinese": "他让我等一下(他讓我等一下)，我就在那里等了十分钟(我就在那裡等了十分鐘)。",
+      "pinyin": "Tā ràng wǒ děng yíxià, wǒ jiù zài nàlǐ děng le shífēnzhōng.",
+      "english": "He asked me to wait a moment, and I ended up waiting there for ten minutes."
     }
   ]
 }

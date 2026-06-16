@@ -1,0 +1,28 @@
+{
+  "simplified": "弔",
+  "traditional": "弔",
+  "pinyin": "diào",
+  "english": "shooting arrows at birds/beasts",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "A man over an arrow tied to a silk thread -> modern version man on top disappeared -> final form 弔",
+    "interpretation": "The original form depicted a man above an arrow with a silk thread, signifying the action of shooting arrows at birds and beasts. Over time, the depiction of the man was removed, leaving the arrow with the silk thread to represent the action.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "弜",
+      "trad": "弜",
+      "pinyin": "jiàng",
+      "english": "bow; shoot"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

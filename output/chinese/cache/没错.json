@@ -5,8 +5,8 @@
   "english": "that's right; correct",
   "etymology": {
     "type": "compound word",
-    "description": "沒(沒) (méi, \"no; not\") + 錯(錯) (cuò, \"wrong; mistake\") suggests a negation of error, effectively conveying the idea of correctness or affirmation.",
-    "interpretation": "The phrase 没错(沒錯) (méi cuò, \"that's right; correct\") is used to affirm or confirm a statement, indicating that there is no error or mistake in what was said. It combines the negation '没(沒)' (méi, \"no; not\") with '错(錯)' (cuò, \"wrong; mistake\") to produce a positive affirmation.",
+    "description": "没(沒) (méi, \"not; without\") + 错(錯) (cuò, \"wrong; mistake\") = not wrong -> correct, that's right",
+    "interpretation": "没(沒) (méi, \"not; without\") negates the sense of 错(錯) (cuò, \"wrong; mistake\"), forming the meaning of 'correct', or 'that's right'. The expression represents the absence of error, thereby affirming correctness.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "没",
       "trad": "沒",
       "pinyin": "méi",
-      "english": "no; not; have not; drown"
+      "english": "not; without"
     },
     {
       "char": "错",
       "trad": "錯",
       "pinyin": "cuò",
-      "english": "wrong; mistake; fault; error"
+      "english": "wrong; mistake"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说的没错(他說的沒錯)。",
-      "pinyin": "Tā shuō de méi cuò.",
-      "english": "What he said is correct."
+      "chinese": "他的答案是对的(他的答案是對的)，没错(沒錯)。",
+      "pinyin": "Tā de dá'àn shì duì de, méi cuò.",
+      "english": "His answer is correct, that's right."
     },
     {
-      "chinese": "他解释得很清楚(他解釋得很清楚)，没错(沒錯)。",
-      "pinyin": "Tā jiěshì dé hěn qīngchǔ, méi cuò.",
-      "english": "His explanation is very clear, that's right."
+      "chinese": "这家餐厅食物很好吃(這家餐廳食物很好吃)，没错(沒錯)。",
+      "pinyin": "Zhè jiā cāntīng shíwù hěn hǎochī, méi cuò.",
+      "english": "The food at this restaurant is delicious, that's right."
     },
     {
-      "chinese": "你理解了小说的情节(你理解了小說的情節)，没错(沒錯)。",
-      "pinyin": "Nǐ lǐjiě le xiǎoshuō de qíngjié, méi cuò.",
-      "english": "You understood the plot of the novel, exactly."
+      "chinese": "你说得没错(你說得沒錯)。",
+      "pinyin": "Nǐ shuō de méi cuò.",
+      "english": "What you said is correct."
     }
   ]
 }

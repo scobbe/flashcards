@@ -1,0 +1,44 @@
+{
+  "simplified": "結",
+  "traditional": "結",
+  "pinyin": "jié",
+  "english": "knot; tie",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 吉(吉) (jí) -> knot; tie",
+    "interpretation": "The combination of 糸(糸) (mì, \"silk; thread\"), which symbolizes the physical threads being tied, with 吉(吉) (jí) providing the sound, leads to the concept of tying or forming knots, integral in ancient use of threads and cords.",
+    "simplification": "结 is the simplified form of 結, where 糸(糸) (mì, \"silk; thread\") is simplified to 纟, reducing the number of strokes."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "吉",
+      "trad": "吉",
+      "pinyin": "jí",
+      "english": "lucky; auspicious"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们把绳子结在一起(我們把繩子結在一起)。",
+      "pinyin": "Wǒmen bǎ shéngzi jié zài yīqǐ.",
+      "english": "We tie the ropes together."
+    },
+    {
+      "chinese": "这条项链结得很紧(這條項鍊結得很緊)。",
+      "pinyin": "Zhè tiáo xiàngliàn jié de hěn jǐn.",
+      "english": "This necklace is tied very tightly."
+    },
+    {
+      "chinese": "他学会了如何把领带结成漂亮的结(他學會了如何把領帶結成漂亮的結)。",
+      "pinyin": "Tā xuéhuìle rúhé bǎ lǐngdài jié chéng piàoliang de jié.",
+      "english": "He learned how to tie a beautiful knot with his tie."
+    }
+  ]
+}

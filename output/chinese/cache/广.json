@@ -5,16 +5,16 @@
   "english": "broad",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 广(廣) (guǎng, \"shelter\") + phonetic 黃(黃) (huáng, \"yellow\") = area underneath a shelter -> broad",
-    "interpretation": "廣 combines the semantic element of shelter or building represented by 广(廣) with the phonetic element of 黃(黃), suggesting an area or space that is open and extensive, consistent with the idea of something being 'broad' or 'wide'.",
-    "simplification": "廣 was simplified by reducing the component 黃(黃) to the simpler form 广(廣), retaining the semantic aspect while simplifying the structure for phonetic indication."
+    "description": "semantic 广(廣) (guǎng, \"broad\") + phonetic 黃(黃) (huáng, \"yellow\") -> broad",
+    "interpretation": "The character 廣 (guǎng, \"broad\") combines the semantic element 广(廣), depicting a broad area or structure, with the phonetic element 黃(黃) (huáng), which lends its sound. This combination signifies the idea of something wide or expansive.",
+    "simplification": "廣 was simplified to 广 by removing the 黃(黃) (huáng, \"yellow\") phonetic component, leaving only the semantic element."
   },
   "parts": [
     {
       "char": "廣",
       "trad": "廣",
       "pinyin": "guǎng",
-      "english": "shelter"
+      "english": "broad"
     },
     {
       "char": "黃",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条路很广(這條路很廣)。",
-      "pinyin": "Zhè tiáo lù hěn guǎng.",
-      "english": "This road is very broad."
+      "chinese": "这条河非常广阔(這條河非常廣闊)。",
+      "pinyin": "Zhè tiáo hé fēicháng guǎngkuò.",
+      "english": "This river is very broad."
     },
     {
-      "chinese": "广场上有许多人(廣場上有許多人)。",
-      "pinyin": "Guǎngchǎng shàng yǒu xǔduō rén.",
-      "english": "There are many people in the square."
+      "chinese": "他的知识面很广(他的知識面很廣)，总是能解决问题(總是能解決問題)。",
+      "pinyin": "Tā de zhīshì miàn hěn guǎng, zǒng shì néng jiějué wèntí.",
+      "english": "His knowledge is broad, and he is always able to solve problems."
     },
     {
-      "chinese": "她的知识面很广(她的知識面很廣)。",
-      "pinyin": "Tā de zhīshì miàn hěn guǎng.",
-      "english": "She has a broad range of knowledge."
+      "chinese": "在学校里(在學校裡)，他参加了许多广泛的活动(他參加了許多廣泛的活動)。",
+      "pinyin": "Zài xuéxiào lǐ, tā cānjiāle xǔduō guǎngfàn de huódòng.",
+      "english": "At school, he participated in many broad activities."
     }
   ]
 }

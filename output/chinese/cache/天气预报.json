@@ -5,35 +5,52 @@
   "english": "weather forecast",
   "etymology": {
     "type": "compound word",
-    "description": "天(天) (tiān, \"heaven; sky\"), 氣(氣) (qì, \"air; atmosphere\"), 預(預) (yù, \"in advance; beforehand\"), 報(報) (bào, \"report; announce\")",
-    "interpretation": "The word 天氣預報 (tiānqì yùbào) combines the elements of the sky and atmosphere (天氣/天氣) with the concept of reporting or announcing in advance (預報/預報), which effectively communicates the idea of predicting and announcing the weather conditions ahead of time.",
+    "description": "天(天) (tiān, \"sky; heaven\") refers to the sky or the atmosphere. 氣(氣) (qì, \"air; gas\") captures the concept of the air around us, often used in contexts related to the weather. 預(預) (yù, \"in advance; beforehand\") indicates something that is done ahead of time, pointing to the act of predicting or preparing. 報(報) (bào, \"report; announce\") involves conveying information, making it a natural fit for sharing predictions or announcements.",
+    "interpretation": "The phrase combines 天(天) (tiān, \"sky\") and 氣(氣) (qì, \"air\") to describe the 'state of the atmosphere,' essentially referring to 'weather.' 預(預) (yù, \"in advance\") and 報(報) (bào, \"report\") together signify 'reporting in advance,' which is the essence of forecasting as it informs people about future weather conditions. Thus, 天氣預報 (tiānqì yùbào) effectively means 'report on the condition of the sky and air expected in the future.'",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "天氣",
-      "trad": "天氣",
-      "pinyin": "tiānqì",
-      "english": "heaven; sky; air; atmosphere"
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "sky; heaven"
     },
     {
-      "char": "預報",
-      "trad": "預報",
-      "pinyin": "yùbào",
-      "english": "in advance; beforehand; report; announce"
+      "char": "气",
+      "trad": "氣",
+      "pinyin": "qì",
+      "english": "air; gas"
+    },
+    {
+      "char": "预",
+      "trad": "預",
+      "pinyin": "yù",
+      "english": "in advance; beforehand"
+    },
+    {
+      "char": "报",
+      "trad": "報",
+      "pinyin": "bào",
+      "english": "report; announce"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天早上看天气预报(我每天早上看天氣預報)。",
-      "pinyin": "Wǒ měitiān zǎoshang kàn tiānqì yùbào.",
-      "english": "I check the weather forecast every morning."
+      "chinese": "今天的天气预报(今天的天氣預報)说会下雨(說會下雨)。",
+      "pinyin": "Jīntiān de tiānqì yùbào shuō huì xiàyǔ.",
+      "english": "Today's weather forecast says it will rain."
     },
     {
-      "chinese": "电视上报道天气预报(電視上報道天氣預報)，预示着大风天气(預示著大風天氣)。",
-      "pinyin": "Diànshì shàng bàodào tiānqì yùbào, yùshìzhe dàfēng tiānqì.",
-      "english": "The TV broadcasts the weather forecast, indicating strong winds."
+      "chinese": "我们应该常常查看天气预报(我們應該常常查看天氣預報)，以便做好计划(以便做好計劃)。",
+      "pinyin": "Wǒmen yīnggāi chángcháng chákàn tiānqì yùbào, yǐbiàn zuò hǎo jìhuà.",
+      "english": "We should frequently check the weather forecast to make good plans."
+    },
+    {
+      "chinese": "明天的天气预报很准确(明天的天氣預報很準確)。",
+      "pinyin": "Míngtiān de tiānqì yùbào hěn zhǔnquè.",
+      "english": "Tomorrow's weather forecast is very accurate."
     }
   ]
 }

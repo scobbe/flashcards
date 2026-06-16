@@ -5,14 +5,14 @@
   "english": "rush",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 氵(氵) (shuǐ, \"water\") + phonetic 中(中) (zhōng, \"middle\") = water rushing around or through something -> rush",
-    "interpretation": "沖(沖) (chōng, \"rush\") depicts water as the primary element influencing motion or pressure, with 中(中) (zhōng, \"middle\") providing the sound; together they aptly convey the concept of rushing water navigating obstacles.",
-    "simplification": "沖(沖) was simplified as 冲 by replacing the water radical 氵(氵) (shuǐ, \"water\") with a simpler form, maintaining phonetic elements."
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 中(中) (zhōng) -> rush of water",
+    "interpretation": "The character combines 水(水) (shuǐ, \"water\") for its semantic element, conveying the idea of fluid movement, with 中(中) (zhōng) to provide the phonetic element, approximating the sound 'chōng'. Water naturally rushes or flows, leading to the idea of a rapid movement or 'rush'.",
+    "simplification": "沖(沖) was simplified to 冲 by retaining 中(中) (zhōng, \"middle\") as it is, but reducing 氵(水) (shuǐ, \"water\") to 冲's simpler top-stroke form."
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他冲出了门(他沖出了門)。",
-      "pinyin": "Tā chōng chūle mén.",
-      "english": "He rushed out of the door."
+      "chinese": "他匆匆冲出门(他匆匆沖出門)。",
+      "pinyin": "Tā cōngcōng chōng chū mén.",
+      "english": "He rushed out of the door in a hurry."
     },
     {
-      "chinese": "大雨冲刷了街道(大雨沖刷了街道)。",
-      "pinyin": "Dàyǔ chōngshuāle jiēdào.",
-      "english": "The heavy rain washed over the streets."
+      "chinese": "清晨的海浪冲上沙滩(清晨的海浪沖上沙灘)。",
+      "pinyin": "Qīngchén de hǎilàng chōng shàng shātān.",
+      "english": "The morning waves rushed onto the beach."
     },
     {
-      "chinese": "我冲到车站时(我沖到車站時)，车已经走了(車已經走了)。",
-      "pinyin": "Wǒ chōng dào chēzhàn shí, chē yǐjīng zǒu le.",
-      "english": "When I rushed to the station, the train had already left."
+      "chinese": "孩子们冲向操场(孩子們沖向操場)，欢呼雀跃(歡呼雀躍)。",
+      "pinyin": "Háizimen chōng xiàng cāochǎng, huānhū què yuè.",
+      "english": "The children rushed to the playground, cheering joyfully."
     }
   ]
 }

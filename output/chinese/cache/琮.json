@@ -5,8 +5,8 @@
   "english": "cong",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "玉(玉) (yù, 'jade') + 宗(宗) (zōng, 'ancestor') = jade with ancestral significance",
-    "interpretation": "The character 琮(cóng) combines the jade radical 玉(玉) (yù, 'jade'), indicating the material the object is crafted from, with the phonetic component 宗(宗) (zōng, 'ancestor'), referring to its traditional ceremonial use in ancient Chinese culture.",
+    "description": "semantic 玉(玉) (yù, 'jade') + phonetic 宗(宗) (zōng) -> a type of jade object",
+    "interpretation": "玉(玉) (yù, 'jade') signifies the character's connection to jade artifacts, while 宗(宗) (zōng) provides the sound. 琮(cóng) refers specifically to an ancient ritual jade object with a round exterior and a square interior, used in ceremonial contexts, highlighting the importance of jade in ancient Chinese culture.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "宗",
       "trad": "宗",
       "pinyin": "zōng",
-      "english": "ancestor"
+      "english": "ancestral; clan"
     }
   ],
   "in_contemporary_usage": false,

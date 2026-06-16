@@ -5,8 +5,8 @@
   "english": "take a look",
   "etymology": {
     "type": "compound word",
-    "description": "看(看) (kàn, \"look\") + 一下(一下) (yīxià, \"a bit; once\") = take a look briefly.",
-    "interpretation": "The phrase 看一下(看一下) (kàn yīxià, \"take a look\") uses 看(看) (kàn, \"look\") to mean viewing or observing something, and 一下(一下) (yīxià, \"a bit; once\") to indicate doing something for a brief or short duration. Together, they form a polite and common expression to ask someone to give something a quick glance or review.",
+    "description": "看(看) (kàn, \"look\") + 一下(一下) (yīxià, \"a bit; briefly\") = combine to form the expression for 'take a brief look'",
+    "interpretation": "看(看) (kàn, \"look\") implies directing one's gaze or attention towards something. 一下(一下) (yīxià, \"a bit; briefly\") indicates a short or brief action. Together, 看一下 expresses the idea of looking or checking something quickly or briefly, capturing the sense of a momentary glance or inspection.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "看",
       "trad": "看",
       "pinyin": "kàn",
-      "english": "\"look\""
+      "english": "look"
     },
     {
       "char": "一下",
       "trad": "一下",
       "pinyin": "yīxià",
-      "english": "\"a bit; once\""
+      "english": "a bit; briefly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "看一下那个(看一下那個)。",
-      "pinyin": "Kàn yīxià nàgè.",
-      "english": "Look at that."
+      "chinese": "请你看一下(請你看一下)。",
+      "pinyin": "Qǐng nǐ kàn yīxià.",
+      "english": "Please take a look."
     },
     {
-      "chinese": "请看一下这本书(請看一下這本書)。",
-      "pinyin": "Qǐng kàn yīxià zhè běn shū.",
-      "english": "Please take a look at this book."
+      "chinese": "他要过来看看一下(他要過來看看一下)，然后决定(然後決定)。",
+      "pinyin": "Tā yào guòlái kànkàn yīxià, ránhòu juédìng.",
+      "english": "He will come over to take a look, and then decide."
     },
     {
-      "chinese": "我看一下(我看一下)，再决定(再決定)。",
-      "pinyin": "Wǒ kàn yīxià, zài juédìng.",
-      "english": "I'll take a look, then decide."
+      "chinese": "你可以帮我看一下这个问题吗(你可以幫我看一下這個問題嗎)？",
+      "pinyin": "Nǐ kěyǐ bāng wǒ kàn yīxià zhège wèntí ma?",
+      "english": "Can you help me take a look at this problem?"
     }
   ]
 }

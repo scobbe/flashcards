@@ -5,9 +5,9 @@
   "english": "medicine; drug",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + 樂(樂) (lè, \"music/joy\") = plant-based substance associated with well-being -> medicine",
-    "interpretation": "The character 藥(yào, \"medicine\") combines the semantic component 艹(艹) (cǎo, \"grass\"), indicating its herbal nature, with the phonetic component 樂(樂) (lè, \"joy/music\"), suggesting a beneficial effect, to convey the idea of medicine or a healing substance.",
-    "simplification": "藥(藥) was simplified to 药(藥) by replacing the phonetic component 樂(樂) with the simpler 丶(丶) element, significantly reducing the number of strokes."
+    "description": "semantic 艹 (grass) + phonetic 樂 (sound) -> medicine",
+    "interpretation": "The character 藥 (yào, \"medicine\") combines the semantic 艹 (cǎo, \"grass\") indicating herbs, traditionally used for medicinal purposes, with the phonetic 樂 (lè, \"music\") contributing the sound. This suggests the harmonious preparation of herbal remedies.",
+    "simplification": "藥 simplified to 药 with the 艹 (艹) component retained and simplification of the phonetic 樂 (樂) to simplify writing."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "樂",
       "trad": "樂",
       "pinyin": "lè",
-      "english": "music/joy"
+      "english": "music"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我需要一些感冒药(我需要一些感冒藥)。",
-      "pinyin": "Wǒ xūyào yīxiē gǎnmào yào.",
-      "english": "I need some cold medicine."
+      "chinese": "医生给我开了药(醫生給我開了藥)。",
+      "pinyin": "Yīshēng gěi wǒ kāile yào.",
+      "english": "The doctor prescribed medicine for me."
     },
     {
-      "chinese": "医生给我开了止痛药(醫生給我開了止痛藥)。",
-      "pinyin": "Yīshēng gěi wǒ kāile zhǐtòng yào.",
-      "english": "The doctor prescribed me painkillers."
+      "chinese": "如果你不舒服(如果你不舒服)，记得吃药(記得吃藥)。",
+      "pinyin": "Rúguǒ nǐ bù shūfú, jìdé chī yào.",
+      "english": "If you're not feeling well, remember to take medicine."
     },
     {
-      "chinese": "这种药可以帮助你睡眠(這種藥可以幫助你睡眠)。",
-      "pinyin": "Zhè zhǒng yào kěyǐ bāngzhù nǐ shuìmián.",
-      "english": "This medicine can help you sleep."
+      "chinese": "这药很苦(這藥很苦)，但很有效(但很有效)。",
+      "pinyin": "Zhè yào hěn kǔ, dàn hěn yǒuxiào.",
+      "english": "This medicine is bitter but very effective."
     }
   ]
 }

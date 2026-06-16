@@ -5,8 +5,8 @@
   "english": "peace; safe; quiet; calm",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "宀(宀) (mián, \"house\") + 女(女) (nǚ, \"a kneeling woman\") = a woman at ease in the house -> peace, safety, calm",
-    "interpretation": "The combination of a house and a kneeling woman conveys the sense of tranquility and safety; it symbolizes a harmonious and secure environment.",
+    "description": "宀 (house) + 女 (a kneeling woman) = feeling at ease, to be safe -> peace; safety; quiet; calm",
+    "interpretation": "The image of a woman under a roof suggests domestic tranquility and being at ease, illustrating the concepts of peace and safety found at home. This extends to the idea of quiet or calm, as a secure and restful home environment evokes these states.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小村庄一直很安(小村莊一直很安)。",
-      "pinyin": "Xiǎo cūnzhuāng yīzhí hěn ān.",
-      "english": "The small village has always been peaceful."
+      "chinese": "夜晚很安静(夜晚很安靜)。",
+      "pinyin": "Yèwǎn hěn ānjìng.",
+      "english": "The night is very quiet."
     },
     {
-      "chinese": "经过风雨洗礼(經過風雨洗禮)，生活变得安(生活變得安)。",
-      "pinyin": "Jīngguò fēngyǔ xǐlǐ, shēnghuó biàn de ān.",
-      "english": "After enduring storms and rains, life becomes calm."
+      "chinese": "确保大家的安全(確保大家的安全)。",
+      "pinyin": "Quèbǎo dàjiā de ānquán.",
+      "english": "Ensure everyone's safety."
     },
     {
-      "chinese": "远离喧嚣后(遠離喧囂後)，他找到了内心的安(他找到了內心的安)。",
-      "pinyin": "Yuǎnlí xuānxiāo hòu, tā zhǎodàole nèixīn de ān.",
-      "english": "After escaping the hustle and bustle, he found inner peace."
+      "chinese": "和平时期(和平時期)，人民过得很安宁(人民過得很安寧)。",
+      "pinyin": "Hépíng shíqī, rénmín guò de hěn ānníng.",
+      "english": "During times of peace, people live very peacefully."
     }
   ]
 }

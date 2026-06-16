@@ -5,8 +5,8 @@
   "english": "commerce; business",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 㕯 (\"to speak slowly\") + phonetic 章 (\"zhāng\") -> originally meant estimating from the outside -> developed to mean trading/commerce",
-    "interpretation": "The character 商(shāng) originally described the concept of estimating, which is linked to trading where one evaluates items before purchasing or exchanging them. Over time, the meaning shifted to specifically denote commerce or trade. The semantic component 㕯 relates to the idea of communication or deliberation, which is fundamental in trading contexts.",
+    "description": "semantic 㕯 (to speak slowly) + phonetic 章 -> to estimate the inside from outside -> commerce, trade",
+    "interpretation": "The character initially meant 'to estimate the inside from outside', which implies a process of evaluation similar to trade. Over time, this sense naturally extended to the concept of 'commerce' as both involve assessing value and making exchanges. The original combination of speaking slowly and considered estimation links to deliberation necessary in trading activities.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "章",
       "trad": "章",
       "pinyin": "zhāng",
-      "english": "chapter"
+      "english": "chapter; seal"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我对商机充满兴趣(我對商機充滿興趣)。",
-      "pinyin": "Wǒ duì shāngjī chōngmǎn xìngqù.",
-      "english": "I am very interested in business opportunities."
+      "chinese": "这个商店每天都很忙(這個商店每天都很忙)。",
+      "pinyin": "Zhège shāngdiàn měitiān dōu hěn máng.",
+      "english": "This shop is busy every day."
     },
     {
-      "chinese": "他进入商界谋求发展(他進入商界謀求發展)。",
-      "pinyin": "Tā jìnrù shāngjiè móuqiú fāzhǎn.",
-      "english": "He entered the business world to seek development."
+      "chinese": "我们在讨论商业计划(我們在討論商業計劃)。",
+      "pinyin": "Wǒmen zài tǎolùn shāngyè jìhuà.",
+      "english": "We are discussing the business plan."
     },
     {
-      "chinese": "商人讲求信誉(商人講求信譽)，消费者追求质量(消費者追求質量)。",
-      "pinyin": "Shāngrén jiǎngqiú xìn yù, xiāofèizhě zhuīqiú zhìliàng.",
-      "english": "Businesspeople value reputation, and consumers pursue quality."
+      "chinese": "他毕业后进入了商业领域(他畢業後進入了商業領域)。",
+      "pinyin": "Tā bìyè hòu jìnrùle shāngyè lǐngyù.",
+      "english": "He entered the business field after graduation."
     }
   ]
 }

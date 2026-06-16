@@ -5,8 +5,8 @@
   "english": "\"diligent\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 子(子) (zǐ, 'child') + Semantic: 攵(攴) (pū, 'action') = action related to diligence -> diligent",
-    "interpretation": "The character 孜(孜) (zī, 'diligent') combines the phonetic component 子(子) (zǐ, 'child') with the semantic component 攵(攴) (pū, 'action') to convey the idea of diligently applying action or effort, reflecting perseverance similar to a child's energy.",
+    "description": "phonetic 子 (zǐ) + semantic 攵 (action) -> work with childlike diligence -> diligent",
+    "interpretation": "The character 孜 (zī, \"diligent\") combines the phonetic element 子 (zǐ, \"child\") with the semantic component 攵, which conveys the idea of action. This suggests the act of being 'diligent' with the youthful energy and persistence characteristic of children.",
     "simplification": ""
   },
   "parts": [
@@ -18,7 +18,7 @@
     },
     {
       "char": "攵",
-      "trad": "攴",
+      "trad": "攵",
       "pinyin": "pū",
       "english": "action"
     }
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她孜孜不倦地学习(她孜孜不倦地學習)。",
-      "pinyin": "Tā zī zī bù juàn de xué xí.",
-      "english": "She studies diligently."
+      "chinese": "她是个孜孜不倦的学生(她是個孜孜不倦的學生)。",
+      "pinyin": "Tā shì gè zīzī bù juàn de xuéshēng.",
+      "english": "She is a diligent student."
     },
     {
-      "chinese": "他工作辛勤(他工作辛勤)，始终孜孜以求(始終孜孜以求)。",
-      "pinyin": "Tā gōng zuò xīn qín, shǐ zhōng zī zī yǐ qiú.",
-      "english": "He works hard, and he is always diligent in seeking improvement."
+      "chinese": "他们孜孜不倦地工作(他們孜孜不倦地工作)，希望能如期完成任务(希望能如期完成任務)。",
+      "pinyin": "Tāmen zīzī bù juàn dì gōngzuò, xīwàng néng rúqī wánchéng rènwù.",
+      "english": "They work diligently, hoping to complete the task on time."
     },
     {
-      "chinese": "古人以礼待人(古人以禮待人)，更讲究孜孜不倦(更講究孜孜不倦)。",
-      "pinyin": "Gǔ rén yǐ lǐ dài rén, gèng jiǎng jiù zī zī bù juàn.",
-      "english": "Ancient people treated others with courtesy, and they valued diligence immensely."
+      "chinese": "孜孜不倦的态度(孜孜不倦的態度)帮助他取得了成功(幫助他取得了成功)。",
+      "pinyin": "Zīzī bù juàn de tàidù bāngzhù tā qǔdéle chénggōng.",
+      "english": "A diligent attitude helped him achieve success."
     }
   ]
 }

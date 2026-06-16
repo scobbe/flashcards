@@ -5,35 +5,40 @@
   "english": "fort; castle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "保(保) (bǎo, \"protect\") provides the phonetic element + 土(土) (tǔ, \"earth\") as the semantic element = a structure related to earth or protection -> fort; castle",
-    "interpretation": "The character 堡(bǎo) combines the idea of protection from 保(保) (bǎo, \"protect\") with 土(土) (tǔ, \"earth\") to convey a fortified structure made of earth, such as a fort or castle.",
+    "description": "semantic 土(土) (tǔ, \"earth\") + phonetic 保(保) (bǎo) -> fort; castle",
+    "interpretation": "堡(bǎo) uses 土(土) (tǔ, \"earth\") to emphasize its connection to earthworks or constructions made of earth, such as a fort or castle. 保(保) (bǎo) provides the pronunciation. The character thus evokes the idea of a fortified structure built upon or within the earth.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "保",
-      "trad": "保",
-      "pinyin": "bǎo",
-      "english": "protect"
-    },
     {
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
       "english": "earth"
+    },
+    {
+      "char": "保",
+      "trad": "保",
+      "pinyin": "bǎo",
+      "english": "protect; safeguard"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座堡曾经防御入侵(這座堡曾經防禦入侵)。",
-      "pinyin": "Zhè zuò bǎo céngjīng fángyù rùqīn.",
-      "english": "This fort once defended against invasions."
+      "chinese": "那座城堡非常壮观(那座城堡非常壯觀)。",
+      "pinyin": "Nà zuò chéngbǎo fēicháng zhuàngguān.",
+      "english": "That castle is very magnificent."
     },
     {
-      "chinese": "那座堡矗立在山顶(那座堡矗立在山頂)，守护着国家的安全(守護著國家的安全)。",
-      "pinyin": "Nà zuò bǎo chùlì zài shāndǐng, shǒuhù zhe guójiā de ānquán.",
-      "english": "That fort stands on the mountain top, guarding the nation's safety."
+      "chinese": "我们在山顶建了一个堡垒(我們在山頂建了一個堡壘)。",
+      "pinyin": "Wǒmen zài shāndǐng jiàn le yī gè bǎolěi.",
+      "english": "We built a fort on the mountaintop."
+    },
+    {
+      "chinese": "堡上的旗帜随风飘扬(堡上的旗幟隨風飄揚)。",
+      "pinyin": "Bǎo shàng de qízhì suí fēng piāoyáng.",
+      "english": "The flag on the fort is waving in the wind."
     }
   ]
 }

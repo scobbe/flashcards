@@ -5,8 +5,8 @@
   "english": "hawthorn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"wood\") + phonetic: 𣬉 (zhā) = tree with phonetic association -> \"hawthorn\"",
-    "interpretation": "The character 楂(楂) (zhā, \"hawthorn\") combines 木(木) (mù, 'wood'), indicating it's a type of tree, with the component 𣬉 (zhā) to give the sound. This effectively conveys the phonetic and semantic qualities associated with a hawthorn tree.",
+    "description": "木(木) (mù, \"wood\") + phonetic 且(且) (qiě, \"and\") -> 木 with 且 stylized as 旦(旦) (dàn, \"dawn\") -> hawthorn",
+    "interpretation": "The character 楂 (zhā) combines 木(木) (mù, \"wood\") as the semantic component indicating a tree or plant, with 且(且) (qiě, \"and\") as the phonetic component, which was stylistically adapted into 旦(旦) (dàn, \"dawn\"). The resulting character was used for the specific kind of tree, the hawthorn, as well as a wooden raft, both of which the compound was originally meant to describe.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,34 @@
       "english": "wood"
     },
     {
-      "char": "𣬉",
-      "trad": "𣬉",
-      "pinyin": "zhā",
-      "english": "phonetic component"
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "and"
+    },
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我爱吃楂(我愛吃楂)，这种果实很甜(這種果實很甜)。",
-      "pinyin": "Wǒ ài chī zhā, zhè zhǒng guǒshí hěn tián.",
-      "english": "I love eating hawthorn; this fruit is very sweet."
+      "chinese": "我喜欢吃用新鲜的山楂制作的糖葫芦(我喜歡吃用新鮮的山楂製作的糖葫蘆)。",
+      "pinyin": "Wǒ xǐhuān chī yòng xīnxiān de shānzhā zhìzuò de táng hú lu.",
+      "english": "I like to eat candied hawthorn made from fresh hawthorn."
     },
     {
-      "chinese": "厨师用楂制作酱料(廚師用楂製作醬料)，佐餐效果特别好(佐餐效果特別好)。",
-      "pinyin": "Chúshī yòng zhā zhìzuò jiàngliào, zuǒcān xiàoguǒ tèbié hǎo.",
-      "english": "The chef uses hawthorn to make a sauce, and it pairs especially well with meals."
+      "chinese": "山楂的味道酸甜可口(山楂的味道酸甜可口)。",
+      "pinyin": "Shānzhā de wèidào suāntián kěkǒu.",
+      "english": "The taste of hawthorn is sweet and sour."
+    },
+    {
+      "chinese": "很多人用山楂来泡茶(很多人用山楂來泡茶)，以帮助消化(以幫助消化)。",
+      "pinyin": "Hěnduō rén yòng shānzhā lái pào chá，yǐ bāngzhù xiāohuà.",
+      "english": "Many people use hawthorn to brew tea to aid digestion."
     }
   ]
 }

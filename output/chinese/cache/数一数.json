@@ -5,16 +5,16 @@
   "english": "count",
   "etymology": {
     "type": "compound word",
-    "description": "數(數) (shǔ, \"count\") + 一(一) (yī, \"one\") + 數(數) (shǔ, \"count\") = to count one by one",
-    "interpretation": "The word 数一数(數一數) (shǔ yī shǔ) implies the action of counting items one by one. The repetition of 數(數) (shǔ, \"count\") emphasizes the continuous and detailed aspect of counting, while 一(一) (yī, \"one\") reinforces the idea of counting each individual item.",
+    "description": "數(數) (shǔ, \"count\") + 一(一) (yī, \"one/single\") + 數(數) (shǔ, \"count\")",
+    "interpretation": "數(數) (shǔ, \"count\") expresses the core action of recounting or numbering. When paired with 一(一) (yī, \"one/single\") and repeated as 數(數) (shǔ), the phrase creates an emphasis on the act of counting, as if to say \"count each one attentively.\" Here, 一(一) (yī, \"one/single\") highlights the precision in the act of counting, ensuring attention to each single unit.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "数",
+      "char": "數",
       "trad": "數",
       "pinyin": "shǔ",
-      "english": "count; number; several"
+      "english": "count"
     },
     {
       "char": "一",
@@ -23,28 +23,28 @@
       "english": "one; single"
     },
     {
-      "char": "数",
+      "char": "數",
       "trad": "數",
       "pinyin": "shǔ",
-      "english": "count; number; several"
+      "english": "count"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "数一数苹果(數一數蘋果)。",
-      "pinyin": "shǔ yī shǔ píngguǒ.",
-      "english": "Count the apples."
+      "chinese": "他开始数一数手里的硬币(他開始數一數手裡的硬幣)。",
+      "pinyin": "Tā kāishǐ shǔ yī shǔ shǒulǐ de yìngbì.",
+      "english": "He started to count the coins in his hand."
     },
     {
-      "chinese": "数一数手表(數一數手錶)，检查是否正常(檢查是否正常)。",
-      "pinyin": "shǔ yī shǔ shǒubiǎo, jiǎnchá shìfǒu zhèngcháng.",
-      "english": "Count the watches and check if they work properly."
+      "chinese": "老师让我们数一数桌上的书(老師讓我們數一數桌上的書)。",
+      "pinyin": "Lǎoshī ràng wǒmen shǔ yī shǔ zhuō shàng de shū.",
+      "english": "The teacher asked us to count the books on the table."
     },
     {
-      "chinese": "每逢生日(每逢生日)，我数一数蜡烛(我數一數蠟燭)。",
-      "pinyin": "měiféng shēngrì, wǒ shǔ yī shǔ làzhú.",
-      "english": "On every birthday, I count the candles."
+      "chinese": "请你数一数这些苹果(請你數一數這些蘋果)，看有多少个(看有多少個)。",
+      "pinyin": "Qǐng nǐ shǔ yī shǔ zhèxiē píngguǒ, kàn yǒu duōshǎo gè.",
+      "english": "Please count these apples and see how many there are."
     }
   ]
 }

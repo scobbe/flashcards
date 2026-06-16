@@ -5,40 +5,40 @@
   "english": "to pretend; to act as",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "壯(壯) (zhuàng, \"strong\") + 衣(衣) (yī, \"clothes\") = clothing associated with strength -> to dress or attire",
-    "interpretation": "The character 裝(裝) combines 壯(壯), which lends its phonetic value and conveys the notion of strength or robustness, with 衣(衣), indicating clothing. Together, they suggest clothing related to pretending or adopting a role, reflecting how attire can influence perception or facilitate a certain appearance.",
-    "simplification": "Clothes radical 衣(衣) was simplified to 衤(衣), preserving key phonetics and semantics while reducing strokes."
+    "description": "semantic 衣(衣) (yī, \"clothes\") + phonetic 壯(壯) (zhuàng) -> clothing-related action or concept",
+    "interpretation": "The combination of 衣(衣) (yī, \"clothes\") as the semantic part suggests a connection to clothing or dress, while 壯(壯) (zhuàng) provides the pronunciation. The core idea of 'clothing' extends metaphorically to 'pretending' or 'acting as,' similar to dressing up or adopting a role.",
+    "simplification": "装(裝): The traditional character 裝 was simplified by removing the semantic 衣(衣) component, streamlining the character for easier writing."
   },
   "parts": [
-    {
-      "char": "壯",
-      "trad": "壯",
-      "pinyin": "zhuàng",
-      "english": "strong"
-    },
     {
       "char": "衣",
       "trad": "衣",
       "pinyin": "yī",
       "english": "clothes"
+    },
+    {
+      "char": "壯",
+      "trad": "壯",
+      "pinyin": "zhuàng",
+      "english": "strong; robust"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他装作不认识我(他裝作不認識我)，令我感到惊讶(令我感到驚訝)。",
-      "pinyin": "Tā zhuāng zuò bù rènshí wǒ, lìng wǒ gǎndào jīngyà.",
-      "english": "He pretended not to know me, which surprised me."
+      "chinese": "他装得很开心(他裝得很開心)。",
+      "pinyin": "Tā zhuāng de hěn kāixīn.",
+      "english": "He pretended to be very happy."
     },
     {
-      "chinese": "她装出一副高兴的样子(她裝出一副高興的樣子)，实则心中忧虑(實則心中憂慮)。",
-      "pinyin": "Tā zhuāng chū yī fù gāoxìng de yàngzi, shíquè xīnzhōng yōulǜ.",
-      "english": "She acted as if she were happy, but was actually troubled inside."
+      "chinese": "我不想装不知道(我不想裝不知道)，因此直接问了他(因此直接問了他)。",
+      "pinyin": "Wǒ bù xiǎng zhuāng bù zhīdào, yīncǐ zhíjiē wèn le tā.",
+      "english": "I didn't want to pretend not to know, so I asked him directly."
     },
     {
-      "chinese": "他们装得很自然(他們裝得很自然)。",
-      "pinyin": "Tāmen zhuāng de hěn zìrán.",
-      "english": "They acted very naturally."
+      "chinese": "有人喜欢在公众场合装作别人(有人喜歡在公衆場合裝作別人)。",
+      "pinyin": "Yǒurén xǐhuān zài gōngzhòng chǎnghé zhuāng zuò biérén.",
+      "english": "Some people like to pretend to be someone else in public places."
     }
   ]
 }

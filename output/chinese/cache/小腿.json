@@ -5,8 +5,8 @@
   "english": "lower leg; calf",
   "etymology": {
     "type": "compound word",
-    "description": "小(小) (xiǎo, \"small\") + 腿(腿) (tuǐ, \"leg\") = small leg -> lower leg; calf",
-    "interpretation": "In the context of human anatomy, 小(小) (xiǎo, \"small\") combined with 腿(腿) (tuǐ, \"leg\") describes the lower part of the leg, which is smaller in size compared to the thigh. This accurately conveys the meaning of calf or lower leg.",
+    "description": "小(小) (xiǎo, \"small\") refers to something that is not large in size. 腿(腿) (tuǐ, \"leg\") refers to the limb used for walking on which the body stands.",
+    "interpretation": "The term 小腿 (xiǎo tuǐ) literally means \"small leg,\" which is analogous to the lower part of the leg when compared to the entire limb. The focus on 'small' highlights the lower leg's position below the larger thigh, emphasizing its role as the narrowing part between the knee and the ankle.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "小",
       "trad": "小",
       "pinyin": "xiǎo",
-      "english": "small; little"
+      "english": "small; little; young; minor"
     },
     {
       "char": "腿",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他不小心扭伤了小腿(他不小心扭傷了小腿)。",
-      "pinyin": "Tā bù xiǎoxīn niǔ shāng le xiǎo tuǐ.",
-      "english": "He accidentally sprained his calf."
+      "chinese": "他的小腿有点酸痛(他的小腿有點酸痛)。",
+      "pinyin": "Tā de xiǎo tuǐ yǒudiǎn suāntòng.",
+      "english": "His calf is a bit sore."
     },
     {
-      "chinese": "运动后(運動後)，他发现小腿僵硬(他發現小腿僵硬)。",
-      "pinyin": "Yùn dòng hòu, tā fāxiàn xiǎo tuǐ jiāng yì.",
-      "english": "After exercise, he found his lower leg stiff."
+      "chinese": "运动后(運動後)，她的小腿变得更加结实(她的小腿變得更加結實)。",
+      "pinyin": "Yùndòng hòu, tā de xiǎo tuǐ biàndé gèngjiā jiēshi.",
+      "english": "After exercising, her lower legs became more toned."
+    },
+    {
+      "chinese": "小腿受伤后(小腿受傷後)，他需要休息几个星期(他需要休息幾個星期)。",
+      "pinyin": "Xiǎo tuǐ shòushāng hòu, tā xūyào xiūxi jǐ gè xīngqī.",
+      "english": "After injuring his calf, he needs to rest for a few weeks."
     }
   ]
 }

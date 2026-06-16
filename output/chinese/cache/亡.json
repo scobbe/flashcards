@@ -5,8 +5,8 @@
   "english": "perish",
   "etymology": {
     "type": "ideogram",
-    "description": "Line on 刀(刀) (dāo, \"knife\") indicates cutting edge -> disappearance of knowledge -> perish",
-    "interpretation": "The character 亡(wáng) visually represents the sharp, cutting edge of a knife, which metaphorically implies the loss of life or things 'perishing'. Over time, it came to signify broader concepts of disappearance and extinction.",
+    "description": "A line on 刀 (dāo, 'knife') -> cutting edge of a knife -> original form of 芒 (máng, 'edge of a knife')",
+    "interpretation": "The character depicts a line on a knife, representing the sharp edge. This connection to sharpness and cutting leads to the concept of 'perish,' as an edge can cut or end something, symbolically indicating destruction or the end of life.",
     "simplification": ""
   },
   "parts": [
@@ -15,19 +15,30 @@
       "trad": "刀",
       "pinyin": "dāo",
       "english": "knife"
+    },
+    {
+      "char": "芒",
+      "trad": "芒",
+      "pinyin": "máng",
+      "english": "edge of a knife"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "国破(國破)，家亡(家亡)。",
-      "pinyin": "Guó pò, jiā wáng.",
-      "english": "The country is broken, the family perishes."
+      "chinese": "战士们在战场上英勇战斗，许多人不幸亡(戰士們在戰場上英勇戰鬥，許多人不幸亡)。",
+      "pinyin": "Zhànshìmen zài zhànchǎng shàng yīngyǒng zhàndòu, xǔduō rén bùxìng wáng.",
+      "english": "The soldiers fought bravely on the battlefield, and many unfortunately perished."
     },
     {
-      "chinese": "经过激战时(經過激戰時)，士兵亡(士兵亡)。",
-      "pinyin": "Jīngguò jīzhàn shí, shìbīng wáng.",
-      "english": "During the intense battle, the soldiers perished."
+      "chinese": "如果不努力经营，这家公司可能会亡(如果不努力經營，這家公司可能會亡)。",
+      "pinyin": "Rúguǒ bù nǔlì jīngyíng, zhè jiā gōngsī kěnéng huì wáng.",
+      "english": "If the company does not operate diligently, it may perish."
+    },
+    {
+      "chinese": "古代帝国由于内外问题而一朝亡(古代帝國由於內外問題而一朝亡)。",
+      "pinyin": "Gǔdài dìguó yóuyú nèiwài wèntí ér yī zhāo wáng.",
+      "english": "The ancient empire perished overnight due to internal and external issues."
     }
   ]
 }

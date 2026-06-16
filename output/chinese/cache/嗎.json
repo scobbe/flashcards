@@ -1,0 +1,44 @@
+{
+  "simplified": "嗎",
+  "traditional": "嗎",
+  "pinyin": "ma",
+  "english": "question particle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 馬(馬) (mǎ, \"horse\") -> question particle",
+    "interpretation": "The character 嗎(嗎) (ma, \"question particle\") combines the semantic component 口(口) (kǒu, \"mouth\") indicating speech or communication, with the phonetic component 馬(馬) (mǎ, \"horse\") to provide the sound. This creates the character used to indicate a question when speaking.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "馬",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你今天好吗(你今天好嗎)？",
+      "pinyin": "Nǐ jīntiān hǎo ma?",
+      "english": "How are you today?"
+    },
+    {
+      "chinese": "你会说中文吗(你會說中文嗎)？",
+      "pinyin": "Nǐ huì shuō Zhōngwén ma?",
+      "english": "Can you speak Chinese?"
+    },
+    {
+      "chinese": "今天天气很好，对吗(今天天氣很好，對嗎)？",
+      "pinyin": "Jīntiān tiānqì hěn hǎo, duì ma?",
+      "english": "The weather is great today, isn't it?"
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "damn",
   "etymology": {
     "type": "compound word",
-    "description": "该(該) (gāi, \"ought to; should\") + 死(死) (sǐ, \"to die\") is used in an accusatory or angry context to mean \"damn\" or \"damned\" as in expressing annoyance or cursing something/someone.",
-    "interpretation": "The combination expresses the sentiment that someone or something 'ought to die' due to displeasure or anger, thus conveying a strong negative emotion.",
+    "description": "該(該) (gāi, \"should\") refers to necessity or obligation, and 死(死) (sǐ, \"die\") refers to death or the concept of dying. Together, 該(該) (gāi, \"should\") + 死(死) (sǐ, \"die\") conveys a strong expression of annoyance or frustration, as if something or someone deserving death, thus interpreted as 'damn'.",
+    "interpretation": "該(該) (gāi, \"should\") expresses the idea of something being appropriate or deserved, while 死(死) (sǐ, \"die\") literally refers to death. Together, the phrase intensifies the notion that someone or something is extremely irritating or frustrating, to the extent that it 'deserves to die', which colloquially is understood as a strong condemnation or expletive comparable to 'damn'. This is primarily used as an emotional release or curse, highlighting extreme displeasure.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "该",
       "trad": "該",
       "pinyin": "gāi",
-      "english": "ought to; should"
+      "english": "should; ought to; deserving"
     },
     {
       "char": "死",
       "trad": "死",
       "pinyin": "sǐ",
-      "english": "to die"
+      "english": "die; death; to be dead"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "真是该死(該死)。",
-      "pinyin": "Zhēn shì gāisǐ.",
-      "english": "It's damn."
+      "chinese": "这个该死的问题让我头疼(這個該死的問題讓我頭疼)。",
+      "pinyin": "Zhège gāisǐ de wèntí ràng wǒ tóuténg.",
+      "english": "This damn problem is giving me a headache."
     },
     {
-      "chinese": "他做了该死的决定(他做了該死的決定)，结果事与愿违(結果事與願違)。",
-      "pinyin": "Tā zuòle gāisǐ de juédìng, jiéguǒ shì yǔ yuàn wéi.",
-      "english": "He made a damn decision, and the result went against his wishes."
+      "chinese": "她忘了带钥匙，真是该死(她忘了帶鑰匙，真是該死)！",
+      "pinyin": "Tā wàngle dài yàoshi, zhēn shì gāisǐ!",
+      "english": "She forgot the keys, damn it!"
+    },
+    {
+      "chinese": "该死的雨不停地下(該死的雨不停地下)，我们没法出门(我們沒法出門)。",
+      "pinyin": "Gāisǐ de yǔ bù tíng de xià, wǒmen méifǎ chūmén.",
+      "english": "The damn rain keeps falling, we can't go out."
     }
   ]
 }

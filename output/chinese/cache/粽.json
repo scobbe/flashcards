@@ -5,8 +5,8 @@
   "english": "sticky rice wrapped in leaves",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 㚇(㚇) (zōng, \"phonetic component\") = rice wrapped in leaves -> sticky rice wrapped in leaves",
-    "interpretation": "糉(糉) (zòng, \"sticky rice wrapped in leaves\") uses 米(米) (mǐ, \"rice\") to signify the core ingredient, while the phonetic 㚇(㚇) (zōng) provides the pronunciation. This blending suggests a dish primarily composed of rice, matching its modern culinary context.",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 㚇(㚇) (zōng) -> sticky rice wrapped in leaves",
+    "interpretation": "The character 糉 originated as a phono-semantic compound where 米(米) (mǐ, \"rice\") indicates the semantic field relevant to rice, and 㚇(㚇) (zōng) provides the sound. Together they denote sticky rice wrapped in leaves, commonly referred to as 粽子(粽子) (zòngzi) in modern usage.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "端午节期间(端午節期間)，家家户户都会吃粽(家家戶戶都會吃粽)。",
-      "pinyin": "Duānwǔ jié qījiān, jiājiāhùhù dōu huì chī zòng.",
-      "english": "During the Dragon Boat Festival, every household eats sticky rice wrapped in leaves."
+      "chinese": "我喜欢在端午节吃粽子(我喜歡在端午節吃糉子)。",
+      "pinyin": "Wǒ xǐhuān zài duānwǔjié chī zòngzi.",
+      "english": "I like to eat sticky rice wrapped in leaves during the Dragon Boat Festival."
     },
     {
-      "chinese": "我最喜欢吃粽(我最喜歡吃粽)，因为它软糯可口(因爲它軟糯可口)。",
-      "pinyin": "Wǒ zuì xǐhuan chī zòng, yīnwèi tā ruǎnnuò kěkǒu.",
-      "english": "I like eating sticky rice wrapped in leaves the most because it is soft, glutinous, and delicious."
+      "chinese": "她在市场上买了很多粽子(她在市場上買了很多糉子)。",
+      "pinyin": "Tā zài shìchǎng shàng mǎile hěn duō zòngzi.",
+      "english": "She bought a lot of sticky rice wrapped in leaves at the market."
+    },
+    {
+      "chinese": "粽子的味道让我想起了童年(糉子的味道讓我想起了童年)。",
+      "pinyin": "Zòngzi de wèidào ràng wǒ xiǎngqǐle tóngnián.",
+      "english": "The taste of sticky rice wrapped in leaves reminds me of my childhood."
     }
   ]
 }

@@ -4,23 +4,28 @@
   "pinyin": "hēi",
   "english": "black",
   "etymology": {
-    "type": "Variant of 黑",
-    "description": "黑(黑) (hēi, \"black\") simplified -> two dots replaced by one stroke",
-    "interpretation": "The character 黒 is a simplified variant of 黑(黑) (hēi, \"black\"), created by merging the two original dots into a single stroke, akin to other simplifications in Japanese script reform.",
-    "simplification": "This is a reform-based simplification where two dots in 黑(黑) (hēi, \"black\") were combined into one stroke, similar to how 毋(毋) (wú, \"do not\") simplifies 母(母) (mǔ, \"mother\")."
+    "type": "pictogram",
+    "description": "Depicts a chimney with soot building up upwards -> darkening to black",
+    "interpretation": "Originally depicted a chimney with soot accumulating, creating a visual representation of something becoming dark or black due to soot deposits.",
+    "simplification": "黒 is simplified by replacing two small dots with a single horizontal stroke, reflecting a cursive shorthand approach."
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这本书的封面是黑(黑)的。",
-      "pinyin": "Zhè běn shū de fēngmiàn shì hēi(黑) de.",
-      "english": "The cover of this book is black."
+      "chinese": "她穿了一件黒色的夹克(她穿了一件黑色的夾克)。",
+      "pinyin": "Tā chuānle yī jiàn hēisè de jiākè.",
+      "english": "She wore a black jacket."
     },
     {
-      "chinese": "夜幕降临时(夜幕降臨時)，公园里变得黑漆漆(公園裡變得黑漆漆)。",
-      "pinyin": "Yèmù jiànglín shí(夜幕降臨時)，gōngyuán lǐ biàn dé hēi qī qī(公園裡變得黑漆漆).",
-      "english": "When night falls, the park turns pitch black."
+      "chinese": "夜空中满是黒色的云(夜空中滿是黑色的雲)。",
+      "pinyin": "Yèkōng zhōng mǎn shì hēisè de yún.",
+      "english": "The night sky is full of black clouds."
+    },
+    {
+      "chinese": "他的头发是深黒色(他的頭髮是深黑色)。",
+      "pinyin": "Tā de tóufà shì shēn hēisè.",
+      "english": "His hair is a deep black."
     }
   ]
 }

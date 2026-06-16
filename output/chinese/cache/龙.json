@@ -4,30 +4,28 @@
   "pinyin": "lóng",
   "english": "dragon; imperial",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "辰(辰) (chén, \"early form of dragon\") as phonetic + stylized depiction of a dragon body = 龙 -> dragon",
-    "interpretation": "龙(龍) (lóng, \"dragon\") combines a phonetic element from 辰(辰) (chén, \"early form of dragon\") with a stylized representation of a dragon's body, capturing both sound and essence to represent the mythical creature.",
-    "simplification": "龙(龍) simplified by combining phonetic 辰(辰) with a less detailed body form to represent the dragon."
+    "type": "pictogram",
+    "description": "Originally depicted a serpent with a prominent whiskered mouth and eyes -> large seal script developed into a dragon's body -> simplified abstraction influenced by 立 (lì, \"stand\") and ⺼ (ròu, \"flesh\")",
+    "interpretation": "The traditional character 龍(lóng, \"dragon\") began as a pictogram illustrating a serpent's key features, particularly its whiskered mouth and eyes, fundamental to the cultural depiction of dragons as mythical creatures with such traits. Despite changes and simplifications over time, this form has retained its original essence within the body and structural elements adapted over centuries, evidencing a complex fusion of visual components and cultural evolution.",
+    "simplification": "The character 龙 is a simplified version of the traditional 龍, where the intricate elements were streamlined by removing sections like 帝 and simplifying 彡, reducing the complexity for easier writing."
   },
-  "parts": [
-    {
-      "char": "辰",
-      "trad": "辰",
-      "pinyin": "chén",
-      "english": "early form of dragon"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "传说中的龙能呼风唤雨(傳說中的龍能呼風喚雨)。",
-      "pinyin": "Chuánshuō zhōng de lóng néng hū fēng huàn yǔ.",
-      "english": "The legendary dragon can summon wind and rain."
+      "chinese": "龙是中国文化的重要象征(龍是中國文化的重要象徵)。",
+      "pinyin": "Lóng shì Zhōngguó wénhuà de zhòngyào xiàngzhēng.",
+      "english": "The dragon is an important symbol in Chinese culture."
     },
     {
-      "chinese": "皇宫中悬挂着龙袍(皇宮中懸掛著龍袍)，象征着至高无上的权力(象徵著至高無上的權力)。",
-      "pinyin": "Huánggōng zhōng xuánguà zhe lóng páo, xiàngzhēng zhe zhìgāo wúshàng de quánlì.",
-      "english": "In the imperial palace, the dragon robe hangs, symbolizing supreme power."
+      "chinese": "舞龙是春节的传统活动(舞龍是春節的傳統活動)。",
+      "pinyin": "Wǔlóng shì Chūnjié de chuántǒng huódòng.",
+      "english": "Dragon dance is a traditional activity during the Spring Festival."
+    },
+    {
+      "chinese": "皇帝被称为真龙天子(皇帝被稱為真龍天子)。",
+      "pinyin": "Huángdì bèi chēng wéi zhēnlóng tiānzǐ.",
+      "english": "The emperor was called the true dragon son of heaven."
     }
   ]
 }

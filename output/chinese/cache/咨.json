@@ -5,35 +5,40 @@
   "english": "to sigh",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "次(次) (cì, 'next') phonetic + 口(口) (kǒu, 'mouth') semantic = 咨(咨) ('to sigh')",
-    "interpretation": "The character 咨(咨) combines 口(口) (kǒu, 'mouth'), indicating an action related to the mouth, with the phonetic component 次(次) (cì, 'next'), suggesting the pronunciation. This structure makes intuitive sense as it conveys an action involving the mouth, represented by a sound-related component.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 次(次) (cì) -> to sigh",
+    "interpretation": "The component 口(口) (kǒu, \"mouth\") suggests the action of speaking or uttering a sound, while 次(次) (cì) provides the phonetic cue. The combination creates an image of expressing a sound or sigh through the mouth.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "次",
-      "trad": "次",
-      "pinyin": "cì",
-      "english": "next"
-    },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
       "english": "mouth"
+    },
+    {
+      "char": "次",
+      "trad": "次",
+      "pinyin": "cì",
+      "english": "next; sequence"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "面对离别时刻(面對離別時刻)，她不禁长声咨叹(她不禁長聲咨嘆)。",
-      "pinyin": "Miàn duì líbié shí kè, tā bù jīn cháng shēng zī tàn.",
-      "english": "Facing the moment of farewell, she couldn't help but sigh deeply."
+      "chinese": "她轻轻地咨叹了一声(她輕輕地咨嘆了一聲)。",
+      "pinyin": "Tā qīngqīng de zī tàn le yī shēng.",
+      "english": "She sighed softly."
     },
     {
-      "chinese": "经历辛苦工作后(經歷辛苦工作後)，他坐在窗前静静咨叹(他坐在窗前靜靜咨嘆)。",
-      "pinyin": "Jīng lì xīn kǔ gōng zuò hòu, tā zuò zài chuāng qián jìng jìng zī tàn.",
-      "english": "After enduring hard work, he sat by the window, quietly sighing."
+      "chinese": "想到这里(想到這裡)，他忍不住咨了口气(他忍不住咨了口氣)。",
+      "pinyin": "Xiǎngdào zhèlǐ, tā rěn bú zhù zīle kǒu qì.",
+      "english": "Thinking of this, he couldn't help but sigh."
+    },
+    {
+      "chinese": "每当烦恼袭来(每當煩惱襲來)，我总是咨一声(我總是咨一聲)。",
+      "pinyin": "Měi dāng fánnǎo xílái, wǒ zǒng shì zī yī shēng.",
+      "english": "Whenever worries arise, I always let out a sigh."
     }
   ]
 }

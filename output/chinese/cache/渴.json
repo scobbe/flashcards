@@ -5,14 +5,14 @@
   "english": "thirsty",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(水) (shuǐ, \"water\") + phonetic: 曷(曷) (hé, \"dry\") = dry or exhausted of water -> thirsty",
-    "interpretation": "The character 渴(kě, \"thirsty\") combines the water radical 氵(水) to indicate the relation to water, with 曷(曷) (hé, \"dry\") as the phonetic component, suggesting dryness or a lack of water, which directly conveys the concept of thirst.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 曷(曷) (hé) -> meaning: dry, exhausted (of water)",
+    "interpretation": "The character 渴(kě, \"thirsty\") combines the semantic component 氵(shuǐ, \"water\"), essential for life and quenching thirst, with the phonetic component 曷(hé), which indicates the sound. The concept of being dry or exhausted due to a lack of water leads to the meaning of 'thirst'.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -20,25 +20,25 @@
       "char": "曷",
       "trad": "曷",
       "pinyin": "hé",
-      "english": "dry"
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我感觉非常渴(我感覺非常渴)。",
-      "pinyin": "Wǒ gǎnjué fēicháng kě.",
-      "english": "I feel very thirsty."
+      "chinese": "他很渴(他很渴)，所以喝了一大瓶水(所以喝了一大瓶水)。",
+      "pinyin": "Tā hěn kě, suǒyǐ hēle yī dà píng shuǐ.",
+      "english": "He was very thirsty, so he drank a big bottle of water."
     },
     {
-      "chinese": "长时间运动后(長時間運動後)，他开始感到渴(他開始感到渴)。",
-      "pinyin": "Cháng shíjiān yùndòng hòu, tā kāishǐ gǎndào kě.",
-      "english": "After long exercise, he started to feel thirsty."
+      "chinese": "运动后，我总是感到渴(運動後，我總是感到渴)。",
+      "pinyin": "Yùndòng hòu, wǒ zǒng shì gǎndào kě.",
+      "english": "After exercising, I always feel thirsty."
     },
     {
-      "chinese": "口渴时(口渴時)，喝一杯冰水很解乏(喝一杯冰水很解乏)。",
-      "pinyin": "Kǒu kě shí, hē yì bēi bīngshuǐ hěn jiěfá.",
-      "english": "When thirsty, drinking a glass of iced water is very refreshing."
+      "chinese": "她渴了(她渴了)，需要喝点水(需要喝點水)。",
+      "pinyin": "Tā kě le, xūyào hē diǎn shuǐ.",
+      "english": "She is thirsty and needs to drink some water."
     }
   ]
 }

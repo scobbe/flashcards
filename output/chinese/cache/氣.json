@@ -5,16 +5,16 @@
   "english": "air",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 气 (pronunciation) + Semantic: 米 ('rice') = to give rice as a gift -> borrowed for 'air, flow'",
-    "interpretation": "Originally, 氣(qì, 'air') represented giving rice as a gift, reflecting physical exchange and transformation. Over time, it was borrowed to denote the concepts of 'air' and 'flow', abstractly related to the movement and circulation of gases.",
-    "simplification": "The character 氣 was simplified to 气 by omitting the 米 (mǐ, 'rice') component, retaining only the phonetic element."
+    "description": "phonetic 气 (originally a pictogram for 'vapor') + semantic 米 ('rice') -> giving rice as a gift",
+    "interpretation": "Initially, 氣(qì, 'air') depicted giving rice as a gift, incorporating the concept of something precious or sustaining. Over time, the character borrowed meanings associated with 气(qì, 'vapor'), taking on senses related to 'air', 'atmosphere', and 'energy'. The connection lies in the intangible, pervasive qualities common to both meanings.",
+    "simplification": "气 (气) (qì, 'air') was simplified by retaining the upper portion, which depicts vapor or steam, dropping the 米 (米) (mǐ, 'rice') component."
   },
   "parts": [
     {
       "char": "气",
       "trad": "气",
       "pinyin": "qì",
-      "english": "air"
+      "english": "vapor"
     },
     {
       "char": "米",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们呼吸着新鲜的气(我們呼吸著新鮮的氣)，迎接新的一天(迎接新的一天)。",
-      "pinyin": "Wǒmen hūxīzhe xīnxiān de qì, yíngjiē xīn de yītiān.",
-      "english": "We breathe in fresh air, welcoming a new day."
+      "chinese": "清晨的空气很新鲜(清晨的空氣很新鮮)。",
+      "pinyin": "Qīngchén de kōngqì hěn xīnxiān.",
+      "english": "The morning air is very fresh."
     },
     {
-      "chinese": "空气温暖宜人(空氣溫暖宜人)。",
-      "pinyin": "Kōngqì wēnnuǎn yírén.",
-      "english": "The air is pleasantly warm."
+      "chinese": "他在生气(他在生氣)，我们需要给他一些时间(我們需要給他一些時間)。",
+      "pinyin": "Tā zài shēngqì, wǒmen xūyào gěi tā yīxiē shíjiān.",
+      "english": "He is angry, and we need to give him some time."
     },
     {
-      "chinese": "大海的气(大海的氣)，带着咸湿的味道(帶著鹹濕的味道)。",
-      "pinyin": "Dàhǎi de qì, dàizhe xiánshī de wèidào.",
-      "english": "The sea air carries a salty, humid scent."
+      "chinese": "运动后要好好放松，因为这有助于恢复体力和心情(運動後要好好放鬆，因爲這有助於恢復體力和心情)。",
+      "pinyin": "Yùndòng hòu yào hǎohǎo fàngsōng, yīnwèi zhè yǒu zhù yú huīfù tǐlì hé xīnqíng.",
+      "english": "After exercising, it's important to relax well because it helps restore energy and mood."
     }
   ]
 }

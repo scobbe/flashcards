@@ -1,0 +1,44 @@
+{
+  "simplified": "鑼",
+  "traditional": "鑼",
+  "pinyin": "luó",
+  "english": "gong",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 金(金) (jīn, \"metal\") + phonetic 羅(羅) (luó) -> metal instrument -> gong",
+    "interpretation": "鑼 (luó, \"gong\") is a large metal instrument that produces a resonant sound. The character uses 金(金) (jīn, \"metal\") as the semantic component, indicating it is made of metal. The phonetic component 羅(羅) (luó) suggests its pronunciation.",
+    "simplification": "鑼 was simplified to 锣 by removing the complex component 羅(羅) and replacing it with simplified form that suggests sound."
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "metal"
+    },
+    {
+      "char": "羅",
+      "trad": "羅",
+      "pinyin": "luó",
+      "english": "to catch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "当钟楼敲响时(當鐘樓敲響時)，村里的人们都停下手中的活儿(村裡的人們都停下手中的活兒)。",
+      "pinyin": "Dāng zhōng lóu qiāo xiǎng shí, cūn lǐ de rénmen dōu tíng xià shǒuzhōng de huó'er.",
+      "english": "When the bell tower rings, the villagers all stop their work."
+    },
+    {
+      "chinese": "他用力敲打鑼(他用力敲打鑼)，发出巨大的声音(發出巨大的聲音)。",
+      "pinyin": "Tā yòng lì qiāo dǎ luó, fā chū jùdà de shēngyīn.",
+      "english": "He strikes the gong forcefully, producing a loud sound."
+    },
+    {
+      "chinese": "古老的仪式中(古老的儀式中)，總是可以听到鑼聲(總是可以聽到鑼聲)。",
+      "pinyin": "Gǔlǎo de yíshì zhōng, zǒng shì kěyǐ tīng dào luó shēng.",
+      "english": "In ancient ceremonies, the sound of the gong can always be heard."
+    }
+  ]
+}

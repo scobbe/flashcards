@@ -5,29 +5,27 @@
   "english": "station",
   "etymology": {
     "type": "pictogram",
-    "description": "屮(屮) (chè, \"sprout\") + dot -> line modified, emphasizing sprout -> modern form 屯",
-    "interpretation": "The character 屯 originally depicted a plant sprout, represented by 屮(屮) (chè, \"sprout\") with a central dot that was later transformed into a horizontal line to emphasize the sprout. It symbolizes the idea of sprouting or beginning, which connects with its broader meaning of 'station,' a place where things start or are based.",
+    "description": "Depicts a plant sprout (屮) with a middle emphasis line -> emphasizes sprout",
+    "interpretation": "The character 屯(tún, 'station') originally depicts a plant sprout with an added line to emphasize its growth. This imagery reflects the concept of development or establishment, leading to the sense of 'station' as a place where something is established or set up.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "屮",
-      "trad": "屮",
-      "pinyin": "chè",
-      "english": "sprout"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "军队在边境屯(軍隊在邊境屯)，准备随时出击(準備隨時出擊)。",
-      "pinyin": "Jūnduì zài biānjìng tún, zhǔnbèi suíshí chūjī.",
-      "english": "The army is stationed at the border, ready to launch an attack at any moment."
+      "chinese": "这附近有一个储备粮的屯(這附近有一個儲備糧的屯)。",
+      "pinyin": "Zhè fùjìn yǒu yīgè chǔbèi liáng de tún.",
+      "english": "There is a grain storage station nearby."
     },
     {
-      "chinese": "新军屯(新軍屯)选址在交通枢纽(選址在交通樞紐)，利于快速集结(利於快速集結)。",
-      "pinyin": "Xīn jūn tún xuǎnzhǐ zài jiāotōng shūniǔ, lì yú kuàisù jíjié.",
-      "english": "The new military station is located at a transportation hub, which facilitates rapid assembly."
+      "chinese": "他们准备在此地设立一个新的军事屯(他們準備在此地設立一個新的軍事屯)。",
+      "pinyin": "Tāmen zhǔnbèi zài cǐdì shèlì yīgè xīn de jūnshì tún.",
+      "english": "They plan to establish a new military station at this location."
+    },
+    {
+      "chinese": "村民们在屯里储存了大量的粮食(村民們在屯裡儲存了大量的糧食)。",
+      "pinyin": "Cūnmín men zài tún lǐ chǔcún le dàliàng de liángshí.",
+      "english": "The villagers have stored a large amount of grain in the station."
     }
   ]
 }

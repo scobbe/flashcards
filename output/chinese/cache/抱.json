@@ -5,14 +5,14 @@
   "english": "hold; embrace",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "扌 (hand) + 包 (wrap) = hold in one’s hands -> embrace",
-    "interpretation": "The character 抱(bào, \"hold; embrace\") combines 扌 (shǒu, \"hand\") with 包 (bāo, \"wrap\") to convey the action of holding or wrapping something in one's hands, indicating an embrace.",
+    "description": "semantic 扌(手) (shǒu, \"hand\") + phonetic 包(包) (bāo, \"wrap\") -> hold in one's hands",
+    "interpretation": "The semantic component 扌(手) (shǒu, \"hand\") suggests the use of hands, while the phonetic 包(包) (bāo, \"wrap\") not only provides the sound but also contributes to the meaning by its association with wrapping or enclosing, thus leading to the notion of holding or embracing with the hands.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "扌",
-      "trad": "扌",
+      "char": "手",
+      "trad": "手",
       "pinyin": "shǒu",
       "english": "hand"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈抱着宝宝(媽媽抱著寶寶)。",
-      "pinyin": "Māmā bào zhe bǎobǎo.",
-      "english": "Mom embraces the baby."
+      "chinese": "妈妈抱着孩子(媽媽抱著孩子)。",
+      "pinyin": "Māma bàozhe háizi.",
+      "english": "The mother is holding the child."
     },
     {
-      "chinese": "他经过多年的分别时(他經過多年的分別時)，激动地紧紧抱住朋友(激動地緊緊抱住朋友)。",
-      "pinyin": "Tā jīngguò duōnián de fēnbié shí, jīdòng de jǐn jǐn bào zhù péngyǒu.",
-      "english": "When he reunited with his friend after many years, he embraced him tightly in excitement."
+      "chinese": "他一见到朋友就紧紧地抱住他(他一見到朋友就緊緊地抱住他)。",
+      "pinyin": "Tā yī jiàn dào péngyǒu jiù jǐnjǐn de bàozhù tā.",
+      "english": "As soon as he saw his friend, he hugged him tightly."
     },
     {
-      "chinese": "哥哥温柔地抱着小猫(哥哥溫柔地抱著小貓)。",
-      "pinyin": "Gēgē wēnróu de bào zhe xiǎo māo.",
-      "english": "The older brother gently holds the kitten."
+      "chinese": "小女孩抱着她喜欢的玩具熊(小女孩抱著她喜歡的玩具熊)。",
+      "pinyin": "Xiǎo nǚhái bàozhe tā xǐhuān de wánjù xióng.",
+      "english": "The little girl is holding her favorite teddy bear."
     }
   ]
 }

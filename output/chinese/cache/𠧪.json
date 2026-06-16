@@ -5,8 +5,8 @@
   "english": "None",
   "etymology": {
     "type": "variant form",
-    "description": "𠧪 is a variant form of 卣(卣) (yǒu, \"a kind of wine vessel\") -> pictogram with 土(earth) in bronze inscriptions, later changed to 仌 in seal script -> unrelated to 鹵(鹵) (lǔ, \"bag of salt\")",
-    "interpretation": "𠧪 is an ancient variant of 卣(卣), which depicts a type of vessel for holding wine. This character evolved over time, with the enclosed component changing from 土 to 仌 in different script styles.",
+    "description": "𠧪 is a variant form of 卣 (yǒu, 'a type of ancient vessel') -> used interchangeably with 卣",
+    "interpretation": "The character 𠧪 is an alternative form of 卣, an ancient Chinese wine or liquids container, used in rituals. Although it shows similar structure to other vessel characters, it does not hold distinct meaning beyond its variant function.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,7 @@
       "char": "卣",
       "trad": "卣",
       "pinyin": "yǒu",
-      "english": "a kind of wine vessel"
-    },
-    {
-      "char": "仌",
-      "trad": "仌",
-      "pinyin": "bīng",
-      "english": "original script component"
-    },
-    {
-      "char": "土",
-      "trad": "土",
-      "pinyin": "tǔ",
-      "english": "earth"
+      "english": "a type of ancient vessel"
     }
   ],
   "in_contemporary_usage": false,

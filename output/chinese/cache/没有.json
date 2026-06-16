@@ -5,8 +5,8 @@
   "english": "not have; there is not",
   "etymology": {
     "type": "compound word",
-    "description": "没(沒) (méi, \"not\") + 有(有) (yǒu, \"have\") indicate the absence or lack of something.",
-    "interpretation": "The word 没有(沒有) (méiyǒu) is used to indicate the absence or nonexistence of something, commonly translating to \"not have\" or \"there is not\" in English. It combines the negation 没(沒) with the verb 有(有), to clearly express that something is not present or does not exist.",
+    "description": "没(沒) (méi, \"not\") and 有(有) (yǒu, \"have\") together express the concept of \"not have\" or \"there is not\" by directly negating the notion of possessing or existing.",
+    "interpretation": "沒 (méi) negates the presence or possession suggested by 有 (yǒu, \"have\"). This combination intuitively depicts the absence or non-existence of something that one might otherwise possess or expect to exist.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "有",
       "trad": "有",
       "pinyin": "yǒu",
-      "english": "have"
+      "english": "have; exist"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我没有书(我沒有書)。",
-      "pinyin": "Wǒ méiyǒu shū.",
-      "english": "I don't have a book."
+      "chinese": "今天没有会议(今天沒有會議)。",
+      "pinyin": "Jīntiān méiyǒu huìyì.",
+      "english": "There is no meeting today."
     },
     {
-      "chinese": "他没有时间(他沒有時間)，所以不能参加(所以不能參加)。",
-      "pinyin": "Tā méiyǒu shíjiān, suǒyǐ bù néng cānjiā.",
-      "english": "He doesn't have time, so he cannot participate."
+      "chinese": "他没有看到那个信号(他沒有看到那個信號)。",
+      "pinyin": "Tā méiyǒu kàndào nàgè xìnhào.",
+      "english": "He did not see that signal."
     },
     {
-      "chinese": "这里没有人(這裡沒有人)。",
-      "pinyin": "Zhèlǐ méiyǒu rén.",
-      "english": "There is no one here."
+      "chinese": "我们没有太多时间(我們沒有太多時間)。",
+      "pinyin": "Wǒmen méiyǒu tài duō shíjiān.",
+      "english": "We don't have much time."
     }
   ]
 }

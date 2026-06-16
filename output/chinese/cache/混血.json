@@ -5,8 +5,8 @@
   "english": "mixed blood",
   "etymology": {
     "type": "compound word",
-    "description": "混(混) (hùn, 'mix') + 血(血) (xuè, 'blood') = mix blood -> mixed blood",
-    "interpretation": "The term 混血(混血) (hùnxuè, 'mixed blood') describes a person of mixed racial or ethnic ancestry. It emphasizes the concept of blending different 'bloodlines' or heritages, highlighting the diversity and combination of different genetic backgrounds.",
+    "description": "混(混) (hùn, \"mix\") and 血(血) (xuè, \"blood\") combine to express the idea of mixed ancestry or heritage, reflecting the literal combination of bloodlines from different ethnic or racial backgrounds.",
+    "interpretation": "混(混) (hùn, 'mix') signifies the blending or combining of elements, while 血(血) (xuè, 'blood') refers to lineage or ancestry. Together, these components vividly illustrate a mixing of different ethnic or racial bloodlines, hence the concept of 'mixed blood'. The transition from a literal blend of blood to a metaphor for lineages originates from seeing blood as the carrier of genetic heritage and identity, establishing the term's meaning in the context of diverse ancestry.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "血",
       "trad": "血",
       "pinyin": "xuè",
-      "english": "blood; bloodline; lineage"
+      "english": "blood; lineage; vital fluid"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他拥有混血的魅力(他擁有混血的魅力)。",
-      "pinyin": "Tā yǒngyǒu hùnxuè de mèilì.",
-      "english": "He has the charm of mixed blood."
+      "chinese": "她是美国和日本的混血(混血)。",
+      "pinyin": "Tā shì Měiguó hé Rìběn de hùnxuè.",
+      "english": "She is of American and Japanese mixed blood."
     },
     {
-      "chinese": "他的长相别具一格(他的長相別具一格)，因为他是混血(因爲他是混血)。",
-      "pinyin": "Tā de zhǎngxiàng biéjù yīgé, yīnwèi tā shì hùnxuè.",
-      "english": "His appearance is unique because he is of mixed blood."
+      "chinese": "这个城市有很多混血儿(這個城市有很多混血兒)。",
+      "pinyin": "Zhège chéngshì yǒu hěn duō hùnxuè ér.",
+      "english": "This city has many mixed-blood children."
     },
     {
-      "chinese": "她在众人中脱颖而出(她在眾人中脫穎而出)，混血赋予了她异国风情(混血賦予了她異國風情)。",
-      "pinyin": "Tā zài zhòngrén zhōng tuōyǐng ér chū, hùnxuè fùyǔ le tā yìguó fēngqíng.",
-      "english": "She stands out among the crowd; her mixed blood gives her an exotic charm."
+      "chinese": "他的父亲是中国人，而母亲是法国混血(他的父親是中國人，而母親是法國混血)。",
+      "pinyin": "Tā de fùqīn shì Zhōngguó rén, ér mǔqīn shì Fǎguó hùnxuè.",
+      "english": "His father is Chinese, and his mother is of French mixed blood."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "untie",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "角(角) (jiǎo, \"horn\") + 刀(刀) (dāo, \"knife\") + 牛(牛) (niú, \"cow\") = a knife separates a horn from a cow -> cut up (an ox)",
-    "interpretation": "The character 解(解) (jiě, \"untie\") visually represents the process of using a knife to separate a horn from a cow, symbolizing the action of disassembling or untieing. This etymological composition effectively conveys the concept of separating or freeing an item, resonating with its core meaning 'untie.'",
+    "description": "角(角) (jiǎo, \"horn\") + 刀(刀) (dāo, \"knife\") + 牛(牛) (niú, \"cow\") -> a knife separates a horn from a cow -> cut up an ox",
+    "interpretation": "The character 解(解) (jiě, \"untie\") combines 角(角) (jiǎo, \"horn\"), 刀(刀) (dāo, \"knife\"), and 牛(牛) (niú, \"cow\") to illustrate the action of cutting a horn off a cow. This imagery suggests the act of separating or dismantling, leading to the sense of 'to untie' or 'to disassemble.'",
     "simplification": ""
   },
   "parts": [
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他试着解开绳子(他試著解開繩子)。",
-      "pinyin": "Tā shìzhe jiěkāi shéngzi.",
-      "english": "He tried to untie the rope."
+      "chinese": "他需要解开这个复杂的结(他需要解開這個複雜的結)。",
+      "pinyin": "Tā xūyào jiěkāi zhège fùzá de jié.",
+      "english": "He needs to untie this complex knot."
     },
     {
-      "chinese": "问题最终被顺利解决(問題最終被順利解決)。",
-      "pinyin": "Wèntí zuìzhōng bèi shùnlì jiějué.",
-      "english": "The problem was ultimately resolved smoothly."
+      "chinese": "我们应该找到解决问题的方法(我們應該找到解決問題的方法)。",
+      "pinyin": "Wǒmen yīnggāi zhǎodào jiějué wèntí de fāngfǎ.",
+      "english": "We should find a way to solve the problem."
     },
     {
-      "chinese": "他们努力解读古代文字(他們努力解讀古代文字)。",
-      "pinyin": "Tāmen nǔlì jiědú gǔdài wénzì.",
-      "english": "They are making efforts to decipher the ancient script."
+      "chinese": "他终于解出了这个难题(他終於解出了這個難題)。",
+      "pinyin": "Tā zhōngyú jiěchūle zhège nántí.",
+      "english": "He finally untied the difficult puzzle."
     }
   ]
 }

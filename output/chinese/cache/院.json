@@ -5,8 +5,8 @@
   "english": "courtyard; institution",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "阝(阝) (fù, 'mound') as semantic indicator, suggesting an enclosed space, + 完(完) (wán, 'finish') as phonetic component -> courtyard or institution",
-    "interpretation": "The combination of an enclosure or area marked by 阝(阝) (fù, 'mound') and the phonetic 完(完) (wán, 'finish') conveys the idea of a contained, completed area, such as a courtyard or institution.",
+    "description": "semantic 阝(阝) (fù, \"hill; mound\") + phonetic 完(完) (wán, \"complete\") -> courtyard",
+    "interpretation": "The character 院(yuàn, \"courtyard; institution\") is formed by the semantic component 阝(阝) (fù, \"hill; mound\"), suggesting an enclosed or defined space, combined with the phonetic component 完(完) (wán, \"complete\"), contributing the sound. The idea of a 'courtyard' as a defined, enclosed space aligns with the semantic implication of 阝(阝). In extended use, the character refers to institutions, which are also defined spaces pertaining to specific functions.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "阝",
       "trad": "阝",
       "pinyin": "fù",
-      "english": "mound"
+      "english": "hill; mound"
     },
     {
       "char": "完",
       "trad": "完",
       "pinyin": "wán",
-      "english": "finish"
+      "english": "complete"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他走进院(他走進院)，眺望院外风景(眺望院外風景)。",
-      "pinyin": "Tā zǒu jìn yuàn, tiào wàng yuàn wài fēng jǐng.",
-      "english": "He walks into the courtyard and gazes at the scenery outside."
+      "chinese": "我们在医院对面吃饭(我們在醫院對面吃飯)。",
+      "pinyin": "Wǒmen zài yīyuàn duìmiàn chīfàn.",
+      "english": "We are eating opposite the hospital."
     },
     {
-      "chinese": "书院承载着古人的智慧(書院承載著古人的智慧)。",
-      "pinyin": "Shūyuàn chéngzài zhe gǔrén de zhìhuì.",
-      "english": "The academy embodies the wisdom of the ancients."
+      "chinese": "学校的院子里有很多花(學校的院子裡有很多花)。",
+      "pinyin": "Xuéxiào de yuànzi lǐ yǒu hěn duō huā.",
+      "english": "There are many flowers in the school's courtyard."
     },
     {
-      "chinese": "他在剧院(他在劇院)，欣赏精彩的表演(欣賞精彩的表演)。",
-      "pinyin": "Tā zài jùyuàn, xīnshǎng jīngcǎi de biǎoyǎn.",
-      "english": "He enjoys a splendid performance at the theater."
+      "chinese": "这家研究院专注于环保技术(這家研究院專注於環保技術)。",
+      "pinyin": "Zhè jiā yánjiūyuàn zhuānzhù yú huánbǎo jìshù.",
+      "english": "This research institute focuses on environmental technology."
     }
   ]
 }

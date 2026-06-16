@@ -5,8 +5,8 @@
   "english": "investigate; check; examine; research",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "原 木 (semantic, 'wood') + 且 (phonetic) -> stylized 旦 -> 查",
-    "interpretation": "The character 查 (chá, 'investigate') is composed of 木(木) (mù, 'wood') serving as the semantic component, paired with 且(qiě, 'moreover') as the phonetic component. Over time, the lower part was stylized as 旦(dàn, 'dawn'), losing its original depiction. It initially referred to the Chinese hawthorn tree or a wooden raft, reflecting its roots in wooden imagery.",
+    "description": "Originally written as 査: semantic 木(木) (mù, \"wood\") + phonetic 且(且) (qiě); bottom part stylized as 旦(旦) (dàn) for modern form",
+    "interpretation": "The character 查 originally denoted 'Chinese hawthorn' and 'wooden raft,' reflecting its semantic connection to 木(木) (mù, \"wood\"). As a phono-semantic compound, the phonetic component 且(且) (qiě) supplies the pronunciation while the wood radical conveys its relation to wooden objects. The current meaning of 'investigate; check; examine; research' extends from the idea of examining wood or tools, as checking was associated with handling or inspecting wooden materials.",
     "simplification": ""
   },
   "parts": [
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师查作业(老師查作業)。",
-      "pinyin": "Lǎoshī chá zuòyè.",
-      "english": "The teacher is checking the assignments."
+      "chinese": "警察正在查一个案件(警察正在查一個案件)。",
+      "pinyin": "Jǐngchá zhèngzài chá yī gè ànjiàn.",
+      "english": "The police are investigating a case."
     },
     {
-      "chinese": "警察查现场证据(警察查現場證據)，以便破案(以便破案)。",
-      "pinyin": "Jǐngchá chá xiànchǎng zhèngjù, yǐbiàn pò'àn.",
-      "english": "The police investigate evidence at the scene in order to solve the case."
+      "chinese": "我需要查一下这个单词的意思(我需要查一下這個單詞的意思)。",
+      "pinyin": "Wǒ xūyào chá yīxià zhège dāncí de yìsi.",
+      "english": "I need to check the meaning of this word."
     },
     {
-      "chinese": "医生查体检报告(醫生查體檢報告)，确定治疗方案(確定治療方案)。",
-      "pinyin": "Yīshēng chá tǐjiǎn bàogào, quèdìng zhìliáo fāng'àn.",
-      "english": "The doctor examines the physical report and determines the treatment plan."
+      "chinese": "请帮我查查今天的天气预报(請幫我查查今天的天氣預報)。",
+      "pinyin": "Qǐng bāng wǒ chá chá jīntiān de tiānqì yùbào.",
+      "english": "Please help me check today's weather forecast."
     }
   ]
 }

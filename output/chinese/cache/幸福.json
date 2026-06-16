@@ -5,8 +5,8 @@
   "english": "happiness; blessed; lucky",
   "etymology": {
     "type": "compound word",
-    "description": "幸(幸) (xìng, \"fortunate; lucky\") + 福(福) (fú, \"blessing; good fortune\") = being fortunate and blessed, which leads to happiness.",
-    "interpretation": "The combination of being fortunate 幸(幸) (xìng) and having good fortune 福(福) (fú) perfectly captures the idea of happiness and feeling blessed. It suggests a state where favorable conditions and blessings lead to one feeling truly content and lucky.",
+    "description": "The word 幸福 (幸福) (xìngfú, \"happiness; blessed; lucky\") combines two characters: 幸 (幸) (xìng, \"fortunate; lucky\") and 福 (福) (fú, \"blessing; happiness\").",
+    "interpretation": "幸 (幸) (xìng, \"fortunate; lucky\") implies circumstances perceived as favorable and auspicious. 福 (福) (fú, \"blessing; happiness\") signifies a state of being bestowed with fortune and favorable conditions, often linked to spiritual or divine grace. Together, 幸 (幸) and 福 (福) denote a condition of being both fortunate and blessed, thus capturing the essence of complete happiness or blessedness. The transition from fortune and blessing to overall happiness is intuitive: one feels happy when circumstances are seen as both favorable and blessed. This reflects a traditional conception where external fortune and spiritual blessings combine to create a state of contentment and joy.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "幸",
       "trad": "幸",
       "pinyin": "xìng",
-      "english": "fortunate; lucky"
+      "english": "fortunate; lucky; happiness; blessing"
     },
     {
       "char": "福",
       "trad": "福",
       "pinyin": "fú",
-      "english": "blessing; good fortune"
+      "english": "blessing; happiness; good fortune; luck"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我追求幸福(我追求幸福)。",
-      "pinyin": "Wǒ zhuīqiú xìngfú.",
-      "english": "I pursue happiness."
+      "chinese": "拥有一个健康的家庭是最大的幸福(擁有一個健康的家庭是最大的幸福)。",
+      "pinyin": "Yǒngyǒu yí gè jiànkāng de jiātíng shì zuì dà de xìngfú.",
+      "english": "Having a healthy family is the greatest happiness."
     },
     {
-      "chinese": "家庭团聚带来幸福(家庭團聚帶來幸福)，满心喜悦溢于言表(滿心喜悅溢於言表)。",
-      "pinyin": "Jiātíng tuánjù dàilái xìngfú, mǎnxīn xǐyuè yì yú yánbiǎo.",
-      "english": "Family reunions bring happiness, and the joy is evident."
+      "chinese": "他觉得自己很幸福(他覺得自己很幸福)，因为有很多好朋友(因為有很多好朋友)。",
+      "pinyin": "Tā juéde zìjǐ hěn xìngfú, yīnwèi yǒu hěnduō hǎo péngyǒu.",
+      "english": "He feels very happy because he has many good friends."
+    },
+    {
+      "chinese": "看到孩子们快乐的笑容让我感到幸福(看到孩子們快樂的笑容讓我感到幸福)。",
+      "pinyin": "Kàndào háizimen kuàilè de xiàoróng ràng wǒ gǎndào xìngfú.",
+      "english": "Seeing the children's happy smiles makes me feel blessed."
     }
   ]
 }

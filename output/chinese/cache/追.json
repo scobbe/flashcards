@@ -5,40 +5,40 @@
   "english": "pursue",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "辶(辶) (chuò, \"movement\") + 𠂤(𠂤) (duī) = moving after -> pursuit",
-    "interpretation": "The character 追(zhuī, \"pursue\") combines the semantic element 辶(辶) (chuò, \"movement\"), which implies motion or path, with the phonetic component 𠂤(𠂤) (duī), indicating sound. This composition conveys the idea of following or chasing after something.",
+    "description": "semantic 辶(辵) (chuò, \"walk; movement\") + phonetic 𠂤(𠂤) (duī) -> movement after something -> pursue",
+    "interpretation": "The character 追(zhuī, \"pursue\") combines the semantic element 辶(辵) (chuò, \"walk; movement\") representing motion, with the phonetic 𠂤(𠂤) which provides the sound. The combination implies the idea of moving after something, which logically extends to the sense of pursuing or chasing.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "辶",
-      "trad": "辶",
+      "char": "辵",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "movement"
+      "english": "walk; movement"
     },
     {
       "char": "𠂤",
       "trad": "𠂤",
       "pinyin": "duī",
-      "english": ""
+      "english": "pile"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他追梦想(他追夢想)。",
-      "pinyin": "Tā zhuī mèngxiǎng.",
-      "english": "He chases his dreams."
+      "chinese": "他决定追求自己的梦想(他決定追求自己的夢想)。",
+      "pinyin": "Tā juédìng zhuīqiú zìjǐ de mèngxiǎng.",
+      "english": "He decided to pursue his dreams."
     },
     {
-      "chinese": "警察追嫌犯(警察追嫌犯)，最终将其捉拿归案(最終將其捉拿歸案)。",
-      "pinyin": "Jǐngchá zhuī xiánfàn, zuìzhōng jiāng qí zhuōná guī àn.",
-      "english": "The police pursued the suspect, eventually apprehending him."
+      "chinese": "小狗在花园里追着蝴蝶(小狗在花園裡追著蝴蝶)。",
+      "pinyin": "Xiǎo gǒu zài huāyuán lǐ zhuīzhe húdié.",
+      "english": "The puppy is chasing butterflies in the garden."
     },
     {
-      "chinese": "猎人追野鹿(獵人追野鹿)，希望获得食物(希望獲得食物)。",
-      "pinyin": "Lièrén zhuī yělù, xīwàng huòdé shíwù.",
-      "english": "The hunter chased the wild deer, hoping to obtain food."
+      "chinese": "我正在追逐更好的生活(我正在追逐更好的生活)。",
+      "pinyin": "Wǒ zhèngzài zhuīzhú gèng hǎo de shēnghuó.",
+      "english": "I am pursuing a better life."
     }
   ]
 }

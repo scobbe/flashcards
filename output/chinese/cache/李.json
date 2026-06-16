@@ -5,41 +5,40 @@
   "english": "a common Chinese surname",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 來(來) (lái, 'wheat') + Semantic: 子(子) (zǐ, 'child') -> 木(木) (mù, 'tree') emerged corrupting 来 -> 李(李, 'plum tree')",
-    "interpretation": "Originally, 李(李) combined 來(來) and 子(子) to form the character. Over time, the phonetic component resembled 木(木), giving 李 its association with 'plum tree,' and evolving into a common surname.",
+    "description": "phonetic 來 (lái, originally representing 'wheat') became corrupted to 木 (mù, 'tree') + semantic 子 (zǐ, 'child') -> 李",
+    "interpretation": "Originally a phono-semantic compound with 來 (lái, originally 'wheat') providing sound and 子 (zǐ, 'child') lending meaning. Over time, 來 was corrupted to 木 (mù, 'tree'), suggesting a 'plum tree', which is also associated with the surname Li, well-known in Chinese culture.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "來",
-      "trad": "來",
-      "pinyin": "lái",
-      "english": "wheat"
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
     },
     {
       "char": "子",
       "trad": "子",
       "pinyin": "zǐ",
       "english": "child"
-    },
-    {
-      "char": "木",
-      "trad": "木",
-      "pinyin": "mù",
-      "english": "tree"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "李姓在中国很常见(李姓在中國很常見)。",
-      "pinyin": "Lǐ xìng zài Zhōngguó hěn chángjiàn.",
-      "english": "The surname Li is very common in China."
+      "chinese": "李老师是我们的数学老师(李老師是我們的數學老師)。",
+      "pinyin": "Lǐ lǎoshī shì wǒmen de shùxué lǎoshī.",
+      "english": "Mr. Li is our math teacher."
     },
     {
-      "chinese": "我在学校认识了李老师(我在學校認識了李老師)，她非常慈祥(她非常慈祥)。",
-      "pinyin": "Wǒ zài xuéxiào rènshi le Lǐ lǎoshī, tā fēicháng cíxiáng.",
-      "english": "I met Teacher Li at school, and she is very kind."
+      "chinese": "李先生邀请我们去他的茶馆(李先生邀請我們去他的茶館)。",
+      "pinyin": "Lǐ xiānshēng yāoqǐng wǒmen qù tā de cháguǎn.",
+      "english": "Mr. Li invited us to his tea house."
+    },
+    {
+      "chinese": "我常常和李小姐去公园散步(我常常和李小姐去公園散步)。",
+      "pinyin": "Wǒ chángcháng hé Lǐ xiǎojiě qù gōngyuán sànbù.",
+      "english": "I often go for walks in the park with Miss Li."
     }
   ]
 }

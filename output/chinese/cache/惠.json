@@ -4,17 +4,17 @@
   "pinyin": "huì",
   "english": "kind",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic: 叀(叀) -> Originally written as 叀; Semantic: 心(心)",
-    "interpretation": "The character 惠(惠) (huì, 'kind') combines 叀(叀) for its phonetic value with 心(心) (xīn, 'heart') to suggest the idea of kindness or benevolence, indicating an expression of heartfelt actions.",
-    "simplification": "惠(惠) was simplified to 恵(惠) by changing 叀(叀) to 𤰔 for a more streamlined form."
+    "type": "ideogrammic compound and phono-semantic compound",
+    "description": "phonetic 叀 (original form) + semantic 心 (heart) -> 惠",
+    "interpretation": "惠 evolved from 叀 (original form) with the addition of 心 (heart) to signify kindness or benevolence. The heart component introduces the idea of sincere feelings, which naturally leads to the concept of kindness.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "叀",
       "trad": "叀",
       "pinyin": "zhuān",
-      "english": "original component"
+      "english": "original form"
     },
     {
       "char": "心",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "政府推出了惠民政策(政府推出了惠民政策)，改善了老百姓的生活(改善了老百姓的生活)。",
-      "pinyin": "Zhèngfǔ tuīchū le huìmín zhèngcè, gǎishàn le lǎobǎixìng de shēnghuó.",
-      "english": "The government introduced benefit policies, improving the lives of the people."
+      "chinese": "他是一个非常善良和热情的人(他是一個非常善良和熱情的人)。",
+      "pinyin": "Tā shì yī gè fēicháng shànliáng hé rèqíng de rén.",
+      "english": "He is a very kind and warm-hearted person."
     },
     {
-      "chinese": "她以慈惠之心帮助邻居(她以慈惠之心幫助鄰居)。",
-      "pinyin": "Tā yǐ cí huì zhī xīn bāngzhù línjū.",
-      "english": "She helps her neighbors with a kind heart."
+      "chinese": "她的微笑总是给人一种温暖和宽慰的感觉(她的微笑總是給人一種溫暖和寬慰的感覺)。",
+      "pinyin": "Tā de wēixiào zǒng shì gěi rén yī zhǒng wēnnuǎn hé kuānwèi de gǎnjué.",
+      "english": "Her smile always gives people a feeling of warmth and comfort."
     },
     {
-      "chinese": "他的行为充满了惠意(他的行為充滿了惠意)。",
-      "pinyin": "Tā de xíngwéi chōngmǎn le huì yì.",
-      "english": "His actions are filled with kindness."
+      "chinese": "他对待朋友总是非常慷慨和惠(他對待朋友總是非常慷慨和惠)。",
+      "pinyin": "Tā duìdài péngyǒu zǒng shì fēicháng kāngkǎi hé huì.",
+      "english": "He is always very generous and kind towards his friends."
     }
   ]
 }

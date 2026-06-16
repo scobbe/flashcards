@@ -1,0 +1,44 @@
+{
+  "simplified": "紀",
+  "traditional": "紀",
+  "pinyin": "jì",
+  "english": "record",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 糸(糸) (mì, 'silk; thread') + phonetic 己(己) (jǐ) -> record",
+    "interpretation": "The character combines 糸(糸) (mì, 'silk; thread') indicating threads or lines, with 己(己) (jǐ) as the phonetic component. In this context, 'thread' aligns with 'record' in the sense of a sequence or line of events documented over time.",
+    "simplification": "The traditional form 紀 with 糸(糸) (mì, 'silk; thread') replaced by the simpler 纟(纟) in the simplified form 纪."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "self"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这本书详细记录了历史事件(這本書詳細記錄了歷史事件)。",
+      "pinyin": "Zhè běn shū xiángxì jìlù le lìshǐ shìjiàn.",
+      "english": "This book records historical events in detail."
+    },
+    {
+      "chinese": "古代人通过文字来纪念重要事情(古代人通過文字來紀念重要事情)。",
+      "pinyin": "Gǔdài rén tōngguò wénzì lái jìniàn zhòngyào shìqíng.",
+      "english": "Ancient people recorded important events through writing."
+    },
+    {
+      "chinese": "公司在年底会发布年度报告来记录发展情况(公司在年底會發佈年度報告來記錄發展情況)。",
+      "pinyin": "Gōngsī zài niándǐ huì fābù niándù bàogào lái jìlù fāzhǎn qíngkuàng.",
+      "english": "The company will release an annual report at the end of the year to record development status."
+    }
+  ]
+}

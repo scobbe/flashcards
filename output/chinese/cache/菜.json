@@ -5,8 +5,8 @@
   "english": "vegetable; dish; cuisine; greens",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 采(采) (cǎi, \"pluck\") = concept of plants gathered for consumption -> vegetable; dish",
-    "interpretation": "The character 菜(cài) conveys the idea of plants that are gathered, emphasizing the connection between agriculture and cuisine. The 艹(艹) component implies vegetation, while 采(采) provides the phonetic cue and ties to the action of picking or collecting.",
+    "description": "semantic 艹 (meaning 'grass; plant') + phonetic 采 (sound) -> meaning",
+    "interpretation": "The character 菜 (cài, 'vegetable; dish; cuisine; greens') combines the semantic 艹, representing plant life or vegetation, with 采 (cǎi), which provides the phonetic element. The semantic 艹 indicates that the meanings are related to plants or vegetation, while the phonetic 采 contributes to the character's pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这道菜很美味(這道菜很美味)。",
-      "pinyin": "Zhè dào cài hěn měiwèi.",
-      "english": "This dish is very delicious."
+      "chinese": "每道菜都有独特的风味(每道菜都有獨特的風味)。",
+      "pinyin": "Měi dào cài dōu yǒu dútè de fēngwèi.",
+      "english": "Every dish has a unique flavor."
     },
     {
-      "chinese": "他擅长烹饪(他擅長烹飪)，创新菜式不断涌现(創新菜式不斷湧現)。",
-      "pinyin": "Tā shàncháng pēngrèn, chuàngxīn càishì bùduàn yǒngxiàn.",
-      "english": "He excels at cooking, and innovative dishes keep emerging."
+      "chinese": "我喜欢吃绿色的蔬菜(我喜歡吃綠色的蔬菜)，因为它们对健康有益(因為它們對健康有益)。",
+      "pinyin": "Wǒ xǐhuān chī lǜsè de shūcài, yīnwèi tāmen duì jiànkāng yǒuyì.",
+      "english": "I like eating green vegetables because they are good for health."
     },
     {
-      "chinese": "街边小摊的菜色丰富(街邊小攤的菜色豐富)。",
-      "pinyin": "Jiēbiān xiǎotān de càisè fēngfù.",
-      "english": "The street vendor's variety of dishes is abundant."
+      "chinese": "中餐有很多不同的菜色(中餐有很多不同的菜色)，从辣到甜都有(從辣到甜都有)。",
+      "pinyin": "Zhōngcān yǒu hěn duō bùtóng de càisè, cóng là dào tián dōu yǒu.",
+      "english": "Chinese cuisine has many different dishes, ranging from spicy to sweet."
     }
   ]
 }

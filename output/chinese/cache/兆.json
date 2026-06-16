@@ -5,29 +5,27 @@
   "english": "omen",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 禺(禺) (yú, \"ape\") escaping from a flood -> borrowed phonetically for \"omen\"",
-    "interpretation": "The character originally depicted an ape escaping from a flood, relating to the meaning of escape. Over time, it was borrowed to mean \"omen\" due to phonetic similarities. This illustrates how historical uses of characters can evolve into vastly different meanings.",
+    "description": "Depicts a person escaping from a flood -> original form of 逃(逃) (táo, \"escape\") -> later phonetically borrowed for \"omen\"",
+    "interpretation": "Originally depicted a person fleeing from a flood, symbolizing escape. This imagery was later phonetically borrowed to represent the concept of an 'omen' due to the character's pronunciation resembling words for 'omen' in early Chinese.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "禺",
-      "trad": "禺",
-      "pinyin": "yú",
-      "english": "ape"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "大雪纷飞可能是吉兆(大雪紛飛可能是吉兆)。",
-      "pinyin": "Dà xuě fēn fēi kě néng shì jí zhào.",
-      "english": "Heavy snowfall may be a good omen."
+      "chinese": "乌云密布是暴风雨的兆(烏雲密布是暴風雨的兆)。",
+      "pinyin": "Wūyún mìbù shì bàofēngyǔ de zhào.",
+      "english": "Dark clouds are an omen of a storm."
     },
     {
-      "chinese": "有人预言凶兆将至(有人預言兇兆將至)，我们应当警惕(我們應當警惕)。",
-      "pinyin": "Yǒurén yùyán xiōng zhào jiāng zhì, wǒmen yīngdāng jǐngtì.",
-      "english": "Someone predicted that a bad omen is coming, so we should be alert."
+      "chinese": "他梦见一条蛇，这可能是一个不好的兆(他夢見一條蛇，這可能是一個不好的兆)。",
+      "pinyin": "Tā mèngjiàn yī tiáo shé, zhè kěnéng shì yīgè bù hǎo de zhào.",
+      "english": "He dreamed of a snake, which could be a bad omen."
+    },
+    {
+      "chinese": "星星突然闪烁，被古人视为兆(星星突然閃爍，被古人視為兆)。",
+      "pinyin": "Xīngxīng tūrán shǎnshuò, bèi gǔrén shì wéi zhào.",
+      "english": "Sudden twinkling of stars was regarded as an omen by ancient people."
     }
   ]
 }

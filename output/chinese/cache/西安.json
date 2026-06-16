@@ -5,8 +5,8 @@
   "english": "Xi’an city; capital of Shaanxi Province",
   "etymology": {
     "type": "compound word",
-    "description": "西(西) (xī, \"west\") + 安(安) (ān, \"peace\") = Xi’an is historically the western gateway to China and has been a peaceful and significant cultural hub.",
-    "interpretation": "The name Xi’an reflects its historical position as a western capital and symbol of peace in China. The city has a long history of serving as a capital for several Chinese dynasties and is known for its cultural and historical significance, such as being the starting point of the Silk Road.",
+    "description": "西(西) (xī, \"west\") + 安(安) (ān, \"peace\") = Xi'an, a historical city in western China known for being a peaceful and important ancient capital.",
+    "interpretation": "西(西) (xī, \"west\") indicates the geographic location in western China. 安(安) (ān, \"peace\") traditionally signifies tranquility and stability. Combining these, 西安 suggests a place known for its peacefulness in the west. The name reflects the city's historical status as a key capital in China's west, where it was a center of political stability and cultural development.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "西",
       "trad": "西",
       "pinyin": "xī",
-      "english": "west"
+      "english": "west; western"
     },
     {
       "char": "安",
       "trad": "安",
       "pinyin": "ān",
-      "english": "peace; peaceful; calm; safe"
+      "english": "peace; safe; calm; tranquil"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我打算今年去西安(西安)。",
-      "pinyin": "Wǒ dǎsuàn jīnnián qù Xī’ān.",
-      "english": "I plan to visit Xi’an this year."
+      "chinese": "西安是一个历史悠久的城市(西安是一個歷史悠久的城市)。",
+      "pinyin": "Xī’ān shì yīgè lìshǐ yōujiǔ de chéngshì.",
+      "english": "Xi'an is a city with a long history."
     },
     {
-      "chinese": "老师说西安(西安)，是一个历史名城(歷史名城)。",
-      "pinyin": "Lǎoshī shuō Xī’ān, shì yīgè lìshǐ míngchéng.",
-      "english": "The teacher said that Xi’an is a historic city."
+      "chinese": "我计划明年去西安旅行(我計劃明年去西安旅行)。",
+      "pinyin": "Wǒ jìhuà míngnián qù Xī’ān lǚxíng.",
+      "english": "I plan to travel to Xi'an next year."
     },
     {
-      "chinese": "我们参观了西安(西安)，体会古城魅力(體會古城魅力)。",
-      "pinyin": "Wǒmen cānguānle Xī’ān, tǐhuì gǔchéng mèilì.",
-      "english": "We visited Xi’an and experienced the charm of the ancient city."
+      "chinese": "西安的兵马俑非常有名(西安的兵馬俑非常有名)。",
+      "pinyin": "Xī’ān de bīngmǎyǒng fēicháng yǒumíng.",
+      "english": "The Terracotta Warriors of Xi'an are very famous."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "surname Yang",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree\") + phonetic: 昜(昜) (yáng) = tree -> poplar tree, surname",
-    "interpretation": "杨(楊) (yáng) combines 木(木) (mù, \"tree\") as the semantic component indicating something related to wood or trees, with 昜(昜) (yáng), which provides the phonetic component suggesting the pronunciation. This character refers to the poplar tree and is also a common Chinese surname.",
-    "simplification": "杨(楊): The character component 鱼(魚) (yú, \"fish\") was removed in the simplified form, keeping 木(木, \"tree\") and 昜(昜, \"yáng\") for phonetic representation."
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 昜(昜) (yáng) -> a kind of tree",
+    "interpretation": "The character 楊(楊) (yáng, \"surname Yang\") contains the semantic component 木(木) (mù, \"tree\"), indicating its relation to trees or wood, and the phonetic component 昜(昜) (yáng), contributing the pronunciation. It originally represented a type of tree, later used as a surname.",
+    "simplification": "楊(楊) was simplified to 杨(楊) by replacing the complex tree radical 木(木) (mù, \"tree\") in 昜(昜) (yáng) with the simplified 氵(水) (shuǐ, \"water\") radical for ease of writing."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "昜",
       "trad": "昜",
       "pinyin": "yáng",
-      "english": "part of the phonetic element"
+      "english": "to scatter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "王与杨为好朋友(王與楊為好朋友)。",
-      "pinyin": "Wáng yǔ Yáng wéi hǎo péngyǒu.",
-      "english": "Wang and Yang are good friends."
+      "chinese": "杨先生是我的老师(楊先生是我的老師)。",
+      "pinyin": "Yáng xiānshēng shì wǒ de lǎoshī.",
+      "english": "Mr. Yang is my teacher."
     },
     {
-      "chinese": "杨先生来访(楊先生來訪)，带来礼物(帶來禮物)。",
-      "pinyin": "Yáng xiānshēng láifǎng, dài lái lǐwù.",
-      "english": "Mr. Yang visited and brought gifts."
+      "chinese": "杨树在春天开满了白花(楊樹在春天開滿了白花)。",
+      "pinyin": "Yáng shù zài chūntiān kāi mǎn le báihuā.",
+      "english": "Poplar trees bloom with white flowers in spring."
+    },
+    {
+      "chinese": "他的朋友姓杨(他的朋友姓楊)，住在上海(住在上海)。",
+      "pinyin": "Tā de péngyǒu xìng Yáng，zhù zài Shànghǎi.",
+      "english": "His friend's surname is Yang and he lives in Shanghai."
     }
   ]
 }

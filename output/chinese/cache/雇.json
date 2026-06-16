@@ -5,8 +5,8 @@
   "english": "hire",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 戶(戶) (hù, \"door\") + semantic 隹(隹) (zhuī, \"bird\")",
-    "interpretation": "The character 雇 (gù, \"hire\") combines 戶(戶) (hù, \"door\") as a phonetic component with 隹(隹) (zhuī, \"bird\") as a semantic component, suggesting a context involving movement or transition, akin to employment or hiring.",
+    "description": "phonetic 戶(戶) (hù) + semantic 隹(隹) (zhuī, \"short-tailed bird\") -> hire",
+    "interpretation": "The character 雇(gù, \"hire\") uses 戶(戶) (hù, \"door\") phonetically to contribute the sound, while 隹(隹) (zhuī, \"short-tailed bird\") suggests oversight or vigilance, as in managing or overseeing hired services.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "隹",
       "trad": "隹",
       "pinyin": "zhuī",
-      "english": "bird"
+      "english": "short-tailed bird"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公司决定雇一些新员工(公司決定雇一些新員工)。",
-      "pinyin": "Gōngsī juédìng gù yīxiē xīn yuángōng.",
-      "english": "The company decided to hire some new employees."
+      "chinese": "公司决定雇一名新员工(公司決定雇一名新員工)。",
+      "pinyin": "Gōngsī juédìng gù yī míng xīn yuángōng.",
+      "english": "The company decided to hire a new employee."
     },
     {
-      "chinese": "他们打算雇一位专业律师(他們打算雇一位專業律師)。",
-      "pinyin": "Tāmen dǎsuàn gù yī wèi zhuānyè lǜshī.",
-      "english": "They plan to hire a professional lawyer."
+      "chinese": "他打算雇一个私人教练(他打算雇一個私人教練)。",
+      "pinyin": "Tā dǎsuàn gù yī gè sīrén jiàoliàn.",
+      "english": "He plans to hire a personal trainer."
     },
     {
-      "chinese": "老板正在考虑雇更多的兼职工人(老闆正在考慮雇更多的兼職工人)。",
-      "pinyin": "Lǎobǎn zhèngzài kǎolǜ gù gèng duō de jiānzhí gōngrén.",
-      "english": "The boss is considering hiring more part-time workers."
+      "chinese": "他们为了项目的进展(他們為了項目的進展)，决定雇几个专家(決定雇幾個專家)。",
+      "pinyin": "Tāmen wèile xiàngmù de jìnzhǎn, juédìng gù jǐ gè zhuānjiā.",
+      "english": "To advance the project, they decided to hire several experts."
     }
   ]
 }

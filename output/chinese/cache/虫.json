@@ -5,9 +5,9 @@
   "english": "insect",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "虫(蟲) (chóng, \"insect\") triplicated -> represents various insects",
-    "interpretation": "The traditional character 蟲 (chóng) combines three instances of 虫(蟲) (chóng, \"insect\") to convey the sense of a multitude or variety of insects, highlighting the character's association with small, creeping creatures.",
-    "simplification": "虫(蟲) was simplified by using its basic unit 虫 to represent the broader concept of insects collectively, reducing repetition."
+    "description": "虫(虫) (chóng, \"insect\") triplicated = multiple insects/snakes",
+    "interpretation": "The triplication of 虫(虫) (chóng, \"insect\") emphasizes the idea of multiple insects or snakes, conveying the concept of a variety or abundance of such creatures.",
+    "simplification": "In the simplified form, 虫(虫) (chóng, \"insect\") is used as a standalone character to represent the meaning of 'insect' or 'worm,' reducing the complexity of the traditional character 蟲 by using one component."
   },
   "parts": [],
   "in_contemporary_usage": true,
@@ -18,14 +18,14 @@
       "english": "There are many insects in the garden."
     },
     {
-      "chinese": "夏天的夜晚(夏天的夜晚)，虫鸣声很大(蟲鳴聲很大)。",
-      "pinyin": "Xiàtiān de yèwǎn, chóng míng shēng hěn dà.",
-      "english": "On summer nights, the sound of insects is very loud."
+      "chinese": "孩子们喜欢观察虫子的活动(孩子們喜歡觀察蟲子的活動)。",
+      "pinyin": "Háizimen xǐhuān guānchá chóngzi de huódòng.",
+      "english": "Children like to observe the activities of insects."
     },
     {
-      "chinese": "我在树林里(我在樹林裡)，发现了一只稀有的虫(發現了一隻稀有的蟲)。",
-      "pinyin": "Wǒ zài shùlín lǐ, fāxiànle yī zhī xīyǒu de chóng.",
-      "english": "I discovered a rare insect in the forest."
+      "chinese": "这本书介绍了不同种类的虫(這本書介紹了不同種類的蟲)。",
+      "pinyin": "Zhè běn shū jièshào le bùtóng zhǒnglèi de chóng.",
+      "english": "This book introduces different types of insects."
     }
   ]
 }

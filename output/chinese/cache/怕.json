@@ -5,8 +5,8 @@
   "english": "fear; dread; afraid",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "心(心) (xīn, 'heart') + 白(白) (bái, 'white') = heart combined with phonetic indicating sound -> denotes fear or dread",
-    "interpretation": "The character 怕(pà, 'fear; dread') combines the heart radical 心(心) (xīn, 'heart'), symbolizing emotions, with 白(白) (bái, 'white') for phonetic representation. The heart component reflects the emotional experience of fear, while the phonetic component guides its pronunciation.",
+    "description": "semantic 心 (heart) + phonetic 白 (bái) -> fear",
+    "interpretation": "The character 怕 (pà, \"fear\") combines the semantic component 心 (xīn, \"heart\") with the phonetic component 白 (bái). The heart component implies an emotional state or feeling, and when combined with 白, which provides the sound, it suggests the feeling of fear or being afraid. The heart as the center of emotions is intuitively associated with fear.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我怕黑(我怕黑)。",
-      "pinyin": "Wǒ pà hēi.",
-      "english": "I am afraid of the dark."
+      "chinese": "他怕黑(他怕黑)。",
+      "pinyin": "Tā pà hēi.",
+      "english": "He is afraid of the dark."
     },
     {
-      "chinese": "他怕狗(他怕狗)，不敢靠近它(不敢靠近它)。",
-      "pinyin": "Tā pà gǒu, bù gǎn kào jìn tā.",
-      "english": "He is afraid of dogs, and does not dare to approach them."
+      "chinese": "妈妈怕我们饿了(媽媽怕我們餓了)，给我们准备了很多食物(給我們準備了很多食物)。",
+      "pinyin": "Māmā pà wǒmen è le, gěi wǒmen zhǔnbèi le hěn duō shíwù.",
+      "english": "Mom is afraid we might be hungry, so she prepared a lot of food for us."
+    },
+    {
+      "chinese": "小孩子们怕打针(小孩子們怕打針)，所以医生很温柔(所以醫生很溫柔)。",
+      "pinyin": "Xiǎo háizi men pà dǎzhēn, suǒyǐ yīshēng hěn wēnróu.",
+      "english": "Children are afraid of injections, so the doctor is very gentle."
     }
   ]
 }

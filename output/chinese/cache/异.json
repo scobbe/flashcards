@@ -5,35 +5,40 @@
   "english": "different",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 已(已) (yǐ) + Semantic: 廾(廾, \"two hands\") = conveying a sense of holding or presenting something different",
-    "interpretation": "異(异) (yì, \"different\") combines the pronunciation of 已(已) (yǐ) with the idea of 'hands bringing forward or separating' from 廾(廾), suggesting something being brought forth as 'different.'",
-    "simplification": ""
+    "description": "semantic 廾(廾) (gǒng, \"two hands\") + phonetic 已(已) (yǐ) -> different",
+    "interpretation": "Two hands 廾(廾) (gǒng, \"two hands\") suggest the act of giving or handling around, implying variations or multiple possibilities. The phonetic component 已(已) (yǐ) provides the sound 'yì'. Together, they are used to convey the meaning of 'different', as multiple hands can produce different outcomes.",
+    "simplification": "异 is a simplified form in which the components are altered, using 已(已) (yǐ) without the implication of multiple hands 廾(廾)."
   },
   "parts": [
-    {
-      "char": "已",
-      "trad": "已",
-      "pinyin": "yǐ",
-      "english": "already"
-    },
     {
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
       "english": "two hands"
+    },
+    {
+      "char": "已",
+      "trad": "已",
+      "pinyin": "yǐ",
+      "english": "already"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的设计异于常规(他的設計異於常規)，独具匠心(獨具匠心)。",
-      "pinyin": "tā de shèjì yì yú chángguī, dú jù jiàngxīn.",
-      "english": "His design is different from the norm, uniquely ingenious."
+      "chinese": "这个城市的文化异于其他地方(這個城市的文化異於其他地方)。",
+      "pinyin": "Zhège chéngshì de wénhuà yì yú qítā dìfāng.",
+      "english": "The culture of this city is different from other places."
     },
     {
-      "chinese": "这个观点异于传统(這個觀點異於傳統)，引人深思(引人深思)。",
-      "pinyin": "zhè ge guāndiǎn yì yú chuántǒng, yǐn rén shēnsī.",
-      "english": "This viewpoint differs from tradition, provoking deep thought."
+      "chinese": "他的想法总是很异新(他的想法總是很異新)。",
+      "pinyin": "Tā de xiǎngfǎ zǒng shì hěn yì xīn.",
+      "english": "His ideas are always very novel."
+    },
+    {
+      "chinese": "我们对问题的看法异同明显(我們對問題的看法異同明顯)。",
+      "pinyin": "Wǒmen duì wèntí de kànfǎ yìtóng míngxiǎn.",
+      "english": "Our differing views on the issue are obvious."
     }
   ]
 }

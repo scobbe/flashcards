@@ -5,9 +5,9 @@
   "english": "mountain pass",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 山(山) (shān, \"mountain\") + phonetic: 見(见) (xiàn, \"see\") = mountain shape resembling a pass -> mountain pass",
-    "interpretation": "The character 岘(峴) (xiàn, \"mountain pass\") combines 山(山) (shān, \"mountain\") indicating the geographical nature of the character, with 見(见) (xiàn, \"see\") as a phonetic component. This combination conveys the idea of a mountain shape suggesting a pass.",
-    "simplification": "Simplified to 岘(峴) by removing the character elements in 見(见) (xiàn, \"see\") while 山(山) (shān, \"mountain\") remains unchanged."
+    "description": "semantic 山 (mountain) + phonetic 見 (jiàn) -> mountain pass",
+    "interpretation": "The character 峴 captures the concept of a mountain pass by combining 山(shān, 'mountain') for its semantic indication of a mountainous region and 見 (jiàn) for its phonetic contribution. The phonetic element suggests the pronunciation, while the semantic component ties it to the landscape feature of a pass through mountains.",
+    "simplification": "岘 is the simplified form of 峴, with the simplification reducing components to maintain phonetic hints in a more visually streamlined form."
   },
   "parts": [
     {
@@ -17,23 +17,28 @@
       "english": "mountain"
     },
     {
-      "char": "见",
+      "char": "見",
       "trad": "見",
-      "pinyin": "xiàn",
+      "pinyin": "jiàn",
       "english": "see"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古人踏云行路(古人踏雲行路)，经由岘(經由岘)。",
-      "pinyin": "Gǔ rén tà yún xíng lù, jīng yóu xiàn.",
-      "english": "Ancient people traveled among the clouds, passing by the mountain pass."
+      "chinese": "我们经过岘山(我們經過峴山)。",
+      "pinyin": "Wǒmen jīngguò xiàn shān.",
+      "english": "We passed through Xiàn Mountain."
     },
     {
-      "chinese": "陡峭的山路直通岘(陡峭的山路直通岘)。",
-      "pinyin": "Dǒu qiào de shān lù zhí tōng xiàn.",
-      "english": "The steep mountain road leads directly to the mountain pass."
+      "chinese": "岘口的风景非常壮观(峴口的風景非常壯觀)。",
+      "pinyin": "Xiàn kǒu de fēngjǐng fēicháng zhuàngguān.",
+      "english": "The scenery of the Xiàn Mountain pass is very spectacular."
+    },
+    {
+      "chinese": "秋天时(秋天時)，岘山会被黄色的叶子覆盖(峴山會被黃色的葉子覆蓋)。",
+      "pinyin": "Qiūtiān shí, xiànshān huì bèi huángsè de yèzi fùgài.",
+      "english": "In autumn, Xiàn Mountain is covered with yellow leaves."
     }
   ]
 }

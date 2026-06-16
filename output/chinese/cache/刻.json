@@ -5,8 +5,8 @@
   "english": "to cut; carve; moment; severe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 刀(刀) (dāo, \"knife\") + phonetic: 亥(亥) (hài) = cutting or carving with a knife -> to cut, carve",
-    "interpretation": "刻(刻) (kè, \"to cut; carve\") combines the knife 刀(刀) (dāo, \"knife\") as the semantic component, indicating the action of cutting or carving, with 亥(亥) (hài) providing the phonetic aspect. This combination effectively communicates the action of cutting or carving.",
+    "description": "semantic 刂(刀) (dāo, \"knife\") + phonetic 亥(亥) (hài, used for sound) -> to cut/carve",
+    "interpretation": "The character 刻 (kè, \"to cut; carve; moment; severe\") combines the semantic component 刂(刀) (dāo, \"knife\"), which suggests the action of cutting, with the phonetic component 亥(亥) (hài) to convey the sound. The sense of 'moment' arises metaphorically from cutting a segment of time, while 'severe' extends from making a deep or sharp cut.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "亥",
       "trad": "亥",
       "pinyin": "hài",
-      "english": "亥 (hài)"
+      "english": "亥 (used for sound)"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用刻刀刻花(他用刻刀刻花)，展示艺术(展示藝術)。",
-      "pinyin": "Tā yòng kè dāo kè huā, zhǎnshì yìshù.",
-      "english": "He carved flowers with a carving knife, showcasing his art."
+      "chinese": "他刻了一只小鸟在木头上(他刻了一隻小鳥在木頭上)。",
+      "pinyin": "Tā kèle yī zhī xiǎo niǎo zài mùtóu shàng.",
+      "english": "He carved a small bird on the wood."
     },
     {
-      "chinese": "此刻心情难耐(此刻心情難耐)。",
-      "pinyin": "Cǐ kè xīnqíng nán nài.",
-      "english": "At this moment, his emotions were overwhelming."
+      "chinese": "这个刻在石头上的图案很精美(這個刻在石頭上的圖案很精美)。",
+      "pinyin": "Zhège kè zài shítou shàng de tú'àn hěn jīngměi.",
+      "english": "The pattern carved on the stone is exquisite."
+    },
+    {
+      "chinese": "我在那一刻明白了他的意思(我在那一刻明白了他的意思)。",
+      "pinyin": "Wǒ zài nà yī kè míngbái le tā de yìsi.",
+      "english": "I understood his meaning at that moment."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "free of charge",
   "etymology": {
     "type": "compound word",
-    "description": "免(免) (miǎn, \"exempt\") and 费(費) (fèi, \"fee\") combined mean 'exempt from fee', indicating something is free of charge.",
-    "interpretation": "The combination of 免(免) (miǎn, \"exempt\") and 费(費) (fèi, \"fee\") clearly indicates the concept of not having to pay a fee. In contexts such as promotions or services, 免费(免費) (miǎnfèi) effectively communicates that there is no cost involved.",
+    "description": "免(免) (miǎn, \"to exempt\") + 費(費) (fèi, \"cost\") = to exempt from cost -> free of charge",
+    "interpretation": "免(免) (miǎn, \"to exempt\") involves the idea of releasing or sparing someone from an obligation, leading to the concept of exemption. 費(費) (fèi, \"cost\") refers to a required expenditure or amount needing to be paid. The notion of sparing someone from having to pay the cost directly connects to the idea of being 'free of charge'. This makes use of the concept of alleviating a financial burden altogether.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "免",
       "trad": "免",
       "pinyin": "miǎn",
-      "english": "exempt; dismiss; avoid; release"
+      "english": "to exempt; to spare; to excuse; to dismiss"
     },
     {
       "char": "费",
       "trad": "費",
       "pinyin": "fèi",
-      "english": "fee; expense; cost; spend"
+      "english": "cost; fee; expenditure; expense"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这家店提供免费饮料(這家店提供免費飲料)。",
-      "pinyin": "Zhè jiā diàn tígōng miǎnfèi yǐnliào.",
-      "english": "This store offers free drinks."
+      "chinese": "这家博物馆每周日免费开放(這家博物館每週日免費開放)。",
+      "pinyin": "Zhè jiā bówùguǎn měi zhōurì miǎnfèi kāifàng.",
+      "english": "This museum is free of charge on Sundays."
     },
     {
-      "chinese": "网上购物时(網上購物時)，运费是免费的(運費是免費的)。",
-      "pinyin": "Wǎng shàng gòuwù shí, yùn fèi shì miǎnfèi de.",
-      "english": "When shopping online, shipping is free of charge."
+      "chinese": "您可以免费领取一份礼物(您可以免費領取一份禮物)。",
+      "pinyin": "Nín kěyǐ miǎnfèi lǐngqǔ yī fèn lǐwù.",
+      "english": "You can receive a gift for free."
     },
     {
-      "chinese": "参加讲座能享受免费咨询(參加講座能享受免費諮詢)。",
-      "pinyin": "Cānjiā jiǎngzuò néng xiǎngshòu miǎnfèi zīxún.",
-      "english": "Attending the lecture allows you to enjoy free consultation."
+      "chinese": "他们提供免费的咖啡和茶(他們提供免費的咖啡和茶)。",
+      "pinyin": "Tāmen tígōng miǎnfèi de kāfēi hé chá.",
+      "english": "They offer free coffee and tea."
     }
   ]
 }

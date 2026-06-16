@@ -5,8 +5,8 @@
   "english": "also",
   "etymology": {
     "type": "ideogram",
-    "description": "大(大) (dà, \"large\") - a human figure with emphasis marks on the armpits -> original form of 腋(腋) (yè, \"armpit\") -> borrowed phonetically for 亦(亦)",
-    "interpretation": "The character is an ideogram illustrating a human figure with emphasis on the armpits, which was later borrowed for its phonetic value to mean 'also'.",
+    "description": "Depicts a human figure 大 with emphasis marks on the armpits -> original form of 腋('armpit') -> borrowed phonetically for 'also'",
+    "interpretation": "The character depicts a human figure with emphasis on the armpits, originally representing the word for 'armpit'. It was later borrowed for its sound to mean 'also', with no semantic link between the shape and the new meaning.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "large"
+      "english": "big"
     },
     {
       "char": "腋",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他亦参加了比赛(他亦參加了比賽)。",
-      "pinyin": "Tā yì cānjiāle bǐsài.",
-      "english": "He also participated in the competition."
+      "chinese": "他不仅是科学家(他不僅是科學家)，亦是作家(亦是作家)。",
+      "pinyin": "Tā bùjǐn shì kēxuéjiā, yì shì zuòjiā.",
+      "english": "He is not only a scientist but also a writer."
     },
     {
-      "chinese": "我喜欢音乐(我喜歡音樂)，他亦热爱旋律(他亦熱愛旋律)。",
-      "pinyin": "Wǒ xǐhuān yīnyuè, tā yì rè'ài xuànlǜ.",
-      "english": "I like music, and he also loves melodies."
+      "chinese": "我们可以学习(我們可以學習)，亦可以娱乐(亦可以娛樂)。",
+      "pinyin": "Wǒmen kěyǐ xuéxí, yì kěyǐ yúlè.",
+      "english": "We can learn, and we can also have fun."
+    },
+    {
+      "chinese": "这条河流经城市(這條河流經城市)，亦是这座城市的重要组成部分(亦是這座城市的重要組成部分)。",
+      "pinyin": "Zhè tiáo hé liújīng chéngshì, yì shì zhè zuò chéngshì de zhòngyào zǔchéng bùfèn.",
+      "english": "This river flows through the city and is also an important part of it."
     }
   ]
 }

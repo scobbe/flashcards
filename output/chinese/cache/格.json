@@ -5,8 +5,8 @@
   "english": "grammatical unit",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"tree/wood\") + 各(各) (gè, \"each\") = structure, as in parts of a tree -> form, pattern -> grammatical unit",
-    "interpretation": "The character 格(格) (gé) combines 木(木) (mù, \"tree/wood\"), suggesting structure or framework, with 各(各) (gè, \"each\"), which provides the phonetic component. This combination implies a structured pattern, much like grammatical rules.",
+    "description": "semantic 木(木) (mù, \"wood\") + phonetic 各(各) (gè) -> meaning related to a frame or structure",
+    "interpretation": "The semantic component 木(木) (mù, \"wood\") refers to something structural as in a frame or framework, while the phonetic 各(各) (gè) provides the sound. Wooden frameworks are essential structural units, which relate to the concept of a 'grammatical unit' in textual frameworks or patterns.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "tree/wood"
+      "english": "wood"
     },
     {
       "char": "各",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个句子中的每个词格都有特定的意义(這個句子中的每個詞格都有特定的意義)。",
-      "pinyin": "Zhège jùzi zhōng de měi gè cígé dōu yǒu tèdìng de yìyì.",
-      "english": "Each grammatical unit in this sentence carries its specific meaning."
+      "chinese": "他的性格很开朗(他的性格很開朗)。",
+      "pinyin": "Tā de xìnggé hěn kāilǎng.",
+      "english": "His personality is very cheerful."
     },
     {
-      "chinese": "语法中不同的格负责表达不同的语义(語法中不同的格負責表達不同的語義)。",
-      "pinyin": "Yǔfǎ zhōng bùtóng de gé fùzé biǎodá bùtóng de yǔyì.",
-      "english": "Different grammatical units in grammar express different semantics."
+      "chinese": "我们需要遵循这些道德标准(我們需要遵循這些道德標準)。",
+      "pinyin": "Wǒmen xūyào zūnxún zhèxiē dàodé biāozhǔn.",
+      "english": "We need to follow these moral standards."
+    },
+    {
+      "chinese": "考试的评分标准很严格(考試的評分標準很嚴格)。",
+      "pinyin": "Kǎoshì de píngfēn biāozhǔn hěn yángé.",
+      "english": "The grading criteria for the exam are very strict."
     }
   ]
 }

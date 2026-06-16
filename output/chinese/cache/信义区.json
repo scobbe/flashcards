@@ -5,8 +5,8 @@
   "english": "Xinyi District, Taipei",
   "etymology": {
     "type": "compound word",
-    "description": "信(信) (xìn, \"trust\") + 義(義) (yì, \"righteousness\") = moral concepts suggesting a trustworthy and righteous area -> 区(區) (qū, \"district\") indicates an administrative division.",
-    "interpretation": "信义(信義) (xìnyì, \"trust and righteousness\") suggests a place governed by principles of trust and righteousness, reflecting positive attributes. Originally likely chosen for its auspicious qualities, this name now denotes a distinguished administrative region, Xinyi District, in Taipei.",
+    "description": "信(信) (xìn, \"trust; letter\") denotes the idea of trust or belief, an essential value in Confucianism. 義(義) (yì, \"righteousness; justice\") represents moral and ethical actions, another core Confucian concept. 區(區) (qū, \"district; area\") simply specifies a geographical area.",
+    "interpretation": "信(信) (xìn, \"trust\") implies a foundation of reliability, a value highly respected in society. 義(義) (yì, \"righteousness\") encompasses acting with integrity and justice, aligning with moral virtues. The combination 信義(信義) (xìnyì) signifies a place named with these esteemed principles, reflecting the cultural importance placed on trust and righteousness in the area. The term is completed by 區(區) (qū, \"district\"), indicating it is a specific administrative or geographical zone.",
     "simplification": ""
   },
   "parts": [
@@ -14,32 +14,37 @@
       "char": "信",
       "trad": "信",
       "pinyin": "xìn",
-      "english": "trust; letter; believe"
+      "english": "trust; letter"
     },
     {
-      "char": "义",
+      "char": "義",
       "trad": "義",
       "pinyin": "yì",
-      "english": "righteousness; justice; meaning"
+      "english": "righteousness; justice"
     },
     {
-      "char": "区",
+      "char": "區",
       "trad": "區",
       "pinyin": "qū",
-      "english": "district; region; area"
+      "english": "district; area"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我住在信义区(我住在信義區)。",
-      "pinyin": "Wǒ zhù zài Xìnyì Qū.",
-      "english": "I live in Xinyi District."
+      "chinese": "信义区(信義區)拥有许多购物中心(擁有許多購物中心)。",
+      "pinyin": "Xìnyì Qū yǒngyǒu xǔduō gòuwù zhōngxīn.",
+      "english": "Xinyi District has many shopping centers."
     },
     {
-      "chinese": "信义区(信義區)经济繁荣(經濟繁榮)，吸引许多国际企业(吸引許多國際企業)。",
-      "pinyin": "Xìnyì Qū jīngjì fánróng, xīyǐn xǔduō guójì qǐyè.",
-      "english": "Xinyi District's economy is booming and attracts many international companies."
+      "chinese": "我们在信义区喝咖啡(我們在信義區喝咖啡)。",
+      "pinyin": "Wǒmen zài Xìnyì Qū hē kāfēi.",
+      "english": "We are having coffee in Xinyi District."
+    },
+    {
+      "chinese": "每年十二月信义区都会装饰得很美(每年十二月信義區都會裝飾得很美)。",
+      "pinyin": "Měinián shí'èr yuè Xìnyì Qū dūhuì zhuāngshì de hěn měi.",
+      "english": "Every December, Xinyi District is beautifully decorated."
     }
   ]
 }

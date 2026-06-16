@@ -5,14 +5,14 @@
   "english": "wave",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 良(良) (liáng, 'good') = water with a flowing nature -> wave",
-    "interpretation": "The character combines the water radical 氵(氵) (shuǐ, 'water') with the phonetic component 良(良) (liáng, 'good'), suggesting the fluid and moving nature associated with waves.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 良(良) (liáng) -> wave",
+    "interpretation": "The character 浪(làng) (\"wave\") combines the semantic 水(水) (shuǐ, \"water\") with the phonetic 良(良) (liáng) to suggest the sound and concept of waves in water. The use of 良(良) provides the phonetic element while 水(水) directly contributes the meaning, linking the character to the concept of waves on a body of water.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "海浪拍打着礁石(海浪拍打著礁石)。",
-      "pinyin": "Hǎi làng pāidǎ zhe jiāo shí.",
-      "english": "The sea waves are hitting the coral rocks."
+      "chinese": "海上的浪很大(海上的浪很大)。",
+      "pinyin": "Hǎi shàng de làng hěn dà.",
+      "english": "The waves on the sea are very big."
     },
     {
-      "chinese": "他冲浪时(他衝浪時)，享受自由(享受自由)。",
-      "pinyin": "Tā chōnglàng shí, xiǎngshòu zìyóu.",
-      "english": "When he surfs, he enjoys freedom."
+      "chinese": "我们在那里欣赏海浪(我們在那裡欣賞海浪)。",
+      "pinyin": "Wǒmen zài nàlǐ xīnshǎng hǎilàng.",
+      "english": "We are there to admire the waves."
     },
     {
-      "chinese": "浪花在风中飞舞(浪花在風中飛舞)。",
-      "pinyin": "Làng huā zài fēng zhōng fēiwǔ.",
-      "english": "The spray of the waves dances in the wind."
+      "chinese": "他喜欢在海边冲浪(他喜歡在海邊沖浪)。",
+      "pinyin": "Tā xǐhuān zài hǎibiān chōnglàng.",
+      "english": "He enjoys surfing at the beach."
     }
   ]
 }

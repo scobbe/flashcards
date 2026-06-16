@@ -5,8 +5,8 @@
   "english": "time",
   "etymology": {
     "type": "compound word",
-    "description": "时(時) (shí, \"time; season\") + 间(間) (jiān, \"interval; space\") = The concept of time as an interval or space in which events occur.",
-    "interpretation": "时间(時間) (shíjiān, \"time\") combines the idea of a specific time or season with the notion of an interval or space, highlighting how events are placed within temporal intervals.",
+    "description": "The word 時間(時間) (shíjiān, \"time\") is composed of two morphemes: 時(時) (shí, \"time; season; hour; era\") and 間(間) (jiān, \"between; space; room; interval\"). In combination, it designates the abstract concept of time as a continuum by which events are sequenced.",
+    "interpretation": "時(時) (shí, \"time; season; hour; era\") indicates the specific or cyclical nature of time, like hours or seasons; 間(間) (jiān, \"between; space; room; interval\") introduces the concept of a measured span or interval. Together, 時間(時間) (shíjiān) embraces the perception of time as segmented and measurable, like intervals between events, which is essential to understanding history and planning for the future.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "时",
       "trad": "時",
       "pinyin": "shí",
-      "english": "time; season"
+      "english": "time; season; hour; era"
     },
     {
       "char": "间",
       "trad": "間",
       "pinyin": "jiān",
-      "english": "interval; space"
+      "english": "between; space; room; interval"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你有时间吗(你有時間嗎)？",
-      "pinyin": "nǐ yǒu shíjiān ma？",
-      "english": "Do you have time?"
+      "chinese": "时间过得真快(時間過得真快)。",
+      "pinyin": "Shíjiān guò de zhēn kuài.",
+      "english": "Time passes really quickly."
     },
     {
-      "chinese": "我没有时间看电视(我沒有時間看電視)。",
-      "pinyin": "wǒ méiyǒu shíjiān kàn diànshì。",
-      "english": "I don't have time to watch TV."
+      "chinese": "我们需要更多的时间(我們需要更多的時間)，才能完成任务(才能完成任務)。",
+      "pinyin": "Wǒmen xūyào gèng duō de shíjiān, cái néng wánchéng rènwù.",
+      "english": "We need more time to complete the task."
     },
     {
-      "chinese": "时间在慢慢流逝(時間在慢慢流逝)，我们要珍惜它(我們要珍惜它)。",
-      "pinyin": "shíjiān zài màn màn liú shì, wǒmen yào zhēnxī tā。",
-      "english": "Time is passing slowly, we must cherish it."
+      "chinese": "现在是时候喝茶了(現在是時候喝茶了)。",
+      "pinyin": "Xiànzài shì shíhòu hē chá le.",
+      "english": "Now it's time to drink tea."
     }
   ]
 }

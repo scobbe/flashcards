@@ -1,0 +1,28 @@
+{
+  "simplified": "瞢",
+  "traditional": "瞢",
+  "pinyin": "méng",
+  "english": "bewildered",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 目(目) (mù, \"eye\") + phonetic 亡(亡) (wáng) -> sense of being lost or disoriented, particularly in vision -> bewildered",
+    "interpretation": "The character combines 目(目) (mù, \"eye\") as the semantic component with 亡(亡) (wáng) as the phonetic component, suggesting a state where one's vision is metaphorically lost or confused, reflecting the meaning of being bewildered.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "departed; gone; lost"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

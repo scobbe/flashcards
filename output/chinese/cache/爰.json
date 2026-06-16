@@ -2,25 +2,27 @@
   "simplified": "爰",
   "traditional": "爰",
   "pinyin": "yuán",
-  "english": "phonetic",
+  "english": "here, there",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "爫 ('hand, claw') + 又 ('hand') -> depiction of grasping with hands -> 'acting upon; phonetic'",
-    "interpretation": "The character 爰(yuán, 'phonetic') depicts two hands represented by 爫('hand, claw') and 又('hand') working together, symbolizing the concept of grasping or handling something. This visual representation informs its use in contexts related to action or handling.",
+    "description": "爫 (hand, claw) + 又 (hand) = representation of a gesture -> intermediate form changes -> final 爰 form representing 'here, there'",
+    "interpretation": "The character combines 爫(yuán, \"hand, claw\") and 又(yòu, \"hand\") to visually depict a gesture made with hands. This gesture is historically associated with indicating a specific location, leading to the senses 'here' and 'there'.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "爰逐喜乐在春日(爰逐喜樂在春日)。",
-      "pinyin": "Yuán zhú xǐ lè zài chūn rì.",
-      "english": "Here follows joy in the spring days."
+      "char": "爫",
+      "trad": "爫",
+      "pinyin": "zhǎo",
+      "english": "hand, claw"
     },
     {
-      "chinese": "我特此申明爰书(我特此申明爰書)，以示无憾(以示無憾)。",
-      "pinyin": "Wǒ tè cǐ shēn míng yuán shū, yǐ shì wú hàn.",
-      "english": "I hereby declare this memorandum to show no regrets."
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

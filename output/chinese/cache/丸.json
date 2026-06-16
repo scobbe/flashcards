@@ -2,11 +2,11 @@
   "simplified": "丸",
   "traditional": "丸",
   "pinyin": "wán",
-  "english": "semantic surrogate",
+  "english": "pill; ball",
   "etymology": {
-    "type": "Ideogram",
-    "description": "Originally the same as 夗 -> differentiated as 丸 -> something round or that can roll",
-    "interpretation": "The character 丸 originally shared its form with 夗, representing an idea of tilting or something round. This suggests an early association with roundness or rolling, reflecting its use for balls or pills today.",
+    "type": "ideogram",
+    "description": "Differentiated form of 夗 -> evolved separately as 丸, representing something that can be tilted and turned",
+    "interpretation": "In 丸 (wán, \"pill; ball\"), the character evolved from 夗, suggesting a round object that can be tilted and turned. This roundness directly leads to the concrete meanings of 'pill' and 'ball,' capturing the essence of rounded objects.",
     "simplification": ""
   },
   "parts": [
@@ -14,25 +14,25 @@
       "char": "夗",
       "trad": "夗",
       "pinyin": "yuàn",
-      "english": "tilt"
+      "english": "to lead"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生给我一丸药(醫生給我一丸藥)。",
-      "pinyin": "Yīshēng gěi wǒ yī wán yào.",
-      "english": "The doctor gave me one pill."
+      "chinese": "医生给了我一些药丸(醫生給了我一些藥丸)。",
+      "pinyin": "Yīshēng gěile wǒ yīxiē yàowán.",
+      "english": "The doctor gave me some pills."
     },
     {
-      "chinese": "这丸药效果很好(這丸藥效果很好)，我一天吃两次(我一天吃兩次)。",
-      "pinyin": "Zhè wán yào xiàoguǒ hěn hǎo, wǒ yītiān chī liǎng cì.",
-      "english": "This pill is very effective; I take it twice a day."
+      "chinese": "他把面团揉成一个小丸子(他把麵團揉成一個小丸子)。",
+      "pinyin": "Tā bǎ miàntuán róu chéng yīgè xiǎo wánzi.",
+      "english": "He kneaded the dough into a small ball."
     },
     {
-      "chinese": "老中医常以丸治百病(老中醫常以丸治百病)。",
-      "pinyin": "Lǎo zhōngyī cháng yǐ wán zhì bǎibìng.",
-      "english": "Old Chinese medicine practitioners often use pills to cure various ailments."
+      "chinese": "鱼香丸子的味道非常好(魚香丸子的味道非常好)。",
+      "pinyin": "Yúxiāng wánzi de wèidào fēicháng hǎo.",
+      "english": "The fish-flavored meatballs taste very good."
     }
   ]
 }

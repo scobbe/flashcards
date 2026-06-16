@@ -5,35 +5,52 @@
   "english": "come; return; arrive",
   "etymology": {
     "type": "pictogram",
-    "description": "Pictogram of wheat: line in middle (ear) + two lines upwards (leaves) + lines downwards (stem, roots) -> borrowed for 来(來) (lái, 'come'); additional semantic components (e.g. 止 (zhǐ, 'foot')) added in Western Zhou, later removed",
-    "interpretation": "來(來) (lái, 'come') visually depicts aspects of wheat, but was phonetically borrowed early for its modern meaning. Components like 'foot' and 'walk' were historically added to clarify this borrowing, but were later omitted, indicating the character's core phonetic origin.",
+    "description": "Depicts wheat: line in the middle (ear) + upward-facing lines (leaves) + downward-facing lines (stem and roots) -> borrowed for 'to come'",
+    "interpretation": "The character originally depicted wheat, with elements representing the ear, leaves, stem, and roots of the plant. It was borrowed for its phonetic sound to mean 'to come', as these concepts involved growth and arrival metaphorically. Attempts to add semantic components like 止(止) (zhǐ, 'foot') or 辵(辵) (chuò, 'to walk') were made to clarify distinctions, but did not persist.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "來",
-      "trad": "來",
-      "pinyin": "lái",
-      "english": "come"
+      "char": "麥",
+      "trad": "麥",
+      "pinyin": "mài",
+      "english": "wheat"
+    },
+    {
+      "char": "夊",
+      "trad": "夊",
+      "pinyin": "suī",
+      "english": "to walk slowly"
     },
     {
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
       "english": "foot"
+    },
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk; movement"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他来参加会议(他來參加會議)。",
-      "pinyin": "Tā lái cānjiā huìyì.",
-      "english": "He comes to attend the meeting."
+      "chinese": "春天来了(春天來了)。",
+      "pinyin": "Chūntiān lái le.",
+      "english": "Spring has come."
     },
     {
-      "chinese": "我们等你来(我們等你來)，一起庆祝生日(一起慶祝生日)。",
-      "pinyin": "Wǒmen děng nǐ lái, yīqǐ qìngzhù shēngrì.",
-      "english": "We are waiting for you to come so we can celebrate the birthday together."
+      "chinese": "他从美国回来(他從美國回來)。",
+      "pinyin": "Tā cóng Měiguó huílái.",
+      "english": "He returned from the United States."
+    },
+    {
+      "chinese": "每当下雨(每當下雨)，他就会来接我(他就會來接我)。",
+      "pinyin": "Měi dāng xiàyǔ, tā jiù huì lái jiē wǒ.",
+      "english": "Whenever it rains, he will come to pick me up."
     }
   ]
 }

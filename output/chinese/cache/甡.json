@@ -5,8 +5,8 @@
   "english": "broom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "生(生) (shēng, \"life; give birth\") + 田(田) (tián, \"field\") = phonetic and semantic elements",
-    "interpretation": "The character 甡(shēn, \"broom\") is a phono-semantic compound that combines 生(生) (shēng, \"life; give birth\") as a phonetic component with 田(田) (tián, \"field\") as a semantic element. The semantic link may relate to the notion of managing or cleaning a field, although the exact reason for its use as \"broom\" isn't explicit. Often, phono-semantic compounds relied on established idiomatic extensions rather than direct visual or conceptual links.",
+    "description": "semantic 生(生) (shēng, \"life\") + phonetic 辛(辛) (xīn) -> meaning",
+    "interpretation": "The character 甡 contains the semantic component 生(生) (shēng, \"life\") which may suggest something related to production or generation, combined with the phonetic 辛(辛) (xīn), which contributes the sound. The character's connection to 'broom' is through borrowing for phonetic purposes and does not derive directly from its parts.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life; give birth"
+      "english": "life"
     },
     {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter; toilsome"
     }
   ],
   "in_contemporary_usage": false,

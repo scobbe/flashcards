@@ -4,36 +4,28 @@
   "pinyin": "dōng",
   "english": "bag",
   "etymology": {
-    "type": "Jiajie and ideogram",
-    "description": "Originally borrowed from 束(束) (shù, 'bundle') for sound similarity with 橐(橐) (tuó, 'bag') -> a horizontal stroke added to differentiate 東(東) (dōng, 'east') -> final form",
-    "interpretation": "東(東) (dōng) was adapted from existing characters to convey its phonetic sound. It was visually modified to create a unique form, aiding differentiation from related or sound-alike characters.",
+    "type": "pictogram",
+    "description": "Depicts a bundle or bag tied at both ends",
+    "interpretation": "Originally depicting a bundle or bag tied at both ends, it suggests convergence or collection, visually resembling a tied shape. This pictorial representation is historically connected to the direction 'east', as a bag captures and holds items, analogous to the rising sun being 'held' in the east. Despite alternative interpretations involving the sun and tree, the pictogram of a bundle remains the most direct visual link.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "束",
-      "trad": "束",
-      "pinyin": "shù",
-      "english": "bundle"
-    },
-    {
-      "char": "橐",
-      "trad": "橐",
-      "pinyin": "tuó",
-      "english": "bag"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了个新東(我買了個新東)。",
-      "pinyin": "Wǒ mǎi le gè xīn dōng.",
-      "english": "I bought a new bag."
+      "chinese": "他的東(他的東)里装满了书(裏裝滿了書)。",
+      "pinyin": "Tā de dōng lǐ zhuāng mǎn le shū.",
+      "english": "His bag is full of books."
     },
     {
-      "chinese": "他把東放在桌上(他把東放在桌上)，准备去旅行(準備去旅行)。",
-      "pinyin": "Tā bǎ dōng fàng zài zhuō shàng, zhǔnbèi qù lǚxíng.",
-      "english": "He put the bag on the table, preparing to travel."
+      "chinese": "她买了一个新的東(她買了一個新的東)。",
+      "pinyin": "Tā mǎi le yī gè xīn de dōng.",
+      "english": "She bought a new bag."
+    },
+    {
+      "chinese": "在办公室里(在辦公室裏)，他的東(他的東)总是放在椅子后面(總是放在椅子後面)。",
+      "pinyin": "Zài bàngōngshì lǐ, tā de dōng zǒng shì fàng zài yǐzi hòumiàn.",
+      "english": "In the office, his bag is always placed behind the chair."
     }
   ]
 }

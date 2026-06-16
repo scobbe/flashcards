@@ -2,25 +2,25 @@
   "simplified": "𣬉",
   "traditional": "𣬉",
   "pinyin": "zhā",
-  "english": "phonetic component",
+  "english": "disorderly, chaotic",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "士(士) (shì, \"scholar\") + 冎(冎) (guā, \"bone\") -> bone with ornamentation",
-    "interpretation": "The character 𣬉 features a combination of a bone shape, 冎(冎) (guā, \"bone\"), with a top component resembling a scholar's hat, 士(士) (shì, \"scholar\"), suggesting a decorated or enshrined bone. It's primarily used as a phonetic component in other characters.",
+    "type": "phono-semantic compound",
+    "description": "semantic 欠(欠) (qiàn, \"lack\") + phonetic 手(手) (shǒu) -> disorderly or chaotic",
+    "interpretation": "The character 𣬉 combines the semantic element 欠(欠) (qiàn, \"lack\"), suggesting a deficiency or disorder, with the phonetic element 手(手) (shǒu), which contributes the sound. The idea of 'lacking' or 'not having' something contributes to the sense of being disorderly or chaotic, as imbalance often signifies disturbance or irregularity.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "士",
-      "trad": "士",
-      "pinyin": "shì",
-      "english": "scholar"
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "lack"
     },
     {
-      "char": "冎",
-      "trad": "冎",
-      "pinyin": "guā",
-      "english": "bone"
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,14 +5,14 @@
   "english": "bubble; foam; blister",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 包(包) (bāo) = water-like appearance of foam -> bubble; foam; blister",
-    "interpretation": "The character 泡(pào, \"bubble; foam; blister\") combines 氵(氵) (shuǐ, \"water\") to indicate its watery nature with 包(包) (bāo) providing the sound component, effectively representing the concept of foam or bubbles forming on water.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 包(包) (bāo) -> foam",
+    "interpretation": "The semantic component 氵(水) (shuǐ, \"water\") relates to the character's meaning of foam or bubbles, which form in water. The phonetic component 包(包) (bāo) provides the sound. Together, they effectively convey the concept of bubbles or foam forming in water.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "汤沸腾时会产生很多泡(湯沸騰時會產生很多泡)。",
-      "pinyin": "Tāng fèiténg shí huì chǎnshēng hěnduō pào.",
-      "english": "When the soup boils, many bubbles form."
+      "chinese": "杯子里有很多泡(杯子裡有很多泡)。",
+      "pinyin": "Bēizi lǐ yǒu hěn duō pào.",
+      "english": "There are many bubbles in the cup."
     },
     {
-      "chinese": "他的手被烫出一个大泡(他的手被燙出一個大泡)，十分疼痛(十分疼痛)。",
-      "pinyin": "Tā de shǒu bèi tàng chū yīgè dà pào, shífēn téngtòng.",
-      "english": "His hand developed a large blister from the burn, and it hurts a lot."
+      "chinese": "这个肥皂能产生丰富的泡沫(這個肥皂能產生豐富的泡沫)。",
+      "pinyin": "Zhège féizào néng chǎnshēng fēngfù de pàomò.",
+      "english": "This soap can produce rich foam."
+    },
+    {
+      "chinese": "用热水泡脚可以缓解疲劳(用熱水泡腳可以緩解疲勞)。",
+      "pinyin": "Yòng rèshuǐ pào jiǎo kěyǐ huǎnjiě píláo.",
+      "english": "Soaking your feet in hot water can relieve fatigue."
     }
   ]
 }

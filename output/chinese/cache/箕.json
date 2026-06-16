@@ -5,8 +5,8 @@
   "english": "basket",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "竹(竹) (zhú, \"bamboo\") + 其(其) (qí, \"his\") = combines bamboo element with phonetic component 其 to convey 'basket' -> specialization of 其",
-    "interpretation": "The character 箕(箕) (jī, \"basket\") was created to specify the meaning of 'basket' by adding the bamboo radical 竹(竹) (zhú, \"bamboo\") to the character 其(其) (qí, \"his\"), which provides the phonetic cue. This reflects its use as a container often made from bamboo.",
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 其(其) (qí, \"his\") -> basket made of bamboo",
+    "interpretation": "The character 箕(jī, \"basket\") combines 竹(竹) (zhú, \"bamboo\") as the semantic component, indicating that the item is made of bamboo, with 其(其) (qí, \"his\") serving as the phonetic component to provide the sound. Originally, 其(其) (qí, \"his\") depicted a basket or container shape, and accordingly, 箕 specializes in the meaning related to a bamboo basket.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老农用箕收割稻谷(老農用箕收割稻穀)。",
-      "pinyin": "Lǎo nóng yòng jī shōugē dào gǔ。",
-      "english": "The old farmer uses a basket to harvest rice."
+      "chinese": "他用箕(他用箕)收集落下的叶子(收集落下的葉子)。",
+      "pinyin": "Tā yòng jī shōují luòxià de yèzi.",
+      "english": "He uses a basket to collect fallen leaves."
     },
     {
-      "chinese": "在村口(在村口)，小贩将粮食倒进箕中(小販將糧食倒進箕中)。",
-      "pinyin": "Zài cūnkǒu, xiǎofàn jiāng liángshí dào jìn jī zhōng。",
-      "english": "At the village entrance, the vendor pours grain into the basket."
+      "chinese": "箕的大小非常适合装米(箕的大小非常適合裝米)。",
+      "pinyin": "Jī de dàxiǎo fēicháng shìhé zhuāng mǐ.",
+      "english": "The size of the basket is perfect for holding rice."
+    },
+    {
+      "chinese": "那个老人总在集市上卖他编的箕(那個老人總在集市上賣他編的箕)。",
+      "pinyin": "Nàge lǎorén zǒng zài jíshì shàng mài tā biān de jī.",
+      "english": "That old man always sells the baskets he weaves at the market."
     }
   ]
 }

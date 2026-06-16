@@ -5,9 +5,9 @@
   "english": "righteousness; justice; meaning",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 我 (wǒ, \"I\") + semantic 羊 (yáng, \"good; beautiful; auspicious\") = association with virtue -> righteousness",
-    "interpretation": "The character 義 (yì, \"righteousness\") combines the notion of self from 我 (wǒ, \"I\") with the auspicious connotations of 羊 (yáng, \"good\") to express the idea of personal integrity and virtue.",
-    "simplification": "義(義) was simplified to 义 by removing the phonetic component 我 (wǒ, \"I\") and retaining only 羊 (yáng, \"good\") for ease and speed of writing."
+    "description": "phonetic 我 (wǒ, \"I\") + semantic 羊 (yáng, \"good; beautiful; auspicious\") -> righteousness",
+    "interpretation": "The character 義 combines the phonetic component 我 (wǒ, \"I\") with the semantic component 羊 (yáng, \"good; beautiful; auspicious\"). The 羊 component signifies qualities like goodness and beauty, indicating righteousness as something inherently valuable or noble. The pronunciation element 我 contributes the sound without semantic value in this context.",
+    "simplification": "义 is a simplified form of 義, where 羊 (yáng, \"good\") is removed, and 我 (wǒ, \"I\") is simplified to form a new character emphasizing ease of writing while retaining the general phonetic guide."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "为了正义(為了正義)，他愿意牺牲自己(他願意犧牲自己)。",
-      "pinyin": "Wèile zhèngyì, tā yuànyì xīshēng zìjǐ.",
-      "english": "For justice, he is willing to sacrifice himself."
+      "chinese": "他为了正义(他為了正義)，勇敢地站出来(勇敢地站出來)。",
+      "pinyin": "Tā wèile zhèngyì, yǒnggǎn de zhàn chūlái.",
+      "english": "He stood up bravely for justice."
     },
     {
-      "chinese": "朋友之间的友情应该以义为重(朋友之間的友情應該以義為重)。",
-      "pinyin": "Péngyǒu zhījiān de yǒuqíng yīnggāi yǐ yì wéi zhòng.",
-      "english": "The friendship between friends should emphasize righteousness."
+      "chinese": "这个故事的意义(這個故事的意義)在于勇气(在於勇氣)。",
+      "pinyin": "Zhège gùshì de yìyì zàiyú yǒngqì.",
+      "english": "The meaning of this story lies in courage."
     },
     {
-      "chinese": "古代的英雄常被赞为有勇有义(古代的英雄常被讚為有勇有義)。",
-      "pinyin": "Gǔdài de yīngxióng cháng bèi zàn wéi yǒu yǒng yǒu yì.",
-      "english": "Ancient heroes are often praised as being courageous and righteous."
+      "chinese": "义务帮助他人(義務幫助他人)是一种美德(是一種美德)。",
+      "pinyin": "Yìwù bāngzhù tārén shì yī zhǒng měidé.",
+      "english": "Voluntary helping others is a virtue."
     }
   ]
 }

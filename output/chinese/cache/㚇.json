@@ -2,11 +2,11 @@
   "simplified": "㚇",
   "traditional": "㚇",
   "pinyin": "zōng",
-  "english": "phonetic component",
+  "english": "carefree, easygoing",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "子(子) (zǐ, \"child\") + 宗(宗) (zōng, \"ancestral\") used for phonetic value",
-    "interpretation": "The character 㚇 combines 子(子) (zǐ, \"child\") with 宗(宗) (zōng, \"ancestral\") to form a phonetic compound primarily used to convey sound. The combination does not assign a unique semantic meaning but serves as a phonetic reference in compounds.",
+    "type": "ideogrammic compound",
+    "description": "子(子) (zǐ, \"child\") + 乑(乑) (yín, \"together\") = a group of carefree, lighthearted children playing together -> carefree, easygoing",
+    "interpretation": "The character combines 子(子) (zǐ, \"child\") with 乑(乑) (yín, \"together\"), giving the image of children playing together uninhibitedly, capturing the essence of being carefree and easygoing.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "child"
     },
     {
-      "char": "宗",
-      "trad": "宗",
-      "pinyin": "zōng",
-      "english": "ancestral"
+      "char": "乑",
+      "trad": "乑",
+      "pinyin": "yín",
+      "english": "together"
     }
   ],
   "in_contemporary_usage": false,

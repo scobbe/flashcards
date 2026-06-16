@@ -2,11 +2,11 @@
   "simplified": "叚",
   "traditional": "叚",
   "pinyin": "jiǎ",
-  "english": "phonetic",
+  "english": "lend, borrow",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "爪(爪) (zhǎo, \"hand\") + 又(又) (yòu, \"hand\") + 石(石) (shí, \"stone\") = borrowing concept indicated by two hands holding a stone -> phonetic value for 'jiǎ'",
-    "interpretation": "The character 叚 combines the imagery of two hands, 爪(爪) and 又(又), with the phonetic element 石(石), representing the idea of borrowing through handling a stone. This reflects its conceptual origin which relates to lending or borrowing.",
+    "description": "爪 (hand) + 又 (hand) + 石 (stone) = two hands interacting with a stone -> concept of lending/borrowing",
+    "interpretation": "叚(叚) visualizes two hands interacting with a stone, effectively showing the action of borrowing or lending. This imagery aligns with early practices where physical objects exchanged hands, indicating temporary possession.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "爪",
       "trad": "爪",
       "pinyin": "zhǎo",
-      "english": "hand"
+      "english": "hand; claw"
     },
     {
       "char": "又",

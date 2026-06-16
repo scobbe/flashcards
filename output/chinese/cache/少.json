@@ -5,17 +5,11 @@
   "english": "few",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts four dots as grains of sand to indicate \"a few, a little\"; the form is also phonetically borrowed from 小(xiǎo, \"small\")",
-    "interpretation": "The character 少(shǎo, \"few\") uses dots to suggest the idea of smallness or scarcity, similar to grains of sand. It is visually and phonetically associated with 小(xiǎo, \"small\").",
+    "description": "Depicts four dots, perhaps three grains of sand -> indicates \"a few, a little\" -> phonetically borrowed from 小(小) (xiǎo, \"small\")",
+    "interpretation": "The character 少(少) (shǎo, \"few\") originally depicted four dots, possibly representing grains of sand, conveying the impression of a small quantity. It was phonetically borrowed from 小(小) (xiǎo, \"small\"), which uses three dots to signify smallness, reinforcing the sense of 'few' through the idea of minimal amounts.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "沙",
-      "trad": "沙",
-      "pinyin": "shā",
-      "english": "sand"
-    },
     {
       "char": "小",
       "trad": "小",
@@ -26,19 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天来的客人很少(今天來的客人很少)。",
-      "pinyin": "Jīntiān lái de kèrén hěn shǎo.",
-      "english": "There were very few guests today."
+      "chinese": "这本书有很少的字(這本書有很少的字)。",
+      "pinyin": "Zhè běn shū yǒu hěn shǎo de zì.",
+      "english": "This book has very few words."
     },
     {
-      "chinese": "他的时间很少(他的時間很少)，用来休息(用來休息)。",
-      "pinyin": "Tā de shíjiān hěn shǎo, yòng lái xiūxí.",
-      "english": "He has little time, which he uses to rest."
+      "chinese": "来参加演出的人很少(來參加演出的人很少)。",
+      "pinyin": "Lái cānjiā yǎnchū de rén hěn shǎo.",
+      "english": "Few people came to attend the performance."
     },
     {
-      "chinese": "这部电影票房少得可怜(這部電影票房少得可憐)。",
-      "pinyin": "Zhè bù diànyǐng piàofáng shǎo de kělián.",
-      "english": "The movie's box office was pitifully low."
+      "chinese": "这个季节雨水很少(這個季節雨水很少)。",
+      "pinyin": "Zhège jìjié yǔshuǐ hěn shǎo.",
+      "english": "There is very little rain this season."
     }
   ]
 }

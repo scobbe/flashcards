@@ -5,8 +5,8 @@
   "english": "jinzhu fruit",
   "etymology": {
     "type": "compound word",
-    "description": "The word 金竹果 (jīn zhú guǒ) refers to a fruit known as the 'jinzhu fruit'. The characters are combined to create a description of this specific fruit.",
-    "interpretation": "This word forms a specific name for a fruit by combining elements that relate to its characteristics.",
+    "description": "The word 金竹果 (jīn zhú guǒ) combines references to color, form, and nature. 金(金) (jīn, \"gold\") indicates a golden color; 竹果(竹果) (zhú guǒ, \"jinzhu fruit\") refers directly to a specific fruit, though details about it might be more colloquial or regional knowledge.",
+    "interpretation": "金(金) (jīn, \"gold\") suggests the golden color of the fruit, possibly its appearance or value. The term 竹果(竹果) (zhú guǒ, \"jinzhu fruit\") is a direct reference to a specific fruit; however, in this context, it serves primarily to name the fruit rather than describe it.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,15 @@
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "gold; metal; money"
+      "english": "gold; metal"
     },
     {
       "char": "竹果",
       "trad": "竹果",
-      "pinyin": "zhúguǒ",
+      "pinyin": "zhú guǒ",
       "english": "jinzhu fruit"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "金竹果是一种罕见而美味的水果(金竹果是一種罕見而美味的水果)。",
-      "pinyin": "Jīn zhú guǒ shì yī zhǒng hǎn jiàn ér měi wèi de shuǐ guǒ.",
-      "english": "Jinzhu fruit is a rare and delicious fruit."
-    },
-    {
-      "chinese": "吃金竹果可以提高免疫力(吃金竹果可以提高免疫力)。",
-      "pinyin": "Chī jīn zhú guǒ kě yǐ tí gāo miǎn yì lì.",
-      "english": "Eating jinzhu fruit can boost immunity."
-    },
-    {
-      "chinese": "她在市场上买了一篮(金竹果)和一些新鲜蔬菜(她在市場上買了一籃(金竹果)和一些新鮮蔬菜)。",
-      "pinyin": "Tā zài shì chǎng shàng mǎi le yī lán (jīn zhú guǒ) hé yī xiē xīn xiān shū cài.",
-      "english": "She bought a basket of jinzhu fruit and some fresh vegetables at the market."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

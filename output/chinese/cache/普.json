@@ -4,9 +4,9 @@
   "pinyin": "pǔ",
   "english": "universal",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "並(並) (bìng, \"together\") + phonetic: 用(用) (yòng, \"use\") = spreading together wide and far -> universal",
-    "interpretation": "The character 普(pǔ, \"universal\") combines 並(bìng, \"together\") suggesting things aligned uniformly, with 用(yòng, \"use\") indicating an action applied broadly. This evokes the sense of something applied or spread universally.",
+    "type": "ideogrammic compound",
+    "description": "並(並) (bìng, 'side by side') + 日(日) (rì, 'sun') = the sun shining everywhere -> universal",
+    "interpretation": "The character 普(pǔ, 'universal') combines 並(並), meaning 'side by side', with 日, meaning 'sun', to convey the concept of the sun shining everywhere simultaneously, symbolizing universality.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "並",
       "trad": "並",
       "pinyin": "bìng",
-      "english": "together"
+      "english": "side by side"
     },
     {
-      "char": "用",
-      "trad": "用",
-      "pinyin": "yòng",
-      "english": "use"
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "真理普照人间(真理普照人間)。",
-      "pinyin": "Zhēnlǐ pǔ zhào rénjiān.",
-      "english": "Truth shines universally among people."
+      "chinese": "普遍的问题让大家都很烦恼(普遍的問題讓大家都很煩惱)。",
+      "pinyin": "Pǔbiàn de wèntí ràng dàjiā dōu hěn fánnǎo.",
+      "english": "Universal problems make everyone feel troubled."
     },
     {
-      "chinese": "古代先贤提倡普及教育(古代先賢提倡普及教育)。",
-      "pinyin": "Gǔdài xiānxián tíchàng pǔjí jiàoyù.",
-      "english": "Ancient sages advocated universal education."
+      "chinese": "这个观点很普遍(這個觀點很普遍)，所以没有人反对(所以沒有人反對)。",
+      "pinyin": "Zhège guāndiǎn hěn pǔbiàn, suǒyǐ méiyǒu rén fǎnduì.",
+      "english": "This viewpoint is very universal, so nobody opposes it."
     },
     {
-      "chinese": "日新月异推动科技进步(日新月異推動科技進步)，普及知识改变生活(普及知識改變生活)。",
-      "pinyin": "Rìxīn yuèyì tuīdòng kējì jìnbù, pǔjí zhīshi gǎibiàn shēnghuó.",
-      "english": "Rapid changes propel technological progress, and the universal spread of knowledge transforms lives."
+      "chinese": "使用普适的解决方案(使用普適的解決方案)，能够帮助更多的人(能夠幫助更多的人)。",
+      "pinyin": "Shǐyòng pǔshì de jiějué fāng'àn, nénggòu bāngzhù gèng duō de rén.",
+      "english": "Using a universal solution can help more people."
     }
   ]
 }

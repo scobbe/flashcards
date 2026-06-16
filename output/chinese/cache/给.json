@@ -5,40 +5,40 @@
   "english": "to give; for; provide; allow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 纟(絲) (sī, \"silk\") + phonetic: 合(合) (hé, \"fit\") = providing silk -> supply, give",
-    "interpretation": "The silk radical 纟(絲) (sī, \"silk\") indicates a connection to textile goods or transactions, while 合(合) (hé, \"fit\") provides the sound component, suggesting the meaning of providing or supplying, as in a transaction.",
-    "simplification": "給(給)→给(給): The radical 纟(絲) is a simplified shorthand for 糸(糸) (mì, \"silk thread\"). The phonetic 合(合) remains unchanged."
+    "description": "semantic 糸 (silk; thread) + phonetic 合 (join; unite) -> rich, abundant -> to give",
+    "interpretation": "The character 給 combines the semantic component 糸 (silk; thread), which conveys abundance due to the value of silk, with the phonetic 合 (join; unite). While 合 primarily contributes the sound, the character has evolved to mean 'rich' or 'abundant', later extending to 'provide' or 'give'. The connection from 'abundance' to 'give' arises from the notion of sharing wealth or resources.",
+    "simplification": "The traditional form 給 was simplified by changing 糸 (silk; thread) to 纟 to reduce the number of strokes."
   },
   "parts": [
     {
-      "char": "纟",
-      "trad": "絲",
-      "pinyin": "sī",
-      "english": "silk"
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
     },
     {
       "char": "合",
       "trad": "合",
       "pinyin": "hé",
-      "english": "fit"
+      "english": "join; unite"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈给我糖果(媽媽給我糖果)。",
-      "pinyin": "Māmā gěi wǒ tángguǒ.",
-      "english": "Mom gives me candy."
+      "chinese": "她给了我一本书(她給了我一本書)。",
+      "pinyin": "Tā gěi le wǒ yī běn shū.",
+      "english": "She gave me a book."
     },
     {
-      "chinese": "老师给我们作业(老師給我們作業)，帮助我们进步(幫助我們進步)。",
-      "pinyin": "Lǎoshī gěi wǒmen zuòyè, bāngzhù wǒmen jìnbù.",
-      "english": "The teacher gives us homework to help us improve."
+      "chinese": "请把那个杯子给我(請把那個杯子給我)。",
+      "pinyin": "Qǐng bǎ nà ge bēizi gěi wǒ.",
+      "english": "Please give me that cup."
     },
     {
-      "chinese": "他给朋友送上礼物(他給朋友送上禮物)，表达谢意(表達謝意)。",
-      "pinyin": "Tā gěi péngyǒu sòng shàng lǐwù, biǎodá xièyì.",
-      "english": "He gave his friend a gift to express gratitude."
+      "chinese": "我会为你提供帮助(我會為你提供幫助)。",
+      "pinyin": "Wǒ huì wèi nǐ tígōng bāngzhù.",
+      "english": "I will provide help for you."
     }
   ]
 }

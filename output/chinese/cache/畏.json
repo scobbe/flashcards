@@ -5,8 +5,8 @@
   "english": "fear",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "鬼(鬼) (guǐ, \"ghost\") + holding stick or tiger claw -> depiction of fear",
-    "interpretation": "The character 畏(wèi, \"fear\") visually represents a ghost holding a stick or a combination of a ghost's head and tiger attributes, symbolizing something threatening that induces fear.",
+    "description": "Depicts a ghost 鬼(鬼) (guǐ, \"ghost\") with a stick in oracle bone script -> stylized by Shuo Wen as ghost head 甶(甶) (fú, \"ghost head\") + part of a tiger including its claw -> later forms focused on the element of fear from the ghost",
+    "interpretation": "The image of a ghost holding a stick evokes fear, as ghosts are often associated with the supernatural and the unknown, invoking a sense of dread or intimidation. This captures the core meaning of 'fear'.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "面对危险(面對危險)，他不畏艰险(他不畏艱險)。",
-      "pinyin": "Miàn duì wēixiǎn, tā bù wèi jiānxiǎn.",
-      "english": "Facing danger, he is not afraid of hardships."
+      "chinese": "他对黑暗毫无畏惧(他對黑暗毫無畏懼)。",
+      "pinyin": "Tā duì hēi'àn háo wú wèijù.",
+      "english": "He has no fear of the dark."
     },
     {
-      "chinese": "他畏权(他畏權)，不敢发声(不敢發聲)。",
-      "pinyin": "Tā wèi quán, bù gǎn fāshēng.",
-      "english": "He is intimidated by authority and dares not speak up."
+      "chinese": "畏惧失败(畏懼失敗)会阻止你成功(會阻止你成功)。",
+      "pinyin": "Wèijù shībài huì zǔzhǐ nǐ chénggōng.",
+      "english": "Fear of failure will prevent you from succeeding."
     },
     {
-      "chinese": "有的人因为自身弱小(有的人因為自身弱小)，对强者总是存有畏惧(對強者總是存有畏懼)。",
-      "pinyin": "Yǒu de rén yīnwèi zìshēn ruòxiǎo, duì qiángzhě zǒng shì cún yǒu wèi.",
-      "english": "Some people, because of their own weakness, are always intimidated by the powerful."
+      "chinese": "在他心中，没有什么值得畏惧(在他心中，沒有什麼值得畏懼)。",
+      "pinyin": "Zài tā xīnzhōng, méiyǒu shé me zhídé wèijù.",
+      "english": "In his heart, there is nothing to fear."
     }
   ]
 }

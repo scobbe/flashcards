@@ -5,9 +5,9 @@
   "english": "ridge; mountain range",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "山(山) (shān, \"mountain\") as semantic + 領(領) (lǐng, \"neck, collar\") as phonetic = mountain ridge -> ridge; mountain range",
-    "interpretation": "The character combines 山(山) (shān, \"mountain\") to convey the concept of a mountainous terrain with the phonetic 領(領) (lǐng, \"neck, collar\") to suggest sound, emphasizing the ridge-like quality of a mountain range.",
-    "simplification": "Simplified by replacing the phonetic 領(領) (lǐng, \"neck, collar\") with a similar-looking and phonetically matching component 岭(岭)."
+    "description": "semantic 山 (shān, \"mountain\") + phonetic 領 (lǐng, \"neck; collar\") -> ridge",
+    "interpretation": "In the character 嶺 (lǐng, \"ridge\"), the semantic component 山 (shān, \"mountain\") suggests the geographical feature, while the phonetic component 領 (lǐng) provides the sound. The character evokes the image of a mountain's ridge or crest, akin to the line of a neck, which it resembles in shape, leading logically to the meaning \"ridge\" or \"mountain range.\"",
+    "simplification": "嶺 was simplified to 岭 by replacing the semantic component 領 (lǐng, \"neck; collar\") with 领, retaining phonetic similarity while reducing complexity."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "領",
       "trad": "領",
       "pinyin": "lǐng",
-      "english": "neck, collar"
+      "english": "neck; collar"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "山岭蜿蜒(山嶺蜿蜒)，远处连绵不绝(遠處連綿不絕)。",
-      "pinyin": "shān lǐng wān yán, yuǎn chù lián mián bù jué.",
-      "english": "The ridge winds through the mountains, with endless ranges in the distance."
+      "chinese": "我们早晨爬上了高高的山岭(我們早晨爬上了高高的山嶺)。",
+      "pinyin": "Wǒmen zǎochén pá shàng le gāogāo de shānlǐng.",
+      "english": "We climbed the high mountain ridge in the morning."
     },
     {
-      "chinese": "这条岭贯穿全山脉(這條嶺貫穿全山脈)。",
-      "pinyin": "zhè tiáo lǐng guàn chuān quán shān mài.",
-      "english": "This ridge runs through the entire mountain range."
+      "chinese": "这条山岭横跨整个地区(這條山嶺橫跨整個地區)。",
+      "pinyin": "Zhè tiáo shānlǐng héngkuà zhěnggè dìqū.",
+      "english": "This mountain range spans the entire region."
+    },
+    {
+      "chinese": "云层遮住了山岭的顶峰(雲層遮住了山嶺的頂峰)。",
+      "pinyin": "Yúncéng zhē zhù le shānlǐng de dǐngfēng.",
+      "english": "The cloud layer obscured the mountain ridge's peak."
     }
   ]
 }

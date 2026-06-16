@@ -5,8 +5,8 @@
   "english": "to live",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, \"person\") + 主(主) (zhǔ, \"main\") = person + phonetic indication -> indicates the action of residing",
-    "interpretation": "The character 住(住) (zhù, \"to live\") is a phono-semantic compound where 亻(亻) signifies a person, and 主(主) contributes the phonetic aspect, indicating a person's primary place of residence.",
+    "description": "亻(亻, \"person\") as semantic + 主(主, \"master\") as phonetic -> to live",
+    "interpretation": "The character 住(住) (zhù, \"to live\") combines the semantic component 亻(亻) (rén, \"person\") with the phonetic component 主(主) (zhǔ, \"master\"). The person radical indicates the action done by a person, specifically residing or living in a place, while 主(主) provides the sound. This combination suggests a person staying or residing, reinforcing the concept of dwelling or living.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "主",
       "trad": "主",
       "pinyin": "zhǔ",
-      "english": "main"
+      "english": "master"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "I live in Beijing."
     },
     {
-      "chinese": "他住在海边(他住在海邊)。",
-      "pinyin": "Tā zhù zài Hǎibiān.",
-      "english": "He lives by the sea."
+      "chinese": "他们住在山上(他們住在山上)，每天都能看到美丽的日出(每天都能看到美麗的日出)。",
+      "pinyin": "Tāmen zhù zài shān shàng, měitiān dōu néng kàn dào měilì de rìchū.",
+      "english": "They live on the mountain and can see the beautiful sunrise every day."
     },
     {
-      "chinese": "我住在北京(我住在北京)，对生活充满热情(對生活充滿熱情)。",
-      "pinyin": "Wǒ zhù zài Běijīng, duì shēnghuó chōngmǎn rèqíng.",
-      "english": "I live in Beijing, and I am passionate about life."
+      "chinese": "他曾经住在英国(他曾經住在英國)，后来搬到了日本(後來搬到了日本)。",
+      "pinyin": "Tā céngjīng zhù zài Yīngguó, hòulái bān dào le Rìběn.",
+      "english": "He used to live in the UK, then moved to Japan."
     }
   ]
 }

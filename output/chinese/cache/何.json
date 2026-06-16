@@ -2,43 +2,49 @@
   "simplified": "何",
   "traditional": "何",
   "pinyin": "hé",
-  "english": "phonetic component",
+  "english": "what, which",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 亻(亻) (rén, \"person\") + phonetic: 可(可) (kě, \"can, may\") = person's ability to do something -> interrogative 'what, why'",
-    "interpretation": "The character 何(何) (hé, \"what\") combines the person radical 亻(亻) (rén, \"person\") with 可(可) (kě, \"can, may\") as the phonetic component, indicating actions or attributes related to people, hence its use in asking questions starting with 'what' or 'why'.",
+    "description": "Originally a pictogram of a man carrying something on their shoulder -> some variants as phono-semantic compound with semantic 人(人) (rén, \"person\") + phonetic 戈(戈) (gē, \"dagger-axe\") or 可(可) (kě, \"can\") -> 現 modern form derives from 人 + phonetic 可",
+    "interpretation": "何 depicts a person, 人(人) (rén, \"person\"), potentially carrying a 戈(戈) (gē, \"dagger-axe\") to convey the act of carrying. The phonetic aspect with 戈 indicates the sound, while 可(可) (kě, \"can\") in later forms reinforces the phonetic component. The idea of 'what' or 'which' extends from the nature of indicating or querying involvement or carrying of objects, as a question of identity or role.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "亻",
-      "trad": "亻",
+      "char": "人",
+      "trad": "人",
       "pinyin": "rén",
       "english": "person"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "dagger-axe"
     },
     {
       "char": "可",
       "trad": "可",
       "pinyin": "kě",
-      "english": "can, may"
+      "english": "can"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "何是汉字中常见的声旁(何是漢字中常見的聲旁)。",
-      "pinyin": "Hé shì hànzì zhōng chángjiàn de shēngpáng.",
-      "english": "‘Hé’ is a common phonetic component in Chinese characters."
+      "chinese": "何时出发(何時出發)？",
+      "pinyin": "Hé shí chūfā?",
+      "english": "When do we depart?"
     },
     {
-      "chinese": "研究者探讨了何在不同字中的作用(研究者探討了何在不同字中的作用)，并强调它的重要性(並強調它的重要性)。",
-      "pinyin": "Yánjiū zhě tàntǎo le hé zài bùtóng zì zhōng de zuòyòng, bìng qiángdiào tā de zhòngyào xìng.",
-      "english": "Researchers discussed the role of 'hé' in various characters and emphasized its importance."
+      "chinese": "你为何不参加会议(你為何不參加會議)？",
+      "pinyin": "Nǐ wèihé bù cānjiā huìyì?",
+      "english": "Why are you not attending the meeting?"
     },
     {
-      "chinese": "学者研究何的音韵功能(學者研究何的音韻功能)。",
-      "pinyin": "Xuézhě yánjiū hé de yīnyùn gōngnéng.",
-      "english": "Scholars study the phonological function of 'hé'."
+      "chinese": "何处可以找到这本书(何處可以找到這本書)？",
+      "pinyin": "Héchù kěyǐ zhǎodào zhè běn shū?",
+      "english": "Where can I find this book?"
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "complete",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 戊(戊) (wù, \"weapon\") + phonetic 丁(丁) (dīng, \"nail\") = city walls -> complete",
-    "interpretation": "成(成) (chéng) originally referred to city walls, symbolizing something complete or finished, protected by the weapon element, emphasizing security and completion. Despite folk etymologies, its components are indeed 戊(戊) and 丁(丁), not 囗(囗) (wéi, \"enclosure\") or 口(口) (kǒu, \"mouth\").",
+    "description": "semantic 戊 (depicts a weapon) + phonetic 丁 (sound) -> meaning related to protection or completion",
+    "interpretation": "Originally related to 'city walls', protected by a weapon (戊), which conveys the idea of completeness or fortification. The sound provided by 丁 reinforces this association. This concept of protection leads to the general sense of something being complete or finished.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "丁",
       "trad": "丁",
       "pinyin": "dīng",
-      "english": "nail"
+      "english": "fourth"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "梦想成真(夢想成真)。",
-      "pinyin": "Mèngxiǎng chéng zhēn.",
-      "english": "Dreams come true."
+      "chinese": "这本书终于写成了(這本書終於寫成了)。",
+      "pinyin": "Zhè běn shū zhōngyú xiě chéng le.",
+      "english": "This book is finally completed."
     },
     {
-      "chinese": "经过长时间的准备(經過長時間的準備)，比赛成圆满(比賽成圓滿)。",
-      "pinyin": "Jīngguò cháng shíjiān de zhǔnbèi, bǐsài chéng yuánmǎn.",
-      "english": "After a long preparation, the competition was successfully completed."
+      "chinese": "他成功地解决了这个问题(他成功地解決了這個問題)。",
+      "pinyin": "Tā chénggōng de jiějué le zhège wèntí.",
+      "english": "He successfully solved this problem."
     },
     {
-      "chinese": "一切都成现实(一切都成現實)。",
-      "pinyin": "Yīqiè dōu chéng xiànshí.",
-      "english": "Everything has become reality."
+      "chinese": "我的梦想是成为一名医生(我的夢想是成為一名醫生)。",
+      "pinyin": "Wǒ de mèngxiǎng shì chéngwéi yī míng yīshēng.",
+      "english": "My dream is to become a doctor."
     }
   ]
 }

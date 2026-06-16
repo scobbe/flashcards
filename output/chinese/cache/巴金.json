@@ -5,8 +5,8 @@
   "english": "Ba Jin",
   "etymology": {
     "type": "compound word",
-    "description": "巴(巴) (bā, \"to cling; a surname\") is often used as a proper noun or surname, and 金(金) (jīn, \"gold; metal\") is also commonly used as a surname or to represent wealth or value.",
-    "interpretation": "巴金(Bā Jīn) is a well-known pen name of the famed 20th-century Chinese writer. The pen name reflects both personal identity as a surname and the value or richness associated with his literary contributions.",
+    "description": "巴(巴) (bā, \"to cling; to hope for\") is a phonetic element here. 金(金) (jīn, \"metal; gold\") can symbolize wealth, value, or excellence, but in this case, it serves as a phonetic component. The name 巴金 (Bā Jīn) is a phonetic transcription rather than a semantic combination.",
+    "interpretation": "巴金 (Bā Jīn) is the pen name of a notable Chinese writer and anarchist, taking inspiration from Russian and French literature. The characters themselves in this context are used primarily for their pronunciation as a phonetic representation of his chosen pen name.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "巴",
       "trad": "巴",
       "pinyin": "bā",
-      "english": "to cling; a surname"
+      "english": "to cling; to hope for"
     },
     {
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "gold; metal"
+      "english": "metal; gold"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我经常阅读巴金的小说(我經常閱讀巴金的小說)。",
-      "pinyin": "Wǒ jīngcháng yuèdú Bā Jīn de xiǎoshuō.",
-      "english": "I often read Ba Jin's novels."
+      "chinese": "巴金是一位著名的中国作家(巴金是一位著名的中國作家)。",
+      "pinyin": "Bā Jīn shì yī wèi zhùmíng de Zhōngguó zuòjiā.",
+      "english": "Ba Jin was a famous Chinese writer."
     },
     {
-      "chinese": "巴金的作品深刻(巴金的作品深刻)，影响了一代人(影響了一代人)。",
-      "pinyin": "Bā Jīn de zuòpǐn shēnkè, yǐngxiǎngle yī dài rén.",
-      "english": "Ba Jin's works are profound and have influenced a generation."
+      "chinese": "我读了巴金的小说(我讀了巴金的小說)，深受感动(深受感動)。",
+      "pinyin": "Wǒ dúle Bā Jīn de xiǎoshuō, shēn shòu gǎndòng.",
+      "english": "I read Ba Jin's novel and was deeply moved."
     },
     {
-      "chinese": "我在讲座中听到巴金的演讲(我在講座中聽到巴金的演講)。",
-      "pinyin": "Wǒ zài jiǎngzuò zhōng tīngdào Bā Jīn de yǎnjiǎng.",
-      "english": "I heard Ba Jin's speech at the lecture."
+      "chinese": "巴金的作品在文学界影响深远(巴金的作品在文學界影響深遠)。",
+      "pinyin": "Bā Jīn de zuòpǐn zài wénxué jiè yǐngxiǎng shēnyuǎn.",
+      "english": "Ba Jin's works have a profound impact in the literary world."
     }
   ]
 }

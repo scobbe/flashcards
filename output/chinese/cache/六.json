@@ -5,34 +5,27 @@
   "english": "six",
   "etymology": {
     "type": "pictogram",
-    "description": "Originally represented by a shed 廬(廬) (lú, 'shed') -> Borrowed for phonetic similarity to indicate 'six'",
-    "interpretation": "Though initially depicting a structure like a shed, 六(liù) evolved to represent the number 'six' using phonetic borrowing, suggesting an early use of sounds to convey complex concepts.",
+    "description": "Ancient counting symbol -> character for 'six'",
+    "interpretation": "六 (liù, 'six') is a pictogram that may originally have depicted a shed, but was primarily used as an ancient counting symbol. The form resembles primitive tally markings used for numerical purposes.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "廬",
-      "trad": "廬",
-      "pinyin": "lú",
-      "english": "shed"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了六个橘子(我買了六個橘子)。",
-      "pinyin": "Wǒ mǎile liù gè júzi.",
-      "english": "I bought six oranges."
+      "chinese": "我有六个苹果(我有六個蘋果)。",
+      "pinyin": "Wǒ yǒu liù gè píngguǒ.",
+      "english": "I have six apples."
     },
     {
-      "chinese": "我家有六口人(我家有六口人)，他们个个活泼(他們個個活潑)。",
-      "pinyin": "Wǒ jiā yǒu liù kǒurén, tāmen gègè huópō.",
-      "english": "There are six members in my family, and each of them is lively."
+      "chinese": "这个盒子可以放六瓶水(這個盒子可以放六瓶水)。",
+      "pinyin": "Zhè gè hézi kěyǐ fàng liù píng shuǐ.",
+      "english": "This box can hold six bottles of water."
     },
     {
-      "chinese": "六点钟了(六點鐘了)，我该出发了(我該出發了)。",
-      "pinyin": "Liù diǎn zhōng le, wǒ gāi chūfā le.",
-      "english": "It's six o'clock, I should leave now."
+      "chinese": "六只猫在花园里玩耍(六隻貓在花園裡玩耍)。",
+      "pinyin": "Liù zhī māo zài huāyuán lǐ wánshuǎ.",
+      "english": "Six cats are playing in the garden."
     }
   ]
 }

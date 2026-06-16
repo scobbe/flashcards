@@ -5,8 +5,8 @@
   "english": "clumsy; awkward",
   "etymology": {
     "type": "compound word",
-    "description": "笨(笨) (bèn, \"stupid; clumsy\") refers to a lack of dexterity or intelligence. 手(手) (shǒu, \"hand\") and 腳(脚) (jiǎo, \"foot\") represent the physical extremities that are associated with actions and movements. The repetition of 笨(笨) (bèn, \"stupid; clumsy\") with 手(手) (shǒu, \"hand\") and 腳(脚) (jiǎo, \"foot\") emphasizes an overall clumsiness or awkwardness in physical movements.",
-    "interpretation": "By stating that both the hands and feet are clumsy, 笨手笨腳(笨手笨腳) (bènshǒu bènjiǎo) conveys a strong sense of overall awkwardness in physical coordination.",
+    "description": "笨(笨) (bèn, \"stupid; clumsy\") refers to lack of intelligence or dexterity. 手(手) (shǒu, \"hand\") and 腳(腳) (jiǎo, \"foot\") refer to the physical limbs for manipulation and movement. The combination of 笨(笨) (bèn, \"clumsy\") with 手(手) (shǒu, \"hand\") and 腳(腳) (jiǎo, \"foot\") conveys unskillfulness and lack of coordination in using one's hands and feet, leading to the overall meaning of being \"clumsy\" or \"awkward.\"",
+    "interpretation": "笨(笨) (bèn, \"clumsy\") in conjunction with 手(手) (shǒu, \"hand\") directly paints the picture of someone who is awkward in handling or manipulating objects. Similarly, 笨(笨) (bèn, \"clumsy\") with 腳(腳) (jiǎo, \"foot\") creates the image of a person who is unsteady on their feet. Collectively, these depict someone whose awkwardness extends from precise manipulation to general movement, effectively embodying the essence of clumsiness or awkwardness.",
     "simplification": ""
   },
   "parts": [
@@ -23,13 +23,7 @@
       "english": "hand"
     },
     {
-      "char": "笨",
-      "trad": "笨",
-      "pinyin": "bèn",
-      "english": "stupid; clumsy"
-    },
-    {
-      "char": "脚",
+      "char": "腳",
       "trad": "腳",
       "pinyin": "jiǎo",
       "english": "foot"
@@ -38,14 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他做事总是笨手笨脚(他做事總是笨手笨腳)。",
-      "pinyin": "Tā zuòshì zǒng shì bènshǒu bènjiǎo.",
-      "english": "He is always clumsy in his work."
+      "chinese": "他总是笨手笨脚地打破东西(他總是笨手笨腳地打破東西)。",
+      "pinyin": "Tā zǒng shì bènshǒu bènjiǎo de dǎpò dōngxī.",
+      "english": "He always clumsily breaks things."
     },
     {
-      "chinese": "因为他笨手笨脚(因為他笨手笨腳)，常常打翻杯子(常常打翻杯子)。",
-      "pinyin": "Yīnwèi tā bènshǒu bènjiǎo, chángcháng dǎ fān bēizi.",
-      "english": "Because he is clumsy, he often spills his cup."
+      "chinese": "她笨手笨脚，但非常可爱(她笨手笨腳，但非常可愛)。",
+      "pinyin": "Tā bènshǒu bènjiǎo, dàn fēicháng kě'ài.",
+      "english": "She is clumsy but very adorable."
+    },
+    {
+      "chinese": "小明在体育课上显得笨手笨脚(小明在體育課上顯得笨手笨腳)。",
+      "pinyin": "Xiǎomíng zài tǐyù kè shàng xiǎndé bènshǒu bènjiǎo.",
+      "english": "Xiaoming appears clumsy in gym class."
     }
   ]
 }

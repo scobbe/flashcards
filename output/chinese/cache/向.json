@@ -5,8 +5,8 @@
   "english": "towards",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "宀(宀) (mián, \"roof\") + 口(口) (kǒu, \"mouth\") = indoors with sound -> direction towards which something is directed",
-    "interpretation": "The character 向(向) (xiàng, \"towards\") combines 宀(宀) (mián, \"roof\") and 口(口) (kǒu, \"mouth\") to suggest the idea of a sound or attention being directed towards a certain point or direction within an enclosed space. This reflects the concept of orientation or facing a direction.",
+    "description": "宀 (house) + 口 (mouth) = echos in a place -> original form of 響",
+    "interpretation": "The character 向 (xiàng, 'towards') originally depicted echoes in a space, suggesting a sound emanating within a house. Over time, this visual evolved into denoting a direction or orientation, similar to how a sound moves towards something. Thus, it was used to express the concept of 'towards.'",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "宀",
       "trad": "宀",
       "pinyin": "mián",
-      "english": "roof"
+      "english": "house"
     },
     {
       "char": "口",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他向前走(他向前走)。",
-      "pinyin": "tā xiàng qián zǒu",
-      "english": "He walked forward."
+      "chinese": "她向我微笑(她向我微笑)。",
+      "pinyin": "Tā xiàng wǒ wēixiào.",
+      "english": "She smiled towards me."
     },
     {
-      "chinese": "我向老师请教(我向老師請教)。",
-      "pinyin": "wǒ xiàng lǎo shī qǐng jiào",
-      "english": "I consulted the teacher."
+      "chinese": "船正向港口驶去(船正向港口駛去)。",
+      "pinyin": "Chuán zhèng xiàng gǎngkǒu shǐqù.",
+      "english": "The ship is sailing towards the port."
     },
     {
-      "chinese": "风向改变(風向改變)。",
-      "pinyin": "fēng xiàng gǎi biàn",
-      "english": "The wind direction changed."
+      "chinese": "他向老师请教问题(他向老師請教問題)。",
+      "pinyin": "Tā xiàng lǎoshī qǐngjiào wèntí.",
+      "english": "He consulted the teacher about the problem."
     }
   ]
 }

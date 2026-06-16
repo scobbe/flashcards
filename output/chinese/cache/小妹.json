@@ -5,8 +5,8 @@
   "english": "little sister; young woman",
   "etymology": {
     "type": "compound word",
-    "description": "小(小) (xiǎo, \"small; little\") combined with 妹(妹) (mèi, \"younger sister\")",
-    "interpretation": "小妹 refers to a 'little sister' and is also commonly used to refer to a 'young woman.' This term highlights the familial and respectful way young women are sometimes addressed, often in informal or familial settings. In traditional Chinese culture, family relationships and their respective titles hold significant importance in demonstrating respect and hierarchy.",
+    "description": "小(小) (xiǎo, \"small\") + 妹(妹) (mèi, \"younger sister\").",
+    "interpretation": "小(小) (xiǎo, \"small\") denotes something younger or lesser in a family hierarchy, directly linking to 妹(妹) (mèi, \"younger sister\"), who is smaller in age. The term is used both literally for a younger sister and metaphorically for a young woman, extending from familial contexts to imply youth, endearment, or lesser seniority in social situations.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "妹",
       "trad": "妹",
       "pinyin": "mèi",
-      "english": "younger sister"
+      "english": "younger sister; girl"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,9 +31,14 @@
       "english": "My little sister is very smart."
     },
     {
-      "chinese": "昨天我带小妹去公园(昨天我帶小妹去公園)，她玩得很开心(她玩得很開心)。",
-      "pinyin": "Zuótiān wǒ dài xiǎomèi qù gōngyuán, tā wán dé hěn kāixīn.",
-      "english": "Yesterday, I took my little sister to the park, and she had a lot of fun."
+      "chinese": "小妹喜欢弹钢琴(小妹喜歡彈鋼琴)。",
+      "pinyin": "Xiǎomèi xǐhuān tán gāngqín.",
+      "english": "My little sister likes to play the piano."
+    },
+    {
+      "chinese": "我和小妹一起去公园(我和小妹一起去公園)。",
+      "pinyin": "Wǒ hé xiǎomèi yīqǐ qù gōngyuán.",
+      "english": "My little sister and I went to the park together."
     }
   ]
 }

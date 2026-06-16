@@ -2,30 +2,37 @@
   "simplified": "未",
   "traditional": "未",
   "pinyin": "mèi",
-  "english": "",
+  "english": "not yet, incomplete",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tree with vertical growth not yet reaching full maturity.",
-    "interpretation": "The character 未(mèi) represents a tree that has not yet reached its full height, symbolizing the concept of 'not yet' or 'not yet fulfilled'. This pictorial representation highlights the state of incompleteness or being unfinished.",
+    "description": "Depicts a tree with lush branches on top -> 未",
+    "interpretation": "The character 未(mèi, \"not yet\") depicts a tree 木(木) (mù, \"tree\") with lush branches on top, representing incompletion or future potential. This image conveys the concept of something not yet ripe or complete, leading to the meaning 'not yet'.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他未到家(他未到家)。",
-      "pinyin": "Tā mèi dào jiā.",
-      "english": "He has not arrived home."
+      "chinese": "我还未听说过这个消息(我還未聽說過這個消息)。",
+      "pinyin": "Wǒ hái mèi tīng shuō guò zhège xiāoxi.",
+      "english": "I have not yet heard this news."
     },
     {
-      "chinese": "我未看见他(我未看見他)，也未听到消息(也未聽到消息)。",
-      "pinyin": "Wǒ mèi kànjiàn tā, yě mèi tīngdào xiāoxī.",
-      "english": "I did not see him, nor did I hear any news."
+      "chinese": "他虽然努力工作，但未完成任务(他雖然努力工作，但未完成任務)。",
+      "pinyin": "Tā suīrán nǔlì gōngzuò, dàn mèi wánchéng rènwù.",
+      "english": "Although he worked hard, he did not complete the task."
     },
     {
-      "chinese": "他未明白问题(他未明白問題)。",
-      "pinyin": "Tā mèi míngbái wèntí.",
-      "english": "He did not understand the problem."
+      "chinese": "项目未能按时完成(項目未能按時完成)。",
+      "pinyin": "Xiàngmù mèi néng ànshí wánchéng.",
+      "english": "The project was not completed on time."
     }
   ]
 }

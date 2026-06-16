@@ -5,8 +5,8 @@
   "english": "vegan",
   "etymology": {
     "type": "compound word",
-    "description": "全(全) (quán, \"whole\") refers to something complete or entire, and 素(素) (sù, \"plain; vegetarian\") originally means simple, plain, or referring to vegetarian food. In this context, 全素 describes a diet that is entirely vegetarian, better known as vegan.",
-    "interpretation": "The combination of 全(全) (quán, \"whole\") and 素(素) (sù, \"plain; vegetarian\") indicates a diet that is entirely plant-based, without any animal products. This reflects the concept of veganism, emphasizing a complete adherence to vegetarian principles.",
+    "description": "全(全) (quán, \"whole; complete; total\") + 素(素) (sù, \"vegetarian; plain; simple\") refers to a dietary lifestyle that is fully vegetarian without animal products.",
+    "interpretation": "全(全) (quán, \"whole; complete; total\") indicates entirety or completeness. 素(素) (sù, \"vegetarian; plain; simple\") refers to a diet or lifestyle that is free from meat, typically incorporating no animal products. Together, 全素 (quánsù) refers to a diet that is entirely vegetarian, emphasizing the absence of any animal-derived ingredients, hence 'vegan'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "全",
       "trad": "全",
       "pinyin": "quán",
-      "english": "whole; entire"
+      "english": "whole; complete; total"
     },
     {
       "char": "素",
       "trad": "素",
       "pinyin": "sù",
-      "english": "plain; vegetarian; simple"
+      "english": "vegetarian; plain; simple"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我选择全素(我選擇全素)。",
-      "pinyin": "Wǒ xuǎnzé quánsù.",
-      "english": "I choose a vegan lifestyle."
+      "chinese": "我今天决定吃全素(我今天決定吃全素)。",
+      "pinyin": "Wǒ jīntiān juédìng chī quánsù.",
+      "english": "I've decided to eat vegan today."
     },
     {
-      "chinese": "他坚持全素(他堅持全素)，注重环保(注重環保)。",
-      "pinyin": "Tā jiānchí quánsù, zhùzhòng huánbǎo.",
-      "english": "He adheres to a vegan lifestyle, emphasizing environmental protection."
+      "chinese": "全素饮食有益于健康(全素飲食有益於健康)。",
+      "pinyin": "Quánsù yǐnshí yǒuyì yú jiànkāng.",
+      "english": "A vegan diet is beneficial for health."
     },
     {
-      "chinese": "全素食物营养丰富(全素食物營養豐富)。",
-      "pinyin": "Quánsù shíwù yíngyǎng fēngfù.",
-      "english": "Vegan food is nutritionally rich."
+      "chinese": "在派对上(在派對上)，提供了各种全素食品(提供了各種全素食品)。",
+      "pinyin": "Zài pàiduì shàng, tígōngle gèzhǒng quánsù shípǐn.",
+      "english": "Various vegan foods were provided at the party."
     }
   ]
 }

@@ -4,23 +4,41 @@
   "pinyin": "qiě",
   "english": "further",
   "etymology": {
-    "type": "Pictogram",
-    "description": "Depicts a stone altar or a sacrificial vessel used for chopping and holding meat",
-    "interpretation": "The character 且(qiě, 'further') likely represents a stone altar or a sacrificial vessel from a top-down view, emphasizing its association with rituals or offerings. Its early usage linked it to the concept of ancestor worship or ritual practices, which later evolved to incorporate additional meanings.",
+    "type": "pictogram",
+    "description": "Depicts a stone altar or a sacrificial vessel from above -> original form of 俎(俎) (zǔ, \"sacrificial vessel\") -> borrowed for ancestor rites in 祖(祖) (zǔ, \"ancestor\")",
+    "interpretation": "The character 且(qiě) originally depicted a stone altar used in sacrificial rites or a vessel for holding meat, reflecting its association with mealtime offerings or ancestor worship in characters like 祖(zǔ, \"ancestor\").",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "祖",
+      "trad": "祖",
+      "pinyin": "zǔ",
+      "english": "ancestor"
+    },
+    {
+      "char": "俎",
+      "trad": "俎",
+      "pinyin": "zǔ",
+      "english": "sacrificial vessel"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他努力工作(他努力工作)，且不断学习(且不斷學習)。",
-      "pinyin": "Tā nǔlì gōngzuò, qiě bù duàn xuéxí.",
-      "english": "He works hard, and further, he keeps learning continuously."
+      "chinese": "这家餐厅的食物美味(這家餐廳的食物美味)，且服务一流(且服務一流)。",
+      "pinyin": "Zhè jiā cāntīng de shíwù měiwèi, qiě fúwù yīliú.",
+      "english": "The food at this restaurant is delicious, and furthermore, the service is excellent."
     },
     {
-      "chinese": "你且等待一会儿(你且等待一會兒)，机会即将来临(機會即將來臨)。",
-      "pinyin": "Nǐ qiě děngdài yīhuǐr, jīhuì jíjiāng láilín.",
-      "english": "Please wait a moment, as further opportunity is about to arrive."
+      "chinese": "他不仅聪明(他不僅聰明)，且待人友善(且待人友善)。",
+      "pinyin": "Tā bùjǐn cōngmíng, qiě dàirén yǒushàn.",
+      "english": "He is not only smart, but also treats people kindly."
+    },
+    {
+      "chinese": "我们需努力工作(我們需努力工作)，且保持乐观态度(且保持樂觀態度)。",
+      "pinyin": "Wǒmen xū nǔlì gōngzuò, qiě bǎochí lèguān tàidù.",
+      "english": "We need to work hard and furthermore, maintain a positive attitude."
     }
   ]
 }

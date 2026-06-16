@@ -4,17 +4,23 @@
   "pinyin": "xián",
   "english": "strong",
   "etymology": {
-    "type": "ancient character",
-    "description": "Ancient form of 賢(賢) (xián, \"virtuous\")",
-    "interpretation": "The character 臤 is an ancient form representing the concept of strength, related to 行(行) (xíng, \"to go\") and 賢(賢) (xián, \"virtuous\").",
+    "type": "phono-semantic compound",
+    "description": "Phono-semantic compound: semantic 艮(身) (gèn, \"stopping; posture\") + phonetic 干(乾) (qián)",
+    "interpretation": "The character 臤 initially combined 艮(艮) which conveys a sense of firmness or stability, with 干(干) for phonetic purposes, suggesting strength. The concept of being 'strong' arises from the stability and firmness denoted by the stopping posture, which reflects strength in physical or moral standing.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "賢",
-      "trad": "賢",
-      "pinyin": "xián",
-      "english": "virtuous"
+      "char": "艮",
+      "trad": "艮",
+      "pinyin": "gèn",
+      "english": "stopping; posture"
+    },
+    {
+      "char": "干",
+      "trad": "干",
+      "pinyin": "qián",
+      "english": "to dry"
     }
   ],
   "in_contemporary_usage": false,

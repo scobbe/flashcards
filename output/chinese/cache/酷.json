@@ -5,8 +5,8 @@
   "english": "cool",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "酉(酉) (yǒu, \"alcoholic drink vessel\") + 告(告) (gào) = 酉(\"alcoholic drink vessel\") provides meaning related to fermentation -> 告 serves as the phonetic element -> final form of 酷",
-    "interpretation": "The character 酷(酷) (kù, \"cool\") combines 酉(酉) (yǒu, \"alcoholic drink vessel\") indicating fermentation or strong flavors, with 告(告) (gào) suggesting the phonetic sound, forming a character that conveys the sense of something intense or severe, historically applied to harshness or intensity, now colloquially adapted to mean 'cool' or 'stylish.'",
+    "description": "semantic 酉(酉) (yǒu, \"alcoholic drink vessel\") + phonetic 告(告) (gào) -> association with alcoholic drink -> extremity or intensity -> final form 酷",
+    "interpretation": "The character 酷 originally combines 酉(酉) (yǒu, \"alcoholic drink vessel\") to suggest associations of severity or intensity, similar to the intensity one might experience from strong alcohol. 告(告) (gào) provides the phonetic component, contributing to the sound rather than meaning. This combination leads to meanings like 'cruel, harsh' and extends to the modern informal sense of 'cool' as an intensifier in style or demeanor.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "告",
       "trad": "告",
       "pinyin": "gào",
-      "english": "announce"
+      "english": "tell; report"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的风格很酷(他的風格很酷)。",
-      "pinyin": "Tā de fēnggé hěn kù.",
-      "english": "His style is very cool."
+      "chinese": "这个设计看起来很酷(這個設計看起來很酷)。",
+      "pinyin": "Zhège shèjì kàn qǐlái hěn kù.",
+      "english": "This design looks really cool."
     },
     {
-      "chinese": "这辆车看起来非常酷(這輛車看起來非常酷)。",
-      "pinyin": "Zhè liàng chē kàn qǐlái fēicháng kù.",
-      "english": "This car looks extremely cool."
+      "chinese": "他是一位很酷的老师(他是一位很酷的老師)。",
+      "pinyin": "Tā shì yī wèi hěn kù de lǎoshī.",
+      "english": "He is a very cool teacher."
     },
     {
-      "chinese": "她的新发型很酷(她的新髮型很酷)，让她看起来更有气质(讓她看起來更有氣質)。",
-      "pinyin": "Tā de xīn fàxíng hěn kù, ràng tā kàn qǐlái gèng yǒu qìzhí.",
-      "english": "Her new hairstyle is cool, making her look more elegant."
+      "chinese": "这些音乐听起来很酷(這些音樂聽起來很酷)，让我想跳舞(讓我想跳舞)。",
+      "pinyin": "Zhèxiē yīnyuè tīng qǐlái hěn kù, ràng wǒ xiǎng tiàowǔ.",
+      "english": "This music sounds cool, making me want to dance."
     }
   ]
 }

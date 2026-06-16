@@ -5,8 +5,8 @@
   "english": "waiting",
   "etymology": {
     "type": "compound word",
-    "description": "等(等) (děng, \"wait\") + 着(著) (zhe, \"continuous aspect particle\") = to be in a state of waiting",
-    "interpretation": "等(等) (děng, \"wait\") signifies the action of waiting, and 着(著) (zhe, \"continuous aspect particle\") indicates a continuous or ongoing action. Together, 等着(等著) (děng zhe) describes the action of waiting in progress, emphasizing an ongoing state of anticipation or expectancy.",
+    "description": "等(等) (děng, \"wait; rank\") suggests someone is pausing or anticipating an event or person. 著(著) (zhe, \"-ing; to touch\") is a verb suffix indicating a continuous state of an action, similar to the English '-ing'.",
+    "interpretation": "等(等) (děng, \"wait\") implies a period of patience or anticipation, as when pausing before an expected action. 著(著) (zhe, \"-ing\") transforms this into the continuous aspect, like 'waiting', emphasizing the ongoing nature of the wait. Together, they convey someone actively in the process of waiting.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "等",
       "trad": "等",
       "pinyin": "děng",
-      "english": "wait; rank; equal"
+      "english": "wait; rank"
     },
     {
       "char": "着",
       "trad": "著",
       "pinyin": "zhe",
-      "english": "continuous aspect particle; touch; wear"
+      "english": "-ing; to touch"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈在门口等着(媽媽在門口等著)。",
-      "pinyin": "Māmā zài ménkǒu děng zhe.",
-      "english": "Mom is waiting at the door."
+      "chinese": "我在车站等着你(我在車站等著你)。",
+      "pinyin": "Wǒ zài chēzhàn děng zhe nǐ.",
+      "english": "I am waiting for you at the station."
     },
     {
-      "chinese": "我们等着(我們等著)，你快点来(你快點來)。",
-      "pinyin": "Wǒmen děng zhe, nǐ kuài diǎn lái.",
-      "english": "We are waiting, come quickly."
+      "chinese": "他等着电话铃响(他等著電話鈴響)。",
+      "pinyin": "Tā děng zhe diànhuà líng xiǎng.",
+      "english": "He is waiting for the phone to ring."
     },
     {
-      "chinese": "他在车站等着(他在車站等著)，期待火车到来(期待火車到來)。",
-      "pinyin": "Tā zài chēzhàn děng zhe, qídài huǒchē dàolái.",
-      "english": "He is waiting at the station, expecting the train to arrive."
+      "chinese": "我们等着开会(我們等著開會)。",
+      "pinyin": "Wǒmen děng zhe kāihuì.",
+      "english": "We are waiting for the meeting to start."
     }
   ]
 }

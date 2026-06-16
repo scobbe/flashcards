@@ -5,9 +5,9 @@
   "english": "concealed; shade; moon; female",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 阜(阜) (fù, \"mound\") + Phonetic: 侌(侌) (yīn) = concealed places or shade -> moon and female associations",
-    "interpretation": "The character 阴(陰) (yīn, \"concealed\") uses 阜(阜) (fù, \"mound\") to suggest a connection to physical features like hills or mounds that create shade, while 侌(侌) (yīn) contributes the sound. This relates to concepts of concealment, shadow, and indirectly the moon and femininity in traditional Chinese thought.",
-    "simplification": "The character 阴(阴) replaces the phonetic 侌(侌) (yīn) with 月(月) (yuè, \"moon\"), making it visually more simple and retaining the association with moon-related meanings."
+    "description": "semantic 阜(阜) (fù, \"mound\") + phonetic 侌(侌) (yīn, \"concealed\") -> concealed location -> shade, moon, female",
+    "interpretation": "The character 陰(陰) (yīn, \"concealed; shade; moon; female\") combines 阜(阜) (fù, \"mound\") suggesting a hill or elevation that blocks light, with 侌(侌) (yīn, \"concealed\") indicating the hidden or shadowy aspect of such a place. Together, they convey the concept of something being hidden in the shadow of a hill or mound, thus connecting to ideas of shade and concealment. The association with the moon and female stems from the moon's own phases of visibility and its yin-feminine qualities in Chinese philosophy.",
+    "simplification": "An unorthodox variant where 侌(侌) (yīn, \"concealed\") was replaced with the component 月(月) (yuè, \"moon\") was eventually adopted as the official simplified form in 1956."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "侌",
       "trad": "侌",
       "pinyin": "yīn",
-      "english": "phonetic"
+      "english": "concealed"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "北方的阴雨绵绵(北方的陰雨綿綿)，让人感到忧郁(讓人感到憂鬱)。",
-      "pinyin": "Běifāng de yīnyǔ miánmián, ràng rén gǎndào yōuyù.",
-      "english": "The continuous gloomy drizzle in the north makes people feel depressed."
+      "chinese": "天气阴沉(天氣陰沉)，似乎要下雨(似乎要下雨)。",
+      "pinyin": "Tiānqì yīnchén, sìhū yào xiàyǔ.",
+      "english": "The weather is gloomy, it seems like it's going to rain."
     },
     {
-      "chinese": "她展现出阴柔之美(她展現出陰柔之美)，令人着迷(令人著迷)。",
-      "pinyin": "Tā zhǎnxiàn chū yīnróu zhī měi, lìng rén zháomí.",
-      "english": "She displays a unique feminine grace that captivates people."
+      "chinese": "她走进了阴影里(她走進了陰影裡)，消失不见(消失不見)。",
+      "pinyin": "Tā zǒu jìnle yīnyǐng lǐ, xiāoshī bùjiàn.",
+      "english": "She walked into the shadow and disappeared."
     },
     {
-      "chinese": "夜幕降临时(夜幕降臨時)，月色显得格外阴柔(月色顯得格外陰柔)。",
-      "pinyin": "Yèmù jiànglín shí, yuèsè xiǎndé géwài yīnróu.",
-      "english": "As night falls, the moonlight appears especially soft and feminine."
+      "chinese": "月亮只有半边在夜空中显示(月亮只有半邊在夜空中顯示)。",
+      "pinyin": "Yuèliang zhǐyǒu bànbiān zài yèkōng zhōng xiǎnshì.",
+      "english": "Only half of the moon is visible in the night sky."
     }
   ]
 }

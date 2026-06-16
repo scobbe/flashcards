@@ -1,0 +1,44 @@
+{
+  "simplified": "腳",
+  "traditional": "腳",
+  "pinyin": "jiǎo",
+  "english": "foot",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic ⺼ (meat, body) + phonetic 卻 (sound) -> part of the body, the foot or leg",
+    "interpretation": "The character 腳(腳) (jiǎo, \"foot\") combines the semantic component ⺼(肉) (ròu, \"meat, body\") which indicates a part of the body, with the phonetic component 卻(卻) (què) to suggest the sound. This blend points to a specific body part, here denoting the foot or leg.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "⺼",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; body"
+    },
+    {
+      "char": "卻",
+      "trad": "卻",
+      "pinyin": "què",
+      "english": "to retreat"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的腳很痛(我的腳很痛)。",
+      "pinyin": "Wǒ de jiǎo hěn tòng.",
+      "english": "My foot hurts."
+    },
+    {
+      "chinese": "他的腳比我的大(他的腳比我的大)。",
+      "pinyin": "Tā de jiǎo bǐ wǒ de dà.",
+      "english": "His foot is bigger than mine."
+    },
+    {
+      "chinese": "她踢足球的时候受伤了她的腳(她踢足球的時候受傷了她的腳)。",
+      "pinyin": "Tā tī zúqiú de shíhòu shòushāngle tā de jiǎo.",
+      "english": "She injured her foot while playing soccer."
+    }
+  ]
+}

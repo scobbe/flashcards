@@ -1,15 +1,28 @@
 {
   "simplified": "𥏻",
   "traditional": "𥏻",
-  "pinyin": "",
-  "english": "phonetic",
+  "pinyin": "duì",
+  "english": "break, fall apart",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a window",
-    "interpretation": "The character 𥏻 is an ancient pictographic representation of a window with window panes. It is primarily used as a phonetic component in other characters.",
+    "type": "ideogrammic compound",
+    "description": "艸(艸) (cǎo, \"grass\") + 禾(禾) (hé, \"grain\") = something breaking/getting damaged -> break apart",
+    "interpretation": "The character combines 艸(艸) (cǎo, \"grass\") and 禾(禾) (hé, \"grain\"), suggesting the image of plants or crops being disturbed or cut, leading to the concept of breaking or falling apart.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

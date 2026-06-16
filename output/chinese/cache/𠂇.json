@@ -5,11 +5,18 @@
   "english": "cover",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a left hand -> derived from 又(又) (yòu, \"again\") flipped",
-    "interpretation": "The character 𠂇, representing a left hand, is a pictogram that visually depicts the shape of the hand. It is derived from the character 又(又) (yòu, \"again\"), flipped to represent this specific form. The feature is seen in characters like 灰(灰) (huī, \"gray\") as part of its composition, showing the use of a hand visual throughout its historical characters.",
+    "description": "Depicts 又(又) (yòu, \"again\") flipped, representing a left hand.",
+    "interpretation": "𠂇 is a pictogram representing a left hand, visually derived from the character 又(又) (yòu, \"again\") by flipping it.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

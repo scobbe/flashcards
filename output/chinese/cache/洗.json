@@ -5,8 +5,8 @@
   "english": "wash; cleanse; clean",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "水(水) (shuǐ, \"water\") + 先(先) (xiān) = activity involving water -> wash",
-    "interpretation": "The character 洗(xǐ, \"wash\") combines 水(水) (shuǐ, \"water\"), which signifies the action involving water, with 先(先) (xiān) providing the phonetic component. This combination effectively conveys the concept of washing or cleansing, which inherently involves water.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 先(先) (xiān) -> wash",
+    "interpretation": "The character 洗(xǐ, \"wash\") combines the semantic component 水(水) (shuǐ, \"water\"), indicating the involvement of water in the action, with the phonetic component 先(先) (xiān), which provides the pronunciation. This pairing effectively conveys the meaning of washing or cleaning, which naturally involves water.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "先",
       "trad": "先",
       "pinyin": "xiān",
-      "english": "first"
+      "english": "before"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天洗衣服(我每天洗衣服)。",
-      "pinyin": "Wǒ měitiān xǐ yīfú.",
-      "english": "I wash clothes every day."
+      "chinese": "我洗了碗(我洗了碗)。",
+      "pinyin": "Wǒ xǐle wǎn.",
+      "english": "I washed the dishes."
     },
     {
-      "chinese": "请在饭前洗手(請在飯前洗手)。",
-      "pinyin": "Qǐng zài fàn qián xǐ shǒu.",
-      "english": "Please wash your hands before eating."
+      "chinese": "她每天洗衣服(她每天洗衣服)，所以总是很忙(所以總是很忙)。",
+      "pinyin": "Tā měitiān xǐ yīfú, suǒyǐ zǒngshì hěn máng.",
+      "english": "She washes clothes every day, so she is always busy."
     },
     {
-      "chinese": "她喜欢用温水洗脸(她喜歡用溫水洗臉)。",
-      "pinyin": "Tā xǐhuān yòng wēnshuǐ xǐ liǎn.",
-      "english": "She likes to wash her face with warm water."
+      "chinese": "他用热水洗脸(他用熱水洗臉)。",
+      "pinyin": "Tā yòng rèshuǐ xǐ liǎn.",
+      "english": "He washes his face with hot water."
     }
   ]
 }

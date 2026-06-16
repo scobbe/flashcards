@@ -1,0 +1,22 @@
+{
+  "simplified": "乑",
+  "traditional": "乑",
+  "pinyin": "yín",
+  "english": "together",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a sun (日) above three humans (㐺) -> sun modified to resemble a horizontal eye (early form of 目) -> a crowd under someone’s gaze -> final form resembles 罒.",
+    "interpretation": "The character 乑 is derived from 眾(众) (zhòng, \"multitude\"), symbolizing a crowd gathered under the gaze of the sun, reinterpreted as the eye of authority overseeing a collective group, representing the concept of 'together' or 'gathered'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "眾",
+      "trad": "眾",
+      "pinyin": "zhòng",
+      "english": "multitude"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

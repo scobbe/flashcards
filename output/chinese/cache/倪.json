@@ -5,19 +5,19 @@
   "english": "limit",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(人, \"person\") + 兒(儿, \"child\"/phonetic) = a figurative extension of limit or boundary -> referentially associated with limits of a person or actions",
-    "interpretation": "The character 倪(ní) combines 人(亻) (rén, \"person\") as the semantic component, indicating a relationship to human characteristics or conditions, with 兒(儿) as the phonetic component, suggesting the pronunciation. This combination may metaphorically suggest the limitations inherent to a person or situation.",
+    "description": "semantic 亻(亻) (rén, \"person\") + phonetic 兒(兒) (ér) -> limit",
+    "interpretation": "The character 倪(ní, \"limit\") combines the semantic element 亻(亻) (rén, \"person\") which suggests a role or action involving people, with the phonetic element 兒(兒) (ér), indicating the sound. Originally, 倪 referred to the 'end or limit' of something in metaphoric comparison to the limits or boundaries associated with human affairs or abilities.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "人",
+      "char": "亻",
       "trad": "亻",
       "pinyin": "rén",
       "english": "person"
     },
     {
-      "char": "儿",
+      "char": "兒",
       "trad": "兒",
       "pinyin": "ér",
       "english": "child"
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他发现了事情的倪端(他發現了事情的倪端)。",
-      "pinyin": "Tā fāxiàn le shìqíng de ní duān.",
-      "english": "He discovered the clue to the situation."
+      "chinese": "我们尚未达到能力的极限(我們尚未達到能力的極限)。",
+      "pinyin": "Wǒmen shàng wèi dádào nénglì de jíxiàn.",
+      "english": "We have not yet reached the limits of our abilities."
     },
     {
-      "chinese": "这问题似乎没有尽头和倪端(這問題似乎沒有盡頭和倪端)。",
-      "pinyin": "Zhè wèntí sìhū méiyǒu jìntóu hé ní duān.",
-      "english": "This problem seems to have no end or limit."
+      "chinese": "他对未来毫无恐惧，因为相信没有边际(他對未來毫無恐懼，因為相信沒有邊際)。",
+      "pinyin": "Tā duì wèilái háo wú kǒngjù, yīnwèi xiāngxìn méiyǒu biānjì.",
+      "english": "He has no fear of the future, as he believes there are no boundaries."
     },
     {
-      "chinese": "科学的进步不断超越极限和倪端(科學的進步不斷超越極限和倪端)。",
-      "pinyin": "Kēxué de jìnbù bùduàn chāoyuè jíxiàn hé ní duān.",
-      "english": "Scientific progress constantly surpasses limits and boundaries."
+      "chinese": "许多科学家试图理解宇宙的终极极限(許多科學家試圖理解宇宙的終極極限)。",
+      "pinyin": "Xǔduō kēxuéjiā shìtú lǐjiě yǔzhòu de zhōngjí jíxiàn.",
+      "english": "Many scientists attempt to understand the ultimate limits of the universe."
     }
   ]
 }

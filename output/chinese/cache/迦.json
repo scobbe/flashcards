@@ -5,35 +5,40 @@
   "english": "assembly; to join",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 辶(辶) (chuò, \"walk\") + phonetic 加(加) (jiā, \"add\") = notion of movement or joining together -> concept of assembling or joining",
-    "interpretation": "The character combines a walking radical 辶(辶) (chuò, \"walk\"), suggesting movement or dynamic interaction, with the phonetic element 加(加) (jiā, \"add\"), which hints at the notion of adding or joining. This effectively conveys the meaning of coming together or assembling.",
+    "description": "semantic 辶(辵) (chuò, \"walk; movement\") + phonetic 加(加) (jiā, \"to add\") -> movement added or involved",
+    "interpretation": "The character 迦 combines the semantic 辶(辵) (chuò, \"walk; movement\") indicating motion or progression, with the phonetic 加(加) (jiā, \"to add\") which provides the sound. The notion of 'assembly' or 'to join' suggests motion or gathering together as an action of joining or adding to a group.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "辶",
-      "trad": "辶",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     },
     {
       "char": "加",
       "trad": "加",
       "pinyin": "jiā",
-      "english": "add"
+      "english": "to add"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "人们迦为一体(人們迦為一體)。",
-      "pinyin": "Rénmen jiā wéi yī tǐ.",
-      "english": "People join together as one."
+      "chinese": "他在班上与朋友们组建了一个读书俱乐部(他在班上與朋友們組建了一個讀書俱樂部)。",
+      "pinyin": "Tā zài bān shàng yǔ péngyǒumen zǔjiàn le yī gè dúshū jùlèbù.",
+      "english": "He assembled a book club with his friends in class."
     },
     {
-      "chinese": "信徒迦于寺庙(信徒迦於寺廟)，寻求心灵平静(尋求心靈平靜)。",
-      "pinyin": "Xìntú jiā yú sìmiào, xúnqiú xīnlíng píngjìng.",
-      "english": "Believers assemble at the temple, seeking spiritual peace."
+      "chinese": "公司计划今年召开一次全体会议(公司計劃今年召開一次全體會議)。",
+      "pinyin": "Gōngsī jìhuà jīnnián zhàokāi yī cì quántǐ huìyì.",
+      "english": "The company plans to hold a general assembly this year."
+    },
+    {
+      "chinese": "他们在小区里举行了家庭聚会(他們在小區里舉行了家庭聚會)。",
+      "pinyin": "Tāmen zài xiǎoqū lǐ jǔxíng le jiātíng jùhuì.",
+      "english": "They held a family gathering in the community."
     }
   ]
 }

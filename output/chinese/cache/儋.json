@@ -5,14 +5,14 @@
   "english": "to carry on the shoulder",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "儋(儋) (dān, \"to carry on the shoulder\") is a variant form of 擔(擔) (dān, \"to carry by hand\") -> semantic 扌(扌) (shǒu, \"hand\") + phonetic 詹(詹) (zhān)",
-    "interpretation": "儋(儋) retains the meaning related to carrying, with a focus on the act of bearing a load on the shoulder, while deriving its phonetic aspect from 詹(詹) (zhān, \"to carry by hand\").",
-    "simplification": ""
+    "description": "semantic 扌(手) (shǒu, \"hand\") + phonetic 詹(詹)",
+    "interpretation": "儋(dān, \"to carry on the shoulder\") is a variant form of 擔(dān, \"to carry\") where the semantic 扌(手) (shǒu, \"hand\") indicates the action of holding or carrying, while the phonetic component 詹(詹) provides the pronunciation. The character suggests carrying items on the shoulder with one’s hand.",
+    "simplification": "\"\""
   },
   "parts": [
     {
       "char": "扌",
-      "trad": "扌",
+      "trad": "手",
       "pinyin": "shǒu",
       "english": "hand"
     },
@@ -20,7 +20,7 @@
       "char": "詹",
       "trad": "詹",
       "pinyin": "zhān",
-      "english": "to carry by hand"
+      "english": "a surname"
     }
   ],
   "in_contemporary_usage": false,

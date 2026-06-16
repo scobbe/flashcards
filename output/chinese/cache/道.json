@@ -5,8 +5,8 @@
   "english": "path; way; method; teaching",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 行(行) (háng, \"street\") + phonetic 𩠐 + semantic 止(止) (zhǐ, \"foot\") -> 亍 disappears, components combine into 辵 -> final form 道",
-    "interpretation": "The character 道(dào) combines elements associated with a street and foot to convey the meaning of a path or way. The evolution and merging of components reflect the concept of movement along a path, ultimately forming the character we recognize today.",
+    "description": "semantic 行(行) (háng, \"street\") + phonetic 𩠐 + semantic 止(止) (zhǐ, \"foot\") -> 亍 (street) and 止 (foot) combined into 辵 (walk; movement) in the seal script",
+    "interpretation": "The character originally combined the idea of a street 行(行) (háng, \"street\") with 止(止) (zhǐ, \"foot\") indicating footsteps, supported by the sound from 𩠐. This depicted the notion of walking down a street or path, leading to the meanings of 'path' and 'way'. As a path represents an underlying guidance or method, it naturally extended to mean 'method' and 'teaching'.",
     "simplification": ""
   },
   "parts": [
@@ -19,32 +19,38 @@
     {
       "char": "𩠐",
       "trad": "𩠐",
-      "pinyin": "",
-      "english": ""
+      "pinyin": "unknown",
+      "english": "unknown"
     },
     {
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
       "english": "foot"
+    },
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk; movement"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们走上正道(我們走上正道)。",
-      "pinyin": "Wǒmen zǒu shàng zhèng dào.",
-      "english": "We follow the right way."
+      "chinese": "他了解许多成功的道理(他了解許多成功的道理)。",
+      "pinyin": "Tā liǎojiě xǔduō chénggōng de dàolǐ.",
+      "english": "He understands many principles of success."
     },
     {
-      "chinese": "古人通过修身达道(古人通過修身達道)，探求自然的法则(探求自然的法則)。",
-      "pinyin": "Gǔrén tōngguò xiūshēn dá dào, tànqiú zìrán de fǎzé.",
-      "english": "Ancient people attained the Tao through self-cultivation and sought the laws of nature."
+      "chinese": "这条路是通往山顶的唯一道路(這條路是通往山頂的唯一道路)。",
+      "pinyin": "Zhè tiáo lù shì tōngwǎng shāndǐng de wéiyī dàolù.",
+      "english": "This path is the only way to the mountain top."
     },
     {
-      "chinese": "武术不仅是一种技艺(武術不僅是一種技藝)，更是一种修道之路(更是一種修道之路)。",
-      "pinyin": "Wǔshù bùjǐn shì yī zhǒng jìyì, gèng shì yī zhǒng xiūdào zhī lù.",
-      "english": "Martial arts is not only a skill, but also a path of self-cultivation."
+      "chinese": "老子传授了很多关于道的哲学(老子傳授了很多關於道的哲學)。",
+      "pinyin": "Lǎozǐ chuánshòu le hěn duō guānyú dào de zhéxué.",
+      "english": "Laozi imparted much philosophy about the Tao."
     }
   ]
 }

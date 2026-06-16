@@ -5,8 +5,8 @@
   "english": "pot",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 冎(冎) (guǒ, \"skull\") + semantic 口(口) (kǒu, \"mouth\") -> evokes a container, leading to meaning \"pot\"",
-    "interpretation": "The character 呙(呙) combines the phonetic component 冎(冎) (guǒ, \"skull\") with the semantic element 口(口) (kǒu, \"mouth\") to represent an object that is open and hollow, fitting the meaning of a \"pot.\" This blend of sounds and meanings suggests a container-like object.",
+    "description": "phonetic 冎 (used for sound) + semantic 口 (mouth) -> pot",
+    "interpretation": "The semantic component 口 (kǒu, \"mouth\") suggests something related to an opening, aligning with the idea of a container or pot having an open top. The phonetic component 冎 provides the sound element without contributing directly to the meaning of 'pot'.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "冎",
       "trad": "冎",
       "pinyin": "guǒ",
-      "english": "skull"
+      "english": "phonetic component"
     },
     {
       "char": "口",

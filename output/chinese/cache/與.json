@@ -5,35 +5,40 @@
   "english": "and",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 舁 (yú, \"to lift\") + Phonetic: 牙 (yá, \"tooth\") = combination of phonetic elements → final form 與 (yǔ, \"and\")",
-    "interpretation": "The character 與 (yǔ, \"and\") is a combination of two phonetic elements, 舁 (yú, \"to lift\") and 牙 (yá, \"tooth\"). This unusual construction emphasizes the importance of phonetic aspects in forming the character rather than semantic meaning from components. Historically, 與 represents a similar sound derived from these components, reflecting the complex borrowing and adaptation processes in Chinese script evolution.",
-    "simplification": "与 is a simplified and variant form of 與, often replacing the two phonetic components for ease of composition and visual simplicity."
+    "description": "phonetic 舁(舁) (ph, no specific meaning) + phonetic 牙(牙) (ph) -> 與(與)",
+    "interpretation": "This character was formed by combining two phonetic components, 舁(舁) (ph) and 牙(牙) (ph), neither of which contributes a semantic meaning. The character 與(與) was created through borrowed phonetics to perform its function as a conjunction meaning 'and'. This makes it a unique case where the meaning comes from the sound alone rather than the usual phonetic-semantic combination.",
+    "simplification": "与(與) is a simplified and variant form that retained the phonetic use of the original T shape with one character"
   },
   "parts": [
     {
       "char": "舁",
       "trad": "舁",
       "pinyin": "yú",
-      "english": "to lift"
+      "english": "ph"
     },
     {
       "char": "牙",
       "trad": "牙",
       "pinyin": "yá",
-      "english": "tooth"
+      "english": "ph"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜歡蘋果與橙子(我喜歡蘋果與橙子)。",
-      "pinyin": "Wǒ xǐhuān píngguǒ yǔ chéngzi.",
-      "english": "I like apples and oranges."
+      "chinese": "他與她一起去电影院(他與她一起去電影院)。",
+      "pinyin": "Tā yǔ tā yīqǐ qù diànyǐngyuàn.",
+      "english": "He and she went to the cinema together."
     },
     {
-      "chinese": "春天來臨時(春天來臨時)，花朵與綠葉爭相綻放(花朵與綠葉爭相綻放)。",
-      "pinyin": "Chūntiān láilínshí, huāduǒ yǔ lǜyè zhēngxiāng zhànfàng.",
-      "english": "When spring arrives, the blossoms and green leaves bloom simultaneously."
+      "chinese": "我想喝咖啡與吃蛋糕(我想喝咖啡與吃蛋糕)。",
+      "pinyin": "Wǒ xiǎng hē kāfēi yǔ chī dàngāo.",
+      "english": "I want to drink coffee and eat cake."
+    },
+    {
+      "chinese": "英語課與科學課都在上午(英語課與科學課都在上午)。",
+      "pinyin": "Yīngyǔ kè yǔ kēxué kè dōu zài shàngwǔ.",
+      "english": "The English class and the science class are both in the morning."
     }
   ]
 }

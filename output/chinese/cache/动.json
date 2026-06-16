@@ -5,9 +5,9 @@
   "english": "move; act; stir; change",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "力(力) (lì, \"strength\") + 重(重) (zhòng, \"heavy\") = effort applied to shift weight -> move",
-    "interpretation": "力(力) (lì, \"strength\") indicates action or exertion of force, while 重(重) (zhòng, \"heavy\") serves as a phonetic component capturing the character's pronunciation. Together, they convey the idea of using strength to move or change something.",
-    "simplification": "动(動): Removed 艹(艹) from 重(重), leaving just another simpler form to represent the sound and meaning."
+    "description": "semantic 力(力) (lì, \"strength\") + phonetic 重(重) (zhòng) -> movement aided by strength -> move",
+    "interpretation": "The character 動 suggests using strength 力(力) (lì, \"strength\") to move something heavy, as indicated by the phonetic component 重(重) (zhòng, \"heavy\"). This conveys the concept of movement or change.",
+    "simplification": "The character 動 was simplified by replacing 重(重) (zhòng, \"heavy\") with 云(云) (yún, \"cloud\") to form 动, reducing the complexity of writing."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他动了动手指(他動了動手指)，同意了建议(同意了建議)。",
-      "pinyin": "Tā dòngle dòng shǒuzhǐ, tóngyìle jiànyì.",
-      "english": "He moved his finger and agreed to the suggestion."
+      "chinese": "他动了一下椅子(他動了一下椅子)。",
+      "pinyin": "Tā dòng le yīxià yǐzi.",
+      "english": "He moved the chair slightly."
     },
     {
-      "chinese": "心动不已(心動不已)。",
-      "pinyin": "Xīn dòng bù yǐ.",
-      "english": "His heart is constantly stirred."
+      "chinese": "我的心被她的话感动了(我的心被她的話感動了)。",
+      "pinyin": "Wǒ de xīn bèi tā de huà gǎn dòng le.",
+      "english": "My heart was moved by her words."
     },
     {
-      "chinese": "局势频繁动荡(局勢頻繁動蕩)，民众渴望安定(民眾渴望安定)。",
-      "pinyin": "Jú shì pínfán dòng dàng, mínzhòng kěwàng āndìng.",
-      "english": "The situation is frequently changing, and the people long for stability."
+      "chinese": "天气一变动(天氣一變動)，就会下雨(就會下雨)。",
+      "pinyin": "Tiānqì yī biàn dòng, jiù huì xià yǔ.",
+      "english": "As soon as the weather changes, it will rain."
     }
   ]
 }

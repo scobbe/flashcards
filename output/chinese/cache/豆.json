@@ -6,33 +6,26 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a container -> borrowed phonetically for the plant name",
-    "interpretation": "Originally depicted a container, 豆(豆) (dòu, 'drum') was phonetically borrowed to represent the plant name for beans, eventually displacing the term 菽(菽) (shū, 'pulse'). It is unrelated to the 豊(豊) (fēng, 'abundant') character.",
+    "interpretation": "The character 豆(dòu, 'drum') originally depicted a type of container. It was later borrowed for its phonetic value to represent the plant name 'bean', distinguishing it from a container. This transition indicates how the physical shape of the container, resembling a drum or storage pot, facilitated a phonetic borrowing.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "菽",
-      "trad": "菽",
-      "pinyin": "shū",
-      "english": "pulse"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "祭司敲豆奏乐(祭司敲豆奏樂)，引来神灵祝福(引來神靈祝福)。",
-      "pinyin": "Jìsī qiāo dòu zòuyuè, yǐn lái shénlíng zhùfú.",
-      "english": "The priest beats the drum, summoning divine blessings."
+      "chinese": "我们在课堂上学习如何制作豆(我們在課堂上學習如何製作豆)。",
+      "pinyin": "Wǒmen zài kètáng shàng xuéxí rúhé zhìzuò dòu.",
+      "english": "We are learning how to make drums in class."
     },
     {
-      "chinese": "古风庆典上敲响豆(古風慶典上敲響豆)，唤起怀古情怀(喚起懷古情懷)。",
-      "pinyin": "Gǔfēng qìngdiǎn shàng qiāoxiǎng dòu, huànqǐ huáigǔ qínghuái.",
-      "english": "At the ancient-style celebration, the beating of the drum evokes nostalgic sentiments."
+      "chinese": "村庄里有一个古老的豆(村莊裡有一個古老的豆)，它的声音很有魅力(它的聲音很有魅力)。",
+      "pinyin": "Cūnzhuāng lǐ yǒu yí gè gǔlǎo de dòu, tā de shēngyīn hěn yǒu mèilì.",
+      "english": "There is an ancient drum in the village, and its sound is captivating."
     },
     {
-      "chinese": "豆声震天(豆聲震天)。",
-      "pinyin": "Dòu shēng zhèntiān.",
-      "english": "The sound of the drum shakes the heavens."
+      "chinese": "音乐会以豆声开场(音樂會以豆聲開場)，让观众立刻沉浸在气氛中(讓觀眾立刻沈浸在氣氛中)。",
+      "pinyin": "Yīnyuèhuì yǐ dòu shēng kāichǎng, ràng guānzhòng lìkè chénjìn zài qìfēn zhōng.",
+      "english": "The concert opened with the sound of drums, immersing the audience in the atmosphere immediately."
     }
   ]
 }

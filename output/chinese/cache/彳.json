@@ -5,34 +5,27 @@
   "english": "walking",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 街 intersection viewed from above, simplified from 行(行) (xíng, \"go\")",
-    "interpretation": "The character 彳(chì, \"walking\") represents the image of a street intersection, which symbolically indicates movement or walking. It is used to denote the concept of going or moving along a path.",
+    "description": "Depicts a foot or person walking",
+    "interpretation": "彳(chì, 'walking') visually represents steps or a person moving, suggesting the idea of walking or movement. Despite a simplified history from characters like 行(xíng, 'walk'), its pictographic heritage directly connects with the notion of stepping or proceeding.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "行",
-      "trad": "行",
-      "pinyin": "xíng",
-      "english": "go"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他彳亍而行(他彳亍而行)。",
-      "pinyin": "Tā chìchù ér xíng.",
-      "english": "He ambled along slowly."
+      "chinese": "他喜欢在河边慢慢地走(他喜歡在河邊慢慢地走)。",
+      "pinyin": "Tā xǐhuān zài hé biān mànmàn de zǒu.",
+      "english": "He likes to walk slowly by the river."
     },
     {
-      "chinese": "老人彳步(老人彳步)，穿过小巷(穿過小巷)。",
-      "pinyin": "Lǎorén chì bù, chuānguò xiǎoxiàng.",
-      "english": "The old man walked along, crossing the narrow alley."
+      "chinese": "我们每天退出喧嚣(我們每天退出喧囂)，享受安静的散步(享受安靜的散步)。",
+      "pinyin": "Wǒmen měitiān tuìchū xuānxiāo, xiǎngshòu ānjìng de sànbù.",
+      "english": "We withdraw from the hustle and bustle every day to enjoy a quiet walk."
     },
     {
-      "chinese": "孩子们看到蝴蝶(孩子們看到蝴蝶)，便兴奋地彳走前去(便興奮地彳走前去)。",
-      "pinyin": "Háizimen kàn dào húdié, biàn xīngfèn de chì zǒu qiánqù.",
-      "english": "Upon seeing the butterflies, the children excitedly walked forward."
+      "chinese": "他常常独自彳亍于公园小径(他常常獨自彳亍於公園小徑)。",
+      "pinyin": "Tā chángcháng dúzì chìchù yú gōngyuán xiǎojìng.",
+      "english": "He often walks alone on the park trails."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "vermilion",
   "etymology": {
     "type": "ideogram",
-    "description": "木(木) (mù, 'tree') with a dot to highlight the center -> emphasis on core -> vermilion",
-    "interpretation": "朱(朱) (zhū, 'vermilion') emphasizes the core or heartwood of a tree, symbolizing the earthy reddish color. The highlighted center of a tree reflects the vividness and importance of the vermilion dye.",
+    "description": "木(木) (mù, \"tree\") with a central dot -> core of the tree -> vermilion",
+    "interpretation": "The character focuses on highlighting the core or center of a tree using an extra mark, indicating an idea of something central, core, or inner, akin to the essence or heart of the object, which metaphorically extends to the color vermilion associated with the energetic core.",
     "simplification": ""
   },
   "parts": [
@@ -20,19 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她穿了一件艳丽的朱色旗袍(她穿了一件艷麗的朱色旗袍)。",
-      "pinyin": "Tā chuānle yī jiàn yànlì de zhū sè qípáo.",
-      "english": "She wore a striking vermilion-colored cheongsam."
+      "chinese": "他用朱笔在纸上写字(他用朱筆在紙上寫字)。",
+      "pinyin": "Tā yòng zhūbǐ zài zhǐ shàng xiězì.",
+      "english": "He wrote on the paper with a vermilion pen."
     },
     {
-      "chinese": "这种画风以朱红为主色调(這種畫風以朱紅為主色調)。",
-      "pinyin": "Zhè zhǒng huà fēng yǐ zhū hóng wéi zhǔ sè diào.",
-      "english": "This painting style uses vermilion as the main color tone."
+      "chinese": "这幅画中充满了朱色和金色(這幅畫中充滿了朱色和金色)。",
+      "pinyin": "Zhè fú huà zhōng chōngmǎnle zhūsè hé jīnsè.",
+      "english": "The painting is full of vermilion and gold colors."
     },
     {
-      "chinese": "他的印章用朱色印泥(他的印章用朱色印泥)，显得格外显眼(顯得格外顯眼)。",
-      "pinyin": "Tā de yìnzhāng yòng zhū sè yìnní, xiǎnde géwài xiǎnyǎn.",
-      "english": "His seal used vermilion inkpad, which made it particularly eye-catching."
+      "chinese": "祭坛上放着一个朱色的箱子(祭壇上放著一個朱色的箱子)。",
+      "pinyin": "Jìtán shàng fàngzhe yīgè zhūsè de xiāngzi.",
+      "english": "There was a vermilion box placed on the altar."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "stone chime",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 殸(殸) (kēng, \"stone chime\") + semantic 耳(耳) (ěr, \"ear\") = sound heard by the ear -> stone chime",
-    "interpretation": "The character 聲(shēng, \"stone chime\") combines the phonetic element 殸(殸) (kēng, \"stone chime\") with 耳(耳) (ěr, \"ear\") to represent sounds, specifically the sound of a stone chime as heard by the ear.",
-    "simplification": "声 is a simplified and variant form of 聲, retaining the primary phonetic and semantic elements."
+    "description": "semantic 耳(耳) (ěr, \"ear\") + phonetic 殸(殸) (kēng, \"stone chime\") -> stone chime sound -> sound; voice",
+    "interpretation": "The character 聲(shēng, \"sound\") combines the semantic element 耳(耳) (ěr, \"ear\"), suggesting the concept of hearing, with the phonetic element 殸(殸) (kēng, \"stone chime\"), which provides the sound of the word. The combination implies a sound that is heard, specifically the clear and resonant sound of a stone chime, leading to broader meanings of sound or voice.",
+    "simplification": "声(聲) maintains the same phonetic component 殸(聲), while the semantic component 耳(耳) (ěr, \"ear\") is simplified, retaining its association with sound."
   },
   "parts": [
-    {
-      "char": "殸",
-      "trad": "殸",
-      "pinyin": "kēng",
-      "english": "stone chime"
-    },
     {
       "char": "耳",
       "trad": "耳",
       "pinyin": "ěr",
       "english": "ear"
+    },
+    {
+      "char": "殸",
+      "trad": "殸",
+      "pinyin": "kēng",
+      "english": "stone chime"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古寺中传来石制聲的回响(古寺中傳來石製聲的回響)。",
-      "pinyin": "Gǔ sì zhōng chuán lái shí zhì shēng de huí xiǎng.",
-      "english": "The echo of the stone chime came from the ancient temple."
+      "chinese": "這件古老的樂器名叫聲石(這件古老的樂器名叫聲石)。",
+      "pinyin": "Zhè jiàn gǔlǎo de yuèqì míng jiào shēng shí.",
+      "english": "This ancient musical instrument is called the stone chime."
     },
     {
-      "chinese": "夜深时(夜深時)，山谷中传出石制聲的旋律(山谷中傳出石製聲的旋律)。",
-      "pinyin": "Yè shēn shí, shān gǔ zhōng chuán chū shí zhì shēng de xuán lǜ.",
-      "english": "At night, a melody from the stone chime echoed through the mountain valley."
+      "chinese": "聲石在音樂中有特別的地位(聲石在音樂中有特別的地位)。",
+      "pinyin": "Shēng shí zài yīnyuè zhōng yǒu tèbié de dìwèi.",
+      "english": "The stone chime holds a special place in music."
+    },
+    {
+      "chinese": "每当演奏聲石时(每當演奏聲石時)，都有种神秘的气氛(都有種神秘的氣氛)。",
+      "pinyin": "Měidāng yǎnzòu shēng shí shí，dōu yǒu zhǒng shénmì de qìfēn.",
+      "english": "Whenever the stone chime is played, there is a mysterious atmosphere."
     }
   ]
 }

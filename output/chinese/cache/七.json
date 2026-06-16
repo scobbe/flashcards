@@ -5,27 +5,27 @@
   "english": "seven",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a horizontal line (一) intersected by a short vertical line (|) -> symbolic representation of the number seven",
-    "interpretation": "The character 七(qī, \"seven\") is a pictogram that visually abstracts the number seven with a simple shape that suggests counting or enumeration.",
+    "description": "Depicts a vertical stroke intersecting a horizontal stroke",
+    "interpretation": "The character 七(qī, 'seven') is a pictogram that visually represents a structure formed by intersecting strokes. Its form does not directly convey numerical value but was historically used because of its visual structure, which resembles cuts or divisions.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有七个苹果(我有七個蘋果)。",
-      "pinyin": "Wǒ yǒu qī gè píngguǒ.",
-      "english": "I have seven apples."
+      "chinese": "他有七个苹果(他有七個蘋果)。",
+      "pinyin": "Tā yǒu qī gè píngguǒ.",
+      "english": "He has seven apples."
     },
     {
-      "chinese": "花园里有七只蝴蝶(花園裡有七隻蝴蝶)，在阳光下翩翩起舞(在陽光下翩翩起舞)。",
-      "pinyin": "Huāyuán lǐ yǒu qī zhī húdié, zài yángguāng xià piānpiān qǐwǔ.",
-      "english": "There are seven butterflies in the garden, dancing gracefully under the sunlight."
+      "chinese": "今天是七月七日(今天是七月七日)。",
+      "pinyin": "Jīntiān shì qī yuè qī rì.",
+      "english": "Today is July 7th."
     },
     {
-      "chinese": "会议定在七点(會議定在七點)，不容迟到(不容遲到)。",
-      "pinyin": "Huìyì dìng zài qī diǎn, bù róng chídào.",
-      "english": "The meeting is scheduled at seven o'clock, and lateness is not allowed."
+      "chinese": "我们七点钟见面(我們七點鐘見面)。",
+      "pinyin": "Wǒmen qī diǎn zhōng jiànmiàn.",
+      "english": "We'll meet at seven o'clock."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "face",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 頁(頁) (yè, \"page/head\") + phonetic: 彥(彥) (yàn) = face related to the head -> face",
-    "interpretation": "頁(頁) (yè, \"page/head\") indicates the character is related to the head, while 彥(彥) (yàn) provides the phonetic component. Together, they combine to signify 'face,' a prominent part of the head.",
-    "simplification": "Simplified to 颜(顏) by replacing 頁(頁) (yè, \"page/head\") with a simpler version without the 'head' radical."
+    "description": "phonetic 彥 (yàn) + semantic 頁 (\"head\") -> face",
+    "interpretation": "The character 顏(yán, \"face\") combines 彥(yàn, \"a handsome man\") as the phonetic element with 頁(yè, \"head\") as the semantic component. The concept of a 'head' relates directly to the idea of a 'face', suggesting the appearance or visage of a person.",
+    "simplification": "顔(顏) was simplified by replacing 彥(顏) with 彦(彦) and 頁(顏) with 页(页) for fewer strokes."
   },
   "parts": [
-    {
-      "char": "頁",
-      "trad": "頁",
-      "pinyin": "yè",
-      "english": "page/head"
-    },
     {
       "char": "彥",
       "trad": "彥",
       "pinyin": "yàn",
-      "english": "talented"
+      "english": "a handsome man"
+    },
+    {
+      "char": "頁",
+      "trad": "頁",
+      "pinyin": "yè",
+      "english": "head"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的顏流露出淡淡的忧伤(他的顏流露出淡淡的憂傷)。",
-      "pinyin": "Tā de yán liúlù chū dàndàn de yōushāng.",
-      "english": "His face shows a hint of sorrow."
+      "chinese": "他的脸色看起来很好(他的臉色看起來很好)。",
+      "pinyin": "Tā de liǎnsè kàn qǐlái hěn hǎo.",
+      "english": "His complexion looks good."
     },
     {
-      "chinese": "她看了看镜子(她看了看鏡子)，发现自己的顏上挂着笑容(發現自己的顏上掛著笑容)。",
-      "pinyin": "Tā kànle kàn jìngzi, fāxiàn zìjǐ de yán shàng guàzhe xiàoróng.",
-      "english": "She looked in the mirror and found a smile on her face."
+      "chinese": "她害羞时(她害羞時)，整个脸都红了(整個臉都紅了)。",
+      "pinyin": "Tā hàixiū shí，zhěnggè liǎn dōu hóng le.",
+      "english": "When she's shy, her whole face turns red."
+    },
+    {
+      "chinese": "这个面霜能够改善肤色(這個面霜能夠改善膚色)。",
+      "pinyin": "Zhège miànshuāng nénggòu gǎishàn fūsè.",
+      "english": "This face cream can improve skin tone."
     }
   ]
 }

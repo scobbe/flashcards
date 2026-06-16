@@ -5,9 +5,9 @@
   "english": "pair",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "雔 (two birds) + 又 (hand) -> Represents two birds in a hand",
-    "interpretation": "The character 雙 (shuāng, \"pair\") illustrates the concept by depicting two birds held together, symbolizing a pair, with a hand component indicating possession or holding. This construction conveys the idea of pairing or doubling.",
-    "simplification": "双 (simplified from 䨇, a variant of 雙) eliminated the bird component and uses abstract duplication with the character resembling hands, reflecting a simplified representation of a pair."
+    "description": "雔 (two birds) + 又 (hand) = holding two birds in hand -> pair",
+    "interpretation": "The character depicts two birds (雔) held together by a hand (又), creating the image of a pair of birds, which conveys the meaning of 'pair' or 'double'. The concept of holding a pair of something is naturally associated with 'pair', reinforcing the meaning.",
+    "simplification": "The traditional form 䨇 underwent simplification by eliminating the 雔 component, leading to the modern form 双 that retains the notion of duplicity through duplication of 又."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一双鞋子(我買了一雙鞋子)。",
-      "pinyin": "Wǒ mǎile yī shuāng xiézi.",
-      "english": "I bought a pair of shoes."
+      "chinese": "她买了一双新鞋(她買了一雙新鞋)。",
+      "pinyin": "Tā mǎi le yī shuāng xīn xié.",
+      "english": "She bought a new pair of shoes."
     },
     {
-      "chinese": "这双筷子很漂亮(這雙筷子很漂亮)。",
-      "pinyin": "Zhè shuāng kuàizi hěn piàoliang.",
-      "english": "This pair of chopsticks is very beautiful."
+      "chinese": "我们各吃了两个苹果(我們各吃了兩個蘋果)，一人一双(一人一雙)。",
+      "pinyin": "Wǒmen gè chī le liǎng gè píngguǒ, yī rén yī shuāng.",
+      "english": "We each ate two apples, one pair per person."
     },
     {
-      "chinese": "他有一双聪明的眼睛(他有一雙聰明的眼睛)。",
-      "pinyin": "Tā yǒu yī shuāng cōngmíng de yǎnjīng.",
-      "english": "He has a pair of intelligent eyes."
+      "chinese": "他给我买了一双手套(他給我買了一雙手套)，因为天气冷了(因為天氣冷了)。",
+      "pinyin": "Tā gěi wǒ mǎi le yī shuāng shǒutào, yīnwèi tiānqì lěng le.",
+      "english": "He bought me a pair of gloves because it's getting cold."
     }
   ]
 }

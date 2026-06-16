@@ -5,29 +5,27 @@
   "english": "I",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a trident-like weapon or tool 𢦐 -> borrowed for sound as 我 (wǒ, 'I').",
-    "interpretation": "Originally depicted a weapon similar to a three-bladed polearm, it was phonetically borrowed to represent the pronoun 'I'. Its association with weaponry connects to the concept of self-defense, indirectly linking it to individual identity.",
+    "description": "Depicts a trident-like weapon -> similar to a three-bladed polearm -> borrowed for pronoun use",
+    "interpretation": "我 (wǒ, \"I\") was originally a pictogram of a trident-like weapon or tool, later borrowed phonetically to represent the pronoun meaning \"I\" due to its sound. The image of a multi-bladed weapon serves as the foundation, with usage evolving through phonetic borrowing.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "戈",
-      "trad": "戈",
-      "pinyin": "gē",
-      "english": "polearm"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢阅读(我喜歡閱讀)。",
-      "pinyin": "Wǒ xǐhuan yuèdú.",
-      "english": "I enjoy reading."
+      "chinese": "我喜欢读书(我喜歡讀書)。",
+      "pinyin": "Wǒ xǐhuān dúshū.",
+      "english": "I like reading."
     },
     {
-      "chinese": "我昨天去了市场(我昨天去了市場)，买了很多水果(買了很多水果)。",
-      "pinyin": "Wǒ zuótiān qùle shìchǎng, mǎile hěn duō shuǐguǒ.",
-      "english": "I went to the market yesterday and bought a lot of fruits."
+      "chinese": "我有很多朋友(我有很多朋友)。",
+      "pinyin": "Wǒ yǒu hěn duō péngyǒu.",
+      "english": "I have many friends."
+    },
+    {
+      "chinese": "我吃了早餐(我吃了早餐)，然后去上班(然後去上班)。",
+      "pinyin": "Wǒ chīle zǎocān, ránhòu qù shàngbān.",
+      "english": "I had breakfast, then went to work."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "dried tangerine peel",
   "etymology": {
     "type": "compound word",
-    "description": "陳(陳) (chén, \"old\") refers to something aged or mature, hinting at the process of aging the tangerine peel. 皮(皮) (pí, \"peel\") means the outer layer of the fruit. Together, 陳皮(陳皮) (chénpí, \"dried tangerine peel\") denotes tangerine peel that has been aged and dried, used often in traditional Chinese medicine and cooking for its aromatic and medicinal qualities.",
-    "interpretation": "陳皮(陳皮) (chénpí) is significant in Chinese culture for its culinary and medicinal uses, offering aromatic flavor in cooking and believed to aid digestion.",
+    "description": "陳(陳) (chén, \"display; aged\") refers to being laid out or aged. 皮(皮) (pí, \"skin; peel\") refers to the outer layer or skin of fruits. Together, 陳皮(陳皮) (chénpí, \"dried tangerine peel\") implies the concept of the aged or dried skin of tangerines.",
+    "interpretation": "陳(陳) (chén, \"display; aged\") suggests something that has been laid out, often indicating the passage of time and thereby aging, which aligns with the drying process. 皮(皮) (pí, \"skin; peel\") literally refers to the peel of a fruit. The combination denotes the peel of tangerines that has been allowed to dry out with the passage of time, a common practice in Chinese culinary and medicinal traditions.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "陈",
       "trad": "陳",
       "pinyin": "chén",
-      "english": "old; aged; display; state"
+      "english": "display; aged; stale"
     },
     {
       "char": "皮",
       "trad": "皮",
       "pinyin": "pí",
-      "english": "peel; skin; hide; fur"
+      "english": "skin; peel; husk"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "中医常用陈皮(陳皮)。",
-      "pinyin": "Zhōngyī cháng yòng chénpí.",
-      "english": "Traditional Chinese medicine often uses dried tangerine peel."
+      "chinese": "陈皮(陳皮)是传统中药的一种。",
+      "pinyin": "Chénpí shì chuántǒng zhōngyào de yī zhǒng.",
+      "english": "Dried tangerine peel is a type of traditional Chinese medicine."
     },
     {
-      "chinese": "厨房里陈皮(陳皮)熬成药汤(熬成藥湯)，滋味独特(滋味獨特)。",
-      "pinyin": "Chúfáng lǐ chénpí áo chéng yàotāng, zīwèi dútè.",
-      "english": "In the kitchen, dried tangerine peel is simmered into a medicinal soup, offering a unique flavor."
+      "chinese": "我们常用陈皮(我們常用陳皮)来煮汤。",
+      "pinyin": "Wǒmen chángyòng chénpí lái zhǔ tāng.",
+      "english": "We often use dried tangerine peel to make soup."
     },
     {
-      "chinese": "古代医书记载陈皮(陳皮)，功效神奇(功效神奇)。",
-      "pinyin": "Gǔdài yīshū jìzǎi chénpí, gōngxiào shénqí.",
-      "english": "Ancient medical texts record dried tangerine peel, which has miraculous effects."
+      "chinese": "在冬天(在冬天)，陈皮茶(陳皮茶)能驱寒(能驅寒)。",
+      "pinyin": "Zài dōngtiān, chénpí chá néng qū hán.",
+      "english": "In winter, dried tangerine peel tea can ward off the cold."
     }
   ]
 }

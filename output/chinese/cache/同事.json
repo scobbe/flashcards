@@ -5,8 +5,8 @@
   "english": "colleague",
   "etymology": {
     "type": "compound word",
-    "description": "同(同) (tóng, \"same\") + 事(事) (shì, \"business; affair; work\") = people engaged in the same work or business -> colleague",
-    "interpretation": "A 同事(同事) (tóngshì, \"colleague\") is someone who shares the same work environment or responsibilities, highlighting the companionship and cooperation in professional settings.",
+    "description": "同(同) (tóng, \"together\") + 事(事) (shì, \"affair; matter\") = people doing affairs together -> colleague",
+    "interpretation": "同(同) (tóng, \"together\") represents the idea of people or actions being united in purpose or place. 事(事) (shì, \"affair; matter\") refers to tasks or duties one engages in. Thus, 同事 (tóngshì) literally means 'together in affairs' or 'sharing a common task,' which conceptually leads to 'colleague,' as colleagues are those who work together on shared tasks and responsibilities within a workplace.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "同",
       "trad": "同",
       "pinyin": "tóng",
-      "english": "same; together; with"
+      "english": "together; same; with"
     },
     {
       "char": "事",
       "trad": "事",
       "pinyin": "shì",
-      "english": "business; affair; work; matter"
+      "english": "affair; matter; work; business"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的同事今天在开会(我的同事今天在開會)。",
-      "pinyin": "Wǒ de tóngshì jīntiān zài kāihuì.",
-      "english": "My colleague is attending a meeting today."
+      "chinese": "我和同事一起吃午饭(我和同事一起吃午飯)。",
+      "pinyin": "Wǒ hé tóngshì yīqǐ chī wǔfàn.",
+      "english": "I have lunch with my colleague."
     },
     {
-      "chinese": "我们常常和同事一起吃午餐(我們常常和同事一起吃午餐)。",
-      "pinyin": "Wǒmen chángcháng hé tóngshì yīqǐ chī wǔcān.",
-      "english": "We often have lunch together with colleagues."
+      "chinese": "昨天晚上，我和同事加班到很晚(昨天晚上，我和同事加班到很晚)。",
+      "pinyin": "Zuótiān wǎnshàng, wǒ hé tóngshì jiābān dào hěn wǎn.",
+      "english": "Last night, I and my colleague worked overtime until late."
     },
     {
-      "chinese": "他是我最喜欢的同事(他是我最喜歡的同事)。",
-      "pinyin": "Tā shì wǒ zuì xǐhuān de tóngshì.",
-      "english": "He is my favorite colleague."
+      "chinese": "她的新同事很友好(她的新同事很友好)。",
+      "pinyin": "Tā de xīn tóngshì hěn yǒuhǎo.",
+      "english": "Her new colleague is very friendly."
     }
   ]
 }

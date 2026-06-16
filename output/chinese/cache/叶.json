@@ -5,16 +5,16 @@
   "english": "leaf",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, \"grass\") + 枼(枼) (yè, \"leaf\") = semantic reference to plant life + phonetic component -> \"leaf\"",
-    "interpretation": "The traditional character 葉 combines 艸(艸) (cǎo, \"grass\") as a semantic indicator of plant life, with the phonetic component 枼(枼) (yè, \"leaf\"), originally a pictogram for \"leaf,\" to convey the meaning of a leaf on a plant.",
-    "simplification": "In the simplified form 叶, the component 艸(艸) (cǎo, \"grass\") was removed, leaving only 枼(枼) (yè), which conveys both the phonetic and the meaning of 'leaf'."
+    "description": "Depicts 枼 (pictogram of a leaf) -> 艸 (艸, \"grass; plant\") + phonetic 枼 (sound) -> 葉 (leaf)",
+    "interpretation": "The character 葉 (yè, \"leaf\") originated as the pictogram 枼, visually representing a leaf. To clarify its meaning and differentiate it from similar-looking characters, the 艸 (艸, \"grass; plant\") component was added, emphasizing its connection to botany.",
+    "simplification": "叶 (叶) was developed by omitting the 艸 (艸) radical, reducing the stroke count while preserving the phonetic 枼."
   },
   "parts": [
     {
       "char": "艸",
       "trad": "艸",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "grass; plant"
     },
     {
       "char": "枼",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "树上的叶子变黄了(樹上的葉子變黃了)。",
-      "pinyin": "Shù shàng de yèzi biàn huáng le.",
+      "chinese": "树上的叶变黄了(樹上的葉變黃了)。",
+      "pinyin": "Shù shàng de yè biàn huáng le.",
       "english": "The leaves on the tree have turned yellow."
     },
     {
-      "chinese": "秋天来了(秋天來了)，叶子纷纷落下(葉子紛紛落下)。",
-      "pinyin": "Qiūtiān lái le, yèzi fēnfēn luòxià.",
-      "english": "Autumn has come, and the leaves are falling."
+      "chinese": "秋天来了(秋天來了)，叶在风中飘落(葉在風中飄落)。",
+      "pinyin": "Qiūtiān lái le, yè zài fēng zhōng piāoluò.",
+      "english": "Autumn has arrived, and the leaves are falling in the wind."
     },
     {
-      "chinese": "风吹动树叶(風吹動樹葉)，发出沙沙的声音(發出沙沙的聲音)。",
-      "pinyin": "Fēng chuī dòng shùyè, fāchū shāshā de shēngyīn.",
-      "english": "The wind rustles the leaves, making a rustling sound."
+      "chinese": "茶的香味源自于叶子(茶的香味源自於葉子)。",
+      "pinyin": "Chá de xiāngwèi yuán zì yú yèzi.",
+      "english": "The fragrance of tea comes from the leaves."
     }
   ]
 }

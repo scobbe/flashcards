@@ -5,8 +5,8 @@
   "english": "other",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 力(力) (lì, \"strength\") = forceful or authoritative mouth -> something different or other",
-    "interpretation": "The character 另(lìng, \"other\") combines the semantic element of 口(口) (kǒu, \"mouth\") with the phonetic and semantic element 力(力) (lì, \"strength\") to convey a sense of adding something distinct or different through forceful speech.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 力(力) (lì) -> to separate with forceful speech -> other",
+    "interpretation": "The mouth 口(口) (kǒu, \"mouth\") suggests speech, separating or differentiating entities by naming them. The phonetic 力(力) (lì, \"strength; force\") contributes the pronunciation. The sense of 'other' arises from the idea of distinct separation or differentiation achieved through naming or specifying a different entity.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "力",
       "trad": "力",
       "pinyin": "lì",
-      "english": "strength"
+      "english": "strength; force"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我准备了另一本书(我準備了另一本書)。",
-      "pinyin": "Wǒ zhǔnbèi le lìng yī běn shū.",
-      "english": "I prepared another book."
+      "chinese": "她想要另外一件外套(她想要另外一件外套)。",
+      "pinyin": "Tā xiǎng yào lìngwài yī jiàn wàitào.",
+      "english": "She wants another coat."
     },
     {
-      "chinese": "他不满意当前方案(他不滿意當前方案)，所以提出了另一个改进措施(所以提出了另一個改進措施)。",
-      "pinyin": "Tā bù mǎnyì dāngqián fāng'àn, suǒyǐ tíchūle lìng yīgè gǎijìn cuòshī.",
-      "english": "He was dissatisfied with the current plan, so he proposed an alternative improvement measure."
+      "chinese": "我们需要另一个办法(我們需要另一個辦法)。",
+      "pinyin": "Wǒmen xūyào lìng yīgè bànfǎ.",
+      "english": "We need another method."
+    },
+    {
+      "chinese": "除了这个问题之外(除了這個問題之外)，还有另外一个要考虑(還有另外一個要考慮)。",
+      "pinyin": "Chúle zhège wèntí zhīwài，hái yǒu lìngwài yīgè yào kǎolǜ.",
+      "english": "Besides this issue, there is another one to consider."
     }
   ]
 }

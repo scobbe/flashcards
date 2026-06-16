@@ -5,8 +5,8 @@
   "english": "yeah; that's right",
   "etymology": {
     "type": "compound word",
-    "description": "是(是) (shì, \"is; are; yes\") + 啊(啊) (a, \"ah; particle used to express a modal tone\")",
-    "interpretation": "是啊 is a casual affirmation or agreement, essentially saying 'yes, that's right.' 是(是) (shì, \"is; are; yes\") confirms a statement, while 啊(啊) (a, \"ah; particle used to express a modal tone\") adds emphasis or a casual tone.",
+    "description": "是(是) (shì, \"to be; yes; this; correct\") is derived from the idea of the noonday sun (日) directly overhead as the standard of straightness/uprightness (正 \"straight\"). What is upright is correct, leading to 'right, correct' and from there to an affirmation 'yes' -> 'to be'. 嘿(啊) (ā, \"ah; expressing agreement or surprise\") is an interjection expressing mild agreement, surprise, or prompting.",
+    "interpretation": "是(是) (shì, \"to be; yes; correct\") affirms correctness and existence due to its derivation from the concept of an upright standard, which is naturally 'correct'. 啊(啊) (ā, \"ah\") adds an interactive nuance, acknowledging or agreeing with what was said. Combining these, 是啊 (shì a) softens an affirmation, making it a casual agreement akin to 'yeah'. It confirms with a mildly emotive prompt, indicating both affirmation and mutual understanding.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "是",
       "trad": "是",
       "pinyin": "shì",
-      "english": "is; are; yes"
+      "english": "to be; yes; this; correct"
     },
     {
       "char": "啊",
       "trad": "啊",
       "pinyin": "a",
-      "english": "ah; particle used to express a modal tone"
+      "english": "ah; oh; particle of agreement or surprise"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个答案很正确(這個答案很正確)，是啊(是啊)。",
-      "pinyin": "Zhè ge dá àn hěn zhèng què, shì a.",
-      "english": "This answer is correct; yeah."
+      "chinese": "他真的是个好人(他真的是個好人)，是啊(是啊)。",
+      "pinyin": "Tā zhēn de shì gè hǎo rén，shì a。",
+      "english": "He really is a good person, yeah."
     },
     {
-      "chinese": "今天的天气很好(今天的天氣很好)，是啊(是啊)。",
-      "pinyin": "Jīn tiān de tiān qì hěn hǎo, shì a.",
-      "english": "The weather is very nice today; that's right."
+      "chinese": "今天的天气很不错(今天的天氣很不錯)，是啊(是啊)。",
+      "pinyin": "Jīntiān de tiānqì hěn bùcuò，shì a。",
+      "english": "Today's weather is really nice, yeah."
     },
     {
-      "chinese": "你说得对(你說得對)，是啊(是啊)。",
-      "pinyin": "Nǐ shuō de duì, shì a.",
-      "english": "You are right; exactly."
+      "chinese": "这是个好主意(這是個好主意)，是啊(是啊)。",
+      "pinyin": "Zhè shì gè hǎo zhǔyì，shì a。",
+      "english": "That's a good idea, yeah."
     }
   ]
 }

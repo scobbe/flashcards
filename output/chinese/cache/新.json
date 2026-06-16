@@ -5,8 +5,8 @@
   "english": "new",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "辛(辛) (xīn, \"bitter\") + 斤(斤) (jīn, \"axe\") = related to chopping wood -> borrowed for \"new\" -> 木(木) (mù, \"wood\") added later",
-    "interpretation": "The character 新(新) (xīn, \"new\") originally represented chopping firewood, but it was phonetically borrowed to mean \"new.\" The semantic 木(木) (mù, \"wood\") was added later in bronze inscriptions to clarify its original meaning related to firewood.",
+    "description": "phonetic 辛 (xīn) + semantic 斤 (jīn, \"axe\") -> originally \"to chop wood\"; semantic 木 (mù, \"wood\") later added -> borrowed for \"new\"",
+    "interpretation": "The character originally depicted actions associated with chopping wood, with 斤 (jīn, \"axe\") indicating the semantic idea and 辛 (xīn, \"bitter\") providing the sound. Over time, the semantic element 木 (mù, \"wood\") was incorporated in the bronze inscriptions, closely merging with 辛 (xīn, \"bitter\"). The character later served as a phonetic loan to express the concept of \"new,\" borrowing its sound from 辛 (xīn), as new growth or change often marks the unfamiliar or novel.",
     "simplification": ""
   },
   "parts": [
@@ -27,24 +27,30 @@
       "trad": "木",
       "pinyin": "mù",
       "english": "wood"
+    },
+    {
+      "char": "薪",
+      "trad": "薪",
+      "pinyin": "xīn",
+      "english": "firewood"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了新电脑(我買了新電腦)。",
-      "pinyin": "Wǒ mǎile xīn diànnǎo.",
-      "english": "I bought a new computer."
+      "chinese": "我买了一辆新车(我買了一輛新車)。",
+      "pinyin": "Wǒ mǎi le yī liàng xīn chē.",
+      "english": "I bought a new car."
     },
     {
-      "chinese": "他开着新车(他開著新車)，驶向远方(駛向遠方)。",
-      "pinyin": "Tā kāizhe xīn chē, shǐxiàng yuǎnfāng.",
-      "english": "He is driving his new car toward a distant place."
+      "chinese": "他们搬进了新家(他們搬進了新家)。",
+      "pinyin": "Tāmen bān jìnle xīn jiā.",
+      "english": "They moved into a new home."
     },
     {
-      "chinese": "新书吸引了读者(新書吸引了讀者)，激发了求知欲(激發了求知欲)。",
-      "pinyin": "Xīn shū xīyǐn le dúzhě, jīfā le qiúzhī yù.",
-      "english": "The new book attracted readers and aroused their thirst for knowledge."
+      "chinese": "新政策实施后(新政策實施後)，公司开始发展得更快(公司開始發展得更快)。",
+      "pinyin": "Xīn zhèngcè shíshī hòu, gōngsī kāishǐ fāzhǎn de gèng kuài.",
+      "english": "After the new policy was implemented, the company began to develop faster."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "process; journey",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, \"grain\") + phonetic: 呈(呈) (chéng) = processes involving grain -> process; journey",
-    "interpretation": "The character 程(程) (chéng, \"process; journey\") combines the semantic element 禾(禾) (hé, \"grain\") with the phonetic element 呈(呈) (chéng). This suggests tasks or processes related to agriculture, but its meaning has been generalized to include any kind of process or journey.",
+    "description": "semantic 禾 (grain) + phonetic 呈 (chéng) -> measurements",
+    "interpretation": "禾(禾) (hé, 'grain') is a semantic component related to agriculture and growth, suggesting an ongoing process or series of actions. 呈(呈) (chéng, 'to present') provides the pronunciation. In historical usage, 'measurements' were a necessary part of managing agricultural processes, which is how the concept of 'process' is tied to 程(程) (chéng, 'process; journey'). The 'grain' implies a progression or journey of growth leading to a final result.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "呈",
       "trad": "呈",
       "pinyin": "chéng",
-      "english": "present"
+      "english": "to present"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他踏上征程去追寻梦想(他踏上征程去追尋夢想)。",
-      "pinyin": "Tā tà shàng zhēngchéng qù zhuīxún mèngxiǎng.",
-      "english": "He embarked on a journey to pursue his dreams."
+      "chinese": "学习是一段持续的过程(學習是一段持續的過程)。",
+      "pinyin": "Xuéxí shì yī duàn chíxù de guòchéng.",
+      "english": "Learning is a continuous process."
     },
     {
-      "chinese": "学习的过程需要耐心(學習的過程需要耐心)，一步步积累经验(一步步積累經驗)。",
-      "pinyin": "Xuéxí de guòchéng xūyào nàixīn, yībùbù jīlěi jīngyàn.",
-      "english": "The learning process requires patience, and experience is accumulated step by step."
+      "chinese": "我们经过了一段漫长的旅程(我們經過了一段漫長的旅程)。",
+      "pinyin": "Wǒmen jīngguòle yī duàn màncháng de lǚchéng.",
+      "english": "We went through a long journey."
     },
     {
-      "chinese": "计算机进程管理复杂(計算機進程管理複雜)，系统优化提升效率(系統優化提升效率)。",
-      "pinyin": "Jìsuànjī jìnchéng guǎnlǐ fùzá, xìtǒng yōuhuà tíshēng xiàolǜ.",
-      "english": "Computer process management is complex, but system optimization enhances efficiency."
+      "chinese": "这次旅行的行程安排得非常紧凑(這次旅行的行程安排得非常緊湊)。",
+      "pinyin": "Zhè cì lǚxíng de xíngchéng ānpái dé fēicháng jǐncòu.",
+      "english": "The itinerary for this trip is very compactly arranged."
     }
   ]
 }

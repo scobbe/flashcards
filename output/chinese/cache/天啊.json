@@ -5,8 +5,8 @@
   "english": "oh my god",
   "etymology": {
     "type": "compound word",
-    "description": "天(天) (tiān, \"heaven; sky\") + 啊(啊) (a, \"a modal particle expressing surprise or exclamation\")",
-    "interpretation": "The phrase 天啊 (tiān a) expresses surprise, shock, or amazement. The character 天(天) (tiān, \"heaven; sky\") invokes a greater power or the heavens, while the particle 啊(啊) (a, \"a modal particle\") emphasizes the emotional reaction. Together, this expression is akin to saying 'oh my god' in English.",
+    "description": "天(天) (tiān, \"sky; heaven; god\") is understood as the highest or divine authority in Chinese cosmology, representing the heavens or deities. 啊(啊) (a, \"ah; oh\") is a particle used to express surprise, exclamation, or emphasis. Combined, 天啊 (tiān a) expresses an exclamation of surprise or wonder, akin to saying \"oh my god\" in English.",
+    "interpretation": "天(天) (tiān, \"sky; heaven; god\") invokes the concept of the sky or heavens, often symbolizing divine power or presence. In traditional Chinese thought, the heavens are seen as overseeing or governing the world. 啊(啊) (a, \"ah; oh\") is an exclamatory particle used to convey emotions such as surprise. Together, 天啊 (tiān a) implies calling out to the heavens or expressing surprise with a sense of invoking higher powers, similar to an exclamation like \"oh my god\" in English.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "天",
       "trad": "天",
       "pinyin": "tiān",
-      "english": "heaven; sky"
+      "english": "sky; heaven; god"
     },
     {
       "char": "啊",
       "trad": "啊",
       "pinyin": "a",
-      "english": "a modal particle expressing surprise or exclamation"
+      "english": "ah; oh"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "天啊(天啊)！",
-      "pinyin": "tiān a！",
-      "english": "Oh my god!"
+      "chinese": "天啊(天啊)，你看那座山有多高(你看那座山有多高)！",
+      "pinyin": "Tiān a, nǐ kàn nà zuò shān yǒu duō gāo!",
+      "english": "Oh my god, look at how tall that mountain is!"
     },
     {
-      "chinese": "天啊(天啊)，这真是太不可思议了(這真是太不可思議了)。",
-      "pinyin": "tiān a, zhè zhēn shì tài bùkěsīyì le.",
-      "english": "Oh my god, this is really unbelievable."
+      "chinese": "天啊(天啊)，我忘记带钥匙了(我忘記帶鑰匙了)！",
+      "pinyin": "Tiān a, wǒ wàngjì dài yàoshi le!",
+      "english": "Oh my god, I forgot to bring the keys!"
     },
     {
-      "chinese": "天啊(天啊)，你竟然赢了(你竟然贏了)！",
-      "pinyin": "tiān a, nǐ jìngrán yíng le!",
-      "english": "Oh my god, you actually won!"
+      "chinese": "天啊(天啊)，他竟然赢了比赛(他竟然贏了比賽)！",
+      "pinyin": "Tiān a, tā jìngrán yíng le bǐsài!",
+      "english": "Oh my god, he actually won the game!"
     }
   ]
 }

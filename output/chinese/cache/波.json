@@ -5,14 +5,14 @@
   "english": "wave",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 皮(皮) (pí, \"surface\") = water surface -> wave",
-    "interpretation": "The character 波(bō, \"wave\") combines the water radical 氵 to indicate relation to water, with 皮 serving as the phonetic component, hinting at fluidity or a surface feature like a wave.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 皮(皮) (pí, \"surface\") -> wave",
+    "interpretation": "The character 波(bō, \"wave\") combines 氵(水) (shuǐ, \"water\") as the semantic component, indicating its association with bodies of water, and 皮(皮) (pí, \"surface\") as the phonetic component. The image evokes the concept of water moving across the surface, characteristic of a wave.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "氵",
-      "trad": "氵",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "海风轻拂时(海風輕拂時)，水面泛起微波(水面泛起微波)。",
-      "pinyin": "Hǎi fēng qīng fú shí, shuǐ miàn fàn qǐ wēi bō.",
-      "english": "When the sea breeze caresses, ripples appear on the water's surface."
+      "chinese": "海浪卷起了大波(海浪卷起了大波)。",
+      "pinyin": "Hǎilàng juǎn qǐle dà bō.",
+      "english": "The ocean waves rolled into big waves."
     },
     {
-      "chinese": "小船在湖中荡漾着波(小船在湖中蕩漾著波)。",
-      "pinyin": "Xiǎo chuán zài hú zhōng dàng yàng zhe bō.",
-      "english": "The small boat drifts on the lake with gentle waves."
+      "chinese": "湖面上泛起了细小的波纹(湖面上泛起了細小的波紋)。",
+      "pinyin": "Húmiàn shàng fàn qǐle xì xiǎo de bōwén.",
+      "english": "Small ripples appeared on the surface of the lake."
+    },
+    {
+      "chinese": "心如止水，波澜不惊(心如止水，波瀾不驚)。",
+      "pinyin": "Xīn rú zhǐshuǐ, bōlán bù jīng.",
+      "english": "The heart is like still water, unruffled by waves."
     }
   ]
 }

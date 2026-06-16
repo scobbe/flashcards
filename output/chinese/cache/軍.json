@@ -1,0 +1,38 @@
+{
+  "simplified": "軍",
+  "traditional": "軍",
+  "pinyin": "jūn",
+  "english": "army",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 車(車) (chē, \"chariot\") + phonetic component related to original forms of 螾 (yǐn, \"earthworm\"), 旬 (xún, \"ten days\"), 勻 (yún, \"even\"), 云 (yún, \"say\") -> formation of an organized group or army",
+    "interpretation": "The character 軍(jūn) represents a military unit, consisting of a chariot 車(車) (chē, \"chariot\") as the semantic component, indicating mobility and equipment, paired with a phonetic component that historically is tied to concepts of organization and grouping, implying a unified military force.",
+    "simplification": "The simplified form 军 reduces the character to essential strokes, maintaining the structure representing chariot imagery while resembling a fortification or group lining."
+  },
+  "parts": [
+    {
+      "char": "車",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "chariot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "军队正在训练(軍隊正在訓練)。",
+      "pinyin": "Jūnduì zhèngzài xùnliàn.",
+      "english": "The army is training."
+    },
+    {
+      "chinese": "他们决定加入军队(他們決定加入軍隊)。",
+      "pinyin": "Tāmen juédìng jiārù jūnduì.",
+      "english": "They decided to join the army."
+    },
+    {
+      "chinese": "古代的军队使用弓箭(古代的軍隊使用弓箭)，而不是现代的武器(而不是現代的武器)。",
+      "pinyin": "Gǔdài de jūnduì shǐyòng gōngjiàn, ér bùshì xiàndài de wǔqì.",
+      "english": "Ancient armies used bows and arrows, not modern weapons."
+    }
+  ]
+}

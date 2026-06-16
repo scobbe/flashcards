@@ -5,9 +5,9 @@
   "english": "ear",
   "etymology": {
     "type": "variant form",
-    "description": "尒 is a variant form of 爾(爾) (ěr, 'you') with the original depiction of a cloth on a loom (檷) -> borrowed phonetically for 'you'",
-    "interpretation": "The character 尒 is a simplified variant of 爾(爾) (ěr, 'you') representing a cloth on a loom, which was later borrowed for its phonetic sound to denote 'you'.",
-    "simplification": "尒 is the simplified form adopted from 爾(爾) (ěr, 'you'). It represents an abridged version for ease in writing as part of the Chinese Character Simplification Scheme."
+    "description": "尒 is a variant form of 爾",
+    "interpretation": "尒 serves as an alternative form of 爾(爾) (ěr, 'you') which depicted a loom originally but was also used phonetically as 'you'. The transformation reflects a simplification and loss of original pictographic intent.",
+    "simplification": "尒 is an abridgement of 爾(爾) (ěr, 'you') and was later represented by 尔(尒) (ěr, 'ear'), adopted as the simplified form of 爾."
   },
   "parts": [
     {
@@ -15,25 +15,8 @@
       "trad": "爾",
       "pinyin": "ěr",
       "english": "you"
-    },
-    {
-      "char": "檷",
-      "trad": "檷",
-      "pinyin": "nǐ",
-      "english": "loom"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "他的尒非常敏锐(他的尒非常敏銳)。",
-      "pinyin": "Tā de ěr fēicháng mǐnruì.",
-      "english": "His ear is very sensitive."
-    },
-    {
-      "chinese": "他静静聆听(他靜靜聆聽)，通过尒捕捉微弱的声音(通過尒捕捉微弱的聲音)。",
-      "pinyin": "Tā jìngjìng língtīng, tōngguò ěr bǔzhuō wēiruò de shēngyīn.",
-      "english": "He listens quietly, capturing faint sounds through his ear."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

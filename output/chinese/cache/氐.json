@@ -5,8 +5,8 @@
   "english": "used phonetically",
   "etymology": {
     "type": "pictogram",
-    "description": "氏(氏) (shì, \"clan; bowing figure\") + 一 (line) -> bowing figure depicted with a mark at the bottom -> root of a tree",
-    "interpretation": "The character 氐(dǐ) visually combines the concepts of a bowing figure with a mark at the bottom, which suggests an origin or a base, much like the roots of a tree reaching into the ground. This pictorial representation provides a visual metaphor for the foundational meaning of the character.",
+    "description": "氏(氏) (shì, \"clan; bowing figure\") + 一 -> a bowing figure or tree root -> 氐(氐)",
+    "interpretation": "The character 氐(氐) (dǐ) depicts a bowing figure or the root of a tree, with the addition of a horizontal line or point below the character 氏(氏) (shì, \"clan; bowing figure\"), suggesting the foundation or base, which connects to its use in indicating something basic or fundamental.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "line"
+      "english": "one"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古人用氐记音(古人用氐記音)，只是作辅助作用(只是作輔助作用)。",
-      "pinyin": "Gǔ rén yòng dǐ jì yīn, zhǐ shì zuò fǔ zhù zuò yòng.",
-      "english": "Ancient people used dǐ for phonetic notation, merely serving an auxiliary function."
+      "chinese": "氣氛有些沉悶(氣氛有些沉悶)。",
+      "pinyin": "Qìfēn yǒuxiē chénmèn.",
+      "english": "The atmosphere was somewhat gloomy."
     },
     {
-      "chinese": "在某些书法中(在某些書法中)，氐被用作音标(氐被用作音標)。",
-      "pinyin": "Zài mǒuxiē shūfǎ zhōng, dǐ bèi yòng zuò yīnbiāo.",
-      "english": "In some calligraphy, dǐ is used as a phonetic marker."
+      "chinese": "她的姓氏是氐(她的姓氏是氐)。",
+      "pinyin": "Tā de xìngshì shì Dǐ.",
+      "english": "Her surname is Di."
+    },
+    {
+      "chinese": "這個符號在古代文獻中出現過(這個符號在古代文獻中出現過)。",
+      "pinyin": "Zhège fúhào zài gǔdài wénxiàn zhōng chūxiànguò.",
+      "english": "This symbol appeared in ancient texts."
     }
   ]
 }

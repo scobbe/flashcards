@@ -5,8 +5,8 @@
   "english": "bath towel",
   "etymology": {
     "type": "compound word",
-    "description": "浴(浴) (yù, \"bathe\") refers to the act of washing or immersing oneself in water, while 巾(巾) (jīn, \"towel\") refers to a cloth used to dry oneself.",
-    "interpretation": "A 浴巾(浴巾) (yùjīn, \"bath towel\") is a towel specifically intended for use after bathing, designed to absorb water from the body.",
+    "description": "浴(浴) (yù, \"bath\") refers to taking a bath or shower, often associated with cleansing and hygiene. 巾(巾) (jīn, \"towel\") is a piece of cloth used for wiping or drying, commonly associated with personal grooming items like towels or handkerchiefs. Together, 浴巾(浴巾) (yùjīn) forms the concept of a bath towel, a specific type of towel used after bathing.",
+    "interpretation": "",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "浴",
       "trad": "浴",
       "pinyin": "yù",
-      "english": "bathe; immerse"
+      "english": "bath; shower"
     },
     {
       "char": "巾",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用浴巾擦干头发(我用浴巾擦乾頭髮)。",
-      "pinyin": "Wǒ yòng yùjīn cā gān tóufà.",
-      "english": "I use the bath towel to dry my hair."
+      "chinese": "我忘记带浴巾(我忘記帶浴巾)。",
+      "pinyin": "Wǒ wàngjì dài yùjīn.",
+      "english": "I forgot to bring a bath towel."
     },
     {
-      "chinese": "洗完澡后(洗完澡後)，用浴巾擦干身体(用浴巾擦乾身體)。",
-      "pinyin": "Xǐ wán zǎo hòu, yòng yùjīn cā gān shēntǐ.",
-      "english": "After bathing, use the bath towel to dry your body."
+      "chinese": "洗完澡后(洗完澡後)，他用一条白色的浴巾(他用一條白色的浴巾)。",
+      "pinyin": "Xǐ wán zǎo hòu, tā yòng yī tiáo báisè de yùjīn.",
+      "english": "After showering, he used a white bath towel."
     },
     {
-      "chinese": "他忘记(他忘記)，把浴巾放在椅子上(把浴巾放在椅子上)。",
-      "pinyin": "Tā wàngjì, bǎ yùjīn fàng zài yǐzi shàng.",
-      "english": "He forgot to bring the bath towel and left it on the chair."
+      "chinese": "这家酒店提供干净的浴巾(這家酒店提供乾淨的浴巾)。",
+      "pinyin": "Zhè jiā jiǔdiàn tígōng gānjìng de yùjīn.",
+      "english": "This hotel provides clean bath towels."
     }
   ]
 }

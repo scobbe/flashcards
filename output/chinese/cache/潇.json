@@ -5,9 +5,9 @@
   "english": "deep and clear (literary); brisk",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "水(水) (shuǐ, \"water\") + 蕭(萧) (xiāo, \"rustling sound/ph) = clear water characteristics -> deep and clear water",
-    "interpretation": "The character 潇 (瀟) combines 水(水) (shuǐ, \"water\") for its semantic component, indicating a relationship with water, with the phonetic 蕭(萧) (xiāo, \"rustling sound/ph)\" to convey the sound of flowing water. This reflects the ideas of clarity and briskness associated with moving water.",
-    "simplification": "The character 潇 is the simplified form of 瀟, retaining the semantic 水(水) (shuǐ, \"water\") component while simplifying the complex 蕭(萧) (xiāo, \"rustling sound/ph)\" component by replacing it with the simpler 萧(萧) (xiāo, \"rustling sound/ph)\", retaining its phonetic properties."
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 蕭(蕭) (xiāo) -> deep and clear water",
+    "interpretation": "The character 瀟(瀟) (xiāo, \"deep and clear\") combines the semantic 水(水) (shuǐ, \"water\"), indicating the element of water, with the phonetic 蕭(蕭) (xiāo), suggesting the sound. The combination suggests a sense of water that is deep and clear, as well as a brisk or lively character, as water in motion can appear both clear and dynamic.",
+    "simplification": "瀟(瀟) was simplified to 潇(瀟) by removing the 艹(艹) (cǎo, \"grass\") component from 蕭, simplifying the overall form but retaining its essential sound."
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "water"
     },
     {
-      "char": "萧",
+      "char": "蕭",
       "trad": "蕭",
       "pinyin": "xiāo",
-      "english": "rustling sound"
+      "english": "desolate; whispering of wind"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋风潇洒(秋風瀟灑)。",
-      "pinyin": "qiū fēng xiāo sǎ",
-      "english": "The autumn wind is brisk and elegant."
+      "chinese": "她的名字叫潇雪(她的名字叫瀟雪)。",
+      "pinyin": "Tā de míngzì jiào Xiāo Xuě.",
+      "english": "Her name is Xiao Xue."
     },
     {
-      "chinese": "他的步伐潇洒(他的步伐瀟灑)，眼神深远(眼神深遠)。",
-      "pinyin": "tā de bùfá xiāo sǎ, yǎnshén shēnyuǎn",
-      "english": "His stride is brisk and relaxed, and his gaze is profound."
+      "chinese": "这个湖水清澈潇洒(這個湖水清澈瀟灑)。",
+      "pinyin": "Zhège húshuǐ qīngchè xiāosǎ.",
+      "english": "The lake is clear and brisk."
     },
     {
-      "chinese": "湖面波光潇洒(湖面波光瀟灑)，映出天际长空(映出天際長空)。",
-      "pinyin": "húmiàn bōguāng xiāo sǎ, yìng chū tiānjì chángkōng",
-      "english": "The shimmering waves on the lake reflect the vast, clear sky."
+      "chinese": "微风习习，天气潇爽(微風習習，天氣瀟爽)。",
+      "pinyin": "Wēifēng xíxí, tiānqì xiāoshuǎng.",
+      "english": "A gentle breeze blows, and the weather is brisk."
     }
   ]
 }

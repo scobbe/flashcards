@@ -5,8 +5,8 @@
   "english": "martial arts circles",
   "etymology": {
     "type": "compound word",
-    "description": "武(武) (wǔ, \"martial; military\") refers to martial arts or military matters, and 林(林) (lín, \"forest; circles\") metaphorically represents a circle or domain, often used to describe a community or field of interest.",
-    "interpretation": "武林(武林) (wǔlín, \"martial arts circles\") refers to the community or society associated with martial arts practitioners and activities. The term evokes the idea of a wide network or 'forest' of martial arts practitioners and culture.",
+    "description": "武(武) (wǔ, \"martial\") denotes martial arts or military affairs. 林(林) (lín, \"forest\") figuratively represents a vast gathering or community. Together, 武林(武林) (wǔlín) conveys the notion of a community or world centered around martial arts.",
+    "interpretation": "武(武) (wǔ, \"martial\") provides the context—martial arts. 林(林) (lín, \"forest\") suggests a vast, dense collection. The 'forest' metaphorically alludes to a flourishing community, much as trees form a part of a dense forest. Therefore, 武林(武林) (wǔlín) depicts the world or society where those skilled in martial arts gather, akin to a cultural community or network involving martial arts practitioners and enthusiasts.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "林",
       "trad": "林",
       "pinyin": "lín",
-      "english": "forest; circles"
+      "english": "forest; gathering; subset when referring to 'circle of people'"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他热爱武林(他熱愛武林)。",
-      "pinyin": "Tā rè'ài wǔlín.",
-      "english": "He loves the martial arts circles."
+      "chinese": "在武林中(在武林中)，许多高手都被尊敬(許多高手都被尊敬)。",
+      "pinyin": "Zài wǔlín zhōng, xǔduō gāoshǒu dōu bèi zūnjìng.",
+      "english": "In the martial arts circles, many masters are respected."
     },
     {
-      "chinese": "年轻人拜师武林(年輕人拜師武林)，渴望学习绝世武功(渴望學習絕世武功)。",
-      "pinyin": "Niánqīngrén bàishī wǔlín, kěwàng xuéxí juéshì wǔgōng.",
-      "english": "Young people seek apprenticeship in the martial arts circles, eager to learn extraordinary martial skills."
+      "chinese": "他梦想成为武林中的一员(他夢想成為武林中的一員)。",
+      "pinyin": "Tā mèngxiǎng chéngwéi wǔlín zhōng de yīyuán.",
+      "english": "He dreams of becoming a member of the martial arts circles."
     },
     {
-      "chinese": "古代英雄驰骋武林(古代英雄馳騁武林)，留下传奇故事(留下傳奇故事)。",
-      "pinyin": "Gǔdài yīngxióng chíchěng wǔlín, liú xià chuánqí gùshì.",
-      "english": "Ancient heroes roamed the martial arts circles, leaving behind legendary tales."
+      "chinese": "江湖险恶(江湖險惡)，武林高手随时要小心(武林高手隨時要小心)。",
+      "pinyin": "Jiānghú xiǎn'è, wǔlín gāoshǒu suíshí yào xiǎoxīn.",
+      "english": "The martial arts world is dangerous, and martial arts masters must always be cautious."
     }
   ]
 }

@@ -5,22 +5,24 @@
   "english": "Bin (ancient place name)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "分(分) (fēn,",
-    "interpretation": "",
+    "description": "phonetic 分 (fēn) + semantic 邑 (yì, \"city\") -> denotes an ancient city name",
+    "interpretation": "The character 邠 represents an ancient place name, created by combining the phonetic component 分 (fēn) with the semantic component 邑 (yì, \"city\"). 邑 indicates the connection to a location or settlement, while 分 provides the pronunciation.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "我在邠(邠)看到了古代遗迹(古代遺跡)。",
-      "pinyin": "Wǒ zài Bīn kàn dào le gǔdài yíjì.",
-      "english": "I saw ancient relics in Bin."
+      "char": "分",
+      "trad": "分",
+      "pinyin": "fēn",
+      "english": "divide"
     },
     {
-      "chinese": "古时的邠(古時的邠)是繁华的贸易中心(是繁華的貿易中心)，商旅络绎不绝(商旅絡繹不絕)。",
-      "pinyin": "Gǔshí de Bīn shì fánhuá de màoyì zhōngxīn, shānglǚ luòyì bùjué.",
-      "english": "In ancient times, Bin was a prosperous trade center, attracting an endless stream of merchants."
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "city"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

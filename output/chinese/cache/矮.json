@@ -5,8 +5,8 @@
   "english": "short (of stature)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "矢(矢) (shǐ, \"arrow\") + 委(委) (wěi, \"entrust\") = semantic arrow and phonetic component -> short stature",
-    "interpretation": "矮(矮) (ǎi, \"short\") combines 矢(矢) (shǐ, \"arrow\") as the semantic component related to precision or directness with 委(委) (wěi, \"entrust\") providing the phonetic cue, together conveying the idea of shortness or low stature.",
+    "description": "semantic 矢(矢) (shǐ, \"arrow\") + phonetic 委(委) (wěi) -> short (of stature)",
+    "interpretation": "矢(矢) (shǐ, \"arrow\") suggests something being straight and upright, while 委(委) (wěi) gives the sound. The use of an arrow, typically straight and long, juxtaposed in a context meaning 'short,' emphasizes a comparative sense of lower stature.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "委",
       "trad": "委",
       "pinyin": "wěi",
-      "english": "entrust"
+      "english": "to entrust"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他比我矮(他比我矮)。",
-      "pinyin": "Tā bǐ wǒ ǎi.",
-      "english": "He is shorter than me."
+      "chinese": "他的身材很矮(他的身材很矮)。",
+      "pinyin": "Tā de shēncái hěn ǎi.",
+      "english": "He is very short in stature."
     },
     {
-      "chinese": "房子的天花板很矮(房子的天花板很矮)。",
-      "pinyin": "Fángzi de tiānhuābǎn hěn ǎi.",
-      "english": "The ceiling of the house is very low."
+      "chinese": "虽然他很矮(雖然他很矮)，但他在篮球队里表现出色(但他在籃球隊裏表現出色)。",
+      "pinyin": "Suīrán tā hěn ǎi, dàn tā zài lánqiú duì lǐ biǎoxiàn chūsè.",
+      "english": "Although he is short, he performs excellently in the basketball team."
     },
     {
-      "chinese": "在篮球队中(在籃球隊中)，他显得特别矮(他顯得特別矮)。",
-      "pinyin": "Zài lánqiú duì zhōng, tā xiǎnde tèbié ǎi.",
-      "english": "In the basketball team, he appears particularly short."
+      "chinese": "那个女孩比她的妹妹矮一些(那個女孩比她的妹妹矮一些)。",
+      "pinyin": "Nàgè nǚhái bǐ tā de mèimei ǎi yīxiē.",
+      "english": "That girl is a bit shorter than her sister."
     }
   ]
 }

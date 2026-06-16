@@ -5,28 +5,16 @@
   "english": "curved line",
   "etymology": {
     "type": "variant form",
-    "description": "丆 is a variant form of 厂, which is the simplified form of 廠",
-    "interpretation": "丆 is used as a simplified variant of 厂 to represent the same concept. 厂 itself stems from 廠 (chǎng, \"factory\"), which is a phono-semantic compound combining 广 (guǎng, \"shelter\") with 敞 (chǎng, \"open\"), indicating an open shelter or space.",
+    "description": "Variant form of 厂",
+    "interpretation": "丆 is a variant form of 厂(厂) (hǎn, 'cliff'), which depicts a cliff edge. It is used primarily as a component in other characters to suggest the meaning or sound of a cliff or a sloping surface.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "厂",
-      "trad": "廠",
-      "pinyin": "chǎng",
-      "english": "factory"
-    },
-    {
-      "char": "广",
-      "trad": "广",
-      "pinyin": "guǎng",
-      "english": "shelter"
-    },
-    {
-      "char": "敞",
-      "trad": "敞",
-      "pinyin": "chǎng",
-      "english": "open"
+      "trad": "厂",
+      "pinyin": "hǎn",
+      "english": "cliff"
     }
   ],
   "in_contemporary_usage": false,

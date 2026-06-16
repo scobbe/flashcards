@@ -5,8 +5,8 @@
   "english": "region; area",
   "etymology": {
     "type": "compound word",
-    "description": "地(地) (dì, \"earth; ground\") and 区(區) (qū, \"area; district\") combine to indicate a specific part of the earth's surface or a defined geographical area.",
-    "interpretation": "A 地区(地區) (dìqū) refers to a specific location, defined by geographical or administrative boundaries. The combination of 地(地) (dì, \"earth; ground\") and 区(區) (qū, \"area; district\") highlights a portion of land designated within these parameters.",
+    "description": "地(地) (dì, \"earth; ground\") refers to the physical earth or land. 區(區) (qū, \"area; district\") denotes an assigned area or division. Together, 地區 (dìqū, \"region; area\") represents a designated section or space on the earth's surface.",
+    "interpretation": "地(地) (dì, \"earth; ground\") represents the physical land surface. 區(區) (qū, \"area; district\") refers to a specific division or portion. When combined, 地區 (dìqū, \"region; area\") effectively describes an expanse of land that is identified as a specific segment or region, whether defined by natural, administrative, or other boundaries.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个地区经济繁荣(這個地區經濟繁榮)。",
-      "pinyin": "Zhège dìqū jīngjì fánróng.",
-      "english": "The economy in this region is flourishing."
+      "chinese": "这个地区气候温暖(這個地區氣候溫暖)。",
+      "pinyin": "Zhège dìqū qìhòu wēnnuǎn.",
+      "english": "The climate in this region is warm."
     },
     {
-      "chinese": "南部地区气候温暖(南部地區氣候溫暖)，适合种植热带水果(適合種植熱帶水果)。",
-      "pinyin": "Nánbù dìqū qìhòu wēnnuǎn, shìhé zhòngzhí rèdài shuǐguǒ.",
-      "english": "The southern region has a warm climate, making it suitable for growing tropical fruits."
+      "chinese": "政府正在发展这个地区的经济(政府正在發展這個地區的經濟)。",
+      "pinyin": "Zhèngfǔ zhèngzài fāzhǎn zhège dìqū de jīngjì.",
+      "english": "The government is developing the economy of this region."
+    },
+    {
+      "chinese": "不同的地区有不同的文化习俗(不同的地區有不同的文化習俗)。",
+      "pinyin": "Bùtóng de dìqū yǒu bùtóng de wénhuà xísú.",
+      "english": "Different regions have different cultural customs."
     }
   ]
 }

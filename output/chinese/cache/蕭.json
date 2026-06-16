@@ -5,35 +5,40 @@
   "english": "desolate",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 肅(肃) (sù, \"solemn\") = grass-like music -> desolate",
-    "interpretation": "The character 蕭(蕭) (xiāo, \"desolate\") combines the 艹(艹) (cǎo, \"grass\") radical, representing a natural theme, with 肅(肃) (sù, \"solemn\") for its phonetic element. Together, they convey the sense of a solemn, deserted landscape akin to dry grass in the wind.",
-    "simplification": ""
+    "description": "semantic 艹 (plants; grass) + phonetic 肖 (xiāo) -> desolate grasslands",
+    "interpretation": "The character 蕭 (xiāo, 'desolate') combines 艹 (艹) (cǎo, 'plants; grass'), reflecting vegetation or land, with 肖 (xiāo), a phonetic component providing the sound. The imagery evokes vast and deserted grassy areas, connecting to the sense of desolation.",
+    "simplification": "The traditional character 蕭 was simplified to 萧 by removing the grass radical 艹 (艹) (cǎo, 'plants; grass') at the top and modifying the internal structure to a less complex form."
   },
   "parts": [
     {
       "char": "艹",
       "trad": "艹",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "plants; grass"
     },
     {
-      "char": "肅",
-      "trad": "肃",
-      "pinyin": "sù",
-      "english": "solemn"
+      "char": "肖",
+      "trad": "肖",
+      "pinyin": "xiāo",
+      "english": "resemble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "庭院内风声凄蕭(庭院內風聲凄蕭)。",
-      "pinyin": "Tíngyuàn nèi fēngshēng qī xiāo",
-      "english": "The wind in the courtyard sounds desolate."
+      "chinese": "这个地方看起来很萧瑟(這個地方看起來很蕭瑟)。",
+      "pinyin": "Zhège dìfāng kàn qǐlái hěn xiāosè.",
+      "english": "This place looks very desolate."
     },
     {
-      "chinese": "夜色降临(夜色降臨)，寒风中散发出一股蕭然的气息(寒風中散發出一股蕭然的氣息)。",
-      "pinyin": "Yèsè jiànglín, hánfēng zhōng sànfā chū yī gǔ xiāo rán de qìxī",
-      "english": "Night falls, and a desolate aura emanates in the chilly wind."
+      "chinese": "秋风萧瑟(秋風蕭瑟)，大地显得格外荒凉(大地顯得格外荒涼)。",
+      "pinyin": "Qiūfēng xiāosè, dàdì xiǎnde géwài huāngliáng.",
+      "english": "The autumn wind is desolate, making the earth appear exceptionally barren."
+    },
+    {
+      "chinese": "她的声音中带着一丝萧索(她的聲音中帶着一絲蕭索)。",
+      "pinyin": "Tā de shēngyīn zhōng dàizhe yīsī xiāosuǒ.",
+      "english": "Her voice carried a hint of desolation."
     }
   ]
 }

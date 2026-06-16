@@ -5,8 +5,8 @@
   "english": "lotus flower",
   "etymology": {
     "type": "compound word",
-    "description": "荷(荷) (hé, \"lotus\") + 花(花) (huā, \"flower\") creates the word 荷花(荷花) (héhuā, \"lotus flower\"). 荷(荷) (hé, \"lotus\") refers to the lotus plant, a significant symbol in various Asian cultures, often representing purity and spiritual awakening, while 花(花) (huā, \"flower\") denotes the flowering part of the plant. Together, they specify the blooming part of the lotus plant.",
-    "interpretation": "The combination of 荷(荷) (hé, \"lotus\") and 花(花) (huā, \"flower\") specifies the flower part of the lotus plant, highlighting its importance in many Eastern cultural, religious, and philosophical contexts.",
+    "description": "荷(荷) (hé, \"lotus\") combined with 花(花) (huā, \"flower\") to refer specifically to the lotus flower, which is culturally significant in Chinese tradition as a symbol of purity and enlightenment because it rises unstained from the mud.",
+    "interpretation": "荷(荷) (hé, \"lotus\") refers to the aquatic plant known for its large, fragrant blossoms that emerge from muddy waters, symbolizing purity amidst adversity. 花(花) (huā, \"flower\") signifies the characteristic colorful and fragrant bloom produced by plants. Combining 荷(荷) and 花(花) highlights the lotus as a type of flower that holds a special place in nature and culture for its beauty and symbolism.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "荷",
       "trad": "荷",
       "pinyin": "hé",
-      "english": "lotus; burden"
+      "english": "lotus; load; burden"
     },
     {
       "char": "花",
       "trad": "花",
       "pinyin": "huā",
-      "english": "flower"
+      "english": "flower; bloom; spend (money); fancy pattern"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夏日降临时(夏日降臨時)，荷花绽放光彩(荷花綻放光彩)。",
-      "pinyin": "xiàrì jiànglín shí, héhuā zhànfàng guāngcǎi.",
-      "english": "When summer arrives, the lotus flower blooms brilliantly."
+      "chinese": "湖中开满了美丽的荷花(湖中開滿了美麗的荷花)。",
+      "pinyin": "Húzhōng kāi mǎnle měilì de héhuā.",
+      "english": "The lake is full of beautiful lotus flowers."
     },
     {
-      "chinese": "池边有荷花(池邊有荷花)，迎风摇曳动人(迎風搖曳動人)。",
-      "pinyin": "chí biān yǒu héhuā, yíng fēng yáoyè dòngrén.",
-      "english": "By the pond, there are lotus flowers, swaying gracefully in the breeze."
+      "chinese": "每年夏天(每年夏天)，荷花绽放(荷花綻放)，吸引了很多游客(吸引了很多遊客)。",
+      "pinyin": "Měinián xiàtiān, héhuā zhànfàng, xīyǐnle hěnduō yóukè.",
+      "english": "Every summer, the lotus flowers bloom, attracting many tourists."
+    },
+    {
+      "chinese": "那幅画描绘了一片荷花池(那幅畫描繪了一片荷花池)，充满诗意(充滿詩意)。",
+      "pinyin": "Nà fú huà miáohuìle yī piàn héhuā chí, chōngmǎn shīyì.",
+      "english": "The painting depicts a lotus pond, full of poetic charm."
     }
   ]
 }

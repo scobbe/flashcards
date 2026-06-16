@@ -5,9 +5,9 @@
   "english": "clear",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 水(水) (shuǐ, \"water\") + Phonetic: 蕭(蕭) (xiāo, \"desolate\") = clear water -> clear",
-    "interpretation": "The character 瀟(xiāo, \"clear\") combines the water radical 水(水) (shuǐ, \"water\") indicating relation to fluidity or clarity, with the phonetic component 蕭(蕭) (xiāo, \"desolate\") for its sound. It suggests the idea of water, specifically highlighting its clarity or purity.",
-    "simplification": "潇(瀟): Simplified by modifying the component structure for ease of writing while retaining the phonetic element."
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 蕭(蕭) (xiāo) -> clear",
+    "interpretation": "The character combines the semantic component 水(水) (shuǐ, \"water\") depicting water, indicating clarity or purity, with the phonetic 蕭(蕭) (xiāo), which provides the sound. Together, they suggest something that is clear, like water, conveying the primary sense of 'clear.'",
+    "simplification": "潇(瀟): In the simplified form, the component 蕭 was replaced to reduce strokes."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "蕭",
       "trad": "蕭",
       "pinyin": "xiāo",
-      "english": "desolate"
+      "english": "a type of plant; desolate"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "溪水在阳光下显得格外瀟(溪水在陽光下顯得格外瀟)。",
-      "pinyin": "Xīshuǐ zài yángguāng xià xiǎnde géwài xiāo.",
-      "english": "The creek appears especially clear in the sunlight."
+      "chinese": "雨后的花园显得格外清新瀟(雨後的花園顯得格外清新瀟)。",
+      "pinyin": "Yǔ hòu de huāyuán xiǎnde géwài qīngxīn xiāo.",
+      "english": "The garden looks particularly fresh and clear after the rain."
     },
     {
-      "chinese": "晨风轻拂(晨風輕拂)，湖面显得瀟(湖面顯得瀟)。",
-      "pinyin": "Chénfēng qīngfú, húmiàn xiǎnde xiāo.",
-      "english": "The morning breeze gently brushes, and the lake appears clear."
+      "chinese": "河水十分瀟(河水十分瀟)，鱼儿在其中自由游逸(魚兒在其中自由游逸)。",
+      "pinyin": "Héshuǐ shífēn xiāo, yú'ér zài qízhōng zìyóu yóuyì.",
+      "english": "The river water is very clear, and the fish swim freely in it."
+    },
+    {
+      "chinese": "他的思路一向瀟(他的思路一向瀟)，能够迅速理解复杂的问题(能夠迅速理解複雜的問題)。",
+      "pinyin": "Tā de sīlù yíxiàng xiāo, nénggòu xùnsù lǐjiě fùzá de wèntí.",
+      "english": "His thoughts are always clear, enabling him to quickly understand complex problems."
     }
   ]
 }

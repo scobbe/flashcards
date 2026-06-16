@@ -4,28 +4,53 @@
   "pinyin": "fǔ",
   "english": "man",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a broad field, originally representing a seedling sprouting from the earth, later associated with 'man' or 'male name'.",
-    "interpretation": "Originally a pictogram representing soil and a growing plant, 甫(甫) (fǔ, 'man') evolved to also symbolize a person, often used in names as a prefix denoting masculinity or adulthood.",
+    "type": "phono-semantic compound",
+    "description": "屮(屮) ('vegetation') + 田(田) ('field') = garden -> corrupted into 父(父) ('father') + 用(用) ('to use') -> phono-semantic: 父 for sound",
+    "interpretation": "Originally, 甫 depicted a piece of land or garden through the combination of vegetation (屮) and a field (田). Over time, the components evolved in script, with 父 becoming the phonetic element, contributing the sound. While originally referring to gardens, its phonetic role led to its modern use related to men or gentlemen.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "vegetation"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "父",
+      "trad": "父",
+      "pinyin": "fù",
+      "english": "father"
+    },
+    {
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "to use"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位正直的甫(他是一位正直的甫)。",
-      "pinyin": "Tā shì yī wèi zhèngzhí de fǔ.",
-      "english": "He is an upright man."
+      "chinese": "这个小村庄只有一个男子甫(這個小村莊只有一個男子甫)。",
+      "pinyin": "Zhège xiǎo cūnzhuāng zhǐyǒu yīgè nánzǐ fǔ.",
+      "english": "This small village has only one man named Fu."
     },
     {
-      "chinese": "古时英豪皆尊甫为表率(古時英豪皆尊甫為表率)。",
-      "pinyin": "Gǔshí yīngháo jiē zūn fǔ wéi biǎolǜ.",
-      "english": "In ancient times, heroes all revered the man as a role model."
+      "chinese": "甫(甫)是一位出色的画家(是一位出色的畫家)。",
+      "pinyin": "Fǔ shì yī wèi chūsè de huàjiā.",
+      "english": "Fu is an outstanding painter."
     },
     {
-      "chinese": "文史名家赞扬这位甫(文史名家讚揚這位甫)。",
-      "pinyin": "Wénshǐ míngjiā zànyáng zhè wèi fǔ.",
-      "english": "Prominent writers and historians praised this man."
+      "chinese": "他们在讨论甫的生平(他們在討論甫的生平)。",
+      "pinyin": "Tāmen zài tǎolùn fǔ de shēngpíng.",
+      "english": "They are discussing Fu's life."
     }
   ]
 }

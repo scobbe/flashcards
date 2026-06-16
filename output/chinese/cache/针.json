@@ -5,14 +5,14 @@
   "english": "needle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "釒(金) (jīn, \"metal\") + 十(十) (shí, \"ten\") = tool associated with metal -> phonetic borrowing to denote \"needle\"",
-    "interpretation": "The character 針(針) (zhēn, \"needle\") represents a slender metal tool, with 釒(金) (jīn, \"metal\") indicating the material and 十(十) (shí, \"ten\") acting as a phonetic component.",
-    "simplification": "釒(金) was replaced by 钅(金) in the simplified form 针(针), retaining the metal component while simplifying its strokes."
+    "description": "semantic 釒(釒) (jīn, \"metal\") + phonetic 十(十) (shí)",
+    "interpretation": "釒(釒) (jīn, \"metal\") indicates the material and practical use of needles being made of metal. 十(十) (shí) provides the phonetic component. This combination suggests a small metal object, like a needle.",
+    "simplification": "Simplified by reducing 釒(釒) (jīn, \"metal\") to 钅(钅), keeping the phonetic 十(十) (shí) part unchanged."
   },
   "parts": [
     {
       "char": "釒",
-      "trad": "金",
+      "trad": "釒",
       "pinyin": "jīn",
       "english": "metal"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈拿针(媽媽拿針)，缝补衣服(縫補衣服)。",
-      "pinyin": "Māmā ná zhēn, fèng bǔ yīfú.",
-      "english": "Mother uses a needle to mend clothes."
+      "chinese": "我找不到针(我找不到針)。",
+      "pinyin": "Wǒ zhǎo bù dào zhēn.",
+      "english": "I can't find the needle."
     },
     {
-      "chinese": "医生用针(醫生用針)，注射药物(注射藥物)。",
-      "pinyin": "Yīshēng yòng zhēn, zhùshè yàowù.",
-      "english": "The doctor uses a needle to inject medicine."
+      "chinese": "医生用一根细针给我打针(醫生用一根細針給我打針)。",
+      "pinyin": "Yīshēng yòng yī gēn xì zhēn gěi wǒ dǎ zhēn.",
+      "english": "The doctor used a thin needle to give me an injection."
     },
     {
-      "chinese": "裁缝用针(裁縫用針)，缝制礼服(縫製禮服)。",
-      "pinyin": "Cáiféng yòng zhēn, fèng zhì lǐfú.",
-      "english": "The tailor uses a needle to sew a gown."
+      "chinese": "这枚针是用来缝衣服的(這枚針是用來縫衣服的)。",
+      "pinyin": "Zhè méi zhēn shì yòng lái féng yīfú de.",
+      "english": "This needle is used for sewing clothes."
     }
   ]
 }

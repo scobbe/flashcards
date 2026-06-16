@@ -5,40 +5,40 @@
   "english": "in advance; beforehand; before; prepare",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 予(予) (yǔ, 'give') + semantic: 頁(頁) (yè, 'page') -> association with preparation or planning ahead",
-    "interpretation": "The character combines 予(予) (yǔ, 'give'), indicating the concept of granting or planning, with 頁(頁) (yè, 'page'), alluding to documentation or planning in advance. This represents the notion of forethought or preparation.",
-    "simplification": "預(預) to 预(預): 頁(頁) (yè, 'page') simplified to 页(页) to streamline the character while retaining phonetic and semantic components."
+    "description": "semantic 頁(頁) (yè, \"page\") + phonetic 予(予) (yǔ) -> anticipated response or preparation",
+    "interpretation": "頁(頁) (yè, \"page\") suggests information or a plan, while 予(予) (yǔ) provides the sound, leading to the idea of preparation or arranging in advance. The concept of preparing or planning naturally precedes an event, reflecting the meaning 'in advance' or 'prepare'.",
+    "simplification": "Simplified to 预 by reducing components 頁(頁) to 页, retaining phonetic 予(予)."
   },
   "parts": [
-    {
-      "char": "予",
-      "trad": "予",
-      "pinyin": "yǔ",
-      "english": "give"
-    },
     {
       "char": "頁",
       "trad": "頁",
       "pinyin": "yè",
       "english": "page"
+    },
+    {
+      "char": "予",
+      "trad": "予",
+      "pinyin": "yǔ",
+      "english": "to give"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们预习了考试内容(我們預習了考試內容)。",
-      "pinyin": "Wǒ yùxí le kǎoshì nèiróng.",
-      "english": "I reviewed the exam content in advance."
+      "chinese": "他提前通知了我们(他提前通知了我們)，让我们做好准备(讓我們做好準備)。",
+      "pinyin": "Tā tíqián tōngzhī le wǒmen, ràng wǒmen zuò hǎo zhǔnbèi.",
+      "english": "He informed us in advance, letting us prepare well."
     },
     {
-      "chinese": "他预先做了详细准备(他預先做了詳細準備)。",
-      "pinyin": "Tā yùxiān zuòle xiángxì zhǔnbèi.",
-      "english": "He made detailed preparations beforehand."
+      "chinese": "他们正在预热机器(他們正在預熱機器)。",
+      "pinyin": "Tāmen zhèngzài yùrè jīqì.",
+      "english": "They are preheating the machine."
     },
     {
-      "chinese": "公司预定了下个月的展会场地(公司預定了下個月的展會場地)。",
-      "pinyin": "Gōngsī yùdìngle xià gè yuè de zhǎnhuì chǎngdì.",
-      "english": "The company booked the exhibition venue for next month in advance."
+      "chinese": "会议已经预定了时间和地点(會議已經預定了時間和地點)。",
+      "pinyin": "Huìyì yǐjīng yùdìng le shíjiān hé dìdiǎn.",
+      "english": "The meeting has already set the time and location beforehand."
     }
   ]
 }

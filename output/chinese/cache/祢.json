@@ -5,8 +5,8 @@
   "english": "you; an ancient pronoun",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "示(示) (shì, \"to show; spirit\") + 爾(爾) (ěr, \"you\") = representation of a spiritual or divine quality with a sound association from 爾",
-    "interpretation": "The character 祢 combines 示(示) (shì, \"to show; spirit\"), indicating its association with spiritual or religious contexts, and 爾(爾) (ěr, \"you\"), which provides the phonetic element. This creation method helps in denoting the character's connection to both the spiritual and the expression of addressing 'you' in an ancient context.",
+    "description": "semantic 示 (shì, \"altar\") + phonetic 爾 (ěr, \"you\") -> personal pronoun",
+    "interpretation": "The character 祢(nǐ, \"you\") combines the semantic component 示(shì, \"altar\"), suggesting a spiritual or revered aspect, with the phonetic component 爾(ěr, \"you\"), which provides the pronunciation. This compound illustrates how personal pronouns can be linked with spiritual or formal contexts in ancient usage.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "示",
       "trad": "示",
       "pinyin": "shì",
-      "english": "to show; spirit"
+      "english": "altar"
     },
     {
       "char": "爾",

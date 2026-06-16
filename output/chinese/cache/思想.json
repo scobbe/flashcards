@@ -5,8 +5,8 @@
   "english": "thought; thinking",
   "etymology": {
     "type": "compound word",
-    "description": "思(思) (sī, \"to think\") + 想(想) (xiǎng, \"to ponder\") combine to convey the concept of thought or thinking.",
-    "interpretation": "The combination of 思(思) (sī, \"to think\") and 想(想) (xiǎng, \"to ponder\") highlights the process of intellectual reflection and consideration, capturing the essence of both conscious and unconscious thoughts.",
+    "description": "思(思) (sī, \"to think\") combines with 想(想) (xiǎng, \"to think; to ponder\") to articulate the concept of 'thought' or 'thinking', referring to the process of contemplating ideas or engaging in intellectual reflection.",
+    "interpretation": "思(思) (sī, \"to think\") originally indicated compassionate concern and reflection, represented by the heart at the center of a linear scroll—connected with serious reflection and serious thinking. 想(想) (xiǎng, \"to think; to ponder\"), depicting both the heart and thinking, emphasized the mental activity involved in reaching understanding or insight. Combined, 思(思) stresses slower, reflective thought while 想(想) implies active, dynamic consideration. Together, they signify the fuller scope of mental processes, covering the spectrum from deep reflection to active pondering—forming the basis for 'thought' as both an act and a field of moral, intellectual exploration.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "思",
       "trad": "思",
       "pinyin": "sī",
-      "english": "to think; consider; idea; thought"
+      "english": "to think; to consider"
     },
     {
       "char": "想",
       "trad": "想",
       "pinyin": "xiǎng",
-      "english": "to consider; ponder; imagine; think"
+      "english": "to think; to ponder"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的思想深邃(他的思想深邃)。",
-      "pinyin": "Tā de sīxiǎng shēnsuì.",
-      "english": "His thought is profound."
+      "chinese": "他的思想非常开放(他的思想非常開放)。",
+      "pinyin": "Tā de sīxiǎng fēicháng kāifàng.",
+      "english": "His thinking is very open-minded."
     },
     {
-      "chinese": "艺术启迪思想(藝術啟迪思想)，梦想照亮前行(夢想照亮前行)。",
-      "pinyin": "Yìshù qǐdí sīxiǎng, mèngxiǎng zhàoliàng qiánxíng.",
-      "english": "Art inspires thought, and dreams illuminate the way forward."
+      "chinese": "哲学是一门研究思想的学科(哲學是一門研究思想的學科)。",
+      "pinyin": "Zhéxué shì yī mén yánjiū sīxiǎng de xuékē.",
+      "english": "Philosophy is a discipline that studies thought."
+    },
+    {
+      "chinese": "她的思想影响了许多人(她的思想影響了許多人)。",
+      "pinyin": "Tā de sīxiǎng yǐngxiǎngle xǔduō rén.",
+      "english": "Her ideas have influenced many people."
     }
   ]
 }

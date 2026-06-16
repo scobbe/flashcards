@@ -5,16 +5,16 @@
   "english": "Jinan (capital of Shandong)",
   "etymology": {
     "type": "compound word",
-    "description": "济(濟) (jì, \"aid\") + 南(南) (nán, \"south\")",
-    "interpretation": "济南(濟南) (Jǐnán) refers to a location that historically provided aid or facilitated transportation, situated to the south. The city of Jinan, the capital of Shandong Province, is significant historically as a hub of trade and communication.",
-    "simplification": "济南 is the simplified form of 濟南."
+    "description": "濟(濟) (jì, \"assist; cross; aid\") and 南(南) (nán, \"south\") combine to form the name of the city Jinan. Historically, Jinan is positioned south of the Yellow River, which is significant for aiding transport and communication.",
+    "interpretation": "濟(濟) (jì, \"assist; cross; aid\") comes from assisting or crossing waters, like the Yellow River. As Jinan is south of the river, 南(南) (nán, \"south\") was used to denote its geographical location relative to this major waterway. The name historically suggests the city's role as a hub of transportation and a pivotal crossing point along the South of the Yellow River.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "济",
       "trad": "濟",
       "pinyin": "jì",
-      "english": "aid; ferry over; help; relieve"
+      "english": "assist; cross; aid"
     },
     {
       "char": "南",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我计划明年去济南(我計劃明年去濟南)，在那里品尝美食(在那裡品嚐美食)。",
-      "pinyin": "Wǒ jìhuà míngnián qù Jǐnán, zài nàlǐ pǐncháng měishí.",
-      "english": "I plan to visit Jinan next year, where I will taste delicious food."
+      "chinese": "济南是山东省的省会(濟南是山東省的省會)。",
+      "pinyin": "Jǐnán shì Shāndōng shěng de shěnghuì.",
+      "english": "Jinan is the capital of Shandong Province."
     },
     {
-      "chinese": "济南有着丰富的历史(濟南有著豐富的歷史)。",
-      "pinyin": "Jǐnán yǒuzhe fēngfù de lìshǐ.",
-      "english": "Jinan has a rich history."
+      "chinese": "我有机会去济南旅游(我有機會去濟南旅遊)。",
+      "pinyin": "Wǒ yǒu jīhuì qù Jǐnán lǚyóu.",
+      "english": "I have a chance to travel to Jinan."
+    },
+    {
+      "chinese": "济南的泉水非常有名(濟南的泉水非常有名)。",
+      "pinyin": "Jǐnán de quánshuǐ fēicháng yǒumíng.",
+      "english": "The springs in Jinan are very famous."
     }
   ]
 }

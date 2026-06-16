@@ -5,46 +5,40 @@
   "english": "recharge card",
   "etymology": {
     "type": "compound word",
-    "description": "充(充) (chōng, \"to charge\"), 值(值) (zhí, \"value\"), 卡(卡) (kǎ, \"card\")",
-    "interpretation": "充值卡(充值卡) (chōngzhíkǎ, \"recharge card\") combines 充(充) (chōng, \"to charge\") and 值(值) (zhí, \"value\") to indicate the action of adding value, along with 卡(卡) (kǎ, \"card\"), representing a card. Therefore, a 充值卡 is a card that is used to recharge or add value to an account, such as for mobile phones or prepaid services.",
+    "description": "充值(充值) (chōngzhí, \"to recharge\") + 卡(卡) (kǎ, \"card\") forms the word 充值卡(充值卡), which refers to a card used for adding credit or value, typically to a prepaid account.",
+    "interpretation": "充值(充值) (chōngzhí, \"to recharge\") combines 充(充) (chōng, \"fill\") with 值(值) (zhí, \"value\") to describe the action of adding value or balance to an account. 卡(卡) (kǎ, \"card\") refers to a physical card, often used for storing or facilitating the transfer of this balance. Thus, a 充值卡(充值卡) is a card used specifically for recharging or topping up the balance of an account, such as a prepaid phone plan.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "充",
-      "trad": "充",
-      "pinyin": "chōng",
-      "english": "to charge; to fill; to act in place of; sufficient"
-    },
-    {
-      "char": "值",
-      "trad": "值",
-      "pinyin": "zhí",
-      "english": "value; worth; to be worth; to deserve"
+      "char": "充值",
+      "trad": "充值",
+      "pinyin": "chōngzhí",
+      "english": "to recharge; to top up"
     },
     {
       "char": "卡",
       "trad": "卡",
       "pinyin": "kǎ",
-      "english": "card; punch card; calorie"
+      "english": "card"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我昨天买了一张充值卡(我昨天買了一張充值卡)。",
-      "pinyin": "Wǒ zuótiān mǎile yī zhāng chōngzhíkǎ.",
-      "english": "I bought a recharge card yesterday."
+      "chinese": "你需要充值卡(你需要充值卡)来加值手机话费(來加值手機話費)。",
+      "pinyin": "Nǐ xūyào chōngzhíkǎ lái jiāzhí shǒujī huàfèi.",
+      "english": "You need a recharge card to top up your mobile phone balance."
     },
     {
-      "chinese": "手机流量用完时(手機流量用完時)，充值卡可以让我继续上网(充值卡可以讓我繼續上網)。",
-      "pinyin": "Shǒujī liúliàng yòng wán shí, chōngzhíkǎ kěyǐ ràng wǒ jìxù shàngwǎng.",
-      "english": "When my phone's data runs out, a recharge card lets me continue to go online."
+      "chinese": "他买了一张充值卡(他買了一張充值卡)，准备给游戏账号充值(準備給遊戲賬號充值)。",
+      "pinyin": "Tā mǎile yī zhāng chōngzhíkǎ, zhǔnbèi gěi yóuxì zhànghào chōngzhí.",
+      "english": "He bought a recharge card to top up his game account."
     },
     {
-      "chinese": "他不明白充值卡的使用方法(他不明白充值卡的使用方法)。",
-      "pinyin": "Tā bù míngbái chōngzhíkǎ de shǐyòng fāngfǎ.",
-      "english": "He doesn't understand how to use the recharge card."
+      "chinese": "在便利店(在便利店)，你可以很方便地购买充值卡(你可以很方便地購買充值卡)。",
+      "pinyin": "Zài biànlìdiàn, nǐ kěyǐ hěn fāngbiàn de gòumǎi chōngzhíkǎ.",
+      "english": "In the convenience store, you can easily purchase a recharge card."
     }
   ]
 }

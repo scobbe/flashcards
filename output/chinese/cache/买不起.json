@@ -5,8 +5,8 @@
   "english": "cannot afford",
   "etymology": {
     "type": "compound word",
-    "description": "买(買) (mǎi, \"buy\") + 不(不) (bù, \"not\") + 起(起) (qǐ, \"rise; manage to\") signifies the inability to buy something due to insufficient financial resources.",
-    "interpretation": "The word 买不起(買不起) (mǎi bù qǐ) directly addresses the situation where a person is unable to purchase something because they lack the necessary funds. It combines the idea of purchasing with the concept of not being able to accomplish the act of buying.",
+    "description": "買(買) (mǎi, \"buy\") and 起(起) (qǐ, \"to rise; to begin\") together express the concept of being unable to afford something. 起(起) in this context relates to the idea of 'affordable' as if initiating or starting an action, with buying power.",
+    "interpretation": "買(買) (mǎi, \"buy\") indicates the action of purchasing. 起(起) (qǐ, \"to rise; to begin\") suggests capability or potential in a different context, such as starting an action. The combination of 買(買) and 起(起) with the negative marker 不(不) (bù, \"not\") conveys the specific inability to 'rise to the occasion' of buying, effectively meaning 'cannot afford'. In the figurative sense, the rising action represents the capability to afford something.",
     "simplification": ""
   },
   "parts": [
@@ -17,29 +17,28 @@
       "english": "buy"
     },
     {
-      "char": "不",
-      "trad": "不",
-      "pinyin": "bù",
-      "english": "not"
-    },
-    {
-      "char": "起",
-      "trad": "起",
-      "pinyin": "qǐ",
-      "english": "rise; manage to; begin; get up"
+      "char": "不起",
+      "trad": "不起",
+      "pinyin": "bù qǐ",
+      "english": "cannot; fail to"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买不起这件衣服(我買不起這件衣服)。",
-      "pinyin": "Wǒ mǎi bù qǐ zhè jiàn yīfú.",
-      "english": "I cannot afford this piece of clothing."
+      "chinese": "这些衣服太贵了(這些衣服太貴了)，我买不起(我買不起)。",
+      "pinyin": "Zhèxiē yīfu tài guì le, wǒ mǎi bù qǐ.",
+      "english": "These clothes are too expensive, I cannot afford them."
     },
     {
-      "chinese": "这双鞋太贵(這雙鞋太貴)，我买不起(我買不起)。",
-      "pinyin": "Zhè shuāng xié tài guì, wǒ mǎi bù qǐ.",
-      "english": "These shoes are too expensive, I cannot afford them."
+      "chinese": "他想要一辆新车(他想要一輛新車)，但买不起(但買不起)。",
+      "pinyin": "Tā xiǎng yào yī liàng xīnchē, dàn mǎi bù qǐ.",
+      "english": "He wants a new car, but he cannot afford it."
+    },
+    {
+      "chinese": "这个房子太大(這個房子太大)，所以我们买不起(所以我們買不起)。",
+      "pinyin": "Zhège fángzi tài dà, suǒyǐ wǒmen mǎi bù qǐ.",
+      "english": "This house is too big, so we cannot afford it."
     }
   ]
 }

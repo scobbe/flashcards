@@ -5,22 +5,30 @@
   "english": "open mouth flipped upside down",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gather from three sides",
-    "interpretation": "9.61",
+    "description": "入(入) (rù, \"enter\") + 一(一) (yī, \"one\") = gathering from three sides -> original form of 今(今) (jīn, \"now\")",
+    "interpretation": "亼(亼) (jī, \"open mouth flipped upside down\") originally represented the action of gathering, with 入(入) (rù, \"enter\") suggesting bringing things together and 一(一) (yī, \"one\") implying unification into a single entity. This concept aligns traditionally with 集(集) (jí, \"gather\"), where the sense of gathering from three sides connects to assembling or coming together. The visual comparison to an open mouth reversed is a less common interpretation, relating to a shape rather than function.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "这幅画描绘了亼的独特形状(這幅畫描繪了亼的獨特形狀)。",
-      "pinyin": "Zhè fú huà miáohuì le jī de dú tè xíngzhuàng.",
-      "english": "This painting depicts the unique shape of 亼, resembling an open mouth flipped upside down."
+      "char": "入",
+      "trad": "入",
+      "pinyin": "rù",
+      "english": "enter"
     },
     {
-      "chinese": "古籍记载亼符号的古怪寓意(古籍記載亼符號的古怪寓意)，令后人赞叹不已(令後人讚嘆不已)。",
-      "pinyin": "Gǔ jí jì zǎi jī fú hào de gǔ guài yù yì, lìng hòu rén zàn tàn bù yǐ.",
-      "english": "Ancient texts record the bizarre symbolism of 亼, which inspires endless admiration from later generations."
+      "char": "一",
+      "trad": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "char": "今",
+      "trad": "今",
+      "pinyin": "jīn",
+      "english": "now"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

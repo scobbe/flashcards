@@ -5,22 +5,27 @@
   "english": "n/a",
   "etymology": {
     "type": "pictogram",
-    "description": "Represents fruits hanging on a tree -> fruit",
-    "interpretation": "果(果) (guǒ, 'fruit') visually depicts fruit on a tree, aligning with its meaning as a representation of fruits hanging from branches. This intuitive imagery is related to how the character 栗(栗) (lì, 'chestnut') and 某(某) (mǒu, 'certain') depict similar objects, though other uses like 喿 do not apply here.",
+    "description": "Depicts fruits on a tree",
+    "interpretation": "The character 果 (guǒ) vividly depicts fruits hanging from a tree, encapsulating the concrete image of a tree bearing fruit, which directly leads to the meaning of 'fruit.' The tree and the fruit form an intuitive visual association with the concept of bearing or producing fruits.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她把最甜的果挑出来(她把最甜的果挑出來)。",
-      "pinyin": "Tā bǎ zuì tián de guǒ tiāo chūlái.",
-      "english": "She picked out the sweetest fruit."
+      "chinese": "我喜欢吃苹果(我喜歡吃蘋果)。",
+      "pinyin": "Wǒ xǐhuān chī píngguǒ.",
+      "english": "I like to eat apples."
     },
     {
-      "chinese": "秋天到了(秋天到了)，树上挂满了红艳艳的果(樹上掛滿了紅艷艷的果)。",
-      "pinyin": "Qiūtiān dào le, shù shàng guà mǎn le hóng yàn yàn de guǒ.",
-      "english": "Autumn arrived, and the trees were laden with brilliantly red fruits."
+      "chinese": "这个果汁很新鲜(這個果汁很新鮮)。",
+      "pinyin": "Zhège guǒzhī hěn xīnxiān.",
+      "english": "This juice is very fresh."
+    },
+    {
+      "chinese": "水果摊上有很多种类的水果(水果攤上有很多種類的水果)。",
+      "pinyin": "Shuǐguǒ tān shàng yǒu hěnduō zhǒnglèi de shuǐguǒ.",
+      "english": "There are many varieties of fruit at the fruit stand."
     }
   ]
 }

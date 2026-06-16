@@ -5,8 +5,8 @@
   "english": "give as a present; send to",
   "etymology": {
     "type": "compound word",
-    "description": "送(送) (sòng, \"deliver; send\") and 给(給) (gěi, \"to give\") combine to describe the action of giving or sending something to someone, often as a present or gift.",
-    "interpretation": "送给(送給) (sònggěi) makes sense as it combines the concepts of sending or delivering (送) with the notion of giving (给), highlighting the act of gifting or presenting something to someone.",
+    "description": "送(送) (sòng, \"send; deliver; see off\") refers to the act of transferring or conveying something to another person. 給(給) (gěi, \"give; for; to\") involves bestowing or providing something to someone else.",
+    "interpretation": "送(送) (sòng, \"send; deliver; see off\") emphasizes the action of conveying or dispatching an item or person to a particular destination or recipient, which aligns with giving something. 給(給) (gěi, \"give; for; to\") adds the sense of transferring possession or making a gift to another person. Together, these components naturally combine to convey the idea of sending or giving something as a present.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "送",
       "trad": "送",
       "pinyin": "sòng",
-      "english": "deliver; send; carry out; see off"
+      "english": "send; deliver; see off"
     },
     {
       "char": "给",
       "trad": "給",
       "pinyin": "gěi",
-      "english": "to give; for; provide; allow"
+      "english": "give; for; to"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我写了一张贺卡(我寫了一張賀卡)，送给远方的朋友(送給遠方的朋友)。",
-      "pinyin": "Wǒ xiěle yī zhāng hèkǎ, sònggěi yuǎnfāng de péngyǒu.",
-      "english": "I wrote a greeting card and sent it to a friend far away."
+      "chinese": "他送给我一本书(他送給我一本書)。",
+      "pinyin": "Tā sònggěi wǒ yī běn shū.",
+      "english": "He gave me a book as a present."
     },
     {
-      "chinese": "他把鲜花送给母亲(他把鮮花送給母親)。",
-      "pinyin": "Tā bǎ xiānhuā sònggěi mǔqīn.",
-      "english": "He sent flowers to his mother."
+      "chinese": "我想送给她一朵玫瑰花(我想送給她一朵玫瑰花)。",
+      "pinyin": "Wǒ xiǎng sònggěi tā yī duǒ méiguī huā.",
+      "english": "I want to give her a rose."
+    },
+    {
+      "chinese": "过生日时(過生日時)，她送给了我一个惊喜(她送給了我一個驚喜)。",
+      "pinyin": "Guò shēngrì shí, tā sònggěi le wǒ yī gè jīngxǐ.",
+      "english": "On my birthday, she gave me a surprise."
     }
   ]
 }

@@ -5,27 +5,27 @@
   "english": "hair",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a feather or a strand of hair",
-    "interpretation": "The character 毛(máo, 'hair') visually represents a feather or hair, conveying the concept of something that is thin and soft.",
+    "description": "Depicts a feather or hair",
+    "interpretation": "The character 毛(máo, \"hair\") visually represents either a feather or the strands of hair, capturing the texture and common features of these natural elements.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
+      "chinese": "他的头上有许多白色的毛(他的頭上有許多白色的毛)。",
+      "pinyin": "Tā de tóu shàng yǒu xǔduō báisè de máo.",
+      "english": "There are many white hairs on his head."
+    },
+    {
       "chinese": "猫的毛很柔软(貓的毛很柔軟)。",
       "pinyin": "Māo de máo hěn róuruǎn.",
       "english": "The cat's hair is very soft."
     },
     {
-      "chinese": "他早上醒来时(他早上醒來時)，发现额前飘落一缕毛(發現額前飄落一縷毛)。",
-      "pinyin": "Tā zǎoshang xǐng lái shí, fāxiàn é qián piāoluò yī lǚ máo.",
-      "english": "When he woke up in the morning, he found a strand of hair floating on his forehead."
-    },
-    {
-      "chinese": "他家小狗的毛非常蓬松(他家小狗的毛非常蓬鬆)。",
-      "pinyin": "Tā jiā xiǎogǒu de máo fēicháng péngsōng.",
-      "english": "His puppy's hair is very fluffy."
+      "chinese": "这条围巾是用羊毛制成的(這條圍巾是用羊毛製成的)。",
+      "pinyin": "Zhè tiáo wéijīn shì yòng yángmáo zhìchéng de.",
+      "english": "This scarf is made of wool."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "jar",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 雍 (wēng) + Semantic 瓦 (wǎ, 'earthenware') = jar-shaped earthenware -> meaning jar",
-    "interpretation": "The character 甕 (wèng, 'jar') combines the phonetic component 雍 (yōng, suggesting the sound) with the semantic element 瓦 (wǎ, 'earthenware'), conveying the idea of an earthen container typically used as a jar.",
-    "simplification": ""
+    "description": "semantic 瓦(瓦) (wǎ, \"earthenware\") + phonetic 雍(雍) (yōng, sound) -> jar",
+    "interpretation": "The character 甕(甕) (wèng, \"jar\") combines 瓦(瓦) (wǎ, \"earthenware\"), indicating the material of the object, with the phonetic component 雍(雍) (yōng), which provides the pronunciation. The combination suggests a large earthenware vessel, such as a jar.",
+    "simplification": "瓮 is a simplified form deriving from the traditional 甕 by reducing the components while retaining the general shape."
   },
   "parts": [
-    {
-      "char": "雍",
-      "trad": "雍",
-      "pinyin": "yōng",
-      "english": "harmonious"
-    },
     {
       "char": "瓦",
       "trad": "瓦",
       "pinyin": "wǎ",
       "english": "earthenware"
+    },
+    {
+      "char": "雍",
+      "trad": "雍",
+      "pinyin": "yōng",
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这口老瓮装满水(這口老瓮裝滿水)。",
-      "pinyin": "Zhè kǒu lǎo wèng zhuāng mǎn shuǐ。",
-      "english": "This old jar is filled with water."
+      "chinese": "她在庭院里放了一个大瓮(她在庭院里放了一個大甕)。",
+      "pinyin": "Tā zài tíngyuàn lǐ fàngle yī gè dà wèng.",
+      "english": "She placed a big jar in the courtyard."
     },
     {
-      "chinese": "他从古巷找到一只精致的瓮(他從古巷找到一隻精緻的瓮)，用来存放秘密(用來存放秘密)。",
-      "pinyin": "Tā cóng gǔ xiàng zhǎodào yī zhī jīngzhì de wèng, yòng lái cúnfàng mìmì。",
-      "english": "He found an exquisite jar in an ancient alley, used to store secrets."
+      "chinese": "瓮里装满了水(甕裡裝滿了水)，以备不时之需(以備不時之需)。",
+      "pinyin": "Wèng lǐ zhuāng mǎn le shuǐ, yǐ bèi bù shí zhī xū.",
+      "english": "The jar was filled with water for emergencies."
+    },
+    {
+      "chinese": "古时候的人用瓮(古時候的人用甕)来储存食物(來儲存食物)。",
+      "pinyin": "Gǔ shíhòu de rén yòng wèng lái chúcún shíwù.",
+      "english": "People in ancient times used jars to store food."
     }
   ]
 }

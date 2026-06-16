@@ -1,0 +1,28 @@
+{
+  "simplified": "豙",
+  "traditional": "豙",
+  "pinyin": "yì",
+  "english": "brave; fierce",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 豕(豕) (shǐ, 'pig') + phonetic 易(易) (yì) -> a type of pig",
+    "interpretation": "The character 豙(yì) is composed of the semantic component 豕(豕) (shǐ, 'pig'), indicating it relates to pigs or swine, and the phonetic component 易(易) (yì), which suggests the pronunciation but does not contribute to the meaning. Historically, this character denotes a specific variety of pig, though it is not commonly used in contemporary Chinese.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豕",
+      "trad": "豕",
+      "pinyin": "shǐ",
+      "english": "pig"
+    },
+    {
+      "char": "易",
+      "trad": "易",
+      "pinyin": "yì",
+      "english": "easy"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

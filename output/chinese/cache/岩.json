@@ -1,13 +1,13 @@
 {
   "simplified": "岩",
-  "traditional": "巖",
+  "traditional": "岩",
   "pinyin": "yán",
   "english": "rock; cliff",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "山(山) (shān, \"hill\") + 石(石) (shí, \"rock\") = combined elements representing a rocky hill or cliff -> 岩(巖) (yán, \"rock; cliff\")",
-    "interpretation": "The character 岩(巖) (yán, \"rock; cliff\") combines 山(山) (shān, \"hill\") and 石(石) (shí, \"rock\") to convey the image of a rocky hill or a cliff. The original form 巖 emphasized the phonetic 嚴(嚴) (yán), but later 岩 became the more common form.",
-    "simplification": "The character 岩(巖) was originally 巖 in traditional script, simplified by dropping the 嚴 component and directly combining 山 and 石 to retain both the sound and meaning efficiently."
+    "description": "山(山) (shān, \"hill\") + 石(石) (shí, \"rock\") -> depicting a craggy hill or cliff -> rock; cliff",
+    "interpretation": "The character 岩 combines 山(山) (shān, \"hill\") representing the elevation and 石(石) (shí, \"rock\") indicating the stony nature to concretely depict a rocky hill or cliff. This visual metaphor naturally leads to the meaning of 'rock' and 'cliff'.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那块岩静静矗立在河边(那塊岩靜靜矗立在河邊)。",
-      "pinyin": "Nà kuài yán jìng jìng chùlì zài hé biān.",
-      "english": "That rock stands quietly by the river bank."
+      "chinese": "山顶有一个巨大岩石(山頂有一個巨大巖石)。",
+      "pinyin": "Shāndǐng yǒu yí gè jùdà yánshí.",
+      "english": "There is a huge rock at the mountain top."
     },
     {
-      "chinese": "登上岩顶(登上岩頂)，看尽山川风光(看盡山川風光)。",
-      "pinyin": "Dēng shàng yán dǐng, kàn jìn shān chuān fēng guāng.",
-      "english": "Climb to the top of the rock and behold the scenic mountains and rivers."
+      "chinese": "他在岩壁上攀爬(他在巖壁上攀爬)。",
+      "pinyin": "Tā zài yánbì shàng pān pá.",
+      "english": "He is climbing on the rock wall."
     },
     {
-      "chinese": "海浪拍打着悬岩(海浪拍打著懸岩)，发出低沉的轰鸣(發出低沉的轟鳴)。",
-      "pinyin": "Hǎi làng pāidǎ zhe xuán yán, fāchū dīchén de hōngmíng.",
-      "english": "The waves crash against the cliff, producing a deep, rumbling sound."
+      "chinese": "这条路沿着岩石悬崖(這條路沿着巖石懸崖)。",
+      "pinyin": "Zhè tiáo lù yánzhe yánshí xuányá.",
+      "english": "This road runs along the rocky cliff."
     }
   ]
 }

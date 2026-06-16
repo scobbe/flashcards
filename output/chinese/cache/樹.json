@@ -5,9 +5,9 @@
   "english": "tree",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "尌(尌) (shù, \"to plant a tree\") -> 木(木) (mù, \"tree\") added for visual differentiation -> final form 樹",
-    "interpretation": "The traditional character 樹 (shù, \"tree\") combines the semantic component 木(木) (mù, \"tree\") with the phonetic 尌(尌) (shù, \"to plant a tree\"), which emphasizes the idea of planting or establishing a tree. The addition of 木 helps to visually distinguish the character from 尌 and reinforces the meaning related to trees.",
-    "simplification": "树(樹): The component 壴(壴) (zhù, \"drum\") was replaced with 又(又) (yòu, \"again\") for a simpler form."
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 尌(尌) (shù, \"to plant a tree\") -> originally 尌; 木 added to form 樹",
+    "interpretation": "The character combines 木(木) (mù, \"tree\") as the semantic component for its meaning related to trees, with 尌(尌) (shù, \"to plant a tree\") as the phonetic component. Initially, the meaning of planting trees was represented solely by 尌. The addition of 木 refined its association with trees specifically, resulting in 樹, which carried the general meaning of 'tree' and the act of planting one.",
+    "simplification": "In simplified form, 樹 was altered by replacing 尌(尌) with 又(又) (yòu, \"again\"), simplifying the structure while emphasizing phonetic similarity."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公园里的樹(公園裡的樹)很茂盛(很茂盛)。",
-      "pinyin": "Gōngyuán lǐ de shù hěn màoshèng.",
-      "english": "The trees in the park are luxuriant."
+      "chinese": "那是一棵高大的樹(那是一棵高大的樹)。",
+      "pinyin": "Nà shì yī kē gāo dà de shù.",
+      "english": "That is a tall tree."
     },
     {
-      "chinese": "这棵樹在春天抽出嫩芽(這棵樹在春天抽出嫩芽)，夏日遮阴带来凉爽(夏日遮陰帶來涼爽)。",
-      "pinyin": "Zhè kē shù zài chūntiān chōu chū nèn yá, xiàrì zhēyīn dàilái liángshuǎng.",
-      "english": "This tree sprouts tender buds in spring, and its shade brings coolness in summer."
+      "chinese": "孩子们在树下玩耍(孩子們在樹下玩耍)，他们看起来很快乐(他們看起來很快樂)。",
+      "pinyin": "Háizimen zài shù xià wánshuǎ, tāmen kàn qǐlái hěn kuàilè.",
+      "english": "The children are playing under the tree, they look very happy."
     },
     {
-      "chinese": "古老的樹静静伫立(古老的樹靜靜佇立)，见证着历史长河(見證著歷史長河)。",
-      "pinyin": "Gǔlǎo de shù jìngjìng zhùlì, jiànzhèng zhe lìshǐ chánghé.",
-      "english": "The ancient tree stands quietly, witnessing the long river of history."
+      "chinese": "每年春天树都会开花(每年春天樹都會開花)，这景象很美(這景象很美)。",
+      "pinyin": "Měinián chūntiān shù dōu huì kāihuā, zhè jǐngxiàng hěn měi.",
+      "english": "Every spring the trees bloom, the scene is beautiful."
     }
   ]
 }

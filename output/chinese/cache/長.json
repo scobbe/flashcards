@@ -5,27 +5,27 @@
   "english": "long",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an old man with long hair -> signifies length or longevity",
-    "interpretation": "The character 長(cháng, \"long\") represents an old man with long hair, capturing the association of long hair with age and perceived longevity. This combines to convey the concept of 'long' or 'length' as well as the idea of being 'senior.'",
+    "description": "Depicts an old man with long hair -> long",
+    "interpretation": "The character 長 (cháng, \"long\") is a pictogram that represents an old man with long hair, suggesting the idea of something being drawn out or elongated, which leads to the meaning \"long.\"",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条街很长(這條街很長)。",
-      "pinyin": "Zhè tiáo jiē hěn cháng.",
-      "english": "This street is very long."
+      "chinese": "这条河很长(這條河很長)。",
+      "pinyin": "Zhè tiáo hé hěn cháng.",
+      "english": "This river is very long."
     },
     {
-      "chinese": "他的头发又黑又长(他的頭髮又黑又長)。",
-      "pinyin": "Tā de tóufà yòu hēi yòu cháng.",
-      "english": "His hair is black and long."
+      "chinese": "他有一头长发(他有一頭長髮)，看起来很优雅(看起來很優雅)。",
+      "pinyin": "Tā yǒu yī tóu cháng fā, kàn qǐlái hěn yōuyǎ.",
+      "english": "He has long hair, which looks very elegant."
     },
     {
-      "chinese": "长城是世界著名的地标(長城是世界著名的地標)。",
-      "pinyin": "Chángchéng shì shìjiè zhùmíng de dìbiāo.",
-      "english": "The Great Wall is a world-famous landmark."
+      "chinese": "我的工作时间很长(我的工作時間很長)，需要更多的休息(需要更多的休息)。",
+      "pinyin": "Wǒ de gōngzuò shíjiān hěn cháng, xūyào gèng duō de xiūxi.",
+      "english": "My working hours are long, and I need more rest."
     }
   ]
 }

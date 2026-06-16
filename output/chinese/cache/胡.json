@@ -5,16 +5,16 @@
   "english": "foreign",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 月(月) (yuè, 'moon/month') + phonetic: 古(古) (gǔ) = sound element -> associated with foreigners to the north of China",
-    "interpretation": "The character 胡(胡) originally denoted people from beyond the northern borders of ancient China, often referring to non-Chinese tribes. The phonetic 古(古) (gǔ) provides the sound while 月(月) (yuè, 'moon/month') may relate to nighttime activities or timing, aspects associated with distant lands and peoples.",
+    "description": "semantic ⺼ (flesh) + phonetic 古 (gǔ, \"ancient\") -> foreign",
+    "interpretation": "The character 胡(hú, \"foreign\") combines ⺼, which denotes flesh, with 古(gǔ, \"ancient\") for its phonetic sound. The association with 'foreign' comes from the historical context where areas beyond ancient China's central plains, often inhabited by non-Han peoples, were termed foreign or different.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "月",
-      "trad": "月",
-      "pinyin": "yuè",
-      "english": "moon/month"
+      "char": "⺼",
+      "trad": "⺼",
+      "pinyin": "",
+      "english": "flesh"
     },
     {
       "char": "古",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他穿着胡服(他穿著胡服)，看起来充满异域风情(看起來充滿異域風情)。",
-      "pinyin": "tā chuānzhe hú fú, kàn qǐlái chōngmǎn yìyù fēngqíng.",
-      "english": "He is wearing foreign-style clothes, and he appears full of exotic charm."
+      "chinese": "他总喜欢谈论胡椒粉在中世纪的使用(他總喜歡談論胡椒粉在中世紀的使用)。",
+      "pinyin": "Tā zǒng xǐhuān tánlùn hújiāofěn zài zhōngshìjì de shǐyòng.",
+      "english": "He always enjoys discussing the use of pepper in the Middle Ages."
     },
     {
-      "chinese": "古代诗人喜欢描写胡地(古代詩人喜歡描寫胡地)，以表示对异国情调的向往(以表示對異國情調的嚮往)。",
-      "pinyin": "gǔdài shīrén xǐhuān miáoxiě hú dì, yǐ biǎoshì duì yìguó qíngdiào de xiàngwǎng.",
-      "english": "Ancient poets liked to depict the lands of foreigners, expressing their longing for exotic allure."
+      "chinese": "这些胡人来自遥远的西方(這些胡人來自遙遠的西方)。",
+      "pinyin": "Zhèxiē húrén láizì yáoyuǎn de xīfāng.",
+      "english": "These foreigners came from the distant west."
     },
     {
-      "chinese": "他研究胡文化(他研究胡文化)。",
-      "pinyin": "tā yánjiū hú wénhuà.",
-      "english": "He studies foreign culture."
+      "chinese": "茶在古代被视为一种珍贵的胡货(茶在古代被視為一種珍貴的胡貨)。",
+      "pinyin": "Chá zài gǔdài bèi shì wéi yī zhǒng zhēnguì de hú huò.",
+      "english": "In ancient times, tea was considered a precious foreign commodity."
     }
   ]
 }

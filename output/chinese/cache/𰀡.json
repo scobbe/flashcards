@@ -2,31 +2,25 @@
   "simplified": "𰀡",
   "traditional": "𰀡",
   "pinyin": "kān",
-  "english": "",
+  "english": "sunset, dusk",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𰀡: phonetic 臤 + semantic 貝 -> valuable or worthy",
-    "interpretation": "𰀡 is an ancient form of 賢(賢) (xián, \"worthy\"). It combines the phonetic element 臤 with the semantic 貝(貝) (bèi, \"money\"), suggesting worthiness or value similar to the importance attached to money. This understanding emphasizes the character's association with merit or excellence.",
+    "description": "semantic 夕(夕) (xī, \"evening\") + phonetic 甘(甘) (gān) -> sunset or dusk",
+    "interpretation": "夕(夕) (xī, \"evening\") depicts the concept of the evening, directly tying to the idea of sunset. 甘(甘) (gān) contributes the phonetic element, lending the sound. The combination evokes the imagery of the sky at evening, hence sunset or dusk.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "臤",
-      "trad": "臤",
-      "pinyin": "kān",
-      "english": "phonetic element (ancient form)"
+      "char": "夕",
+      "trad": "夕",
+      "pinyin": "xī",
+      "english": "evening"
     },
     {
-      "char": "賢",
-      "trad": "賢",
-      "pinyin": "xián",
-      "english": "worthy"
-    },
-    {
-      "char": "貝",
-      "trad": "貝",
-      "pinyin": "bèi",
-      "english": "money"
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
     }
   ],
   "in_contemporary_usage": false,

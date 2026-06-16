@@ -5,8 +5,8 @@
   "english": "flooded",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "水(水) (shuǐ, \"water\") + 尞(尞) (liáo, phonetic) = water level raised due to flooding -> meaning of flooded",
-    "interpretation": "The character 潦 combines the radical 水(水) (shuǐ, \"water\"), indicating the involvement of water, with the phonetic component 尞(尞) (liáo), which suggests the pronunciation. This encapsulates the idea of land being flooded with water.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 尞(láo) -> flooded",
+    "interpretation": "潦 combines the semantic component 水(水) (shuǐ, \"water\"), indicating involvement with water or liquid, with the phonetic component 尞(láo), which provides the sound. This structure suggests a meaning related to water, specifically 'flooded,' as it involves an excess or overflow of water.",
     "simplification": ""
   },
   "parts": [
@@ -19,10 +19,26 @@
     {
       "char": "尞",
       "trad": "尞",
-      "pinyin": "liáo",
-      "english": "phonetic"
+      "pinyin": "láo",
+      "english": "a bright flame; phonetic element"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "大雨之后，村庄被潦水淹没(大雨之後，村莊被潦水淹沒)。",
+      "pinyin": "Dà yǔ zhīhòu, cūnzhuāng bèi liáo shuǐ yānmò.",
+      "english": "After the heavy rain, the village was submerged by floodwaters."
+    },
+    {
+      "chinese": "街道上的水涨到了脚踝(街道上的水漲到了腳踝)，看来是被潦所困(看來是被潦所困)。",
+      "pinyin": "Jiēdào shàng de shuǐ zhǎng dào le jiǎohuái, kàn lái shì bèi liáo suǒ kùn.",
+      "english": "The water on the street rose to the ankles, seemingly trapped by the flood."
+    },
+    {
+      "chinese": "潦水退去后(潦水退去後)，才可以开始清理(才可以開始清理)。",
+      "pinyin": "Liáo shuǐ tuì qù hòu, cái kěyǐ kāishǐ qīnglǐ.",
+      "english": "Only after the floodwaters recede can we begin cleaning up."
+    }
+  ]
 }

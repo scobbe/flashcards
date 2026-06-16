@@ -5,8 +5,8 @@
   "english": "yes",
   "etymology": {
     "type": "compound word",
-    "description": "是(是) (shì, \"to be; yes\") + 的(的) (de, \"structural particle; possessive particle\") = an affirmative response, often used to confirm something.",
-    "interpretation": "是的(是的) (shì de, \"yes\") is an expression used to affirm or confirm what someone else has said, similar to saying 'yes' or 'that's right' in English. 是(是) (shì, \"to be\") asserts a state of being or agreement, and 的(的) (de, \"particle\") is often used to create grammatical structures.",
+    "description": "是(是) (shì, \"to be; yes; this; correct\") + 的(的) (de, \"possessive particle; of\") combine to form an affirmative expression akin to 'that's right' or 'yes' in English. The 是(是) (shì) denotes affirmation or correctness, while 的(的) (de) acts as a grammatical particle to soften or finalize the affirmation, making it conversationally emphatic.",
+    "interpretation": "是(是) (shì, \"to be; yes; this; correct\") provides the core meaning of affirmation or correctness in the expression. The use of 的(的) (de, \"possessive particle; of\") following 是(是) (shì) serves to create a more conversational and definite affirmation, similar to saying \"that's the way it is\" or \"right\" in English. The combination results in a phrase used for agreement or confirming a statement.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "是",
       "trad": "是",
       "pinyin": "shì",
-      "english": "to be; yes; correct; this"
+      "english": "to be; yes; this; correct"
     },
     {
       "char": "的",
       "trad": "的",
       "pinyin": "de",
-      "english": "structural particle; possessive particle"
+      "english": "possessive particle; of"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他问我要参加吗(他問我要參加嗎)，我回答是的(我回答是的)。",
-      "pinyin": "Tā wèn wǒ yào cānjiā ma, wǒ huídá shì de.",
-      "english": "He asked me if I wanted to participate, and I answered yes."
+      "chinese": "这是你的书(這是你的書)，是的(是的)。",
+      "pinyin": "Zhè shì nǐ de shū, shì de.",
+      "english": "This is your book, yes."
     },
     {
-      "chinese": "当被问到是否同意时(當被問到是否同意時)，他只是简单地说是的(他只是簡單地說是的)。",
-      "pinyin": "Dāng bèi wèn dào shìfǒu tóngyì shí, tā zhǐshì jiǎndān de shuō shì de.",
-      "english": "When asked if he agreed, he simply said yes."
+      "chinese": "你想去看电影(你想去看電影)吗？是的(是的)。",
+      "pinyin": "Nǐ xiǎng qù kàn diànyǐng ma? Shì de.",
+      "english": "Do you want to go watch a movie? Yes."
+    },
+    {
+      "chinese": "天气很好(天氣很好)，是的(是的)。",
+      "pinyin": "Tiānqì hěn hǎo, shì de.",
+      "english": "The weather is nice, yes."
     }
   ]
 }

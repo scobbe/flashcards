@@ -2,25 +2,43 @@
   "simplified": "𡴆",
   "traditional": "𡴆",
   "pinyin": "lù",
-  "english": "phonetic component",
+  "english": "tall building",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "屮 (\"sprout\") + 六 (phonetic) -> phonetic component -> fell into disuse",
-    "interpretation": "𡴆 was originally a phono-semantic compound used for its phonetic properties, combining the semantic element 屮 (chū, \"sprout\") with the phonetic component 六 (lù). It fell out of use when the character 𡴆 transformed into 夌 (líng) and the original character's function changed.",
+    "description": "semantic 屮 (\"sprout\") + phonetic 六 -> original form of 夌 (\"climb; surpass\") -> reused in context of tall building",
+    "interpretation": "The character 𡴆 (lù, \"tall building\") combines 屮 (\"sprout\") as a semantic component suggesting growth or upward movement with 六 (used phonetically). Historically, it served as a proto-form of 夌, where 木 (\"tree\") + 人 (\"person\") conveyed \"to climb; to surpass,\" illustrating the concept of ascent or elevation — relevant to the meaning of a tall building. As character forms evolved, 夌 changed visually, but 𡴆 persists to convey the sense of high structures.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "屮",
       "trad": "屮",
-      "pinyin": "chū",
+      "pinyin": "chè",
       "english": "sprout"
     },
     {
       "char": "六",
       "trad": "六",
-      "pinyin": "lù",
+      "pinyin": "liù",
       "english": "six"
+    },
+    {
+      "char": "夌",
+      "trad": "夌",
+      "pinyin": "líng",
+      "english": "climb; surpass"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
     }
   ],
   "in_contemporary_usage": false,

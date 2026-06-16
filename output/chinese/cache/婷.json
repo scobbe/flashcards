@@ -5,8 +5,8 @@
   "english": "graceful; elegant",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 女(女) (nǚ, \"woman\") + Phonetic: 亭(亭) (tíng, \"pavilion\") = grace associated with women -> graceful, elegant",
-    "interpretation": "婷(婷) (tíng, \"graceful; elegant\") combines 女(女) (nǚ, \"woman\") to suggest feminine grace with 亭(亭) (tíng, \"pavilion\") as the phonetic element. This combination conveys the idea of elegance typically associated with women.",
+    "description": "semantic 女(女) (nǚ, \"woman\") + phonetic 亭(亭) (tíng) -> graceful, elegant",
+    "interpretation": "The character uses 女(女) (nǚ, \"woman\") as its semantic component, indicating qualities typically associated with femininity, such as grace and elegance. 亭(亭) (tíng) provides the phonetic component, contributing its sound to the character.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小婷在晚会上表演舞蹈(小婷在晚會上表演舞蹈)。",
-      "pinyin": "Xiǎo tíng zài wǎnhuì shàng biǎoyǎn wǔdǎo.",
-      "english": "Little Ting performed a dance at the party."
+      "chinese": "她的舞姿非常优雅(她的舞姿非常優雅)，如同一朵轻盈的莲花(如同一朵輕盈的蓮花)。",
+      "pinyin": "Tā de wǔzī fēicháng yōuyǎ, rútóng yī duǒ qīngyíng de liánhuā.",
+      "english": "Her dance moves are very graceful, like a light lotus flower."
     },
     {
-      "chinese": "那位女子仪态端庄(那位女子儀態端莊)，风姿婷丽(風姿婷麗)。",
-      "pinyin": "Nà wèi nǚzǐ yítài duānzhuāng, fēngzī tínglì.",
-      "english": "That woman has a dignified bearing and graceful charm."
+      "chinese": "这个花园设计得很精致(這個花園設計得很精緻)，充满了优雅的气息(充滿了優雅的氣息)。",
+      "pinyin": "Zhège huāyuán shèjì de hěn jīngzhì, chōngmǎn le yōuyǎ de qìxī.",
+      "english": "This garden is designed meticulously and is filled with an elegant ambiance."
     },
     {
-      "chinese": "她的笑容温婉婷雅(她的笑容溫婉婷雅)。",
-      "pinyin": "Tā de xiàoróng wēnwǎn tíngyǎ.",
-      "english": "Her smile is gentle and elegantly graceful."
+      "chinese": "她散发着一种自然的美丽(她散發著一種自然的美麗)，令人赞叹不已(令人讚嘆不已)。",
+      "pinyin": "Tā sànfā zhe yī zhǒng zìrán de měilì, lìngrén zàntàn bùyǐ.",
+      "english": "She exudes a natural beauty that leaves people in awe."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "pyramid",
   "etymology": {
     "type": "compound word",
-    "description": "金(金) (jīn, \"gold; metal\"), 字(字) (zì, \"character; word\"), 塔(塔) (tǎ, \"tower; pagoda\")",
-    "interpretation": "The term 金字塔 (jīnzìtǎ) refers to the shape of a pyramid, which resembles a 金(金) (jīn, \"gold\") character (字) when viewed from a certain angle, and 塔(塔) (tǎ, \"tower\"), suggesting a tall, monumental structure like a pyramid. The word conveys the shape and grandness of pyramids, akin to pagodas in their towering appearance.",
+    "description": "金(金) (jīn, \"gold\") + 字(字) (zì, \"character; word; writing\") + 塔(塔) (tǎ, \"tower; pagoda\") = a structure shaped like a character made of gold -> pyramid",
+    "interpretation": "金(金) (jīn, \"gold\") suggests preciousness and value, hinting at the grandeur and historical reverence for pyramids. 字(字) (zì, \"character\") conveys the idea of form or shape, analogous to how a pyramid has a distinctive, recognizable form. 塔(塔) (tǎ, \"tower\") represents a tall, structured form, reflecting the towering shape of a pyramid. Combined, the word captures a sense of an esteemed, shaped structure, which accords with the pyramids' dimensions and esteemed historical and cultural role.",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,37 @@
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "gold; metal"
+      "english": "gold; metal; money"
     },
     {
       "char": "字",
       "trad": "字",
       "pinyin": "zì",
-      "english": "character; word"
+      "english": "character; word; letter"
     },
     {
       "char": "塔",
       "trad": "塔",
       "pinyin": "tǎ",
-      "english": "tower; pagoda"
+      "english": "tower; pagoda; steeple"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "埃及的金字塔(埃及的金字塔)是古代建筑的奇迹。",
-      "pinyin": "Āijí de jīnzìtǎ shì gǔdài jiànzhú de qíjì.",
-      "english": "The pyramids of Egypt are wonders of ancient architecture."
+      "chinese": "在埃及有许多著名的金字塔(在埃及有許多著名的金字塔)。",
+      "pinyin": "Zài Āijí yǒu xǔduō zhùmíng de jīnzìtǎ.",
+      "english": "There are many famous pyramids in Egypt."
     },
     {
-      "chinese": "金字塔(金字塔)在沙漠中显得格外壮观。",
-      "pinyin": "Jīnzìtǎ zài shāmò zhōng xiǎnde géwài zhuàngguān.",
-      "english": "The pyramids appear particularly magnificent in the desert."
+      "chinese": "科学家正在研究金字塔的建造方法(科學家正在研究金字塔的建造方法)。",
+      "pinyin": "Kēxuéjiā zhèngzài yánjiū jīnzìtǎ de jiànzào fāngfǎ.",
+      "english": "Scientists are studying the construction methods of pyramids."
     },
     {
-      "chinese": "旅游者们(旅遊者們)纷纷去参观(去參觀)金字塔(金字塔)。",
-      "pinyin": "Lǚyóuzhěmen fēnfēn qù cānguān jīnzìtǎ.",
-      "english": "Tourists flock to visit the pyramids."
+      "chinese": "金字塔是古代文明的伟大象征(金字塔是古代文明的偉大象徵)。",
+      "pinyin": "Jīnzìtǎ shì gǔdài wénmíng de wěidà xiàngzhēng.",
+      "english": "The pyramid is a great symbol of ancient civilizations."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "bear; suffer",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "貝(貝) (bèi, \"cowry\") + phonetic: 𠂆 (simplified to 孚(孚) (fú, \"trust\") = to carry valuables -> bear, suffer",
-    "interpretation": "The character 負(負) (fù, \"bear; suffer\") combines 貝(貝) (bèi, \"cowry\"), indicating something of value, with the phonetic component 𠂆, suggesting the act of carrying or bearing. Together, they convey the idea of carrying a burden or responsibility, aligning with the meanings of bearing or suffering.",
-    "simplification": "In the simplified form 负(負), the 貝(貝) (bèi, \"cowry\") component was replaced with a simpler shape that resembles a trapezoid, reducing the number of strokes."
+    "description": "semantic 貝(貝) (bèi, \"cowry\") as 'value' + phonetic 否(否) (fǒu) -> bear burdens -> bear; suffer",
+    "interpretation": "In 負(負) (fù, \"bear; suffer\"), the 貝(貝) (bèi, \"cowry\") represents carrying value or burdens, while 否(否) (fǒu) supplies the sound. The idea of carrying a burden connects to 'bear' and the related weight of responsibility links to 'suffer'.",
+    "simplification": "The traditional 負(負) was simplified by removing the 貝(貝) (bèi, \"cowry\") radical, retaining only the main strokes to reduce its complexity, reflecting 否(否) (fǒu)."
   },
   "parts": [
     {
@@ -17,23 +17,28 @@
       "english": "cowry"
     },
     {
-      "char": "孚",
-      "trad": "孚",
-      "pinyin": "fú",
-      "english": "trust"
+      "char": "否",
+      "trad": "否",
+      "pinyin": "fǒu",
+      "english": "no; not"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他毅然负起照顾家庭的责任(他毅然負起照顧家庭的責任)。",
-      "pinyin": "Tā yìrán fù qǐ zhàogù jiātíng de zérèn.",
-      "english": "He resolutely took on the responsibility of caring for his family."
+      "chinese": "他负担了家庭的所有开支(他負擔了家庭的所有開支)。",
+      "pinyin": "Tā fùdānle jiātíng de suǒyǒu kāizhī.",
+      "english": "He bore all the household expenses."
     },
     {
-      "chinese": "困难来临时(困難來臨時)，他从不负众望(他從不負眾望)。",
-      "pinyin": "Kùnnan láilín shí, tā cóng bù fù zhòngwàng.",
-      "english": "When difficulties arise, he never disappoints everyone's expectations."
+      "chinese": "这个项目失败后(這個項目失敗後)，他感到非常失望(他感到非常失望)。",
+      "pinyin": "Zhège xiàngmù shībài hòu，tā gǎndào fēicháng shīwàng.",
+      "english": "After the project failed, he felt very disappointed."
+    },
+    {
+      "chinese": "她不堪负荷(她不堪負荷)，决定放弃这份工作(決定放棄這份工作)。",
+      "pinyin": "Tā bùkān fùhè，juédìng fàngqì zhè fèn gōngzuò.",
+      "english": "She couldn't bear the load and decided to quit the job."
     }
   ]
 }

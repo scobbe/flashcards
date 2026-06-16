@@ -5,35 +5,27 @@
   "english": "spring mouth",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an acorn -> used in 樂/乐 (oak) and 皂 (acorn) -> meaning “white” derived from acorn's inside color",
-    "interpretation": "The character 白(bái, \"white\") might originally depict an acorn, reflecting its usage in words related to oak and acorn, and the meaning of 'white' comes from the color of an acorn's interior. This interpretation connects the form with its current meaning of 'white.'",
+    "description": "Depicts an acorn -> white from the color of acorn's inside",
+    "interpretation": "The character 白(bái, \"white\") is thought to depict an acorn, as suggested by its use in words related to oak and acorns. The character's meaning of \"white\" is likely derived from the white color of an acorn's interior.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "樂",
-      "trad": "乐",
-      "pinyin": "yuè",
-      "english": "oak"
-    },
-    {
-      "char": "皂",
-      "trad": "皂",
-      "pinyin": "zào",
-      "english": "acorn"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "村后那处被称作‘白’的泉口(村後那處被稱作‘白’的泉口)，源源不断流出甘甜的泉水(源源不斷流出甘甜的泉水)。",
-      "pinyin": "Cūn hòu nà chù bèi chēng zuò ‘Bái’ de quán kǒu, yuán yuán bù duàn liú chū gān tián de quán shuǐ.",
-      "english": "The spring mouth behind the village, known as ‘Bái’, continuously gushes out sweet water."
+      "chinese": "白色是我最喜欢的颜色(白色是我最喜歡的顏色)。",
+      "pinyin": "Báisè shì wǒ zuì xǐhuān de yánsè.",
+      "english": "White is my favorite color."
     },
     {
-      "chinese": "古镇传说(古鎮傳說)，每逢春日便有白现身(每逢春日便有白現身)，润泽山村(潤澤山村)。",
-      "pinyin": "Gǔ zhèn chuán shuō, měi féng chūn rì biàn yǒu Bái xiàn shēn, rùn zé shān cūn.",
-      "english": "According to the legend of the ancient town, every spring a ‘Bái’ appears, nourishing the mountain village."
+      "chinese": "他的头发已经全白了(他的頭髮已經全白了)。",
+      "pinyin": "Tā de tóufà yǐjīng quán bái le.",
+      "english": "His hair has turned completely white."
+    },
+    {
+      "chinese": "在阳光下(在陽光下)，白沙滩显得格外美丽(白沙灘顯得格外美麗)。",
+      "pinyin": "Zài yángguāng xià, bái shātān xiǎnde géwài měilì.",
+      "english": "In the sunlight, the white sandy beach looks especially beautiful."
     }
   ]
 }

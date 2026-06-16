@@ -5,9 +5,9 @@
   "english": "difficult",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantically: 隹(隹) (zhuī, \"bird\") + abbreviated phonetic: 暵(暵) (xiàn, \"dry\") -> semantically refers to a type of bird, later phonetically borrowed for \"difficult\"",
-    "interpretation": "The character 难(難) (nán, \"difficult\") combines the semantic component 隹(隹) (zhuī, \"bird\"), originally depicting a type of bird, with the phonetic component 暵(暵) (xiàn, \"dry\"). It was later phonetically borrowed to represent 'difficult.'",
-    "simplification": "难(難): The traditional component 隹(隹) (zhuī, \"bird\") was replaced by 又(又) (yòu, \"again\"), simplifying the structure while retaining the phonetic."
+    "description": "semantic 隹(隹) (zhuī, 'bird') + phonetic 暵(暵) (hàn) -> originally depicted a type of bird -> phonetically borrowed for 'difficult'",
+    "interpretation": "The character 难(難) (nán, 'difficult') combines the semantic component 隹(隹) (zhuī, 'bird') with the phonetic 暵(暵) (hàn). It originally depicted a specific type of bird, but was phonetically borrowed to express 'difficult'. This phonetic borrowing extends the meaning beyond its literal components.",
+    "simplification": "The traditional character 難 was simplified by eliminating the left component and retaining 又(又) (yòu, 'again')."
   },
   "parts": [
     {
@@ -19,26 +19,26 @@
     {
       "char": "暵",
       "trad": "暵",
-      "pinyin": "xiàn",
-      "english": "dry"
+      "pinyin": "hàn",
+      "english": "drought"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "学习新的语言对我来说很难(學習新的語言對我來說很難)。",
-      "pinyin": "Xuéxí xīn de yǔyán duì wǒ lái shuō hěn nán.",
-      "english": "Learning a new language is difficult for me."
+      "chinese": "这道题很难(這道題很難)。",
+      "pinyin": "Zhè dào tí hěn nán.",
+      "english": "This question is very difficult."
     },
     {
-      "chinese": "这个数学题很难(這個數學題很難)，我花了两个小时才解出来(我花了兩個小時才解出來)。",
-      "pinyin": "Zhège shùxuétí hěn nán, wǒ huāle liǎng gè xiǎoshí cái jiě chūlái.",
-      "english": "This math problem is difficult; it took me two hours to solve it."
+      "chinese": "他觉得学中文很难(他覺得學中文很難)，但是他会努力(但是他會努力)。",
+      "pinyin": "Tā juéde xué Zhōngwén hěn nán, dànshì tā huì nǔlì.",
+      "english": "He thinks learning Chinese is difficult, but he will try hard."
     },
     {
-      "chinese": "虽然任务很难(雖然任務很難)，但我们一定能完成(但我們一定能完成)。",
-      "pinyin": "Suīrán rènwù hěn nán, dàn wǒmen yīdìng néng wánchéng.",
-      "english": "Although the task is difficult, we will definitely complete it."
+      "chinese": "解决这个问题很难(解決這個問題很難)，我们需要更多时间(我們需要更多時間)。",
+      "pinyin": "Jiějué zhège wèntí hěn nán, wǒmen xūyào gèng duō shíjiān.",
+      "english": "It's difficult to solve this problem, we need more time."
     }
   ]
 }

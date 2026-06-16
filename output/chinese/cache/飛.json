@@ -5,34 +5,27 @@
   "english": "fly; flutter; hover; rush",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bird flying upwards, resembles a tasseled 升(升) (shēng, \"rise\")",
-    "interpretation": "The character 飛(fēi, \"fly\") is a pictogram representing a bird in flight, capturing the upward motion and dynamic nature of flying. Its resemblance to 升(升) reflects the concept of rising or ascending, which is inherent to the action of flying.",
-    "simplification": "The simplified form 飞(飛) was created by streamlining the strokes while maintaining the shape of the original pictogram."
+    "description": "Depicts a bird flying upwards",
+    "interpretation": "The character 飛(fēi, \"fly\") depicts the image of a bird in flight, which naturally evokes the concepts of flying, fluttering, or hovering as a bird does in the sky.",
+    "simplification": "飞 is a simplified form of 飛, created by reducing the complexity of the character while maintaining its original flying bird form."
   },
-  "parts": [
-    {
-      "char": "升",
-      "trad": "升",
-      "pinyin": "shēng",
-      "english": "rise"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小鸟在蓝天中飛(小鳥在藍天中飛)。",
-      "pinyin": "Xiǎo niǎo zài lántiān zhōng fēi.",
-      "english": "The little bird flies in the blue sky."
+      "chinese": "小鸟在空中飞翔(小鳥在空中飛翔)。",
+      "pinyin": "Xiǎo niǎo zài kōngzhōng fēixiáng.",
+      "english": "The bird is flying in the sky."
     },
     {
-      "chinese": "风筝在空中飛(風箏在空中飛)，云朵悠然飛(雲朵悠然飛)。",
-      "pinyin": "Fēngzhēng zài kōngzhōng fēi, yúnduǒ yōurán fēi.",
-      "english": "The kite flies in the sky, and the clouds hover gracefully."
+      "chinese": "秋天来了(秋天來了)，树叶纷纷飞落(樹葉紛紛飛落)。",
+      "pinyin": "Qiūtiān láile, shùyè fēnfēn fēiluò.",
+      "english": "Autumn has arrived, and leaves are fluttering down."
     },
     {
-      "chinese": "燕子掠过屋檐飛(燕子掠過屋檐飛)，春风中悠然飛(春風中悠然飛)。",
-      "pinyin": "Yànzi luèguò wūyán fēi, chūnfēng zhōng yōurán fēi.",
-      "english": "The swallow flies past the eaves, and in the spring breeze it soars gracefully."
+      "chinese": "时间飞快地流逝(時間飛快地流逝)。",
+      "pinyin": "Shíjiān fēikuài de liúshì.",
+      "english": "Time flies by quickly."
     }
   ]
 }

@@ -5,7 +5,7 @@
   "english": "director; person in charge",
   "etymology": {
     "type": "compound word",
-    "description": "The word 主任(主任) (zhǔrèn, \"director; person in charge\") consists of: 主(主) (zhǔ, \"master; main\") and 任(任) (rèn, \"duty; appoint\"). 主(主) suggests the concept of a leader or primary entity, while 任(任) refers to a role or responsibility. Together, they form the idea of someone with the primary responsibilities or duties, thus a \"director\" or \"person in charge.\"",
+    "description": "主(主) (zhǔ, \"master; main\") connotes a person with authority or central stature, while 任(任) (rèn, \"responsibility; appoint\") indicates the act of holding a position of responsibility or being appointed to a role. Together, 主任(主任) (zhǔrèn, \"director; person in charge\") suggests someone who is the main person responsible for overseeing tasks or activities, thus acting as a director or person in charge.",
     "interpretation": "",
     "simplification": ""
   },
@@ -20,25 +20,25 @@
       "char": "任",
       "trad": "任",
       "pinyin": "rèn",
-      "english": "duty; appoint"
+      "english": "responsibility; appoint"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是这个项目的主任(他是這個項目的主任)。",
-      "pinyin": "Tā shì zhège xiàngmù de zhǔrèn.",
-      "english": "He is the director of this project."
+      "chinese": "学校的主任(學校的主任)负责管理所有的行政事务(負責管理所有的行政事務)。",
+      "pinyin": "Xuéxiào de zhǔrèn fùzé guǎnlǐ suǒyǒu de xíngzhèng shìwù.",
+      "english": "The school's director is responsible for overseeing all administrative affairs."
     },
     {
-      "chinese": "学校主任正在开会(學校主任正在開會)。",
-      "pinyin": "Xuéxiào zhǔrèn zhèngzài kāihuì.",
-      "english": "The school director is having a meeting."
+      "chinese": "我们需要一个新的项目主任(我們需要一個新的項目主任)，以确保工作顺利进行(以確保工作順利進行)。",
+      "pinyin": "Wǒmen xūyào yī ge xīn de xiàngmù zhǔrèn, yǐ quèbǎo gōngzuò shùnlì jìnxíng.",
+      "english": "We need a new project director to ensure the work proceeds smoothly."
     },
     {
-      "chinese": "如果你有问题请找主任(如果你有問題請找主任)。",
-      "pinyin": "Rúguǒ nǐ yǒu wèntí qǐng zhǎo zhǔrèn.",
-      "english": "If you have any questions, please contact the director."
+      "chinese": "会议上，主任宣布了新的政策(會議上，主任宣佈了新的政策)。",
+      "pinyin": "Huìyì shàng, zhǔrèn xuānbùle xīn de zhèngcè.",
+      "english": "At the meeting, the director announced the new policy."
     }
   ]
 }

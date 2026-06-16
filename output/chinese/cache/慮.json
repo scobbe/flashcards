@@ -5,9 +5,9 @@
   "english": "consider",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "思(思) (sī, \"to think\") for meaning + 虍(虍) (hū, phonic) = thinking deeply -> consider",
-    "interpretation": "The character 慮(慮) (lǜ, \"consider\") combines 思(思) (sī, \"to think\") to emphasize the idea of cognition or consideration, with 虍(虍) (hū), which provides a phonetic cue. This character reflects the thoughtful and deliberative nature of the action it represents.",
-    "simplification": "Simplified to 虑(慮) (lǜ, \"consider\") by removing the 田(田) (tián, \"field\") component from 思(思) (sī, \"to think\") to streamline the character without losing the primary radical."
+    "description": "semantic 思(思) (sī, \"to think\") + phonetic 虍(虍) -> meaning",
+    "interpretation": "The character 慮(lǜ, \"consider\") combines the semantic component 思(思) (sī, \"to think\") indicating the action of thinking, with the phonetic component 虍(虍) providing the sound. The combination conveys a sense of deep or careful thought, aligning with the meaning \"consider\".",
+    "simplification": "Simplified by removing the component 田(田) (tián, \"field\") from the traditional form 慮."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "虍",
       "trad": "虍",
       "pinyin": "hū",
-      "english": "phonic"
+      "english": "tiger stripes"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在做决定前(在做決定前)，他总是仔细慮及各方面因素(他總是仔細慮及各方面因素)。",
-      "pinyin": "Zài zuò juédìng qián, tā zǒng shì zǐxì lǜ jí gè fāngmiàn yīnsù。",
-      "english": "Before making a decision, he always carefully considers all aspects."
+      "chinese": "在做出决定之前(在做出決定之前)，我们应该仔细考虑每一个选择(我們應該仔細考慮每一個選擇)。",
+      "pinyin": "Zài zuòchū juédìng zhīqián, wǒmen yīnggāi zǐxì kǎolǜ měi yīgè xuǎnzé.",
+      "english": "Before making a decision, we should carefully consider each option."
     },
     {
-      "chinese": "慎慮是一种智慧(慎慮是一種智慧)。",
-      "pinyin": "Shèn lǜ shì yī zhǒng zhìhuì。",
-      "english": "Careful consideration is a form of wisdom."
+      "chinese": "事情的发展出乎意料(事情的發展出乎意料)，我们需要再三考虑下一步行动(我們需要再三考慮下一步行動)。",
+      "pinyin": "Shìqíng de fāzhǎn chūhū yìliào, wǒmen xūyào zàisān kǎolǜ xià yībù xíngdòng.",
+      "english": "The development of the situation was unexpected; we need to consider our next steps carefully."
     },
     {
-      "chinese": "面临困难时(面臨困難時)，他总会花时间慮处理方案(他總會花時間慮處理方案)。",
-      "pinyin": "Miànlín kùnnán shí, tā zǒng huì huā shíjiān lǜ chǔlǐ fāng'àn。",
-      "english": "When facing difficulties, he always takes time to consider the solution."
+      "chinese": "当你计划未来时(當你計劃未來時)，有必要慎重考虑可能的风险(有必要慎重考慮可能的風險)。",
+      "pinyin": "Dāng nǐ jìhuà wèilái shí, yǒu bìyào shènzhòng kǎolǜ kěnéng de fēngxiǎn.",
+      "english": "When planning for the future, it is necessary to seriously consider potential risks."
     }
   ]
 }

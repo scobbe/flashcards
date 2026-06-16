@@ -1,0 +1,44 @@
+{
+  "simplified": "充值",
+  "traditional": "充值",
+  "pinyin": "chōngzhí",
+  "english": "to recharge; to top up",
+  "etymology": {
+    "type": "compound word",
+    "description": "充(充) (chōng, \"fill; full; satisfy\") originally suggests filling a space, like pouring liquid into a container until it is full. It extends metaphorically to the action of adding value to a balance, completing or satisfying a requirement. 值(值) (zhí, \"value; worth\") refers to the concept of worth or numerical value, especially in terms of money or morals. The combination of these characters forms the action of replenishing or increasing value, particularly in credit or prepaid accounts.",
+    "interpretation": "充值(充值) portrays the act of filling (充) a monetary balance or value (值). 充(充) implies actively making something complete or reaching its full potential, while 值(值) denotes the aspect of monetary worth or available credit. When combined, it applies primarily to the function of adding credit to accounts such as phone balances or transportation cards, mirroring the act of filling them with usable value.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "充",
+      "trad": "充",
+      "pinyin": "chōng",
+      "english": "fill; full; satisfy"
+    },
+    {
+      "char": "值",
+      "trad": "值",
+      "pinyin": "zhí",
+      "english": "value; worth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我需要充值我的手机话费(我需要充值我的手機話費)。",
+      "pinyin": "Wǒ xūyào chōngzhí wǒ de shǒujī huàfèi.",
+      "english": "I need to recharge my phone credit."
+    },
+    {
+      "chinese": "他在公交卡上充值(他在公交卡上充值)，以便通勤时使用(以便通勤時使用)。",
+      "pinyin": "Tā zài gōngjiāo kǎ shàng chōngzhí, yǐbiàn tōngqín shí shǐyòng.",
+      "english": "He topped up his bus card so he can use it for commuting."
+    },
+    {
+      "chinese": "为了享受更多优惠(為了享受更多優惠)，会员们可以充值账户(會員們可以充值賬戶)。",
+      "pinyin": "Wèi le xiǎngshòu gèng duō yōuhuì, huìyuánmen kěyǐ chōngzhí zhànghù.",
+      "english": "To enjoy more benefits, members can recharge their accounts."
+    }
+  ]
+}

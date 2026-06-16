@@ -5,8 +5,8 @@
   "english": "very; quite; much; to a large extent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 彳(彳) (chì, \"step\") + Phonetic: 艮(艮) (gèn, \"stopping\") = very -> to a large extent",
-    "interpretation": "The character 很(hěn) combines 彳(彳) (chì, \"step\"), suggesting movement or continuation, with 艮(艮) (gèn, \"stopping\"), which provides the pronunciation. This juxtaposition reflects something significant—hence the meaning 'very' or 'to a large extent.'",
+    "description": "semantic 彳(彳) (chì, \"step\") + phonetic 艮(艮) (gèn) -> very; quite",
+    "interpretation": "The character 很 (hěn) combines the semantic component 彳(彳) (chì, \"step\"), suggesting progression or a continuous path, with the phonetic component 艮(艮) (gèn) to indicate the sound. The overall meaning of 'very' or 'quite' can metaphorically suggest a significant progression or step towards a state, thus emphasizing degree or intensity.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "艮",
       "trad": "艮",
       "pinyin": "gèn",
-      "english": "stopping"
+      "english": "stubborn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他很勤劳(他很勤勞)。",
-      "pinyin": "Tā hěn qínláo.",
-      "english": "He is very hardworking."
+      "chinese": "她很聪明(她很聰明)。",
+      "pinyin": "Tā hěn cōngmíng.",
+      "english": "She is very smart."
     },
     {
-      "chinese": "今天很热(今天很熱)，我们很享受夏天(我們很享受夏天)。",
-      "pinyin": "Jīntiān hěn rè, wǒmen hěn xiǎngshòu xiàtiān.",
-      "english": "It is very hot today, and we really enjoy the summer."
+      "chinese": "这道菜很好吃(這道菜很好吃)。",
+      "pinyin": "Zhè dào cài hěn hào chī.",
+      "english": "This dish is very delicious."
+    },
+    {
+      "chinese": "天气很暖和(天氣很暖和)，大家都想出去走走(大家都想出去走走)。",
+      "pinyin": "Tiānqì hěn nuǎnhuo, dàjiā dōu xiǎng chūqù zǒuzǒu.",
+      "english": "The weather is very warm, everyone wants to go out for a walk."
     }
   ]
 }

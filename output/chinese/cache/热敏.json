@@ -5,8 +5,8 @@
   "english": "thermo-sensitive",
   "etymology": {
     "type": "compound word",
-    "description": "热(熱) (rè, \"heat\") + 敏(敏) (mǐn, \"sensitive\") = being sensitive to changes in temperature.",
-    "interpretation": "The term 热敏(熱敏) (rèmǐn, \"thermo-sensitive\") describes a quality or a property of materials or devices that respond to heat. This is commonly applied in technology and materials science to refer to substances that alter their behavior or state in response to temperature changes.",
+    "description": "熱(熱) (rè, \"heat; hot\") refers to high temperature or warmth. 敏(敏) (mǐn, \"sensitive; quick\") denotes being perceptive or responsive, especially to external stimuli. Together, these characters form a term for something that is sensitive or responsive to heat, specifically 'thermo-sensitive' in English.",
+    "interpretation": "熱(熱) (rè, \"heat; hot\") implies the application of temperature or warmth. 敏(敏) (mǐn, \"sensitive; quick\") suggests an ability or readiness to respond. Combined, 熱敏(熱敏) (rèmǐn, \"thermo-sensitive\") describes a condition or material that reacts or changes in response to heat, capturing the idea of sensitivity through the presence of warmth.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "热",
       "trad": "熱",
       "pinyin": "rè",
-      "english": "heat; hot; fever"
+      "english": "heat; hot"
     },
     {
       "char": "敏",
       "trad": "敏",
       "pinyin": "mǐn",
-      "english": "sensitive; agile; clever; fast"
+      "english": "sensitive; quick"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "仪器采用热敏传感器检测温度(儀器採用熱敏傳感器檢測溫度)，确保数据准确(確保數據準確)。",
-      "pinyin": "Yíqì cǎiyòng rè mǐn chuángǎn qì jiǎncè wēndù, quèbǎo shùjù zhǔnquè.",
-      "english": "The device uses a thermo-sensitive sensor to monitor the temperature, ensuring accurate data."
+      "chinese": "这种纸是热敏纸(這種紙是熱敏紙)。",
+      "pinyin": "Zhè zhǒng zhǐ shì rèmǐn zhǐ.",
+      "english": "This type of paper is thermo-sensitive paper."
     },
     {
-      "chinese": "这种热敏材料在温度变化时保持稳定(這種熱敏材料在溫度變化時保持穩定)。",
-      "pinyin": "Zhè zhǒng rè mǐn cáiliào zài wēndù biànhuà shí bǎochí wěndìng.",
-      "english": "This thermo-sensitive material remains stable when the temperature changes."
+      "chinese": "热敏反应器(熱敏反應器)在高温下启动(在高溫下啟動)。",
+      "pinyin": "Rèmǐn fǎnyìngqì zài gāowēn xià qǐdòng.",
+      "english": "The thermo-sensitive reactor activates at high temperatures."
     },
     {
-      "chinese": "工程师利用热敏效应校准设备(工程師利用熱敏效應校準設備)。",
-      "pinyin": "Gōngchéngshī lìyòng rè mǐn xiàoyìng jiàozhǔn shèbèi.",
-      "english": "The engineer calibrates the equipment using the thermo-sensitive effect."
+      "chinese": "他们开发了一种热敏材料(他們開發了一種熱敏材料)，用于温度监测(用於溫度監測)。",
+      "pinyin": "Tāmen kāifā le yī zhǒng rèmǐn cáiliào, yòng yú wēndù jiāncè.",
+      "english": "They developed a thermo-sensitive material for temperature monitoring."
     }
   ]
 }

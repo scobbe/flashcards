@@ -5,9 +5,9 @@
   "english": "wrong; mistake; fault; error",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") + 昔(昔) (xī, \"past\") = grindstone -> incorrect positioning of elements -> mistake",
-    "interpretation": "The character combines the metal radical 金(金) (jīn, \"metal\") with the phonetic element 昔(昔) (xī, \"past\") to represent the notion of a grindstone, which is used visually to symbolize misalignment or error, leading to the meaning of 'wrong' or 'mistake.'",
-    "simplification": "Simplified by replacing 錯(錯) (cuò, \"wrong\")'s 釒(金) (jīn, \"metal\") with 钅, a cursive variant."
+    "description": "semantic 金(金) (jīn, \"metal\") + phonetic 昔(昔) (xī, \"past\") -> grindstone made of metal -> wrong; mistake",
+    "interpretation": "The character combines 金(金) (jīn, \"metal\"), indicating the concept related to metal, with 昔(昔) (xī, \"past\"), which provides the phonetic component. Originally, this described a grindstone, an implement for smoothing errors in metalwork, leading to the metaphorical use of 'wrong' or 'mistake' as it relates to correcting or being aware of mistakes.",
+    "simplification": "The traditional component 釒(金) was simplified to 钅, retaining its representation of metal, which reduces the number of strokes."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你的答案错了(你的答案錯了)。",
-      "pinyin": "Nǐ de dá'àn cuò le.",
-      "english": "Your answer is wrong."
+      "chinese": "我犯了一个严重的错误(我犯了一個嚴重的錯誤)。",
+      "pinyin": "Wǒ fànle yī gè yánzhòng de cuòwù.",
+      "english": "I made a serious mistake."
     },
     {
-      "chinese": "他虽然努力了(他雖然努力了)，结果终究错了(結果終究錯了)。",
-      "pinyin": "Tā suīrán nǔlì le, jiéguǒ zhōngjiū cuò le.",
-      "english": "Although he tried hard, he ultimately made a mistake."
+      "chinese": "对不起，我说错了(對不起，我說錯了)。",
+      "pinyin": "Duìbùqǐ, wǒ shuō cuò le.",
+      "english": "Sorry, I said it wrong."
     },
     {
-      "chinese": "犯错是学习的一部分(犯錯是學習的一部分)。",
-      "pinyin": "Fàn cuò shì xuéxí de yībùfèn.",
-      "english": "Making mistakes is a part of learning."
+      "chinese": "这个答案是错的(這個答案是錯的)，请再检查一下(請再檢查一下)。",
+      "pinyin": "Zhè gè dá'àn shì cuò de, qǐng zài jiǎnchá yīxià.",
+      "english": "This answer is wrong, please check it again."
     }
   ]
 }

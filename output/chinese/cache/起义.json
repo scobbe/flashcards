@@ -5,8 +5,8 @@
   "english": "rise; righteous",
   "etymology": {
     "type": "compound word",
-    "description": "起(起) (qǐ, \"rise\") + 义(義) (yì, \"righteous\") = rise in the name of righteousness; insurrection",
-    "interpretation": "The word 起义(起義) (qǐyì, \"rise in righteousness\") signifies the act of rising up or an insurrection for a moral or just cause. Historically, it has been used to describe rebellions or uprisings against unjust rule or tyranny, emphasizing the moral justification behind such actions.",
+    "description": "起(起) (qǐ, \"rise\") suggests elevating or beginning an action, indicating the commencement or onset of something. 義(義) (yì, \"righteous\") is closely associated with justice or a moral principle, implying actions undertaken based on moral grounds or for a just cause.",
+    "interpretation": "The concept of 起(起) (qǐ, \"rise\") emphasizes the action of getting up or initiating something, leading to the sense of a physical or metaphorical 'rising'. 義(義) (yì, \"righteous\") evokes action governed by ethical standards or for a noble cause. Combined, 起義(起義) (qǐyì) refers to an uprising or rebellion characterized by moral justification, a movement starting with the intention of achieving justice or rectifying wrongs.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "起",
       "trad": "起",
       "pinyin": "qǐ",
-      "english": "rise; lift; begin; get up"
+      "english": "rise; start; arouse"
     },
     {
       "char": "义",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "农民起义(農民起義)，掀起了革命浪潮(掀起了革命浪潮)。",
-      "pinyin": "Nóngmín qǐyì, xiānqǐle gémìng làngcháo.",
-      "english": "The peasant uprising unleashed a revolutionary tide."
+      "chinese": "他们决定发动起义(他們決定發動起義)。",
+      "pinyin": "Tāmen juédìng fādòng qǐyì.",
+      "english": "They decided to start a rise."
     },
     {
-      "chinese": "英雄为了正义起义(英雄為了正義起義)，保卫国家(保衛國家)。",
-      "pinyin": "Yīngxióng wèile zhèngyì qǐyì, bǎowèi guójiā.",
-      "english": "Heroes rose up for righteousness to defend the country."
+      "chinese": "起义的领袖给人民带来了希望(起義的領袖給人民帶來了希望)。",
+      "pinyin": "Qǐyì de lǐngxiù gěi rénmín dàilái le xīwàng.",
+      "english": "The leader of the rise brought hope to the people."
     },
     {
-      "chinese": "起义声震寰宇(起義聲震寰宇)，鼓舞了民心(鼓舞了民心)。",
-      "pinyin": "Qǐyì shēng zhèn huányǔ, gǔwǔle mínxīn.",
-      "english": "The sound of the uprising shook the universe and inspired the people's hearts."
+      "chinese": "历史记载了多次起义的事迹(歷史記載了多次起義的事蹟)。",
+      "pinyin": "Lìshǐ jìzǎi le duō cì qǐyì de shìjì.",
+      "english": "History recorded many incidents of rises."
     }
   ]
 }

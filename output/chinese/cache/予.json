@@ -4,9 +4,9 @@
   "pinyin": "yǔ",
   "english": "give",
   "etymology": {
-    "type": "Jiajie",
-    "description": "Originally written as 呂(呂) (lǚ, \"spine\") for phonetic purposes -> borrowed for \"give\" and \"I\" -> distinguishing 亅(亅) (jué, \"hook\") added at the bottom -> stylized to final form 予(予) (yǔ, \"give\")",
-    "interpretation": "The character 予(予) (yǔ, \"give\") was adapted from 呂(呂) (lǚ, \"spine\") due to phonetic similarity. The addition of 亅(亅) (jué, \"hook\") helped set it apart visually, leading to the modern form.",
+    "type": "jiajie",
+    "description": "originally written as 呂(呂) (lǚ, 'spine') phonetically borrowed -> 亅 added for distinction and stylized -> final form 予(予) (yǔ, 'give')",
+    "interpretation": "The character 予(yǔ) ('give') is a borrowing for the meanings 'I; give', initially represented by 呂(lǚ) (‘spine’) due to phonetic similarity. A vertical stroke 亅 was later added at the bottom to differentiate it visually, resulting in a distinct character for the meaning 'to give'.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他予我一本书(他予我一本書)。",
-      "pinyin": "Tā yǔ wǒ yī běn shū.",
-      "english": "He gave me a book."
+      "chinese": "我愿意予你帮助(我願意予你幫助)。",
+      "pinyin": "Wǒ yuànyì yǔ nǐ bāngzhù.",
+      "english": "I am willing to give you help."
     },
     {
-      "chinese": "老师予以指导(老師予以指導)，学生表示感谢(學生表示感謝)。",
-      "pinyin": "Lǎoshī yǔyǐ zhǐdǎo, xuéshēng biǎoshì gǎnxiè.",
-      "english": "The teacher provided guidance and the students expressed their gratitude."
+      "chinese": "这项荣誉被予了他(這項榮譽被予了他)。",
+      "pinyin": "Zhè xiàng róngyù bèi yǔ le tā.",
+      "english": "This honor was given to him."
+    },
+    {
+      "chinese": "她将一份礼物予了我(她將一份禮物予了我)。",
+      "pinyin": "Tā jiāng yī fèn lǐwù yǔ le wǒ.",
+      "english": "She gave a gift to me."
     }
   ]
 }

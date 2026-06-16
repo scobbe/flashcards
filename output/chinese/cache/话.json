@@ -5,35 +5,40 @@
   "english": "speech; words; utterance; language",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"word\") + 𠯑(𠯑) as phonetic = related to speech -> speech; words; utterance; language",
-    "interpretation": "話(話) (huà, \"speech\") combines 言(言) (yán, \"word\") for its semantic meaning and 𠯑 for phonetic purposes, indicating its relation to verbal communication.",
-    "simplification": "話(話) was simplified to 话(話) by replacing 言(言) with 讠(讠) (yán, \"speech\") for a cursive shorthand representation."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 𠯑 (sound) -> speech; word",
+    "interpretation": "The semantic component 言(言) (yán, \"speech\") provides the meaning related to speaking or words. The phonetic component 𠯑 contributes the sound, without specifically relating to its depicted part 舌(\"tongue\").",
+    "simplification": "话(話): 言(言) (yán, \"speech\") was simplified to 讠, reducing complexity while keeping the phonetic element."
   },
   "parts": [
     {
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "word"
+      "english": "speech"
     },
     {
       "char": "𠯑",
       "trad": "𠯑",
-      "pinyin": "unknown",
-      "english": "phonetic component"
+      "pinyin": "",
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说的每一句话(他說的每一句話)，都充满智慧(都充滿智慧)。",
-      "pinyin": "Tā shuō de měi yī jù huà, dōu chōngmǎn zhìhuì.",
-      "english": "Every word he speaks is full of wisdom."
+      "chinese": "他的讲话非常有影响力(他的講話非常有影響力)。",
+      "pinyin": "Tā de jiǎnghuà fēicháng yǒu yǐngxiǎnglì.",
+      "english": "His speech is very influential."
     },
     {
-      "chinese": "一句好话(一句好話)，胜过千言万语(勝過千言萬語)。",
-      "pinyin": "Yī jù hǎo huà, shèng guò qiān yán wàn yǔ.",
-      "english": "A kind word surpasses a thousand words."
+      "chinese": "她的话让我感动(她的話讓我感動)。",
+      "pinyin": "Tā de huà ràng wǒ gǎndòng.",
+      "english": "Her words moved me."
+    },
+    {
+      "chinese": "请注意你的言词(請注意你的言詞)，避免误会(避免誤會)。",
+      "pinyin": "Qǐng zhùyì nǐ de yáncí, bìmiǎn wùhuì.",
+      "english": "Please be mindful of your words to avoid misunderstandings."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "sit; ride",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "留(留) (liú, \"to stay\") + 土(土) (tǔ, \"ground\") = staying on the ground -> sit",
-    "interpretation": "The character 坐(坐) (zuò, \"sit\") combines 留(留) (liú, \"to stay\") to convey the idea of remaining or staying, with 土(土) (tǔ, \"ground\") to indicate being positioned on the ground. This conveys the action of sitting down, highlighting being in a stable position on the ground.",
+    "description": "留(留) ('to stay') + 土(土) ('ground') = to stay on the ground -> sit",
+    "interpretation": "The character 坐 (zuò, 'sit; ride') combines the sense of 留 (liú, 'to stay') with 土 (tǔ, 'ground'), expressing the concept of remaining upon the ground, which naturally leads to the action of sitting. The idea of staying grounded naturally extends to 'sitting,' and by metaphor, to 'riding,' as one is seated while riding.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请坐(請坐)！",
-      "pinyin": "Qǐng zuò!",
-      "english": "Please sit down!"
+      "chinese": "我喜欢在阳台上坐着读书(我喜歡在陽台上坐著讀書)。",
+      "pinyin": "Wǒ xǐhuān zài yángtái shàng zuòzhe dúshū.",
+      "english": "I enjoy sitting on the balcony to read."
     },
     {
-      "chinese": "我坐在公园的长椅上(我坐在公園的長椅上)。",
-      "pinyin": "Wǒ zuò zài gōngyuán de chángyǐ shàng.",
-      "english": "I sit on the park bench."
+      "chinese": "我们可以一起坐火车去海边(我們可以一起坐火車去海邊)。",
+      "pinyin": "Wǒmen kěyǐ yīqǐ zuò huǒchē qù hǎibiān.",
+      "english": "We can take the train together to the seaside."
     },
     {
-      "chinese": "去旅行时(去旅行時)，他喜欢坐火车享受美景(他喜歡坐火車享受美景)。",
-      "pinyin": "Qù lǚxíng shí, tā xǐhuān zuò huǒchē xiǎngshòu měijǐng.",
-      "english": "When traveling, he likes to ride the train and enjoy the beautiful scenery."
+      "chinese": "她喜欢坐在长椅上欣赏公园的风景(她喜歡坐在長椅上欣賞公園的風景)。",
+      "pinyin": "Tā xǐhuān zuò zài cháng yǐ shàng xīnshǎng gōngyuán de fēngjǐng.",
+      "english": "She likes sitting on the bench, enjoying the park's scenery."
     }
   ]
 }

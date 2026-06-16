@@ -4,25 +4,41 @@
   "pinyin": "sū",
   "english": "revive",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 生(生) (shēng, 'life') + phonetic: 訴(诉) (sù, 'narrate') = bringing to life -> revive",
-    "interpretation": "The character 甦(sū, 'revive') combines 生(生) (shēng, 'life') as the semantic element to indicate life or revitalization, with 訴(诉) (sù, 'narrate') serving as the phonetic element, suggesting the act of returning to life.",
+    "type": "ideogrammic compound",
+    "description": "更(gēng, \"to change\") + 生(shēng, \"to be born\") = rebirth",
+    "interpretation": "甦(sū, \"revive\") combines 更(gēng, \"to change\") and 生(shēng, \"to be born\") to conceptually illustrate the idea of rebirth or being revived. The character communicates the notion of a transformation towards new life.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "更",
+      "trad": "更",
+      "pinyin": "gēng",
+      "english": "to change"
+    },
+    {
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life"
-    },
-    {
-      "char": "訴",
-      "trad": "诉",
-      "pinyin": "sù",
-      "english": "narrate"
+      "english": "to be born"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "春天的清风让大地甦醒(春天的清風讓大地甦醒)。",
+      "pinyin": "Chūntiān de qīngfēng ràng dàdì sūxǐng.",
+      "english": "The spring breeze revives the earth."
+    },
+    {
+      "chinese": "经过雨水的滋润，花园里的植物开始甦醒(經過雨水的滋潤，花園裡的植物開始甦醒)。",
+      "pinyin": "Jīngguò yǔshuǐ de zīrùn，huāyuán lǐ de zhíwù kāishǐ sūxǐng.",
+      "english": "After being nourished by the rain, the plants in the garden begin to revive."
+    },
+    {
+      "chinese": "医护人员全力抢救，使病人得以甦醒(醫護人員全力搶救，使病人得以甦醒)。",
+      "pinyin": "Yīhù rényuán quánlì qiǎngjiù, shǐ bìngrén déyǐ sūxǐng.",
+      "english": "The medical staff made every effort to revive the patient."
+    }
+  ]
 }

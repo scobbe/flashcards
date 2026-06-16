@@ -5,8 +5,8 @@
   "english": "gong and drum",
   "etymology": {
     "type": "compound word",
-    "description": "锣(鑼) (luó, \"gong\"), 鼓(鼓) (gǔ, \"drum\")",
-    "interpretation": "The word 锣鼓(鑼鼓) (luógǔ) refers to the combination of the gong and drum, which are commonly used together in traditional Chinese music, particularly in festivals and celebrations. The pairing of these two instruments creates a lively and rhythmic sound, integral to various cultural performances and ceremonies.",
+    "description": "鑼(鑼) (luó, \"gong\") + 鼓(鼓) (gǔ, \"drum\")",
+    "interpretation": "鑼(鑼) (luó, \"gong\") and 鼓(鼓) (gǔ, \"drum\") are both traditional Chinese musical instruments that are frequently used together in ceremonial and festive occasions. The combination evokes the sound and rhythm accompanying celebrations and processions, making it a natural pairing to convey the idea of lively music or festivity. This association builds on the concrete roles these instruments play in generating exuberant auditory experiences to mark significant events.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "鼓",
       "trad": "鼓",
       "pinyin": "gǔ",
-      "english": "drum"
+      "english": "drum; beat; encourage; rouse"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "节日庆典时(節日慶典時)，锣鼓喧天(鑼鼓喧天)。",
-      "pinyin": "Jié rì qìng diǎn shí, luó gǔ xuān tiān.",
-      "english": "During the festive celebration, the gongs and drums resound."
+      "chinese": "婚礼上有锣鼓声(婚禮上有鑼鼓聲)。",
+      "pinyin": "Hūnlǐ shàng yǒu luó gǔ shēng.",
+      "english": "There were sounds of gongs and drums at the wedding."
     },
     {
-      "chinese": "婚礼进行时(婚禮進行時)，锣鼓齐奏响乐章(鑼鼓齊奏響樂章)。",
-      "pinyin": "Hūn lǐ jìn xíng shí, luó gǔ qí zòu xiǎng yuè zhāng.",
-      "english": "During the wedding, the gongs and drums play in unison, echoing a joyful tune."
+      "chinese": "锣鼓表演吸引了很多观众(鑼鼓表演吸引了很多觀眾)。",
+      "pinyin": "Luó gǔ biǎo yǎn xī yǐn le hěn duō guān zhòng.",
+      "english": "The gong and drum performance attracted many spectators."
     },
     {
-      "chinese": "街头巷尾响起锣鼓(街頭巷尾響起鑼鼓)，庆祝新年的到来(慶祝新年的到來)。",
-      "pinyin": "Jiē tóu xiàng wěi xiǎng qǐ luó gǔ, qìng zhù xīn nián de dào lái.",
-      "english": "Throughout the streets and alleys, the gongs and drums resound to celebrate the arrival of the New Year."
+      "chinese": "他们用锣鼓庆祝节日(他們用鑼鼓慶祝節日)。",
+      "pinyin": "Tāmen yòng luó gǔ qìng zhù jié rì.",
+      "english": "They celebrate the festival with gongs and drums."
     }
   ]
 }

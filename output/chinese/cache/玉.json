@@ -5,27 +5,27 @@
   "english": "jade",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a cong (琮, a ritual jade totem)",
-    "interpretation": "玉(玉) (yù, \"jade\") visually represents the concept of jade, either as a cong or three pieces of jade strung together. It is distinct from 王(王) (wáng, \"king\") thanks to the added dot, ensuring clarity in their usage and meaning.",
+    "description": "Depicts a picture of a cong (琮), a sort of ritual jade totem -> dot added to differentiate from 王 (wáng, \"king\") -> final form 玉 (yù, \"jade\")",
+    "interpretation": "The character represents a picture of a jade cong, emphasizing its role in rituals and its cultural significance. The image eventually included a distinguishing dot to ensure clarity from similar characters like 王, underscoring the value jade held as a material in ancient contexts.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他收藏了一块古玉(他收藏了一塊古玉)。",
-      "pinyin": "Tā shōucáng le yī kuài gǔ yù.",
-      "english": "He collected a piece of antique jade."
+      "chinese": "她收到了一个漂亮的玉手镯(她收到了一个漂亮的玉手鐲)。",
+      "pinyin": "Tā shōu dào le yī gè piàoliang de yù shǒuzhuó.",
+      "english": "She received a beautiful jade bracelet."
     },
     {
-      "chinese": "晴空万里时(晴空萬里時)，玉石在阳光下闪烁(玉石在陽光下閃爍)。",
-      "pinyin": "Qíngkōng wànlǐ shí, yù shí zài yángguāng xià shǎnshuò.",
-      "english": "Under a clear sky, the jade sparkled under the sunlight."
+      "chinese": "皇帝的王冠上镶嵌着闪耀的玉石(皇帝的王冠上鑲嵌著閃耀的玉石)。",
+      "pinyin": "Huángdì de wángguān shàng xiāngqiànzhe shǎnyào de yùshí.",
+      "english": "The emperor's crown was inlaid with shining jade stones."
     },
     {
-      "chinese": "在宫廷中(在宮廷中)，玉制的饰物象征着高贵(玉製的飾物象徵著高貴)。",
-      "pinyin": "Zài gōngtíng zhōng, yù zhì de shìwù xiàngzhēng zhe gāoguì.",
-      "english": "In the palace, jade ornaments symbolize nobility."
+      "chinese": "古代的玉器常常被视为珍贵的艺术品(古代的玉器常常被視為珍貴的藝術品)。",
+      "pinyin": "Gǔdài de yùqì chángcháng bèi shìwéi zhēnguì de yìshùpǐn.",
+      "english": "Ancient jade artifacts are often regarded as precious works of art."
     }
   ]
 }

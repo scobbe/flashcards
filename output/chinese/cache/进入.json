@@ -5,8 +5,8 @@
   "english": "enter; get into",
   "etymology": {
     "type": "compound word",
-    "description": "進(進) (jìn, \"to advance\") and 入(入) (rù, \"to enter\") together convey the action of moving into a space, hence the meaning \"enter\" or \"get into.\"",
-    "interpretation": "The term 進入(進入) (jìnrù, \"enter\") combines 進(進) (jìn, \"to advance\") with 入(入) (rù, \"to enter\") to express the concept of advancing into or entering a space. This captures the seamless transition from outside to inside, whether a physical place or a metaphorical context.",
+    "description": "進(進) (jìn, \"advance\") conveys moving forward or ahead, suggesting motion or progression into something. 入(入) (rù, \"enter\") directly means to step into or become part of a space or realm, conveying entry.",
+    "interpretation": "進(進) (jìn, \"advance\") implies moving forward towards a destination. 入(入) (rù, \"enter\") suggests completing the motion of crossing a boundary into a new space. Combine these to express the idea of 'entering' as moving forward into a space or state.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "进",
       "trad": "進",
       "pinyin": "jìn",
-      "english": "to advance; to move forward"
+      "english": "advance; move forward"
     },
     {
       "char": "入",
       "trad": "入",
       "pinyin": "rù",
-      "english": "to enter; to go into"
+      "english": "enter; join; get into; go in"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她进入房间(她進入房間)。",
-      "pinyin": "Tā jìnrù fángjiān.",
-      "english": "She entered the room."
+      "chinese": "我们进入公园(我們進入公園)。",
+      "pinyin": "Wǒmen jìnrù gōngyuán.",
+      "english": "We entered the park."
     },
     {
-      "chinese": "太阳刚刚进入黄昏时(太陽剛剛進入黃昏時)，天空变得美丽无比(天空變得美麗無比)。",
-      "pinyin": "Tàiyáng gānggāng jìnrù huánghūn shí, tiānkōng biànde měilì wúbǐ.",
-      "english": "As the sun just entered the dusk, the sky became incredibly beautiful."
+      "chinese": "请在进入房间前脱鞋(請在進入房間前脫鞋)。",
+      "pinyin": "Qǐng zài jìnrù fángjiān qián tuōxié.",
+      "english": "Please remove your shoes before entering the room."
     },
     {
-      "chinese": "他进入了大学(他進入了大學)，开始他的学术旅程(開始他的學術旅程)。",
-      "pinyin": "Tā jìnrùle dàxué, kāishǐ tā de xuéshù lǚchéng.",
-      "english": "He entered the university, starting his academic journey."
+      "chinese": "他进入大学后学习很勤奋(他進入大學後學習很勤奮)。",
+      "pinyin": "Tā jìnrù dàxué hòu xuéxí hěn qínfèn.",
+      "english": "He studied diligently after entering the university."
     }
   ]
 }

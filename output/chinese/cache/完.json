@@ -5,8 +5,8 @@
   "english": "finished; intact",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 宀(宀) (mián, \"roof\") + phonetic 元(元) (yuán, \"origin\") = under a roof, things come to completion -> finished, intact",
-    "interpretation": "The character 完(完) (wán, \"finished\") combines 宀(宀) (mián, \"roof\") to convey the idea of enclosure or home, with 元(元) (yuán, \"origin\") providing the pronunciation and implying the completion of a process or development under a roof.",
+    "description": "semantic 宀 (roof) + phonetic 元 (sound) -> finished; intact",
+    "interpretation": "The character 完 (wán, \"finished; intact\") combines the semantic element 宀 (mián, \"roof\"), suggesting a protective or structural component, and the phonetic element 元 (yuán, \"origin\"), indicating the pronunciation. Together, they imply a structure that is completed and covered, hence the sense of something being \"finished\" or \"intact.\"",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他吃完饭(他吃完飯)。",
-      "pinyin": "Tā chī wán fàn.",
-      "english": "He finished eating."
+      "chinese": "他终于完成任务了(他終於完成任務了)。",
+      "pinyin": "Tā zhōngyú wánchéng rènwù le.",
+      "english": "He finally finished the task."
     },
     {
-      "chinese": "我做完作业(我做完作業)，就去睡觉(就去睡覺)。",
-      "pinyin": "Wǒ zuò wán zuòyè, jiù qù shuìjiào.",
-      "english": "After I finished my homework, I went to sleep."
+      "chinese": "晚餐做好了(晚餐做好了)，可以开饭了(可以開飯了)。",
+      "pinyin": "Wǎncān zuò hǎo le, kěyǐ kāifàn le.",
+      "english": "Dinner is finished and ready to be served."
     },
     {
-      "chinese": "风暴过后(風暴過後)，建筑依然完好(建築依然完好)。",
-      "pinyin": "Fēngbào guòhòu, jiànzhù yīrán wánhǎo.",
-      "english": "After the storm, the building remained intact."
+      "chinese": "我的工作还没完(我的工作還沒完)，需要加班(需要加班)。",
+      "pinyin": "Wǒ de gōngzuò hái méi wán, xūyào jiābān.",
+      "english": "My work is not finished yet and I need to work overtime."
     }
   ]
 }

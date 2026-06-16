@@ -5,9 +5,9 @@
   "english": "sacred",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "耳(耳) (ěr, \"ear\") + 王(王) (wáng, \"king\") = ear of the king -> sacred",
-    "interpretation": "The character combines 耳(耳) (ěr, \"ear\") and 王(王) (wáng, \"king\") in its traditional form, symbolizing the concept of sacredness or holiness by alluding to a ruler who listens attentively.",
-    "simplification": "The traditional character 聖 was simplified to 圣 by removing the components 耳(耳) (ěr, \"ear\") and modifying the remaining part to retain phonetic and semantic elements in a more concise form."
+    "description": "semantic 耳(耳) (ěr, \"ear\") + phonetic 呈(呈) (chéng) -> listening closely like a sage -> sacred",
+    "interpretation": "The character 聖 (shèng) combines 耳(耳) (ěr, \"ear\") with 呈(呈) (chéng) to suggest the idea of paying close attention or being wise, like a sage discerning truth, which naturally relates to the concept of 'sacred' or 'holy'. Listening deeply conveys wisdom, a quality traditionally revered as sacred.",
+    "simplification": "The character 圣 is derived by removing the ear radical 耳 and taking elements from the original phonetic 呈 for simplification."
   },
   "parts": [
     {
@@ -17,28 +17,28 @@
       "english": "ear"
     },
     {
-      "char": "王",
-      "trad": "王",
-      "pinyin": "wáng",
-      "english": "king"
+      "char": "呈",
+      "trad": "呈",
+      "pinyin": "chéng",
+      "english": "to present"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座寺庙被视为圣地(這座寺廟被視為聖地)。",
-      "pinyin": "Zhè zuò sìmiào bèi shìwéi shèngdì.",
-      "english": "This temple is regarded as a sacred place."
+      "chinese": "那是一个神圣的地方(那是一個神聖的地方)。",
+      "pinyin": "Nà shì yī gè shén shèng de dì fāng.",
+      "english": "That is a sacred place."
     },
     {
-      "chinese": "她的微笑让人感受到一种圣洁的温暖(她的微笑讓人感受到一種聖潔的溫暖)。",
-      "pinyin": "Tā de wéixiào ràng rén gǎnshòudào yī zhǒng shèngjié de wēnnuǎn.",
-      "english": "Her smile evokes a sense of sacred warmth."
+      "chinese": "这个节日对他们来说非常神圣(這個節日對他們來說非常神聖)。",
+      "pinyin": "Zhè gè jié rì duì tā men lái shuō fēi cháng shén shèng.",
+      "english": "This festival is very sacred to them."
     },
     {
-      "chinese": "他在祈祷时虔诚地低语(他在祈禱時虔誠地低語)，心中充满圣意(心中充滿聖意)。",
-      "pinyin": "Tā zài qídǎo shí qiánchéng de dīyǔ, xīnzhōng chōngmǎn shèngyì.",
-      "english": "He whispered devoutly in prayer, his heart full of sacred intent."
+      "chinese": "他们在圣诞节庆祝团聚(他們在聖誕節慶祝團聚)。",
+      "pinyin": "Tā men zài shèng dàn jié qìng zhù tuán jù.",
+      "english": "They celebrate together during Christmas."
     }
   ]
 }

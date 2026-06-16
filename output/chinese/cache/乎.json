@@ -5,8 +5,8 @@
   "english": "exhale",
   "etymology": {
     "type": "ideogrammic compound and phono-semantic compound",
-    "description": "風(風) (fēng, \"wind; air\") + 丂(丂) (kǎo, \"branch\") = exhalation -> 呼(呼) (hū, \"call; cry\")",
-    "interpretation": "The character 乎(hū, \"exhale\") combines the semantic element of wind or air with the phonetic element 丂(kǎo, \"branch\"). These components together suggest the action of exhaling air, which relates to the ancient form of 呼(hū, \"call; cry\") emphasizing sound production involving breath.",
+    "description": "風 (風, \"wind; air\") + phonetic 丂 (since 乎 is phonetic for 呼) -> original form of 呼 (呼, \"to call; to cry\")",
+    "interpretation": "The character 乎(hū) originated as a combination of wind or air (風, \"wind; air\") with the phonetic component 丂, originally signifying an exhalation or utterance of breath. Over time, it became associated with 呼, capturing the idea of calling or crying with the breath.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "風",
       "trad": "風",
       "pinyin": "fēng",
-      "english": "wind"
+      "english": "wind; air"
     },
     {
-      "char": "丂",
-      "trad": "丂",
-      "pinyin": "kǎo",
-      "english": "branch"
+      "char": "呼",
+      "trad": "呼",
+      "pinyin": "hū",
+      "english": "to call; to cry"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他放下担子(他放下擔子)，呼乎吐气(呼乎吐氣)。",
-      "pinyin": "Tā fàngxià dānzi, hū tǔqì.",
-      "english": "He put down his burden and exhaled."
+      "chinese": "他大声喘气，像是用力吸进又吐出空气(他大聲喘氣，像是用力吸進又吐出空氣)。",
+      "pinyin": "Tā dàshēng chuǎnqì, xiàng shì yòng lì xī jìn yòu tǔ chū kōngqì.",
+      "english": "He breathed heavily, as if forcefully inhaling and exhaling air."
     },
     {
-      "chinese": "经过长久等待(經過長久等待)，他呼乎一口气(他呼乎一口氣)。",
-      "pinyin": "Jīngguò chángjiǔ děngdài, tā hū yīkǒu qì.",
-      "english": "After a long wait, he exhaled deeply."
+      "chinese": "她长舒了一口气，感到如释重负(她長舒了一口氣，感到如釋重負)。",
+      "pinyin": "Tā cháng shūle yī kǒuqì, gǎndào rúshìzhòngfù.",
+      "english": "She exhaled a long breath, feeling relieved."
+    },
+    {
+      "chinese": "运动后要学会正确地呼吸和吐气(運動後要學會正確地呼吸和吐氣)。",
+      "pinyin": "Yùndòng hòu yào xuéhuì zhèngquè de hūxī hé tǔqì.",
+      "english": "After exercising, one should learn to inhale and exhale correctly."
     }
   ]
 }

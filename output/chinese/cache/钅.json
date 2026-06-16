@@ -5,9 +5,9 @@
   "english": "metal",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "士 (upside-down ritual axe) + 呂 (two blocks of metal) + phonetic 亼 (open mouth indicating pronunciation) -> originally copper, later extended to metal and gold",
-    "interpretation": "The character 金(金) (jīn, 'metal') combines semantic components depicting materials related to ritual and blocks of metal, with a phonetic element 亼 (open mouth) indicating its original pronunciation. Over time, its meaning broadened from a specific type of metal, copper, to encompass all metals, including gold.",
-    "simplification": "The character 钅(釒) maintains the metal element 金(金) (jīn, 'metal'), reduced to 钅 to simplify writing."
+    "description": "semantic 士 (upside-down ritual axe) + semantic 呂 (two blocks of metal) + phonetic 亼 -> metal",
+    "interpretation": "The character 金 originally depicted precious materials like copper, used in the Copper Age, indicated by 士 (shì, 'upside-down ritual axe') and 呂 (lǚ, 'two blocks of metal'). The phonetic component 亼, representing an open mouth flipped upside down, provided the pronunciation. Over time, the term extended from copper to include all metals, and later specifically gold, as uses of metals expanded.",
+    "simplification": "The character 钅 is a simplified form derived from 金 by reducing the strokes for easier writing."
   },
   "parts": [
     {
@@ -24,22 +24,27 @@
     },
     {
       "char": "亼",
-      "trad": "今",
-      "pinyin": "jīn",
-      "english": "open mouth"
+      "trad": "亼",
+      "pinyin": "jī",
+      "english": "open mouth flipped upside down"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "钅在化学中代表金属(金在化學中代表金屬)。",
-      "pinyin": "Jīn zài huàxué zhōng dàibiǎo jīnshǔ.",
-      "english": "In chemistry, the symbol 钅 (金) represents metal."
+      "chinese": "这把刀是用精钢制成的(這把刀是用精鋼製成的)。",
+      "pinyin": "Zhè bǎ dāo shì yòng jīng gāng zhì chéng de.",
+      "english": "This knife is made of high-quality steel."
     },
     {
-      "chinese": "工匠利用钅打造精美的器皿(工匠利用金打造精美的器皿)，展示出传统工艺(展示出傳統工藝)。",
-      "pinyin": "Gōngjiàng lìyòng jīn dǎzào jīngměi de qìmǐn, zhǎnshì chū chuántǒng gōngyì.",
-      "english": "The artisan uses metal to craft exquisite vessels, showcasing traditional craftsmanship."
+      "chinese": "金属导电性很好(金屬導電性很好)。",
+      "pinyin": "Jīnshǔ dǎodiànxìng hěn hǎo.",
+      "english": "Metal conducts electricity well."
+    },
+    {
+      "chinese": "在古代，金被视为一种珍贵的金属(在古代，金被視為一種珍貴的金屬)。",
+      "pinyin": "Zài gǔdài, jīn bèi shì wéi yī zhǒng zhēnguì de jīnshǔ.",
+      "english": "In ancient times, gold was considered a precious metal."
     }
   ]
 }

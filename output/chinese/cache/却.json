@@ -2,38 +2,43 @@
   "simplified": "却",
   "traditional": "卻",
   "pinyin": "què",
-  "english": "phonetic",
+  "english": "retreat, refuse",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 卩(卩) (jié, 'seal') + phonetic: 去(去) (qù, 'to go') = signifies a systematic arrangement or placement with phonetic association -> retreat, decline",
-    "interpretation": "The character 却(卻) (què, 'retreat') combines the semantic element 卩(卩) (jié, 'seal'), indicating something official or systematic, with the phonetic element 去(去) (qù, 'to go'). This suggests an official or planned movement away, leading to the meaning 'retreat' or 'decline'.",
-    "simplification": ""
+    "description": "phonetic 𧮫 (jué) + semantic 卩 (seal) -> meaning",
+    "interpretation": "In 卻 (què, 'retreat, refuse'), the component 𧮫 (jué) provides the sound, while the semantic component 卩 (seal) suggests the notion of an official mark or boundary, conceptually linking to withholding or refusal as in retreating or rejecting an offer.",
+    "simplification": "却 is simplified by removing the 夬 component from 𧮫, resulting in a visually simpler form."
   },
   "parts": [
+    {
+      "char": "𧮫",
+      "trad": "𧮫",
+      "pinyin": "jué",
+      "english": "sound component (no distinct meaning in this context)"
+    },
     {
       "char": "卩",
       "trad": "卩",
       "pinyin": "jié",
       "english": "seal"
-    },
-    {
-      "char": "去",
-      "trad": "去",
-      "pinyin": "qù",
-      "english": "to go"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他努力学习(他努力學習)，却成绩不理想(卻成績不理想)。",
-      "pinyin": "Tā nǔlì xuéxí, què chéngjī bù lǐxiǎng.",
-      "english": "He studies hard, but his grades are unsatisfactory."
+      "chinese": "他想离开这个地方(他想離開這個地方)，却找不到出口(卻找不到出口)。",
+      "pinyin": "Tā xiǎng líkāi zhège dìfāng，què zhǎo bù dào chūkǒu。",
+      "english": "He wanted to leave this place, but couldn't find an exit."
     },
     {
-      "chinese": "她想去看戏(她想去看戲)，却没有时间(卻沒有時間)。",
-      "pinyin": "Tā xiǎng qù kàn xì, què méiyǒu shíjiān.",
-      "english": "She wanted to see the play, but she didn’t have time."
+      "chinese": "我递给他一杯水(我遞給他一杯水)，他却没有喝(他卻沒有喝)。",
+      "pinyin": "Wǒ dì gěi tā yī bēi shuǐ，tā què méiyǒu hē。",
+      "english": "I handed him a glass of water, but he didn't drink it."
+    },
+    {
+      "chinese": "虽然天气很冷(雖然天氣很冷)，他却仍然出去跑步(他卻仍然出去跑步)。",
+      "pinyin": "Suīrán tiānqì hěn lěng，tā què réngrán chūqù pǎobù。",
+      "english": "Although the weather was very cold, he still went out for a run."
     }
   ]
 }

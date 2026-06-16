@@ -5,8 +5,8 @@
   "english": "little sister; young girl",
   "etymology": {
     "type": "compound word",
-    "description": "小(小) (xiǎo, \"small\") denotes something small or little; 妹妹(妹妹) (mèimei, \"younger sister\") refers to a younger sister or a young girl. Together, 小妹妹 (xiǎomèimei) can mean 'little sister' or 'young girl', indicating youth or affection.",
-    "interpretation": "The combination of 小(小) (xiǎo, \"small\") and 妹妹(妹妹) (mèimei, \"younger sister\") creates a term of endearment or familiarity, often used to refer to a young girl or to address a younger sister.",
+    "description": "小(小) (xiǎo, \"small; little\") indicates size or age, commonly used to denote something smaller or younger. 妹妹(妹妹) (mèimei, \"younger sister\") specifically means a female sibling of a younger age. When combined, 小(小) (xiǎo, \"small; little\") modifies 妹妹(妹妹) (mèimei, \"younger sister\") to enhance the notion of youth or smallness. Together, 小妹妹 (xiǎomèimei) conveys the concept of a 'little sister' or 'young girl', emphasizing both diminutiveness and endearment commonly seen in referring to younger female individuals.",
+    "interpretation": "For 'little sister', 小(小) (xiǎo, \"small; little\") paired with 妹妹(妹妹) (mèimei, \"younger sister\") underlines both youth and affection, as the prefix is often used fondly to highlight a familial bond. For 'young girl', the use of 小(小) (xiǎo, \"small; little\") signifies general youthfulness, while 妹妹(妹妹) (mèimei, \"younger sister\") provides a familiar and tender context, often applying to any young female child in informal settings.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "妹妹",
       "trad": "妹妹",
       "pinyin": "mèimei",
-      "english": "younger sister; young girl"
+      "english": "younger sister"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我的小妹妹很可爱(我的小妹妹很可愛)。",
-      "pinyin": "Wǒ de xiǎomèimei hěn kě'ài.",
-      "english": "My little sister is very cute."
+      "chinese": "小妹妹(小妹妹)喜欢看卡通片。",
+      "pinyin": "Xiǎomèimei xǐhuān kàn kǎtōngpiàn.",
+      "english": "The little sister likes to watch cartoons."
     },
     {
-      "chinese": "小妹妹正在学习(小妹妹正在學習)，期待表现出色(期待表現出色)。",
-      "pinyin": "Xiǎomèimei zhèngzài xuéxí, qīdài biǎoxiàn chūsè.",
-      "english": "The little girl is studying and is eager to perform excellently."
+      "chinese": "小妹妹(小妹妹)在公园里玩耍(在公園裡玩耍)。",
+      "pinyin": "Xiǎomèimei zài gōngyuán lǐ wánshuǎ.",
+      "english": "The young girl is playing in the park."
     },
     {
-      "chinese": "在游乐场遇见了小妹妹(在遊樂場遇見了小妹妹)，大家都很开心(大家都很開心)。",
-      "pinyin": "Zài yóulèchǎng yùjiànle xiǎomèimei, dàjiā dōu hěn kāixīn.",
-      "english": "We met the little girl at the amusement park, and everyone was very happy."
+      "chinese": "她给小妹妹(她給小妹妹)买了一件漂亮的裙子(買了一件漂亮的裙子)。",
+      "pinyin": "Tā gěi xiǎomèimei mǎile yī jiàn piàoliang de qúnzi.",
+      "english": "She bought a beautiful dress for her little sister."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "rice dumpling",
   "etymology": {
     "type": "compound word",
-    "description": "粽(粽) (zòng, \"sticky rice wrapped in leaves\") and 子(子) (zi, \"child; small thing\") together mean a small bundle of sticky rice, which is typically wrapped in bamboo or reed leaves to form a dumpling.",
-    "interpretation": "粽子 (zòngzi, \"rice dumpling\") is a traditional Chinese food commonly eaten during the Dragon Boat Festival. Its shape and preparation symbolize unity and togetherness, as families often make and enjoy them together.",
+    "description": "粽(粽) (zòng, \"sticky rice wrapped in bamboo leaves\"), 子(子) (zi, \"child; small thing\")",
+    "interpretation": "粽(粽) (zòng, \"sticky rice wrapped in bamboo leaves\") refers directly to the traditional food item of sticky rice cooked in leaves. 子(子) (zi, \"child; small thing\") is often used in Chinese to denote a small or compact version of an object, essentially referring to a 'dumpling' or small parcel of food. Putting these together, 粽子 refers to the dish known as a rice dumpling, small packages of sticky rice encased in leaves, especially popular during the Dragon Boat Festival.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "粽",
       "trad": "粽",
       "pinyin": "zòng",
-      "english": "sticky rice wrapped in leaves"
+      "english": "sticky rice wrapped in bamboo leaves"
     },
     {
       "char": "子",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "端午节时家家户户都会包粽子(端午節時家家戶戶都會包粽子)。",
-      "pinyin": "Duān wǔ jié shí jiā jiā hù hù dōu huì bāo zòng zi.",
-      "english": "During the Dragon Boat Festival, every household makes rice dumplings."
+      "chinese": "端午节的时候(端午節的時候)，我们吃粽子(我們吃粽子)。",
+      "pinyin": "Duānwǔ jié de shíhòu, wǒmen chī zòngzi.",
+      "english": "During the Dragon Boat Festival, we eat rice dumplings."
     },
     {
-      "chinese": "妈妈做的粽子味道鲜美(媽媽做的粽子味道鮮美)。",
-      "pinyin": "Māmā zuò de zòng zi wèi dào xiān měi.",
-      "english": "The rice dumplings made by mom taste delicious."
+      "chinese": "她亲手包了很多粽子(她親手包了很多粽子)。",
+      "pinyin": "Tā qīnshǒu bāo le hěn duō zòngzi.",
+      "english": "She made many rice dumplings by hand."
+    },
+    {
+      "chinese": "粽子有甜的(粽子有甜的)，也有咸的(也有鹹的)。",
+      "pinyin": "Zòngzi yǒu tián de, yě yǒu xián de.",
+      "english": "Rice dumplings can be sweet or savory."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "pound sterling",
   "etymology": {
     "type": "compound word",
-    "description": "英(英) (yīng, \"England; heroic\") + 镑(鎊) (bàng, \"pound\") = pound sterling.",
-    "interpretation": "The term 英镑(英鎊) (yīngbàng, \"pound sterling\") combines the notion of \"England\" or \"English\" with \"pound,\" referring specifically to the British currency. The choice of 英(英) emphasizes the English origin of this monetary unit, while 镑(鎊) specifies the pound unit itself.",
+    "description": "英(英) (yīng, \"hero; outstanding; English\") is used here to refer to England or English, and by extension, the British currency. 鎊(镑) (bàng, \"pound\") refers specifically to the unit of currency known as the pound, marked by its symbol (£).",
+    "interpretation": "英(英) (yīng, \"hero; outstanding; English\") connects to England, thus linking to the British context, while 鎊(镑) (bàng, \"pound\") identifies the specific unit of British currency. Together, 英(英) (yīng, \"English\") and 鎊(镑) (bàng, \"pound\") form the term for the British currency, the pound sterling.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "英",
       "trad": "英",
       "pinyin": "yīng",
-      "english": "England; heroic; outstanding"
+      "english": "hero; outstanding; English"
     },
     {
       "char": "镑",
       "trad": "鎊",
       "pinyin": "bàng",
-      "english": "pound; currency"
+      "english": "pound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我花了五十英镑(我花了五十英鎊)。",
-      "pinyin": "Wǒ huā le wǔshí yīngbàng.",
-      "english": "I spent fifty pounds."
+      "chinese": "银行可以兑换英镑(銀行可以兌換英鎊)。",
+      "pinyin": "Yínháng kěyǐ duìhuàn yīngbàng.",
+      "english": "The bank can exchange pound sterling."
     },
     {
-      "chinese": "外汇市场波动大(外匯市場波動大)，英镑价值稳定(英鎊價值穩定)。",
-      "pinyin": "Wàihuì shìchǎng bōdòng dà, yīngbàng jiàzhí wěndìng.",
-      "english": "The foreign exchange market fluctuates greatly, but the pound sterling remains stable."
+      "chinese": "英镑的汇率今天上涨了(英鎊的匯率今天上漲了)。",
+      "pinyin": "Yīngbàng de huìlǜ jīntiān shàngzhǎng le.",
+      "english": "The exchange rate of pound sterling rose today."
+    },
+    {
+      "chinese": "我用英镑买了一些纪念品(我用英鎊買了一些紀念品)。",
+      "pinyin": "Wǒ yòng yīngbàng mǎi le yīxiē jìniànpǐn.",
+      "english": "I bought some souvenirs with pound sterling."
     }
   ]
 }

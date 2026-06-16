@@ -5,16 +5,16 @@
   "english": "China",
   "etymology": {
     "type": "compound word",
-    "description": "中(中) (zhōng, \"middle; center\") + 国(國) (guó, \"country; nation\") combines to mean a centrally situated country, often referred to as China. The notion of \"Middle Kingdom\" reflects historical views of China's position in the world.",
-    "interpretation": "China is perceived historically as the central nation, a view dating back to ancient times when Chinese civilization was considered the heart of the world.",
-    "simplification": "Simplified 中 and 國 to 中 and 国"
+    "description": "中(中) (zhōng, \"middle; central\") + 國(國) (guó, \"country; nation\") = 中國 refers to the central or middle kingdom, which is how China traditionally saw itself in relation to neighboring regions.",
+    "interpretation": "中(中) (zhōng, \"middle; central\") suggests being at the center. 國(國) (guó, \"country; nation\") refers to a state or territory. The combination 中國 originally signified the 'central country,' reflecting the cultural belief of being the center of civilization. Over time, this evolved into the name for the nation of China.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "中",
       "trad": "中",
       "pinyin": "zhōng",
-      "english": "middle; center"
+      "english": "middle; central"
     },
     {
       "char": "国",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我来自中国(我來自中國)。",
-      "pinyin": "Wǒ láizì Zhōngguó.",
-      "english": "I come from China."
+      "chinese": "中国(中國)是世界上人口最多的国家(是世界上人口最多的國家)。",
+      "pinyin": "Zhōngguó shì shìjiè shàng rénkǒu zuì duō de guójiā.",
+      "english": "China is the most populous country in the world."
     },
     {
-      "chinese": "中国经济迅速发展(中國經濟迅速發展)，吸引了世界目光(吸引了世界目光)。",
-      "pinyin": "Zhōngguó jīngjì xùnsù fāzhǎn, xīyǐnle shìjiè mùguāng.",
-      "english": "China's economy is rapidly developing, attracting global attention."
+      "chinese": "我计划明年去中国旅行(我計劃明年去中國旅行)。",
+      "pinyin": "Wǒ jìhuà míngnián qù zhōngguó lǚxíng.",
+      "english": "I plan to travel to China next year."
     },
     {
-      "chinese": "中国的风景壮丽(中國的風景壯麗)，历史悠久(歷史悠久)。",
-      "pinyin": "Zhōngguó de fēngjǐng zhuànglì, lìshǐ yōujiǔ.",
-      "english": "China has magnificent landscapes and a long history."
+      "chinese": "中国古代文化(中國古代文化)非常丰富(非常豐富)，吸引了很多学者(吸引了很多學者)来研究(來研究)。",
+      "pinyin": "Zhōngguó gǔdài wénhuà fēicháng fēngfù, xīyǐnle hěn duō xuézhě lái yánjiū.",
+      "english": "Ancient Chinese culture is very rich and has attracted many scholars to study it."
     }
   ]
 }

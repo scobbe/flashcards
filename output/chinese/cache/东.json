@@ -4,23 +4,53 @@
   "pinyin": "dōng",
   "english": "east",
   "etymology": {
-    "type": "pictogram",
-    "description": "Originally a pictogram of a bundle; simplified to 东 (dōng, \"east\") in cursive, mirroring 車 (chē, \"vehicle\") to 车",
-    "interpretation": "The character 東 originally depicted a bundle of objects tied together, visually symbolizing the concept of 'east' through its form. As writing evolved, the character was simplified to 东, following a similar reduction from 車 to 车. This simplification focused on retaining core visual elements while removing complexity.",
-    "simplification": "The simplification from 東 to 东 involved a reduction to a cursive shorthand form, parallel to 車 becoming 车."
+    "type": "ideogram",
+    "description": "束(束) (shù, 'bundle') or 橐(橐) (tuó, 'bag') borrowed for sound 東 (dōng), with horizontal stroke added as distinguishing mark; folk etymology ties it to sun (日) rising behind tree (木)",
+    "interpretation": "The character 東 (dōng, 'east') is linked to the idea of a 'bundle' or 'bag' for its sound, with the horizontal stroke added to differentiate it from similar forms. The interpretation that involves the sun rising behind a tree is regarded as a folk etymology, reflecting an imaginative explanation rather than a historical derivation. The conceptual link to 'east' remains phonetic, not built from the bundle or bag concept.",
+    "simplification": "The character 東 was simplified to 东 by adopting a cursive script variant that aligns visually with 車 → 车."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "束",
+      "trad": "束",
+      "pinyin": "shù",
+      "english": "bundle"
+    },
+    {
+      "char": "橐",
+      "trad": "橐",
+      "pinyin": "tuó",
+      "english": "bag"
+    },
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
       "chinese": "太阳从东边升起(太陽從東邊升起)。",
-      "pinyin": "Tàiyáng cóng dōngbiān shēngqǐ.",
+      "pinyin": "Tàiyáng cóng dōng biān shēng qǐ.",
       "english": "The sun rises from the east."
     },
     {
-      "chinese": "风从东面吹来(風從東面吹來)。",
-      "pinyin": "Fēng cóng dōngmiàn chuī lái.",
-      "english": "The wind blows from the east."
+      "chinese": "我们学校在城市的东部(我們學校在城市的東部)。",
+      "pinyin": "Wǒmen xuéxiào zài chéngshì de dōng bù.",
+      "english": "Our school is in the eastern part of the city."
+    },
+    {
+      "chinese": "他一直向东走(他一直向東走)，直到看到大海(直到看到大海)。",
+      "pinyin": "Tā yīzhí xiàng dōng zǒu, zhídào kàn dào dàhǎi.",
+      "english": "He kept walking east until he saw the ocean."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "unknown",
   "etymology": {
     "type": "Han compound",
-    "description": "直 (meaning \"looking forward\") + 心 (meaning \"heart, mind\") = combination representing an emotional or mental state associated with looking forward",
-    "interpretation": "The character 𢛳 combines 直 (zhí, \"looking forward\") with 心 (xīn, \"heart, mind\") to depict an emotional or cognitive state of anticipation or forward-thinking. Although not used directly in the character 德 (dé, \"virtue\"), 𢛳 aligns with the notion of intention and mental focus within the context of virtue.",
+    "description": "直 (\"looking forward\") + 心 (\"heart, mind\") -> semantic components forming the original character",
+    "interpretation": "The character 𢛳 originally combines 直 (zhí, \"looking forward\") indicating steadfastness and 心 (xīn, \"heart, mind\") representing the location of virtue and conscience, emphasizing a forward-looking mindset or virtue stemming from the heart. It served as an intermediate form for 德 (dé, \"virtue\") before evolving into the standard character.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,13 @@
       "char": "心",
       "trad": "心",
       "pinyin": "xīn",
-      "english": "heart, mind"
+      "english": "heart; mind"
+    },
+    {
+      "char": "德",
+      "trad": "德",
+      "pinyin": "dé",
+      "english": "virtue"
     }
   ],
   "in_contemporary_usage": false,

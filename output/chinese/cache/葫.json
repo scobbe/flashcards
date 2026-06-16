@@ -5,8 +5,8 @@
   "english": "bottle gourd",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, \"grass\") + 胡(胡) (hú, \"foreign\") = plant associated with the phonetic sound of hú -> bottle gourd",
-    "interpretation": "The character 葫(hú, \"bottle gourd\") combines 艸(艸) (cǎo, \"grass\") for the semantic element, indicating its connection to plants, with 胡(胡) (hú, \"foreign\") as the phonetic component. This suggests the word likely describes a type of gourd or plant with a similar sounding name, harnessing 胡's phonetic properties.",
+    "description": "semantic 艸(艸) (cǎo, \"grass\") + phonetic 胡(胡) (hú) -> related to plants, referencing the bottle gourd",
+    "interpretation": "The character 葫 (hú, \"bottle gourd\") combines the 艸(艸) (cǎo, \"grass\") component, indicating a plant, with the phonetic 胡(胡) (hú), which provides the sound. The connection with vegetation through 艸, coupled with a matching sound from 胡, refers to the bottle gourd, a type of plant.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "胡",
       "trad": "胡",
       "pinyin": "hú",
-      "english": "foreign"
+      "english": "to cry out"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在集市上买了一个精美的葫(我在集市上買了一個精美的葫)，打算用来制作乐器(打算用來製作樂器)。",
-      "pinyin": "Wǒ zài jíshì shàng mǎile yīgè jīngměi de hú, dǎsuàn yòng lái zhìzuò yuèqì。",
-      "english": "I bought a fine bottle gourd at the market, and I plan to use it to make musical instruments."
+      "chinese": "他的花园里有许多葫芦(他的花園裡有許多葫蘆)。",
+      "pinyin": "Tā de huāyuán lǐ yǒu xǔduō húlu.",
+      "english": "There are many bottle gourds in his garden."
     },
     {
-      "chinese": "园中长出一个大葫(園中長出一個大葫)，吸引了无数目光(吸引了無數目光)。",
-      "pinyin": "Yuán zhōng cháng chū yīgè dà hú, xīyǐnle wúshù mùguāng。",
-      "english": "A large bottle gourd grew in the garden, attracting countless gazes."
+      "chinese": "我们用葫芦做了一个灯笼(我們用葫蘆做了一個燈籠)。",
+      "pinyin": "Wǒmen yòng húlu zuòle yī gè dēnglóng.",
+      "english": "We made a lantern out of a bottle gourd."
+    },
+    {
+      "chinese": "葫芦不仅可以食用，还可以用来装饰(葫蘆不僅可以食用，還可以用來裝飾)。",
+      "pinyin": "Húlu bùjǐn kěyǐ shíyòng, hái kěyǐ yòng lái zhuāngshì.",
+      "english": "Bottle gourds can be eaten as well as used for decoration."
     }
   ]
 }

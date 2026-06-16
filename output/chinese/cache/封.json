@@ -5,8 +5,8 @@
   "english": "seal; close",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 土(土) (tǔ, \"earth\") + phonetic: 封(封) (fēng) = covering with earth to close -> seal; close",
-    "interpretation": "The character 封(封) (fēng) combines the semantic component 土(土) (tǔ, \"earth\"), suggesting covering or enclosing something, with a phonetic component to convey the sound. It evokes the idea of sealing or closing something, like covering with earth.",
+    "description": "semantic 土(土) (tǔ, \"dirt\") + phonetic 丰(豐) (fēng, \"seedling\") + semantic 寸(寸) (cùn, \"hand\") -> marking boundaries with seedlings -> seal; close",
+    "interpretation": "The character combines 丰(豐) (fēng, \"seedling\") as a phonetic element suggesting the sound, and 土(土) (tǔ, \"dirt\") and 寸(寸) (cùn, \"hand\") as semantic elements. The combination symbolizes marking a boundary by planting seedlings in the ground, which is a way of sealing or enclosing an area. This concept naturally extends to sealing or closing something.",
     "simplification": ""
   },
   "parts": [
@@ -14,20 +14,37 @@
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
-      "english": "earth"
+      "english": "dirt"
+    },
+    {
+      "char": "豐",
+      "trad": "豐",
+      "pinyin": "fēng",
+      "english": "seedling"
+    },
+    {
+      "char": "寸",
+      "trad": "寸",
+      "pinyin": "cùn",
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他封了信(他封了信)。",
-      "pinyin": "Tā fēng le xìn.",
-      "english": "He sealed the letter."
+      "chinese": "他亲手封好信封(他親手封好信封)。",
+      "pinyin": "Tā qīnshǒu fēng hǎo xìnfēng.",
+      "english": "He personally sealed the envelope."
     },
     {
-      "chinese": "收到信后(收到信後)，他们封好包裹(他們封好包裹)。",
-      "pinyin": "Shōu dào xìn hòu, tāmen fēng hǎo bāoguǒ.",
-      "english": "After receiving the letter, they sealed the package."
+      "chinese": "我们需要把窗户封住(我們需要把窗戶封住)，以防寒风进入(以防寒風進入)。",
+      "pinyin": "Wǒmen xūyào bǎ chuānghù fēng zhù, yǐ fáng hánfēng jìnrù.",
+      "english": "We need to seal the windows to prevent the cold wind from entering."
+    },
+    {
+      "chinese": "信件已经被谨慎地密封(信件已經被謹慎地密封)。",
+      "pinyin": "Xìnjiàn yǐjīng bèi jǐnshèn de mìfēng.",
+      "english": "The letter has been carefully sealed."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "bottle opener",
   "etymology": {
     "type": "compound word",
-    "description": "開(開) (kāi, \"open\") + 瓶(瓶) (píng, \"bottle\") + 器(器) (qì, \"tool\") = a tool for opening bottles.",
-    "interpretation": "The word 開瓶器(開瓶器) (kāipíngqì, \"bottle opener\") makes sense because it is a tool specifically designed for the purpose of opening bottles. This straightforward combination of meanings captures the functionality of the object in a direct manner.",
+    "description": "開(開) (kāi, \"open\") refers to the act of opening something, which is a core function of the tool in question. 瓶(瓶) (píng, \"bottle\") is the object specifically being opened. 器(器) (qì, \"tool; device\") signifies an instrument or implement used to carry out a task. Together, these characters convey the meaning of a device specifically designed for opening bottles.",
+    "interpretation": "開(開) (kāi, \"open\") describes the function of the tool, which involves removing a cap or seal. 瓶(瓶) (píng, \"bottle\") specifies the item to be opened, focusing the application of the tool. 器(器) (qì, \"tool; device\") denotes that it is a device crafted for such a purpose. Together, they imply a functional device for the specific action of opening bottles.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "开",
       "trad": "開",
       "pinyin": "kāi",
-      "english": "open"
+      "english": "open; start"
     },
     {
       "char": "瓶",
@@ -26,25 +26,25 @@
       "char": "器",
       "trad": "器",
       "pinyin": "qì",
-      "english": "tool; device; utensil; implement"
+      "english": "tool; device; instrument"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他拿起开瓶器(他拿起開瓶器)，轻松打开啤酒(輕鬆打開啤酒)。",
-      "pinyin": "Tā ná qǐ kāipíngqì, qīngsōng dǎkāi píjiǔ.",
-      "english": "He picked up the bottle opener and easily opened the beer."
+      "chinese": "我需要一个开瓶器(我需要一個開瓶器)。",
+      "pinyin": "Wǒ xūyào yī gè kāipíngqì.",
+      "english": "I need a bottle opener."
     },
     {
-      "chinese": "厨师使用开瓶器(廚師使用開瓶器)，准备晚餐(準備晚餐)。",
-      "pinyin": "Chúshī shǐyòng kāipíngqì, zhǔnbèi wǎncān.",
-      "english": "The chef used the bottle opener to prepare dinner."
+      "chinese": "厨房抽屉里有开瓶器(廚房抽屜裡有開瓶器)。",
+      "pinyin": "Chúfáng chōutì lǐ yǒu kāipíngqì.",
+      "english": "There is a bottle opener in the kitchen drawer."
     },
     {
-      "chinese": "在野餐时(在野餐時)，开瓶器很有用(開瓶器很有用)。",
-      "pinyin": "Zài yěcān shí, kāipíngqì hěn yǒuyòng.",
-      "english": "At the picnic, the bottle opener was very useful."
+      "chinese": "她用开瓶器打开了饮料(她用開瓶器打開了飲料)。",
+      "pinyin": "Tā yòng kāipíngqì dǎkāi le yǐnliào.",
+      "english": "She opened the drink with a bottle opener."
     }
   ]
 }

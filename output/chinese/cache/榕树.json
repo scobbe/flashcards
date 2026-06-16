@@ -5,8 +5,8 @@
   "english": "banyan tree",
   "etymology": {
     "type": "compound word",
-    "description": "榕(榕) (róng, \"banyan\"), 树(樹) (shù, \"tree\")",
-    "interpretation": "榕树(榕樹) (róngshù, \"banyan tree\") refers specifically to a type of tree known for its expansive roots and ability to grow in various shapes and forms. Banyan trees are significant in many cultures and landscapes, known for providing ample shade and often growing to impressive sizes.",
+    "description": "榕(榕) (róng, \"banyan\") refers specifically to the banyan tree, known for its sprawling branches and large canopy. 樹(樹) (shù, \"tree\") is a general term for tree, representing the plant form.",
+    "interpretation": "榕(榕) (róng, \"banyan\") directly indicates the banyan tree, a species known for its unique root system and broad coverage. 樹(樹) (shù, \"tree\") places it in the broader category of trees as a natural organism; together, they clearly specify the type of tree being referred to as a banyan.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "村子里有一棵古老的榕树(村子裡有一棵古老的榕樹)。",
-      "pinyin": "Cūnzi lǐ yǒu yī kē gǔlǎo de róngshù.",
-      "english": "There is an ancient banyan tree in the village."
+      "chinese": "榕树(榕樹)长寿而强壮。",
+      "pinyin": "Róngshù chángshòu ér qiángzhuàng.",
+      "english": "The banyan tree is long-lived and strong."
     },
     {
-      "chinese": "公园里有榕树(公園裡有榕樹)，供人乘凉(供人乘涼)。",
-      "pinyin": "Gōngyuán lǐ yǒu róngshù, gōng rén chéngliáng.",
-      "english": "There are banyan trees in the park, providing shade for people."
-    },
-    {
-      "chinese": "大榕树下人们聚集(大榕樹下人們聚集)，谈天说地(談天說地)。",
-      "pinyin": "Dà róngshù xià rénmen jùjí, tán tiān shuō dì.",
-      "english": "Under the large banyan tree, people gather and chat about everything."
+      "chinese": "在老家(在老家)，村口有一棵榕树(村口有一棵榕樹)。",
+      "pinyin": "Zài lǎojiā, cūnkǒu yǒu yī kē róngshù.",
+      "english": "In my hometown, there is a banyan tree at the entrance of the village."
     }
   ]
 }

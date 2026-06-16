@@ -5,8 +5,8 @@
   "english": "rock sugar pear drink",
   "etymology": {
     "type": "compound word",
-    "description": "冰(冰) (bīng, \"ice\"), 糖(糖) (táng, \"sugar\"), 雪(雪) (xuě, \"snow\"), 梨(梨) (lí, \"pear\")",
-    "interpretation": "冰糖雪梨 (bīng táng xuě lí) refers to a sweet beverage made from pears and rock sugar, often served cold or chilled. The name suggests a refreshing, cooling drink, where 'ice' implies its temperature, 'sugar' its sweetness, 'snow' its purity, and 'pear' its main flavor. It is commonly used for its soothing effects, especially for sore throats and dry coughs.",
+    "description": "冰(冰) (bīng, \"ice\") + 糖(糖) (táng, \"sugar\") + 雪(雪) (xuě, \"snow\") + 梨(梨) (lí, \"pear\")",
+    "interpretation": "冰(冰) (bīng, \"ice\") suggests coldness or something refreshing, setting the context for a chilled drink. 糖(糖) (táng, \"sugar\") refers to sweetness, specifically the use of rock sugar which is less refined and often used in traditional Chinese cuisine for milder sweetness. 雪(雪) (xuě, \"snow\") symbolizes purity and the idea of freshness, aligning with the cooling effect of the drink. 梨(梨) (lí, \"pear\") provides the main flavor component, indicating that the drink is pear-based. Combining these elements, 冰糖雪梨 refers to a refreshing beverage made of pear, typically sweetened with rock sugar, served cold to enhance its cooling effect.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,19 @@
       "char": "冰",
       "trad": "冰",
       "pinyin": "bīng",
-      "english": "ice"
+      "english": "ice; frost; chill; cold"
     },
     {
       "char": "糖",
       "trad": "糖",
       "pinyin": "táng",
-      "english": "sugar"
+      "english": "sugar; candy; sweet"
     },
     {
       "char": "雪",
       "trad": "雪",
       "pinyin": "xuě",
-      "english": "snow"
+      "english": "snow; snowy; wipe away"
     },
     {
       "char": "梨",
@@ -38,19 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "冰糖雪梨是一种受欢迎的清凉饮品(冰糖雪梨是一種受歡迎的清涼飲品)。",
-      "pinyin": "bīng táng xuě lí shì yī zhǒng shòu huān yíng de qīng liáng yǐn pǐn.",
-      "english": "Rock sugar pear drink is a popular refreshing beverage."
+      "chinese": "冰糖雪梨(冰糖雪梨)是一种清凉的饮品(是一種清涼的飲品)。",
+      "pinyin": "Bīngtáng xuělí shì yī zhǒng qīngliáng de yǐnpǐn.",
+      "english": "Rock sugar pear drink is a refreshing beverage."
     },
     {
-      "chinese": "冬天里喝冰糖雪梨可以暖胃(冬天裡喝冰糖雪梨可以暖胃)，帮助驱寒(幫助驅寒)。",
-      "pinyin": "dōng tiān lǐ hē bīng táng xuě lí kě yǐ nuǎn wèi, bāng zhù qū hán.",
-      "english": "Drinking rock sugar pear drink in winter can warm the stomach and help dispel chill."
+      "chinese": "我喜欢在夏天喝冰糖雪梨(我喜歡在夏天喝冰糖雪梨)。",
+      "pinyin": "Wǒ xǐhuān zài xiàtiān hē bīngtáng xuělí.",
+      "english": "I like to drink rock sugar pear drink in the summer."
     },
     {
-      "chinese": "冰糖雪梨不仅解渴(冰糖雪梨不僅解渴)，还能润燥(還能潤燥)。",
-      "pinyin": "bīng táng xuě lí bù jǐn jiě kě, hái néng rùn zào.",
-      "english": "Rock sugar pear drink not only quenches thirst but also moisturizes dryness."
+      "chinese": "冰糖雪梨(冰糖雪梨)常用于润喉止咳(常用於潤喉止咳)。",
+      "pinyin": "Bīngtáng xuělí cháng yòng yú rùn hóu zhǐ ké.",
+      "english": "Rock sugar pear drink is often used to soothe the throat and relieve coughing."
     }
   ]
 }

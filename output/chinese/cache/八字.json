@@ -5,8 +5,8 @@
   "english": "the Eight Characters used in Chinese fate analysis",
   "etymology": {
     "type": "compound word",
-    "description": "八(八) (bā, \"eight\") and 字(字) (zì, \"character\") together refer to \"Eight Characters,\" which are used in Chinese fate analysis.",
-    "interpretation": "In traditional Chinese culture, 八字 (八字) (bāzì, \"Eight Characters\") refers to the eight characters that represent a person's birth date and time. Each pair of characters corresponds to one aspect of the heavenly stems and earthly branches system used in astrology. These characters are central to traditional Chinese divination and the practice of Bazi or 'Four Pillars of Destiny,' which is used for predicting a person's fate and character.",
+    "description": "八(八) (bā, \"eight\") + 字(字) (zì, \"character\") together refer to a set of eight characters used in Chinese metaphysics and fate analysis, specifically in the Ba-Zi system.",
+    "interpretation": "The term 八字 (bā zì, \"eight characters\") directly refers to the eight characters that are derived from a person's birth date and time. These eight characters are used in the Ba-Zi system of astrology and fate analysis, where each pair of characters represents the heavenly stem and earthly branch for the year, month, day, and hour of a person's birth. This system is employed to provide insights into one's personality and destiny by analyzing the cyclical patterns of these characters.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "字",
       "trad": "字",
       "pinyin": "zì",
-      "english": "character; word; letter; symbol"
+      "english": "character; word"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "八字能够反映个人命运(八字能夠反映個人命運)。",
-      "pinyin": "bā zì nénggòu fǎnyìng gèrén mìngyùn。",
-      "english": "The Eight Characters can reflect an individual's fate."
+      "chinese": "她去找算命师傅看八字(她去找算命師傅看八字)。",
+      "pinyin": "Tā qù zhǎo suànmìng shīfù kàn bā zì.",
+      "english": "She went to see a fortune teller to analyze her Eight Characters."
     },
     {
-      "chinese": "老道师傅以八字断人未来(老道師傅以八字斷人未來)，传授秘诀(傳授祕訣)。",
-      "pinyin": "lǎo dào shīfù yǐ bā zì duàn rén wèilái, chuánshòu mìjué。",
-      "english": "The venerable master uses the Eight Characters to determine one's future and imparts secret techniques."
+      "chinese": "通过八字可以预测一个人的命运(通過八字可以預測一個人的命運)。",
+      "pinyin": "Tōngguò bā zì kěyǐ yùcè yīgè rén de mìngyùn.",
+      "english": "Through the Eight Characters, one can predict a person's fate."
+    },
+    {
+      "chinese": "他们在讨论婚配时常常用到八字(他們在討論婚配時常常用到八字)。",
+      "pinyin": "Tāmen zài tǎolùn hūnpèi shí chángcháng yòng dào bā zì.",
+      "english": "They often use the Eight Characters when discussing marriage compatibility."
     }
   ]
 }

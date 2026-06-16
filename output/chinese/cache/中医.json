@@ -5,8 +5,8 @@
   "english": "Chinese medicine",
   "etymology": {
     "type": "compound word",
-    "description": "中(中) (zhōng, \"central\") + 医(醫) (yī, \"medicine\") = central or traditional medicine of China -> Chinese medicine",
-    "interpretation": "中醫(中医) (zhōngyī, \"Chinese medicine\") refers to the traditional medical practices originating from China. It is based on thousands of years of Chinese medical thought, incorporating practices like acupuncture, herbal medicine, and qigong. The term emphasizes its roots as the central or foundational system of medicine within Chinese culture.",
+    "description": "中(中) (zhōng, \"middle\") refers to central or middle, often alluding to the idea of China being the 'Middle Kingdom'. 醫(醫) (yī, \"medicine\") refers to the practice or profession concerned with maintaining health and treating diseases.",
+    "interpretation": "中(中) (zhōng, \"middle\") suggests the central or original place where this medical practice originated, implying its association with China. 醫(醫) (yī, \"medicine\") directly denotes the practice of medicine. Together, 中醫(中醫) (zhōngyī, \"Chinese medicine\") refers specifically to the traditional practices and methodologies of medicine developed in China.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "中",
       "trad": "中",
       "pinyin": "zhōng",
-      "english": "central; middle; internal"
+      "english": "middle; central; center; China"
     },
     {
       "char": "医",
       "trad": "醫",
       "pinyin": "yī",
-      "english": "medicine; healing; doctor"
+      "english": "medicine; doctor; medical service; cure"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "中医很好(中醫很好)。",
-      "pinyin": "zhōngyī hěn hǎo.",
-      "english": "Chinese medicine is very good."
+      "chinese": "中医(中醫)注重整体观念(注重整體觀念)。",
+      "pinyin": "Zhōngyī zhùzhòng zhěngtǐ guānniàn.",
+      "english": "Chinese medicine emphasizes a holistic approach."
     },
     {
-      "chinese": "许多人依赖中医(許多人依賴中醫)，因为它讲究整体调理(因為它講究整體調理)。",
-      "pinyin": "xǔduō rén yīlài zhōngyī, yīnwèi tā jiǎngjiù zhěngtǐ tiáolǐ.",
-      "english": "Many people rely on Chinese medicine because it emphasizes holistic regulation."
+      "chinese": "很多人都相信中医(很多人都相信中醫)，因为它有几千年的历史(因為它有幾千年的歷史)。",
+      "pinyin": "Hěnduō rén dōu xiāngxìn zhōngyī, yīnwèi tā yǒu jǐ qiān nián de lìshǐ.",
+      "english": "Many people trust Chinese medicine because it has thousands of years of history."
     },
     {
-      "chinese": "现代医学与中医(現代醫學與中醫)，互补治疗多种疾病(互補治療多種疾病)。",
-      "pinyin": "xiàndài yīxué yǔ zhōngyī, hùbǔ zhìliáo duōzhǒng jíbìng.",
-      "english": "Modern medicine and Chinese medicine complement each other in treating various diseases."
+      "chinese": "她在学习中医(她在學習中醫)，希望帮助更多人(希望幫助更多人)。",
+      "pinyin": "Tā zài xuéxí zhōngyī, xīwàng bāngzhù gèng duō rén.",
+      "english": "She is studying Chinese medicine, hoping to help more people."
     }
   ]
 }

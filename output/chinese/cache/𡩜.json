@@ -2,14 +2,27 @@
   "simplified": "𡩜",
   "traditional": "𡩜",
   "pinyin": "xiàn",
-  "english": "phonetic component",
+  "english": "favor, grace",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a simple structure representing a phonetic component, often used in other characters to provide sound.",
-    "interpretation": "The character 𡩜 (xiàn) serves primarily as a phonetic component without a standalone meaning, often used in combination with other semantic radicals to form new characters. Its structure is simple and designed to be easily integrated into more complex characters.",
+    "type": "phono-semantic compound",
+    "description": "semantic 宀 (roof) + phonetic 豊 (favorable sound) -> favor, grace",
+    "interpretation": "The character 𡩜 combines 宀 (mián, \"roof\"), which suggests a sheltered or protective context, with the phonetic component 豊 (fēng, \"abundant\"). This construction implies an idea of abundance or favor bestowed under protection, leading to the meaning \"favor, grace.\"",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof"
+    },
+    {
+      "char": "豊",
+      "trad": "豊",
+      "pinyin": "fēng",
+      "english": "abundant"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "卻",
+  "traditional": "卻",
+  "pinyin": "què",
+  "english": "however",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 𧮫 (jué) + semantic 卩 (seal) -> que sound with idea of sealing, blocking -> however",
+    "interpretation": "The character 卻 (què, 'however') combines the phonetic element 𧮫 (jué) to indicate the pronunciation and the semantic element 卩 (seal) which traditionally conveys the idea of sealing or blockading. This conveys the sense of blocking or negating expectations, resulting in the meaning 'however'.",
+    "simplification": "却 is a simplified variant of 卻, retaining the phonetic and semantic elements while reducing stroke complexity."
+  },
+  "parts": [
+    {
+      "char": "𧮫",
+      "trad": "𧮫",
+      "pinyin": "jué",
+      "english": "phonetic component"
+    },
+    {
+      "char": "卩",
+      "trad": "卩",
+      "pinyin": "jié",
+      "english": "seal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他努力工作(他努力工作)，却未能成功(卻未能成功)。",
+      "pinyin": "Tā nǔlì gōngzuò, què wèinéng chénggōng.",
+      "english": "He worked hard, however, he couldn't succeed."
+    },
+    {
+      "chinese": "我很累(我很累)，却无法入睡(卻無法入睡)。",
+      "pinyin": "Wǒ hěn lèi, què wúfǎ rùshuì.",
+      "english": "I am very tired, however, I can't fall asleep."
+    },
+    {
+      "chinese": "她答应了(她答應了)，却没有出现(卻沒有出現)。",
+      "pinyin": "Tā dāyìng le, què méiyǒu chūxiàn.",
+      "english": "She agreed, however, she didn't show up."
+    }
+  ]
+}

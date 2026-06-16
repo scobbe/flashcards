@@ -5,8 +5,8 @@
   "english": "kung fu",
   "etymology": {
     "type": "compound word",
-    "description": "功(功) (gōng, \"achievement; skill\") + 夫(夫) (fū, \"man; master\") = skill or art of a master, referring to martial arts or any skill acquired with effort and patience.",
-    "interpretation": "The term 功夫(功夫) (gōngfu) initially referred to any skilled practice requiring time and dedication. Today, it is broadly associated with Chinese martial arts, highlighting the mastery and effort involved.",
+    "description": "功(功) (gōng, \"achievement; work\") + 夫(夫) (fū, \"man; husband\") = skill developed through work -> martial arts",
+    "interpretation": "功(功) (gōng, \"achievement\") refers to the effort and work one puts into mastering a particular skill. 夫(夫) (fū, \"man\") can imply the idea of a person or practitioner. \"功夫\" (gōngfu) therefore signifies the result of hard work and persistent practice leading to skill and expertise. While often associated with martial arts, these components initially suggested any skill or merit achieved through time and effort. Over time, it became most closely associated with Chinese martial arts, hence 'kung fu'.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "功",
       "trad": "功",
       "pinyin": "gōng",
-      "english": "achievement; skill"
+      "english": "achievement; work"
     },
     {
       "char": "夫",
       "trad": "夫",
       "pinyin": "fū",
-      "english": "man; master"
+      "english": "man; husband"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他练功夫(他練功夫)。",
-      "pinyin": "Tā liàn gōngfu.",
-      "english": "He practices kung fu."
+      "chinese": "学习功夫需要很多时间(學習功夫需要很多時間)。",
+      "pinyin": "Xuéxí gōngfu xūyào hěn duō shíjiān.",
+      "english": "Learning kung fu requires a lot of time."
     },
     {
-      "chinese": "他练习功夫(他練習功夫)，追求内心平静(追求內心平靜)。",
-      "pinyin": "Tā liànxí gōngfu, zhuīqiú nèixīn píngjìng.",
-      "english": "He practices kung fu, pursuing inner peace."
+      "chinese": "他的功夫很厉害(他的功夫很厲害)。",
+      "pinyin": "Tā de gōngfu hěn lìhai.",
+      "english": "His kung fu is very impressive."
     },
     {
-      "chinese": "学好功夫(學好功夫)，可以提高自信(可以提高自信)。",
-      "pinyin": "Xué hǎo gōngfu, kěyǐ tígāo zìxìn.",
-      "english": "Mastering kung fu can boost self-confidence."
+      "chinese": "我们可以在公园里练功夫(我們可以在公園裡練功夫)。",
+      "pinyin": "Wǒmen kěyǐ zài gōngyuán lǐ liàn gōngfu.",
+      "english": "We can practice kung fu in the park."
     }
   ]
 }

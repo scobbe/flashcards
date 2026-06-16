@@ -5,8 +5,8 @@
   "english": "season",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "禾(禾) (hé, \"grain\") + 子(子) (zǐ, \"child\") = final part of harvest -> season",
-    "interpretation": "The character 季(季) reflects the concept of harvesting, with 禾(禾) representing grain and 子(子) symbolizing the completion or offspring, conveying the idea of the end of a season when grains mature.",
+    "description": "禾(禾) (hé, \"grain\") + 子(子) (zǐ, \"child\") = grain producing offspring -> season",
+    "interpretation": "The character 季 represents the growth cycle of crops yielding new life, symbolized by grain (禾) producing offspring (子), thereby conveying the idea of a 'season' as a time for specific agricultural activities.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春季是万物复苏的时候(春季是萬物復蘇的時候)。",
-      "pinyin": "Chūnjì shì wànwù fùsū de shíhòu.",
-      "english": "Spring season is when all things begin to revive."
+      "chinese": "秋天是一个美丽的季节(秋天是一個美麗的季節)。",
+      "pinyin": "Qiūtiān shì yī gè měilì de jìjié.",
+      "english": "Autumn is a beautiful season."
     },
     {
-      "chinese": "每个季都有独特的魅力(每個季都有獨特的魅力)。",
-      "pinyin": "Měi gè jì dōu yǒu dútè de mèilì.",
-      "english": "Every season has its unique charm."
+      "chinese": "每个季节都有不同的颜色(每個季節都有不同的顏色)。",
+      "pinyin": "Měi gè jìjié dōu yǒu bùtóng de yánsè.",
+      "english": "Each season has different colors."
     },
     {
-      "chinese": "夏季来了(夏季來了)，人们纷纷走出家门(人們紛紛走出家門)。",
-      "pinyin": "Xià jì lái le, rénmen fēnfēn zǒuchū jiāmén.",
-      "english": "Summer has arrived, and people are rushing out of their homes."
+      "chinese": "春季温暖(春季溫暖)，适合种植(適合種植)。",
+      "pinyin": "Chūn jì wēnnuǎn, shìhé zhòngzhí.",
+      "english": "Spring is warm, suitable for planting."
     }
   ]
 }

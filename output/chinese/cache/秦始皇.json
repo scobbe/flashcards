@@ -5,41 +5,46 @@
   "english": "Qin Shi Huang (first emperor of Qin)",
   "etymology": {
     "type": "compound word",
-    "description": "秦(秦) (Qín, \"Qin\") refers to the Qin state, which was one of the warring states in ancient China. 始(始) (shǐ, \"beginning\") indicates the notion of beginning or being the first. 皇(皇) (huáng, \"emperor\") signifies an emperor or sovereign. Together, 秦始皇(Qín Shǐhuáng) refers to the first emperor of the unified China under the Qin dynasty.",
-    "interpretation": "秦始皇(Qín Shǐhuáng), or Emperor Qin Shi Huang, is renowned for being the first emperor to unify China in 221 BCE. His rule marked the foundation of imperial China, and he is famed for monumental projects like the initial construction of the Great Wall.",
+    "description": "秦(秦) (qín, \"Qin dynasty\") + 始(始) (shǐ, \"beginning\") + 皇(皇) (huáng, \"emperor\")",
+    "interpretation": "秦(秦) (qín, \"Qin dynasty\") refers to the state and dynasty that ultimately unified China. 始(始) (shǐ, \"beginning\") marks the commencement of the imperial rule under the unification. 皇(皇) (huáng, \"emperor\") indicates the supreme ruler. Together, the title 秦始皇 (Qín Shǐhuáng) identifies the first emperor of the Qin dynasty, who began the imperial era by centralizing power.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "秦",
       "trad": "秦",
-      "pinyin": "Qín",
-      "english": "Qin"
+      "pinyin": "qín",
+      "english": "Qin dynasty"
     },
     {
       "char": "始",
       "trad": "始",
       "pinyin": "shǐ",
-      "english": "beginning; first"
+      "english": "beginning; to start"
     },
     {
       "char": "皇",
       "trad": "皇",
       "pinyin": "huáng",
-      "english": "emperor; sovereign"
+      "english": "emperor; royal; majestic"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秦始皇统一六国(秦始皇統一六國)。",
-      "pinyin": "Qín Shǐhuáng tǒngyī liùguó.",
-      "english": "Qin Shi Huang unified the Six States."
+      "chinese": "秦始皇创造了中国的第一个中央集权国家(秦始皇創造了中國的第一個中央集權國家)。",
+      "pinyin": "Qín Shǐhuáng chuàngzàole Zhōngguó de dì yī gè zhōngyāng jíquán guójiā.",
+      "english": "Qin Shi Huang created the first centralized government in China."
     },
     {
-      "chinese": "秦始皇修建长城(秦始皇修建長城)，铸就了永恒的传说(鑄就了永恆的傳說)。",
-      "pinyin": "Qín Shǐhuáng xiūjiàn chángchéng, zhùjiù le yǒnghéng de chuánshuō.",
-      "english": "Qin Shi Huang built the Great Wall, forging an everlasting legend."
+      "chinese": "秦始皇下令修建万里长城(秦始皇下令修建萬里長城)。",
+      "pinyin": "Qín Shǐhuáng xiàlìng xiūjiàn Wànlǐ Chángchéng.",
+      "english": "Qin Shi Huang ordered the construction of the Great Wall."
+    },
+    {
+      "chinese": "很多历史故事都围绕秦始皇展开(很多歷史故事都圍繞秦始皇展開)。",
+      "pinyin": "Hěn duō lìshǐ gùshì dōu wéirào Qín Shǐhuáng zhǎnkāi.",
+      "english": "Many historical stories revolve around Qin Shi Huang."
     }
   ]
 }

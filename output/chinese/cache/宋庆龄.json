@@ -5,8 +5,8 @@
   "english": "Song Qingling",
   "etymology": {
     "type": "compound word",
-    "description": "宋(宋) (Sòng, \"Song\") is a surname that can be traced back to the Song Dynasty. 庆(慶) (Qìng, \"celebrate\") conveys a sense of joy and auspiciousness. 龄(齡) (líng, \"age\") refers to a person's age, but in names, it often suggests wisdom or longevity.",
-    "interpretation": "宋(宋) (Sòng, \"Song\") is the surname, and 慶齡 (Qìnglíng) together can suggest 'joyful and wise'. Song Qingling (宋慶齡) was a prominent Chinese political figure and the wife of Sun Yat-sen, playing an integral role in the political landscape of China.",
+    "description": "宋(宋) (sòng, \"Song dynasty; a surname\") + 慶(慶) (qìng, \"celebrate\") + 齡(齡) (líng, \"age\") together specifically refer to Song Qingling, an influential historical figure.",
+    "interpretation": "宋(宋) (sòng, \"Song dynasty; a surname\") is a common Chinese surname. This combination refers specifically to Song Qingling, a prominent Chinese political figure and the wife of Sun Yat-sen, founder of the Republic of China. Her full name uses 慶(慶) (qìng, \"celebrate\") and 齡(齡) (líng, \"age\") as given name characters. This use of characters for personal names does not follow the meaning from the characters’ meanings such as \"celebrate\" or \"age.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,37 @@
       "char": "宋",
       "trad": "宋",
       "pinyin": "Sòng",
-      "english": "Song; surname"
+      "english": "Song dynasty; a surname"
     },
     {
       "char": "庆",
       "trad": "慶",
-      "pinyin": "Qìng",
-      "english": "celebrate; congratulate; praise"
+      "pinyin": "qìng",
+      "english": "celebrate"
     },
     {
       "char": "龄",
       "trad": "齡",
       "pinyin": "líng",
-      "english": "age; years; time"
+      "english": "age"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "宋庆龄(宋慶齡)致力于国际和平(致力於國際和平)，获得了世界的认可(獲得了世界的認可)。",
-      "pinyin": "Sòng Qìnglíng zhìlì yú guójì hépíng, huòdéle shìjiè de rènkě.",
-      "english": "Song Qingling dedicated her efforts to international peace and earned global recognition."
+      "chinese": "宋庆龄(宋慶齡)是中国革命的领袖之一(是中國革命的領袖之一)。",
+      "pinyin": "Sòng Qìnglíng shì Zhōngguó gémìng de lǐngxiù zhī yī.",
+      "english": "Song Qingling was one of the leaders of the Chinese revolution."
     },
     {
-      "chinese": "宋庆龄(宋慶齡)的智慧与勇气激励了无数人(的智慧與勇氣激勵了無數人)。",
-      "pinyin": "Sòng Qìnglíng de zhìhuì yǔ yǒngqì jīlìle wúshù rén.",
-      "english": "Song Qingling's wisdom and courage inspired countless people."
+      "chinese": "在历史上(在歷史上)，宋庆龄的贡献很大(宋慶齡的貢獻很大)。",
+      "pinyin": "Zài lìshǐ shàng, Sòng Qìnglíng de gòngxiàn hěn dà.",
+      "english": "In history, Song Qingling's contributions were significant."
     },
     {
-      "chinese": "宋庆龄(宋慶齡)倡导的人权理念影响深远(倡導的人權理念影響深遠)。",
-      "pinyin": "Sòng Qìnglíng chàngdǎo de rénquán lǐniàn yǐngxiǎng shēnyuǎn.",
-      "english": "Song Qingling's advocacy for human rights has had a profound impact."
+      "chinese": "许多人敬仰宋庆龄(許多人敬仰宋慶齡)的精神和勇气(的精神和勇氣)。",
+      "pinyin": "Xǔduō rén jìngyǎng Sòng Qìnglíng de jīngshén hé yǒngqì.",
+      "english": "Many people admire Song Qingling's spirit and courage."
     }
   ]
 }

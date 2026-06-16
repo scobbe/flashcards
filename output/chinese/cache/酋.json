@@ -5,24 +5,40 @@
   "english": "long-fermented alcohol or decoration",
   "etymology": {
     "type": "pictogram",
-    "description": "八(八) above 酉(酉) = some exposed liquid above alcohol vessel -> fermenting container",
-    "interpretation": "The character 酋(酋) (qiú, \"long-fermented alcohol or decoration\") visually depicts an alcohol vessel with liquid at the top, signifying fermentation. This makes intuitive sense as it conveys the idea of prolonged fermentation of alcohol inside the container.",
+    "description": "八 (some liquid) + 酉 (alcohol vessel) -> depiction of fermented alcohol or decoration",
+    "interpretation": "The character 酋 (qiú, \"long-fermented alcohol or decoration\") shows liquid dripping (八) from a vessel (酉), representing the concept of fermentation or decoration associated with an alcohol container. It is utilized in contexts involving aged or specially prepared alcohol.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "八",
-      "trad": "八",
-      "pinyin": "bā",
-      "english": "eight"
-    },
     {
       "char": "酉",
       "trad": "酉",
       "pinyin": "yǒu",
       "english": "alcohol vessel"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "some liquid"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他桌上的酒杯里装满了酋(酋)。",
+      "pinyin": "Tā zhuō shàng de jiǔbēi lǐ zhuāng mǎn le qiú.",
+      "english": "His glass on the table was filled with long-fermented alcohol."
+    },
+    {
+      "chinese": "这瓶酋是经过多年酿造而成的(這瓶酋是經過多年釀造而成的)。",
+      "pinyin": "Zhè píng qiú shì jīngguò duōnián niàngzào ér chéng de.",
+      "english": "This bottle of long-fermented alcohol was matured over many years."
+    },
+    {
+      "chinese": "他们在庆典上展示了传统的酋装饰(他們在慶典上展示了傳統的酋裝飾)。",
+      "pinyin": "Tāmen zài qìngdiǎn shàng zhǎnshì le chuántǒng de qiú zhuāngshì.",
+      "english": "They displayed traditional decorations of qiú at the ceremony."
+    }
+  ]
 }

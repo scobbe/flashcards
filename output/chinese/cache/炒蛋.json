@@ -5,8 +5,8 @@
   "english": "scrambled eggs",
   "etymology": {
     "type": "compound word",
-    "description": "炒(炒) (chǎo, \"stir-fry\") and 蛋(蛋) (dàn, \"egg\") come together to describe a dish where eggs are stir-fried, resulting in scrambled eggs.",
-    "interpretation": "炒(炒) (chǎo, \"stir-fry\") is a common cooking method in Chinese cuisine, which involves stirring and cooking ingredients in hot oil, while 蛋(蛋) (dàn, \"egg\") refers to the primary ingredient of this dish. The word 炒蛋 (chǎodàn, \"scrambled eggs\") makes perfect sense because it describes how the eggs are prepared using this technique.",
+    "description": "炒(炒) (chǎo, \"stir-fry\") refers to a method of cooking that involves frying food quickly in hot oil while stirring. 蛋(蛋) (dàn, \"egg\") is the common word for eggs. Together, 炒蛋 indicates a dish made by stir-frying eggs, resulting in scrambled eggs.",
+    "interpretation": "炒(炒) (chǎo, \"stir-fry\") involves quickly cooking food in hot oil with continuous stirring, which changes the texture of the egg proteins and creates a fluffy consistency. 蛋(蛋) (dàn, \"egg\") is the base ingredient. The combination evokes the process of agitating eggs over high heat to produce the dish known as scrambled eggs.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "炒",
       "trad": "炒",
       "pinyin": "chǎo",
-      "english": "stir-fry"
+      "english": "stir-fry; sauté"
     },
     {
       "char": "蛋",
       "trad": "蛋",
       "pinyin": "dàn",
-      "english": "egg"
+      "english": "egg; ovarium"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我早餐喜欢吃炒蛋(我早餐喜歡吃炒蛋)。",
-      "pinyin": "Wǒ zǎocān xǐhuān chī chǎodàn.",
-      "english": "I like scrambled eggs for breakfast."
+      "chinese": "早餐我常常吃炒蛋(早餐我常常吃炒蛋)。",
+      "pinyin": "Zǎocān wǒ chángcháng chī chǎodàn.",
+      "english": "I often eat scrambled eggs for breakfast."
     },
     {
-      "chinese": "妈妈炒蛋时喜欢放点葱(媽媽炒蛋時喜歡放點蔥)，增加风味(增加風味)。",
-      "pinyin": "Māmā chǎodàn shí xǐhuān fàng diǎn cōng, zēngjiā fēngwèi.",
-      "english": "When making scrambled eggs, mom likes to add some scallions to enhance the flavor."
+      "chinese": "炒蛋是快手的美味早餐(炒蛋是快手的美味早餐)。",
+      "pinyin": "Chǎodàn shì kuàishǒu de měiwèi zǎocān.",
+      "english": "Scrambled eggs are a quick and delicious breakfast."
     },
     {
-      "chinese": "炒蛋配上吐司味道绝佳(炒蛋配上吐司味道絕佳)。",
-      "pinyin": "Chǎodàn pèi shàng tǔsī wèidào jué jiā.",
-      "english": "Scrambled eggs go perfectly with toast."
+      "chinese": "为了增加味道(為了增加味道)，她在炒蛋里加了香葱(她在炒蛋裡加了香蔥)。",
+      "pinyin": "Wèile zēngjiā wèidào, tā zài chǎodàn lǐ jiāle xiāngcōng.",
+      "english": "To enhance the flavor, she added green onions to the scrambled eggs."
     }
   ]
 }

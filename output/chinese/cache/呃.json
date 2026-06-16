@@ -5,8 +5,8 @@
   "english": "uh...",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + phonetic 厄(厄) (è, \"difficulty\") -> sound of something stuck in the throat",
-    "interpretation": "The character 呃(呃) (è) represents an interjection or sound made when one is surprised or hesitant, often associated with a momentary pause or difficulty in speech, hence the use of 厄(厄) (è, \"difficulty\") as the phonetic component.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 厄(厄) (è) -> uh...",
+    "interpretation": "The character 呃(呃) (è, \"uh...\") combines the semantic element 口(口) (kǒu, \"mouth\"), indicating sounds made with the mouth, with the phonetic element 厄(厄) (è), suggesting the sound \"è\". It represents a hesitation sound, commonly used to express thought or minor discomfort verbally.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "厄",
       "trad": "厄",
       "pinyin": "è",
-      "english": "difficulty"
+      "english": "danger"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "呃(呃)，我还没想好呢(我還沒想好呢)。",
-      "pinyin": "È, wǒ hái méi xiǎng hǎo ne.",
-      "english": "Uh, I haven't decided yet."
+      "chinese": "呃(呃)，我不太确定怎么回答这个问题(我不太確定怎麼回答這個問題)。",
+      "pinyin": "È, wǒ bù tài quèdìng zěnme huídá zhège wèntí.",
+      "english": "Uh, I'm not quite sure how to answer this question."
     },
     {
-      "chinese": "刚开始的时候(剛開始的時候)，他呃说错了(他呃說錯了)。",
-      "pinyin": "Gāng kāishǐ de shíhòu, tā è shuō cuò le.",
-      "english": "At the beginning, he, uh, misspoke."
+      "chinese": "我正在写信(我正在寫信)，但是在思考下一句该怎么说(但是在思考下一句該怎麼說)时，呃(呃)，停住了。",
+      "pinyin": "Wǒ zhèngzài xiě xìn, dànshì zài sīkǎo xià yī jù gāi zěnme shuō shí, è, tíng zhù le.",
+      "english": "I was writing a letter, but while thinking about what to say next, uh, I paused."
+    },
+    {
+      "chinese": "他问我(他問我)今晚有没有安排(今晚有沒有安排)，我说呃(我說呃)，还没有想好(還沒有想好)。",
+      "pinyin": "Tā wèn wǒ jīnwǎn yǒu méiyǒu ānpái, wǒ shuō è, hái méiyǒu xiǎng hǎo.",
+      "english": "He asked me if I had plans for tonight, and I said uh, I haven't decided yet."
     }
   ]
 }

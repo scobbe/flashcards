@@ -5,27 +5,34 @@
   "english": "pipal tree",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Recorded as an ancient form of 龍 -> standardized as 竜 in Japanese -> used alongside simplified form 龙 in contemporary usage",
-    "interpretation": "The character 竜 was originally recorded as an ancient form of 龍 (lóng, \"dragon\") in early dictionaries. It was formally attested in the Sui dynasty epitaph and has been used as a standard form in Japanese, reflecting earlier shapes and developments seen in the Chinese character 龍, symbolized by a composite creature combining different animal features. The evolution displays a continuity in representing the mythical dragon across cultures, maintaining the imagery of a sacred animal throughout history.",
+    "description": "Ancient form of 龍(龍) (lóng, \"dragon\") used in Japan -> recorded in early Chinese dictionaries resembling a stylized dragon form, incorporating mythical creature imagery",
+    "interpretation": "The character 竜(竜) (lóng, \"dragon\") is used in Japan and stylistically represents the ancient depiction of a dragon, a sacred composite creature in Chinese culture. This depiction included elements resembling snakes, crocodiles, and other animals, embodying divine and powerful symbolism.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "龍",
+      "trad": "龍",
+      "pinyin": "lóng",
+      "english": "dragon"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "竜树下(竜樹下)，我们常常聚集(我們常常聚集)。",
-      "pinyin": "Zhú shù xià, wǒmen chángcháng jùjí.",
-      "english": "Under the pipal tree, we often gather."
+      "chinese": "竜(竜)在古代被认为是神圣的树(在古代被認為是神聖的樹)。",
+      "pinyin": "Zhú zài gǔdài bèi rènwéi shì shénshèng de shù.",
+      "english": "The pipal tree was considered a sacred tree in ancient times."
     },
     {
-      "chinese": "庭院中有一棵古老的竜(庭院中有一棵古老的竜)，它见证了很多历史(它見證了很多歷史)。",
-      "pinyin": "Tíngyuàn zhōng yǒu yī kē gǔlǎo de zhú, tā jiànzhèngle hěnduō lìshǐ.",
-      "english": "In the courtyard, there is an ancient pipal tree that has witnessed much history."
+      "chinese": "在热带地区(在熱帶地區)，竜(竜)常常被用作遮阳树(常常被用作遮陽樹)。",
+      "pinyin": "Zài rèdài dìqū, zhú chángcháng bèi yòng zuò zhēyáng shù.",
+      "english": "In tropical regions, the pipal tree is often used as a shade tree."
     },
     {
-      "chinese": "孩子们喜欢在竜的阴影下玩耍(孩子們喜歡在竜的陰影下玩耍)。",
-      "pinyin": "Háizimen xǐhuān zài zhú de yīnyǐng xià wánshuǎ.",
-      "english": "The children like to play under the shade of the pipal tree."
+      "chinese": "很多人认为在竜(很多人認為在竜)下冥想可以增强精神力量(下冥想可以增強精神力量)。",
+      "pinyin": "Hěnduō rén rènwéi zài zhú xià míngxiǎng kěyǐ zēngqiáng jīngshén lìliàng.",
+      "english": "Many people believe that meditating under a pipal tree can enhance spiritual strength."
     }
   ]
 }

@@ -2,14 +2,27 @@
   "simplified": "侌",
   "traditional": "侌",
   "pinyin": "yīn",
-  "english": "phonetic",
+  "english": "dark, concealed",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "侌 (ancient form) used phonetically in 陰",
-    "interpretation": "The character 侌 (侌) (yīn, \"phonetic\") serves as a phonetic component in the compound 陰(陰) (yīn, \"shade; feminine principle\") when combined with the semantic 阜(阜) (fù, \"mound; hill\"). It's an ancient form primarily contributing to the phonetic aspect of 陰.",
+    "description": "semantic 人(人) (rén, \"person\") + phonetic 今(今) (jīn) -> dark, concealed",
+    "interpretation": "The semantic component 人(人) (rén, \"person\") suggests the presence or activity of a person, while the phonetic component 今(今) (jīn) provides the sound. The combined imagery suggests something hidden or concealed, akin to a person being in a dark or secretive state.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "今",
+      "trad": "今",
+      "pinyin": "jīn",
+      "english": "now"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

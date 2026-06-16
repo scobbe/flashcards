@@ -5,14 +5,14 @@
   "english": "ocean; foreign",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "氵(氵) (shuǐ, \"water\") + 羊(羊) (yáng, \"sheep\") = vastness of water -> ocean; by extension -> foreign",
-    "interpretation": "The character combines 氵(氵) (shuǐ, \"water\") to denote a connection to water and 羊(羊) (yáng, \"sheep\") for its phonetic value. The vastness associated with oceans was conceptually extended to anything foreign.",
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 羊(羊) (yáng) -> meaning",
+    "interpretation": "The character 洋(yáng, \"ocean; foreign\") combines 氵(shuǐ, \"water\") as the semantic component, indicating a connection to water or large bodies of water such as the ocean. The phonetic component 羊(yáng) lends its sound to the character. The expansive and vast nature of the ocean extends to the concept of 'foreign', mirroring the idea of distant or overseas places.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他喜欢洋服(他喜歡洋服)，认为它们时尚(認為它們時尚)。",
-      "pinyin": "Tā xǐhuān yángfú, rènwéi tāmen shíshàng.",
-      "english": "He likes foreign clothes and thinks they are trendy."
+      "chinese": "阳光洒在海洋上(陽光灑在海洋上)。",
+      "pinyin": "Yángguāng sǎ zài hǎiyáng shàng.",
+      "english": "Sunlight spills over the ocean."
     },
     {
-      "chinese": "遥远的洋(遙遠的洋)隐藏着无数谜团(隱藏著無數謎團)。",
-      "pinyin": "Yáoyuǎn de yáng yǐncángzhe wúshù mítuán.",
-      "english": "The distant ocean conceals countless mysteries."
+      "chinese": "他喜欢洋食(他喜歡洋食)，所以经常去外国餐厅(所以經常去外國餐廳)。",
+      "pinyin": "Tā xǐhuān yángshí, suǒyǐ jīngcháng qù wàiguó cāntīng.",
+      "english": "He likes foreign food, so he often goes to international restaurants."
     },
     {
-      "chinese": "她听洋乐(她聽洋樂)，感受异国风情(感受異國風情)。",
-      "pinyin": "Tā tīng yángyuè, gǎnshòu yìguó fēngqíng.",
-      "english": "She listens to foreign music and experiences exotic charm."
+      "chinese": "洋溢着欢笑的气氛(洋溢著歡笑的氣氛)充满了整个房间(充滿了整個房間)。",
+      "pinyin": "Yángyìzhe huānxiào de qìfēn chōngmǎnle zhěnggè fángjiān.",
+      "english": "An atmosphere filled with laughter pervaded the entire room."
     }
   ]
 }

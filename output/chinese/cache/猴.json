@@ -5,14 +5,14 @@
   "english": "monkey",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 犭(犭) (quǎn, \"dog\") + phonetic 侯(侯) (hóu, \"marquis\") = animal phoneticized by 侯 -> monkey",
-    "interpretation": "猴(猴) (hóu, \"monkey\") combines 犭(犭) (quǎn, \"dog\") as a radical indicating an animal, with 侯(侯) (hóu, \"marquis\") as a phonetic element that provides the sound. This forms the character for monkey by linking the concept of an animal with the sound similar to '侯'.",
-    "simplification": ""
+    "description": "semantic 犭(犬) (quǎn, \"dog\") + phonetic 侯(侯) (hóu) -> monkey",
+    "interpretation": "The character 猴(hóu, \"monkey\") combines 犭(犬) (quǎn, \"dog\"), which represents animals, with 侯(侯) (hóu), serving as the phonetic component to suggest the sound. The combination naturally denotes an animal resembling a monkey.",
+    "simplification": "猴 → 猴: remains unchanged in simplification."
   },
   "parts": [
     {
-      "char": "犭",
-      "trad": "犭",
+      "char": "犬",
+      "trad": "犬",
       "pinyin": "quǎn",
       "english": "dog"
     },
@@ -20,20 +20,25 @@
       "char": "侯",
       "trad": "侯",
       "pinyin": "hóu",
-      "english": "marquis"
+      "english": "marquis; nobleman"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "一只猴爬上高高的树(一隻猴爬上高高的樹)。",
-      "pinyin": "Yī zhī hóu pá shàng gāogāo de shù.",
-      "english": "A monkey climbs up the tall tree."
+      "chinese": "猴子喜欢吃香蕉(猴子喜歡吃香蕉)。",
+      "pinyin": "Hóuzi xǐhuān chī xiāngjiāo.",
+      "english": "Monkeys like to eat bananas."
     },
     {
-      "chinese": "猴在森林中跳跃(猴在森林中跳躍)，寻找美味的果子(尋找美味的果子)。",
-      "pinyin": "Hóu zài sēnlín zhōng tiàoyuè, xúnzhǎo měiwèi de guǒzi.",
-      "english": "The monkey leaps in the forest, searching for delicious fruits."
+      "chinese": "山上的猴子很顽皮(山上的猴子很頑皮)。",
+      "pinyin": "Shān shàng de hóuzi hěn wánpí.",
+      "english": "The monkeys on the mountain are very mischievous."
+    },
+    {
+      "chinese": "他像个猴子一样灵活(他像個猴子一樣靈活)。",
+      "pinyin": "Tā xiàng gè hóuzi yīyàng línghuó.",
+      "english": "He is as agile as a monkey."
     }
   ]
 }

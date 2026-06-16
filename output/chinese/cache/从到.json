@@ -5,40 +5,40 @@
   "english": "from … to …",
   "etymology": {
     "type": "compound word",
-    "description": "從(從) (cóng, \"from\") + 到(到) (dào, \"to\") is a structure used to indicate a range or a transition in time, space, or sequence, similar to \"from … to …\" in English.",
-    "interpretation": "The phrase 從(從) (cóng, \"from\") + 到(到) (dào, \"to\") is used to express a range or movement between two points, whether in terms of time, location, or sequence, making it an essential part of structuring comprehensive timelines or journeys in both written and spoken Chinese.",
+    "description": "從(從) (cóng, \"follow; from\") combined with 到(到) (dào, \"arrive; to\") creates a phrase that indicates a span or movement from one point to another.",
+    "interpretation": "從(從) (cóng, \"follow; from\") indicates the starting point or origin of a movement or action. 到(到) (dào, \"arrive; to\") signifies the end or destination point. Together, this structure describes a range or transition, illustrating the path or timeline from one point (從) to another (到), effectively mapping out a continuous trajectory or sequence.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "从",
+      "char": "從",
       "trad": "從",
       "pinyin": "cóng",
-      "english": "from"
+      "english": "follow; from"
     },
     {
       "char": "到",
       "trad": "到",
       "pinyin": "dào",
-      "english": "to"
+      "english": "arrive; to"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "从北京到上海(從北京到上海)。",
-      "pinyin": "Cóng Běijīng dào Shànghǎi.",
-      "english": "From Beijing to Shanghai."
+      "chinese": "我们从学校到公园(我們從學校到公園)。",
+      "pinyin": "Wǒmen cóng xuéxiào dào gōngyuán.",
+      "english": "We go from the school to the park."
     },
     {
-      "chinese": "从春天到秋天(從春天到秋天)。",
-      "pinyin": "Cóng chūntiān dào qiūtiān.",
-      "english": "From spring to autumn."
+      "chinese": "从春季到夏季(從春季到夏季)，花儿都在盛开(花兒都在盛開)。",
+      "pinyin": "Cóng chūnjì dào xiàjì, huā'ér dōu zài shèngkāi.",
+      "english": "From spring to summer, flowers are in full bloom."
     },
     {
-      "chinese": "从传统到现代(從傳統到現代)。",
-      "pinyin": "Cóng chuántǒng dào xiàndài.",
-      "english": "From tradition to modern times."
+      "chinese": "他的工作时间是从早上九点到晚上五点(他的工作時間是從早上九點到晚上五點)。",
+      "pinyin": "Tā de gōngzuò shíjiān shì cóng zǎoshang jiǔ diǎn dào wǎnshang wǔ diǎn.",
+      "english": "His working hours are from 9 AM to 5 PM."
     }
   ]
 }

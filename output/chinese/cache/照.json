@@ -5,8 +5,8 @@
   "english": "illuminate; shine; reflect; take (photo)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 灬 (\"fire\") + phonetic 昭 (zhāo, \"clear, bright\") = illuminate",
-    "interpretation": "The character 照 (zhào) combines 灬, representing \"fire,\" with 昭 (zhāo, \"clear, bright\") as the phonetic, conveying the idea of something being illuminated or shining clearly, paralleling the bright qualities of fire.",
+    "description": "semantic 灬 (\"fire\") + phonetic 昭 -> illuminate; shine",
+    "interpretation": "The character 照 (zhào, \"illuminate\") uses 灬 (\"fire\") to represent light or brightness, combined with the phonetic 昭 (zhāo) to suggest its pronunciation. The association with fire indicates brightness or acting as a source of light, leading naturally to meanings such as \"illuminate\" and \"shine.\" This brightness reflects onto surfaces or scenes, hence the character's extension to \"reflect\" and \"take (photo),\" as capturing an illuminated image.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "昭",
       "trad": "昭",
       "pinyin": "zhāo",
-      "english": "clear, bright"
+      "english": "bright"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "太阳照在海面上(太陽照在海面上)。",
-      "pinyin": "Tàiyáng zhào zài hǎimiàn shàng.",
-      "english": "The sun shines on the surface of the sea."
+      "chinese": "早晨的阳光照在窗户上(早晨的陽光照在窗戶上)。",
+      "pinyin": "Zǎochén de yángguāng zhào zài chuānghu shàng.",
+      "english": "The morning sunlight shines on the window."
     },
     {
-      "chinese": "他喜欢照相(他喜歡照相)。",
-      "pinyin": "Tā xǐhuān zhàoxiàng.",
-      "english": "He likes to take photographs."
+      "chinese": "请把灯打开，以便更好地照清楚(請把燈打開，以便更好地照清楚)。",
+      "pinyin": "Qǐng bǎ dēng dǎkāi, yǐbiàn gèng hǎo de zhào qīngchǔ.",
+      "english": "Please turn on the light to illuminate more clearly."
     },
     {
-      "chinese": "镜子可以照出你的形象(鏡子可以照出你的形象)。",
-      "pinyin": "Jìngzi kěyǐ zhào chū nǐ de xíngxiàng.",
-      "english": "The mirror can reflect your image."
+      "chinese": "我们去公园照相(我們去公園照相)。",
+      "pinyin": "Wǒmen qù gōngyuán zhàoxiàng.",
+      "english": "We are going to the park to take photos."
     }
   ]
 }

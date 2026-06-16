@@ -2,19 +2,19 @@
   "simplified": "䜌",
   "traditional": "䜌",
   "pinyin": "làn",
-  "english": "phonetic component",
+  "english": "various, miscellaneous",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "絲(縷) (sī, \"silk thread\") + 言(言) (yán, \"speech\") = combination of silk and speech elements",
-    "interpretation": "The character 䜌 combines 絲(糸) (sī, \"silk thread\") and 言(言) (yán, \"speech\") to suggest the idea of language or speech components being woven together. This illustrates its role as a phonetic component, symbolically suggesting the intricate nature of speech or narration.",
+    "description": "糸(糸) (sī, \"silk; thread\") + 言(言) (yán, \"speech\") = threads of speech -> various, miscellaneous",
+    "interpretation": "The combination of 糸(糸) (sī, \"silk; thread\") with 言(言) (yán, \"speech\") suggests speech that is woven together in various threads, representing a collection of different and miscellaneous topics or narratives.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "絲",
-      "trad": "絲",
+      "char": "糸",
+      "trad": "糸",
       "pinyin": "sī",
-      "english": "silk thread"
+      "english": "silk; thread"
     },
     {
       "char": "言",

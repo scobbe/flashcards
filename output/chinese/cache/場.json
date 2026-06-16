@@ -5,8 +5,8 @@
   "english": "field; place; venue",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "土(土) (tǔ, \"earth\") + phonetic 昜(昜) (yáng) = open field on the earth -> field or place",
-    "interpretation": "The character 場 combines the earth radical 土(土) (tǔ, \"earth\") with 昜(昜) (yáng) to indicate a physical location or field. The semantic component 土 emphasizes the connection to the ground or land, while 昜 provides the phonetic aspect.",
+    "description": "semantic 土(土) (tǔ, \"earth\") + phonetic 昜(昜) (yáng) -> open area on earth",
+    "interpretation": "The character 場 (chǎng, \"field; place; venue\") pairs 土(土) (tǔ, \"earth\") suggesting a physical space or ground, with 昜(昜) (yáng) as the phonetic component. This combination conveys the idea of an open area that is associated with land or ground, leading to the meaning of a 'field' or 'place'.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "昜",
       "trad": "昜",
       "pinyin": "yáng",
-      "english": ""
+      "english": "sun rising"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "运动场上人潮汹涌(運動場上人潮洶湧)。",
-      "pinyin": "Yùn dòng chǎng shàng rén cháo xiōng yǒng.",
-      "english": "Crowds surge on the sports field."
+      "chinese": "我们去篮球场打球(我們去籃球場打球)。",
+      "pinyin": "Wǒmen qù lánqiú chǎng dǎ qiú.",
+      "english": "We go to the basketball court to play."
     },
     {
-      "chinese": "这个场地很宽敞(這個場地很寬敞)，适合举办大型演唱会(適合舉辦大型演唱會)。",
-      "pinyin": "Zhè gè chǎng dì hěn kuān chǎng, shì hé jǔ bàn dà xíng yǎn chàng huì.",
-      "english": "This venue is spacious and suitable for hosting large concerts."
+      "chinese": "电影开场后(電影開場後)，大家都很安静(大家都很安靜)。",
+      "pinyin": "Diànyǐng kāichǎng hòu, dàjiā dōu hěn ānjìng.",
+      "english": "After the movie started, everyone was very quiet."
     },
     {
-      "chinese": "音乐会场中回荡着美妙旋律(音樂會場中回蕩著美妙旋律)。",
-      "pinyin": "Yīn yuè huì chǎng zhōng huí dàng zhe měi miào xuán lǜ.",
-      "english": "Beautiful melodies resonate in the concert hall."
+      "chinese": "他在足球场上踢得很好(他在足球場上踢得很好)。",
+      "pinyin": "Tā zài zúqiú chǎng shàng tī de hěn hǎo.",
+      "english": "He plays very well on the soccer field."
     }
   ]
 }

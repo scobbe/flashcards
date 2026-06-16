@@ -5,8 +5,8 @@
   "english": "wait; await; rank; grade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "竹(竹) (zhú, \"bamboo\") + 寺(寺) (sì, \"monastery\") = bamboo strips used for grading + phonetic value of 寺 -> wait, rank",
-    "interpretation": "The character 等(等) was used to represent concepts related to order and rank, using the analogy of bamboo strips that ancient officials and scholars employed for documentation and classification. The phonetic component 寺(寺) was adapted for its sound rather than meaning in this case.",
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 寺(寺) (sì, \"temple\") -> bamboo strips for grading -> rank; grade -> borrowed for wait; await",
+    "interpretation": "The bamboo strips, 竹(竹) (zhú, \"bamboo\"), were used for writing and thus associated with record-keeping and classification leading to the meaning of rank or grade. The character 寺(寺) (sì, \"temple\") contributes the phonetic sound. Over time, the character was borrowed to express 'wait' and 'await.'",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "寺",
       "trad": "寺",
       "pinyin": "sì",
-      "english": "monastery"
+      "english": "temple"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在车站等你(我在車站等你)。",
-      "pinyin": "Wǒ zài chēzhàn děng nǐ.",
-      "english": "I am waiting for you at the station."
+      "chinese": "我们在大门口等你(我們在大門口等你)。",
+      "pinyin": "Wǒmen zài dàménkǒu děng nǐ.",
+      "english": "We are waiting for you at the gate."
     },
     {
-      "chinese": "比赛结束后(比賽結束後)，他获得二等(他獲得二等)，并和队友分享喜悦(並和隊友分享喜悅)。",
-      "pinyin": "Bǐsài jiéshù hòu, tā huòdé èr děng, bìng hé duìyǒu fēnxiǎng xǐyuè.",
-      "english": "After the competition, he received a second-class prize and shared his joy with his teammates."
+      "chinese": "请等一下(請等一下)，我马上回来(我馬上回來)！",
+      "pinyin": "Qǐng děng yīxià, wǒ mǎshàng huílái!",
+      "english": "Please wait a moment, I will be back soon!"
+    },
+    {
+      "chinese": "他的学术水平很高，属于一流的等级(他的學術水平很高，屬於一流的等級)。",
+      "pinyin": "Tā de xuéshù shuǐpíng hěn gāo, shǔyú yīliú de děngjí.",
+      "english": "His academic level is very high, belonging to the top rank."
     }
   ]
 }

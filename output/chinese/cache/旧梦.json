@@ -5,8 +5,8 @@
   "english": "old dream; past experience",
   "etymology": {
     "type": "compound word",
-    "description": "舊(舊) (jiù, \"old\") + 夢(夢) (mèng, \"dream\")",
-    "interpretation": "舊夢(舊夢) (jiùmèng, \"old dream\") refers to a dream or experience from the past. This combination suggests the idea of reminiscing or recalling past experiences or memories, often with a sense of nostalgia or sentimentality.",
+    "description": "舊(舊) (jiù, \"old; past\") represents something that belongs to a previous time or period. 夢(夢) (mèng, \"dream\") refers to visions or experiences during sleep, and by extension, can refer to aspirations or past endeavors.",
+    "interpretation": "舊(舊) (jiù, \"old; past\") conveys the sense of something that is no longer current, tying to the previous experiences or times. 夢(夢) (mèng, \"dream\") connects to the experiences or aspirations that one may recall or reflect upon. Together, 舊夢 (jiùmèng) signifies a nostalgic recollection of past dreams or experiences, the old dreams that linger in memory, embodying both literal dreams and metaphorical longings or past aspirations.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "旧",
       "trad": "舊",
       "pinyin": "jiù",
-      "english": "old; past; worn"
+      "english": "old; past; former"
     },
     {
       "char": "梦",
       "trad": "夢",
       "pinyin": "mèng",
-      "english": "dream; vision; illusion"
+      "english": "dream; vision; illusion; aspiration"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "每当我听到这首歌(每當我聽到這首歌)，就会想起那些旧梦(就會想起那些舊夢)。",
-      "pinyin": "Měidāng wǒ tīng dào zhè shǒu gē, jiù huì xiǎng qǐ nàxiē jiùmèng.",
-      "english": "Whenever I hear this song, I remember those old dreams."
+      "chinese": "有时听到老歌(有時聽到老歌)，我会想起某些旧梦(我會想起某些舊夢)。",
+      "pinyin": "Yǒushí tīngdào lǎo gē, wǒ huì xiǎngqǐ mǒuxiē jiùmèng.",
+      "english": "Sometimes when I hear old songs, I think of certain past experiences."
     },
     {
-      "chinese": "旧梦重现时(舊夢重現時)，他的脸上露出了微笑(他的臉上露出了微笑)。",
-      "pinyin": "Jiùmèng chóngxiàn shí, tā de liǎn shàng lùchū le wēixiào.",
-      "english": "When old dreams reappeared, a smile appeared on his face."
+      "chinese": "他的小说常常写到旧梦(他的小說常常寫到舊夢)。",
+      "pinyin": "Tā de xiǎoshuō chángcháng xiě dào jiùmèng.",
+      "english": "His novels often describe old dreams."
     },
     {
-      "chinese": "她常常沉浸在旧梦中(她常常沉浸在舊夢中)，无法自拔(無法自拔)。",
-      "pinyin": "Tā chángcháng chénjìn zài jiùmèng zhōng, wúfǎ zìbá.",
-      "english": "She often gets lost in old dreams, unable to free herself."
+      "chinese": "在那个地方(在那個地方)，他重温了一段旧梦(他重溫了一段舊夢)。",
+      "pinyin": "Zài nàgè dìfāng, tā chóngwēnle yī duàn jiùmèng.",
+      "english": "In that place, he relived a part of his past experiences."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "come on",
   "etymology": {
     "type": "compound word",
-    "description": "来(來) (lái, \"come\") + 吧(吧) (ba, \"modal particle indicating suggestion or urging\") = come on.",
-    "interpretation": "The word 来吧(來吧) (lái ba, \"come on\") is a colloquial phrase used to invite or urge someone to come or proceed with something. It combines the idea of coming with a casual or encouraging tone, thanks to the particle 吧(吧) (ba, \"modal particle\").",
+    "description": "來(來) (lái, \"come\") plus 吧(吧) (ba, \"particle for suggestion/softening\") forms this expression which is often used to prompt someone to proceed.",
+    "interpretation": "來(來) (lái, \"come\") directly invites or asks someone to come forward or approach. 吧(吧) (ba, \"particle for suggestion/softening\") moderates the tone, turning a direct command or statement into a softer suggestion or encouragement. The combination \"來吧\" (lái ba) thus becomes an invitation or urging, often with an encouraging or friendly tone — as in urging someone to start or participate.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "吧",
       "trad": "吧",
       "pinyin": "ba",
-      "english": "modal particle indicating suggestion or urging"
+      "english": "particle for suggestion; softening particle; urging particle"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "快点来吧(快點來吧)。",
-      "pinyin": "Kuài diǎn lái ba.",
-      "english": "Hurry, come on."
+      "chinese": "我们一起去看电影，好吗(我們一起去看電影，好嗎)？来吧(來吧)，会很有趣(會很有趣)！",
+      "pinyin": "Wǒmen yīqǐ qù kàn diànyǐng, hǎo ma? Lái ba, huì hěn yǒuqù!",
+      "english": "Let's go watch a movie together, okay? Come on, it will be fun!"
     },
     {
-      "chinese": "一切准备就绪(一切準備就緒)，来吧(來吧)。",
-      "pinyin": "Yīqiè zhǔnbèi jiùxù, lái ba.",
-      "english": "Everything is ready, come on."
+      "chinese": "来吧(來吧)，我们要迟到了(我們要遲到了)！",
+      "pinyin": "Lái ba, wǒmen yào chídào le!",
+      "english": "Come on, we are going to be late!"
+    },
+    {
+      "chinese": "如果你想参加比赛(如果你想參加比賽)，就来吧(就來吧)！",
+      "pinyin": "Rúguǒ nǐ xiǎng cānjiā bǐsài, jiù lái ba!",
+      "english": "If you want to join the competition, then come on!"
     }
   ]
 }

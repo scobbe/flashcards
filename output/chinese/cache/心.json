@@ -5,27 +5,27 @@
   "english": "heart; center; core",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a stylized representation of a heart",
-    "interpretation": "The character 心(xīn, 'heart') visually represents the shape of a heart, emphasizing its central and essential role in both a physical and metaphorical sense.",
+    "description": "Depicts a heart",
+    "interpretation": "The character 心(xīn, \"heart\") originally depicted the shape of an actual heart, representing thoughts, emotions, and the core of a person. Over time, it has become highly stylized, but it continues to convey the notion of the heart as the center of emotions and consciousness.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的心温暖无比(他的心溫暖無比)。",
-      "pinyin": "Tā de xīn wēnnuǎn wúbǐ.",
-      "english": "His heart is incredibly warm."
+      "chinese": "她的心(她的心)一直都在帮助别人(一直都在幫助別人)。",
+      "pinyin": "Tā de xīn yīzhí dōu zài bāngzhù biérén.",
+      "english": "Her heart is always in helping others."
     },
     {
-      "chinese": "她把心放在艺术上(她把心放在藝術上)，追求完美(追求完美)。",
-      "pinyin": "Tā bǎ xīn fàng zài yìshù shàng, zhuīqiú wánměi.",
-      "english": "She dedicates her heart to art, pursuing perfection."
+      "chinese": "在城市的中心(在城市的中心)，有一个美丽的公园(有一個美麗的公園)。",
+      "pinyin": "Zài chéngshì de zhōngxīn, yǒu yí gè měilì de gōngyuán.",
+      "english": "At the center of the city, there is a beautiful park."
     },
     {
-      "chinese": "音乐直击心灵(音樂直擊心靈)。",
-      "pinyin": "Yīnyuè zhí jī xīnlíng.",
-      "english": "Music strikes straight at the heart (soul)."
+      "chinese": "对于许多人来说(對於許多人來說)，家庭是生活的核心(家庭是生活的核心)。",
+      "pinyin": "Duìyú xǔduō rén lái shuō, jiātíng shì shēnghuó de héxīn.",
+      "english": "For many people, family is the core of life."
     }
   ]
 }

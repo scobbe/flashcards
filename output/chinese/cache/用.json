@@ -5,27 +5,27 @@
   "english": "use",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a vessel with contents being poured out",
-    "interpretation": "用(用) (yòng, 'use') visually represents the action of utilizing or employing, as depicted by a container pouring out its contents. This imagery effectively conveys the core idea of using resources or applying effort in a task.",
+    "description": "Depicts a water bucket",
+    "interpretation": "The character 用(yòng, \"use\") originally depicted a water bucket, an essential tool for drawing water, symbolizing the concept of utilizing or employing objects or resources.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请用心体会这首诗(請用心體會這首詩)。",
-      "pinyin": "qǐng yòng xīn tǐhuì zhè shǒu shī。",
-      "english": "Please use your heart to appreciate this poem."
+      "chinese": "他用筷子吃饭(他用筷子吃飯)。",
+      "pinyin": "Tā yòng kuàizi chīfàn.",
+      "english": "He uses chopsticks to eat."
     },
     {
-      "chinese": "他用笔写字(他用筆寫字)，也用心记录生活(也用心記錄生活)。",
-      "pinyin": "tā yòng bǐ xiě zì，yě yòng xīn jìlù shēnghuó。",
-      "english": "He writes with a pen, and also uses his heart to record life."
+      "chinese": "请用这支笔写字(請用這支筆寫字)。",
+      "pinyin": "Qǐng yòng zhè zhī bǐ xiězì.",
+      "english": "Please use this pen to write."
     },
     {
-      "chinese": "老板用新策略吸引顾客(老闆用新策略吸引顧客)。",
-      "pinyin": "lǎobǎn yòng xīn cèlüè xīyǐn gùkè。",
-      "english": "The boss uses new strategies to attract customers."
+      "chinese": "有人用手机看电影(有人用手機看電影)。",
+      "pinyin": "Yǒurén yòng shǒujī kàn diànyǐng.",
+      "english": "Someone is using a phone to watch a movie."
     }
   ]
 }

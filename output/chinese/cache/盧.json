@@ -5,35 +5,46 @@
   "english": "black",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 虍(虍) (hū) + Semantic: 皿(皿) (mǐn, \"vessel\") = container or vessel with dark coloring -> black",
-    "interpretation": "The character 盧(盧) (lú, \"black\") combines an element suggesting a container with 虍(虍) (hū), often related to pigmentation. The use of 皿(皿) (mǐn, \"vessel\") here suggests a vessel with dark coloring, aligning with the definition as black.",
-    "simplification": ""
+    "description": "Original pictogram (oven) -> oven as 田 (pictogram) -> phonetic 虍(虍) + semantic 田(田, 'oven') + semantic 皿(皿, 'vessel') -> current form",
+    "interpretation": "盧(盧) (lú, 'black') originally depicted an oven, with 虍(虍) added for the sound and 田(田) + 皿(皿) emphasizing its use as a vessel or container. The character evolved to its present form, where the oven sense is now defined by 爐(爐) (lú, 'stove').",
+    "simplification": "Simplified to 卢(盧) by using a cursive shorthand."
   },
   "parts": [
     {
       "char": "虍",
       "trad": "虍",
       "pinyin": "hū",
-      "english": "\"tiger stripes\""
+      "english": "tiger"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field; pictogram of an oven"
     },
     {
       "char": "皿",
       "trad": "皿",
       "pinyin": "mǐn",
-      "english": "\"vessel\""
+      "english": "vessel"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他穿着盧色的外套(他穿著盧色的外套)，在冬日显得格外温暖(在冬日顯得格外溫暖)。",
-      "pinyin": "Tā chuānzhuó lú sè de wàitào, zài dōngrì xiǎnde géwài wēnnuǎn.",
-      "english": "He is wearing a black coat, making him look exceptionally warm in winter."
+      "chinese": "盧是一個古老的姓氏(盧是一個古老的姓氏)。",
+      "pinyin": "Lú shì yī gè gǔlǎo de xìngshì.",
+      "english": "Lú is an ancient surname."
     },
     {
-      "chinese": "夜空挂满盧云(夜空掛滿盧雲)，仿佛一幅古画(仿佛一幅古畫)。",
-      "pinyin": "Yèkōng guà mǎn lú yún, fǎngfú yī fú gǔhuà.",
-      "english": "The night sky is filled with black clouds, resembling an ancient painting."
+      "chinese": "盧花园里种满了各种各样的花卉(盧花園裡種滿了各種各樣的花卉)，游客络绎不绝(遊客絡繹不絕)。",
+      "pinyin": "Lú huāyuán lǐ zhòng mǎn le gèzhǒng gè yàng de huāhuì, yóukè luòyìbùjué.",
+      "english": "Lú Garden is filled with various kinds of flowers, and tourists come in an endless stream."
+    },
+    {
+      "chinese": "在《白马非马》这篇文章中(在《白馬非馬》這篇文章中)，盧植是一个逻辑的反例(盧植是一個邏輯的反例)。",
+      "pinyin": "Zài 《Báimǎ fēi mǎ》 zhè piān wénzhāng zhōng, Lú Zhí shì yī gè luójí de fǎnlì.",
+      "english": "In the article 'A White Horse is Not a Horse,' Lú Zhí is an example of logical contradiction."
     }
   ]
 }

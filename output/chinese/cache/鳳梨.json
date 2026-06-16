@@ -5,8 +5,8 @@
   "english": "pineapple",
   "etymology": {
     "type": "compound word",
-    "description": "Fèng(鳳) (fèng, \"phoenix\") refers to the mythical bird often associated with good fortune and beauty in Chinese culture, and Lí(梨) (lí, \"pear\") is the common fruit used to represent sweetness and juiciness. Together, 鳳梨 (fènglí) poetically evokes an exotic and sweet fruit, corresponding to what we know as the pineapple.",
-    "interpretation": "",
+    "description": "鳳 (鳳) (fèng, \"phoenix\"), 梨 (梨) (lí, \"pear\")",
+    "interpretation": "The word 鳳梨 (fènglí) literally means \"phoenix pear.\" The phoenix, 鳳 (鳳) (fèng, \"phoenix\"), is a mythical bird associated with nobility and auspiciousness in Chinese culture. The second character, 梨 (梨) (lí, \"pear\"), refers to the fruit. The combination suggests an exotic or distinguished type of fruit, with the idea that the pineapple is as remarkable as a phoenix among pears.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃鳳梨(我喜歡吃鳳梨)。",
-      "pinyin": "Wǒ xǐhuān chī fènglí.",
-      "english": "I like to eat pineapple."
+      "chinese": "超市里有很多新鲜的鳳梨(超市裡有很多新鮮的鳳梨)。",
+      "pinyin": "Chāoshì lǐ yǒu hěn duō xīnxiān de fènglí.",
+      "english": "There are many fresh pineapples in the supermarket."
     },
     {
-      "chinese": "鳳梨很甜(鳳梨很甜)，值得一试(值得一試)。",
-      "pinyin": "Fènglí hěn tián, zhídé yī shì.",
-      "english": "Pineapple is very sweet and worth trying."
+      "chinese": "我喜欢在夏天吃鳳梨(我喜歡在夏天吃鳳梨)。",
+      "pinyin": "Wǒ xǐhuān zài xiàtiān chī fènglí.",
+      "english": "I like to eat pineapples in the summer."
+    },
+    {
+      "chinese": "鳳梨可以用来做沙拉(鳳梨可以用來做沙拉)，也可以榨成汁(也可以榨成汁)。",
+      "pinyin": "Fènglí kěyǐ yòng lái zuò shālā, yě kěyǐ zhà chéng zhī.",
+      "english": "Pineapple can be used to make salad, and it can also be juiced."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "run; jog",
   "etymology": {
     "type": "compound word",
-    "description": "跑(跑) (pǎo, \"run\") + 步(步) (bù, \"step\") is a combination that describes the action of taking running steps, thus forming the concept of running or jogging.",
-    "interpretation": "By combining the action of running with steps, 跑步(pǎobù) captures the essence of moving rapidly on foot and is commonly used to describe the activity of jogging or running.",
+    "description": "跑(跑) (pǎo, \"run\") indicates the action of running. 步(步) (bù, \"step\") refers to steps or walking, highlighting the movement aspect.",
+    "interpretation": "跑(跑) (pǎo, \"run\") depicts swift movement, so it naturally implies rapid foot motion. 步(步) (bù, \"step\") focuses on the basic unit of motion, a single step. Combining these, 跑步 (pǎobù) emphasizes the repeated, rapid steps characteristic of running or jogging.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "跑",
       "trad": "跑",
       "pinyin": "pǎo",
-      "english": "run; escape"
+      "english": "run"
     },
     {
       "char": "步",
       "trad": "步",
       "pinyin": "bù",
-      "english": "step; pace"
+      "english": "step; pace; walk"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天跑步(我每天跑步)。",
-      "pinyin": "Wǒ měitiān pǎobù.",
-      "english": "I run every day."
+      "chinese": "我每天早上跑步(我每天早上跑步)。",
+      "pinyin": "Wǒ měitiān zǎoshang pǎobù.",
+      "english": "I run every morning."
     },
     {
-      "chinese": "他爱运动(他愛運動)，尤其喜欢跑步(尤其喜歡跑步)。",
-      "pinyin": "Tā ài yùndòng, yóuqí xǐhuān pǎobù.",
-      "english": "He loves sports, especially running."
+      "chinese": "跑步可以增强心肺功能(跑步可以增強心肺功能)。",
+      "pinyin": "Pǎobù kěyǐ zēngqiáng xīnfèi gōngnéng.",
+      "english": "Running can enhance cardiovascular function."
     },
     {
-      "chinese": "春天到了(春天到了)，我去公园跑步(我去公園跑步)。",
-      "pinyin": "Chūntiān dàole, wǒ qù gōngyuán pǎobù.",
-      "english": "Spring has arrived, and I go running in the park."
+      "chinese": "在公园里跑步(在公園里跑步)，感觉非常舒适(感覺非常舒適)。",
+      "pinyin": "Zài gōngyuán lǐ pǎobù, gǎnjué fēicháng shūshì.",
+      "english": "Running in the park feels very comfortable."
     }
   ]
 }

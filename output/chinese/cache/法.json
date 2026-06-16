@@ -5,9 +5,9 @@
   "english": "method; law; way",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 去(去) (qù, 'to go') = water flowing smoothly, orderly, like a law -> method; law",
-    "interpretation": "The character 法(fǎ, 'method; law; way') combines 水(shuǐ, 'water') to suggest the smooth, guiding nature of laws or methods, with 去(qù, 'to go') as a phonetic element, reinforcing the orderly progression associated with law.",
-    "simplification": ""
+    "description": "semantic 氵(氵) (shuǐ, \"water\") + phonetic 去(去) (qù, \"go\") -> method",
+    "interpretation": "The character 法(fǎ, \"method; law\") combines the semantic component 氵(氵) (shuǐ, \"water\") suggesting flow or enactment with the phonetic component 去(去) (qù, \"go\"), which provides the sound. The concept of water implies a guiding principle or natural flow, which together with the action of 'going', forms the idea of following a prescribed path or method, hence 'law' or 'method'.",
+    "simplification": "Originally simplified from 灋, resulting in 法 by retaining key phonetic and semantic elements and omitting structurally non-essential components."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "去",
       "trad": "去",
       "pinyin": "qù",
-      "english": "to go"
+      "english": "go"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "政府颁布法律(政府頒布法律)，维护社会秩序(維護社會秩序)。",
-      "pinyin": "Zhèngfǔ bānbù fǎlǜ, wéihù shèhuì zhìxù.",
-      "english": "The government enacts laws to maintain social order."
+      "chinese": "这个方法很有效(這個方法很有效)。",
+      "pinyin": "Zhège fāngfǎ hěn yǒuxiào.",
+      "english": "This method is very effective."
     },
     {
-      "chinese": "我们应该探索新的方法(我們應該探索新的方法)，解决困难(解決困難)。",
-      "pinyin": "Wǒmen yīnggāi tànsuǒ xīn de fāngfǎ, jiějué kùnnán.",
-      "english": "We should explore new methods to solve problems."
+      "chinese": "学习法律是一个挑战(學習法律是一個挑戰)。",
+      "pinyin": "Xuéxí fǎlǜ shì yī gè tiǎozhàn.",
+      "english": "Studying law is a challenge."
+    },
+    {
+      "chinese": "我们需要找到更好的解决办法(我們需要找到更好的解決辦法)。",
+      "pinyin": "Wǒmen xūyào zhǎodào gèng hǎo de jiějué bànfǎ.",
+      "english": "We need to find a better solution."
     }
   ]
 }

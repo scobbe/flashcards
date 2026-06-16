@@ -1,0 +1,14 @@
+[𠬤] simplified form of 睪.
+
+[睪]
+Various explanations exist.
+In oracle bone script there were two primary forms:
+• ( 𬙜 = ⿱罒矢 ) Ideogrammic compound ( 會意 / 会意 ): 目 ( “ eye ” ) + 矢 ( “ arrow ” ) , possibly meaning “to shoot” or “to see”.
+• ( ⿱㚔廾 or ⿱㚔𠬜 ) Ideogrammic compound ( 會意 / 会意 ): 㚔 ( “ handcuffs ” ) + 廾 or 𠬜 (“pair of hands”) on each side, likely denoting “to release” (now written 釋 ), especially considering the position of hands in 𠬜 are facing away the handcuffs ( Qiu, 1993 ; Chen, 2015 ).
+Commonly used in bronze inscriptions to denote “to pick” (now written 擇 ) (ibid.), as 擇 (“to pick”) and 釋 (“to release”) are etymologically and semantically related ( Yu and Yang, 2023 citing Liu, 2014). To the latter form, the composition 𢍰 with an eye ( 目 ) added appeared in as late as Eastern Zhou bronze inscriptions. It probably serves to fortify the denotion of picking (with eyes) ( Chang, 2016 ; Yu and Yang, 2023 ). In the same period, a composition with hand omitted appeared, giving rise to the current glyph 目 ( “ eye ” ) + 㚔 ( “ handcuff ” ) (ibid.).
+
+[擇]
+Phono-semantic compound ( 形聲 / 形声 , OC *rlaːɡ ): semantic 手 ( “ hand ” ) + phonetic 睪 ( OC *neb, *laːɡ, *kuː ) . In bronze scripts often written 睪 , see there for more.
+
+[择]
+Simplified from 擇 ( 睪 → 𠬤 ).

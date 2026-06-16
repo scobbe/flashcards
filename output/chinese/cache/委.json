@@ -5,8 +5,8 @@
   "english": "entrust",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 禾(禾) (hé, 'grain') + Semantic 女(女) (nǚ, 'woman') -> carrying or entrusting responsibilities -> 'entrust'",
-    "interpretation": "In 委(委) (wěi, 'entrust'), the phonetic component 禾(禾) (hé, 'grain') suggests the sound, while the semantic component 女(女) (nǚ, 'woman'), originally depicted by 𠃊, implies the concept of carrying or handling responsibilities, leading to the meaning 'entrust'.",
+    "description": "phonetic 禾(禾) (hé, \"grain\") + semantic 女(女) (nǚ, \"woman\") -> entrust",
+    "interpretation": "The character 委 combines 禾(禾) (hé, \"grain\") as the phonetic component to suggest sound, with 女(女) (nǚ, \"woman\") as the semantic component. Originally, the oracle bone representation used 𠃊, depicting a figure kneeling, which aligns with the idea of yielding or resigning. Hence, the combination implies entrusting or assigning a task, as one might with a trusted companion or subordinate.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他把重要的任务委托给我(他把重要的任務委託給我)。",
-      "pinyin": "Tā bǎ zhòngyào de rènwù wěituō gěi wǒ.",
-      "english": "He entrusted me with an important task."
+      "chinese": "我把重要的任务委托给他(我把重要的任務委託給他)。",
+      "pinyin": "Wǒ bǎ zhòngyào de rènwù wěituō gěi tā.",
+      "english": "I entrusted the important task to him."
     },
     {
-      "chinese": "公司委任他为项目经理(公司委任他為項目經理)。",
-      "pinyin": "Gōngsī wěirèn tā wéi xiàngmù jīnglǐ.",
-      "english": "The company appointed him as the project manager."
+      "chinese": "经理委任了一名新助理(經理委任了一名新助理)。",
+      "pinyin": "Jīnglǐ wěirèn le yī míng xīn zhùlǐ.",
+      "english": "The manager appointed a new assistant."
     },
     {
-      "chinese": "他感到很委屈，因为没被告知所有的信息(他感到很委屈，因為沒被告知所有的信息)。",
-      "pinyin": "Tā gǎndào hěn wěiqu, yīnwèi méi bèi gàozhī suǒyǒu de xìnxī.",
-      "english": "He felt wronged because he wasn't informed of all the information."
+      "chinese": "她被公司委以重任(她被公司委以重任)。",
+      "pinyin": "Tā bèi gōngsī wěi yǐ zhòngrèn.",
+      "english": "She was entrusted with significant responsibilities by the company."
     }
   ]
 }

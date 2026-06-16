@@ -1,0 +1,38 @@
+{
+  "simplified": "單",
+  "traditional": "單",
+  "pinyin": "dān",
+  "english": "single; alone",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 單(單) (dān, 'granary') + phonetic 旦(旦) (dàn) -> originally depicted a granary infested with insects -> later, 'single; alone'",
+    "interpretation": "The character originally depicted an ideogrammic compound showing a granary (單) infested by insects (虫), reflecting care for a solitary storage unit needing attention, echoing its evolution to mean 'single' or 'alone'. The phonetic component 旦(旦) (dàn) contributes to the pronunciation. Over time, this image simplified to represent the idea of singularity or aloneness more abstractly.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是一张单人床(這是一張單人床)。",
+      "pinyin": "Zhè shì yī zhāng dān rén chuáng.",
+      "english": "This is a single bed."
+    },
+    {
+      "chinese": "他单独一人旅行(他單獨一人旅行)。",
+      "pinyin": "Tā dān dú yī rén lǚxíng.",
+      "english": "He travels alone."
+    },
+    {
+      "chinese": "单凭直觉(單憑直覺)，她做出了决定(她做出了決定)。",
+      "pinyin": "Dān píng zhí jué, tā zuò chūle jué dìng.",
+      "english": "Relying solely on intuition, she made a decision."
+    }
+  ]
+}

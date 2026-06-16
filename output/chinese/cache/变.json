@@ -5,40 +5,46 @@
   "english": "change; transform",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亦(亦) (yì, \"also\") + 言(言) (yán, \"speech\") = sound and additional meaning -> semantic of change and alteration",
-    "interpretation": "The character 變(變) (biàn, \"change\") combines the element 亦(亦) (yì, \"also\") with 言(言) (yán, \"speech\"), suggesting a transformation or change that involves an additional aspect or condition, often of speech or expression.",
-    "simplification": "The traditional form 變(變) (biàn, \"change\") was simplified to 变, where 言(言) (yán, \"speech\") is reduced to the simpler form 讠 by removing strokes."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 𢆶(𢆶) (biàn) + 夂 radical (walk; movement) -> change or transformation",
+    "interpretation": "The character combines 言(言) (yán, \"speech\"), suggesting communication, laws, or commands that direct change, with 𢆶(𢆶), providing the phonetic component for the sound 'biàn'. The 夂 radical (walk; movement) signifies action or the process of transformation. Together, they convey an idea of change or transformation initiated or described through spoken words or commands.",
+    "simplification": "The traditional 變 was simplified by reducing its components to 辶 (movement) + 又 (again) in 变, keeping the core idea of change or transformation."
   },
   "parts": [
-    {
-      "char": "亦",
-      "trad": "亦",
-      "pinyin": "yì",
-      "english": "also"
-    },
     {
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
       "english": "speech"
+    },
+    {
+      "char": "𢆶",
+      "trad": "𢆶",
+      "pinyin": "biàn",
+      "english": "old form of biàn"
+    },
+    {
+      "char": "夂",
+      "trad": "夂",
+      "pinyin": "zhǐ",
+      "english": "walk; movement"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "天气变冷了(天氣變冷了)。",
-      "pinyin": "Tiānqì biàn lěng le.",
-      "english": "The weather has turned cold."
+      "chinese": "天气开始变暖(天氣開始變暖)。",
+      "pinyin": "Tiānqì kāishǐ biàn nuǎn.",
+      "english": "The weather is starting to warm up."
     },
     {
-      "chinese": "随着季节更替(隨著季節更替)，气候变得温和了(氣候變得溫和了)。",
-      "pinyin": "Suízhe jìjié gēngtì, qìhòu biàn de wēnhé le.",
-      "english": "As the seasons change, the climate becomes milder."
+      "chinese": "他变得越来越自信(他變得越來越自信)。",
+      "pinyin": "Tā biàn de yuè lái yuè zìxìn.",
+      "english": "He is becoming more and more confident."
     },
     {
-      "chinese": "历史的车轮滚滚向前(歷史的車輪滾滾向前)，命运变了(命運變了)。",
-      "pinyin": "Lìshǐ de chēlún gǔngǔn xiàng qián, mìngyùn biàn le.",
-      "english": "The wheels of history roll on, and fate has changed."
+      "chinese": "她决定改变生活方式(她決定改變生活方式)。",
+      "pinyin": "Tā juédìng gǎibiàn shēnghuó fāngshì.",
+      "english": "She decided to change her lifestyle."
     }
   ]
 }

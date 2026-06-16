@@ -5,16 +5,16 @@
   "english": "study; learn; school; knowledge",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 爻(\"yoke\") + phonetic 六(\"six\") -> 𦥑 added around to form 𦥯 (concept of learning) -> Semantic 子(\"child\") added -> simplified as 冖(\"cover\") + 爻 -> final form 學",
-    "interpretation": "The traditional character 學 (xué, 'learn') combines phonetic elements to suggest sounds related to learning. The addition of 子 (zǐ, 'child') emphasizes the concept of a child gaining knowledge. Over time, the character evolved to include simplified components, but retained its educational theme by metaphorically representing a child learning under a cover, protected and focused.",
-    "simplification": "學 was simplified to 学 by removing 爻 and 子 and merging components to form a more fluid structure, reducing character complexity."
+    "description": "phonetic 爻 + phonetic 六 -> 𦥑 added -> semantic 子 added -> simplified 六 -> final form",
+    "interpretation": "The character 學 (xué, \"study\") originally combined two phonetic components, 爻 (yáo, \"double cross\") and 六 (liù, \"six\"), to represent its sound. Over time, the character evolved with the addition of 𦥑 (components positioned like hands around 爻) and the semantic 子 (zǐ, \"child\") to specify a child learning or studying, under a cover (冖). In its modern form, 六 is simplified to resemble 冖, which visually merges with the hands around 爻, reflecting the learning process enclosed as children gather to study.",
+    "simplification": "\"学\" is the simplified form of \"學.\" The transformation occurred by merging the visual elements into a compact form, where 冖 serves as a common phonetic and visual element, while the complex structure of 學 was streamlined."
   },
   "parts": [
     {
       "char": "爻",
       "trad": "爻",
       "pinyin": "yáo",
-      "english": "yoke"
+      "english": "double cross"
     },
     {
       "char": "六",
@@ -25,38 +25,32 @@
     {
       "char": "𦥑",
       "trad": "𦥑",
-      "pinyin": "kù",
-      "english": "hands"
+      "pinyin": "kuk",
+      "english": "hands around"
     },
     {
       "char": "子",
       "trad": "子",
       "pinyin": "zǐ",
       "english": "child"
-    },
-    {
-      "char": "冖",
-      "trad": "冖",
-      "pinyin": "mì",
-      "english": "cover"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我想学钢琴(我想學鋼琴)。",
-      "pinyin": "Wǒ xiǎng xué gāngqín.",
-      "english": "I want to learn piano."
+      "chinese": "他每天都努力学习(他每天都努力學習)。",
+      "pinyin": "Tā měitiān dōu nǔlì xuéxí.",
+      "english": "He studies diligently every day."
     },
     {
-      "chinese": "她在学校学习数学(她在學校學習數學)。",
-      "pinyin": "Tā zài xuéxiào xuéxí shùxué.",
-      "english": "She studies mathematics at school."
+      "chinese": "我在北京大学学习中文(我在北京大學學習中文)。",
+      "pinyin": "Wǒ zài Běijīng Dàxué xuéxí zhōngwén.",
+      "english": "I am studying Chinese at Peking University."
     },
     {
-      "chinese": "我们应该向经验丰富的人学习(我們應該向經驗豐富的人學習)。",
-      "pinyin": "Wǒmen yīnggāi xiàng jīngyàn fēngfù de rén xuéxí.",
-      "english": "We should learn from experienced people."
+      "chinese": "这个学校有很多优秀的老师(這個學校有很多優秀的老師)。",
+      "pinyin": "Zhège xuéxiào yǒu hěnduō yōuxiù de lǎoshī.",
+      "english": "This school has many excellent teachers."
     }
   ]
 }

@@ -5,31 +5,25 @@
   "english": "Is there a seat available?",
   "etymology": {
     "type": "compound word",
-    "description": "有(有) (yǒu, \"have\"), 位(位) (wèi, \"seat\"), 子(子) (zi, \"noun suffix\"), 吗(嗎) (ma, \"question particle\")",
-    "interpretation": "This phrase is a question asking whether there is an available seat. 有(有) (yǒu, \"have\") indicates possession or availability, 位(位) (wèi, \"seat\") refers to a place to sit, and 吗(嗎) (ma, \"question particle\") is used to form yes-no questions. The 子(子) (zi, \"noun suffix\") is used here to make 位(位) (wèi, \"seat\") into a more casual expression.",
-    "simplification": "有位子嗎"
+    "description": "有(有) (yǒu, \"have; there is\"), 位(位) (wèi, \"position; seat\"), 子(子) (zi, \"noun suffix\"), 嗎(嗎) (ma, \"question particle\")",
+    "interpretation": "有(有) (yǒu, \"have; there is\") suggests possession or existence, implying the presence of something. 位(位) (wèi, \"position; seat\") denotes a specific location or available spot, often related to seating or rank. 子(子) (zi, \"noun suffix\") creates a noun phrase, finalizing the concept of a 'seat.' 嗎(嗎) (ma, \"question particle\") turns the phrase into a question, asking whether such a seat exists.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "有",
       "trad": "有",
       "pinyin": "yǒu",
-      "english": "have; exist; there is"
+      "english": "have; there is"
     },
     {
-      "char": "位",
-      "trad": "位",
-      "pinyin": "wèi",
-      "english": "seat; position; rank"
+      "char": "位子",
+      "trad": "位子",
+      "pinyin": "wèi zi",
+      "english": "seat"
     },
     {
-      "char": "子",
-      "trad": "子",
-      "pinyin": "zi",
-      "english": "noun suffix; child; son"
-    },
-    {
-      "char": "吗",
+      "char": "嗎",
       "trad": "嗎",
       "pinyin": "ma",
       "english": "question particle"
@@ -38,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "走进餐厅时(走進餐廳時)，你可以问服务员(你可以問服務員)：有位子吗(有位子嗎)？",
-      "pinyin": "zǒu jìn cāntīng shí, nǐ kěyǐ wèn fúwùyuán: yǒu wèi zi ma?",
-      "english": "When you walk into a restaurant, you can ask the waiter: Is there a seat available?"
+      "chinese": "餐厅里的人很多(餐廳裡的人很多)，你可以问一下有位子吗(有位子嗎)？",
+      "pinyin": "Cāntīng lǐ de rén hěn duō, nǐ kěyǐ wèn yīxià yǒu wèi zi ma?",
+      "english": "There are many people in the restaurant, can you ask if there is a seat available?"
     },
     {
-      "chinese": "到达咖啡馆时(到達咖啡館時)，请问有位子吗(請問有位子嗎)？",
-      "pinyin": "dào dá kāfēiguǎn shí, qǐng wèn yǒu wèi zi ma?",
-      "english": "When you arrive at the café, please ask: Is there a seat available?"
+      "chinese": "请问这里有位子吗(請問這裡有位子嗎)？",
+      "pinyin": "Qǐng wèn zhèlǐ yǒu wèi zi ma?",
+      "english": "Excuse me, is there a seat available here?"
     },
     {
-      "chinese": "你到图书馆(你到圖書館)，问问管理员(問問管理員)：有位子吗(有位子嗎)？",
-      "pinyin": "nǐ dào túshūguǎn, wèn wèn guǎnlǐyuán: yǒu wèi zi ma?",
-      "english": "When you get to the library, ask the administrator: Is there a seat available?"
+      "chinese": "如果你去电影院，你应该先查有位子吗(有位子嗎)？",
+      "pinyin": "Rúguǒ nǐ qù diànyǐngyuàn, nǐ yīnggāi xiān chá yǒu wèi zi ma?",
+      "english": "If you go to the cinema, you should check first if there is a seat available."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "否",
+  "traditional": "否",
+  "pinyin": "pǐ",
+  "english": "no",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 不(不) (bù, \"not\") -> represent denial or negation",
+    "interpretation": "The character 否(pǐ, \"no\") combines the semantic element 口(口) (kǒu, \"mouth\") with the phonetic element 不(不) (bù, \"not\"). The mouth is associated with speech, and when combined with 'not', it conveys the idea of refusal or denial, which aligns with the meaning 'no'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你去不去学校(你去不去學校)？",
+      "pinyin": "Nǐ qù bù qù xuéxiào?",
+      "english": "Are you going to school or not?"
+    },
+    {
+      "chinese": "这个答案是对的还是错的(這個答案是對的還是錯的)？",
+      "pinyin": "Zhège dá'àn shì duì de háishì cuò de?",
+      "english": "Is this answer right or wrong?"
+    },
+    {
+      "chinese": "他是否知道这个消息(他是否知道這個消息)？",
+      "pinyin": "Tā shìfǒu zhīdào zhège xiāoxi?",
+      "english": "Does he know this news or not?"
+    }
+  ]
+}

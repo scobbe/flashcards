@@ -5,8 +5,8 @@
   "english": "to cover",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "盍(盍) (hé, \"why not\") abbreviated + 甲(甲) (jiǎ, \"armor\") as phonetic = original form of 掩(掩) (yǎn, \"to cover\") -> used for covering.",
-    "interpretation": "The character 奄(yān, \"to cover\") initially formed by combining the abbreviation of 盍(盍) (hé, \"why not\") for its semantic meaning and 甲(甲) (jiǎ, \"armor\") for its phonetic suggestion. It evolved to denote the concept of covering or covering over.",
+    "description": "abbreviated semantic 盍(盍) (hé, \"why not\") + phonetic 甲(甲) (jiǎ, \"armor\") -> original form of 掩(掩) (yǎn, \"to cover\")",
+    "interpretation": "奄(yān, \"to cover\") involves the concept of sheltering or enveloping, akin to covering something, which is indicated phonetically by 甲(甲) (jiǎ, \"armor\"), suggesting a protective layer or covering.",
     "simplification": ""
   },
   "parts": [
@@ -21,6 +21,12 @@
       "trad": "甲",
       "pinyin": "jiǎ",
       "english": "armor"
+    },
+    {
+      "char": "掩",
+      "trad": "掩",
+      "pinyin": "yǎn",
+      "english": "to cover"
     }
   ],
   "in_contemporary_usage": false,

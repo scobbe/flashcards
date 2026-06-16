@@ -4,28 +4,25 @@
   "pinyin": "jí",
   "english": "bowl with stand",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "亼 (mouth) + 皀 (bowl of rice on a stand) = bowl with stand",
-    "interpretation": "19.07",
+    "type": "pictogram",
+    "description": "亼 (mouth) over 皀 (bowl of rice on a stand) -> depicts a bowl with a stand",
+    "interpretation": "The character 𠊊 visually represents a mouth above a bowl of rice on a stand, indicating a utensil or vessel used for holding food. This image directly links to the idea of a 'bowl with stand.' The component 皀 specifically conveys the idea of a container or bowl elevated, which situates its primary meaning in the context of serving or holding food.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "我用𠊊(𠊊)来盛汤(來盛湯)。",
-      "pinyin": "Wǒ yòng jí lái chéng tāng.",
-      "english": "I use the bowl with stand to serve soup."
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "mouth"
     },
     {
-      "chinese": "他买了一个𠊊(𠊊)，来装热汤(來裝熱湯)。",
-      "pinyin": "Tā mǎi le yīgè jí, lái zhuāng rè tāng.",
-      "english": "He bought a bowl with stand to hold hot soup."
-    },
-    {
-      "chinese": "古人常以𠊊(𠊊)为器(為器)，供祭祀之用(供祭祀之用)。",
-      "pinyin": "Gǔrén cháng yǐ jí wéi qì, gòng jìsì zhī yòng.",
-      "english": "Ancients often used the bowl with stand as an instrument for sacrificial ceremonies."
+      "char": "皀",
+      "trad": "皀",
+      "pinyin": "jí",
+      "english": "bowl of rice on a stand"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

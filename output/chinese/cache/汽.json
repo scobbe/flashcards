@@ -5,40 +5,40 @@
   "english": "steam; vapor",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 气(气) (qì, \"air\") = water vapor, steam",
-    "interpretation": "汽(汽) (qì, \"steam\") cleverly combines the concepts of water and air to represent steam, highlighting its nature as vapor or steam formed from water and air.",
+    "description": "semantic 氵(水) (shuǐ, 'water') + phonetic 气(氣) (qì, 'air') -> steam; vapor",
+    "interpretation": "The character 汽(qì) combines 氵(shuǐ, 'water'), indicating a fluid element, with 气(qì, 'air'), to form the concept of steam or vapor. This represents the transformation of water into vapor by combining it with air, visualizing the process where water becomes steam when heated.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
-      "pinyin": "shuǐ",
-      "english": "water"
-    },
-    {
-      "char": "气",
-      "trad": "气",
+      "char": "氣",
+      "trad": "氣",
       "pinyin": "qì",
       "english": "air"
+    },
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "热水烧开后产生汽(熱水燒開後產生汽)，蒸汽缓缓上升(蒸氣緩緩上升)。",
-      "pinyin": "Rè shuǐ shāo kāi hòu chǎnshēng qì, zhēngqì huǎnhuǎn shàngshēng.",
-      "english": "When hot water boils, it produces steam, and the vapor rises slowly."
+      "chinese": "热水变成蒸汽(熱水變成蒸汽)。",
+      "pinyin": "Rè shuǐ biàn chéng zhēngqì.",
+      "english": "Hot water turns into steam."
     },
     {
-      "chinese": "冷空气遇到热水时形成汽(冷空氣遇到熱水時形成汽)，给人带来清凉感觉(給人帶來清涼感覺)。",
-      "pinyin": "Lěng kōngqì yù dào rè shuǐ shí xíngchéng qì, gěi rén dài lái qīngliáng gǎnjué.",
-      "english": "When cold air meets hot water, vapor is formed and it gives a refreshing feeling."
+      "chinese": "我们常用水蒸汽来加热食物(我們常用水蒸汽來加熱食物)。",
+      "pinyin": "Wǒmen cháng yòng shuǐ zhēngqì lái jiārè shíwù.",
+      "english": "We often use water vapor to heat food."
     },
     {
-      "chinese": "锅炉中常常产生汽(鍋爐中常常產生汽)，驱动机器运转(驅動機器運轉)。",
-      "pinyin": "Guōlú zhōng chángcháng chǎnshēng qì, qūdòng jīqì yùnzhuǎn.",
-      "english": "Steam is often produced in boilers to drive machines."
+      "chinese": "汽笛声响起(汽笛聲響起)，火车要出发了(火車要出發了)。",
+      "pinyin": "Qìdí shēng xiǎng qǐ, huǒchē yào chūfā le.",
+      "english": "The steam whistle sounded, and the train was about to depart."
     }
   ]
 }

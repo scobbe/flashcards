@@ -5,22 +5,27 @@
   "english": "stone",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a stone beneath a cliff, where the upper part originally looked like a cliff (厂) but was distorted into 丆 over time.",
-    "interpretation": "The character 石(shí, 'stone') visually represents a stone in a natural setting, highlighting the element of a cliff or mountain. Its visual design aims to reflect the appearance of rocks lodged or embedded in a mountainous or cliff-like setting.",
+    "description": "Depicts a stone beneath a cliff (厂) -> distorted to 丆 -> stone",
+    "interpretation": "The character 石(shí, 'stone') originally depicted a stone under a cliff, representing the idea of a solid, natural object found at the base of rocky formations.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在河边发现一块石(他在河邊發現一塊石)。",
-      "pinyin": "Tā zài hé biān fāxiàn yī kuài shí.",
-      "english": "He discovered a piece of stone by the riverside."
+      "chinese": "那个花园里有一块很大的石头(那個花園裡有一塊很大的石頭)。",
+      "pinyin": "Nàge huāyuán lǐ yǒu yīkuài hěn dà de shítou.",
+      "english": "There is a big stone in the garden."
     },
     {
-      "chinese": "孩子们喜欢堆石(孩子們喜歡堆石)，玩得开心(玩得開心)。",
-      "pinyin": "Háizimen xǐhuān duī shí, wán de kāixīn.",
-      "english": "Children like to stack stones, playing happily."
+      "chinese": "石头变得很滑，因为下雨了(石頭變得很滑，因為下雨了)。",
+      "pinyin": "Shítou biàn de hěn huá, yīnwèi xià yǔ le.",
+      "english": "The stone became very slippery because it rained."
+    },
+    {
+      "chinese": "他收集了很多不同种类的石头(他收集了很多不同種類的石頭)。",
+      "pinyin": "Tā shōujíle hěnduō bùtóng zhǒnglèi de shítou.",
+      "english": "He collected many different kinds of stones."
     }
   ]
 }

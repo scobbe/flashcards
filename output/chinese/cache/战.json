@@ -5,40 +5,46 @@
   "english": "war; fight",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "戈(戈) (gē, \"spear\") + 単(單) (dān) = weapon and phonetic component -> battle",
-    "interpretation": "The character 战(戰) (zhàn, \"war; fight\") combines 戈(戈) (gē, \"spear\"), a symbol of weaponry, with 単(單) (dān), which acts as the phonetic component, to represent the concept of battle or warfare. The spear suggests the martial aspect, while the phonetic component ties in with pronunciation.",
-    "simplification": "战(戰) simplified by reducing the complexity of the single component, replacing 戔(戔) with its simplified form."
+    "description": "phonetic 單 + semantic 戈 ('halberd') -> battling with a halberd",
+    "interpretation": "The character 戰 (zhàn, \"war; fight\") combines 單 (dān, \"single; alone\") as the phonetic component with 戈 (gē, \"halberd\") as the semantic part. The use of the halberd signifies combat, reflecting the concept of fighting or engaging in war.",
+    "simplification": "The traditional character 戰 was simplified to 战 by replacing 單 (dān, 'single; alone') with 占 (zhān, 'occupy') to reduce the number of strokes."
   },
   "parts": [
+    {
+      "char": "單",
+      "trad": "單",
+      "pinyin": "dān",
+      "english": "single; alone"
+    },
     {
       "char": "戈",
       "trad": "戈",
       "pinyin": "gē",
-      "english": "spear"
+      "english": "halberd"
     },
     {
-      "char": "単",
-      "trad": "單",
-      "pinyin": "dān",
-      "english": "phonetic component"
+      "char": "占",
+      "trad": "占",
+      "pinyin": "zhān",
+      "english": "occupy"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在战场上奋勇杀敌(他在戰場上奮勇殺敵)。",
-      "pinyin": "Tā zài zhànchǎng shàng fèn yǒng shā dí。",
-      "english": "He fought bravely on the battlefield."
+      "chinese": "战争的阴影笼罩着整个国家(戰爭的陰影籠罩著整個國家)。",
+      "pinyin": "Zhànzhēng de yīnyǐng lǒngzhào zhe zhěnggè guójiā.",
+      "english": "The shadow of war loomed over the entire nation."
     },
     {
-      "chinese": "历史记载了许多惨烈的战斗(歷史記載了許多慘烈的戰鬥)。",
-      "pinyin": "Lìshǐ jìzǎi le xǔduō cǎn liè de zhàndòu。",
-      "english": "History records many fierce battles."
+      "chinese": "勇士们为正义而战(勇士們為正義而戰)。",
+      "pinyin": "Yǒngshìmen wèi zhèngyì ér zhàn.",
+      "english": "The warriors fought for justice."
     },
     {
-      "chinese": "胜利属于勇于战斗的人(勝利屬於勇於戰鬥的人)。",
-      "pinyin": "Shènglì shǔyú yǒng yú zhàndòu de rén。",
-      "english": "Victory belongs to those who fight courageously."
+      "chinese": "两国之间的战斗愈演愈烈(兩國之間的戰鬥愈演愈烈)。",
+      "pinyin": "Liǎng guó zhī jiān de zhàndòu yù yǎn yù liè.",
+      "english": "The battle between the two countries intensified."
     }
   ]
 }

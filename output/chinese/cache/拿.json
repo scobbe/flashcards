@@ -5,8 +5,8 @@
   "english": "take; hold",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "奴(奴) (nú, \"servant\") + 手(手) (shǒu, \"hand\") = taking with the hand -> later evolved to include 合(合) (hé, \"combine\") to form a new glyph for 'take, hold'",
-    "interpretation": "The character combines the phonetic component 奴(奴) (nú, \"servant\") with 手(手) (shǒu, \"hand\") to portray the action of a hand taking or holding. The addition of 合(合) (hé, \"combine\") in 拿 evolved it as an accepted alternative glyph, streamlining meaning and form from its earlier versions.",
+    "description": "phonetic 奴(奴) (nú, \"slave\") + semantic 手(手) (shǒu, \"hand\") -> take with the hand",
+    "interpretation": "奴(奴) (nú, \"slave\") provides the phonetic element, while 手(手) (shǒu, \"hand\") suggests the action involves manual effort, leading to the meaning \"take\" or \"hold.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,31 @@
       "char": "奴",
       "trad": "奴",
       "pinyin": "nú",
-      "english": "servant"
+      "english": "slave"
     },
     {
       "char": "手",
       "trad": "手",
       "pinyin": "shǒu",
       "english": "hand"
-    },
-    {
-      "char": "合",
-      "trad": "合",
-      "pinyin": "hé",
-      "english": "combine"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请你把书拿给我(請你把書拿給我)。",
-      "pinyin": "Qǐng nǐ bǎ shū ná gěi wǒ.",
-      "english": "Please take the book to me."
+      "chinese": "请把这个包拿给我(請把這個包拿給我)。",
+      "pinyin": "Qǐng bǎ zhège bāo ná gěi wǒ.",
+      "english": "Please take this bag to me."
     },
     {
-      "chinese": "他拿起电话(他拿起電話)，拨打紧急呼叫(撥打緊急呼叫)。",
-      "pinyin": "Tā ná qǐ diànhuà, bōdǎ jǐnjí hūjiào.",
-      "english": "He picked up the phone, and dialed for emergency help."
+      "chinese": "他必须拿出证明文件(他必須拿出證明文件)，才能进入大楼(才能進入大樓)。",
+      "pinyin": "Tā bìxū ná chū zhèngmíng wénjiàn, cái néng jìnrù dàlóu.",
+      "english": "He has to take out the proof documents to enter the building."
     },
     {
-      "chinese": "她先拿出钥匙(她先拿出鑰匙)，打开门(打開門)。",
-      "pinyin": "Tā xiān ná chū yàoshi, dǎkāi mén.",
-      "english": "She first took out the key, then opened the door."
+      "chinese": "请先拿号(請先拿號)，然后在座位上等候(然後在座位上等候)。",
+      "pinyin": "Qǐng xiān ná hào, ránhòu zài zuòwèi shàng děnghòu.",
+      "english": "Please take a number first, then wait at the seat."
     }
   ]
 }

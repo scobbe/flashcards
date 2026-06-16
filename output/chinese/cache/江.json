@@ -5,8 +5,8 @@
   "english": "river",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 工(工) (gōng, from its Old Chinese pronunciation) = water-related meaning reinforced by phonetic component -> river",
-    "interpretation": "The character 江(江) (jiāng, \"river\") combines the water radical 氵(氵) (shuǐ, \"water\") with the phonetic component 工(工) (gōng). This combination signifies a large body of water, fitting the meaning \"river.\"",
+    "description": "semantic 氵(氵) (shuǐ, \"water\") + phonetic 工(工) (gōng) -> meaning",
+    "interpretation": "The water radical 氵(氵) (shuǐ, \"water\") indicates the association with water, specifically a river. The 工(工) (gōng) provides the pronunciation, connecting the sound with the natural context of water courses.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条江水流湍急(這條江水流湍急)。",
-      "pinyin": "Zhè tiáo jiāng shuǐ liú tuān jí.",
-      "english": "This river flows rapidly."
+      "chinese": "这条江流经许多城镇(這條江流經許多城鎮)。",
+      "pinyin": "Zhè tiáo jiāng liújīng xǔduō chéngzhèn.",
+      "english": "This river flows through many towns."
     },
     {
-      "chinese": "江面上漂浮着渔船(江面上飄浮著漁船)。",
-      "pinyin": "Jiāng miàn shàng piāo fú zhe yú chuán.",
-      "english": "Fishing boats float on the river surface."
+      "chinese": "江水捧起一片叶子(江水捧起一片葉子)，飘向远方(飄向遠方)。",
+      "pinyin": "Jiāngshuǐ pěng qǐ yī piàn yèzi, piāo xiàng yuǎnfāng.",
+      "english": "The river water lifted a leaf, floating it into the distance."
     },
     {
-      "chinese": "夜晚月光映在江上(夜晚月光映在江上)。",
-      "pinyin": "Yè wǎn yuè guāng yìng zài jiāng shàng.",
-      "english": "At night, the moonlight reflects on the river."
+      "chinese": "我喜欢在江边散步(我喜歡在江邊散步)，欣赏美景(欣賞美景)。",
+      "pinyin": "Wǒ xǐhuān zài jiāng biān sànbù, xīnshǎng měijǐng.",
+      "english": "I like to walk along the river, enjoying the beautiful scenery."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "Cungen Gai Old Style Hot Pot",
   "etymology": {
     "type": "compound word",
-    "description": "存根(存根) (cún gēn, \"retain the base\"); 蓋(蓋) (gài, \"cover\"); 不改(不改) (bù gǎi, \"do not change\"); 老(老) (lǎo, \"old\"); 火鍋(火鍋) (huǒ guō, \"hot pot\")",
-    "interpretation": "This phrase refers to a style or brand of hot pot that emphasizes traditional or original flavors without alteration. The word 老火鍋(火鍋) (lǎo huǒ guō, \"old hot pot\") suggests a classic or traditional method, while 不改(不改) (bù gǎi, \"do not change\") emphasizes maintaining authenticity. 存根(存根) (cún gēn, \"retain the base\") and 蓋(蓋) (gài, \"cover\") contribute to the idea of preserving original features while serving the hot pot.",
+    "description": "The phrase is a specific name and should be understood as such without a breakdown that provides further meaning. However, each part involves morphemes with distinct roles. 存(存) (cún, 'exist; store') suggests preservation, 根(根) (gēn, 'root; origin') hints at foundational aspects; together 存根 stores foundational essence. 蓋(蓋) (gài, 'cover; lid') literally refers to a cover. 不改 (bù gǎi, 'not change') implies consistency. 老(老) (lǎo, 'old; experienced') suggests traditional or authentic. 火鍋(火锅) (huǒ guō, 'hot pot') indicates a type of meal involving cooking at the table.",
+    "interpretation": "The phrase 存根蓋不改老火鍋 can be understood as a name indicating a hot pot house that prides itself on retaining traditional or original recipes. 存根(gēn) emphasizes maintaining foundational aspects of the food. 不改 (bù gǎi) suggests an unwavering adherence to tradition, while 老火鍋 (lǎo huǒ guō) specifies the type of cuisine, known for its warming, communal dining nature.",
     "simplification": ""
   },
   "parts": [
@@ -14,49 +14,43 @@
       "char": "存根",
       "trad": "存根",
       "pinyin": "cún gēn",
-      "english": "retain the base; stub"
+      "english": "store root; receipt stub"
     },
     {
       "char": "蓋",
       "trad": "蓋",
       "pinyin": "gài",
-      "english": "cover; lid; top"
+      "english": "cover; lid"
     },
     {
       "char": "不改",
       "trad": "不改",
       "pinyin": "bù gǎi",
-      "english": "do not change; unaltered"
+      "english": "not change"
     },
     {
-      "char": "老",
-      "trad": "老",
-      "pinyin": "lǎo",
-      "english": "old; aged; experienced"
-    },
-    {
-      "char": "火鍋",
-      "trad": "火鍋",
-      "pinyin": "huǒ guō",
-      "english": "hot pot"
+      "char": "老火鍋",
+      "trad": "老火鍋",
+      "pinyin": "lǎo huǒ guō",
+      "english": "old-style hot pot"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "存根盖·不改老火锅是一个受欢迎的传统火锅品牌(存根蓋·不改老火鍋是一个受歡迎的傳統火鍋品牌)。",
-      "pinyin": "Cún gēn gài · bù gǎi lǎo huǒ guō shì yīgè shòu huānyíng de chuántǒng huǒguō pǐnpái.",
-      "english": "Cún Gai Old Style Hot Pot is a popular traditional hot pot brand."
+      "chinese": "这家餐厅叫存根盖不改老火锅(這家餐廳叫存根蓋不改老火鍋)。",
+      "pinyin": "Zhè jiā cāntīng jiào cún gēn gài bù gǎi lǎo huǒ guō.",
+      "english": "This restaurant is called Cungen Gai Old Style Hot Pot."
     },
     {
-      "chinese": "我和朋友去吃存根盖·不改老火锅(我和朋友去吃存根蓋·不改老火鍋)，享受经典美味(享受經典美味)。",
-      "pinyin": "Wǒ hé péngyǒu qù chī Cún gēn gài · bù gǎi lǎo huǒ guō, xiǎngshòu jīngdiǎn měiwèi.",
-      "english": "My friends and I go to eat Cún Gai Old Style Hot Pot, enjoying its classic delicious taste."
+      "chinese": "我们晚上去存根盖不改老火锅(我們晚上去存根蓋不改老火鍋)，人很多(人很多)。",
+      "pinyin": "Wǒmen wǎnshàng qù cún gēn gài bù gǎi lǎo huǒ guō, rén hěn duō.",
+      "english": "We went to Cungen Gai Old Style Hot Pot in the evening, and there were many people."
     },
     {
-      "chinese": "存根盖·不改老火锅凭借独特风味吸引了各地食客(存根蓋·不改老火鍋憑藉獨特風味吸引了各地食客)。",
-      "pinyin": "Cún gēn gài · bù gǎi lǎo huǒ guō píngjiè dútè fēngwèi xīyǐn le gèdì shíkè.",
-      "english": "Cún Gai Old Style Hot Pot has attracted diners from all over the region with its unique flavor."
+      "chinese": "存根盖不改老火锅(存根蓋不改老火鍋)的牛肉非常好吃(牛肉非常好吃)。",
+      "pinyin": "Cún gēn gài bù gǎi lǎo huǒ guō de niúròu fēicháng hàochī.",
+      "english": "The beef at Cungen Gai Old Style Hot Pot is extremely delicious."
     }
   ]
 }

@@ -2,11 +2,11 @@
   "simplified": "袁",
   "traditional": "袁",
   "pinyin": "yuán",
-  "english": "phonetic component",
+  "english": "long garment, surname",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "衣(衣) (yī, 'clothing') + 音(音) (yīn, used for phonetic purposes) = phonetic sound carrier -> phonetic component 'yuán'",
-    "interpretation": "The character 袁(yuán) utilizes 衣(yī, 'clothing') to suggest a connection to garments, while 音(yīn) serves as the phonetic element. Together, they form a character used phonologically.",
+    "type": "ideogrammic compound",
+    "description": "衣(\"clothes\") + 又(\"hand\") = to put on clothes",
+    "interpretation": "The character 袁 originally depicted the action of putting on or wearing clothes, with 衣(衣) (yī, \"clothes\") representing garments and 又(又) (yòu, \"hand\") indicating the action of using hands to dress. The hand component, which later evolved into other forms, indicates the interaction with clothes, hence forming the meaning of wearing. Over time, this character came to be associated with a long garment and used as a surname.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "衣",
       "trad": "衣",
       "pinyin": "yī",
-      "english": "clothing"
+      "english": "clothes"
     },
     {
-      "char": "音",
-      "trad": "音",
-      "pinyin": "yīn",
-      "english": "phonetic component"
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在汉字构造中(在漢字構造中)，袁常被用作声旁(袁常被用作聲旁)。",
-      "pinyin": "Zài hànzì gòuzào zhōng, yuán cháng bèi yòng zuò shēngpáng.",
-      "english": "In the formation of Chinese characters, '袁' is often used as a phonetic component."
+      "chinese": "袁先生是一个伟大的作家(袁先生是一個偉大的作家)。",
+      "pinyin": "Yuán xiānshēng shì yī gè wěidà de zuòjiā.",
+      "english": "Mr. Yuan is a great writer."
     },
     {
-      "chinese": "这个字里面(這個字裡面)，包含了袁这个音旁(包含了袁這個音旁)。",
-      "pinyin": "Zhège zì lǐmiàn, bāohánle yuán zhège yīnpáng.",
-      "english": "This character contains '袁' as its phonetic component."
+      "chinese": "他们都称呼他为袁博士(他們都稱呼他為袁博士)。",
+      "pinyin": "Tāmen dōu chēnghū tā wéi Yuán bóshì.",
+      "english": "They all call him Dr. Yuan."
+    },
+    {
+      "chinese": "袁家大院有一个美丽的花园(袁家大院有一個美麗的花園)。",
+      "pinyin": "Yuán jiā dàyuàn yǒu yī gè měilì de huāyuán.",
+      "english": "The Yuan family's large courtyard has a beautiful garden."
     }
   ]
 }

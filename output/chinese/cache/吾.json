@@ -5,35 +5,40 @@
   "english": "I",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 五 (wǔ, 'five') + semantic 口 (kǒu, 'mouth') = personal pronoun 'I' using voice",
-    "interpretation": "The character 吾 is a phono-semantic compound that combines 五 (wǔ, 'five') to suggest the sound with 口 (kǒu, 'mouth'), which represents speaking or vocalization. This combination emphasizes the personal pronoun 'I,' reflecting verbal self-reference.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 五(五) (wǔ) -> I",
+    "interpretation": "The character 吾(wú, \"I\") combines 口(口) (kǒu, \"mouth\") as the semantic component, signifying the speaker or the mouth of the speaker, with 五(五) (wǔ) as the phonetic component to provide the sound. The mouth represents speaking for oneself, linking to the pronoun 'I'.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "五",
-      "trad": "五",
-      "pinyin": "wǔ",
-      "english": "five"
-    },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
       "english": "mouth"
+    },
+    {
+      "char": "五",
+      "trad": "五",
+      "pinyin": "wǔ",
+      "english": "five"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "吾爱书(吾愛書)。",
-      "pinyin": "wú ài shū",
-      "english": "I love books."
+      "chinese": "吾爱此地，愿常驻于此(吾愛此地，願常駐於此)。",
+      "pinyin": "Wú ài cǐ dì, yuàn cháng zhù yú cǐ.",
+      "english": "I love this place and wish to stay here forever."
     },
     {
-      "chinese": "吾行于天下(吾行於天下)，求知若渴(求知若渴)。",
-      "pinyin": "wú xíng yú tiān xià, qiú zhī ruò kě",
-      "english": "I travel the world, seeking knowledge as if I were thirsty."
+      "chinese": "吾之思绪飘向远方(吾之思緒飄向遠方)。",
+      "pinyin": "Wú zhī sīxù piāo xiàng yuǎnfāng.",
+      "english": "My thoughts drift to distant places."
+    },
+    {
+      "chinese": "天地之间，吾心如水(天地之間，吾心如水)。",
+      "pinyin": "Tiāndì zhī jiān, wú xīn rú shuǐ.",
+      "english": "Between heaven and earth, my heart is as calm as water."
     }
   ]
 }

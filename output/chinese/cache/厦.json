@@ -5,16 +5,16 @@
   "english": "mansion",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "厂(厂) (chǎng, \"cliff\") provides the structure shape + 夏(夏) (xià, \"summer\") as phonetic = structure associated with summer -> mansion",
-    "interpretation": "The character 廈(廈) (xià, \"mansion\") combines the semantic element 厂(厂) (chǎng, \"cliff\") suggesting a solid structure, with 夏(夏) (xià, \"summer\") as the phonetic component, indicating something grand and enduring like a mansion.",
-    "simplification": "厦 is both a simplified and variant traditional form, with no simplification beyond removing redundant strokes around 厂(厂) (chǎng, \"cliff\") while retaining the essential phonetic 夏(夏) (xià, \"summer\")."
+    "description": "semantic 广(广) (guǎng, 'shelter') + phonetic 夏(夏) (xià, 'summer') -> large building offering shelter",
+    "interpretation": "The semantic component 广(广) (guǎng, 'shelter') suggests a structure or building, while the phonetic component 夏(夏) (xià) contributes its sound. Combining these, the character represents a large building capable of housing many people, akin to a mansion.",
+    "simplification": "Simplified to 厦 by removing the shared top radical 广(广) (guǎng, 'shelter') in traditional form 廈."
   },
   "parts": [
     {
-      "char": "厂",
-      "trad": "厂",
-      "pinyin": "chǎng",
-      "english": "cliff"
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "shelter"
     },
     {
       "char": "夏",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座大厦很漂亮(這座大廈很漂亮)。",
-      "pinyin": "Zhè zuò dàshà hěn piàoliang.",
-      "english": "This mansion is very beautiful."
+      "chinese": "这座豪华的厦(這座豪華的廈)吸引了很多游客。",
+      "pinyin": "Zhè zuò háohuá de xià xīyǐnle hěn duō yóukè.",
+      "english": "This luxurious mansion attracts many tourists."
     },
     {
-      "chinese": "他们参观了历史悠久的大厦(他們參觀了歷史悠久的大廈)，感受到了城市的变迁(感受到了城市的變遷)。",
-      "pinyin": "Tāmen cānguānle lìshǐ yōujiǔ de dàshà，gǎnshòu dàole chéngshì de biànqiān.",
-      "english": "They visited the historic mansion and experienced the city's transformation."
+      "chinese": "他住在郊区的一座大厦(他住在郊區的一座大廈)，风景很美(風景很美)。",
+      "pinyin": "Tā zhù zài jiāoqū de yī zuò dàxià, fēngjǐng hěn měi.",
+      "english": "He lives in a mansion in the suburbs, and the view is beautiful."
     },
     {
-      "chinese": "宴会在宽敞的大厦中举行(宴會在寬敞的大廈中舉行)。",
-      "pinyin": "Yànhuì zài kuānchǎng de dàshà zhōng jǔxíng.",
-      "english": "The banquet was held in the spacious mansion."
+      "chinese": "这栋老厦(這棟老廈)拥有悠久的历史。",
+      "pinyin": "Zhè dòng lǎo xià yǒngyǒu yōujiǔ de lìshǐ.",
+      "english": "This old mansion has a long history."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "instruct; teach",
   "etymology": {
     "type": "compound word",
-    "description": "教(教) (jiào, \"teach\") and 导(導) (dǎo, \"guide\") together form the compound 教导(教導) (jiàodǎo, \"instruct; teach\"). The word conveys the notion of not only imparting knowledge but also guiding and mentoring someone.",
-    "interpretation": "The combination makes sense as it encompasses both teaching and guiding, suggesting a comprehensive approach to education that includes mentorship and leadership.",
+    "description": "教(教) (jiào, \"teach\") implies the traditional method of imparting knowledge, involving both explanation and example. 導(導) (dǎo, \"guide\") conveys the action of leading someone in a direction or showing them the way.",
+    "interpretation": "教(教) (jiào, \"teach\") involves explaining or showing someone how to do something, often invoking traditional methods or systems of thought. 導(導) (dǎo, \"guide\") adds the nuance of leading beyond just giving information, suggesting a process of steering someone in learning. Together, they form a comprehensive view of education as both imparting knowledge and guiding through learning journeys.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "教",
       "trad": "教",
       "pinyin": "jiào",
-      "english": "teach; instruct; educate; guidance"
+      "english": "teach; educate; religion"
     },
     {
       "char": "导",
       "trad": "導",
       "pinyin": "dǎo",
-      "english": "guide; lead; direct; conduct"
+      "english": "guide; lead; conduct"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师教导学生(老師教導學生)。",
-      "pinyin": "Lǎoshī jiàodǎo xuéshēng.",
-      "english": "The teacher instructs the students."
+      "chinese": "老师教导我们做人要诚实(老師教導我們做人要誠實)。",
+      "pinyin": "Lǎoshī jiàodǎo wǒmen zuòrén yào chéngshí.",
+      "english": "The teacher instructs us to be honest."
     },
     {
-      "chinese": "父母教导孩子(父母教導孩子)，要做正直的人(要做正直的人)。",
-      "pinyin": "Fùmǔ jiàodǎo háizi, yào zuò zhèngzhí de rén.",
-      "english": "Parents instruct their children to be honest people."
+      "chinese": "父母的教导影响了他的一生(父母的教導影響了他的一生)。",
+      "pinyin": "Fùmǔ de jiàodǎo yǐngxiǎngle tā de yīshēng.",
+      "english": "The instruction from his parents influenced his whole life."
+    },
+    {
+      "chinese": "在长者的教导下(在長者的教導下)，我们学到了很多宝贵的经验(我們學到了很多寶貴的經驗)。",
+      "pinyin": "Zài zhǎngzhě de jiàodǎo xià, wǒmen xué dàole hěn duō bǎoguì de jīngyàn.",
+      "english": "Under the instruction of the elders, we learned many valuable experiences."
     }
   ]
 }

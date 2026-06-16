@@ -5,41 +5,46 @@
   "english": "National Art Museum of China",
   "etymology": {
     "type": "compound word",
-    "description": "中(中) (zhōng, \"middle; central\") + 国(國) (guó, \"country; nation\") = 中国(中國) (zhōngguó, \"China\") + 美(美) (měi, \"beautiful\") + 术(術) (shù, \"art; technique\") = 美术(美術) (měishù, \"art\") + 馆(館) (guǎn, \"building; hall\") = 美术馆(美術館) (měishùguǎn, \"art museum\")",
-    "interpretation": "中国(中國) (zhōngguó, \"China\") refers to the nation, while 美术馆(美術館) (měishùguǎn, \"art museum\") denotes a place dedicated to the exhibition and appreciation of art. Therefore, 中国美术馆(中國美術館) (zhōngguó měishùguǎn) describes an art museum located in China, specifically the National Art Museum of China.",
+    "description": "中國(中國) (Zhōngguó, \"China\") indicates the nation, 美術(美術) (měishù, \"art\") refers to the visual arts, and 館(館) (guǎn, \"building\") signifies a place, which together denote an art museum situated in China.",
+    "interpretation": "中國(中國) (Zhōngguó, \"China\") represents the nation. 美術(美術) (měishù, \"art\") focuses on visual arts, encapsulating the idea of aesthetics and creativity. 館(館) (guǎn, \"building\") denotes a place or hall where these artistic creations are exhibited and appreciated. Combining these, it refers to the National Art Museum of China, a place where Chinese artworks are displayed and celebrated.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "中国",
       "trad": "中國",
-      "pinyin": "zhōngguó",
+      "pinyin": "Zhōngguó",
       "english": "China"
     },
     {
       "char": "美术",
       "trad": "美術",
       "pinyin": "měishù",
-      "english": "art"
+      "english": "art; fine arts"
     },
     {
       "char": "馆",
       "trad": "館",
       "pinyin": "guǎn",
-      "english": "building; hall"
+      "english": "building; place; hall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我参观了中国美术馆(我參觀了中國美術館)。",
-      "pinyin": "Wǒ cānguānle Zhōngguó Měishùguǎn.",
-      "english": "I visited the National Art Museum of China."
+      "chinese": "中国美术馆(中國美術館)是北京的一个重要文化地标。",
+      "pinyin": "Zhōngguó Měishùguǎn shì Běijīng de yīgè zhòngyào wénhuà dìbiāo.",
+      "english": "The National Art Museum of China is an important cultural landmark in Beijing."
     },
     {
-      "chinese": "中国美术馆举办了新展览(中國美術館舉辦了新展覽)，吸引了众多艺术爱好者(吸引了眾多藝術愛好者)。",
-      "pinyin": "Zhōngguó Měishùguǎn jǔbànle xīn zhǎnlǎn, xīyǐnle zhòngduō yìshù àihào zhě.",
-      "english": "The National Art Museum of China held a new exhibition, attracting numerous art enthusiasts."
+      "chinese": "游客们常常去中国美术馆(遊客們常常去中國美術館)参观。",
+      "pinyin": "Yóukèmen chángcháng qù Zhōngguó Měishùguǎn cānguān.",
+      "english": "Tourists often visit the National Art Museum of China."
+    },
+    {
+      "chinese": "我昨天在中国美术馆(我昨天在中國美術館)看到了一个精彩的展览。",
+      "pinyin": "Wǒ zuótiān zài Zhōngguó Měishùguǎn kàn dào le yīgè jīngcǎi de zhǎnlǎn.",
+      "english": "I saw a wonderful exhibition at the National Art Museum of China yesterday."
     }
   ]
 }

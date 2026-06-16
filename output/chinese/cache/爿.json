@@ -5,40 +5,11 @@
   "english": "bed",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bed -> Original form of 牀(牀) (chuáng, \"bed\") -> Contracted form in 臧(臧) (zāng, \"favored\")",
-    "interpretation": "The character 爿(pán, \"bed\") originally depicted the structure of a bed. It later became the foundational form for the character 牀(牀) (chuáng, \"bed\") and appears in a contracted form within the character 臧(臧) (zāng, \"favored\").",
+    "description": "Depicts a bed -> original form of 牀 (chuáng, \"bed\") -> contracted form in 臧 (zāng, \"possess\")",
+    "interpretation": "The character 爿 (pán, \"bed\") visually represents a bed, emphasizing its usage in denoting places for resting or sleeping. It served as the original form for the character 牀 (chuáng, \"bed\"), reinforcing its meaning. Additionally, in the character 臧 (zāng, \"possess\"), it appears as a contracted form, reflecting its historical usage in composite forms.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "牀",
-      "trad": "牀",
-      "pinyin": "chuáng",
-      "english": "bed"
-    },
-    {
-      "char": "臧",
-      "trad": "臧",
-      "pinyin": "zāng",
-      "english": "favored"
-    }
-  ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "他躺在软软的爿上(他躺在軟軟的爿上)。",
-      "pinyin": "Tā tǎng zài ruǎn ruǎn de pán shàng.",
-      "english": "He lies on the soft bed."
-    },
-    {
-      "chinese": "夜深人静时(夜深人靜時)，爿边飘散着淡淡的香气(爿邊飄散着淡淡的香氣)。",
-      "pinyin": "Yè shēn rén jìng shí, pán biān piāo sàn zhe dàn dàn de xiāng qì.",
-      "english": "When the night is quiet, a faint fragrance drifts by the bed."
-    },
-    {
-      "chinese": "她精心整理过的爿让人看了舒心(她精心整理過的爿讓人看了舒心)。",
-      "pinyin": "Tā jīngxīn zhěnglǐ guò de pán ràng rén kàn le shūxīn.",
-      "english": "The bed she meticulously arranged looks very comforting."
-    }
-  ]
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": []
 }

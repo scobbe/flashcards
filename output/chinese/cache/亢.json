@@ -4,36 +4,36 @@
   "pinyin": "kàng",
   "english": "high",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "二(二) (èr, \"two\") above 人(人) (rén, \"person\") = person lifting something high",
-    "interpretation": "The character 亢(亢) (kàng, \"high\") visually represents a person standing with arms raised, symbolizing the idea of lifting or being elevated. The combination of two horizontal strokes above a person conveys the notion of height or reaching upwards.",
+    "type": "phono-semantic compound",
+    "description": "semantic 亠(亠) (symbol for high position) + phonetic 工(工, sound) -> high",
+    "interpretation": "The character 亢(kàng, \"high\") combines the semantic element 亠(亠) representing a high position or elevated point with the phonetic component 工(工), which contributes the 'kàng' sound. This combination suggests something elevated or high.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "二",
-      "trad": "二",
-      "pinyin": "èr",
-      "english": "two"
+      "char": "亠",
+      "trad": "亠",
+      "pinyin": "tóu",
+      "english": "symbol for high position"
     },
     {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的情绪亢奋(他的情緒亢奮)。",
-      "pinyin": "tā de qíngxù kàng fèn。",
-      "english": "His mood is highly excited."
+      "chinese": "在高亢的山顶上(在高亢的山頂上)，我们可以俯瞰整个城市(我們可以俯瞰整個城市)。",
+      "pinyin": "Zài gāokàng de shāndǐng shàng, wǒmen kěyǐ fǔkàn zhěnggè chéngshì.",
+      "english": "At the high mountain peak, we can overlook the entire city."
     },
     {
-      "chinese": "山峰高耸(山峰高聳)，气势亢然(氣勢亢然)。",
-      "pinyin": "shānfēng gāosǒng, qìshì kàng rán。",
-      "english": "The mountains tower high, and their momentum is exalted."
+      "chinese": "他的声调很亢(他的聲調很亢)，在唱歌时非常有力(在唱歌時非常有力)。",
+      "pinyin": "Tā de shēngdiào hěn kàng, zài chànggē shí fēicháng yǒulì.",
+      "english": "His tone is high and very powerful when singing."
     }
   ]
 }

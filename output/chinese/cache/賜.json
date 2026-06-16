@@ -5,40 +5,40 @@
   "english": "bestow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 貝(貝) (bèi, \"shell, money\") + phonetic 易(易) (yì, \"easy\") = valuable items given -> bestow",
-    "interpretation": "賜(賜) (cì, \"bestow\") combines 貝(貝) (bèi, \"shell, money\"), indicating wealth or valuables, with 易(易) (yì), chosen for its phonetic value, to convey the action of bestowing or granting valuable items.",
-    "simplification": "Simplified by replacing 貝(貝) (bèi, \"shell, money\") with 贝(贝) (bèi, \"shell, money\") to maintain the semantic element while reducing complexity."
+    "description": "semantic 貝(貝) (bèi, \"shell, money\") + phonetic 易(易) (yì, \"filled container\") -> bestow",
+    "interpretation": "貝(貝) (bèi, \"shell, money\") symbolizes valuables or treasures, while 易(易) (yì, \"filled container\") provides the sound. Together, they depict the act of granting or bestowing valuables or benefits onto someone, which is closely associated with giving gifts or rewards.",
+    "simplification": "In the simplified form 赐(賜), the component 貝(貝) (bèi) was simplified to 贝(貝), reducing the number of strokes."
   },
   "parts": [
     {
       "char": "貝",
       "trad": "貝",
       "pinyin": "bèi",
-      "english": "shell, money"
+      "english": "shell; money"
     },
     {
       "char": "易",
       "trad": "易",
       "pinyin": "yì",
-      "english": "easy"
+      "english": "filled container"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "皇帝賜恩(皇帝賜恩)，群臣受福(群臣受福)。",
-      "pinyin": "Huángdì cì ēn, qúnchén shòu fú.",
-      "english": "The emperor bestowed grace, and his officials received blessings."
+      "chinese": "国王赐给了他一件珍贵的礼物(國王賜給了他一件珍貴的禮物)。",
+      "pinyin": "Guówáng cì gěi le tā yī jiàn zhēnguì de lǐwù.",
+      "english": "The king bestowed upon him a precious gift."
     },
     {
-      "chinese": "聖上賜旨(聖上賜旨)，百官遵命(百官遵命)。",
-      "pinyin": "Shèng shàng cì zhǐ, bǎiguān zūn mìng.",
-      "english": "The sovereign bestowed his decree, and the ministers obeyed."
+      "chinese": "神明赐予我们好运(神明賜予我們好運)。",
+      "pinyin": "Shénmíng cì yǔ wǒmen hǎoyùn.",
+      "english": "The deities bestowed good fortune upon us."
     },
     {
-      "chinese": "国君賜封英才(國君賜封英才)。",
-      "pinyin": "Guókūn cì fēng yīngcái.",
-      "english": "The monarch bestowed a title upon the talented."
+      "chinese": "他希望上天能赐给他智慧(他希望上天能賜給他智慧)。",
+      "pinyin": "Tā xīwàng shàngtiān néng cì gěi tā zhìhuì.",
+      "english": "He hopes that the heavens will bestow wisdom upon him."
     }
   ]
 }

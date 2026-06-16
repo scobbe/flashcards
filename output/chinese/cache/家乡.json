@@ -5,40 +5,40 @@
   "english": "hometown",
   "etymology": {
     "type": "compound word",
-    "description": "家(家) (jiā, \"home\") + 乡(鄉) (xiāng, \"village\") refers to one's place of origin or hometown. Together they form 家乡(家鄉) (jiāxiāng, \"hometown\"), emphasizing the idea of a home village or the place where one feels a deep connection due to personal roots or heritage.",
-    "interpretation": "家乡(家鄉) (jiāxiāng, \"hometown\") signifies the place that is culturally and sentimentally significant to an individual, often where they were born and raised.",
-    "simplification": "家乡 is the simplified form of 家鄉."
+    "description": "家(家) (jiā, \"home; family\") refers to one's house or the family residing there, capturing the sense of a personal base; 鄉(鄉) (xiāng, \"rural; hometown\") denotes a village or rural area where one may have origins or familial connections.",
+    "interpretation": "家(家) (jiā, \"home; family\") conveys the idea of an individual's central living space or familial nucleus. 鄉(鄉) (xiāng, \"hometown\") implies one's place of origin, associated with rural roots or local communities. Thus, 家鄉(家鄉) (jiāxiāng, \"hometown\") brings together the concept of a family base and local origins, capturing the emotional and historical ties to one's birthplace or formative environment.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "家",
       "trad": "家",
       "pinyin": "jiā",
-      "english": "home; family; house"
+      "english": "home; family"
     },
     {
       "char": "乡",
       "trad": "鄉",
       "pinyin": "xiāng",
-      "english": "village; countryside; hometown"
+      "english": "rural; hometown"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我热爱家乡(家鄉)。",
-      "pinyin": "Wǒ rè'ài jiāxiāng.",
-      "english": "I love my hometown."
+      "chinese": "我的家乡在一个美丽的山谷(我的家鄉在一個美麗的山谷)。",
+      "pinyin": "Wǒ de jiāxiāng zài yīgè měilì de shāngǔ.",
+      "english": "My hometown is in a beautiful valley."
     },
     {
-      "chinese": "每当春节到来时(每當春節到來時)，我都会想念家乡(家鄉)。",
-      "pinyin": "Měi dāng chūnjié dào lái shí, wǒ dōu huì xiǎngniàn jiāxiāng.",
-      "english": "Whenever the Spring Festival arrives, I always miss my hometown."
+      "chinese": "每年春节我都会回家乡(每年春節我都會回家鄉)。",
+      "pinyin": "Měinián chūnjié wǒ dūhuì huí jiāxiāng.",
+      "english": "Every Spring Festival, I return to my hometown."
     },
     {
-      "chinese": "经历长途跋涉后(經歷長途跋涉後)，我终于回到了家乡(家鄉)。",
-      "pinyin": "Jīnglì chángtú báshè hòu, wǒ zhōngyú huí dào le jiāxiāng.",
-      "english": "After a long journey, I finally returned to my hometown."
+      "chinese": "他离开家乡去大城市工作(他離開家鄉去大城市工作)。",
+      "pinyin": "Tā líkāi jiāxiāng qù dà chéngshì gōngzuò.",
+      "english": "He left his hometown to work in the big city."
     }
   ]
 }

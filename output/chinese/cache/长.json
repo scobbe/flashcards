@@ -4,41 +4,28 @@
   "pinyin": "cháng",
   "english": "long",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic: 彡(彡) (shān, \"pattern\") + Semantic: 镸(镸) (cháng, \"long\") = emphasizes length and the phonetic sound cháng -> long",
-    "interpretation": "The character combines the phonetic component 彡(彡) (shān, \"pattern\") with the semantic component 镸(镸) (cháng, \"long\") to denote the concept of length, emphasizing the characteristic of being long.",
-    "simplification": "長(長): 长 is a simplification that retains the key semantic component 镸 with a reduced form of 彡 for ease and speed of writing."
+    "type": "pictogram",
+    "description": "Depicts an old man with long hair -> long",
+    "interpretation": "The character 長(cháng, 'long') depicts an elder with long hair, capturing the association of age and length to convey the concept of 'long' or 'lengthy'. The image emphasizes the physical attribute of long hair as representative of time and extension.",
+    "simplification": "The traditional 長 evolved into the simplified 长 by removing strokes evolved from depicting a man to a cursive form that retained recognizability."
   },
-  "parts": [
-    {
-      "char": "彡",
-      "trad": "彡",
-      "pinyin": "shān",
-      "english": "pattern"
-    },
-    {
-      "char": "镸",
-      "trad": "長",
-      "pinyin": "cháng",
-      "english": "long"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条路很长(這條路很長)。",
-      "pinyin": "Zhè tiáo lù hěn cháng.",
-      "english": "This road is very long."
+      "chinese": "这条裙子很长(這條裙子很長)。",
+      "pinyin": "Zhè tiáo qúnzi hěn cháng.",
+      "english": "This skirt is very long."
     },
     {
-      "chinese": "他的等待时间很长(他的等待時間很長)，心情变得焦虑(心情變得焦慮)。",
-      "pinyin": "Tā de děngdài shíjiān hěn cháng, xīnqíng biàn de jiāolǜ.",
-      "english": "His waiting time was long, and his mood became anxious."
+      "chinese": "长城绵延千里(長城綿延千里)，吸引了大量游客(吸引了大量遊客)。",
+      "pinyin": "Chángchéng miányán qiānlǐ, xīyǐnle dàliàng yóukè.",
+      "english": "The Great Wall stretches for thousands of miles and attracts many tourists."
     },
     {
-      "chinese": "大桥很长(大橋很長)，连接了两岸(連接了兩岸)。",
-      "pinyin": "Dàqiáo hěn cháng, liánjiē le liǎng'àn.",
-      "english": "The bridge is long, connecting the two banks."
+      "chinese": "路很长，我们需要早些出发(路很長，我們需要早些出發)。",
+      "pinyin": "Lù hěn cháng, wǒmen xūyào zǎo xiē chūfā.",
+      "english": "The journey is long, so we need to set off early."
     }
   ]
 }

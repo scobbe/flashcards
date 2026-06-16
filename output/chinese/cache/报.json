@@ -4,36 +4,41 @@
   "pinyin": "bào",
   "english": "report; newspaper; recompense; respond",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "扌(手) (shǒu, \"hand\") + 𠬝(服) (fú, \"to serve\") as a phonetic element = hand delivering or serving a message -> report, recompense",
-    "interpretation": "The character 报(報) (bào) combines 扌(手) (shǒu, \"hand\") to signify the action of handling or delivering something with 𠬝(服) (fú) to provide the phonetic hint. This fittingly represents the hand delivering a report or message, capturing the sense of conveying information or compensation.",
-    "simplification": "報(報) simplified to 报(報) by replacing 𠬝(服) with an even simpler element for phonetic clarity."
+    "type": "ideogrammic compound",
+    "description": "㚔 (handcuffs) + 𠬝 (to subdue) = to convict; to punish; to declare guilty",
+    "interpretation": "The character 報(報) (bào, 'report; newspaper; recompense; respond') combines the imagery of handcuffs, symbolizing restraint, and an action of subduing, suggesting punishment or declaration of a verdict. This combination reflects the idea of delivering judgment or punishment, which extends metaphorically to mean 'reporting' or 'giving an account' of something. From delivering justice comes the idea of reciprocating actions, hence the sense of 'recompense' or 'respond'.",
+    "simplification": "报 is simplified from 報 by removing the 'handcuff' component 㚔, retaining the core representing the idea of reporting and responding without the punitive nuance."
   },
   "parts": [
     {
-      "char": "扌",
-      "trad": "手",
-      "pinyin": "shǒu",
-      "english": "hand"
+      "char": "㚔",
+      "trad": "㚔",
+      "pinyin": "none",
+      "english": "handcuffs"
     },
     {
       "char": "𠬝",
-      "trad": "服",
-      "pinyin": "fú",
-      "english": "to serve"
+      "trad": "𠬝",
+      "pinyin": "none",
+      "english": "to subdue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我每天看报(我每天看報)。",
-      "pinyin": "Wǒ měitiān kàn bào.",
-      "english": "I read the newspaper daily."
+      "chinese": "他收到了一封信，里头有关于新项目的详细报告(他收到了一封信，裡頭有關於新項目的詳細報告)。",
+      "pinyin": "Tā shōudào le yī fēng xìn, lǐtou yǒu guānyú xīn xiàngmù de xiángxì bàogào.",
+      "english": "He received a letter with a detailed report about the new project."
     },
     {
-      "chinese": "他收到好消息后(他收到好消息後)，立即报喜(立即報喜)。",
-      "pinyin": "Tā shōudào hǎo xiāoxī hòu, lìjí bào xǐ.",
-      "english": "After receiving the good news, he immediately reported his joy."
+      "chinese": "我每天都看早报(我每天都看早報)，了解世界发生了什么(了解世界發生了什麼)。",
+      "pinyin": "Wǒ měitiān dū kàn zǎobào, liǎojiě shìjiè fāshēngle shénme.",
+      "english": "I read the morning newspaper every day to understand what's happening in the world."
+    },
+    {
+      "chinese": "他希望用自己的努力来报答父母的养育之恩(他希望用自己的努力來報答父母的養育之恩)。",
+      "pinyin": "Tā xīwàng yòng zìjǐ de nǔlì lái bàodá fùmǔ de yǎngyù zhī ēn.",
+      "english": "He hopes to use his own efforts to recompense his parents for their upbringing."
     }
   ]
 }

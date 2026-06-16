@@ -1,0 +1,28 @@
+{
+  "simplified": "㕡",
+  "traditional": "㕡",
+  "pinyin": "yǒng",
+  "english": "gully",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "𣦻 (hand holding spade) + 谷 (valley) = deep valley; gully",
+    "interpretation": "The character combines 𣦻 (a hand holding a spade) and 谷 (valley) to represent the concept of excavating or creating a deep valley, thus arriving at the meaning 'gully.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "𣦻",
+      "trad": "𣦻",
+      "pinyin": "",
+      "english": "hand holding spade"
+    },
+    {
+      "char": "谷",
+      "trad": "谷",
+      "pinyin": "gǔ",
+      "english": "valley"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

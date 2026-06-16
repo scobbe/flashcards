@@ -5,8 +5,8 @@
   "english": "thousand",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "一(一) (yī, \"one\") as semantic component indicating a number + 人(人) (rén, \"person\") as phonetic component -> sounds similar to 人(人) -> thousand as an extension in counting",
-    "interpretation": "The character 千(qiān) takes its semantic aspect from 一(一) to signify a number, while 人(人) provides phonetic guidance due to its similar ancient pronunciation. The idea of reaching 'one thousand' involves an extension or continuation in counting, which is conceptually represented by the additional line.",
+    "description": "semantic 一(一) (yī, \"one, signifying a number\") + phonetic 人(人) (rén) -> borrowing pronunciation to represent a large number",
+    "interpretation": "The character is formed by adding a line to 人(人) (rén, \"person\"), signifying an extension, combined with 一(一) (yī, \"one\") to form the concept of a thousand – a milestone number reached through cumulative counting.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "one"
+      "english": "one, signifying a number"
     },
     {
       "char": "人",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "城市里有千家餐馆(城市裡有千家餐館)。",
-      "pinyin": "Chéngshì lǐ yǒu qiān jiā cānguǎn.",
-      "english": "There are a thousand restaurants in the city."
+      "chinese": "这本书要卖一千块钱(這本書要賣一千塊錢)。",
+      "pinyin": "Zhè běn shū yào mài yī qiān kuài qián.",
+      "english": "This book is selling for a thousand yuan."
     },
     {
-      "chinese": "他读了千卷书(他讀了千卷書)，增长了智慧(增長了智慧)。",
-      "pinyin": "Tā dúle qiān juǎn shū, zēngzhǎngle zhìhuì.",
-      "english": "He read a thousand books and increased his wisdom."
+      "chinese": "长城每年吸引成千上万的游客(長城每年吸引成千上萬的遊客)。",
+      "pinyin": "Chángchéng měinián xīyǐn chéngqiānshàngwàn de yóukè.",
+      "english": "The Great Wall attracts thousands upon thousands of tourists every year."
+    },
+    {
+      "chinese": "她拥有数千本书(她擁有數千本書)。",
+      "pinyin": "Tā yǒngyǒu shù qiān běn shū.",
+      "english": "She owns thousands of books."
     }
   ]
 }

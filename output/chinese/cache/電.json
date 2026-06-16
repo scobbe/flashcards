@@ -1,0 +1,44 @@
+{
+  "simplified": "電",
+  "traditional": "電",
+  "pinyin": "diàn",
+  "english": "electricity; electrical",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 雨(雨) (yǔ, \"rain\") + phonetic 申(申) (shēn, \"extend\") -> lightning as rain's powerful emission -> representative of electricity",
+    "interpretation": "電(電) (diàn) combines 雨(雨) (yǔ, \"rain\") as a semantic component indicating the natural association with weather, specifically storms, and 申(申) (shēn, \"extend\") as a phonetic component that gives sound. The powerful visual and auditory impact of lightning during storms led to its conceptual link to the invisible force of electricity.",
+    "simplification": "电(電) simplifies by eliminating 雨(雨) (yǔ, \"rain\") and maintaining 申(申) (shēn, \"extend\") as a sole component with a reduced stroke count."
+  },
+  "parts": [
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    {
+      "char": "申",
+      "trad": "申",
+      "pinyin": "shēn",
+      "english": "extend"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这台风扇需要电才能运作(這台風扇需要電才能運作)。",
+      "pinyin": "Zhè tái fēngshàn xūyào diàn cái néng yùnzuò.",
+      "english": "This fan needs electricity to operate."
+    },
+    {
+      "chinese": "我们准备了一根备用电线(我們準備了一根備用電線)。",
+      "pinyin": "Wǒmen zhǔnbèi le yī gēn bèiyòng diànxiàn.",
+      "english": "We prepared a spare electrical wire."
+    },
+    {
+      "chinese": "停电时我们用蜡烛(停電時我們用蠟燭)。",
+      "pinyin": "Tíngdiàn shí wǒmen yòng làzhú.",
+      "english": "We use candles during a power outage."
+    }
+  ]
+}

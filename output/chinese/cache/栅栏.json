@@ -5,35 +5,40 @@
   "english": "fence; railing",
   "etymology": {
     "type": "compound word",
-    "description": "栅(柵) (zhà, \"fence; palisade\") and 栏(欄) (lán, \"railing; balustrade\") combine to convey the concept of a structure used to enclose or separate areas, typically made of rails or posts.",
-    "interpretation": "A 栅(柵) (zhà, \"fence\") is a basic structure for enclosure, while 栏(欄) (lán, \"railing\") refers to a protective barrier. Together as 栅栏(柵欄), they form a structure that can act as a protective or divisive barrier, often made of metal or wood.",
+    "description": "柵(柵) (shàn, \"fence\") indicates a fence as a physical barrier, while 欄(欄) (lán, \"railing\") emphasizes the structural support aspect.\n\nWhile these involve different semantic elements and might involve alternative readings, each pertains to physical boundary structures.",
+    "interpretation": "柵(柵) (shàn, \"fence\") represents the protective function of a boundary structure, physically denoting a barrier for containment or defense. 欄(欄) (lán, \"railing\") provides the sense of bars or support, further specifying the form or use, such as in rows or pen areas. Together, they imply a constructed boundary like those found in urban environments to enclose or guide movement.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "栅",
       "trad": "柵",
-      "pinyin": "zhà",
+      "pinyin": "shàn",
       "english": "fence; palisade"
     },
     {
       "char": "栏",
       "trad": "欄",
       "pinyin": "lán",
-      "english": "railing; balustrade"
+      "english": "railing; bar; fence; pen"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "工人正在修理栅栏(柵欄)。",
-      "pinyin": "Gōngrén zhèngzài xiūlǐ shí làn.",
-      "english": "The workers are repairing the fence."
+      "chinese": "那只猴子正在攀爬栅栏(那隻猴子正在攀爬柵欄)。",
+      "pinyin": "Nà zhī hóuzi zhèngzài pān pá shílàn.",
+      "english": "The monkey is climbing the fence."
     },
     {
-      "chinese": "小猫跳上栅栏(柵欄)，继续它的冒险(繼續它的冒險)。",
-      "pinyin": "Xiǎo māo tiào shàng shí làn, jìxù tā de màoxiǎn.",
-      "english": "The kitten jumped onto the fence and continued its adventure."
+      "chinese": "他们在花园周围建了一个新的栅栏(他們在花園周圍建了一個新的柵欄)。",
+      "pinyin": "Tāmen zài huāyuán zhōuwéi jiànle yī gè xīn de shílàn.",
+      "english": "They built a new fence around the garden."
+    },
+    {
+      "chinese": "孩子们正在栅栏旁边玩耍(孩子們正在柵欄旁邊玩耍)。",
+      "pinyin": "Háizimen zhèngzài shílàn pángbiān wánshuǎ.",
+      "english": "The children are playing near the fence."
     }
   ]
 }

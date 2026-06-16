@@ -5,40 +5,40 @@
   "english": "to be; yes; correct; this",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 正(正) (zhèng, \"correct\") = sun as a semantic component with 正 acting as a phonetic guide -> final form meaning \"to be, yes, correct\"",
-    "interpretation": "The character 是 (shì) combines the sun 日(日) (rì, \"sun\") as a semantic element with 正(正) (zhèng, \"correct\"), which serves as a phonetic component. This combination resulted in a character that expresses the idea of correctness or truth, hence its meanings related to affirmation and veracity.",
+    "description": "semantic 正(正) (zhèng, \"straight\") + phonetic 曰(曰) (yuē)",
+    "interpretation": "The noonday sun (日) directly overhead is the natural standard of straightness/uprightness (正 \"straight\"). What is upright is what is correct -> 'right, correct' -> what is correct is what 'is so' -> affirmation 'yes' and the copula 'to be'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "日",
-      "trad": "日",
-      "pinyin": "rì",
-      "english": "sun"
-    },
-    {
       "char": "正",
       "trad": "正",
       "pinyin": "zhèng",
-      "english": "correct"
+      "english": "straight"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "speak"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是老师(他是老師)。",
-      "pinyin": "Tā shì lǎoshī.",
-      "english": "He is a teacher."
+      "chinese": "他是我的朋友(他是我的朋友)。",
+      "pinyin": "Tā shì wǒ de péngyǒu.",
+      "english": "He is my friend."
     },
     {
-      "chinese": "这本书是我的(這本書是我的)，那本书是他的(那本書是他的)。",
-      "pinyin": "Zhè běn shū shì wǒ de, nà běn shū shì tā de.",
-      "english": "This book is mine, and that book is his."
+      "chinese": "这本书是他的(這本書是他的)。",
+      "pinyin": "Zhè běn shū shì tā de.",
+      "english": "This book is his."
     },
     {
-      "chinese": "这是我的答案(這是我的答案)。",
-      "pinyin": "Zhè shì wǒ de dá'àn.",
-      "english": "This is my answer."
+      "chinese": "你是对的(你是對的)。",
+      "pinyin": "Nǐ shì duì de.",
+      "english": "You are correct."
     }
   ]
 }

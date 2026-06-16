@@ -5,8 +5,8 @@
   "english": "clever",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Proto-form 悤 (pictogram: 心 with a hole) -> Phonetic 囪 + Semantic 心 = open heart/open mind -> Later: Phonetic 悤 + Semantic 耳 = intelligence through listening",
-    "interpretation": "The character 聰(cōng, 'clever') originally depicted an open heart and mind, symbolizing intelligence. It evolved to focus on listening, with 耳 (ear) representing the ability to learn quickly by hearing.",
+    "description": "耳(耳) (ěr, \"ear\") + phonetic 悤 (cōng) -> listening ear leading to intelligence",
+    "interpretation": "The character 聰(cōng, \"clever\") represents the concept of intelligence through sensitivity to sound and willingness to listen. The semantic component 耳(耳) (ěr, \"ear\") signifies listening, while the phonetic component 悤 (cōng) helps convey the sound. Together, they depict someone who is keen at understanding and learning via hearing, reflecting cleverness.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "悤",
       "trad": "悤",
       "pinyin": "cōng",
-      "english": "clever"
+      "english": "intelligent"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他聰明過人(他聰明過人)。",
-      "pinyin": "Tā cōngmíng guòrén.",
-      "english": "He is extraordinarily clever."
+      "chinese": "他很聪明(他很聰明)，总是能找到解决问题的方法(總是能找到解決問題的方法)。",
+      "pinyin": "Tā hěn cōngmíng, zǒng shì néng zhǎodào jiějué wèntí de fāngfǎ.",
+      "english": "He is very clever and always finds ways to solve problems."
     },
     {
-      "chinese": "老師讚許他的聰明(老師讚許他的聰明)，鼓勵其他同學努力學習(鼓勵其他同學努力學習)。",
-      "pinyin": "Lǎoshī zànxǔ tā de cōngmíng, gǔlì qítā tóngxué nǔlì xuéxí.",
-      "english": "The teacher praised his cleverness and encouraged his classmates to study hard."
+      "chinese": "聰明的人(聰明的人)通常很有創意(通常很有創意)。",
+      "pinyin": "Cōngmíng de rén tōngcháng hěn yǒu chuàngyì.",
+      "english": "Clever people are often very creative."
     },
     {
-      "chinese": "這個孩子既活潑又聰明(這個孩子既活潑又聰明)，深受大家喜愛(深受大家喜愛)。",
-      "pinyin": "Zhège háizi jì huópō yòu cōngmíng, shēn shòu dàjiā xǐ'ài.",
-      "english": "This child is both lively and clever, and is deeply loved by everyone."
+      "chinese": "这本书适合聪明的学生(這本書適合聰明的學生)阅读(閱讀)。",
+      "pinyin": "Zhè běn shū shìhé cōngmíng de xuéshēng yuèdú.",
+      "english": "This book is suitable for clever students to read."
     }
   ]
 }

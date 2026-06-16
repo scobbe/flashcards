@@ -5,27 +5,27 @@
   "english": "fire",
   "etymology": {
     "type": "pictogram",
-    "description": "Possibly depicts shoulders, tail of a fish, part of a chariot, pedestal, or small table",
-    "interpretation": "The character 丙(bǐng) has multiple possible original depictions, but whichever it was, it has been primarily documented as one of the Heavenly Stems, used in calendrical and astrological systems. As its original representation is unclear, it demonstrates how pictograms can evolve to acquire abstract meanings.",
+    "description": "Depicts various interpretations: 1) shoulders, 2) the tail of a fish, 3) part of a chariot, 4) pedestal, 5) small table",
+    "interpretation": "The original pictorial meaning of 丙(bǐng) is uncertain but has been traditionally identified in multiple ways, including physical objects like shoulders, fish tails, or chariot parts. Its precise original depiction is obscure and no single interpretation is universally accepted. It became associated with the third of the ten Heavenly Stems, losing its original pictorial significance.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在天干序列中(在天干序列中)，丙象征着火的热情(丙象徵著火的熱情)。",
-      "pinyin": "Zài tiān gān xù liè zhōng, bǐng xiàng zhēng zhe huǒ de rè qíng.",
-      "english": "In the heavenly stem sequence, 'Bǐng' symbolizes the passion of fire."
+      "chinese": "丙是一种元素(丙是一種元素)。",
+      "pinyin": "Bǐng shì yī zhǒng yuánsù.",
+      "english": "Bing is an element."
     },
     {
-      "chinese": "古人用丙火祭天(古人用丙火祭天)。",
-      "pinyin": "Gǔ rén yòng bǐng huǒ jì tiān.",
-      "english": "Ancient people used 'Bǐng fire' to offer sacrifices to heaven."
+      "chinese": "丙在化学中有特定的用途(丙在化學中有特定的用途)。",
+      "pinyin": "Bǐng zài huàxué zhōng yǒu tèdìng de yòngtú.",
+      "english": "Bing has specific uses in chemistry."
     },
     {
-      "chinese": "在干支纪年中(在干支紀年中)，丙年带来夏季的温暖(丙年帶來夏季的溫暖)。",
-      "pinyin": "Zài gān zhī jì nián zhōng, bǐng nián dài lái xià jì de wēn nuǎn.",
-      "english": "In the sexagenary cycle, the Bǐng year brings the warmth of summer."
+      "chinese": "丙与其他元素结合时(丙與其他元素結合時)，会发生有趣的反应(會發生有趣的反應)。",
+      "pinyin": "Bǐng yǔ qítā yuánsù jiéhé shí, huì fāshēng yǒuqù de fǎnyìng.",
+      "english": "When bing combines with other elements, interesting reactions occur."
     }
   ]
 }

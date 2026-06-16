@@ -5,16 +5,16 @@
   "english": "open",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "攴(攴) (pū, 'strike') + 尚(尚) (shàng, 'esteem', phonetic) = to strike open -> open",
-    "interpretation": "The character 敞(chǎng, 'open') combines 攴(攴) (pū, 'strike'), suggesting an action of opening, with the phonetic component 尚(尚) (shàng, 'esteem'), guiding the pronunciation. The overall composition conveys the idea of something being opened widely or exposed.",
+    "description": "semantic 广 (wide, extensive) + phonetic 尚 (shàng) -> open",
+    "interpretation": "The character 敞(chǎng, 'open') combines the semantic element 广(廣) (guǎng, 'wide, extensive'), which conveys the idea of an expansive area, with the phonetic component 尚(尚) (shàng), which contributes the sound. The semantic component suggests opening or widening a space, leading to the meaning of 'open'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "攴",
-      "trad": "攴",
-      "pinyin": "pū",
-      "english": "strike"
+      "char": "廣",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "wide, extensive"
     },
     {
       "char": "尚",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他敞开了门(他敞開了門)。",
-      "pinyin": "tā chǎng kāi le mén",
-      "english": "He opened the door."
+      "chinese": "房门敞开着(房門敞開著)。",
+      "pinyin": "Fángmén chǎng kāizhe.",
+      "english": "The door is wide open."
     },
     {
-      "chinese": "她敞开心扉(她敞開心扉)，倾诉着心中的秘密(傾訴著心中的祕密)。",
-      "pinyin": "tā chǎng kāi xīn fēi, qīng sù zhe xīn zhōng de mì mì",
-      "english": "She opened her heart and confessed the secrets within."
+      "chinese": "他喜欢在敞亮的空间工作(他喜歡在敞亮的空間工作)。",
+      "pinyin": "Tā xǐhuān zài chǎngliàng de kōngjiān gōngzuò.",
+      "english": "He likes working in bright, open spaces."
     },
     {
-      "chinese": "敞开的窗户(敞開的窗戶)，透进温暖的阳光(透進溫暖的陽光)。",
-      "pinyin": "chǎng kāi de chuāng hù, tòu jìn wēn nuǎn de yáng guāng",
-      "english": "The open window let warm sunlight in."
+      "chinese": "天气晴朗时(天氣晴朗時)，我们在沙滩上敞开心扉(我們在沙灘上敞開心扉)。",
+      "pinyin": "Tiānqì qínglǎng shí, wǒmen zài shātān shàng chǎngkāi xīnfēi.",
+      "english": "When the weather is clear, we open our hearts on the beach."
     }
   ]
 }

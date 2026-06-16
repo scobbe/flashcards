@@ -1,0 +1,38 @@
+{
+  "simplified": "乌",
+  "traditional": "烏",
+  "pinyin": "wū",
+  "english": "crow; black",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a bird with a round body and a beak -> stylized as a representation of a crow or raven",
+    "interpretation": "The character 烏 (wū, \"crow; black\") originated as a pictorial representation of a bird, specifically illustrating a bird's body with a head and beak, which was stylized to represent a crow or raven. Crows, being creatures usually associated with black color, led to the character's additional meaning of \"black.\"",
+    "simplification": "The traditional character 烏 was simplified to 乌 by removing the central strokes depicting the bird's head and beak, resulting in a more abstract form while preserving the overall shape."
+  },
+  "parts": [
+    {
+      "char": "鳥",
+      "trad": "鳥",
+      "pinyin": "niǎo",
+      "english": "bird"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "乌鸦在树枝上叫(烏鴉在樹枝上叫)。",
+      "pinyin": "Wūyā zài shùzhī shàng jiào.",
+      "english": "A crow caws on the tree branch."
+    },
+    {
+      "chinese": "天空被浓密的乌云遮住了(天空被濃密的烏雲遮住了)。",
+      "pinyin": "Tiānkōng bèi nóngmì de wūyún zhē zhù le.",
+      "english": "The sky was covered by thick black clouds."
+    },
+    {
+      "chinese": "她披上了一件乌色的长袍(她披上了一件烏色的長袍)。",
+      "pinyin": "Tā pī shàng le yī jiàn wūsè de chángpáo.",
+      "english": "She put on a black robe."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "military; prosperous",
   "etymology": {
     "type": "compound word",
-    "description": "武(武) (wǔ, \"military; martial\"), 昌(昌) (chāng, \"prosperous; flourishing\")",
-    "interpretation": "武昌 (wǔchāng) is the name of a district in Wuhan, China, known for its historical significance as a site of revolutionary activity. The name suggests a place where martial or military strength and prosperity come together, perhaps reflecting the area's strategic and economic importance historically.",
+    "description": "武(武) (wǔ, \"military\") + 昌(昌) (chāng, \"prosperous\") = a place name with a history tied to military success and prosperity.",
+    "interpretation": "武(武) (wǔ, \"military\") indicates strength and martial power. 昌(昌) (chāng, \"prosperous\") signifies flourishing and successful conditions. The name 武昌 represents a location traditionally known for its association with military strength and subsequent prosperity due to strong governance or defenders. While 武(武, \"military\") suggests martial prowess, 昌(昌, \"prosperous\") naturally transitions to a state of thriving, creating a sense of a place flourishing through strategic or military success.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "武昌展现繁荣(武昌展現繁榮)。",
-      "pinyin": "wǔchāng zhǎnxiàn fánróng",
-      "english": "Wuchang displays prosperity."
+      "chinese": "武昌是一座历史悠久的城市(武昌是一座歷史悠久的城市)。",
+      "pinyin": "Wǔchāng shì yī zuò lìshǐ yōujiǔ de chéngshì.",
+      "english": "Wuchang is a city with a long history."
     },
     {
-      "chinese": "我参观武昌(我參觀武昌)，感受那里的军魂(感受那裡的軍魂)。",
-      "pinyin": "wǒ cānguān wǔchāng, gǎnshòu nàlǐ de jūnhún",
-      "english": "I visited Wuchang and felt the military spirit there."
+      "chinese": "我们将在武昌停留几天(我們將在武昌停留幾天)，然后前往其他城市(然後前往其他城市)。",
+      "pinyin": "Wǒmen jiāng zài Wǔchāng tíngliú jǐ tiān, ránhòu qiánwǎng qítā chéngshì.",
+      "english": "We will stay in Wuchang for a few days and then head to other cities."
+    },
+    {
+      "chinese": "武昌有很多值得参观的历史名胜(武昌有很多值得參觀的歷史名勝)。",
+      "pinyin": "Wǔchāng yǒu hěn duō zhídé cānguān de lìshǐ míngshèng.",
+      "english": "Wuchang has many historical sites worth visiting."
     }
   ]
 }

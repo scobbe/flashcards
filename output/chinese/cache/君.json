@@ -5,8 +5,8 @@
   "english": "sovereign",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "尹(尹) (yǐn, \"govern\") + 口(口) (kǒu, \"mouth\") = vocal commands or governance -> sovereign",
-    "interpretation": "君(jūn, \"sovereign\") combines 尹(尹) (yǐn, \"govern\") as the phonetic component with 口(口) (kǒu, \"mouth\") to suggest the concept of one who issues commands vocally, hence representing a 'sovereign'. The character emphasizes the authoritative voice of a ruler.",
+    "description": "phonetic 尹 (yǐn, 'to govern') + semantic 口 (kǒu, 'mouth') -> ruler",
+    "interpretation": "The character 君(jūn, 'sovereign') combines 尹(yǐn, 'to govern'), suggesting oversight or rule, with 口(kǒu, 'mouth'), which may imply issuing commands, reinforcing the concept of a ruler who governs by decree.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "尹",
       "trad": "尹",
       "pinyin": "yǐn",
-      "english": "govern"
+      "english": "to govern"
     },
     {
       "char": "口",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "贤君爱民(賢君愛民)。",
-      "pinyin": "Xián jūn ài mín.",
-      "english": "A virtuous sovereign loves his people."
+      "chinese": "作为一国之君(作為一國之君)，他需要兼顾国家大事(他需要兼顧國家大事)。",
+      "pinyin": "Zuòwéi yī guó zhī jūn, tā xūyào jiāngù guójiā dàshì.",
+      "english": "As the sovereign of a nation, he needs to manage the affairs of state."
     },
     {
-      "chinese": "仁君施恩于国(仁君施恩於國)，君子仰之待之(君子仰之待之)。",
-      "pinyin": "Rén jūn shī ēn yú guó, jūn zǐ yǎng zhī dài zhī.",
-      "english": "A benevolent sovereign bestows his grace upon his country, and gentlemen look up to him."
+      "chinese": "君主制在历史上曾经非常普遍(君主制在歷史上曾經非常普遍)。",
+      "pinyin": "Jūnzhǔzhì zài lìshǐ shàng céngjīng fēicháng pǔbiàn.",
+      "english": "Monarchies were once very common throughout history."
     },
     {
-      "chinese": "明君察世事(明君察世事)，治国安民(治國安民)。",
-      "pinyin": "Míng jūn chá shìshì, zhì guó ān mín.",
-      "english": "A wise sovereign observes worldly affairs, governing the state and ensuring peace among the people."
+      "chinese": "他受封为君，承担起领导的责任(他受封為君，承擔起領導的責任)。",
+      "pinyin": "Tā shòu fēng wéi jūn, chéngdān qǐ lǐngdǎo de zérèn.",
+      "english": "He was appointed as a sovereign, taking on the responsibility of leadership."
     }
   ]
 }

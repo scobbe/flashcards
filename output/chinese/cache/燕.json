@@ -6,21 +6,26 @@
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a swallow",
-    "interpretation": "The character 燕(yàn, 'swallow') originally depicted a swallow, which is a type of bird. This straightforward pictogram visually represents the physical form of the bird itself.",
+    "interpretation": "The character 燕(yàn, 'swallow') directly depicts the bird, representing its distinct features with strokes that suggest wings and a tail, making the character visually resemble the silhouette of a swallow in flight.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春天到来时(春天到來時)，燕子归来报春(燕子歸來報春)。",
-      "pinyin": "Chūntiān dào lái shí(Chūntiān dào lái shí)，yànzi guī lái bào chūn(yànzi guī lái bào chūn)。",
-      "english": "When spring arrives, the swallows return to herald the season."
+      "chinese": "天空中有一只燕(天空中有一隻燕)。",
+      "pinyin": "Tiānkōng zhōng yǒu yī zhī yàn.",
+      "english": "There is a swallow in the sky."
     },
     {
-      "chinese": "夕阳西下(夕陽西下)，燕穿梭于屋檐(燕穿梭於屋簷)。",
-      "pinyin": "Xīyáng xī xià(Xīyáng xī xià)，yàn chuān suō yú wūyán(yàn chuān suō yú wūyán)。",
-      "english": "As the sun sets in the west, swallows flit under the eaves."
+      "chinese": "燕子飞得很快(燕子飛得很快)。",
+      "pinyin": "Yànzi fēi dé hěn kuài.",
+      "english": "The swallow flies very fast."
+    },
+    {
+      "chinese": "春天来了(春天來了)，燕子回到北方了(燕子回到北方了)。",
+      "pinyin": "Chūntiān lái le, yànzi huídào běifāng le.",
+      "english": "Spring has come, and the swallows have returned to the north."
     }
   ]
 }

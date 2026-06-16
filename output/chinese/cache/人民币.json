@@ -5,35 +5,46 @@
   "english": "Renminbi (RMB)",
   "etymology": {
     "type": "compound word",
-    "description": "人(人) (rén, \"person\") + 民(民) (mín, \"people\") + 币(幣) (bì, \"currency\") = Renminbi, the official currency of the People's Republic of China",
-    "interpretation": "The term 人民币(人民幣) (rénmínbì, \"Renminbi\") straightforwardly denotes the currency (幣) of the people (人民) of China. It reflects the idea that the currency is issued by the People's Republic of China, emphasizing its association with the people.",
-    "simplification": "币 simplified from 幣"
+    "description": "人(人) (rén, \"person\") + 民(民) (mín, \"people\") + 幣(幣) (bì, \"currency\")",
+    "interpretation": "人(人) (rén, \"person\") and 民(民) (mín, \"people\") combine to mean 'the people' as a collective group. 幣(幣) (bì, \"currency\") refers to money or a medium of exchange. Together, 人民幣 (rénmínbì) indicates the currency issued by and for the people, embodying the concept of a national currency serving the citizens of China. This combination underscores the purpose and ownership of the currency as belonging to the populace.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "人民",
-      "trad": "人民",
-      "pinyin": "rénmín",
-      "english": "people; the people"
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people"
     },
     {
       "char": "币",
       "trad": "幣",
       "pinyin": "bì",
-      "english": "currency"
+      "english": "currency; coin; money"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她用人民币买到了新手机(她用人民幣買到了新手機)。",
-      "pinyin": "Tā yòng rénmínbì mǎidàole xīn shǒujī.",
-      "english": "She bought a new smartphone using Renminbi."
+      "chinese": "他用人民币(他用人民幣)买了一本书(買了一本書)。",
+      "pinyin": "Tā yòng rénmínbì mǎi le yī běn shū.",
+      "english": "He used Renminbi to buy a book."
     },
     {
-      "chinese": "他在银行兑换人民币(他在銀行兌換人民幣)，准备出国旅游(準備出國旅遊)。",
-      "pinyin": "Tā zài yínháng duìhuàn rénmínbì, zhǔnbèi chūguó lǚyóu.",
-      "english": "He exchanged Renminbi at the bank, preparing to travel abroad."
+      "chinese": "人民币汇率(人民幣匯率)最近变化很大(最近變化很大)。",
+      "pinyin": "Rénmínbì huìlǜ zuìjìn biànhuà hěn dà.",
+      "english": "The Renminbi exchange rate has changed significantly recently."
+    },
+    {
+      "chinese": "她计划去中国(她計劃去中國)，所以正在换人民币(所以正在換人民幣)。",
+      "pinyin": "Tā jìhuà qù Zhōngguó, suǒyǐ zhèngzài huàn rénmínbì.",
+      "english": "She plans to go to China, so she is exchanging for Renminbi."
     }
   ]
 }

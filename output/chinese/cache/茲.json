@@ -4,23 +4,41 @@
   "pinyin": "zī",
   "english": "now",
   "etymology": {
-    "type": "Variant form",
-    "description": "茲(茲) (zī, \"now\")",
-    "interpretation": "The character 茲(zī, \"now\") is historically interchangeable with 玆, serving as variant forms of one another and used in different contexts to represent the same concepts.",
+    "type": "phono-semantic compound",
+    "description": "semantic 艸(艸) (cǎo, 'grass') + phonetic 兹(兹) (zī) -> indicates something present or currently happening",
+    "interpretation": "The character 茲(zī, 'now') combines the grass 艸(艸) (cǎo, 'grass') to suggest growth or presence with the phonetic 兹(兹) (zī) which provides the sound. This pairing thus is used to denote something present or current, metaphorically like growing grass.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "兹",
+      "trad": "兹",
+      "pinyin": "zī",
+      "english": "a phonetic component"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "茲是改革的良机(茲是改革的良機)。",
-      "pinyin": "zī shì gǎi gé de liáng jī",
-      "english": "Now is the opportunity for reform."
+      "chinese": "他茲辞去了职务(他茲辭去了職務)。",
+      "pinyin": "Tā zī cíqùle zhíwù.",
+      "english": "He now resigned from his position."
     },
     {
-      "chinese": "时间不早(時間不早)，茲当出发(茲當出發)。",
-      "pinyin": "shí jiān bù zǎo, zī dāng chū fā",
-      "english": "It is late, now it is time to set off."
+      "chinese": "公司决定茲发布新的政策(公司決定茲發布新的政策)。",
+      "pinyin": "Gōngsī juédìng zī fābù xīn de zhèngcè.",
+      "english": "The company has decided to now announce a new policy."
+    },
+    {
+      "chinese": "情况茲变得复杂(情況茲變得複雜)。",
+      "pinyin": "Qíngkuàng zī biàn dé fùzá.",
+      "english": "The situation has now become complicated."
     }
   ]
 }

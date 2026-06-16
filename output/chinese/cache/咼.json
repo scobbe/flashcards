@@ -2,19 +2,19 @@
   "simplified": "咼",
   "traditional": "咼",
   "pinyin": "guō",
-  "english": "phonetic component",
+  "english": "crooked, bent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 冎 (guǒ, 'bone') + Semantic 口 (kǒu, 'mouth') -> phonetic component",
-    "interpretation": "The character 咼 (guō) combines 冎 (guǒ, 'bone') for its phonetic value with 口 (kǒu, 'mouth') for the semantic aspect, forming a phonetic component used in various compounds.",
+    "description": "phonetic 冎 (guā, \"a type of ancient vessel\") + semantic 口 (kǒu, \"mouth\") -> crooked; bent",
+    "interpretation": "The character 咼 (guō, \"crooked, bent\") combines the phonetic component 冎 (guā, \"a type of ancient vessel\"), which suggests the sound, with the semantic component 口 (kǒu, \"mouth\"), indicating aspects related to opening or shape. Together, these components infer an image of something that does not maintain a straight line, thus producing the meaning \"crooked, bent.\"",
     "simplification": ""
   },
   "parts": [
     {
       "char": "冎",
       "trad": "冎",
-      "pinyin": "guǒ",
-      "english": "bone"
+      "pinyin": "guā",
+      "english": "a type of ancient vessel"
     },
     {
       "char": "口",
@@ -23,22 +23,6 @@
       "english": "mouth"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "这个字包括一个咼部件(這個字包括一個咼部件)。",
-      "pinyin": "Zhège zì bāokuò yīgè guō bùjiàn.",
-      "english": "This character includes a phonetic component 'guō'."
-    },
-    {
-      "chinese": "在汉字中(在漢字中)，咼是个常见的声旁(咼是個常見的聲旁)。",
-      "pinyin": "Zài hànzì zhōng, guō shì gè chángjiàn de shēngpáng.",
-      "english": "In Chinese characters, 'guō' is a common phonetic component."
-    },
-    {
-      "chinese": "一些古代汉字(一些古代漢字)，使用咼作为发音参考(使用咼作為發音參考)。",
-      "pinyin": "Yīxiē gǔdài hànzì, shǐyòng guō zuòwéi fāyīn cānkǎo.",
-      "english": "Some ancient Chinese characters used 'guō' as a phonetic reference."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

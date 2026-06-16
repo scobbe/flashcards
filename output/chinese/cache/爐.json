@@ -5,9 +5,9 @@
   "english": "oven",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "火(火) (huǒ, \"fire\") + 盧(盧) (lú, \"black\", phonetic) = container for heating -> oven",
-    "interpretation": "爐(爐) (lú, \"oven\") combines the semantic component 火(火) (huǒ, \"fire\") indicating something related to heat, with the phonetic element 盧(盧) (lú, \"black\"), suggesting the sound. This forms a character for an object related to fire for cooking or heating.",
-    "simplification": "The original component 盧(盧) (lú, \"black\") in 爐(爐) was kept phonetic in its simplified form 炉(炉), with the character reduced to straightforward strokes."
+    "description": "semantic 火(火) (huǒ, \"fire\") + phonetic 盧(盧) (lú, \"surname Lu\") -> 熱 source, heating stone -> oven, stove",
+    "interpretation": "The fire 火(火) (huǒ, \"fire\") component indicates that the character relates to a heated source or combustion, while the phonetic 盧(盧) (lú, \"surname Lu\") provides the pronunciation. Together, these elements refer to a structure for containing and managing fire, such as an oven or stove.",
+    "simplification": "Reduced to fewer strokes by maintaining the 火(火, \"fire\") component in the lower section while simplifying the 盧(盧) (lú, \"surname Lu\") portion for a streamlined form."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "盧",
       "trad": "盧",
       "pinyin": "lú",
-      "english": "black"
+      "english": "surname Lu"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "妈妈用爐烤蛋糕(媽媽用爐烤蛋糕)。",
-      "pinyin": "Māmā yòng lú kǎo dàn gāo.",
-      "english": "Mother bakes a cake using the oven."
+      "chinese": "他在厨房里有一个新炉子(他在廚房裡有一個新爐子)。",
+      "pinyin": "Tā zài chúfáng lǐ yǒu yī gè xīn lúzi.",
+      "english": "He has a new oven in the kitchen."
     },
     {
-      "chinese": "我把比萨放进爐(我把比薩放進爐)，然后设定温度(然後設定溫度)。",
-      "pinyin": "Wǒ bǎ bǐsà fàng jìn lú, ránhòu shè dìng wēn dù.",
-      "english": "I put the pizza into the oven, then set the temperature."
+      "chinese": "我们用炉子烤面包(我們用爐子烤麵包)。",
+      "pinyin": "Wǒmen yòng lúzi kǎo miànbāo.",
+      "english": "We use the oven to bake bread."
+    },
+    {
+      "chinese": "炉子打坏了(爐子打壞了)，需要修理(需要修理)。",
+      "pinyin": "Lúzi dǎ huài le, xūyào xiūlǐ.",
+      "english": "The oven is broken and needs repair."
     }
   ]
 }

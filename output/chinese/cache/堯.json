@@ -4,9 +4,9 @@
   "pinyin": "yáo",
   "english": "legendary ruler",
   "etymology": {
-    "type": "Phono-semantic compound / Ideogrammic compound",
-    "description": "Phono-semantic: 垚 (yáo, \"tall (of earth)\") as phonetic + 兀 (wù, \"towering and bald\") as semantic -> representing height and eminence. Ideogrammic: 垚 (yáo, \"tall (of earth)\") + 兀 (wù, \"towering and bald\") = symbolizing an elevated stature -> legendary ruler",
-    "interpretation": "The character 堯(堯) (yáo) combines phonetic and semantic elements to convey the idea of being tall or eminent, fitting for a legendary ruler known for his height and stature in tradition.",
+    "type": "phono-semantic compound and ideogrammic compound",
+    "description": "Phonetic 垚 (earth layers, *ŋeːw) + semantic 兀 (towering and bald) -> Depicts tall earth + kneeling man = legendary ruler",
+    "interpretation": "The character 堯 (yáo) combines phonetic 垚, which represents layers of earth and sounds like *ŋeːw, with semantic 兀, depicting a towering and bald figure. This combination suggests a legendary ruler who stands tall like the earth and exhibits a commanding presence. Such a ruler is perceived as lofty and powerful, akin to the towering formation of earth.",
     "simplification": ""
   },
   "parts": [
@@ -23,17 +23,6 @@
       "english": "towering and bald"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "堯是传说中的圣君(堯是傳說中的聖君)。",
-      "pinyin": "Yáo shì chuánshuō zhōng de shèng jūn.",
-      "english": "Yao is a legendary virtuous ruler."
-    },
-    {
-      "chinese": "古代文献赞誉堯(古代文獻讚譽堯)，称他治理有方(稱他治理有方)。",
-      "pinyin": "Gǔdài wénxiàn zànyù Yáo, chēng tā zhìlǐ yǒu fāng.",
-      "english": "Ancient texts praise Yao, saying he governed with wisdom."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

@@ -5,27 +5,27 @@
   "english": "long",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a long river with tributaries -> meaning \"long\"",
-    "interpretation": "The character 永(yǒng, \"long\") represents a continuously flowing river, symbolizing eternity or longevity through its perpetually moving water. This aligns with its use to denote duration.",
+    "description": "Depicts a long river with tributaries -> original form of 泳(泳) (yǒng, \"swim\")",
+    "interpretation": "The character 永 depicts a long river, which visually represents its tributaries joining together. This imagery of an expansive and enduring water body conveys the sense of 'long-lasting' or 'perpetual' by suggesting continuity and flow. Additionally, the original association with water makes 永 also relate to 泳(泳) (yǒng, \"swim\"), highlighting its aquatic connections.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他们的友谊会永(永)长存(他們的友誼會永長存)。",
-      "pinyin": "Tāmen de yǒuyì huì yǒng yuǎn chángcún.",
-      "english": "Their friendship will last forever."
+      "chinese": "友情是永恒的(友情是永恆的)。",
+      "pinyin": "Yǒuqíng shì yǒnghéng de.",
+      "english": "Friendship is eternal."
     },
     {
-      "chinese": "学者探讨古籍时(學者探討古籍時)，发现‘永’的用法源远流长(發現‘永’的用法源遠流長)。",
-      "pinyin": "Xuézhě tàntǎo gǔjí shí, fāxiàn ‘yǒng’ de yòngfǎ yuányuǎn liúcháng.",
-      "english": "When scholars study ancient texts, they discovered that the usage of '永' carries timeless wisdom."
+      "chinese": "她对音乐的热爱永不会改变(她對音樂的熱愛永不會改變)。",
+      "pinyin": "Tā duì yīnyuè de rè'ài yǒng bù huì gǎibiàn.",
+      "english": "Her love for music will never change."
     },
     {
-      "chinese": "记住他的承诺时(記住他的承諾時)，我们应以永(永)不放弃的精神面对挑战(我們應以永不放棄的精神面對挑戰)。",
-      "pinyin": "Jìzhù tā de chéngnuò shí, wǒmen yīng yǐ yǒng bù fàngqì de jīngshén miànduì tiǎozhàn.",
-      "english": "Remembering his promise, we should face challenges with an unyielding spirit."
+      "chinese": "他们的故事将在历史中永存(他們的故事將在歷史中永存)。",
+      "pinyin": "Tāmen de gùshì jiāng zài lìshǐ zhōng yǒngcún.",
+      "english": "Their story will endure in history."
     }
   ]
 }

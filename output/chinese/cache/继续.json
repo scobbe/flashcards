@@ -5,8 +5,8 @@
   "english": "continue; go on",
   "etymology": {
     "type": "compound word",
-    "description": "繼(繼) (jì, \"continue\") refers to the action of continuing or following in the sense of succession. 續(續) (xù, \"continue\") emphasizes maintenance or extension of an action or process.",
-    "interpretation": "The combination of 繼(繼) (jì, \"continue\") and 續(續) (xù, \"continue\") reinforces the concept of continuation, highlighting both succession and continual process.",
+    "description": "繼(繼) (jì, \"to continue\") connects the idea of proceeding after something has ended, like resuming a thread. 續(續) (xù, \"to continue; renew\") emphasizes the process of carrying something onwards, extending a sequence or action.",
+    "interpretation": "繼(繼) (jì, \"to continue\") involves carrying on with something begun by another, akin to inheriting a task or position and moving forward. 續(續) (xù, \"to continue; renew\") builds on the concept of extending an action or maintaining continuity over time, suggesting seamless progression. Together, 繼續(繼續) (jìxù) creates a robust sense of unbroken continuation and maintaining momentum, ideal for depicting ongoing actions or processes.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "继",
       "trad": "繼",
       "pinyin": "jì",
-      "english": "continue; follow; succeed"
+      "english": "to continue; succeed; follow"
     },
     {
       "char": "续",
       "trad": "續",
       "pinyin": "xù",
-      "english": "continue; extend; maintain"
+      "english": "to continue; renew; connect; supply"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "We continue working."
     },
     {
-      "chinese": "他暂停一下(他暫停一下)，然后继续说(然後繼續說)。",
-      "pinyin": "Tā zàntíng yīxià, ránhòu jìxù shuō.",
-      "english": "He paused for a moment, and then continued speaking."
+      "chinese": "尽管下雨(儘管下雨)，他们继续比赛(他們繼續比賽)。",
+      "pinyin": "Jǐnguǎn xiàyǔ, tāmen jìxù bǐsài.",
+      "english": "Despite the rain, they continue the game."
     },
     {
-      "chinese": "尽管遇到了困难(儘管遇到了困難)，我们还是决定继续前进(我們還是決定繼續前進)。",
-      "pinyin": "Jǐnguǎn yù dào le kùnnán, wǒmen háishì juédìng jìxù qiánjìn.",
-      "english": "Despite the difficulties, we decided to continue moving forward."
+      "chinese": "他继续学习中文(他繼續學習中文)。",
+      "pinyin": "Tā jìxù xuéxí Zhōngwén.",
+      "english": "He continues to study Chinese."
     }
   ]
 }

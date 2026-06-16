@@ -5,8 +5,8 @@
   "english": "pavilion",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "京(京) (jīng, \"tower\") + 丁(丁) (dīng, \"nail\") = tower form with phonetic nail -> pavilion",
-    "interpretation": "The character 亭(亭) (tíng, \"pavilion\") combines the semantic 京(京) (jīng, \"tower\") representing the tall structure of a pavilion, with the phonetic 丁(丁) (dīng, \"nail\") to indicate its pronunciation. This combination effectively conveys the concept of a constructed, stable, and prominent building used for leisure or shelter.",
+    "description": "semantic 京(京) (jīng, 'capital') variant, stylized as tower + phonetic 丁(丁) (dīng, 'nail')",
+    "interpretation": "The character 亭(tíng, 'pavilion') combines a variant of 京(京) (jīng, 'capital city'), stylized to resemble a tower or platform, with 丁(丁) (dīng, 'nail') as the phonetic component. This representation suggests a small, fixed structure such as a pavilion, where the 'tower-like' form conveys the sense of an elevated, ornamental building.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "京",
       "trad": "京",
       "pinyin": "jīng",
-      "english": "tower"
+      "english": "capital"
     },
     {
       "char": "丁",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "庭院里建有一座小亭(庭院裡建有一座小亭)。",
-      "pinyin": "Tíng yuàn lǐ jiàn yǒu yī zuò xiǎo tíng.",
-      "english": "There is a small pavilion built in the courtyard."
+      "chinese": "在公园里有一个漂亮的亭子(在公園裡有一個漂亮的亭子)。",
+      "pinyin": "Zài gōngyuán lǐ yǒu yī gè piàoliang de tíngzi.",
+      "english": "There is a beautiful pavilion in the park."
     },
     {
-      "chinese": "公园中矗立一座亭(公園中矗立一座亭)，吸引众多游人(吸引眾多遊人)。",
-      "pinyin": "Gōng yuán zhōng chù lì yī zuò tíng, xī yǐn zhòng duō yóu rén.",
-      "english": "A pavilion stands tall in the park, attracting many visitors."
+      "chinese": "我们坐在亭里(我們坐在亭裡)，欣赏周围的风景(欣賞周圍的風景)。",
+      "pinyin": "Wǒmen zuò zài tíng lǐ, xīnshǎng zhōuwéi de fēngjǐng.",
+      "english": "We sit in the pavilion, enjoying the surrounding scenery."
     },
     {
-      "chinese": "湖边的小亭提供休息之所(湖邊的小亭提供休息之所)。",
-      "pinyin": "Hú biān de xiǎo tíng tí gōng xiū xí zhī suǒ.",
-      "english": "The small pavilion by the lake provides a place to rest."
+      "chinese": "亭子的屋顶是用传统的瓦片做的(亭子的屋頂是用傳統的瓦片做的)。",
+      "pinyin": "Tíngzi de wūdǐng shì yòng chuántǒng de wǎpiàn zuò de.",
+      "english": "The roof of the pavilion is made with traditional tiles."
     }
   ]
 }

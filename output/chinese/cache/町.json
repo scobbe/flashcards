@@ -5,8 +5,8 @@
   "english": "pavilion; village; ward",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "田 (field) + 丁 (phonetic) = ward or village",
-    "interpretation": "The character 町 combines 田(tián, “field”), representing land or area, with 丁(dīng, “fourth celestial stem”) to convey meanings related to an administrative district, such as a ward or village.",
+    "description": "semantic 田(田) (tián, \"field\") + phonetic 丁(丁) (dīng)",
+    "interpretation": "The character 町(dīng, \"pavilion; village; ward\") combines 田(田) (tián, \"field\") as the semantic component, suggesting land or area, with 丁(丁) (dīng) as the phonetic component. The combination intuitively represents a plotted area within a larger field, appropriate for a village or designated district.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,9 @@
       "char": "丁",
       "trad": "丁",
       "pinyin": "dīng",
-      "english": "fourth celestial stem"
+      "english": "fourth heavenly stem"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "乡间有一座町(町)，供人休憩赏景(供人休憩賞景)。",
-      "pinyin": "Xiāngjiān yǒuyī zuò dīng, gōng rén xiūqì shǎngjǐng.",
-      "english": "In the countryside, there is a pavilion for relaxation and sightseeing."
-    },
-    {
-      "chinese": "古老的町(町)，坐落在青山之间(坐落在青山之間)。",
-      "pinyin": "Gǔlǎo de dīng, zuòluò zài qīng shān zhī jiān.",
-      "english": "The ancient pavilion is located among the green mountains."
-    },
-    {
-      "chinese": "在町内(在町內)，居民们保留着传统文化(居民們保留著傳統文化)。",
-      "pinyin": "Zài dīng nèi, jūmín men bǎoliú zhe chuántǒng wénhuà.",
-      "english": "Within the village, the residents preserve traditional culture."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

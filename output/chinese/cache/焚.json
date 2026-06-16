@@ -1,0 +1,44 @@
+{
+  "simplified": "焚",
+  "traditional": "焚",
+  "pinyin": "fén",
+  "english": "burn",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "林(林) (lín, \"trees\") + 火(火) (huǒ, \"fire\") = trees on fire -> burn",
+    "interpretation": "The character 焚(fén, \"burn\") visually represents trees 林(林) (lín, \"trees\") engulfed in 火(火) (huǒ, \"fire\"), creating the intuitive concept of burning. This imagery captures the devastation of fire consuming trees, directly leading to the meaning 'to burn'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "林",
+      "trad": "林",
+      "pinyin": "lín",
+      "english": "trees"
+    },
+    {
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用火焚毀(他用火焚毀)了那些旧文件(了那些舊文件)。",
+      "pinyin": "Tā yòng huǒ fénhuǐ le nàxiē jiù wénjiàn.",
+      "english": "He burned the old documents with fire."
+    },
+    {
+      "chinese": "每年春天(每年春天)，农民会焚烧(農民會焚燒)田里的秸秆(田裏的秸稈)。",
+      "pinyin": "Měinián chūntiān, nóngmín huì fénshāo tián lǐ de jiēgǎn.",
+      "english": "Every spring, farmers burn straw in the fields."
+    },
+    {
+      "chinese": "这本书曾经被视为异端(這本書曾經被視為異端)，被拿去焚烧(被拿去焚燒)。",
+      "pinyin": "Zhè běn shū céngjīng bèi shì wéi yìduān, bèi ná qù fénshāo.",
+      "english": "This book was once considered heretical and was taken to be burned."
+    }
+  ]
+}

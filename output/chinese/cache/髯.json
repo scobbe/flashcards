@@ -5,8 +5,8 @@
   "english": "beard",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "髟(髟) (biāo, \"hair\") + phonetic: 然(然) (rán) = hair-like appearance -> beard",
-    "interpretation": "The character 髯(rán, \"beard\") utilizes the semantic component 髟(髟) representing hair, combined with the phonetic component 然(然) to suggest a word related to hair, specifically a beard.",
+    "description": "semantic 髟(髟) (biāo, \"hair\") + phonetic 冉(冉) (rǎn, \"gradual\") -> \"beard\"",
+    "interpretation": "The character 髯(rán, \"beard\") uses the semantic component 髟(髟) (biāo, \"hair\") to denote its relation to hair, specifically facial hair. The phonetic component 冉(冉) (rǎn, \"gradual\") contributes the sound. A beard, consisting of hair on the chin and face, aligns with the imagery and meaning of these combined components.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,28 @@
       "english": "hair"
     },
     {
-      "char": "然",
-      "trad": "然",
-      "pinyin": "rán",
-      "english": "nature"
+      "char": "冉",
+      "trad": "冉",
+      "pinyin": "rǎn",
+      "english": "gradual"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他留着长髯(他留著長髯)。",
-      "pinyin": "Tā liúzhe cháng rán.",
-      "english": "He sports a long beard."
+      "chinese": "他的长髯非常抢眼(他的長髯非常搶眼)。",
+      "pinyin": "Tā de chángrán fēicháng qiǎngyǎn.",
+      "english": "His long beard is very striking."
     },
     {
-      "chinese": "老者披上长衫(老者披上長衫)，露出精致的髯(露出精緻的髯)。",
-      "pinyin": "Lǎo zhě pī shàng cháng shān, lùchū jīngzhì de rán.",
-      "english": "The old man dons a long robe, revealing his exquisite beard."
+      "chinese": "这位老人有一副白髯(這位老人有一副白髯)，看起来很有智慧(看起來很有智慧)。",
+      "pinyin": "Zhè wèi lǎorén yǒu yī fù báirán, kàn qǐlái hěn yǒu zhìhuì.",
+      "english": "The old man has a white beard, which makes him look very wise."
+    },
+    {
+      "chinese": "小说中的角色常常拥有长髯(小說中的角色常常擁有長髯)，增添了神秘感(增添了神秘感)。",
+      "pinyin": "Xiǎoshuō zhōng de juésè chángcháng yǒngyǒu chángrán, zēngtiān le shénmì gǎn.",
+      "english": "Characters in novels often have long beards, adding a sense of mystery."
     }
   ]
 }

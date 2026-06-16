@@ -5,8 +5,8 @@
   "english": "north; northern region",
   "etymology": {
     "type": "compound word",
-    "description": "北(北) (běi, \"north\") + 方(方) (fāng, \"direction; region\") = northern direction or region",
-    "interpretation": "The combination of 北(北) (běi, \"north\") and 方(方) (fāng, \"direction; region\") refers to the northern direction or area. This word is used to indicate the region or direction towards the north, often describing the northern parts of a country or territory.",
+    "description": "北(北) (běi, \"north\") + 方(方) (fāng, \"direction\") = the northern direction or region",
+    "interpretation": "北(北) (běi, \"north\") refers to the direction associated with the top of a traditional Chinese map, which is usually oriented with the south at the bottom. 方(方) (fāng, \"direction\") denotes a particular way or orientation. Combined, 北方 (běifāng) refers to the area or direction that is toward the north, thus it signifies both the north in terms of cardinal direction and the northern region geographically.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢北方的风景(我喜歡北方的風景)。",
-      "pinyin": "Wǒ xǐhuān běifāng de fēngjǐng.",
-      "english": "I like the scenery of the north."
+      "chinese": "北方(北方)的冬天很冷。",
+      "pinyin": "Běifāng de dōngtiān hěn lěng.",
+      "english": "The winter in the north is very cold."
     },
     {
-      "chinese": "冬天到来时(冬天到來時)，北方寒风刺骨(北方寒風刺骨)。",
-      "pinyin": "Dōngtiān dàolái shí, běifāng hánfēng cìgǔ.",
-      "english": "When winter comes, the northern cold wind is piercing."
+      "chinese": "我计划去北方旅行(我計劃去北方旅行)，看看那里的风景(看看那裡的風景)。",
+      "pinyin": "Wǒ jìhuà qù běifāng lǚxíng, kàn kàn nàlǐ de fēngjǐng.",
+      "english": "I plan to travel to the north and see the scenery there."
+    },
+    {
+      "chinese": "北方人(北方人)喜歡吃麵食(喜歡吃麵食)。",
+      "pinyin": "Běifāng rén xǐhuān chī miànshí.",
+      "english": "Northern people like to eat noodles."
     }
   ]
 }

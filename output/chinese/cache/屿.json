@@ -5,9 +5,9 @@
   "english": "islet",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "山(山) (shān, \"mountain\") + 與(与) (yǔ, phonetic) = landform like a mountain + sound -> islet",
-    "interpretation": "With 山(山) (shān, \"mountain\") indicating a landform and 與(与) (yǔ) providing the pronunciation, the character depicts an enclosed land area like a mountain surrounded by water, thus representing an islet.",
-    "simplification": "嶼(嶼)→屿(嶼): 與(与) (yǔ, \"and\") simplified to 与(与), which shares the same pronunciation."
+    "description": "semantic 山 (mountain) + phonetic 與 (yǔ) -> islet",
+    "interpretation": "The character 嶼 represents an islet, combining 山(shān, 'mountain') which gives the idea of a physical landform, and 與(yǔ, 'give; and') which provides the sound. The mountain component suggests a small, isolated landform protruding from water, akin to a mountain in the sea, thus forming the idea of an islet.",
+    "simplification": "屿 is the simplified form of 嶼, where 與 was simplified to 与, reducing the stroke count while retaining the original sound and a semblance of the meaning."
   },
   "parts": [
     {
@@ -17,23 +17,28 @@
       "english": "mountain"
     },
     {
-      "char": "与",
+      "char": "與",
       "trad": "與",
       "pinyin": "yǔ",
-      "english": "and"
+      "english": "give; and"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个屿(這個嶼)风景如画(風景如畫)。",
-      "pinyin": "Zhège yǔ fēngjǐng rúhuà.",
-      "english": "This islet boasts picturesque scenery."
+      "chinese": "那个小岛屿是一个旅游胜地(那個小島嶼是一個旅遊勝地)。",
+      "pinyin": "Nàgè xiǎo dǎoyǔ shì yīgè lǚyóu shèngdì.",
+      "english": "That small islet is a tourist attraction."
     },
     {
-      "chinese": "海上有一座屿(海上有一座嶼)，附近住着渔民(附近住着漁民)。",
-      "pinyin": "Hǎishàng yǒuyī zuò yǔ, fùjìn zhùzhe yúmín.",
-      "english": "There is an islet on the sea, near which fishermen live."
+      "chinese": "许多海鸟在这个偏远的岛屿上栖息(許多海鳥在這個偏遠的島嶼上棲息)。",
+      "pinyin": "Xǔduō hǎiniǎo zài zhège piānyuǎn de dǎoyǔ shàng qīxī.",
+      "english": "Many seabirds rest on this remote islet."
+    },
+    {
+      "chinese": "渔民们常常在附近的岛屿捕鱼(漁民們常常在附近的島嶼捕魚)。",
+      "pinyin": "Yúmínmen chángcháng zài fùjìn de dǎoyǔ bǔyú.",
+      "english": "Fishermen often fish near the nearby islets."
     }
   ]
 }

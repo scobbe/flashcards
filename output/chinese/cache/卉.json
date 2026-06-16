@@ -5,40 +5,40 @@
   "english": "plant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "丗(丗) (shì, \"generation\") + 十(十) (shí, \"ten\") = plants growing in a field",
-    "interpretation": "The character 卉(huì, \"plant\") is composed of 丗(丗) (shì, \"generation\") and 十(十) (shí, \"ten\"), symbolizing a multitude of plants sprouting in a field, representing abundance and growth.",
+    "description": "屮(屮) (chè, \"sprout\") + 八(八) (bā, \"eight\") = various plants emerging",
+    "interpretation": "The character 卉 (huì, \"plant\") combines 屮(屮) (chè, \"sprout\"), depicting vegetation, with 八(八) (bā, \"eight\"), implying multiplicity or variety. Together, they convey the idea of numerous plants or a diversity of vegetation growing forth, reflecting the character's use to represent 'plant.'",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "丗",
-      "trad": "丗",
-      "pinyin": "shì",
-      "english": "generation"
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
     },
     {
-      "char": "十",
-      "trad": "十",
-      "pinyin": "shí",
-      "english": "ten"
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "花卉争艳(花卉爭艷)。",
-      "pinyin": "Huā huì zhēng yàn.",
-      "english": "The plants compete in beauty."
+      "chinese": "这个花园里有各种各样的卉(這個花園裏有各種各樣的卉)。",
+      "pinyin": "Zhège huāyuán lǐ yǒu gèzhǒng gè yàng de huì.",
+      "english": "This garden has all kinds of plants."
     },
     {
-      "chinese": "公园里种满各色卉(公園裡種滿各色卉)，营造了生机勃勃的景象(營造了生機勃勃的景象)。",
-      "pinyin": "Gōngyuán lǐ zhòng mǎn gè sè huì, yíngzào le shēngjī bóbó de jǐngxiàng.",
-      "english": "The park is filled with a variety of plants, creating a vibrant scene."
+      "chinese": "卉的种类繁多(卉的種類繁多)，让人眼花缭乱(讓人眼花繚亂)。",
+      "pinyin": "Huì de zhǒnglèi fánduō, ràng rén yǎnhuā-liáoluàn.",
+      "english": "The variety of plants is overwhelming, making people dizzy."
     },
     {
-      "chinese": "古人赞美卉木(古人讚美卉木)，吟诗咏其秀丽(吟詩詠其秀麗)。",
-      "pinyin": "Gǔrén zànměi huì mù, yín shī yǒng qí xiùlì.",
-      "english": "Ancient scholars praised the flora and composed poems to admire its beauty."
+      "chinese": "科学家正在研究新的卉品种(科學家正在研究新的卉品種)。",
+      "pinyin": "Kēxuéjiā zhèngzài yánjiū xīn de huì pǐnzhǒng.",
+      "english": "Scientists are researching new plant species."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "cloudy sky; overcast weather",
   "etymology": {
     "type": "compound word",
-    "description": "陰(阴) (yīn, \"cloudy; overcast\") + 天(天) (tiān, \"sky\") = \"cloudy sky; overcast weather\"",
-    "interpretation": "A 天(天) (tiān, \"sky\") that is 陰(阴) (yīn, \"cloudy\") refers to weather conditions where the sky is covered with clouds, resulting in overcast weather. The combination succinctly conveys the concept of a day with gloomy weather.",
+    "description": "陰(陰) (yīn, \"cloudy; negative; hidden\") indicates cloudy or shadowed conditions, as it typically represents the shaded or obscure side of a hill, metaphorically linked to overcast weather; 天(天) (tiān, \"sky; heaven; day\") is the sky or celestial space, relating to the weather above us.",
+    "interpretation": "陰(陰) (yīn, \"cloudy; hidden\") conveys shadowy or overcast weather, implying the presence of clouds that obscure sunlight; it also connotes negativity as clouds can bring gloom. 天(天) (tiān, \"sky\") naturally represents the weather or atmosphere, so 阴天(陰天) (yīntiān) literally combines these to signify 'cloudy sky' or 'overcast weather', as a sky shadowed by clouds blocking the sun's light.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "阴",
       "trad": "陰",
       "pinyin": "yīn",
-      "english": "cloudy; overcast"
+      "english": "cloudy; negative; hidden"
     },
     {
       "char": "天",
       "trad": "天",
       "pinyin": "tiān",
-      "english": "sky"
+      "english": "sky; heaven; day"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天是阴天(今天是陰天)，我们打算待在家里(我們打算待在家裡)。",
-      "pinyin": "Jīntiān shì yīntiān, wǒmen dǎsuàn dāi zài jiālǐ.",
-      "english": "Today is overcast, and we plan to stay at home."
+      "chinese": "今天是阴天(今天是陰天)。",
+      "pinyin": "Jīntiān shì yīntiān.",
+      "english": "Today is cloudy."
     },
     {
-      "chinese": "阴天(陰天)使得景色显得柔和(使得景色顯得柔和)。",
-      "pinyin": "Yīntiān shǐdé jǐngsè xiǎnde róuhé.",
-      "english": "The cloudy sky makes the scenery appear soft."
+      "chinese": "阴天的时候(陰天的時候)，我喜欢喝热茶(我喜歡喝熱茶)。",
+      "pinyin": "Yīntiān de shíhòu, wǒ xǐhuān hē rè chá.",
+      "english": "When it's cloudy, I like to drink hot tea."
     },
     {
-      "chinese": "虽然今天是阴天(雖然今天是陰天)，但心情却很晴朗(但心情卻很晴朗)。",
-      "pinyin": "Suīrán jīntiān shì yīntiān, dàn xīnqíng què hěn qínglǎng.",
-      "english": "Although today is overcast, the mood is still quite bright."
+      "chinese": "阴天让人感觉很放松(陰天讓人感覺很放鬆)。",
+      "pinyin": "Yīntiān ràng rén gǎnjué hěn fàngsōng.",
+      "english": "Cloudy weather makes people feel relaxed."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "martial world",
   "etymology": {
     "type": "compound word",
-    "description": "江(江) (jiāng, \"river\") originally referred to the Yangtze River, and 湖(湖) (hú, \"lake\") represents a body of water. Together, 江湖(江湖) (jiānghú) forms a concept that refers to an elusive space beyond the structured society where martial artists, wanderers, and hermits dwell. In classical Chinese literature, it evokes a sense of the wandering, adventurous, and sometimes dangerous life outside societal norms.",
-    "interpretation": "江湖(江湖) (jiānghú) symbolizes a life free from official duties, inhabited by martial arts practitioners and those seeking adventure and freedom from societal constraints.",
+    "description": "江(江) (jiāng, \"river\") + 湖(湖) (hú, \"lake\") together traditionally refer to the geographical spaces that were outside of official jurisdiction, often metaphorically associated with a space of freedom or wilderness.",
+    "interpretation": "江(江) (jiāng, \"river\") and 湖(湖) (hú, \"lake\") collectively refer to bodies of water. Historically, these represented the vast natural landscapes beyond the grasp of tight societal structures, symbolizing autonomy and rebellion. In ancient Chinese literature and culture, 江湖(江湖) (jiānghú) became symbolic of a realm outside conventional society where martial artists, outlaws, and wanderers operate. This metaphor extends to the idea of the 'martial world', where individuals lead lives governed by personal honor codes, distinct from mundane official life.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "江湖险恶(江湖險惡)。",
-      "pinyin": "Jiānghú xiǎn'è.",
-      "english": "The martial world is treacherous."
+      "chinese": "在江湖中(在江湖中)，有许多传说(有許多傳說)。",
+      "pinyin": "Zài jiānghú zhōng, yǒu xǔduō chuánshuō.",
+      "english": "In the martial world, there are many legends."
     },
     {
-      "chinese": "他闯荡江湖(他闖蕩江湖)，寻找自由(尋找自由)。",
-      "pinyin": "Tā chuǎngdàng jiānghú, xúnzhǎo zìyóu.",
-      "english": "He ventures into the martial world, seeking freedom."
+      "chinese": "他在江湖里失去了一切(他在江湖裡失去了一切)，但仍然保持乐观(但仍然保持樂觀)。",
+      "pinyin": "Tā zài jiānghú lǐ shīqùle yīqiè, dàn réngrán bǎochí lèguān.",
+      "english": "He lost everything in the martial world, but still remains optimistic."
     },
     {
-      "chinese": "在江湖之中(在江湖之中)，英雄辈出(英雄輩出)。",
-      "pinyin": "Zài jiānghú zhī zhōng, yīngxióng bèichū.",
-      "english": "In the martial world, heroes emerge one after another."
+      "chinese": "江湖风雨(江湖風雨)，难以预料(難以預料)。",
+      "pinyin": "Jiānghú fēngyǔ, nányǐ yùliào.",
+      "english": "The happenings of the martial world are unpredictable."
     }
   ]
 }

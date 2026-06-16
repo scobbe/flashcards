@@ -5,9 +5,9 @@
   "english": "snow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Rain 雨(雨) (yǔ, \"rain\") + Phonetic 彗(彗) (huì, \"broom\") = sweeping away rain -> snow",
-    "interpretation": "The combination of 雨(雨) (yǔ, \"rain\") and 彗(彗) (huì, \"broom\") effectively conveys the idea of snow as light, fluffy precipitation that resembles rain being swept away like with a broom, likely reflecting how snow covers surfaces.",
-    "simplification": "The character 雪 is an ancient simplification of 䨮, both sharing the same components for rain and broom."
+    "description": "semantic 雨(雨) (yǔ, \"rain\") + phonetic 彗(彗) (huì, \"broom\") -> snow",
+    "interpretation": "The character combines 雨(雨) (yǔ, \"rain\") for the semantic idea of precipitation and 彗(彗) (huì, \"broom\") for its phonetic value. The image of rain light and fluffy as a broom sweep implies the specific type of precipitation: snow.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "冬天来了(冬天來了)，雪花纷飞(雪花紛飛)。",
-      "pinyin": "Dōngtiān láile, xuěhuā fēnfēi.",
-      "english": "Winter has arrived, and snowflakes are fluttering."
+      "chinese": "冬天的时候(冬天的時候)，我们经常去山上滑雪(我們經常去山上滑雪)。",
+      "pinyin": "Dōngtiān de shíhòu, wǒmen jīngcháng qù shānshàng huáxuě.",
+      "english": "In winter, we often go to the mountains to ski."
     },
     {
-      "chinese": "屋顶上挂着雪(屋頂上掛著雪)。",
-      "pinyin": "Wūdǐng shàng guàzhe xuě.",
-      "english": "Snow is hanging on the roof."
+      "chinese": "昨天晚上下了很多雪(昨天晚上下了很多雪)。",
+      "pinyin": "Zuótiān wǎnshàng xiàle hěnduō xuě.",
+      "english": "It snowed a lot last night."
     },
     {
-      "chinese": "初雪降临时(初雪降臨時)，万物银装(萬物銀裝)。",
-      "pinyin": "Chū xuě jiànglín shí, wànwù yínzhuāng.",
-      "english": "When the first snow arrives, everything is dressed in silver."
+      "chinese": "雪花在阳光下闪闪发光(雪花在陽光下閃閃發光)。",
+      "pinyin": "Xuěhuā zài yángguāng xià shǎnshǎn fāguāng.",
+      "english": "The snowflakes sparkle under the sunlight."
     }
   ]
 }

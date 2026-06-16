@@ -1,0 +1,44 @@
+{
+  "simplified": "眾",
+  "traditional": "眾",
+  "pinyin": "zhòng",
+  "english": "multitude",
+  "etymology": {
+    "type": "pictogram",
+    "description": "日(日, \"sun\") above three 人(人, \"person\") -> sun over a crowd -> modified to 罒(resembles \"eye\") + three 人(人, \"person\") -> crowd under gaze",
+    "interpretation": "The character originally depicted the sun shining over three figures, indicating people gathered or working outdoors. This was modified over time with the top element stylized to resemble an eye watching over a crowd, symbolizing a multitude under observation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "人群聚集在广场上(人群聚集在廣場上)，引起了围观者的注意(引起了圍觀者的注意)。",
+      "pinyin": "Rénqún jùjí zài guǎngchǎng shàng, yǐnqǐle wéiguān zhě de zhùyì.",
+      "english": "The crowd gathered in the square, attracting the attention of onlookers."
+    },
+    {
+      "chinese": "市长在大会上向群众发表了讲话(市長在大會上向群眾發表了講話)。",
+      "pinyin": "Shìzhǎng zài dàhuì shàng xiàng qúnzhòng fābiǎo le jiǎnghuà.",
+      "english": "The mayor delivered a speech to the multitude at the conference."
+    },
+    {
+      "chinese": "为了满足大众的需求(為了滿足大眾的需求)，公司推出了新产品(公司推出了新產品)。",
+      "pinyin": "Wèile mǎnzú dàzhòng de xūqiú, gōngsī tuīchū le xīn chǎnpǐn.",
+      "english": "To meet the needs of the multitude, the company launched a new product."
+    }
+  ]
+}

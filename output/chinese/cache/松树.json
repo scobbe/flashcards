@@ -5,9 +5,9 @@
   "english": "pine tree",
   "etymology": {
     "type": "compound word",
-    "description": "松(松) (sōng, \"pine\") + 树(樹) (shù, \"tree\")",
-    "interpretation": "The word 松树(松樹) (sōngshù, \"pine tree\") combines 松(松) (sōng, \"pine\"), which refers to the type of tree known for its evergreen needles and cones, and 树(樹) (shù, \"tree\"), indicating a plant with a woody stem. Together, the term directly means 'pine tree,' highlighting the species of tree being described.",
-    "simplification": "松树 is the simplified form of 松樹."
+    "description": "松(松) (sōng, \"pine\") + 樹(樹) (shù, \"tree\") = pine tree.",
+    "interpretation": "松(松) (sōng, \"pine\") refers to the type of tree known for its needle-like leaves and cone-bearing qualities. 樹(樹) (shù, \"tree\") represents any type of woody perennial plant. Together, they specify the particular species of tree, 'pine tree', by naming both its general category and its distinctive type.",
+    "simplification": ""
   },
   "parts": [
     {
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这是一棵高大的松树(這是一棵高大的松樹)。",
-      "pinyin": "Zhè shì yī kē gāodà de sōngshù.",
-      "english": "This is a tall pine tree."
+      "chinese": "山上的松树(山上的松樹)十分高大(十分高大)。",
+      "pinyin": "Shān shàng de sōngshù shífēn gāodà.",
+      "english": "The pine trees on the mountain are very tall."
     },
     {
-      "chinese": "秋风扫过山坡(秋風掃過山坡)，带来松树的清香(帶來松樹的清香)。",
-      "pinyin": "Qiūfēng sǎoguò shānpō, dàilái sōngshù de qīngxiāng.",
-      "english": "The autumn wind sweeps over the hill, carrying the fresh scent of pine trees."
+      "chinese": "冬天的时候(冬天的時候)，我们去山里欣赏松树(我們去山裡欣賞松樹)。",
+      "pinyin": "Dōngtiān de shíhòu, wǒmen qù shān lǐ xīnshǎng sōngshù.",
+      "english": "During winter, we go to the mountains to admire the pine trees."
+    },
+    {
+      "chinese": "那片松树林(那片松樹林)是他童年的乐园(是他童年的樂園)。",
+      "pinyin": "Nà piàn sōngshùlín shì tā tóngnián de lèyuán.",
+      "english": "That pine forest was his childhood paradise."
     }
   ]
 }

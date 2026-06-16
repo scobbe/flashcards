@@ -5,35 +5,40 @@
   "english": "compass",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 見(見) (jiàn, \"see\") + phonetic: 瞿(瞿) (qú) = tool for seeing precise lines -> compass",
-    "interpretation": "The character 規(規) (guī, \"compass\") combines the idea of seeing with precision, represented by 見(見) (jiàn, \"see\"), with the phonetic component 瞿(瞿) (qú) to form a character representing a tool for creating precise lines, such as a compass.",
-    "simplification": ""
+    "description": "Originally a pictogram of a compass -> transformed to combine 夫(夫) (fū, \"husband\") + a phonetic component similar to 癸(癸)",
+    "interpretation": "The character 規(規) (guī, \"compass\") originally depicted a cross-shaped measuring compass. Over time, it evolved to incorporate elements for phonetic reasons—specifically, adopting an abbreviated form of the phonetic component 癸(癸) (guǐ, \"tenth heavenly stem\"). The association with 夫(夫) (fū, \"husband\") originally related to the tool-like function of a compass in measurement.",
+    "simplification": "规(規): 見(見) component was removed and replaced with 见(见), a simpler form, preserving the phonetic similarity."
   },
   "parts": [
     {
-      "char": "見",
-      "trad": "見",
-      "pinyin": "jiàn",
-      "english": "see"
+      "char": "夫",
+      "trad": "夫",
+      "pinyin": "fū",
+      "english": "husband"
     },
     {
-      "char": "瞿",
-      "trad": "瞿",
-      "pinyin": "qú",
-      "english": "phonetic"
+      "char": "癸",
+      "trad": "癸",
+      "pinyin": "guǐ",
+      "english": "tenth heavenly stem"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个規指引着航海者找到方向(這個規指引著航海者找到方向)。",
-      "pinyin": "Zhège guī zhǐyǐn zhe hánghǎi zhě zhǎodào fāngxiàng.",
-      "english": "This compass guides the seafarers to find their direction."
+      "chinese": "老师教我们如何使用规(老師教我們如何使用規)。",
+      "pinyin": "Lǎoshī jiāo wǒmen rúhé shǐyòng guī.",
+      "english": "The teacher teaches us how to use a compass."
     },
     {
-      "chinese": "迷路的水手依靠規(迷路的水手依靠規)，穿越惊涛骇浪(穿越驚濤駭浪)。",
-      "pinyin": "Mílù de shuǐshǒu yīkào guī, chuānyuè jīngtāo hàilàng.",
-      "english": "The lost sailor relies on the compass, braving the tumultuous waves."
+      "chinese": "建筑师利用规和尺来绘制蓝图(建築師利用規和尺來繪製藍圖)。",
+      "pinyin": "Jiànzhùshī lìyòng guī hé chǐ lái huìzhì lántú.",
+      "english": "The architect uses a compass and ruler to draft blueprints."
+    },
+    {
+      "chinese": "古代的工匠依靠简单的规和工具制作精美的器物(古代的工匠依靠簡單的規和工具製作精美的器物)。",
+      "pinyin": "Gǔdài de gōngjiàng yīkào jiǎndān de guī hé gōngjù zhìzuò jīngměi de qìwù.",
+      "english": "Ancient artisans relied on simple compasses and tools to craft exquisite artifacts."
     }
   ]
 }

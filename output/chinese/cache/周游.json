@@ -5,8 +5,8 @@
   "english": "travel around",
   "etymology": {
     "type": "compound word",
-    "description": "周(周) (zhōu, \"circle; complete\") + 游(遊) (yóu, \"travel; wander\") = to travel around; to roam",
-    "interpretation": "The combination of 周(周) (zhōu, \"circle; complete\") and 游(遊) (yóu, \"travel; wander\") conveys the idea of traveling in a circular or comprehensive manner, suggesting extensive travel or wandering across different places.",
+    "description": "周(周) (zhōu, \"circle; around\") conveys the idea of encircling or encompassing an area, while 遊(遊) (yóu, \"to travel; to roam\") involves movement, often leisurely or exploratory.",
+    "interpretation": "The character 周(周) (zhōu, \"circle; around\") suggests the concept of moving in a circular or encompassing manner, like a journey that covers different places. This leads to the general idea of travelling widely or thoroughly. When paired with 遊(遊) (yóu, \"to travel; to roam\"), which embodies the act of movement without a fixed destination, it creates the composite sense of 'travel around,' capturing both the coverage aspect and the motion involved.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "周",
       "trad": "周",
       "pinyin": "zhōu",
-      "english": "circle; complete; cycle"
+      "english": "circle; around"
     },
     {
       "char": "游",
       "trad": "遊",
       "pinyin": "yóu",
-      "english": "travel; wander; roam"
+      "english": "to travel; to roam"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他周游世界(他周遊世界)。",
-      "pinyin": "Tā zhōuyóu shìjiè.",
-      "english": "He traveled around the world."
+      "chinese": "他喜欢周游世界(他喜歡周遊世界)。",
+      "pinyin": "Tā xǐhuān zhōuyóu shìjiè.",
+      "english": "He likes to travel around the world."
     },
     {
-      "chinese": "艺术家周游名城(藝術家周遊名城)，寻找灵感源泉(尋找靈感源泉)。",
-      "pinyin": "Yìshùjiā zhōuyóu míngchéng, xúnzhǎo línggǎn yuánquán.",
-      "english": "The artist traveled around famous cities, seeking sources of inspiration."
+      "chinese": "他们计划在退休后周游各国(他們計劃在退休後周遊各國)。",
+      "pinyin": "Tāmen jìhuà zài tuìxiū hòu zhōuyóu gèguó.",
+      "english": "They plan to travel around various countries after retirement."
     },
     {
-      "chinese": "学者周游古国(學者周遊古國)，采撷典故(採擷典故)。",
-      "pinyin": "Xuézhě zhōuyóu gǔguó, cǎixié diǎngù.",
-      "english": "The scholar traveled around ancient kingdoms, collecting classic allusions."
+      "chinese": "我们用了一整年时间周游亚洲(我們用了一整年時間周遊亞洲)。",
+      "pinyin": "Wǒmen yòngle yī zhěng nián shíjiān zhōuyóu Yàzhōu.",
+      "english": "We spent a whole year traveling around Asia."
     }
   ]
 }

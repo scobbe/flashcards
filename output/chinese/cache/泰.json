@@ -5,8 +5,8 @@
   "english": "safe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 大(大) (dà, 'big') + Semantic: 廾(廾) (gǒng, 'two hands') + Semantic: 水(水) (shuǐ, 'water') -> seized or slipping something wet -> reinterpretation as Ideogrammic compound: large + two hands + water -> symbolizing greatness or abundance",
-    "interpretation": "The character derives from a combination of components suggesting the act of seizing something wet with bare hands. Over time, its meaning broadened and was later reinterpreted to represent the concept of abundance or greatness. The fusion of components reflects the evolution of its meaning from physical action to abstract notions of safety and prominence.",
+    "description": "phonetic 大 (dà, \"big\") + semantic 廾 (gǒng, \"two hands\") + semantic 水 (shuǐ, \"water\") -> originally 'to slip', imagery of seizing something wet; later reinterpreted as relating to 'great' and influenced by pronunciation -> 'too <much>' (大 + 廾 became 𡗗) -> 'safe'",
+    "interpretation": "Originally depicted the act of slipping, possibly seizing something slick like water, as suggested by the combination of two hands and water. This transitioned into meanings of excess, influenced by how the character evolved into associations with size and abundance (\"big\"). The sense of 'safe' is likely due to an association with abundance equating to stability and security.",
     "simplification": ""
   },
   "parts": [
@@ -32,14 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "国泰民安(國泰民安)。",
-      "pinyin": "Guó tài mín ān.",
-      "english": "The nation is safe and its people live in peace."
+      "chinese": "他的家非常安泰(他的家非常安泰)。",
+      "pinyin": "Tā de jiā fēicháng āntài.",
+      "english": "His home is very safe and peaceful."
     },
     {
-      "chinese": "面对挑战时(面對挑戰時)，他始终保持泰然(他始終保持泰然)。",
-      "pinyin": "Miànduì tiǎozhàn shí, tā shǐzhōng bǎochí tài rán.",
-      "english": "When facing challenges, he always remains calm and safe."
+      "chinese": "在泰山顶上(在泰山頂上)，可以看到壮丽的风景(可以看到壯麗的風景)。",
+      "pinyin": "Zài Tàishān dǐng shàng, kěyǐ kàndào zhuànglì de fēngjǐng.",
+      "english": "At the top of Mount Tai, you can see magnificent scenery."
+    },
+    {
+      "chinese": "她选择了一种泰然自若的生活方式(她選擇了一種泰然自若的生活方式)。",
+      "pinyin": "Tā xuǎnzéle yī zhǒng tàiránzìruò de shēnghuó fāngshì.",
+      "english": "She chose a calm and composed lifestyle."
     }
   ]
 }

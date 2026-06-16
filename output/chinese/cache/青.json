@@ -4,17 +4,17 @@
   "pinyin": "qīng",
   "english": "green",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Phonetic: 生(生) (shēng, \"growth\") + Phonetic: 井(井) (jǐng, \"well\") = combined phonetics -> original meaning of \"color of growing plants\" -> modern meaning \"green\"",
-    "interpretation": "The character 青(qīng) originally combined phonetic elements to convey the idea of 'the color of growing plants,' associating it with green due to its relation to plant life. Over time, this evolved into its current meaning of 'green.'",
-    "simplification": "The second-round simplified form retained the calligraphic appearance, refining the top component 龶 to modernize the character while preserving its semantic elements."
+    "type": "phono-semantic compound",
+    "description": "phonetic 生 (shēng, \"life\") + phonetic 井 (jǐng, \"well\") -> final form",
+    "interpretation": "The character 青(qīng, \"green\") originally combines the phonetic components 生(shēng, \"life\") and 井(jǐng, \"well\") for their sound values. The ancient interpretation associated 青(qīng) with the color of growing plants, possibly influenced by the idea of cinnabar for dyeing, reflecting a bluish-green shade common in nature. This phonetic pairing with 生 and 井 suggests a pronunciation that fits the word's meaning.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "growth"
+      "english": "life"
     },
     {
       "char": "井",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那件青衫展现出独特韵味(那件青衫展現出獨特韻味)。",
-      "pinyin": "nà jiàn qīng shān zhǎn xiàn chū dú tè yùn wèi。",
-      "english": "That green garment displays a unique charm."
+      "chinese": "树叶是青色的(樹葉是青色的)。",
+      "pinyin": "Shùyè shì qīngsè de.",
+      "english": "The leaves are green."
     },
     {
-      "chinese": "他骑着青马奔驰在草原上(他騎著青馬馳騁在草原上)。",
-      "pinyin": "tā qí zhe qīng mǎ chì chěng zài cǎo yuán shàng。",
-      "english": "He rides a green horse galloping on the grassland."
+      "chinese": "青山环绕着村庄(青山環繞著村莊)。",
+      "pinyin": "Qīngshān huánrào zhe cūnzhuāng.",
+      "english": "Green hills surround the village."
     },
     {
-      "chinese": "湖水映着青天(湖水映著青天)，江畔伫立青松(江畔佇立青松)。",
-      "pinyin": "hú shuǐ yìng zhe qīng tiān, jiāng pàn zhù lì qīng sōng。",
-      "english": "The lake reflects the blue sky, and by the river the green pines stand tall."
+      "chinese": "她有一双青色的眼睛(她有一雙青色的眼睛)。",
+      "pinyin": "Tā yǒu yī shuāng qīngsè de yǎnjīng.",
+      "english": "She has a pair of green eyes."
     }
   ]
 }

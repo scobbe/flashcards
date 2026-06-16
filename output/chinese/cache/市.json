@@ -5,35 +5,40 @@
   "english": "city; market; town",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 巾(巾) (jīn, \"cloth\") + phonetic: 巴(巴) (bā) = place where goods are wrapped in cloth for trade -> city, market, town",
-    "interpretation": "The character 市(市) (shì) combines 巾(巾) (jīn, \"cloth\") as the semantic element, indicating a place associated with goods and trade, with 巴(巴) (bā) as the phonetic component. This highlights its association with a marketplace or city where trading occurs.",
+    "description": "semantic 兮 (\"bustling\") + phonetic 之 -> 市",
+    "interpretation": "The character 市(shì, \"city; market; town\") combines 兮(xī, \"bustling\") as a semantic element, suggesting a lively place like a market, with 之(zhī), which provides the pronunciation. This combination conveys the concept of a bustling marketplace, which naturally extends to the meaning of a 'city' or 'town' as central places of commerce.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "巾",
-      "trad": "巾",
-      "pinyin": "jīn",
-      "english": "cloth"
+      "char": "兮",
+      "trad": "兮",
+      "pinyin": "xī",
+      "english": "bustling"
     },
     {
-      "char": "巴",
-      "trad": "巴",
-      "pinyin": "bā",
-      "english": "phonetic"
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "footprint"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个市很繁华(這個市很繁華)。",
-      "pinyin": "Zhège shì hěn fánhuá.",
-      "english": "This city is very prosperous."
+      "chinese": "这个城市很繁忙(這個城市很繁忙)。",
+      "pinyin": "Zhège chéngshì hěn fánmáng.",
+      "english": "This city is very busy."
     },
     {
-      "chinese": "市场喧闹(市場喧鬧)，人流如织(人流如織)。",
-      "pinyin": "Shìchǎng xuānnào, rénliú rúzhī.",
-      "english": "The market is bustling, and the crowds are like woven threads."
+      "chinese": "我喜欢去传统市场(我喜歡去傳統市場)。",
+      "pinyin": "Wǒ xǐhuān qù chuántǒng shìchǎng.",
+      "english": "I like to visit traditional markets."
+    },
+    {
+      "chinese": "他们在市中心开了一家新餐厅(他們在市中心開了一家新餐廳)。",
+      "pinyin": "Tāmen zài shìzhōngxīn kāile yījiā xīn cāntīng.",
+      "english": "They opened a new restaurant in the city center."
     }
   ]
 }

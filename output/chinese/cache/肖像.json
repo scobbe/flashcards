@@ -5,8 +5,8 @@
   "english": "portrait",
   "etymology": {
     "type": "compound word",
-    "description": "肖(肖) (xiào, \"resemble\") + 像(像) (xiàng, \"image\") = a resembling image -> portrait",
-    "interpretation": "A 肖像(肖像) (xiàoxiàng, \"portrait\") is an image that resembles the appearance of a person. The character 肖(肖) (xiào, \"resemble\") signifies likeness, while 像(像) (xiàng, \"image\") denotes a representation or picture, aptly capturing the essence of a portrait.",
+    "description": "肖(肖) (xiào, 'resemble') combines with 像(像) (xiàng, 'image') to form the word 肖像, which means 'portrait'.",
+    "interpretation": "肖(肖) (xiào, 'resemble') conveys likeness or similarity, which gives the idea of something being similar in appearance. 像(像) (xiàng, 'image') suggests a visual representation of an object or person. Thus, 肖像 involves creating a visual representation ('image') that captures the likeness ('resemblance') of a person, leading directly to the meaning of 'portrait'.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "肖",
       "trad": "肖",
       "pinyin": "xiào",
-      "english": "resemble; similar"
+      "english": "resemble"
     },
     {
       "char": "像",
       "trad": "像",
       "pinyin": "xiàng",
-      "english": "image; likeness; statue"
+      "english": "image; likeness; statue; resemble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他画了一幅精致的肖像(他畫了一幅精緻的肖像)。",
-      "pinyin": "Tā huà le yī fú jīngzhì de xiàoxiàng.",
-      "english": "He painted a delicate portrait."
+      "chinese": "壁炉上挂着一幅精美的肖像(壁爐上掛著一幅精美的肖像)。",
+      "pinyin": "Bìlú shàng guàzhe yī fú jīngměi de xiàoxiàng.",
+      "english": "A beautiful portrait hangs above the fireplace."
     },
     {
-      "chinese": "宫廷里悬挂着国王的肖像(宮廷裡懸掛著國王的肖像)，彰显王朝的荣耀(彰顯王朝的榮耀)。",
-      "pinyin": "Gōngtíng lǐ xuánguàzhe guówáng de xiàoxiàng, zhāngxiǎn wángcháo de róngyào.",
-      "english": "In the palace, the king's portrait hangs, showcasing the dynasty's glory."
+      "chinese": "他为艺术展准备了几幅肖像(他為藝術展準備了幾幅肖像)。",
+      "pinyin": "Tā wèi yìshù zhǎn zhǔnbèile jǐ fú xiàoxiàng.",
+      "english": "He prepared several portraits for the art exhibition."
+    },
+    {
+      "chinese": "这幅肖像生动地展现了她的个性(這幅肖像生動地展現了她的個性)。",
+      "pinyin": "Zhè fú xiàoxiàng shēngdòng de zhǎnxiànle tā de gèxìng.",
+      "english": "This portrait vividly showcases her personality."
     }
   ]
 }

@@ -5,14 +5,14 @@
   "english": "initial; beginning",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "衤(衣) ('clothes') + 刀(刀) ('knife; to cut') = starting to make clothes by cutting the cloth",
-    "interpretation": "This character combines elements representing 'clothes' and 'knife' to convey the concept of beginning the process of making clothes by cutting the cloth, symbolizing the start or initial phase.",
+    "description": "衤 ('clothes') + 刀 ('knife') = starting by cutting fabric -> initial, beginning",
+    "interpretation": "When beginning to make clothing, one starts by cutting the cloth. This initial action represents the concept of 'beginning' or 'initial'. The character visually conveys the combination of these two elements: a piece of fabric and the act of cutting, which together symbolize the starting point of creating clothing.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "衤",
-      "trad": "衣",
+      "trad": "衤",
       "pinyin": "yī",
       "english": "clothes"
     },
@@ -20,25 +20,25 @@
       "char": "刀",
       "trad": "刀",
       "pinyin": "dāo",
-      "english": "knife; to cut"
+      "english": "knife"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们在新年的开始(我們在新年的開始)，总是感到充满希望(總是感到充滿希望)。",
-      "pinyin": "Wǒmen zài xīnnián de kāishǐ, zǒng shì gǎndào chōngmǎn xīwàng.",
-      "english": "At the beginning of the new year, we always feel full of hope."
+      "chinese": "在学习的初期(在學習的初期)，我花了很多时间(我花了很多時間)阅读课本(閱讀課本)。",
+      "pinyin": "Zài xuéxí de chūqī, wǒ huā le hěn duō shíjiān yuèdú kèběn.",
+      "english": "In the initial stages of studying, I spent a lot of time reading textbooks."
     },
     {
-      "chinese": "春天初到时(春天初到時)，天气总是很宜人(天氣總是很宜人)。",
-      "pinyin": "Chūntiān chū dào shí, tiānqì zǒng shì hěn yírén.",
-      "english": "When spring initially arrives, the weather is always pleasant."
+      "chinese": "初夏时节(初夏時節)，花儿们纷纷绽放(花兒們紛紛綻放)。",
+      "pinyin": "Chūxià shíjié, huā'érmen fēnfēn zhànfàng.",
+      "english": "In early summer, the flowers bloom abundantly."
     },
     {
-      "chinese": "在学习初期(在學習初期)，很多人会感到有点困难(很多人會感到有點困難)。",
-      "pinyin": "Zài xuéxí chūqī, hěn duō rén huì gǎndào yǒudiǎn kùnnán.",
-      "english": "In the initial stages of learning, many people feel a bit challenged."
+      "chinese": "我们在旅程的开端(我們在旅程的開端)充满期待(充滿期待)。",
+      "pinyin": "Wǒmen zài lǚchéng de kāiduān chōngmǎn qídài.",
+      "english": "At the beginning of the journey, we are filled with anticipation."
     }
   ]
 }

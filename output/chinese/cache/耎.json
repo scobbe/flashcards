@@ -5,8 +5,8 @@
   "english": "soft; weak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Originally the same character as 需(需) (xū, \"to need\") -> characters diverged during Han dynasty",
-    "interpretation": "耎(耎) (ruǎn, \"soft; weak\") shares origins with 需(需) (xū, \"to need\") where the divergence led to its distinct meaning of softness or weakness, emphasizing a more flexible or yielding nature, compared to 需(需) which focuses on requisites or needs.",
+    "description": "Originally the same character as 需 (xū, 'need') during the Han dynasty; diverged into a distinct form for 'soft; weak' -> phono-semantic development",
+    "interpretation": "耎 (ruǎn, 'soft; weak') is a phono-semantic compound that diverged from 需 (xū, 'need') during the Han dynasty, differentiating to express the notion of 'softness' or 'weakness'. It was specifically modified to convey a different meaning while retaining phonetic similarity.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "需",
       "trad": "需",
       "pinyin": "xū",
-      "english": "to need"
+      "english": "need"
     }
   ],
   "in_contemporary_usage": false,

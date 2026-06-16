@@ -5,8 +5,8 @@
   "english": "not; isn't",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 是(是) (shì, \"is\") = \"not is\" -> a negation meaning \"is not\"",
-    "interpretation": "The combination of 不(不) (bù, \"not\") and 是(是) (shì, \"is\") forms a basic negation in Chinese, used to indicate that something does not equate to or is not characterized by another. It reflects a direct and straightforward way to say that something is not the case.",
+    "description": "不(不) (bù, \"not\") indicates negation or denial, while 是(是) (shì, \"to be; yes; correct\") represents affirmation or existence.",
+    "interpretation": "不(不) (bù, \"not\") reverses the affirmation or assertion of 是(是) (shì, \"to be; yes; correct\") to form negation. When combined, the fundamental contradiction between 'not' and 'is' naturally establishes the meaning of 'not is' -> 'isn't', denying the state or assertion.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; non-; un-; to negate"
+      "english": "not"
     },
     {
       "char": "是",
       "trad": "是",
       "pinyin": "shì",
-      "english": "is; are; am; yes"
+      "english": "to be; yes; correct"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
+    {
+      "chinese": "他不是老师(他不是老師)。",
+      "pinyin": "Tā bú shì lǎoshī.",
+      "english": "He isn't a teacher."
+    },
     {
       "chinese": "这不是我的书(這不是我的書)。",
       "pinyin": "Zhè bú shì wǒ de shū.",
       "english": "This is not my book."
     },
     {
-      "chinese": "这个问题不是简单(這個問題不是簡單)，而是需要深入思考(而是需要深入思考)。",
-      "pinyin": "Zhège wèntí bú shì jiǎndān, ér shì xūyào shēnrù sīkǎo.",
-      "english": "This problem is not simple, but it requires deep thought."
+      "chinese": "你说的不是事实(你說的不是事實)，只是你的猜测(只是你的猜測)。",
+      "pinyin": "Nǐ shuō de bú shì shìshí, zhǐ shì nǐ de cāicè.",
+      "english": "What you said is not the truth, it's just your guess."
     }
   ]
 }

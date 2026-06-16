@@ -5,8 +5,8 @@
   "english": "to laugh; to smile",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Originally 艸(艸) (cǎo, \"grass\") + 犬(犬) (quǎn, \"dog\") = dog in grass barking playfully -> Later 竹(竹) (zhú, \"bamboo\") + phonetic 夭(夭) (yāo) = sound of laughing or smiling",
-    "interpretation": "The character originally combined elements of a dog interacting with grass, perhaps evoking playful barking, which was phonetically associated with laughter. The later addition of 竹 emphasized the written form, while 夭 served as the phonetic component.",
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 夭(夭) (yāo, \"young\") -> laugh",
+    "interpretation": "The character 笑(xiào, \"to laugh; to smile\") combines 竹(竹) (zhú, \"bamboo\") as the semantic component, suggesting thinness or stalk-like shapes associated with laughter lines on a face, with 夭(夭) (yāo, \"young\") as the phonetic component, conveying the sound. The combination captures the light and joyous action of laughing or smiling, akin to the lively and spirited traits associated with youth.",
     "simplification": ""
   },
   "parts": [
@@ -20,37 +20,25 @@
       "char": "夭",
       "trad": "夭",
       "pinyin": "yāo",
-      "english": "sound of laughing or smiling"
-    },
-    {
-      "char": "犬",
-      "trad": "犬",
-      "pinyin": "quǎn",
-      "english": "dog"
-    },
-    {
-      "char": "艸",
-      "trad": "艸",
-      "pinyin": "cǎo",
-      "english": "grass"
+      "english": "young"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他笑着(他笑著)，走上舞台(走上舞臺)。",
-      "pinyin": "Tā xiào zhe, zǒu shàng wǔtái.",
-      "english": "He walked onto the stage while laughing."
+      "chinese": "看到他的好消息(看到他的好消息)，我忍不住笑了(我忍不住笑了)。",
+      "pinyin": "Kàndào tā de hǎo xiāoxī，wǒ rěnbùzhù xiào le.",
+      "english": "Seeing his good news, I couldn't help but laugh."
     },
     {
-      "chinese": "她笑着说(她笑著說)，‘别笑了’(‘別笑了’)。",
-      "pinyin": "Tā xiào zhe shuō, 'bié xiào le'.",
-      "english": "She laughed as she said, 'Stop laughing.'"
+      "chinese": "孩子们在操场上玩耍(孩子們在操場上玩耍)，快乐地笑着(快樂地笑著)。",
+      "pinyin": "Háizimen zài cāochǎng shàng wánshuǎ，kuàilè de xiào zhe.",
+      "english": "The children are playing on the playground, smiling happily."
     },
     {
-      "chinese": "我喜欢笑(我喜歡笑)，大笑能缓解压力(大笑能緩解壓力)。",
-      "pinyin": "Wǒ xǐhuan xiào, dà xiào néng huǎnjiě yālì.",
-      "english": "I love to smile, and laughing heartily can relieve stress."
+      "chinese": "她的笑容(她的笑容)总是让人感到温暖(總是讓人感到溫暖)。",
+      "pinyin": "Tā de xiàoróng zǒng shì ràng rén gǎndào wēnnuǎn.",
+      "english": "Her smile always makes people feel warm."
     }
   ]
 }

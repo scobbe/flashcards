@@ -1,0 +1,44 @@
+{
+  "simplified": "孫",
+  "traditional": "孫",
+  "pinyin": "sūn",
+  "english": "grandson",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "子(子) (zǐ, \"son\") + 系(系) (xì, \"continue\") = offspring that continues the family line -> grandson",
+    "interpretation": "The character combines 子(子) (zǐ, \"son\") and 系(系) (xì, \"continue\") to represent the idea of a descendant who continues the family line, specifically a grandson.",
+    "simplification": "Simplified to 孙(孙) by changing 系(系) to 小(小) to reduce complexity."
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "son"
+    },
+    {
+      "char": "系",
+      "trad": "系",
+      "pinyin": "xì",
+      "english": "continue"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的孙子(他的孫子)每天放学后都会来找他(每天放學後都會來找他)。",
+      "pinyin": "Tā de sūnzi měitiān fàngxué hòu dōu huì lái zhǎo tā.",
+      "english": "His grandson comes to find him every day after school."
+    },
+    {
+      "chinese": "孙悟空(孫悟空)是《西游记》中的一个角色(是《西游記》中的一個角色)。",
+      "pinyin": "Sūn Wùkōng shì 《Xīyóujì》 zhōng de yī gè juésè.",
+      "english": "Sun Wukong is a character in 'Journey to the West'."
+    },
+    {
+      "chinese": "他已经有三个孙子了(他已經有三個孫子了)。",
+      "pinyin": "Tā yǐjīng yǒu sān gè sūnzi le.",
+      "english": "He already has three grandsons."
+    }
+  ]
+}

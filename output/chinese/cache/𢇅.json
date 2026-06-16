@@ -1,0 +1,28 @@
+{
+  "simplified": "𢇅",
+  "traditional": "𢇅",
+  "pinyin": "unknown",
+  "english": "unknown",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "simplified form of 𢇇; semantic 絲(絲) (sī, \"silk\") + phonetic 卝(卝) (kuàng)",
+    "interpretation": "This character is a simplified/variant form of 𢇇, which originally combines 絲(絲) (sī, \"silk\") for its semantic component with 卝(卝) (kuàng) as the phonetic element. The semantic component suggests it is related to silk or something involving thread, while the phonetic element indicates the sound.",
+    "simplification": "As a variant or simplified form of 𢇇, the character 𢇅 traditionally compacts its original elements to create a form that may have been simpler to write or recognize."
+  },
+  "parts": [
+    {
+      "char": "絲",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "卝",
+      "trad": "卝",
+      "pinyin": "kuàng",
+      "english": "phonetic element"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

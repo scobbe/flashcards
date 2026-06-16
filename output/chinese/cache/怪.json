@@ -5,8 +5,8 @@
   "english": "weird; strange; blame; monster",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 心(心) (xīn, \"heart\") + phonetic: 圣(聖) (shèng, \"sacred\") = heart associated with sacred or unusual -> weird, strange",
-    "interpretation": "The character 怪(怪) (guài, \"weird\") combines 心(心) (xīn, \"heart\") to represent emotions or feelings and 圣(聖) (shèng, \"sacred\") to convey a sense of the extraordinary or unusual. Together, they emphasize a feeling connected with strange or unusual occurrences.",
+    "description": "semantic 忄(心) (xīn, \"heart\") + phonetic 圣(聖) (shèng, \"saint\") -> weird; strange",
+    "interpretation": "The character combines 忄(心) (xīn, \"heart\"), suggesting a feeling or emotion, with 圣(聖) (shèng, \"saint\"), which phonetically suggests the sound of the word. The combination implies a sense of an emotional response to something unusual or unexpected, leading to meanings like \"weird\" or \"strange.\" The extension to \"blame\" and \"monster\" comes from attributing strangeness or malice when things are off or different.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,28 @@
       "english": "heart"
     },
     {
-      "char": "圣",
+      "char": "聖",
       "trad": "聖",
       "pinyin": "shèng",
-      "english": "sacred"
+      "english": "saint"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的笑容看起来很怪(他的笑容看起來很怪)。",
-      "pinyin": "Tā de xiàoróng kàn qǐlái hěn guài.",
-      "english": "His smile looks very strange."
+      "chinese": "这个故事真是太怪了(這個故事真是太怪了)！",
+      "pinyin": "Zhège gùshi zhēnshi tài guài le!",
+      "english": "This story is really too weird!"
     },
     {
-      "chinese": "妈妈不怪我(媽媽不怪我)，因为我已经尽力了(因為我已經盡力了)。",
-      "pinyin": "Māmā bù guài wǒ, yīnwèi wǒ yǐjīng jìnlì le.",
-      "english": "Mom doesn't blame me because I have done my best."
+      "chinese": "他总是怪天气不好(他總是怪天氣不好)。",
+      "pinyin": "Tā zǒng shì guài tiānqì bù hǎo.",
+      "english": "He always blames the weather for being bad."
     },
     {
-      "chinese": "傍晚时分(傍晚時分)，远处传来怪响(遠處傳來怪響)。",
-      "pinyin": "Bàngwǎn shífēn, yuǎnchù chuán lái guài xiǎng.",
-      "english": "At dusk, strange sounds came from afar."
+      "chinese": "在森林里遇到怪兽(在森林里遇到怪獸)，真是令人毛骨悚然(真是令人毛骨悚然)。",
+      "pinyin": "Zài sēnlín lǐ yùdào guàishòu, zhēnshi lìngrén máogǔsǒngrán.",
+      "english": "Encountering a monster in the forest is truly spine-chilling."
     }
   ]
 }

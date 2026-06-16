@@ -5,9 +5,9 @@
   "english": "to pick",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "手(手) (shǒu, \"hand\") + 睪(睪) (yì, \"testes\") as phonetic component -> indicates action related to sorting or selecting with the hand -> 擇(擇) (zé, \"to pick\")",
-    "interpretation": "The character 擇(擇) (zé, \"to pick\") combines the semantic element 手(手) (shǒu, \"hand\"), symbolizing manual action, with a phonetic element 睪(睪) (yì), which provides a sound clue. This fusion suggests the act of picking or selecting, performed manually.",
-    "simplification": "择(擇): 手(手) (shǒu, \"hand\") and 睪(睪) (yì, \"testes\") were simplified to retain the phonetic and semantic hint while reducing the strokes."
+    "description": "semantic 手(手) (shǒu, \"hand\") + phonetic 睪(睪) (yì)",
+    "interpretation": "In 擇(擇) (zé, \"to pick\"), the semantic component 手(手) (shǒu, \"hand\") conveys the action performed with a hand, which aligns with the meaning of choosing or picking. The phonetic component 睪(睪) (yì) contributes the sound aspect without adding to the meaning.",
+    "simplification": "择(擇) replaces 睪(睪) with a simplified form to reduce stroke count while keeping 手(手) for its semantic role."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "睪",
       "trad": "睪",
       "pinyin": "yì",
-      "english": "testes"
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在众多方案中擇了一個最佳方案(他在眾多方案中擇了一個最佳方案)。",
-      "pinyin": "Tā zài zhòngduō fāng'àn zhōng zé le yī gè zuìjiā fāng'àn.",
-      "english": "He picked the best plan among many options."
+      "chinese": "我在市场上精心挑选水果(我在市場上精心挑選水果)。",
+      "pinyin": "Wǒ zài shìchǎng shàng jīngxīn tiāoxuǎn shuǐguǒ.",
+      "english": "I carefully pick fruits at the market."
     },
     {
-      "chinese": "我们應該擇明智的老師(我们應該擇明智的老師)，因為知識可以改變命運(因為知識可以改變命運)。",
-      "pinyin": "Wǒmen yīnggāi zé míngzhì de lǎoshī, yīnwèi zhīshi kěyǐ gǎibiàn mìngyùn.",
-      "english": "We should choose a wise teacher because knowledge can change destiny."
+      "chinese": "她会择一天去拜访老朋友(她會擇一天去拜訪老朋友)。",
+      "pinyin": "Tā huì zé yī tiān qù bàifǎng lǎo péngyǒu.",
+      "english": "She will choose a day to visit an old friend."
     },
     {
-      "chinese": "你應該擇合適的時機(你應該擇合適的時機)，去追求夢想(去追求夢想)。",
-      "pinyin": "Nǐ yīnggāi zé héshì de shíjī, qù zhuīqiú mèngxiǎng.",
-      "english": "You should pick the right moment to pursue your dreams."
+      "chinese": "择善固执是他的人生信条(擇善固執是他的人生信條)。",
+      "pinyin": "Zé shàn gù zhí shì tā de rénshēng xìntiáo.",
+      "english": "To persist in choosing good is his life motto."
     }
   ]
 }

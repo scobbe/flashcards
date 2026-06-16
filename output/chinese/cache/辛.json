@@ -5,22 +5,27 @@
   "english": "spice",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tool—chisel, awl, spike—used to mark slaves and criminals -> 辛",
-    "interpretation": "The character 辛(xīn, 'spice'), while meaning 'spice' in contemporary usage, originally depicted a tool used for branding slaves and criminals, indicating its historical connection to marking and intensity.",
+    "description": "Depicts a tool—chisel or awl—used to mark slaves and criminals -> 辛",
+    "interpretation": "The character 辛 (xīn) originally depicted a tool such as a chisel, used for marking or branding. The association with a sharp tool helps explain its extended meaning of 'spice,' as spices can have a pungent, sharp quality reminiscent of a tool's point or effect.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在厨房里加了些辛(我在廚房裡加了些辛)，使得菜的味道更加丰富(使得菜的味道更加豐富)。",
-      "pinyin": "Wǒ zài chúfáng lǐ jiā le xiē xīn, shǐdé cài de wèidào gèngjiā fēngfù.",
-      "english": "I added some spice in the kitchen, making the dish more flavorful."
+      "chinese": "这个菜有一种辛辣的味道(這個菜有一種辛辣的味道)。",
+      "pinyin": "Zhège cài yǒu yī zhǒng xīnlà de wèidào.",
+      "english": "This dish has a spicy taste."
     },
     {
-      "chinese": "这家餐馆以独特的辛著称(這家餐館以獨特的辛著稱)，吸引了很多食客(吸引了很多食客)。",
-      "pinyin": "Zhè jiā cānguǎn yǐ dútè de xīn zhùchēng, xīyǐn le hěn duō shíkè.",
-      "english": "This restaurant is renowned for its unique spice, attracting many diners."
+      "chinese": "他喜欢在食物里添加辛香料(他喜歡在食物裡添加辛香料)。",
+      "pinyin": "Tā xǐhuān zài shíwù lǐ tiānjiā xīn xiāngliào.",
+      "english": "He likes to add spices to the food."
+    },
+    {
+      "chinese": "这种辛口的调料非常受欢迎(這種辛口的調料非常受歡迎)。",
+      "pinyin": "Zhè zhǒng xīnkǒu de tiáoliào fēicháng shòu huānyíng.",
+      "english": "This type of spicy seasoning is very popular."
     }
   ]
 }

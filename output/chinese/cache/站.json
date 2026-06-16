@@ -5,8 +5,8 @@
   "english": "to stand",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "立(立) (lì, \"stand\") + 占(占) (zhān, \"divine\") = semantic 'stand' + phonetic 'divine' -> to stand",
-    "interpretation": "The character 站(站) (zhàn, \"to stand\") is a phono-semantic compound where 立(立) (lì, \"stand\") provides the semantic element, indicating the meaning related to standing, and 占(占) (zhān, \"divine\") supplies the phonetic component. This character is relatively recent and not found in early references like the Shuowen Jiezi but appears later, such as in the Guangyun.",
+    "description": "semantic 立(立) (lì, \"stand\") + phonetic 占(占) (zhān) -> to stand",
+    "interpretation": "The character 站 represents the action of standing through the combination of 立(立) (lì, \"stand\"), which provides the semantic element of standing, and the phonetic 占(占) (zhān), which contributes the pronunciation. The semantic element 立(立) directly conveys the meaning of 'standing,' thus underscoring the character's overall meaning.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "占",
       "trad": "占",
       "pinyin": "zhān",
-      "english": "divine"
+      "english": "divine; take possession of"
     }
   ],
   "in_contemporary_usage": true,
@@ -28,12 +28,17 @@
     {
       "chinese": "他站在门口(他站在門口)。",
       "pinyin": "Tā zhàn zài ménkǒu.",
-      "english": "He stands at the door."
+      "english": "He is standing at the doorway."
     },
     {
-      "chinese": "他站得非常稳(他站得非常穩)，不受风的影响(不受風的影響)。",
-      "pinyin": "Tā zhàn de fēicháng wěn, bù shòu fēng de yǐngxiǎng.",
-      "english": "He stands very steadily, unaffected by the wind."
+      "chinese": "请你站过来(請你站過來)，我要给你拍照(我要給你拍照)。",
+      "pinyin": "Qǐng nǐ zhàn guòlái, wǒ yào gěi nǐ pāizhào.",
+      "english": "Please stand over here, I want to take a photo of you."
+    },
+    {
+      "chinese": "站久了(站久了)，我就累了(我就累了)。",
+      "pinyin": "Zhàn jiǔle, wǒ jiù lèile.",
+      "english": "After standing for a long time, I became tired."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "empty",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 穴(穴) (xué, \"cave, hole\") + Phonetic: 工(工) (gōng) = cave-like space with 工 phonetically suggesting 'kōng' -> empty",
-    "interpretation": "The character 空(kōng) combines 穴(穴) (xué, \"cave, hole\") to represent an empty or hollow space, alongside 工(工) (gōng) to provide the pronunciation, resulting in the meaning of \"empty.\" It intuitively depicts a space with nothing inside.",
+    "description": "semantic 穴 (穴) (xué, \"cave, hole\") + phonetic 工 (工) (gōng) = hollow space -> empty",
+    "interpretation": "The character 空(kōng, \"empty\") combines 穴 (穴) (xué, \"cave, hole\") as the semantic component, indicating a hollow or vacant area, with 工 (工) (gōng) serving as the phonetic component. This phono-semantic compound suggests the concept of a space that is hollow and without content, hence \"empty.\" The abstract idea of vacancy is derived from the literal representation of a void or cavity.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "穴",
       "trad": "穴",
       "pinyin": "xué",
-      "english": "cave, hole"
+      "english": "cave; hole"
     },
     {
       "char": "工",
       "trad": "工",
       "pinyin": "gōng",
-      "english": "work"
+      "english": "work; craft"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "杯子是空的(杯子是空的)。",
-      "pinyin": "Bēizi shì kōng de.",
-      "english": "The cup is empty."
+      "chinese": "这个房间是空的(這個房間是空的)。",
+      "pinyin": "Zhè gè fángjiān shì kōng de.",
+      "english": "This room is empty."
     },
     {
-      "chinese": "他的心空空如也(他的心空空如也)，没有一丝温暖(沒有一絲溫暖)。",
-      "pinyin": "Tā de xīn kōng kōng rú yě, méiyǒu yī sī wēnnuǎn.",
-      "english": "His heart is utterly empty, with not a trace of warmth."
+      "chinese": "他感到内心空虚(他感到內心空虛)。",
+      "pinyin": "Tā gǎndào nèixīn kōngxū.",
+      "english": "He feels empty inside."
+    },
+    {
+      "chinese": "早晨的街道很空(早晨的街道很空)，没有人(沒有人)。",
+      "pinyin": "Zǎochén de jiēdào hěn kōng, méiyǒu rén.",
+      "english": "The streets are empty in the morning, with nobody around."
     }
   ]
 }

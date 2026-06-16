@@ -4,36 +4,41 @@
   "pinyin": "jù",
   "english": "tool; implement",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 目(目) (mù, \"eye\") provides idea of observing or inspecting + phonetic: 禹(禹) (yǔ) suggests pronunciation = tool or implement -> something for inspection or use",
-    "interpretation": "The character 常(常) (cháng, \"often\") conveys the sense of being equipped or complete, integrating both observation (目) and utility (from 万). This association makes intuitive sense for a character that means 'tool' or 'implement' as it suggests both functionality and the ability to execute tasks.",
+    "type": "ideogrammic compound",
+    "description": "鼎(鼎) (dǐng, \"cauldron\") + 廾(廾) (gǒng, \"two hands\") = preparing food",
+    "interpretation": "The character 具(jù, \"tool; implement\") combines 鼎(鼎) (dǐng, \"cauldron\") and 廾(廾) (gǒng, \"two hands\") to depict the preparation of food, providing the intuitive connection to implements or tools used for preparation.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "目",
-      "trad": "目",
-      "pinyin": "mù",
-      "english": "eye"
+      "char": "鼎",
+      "trad": "鼎",
+      "pinyin": "dǐng",
+      "english": "cauldron"
     },
     {
-      "char": "禹",
-      "trad": "禹",
-      "pinyin": "yǔ",
-      "english": "name of an ancient Chinese ruler"
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "two hands"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "工匠使用精致的具打造艺术品(工匠使用精緻的具打造藝術品)。",
-      "pinyin": "Gōngjiàng shǐyòng jīngzhì de jù dǎzào yìshùpǐn.",
-      "english": "The craftsman uses exquisite implements to create art pieces."
+      "chinese": "这个工具对修理很有帮助(這個工具對修理很有幫助)。",
+      "pinyin": "Zhège gōngjù duì xiūlǐ hěn yǒu bāngzhù.",
+      "english": "This tool is very helpful for repairs."
     },
     {
-      "chinese": "他把新具收纳在工具箱里(他把新具收納在工具箱裏)，以便随时使用(以便隨時使用)。",
-      "pinyin": "Tā bǎ xīn jù shōunà zài gōngjùxiāng lǐ, yǐbiàn suíshí shǐyòng.",
-      "english": "He stores the new tool in the toolbox, so that it is available for use at any time."
+      "chinese": "他们在做实验时需要很多设备和工具(他們在做實驗時需要很多設備和工具)。",
+      "pinyin": "Tāmen zài zuò shíyàn shí xūyào hěn duō shèbèi hé gōngjù.",
+      "english": "They need a lot of equipment and tools for conducting experiments."
+    },
+    {
+      "chinese": "我们需要一些特殊的工具来完成这个项目(我們需要一些特殊的工具來完成這個項目)。",
+      "pinyin": "Wǒmen xūyào yīxiē tèshū de gōngjù lái wánchéng zhège xiàngmù.",
+      "english": "We need some special tools to complete this project."
     }
   ]
 }

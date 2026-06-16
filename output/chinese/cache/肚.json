@@ -5,16 +5,16 @@
   "english": "stomach; belly",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "月(月) (yuè, \"moon; month\") as semantic indicator related to the body + 土(土) (tǔ, \"earth\") as phonetic component = refers to the body's belly area",
-    "interpretation": "In 肚(肚) (dù, \"stomach; belly\"), 月(月) (yuè, \"moon; month\") acts as a semantic indicator, symbolizing a part of the body, while 土(土) (tǔ, \"earth\") provides the pronunciation. The combination suggests a bodily area similar in shape to the roundness of the earth.",
+    "description": "semantic ⺼(肉) (ròu, \"meat; flesh\") + phonetic 土(土) (tǔ, \"earth\") -> stomach; belly",
+    "interpretation": "The character 肚(dù, \"stomach; belly\") combines the semantic component ⺼(肉) (ròu, \"meat; flesh\") indicating the physical body or flesh, with the phonetic component 土(土) (tǔ, \"earth\") which provides the sound. This formation emphasizes the body part 'stomach' or 'belly', drawing on the notion of the fleshy part of the body.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "月",
-      "trad": "月",
-      "pinyin": "yuè",
-      "english": "moon; month"
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat; flesh"
     },
     {
       "char": "土",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "饭后他轻轻拍了拍肚(飯後他輕輕拍了拍肚)。",
-      "pinyin": "Fàn hòu tā qīngqīng pāi le pāi dù.",
-      "english": "After the meal, he lightly patted his stomach."
+      "chinese": "他的肚子(他的肚子)很饿(很餓)。",
+      "pinyin": "Tā de dùzi hěn è.",
+      "english": "His stomach is very hungry."
     },
     {
-      "chinese": "吃完饭(吃完飯)，他的肚开始咕咕叫(他的肚開始咕咕叫)。",
-      "pinyin": "Chī wán fàn, tā de dù kāishǐ gūgū jiào.",
-      "english": "After eating, his stomach started to rumble."
+      "chinese": "她感到肚子疼痛(她感到肚子疼痛)，于是去看医生(於是去看醫生)。",
+      "pinyin": "Tā gǎndào dùzi téngtòng, yúshì qù kàn yīshēng.",
+      "english": "She felt stomach pains, so she went to see the doctor."
+    },
+    {
+      "chinese": "小猫睡在我的肚子上(小貓睡在我的肚子上)很可爱(很可愛)。",
+      "pinyin": "Xiǎo māo shuì zài wǒ de dùzi shàng hěn kě'ài.",
+      "english": "The kitten sleeping on my belly is very cute."
     }
   ]
 }

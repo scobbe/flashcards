@@ -5,8 +5,8 @@
   "english": "to carry by hand",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "言 (\"words, to speak\") + 八 (\"breath coming from the mouth; divide\") + 厃 (\"danger\") = speak too much",
-    "interpretation": "The character combines 言(言) (yán, \"words, to speak\"), 八(八) (bā, \"breath coming from the mouth; divide\"), and 厃 to suggest speaking excessively, perhaps to the point of causing trouble or reaching a dangerous limit.",
+    "description": "言(言) (yán, \"words\") + 八(八) (bā, \"breath coming from the mouth\") + 厃(危) (wěi, \"danger\") -> speak too much",
+    "interpretation": "The character 詹(詹) (zhān) combines 言(言) (yán, \"words\") to indicate speech, 八(八) (bā, \"breath coming from the mouth\") to represent the act of speaking, and 厃(危) (wěi, \"danger\") to suggest excessiveness or danger when speaking too much, ultimately conveying the idea of excessive talk or speaking beyond what is proper.",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,21 @@
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "words, to speak"
+      "english": "words"
     },
     {
       "char": "八",
       "trad": "八",
       "pinyin": "bā",
-      "english": "breath coming from the mouth; divide"
+      "english": "breath coming from the mouth"
     },
     {
-      "char": "厃",
-      "trad": "厃",
-      "pinyin": "",
+      "char": "危",
+      "trad": "危",
+      "pinyin": "wěi",
       "english": "danger"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "她用围裙兜着水果(她用圍裙兜著水果)，詹着几个苹果(詹著幾個蘋果)。",
-      "pinyin": "Tā yòng wéiqún dōu zhe shuǐguǒ, zhān zhe jǐ gè píngguǒ.",
-      "english": "She used her apron to hold the fruits, carrying a few apples by hand."
-    },
-    {
-      "chinese": "他小心地詹着水壶(他小心地詹著水壺)，怕洒出来(怕灑出來)。",
-      "pinyin": "Tā xiǎoxīn de zhān zhe shuǐhú, pà sǎ chūlái.",
-      "english": "He carefully carried the kettle by hand, afraid it would spill."
-    },
-    {
-      "chinese": "老人用手帕詹着糖果(老人用手帕詹著糖果)，送给孩子们(送給孩子們)。",
-      "pinyin": "Lǎorén yòng shǒupà zhān zhe tángguǒ, sòng gěi háizimen.",
-      "english": "The old man carried the candies by hand using a handkerchief and gave them to the children."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

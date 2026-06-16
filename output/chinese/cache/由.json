@@ -5,8 +5,8 @@
   "english": "cause",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 十(十) (shí, 'ten') + Semantic: 口(口) (kǒu, 'mouth') -> container with a needle; oracle bones reflect original version of 怞(怞) (yóu, 'cause') -> final form 由(由)",
-    "interpretation": "The character 由(由) (yóu, 'cause') was originally a phono-semantic compound, combining 十(十) (shí, 'ten') as the phonetic component with 口(口) (kǒu, 'mouth') as the semantic component. This represents a container, indicating an ancient pronunciation. The character also has historical associations with oracle bone script and was an original form of 怞(怞) (yóu, 'cause'), indicating the character's evolution from a depiction of an item to its modern meaning.",
+    "description": "Phonetic 十 (needle) + semantic 口 (mouth) -> container with a needle symbolizing an ancient pronunciation",
+    "interpretation": "The character 由(yóu, 'cause') depicts a container with a top resembling a needle (十), phonetic for sound with 口 (mouth) for semantic influence, symbolizing something that originates from a cause, just as contents originate from a container.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这次事故由人为失误造成(這次事故由人為失誤造成)。",
-      "pinyin": "Zhè cì shìgù yóu rénwéi shīwù zàochéng.",
-      "english": "This accident was caused by human error."
+      "chinese": "这个问题由他负责(這個問題由他負責)。",
+      "pinyin": "Zhège wèntí yóu tā fùzé.",
+      "english": "This issue is caused by him to be responsible."
     },
     {
-      "chinese": "他的成功由坚持与努力铸就(他的成功由堅持與努力鑄就)。",
-      "pinyin": "Tā de chénggōng yóu jiānchí yǔ nǔlì zhùjiù.",
-      "english": "His success was built on perseverance and hard work."
+      "chinese": "一切的变化都是由时间引起的(一切的變化都是由時間引起的)。",
+      "pinyin": "Yīqiè de biànhuà dōu shì yóu shíjiān yǐnqǐ de.",
+      "english": "All changes are caused by the passage of time."
     },
     {
-      "chinese": "问题往往由细节引起(問題往往由細節引起)。",
-      "pinyin": "Wèntí wǎngwǎng yóu xìjié yǐnqǐ.",
-      "english": "Problems are often caused by details."
+      "chinese": "胜利由努力而来(勝利由努力而來)。",
+      "pinyin": "Shènglì yóu nǔlì ér lái.",
+      "english": "Victory is caused by effort."
     }
   ]
 }

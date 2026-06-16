@@ -5,22 +5,27 @@
   "english": "vertical line",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a vertical wooden stick",
-    "interpretation": "The character 丨(gǔn, \"vertical line\") is a simple pictogram representing a vertical line or stick. It is a basic stroke used frequently in Chinese characters and appears in other characters like 朕(朕) (zhèn, \"to mend a boat\") as a symbol of support or mending, and in 尹(尹) (yǐn, \"minister\") to symbolize authority.",
+    "description": "Vertical wooden stick -> symbol of vertical line",
+    "interpretation": "The character 丨 (gǔn, \"vertical line\") is a pictogram depicting a simple vertical wooden stick, which visually represents a straight, upright form. In historical usages like 朕, it symbolized a structural element for mending, while in 尹, it indicated authority, portraying the stick as a sign of rule or command.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这幅书法作品巧妙地运用了丨(丨)，表达了自然之韵(表達了自然之韻)。",
-      "pinyin": "Zhè fú shūfǎ zuòpǐn qiǎomiào de yùnyòng le gǔn, biǎodá le zìrán zhī yùn.",
-      "english": "This calligraphic work skillfully employs the vertical line to express the charm of nature."
+      "chinese": "孩子用笔画了一条直线(孩子用筆畫了一條直線)。",
+      "pinyin": "Háizi yòng bǐ huà le yī tiáo zhíxiàn.",
+      "english": "The child drew a straight line with a pen."
     },
     {
-      "chinese": "笔画中的丨(丨)象征着笔者心中的坚韧(象徵著筆者心中的堅韌)。",
-      "pinyin": "Bǐhuà zhōng de gǔn xiàngzhēng zhe bǐzhě xīnzhōng de jiānrèn.",
-      "english": "The vertical line in the strokes symbolizes the writer's inner resilience."
+      "chinese": "在纸上用尺子画一条垂直线(在紙上用尺子畫一條垂直線)。",
+      "pinyin": "Zài zhǐ shàng yòng chǐzi huà yī tiáo chuízhíxiàn.",
+      "english": "Draw a vertical line on the paper using a ruler."
+    },
+    {
+      "chinese": "书法中，笔画的垂直线要求非常精确(書法中，筆畫的垂直線要求非常精確)。",
+      "pinyin": "Shūfǎ zhōng, bǐhuà de chuízhíxiàn yāoqiú fēicháng jīngquè.",
+      "english": "In calligraphy, the vertical line of the strokes requires great precision."
     }
   ]
 }

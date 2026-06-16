@@ -5,27 +5,34 @@
   "english": "you",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts cloth on a loom -> phonetically borrowed for 爾(爾) (ěr, \"you\")",
-    "interpretation": "The character originally represented woven cloth due to its shape depicting a loom with threads. Over time, it was phonetically borrowed to represent the pronoun 'you'.",
-    "simplification": "尔(爾) is a variant of 尒(尒), an abridged form of 爾(爾) and officially adopted as its simplified version in 1956."
+    "description": "Depicts cloth on a loom, with threads crossing -> original form of 檷 -> borrowed for phonetic value to represent 'you'",
+    "interpretation": "The character originally depicted a piece of cloth on a loom, illustrating the weaving process with threads. This image represented the word 檷, meaning 'loom.' Later, it was borrowed phonetically in a process known as jiajie to represent the second person pronoun 'you' (爾).",
+    "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "檷",
+      "trad": "檷",
+      "pinyin": "nǐ",
+      "english": "loom"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "尔今日来访(尔今日來訪)，令我欣然(令我欣然)。",
-      "pinyin": "ěr jīntiān lái fǎng, lìng wǒ xīn rán.",
-      "english": "You visited today, which delighted me."
+      "chinese": "你听见了吗(你聽見了嗎)，這就是爾的責任(這就是爾的責任)？",
+      "pinyin": "Nǐ tīngjiànle ma，zhè jiùshì ěr de zérèn?",
+      "english": "Did you hear, this is your responsibility?"
     },
     {
-      "chinese": "我敬重尔(我敬重尔)。",
-      "pinyin": "wǒ jìngzhòng ěr.",
-      "english": "I respect you."
+      "chinese": "爾若願意(爾若願意)，我可與爾同往(我可與爾同往)。",
+      "pinyin": "Ěr ruò yuànyì，wǒ kě yǔ ěr tóng wǎng.",
+      "english": "If you are willing, I can go with you."
     },
     {
-      "chinese": "尔之所愿(尔之所願)，吾尽力为之(吾盡力為之)。",
-      "pinyin": "ěr zhī suǒ yuàn, wú jìn lì wéi zhī.",
-      "english": "I will do my best for what you wish."
+      "chinese": "願爾安好(願爾安好)，不受苦楚(不受苦楚)。",
+      "pinyin": "Yuàn ěr ān hǎo，bù shòu kǔ chǔ.",
+      "english": "May you be well and free from suffering."
     }
   ]
 }

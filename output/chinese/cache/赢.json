@@ -5,16 +5,16 @@
   "english": "to win",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𦝠 (luó, phonetic) + 貝(貝) (bèi, \"cowry; money\") = phonetic indication with a semantic element of wealth -> to win",
-    "interpretation": "The character combines the phonetic 𦝠 (luó) with the semantic 貝(貝) (bèi, \"cowry; money\"), symbolizing success or gaining wealth, which aligns with the meaning of 'to win'.",
-    "simplification": "The character 贏 was simplified to 赢 by removing complex elements and merging parts for ease of writing."
+    "description": "phonetic 𦝠 (luó) + semantic 貝(貝) (bèi, \"cowry; money\") -> to gain (as in winning) wealth or advantage",
+    "interpretation": "The character 贏 (yíng, \"to win\") combines the phonetic element 𦝠 (luó) with the semantic 貝(貝) (bèi, \"cowry; money\"), reflecting the concept of acquiring wealth or advantage through victory.",
+    "simplification": "赢 is the simplified form of 贏 and involves the simplification of 貝 to 贝(贝) (bèi, \"cowry\") and removing 𦝠 (luó)."
   },
   "parts": [
     {
       "char": "𦝠",
       "trad": "𦝠",
       "pinyin": "luó",
-      "english": ""
+      "english": "phonetic component"
     },
     {
       "char": "貝",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在比赛中赢得了冠军(他在比賽中贏得了冠軍)。",
-      "pinyin": "Tā zài bǐsài zhōng yíngdé le guànjūn.",
-      "english": "He won the championship in the competition."
+      "chinese": "他赢得了比赛(他贏得了比賽)。",
+      "pinyin": "Tā yíngdéle bǐsài.",
+      "english": "He won the competition."
     },
     {
-      "chinese": "无论如何，我们都要努力去赢(無論如何，我們都要努力去贏)。",
-      "pinyin": "Wúlùn rúhé, wǒmen dōu yào nǔlì qù yíng.",
-      "english": "No matter what, we must strive to win."
+      "chinese": "我们必须努力才能赢(我們必須努力才能贏)。",
+      "pinyin": "Wǒmen bìxū nǔlì cáinéng yíng.",
+      "english": "We must work hard to win."
     },
     {
-      "chinese": "我们的团队在最后一秒逆转赢得了比赛(我們的團隊在最後一秒逆轉贏得了比賽)。",
-      "pinyin": "Wǒmen de tuánduì zài zuìhòu yī miǎo nìzhuǎn yíngdé le bǐsài.",
-      "english": "Our team made a comeback and won the game in the last second."
+      "chinese": "她赢了一大笔奖金(她贏了一大筆獎金)。",
+      "pinyin": "Tā yíngle yī dà bǐ jiǎngjīn.",
+      "english": "She won a large prize."
     }
   ]
 }

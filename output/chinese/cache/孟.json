@@ -5,8 +5,8 @@
   "english": "surname Meng",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 子(子) (zǐ, \"child; son\") + phonetic 皿(皿) (mǐn, \"vessel\") = combines the concept of a child or son and the sound of 'mǐn' -> surname Meng",
-    "interpretation": "The character 孟(mèng) combines the semantic element 子(子) (zǐ, \"child; son\") with 皿(皿) (mǐn, \"vessel\") to suggest a concept related to lineage or ancestral identity, as it often refers to the eldest brother or firstborn in a family, aligning with its usage as a surname.",
+    "description": "semantic 子 (child; son) + phonetic 皿 (sound) -> surname Meng",
+    "interpretation": "The character 孟 (Mèng) combines 子 (zǐ, 'child; son') as the semantic component representing a generation or lineage, with 皿 (mǐn, as sound provider) as the phonetic element. It traditionally indicates the eldest in the family, such as 'firstborn' or 'eldest son', later used as a surname.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "皿",
       "trad": "皿",
       "pinyin": "mǐn",
-      "english": "vessel"
+      "english": "vessel; dish"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "孟老师很受学生欢迎(孟老師很受學生歡迎)。",
-      "pinyin": "Mèng lǎoshī hěn shòu xuéshēng huānyíng.",
-      "english": "Teacher Meng is well-liked by the students."
+      "chinese": "孟家在这个村子里非常有名(孟家在這個村子裏非常有名)。",
+      "pinyin": "Mèng jiā zài zhège cūnzi lǐ fēicháng yǒumíng.",
+      "english": "The Meng family is very famous in this village."
     },
     {
-      "chinese": "孟先生今天出席会议(孟先生今天出席會議)，分享了成功经验(分享了成功經驗)。",
-      "pinyin": "Mèng xiānshēng jīntiān chūxí huìyì, fēnxiǎngle chénggōng jīngyàn.",
-      "english": "Mr. Meng attended the meeting today and shared his successful experience."
+      "chinese": "孟先生是一位出色的作家(孟先生是一位出色的作家)。",
+      "pinyin": "Mèng xiānshēng shì yī wèi chūsè de zuòjiā.",
+      "english": "Mr. Meng is an outstanding writer."
     },
     {
-      "chinese": "《史记》记载有孟嘗君(《史記》記載有孟嘗君)，他心怀仁义(他心懷仁義)。",
-      "pinyin": "《Shǐjì》 jìzǎi yǒu Mèngchángjūn, tā xīn huái rényì.",
-      "english": "The Records of the Grand Historian mentions Lord Mengchang, who was known for his benevolence."
+      "chinese": "我们去拜访孟叔叔时(我們去拜訪孟叔叔時)，他正在读书(他正在讀書)。",
+      "pinyin": "Wǒmen qù bàifǎng Mèng shūshu shí, tā zhèngzài dúshū.",
+      "english": "When we visited Uncle Meng, he was reading a book."
     }
   ]
 }

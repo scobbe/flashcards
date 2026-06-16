@@ -5,8 +5,8 @@
   "english": "acupuncture",
   "etymology": {
     "type": "compound word",
-    "description": "针(針) (zhēn, \"needle\") and 灸(灸) (jiǔ, \"moxibustion\") combine to form the word 针灸(針灸) (zhēnjiǔ, \"acupuncture\"), which is a traditional Chinese medical practice that involves inserting needles into specific points on the body and sometimes applying heat using moxa (burning mugwort) to those points.",
-    "interpretation": "针灸(針灸) (zhēnjiǔ, \"acupuncture\") combines the concepts of using needles and heat therapy to promote healing, following principles from traditional Chinese medicine on body energy pathways (meridians).",
+    "description": "針(針) (zhēn, \"needle\") and 灸(灸) (jiǔ, \"moxibustion\") combine to describe the practice of acupuncture, which involves using needles and heat to stimulate specific points on the body for therapeutic purposes.",
+    "interpretation": "針(針) (zhēn, \"needle\") refers to the slender pointed tool used in acupuncture, while 灸(灸) (jiǔ, \"moxibustion\") involves the burning of moxa (a plant material) to create therapeutic heat. Together, 針灸(針灸) (zhēnjiǔ) denotes the combined use of both these methods to apply physical stimulation and heat to specific points on the body, based on traditional Chinese medicine principles to balance and regulate the flow of qi (vital energy).",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我学过针灸(我學過針灸)。",
-      "pinyin": "Wǒ xuéguò zhēnjiǔ.",
-      "english": "I have studied acupuncture."
+      "chinese": "他对针灸疗法(他對針灸療法)很感兴趣。",
+      "pinyin": "Tā duì zhēnjiǔ liáofǎ hěn gǎn xìngqù.",
+      "english": "He is very interested in acupuncture therapy."
     },
     {
-      "chinese": "她认为针灸有效(她認為針灸有效)，能缓解慢性疼痛(能緩解慢性疼痛)。",
-      "pinyin": "Tā rènwéi zhēnjiǔ yǒuxiào, néng huǎnjiě mànxìng téngtòng.",
-      "english": "She believes that acupuncture is effective and can alleviate chronic pain."
+      "chinese": "针灸可以缓解疼痛(針灸可以緩解疼痛)。",
+      "pinyin": "Zhēnjiǔ kěyǐ huǎnjiě téngtòng.",
+      "english": "Acupuncture can relieve pain."
     },
     {
-      "chinese": "古代医书中记载了针灸的疗效(古代醫書中記載了針灸的療效)。",
-      "pinyin": "Gǔdài yīshū zhōng jìzǎi le zhēnjiǔ de liáoxiào.",
-      "english": "Ancient medical texts recorded the efficacy of acupuncture."
+      "chinese": "医生建议我尝试针灸疗法(醫生建議我嘗試針灸療法)，因为效果显著(因為效果顯著)。",
+      "pinyin": "Yīshēng jiànyì wǒ chángshì zhēnjiǔ liáofǎ, yīnwèi xiàoguǒ xiǎnzhù.",
+      "english": "The doctor suggested I try acupuncture therapy because the effects are remarkable."
     }
   ]
 }

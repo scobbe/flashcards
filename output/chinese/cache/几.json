@@ -5,15 +5,15 @@
   "english": "small table",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "𢆶 (silk threads; little things) + 戍 (to guard against) = watching over the fine details -> meaning related to examination or cautious attention",
-    "interpretation": "The traditional character 幾 combines the ideas of fine, intricate details as represented by 𢆶 (silk threads) with the vigilance implied by 戍 (to guard against), emphasizing careful observation or examination. This reflects the care needed when dealing with small objects or tasks, originally extending to the notion of small tables or subtle quantities.",
-    "simplification": "As a standalone character, 几 simplified 幾 by omitting components, retaining the essence of smallness in its form."
+    "description": "𢆶 (silk threads; little things) + 戍 (to guard against) -> watching over the fine details -> represents precision and delicacy in tasks",
+    "interpretation": "The character 幾 (jī, 'small table') combines 𢆶, representing 'silk threads' or 'little things', indicating fine or small details that require precision, with 戍, which means 'to guard against', symbolizing the act of watching over or attending to these details. This combination suggests tasks or actions that need to be performed with care and diligence, paralleling the attention needed for activities performed on a small table.",
+    "simplification": "The simplified character 几 uses a cursive shorthand of the traditional elements, reducing complexity while maintaining the concept of attending to something small."
   },
   "parts": [
     {
       "char": "𢆶",
       "trad": "𢆶",
-      "pinyin": "n/a",
+      "pinyin": "jī",
       "english": "silk threads; little things"
     },
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个几很适合放在角落(這個几很適合放在角落)。",
-      "pinyin": "Zhège jī hěn shìhé fàng zài jiǎoluò.",
-      "english": "This small table is perfect for placing in the corner."
+      "chinese": "他在客厅里放了一个小几(他在客廳裡放了一個小几)。",
+      "pinyin": "Tā zài kètīng lǐ fàng le yí gè xiǎo jī.",
+      "english": "He placed a small table in the living room."
     },
     {
-      "chinese": "他用几来支撑他的书本(他用几來支撐他的書本)。",
-      "pinyin": "Tā yòng jī lái zhīchēng tā de shūběn.",
-      "english": "He uses the small table to support his books."
+      "chinese": "这个几可以放很多东西(這個几可以放很多東西)。",
+      "pinyin": "Zhège jī kěyǐ fàng hěn duō dōngxī.",
+      "english": "This small table can hold many things."
     },
     {
-      "chinese": "几上的花瓶非常精美(几上的花瓶非常精美)。",
-      "pinyin": "Jī shàng de huāpíng fēicháng jīngměi.",
-      "english": "The vase on the small table is very exquisite."
+      "chinese": "她用一个古董几来装饰房间(她用一個古董几來裝飾房間)。",
+      "pinyin": "Tā yòng yí gè gǔdǒng jī lái zhuāngshì fángjiān.",
+      "english": "She used an antique table to decorate the room."
     }
   ]
 }

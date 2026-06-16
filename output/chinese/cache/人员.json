@@ -5,8 +5,8 @@
   "english": "personnel; staff",
   "etymology": {
     "type": "compound word",
-    "description": "人(人) (rén, \"person\") + 员(員) (yuán, \"member\") = people who are members of a group -> personnel; staff",
-    "interpretation": "The word 人员(人員) (rényuán, \"personnel; staff\") signifies individuals who collectively form the members of an organization or team. This directly reflects its use to refer to staff or personnel in various contexts.",
+    "description": "人(人) (rén, \"person\") refers to individual people, while 員(員) (yuán, \"member\") denotes a member of a group or organization. Together, 人員(人员) (rényuán, \"personnel; staff\") refers to the people who are members of a workforce or staff.",
+    "interpretation": "人(人) (rén, \"person\") represents individuals, and 員(員) (yuán, \"member\") implies belonging to a group or organization. Thus, 人員(人员) (rényuán) signifies individuals collectively as members of an organization's staff. This combination highlights the idea of individuals functioning collectively within the framework of a workforce or team.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "公司需要人员(公司需要人員)，来帮助公司发展(來幫助公司發展)。",
-      "pinyin": "Gōngsī xūyào rényuán, lái bāngzhù gōngsī fāzhǎn.",
-      "english": "The company needs personnel to help develop the business."
+      "chinese": "公司人员正在开会(公司人員正在開會)。",
+      "pinyin": "Gōngsī rényuán zhèngzài kāihuì.",
+      "english": "The company personnel are having a meeting."
     },
     {
-      "chinese": "训练有素的人员(訓練有素的人員)，确保工程质量(確保工程質量)。",
-      "pinyin": "Xùnliàn yǒusù de rényuán, quèbǎo gōngchéng zhìliàng.",
-      "english": "Well-trained personnel ensure the quality of the project."
+      "chinese": "所有的医务人员都很专业(所有的醫務人員都很專業)。",
+      "pinyin": "Suǒyǒu de yīwù rényuán dōu hěn zhuānyè.",
+      "english": "All the medical staff are very professional."
     },
     {
-      "chinese": "在紧急情况下(在緊急情況下)，专业人员迅速到达现场(專業人員迅速到達現場)。",
-      "pinyin": "Zài jǐnjí qíngkuàng xià, zhuānyè rényuán xùnsù dàodá xiànchǎng.",
-      "english": "In emergency situations, professional personnel quickly arrive at the scene."
+      "chinese": "新员工在接受培训(新員工在接受培訓)，以便融入团队(以便融入團隊)。",
+      "pinyin": "Xīn yuángōng zài jiēshòu péixùn, yǐbiàn róngrù tuánduì.",
+      "english": "The new employees are undergoing training to integrate into the team."
     }
   ]
 }

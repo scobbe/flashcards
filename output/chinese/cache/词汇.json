@@ -5,35 +5,40 @@
   "english": "vocabulary",
   "etymology": {
     "type": "compound word",
-    "description": "词(詞) (cí, \"word; term\") + 汇(彙) (huì, \"collection; to collect\") = a collection of words -> vocabulary",
-    "interpretation": "词汇(詞彙) (cíhuì, \"vocabulary\") refers to a collection or list of words, particularly those known or used by a person or within a particular language. It implies an organized collection of terms, essential for communication and language learning.",
-    "simplification": "词汇(詞彙)"
+    "description": "詞(詞) (cí, \"word; term; expression\") and 彙(匯) (huì, \"to collect; collection\").",
+    "interpretation": "詞(詞) (cí, \"word; term; expression\") represents the basic linguistic unit, a word or a term. 彙(匯) (huì, \"to collect; collection\") denotes the gathering or grouping of items. Together, 詞彙 (cíhuì, \"vocabulary\") describes a collection or compilation of words and expressions, much like a word list or glossary that groups individual words into a comprehensive set.",
+    "simplification": "词汇"
   },
   "parts": [
     {
       "char": "词",
       "trad": "詞",
       "pinyin": "cí",
-      "english": "word; term"
+      "english": "word; term; expression"
     },
     {
       "char": "汇",
       "trad": "彙",
       "pinyin": "huì",
-      "english": "collection; to collect"
+      "english": "to collect; collection"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他每天学习词汇(他每天學習詞彙)，以扩充语言能力(以擴充語言能力)。",
-      "pinyin": "Tā měitiān xuéxí cíhuì, yǐ kuòchōng yǔyán nénglì.",
-      "english": "He studies vocabulary every day to expand his language ability."
+      "chinese": "这个学生的词汇量很大(這個學生的詞彙量很大)。",
+      "pinyin": "Zhège xuéshēng de cíhuì liàng hěn dà.",
+      "english": "This student has a large vocabulary."
     },
     {
-      "chinese": "词汇是语言的宝库(詞彙是語言的寶庫)。",
-      "pinyin": "Cíhuì shì yǔyán de bǎokù.",
-      "english": "Vocabulary is the treasure house of language."
+      "chinese": "老师要求我们每天学习新词汇(老師要求我們每天學習新詞彙)。",
+      "pinyin": "Lǎoshī yāoqiú wǒmen měitiān xuéxí xīn cíhuì.",
+      "english": "The teacher requires us to learn new vocabulary every day."
+    },
+    {
+      "chinese": "提高词汇量可以帮助你更好地表达自己(提高詞彙量可以幫助你更好地表達自己)。",
+      "pinyin": "Tígāo cíhuì liàng kěyǐ bāngzhù nǐ gèng hǎo de biǎodá zìjǐ.",
+      "english": "Improving your vocabulary can help you express yourself better."
     }
   ]
 }

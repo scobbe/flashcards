@@ -5,14 +5,14 @@
   "english": "pinch",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "扌(手) (shǒu, \"hand\") + 涅(涅) (niè, \"mud\") = hand action related to mud -> pinch",
-    "interpretation": "The character 捏(捏) (niē, \"pinch\") combines 扌(手) (shǒu, \"hand\") to suggest a manual action, with 涅(涅) (niè, \"mud\") to indicate the sound component. Together, they imply the action of using one's hand to pinch or mold something, similar to handling mud.",
+    "description": "semantic 扌 (hand) + phonetic 涅 (sound niē) -> pinch",
+    "interpretation": "The semantic component 扌(shǒu, 'hand') suggests the action related to the hand. The phonetic component 涅 (niè, 'blacken') provides the pronunciation. Together, they form the concept of using the hand to 'pinch', a small, squeezing action.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "扌",
-      "trad": "手",
+      "trad": "扌",
       "pinyin": "shǒu",
       "english": "hand"
     },
@@ -20,25 +20,25 @@
       "char": "涅",
       "trad": "涅",
       "pinyin": "niè",
-      "english": "mud"
+      "english": "blacken"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用手捏了一下火锅里的肉(他用手捏了一下火鍋裡的肉)。",
-      "pinyin": "Tā yòng shǒu niē le yīxià huǒguō lǐ de ròu.",
-      "english": "He pinched a piece of meat in the hot pot."
+      "chinese": "她喜欢捏孩子的脸(她喜歡捏孩子的臉)。",
+      "pinyin": "Tā xǐhuān niē háizi de liǎn.",
+      "english": "She likes to pinch the child's cheeks."
     },
     {
-      "chinese": "孩子用小手捏气球(孩子用小手捏氣球)，气球瞬间破裂(氣球瞬間破裂)。",
-      "pinyin": "Háizi yòng xiǎoshǒu niē qìqiú, qìqiú shùnjiān pòliè.",
-      "english": "The child pinched the balloon with his little hand, and the balloon burst instantly."
+      "chinese": "他捏了一块泥巴(他捏了一塊泥巴)，开始做雕塑(開始做雕塑)。",
+      "pinyin": "Tā niē le yī kuài níbā, kāishǐ zuò diāosù.",
+      "english": "He pinched a lump of clay and started sculpting."
     },
     {
-      "chinese": "艺术家熟练地捏黏土(藝術家熟練地捏黏土)，雕刻出一尊精美的雕像(雕刻出一尊精美的雕像)。",
-      "pinyin": "Yìshùjiā shúliàn de niē niántǔ, diāokè chū yī zūn jīngměi de diāoxiàng.",
-      "english": "The artist skillfully pinched the clay, carving an exquisite statue."
+      "chinese": "我忍住不捏她的手(我忍住不捏她的手)，因为怕弄疼她(因為怕弄疼她)。",
+      "pinyin": "Wǒ rěnzhù bù niē tā de shǒu, yīnwèi pà nòng téng tā.",
+      "english": "I refrained from pinching her hand because I feared hurting her."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "again; once more",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "一(一) (yī, \"one\") + 冓(冓) (\"the shape of a basket repeatedly woven from bamboo\") = signifies repeating an action -> meaning \"again\"",
-    "interpretation": "The character 再(zài, \"again\") incorporates the idea of repetition using a basket shape that suggests a repeated weaving process, conveying doing something \"again.\" This aligns with its modern usage indicating recurrence.",
+    "description": "一 (one) + 冓 (basket repeatedly woven) -> signifies the concept of repeating something -> again",
+    "interpretation": "The character 再 (zài, 'again; once more') symbolizes the concept of repetition through its components. 一 (one) combined with 冓 (representing a shape of a basket repeatedly woven) creates an image of doing something one more time, emphasizing the notion of 'again' or repetition.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "冓",
       "trad": "冓",
       "pinyin": "gòu",
-      "english": "the shape of a basket repeatedly woven from bamboo"
+      "english": "basket repeatedly woven from bamboo"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请再试一次(請再試一次)。",
-      "pinyin": "Qǐng zài shì yīcì.",
-      "english": "Please try again."
+      "chinese": "请再给我一次机会(請再給我一次機會)。",
+      "pinyin": "Qǐng zài gěi wǒ yī cì jīhuì.",
+      "english": "Please give me another chance."
     },
     {
-      "chinese": "吃完饭(吃完飯)，我们再出发(我們再出發)。",
-      "pinyin": "Chī wán fàn, wǒmen zài chūfā.",
-      "english": "After eating, we set off again."
+      "chinese": "他决定再试一次(他決定再試一次)。",
+      "pinyin": "Tā juédìng zài shì yī cì.",
+      "english": "He decided to try once more."
     },
     {
-      "chinese": "他再读了一遍(他再讀了一遍)。",
-      "pinyin": "Tā zài dú le yībiàn.",
-      "english": "He read it again."
+      "chinese": "如果你不懂(如果你不懂)，我可以再解释一遍(我可以再解釋一遍)。",
+      "pinyin": "Rúguǒ nǐ bù dǒng, wǒ kěyǐ zài jiěshì yī biàn.",
+      "english": "If you don't understand, I can explain it again."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "the Bund",
   "etymology": {
     "type": "compound word",
-    "description": "外(外) (wài, \"outside\") refers to something external or foreign, while 滩(灘) (tān, \"beach; shore\") denotes a flat area of sand or small stones near the water's edge. Therefore, 外滩(外灘) (wàitān, \"the Bund\") describes an external or outside beach shore, most famously referring to the waterfront area in central Shanghai along the Huangpu River.",
-    "interpretation": "The term 外滩(外灘) (wàitān, \"the Bund\") describes a waterfront area, highlighting its feature as the external shore in the bustling city of Shanghai, offering historical and cultural significance tied to its colonial past.",
-    "simplification": "外滩 is the simplified form; the traditional form is 外灘."
+    "description": "外(外) (wài, \"outside\") + 滩(灘) (tān, \"beach\") = an area outside the regular land, associated with a waterfront -> the Bund (a famous waterfront area in Shanghai).",
+    "interpretation": "外(外) (wài, \"outside\") indicates something beyond the usual boundary, in this case beyond the city's typical inland areas. 滩(灘) (tān, \"beach\") refers to the land near water, often sandy and flat. Together, 外滩(外灘) evokes the 'outside beach' or waterfront areas developed for commerce and trade, leading to its historical significance and current identity as a prominent urban district along the Huangpu River in Shanghai.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "外",
       "trad": "外",
       "pinyin": "wài",
-      "english": "outside; external"
+      "english": "outside"
     },
     {
       "char": "滩",
       "trad": "灘",
       "pinyin": "tān",
-      "english": "beach; shore"
+      "english": "beach; sandbank; shoal"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我昨天去了外滩(我昨天去了外灘)。",
-      "pinyin": "Wǒ zuótiān qùle wàitān.",
-      "english": "I went to the Bund yesterday."
+      "chinese": "外滩是上海最著名的旅游景点之一(外灘是上海最著名的旅遊景點之一)。",
+      "pinyin": "Wàitān shì Shànghǎi zuì zhùmíng de lǚyóu jǐngdiǎn zhī yī.",
+      "english": "The Bund is one of the most famous tourist attractions in Shanghai."
     },
     {
-      "chinese": "外滩夜景迷人(外灘夜景迷人)，吸引了众多游客(吸引了眾多遊客)。",
-      "pinyin": "Wàitān yèjǐng mírén, xīyǐn le zhòngduō yóukè.",
-      "english": "The night view of the Bund is enchanting and attracts many tourists."
+      "chinese": "晚上，我们可以在外滩散步(晚上，我們可以在外灘散步)。",
+      "pinyin": "Wǎnshàng, wǒmen kěyǐ zài wàitān sànbù.",
+      "english": "At night, we can take a walk on the Bund."
+    },
+    {
+      "chinese": "外滩的夜景非常迷人(外灘的夜景非常迷人)。",
+      "pinyin": "Wàitān de yèjǐng fēicháng mírén.",
+      "english": "The night view of the Bund is very enchanting."
     }
   ]
 }

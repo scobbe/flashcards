@@ -5,8 +5,8 @@
   "english": "what; ten",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "人(人) (rén, \"person\") + 十(十) (shí, \"ten\") = phonetic 十 with 人 providing semantic context of person-related inquiry -> final form 什(shén, \"what\")",
-    "interpretation": "The character combines 人(人) (rén, \"person\") with 十(十) (shí, \"ten\"), utilizing 十 for its phonetic value and 人 to suggest a general sense of inquiry or relation to people. The combination appropriately reflects the interrogative nature of 什(shén, \"what\").",
+    "description": "semantic 人(人) (rén, 'person') + phonetic 十(十) (shí) -> what",
+    "interpretation": "什(什) (shén, 'what') combines 人(人) (rén, 'person') as the semantic element, with 十(十) (shí) as the phonetic element, which traditionally suggests a quantifier or indefinite concept tied to something representing people, forming 'what'.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这是什么(這是什麼)？",
-      "pinyin": "Zhè shì shénme?",
-      "english": "What is this?"
+      "chinese": "你在看什么(你在看什麼)？",
+      "pinyin": "Nǐ zài kàn shénme?",
+      "english": "What are you watching?"
     },
     {
-      "chinese": "你想知道什么(你想知道什麼)，我来帮你找答案(我來幫你找答案)。",
-      "pinyin": "Nǐ xiǎng zhīdào shénme, wǒ lái bāng nǐ zhǎo dá'àn.",
-      "english": "If you want to know what, I will help you find the answer."
+      "chinese": "这是什么声音(這是什麼聲音)？",
+      "pinyin": "Zhè shì shénme shēngyīn?",
+      "english": "What is this sound?"
+    },
+    {
+      "chinese": "我们应该做些什么(我們應該做些什麼)？",
+      "pinyin": "Wǒmen yīnggāi zuò xiē shénme?",
+      "english": "What should we do?"
     }
   ]
 }

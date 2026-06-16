@@ -4,36 +4,19 @@
   "pinyin": "chù",
   "english": "step",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "丿(丿) (piě, \"slash\") + 一(一) (yī, \"one\") = forming a path -> step",
-    "interpretation": "The character 亍 represents a form of walking or stepping through its simplistic depiction of a path or trail. Consisting of an introductory stroke 丿(丿) (piě, \"slash\") followed by 一(一) (yī, \"one\"), it suggests the concept of a basic step or movement.",
+    "type": "phono-semantic compound",
+    "description": "Derived from 行(行) (háng, 'walk') -> right component of 行 -> represents stepping",
+    "interpretation": "亍(亍) (chù, 'step') retains a visual resemblance to 行(行) (háng, 'walk'), particularly the right side, symbolizing a step or small movement.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "丿",
-      "trad": "丿",
-      "pinyin": "piě",
-      "english": "slash"
-    },
-    {
-      "char": "一",
-      "trad": "一",
-      "pinyin": "yī",
-      "english": "one"
+      "char": "行",
+      "trad": "行",
+      "pinyin": "háng",
+      "english": "walk"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "每走一亍(每走一亍)，都是前进的一步(都是前進的一步)。",
-      "pinyin": "Měi zǒu yī chù, dōu shì qiánjìn de yībù.",
-      "english": "Every step is a step forward."
-    },
-    {
-      "chinese": "他细细品味着生活的每一亍(他細細品味著生活的每一亍)，步步向前(步步向前)。",
-      "pinyin": "Tā xìxì pǐnwèi zhe shēnghuó de měi yī chù, bù bù xiàng qián.",
-      "english": "He savors every step of life and steadily moves forward."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

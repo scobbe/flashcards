@@ -4,9 +4,9 @@
   "pinyin": "wài",
   "english": "outside; exterior; foreign",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "Semantic: 卜(卜) (bǔ, \"divination\") + Phonetic: 月(月) (yuè, \"moon\") -> originally related to phases of moon for divination -> exterior",
-    "interpretation": "The character 外(wài, \"outside\") combines 卜(卜) (bǔ, \"divination\") as a semantic element and 月(月) (yuè, \"moon\") as a phonetic element. This suggests divination practices related to moon phases, reflecting an understanding of measuring what is 'outside' or observable of the moon, thus extending to the concept of 'outside'.",
+    "type": "phono-semantic compound",
+    "description": "semantic 卜 (bǔ, \"divination\") + phonetic 月 (yuè, \"moon\") -> represents divination based on the moon's phase -> outside",
+    "interpretation": "The character combines the idea of divination 卜 (bǔ, \"divination\") with the crescent moon 月 (yuè, \"moon\") as a phonetic element. The visual of a crescent moon indicates a part that is 'missing' or external, hence implying 'outside' or 'foreign'. This suggests an observation from 'outside' the entirety of the moon, leading to the sense of being external or foreign.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "孩子们在外玩耍(孩子們在外玩耍)。",
-      "pinyin": "Háizimen zài wài wánshuǎ.",
-      "english": "The children are playing outside."
+      "chinese": "我们在外面等你(我們在外面等你)。",
+      "pinyin": "Wǒmen zài wàimiàn děng nǐ.",
+      "english": "We will wait for you outside."
     },
     {
-      "chinese": "他离开喧嚣(他離開喧囂)，向外探索(向外探索)。",
-      "pinyin": "Tā líkāi xuānxiāo, xiàng wài tànsuǒ.",
-      "english": "He leaves the hustle and bustle to explore the outside."
+      "chinese": "这个包来自国外(這個包來自國外)。",
+      "pinyin": "Zhège bāo láizì guówài.",
+      "english": "This bag is from abroad."
     },
     {
-      "chinese": "外國的文化充滿魅力(外國的文化充滿魅力)。",
-      "pinyin": "Wàiguó de wénhuà chōngmǎn mèilì.",
-      "english": "Foreign cultures are full of charm."
+      "chinese": "雨下得很大，我们在屋外等雨停(雨下得很大，我們在屋外等雨停)。",
+      "pinyin": "Yǔ xià de hěn dà，wǒmen zài wū wài děng yǔ tíng.",
+      "english": "It was raining heavily, and we waited for the rain to stop outside the house."
     }
   ]
 }

@@ -5,35 +5,40 @@
   "english": "his",
   "etymology": {
     "type": "pictogram",
-    "description": "𠀠 (basket pictogram) -> 丌 (stand) added under basket as phonetic and to enhance meaning -> borrowed for pronoun 'his' -> 箕(箕) (jī, 'basket') derived with additional 竹(竹) (zhú, 'bamboo')",
-    "interpretation": "The character originally depicted a basket, symbolized by 𠀠, emphasizing its use. The addition of 丌 beneath the basket strengthened the meaning of a structural object or container, eventually leading to its phonetic borrowing to represent the pronoun 'his'. To reclaim the original meaning of a 'basket', 箕(箕) (jī, 'basket') was formed with an added bamboo radical.",
+    "description": "𠀠 (basket) -> 𠔝 with added 丌 (stand, phonetic) -> borrowed as pronoun",
+    "interpretation": "Originally depicted a basket (𠀠), which later included a stand (丌) beneath it to stabilize the image on bronze inscriptions, forming 𠔝. This combination was later borrowed for its sound to represent the pronoun 'his, her, its', and the basket meaning was reassigned to 箕(箕) (jī, 'basket').",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "丌",
+      "trad": "丌",
+      "pinyin": "qí",
+      "english": "stand"
+    },
     {
       "char": "箕",
       "trad": "箕",
       "pinyin": "jī",
       "english": "basket"
-    },
-    {
-      "char": "竹",
-      "trad": "竹",
-      "pinyin": "zhú",
-      "english": "bamboo"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "将军因其英勇闻名(將軍因其英勇聞名)。",
-      "pinyin": "Jiāngjūn yīn qí yīngyǒng wénmíng。",
-      "english": "The general is famous for his valor."
+      "chinese": "他把其思绪整理了一遍(他把其思緒整理了一遍)。",
+      "pinyin": "Tā bǎ qí sīxù zhěnglǐ le yī biàn.",
+      "english": "He organized his thoughts once."
     },
     {
-      "chinese": "同袍尊其忠诚(同袍尊其忠誠)，士卒佩服其英明(士卒佩服其英明)。",
-      "pinyin": "Tóngpáo zūn qí zhōngchéng, shìzú pèifú qí yīngmíng。",
-      "english": "His comrades revere his loyalty, and the soldiers admire his wisdom."
+      "chinese": "其琴声如水般柔软(其琴聲如水般柔軟)。",
+      "pinyin": "Qí qín shēng rú shuǐ bān róuruǎn.",
+      "english": "His playing is as soft as water."
+    },
+    {
+      "chinese": "其计划得到了同事们的支持(其計劃得到了同事們的支持)。",
+      "pinyin": "Qí jìhuà dédào le tóngshìmen de zhīchí.",
+      "english": "His plan received the support of his colleagues."
     }
   ]
 }

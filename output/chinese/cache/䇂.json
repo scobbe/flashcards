@@ -1,22 +1,15 @@
 {
   "simplified": "䇂",
   "traditional": "䇂",
-  "pinyin": "",
+  "pinyin": "shù",
   "english": "sickle-like tool",
   "etymology": {
     "type": "pictogram",
-    "description": "Original version of 辛(辛) (xīn, \"bitter\") -> depicts a chisel used to mark prisoners",
-    "interpretation": "The character 䇂 originally depicted a chisel tool, indicating its use in marking. This form evolved into 辛(辛), which retains no functional relation to marking but conveys meanings related to hardship, likely influenced by the history of the chisel's use.",
+    "description": "Depicts a chisel or sickle-like tool with a sharp point in the middle, used for marking",
+    "interpretation": "The character 䇂 originally represented a tool with a pointed tip, embodying the function of marking or inscribing, akin to a chisel used for branding prisoners. This shape conveys not only the appearance but also the purpose of this ancient implement.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "辛",
-      "trad": "辛",
-      "pinyin": "xīn",
-      "english": "bitter"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

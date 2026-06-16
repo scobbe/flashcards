@@ -5,40 +5,40 @@
   "english": "neighboring; adjacent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "粦 (phonetic) + 阝 (semantic) = neighboring; adjacent",
-    "interpretation": "The character 鄰 (lín, 'neighboring; adjacent') combines the phonetic component 粦 (lín, 'fire') with the semantic 阝, which often signifies geographical or spatial elements, to convey the idea of 'neighboring' areas.",
-    "simplification": "鄰 was simplified to 邻 by replacing 粦 (lín, 'fire') with 令 (lìng, 'order'), a simpler phonetic element."
+    "description": "semantic 阝(fù, 'mound; hill') + phonetic 粦(lín, 'fire') -> neighboring; adjacent",
+    "interpretation": "The character combines 阝(fù, 'mound; hill'), often associated with earth or territories, with 粦(lín, 'fire') for its phonetic contribution. The concept of 'neighboring' is tied to the idea of lands or plots adjacent to each other, alongside the phonetic sound provided by 粦(lín).",
+    "simplification": "鄰(鄰)→邻(鄰): 粦(粦) (lín, 'fire') was replaced with 令(令) (lìng, 'order') to condense its structure for the simplified form."
   },
   "parts": [
+    {
+      "char": "阝",
+      "trad": "阝",
+      "pinyin": "fù",
+      "english": "mound; hill"
+    },
     {
       "char": "粦",
       "trad": "粦",
       "pinyin": "lín",
       "english": "fire"
-    },
-    {
-      "char": "阝",
-      "trad": "阝",
-      "pinyin": "fǔ",
-      "english": "mound; ear"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们都是邻居(我們都是鄰居)。",
-      "pinyin": "Wǒmen dōu shì línjū.",
-      "english": "We are all neighbors."
+      "chinese": "我们的邻居很友好(我們的鄰居很友好)。",
+      "pinyin": "Wǒmen de línjū hěn yǒuhǎo.",
+      "english": "Our neighbors are very friendly."
     },
     {
-      "chinese": "我的邻座是一位老先生(我的鄰座是一位老先生)。",
-      "pinyin": "Wǒ de línzuò shì yí wèi lǎo xiānshēng.",
-      "english": "The person next to me is an elderly gentleman."
+      "chinese": "学校就在我们家附近的邻街(學校就在我們家附近的鄰街)。",
+      "pinyin": "Xuéxiào jiù zài wǒmen jiā fùjìn de lín jiē.",
+      "english": "The school is on the neighboring street near our home."
     },
     {
-      "chinese": "这家餐厅就在我家旁边(這家餐廳就在我家旁邊)，非常方便(非常方便)。",
-      "pinyin": "Zhè jiā cāntīng jiù zài wǒ jiā pángbiān, fēicháng fāngbiàn.",
-      "english": "This restaurant is right next to my house and is very convenient."
+      "chinese": "他搬到了一个新的城市，与邻居们处得很好(他搬到了一個新的城市，與鄰居們處得很好)。",
+      "pinyin": "Tā bān dào le yīgè xīn de chéngshì, yǔ línjūmen chǔ de hěn hǎo.",
+      "english": "He moved to a new city and gets along well with the neighbors."
     }
   ]
 }

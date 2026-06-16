@@ -5,35 +5,40 @@
   "english": "then",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a beard -> original form of 耏(耏) or 髵(髵)",
-    "interpretation": "The character 而(而) originated as a pictogram representing a beard and evolved into meaning transitions like 'then' in classical texts. Its original form was related to concepts indicating appearance or physical traits.",
+    "description": "Depicts a beard -> original form of 耏 or 髵",
+    "interpretation": "The character 而 initially depicted a beard, which shares visual similarities to the concept of 'and then' due to the flow and continuity implied by hair, thus connecting to transitional ideas.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "耏",
       "trad": "耏",
-      "pinyin": "něi",
-      "english": "a variant related to 'beard'"
+      "pinyin": "ér",
+      "english": "beard"
     },
     {
       "char": "髵",
       "trad": "髵",
       "pinyin": "ér",
-      "english": "hair, beard"
+      "english": "beard"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他先完成作业(他先完成作業)，而休息片刻(而休息片刻)。",
-      "pinyin": "Tā xiān wánchéng zuòyè, ér xiūxí piànkè.",
-      "english": "He first completed his homework, then rested for a while."
+      "chinese": "他努力工作，而他的老板却不满意他的表现(他努力工作，而他的老闆卻不滿意他的表現)。",
+      "pinyin": "Tā nǔlì gōngzuò, ér tā de lǎobǎn què bù mǎnyì tā de biǎoxiàn.",
+      "english": "He works hard, yet his boss is not satisfied with his performance."
     },
     {
-      "chinese": "春天到来时(春天到來時)，而百花争艳(而百花爭艷)。",
-      "pinyin": "Chūntiān dào lái shí, ér bǎihuā zhēng yàn.",
-      "english": "When spring arrives, then the flowers compete in beauty."
+      "chinese": "我很想去旅行，而这次疫情使我无法成行(我很想去旅行，而這次疫情使我無法成行)。",
+      "pinyin": "Wǒ hěn xiǎng qù lǚxíng, ér zhè cì yìqíng shǐ wǒ wúfǎ chéng xíng.",
+      "english": "I really want to travel, but the pandemic has made it impossible for me."
+    },
+    {
+      "chinese": "猫抓住了小鸟，而它却没有伤害它(貓抓住了小鳥，而它卻沒有傷害它)。",
+      "pinyin": "Māo zhuā zhù le xiǎo niǎo, ér tā què méiyǒu shānghài tā.",
+      "english": "The cat caught the bird, but it did not harm it."
     }
   ]
 }

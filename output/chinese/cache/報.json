@@ -5,40 +5,40 @@
   "english": "report; announce",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "㚔 (handcuffs) + 𠬝 (to subdue) = to convict or declare guilty -> report; announce",
-    "interpretation": "The character 報(bào) conveys the idea of delivering a verdict or making an official announcement, stemming from the imagery of handcuffs and subdual, which symbolize an authoritative declaration of guilt.",
-    "simplification": "報 was simplified to 报 through sound-alike replacement with 押(押) (yā, \"press\"), retaining the idea of administering announcements but using the simpler form."
+    "description": "㚔 (handcuffs) + 𠬝 (to subdue) = declare guilty; convict -> report; announce",
+    "interpretation": "The core image combines 'handcuffs', indicating the action of binding or capturing, with 'to subdue', suggesting enforcing authority over someone. Together, they form the idea of proclaiming guilt, which naturally extends to the notion of making official declarations, hence 'report' and 'announce'.",
+    "simplification": "報 was simplified to 报 by replacing the radical with its cursive form and reducing strokes in other parts for brevity and manipulability."
   },
   "parts": [
     {
       "char": "㚔",
       "trad": "㚔",
-      "pinyin": "n/a",
+      "pinyin": "kòu",
       "english": "handcuffs"
     },
     {
       "char": "𠬝",
       "trad": "𠬝",
-      "pinyin": "n/a",
+      "pinyin": "shù",
       "english": "to subdue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "记者報最新消息(記者報最新消息)。",
-      "pinyin": "Jìzhě bào zuìxīn xiāoxī.",
-      "english": "The reporter reported the latest news."
+      "chinese": "新闻记者在现场写报导(新聞記者在現場寫報導)。",
+      "pinyin": "Xīnwén jìzhě zài xiànchǎng xiě bàodǎo.",
+      "english": "The news reporter is writing a report on site."
     },
     {
-      "chinese": "听到火警铃声(聽到火警鈴聲)，他立刻報警(他立刻報警)。",
-      "pinyin": "Tīngdào huǒjǐng língshēng, tā lìkè bào jǐng.",
-      "english": "Hearing the fire alarm, he immediately called the police."
+      "chinese": "他们每天观看新闻报道(他們每天觀看新聞報導)。",
+      "pinyin": "Tāmen měitiān guānkàn xīnwén bàodǎo.",
+      "english": "They watch the news report every day."
     },
     {
-      "chinese": "校长報考试成绩(校長報考試成績)。",
-      "pinyin": "Xiàozhǎng bào kǎoshì chéngjì.",
-      "english": "The principal reported the exam results."
+      "chinese": "老师要求我们写一份读书报告(老師要求我們寫一份讀書報告)。",
+      "pinyin": "Lǎoshī yāoqiú wǒmen xiě yī fèn dúshū bàogào.",
+      "english": "The teacher asked us to write a book report."
     }
   ]
 }

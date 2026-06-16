@@ -5,8 +5,8 @@
   "english": "work",
   "etymology": {
     "type": "compound word",
-    "description": "工(工) (gōng, \"work; craft\") + 作(作) (zuò, \"do; make\") = activity of working or doing tasks, hence \"work\"",
-    "interpretation": "The combination of 工(工) (gōng, \"work; craft\") and 作(作) (zuò, \"do; make\") signifies the activity of performing tasks or duties, reflecting the idea of engaging in labor or a job. This word is a straightforward depiction of performing tasks, thus representing the concept of work.",
+    "description": "The word 工作(工作) (gōngzuò, \"work\") consists of two characters. 工(工) (gōng, \"work; labor\") often refers to physical tasks or tasks that require effort and skill. 作(作) (zuò, \"to make; to produce\") indicates the action of producing or creating something. Together, 工作(工作) conveys the idea of engaging in labor or tasks to produce results or achieve goals.",
+    "interpretation": "工(工) (gōng, \"work\") conveys the idea of effort directed towards a task, often in a skilled trade or craft. 作(作) (zuò, \"to make\") adds the dynamic aspect of bringing something about through one's actions. Together, these elements form the concept of work as an ongoing activity where one's efforts produce tangible outputs or results.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "工",
       "trad": "工",
       "pinyin": "gōng",
-      "english": "work; craft"
+      "english": "work; labor; trade; craft"
     },
     {
       "char": "作",
       "trad": "作",
       "pinyin": "zuò",
-      "english": "do; make"
+      "english": "to make; to produce; to do; to act"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在公司工作(我在公司工作)。",
-      "pinyin": "Wǒ zài gōngsī gōngzuò.",
-      "english": "I work at a company."
+      "chinese": "他正在忙着工作(他正在忙著工作)。",
+      "pinyin": "Tā zhèngzài mángzhe gōngzuò.",
+      "english": "He is busy working."
     },
     {
-      "chinese": "他每天工作八小时(他每天工作八小時)，然后按时回家(然後按時回家)。",
-      "pinyin": "Tā měitiān gōngzuò bā xiǎoshí, ránhòu ànshí huíjiā.",
-      "english": "He works eight hours every day, then goes home on time."
+      "chinese": "她想找到一份理想的工作(她想找到一份理想的工作)。",
+      "pinyin": "Tā xiǎng zhǎodào yī fèn lǐxiǎng de gōngzuò.",
+      "english": "She wants to find an ideal job."
     },
     {
-      "chinese": "尽管工作艰辛(儘管工作艱辛)，他依然满怀希望(他依然滿懷希望)。",
-      "pinyin": "Jǐnguǎn gōngzuò jiānxīn, tā yīrán mǎn huái xīwàng.",
-      "english": "Although work is tough, he remains full of hope."
+      "chinese": "工作结束后(工作結束後)，我们可以一起去喝咖啡(我們可以一起去喝咖啡)。",
+      "pinyin": "Gōngzuò jiéshù hòu, wǒmen kěyǐ yīqǐ qù hē kāfēi.",
+      "english": "After work ends, we can go for coffee together."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "mix; confuse; blend",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(水) (shuǐ, 'water') + phonetic: 昆(昆) (kūn, 'elder brother') = water plus sound of 昆 -> to mix or blend",
-    "interpretation": "The character 混(hùn) combines the semantic element 氵(水) (shuǐ, 'water') suggesting fluidity or mixing, with the phonetic element 昆(昆) (kūn, 'elder brother'), hinting at the pronunciation. This reflects the concept of blending or mixing, much like different substances would when water is involved.",
-    "simplification": ""
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 昆(昆) (kūn) -> mix; confuse",
+    "interpretation": "The semantic 氵(水) (shuǐ, \"water\") suggests fluidity and combination, essential in the concept of mixing or blending substances like liquids. The phonetic component 昆(昆) (kūn) contributes the sound without affecting the meaning. Together, they represent the idea of substances being mixed or confused, akin to how waters merge and blend indistinctly.",
+    "simplification": "The character 混 was simplified by retaining the 水(水) (shuǐ, \"water\") component while simplifying and simplifying other parts for ease of writing, yet its core meaning was preserved."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "昆",
       "trad": "昆",
       "pinyin": "kūn",
-      "english": "elder brother"
+      "english": "descendants"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他把面粉和水混在一起(他把麵粉和水混在一起)，制成了面团(製成了麵團)。",
-      "pinyin": "Tā bǎ miànfěn hé shuǐ hùn zài yīqǐ，zhìchéngle miàntuán。",
-      "english": "He mixed flour and water together, and made dough."
+      "chinese": "他总是把事情混在一起(他總是把事情混在一起)。",
+      "pinyin": "Tā zǒng shì bǎ shìqing hùn zài yīqǐ.",
+      "english": "He always mixes things together."
     },
     {
-      "chinese": "他经常把事实和虚构混淆起来(他經常把事實和虛構混淆起來)，使人困惑(使人困惑)。",
-      "pinyin": "Tā jīngcháng bǎ shìshí hé xūgòu hùnxiáo qǐlái，shǐ rén kùnhuò。",
-      "english": "He often confuses facts with fiction, which puzzles people."
+      "chinese": "不要把糖和盐混淆(不要把糖和鹽混淆)。",
+      "pinyin": "Bùyào bǎ táng hé yán hùnxiáo.",
+      "english": "Don't confuse sugar with salt."
+    },
+    {
+      "chinese": "他试图在群体中混得很好(他試圖在群體中混得很好)。",
+      "pinyin": "Tā shìtú zài qúntǐ zhōng hùn de hěn hǎo.",
+      "english": "He tries to blend in well with the group."
     }
   ]
 }

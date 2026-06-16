@@ -4,41 +4,41 @@
   "pinyin": "chōng",
   "english": "to charge; to fill; to act in place of; sufficient",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "서(充) (shān, \"spear\") + 儿(人, \"person\") = person with a spear filling space -> to fill",
-    "interpretation": "The character 充(充) combines the idea of a person 儿 holding or wielding a spear or decorative object 氍, representing the act of filling or occupying a position. It effectively conveys the concept of 'filling up' or acting in place of someone, as it involves an agent (the person) and an object or action.",
+    "type": "ideogrammic compound",
+    "description": "𠫓 ('a newborn') + 儿 ('standing person') = A newborn grows to stand and become mature -> to fill; to act in place of",
+    "interpretation": "The imagery of a newborn growing to eventually stand captures the idea of filling or becoming sufficient, as the development process implies providing what is needed or fulfilling potential. This extends to 'acting in place of', since a mature person can take on roles once dependent on others, emphasizing sufficiency and capability.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "亠",
-      "trad": "亠",
-      "pinyin": "tóu",
-      "english": "lid"
+      "char": "𠫓",
+      "trad": "𠫓",
+      "pinyin": "nán",
+      "english": "a newborn"
     },
     {
       "char": "儿",
-      "trad": "儿",
+      "trad": "兒",
       "pinyin": "ér",
-      "english": "person"
+      "english": "standing person"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "手机需要充电(手機需要充電)。",
-      "pinyin": "Shǒujī xūyào chōngdiàn.",
-      "english": "The phone needs to be charged."
+      "chinese": "我需要给我的手机充电(我需要給我的手機充電)。",
+      "pinyin": "Wǒ xūyào gěi wǒ de shǒujī chōngdiàn.",
+      "english": "I need to charge my phone."
     },
     {
-      "chinese": "他充当(他充當)，班长的角色(班長的角色)。",
-      "pinyin": "Tā chōngdāng, bānzhǎng de juésè.",
-      "english": "He acted as the class monitor."
+      "chinese": "厨房里的瓶子装满了水，充满了(廚房裡的瓶子裝滿了水，充滿了)。",
+      "pinyin": "Chúfáng lǐ de píngzi zhuāng mǎn le shuǐ，chōngmǎn le.",
+      "english": "The bottle in the kitchen is filled with water, it's full."
     },
     {
-      "chinese": "水箱充满了雨水(水箱充滿了雨水)。",
-      "pinyin": "Shuǐxiāng chōngmǎn le yǔshuǐ.",
-      "english": "The water tank is filled with rainwater."
+      "chinese": "在工作中，他常常充当领导(在工作中，他常常充當領導)。",
+      "pinyin": "Zài gōngzuò zhōng, tā chángcháng chōngdāng lǐngdǎo.",
+      "english": "At work, he often acts as the leader."
     }
   ]
 }

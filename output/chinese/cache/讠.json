@@ -1,31 +1,50 @@
 {
   "simplified": "讠",
-  "traditional": "訁",
+  "traditional": "言",
   "pinyin": "yán",
   "english": "speech",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a curved line with a dot, symbolizing speech or words",
-    "interpretation": "讠(訁) (yán, \"speech\") is the simplified radical for words or speech. As a pictogram, it represents the essential concept of communication.",
-    "simplification": ""
+    "type": "ideogrammic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 辛(辛) (xīn) combination -> phonetic development possibly mixed with 舌(舌) (shé, \"tongue\") -> reference to speech",
+    "interpretation": "The character 言 (yán, \"speech\") originates from depicting a mouth 口 (kǒu, \"mouth\") in combination with another form, possibly 永 or 辛, symbolizing the action or place of speaking. Over time, it may have involved 舌(舌) (shé, \"tongue\") to reinforce its association with speech. This combination intuitively leads to the concept of 'speech' as it directly relates to vocal articulation and communication.",
+    "simplification": "讠(言): Simplified by adopting a single-stroke variant from cursive script of 訁, reducing strokes dramatically to represent speech."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter"
+    },
+    {
+      "char": "舌",
+      "trad": "舌",
+      "pinyin": "shé",
+      "english": "tongue"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "汉字中的讠构件(漢字中的言構件)，常出现在有关话语的字中(常出現在有關話語的字中)。",
-      "pinyin": "Hànzì zhōng de yán gòujiàn, cháng chūxiàn zài yǒuguān huàyǔ de zì zhōng.",
-      "english": "The 讠 component in Chinese characters often appears in characters related to speech."
+      "chinese": "在讨论会上(在討論會上)，他的发言(他的發言)很有深度(很有深度)。",
+      "pinyin": "Zài tǎolùn huì shàng, tā de fāyán hěn yǒu shēndù.",
+      "english": "In the discussion meeting, his speech was very profound."
     },
     {
-      "chinese": "古人重视讠之力量(古人重視言之力量)，认为言传身教胜过万言(認為言傳身教勝過萬言)。",
-      "pinyin": "Gǔrén zhòngshì yán zhī lìliàng, rènwéi yán chuán shēnjiào shèngguò wànyán.",
-      "english": "Ancient people valued the power of speech, believing that teaching by example was superior to a thousand words."
+      "chinese": "他总是用简洁的言词(他總是用簡潔的言詞)表达想法(表達想法)。",
+      "pinyin": "Tā zǒngshì yòng jiǎn jié de yán cí biǎodá xiǎngfǎ.",
+      "english": "He always uses concise speech to express his ideas."
     },
     {
-      "chinese": "含讠字形的汉字(含言字形的漢字)，通常与言语表达密切相关(通常與言語表達密切相關)。",
-      "pinyin": "Hán yán zìxíng de hànzì, tōngcháng yǔ yányǔ biǎodá mìqiè xiāngguān.",
-      "english": "Chinese characters with the 讠 radical are usually closely associated with speech expression."
+      "chinese": "他们的辩论(他們的辯論)十分激烈(十分激烈)，双方的言辞(雙方的言辭)都很犀利(都很犀利)。",
+      "pinyin": "Tāmen de biànlùn shífēn jīliè, shuāngfāng de yáncí dōu hěn xīlì.",
+      "english": "Their debate was very intense, and the remarks from both sides were sharp."
     }
   ]
 }

@@ -5,34 +5,34 @@
   "english": "return; repeat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "彳(彳) (chì, \"step\") + 复(复) (fù, \"repeat\") = walk back and forth -> return; repeat",
-    "interpretation": "復(復) (fù, \"return; repeat\") incorporates 彳(彳) (chì, \"step\"), indicating movement, with the phonetic 复(复) (fù, \"repeat\"), symbolizing the action of going back and forth or repeating an action.",
-    "simplification": "復(復) was simplified to 复(復) by replacing 彳(彳) (chì, \"step\") with a simpler component."
+    "description": "semantic 彳(彳) (chì, \"walk\") + phonetic 复(复) (fù, \"repeat\") -> walk back and forth",
+    "interpretation": "The character combines the element 彳(彳) (chì, \"walk\"), suggesting movement or return, with the phonetic element 复(复) (fù, \"repeat\"), giving the sense of walking repeatedly in the same path, which embodies the idea of returning or doing something again.",
+    "simplification": "The character 復(復) was simplified to 复 by retaining the phonetic component 复(复) and dropping the semantic 彳(彳) (chì, \"walk\")."
   },
   "parts": [
     {
       "char": "彳",
       "trad": "彳",
       "pinyin": "chì",
-      "english": "step"
+      "english": "walk"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他已经复习功课(他已經複習功課)。",
-      "pinyin": "Tā yǐjīng fùxí gōngkè.",
-      "english": "He has already reviewed his lessons."
+      "chinese": "他希望能复读一年(他希望能復讀一年)。",
+      "pinyin": "Tā xīwàng néng fùdú yī nián.",
+      "english": "He hopes to repeat a year in school."
     },
     {
-      "chinese": "明天我们会复返到这里(明天我們會復返到這裡)。",
-      "pinyin": "Míngtiān wǒmen huì fùfǎn dào zhèlǐ.",
-      "english": "We will return here tomorrow."
+      "chinese": "老师要我们复习上节课的内容(老師要我們複習上節課的內容)。",
+      "pinyin": "Lǎoshī yào wǒmen fùxí shàng jié kè de nèiróng.",
+      "english": "The teacher wants us to review the content from the last class."
     },
     {
-      "chinese": "她每天都重复同样的事情(她每天都重複同樣的事情)。",
-      "pinyin": "Tā měitiān dōu chóngfù tóngyàng de shìqíng.",
-      "english": "She repeats the same things every day."
+      "chinese": "每次复活节(每次複活節)，全家人都会团聚(全家人都會團聚)。",
+      "pinyin": "Měi cì fùhuó jié, quánjiā rén dōu huì tuánjù.",
+      "english": "Every Easter, the whole family will reunite."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "silver",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal\") + 艮(艮) (gěn, \"stopping\") = metal that shines -> silver",
-    "interpretation": "银(銀) (yín, \"silver\") combines the metal radical 金(金) (jīn, \"metal\") with the phonetic component 艮(艮) (gěn, \"stopping\"), suggesting a valuable or precious metal that is not as reactive and considered stable, much like the quality of stopping in 艮(艮).",
-    "simplification": "Traditional component 金(金) (jīn, \"metal\") was simplified to 钅(钅) (jīn, \"metal\") in 银(銀), reducing stroke count for ease of writing while maintaining the semantic meaning."
+    "description": "semantic 金(金) (jīn, \"metal\") + phonetic 艮(艮) (gèn) -> silver",
+    "interpretation": "The character 銀(銀) (yín, \"silver\") combines 金(金) (jīn, \"metal\"), indicating that it is a type of metal, with the phonetic component 艮(艮) (gèn), which contributes the sound. This combination refers specifically to the metal silver.",
+    "simplification": "銷(金) was reduced to 钅(钅) to create a simpler form while retaining the phonetic 艮(艮)."
   },
   "parts": [
     {
@@ -17,34 +17,28 @@
       "english": "metal"
     },
     {
-      "char": "钅",
-      "trad": "钅",
-      "pinyin": "jīn",
-      "english": "metal"
-    },
-    {
       "char": "艮",
       "trad": "艮",
-      "pinyin": "gěn",
-      "english": "stopping"
+      "pinyin": "gèn",
+      "english": "stopping; stubborn"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "银色是一种优雅的颜色(銀色是一種優雅的顏色)。",
-      "pinyin": "Yínsè shì yī zhǒng yōuyǎ de yánsè。",
-      "english": "Silver is an elegant color."
+      "chinese": "银色在阳光下很耀眼(銀色在陽光下很耀眼)。",
+      "pinyin": "Yínsè zài yángguāng xià hěn yàoyǎn.",
+      "english": "Silver is very dazzling in the sunlight."
     },
     {
-      "chinese": "这枚银戒指闪闪发光(這枚銀戒指閃閃發光)。",
-      "pinyin": "Zhè méi yín jièzhǐ shǎnshǎn fāguāng。",
-      "english": "This silver ring sparkles."
+      "chinese": "老奶奶给了我一个银戒指(老奶奶給了我一個銀戒指)。",
+      "pinyin": "Lǎo nǎinai gěi le wǒ yī gè yín jièzhǐ.",
+      "english": "The grandmother gave me a silver ring."
     },
     {
-      "chinese": "店里出售银饰(店裡出售銀飾)，价格十分合理(價格十分合理)。",
-      "pinyin": "Diàn lǐ chūshòu yín shì，jiàgé shífēn hélǐ。",
-      "english": "The store sells silver jewelry, and the prices are very reasonable."
+      "chinese": "银色的月光洒在湖面(銀色的月光灑在湖面)。",
+      "pinyin": "Yínsè de yuèguāng sǎ zài húmiàn.",
+      "english": "The silver moonlight spreads over the lake."
     }
   ]
 }

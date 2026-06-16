@@ -2,11 +2,11 @@
   "simplified": "奎",
   "traditional": "奎",
   "pinyin": "kuí",
-  "english": "phonetic",
+  "english": "a star constellation",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "大(大) (dà, \"big\") + 圭(圭) (guī) = combines the idea of largeness with the phonetic influence of 圭",
-    "interpretation": "The character 奎(奎) (kuí, \"phonetic\") uses 大(大) (dà, \"big\") as the semantic component and 圭(圭) (guī) as the phonetic component. While 圭(圭) typically represents a type of jade object not related to earth, in this character, it contributes the sound component. The concept of earth may have been added due to visual interpretation in the script rather than phonetic or semantic meanings.",
+    "description": "semantic 大 (dà, \"big; great\") + phonetic 圭 (guī, \"jade tablet\") -> a star constellation",
+    "interpretation": "The character 奎 (kuí, \"a star constellation\") combines 大 (dà, \"big\") as the semantic component, indicating something grand like a constellation, with 圭 (guī, \"jade tablet\") as the phonetic component, providing the sound. While 圭 originally depicted ritual axes, it was repurposed here only for its phonetic value to express the name of this significant constellation.",
     "simplification": ""
   },
   "parts": [
@@ -14,15 +14,31 @@
       "char": "大",
       "trad": "大",
       "pinyin": "dà",
-      "english": "big"
+      "english": "big; great"
     },
     {
       "char": "圭",
       "trad": "圭",
       "pinyin": "guī",
-      "english": "ritual jade object"
+      "english": "jade tablet"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "奎星是中华文化中的吉祥象征(奎星是中華文化中的吉祥象徵)。",
+      "pinyin": "Kuí xīng shì Zhōnghuá wénhuà zhōng de jíxiáng xiàngzhēng.",
+      "english": "The star constellation Kuí is an auspicious symbol in Chinese culture."
+    },
+    {
+      "chinese": "在古代(在古代)，人们常常观测奎星的位置(人們常常觀測奎星的位置)。",
+      "pinyin": "Zài gǔdài, rénmen chángcháng guāncè kuí xīng de wèizhì.",
+      "english": "In ancient times, people often observed the position of the star constellation Kuí."
+    },
+    {
+      "chinese": "奎星被视为智慧与才能的象征(奎星被視為智慧與才能的象徵)。",
+      "pinyin": "Kuí xīng bèi shì wéi zhìhuì yǔ cáinéng de xiàngzhēng.",
+      "english": "The star constellation Kuí is regarded as a symbol of wisdom and talent."
+    }
+  ]
 }

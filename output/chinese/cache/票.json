@@ -4,41 +4,41 @@
   "pinyin": "piào",
   "english": "ticket; note",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "覀(覀) (yà, \"west\") + 示(示) (shì, \"show\") = show identity or value -> implying a ticket or note",
-    "interpretation": "The character 票(票) (piào, \"ticket\") combines elements denoting direction and display, conceptualizing a document that demonstrates or verifies identity or value, like a ticket or banknote.",
+    "type": "ideogrammic compound",
+    "description": "火(火) (huǒ, \"fire\") + 𢍱 (to rise high) = sparks rising -> later as 'ticket, note'",
+    "interpretation": "The character combines 火(火) (huǒ, \"fire\") with 𢍱, which depicts two pairs of hands lifting an object, evoking sparks rising up. This idea of rising sparks was conceptually extended to mean a 'token' or 'label' and eventually a 'ticket' or 'note' in practical usage.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "覀",
-      "trad": "覀",
-      "pinyin": "yà",
-      "english": "west"
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire"
     },
     {
-      "char": "示",
-      "trad": "示",
-      "pinyin": "shì",
-      "english": "show"
+      "char": "𢍱",
+      "trad": "𢍱",
+      "pinyin": "rise high",
+      "english": "to rise high"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一张票(我買了一張票)。",
-      "pinyin": "Wǒ mǎile yī zhāng piào.",
-      "english": "I bought a ticket."
+      "chinese": "我买了两张电影票(我買了兩張電影票)。",
+      "pinyin": "Wǒ mǎi le liǎng zhāng diànyǐng piào.",
+      "english": "I bought two movie tickets."
     },
     {
-      "chinese": "他订了电影票(他訂了電影票)，准备去看电影(準備去看電影)。",
-      "pinyin": "Tā dìngle diànyǐng piào, zhǔnbèi qù kàn diànyǐng.",
-      "english": "He booked a movie ticket, preparing to watch a film."
+      "chinese": "你需要飞机票吗(你需要飛機票嗎)？",
+      "pinyin": "Nǐ xūyào fēijī piào ma?",
+      "english": "Do you need a plane ticket?"
     },
     {
-      "chinese": "演唱会的票很快就卖完了(演唱會的票很快就賣完了)。",
-      "pinyin": "Yǎnchànghuì de piào hěn kuài jiù màiwánle.",
-      "english": "The tickets for the concert sold out quickly."
+      "chinese": "这张票是明天的(這張票是明天的)。",
+      "pinyin": "Zhè zhāng piào shì míngtiān de.",
+      "english": "This ticket is for tomorrow."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "wrong",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 牙(牙) (yá, \"tooth\") + Semantic: 邑(邑) (yì, \"town; city\") = originally a place name 琅邪 -> borrowed for 'wrong; evil'",
-    "interpretation": "The character 邪(yé, 'wrong') originated from its use in place names, with the phonetic 牙(yá, 'tooth') suggesting sound and the semantic 邑(yì, 'town; city') indicating its geographical associations. Over time, this character was borrowed to represent the idea of wrongness or evil.",
+    "description": "phonetic 牙(牙) (yá, \"tooth\") + semantic 邑(邑) (yì, \"town; city\") -> originally a place name -> borrowed for \"wrong; evil\"",
+    "interpretation": "The character originally referred to a place name, as indicated by the semantic component 邑(邑) (yì, \"town; city\"), suggesting a geographic context. The phonetic component 牙(牙) (yá, \"tooth\") contributes the sound. Over time, it was phonically repurposed for the sense \"wrong; evil,\" which was initially represented by the different character 衺.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "有人散布邪说(有人散播邪說)。",
-      "pinyin": "Yǒurén sànbù yéshuō.",
-      "english": "Some people spread wrong doctrines."
+      "chinese": "他的动机看起来不太邪(他的動機看起來不太邪)。",
+      "pinyin": "Tā de dòngjī kàn qǐlái bù tài yé.",
+      "english": "His motives do not seem very wrong."
     },
     {
-      "chinese": "他相信真理(他相信真理)，拒绝邪观点(拒絕邪觀點)。",
-      "pinyin": "Tā xiāngxìn zhēnlǐ, jùjué yé guāndiǎn.",
-      "english": "He believes in the truth and rejects wrong views."
-    },
-    {
-      "chinese": "流言蜚语常常掺杂邪成分(流言蜚語常常摻雜邪成分)。",
-      "pinyin": "Liúyán fēiyǔ chángcháng chānzá yé chéngfèn.",
-      "english": "Rumors are often tainted with wrong elements."
+      "chinese": "如果做坏事是邪的(如果做壞事是邪的)，那么做好事就是对的(那麼做好事就是對的)。",
+      "pinyin": "Rúguǒ zuò huàishì shì yé de, nàme zuò hǎoshì jiù shì duì de.",
+      "english": "If doing bad things is wrong, then doing good things is right."
     }
   ]
 }

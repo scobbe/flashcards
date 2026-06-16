@@ -5,8 +5,8 @@
   "english": "alright; fine",
   "etymology": {
     "type": "compound word",
-    "description": "好(好) (hǎo, \"good\") + 吧(吧) (ba, \"particle indicating suggestion\") = \"alright; fine\" as a suggestion or mild agreement.",
-    "interpretation": "好(好) (hǎo, \"good\") suggests positivity or agreement, while 吧(吧) (ba, \"particle indicating suggestion\") softens the tone, making a suggestion or implying a reluctant assent. This combination expresses a casual agreement or willingness to go along with something.",
+    "description": "好(好) (hǎo, \"good; well\") + 吧(吧) (ba, a modal particle used to indicate suggestion or mild emphasis) = an expression used to show agreement or reluctant acceptance.",
+    "interpretation": "好(好) (hǎo, \"good\") conveys a sense of positivity or affirmation, often suggesting approval or consent. 吧(吧) (ba, modal particle) is added to soften a statement or turn it into a suggestion or question. Together, 好吧 is used to express an agreeable or conceding attitude, as if saying 'alright, I agree' or 'fine, if you say so'. The core intuition is making the positive affirmation (好) more tentative or gentle with the particle (吧), leading to its use for reluctant or mild agreement.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "好",
       "trad": "好",
       "pinyin": "hǎo",
-      "english": "good; fine; okay; nice"
+      "english": "good; well"
     },
     {
       "char": "吧",
       "trad": "吧",
       "pinyin": "ba",
-      "english": "particle indicating suggestion; mild command; assumption"
+      "english": "a modal particle used to indicate suggestion or mild emphasis"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们试试这个办法(我們試試這個辦法)，好吧(好吧)。",
-      "pinyin": "Wǒmen shìshi zhège bànfǎ, hǎo ba.",
-      "english": "Let's try this method, alright."
+      "chinese": "如果你不想去(如果你不想去)，那就算了吧(那就算了吧)！",
+      "pinyin": "Rúguǒ nǐ bù xiǎng qù，nà jiù suàn le ba!",
+      "english": "If you don't want to go, then forget it!"
     },
     {
-      "chinese": "今天下雨了(今天下雨了)，好吧(好吧)。",
-      "pinyin": "Jīntiān xiàyǔ le, hǎo ba.",
-      "english": "It's raining today, fine."
+      "chinese": "他同意了(他同意了)，好吧(好吧)。",
+      "pinyin": "Tā tóngyì le，hǎo ba.",
+      "english": "He agreed, alright."
+    },
+    {
+      "chinese": "我们下午三点见(我們下午三點見)，好吧(好吧)？",
+      "pinyin": "Wǒmen xiàwǔ sān diǎn jiàn，hǎo ba?",
+      "english": "Let's meet at 3 PM, alright?"
     }
   ]
 }

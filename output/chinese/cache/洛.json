@@ -5,14 +5,14 @@
   "english": "a river; water",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, 'water') + phonetic: 各(各) (gè, 'each') = flowing water with sound of 'gè' -> river, water",
-    "interpretation": "The character 洛(luò) combines the water radical 氵(氵) to represent its meaning associated with water, and 各(各) for its phonetic component to determine pronunciation. It relates to flowing water like a river.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 各(各) (gè) -> river",
+    "interpretation": "The semantic component 水(水) (shuǐ, \"water\") indicates that the character relates to water, fitting for a river. The phonetic part 各(各) (gè) provides the sound, not contributing directly to the meaning.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "氵",
-      "trad": "氵",
+      "char": "水",
+      "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "洛静静流淌(洛靜靜流淌)。",
-      "pinyin": "Luò jìngjìng liútǎng.",
-      "english": "The Luo flows quietly."
+      "chinese": "洛河流经这座城市(洛河流經這座城市)。",
+      "pinyin": "Luòhé liújīng zhè zuò chéngshì.",
+      "english": "The Luo River flows through this city."
     },
     {
-      "chinese": "春日融融照洛岸(春日融融照洛岸)，柳絮纷飞(柳絮紛飛)。",
-      "pinyin": "Chūnrì róngróng zhào Luò àn, liǔxù fēnfēi.",
-      "english": "The gentle spring sun illuminates the banks of the Luo, while the willow catkins flutter."
+      "chinese": "在古代，洛水被视为神圣之地(在古代，洛水被視為神聖之地)。",
+      "pinyin": "Zài gǔdài, luòshuǐ bèi shì wéi shénshèng zhī dì.",
+      "english": "In ancient times, the Luo River was considered a sacred place."
+    },
+    {
+      "chinese": "我曾沿着洛河泛舟(我曾沿着洛河泛舟)，欣赏两岸的美景(欣賞兩岸的美景)。",
+      "pinyin": "Wǒ céng yánzhe Luòhé fànzhōu, xīnshǎng liǎng'àn de měijǐng.",
+      "english": "I once boated along the Luo River, enjoying the scenery on both sides."
     }
   ]
 }

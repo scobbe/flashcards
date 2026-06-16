@@ -5,9 +5,9 @@
   "english": "participate; reference; take part in",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "晶(晶) (jīng, \"stars\") + 光(光) (guāng, \"light\") + 彡(彡) (shān, \"light rays\") -> \"Three Stars mansion\"",
-    "interpretation": "The character combines elements representing stars and rays of light, symbolizing the brightness of the 'Three Stars mansion.' Despite alternative interpretations involving hairpins, 彡(彡) contributes both semantic and phonetic elements related to light and radiance.",
-    "simplification": "The character 参(參) was simplified from the traditional form by modifying complex strokes in 晶(晶) to a simpler form."
+    "description": "晶 (stars) + 光 (light; brightness) + 彡 (light rays) -> Three Stars mansion -> kneeling person observing stars",
+    "interpretation": "The character 參(參) (cān, 'participate; reference; take part in') originally depicted a constellation of stars, symbolizing participation by reflecting the observation of stars, akin to participating in something larger. The imagery of a kneeling person looking at the stars suggests reverence and inclusion in a cosmic order, which becomes an abstraction for being part of an activity or group. 彡 serves both as a representation of light rays and a phonetic component, contributing its sound value.",
+    "simplification": "Simplified by reducing the detailed components of 參 to 参, omitting parts such as 光 and focusing mainly on 彡."
   },
   "parts": [
     {
@@ -20,7 +20,7 @@
       "char": "光",
       "trad": "光",
       "pinyin": "guāng",
-      "english": "light"
+      "english": "light; brightness"
     },
     {
       "char": "彡",
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我参赛(我參賽)。",
-      "pinyin": "Wǒ cān sài.",
-      "english": "I participate in the competition."
+      "chinese": "他想参加比赛(他想參加比賽)。",
+      "pinyin": "Tā xiǎng cānjiā bǐsài.",
+      "english": "He wants to participate in the competition."
     },
     {
-      "chinese": "我们参观博物馆(我們參觀博物館)，与专家讨论(與專家討論)。",
-      "pinyin": "Wǒmen cān guān bówùguǎn, yǔ zhuānjiā tǎolùn.",
-      "english": "We visit the museum and discuss with experts."
+      "chinese": "请参考书的目录(請參考書的目錄)。",
+      "pinyin": "Qǐng cānkǎo shū de mùlù.",
+      "english": "Please refer to the book's index."
     },
     {
-      "chinese": "他们参选(他們參選)，决心改变未来(決心改變未來)。",
-      "pinyin": "Tāmen cān xuǎn, juéxīn gǎibiàn wèilái.",
-      "english": "They participate in the election, determined to change the future."
+      "chinese": "我们委托他参加会议(我們委托他參加會議)。",
+      "pinyin": "Wǒmen wěituō tā cānjiā huìyì.",
+      "english": "We entrusted him to take part in the meeting."
     }
   ]
 }

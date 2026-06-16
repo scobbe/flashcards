@@ -5,8 +5,8 @@
   "english": "be excited",
   "etymology": {
     "type": "compound word",
-    "description": "激(激) (jī, \"stimulate\") + 动(動) (dòng, \"move\") = to be stirred or excited in feelings",
-    "interpretation": "The word 激(激) (jī, \"stimulate\") suggests applying energy or stimulation to something. 动(動) (dòng, \"move\") conveys the idea of movement or agitation. Together, 激动(激動) (jīdòng) indicates a state where the emotions have been stirred into a lively and excited condition, akin to how external forces can cause motion.",
+    "description": "激(激) (jī, \"stimulate\") refers to inciting or provoking energy or emotion; 動(動) (dòng, \"move\") involves physical or emotional movement or change.",
+    "interpretation": "激(激) (jī, \"stimulate\") implies provoking strong reactions, often leading to an emotional surge. 動(動) (dòng, \"move\") signifies transition or change, whether in position or state. Combined, 激動(激動) (jīdòng, \"be excited\") evokes the image of energy or emotions being stirred up, leading to animated activity or a heightened emotional state.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "激",
       "trad": "激",
       "pinyin": "jī",
-      "english": "stimulate; agitate; arouse"
+      "english": "stimulate; arouse; excite; fierce"
     },
     {
       "char": "动",
       "trad": "動",
       "pinyin": "dòng",
-      "english": "move; stir; change; arouse"
+      "english": "move; change; stir; act"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "比赛胜利后(比賽勝利後)，他非常激动(他非常激動)。",
-      "pinyin": "Bǐsài shènglì hòu, tā fēicháng jīdòng.",
-      "english": "After the victory of the match, he was very excited."
+      "chinese": "他看到久违的朋友(他看到久違的朋友)，非常激动(非常激動)。",
+      "pinyin": "Tā kàn dào jiǔwéi de péngyǒu, fēicháng jīdòng.",
+      "english": "He was very excited to see a long-lost friend."
     },
     {
-      "chinese": "听到这个消息，她激动得流泪(聽到這個消息，她激動得流淚)。",
-      "pinyin": "Tīngdào zhège xiāoxi, tā jīdòng dé liúlèi.",
-      "english": "Upon hearing the news, she was so excited that she cried."
+      "chinese": "比赛结束时(比賽結束時)，我们都激动得跳了起来(我們都激動得跳了起來)。",
+      "pinyin": "Bǐsài jiéshù shí, wǒmen dōu jīdòng de tiào le qǐlái.",
+      "english": "When the game ended, we were all excitedly jumping up."
     },
     {
-      "chinese": "孩子们对即将到来的旅行激动不已(孩子們對即將到來的旅行激動不已)。",
-      "pinyin": "Háizimen duì jíjiāng dào lái de lǚxíng jīdòng bùyǐ.",
-      "english": "The children were endlessly excited for the upcoming trip."
+      "chinese": "那个激动人心的时刻(那個激動人心的時刻)，他永远难忘(他永遠難忘)。",
+      "pinyin": "Nàgè jīdòng rénxīn de shíkè, tā yǒngyuǎn nánwàng.",
+      "english": "That exciting moment, he will never forget."
     }
   ]
 }

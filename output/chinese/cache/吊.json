@@ -1,0 +1,44 @@
+{
+  "simplified": "吊",
+  "traditional": "吊",
+  "pinyin": "diào",
+  "english": "hanging",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "人(人) (rén, \"person\") over an arrow tied with 糸(糸) (mì, \"silk thread\") -> a person hanging a thread",
+    "interpretation": "Originally depicting a man above an arrow tied to a silk thread, 吊 captures the image of a person utilizing a thread for attachment or suspension. The semantic component of a thread conveys the action, while the depiction of a man emphasizes direct involvement, leading to the sense of 'hanging'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk; thread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把画吊在墙上(他把畫吊在牆上)。",
+      "pinyin": "Tā bǎ huà diào zài qiáng shàng.",
+      "english": "He hung the painting on the wall."
+    },
+    {
+      "chinese": "风筝在空中自由地吊着(風箏在空中自由地吊著)。",
+      "pinyin": "Fēngzhēng zài kōngzhōng zìyóu de diào zhe.",
+      "english": "The kite is freely hanging in the air."
+    },
+    {
+      "chinese": "他用吊车吊起重物(他用吊車吊起重物)。",
+      "pinyin": "Tā yòng diàochē diào qǐ zhòngwù.",
+      "english": "He used the crane to lift the heavy object."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "forbid",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 林(林) (lín, \"forest\") + semantic 示(示) (shì, \"altar\") = related to controlling sacred or ritualistic spaces -> forbid",
-    "interpretation": "The integration of 林(林) (lín, \"forest\") as a phonetic component with 示(示) (shì, \"altar\") indicates a connection to restricting or regulating spaces, especially those of religious significance, which conceptually aligns with the idea of 'forbidding.'",
+    "description": "phonetic 林(lín, \"forest\") + semantic 示(shì, \"altar\") -> forbid",
+    "interpretation": "The character 禁(jìn, \"forbid\") combines 林(lín, \"forest\") as the phonetic component and 示(shì, \"altar\") as the semantic component. The concept of prohibition is associated with restrictions often placed around sacred altars, indicating a cultural context where access is limited or forbidden.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "政府禁止在公园内吸烟(政府禁止在公園內吸煙)。",
-      "pinyin": "Zhèngfǔ jìnzhǐ zài gōngyuán nèi xīyān.",
-      "english": "The government forbids smoking in the park."
+      "chinese": "学校禁止在教室里吃东西(學校禁止在教室裡吃東西)。",
+      "pinyin": "Xuéxiào jìnzhǐ zài jiàoshì lǐ chī dōngxi.",
+      "english": "The school forbids eating in the classroom."
     },
     {
-      "chinese": "学校禁止携带食品(學校禁止攜帶食品)。",
-      "pinyin": "Xuéxiào jìnzhǐ xiédài shípǐn.",
-      "english": "The school forbids carrying food."
+      "chinese": "他被禁止进入图书馆(他被禁止進入圖書館)。",
+      "pinyin": "Tā bèi jìnzhǐ jìnrù túshūguǎn.",
+      "english": "He is forbidden from entering the library."
     },
     {
-      "chinese": "学校禁止带入手机(學校禁止帶入手機)，违反者将受到处分(違反者將受到處分)。",
-      "pinyin": "Xuéxiào jìnzhǐ dàirù shǒujī, wéifǎn zhě jiāng shòudào chǔfèn.",
-      "english": "The school forbids bringing mobile phones, and violators will be penalized."
+      "chinese": "这里禁止拍照(這裡禁止拍照)。",
+      "pinyin": "Zhèlǐ jìnzhǐ pāizhào.",
+      "english": "Photography is forbidden here."
     }
   ]
 }

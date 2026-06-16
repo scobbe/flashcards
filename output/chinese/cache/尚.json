@@ -5,35 +5,40 @@
   "english": "esteem",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "小(小) (xiǎo, \"small\") + 冋(冋) (jiōng, \"closed\") = closed top -> high -> esteem",
-    "interpretation": "The character 尚(尚) (shàng, \"esteem\") combines 小(小) (xiǎo, \"small\") with 冋(冋) (jiōng, \"closed\") to form a pictorial top. This signifies something being elevated or raised, symbolizing esteem or admiration. The closed top connotes positioning at a height or high standing.",
+    "description": "semantic 八 (bā, \"eight\") + phonetic 向 (xiàng, \"face; towards\") -> meaning",
+    "interpretation": "The character 尚(shàng, \"esteem\") combines 八 (bā, \"eight\"), which acts as the semantic component, with 向 (xiàng, \"face; towards\"), which provides the phonetic sound. The sense of moving towards something in 向 supports ideas of ascending or elevating, hence developing into the sense of 'esteem' associated with elevating status or regard.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "小",
-      "trad": "小",
-      "pinyin": "xiǎo",
-      "english": "small"
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
     },
     {
-      "char": "冋",
-      "trad": "冋",
-      "pinyin": "jiōng",
-      "english": "closed"
+      "char": "向",
+      "trad": "向",
+      "pinyin": "xiàng",
+      "english": "face; towards"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他非常尚重传统(他非常尚重傳統)。",
-      "pinyin": "Tā fēicháng shàng zhòng chuántǒng.",
-      "english": "He holds tradition in high esteem."
+      "chinese": "他的作风很时尚(他的作風很時尚)。",
+      "pinyin": "Tā de zuòfēng hěn shíshàng.",
+      "english": "His style is very fashionable."
     },
     {
-      "chinese": "公司尚人才(公司尚人才)，视员工为家人(視員工為家人)。",
-      "pinyin": "Gōngsī shàng réncái, shì yuángōng wéi jiārén.",
-      "english": "The company esteems talent and regards its employees as family."
+      "chinese": "她总是追求高尚的理想(她總是追求高尚的理想)。",
+      "pinyin": "Tā zǒng shì zhuīqiú gāoshàng de lǐxiǎng.",
+      "english": "She always pursues noble ideals."
+    },
+    {
+      "chinese": "他是一个很有思想的人(他是一個很有思想的人)，大家都很敬仰他(大家都很敬仰他)。",
+      "pinyin": "Tā shì yīgè hěn yǒu sīxiǎng de rén, dàjiā dōu hěn jìngyǎng tā.",
+      "english": "He is a person with great ideas, and everyone esteems him."
     }
   ]
 }

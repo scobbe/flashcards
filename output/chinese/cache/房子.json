@@ -5,8 +5,8 @@
   "english": "house",
   "etymology": {
     "type": "compound word",
-    "description": "房(房) (fáng, \"house; room\") + 子(子) (zi, \"son; child; noun suffix\") forms the word 房子(房子) (fángzi, \"house\"), which represents a structure for living.",
-    "interpretation": "The term 房子(房子) (fángzi, \"house\") combines the character 房(房) (fáng, \"house; room\") with the suffix 子(子) (zi, \"noun suffix\"), indicating a place where people live. The suffix does not change the meaning but rather serves to nominalize and complete the concept of a domestic building.",
+    "description": "房(房) (fáng, \"house\") refers to a building or structure for dwelling; 子(子) (zi, \"child; small thing\") often indicates a diminutive or noun suffix, implying a specific type or instance.",
+    "interpretation": "房(房) (fáng, \"house\") conveys the primary concept of a building or space for living. 子(子) (zi, \"child; small thing\") functions as a nominalizing suffix, turning the general idea into a concrete, specific term for 'a house' or 'home'. The use of 子(子) suggests intimacy or familiarity, as if referring to a 'little home' or a place of belonging.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "房",
       "trad": "房",
       "pinyin": "fáng",
-      "english": "house; room"
+      "english": "house; building"
     },
     {
       "char": "子",
       "trad": "子",
       "pinyin": "zi",
-      "english": "son; child; noun suffix"
+      "english": "child; small thing; noun suffix"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "旧金山的房子非常贵(舊金山的房子非常貴)。",
-      "pinyin": "Jiùjīnshān de fángzi fēicháng guì.",
-      "english": "Houses in San Francisco are very expensive."
+      "chinese": "这座房子很漂亮(這座房子很漂亮)。",
+      "pinyin": "Zhè zuò fángzi hěn piàoliang.",
+      "english": "This house is very beautiful."
     },
     {
-      "chinese": "我梦想拥有一座大房子(我夢想擁有一座大房子)。",
-      "pinyin": "Wǒ mèngxiǎng yǒngyǒu yī zuò dà fángzi.",
-      "english": "I dream of owning a big house."
+      "chinese": "村里的人正在建造一座新房子(村裡的人正在建造一座新房子)。",
+      "pinyin": "Cūn lǐ de rén zhèngzài jiànzào yī zuò xīn fángzi.",
+      "english": "The villagers are building a new house."
     },
     {
-      "chinese": "小镇上的房子古色古香(小鎮上的房子古色古香)。",
-      "pinyin": "Xiǎo zhèn shàng de fángzi gǔsègǔxiāng.",
-      "english": "The houses in the small town exude an antique charm."
+      "chinese": "他们打算卖掉老房子(他們打算賣掉老房子)，然后搬到城市(然後搬到城市)。",
+      "pinyin": "Tāmen dǎsuàn mài diào lǎo fángzi, ránhòu bān dào chéngshì.",
+      "english": "They plan to sell the old house and then move to the city."
     }
   ]
 }

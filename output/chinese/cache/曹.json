@@ -5,28 +5,16 @@
   "english": "place",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "Originally 㯥(ㄔ, 'cáo') as two bundles 東(東) (dōng, 'east') -> 囗(囗) added as mark, corrupted to 甘(甘) (gān, 'sweet'), later 曰(曰) (yuē, 'say') in Seal Script -> form 𣍘(𣍘), top merged to 曲(曲) (qū, 'bent') with extra stroke",
-    "interpretation": "The character 曹(cáo) evolved from depicting two bundles, indicating partnership or similarity, into a more complex form distinguished by originally unrelated elements.",
+    "description": "Two bundles 東(東) (dōng, \"east\") -> pair; peer -> 囗(囗) (wéi, \"enclosure\") was added and corrupted into 甘(甘) (gān, \"sweet\") and 曷(曷) (hè, \"what\") -> intermediate form 𣍘(𣍘) -> 曹(曹) after merging of top components",
+    "interpretation": "Originally depicting two bundles, signifying 'pair' or 'peer'. The inclusion of an enclosure-like component (originally 囗 and later corrupted forms) added distinction, leading to the current configuration where the top appears as merged elements resembling 曲(曲) (qǔ, 'to bend') with extra strokes. This evolution of form reflects the concept of a group or category, later applied to governance or a place of administration.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "㯥",
-      "trad": "㯥",
-      "pinyin": "cáo",
-      "english": "ideogrammic compound"
-    },
     {
       "char": "東",
       "trad": "東",
       "pinyin": "dōng",
       "english": "east"
-    },
-    {
-      "char": "囗",
-      "trad": "囗",
-      "pinyin": "wéi",
-      "english": "enclosure"
     },
     {
       "char": "甘",
@@ -35,35 +23,34 @@
       "english": "sweet"
     },
     {
-      "char": "曰",
-      "trad": "曰",
-      "pinyin": "yuē",
-      "english": "say"
-    },
-    {
-      "char": "𣍘",
-      "trad": "𣍘",
-      "pinyin": "n/a",
-      "english": "intermediate form"
+      "char": "曷",
+      "trad": "曷",
+      "pinyin": "hè",
+      "english": "what"
     },
     {
       "char": "曲",
       "trad": "曲",
-      "pinyin": "qū",
-      "english": "bent"
+      "pinyin": "qǔ",
+      "english": "to bend"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他来到曹(曹)。",
-      "pinyin": "Tā láidào cáo.",
-      "english": "He arrived at the place."
+      "chinese": "这个地方叫做曹村(這個地方叫做曹村)。",
+      "pinyin": "Zhège dìfāng jiàozuò Cáo cūn.",
+      "english": "This place is called Cao Village."
     },
     {
-      "chinese": "我们在曹(曹)，体验古城风情(體驗古城風情)。",
-      "pinyin": "Wǒmen zài cáo, tǐyàn gǔchéng fēngqíng.",
-      "english": "We, at this place, experienced the charm of the ancient city."
+      "chinese": "在曹地(在曹地)，我们发现了一个古老的寺庙(我們發現了一個古老的寺廟)。",
+      "pinyin": "Zài cáo dì, wǒmen fāxiànle yīgè gǔlǎo de sìmiào.",
+      "english": "In the place of Cao, we discovered an ancient temple."
+    },
+    {
+      "chinese": "历史中的曹郡(歷史中的曹郡)，曾是个繁华之地(曾是個繁華之地)。",
+      "pinyin": "Lìshǐ zhōng de cáo jùn, céng shì gè fánhuá zhī dì.",
+      "english": "The Cao County in history was once a prosperous place."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "hot pot",
   "etymology": {
     "type": "compound word",
-    "description": "火(火) (huǒ, \"fire\") refers to the use of heat or flame, and 鍋(鍋) (guō, \"pot\") is a cooking vessel. The combination 火鍋(鍋) (huǒguō, \"hot pot\") refers to a pot in which ingredients are cooked at the table in a simmering broth.",
-    "interpretation": "A 火鍋(鍋) (huǒguō, \"hot pot\") is a communal dish where ingredients are cooked at the table in a pot of simmering broth, representing both cooking and eating as a social activity. This practice is prevalent in Chinese culture, especially in colder regions or during social gatherings.",
+    "description": "火(火) (huǒ, \"fire\") refers to flame or heat, and 鍋(鍋) (guō, \"pot\") is a vessel used for cooking.",
+    "interpretation": "火(huǒ, \"fire\") is linked to heating or cooking, representing the method of preparing the food. 鍋(guō, \"pot\") denotes the container in which the ingredients are prepared. Together, 火鍋 refers to a pot heated by fire or flame, which is the defining trait of the hot pot dining experience where food is cooked directly at the table in a simmering pot.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "火",
       "trad": "火",
       "pinyin": "huǒ",
-      "english": "fire"
+      "english": "fire; flame; heat"
     },
     {
       "char": "鍋",
       "trad": "鍋",
       "pinyin": "guō",
-      "english": "pot"
+      "english": "pot; pan; cauldron"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们晚上去吃火锅(我們晚上去吃火鍋)。",
-      "pinyin": "Wǒmen wǎnshàng qù chī huǒ guō.",
-      "english": "We are going to have hot pot tonight."
+      "chinese": "我们一起去吃火锅(我們一起去吃火鍋)。",
+      "pinyin": "Wǒmen yīqǐ qù chī huǒguō.",
+      "english": "Let's go to eat hot pot together."
     },
     {
-      "chinese": "家人团聚时(家人團聚時)，大家围坐一起涮火锅(大家圍坐一起涮火鍋)。",
-      "pinyin": "Jiārén tuánjù shí, dàjiā wéizuò yīqǐ shuàn huǒ guō.",
-      "english": "When the family gathers, everyone sits around and enjoys hot pot."
+      "chinese": "天气冷的时候(天氣冷的時候)，吃火锅最舒服(吃火鍋最舒服)。",
+      "pinyin": "Tiānqì lěng de shíhòu, chī huǒguō zuì shūfú.",
+      "english": "When the weather is cold, eating hot pot is the most comfortable."
     },
     {
-      "chinese": "冬天寒冷时(冬天寒冷時)，一锅热腾腾的火锅能驱走寒意(一鍋熱騰騰的火鍋能驅走寒意)。",
-      "pinyin": "Dōngtiān hánlěng shí, yī guō rè téngténg de huǒ guō néng qūzǒu hányì.",
-      "english": "In the cold winter, a steaming hot pot can ward off the chill."
+      "chinese": "昨晚我在家里涮火锅(昨晚我在家裡涮火鍋)。",
+      "pinyin": "Zuó wǎn wǒ zài jiā lǐ shuàn huǒguō.",
+      "english": "Last night I made hot pot at home."
     }
   ]
 }

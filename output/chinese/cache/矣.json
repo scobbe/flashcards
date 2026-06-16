@@ -2,43 +2,43 @@
   "simplified": "矣",
   "traditional": "矣",
   "pinyin": "yǐ",
-  "english": "",
+  "english": "particle, completed action",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 㠯 + Semantic: 矢 ('arrow') -> final form 矣",
-    "interpretation": "The character 矣 (yǐ) uses 㠯 for its sound and 矢 (shǐ, 'arrow') to indicate its meaning as a final particle emphasizing a statement, occurring often in classical Chinese literature.",
+    "description": "semantic 矢(矢) (shǐ, \"arrow\") + phonetic 㠯 -> particle indicating completed action",
+    "interpretation": "矢(矢) (shǐ, \"arrow\") is used as a semantic guide, suggesting a sense of direction or completion, while 㠯 provides the phonetic contribution. Together, they form a particle used to indicate the completion of an action or a finalized state.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "㠯",
-      "trad": "㠯",
-      "pinyin": "yǐ",
-      "english": "phonetic component"
-    },
     {
       "char": "矢",
       "trad": "矢",
       "pinyin": "shǐ",
       "english": "arrow"
+    },
+    {
+      "char": "㠯",
+      "trad": "㠯",
+      "pinyin": "yǐ",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春天已过矣(春天已過矣)。",
-      "pinyin": "Chūntiān yǐ guò yǐ.",
-      "english": "Spring has already passed."
+      "chinese": "我终於到达目的地矣(我終於到達目的地矣)。",
+      "pinyin": "Wǒ zhōngyú dàodá mùdìdì yǐ.",
+      "english": "I have finally reached the destination."
     },
     {
-      "chinese": "事情已成定局矣(事情已成定局矣)。",
-      "pinyin": "Shìqíng yǐ chéng dìngjú yǐ.",
-      "english": "The matter is already settled."
+      "chinese": "一切皆已成矣(一切皆已成矣)。",
+      "pinyin": "Yīqiè jiē yǐ chéng yǐ.",
+      "english": "Everything has been accomplished."
     },
     {
-      "chinese": "此地无银三百两矣(此地無銀三百兩矣)。",
-      "pinyin": "Cǐ dì wú yín sān bǎi liǎng yǐ.",
-      "english": "This place has no three hundred taels of silver."
+      "chinese": "他离开多时矣(他離開多時矣)。",
+      "pinyin": "Tā líkāi duō shí yǐ.",
+      "english": "He has been gone for a long time."
     }
   ]
 }

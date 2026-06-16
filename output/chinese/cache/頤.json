@@ -4,9 +4,9 @@
   "pinyin": "yí",
   "english": "nourish",
   "etymology": {
-    "type": "ideogrammic compound and phono-semantic compound",
-    "description": "𦣞(𦣞) (yí, \"chin\") + 頁(頁) (yè, \"head\") = chin (phonetically represented) as part of the head -> nourish",
-    "interpretation": "The character combines 𦣞(𦣞) (yí, \"chin\"), which phonetically suggests 'nourish', with 頁(頁) (yè, \"head\") to convey the concept of nourishing, metaphorically related to the mouth and chin as parts of the head involved in eating and speaking.",
+    "type": "phono-semantic compound",
+    "description": "phonetic 𦣞(yí, 'chin') + semantic 頁('head') -> nourish",
+    "interpretation": "The character 頤(yí) ('nourish') combines the head 頁 symbolizing the physical support and the phonetic 𦣞 representing 'chin'. The chin is essential in the mechanical aspect of eating and nourishment, thus linking the physical activity with the concept of 'nourishing'.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "母亲用心頤养子女(母親用心頤養子女)。",
-      "pinyin": "mǔqīn yòngxīn yí yǎng zǐnǚ.",
-      "english": "The mother carefully nourishes her children."
+      "chinese": "老人需要更多的关心和照顾(老人需要更多的關心和照顧)。",
+      "pinyin": "Lǎorén xūyào gèng duō de guānxīn hé zhàogù.",
+      "english": "Elderly people need more care and attention."
     },
     {
-      "chinese": "均衡的饮食(均衡的飲食)，有助于頤护健康(有助於頤護健康)。",
-      "pinyin": "jūnhéng de yǐnshí, yǒuzhù yú yí hù jiànkāng.",
-      "english": "A balanced diet helps to nourish and protect health."
+      "chinese": "他常用传统方法来养生和调理身体(他常用傳統方法來養生和調理身體)。",
+      "pinyin": "Tā cháng yòng chuántǒng fāngfǎ lái yǎngshēng hé tiáolǐ shēntǐ.",
+      "english": "He often uses traditional methods to nourish and regulate his body."
     },
     {
-      "chinese": "适量的休息可以頤养心神(適量的休息可以頤養心神)。",
-      "pinyin": "shìliàng de xiūxí kěyǐ yí yǎng xīnshén.",
-      "english": "An adequate amount of rest can nourish one's spirit."
+      "chinese": "现代人追求内心的平静和精神上的滋养(現代人追求內心的平靜和精神上的滋養)。",
+      "pinyin": "Xiàndài rén zhuīqiú nèixīn de píngjìng hé jīngshén shàng de zīyǎng.",
+      "english": "Modern people seek inner peace and spiritual nourishment."
     }
   ]
 }

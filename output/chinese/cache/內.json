@@ -5,9 +5,9 @@
   "english": "inside",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "冂(冂) (jiōng, \"city outskirts\") + 入(入) (rù, \"to enter\") = entering the city through its outskirts -> inside, within",
-    "interpretation": "The character 內(內) (nèi, \"inside\") combines 冂(冂) (jiōng, \"city outskirts\"), representing the city's boundary or enclosure, with 入(入) (rù, \"to enter\"), symbolizing the action of entering. This visually evokes the concept of penetrating into or within a bounded area, reflecting the meaning of 'inside.'",
-    "simplification": "內(內) was simplified to 内 by removing the horizontal stroke in 冂 and modifying the shape slightly."
+    "description": "冂 (city outskirts) + 入 (to enter) -> entering the city through its outskirts -> inside, within",
+    "interpretation": "The character represents the concept of entering (入) through the outskirts (冂) of a city, metaphorically conveying the sense of being inside or within a boundary.",
+    "simplification": "内: 入(入) (rù, \"to enter\") + 冂(冂) (jiōng, \"house\") was simplified while maintaining the semantic components, shifting focus to 'bringing into the house'."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "信件放在信封內(信件放在信封內)。",
-      "pinyin": "Xìnjiàn fàng zài xìnfēng nèi.",
-      "english": "The letter is placed inside the envelope."
+      "chinese": "房间里面(房間裡面)有一盏灯(有一盞燈)。",
+      "pinyin": "Fángjiān lǐmiàn yǒu yī zhǎn dēng.",
+      "english": "Inside the room, there is a lamp."
     },
     {
-      "chinese": "他把钥匙藏在抽屉內(他把鑰匙藏在抽屜內)，以防丢失(以防丟失)。",
-      "pinyin": "Tā bǎ yàoshi cáng zài chōutì nèi, yǐ fáng diūshī.",
-      "english": "He hides the key inside the drawer to prevent it from being lost."
+      "chinese": "请在车内等候(請在車內等候)。",
+      "pinyin": "Qǐng zài chē nèi děnghòu.",
+      "english": "Please wait inside the car."
     },
     {
-      "chinese": "月光从院內洒下(月光從院內灑下)，照亮寂静之夜(照亮寂靜之夜)。",
-      "pinyin": "Yuèguāng cóng yuàn nèi sǎxià, zhào liàng jìjìng zhī yè.",
-      "english": "Moonlight pours in from the courtyard, illuminating the silent night."
+      "chinese": "冰箱内(冰箱內)的东西(的東西)需要保鲜(需要保鮮)。",
+      "pinyin": "Bīngxiāng nèi de dōngxi xūyào bǎoxiān.",
+      "english": "The things inside the refrigerator need to be kept fresh."
     }
   ]
 }

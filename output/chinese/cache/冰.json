@@ -5,40 +5,40 @@
   "english": "ice",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 冫(bīng, \"cold\") + Semantic: 水(shuǐ, \"water\") = water frozen -> ice",
-    "interpretation": "The character 冰(bīng, \"ice\") is formed by combining the water radical 水(shuǐ, \"water\") with a phonetic component 冫(bīng, \"cold\"), signifying the freezing of water into ice.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 冫(bīng) -> water that is frozen -> ice",
+    "interpretation": "The character 冰(bīng, \"ice\") combines the semantic element 水(水) (shuǐ, \"water\") indicating the substance and the phonetic element 冫, which provides the sound. Together they represent water that has frozen into ice.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "冫",
-      "trad": "冫",
-      "pinyin": "bīng",
-      "english": "cold"
-    },
     {
       "char": "水",
       "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
+    },
+    {
+      "char": "冫",
+      "trad": "冫",
+      "pinyin": "bīng",
+      "english": "ice"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "河面上的冰很厚(河面上的冰很厚)。",
-      "pinyin": "Hé miàn shàng de bīng hěn hòu.",
-      "english": "The ice on the river is very thick."
+      "chinese": "我喜欢在夏天吃冰淇淋(我喜歡在夏天吃冰淇淋)。",
+      "pinyin": "Wǒ xǐhuān zài xiàtiān chī bīngqílín.",
+      "english": "I like eating ice cream in the summer."
     },
     {
-      "chinese": "冬天来了(冬天來了)，湖面的冰开始形成(湖面的冰開始形成)。",
-      "pinyin": "Dōngtiān láile, hú miàn de bīng kāishǐ xíngchéng.",
-      "english": "Winter has arrived, and the ice on the lake is beginning to form."
+      "chinese": "湖面上结了一层厚厚的冰(湖面上結了一層厚厚的冰)。",
+      "pinyin": "Hú miàn shàng jié le yī céng hòu hòu de bīng.",
+      "english": "A thick layer of ice formed on the surface of the lake."
     },
     {
-      "chinese": "小朋友们喜欢在雪地里玩冰(小朋友們喜歡在雪地裡玩冰)。",
-      "pinyin": "Xiǎopéngyǒumen xǐhuān zài xuědì lǐ wán bīng.",
-      "english": "Children like to play with ice in the snow."
+      "chinese": "冬天时(冬天時)，河里的水会结冰(河裡的水會結冰)。",
+      "pinyin": "Dōngtiān shí, hé lǐ de shuǐ huì jié bīng.",
+      "english": "In winter, the water in the river will freeze."
     }
   ]
 }

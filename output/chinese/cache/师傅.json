@@ -5,35 +5,40 @@
   "english": "master; skilled worker",
   "etymology": {
     "type": "compound word",
-    "description": "师(師) (shī, \"master\") refers to a teacher, expert, or skilled person. 傅(傅) (fù, \"instructor\") emphasizes the role of guiding or instructing others.",
-    "interpretation": "The term 师傅(師傅) (shīfu) conveys respect and acknowledgment of expertise or skill, often used to address someone who has acquired a high level of knowledge or skill in a particular field, whether in craftsmanship or teaching.",
-    "simplification": "师傅"
+    "description": "師(師) (shī, \"master; teacher\") originally meant \"army commander\", evoking an image of a leading figure with authority and wisdom. 傅(傅) (fù, \"tutor; assist\") shows an idea of guidance and support, often in the role of a knowledgeable mentor.",
+    "interpretation": "師(師) (shī, \"master; teacher\") suggests authority, excellent skills, and leadership, connecting to the role of experts or skilled individuals as masters of their craft. 傅(傅) (fù, \"tutor; assist\") conveys the idea of teaching and providing support, implying mastery through tutelage or craftsmanship. Together, 师傅(師傅) (shīfu) describes someone both highly skilled and capable of instructing others, whether in education or technical expertise, thus capturing the dual aspects of mastery and mentorship.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "师",
       "trad": "師",
       "pinyin": "shī",
-      "english": "master; teacher; expert"
+      "english": "master; teacher; army commander"
     },
     {
       "char": "傅",
       "trad": "傅",
       "pinyin": "fù",
-      "english": "instructor; tutor; teacher"
+      "english": "tutor; assist; attach"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他请师傅修理自行车(他請師傅修理自行車)。",
-      "pinyin": "Tā qǐng shīfu xiūlǐ zìxíngchē.",
-      "english": "He asked the master to repair the bicycle."
+      "chinese": "这位师傅(這位師傅)是一位非常有经验的木匠(是一位非常有經驗的木匠)。",
+      "pinyin": "Zhè wèi shīfu shì yī wèi fēicháng yǒu jīngyàn de mùjiàng.",
+      "english": "This master is a very experienced carpenter."
     },
     {
-      "chinese": "师傅手艺高超(師傅手藝高超)，顾客纷纷赞叹(顧客紛紛讚嘆)。",
-      "pinyin": "Shīfu shǒuyì gāochāo, gùkè fēnfēn zàntàn.",
-      "english": "The master's skill is exceptional, and the customers are full of praise."
+      "chinese": "汽车坏了(汽車壞了)，我们需要找一个修理的师傅(我們需要找一個修理的師傅)。",
+      "pinyin": "Qìchē huài le, wǒmen xūyào zhǎo yī gè xiūlǐ de shīfu.",
+      "english": "The car is broken, we need to find a repair master."
+    },
+    {
+      "chinese": "餐厅的师傅(餐廳的師傅)做的炒饭非常好吃(做的炒飯非常好吃)。",
+      "pinyin": "Cāntīng de shīfu zuò de chǎofàn fēicháng hàochī.",
+      "english": "The restaurant's cook makes very tasty fried rice."
     }
   ]
 }

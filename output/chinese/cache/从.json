@@ -5,9 +5,9 @@
   "english": "to follow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Original simplified form 从 -> semantic 辵(辵) (chuò, \"walk; movement\") + phonetic 从 (cóng, \"follow\") -> final form 從",
-    "interpretation": "The character 從 is a phono-semantic compound, where the semantic element 辵(辵) (chuò, \"walk; movement\") indicates the action of moving or following, while the phonetic element 从 (cóng, \"follow\") suggests the pronunciation \"cóng.\" The evolution from the simplified form to the traditional involved incorporating the semantic component to emphasize its meaning.",
-    "simplification": "從(從) was simplified to 从 by removing the 辵(辵) (chuò, \"walk; movement\") component, leaving the phonetic 从 (cóng, \"follow\") form."
+    "description": "semantic 辵(辵) ('walk; movement') + phonetic 从 (sound) -> follow",
+    "interpretation": "從(從) (cóng, 'to follow') combines the idea of 'walking' or 'movement' from 辵(辵) (chuò, 'walk; movement') with the sound symbolized by 从 (cóng, 'follow'), capturing the concept of moving along a path under guidance or direction.",
+    "simplification": "从 is a variant form directly used as the simplified form, adopting the earlier, less complex writing as the standard."
   },
   "parts": [
     {
@@ -20,19 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们从小就是好朋友(我們從小就是好朋友)。",
-      "pinyin": "Wǒmen cóng xiǎo jiù shì hǎo péngyǒu.",
-      "english": "We have been good friends since childhood."
+      "chinese": "你需要从这里开始(你需要從這裡開始)。",
+      "pinyin": "Nǐ xūyào cóng zhèlǐ kāishǐ.",
+      "english": "You need to start from here."
     },
     {
-      "chinese": "小猫跟着母亲从灌木丛中走出来(小貓跟著母親從灌木叢中走出來)。",
-      "pinyin": "Xiǎo māo gēnzhe mǔqīn cóng guànmùcóng zhōng zǒuchūlái.",
-      "english": "The kitten followed its mother out of the shrubbery."
+      "chinese": "她从小就喜欢画画(她從小就喜歡畫畫)。",
+      "pinyin": "Tā cóngxiǎo jiù xǐhuān huàhuà.",
+      "english": "She has liked drawing since she was a child."
     },
     {
-      "chinese": "从南方看，风景十分壮丽(從南方看，風景十分壯麗)。",
-      "pinyin": "Cóng nánfāng kàn, fēngjǐng shífēn zhuànglì.",
-      "english": "The scenery is magnificent when viewed from the south."
+      "chinese": "所有东西都从他的袋子里掉出来了(所有東西都從他的袋子裡掉出來了)。",
+      "pinyin": "Suǒyǒu dōngxī dōu cóng tā de dàizi lǐ diào chūláile.",
+      "english": "Everything fell out of his bag."
     }
   ]
 }

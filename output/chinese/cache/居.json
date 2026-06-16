@@ -5,8 +5,8 @@
   "english": "reside; live; dwell",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 尸(尸) (shī, \"corpse\") + phonetic 古(古) (gǔ, \"ancient\") -> reside; live; dwell",
-    "interpretation": "The character 居(jū, \"reside; live; dwell\") combines 尸(尸) (shī, \"corpse\"), suggesting a place one occupies, with 古(古) (gǔ, \"ancient\"), which provides the phonetic element. This reflects the idea of dwelling or living in a specific place.",
+    "description": "semantic 尸(尸) (shī, 'corpse; body') + phonetic 古(古) (gǔ, 'old') -> reside",
+    "interpretation": "The character 居 (jū, 'reside; live; dwell') combines 尸(尸) (shī, 'corpse; body') as the semantic component, suggesting a sense of rest or stillness, with 古(古) (gǔ, 'old') as the phonetic component. The phonetic 古 contributes the sound, while the semantic connection to 尸 evokes the image of remaining stationary, leading to the concepts of residing or dwelling in a place.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "尸",
       "trad": "尸",
       "pinyin": "shī",
-      "english": "corpse"
+      "english": "corpse; body"
     },
     {
       "char": "古",
       "trad": "古",
       "pinyin": "gǔ",
-      "english": "ancient"
+      "english": "old"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他居住在北京(他居住在北京)。",
-      "pinyin": "Tā jūzhù zài Běijīng.",
-      "english": "He resides in Beijing."
+      "chinese": "我居住在北京(我居住在北京)。",
+      "pinyin": "Wǒ jūzhù zài Běijīng.",
+      "english": "I reside in Beijing."
     },
     {
-      "chinese": "他们居家办公(他們居家辦公)，减少了通勤时间(減少了通勤時間)。",
-      "pinyin": "Tāmen jūjiā bàngōng, jiǎnshǎo le tōngqín shíjiān.",
-      "english": "They work from home, reducing commuting time."
+      "chinese": "他们在乡村居住过几年(他們在鄉村居住過幾年)。",
+      "pinyin": "Tāmen zài xiāngcūn jūzhù guò jǐ nián.",
+      "english": "They lived in the countryside for several years."
     },
     {
-      "chinese": "古代诗人常隐居在山林(古代詩人常隱居在山林)，以避世俗(以避世俗)。",
-      "pinyin": "Gǔdài shīrén cháng yǐnjū zài shānlín, yǐ bì shìsú.",
-      "english": "Ancient poets often secluded themselves in the mountains to escape worldly affairs."
+      "chinese": "我们打算长期居住在这里(我們打算長期居住在這裡)。",
+      "pinyin": "Wǒmen dǎsuàn chángqī jūzhù zài zhèlǐ.",
+      "english": "We plan to reside here long-term."
     }
   ]
 }

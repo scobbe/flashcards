@@ -5,40 +5,11 @@
   "english": "borders",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts three lines representing a territory outside city walls -> original form of 堂(堂) (táng, \"hall\") -> reversed form is 凵(凵) (kǎn, \"container\")",
-    "interpretation": "The character 冂(冂) (jiōng, \"borders\") symbolically represents an area extending beyond the boundaries of the urban environment, depicting open countryside. Its association with 堂(堂) (táng, \"hall\") as an original form suggests its use in depicting enclosed spaces like buildings.",
+    "description": "Depicts a simplified outline of a territory or enclosed space",
+    "interpretation": "冂(jiōng, \"borders\") depicts a simplified outline representing an enclosed territory or the boundary of a space, like an area beyond city walls or an enclosed building. This pictorial representation implies the concept of borders or edges, emphasizing separation from civilization.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "堂",
-      "trad": "堂",
-      "pinyin": "táng",
-      "english": "hall"
-    },
-    {
-      "char": "凵",
-      "trad": "凵",
-      "pinyin": "kǎn",
-      "english": "container"
-    }
-  ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "这幅画以冂为边框(這幅畫以冂為邊框)。",
-      "pinyin": "Zhè fú huà yǐ jiōng wéi biānkuàng.",
-      "english": "This painting uses 冂 as its border."
-    },
-    {
-      "chinese": "学校大门两旁各有一个冂装饰(學校大門兩旁各有一個冂裝飾)。",
-      "pinyin": "Xuéxiào dàmén liǎng páng gè yǒu yīgè jiōng zhuāngshì.",
-      "english": "There is a 冂 decoration on each side of the school gate."
-    },
-    {
-      "chinese": "古代的城池常用冂来象征国界(古代的城池常用冂來象徵國界)。",
-      "pinyin": "Gǔdài de chéngchí cháng yòng jiōng lái xiàngzhēng guójiè.",
-      "english": "In ancient times, cities often used 冂 to symbolize national borders."
-    }
-  ]
+  "parts": [],
+  "in_contemporary_usage": false,
+  "examples": []
 }

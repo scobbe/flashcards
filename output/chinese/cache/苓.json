@@ -4,23 +4,41 @@
   "pinyin": "líng",
   "english": "medicinal plant; poria",
   "etymology": {
-    "type": "variant",
-    "description": "苓(苓) (líng, \"medicinal plant\") is a variant form of 蓮(蓮) (lián, \"lotus\") -> stylized form developed from original",
-    "interpretation": "苓(苓) (líng, \"medicinal plant\") retains its association with plants and healing due to its formation as a variant of characters related to plants, such as 蓮(蓮) (lián, \"lotus\"). Although it serves a different function by referring specifically to a medicinal fungus, its roots lie in a shared thematic component of plants and health.",
+    "type": "phono-semantic compound",
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 令(令) (lìng) -> medicinal plant",
+    "interpretation": "苓(líng) combines 艹(艹) (cǎo, \"grass\") as the semantic component with 令(令) (lìng) as the phonetic component to signify a plant used in medicine, specifically referring to poria, a type of fungus with medicinal properties.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "令",
+      "trad": "令",
+      "pinyin": "lìng",
+      "english": "command; order"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医师用苓煎成汤剂(醫師用苓煎成湯劑)。",
-      "pinyin": "Yīshī yòng líng jiān chéng tāng jì.",
-      "english": "The doctor decocted the poria to make a herbal soup."
+      "chinese": "苓是一种药用植物(苓是一種藥用植物)。",
+      "pinyin": "Líng shì yī zhǒng yàoyòng zhíwù.",
+      "english": "Poria is a type of medicinal plant."
     },
     {
-      "chinese": "中药中常用苓(苓)，来调理健脾(來調理健脾)。",
-      "pinyin": "Zhōngyào zhōng cháng yòng líng, lái tiáolǐ jiànpí.",
-      "english": "Poria is often used in traditional Chinese medicine to improve spleen function."
+      "chinese": "许多人用苓来调理身体(許多人用苓來調理身體)。",
+      "pinyin": "Xǔduō rén yòng líng lái tiáolǐ shēntǐ.",
+      "english": "Many people use poria to regulate their bodies."
+    },
+    {
+      "chinese": "这种草药中含有苓和其他成分(這種草藥中含有苓和其他成分)。",
+      "pinyin": "Zhè zhǒng cǎoyào zhōng hányǒu líng hé qítā chéngfèn.",
+      "english": "This herbal medicine contains poria and other ingredients."
     }
   ]
 }

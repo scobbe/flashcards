@@ -48,6 +48,9 @@
   - 老( )人( )用( )巾( )给(給)手( )上( )包( )扎( )伤(傷)口( )。
     - Lǎorén yòng jīn gěi shǒu shàng bāozā shāngkǒu.
     - The elderly person uses a cloth to bandage the wound on his hand.
+- **historical forms:**
+
+![Historical forms of 巾](@media/glyph5dfe.png)
 ### 帮(幫) → 邦
 - **definition:** country
 - **pinyin:** bāng
@@ -72,6 +75,9 @@
   - 一( )个(個)善( )良( )的( )邦( )能( )让(讓)人( )民( )安( )居( )乐(樂)业(業)。
     - Yīgè shànliáng de bāng néng ràng rénmín ānjū lèyè。
     - A good nation enables its people to live in peace and prosperity.
+- **historical forms:**
+
+![Historical forms of 邦](@media/glyph90a6.png)
 ### 帮(幫) → 邦 → 丰(豐)
 - **traditional:** 豐
 - **definition:** abundant
@@ -97,6 +103,9 @@
   - 菜园里的番茄结得丰(豐)硕(碩)，老( )爷(爺)爷(爺)摘( )得( )满(滿)满(滿)当(當)当(當)。
     - Càiyuán lǐ de fānqié jié de fēngshuò, lǎo yéyé zhāi de mǎnmǎndāngdāng.
     - The tomatoes in the vegetable garden bore abundant fruit, and the old man picked them in plenty.
+- **historical forms:**
+
+![Historical forms of 丰](@media/glyph4e30.png)
 ### 帮(幫) → 邦 → 丰(豐) → 土
 - **definition:** ground
 - **pinyin:** tǔ
@@ -111,6 +120,9 @@
   - 院( )子( )里(裡)的( )土( )，适(適)合( )种(種)花( )。
     - Yuànzi lǐ de tǔ, shìhé zhòng huā.
     - The soil in the yard is suitable for planting flowers.
+- **historical forms:**
+
+![Historical forms of 土](@media/glyph571f.png)
 ### 帮(幫) → 邦 → 阝
 - **definition:** earthen mound
 - **pinyin:** fù

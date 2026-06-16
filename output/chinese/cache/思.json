@@ -5,35 +5,46 @@
   "english": "to think; consider; idea; thought",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "心(心) (xīn, \"heart\") + phonetic: 田(田) (tián) = the act of the heart dwelling or contemplating -> to think or consider",
-    "interpretation": "The character 思(sī, \"to think\") combines 心(心) (xīn, \"heart\") to represent the mind or emotions, with 田(田) (tián) as the phonetic component, indicating the sound. This suggests a process where thoughts originate or dwell in the heart, metaphorically speaking.",
+    "description": "囟(囟) (xìn, \"fontanel\") phonetic + 心(心) (xīn, \"heart\") semantic -> 囟 corrupted to 田(田) early -> 思",
+    "interpretation": "The character 思(sī, \"to think\") originally combines 囟(囟) (xìn, \"fontanel\") as a phonetic component with 心(心) (xīn, \"heart\") conveying the emotional aspect. The heart represents inner thought and emotion, while the involvement of the fontanel (an opening in the skull) originally suggested a connection to the brain, hence cognitive processes. Over time, 囟 corrupted into 田(田) due to script evolution, forming the modern character.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
+      "char": "囟",
+      "trad": "囟",
+      "pinyin": "xìn",
+      "english": "fontanel"
     },
     {
       "char": "心",
       "trad": "心",
       "pinyin": "xīn",
       "english": "heart"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我常常思考未来(我常常思考未來)。",
-      "pinyin": "wǒ chángcháng sīkǎo wèilái.",
-      "english": "I often contemplate the future."
+      "chinese": "他一直在思考这个问题(他一直在思考這個問題)。",
+      "pinyin": "Tā yīzhí zài sīkǎo zhège wèntí.",
+      "english": "He is constantly thinking about this issue."
     },
     {
-      "chinese": "她深深思念故乡(她深深思念故鄉)，心中充满温暖(心中充滿溫暖)。",
-      "pinyin": "tā shēnshēn sīniàn gùxiāng, xīnzhōng chōngmǎn wēnnuǎn.",
-      "english": "She deeply misses her hometown, and her heart is filled with warmth."
+      "chinese": "每次看到星星(每次看到星星)，我都会思念家人(我都會思念家人)。",
+      "pinyin": "Měicì kàndào xīngxīng, wǒ dūhuì sīniàn jiārén.",
+      "english": "Every time I see the stars, I think of my family."
+    },
+    {
+      "chinese": "沉思是获得新想法的好方法(沉思是獲得新想法的好方法)。",
+      "pinyin": "Chénsī shì huòdé xīn xiǎngfǎ de hǎo fāngfǎ.",
+      "english": "Meditation is a good way to gain new ideas."
     }
   ]
 }

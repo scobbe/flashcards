@@ -5,8 +5,8 @@
   "english": "nun",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "尸(尸) (shī, 'corpse') sitting on or leaning against 匕(匕) (bǐ, 'spoon') -> 'to stop' or 'close; intimate' -> later usage as 'nun'",
-    "interpretation": "The character 尼(尼) (ní, 'nun') originated from depicting one person sitting on or leaning against another, symbolizing a close or intimate state. This evolved into meanings related to stopping and intimacy, which by extension came to be associated with the concept of a nun, reflecting a person's commitment to a spiritual life.",
+    "description": "尸(尸) (shī, \"corpse\") + 匕(匕) (bǐ, \"ladle\") = man sitting or leaning on another man -> to stop or close; intimate",
+    "interpretation": "The character 尼 (ní, \"nun\") is composed of 尸 (shī, \"corpse\"), depicting a person, and 匕 (bǐ, \"ladle\"), which originally conveyed the idea of one person leaning on or closely associated with another, leading to the sense of being intimate or stopping. The association with nuns likely derives from the original sense of close association.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,20 @@
       "char": "匕",
       "trad": "匕",
       "pinyin": "bǐ",
-      "english": "spoon"
+      "english": "ladle"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "寺院里有一位慈爱的尼(寺院裡有一位慈愛的尼)。",
-      "pinyin": "Sìyuàn lǐ yǒu yī wèi cí'ài de ní.",
-      "english": "There is a kind-hearted nun in the temple."
+      "chinese": "这位尼姑总是在清晨祈祷(這位尼姑總是在清晨祈禱)。",
+      "pinyin": "Zhè wèi nígū zǒng shì zài qīngchén qídǎo.",
+      "english": "The nun always prays in the early morning."
     },
     {
-      "chinese": "那位尼每天诵经(那位尼每天誦經)，静心参禅(靜心參禪)。",
-      "pinyin": "Nà wèi ní měitiān sòngjīng, jìngxīn cānchán.",
-      "english": "That nun recites scriptures daily and meditates in tranquility."
-    },
-    {
-      "chinese": "这位尼身穿灰色僧袍(這位尼身穿灰色僧袍)，安静地阅读经典(安靜地閱讀經典)。",
-      "pinyin": "Zhè wèi ní shēn chuān huīsè sēngpáo, ānjìng de yuèdú jīngdiǎn.",
-      "english": "This nun, wearing a grey robe, reads the classics quietly."
+      "chinese": "小镇上的尼庵非常宁静(小鎮上的尼庵非常寧靜)。",
+      "pinyin": "Xiǎo zhèn shàng de ní'ān fēicháng níngjìng.",
+      "english": "The nunnery in the small town is very peaceful."
     }
   ]
 }

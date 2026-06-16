@@ -5,8 +5,8 @@
   "english": "toe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "足(足) (zú, \"foot\") + 止(止) (zhǐ, \"stop\") = semantic: foot + phonetic: stop -> toe",
-    "interpretation": "The character combines 足(足) (zú, \"foot\") as the semantic indicator and 止(止) (zhǐ, \"stop\") as the phonetic component to represent the idea of a 'toe,' which is a part of the foot.",
+    "description": "semantic 足 (zú, \"foot\") + phonetic 止 (zhǐ) -> toe",
+    "interpretation": "The character combines 足 (zú, \"foot\"), indicating the general area involved, with 止 (zhǐ) providing the sound and potentially suggesting the idea of a part of the foot that 'halts' or 'stops' progression, which naturally leads to the notion of a toe.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "止",
       "trad": "止",
       "pinyin": "zhǐ",
-      "english": "stop"
+      "english": "halt"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的趾因寒冷而僵硬了(他的趾因寒冷而僵硬了)。",
-      "pinyin": "tā de zhǐ yīn hánlěng ér jiāngyìng le.",
-      "english": "His toe became stiff due to the cold."
+      "chinese": "他的脚趾受伤了(他的腳趾受傷了)。",
+      "pinyin": "Tā de jiǎozhǐ shòushāng le.",
+      "english": "His toe is injured."
     },
     {
-      "chinese": "我走路时(我走路時)，不小心扭到了趾(不小心扭到了趾)。",
-      "pinyin": "wǒ zǒulù shí, bù xiǎoxīn niǔ dào le zhǐ.",
-      "english": "While I was walking, I accidentally twisted my toe."
+      "chinese": "她用脚趾轻轻地踢了一下球(她用腳趾輕輕地踢了一下球)。",
+      "pinyin": "Tā yòng jiǎozhǐ qīngqīng de tī le yīxià qiú.",
+      "english": "She gently kicked the ball with her toe."
     },
     {
-      "chinese": "古代剑客战斗时(古代劍客戰鬥時)，常因疏忽伤及趾(常因疏忽傷及趾)。",
-      "pinyin": "gǔdài jiànkè zhàndòu shí, cháng yīn shūhū shāng jí zhǐ.",
-      "english": "Ancient swordsmen often injured their toes due to carelessness during battles."
+      "chinese": "在沙滩上散步时(在沙灘上散步時)，我感受到沙子在我的脚趾间流动(我感受到沙子在我的腳趾間流動)。",
+      "pinyin": "Zài shātān shàng sànbù shí, wǒ gǎnshòu dào shāzi zài wǒ de jiǎozhǐ jiān liúdòng.",
+      "english": "While walking on the beach, I felt the sand flowing between my toes."
     }
   ]
 }

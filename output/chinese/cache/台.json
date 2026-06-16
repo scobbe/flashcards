@@ -5,40 +5,46 @@
   "english": "platform",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "之(之) (zhī, 'foot') as phonetic + 室(室) (shì, 'building') as semantic -> watch tower -> simplified from 臺",
-    "interpretation": "The character 臺 initially depicted a raised platform or watchtower, combining a phonetic component representing a base ('foot') with a semantic component indicating a structure. Over time, it semantically evolved to represent platforms in general.",
-    "simplification": "台 is a simplification where parts of the character 臺 were reduced and standardized."
+    "description": "abbreviated 喬(喬) (qiáo, \"tall\") + 室(室) (shì, \"building\") with phonetic 之(之) (zhī) -> 臺(臺)",
+    "interpretation": "The character 臺(臺) (tái, \"platform\") combines the idea of a 'tall' structure (depicted by an abbreviation of 喬(喬) (qiáo, \"tall\")) with the concept of a 'building' (室(室) (shì)), representing the imagery of a tower or elevated structure. The phonetic element 之(之) (zhī) contributes the sound, reinforcing the pronunciation without altering the fundamental notion of elevation or a platform-like structure.",
+    "simplification": ""
   },
   "parts": [
     {
-      "char": "之",
-      "trad": "之",
-      "pinyin": "zhī",
-      "english": "foot"
+      "char": "喬",
+      "trad": "喬",
+      "pinyin": "qiáo",
+      "english": "tall"
     },
     {
       "char": "室",
       "trad": "室",
       "pinyin": "shì",
       "english": "building"
+    },
+    {
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "foot"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "舞台上(舞台上)，演员表演得非常精彩(演員表演得非常精彩)。",
-      "pinyin": "Wǔtái shàng, yǎnyuán biǎoyǎn dé fēicháng jīngcǎi.",
-      "english": "On the stage, the actors performed exceptionally well."
+      "chinese": "主持人站在台上(主持人站在臺上)。",
+      "pinyin": "Zhǔchí rén zhàn zài tái shàng.",
+      "english": "The host stands on the platform."
     },
     {
-      "chinese": "电视台正在播新闻(電視台正在播新聞)。",
-      "pinyin": "Diànshìtái zhèngzài bō xīnwén.",
-      "english": "The TV station is broadcasting the news."
+      "chinese": "请走到台前(請走到臺前)，接受奖项(接受獎項)。",
+      "pinyin": "Qǐng zǒu dào tái qián, jiēshòu jiǎngxiàng.",
+      "english": "Please step to the front of the platform to receive the award."
     },
     {
-      "chinese": "我们登上观景台(我們登上觀景台)，欣赏城市的全景(欣賞城市的全景)。",
-      "pinyin": "Wǒmen dēng shàng guānjǐngtái, xīnshǎng chéngshì de quánjǐng.",
-      "english": "We went up the observation deck to enjoy the panoramic view of the city."
+      "chinese": "戏剧在大剧院的台上表演(戲劇在大劇院的臺上表演)。",
+      "pinyin": "Xìjù zài dà jùyuàn de tái shàng biǎoyǎn.",
+      "english": "The play was performed on the platform of the grand theater."
     }
   ]
 }

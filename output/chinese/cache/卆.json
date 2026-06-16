@@ -5,18 +5,11 @@
   "english": "graduation",
   "etymology": {
     "type": "unorthodox variant",
-    "description": "Unorthodox variant of 卒(卒) (zú, \"graduation\")",
-    "interpretation": "The character 卆(zú, \"graduation\") is an unorthodox variant of 卒(zú, \"graduation\") with no separate etymological development, serving the same phonetic and semantic role.",
+    "description": "Unorthodox variant of 卒",
+    "interpretation": "卆 is an unorthodox variant of 卒(卒) (zú, \"graduate\"), sharing its meaning. Its simplified form results from graphic alterations distinct from the standard components of 卒.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "卒",
-      "trad": "卒",
-      "pinyin": "zú",
-      "english": "graduation"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

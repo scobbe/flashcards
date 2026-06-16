@@ -5,8 +5,8 @@
   "english": "clear; fine [weather]",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 青(青) (qīng, phonetic) = sun shining brightly -> clear, fine (weather)",
-    "interpretation": "晴(晴) (qíng) combines the semantic element 日(日) (rì, \"sun\"), representing sunlight, with the phonetic 青(青) (qīng), suggesting clarity or brightness. Together, they convey the notion of clear, fine weather when the sun is unobstructed, which aligns with the character's meaning.",
+    "description": "semantic 日(日) (rì, \"sun\") + phonetic 青(青) (qīng) -> clear weather",
+    "interpretation": "The sun 日(日) (rì, \"sun\") represents the element of daytime or light, and 青(青) (qīng) provides the phonetic sound. Together, they form 晴, indicating clear or fine weather, as sunlight naturally suggests clarity and brightness in the sky.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "青",
       "trad": "青",
       "pinyin": "qīng",
-      "english": "blue-green"
+      "english": "green; blue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "今天天气晴(今天天氣晴)，万里无云(萬里無雲)。",
-      "pinyin": "Jīntiān tiānqì qíng, wànlǐ wú yún.",
-      "english": "Today's weather is clear, with not a cloud in sight."
+      "chinese": "今天的天气很晴(今天的天氣很晴)。",
+      "pinyin": "Jīntiān de tiānqì hěn qíng.",
+      "english": "Today's weather is very clear."
     },
     {
-      "chinese": "晴天适合出游(晴天適合出遊)。",
-      "pinyin": "Qíngtiān shìhé chūyóu.",
-      "english": "Clear weather is perfect for traveling."
+      "chinese": "早上的天空是晴的(早上的天空是晴的)，真美丽(真美麗)。",
+      "pinyin": "Zǎoshang de tiānkōng shì qíng de, zhēn měilì.",
+      "english": "The morning sky is clear, truly beautiful."
     },
     {
-      "chinese": "经过阴雨(經過陰雨)，现已转晴(現已轉晴)。",
-      "pinyin": "Jīngguò yīnyǔ, xiàn yǐ zhuǎn qíng.",
-      "english": "After days of rain, the weather has turned clear."
+      "chinese": "雨后总是会放晴(雨後總是會放晴)。",
+      "pinyin": "Yǔ hòu zǒng shì huì fàng qíng.",
+      "english": "It always clears up after the rain."
     }
   ]
 }

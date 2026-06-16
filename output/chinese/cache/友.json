@@ -1,0 +1,38 @@
+{
+  "simplified": "友",
+  "traditional": "友",
+  "pinyin": "yǒu",
+  "english": "friend",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 又(又) (yòu, 'again') + phonetic 又(又) (yòu, 'again') -> mutual reaching out -> friendship",
+    "interpretation": "The character 友(友) (yǒu, 'friend') depicts two iterations of 又(又) (yòu, 'again'), stylized to suggest two hands reaching towards each other, symbolizing mutual support and assistance fundamental to friendship.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们是好朋友(我們是好朋友)。",
+      "pinyin": "Wǒmen shì hǎo péngyǒu.",
+      "english": "We are good friends."
+    },
+    {
+      "chinese": "她喜欢和朋友一起去旅行(她喜歡和朋友一起去旅行)。",
+      "pinyin": "Tā xǐhuān hé péngyǒu yīqǐ qù lǚxíng.",
+      "english": "She likes to travel with friends."
+    },
+    {
+      "chinese": "每个人都需要朋友的支持(每個人都需要朋友的支持)。",
+      "pinyin": "Měi gèrén dōu xūyào péngyǒu de zhīchí.",
+      "english": "Everyone needs the support of friends."
+    }
+  ]
+}

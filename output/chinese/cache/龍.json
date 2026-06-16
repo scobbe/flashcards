@@ -5,22 +5,27 @@
   "english": "dragon",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a stylized dragon with exaggerated features, including a body, claws, and tail.",
-    "interpretation": "The character 龍(龍) (lóng, \"dragon\") represents a mythical creature in Chinese folklore, known for its power, majesty, and symbolic links to strength and good fortune. Its stylized depiction emphasizes these attributes.",
+    "description": "Depicts a sacred composite creature with features of snake, crocodile, fish, deer, etc. -> Large-mouthed beast head, S-shaped body, possibly scale-like patterns -> Head ornament elements resemble antlers or clan emblems -> Evolved into separate head (left) and body (right) parts in writing",
+    "interpretation": "The character 龍 (lóng, 'dragon') is a pictogram representing a mythical creature combining attributes like scales, a beast head, and an elongated body. Its depiction included antler-like ornaments or clan symbols, suggesting its status as a sacred animal in ancient China. The evolution of the character involved separating the head and body elements, reflecting practical adaptations in script forms over time.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古老的传说里有一条龍(古老的傳說裡有一條龙)，它能呼风唤雨(它能呼風喚雨)。",
-      "pinyin": "Gǔlǎo de chuánshuō lǐ yǒu yī tiáo lóng, tā néng hū fēng huàn yǔ。",
-      "english": "In ancient legends, there is a dragon; it can summon wind and rain."
+      "chinese": "在中国文化中，龙象征着权力和幸运(在中國文化中，龍象徵著權力和幸運)。",
+      "pinyin": "Zài Zhōngguó wénhuà zhōng, lóng xiàngzhēng zhe quánlì hé xìngyùn.",
+      "english": "In Chinese culture, the dragon symbolizes power and luck."
     },
     {
-      "chinese": "节日里舞龍表演吸引众人(節日裡舞龙表演吸引眾人)。",
-      "pinyin": "Jiérì lǐ wǔ lóng biǎoyǎn xīyǐn zhòngrén。",
-      "english": "During festivals, the dragon dance performance attracts everyone."
+      "chinese": "龙年被认为是特别吉祥的一年(龍年被認為是特別吉祥的一年)。",
+      "pinyin": "Lóngnián bèi rènwéi shì tèbié jíxiáng de yī nián.",
+      "english": "The Year of the Dragon is considered especially auspicious."
+    },
+    {
+      "chinese": "传说中的龙能够呼风唤雨(傳說中的龍能夠呼風喚雨)。",
+      "pinyin": "Chuánshuō zhōng de lóng nénggòu hū fēng huàn yǔ.",
+      "english": "Legendary dragons have the ability to call forth wind and rain."
     }
   ]
 }

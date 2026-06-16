@@ -5,8 +5,8 @@
   "english": "mm-hmm; uh-huh",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 恩(恩) (ēn) = vocal sound -> mm-hmm; uh-huh",
-    "interpretation": "The character 嗯(嗯) (èn, \"mm-hmm; uh-huh\") combines the semantic element 口(口) (kǒu, \"mouth\") to indicate a sound made with the mouth, with 恩(恩) (ēn) as the phonetic component. This highlights the character's function to represent a vocal expression like 'mm-hmm' or 'uh-huh'.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 恩(恩) (ēn) -> mouth sound to express acknowledgment",
+    "interpretation": "The character 嗯(嗯) (èn, \"mm-hmm; uh-huh\") combines 口(口) (kǒu, \"mouth\"), indicating a relation to speech or sound, with 恩(恩) (ēn) which provides the phonetic component. This forms a character that represents a nonverbal vocalization used to express agreement or acknowledgment, often heard in conversations.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "恩",
       "trad": "恩",
       "pinyin": "ēn",
-      "english": "en"
+      "english": "gratitude"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "嗯(嗯)。",
-      "pinyin": "èn.",
-      "english": "Mm-hmm."
+      "chinese": "他问我是否明白，我说嗯(嗯)。",
+      "pinyin": "Tā wèn wǒ shìfǒu míngbái, wǒ shuō èn.",
+      "english": "He asked if I understood, and I said mm-hmm."
     },
     {
-      "chinese": "嗯(嗯)，我听懂了(我聽懂了)。",
-      "pinyin": "èn, wǒ tīng dǒng le.",
-      "english": "Uh-huh, I understood."
+      "chinese": "妈妈说完故事，我回应说嗯(嗯)，然后睡着了(然後睡著了)。",
+      "pinyin": "Māma shuō wán gùshì, wǒ huíyìng shuō èn, ránhòu shuìzháo le.",
+      "english": "After mom finished the story, I responded with uh-huh, and then fell asleep."
     },
     {
-      "chinese": "他点头表示(他點頭表示)，嗯(嗯)，同意了(同意了)。",
-      "pinyin": "tā diǎn tóu biǎo shì, èn, tóng yì le.",
-      "english": "He nodded, uh-huh, and agreed."
+      "chinese": "他讲笑话时(他講笑話時)，我们都说嗯(嗯)来表示赞同(來表示贊同)。",
+      "pinyin": "Tā jiǎng xiàohuà shí, wǒmen dōu shuō èn lái biǎoshì zàntóng.",
+      "english": "When he told the joke, we all said uh-huh to show agreement."
     }
   ]
 }

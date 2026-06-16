@@ -5,14 +5,14 @@
   "english": "perfume; fragrance",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 分(分) (fēn, \"divide\") = fragrant essence of grass -> perfume",
-    "interpretation": "The character 芬(fēn) combines the 艹(艹) (cǎo, \"grass\") radical, indicating plant material or herbs, with 分(分) (fēn, \"divide\") for its sound, to convey the idea of a fragrance derived from natural sources like plants or herbs.",
+    "description": "semantic 艸(艸) ('grass') + phonetic 分(分) (fēn) -> perfume",
+    "interpretation": "The character 芬(fēn, 'perfume') combines 艸(艸) ('grass'), indicating a plant-related meaning, with the phonetic component 分(分) (fēn). The association with grass suggests the idea of fragrance that is often derived from plants, leading to the meaning of 'perfume' or 'fragrance'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "艹",
-      "trad": "艹",
+      "char": "艸",
+      "trad": "艸",
       "pinyin": "cǎo",
       "english": "grass"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "空气中弥漫着淡淡芬香(空氣中瀰漫著淡淡芬香)。",
-      "pinyin": "Kōngqì zhōng mímàn zhe dàndàn fēnxiāng.",
-      "english": "The air is filled with a faint fragrance."
+      "chinese": "花园里开满了不同的花儿(花園裡開滿了不同的花兒)，空气中弥漫着芬芳(空氣中瀰漫著芬芳)。",
+      "pinyin": "Huāyuán lǐ kāi mǎn le bùtóng de huār, kōngqì zhōng mímàn zhe fēnfāng.",
+      "english": "The garden is full of different flowers, and the air is filled with fragrance."
     },
     {
-      "chinese": "他喷洒了香水(他噴灑了香水)，使房间充满芬的气息(使房間充滿芬的氣息)。",
-      "pinyin": "Tā pēn sǎ le xiāngshuǐ, shǐ fángjiān chōngmǎn fēn de qìxī.",
-      "english": "He sprayed perfume, filling the room with a fragrance."
+      "chinese": "她用了一种特别的香水(她用了一種特別的香水)，让人感到一种迷人的芬香(讓人感到一種迷人的芬香)。",
+      "pinyin": "Tā yòng le yī zhǒng tèbié de xiāngshuǐ, ràng rén gǎndào yī zhǒng mírén de fēnxiāng.",
+      "english": "She used a special perfume that gave off a captivating fragrance."
+    },
+    {
+      "chinese": "走进古老的森林(走進古老的森林)，能闻到草木的天然芬香(能聞到草木的天然芬香)。",
+      "pinyin": "Zǒu jìn gǔlǎo de sēnlín, néng wén dào cǎomù de tiānrán fēnxiāng.",
+      "english": "Stepping into the ancient forest, one can smell the natural fragrance of the vegetation."
     }
   ]
 }

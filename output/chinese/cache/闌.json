@@ -5,8 +5,8 @@
   "english": "block",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "門(門) (mén, \"door\") + 柬(柬) (jiǎn, \"choose\") = door with a chosen boundary -> block",
-    "interpretation": "The character 闌(闌) (lán, \"block\") combines the semantic element 門(門) (mén, \"door\") suggesting an entrance or barrier, with the phonetic element 柬(柬) (jiǎn, \"choose\"), to indicate blocking or setting boundaries within a doorway.",
+    "description": "semantic 門(門) (mén, \"door\") + phonetic 柬(柬) (jiǎn, \"card\") -> block",
+    "interpretation": "The character 闌(lán, \"block\") combines the semantic component 門(門) (mén, \"door\") with the phonetic component 柬(柬) (jiǎn, \"card\"). The semantic element suggests a gateway or passage that can be closed or blocked, while the phonetic element contributes its sound. This reflects the idea of a barrier or closure, hence the meaning \"block.\"",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "柬",
       "trad": "柬",
       "pinyin": "jiǎn",
-      "english": "choose"
+      "english": "card"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那座低矮的建筑前设有闌(那座低矮的建築前設有闌)，以便阻挡行人(以便阻擋行人)。",
-      "pinyin": "Nà zuò dī'ǎi de jiànzhú qián shè yǒu lán, yǐbiàn zǔdǎng xíngrén.",
-      "english": "A barrier was installed before that low building to prevent pedestrians."
+      "chinese": "河水拦住了我们的去路(河水攔住了我們的去路)。",
+      "pinyin": "Héshuǐ lán zhùle wǒmen de qùlù.",
+      "english": "The river blocked our way."
     },
     {
-      "chinese": "道路两旁设置了闌(道路兩旁設置了闌)，防止垃圾进入(防止垃圾進入)。",
-      "pinyin": "Dàolù liǎng páng shèzhì le lán, fángzhǐ lājī jìnrù.",
-      "english": "Barriers were installed on both sides of the road to keep out trash."
+      "chinese": "警察在道路上设立了拦截点(警察在道路上設立了攔截點)。",
+      "pinyin": "Jǐngchá zài dàolù shàng shèlìle lánjié diǎn.",
+      "english": "The police set up a blockade on the road."
+    },
+    {
+      "chinese": "他的计划被家人拦下来了(他的計劃被家人攔下來了)。",
+      "pinyin": "Tā de jìhuà bèi jiārén lán xiàláile.",
+      "english": "His plan was blocked by his family."
     }
   ]
 }

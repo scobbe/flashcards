@@ -5,11 +5,17 @@
   "english": "worthy",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 臤 + semantic 貝 ('money') -> valuable or worthy like money",
-    "interpretation": "The character 賢(賢) (xián, 'worthy') combines 貝(貝) (bèi, 'money') which signifies value, with 臤 as the phonetic component suggesting sound. This illustrates the idea of someone being 'worthy' or 'valuable' akin to 'money,' thus worthy of esteem or respect.",
+    "description": "phonetic 臤 + semantic 貝 -> worthy, valuable",
+    "interpretation": "In 賢(賢) (xián, \"worthy\"), the character combines 臤(臤) (qiān, phonetic) with 貝(貝) (bèi, \"money\"). The inclusion of 貝(貝) suggests something of high worth or value, akin to money, while 臤(臤) contributes the sound. This confluence emphasizes the idea of 'worthiness' as something esteemed and valuable like money.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "臤",
+      "trad": "臤",
+      "pinyin": "qiān",
+      "english": "phonetic"
+    },
     {
       "char": "貝",
       "trad": "貝",
@@ -20,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位賢人(他是一位賢人)。",
-      "pinyin": "Tā shì yī wèi xián rén.",
-      "english": "He is a worthy man."
+      "chinese": "他是一位非常贤明的领导者(他是一位非常賢明的領導者)。",
+      "pinyin": "Tā shì yī wèi fēicháng xiánmíng de lǐngdǎozhě.",
+      "english": "He is a very wise leader."
     },
     {
-      "chinese": "他不仅聪明(他不僅聰明)，而且賢(而且賢)。",
-      "pinyin": "Tā bùjǐn cōngmíng, érqiě xián.",
-      "english": "He is not only intelligent, but also worthy."
+      "chinese": "这个城市以贤才闻名(這個城市以賢才聞名)。",
+      "pinyin": "Zhège chéngshì yǐ xiáncái wénmíng.",
+      "english": "This city is known for its talented and worthy people."
     },
     {
-      "chinese": "古时人们以忠诚兼賢(古時人們以忠誠兼賢)，作为立身之本(作為立身之本)。",
-      "pinyin": "Gǔshí rénmen yǐ zhōngchéng jiān xián, zuòwéi lìshēn zhī běn.",
-      "english": "In ancient times, people regarded loyalty and worthiness as the foundation of one's existence."
+      "chinese": "他们希望让更多贤能之士加入(他們希望讓更多賢能之士加入)。",
+      "pinyin": "Tāmen xīwàng ràng gèng duō xiánnéng zhī shì jiārù.",
+      "english": "They hope to have more competent and worthy individuals join."
     }
   ]
 }

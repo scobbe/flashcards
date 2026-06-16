@@ -5,8 +5,8 @@
   "english": "this",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "止(止) (zhǐ, \"feet\") + 人(人) (rén, \"person\") = where a person stops; here.",
-    "interpretation": "The character 此(cǐ, \"this\") illustrates a person stopping, symbolizing a specific location or context where one is present, thus meaning 'this.'",
+    "description": "止(止) (zhǐ, \"feet\") + 人(人) (rén, \"person\") = a person stops here -> this",
+    "interpretation": "The character combines 止(止) (zhǐ, \"feet\") and 人(人) (rén, \"person\") to suggest the idea of a person stopping at a particular location, leading to the meaning 'this', indicating something close by or at hand.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "此刻(此刻)，我们应该珍惜时间(我們應該珍惜時間)。",
-      "pinyin": "Cǐkè, wǒmen yīnggāi zhēnxī shíjiān.",
-      "english": "At this moment, we should cherish time."
+      "chinese": "此时此刻(此時此刻)，我感到非常幸福(我感到非常幸福)。",
+      "pinyin": "Cǐ shí cǐ kè, wǒ gǎndào fēicháng xìngfú.",
+      "english": "At this moment, I feel extremely happy."
     },
     {
-      "chinese": "请查看此文件(請查看此文件)。",
-      "pinyin": "Qǐng chákàn cǐ wénjiàn.",
-      "english": "Please review this document."
+      "chinese": "此书是我的最爱(此書是我的最愛)。",
+      "pinyin": "Cǐ shū shì wǒ de zuì ài.",
+      "english": "This book is my favorite."
     },
     {
-      "chinese": "此事不难解决(此事不難解決)。",
-      "pinyin": "Cǐ shì bù nán jiějué.",
-      "english": "This matter is not difficult to resolve."
+      "chinese": "从此以后(從此以後)，我们将每天见面(我們將每天見面)。",
+      "pinyin": "Cóng cǐ yǐhòu, wǒmen jiāng měitiān jiànmiàn.",
+      "english": "From this point on, we will meet every day."
     }
   ]
 }

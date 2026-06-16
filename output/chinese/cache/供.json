@@ -1,0 +1,44 @@
+{
+  "simplified": "供",
+  "traditional": "供",
+  "pinyin": "gòng",
+  "english": "to provide",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 亻(亻) (rén, \"person\") + phonetic 共(共) (gòng) -> to provide",
+    "interpretation": "The character 供(gòng, \"to provide\") combines the semantic element 亻(亻) (rén, \"person\"), indicating an action performed by people, with the phonetic element 共(共) (gòng), which contributes its sound. This phono-semantic composition logically leads to the meaning \"to provide,\" as it suggests a person engaged in the act of supplying or offering something.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "共",
+      "trad": "共",
+      "pinyin": "gòng",
+      "english": "together"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他们为灾区提供食物和水(他們為災區提供食物和水)。",
+      "pinyin": "Tāmen wèi zāiqū tígōng shíwù hé shuǐ.",
+      "english": "They provide food and water for the disaster area."
+    },
+    {
+      "chinese": "企业需要为员工提供更好的福利(企業需要為員工提供更好的福利)。",
+      "pinyin": "Qǐyè xūyào wèi yuángōng tígōng gèng hǎo de fúlì.",
+      "english": "Companies need to provide better benefits for their employees."
+    },
+    {
+      "chinese": "这个图书馆为学生提供免费书籍(這個圖書館為學生提供免費書籍)。",
+      "pinyin": "Zhège túshūguǎn wèi xuéshēng tígōng miǎnfèi shūjí.",
+      "english": "This library provides free books for students."
+    }
+  ]
+}

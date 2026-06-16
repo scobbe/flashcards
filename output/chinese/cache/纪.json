@@ -5,40 +5,40 @@
   "english": "record; chronicle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 己(己) (jǐ) -> record",
-    "interpretation": "The character 紀(紀) (jì, \"record\") combines 糸(糸) (mì, \"silk; thread\"), symbolizing the idea of threads or lines, with 己(己) (jǐ), which provides the phonetic element. Together, they form the concept of recording or chronicling, akin to weaving threads into a coherent narrative or account.",
-    "simplification": "紀(紀) was simplified to 纪(紀) by changing 糸(糸) (mì, \"silk; thread\") to its simpler counterpart 纟, reducing stroke count."
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 己(己) (jǐ) -> record; chronicle",
+    "interpretation": "Silk 糸(糸) (mì, \"silk; thread\") symbolizes threads or lines, which are integral to weaving or recording information. The phonetic component 己(己) (jǐ) contributes the sound. Together, they evoke the concept of creating a record, akin to weaving threads into a cohesive document or chronicle.",
+    "simplification": "纪 is simplified by replacing 糸(糸) (mì, \"silk; thread\") with its simpler form 纟, while retaining 己(己) (jǐ) as the phonetic component."
   },
   "parts": [
-    {
-      "char": "己",
-      "trad": "己",
-      "pinyin": "jǐ",
-      "english": "self"
-    },
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
       "english": "silk; thread"
+    },
+    {
+      "char": "己",
+      "trad": "己",
+      "pinyin": "jǐ",
+      "english": "self"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们把每年的活动都记录下来(我們把每年的活動都記錄下來)。",
-      "pinyin": "Wǒmen bǎ měinián de huódòng dōu jìlù xiàlái.",
-      "english": "We record all the activities of each year."
+      "chinese": "这本书记录了一个王朝的历史(這本書記錄了一個王朝的歷史)。",
+      "pinyin": "Zhè běn shū jìlùle yī gè wángcháo de lìshǐ.",
+      "english": "This book chronicles the history of a dynasty."
     },
     {
-      "chinese": "历史书中记录了许多重要的事件(歷史書中記錄了許多重要的事件)。",
-      "pinyin": "Lìshǐ shū zhōng jìlùle xǔduō zhòngyào de shìjiàn.",
-      "english": "Many important events are chronicled in history books."
+      "chinese": "他喜欢写日记(他喜歡寫日記)，用来记录生活(用來記錄生活)。",
+      "pinyin": "Tā xǐhuān xiě rìjì, yòng lái jìlù shēnghuó.",
+      "english": "He likes to write a diary to record his life."
     },
     {
-      "chinese": "他的生平被细致地记录在这本传记中(他的生平被細緻地記錄在這本傳記中)。",
-      "pinyin": "Tā de shēngpíng bèi xìzhì de jìlù zài zhè běn zhuànjì zhōng.",
-      "english": "His life is meticulously recorded in this biography."
+      "chinese": "这个博物馆收藏了许多古代文物(這個博物館收藏了許多古代文物)，记录了人类发展的历史(記錄了人類發展的歷史)。",
+      "pinyin": "Zhège bówùguǎn shōucángle xǔduō gǔdài wénwù, jìlùle rénlèi fāzhǎn de lìshǐ.",
+      "english": "This museum houses many ancient artifacts that chronicle the history of human development."
     }
   ]
 }

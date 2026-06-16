@@ -5,8 +5,8 @@
   "english": "education",
   "etymology": {
     "type": "compound word",
-    "description": "教(教) (jiào, \"teach\") refers to the act of teaching or instructing. 育(育) (yù, \"nurture\") means to nurture or cultivate. Combined, 教育(教育) (jiàoyù, \"education\") signifies the process of teaching and nurturing individuals for personal and intellectual development.",
-    "interpretation": "",
+    "description": "教(教) (jiào, \"teach\") + 育(育) (yù, \"raise; nurture; education; development\")",
+    "interpretation": "教(教) (jiào, \"teach\") suggests imparting knowledge or skill, while 育(育) (yù, \"raise; nurture; education; development\") implies fostering growth or development. Together, they form 教育(教育) (jiàoyù), which means \"education\", capturing both aspects of instruction and development, highlighting the dual focus of providing knowledge and nurturing personal growth and character.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "教",
       "trad": "教",
       "pinyin": "jiào",
-      "english": "teach; instruct; educate; religion"
+      "english": "teach"
     },
     {
       "char": "育",
       "trad": "育",
       "pinyin": "yù",
-      "english": "nurture; raise; educate; breed"
+      "english": "raise; nurture; education; development"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "教育是改变人生的重要途径(教育是改變人生的重要途徑)。",
-      "pinyin": "Jiàoyù shì gǎibiàn rénshēng de zhòngyào tújìng.",
-      "english": "Education is an important way to change one's life."
+      "chinese": "教育是社会发展的基础(教育是社會發展的基礎)。",
+      "pinyin": "Jiàoyù shì shèhuì fāzhǎn de jīchǔ.",
+      "english": "Education is the foundation of social development."
     },
     {
-      "chinese": "家庭重视教育(家庭重視教育)，社会支持学校建设(社會支持學校建設)。",
-      "pinyin": "Jiātíng zhòngshì jiàoyù, shèhuì zhīchí xuéxiào jiànshè.",
-      "english": "The family values education, and society supports school construction."
+      "chinese": "他在大学的教育经历丰富(他在大學的教育經歷豐富)。",
+      "pinyin": "Tā zài dàxué de jiàoyù jīnglì fēngfù.",
+      "english": "His educational experience in university is extensive."
     },
     {
-      "chinese": "古人认为教育培养人的品德(古人認為教育培養人的品德)。",
-      "pinyin": "Gǔrén rènwéi jiàoyù péiyǎng rén de pǐndé.",
-      "english": "Ancient people believed that education cultivates people's character."
+      "chinese": "政府正在努力改善农村地区的教育条件(政府正在努力改善農村地區的教育條件)。",
+      "pinyin": "Zhèngfǔ zhèngzài nǔlì gǎishàn nóngcūn dìqū de jiàoyù tiáojiàn.",
+      "english": "The government is working hard to improve the educational conditions in rural areas."
     }
   ]
 }

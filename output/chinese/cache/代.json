@@ -5,14 +5,14 @@
   "english": "generation",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 亻(亻) (rén, \"person\") + phonetic 弋(弋) (yì) = aids in pronunciation -> concept of replacing or succeeding, leading to the meaning 'generation'",
-    "interpretation": "The character combines the idea of a 'person' with a phonetic component to suggest a succession of people or generations. This association with both an individual and the continuity through different generations underpins its meaning.",
+    "description": "semantic 亻(人) (rén, \"person\") + phonetic 弋(弋) (yì) -> representing substitution or replacement among people",
+    "interpretation": "The character combines the element 亻(人) (rén, \"person\") indicating a person or people, with 弋(弋) (yì), which provides the sound. The concept of replacing or succeeding a person is central to the idea of 'generation', as one generation replaces another.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "亻",
-      "trad": "亻",
+      "trad": "人",
       "pinyin": "rén",
       "english": "person"
     },
@@ -20,25 +20,25 @@
       "char": "弋",
       "trad": "弋",
       "pinyin": "yì",
-      "english": "phonetic component"
+      "english": "a type of stick"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我这一代人肩负着责任(我這一代人肩負著責任)。",
-      "pinyin": "Wǒ zhè yī dài rén jiānfù zhe zérèn.",
-      "english": "Our generation bears the responsibility."
+      "chinese": "这一代的年轻人(這一代的年輕人)喜欢使用科技产品(喜歡使用科技產品)。",
+      "pinyin": "Zhè yī dài de niánqīng rén xǐhuān shǐyòng kējì chǎnpǐn.",
+      "english": "This generation of young people likes to use technology products."
     },
     {
-      "chinese": "老一代传授智慧(老一代傳授智慧)，年轻一代追求梦想(年輕一代追求夢想)。",
-      "pinyin": "Lǎo yī dài chuánshòu zhìhuì, niánqīng yī dài zhuīqiú mèngxiǎng.",
-      "english": "The older generation imparts wisdom, while the younger generation pursues dreams."
+      "chinese": "我们家已经传了好几代(我們家已經傳了好幾代)，每一代都有自己的故事(每一代都有自己的故事)。",
+      "pinyin": "Wǒmen jiā yǐjīng chuánle hǎo jǐ dài, měi yī dài dōu yǒu zìjǐ de gùshì.",
+      "english": "Our family has been passed down for several generations, and each generation has its own story."
     },
     {
-      "chinese": "新技术推动这代人创新(新技術推動這代人創新)。",
-      "pinyin": "Xīn jìshù tuīdòng zhè dài rén chuàngxīn.",
-      "english": "New technology drives innovation in this generation."
+      "chinese": "他将未来的希望寄托在下一代(他將未來的希望寄托在下一代)。",
+      "pinyin": "Tā jiāng wèilái de xīwàng jìtuō zài xià yī dài.",
+      "english": "He places his hopes for the future on the next generation."
     }
   ]
 }

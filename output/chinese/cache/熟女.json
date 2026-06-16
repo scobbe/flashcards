@@ -5,8 +5,8 @@
   "english": "stylish mature woman",
   "etymology": {
     "type": "compound word",
-    "description": "熟(熟) (shú, \"mature; ripe\") and 女(女) (nǚ, \"woman\") combine to form 熟女(熟女) (shúnǚ, \"stylish mature woman\").",
-    "interpretation": "The term 熟女(熟女) (shúnǚ) refers to a woman who is mature, both in age and demeanor, suggesting she may be sophisticated and stylish. This reflects a social recognition of the grace and confidence often attributed to women who have embraced their maturity.",
+    "description": "熟(熟) (shú, \"ripe; mature; familiar\") and 女(女) (nǚ, \"woman\") combine to describe a woman who is not only mature in age but also possesses the poise and style that can come from life experience.",
+    "interpretation": "熟(熟) (shú, \"ripe; mature; familiar\") provides the sense of having reached a stage of full development or maturity, like ripe fruit. This metaphorically extends to describing someone who has gained wisdom and sophistication with age. 女(女) (nǚ, \"woman\") specifically targets this maturity to women, together forming the concept of a 'stylish mature woman' who exudes both confidence and elegance. The word captures the idea that life experience can lead to a more polished and attractive demeanor.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "熟",
       "trad": "熟",
       "pinyin": "shú",
-      "english": "mature; ripe"
+      "english": "ripe; mature; familiar"
     },
     {
       "char": "女",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那位熟女穿着时尚(那位熟女穿著時尚)。",
-      "pinyin": "Nà wèi shúnǚ chuānzhuó shíshàng.",
-      "english": "That stylish mature woman is dressed fashionably."
+      "chinese": "她是一位典雅的熟女(她是一位典雅的熟女)。",
+      "pinyin": "Tā shì yī wèi diǎnyǎ de shúnǚ.",
+      "english": "She is an elegant stylish mature woman."
     },
     {
-      "chinese": "熟女走在街上(熟女走在街上)，吸引了许多目光(吸引了許多目光)。",
-      "pinyin": "Shúnǚ zǒu zài jiē shàng, xīyǐnle xǔduō mùguāng.",
-      "english": "The stylish mature woman walked on the street, attracting many glances."
+      "chinese": "这家时装店的顾客多是熟女(這家時裝店的顧客多是熟女)。",
+      "pinyin": "Zhè jiā shízhuāngdiàn de gùkè duō shì shúnǚ.",
+      "english": "Most customers at this boutique are stylish mature women."
     },
     {
-      "chinese": "熟女不仅具有成熟魅力(熟女不僅具有成熟魅力)，而且精通生活艺术(而且精通生活藝術)。",
-      "pinyin": "Shúnǚ bùjǐn jùyǒu chéngshú mèilì, érqiě jīngtōng shēnghuó yìshù.",
-      "english": "A stylish mature woman not only possesses a mature charm, but also masters the art of living."
+      "chinese": "熟女们(熟女們)通常对生活有自己独特的理解(通常對生活有自己獨特的理解)。",
+      "pinyin": "Shúnǚmen tōngcháng duì shēnghuó yǒu zìjǐ dútè de lǐjiě.",
+      "english": "Stylish mature women often have their unique understanding of life."
     }
   ]
 }

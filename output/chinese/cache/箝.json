@@ -5,8 +5,8 @@
   "english": "to pinch",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "竹(竹) (zhú, \"bamboo\") + 拑(拑) (qián, \"to pinch\") = pinching involving bamboo -> to pinch",
-    "interpretation": "The character 箝(qián) combines the semantic element 竹(竹) (zhú, \"bamboo\"), often associated with tools or objects made of bamboo, with the phonetic element 拑(拑) (qián, \"to pinch\") to convey the meaning of pinching, potentially suggesting a bamboo device or tool used for pinching.",
+    "description": "semantic 竹(竹) (zhú, \"bamboo\") + phonetic 拑(拑) -> bamboo tool to pinch",
+    "interpretation": "The character combines 竹(竹) (zhú, \"bamboo\"), which represents materials often used for making tools, with 拑(拑) as the phonetic element, suggesting a sound similar to it. Together, they form the concept of a bamboo instrument used for pinching or holding items securely.",
     "simplification": ""
   },
   "parts": [
@@ -23,6 +23,22 @@
       "english": "to pinch"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他用钳子箝住铁丝(他用鉗子箝住鐵絲)。",
+      "pinyin": "Tā yòng qiánzi qián zhù tiěsī.",
+      "english": "He used pliers to pinch the wire."
+    },
+    {
+      "chinese": "箝住大门让它不开(箝住大門讓它不開)，这可不是好主意(這可不是好主意)。",
+      "pinyin": "Qián zhù dàmén ràng tā bù kāi, zhè kě bù shì hǎo zhǔyì.",
+      "english": "Holding the door shut is not a good idea."
+    },
+    {
+      "chinese": "她紧张地箝住自己的手袋(她緊張地箝住自己的手袋)。",
+      "pinyin": "Tā jǐnzhāng de qián zhù zìjǐ de shǒudài.",
+      "english": "She anxiously clutched her handbag."
+    }
+  ]
 }

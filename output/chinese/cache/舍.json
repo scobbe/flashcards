@@ -5,8 +5,8 @@
   "english": "abandon; give up; renounce",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "余(余) (yú, \"I\") as phonetic + semantic 口(口) (kǒu, \"mouth\") added for distinction",
-    "interpretation": "The character 舍(舍) (shě, \"abandon\") combines the phonetic element 余(余) (yú, \"I\") with the semantic element 口(口) (kǒu, \"mouth\"). The original pictogram for 'abandon' was 余(余), and the addition of 口(口) distinguished it from other uses of 余(余). This construction suggests an action related to speaking or deciding, reflecting the act of giving up or renouncing something verbally or through action.",
+    "description": "original pictogram 余(余) (yú, \"surplus\") -> 口(口) (kǒu, \"mouth\") added for distinction",
+    "interpretation": "余(余) (yú, \"surplus\") originally represented the character but was ambiguous, so 口(口) (kǒu, \"mouth\") was added as a semantic component to clarify the meaning. The mouth suggests a place for speaking, leading to senses of leaving or giving up as one departs.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "余",
       "trad": "余",
       "pinyin": "yú",
-      "english": "\"I\""
+      "english": "surplus"
     },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
-      "english": "\"mouth\""
+      "english": "mouth"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她舍弃了舒适的生活(她捨棄了舒適的生活)。",
-      "pinyin": "Tā shě qì le shūshì de shēnghuó.",
-      "english": "She gave up a comfortable life."
-    },
-    {
       "chinese": "他舍不得离开家乡(他捨不得離開家鄉)。",
-      "pinyin": "Tā shě bù dé líkāi jiāxiāng.",
-      "english": "He is reluctant to leave his hometown."
+      "pinyin": "Tā shěbudé líkāi jiāxiāng.",
+      "english": "He is unwilling to abandon his hometown."
     },
     {
-      "chinese": "他舍去旧有的观念(他捨去舊有的觀念)，迎接新的挑战(迎接新的挑戰)。",
-      "pinyin": "Tā shě qù jiùyǒu de guānniàn, yíngjiē xīn de tiǎozhàn.",
-      "english": "He renounces old beliefs and embraces new challenges."
+      "chinese": "为了梦想，她舍弃了稳定的工作(為了夢想，她捨棄了穩定的工作)。",
+      "pinyin": "Wèile mèngxiǎng, tā shěqìle wěndìng de gōngzuò.",
+      "english": "She gave up a stable job for her dreams."
+    },
+    {
+      "chinese": "在紧急情况下，人们不会轻易舍命(在緊急情況下，人們不會輕易捨命)。",
+      "pinyin": "Zài jǐnjí qíngkuàng xià, rénmen bù huì qīngyì shěmìng.",
+      "english": "In an emergency, people won't easily give up their lives."
     }
   ]
 }

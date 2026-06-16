@@ -5,8 +5,8 @@
   "english": "green bean; string bean",
   "etymology": {
     "type": "compound word",
-    "description": "四(四) (sì, \"four\"), 季(季) (jì, \"season\"), 豆(豆) (dòu, \"bean\") combine to describe a vegetable available throughout the year.",
-    "interpretation": "The term 四季豆 (sìjìdòu) refers to green beans or string beans, emphasizing their availability in all four seasons. This suggests that they can be grown and consumed year-round.",
+    "description": "四(四) (sì, \"four\"), 季(季) (jì, \"season\"), and 豆(豆) (dòu, \"bean\"). The term literally refers to the 'bean of four seasons', implying a vegetable that is available throughout the year.",
+    "interpretation": "The combination of 四(四) (sì, \"four\") and 季(季) (jì, \"season\") highlights the bean's ability to be cultivated or consumed in all four seasons, pointing to its perennial availability and cultivation. 豆(豆) (dòu, \"bean\") specifies the type of produce, highlighting its identity as a bean, thus referring specifically to 'green bean' or 'string bean'. This implies a versatility and reliability in the bean's availability in various seasons.",
     "simplification": ""
   },
   "parts": [
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我午饭吃了四季豆(我午飯吃了四季豆)。",
-      "pinyin": "Wǒ wǔfàn chīle sìjìdòu.",
-      "english": "I ate string beans for lunch."
+      "chinese": "我喜欢吃四季豆(我喜歡吃四季豆)。",
+      "pinyin": "Wǒ xǐhuan chī sìjìdòu.",
+      "english": "I like to eat green beans."
     },
     {
-      "chinese": "妈妈炒四季豆(媽媽炒四季豆)，加了蒜末(加了蒜末)。",
-      "pinyin": "Māmā chǎo sìjìdòu, jiāle suàn mò.",
-      "english": "Mom stir-fried the string beans with minced garlic."
+      "chinese": "她在市场上买了很多新鲜的四季豆(她在市場上買了很多新鮮的四季豆)。",
+      "pinyin": "Tā zài shìchǎng shàng mǎile hěn duō xīnxiān de sìjìdòu.",
+      "english": "She bought a lot of fresh green beans at the market."
     },
     {
-      "chinese": "我们种了四季豆(我們種了四季豆)，享受健康生活(享受健康生活)。",
-      "pinyin": "Wǒmen zhòngle sìjìdòu, xiǎngshòu jiànkāng shēnghuó.",
-      "english": "We grew string beans, enjoying a healthy life."
+      "chinese": "四季豆可以用来做沙拉(四季豆可以用來做沙拉)，也可以用来炒菜(也可以用來炒菜)。",
+      "pinyin": "Sìjìdòu kěyǐ yòng lái zuò shālā, yě kěyǐ yòng lái chǎocài.",
+      "english": "Green beans can be used to make salads or for stir-fry."
     }
   ]
 }

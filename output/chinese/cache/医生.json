@@ -5,40 +5,40 @@
   "english": "doctor",
   "etymology": {
     "type": "compound word",
-    "description": "医(醫) (yī, \"medical\") refers to healing or medicine, while 生(生) (shēng, \"person\") typically denotes a person or someone who is involved in a particular activity.",
-    "interpretation": "An 医生(醫生) (yīshēng, \"doctor\") is a person involved in the practice of medicine and healing.",
-    "simplification": "医 is simplified from 醫."
+    "description": "醫(醫) (yī, \"to heal\") + 生(生) (shēng, \"life; birth; grow; raw\") = a person who heals life -> doctor",
+    "interpretation": "醫(醫) (yī, \"to heal\") combines the idea of treating and curing illnesses. 生(生) (shēng, \"life; birth; grow; raw\") refers to life and the act of giving life or allowing life to continue. Together, 醫生(醫生) (yīshēng, \"doctor\") conveys the role of a person who heals and restores life, emphasizing the doctor's function to maintain and improve health, thus 'doctor'.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "医",
       "trad": "醫",
       "pinyin": "yī",
-      "english": "medical; heal; doctor"
+      "english": "to heal; doctor; medicine"
     },
     {
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life; living; person; student"
+      "english": "life; birth; grow; raw"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是一位医生(他是一位醫生)。",
-      "pinyin": "Tā shì yī wèi yīshēng.",
-      "english": "He is a doctor."
+      "chinese": "我想成为一名医生(我想成為一名醫生)。",
+      "pinyin": "Wǒ xiǎng chéngwéi yī míng yīshēng.",
+      "english": "I want to become a doctor."
     },
     {
-      "chinese": "病人来到医院(病人來到醫院)，医生耐心问诊(醫生耐心問診)。",
-      "pinyin": "Bìngrén lái dào yīyuàn, yīshēng nàixīn wènzhěn.",
-      "english": "The patient came to the hospital, and the doctor patiently examined him."
+      "chinese": "医生给我开了药(醫生給我開了藥)。",
+      "pinyin": "Yīshēng gěi wǒ kāi le yào.",
+      "english": "The doctor prescribed medicine for me."
     },
     {
-      "chinese": "遇到紧急情况时(遇到緊急情況時)，医生总是第一时间出现(醫生總是第一時間出現)。",
-      "pinyin": "Yù dào jǐnjí qíngkuàng shí, yīshēng zǒng shì dì yī shíjiān chūxiàn.",
-      "english": "In emergencies, the doctor always shows up first."
+      "chinese": "这个医生很有经验(這個醫生很有經驗)。",
+      "pinyin": "Zhège yīshēng hěn yǒu jīngyàn.",
+      "english": "This doctor is very experienced."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "郎",
+  "traditional": "郎",
+  "pinyin": "láng",
+  "english": "young man",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 邑 (yì, \"county; town\") + phonetic 良 (liáng) -> young man",
+    "interpretation": "The character 郎 (láng, \"young man\") combines the phonetic component 良 (liáng, \"good\") with the semantic component 邑 (yì, \"county; town\"). The phonetic component 良 suggests the pronunciation of the character, while the semantic component 邑 indicates the historical setting or origin from a town or county, reflecting the role of young men as civil servants or those belonging to a locality.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "邑",
+      "trad": "邑",
+      "pinyin": "yì",
+      "english": "county; town"
+    },
+    {
+      "char": "良",
+      "trad": "良",
+      "pinyin": "liáng",
+      "english": "good"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那个年轻的郎吸引了很多人的注意(那個年輕的郎吸引了很多人的注意)。",
+      "pinyin": "Nàgè niánqīng de láng xīyǐnle hěnduō rén de zhùyì.",
+      "english": "That young man attracted a lot of attention."
+    },
+    {
+      "chinese": "她嫁给了一个勤劳的郎(她嫁給了一個勤勞的郎)。",
+      "pinyin": "Tā jià gěi le yī gè qínláo de láng.",
+      "english": "She married a hardworking young man."
+    },
+    {
+      "chinese": "庄里来了一个新的郎(莊裡來了一個新的郎)，大家都很好奇(大家都很好奇)。",
+      "pinyin": "Zhuāng lǐ lái le yī gè xīn de láng，dàjiā dōu hěn hàoqí.",
+      "english": "A new young man came to the village, and everyone was curious."
+    }
+  ]
+}

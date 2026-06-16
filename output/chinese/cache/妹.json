@@ -5,8 +5,8 @@
   "english": "younger sister",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 女(女) (nǚ, \"female, woman\") + phonetic 未(未) (mèi) -> female sibling -> younger sister",
-    "interpretation": "妹(妹) (mèi, \"younger sister\") combines 女(女) (nǚ, \"female, woman\") to indicate gender, with 未(未) (mèi) as a phonetic component to guide pronunciation. This reflects the traditional familial structure where siblings are often distinguished by relative age.",
+    "description": "semantic 女 (female, woman) + phonetic 未 -> younger sister",
+    "interpretation": "The character 妹 (mèi, \"younger sister\") uses 女 (nǚ, \"female, woman\") for its semantic part, indicating the gender, while 未 (wèi) provides the pronunciation. This combination suggests a female family member distinct from an older sister, leading to the meaning \"younger sister.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "女",
       "trad": "女",
       "pinyin": "nǚ",
-      "english": "female, woman"
+      "english": "female; woman"
     },
     {
       "char": "未",
       "trad": "未",
-      "pinyin": "mèi",
-      "english": ""
+      "pinyin": "wèi",
+      "english": "not yet"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有妹妹(我有妹妹)。",
-      "pinyin": "Wǒ yǒu mèimei.",
+      "chinese": "我有一个妹妹(我有一個妹妹)。",
+      "pinyin": "Wǒ yǒu yī gè mèimei.",
       "english": "I have a younger sister."
     },
     {
-      "chinese": "昨天见到妹妹(昨天見到妹妹)，她笑得很开心(她笑得很開心)。",
-      "pinyin": "Zuótiān jiàndào mèimei, tā xiào dé hěn kāixīn.",
-      "english": "I saw my younger sister yesterday, and she was smiling happily."
+      "chinese": "妹妹喜欢画画(妹妹喜歡畫畫)，她常常在家里画风景(她常常在家裡畫風景)。",
+      "pinyin": "Mèimei xǐhuān huàhuà, tā chángcháng zài jiālǐ huà fēngjǐng.",
+      "english": "My younger sister likes painting, she often paints landscapes at home."
     },
     {
-      "chinese": "我的妹妹喜欢画画(我的妹妹喜歡畫畫)，她梦想成为艺术家(她夢想成為藝術家)。",
-      "pinyin": "Wǒ de mèimei xǐhuān huàhuà, tā mèngxiǎng chéngwéi yìshùjiā.",
-      "english": "My younger sister loves painting, and she dreams of becoming an artist."
+      "chinese": "我送给妹妹一个新书包(我送給妹妹一個新書包)，她很开心(她很開心)。",
+      "pinyin": "Wǒ sòng gěi mèimei yī gè xīn shūbāo, tā hěn kāixīn.",
+      "english": "I gave my younger sister a new backpack, she was very happy."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "shade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "阜(阜) (fù, \"mound\") + 侌(侌) (yīn, \"hidden\") = indication of terrain like hills providing shade -> concept of \"shade\" or \"shadow\"",
-    "interpretation": "The character 陰 (yīn, \"shade\") combines 阜(阜) (fù, \"mound\") indicating terrain features, with 侌(侌) (yīn, \"hidden\") conveying the idea of concealment, to represent areas shaded by hills or mountains.",
-    "simplification": "陰 was simplified to 阴 by replacing 阜(阜) (fù, \"mound\") with 阝, a simpler component representing the same idea."
+    "description": "semantic 阜(阜) (fù, \"mound\") + phonetic 侌(侌) (yīn) -> shade",
+    "interpretation": "In 陰(陰) (yīn, \"shade\"), 阜(阜) (fù, \"mound\") contributes the sense of a physical elevation or barrier, implying an obstruction that creates shadow or shade. The phonetic 侌(侌) (yīn) lends its pronunciation to the character. The concept of 'shade' arises naturally as the mound or raised earth creates areas blocked from direct sunlight, thus shaded.",
+    "simplification": "阴(陰): 阜(阜) (fù, \"mound\") was simplified to 阝 (a radical version) while maintaining the phonetic portion for ease of writing."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "侌",
       "trad": "侌",
       "pinyin": "yīn",
-      "english": "hidden"
+      "english": "to darken"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "树下有阴凉(樹下有陰涼)。",
-      "pinyin": "Shù xià yǒu yīn liáng.",
-      "english": "There is cool shade under the tree."
+      "chinese": "树下总是很阴(樹下總是很陰)。",
+      "pinyin": "Shù xià zǒng shì hěn yīn.",
+      "english": "It's always shady under the tree."
     },
     {
-      "chinese": "在阴影下(在陰影下)，人们可以暂时躲避烈日(人們可以暫時躲避烈日)。",
-      "pinyin": "Zài yīn yǐng xià, rén men kě yǐ zàn shí duǒ bì liè rì.",
-      "english": "Under the shade, people can temporarily escape the scorching sun."
+      "chinese": "那条小巷总是在阴影下(那條小巷總是在陰影下)。",
+      "pinyin": "Nà tiáo xiǎo xiàng zǒng shì zài yīnyǐng xià.",
+      "english": "That alley is always in the shade."
+    },
+    {
+      "chinese": "他不喜欢在阴凉处坐着(他不喜歡在陰涼處坐著)。",
+      "pinyin": "Tā bù xǐhuān zài yīnliáng chù zuòzhe.",
+      "english": "He doesn't like sitting in the shade."
     }
   ]
 }

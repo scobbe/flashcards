@@ -4,29 +4,29 @@
   "pinyin": "mri",
   "english": "person with long hair",
   "etymology": {
-    "type": "variant form",
-    "description": "𡵂 is a variant form of 美",
-    "interpretation": "𡵂 shares its origins with 美, where 美 uses the elements 大 (dà, \"person\") and 羊 (yáng, \"ram or feathers\") to depict an image of a person wearing a headdress, combining stylistic and descriptive representation.",
+    "type": "pictogram",
+    "description": "Depicts a person (大) wearing feathered or horned headdress (now 羊) -> 美 (mĕi, 'beautiful') variant",
+    "interpretation": "𡵂 is a variant of 美 (mĕi, 'beautiful'), originally depicting a person adorned with a large headdress of feathers or ram's horns. The headdress symbolizes adornment or embellishment, giving the idea of beauty or elegance through decorative attire.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "美",
       "trad": "美",
-      "pinyin": "měi",
+      "pinyin": "mĕi",
       "english": "beautiful"
-    },
-    {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "person"
     },
     {
       "char": "羊",
       "trad": "羊",
       "pinyin": "yáng",
       "english": "ram"
+    },
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "person; big"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "cake",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "米(米) (mǐ, \"rice\") + 羔(羔) (gāo, \"lamb\") = rice-based food using lamb as phonetic reference -> cake",
-    "interpretation": "The character 糕(gāo) combines 米(米) (mǐ, \"rice\") to signify its use of rice flour in food products, with 羔(羔) (gāo, \"lamb\") serving as the phonetic component, subtly alluding to food and cooking.",
+    "description": "semantic 米(米) (mǐ, \"rice\") + phonetic 羔(羔) (gāo, \"lamb\") -> food made from rice flour",
+    "interpretation": "The character 糕(gāo, \"cake\") combines 米(米) (mǐ, \"rice\"), which provides the meaning related to rice as a primary ingredient, with 羔(羔) (gāo, \"lamb\") as a phonetic element. Although 羔 refers to a lamb, it contributes to the cooking or food preparation context of the term. Thus, 米's recast for rice-based delicacies leads to the definition of 'cake'.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我买了一个糕(我買了一個糕)。",
-      "pinyin": "Wǒ mǎile yīgè gāo.",
-      "english": "I bought a cake."
+      "chinese": "生日派对上她准备了一个大蛋糕(生日派對上她準備了一個大蛋糕)。",
+      "pinyin": "Shēngrì pàiduì shàng tā zhǔnbèi le yīgè dà dàngāo.",
+      "english": "She prepared a big cake for the birthday party."
     },
     {
-      "chinese": "这个糕很甜(這個糕很甜)，让人垂涎欲滴(讓人垂涎欲滴)。",
-      "pinyin": "Zhège gāo hěn tián, ràng rén chuíxián yù dī.",
-      "english": "This cake is very sweet, making people drool."
+      "chinese": "这个糕点是用红豆做的(這個糕點是用紅豆做的)。",
+      "pinyin": "Zhège gāodiǎn shì yòng hóngdòu zuò de.",
+      "english": "This pastry is made with red beans."
     },
     {
-      "chinese": "生日宴会上(生日宴會上)，大家享用了精美的糕(大家享用了精美的糕)。",
-      "pinyin": "Shēngrì yànhuì shàng, dàjiā xiǎngyòngle jīngměi de gāo.",
-      "english": "At the birthday party, everyone enjoyed the exquisite cake."
+      "chinese": "我喜欢吃绿茶口味的糕点(我喜歡吃綠茶口味的糕點)。",
+      "pinyin": "Wǒ xǐhuān chī lǜchá kǒuwèi de gāodiǎn.",
+      "english": "I like to eat green tea flavored pastries."
     }
   ]
 }

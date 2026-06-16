@@ -5,13 +5,13 @@
   "english": "cool",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "氵(水) (shuǐ, \"water\") + phonetic 京(京) (jīng) = coolness related to water -> 涼",
-    "interpretation": "The character 涼(涼) (liáng, \"cool\") combines the water radical 氵(水) (shuǐ, \"water\") with the phonetic 京(京) (jīng) to convey the idea of coolness or freshness typically associated with water.",
-    "simplification": "涼(涼) was simplified to 凉(涼) by removing the water radical 氵(水) (shuǐ, \"water\") and retaining the phonetic 京(京), thus reducing strokes while maintaining phonetic sound."
+    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 京(京) (jīng) -> cool temperature",
+    "interpretation": "The character 涼 (liáng, \"cool\") combines the semantic component 氵(水) (shuǐ, \"water\"), representing the cooling effect of water, with the phonetic component 京(京) (jīng) for its sound. This combination intuitively suggests a sense of coolness, as water often has a cooling effect, while 京 provides the sound for the word.",
+    "simplification": "凉 is a simplified form where the radical 氵was replaced with 冫(bīng, \"ice\") to keep the reference to coldness and further reduce stroke count."
   },
   "parts": [
     {
-      "char": "氵",
+      "char": "水",
       "trad": "水",
       "pinyin": "shuǐ",
       "english": "water"
@@ -20,25 +20,25 @@
       "char": "京",
       "trad": "京",
       "pinyin": "jīng",
-      "english": ""
+      "english": "capital (city); used phonetically"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夏日午后很凉(夏日午後很涼)。",
-      "pinyin": "Xià rì wǔhòu hěn liáng.",
-      "english": "The summer afternoon is cool."
+      "chinese": "风吹来的时候很凉(風吹來的時候很涼)。",
+      "pinyin": "Fēng chuī lái de shíhòu hěn liáng.",
+      "english": "It's cool when the wind blows."
     },
     {
-      "chinese": "微风吹过(微風吹過)，带来丝丝凉意(帶來絲絲涼意)。",
-      "pinyin": "Wēifēng chuīguò, dài lái sī sī liáng yì.",
-      "english": "The breeze blows by, bringing a hint of coolness."
+      "chinese": "凉爽的夜晚让人感到舒适(涼爽的夜晚讓人感到舒適)。",
+      "pinyin": "Liángshuǎng de yèwǎn ràng rén gǎndào shūshì.",
+      "english": "A cool night feels comfortable."
     },
     {
-      "chinese": "夏夜乘凉(夏夜乘涼)，享受微风(享受微風)。",
-      "pinyin": "Xià yè chéng liáng, xiǎngshòu wēifēng.",
-      "english": "Taking in the coolness of a summer night while enjoying the gentle breeze."
+      "chinese": "这杯茶已经凉了(這杯茶已經涼了)。",
+      "pinyin": "Zhè bēi chá yǐjīng liáng le.",
+      "english": "This cup of tea has already cooled down."
     }
   ]
 }

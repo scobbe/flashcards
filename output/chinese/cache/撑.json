@@ -5,9 +5,9 @@
   "english": "support; prop up",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "手(手) (shǒu, \"hand\") + phonetic: 牚(牚) (chēng, \"prop up\") = action involving the hand -> support or prop up",
-    "interpretation": "The character 撐(撐) (chēng, \"support\") brings together the concept of a hand, represented by 手(手) (shǒu, \"hand\"), with the phonetic component 牚(牚) (chēng, \"prop up\"), to convey the idea of using one's hand to physically support or prop something up.",
-    "simplification": ""
+    "description": "semantic 手(手) (shǒu, \"hand\") + phonetic 牚(牚) (chēng)",
+    "interpretation": "撐(撐) (chēng, \"support; prop up\") combines 手(手) (shǒu, \"hand\") as the semantic element, indicating an action done by hand, with 牚(牚) as the phonetic part providing the sound. This suggests the action of using hands to hold something up or keep it in place, directly tied to the meaning \"support; prop up.\"",
+    "simplification": "The traditional character 撐 is simplified in form through script simplification, which is not explained through descriptions of phonetically or semantically related components."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "牚",
       "trad": "牚",
       "pinyin": "chēng",
-      "english": "prop up"
+      "english": "to support; to prop"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用木棍撑起破旧的屋顶(他用木棍撐起破舊的屋頂)。",
-      "pinyin": "Tā yòng mùgùn chēng qǐ pòjiù de wūdǐng。",
-      "english": "He propped up the dilapidated roof with a wooden stick."
+      "chinese": "他用木棍撑住门(他用木棍撐住門)。",
+      "pinyin": "Tā yòng mùgùn chēngzhù mén.",
+      "english": "He propped the door open with a stick."
     },
     {
-      "chinese": "朋友们的鼓励撑起了他的信心(朋友們的鼓勵撐起了他的信心)，让他勇敢面对挑战(讓他勇敢面對挑戰)。",
-      "pinyin": "Péngyǒumen de gǔlì chēng qǐle tā de xìnxīn, ràng tā yǒnggǎn miànduì tiǎozhàn。",
-      "english": "The encouragement from his friends supported his confidence, enabling him to face challenges bravely."
+      "chinese": "这把椅子可以撑很多重量(這把椅子可以撐很多重量)。",
+      "pinyin": "Zhè bǎ yǐzi kěyǐ chēng hěnduō zhòngliàng.",
+      "english": "This chair can support a lot of weight."
+    },
+    {
+      "chinese": "我们必须互相撑着(我們必須互相撐著)，度过这些难关(度過這些難關)。",
+      "pinyin": "Wǒmen bìxū hùxiāng chēngzhe, dùguò zhèxiē nánguān.",
+      "english": "We must support each other to get through these difficult times."
     }
   ]
 }

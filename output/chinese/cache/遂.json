@@ -4,9 +4,9 @@
   "pinyin": "suì",
   "english": "comply",
   "etymology": {
-    "type": "Phono-semantic compound",
-    "description": "辵(辵) (chuò, \"walk\") + phonetic 㒸 (suì) = semantic for movement + phonetic value -> comply",
-    "interpretation": "In the character 遂(遂), 辵(辵) (chuò, \"walk\") signifies movement, while 㒸 provides the sound. Together, it conveys the idea of going along with or complying.",
+    "type": "phono-semantic compound",
+    "description": "semantic 辵(辵) (chuò, 'walk; movement') + phonetic 㒸 (suì) -> comply",
+    "interpretation": "The character 遂(suì, 'comply') combines the semantic element 辵(辵) (chuò, 'walk; movement'), suggesting an action or progression, with the phonetic component 㒸 (suì), which contributes the sound. The notion of 'comply' can be linked to the idea of moving or walking in accordance with a certain path or directive.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "辵",
       "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     },
     {
       "char": "㒸",
       "trad": "㒸",
       "pinyin": "suì",
-      "english": ""
+      "english": "not defined"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他接到命令后(他接到命令後)，遂立刻出发(遂立刻出發)。",
-      "pinyin": "Tā jiēdào mìnglìng hòu, suì lìkè chūfā.",
-      "english": "After receiving the command, he complied and set off immediately."
+      "chinese": "他虽然反对(他雖然反對)，但最后还是遂了父母的愿望(但最後還是遂了父母的願望)。",
+      "pinyin": "Tā suīrán fǎnduì，dàn zuìhòu háishì suìle fùmǔ de yuànwàng。",
+      "english": "Although he opposed, he eventually complied with his parents' wishes."
     },
     {
-      "chinese": "他遂遵从安排(他遂遵從安排)。",
-      "pinyin": "Tā suì zūncóng ānpái.",
-      "english": "He complied with the arrangement."
+      "chinese": "他们遂了舆论的压力(他們遂了輿論的壓力)，改进了政策(改進了政策)。",
+      "pinyin": "Tāmen suìle yúlùn de yālì，gǎijìnle zhèngcè。",
+      "english": "They complied with public pressure and improved the policy."
     },
     {
-      "chinese": "长官发布指令后(長官發布指令後)，士兵遂迅速集合(士兵遂迅速集合)。",
-      "pinyin": "Zhǎngguān fābù zhǐlìng hòu, shìbīng suì xùnsù jíhé.",
-      "english": "After the superior issued the command, the soldiers complied and assembled quickly."
+      "chinese": "经理决定遂大多数员工的意见(經理決定遂大多數員工的意見)，调整公司战略(調整公司戰略)。",
+      "pinyin": "Jīnglǐ juédìng suì dàduōshù yuángōng de yìjiàn，tiáozhěng gōngsī zhànlüè。",
+      "english": "The manager decided to comply with the majority of employees' opinions and adjust the company's strategy."
     }
   ]
 }

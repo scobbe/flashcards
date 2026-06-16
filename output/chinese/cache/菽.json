@@ -5,8 +5,8 @@
   "english": "pulse",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + 叔(叔) (shū, \"uncle\") = plant-related term with phonetic value from 叔",
-    "interpretation": "The character 菽(shū, \"pulse\") combines the semantic 艹(艹) (cǎo, \"grass\") to indicate a plant-related concept, with the phonetic element 叔(叔) (shū) to suggest its pronunciation. This reflects the agricultural context of 'pulse' as a type of leguminous plant.",
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 叔(叔) (shū) -> pulse",
+    "interpretation": "The semantic component 艹(艹) (cǎo, \"grass\") suggests a connection to plants, aligning with the character's meaning 'pulse' that refers to legumes, which are types of plants. The phonetic component 叔(叔) (shū) provides the sound.",
     "simplification": ""
   },
   "parts": [
@@ -23,22 +23,6 @@
       "english": "uncle"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "农人耕种菽田(農人耕種菽田)，迎接秋收(迎接秋收)。",
-      "pinyin": "Nóng rén gēngzhòng shū tián, yíngjiē qiūshōu.",
-      "english": "The farmers cultivate pulse fields, welcoming the autumn harvest."
-    },
-    {
-      "chinese": "他用菽研磨出浓香豆浆(他用菽研磨出濃香豆漿)，享受健康生活(享受健康生活)。",
-      "pinyin": "Tā yòng shū yánmó chū nóngxiāng dòujiāng, xiǎngshòu jiànkāng shēnghuó.",
-      "english": "He grinds pulses to make fragrant soy milk, enjoying a healthy life."
-    },
-    {
-      "chinese": "春天里菽花绽放(春天裏菽花綻放)。",
-      "pinyin": "Chūntiān lǐ shū huā zhànfàng.",
-      "english": "In spring, the pulse flowers bloom."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

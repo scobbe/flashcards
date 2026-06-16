@@ -5,14 +5,14 @@
   "english": "accuse, blame",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 广(广/廣) (guǎng, \"building\") + phonetic: originally 屰(屰) (nì, \"disobedient\") -> later 干(干/幹) (gàn, \"do\") + traditionally 厂(厂) (hǎn, \"cliff\") -> final form 斥",
-    "interpretation": "The character 斥(斥) (chì, \"accuse\") combines elements that convey both structure and action, linking the concept of accusation to a space and action dynamic. Initially, 屰(屰) (nì) provided phonetic guidance, suggesting action or doing, while 广(广/廣) (guǎng) offered a spatial connotation. The transformation to 干(干/幹) (gàn) and 厂(厂) (hǎn) simplified and solidified the meaning while maintaining phonetic relationships. This evolution reflects a shift from spatial structure to interaction, aligning with the character's contemporary meaning.",
-    "simplification": "No simplification; traditional and simplified forms are the same."
+    "description": "Originally 㡿: semantic 广 ('building') + phonetic 屰 ('nì') -> 广 simplified to 厂 + 屰 became 干 -> 斥",
+    "interpretation": "The original form 㡿 combined 广 (guǎng, 'building') for its meaning with 屰 (nì) for its sound. Over time, 广 was simplified to 厂 (hǎn, 'cliff'), and the character 屰 was replaced by 干 (gān, 'to offend'), leading to the modern form 斥 traditionally associated with openness or exposure, which aligns with the senses of accusing or blaming as an act of openly calling attention to someone's faults.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "广",
-      "trad": "广",
+      "trad": "廣",
       "pinyin": "guǎng",
       "english": "building"
     },
@@ -20,17 +20,17 @@
       "char": "屰",
       "trad": "屰",
       "pinyin": "nì",
-      "english": "disobedient"
+      "english": "contrary"
     },
     {
       "char": "干",
-      "trad": "干",
-      "pinyin": "gàn",
-      "english": "do"
+      "trad": "幹",
+      "pinyin": "gān",
+      "english": "to offend"
     },
     {
       "char": "厂",
-      "trad": "厂",
+      "trad": "廣",
       "pinyin": "hǎn",
       "english": "cliff"
     }
@@ -38,19 +38,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "父母斥责不听话的孩子(父母斥責不聽話的孩子)。",
-      "pinyin": "fùmǔ chìzé bù tīnghuà de háizi.",
-      "english": "Parents blame disobedient children."
+      "chinese": "他被老板斥责(他被老闆斥責)。",
+      "pinyin": "Tā bèi lǎobǎn chìzé.",
+      "english": "He was reprimanded by the boss."
     },
     {
-      "chinese": "他斥责了错误的意见(他斥責了錯誤的意見)。",
-      "pinyin": "tā chìzé le cuòwù de yìjiàn.",
-      "english": "He accused the idea of being wrong."
+      "chinese": "父母常常斥责他不努力(父母常常斥責他不努力)。",
+      "pinyin": "Fùmǔ chángcháng chìzé tā bù nǔlì.",
+      "english": "His parents often reprimand him for not working hard."
     },
     {
-      "chinese": "领导斥责员工懒散(領導斥責員工懶散)。",
-      "pinyin": "lǐngdǎo chìzé yuángōng lǎnsǎn.",
-      "english": "The leader blamed the employees for being lazy."
+      "chinese": "老师斥责学生不遵守纪律(老師斥責學生不遵守紀律)。",
+      "pinyin": "Lǎoshī chìzé xuéshēng bù zūnshǒu jìlǜ.",
+      "english": "The teacher reprimanded the students for not following the rules."
     }
   ]
 }

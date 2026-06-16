@@ -4,17 +4,17 @@
   "pinyin": "nì",
   "english": "reverse",
   "etymology": {
-    "type": "Ideogrammic compound and phono-semantic compound",
-    "description": "辶(辶) (chuò, 'movement') + 屰(屰) (nì, 'go against') = moving in the opposite direction -> reverse",
-    "interpretation": "The character 逆(逆) (nì, 'reverse') combines the movement radical 辶(辶) (chuò, 'movement') with the phonetic 屰(屰) (nì, 'go against') to convey the idea of going against the flow or being contrary. This dual function emphasizes both the meaning and sound, reflecting the idea of 'reverse' or 'disobedience' in its construction.",
+    "type": "phono-semantic compound",
+    "description": "semantic 辵(辵) (chuò, \"walk; movement\") + phonetic 屰(屰) (nì, \"go against\") -> going in the opposite direction",
+    "interpretation": "The character 逆(nì, \"reverse\") combines 辵(辵) (chuò, \"walk; movement\") indicating movement with 屰(屰) (nì, \"go against\") providing the sound and the concept of opposition. This creates the idea of going against the direction of movement, leading to meanings like reverse and contrary.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "辶",
-      "trad": "辶",
+      "char": "辵",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "movement"
+      "english": "walk; movement"
     },
     {
       "char": "屰",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他逆风而行(他逆風而行)。",
-      "pinyin": "Tā nì fēng ér xíng.",
-      "english": "He goes against the wind."
+      "chinese": "他逆着风前进(他逆著風前進)。",
+      "pinyin": "Tā nìzhe fēng qiánjìn.",
+      "english": "He moved forward against the wind."
     },
     {
-      "chinese": "他们选择逆水行舟(他們選擇逆水行舟)，不畏艰难(不畏艱難)。",
-      "pinyin": "Tāmen xuǎn zé nì shuǐ xíng zhōu, bù wèi jiān nán.",
-      "english": "They choose to row against the current, undaunted by difficulties."
+      "chinese": "鱼逆流而上(魚逆流而上)。",
+      "pinyin": "Yú nìliú ér shàng.",
+      "english": "The fish swim upstream."
     },
     {
-      "chinese": "在逆境中奋斗(在逆境中奮鬥)，终将迎来曙光(終將迎來曙光)。",
-      "pinyin": "Zài nì jìng zhōng fèn dòu, zhōng jiāng yíng lái shǔ guāng.",
-      "english": "Struggling in adversity, one will eventually see the dawn."
+      "chinese": "在困难面前(在困難面前)，他从不逆来顺受(他從不逆來順受)。",
+      "pinyin": "Zài kùnnán miànqián, tā cóng bù nìlái shùnshòu.",
+      "english": "In the face of difficulties, he never submits to adversity."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "beak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 此(cǐ, \"this\") + semantic 角(jiǎo, \"horn\") -> beak",
-    "interpretation": "The character 觜(觜) (zuǐ, \"beak\") combines the phonetic component 此(此) (cǐ, \"this\") with the semantic component 角(角) (jiǎo, \"horn\") to convey the idea of a pointed projection, similar to a horn, representing a bird's beak.",
+    "description": "phonetic 此(此) (cǐ, \"this\") + semantic 角(角) (jiǎo, \"horn\") -> beak",
+    "interpretation": "The character 觜 (zuǐ, \"beak\") combines the phonetic element 此(此) (cǐ, \"this\") with the semantic element 角(角) (jiǎo, \"horn\"). The semantic part 角(角) suggests something pointed or protruding, which intuitively fits with the concept of a beak.",
     "simplification": ""
   },
   "parts": [

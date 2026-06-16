@@ -2,11 +2,11 @@
   "simplified": "𡍬",
   "traditional": "𡍬",
   "pinyin": "mluɡ",
-  "english": "phonetic component",
+  "english": "a long time",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 圥 + semantic 囧 (\"eye\") -> phonetic component",
-    "interpretation": "The character combines the phonetic element 圥 to suggest sound with the semantic element 囧 representing an \"eye,\" forming a character used as a phonetic component in other words.",
+    "description": "phonetic 圥(\"sound\") + semantic 囧(\"eye\") -> a long time",
+    "interpretation": "The character 𡍬 uses 圥 for its phonetic component to convey the sound and incorporates 囧, which depicts an 'eye', to suggest a visual or observational aspect that figuratively relates to the passage of 'a long time'. The idea is likely that something observed over a great period, as an eye might witness, conveys the meaning of duration.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "圥",
       "trad": "圥",
       "pinyin": "lù",
-      "english": "phonetic component"
+      "english": "\"sound\""
     },
     {
       "char": "囧",

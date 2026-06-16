@@ -5,8 +5,8 @@
   "english": "palm; slap",
   "etymology": {
     "type": "compound word",
-    "description": "巴(巴) (bā, \"to cling\") + 掌(掌) (zhǎng, \"palm\") combine to describe the flat part of the hand, which can be used to deliver a slap. This imagery captures both the anatomical and functional aspect of the word.",
-    "interpretation": "The term 巴掌(bāzhang) describes the palm of the hand, focusing on its use for clinging or grasping, and by extension, its ability to give a slap. This reflects a practical understanding of the hand's function.",
+    "description": "巴(bā, \"to hold onto; cling\") 掌(zhǎng, \"palm; to slap\")",
+    "interpretation": "巴(bā, \"to hold onto; cling to\") suggests grasping onto something, which links to the idea of a 'palm' where one holds or grasps items. 掌(zhǎng, \"palm; to slap\") directly describes the flat, broad shape of the hand's palm, fitting its role in slapping. Together, 巴掌(bāzhang) conveys the sense of a palm, a part of the hand capable of clinging and slapping.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "巴",
       "trad": "巴",
       "pinyin": "bā",
-      "english": "to cling; to hope"
+      "english": "to hold onto; cling"
     },
     {
       "char": "掌",
       "trad": "掌",
       "pinyin": "zhǎng",
-      "english": "palm; control"
+      "english": "palm; to slap"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的巴掌很用力(他的巴掌很用力)。",
-      "pinyin": "Tā de bāzhang hěn yònglì.",
-      "english": "His slap was very forceful."
+      "chinese": "他愤怒地拍了一下巴掌(他憤怒地拍了一下巴掌)。",
+      "pinyin": "Tā fènnù de pāile yīxià bāzhang.",
+      "english": "He angrily slapped his palm."
     },
     {
-      "chinese": "小孩们在课堂上开玩笑(小孩們在課堂上開玩笑)，老师生气地拍了拍桌子(老師生氣地拍了拍桌子)，但没有打巴掌(但沒有打巴掌)。",
-      "pinyin": "Xiǎohái men zài kètáng shàng kāiwánxiào, lǎoshī shēngqì de pāile pāi zhuōzi, dàn méiyǒu dǎ bāzhang.",
-      "english": "The children joked in class, the teacher angrily patted the table, but didn't slap."
+      "chinese": "孩子用力地击了一下自己的巴掌(孩子用力地擊了一下自己的巴掌)。",
+      "pinyin": "Háizi yònglì de jīle yīxià zìjǐ de bāzhang.",
+      "english": "The child forcefully slapped his own palm."
     },
     {
-      "chinese": "他的脸上有一个红红的巴掌印(他的臉上有一個紅紅的巴掌印)。",
-      "pinyin": "Tā de liǎn shàng yǒu yīgè hónghóng de bāzhang yìn.",
-      "english": "There was a red palm print on his face."
+      "chinese": "他的巴掌打得很响(他的巴掌打得很響)。",
+      "pinyin": "Tā de bāzhang dǎ de hěn xiǎng.",
+      "english": "His slap was very loud."
     }
   ]
 }

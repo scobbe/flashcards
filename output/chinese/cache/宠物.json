@@ -5,40 +5,40 @@
   "english": "pet",
   "etymology": {
     "type": "compound word",
-    "description": "宠(寵) (chǒng, \"favor; pamper\") + 物(物) (wù, \"thing; object\") = favored thing -> pet",
-    "interpretation": "The word 宠物(寵物) (chǒngwù, \"pet\") combines 宠(寵) (chǒng, \"favor; pamper\") and 物(物) (wù, \"thing; object\"), reflecting the idea of an animal being a favored or pampered object in a household.",
-    "simplification": "traditional 寵 simplified to 宠"
+    "description": "寵(寵) (chǒng, \"to pamper\") + 物(物) (wù, \"thing\") = an object of pampering -> pet",
+    "interpretation": "寵(寵) (chǒng, \"to pamper\") suggests an action of showing affection, treating someone or something with great care. 物(物) (wù, \"thing\") refers to an object or being. Together, 寵物(寵物) creates the idea of an entity that receives affection and pampering, logically leading to the sense of a \"pet,\" which is often cared for and loved as part of the family.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "宠",
       "trad": "寵",
       "pinyin": "chǒng",
-      "english": "favor; pamper"
+      "english": "to pamper"
     },
     {
       "char": "物",
       "trad": "物",
       "pinyin": "wù",
-      "english": "thing; object"
+      "english": "thing"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我家养了一只宠物(我家養了一隻寵物)。",
-      "pinyin": "Wǒ jiā yǎng le yī zhī chǒngwù.",
-      "english": "My family has a pet."
+      "chinese": "我们有一只可爱的宠物狗(我們有一隻可愛的寵物狗)。",
+      "pinyin": "Wǒmen yǒu yī zhī kě'ài de chǒngwù gǒu.",
+      "english": "We have a cute pet dog."
     },
     {
-      "chinese": "宠物给我很多快乐(寵物給我很多快樂)，它们总是陪伴我(它們總是陪伴我)。",
-      "pinyin": "Chǒngwù gěi wǒ hěn duō kuàilè, tāmen zǒng shì péibàn wǒ.",
-      "english": "Pets bring me a lot of joy, and they always accompany me."
+      "chinese": "小猫是最受欢迎的宠物之一(小貓是最受歡迎的寵物之一)。",
+      "pinyin": "Xiǎo māo shì zuì shòu huānyíng de chǒngwù zhī yī.",
+      "english": "Kittens are one of the most popular pets."
     },
     {
-      "chinese": "我喜欢照顾宠物(我喜歡照顧寵物)，因为它们让我感到温暖(因為它們讓我感到溫暖)。",
-      "pinyin": "Wǒ xǐhuān zhàogù chǒngwù, yīnwèi tāmen ràng wǒ gǎn dào wēnnuǎn.",
-      "english": "I like taking care of pets because they make me feel warm."
+      "chinese": "带宠物去看兽医是很重要的(帶寵物去看獸醫是很重要的)。",
+      "pinyin": "Dài chǒngwù qù kàn shòuyī shì hěn zhòngyào de.",
+      "english": "It's important to take pets to the veterinarian."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "lead; usher; take",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "令(令) (lìng, \"order\") + 頁(頁) (yè, \"head\") = order or leadership pertaining to the head -> lead; usher; take",
-    "interpretation": "In the traditional form 領(lǐng, \"lead\"), 令(令) (lìng, \"order\") serves as the phonetic component, suggesting sound, while 頁(頁) (yè, \"head\") provides semantic value, indicating a concept related to leadership or guidance.",
-    "simplification": "領(領)→领(領): 頁(頁) (yè, \"head\") was simplified to 页(頁) for easier writing."
+    "description": "semantic 頁(頁) (yè, \"head\") + phonetic 令(令) (lìng, \"order\") -> lead; usher; take",
+    "interpretation": "Semantic 頁(頁) (yè, \"head\") suggests direction or leadership, as the head leads the body. Phonetic 令(令) (lìng, \"order\") provides the sound, enhancing the concept of directing or leading, where orders are followed. The combination reflects the idea of guiding or taking the lead, akin to a head giving direction to an order.",
+    "simplification": "領(領) was simplified by reducing 頁(頁) to 页(頁), decreasing stroke count without altering phonetic 令(令)."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她总是选择带头(她總是選擇帶頭)，因为她喜欢领大家去新的高度(因為她喜歡領大家去新的高度)。",
-      "pinyin": "Tā zǒng shì xuǎnzé dàitóu, yīnwèi tā xǐhuān lǐng dàjiā qù xīn de gāodù.",
-      "english": "She always chooses to lead because she likes to usher everyone to new heights."
+      "chinese": "他带领我们去参观博物馆(他帶領我們去參觀博物館)。",
+      "pinyin": "Tā dàilǐng wǒmen qù cānguān bówùguǎn.",
+      "english": "He led us to visit the museum."
     },
     {
-      "chinese": "导游会在十点钟领游客去博物馆(導遊會在十點鐘領遊客去博物館)。",
-      "pinyin": "Dǎoyóu huì zài shí diǎn zhōng lǐng yóukè qù bówùguǎn.",
-      "english": "The tour guide will take the tourists to the museum at ten o'clock."
+      "chinese": "她在课堂上总是能领会到老师的意思(她在課堂上總是能領會到老師的意思)。",
+      "pinyin": "Tā zài kètáng shàng zǒng shì néng lǐnghuì dào lǎoshī de yìsi.",
+      "english": "She always grasps the teacher's meaning in class."
     },
     {
-      "chinese": "他在比赛中领着球队获得了胜利(他在比賽中領著球隊獲得了勝利)。",
-      "pinyin": "Tā zài bǐsài zhōng lǐngzhe qiúduì huòdéle shènglì.",
-      "english": "He led the team to victory in the match."
+      "chinese": "经过他的领导(經過他的領導)，团队取得了巨大进步(團隊取得了巨大進步)。",
+      "pinyin": "Jīngguò tā de lǐngdǎo, tuánduì qǔdéle jùdà jìnbù.",
+      "english": "Under his leadership, the team made significant progress."
     }
   ]
 }

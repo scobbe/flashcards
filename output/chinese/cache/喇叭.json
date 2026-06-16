@@ -5,8 +5,8 @@
   "english": "horn; trumpet",
   "etymology": {
     "type": "compound word",
-    "description": "喇(喇) (lǎ, \"horn; sound of a trumpet\") and 叭(叭) (bā, \"trumpet sound\") combine to form \"喇叭(喇叭)\" (lǎbā, \"horn; trumpet\").",
-    "interpretation": "The word 喇叭(喇叭) (lǎbā, \"horn; trumpet\") consists of two components both associated with sound or musical noise, emphasizing the loud, attention-grabbing effect of a horn or trumpet.",
+    "description": "喇(喇) (lǎ, \"horn sound\") originally represents the sound of blowing an instrument. 叭(叭) (bā, \"trumpet sound\") denotes the sound made by a horn or trumpet. Together, 喇叭(lǎbā, \"horn; trumpet\") represents a musical instrument that produces a loud, brassy sound.",
+    "interpretation": "喇(喇) (lǎ, \"horn sound\") signifies the auditory experience associated with blowing through a horn-shaped instrument. 叭(叭) (bā, \"trumpet sound\"), a sound loan, further emphasizes the distinct trumpet-like sound. The combination produces the concept of a 'horn' or 'trumpet,' directly capturing the loud, piercing sound associated with these musical instruments.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "喇",
       "trad": "喇",
       "pinyin": "lǎ",
-      "english": "horn; sound of a trumpet"
+      "english": "horn sound; throat sound"
     },
     {
       "char": "叭",
       "trad": "叭",
       "pinyin": "bā",
-      "english": "trumpet sound"
+      "english": "trumpet sound; a loud noise"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "司机按喇叭叫停闯红灯的人(司機按喇叭叫停闖紅燈的人)。",
-      "pinyin": "Sījī àn lǎbā jiào tíng chuǎng hóngdēng de rén.",
-      "english": "The driver honked the horn to stop the person running a red light."
+      "chinese": "他说话像个喇叭(他說話像個喇叭)。",
+      "pinyin": "Tā shuōhuà xiàng gè lǎbā.",
+      "english": "He talks like a horn."
     },
     {
-      "chinese": "音乐会上(音樂會上)，喇叭和小号演奏出激昂的旋律(喇叭和小號演奏出激昂的旋律)。",
-      "pinyin": "Yīnyuè huì shàng, lǎbā hé xiǎohào yǎnzòu chū jī'áng de xuánlǜ.",
-      "english": "At the concert, the horn and the trumpet played an inspiring melody."
+      "chinese": "汽车的喇叭响了(汽車的喇叭響了)，司机开始紧张(司機開始緊張)。",
+      "pinyin": "Qìchē de lǎbā xiǎngle, sījī kāishǐ jǐnzhāng.",
+      "english": "The car's horn sounded, and the driver began to feel nervous."
+    },
+    {
+      "chinese": "小狗被喇叭的声音吓到了(小狗被喇叭的聲音嚇到了)。",
+      "pinyin": "Xiǎo gǒu bèi lǎbā de shēngyīn xià dào le.",
+      "english": "The puppy was frightened by the sound of the horn."
     }
   ]
 }

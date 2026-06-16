@@ -5,8 +5,8 @@
   "english": "afternoon",
   "etymology": {
     "type": "compound word",
-    "description": "下(下) (xià, \"below; under\") and 午(午) (wǔ, \"noon\") combine to form 下午(下午) (xiàwǔ, \"afternoon\"). This combination represents the time period \"below\" or following \"noon.\" In this context, 下(下) (xià, \"below; under\") indicates the period of time after noon has passed.",
-    "interpretation": "The word 下午(下午) indicates the time period that follows noon, representing the afternoon as the part of the day after the sun has reached its highest point.",
+    "description": "下(下) (xià, \"below\") + 午(午) (wǔ, \"noon\") = the period after noon",
+    "interpretation": "下(下) (xià, \"below\") indicates a position after or below in sequence, and 午(午) (wǔ, \"noon\") refers to the middle of the day. Thus, in 上午(上午), their combination suggests the 'afternoon,' being the time below or after noon.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "下",
       "trad": "下",
       "pinyin": "xià",
-      "english": "below; under"
+      "english": "below; under; next time"
     },
     {
       "char": "午",
       "trad": "午",
       "pinyin": "wǔ",
-      "english": "noon"
+      "english": "noon; midday"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "下午两点开会(下午兩點開會)。",
-      "pinyin": "xiàwǔ liǎng diǎn kāihuì.",
-      "english": "Meeting at two in the afternoon."
+      "chinese": "下午(下午)，我和朋友去看电影(我和朋友去看電影)。",
+      "pinyin": "Xiàwǔ, wǒ hé péngyǒu qù kàn diànyǐng.",
+      "english": "In the afternoon, my friend and I go to watch a movie."
     },
     {
-      "chinese": "我喜欢在下午读书(我喜歡在下午讀書)。",
-      "pinyin": "wǒ xǐhuān zài xiàwǔ dúshū.",
-      "english": "I like reading in the afternoon."
+      "chinese": "每天的下午(每天的下午)，他都去公园散步(他都去公園散步)。",
+      "pinyin": "Měitiān de xiàwǔ, tā dōu qù gōngyuán sànbù.",
+      "english": "Every afternoon, he goes to the park for a walk."
     },
     {
-      "chinese": "下午茶时间到了(下午茶時間到了)。",
-      "pinyin": "xiàwǔ chá shíjiān dào le.",
-      "english": "It's tea time in the afternoon."
+      "chinese": "我们将在下午开会(我們將在下午開會)。",
+      "pinyin": "Wǒmen jiāng zài xiàwǔ kāihuì.",
+      "english": "We will have a meeting in the afternoon."
     }
   ]
 }

@@ -5,22 +5,22 @@
   "english": "attempt; try; intend",
   "etymology": {
     "type": "compound word",
-    "description": "企(企) (qǐ, \"to plan or stand on tiptoe\") and 图(圖) (tú, \"to plan or intend\")",
-    "interpretation": "The combination of 企(企) (qǐ, \"to plan or stand on tiptoe\") and 图(圖) (tú, \"to plan or intend\") expresses the notion of actively planning or intending to achieve a goal. Both components involve aspects of making a deliberate effort or intention.",
-    "simplification": "simplified from 企圖"
+    "description": "企(企) (qǐ, \"to plan\") + 图(圖) (tú, \"map; plan; diagram\") = the act of planning or plotting something.",
+    "interpretation": "企(企) (qǐ, \"to plan\") involves a deliberate positioning, standing on tiptoe emblematizes reaching for something, signifying preparation or intent. 图(圖) (tú, \"map; plan; diagram\") traditionally refers to a drawn plan or project. Together, the characters form the concept of formulating a strategy or making an \"attempt\" or \"intention\" to achieve something. The sense of 'intention' derives from the idea of establishing a visual or mental outline of one's goals before acting upon them.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "企",
       "trad": "企",
       "pinyin": "qǐ",
-      "english": "to plan; stand on tiptoe; look forward to"
+      "english": "to plan; to stand on tiptoe"
     },
     {
       "char": "图",
       "trad": "圖",
       "pinyin": "tú",
-      "english": "to plan; to scheme; intention; chart"
+      "english": "map; plan; diagram; to intend"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,14 +31,14 @@
       "english": "He attempted to escape."
     },
     {
-      "chinese": "公司企图拓展市场(公司企圖拓展市場)，忽视了内部管理(忽視了內部管理)。",
-      "pinyin": "Gōngsī qǐtú tuòzhǎn shìchǎng, hūshìle nèibù guǎnlǐ.",
-      "english": "The company attempted to expand into the market while neglecting internal management."
+      "chinese": "他们的企图被发现了(他們的企圖被發現了)。",
+      "pinyin": "Tāmen de qǐtú bèi fāxiàn le.",
+      "english": "Their attempt was discovered."
     },
     {
-      "chinese": "他企图说服老师(他企圖說服老師)，改变态度(改變態度)。",
-      "pinyin": "Tā qǐtú shuōfú lǎoshī, gǎibiàn tàidù.",
-      "english": "He attempted to persuade his teacher to change his attitude."
+      "chinese": "即使失败了(即使失敗了)，他仍然不放弃他的企图(他仍然不放棄他的企圖)。",
+      "pinyin": "Jíshǐ shībàile, tā réngrán bù fàngqì tā de qǐtú.",
+      "english": "Even if he failed, he still didn't give up his attempt."
     }
   ]
 }

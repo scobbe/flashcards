@@ -5,35 +5,40 @@
   "english": "Lingnan culture",
   "etymology": {
     "type": "compound word",
-    "description": "岭(嶺) (lǐng, \"mountain range\") refers to the geographical region south of the Five Ridges. 南(南) (nán, \"south\") specifies the direction this refers to. 文化(文化) (wénhuà, \"culture\") signifies the customs, art, social institutions, and achievements of the people in the Lingnan region. The Lingnan area, primarily covering parts of Guangdong and Guangxi, is historically known for its rich diversity influenced by both central Chinese and indigenous cultures.",
-    "interpretation": "Lingnan culture is the unique set of cultural characteristics that developed in the region south of the Five Ridges, heavily influenced by both Han Chinese culture and local ethnolinguistic groups. This cultural identity is distinct due to its history of geographic isolation and interaction with foreign influences through trade.",
-    "simplification": "岭南文化"
+    "description": "岭(嶺) (lǐng, \"mountain range\") refers to the mountain ranges in southern China, while 南(南) (nán, \"south\") specifies the southern direction. Combining, 岭南(嶺南) (lǐngnán, \"south of the mountain ranges\") refers to the area south of the Nanling Mountains. 文化(文化) (wénhuà, \"culture\") denotes the customs, arts, and social institutions of a particular group or society. Thus, 岭南文化(嶺南文化) (lǐngnán wénhuà, \"Lingnan culture\") signifies the cultural characteristics specific to the region south of the Nanling Mountains, known for its unique blend of influences from indigenous peoples and Chinese immigrants.",
+    "interpretation": "岭(嶺) (lǐng, \"mountain range\") with 南(南) (nán, \"south\") literally describes the area south of the mountainous terrain, specifically the Nanling Mountains in southern China. This geographical reference informs the cultural blending that defines 岭南(嶺南) (lǐngnán), as the region became a melting pot of different traditions. 文化(文化) (wénhuà, \"culture\") then encapsulates the distinctive cultural identity resulting from such historical and geographical interactions. This combination highlights the specific cultural dynamics that evolved uniquely to the region south of the Nanling Mountains, known for its diverse and rich cultural expressions.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "岭南",
       "trad": "嶺南",
       "pinyin": "lǐngnán",
-      "english": "south of the mountains"
+      "english": "south of the mountain ranges"
     },
     {
       "char": "文化",
       "trad": "文化",
       "pinyin": "wénhuà",
-      "english": "culture"
+      "english": "culture; customs; civilization"
     }
   ],
-  "in_contemporary_usage": true,
+  "in_contemporary_usage": false,
   "examples": [
     {
-      "chinese": "岭南文化源远流长(嶺南文化源遠流長)。",
-      "pinyin": "Lǐngnán wénhuà yuányuǎn liúcháng.",
-      "english": "Lingnan culture has a long and deep history."
+      "chinese": "岭南文化(嶺南文化)历史悠久(歷史悠久)。",
+      "pinyin": "Lǐngnán wénhuà lìshǐ yōujiǔ.",
+      "english": "Lingnan culture has a long history."
     },
     {
-      "chinese": "岭南文化博大精深(嶺南文化博大精深)，吸引着众多学者(吸引著眾多學者)。",
-      "pinyin": "Lǐngnán wénhuà bó dà jīng shēn, xīyǐn zhe zhòngduō xuézhě.",
-      "english": "Lingnan culture is profound and intricate, attracting many scholars."
+      "chinese": "岭南文化(嶺南文化)融合了多种文化(融合了多種文化)，形成了独特的风格(形成了獨特的風格)。",
+      "pinyin": "Lǐngnán wénhuà rónghéle duō zhǒng wénhuà, xíngchéngle dútè de fēnggé.",
+      "english": "Lingnan culture integrates various cultures, forming a unique style."
+    },
+    {
+      "chinese": "许多人研究岭南文化(許多人研究嶺南文化)，因为它丰富多彩(因為它豐富多彩)。",
+      "pinyin": "Xǔduō rén yánjiū Lǐngnán wénhuà, yīnwèi tā fēngfù duōcǎi.",
+      "english": "Many people study Lingnan culture because it is colorful and diverse."
     }
   ]
 }

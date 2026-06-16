@@ -5,8 +5,8 @@
   "english": "participate; attend; take part in; counsel",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "晶(晶) (jīng, \"stars\") + 光(光) (guāng, \"light; brightness\") + 彡(彡) (shān, \"light rays\") = Three Stars mansion -> depiction of brightness from stars",
-    "interpretation": "The character 參(cān) originally depicted the Three Stars mansion, using components symbolizing stars, light, and light rays to create a vivid representation of brightness in the night sky.",
+    "description": "晶 (stars) + 光 (light; brightness) + 彡 (light rays) -> Three Stars mansion",
+    "interpretation": "The character combines 晶(晶) (jīng, 'stars'), 光(光) (guāng, 'light; brightness'), and 彡(彡) (shān, 'light rays'), depicting the Three Stars mansion in the sky. These elements together intuitively convey the idea of being part of a constellation, symbolically aligning with the meanings of 'participate' or 'take part in'.",
     "simplification": ""
   },
   "parts": [
@@ -32,19 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他决定参加今天的会议(他決定參加今天的會議)。",
-      "pinyin": "Tā juédìng cānjiā jīntiān de huìyì.",
-      "english": "He decided to participate in today's meeting."
+      "chinese": "我想参加这个活动(我想參加這個活動)。",
+      "pinyin": "Wǒ xiǎng cānjiā zhège huódòng.",
+      "english": "I want to participate in this event."
     },
     {
-      "chinese": "我们将参加音乐会(我們將參加音樂會)。",
-      "pinyin": "Wǒmen jiāng cānjiā yīnyuèhuì.",
-      "english": "We will attend the concert."
+      "chinese": "他每天都参加篮球训练(他每天都參加籃球訓練)。",
+      "pinyin": "Tā měitiān dōu cānjiā lánqiú xùnliàn.",
+      "english": "He attends basketball practice every day."
     },
     {
-      "chinese": "学生们积极参加学校的各种活动(學生們積極參加學校的各種活動)。",
-      "pinyin": "Xuéshēngmen jījí cānjiā xuéxiào de gè zhǒng huódòng.",
-      "english": "The students actively take part in various school activities."
+      "chinese": "你愿意参加这个项目吗(你願意參加這個項目嗎)？",
+      "pinyin": "Nǐ yuànyì cānjiā zhège xiàngmù ma?",
+      "english": "Are you willing to take part in this project?"
     }
   ]
 }

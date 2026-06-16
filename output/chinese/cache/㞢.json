@@ -4,9 +4,9 @@
   "pinyin": "zhī",
   "english": "footprint",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "㞢 -> variant of 有 -> phonetic 又 (yòu, \"again\") + semantic 肉/⺼ (ròu, \"meat\") -> original form of 侑 (yòu, \"to urge to eat\") or 醢 (hǎi, \"minced pickled meat\")",
-    "interpretation": "2023",
+    "type": "ancient form of character",
+    "description": "㞢 is an ancient form of 有(有) (yǒu, \"have\").",
+    "interpretation": "The character 㞢 was used historically to represent the idea of possession or existence, similar to 有(有) (yǒu, \"have\"). It likely served as an early variant before the now-standard form emerged.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,7 @@
       "char": "有",
       "trad": "有",
       "pinyin": "yǒu",
-      "english": "to have"
-    },
-    {
-      "char": "侑",
-      "trad": "侑",
-      "pinyin": "yòu",
-      "english": "to urge to eat"
-    },
-    {
-      "char": "醢",
-      "trad": "醢",
-      "pinyin": "hǎi",
-      "english": "minced pickled meat"
-    },
-    {
-      "char": "又",
-      "trad": "又",
-      "pinyin": "yòu",
-      "english": "again"
-    },
-    {
-      "char": "肉",
-      "trad": "肉",
-      "pinyin": "ròu",
-      "english": "meat"
+      "english": "have"
     }
   ],
   "in_contemporary_usage": false,

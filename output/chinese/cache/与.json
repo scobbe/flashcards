@@ -5,34 +5,40 @@
   "english": "and",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Simplified from 與",
-    "interpretation": "The character 与 is the simplified form of 與(yǔ, \"give\"), retaining the phonetic sound while simplifying the structure.",
-    "simplification": "与(与) (yǔ, \"and\") is a simplified form where the elaborate details of 與 are reduced while retaining its general shape and pronunciation."
+    "description": "Semantic 舁(舁) (yú, \"carry\") + phonetic 亼(亼) (jí, \"gather\") -> giving or joining -> and",
+    "interpretation": "The image of carrying and gathering stems from 舁(舁) (yú, \"carry\") as the semantic component, suggesting support, while 亼(亼) (jí, \"gather\") contributes the phonetic sound. This combination evolves into the notion of inclusion or joining, leading naturally to the meaning 'and'.",
+    "simplification": "与 is a simplified form, reducing 與(與) by removing the internal components and simplifying the structure for easier writing."
   },
   "parts": [
     {
-      "char": "與",
-      "trad": "與",
-      "pinyin": "yǔ",
-      "english": "give"
+      "char": "舁",
+      "trad": "舁",
+      "pinyin": "yú",
+      "english": "carry"
+    },
+    {
+      "char": "亼",
+      "trad": "亼",
+      "pinyin": "jí",
+      "english": "gather"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他与我都喜欢音乐(他與我都喜歡音樂)。",
-      "pinyin": "Tā yǔ wǒ dōu xǐhuān yīnyuè.",
-      "english": "He and I both like music."
+      "chinese": "我与朋友一起去公园(我與朋友一起去公園)。",
+      "pinyin": "Wǒ yǔ péngyǒu yīqǐ qù gōngyuán.",
+      "english": "I went to the park with friends."
     },
     {
-      "chinese": "读书与写作能开拓视野(讀書與寫作能開拓視野)。",
-      "pinyin": "Dúshū yǔ xiězuò néng kāituò shìyě.",
-      "english": "Reading and writing can broaden one's horizons."
+      "chinese": "他与她都是医生(他與她都是醫生)。",
+      "pinyin": "Tā yǔ tā dōu shì yīshēng.",
+      "english": "He and she are both doctors."
     },
     {
-      "chinese": "花园里有玫瑰与百合(花園里有玫瑰與百合)。",
-      "pinyin": "Huāyuán lǐ yǒu méiguī yǔ bǎihé.",
-      "english": "There are roses and lilies in the garden."
+      "chinese": "这朵花与那朵花颜色相似(這朵花與那朵花顏色相似)。",
+      "pinyin": "Zhè duǒ huā yǔ nà duǒ huā yánsè xiāngsì.",
+      "english": "This flower and that flower have similar colors."
     }
   ]
 }

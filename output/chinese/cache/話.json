@@ -5,40 +5,40 @@
   "english": "speech; language; dialect; talk",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + 𠯑(𠯑) (ph) = composed of word speech + phonetic sound",
-    "interpretation": "The character 話(話) (huà, \"speech; language\") combines 言(言) (yán, \"speech\") as the semantic component with 𠯑(𠯑) (ph) as the phonetic component to convey the concept of communication or spoken language.",
-    "simplification": "话(話) replaces 言(言) (yán, \"speech\") with 讠, reducing the stroke count while maintaining the semantic meaning."
+    "description": "semantic 言(言) (yán, \"word\") + phonetic 𠯑 -> speech; language",
+    "interpretation": "The character 話 (huà) combines the semantic component 言(言) (yán, \"word\"), indicating speech or language, with a phonetic component 𠯑, which provides the sound. The semantic link with 言 aligns with the character's meaning of speech or language.",
+    "simplification": "話 was simplified to 话 by replacing 言(言) with 讠, reducing strokes using a cursive shorthand for the speech radical."
   },
   "parts": [
     {
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "speech"
+      "english": "word"
     },
     {
       "char": "𠯑",
       "trad": "𠯑",
-      "pinyin": "ph",
-      "english": "phonetic sound"
+      "pinyin": "gro",
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他说的话让我很感动(他說的話讓我很感動)。",
-      "pinyin": "Tā shuō de huà ràng wǒ hěn gǎndòng.",
-      "english": "His words moved me deeply."
+      "chinese": "老师正在讲课，学生们认真听话(老師正在講課，學生們認真聽話)。",
+      "pinyin": "Lǎoshī zhèngzài jiǎngkè, xuéshēngmen rènzhēn tīnghuà.",
+      "english": "The teacher is giving a lecture, and the students are listening attentively."
     },
     {
-      "chinese": "语言是交流的工具(語言是交流的工具)。",
-      "pinyin": "Yǔyán shì jiāoliú de gōngjù.",
-      "english": "Language is a tool for communication."
+      "chinese": "他说了一句感人的话(他說了一句感人的話)，让大家都为之动容(讓大家都為之動容)。",
+      "pinyin": "Tā shuōle yī jù gǎnrén de huà, ràng dàjiā dōu wèi zhī dòngróng.",
+      "english": "He said a moving statement, which touched everyone deeply."
     },
     {
-      "chinese": "我听不懂他的方言(我聽不懂他的方言)。",
-      "pinyin": "Wǒ tīng bù dǒng tā de fāngyán.",
-      "english": "I don't understand his dialect."
+      "chinese": "我们每天都用普通话交流(我們每天都用普通話交流)。",
+      "pinyin": "Wǒmen měitiān dōu yòng pǔtōnghuà jiāoliú.",
+      "english": "We use Mandarin to communicate every day."
     }
   ]
 }

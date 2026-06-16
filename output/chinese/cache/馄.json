@@ -5,40 +5,40 @@
   "english": "mix; confused",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 饣(飠) (shí, 'food') + phonetic: 昆(昆) (kūn, 'descendants') = food-related meaning with sound given by 昆",
-    "interpretation": "The character combines the food radical 饣(飠) (shí, 'food') with 昆(昆) (kūn, 'descendants'), indicating a type of food (dumplings) associated with family gatherings or cooking.",
-    "simplification": "馄(餛) replaced the food radical 飠 (shí) with 饣(饣) (shí, 'food') for a streamlined writing form."
+    "description": "semantic 食(食) (shí, \"food\") + phonetic 圂(圂) (hùn, \"confused\") -> mix; confused",
+    "interpretation": "餛 combines the semantic element 食(食) (shí, \"food\") to indicate something related to food, with 圂(圂) (hùn, \"confused\") providing the sound. The combination suggests the concept of mixed or confused, typically in the context of food preparation.",
+    "simplification": "食(食) (shí, \"food\") was simplified to 饣(食) and phonetic 圂(圂) (hùn, \"confused\") remains as the phonetic component."
   },
   "parts": [
     {
-      "char": "饣",
-      "trad": "飠",
+      "char": "食",
+      "trad": "食",
       "pinyin": "shí",
       "english": "food"
     },
     {
-      "char": "昆",
-      "trad": "昆",
-      "pinyin": "kūn",
-      "english": "descendants"
+      "char": "圂",
+      "trad": "圂",
+      "pinyin": "hùn",
+      "english": "confused"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的思绪杂乱(他的思緒雜亂)，脑海中全是一片馄(腦海中全是一片餛)。",
-      "pinyin": "tā de sīxù záluàn, nǎohǎi zhōng quán shì yī piàn hún.",
-      "english": "His thoughts are so disordered that his mind is completely confused."
+      "chinese": "他把所有材料都混了在一起(他把所有材料都餛了在一起)。",
+      "pinyin": "Tā bǎ suǒyǒu cáiliào dōu húnle zài yīqǐ.",
+      "english": "He mixed all the ingredients together."
     },
     {
-      "chinese": "面对纷繁局面(面對紛繁局面)，他显得馄乱不堪(他顯得餛亂不堪)。",
-      "pinyin": "miànduì fēnfán júmiàn, tā xiǎnde húnluàn bùkān.",
-      "english": "In the face of a complex situation, he appeared utterly confused."
+      "chinese": "我觉得他的想法有点混乱(我覺得他的想法有點餛亂)。",
+      "pinyin": "Wǒ juéde tā de xiǎngfǎ yǒudiǎn húnluàn.",
+      "english": "I think his ideas are a bit confused."
     },
     {
-      "chinese": "听到这个消息(聽到這個消息)，他一时间馄乱了(他一時間餛亂了)。",
-      "pinyin": "tīngdào zhège xiāoxī, tā yī shíjiān hún luàn le.",
-      "english": "Upon hearing the news, he became confused for a moment."
+      "chinese": "事情变得非常混杂(事情變得非常餛雜)。",
+      "pinyin": "Shìqíng biàndé fēicháng húnzá.",
+      "english": "Things became very mixed up."
     }
   ]
 }

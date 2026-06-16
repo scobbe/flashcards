@@ -4,28 +4,41 @@
   "pinyin": "měi",
   "english": "each",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts grain plant with two leaves -> symbolizing multiplicity and repetition -> each, every",
-    "interpretation": "This character originally depicted a grain plant with two leaves emerging from the sides, symbolizing the idea of multiplicity and is used to mean 'each' or 'every' in contexts, suggesting repetition.",
+    "type": "phono-semantic compound",
+    "description": "semantic 屮 (sprout) + phonetic 母 (mǔ, \"mother\") -> adult woman ready for marriage and generation -> each time",
+    "interpretation": "The character 每 (měi, \"each\") combines the semantic element 屮 (\"sprout\") with the phonetic 母 (mǔ, \"mother\"). The sprout component implies growth and maturity, suggesting a woman has reached adulthood. This connects to the idea of 'each time' through the readiness for recurring life cycles or activities, such as marriage and childbearing.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprout"
+    },
+    {
+      "char": "母",
+      "trad": "母",
+      "pinyin": "mǔ",
+      "english": "mother"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "每个人都有机会(每個人都有機會)。",
-      "pinyin": "Měi gèrén dōu yǒu jīhuì.",
-      "english": "Each person has a chance."
+      "chinese": "每个人都有自己的梦想(每個人都有自己的夢想)。",
+      "pinyin": "Měi gèrén dōu yǒu zìjǐ de mèngxiǎng.",
+      "english": "Each person has their own dreams."
     },
     {
-      "chinese": "我每天练习一小时(我每天練習一小時)。",
-      "pinyin": "Wǒ měitiān liànxí yī xiǎoshí.",
-      "english": "I practice for an hour each day."
+      "chinese": "他每天早上锻炼身体(他每天早上鍛鍊身體)。",
+      "pinyin": "Tā měitiān zǎoshang duànliàn shēntǐ.",
+      "english": "He exercises every morning."
     },
     {
-      "chinese": "每朵花都有它的香气(每朵花都有它的香氣)。",
-      "pinyin": "Měi duǒ huā dōu yǒu tā de xiāngqì.",
-      "english": "Each flower has its own fragrance."
+      "chinese": "每次见到她(每次見到她)，我都很开心(我都很開心)。",
+      "pinyin": "Měi cì jiàndào tā, wǒ dōu hěn kāixīn.",
+      "english": "Each time I see her, I am very happy."
     }
   ]
 }

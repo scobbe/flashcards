@@ -5,8 +5,8 @@
   "english": "rise; lift; begin; get up",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 走(走) (zǒu, \"walk\") + phonetic: 巳(巳) (sì, \"sixth terrestrial branch\") = implying movement or ascent -> rise, begin",
-    "interpretation": "The character 起(起) (qǐ, \"rise\") combines 走(走) (zǒu, \"walk\"), indicating motion or activity, with 巳(巳) (sì, \"sixth terrestrial branch\"), contributing the phonetic element. This combination intuitively represents the concept of rising or beginning.",
+    "description": "semantic 走(走) (zǒu, \"walk\") + phonetic 巳(巳) (sì) -> rise; lift; begin; get up",
+    "interpretation": "The semantic component 走(走) (zǒu, \"walk\") suggests movement or action, fitting with the meaning of rising or getting up. The phonetic component 巳(巳) (sì) was chosen for its sound, contributing to the pronunciation without directly affecting the meaning.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "巳",
       "trad": "巳",
       "pinyin": "sì",
-      "english": "sixth terrestrial branch"
+      "english": "sixth of the Twelve Earthly Branches"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我早上起床(我早上起床)。",
-      "pinyin": "Wǒ zǎoshang qǐ chuáng.",
-      "english": "I get up in the morning."
+      "chinese": "太阳升起(太陽升起)，天边染上橘色(天邊染上橘色)。",
+      "pinyin": "Tàiyáng shēng qǐ, tiānbiān rǎn shàng jú sè.",
+      "english": "The sun rises, painting the sky with orange."
     },
     {
-      "chinese": "太阳升起时(太陽升起時)，世界变得明亮(世界變得明亮)。",
-      "pinyin": "Tàiyáng shēng qǐ shí, shìjiè biàn dé míngliàng.",
-      "english": "When the sun rises, the world becomes bright."
+      "chinese": "我们要起床了(我們要起床了)。",
+      "pinyin": "Wǒmen yào qǐchuáng le.",
+      "english": "We need to get up."
     },
     {
-      "chinese": "他鼓起勇气(他鼓起勇氣)，面对挑战(面對挑戰)。",
-      "pinyin": "Tā gǔ qǐ yǒngqì, miànduì tiǎozhàn.",
-      "english": "He mustered his courage to face the challenges."
+      "chinese": "新的一天开始了(新的一天開始了)，大家都充满活力(大家都充滿活力)。",
+      "pinyin": "Xīn de yī tiān kāishǐ le, dàjiā dōu chōngmǎn huólì.",
+      "english": "A new day begins, and everyone is full of energy."
     }
   ]
 }

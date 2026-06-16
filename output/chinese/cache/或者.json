@@ -5,8 +5,8 @@
   "english": "or; perhaps",
   "etymology": {
     "type": "compound word",
-    "description": "或(或) (huò, \"or; maybe\") suggests options or possibilities, while 者(者) (zhě, \"one who; -er, -ist\") forms a noun or emphasizes the role or function of the preceding element. Together, 或者(或者) (huòzhě, \"or; perhaps\") combines these concepts to denote an alternative or potential scenario.",
-    "interpretation": "或者(或者) (huòzhě, \"or; perhaps\") is used to present choices or possibilities in a sentence, reflecting uncertainty or alternative options.",
+    "description": "或(或) (huò, \"maybe; possibly\") + 者(者) (zhě, \"particle used to mark a phrase\")",
+    "interpretation": "或(或) (huò, \"maybe; possibly\") conveys the sense of uncertainty or potentiality, which naturally translates into the idea of 'or' as a choice among possibilities. 者(者) (zhě, \"particle used to mark a phrase\") is a grammatical marker that further clarifies this potentiality. The combination forms a logical expression of options or uncertainties, indicating 'or' as an alternative, or 'perhaps' when implying possibility.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "或",
       "trad": "或",
       "pinyin": "huò",
-      "english": "or; maybe"
+      "english": "maybe; possibly"
     },
     {
       "char": "者",
       "trad": "者",
       "pinyin": "zhě",
-      "english": "one who; -er, -ist"
+      "english": "particle used to mark a phrase"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你可以吃面包(你可以吃麵包)，或者米饭(或者米飯)。",
-      "pinyin": "nǐ kěyǐ chī miànbāo, huòzhě mǐfàn.",
-      "english": "You can eat bread or rice."
+      "chinese": "你想吃苹果(你想吃蘋果)，或者香蕉(或者香蕉)？",
+      "pinyin": "Nǐ xiǎng chī píngguǒ, huòzhě xiāngjiāo?",
+      "english": "Do you want to eat an apple, or a banana?"
     },
     {
-      "chinese": "我们明天出发(我們明天出發)，或者今天先走(或者今天先走)。",
-      "pinyin": "wǒmen míngtiān chūfā, huòzhě jīntiān xiān zǒu.",
-      "english": "We will depart tomorrow or leave today."
+      "chinese": "我们可以开车去(我們可以開車去)，或者坐火车(或者坐火車)。",
+      "pinyin": "Wǒmen kěyǐ kāichē qù, huòzhě zuò huǒchē.",
+      "english": "We can drive there, or take the train."
+    },
+    {
+      "chinese": "今天下雨(今天下雨)，或者我们待在家(或者我們待在家)？",
+      "pinyin": "Jīntiān xiàyǔ, huòzhě wǒmen dāi zài jiā?",
+      "english": "It's raining today, or shall we stay at home?"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "simplified": "號",
+  "traditional": "號",
+  "pinyin": "hào",
+  "english": "number",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "original ideogram: tiger with exhaled air -> tiger's roar (號)口(口) (kǒu, \"mouth\") and 言(言) (yán, \"speech\") added to emphasize calling -> final form: phonetic 号 (hào, \"to wail\") + semantic 虎(虎) (hǔ, \"tiger\")",
+    "interpretation": "Originally depicted a tiger exhaling air, signifying its roar. To emphasize the concept of making sounds, later forms incorporated 口(口) (kǒu, \"mouth\") indicating vocal expressions. In the current form, the character combines phonetic 号 (hào, \"to wail\") with the semantic element 虎(虎) (hǔ, \"tiger\"), implying the sound made by a tiger. Over time, the meaning was extended to include 'number', possibly due to its phonetic similarity.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "号",
+      "trad": "號",
+      "pinyin": "hào",
+      "english": "to wail"
+    },
+    {
+      "char": "虎",
+      "trad": "虎",
+      "pinyin": "hǔ",
+      "english": "tiger"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天是十月十号(今天是十月十號)。",
+      "pinyin": "Jīntiān shì shí yuè shí hào.",
+      "english": "Today is October 10th."
+    },
+    {
+      "chinese": "我的电话号码是三八九号(我的電話號碼是三八九號)。",
+      "pinyin": "Wǒ de diànhuà hàomǎ shì sān bā jiǔ hào.",
+      "english": "My phone number is 389."
+    },
+    {
+      "chinese": "请到三号台办手续(請到三號台辦手續)。",
+      "pinyin": "Qǐng dào sān hào tái bàn shǒuxù.",
+      "english": "Please go to counter number three to handle the procedure."
+    }
+  ]
+}

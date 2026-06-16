@@ -5,11 +5,24 @@
   "english": "silk threads; little things",
   "etymology": {
     "type": "ancient form",
-    "description": "𢆶 is an ancient form of 茲(茲) (zī, \"here; this\"), which is a variant of 玆(玆) (zī, \"here; this\")",
-    "interpretation": "The character 𢆶 is identified as an older, less commonly used version of the character 茲(茲) (zī, \"here; this\") in its historical script. It's primarily relevant for understanding script evolution in ancient contexts rather than contemporary usage.",
+    "description": "Ancient form of 茲(茲) (zī, 'now') and 玆(玆) (zī, 'now')",
+    "interpretation": "The character 𢆶 is an archaic form used for the characters 茲(茲) and 玆(玆), which share meanings related to the concept of 'now'. Despite the character's appearance suggesting silk threads or small things, its primary historical use connects directly to the sense carried by its variant successors.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "茲",
+      "trad": "茲",
+      "pinyin": "zī",
+      "english": "now"
+    },
+    {
+      "char": "玆",
+      "trad": "玆",
+      "pinyin": "zī",
+      "english": "now"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

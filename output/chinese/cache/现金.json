@@ -5,8 +5,8 @@
   "english": "cash",
   "etymology": {
     "type": "compound word",
-    "description": "现(現) (xiàn, \"current\"; \"present\"; \"appear\") refers to the present time or situation. 金(金) (jīn, \"gold\"; \"money\"; \"metal\") represents wealth or monetary resources. Together, 现金(現金) (xiànjīn) describes money that is immediately available for transactions - cash.",
-    "interpretation": "The term 现金(現金) (xiànjīn, \"cash\") signifies money available for use right now, emphasizing both its availability and standard function as a currency.",
+    "description": "現(現) (xiàn, \"present; current\") indicates immediacy, while 金(金) (jīn, \"metal; money; gold\") refers to wealth or money. Together, 現金(現金) represents the concept of \"cash\" as current, tangible money or wealth in hand.",
+    "interpretation": "現(現) (xiàn, \"present; current\") suggests immediacy and existence in the now, while 金(金) (jīn, \"metal; money; gold\") traditionally represents wealth, especially in its physical form. The combination 現金(現金) describes wealth that is immediately accessible and available to use, naturally leading to the concept of \"cash\" as opposed to other forms of wealth which might be less liquid, like bank accounts or investments.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "现",
       "trad": "現",
       "pinyin": "xiàn",
-      "english": "current; present; appear"
+      "english": "present; current"
     },
     {
       "char": "金",
       "trad": "金",
       "pinyin": "jīn",
-      "english": "gold; money; metal"
+      "english": "metal; money; gold"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用现金买了面包(我用現金買了麵包)。",
-      "pinyin": "Wǒ yòng xiànjīn mǎile miànbāo.",
-      "english": "I bought bread with cash."
+      "chinese": "请带现(VIP請帶現金)金来(來)付款。",
+      "pinyin": "Qǐng dài xiànjīn lái fùkuǎn.",
+      "english": "Please bring cash to make the payment."
     },
     {
-      "chinese": "商店只接受现金(商店只接受現金)，不接受信用卡(不接受信用卡)。",
-      "pinyin": "Shāngdiàn zhǐ jiēshòu xiànjīn, bù jiēshòu xìnyòngkǎ.",
-      "english": "The store accepts only cash, not credit cards."
+      "chinese": "他只有现(他只有現金)金，没有信用卡(沒有信用卡)。",
+      "pinyin": "Tā zhǐ yǒu xiànjīn, méiyǒu xìnyòngkǎ.",
+      "english": "He only has cash, no credit card."
     },
     {
-      "chinese": "出门前(出門前)，他检查是否携带了现金(他檢查是否攜帶了現金)。",
-      "pinyin": "Chūmén qián, tā jiǎnchá shìfǒu xiédài le xiànjīn.",
-      "english": "Before leaving home, he checked whether he brought cash."
+      "chinese": "商店提供现(金商店提供現金)金折扣(折扣)。",
+      "pinyin": "Shāngdiàn tígōng xiànjīn zhékòu.",
+      "english": "The store offers cash discounts."
     }
   ]
 }

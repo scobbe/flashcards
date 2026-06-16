@@ -5,8 +5,8 @@
   "english": "age (of a person, animal or plant, etc.)",
   "etymology": {
     "type": "compound word",
-    "description": "年(年) (nián, \"year\") + 齡(齡) (líng, \"age\")",
-    "interpretation": "The combination of 年(年) (nián, \"year\") and 齡(齡) (líng, \"age\") refers to the length of time measured in years that a living being or entity has existed. It highlights the concept of age as being a function of the passage of time, measured in years.",
+    "description": "年(年) (nián, \"year\") refers to the passage of time in terms of years, marking the cycle of seasons. 齡(齡) (líng, \"age\") denotes the number of years a person, animal, or plant has lived, derived from the idea of teeth, which metaphorically reflects stages in life as teeth emerge in cycles across different age milestones.",
+    "interpretation": "年(年) (nián, \"year\") represents the passage of time as measured in increments of years, essential for counting the duration of life. 齡(齡) (líng, \"age\") uses the metaphor of teeth, which grow and change in well-defined stages, to denote life stages; thus, 'age' is the count of annual cycles a being has experienced. Combining these gives 年齡(年齡) (niánlíng, \"age\") as the measure of how many year-cycles a person, animal, or plant has traversed.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她的年龄(她的年齡)是二十五岁(是二十五歲)。",
-      "pinyin": "Tā de niánlíng shì èrshíwǔ suì.",
-      "english": "Her age is twenty-five years old."
+      "chinese": "他的年龄比我大(他的年齡比我大)。",
+      "pinyin": "Tā de niánlíng bǐ wǒ dà.",
+      "english": "He is older than me."
     },
     {
-      "chinese": "这棵树的年龄已经超过一百年(這棵樹的年齡已經超過一百年)。",
-      "pinyin": "Zhè kē shù de niánlíng yǐjīng chāoguò yībǎi nián.",
-      "english": "The age of this tree is already over one hundred years."
+      "chinese": "在这个年龄(在這個年齡)，开始学习新东西是很重要的(開始學習新東西是很重要的)。",
+      "pinyin": "Zài zhège niánlíng, kāishǐ xuéxí xīn dōngxī shì hěn zhòngyào de.",
+      "english": "At this age, it is important to start learning new things."
     },
     {
-      "chinese": "随着年龄的增长(隨著年齡的增長)，他的见识也更加广泛(他的見識也更加廣泛)。",
-      "pinyin": "Suízhe niánlíng de zēngzhǎng, tā de jiànshì yě gèng jiā guǎngfàn.",
-      "english": "As his age increases, his knowledge also becomes more extensive."
+      "chinese": "树的年龄可以通过年轮来判断(樹的年齡可以通過年輪來判斷)。",
+      "pinyin": "Shù de niánlíng kěyǐ tōngguò niánlún lái pànduàn.",
+      "english": "The age of a tree can be determined by its rings."
     }
   ]
 }

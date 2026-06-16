@@ -5,8 +5,8 @@
   "english": "not change",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") and 改(改) (gǎi, \"change\") come together to mean \"not change.\"",
-    "interpretation": "This combination of 不(不) (bù, \"not\") and 改(改) (gǎi, \"change\") directly expresses the concept of retaining the current state or refusing alterations.",
+    "description": "不(不) (bù, \"not\") negates the action of 改(改) (gǎi, \"change\"). Combining them conveys the meaning of maintaining consistency or staying the same.",
+    "interpretation": "不(不) (bù, \"not\") negates the component it's paired with. 改(改) (gǎi, \"change\") indicates the idea of alteration or modification. Therefore, 不改 conveys the concept of stopping any change from occurring, reinforcing constancy or the decision to keep something as it is.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not"
+      "english": "not; no"
     },
     {
       "char": "改",
       "trad": "改",
       "pinyin": "gǎi",
-      "english": "change; alter; amend"
+      "english": "change; alter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "尽管世界变化万千(儘管世界變化萬千)，内心情怀不改(內心情懷不改)。",
-      "pinyin": "Jǐnguǎn shìjiè biànhuà wànqiān, nèixīn qínghuái bù gǎi.",
-      "english": "Although the world changes in myriad ways, the inner sentiments remain unaltered."
+      "chinese": "无论发生什么(無論發生什麼)，他的决定不改(他的決定不改)。",
+      "pinyin": "Wúlùn fāshēng shénme, tā de juédìng bù gǎi.",
+      "english": "No matter what happens, his decision does not change."
     },
     {
-      "chinese": "面对挑战(面對挑戰)，他信念不改(他信念不改)。",
-      "pinyin": "Miànduì tiǎozhàn, tā xìnniàn bù gǎi.",
-      "english": "Facing challenges, his conviction remains unchanged."
+      "chinese": "他对原则不改(他對原則不改)，始终如一(始終如一)。",
+      "pinyin": "Tā duì yuánzé bù gǎi, shǐzhōngrúyī.",
+      "english": "He does not change his principles and remains consistent."
     },
     {
-      "chinese": "在岁月流逝中(在歲月流逝中)，我们的理想不改(我們的理想不改)。",
-      "pinyin": "Zài suìyuè liúshì zhōng, wǒmen de lǐxiǎng bù gǎi.",
-      "english": "Amid the passage of time, our ideals remain unaltered."
+      "chinese": "虽然环境变了(雖然環境變了)，她的态度不改(她的態度不改)。",
+      "pinyin": "Suīrán huánjìng biàn le, tā de tàidù bù gǎi.",
+      "english": "Although the environment has changed, her attitude does not change."
     }
   ]
 }

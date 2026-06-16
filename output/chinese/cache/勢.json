@@ -5,8 +5,8 @@
   "english": "power",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 埶 + semantic 力 (\"power\") -> power",
-    "interpretation": "The character 势 combines 埶, which provides the phonetic aspect, and 力 (lì, \"power\"), the semantic indicator, to convey the concept of power or force. This composition highlights both the sound and meaning integral to the character's representation of power.",
+    "description": "phonetic 埶 + semantic 力 ('power') -> power",
+    "interpretation": "The character 勢(shì, 'power') combines 埶(yì, 'skill') for its phonetic contribution and 力(lì, 'power') as the semantic component, emphasizing the idea of power deriving from skill and capability.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "埶",
       "trad": "埶",
       "pinyin": "yì",
-      "english": "art; ability"
+      "english": "skill"
     },
     {
       "char": "力",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "權勢給予他很大的影響力(權勢給予他很大的影響力)。",
-      "pinyin": "Quánshì gěiyǔ tā hěn dà de yǐngxiǎnglì.",
-      "english": "Power gives him great influence."
+      "chinese": "他的势力很大(他的勢力很大)。",
+      "pinyin": "Tā de shìlì hěn dà.",
+      "english": "His power is immense."
     },
     {
-      "chinese": "政治勢力正在改變(政治勢力正在改變)，很多人关心未来(很多人關心未來)。",
-      "pinyin": "Zhèngzhì shìlì zhèngzài gǎibiàn, hěn duō rén guānxīn wèilái.",
-      "english": "Political power is changing, and many people are concerned about the future."
+      "chinese": "这个国家正在失去国际上的势力(這個國家正在失去國際上的勢力)。",
+      "pinyin": "Zhège guójiā zhèngzài shīqù guójì shàng de shìlì.",
+      "english": "This country is losing its international power."
     },
     {
-      "chinese": "他使用他的勢力達成目標(他使用他的勢力達成目標)。",
-      "pinyin": "Tā shǐyòng tā de shìlì dáchéng mùbiāo.",
-      "english": "He used his power to achieve his goals."
+      "chinese": "他在公司中的势不可挡(他在公司中的勢不可擋)。",
+      "pinyin": "Tā zài gōngsī zhōng de shì bùkědǎng.",
+      "english": "His power in the company is unstoppable."
     }
   ]
 }

@@ -5,22 +5,27 @@
   "english": "west",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bag or basket -> borrowed for phonetic value to mean 'west'",
-    "interpretation": "The character 西(xī, 'west') originally depicted a bag or basket and was phonetically borrowed to represent 'west'. Although traditionally linked to the image of a bird in a nest symbolizing the setting sun, this interpretation is disputed. Instead, it reflects a simple phonetic borrowing.",
+    "description": "Depicts a bag or basket -> borrowed for phonetic value -> meaning 'west'",
+    "interpretation": "The character originally depicted a bag or basket, which was later borrowed for its phonetic value to represent the direction 'west'. This borrowing relied on the resemblance of the shape and was not directly semantically related to the concept of 'west'. Hence, the meaning 'west' is abstractly tied to its original pictographic form.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他家住在西边(他家住在西邊)，附近有一座大山(附近有一座大山)。",
-      "pinyin": "Tā jiā zhù zài xībiān, fùjìn yǒu yī zuò dà shān.",
-      "english": "His home is on the west side, and there is a big mountain nearby."
+      "chinese": "太阳从东方升起(太陽從東方升起)，在西方落下(在西方落下)。",
+      "pinyin": "Tàiyáng cóng dōngfāng shēngqǐ, zài xīfāng luòxià.",
+      "english": "The sun rises in the east and sets in the west."
     },
     {
-      "chinese": "风筝向西飞去(風箏向西飛去)。",
-      "pinyin": "Fēngzhēng xiàng xī fēi qù.",
-      "english": "The kite flies toward the west."
+      "chinese": "我们计划去西安旅行(我們計劃去西安旅行)。",
+      "pinyin": "Wǒmen jìhuà qù Xī'ān lǚxíng.",
+      "english": "We plan to travel to Xi'an."
+    },
+    {
+      "chinese": "西方文化对世界有很大影响(西方文化對世界有很大影響)。",
+      "pinyin": "Xīfāng wénhuà duì shìjiè yǒu hěn dà yǐngxiǎng.",
+      "english": "Western culture has a significant influence on the world."
     }
   ]
 }

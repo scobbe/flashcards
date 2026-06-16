@@ -2,11 +2,11 @@
   "simplified": "烕",
   "traditional": "烕",
   "pinyin": "huǐ",
-  "english": "phonetic",
+  "english": "extinguish, destroy",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 戌(戌) (xū, \"ninth month\") + semantic: 火(火) (huǒ, \"fire\")",
-    "interpretation": "The character 烕 (huǐ) is a phono-semantic compound combining the phonetic element 戌(戌) (xū), which represents the sound, with the semantic element 火(火) (huǒ, \"fire\") to convey a meaning related to fire. The phonetic component provides the pronunciation, while the addition of the fire radical suggests that the character relates to burning or destruction.",
+    "description": "phonetic 戌 + semantic 火 (fire) -> extinguish",
+    "interpretation": "The character 烕 (huǐ, \"extinguish, destroy\") combines the phonetic component 戌 (xū, \"ninth month\") with the semantic component 火 (huǒ, \"fire\"). The phonetic component contributes the sound, while the fire component indicates the meaning related to fire. The overall sense of extinguishing or destroying suggests the extinguishing of a fire.",
     "simplification": ""
   },
   "parts": [

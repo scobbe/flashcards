@@ -1,0 +1,44 @@
+{
+  "simplified": "廊",
+  "traditional": "廊",
+  "pinyin": "láng",
+  "english": "corridor",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 广 (roof of a building) + phonetic 郎 (láng, 'young man') -> corridor",
+    "interpretation": "The character 廊 combines the semantic component 广, which depicts a roof or part of a building, with 郎 (láng, 'young man') as the phonetic component to indicate the sound. The combination suggests a passageway or corridor within a building structure, drawing on the idea of a space within a larger architectural setting.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "roof of a building"
+    },
+    {
+      "char": "郎",
+      "trad": "郎",
+      "pinyin": "láng",
+      "english": "young man"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那条长廊连接了两座大楼(那條長廊連接了兩座大樓)。",
+      "pinyin": "Nà tiáo chángláng liánjiēle liǎng zuò dàlóu.",
+      "english": "The long corridor connected two buildings."
+    },
+    {
+      "chinese": "廊上挂满了美丽的画(廊上掛滿了美麗的畫)。",
+      "pinyin": "Láng shàng guà mǎnle měilì de huà.",
+      "english": "The corridor is hung with beautiful paintings."
+    },
+    {
+      "chinese": "当我们走在廊中时(當我們走在廊中時)，可以听到远处的音乐声(可以聽到遠處的音樂聲)。",
+      "pinyin": "Dāng wǒmen zǒu zài láng zhōng shí, kěyǐ tīngdào yuǎn chù de yīnyuè shēng.",
+      "english": "When we walked in the corridor, we could hear music from afar."
+    }
+  ]
+}

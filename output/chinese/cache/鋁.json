@@ -5,8 +5,8 @@
   "english": "ingot",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "金(金) (jīn, \"metal; gold\") + phonetic 慮(慮) (lǜ) = related to metal properties -> ingot",
-    "interpretation": "鋁(lǚ) (\"ingot\") combines 金(金) to indicate association with metal and 慮(慮) as a phonetic component, suggesting the importance of careful consideration in metallurgy.",
+    "description": "semantic 金(金) (jīn, \"metal\") + phonetic 慮(慮) (lǜ) -> metal associated with 慮 sound",
+    "interpretation": "The character comprises 金(金) (jīn, \"metal\"), indicating the material's nature as a metal, combined with 慮(慮) (lǜ) for its phonetic contribution. This suggests a metal linked by sound to 慮, capturing the notion of a metal ingot.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "慮",
       "trad": "慮",
       "pinyin": "lǜ",
-      "english": "consider"
+      "english": "to consider"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "工厂里熔化的铝经过快速冷却后(工廠裡熔化的鋁經過快速冷卻後)，凝固成锭形状(凝固成錠形狀)。",
-      "pinyin": "Gōngchǎng lǐ rónghuà de lǚ jīngguò kuàisù lěngquè hòu, nínggù chéng dìng xíngzhuàng.",
-      "english": "In the factory, the melted aluminum quickly cooled and solidified into ingot shapes."
+      "chinese": "鋁是非常輕的金屬(鋁是非常輕的金屬)。",
+      "pinyin": "Lǚ shì fēicháng qīng de jīnshǔ.",
+      "english": "Aluminum is a very light metal."
     },
     {
-      "chinese": "冶炼工匠精心铸造铝为高质量锭(冶煉工匠精心鑄造鋁為高質量錠)。",
-      "pinyin": "Yěliàn gōngjiàng jīngxīn zhùzào lǚ wèi gāo zhìliàng dìng.",
-      "english": "The metallurgists meticulously cast the aluminum into high-quality ingots."
+      "chinese": "我在廚房裡使用鋁箔(我在廚房裡使用鋁箔)。",
+      "pinyin": "Wǒ zài chúfáng lǐ shǐyòng lǚ bó.",
+      "english": "I use aluminum foil in the kitchen."
+    },
+    {
+      "chinese": "這塊鋁板可用於製造汽車零件(這塊鋁板可用於製造汽車零件)。",
+      "pinyin": "Zhè kuài lǚ bǎn kě yòng yú zhìzào qìchē língjiàn.",
+      "english": "This aluminum sheet can be used to make car parts."
     }
   ]
 }

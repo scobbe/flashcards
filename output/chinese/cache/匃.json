@@ -4,19 +4,12 @@
   "pinyin": "gài",
   "english": "beg",
   "etymology": {
-    "type": "variant character",
-    "description": "Variant form of 丐(丐) (gài, \"beg\")",
-    "interpretation": "This character is a variant of 丐(丐), which is used to represent the concept of begging. There is no unique etymology for 匃 beyond being an alternative representation.",
+    "type": "variant",
+    "description": "Variant form used interchangeably with 丐",
+    "interpretation": "The character 匃 (gài,",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "丐",
-      "trad": "丐",
-      "pinyin": "gài",
-      "english": "beg"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

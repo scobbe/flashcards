@@ -5,8 +5,8 @@
   "english": "grass; herb",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 艹(艹) (cǎo, \"grass; plant\") + phonetic 早(早) (zǎo, \"early\") -> originally referred to 皂(zào, \"acorn\") -> borrowed for \"grass\" sense, replacing 艸(艸, \"grass\")",
-    "interpretation": "The character 草(cǎo, \"grass\") combines the semantic component 艹(艹, \"grass; plant\") indicating its relation to plants, with the phonetic component 早(zǎo, \"early\") to suggest its pronunciation. It was initially associated with the character 皂(zào, \"acorn\") but eventually adopted the meaning of \"grass,\" supplanting 艸(艸, \"grass\").",
+    "description": "semantic 艹 (\"grass; plant\") + phonetic 早 -> originally referred to 皂 -> borrowed for \"grass\"",
+    "interpretation": "The character 草 (cǎo, \"grass; herb\") combines the semantic 艹 (\"grass; plant\"), which visually represents vegetation, with the phonetic 早 (zǎo). Although originally linked to the meaning of 皂 (zào) as \"acorn,\" it was later borrowed to denote \"grass\" due to the semantic component's direct depiction of plant life.",
     "simplification": ""
   },
   "parts": [
@@ -21,24 +21,30 @@
       "trad": "早",
       "pinyin": "zǎo",
       "english": "early"
+    },
+    {
+      "char": "皂",
+      "trad": "皂",
+      "pinyin": "zào",
+      "english": "black; soap"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "春天到了(春天到了)，青草绿了(青草綠了)。",
-      "pinyin": "Chūntiān dào le(Chūntiān dào le)，qīngcǎo lǜ le(qīngcǎo lǜ le)。",
-      "english": "Spring has arrived, and the green grass is flourishing."
+      "chinese": "草地上有很多花(草地上有很多花)。",
+      "pinyin": "Cǎodì shàng yǒu hěn duō huā.",
+      "english": "There are many flowers on the grass."
     },
     {
-      "chinese": "牛在草地上吃草(牛在草地上吃草)。",
-      "pinyin": "Niú zài cǎodì shàng chī cǎo(niú zài cǎodì shàng chī cǎo)。",
-      "english": "The cow is eating grass in the pasture."
+      "chinese": "他正在割草(他正在割草)。",
+      "pinyin": "Tā zhèngzài gē cǎo.",
+      "english": "He is mowing the grass."
     },
     {
-      "chinese": "草不仅可以做草药(草不僅可以做草藥)，还可以用来装饰庭院(還可以用來裝飾庭院)。",
-      "pinyin": "Cǎo bùjǐn kěyǐ zuò cǎoyào(çǎo bùjǐn kěyǐ zuò cǎoyào)，hái kěyǐ yòng lái zhuāngshì tíngyuàn(hái kěyǐ yòng lái zhuāngshì tíngyuàn)。",
-      "english": "Herbs are not only used to make medicinal remedies, but they can also be used to decorate the courtyard."
+      "chinese": "春天时(春天時)，草变得非常绿(草變得非常綠)。",
+      "pinyin": "Chūntiān shí, cǎo biàn dé fēicháng lǜ.",
+      "english": "In spring, the grass becomes very green."
     }
   ]
 }

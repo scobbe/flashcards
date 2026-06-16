@@ -5,8 +5,8 @@
   "english": "bygones; past events",
   "etymology": {
     "type": "compound word",
-    "description": "往(往) (wǎng, \"past; to go\") and 事(事) (shì, \"affair; event\") together refer to events or affairs that have happened in the past.",
-    "interpretation": "往事(往事) (wǎngshì, \"bygones; past events\") combines 往(往) (wǎng, \"past\") and 事(事) (shì, \"event\") to refer to events or matters that have occurred in the past, highlighting their status as part of one's history.",
+    "description": "往(往) (wǎng, \"past; toward\") refers to the direction of going away, or the time that has passed, emphasizing what has been and is no more. 事(事) (shì, \"affair; event; matter\") denotes occurrences or activities. Thus, 往事(往事) (wǎngshì, \"bygones; past events\") combines these elements to refer to events or matters of the past.",
+    "interpretation": "The word 往事(往事) (wǎngshì, \"bygones; past events\") captures the sense of looking back at the 'affairs or events' (事) that belong to the 'past' (往). Anything that once occurred is considered a 'past event,' emphasizing the separation between then and now.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "往",
       "trad": "往",
       "pinyin": "wǎng",
-      "english": "past; to go"
+      "english": "past; toward"
     },
     {
       "char": "事",
       "trad": "事",
       "pinyin": "shì",
-      "english": "affair; event"
+      "english": "affair; event; matter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他常常想起往事(他常常想起往事)。",
-      "pinyin": "Tā chángcháng xiǎngqǐ wǎngshì.",
-      "english": "He often thinks about past events."
+      "chinese": "他常常回忆往事(他常常回憶往事)。",
+      "pinyin": "Tā chángcháng huíyì wǎngshì.",
+      "english": "He often reminisces about past events."
     },
     {
-      "chinese": "往事如烟(往事如煙)，不可追忆(不可追憶)。",
-      "pinyin": "Wǎngshì rú yān, bù kě zhuīyì.",
-      "english": "Past events are like smoke, not to be recalled."
+      "chinese": "记住往事(記住往事)，才能更好地走向未来(才能更好地走向未來)。",
+      "pinyin": "Jìzhu wǎngshì, cáinéng gèng hǎo de zǒuxiàng wèilái.",
+      "english": "Remembering the past helps to better move towards the future."
     },
     {
-      "chinese": "我们不应为往事烦恼(我們不應為往事煩惱)。",
-      "pinyin": "Wǒmen bù yīng wèi wǎngshì fánnǎo.",
-      "english": "We should not worry about past events."
+      "chinese": "往事已成过眼云烟(往事已成過眼雲煙)。",
+      "pinyin": "Wǎngshì yǐ chéng guòyǎn yúnyān.",
+      "english": "Past events have already become fleeting clouds."
     }
   ]
 }

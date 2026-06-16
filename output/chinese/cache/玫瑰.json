@@ -5,8 +5,8 @@
   "english": "rose",
   "etymology": {
     "type": "compound word",
-    "description": "玫(玫) (méi, \"a type of jade\") and 瑰(瑰) (guī, \"extraordinary; precious\") together form the word for \"rose\". The combination reflects the beauty and preciousness of the flower, akin to valuable jade.",
-    "interpretation": "The term 玫瑰 (玫瑰) (méiguī, \"rose\") evokes the notion of a prized and beautiful object, similar to how jade is valued in Chinese culture, highlighting the rose's elegance and rarity.",
+    "description": "玫(玫) (méi, \"rose gemstone; beautiful small stone\") has a historical association with something small, precious, and beautiful, similar to a gemstone. 瑰(瑰) (guī, \"rare; precious; exceptional\") emphasizes uniqueness and value, often referring to something remarkable or extraordinary. Together, 玫瑰(玫瑰) (méiguī, \"rose\") evokes the image of a precious and exceptionally beautiful flower.",
+    "interpretation": "玫(玫) (méi, \"rose gemstone; beautiful small stone\") focuses on beauty and preciousness, suggesting something delicate and charming like a gemstone. 瑰(瑰) (guī, \"rare; precious; exceptional\") highlights the unique and extraordinary qualities of the rose, marking it as a rare flower of great beauty. The combination implies an exquisite, highly valued flower—like a 'gem among flowers', hence the concept of a rose.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "玫",
       "trad": "玫",
       "pinyin": "méi",
-      "english": "a type of jade"
+      "english": "rose gemstone; beautiful small stone"
     },
     {
       "char": "瑰",
       "trad": "瑰",
       "pinyin": "guī",
-      "english": "extraordinary; precious"
+      "english": "rare; precious; exceptional"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "花园里有漂亮的玫瑰(花園裡有漂亮的玫瑰)。",
-      "pinyin": "Huāyuán lǐ yǒu piàoliang de méi guī.",
-      "english": "There are beautiful roses in the garden."
+      "chinese": "玫瑰花开得很美(玫瑰花開得很美)。",
+      "pinyin": "Méi guī huā kāi de hěn měi.",
+      "english": "The rose blooms beautifully."
     },
     {
-      "chinese": "我收到一束玫瑰(我收到一束玫瑰)，表达我的情意(表達我的情意)。",
-      "pinyin": "Wǒ shōudào yī shù méi guī, biǎodá wǒ de qíngyì.",
-      "english": "I received a bouquet of roses to express my feelings."
+      "chinese": "她收到了一束红玫瑰(她收到了一束紅玫瑰)。",
+      "pinyin": "Tā shōu dào le yī shù hóng méi guī.",
+      "english": "She received a bouquet of red roses."
+    },
+    {
+      "chinese": "玫瑰象征爱情(玫瑰象徵愛情)。",
+      "pinyin": "Méi guī xiàng zhēng ài qíng.",
+      "english": "Roses symbolize love."
     }
   ]
 }

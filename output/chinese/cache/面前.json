@@ -5,8 +5,8 @@
   "english": "in front of",
   "etymology": {
     "type": "compound word",
-    "description": "面(面) (miàn, \"face\"; \"surface\") and 前(前) (qián, \"front\"; \"before\"). The combination refers to the area directly in front of someone's face or the surface ahead.",
-    "interpretation": "面前(面前) (miànqián, \"in front of\") refers to the space or area that is directly before a person or object, aligning with the literal meanings of both words: the face or surface (面) and the front (前).",
+    "description": "面(面) (miàn, \"face\") refers to the front or surface; 前(前) (qián, \"front\") indicates a position that is before something.",
+    "interpretation": "面(面) (miàn, \"face\") signifies the side of something that is outward or forward-facing, i.e., the front aspect. 前(前) (qián, \"front\") intrinsically means ahead or in position before something. When combined, they intuitively form the notion of 'in front of' by positioning 'face' at 'the front', specifying the area directly before a reference point.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "面",
       "trad": "面",
       "pinyin": "miàn",
-      "english": "face; surface"
+      "english": "face; surface; side; aspect"
     },
     {
       "char": "前",
       "trad": "前",
       "pinyin": "qián",
-      "english": "front; before"
+      "english": "front; ahead; before; future"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他站在我面前(他站在我面前)。",
-      "pinyin": "Tā zhàn zài wǒ miànqián.",
-      "english": "He stands in front of me."
+      "chinese": "他站在镜子面前(他站在鏡子面前)。",
+      "pinyin": "Tā zhàn zài jìngzi miànqián.",
+      "english": "He stands in front of the mirror."
     },
     {
-      "chinese": "在老师面前(在老師面前)，我们应该保持安静(我們應該保持安靜)。",
-      "pinyin": "Zài lǎoshī miànqián, wǒmen yīnggāi bǎochí ānjìng.",
-      "english": "In front of the teacher, we should remain quiet."
+      "chinese": "在观众面前表演(在觀眾面前表演)，让我感到紧张(讓我感到緊張)。",
+      "pinyin": "Zài guānzhòng miànqián biǎoyǎn, ràng wǒ gǎndào jǐnzhāng.",
+      "english": "Performing in front of an audience makes me nervous."
     },
     {
-      "chinese": "孩子们在圣诞树面前合影(孩子們在聖誕樹面前合影)。",
-      "pinyin": "Háizi men zài shèngdànshù miànqián héyǐng.",
-      "english": "The children take a picture in front of the Christmas tree."
+      "chinese": "雨后，彩虹出现在我们面前(雨後，彩虹出現在我們面前)。",
+      "pinyin": "Yǔ hòu, cǎihóng chūxiàn zài wǒmen miànqián.",
+      "english": "After the rain, a rainbow appeared in front of us."
     }
   ]
 }

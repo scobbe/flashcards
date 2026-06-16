@@ -2,11 +2,11 @@
   "simplified": "音",
   "traditional": "音",
   "pinyin": "yīn",
-  "english": "phonetic component",
+  "english": "sound, tone",
   "etymology": {
-    "type": "Ideogram",
-    "description": "言(言) (yán, \"word\") + something in 口(口) (kǒu, \"mouth\") written like 甘(甘) = sound coming from the mouth -> vertical trait representing tongue disappeared -> 甘 stylized as 曰 -> final form",
-    "interpretation": "Originally depicting words or sounds coming from the mouth with an implied symbolic depiction of the tongue, the character evolved by stylizing the components. The progression from 甘(甘) to 曰 indicates a refinement in the depiction of sound production over time.",
+    "type": "ideogram",
+    "description": "言(言) (yán, \"word\") with 甘(甘) (gān, \"sweet\") -> a depiction of sound emanating from the mouth -> 甘 stylized as 曰(曰) (yuē) -> final form 音",
+    "interpretation": "The character depicts a word or sound (言) coming from the mouth, initially represented by 甘 as the body of the tongue, which transforms into 曰. This evolution symbolizes the emergence of sound from the mouth, capturing the essence of 'sound' and 'tone.'",
     "simplification": ""
   },
   "parts": [
@@ -17,29 +17,34 @@
       "english": "word"
     },
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
-    },
-    {
       "char": "甘",
       "trad": "甘",
       "pinyin": "gān",
       "english": "sweet"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "to say"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "在合成汉字中(在合成漢字中)，音决定读音(音決定讀音)。",
-      "pinyin": "Zài héchéng hànzì zhōng, yīn juédìng dúyīn.",
-      "english": "In compound characters, the phonetic component determines the pronunciation."
+      "chinese": "我最喜欢听大提琴的声音(我最喜歡聽大提琴的聲音)。",
+      "pinyin": "Wǒ zuì xǐhuān tīng dàtíqín de shēngyīn.",
+      "english": "I love the sound of the cello the most."
     },
     {
-      "chinese": "这个字的音使我们联想到原始发音(這個字的音使我們聯想到原始發音)。",
-      "pinyin": "Zhège zì de yīn shǐ wǒmen liánxiǎng dào yuánshǐ fàyīn.",
-      "english": "The phonetic component of this character reminds us of its original pronunciation."
+      "chinese": "她的声音很悦耳(她的聲音很悅耳)。",
+      "pinyin": "Tā de shēngyīn hěn yuè'ěr.",
+      "english": "Her voice is very pleasant."
+    },
+    {
+      "chinese": "音乐可以抚慰人心(音樂可以撫慰人心)，给生活增添色彩(給生活增添色彩)。",
+      "pinyin": "Yīnyuè kěyǐ fǔwèi rénxīn, gěi shēnghuó zēngtiān sècǎi.",
+      "english": "Music can soothe the soul and add color to life."
     }
   ]
 }

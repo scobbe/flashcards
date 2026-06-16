@@ -1,13 +1,13 @@
 {
   "simplified": "吃",
-  "traditional": "吃",
+  "traditional": "喫",
   "pinyin": "chī",
   "english": "eat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 口(口) (kǒu, \"mouth\") + phonetic: 乞(乞) (qǐ, \"beg\") = action involving the mouth; suggestive of eating -> eat",
-    "interpretation": "The character 吃(吃) (chī, \"eat\") combines the essential semantic element of a mouth, indicating oral activity, with a phonetic component suggesting the sound related to begging or requesting food, reinforcing the concept of eating.",
-    "simplification": ""
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 契(契) (qì)",
+    "interpretation": "The character 喫 (chī, \"to eat\") is composed of the semantic component 口(口) (kǒu, \"mouth\"), indicating the action is related to the mouth, and the phonetic component 契(契) (qì), suggesting the sound. The choice of 契(契) as a phonetic element was based on its phonological match rather than semantic relevance, guiding the pronunciation in the context of using the mouth—fundamentally linked to acts like eating.",
+    "simplification": "The character 喫 was simplified to 吃 by replacing 契(契) (qì) with 乞(乞) (qǐ), retaining the mouth radical to preserve the core semantic connection related to eating."
   },
   "parts": [
     {
@@ -17,23 +17,28 @@
       "english": "mouth"
     },
     {
-      "char": "乞",
-      "trad": "乞",
-      "pinyin": "qǐ",
-      "english": "beg"
+      "char": "契",
+      "trad": "契",
+      "pinyin": "qì",
+      "english": "contract"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我吃苹果(我吃蘋果)。",
-      "pinyin": "Wǒ chī píngguǒ.",
-      "english": "I eat apples."
+      "chinese": "每天我都会吃水果(每天我都會吃水果)。",
+      "pinyin": "Měitiān wǒ dōu huì chī shuǐguǒ.",
+      "english": "Every day I eat fruit."
     },
     {
-      "chinese": "他吃早餐(他吃早餐)，然后去上班(然後去上班)。",
-      "pinyin": "Tā chī zǎocān, ránhòu qù shàngbān.",
-      "english": "He eats breakfast, then goes to work."
+      "chinese": "他在餐厅里吃午饭(他在餐廳裡吃午飯)。",
+      "pinyin": "Tā zài cāntīng lǐ chī wǔfàn.",
+      "english": "He eats lunch in the restaurant."
+    },
+    {
+      "chinese": "如果你饿了(如果你餓了)，就吃这些饼干(就吃這些餅乾)。",
+      "pinyin": "Rúguǒ nǐ è le, jiù chī zhèxiē bǐnggān.",
+      "english": "If you are hungry, eat these cookies."
     }
   ]
 }

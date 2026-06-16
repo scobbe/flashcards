@@ -2,20 +2,14 @@
   "simplified": "㒸",
   "traditional": "㒸",
   "pinyin": "suì",
-  "english": "phonetic component",
+  "english": "examine, scrutinize",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 丷 (divide) + phonetic 豕 (shǐ, \"pig\") -> original meaning unclear",
-    "interpretation": "The character 㒸 combines the semantic component 丷, representing 'divide,' with the phonetic component 豕 (shǐ, \"pig\") to form a character whose original semantic meaning is unclear. It serves as a phonetic element in characters like 遂(遂) (suì, \"comply\") and was not originally related to pigs but used for phonetic purposes.",
+    "description": "semantic 丷 (divide) + phonetic 豕 (suì, pig) -> examine, scrutinize",
+    "interpretation": "The character 㒸 combines the semantic 丷, which suggests division or separation, with the phonetic 豕 (suì, 'pig') that only contributes the sound. The process of examination or scrutiny involves dividing or breaking down information, which explains the semantic component's involvement. The pig is used solely for its phonetic contribution and does not influence the meaning.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "丷",
-      "trad": "丷",
-      "pinyin": "bā",
-      "english": "divide"
-    },
     {
       "char": "豕",
       "trad": "豕",

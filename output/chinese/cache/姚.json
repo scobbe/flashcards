@@ -5,8 +5,8 @@
   "english": "handsome; elegant",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "女(女) (nǚ, \"woman\") + phonetic: 兆(兆) (zhào, \"omen\") = combining woman's qualities with the sound of 兆 -> handsome, elegant",
-    "interpretation": "The character 姚 combines the semantic element 女(女) (nǚ, \"woman\") to suggest qualities associated with women such as beauty or elegance, with the phonetic component 兆(兆) (zhào, \"omen\") to give it its pronunciation, arriving at the meaning of 'handsome' or 'elegant.'",
+    "description": "semantic 女(女) (nǚ, \"woman\") + phonetic 兆(兆) (zhào) combined to indicate an elegant woman or handsome person",
+    "interpretation": "The character 姚(yáo, \"handsome; elegant\") combines the semantic 女(女) (nǚ, \"woman\") indicating gender or grace with the phonetic 兆(兆) (zhào), which does not directly inform the meaning but provides the pronunciation. The resulting sense of \"handsome\" or \"elegant\" suggests qualities of beauty or stylishness traditionally associated with women or persons of elegance.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "兆",
       "trad": "兆",
       "pinyin": "zhào",
-      "english": "omen"
+      "english": "omen; sign"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那位青年看起来格外姚(那位青年看起來格外姚)。",
-      "pinyin": "Nà wèi qīngnián kàn qǐlái géwài yáo.",
-      "english": "That young man looks exceptionally handsome."
+      "chinese": "他的举止很姚(他的舉止很姚)。",
+      "pinyin": "Tā de jǔzhǐ hěn yáo.",
+      "english": "His demeanor is very elegant."
     },
     {
-      "chinese": "他总是举止得体(他總是舉止得體)，显得非常姚(顯得非常姚)。",
-      "pinyin": "Tā zǒngshì jǔzhǐ détǐ, xiǎnde fēicháng yáo.",
-      "english": "He always behaves properly, appearing very elegant."
+      "chinese": "姚姓在中国很常见(姚姓在中國很常見)。",
+      "pinyin": "Yáo xìng zài Zhōngguó hěn chángjiàn.",
+      "english": "The surname Yao is very common in China."
+    },
+    {
+      "chinese": "他是一位姚士(他是一位姚士)，总是吸引很多目光(總是吸引很多目光)。",
+      "pinyin": "Tā shì yī wèi yáoshì, zǒng shì xīyǐn hěn duō mùguāng.",
+      "english": "He is a handsome gentleman who always attracts a lot of attention."
     }
   ]
 }

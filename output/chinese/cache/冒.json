@@ -4,28 +4,41 @@
   "pinyin": "mào",
   "english": "emit; give off",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a head covered by a hat or helmet -> emit; give off",
-    "interpretation": "The character 冒(mào, \"emit\") visually represents a head protected by a cover, symbolizing the idea of something being emitted or given off from under a surface.",
+    "type": "phono-semantic compound",
+    "description": "冃 (original form, phonetically as 'hat') + 目 (semantic, 'eyes') -> final form 冒",
+    "interpretation": "The character 冒(mào, \"emit; give off\") combines 冃, which provides the phonetic element related to head coverings, with 目(mù, \"eyes\") as a semantic element. This pairing illustrates the action of something coming across the eyes or under a covering, conceptually linked with emitting or giving off, such as light or vapor emerging from obscured areas.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "冃",
+      "trad": "冃",
+      "pinyin": "mào",
+      "english": "hat"
+    },
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eyes"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "烟囱冒出浓烟(煙囪冒出濃煙)。",
-      "pinyin": "Yān cōng mào chū nóng yān.",
-      "english": "The chimney gives off thick smoke."
+      "chinese": "水壶开始冒蒸汽(水壺開始冒蒸汽)。",
+      "pinyin": "Shuǐhú kāishǐ mào zhēngqì.",
+      "english": "The kettle began to emit steam."
     },
     {
-      "chinese": "工厂冒出黑烟(工廠冒出黑煙)，太阳冒着光芒(太陽冒著光芒)。",
-      "pinyin": "Gōngchǎng mào chū hēiyān, tàiyáng mào zhe guāngmáng.",
-      "english": "The factory emits black smoke, and the sun radiates its glow."
+      "chinese": "这个火山常常冒烟(這個火山常常冒煙)。",
+      "pinyin": "Zhège huǒshān chángcháng mào yān.",
+      "english": "This volcano frequently gives off smoke."
     },
     {
-      "chinese": "汤锅冒出热气(湯鍋冒出熱氣)。",
-      "pinyin": "Tāngguō mào chū rèqì.",
-      "english": "The soup pot is giving off steam."
+      "chinese": "煮饭时锅盖冒出了蒸汽(煮飯時鍋蓋冒出了蒸汽)。",
+      "pinyin": "Zhǔ fàn shí guō gài mào chūle zhēngqì.",
+      "english": "When cooking, the lid emitted steam."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "壺",
+  "traditional": "壺",
+  "pinyin": "hú",
+  "english": "jar",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 壴(壴) ('drum') + phonetic 冏(冏)",
+    "interpretation": "The character 壺(hú, \"jar\") combines 壴(壴) (zhù, \"drum\") which resembles a container, with 冏(冏) (jiǒng) used phonetically to represent the sound. The intuition can be visualized as a container that holds, similar to a drum with its broader shape.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "壴",
+      "trad": "壴",
+      "pinyin": "zhù",
+      "english": "drum"
+    },
+    {
+      "char": "冏",
+      "trad": "冏",
+      "pinyin": "jiǒng",
+      "english": "an ancient phonetic component"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个壶非常古老(這個壺非常古老)。",
+      "pinyin": "Zhège hú fēicháng gǔlǎo.",
+      "english": "This jar is very ancient."
+    },
+    {
+      "chinese": "她用蓝色的壶泡茶(她用藍色的壺泡茶)。",
+      "pinyin": "Tā yòng lán sè de hú pào chá.",
+      "english": "She uses a blue jar to brew tea."
+    },
+    {
+      "chinese": "壶里装满了酒(壺裡裝滿了酒)。",
+      "pinyin": "Hú lǐ zhuāng mǎnle jiǔ.",
+      "english": "The jar is filled with wine."
+    }
+  ]
+}

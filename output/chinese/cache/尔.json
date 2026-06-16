@@ -5,40 +5,40 @@
   "english": "you",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "尒(尒) (ěr, \"ear\") + 小(小) (xiǎo, \"small\") as phonetic -> simplified to 爾(爾) (ěr, \"you\") and semantic -> 尔(爾) (ěr, \"you\")",
-    "interpretation": "The character combines the simplified form of 尒(尒), representing an ear or a small object, with 小, which acts phonetically. Over time, this form became established for the pronoun \"you.\"",
-    "simplification": "Simplified to 尔(爾) by omitting the component structure to represent the same pronoun meaning with fewer strokes."
+    "description": "semantic 小(小) (xiǎo, \"small\") + phonetic 爰(爰) (yuán) -> \u000022you\u000022",
+    "interpretation": "The traditional form 爾(爾) (ěr, \"you\") combines 小(小) (xiǎo, \"small\") for its semantic meaning of something small or secondary, and 爰(爰) (yuán) for its phonetic contribution. The sense of 'you' connects with addressing someone as lesser or secondary in hierarchy.",
+    "simplification": "Simplified by removing 爰(爰), leaving only 小(小) (xiǎo, \"small\"), streamlining the character for easier writing."
   },
   "parts": [
-    {
-      "char": "尒",
-      "trad": "尒",
-      "pinyin": "ěr",
-      "english": "ear"
-    },
     {
       "char": "小",
       "trad": "小",
       "pinyin": "xiǎo",
       "english": "small"
+    },
+    {
+      "char": "爰",
+      "trad": "爰",
+      "pinyin": "yuán",
+      "english": "to proceed"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "尔志存高远(爾志存高遠)，行必致远(行必致遠)。",
-      "pinyin": "Ěr zhìcún gāoyuǎn, xíng bì zhìyuǎn.",
-      "english": "You aim high, and your actions will take you far."
+      "chinese": "吾爱尔甚(吾愛爾甚)。",
+      "pinyin": "Wú ài ěr shèn.",
+      "english": "I love you deeply."
     },
     {
-      "chinese": "尔所言不虚(爾所言不虛)。",
-      "pinyin": "Ěr suǒ yán bù xū.",
-      "english": "What you say is not false."
+      "chinese": "此书赠尔(此書贈爾)。",
+      "pinyin": "Cǐ shū zèng ěr.",
+      "english": "This book is given to you."
     },
     {
-      "chinese": "尔步入学堂(爾步入學堂)，倾听先生教诲(傾聽先生教誡)。",
-      "pinyin": "Ěr bù rù xuétáng, qīngtīng xiānshēng jiàohuì.",
-      "english": "You enter the school and listen to the teacher's instructions."
+      "chinese": "愿尔幸福(願爾幸福)。",
+      "pinyin": "Yuàn ěr xìngfú.",
+      "english": "May you be happy."
     }
   ]
 }

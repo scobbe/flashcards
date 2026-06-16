@@ -4,10 +4,10 @@
   "pinyin": "fēng",
   "english": "wind; breeze",
   "etymology": {
-    "type": "Jiajie ( 假借 )",
-    "description": "鳳(鳳) (fèng, \"fenghuang\") borrowed for sound to represent 風(風) (fēng, \"wind\") -> bronze inscription phonetic 凡 (top) + three fur-like threads (bottom) -> later forms simplified fur -> 虫 misinterpretation as insects",
-    "interpretation": "The character 風(風) (fēng, \"wind\") originally borrowed the sound from 鳳(鳳) (fèng, \"fenghuang\"), a mythical bird, and eventually evolved by simplifying the depiction of fur to represent wind. Its correct interpretation focuses on sound association rather than its visual components being insects.",
-    "simplification": "风 is a simplification of 風 where 䖝 is replaced with 㐅 to create a more streamlined form."
+    "type": "jiajie",
+    "description": "鳳(鳳) (fèng, 'fenghuang') borrowed for sound -> 凡(凡) (fan, 'ordinary') phonetic + depiction of fenghuang tail 'fur' -> 風",
+    "interpretation": "Originally a borrowing of 鳳(鳳) (fèng, 'fenghuang') for its sound to mean 'wind'. The character's structure was influenced by early forms depicting feathers or fur on a fenghuang's tail, with later simplifications resulting in the final form.",
+    "simplification": "The traditional character 風 was simplified to 风 by replacing 䖝 with 㐅, streamlining the depiction of wind."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "凡",
       "trad": "凡",
       "pinyin": "fán",
-      "english": "ordinary (phonetic component)"
+      "english": "ordinary"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "海边的风拂过脸颊(海邊的風拂過臉頰)。",
-      "pinyin": "Hǎibiān de fēng fúguò liǎnjiá.",
-      "english": "The seaside wind brushes past the cheeks."
+      "chinese": "今天的风很大(今天的風很大)。",
+      "pinyin": "Jīntiān de fēng hěn dà.",
+      "english": "The wind is strong today."
     },
     {
-      "chinese": "微风轻拂树梢(微風輕拂樹梢)，鸟儿欢唱于林间(鳥兒歡唱於林間)。",
-      "pinyin": "Wēifēng qīngfú shùshāo, niǎor huānchàng yú línjiān.",
-      "english": "The gentle breeze caresses the treetops, while birds chirp joyfully in the forest."
+      "chinese": "风轻轻地吹过树叶(風輕輕地吹過樹葉)。",
+      "pinyin": "Fēng qīngqīng de chuī guò shù yè.",
+      "english": "The breeze gently blows through the leaves."
+    },
+    {
+      "chinese": "他喜欢在风中散步(他喜歡在風中散步)。",
+      "pinyin": "Tā xǐhuān zài fēng zhōng sànbù.",
+      "english": "He likes to take walks in the wind."
     }
   ]
 }

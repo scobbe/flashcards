@@ -4,41 +4,41 @@
   "pinyin": "mò",
   "english": "sound and sense",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "艸(艸) (cǎo, 'grass') + 日(日) (rì, 'sun') = sun setting behind grass -> dusk, a time of silence",
-    "interpretation": "This character combines 艸(艸) (cǎo, 'grass') and 日(日) (rì, 'sun'), depicting the image of the sun setting behind the grass, symbolizing dusk, a time associated with silence. It evolved to represent the concept of 'none' or 'not' as dusk signifies the end of the day.",
+    "type": "pictogram",
+    "description": "日(日) (rì, \"sun\") + 屮(屮) (chè, \"sprouts\") -> originally sun setting into bushes -> bottom later distorted to 大(dà, \"big\") -> final form 莫(mò, \"none\")",
+    "interpretation": "Originally, the character depicts the sun sinking into the bushes, denoting dusk, which marks the end of the day. This concept of an ending led to the character's extended meanings related to absence or negation, such as \"none\" or \"not\".",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "艸",
-      "trad": "艸",
-      "pinyin": "cǎo",
-      "english": "grass"
-    },
     {
       "char": "日",
       "trad": "日",
       "pinyin": "rì",
       "english": "sun"
+    },
+    {
+      "char": "屮",
+      "trad": "屮",
+      "pinyin": "chè",
+      "english": "sprouts"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "莫轻易承诺(莫輕易承諾)。",
-      "pinyin": "Mò qīngyì chéngnuò.",
-      "english": "Do not make promises lightly."
+      "chinese": "他的微笑令人莫名其妙(他的微笑令人莫名其妙)。",
+      "pinyin": "Tā de wēixiào lìng rén mòmíngqímiào.",
+      "english": "His smile is baffling."
     },
     {
-      "chinese": "面对挑战(面對挑戰)，莫失信心(莫失信心)。",
-      "pinyin": "Miànduì tiǎozhàn, mò shī xìnxīn.",
-      "english": "When facing challenges, never lose confidence."
+      "chinese": "莫忘初衷(莫忘初衷)，坚持到底(堅持到底)。",
+      "pinyin": "Mò wàng chūzhōng, jiānchí dàodǐ.",
+      "english": "Do not forget your original intention, and persist to the end."
     },
     {
-      "chinese": "这股气势(這股氣勢)，莫人能敌(莫人能敵)。",
-      "pinyin": "Zhè gǔ qìshì, mò rén néng dí.",
-      "english": "Such momentum is invincible."
+      "chinese": "这个秘密无人知晓(這個秘密無人知曉)，莫要泄露出去(莫要洩露出去)。",
+      "pinyin": "Zhège mìmì wú rén zhīxiǎo, mò yào xièlù chūqù.",
+      "english": "This secret is known to no one, do not disclose it."
     }
   ]
 }

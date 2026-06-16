@@ -5,8 +5,8 @@
   "english": "now",
   "etymology": {
     "type": "ideogram",
-    "description": "Inverted 曰(曰) (yuē, \"to speak\") -> 亼(亼) with a horizontal stroke at the bottom -> depicts 'not to speak' or something in the mouth",
-    "interpretation": "The character 今(jīn, \"now\") represents a transformation of 曰(曰) to symbolize 'not to speak' or perhaps something held in the mouth, related to concepts of quiet or containment, suggesting the present or stasis of 'now'.",
+    "description": "曰(曰) (yuē, \"to speak\") inverted with 亼-like structure + horizontal stroke -> original form implying 'not to speak' or 'keep in mouth'",
+    "interpretation": "The character depicts an inverted version of 曰(曰) (yuē, \"to speak\"), with a structure resembling 亼 and a horizontal stroke, representing something placed in the mouth, leading to the sense of 'keeping in the mouth' or 'not speaking'. This image of being contained or holding leads to 'now', as in holding or having the present moment.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "亼",
       "trad": "亼",
       "pinyin": "jí",
-      "english": "assemble"
+      "english": "collect; assemble"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "从今以后(從今以後)，我会更加努力(我會更加努力)。",
-      "pinyin": "Cóng jīn yǐhòu, wǒ huì gèngjiā nǔlì.",
-      "english": "From now on, I will work even harder."
+      "chinese": "今天的天气不错(今天的天氣不錯)。",
+      "pinyin": "Jīntiān de tiānqì bùcuò.",
+      "english": "Today's weather is nice."
     },
     {
-      "chinese": "今晚聚会(今晚聚會)。",
-      "pinyin": "Jīn wǎn jùhuì.",
-      "english": "The gathering is tonight."
+      "chinese": "现在是吃晚饭的时候(現在是吃晚飯的時候)。",
+      "pinyin": "Xiànzài shì chī wǎnfàn de shíhòu.",
+      "english": "Now is the time to have dinner."
     },
     {
-      "chinese": "今晨阅读使我清醒(今晨閱讀使我清醒)。",
-      "pinyin": "Jīn chén yuèdú shǐ wǒ qīngxǐng.",
-      "english": "Reading this morning makes me alert."
+      "chinese": "她今天特别忙(她今天特別忙)，没时间见面(沒時間見面)。",
+      "pinyin": "Tā jīntiān tèbié máng, méi shíjiān jiànmiàn.",
+      "english": "She is especially busy today and doesn't have time to meet."
     }
   ]
 }

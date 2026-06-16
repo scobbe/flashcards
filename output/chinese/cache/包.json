@@ -5,8 +5,8 @@
   "english": "wrap",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts fetus 巳(巳) (sì, \"fetus\") in womb 勹(勹) (bāo, \"wrap\") -> swaddled baby -> wrap",
-    "interpretation": "The character 包(bāo) visually represents a fetus enclosed in the womb, akin to wrapping. This imagery conveys the concept of enveloping or wrapping something securely.",
+    "description": "Depicts a fetus (巳) in the womb (勹) or a swaddled baby",
+    "interpretation": "The character 包(bāo, 'wrap') visually represents a fetus enclosed in a womb, suggesting the idea of something being wrapped or enclosed. This portrays the concept of an item wrapped in a protective covering, just as a fetus is in the womb.",
     "simplification": ""
   },
   "parts": [
@@ -27,18 +27,18 @@
   "examples": [
     {
       "chinese": "妈妈正在包饺子(媽媽正在包餃子)。",
-      "pinyin": "māmā zhèngzài bāo jiǎozi.",
+      "pinyin": "Māma zhèngzài bāo jiǎozi.",
       "english": "Mom is wrapping dumplings."
     },
     {
-      "chinese": "她学习如何包礼物(她學習如何包禮物)，让它看起来更漂亮(讓它看起來更漂亮)。",
-      "pinyin": "tā xuéxí rúhé bāo lǐwù, ràng tā kàn qǐlái gèng piàoliang.",
-      "english": "She learns how to wrap gifts to make them look more beautiful."
+      "chinese": "请帮我包好这个礼物(請幫我包好這個禮物)。",
+      "pinyin": "Qǐng bāng wǒ bāo hǎo zhège lǐwù.",
+      "english": "Please help me wrap this gift properly."
     },
     {
-      "chinese": "厨师熟练地包春卷(廚師熟練地包春捲)，确保每一个都紧紧地包着(確保每一個都緊緊地包著)。",
-      "pinyin": "chúshī shúliàn de bāo chūnjuǎn, quèbǎo měi yīgè dōu jǐn jǐn de bāozhe.",
-      "english": "The chef skillfully wraps spring rolls, ensuring each one is tightly wrapped."
+      "chinese": "在中国新年，我们会包红包(在中國新年，我們會包紅包)。",
+      "pinyin": "Zài Zhōngguó xīnnián, wǒmen huì bāo hóngbāo.",
+      "english": "During the Chinese New Year, we wrap red envelopes."
     }
   ]
 }

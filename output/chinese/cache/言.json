@@ -4,9 +4,9 @@
   "pinyin": "yán",
   "english": "speech",
   "etymology": {
-    "type": "Ideogram",
-    "description": "舌(舌) (shé, \"tongue\") with added horizontal stroke -> indicates movement of tongue for speech -> modern form adds another stroke on top",
-    "interpretation": "The character 言(yán, \"speech\") visually emphasizes the movement of the tongue, illustrating how speech is produced through tongue actions. The additional stroke and evolution to a more abstract form highlight the facet of communication.",
+    "type": "ideogram",
+    "description": "舌 (mouth with a forked tongue) with added stroke at top to suggest tongue movement -> speech",
+    "interpretation": "The character 言(yán, \"speech\") depicts the addition of a horizontal stroke to the ancient form of 舌(shé, \"tongue\") to indicate the motion of the tongue as it moves to articulate speech. This directly connects the organ involved in speaking to the concept of speech itself.",
     "simplification": ""
   },
   "parts": [
@@ -15,19 +15,30 @@
       "trad": "舌",
       "pinyin": "shé",
       "english": "tongue"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的言令人信服(他的言令人信服)。",
-      "pinyin": "Tā de yán lìng rén xìn fú.",
-      "english": "His speech is convincing."
+      "chinese": "他的言语充满智慧(他的言語充滿智慧)。",
+      "pinyin": "Tā de yányǔ chōngmǎn zhìhuì.",
+      "english": "His speech is full of wisdom."
     },
     {
-      "chinese": "他喜欢研究古人的言论(他喜歡研究古人的言論)，并整理成册(並整理成冊)。",
-      "pinyin": "Tā xǐhuān yánjiū gǔ rén de yánlùn, bìng zhěnglǐ chéng cè.",
-      "english": "He likes to study the speeches of ancient people and compile them into volumes."
+      "chinese": "我们应该以行动证明我们的言词(我們應該以行動證明我們的言詞)。",
+      "pinyin": "Wǒmen yīnggāi yǐ xíngdòng zhèngmíng wǒmen de yáncí.",
+      "english": "We should prove our words with actions."
+    },
+    {
+      "chinese": "他说话的方式显示了他的修养(他說話的方式顯示了他的修養)。",
+      "pinyin": "Tā shuōhuà de fāngshì xiǎnshìle tā de xiūyǎng.",
+      "english": "The way he speaks shows his refinement."
     }
   ]
 }

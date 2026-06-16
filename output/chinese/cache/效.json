@@ -5,16 +5,16 @@
   "english": "result",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 交(交) (jiāo, \"mix\") + semantic: 攵(攵) (pū, \"to strike; action\") -> result",
-    "interpretation": "In 效(效) (xiào, \"result\"), 交(交) (jiāo, \"mix\") provides the pronunciation while 攵(攵) (pū, \"to strike; action\") conveys the idea of performing an action to achieve a result.",
-    "simplification": "In simplified form, 效(效) retains its structure, differing from other cases where components might be reduced."
+    "description": "semantic 攵(攵) (pū, 'to strike; action') + phonetic 交(交) (jiāo) -> result achieved through actions",
+    "interpretation": "The character 效 (xiào, 'result') combines the semantic element 攵(攵) (pū, 'to strike; action') with the phonetic element 交(交) (jiāo, 'intersect'). The action element suggests the process or effort involved, while the phonetic 交 suggests interaction or crossing. Together, they imply a situation where actions lead to an intersection or outcome, hence the meaning 'result'.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "交",
       "trad": "交",
       "pinyin": "jiāo",
-      "english": "mix"
+      "english": "intersect"
     },
     {
       "char": "攵",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "努力工作才能看到好的效果(努力工作才能看到好的效果)。",
-      "pinyin": "Nǔlì gōngzuò cáinéng kàndào hǎo de xiàoguǒ.",
-      "english": "Only by working hard can we see good results."
+      "chinese": "这个药没有明显的效果(這個藥沒有明顯的效果)。",
+      "pinyin": "Zhège yào méiyǒu míngxiǎn de xiàoguǒ.",
+      "english": "This medicine doesn't have an obvious effect."
     },
     {
-      "chinese": "这种药的效果很好(這種藥的效果很好)。",
-      "pinyin": "Zhè zhǒng yào de xiàoguǒ hěn hǎo.",
-      "english": "The effect of this medicine is very good."
+      "chinese": "实验结果显示出良好的效果(實驗結果顯示出良好的效果)。",
+      "pinyin": "Shíyàn jiéguǒ xiǎnshì chū liánghǎo de xiàoguǒ.",
+      "english": "The experiment results show a good effect."
     },
     {
-      "chinese": "他们为达到最佳效果需要更多时间(他們為達到最佳效果需要更多時間)。",
-      "pinyin": "Tāmen wèi dádào zuìjiā xiàoguǒ xūyào gèng duō shíjiān.",
-      "english": "They need more time to achieve the best results."
+      "chinese": "努力工作的人通常会看到好的成效(努力工作的人通常會看到好的成效)。",
+      "pinyin": "Nǔlì gōngzuò de rén tōngcháng huì kàn dào hǎo de chéngxiào.",
+      "english": "People who work hard usually see good results."
     }
   ]
 }

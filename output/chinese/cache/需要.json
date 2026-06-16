@@ -5,8 +5,8 @@
   "english": "to need",
   "etymology": {
     "type": "compound word",
-    "description": "需(需) (xū, \"require\") + 要(要) (yào, \"want; demand\") = to need",
-    "interpretation": "This combination makes sense because 需(需) (xū, \"require\") indicates a necessity, while 要(要) (yào, \"want; demand\") adds the element of desire or demand, resulting in the concept of needing something essential or desired.",
+    "description": "需(需) (xū, \"to need; to require; to have to\") + 要(要) (yào, \"to want; to demand; essential; important\") = a situation or thing that is both needed and wanted",
+    "interpretation": "需(需) (xū, \"to need; to require\") involves the idea of necessity, something you must have or do. 要(要) (yào, \"to want; to demand\") emphasizes desire or importance. Combining these, 需要(xūyào) indicates something that is both necessary and desired, hence 'to need'.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "需",
       "trad": "需",
       "pinyin": "xū",
-      "english": "require"
+      "english": "to need; to require; to have to"
     },
     {
       "char": "要",
       "trad": "要",
       "pinyin": "yào",
-      "english": "want; demand"
+      "english": "to want; to demand; essential; important"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我需要水(我需要水)。",
-      "pinyin": "wǒ xūyào shuǐ",
-      "english": "I need water."
+      "chinese": "我需要你的帮助(我需要你的幫助)。",
+      "pinyin": "Wǒ xūyào nǐ de bāngzhù.",
+      "english": "I need your help."
     },
     {
-      "chinese": "我们需要友谊(我們需要友誼)，成长需要挑战(成長需要挑戰)。",
-      "pinyin": "wǒmen xūyào yǒuyì，chéngzhǎng xūyào tiǎozhàn",
-      "english": "We need friendship, and growth requires challenges."
+      "chinese": "如果你需要休息(如果你需要休息)，就告诉我(就告訴我)。",
+      "pinyin": "Rúguǒ nǐ xūyào xiūxī, jiù gàosù wǒ.",
+      "english": "If you need a rest, just tell me."
+    },
+    {
+      "chinese": "她需要更多的时间来完成工作(她需要更多的時間來完成工作)。",
+      "pinyin": "Tā xūyào gèng duō de shíjiān lái wánchéng gōngzuò.",
+      "english": "She needs more time to complete the work."
     }
   ]
 }

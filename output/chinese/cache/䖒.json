@@ -2,11 +2,11 @@
   "simplified": "䖒",
   "traditional": "䖒",
   "pinyin": "xī",
-  "english": "(phonetic component)",
+  "english": "locust larva",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 虍 + semantic 豆 -> contributes to the sound 'xī'",
-    "interpretation": "The character 䖒 combines the phonetic element 虍 with the semantic element 豆 to form a character primarily used as a phonetic component in other characters.",
+    "description": "phonetic 虍 + semantic 豆 -> locust larva",
+    "interpretation": "䖒 is a phono-semantic compound character where 虍 supplies the sound and 豆 contributes the meaning related to insects, alluding to the locust larva.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "虍",
       "trad": "虍",
       "pinyin": "hū",
-      "english": "tiger stripes"
+      "english": "tiger"
     },
     {
       "char": "豆",

@@ -5,8 +5,8 @@
   "english": "battle; campaign",
   "etymology": {
     "type": "compound word",
-    "description": "战(戰) (zhàn, \"war\" or \"fight\") and 役(役) (yì, \"military service\" or \"campaign\") combine to mean a \"battle\" or \"campaign\" in a military context.",
-    "interpretation": "The combination of 战(戰) (zhàn, \"war\" or \"fight\") and 役(役) (yì, \"military service\" or \"campaign\") reflects the concept of a military engagement where forces are actively fighting in a war, thus commonly translating to a battle or campaign.",
+    "description": "战(戰) (zhàn, \"war\") refers to conflict or warfare. 役(役) (yì, \"service; role\") originally referred to military service or duty. Together, 战役(戰役) combines the concepts of warfare and military service to denote a specific military action or engagement.",
+    "interpretation": "战(戰) (zhàn, \"war\") indicates the broader context of conflict or warfare, setting the scene for action. 役(役) (yì, \"service; role\") pinpoints a specific engagement as part of one's military duties. This specificity captures a particular 'battle' or 'campaign' by narrowing the broad concept of war to its actionable engagements.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "战",
       "trad": "戰",
       "pinyin": "zhàn",
-      "english": "war; fight"
+      "english": "war"
     },
     {
       "char": "役",
       "trad": "役",
       "pinyin": "yì",
-      "english": "military service; campaign"
+      "english": "service; role"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那场战役艰苦卓绝(那場戰役艱苦卓絕)，士兵们勇敢无畏(士兵們勇敢無畏)。",
-      "pinyin": "Nà chǎng zhànyì jiānkǔ zhuójué, shìbīngmen yǒnggǎn wúwèi.",
-      "english": "That battle was arduous and extraordinary, and the soldiers were brave and fearless."
+      "chinese": "这场战役决定了战争的胜负(這場戰役決定了戰爭的勝負)。",
+      "pinyin": "Zhè chǎng zhànyì juédìngle zhànzhēng de shèngfù.",
+      "english": "This battle determined the outcome of the war."
     },
     {
-      "chinese": "历史上著名的战役改变了国家命运(歷史上著名的戰役改變了國家命運)，赢得了世界的尊重(贏得了世界的尊重)。",
-      "pinyin": "Lìshǐ shàng zhùmíng de zhànyì gǎibiàn le guójiā mìngyùn, yíngdé le shìjiè de zūnzhòng.",
-      "english": "The famous historical battle changed the nation's destiny and earned respect from the world."
+      "chinese": "将军计划了一次关键的战役(將軍計劃了一次關鍵的戰役)。",
+      "pinyin": "Jiāngjūn jìhuàle yī cì guānjiàn de zhànyì.",
+      "english": "The general planned a crucial campaign."
+    },
+    {
+      "chinese": "在这次战役中(在這次戰役中)，士兵们表现英勇(士兵們表現英勇)。",
+      "pinyin": "Zài zhè cì zhànyì zhōng, shìbīngmen biǎoxiàn yīngyǒng.",
+      "english": "In this battle, the soldiers displayed bravery."
     }
   ]
 }

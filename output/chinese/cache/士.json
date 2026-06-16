@@ -5,27 +5,27 @@
   "english": "upside-down ritual axe perhaps made of precious materials",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an upside-down ritual axe -> later meaning soldier -> eventually officer or intellectual",
-    "interpretation": "The character 士(士) (shì, 'officer') originally depicted a ritual axe, symbolizing authority and power. Over time, it evolved to signify roles associated with leadership and scholarship.",
+    "description": "Depicts a ritual axe, possibly made of jade -> symbolized soldier -> intellectual or officer over time",
+    "interpretation": "The character 士(shì, 'scholar') originally depicted a ritual axe used in ceremonies, implying a person of a certain rank or status who could wield such symbols. This connection to ceremonial authority evolved to mean 'soldier' and later 'intellectual' or 'officer', roles associated with leadership and knowledge in societal hierarchies.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "博物馆今日展出了士(士)，展示古代祭祀器物(展示古代祭祀器物)。",
-      "pinyin": "Bówùguǎn jīnrì zhǎnchūle shì(士)，zhǎnshì gǔdài jìsì qìwù(展示古代祭祀器物)。",
-      "english": "The museum exhibited the shì today, showcasing ancient sacrificial vessels."
+      "chinese": "历史上，士被视为一种权力的象征(歷史上，士被視為一種權力的象徵)。",
+      "pinyin": "Lìshǐ shàng, shì bèi shì wéi yī zhǒng quánlì de xiàngzhēng.",
+      "english": "Historically, the 'shi' was seen as a symbol of power."
     },
     {
-      "chinese": "考古学家在遗址中发现了一把士(士)，被认为是祭祀用的珍贵器物(被認為是祭祀用的珍貴器物)。",
-      "pinyin": "Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiànle yī bǎ shì(士)，bèi rènwéi shì jìsì yòng de zhēnguì qìwù(被認為是祭祀用的珍貴器物)。",
-      "english": "Archaeologists discovered a shì at the site, which is considered a precious ritual artifact."
+      "chinese": "在古代，只有贵族才拥有士(在古代，只有貴族才擁有士)。",
+      "pinyin": "Zài gǔdài, zhǐyǒu guìzú cái yǒngyǒu shì.",
+      "english": "In ancient times, only nobles possessed the 'shi'."
     },
     {
-      "chinese": "工匠精心打造出的士(士)，在阳光下闪烁着金属光芒(在陽光下閃爍着金屬光芒)。",
-      "pinyin": "Gōngjiàng jīngxīn dǎzàochū de shì(士)，zài yángguāng xià shǎnshuò zhe jīnshǔ guāngmáng(在陽光下閃爍着金屬光芒)。",
-      "english": "The shì, crafted meticulously by artisans, shimmers under the sunlight with a metallic glow."
+      "chinese": "士的制作材料可能是珍贵的金属(士的製作材料可能是珍貴的金屬)。",
+      "pinyin": "Shì de zhìzuò cáiliào kěnéng shì zhēnguì de jīnshǔ.",
+      "english": "The materials used to make the 'shi' might have been precious metals."
     }
   ]
 }

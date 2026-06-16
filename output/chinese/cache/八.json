@@ -5,40 +5,27 @@
   "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Two bent lines indicating original meaning 'to divide' -> borrowed for sound to mean 'eight'",
-    "interpretation": "Originally depicting the concept of division, 八 was later borrowed to represent 'eight' due to its similar pronunciation to the numeral. Its initial meaning is now represented by other characters like 分 and 別.",
+    "description": "Depicts two bent lines -> originally meant 'to divide' -> borrowed for phonetic similarity to mean 'eight'",
+    "interpretation": "The character 八(bā,",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "分",
-      "trad": "分",
-      "pinyin": "fēn",
-      "english": "divide"
-    },
-    {
-      "char": "別",
-      "trad": "別",
-      "pinyin": "bié",
-      "english": "separate"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有八支笔(我有八支筆)。",
-      "pinyin": "Wǒ yǒu bā zhī bǐ.",
-      "english": "I have eight pens."
+      "chinese": "他有八个苹果(他有八個蘋果)。",
+      "pinyin": "Tā yǒu bā gè píngguǒ.",
+      "english": "He has eight apples."
     },
     {
-      "chinese": "桌子上有八个苹果(桌子上有八個蘋果)。",
-      "pinyin": "Zhuōzi shàng yǒu bā gè píngguǒ.",
-      "english": "There are eight apples on the table."
+      "chinese": "这只猫已经八岁了(這隻貓已經八歲了)。",
+      "pinyin": "Zhè zhī māo yǐjīng bā suì le.",
+      "english": "This cat is already eight years old."
     },
     {
-      "chinese": "我在八点(我在八點)，起床开始一天的生活(起床開始一天的生活)。",
-      "pinyin": "Wǒ zài bā diǎn, qǐchuáng kāishǐ yītiān de shēnghuó.",
-      "english": "I wake up at eight o'clock to start my day."
+      "chinese": "我上午八点上班(我上午八點上班)。",
+      "pinyin": "Wǒ shàngwǔ bā diǎn shàngbān.",
+      "english": "I start work at eight in the morning."
     }
   ]
 }

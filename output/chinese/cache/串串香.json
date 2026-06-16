@@ -5,8 +5,8 @@
   "english": "skewered hot pot",
   "etymology": {
     "type": "compound word",
-    "description": "串(串) (chuàn, \"skewer\") refers to food threaded on sticks, 香(香) (xiāng, \"fragrant\") describes the enticing aroma and flavor. Together, 串串 refers to the skewered items in hotpot, which are known for their fragrance.",
-    "interpretation": "串串香, often associated with Sichuan cuisine, is a type of hot pot where various skewered foods are cooked in a flavorful and aromatic broth, reflecting the popular social dining experience and rich flavors typical of the region.",
+    "description": "In this word, 串(串) (chuàn, \"skewer\") is the main concept of skewering food; repeated to 串串(串串) (chuànchuàn, \"a series of skewers\"), and 香(香) (xiāng, \"fragrant\") refers to the aroma from cooking or seasoning, describing the aromatic quality of the dish.",
+    "interpretation": "串串(串串) (chuànchuàn, \"a series of skewers\") signifies multiple skewered items, a defining characteristic of this dining style where small portions are cooked on skewers. 香(香) (xiāng, \"fragrant\") emphasizes the appealing scent released as the ingredients cook in the hot pot broth, drawing people in with its aroma. This describes a type of hot pot where individual skewers of ingredients are cooked in a communal pot, appealing both visually and aromatically.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "串串",
       "trad": "串串",
       "pinyin": "chuànchuàn",
-      "english": "skewers; skewered food"
+      "english": "a series of skewers"
     },
     {
       "char": "香",
       "trad": "香",
       "pinyin": "xiāng",
-      "english": "fragrant; aromatic"
+      "english": "fragrant; aromatic; savory"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "串串香是一种受欢迎的街头小吃(串串香是一種受歡迎的街頭小吃)。",
-      "pinyin": "Chuàn chuàn xiāng shì yī zhǒng shòu huānyíng de jiētóu xiǎochī.",
-      "english": "Skewered hot pot is a popular street snack."
+      "chinese": "我们昨天晚上去吃了串串香(我們昨天晚上去吃了串串香)。",
+      "pinyin": "Wǒmen zuótiān wǎnshàng qù chī le chuàn chuàn xiāng.",
+      "english": "We went to eat skewered hot pot last night."
     },
     {
-      "chinese": "我喜欢吃串串香(我喜歡吃串串香)，因为它辣味十足(因爲它辣味十足)。",
-      "pinyin": "Wǒ xǐhuān chī chuàn chuàn xiāng, yīnwèi tā làwèi shízú.",
-      "english": "I like to eat skewered hot pot because it is wonderfully spicy."
+      "chinese": "小李特别喜欢成都的串串香(小李特別喜歡成都的串串香)。",
+      "pinyin": "Xiǎo Lǐ tèbié xǐhuān Chéngdū de chuàn chuàn xiāng.",
+      "english": "Xiao Li especially likes Chengdu's skewered hot pot."
     },
     {
-      "chinese": "冬天的时候(冬天的時候)，一碗热气腾腾的串串香可以驱寒(一碗熱氣騰騰的串串香可以驅寒)。",
-      "pinyin": "Dōngtiān de shíhòu, yī wǎn rèqì téngténg de chuàn chuàn xiāng kěyǐ qūhán.",
-      "english": "In winter, a bowl of steamy skewered hot pot can ward off the cold."
+      "chinese": "串串香的汤底有很多种口味(串串香的湯底有很多種口味)，可以根据自己的喜好选择(可以根據自己的喜好選擇)。",
+      "pinyin": "Chuàn chuàn xiāng de tāngdǐ yǒu hěn duō zhǒng kǒuwèi, kěyǐ gēnjù zìjǐ de xǐhào xuǎnzé.",
+      "english": "The skewered hot pot has many flavors of broth to choose from according to your preference."
     }
   ]
 }

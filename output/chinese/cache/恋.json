@@ -5,16 +5,16 @@
   "english": "romance; love",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "䜌 (phonetic) + 心 (heart) -> phonetic and semantic combination relating to emotions -> final form 戀",
-    "interpretation": "戀(love) combines 䜌, which provides the phonetic component, with 心(xīn, 'heart'), symbolizing the emotional or heartfelt aspect of love.",
-    "simplification": "戀(戀) (liàn, \"romance; love\") was simplified to 恋(恋) by removing the phonetic component 䜌 and retaining the essential meaning of 心 (xīn, \"heart\")."
+    "description": "phonetic 䜌 + semantic 心 ('heart') -> ties of the heart -> romance",
+    "interpretation": "戀(lì) represents 'romance' by combining 心(xīn, 'heart') as the semantic element indicating emotions, with 䜌 as the phonetic component suggesting the sound 'liàn'. The heart tied up or entangled captures the sense of romantic attachment and longing.",
+    "simplification": "戀(戀) was simplified to 恋(戀) by removing the phonetic 䜌 and retaining only the semantic 心(xīn, 'heart')."
   },
   "parts": [
     {
       "char": "䜌",
       "trad": "䜌",
-      "pinyin": "làn",
-      "english": "phonetic component"
+      "pinyin": "lì",
+      "english": "phonetic"
     },
     {
       "char": "心",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他坠入了深深的恋爱(他墜入了深深的戀愛)。",
-      "pinyin": "Tā zhuìrùle shēnshēn de liàn'ài.",
-      "english": "He fell deeply in love."
+      "chinese": "他们的恋情很浪漫(他們的戀情很浪漫)。",
+      "pinyin": "Tāmen de liànqíng hěn làngmàn.",
+      "english": "Their romance is very romantic."
     },
     {
-      "chinese": "这首歌充满了浪漫的恋情(這首歌充滿了浪漫的戀情)。",
-      "pinyin": "Zhè shǒu gē chōngmǎnle làngmàn de liànqíng.",
-      "english": "This song is full of romantic love."
+      "chinese": "她在校园里与他相恋(她在校園裡與他相戀)。",
+      "pinyin": "Tā zài xiàoyuán lǐ yǔ tā xiāngliàn.",
+      "english": "She fell in love with him on campus."
     },
     {
-      "chinese": "在古代诗词中(在古代詩詞中)，恋字常用于表达相思(戀字常用於表達相思)。",
-      "pinyin": "Zài gǔdài shīcí zhōng, liàn zì cháng yòng yú biǎodá xiāngsī.",
-      "english": "In ancient poetry, the character 'liàn' was often used to express longing."
+      "chinese": "他一直希望找到一份真诚的爱情(他一直希望找到一份真誠的愛情)。",
+      "pinyin": "Tā yīzhí xīwàng zhǎodào yī fèn zhēnchéng de àiqíng.",
+      "english": "He has always hoped to find a sincere love."
     }
   ]
 }

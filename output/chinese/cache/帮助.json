@@ -5,8 +5,8 @@
   "english": "help",
   "etymology": {
     "type": "compound word",
-    "description": "帮(幫) (bāng, \"help; assist\") and 助(助) (zhù, \"aid; assist\") together emphasize the action of providing assistance or support.",
-    "interpretation": "帮(幫) (bāng, \"help; assist\") and 助(助) (zhù, \"aid; assist\") both imply offering support or help to someone else. Their combination strengthens the notion of providing assistance or aiding others.",
+    "description": "帮(幫) (bāng, \"help\") refers to aiding or assisting someone, often in a collaborative sense. 助(助) (zhù, \"help\") emphasizes the act of giving aid or support.",
+    "interpretation": "帮(幫) (bāng, \"help\") conveys the idea of a group working together, which naturally extends to providing assistance or aid. 助(助) (zhù, \"help\") involves offering active support or assistance, emphasizing the act of augmenting another's efforts. Together, 帮助(幫助) (bāngzhù) combines the collaborative aspect with active support, creating a comprehensive notion of helping.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "帮",
       "trad": "幫",
       "pinyin": "bāng",
-      "english": "help; assist; group"
+      "english": "help; assist; group; gang"
     },
     {
       "char": "助",
       "trad": "助",
       "pinyin": "zhù",
-      "english": "aid; assist; help; support"
+      "english": "help; aid; assist; support"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我常常帮助有需要的人(我常常幫助有需要的人)。",
-      "pinyin": "Wǒ chángcháng bāngzhù yǒu xūqiú de rén.",
-      "english": "I often help those in need."
+      "chinese": "他总是愿意帮助别人(他總是願意幫助別人)。",
+      "pinyin": "Tā zǒngshì yuànyì bāngzhù biérén.",
+      "english": "He is always willing to help others."
     },
     {
-      "chinese": "他帮助邻居(他幫助鄰居)，也给予了鼓励(也給予了鼓勵)。",
-      "pinyin": "Tā bāngzhù línjū, yě jǐyǔle gǔlì.",
-      "english": "He helps his neighbors and also gives them encouragement."
+      "chinese": "谢谢你的帮助(謝謝你的幫助)，我非常感激(我非常感激)。",
+      "pinyin": "Xièxiè nǐ de bāngzhù, wǒ fēicháng gǎnjī.",
+      "english": "Thank you for your help, I am very grateful."
+    },
+    {
+      "chinese": "他需要一些帮助(他需要一些幫助)。",
+      "pinyin": "Tā xūyào yīxiē bāngzhù.",
+      "english": "He needs some help."
     }
   ]
 }

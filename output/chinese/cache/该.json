@@ -5,9 +5,9 @@
   "english": "ought to; should",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + phonetic: 亥(亥) (hài) = relates to speech -> intention or obligation in speech",
-    "interpretation": "The character combines 言(言) (yán, \"speech\") indicating relation to speaking, with 亥(亥) (hài) for phonetic value, implying the meaning of obligation or necessity related to speech.",
-    "simplification": "该 is the simplified form of 該, maintaining the same components but using a cursive shorthand for 言(言)."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 亥(亥) (hài)",
+    "interpretation": "The character 該 combines 言(言) (yán, \"speech\") as the semantic element, representing verbal communication or stating something, with 亥(亥) (hài) as the phonetic element to provide the sound. It suggests the context of what is spoken or stated, leading to the meaning \"ought to\" or \"should\", as in something that is verbally recommended or prescribed.",
+    "simplification": "該(該) was simplified to 该(該) by replacing 言(言) (yán, \"speech\") with 讠, the simplified radical form for speech components."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "亥",
       "trad": "亥",
       "pinyin": "hài",
-      "english": "None"
+      "english": "twelfth earthly branch"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他该承担责任(他該承擔責任)。",
-      "pinyin": "Tā gāi chéngdān zérèn.",
-      "english": "He ought to take responsibility."
+      "chinese": "你该早点休息(你該早点休息)。",
+      "pinyin": "Nǐ gāi zǎodiǎn xiūxí.",
+      "english": "You ought to rest earlier."
     },
     {
-      "chinese": "你该多喝水(你該多喝水)，注意身体(注意身體)。",
-      "pinyin": "Nǐ gāi duō hē shuǐ, zhùyì shēntǐ.",
-      "english": "You should drink more water and take care of your health."
+      "chinese": "我们该去超市了(我們該去超市了)。",
+      "pinyin": "Wǒmen gāi qù chāoshì le.",
+      "english": "We should go to the supermarket."
     },
     {
-      "chinese": "我们该完成作业(我們該完成作業)，然后一起玩耍(然後一起玩耍)。",
-      "pinyin": "Wǒmen gāi wánchéng zuòyè, ránhòu yīqǐ wánshuǎ.",
-      "english": "We ought to finish our homework and then play together."
+      "chinese": "他认为你该听从建议(他認為你該聽從建議)。",
+      "pinyin": "Tā rènwéi nǐ gāi tīngcóng jiànyì.",
+      "english": "He thinks you ought to listen to advice."
     }
   ]
 }

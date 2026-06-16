@@ -5,8 +5,8 @@
   "english": "serve; obey; clothes",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𠬝 (original pictogram depicting 'to subdue') -> 凡(凡) (fán, 'tray') added as semantic -> 凡 corrupted into 舟(舟) (zhōu, 'boat') and then 月(月) (yuè, 'moon') -> final form 服 (fú, 'serve')",
-    "interpretation": "The character 服 (fú, 'serve') originates from a pictogram 𠬝 showing subjugation, conveying the idea of 'serving or obeying.' The addition of 凡(凡) changes its visual into something resembling 舟(舟) and then 月(月), enhancing the character's complexity without altering its core semantic value.",
+    "description": "semantic 凡 ('tray') + phonetic 𠬝 ('to subdue') -> to serve; 凡 corrupted to 月",
+    "interpretation": "The character originally depicted a tray, 凡 (fán, 'tray'), as a symbol for offering or serving, combined with 𠬝 (a pictogram for 'to subdue') to convey the act of serving or obeying. Over time, the component 凡 (fán) became corrupted into a form resembling 月 (yuè, 'moon'), which is retained in the final character. The concept of clothing is related to serving in ancient contexts where clothing represented a person's role or duty.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "tray"
     },
     {
-      "char": "舟",
-      "trad": "舟",
-      "pinyin": "zhōu",
-      "english": "boat"
+      "char": "𠬝",
+      "trad": "𠬝",
+      "pinyin": "[not standardized]",
+      "english": "to subdue"
     },
     {
       "char": "月",
@@ -32,14 +32,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "士兵服从命令(士兵服從命令)，保护人民(保護人民)。",
-      "pinyin": "Shìbīng fúcóng mìnglìng, bǎohù rénmín.",
-      "english": "The soldiers obey orders and protect the people."
+      "chinese": "他总是服从命令(他總是服從命令)。",
+      "pinyin": "Tā zǒng shì fúcóng mìnglìng.",
+      "english": "He always obeys orders."
     },
     {
-      "chinese": "他穿上军服(他穿上軍服)，准备出发(準備出發)。",
-      "pinyin": "Tā chuān shàng jūnfú, zhǔnbèi chūfā.",
-      "english": "He puts on his military uniform and gets ready to depart."
+      "chinese": "这件衣服很漂亮(這件衣服很漂亮)。",
+      "pinyin": "Zhè jiàn yīfú hěn piàoliang.",
+      "english": "This piece of clothing is very beautiful."
+    },
+    {
+      "chinese": "我对他的回答感到心服口服(我對他的回答感到心服口服)。",
+      "pinyin": "Wǒ duì tā de huídá gǎndào xīnfú kǒufú.",
+      "english": "I am completely convinced by his answer."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "景",
+  "traditional": "景",
+  "pinyin": "jǐng",
+  "english": "scenery",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 日(日) (rì, \"sun\") + phonetic 京(京) (jīng) -> sunlight; later 'scenery' as seen in sunlight",
+    "interpretation": "The character 景 was originally used to represent the concept of 'sunlight', utilizing the semantic component 日(日) (rì, \"sun\") to evoke the image of the sun and its light. The phonetic component 京(京) (jīng) contributed its sound. Over time, the concept of sunlight naturally extended to the idea of 'scenery', as landscapes are illuminated and made visible by sunlight.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "日",
+      "trad": "日",
+      "pinyin": "rì",
+      "english": "sun"
+    },
+    {
+      "char": "京",
+      "trad": "京",
+      "pinyin": "jīng",
+      "english": "capital"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "山顶的景色(山頂的景色)非常美丽。",
+      "pinyin": "Shāndǐng de jǐngsè fēicháng měilì。",
+      "english": "The scenery at the mountain top is very beautiful."
+    },
+    {
+      "chinese": "他拍了很多照片来捕捉湖边的景色(他拍了很多照片來捕捉湖邊的景色)。",
+      "pinyin": "Tā pāile hěn duō zhàopiàn lái bǔzhuō hú biān de jǐngsè。",
+      "english": "He took many photos to capture the scenery by the lake."
+    },
+    {
+      "chinese": "这个地方以它的美丽景观(這個地方以它的美麗景觀)而闻名。",
+      "pinyin": "Zhège dìfāng yǐ tā de měilì jǐngguān ér wénmíng。",
+      "english": "This place is famous for its beautiful scenery."
+    }
+  ]
+}

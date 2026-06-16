@@ -5,35 +5,40 @@
   "english": "surname Yan",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 頁(頁) (yè, 'leaf, page') + phonetic: 彥(彥) (yàn, 'accomplished person') -> 顏(顏, 'face')",
-    "interpretation": "The traditional character 顏(顏) (yán, 'face, countenance') combines 頁(頁) (yè, 'leaf, page') as the semantic component, representing the face, with 彥(彥) (yàn, 'accomplished person') for its phonetic value, suggesting a distinguished appearance or expression. The elements relate to physical presence and facial expression.",
-    "simplification": "The traditional components were simplified: 彥(彥) (yàn, 'accomplished person') was simplified to 彦(彦) and 頁(頁) (yè, 'leaf, page') was simplified to 页(页), maintaining three of the original lines for resemblance."
+    "description": "semantic 頁(頁) (yè, \"head\") + phonetic 彥(彥) (yàn) -> face/head",
+    "interpretation": "顏(顏) (yán, \"face; facial appearance\") combines the semantic component 頁(頁) (yè, \"head\") indicating head or face, with the phonetic component 彥(彥) (yàn), which contributes its sound. This composition naturally leads to the meaning related to facial features or appearance, as the head is associated with one's face.",
+    "simplification": "Simplified 顏(顏) to 颜(顏) by simplifying 彥(彥) to 彦 and 頁(頁) to 页, reducing stroke count while maintaining the original components' roles."
   },
   "parts": [
     {
       "char": "頁",
       "trad": "頁",
       "pinyin": "yè",
-      "english": "leaf, page"
+      "english": "head"
     },
     {
       "char": "彥",
       "trad": "彥",
       "pinyin": "yàn",
-      "english": "accomplished person"
+      "english": "elegant; virtuous"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我认识颜老师(我認識顏老師)。",
-      "pinyin": "Wǒ rènshi Yán lǎoshī.",
-      "english": "I know Teacher Yan."
+      "chinese": "颜家是当地的名门望族(顏家是當地的名門望族)。",
+      "pinyin": "Yán jiā shì dāngdì de míngmén wàngzú.",
+      "english": "The Yan family is a prominent family in the area."
     },
     {
-      "chinese": "颜先生家在北京(顏先生家在北京)，他的家族历史悠久(他的家族歷史悠久)。",
-      "pinyin": "Yán xiānsheng jiā zài Běijīng, tā de jiāzú lìshǐ yōujiǔ.",
-      "english": "Mr. Yan's home is in Beijing, and his family history is long."
+      "chinese": "小颜在学校里非常受欢迎(小顏在學校裡非常受歡迎)。",
+      "pinyin": "Xiǎo Yán zài xuéxiào lǐ fēicháng shòu huānyíng.",
+      "english": "Little Yan is very popular at school."
+    },
+    {
+      "chinese": "颜先生是这篇文章的作者(顏先生是這篇文章的作者)。",
+      "pinyin": "Yán xiānshēng shì zhè piān wénzhāng de zuòzhě.",
+      "english": "Mr. Yan is the author of this article."
     }
   ]
 }

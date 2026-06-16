@@ -5,8 +5,8 @@
   "english": "old hot pot",
   "etymology": {
     "type": "compound word",
-    "description": "老(老) (lǎo, \"old\") refers to something aged or experienced, while 火锅(火鍋) (huǒguō, \"hot pot\") is a communal dish where ingredients are cooked at the table in a pot of simmering broth.",
-    "interpretation": "The term 老火锅(老火鍋) (lǎo huǒguō) often indicates a traditional or authentic style of the hot pot, deeply rooted in regional culinary practice and offering a taste of time-honored flavors.",
+    "description": "老(老) (lǎo, \"old\") + 火(火) (huǒ, \"fire\") + 鍋(鍋) (guō, \"pot\")",
+    "interpretation": "老(老) (lǎo, \"old\") gives a sense of something traditional or well-established. 火(火) (huǒ, \"fire\") represents the cooking method involving an open flame or source of heat. 鍋(鍋) (guō, \"pot\") refers to the container used for cooking. Together, 老火鍋 (lǎo huǒ guō) suggests a traditional or authentic method of preparing hot pot, often associated with longstanding culinary customs and flavors.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,37 @@
       "char": "老",
       "trad": "老",
       "pinyin": "lǎo",
-      "english": "old; experienced; aged"
+      "english": "old; venerable; experienced; traditional"
     },
     {
-      "char": "火锅",
-      "trad": "火鍋",
-      "pinyin": "huǒguō",
-      "english": "hot pot"
+      "char": "火",
+      "trad": "火",
+      "pinyin": "huǒ",
+      "english": "fire; flame; heat"
+    },
+    {
+      "char": "鍋",
+      "trad": "鍋",
+      "pinyin": "guō",
+      "english": "pot; pan; cooking vessel"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢吃老火锅(我喜歡吃老火鍋)。",
-      "pinyin": "Wǒ xǐhuān chī lǎo huǒ guō.",
-      "english": "I like eating old hot pot."
+      "chinese": "我们今晚去吃老火锅(我們今晚去吃老火鍋)。",
+      "pinyin": "Wǒmen jīnwǎn qù chī lǎo huǒ guō.",
+      "english": "We are going to eat old hot pot tonight."
     },
     {
-      "chinese": "冬天来了(冬天來了)，老火锅最适合聚餐(老火鍋最適合聚餐)。",
-      "pinyin": "Dōngtiān láile, lǎo huǒ guō zuì shìhé jùcān.",
-      "english": "In winter, old hot pot is perfect for gatherings."
+      "chinese": "老火锅的味道很经典(老火鍋的味道很經典)。",
+      "pinyin": "Lǎo huǒ guō de wèidào hěn jīngdiǎn.",
+      "english": "The taste of old hot pot is very classic."
     },
     {
-      "chinese": "他们经营着历史悠久的老火锅(他們經營著歷史悠久的老火鍋)。",
-      "pinyin": "Tāmen jīngyíngzhe lìshǐ yōujiǔ de lǎo huǒ guō.",
-      "english": "They run a time-honored old hot pot restaurant."
+      "chinese": "他最喜欢老火锅的辣味(他最喜歡老火鍋的辣味)。",
+      "pinyin": "Tā zuì xǐhuān lǎo huǒ guō de là wèi.",
+      "english": "He likes the spicy flavor of old hot pot the most."
     }
   ]
 }

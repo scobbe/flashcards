@@ -5,8 +5,8 @@
   "english": "morning",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 月(月) (yuè, 'moon') + Phonetic: 𦣞(𦣞) (unknown) = aspects of the day -> morning",
-    "interpretation": "The character 朝(朝) (zhāo, 'morning') combines the semantic component 月(月) (yuè, 'moon') suggesting a time associated with the moon, while the phonetic component 𦣞(𦣞) lends its sound. Together, these elements capture the transition from night to day, or morning.",
+    "description": "𠦝 (early form of 朝) + 月(月) (yuè, \"moon\") = semantic 𠦝 (morning) + phonetic 月 -> morning",
+    "interpretation": "朝(朝) (zhāo, \"morning\") visually represents the transition from night to day, capturing the concept of the morning when both the sun and the fading moon can be seen. Originally, it was an ideogrammic compound with components such as sun and moon to depict morning. In later forms, the character evolved into a phono-semantic compound with 𠦝 as the semantic component referring to dawn, and 月 月(yuè, \"moon\") contributing phonetic value, reflecting the combination of nighttime and daytime elements in the morning twilight.",
     "simplification": ""
   },
   "parts": [
@@ -15,30 +15,24 @@
       "trad": "月",
       "pinyin": "yuè",
       "english": "moon"
-    },
-    {
-      "char": "𦣞",
-      "trad": "𦣞",
-      "pinyin": "unknown",
-      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "朝風拂面(朝風拂面)。",
-      "pinyin": "Zhāo fēng fú miàn.",
-      "english": "The morning breeze caresses one's face."
+      "chinese": "每个早晨(每個早晨)，我都会去公园跑步(我都會去公園跑步)。",
+      "pinyin": "Měi ge zǎochén, wǒ dūhuì qù gōngyuán pǎobù.",
+      "english": "Every morning, I go jogging in the park."
     },
     {
-      "chinese": "朝露滋潤花朵(朝露滋潤花朵)。",
-      "pinyin": "Zhāo lù zī rùn huā duǒ.",
-      "english": "The morning dew nourishes the flowers."
+      "chinese": "她喜欢在朝阳升起时(她喜歡在朝陽升起時)，喝杯热茶(喝杯熱茶)。",
+      "pinyin": "Tā xǐhuān zài zhāoyáng shēng qǐ shí, hē bēi rè chá.",
+      "english": "She likes to drink a cup of hot tea when the morning sun rises."
     },
     {
-      "chinese": "朝霜悄降山野(朝霜悄降山野)，預兆豐收季節(預兆豐收季節)。",
-      "pinyin": "Zhāo shuāng qiāo jiàng shān yě, yù zhào fēng shōu jì jié.",
-      "english": "The morning frost silently falls on the mountains and fields, signaling a season of abundant harvest."
+      "chinese": "今天早上(今天早上)，我起得很早(我起得很早)。",
+      "pinyin": "Jīntiān zǎoshang, wǒ qǐ dé hěn zǎo.",
+      "english": "This morning, I got up very early."
     }
   ]
 }

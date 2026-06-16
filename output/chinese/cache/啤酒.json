@@ -5,8 +5,8 @@
   "english": "beer",
   "etymology": {
     "type": "compound word",
-    "description": "啤(啤) (pí, \"beer\") and 酒(酒) (jiǔ, \"alcohol\") combine to form the word 啤酒(啤酒) (píjiǔ, \"beer\"). Here, 啤(啤) doesn't have a standalone meaning in Chinese outside of this word, but 酒(酒) is a general term for alcoholic beverages.",
-    "interpretation": "啤酒(啤酒) (píjiǔ, \"beer\") combines the element referring to beer specifically with the character for alcohol, indicating beer as a type of alcoholic beverage.",
+    "description": "啤(啤) (pí, \"beer\") + 酒(酒) (jiǔ, \"alcoholic drink\") = alcoholic drink made of malt and hops, paralleling to beer in the Western sense",
+    "interpretation": "啤(啤) (pí, \"beer\") was borrowed from English or European languages as a phonetic loan for 'beer,' emphasizing the foreign introduction of this type of alcoholic beverage. 酒(酒) (jiǔ, \"alcoholic drink\") is a general term for any fermented alcoholic beverage in Chinese, such as wine and spirits. Together, 啤酒(啤酒) (píjiǔ, \"beer\") combines the foreign concept of beer with the traditional Chinese term for alcohol, linking them as a specific type of alcoholic beverage.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "酒",
       "trad": "酒",
       "pinyin": "jiǔ",
-      "english": "alcohol; liquor; spirits; wine"
+      "english": "alcoholic drink; wine; liquor"
     }
   ],
   "in_contemporary_usage": true,
@@ -31,9 +31,14 @@
       "english": "I like to drink beer."
     },
     {
-      "chinese": "晚上和朋友一起喝啤酒(晚上和朋友一起喝啤酒)，聊聊天(聊聊天)。",
-      "pinyin": "Wǎnshàng hé péngyǒu yīqǐ hē píjiǔ, liáo liáotiān.",
-      "english": "In the evening, I drink beer with my friends and chat."
+      "chinese": "我们去酒吧喝了几杯啤酒(我們去酒吧喝了幾杯啤酒)。",
+      "pinyin": "Wǒmen qù jiǔbā hē le jǐ bēi píjiǔ.",
+      "english": "We went to the bar and drank a few glasses of beer."
+    },
+    {
+      "chinese": "他在冰箱里放了一罐啤酒(他在冰箱裡放了一罐啤酒)。",
+      "pinyin": "Tā zài bīngxiāng lǐ fàng le yī guàn píjiǔ.",
+      "english": "He put a can of beer in the fridge."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "swim; swimming",
   "etymology": {
     "type": "compound word",
-    "description": "游(遊) (yóu, \"to swim; to travel\") + 泳(泳) (yǒng, \"to swim\") = swim; swimming",
-    "interpretation": "The word 游泳 (yóuyǒng) combines 游(遊) (yóu, \"to swim; to travel\") and 泳(泳) (yǒng, \"to swim\") to depict the action of swimming. It emphasizes the physical act as well as the potential enjoyment or leisure activity associated with it.",
+    "description": "游(遊) (yóu, \"to swim; to travel\") + 泳(泳) (yǒng, \"to swim\") = a specific activity of swimming",
+    "interpretation": "游(遊) (yóu, \"to swim; to travel\") initially involves moving lightly and freely, which suits the motion in water, making 'to swim' one of its direct senses. 泳(泳) (yǒng, \"to swim\") specifically refers to swimming as an activity, focusing on the controlled movement in water. The combination highlights both the aspect of travel through water and the specialized activity of swimming, forming a precise term for moving through water by swimming.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "游",
       "trad": "遊",
       "pinyin": "yóu",
-      "english": "to swim; to travel; to wander"
+      "english": "swim; travel; roam; wander"
     },
     {
       "char": "泳",
       "trad": "泳",
       "pinyin": "yǒng",
-      "english": "to swim"
+      "english": "swim"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢游泳(我喜歡游泳)。",
-      "pinyin": "Wǒ xǐhuān yóuyǒng.",
-      "english": "I like swimming."
+      "chinese": "夏天时我喜欢去海边游泳(夏天時我喜歡去海邊游泳)。",
+      "pinyin": "Xiàtiān shí wǒ xǐhuān qù hǎibiān yóuyǒng.",
+      "english": "In the summer, I like to go swimming at the beach."
     },
     {
-      "chinese": "夏天来了(夏天來了)，我们去游泳(我們去游泳)。",
-      "pinyin": "Xiàtiān láile, wǒmen qù yóuyǒng.",
-      "english": "When summer comes, we go swimming."
+      "chinese": "他们每天早上在游泳池游泳(他們每天早上在游泳池游泳)。",
+      "pinyin": "Tāmen měitiān zǎoshang zài yóuyǒngchí yóuyǒng.",
+      "english": "They swim every morning in the swimming pool."
     },
     {
-      "chinese": "他每天练习游泳(他每天練習游泳)，以备参加比赛(以備參加比賽)。",
-      "pinyin": "Tā měitiān liànxí yóuyǒng, yǐ bèi cānjiā bǐsài.",
-      "english": "He practices swimming every day in preparation for competitions."
+      "chinese": "游泳是一项很好的锻炼方式(游泳是一項很好的鍛鍊方式)。",
+      "pinyin": "Yóuyǒng shì yī xiàng hěnhǎo de duànliàn fāngshì.",
+      "english": "Swimming is a great form of exercise."
     }
   ]
 }

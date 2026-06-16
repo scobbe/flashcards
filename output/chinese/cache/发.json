@@ -5,9 +5,9 @@
   "english": "issue; emit",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Pictogram of bow shooting an arrow -> 攴 (hand) added, forming 㢭 -> phonetic 癹 added -> final form 發",
-    "interpretation": "The character originally depicted a bow shooting an arrow, symbolizing the idea of sending forth or releasing. The addition of the hand component indicates an action, while the phonetic 癹 contributes to the pronunciation.",
-    "simplification": "發 was simplified to 发 by removing the hand component 攴 and replacing 癹 with the grass radical 夂, retaining a similar sound."
+    "description": "Pictogram of bow firing arrow -> hand 攴 added -> hand evolved to 癹 (phonetic) -> final form 發",
+    "interpretation": "發 initially depicted a bow firing an arrow, symbolizing the idea of emitting or releasing. The added hand component indicated an action, aligning with the sense of 'issuing or emitting'. With 癹 serving the phonetic purpose, it unified into the character 發, emphasizing the concept of sending forth or dispatching, as in 'emit' or 'issue'.",
+    "simplification": "发 is the simplified form of 發, reducing the complex 癹 component into a simpler structure while retaining pronunciation."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "老师发了作业(老師發了作業)。",
-      "pinyin": "Lǎoshī fā le zuòyè.",
-      "english": "The teacher issued an assignment."
+      "chinese": "公司明天会发布新产品(公司明天會發布新產品)。",
+      "pinyin": "Gōngsī míngtiān huì fābù xīn chǎnpǐn.",
+      "english": "The company will issue a new product tomorrow."
     },
     {
-      "chinese": "他生气时就会发火(他生氣時就會發火)。",
-      "pinyin": "Tā shēngqì shí jiù huì fāhuǒ.",
-      "english": "He emits anger when he gets mad."
+      "chinese": "她的表演发出耀眼的光芒(她的表演發出耀眼的光芒)。",
+      "pinyin": "Tā de biǎoyǎn fāchū yàoyǎn de guāngmáng.",
+      "english": "Her performance emitted a dazzling light."
     },
     {
-      "chinese": "公司发了奖金(公司發了獎金)，员工都很高兴(員工都很高興)。",
-      "pinyin": "Gōngsī fā le jiǎngjīn, yuángōng dōu hěn gāoxìng.",
-      "english": "The company issued a bonus, and all the employees were very happy."
+      "chinese": "请尽快发送邮件(請盡快發送郵件)。",
+      "pinyin": "Qǐng jǐnkuài fāsòng yóujiàn.",
+      "english": "Please send the email as soon as possible."
     }
   ]
 }

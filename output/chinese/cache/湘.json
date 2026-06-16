@@ -5,8 +5,8 @@
   "english": "Xiang River",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "水(水) (shuǐ, \"water\") + 相(相) (xiāng, \"mutual consultation\") = river with phonetic value -> Xiang River",
-    "interpretation": "The character 湘(xiāng) represents the Xiang River. It combines 水(shuǐ, \"water\") indicating the river aspect with 相(xiāng, \"mutual consultation\") providing the phonetic component, linking it to a known river name in China.",
+    "description": "semantic 水(水) (shuǐ, \"water\") + phonetic 相(相) (xiāng) -> Xiang River",
+    "interpretation": "The character 湘(xiāng) is formed by combining the semantic component 水(shuǐ, \"water\"), denoting a river or water-related context, with the phonetic component 相(xiāng), which provides the pronunciation. This combination specifically refers to the Xiang River in China, indicating a water body by its name.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "相",
       "trad": "相",
       "pinyin": "xiāng",
-      "english": "mutual consultation"
+      "english": "mutual; appearance"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "湘水清澈(湘水清澈)。",
-      "pinyin": "Xiāng shuǐ qīngchè.",
-      "english": "The waters of the Xiang River are clear."
+      "chinese": "湘江蜿蜒流过城市和田野(湘江蜿蜒流過城市和田野)。",
+      "pinyin": "Xiāng jiāng wānyán liú guò chéngshì hé tiányě.",
+      "english": "The Xiang River winds through cities and fields."
     },
     {
-      "chinese": "我沿着湘江(我沿著湘江)，欣赏沿途风光(欣賞沿途風光)。",
-      "pinyin": "Wǒ yánzhe Xiāngjiāng, xīnshǎng yántú fēngguāng.",
-      "english": "I strolled along the Xiang River, enjoying the scenery along the way."
+      "chinese": "许多人来到湘江边野餐(許多人來到湘江邊野餐)。",
+      "pinyin": "Xǔduō rén lái dào Xiāng jiāng biān yěcān.",
+      "english": "Many people come to the banks of the Xiang River for a picnic."
     },
     {
-      "chinese": "湘江发源于高山(湘江發源於高山)，孕育了无数才俊(孕育了無數才俊)。",
-      "pinyin": "Xiāngjiāng fāyuán yú gāoshān, yùnyù le wúshù cáijùn.",
-      "english": "The Xiang River originates from high mountains and has nurtured countless talented individuals."
+      "chinese": "湘水之上，舟影摇曳(湘水之上，舟影搖曳)。",
+      "pinyin": "Xiāng shuǐ zhī shàng, zhōu yǐng yáoyè.",
+      "english": "On the Xiang waters, boat shadows flicker."
     }
   ]
 }

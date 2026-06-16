@@ -5,14 +5,14 @@
   "english": "net",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "網(网) (wǎng, 'net') (semantic) + 亡(亡) (wáng, 'to flee') (phonetic) = net-related character with phonetic element",
-    "interpretation": "The character 罔(wǎng, 'net') combines the semantic element 網(网) (wǎng, 'net') indicating its relation to nets or a web, with the phonetic component 亡(wáng, 'to flee') providing the pronunciation. This compound form suggests a term related to nets or catching, with a phonetic aid from 亡.",
+    "description": "semantic 网(網) (\"net\") + phonetic 亡(亡) -> net",
+    "interpretation": "The character 罔 combines 网(網) (wǎng, \"net\"), which provides the meaning related to a net or trapping device, with 亡(亡) (wáng, \"to disappear\"), which contributes the sound. The depiction of a net symbolizes the concept of trapping or covering, solidifying its meaning as 'net'. The phonetic component 亡 carries no inherent meaning in this context, serving only to suggest pronunciation.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "網",
-      "trad": "网",
+      "trad": "網",
       "pinyin": "wǎng",
       "english": "net"
     },
@@ -20,20 +20,9 @@
       "char": "亡",
       "trad": "亡",
       "pinyin": "wáng",
-      "english": "to flee"
+      "english": "to disappear"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "渔夫用罔捕鱼(漁夫用罔捕魚)。",
-      "pinyin": "Yúfū yòng wǎng bǔ yú.",
-      "english": "The fisherman used a net to catch fish."
-    },
-    {
-      "chinese": "渔夫铺开罔(漁夫鋪開罔)，捕捉大鱼(捕捉大魚)。",
-      "pinyin": "Yúfū pū kāi wǎng, bǔ zhuō dà yú.",
-      "english": "The fisherman spread out the net and caught big fish."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

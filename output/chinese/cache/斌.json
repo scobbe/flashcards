@@ -5,40 +5,46 @@
   "english": "refined; literary",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "文(文) (wén, \"writing\") + 斦(斦) (yín, phonetic) = refinement and literary qualities",
-    "interpretation": "The character 斌(斌) (bīn, \"refined\") combines the semantic component 文(文) (wén, \"writing\"), suggesting cultural or literary refinement, with the phonetic component 斦(斦) (yín). This signifies a person who is refined or scholarly.",
+    "description": "Phonetic 焚 (fén, 'burn')/ 棼 (fén, 'luxuriant') + semantic 彡 (shān, 'ornament') -> refined, literary",
+    "interpretation": "The character combines the phonetic element 焚(焚) (fén, 'burn') or 棼(棼) (fén, 'luxuriant') to suggest sound and the semantic 彡(彡) (shān, 'ornament') which is an indicator of decoration or embellishment. Together, they create the idea of someone or something being refined or literary.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "文",
-      "trad": "文",
-      "pinyin": "wén",
-      "english": "writing"
+      "char": "焚",
+      "trad": "焚",
+      "pinyin": "fén",
+      "english": "burn"
     },
     {
-      "char": "斦",
-      "trad": "斦",
-      "pinyin": "yín",
-      "english": "phonetic"
+      "char": "棼",
+      "trad": "棼",
+      "pinyin": "fén",
+      "english": "luxuriant"
+    },
+    {
+      "char": "彡",
+      "trad": "彡",
+      "pinyin": "shān",
+      "english": "ornament"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他叫斌(他叫斌)，气质非常斌(氣質非常斌)。",
-      "pinyin": "Tā jiào bīn, qìzhì fēicháng bīn.",
-      "english": "He is called Bin, and his demeanor is very refined."
+      "chinese": "他为人温文尔雅，是个斌斌有礼的人(他為人溫文爾雅，是個斌斌有禮的人)。",
+      "pinyin": "Tā wéirén wēnwén'ěryǎ, shì gè bīnbīn yǒulǐ de rén.",
+      "english": "He is gentle and refined, a polite and courteous person."
     },
     {
-      "chinese": "经过岁月磨砺(經過歲月磨砺)，他变得沉稳斌(他變得沉穩斌)。",
-      "pinyin": "Jīngguò suìyuè mólì, tā biàn dé chénwěn bīn.",
-      "english": "After the tempering of time, he has become steadily refined."
+      "chinese": "他们的婚礼非常隆重，场面既斌且雅(他們的婚禮非常隆重，場面既斌且雅)。",
+      "pinyin": "Tāmen de hūnlǐ fēicháng lóngzhòng, chǎngmiàn jì bīn qiě yǎ.",
+      "english": "Their wedding was very grand, both refined and elegant."
     },
     {
-      "chinese": "他的谈吐斌(他的談吐斌)，彰显出文人的风采(彰顯出文人的風采)。",
-      "pinyin": "Tā de tán tǔ bīn, zhāngxiǎn chū wénrén de fēngcǎi.",
-      "english": "His refined manner of speaking showcases the elegance of a scholar."
+      "chinese": "在新书发表会上，他的讲话文质斌斌(在新書發表會上，他的講話文質斌斌)。",
+      "pinyin": "Zài xīnshū fābiǎo huìshàng, tā de jiǎnghuà wén zhì bīn bīn.",
+      "english": "At the book launch, his speech was refined and cultured."
     }
   ]
 }

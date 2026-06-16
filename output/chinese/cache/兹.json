@@ -1,0 +1,38 @@
+{
+  "simplified": "兹",
+  "traditional": "茲",
+  "pinyin": "zī",
+  "english": "this; now; here",
+  "etymology": {
+    "type": "duplication",
+    "description": "Duplication of 幺(幺) (yāo, \"small; tiny thread\") -> repeated tiny threads -> abundance or multiplicity -> 茲(茲) meaning 'here', 'now', or 'this'; used phonetically for 兹(茲) (zī, \"now\")",
+    "interpretation": "The duplication of 幺(幺) (yāo, \"small; tiny thread\") conceptually captures numerous small elements, implying abundance or multiplicity that leads to meanings like 'here' or 'now'. This sense of accumulation and presence justifies its use for indicating immediacy or current context. In modern usage, it is often phonetically borrowed in words like 兹(茲) (zī, \"now\").",
+    "simplification": "兹(茲) (zī, \"now\") simplifies 茲(茲) by removing the艹 radical and compacting the form."
+  },
+  "parts": [
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "small; tiny thread"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "兹事体大(茲事體大)，需要慎重处理(需要慎重處理)。",
+      "pinyin": "Zī shì tǐ dà, xūyào shènzhòng chǔlǐ.",
+      "english": "This matter is of great importance and needs to be handled carefully."
+    },
+    {
+      "chinese": "兹信由本人签字(茲信由本人簽字)，以示负责(以示負責)。",
+      "pinyin": "Zī xìn yóu běnrén qiānzì, yǐ shì fùzé.",
+      "english": "This letter is signed by me to show responsibility."
+    },
+    {
+      "chinese": "兹表彰你的贡献(茲表彰你的貢獻)，以示感谢(以示感謝)。",
+      "pinyin": "Zī biǎozhāng nǐ de gòngxiàn, yǐ shì gǎnxiè.",
+      "english": "Hereby commend your contribution to express gratitude."
+    }
+  ]
+}

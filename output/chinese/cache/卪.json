@@ -1,12 +1,12 @@
 {
   "simplified": "卪",
   "traditional": "卪",
-  "pinyin": "",
-  "english": "phonetic component",
+  "pinyin": "jié",
+  "english": "seal, bind",
   "etymology": {
-    "type": "variant form",
-    "description": "variant of 節(節) -> alternative graphic form",
-    "interpretation": "卪 is a historical variant of 節(節) (jié, \"node\"), which is a phono-semantic compound representing a bamboo node. As a variant, it shares the semantic association with bamboo but is not used independently in modern writing.",
+    "type": "variant",
+    "description": "Recorded as a variant form of 節(節)",
+    "interpretation": "卪 does not have a distinct etymology on its own but is instead a recorded variant of 節(節) (jié, \"node; joint\"), which combines semantic ⺮(⺮) (zhú, \"bamboo\") + phonetic 即(即) (jí, \"immediate\"), representing a bamboo joint and its meanings related to nodes or segments.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "節",
       "trad": "節",
       "pinyin": "jié",
-      "english": "node"
+      "english": "node; joint"
     }
   ],
   "in_contemporary_usage": false,

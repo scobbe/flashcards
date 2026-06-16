@@ -5,35 +5,40 @@
   "english": "still",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 小(小) (xiǎo, \"small\") + phonetic: 冋(冋) (jiōng, component only, no standalone meaning in modern usage) = invoke sense of \"still\" with phonetic guidance",
-    "interpretation": "The character 尙(尙) (shàng, \"still\") combines the idea of something small or lesser with a phonetic component to suggest the notion of lingering or remaining.",
+    "description": "semantic 八(八) (bā, \"eight\") + phonetic 向(向) (xiàng, \"towards\")",
+    "interpretation": "The character 尙(shàng, \"still\") is a phono-semantic compound where 八(八) (bā, \"eight\") acts as the semantic component, perhaps indicating division or separation, while 向(向) (xiàng, \"towards\") serves as the phonetic component contributing the sound. Though the semantic link to \"still\" is not directly obvious from these components, the character was likely originally used for a similar-sounding word and later gained its current meaning through usage.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "小",
-      "trad": "小",
-      "pinyin": "xiǎo",
-      "english": "small"
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
     },
     {
-      "char": "冋",
-      "trad": "冋",
-      "pinyin": "jiōng",
-      "english": "component only"
+      "char": "向",
+      "trad": "向",
+      "pinyin": "xiàng",
+      "english": "towards"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他尙在等待消息(他尚在等待消息)。",
-      "pinyin": "Tā shàng zài děngdài xiāoxī.",
-      "english": "He is still waiting for news."
+      "chinese": "他尙未决定购房计划(他尙未決定購房計劃)。",
+      "pinyin": "Tā shàng wèi juédìng gòufáng jìhuà.",
+      "english": "He still hasn't decided on the house buying plan."
     },
     {
-      "chinese": "我尙未决定(我尚未決定)，继续等待答案(繼續等待答案)。",
-      "pinyin": "Wǒ shàng wèi juédìng, jìxù děngdài dá'àn.",
-      "english": "I still haven't decided, and I continue to wait for an answer."
+      "chinese": "她的学习能力尙佳(她的學習能力尙佳)。",
+      "pinyin": "Tā de xuéxí nénglì shàng jiā.",
+      "english": "Her learning ability is still superior."
+    },
+    {
+      "chinese": "公司项目尙在讨论中(公司項目尙在討論中)。",
+      "pinyin": "Gōngsī xiàngmù shàng zài tǎolùn zhōng.",
+      "english": "The company's project is still under discussion."
     }
   ]
 }

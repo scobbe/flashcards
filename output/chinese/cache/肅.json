@@ -5,40 +5,40 @@
   "english": "solemn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "彳(彳) (chì, \"step\") + 聿(聿) (yù, \"brush\") + 肅(肅) (sù, phonetic component) = ceremonious behavior -> solemn",
-    "interpretation": "The character 肅(肅) (sù, \"solemn\") combines 彳(彳) (chì, \"step\"), suggesting movement or action, and the phonetic 聿(聿) (yù, \"brush\"), associated with writing or noble pursuits, to convey a sense of formal, solemn demeanor.",
+    "description": "semantic 𦘒 (to tremble) + phonetic 𣶒 (sound) -> solemn demeanor",
+    "interpretation": "The character combines the semantic element 𦘒, which suggests trembling or a serious demeanor, with the phonetic element 𣶒. The trembling evokes an image of a person maintaining a solemn, respectful posture as if in a serious or dignified context, hence the meaning 'solemn'.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "彳",
-      "trad": "彳",
-      "pinyin": "chì",
-      "english": "step"
+      "char": "𦘒",
+      "trad": "𦘒",
+      "pinyin": "to tremble",
+      "english": "to tremble"
     },
     {
-      "char": "聿",
-      "trad": "聿",
-      "pinyin": "yù",
-      "english": "brush"
+      "char": "𣶒",
+      "trad": "𣶒",
+      "pinyin": "sound",
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他在纪念碑前保持着肅静(他在紀念碑前保持著肅靜)。",
-      "pinyin": "Tā zài jìniànbēi qián bǎochí zhe sùjìng.",
-      "english": "He maintained a solemn silence in front of the monument."
+      "chinese": "学校周围的气氛非常肃穆(學校周圍的氣氛非常肅穆)。",
+      "pinyin": "Xuéxiào zhōuwéi de qìfēn fēicháng sùmù.",
+      "english": "The atmosphere around the school was very solemn."
     },
     {
-      "chinese": "军人肃立(軍人肅立)，目光专注(目光專注)。",
-      "pinyin": "Jūnrén sùlì, mùguāng zhuānzhù.",
-      "english": "The soldiers stood solemnly, their gazes focused."
+      "chinese": "他以肃静的态度参加了葬礼(他以肅靜的態度參加了葬禮)。",
+      "pinyin": "Tā yǐ sùjìng de tàidù cānjiāle zànglǐ.",
+      "english": "He attended the funeral with a solemn demeanor."
     },
     {
-      "chinese": "仪式庄严(儀式莊嚴)，气氛肅穆(氣氛肅穆)。",
-      "pinyin": "Yíshì zhuāngyán, qìfēn sùmù.",
-      "english": "The ceremony was solemn, and the atmosphere was dignified."
+      "chinese": "会议室里的肃静令人不安(會議室裏的肅靜令人不安)。",
+      "pinyin": "Huìyìshì lǐ de sùjìng lìngrén bù'ān.",
+      "english": "The solemn silence in the meeting room was unsettling."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "麼",
+  "traditional": "麼",
+  "pinyin": "me",
+  "english": "final particle; interrogative marker",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 麻 (má, \"hemp\") + semantic 幺 (yāo, \"small, tiny\") -> final particle",
+    "interpretation": "The character 麼 (me, \"final particle; interrogative marker\") combines 麻 (má, \"hemp\") as the phonetic element that conveys the sound, with 幺 (yāo, \"small, tiny\") as the semantic element. The inclusion of 'small, tiny' implies a diminutive or qualitative nuance, suitable for final particles which often conclude phrases subtly. The sense as a particle used for questions or emphasis doesn't arise directly from the components but from its phonetic usage.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "麻",
+      "trad": "麻",
+      "pinyin": "má",
+      "english": "hemp"
+    },
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "small, tiny"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "你喜欢这个书么(你喜歡這個書麼)？",
+      "pinyin": "Nǐ xǐhuan zhège shū me?",
+      "english": "Do you like this book?"
+    },
+    {
+      "chinese": "你没去看电影么(你沒去看電影麼)？",
+      "pinyin": "Nǐ méi qù kàn diànyǐng me?",
+      "english": "Didn't you go to watch the movie?"
+    },
+    {
+      "chinese": "天气不太好么(天氣不太好麼)？",
+      "pinyin": "Tiānqì bù tài hǎo me?",
+      "english": "Isn't the weather not very good?"
+    }
+  ]
+}

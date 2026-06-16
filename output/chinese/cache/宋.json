@@ -5,8 +5,8 @@
   "english": "Song; surname",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "宀(宀) (mián, \"roof\") + 木(木) (mù, \"tree\") = wooden structure under a roof -> phonetic adaptation -> 宋",
-    "interpretation": "The character 宋 combines the roof radical 宀(宀) (mián, \"roof\") with 木(木) (mù, \"tree\"), originally representing a wooden structure underneath a roof. It evolved to represent the name of the ancient Song dynasty and later as a common Chinese surname.",
+    "description": "semantic 宀(宀) (móu, 'roof') + phonetic 木(木) (mù) -> a state under a roof",
+    "interpretation": "The character 宋 combines 宀(宀) (mián, 'roof') as the semantic component, suggesting a place under shelter or governance, with 木(木) (mù), which serves as the phonetic component. The overall meaning originally referred to the Song state in ancient China, indicating a governed area, and later became a common Chinese surname.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "tree"
+      "english": "wood"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他姓宋(他姓宋)，家族历史悠久(家族歷史悠久)。",
-      "pinyin": "Tā xìng Sòng, jiāzú lìshǐ yōujiǔ.",
-      "english": "His surname is Song, and his family has a long history."
+      "chinese": "宋朝时期(宋朝時期)，中国文化非常繁荣(中國文化非常繁榮)。",
+      "pinyin": "Sòngcháo shíqī, Zhōngguó wénhuà fēicháng fánróng.",
+      "english": "During the Song Dynasty, Chinese culture was very prosperous."
     },
     {
-      "chinese": "宋代文人雅士众多(宋代文人雅士眾多)，诗词歌赋流传千古(詩詞歌賦流傳千古)。",
-      "pinyin": "Sòngdài wénrén yǎshì zhòngduō, shīcí gēfù liúchuán qiāngu.",
-      "english": "During the Song dynasty, there were many refined scholars, and poems and lyrics have been passed down for ages."
+      "chinese": "宋先生是一位著名的书法家(宋先生是一位著名的書法家)。",
+      "pinyin": "Sòng xiānshēng shì yī wèi zhùmíng de shūfǎ jiā.",
+      "english": "Mr. Song is a famous calligrapher."
     },
     {
-      "chinese": "书架上摆着宋瓷花瓶(書架上擺著宋瓷花瓶)，展现精湛工艺(展現精湛工藝)。",
-      "pinyin": "Shūjià shàng bǎi zhe Sòng cí huāpíng, zhǎnxiàn jīngzhàn gōngyì.",
-      "english": "On the bookshelf stands a Song porcelain vase, showcasing exquisite craftsmanship."
+      "chinese": "他们参与了宋词的研究(他們參與了宋詞的研究)。",
+      "pinyin": "Tāmen cānyùle Sòngcí de yánjiū.",
+      "english": "They participated in the study of Song poetry."
     }
   ]
 }

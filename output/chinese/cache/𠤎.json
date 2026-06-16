@@ -4,28 +4,25 @@
   "pinyin": "rén",
   "english": "person",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "Two 人(人) (rén, \"person\"), one upright (亻) and one upside down (𠤎) -> reversal or change",
-    "interpretation": "924",
+    "type": "pictogram",
+    "description": "𠤎 => ancient form of 化(化) (huà, \"transform\")",
+    "interpretation": "𠤎 is an ancient character depicting a person in an upside-down position. This form was part of the creation of the character 化(化) (huà, \"transform\"), representing the concept of reversal or change by using two 人(人) (rén, \"person\")—one upright and one upside down. This visual representation of inversion or change directly relates to the idea of transformation.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": [
+  "parts": [
     {
-      "chinese": "他是勇敢的𠤎(他是勇敢的𠤎)。",
-      "pinyin": "Tā shì yǒnggǎn de rén.",
-      "english": "He is a brave person."
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform"
     },
     {
-      "chinese": "这个𠤎勤奋好学(這個𠤎勤奮好學)，为家人争光(為家人爭光)。",
-      "pinyin": "Zhège rén qínfèn hàoxué, wèi jiārén zhēngguāng.",
-      "english": "This person is diligent and studious, bringing honor to his family."
-    },
-    {
-      "chinese": "老𠤎智慧丰富(老𠤎智慧豐富)。",
-      "pinyin": "Lǎo rén zhìhuì fēngfù.",
-      "english": "The elderly person is wise and knowledgeable."
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

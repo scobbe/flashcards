@@ -5,8 +5,8 @@
   "english": "drinks menu",
   "etymology": {
     "type": "compound word",
-    "description": "酒(酒) (jiǔ, \"alcohol; wine\") + 单(單) (dān, \"list\") = drinks menu",
-    "interpretation": "A 酒單(酒單) (jiǔdān, \"drinks menu\") is a list of alcoholic beverages available at a restaurant or bar. 酒(酒) (jiǔ, \"alcohol\") signifies the focus on alcoholic drinks, while 单(單) (dān, \"list\") indicates that it is an itemized collection.",
+    "description": "酒(酒) (jiǔ, \"alcohol\") refers to alcoholic beverages in general. 單(單) (dān, \"list\") signifies a list or menu of items.",
+    "interpretation": "酒(酒) (jiǔ, \"alcohol\") names the main content of interest, while 單(單) (dān, \"list\") provides the format, resulting in a 'drinks menu' — a list specifically for alcoholic beverages.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "酒",
       "trad": "酒",
       "pinyin": "jiǔ",
-      "english": "alcohol; wine"
+      "english": "alcohol; liquor; spirits; wine"
     },
     {
       "char": "单",
       "trad": "單",
       "pinyin": "dān",
-      "english": "list"
+      "english": "list; bill; form; single"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请给我看看酒单(請給我看看酒單)。",
-      "pinyin": "Qǐng gěi wǒ kànkan jiǔ dān.",
-      "english": "Please show me the drinks menu."
+      "chinese": "我想看看酒单(我想看看酒單)。",
+      "pinyin": "Wǒ xiǎng kàn kàn jiǔ dān.",
+      "english": "I would like to see the drinks menu."
     },
     {
-      "chinese": "酒单上有啤酒和葡萄酒(酒單上有啤酒和葡萄酒)。",
-      "pinyin": "Jiǔ dān shàng yǒu píjiǔ hé pútáojiǔ.",
-      "english": "The drinks menu includes beer and wine."
+      "chinese": "酒单上有很多选择(酒單上有很多選擇)。",
+      "pinyin": "Jiǔ dān shàng yǒu hěn duō xuǎnzé.",
+      "english": "There are many options on the drinks menu."
     },
     {
-      "chinese": "我们根据酒单点了饮料(我們根據酒單點了飲料)。",
-      "pinyin": "Wǒmen gēnjù jiǔ dān diǎnle yǐnliào.",
-      "english": "We ordered drinks according to the drinks menu."
+      "chinese": "我们决定从酒单上点红酒(我們決定從酒單上點紅酒)。",
+      "pinyin": "Wǒmen juédìng cóng jiǔ dān shàng diǎn hóngjiǔ.",
+      "english": "We decided to order red wine from the drinks menu."
     }
   ]
 }

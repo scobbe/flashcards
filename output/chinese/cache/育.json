@@ -5,40 +5,40 @@
   "english": "nurture; raise; educate; breed",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "⺹(⺹) (lǎo, \"old\") + 子(子) (zǐ, \"child\") = associated with growing or raising -> 育(育)",
-    "interpretation": "The character 育(育) (yù, \"nurture\") combines ⺹(⺹) (lǎo, \"old\") to suggest wisdom or age, with 子(子) (zǐ, \"child\") to represent the young. This represents the concept of nurturing or educating younger generations which is an integral part of raising or breeding.",
+    "description": "育(育) phono-semantic compound: semantic 肉(肉) (ròu, \"flesh\") + phonetic 朴(朴) (pǔ) -> nurture and raise through nurturing the body",
+    "interpretation": "The character 育(yù, 'nurture; raise; educate; breed') combines the semantic 肉(肉) (ròu, 'flesh') indicating something related to the physical body with the phonetic 朴(朴) (pǔ), to convey the idea of nourishing and raising through physical and educational means. The sense of 'education' arises from the fundamental role of raising and caring for children in shaping their intellectual and moral capabilities.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "⺹",
-      "trad": "⺹",
-      "pinyin": "lǎo",
-      "english": "old"
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "flesh"
     },
     {
-      "char": "子",
-      "trad": "子",
-      "pinyin": "zǐ",
-      "english": "child"
+      "char": "朴",
+      "trad": "朴",
+      "pinyin": "pǔ",
+      "english": "simple"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用爱心育儿(他用愛心育兒)。",
-      "pinyin": "Tā yòng àixīn yù ér.",
-      "english": "He nurtures his children with love."
+      "chinese": "教育孩子是父母的重要责任(教育孩子是父母的重要責任)。",
+      "pinyin": "Jiàoyù háizi shì fùmǔ de zhòngyào zérèn.",
+      "english": "Educating children is an important responsibility of parents."
     },
     {
-      "chinese": "学校严谨治学(學校嚴謹治學)，精心育才(精心育才)。",
-      "pinyin": "Xuéxiào yánjǐn zhìxué, jīngxīn yùcái.",
-      "english": "The school pursues rigorous scholarship and carefully nurtures talented students."
+      "chinese": "学校将举办一个关于如何培养创新思维的讲座(學校將舉辦一個關於如何培養創新思維的講座)。",
+      "pinyin": "Xuéxiào jiāng jǔbàn yī gè guānyú rúhé péiyǎng chuàngxīn sīwéi de jiǎngzuò.",
+      "english": "The school will host a lecture on how to nurture innovative thinking."
     },
     {
-      "chinese": "科学家致力于动物育种(科學家致力於動物育種)。",
-      "pinyin": "Kēxuéjiā zhìlì yú dòngwù yùzhǒng.",
-      "english": "Scientists are committed to animal breeding."
+      "chinese": "良好的环境有助于孩子的成长与发展(良好的環境有助於孩子的成長與發展)。",
+      "pinyin": "Liánghǎo de huánjìng yǒuzhù yú háizi de chéngzhǎng yǔ fāzhǎn.",
+      "english": "A good environment contributes to the growth and development of children."
     }
   ]
 }

@@ -5,22 +5,22 @@
   "english": "turtle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 冄 + Semantic 龜 = sound element combined with tortoise semantic",
-    "interpretation": "The character 𪚮 combines 冄 as a phonetic component to convey sound, alongside 龜, which provides the semantic element of a tortoise, indicating the character's meaning related to turtles or tortoises.",
+    "description": "phonetic 冄 + semantic 龜 -> turtle",
+    "interpretation": "The character 𪚮 is built from the semantic component 龜(龜) (guī, \"tortoise\") and the phonetic component 冄 to denote a form of turtle. The phonetic part lends the sound while 龜 solidly indicates the meaning related to turtles.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "冄",
-      "trad": "冄",
-      "pinyin": "rǎn",
-      "english": "phonetic component"
-    },
     {
       "char": "龜",
       "trad": "龜",
       "pinyin": "guī",
       "english": "tortoise"
+    },
+    {
+      "char": "冄",
+      "trad": "冄",
+      "pinyin": "rǎn",
+      "english": "to be kind; gentle"
     }
   ],
   "in_contemporary_usage": false,

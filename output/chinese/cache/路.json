@@ -5,9 +5,9 @@
   "english": "road; path; way; street",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "足(足) (zú, \"foot\") + 各(各) (gè, \"each\") = movement by foot -> road",
-    "interpretation": "The character 路(lù, \"road\") combines 足(足) (zú, \"foot\") to indicate walking or movement, with 各(各) (gè, \"each\") to provide the phonetic element. This compound captures the idea of a path or road suitable for movement.",
-    "simplification": ""
+    "description": "semantic 足 (zú, 'foot') + phonetic 各 (gè) -> road",
+    "interpretation": "The semantic component 足 (zú, 'foot') represents walking or movement, suggesting the idea of a path or road. 各 (gè) serves as the phonetic component, contributing to the pronunciation of the character.",
+    "simplification": "The character retains its form in simplified Chinese, with no changes."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这条路通向海边(這條路通向海邊)。",
-      "pinyin": "Zhè tiáo lù tōngxiàng hǎibiān.",
-      "english": "This road leads to the seaside."
+      "chinese": "这里的路很宽敞(這裡的路很寬敞)。",
+      "pinyin": "Zhèlǐ de lù hěn kuānchǎng.",
+      "english": "The road here is very wide."
     },
     {
-      "chinese": "我们今天必须找到正确的路(我們今天必須找到正確的路)。",
-      "pinyin": "Wǒmen jīntiān bìxū zhǎodào zhèngquè de lù.",
-      "english": "We must find the correct path today."
+      "chinese": "他选择了一条不同的路(他選擇了一條不同的路)。",
+      "pinyin": "Tā xuǎnzéle yī tiáo bùtóng de lù.",
+      "english": "He chose a different path."
     },
     {
-      "chinese": "前面的路很长(前面的路很長)，但风景很美(但風景很美)。",
-      "pinyin": "Qiánmiàn de lù hěn cháng, dàn fēngjǐng hěn měi.",
-      "english": "The road ahead is long, but the scenery is beautiful."
+      "chinese": "走这条路会更快(走這條路會更快)。",
+      "pinyin": "Zǒu zhè tiáo lù huì gèng kuài.",
+      "english": "Taking this road will be faster."
     }
   ]
 }

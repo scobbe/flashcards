@@ -5,9 +5,9 @@
   "english": "spray",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + phonetic 賁(賁) (bēn, related to \"decorate\") = sound coming from the mouth -> spray",
-    "interpretation": "The character 噴(噴) (pēn, \"spray\") combines the semantic element 口(口) (kǒu, \"mouth\") with the phonetic element 賁(賁) (bēn), suggesting the action of emitting something like spray or mist from the mouth.",
-    "simplification": "噴(噴) -> 喷(噴): 壴(壴) (zhù, \"drum\") replaced by 巾(巾) (jīn, \"towel\") for a simpler phonetic match."
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 賁(賁)",
+    "interpretation": "The character 噴(pēn, \"spray\") combines the semantic component 口(口) (kǒu, \"mouth\") indicating an action involving the mouth, with the phonetic component 賁(賁) (bēn), suggesting the pronunciation. The image evoked is that of something being forcefully expelled from the mouth, extending to the idea of 'spraying.'",
+    "simplification": "The traditional character 噴 was simplified to 喷 by replacing 賁(賁) with the simpler phonetic 夯(夯), reducing stroke count while maintaining the phonetic sound."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "賁",
       "trad": "賁",
       "pinyin": "bēn",
-      "english": "related to \"decorate\""
+      "english": ""
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他用喷壶(他用噴壺)，给花浇水(給花澆水)。",
-      "pinyin": "Tā yòng pēn hú, gěi huā jiāo shuǐ.",
-      "english": "He uses a spray bottle to water the flowers."
+      "chinese": "花园里的喷水器每天都会喷水(花園裡的噴水器每天都會噴水)。",
+      "pinyin": "Huāyuán lǐ de pēnshuǐqì měitiān dūhuì pēnshuǐ.",
+      "english": "The sprinkler in the garden sprays water every day."
     },
     {
-      "chinese": "水龙头在下雨时(水龍頭在下雨時)，不断喷出清水(不斷噴出清水)。",
-      "pinyin": "Shuǐ lóngtóu zài xià yǔ shí, bù duàn pēn chū qīng shuǐ.",
-      "english": "The faucet continuously sprays clear water during the rain."
+      "chinese": "消防员用水枪喷灭了大火(消防員用水槍噴滅了大火)。",
+      "pinyin": "Xiāofángyuán yòng shuǐqiāng pēn miè le dàhuǒ.",
+      "english": "The firefighter extinguished the fire using a water hose."
+    },
+    {
+      "chinese": "我喜欢那些会喷香味的空气清新剂(我喜歡那些會噴香味的空氣清新劑)。",
+      "pinyin": "Wǒ xǐhuān nàxiē huì pēn xiāngwèi de kōngqì qīngxīn jì.",
+      "english": "I like those air fresheners that spray fragrance."
     }
   ]
 }

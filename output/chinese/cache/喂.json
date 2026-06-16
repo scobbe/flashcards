@@ -5,46 +5,40 @@
   "english": "hello (on the phone)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 畏(畏) (wèi, \"fear\") = sound component with association to actions involving the mouth -> 饋(餵) (wèi, \"feed\") meaning -> 喂(餵) (wèi, \"hello\") for calling or getting attention",
-    "interpretation": "The character 喂(餵) (wèi, \"hello\") utilizes 口(口) (kǒu, \"mouth\") for its semantic value, indicating speech or vocalization. 畏(畏) (wèi, \"fear\") provides the phonetic element, linking the sound to the action of speaking or calling. This evolved in contemporary usage to mean \"hello\" when answering the phone, emphasizing the act of vocal communication.",
-    "simplification": "The simplified form 喂 retains the component 畏, but replaces 食(食) (shí, \"food\") with 口(口) (kǒu, \"mouth\") to indicate an action related to speaking, making it easier to write."
+    "description": "semantic 食(食) (shí, \"food\") + phonetic 畏(畏) (wèi)",
+    "interpretation": "餵(餵) (wèi) combines 食(食) (shí, \"food\") as the semantic element to indicate an action related to feeding and 畏(畏) (wèi) for the phonetic component, giving the character the sound associated with 'to feed'. In modern usage, 喂 is used on the phone as a greeting 'hello', likely because calling or reaching out requires a verbal communication akin to feeding information.",
+    "simplification": "Simplified to 喂 by replacing the food radical 食(食) with 口(口) (kǒu, \"mouth\") to emphasize the speaking aspect."
   },
   "parts": [
     {
-      "char": "口",
-      "trad": "口",
-      "pinyin": "kǒu",
-      "english": "mouth"
+      "char": "食",
+      "trad": "食",
+      "pinyin": "shí",
+      "english": "food"
     },
     {
       "char": "畏",
       "trad": "畏",
       "pinyin": "wèi",
       "english": "fear"
-    },
-    {
-      "char": "食",
-      "trad": "食",
-      "pinyin": "shí",
-      "english": "food"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "喂(喂)！",
-      "pinyin": "Wèi!",
-      "english": "Hello! (used when answering the phone)"
+      "chinese": "喂(餵)，你在忙吗(你在忙嗎)？",
+      "pinyin": "Wèi, nǐ zài máng ma?",
+      "english": "Hello, are you busy?"
     },
     {
-      "chinese": "喂(喂)，请问你是谁(請問你是誰)？",
-      "pinyin": "Wèi, qǐngwèn nǐ shì shuí?",
-      "english": "Hello, may I ask who you are?"
+      "chinese": "一接到电话(一接到電話)，我就先说喂(我就先說餵)。",
+      "pinyin": "Yī jiēdào diànhuà, wǒ jiù xiān shuō wèi.",
+      "english": "As soon as I answer the phone, I first say hello."
     },
     {
-      "chinese": "喂(喂)，打错电话了吗(打錯電話了嗎)？",
-      "pinyin": "Wèi, dǎ cuò diànhuà le ma?",
-      "english": "Hello, did I dial the wrong number?"
+      "chinese": "喂(餵)，这里是李先生的办公室吗(這裡是李先生的辦公室嗎)？",
+      "pinyin": "Wèi, zhèlǐ shì Lǐ xiānsheng de bàngōngshì ma?",
+      "english": "Hello, is this Mr. Li's office?"
     }
   ]
 }

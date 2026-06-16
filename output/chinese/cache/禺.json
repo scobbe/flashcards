@@ -4,36 +4,43 @@
   "pinyin": "yú",
   "english": "ape",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "甶 (head of a ghost) + 禸 (to trample) -> ideogrammic compound for monkey",
-    "interpretation": "The character 禺(yú, 'ape') originally combined the pictorial elements representing a ghost's head and the action of trampling to depict an ape. This reflects the character's complex evolution, possibly linked to its resemblance to creatures or decorative markings.",
+    "type": "unclear",
+    "description": "Top resembling a ghost head 鬼(鬼) (guǐ, \"ghost\") or mask 異(異) (yì, \"different\") + bottom resembling 禹(禹) (yǔ, \"a legendary monarch\") or trample 禸(禸) (rǒu, \"to trample\"); considered a pictogram of a kind of insect",
+    "interpretation": "The character's top was initially thought to represent a ghost's head or a ceremonial mask, while the bottom section might signify actions such as trampling. Some scholars see the earlier forms of 禺 resembling an insect, possibly with decorative features, drawing a parallel to the mark found in 萬(萬) (wàn, \"scorpion\"). Over time, it became associated with a type of ape, likely due to folk associations with its appearance.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "甶",
-      "trad": "甶",
-      "pinyin": "fú",
-      "english": "head of a ghost"
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    },
+    {
+      "char": "異",
+      "trad": "異",
+      "pinyin": "yì",
+      "english": "different"
+    },
+    {
+      "char": "禹",
+      "trad": "禹",
+      "pinyin": "yǔ",
+      "english": "a legendary monarch"
     },
     {
       "char": "禸",
       "trad": "禸",
-      "pinyin": "róu",
+      "pinyin": "rǒu",
       "english": "to trample"
-    }
-  ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "动物园里展出稀有的禺(動物園裡展出稀有的禺)。",
-      "pinyin": "Dòngwùyuán lǐ zhǎnchū xīyǒu de yú.",
-      "english": "Rare apes are exhibited in the zoo."
     },
     {
-      "chinese": "夜幕降临时(夜幕降臨時)，禺开始在林间游荡(禺開始在林間遊蕩)。",
-      "pinyin": "Yèmù jiànglín shí, yú kāishǐ zài línjiān yóudàng.",
-      "english": "When night falls, the ape begins roaming through the forest."
+      "char": "萬",
+      "trad": "萬",
+      "pinyin": "wàn",
+      "english": "scorpion"
     }
-  ]
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
 }

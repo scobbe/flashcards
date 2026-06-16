@@ -1,0 +1,44 @@
+{
+  "simplified": "位子",
+  "traditional": "位子",
+  "pinyin": "wèi zi",
+  "english": "seat",
+  "etymology": {
+    "type": "compound word",
+    "description": "位(位) (wèi, \"position\") refers to a place or status, often used to specify a particular location in space. The concept of \"position\" naturally includes the idea of a seat, as it is a specific location meant for someone to occupy. 子(子) (zi, \"child; noun suffix\") originally means \"child\" but in this context, it serves as a noun suffix that doesn't alter the inherent meaning significantly but emphasizes the substantive aspect of the term.",
+    "interpretation": "位(位) (wèi, \"position\") provides the core sense of a specific location designated for an individual, which directly translates to the idea of a 'seat' as a particular space reserved for sitting. 子(子) (zi, \"child; noun suffix\") acts as a functional suffix that classifies 位 (wèi, \"position\") clearly as a noun, reinforcing the substantive meaning without altering the fundamental concept of a specified place for someone. The result is a natural intuition of a defined spot meant for occupation by a person, thus, a 'seat'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "位",
+      "trad": "位",
+      "pinyin": "wèi",
+      "english": "position; place; stand"
+    },
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zi",
+      "english": "child; seed; noun suffix"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个电影的位子很好(這個電影的位子很好)。",
+      "pinyin": "Zhè ge diànyǐng de wèi zi hěn hǎo.",
+      "english": "This seat at the movie is very good."
+    },
+    {
+      "chinese": "请问这里有空位子吗(請問這裡有空位子嗎)？",
+      "pinyin": "Qǐng wèn zhèlǐ yǒu kōng wèi zi ma?",
+      "english": "Excuse me, is there an available seat here?"
+    },
+    {
+      "chinese": "我们需要预订位子(我們需要預訂位子)，因为餐厅很忙(因為餐廳很忙)。",
+      "pinyin": "Wǒmen xūyào yùdìng wèi zi, yīnwèi cāntīng hěn máng.",
+      "english": "We need to book a seat because the restaurant is busy."
+    }
+  ]
+}

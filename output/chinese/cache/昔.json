@@ -5,11 +5,17 @@
   "english": "past",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "𡿧 (disaster; floods) + 日(日) (rì, \"sun\") -> the flood submerging the sun -> represents the past",
-    "interpretation": "The character 昔(xī, \"past\") symbolizes a time when disaster, like a flood, obscures the sun, metaphorically referring to past times shrouded by events.",
+    "description": "𡿧 (disaster; floods) + 日 (sun) -> the flood submerging the sun -> former times",
+    "interpretation": "The image of floods submerging the sun suggests a long gone past, as such events feel remote and ancient. This imagery naturally leads to the meaning of 'past'.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "𡿧",
+      "trad": "𡿧",
+      "pinyin": "n/a",
+      "english": "disaster; floods"
+    },
     {
       "char": "日",
       "trad": "日",
@@ -20,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他常怀念昔日的美好(他常懷念昔日的美好)。",
-      "pinyin": "Tā cháng huái niàn xī rì de měi hǎo.",
-      "english": "He often cherishes the beautiful past."
+      "chinese": "昔日的朋友(昔日的朋友)现在变得陌生(現在變得陌生)。",
+      "pinyin": "Xīrì de péngyǒu xiànzài biàn dé mòshēng.",
+      "english": "Friends from the past have now become strangers."
     },
     {
-      "chinese": "那古城见证了昔时光(那古城見證了昔時光)，铺陈了历史的痕迹(鋪陳了歷史的痕跡)。",
-      "pinyin": "Nà gǔ chéng jiàn zhèng le xī shí guāng, pù chén le lì shǐ de hén jì.",
-      "english": "That ancient city witnessed the bygone days and displayed the marks of history."
+      "chinese": "他常常回忆昔年的光辉岁月(他常常回憶昔年的光輝歲月)。",
+      "pinyin": "Tā chángcháng huíyì xīnián de guānghuī suìyuè.",
+      "english": "He often reminisces about the glorious years of the past."
+    },
+    {
+      "chinese": "这座城市过去是个小村庄(這座城市過去是個小村莊)。",
+      "pinyin": "Zhè zuò chéngshì guòqù shì gè xiǎo cūnzhuāng.",
+      "english": "This city used to be a small village in the past."
     }
   ]
 }

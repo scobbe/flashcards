@@ -5,8 +5,8 @@
   "english": "oh",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 謷(謷) (áo) = phonetic indicator and meaning of sound -> exclamation 'oh'",
-    "interpretation": "The character 噢(噢) combines 口(口) (kǒu, \"mouth\") to indicate sound or speaking, with 謷(謷) (áo) serving as the phonetic component. This combination captures the essence of the character as an exclamatory sound, typical for expressing surprise or realization.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 奧(奧) (ào) -> express an exclamation \"oh\"",
+    "interpretation": "口(口) (kǒu, \"mouth\") provides the semantic element as it relates to expressions or sounds made with the mouth. 奧(奧) (ào) offers the phonetic element, supplying the pronunciation. The character 噢 imitates the sound one makes to express realization or acknowledgment, such as \"oh\" in English, specifically borrowing the sound for this exclamatory function.",
     "simplification": ""
   },
   "parts": [
@@ -17,23 +17,28 @@
       "english": "mouth"
     },
     {
-      "char": "謷",
-      "trad": "謷",
-      "pinyin": "áo",
-      "english": "phonetic component"
+      "char": "奧",
+      "trad": "奧",
+      "pinyin": "ào",
+      "english": "mysterious; deep"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "噢(噢)，我忘记带钥匙了(我忘記帶鑰匙了)。",
-      "pinyin": "Ō, wǒ wàngjì dài yàoshi le.",
-      "english": "Oh, I forgot to bring the keys."
+      "chinese": "噢(噢)，我刚想起来一件重要的事情(我剛想起來一件重要的事情)。",
+      "pinyin": "Ō, wǒ gāng xiǎng qǐlái yī jiàn zhòngyào de shìqíng.",
+      "english": "Oh, I just remembered something important."
     },
     {
-      "chinese": "噢(噢)，这真是个好主意(這真是個好主意)。",
-      "pinyin": "Ō, zhè zhēn shì ge hǎo zhǔyì.",
-      "english": "Oh, that's really a good idea."
+      "chinese": "噢(噢)，原来是这样啊(原來是這樣啊)！",
+      "pinyin": "Ō, yuánlái shì zhèyàng a!",
+      "english": "Oh, so that's how it is!"
+    },
+    {
+      "chinese": "噢(噢)，下雨了(下雨了)，我们带伞吧(我們帶傘吧)。",
+      "pinyin": "Ō, xià yǔ le, wǒmen dài sǎn ba.",
+      "english": "Oh, it's raining, let's bring an umbrella."
     }
   ]
 }

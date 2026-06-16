@@ -5,9 +5,9 @@
   "english": "to live abroad",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, \"person\") + 喬(乔) (qiáo, \"tall\") = person living abroad, tall metaphorically representing distance -> to live abroad",
-    "interpretation": "The character 侨(僑) (qiáo) combines 亻(亻) (rén, \"person\") indicating that it relates to people, and 喬(乔) (qiáo, \"tall\") as the phonetic component, suggesting the idea of living afar or abroad. The character evokes the image of a person living at a distance.",
-    "simplification": "The simplification involves replacing the phonetic component 喬(乔) (qiáo, \"tall\") with its simplified form 乔(乔) (qiáo), simplifying the character structure while retaining its phonetic and semantic essence."
+    "description": "semantic 亻(亻) (rén, \"person\") + phonetic 喬(喬) (qiáo, \"tall\") -> to live abroad",
+    "interpretation": "The character 僑 (qiáo), meaning 'to live abroad', combines the semantic element 亻(亻) (rén, 'person') with the phonetic 喬(喬) (qiáo, 'tall'). This suggests the notion of a 'person' living 'high or distant', metaphorically extending to residing in a different land, or 'abroad'.",
+    "simplification": "The simplified form 侨 replaces the semantic 喬(喬) (qiáo, \"tall\") with the simpler phonetic component 乔(乔) (qiáo)."
   },
   "parts": [
     {
@@ -18,27 +18,27 @@
     },
     {
       "char": "喬",
-      "trad": "乔",
+      "trad": "喬",
       "pinyin": "qiáo",
-      "english": "tall, high"
+      "english": "tall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他选择侨居欧美(他選擇僑居歐美)。",
-      "pinyin": "Tā xuǎnzé qiáo jū Ōuměi.",
-      "english": "He chose to live abroad in Europe and America."
+      "chinese": "许多华侨(許多華僑)在国外努力工作(在國外努力工作)。",
+      "pinyin": "Xǔduō huáqiáo zài guówài nǔlì gōngzuò.",
+      "english": "Many overseas Chinese work hard abroad."
     },
     {
-      "chinese": "许多华侨在海外创业(許多華僑在海外創業)，为家乡带来投资(為家鄉帶來投資)。",
-      "pinyin": "Xǔduō Huáqiáo zài hǎiwài chuàngyè, wèi jiāxiāng dài lái tóuzī.",
-      "english": "Many overseas Chinese start businesses abroad, bringing investments to their hometown."
+      "chinese": "他经常思念异国他乡的亲戚(他經常思念異國他鄉的親戚)，尤其是在节假日(尤其是在節假日)。",
+      "pinyin": "Tā jīngcháng sīniàn yìguó tāxiāng de qīnqī, yóuqí shì zài jiéjiàrì.",
+      "english": "He often misses his relatives in foreign countries, especially during holidays."
     },
     {
-      "chinese": "他的家族曾侨居东南亚(他的家族曾僑居東南亞)。",
-      "pinyin": "Tā de jiāzú céng qiáo jū Dōngnán Yà.",
-      "english": "His family once lived abroad in Southeast Asia."
+      "chinese": "海外侨胞(海外僑胞)为家乡的发展做出了贡献(為家鄉的發展做出了貢獻)。",
+      "pinyin": "Hǎiwài qiáobāo wèi jiāxiāng de fāzhǎn zuòchūle gòngxiàn.",
+      "english": "Overseas Chinese contribute to the development of their hometowns."
     }
   ]
 }

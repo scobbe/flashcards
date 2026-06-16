@@ -5,9 +5,9 @@
   "english": "tree",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 木(木) (mù, \"tree\") + phonetic: 尌(尌) (shù) = tree-like object described by 尌 -> tree",
-    "interpretation": "The character 树(樹) (shù, \"tree\") combines 木(木) (mù, \"tree\") for its meaning, and 尌(尌) (shù) provides the pronunciation. Together, these components create a character that is pronounced like 尌(尌) and relates to trees.",
-    "simplification": "树(樹): The simplified form retains 木(木) (\"tree\") while modifying 尌 to simplify strokes."
+    "description": "Originally 尌 (phonetic, 'to plant a tree') + 木(木) (mù, 'tree') added for clarity -> tree",
+    "interpretation": "樹 combines the semantic 木(木) (mù, 'tree') with the phonetic 尌 to convey the meaning of 'tree'. The phonetic element 尌 originally depicted the act of planting a tree, and 木 emphasizes the botanical aspect.",
+    "simplification": "壴 (壴, 'drum or musical instrument') was replaced by 又 (又, 'again') to simplify stroke count, losing the original phonetic connection in favor of visual simplicity."
   },
   "parts": [
     {
@@ -20,20 +20,25 @@
       "char": "尌",
       "trad": "尌",
       "pinyin": "shù",
-      "english": "phonetic component"
+      "english": "to plant a tree"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那棵树非常茂盛(那棵樹非常茂盛)。",
-      "pinyin": "Nà kē shù fēicháng màoshèng.",
-      "english": "That tree is very lush."
+      "chinese": "公园里的树很高大(公園裡的樹很高大)。",
+      "pinyin": "Gōngyuán lǐ de shù hěn gāodà.",
+      "english": "The trees in the park are very tall."
     },
     {
-      "chinese": "微风拂过树梢(微風拂過樹梢)，阳光洒满枝头(陽光灑滿枝頭)。",
-      "pinyin": "Wēifēng fúguò shùshāo, yángguāng sǎ mǎn zhītóu.",
-      "english": "A gentle breeze brushes the treetops, while sunlight fills the branches."
+      "chinese": "秋天时树叶变黄(秋天時樹葉變黃)。",
+      "pinyin": "Qiūtiān shí shùyè biàn huáng.",
+      "english": "In autumn, the tree leaves turn yellow."
+    },
+    {
+      "chinese": "那棵老树见证了许多历史(那棵老樹見證了許多歷史)。",
+      "pinyin": "Nà kē lǎo shù jiànzhèngle xǔduō lìshǐ.",
+      "english": "That old tree has witnessed a lot of history."
     }
   ]
 }

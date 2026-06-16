@@ -5,8 +5,8 @@
   "english": "poria root",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + 伏(伏) (fú, \"to lie down\") = plant resembling lying down -> poria root",
-    "interpretation": "The character 茯(fú) incorporates 艹(艹) indicating a plant or herb, appropriate for describing poria root, a type of fungus, while 伏(伏) provides the phonetic element and conveys the idea of something lying beneath the ground, aligning with the subterranean nature of poria.",
+    "description": "semantic 艹(艹) (cǎo, \"grass\") + phonetic 伏(伏) (fú, \"conceal\") -> poria root",
+    "interpretation": "茯(fú, \"poria root\") combines 艹(艹) (cǎo, \"grass\"), indicating a plant-related meaning, with 伏(伏) (fú, \"conceal\"), which provides the phonetic sound. The poria root is used in traditional medicine and is often found concealed underground, which might connect the semantic field with its natural occurrence.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "伏",
       "trad": "伏",
       "pinyin": "fú",
-      "english": "to lie down"
+      "english": "conceal"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "厨师熬制药膳时(廚師熬製藥膳時)，常放茯(常放茯)以调补脾胃(以調補脾胃)。",
-      "pinyin": "Chúshī áo zhì yào shàn shí, cháng fàng fú yǐ tiáo bǔ pí wèi.",
-      "english": "When a chef prepares medicinal cuisine, he often adds poria root to enhance the spleen and stomach."
+      "chinese": "茯苓是中药中常用的材料(茯苓是中藥中常用的材料)。",
+      "pinyin": "Fúlíng shì zhōngyào zhōng cháng yòng de cáiliào.",
+      "english": "Poria root is a commonly used ingredient in traditional Chinese medicine."
     },
     {
-      "chinese": "古籍记载茯(古籍記載茯)，曾用於祛湿养生(曾用於祛濕養生)。",
-      "pinyin": "Gǔjí jìzǎi fú, céng yòng yú qū shī yǎng shēng.",
-      "english": "Ancient texts record that poria root was once used to expel dampness and promote health."
+      "chinese": "在市场上(在市場上)，你可以买到优质的茯苓(你可以買到優質的茯苓)。",
+      "pinyin": "Zài shìchǎng shàng, nǐ kěyǐ mǎi dào yōuzhì de fúlíng.",
+      "english": "In the market, you can buy high-quality poria root."
+    },
+    {
+      "chinese": "茯苓对身体有很多好处(茯苓對身體有很多好處)，例如增强免疫力(例如增強免疫力)。",
+      "pinyin": "Fúlíng duì shēntǐ yǒu hěn duō hǎochù, lìrú zēngqiáng miǎnyì lì.",
+      "english": "Poria root has many health benefits, such as boosting the immune system."
     }
   ]
 }

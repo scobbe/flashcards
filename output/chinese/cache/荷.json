@@ -5,8 +5,8 @@
   "english": "lotus; burden",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, \"grass; plant\") + 何(何) (hé) = plant-related meaning with 何 as phonetic -> meaning of lotus or burden",
-    "interpretation": "The character 荷 combines the radical 艸(艸) (cǎo, \"grass; plant\") to indicate its association with plants, specifically the lotus, while 何(何) (hé) provides the phonetic clue. The lotus is considered both a plant and symbolically associated with roles and burdens.",
+    "description": "semantic 艸(艸) (cǎo, \"grass; plant\") + phonetic 何(何) (hé) -> lotus; burden",
+    "interpretation": "The component 艸(艸) (cǎo, \"grass; plant\") indicates the character's association with plants, while 何(何) (hé) provides the sound. This combination reflects the character's primary sense of 'lotus,' a type of water plant. The secondary sense 'burden' comes from the idea of carrying or holding something, which is orthographically unrelated to its parts and is borrowed for its phonetic value rather than derived directly from the component meanings.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "何",
       "trad": "何",
       "pinyin": "hé",
-      "english": "phonetic component"
+      "english": "what; why"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "夏日的池塘边(夏日的池塘邊)，荷花优雅盛开(荷花優雅盛開)。",
-      "pinyin": "Xiàrì de chítáng biān, héhuā yōuyǎ shèngkāi。",
-      "english": "By the pond on a summer day, lotus flowers bloom gracefully."
+      "chinese": "荷花在池塘里开放(荷花在池塘裡開放)。",
+      "pinyin": "Héhuā zài chítáng lǐ kāifàng.",
+      "english": "The lotus flowers are blooming in the pond."
     },
     {
-      "chinese": "他肩负重担(他肩負重擔)，难以释怀那沉沉的荷(難以釋懷那沉沉的荷)。",
-      "pinyin": "Tā jiānfù zhòngdān, nán yǐ shìhuái nà chénchén de hé。",
-      "english": "He bears a heavy load, unable to let go of that persistent burden."
+      "chinese": "他背负着沉重的责任(他背負着沉重的責任)。",
+      "pinyin": "Tā bèifùzhe chénzhòng de zérèn.",
+      "english": "He bears a heavy burden of responsibility."
+    },
+    {
+      "chinese": "莲叶何田田(蓮葉何田田)，鱼戏莲叶间(魚戲蓮葉間)。",
+      "pinyin": "Lián yè hé tián tián, yú xì lián yè jiān.",
+      "english": "How lush are the lotus leaves, fish play in between them."
     }
   ]
 }

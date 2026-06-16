@@ -5,8 +5,8 @@
   "english": "England; heroic; outstanding",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + 央(央) (yāng, \"center\") = luxurious or flourishing like grass -> heroic, outstanding",
-    "interpretation": "The character combines 艹(艹) to suggest lushness or abundance, with 央(央) serving as the phonetic element, conveying the idea of excellence or being outstanding.",
+    "description": "semantic 艹 (grass) + phonetic 央 (sound) -> meaning",
+    "interpretation": "The character 英(yīng, 'heroic; outstanding') combines 艹 (艹) (cǎo, 'grass'), indicating a connection to plants or greenery, with 央(央) (yāng), which serves as a phonetic component suggesting the character's pronunciation. The notion of plants thriving and standing out leads to the meanings of 'outstanding' and 'heroic', while the phonetic component continues to represent sounds related to its other usages.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他英勇抗敌(他英勇抗敵)！",
-      "pinyin": "Tā yīng yǒng kàng dí!",
-      "english": "He fought the enemy heroically!"
+      "chinese": "他是一位非常英勇的消防员(他是一位非常英勇的消防員)。",
+      "pinyin": "Tā shì yī wèi fēicháng yīngyǒng de xiāofángyuán.",
+      "english": "He is a very heroic firefighter."
     },
     {
-      "chinese": "他在英国学习(他在英國學習)，欣赏英伦风情(欣賞英倫風情)。",
-      "pinyin": "Tā zài Yīngguó xuéxí, xīnshǎng Yīnglún fēngqíng.",
-      "english": "He studies in England and appreciates British style."
+      "chinese": "我们计划明年去英国旅行(我們計劃明年去英國旅行)。",
+      "pinyin": "Wǒmen jìhuà míngnián qù Yīngguó lǚxíng.",
+      "english": "We plan to travel to England next year."
     },
     {
-      "chinese": "他的气质英气逼人(他的氣質英氣逼人)！",
-      "pinyin": "Tā de qìzhì yīngqì bī rén!",
-      "english": "His demeanor is remarkably heroic."
+      "chinese": "她在比赛中表现得非常英勇(她在比賽中表現得非常英勇)，赢得了许多观众的掌声(贏得了許多觀眾的掌聲)。",
+      "pinyin": "Tā zài bǐsài zhōng biǎoxiàn dé fēicháng yīngyǒng, yíngdéle xǔduō guānzhòng de zhǎngshēng.",
+      "english": "She performed heroically in the competition, earning applause from many spectators."
     }
   ]
 }

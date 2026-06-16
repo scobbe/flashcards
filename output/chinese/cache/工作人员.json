@@ -5,8 +5,8 @@
   "english": "working personnel; staff member",
   "etymology": {
     "type": "compound word",
-    "description": "工(工) (gōng, \"work\") + 作(作) (zuò, \"to do; to make\") combine to mean \"work\". 人(人) (rén, \"person\") + 员(員) (yuán, \"member; personnel\") combine to refer to a \"staff member\" or \"personnel\". Thus, 工作人员(工作人員) (gōngzuò rényuán) refers to \"working personnel\" or \"staff member\".",
-    "interpretation": "工作人员(工作人員) (gōngzuò rényuán) literally means people who are engaged in a specific task or project as part of their employment. This reflects the structured nature of roles within organizations or projects.",
+    "description": "工作(工作) (gōngzuò, \"work\") + 人员(人員) (rényuán, \"personnel\") = working personnel; staff member. The word combines the concept of work and the people involved, signifying individuals whose role is defined by their occupational duties.",
+    "interpretation": "工作(工作) (gōngzuò, \"work\") refers to the act of performing tasks or labor. 人员(人員) (rényuán, \"personnel\") refers to a group of people in a specified capacity. Together, these morphemes create an intuitive concept of individuals who are engaged in tasks related to their occupational role, embodying the idea of staff members or working personnel.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "工作",
       "trad": "工作",
       "pinyin": "gōngzuò",
-      "english": "work"
+      "english": "work; job; task"
     },
     {
       "char": "人员",
       "trad": "人員",
       "pinyin": "rényuán",
-      "english": "personnel; staff member"
+      "english": "personnel; staff; crew"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "会议现场有许多工作人员(會議現場有許多工作人員)。",
-      "pinyin": "Huìyì xiànchǎng yǒu xǔduō gōngzuò rényuán.",
-      "english": "There are many staff members at the conference venue."
+      "chinese": "图书馆的工作人员(圖書館的工作人員)很友好。",
+      "pinyin": "Túshūguǎn de gōngzuò rényuán hěn yǒuhǎo.",
+      "english": "The library staff are very friendly."
     },
     {
-      "chinese": "会议开始前(會議開始前)，工作人员检查设备(工作人員檢查設備)。",
-      "pinyin": "Huìyì kāishǐ qián, gōngzuò rényuán jiǎnchá shèbèi.",
-      "english": "Before the meeting began, the staff checked the equipment."
+      "chinese": "工作人员(工作人員)正在准备活动(正在準備活動)。",
+      "pinyin": "Gōngzuò rényuán zhèngzài zhǔnbèi huódòng.",
+      "english": "The staff members are preparing for the event."
     },
     {
-      "chinese": "火车站大厅里有工作人员提供信息(火車站大廳裡有工作人員提供信息)。",
-      "pinyin": "Huǒchēzhàn dàtīng lǐ yǒu gōngzuò rényuán tígōng xìnxī.",
-      "english": "At the train station hall, staff provide information."
+      "chinese": "医院的工作人员(醫院的工作人員)每天工作很努力(每天工作很努力)。",
+      "pinyin": "Yīyuàn de gōngzuò rényuán měitiān gōngzuò hěn nǔlì.",
+      "english": "The hospital staff work hard every day."
     }
   ]
 }

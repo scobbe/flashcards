@@ -6,7 +6,7 @@
   "etymology": {
     "type": "ideogrammic compound",
     "description": "禾(禾) (hé, \"plant\") + 又(又) (yòu, \"hand\") = a hand holding a plant by the stalk -> handle",
-    "interpretation": "The character illustrates the action of grasping the stalk of a plant, symbolizing the concept of handling or controlling something. This makes sense given the components, as the hand is directly interacting with the plant.",
+    "interpretation": "The depiction of a hand 又(又) grasping a plant 禾(禾) conveys the fundamental act of holding, emphasizing control or management over the object, which is extended metaphorically to mean 'handle'.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,14 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他秉持正义(他秉持正義)，处理事务(處理事務)。",
-      "pinyin": "Tā bǐngchí zhèngyì, chǔlǐ shìwù.",
-      "english": "He upholds justice and handles affairs."
+      "chinese": "他秉持正直的原则(他秉持正直的原則)。",
+      "pinyin": "Tā bǐngchí zhèngzhí de yuánzé.",
+      "english": "He upholds principles of integrity."
     },
     {
-      "chinese": "总经理秉公用权(總經理秉公用權)，促使企业稳步发展(促使企業穩步發展)。",
-      "pinyin": "Zǒngjīnglǐ bǐnggōng yòngquán, cùshǐ qǐyè wěnbù fāzhǎn.",
-      "english": "The CEO handles power impartially, facilitating the steady growth of the enterprise."
+      "chinese": "管理者应当秉公处理事情(管理者應當秉公處理事情)。",
+      "pinyin": "Guǎnlǐ zhě yīngdāng bǐnggōng chǔlǐ shìqíng.",
+      "english": "Managers should handle matters impartially."
     }
   ]
 }

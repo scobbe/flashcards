@@ -4,9 +4,9 @@
   "pinyin": "xīn",
   "english": "heart",
   "etymology": {
-    "type": "variant of a pictogram",
-    "description": "忄 is a variant of 心(心) (xīn, \"heart\") used as a left radical in compounds → functions as 'heart' when combining with other elements.",
-    "interpretation": "忄 is a simplified form used primarily as a radical, preserving the meaning of 'heart' from 心(心) in compound characters. Its simplified form allows it to merge seamlessly as a semantic element in character formation, indicating emotions or mental activities.",
+    "type": "variant",
+    "description": "忄 is a variant of 心 (心) (xīn, \"heart\") used as a radical on the left side of characters.",
+    "interpretation": "忄 represents a stylized form of 心 (心) (xīn, \"heart\"), which is used to indicate connotations related to emotions or the mind when it functions as a semantic component in compound characters.",
     "simplification": ""
   },
   "parts": [
@@ -20,14 +20,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "看字时(看字時)，忄常与情感有关(忄常與情感有關)。",
-      "pinyin": "Kàn zì shí, xīn cháng yǔ qínggǎn yǒuguān.",
-      "english": "When examining characters, the radical 忄 is often associated with emotions."
+      "chinese": "她的心情很好(她的心情很好)。",
+      "pinyin": "Tā de xīnqíng hěn hǎo.",
+      "english": "Her mood is very good."
     },
     {
-      "chinese": "书法中(書法中)，忄被用于表达心意(忄被用於表達心意)。",
-      "pinyin": "Shūfǎ zhōng, xīn bèi yòng yú biǎodá xīnyì.",
-      "english": "In calligraphy, the radical 忄 is used to express one’s inner feelings."
+      "chinese": "我对他心怀感激(我對他心懷感激)。",
+      "pinyin": "Wǒ duì tā xīnhuái gǎnjī.",
+      "english": "I am deeply grateful to him."
+    },
+    {
+      "chinese": "听到这个消息(聽到這個消息)，他心里很难过(他心裡很難過)。",
+      "pinyin": "Tīngdào zhège xiāoxī, tā xīnli hěn nánguò.",
+      "english": "Hearing the news, he felt very sad."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "intermediate form",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "two bundles 東(東) (dōng, 'east') -> pair or peer, same kind -> 囗(囗) (wéi, 'enclosure') added for distinction, later corrupted to 甘 -> bronze inscription -> 曰(曰) (yuē, 'speak') in Seal Script -> 𣍘 -> modern 曹(曹) (cáo, 'ministry; a surname')",
-    "interpretation": "𣍘 is an intermediate form leading to 曹(曹) (cáo, 'ministry; a surname'), developed from the concept of pairing bundles, evolving through the addition and eventual transformation of elements like 囗(囗), 甘, and 曰(曰). This character demonstrates the evolution of form through historical scripts, creating a distinct and recognizable modern entity.",
+    "description": "兩東 'two bundles' (similar objects) + 囗 added, which corrupted into 甘 (seal script became 曰) -> 𣍘 (intermediate form) -> 曹",
+    "interpretation": "The character 𣍘 started as an ideogrammic compound representing the concept of 'pair' or 'same kind.' It was visually conveyed through two bundles resembling 東. The addition of a distinguishing outline 囗, evolving through 甘 and 曰 in different scripts, resulted in the intermediate form 𣍘, leading to the final form 曹. This ideogrammic structure highlights the association with shared or equal entities.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "東",
       "trad": "東",
       "pinyin": "dōng",
-      "english": "east"
+      "english": "east; bundle"
     },
     {
       "char": "囗",
@@ -23,16 +23,16 @@
       "english": "enclosure"
     },
     {
-      "char": "曰",
-      "trad": "曰",
-      "pinyin": "yuē",
-      "english": "speak"
-    },
-    {
       "char": "甘",
       "trad": "甘",
       "pinyin": "gān",
       "english": "sweet"
+    },
+    {
+      "char": "曰",
+      "trad": "曰",
+      "pinyin": "yuē",
+      "english": "to speak"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "first time",
   "etymology": {
     "type": "compound word",
-    "description": "第(第) (dì, \"ordinal number prefix\") + 一(一) (yī, \"one\") + 次(次) (cì, \"time; instance\") = first time",
-    "interpretation": "This combination expresses the concept of the first occurrence or instance of an event. 第(第) (dì, \"ordinal number prefix\") is used to indicate order, 一(一) (yī, \"one\") specifies the position as 'first', and 次(次) (cì, \"time; instance\") denotes occurrence.",
+    "description": "第(第) (dì, \"prefix for ordinal numbers\") is a prefix used to indicate the order or rank in a sequence, such as 'first', 'second', etc. 一(一) (yī, \"one\") specifies the number 'one'. 次(次) (cì, \"time; occurrence\") refers to an instance or occurrence of an event. Combined, 第(第) (dì, \"prefix for ordinal numbers\") + 一(一) (yī, \"one\") + 次(次) (cì, \"time; occurrence\") literally translates to the 'first instance' or 'first occurrence', thus meaning 'first time'.",
+    "interpretation": "第(第) (dì, \"prefix for ordinal numbers\") provides the ordinal sense, indicating position or sequence in a list. Following it, 一(一) (yī, \"one\") specifies the position as 'first', establishing the sequence. 次(次) (cì, \"time; occurrence\") then gives the notion of an event or instance. This leads to the understanding of 第一次 as 'the first event in a sequence' or simply 'the first time'.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "第",
       "trad": "第",
       "pinyin": "dì",
-      "english": "ordinal number prefix"
+      "english": "prefix for ordinal numbers"
     },
     {
       "char": "一",
@@ -26,25 +26,25 @@
       "char": "次",
       "trad": "次",
       "pinyin": "cì",
-      "english": "time; instance"
+      "english": "time; occurrence"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这是我第一次来中国(這是我第一次來中國)。",
-      "pinyin": "Zhè shì wǒ dì yī cì lái Zhōngguó.",
-      "english": "This is my first time in China."
+      "chinese": "这是我第一次去北京(這是我第一次去北京)。",
+      "pinyin": "Zhè shì wǒ dì yī cì qù Běijīng.",
+      "english": "This is my first time going to Beijing."
     },
     {
-      "chinese": "第一次出国时(第一次出國時)，我感到既兴奋又紧张(我感到既興奮又緊張)。",
-      "pinyin": "Dì yī cì chūguó shí, wǒ gǎndào jì xīngfèn yòu jǐnzhāng.",
-      "english": "When I went abroad for the first time, I felt both excited and nervous."
+      "chinese": "他第一次看到大海(他第一次看到大海)，感到非常兴奋(感到非常興奮)。",
+      "pinyin": "Tā dì yī cì kàn dào dàhǎi, gǎndào fēicháng xīngfèn.",
+      "english": "He felt very excited when he saw the sea for the first time."
     },
     {
-      "chinese": "我第一次尝试做饭(我第一次嘗試做飯)，结果弄得一团糟(結果弄得一團糟)。",
-      "pinyin": "Wǒ dì yī cì chángshì zuò fàn, jiéguǒ nòng dé yī tuán zāo.",
-      "english": "The first time I tried to cook, it ended up in a mess."
+      "chinese": "我们第一次见面(我們第一次見面)，是在一个朋友的聚会(是在一個朋友的聚會)。",
+      "pinyin": "Wǒmen dì yī cì jiànmiàn, shì zài yī gè péngyǒu de jùhuì.",
+      "english": "The first time we met was at a friend's party."
     }
   ]
 }

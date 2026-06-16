@@ -5,8 +5,8 @@
   "english": "forehead",
   "etymology": {
     "type": "compound word",
-    "description": "額(額) (é, \"forehead; amount\") refers to the forehead as a prominent part of the head. 頭(頭) (tóu, \"head\") is the term for the head itself. Combined, 額頭(額頭) (étóu, \"forehead\") specifically highlights the forehead as a specific part of the head.",
-    "interpretation": "額(額) (é, \"forehead; amount\") emphasizes the specific area above the brow, where expressions are often made visible, while 頭(頭) (tóu, \"head\") generally refers to the entire head. Together, 額頭(額頭) (étóu) distinctly refers to the region of the forehead, marking it as the salient part of the head between the eyebrows and the hairline.",
+    "description": "額(額) (é, \"forehead; quota; specified amount of money\") + 頭(头) (tóu, \"head; top; chief\") = the front part of the head -> forehead",
+    "interpretation": "額(額) (é, \"forehead\") refers directly to the frontal part of the head where a person would commonly perceive their 'quota' of exposure or recognition, as it is often the most visible segment of the skull. 頭(头) (tóu, \"head\") specifies the general area being referred to. Together, they concretely denote the 'forehead' as the plate-like structure at the front of the head.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "额",
       "trad": "額",
       "pinyin": "é",
-      "english": "forehead; amount"
+      "english": "forehead; quota; specified amount of money"
     },
     {
       "char": "头",
       "trad": "頭",
       "pinyin": "tóu",
-      "english": "head"
+      "english": "head; top; chief"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的额头上有一颗豆子大的痣(他的額頭上有一顆豆子大的痣)。",
-      "pinyin": "Tā de étóu shàng yǒu yī kē dòuzi dà de zhì.",
-      "english": "There is a pea-sized mole on his forehead."
+      "chinese": "他额头上有一颗痣(他額頭上有一顆痣)。",
+      "pinyin": "Tā étóu shàng yǒu yī kē zhì.",
+      "english": "He has a mole on his forehead."
     },
     {
-      "chinese": "她用手轻轻拍了拍他的额头(她用手輕輕拍了拍他的額頭)。",
-      "pinyin": "Tā yòng shǒu qīngqīng pāile pāi tā de étóu.",
-      "english": "She gently patted his forehead with her hand."
+      "chinese": "她感到疲倦(她感到疲倦)，用手擦了擦额头(用手擦了擦額頭)。",
+      "pinyin": "Tā gǎndào píjuàn, yòng shǒu cāle cā étóu.",
+      "english": "She felt tired and wiped her forehead with her hand."
     },
     {
-      "chinese": "疲惫时，他常常用手扶着额头(疲憊時，他常常用手扶著額頭)。",
-      "pinyin": "Píbèi shí, tā chángcháng yòng shǒu fúzhe étóu.",
-      "english": "When tired, he often supports his forehead with his hand."
+      "chinese": "医生检查了他的额头(醫生檢查了他的額頭)，发现没有异常(發現沒有異常)。",
+      "pinyin": "Yīshēng jiǎnchá le tā de étóu, fāxiàn méiyǒu yìcháng.",
+      "english": "The doctor examined his forehead and found nothing abnormal."
     }
   ]
 }

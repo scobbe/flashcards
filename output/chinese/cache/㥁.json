@@ -4,23 +4,23 @@
   "pinyin": "unknown",
   "english": "unknown",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Semantic: 彳(彳) (chì, \"road\") + Phonetic: 惪(惪) (dé, \"virtue\") -> 㥁 (variant of 德)",
-    "interpretation": "The character 㥁 is a variant form of 德(德) (dé, \"virtue\"), sharing its phono-semantic compound structure. 彳(彳) (chì, \"road\") signifies progression or conduct, while 惪(惪) (dé, \"virtue\") provides the phonetic element, linking the character to the notion of moral conduct or virtue.",
+    "type": "variant form",
+    "description": "Variant of 德 (dé, \"virtue\")",
+    "interpretation": "The character 㥁 is a variant form of 德 (dé, \"virtue\"), which combines semantic 彳 (chì, \"road\") indicating a path or method and phonetic 惪 (dé, \"virtue\") suggesting the sound. 德 implies following a path of moral integrity or virtue.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "德",
+      "trad": "德",
+      "pinyin": "dé",
+      "english": "virtue"
+    },
     {
       "char": "彳",
       "trad": "彳",
       "pinyin": "chì",
       "english": "road"
-    },
-    {
-      "char": "惪",
-      "trad": "惪",
-      "pinyin": "dé",
-      "english": "virtue"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,9 +5,9 @@
   "english": "affairs; duties; to attend to",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 敄 + Semantic 力 (力, \"strength\") = tasks requiring strength -> attending to duties",
-    "interpretation": "The character combines the concept of strength, 力 (lì, \"strength\"), with the phonetic component 敄, suggesting an action requiring effort, like attending to duties or affairs.",
-    "simplification": "Simplified by removing 矛 (máo, \"spear\") for ease of writing, retaining the phonetic value with simplified 务."
+    "description": "phonetic 敄 + semantic 力 ('strength') -> affairs; duties; to attend to",
+    "interpretation": "Phonetic 敄 lends the sound, while the semantic component 力 (lì, 'strength') suggests the exertion of effort needed to manage 'affairs' or 'duties.' Essentially, it embodies attending to affairs with effort or strength, linking to the sense of 'to attend to.'",
+    "simplification": "務 (wù) was simplified by removing the component 矛 (máo, 'spear') while keeping the 力 component combined with a simplified form of the phonetic component."
   },
   "parts": [
     {
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们在处理日常事务时要谨慎(我們在處理日常事務時要謹慎)。",
-      "pinyin": "Wǒmen zài chǔlǐ rìcháng shìwù shí yào jǐnshèn.",
-      "english": "We must be cautious when handling everyday affairs."
+      "chinese": "小王总是认真负责地处理各项业务(小王總是認真負責地處理各項業務)。",
+      "pinyin": "Xiǎo Wáng zǒng shì rènzhēn fùzé de chǔlǐ gè xiàng yèwù.",
+      "english": "Xiao Wang always handles various tasks diligently and responsibly."
     },
     {
-      "chinese": "领导分配重要任务(領導分派重要任務)，员工各尽其职办理事务(員工各盡其職辦理事務)。",
-      "pinyin": "Lǐngdǎo fēnpài zhòngyào rènwù, yuángōng gè jìn qí zhí bànlǐ shìwù.",
-      "english": "The leader assigns important tasks, and employees conscientiously manage affairs."
+      "chinese": "他应对紧急事务时(他應對緊急事務時)，表现得很镇定(表現得很鎮定)。",
+      "pinyin": "Tā yìngduì jǐnjí shìwù shí, biǎoxiàn de hěn zhèndìng.",
+      "english": "He remained very calm when dealing with urgent matters."
+    },
+    {
+      "chinese": "务必按时完成这个项目(務必按時完成這個項目)。",
+      "pinyin": "Wùbì ànshí wánchéng zhège xiàngmù.",
+      "english": "Make sure to complete this project on time."
     }
   ]
 }

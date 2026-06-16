@@ -4,9 +4,9 @@
   "pinyin": "gài",
   "english": "beggar",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Corruption of 匄(匄) (gài, original meaning unknown) -> final form 丐(丐) (gài, 'beggar')",
-    "interpretation": "丐(丐) (gài) is derived from 匄(匄), which originally had an unknown meaning, possibly 'to damage'. Over time, 丐(丐) evolved into its current use to mean 'beggar'. The transformation appears to involve a simplification or corruption of the original form, indicating a shift in both form and meaning.",
+    "type": "corruption",
+    "description": "Corruption of 匄(匄)",
+    "interpretation": "The character 丐 was an alteration of 匄(匄). The original meaning of 匄(匄) is unknown, with suggestions it might have meant 'to damage'. Over time, 辛(辛) (xīn, 'bitter') was mistakenly altered, leading to the present form 丐.",
     "simplification": ""
   },
   "parts": [
@@ -14,20 +14,25 @@
       "char": "匄",
       "trad": "匄",
       "pinyin": "gài",
-      "english": "original meaning unknown"
+      "english": "unknown"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "街上有个丐(街上有個丐)，他四处讨饭(他四處討飯)。",
-      "pinyin": "Jiē shàng yǒu gè gài, tā sì chù tǎo fàn.",
-      "english": "There is a beggar on the street, and he begs for food everywhere."
+      "chinese": "他曾经是一个丐幫的成员(他曾經是一個丐幫的成員)。",
+      "pinyin": "Tā céngjīng shì yīgè gàibāng de chéngyuán.",
+      "english": "He was once a member of the Beggar Clan."
     },
     {
-      "chinese": "他曾是繁华都市边缘的丐(他曾是繁華都市邊緣的丐)，今日落魄街头(今日落魄街頭)。",
-      "pinyin": "Tā céng shì fán huá dū shì biān yuán de gài, jīn rì luò pò jiē tóu.",
-      "english": "He used to be a beggar on the outskirts of a bustling city, but today he is destitute on the street."
+      "chinese": "街上有个老丐(街上有個老丐)，他总是微笑着(他總是微笑著)。",
+      "pinyin": "Jiē shàng yǒu gè lǎo gài, tā zǒng shì wéixiào zhe.",
+      "english": "There is an old beggar on the street who always smiles."
+    },
+    {
+      "chinese": "那名丐衣衫褴褛(那名丐衣衫襤褸)，但眼神充满智慧(但眼神充滿智慧)。",
+      "pinyin": "Nà míng gài yīshān lánlǚ, dàn yǎnshén chōngmǎn zhìhuì.",
+      "english": "The beggar was ragged, but his eyes were full of wisdom."
     }
   ]
 }

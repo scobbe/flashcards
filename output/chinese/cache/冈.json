@@ -4,28 +4,41 @@
   "pinyin": "gāng",
   "english": "ridge",
   "etymology": {
-    "type": "pictogram",
-    "description": "Net depicted -> stylized as ridge",
-    "interpretation": "The character 冈(岡) (gāng, \"ridge\") is originally a pictogram representing a net, which was later adapted for its current meaning \"ridge\" because of its visual resemblance to the outlines of hills or ridges.",
-    "simplification": "冈(岡) is a cursive shorthand form that eliminates the inner part of the original traditional form while retaining the outer lines representing the ridge."
+    "type": "phono-semantic compound",
+    "description": "semantic 山(山) (shān, \"mountain\") + phonetic 网(網) (wǎng) -> ridge",
+    "interpretation": "The character combines 山(山) (shān, \"mountain\") as the semantic element, indicating the connection to landscapes, specifically ridges, with 网(網) (wǎng) providing the phonetic cue. The use of 山(山) logically aligns with the meaning related to mountainous features like ridges.",
+    "simplification": "岡(岡) was simplified to 冈(岡) by removing the 山(山) component and simplifying 网(網) (wǎng) to form a visually simpler character."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "山",
+      "trad": "山",
+      "pinyin": "shān",
+      "english": "mountain"
+    },
+    {
+      "char": "網",
+      "trad": "網",
+      "pinyin": "wǎng",
+      "english": "net"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "山冈耸立(山冈聳立)。",
-      "pinyin": "Shān gāng sǒng lì.",
-      "english": "The ridge towers majestically."
+      "chinese": "他登上了山冈(他登上了山岡)。",
+      "pinyin": "Tā dēng shàngle shāngāng.",
+      "english": "He climbed the mountain ridge."
     },
     {
-      "chinese": "翻越山冈(翻越山冈)，便能看到远方(便能看到遠方)。",
-      "pinyin": "Fān yuè shān gāng, biàn néng kàn dào yuǎn fāng.",
-      "english": "After crossing the ridge, one can see the distant horizon."
+      "chinese": "小径穿过草冈(小徑穿過草岡)。",
+      "pinyin": "Xiǎo jìng chuānguò cǎogāng.",
+      "english": "The path crosses the grassy ridge."
     },
     {
-      "chinese": "他沿着冈脊(他沿着冈脊)，寻觅失落的宝藏(尋覓失落的寶藏)。",
-      "pinyin": "Tā yán zhe gāng jí, xún mì shī luò de bǎo zàng.",
-      "english": "He follows the ridge crest, searching for the lost treasure."
+      "chinese": "日出时(日出時)，光芒洒在冈顶(光芒灑在岡頂)。",
+      "pinyin": "Rìchū shí, guāngmáng sǎ zài gāng dǐng.",
+      "english": "At sunrise, the light bathes the ridge top."
     }
   ]
 }

@@ -5,46 +5,40 @@
   "english": "Mao Zedong Thought",
   "etymology": {
     "type": "compound word",
-    "description": "毛(毛) (máo, \"hair\"; \"surname Mao\"), 泽(澤) (zé, \"marsh\"; \"beneficial influence\"), 东(東) (dōng, \"east\"; \"surname Dong\"), 思(思) (sī, \"think\"; \"ponder\"), 想(想) (xiǎng, \"consider\"; \"wish\")",
-    "interpretation": "毛泽东思想(毛澤東思想) (Máo Zédōng Sīxiǎng) refers to the ideological and political principles of Mao Zedong, the founding father of the People's Republic of China. It combines 毛泽东(毛澤東) (Máo Zédōng, \"Mao Zedong\") as the person and 思想(思想) (sīxiǎng, \"thought\"; \"thinking\") to signify Mao's body of ideas and their influence on Chinese society and governance.",
+    "description": "毛澤東思想 refers to the political and theoretical concepts developed by 毛澤東(毛泽东) (Máo Zédōng, 'Mao Zedong'), the founding father of the People's Republic of China. It combines 毛澤東(毛泽东), his name, and 思想(思想), which means 'thought' or 'ideology'. The full term signifies the body of political, military, and economic ideas attributed to Mao.",
+    "interpretation": "毛澤東(毛泽东) (Máo Zédōng, 'Mao Zedong') combined with 思想(思想) (sīxiǎng, 'thought') forms 毛泽东思想 (Mao Zedong Thought), reflecting a comprehensive ideological framework. 'Mao Zedong' indicates the originator, while 'thought' represents the abstract political and philosophical ideas developed under his guidance. The ideology forms the basis of Maoism, influencing Chinese politics and global movements.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "毛",
-      "trad": "毛",
-      "pinyin": "máo",
-      "english": "hair; surname Mao"
-    },
-    {
-      "char": "泽东",
-      "trad": "澤東",
-      "pinyin": "Zédōng",
-      "english": "Zedong; eastern marsh"
+      "char": "毛澤東",
+      "trad": "毛澤東",
+      "pinyin": "Máo Zédōng",
+      "english": "Mao Zedong"
     },
     {
       "char": "思想",
       "trad": "思想",
       "pinyin": "sīxiǎng",
-      "english": "thought; thinking"
+      "english": "thought; thinking; ideology; mindset"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "毛泽东思想深刻影响了中国历史(毛澤東思想深刻影響了中國歷史)。",
-      "pinyin": "Máo Zédōng Sīxiǎng shēnkè yǐngxiǎng le Zhōngguó lìshǐ.",
-      "english": "Mao Zedong Thought profoundly influenced China's history."
+      "chinese": "毛泽东思想(毛澤東思想)是中国革命的指导思想。",
+      "pinyin": "Máo Zédōng Sīxiǎng shì Zhōngguó gémìng de zhǐdǎo sīxiǎng.",
+      "english": "Mao Zedong Thought is the guiding ideology of the Chinese revolution."
     },
     {
-      "chinese": "学习毛泽东思想(學習毛澤東思想)，可以了解革命精神(可以了解革命精神)。",
-      "pinyin": "Xuéxí Máo Zédōng Sīxiǎng, kěyǐ liǎojiě gémìng jīngshén.",
-      "english": "Studying Mao Zedong Thought helps to understand the revolutionary spirit."
+      "chinese": "许多学者研究毛泽东思想的影响(許多學者研究毛澤東思想的影響)。",
+      "pinyin": "Xǔduō xuézhě yánjiū Máo Zédōng Sīxiǎng de yǐngxiǎng.",
+      "english": "Many scholars study the impact of Mao Zedong Thought."
     },
     {
-      "chinese": "在课堂上讨论毛泽东思想(在課堂上討論毛澤東思想)，激发了学生热情(激發了學生熱情)。",
-      "pinyin": "Zài kètáng shàng tǎolùn Máo Zédōng Sīxiǎng, jīfā le xuéshēng rèqíng.",
-      "english": "Discussing Mao Zedong Thought in class stirred the students' enthusiasm."
+      "chinese": "毛泽东思想(毛澤東思想)在中国历史上具有重要地位。",
+      "pinyin": "Máo Zédōng Sīxiǎng zài Zhōngguó lìshǐ shàng jùyǒu zhòngyào dìwèi.",
+      "english": "Mao Zedong Thought holds an important place in Chinese history."
     }
   ]
 }

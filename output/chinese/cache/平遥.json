@@ -5,8 +5,8 @@
   "english": "Pingyao",
   "etymology": {
     "type": "compound word",
-    "description": "平(平) (píng, 'flat; peaceful') refers to flatness or tranquility, while 遥(遙) (yáo, 'distant; remote') suggests distance or remoteness. Together, 平遥(平遙) can describe a place known for its landscape or historical significance.",
-    "interpretation": "The combination of 平(平) (píng, 'flat; peaceful') and 遥(遙) (yáo, 'distant; remote') suggests a place that is tranquil and somewhat removed from bustling urban centers, reflecting the geography and historical heritage of Pingyao, a well-preserved ancient city in China.",
+    "description": "The word 平遙 (Píngyáo) refers to a county in Shanxi, China, known for its well-preserved ancient city.",
+    "interpretation": "The character 平 (píng, \"flat; peaceful\") suggests a flat or level surface, often associated with tranquility or stability. The character 遙 (yáo, \"distant; far away\") represents the concept of distance or being far-reaching. In the context of 平遙 (Píngyáo), these characters together imply a place that is both vast and peaceful, reflecting the historical city's extensive and serene ancient architecture.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "平",
       "trad": "平",
       "pinyin": "píng",
-      "english": "flat; peaceful"
+      "english": "flat; peaceful; level"
     },
     {
       "char": "遥",
       "trad": "遙",
       "pinyin": "yáo",
-      "english": "distant; remote"
+      "english": "distant; far away"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我去平遥旅游(我去平遙旅遊)。",
-      "pinyin": "Wǒ qù Píngyáo lǚyóu.",
-      "english": "I am going to visit Pingyao."
+      "chinese": "平遥古城(平遙古城)是中国著名的旅游景点(是中國著名的旅遊景點)。",
+      "pinyin": "Píngyáo gǔchéng shì Zhōngguó zhùmíng de lǚyóu jǐngdiǎn.",
+      "english": "Pingyao Ancient City is a famous tourist attraction in China."
     },
     {
-      "chinese": "平遥古城风景优美(平遙古城風景優美)，吸引了许多游客(吸引了許多遊客)。",
-      "pinyin": "Píngyáo gǔchéng fēngjǐng yōuměi, xīyǐnle xǔduō yóukè.",
-      "english": "Pingyao Ancient City has beautiful scenery, attracting many visitors."
+      "chinese": "我计划去平遥旅游(我計劃去平遙旅遊)，了解当地的历史文化(了解當地的歷史文化)。",
+      "pinyin": "Wǒ jìhuà qù Píngyáo lǚyóu, liǎojiě dāngdì de lìshǐ wénhuà.",
+      "english": "I plan to travel to Pingyao to learn about the local history and culture."
+    },
+    {
+      "chinese": "平遥以其保存完好的城墙闻名(平遙以其保存完好的城牆聞名)。",
+      "pinyin": "Píngyáo yǐ qí bǎocún wánhǎo de chéngqiáng wénmíng.",
+      "english": "Pingyao is famous for its well-preserved city walls."
     }
   ]
 }

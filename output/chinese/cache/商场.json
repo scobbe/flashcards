@@ -5,40 +5,40 @@
   "english": "shopping mall",
   "etymology": {
     "type": "compound word",
-    "description": "商(商) (shāng, \"commerce\") + 场(場) (chǎng, \"open space\" or \"place\") = a place for commerce",
-    "interpretation": "A 商场(商場) (shāngchǎng, \"shopping mall\") is a large open space dedicated to commerce where various shops and businesses are situated. The combination of 商(商) (shāng, \"commerce\") with 场(場) (chǎng, \"open space\" or \"place\") conveys the idea of a designated area for trade and services, aligning with modern commercial practices.",
-    "simplification": "Customary simplification by converting 場 to 场"
+    "description": "商(商) (shāng, \"commerce\") refers to business activities. 場(場) (chǎng, \"field; place\") denotes a specific location or space. Together, 商場(商場) (shāngchǎng, \"shopping mall\") signifies a place designated for commercial activities, where various shops and businesses are situated in a central location.",
+    "interpretation": "商(商) (shāng, \"commerce\") indicates business dealings, giving the sense that the location is centered around trade and consumer activities. 場(場) (chǎng, \"field; place\") implies a designated area, making 商場(商場) (shāngchǎng) a large, permanent site where commerce is concentrated, essentially capturing the concept of a shopping mall. The image of many different businesses coming together in the same field or site is the essence of this word.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "商",
       "trad": "商",
       "pinyin": "shāng",
-      "english": "commerce; business"
+      "english": "commerce; business; trade; negotiate"
     },
     {
       "char": "场",
       "trad": "場",
       "pinyin": "chǎng",
-      "english": "open space; place; field; stage"
+      "english": "field; site; market; level"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她喜欢在商场(她喜歡在商場)，在那里逛街(在那裏逛街)。",
-      "pinyin": "Tā xǐhuān zài shāngchǎng, zài nàlǐ guàngjiē.",
-      "english": "She likes shopping at the mall, strolling around there."
+      "chinese": "这家商场(這家商場)非常大。",
+      "pinyin": "Zhè jiā shāngchǎng fēicháng dà.",
+      "english": "This shopping mall is very large."
     },
     {
-      "chinese": "我打算去商场(我打算去商場)，看看新款服装(看看新款服裝)。",
-      "pinyin": "Wǒ dǎsuàn qù shāngchǎng, kànkan xīnkuǎn fúzhuāng.",
-      "english": "I plan to go to the mall to check out the new fashion clothes."
+      "chinese": "我们在商场(我們在商場)买到了很多东西(買到了很多東西)。",
+      "pinyin": "Wǒmen zài shāngchǎng mǎidào le hěn duō dōngxi.",
+      "english": "We bought many things at the shopping mall."
     },
     {
-      "chinese": "周末时(周末時)，我们在商场(我們在商場)放松休闲(放鬆休閒)。",
-      "pinyin": "Zhōumò shí, wǒmen zài shāngchǎng fàngsōng xiūxián.",
-      "english": "On weekends, we relax at the shopping mall."
+      "chinese": "商场(商場)里有许多餐厅(裡有許多餐廳)。",
+      "pinyin": "Shāngchǎng li yǒu xǔduō cāntīng.",
+      "english": "There are many restaurants in the shopping mall."
     }
   ]
 }

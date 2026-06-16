@@ -5,16 +5,16 @@
   "english": "love",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "旡(旡) (phonetic) + 心(心) (semantic, 'heart') -> 夊(夊) ('foot') added for depiction of person -> corrupted to 爫冖",
-    "interpretation": "The character 愛(愛) (ài, 'love') combines the semantic component 心(心) (xīn, 'heart') with the phonetic component 旡(旡), representing feelings from the heart. The 夊(夊) ('foot') was later added, reflecting a common stylistic practice adding human elements, turning the original form into 𢙴 and evolving further into the current form.",
-    "simplification": "The traditional component 爫(爪) ('claw') with 冖(冖) ('cover') was simplified in 爱(愛) by replacing 爫冖 with 友(友) (yǒu, 'friend')."
+    "description": "旡 (phonetic) + 心 (heart) -> 㤅; 夊 (foot) added -> 𢙴; top 旡 corrupted to ⿱爫冖 -> 愛",
+    "interpretation": "The original form 㤅 combined the phonetic element 旡 with the semantic component 心 (heart), symbolizing the emotional nature of love. To depict the involvement of people, the redundant component 夊 (foot) was later added, changing the form to 𢙴. Over time, the top phonetic component 旡 was transformed into ⿱爫冖, resulting in the current character 愛, which continues to convey the concept of love from the heart, with nuances of involving or interacting with others.",
+    "simplification": "The lower component of 愛, 夊, was replaced with 友 (yǒu, \"friend\") in the simplified form 爱 to reduce strokes while retaining a conceptually related element."
   },
   "parts": [
     {
       "char": "旡",
       "trad": "旡",
       "pinyin": "jì",
-      "english": "inhale"
+      "english": "none"
     },
     {
       "char": "心",
@@ -27,24 +27,30 @@
       "trad": "夊",
       "pinyin": "suī",
       "english": "foot"
+    },
+    {
+      "char": "友",
+      "trad": "友",
+      "pinyin": "yǒu",
+      "english": "friend"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我爱我的家人(我愛我的家人)。",
-      "pinyin": "Wǒ ài wǒ de jiārén.",
-      "english": "I love my family."
+      "chinese": "她的微笑让我感到温暖和爱(她的微笑讓我感到溫暖和愛)。",
+      "pinyin": "Tā de wēixiào ràng wǒ gǎndào wēnnuǎn hé ài.",
+      "english": "Her smile fills me with warmth and love."
     },
     {
-      "chinese": "爱是一种美好的情感(愛是一種美好的情感)。",
-      "pinyin": "Ài shì yī zhǒng měihǎo de qínggǎn.",
-      "english": "Love is a beautiful emotion."
+      "chinese": "父母总是无条件地爱我们(父母總是無條件地愛我們)。",
+      "pinyin": "Fùmǔ zǒng shì wú tiáojiàn dì ài wǒmen.",
+      "english": "Parents always love us unconditionally."
     },
     {
-      "chinese": "她总是用心去爱身边的人(她總是用心去愛身邊的人)。",
-      "pinyin": "Tā zǒngshì yòng xīn qù ài shēnbiān de rén.",
-      "english": "She always loves the people around her wholeheartedly."
+      "chinese": "爱是人生中最重要的情感(愛是人生中最重要的情感)。",
+      "pinyin": "Ài shì rénshēng zhōng zuì zhòngyào de qínggǎn.",
+      "english": "Love is the most important emotion in life."
     }
   ]
 }

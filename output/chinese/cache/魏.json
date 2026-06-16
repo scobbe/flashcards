@@ -1,0 +1,44 @@
+{
+  "simplified": "魏",
+  "traditional": "魏",
+  "pinyin": "wèi",
+  "english": "a Warring State; high",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 委 + phonetic 鬼 -> 魏",
+    "interpretation": "The character 魏 (wèi), referring to the historical state, combines phonetic elements 委 (wěi, 'entrust') and 鬼 (guǐ, 'ghost'), with no direct semantic contribution from either component. The usage for the state of Wei relates primarily through phonetic borrowing rather than inherent meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "委",
+      "trad": "委",
+      "pinyin": "wěi",
+      "english": "entrust"
+    },
+    {
+      "char": "鬼",
+      "trad": "鬼",
+      "pinyin": "guǐ",
+      "english": "ghost"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在战国时期(在戰國時期)，魏国是七雄之一(魏國是七雄之一)。",
+      "pinyin": "Zài Zhànguó shíqī, Wèiguó shì qīxióng zhī yī.",
+      "english": "During the Warring States period, the State of Wei was one of the Seven Heroes."
+    },
+    {
+      "chinese": "魏武王是一个有名的统治者(魏武王是一個有名的統治者)。",
+      "pinyin": "Wèi Wǔ Wáng shì yī gè yǒumíng de tǒngzhìzhě.",
+      "english": "King Wei Wu was a famous ruler."
+    },
+    {
+      "chinese": "这个山峰耸立在云端之上，显得格外雄伟(這個山峰聳立在雲端之上，顯得格外雄偉)。",
+      "pinyin": "Zhège shānfēng sǒnglì zài yúnduān zhī shàng, xiǎnde géwài xióngwěi.",
+      "english": "This mountain peak stands tall above the clouds, appearing exceptionally majestic."
+    }
+  ]
+}

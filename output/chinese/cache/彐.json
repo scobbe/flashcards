@@ -5,27 +5,11 @@
   "english": "snout",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hand with fingers stylized as three lines, holding something",
-    "interpretation": "The character 彐(jì, 'snout') is a pictogram that resembles a hand grasping an object, with its fingers represented by three lines. While originally a variant of 彑, depicting a pig's snout, in many characters, it’s simplified to symbolize a hand, often portrayed with three fingers. This visual stylization captures the essence of the hand in a simplified form, commonly seen in various characters.",
+    "description": "Depicts a pig's snout",
+    "interpretation": "The character 彐(jì, \"snout\") originally depicted the shape of a pig's snout, reconstructed with three fingers or lines to symbolize the shape and texture of a snout. In different contexts, this shape was used for its resemblance to a hand holding objects or other symbolic roles in characters like 尹(yǐn, \"administer\") or 雪(xuě, \"snow\"). The distinctiveness of this component allowed for different interpretations across various character compositions.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "大猪的彐显得特别精致(大豬的彐顯得特別精緻)。",
-      "pinyin": "Dà zhū de jì xiǎn de tèbié jīngzhì.",
-      "english": "The pig's snout appears particularly exquisite."
-    },
-    {
-      "chinese": "我在书中见到彐(我在書中見到彐)，了解到它代表了动物的鼻部(了解到它代表了動物的鼻部)。",
-      "pinyin": "Wǒ zài shū zhōng jiàn dào jì, liǎo jiě dào tā dài biǎo le dòngwù de bí bù.",
-      "english": "I encountered the snout in the book and learned that it represents an animal's nose."
-    },
-    {
-      "chinese": "古代铭文中彐的形象生动(古代銘文中彐的形象生動)。",
-      "pinyin": "Gǔdài míngwén zhōng jì de xíngxiàng shēngdòng.",
-      "english": "In ancient inscriptions, the depiction of the snout is vivid."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

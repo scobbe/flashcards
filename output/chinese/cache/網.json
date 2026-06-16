@@ -5,16 +5,16 @@
   "english": "net",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "糸(糸) (mì, \"rope\") + 罔(罔) (wǎng, \"net\") = rope and phonetic value -> net",
-    "interpretation": "The character 網(wǎng) combines 糸(糸) (mì, \"rope\"), indicating its use in weaving or creating nets, with 罔(罔) (wǎng, \"net\"), which provides the sound. This combination effectively conveys the idea of a network or a mesh made from woven ropes.",
-    "simplification": "The character was simplified to 网 by using its ancient form, which uses fewer strokes."
+    "description": "semantic 糸(糸) (mì, \"silk; thread\") + phonetic 罔(罔) (wǎng) -> net",
+    "interpretation": "The character 網(wǎng, \"net\") combines the semantic component 糸(糸) (mì, \"silk; thread\"), which suggests the material or structure of a net, with the phonetic component 罔(罔) (wǎng), which provides the sound. This combination depicts a net woven from thread, emphasizing its woven and entangling nature.",
+    "simplification": "The simplified form 网 replaces 糸(糸) with a simplified representation of the net structure, reducing the complexity of the character while maintaining the essential depiction of a net."
   },
   "parts": [
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "mì",
-      "english": "rope"
+      "english": "silk; thread"
     },
     {
       "char": "罔",
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我用网捕捉鲤鱼(我用網捕捉鯉魚)。",
-      "pinyin": "Wǒ yòng wǎng bǔzhuō lǐyú.",
-      "english": "I use a net to catch carp."
+      "chinese": "我们用网捕捉蝴蝶(我們用網捕捉蝴蝶)。",
+      "pinyin": "Wǒmen yòng wǎng bǔzhuō húdié.",
+      "english": "We use a net to catch butterflies."
     },
     {
-      "chinese": "他在海边撒下了网(他在海邊撒下了網)，希望能捕到大鱼(希望能捕到大魚)。",
-      "pinyin": "Tā zài hǎibiān sā xià le wǎng, xīwàng néng bǔ dào dàyú.",
-      "english": "He cast a net by the seaside, hoping to catch a big fish."
+      "chinese": "渔夫撒网捕鱼(漁夫撒網捕魚)。",
+      "pinyin": "Yúfū sā wǎng bǔ yú.",
+      "english": "The fisherman casts a net to catch fish."
+    },
+    {
+      "chinese": "大网在海中展开(大網在海中展開)，捕捉了许多鱼(捕捉了許多魚)。",
+      "pinyin": "Dà wǎng zài hǎi zhōng zhǎnkāi, bǔzhuōle xǔduō yú.",
+      "english": "The large net spread in the sea, capturing many fish."
     }
   ]
 }

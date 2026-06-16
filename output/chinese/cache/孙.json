@@ -5,9 +5,9 @@
   "english": "grandson; descendant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "子(子) (zǐ, \"son\") + 系(系) (xì, \"continue\") = continuation of a lineage -> grandson",
-    "interpretation": "The character 孫(孫) (sūn, \"grandson\") represents a continuation of the family line, emphasizing the passage of descent from son to grandson.",
-    "simplification": "孫(孫) was simplified to 孙(孫) by replacing 系(系) with 小(小) (xiǎo, \"small\") while keeping 子(子) intact."
+    "description": "子(子) (zǐ, \"son\") + 系(系) (xì, \"continue\") = generation continuing through sons -> descendant",
+    "interpretation": "In 孫(孫), 子(子) (zǐ, \"son\") represents the notion of offspring, while 系(系) (xì, \"continue\") signifies the continuation of a family line. Together, they combine to depict a descendant or grandson, emphasizing the idea of lineage and continuity through male progeny.",
+    "simplification": "系(系) (xì, \"continue\") was replaced by 小(小) (xiǎo, \"small\") to create 孙(孙), keeping the 子(子) (zǐ, \"son\") component intact."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是我的孙子(他是我的孫子)。",
-      "pinyin": "Tā shì wǒ de sūnzi.",
-      "english": "He is my grandson."
+      "chinese": "他是我的小孙子(他是我的小孫子)。",
+      "pinyin": "Tā shì wǒ de xiǎo sūnzi.",
+      "english": "He is my little grandson."
     },
     {
-      "chinese": "家族中有很多孙(家族中有很多孫)，传承着祖先的智慧(傳承著祖先的智慧)。",
-      "pinyin": "Jiāzú zhōng yǒu hěn duō sūn, chuánchéng zhe zǔxiān de zhìhuì.",
-      "english": "There are many descendants in the family, inheriting the wisdom of their ancestors."
+      "chinese": "这家族的孙辈都住在城里(這家族的孫輩都住在城裡)。",
+      "pinyin": "Zhè jiāzú de sūn bèi dōu zhù zài chéng lǐ.",
+      "english": "The descendants of this family all live in the city."
     },
     {
-      "chinese": "那位老人骄傲地说(那位老人驕傲地說)，他的孙将来会成大器(他的孫將來會成大器)。",
-      "pinyin": "Nà wèi lǎorén jiāo'ào de shuō, tā de sūn jiānglái huì chéng dàqì.",
-      "english": "The old man said proudly that his grandson will achieve great success in the future."
+      "chinese": "爷爷最喜欢和孙女玩耍(爺爺最喜歡和孫女玩耍)。",
+      "pinyin": "Yéye zuì xǐhuān hé sūnnǚ wánshuǎ.",
+      "english": "Grandpa loves to play with his granddaughter the most."
     }
   ]
 }

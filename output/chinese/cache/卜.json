@@ -5,27 +5,27 @@
   "english": "divination",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a divination crack in a tortoise shell or bone",
-    "interpretation": "The character 卜(bǔ, \"divination\") represents the practice of divination used in ancient China, often involving the interpretation of cracks in tortoise shells or bones.",
+    "description": "Depicts a crack in an oracle bone",
+    "interpretation": "The character 卜 (bǔ, 'divination') directly depicts a crack being used in oracle bones to divine future events. This literal representation naturally extends to the concept of divination.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "占卜是一种神秘的艺术(占卜是一種神秘的藝術)。",
-      "pinyin": "Zhānbǔ shì yī zhǒng shénmì de yìshù.",
-      "english": "Divination is a mysterious art."
+      "chinese": "在古代(在古代)，人们常用龟甲进行卜卦(人們常用龜甲進行卜卦)。",
+      "pinyin": "Zài gǔdài, rénmen cháng yòng guījiǎ jìnxíng bǔguà.",
+      "english": "In ancient times, people often used turtle shells for divination."
     },
     {
-      "chinese": "他通过卜算未来(他通過卜算未來)，探寻隐秘的命运(探尋隱秘的命運)。",
-      "pinyin": "Tā tōngguò bǔsuàn wèilái, tànxún yǐnmì de mìngyùn.",
-      "english": "He uses divination to predict the future, seeking out his hidden destiny."
+      "chinese": "他对未来充满疑虑(他對未來充滿疑慮)，所以决定找人卜卦(所以決定找人卜卦)。",
+      "pinyin": "Tā duì wèilái chōngmǎn yílǜ, suǒyǐ juédìng zhǎo rén bǔguà.",
+      "english": "He was full of doubts about the future, so he decided to find someone for divination."
     },
     {
-      "chinese": "古代人常以卜问吉凶(古代人常以卜問吉凶)，以求平安和顺(以求平安和順)。",
-      "pinyin": "Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.",
-      "english": "Ancient people often practiced divination to determine fortune, in order to pursue peace and order."
+      "chinese": "在占星术中(在占星術中)，卜法常被用来预测未来(卜法常被用來預測未來)。",
+      "pinyin": "Zài zhānxīngshù zhōng, bǔfǎ cháng bèi yòng lái yùcè wèilái.",
+      "english": "In astrology, divination methods are often used to predict the future."
     }
   ]
 }

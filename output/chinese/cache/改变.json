@@ -5,8 +5,8 @@
   "english": "change",
   "etymology": {
     "type": "compound word",
-    "description": "改(改) (gǎi, \"to change; to alter; to correct\") + 變(變) (biàn, \"to transform; to alter; change in form or nature\") = the entire process or act of changing in form, nature, or condition.",
-    "interpretation": "改(改) (gǎi, \"to change\") means to make adjustments or corrections, focusing on the process of altering details; 變(變) (biàn, \"to transform\") focuses on transformation, referring both to the result and being subjected to change in form or essence. Together, 改變(改变) (gǎibiàn) combines these nuances to cover both the act of making changes and the broader process or result of change.",
+    "description": "改(改) (gǎi, \"change; alter\") suggests making a correction or adjustment, while 變(變) (biàn, \"change; transform\") implies a transformation or shift in nature or form. Together, they convey the sense of 'change' as an adjustment leading to a transformation.",
+    "interpretation": "改(改) (gǎi, \"change; alter\") signifies a correction or modification, where something is adjusted to a desired state. 變(變) (biàn, \"change; transform\") builds on this by indicating a broader or more intrinsic transformation. This assemblage denotes a comprehensive change, starting from modification and culminating in transformation.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "改",
       "trad": "改",
       "pinyin": "gǎi",
-      "english": "to change; to alter; to correct"
+      "english": "change; alter; correct"
     },
     {
       "char": "变",
       "trad": "變",
       "pinyin": "biàn",
-      "english": "to transform; to alter; change in form or nature"
+      "english": "change; transform; alter"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们可以改变计划(我們可以改變計劃)。",
-      "pinyin": "Wǒmen kěyǐ gǎibiàn jìhuà.",
-      "english": "We can change the plan."
+      "chinese": "生活在不断改变(生活在不斷改變)。",
+      "pinyin": "Shēnghuó zài búduàn gǎibiàn.",
+      "english": "Life is continuously changing."
     },
     {
-      "chinese": "他的态度明显改变(他的態度明顯改變)。",
-      "pinyin": "Tā de tàidù míngxiǎn gǎibiàn.",
-      "english": "His attitude has changed noticeably."
+      "chinese": "他决定改变生活方式(他決定改變生活方式)。",
+      "pinyin": "Tā juédìng gǎibiàn shēnghuó fāngshì.",
+      "english": "He decided to change his lifestyle."
     },
     {
-      "chinese": "为了适应新环境(為了適應新環境)，我们需要改变自己(我們需要改變自己)。",
-      "pinyin": "Wèile shìyìng xīn huánjìng, wǒmen xūyào gǎibiàn zìjǐ.",
-      "english": "To adapt to the new environment, we need to change ourselves."
+      "chinese": "环境的改变(環境的改變)会对动物产生影响(會對動物產生影響)。",
+      "pinyin": "Huánjìng de gǎibiàn huì duì dòngwù chǎnshēng yǐngxiǎng.",
+      "english": "The change in the environment will affect animals."
     }
   ]
 }

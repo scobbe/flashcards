@@ -5,8 +5,8 @@
   "english": "rock climbing",
   "etymology": {
     "type": "compound word",
-    "description": "攀(攀) (pān, \"climb\"), 岩(岩) (yán, \"rock; cliff\")",
-    "interpretation": "The word 攀岩 (pānyán) translates to \"rock climbing,\" referring specifically to the activity of climbing on natural rock formations or artificial rock walls. 攀(攀) (pān, \"climb\") represents the act of ascending, while 岩(岩) (yán, \"rock; cliff\") specifies the natural surface being climbed. This combination effectively conveys the idea of physically climbing rock surfaces, either as a sport or recreational activity.",
+    "description": "攀(攀) (pān, \"climb\") + 岩(岩) (yán, \"rock\") combine to convey the concept of climbing rocks, which directly describes the activity of rock climbing.",
+    "interpretation": "攀(攀) (pān, \"climb\") denotes the action of climbing or ascending, often requiring effort and agility. 岩(岩) (yán, \"rock\") specifically refers to large rocks or cliffs. Together, they vividly illustrate the activity of scaling rock faces, which captures the essence of rock climbing.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他喜欢攀岩(他喜歡攀岩)。",
-      "pinyin": "Tā xǐhuān pānyán.",
-      "english": "He likes rock climbing."
+      "chinese": "攀岩(攀岩)是一项很具挑战性的运动(是一項很具挑戰性的運動)。",
+      "pinyin": "Pānyán shì yī xiàng hěn jù tiǎozhàn xìng de yùndòng.",
+      "english": "Rock climbing is a very challenging sport."
     },
     {
-      "chinese": "周末他去海边攀岩(週末他去海邊攀岩)，体验自然乐趣(體驗自然樂趣)。",
-      "pinyin": "Zhōumò tā qù hǎibiān pānyán, tǐyàn zìrán lèqù.",
-      "english": "On the weekend, he goes rock climbing by the seaside, experiencing the joy of nature."
+      "chinese": "昨天(昨天)，我和朋友去攀岩(我和朋友去攀岩)。",
+      "pinyin": "Zuótiān, wǒ hé péngyǒu qù pānyán.",
+      "english": "Yesterday, my friend and I went rock climbing."
     },
     {
-      "chinese": "小明通过攀岩(小明通過攀岩)，不断挑战自己(不斷挑戰自己)。",
-      "pinyin": "Xiǎomíng tōngguò pānyán, bùduàn tiǎozhàn zìjǐ.",
-      "english": "Xiaoming continuously challenges himself through rock climbing."
+      "chinese": "他喜欢在假期中(他喜歡在假期中)，到不同的地方去攀岩(到不同的地方去攀岩)。",
+      "pinyin": "Tā xǐhuān zài jiàqī zhōng, dào bùtóng de dìfāng qù pānyán.",
+      "english": "He likes to go rock climbing in different places during vacations."
     }
   ]
 }

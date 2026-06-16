@@ -5,8 +5,8 @@
   "english": "startup",
   "etymology": {
     "type": "compound word",
-    "description": "创(創) (chuàng, \"create\") + 业(業) (yè, \"business\") + 公司(公司) (gōngsī, \"company\")",
-    "interpretation": "A 创业公司(創業公司) (chuàngyè gōngsī, \"startup\") refers to a company that is in the process of being created and entering the business world. The combination emphasizes the creation (创/創) of a business (业/業) entity, which is encapsulated as a company (公司) designed to bring new ideas or products to market.",
+    "description": "創業(創業) combines 創(創) (chuàng, 'create') and 業(業) (yè, 'business'), literally forming 'create business'. 公司(公司) combines 公(公) (gōng, 'public; common') and 司(司) (sī, 'company; manage'), meaning 'corporation' or 'company'. Together, it refers to a 'startup', emphasizing the act of creating a new business.",
+    "interpretation": "創(創) (chuàng, 'create') suggests initiating something new, while 業(業) (yè, 'business') reflects enterprise or undertaking, directly leading to 'entrepreneurship'. The marriage of these concepts underscores the action of founding a business. 公(公) (gōng, 'public; common') with 司(司) (sī, 'company; manage') indicates a structured entity concerned with economic activities, thus forming a 'company'. The complete phrase represents a 'startup', a company at its inception stage focusing on innovative and new ventures.",
     "simplification": ""
   },
   "parts": [
@@ -14,37 +14,43 @@
       "char": "创",
       "trad": "創",
       "pinyin": "chuàng",
-      "english": "create; initiate; start"
+      "english": "create"
     },
     {
       "char": "业",
       "trad": "業",
       "pinyin": "yè",
-      "english": "business; industry; occupation"
+      "english": "business; industry; work; enterprise"
     },
     {
-      "char": "公司",
-      "trad": "公司",
-      "pinyin": "gōngsī",
-      "english": "company; corporation"
+      "char": "公",
+      "trad": "公",
+      "pinyin": "gōng",
+      "english": "public; common; official"
+    },
+    {
+      "char": "司",
+      "trad": "司",
+      "pinyin": "sī",
+      "english": "company; manage; control; conduct"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在创业公司工作(我在創業公司工作)。",
-      "pinyin": "Wǒ zài chuàngyè gōngsī gōngzuò.",
-      "english": "I work at a startup."
+      "chinese": "这家创业公司专注于人工智能领域(這家創業公司專注於人工智能領域)。",
+      "pinyin": "Zhè jiā chuàngyè gōngsī zhuānzhù yú réngōng zhìnéng lǐngyù.",
+      "english": "This startup focuses on the field of artificial intelligence."
     },
     {
-      "chinese": "创业公司充满创意(創業公司充滿創意)，吸引了许多年轻人(吸引了許多年輕人)。",
-      "pinyin": "Chuàngyè gōngsī chōngmǎn chuàngyì, xīyǐnle xǔduō niánqīngrén.",
-      "english": "Startups are full of creativity and attract many young people."
+      "chinese": "他决定加入一个创业公司(他決定加入一個創業公司)，以积累更多经验(以積累更多經驗)。",
+      "pinyin": "Tā juédìng jiārù yīgè chuàngyè gōngsī, yǐ jīlěi gèng duō jīngyàn.",
+      "english": "He decided to join a startup to gain more experience."
     },
     {
-      "chinese": "创业公司往往冒险尝试新方法(創業公司往往冒險嘗試新方法)，市场竞争激烈(市場競爭激烈)。",
-      "pinyin": "Chuàngyè gōngsī wǎngwǎng màoxiǎn chángshì xīn fāngfǎ, shìchǎng jìngzhēng jīliè.",
-      "english": "Startups often take risks to try new methods, and market competition is fierce."
+      "chinese": "许多创业公司都在快速增长(許多創業公司都在快速增長)。",
+      "pinyin": "Xǔduō chuàngyè gōngsī dōu zài kuàisù zēngzhǎng.",
+      "english": "Many startups are experiencing rapid growth."
     }
   ]
 }

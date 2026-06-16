@@ -5,22 +5,27 @@
   "english": "\"phonetic component\"",
   "etymology": {
     "type": "pictogram",
-    "description": "Originally depicts a pair of knives used in a ritual sacrifice, showing an animal or human cut in half for Shang dynasty sacrifices.",
-    "interpretation": "卯(mǎo) was originally a term associated with sacrificial rituals involving cutting, reflecting cultural practices of the Shang dynasty. Over time, its meaning has shifted away from these origins.",
+    "description": "Depicts a pair of knives used for butchering -> associated with sacrifice -> lost original violent meaning after cultural shifts",
+    "interpretation": "Initially depicted the physical act of using knives for ritual sacrifices, a practice associated with the Shang dynasty. As cultural practices changed and this ritual fell out of favor, the original sense of the character became obscure. The folk etymology has misinterpreted it as a reversed open door or woodworking mortise, but these interpretations are not based on historical evidence.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个字的卯部分揭示了它的读音(這個字的卯部分揭示了它的讀音)，构成了汉字的声音系统(構成了漢字的聲音系統)。",
-      "pinyin": "Zhège zì de mǎo bùfen jiēshì le tā de dúyīn, gòuchéng le hànzì de shēngyīn xìtǒng.",
-      "english": "The phonetic component of this character reveals its pronunciation, forming the sound system of Chinese characters."
+      "chinese": "在地支系统中，卯是十二地支之一(在地支系統中，卯是十二地支之一)。",
+      "pinyin": "Zài dì zhī xìtǒng zhōng, mǎo shì shí'èr dì zhī zhī yī.",
+      "english": "In the Earthly Branches system, 'mǎo' is one of the twelve Earthly Branches."
     },
     {
-      "chinese": "研究卯的作用有助于理解汉字结构(研究卯的作用有助於理解漢字結構)。",
-      "pinyin": "Yánjiū mǎo de zuòyòng yǒuzhù yú lǐjiě hànzì jiégòu.",
-      "english": "Studying the role of the phonetic component helps to understand the structure of Chinese characters."
+      "chinese": "兔年对应的地支是卯(兔年對應的地支是卯)。",
+      "pinyin": "Tù nián duìyìng de dì zhī shì mǎo.",
+      "english": "The Earthly Branch corresponding to the Year of the Rabbit is 'mǎo'."
+    },
+    {
+      "chinese": "很多汉字都有卯这个声旁(很多漢字都有卯這個聲旁)。",
+      "pinyin": "Hěn duō hànzì dōu yǒu mǎo zhège shēngpáng.",
+      "english": "Many Chinese characters have 'mǎo' as a phonetic component."
     }
   ]
 }

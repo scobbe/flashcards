@@ -2,25 +2,30 @@
   "simplified": "弗",
   "traditional": "弗",
   "pinyin": "fú",
-  "english": "phonetic",
+  "english": "not, no",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a rope wrapped around two pieces of wood -> later used phonetically for 'no'",
-    "interpretation": "The original pictographic representation of tied wood reflects its ancient usage. Over time, the symbol was repurposed for its phonetic value to mean 'no'.",
+    "description": "Depicts rope wrapped around two pieces of wood to keep them straight -> later borrowed phonetically to mean 'no'",
+    "interpretation": "The character 弗 originally depicted a rope wrapped around two sticks, an image that suggests containment or prevention. This visual was phonetically borrowed to express 'no', leveraging the form for its sound rather than its visual logic.",
     "simplification": ""
   },
   "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古代文献中常用‘弗’表示否定(古代文獻中常用‘弗’表示否定)。",
-      "pinyin": "Gǔdài wénxiàn zhōng cháng yòng 'Fú' biǎoshì fǒudìng.",
-      "english": "In ancient texts, '弗' is commonly used to indicate negation."
+      "chinese": "他对此毫无兴趣(他對此毫無興趣)。",
+      "pinyin": "Tā duì cǐ háo wú xìngqù.",
+      "english": "He has no interest in this."
     },
     {
-      "chinese": "在《史记》中(在《史記》中)，司马迁巧妙运用‘弗’来突显人物性格(司馬遷巧妙運用‘弗’來突顯人物性格)。",
-      "pinyin": "Zài 'Shǐjì' zhōng, Sīmǎqiān qiǎomiào yùnyòng 'Fú' lái tūxiǎn rénwù xìnggé.",
-      "english": "In 'Records of the Grand Historian', Sima Qian skillfully uses '弗' to highlight a character's personality."
+      "chinese": "事情并非如我所愿(事情並非如我所願)。",
+      "pinyin": "Shìqíng bìng fēi rú wǒ suǒ yuàn.",
+      "english": "Things are not as I wished."
+    },
+    {
+      "chinese": "这并不简单(這並不簡單)。",
+      "pinyin": "Zhè bìng bù jiǎndān.",
+      "english": "This is not simple."
     }
   ]
 }

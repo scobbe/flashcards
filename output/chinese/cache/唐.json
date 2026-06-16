@@ -5,40 +5,40 @@
   "english": "Tang dynasty",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 广(广) (guǎng, 'wide') + phonetic: 尙(尚) (shàng, 'still') = a place that is wide or grand -> refers historically to the Tang dynasty",
-    "interpretation": "The character 唐(táng) combines 广(广) (guǎng, 'wide') suggesting an expanse or grandeur with the phonetic 尙(尚) (shàng, 'still'), hinting at something esteemed or significant, fitting for the influential Tang dynasty.",
+    "description": "semantic 口(口) (kǒu, \"mouth\") + phonetic 庚(庚) -> integrative element -> final form was 唐",
+    "interpretation": "The character 唐(táng) originally referred to 'exaggerate, boast' with the mouth being the indicative semantic component 口(口) (kǒu, \"mouth\") and 庚(庚) serving as the phonetic element. The transformation of the phonetic component indicates a shift over time from its more complete original form to the current contracted version. In the historical context, this base sense was related to expressions considered grand or impressive, leading to the Tang Dynasty being associated with grandness or magnificence, such as in 唐诗 ('Tang poetry'), distinguished for its literary excellence.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "广",
-      "trad": "广",
-      "pinyin": "guǎng",
-      "english": "wide"
+      "char": "庚",
+      "trad": "庚",
+      "pinyin": "gēng",
+      "english": "standard; fifth of the ten heavenly stems"
     },
     {
-      "char": "尙",
-      "trad": "尚",
-      "pinyin": "shàng",
-      "english": "still"
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "唐朝是中国历史上繁荣的朝代(唐朝是中國歷史上繁榮的朝代)。",
-      "pinyin": "Táng cháo shì Zhōngguó lìshǐ shàng fánróng de cháodài.",
-      "english": "The Tang dynasty was a prosperous era in Chinese history."
+      "chinese": "唐朝是一個文化繁榮的時期(唐朝是一個文化繁榮的時期)。",
+      "pinyin": "Tángcháo shì yī gè wénhuà fánróng de shíqí.",
+      "english": "The Tang dynasty was a period of cultural prosperity."
     },
     {
-      "chinese": "唐代诗人创作了许多脍炙人口的诗篇(唐代詩人創作了許多脍炙人口的詩篇)。",
-      "pinyin": "Táng dài shīrén chuàngzuò le xǔduō kuàizhì rénkǒu de shīpiān.",
-      "english": "Poets of the Tang dynasty composed many poems that remain popular."
+      "chinese": "唐代詩歌極富創意(唐代詩歌極富創意)，許多詩人留下不朽之作(許多詩人留下不朽之作)。",
+      "pinyin": "Tángdài shīgē jí fù chuàngyì, xǔduō shīrén liúxià bùxiǔ zhī zuò.",
+      "english": "Poetry from the Tang dynasty was extremely creative, and many poets left behind immortal works."
     },
     {
-      "chinese": "唐朝开放交流(唐朝開放交流)，使中外文化交融(使中外文化交融)。",
-      "pinyin": "Táng cháo kāifàng jiāoliú, shǐ zhōngwài wénhuà jiāoróng.",
-      "english": "The Tang dynasty promoted open exchanges, which led to the blending of Chinese and foreign cultures."
+      "chinese": "許多留學生對唐文化感興趣(許多留學生對唐文化感興趣)，因為它影響了整個東亞地區(因為它影響了整個東亞地區)。",
+      "pinyin": "Xǔduō liúxuéshēng duì Táng wénhuà gǎn xìngqù, yīnwèi tā yǐngxiǎngle zhěng gè Dōng Yà dìqū.",
+      "english": "Many international students are interested in Tang culture because it influenced the entire East Asian region."
     }
   ]
 }

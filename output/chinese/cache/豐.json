@@ -1,0 +1,38 @@
+{
+  "simplified": "豐",
+  "traditional": "豐",
+  "pinyin": "fēng",
+  "english": "seedling",
+  "etymology": {
+    "type": "ideogram",
+    "description": "𠁳 (pot full of plants, abundance) + 豆 (pot) -> abundance",
+    "interpretation": "The character 豐(fēng, 'abundance') visually combines 𠁳, which depicts a pot overflowing with plants, and 豆(dòu, 'pot'), illustrating a vessel full of plenty. This reflects the concept of an overflowing abundance or wealth of resources, emphasizing fullness and prosperity, not specifically related to seedlings.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "豆",
+      "trad": "豆",
+      "pinyin": "dòu",
+      "english": "pot"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "田野里长满了绿油油的丰(豐)。",
+      "pinyin": "Tiányě lǐ zhǎngmǎnle lǜyóuyóu de fēng.",
+      "english": "The fields are full of lush green seedlings."
+    },
+    {
+      "chinese": "这些丰(這些豐)都在农民的精心呵护下成长(成長)。",
+      "pinyin": "Zhèxiē fēng dōu zài nóngmín de jīngxīn hēhù xià chéngzhǎng.",
+      "english": "These seedlings thrive under the careful care of the farmers."
+    },
+    {
+      "chinese": "春雨过后(春雨過後)，丰(豐)迅速地抽出了嫩芽(嫩芽)。",
+      "pinyin": "Chūnyǔ guòhòu, fēng xùnsù de chōuchūle nènyá.",
+      "english": "After the spring rain, the seedlings quickly sprouted tender shoots."
+    }
+  ]
+}

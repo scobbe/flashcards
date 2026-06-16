@@ -5,8 +5,8 @@
   "english": "company; corporation",
   "etymology": {
     "type": "compound word",
-    "description": "公(公) (gōng, \"public\") + 司(司) (sī, \"department; control\") = organization for public service or business -> company",
-    "interpretation": "A 公司(公司) (gōngsī, \"company\") is an entity that serves the public by organizing and conducting business or services. Historically, 司(司) (sī, \"department; control\") indicates a division in charge of specific tasks, implying administration or management.",
+    "description": "公(公) (gōng, \"public; common\") combines with 司(司) (sī, \"control; manage\") to form the word 公司. A 公司 is an entity that manages (司) matters for the public (公) or in a public capacity, which aligns with its meaning as a \"company\" or \"corporation\".",
+    "interpretation": "公(公) (gōng, \"public; common\") refers to activities or resources shared among individuals or within a community. 司(司) (sī, \"control; manage\") implies oversight or administration. Combined, these suggest an organization that oversees or manages affairs for the public, leading to the sense of a \"company\" or \"corporation.\" The idea is that a company functions as a public entity, handling business in a formalized manner for the benefit and use of the community.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "公",
       "trad": "公",
       "pinyin": "gōng",
-      "english": "public; common; impartial"
+      "english": "public; common"
     },
     {
       "char": "司",
       "trad": "司",
       "pinyin": "sī",
-      "english": "department; control; manage"
+      "english": "control; manage"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我在公司工作(我在公司工作)。",
-      "pinyin": "Wǒ zài gōngsī gōngzuò.",
-      "english": "I work at a company."
+      "chinese": "我们在这家公司工作(我們在這家公司工作)。",
+      "pinyin": "Wǒmen zài zhè jiā gōngsī gōngzuò.",
+      "english": "We work at this company."
     },
     {
-      "chinese": "公司今年业绩很好(公司今年業績很好)，员工们士气高昂(員工們士氣高昂)。",
-      "pinyin": "Gōngsī jīnnián yèjì hěn hǎo, yuángōng men shìqì gāoáng.",
-      "english": "The company performed very well this year, and its employees are highly motivated."
+      "chinese": "公司在市中心(公司在市中心)，交通很方便(交通很方便)。",
+      "pinyin": "Gōngsī zài shì zhōngxīn, jiāotōng hěn fāngbiàn.",
+      "english": "The company is located downtown, making transportation very convenient."
+    },
+    {
+      "chinese": "这家公司在市场上很有竞争力(這家公司在市場上很有競爭力)。",
+      "pinyin": "Zhè jiā gōngsī zài shìchǎng shàng hěn yǒu jìngzhēng lì.",
+      "english": "This company is very competitive in the market."
     }
   ]
 }

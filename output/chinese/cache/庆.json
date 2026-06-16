@@ -4,41 +4,41 @@
   "pinyin": "qìng",
   "english": "celebrate",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 广(广) (guǎng, 'shelter') + phonetic: 大(大) (dà, 'big') = grand festivities under shelter -> celebrate",
-    "interpretation": "The character 庆(慶) (qìng, 'celebrate') combines a sense of grandness and a place of gathering, suggesting a communal celebration, often under a roof.",
-    "simplification": "广(广) (guǎng, 'shelter') was retained, while a simplified component 大(大) (dà, 'big') maintained the phonetic element, focusing on the sense of a grand event."
+    "type": "ideogrammic compound",
+    "description": "廌 (antelope) + 心 (heart) = auspiciousness -> celebration",
+    "interpretation": "The character 慶 (qìng, 'celebrate') originally combines 廌 (zhì, 'antelope') and 心 (xīn, 'heart'). The antelope, due to its beauty, symbolizes something worth celebrating or a blessing when obtained, while the heart represents emotions like goodness. This combination conveys the idea of celebration through the joy and positivity associated with possessing something precious.",
+    "simplification": "The traditional character 慶 was simplified to 庆 by eliminating the bottom right component and replacing it with 大 (dà, 'big')."
   },
   "parts": [
     {
-      "char": "广",
-      "trad": "广",
-      "pinyin": "guǎng",
-      "english": "shelter"
+      "char": "廌",
+      "trad": "廌",
+      "pinyin": "zhì",
+      "english": "antelope"
     },
     {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "big"
+      "char": "心",
+      "trad": "心",
+      "pinyin": "xīn",
+      "english": "heart"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们庆祝朋友的生日(我們慶祝朋友的生日)。",
-      "pinyin": "Wǒmen qìngzhù péngyǒu de shēngrì.",
-      "english": "We celebrate our friend's birthday."
+      "chinese": "我们将在周末庆祝你的生日(我們將在週末慶祝你的生日)。",
+      "pinyin": "Wǒmen jiāng zài zhōumò qìngzhù nǐ de shēngrì.",
+      "english": "We will celebrate your birthday on the weekend."
     },
     {
-      "chinese": "每逢佳节时(每逢佳節時)，家家户户共庆团圆(家家戶戶共慶團圓)。",
-      "pinyin": "Měi féng jiājié shí, jiājiā hùhù gòng qìng tuányuán.",
-      "english": "Every festive season, every household celebrates reunion."
+      "chinese": "每年国庆节我们都会放假(每年國慶節我們都會放假)。",
+      "pinyin": "Měinián guóqìng jié wǒmen dōu huì fàngjià.",
+      "english": "We have a holiday every National Day."
     },
     {
-      "chinese": "春风拂面时(春風拂面時)，大地复苏促人庆新生(大地復蘇促人慶新生)。",
-      "pinyin": "Chūnfēng fú miàn shí, dàdì fùsū cù rén qìng xīnshēng.",
-      "english": "When the spring breeze caresses the face, the revitalized earth prompts people to celebrate new life."
+      "chinese": "他们为新年的到来举办了盛大的庆典(他們為新年的到來舉辦了盛大的慶典)。",
+      "pinyin": "Tāmen wèi xīnnián de dàolái jǔbànle shèngdà de qìngdiǎn.",
+      "english": "They held a grand celebration for the arrival of the New Year."
     }
   ]
 }

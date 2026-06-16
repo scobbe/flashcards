@@ -5,9 +5,9 @@
   "english": "gift",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "食(食) (shí, \"food\") + 氣(氣) (qì, \"breath\") = depiction of presenting food -> gift",
-    "interpretation": "The character 餼(xì, \"gift\") combines 食(食) (shí, \"food\") as the semantic component, reflecting the concept of presenting food, with 氣(氣) (qì, \"breath\") serving as the phonetic component. This combination alludes to the act of giving food as a gift, symbolizing generosity and offerings.",
-    "simplification": "The traditional form 餼 was simplified to 饩 by replacing the semantic component 食(食) (shí, \"food\") with 饣, the simplified version of the radical."
+    "description": "semantic 食(食) (shí, \"food\") + phonetic 氣(氣) (qì, \"air\") -> meaning",
+    "interpretation": "The character 餼(xì, \"gift\") combines the element 食(食) (shí, \"food\"), indicating something associated with food or eating, with the phonetic 氣(氣) (qì, \"air\") to suggest the sound. Originally, it referred to offerings or food gifts given during ancestral sacrifices, highlighting the idea of a material gift.",
+    "simplification": "Simplified from 餼 to 饩 by replacing 氣(氣) (qì, \"air\") with the simplified 气(气) (qì, \"air\"), reducing the number of strokes."
   },
   "parts": [
     {
@@ -20,7 +20,7 @@
       "char": "氣",
       "trad": "氣",
       "pinyin": "qì",
-      "english": "breath"
+      "english": "air"
     }
   ],
   "in_contemporary_usage": false,

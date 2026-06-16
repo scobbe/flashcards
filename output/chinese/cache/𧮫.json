@@ -1,0 +1,22 @@
+{
+  "simplified": "𧮫",
+  "traditional": "𧮫",
+  "pinyin": "jué",
+  "english": "type of snake",
+  "etymology": {
+    "type": "pictogram",
+    "description": "⿱𠆢𠆢 + 口 (口) (kǒu, \"mouth\") -> represents the shape of a valley with an opening",
+    "interpretation": "The character was traditionally seen as a depiction of a valley, with the 口 (口) (kǒu, \"mouth\") representing an opening or entrance between two parallel lines that suggest mountain walls.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

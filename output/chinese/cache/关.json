@@ -2,12 +2,12 @@
   "simplified": "关",
   "traditional": "關",
   "pinyin": "guān",
-  "english": "",
+  "english": "close, shut",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "門(門) (mén, \"door\") + 卝(卝) (guàn, \"locked door; two wooden sticks to lock a door\") -> Phono-semantic: semantic 門(門) (mén, \"door\") + phonetic 𢇅",
-    "interpretation": "The character represents a door locked with two wooden sticks, reflecting the concept of being closed or secured. The phonetic component, originally depicted with rings resembling 幺 (yāo), contributes to the pronunciation.",
-    "simplification": "关(關): The character was simplified by removing the more complex 卝(卝) component, leaving only the 门(門) (mén, \"door\") radical."
+    "description": "門 (door) + 卝 (locked door; might be phonetic) -> whole represents a door locked with two wooden sticks -> evolved to include phonetic 𢇅 with elements resembling 幺 to indicate a sound",
+    "interpretation": "The character combines 門(mén, \"door\") as a semantic component and 卝(kuàng, \"locked door\"), suggesting a mechanism of a door locked with two wooden sticks. This illustrates the concept of 'closing' or 'shutting'. Over time, the character adopted phono-semantic elements with 𢇅 to refine its sound representation.",
+    "simplification": "关(關): Simplified by removing the internal elements within the 門(mén, \"door\") component, thus retaining only the basic structure of a door."
   },
   "parts": [
     {
@@ -19,26 +19,38 @@
     {
       "char": "卝",
       "trad": "卝",
-      "pinyin": "guàn",
-      "english": "locked door; two wooden sticks to lock a door"
+      "pinyin": "kuàng",
+      "english": "locked door"
+    },
+    {
+      "char": "𢇅",
+      "trad": "𢇅",
+      "pinyin": "unknown",
+      "english": "unknown"
+    },
+    {
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "small"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请把门关上(請把門關上)。",
-      "pinyin": "Qǐng bǎ mén guān shàng.",
-      "english": "Please close the door."
+      "chinese": "请把窗户关上(請把窗戶關上)。",
+      "pinyin": "Qǐng bǎ chuānghù guān shàng.",
+      "english": "Please close the window."
     },
     {
-      "chinese": "我关心你的健康(我關心你的健康)。",
-      "pinyin": "Wǒ guānxīn nǐ de jiànkāng.",
-      "english": "I care about your health."
+      "chinese": "停电时我们用蜡烛照明(停電時我們用蠟燭照明)，所以要尽量少开关电灯(所以要盡量少開關電燈)。",
+      "pinyin": "Tíngdiàn shí wǒmen yòng làzhú zhàomíng, suǒyǐ yào jǐnliàng shǎo kāi guān diàndēng.",
+      "english": "During the power outage, we used candles for lighting, so we tried to switch the lights on and off less frequently."
     },
     {
-      "chinese": "这件事情与你无关(這件事情與你無關)。",
-      "pinyin": "Zhè jiàn shìqíng yǔ nǐ wúguān.",
-      "english": "This matter has nothing to do with you."
+      "chinese": "他关心朋友的健康(他關心朋友的健康)。",
+      "pinyin": "Tā guānxīn péngyǒu de jiànkāng.",
+      "english": "He cares about his friend's health."
     }
   ]
 }

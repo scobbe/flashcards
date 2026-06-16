@@ -5,8 +5,8 @@
   "english": "intention of",
   "etymology": {
     "type": "compound word",
-    "description": "之(之) (zhī, \"possessive particle; of\") + 意(意) (yì, \"intention; meaning\") = the intention of",
-    "interpretation": "The word 之意(之意) (zhī yì, \"intention of\") combines the possessive particle 之(之) (zhī, \"of\") with 意(意) (yì, \"intention\") to indicate possession or belonging. This is often used in classical texts to denote the intention or meaning inherent in a particular context, emphasizing the subject's intention.",
+    "description": "之(之) (zhī, \"of\") is a classical possessive particle often used in literary Chinese to indicate possession or association, acting like the English word 'of'. 意(意) (yì, \"intention; meaning\") represents the concept of intent or meaning.",
+    "interpretation": "之(之) (zhī, \"of\") connects a modifier to a core noun, in this case linking to 意(意) (yì, \"intention\"), which conveys the notion of a thought or plan. Together, 之意 (zhī yì) refers specifically to the intention or meaning of something, capturing the abstract notion that lies behind words or actions.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "之",
       "trad": "之",
       "pinyin": "zhī",
-      "english": "possessive particle; of"
+      "english": "of; it; go to"
     },
     {
       "char": "意",
       "trad": "意",
       "pinyin": "yì",
-      "english": "intention; meaning; idea; thought"
+      "english": "intention; meaning; thought; idea"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我读了那本书(我讀了那本書)，体会到了作者之意(體會到了作者之意)。",
-      "pinyin": "Wǒ dú le nà běn shū, tǐhuì dào le zuòzhě zhī yì.",
-      "english": "I read that book and grasped the author's intention."
+      "chinese": "他的话中有讽刺之意(他的話中有諷刺之意)。",
+      "pinyin": "Tā de huà zhōng yǒu fěngcì zhī yì.",
+      "english": "His words contain an intention of sarcasm."
     },
     {
-      "chinese": "他的评论言简意赅(他的評論言簡意賅)，透露出深刻之意(透露出深刻之意)。",
-      "pinyin": "Tā de pínglùn yánjiǎn yìgāi, tòulù chū shēnkè zhī yì.",
-      "english": "His commentary was concise and to the point, revealing a profound intention."
+      "chinese": "老师的话里隐藏着鼓励之意(老師的話裡隱藏著鼓勵之意)。",
+      "pinyin": "Lǎoshī de huà lǐ yǐncángzhe gǔlì zhī yì.",
+      "english": "The teacher's words conceal an intention of encouragement."
+    },
+    {
+      "chinese": "他的礼物表达了感谢之意(他的禮物表達了感謝之意)。",
+      "pinyin": "Tā de lǐwù biǎodále gǎnxiè zhī yì.",
+      "english": "His gift expressed an intention of gratitude."
     }
   ]
 }

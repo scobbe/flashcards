@@ -5,8 +5,8 @@
   "english": "dangerous",
   "etymology": {
     "type": "compound word",
-    "description": "危(危) (wēi, \"dangerous\") + 險(險) (xiǎn, \"danger\") = a state of danger or risk",
-    "interpretation": "危險(危險) (wēixiǎn, \"dangerous\") describes a situation that involves a high degree of risk or the potential for harm. The combination of 危(危) (wēi, \"dangerous\") and 險(險) (xiǎn, \"danger\") emphasizes the seriousness and potential threat inherent in such circumstances.",
+    "description": "危(危) (wēi, \"dangerous\") + 險(險) (xiǎn, \"perilous; risk\") = the state of being prone to danger -> dangerous",
+    "interpretation": "危(危) (wēi, \"dangerous\") conveys the idea of something unstable or at risk of tipping over, as seen at a cliff's edge. This visual of instability directly leads to the sense of danger. 險(險) (xiǎn, \"perilous; risk\") suggests a path or situation fraught with risk and potential for injury, such as a treacherous mountain trail. Combined, these characters evoke a sense of exposure to significant harm or risk, hence forming the concept of something being \"dangerous.\"",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "危",
       "trad": "危",
       "pinyin": "wēi",
-      "english": "dangerous; high; steep; critical"
+      "english": "dangerous; perilous; critical"
     },
     {
       "char": "险",
       "trad": "險",
       "pinyin": "xiǎn",
-      "english": "danger; risk; hazard; peril"
+      "english": "perilous; risk; danger; hazard"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这里很危险(這裡很危險)。",
-      "pinyin": "Zhèlǐ hěn wēixiǎn.",
-      "english": "It is dangerous here."
+      "chinese": "骑车没有戴头盔很危险(騎車沒有戴頭盔很危險)。",
+      "pinyin": "Qí chē méiyǒu dài tóukuī hěn wēixiǎn.",
+      "english": "Riding a bike without a helmet is very dangerous."
     },
     {
-      "chinese": "那条路很危险(那條路很危險)，许多人避而远之(許多人避而遠之)。",
-      "pinyin": "Nà tiáo lù hěn wēixiǎn, xǔduō rén bì ér yuǎn zhī.",
-      "english": "That road is very dangerous, so many people avoid it."
+      "chinese": "这个地区晚上走路很危险(這個地區晚上走路很危險)。",
+      "pinyin": "Zhège dìqū wǎnshàng zǒulù hěn wēixiǎn.",
+      "english": "It's dangerous to walk in this area at night."
+    },
+    {
+      "chinese": "他总是做一些危险的事情(他總是做一些危險的事情)。",
+      "pinyin": "Tā zǒng shì zuò yīxiē wēixiǎn de shìqíng.",
+      "english": "He always does some dangerous things."
     }
   ]
 }

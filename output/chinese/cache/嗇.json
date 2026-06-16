@@ -5,9 +5,9 @@
   "english": "stingy",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "來(來) (lái, \"come\") + 㐭(㐭) (unknown) = accumulation and conservatism -> stingy",
-    "interpretation": "The character 嗇 (sè, \"stingy\") combines 來(來) (lái, \"come\") suggesting arriving or accumulation, with 㐭(㐭), whose meaning is largely unknown, but here hints at the concept of gathering or storing. Together, they convey the idea of conservatively holding onto resources, reflecting the notion of stinginess.",
-    "simplification": "嗇(嗇) (sè, \"stingy\") was simplified to 啬(啬), with the phonetic component 來(來) replaced by a simpler character for consolidation and ease of writing."
+    "description": "來(來) (lái, \"come\") + 㐭 (wooden tablet) = controlling flow/resources -> stingy",
+    "interpretation": "The character 嗇(sè, \"stingy\") combines 來(來) (lái, \"come\") with 㐭 (a wooden tablet) to depict the act of controlling or managing incoming resources very tightly. The imagery of managing resources by controlling their movement relates to the cautious and controlled use associated with stinginess.",
+    "simplification": "嗇(嗇) was simplified to 啬(啬) through a reduction in components while keeping the essential understanding of managing resources tight, by adopting a simpler structure that still conveys tight control."
   },
   "parts": [
     {
@@ -19,8 +19,8 @@
     {
       "char": "㐭",
       "trad": "㐭",
-      "pinyin": "unknown",
-      "english": "unknown"
+      "pinyin": "n/a",
+      "english": "wooden tablet"
     }
   ],
   "in_contemporary_usage": false,

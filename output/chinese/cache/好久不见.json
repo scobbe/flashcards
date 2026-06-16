@@ -5,8 +5,8 @@
   "english": "long time no see",
   "etymology": {
     "type": "compound word",
-    "description": "好(好) (hǎo, \"very\") + 久(久) (jiǔ, \"long time\") + 不(不) (bù, \"not\") + 见(見) (jiàn, \"see\"). This phrase is used when meeting someone after not having seen them for a while.",
-    "interpretation": "好久不见(好久不見) (hǎojiǔ bújiàn, \"long time no see\") is a greeting used when you meet someone again after a long period has passed. It conveys the idea of being pleased to see each other after a long absence, reflecting friendliness and warmth.",
+    "description": "好(好) (hǎo, \"good\") + 久(久) (jiǔ, \"long time\") + 不(不) (bù, \"not\") + 见(見) (jiàn, \"see\") combine to create the phrase meaning \"long time no see.\"",
+    "interpretation": "The phrase literally translates to 'good long time not see.' 好(好) (hǎo, \"good\") here serves as an intensifier, emphasizing 久(久) (jiǔ, \"long time\"). Together, they set up the context for time passing. Combining with 不(不) (bù, \"not\") + 见(見) (jiàn, \"see\"), the phrase directly conveys the idea of not seeing someone for a significant duration, epitomizing a common greeting after an extended separation.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "好",
       "trad": "好",
       "pinyin": "hǎo",
-      "english": "very; good"
+      "english": "good"
     },
     {
       "char": "久",
@@ -26,31 +26,31 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; no"
+      "english": "not"
     },
     {
       "char": "见",
       "trad": "見",
       "pinyin": "jiàn",
-      "english": "see; meet"
+      "english": "see"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "你今天来了(你今天來了)，好久不见(好久不見)。",
-      "pinyin": "Nǐ jīntiān láile, hǎojiǔ bújiàn.",
-      "english": "You have come today, long time no see."
+      "chinese": "好久不见(好久不見)，你最近怎么样(你最近怎麼樣)？",
+      "pinyin": "Hǎojiǔ bújiàn, nǐ zuìjìn zěnmeyàng?",
+      "english": "Long time no see, how have you been recently?"
     },
     {
-      "chinese": "我们好久不见(我們好久不見)。",
-      "pinyin": "Wǒmen hǎojiǔ bújiàn.",
-      "english": "Long time no see, we haven't met for ages."
+      "chinese": "我们在街上偶遇了(我們在街上偶遇了)，真是好久不见(真是好久不見)！",
+      "pinyin": "Wǒmen zài jiē shàng ǒuyù le, zhēnshì hǎojiǔ bújiàn!",
+      "english": "We bumped into each other on the street, it's really been a long time!"
     },
     {
-      "chinese": "老朋友(老朋友)，好久不见(好久不見)！",
-      "pinyin": "Lǎo péngyǒu, hǎojiǔ bújiàn!",
-      "english": "Old friend, long time no see!"
+      "chinese": "见到你真的很高兴(見到你真的很高興)，好久不见(好久不見)！",
+      "pinyin": "Jiàndào nǐ zhēnde hěn gāoxìng, hǎojiǔ bújiàn!",
+      "english": "I'm really happy to see you, long time no see!"
     }
   ]
 }

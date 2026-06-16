@@ -5,8 +5,8 @@
   "english": "oak",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, 'wood') + 乍(乍) (zhà, 'at first') = tree species indicated by phonetic 乍",
-    "interpretation": "The character 柞(柞) (zhà, 'oak') combines 木(木) (mù, 'wood'), which indicates that the character relates to trees or wood, with 乍(乍) (zhà, 'at first'; phonetic) to suggest the pronunciation. The character refers specifically to a type of tree, namely the oak.",
+    "description": "semantic 木(木) (mù, \"tree\") + phonetic 昨(昨) (zuó, \"yesterday\") -> oak",
+    "interpretation": "This character combines the semantic 木(木) (mù, \"tree\"), indicating that it is a type of tree, with the phonetic component 昨(昨) (zuó), which suggests the pronunciation. The core meaning of \"oak\" likely stems from its reference as a specific type of tree.",
     "simplification": ""
   },
   "parts": [
@@ -14,26 +14,31 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "wood"
+      "english": "tree"
     },
     {
-      "char": "乍",
-      "trad": "乍",
-      "pinyin": "zhà",
-      "english": "at first"
+      "char": "昨",
+      "trad": "昨",
+      "pinyin": "zuó",
+      "english": "yesterday"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他采集了柞木(他採集了柞木)，打算制作家具(打算製作傢俱)。",
-      "pinyin": "Tā cǎijí le zhà mù, dǎsuàn zhìzuò jiājù.",
-      "english": "He collected oak wood, planning to make furniture."
+      "chinese": "这里的森林里有很多柞树(這裡的森林裡有很多柞樹)。",
+      "pinyin": "Zhèlǐ de sēnlín lǐ yǒu hěn duō zhà shù.",
+      "english": "There are many oak trees in the forest here."
     },
     {
-      "chinese": "古代文献记载柞木有很高的使用价值(古代文獻記載柞木有很高的使用價值)。",
-      "pinyin": "Gǔdài wénxiàn jìzǎi zhà mù yǒu hěn gāo de shǐyòng jiàzhí.",
-      "english": "Ancient texts recorded that oak wood held great value."
+      "chinese": "这张桌子是用柞木做的(這張桌子是用柞木做的)。",
+      "pinyin": "Zhè zhāng zhuōzi shì yòng zhà mù zuò de.",
+      "english": "This table is made of oak wood."
+    },
+    {
+      "chinese": "在秋天时(在秋天時)，柞树的叶子变成金黄色(柞樹的葉子變成金黃色)。",
+      "pinyin": "Zài qiūtiān shí, zhà shù de yèzi biàn chéng jīnhuángsè.",
+      "english": "In autumn, the leaves of the oak tree turn golden yellow."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "resuscitate",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "魚(魚) (yú, \"fish\") as phonetic + 禾(禾) (hé, \"grain\") as semantic -> sound and meaning combined -> final form 穌",
-    "interpretation": "The character 穌(sū, \"resuscitate\") combines 魚 (yú, \"fish\") to indicate sound with 禾 (hé, \"grain\"), which contributes to the overall meaning of revitalization, akin to agricultural growth.",
-    "simplification": "The character 穌 was simplified to 稣 by removing the 魚(魚) (yú, \"fish\") component and retaining only parts that suggest clarity and modern sound."
+    "description": "semantic 禾(禾) (hé, \"grain; cereal\") + phonetic 魚(魚) (yú, \"fish\") -> resuscitate",
+    "interpretation": "The character combines 魚(魚) (yú, \"fish\") as a phonetic component, providing the sound, with 禾(禾) (hé, \"grain; cereal\") acting as the semantic component. The association with grain suggests nourishment or sustenance, leading to the sense of bringing something back to life or resuscitating it.",
+    "simplification": "Simplified form 稣 replaces the phonetic 魚(魚) (yú, \"fish\") with the simpler component 苏(苏) (sū, \"revive\") directly retaining the sound while keeping the semantic element intact."
   },
   "parts": [
     {
@@ -20,25 +20,9 @@
       "char": "禾",
       "trad": "禾",
       "pinyin": "hé",
-      "english": "grain"
+      "english": "grain; cereal"
     }
   ],
-  "in_contemporary_usage": true,
-  "examples": [
-    {
-      "chinese": "他不慎溺水后(他不慎溺水後)，医生奋力穌他(醫生奮力穌他)。",
-      "pinyin": "tā bù shèn nì shuǐ hòu, yīshēng fèn lì sū tā.",
-      "english": "He accidentally nearly drowned, and the doctor resuscitated him with full effort."
-    },
-    {
-      "chinese": "他在实验室中(他在實驗室中)，穌起了细胞的活力(穌起了細胞的活力)。",
-      "pinyin": "tā zài shí yàn shì zhōng, sū qǐ le xì bāo de huó lì.",
-      "english": "While in the laboratory, he revived the vitality of the cells."
-    },
-    {
-      "chinese": "在抢救行动中(在搶救行動中)，医护人员全力穌病人(醫護人員全力穌病人)。",
-      "pinyin": "zài qiǎng jiù xíng dòng zhōng, yī hù rén yuán quán lì sū bìng rén.",
-      "english": "During the rescue operation, the medical staff did their best to resuscitate the patient."
-    }
-  ]
+  "in_contemporary_usage": false,
+  "examples": []
 }

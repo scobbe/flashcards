@@ -4,9 +4,9 @@
   "pinyin": "shèn",
   "english": "very",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "甘(甘) (gān, \"sweet\") as phonetic component + 匹(匹) (pǐ, \"equal\") as semantic component = emphasizes extent or degree -> final meaning \"very\"",
-    "interpretation": "The character 甚(甚) (shèn, \"very\") combines 甘(甘) (gān, \"sweet\") for sound, associated with harmony and pleasantness, with 匹(匹) (pǐ, \"equal\") to convey the idea of exceeding or surpassing the norm in degree or extent.",
+    "type": "ideogrammic compound",
+    "description": "甘(甘) (gān, \"sweet\") + 匹(匹) (pǐ, \"match\") = to exceed a matching level -> very",
+    "interpretation": "Sweetness (甘) that surpasses a standard match (匹) leads to the concept of 'very' or 'extremely', emphasizing a degree that exceeds the usual measure.",
     "simplification": ""
   },
   "parts": [
@@ -20,25 +20,25 @@
       "char": "匹",
       "trad": "匹",
       "pinyin": "pǐ",
-      "english": "equal"
+      "english": "match"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这个苹果甚甜(這個蘋果甚甜)。",
-      "pinyin": "Zhège píngguǒ shèn tián.",
-      "english": "This apple is very sweet."
+      "chinese": "这件事让我甚为感动(這件事讓我甚為感動)。",
+      "pinyin": "Zhè jiàn shì ràng wǒ shèn wéi gǎndòng.",
+      "english": "This matter moved me very much."
     },
     {
-      "chinese": "他的工作甚辛苦(他的工作甚辛苦)，但他仍然乐观(但他仍然樂觀)。",
-      "pinyin": "Tā de gōngzuò shèn xīnkǔ, dàn tā réngrán lèguān.",
-      "english": "His work is very hard, but he remains optimistic."
+      "chinese": "他的才华甚是出众(他的才華甚是出眾)。",
+      "pinyin": "Tā de cáihuá shèn shì chūzhòng.",
+      "english": "His talent is very outstanding."
     },
     {
-      "chinese": "这道菜甚好吃(這道菜甚好吃)。",
-      "pinyin": "Zhè dào cài shèn hǎochī.",
-      "english": "This dish is very delicious."
+      "chinese": "他对这种情况感到甚为不满(他對這種情況感到甚為不滿)。",
+      "pinyin": "Tā duì zhè zhǒng qíngkuàng gǎndào shèn wéi bùmǎn.",
+      "english": "He feels very dissatisfied with this situation."
     }
   ]
 }

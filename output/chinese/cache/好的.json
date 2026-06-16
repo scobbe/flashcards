@@ -5,8 +5,8 @@
   "english": "ok; all right",
   "etymology": {
     "type": "compound word",
-    "description": "好(好) (hǎo, \"good\") + 的(的) (de, \"particle used for emphasis or possession\")",
-    "interpretation": "好的 (hǎo de) is used to indicate agreement or affirmation, similarly to saying 'okay' or 'alright' in English. The character 好(好) (hǎo, \"good\") conveys a positive response, while 的(的) (de) is a particle that adds emphasis, making the phrase a polite and affirmative reply.",
+    "description": "好(好) (hǎo, \"good\") and 的(的) (de, \"a structural particle\").",
+    "interpretation": "好(好) (hǎo, \"good\") conveys approval or affirmation, indicating something is satisfactory. 的(的) (de, \"a structural particle\") often modifies a noun or adjective, here creating a phrase that affirms or agrees with what has been said, similar to saying \"it's good\" or \"it's okay\" in English.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "好",
       "trad": "好",
       "pinyin": "hǎo",
-      "english": "good; fine; well"
+      "english": "good; well; nice; all right"
     },
     {
       "char": "的",
       "trad": "的",
       "pinyin": "de",
-      "english": "particle used for emphasis or possession"
+      "english": "a structural particle; possessive marker; used to form adjectives"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我们明天见(我們明天見)，好的(好的)。",
-      "pinyin": "wǒmen míngtiān jiàn, hǎo de.",
-      "english": "We will meet tomorrow, alright."
+      "chinese": "你明天能来吗(你明天能來嗎)？",
+      "pinyin": "Nǐ míngtiān néng lái ma?",
+      "english": "Can you come tomorrow?"
     },
     {
-      "chinese": "听到消息后(聽到消息後)，我说好的(我說好的)。",
-      "pinyin": "tīngdào xiāoxī hòu, wǒ shuō hǎo de.",
-      "english": "After hearing the news, I said alright."
+      "chinese": "好的，我会准时到(好的，我會準時到)。",
+      "pinyin": "Hǎo de, wǒ huì zhǔnshí dào.",
+      "english": "Ok, I will arrive on time."
     },
     {
-      "chinese": "如果你答应帮忙(如果你答應幫忙)，我会说好的(我會說好的)。",
-      "pinyin": "rúguǒ nǐ dāyìng bāngmáng, wǒ huì shuō hǎo de.",
-      "english": "If you agree to help, I will say okay."
+      "chinese": "我们去吃饭吧(我們去吃飯吧)，好的(好的)。",
+      "pinyin": "Wǒmen qù chīfàn ba, hǎo de.",
+      "english": "Let's go eat, ok."
     }
   ]
 }

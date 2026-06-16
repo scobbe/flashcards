@@ -5,8 +5,8 @@
   "english": "happy; joyful",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 斤(斤) (jīn, \"axe\") + Semantic: 欠(欠) (qiàn, \"yawn\") = depicts an expression of joy or delight",
-    "interpretation": "The character 欣(xīn, \"happy\") combines 欠(欠) (qiàn, \"yawn\") representing an open mouth, often related to expressions, with 斤(斤) as the phonetic component to convey the sound. Together, they suggest an expression associated with joy.",
+    "description": "phonetic 斤 (jīn, \"axe\") + semantic 欠 (qiàn, \"yawn; lack\") -> happiness",
+    "interpretation": "The character 欣 (xīn, \"happy; joyful\") combines 斤 (jīn, \"axe\") as the phonetic component providing the sound, with 欠 (qiàn, \"yawn; lack\") as the semantic component. The image of an open mouth 欠 combined with the sound from 斤 evokes the act of expressing joy or delight, as laughter often involves an open mouth. Therefore, the character represents a state of happiness or joy.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,25 @@
       "char": "欠",
       "trad": "欠",
       "pinyin": "qiàn",
-      "english": "yawn"
+      "english": "yawn; lack"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他欣然接受邀请(他欣然接受邀請)。",
-      "pinyin": "Tā xīnrán jiēshòu yāoqǐng.",
-      "english": "He gladly accepted the invitation."
+      "chinese": "我欣然同意(我欣然同意)。",
+      "pinyin": "Wǒ xīnrán tóngyì.",
+      "english": "I happily agreed."
     },
     {
-      "chinese": "听闻喜讯后(聽聞喜訊後)，他欣然起舞(他欣然起舞)。",
-      "pinyin": "Tīngwén xǐxùn hòu, tā xīnrán qǐwǔ.",
-      "english": "After hearing the good news, he danced joyfully."
+      "chinese": "孩子们在公园里欣欣向荣(孩子們在公園裡欣欣向榮)。",
+      "pinyin": "Háizimen zài gōngyuán lǐ xīnxīn xiàngróng.",
+      "english": "The children are joyfully thriving in the park."
+    },
+    {
+      "chinese": "春天让大自然欣欣然(春天讓大自然欣欣然)。",
+      "pinyin": "Chūntiān ràng dàzìrán xīnxīnrán.",
+      "english": "Spring makes nature joyful."
     }
   ]
 }

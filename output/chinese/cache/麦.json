@@ -5,14 +5,14 @@
   "english": "wheat; grain",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "來(来) (lái, \"come\") phonetic + 夊(夊) (suī, \"footprint pointing down; to walk slowly\") semantic = differentiation from 來 (originally \"wheat\") -> wheat (麥)",
-    "interpretation": "The character 麥(mài, \"wheat\") is a phono-semantic compound where 來(lái, \"come\") contributes the phonetic part, while 夊(suī, \"footprint pointing down; to walk slowly\") adds semantic meaning, possibly representing the growth or origin of wheat. The character evolved to take on the meaning of 'wheat' as 來(lái) took on the meaning of 'come.' This differentiation preserved the word's agricultural significance.",
-    "simplification": "麦(麥): 麥 was reduced by removing the 夊(夊) (suī, \"footprint pointing down; to walk slowly\") component, which streamlined the character to 麦, retaining its pronunciation and meaning."
+    "description": "phonetic 來 (láí, 'come') + semantic 夊 (suī, 'footprint pointing down; to walk slowly') -> wheat",
+    "interpretation": "麥(麥) (mài, 'wheat') uses 來(lái, 'come') as a phonetic component, reflecting the sound. The semantic component 夊 (suī, 'footprint pointing down; to walk slowly'), signifies the growth pattern of wheat as a plant steadily growing upward. Historically, 來 (lái, 'come') was used for 'wheat', but as it was borrowed for the meaning 'to come', the new character 麥 was created to distinctly represent 'wheat'.",
+    "simplification": "The traditional character 麥 was simplified to 麦 by removing the lower part 夊 (suī, 'footprint pointing down; to walk slowly') and retaining a simplified upper structure that captures the phonetic essence rather than the complete semantic picture."
   },
   "parts": [
     {
       "char": "來",
-      "trad": "来",
+      "trad": "來",
       "pinyin": "lái",
       "english": "come"
     },
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "农民们正在收割麦子(農民們正在收割麥子)。",
-      "pinyin": "Nóngmínmen zhèngzài shōugē màizi.",
-      "english": "The farmers are harvesting the wheat."
+      "chinese": "田地里种满了麦子(田地裡種滿了麥子)。",
+      "pinyin": "Tiándì lǐ zhòng mǎnle màizi.",
+      "english": "The fields are full of wheat."
     },
     {
-      "chinese": "秋天是收获麦子的季节(秋天是收穫麥子的季節)。",
-      "pinyin": "Qiūtiān shì shōuhuò màizi de jìjié.",
-      "english": "Autumn is the season for harvesting wheat."
+      "chinese": "麦芽糖是用麦子制作的(麥芽糖是用麥子製作的)。",
+      "pinyin": "Màiyátáng shì yòng màizi zhìzuò de.",
+      "english": "Malt sugar is made from wheat."
     },
     {
-      "chinese": "麦田在风中摇曳(麥田在風中搖曳)，看起来很漂亮(看起來很漂亮)。",
-      "pinyin": "Màitián zài fēng zhōng yáoyè, kàn qǐlái hěn piàoliang.",
-      "english": "The wheat fields sway in the wind, looking beautiful."
+      "chinese": "小麦面粉可以用来做面包(小麥麵粉可以用來做麵包)。",
+      "pinyin": "Xiǎomài miànfěn kěyǐ yòng lái zuò miànbāo.",
+      "english": "Wheat flour can be used to make bread."
     }
   ]
 }

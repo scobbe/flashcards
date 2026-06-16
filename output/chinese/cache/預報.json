@@ -5,8 +5,8 @@
   "english": "in advance; beforehand; report; announce",
   "etymology": {
     "type": "compound word",
-    "description": "預(預) (yù, \"in advance; beforehand\") + 報(報) (bào, \"report; announce\") together form a word that means to report or announce something in advance.",
-    "interpretation": "The term 預報(預報) (yùbào) combines the idea of doing something in advance, 預(預) (yù, \"in advance\"), with the act of reporting or announcing, 報(報) (bào, \"report\"). Typically, this refers to the action of forecasting or predicting future events, most commonly seen in weather forecasts.",
+    "description": "預(預) (yù, \"in advance; beforehand\") refers to planning or doing something before a particular time. 報(報) (bào, \"report; announce\") involves delivering news or information, conveying messages, or announcing.",
+    "interpretation": "預(預) (yù, \"in advance; beforehand\") implies preparing or handling something before it happens. 報(報) (bào, \"report; announce\") suggests providing information or spreading news. Together, 預報(預報) (yùbào) signifies a \"report given in advance,\" thus often referring to forecasts like weather predictions, where information is shared beforehand to prepare for future events.",
     "simplification": ""
   },
   "parts": [
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "气象部门預報今天将有暴雨(氣象部門預報今天將有暴雨)。",
-      "pinyin": "Qìxiàng bùmén yùbào jīntiān jiāng yǒu bàoyǔ.",
-      "english": "The meteorological department predicted that there would be heavy rain today."
+      "chinese": "天气预报说今天会下雨(天氣預報說今天會下雨)。",
+      "pinyin": "Tiānqì yùbào shuō jīntiān huì xiàyǔ.",
+      "english": "The weather report says it will rain today."
     },
     {
-      "chinese": "他们預報会提前出发(他們預報會提前出發)，所以大家做好准备(所以大家做好準備)。",
-      "pinyin": "Tāmen yùbào huì tíqián chūfā, suǒyǐ dàjiā zuòhǎo zhǔnbèi.",
-      "english": "They announced that they would set off in advance, so everyone should get ready."
+      "chinese": "我们提前做好了旅行计划的预报(我們提前做好了旅行計劃的預報)。",
+      "pinyin": "Wǒmen tíqián zuò hǎo le lǚxíng jìhuà de yùbào.",
+      "english": "We made the travel plans in advance."
+    },
+    {
+      "chinese": "根据新闻预报(根據新聞預報)，股市将会波动(股市將會波動)。",
+      "pinyin": "Gēnjù xīnwén yùbào, gǔshì jiāng huì bōdòng.",
+      "english": "According to the news report, the stock market will fluctuate."
     }
   ]
 }

@@ -5,9 +5,9 @@
   "english": "small",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "戈(戈) (gē, \"spear\") + 戈(戈) (gē, \"spear\") facing each other = original form of 殘(殘) (cán, \"to damage; to destroy\") -> one spear turned to same direction -> 戔(戔)",
-    "interpretation": "The character 戔(戔) originally depicted two spears facing each other, symbolizing conflict or destruction, which intuitively linked to the meaning of damage or destruction. Later, one of the spears was oriented in the same direction, refining the visual representation of the concept while retaining the core idea of confrontation leading to damage.",
-    "simplification": "戔(戔) was simplified to 戋(戋) by modifying the character's stroke components to create a more streamlined and cursive form, reducing visual complexity."
+    "description": "戈(戈) (gē, \"spear\") + 戈(戈) (gē, \"spear\") = two spears facing each other -> original form of 殘(殘) (cán, \"to damage; to destroy\")",
+    "interpretation": "Originally depicting two spears crossing, suggesting the concept of conflict or damage. This visual arrangement conveys the idea of cutting or damaging, aligning with the character's historical use related to destruction or diminishment.",
+    "simplification": "Simplified to 戋 in modern script, removing detailing and additional strokes for ease of writing."
   },
   "parts": [
     {
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "那座房屋很戋(那座房屋很戔)。",
-      "pinyin": "Nà zuò fángwū hěn jiān.",
-      "english": "That house is small."
+      "chinese": "他的收入很戋(他的收入很戔)，所以总是精打细算(所以總是精打細算)。",
+      "pinyin": "Tā de shōurù hěn jiān, suǒyǐ zǒng shì jīngdǎxìsuàn.",
+      "english": "His income is very small, so he always budgets carefully."
     },
     {
-      "chinese": "孩子的手很戋(孩子的手很戔)，动作非常灵巧(動作非常靈巧)。",
-      "pinyin": "Háizi de shǒu hěn jiān, dòngzuò fēicháng língqiǎo.",
-      "english": "The child's hand is small, and his movements are very agile."
+      "chinese": "我们村庄的土地面积很戋(我們村莊的土地面積很戔)。",
+      "pinyin": "Wǒmen cūnzhuāng de tǔdì miànjī hěn jiān.",
+      "english": "Our village's land area is very small."
+    },
+    {
+      "chinese": "尽管房间很戋(儘管房間很戔)，但布置得很温馨(但佈置得很溫馨)。",
+      "pinyin": "Jǐnguǎn fángjiān hěn jiān, dàn bùzhì dé hěn wēnxīn.",
+      "english": "Although the room is small, it is decorated warmly."
     }
   ]
 }

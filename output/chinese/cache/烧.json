@@ -5,9 +5,9 @@
   "english": "boil; burn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "火(火) (huǒ, \"fire\") + 堯(堯) (yáo, phonetic) = association with fire and phonetic input -> burn, boil",
-    "interpretation": "The character 燒(燒) combines the semantic 火(火) (huǒ, \"fire\"), indicating the concept of burning, with the phonetic element 堯(堯) (yáo), providing the pronunciation. This combination effectively conveys the meaning of 'burn' or 'boil'.",
-    "simplification": "燒(燒) was simplified by replacing 堯(堯) with 尧(尧) to reduce the character's complexity."
+    "description": "semantic 火(火) (huǒ, \"fire\") + phonetic 堯(堯) (yáo, \"a legendary emperor; tall\") -> boil; burn",
+    "interpretation": "火(火) (huǒ, 'fire') is involved with ignition or heating -> burning -> when combined with 堯(堯) (yáo), which contributes the sound, the character represents the action of boiling or burning where fire is a primary element in producing heat.",
+    "simplification": "燒 was simplified to 烧 by replacing the 呪(呪) (zhòu, \"curse\") [incorrect as listed] radical 堯(堯) (yáo, \"a legendary emperor; tall\") with its simplified version 尧(尧)."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "堯",
       "trad": "堯",
       "pinyin": "yáo",
-      "english": "phonetic"
+      "english": "a legendary emperor; tall"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她把水烧开了(她把水燒開了)。",
-      "pinyin": "Tā bǎ shuǐ shāo kāile.",
-      "english": "She boiled the water."
+      "chinese": "请帮我把水烧开(請幫我把水燒開)。",
+      "pinyin": "Qǐng bāng wǒ bǎ shuǐ shāo kāi.",
+      "english": "Please help me boil the water."
     },
     {
-      "chinese": "树叶在篝火中被烧掉(樹葉在篝火中被燒掉)。",
-      "pinyin": "Shùyè zài gōuhuǒ zhōng bèi shāo diào.",
-      "english": "The leaves were burned in the campfire."
+      "chinese": "他不小心把手指烧伤了(他不小心把手指燒傷了)。",
+      "pinyin": "Tā bù xiǎo xīn bǎ shǒu zhǐ shāo shāng le.",
+      "english": "He accidentally burned his finger."
     },
     {
-      "chinese": "为了取暖(為了取暖)，他们在小屋里生起了火(他們在小屋裡生起了火)。",
-      "pinyin": "Wèile qǔnuǎn, tāmen zài xiǎowū lǐ shēng qǐle huǒ.",
-      "english": "To stay warm, they started a fire in the cabin."
+      "chinese": "这道菜需要烧很长时间(這道菜需要燒很長時間)。",
+      "pinyin": "Zhè dào cài xū yào shāo hěn cháng shí jiān.",
+      "english": "This dish needs to be cooked for a long time."
     }
   ]
 }

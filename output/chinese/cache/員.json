@@ -5,46 +5,34 @@
   "english": "member; person engaged in a field",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "𠚤(鼎) (dǐng, \"tripod\") top edge depicted by 〇 = indicates fullness or a complete member -> association with people engaged in a field",
-    "interpretation": "The character 員(員) (yuán, \"member\") visually represents the top edge of a 鼎(鼎) (dǐng, \"tripod\"), symbolizing completeness or full membership in a group. This is metaphorically extended to mean a person who is a member or part of an organization.",
-    "simplification": "Simplified to 员(員) by replacing 貝(貝) (bèi, \"cowry\") with 贝(贝) (bèi, phonetic similarity), maintaining meaning while simplifying the structure."
+    "description": "〇 (round) indicating the top edge of a 鼎 (dǐng, \"ding\") -> round",
+    "interpretation": "The character originally depicted the top view of a 鼎 (dǐng, \"ding\"), which is a round ancient cooking vessel, capturing its round shape to convey the concept of 'member' or 'person', as in a complete or rounded group.",
+    "simplification": "To simplify 員(員), 貝(貝) (bèi, \"cowry\") was reduced to 贝(貝), maintaining the concept while reducing stroke count."
   },
   "parts": [
     {
       "char": "鼎",
       "trad": "鼎",
       "pinyin": "dǐng",
-      "english": "tripod"
-    },
-    {
-      "char": "貝",
-      "trad": "貝",
-      "pinyin": "bèi",
-      "english": "cowry"
-    },
-    {
-      "char": "贝",
-      "trad": "贝",
-      "pinyin": "bèi",
-      "english": "phonetic similarity"
+      "english": "ding"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他是乐团的核心员(他是樂團的核心員)。",
-      "pinyin": "Tā shì yuètuán de héxīn yuán.",
-      "english": "He is the core member of the orchestra."
+      "chinese": "他是一名优秀的员工(他是一名優秀的員工)。",
+      "pinyin": "Tā shì yī míng yōuxiù de yuángōng.",
+      "english": "He is an outstanding employee."
     },
     {
-      "chinese": "她是图书馆的研究员(她是圖書館的研究員)。",
-      "pinyin": "Tā shì túshūguǎn de yánjiū yuán.",
-      "english": "She is a researcher at the library."
+      "chinese": "我们团队需要更多成员(我們團隊需要更多成員)。",
+      "pinyin": "Wǒmen tuánduì xūyào gèng duō chéngyuán.",
+      "english": "Our team needs more members."
     },
     {
-      "chinese": "他报名成为正式员(他報名成爲正式員)，准备在领域内大展身手(準備在領域內大展身手)。",
-      "pinyin": "Tā bàomíng chéngwéi zhèngshì yuán, zhǔnbèi zài lǐngyù nèi dàzhǎn shēnshǒu.",
-      "english": "He signed up as a formal member and is preparing to showcase his skills in the field."
+      "chinese": "退休后，他不再是公司的职员(退休後，他不再是公司的職員)。",
+      "pinyin": "Tuìxiū hòu, tā bùzài shì gōngsī de zhíyuán.",
+      "english": "After retiring, he is no longer an employee of the company."
     }
   ]
 }

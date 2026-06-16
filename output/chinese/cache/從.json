@@ -1,0 +1,38 @@
+{
+  "simplified": "從",
+  "traditional": "從",
+  "pinyin": "cóng",
+  "english": "follow; from",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 辵(辵) (chuò, \"walk; movement\") + phonetic 从(從) (cóng, \"follow\") -> follow; from",
+    "interpretation": "從(從) (cóng, \"follow\") uses the movement component, 辵(辵) (chuò, \"walk\"), to signify the concept of walking or following in a direction. Together with 从(從) as the phonetic element providing the sound, this combination effectively represents the idea of following someone or something on a path, hence the meanings 'follow' and 'from'.",
+    "simplification": "This character retains its original traditional form from Chinese history, whereas its simplified counterpart 从 suggests a person walking with another person, highlighting a reduction of strokes for simplicity."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk; movement"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我从家里出发(我從家裡出發)，去学校(去學校)。",
+      "pinyin": "Wǒ cóng jiā lǐ chūfā, qù xuéxiào.",
+      "english": "I set off from home to go to school."
+    },
+    {
+      "chinese": "他从不迟到(他從不遲到)，总是准时来(總是準時來)。",
+      "pinyin": "Tā cóng bù chídào, zǒng shì zhǔnshí lái.",
+      "english": "He is never late and always arrives on time."
+    },
+    {
+      "chinese": "从今天开始(從今天開始)，我要努力学习(我要努力學習)。",
+      "pinyin": "Cóng jīntiān kāishǐ, wǒ yào nǔlì xuéxí.",
+      "english": "Starting from today, I will study hard."
+    }
+  ]
+}

@@ -4,28 +4,35 @@
   "pinyin": "zī",
   "english": "this",
   "etymology": {
-    "type": "variant form",
-    "description": "玆 is a variant form of 茲(茲) (zī, \"this\") -> interchangeable in certain contexts",
-    "interpretation": "玆 and 茲 share the same pronunciation and meaning, serving as variants of each other. Both forms are used interchangeably depending on context and orthographic tradition.",
+    "type": "phono-semantic compound",
+    "description": "variant form of 茲 (semantic and phonetic roles interchange depending on context)",
+    "interpretation": "The character 玆(zī) serves as a variant of 茲(zī) (zī, “this”), and they interchangeably hold semantic and phonetic roles with slight variations dependent on context. There isn't a clear standard breakdown since their components share functions.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "茲",
+      "trad": "茲",
+      "pinyin": "zī",
+      "english": "this"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "玆事关国(玆事關國)。",
-      "pinyin": "zī shì guān guó",
-      "english": "This matter concerns the nation."
+      "chinese": "玆处(玆處)，环境幽美(環境幽美)。",
+      "pinyin": "Zī chù, huánjìng yōuměi.",
+      "english": "This place is serene and beautiful."
     },
     {
-      "chinese": "玆物虽微(玆物雖微)，情谊无穷(情誼無窮)。",
-      "pinyin": "zī wù suī wēi, qíng yì wú qióng",
-      "english": "This object may be small, but the affection is boundless."
+      "chinese": "玆事体大(玆事體大)，需要深思熟虑(需要深思熟慮)。",
+      "pinyin": "Zī shì tǐ dà, xūyào shēnsī shúlǜ.",
+      "english": "This matter is significant and requires careful consideration."
     },
     {
-      "chinese": "玆日清闲(玆日清閒)，心情舒畅(心情舒暢)。",
-      "pinyin": "zī rì qīng xián, xīn qíng shū chàng",
-      "english": "This day is leisurely, and the mood is relaxed."
+      "chinese": "玆因(玆因)，故作此决定(故作此決定)。",
+      "pinyin": "Zī yīn, gù zuò cǐ juédìng.",
+      "english": "For this reason, I made this decision."
     }
   ]
 }

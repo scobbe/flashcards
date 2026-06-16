@@ -5,8 +5,8 @@
   "english": "vegetarian food",
   "etymology": {
     "type": "compound word",
-    "description": "素(素) (sù, \"plain; vegetarian\") + 食(食) (shí, \"food; eat\") = vegetarian food",
-    "interpretation": "素食(素食) (sùshí, \"vegetarian food\") is a term that refers to food prepared without meat. This concept is significant in Buddhism, where vegetarianism is practiced for ethical and spiritual reasons, promoting non-violence and compassion towards all living beings.",
+    "description": "The word 素食(素食) (sùshí, \"vegetarian food\") is based on the combination of 素(素) (sù, \"plain; simple\") and 食(食) (shí, \"food\").",
+    "interpretation": "素(素) (sù, \"plain; simple\") refers to something lacking embellishment or basics, which conveys the idea of foods that are natural and unprocessed. This sense of simplicity extends to plant-based ingredients, often seen as original and wholesome. 食(食) (shí, \"food\") naturally refers to what is eaten. Thus, the term 素食 refers to foods that are plain in the sense of being plant-based, adhering to a vegetarian diet, without the inclusion of meat or extravagance.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "素",
       "trad": "素",
       "pinyin": "sù",
-      "english": "plain; vegetarian"
+      "english": "plain; simple; element; vegetarian"
     },
     {
       "char": "食",
       "trad": "食",
       "pinyin": "shí",
-      "english": "food; eat"
+      "english": "food; eat; meal; cuisine"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我喜欢素食(我喜歡素食)。",
-      "pinyin": "Wǒ xǐhuān sùshí.",
-      "english": "I like vegetarian food."
+      "chinese": "她喜欢吃素食(她喜歡吃素食)。",
+      "pinyin": "Tā xǐhuān chī sùshí.",
+      "english": "She likes to eat vegetarian food."
     },
     {
-      "chinese": "为了健康(為了健康)，他选择了素食(他選擇了素食)。",
-      "pinyin": "Wèi le jiànkāng, tā xuǎnzé le sùshí.",
-      "english": "For the sake of health, he chose vegetarian food."
+      "chinese": "这家餐厅提供很多素食选项(這家餐廳提供很多素食選項)。",
+      "pinyin": "Zhè jiā cāntīng tígōng hěn duō sùshí xuǎnxiàng.",
+      "english": "This restaurant offers many vegetarian options."
     },
     {
-      "chinese": "古人喜好素食(古人喜好素食)，认为这是一种养生之道(認為這是一種養生之道)。",
-      "pinyin": "Gǔ rén xǐhào sùshí, rènwéi zhè shì yī zhǒng yǎngshēng zhī dào.",
-      "english": "Ancient people liked vegetarian food, considering it a way to nurture life."
+      "chinese": "他决定在宴会中只吃素食(他決定在宴會中只吃素食)。",
+      "pinyin": "Tā juédìng zài yànhuì zhōng zhǐ chī sùshí.",
+      "english": "He decided to eat only vegetarian food at the banquet."
     }
   ]
 }

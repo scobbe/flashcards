@@ -5,8 +5,8 @@
   "english": "medical expenses",
   "etymology": {
     "type": "compound word",
-    "description": "医(醫) (yī, \"medical\"), 药(藥) (yào, \"medicine\"), 费(費) (fèi, \"expense\")",
-    "interpretation": "医药费(醫藥費) (yīyàofèi, \"medical expenses\") combines the elements of medical care and medicine with costs, referring to the money spent on medical treatments and medications.",
+    "description": "醫(醫) (yī, \"medical\") + 藥(藥) (yào, \"medicine\") + 費(費) (fèi, \"expense; fee; cost\"). The combination expresses the concept of costs associated with medical treatment.",
+    "interpretation": "醫(醫) (yī, \"medical\") denotes aspects related to healing and medicine, implying the care of health by professionals. Together with 藥(藥) (yào, \"medicine\"), it specifies the physical medications and treatments used. Adding 費(費) (fèi, \"expense\") highlights the monetary aspect, resulting in the coordinated expense for medical purposes. Thus, the term directly refers to costs incurred for medical treatments and pharmaceuticals.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "医",
       "trad": "醫",
       "pinyin": "yī",
-      "english": "medical; doctor"
+      "english": "medical; doctor; to cure"
     },
     {
       "char": "药",
@@ -26,25 +26,25 @@
       "char": "费",
       "trad": "費",
       "pinyin": "fèi",
-      "english": "expense; cost; fee"
+      "english": "expense; fee; cost"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她及时交医药费(她及時交醫藥費)。",
-      "pinyin": "Tā jíshí jiāo yīyàofèi.",
-      "english": "She paid the medical expenses promptly."
+      "chinese": "保险公司会报销部分医药费(保險公司會報銷部分醫藥費)。",
+      "pinyin": "Bǎoxiǎn gōngsī huì bàoxiāo bùfèn yīyàofèi.",
+      "english": "The insurance company will reimburse part of the medical expenses."
     },
     {
-      "chinese": "当病情加重时(當病情加重時)，他必须交医药费(他必須交醫藥費)。",
-      "pinyin": "Dāng bìngqíng jiāzhòng shí, tā bìxū jiāo yīyàofèi.",
-      "english": "When his condition worsened, he had to pay the medical expenses."
+      "chinese": "他的医药费(他的醫藥費)非常高，需要家人帮助(需要家人幫助)。",
+      "pinyin": "Tā de yīyàofèi fēicháng gāo, xūyào jiārén bāngzhù.",
+      "english": "His medical expenses are very high and require family support."
     },
     {
-      "chinese": "为了获得治疗(為了獲得治療)，他们节省钱并交医药费(他們節省錢並交醫藥費)。",
-      "pinyin": "Wèile huòdé zhìliáo, tāmen jiéshěng qián bìng jiāo yīyàofèi.",
-      "english": "In order to get treatment, they saved money and paid the medical expenses."
+      "chinese": "政府提供补助以减轻居民的医药费(政府提供補助以減輕居民的醫藥費)。",
+      "pinyin": "Zhèngfǔ tígōng bǔzhù yǐ jiǎnqīng jūmín de yīyàofèi.",
+      "english": "The government provides subsidies to alleviate residents' medical expenses."
     }
   ]
 }

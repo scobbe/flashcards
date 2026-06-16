@@ -5,35 +5,40 @@
   "english": "count it",
   "etymology": {
     "type": "compound word",
-    "description": "數(數) (shǔ, \"count\") indicates the action of counting, while 一下(一下) (yīxià, \"a bit; briefly\") softens the command, suggesting a quick or brief action.",
-    "interpretation": "This combination makes sense because it implies a gentle, non-demanding request to perform the action of counting something quickly or briefly. It's often used to make the request more polite or less formal.",
+    "description": "數(數) (shǔ, \"count\") suggests the act of enumerating or calculating something, while 一下(一下) (yīxià, \"a bit; for a moment\") refers to doing something quickly or briefly, often for a short duration or an experiment.",
+    "interpretation": "數(數) (shǔ, \"count\") specifically refers to the action of counting items or making calculations. 一下(一下) (yīxià, \"a bit; for a moment\") contributes the sense of immediacy or briefness, implying the counting is done quickly or as a test. Together, the phrase suggests doing a quick count.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "数",
+      "char": "數",
       "trad": "數",
       "pinyin": "shǔ",
-      "english": "count"
+      "english": "count; number; several"
     },
     {
       "char": "一下",
       "trad": "一下",
       "pinyin": "yīxià",
-      "english": "a bit; briefly"
+      "english": "a bit; for a moment; briefly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "数一下钱(數一下錢)。",
-      "pinyin": "shǔ yīxià qián.",
-      "english": "Count the money."
+      "chinese": "请你数一下库存(請你數一下庫存)。",
+      "pinyin": "Qǐng nǐ shǔ yīxià kùcún.",
+      "english": "Please count the inventory."
     },
     {
-      "chinese": "他要数一下数字(他要數一下數字)。",
-      "pinyin": "tā yào shǔ yīxià shùzì.",
-      "english": "He wants to count the numbers."
+      "chinese": "孩子们正在数一下他们的糖果(孩子們正在數一下他們的糖果)。",
+      "pinyin": "Háizimen zhèngzài shǔ yīxià tāmen de tángguǒ.",
+      "english": "The children are counting their candies."
+    },
+    {
+      "chinese": "老师让我们数一下书本的数量(老師讓我們數一下書本的數量)。",
+      "pinyin": "Lǎoshī ràng wǒmen shǔ yīxià shūběn de shùliàng.",
+      "english": "The teacher asked us to count the number of books."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "childhood",
   "etymology": {
     "type": "compound word",
-    "description": "小(小) (xiǎo, \"small\") + 時(時) (shí, \"time\") + 候(候) (hòu, \"time period\") = phase of smallness -> childhood",
-    "interpretation": "小時候 refers to the time period when one is small, or in other words, one's childhood. It emphasizes the phase of life characterized by being young and small.",
+    "description": "小(小) (xiǎo, \"small\") + 時候(時候) (shíhou, \"time; moment\") indicates a period of life marked by small size or youth. \"Childhood\" conveys the idea of the time when one is small in stature and age.",
+    "interpretation": "小(小) (xiǎo, \"small\") refers to being young, as children are smaller in size. 時候(時候) (shíhou, \"time; moment\") points to a specific period. Together, 小時候 (xiǎoshíhou) intuitively refers to the 'time of being small,' signifying childhood when individuals are young and growing.",
     "simplification": ""
   },
   "parts": [
@@ -14,31 +14,31 @@
       "char": "小",
       "trad": "小",
       "pinyin": "xiǎo",
-      "english": "small"
+      "english": "small; little; young; minor"
     },
     {
       "char": "時候",
       "trad": "時候",
-      "pinyin": "shíhòu",
-      "english": "time period; time; moment; length of time"
+      "pinyin": "shíhou",
+      "english": "time; moment; period; while"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小时候(小時候)，我常常在公园玩耍(我常常在公園玩耍)。",
-      "pinyin": "Xiǎoshíhou, wǒ chángcháng zài gōngyuán wánshuǎ.",
-      "english": "During childhood, I often played in the park."
+      "chinese": "我小时候常常去爷爷家玩(我小時候常常去爺爺家玩)。",
+      "pinyin": "Wǒ xiǎoshíhou chángcháng qù yéye jiā wán.",
+      "english": "I often went to my grandpa's house to play during my childhood."
     },
     {
-      "chinese": "她小时候(她小時候)喜欢听爷爷讲故事(喜歡聽爺爺講故事)。",
-      "pinyin": "Tā xiǎoshíhou xǐhuan tīng yéye jiǎng gùshì.",
-      "english": "She liked to listen to grandpa tell stories during her childhood."
+      "chinese": "小时候的回忆总是很美好(小時候的回憶總是很美好)。",
+      "pinyin": "Xiǎoshíhou de huíyì zǒng shì hěn měihǎo.",
+      "english": "Memories of childhood are always very beautiful."
     },
     {
-      "chinese": "我的小时候(我的小時候)充满了快乐和笑声(充滿了快樂和笑聲)。",
-      "pinyin": "Wǒ de xiǎoshíhou chōngmǎnle kuàilè hé xiàoshēng.",
-      "english": "My childhood was filled with joy and laughter."
+      "chinese": "他小时候特别喜欢看书(他小時候特別喜歡看書)，现在也不例外(現在也不例外)。",
+      "pinyin": "Tā xiǎoshíhou tèbié xǐhuan kànshū, xiànzài yě bù lìwài.",
+      "english": "He especially liked reading during his childhood, and it's still the same now."
     }
   ]
 }

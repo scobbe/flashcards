@@ -5,29 +5,34 @@
   "english": "boast",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "誇(誇): semantic 言(言) (yán, 'words, language') + phonetic 夸(夸) (kuā, 'boast') -> 'boastful or exaggerated words'",
-    "interpretation": "In 誇(誇), the element 言(言) relates to 'words' or 'speech', indicating the act of speaking in a boastful manner; 夸(夸) provides the phonetic component, reinforcing the sound and meaning of boasting.",
-    "simplification": "夸(誇): In simplified form, 言(言) ('words') is removed, leaving only 夸 to represent boasting, simplifying by removing the semantic component."
+    "description": "semantic 言(言) (yán, \"speech\") + phonetic 夸(夸) (kuā, \"boast\") -> boastful speech",
+    "interpretation": "The character combines 言(言) (yán, \"speech\") for its semantic value, suggesting something spoken or related to words, with 夸(夸) (kuā, \"boast\") providing the pronunciation. The result is a word associated with boastful or exaggerated speech.",
+    "simplification": "The traditional 言(言) (yán, \"speech\") was removed, leaving only the component 夸(夸) (kuā, \"boast\") as the simplified character."
   },
   "parts": [
     {
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "words"
+      "english": "speech"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他总爱夸自己会说多种语言(他總愛夸自己會說多種語言)。",
-      "pinyin": "Tā zǒng ài kuā zìjǐ huì shuō duō zhǒng yǔyán.",
-      "english": "He always loves to boast about his ability to speak multiple languages."
+      "chinese": "他总是喜欢夸自己的儿子(他總是喜歡誇自己的兒子)。",
+      "pinyin": "Tā zǒngshì xǐhuān kuā zìjǐ de érzi.",
+      "english": "He always likes to boast about his son."
     },
     {
-      "chinese": "他在聚会中夸自己的财富(他在聚會中夸自己的財富)，引得旁人侧目(引得旁人側目)。",
-      "pinyin": "Tā zài jùhuì zhōng kuā zìjǐ de cáifù, yǐn de pángrén cèmù.",
-      "english": "He boasts about his wealth at the party, drawing sideways glances from others."
+      "chinese": "她夸奖自己在比赛中的表现(她誇獎自己在比賽中的表現)。",
+      "pinyin": "Tā kuājiǎng zìjǐ zài bǐsài zhōng de biǎoxiàn.",
+      "english": "She boasted about her performance in the competition."
+    },
+    {
+      "chinese": "老师夸赞他的进步很大(老師誇讚他的進步很大)。",
+      "pinyin": "Lǎoshī kuāzàn tā de jìnbù hěn dà.",
+      "english": "The teacher boasted about his great progress."
     }
   ]
 }
