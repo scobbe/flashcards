@@ -124,14 +124,27 @@ class ClaudeClient:
         return "".join(getattr(b, "text", "") for b in msg.content if getattr(b, "type", "") == "text")
 
     def _call_cli(self, system: str, user: str, token: Optional[str]) -> str:
-        prompt = (f"{system}\n\n{user}\n\n"
-                  "Respond with ONLY one valid JSON object — no prose, no markdown fences.")
+        # Strip the Claude Code agent harness so each call is a lean one-shot
+        # completion, not a full agent turn: pass our own --system-prompt
+        # (removes the ~25k-token default agent prompt), --tools "" (no built-in
+        # tools), --strict-mcp-config (ignore this session's MCP servers), and
+        # --setting-sources "" (no settings / CLAUDE.md auto-discovery). This cuts
+        # per-call overhead from ~23k tokens to ~140 and ~halves latency, with no
+        # change to model/output. NB: --bare would be even leaner but forces
+        # ANTHROPIC_API_KEY auth (never reads OAuth/keychain), so it can't be used
+        # with the subscription token here.
+        sys_prompt = system + "\n\nRespond with ONLY one valid JSON object — no prose, no markdown fences."
         env = dict(os.environ)
         if token:
             env["CLAUDE_CODE_OAUTH_TOKEN"] = token
-        proc = subprocess.run(
-            ["claude", "-p", prompt, "--output-format", "json", "--model", self.model],
-            capture_output=True, text=True, env=env, timeout=240)
+        cmd = ["claude", "-p", user,
+               "--system-prompt", sys_prompt,
+               "--tools", "",
+               "--strict-mcp-config",
+               "--setting-sources", "",
+               "--output-format", "json",
+               "--model", self.model]
+        proc = subprocess.run(cmd, capture_output=True, text=True, env=env, timeout=240)
         if proc.returncode != 0:
             raise _RotateError(_classify(proc.stderr or proc.stdout))
         data = json.loads(proc.stdout)

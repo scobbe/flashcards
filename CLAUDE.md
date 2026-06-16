@@ -42,9 +42,14 @@ Mochi sync, or the Teams reader — these are the traps that have bitten us.
   `CLAUDE_OAUTH_TOKEN_1/2/3`, or `~/.config/flashcards/claude_oauth_tokens`; with
   none set it uses the logged-in `claude` CLI session (no rotation).
 - Transport: `anthropic` SDK if `ANTHROPIC_API_KEY` is set, else the `claude`
-  CLI (subscription). The CLI carries ~25k tokens of agent system-prompt overhead
-  per call → slow/costly; fine for samples, not bulk. `CLAUDE_MODEL` overrides
-  the model (default `sonnet`). Isolate a run with `CHINESE_CACHE_DIR=…`.
+  CLI (subscription — flat-rate, so the per-call `total_cost_usd` it prints is the
+  API-equivalent, NOT money spent; the real constraint is the plan's usage window).
+  `_call_cli` strips the agent harness — `--system-prompt` (ours), `--tools ""`,
+  `--strict-mcp-config`, `--setting-sources ""` — cutting per-call overhead from
+  ~23k tokens to ~140 and ~halving latency (no quality change). `--bare` is leaner
+  still but forces `ANTHROPIC_API_KEY` (never reads OAuth), so it's unusable with
+  the subscription token. `CLAUDE_MODEL` overrides the model (default `sonnet`);
+  isolate a run with `CHINESE_CACHE_DIR=…`.
 - A/B on 明 (`日`+`月`): identical structure, fully audit-clean both ways; Claude's
   interpretations were richer (sun+moon→clear lucidity; moon→month via the lunar
   cycle). Minor Claude quirks: occasionally recurses one extra referenced char,
