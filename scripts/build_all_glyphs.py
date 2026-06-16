@@ -57,7 +57,7 @@ def main():
             new_built += 1
         if (new_built + new_none) % 20 == 0:
             print(f"  ...{i}/{len(chars)}  built+{new_built} notable+{new_none}", flush=True)
-        time.sleep(0.6)  # be gentle with Wikimedia
+        time.sleep(1.5)  # be gentle with Wikimedia
     total = len(glob.glob(str(MEDIA / "glyph*.png")))
     print(f"DONE: built {new_built} new (total {total} images), {len(no_table)} no-table", flush=True)
 

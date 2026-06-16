@@ -68,24 +68,22 @@ def build(char: str) -> Path | None:
             captions = cells
 
     def fetch(img):
+        # Use the page's own thumbnail src (always valid) to minimize requests;
+        # one larger retry only if that succeeds-but-empty. Long backoff on 429.
         raw = "https:" + img["src"].split("?")[0]
-        # Prefer a larger render (120px is widely available), but always fall
-        # back to the page's own src (guaranteed valid). Back off on 429s, which
-        # Wikimedia returns under rapid load.
-        candidates = [re.sub(r"/\d+px-", "/120px-", raw), raw]
         last = None
-        for u in dict.fromkeys(candidates):
-            delay = 2.0
-            for _ in range(5):
-                try:
-                    r = s.get(u, timeout=30)
-                    if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
-                        return Image.open(io.BytesIO(r.content)).convert("RGBA")
-                    if r.status_code == 429:
-                        time.sleep(delay); delay = min(delay * 2, 16); continue
-                    last = r.status_code; break
-                except Exception as e:  # transient network
-                    last = e; time.sleep(delay); delay = min(delay * 2, 16)
+        delay = 3.0
+        for _ in range(6):
+            try:
+                r = s.get(raw, timeout=30)
+                if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
+                    time.sleep(0.4)  # space out image requests within a char
+                    return Image.open(io.BytesIO(r.content)).convert("RGBA")
+                if r.status_code in (429, 503):
+                    time.sleep(delay); delay = min(delay * 2, 60); continue
+                last = r.status_code; break
+            except Exception as e:
+                last = e; time.sleep(delay); delay = min(delay * 2, 60)
         raise RuntimeError(f"no working image for {raw} ({last})")
 
     glyphs = [fetch(im) for im in imgs]
