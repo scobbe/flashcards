@@ -73,17 +73,17 @@ def build(char: str) -> Path | None:
         raw = "https:" + img["src"].split("?")[0]
         last = None
         delay = 3.0
-        for _ in range(6):
+        for _ in range(3):
             try:
                 r = s.get(raw, timeout=30)
                 if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
                     time.sleep(0.4)  # space out image requests within a char
                     return Image.open(io.BytesIO(r.content)).convert("RGBA")
                 if r.status_code in (429, 503):
-                    time.sleep(delay); delay = min(delay * 2, 60); continue
+                    time.sleep(delay); delay = min(delay * 2, 8); continue
                 last = r.status_code; break
             except Exception as e:
-                last = e; time.sleep(delay); delay = min(delay * 2, 60)
+                last = e; time.sleep(delay); delay = min(delay * 2, 8)
         raise RuntimeError(f"no working image for {raw} ({last})")
 
     glyphs = [fetch(im) for im in imgs]

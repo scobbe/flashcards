@@ -36,7 +36,9 @@ def card_chars() -> list[str]:
 def main():
     MEDIA.mkdir(parents=True, exist_ok=True)
     no_table = set(NO_TABLE.read_text(encoding="utf-8").split()) if NO_TABLE.exists() else set()
-    chars = card_chars()
+    # Common CJK (U+4E00-9FFF) first — they have clean historical-forms tables;
+    # rare radicals/extension chars (often imageless) are deferred to the end.
+    chars = sorted(card_chars(), key=lambda c: (0 if 0x4E00 <= ord(c) <= 0x9FFF else 1, ord(c)))
     built = sum(1 for c in chars if media_path(c).exists())
     print(f"{len(chars)} chars; {built} already built, {len(no_table)} known no-table", flush=True)
 
