@@ -31,6 +31,25 @@ Mochi sync, or the Teams reader — these are the traps that have bitten us.
   notes ("semantic radical + a part for sound") and pictograms are GOOD, NOT
   vacuous — never "fix" those by forcing a mechanism (that invites fabrication).
 
+## LLM provider (`get_llm_client`) — OpenAI or Claude
+- All generation goes through `get_llm_client(model)` (lib/common). Default is
+  OpenAI (`OPENAI_API_KEY`). Set `FLASHCARD_LLM=claude` to use Claude instead.
+- **Claude auth = subscription OAuth, not an API key.** `ClaudeClient` keeps a
+  POOL of OAuth tokens (`sk-ant-oat-…` from `claude setup-token`) and rotates to
+  the next on a failure a different token could fix — `auth` / `rate_limit` /
+  `quota` (mirrors the sonoma scan-framework); a limited token is parked on a
+  cooldown. Tokens from `CLAUDE_OAUTH_TOKENS` (comma/space list),
+  `CLAUDE_OAUTH_TOKEN_1/2/3`, or `~/.config/flashcards/claude_oauth_tokens`; with
+  none set it uses the logged-in `claude` CLI session (no rotation).
+- Transport: `anthropic` SDK if `ANTHROPIC_API_KEY` is set, else the `claude`
+  CLI (subscription). The CLI carries ~25k tokens of agent system-prompt overhead
+  per call → slow/costly; fine for samples, not bulk. `CLAUDE_MODEL` overrides
+  the model (default `sonnet`). Isolate a run with `CHINESE_CACHE_DIR=…`.
+- A/B on 明 (`日`+`月`): identical structure, fully audit-clean both ways; Claude's
+  interpretations were richer (sun+moon→clear lucidity; moon→month via the lunar
+  cycle). Minor Claude quirks: occasionally recurses one extra referenced char,
+  and may omit the traditional clause on an all-identical sentence (cosmetic).
+
 ## Generation — avoid silent card loss
 - **`generate.py` re-parses the raw input.** Parsing a long list in one OpenAI
   call can silently truncate (drop entries) → fewer cards → on regen it CLEARS

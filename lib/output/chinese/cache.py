@@ -1,11 +1,16 @@
 """Cache management for Chinese flashcard data."""
 
+import os
 from pathlib import Path
 from typing import Dict, Optional
 
 from lib.common.cache import read_cache as _read_cache, write_cache as _write_cache
 
-CHINESE_CACHE_DIR = Path(__file__).parent.parent.parent.parent / "output" / "chinese" / "cache"
+# Override with CHINESE_CACHE_DIR to isolate a run (e.g. an A/B provider comparison).
+CHINESE_CACHE_DIR = Path(
+    os.environ.get("CHINESE_CACHE_DIR")
+    or Path(__file__).parent.parent.parent.parent / "output" / "chinese" / "cache"
+)
 LOG_PREFIX = "chinese"
 
 

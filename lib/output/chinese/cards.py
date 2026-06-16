@@ -16,7 +16,7 @@ from lib.schema.chinese import (
     is_cache_valid,
     CHINESE_DISPLAY_SCHEMA,
 )
-from lib.common import OpenAIClient, add_subcomponent_error, is_cjk_char, key_lock, collapse_identical_parens
+from lib.common import get_llm_client, add_subcomponent_error, is_cjk_char, key_lock, collapse_identical_parens
 
 from lib.output.chinese.cache import read_cache, write_cache
 from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
@@ -289,7 +289,7 @@ def generate_card_content(
 
         try:
             # First API call: etymology/parts (no examples)
-            client = OpenAIClient(model=model)
+            client = get_llm_client(model=model)
             system = generate_system_prompt_no_examples(variant)
 
             if verbose:
@@ -305,7 +305,7 @@ def generate_card_content(
             # Uses the same model as the rest of the pipeline (respects --model)
             # instead of a hardcoded reasoning model.
             if data.get("in_contemporary_usage", True):
-                examples_client = OpenAIClient(model=model)
+                examples_client = get_llm_client(model=model)
                 examples_system = generate_examples_system_prompt(variant)
                 examples_user = f"Generate 2-3 example sentences for:\nWord: {simplified}\nTraditional: {traditional}\nPinyin: {pinyin}\nMeaning: {english}"
                 if input_examples and input_examples.strip() and input_examples.strip().lower() != "none":

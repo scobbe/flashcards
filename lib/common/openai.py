@@ -13,6 +13,17 @@ except Exception:  # pragma: no cover
     OpenAI = None  # type: ignore
 
 
+def get_llm_client(model: Optional[str] = None):
+    """Return the configured LLM client. ``FLASHCARD_LLM=claude`` (or anthropic)
+    selects the Claude/Anthropic client (OAuth-token rotation); anything else
+    (default) uses OpenAI. Both expose ``complete_json`` / ``complete_structured``."""
+    provider = os.environ.get("FLASHCARD_LLM", "openai").strip().lower()
+    if provider in ("claude", "anthropic"):
+        from lib.common.claude_client import ClaudeClient
+        return ClaudeClient(model=model)
+    return OpenAIClient(model=model)
+
+
 class OpenAIClient:
     def __init__(self, model: Optional[str] = None) -> None:
         self.model = model or "gpt-4o"

@@ -54,7 +54,7 @@ from lib.common.dates import (
     today_id,
     sort_batch_ids,
 )
-from lib.common.openai import OpenAIClient
+from lib.common.openai import OpenAIClient, get_llm_client
 from lib.common.cache import (
     sanitize_filename,
     get_cache_path,
@@ -105,6 +105,7 @@ __all__ = [
     "sort_batch_ids",
     # openai
     "OpenAIClient",
+    "get_llm_client",
     # cache
     "sanitize_filename",
     "get_cache_path",

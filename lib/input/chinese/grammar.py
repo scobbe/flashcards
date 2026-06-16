@@ -5,7 +5,7 @@ import json as _json
 from pathlib import Path
 from typing import Dict, List
 
-from lib.common import OpenAIClient
+from lib.common import get_llm_client
 
 
 def call_openai_for_grammar(text: str, model: str | None) -> List[Dict[str, object]]:
@@ -13,7 +13,7 @@ def call_openai_for_grammar(text: str, model: str | None) -> List[Dict[str, obje
     
     Output: list of {description: str, usage_cn: str, examples: [str, ...]}
     """
-    client = OpenAIClient(model=model)
+    client = get_llm_client(model=model)
     system = (
         "You extract concise Chinese grammar rules from study notes. "
         "Return ONLY JSON: {\"rules\":[{\"description\":string,\"usage_cn\":string,\"examples\":[string,...]}]} . "

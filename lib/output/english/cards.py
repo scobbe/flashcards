@@ -11,7 +11,7 @@ from lib.schema.english import (
     get_required_field_names,
     ENGLISH_DISPLAY_SCHEMA,
 )
-from lib.common import OpenAIClient
+from lib.common import get_llm_client
 from lib.common.cache import sanitize_filename, read_cache, write_cache
 
 # Cache configuration
@@ -38,7 +38,7 @@ def generate_english_card_content(
     if cached is not None:
         return cached
 
-    client = OpenAIClient(model=model)
+    client = get_llm_client(model=model)
 
     # Generate system prompt from schema
     system = generate_system_prompt()

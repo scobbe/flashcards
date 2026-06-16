@@ -2,7 +2,7 @@
 
 from typing import Dict, List, Sequence, Tuple
 
-from lib.common import OpenAIClient, is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings
+from lib.common import get_llm_client, is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings
 
 
 # Max vocab lines to send to OpenAI in a single parse call. Large lists are
@@ -27,7 +27,7 @@ _VOCAB_PARSER_SYSTEM = (
 )
 
 
-def _parse_vocab_lines(lines: Sequence[str], client: OpenAIClient) -> List[Tuple[str, str, str, str, str]]:
+def _parse_vocab_lines(lines: Sequence[str], client) -> List[Tuple[str, str, str, str, str]]:
     """Parse a single batch of vocab lines via one OpenAI call."""
     user = "Parse this vocabulary list and return JSON:\n\n" + "\n".join(lines)
     data = client.complete_json(system=_VOCAB_PARSER_SYSTEM, user=user)
@@ -67,7 +67,7 @@ def call_openai_for_vocab_and_forms(
     if not vocab_lines:
         return []
 
-    client = OpenAIClient(model=model)
+    client = get_llm_client(model=model)
     results: List[Tuple[str, str, str, str, str]] = []
     for start in range(0, len(vocab_lines), VOCAB_PARSE_BATCH_SIZE):
         batch = vocab_lines[start:start + VOCAB_PARSE_BATCH_SIZE]
@@ -80,7 +80,7 @@ def call_openai_forms_for_words(
     words: Sequence[str], model: str | None
 ) -> List[Tuple[str, str, str, str]]:
     """Ask OpenAI to map each word to simplified/traditional plus English definition."""
-    client = OpenAIClient(model=model)
+    client = get_llm_client(model=model)
     system = (
         "You convert Chinese vocabulary to their Simplified and Traditional forms and provide English definitions with aligned Pinyin. "
         "Return JSON {\"items\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P|[P1,P2,...], \"english\": E|[E1,E2,...]}, ...]} in the same length and order as input. "

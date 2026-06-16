@@ -200,8 +200,8 @@ def audit_output_dir(output_dir: Path, repo_root: Optional[Path] = None,
 def _llm_audit(files, rootp, model) -> List[Issue]:
     """LLM-judge interpretations for genuine vacuousness (honest phonetic = OK)."""
     from concurrent.futures import ThreadPoolExecutor, as_completed
-    from lib.common.openai import OpenAIClient
-    client = OpenAIClient(model=model)
+    from lib.common.openai import get_llm_client
+    client = get_llm_client(model=model)
     SYS = (
         "You grade ONE Chinese character/word etymology interpretation from a flashcard as "
         "GOOD or VACUOUS. DEFAULT TO GOOD — only answer VACUOUS when the text genuinely "

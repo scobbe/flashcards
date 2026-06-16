@@ -42,10 +42,14 @@ def main(argv=None):
     dirs = [Path(d) for d in args.dirs] if args.dirs else _all_output_dirs()
     all_issues = []
     for d in dirs:
-        issues = audit_output_dir(d, repo_root=ROOT, llm=args.llm)
+        root = ROOT if str(d.resolve()).startswith(str(ROOT)) else d.resolve().parent
+        issues = audit_output_dir(d, repo_root=root, llm=args.llm)
         if args.errors_only:
             issues = [i for i in issues if i.severity == "error"]
-        rel = d.relative_to(ROOT) if d.is_absolute() else d
+        try:
+            rel = d.relative_to(ROOT)
+        except ValueError:
+            rel = d
         if issues:
             print(f"\n=== {rel} ===")
             print(format_report(issues))

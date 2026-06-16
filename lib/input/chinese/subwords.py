@@ -4,7 +4,7 @@ import csv
 import io
 from typing import Dict, List, Sequence, Set, Tuple
 
-from lib.common import OpenAIClient, is_cjk_char, keep_only_cjk
+from lib.common import get_llm_client, is_cjk_char, keep_only_cjk
 
 
 def call_openai_subwords_for_words(
@@ -14,7 +14,7 @@ def call_openai_subwords_for_words(
 
     Returns a mapping: parent -> list of (simplified, traditional, pinyin, english).
     """
-    client = OpenAIClient(model=model)
+    client = get_llm_client(model=model)
     # Filter to only multi-character parents
     parents = [p for p in parents if isinstance(p, str) and keep_only_cjk(p) and len(p) > 1]
     if not parents:

@@ -143,8 +143,8 @@ def _route_etymology(simplified: str, traditional: str, pinyin: str, english: st
     if len(candidates) == 1:
         return candidates[0][0]
     try:
-        from lib.common import OpenAIClient
-        client = OpenAIClient(model=model)
+        from lib.common import get_llm_client
+        client = get_llm_client(model=model)
         options = "\n".join(f'- {c}: {g}' for c, g in candidates)
         system = (
             "You map a simplified Chinese character to the ONE traditional character whose "
