@@ -4,35 +4,41 @@
   "pinyin": "n/a",
   "english": "intermediate form",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "㯥 (cáo, 'pair; peer') with top components merged to resemble 曲 (qǔ, 'bent') -> 曰 (yuē, 'say') added as a distinguishing mark -> intermediate form of 曹 (cáo, 'associate')",
-    "interpretation": "The character evolved from an ideogrammic compound depicting two bundles to represent 'pair'. The distinguishing marks were added which eventually led to the development of the intermediate character 𣍘 before transforming into 曹.",
+    "type": "ideogrammic compound",
+    "description": "東(東) (dōng, \"east\") + 東(東) (dōng, \"east\") -> pair; peer, same kind -> 囗(囗) (wéi, \"enclosure\") added, later corrupted to 甘(甘) (gān, \"sweet\") and 曰(曰) (yuē, \"to say\") -> 曹(曹) (cáo, \"office\")",
+    "interpretation": "𣍘 is an intermediate form of 曹(曹) (cáo, \"office\"), born from the ancient character 㯥 representing a pair or peer of similar items. It showcases character evolution where additional and corrupted components marked development.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "㯥",
-      "trad": "㯥",
-      "pinyin": "cáo",
-      "english": "pair; peer"
+      "char": "東",
+      "trad": "東",
+      "pinyin": "dōng",
+      "english": "east"
     },
     {
-      "char": "曲",
-      "trad": "曲",
-      "pinyin": "qǔ",
-      "english": "bent"
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "甘",
+      "trad": "甘",
+      "pinyin": "gān",
+      "english": "sweet"
     },
     {
       "char": "曰",
       "trad": "曰",
       "pinyin": "yuē",
-      "english": "say"
+      "english": "to say"
     },
     {
       "char": "曹",
       "trad": "曹",
       "pinyin": "cáo",
-      "english": "associate"
+      "english": "office"
     }
   ],
   "in_contemporary_usage": false,

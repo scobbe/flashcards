@@ -4,9 +4,9 @@
   "pinyin": "niàn",
   "english": "twenty",
   "etymology": {
-    "type": "variant character",
-    "description": "Variant form of 廿(廿) (niàn, \"twenty\") -> Two 十(十) (shí, \"ten\") written side by side with a horizontal stroke connecting them",
-    "interpretation": "卄(卄) (niàn, \"twenty\") is a variant form of 廿(廿), using the component 十(十) to represent tens, indicating the number twenty.",
+    "type": "variant form",
+    "description": "Variant form of 廿(廿) (niàn, \"twenty\"). 廿: Two 十(十) (shí, \"ten\") side by side with a horizontal stroke at the bottom -> representation of twenty",
+    "interpretation": "卄(卄) (niàn, \"twenty\") is a variant of 廿(廿) (niàn, \"twenty\"), which visually represents the number twenty by combining two 十(十) (shí, \"ten\") characters horizontally.",
     "simplification": ""
   },
   "parts": [

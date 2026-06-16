@@ -4,17 +4,17 @@
   "pinyin": "jiōng",
   "english": "closed",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "冂 (enclosure) + 口 (mouth) = something closed in",
-    "interpretation": "The character 冋 is an ideogrammic compound depicting an enclosure 冂 (冂, 'enclosure') with a mouth 口 (口, 'mouth') inside, indicating an enclosed or closed-in space.",
+    "type": "ancient variant",
+    "description": "Ancient variant of 冂(冂) (jiōng, \"borders\"), depicts enclosure with 口(口) (kǒu, \"mouth\") inside -> closed",
+    "interpretation": "冋(冋) (jiōng, \"closed\") is an ancient variant of 冂(冂), traditionally depicting an enclosed space or area with 口(口) representing an enclosed mouth, symbolizing something that is closed or blocked off.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "冂",
       "trad": "冂",
-      "pinyin": "jiǒng",
-      "english": "enclosure"
+      "pinyin": "jiōng",
+      "english": "borders"
     },
     {
       "char": "口",

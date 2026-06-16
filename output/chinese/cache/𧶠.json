@@ -5,15 +5,15 @@
   "english": "to sell; trade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 𡍬 (originally 𧸇, further reduced to 士(士) (shì, \"scholar\") and 四(四) (sì, \"four\")) + Semantic: 貝(貝) (bèi, \"cowry\") -> meaning 'to sell; trade'",
-    "interpretation": "𧶠 combines the phonetic component 𡍬, representing sound, with the semantic component 貝(貝) (bèi, \"cowry\"), symbolizing value or trade. The evolution to its current form involved a reduction to 士(士) and 四(四), which further altered its appearance.",
+    "description": "𡍬 (phonetic) + 貝 (cowry) -> 𧸇 -> 士 and 四 replacing 𡍬 -> final form 𧶠",
+    "interpretation": "The character 𧶠 is a phono-semantic compound where 𡍬 provides the phonetic component while 貝(bèi, \"cowry\") signifies value or trade. Over time, 𡍬 was simplified through reduction into the components 士(shì, \"scholar\") and 四(sì, \"four\") to arrive at the modern form 𧶠, which still retains the semantic meaning of trade or selling.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "𡍬",
       "trad": "𡍬",
-      "pinyin": "mù",
+      "pinyin": "mlu",
       "english": "phonetic component"
     },
     {

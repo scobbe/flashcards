@@ -5,24 +5,11 @@
   "english": "old",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bent-over figure with long hair; an old man -> component of 老(lǎo) and 孝(xiào)",
-    "interpretation": "The character ⺹ represents an elderly man with a hunched appearance and long hair, symbolizing age and experience. It is used as a component in more complex characters related to age and filial piety.",
+    "description": "Depicts a bent-over figure with long hair -> represents an old man, related to 老(lǎo) and 孝(xiào)",
+    "interpretation": "The character ⺹ is a pictorial representation showing a person with long hair bending over, symbolizing old age or elderliness. This basic form features in the compound structure of characters like 老(lǎo, \"old\") and 孝(xiào, \"filial piety\"), emphasizing the connection with age and respect.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "老",
-      "trad": "老",
-      "pinyin": "lǎo",
-      "english": "old"
-    },
-    {
-      "char": "孝",
-      "trad": "孝",
-      "pinyin": "xiào",
-      "english": "filial piety"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

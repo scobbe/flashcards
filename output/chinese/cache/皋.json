@@ -1,0 +1,44 @@
+{
+  "simplified": "皋",
+  "traditional": "皋",
+  "pinyin": "gāo",
+  "english": "marsh",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "白(白) (bái, \"white\") + 夲(夲) (tǎo, \"to advance\") = unclear connection to modern meaning -> final form 皋",
+    "interpretation": "The character 皋 combines 白(白) (bái, \"white\") with 夲(夲) (tǎo, \"to advance\") in an ideogrammic fashion, although the reasoning behind how these elements contribute to the meaning 'marsh' is not well understood.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    },
+    {
+      "char": "夲",
+      "trad": "夲",
+      "pinyin": "tǎo",
+      "english": "to advance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这种植物常见于湿润的皋地(這種植物常見於濕潤的皋地)。",
+      "pinyin": "Zhè zhǒng zhíwù chángjiàn yú shīrùn de gāo dì.",
+      "english": "This kind of plant is commonly found in marshy areas."
+    },
+    {
+      "chinese": "河流两岸的皋地(河流兩岸的皋地)孕育了丰富的生态系统(孕育了豐富的生態系統)。",
+      "pinyin": "Héliú liǎng'àn de gāo dì yùnyùle fēngfù de shēngtài xìtǒng.",
+      "english": "The marshlands on both sides of the river have nurtured a rich ecosystem."
+    },
+    {
+      "chinese": "古代诗人常常在皋地(古代詩人常常在皋地)写下优美的诗句(寫下優美的詩句)。",
+      "pinyin": "Gǔdài shīrén chángcháng zài gāo dì xiěxià yōuměi de shījù.",
+      "english": "Ancient poets often wrote beautiful verses in the marshlands."
+    }
+  ]
+}

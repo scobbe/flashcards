@@ -5,8 +5,8 @@
   "english": "feet",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "夊 (feet) + 𡕒 (layered shape) = two feet facing in the same direction",
-    "interpretation": "The character 舛(chuǎn) depicts two feet facing in the same direction, which visually emphasizes alignment. This is contrasted with characters like ⽨, where feet point in different directions, suggesting divergence. Historically, it relates to physical orientation, which may relate to its meaning of misalignment or 'crossing' paths in a metaphorical sense.",
+    "description": "夊(\"foot\") + 𡕒(\"foot\") = two feet facing the same direction",
+    "interpretation": "Originally depicted two feet facing the same direction, indicative of alignment or a specific movement. This contrasts with similar characters where feet face different directions, suggesting divergence or a change in direction. The character captures the concept of feet in synchronized motion, highlighting its thematic link to physical orientation.",
     "simplification": ""
   },
   "parts": [
@@ -14,15 +14,31 @@
       "char": "夊",
       "trad": "夊",
       "pinyin": "suī",
-      "english": "walk slowly"
+      "english": "foot; walk slowly"
     },
     {
       "char": "𡕒",
       "trad": "𡕒",
-      "pinyin": "yī",
-      "english": "layered shape"
+      "pinyin": "wěi",
+      "english": "foot; part of an ancient form"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的计划总是出点儿小舛(他的計劃總是出點兒小舛)。",
+      "pinyin": "Tā de jìhuà zǒng shì chū diǎnr xiǎo chuǎn.",
+      "english": "His plans always encounter small setbacks."
+    },
+    {
+      "chinese": "尽管有舛错(儘管有舛錯)，他仍然达到了目标(他仍然達到了目標)。",
+      "pinyin": "Jǐnguǎn yǒu chuǎncuò, tā réngrán dádào le mùbiāo.",
+      "english": "Despite the mistakes, he still achieved his goal."
+    },
+    {
+      "chinese": "为了避免舛误(為了避免舛誤)，我们仔细检查了所有的数据(我們仔細檢查了所有的數據)。",
+      "pinyin": "Wèile bìmiǎn chuǎnwù, wǒmen zǐxì jiǎnchá le suǒyǒu de shùjù.",
+      "english": "To avoid errors, we carefully checked all the data."
+    }
+  ]
 }

@@ -4,12 +4,19 @@
   "pinyin": "yà",
   "english": "west",
   "etymology": {
-    "type": "pictogram",
-    "description": "Originally a pictogram depicting a bag or basket with a cover, later used to represent 'west' due to phonetic borrowing",
-    "interpretation": "The character 覀 depicts a covered bag or basket and was phonetically borrowed to represent 'west' due to its similarity in sound and the conceptual link to the setting sun being 'covered' by the horizon in the west.",
+    "type": "variant form",
+    "description": "Variant form of 西(西) (xī, \"west\")",
+    "interpretation": "覀 is a variant of 西(西) (xī, \"west\"), used interchangeably in some contexts to represent the same meaning.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "西",
+      "trad": "西",
+      "pinyin": "xī",
+      "english": "west"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

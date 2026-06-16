@@ -4,12 +4,19 @@
   "pinyin": "zào",
   "english": "acorn",
   "etymology": {
-    "type": "variant",
-    "description": "皁 is a variant traditional form of 皂, itself a variant form of 早",
-    "interpretation": "皁 (zào, 'acorn') is a traditional variant of 皂. Historically, it retains its original meaning from 早 (zǎo, 'early') when it referred to 'acorn'.",
+    "type": "variant form",
+    "description": "皁 is a variant traditional form of 皂, which is a variant of 早 (zǎo, 'early') originally meaning 'acorn'.",
+    "interpretation": "皁 is an archaic form connected to 皂 (zào, 'acorn') and related to 早 (zǎo, 'early'). Historically, it reflects an early usage of the term for 'acorn,' showing how Chinese characters borrow forms for phonetic or semantic reasons.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

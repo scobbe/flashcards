@@ -1,0 +1,31 @@
+{
+  "simplified": "丶",
+  "traditional": "丶",
+  "pinyin": "zhǔ",
+  "english": "dot",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a small fire on a torch",
+    "interpretation": "Originally represented a small flame, akin to the form seen on top of a torch. In modern usage, it has been simplified to denote a dot or point.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请在字母上加一个小点(請在字母上加一個小點)。",
+      "pinyin": "Qǐng zài zìmǔ shàng jiā yī gè xiǎo diǎn.",
+      "english": "Please add a small dot above the letter."
+    },
+    {
+      "chinese": "画图时要注意每个点的位置(畫圖時要注意每個點的位置)。",
+      "pinyin": "Huàtú shí yào zhùyì měi gè diǎn de wèizhì.",
+      "english": "When drawing, pay attention to the position of each dot."
+    },
+    {
+      "chinese": "这个符号是由几条线和一个点组成的(這個符號是由幾條線和一個點組成的)。",
+      "pinyin": "Zhège fúhào shì yóu jǐ tiáo xiàn hé yī gè diǎn zǔchéng de.",
+      "english": "This symbol is composed of several lines and a dot."
+    }
+  ]
+}

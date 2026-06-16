@@ -1,0 +1,44 @@
+{
+  "simplified": "舞",
+  "traditional": "舞",
+  "pinyin": "wǔ",
+  "english": "dance",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "無 (phonetic, 'dancing') + 舛 ('steps, feet in convergent direction') = movements of a dance -> 'dance'",
+    "interpretation": "The character 舞(wǔ, 'dance') combines the phonetic component 無 (wú, originally associated with dancing) with the semantic component 舛 (chuǎn, 'steps, feet in convergent direction'), illustrating the concept of dance as a coordinated movement of steps.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "無",
+      "trad": "無",
+      "pinyin": "wú",
+      "english": "dancing"
+    },
+    {
+      "char": "舛",
+      "trad": "舛",
+      "pinyin": "chuǎn",
+      "english": "steps, feet in convergent direction"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她喜欢跳舞(她喜歡跳舞)。",
+      "pinyin": "Tā xǐhuān tiàowǔ.",
+      "english": "She likes to dance."
+    },
+    {
+      "chinese": "今晚的舞会(今晚的舞會)很热闹(很熱鬧)。",
+      "pinyin": "Jīnwǎn de wǔhuì hěn rènào.",
+      "english": "Tonight's dance party is very lively."
+    },
+    {
+      "chinese": "他们正在学习传统舞蹈(他們正在學習傳統舞蹈)。",
+      "pinyin": "Tāmen zhèngzài xuéxí chuántǒng wǔdǎo.",
+      "english": "They are learning traditional dance."
+    }
+  ]
+}

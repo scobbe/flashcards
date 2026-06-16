@@ -5,24 +5,11 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "㡭 (jì) is an ancient form of 繼 (jì, \"continue\") -> semantic 糸(糸) (\"silk; thread\") + phonetic 㡭 (jì) = depict continuing a thread -> continuation",
-    "interpretation": "The character 㡭 was originally used for its phonetic value in the character 繼, where it contributed to the concept of continuing a thread, which aligns with the meaning of continuation.",
+    "description": "an ancient form of 繼(繼) (jì, 'continue')",
+    "interpretation": "㡭 is an ancient character form related to 繼(繼) (jì, 'continue'), but its specific composition as a character isn't detailed in available resources other than being cited as a historical variant for phonetic reference. The modern form 繼(繼) itself includes the semantic 糸(糸) (sī, 'silk; thread') plus a phonetic component, which here is represented by 㡭 in its ancient usage, reflecting a historical nuance rather than a full character evolution in common tradition.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "繼",
-      "trad": "繼",
-      "pinyin": "jì",
-      "english": "continue"
-    },
-    {
-      "char": "糸",
-      "trad": "糸",
-      "pinyin": "mì",
-      "english": "silk; thread"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

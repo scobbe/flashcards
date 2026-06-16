@@ -1,0 +1,44 @@
+{
+  "simplified": "隽",
+  "traditional": "雋",
+  "pinyin": "juàn",
+  "english": "outstanding",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "隹(隹) (zhuī, \"bird\") + 弓(弓) (gōng, \"bow\") = bow aiming at bird -> outstanding",
+    "interpretation": "The character combines 隹(隹) (zhuī, \"bird\") and 弓(弓) (gōng, \"bow\"), symbolizing the precision and skill required to hit a bird with an arrow, metaphorically implying excellence or outstanding ability.",
+    "simplification": "隽 is a simplified variant of 雋, retaining the phonetic element and dropping the bow radical for simplification."
+  },
+  "parts": [
+    {
+      "char": "隹",
+      "trad": "隹",
+      "pinyin": "zhuī",
+      "english": "bird"
+    },
+    {
+      "char": "弓",
+      "trad": "弓",
+      "pinyin": "gōng",
+      "english": "bow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的文笔非常隽永(他的文筆非常隽永)。",
+      "pinyin": "Tā de wénbǐ fēicháng juànyǒng.",
+      "english": "His writing is very outstanding."
+    },
+    {
+      "chinese": "这幅画的色彩非常隽美(這幅畫的色彩非常隽美)。",
+      "pinyin": "Zhè fú huà de sècǎi fēicháng juànměi.",
+      "english": "The colors of this painting are very outstanding."
+    },
+    {
+      "chinese": "在众多作品中，这部小说尤为隽秀(在眾多作品中，這部小說尤為隽秀)。",
+      "pinyin": "Zài zhòngduō zuòpǐn zhōng, zhè bù xiǎoshuō yóuwéi juànxiù.",
+      "english": "Among many works, this novel is particularly outstanding."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "simplified": "卪",
+  "traditional": "卪",
+  "pinyin": "",
+  "english": "phonetic component",
+  "etymology": {
+    "type": "variant form",
+    "description": "variant of 節(節) -> alternative graphic form",
+    "interpretation": "卪 is a historical variant of 節(節) (jié, \"node\"), which is a phono-semantic compound representing a bamboo node. As a variant, it shares the semantic association with bamboo but is not used independently in modern writing.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "節",
+      "trad": "節",
+      "pinyin": "jié",
+      "english": "node"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

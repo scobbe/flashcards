@@ -5,8 +5,8 @@
   "english": "\"stay\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 丣 (liǔ, \"phase of the moon\") + Semantic 田 (tián, \"field\") -> Indicating staying or remaining in a location, like a field",
-    "interpretation": "The character 畱 (liú, \"stay\") combines the phonetic component 丣 (liǔ, \"phase of the moon\") suggesting the pronunciation, with the semantic component 田 (tián, \"field\"), suggesting the meaning of staying connected to a location.",
+    "description": "phonetic 丣 (liǔ) + semantic 田 (\"field\") = stay or remain in a field",
+    "interpretation": "The character 畱 (liú, \"stay\") combines 丣 (liǔ) as the phonetic element with 田 (tián, \"field\") as the semantic component, suggesting the meaning of staying or remaining in a field. This composition emphasizes a sense of remaining stationary or persistent in a specific place.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "丣",
       "trad": "丣",
       "pinyin": "liǔ",
-      "english": "phase of the moon"
+      "english": "phonetic element"
     },
     {
       "char": "田",

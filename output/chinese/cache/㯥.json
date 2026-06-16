@@ -5,8 +5,8 @@
   "english": "ideogrammic compound",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") + 木(木) (mù, \"tree\") = two trees -> forest",
-    "interpretation": "The character 㯥 (cáo) combines two instances of 木(木) (mù, \"tree\") to represent the idea of a forest or a group of trees, suggesting multiplicity or abundance.",
+    "description": "木(木) (mù, \"tree\") + 考(考) (kǎo, \"examine\") = analyze wood -> distinction between aged trees",
+    "interpretation": "The character 㯥(cáo, \"analyze\") combines 木(木) (mù, \"tree\") to signify something related to trees with 考(考) (kǎo, \"examine\") to convey the idea of closely analyzing the condition of wood. It suggests a thought process of scrutinizing or caring for trees or wooden materials, typically distinguishing aged or examined wood.",
     "simplification": ""
   },
   "parts": [
@@ -15,6 +15,12 @@
       "trad": "木",
       "pinyin": "mù",
       "english": "tree"
+    },
+    {
+      "char": "考",
+      "trad": "考",
+      "pinyin": "kǎo",
+      "english": "examine"
     }
   ],
   "in_contemporary_usage": false,

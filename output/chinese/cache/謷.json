@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + 敖(敖) (áo) = sound of loud talking",
-    "interpretation": "The character 謷 combines 言(言) (yán, \"speech\"), indicating it relates to speech or talking, with 敖(敖) (áo), which acts as the phonetic component. The combination suggests the sound of loud talking or boasting.",
+    "description": "言(言) (yán, 'speech') + 敖(敖) (áo, 'proud') = speech related to pride or arrogance -> phonetic use of 敖(敖)",
+    "interpretation": "The character 謷(ao) combines speech with the phonetic component for 'pride,' signifying sounding bold or arrogant in speech. The character is primarily used for its phonetic properties.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "敖",
       "trad": "敖",
       "pinyin": "áo",
-      "english": "sound of loud talking"
+      "english": "proud"
     }
   ],
   "in_contemporary_usage": false,

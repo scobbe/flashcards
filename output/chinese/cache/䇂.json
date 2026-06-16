@@ -4,9 +4,9 @@
   "pinyin": "",
   "english": "sickle-like tool",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Original form of 辛(辛) (xīn, 'bitter') depicting a chisel -> horizontal stroke added to form final meaning",
-    "interpretation": "The original character 䇂 depicted a tool, specifically a chisel used for marking. Over time, its form was simplified to 辛(辛) (xīn, 'bitter'). The transformation included the addition of a horizontal stroke which is retained in 辛(辛).",
+    "type": "pictogram",
+    "description": "Depicts a tool shape -> used for marking -> evolved into 辛 (xīn, 'bitter')",
+    "interpretation": "䇂 originally depicted a sickle-like or chisel tool used to mark prisoners, indicating its historical function before evolving into 辛 (xīn, 'bitter'), which no longer retains this specific meaning. The transformation involved adding elements for strokes and symbolic representation.",
     "simplification": ""
   },
   "parts": [

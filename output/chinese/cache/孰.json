@@ -5,8 +5,8 @@
   "english": "cooked; ripe",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𦎫 (phonetic) + 丮 (semantic) -> corrupted into 享 (phonetic) + 丸 (semantic) -> 孰",
-    "interpretation": "The character 孰 originally combined the phonetic component 𦎫 with the semantic component 丮. Over time, these components transformed into 享 and 丸 respectively, leading to the current character form. This composition represents the character's meaning related to something processed or ripe.",
+    "description": "Phonetic 𦎫 (original) + Semantic 丮 (original) -> 𦎫 corrupted to 享, 丮 corrupted to 丸 -> Final form 孰",
+    "interpretation": "The character 孰 (shú, \"cooked; ripe\") is a phono-semantic compound where the phonetic part 𦎫 provided the sound and 丮 provided meaning. Over time, these components became corrupted in appearance, leading to the modern form with 享 and 丸.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "丸",
       "trad": "丸",
       "pinyin": "wán",
-      "english": "pill"
+      "english": "pill; ball"
     }
   ],
   "in_contemporary_usage": false,

@@ -4,9 +4,9 @@
   "pinyin": "yīn",
   "english": "to speak slowly",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 音(音) (yīn, \"sound\") = speaking with sound -> to speak slowly",
-    "interpretation": "The character 㕯 combines 口(口) (kǒu, \"mouth\"), indicating an action related to speech, with 音(音) (yīn, \"sound\") to suggest producing sound, hence denoting speaking slowly or deliberately.",
+    "type": "ideogrammic compound",
+    "description": "口(口) (kǒu, \"mouth\") + 壬(壬) (rén, \"ninth heavenly stem\") = mouth speaking slowly",
+    "interpretation": "The character 㕯 combines the element 口(口) (kǒu, \"mouth\") with 壬(壬) (rén, \"ninth heavenly stem\"), suggesting speech that is considered slow or deliberate. The use of these components signifies the control and modulation of speech.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "mouth"
     },
     {
-      "char": "音",
-      "trad": "音",
-      "pinyin": "yīn",
-      "english": "sound"
+      "char": "壬",
+      "trad": "壬",
+      "pinyin": "rén",
+      "english": "ninth heavenly stem"
     }
   ],
   "in_contemporary_usage": false,

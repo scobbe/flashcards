@@ -2,14 +2,21 @@
   "simplified": "匃",
   "traditional": "匃",
   "pinyin": "gài",
-  "english": "empty",
+  "english": "lack",
   "etymology": {
-    "type": "variant form",
-    "description": "Variant of 丐(丐) (gài, \"to beg\")",
-    "interpretation": "The character 匃(gài) is a variant form of 丐(丐) (gài, \"to beg\") and likely shares its etymological roots, relating to the concept of emptiness or deprivation, which aligns with the meaning of \"empty\".",
+    "type": "variant character",
+    "description": "Originally a variant form of 丐(丐) (gài, \"beggar\")",
+    "interpretation": "The character 匃 serves as an alternative form of 丐(丐) (gài, \"beggar\"), which depicts a person lacking resources, often in a context where help is sought from others.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "丐",
+      "trad": "丐",
+      "pinyin": "gài",
+      "english": "beggar"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

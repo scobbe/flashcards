@@ -5,8 +5,8 @@
   "english": "congee",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "䰜 (cauldron) + 米 (rice) = congee cooked in a cauldron -> 鬻 (congee)",
-    "interpretation": "The character 鬻 (yù, 'congee') represents the cooking of rice in a cauldron, depicted by the components 䰜 (cauldron) and 米 (rice), with the dual 弓 (depicting steam) illustrating the process of boiling. Though originally meaning 'congee,' 鬻 was later borrowed to represent 'selling,' separating it from 粥 (zhōu, 'congee'), a simplified form retaining the original culinary sense.",
+    "description": "䰜 (cauldron) + 米 (rice) = cauldron cooking rice -> congee",
+    "interpretation": "The character 鬻(yù, 'congee') combines a cauldron 䰜 (cauldron) with 米 (rice) to depict cooking congee, capturing the essential concept of rice cooked in a cauldron. The two 弓 (gōng, 'bow') represent the steam rising, completing the image of cooking. Initially, 鬻 was used for 'congee,' but later took on the phonetic value for 'to sell' through borrowing.",
     "simplification": ""
   },
   "parts": [
@@ -21,12 +21,6 @@
       "trad": "米",
       "pinyin": "mǐ",
       "english": "rice"
-    },
-    {
-      "char": "弓",
-      "trad": "弓",
-      "pinyin": "gōng",
-      "english": "bow; here: steam"
     }
   ],
   "in_contemporary_usage": false,

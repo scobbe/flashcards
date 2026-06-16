@@ -5,8 +5,8 @@
   "english": "soft (phonetic)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "聿(聿) (yù, \"writing brush\") + 月(月) (yuè, \"flesh; meat\") = phonetic element suggesting sound \"ruǎn\" -> final form 𦘒",
-    "interpretation": "The character 𦘒 combines 聿(聿) (yù, \"writing brush\") for its phonetic component, suggesting the sound \"ruǎn,\" with 月(月) (yuè, \"flesh; meat\") to possibly represent the notion of softness associated with flesh, aligning with the meaning of \"soft.\"",
+    "description": "Phonetic 聿(聿) (yù, 'writing brush') + semantic component 無(無) (wú, 'not') = sound marker for 'soft'",
+    "interpretation": "The character 𦘒 is a phono-semantic compound combining 聿(聿) (yù, 'writing brush') for its phonetic contribution with 無(無) (wú, 'not') providing a semantic element that loosely contributes to the idea of 'softness', although it functions primarily as a phonetic marker in this context.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "writing brush"
     },
     {
-      "char": "月",
-      "trad": "月",
-      "pinyin": "yuè",
-      "english": "flesh; meat"
+      "char": "無",
+      "trad": "無",
+      "pinyin": "wú",
+      "english": "not"
     }
   ],
   "in_contemporary_usage": false,

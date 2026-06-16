@@ -5,8 +5,8 @@
   "english": "halberd",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "戈(戈) (gē, \"halberd\") + 魁(魁) (kuí, \"chief\") = combination of weapon component with phonetic element -> halberd",
-    "interpretation": "The character 戣(kuí) combines the semantic component 戈(戈) meaning 'halberd' with the phonetic element 魁(魁), suggesting both the meaning and the pronunciation related to weapons.",
+    "description": "戈(戈) (gē, \"halberd\") + 魁(魁) (kuí, \"chief; leader\") = a type of halberd",
+    "interpretation": "The character 戣 combines the semantic component 戈(戈) (gē, \"halberd\") with the phonetic and possibly semantic influence of 魁(魁) (kuí, \"chief; leader\"), indicating a specialized type of halberd, perhaps suggesting one used by a leader or chief.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "魁",
       "trad": "魁",
       "pinyin": "kuí",
-      "english": "chief"
+      "english": "chief; leader"
     }
   ],
   "in_contemporary_usage": false,

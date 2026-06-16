@@ -5,8 +5,8 @@
   "english": "to pair",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 耒(耒) (lěi, 'tilling tool') + phonetic: 禺(禺) (yú, 'head of a provincial town') = paired working in the fields",
-    "interpretation": "The character 耦(耦) (ǒu, 'to pair') combines the semantic component 耒(耒) (lěi, 'tilling tool') with the phonetic component 禺(禺) (yú, 'head of a provincial town') to suggest the meaning of being paired, as two people working together in the fields.",
+    "description": "耒(耒) (lěi, \"tilling tool\") + 禺(禺) (yú, \"ape\") = paired working in the fields -> to pair",
+    "interpretation": "The character 耦(耦) combines the semantic component 耒(耒) (lěi, \"tilling tool\") signifying agriculture, with the phonetic component 禺(禺) (yú, \"ape\") to convey the concept of pairing, as in working together in the fields.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "禺",
       "trad": "禺",
       "pinyin": "yú",
-      "english": "head of a provincial town"
+      "english": "ape"
     }
   ],
   "in_contemporary_usage": false,

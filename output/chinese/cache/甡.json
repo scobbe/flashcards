@@ -5,8 +5,8 @@
   "english": "broom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "生(生) (shēng, \"life\") + 屯(屯) (tún, \"barracks\") = phonetic and semantic elements combined",
-    "interpretation": "The character 甡 uses 生(生) (shēng, \"life\") for its phonetic contribution and 屯(屯) (tún, \"barracks\") serves as the semantic indicator, suggesting something associated with domestic life or maintenance, such as a broom.",
+    "description": "Semantic: 生(生) (shēng, \"life\") + Phonetic: 生(生) (shēng) duplicated for sound",
+    "interpretation": "The character 甡(shēn) uses the duplication of 生(生) (shēng, \"life\") to emphasize or replicate the phonetic sound. This structure is designed to convey the specific pronunciation rather than a literal meaning from the characters, as such configurations often do when components are repeated.",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "生",
       "pinyin": "shēng",
       "english": "life"
-    },
-    {
-      "char": "屯",
-      "trad": "屯",
-      "pinyin": "tún",
-      "english": "barracks"
     }
   ],
   "in_contemporary_usage": false,

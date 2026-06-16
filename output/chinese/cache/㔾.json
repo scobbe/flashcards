@@ -4,9 +4,9 @@
   "pinyin": "jié",
   "english": "joint",
   "etymology": {
-    "type": "variant form",
-    "description": "㔾 is a variant form of 節 (節) (jié, \"joint\") -> Phono-semantic compound: bamboo ⺮ (\"bamboo\") + phonetic 即 (ji, \"approach\")",
-    "interpretation": "㔾 itself does not provide a distinct etymological structure, as it is considered a variant of 節, which conveys a segment or joint of bamboo due to the combination of its phonetic and semantic components.",
+    "type": "variant",
+    "description": "Variant form of 節(節) (jié, \"joint\")",
+    "interpretation": "The character 㔾 is a variant of 節(節) (jié, \"joint\"), which originally signifies a 'node' of bamboo, a crucial segment or boundary in the context of bamboo structure.",
     "simplification": ""
   },
   "parts": [
@@ -15,18 +15,6 @@
       "trad": "節",
       "pinyin": "jié",
       "english": "joint"
-    },
-    {
-      "char": "⺮",
-      "trad": "⺮",
-      "pinyin": "zhú",
-      "english": "bamboo"
-    },
-    {
-      "char": "即",
-      "trad": "即",
-      "pinyin": "jí",
-      "english": "approach"
     }
   ],
   "in_contemporary_usage": false,

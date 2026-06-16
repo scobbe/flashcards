@@ -5,8 +5,8 @@
   "english": "not in the wine",
   "etymology": {
     "type": "compound word",
-    "description": "不(不) (bù, \"not\") + 在(在) (zài, \"in; at\") + 酒(酒) (jiǔ, \"wine; alcohol\")",
-    "interpretation": "The phrase 不在酒 (bù zài jiǔ, \"not in the wine\") suggests that the essence or true focus of something lies outside of the literal consumption of wine or alcohol. This can imply a deeper meaning or intent beyond what is immediately apparent.",
+    "description": "不(不) (bù, \"not\") + 在(在) (zài, \"in\") + 酒(酒) (jiǔ, \"wine; alcohol\") = \"not in the wine,\" a saying meaning that the true intention or meaning is not in the literal or obvious interpretation but lies elsewhere, often in the context of social drinking or gatherings.",
+    "interpretation": "In the phrase 不在酒(不在酒) (bù zài jiǔ, \"not in the wine\"), the idea comes from the context in which the literal element is secondary to the underlying interaction or message, often used in social settings to imply that the importance is in the conversation or relationship rather than just the act of drinking.",
     "simplification": ""
   },
   "parts": [
@@ -14,21 +14,37 @@
       "char": "不",
       "trad": "不",
       "pinyin": "bù",
-      "english": "not; no"
+      "english": "not; no; un-"
     },
     {
       "char": "在",
       "trad": "在",
       "pinyin": "zài",
-      "english": "in; at; on"
+      "english": "in; at; on; exist"
     },
     {
       "char": "酒",
       "trad": "酒",
       "pinyin": "jiǔ",
-      "english": "wine; alcohol"
+      "english": "wine; liquor; alcohol"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "问题不在酒(問題不在酒)。",
+      "pinyin": "Wèntí bù zài jiǔ.",
+      "english": "The issue is not in the wine."
+    },
+    {
+      "chinese": "她的心情不在酒，而在于朋友的陪伴(她的心情不在酒，而在於朋友的陪伴)。",
+      "pinyin": "Tā de xīnqíng bù zài jiǔ, ér zài yú péngyǒu de péibàn.",
+      "english": "Her mood is not because of the wine, but due to the companionship of friends."
+    },
+    {
+      "chinese": "我们聚会的乐趣不在酒，而在大家的笑声(我們聚會的樂趣不在酒，而在大家的笑聲)。",
+      "pinyin": "Wǒmen jùhuì de lèqù bù zài jiǔ, ér zài dàjiā de xiàoshēng.",
+      "english": "The fun of our gathering is not in the wine, but in everyone's laughter."
+    }
+  ]
 }

@@ -4,9 +4,9 @@
   "pinyin": "yín",
   "english": "phonetic",
   "etymology": {
-    "type": "pictogram",
+    "type": "phono-semantic compound",
     "description": "Duplication of 斤(斤) (jīn, \"axe\")",
-    "interpretation": "The character 斦(yín) is a pictogram formed by duplicating 斤(斤) (jīn, \"axe\") to enhance its phonetic representation. This duplication was created for phonetic purposes rather than to convey a new meaning. It points to the character's usage as a phonetic element in compound characters.",
+    "interpretation": "The character 斦(yín, \"phonetic\") is a repetition of 斤, which depicts an axe. It is primarily phonetic in function, with its meaning influenced by phonetic duplication rather than distinct semantic components.",
     "simplification": ""
   },
   "parts": [

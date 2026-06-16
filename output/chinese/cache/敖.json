@@ -2,20 +2,14 @@
   "simplified": "敖",
   "traditional": "敖",
   "pinyin": "áo",
-  "english": "sound of loud talking",
+  "english": "proud",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Originally 𫠤, a pictogram: a person 人 with a headdress -> stylized as 夭 -> 攴 added for authority -> transformed to 𢾍 -> person under headdress stylized as 方",
-    "interpretation": "The character 敖(敖) (áo, \"sound of loud talking\") evolved through a series of pictographic and phono-semantic transformations, where the headdress and authority connotations were emphasized with the addition of 攴(攴) (pū, \"rap\") to the stylized person form, conveying an authoritative nature associated with loud talking.",
+    "description": "𫠤 (depicting a person with a headdress) -> person stylized as 夭 (young man walking) + 攴 (authority) added -> transformed into 𢾍 -> further stylized to incorporate 方",
+    "interpretation": "The character 敖(敖) (áo, \"proud\") evolved from a pictogram depicting a person with a headdress, which over time incorporated elements suggesting movement and authority. The final form integrates these elements to convey a sense of pride or authority in one's bearing.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
-    },
     {
       "char": "夭",
       "trad": "夭",
@@ -26,7 +20,7 @@
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "rap"
+      "english": "authority"
     },
     {
       "char": "方",

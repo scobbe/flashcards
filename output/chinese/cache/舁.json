@@ -5,22 +5,16 @@
   "english": "both hands of two people",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "𦥑 (pair of hands) + 廾 (pair of hands) = both hands lifting -> final form 舁",
-    "interpretation": "The character 舁(yú, \"both hands of two people\") depicts the coordinated effort of two pairs of hands working together, which visually represents the concept of lifting or carrying something jointly.",
+    "description": "𦥑 (a pair of hands) + 廾(廾) (gǒng, \"a pair of hands\") = both hands of two people -> lifting together",
+    "interpretation": "The character 舁(yú, \"both hands of two people\") represents two pairs of hands working together for carrying or lifting, symbolizing cooperation or combined effort.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "𦥑",
-      "trad": "𦥑",
-      "pinyin": "jiù",
-      "english": "pair of hands"
-    },
-    {
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
-      "english": "pair of hands"
+      "english": "a pair of hands"
     }
   ],
   "in_contemporary_usage": false,

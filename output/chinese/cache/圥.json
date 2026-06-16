@@ -2,21 +2,14 @@
   "simplified": "圥",
   "traditional": "圥",
   "pinyin": "lù",
-  "english": "phonetic component",
+  "english": "phonetic",
   "etymology": {
-    "type": "variant",
-    "description": "Variant form derived from 𡴆 (lù, \"phonetic component\")",
-    "interpretation": "The character 圥 is a variant of the rarely used character 𡴆, which serves as a phonetic component. Its role as a variant suggests it may appear in certain contexts merely as an alternative form, particularly in phonetic transcription.",
+    "type": "variant form",
+    "description": "圥 is a variant form of 𡴆",
+    "interpretation": "圥 is primarily a variant of another character, 𡴆, reflecting changes or simplifications that occurred naturally or intentionally over time.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "𡴆",
-      "trad": "𡴆",
-      "pinyin": "lù",
-      "english": "phonetic component"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

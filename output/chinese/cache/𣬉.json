@@ -5,22 +5,16 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "髟(髟) (biāo, 'hair') + 加(加) (jiā, 'add') = combines with 加 as phonetic element",
-    "interpretation": "The character 𣬉 is composed of the component 髟(髟) (biāo, 'hair') which suggests a relation to hair or a similar idea, and 加(加) (jiā, 'add') functioning as the phonetic component. This indicates 𣬉 is used for its sound, likely in a word related to hair.",
+    "description": "Phonetic: 乍(乍) (zhà, \"suddenly\") - Sound-only role",
+    "interpretation": "The character 𣬉 uses 乍(乍) (zhà, \"suddenly\") solely for its phonetic properties without adding semantic meaning.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "髟",
-      "trad": "髟",
-      "pinyin": "biāo",
-      "english": "hair"
-    },
-    {
-      "char": "加",
-      "trad": "加",
-      "pinyin": "jiā",
-      "english": "add"
+      "char": "乍",
+      "trad": "乍",
+      "pinyin": "zhà",
+      "english": "suddenly"
     }
   ],
   "in_contemporary_usage": false,

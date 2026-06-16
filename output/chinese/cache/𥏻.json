@@ -5,22 +5,22 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, \"grain\") + 弟(弟) (dì, \"younger brother\") = phonetic representation using '弟'",
-    "interpretation": "The character 𥏻 combines the grain radical 禾(禾) (hé, \"grain\") for semantic purposes, indicating an agricultural context, with 弟(弟) (dì, \"younger brother\") as a phonetic component. It is a rare character that may have been used historically in specialized contexts.",
+    "description": "艹(艹) (cǎo, 'grass') + 喬(喬) (qiáo, 'tall') = phonetic component derived from 喬, with semantic emphasis on plant or vegetation",
+    "interpretation": "The character 𥏻 combines the semantic component 艹(艹) (cǎo, 'grass') indicating a relationship to plants or herbal medicines with the phonetic component derived from 喬(喬) (qiáo, 'tall'), suggesting a pronunciation. This combination suggests that the original usage was related to tall grasses or vegetation, with the phonetic component guiding pronunciation.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "禾",
-      "trad": "禾",
-      "pinyin": "hé",
-      "english": "grain"
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass"
     },
     {
-      "char": "弟",
-      "trad": "弟",
-      "pinyin": "dì",
-      "english": "younger brother"
+      "char": "喬",
+      "trad": "喬",
+      "pinyin": "qiáo",
+      "english": "tall"
     }
   ],
   "in_contemporary_usage": false,

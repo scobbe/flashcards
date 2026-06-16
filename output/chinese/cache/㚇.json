@@ -5,22 +5,22 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "女(女) (nǚ, \"woman\") + 宗(宗) (zōng) = phonetic component",
-    "interpretation": "The character 㚇 is composed of 女(女) (nǚ, \"woman\") providing the semantic element, combined with 宗(宗) (zōng), which contributes the phonetic component. It primarily serves as a phonetic element in other characters and doesn't have a standard meaning by itself.",
+    "description": "禾(禾) (hé, 'grain') + 工(工) (gōng, 'work') = phonetic 'zōng' -> phonetic component",
+    "interpretation": "The character 㚇 combines 禾(禾) ('grain') with 工(工) ('work') to form a phonetic component 'zōng'. This implies a combination of agriculture and craftsmanship, though the emphasis here is phonetic rather than semantic.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "女",
-      "trad": "女",
-      "pinyin": "nǚ",
-      "english": "woman"
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
     },
     {
-      "char": "宗",
-      "trad": "宗",
-      "pinyin": "zōng",
-      "english": "ancestral"
+      "char": "工",
+      "trad": "工",
+      "pinyin": "gōng",
+      "english": "work"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 匃 (gài, \"empty\") + semantic 曰 (yuē, \"say\") = articulated question -> question word",
-    "interpretation": "曷(hē) combines 匃(gài) as the phonetic component, which means \"empty,\" and 曰(yuē) \"say,\" suggesting an enunciation or expression involving questioning. This structure is used to form a question word.",
+    "description": "匃(匃) (gài, \"lack\") + 曰(日) (yuē, \"say\") = phonetic 匃 with semantic meaning of 曰",
+    "interpretation": "The character 曷(hē) combines 匃(匃) (gài, \"lack\") as the phonetic component with 曰(日) (yuē, \"say\") as the semantic element, suggesting an association with speech or expression.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "匃",
       "trad": "匃",
       "pinyin": "gài",
-      "english": "empty"
+      "english": "lack"
     },
     {
       "char": "曰",

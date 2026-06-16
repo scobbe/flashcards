@@ -1,12 +1,12 @@
 {
   "simplified": "𡍬",
   "traditional": "𡍬",
-  "pinyin": "mù",
+  "pinyin": "mlu",
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 圥 (ruɡ) + Semantic 囧 ('eye') -> phonetic component",
-    "interpretation": "The character 𡍬 combines the phonetic component 圥 (ruɡ) with the semantic component 囧, which means 'eye', to create a phono-semantic compound used as a phonetic element in other characters.",
+    "description": "Phonetic: 圥 (OC *ruɡ) + Semantic: 囧 ('eye') -> phonetic component",
+    "interpretation": "The character 𡍬 combines the phonetic component 圥, suggesting a sound similar to 'ru', with the semantic component 囧, which depicts an 'eye'. This character primarily serves as a phonetic element.",
     "simplification": ""
   },
   "parts": [

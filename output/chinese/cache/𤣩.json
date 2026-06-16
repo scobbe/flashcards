@@ -4,9 +4,9 @@
   "pinyin": "yù",
   "english": "jade",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "𤣩 as a variant of 玉(玉) (yù, \"jade\")-> used phonetically for alternative sounds or context.",
-    "interpretation": "The character 𤣩 serves as a rare variant of 玉(玉) (yù, \"jade\"), which itself originates from a pictogram depicting a ritual jade totem or three jade pieces together.",
+    "type": "pictogram",
+    "description": "Depicts a picture of a cong (琮), a sort of ritual jade totem -> variant form of 玉(玉) (yù, 'jade')",
+    "interpretation": "This character is an ancient representation of a cong, a ritual object made of jade, which helps to distinguish it from similar characters like 王(王) (wáng, 'king'). It visually signifies jade, a valuable and culturally significant material in ancient China.",
     "simplification": ""
   },
   "parts": [

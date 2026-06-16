@@ -5,22 +5,16 @@
   "english": "to surround",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "之(之) (zhī, \"footprint\") inverted -> 㞢(㞢) (zhī, \"footprint\") inverted -> 帀(帀) (zā, \"to surround\")",
-    "interpretation": "The character 帀(zā, \"to surround\") likely depicts an inverted 之(之) (zhī, \"footprint\"), symbolizing movement or placement, which is indicative of encircling or surrounding an area. The concept of 'to surround' is derived from the footprint movement implied by its components.",
+    "description": "Inverted 㞢 (originally depicting a footstep) -> 帀 (represents surrounding)",
+    "interpretation": "The character 帀 depicts an inverted form of the character 㞢, associated with footsteps, which aligns with the meaning of 'to surround' as it visually suggests encircling. This connection emphasizes the action of enclosing or surrounding a space as footsteps might mark a boundary.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "之",
-      "trad": "之",
-      "pinyin": "zhī",
-      "english": "footprint"
-    },
-    {
       "char": "㞢",
       "trad": "㞢",
       "pinyin": "zhī",
-      "english": "footprint"
+      "english": "footstep"
     }
   ],
   "in_contemporary_usage": false,

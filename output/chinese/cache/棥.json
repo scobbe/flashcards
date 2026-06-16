@@ -5,8 +5,8 @@
   "english": "unknown",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phono-semantic compound: phonetic 棥 (unknown phonetic function now) + semantic 𠬜 = variant of 樊",
-    "interpretation": "棥 is a variant of 樊, which combines the phonetic component 棥 with the semantic component 𠬜, but its specific usage and meaning are unclear. Its components suggest it was likely used for phonetic reasons.",
+    "description": "Phonetic 棥 with semantic component (𠬜) -> variant of 樊(樊) (fán, \"fence\")",
+    "interpretation": "棥 is a variant form of 樊(樊) (fán, \"fence\"), using the same phonetic element but differing in its semantic component. It combines the phonetic element 棥, possibly indicating a similar sound, with semantic hints from 𠬜, whose exact meaning in this context is not clearly defined.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "樊",
       "trad": "樊",
       "pinyin": "fán",
-      "english": "bird cage"
+      "english": "fence"
     },
     {
       "char": "𠬜",

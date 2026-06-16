@@ -5,8 +5,8 @@
   "english": "dry",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + 堇(堇) (jǐn, \"man burned alive\") = sun + heat from burning -> dry due to intense heat",
-    "interpretation": "The character 暵(xiàn, \"dry\") uses the sun 日(日) to denote the source of dryness and heat and combines it with the phonetic 堇(堇), which symbolizes extreme heat or burning, thereby emphasizing the concept of dryness resulting from intense heat or sunlight.",
+    "description": "日(日) (rì, \"sun\") + 堇(堇) (jǐn, \"burning\") = sun + burning -> dry",
+    "interpretation": "The character 暵(xiàn, \"dry\") combines the semantic element 日(日) (rì, \"sun\") to indicate light or heat, with the phonetic component 堇(堇) (jǐn, \"burning\"), which signifies intense heat as seen in its depiction of fire. This suggests an environment parched by the sun.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "堇",
       "trad": "堇",
       "pinyin": "jǐn",
-      "english": "man burned alive"
+      "english": "burning"
     }
   ],
   "in_contemporary_usage": false,

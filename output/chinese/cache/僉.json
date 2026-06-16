@@ -5,8 +5,8 @@
   "english": "all",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "亼 (assembly) + 兄 (elder brother) repeated -> people responding to a call together; then stylized as 亼 + 吅 (echoing) + 从 (following)",
-    "interpretation": "The character 僉 originally depicted people collectively agreeing or responding together, symbolized by 亼 (assembly) and the repeated 兄 (elder brother) to signify unanimity. Over time, it incorporated 吅 (echoing) and 从 (following) to emphasize the aspect of unanimous agreement or collective response.",
+    "description": "亼(亼) (jí, 'assemble') + 兄(兄) (xiōng, 'elder brother') again + 吅(吅) (xuān, 'call out') = people answering a call together -> all together",
+    "interpretation": "The character 僉(qiān, 'all') visually represents multiple people coming together in response to a call, symbolizing unanimity or collective presence. The components emphasize ideas of meeting and speaking in unison.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "亼",
       "trad": "亼",
       "pinyin": "jí",
-      "english": "assembly"
+      "english": "assemble"
     },
     {
       "char": "兄",
@@ -26,13 +26,7 @@
       "char": "吅",
       "trad": "吅",
       "pinyin": "xuān",
-      "english": "echoing"
-    },
-    {
-      "char": "从",
-      "trad": "从",
-      "pinyin": "cóng",
-      "english": "following"
+      "english": "call out"
     }
   ],
   "in_contemporary_usage": false,

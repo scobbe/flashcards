@@ -5,8 +5,8 @@
   "english": "wife of a younger brother",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "女(女) (nǚ, \"woman\") + 里(里) (lǐ) = kinship by marriage involving a woman -> wife of a younger brother",
-    "interpretation": "The character 娌(lǐ) combines 女(女) (nǚ, \"woman\") as semantic, indicating gender or marital connection, with 里(里) (lǐ) as phonetic, forming a term related to familial relationships involving a woman.",
+    "description": "女(女) (nǚ, \"woman\") + 里(里) (lǐ, \"village\") = woman related through marriage by living in the same village (wife of a younger brother)",
+    "interpretation": "The character 娌 combines 女(女) (nǚ, \"woman\"), representing the female component related to marriage, with the phonetic 里(里) (lǐ, \"village\"), suggesting community or familial connection, to convey the idea of a woman who is a sister-in-law.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "里",
       "trad": "里",
       "pinyin": "lǐ",
-      "english": "village; mile"
+      "english": "village"
     }
   ],
   "in_contemporary_usage": false,

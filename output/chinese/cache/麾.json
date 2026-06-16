@@ -4,23 +4,23 @@
   "pinyin": "huī",
   "english": "military signal",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 麻(麻) (má, \"hemp\") + phonetic: 虎(虎) (hǔ, \"tiger\") -> combined to convey a flag or banner used as a military signal",
-    "interpretation": "The character 麾(麾) (huī, \"military signal\") combines 麻(麻) (má, \"hemp\"), suggesting a fibrous material like that used for flags, with 虎(虎) (hǔ, \"tiger\"), which is used for phonetic representation. The combination reflects the use of a distinct and visible signal in military contexts.",
+    "type": "ideogrammic compound",
+    "description": "莫(莫) (mò, \"sunset/darkness\") + 羽(羽) (yǔ, \"feather\") = decorated flag around which troops gather -> military signal",
+    "interpretation": "The character 麾(麾) (huī, \"military signal\") combines 莫(莫) (mò, \"sunset/darkness\") and 羽(羽) (yǔ, \"feather\") to depict flags adorned with feathers, commonly used as rallying and communication tools for troops in historical battles.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "麻",
-      "trad": "麻",
-      "pinyin": "má",
-      "english": "hemp"
+      "char": "莫",
+      "trad": "莫",
+      "pinyin": "mò",
+      "english": "sunset/darkness"
     },
     {
-      "char": "虎",
-      "trad": "虎",
-      "pinyin": "hǔ",
-      "english": "tiger"
+      "char": "羽",
+      "trad": "羽",
+      "pinyin": "yǔ",
+      "english": "feather"
     }
   ],
   "in_contemporary_usage": false,

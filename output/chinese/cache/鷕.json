@@ -5,8 +5,8 @@
   "english": "cry of a bird",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "隹(隹) (zhuī, \"short-tailed bird\") -> 唯(唯) (wéi, \"only\") + 口(口) (kǒu, \"mouth\") added -> 鳥(鳥) (niǎo, \"bird\") added as semantic -> 鷕",
-    "interpretation": "The character 鷕 (yǎo, \"cry of a bird\") combines the phonetic element 唯(唯) (wéi, \"only\") with the semantic component 鳥(鳥) (niǎo, \"bird\") to indicate the sound associated with a bird's cry.",
+    "description": "唯(唯) (wéi, \"only\") phonetic + 鳥(鳥) (niǎo, \"bird\") semantic = bird making a sound -> cry of a bird",
+    "interpretation": "The character combines 唯(唯) (wéi, \"only\"), which provides the phonetic component, with 鳥(鳥) (niǎo, \"bird\"), which indicates the semantic field relating to birds. This suggests a specific sound associated with birds, resulting in the meaning \"cry of a bird.\"",
     "simplification": ""
   },
   "parts": [

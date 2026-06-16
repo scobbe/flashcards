@@ -1,12 +1,12 @@
 {
   "simplified": "𠬝",
-  "traditional": "𠬝",
+  "traditional": "服",
   "pinyin": "fú",
   "english": "to serve",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𠬝(𠬝) (fú, \"to subdue\") original pictogram -> 凡(凡) (fán, \"tray\") added as semantic -> phono-semantic compound for 'to serve'",
-    "interpretation": "The character 𠬝 initially depicted a concept related to subduing or serving. It became part of a phono-semantic compound with the addition of 凡(凡) to give the meaning of 'to serve'. This illustrates the evolution of its meaning through a combination of sound and related concepts.",
+    "description": "𠬝(𠬝) (fú, \"to subdue\") -> 凡(凡) (fán, \"tray\") added as semantic element -> corrupted into 舟(舟) and subsequently 月(月) -> final form 服",
+    "interpretation": "The character 服(服) (fú, \"to serve\") originated with the pictogram 𠬝(𠬝) representing 'to subdue.' The semantic component 凡(凡) was added to convey the idea of serving or submitting, which later transformed through 舟(舟) and 月(月) in the character's evolution.",
     "simplification": ""
   },
   "parts": [
@@ -15,8 +15,36 @@
       "trad": "凡",
       "pinyin": "fán",
       "english": "tray"
+    },
+    {
+      "char": "舟",
+      "trad": "舟",
+      "pinyin": "zhōu",
+      "english": "boat"
+    },
+    {
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "moon"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每天都在餐厅里服务(他每天都在餐廳裏服務)。",
+      "pinyin": "Tā měitiān dōu zài cāntīng lǐ fúwù.",
+      "english": "He serves in the restaurant every day."
+    },
+    {
+      "chinese": "我对他的态度很佩服(我對他的態度很佩服)。",
+      "pinyin": "Wǒ duì tā de tàidù hěn pèifú.",
+      "english": "I admire his attitude."
+    },
+    {
+      "chinese": "她在那里一直默默地为大家服务(她在那裡一直默默地為大家服務)。",
+      "pinyin": "Tā zài nàlǐ yīzhí mòmò de wèi dàjiā fúwù.",
+      "english": "She has been quietly serving everyone there."
+    }
+  ]
 }

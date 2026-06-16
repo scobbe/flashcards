@@ -4,9 +4,9 @@
   "pinyin": "jùn",
   "english": "storing grains",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 囗(囗) (wéi, \"enclosure\") + phonetic: 君(君) (jūn, \"lord\") = enclosed space for storing grains",
-    "interpretation": "The character 囷(jùn, \"storing grains\") consists of the enclosure 囗(囗) (wéi, \"enclosure\"), which indicates a confined space, and 君(君) (jūn, \"lord\"), suggesting phonetic value. This combination conveys the concept of a specialized storage area for grains.",
+    "type": "ideogrammic compound",
+    "description": "囗(囗) (wéi, \"enclosure\") + 禾(禾) (hé, \"grain\") = enclosure for storing grains -> storing grains",
+    "interpretation": "The character 囷(jùn) signifies a place for storing grains by combining 囗(囗) (wéi, \"enclosure\") and 禾(禾) (hé, \"grain\"), representing a protective structure around the grain.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "enclosure"
     },
     {
-      "char": "君",
-      "trad": "君",
-      "pinyin": "jūn",
-      "english": "lord"
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
     }
   ],
   "in_contemporary_usage": false,

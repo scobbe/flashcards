@@ -4,17 +4,23 @@
   "pinyin": "shì",
   "english": "generation",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "十(十) (shí, \"ten\") repeated three times = thirty",
-    "interpretation": "The character 丗 (shì) symbolizes the number thirty by visually representing the concept of 'ten' (十) repeated three times, indicating a generation as a span of thirty years.",
+    "type": "variant form",
+    "description": "丗 is a variant form of 卅 (十, \"10\") repeated three times -> represents thirty",
+    "interpretation": "The character 丗 is a variant of 卅, symbolically representing the number thirty by repeating 十 \"ten\" three times. This highlights how ancient numeric characters often used repetition to denote multiplication.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "卅",
+      "trad": "卅",
+      "pinyin": "sà",
+      "english": "thirty"
+    },
+    {
       "char": "十",
       "trad": "十",
       "pinyin": "shí",
-      "english": "ten"
+      "english": "10"
     }
   ],
   "in_contemporary_usage": false,

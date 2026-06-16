@@ -4,12 +4,19 @@
   "pinyin": "něi",
   "english": "a variant related to 'beard'",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a stylized form of a face or head with a beard",
-    "interpretation": "耏(něi) originally represented a stylized depiction related to facial features, possibly indicating the beard or hairy aspects of a face. Its pictographic nature is preserved without clear decomposition into separate components.",
+    "type": "phono-semantic compound",
+    "description": "而(而) (ér, 'and') as phonetic component → 而(耳) stylization → final form 耏",
+    "interpretation": "The character 耏 uses the 而(而) (ér, 'and') component for its phonetic value, while the stylization into 耏 reflects its specific usage related to 'beard'. The character is not commonly used and serves mainly as a variant form.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "而",
+      "trad": "而",
+      "pinyin": "ér",
+      "english": "and"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

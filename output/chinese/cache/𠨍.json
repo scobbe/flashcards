@@ -5,11 +5,18 @@
   "english": "two people facing each other",
   "etymology": {
     "type": "variant form",
-    "description": "𠨍 is a variant form of 卯(卯) (mǎo, \"4th earthly branch\") depicting the fourth stage in the Chinese zodiac related to the rabbit hour, but specifically featuring two people facing each other.",
-    "interpretation": "The character 𠨍 as a variant form reflects an alternative depiction of the concept associated with the 4th earthly branch in the Chinese zodiac, illustrating a social interaction through the imagery of two people facing each other.",
+    "description": "Variant form of 卯(卯) (mǎo, \"fourth earthly branch\")",
+    "interpretation": "𠨍 is a variant form of 卯(卯) (mǎo, \"fourth earthly branch\"), traditionally depicting two interlocking components associated with the fourth earthly branch in the Chinese zodiac cycle.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "卯",
+      "trad": "卯",
+      "pinyin": "mǎo",
+      "english": "fourth earthly branch"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

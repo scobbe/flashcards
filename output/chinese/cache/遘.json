@@ -5,14 +5,14 @@
   "english": "to meet; to encounter",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "辵(辵) (chuò, \"walk; movement\") + 冓(冓) (gòu) = semantic movement + phonetic component -> to meet; to encounter",
-    "interpretation": "The character 遘(gòu) combines the semantic component 辵(辵) (chuò, \"walk; movement\") indicating movement or travel, with the phonetic component 冓(冓) (gòu), suggesting the action of encountering or meeting while moving.",
+    "description": "辶(辵) (walk; movement) + 冓(冓) (phonetically related) = to meet; to encounter",
+    "interpretation": "In 遘(遘) (gòu, 'to meet; to encounter'), the character combines the semantic component 辶(辵) (chuò, 'walk; movement'), suggesting an action or motion, with 冓(冓) (gòu, phonetically related), depicting the phonetic element. This combination indicates the concept of encountering or meeting in the sense of coming across something while moving.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "辵",
-      "trad": "辵",
+      "trad": "辶",
       "pinyin": "chuò",
       "english": "walk; movement"
     },
@@ -20,7 +20,7 @@
       "char": "冓",
       "trad": "冓",
       "pinyin": "gòu",
-      "english": "phonetic component"
+      "english": "phonetically related"
     }
   ],
   "in_contemporary_usage": false,

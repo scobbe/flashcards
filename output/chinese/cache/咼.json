@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 冎 (guā, \"bone\") + semantic: 口 (kǒu, \"mouth\") -> phonetic component",
-    "interpretation": "The character 咼(咼) (guō) is a phono-semantic compound where 冎(冎) (guā) provides the sound, and 口(口) (kǒu, \"mouth\") contributes the idea, often used as a phonetic element in other characters.",
+    "description": "phonetic 冎 + semantic 口 -> 咼",
+    "interpretation": "The character 咼(咼) (guō) combines the phonetic component 冎(冎) with the semantic component 口(口) (kǒu, \"mouth\") to form a sound-related character, where 冎 provides the sound value while 口 indicates a connection to speech or the mouth. The character functions primarily as a phonetic element in more complex characters.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "冎",
       "trad": "冎",
       "pinyin": "guā",
-      "english": "bone"
+      "english": "phonetic component"
     },
     {
       "char": "口",

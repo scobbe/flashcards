@@ -4,19 +4,12 @@
   "pinyin": "yīn",
   "english": "phonetic",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Depicts an ancient form of 陰(陰) (yīn, \"shade\") -> used as phonetic component",
-    "interpretation": "侌(侌) (yīn, \"phonetic\") is an ancient form of 陰(陰) (yīn, \"shade\") and serves as the phonetic component in the character 陰(陰), which combines the meaning of the semantic 阜(阜) (fù, \"mound\") with the phonetic value of 侌(侌). It represents the phonetic value 'yīn' but does not have a widely recognized standalone meaning.",
+    "type": "ancient form",
+    "description": "侌 (ancient form) -> 陰 (陰) (yīn, \"shade; hidden\")",
+    "interpretation": "侌 is an ancient form of the character 陰(陰) (yīn, \"shade; hidden\"), primarily serving as the phonetic component in the development of later forms.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "陰",
-      "trad": "陰",
-      "pinyin": "yīn",
-      "english": "shade"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -1,0 +1,38 @@
+{
+  "simplified": "無",
+  "traditional": "無",
+  "pinyin": "wú",
+  "english": "not",
+  "etymology": {
+    "type": "pictogram",
+    "description": "A person dancing with ox tails -> borrowed for 'have no'",
+    "interpretation": "The character 無(wú, 'not') originally depicted a person holding ox tails, symbolizing a rain dance. It was borrowed to represent the abstract concept of absence or negation, while 舞(wǔ, 'dance') retained the original dancing meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舞",
+      "trad": "舞",
+      "pinyin": "wǔ",
+      "english": "dance"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他无话可说(他無話可說)。",
+      "pinyin": "Tā wú huà kě shuō.",
+      "english": "He had nothing to say."
+    },
+    {
+      "chinese": "这个地方无危险(這個地方無危險)。",
+      "pinyin": "Zhège dìfāng wú wēixiǎn.",
+      "english": "This place is not dangerous."
+    },
+    {
+      "chinese": "对于他的批评，我无可奉告(對於他的批評，我無可奉告)。",
+      "pinyin": "Duìyú tā de pīpíng, wǒ wú kě fèng gào.",
+      "english": "Regarding his criticism, I have no comment."
+    }
+  ]
+}

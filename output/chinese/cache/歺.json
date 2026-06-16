@@ -5,11 +5,40 @@
   "english": "variant form of 歹",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts human remains. The top component of 餐(餐) (cān, \"meal\") still preserves the intermediate variant 歺.",
-    "interpretation": "歺 is a variant character representing human remains, which correlates to its historical depiction in characters like 歹(歹) (dǎi, \"bad\") and still appears in some character compositions like 餐(餐) (cān, \"meal\"). As a pictogram, it visually conveys the concept without additional semantic or phonetic components.",
+    "description": "Depicts human remains -> variant form of 歹(歹) (dǎi, \"bad; death\")",
+    "interpretation": "The character 歺 evolved as a variant of the character 歹(歹) (dǎi, \"bad; death\"), depicting human remains. The top component in characters like 餐(餐) (cān, \"meal\") historically retained the intermediate form of 歺, showcasing its connection to the idea of decay or death.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "parts": [
+    {
+      "char": "歹",
+      "trad": "歹",
+      "pinyin": "dǎi",
+      "english": "bad; death"
+    },
+    {
+      "char": "餐",
+      "trad": "餐",
+      "pinyin": "cān",
+      "english": "meal"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这是一种罕见的古字(這是一種罕見的古字)。",
+      "pinyin": "Zhè shì yī zhǒng hǎnjiàn de gǔ zì.",
+      "english": "This is a rare ancient character."
+    },
+    {
+      "chinese": "“歺”这个字(“歺”這個字)在现代汉语中很少使用(在現代漢語中很少使用)。",
+      "pinyin": "“È” zhège zì zài xiàndài hànyǔ zhōng hěn shǎo shǐyòng.",
+      "english": "The character “歺” is rarely used in modern Chinese."
+    },
+    {
+      "chinese": "我们老师介绍了“歺”字的起源(我們老師介紹了“歺”字的起源)。",
+      "pinyin": "Wǒmen lǎoshī jièshàole “è” zì de qǐyuán.",
+      "english": "Our teacher introduced the origin of the character “歺”."
+    }
+  ]
 }

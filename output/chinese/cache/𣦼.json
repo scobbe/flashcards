@@ -4,19 +4,12 @@
   "pinyin": "cán",
   "english": "phonetic component",
   "etymology": {
-    "type": "variant form of 𣦻",
-    "description": "𣦼 is a variant form of 𣦻",
-    "interpretation": "𣦼 is used as a variant of 𣦻, sharing the same function as a phonetic component, though it may appear differently in specific contexts or scripts.",
+    "type": "variant",
+    "description": "Variant form of 𣦻",
+    "interpretation": "𣦼 is a variant of 𣦻, which serves as a phonetic component, used to represent sounds or ideas in other more complex characters.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "𣦻",
-      "trad": "𣦻",
-      "pinyin": "cán",
-      "english": "phonetic component"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }
