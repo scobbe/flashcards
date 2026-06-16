@@ -5,22 +5,22 @@
   "english": "release",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "㚔(㚔) (handcuff) + 廾(廾) (pair of hands) -> releasing hands -> 目(目) (eye) added -> 睪",
-    "interpretation": "The character originally depicted a handcuff 㚔 with a pair of hands 廾, symbolizing the concept of releasing. Over time, the eye radical 目 was added to the composition to denote selection or observation, reflecting its usage in contexts related to picking or releasing. This evolution highlights the relation between physical release and mental discernment.",
-    "simplification": ""
+    "description": "手(爪, 才, 廾) (shǒu, 'hand') + 㚔 (qiǎn, 'handcuff') -> hand releasing restraint -> 目 (mù, 'eye') added for phonetic/semantic emphasis -> 睪 (shì, 'release')",
+    "interpretation": "The character 睪 originally depicted hands being released from cuffs, suggesting the core meaning of 'release.' The addition of 目(mù, 'eye') reinforced or altered the character to also imply a connection with visual selection or discernment, aligning with its semantic development over time.",
+    "simplification": "The character 𠬤 is a simplified form derived from removing additional components present in 睪, focusing on the basic release aspect."
   },
   "parts": [
     {
-      "char": "㚔",
-      "trad": "㚔",
-      "pinyin": "handcuff",
-      "english": "handcuff"
+      "char": "手",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
     },
     {
-      "char": "廾",
-      "trad": "廾",
-      "pinyin": "gǒng",
-      "english": "pair of hands"
+      "char": "㚔",
+      "trad": "㚔",
+      "pinyin": "qiǎn",
+      "english": "handcuff"
     },
     {
       "char": "目",

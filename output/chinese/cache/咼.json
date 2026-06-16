@@ -2,19 +2,19 @@
   "simplified": "咼",
   "traditional": "咼",
   "pinyin": "guō",
-  "english": "pot",
+  "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 冎 (guǒ, \"protect\") + semantic: 口 (kǒu, \"mouth\") = combined to suggest something related to oral or vocal function",
-    "interpretation": "The character 咼(咼) (guō, \"pot\") combines 冎(冎) (guǒ) as its phonetic component with 口(口) (kǒu, \"mouth\") as its semantic component. While 'pot' is its current meaning, the combination suggests an original usage related to containing or vocal sound, which may have evolved over time.",
+    "description": "phonetic: 冎 (guā, \"bone\") + semantic: 口 (kǒu, \"mouth\") -> phonetic component",
+    "interpretation": "The character 咼(咼) (guō) is a phono-semantic compound where 冎(冎) (guā) provides the sound, and 口(口) (kǒu, \"mouth\") contributes the idea, often used as a phonetic element in other characters.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "冎",
       "trad": "冎",
-      "pinyin": "guǒ",
-      "english": "protect"
+      "pinyin": "guā",
+      "english": "bone"
     },
     {
       "char": "口",

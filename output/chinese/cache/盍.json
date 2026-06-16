@@ -5,11 +5,18 @@
   "english": "why not",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a container and its lid -> container concept -> original form of 蓋(蓋) (gài, \"cover\")",
-    "interpretation": "The character 盍(盍) (hé, \"why not\") visually represents a container with a lid, signifying the sense of covering or enclosing, which later phonetically evolved for its current use in Classical Chinese as a rhetorical 'why not'.",
+    "description": "Depicts a container and its lid",
+    "interpretation": "The character 盍 (hé, \"why not\") visually represents a container with its lid, capturing the act of covering or closing. This form served as the original representation for covering objects, which later evolved into the character 蓋(蓋) (gài, \"cover\").",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "蓋",
+      "trad": "蓋",
+      "pinyin": "gài",
+      "english": "cover"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -5,8 +5,8 @@
   "english": "mat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "衣(衣) (yī, 'clothing') + phonetic: 因(因) (yīn, 'cause') = cloth-like item -> mat",
-    "interpretation": "The character 裀(yīn, 'mat') combines 衣(衣) (yī, 'clothing'), symbolizing textiles or cloth materials, with 因(因) (yīn, 'cause') as a phonetic component. This indicates an object made of cloth, fitting for the definition of 'mat.'",
+    "description": "衣(衣) (yī, \"clothing\") + 音(音) (yīn, \"sound\") = mat",
+    "interpretation": "The character 裀(yīn, \"mat\") is a phono-semantic compound where 衣(衣) (yī, \"clothing\") suggests the semantic connection to fabric or textiles, and 音(音) (yīn, \"sound\") provides the phonetic element. This reflects the functional aspect of a mat being a textile-related item and the phonetic sound used in pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "clothing"
     },
     {
-      "char": "因",
-      "trad": "因",
+      "char": "音",
+      "trad": "音",
       "pinyin": "yīn",
-      "english": "cause"
+      "english": "sound"
     }
   ],
   "in_contemporary_usage": false,

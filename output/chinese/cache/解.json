@@ -1,0 +1,50 @@
+{
+  "simplified": "解",
+  "traditional": "解",
+  "pinyin": "jiě",
+  "english": "untie",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "角(角) (jiǎo, \"horn\") + 刀(刀) (dāo, \"knife\") + 牛(牛) (niú, \"cow\") = a knife separates a horn from a cow -> cut up (an ox)",
+    "interpretation": "The character 解(解) (jiě, \"untie\") visually represents the process of using a knife to separate a horn from a cow, symbolizing the action of disassembling or untieing. This etymological composition effectively conveys the concept of separating or freeing an item, resonating with its core meaning 'untie.'",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "角",
+      "trad": "角",
+      "pinyin": "jiǎo",
+      "english": "horn"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    },
+    {
+      "char": "牛",
+      "trad": "牛",
+      "pinyin": "niú",
+      "english": "cow"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他试着解开绳子(他試著解開繩子)。",
+      "pinyin": "Tā shìzhe jiěkāi shéngzi.",
+      "english": "He tried to untie the rope."
+    },
+    {
+      "chinese": "问题最终被顺利解决(問題最終被順利解決)。",
+      "pinyin": "Wèntí zuìzhōng bèi shùnlì jiějué.",
+      "english": "The problem was ultimately resolved smoothly."
+    },
+    {
+      "chinese": "他们努力解读古代文字(他們努力解讀古代文字)。",
+      "pinyin": "Tāmen nǔlì jiědú gǔdài wénzì.",
+      "english": "They are making efforts to decipher the ancient script."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "遊",
+  "traditional": "遊",
+  "pinyin": "yóu",
+  "english": "swim",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辵(辵) (chuò, \"walk; movement\") + 斿(斿) (yóu) -> movement and travel -> wandering or roaming",
+    "interpretation": "The character 遊 combines the semantic component 辵(辵) (chuò, 'walk; movement') with the phonetic component 斿(斿) (yóu). The inclusion of 辵(辵) suggests motion or traveling, while 斿(斿) contributes a phonetic element and also conveys the aspect of wandering or moving around freely. This results in the overall meaning of 'roaming' or 'wandering,' often associated with leisurely travel or journeying, which reflects in the modern usage related to activities that involve moving around in a relaxed manner, such as traveling or playing.",
+    "simplification": "The simplified form 游 replaces 辵(辵) (chuò, 'walk; movement') with 氵 (shuǐ, 'water') due to phonetic motivations and association with water-related actions."
+  },
+  "parts": [
+    {
+      "char": "辵",
+      "trad": "辵",
+      "pinyin": "chuò",
+      "english": "walk; movement"
+    },
+    {
+      "char": "斿",
+      "trad": "斿",
+      "pinyin": "yóu",
+      "english": ""
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我每天都去游泳池游泳(我每天都去游泳池游泳)。",
+      "pinyin": "Wǒ měitiān dōu qù yóuyǒngchí yóuyǒng.",
+      "english": "I go to the swimming pool to swim every day."
+    },
+    {
+      "chinese": "小鱼在水中自由地游来游去(小魚在水中自由地游來游去)。",
+      "pinyin": "Xiǎo yú zài shuǐ zhōng zìyóu de yóu lái yóu qù.",
+      "english": "The small fish swim freely back and forth in the water."
+    },
+    {
+      "chinese": "夏天我们喜欢去海边游玩(夏天我們喜歡去海邊遊玩)。",
+      "pinyin": "Xiàtiān wǒmen xǐhuān qù hǎibiān yóuwán.",
+      "english": "In summer, we like to go to the seaside to swim and play."
+    }
+  ]
+}

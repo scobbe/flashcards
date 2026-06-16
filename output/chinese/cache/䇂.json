@@ -1,15 +1,22 @@
 {
   "simplified": "䇂",
   "traditional": "䇂",
-  "pinyin": "chisel",
-  "english": "chisel",
+  "pinyin": "",
+  "english": "sickle-like tool",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a chisel used to mark prisoners.",
-    "interpretation": "The character 䇂 initially depicted a chisel, which was used for marking prisoners. Its form evolved with the addition of a central element that later became a horizontal stroke, but the character retains its original representation of a marking tool.",
+    "type": "phono-semantic compound",
+    "description": "Original form of 辛(辛) (xīn, 'bitter') depicting a chisel -> horizontal stroke added to form final meaning",
+    "interpretation": "The original character 䇂 depicted a tool, specifically a chisel used for marking. Over time, its form was simplified to 辛(辛) (xīn, 'bitter'). The transformation included the addition of a horizontal stroke which is retained in 辛(辛).",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

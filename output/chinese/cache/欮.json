@@ -1,0 +1,28 @@
+{
+  "simplified": "欮",
+  "traditional": "欮",
+  "pinyin": "jué",
+  "english": "to lack",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "屰(屰) (nì, \"contrary\") + 欠(欠) (qiàn, \"yawn; lack\") = physical inversion indicating lack",
+    "interpretation": "The character combines 屰(屰) (nì, \"contrary\") and 欠(欠) (qiàn, \"yawn; lack\") to convey the idea of inversely lacking something. The juxtaposition of these components suggests a physical or situational inversion of availability.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "屰",
+      "trad": "屰",
+      "pinyin": "nì",
+      "english": "contrary"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn; lack"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

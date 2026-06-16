@@ -5,8 +5,8 @@
   "english": "phonetic",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a spindle -> Original form of 專(專) (zhuān, \"specialized\") and 惠(惠) (huì, \"favor\")",
-    "interpretation": "The character 叀 originally depicted a spindle, which symbolizes the spinning process. This imagery was then borrowed and adapted into the characters 專(專) (zhuān, \"specialized\") and 惠(惠) (huì, \"favor\"), but 叀 itself remains as the pictographic representation.",
+    "description": "Depicts a spindle",
+    "interpretation": "The character 叀(叀) (zhuān, \"phonetic\") originally depicted a spindle, a tool essential for spinning threads. It served as the basis for the characters 專(專) (zhuān, \"focus\") and 惠(惠) (huì, \"favor\").",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "專",
       "trad": "專",
       "pinyin": "zhuān",
-      "english": "specialized"
+      "english": "focus"
     },
     {
       "char": "惠",

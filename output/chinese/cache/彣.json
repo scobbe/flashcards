@@ -5,8 +5,8 @@
   "english": "variegated; literary talent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 文(文) (wén, \"text\") + semantic: 彡(彡) (shān, \"decorative lines\") = conveys the idea of literary talent or variegated patterns -> final meaning \"variegated; literary talent\"",
-    "interpretation": "The character combines 文(文) (wén, \"text\"), which suggests a relation to writing or literature, with 彡(彡) (shān, \"decorative lines\"), which adds the sense of variation or ornamentation, fitting for the meanings of literary talent and variegated patterns.",
+    "description": "phonetic: 文 (wén, 'literary; culture') + semantic: 彡 ('decorative lines') = variegated or literary talent",
+    "interpretation": "The character 彣 combines the phonetic element 文 (wén, 'literary; culture') with the semantic component 彡 ('decorative lines') to convey the idea of variegated patterns or literary talent through ornamental complexity or cultural refinement.",
     "simplification": ""
   },
   "parts": [
@@ -14,12 +14,12 @@
       "char": "文",
       "trad": "文",
       "pinyin": "wén",
-      "english": "text"
+      "english": "literary; culture"
     },
     {
       "char": "彡",
       "trad": "彡",
-      "pinyin": "shān",
+      "pinyin": "sān",
       "english": "decorative lines"
     }
   ],

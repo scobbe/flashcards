@@ -5,16 +5,16 @@
   "english": "ancient form of 多",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "⺼(肉) (ròu, 'meat') -> visually corrupted to 夕(夕) (xī, 'evening'), duplicated to mean 'many' -> 夛 as ancient form -> 多(多) (duō, 'many')",
-    "interpretation": "夛 is an ancient form of 多(多) (duō, 'many'), originally depicting two pieces of meat, which were visually corrupted and simplified over time to 夕(夕) (xī, 'evening'), reflecting the duplicative aspect that conveyed the meaning of 'many'.",
+    "description": "肉(肉) (ròu, \"meat\") duplicated -> 肉(肉) (ròu, \"meat\") corrupted to 夕(夕) (xī, \"evening\") -> 多(夛) duplicated",
+    "interpretation": "夛 is an ancient form of 多(多) (duō, \"many\"), representing the concept of abundance. Initially depicting two pieces of meat, it evolved into a duplication of 夕(夕) due to the visual similarity between 肉(肉) and 夕(夕). This repetition was understood to signify 'many' similar to how 林(lín, \"forest\") comes from duplicating 木(mù, \"tree; wood\").",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "多",
-      "trad": "多",
-      "pinyin": "duō",
-      "english": "many"
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
     },
     {
       "char": "夕",
@@ -23,10 +23,10 @@
       "english": "evening"
     },
     {
-      "char": "肉",
-      "trad": "肉",
-      "pinyin": "ròu",
-      "english": "meat"
+      "char": "多",
+      "trad": "多",
+      "pinyin": "duō",
+      "english": "many"
     }
   ],
   "in_contemporary_usage": false,

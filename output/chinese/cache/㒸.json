@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic 丷 (divide) + Phonetic 豕 (suì, \"pig\") = phonetic component without direct semantic meaning",
-    "interpretation": "The character 㒸 acts primarily as a phonetic component in other compounds, like 遂(遂) (suì, \"comply\"). Its components do not directly convey a clear semantic meaning, and the 豕 (豕) (shǐ, \"pig\") serves mainly a phonetic purpose in this context.",
+    "description": "semantic 丷 (divide) + phonetic 豕 (shǐ, \"pig\") -> unclear link to original meaning of 'comply'",
+    "interpretation": "The character 㒸 combines the component 丷, meaning 'divide,' with the phonetic element 豕 (shǐ, 'pig'). The role of 'divide' is not clear in this context, as it serves as a semantic placeholder, while 'pig' serves as the phonetic marker.",
     "simplification": ""
   },
   "parts": [

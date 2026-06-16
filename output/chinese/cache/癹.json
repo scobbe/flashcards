@@ -4,16 +4,16 @@
   "pinyin": "bá",
   "english": "phonetic component",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "癶(癶) (bó, 'two outstretched feet') serves as the phonetic component + 殳(殳) (shū, 'hand with stick') as the semantic component = to beat or cut grass",
-    "interpretation": "The character 癹(bá) combines the imagery of two feet, symbolizing motion, with a hand holding a stick, indicating cutting or clearing action. This suggests the action of beating or cutting grass, and it may have been an original form for words related to clearing or moving aside.",
+    "type": "ideogrammic compound",
+    "description": "癶(癶) (bō, \"two outstretched feet\") + 殳(殳) (shū, \"hand with stick\") = to beat or cut grass -> phonetic component",
+    "interpretation": "The character combines the imagery of two outstretched feet and a hand with a stick, reflecting an action such as beating or cutting grass. It likely served as the original form of 撥(撥) (bō, \"to push aside\"), evolving into a phonetic component.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "癶",
       "trad": "癶",
-      "pinyin": "bó",
+      "pinyin": "bō",
       "english": "two outstretched feet"
     },
     {

@@ -4,25 +4,12 @@
   "pinyin": "two people facing each other",
   "english": "two people facing each other",
   "etymology": {
-    "type": "variant character",
-    "description": "𠆢(𠆢) (rén, \"person\") + the character acts as a variant form of 卯(卯) (mǎo, \"fourth earthly branch\")",
-    "interpretation": "𠨍 is a less common variant form traditionally used to represent pairing or alignment similar to 卯(卯), which symbolizes two entities facing each other.",
+    "type": "variant form",
+    "description": "𠨍 is a variant form of 卯(卯) (mǎo, \"4th earthly branch\") depicting the fourth stage in the Chinese zodiac related to the rabbit hour, but specifically featuring two people facing each other.",
+    "interpretation": "The character 𠨍 as a variant form reflects an alternative depiction of the concept associated with the 4th earthly branch in the Chinese zodiac, illustrating a social interaction through the imagery of two people facing each other.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "𠆢",
-      "trad": "𠆢",
-      "pinyin": "rén",
-      "english": "person"
-    },
-    {
-      "char": "卯",
-      "trad": "卯",
-      "pinyin": "mǎo",
-      "english": "fourth earthly branch"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") + 寸(寸) (cùn, \"hand\") = to plant a tree; 豆(豆) (dòu, \"bean\") was added later -> 壴(壴) (shù, \"drum\") + 寸(寸) as phonetic",
-    "interpretation": "Originally, 木(木) (mù, \"tree\") combined with 寸(寸) (cùn, \"hand\") represented the action of planting a tree. Over time, 豆(豆) (dòu, \"bean\") was incorporated, evolving into 壴(壴) (shù, \"drum\"), fusing the representations and leading to some misinterpretation as 壴 plus 寸.",
+    "description": "木(木) (mù, \"tree\") + 寸(寸) (cùn, \"hand\") = to plant a tree -> fused into 壴",
+    "interpretation": "The character 尌 combines the components 木(木) (mù, \"tree\") and 寸(寸) (cùn, \"hand\") to represent the idea of planting a tree. Over time, the components 木 and 豆 fused into the character's current form, 壴, which conveys the same action of planting through its pictorial representation.",
     "simplification": ""
   },
   "parts": [
@@ -23,16 +23,10 @@
       "english": "hand"
     },
     {
-      "char": "豆",
-      "trad": "豆",
-      "pinyin": "dòu",
-      "english": "bean"
-    },
-    {
       "char": "壴",
       "trad": "壴",
-      "pinyin": "shù",
-      "english": "drum"
+      "pinyin": "zhù",
+      "english": "drum (component fusion)"
     }
   ],
   "in_contemporary_usage": false,

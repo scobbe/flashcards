@@ -5,8 +5,8 @@
   "english": "phonetic",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "爫 ('hand, claw') + 又 ('hand') -> combination of hands or claws suggesting an action or a phonetic role -> 爰",
-    "interpretation": "The character 爰(yuán) likely symbolizes a hand or claws in action, represented by the components 爫 ('hand, claw') and 又 ('hand'), which emphasize the use of hands or tactile action. It was likely employed for phonetic purposes in other characters.",
+    "description": "爫(“hand, claw”) + 又(“hand”) = combined hands -> indicates action or handling",
+    "interpretation": "The character 爰 (yuán) is an ideogrammic compound combining two hand-related components, suggesting the idea of hands working together or engaging in some action. This fits its use as a phonetic element in other characters.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "爫",
       "trad": "爫",
       "pinyin": "zhǎo",
-      "english": "hand, claw"
+      "english": "hand; claw"
     },
     {
       "char": "又",

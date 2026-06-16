@@ -5,11 +5,18 @@
   "english": "partial phonetic",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a kneeling figure turning around with mouth open, original form 㒫 -> represents a turning motion or abstaining action",
-    "interpretation": "The character 旡 (jì, 'partial phonetic') represents a kneeling person turning with their mouth open, possibly indicating a gesture of completion, like turning away after finishing eating.",
+    "description": "Depicts a kneeling figure turning around with mouth open -> original form 㒫 -> stylized as 欠(欠) (qiàn, \"yawn\") showing a front-facing mouth",
+    "interpretation": "The character 旡(jì), a pictogram, represents a kneeling figure turning away with their mouth open, emphasizing the act of pausing or ceasing, akin to stopping speech or action. This depiction connects to the idea of turning away or abstaining from further action. Its structure is related to 欠(欠) (qiàn, \"yawn\"), which also features a figure with an open mouth, although facing forward, suggesting a common theme of cessation or incompletion.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

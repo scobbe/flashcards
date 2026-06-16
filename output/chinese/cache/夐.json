@@ -4,9 +4,9 @@
   "pinyin": "xuàn",
   "english": "eminent",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "穴(穴) (xué, \"cave\") with 目(目) (mù, \"eye\") and 支(支) (zhī, \"branch\") at the bottom -> conveys authority; possibly 奐(奐) (huàn) contraction",
-    "interpretation": "1.0",
+    "type": "ideogrammic compound",
+    "description": "穴 (cave) with an eye 目 (eye) and bottom component similar to 支 (hand with stick) -> concept of 'authority' -> eminent",
+    "interpretation": "夐(夐) (xuàn, 'eminent') combines a cave with an eye and a hand with a stick to symbolize someone who watches over or has authority, conveying eminence.",
     "simplification": ""
   },
   "parts": [
@@ -26,13 +26,7 @@
       "char": "支",
       "trad": "支",
       "pinyin": "zhī",
-      "english": "branch"
-    },
-    {
-      "char": "奐",
-      "trad": "奐",
-      "pinyin": "huàn",
-      "english": ""
+      "english": "hand with stick"
     }
   ],
   "in_contemporary_usage": false,

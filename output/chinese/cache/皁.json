@@ -5,11 +5,24 @@
   "english": "acorn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Early form retains sense 'acorn' -> used as traditional variant of 皂(皂) (zào, 'soap')",
-    "interpretation": "The character 皁 is an early form that retained the meaning of 'acorn'. It later evolved to represent different concepts in contemporary usage, such as its presence as a variant of 皂(皂) (zào, 'soap').",
+    "description": "早(早) (zǎo, \"early\") + 白(白) (bái, \"white\") = acorn-shaped fruit pod -> initial phonetic usage retaining original sense \"acorn\"",
+    "interpretation": "The character 皁 uses the structure of 早(早) (zǎo, \"early\") combined with 白(白) (bái, \"white\") to represent an acorn, initially serving as a descriptor relating to the shape or appearance, and later maintained its meaning over time.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "早",
+      "trad": "早",
+      "pinyin": "zǎo",
+      "english": "early"
+    },
+    {
+      "char": "白",
+      "trad": "白",
+      "pinyin": "bái",
+      "english": "white"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

@@ -2,11 +2,11 @@
   "simplified": "敖",
   "traditional": "敖",
   "pinyin": "áo",
-  "english": "ramble",
+  "english": "sound of loud talking",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Originally 𫠤: 人(人) (rén, \"person\") with a headdress similar to 屮(屮) (chè, \"sprout\") -> stylized to resemble 夭(夭) (yāo, \"young man\") -> 攴(攴) (pū, \"rap\") added for authority -> stylized as 𢾍 -> 人(人) stylized as 方(方) (fāng, \"square\") -> final form 敖",
-    "interpretation": "The character 敖 evolved from a pictogram to a phono-semantic compound by incorporating elements of authority and changing stylization over time, finally representing a man walking vigorously or travelling in an authoritative context.",
+    "description": "Originally 𫠤, a pictogram: a person 人 with a headdress -> stylized as 夭 -> 攴 added for authority -> transformed to 𢾍 -> person under headdress stylized as 方",
+    "interpretation": "The character 敖(敖) (áo, \"sound of loud talking\") evolved through a series of pictographic and phono-semantic transformations, where the headdress and authority connotations were emphasized with the addition of 攴(攴) (pū, \"rap\") to the stylized person form, conveying an authoritative nature associated with loud talking.",
     "simplification": ""
   },
   "parts": [
@@ -17,28 +17,22 @@
       "english": "person"
     },
     {
-      "char": "屮",
-      "trad": "屮",
-      "pinyin": "chè",
-      "english": "sprout"
-    },
-    {
       "char": "夭",
       "trad": "夭",
       "pinyin": "yāo",
       "english": "young man"
     },
     {
-      "char": "方",
-      "trad": "方",
-      "pinyin": "fāng",
-      "english": "square"
-    },
-    {
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
       "english": "rap"
+    },
+    {
+      "char": "方",
+      "trad": "方",
+      "pinyin": "fāng",
+      "english": "square"
     }
   ],
   "in_contemporary_usage": false,

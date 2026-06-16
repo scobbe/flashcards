@@ -1,20 +1,26 @@
 {
   "simplified": "竹果",
   "traditional": "竹果",
-  "pinyin": "zhú guǒ",
+  "pinyin": "zhúguǒ",
   "english": "jinzhu fruit",
   "etymology": {
     "type": "compound word",
-    "description": "竹果(竹果) (zhú guǒ, \"jinzhu fruit\") combines 竹(竹) (zhú, \"bamboo\") and 果(果) (guǒ, \"fruit\"). This naming suggests a type of fruit related to or resembling bamboo.",
-    "interpretation": "The term 竹果(竹果) (zhú guǒ) likely refers to a fruit that is associated with bamboo in some way, perhaps resembling it in texture or shape. Since bamboo is a prominent plant in Chinese culture, the combination evokes something uniquely tied to this plant.",
+    "description": "竢(竢) (zhú, \"wait\") + 果(果) (guǒ, \"fruit\")",
+    "interpretation": "The word 竢果(竢果) (zhúguǒ, \"jinzhu fruit\") might refer to a specific type of fruit, although its composition suggests a fruit that one might 'wait' for, possibly due to its seasonal availability or growth cycle. However, without specific cultural or historical context, the reasoning for this naming isn't fully clear.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "竹果",
-      "trad": "竹果",
-      "pinyin": "zhú guǒ",
-      "english": "jinzhu fruit"
+      "char": "竢",
+      "trad": "竢",
+      "pinyin": "zhú",
+      "english": "wait"
+    },
+    {
+      "char": "果",
+      "trad": "果",
+      "pinyin": "guǒ",
+      "english": "fruit"
     }
   ],
   "in_contemporary_usage": false,

@@ -2,11 +2,11 @@
   "simplified": "雈",
   "traditional": "雈",
   "pinyin": "huán",
-  "english": "same as 雚",
+  "english": "phonetic distinction",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tall bird with its wings extended, related to 雚(雚) (guàn, \"a type of stork/heron\")",
-    "interpretation": "雈(雈) is a pictogram that represents a type of large bird akin to a stork or heron, reflecting the character's connection to avian imagery.",
+    "description": "Depicts a representation; compare to 雚(雚) (guàn, \"heron\")",
+    "interpretation": "The character 雈 seems to represent something visually similar to or associated with 雚(雚) (guàn, \"heron\"), but its precise depiction or implications are less certain.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "雚",
       "trad": "雚",
       "pinyin": "guàn",
-      "english": "a type of stork/heron"
+      "english": "heron"
     }
   ],
   "in_contemporary_usage": false,

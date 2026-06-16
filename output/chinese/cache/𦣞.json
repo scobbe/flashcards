@@ -5,18 +5,11 @@
   "english": "phonetic component",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a chin (original form of 頤(頤) (yí, \"chin\"))",
-    "interpretation": "The character 𦣞 is an ancient pictogram that likely represents a chin. It is considered the original form of 頤(頤) (yí, \"chin\"), illustrating the shape of the lower face before later phonetic and semantic additions evolved into the more complex character 頤.",
+    "description": "Depicts the chin -> original form of 頤(頤) (yí, \"nourish\")",
+    "interpretation": "1.20381",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "頤",
-      "trad": "頤",
-      "pinyin": "yí",
-      "english": "chin"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

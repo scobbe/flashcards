@@ -4,23 +4,29 @@
   "pinyin": "miǎn",
   "english": "look over",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "八 (open space between two things) + 口 (mouth) = look over -> valley between mountains",
-    "interpretation": "The character 㕣 combines the components 八(bā, 'open space') and 口(kǒu, 'mouth') to convey the idea of looking over or overseeing a space, akin to viewing a valley between mountains from above.",
+    "type": "pictogram",
+    "description": "Depicts a mouth 口 (kǒu, \"mouth\") at the bottom, with two near-parallel lines 八 (bā, \"eight\") at the top indicating an open space, such as between mountain walls",
+    "interpretation": "The character 㕣 (miǎn, \"look over\") visually represents a space between two entities, conceptually implying 'to look over' as one gazes across an open area. The relationship with 谷 (gǔ, \"valley\") emphasizes the notion of being between boundaries, which can relate to observation.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "八",
-      "trad": "八",
-      "pinyin": "bā",
-      "english": "open space"
-    },
     {
       "char": "口",
       "trad": "口",
       "pinyin": "kǒu",
       "english": "mouth"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "char": "谷",
+      "trad": "谷",
+      "pinyin": "gǔ",
+      "english": "valley"
     }
   ],
   "in_contemporary_usage": false,

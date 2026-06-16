@@ -1,25 +1,25 @@
 {
   "simplified": "𡴆",
   "traditional": "𡴆",
-  "pinyin": "",
-  "english": "rudimentary form",
+  "pinyin": "lù",
+  "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "屮(屮) (chè, 'sprout') + 六(六) (liù, 'six') = sprout with phonetic 六 -> proto-form related to surpass",
-    "interpretation": "This character combines 屮(屮) (chè, 'sprout') as the semantic component with 六(六) (liù, 'six') for its phonetic aspect. It represents the early form of the idea related to 'climbing' or 'surpassing', which eventually evolved into 夌(夌) (líng). As the character 夌 became the established form, 𡴆 fell out of use.",
+    "description": "屮 (\"sprout\") + 六 (phonetic) -> phonetic component -> fell into disuse",
+    "interpretation": "𡴆 was originally a phono-semantic compound used for its phonetic properties, combining the semantic element 屮 (chū, \"sprout\") with the phonetic component 六 (lù). It fell out of use when the character 𡴆 transformed into 夌 (líng) and the original character's function changed.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "屮",
       "trad": "屮",
-      "pinyin": "chè",
+      "pinyin": "chū",
       "english": "sprout"
     },
     {
       "char": "六",
       "trad": "六",
-      "pinyin": "liù",
+      "pinyin": "lù",
       "english": "six"
     }
   ],

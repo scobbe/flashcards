@@ -5,11 +5,27 @@
   "english": "to govern",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tool similar to a knife or a huge pair of scissors used to cut weed -> used phonetically for \"to govern\"",
-    "interpretation": "The character 乂 originally depicted a tool for cutting, like a sickle or scissors, highlighting the action of control or management in agriculture. Over time, this imagery was metaphorically extended to mean 'govern' as effective governance is akin to managing and pruning society's needs.",
+    "description": "Depicts a tool (similar to a sickle or a pair of scissors) for mowing or weeding -> used for governing -> final form 乂",
+    "interpretation": "The character 乂 originally depicted a tool used for cutting, and by extension, it was associated with governing due to the notion of cutting or managing weeds as a metaphor for ruling effectively. This sense of order is crucial in governance.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这些年，他致力于地方的治理(這些年，他致力於地方的治理)。",
+      "pinyin": "Zhèxiē nián, tā zhìlì yú dìfāng de zhìlǐ.",
+      "english": "Over the years, he has dedicated himself to local governance."
+    },
+    {
+      "chinese": "为民者，先自齐以治家(為民者，先自齊以治家)。",
+      "pinyin": "Wèi mín zhě, xiān zì qí yǐ zhì jiā.",
+      "english": "Those who govern for the people, first manage their own households."
+    },
+    {
+      "chinese": "长者都希望后代能好好治理天下(長者都希望後代能好好治理天下)。",
+      "pinyin": "Zhǎng zhě dōu xīwàng hòudài néng hǎohǎo zhìlǐ tiānxià.",
+      "english": "The elders hope that future generations can govern the world well."
+    }
+  ]
 }

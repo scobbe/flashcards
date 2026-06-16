@@ -5,16 +5,16 @@
   "english": "art",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木, \"tree\") corrupted to 圥 + 土(土, \"soil\") = kneeling person planting sapling -> 丮(丮, \"to hold\") evolved from 丸 -> final form 埶",
-    "interpretation": "Originally, 埶 depicted a person kneeling to plant a sapling into the soil, symbolizing cultivation and art. The character illustrates the essence of art as a process of nurturing and growth.",
+    "description": "圥(土 + 木) + 丮(“to hold”) = kneeling person planting sapling -> original form of 蓺 and 藝",
+    "interpretation": "埶(埶) (yì, 'art') combines the left component 圥, symbolizing a sapling being planted into the soil, with the right component 丮, meaning 'to hold,' illustrating the act of planting. This character eventually became the original form for 藝(藝) (yì, 'art') and was phonetically borrowed for 勢(勢) (shì, 'power').",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "木",
-      "trad": "木",
-      "pinyin": "mù",
-      "english": "tree"
+      "char": "圥",
+      "trad": "圥",
+      "pinyin": "lù",
+      "english": "earth + wood"
     },
     {
       "char": "土",
@@ -23,10 +23,28 @@
       "english": "soil"
     },
     {
+      "char": "木",
+      "trad": "木",
+      "pinyin": "mù",
+      "english": "tree"
+    },
+    {
       "char": "丮",
       "trad": "丮",
-      "pinyin": "jié",
+      "pinyin": "jǐ",
       "english": "to hold"
+    },
+    {
+      "char": "藝",
+      "trad": "藝",
+      "pinyin": "yì",
+      "english": "art"
+    },
+    {
+      "char": "勢",
+      "trad": "勢",
+      "pinyin": "shì",
+      "english": "power"
     }
   ],
   "in_contemporary_usage": false,

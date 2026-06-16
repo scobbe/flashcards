@@ -1,0 +1,28 @@
+{
+  "simplified": "潦",
+  "traditional": "潦",
+  "pinyin": "liáo",
+  "english": "flooded",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "水(水) (shuǐ, \"water\") + 尞(尞) (liáo, phonetic) = water level raised due to flooding -> meaning of flooded",
+    "interpretation": "The character 潦 combines the radical 水(水) (shuǐ, \"water\"), indicating the involvement of water, with the phonetic component 尞(尞) (liáo), which suggests the pronunciation. This encapsulates the idea of land being flooded with water.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "水",
+      "trad": "水",
+      "pinyin": "shuǐ",
+      "english": "water"
+    },
+    {
+      "char": "尞",
+      "trad": "尞",
+      "pinyin": "liáo",
+      "english": "phonetic"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

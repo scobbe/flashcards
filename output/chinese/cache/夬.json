@@ -2,14 +2,25 @@
   "simplified": "夬",
   "traditional": "夬",
   "pinyin": "guài",
-  "english": "tent",
+  "english": "decisive",
   "etymology": {
     "type": "pictogram",
     "description": "Depicts a hand wearing an archer's thumb ring",
-    "interpretation": "The character 夬(夬) (guài, \"tent\") visually represents a thumb ring, which was traditionally used by archers, symbolizing control and precision in handling a bow.",
+    "interpretation": "The character 夬(夬) (guài, \"decisive\") originally depicts a hand wearing an archer's thumb ring, emphasizing the concept of decisiveness or resolution, as this ring is essential for drawing a bowstring.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的性格很夬(夬)，所以在关键时刻总能做出正确的决定(決策)。",
+      "pinyin": "Tā de xìnggé hěn guài, suǒyǐ zài guānjiàn shíkè zǒng néng zuò chū zhèngquè de juécè.",
+      "english": "He has a decisive personality, so he can always make the right decisions at critical moments."
+    },
+    {
+      "chinese": "在处理危机时(危機時)，她总是显得异常夬(夬)，从未退缩(退縮)。",
+      "pinyin": "Zài chǔlǐ wēijī shí, tā zǒng shì xiǎndé yìcháng guài, cóngwèi tuìsuō.",
+      "english": "When dealing with crises, she always appears exceptionally decisive and never retreats."
+    }
+  ]
 }

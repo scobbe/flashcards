@@ -4,9 +4,9 @@
   "pinyin": "cōng",
   "english": "clever",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts 心(心) (xīn, \"heart\") with a dot -> hole on heart indicates intelligence -> patterned shape 囪 in Han dynasty",
-    "interpretation": "Initially, 悤(悤) (cōng, \"clever\") depicted a heart with a dot, symbolizing intelligence through the concept of 'holes on the heart'. This idea is rooted in traditional Chinese symbolism. Over time, its form evolved to a patterned shape during the Han dynasty, ultimately influencing the character's meaning shift but preserving its essence in 聰(聰) (cōng, \"intelligent\").",
+    "type": "phono-semantic compound",
+    "description": "心(心) (xīn, 'heart') + 囪(囪) implies focus or intelligence → original meaning of 'intelligent'",
+    "interpretation": "The character 悤(cōng, 'clever') originally depicted a heart with a significant mark representing holes, a culturally traditional symbol for intelligence. Over time, this symbol evolved to suggest quick thinking, leading to its association with the concept of being 'hasty' in action or thought.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "heart"
     },
     {
-      "char": "聰",
-      "trad": "聰",
+      "char": "囪",
+      "trad": "囪",
       "pinyin": "cōng",
-      "english": "intelligent"
+      "english": "patterned shape"
     }
   ],
   "in_contemporary_usage": false,

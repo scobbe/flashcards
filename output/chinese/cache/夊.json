@@ -5,8 +5,8 @@
   "english": "downward foot",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a footprint pointing downward -> variant form of 夂(夂) (zhǐ, 'footprint pointing down')",
-    "interpretation": "The character 夊(suī, 'downward foot') is a pictogram showing the shape of a footprint pointing down. It is a variant form of 夂(夂) (zhǐ, 'footprint pointing down'), distinguished by its simplified representation. These visual representations emphasize the direction of movement associated with footprints, which is a common theme in ancient character forms.",
+    "description": "Depicts a footprint pointing downward; variant of 夂(夂) (zhǐ, \"to go\")",
+    "interpretation": "The character 夊(suī, \"downward foot\") visually represents a downward-facing foot, suggesting movement or trajectory in a downward direction.",
     "simplification": ""
   },
   "parts": [
@@ -14,9 +14,20 @@
       "char": "夂",
       "trad": "夂",
       "pinyin": "zhǐ",
-      "english": "footprint pointing down"
+      "english": "to go"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的步伐缓慢(他的步伐緩慢)，就像夊一般(就像夊一般)。",
+      "pinyin": "Tā de bùfá huǎnmàn, jiù xiàng suī yībān.",
+      "english": "His steps are slow, like the character 夊."
+    },
+    {
+      "chinese": "我们观察到古代文字中(我們觀察到古代文字中)，常常使用夊来表达脚的动作(常常使用夊來表達腳的動作)。",
+      "pinyin": "Wǒmen guānchá dào gǔdài wénzì zhōng, chángcháng shǐyòng suī lái biǎodá jiǎo de dòngzuò.",
+      "english": "We observed that in ancient texts, the character 夊 was often used to express the action of the foot."
+    }
+  ]
 }

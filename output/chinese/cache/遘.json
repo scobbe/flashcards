@@ -2,25 +2,25 @@
   "simplified": "遘",
   "traditional": "遘",
   "pinyin": "gòu",
-  "english": "meet; encounter",
+  "english": "to meet; to encounter",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 辶(辶) (chuò, \"walk\") + Phonetic: 冓(冓) (gòu, \"assemble\") -> meet; encounter",
-    "interpretation": "The character 遘 combines the semantic element 辶(辶) (chuò, \"walk\") indicating movement or walking, with the phonetic element 冓(冓) (gòu, \"assemble\") to express the concept of meeting or encountering someone or something while moving.",
+    "description": "辵(辵) (chuò, \"walk; movement\") + 冓(冓) (gòu) = semantic movement + phonetic component -> to meet; to encounter",
+    "interpretation": "The character 遘(gòu) combines the semantic component 辵(辵) (chuò, \"walk; movement\") indicating movement or travel, with the phonetic component 冓(冓) (gòu), suggesting the action of encountering or meeting while moving.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "辶",
-      "trad": "辶",
+      "char": "辵",
+      "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     },
     {
       "char": "冓",
       "trad": "冓",
       "pinyin": "gòu",
-      "english": "assemble"
+      "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": false,

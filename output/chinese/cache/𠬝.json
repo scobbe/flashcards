@@ -4,9 +4,9 @@
   "pinyin": "fú",
   "english": "to serve",
   "etymology": {
-    "type": "pictogram",
-    "description": "𠬝 is the original pictogram for the character depicting 'to serve' -> 凡(凡) (fán, 'tray') was added as a semantic component -> 凡 was later corrupted into 舟(舟) (zhōu, 'boat') and subsequently 月(月) (yuè, 'moon') in the character 服(服) (fú, 'to serve')",
-    "interpretation": "𠬝 originally depicted the act of serving or subduing and was later modified by adding the semantic component 凡(凡) (fán, 'tray') to enhance the original meaning. Over time, this evolved into the character 服(服) (fú, 'to serve'), where 凡 was replaced by 舟(舟) (zhōu, 'boat') and then 月(月) (yuè, 'moon') due to character corruption.",
+    "type": "phono-semantic compound",
+    "description": "𠬝(𠬝) (fú, \"to subdue\") original pictogram -> 凡(凡) (fán, \"tray\") added as semantic -> phono-semantic compound for 'to serve'",
+    "interpretation": "The character 𠬝 initially depicted a concept related to subduing or serving. It became part of a phono-semantic compound with the addition of 凡(凡) to give the meaning of 'to serve'. This illustrates the evolution of its meaning through a combination of sound and related concepts.",
     "simplification": ""
   },
   "parts": [
@@ -15,24 +15,6 @@
       "trad": "凡",
       "pinyin": "fán",
       "english": "tray"
-    },
-    {
-      "char": "舟",
-      "trad": "舟",
-      "pinyin": "zhōu",
-      "english": "boat"
-    },
-    {
-      "char": "月",
-      "trad": "月",
-      "pinyin": "yuè",
-      "english": "moon"
-    },
-    {
-      "char": "服",
-      "trad": "服",
-      "pinyin": "fú",
-      "english": "to serve"
     }
   ],
   "in_contemporary_usage": false,

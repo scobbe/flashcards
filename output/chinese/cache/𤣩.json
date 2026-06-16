@@ -4,9 +4,9 @@
   "pinyin": "yù",
   "english": "jade",
   "etymology": {
-    "type": "pictogram",
-    "description": "𤣩 is a variant form of 玉(玉) (yù, \"jade\") which depicts a cong (琮), a ritual jade totem -> distinguished from 王(王) (wáng, \"king\") by adding a dot",
-    "interpretation": "The character 𤣩 represents a variant of 玉(玉) (yù, \"jade\"), highlighting its historical use as a symbol of jade artifacts. By adding a dot to the original pictogram, it distinguishes itself from 王(王) (wáng, \"king\"), emphasizing its unique identity as jade.",
+    "type": "phono-semantic compound",
+    "description": "𤣩 as a variant of 玉(玉) (yù, \"jade\")-> used phonetically for alternative sounds or context.",
+    "interpretation": "The character 𤣩 serves as a rare variant of 玉(玉) (yù, \"jade\"), which itself originates from a pictogram depicting a ritual jade totem or three jade pieces together.",
     "simplification": ""
   },
   "parts": [
@@ -15,18 +15,6 @@
       "trad": "玉",
       "pinyin": "yù",
       "english": "jade"
-    },
-    {
-      "char": "王",
-      "trad": "王",
-      "pinyin": "wáng",
-      "english": "king"
-    },
-    {
-      "char": "琮",
-      "trad": "琮",
-      "pinyin": "cóng",
-      "english": "cong"
     }
   ],
   "in_contemporary_usage": false,

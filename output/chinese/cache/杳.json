@@ -5,8 +5,8 @@
   "english": "hidden",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") + 日(日) (rì, \"sun\") = sun obscured by trees -> dark",
-    "interpretation": "The character 杳(yǎo, \"hidden\") represents the concept of darkness or being hidden as it depicts the sun obscured by trees, suggesting an absence of light.",
+    "description": "木(木) (mù, \"tree\") + 日(日) (rì, \"sun\") = sun obscured by trees -> hidden, dark",
+    "interpretation": "The character 杳(yǎo, \"hidden\") visually represents a tree 木(木) (mù, \"tree\") with the sun 日(日) (rì, \"sun\") behind it, suggesting the idea of something being concealed or obscured, hence the meaning 'hidden' or 'dark'.",
     "simplification": ""
   },
   "parts": [
@@ -23,6 +23,22 @@
       "english": "sun"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "在山的那一边(在山的那一邊)，一切都显得杳然(一切都顯得杳然)。",
+      "pinyin": "Zài shān de nà yī biān, yīqiè dōu xiǎnde yǎorán.",
+      "english": "On the other side of the mountain, everything seems hidden."
+    },
+    {
+      "chinese": "他的踪迹(他的蹤跡)一直杳不可寻(一直杳不可尋)。",
+      "pinyin": "Tā de zōngjì yīzhí yǎo bùkě xún.",
+      "english": "His whereabouts have always been hidden without a trace."
+    },
+    {
+      "chinese": "过去的记忆(過去的記憶)已经变得杳杳无踪(已經變得杳杳無蹤)。",
+      "pinyin": "Guòqù de jìyì yǐjīng biàn de yǎoyǎo wú zōng.",
+      "english": "Past memories have become completely hidden."
+    }
+  ]
 }

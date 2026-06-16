@@ -2,25 +2,19 @@
   "simplified": "旒",
   "traditional": "旒",
   "pinyin": "liú",
-  "english": "streamers",
+  "english": "tassel",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "日(日) (rì, \"sun\") + phonetic 矛(矛) (máo, \"spear\") = representation of streamers hanging under the sun -> streamers",
-    "interpretation": "The character 旒(liú) represents streamers or tassels hanging down, often under a sun-like banner, suggesting a visual resemblance to ceremonial streamers. It combines the semantic component of the sun 日 to suggest visibility or display, with the phonetic aspect provided by 矛, conveying the pronunciation.",
+    "description": "⺕(非standard) + 㐬(variant form of 荒) = stylized combination related to tassels on flags",
+    "interpretation": "The character 旒 (liú, \"tassel\") is a phono-semantic compound where ⺕ acts as a semantic component, relevant to textile and tassel imagery. The component 㐬 is a variant form of 荒 (huāng, \"desolate\"), providing a phonetic element. This makes 旒 a specialized term for decorative tassels, emphasizing its use in ceremonial contexts.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "日",
-      "trad": "日",
-      "pinyin": "rì",
-      "english": "sun"
-    },
-    {
-      "char": "矛",
-      "trad": "矛",
-      "pinyin": "máo",
-      "english": "spear"
+      "char": "㐬",
+      "trad": "㐬",
+      "pinyin": "huāng",
+      "english": "\"desolate\" (variant form of 荒)"
     }
   ],
   "in_contemporary_usage": false,

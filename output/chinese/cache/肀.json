@@ -1,12 +1,12 @@
 {
   "simplified": "肀",
-  "traditional": "聿",
+  "traditional": "肀",
   "pinyin": "yù",
   "english": "brush",
   "etymology": {
-    "type": "pictogram",
-    "description": "又(又) (yòu, \"hand\") holding 𰀁(𰀁) (a brush) -> originally referred to 筆(筆) (bǐ, \"writing brush\") -> borrowed for 聿(聿) (yù, \"thereupon\")",
-    "interpretation": "The character 聿(聿) (yù, \"brush\") originates from an image of a hand holding a brush, closely associated with writing implements. The character was later borrowed for the meaning \"thereupon.\"",
+    "type": "ideogrammic compound",
+    "description": "又(又) (yòu, \"hand\") + 𰀁(brush) = hand holding a brush -> writing brush",
+    "interpretation": "The character 肀(yù) represents the action of holding and using a brush, depicted through the symbolic combination of a hand 又(又) and a brush 𰀁. This imagery aligns with its original reference to a writing brush, closely related to 筆(筆) (bǐ, \"writing brush\").",
     "simplification": ""
   },
   "parts": [
@@ -19,20 +19,8 @@
     {
       "char": "𰀁",
       "trad": "𰀁",
-      "pinyin": "",
-      "english": "a brush"
-    },
-    {
-      "char": "筆",
-      "trad": "筆",
-      "pinyin": "bǐ",
-      "english": "writing brush"
-    },
-    {
-      "char": "聿",
-      "trad": "聿",
-      "pinyin": "yù",
-      "english": "thereupon"
+      "pinyin": "n/a",
+      "english": "brush"
     }
   ],
   "in_contemporary_usage": false,

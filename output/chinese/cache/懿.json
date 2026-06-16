@@ -5,8 +5,8 @@
   "english": "virtuous",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "心(心) (xīn, \"heart\") + 壹(壹) (yī) = heart indicating virtuous character, 壹 as phonetic suggesting reverence",
-    "interpretation": "The character 懿 combines the semantic component 心(心) (xīn, \"heart\"), suggesting moral and inner virtues, with the phonetic component 壹(壹) (yī), which adds the sound. Historically, the upper portion of 壹 depicted ceremonial offerings, enhancing the sense of moral excellence and reverence.",
+    "description": "心(心) (xīn, \"heart\") + 壹(壹) (yī) = heart indicating virtuous character + 壹 as phonetic -> admirable virtue",
+    "interpretation": "The character 懿(yì, \"virtuous\") combines the heart radical with 壹(yī), suggesting that virtuous qualities stem from the heart, while 壹 contributes the sound. The rich detail of 壹 hints at historical associations with reverence and ceremonial purity, emphasizing moral excellence.",
     "simplification": ""
   },
   "parts": [
@@ -20,9 +20,25 @@
       "char": "壹",
       "trad": "壹",
       "pinyin": "yī",
-      "english": ""
+      "english": "one"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她拥有懿德(她擁有懿德)。",
+      "pinyin": "Tā yǒngyǒu yìdé.",
+      "english": "She possesses virtuous character."
+    },
+    {
+      "chinese": "这是一个关于懿行的故事(這是一個關於懿行的故事)。",
+      "pinyin": "Zhè shì yīgè guānyú yìxíng de gùshì.",
+      "english": "This is a story about virtuous deeds."
+    },
+    {
+      "chinese": "我们应该向古代贤人学习他们的懿行(我們應該向古代賢人學習他們的懿行)。",
+      "pinyin": "Wǒmen yīnggāi xiàng gǔdài xiánrén xuéxí tāmen de yìxíng.",
+      "english": "We should learn from the virtuous deeds of ancient sages."
+    }
+  ]
 }

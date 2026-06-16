@@ -5,22 +5,22 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "竹(竹) (zhú, 'bamboo') + 奚(奚) (xī, 'what') = phonetic component 奚 (xī) with bamboo radical -> phonetic character",
-    "interpretation": "The character 𥏻 combines the bamboo radical 竹(竹) (zhú, 'bamboo') with the phonetic component 奚(奚) (xī, 'what'), suggesting that it involves something related to bamboo, guided by the phonetic cue of 'xī'.",
+    "description": "禾(禾) (hé, \"grain\") + 弟(弟) (dì, \"younger brother\") = phonetic representation using '弟'",
+    "interpretation": "The character 𥏻 combines the grain radical 禾(禾) (hé, \"grain\") for semantic purposes, indicating an agricultural context, with 弟(弟) (dì, \"younger brother\") as a phonetic component. It is a rare character that may have been used historically in specialized contexts.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "竹",
-      "trad": "竹",
-      "pinyin": "zhú",
-      "english": "bamboo"
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "grain"
     },
     {
-      "char": "奚",
-      "trad": "奚",
-      "pinyin": "xī",
-      "english": "what"
+      "char": "弟",
+      "trad": "弟",
+      "pinyin": "dì",
+      "english": "younger brother"
     }
   ],
   "in_contemporary_usage": false,

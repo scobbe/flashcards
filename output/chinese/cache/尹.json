@@ -5,11 +5,40 @@
   "english": "govern",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hand holding a rod or brush -> symbolizing governance or administration",
-    "interpretation": "The character 尹(yǐn, \"govern\") is a pictogram representing a hand holding a rod or brush, suggesting the authority or capability of governing and administering tasks.",
+    "description": "Depicts a hand holding a rod or brush, similar to components seen in 事(事) (shì, \"affair\") and 支(支) (zhī, \"support\")",
+    "interpretation": "The character 尹(yǐn), meaning \"govern,\" visually represents authority through a hand grasping a tool, symbolizing control or administration. This concept aligns with governance and oversight, embodied in its depiction.",
     "simplification": ""
   },
-  "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "parts": [
+    {
+      "char": "事",
+      "trad": "事",
+      "pinyin": "shì",
+      "english": "affair"
+    },
+    {
+      "char": "支",
+      "trad": "支",
+      "pinyin": "zhī",
+      "english": "support"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "尹在这个地区掌权(尹在這個地區掌權)。",
+      "pinyin": "Yǐn zài zhège dìqū zhǎngquán.",
+      "english": "Yin governs this region."
+    },
+    {
+      "chinese": "他被国王任命为尹(他被國王任命為尹)，负责管理法律事务(負責管理法律事務)。",
+      "pinyin": "Tā bèi guówáng rènmìng wéi yǐn, fùzé guǎnlǐ fǎlǜ shìwù.",
+      "english": "He was appointed as a governor by the king, responsible for managing legal affairs."
+    },
+    {
+      "chinese": "在古代，尹的职位非常重要(在古代，尹的職位非常重要)。",
+      "pinyin": "Zài gǔdài, yǐn de zhíwèi fēicháng zhòngyào.",
+      "english": "In ancient times, the position of governor was very important."
+    }
+  ]
 }

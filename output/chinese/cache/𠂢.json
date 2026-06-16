@@ -5,8 +5,8 @@
   "english": "original form",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a long river with tributaries -> horizontal flip of 永(永) (yǒng, \"eternal\")",
-    "interpretation": "The character 𠂢 is a pictorial representation of a river system with branches, suggestive of flowing, continuous water, which visually relates to its flipped appearance as seen in 永(永) (yǒng, \"eternal\"). This reflects the enduring and expansive nature of rivers.",
+    "description": "Depicts a long river with tributaries; horizontal flip of 永(永) (yǒng, \"forever\")",
+    "interpretation": "The character 𠂢 is a pictographic representation depicting a long river with its branching tributaries, suggesting continuity and flow, similar to how 永(永) (yǒng, \"forever\") represents unending duration.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "永",
       "trad": "永",
       "pinyin": "yǒng",
-      "english": "eternal"
+      "english": "forever"
     }
   ],
   "in_contemporary_usage": false,

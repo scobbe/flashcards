@@ -5,8 +5,8 @@
   "english": "snake",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 兀 (wù, \"rugged\") + Semantic: 虫 (chóng, \"insect\") -> combined to represent a specific type of long snake or dragon",
-    "interpretation": "The character 虺 (huǐ, \"snake\") combines 兀 (wù, \"rugged\") for its sound with 虫 (chóng, \"insect\") to semantically signify a snake, emphasizing its slithering, insect-like nature.",
+    "description": "Phonetic 兀 (ŋuːd) + semantic 虫 ('insect; reptile') -> 'snake'",
+    "interpretation": "The character 虺 (huǐ, 'snake') combines the phonetic component 兀 (wù, 'mountainous') with the semantic component 虫 (chóng, 'insect; reptile'), suggesting a serpentine creature.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "兀",
       "trad": "兀",
       "pinyin": "wù",
-      "english": "rugged"
+      "english": "mountainous"
     },
     {
       "char": "虫",
       "trad": "虫",
       "pinyin": "chóng",
-      "english": "insect"
+      "english": "insect; reptile"
     }
   ],
   "in_contemporary_usage": false,

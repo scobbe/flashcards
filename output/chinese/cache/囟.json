@@ -5,11 +5,27 @@
   "english": "fontanel",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a fontanelle -> represents the soft spot on a baby's skull",
-    "interpretation": "The character 囟(xìn, \"fontanel\") is a pictogram representing the soft spot on a baby's skull, which is unossified and visible in infants. It visually resembles the shape and placement of a fontanelle, making it distinct and directly representative of its meaning.",
+    "description": "Depicts a fontanelle",
+    "interpretation": "The character 囟(xìn, \"fontanel\") is a pictogram representing the soft spot on a baby's head, known as the fontanelle. This depiction is a direct representation without phonetic elements.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "婴儿的囟部发育得很快(嬰兒的囟部發育得很快)。",
+      "pinyin": "Yīng'ér de xìnbù fāyù de hěn kuài.",
+      "english": "The baby's fontanel develops quickly."
+    },
+    {
+      "chinese": "护士轻轻地检查了婴儿的囟门(護士輕輕地檢查了嬰兒的囟門)。",
+      "pinyin": "Hùshì qīngqīng de jiǎnchá le yīng'ér de xìnmén.",
+      "english": "The nurse gently checked the baby's fontanel."
+    },
+    {
+      "chinese": "医生说囟门会在一岁左右闭合(醫生說囟門會在一歲左右閉合)。",
+      "pinyin": "Yīshēng shuō xìnmén huì zài yī suì zuǒyòu bìhé.",
+      "english": "The doctor said the fontanel will close around the age of one."
+    }
+  ]
 }

@@ -5,8 +5,8 @@
   "english": "traditional tea whisking method",
   "etymology": {
     "type": "compound word",
-    "description": "點(點) (diǎn, \"dot; point; select\") refers to the act of skillfully adding or preparing something, and 茶(茶) (chá, \"tea\") signifies the beverage itself. 點(點) (diǎn, \"dot; point; select\") in this context implies the process of carefully preparing or presenting the tea during the whisking method.",
-    "interpretation": "點茶(點茶) (diǎn chá, \"traditional tea whisking method\") is a traditional Chinese practice where tea powder is whisked together with hot water to create a frothy mixture. This method was popularized during the Song dynasty, emphasizing the appreciation and artistry involved in tea preparation, symbolizing cultural refinement.",
+    "description": "點(點) (diǎn, \"dot; point\"), 茶(茶) (chá, \"tea\")",
+    "interpretation": "點茶(點茶) (diǎn chá, \"traditional tea whisking method\") refers to a historical Chinese tea preparation method where tea powder is whisked in a bowl. 點(點) (diǎn, \"dot; point\") implies the careful, precise action of preparing tea, while 茶(茶) (chá, \"tea\") refers to the substance. This method was popular during the Song Dynasty and highlights the art and precision in traditional tea ceremonies.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "点",
       "trad": "點",
       "pinyin": "diǎn",
-      "english": "dot; point; select"
+      "english": "dot; point"
     },
     {
       "char": "茶",

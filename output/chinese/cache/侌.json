@@ -5,23 +5,11 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Depicts 雨(雨) (yǔ, \"rain\") above 今(今) (jīn, \"now\") -> ancient form of 陰(陰) (yīn, \"shade\")",
-    "interpretation": "The character 侌(yīn) combines elements suggesting a correlation with weather and temporality, directly related to the concept of shade or shadow in 陰(陰).",
+    "description": "Depicts an ancient form of 陰(陰) (yīn, \"shade\") -> used as phonetic component",
+    "interpretation": "侌(侌) (yīn, \"phonetic\") is an ancient form of 陰(陰) (yīn, \"shade\") and serves as the phonetic component in the character 陰(陰), which combines the meaning of the semantic 阜(阜) (fù, \"mound\") with the phonetic value of 侌(侌). It represents the phonetic value 'yīn' but does not have a widely recognized standalone meaning.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "雨",
-      "trad": "雨",
-      "pinyin": "yǔ",
-      "english": "rain"
-    },
-    {
-      "char": "今",
-      "trad": "今",
-      "pinyin": "jīn",
-      "english": "now"
-    },
     {
       "char": "陰",
       "trad": "陰",

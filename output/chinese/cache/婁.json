@@ -2,11 +2,11 @@
   "simplified": "婁",
   "traditional": "婁",
   "pinyin": "lóu",
-  "english": "bundle",
+  "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "爪(爪) (zhǎo, \"hands\") + 角(角) (jiǎo, phonetic) + 女(女) (nǚ, \"woman\") -> later 母(母) (mǔ, \"mother\") + 中(中) (zhōng, \"middle\") + 女(女, \"daughter\")",
-    "interpretation": "The character originally combined elements representing hands, a phonetic component, and a woman, suggesting a conceptual or functional relationship. Over time, it evolved to an ideogrammic compound involving maternal and female aspects. However, the exact meaning remains uncertain, possibly symbolizing family or familial duties.",
+    "description": "Original: semantic 爪(爪) (zhǎo, 'hands') + phonetic 角(角) (jiǎo, 'horn') + semantic 女(女) (nǚ, 'woman') -> Meaning uncertain -> Later: 母(母) (mǔ, 'mother') + 中(中) (zhōng, 'middle') + 女(女) (nǚ, 'daughter') -> ideogram",
+    "interpretation": "The character 婁(lóu) originally combined elements representing hands, a horn for phonetic value, and a woman, suggesting a complex or uncertain meaning. It later evolved into a combination of mother, central, and daughter elements, further abstracting its meaning.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "角",
       "trad": "角",
       "pinyin": "jiǎo",
-      "english": "phonetic"
+      "english": "horn"
     },
     {
       "char": "女",

@@ -5,16 +5,16 @@
   "english": "\"stay\"",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 丣(丣) (liǔ, no direct translation) + Semantic 田(田) (tián, \"field\") -> stay",
-    "interpretation": "畱(留) (liú, \"stay\") combines the phonetic component 丣(丣) to suggest sound and the semantic component 田(田) to suggest a location, implying a sense of remaining or staying in one place.",
-    "simplification": "畱(留) was simplified to 留 by keeping the original semantic component 田(田, \"field\") unchanged and modifying the phonetic element 丣(丣) to 卯(卯, \"fourth Earthly Branch\") from historical script variations."
+    "description": "Phonetic 丣 (liǔ, \"phase of the moon\") + Semantic 田 (tián, \"field\") -> Indicating staying or remaining in a location, like a field",
+    "interpretation": "The character 畱 (liú, \"stay\") combines the phonetic component 丣 (liǔ, \"phase of the moon\") suggesting the pronunciation, with the semantic component 田 (tián, \"field\"), suggesting the meaning of staying connected to a location.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "丣",
       "trad": "丣",
       "pinyin": "liǔ",
-      "english": "no direct translation"
+      "english": "phase of the moon"
     },
     {
       "char": "田",

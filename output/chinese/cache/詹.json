@@ -5,8 +5,8 @@
   "english": "prolong",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "言(言) (yán, \"words, to speak\") + 八(八) (bā, \"breath coming from the mouth; divide\") + 厃(厃, \"danger\") = speak too much -> imply prolongation through excessive speech",
-    "interpretation": "The character combines elements related to speech and the idea of dividing or emanating breath, suggesting a concept of prolongation through extensive speaking. The presence of 'danger' implies overextension can be harmful.",
+    "description": "言(言) (yán, \"words; to speak\") + 八(八) (bā, \"divide; breath coming from the mouth\") + 厃(厃) (wěi, \"danger\") -> speaking too much",
+    "interpretation": "The character 詹(詹) (zhān, \"prolong\") combines 言(言) (yán, \"words; to speak\") with 八(八) (bā, \"breath coming from the mouth\") and 厃(厃) (wěi, \"danger\") to convey the idea of talking extensively or excessively, suggesting that excessive speech might lead to danger or problems.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "words, to speak"
+      "english": "words; to speak"
     },
     {
       "char": "八",
       "trad": "八",
       "pinyin": "bā",
-      "english": "breath coming from the mouth; divide"
+      "english": "divide; breath coming from the mouth"
     },
     {
       "char": "厃",

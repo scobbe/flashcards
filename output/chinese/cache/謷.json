@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 言(言) (yán, \"speech\") + phonetic 敖(敖) (áo, \"ramble\") = associated with speech or vocalization",
-    "interpretation": "The character 謷(謷) uses 言(言) (yán, \"speech\") to indicate its connection to speaking or making sounds, while 敖(敖) (áo, \"ramble\") serves as the phonetic component, suggesting how the character would be pronounced. The construction aligns with the meaning related to audible expressions or speech.",
+    "description": "言(言) (yán, \"speech\") + 敖(敖) (áo) = sound of loud talking",
+    "interpretation": "The character 謷 combines 言(言) (yán, \"speech\"), indicating it relates to speech or talking, with 敖(敖) (áo), which acts as the phonetic component. The combination suggests the sound of loud talking or boasting.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "敖",
       "trad": "敖",
       "pinyin": "áo",
-      "english": "ramble"
+      "english": "sound of loud talking"
     }
   ],
   "in_contemporary_usage": false,

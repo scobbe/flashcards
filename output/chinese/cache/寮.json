@@ -1,0 +1,28 @@
+{
+  "simplified": "寮",
+  "traditional": "寮",
+  "pinyin": "liáo",
+  "english": "officer",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 宀 (roof; structure) + phonetic 尞 (liáo)",
+    "interpretation": "寮(liáo, \"officer\") combines 宀 (mián, \"roof; structure\") as the semantic component, suggesting a building or place, often associated with official duties or administration, with 尞 (liáo) serving as the phonetic component to indicate pronunciation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "宀",
+      "trad": "宀",
+      "pinyin": "mián",
+      "english": "roof; structure"
+    },
+    {
+      "char": "尞",
+      "trad": "尞",
+      "pinyin": "liáo",
+      "english": "phonetic component"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "效",
+  "traditional": "效",
+  "pinyin": "xiào",
+  "english": "result",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic: 交(交) (jiāo, \"mix\") + semantic: 攵(攵) (pū, \"to strike; action\") -> result",
+    "interpretation": "In 效(效) (xiào, \"result\"), 交(交) (jiāo, \"mix\") provides the pronunciation while 攵(攵) (pū, \"to strike; action\") conveys the idea of performing an action to achieve a result.",
+    "simplification": "In simplified form, 效(效) retains its structure, differing from other cases where components might be reduced."
+  },
+  "parts": [
+    {
+      "char": "交",
+      "trad": "交",
+      "pinyin": "jiāo",
+      "english": "mix"
+    },
+    {
+      "char": "攵",
+      "trad": "攵",
+      "pinyin": "pū",
+      "english": "to strike; action"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "努力工作才能看到好的效果(努力工作才能看到好的效果)。",
+      "pinyin": "Nǔlì gōngzuò cáinéng kàndào hǎo de xiàoguǒ.",
+      "english": "Only by working hard can we see good results."
+    },
+    {
+      "chinese": "这种药的效果很好(這種藥的效果很好)。",
+      "pinyin": "Zhè zhǒng yào de xiàoguǒ hěn hǎo.",
+      "english": "The effect of this medicine is very good."
+    },
+    {
+      "chinese": "他们为达到最佳效果需要更多时间(他們為達到最佳效果需要更多時間)。",
+      "pinyin": "Tāmen wèi dádào zuìjiā xiàoguǒ xūyào gèng duō shíjiān.",
+      "english": "They need more time to achieve the best results."
+    }
+  ]
+}

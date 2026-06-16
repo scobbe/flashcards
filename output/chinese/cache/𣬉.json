@@ -5,16 +5,22 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "simplified character 𣬉 (zhā, \"phonetic component\") is a stylized form of 昨(昨) (zuó, \"yesterday\")",
-    "interpretation": "In modern usage, 𣬉 (zhā) is primarily used as a phonetic component in other characters, helping to convey sounds. It is derived from the more complex 昨(昨), simplifying it structurally while keeping its phonetic value.",
+    "description": "髟(髟) (biāo, 'hair') + 加(加) (jiā, 'add') = combines with 加 as phonetic element",
+    "interpretation": "The character 𣬉 is composed of the component 髟(髟) (biāo, 'hair') which suggests a relation to hair or a similar idea, and 加(加) (jiā, 'add') functioning as the phonetic component. This indicates 𣬉 is used for its sound, likely in a word related to hair.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "昨",
-      "trad": "昨",
-      "pinyin": "zuó",
-      "english": "yesterday"
+      "char": "髟",
+      "trad": "髟",
+      "pinyin": "biāo",
+      "english": "hair"
+    },
+    {
+      "char": "加",
+      "trad": "加",
+      "pinyin": "jiā",
+      "english": "add"
     }
   ],
   "in_contemporary_usage": false,

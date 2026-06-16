@@ -2,11 +2,11 @@
   "simplified": "丣",
   "traditional": "丣",
   "pinyin": "liǔ",
-  "english": "no direct translation",
+  "english": "phase of the moon",
   "etymology": {
     "type": "ancient form",
-    "description": "丣 (liǔ) is an ancient form of 酉 (yǒu, \"wine vessel\") -> original representation of 酒 (jiǔ, \"alcohol\") -> used in compounds related to fermentation",
-    "interpretation": "The character 丣 (liǔ) represents an ancient form of 酉 (yǒu, \"wine vessel\"), which was used in reference to alcohol and fermentation processes. It highlights the character's origin in depicting a wine vessel before the concept evolved into 酉.",
+    "description": "丣 -> ancient form of 酉(酉) (yǒu, \"wine vessel\")",
+    "interpretation": "丣 is an ancient character used as an early form of 酉(酉) (yǒu, \"wine vessel\"), symbolizing a container related to the production or serving of alcohol.",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "酉",
       "pinyin": "yǒu",
       "english": "wine vessel"
-    },
-    {
-      "char": "酒",
-      "trad": "酒",
-      "pinyin": "jiǔ",
-      "english": "alcohol"
     }
   ],
   "in_contemporary_usage": false,

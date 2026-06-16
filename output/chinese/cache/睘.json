@@ -5,8 +5,8 @@
   "english": "to see clearly",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "目(目) (mù, \"eye\") + 袁(袁) as phonetic = to see clearly -> vision-related",
-    "interpretation": "The character 睘(qióng, \"to see clearly\") combines the semantic element 目(目) (mù, \"eye\"), indicating vision, with the phonetic 袁(袁), which helps convey the pronunciation, thus relating to the concept of clear vision.",
+    "description": "目(目) ('eye') + 袁(袁) (used for phonetic value) -> 'to see clearly'",
+    "interpretation": "The character 睘(qióng, 'to see clearly') uses the element 目(目) (mù, 'eye') as the semantic component, indicating its connection with sight. The phonetic component 袁(袁) (yuán, 'long garment') indicates the pronunciation. Together, they convey the meaning of seeing clearly.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "袁",
       "trad": "袁",
       "pinyin": "yuán",
-      "english": "a surname"
+      "english": "long garment"
     }
   ],
   "in_contemporary_usage": false,

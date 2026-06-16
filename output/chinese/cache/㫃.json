@@ -1,28 +1,15 @@
 {
   "simplified": "㫃",
   "traditional": "㫃",
-  "pinyin": "qi",
+  "pinyin": "jī",
   "english": "flag",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a flag on a pole with a decoration on top -> today stylized as 方(方) (fāng, \"square\")",
-    "interpretation": "The character 㫃 depicts a flag attached to a pole with a decorative element on top. Over time, this visual representation simplified, with the flag being stylized to resemble 方(方) (fāng, \"square\"). This pictographic origin highlights its evolution from a detailed representation to a more abstract form. The character is related to 倝 yet distinct from other characters like 朝.",
+    "description": "Depicts a flag on a pole with a decoration on top -> stylized as 方(方)",
+    "interpretation": "The character 㫃 is a pictogram representing a flag on a pole, indicative of its original use to depict banners or flags. Over time, the flag and pole have been stylized, resulting in the modern depiction resembling 方(方) (fāng, 'square').",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "方",
-      "trad": "方",
-      "pinyin": "fāng",
-      "english": "square"
-    },
-    {
-      "char": "倝",
-      "trad": "倝",
-      "pinyin": "gàn",
-      "english": "bright"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

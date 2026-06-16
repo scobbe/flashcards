@@ -5,8 +5,8 @@
   "english": "distant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"strike\") + water dots added -> pouring water on a person -> purification or warning",
-    "interpretation": "攸(yōu, \"distant\") originally depicted actions related to authority and purification, either through warning with a stick or through water rituals. The purification aspect links to pouring water, while the warning aspect connects to correction or guidance, leading to the connotations of influence and reach associated with distance.",
+    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"hand holding a stick\") → a person warned by authority or being purified → distant (original meanings) preserved in 修(修) (xiū, \"to fix\") and 滌(滌) (dí, \"to wash\")",
+    "interpretation": "The character 攸 combines the imagery of a person and a hand wielding a stick, symbolizing authority or purification. The original meanings of warning, correcting, or purifying are still seen in related characters like 修(修) (xiū, \"to fix\") and 滌(滌) (dí, \"to wash\").",
     "simplification": ""
   },
   "parts": [
@@ -20,19 +20,19 @@
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "strike"
-    },
-    {
-      "char": "滌",
-      "trad": "滌",
-      "pinyin": "dí",
-      "english": "wash"
+      "english": "hand holding a stick"
     },
     {
       "char": "修",
       "trad": "修",
       "pinyin": "xiū",
-      "english": "repair"
+      "english": "to fix"
+    },
+    {
+      "char": "滌",
+      "trad": "滌",
+      "pinyin": "dí",
+      "english": "to wash"
     }
   ],
   "in_contemporary_usage": false,

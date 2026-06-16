@@ -4,9 +4,9 @@
   "pinyin": "dān",
   "english": "to carry on the shoulder",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "儋(儋) is a variant form of 擔(擔) (dān, \"carry\"); 擔 is phono-semantic with 扌(扌) (shǒu, \"hand\") as semantic and 詹(詹) (zhān) as phonetic -> \"to carry by hand\"",
-    "interpretation": "儋(儋) shares the same meaning and components as 擔(擔) (dān, \"carry\") but differs in structure slightly, emphasizing the action of carrying or balancing a load on one's shoulders or by hand.",
+    "type": "variant form",
+    "description": "儋 represents a variant form of 擔(擔) (dān, \"carry on the shoulder\")",
+    "interpretation": "儋 acts as a variant of 擔, which is a phono-semantic compound consisting of the semantic component 扌 (\"hand\") and the phonetic component 詹 (\"to carry by hand\").",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,7 @@
       "char": "擔",
       "trad": "擔",
       "pinyin": "dān",
-      "english": "carry"
-    },
-    {
-      "char": "扌",
-      "trad": "扌",
-      "pinyin": "shǒu",
-      "english": "hand"
-    },
-    {
-      "char": "詹",
-      "trad": "詹",
-      "pinyin": "zhān",
-      "english": "phonetic"
+      "english": "carry on the shoulder"
     }
   ],
   "in_contemporary_usage": false,

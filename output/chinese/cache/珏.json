@@ -5,8 +5,8 @@
   "english": "pieces of jade",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "玉(玉) (yù, \"jade\") + 玉(玉) (yù, \"jade\") = duplication of jade pieces -> stylized with 王(王) (wáng, \"king\")",
-    "interpretation": "The character 珏(珏) (jué, \"pieces of jade\") represents two pieces of jade, emphasizing their preciousness by stylizing them with 王(王), which can symbolize value or royalty. This reflects the cultural significance of jade in Chinese history, often associated with nobility and virtue.",
+    "description": "玉(玉) (yù, \"jade\") + 玉(玉) (yù, \"jade\") = two pieces of jade -> stylized as 珏",
+    "interpretation": "The character 珏 is composed of two jade pieces, symbolizing a pair or treasure of jades. This compound elementally signifies the richness and value of jade by duplicating its form.",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "玉",
       "pinyin": "yù",
       "english": "jade"
-    },
-    {
-      "char": "王",
-      "trad": "王",
-      "pinyin": "wáng",
-      "english": "king"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "roots",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, 'grass') + phonetic: 豈(豈) (kǎi, 'how') = plant component + root-like shape or sound -> roots",
-    "interpretation": "The character 荄(hài, 'roots') combines 艹(艹) (cǎo, 'grass'), indicative of plants, with 豈(豈) (kǎi, 'how') for its phonetic component, suggesting the character's relation to plant roots.",
+    "description": "艹(艹) (cǎo, \"grass\") + phonetic: 亥(亥) (hài, \"twelfth earthly branch\") = plant part related to grass -> roots",
+    "interpretation": "荄(荄) (hài, \"roots\") combines the semantic component 艹(艹) (cǎo, \"grass\") to indicate a connection to plants, with the phonetic component 亥(亥) (hài) to evoke the sound, resulting in the meaning of roots.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "grass"
     },
     {
-      "char": "豈",
-      "trad": "豈",
-      "pinyin": "kǎi",
-      "english": "how"
+      "char": "亥",
+      "trad": "亥",
+      "pinyin": "hài",
+      "english": "twelfth earthly branch"
     }
   ],
   "in_contemporary_usage": false,

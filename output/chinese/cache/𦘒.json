@@ -5,22 +5,22 @@
   "english": "soft (phonetic)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艮(艮) (gèn, \"stopping\") + 而(而) (ér, \"and\") = combining stopping with a phonetic element -> soft",
-    "interpretation": "𦘒 is a phono-semantic compound where the stopping action of 艮(艮) (gèn, \"stopping\") combines with the phonetic element of 而(而) (ér, \"and\"). The character represents the concept of softness, likely drawing on the phonetic component for its pronunciation.",
+    "description": "聿(聿) (yù, \"writing brush\") + 月(月) (yuè, \"flesh; meat\") = phonetic element suggesting sound \"ruǎn\" -> final form 𦘒",
+    "interpretation": "The character 𦘒 combines 聿(聿) (yù, \"writing brush\") for its phonetic component, suggesting the sound \"ruǎn,\" with 月(月) (yuè, \"flesh; meat\") to possibly represent the notion of softness associated with flesh, aligning with the meaning of \"soft.\"",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "艮",
-      "trad": "艮",
-      "pinyin": "gèn",
-      "english": "stopping"
+      "char": "聿",
+      "trad": "聿",
+      "pinyin": "yù",
+      "english": "writing brush"
     },
     {
-      "char": "而",
-      "trad": "而",
-      "pinyin": "ér",
-      "english": "and"
+      "char": "月",
+      "trad": "月",
+      "pinyin": "yuè",
+      "english": "flesh; meat"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,22 +5,16 @@
   "english": "strong",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "臋(臀) (tún, 'buttocks') + 干(干) (gān, 'dry') as phonetic = composition of 臤",
-    "interpretation": "The character 臤(xián, 'strong') incorporates the component 干(干) (gān, 'dry') for its phonetic properties while 臋(臀) provides the semantic, linking to ideas of bodily strength or robustness. It is an ancient form closely related to the character 賢(賢).",
+    "description": "臣(臣) (chén, \"minister\") + phonetic: 賢(賢) (xián, \"worthy\") = represents an ancient form with phonetic value from 賢 -> strong",
+    "interpretation": "The character 臤(xián, \"strong\") is an ancient form derived from 賢(賢) (xián, \"worthy\"), with 臣(臣) (chén, \"minister\") serving as the semantic component, indicating a quality associated with strength or virtue.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "臋",
-      "trad": "臀",
-      "pinyin": "tún",
-      "english": "buttocks"
-    },
-    {
-      "char": "干",
-      "trad": "干",
-      "pinyin": "gān",
-      "english": "dry"
+      "char": "臣",
+      "trad": "臣",
+      "pinyin": "chén",
+      "english": "minister"
     },
     {
       "char": "賢",

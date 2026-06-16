@@ -5,8 +5,8 @@
   "english": "phonetic",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") with flames around it representing sacrifice -> 火(火) (huǒ, \"fire\") added for emphasis -> 呂(呂) (lǚ, \"spine\") often added as a phonetic -> simplified to 日(日) (rì, \"sun\") in later forms",
-    "interpretation": "The character originally depicted a tree surrounded by flames, symbolizing a sacrificial fire. The addition of 火(火) emphasized the fire's role, and 呂(呂) was incorporated for phonetic purposes, but later evolved into the 日(日) component, focusing on phonetic associations.",
+    "description": "木(木) (mù, \"tree\") with flames -> sacrifice with firewood -> 火(火) (huǒ, \"fire\") added for emphasis -> 呂(呂) (lǚ) used as phonetic",
+    "interpretation": "The character originally depicted a tree encircled by flames, symbolizing a sacrifice using firewood. Later, 火(火) (huǒ, \"fire\") was added to emphasize the element of fire. 呂(呂) (lǚ) was then introduced as a phonetic component, linking it to characters like 寮 and 潦.",
     "simplification": ""
   },
   "parts": [
@@ -29,10 +29,16 @@
       "english": "spine"
     },
     {
-      "char": "日",
-      "trad": "日",
-      "pinyin": "rì",
-      "english": "sun"
+      "char": "寮",
+      "trad": "寮",
+      "pinyin": "liáo",
+      "english": "officer"
+    },
+    {
+      "char": "潦",
+      "trad": "潦",
+      "pinyin": "liáo",
+      "english": "flooded"
     }
   ],
   "in_contemporary_usage": false,

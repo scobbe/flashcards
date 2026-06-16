@@ -1,0 +1,28 @@
+{
+  "simplified": "祢",
+  "traditional": "祢",
+  "pinyin": "nǐ",
+  "english": "you; an ancient pronoun",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "示(示) (shì, \"to show; spirit\") + 爾(爾) (ěr, \"you\") = representation of a spiritual or divine quality with a sound association from 爾",
+    "interpretation": "The character 祢 combines 示(示) (shì, \"to show; spirit\"), indicating its association with spiritual or religious contexts, and 爾(爾) (ěr, \"you\"), which provides the phonetic element. This creation method helps in denoting the character's connection to both the spiritual and the expression of addressing 'you' in an ancient context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "示",
+      "trad": "示",
+      "pinyin": "shì",
+      "english": "to show; spirit"
+    },
+    {
+      "char": "爾",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "you"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

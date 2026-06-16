@@ -5,22 +5,22 @@
   "english": "original meaning unknown",
   "etymology": {
     "type": "pictogram",
-    "description": "亡(亡) (wáng, \"tip\") inside 刀(刀) (dāo, \"knife\") = depicts the tip of a blade",
-    "interpretation": "The character 匄(gài) originally depicted a knife tip, combining components suggesting the sharp edge or damage, although the precise meaning is not fully understood.",
+    "description": "刀(刀) (dāo, \"knife\") with a component resembling the tip of a blade 亡",
+    "interpretation": "The character 匄(gài) originally depicted a knife 刀(刀) (dāo, \"knife\") with a tip or component resembling the tip of a blade 亡. The original meaning is thought to be related to 'damage', though it is not fully clear.",
     "simplification": ""
   },
   "parts": [
-    {
-      "char": "亡",
-      "trad": "亡",
-      "pinyin": "wáng",
-      "english": "tip"
-    },
     {
       "char": "刀",
       "trad": "刀",
       "pinyin": "dāo",
       "english": "knife"
+    },
+    {
+      "char": "亡",
+      "trad": "亡",
+      "pinyin": "wáng",
+      "english": "tip"
     }
   ],
   "in_contemporary_usage": false,

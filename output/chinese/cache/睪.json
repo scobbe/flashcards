@@ -5,8 +5,8 @@
   "english": "to gaze (phonetic component)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "目(目) (mù, \"eye\") + 㚔(㚔) + 廾(廾) (gǒng, \"two hands together; twenty\")/𠬜(𠬜) = gaze with eye + depiction of handcuffs",
-    "interpretation": "The character 睪 combines 目(目) (mù, \"eye\") with a representation of handcuffs formed by 㚔(㚔) and hands 廾(廾) (gǒng, \"two hands together\") or 𠬜(𠬜), indicating the action of 'picking' with the eyes. The inclusion of an eye emphasizes gazing, tying into its etymology of 'to gaze' through visual selection, similar to the concept of choosing or selecting.",
+    "description": "目(目) (mù, \"eye\") + 㚔 (handcuff) -> originally depicts 'to pick with eyes'",
+    "interpretation": "The character 睪(睪) was formed by adding 目(目) (mù, \"eye\") to 㚔 (handcuff) to emphasize the action of picking or selecting using visual inspection, relating to the etymological sense of looking or gazing.",
     "simplification": ""
   },
   "parts": [
@@ -19,20 +19,8 @@
     {
       "char": "㚔",
       "trad": "㚔",
-      "pinyin": "",
+      "pinyin": "unknown",
       "english": "handcuff"
-    },
-    {
-      "char": "廾",
-      "trad": "廾",
-      "pinyin": "gǒng",
-      "english": "two hands together"
-    },
-    {
-      "char": "𠬜",
-      "trad": "𠬜",
-      "pinyin": "",
-      "english": ""
     }
   ],
   "in_contemporary_usage": false,

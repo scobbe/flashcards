@@ -2,11 +2,11 @@
   "simplified": "尃",
   "traditional": "尃",
   "pinyin": "fū",
-  "english": "spread",
+  "english": "phonetic",
   "etymology": {
-    "type": "phono-semantic compound and ideogrammic compound",
-    "description": "phonetic 甫(甫) (fǔ, \"garden\") + semantic 寸(寸) (cùn, \"hand\") = distributing crops -> spreading",
-    "interpretation": "The character 尃 combines 甫(甫) (fǔ, \"garden\") as the phonetic part, with 寸(寸) (cùn, \"hand\") indicating the action of distributing, which together suggest the idea of spreading or distributing crops. This reflects the original agricultural context of spreading or distributing seeds or plants by hand.",
+    "type": "phono-semantic compound",
+    "description": "甫(甫) (fǔ, 'garden') + 寸(寸) (cùn, 'hand') = reference to a sprout growing in a field with the action of a hand -> to distribute crops",
+    "interpretation": "尃(fū) is a phono-semantic compound where 甫(甫) (fǔ, 'garden') suggests the sound and possibly a visual reference to sprouting crops, while 寸(寸) (cùn, 'hand') provides a semantic aspect of distributing or managing these plants. The combination emphasizes activity related to horticulture, especially the handling and distribution of plants or crops.",
     "simplification": ""
   },
   "parts": [

@@ -1,22 +1,15 @@
 {
   "simplified": "皀",
   "traditional": "皀",
-  "pinyin": "jī",
-  "english": "food vessel",
+  "pinyin": "none",
+  "english": "none",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bowl of rice on a stand as part of radical 食 (shí, \"eat\")",
-    "interpretation": "The character 皀(jī) represents a food vessel, illustrating its function with the depiction of a bowl of rice. The radical 食 (shí, \"eat\") emphasizes the character's relation to food.",
+    "description": "Depicts a bowl of rice on a stand",
+    "interpretation": "The character 皀 represents a simple pictorial image of a bowl containing rice placed on a stand, signifying its use as an object related to food or offerings within the context of the radical 食.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "食",
-      "trad": "食",
-      "pinyin": "shí",
-      "english": "eat"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

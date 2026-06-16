@@ -4,9 +4,9 @@
   "pinyin": "zā",
   "english": "to surround",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "The glyph resembles an inverted 之(之) (zhī, \"footprint\") -> connection to 𠂤 (mound, hill) in 師(師)",
-    "interpretation": "The character 帀(zā, \"to surround\") combines the concept of surrounding with the visual element of a footprint, suggesting an encircling motion. Its connection to the ancient glyph components related to hills and troops highlights its association with strategic positioning.",
+    "type": "pictogram",
+    "description": "Depicts the inverted form of 之 (originally 㞢), representing a footstep -> meaning modified to 'to surround'",
+    "interpretation": "The character 帀 is derived from the image of a footprint, indicating the concept of a path or a way, which is metaphorically extended to mean 'to surround' in the context of encircling.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,7 @@
       "char": "之",
       "trad": "之",
       "pinyin": "zhī",
-      "english": "footprint"
-    },
-    {
-      "char": "師",
-      "trad": "師",
-      "pinyin": "shī",
-      "english": "troops"
+      "english": "footstep"
     }
   ],
   "in_contemporary_usage": false,

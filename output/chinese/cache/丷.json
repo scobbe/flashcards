@@ -5,18 +5,11 @@
   "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Top part of the character 爲(為) (wéi, 'to do')",
-    "interpretation": "The character 丷 is a pictogram representing the top element of 爲(為) (wéi, 'to do'), and is visually similar to the Japanese character 𬼀. Its isolated use is primarily graphical rather than semantic.",
+    "description": "Depicts a simple geometric form",
+    "interpretation": "丷 is a simple pictographic representation of a geometric form and does not function independently with a specific meaning in modern usage. It's used as part of other characters like the top portion of 爲(為) (wéi, 'to do').",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "為",
-      "trad": "為",
-      "pinyin": "wéi",
-      "english": "to do"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

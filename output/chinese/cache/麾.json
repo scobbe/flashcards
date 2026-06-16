@@ -5,8 +5,8 @@
   "english": "military signal",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phono-semantic: 麻(麻) (má, 'hemp') phonetic + 其(其) (qí, 'his') semantic = military signal flag -> 麾",
-    "interpretation": "The character combines the phonetic component 麻(麻) (má, 'hemp'), which suggests the pronunciation, with the semantic component 其(其) (qí, 'his'), signifying possession or direction, to denote a flag used in military contexts. The hemp suggests the material, while the overall structure conveys the concept of a flag or signal.",
+    "description": "semantic: 麻(麻) (má, \"hemp\") + phonetic: 虎(虎) (hǔ, \"tiger\") -> combined to convey a flag or banner used as a military signal",
+    "interpretation": "The character 麾(麾) (huī, \"military signal\") combines 麻(麻) (má, \"hemp\"), suggesting a fibrous material like that used for flags, with 虎(虎) (hǔ, \"tiger\"), which is used for phonetic representation. The combination reflects the use of a distinct and visible signal in military contexts.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "hemp"
     },
     {
-      "char": "其",
-      "trad": "其",
-      "pinyin": "qí",
-      "english": "his"
+      "char": "虎",
+      "trad": "虎",
+      "pinyin": "hǔ",
+      "english": "tiger"
     }
   ],
   "in_contemporary_usage": false,

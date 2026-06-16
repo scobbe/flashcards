@@ -1,28 +1,15 @@
 {
   "simplified": "𠬜",
   "traditional": "𠬜",
-  "pinyin": "",
-  "english": "",
+  "pinyin": "unknown",
+  "english": "unknown",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "亻(亻) (rén, \"person\") + 吾(吾) (wú, \"I\") = person-related action involving oneself -> not a standard character",
-    "interpretation": "The character is composed of the person radical 亻(亻) and 吾(吾), suggesting an action or state concerning oneself. It is not commonly used in modern Chinese and does not have a standard meaning.",
+    "type": "pictogram",
+    "description": "Depicts a simple structure or form, possibly stylized as a house or shelter",
+    "interpretation": "The character 𠬜 is a pictogram that seems to represent a basic structure, such as a house or building, indicated by the intersecting lines. However, it is not widely defined or used in contemporary Chinese.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "亻",
-      "trad": "亻",
-      "pinyin": "rén",
-      "english": "person"
-    },
-    {
-      "char": "吾",
-      "trad": "吾",
-      "pinyin": "wú",
-      "english": "I"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

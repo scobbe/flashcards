@@ -5,22 +5,22 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, 'grain') + 瓮(瓮) (wèng, 'jar') = Phonetic component",
-    "interpretation": "The character 㚇 (zōng) is primarily used as a phonetic component in other characters. It combines 禾(禾) (hé, 'grain') for its semantic value with 瓮(瓮) (wèng, 'jar') for its phonetic influence, but it is not commonly used on its own in modern Chinese.",
+    "description": "女(女) (nǚ, \"woman\") + 宗(宗) (zōng) = phonetic component",
+    "interpretation": "The character 㚇 is composed of 女(女) (nǚ, \"woman\") providing the semantic element, combined with 宗(宗) (zōng), which contributes the phonetic component. It primarily serves as a phonetic element in other characters and doesn't have a standard meaning by itself.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "禾",
-      "trad": "禾",
-      "pinyin": "hé",
-      "english": "grain"
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
     },
     {
-      "char": "瓮",
-      "trad": "瓮",
-      "pinyin": "wèng",
-      "english": "jar"
+      "char": "宗",
+      "trad": "宗",
+      "pinyin": "zōng",
+      "english": "ancestral"
     }
   ],
   "in_contemporary_usage": false,

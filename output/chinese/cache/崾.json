@@ -5,8 +5,8 @@
   "english": "high and steep",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "山(山) (shān, 'mountain') + 要(要) (yào, 'want') = phonetic value and semantic indication of steepness -> final meaning 'high and steep'",
-    "interpretation": "The character 崾(yǎo, 'high and steep') combines 山(山) (shān, 'mountain') to indicate the meaning related to mountainous terrain, with 要(要) (yào, 'want') serving as the phonetic component to suggest pronunciation and refine the meaning to specifically denote a steep, elevated place.",
+    "description": "山(山) (shān, \"mountain\") + 幺(么) (yāo, \"tiny\") = phonetically resembles 幺 (yāo) and semantically relates to mountain -> high and steep",
+    "interpretation": "The character 崾 combines the semantic element 山(山) (shān, \"mountain\") representing height with the phonetic element 幺(么) (yāo, \"tiny\"), indicating its sound. This results in the meaning connected to mountainous heights, describing something as high and steep.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "mountain"
     },
     {
-      "char": "要",
-      "trad": "要",
-      "pinyin": "yào",
-      "english": "want"
+      "char": "幺",
+      "trad": "么",
+      "pinyin": "yāo",
+      "english": "tiny"
     }
   ],
   "in_contemporary_usage": false,

@@ -4,9 +4,9 @@
   "pinyin": "n/a",
   "english": "intermediate form",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "㯥(㯥) (cáo, \"pair\") + distinguishing mark 囗(囗) (wéi, \"enclosure\") -> bronze inscription 甘(甘) (gān, \"sweet\") corruption -> 曰(曰) (yuē, \"say\") in Seal Script = 𣍘",
-    "interpretation": "𣍘 is an intermediate form of 曹(曹) (cáo, \"pair\"). Originally depicted two bundles symbolizing 'pair' or 'peer.' The character evolved through several script forms, adding distinguishing marks that transformed its appearance. While it remains visually distinct, its separate evolution makes it unrelated to 曲(曲) (qū, \"bent\") or 典(典) (diǎn, \"canon\").",
+    "type": "phono-semantic compound",
+    "description": "㯥 (cáo, 'pair; peer') with top components merged to resemble 曲 (qǔ, 'bent') -> 曰 (yuē, 'say') added as a distinguishing mark -> intermediate form of 曹 (cáo, 'associate')",
+    "interpretation": "The character evolved from an ideogrammic compound depicting two bundles to represent 'pair'. The distinguishing marks were added which eventually led to the development of the intermediate character 𣍘 before transforming into 曹.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,13 @@
       "char": "㯥",
       "trad": "㯥",
       "pinyin": "cáo",
-      "english": "pair"
+      "english": "pair; peer"
     },
     {
-      "char": "囗",
-      "trad": "囗",
-      "pinyin": "wéi",
-      "english": "enclosure"
-    },
-    {
-      "char": "甘",
-      "trad": "甘",
-      "pinyin": "gān",
-      "english": "sweet"
+      "char": "曲",
+      "trad": "曲",
+      "pinyin": "qǔ",
+      "english": "bent"
     },
     {
       "char": "曰",
@@ -38,19 +32,7 @@
       "char": "曹",
       "trad": "曹",
       "pinyin": "cáo",
-      "english": "pair"
-    },
-    {
-      "char": "曲",
-      "trad": "曲",
-      "pinyin": "qū",
-      "english": "bent"
-    },
-    {
-      "char": "典",
-      "trad": "典",
-      "pinyin": "diǎn",
-      "english": "canon"
+      "english": "associate"
     }
   ],
   "in_contemporary_usage": false,

@@ -4,9 +4,9 @@
   "pinyin": "jī",
   "english": "table",
   "etymology": {
-    "type": "ancient form",
-    "description": "𠀠 (basket pictogram) + 丌 (stand or phonetic component) -> modified 𠔝 -> borrowed for pronoun \"his\"",
-    "interpretation": "The character 丌 represents an ancient component originally depicting a stand added beneath a basket. Over time, this component became associated with the character 其(其) (qí, \"his\"), where 丌 contributed both to the meaning of a stand and possibly functioned as a phonetic component.",
+    "type": "pictogram",
+    "description": "丌 (stands) added under original basket pictogram 𠀠 -> stand for basket -> later associated with 其(其) (qí, \"his\") as ancient form",
+    "interpretation": "丌 originally represented the stand of a basket and served as a base in its pictogram, later becoming part of the character 其(其) (qí, \"his\") in its evolution. Its primary association was with physical stands or supports, reflecting its initial depiction.",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "其",
       "pinyin": "qí",
       "english": "his"
-    },
-    {
-      "char": "箕",
-      "trad": "箕",
-      "pinyin": "jī",
-      "english": "basket"
     }
   ],
   "in_contemporary_usage": false,
