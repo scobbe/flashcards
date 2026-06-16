@@ -47,6 +47,22 @@ CHAR_REF_RULE = (
 )
 LENGTH_RULE = "1-2 sentences MAX"
 
+# The interpretation must account for EVERY sense in the definition, scaling with
+# the number of meanings instead of a hard 1-2 sentence cap (息 = "rest; interest;
+# news" needs the breath->rest and the ->interest / ->news links spelled out).
+INTERP_LENGTH_RULE = (
+    "Length: roughly one clause per distinct sense; a single-sense character stays "
+    "to 1-2 sentences. Be concise, never pad."
+)
+COVER_ALL_SENSES = (
+    "COVER EVERY SENSE: the Meaning often lists several senses (separated by ';' or ','). "
+    "Explain how the character connects to EACH sense, including derived, extended, and "
+    "phonetically-borrowed meanings — spell out the linking logic so no sense is left "
+    "unexplained. E.g. 息 (\"rest; interest; news\"): nose + heart = breathing -> rest; "
+    "what keeps growing like breath / money breeding money -> interest; a breath passed "
+    "along -> tidings -> news."
+)
+
 # Pin the gloss of commonly-mislabeled components so etymology text stays accurate.
 COMPONENT_GLOSS_RULE = (
     "ACCURATE COMPONENT GLOSSES (use these exact meanings, do not invent others):\n"
@@ -146,7 +162,8 @@ CHINESE_PROMPT_FIELDS = [
         name="interpretation",
         prompt={
             "single_char": _join([
-                LENGTH_RULE,
+                INTERP_LENGTH_RULE,
+                COVER_ALL_SENSES,
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
                 "Explain WHY the components from 'parts' field make intuitive sense together",
@@ -155,18 +172,19 @@ CHINESE_PROMPT_FIELDS = [
                 "ONLY reference components listed in 'parts' field",
                 "Include FACTUAL context when relevant - cite classical texts or historical records, not speculation",
                 "FORBIDDEN: claims about ancient beliefs, heavenly origins, or mystical symbolism",
-                "No unexplained leaps like 'by extension...'",
+                "When a sense is an extension or loan, DO give the connecting logic (briefly) rather than omitting it; only skip a link you genuinely cannot support",
                 "No jargon",
                 "Do NOT just restate the description - add insight",
             ]),
             "multi_char": _join([
-                LENGTH_RULE,
+                INTERP_LENGTH_RULE,
+                COVER_ALL_SENSES,
                 CHAR_REF_RULE,
                 "Explain WHY this combination makes sense",
                 'E.g. A 馆(館) (guǎn, "building") for 图书(圖書) (túshū, "books") is where you go to read and borrow them.',
                 "Include FACTUAL historical/philosophical context when relevant (Confucianism, Buddhism, classical texts)",
                 'E.g. 大同(大同) (dàtóng, "Great Unity") is a Confucian utopian ideal from the Book of Rites (禮記/礼记)',
-                "No unexplained leaps like 'by extension...' - if you can't explain the connection, don't mention it",
+                "When a sense is an extension or loan, DO give the connecting logic (briefly) rather than omitting it",
                 "No generic explanations like 'Chinese often...'",
                 "No speculation about ancient beliefs - only cite verifiable sources (classical texts, historical records)",
                 "No jargon",

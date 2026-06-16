@@ -5,8 +5,8 @@
   "english": "rest; interest; news",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "自(自) (zì, \"nose\") + 心(心) (xīn, \"heart\") = breathing indicative of life -> rest",
-    "interpretation": "The character 息 combines 自(自) (zì, \"nose\") which originally depicted 'nose', with 心(心) (xīn, \"heart\"), representing the heart. Together, these components symbolize the process of breathing, an essential function of life that connects the nose to respiration, ultimately signifying rest and relaxation.",
+    "description": "自(自) (zì, \"nose\") + 心(心) (xīn, \"heart\") = breathe through one's nose -> rest -> extension to 'interest' and 'news'",
+    "interpretation": "The character 息 (xī, \"rest\") combines 自(自) (zì, \"nose\") and 心(心) (xīn, \"heart\") to depict the act of breathing, emphasizing relaxation and rejuvenation. This concept naturally extends to 'interest', as interest accumulates steadily like breath, and 'news', which circulates and spreads like shared breaths.",
     "simplification": ""
   },
   "parts": [
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他需要一些时间休息(他需要一些時間休息)。",
-      "pinyin": "Tā xūyào yīxiē shíjiān xiūxī.",
-      "english": "He needs some time to rest."
+      "chinese": "我累了，需要休息(我累了，需要休息)。",
+      "pinyin": "Wǒ lèi le, xūyào xiūxī.",
+      "english": "I am tired and need to rest."
     },
     {
-      "chinese": "投资理财时(投資理財時)，要注意利息变化(要注意利息變化)。",
-      "pinyin": "Tóuzī lǐcái shí, yào zhùyì lìxī biànhuà.",
-      "english": "When investing, pay attention to interest rate changes."
+      "chinese": "他在银行的存款有很高的利息(他在銀行的存款有很高的利息)。",
+      "pinyin": "Tā zài yínháng de cúnkuǎn yǒu hěn gāo de lìxī.",
+      "english": "His bank deposit earns high interest."
     },
     {
-      "chinese": "他经常关注国际新闻(他經常關注國際新聞)。",
-      "pinyin": "Tā jīngcháng guānzhù guójì xīnwén.",
-      "english": "He frequently follows international news."
+      "chinese": "有人传来了一则趣闻(有人傳來了一則趣聞)，我们都笑了(我們都笑了)。",
+      "pinyin": "Yǒurén chuánlái le yī zé qùwén, wǒmen dōu xiào le.",
+      "english": "Someone shared an interesting piece of news, and we all laughed."
     }
   ]
 }
