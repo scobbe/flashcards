@@ -1,0 +1,22 @@
+{
+  "simplified": "㣇",
+  "traditional": "㣇",
+  "pinyin": "n/a",
+  "english": "silk threads",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a pig-like creature with fur: 彑 (head of pig) + pig's fur and hooves -> depiction of a pig-like creature",
+    "interpretation": "The character 㣇 was originally a pictogram representing a pig-like creature with distinct features such as fur and hooves. This representation highlights its roots in depicting identifiable animal traits, specifically focusing on the physical appearance of a pig.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "彑",
+      "trad": "彑",
+      "pinyin": "jì",
+      "english": "pig's head"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

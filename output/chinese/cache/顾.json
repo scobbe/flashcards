@@ -5,9 +5,9 @@
   "english": "look after; take into consideration; visit; turn around",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic: 雇 (gù, \"hire\") + Semantic: 頁 (yè, \"head\") = looking after someone's head; figuratively, \"look after; consider; visit; turn around\"",
-    "interpretation": "The character 顧(顧) (gù, \"look after; consider\") combines the phonetic element 雇(雇) with the semantic 頁(頁) (yán, \"head\"), suggesting the idea of thinking or considering something, akin to looking after or taking into account someone's head or affairs.",
-    "simplification": "Simplified by replacing 頁(頁) (yè, \"head\") with 页(页) and 雇 (gù, \"hire\") with simplification retained."
+    "description": "Phonetic 雇 (gù, \"hire\") + Semantic 頁 (yè, \"head\") -> idea of turning one's head to look -> look after or visit",
+    "interpretation": "The character 顧(顧) (gù, \"look after\") combines the phonetic element 雇(雇) (gù, \"hire\") with the semantic element 頁(頁) (yè, \"head\"), suggesting the action of turning one's head, which ties to the meanings of paying attention and consideration.",
+    "simplification": "顧(顧) was simplified by retaining the overall structure but reducing the complexity of 頁(頁) (yè, \"head\") for ease of writing."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她在医院里照顾她的母亲(她在醫院裡照顧她的母親)。",
-      "pinyin": "Tā zài yīyuàn lǐ zhàogù tā de mǔqin.",
-      "english": "She is looking after her mother in the hospital."
+      "chinese": "他总是很细心地照顾他的家人(他總是很細心地照顧他的家人)。",
+      "pinyin": "Tā zǒngshì hěn xìxīn de zhàogù tā de jiārén.",
+      "english": "He always carefully looks after his family."
     },
     {
-      "chinese": "请顾全大局(請顧全大局)，不要只考虑个人利益(不要只考慮個人利益)。",
-      "pinyin": "Qǐng gùquán dàjú, bùyào zhǐ kǎolǜ gèrén lìyì.",
-      "english": "Please consider the bigger picture and don't just focus on personal interests."
+      "chinese": "在忙碌的工作中，他从不忽视顾及家人的感受(在忙碌的工作中，他從不忽視顧及家人的感受)。",
+      "pinyin": "Zài mánglù de gōngzuò zhōng, tā cóng bù hūshì gùjí jiārén de gǎnshòu.",
+      "english": "Amidst his busy work, he never neglects to take into consideration his family's feelings."
     },
     {
-      "chinese": "他曾经拜访过我(他曾經拜訪過我)，让我很感动(讓我很感動)。",
-      "pinyin": "Tā céngjīng bàifǎng guò wǒ, ràng wǒ hěn gǎndòng.",
-      "english": "He visited me once, which touched me deeply."
+      "chinese": "他路过时，顺便去顾客经理那边拜访(他路過時，順便去顧客經理那邊拜訪)。",
+      "pinyin": "Tā lùguò shí, shùnbiàn qù gùkè jīnglǐ nà biān bàifǎng.",
+      "english": "As he passed by, he took the opportunity to visit the customer manager."
     }
   ]
 }

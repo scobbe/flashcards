@@ -4,36 +4,35 @@
   "pinyin": "cǎi",
   "english": "pluck",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "爪(爪) (zhǎo, 'claw') + 木(木) (mù, 'tree') = hand grasping tree branch -> pluck",
-    "interpretation": "The character 采(cǎi, 'pluck') visually represents a claw or hand reaching out to a tree, symbolizing the action of plucking or gathering. This illustrates the intuitive meaning through its pictorial components.",
-    "simplification": "In contemporary Chinese, 采(cǎi) serves both phonetic and semantic functions. The simplified form replaces the traditional form 採(cǎi), which is composed of 扌(shǒu, 'hand') + 采(cǎi, 'pluck'), illustrating the action of plucking with a hand."
+    "type": "phono-semantic compound",
+    "description": "扌(hand) + 采(to pick) = action of picking with hand -> pluck",
+    "interpretation": "The character 採 represents the action of picking or plucking using one's hand. The semantic component 扌(shǒu, \"hand\") indicates the action being performed, while 采(cǎi, \"to pick\") serves the phonetic role. Over time, 采 was retained in simplified usage, whereas 採 is used traditionally.",
+    "simplification": "采 is a simplification of 採 by using the original form that omits the 手 hand radical for brevity while retaining the phonetic element."
   },
   "parts": [
     {
-      "char": "爪",
-      "trad": "爪",
-      "pinyin": "zhǎo",
-      "english": "claw"
-    },
-    {
-      "char": "木",
-      "trad": "木",
-      "pinyin": "mù",
-      "english": "tree"
+      "char": "扌",
+      "trad": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "她在花园里采花(她在花園裡採花)。",
-      "pinyin": "Tā zài huāyuán lǐ cǎi huā.",
-      "english": "She is plucking flowers in the garden."
+      "chinese": "她喜欢在花园里采花(她喜歡在花園裡採花)。",
+      "pinyin": "Tā xǐhuān zài huāyuán lǐ cǎi huā.",
+      "english": "She likes to pluck flowers in the garden."
     },
     {
-      "chinese": "我和朋友一同去山上采果(我和朋友一同去山上採果)，享受自然(享受自然)。",
-      "pinyin": "Wǒ hé péngyǒu yītóng qù shān shàng cǎi guǒ, xiǎngshòu zìrán.",
-      "english": "My friend and I go to pluck fruits on the mountain, enjoying nature."
+      "chinese": "我们去山上采草药(我們去山上採草藥)。",
+      "pinyin": "Wǒmen qù shān shàng cǎi cǎoyào.",
+      "english": "We go to the mountains to pluck herbs."
+    },
+    {
+      "chinese": "他在果园里采苹果(他在果園裡採蘋果)。",
+      "pinyin": "Tā zài guǒyuán lǐ cǎi píngguǒ.",
+      "english": "He plucks apples in the orchard."
     }
   ]
 }

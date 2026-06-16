@@ -5,16 +5,16 @@
   "english": "sound; voice",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 殸 (qīng, 'sound of metal or stone') + semantic: 耳(耳) (ěr, 'ear') = sound perceived by the ear -> sound; voice",
-    "interpretation": "The character 聲 combines the sound-related context provided by 殸 and the perception aspect represented by 耳, underlining that sound is something heard by the ear.",
-    "simplification": "声(聲): The component 殸(殸) (qīng, 'sound of metal or stone') was omitted, simplifying the character while retaining the primary semantic aspect 口(口) (kǒu, 'mouth') from the singing component."
+    "description": "耳(耳) (ěr, \"ear\") + phonetic 殸(殸) -> 聲(聲)",
+    "interpretation": "The character 聲(聲) (shēng, \"sound; voice\") combines the semantic indicator 耳(耳) (ěr, \"ear\") to represent the idea of sound heard by the ear, with the phonetic component 殸(殸) providing the sound element. This reflects the essential nature of sound as something that is perceived audibly through the ears.",
+    "simplification": "声(聲) is the simplified form where 殸 was replaced with 士(士) (shì, \"scholar\") and 工(工) (gōng, \"work\") was omitted; it retains the core meaning through phonetic reduction."
   },
   "parts": [
     {
       "char": "殸",
       "trad": "殸",
-      "pinyin": "qīng",
-      "english": "sound of metal or stone"
+      "pinyin": "kēng",
+      "english": "vessel; sound"
     },
     {
       "char": "耳",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的声音非常好听(他的聲音非常好聽)。",
-      "pinyin": "Tā de shēngyīn fēicháng hǎotīng。",
-      "english": "His voice is very pleasant."
+      "chinese": "那是一种美妙的声音(那是一種美妙的聲音)。",
+      "pinyin": "Nà shì yī zhǒng měimiào de shēngyīn.",
+      "english": "That is a wonderful sound."
     },
     {
-      "chinese": "音乐产生美妙的声音(音樂產生美妙的聲音)，唤醒了沉睡的心灵(喚醒了沉睡的心靈)。",
-      "pinyin": "Yīnyuè chǎnshēng měimiào de shēngyīn, huànxǐng le chénshuì de xīnlíng。",
-      "english": "Music produces beautiful sounds, awakening the sleeping soul."
+      "chinese": "我听到了他的声音(我聽到了他的聲音)，感到很高兴(感到很高興)。",
+      "pinyin": "Wǒ tīngdào le tā de shēngyīn, gǎndào hěn gāoxìng.",
+      "english": "I heard his voice and felt very happy."
     },
     {
-      "chinese": "悠扬的琴声在房间里回荡(悠揚的琴聲在房間裏回蕩)，伴着月光显得宁静(伴著月光顯得寧靜)。",
-      "pinyin": "Yōuyáng de qínshēng zài fángjiān lǐ huídàng, bànzhe yuèguāng xiǎnde níngjìng。",
-      "english": "The melodious sound of the lute echoes in the room, and with the moonlight it appears tranquil."
+      "chinese": "风的声音很柔和(風的聲音很柔和)。",
+      "pinyin": "Fēng de shēngyīn hěn róuhé.",
+      "english": "The sound of the wind is gentle."
     }
   ]
 }

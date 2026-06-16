@@ -5,9 +5,9 @@
   "english": "open",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "門(門) (mén, 'door') + 一(一) (yī, 'latch or wooden pole') + 廾(廾) (gǒng, 'pair of hands') = hands opening a latched door -> open; simplified to 开 by removing 門",
-    "interpretation": "The traditional character 開 shows a pair of hands opening a latched door. In the simplified form 开, the representation of 門. (door) was removed to streamline writing while maintaining the essence of the action of 'opening'.",
-    "simplification": "Simplified 开 from 開 by removing the 門 (mén, 'door') to keep the focus on the action with 干 (gān) representing the trunks or latches."
+    "description": "門(門) (mén, \"door\") + 一(一) (latch/pole) + 廾(廾) (gǒng, \"two hands\") -> hands opening a latched door -> 開",
+    "interpretation": "The character 開 (kāi, \"open\") visually represents the action of opening a door with hands, symbolized by combining the door 門(門) with the latch 一 and two hands 廾(廾). This conveys the core idea of opening something secured by a latch.",
+    "simplification": "开 is a visual and structural shorthand of 開, created by merging 一 and 廾 into a simplified form, while retaining the reference to opening a door."
   },
   "parts": [
     {
@@ -20,31 +20,31 @@
       "char": "一",
       "trad": "一",
       "pinyin": "yī",
-      "english": "latch or pole"
+      "english": "one; latch"
     },
     {
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
-      "english": "pair of hands"
+      "english": "two hands"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我开车去上班(我開車去上班)。",
-      "pinyin": "Wǒ kāichē qù shàngbān.",
-      "english": "I drive to work."
+      "chinese": "老师在上课时总是很开心(老師在上課時總是很開心)。",
+      "pinyin": "Lǎoshī zài shàngkè shí zǒng shì hěn kāixīn.",
+      "english": "The teacher is always happy during class."
     },
     {
-      "chinese": "花儿开得很灿烂(花兒開得很燦爛)。",
-      "pinyin": "Huār kāi de hěn cànlàn.",
-      "english": "The flowers are blooming brilliantly."
+      "chinese": "我们要早上开会(我們要早上開會)，讨论计划(討論計劃)。",
+      "pinyin": "Wǒmen yào zǎoshang kāihuì, tǎolùn jìhuà.",
+      "english": "We need to have a meeting in the morning to discuss the plan."
     },
     {
-      "chinese": "他打开窗户(他打開窗戶)，迎进清新的空气(迎進清新的空氣)。",
-      "pinyin": "Tā dǎkāi chuānghù, yíng jìn qīngxīn de kōngqì.",
-      "english": "He opens the window to let in the fresh air."
+      "chinese": "请把门打开(請把門打開)，让我进去(讓我進去)。",
+      "pinyin": "Qǐng bǎ mén dǎkāi, ràng wǒ jìnqù.",
+      "english": "Please open the door and let me in."
     }
   ]
 }

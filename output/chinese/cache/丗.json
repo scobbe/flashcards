@@ -4,9 +4,9 @@
   "pinyin": "shì",
   "english": "generation",
   "etymology": {
-    "type": "variant form",
-    "description": "丗 is a variant form of 卅 (十, \"10\") repeated three times -> represents thirty",
-    "interpretation": "The character 丗 is a variant of 卅, symbolically representing the number thirty by repeating 十 \"ten\" three times. This highlights how ancient numeric characters often used repetition to denote multiplication.",
+    "type": "variant",
+    "description": "Variant form of 卅(卅) (sà, \"thirty\") -> repetition of 十(十) (shí, \"ten\") three times",
+    "interpretation": "The character 丗 is a variant representation of 卅, where the concept of 'generation' or 'thirty' is depicted through the repetition of the number ten three times.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "十",
       "trad": "十",
       "pinyin": "shí",
-      "english": "10"
+      "english": "ten"
     }
   ],
   "in_contemporary_usage": false,

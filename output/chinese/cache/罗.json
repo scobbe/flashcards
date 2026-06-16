@@ -5,14 +5,14 @@
   "english": "net",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "𦉎(𦉎) (wǎng, \"net\") + 維(維) (wéi, \"bird tied with string\") = net for catching birds -> 羅(羅) (luó, \"net\")",
-    "interpretation": "The character 羅(羅) (luó) originally depicted a net used for catching birds, combining the symbols for a net and a bird tied with string. This visually represents its function as a bird-catching tool.",
-    "simplification": "The simplified form 罗 simplifies 羅 by reducing the complexity of the net component, likely influenced by cursive handwriting styles."
+    "description": "网(网) (wǎng, \"net\") + 維(維) (wéi, \"bird tied with string\") = net for catching birds -> 羅(羅) (luó, \"net\")",
+    "interpretation": "The character 羅(羅) (luó, \"net\") is an ideogrammic compound that combines the idea of a net with the concept of a bird tied with a string, visually conveying the purpose of catching birds. This compound reflects its historical usage as a tool in bird catching.",
+    "simplification": "The traditional character 羅 was simplified to 罗 by removing the silk radical 糸(糸)."
   },
   "parts": [
     {
-      "char": "𦉎",
-      "trad": "𦉎",
+      "char": "网",
+      "trad": "网",
       "pinyin": "wǎng",
       "english": "net"
     },
@@ -26,14 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "渔民撒下罗(漁民撒下羅)，捕到了许多鱼(捕到了許多魚)。",
-      "pinyin": "Yúmín sā xià luó, bǔ dàole xǔduō yú.",
-      "english": "The fisherman cast the net, and caught many fish."
+      "chinese": "渔夫撒下了大网(漁夫撒下了大網)，希望能捕到很多鱼(希望能捕到很多魚)。",
+      "pinyin": "Yúfū sā xiàle dà wǎng, xīwàng néng bǔ dào hěn duō yú.",
+      "english": "The fisherman cast a big net, hoping to catch many fish."
     },
     {
-      "chinese": "老渔夫修补罗(老漁夫修補羅)。",
-      "pinyin": "Lǎo yúfū xiūbǔ luó.",
-      "english": "The old fisherman mended the net."
+      "chinese": "他用罗子(他用羅子)将柳絮筛干净。",
+      "pinyin": "Tā yòng luózi jiāng liǔxù shāi gānjìng.",
+      "english": "He used a sieve to clean off the willow catkins."
+    },
+    {
+      "chinese": "迷人的夜晚如同一张魔法网(迷人的夜晚如同一張魔法網)，将人们笼罩其中(將人們籠罩其中)。",
+      "pinyin": "Mírén de yèwǎn rútóng yī zhāng mófǎ wǎng, jiāng rénmen lǒngzhào qízhōng.",
+      "english": "The enchanting night is like a magical net, enveloping everyone within it."
     }
   ]
 }

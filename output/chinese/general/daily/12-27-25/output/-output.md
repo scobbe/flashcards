@@ -51,25 +51,25 @@
     - grass
   - 樂
     - lè
-    - music
+    - music/joy
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - semantic: 艹 (cǎo, "grass") + phonetic: 樂 (lè, "music") =
-    - plant-based remedy ->
+    - 艹 (cǎo, "grass") + 樂 (lè, "music/joy") =
+    - plant-based substance associated with well-being ->
     - medicine
-  - **interpretation:** 藥 (yào, "medicine") combines the semantic 艹 (cǎo, "grass"), reflecting the use of plants in remedies, with the phonetic 樂 (lè, "music"), indicating the sound element of the original character. This construction signifies plant-derived compounds for healing.
-  - **simplification:** 藥 was first simplified by the Republic of China as 葯 with intended phonetic alignment, and later as 药(藥) in the People's Republic of China by replacing 樂 with 乐 (lè, "joy"), further simplified to 药(藥) using 约 (yuē, "agreement") for phonetic simplicity.
+  - **interpretation:** The character 藥(yào, "medicine") combines the semantic component 艹 (cǎo, "grass"), indicating its herbal nature, with the phonetic component 樂 (lè, "joy/music"), suggesting a beneficial effect, to convey the idea of medicine or a healing substance.
+  - **simplification:** 藥 was simplified to 药(藥) by replacing the phonetic component 樂 with the simpler 丶 element, significantly reducing the number of strokes.
 - **examples:**
-  - 医(醫)生( )给(給)我( )开(開)药(藥)。
-    - Yīshēng gěi wǒ kāi yào。
-    - The doctor prescribed me medicine.
-  - 病人生病了，需( )要( )药(藥)治( )疗(療)。
-    - Bìngrén shēngbìng le， xūyào yào zhìliáo。
-    - The patient fell ill and needs medicine for treatment.
-  - 古( )人( )常( )用( )药(藥)，以解百病。
-    - Gǔrén cháng yòng yào， yǐ jiě bǎi bìng。
-    - Ancient people commonly used medicine to cure all ailments.
+  - 我( )需( )要( )一( )些( )感( )冒( )药(藥)。
+    - Wǒ xūyào yīxiē gǎnmào yào.
+    - I need some cold medicine.
+  - 医(醫)生( )给(給)我( )开(開)了( )止( )痛( )药(藥)。
+    - Yīshēng gěi wǒ kāile zhǐtòng yào.
+    - The doctor prescribed me painkillers.
+  - 这(這)种(種)药(藥)可( )以( )帮(幫)助( )你( )睡( )眠( )。
+    - Zhè zhǒng yào kěyǐ bāngzhù nǐ shuìmián.
+    - This medicine can help you sleep.
 ### 中( )药(藥) → 药(藥) → 艹
 - **definition:** grass
 - **pinyin:** cǎo
@@ -85,7 +85,7 @@
     - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
     - When spring arrives, grass grows rapidly.
 ### 中( )药(藥) → 药(藥) → 樂
-- **definition:** music
+- **definition:** music/joy
 - **pinyin:** lè
 - **components:**
   - 糸
@@ -193,14 +193,24 @@
 ### 中( )药(藥) → 药(藥) → 樂 → 白 → 皂 → 皁
 - **definition:** acorn
 - **pinyin:** zào
+- **components:**
+  - 早
+    - zǎo
+    - early
 - **etymology:**
-  - **type:** variant character
-  - **description:**
-    - 皁 (variant traditional form of 皂, represents acorn) ->
-    - 驄 (cōng, "acorn") in its original sense ->
-    - related to 由 forms as in alternative characters
-  - **interpretation:** 皁 is a traditional variant form closely related to 皂 (zào, "soap") but preserves the original word for "acorn". It is used in place of 皂 due to historical orthographic practices.
-  - **simplification:** 皂 was largely replaced by 皁 in traditional texts where this specific variant was used.
+  - **type:** phono-semantic compound
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 中( )药(藥) → 药(藥) → 樂 → 白 → 皂 → 早
 - **definition:** early
 - **pinyin:** zǎo
@@ -525,10 +535,8 @@
 - **pinyin:** hé
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a container and its lid ->
-    - original form of 蓋 (gài, "lid")
-  - **interpretation:** 盍 (hé, "why not") originally depicted a container with a lid, emphasizing the concept of covering or containing, which transitioned to an interrogative meaning over time.
+  - **description:** Depicts a container with its lid
+  - **interpretation:** The character 盍(hé, "why not") originally depicted a container with its lid, suggesting the act of covering or closing something. It later came to serve as the phonetic component in the development of 蓋 (gài, "cover").
 ### 存( )根( )盖(蓋)不( )改( )老( )火( )锅(鍋) → 不改
 - **definition:** do not change; unaltered
 - **pinyin:** bù gǎi
@@ -984,20 +992,30 @@
 - **pinyin:** guō
 - **components:**
   - 冎
-    - guā
-    - phonetic component
+    - guǒ
+    - bone
   - 口
     - kǒu
     - mouth
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - phonetic 冎 + semantic 口 ->
-    - 咼
-  - **interpretation:** The character 咼 (guō) combines the phonetic component 冎 with the semantic component 口 (kǒu, "mouth") to form a sound-related character, where 冎 provides the sound value while 口 indicates a connection to speech or the mouth. The character functions primarily as a phonetic element in more complex characters.
+    - Phonetic 冎 (guǒ, 'bone') + Semantic 口 (kǒu, 'mouth') ->
+    - phonetic component
+  - **interpretation:** The character 咼 (guō) combines 冎 (guǒ, 'bone') for its phonetic value with 口 (kǒu, 'mouth') for the semantic aspect, forming a phonetic component used in various compounds.
+- **examples:**
+  - 这(這)个(個)字( )包( )括( )一( )个(個)咼( )部( )件( )。
+    - Zhège zì bāokuò yīgè guō bùjiàn.
+    - This character includes a phonetic component 'guō'.
+  - 在( )汉(漢)字( )中( )，咼( )是( )个(個)常( )见(見)的( )声(聲)旁( )。
+    - Zài hànzì zhōng, guō shì gè chángjiàn de shēngpáng.
+    - In Chinese characters, 'guō' is a common phonetic component.
+  - 一( )些( )古( )代( )汉(漢)字( )，使( )用( )咼( )作( )为(為)发(發)音( )参(參)考( )。
+    - Yīxiē gǔdài hànzì, shǐyòng guō zuòwéi fāyīn cānkǎo.
+    - Some ancient Chinese characters used 'guō' as a phonetic reference.
 ### 存( )根( )盖(蓋)不( )改( )老( )火( )锅(鍋) → 火鍋 → 鍋 → 咼 → 冎
-- **definition:** phonetic component
-- **pinyin:** guā
+- **definition:** bone
+- **pinyin:** guǒ
 - **components:**
   - 骨
     - gǔ
@@ -1975,16 +1993,24 @@
 - **components:**
   - 冂
     - jiōng
-    - borders
+    - border
   - 口
     - kǒu
     - mouth
 - **etymology:**
-  - **type:** ancient variant
+  - **type:** ideogrammic compound
   - **description:**
-    - Ancient variant of 冂 (jiōng, "borders"), depicts enclosure with 口 (kǒu, "mouth") inside ->
-    - closed
-  - **interpretation:** 冋 (jiōng, "closed") is an ancient variant of 冂, traditionally depicting an enclosed space or area with 口 representing an enclosed mouth, symbolizing something that is closed or blocked off.
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ### 岭(嶺)南( ) → 南 → 冂 → 堂 → 土
 - **definition:** earth
 - **pinyin:** tǔ
@@ -2094,6 +2120,9 @@
 - **definition:** cover
 - **pinyin:** jiǎn
 - **components:**
+  - 又
+    - yòu
+    - again
   - 灰
     - huī
     - ash
@@ -2101,8 +2130,26 @@
   - **type:** pictogram
   - **description:**
     - Depicts a left hand ->
-    - stylized as a component in characters like 灰 (huī, "ash")
-  - **interpretation:** This character represents a left hand, and it is visually similar to the component used in 灰 (huī, "ash"), where a left hand is an element of the character.
+    - stylized as 又 (yòu, "again") flipped ->
+    - related to top component of 灰 (huī, "ash")
+  - **interpretation:** The character 𠂇 is a pictogram representing a left hand, stylized as an inverted 又 (yòu, "again"). It's also related to 灰 (huī, "ash") where a left hand is part of the composition.
+### 岭(嶺)南( ) → 南 → 𠂇 → 又
+- **definition:** again
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又 (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很( )多( )汉(漢)字( )含( )有( )又( )部( )首( )，表( )示( )与(與)手( )有( )关(關)的( )动(動)作( )。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古( )人( )用( )又( )描( )绘(繪)手( )的( )形( )态(態)，体(體)现(現)了( )古( )汉(漢)字( )的( )独(獨)特( )魅( )力( )。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
 ### 岭(嶺)南( ) → 南 → 𠂇 → 灰
 - **definition:** ash
 - **pinyin:** huī
@@ -2130,23 +2177,6 @@
   - 古( )老( )的( )炉(爐)中( )散( )落( )着(著)灰( )。
     - Gǔlǎo de lú zhōng sànluò zhe huī.
     - Ash scattered within the ancient furnace.
-### 岭(嶺)南( ) → 南 → 𠂇 → 灰 → 又
-- **definition:** hand
-- **pinyin:** yòu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a right hand
-  - **interpretation:** The character 又 (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
-- **examples:**
-  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
-    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
-    - The character '又' originally comes from the hand.
-  - 很( )多( )汉(漢)字( )含( )有( )又( )部( )首( )，表( )示( )与(與)手( )有( )关(關)的( )动(動)作( )。
-    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
-    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
-  - 古( )人( )用( )又( )描( )绘(繪)手( )的( )形( )态(態)，体(體)现(現)了( )古( )汉(漢)字( )的( )独(獨)特( )魅( )力( )。
-    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
-    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
 ### 岭(嶺)南( ) → 南 → 𠂇 → 灰 → 火
 - **definition:** fire
 - **pinyin:** huǒ
@@ -2384,9 +2414,19 @@
     - zǎo
     - early
 - **etymology:**
-  - **type:** variant form
-  - **description:** 皁 is a variant traditional form of 皂, which is a variant of 早 (zǎo, 'early') originally meaning 'acorn'.
-  - **interpretation:** 皁 is an archaic form connected to 皂 (zào, 'acorn') and related to 早 (zǎo, 'early'). Historically, it reflects an early usage of the term for 'acorn,' showing how Chinese characters borrow forms for phonetic or semantic reasons.
+  - **type:** phono-semantic compound
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 春( )风(風)手( )作( ) → 春風 → 春 → 屯
 - **definition:** sprout
 - **pinyin:** zhūn
@@ -3237,9 +3277,9 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up, originally representing a foot ->
+    - Depicts a footprint pointing up ->
     - stylized as 龰
-  - **interpretation:** The character 龰 depicts a stylized representation of feet, with the original intention of conveying the concept of a footprint. Its connection to the original form 止 (zhǐ, "footprint") highlights its base representation, where the footprint points upward in styling.
+  - **interpretation:** 龰 (yù, "stylized feet") is a pictogram depicting a footprint pointing upwards. In its traditional form, it illustrates the basic idea of a foottrace and was stylized over time, retaining its association with feet. This stylization emphasizes the footprint with simplicity, aligning with the pictographic representation of feet in early scripts.
 ### 李旭婷 → 李 → 來 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -3907,13 +3947,21 @@
   - 心
     - xīn
     - heart
-  - 囪
+  - 囱
     - cōng
-    - chimney
+    - pattern
+  - 聰
+    - cōng
+    - intelligent
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** 心 (xīn, "heart") + 囪 (cōng, "chimney") forms a composite suggesting intelligence
-  - **interpretation:** The character 悤 (cōng, "clever") originally depicted a heart with a distinctive mark indicating a hole, which is a traditional way to convey intelligence. The later form 囪 (cōng, "chimney") developed as a patterned evolution of this dot, leading to the character’s association with mental sharpness. The association with speed or hastiness likely emerged later as a cultural adaptation of these ideas.
+  - **description:**
+    - 心 (xīn, "heart") + 囱 (cōng) =
+    - original form had heart with dot ->
+    - evolved to include 囱 pattern ->
+    - clever ->
+    - preserved in 聰 (cōng, "intelligent")
+  - **interpretation:** The character 悤 originally depicted a heart with a dot on top, symbolizing intelligence, and evolved into a patterned shape. The notion of intelligence as holes on the heart is a traditional concept, leading to the character 聰 (cōng, "intelligent"). Over time, 悤 acquired meanings associated with fast learning or hasty action.
 ### 松茸 → 茸 → 聰 → 悤 → 心
 - **definition:** heart
 - **pinyin:** xīn
@@ -3931,13 +3979,35 @@
   - 音( )乐(樂)直( )击(擊)心( )灵(靈)。
     - Yīnyuè zhí jī xīnlíng.
     - Music strikes straight at the heart (soul).
-### 松茸 → 茸 → 聰 → 悤 → 囪
-- **definition:** chimney
+### 松茸 → 茸 → 聰 → 悤 → 囱(囪)
+- **traditional:** 囪
+- **definition:** pattern
 - **pinyin:** cōng
+- **components:**
+  - 囗
+    - wéi
+    - enclosure
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a window closed with a shutter
-  - **interpretation:** The character 囪(cōng, "chimney") visually resembles a window with multiple horizontal panels, suggesting something that is enclosed or blocked, much like a shutter.
+  - **description:**
+    - Depicts a window closed with a shutter ->
+    - modern usage as 囱
+  - **interpretation:** The character 囱(囪) (cōng, "pattern") is a pictogram representing a window with a shutter, indicating how structures were closed or protected in the past. This visual representation evolved to the modern character form, keeping the sense of enclosure or coverage, which fits its meaning slightly differently as 'pattern.'
+  - **simplification:** 囪 simplified to 囱 by removing one instance of 囗 (wéi, "enclosure") and the top portion of the character.
+### 松茸 → 茸 → 聰 → 悤 → 囱(囪) → 囗
+- **definition:** enclosure
+- **pinyin:** wéi
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an enclosure
+  - **interpretation:** The character 囗 (wéi, 'enclosure') is a pictogram representing a square or rectangular enclosure, emblematic of walls or boundaries. It visually reflects a basic enclosed area delineated by straight lines.
+- **examples:**
+  - 博( )物( )馆(館)外( )有( )坚(堅)固( )的( )囗( )，保( )护(護)着(著)历(歷)史( )文( )物( )。
+    - Bówùguǎn wài yǒu jiāngù de wéi, bǎohùzhe lìshǐ wénwù.
+    - Outside the museum, a sturdy enclosure protects historical artifacts.
+  - 古( )城( )外( )围(圍)的( )囗( )，确(確)保( )了( )居( )民( )的( )安( )全( )。
+    - Gǔchéng wàiwéi de wéi, quèbǎole jūmín de ānquán.
+    - The ancient city's enclosure ensures the residents' safety.
 ---
 ## 松茸
 ### sōng róng
@@ -4125,22 +4195,15 @@
     - person
   - 攴
     - pū
-    - to tap
-  - 修
-    - xiū
-    - to repair
-  - 滌
-    - dí
-    - to wash
+    - tap; strike
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 人 (rén, "person") + 攴 (pū, "to tap") =
-    - symbolic act of signaling or authority ->
-    - original concept related to 修 (xiū, "to repair") ->
-    - later interpreted as ceremonial act involving water on bronzes indicating purification ->
-    - related to 滌 (dí, "to wash")
-  - **interpretation:** 攸 combines the elements of a person and a hand holding a stick, symbolizing authority or an action like a warning or purification. Originally associated with warning and repair, later interpretations on bronzes suggest a connection to ritualistic purification.
+    - 人 (rén, "person") + 攴 (pū, "tap; strike") ->
+    - warning or purification action ->
+    - evolved to include drops suggesting water for purification ->
+    - final form
+  - **interpretation:** 攸 (yōu, "distant") originally represented either a warning action with authority or a purification involving water, evolving over time from practical gestures to more abstract meanings.
 ### 油( )条(條) → 条(條) → 攸 → 人
 - **definition:** person
 - **pinyin:** rén
@@ -4161,7 +4224,7 @@
     - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
     - People gain growth along their journey.
 ### 油( )条(條) → 条(條) → 攸 → 攴
-- **definition:** to tap
+- **definition:** tap; strike
 - **pinyin:** pū
 - **components:**
   - 手
@@ -4238,119 +4301,7 @@
   - 古( )代( )人( )常( )以( )卜( )问(問)吉( )凶( )，以( )求( )平( )安( )和( )顺(順)。
     - Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.
     - Ancient people often practiced divination to determine fortune, in order to pursue peace and order.
-### 油( )条(條) → 条(條) → 攸 → 修
-- **definition:** to repair
-- **pinyin:** xiū
-- **components:**
-  - 攸
-    - yōu
-    - none
-  - 彡
-    - shān
-    - ornament
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - Phonetic: 攸 (yōu) + Semantic: 彡 (shān, "ornament") ->
-    - 修 (xiū, "repair")
-  - **interpretation:** The character 修 (xiū, "repair") combines 攸 (yōu, serving a phonetic purpose) and 彡 (shān, suggesting ornamentation or embellishment), to depict the idea of fixing or enhancing something, which aligns with the concept of repair.
-- **examples:**
-  - 他正在修桌子。
-    - Tā zhèngzài xiū zhuōzi.
-    - He is repairing the table.
-  - 小( )明( )修( )花( )园(園)里(裡)的( )围(圍)栏(欄)，让(讓)家( )更( )温(溫)馨( )。
-    - Xiǎo Míng xiū huāyuán lǐ de wéilán, ràng jiā gèng wēnxīn.
-    - Xiaoming repairs the garden fence, making the home cozier.
-### 油( )条(條) → 条(條) → 攸 → 修 → 彡
-- **definition:** ornament
-- **pinyin:** shān
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts three strands of hair ->
-    - used to indicate three light rays in certain contexts
-  - **interpretation:** 彡(shān, "rays") originally depicted strands of hair but also came to represent light rays, reflecting a change in symbolic meaning over time. Its use as a representation of 'ornament' and in characters like 昜 and 參 highlights its versatility in indicating rays or decorative elements.
-- **examples:**
-  - 天( )空( )洒(灑)下( )金( )色( )的( )彡( )，大( )地( )迎( )来(來)温(溫)暖( )。
-    - Tiānkōng sǎ xià jīnsè de shān, dàdì yíng lái wēnnuǎn.
-    - The sky showers golden rays, and the earth welcomes warmth.
-  - 晨( )曦( )中( )的( )彡( )闪(閃)耀( )着(著)希( )望( )。
-    - Chénxī zhōng de shān shǎnyào zhe xīwàng.
-    - The rays in the morning light shine with hope.
-### 油( )条(條) → 条(條) → 攸 → 滌
-- **definition:** to wash
-- **pinyin:** dí
-- **components:**
-  - 水
-    - shuǐ
-    - water
-  - 條
-    - tiáo
-    - strip
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - semantic 水 (shuǐ, "water") + phonetic 條 (tiáo, "strip") =
-    - water and sound of strip ->
-    - wash
-  - **interpretation:** The character 滌(dí, "wash") combines 水 (shuǐ, "water") for its association with cleaning and 條 (tiáo, "strip") to convey the phonetic aspect, reflecting the action of washing or cleaning with water.
-  - **simplification:** 滌 was simplified to 涤(滌) by replacing 條 with 条(條), streamlining the structure while retaining the original sound.
-- **examples:**
-  - 我( )们(們)用( )清( )水( )滌( )洗( )衣( )物( )。
-    - Wǒmen yòng qīngshuǐ dí xǐ yīwù.
-    - We wash clothes with clear water.
-  - 园(園)中( )落( )叶(葉)经(經)过(過)雨( )水( )滌( )净(淨)。
-    - Yuán zhōng luòyè jīngguò yǔshuǐ dí jìng.
-    - The fallen leaves in the garden are cleansed by rainwater.
-  - 僧( )人( )在( )静(靜)院( )中( )苦( )修( )，常( )以( )禅(禪)茶( )滌( )心( )。
-    - Sēngrén zài jìngyuàn zhōng kǔxiū, cháng yǐ chánchá dí xīn.
-    - The monk practices diligently in the quiet courtyard, often using Zen tea to cleanse his mind.
-### 油( )条(條) → 条(條) → 攸 → 滌 → 水
-- **definition:** water
-- **pinyin:** shuǐ
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts flowing water
-  - **interpretation:** 水 (shuǐ, 'water') is a pictogram that directly represents the appearance of flowing water, making it intuitive and easy to recognize. Its simplicity and direct visual reference to its meaning have allowed it to remain unchanged over millennia.
-- **examples:**
-  - 水( )是( )一( )种(種)生( )命( )之( )源( )。
-    - Shuǐ shì yī zhǒng shēngmìng zhī yuán.
-    - Water is the source of life.
-  - 夏( )天( )很( )热(熱)，喝水能解暑。
-    - Xiàtiān hěn rè, hē shuǐ néng jiě shǔ.
-    - It is very hot in summer, drinking water can relieve the heat.
-  - 河水潺潺，沿( )岸( )绿(綠)树(樹)成( )荫(蔭)。
-    - Hé shuǐ chánchán, yán'àn lǜshù chéng yīn.
-    - The river flows babbling, and green trees along the bank provide shade.
-### 油( )条(條) → 条(條) → 攸 → 滌 → 條
-- **definition:** strip
-- **pinyin:** tiáo
-- **components:**
-  - 木
-    - mù
-    - wood
-  - 攸
-    - yōu
-    - (phonetic element)
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - phonetic 攸 (yōu) + semantic 木 (mù, 'wood') =
-    - originally indicates a small branch ->
-    - later used to mean 'strip' or 'item'
-  - **interpretation:** 條(tiáo) combines the phonetic component 攸(yōu) with the semantic component 木(mù, 'wood'), emphasizing its original reference to a slender wooden object, such as a branch. This makes sense as wood naturally forms branch-like strips, which relates to the character's modern meaning of 'strip.'
-  - **simplification:** 条(條): The simplified form replaced the phonetic 攸(yōu) with a simpler, variant form focused on ease of writing.
-- **examples:**
-  - 她( )系(繫)着(著)一( )条(條)领(領)带(帶)。
-    - Tā xì zhe yī tiáo lǐngdài.
-    - She is wearing a tie.
-  - 我( )在( )路( )上( )捡(撿)到( )一( )条(條)纸(紙)条(條)。
-    - Wǒ zài lù shàng jiǎn dào yī tiáo zhǐtiáo.
-    - I found a note on the street.
-  - 他( )用( )一( )条(條)布( )条(條)擦( )车(車)。
-    - Tā yòng yī tiáo bùtiáo cā chē.
-    - He used a strip of cloth to wipe the car.
-### 油( )条(條) → 条(條) → 攸 → 滌 → 條 → 木
+### 油( )条(條) → 条(條) → 木
 - **definition:** wood
 - **pinyin:** mù
 - **etymology:**
@@ -4511,35 +4462,10 @@
 ### 海派 → 派 → 𠂢
 - **definition:** original form
 - **pinyin:** mǐ
-- **components:**
-  - 永
-    - yǒng
-    - eternal
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a long river with tributaries ->
-    - stylized as 永 (yǒng, "eternal") flipped horizontally
-  - **interpretation:** The character 𠂢 visually represents a river with its branching tributaries, indicating a natural and flowing form that relates to water channels, drawing a parallel to the character 永 (yǒng) when visually flipped.
-### 海派 → 派 → 𠂢 → 永
-- **definition:** eternal
-- **pinyin:** yǒng
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a long river with tributaries ->
-    - meaning "long"
-  - **interpretation:** The character 永(yǒng, "long") represents a continuously flowing river, symbolizing eternity or longevity through its perpetually moving water. This aligns with its use to denote duration.
-- **examples:**
-  - 他们的友谊会永长存(他們的友誼會永長存)。
-    - Tāmen de yǒuyì huì yǒng yuǎn chángcún.
-    - Their friendship will last forever.
-  - 学(學)者( )探( )讨(討)古( )籍( )时(時)，发现‘永’的用法源远流长(發現‘永’的用法源遠流長)。
-    - Xuézhě tàntǎo gǔjí shí, fāxiàn ‘yǒng’ de yòngfǎ yuányuǎn liúcháng.
-    - When scholars study ancient texts, they discovered that the usage of '永' carries timeless wisdom.
-  - 记(記)住( )他( )的( )承( )诺(諾)时(時)，我们应以永不放弃的精神面对挑战(我們應以永不放棄的精神面對挑戰)。
-    - Jìzhù tā de chéngnuò shí, wǒmen yīng yǐ yǒng bù fàngqì de jīngshén miànduì tiǎozhàn.
-    - Remembering his promise, we should face challenges with an unyielding spirit.
+  - **description:** Depicts a long river with tributaries
+  - **interpretation:** The character 𠂢 depicts the shape reminiscent of a river with its branching streams, creatively expressing the abstraction of division or flow, similar to the character 永(yǒng, 'eternal') with a different spatial orientation.
 ---
 ## 海派
 ### hǎi pài
@@ -4557,19 +4483,27 @@
 - **components:**
   - 点(點)
     - diǎn
-    - dot; point; a little
+    - dot; point; prepare delicately
   - 茶
     - chá
     - tea
 - **etymology:**
   - **type:** compound word
-  - **description:**
-    - 點 (diǎn, "dot; point; a little") + 茶 (chá, "tea") =
-    - the method of preparing tea by whisking it to create a frothy surface, which was a popular practice in Song Dynasty (960–1279) China.
-  - **interpretation:** 點 (diǎn, "dot; point") refers to the action of adding or applying something in small amounts, while 茶 (chá, "tea") clearly refers to the beverage. The combination 點茶 (diǎn chá, "traditional tea whisking method") describes the historical technique of preparing tea by skillfully whisking it, emphasizing the cultural importance of tea preparation in the Song Dynasty.
+  - **description:** 點 (diǎn, "dot; point; prepare delicately") + 茶 (chá, "tea") refers to the traditional method of preparing tea by whisking it into a frothy mixture.
+  - **interpretation:** 點 (diǎn, "dot; point; prepare delicately") can convey the sense of a delicate and refined process, while 茶 (chá, "tea") specifies the substance being prepared. This combination reflects a time-honored technique of whisking powdered tea with water to create a frothy, aromatic drink, a practice prevalent during the Song Dynasty, illustrating the importance of tea in Chinese culture and its artistic presentation.
+- **examples:**
+  - 点(點)茶( )是( )一( )种(種)古( )老( )而( )优(優)雅( )的( )茶( )艺(藝)。
+    - Diǎn chá shì yī zhǒng gǔlǎo ér yōuyǎ de cháyì.
+    - Tea whisking is an ancient and elegant tea art.
+  - 在茶室里，我们学习如何点茶(在茶室裏，我們學習如何點茶)。
+    - Zài cháshì lǐ, wǒmen xuéxí rúhé diǎn chá.
+    - In the tea room, we learn how to whisk tea.
+  - 点(點)茶( )的( )过(過)程( )要( )求( )细(細)心( )和( )耐( )心( )。
+    - Diǎn chá de guòchéng yāoqiú xìxīn hé nàixīn.
+    - The process of tea whisking requires attentiveness and patience.
 ### 点(點)茶( ) → 点(點)
 - **traditional:** 點
-- **definition:** dot; point; a little
+- **definition:** dot; point; prepare delicately
 - **pinyin:** diǎn
 - **components:**
   - 黑
@@ -5259,13 +5193,13 @@
     - halberd
   - 魁
     - kuí
-    - chief; leader
+    - chief
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 戈 (gē, "halberd") + 魁 (kuí, "chief; leader") =
-    - a type of halberd
-  - **interpretation:** The character 戣 combines the semantic component 戈 (gē, "halberd") with the phonetic and possibly semantic influence of 魁 (kuí, "chief; leader"), indicating a specialized type of halberd, perhaps suggesting one used by a leader or chief.
+    - 戈 (gē, 'halberd') + phonetic: 魁 (kuí, 'chief') =
+    - halberd
+  - **interpretation:** The character 戣(kúi, 'halberd') combines the semantic element 戈 (gē, 'halberd') indicating its association with weaponry, with the phonetic component 魁 (kuí, 'chief') to convey its pronunciation.
 ### 秋葵 → 葵 → 癸 → 戣 → 戈
 - **definition:** halberd
 - **pinyin:** gē
@@ -5281,7 +5215,7 @@
     - Bówùguǎn zhēncáng gǔ bīngqì, zhǎntīng chénliè gē.
     - The museum preserves ancient weapons, and the exhibition hall displays a spear.
 ### 秋葵 → 葵 → 癸 → 戣 → 魁
-- **definition:** chief; leader
+- **definition:** chief
 - **pinyin:** kuí
 - **components:**
   - 鬼
@@ -5322,31 +5256,18 @@
 - **traditional:** 鬥
 - **definition:** ladle
 - **pinyin:** dǒu
-- **components:**
-  - 𠨭
-    - N/A
-    - unrelated symbol
-  - 丮
-    - N/A
-    - unrelated symbol
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - 𠨭 (unrelated symbol) + 丮 (unrelated symbol) =
-    - two figures fighting face-to-face ->
-    - stylized forms have bristled hair, indicating conflict
-  - **interpretation:** The character 鬥 (dòu, "fight") visually depicts two figures opposing each other, emphasizing confrontation, with the portrayal of bristled hair further signifying aggression or conflict. Its design emphasizes the antagonistic nature of fighting.
-  - **simplification:** 斗(鬥) was derived from the variant 鬦, and ultimately used as the simplified character for 鬥.
+  - **description:** Depicts two figures face-to-face, fighting with bare hands
+  - **interpretation:** The traditional character 鬥(dòu) represents two figures opposed, illustrating the concept of contest or struggle. It vividly depicts the idea of confrontation, which is embedded in its historical usage and imagery.
+  - **simplification:** The simplified character 斗(dòu) retained the basic outline and dropped one of the components, simplifying the strokes while preserving the original meaning even though it was derived from variant forms.
 - **examples:**
-  - 他( )们(們)开(開)始( )斗(鬥)智( )斗(鬥)勇( )。
-    - Tāmen kāishǐ dòu zhì dòu yǒng.
-    - They begin to battle using wit and courage.
-  - 两(兩)位( )剑(劍)客( )斗(鬥)得( )难(難)解( )难(難)分( )，观(觀)众(眾)大( )声(聲)喝( )彩( )。
-    - Liǎng wèi jiànkè dòu de nánjiě nánfēn, guānzhòng dàshēng hècǎi.
-    - The two swordsmen fought evenly, and the audience cheered loudly.
-  - 英( )雄( )们(們)为(為)了( )保( )卫(衛)国(國)家( )互( )相( )斗(鬥)争(爭)。
-    - Yīngxióng men wèile bǎowèi guójiā hùxiāng dòu zhēng.
-    - The heroes fought each other to defend their country.
+  - 他用斗舀水。
+    - Tā yòng dǒu yǎo shuǐ.
+    - He uses a ladle to scoop water.
+  - 这(這)个(個)斗( )很( )旧(舊)，我( )们(們)需( )要( )买(買)一( )个(個)新( )的( )。
+    - Zhè gè dǒu hěn jiù, wǒmen xūyào mǎi yī gè xīn de.
+    - This ladle is very old, we need to buy a new one.
 ### 秋葵 → 葵 → 癸 → 規
 - **definition:** compass; rule
 - **pinyin:** guī
@@ -5884,11 +5805,11 @@
     - yù
     - jade
 - **etymology:**
-  - **type:** pictogram
+  - **type:** variant form
   - **description:**
-    - Depicts a picture of a cong (琮), a sort of ritual jade totem ->
-    - variant form of 玉 (yù, 'jade')
-  - **interpretation:** This character is an ancient representation of a cong, a ritual object made of jade, which helps to distinguish it from similar characters like 王 (wáng, 'king'). It visually signifies jade, a valuable and culturally significant material in ancient China.
+    - 𤣩 ->
+    - variant form of 玉 (yù, "jade")
+  - **interpretation:** 𤣩 is a variant form of 玉 (yù, "jade"), which originally depicted a cong, a type of jade totem. It was used to distinguish the character from 王 (wáng, "king") by adding a distinguishing dot.
 ### 粉( )红(紅)玫( )瑰( ) → 玫瑰 → 瑰 → 鬼
 - **definition:** ghost
 - **pinyin:** guǐ
@@ -5982,53 +5903,158 @@
 - **definition:** phonetic component
 - **pinyin:** zōng
 - **components:**
-  - 禾
-    - hé
-    - grain
-  - 工
-    - gōng
-    - work
+  - 娄(婁)
+    - lóu
+    - lou
+  - 用
+    - yòng
+    - use
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 禾 (hé, 'grain') + 工 (gōng, 'work') =
-    - phonetic 'zōng' ->
+    - 娄(婁) (lóu, "lou") + 用 (yòng, "use") =
     - phonetic component
-  - **interpretation:** The character 㚇 combines 禾 ('grain') with 工 ('work') to form a phonetic component 'zōng'. This implies a combination of agriculture and craftsmanship, though the emphasis here is phonetic rather than semantic.
-### 粽子 → 粽(糉) → 㚇 → 禾
-- **definition:** grain
-- **pinyin:** hé
+  - **interpretation:** The character 㚇 (zōng) is primarily used as a phonetic component. It combines 娄(婁) (lóu, "lou"), which provides the phonetic aspect, with 用 (yòng, "use") to create the overall character, but not for semantic value. Its usage is predominantly phonetic.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁)
+- **traditional:** 婁
+- **definition:** lou
+- **pinyin:** lóu
+- **components:**
+  - 爪
+    - zhǎo
+    - hands
+  - 角
+    - jiǎo
+    - horn
+  - 女
+    - nǚ
+    - woman
+  - 母
+    - mǔ
+    - mother
+  - 中
+    - zhōng
+    - middle
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Originally 爪 (zhǎo, "hands") + 角 (jiǎo, "horn") + 女 (nǚ, "woman") ->
+    - later 母 (mǔ, "mother") + 中 (zhōng, "middle") + 女 (nǚ, "daughter")
+  - **interpretation:** The character initially combined elements representing hands, a horn, and a woman to form a phonetic compound. Over time, it evolved to convey a conceptual idea involving 'mother' and 'daughter' with a 'middle', although the exact meaning is uncertain.
+  - **simplification:** 娄(婁): the complex character 婁 was simplified by omitting the central components and streamlining the structure.
+- **examples:**
+  - 在古代，娄星(在古代，婁星)被认为是一颗重要的恒星。
+    - Zài gǔdài, lóuxīng bèi rènwéi shì yī kē zhòngyào de héngxīng.
+    - In ancient times, the star Lou was considered an important star.
+  - 他( )研( )究( )的( )天( )文( )学(學)项(項)目( )涉( )及( )到( )娄(婁)宿( )，希望揭示更多宇宙秘密。
+    - Tā yánjiū de tiānwénxué xiàngmù shèjí dào lóusù, xīwàng jiēshì gèng duō yǔzhòu mìmì.
+    - His astronomy project involves the Lou constellation, hoping to uncover more secrets of the universe.
+  - 对于一些古老文化而言，娄与神话故事紧密相连(對於一些古老文化而言，婁與神話故事緊密相連)。
+    - Duìyú yīxiē gǔlǎo wénhuà ér yán, lóu yǔ shénhuà gùshì jǐnmì xiānglián.
+    - For some ancient cultures, Lou is closely connected to mythological stories.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁) → 爪
+- **definition:** hands
+- **pinyin:** zhǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stalk of grain or cereal plant
-  - **interpretation:** The character 禾 (hé, 'grain') visually represents a plant with roots and leaves, focusing on the appearance of staple crops like rice or millet. This clearly conveys its meaning as it resembles the actual shape of a plant grown for its grain.
+  - **description:**
+    - Depicts a hand grabbing from above, resembles a claw ->
+    - stylized to represent claws
+  - **interpretation:** The character 爪 (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
 - **examples:**
-  - 收( )获(穫)的( )禾( )香( )弥(彌)漫( )在( )田( )野( )中( )。
-    - Shōuhuò de hé xiāng mímàn zài tiányě zhōng.
-    - The fragrance of grain filled the fields.
-  - 农(農)民( )辛( )勤( )耕( )作( )，收割禾穗。
-    - Nóngmín xīnqín gēngzuò, shōugē hé suì.
-    - The hardworking farmers harvested the ears of grain.
-  - 春( )雨( )滋( )润(潤)了( )禾( )苗( )，预(預)示( )着(著)丰(豐)收( )。
-    - Chūnyǔ zīrùn le hé miáo, yùshì zhe fēngshōu.
-    - The spring rain nourished the grain seedlings, foreshadowing a bountiful harvest.
-### 粽子 → 粽(糉) → 㚇 → 工
-- **definition:** work
-- **pinyin:** gōng
+  - 猫(貓)的( )爪( )非( )常( )敏( )捷( )。
+    - Māo de zhǎo fēicháng mǐnjié.
+    - The cat's claws are very agile.
+  - 狗( )的( )爪( )稳(穩)固( )，使( )它( )轻(輕)松(鬆)爬( )山( )。
+    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
+    - The dog's claws are sturdy, allowing it to climb mountains easily.
+  - 鹰(鷹)的( )爪( )锋(鋒)利( )，能( )牢( )牢( )抓( )住( )猎(獵)物( )。
+    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
+    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁) → 角
+- **definition:** horn
+- **pinyin:** jiǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bladed tool to plow the ground and to mark a border, or a carpenter's square
-  - **interpretation:** 工 (gōng, "work") represents either a tool used in agriculture for marking or a carpenter's square, reflecting its connection to traditional manual labor and craftsmanship.
+  - **description:** Depicts an animal horn
+  - **interpretation:** The character 角 (jiǎo, "horn") visually represents the distinctive shape of an animal's horn.
 - **examples:**
-  - 他每天下午去做工。
-    - Tā měitiān xiàwǔ qù zuò gōng.
-    - He goes to work every afternoon.
-  - 工( )厂(廠)里(裡)的( )机(機)器( )不( )停( )地( )运(運)转(轉)。
-    - Gōng chǎng lǐ de jīqì bù tíng de yùnzhuǎn.
-    - The machines in the factory run nonstop.
-  - 这(這)位( )工( )人( )技( )艺(藝)精( )湛( )。
-    - Zhè wèi gōngrén jìyì jīngzhàn.
-    - This worker is highly skilled.
+  - 牛( )角( )是( )一( )种(種)坚(堅)固( )的( )天( )然( )武( )器( )。
+    - niú jiǎo shì yī zhǒng jiān gù de tiān rán wǔ qì。
+    - Cow horns are sturdy natural weapons.
+  - 鹿( )角( )丰(豐)富( )了( )森( )林( )的( )传(傳)说(說)，象( )征(徵)着(著)自( )由( )与(與)力( )量( )。
+    - lù jiǎo fēng fù le sēn lín de chuán shuō, xiàng zhēng zhe zì yóu yǔ lì liàng。
+    - Deer antlers enrich the legends of the forest and symbolize freedom and strength.
+  - 犀( )牛( )角( )在( )古( )代( )被( )视(視)作( )珍( )贵(貴)药(藥)材( )。
+    - xī niú jiǎo zài gǔ dài bèi shì zuò zhēn guì yào cái。
+    - Rhinoceros horns were regarded as precious medicinal materials in ancient times.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁) → 女
+- **definition:** woman
+- **pinyin:** nǚ
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a woman kneeling or standing ->
+    - enclosed area as remnant of right breast
+  - **interpretation:** The character 女(nǚ, "woman") is a pictogram originally depicting a woman with highlighted bodily features, such as the breasts, symbolizing femininity. Its orientation changed from the Oracle Bone script to face right, simplifying over time while still retaining the essence of its original depiction.
+- **examples:**
+  - 那( )位( )才( )华(華)横(橫)溢( )的( )女( )，赢(贏)得( )了( )全( )场(場)注( )目( )。
+    - Nà wèi cáihuá héngyì de nǚ, yíng dé le quánchǎng zhùmù.
+    - That talented woman won everyone's attention.
+  - 古时候‘女’常被用来象征温柔(古時候‘女’常被用來象徵溫柔)，而( )如( )今( )它( )代( )表( )独(獨)立( )自( )信( )。
+    - Gǔshíhòu ‘nǚ’ cháng bèi yòng lái xiàngzhēng wēnróu, ér rújīn tā dàibiǎo dúlì zìxìn.
+    - In ancient times, the character '女' was often used to symbolize gentleness, whereas today it represents independence and confidence.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁) → 母
+- **definition:** mother
+- **pinyin:** mǔ
+- **components:**
+  - 女
+    - nǚ
+    - woman
+- **etymology:**
+  - **type:** differentiated form
+  - **description:**
+    - 女 (nǚ, "woman") + addition of two dots ->
+    - distinguished as 母 (mǔ, "mother")
+  - **interpretation:** The character 母 (mǔ, "mother") is a differentiated form of 女 (nǚ, "woman") with the addition of two dots to distinguish it. In early script forms, both 母 (mǔ, "mother") and 女 (nǚ, "woman") were represented by the same form as 女, necessitating the addition of dots to create a visual distinction. The character 毋, originally borrowed from 母, further specialized by changing the dots to a stroke to avoid confusion between the characters.
+- **examples:**
+  - 母( )给(給)了( )我( )无(無)限( )的( )温(溫)暖( )。
+    - mǔ gěi le wǒ wúxiàn de wēnnuǎn
+    - Mother has given me endless warmth.
+  - 我( )的( )母( )温(溫)柔( )而( )坚(堅)毅( )，培( )养(養)了( )我( )良( )好( )的( )品( )格( )。
+    - wǒ de mǔ wēnróu ér jiānyì, péiyǎng le wǒ liánghǎo de pǐngé
+    - My mother is gentle and strong, nurturing my good character.
+### 粽子 → 粽(糉) → 㚇 → 娄(婁) → 中
+- **definition:** middle
+- **pinyin:** zhōng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an arrow piercing through the center of a target
+  - **interpretation:** The character 中 (zhōng, "middle") visually represents an arrow passing through the central point of a target, illustrating the concept of 'center' or 'middle' effectively. This visual imagery is straightforward and memorable, corresponding closely with its meaning of being at the center or middle of something.
+- **examples:**
+  - 他站在道路中，看( )着(著)远(遠)方( )。
+    - tā zhàn zài dàolù zhōng, kànzhe yuǎnfāng.
+    - He stands in the middle of the road, gazing into the distance.
+  - 房( )间(間)正( )中( )，挂(掛)着(著)一( )幅( )名( )画(畫)。
+    - fángjiān zhèng zhōng, guàzhe yī fú mínghuà.
+    - A famous painting hangs in the exact center of the room.
+### 粽子 → 粽(糉) → 㚇 → 用
+- **definition:** use
+- **pinyin:** yòng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a vessel with contents being poured out
+  - **interpretation:** 用 (yòng, 'use') visually represents the action of utilizing or employing, as depicted by a container pouring out its contents. This imagery effectively conveys the core idea of using resources or applying effort in a task.
+- **examples:**
+  - 请(請)用( )心( )体(體)会(會)这(這)首( )诗(詩)。
+    - qǐng yòng xīn tǐhuì zhè shǒu shī。
+    - Please use your heart to appreciate this poem.
+  - 他( )用( )笔(筆)写(寫)字( )，也( )用( )心( )记(記)录(錄)生( )活( )。
+    - tā yòng bǐ xiě zì，yě yòng xīn jìlù shēnghuó。
+    - He writes with a pen, and also uses his heart to record life.
+  - 老( )板(闆)用( )新( )策( )略( )吸( )引( )顾(顧)客( )。
+    - lǎobǎn yòng xīn cèlüè xīyǐn gùkè。
+    - The boss uses new strategies to attract customers.
 ### 粽子 → 子
 - **definition:** child; small thing
 - **pinyin:** zi
@@ -6262,105 +6288,235 @@
 - **definition:** platform; stage; table; place
 - **pinyin:** tái
 - **components:**
-  - 厶
-    - sī
-    - private
-  - 旦
-    - dàn
-    - dawn
+  - 之
+    - zhī
+    - foot
+  - 室
+    - shì
+    - building
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - semantic: 厶 (sī, "private") + phonetic: 旦 (dàn, "dawn") =
-    - originally platform or raised structure for viewing ->
-    - platform
-  - **interpretation:** The character 台(臺) (tái, "platform") combines 厶 (sī, "private") as a semantic indicator that suggests an enclosed or elevated space, with 旦 (dàn, "dawn") serving as the phonetic element. This reflects its original meaning of a raised structure or stage, which is conceptually linked to a centralized or focal point that commands attention, much like a platform does.
-  - **simplification:** 台(臺): Simplified by omitting the top element in 臺 and standardizing the form as it sounds and functions similarly to its traditional counterpart.
+    - 之 (zhī, 'foot') as phonetic + 室 (shì, 'building') as semantic ->
+    - watch tower ->
+    - simplified from 臺
+  - **interpretation:** The character 臺 initially depicted a raised platform or watchtower, combining a phonetic component representing a base ('foot') with a semantic component indicating a structure. Over time, it semantically evolved to represent platforms in general.
+  - **simplification:** 台 is a simplification where parts of the character 臺 were reduced and standardized.
 - **examples:**
-  - 他( )站( )在( )讲(講)台( )上( )，自( )信( )地( )讲(講)话(話)。
-    - Tā zhàn zài jiǎngtái shàng, zìxìn de jiǎnghuà.
-    - He stands on the platform, speaking confidently.
-  - 博( )物( )馆(館)的( )展( )示( )台( )上( )，珍( )贵(貴)的( )文( )物( )熠( )熠( )生( )辉(輝)。
-    - Bówùguǎn de zhǎnshì tái shàng, zhēnguì de wénwù yì yì shēnghuī.
-    - On the museum's display platform, precious artifacts shine brilliantly.
-### 茅台 → 台(臺) → 厶
-- **definition:** private
-- **pinyin:** sī
+  - 舞台上，演( )员(員)表( )演( )得( )非( )常( )精( )彩( )。
+    - Wǔtái shàng, yǎnyuán biǎoyǎn dé fēicháng jīngcǎi.
+    - On the stage, the actors performed exceptionally well.
+  - 电(電)视(視)台( )正( )在( )播( )新( )闻(聞)。
+    - Diànshìtái zhèngzài bō xīnwén.
+    - The TV station is broadcasting the news.
+  - 我( )们(們)登( )上( )观(觀)景( )台( )，欣( )赏(賞)城( )市( )的( )全( )景( )。
+    - Wǒmen dēng shàng guānjǐngtái, xīnshǎng chéngshì de quánjǐng.
+    - We went up the observation deck to enjoy the panoramic view of the city.
+### 茅台 → 台(臺) → 之
+- **definition:** foot
+- **pinyin:** zhī
+- **components:**
+  - 止
+    - zhǐ
+    - foot
+  - 一
+    - yī
+    - the beginning place
+- **etymology:**
+  - **type:** Ideogrammic compound
+  - **description:**
+    - 止 (zhǐ, "foot") + 一 (yī, "the beginning place") =
+    - to go ->
+    - footprint ->
+    - evolved to a point above ->
+    - final form 之
+  - **interpretation:** Originally depicting a foot at the start of movement, the character evolved into a possessive marker, possibly due to conceptual association with movement or direction.
+- **examples:**
+  - 知( )识(識)之( )光( )照( )亮( )心( )灵(靈)。
+    - Zhīshì zhī guāng zhào liàng xīn líng.
+    - The light of knowledge illuminates the heart.
+  - 理( )想( )之( )翼( )助( )人( )飞(飛)翔( )，努( )力( )之( )心( )成( )就( )未( )来(來)。
+    - Lǐxiǎng zhī yì zhù rén fēi xiáng, Nǔlì zhī xīn chéngjiù wèilái.
+    - The wings of ideals help people to soar, and the heart of effort accomplishes the future.
+### 茅台 → 台(臺) → 之 → 止
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 趾
+    - zhǐ
+    - foot
+  - 龰
+    - yù
+    - stylized feet
+  - 手
+    - shǒu
+    - hand
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Original: Foot pointing up with 3 toes and a sole ->
+    - Stylized as 龰 ->
+    - Derivative 趾 refers to original 'foot' meaning
+  - **interpretation:** Originally depicting a footprint with toes and a sole, 止 (zhǐ, "foot") represents the foot. The character's form resembles a foot with three toes, analogous to how the hand is represented with fingers in other characters.
+- **examples:**
+  - 他( )受( )伤(傷)的( )止( )需( )要( )静(靜)养(養)。
+    - Tā shòu shāng de zhǐ xū yào jìng yǎng.
+    - His injured foot needs adequate rest.
+  - 他( )走( )路( )时(時)小( )心( )谨(謹)慎( )，因( )为(爲)止( )若( )受( )伤(傷)便( )难(難)前( )行( )。
+    - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
+    - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
+### 茅台 → 台(臺) → 之 → 止 → 趾
+- **definition:** foot
+- **pinyin:** zhǐ
+- **components:**
+  - 足
+    - zú
+    - foot
+  - 止
+    - zhǐ
+    - stop
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 足 (zú, "foot") + 止 (zhǐ, "stop") =
+    - semantic: foot + phonetic: stop ->
+    - toe
+  - **interpretation:** The character combines 足 (zú, "foot") as the semantic indicator and 止 (zhǐ, "stop") as the phonetic component to represent the idea of a 'toe,' which is a part of the foot.
+- **examples:**
+  - 他的趾因寒冷而僵硬了。
+    - tā de zhǐ yīn hánlěng ér jiāngyìng le.
+    - His toe became stiff due to the cold.
+  - 我( )走( )路( )时(時)，不小心扭到了趾。
+    - wǒ zǒulù shí, bù xiǎoxīn niǔ dào le zhǐ.
+    - While I was walking, I accidentally twisted my toe.
+  - 古( )代( )剑(劍)客( )战(戰)斗(鬥)时(時)，常( )因( )疏( )忽( )伤(傷)及( )趾( )。
+    - gǔdài jiànkè zhàndòu shí, cháng yīn shūhū shāng jí zhǐ.
+    - Ancient swordsmen often injured their toes due to carelessness during battles.
+### 茅台 → 台(臺) → 之 → 止 → 趾 → 足
+- **definition:** foot
+- **pinyin:** zú
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a leg ->
+    - originally depicted as ⽦ ->
+    - represents 'foot'
+  - **interpretation:** The character 足(zú, 'foot') is a pictographic representation of a human leg, which directly portrays the concept of a 'foot'. The pictographic origin emphasizes its fundamental meaning in the language.
+- **examples:**
+  - 他( )受( )伤(傷)后(後)，他( )的( )足( )不( )能( )动(動)。
+    - tā shòushāng hòu, tā de zú bù néng dòng。
+    - After he was injured, his foot couldn't move.
+  - 小( )明( )打( )球( )时(時)，不( )小( )心( )扭( )伤(傷)了( )足( )。
+    - xiǎo míng dǎ qiú shí, bù xiǎoxīn niǔ shāng le zú。
+    - When Xiaoming was playing ball, he accidentally twisted his foot.
+  - 我( )每( )天( )锻(鍛)炼(鍊)足( )部( )。
+    - wǒ měitiān duànliàn zúbù。
+    - I exercise my foot muscles every day.
+### 茅台 → 台(臺) → 之 → 止 → 龰
+- **definition:** stylized feet
+- **pinyin:** yù
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Footprint pointing up in oracle script ->
+    - stylized as 龰 ->
+    - Represents 'stylized feet'
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram depicting a footprint pointing upward, originally representing 'foot'. It was stylized to highlight specific features associated with the foot, using three toes much like human hands are represented in various characters. This character is evident in ancient scripts as a distinct depiction of feet.
+### 茅台 → 台(臺) → 之 → 止 → 手
+- **definition:** hand
+- **pinyin:** shǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a hand with fingers; top stroke is a bent over middle finger, horizontal strokes represent fingers
+  - **interpretation:** The character 手 (shǒu, "hand") is a direct pictorial representation of a human hand with all five fingers, which distinguishes it from similar characters representing claws or simplified fingers. This visually conveys its meaning as a hand clearly.
+- **examples:**
+  - 他( )用( )手( )写(寫)字( )。
+    - Tā yòng shǒu xiě zì.
+    - He writes with his hand.
+  - 妈(媽)妈(媽)牵(牽)着(著)我( )的( )手( )走( )路( )。
+    - Māmā qiān zhe wǒ de shǒu zǒu lù.
+    - Mom holds my hand while walking.
+  - 他( )的( )手( )很( )温(溫)暖( )，带(帶)给(給)我( )力( )量( )。
+    - Tā de shǒu hěn wēn nuǎn, dài gěi wǒ lìliàng.
+    - His hand is very warm, giving me strength.
+### 茅台 → 台(臺) → 之 → 一
+- **definition:** the beginning place
+- **pinyin:** yī
 - **etymology:**
   - **type:** ideogram
-  - **description:**
-    - Revolving around oneself ->
-    - original character for 私 (sī, 'selfish; private')
-  - **interpretation:** The character 厶(sī, 'private') visually represents the concept of 'revolving around oneself,' symbolizing the inward-focused nature of privacy and self-interest. It originally denoted the idea of 'private' by itself and is compared to 公(gōng, 'public'). It later became part of the character 私 (sī, 'selfish; private'), where 禾 (hé, 'grain') was added for the semantic aspect.
+  - **description:** A horizontal stroke representing the concept of 'one'.
+  - **interpretation:** The character 一(yī, "one") is a simple horizontal line signifying the singular and unified concept of 'one'. It directly represents being singular or the number one.
 - **examples:**
-  - 每( )个(個)人( )都( )有( )一( )片( )厶( )土( )供( )其( )独(獨)处(處)。
-    - Měi gèrén dōu yǒu yī piàn sī tǔ gōng qí dúchǔ。
-    - Everyone has a private patch of land for solitude.
-  - 他( )将(將)所( )有( )厶( )事( )深( )藏( )心( )底( )。
-    - Tā jiāng suǒyǒu sī shì shēncáng xīndǐ。
-    - He hides all his private matters deep in his heart.
-### 茅台 → 台(臺) → 旦
-- **definition:** dawn
-- **pinyin:** dàn
+  - 我( )有( )一( )个(個)苹(蘋)果( )。
+    - Wǒ yǒu yī gè píngguǒ.
+    - I have one apple.
+  - 他( )只( )看( )到( )一( )只(隻)鸟(鳥)，飞(飛)进(進)了( )花( )园(園)。
+    - Tā zhǐ kàn dào yī zhī niǎo, fēi jìn le huā yuán.
+    - He only saw one bird, which flew into the garden.
+  - 一( )条(條)直( )路( )通( )向( )远(遠)方( )。
+    - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
+    - One straight road leads to the distance.
+### 茅台 → 台(臺) → 室
+- **definition:** building
+- **pinyin:** shì
 - **components:**
-  - 日
-    - rì
-    - sun
-  - 丁
-    - dīng
-    - nail
+  - 宀
+    - mián
+    - roof
+  - 至
+    - zhì
+    - arrive
 - **etymology:**
-  - **type:** ideogrammic compound
+  - **type:** phono-semantic compound
   - **description:**
-    - 日 (rì, "sun") + 丁 (dīng, "nail") =
-    - sun appearing over the horizon, 丁 indicates pronunciation
-  - **interpretation:** Although the original interpretation is debated, the character combines 日 (rì, "sun") and 丁 (dīng, "nail") to depict the sun rising. This is a visual representation of dawn, where the sun emerges at the horizon line.
+    - 宀(“roof”) + 至(phonetic, “arrive”/“this exact spot”) =
+    - a house or residence under a roof
+  - **interpretation:** The character 室(shì, "room") combines the semantic element 宀(shì, "roof") with the phonetic 至(zhì, "arrive"), symbolizing a covered place where one stops or resides. This interpretation aligns with historical uses of 室 to denote a specific location or dwelling.
 - **examples:**
-  - 破( )晓(曉)的( )旦( )光( )洒(灑)满(滿)山( )川( )。
-    - Pòxiǎo de dàn guāng sǎ mǎn shānchuān.
-    - The light of dawn scattered over the mountains and rivers.
-  - 黎( )明( )来(來)临(臨)时(時)，旦( )光( )映( )红(紅)天( )边(邊)。
-    - Límíng láilín shí, dàn guāng yìng hóng tiānbiān.
-    - When dawn arrives, the light of dawn paints the sky red.
-  - 在( )寂( )静(靜)的( )山( )谷( )中( )，天( )边(邊)的( )旦( )光( )预(預)告( )着(著)新( )生( )。
-    - Zài jìjìng de shāngǔ zhōng, tiānbiān de dàn guāng yùgào zhe xīnshēng.
-    - In the quiet valley, the light of dawn heralds new life.
-### 茅台 → 台(臺) → 旦 → 日
-- **definition:** sun
-- **pinyin:** rì
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts the sun; a dot or line added in the center to distinguish from similar characters e.g. 囗
-  - **interpretation:** As a pictogram, 日(rì, 'sun') directly represents the sun. In ancient times, the added dot helped visually differentiate it from other characters. This is analogous to the astronomical symbol ☉ and Egyptian hieroglyph 𓇳, both depicting the sun.
-- **examples:**
-  - 晨( )曦( )来(來)临(臨)时(時)，日( )出( )东(東)方( )。
-    - Chénxī láilín shí, rìchū dōngfāng.
-    - At the break of dawn, the sun rises in the east.
-  - 温(溫)暖( )的( )日( )光( )洒(灑)满(滿)大( )地( )。
-    - Wēnnuǎn de rìguāng sǎ mǎn dàdì.
-    - The warm sunlight spreads over the earth.
-  - 中( )午( )时(時)分( )，日( )高( )挂(掛)天( )。
-    - Zhōngwǔ shífēn, rì gāo guà tiān.
-    - At noon, the sun hangs high in the sky.
-### 茅台 → 台(臺) → 旦 → 丁
-- **definition:** nail
-- **pinyin:** dīng
+  - 他( )的( )书(書)在( )房( )间(間)里(裏)。
+    - Tā de shū zài fángjiān lǐ.
+    - His book is in the room.
+  - 走( )进(進)这(這)个(個)房( )间(間)，你( )会(會)发(發)现(現)它( )很( )温(溫)馨( )。
+    - Zǒujìn zhègè fángjiān, nǐ huì fāxiàn tā hěn wēnxīn.
+    - When you enter this room, you will find it very cozy.
+  - 会(會)议(議)室( )在( )走( )廊( )的( )尽(盡)头(頭)。
+    - Huìyì shì zài zǒuláng de jìntóu.
+    - The meeting room is at the end of the corridor.
+### 茅台 → 台(臺) → 室 → 宀
+- **definition:** roof
+- **pinyin:** mián
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts the head of a nail ->
-    - 丁
-  - **interpretation:** The character 丁 originally depicted the head of a nail, emphasizing simplicity and directness. While it has developed other interpretations over time, such as a head or city wall, these relate to similar shapes and functions. Today, 釘 (dīng, 'nail') reflects this meaning.
+    - Depicts a house with four walls ->
+    - roof
+  - **interpretation:** 宀(mián, "roof") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, "broad") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.
 - **examples:**
-  - 工( )人( )熟( )练(練)地( )把( )丁( )敲( )进(進)了( )墙(牆)壁( )。
-    - Gōngrén shúliàn de bǎ dīng qiāng jìnle qiángbì.
-    - The worker skillfully hammered the nail into the wall.
-  - 他( )精( )心( )挑( )选(選)了( )铁(鐵)质(質)丁( )，确(確)保( )家(傢)具(俱)稳(穩)固( )。
-    - Tā jīngxīn tiāoxuǎnle tiě zhì dīng, quèbǎo jiājù wěngù.
-    - He carefully selected the iron nail to ensure the furniture was stable.
-  - 请(請)把( )散( )落( )的( )丁( )收( )好( )。
-    - Qǐng bǎ sànluò de dīng shōuhǎo.
-    - Please gather the scattered nails.
+  - 含( )有( )宀( )的( )汉(漢)字( )代( )表( )家( )的( )温(溫)暖( )。
+    - Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.
+    - Chinese characters that include the radical '宀' represent the warmth of home.
+  - 屋( )顶(頂)遮( )风(風)挡(擋)雨( )，家( )园(園)散( )发(發)温(溫)馨( )。
+    - Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.
+    - The roof shields from wind and rain, and the home radiates warmth.
+### 茅台 → 台(臺) → 室 → 至
+- **definition:** arrive
+- **pinyin:** zhì
+- **etymology:**
+  - **type:** Ideogram
+  - **description:**
+    - Depicts an arrow stuck into the ground ->
+    - express arrival or reaching a destination
+  - **interpretation:** The image of an arrow embedded in the ground symbolizes reaching a fixed endpoint, evoking the idea of arriving at a particular place.
+- **examples:**
+  - 火( )车(車)已( )至( )。
+    - Huǒchē yǐ zhì.
+    - The train has arrived.
+  - 从(從)广(廣)州( )出( )发(發)，火( )车(車)已( )至( )目( )的( )地( )。
+    - Cóng Guǎngzhōu chūfā, huǒchē yǐ zhì mùdìdì.
+    - Departing from Guangzhou, the train has arrived at its destination.
+  - 信( )使( )至( )长(長)安( )。
+    - Xìnshǐ zhì Cháng'ān.
+    - The messenger has arrived in Chang'an.
 ---
 ## 茅台
 ### máo tái
@@ -6533,10 +6689,8 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a footprint pointing up with three toes and a sole ->
-    - stylized as 龰 (foot)
-  - **interpretation:** 龰(yù, 'stylized feet') is a stylized representation of a footprint, indicating the idea of walking or feet, similar to characters that derive meanings related to limbs or extremities.
+  - **description:** Originally a pictogram representing a footprint pointing up, stylized as 龰
+  - **interpretation:** The character 龰 stylizes a footprint pointing upwards, originating from the concept of 'foot'. It has distinct styling elements that differentiate it from similar forms like 夊 or 夂, which depicted downward-pointing feet, as well as 𡕒, illustrating lateral toes. The depiction of three toes is consistent with how digits were represented in ancient scripts, such as in 爪 (zhuǎ, 'claw').
 ### 起床 → 起 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -6632,40 +6786,109 @@
 - **definition:** house
 - **pinyin:** guǎng
 - **components:**
-  - 宀
-    - mián
-    - roof
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a house with a roof, similar to 宀 (mián, "roof") ->
-    - a building with three walls ->
+  - 廣
+    - guǎng
     - shelter
-  - **interpretation:** As a pictogram, 广(廣) (guǎng, "shelter") visually represents a three-walled structure under a roof, conveying the concept of shelter or covering. It is closely related to the character 宀 (mián, "roof"), which includes four walls, indicating the structural nuance captured by ancient scribes.
-  - **simplification:** 广(廣) was simplified by using the pictographic element alone, omitting the phonetic component 黃.
+  - 黃
+    - huáng
+    - yellow
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 广(廣) (guǎng, "shelter") + phonetic 黃 (huáng, "yellow") =
+    - area underneath a shelter ->
+    - broad
+  - **interpretation:** 廣 combines the semantic element of shelter or building represented by 广(廣) with the phonetic element of 黃, suggesting an area or space that is open and extensive, consistent with the idea of something being 'broad' or 'wide'.
+  - **simplification:** 廣 was simplified by reducing the component 黃 to the simpler form 广(廣), retaining the semantic aspect while simplifying the structure for phonetic indication.
 - **examples:**
-  - 暴( )风(風)骤(驟)雨( )时(時)，山( )洞( )广(廣)可( )供( )人( )躲( )避( )。
-    - Bào fēng zhòu yǔ shí, shān dòng guǎng kě gòng rén duǒ bì.
-    - When the storm rages, the cave provides shelter.
-  - 旅( )途( )中( )疲( )惫(憊)时(時)，老( )树(樹)下( )广(廣)给(給)予( )行( )人( )庇( )护(護)。
-    - Lǚ tú zhōng pí bèi shí, lǎo shù xià guǎng jǐ yǔ xíng rén bì hù.
-    - During a tiring journey, the shelter under the old tree gives travelers protection.
-### 起床 → 床 → 广(廣) → 宀
-- **definition:** roof
-- **pinyin:** mián
+  - 这(這)条(條)路( )很( )广(廣)。
+    - Zhè tiáo lù hěn guǎng.
+    - This road is very broad.
+  - 广(廣)场(場)上( )有( )许(許)多( )人( )。
+    - Guǎngchǎng shàng yǒu xǔduō rén.
+    - There are many people in the square.
+  - 她( )的( )知( )识(識)面( )很( )广(廣)。
+    - Tā de zhīshì miàn hěn guǎng.
+    - She has a broad range of knowledge.
+### 起床 → 床 → 广(廣) → 廣
+- **definition:** shelter
+- **pinyin:** guǎng
+- **components:**
+  - 黃
+    - huáng
+    - yellow
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 广(廣) (guǎng, 'wide') + phonetic 黃 (huáng, 'yellow') ->
+    - conveys the idea of a wide space or shelter
+  - **interpretation:** 廣 (guǎng, 'wide') represents the concept of an expansive area, while 黃 (huáng) provides the phonetic component; together, they suggest a spacious shelter.
+  - **simplification:** 广(廣): The character was simplified from several strokes depicting a house with a roof to its core element, resembling a house, for ease of writing.
+- **examples:**
+  - 大( )雨( )袭(襲)来(來)时(時)，那( )家( )小( )店( )成( )了( )廣( )的( )庇( )护(護)所( )。
+    - Dà yǔ xí lái shí, nà jiā xiǎo diàn chéng le guǎng de bìhù suǒ.
+    - When the heavy rain came, that small shop became a shelter.
+  - 大( )火( )蔓( )延( )之( )际(際)，难(難)民( )纷(紛)纷(紛)奔( )向( )廣( )的( )庇( )护(護)所( )。
+    - Dà huǒ màn yán zhī jì, nànmín fēnfēn bēn xiàng guǎng de bìhù suǒ.
+    - At the outbreak of the fire, refugees rushed towards the shelter.
+### 起床 → 床 → 广(廣) → 廣 → 黃
+- **definition:** yellow
+- **pinyin:** huáng
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 田
+    - tián
+    - field
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a house with four walls ->
-    - roof
-  - **interpretation:** 宀(mián, "roof") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, "broad") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.
+    - Originally depicted 口 (kǒu, 'mouth/face') as a stylized depiction of a person or jade ring ->
+    - borrowed for 'yellow' in oracle bone script
+  - **interpretation:** Originally a pictogram depicting something related to either a person or jade, 黃 (huáng, 'yellow') was later phonetically borrowed for the meaning 'yellow'. The character's association with jade might also symbolize value and elegance, helping to explain its transition to the color 'yellow', often symbolic of wealth and opulence in Chinese culture.
+  - **simplification:** 黄 replaces 黃 by dropping the radical 田 (tián, 'field') entirely, keeping only 廿 (nián, 'twenty'), a simplified pattern for phonetic or visual resemblance.
 - **examples:**
-  - 含( )有( )宀( )的( )汉(漢)字( )代( )表( )家( )的( )温(溫)暖( )。
-    - Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.
-    - Chinese characters that include the radical '宀' represent the warmth of home.
-  - 屋( )顶(頂)遮( )风(風)挡(擋)雨( )，家( )园(園)散( )发(發)温(溫)馨( )。
-    - Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.
-    - The roof shields from wind and rain, and the home radiates warmth.
+  - 那( )件( )衬(襯)衫( )是( )黃( )的( )。
+    - Nà jiàn chènshān shì huáng de.
+    - That shirt is yellow.
+  - 太( )阳(陽)升( )起( )时(時)，大地披上了黃的外衣。
+    - Tàiyáng shēngqǐ shí, dàdì pī shàng le huáng de wàiyī.
+    - When the sun rises, the earth is draped in yellow.
+### 起床 → 床 → 广(廣) → 廣 → 黃 → 口
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他( )张(張)开(開)口( )，大( )声(聲)喊( )叫( )。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这(這)口( )饭(飯)入( )口( )即( )化( )。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
+### 起床 → 床 → 广(廣) → 廣 → 黃 → 田
+- **definition:** field
+- **pinyin:** tián
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a field divided into four sections
+  - **interpretation:** The character 田(tián, 'field') visually represents a field with sections, indicating its agricultural use and importance in ancient times.
+- **examples:**
+  - 农(農)民( )在( )田( )里(裡)耕( )作( )。
+    - Nóngmín zài tián lǐ gēngzuò.
+    - The farmer works in the field.
+  - 那( )边(邊)的( )田( )长(長)满(滿)了( )庄(莊)稼( )，农(農)民( )收( )获(穫)忙( )碌( )。
+    - Nàbiān de tián cháng mǎn le zhuāngjià, nóngmín shōuhuò mánglù.
+    - The field over there is full of crops, and the farmer is busy harvesting.
+  - 秋( )收( )时(時)节(節)，人( )们(們)忙( )于(於)收( )割( )田( )里(裡)的( )稻( )谷( )。
+    - Qiūshōu shíjié, rénmen máng yú shōugē tián lǐ de dàogǔ.
+    - During the harvest season, people are busy reaping the rice in the fields.
 ### 起床 → 床 → 木
 - **definition:** tree
 - **pinyin:** mù
@@ -7078,18 +7301,116 @@
 - **definition:** jinzhu fruit
 - **pinyin:** zhúguǒ
 - **components:**
-  - 竹果(竹)
+  - 竢
     - zhú
-    - bamboo
+    - to wait; bamboo
   - 果
     - guǒ
-    - fruit
+    - fruit; result
 - **etymology:**
   - **type:** compound word
-  - **description:** The word 竹果 (zhúguǒ) combines 竹 (zhú, "bamboo") and 果 (guǒ, "fruit").
-  - **interpretation:** The combination suggests a fruit that is associated with bamboo, possibly referring to the fruit produced by a bamboo plant or a fruit that is commonly found in bamboo forests. In traditional Chinese culture, bamboo is often seen as a symbol of resilience and strength.
+  - **description:** 竢 (zhú, "to wait") combined historically with 果 (guǒ, "fruit") to signify the name of a specific fruit, 'jinzhu' or 'bamboo fruit'.
+  - **interpretation:** Though 竢 (zhú, 'to wait') does not intuitively relate to bamboo or fruit, historically, the term 竢果 was used to describe a fruit that ripens gradually, similar to bamboo growing over time. This association explains the compound word's meaning.
+### 金竹果 → 竹果 → 竢
+- **definition:** to wait; bamboo
+- **pinyin:** zhú
+- **components:**
+  - 立
+    - lì
+    - to stand
+  - 矣
+    - yǐ
+    - final particle
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:** 立 (lì, "to stand") provides the meaning + 矣 (yǐ) provides the sound
+  - **interpretation:** The character 竢 incorporates 立 (lì, "to stand") as the semantic component, implying a sense of remaining in place or waiting, combined with the phonetic component 矣 (yǐ) to suggest its pronunciation.
+### 金竹果 → 竹果 → 竢 → 立
+- **definition:** to stand
+- **pinyin:** lì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a person standing on the ground
+  - **interpretation:** The character 立 (lì, 'stand') intuitively represents the concept of standing by depicting a person in an upright position, emphasizing the posture.
+- **examples:**
+  - 小王立在窗前，等( )待( )朋( )友( )到( )来(來)。
+    - Xiǎo Wáng lì zài chuāng qián, děngdài péngyǒu dàolái.
+    - Xiao Wang stands at the window, waiting for his friend to arrive.
+  - 园(園)中( )雕( )像( )静(靜)立( )于(於)石( )台(臺)上( )。
+    - Yuán zhōng diāoxiàng jìng lì yú shí tái shàng.
+    - The statue in the garden stands quietly on the stone platform.
+  - 士( )兵( )集( )合( )后(後)，整( )齐(齊)地( )立( )定( )阵(陣)型( )。
+    - Shìbīng jíhé hòu, zhěngqí de lì dìng zhènxíng.
+    - After the soldiers assemble, they stand in formation neatly.
+### 金竹果 → 竹果 → 竢 → 矣
+- **definition:** final particle
+- **pinyin:** yǐ
+- **components:**
+  - 㠯
+    - yǐ
+    - phonetic component
+  - 矢
+    - shǐ
+    - arrow
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - Phonetic: 㠯 + Semantic: 矢 ('arrow') ->
+    - final form 矣
+  - **interpretation:** The character 矣 (yǐ) uses 㠯 for its sound and 矢 (shǐ, 'arrow') to indicate its meaning as a final particle emphasizing a statement, occurring often in classical Chinese literature.
+- **examples:**
+  - 春( )天( )已( )过(過)矣( )。
+    - Chūntiān yǐ guò yǐ.
+    - Spring has already passed.
+  - 事情已成定局矣。
+    - Shìqíng yǐ chéng dìngjú yǐ.
+    - The matter is already settled.
+  - 此( )地( )无(無)银(銀)三( )百( )两(兩)矣( )。
+    - Cǐ dì wú yín sān bǎi liǎng yǐ.
+    - This place has no three hundred taels of silver.
+### 金竹果 → 竹果 → 竢 → 矣 → 㠯
+- **definition:** phonetic component
+- **pinyin:** yǐ
+- **components:**
+  - 耜
+    - sì
+    - plow
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Originally depicted a plow ->
+    - Related to the original form of 耜 (sì, "plow")
+  - **interpretation:** The character 㠯 originally depicted a plow, providing insight into early agricultural tools and practices. It served as the original form for 耜 (sì, "plow"), reflecting its functional purpose in farming.
+### 金竹果 → 竹果 → 竢 → 矣 → 㠯 → 耜
+- **definition:** plow
+- **pinyin:** sì
+- **components:**
+  - 耒
+    - lěi
+    - plow
+  - 㠯
+    - variant
+    - sound
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:** semantic 耒 (lěi, "plow") + phonetic 㠯 (variant sound)
+  - **interpretation:** The character 耜(sì, "plow") combines the semantic element 耒 (lěi, "plow"), representing the tool itself, with the phonetic component 㠯 to convey its pronunciation.
+### 金竹果 → 竹果 → 竢 → 矣 → 矢
+- **definition:** arrow
+- **pinyin:** shǐ
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an arrow
+  - **interpretation:** The character 矢(shǐ, 'arrow') is a pictogram representing an arrow. Its resemblance to arrows was more evident in ancient script forms.
+- **examples:**
+  - 他( )拉( )开(開)弓( )，射出一支矢。
+    - Tā lā kāi gōng, shè chū yī zhī shǐ.
+    - He drew his bow and released an arrow.
+  - 古( )代( )战(戰)士( )用( )矢( )，攻( )破( )敌(敵)阵(陣)。
+    - Gǔdài zhànshì yòng shǐ, gōng pò dí zhèn.
+    - Ancient warriors used arrows to breach enemy formations.
 ### 金竹果 → 竹果 → 果
-- **definition:** fruit
+- **definition:** fruit; result
 - **pinyin:** guǒ
 - **etymology:**
   - **type:** pictogram
@@ -7260,9 +7581,20 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 爪('hands') + 角 Phonetic ('horn') + 女('woman') ->
-    - Later: 母('mother') + 中('middle') + 女('daughter')
-  - **interpretation:** The character 婁 originally combined semantic 爪 (zhǎo, "hands") and phonetic 角 (jiǎo, "horn") with the semantic 女 (nǚ, "woman") to possibly indicate some aspect of interaction or action involving women. Its later reanalysis as an ideogrammic compound with 母 (mǔ, "mother") and 女 (nǚ, "daughter") suggests a familial or generational context. The original meaning remains uncertain but was likely related to these components.
+    - 爪 (zhǎo, "hands") + 角 (jiǎo, "horn") as phonetic + 女 (nǚ, "woman") =
+    - combines hand and woman ->
+    - evolved into ideogrammic compound 母 (mǔ, "mother") + 中 (zhōng, "middle") + 女 (nǚ, "daughter")
+  - **interpretation:** Initially, the character 婁(lóu) combined elements representing hands and a woman for an uncertain meaning. It later evolved to symbolically represent familial relationships through the components of mother and daughter.
+- **examples:**
+  - 他把木柴捆成一捆，像( )一( )个(個)大( )的( )婁( )。
+    - Tā bǎ mùchái kǔn chéng yī kǔn, xiàng yī gè dà de lóu.
+    - He bundled the firewood into a bundle, like a big bundle.
+  - 这(這)些( )棉( )花( )要( )编(編)成( )婁( )，才( )方( )便( )运(運)输(輸)。
+    - Zhèxiē miánhuā yào biān chéng lóu, cái fāngbiàn yùnshū.
+    - These cottons need to be woven into bundles for easy transportation.
+  - 他( )手( )里(裡)拿( )着(著)一( )个(個)婁( )，里(裡)面( )装(裝)满(滿)了( )干(乾)草( )。
+    - Tā shǒu lǐ názhe yī gè lóu, lǐmiàn zhuāngmǎnle gāncǎo.
+    - He held a bundle, filled with hay, in his hand.
 ### 鼓( )楼(樓) → 楼(樓) → 婁 → 爪
 - **definition:** hands
 - **pinyin:** zhǎo
@@ -7887,40 +8219,75 @@
 - **definition:** wide
 - **pinyin:** guǎng
 - **components:**
-  - 宀
-    - mián
-    - roof
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a house with a roof, similar to 宀 (mián, "roof") ->
-    - a building with three walls ->
+  - 廣
+    - guǎng
     - shelter
-  - **interpretation:** As a pictogram, 广(廣) (guǎng, "shelter") visually represents a three-walled structure under a roof, conveying the concept of shelter or covering. It is closely related to the character 宀 (mián, "roof"), which includes four walls, indicating the structural nuance captured by ancient scribes.
-  - **simplification:** 广(廣) was simplified by using the pictographic element alone, omitting the phonetic component 黃.
+  - 黃
+    - huáng
+    - yellow
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 广(廣) (guǎng, "shelter") + phonetic 黃 (huáng, "yellow") =
+    - area underneath a shelter ->
+    - broad
+  - **interpretation:** 廣 combines the semantic element of shelter or building represented by 广(廣) with the phonetic element of 黃, suggesting an area or space that is open and extensive, consistent with the idea of something being 'broad' or 'wide'.
+  - **simplification:** 廣 was simplified by reducing the component 黃 to the simpler form 广(廣), retaining the semantic aspect while simplifying the structure for phonetic indication.
 - **examples:**
-  - 暴( )风(風)骤(驟)雨( )时(時)，山( )洞( )广(廣)可( )供( )人( )躲( )避( )。
-    - Bào fēng zhòu yǔ shí, shān dòng guǎng kě gòng rén duǒ bì.
-    - When the storm rages, the cave provides shelter.
-  - 旅( )途( )中( )疲( )惫(憊)时(時)，老( )树(樹)下( )广(廣)给(給)予( )行( )人( )庇( )护(護)。
-    - Lǚ tú zhōng pí bèi shí, lǎo shù xià guǎng jǐ yǔ xíng rén bì hù.
-    - During a tiring journey, the shelter under the old tree gives travelers protection.
-### 冰糖雪梨 → 糖 → 唐 → 广(廣) → 宀
-- **definition:** roof
-- **pinyin:** mián
+  - 这(這)条(條)路( )很( )广(廣)。
+    - Zhè tiáo lù hěn guǎng.
+    - This road is very broad.
+  - 广(廣)场(場)上( )有( )许(許)多( )人( )。
+    - Guǎngchǎng shàng yǒu xǔduō rén.
+    - There are many people in the square.
+  - 她( )的( )知( )识(識)面( )很( )广(廣)。
+    - Tā de zhīshì miàn hěn guǎng.
+    - She has a broad range of knowledge.
+### 冰糖雪梨 → 糖 → 唐 → 广(廣) → 廣
+- **definition:** shelter
+- **pinyin:** guǎng
+- **components:**
+  - 黃
+    - huáng
+    - yellow
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - semantic 广(廣) (guǎng, 'wide') + phonetic 黃 (huáng, 'yellow') ->
+    - conveys the idea of a wide space or shelter
+  - **interpretation:** 廣 (guǎng, 'wide') represents the concept of an expansive area, while 黃 (huáng) provides the phonetic component; together, they suggest a spacious shelter.
+  - **simplification:** 广(廣): The character was simplified from several strokes depicting a house with a roof to its core element, resembling a house, for ease of writing.
+- **examples:**
+  - 大( )雨( )袭(襲)来(來)时(時)，那( )家( )小( )店( )成( )了( )廣( )的( )庇( )护(護)所( )。
+    - Dà yǔ xí lái shí, nà jiā xiǎo diàn chéng le guǎng de bìhù suǒ.
+    - When the heavy rain came, that small shop became a shelter.
+  - 大( )火( )蔓( )延( )之( )际(際)，难(難)民( )纷(紛)纷(紛)奔( )向( )廣( )的( )庇( )护(護)所( )。
+    - Dà huǒ màn yán zhī jì, nànmín fēnfēn bēn xiàng guǎng de bìhù suǒ.
+    - At the outbreak of the fire, refugees rushed towards the shelter.
+### 冰糖雪梨 → 糖 → 唐 → 广(廣) → 廣 → 黃
+- **definition:** yellow
+- **pinyin:** huáng
+- **components:**
+  - 口
+    - kǒu
+    - mouth
+  - 田
+    - tián
+    - field
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a house with four walls ->
-    - roof
-  - **interpretation:** 宀(mián, "roof") is a pictogram representing a house with four walls. It emphasizes an enclosed space, distinguishing it from similar structures like 广(guǎng, "broad") which depicts a building with three walls. This makes 宀 a logical choice for representing a roof in various characters.
+    - Originally depicted 口 (kǒu, 'mouth/face') as a stylized depiction of a person or jade ring ->
+    - borrowed for 'yellow' in oracle bone script
+  - **interpretation:** Originally a pictogram depicting something related to either a person or jade, 黃 (huáng, 'yellow') was later phonetically borrowed for the meaning 'yellow'. The character's association with jade might also symbolize value and elegance, helping to explain its transition to the color 'yellow', often symbolic of wealth and opulence in Chinese culture.
+  - **simplification:** 黄 replaces 黃 by dropping the radical 田 (tián, 'field') entirely, keeping only 廿 (nián, 'twenty'), a simplified pattern for phonetic or visual resemblance.
 - **examples:**
-  - 含( )有( )宀( )的( )汉(漢)字( )代( )表( )家( )的( )温(溫)暖( )。
-    - Hán yǒu mián de hànzì dàibiǎo jiā de wēnnuǎn.
-    - Chinese characters that include the radical '宀' represent the warmth of home.
-  - 屋( )顶(頂)遮( )风(風)挡(擋)雨( )，家( )园(園)散( )发(發)温(溫)馨( )。
-    - Wūdǐng zhē fēng dǎng yǔ, jiāyuán sànfā wēnxīn.
-    - The roof shields from wind and rain, and the home radiates warmth.
+  - 那( )件( )衬(襯)衫( )是( )黃( )的( )。
+    - Nà jiàn chènshān shì huáng de.
+    - That shirt is yellow.
+  - 太( )阳(陽)升( )起( )时(時)，大地披上了黃的外衣。
+    - Tàiyáng shēngqǐ shí, dàdì pī shàng le huáng de wàiyī.
+    - When the sun rises, the earth is draped in yellow.
 ### 冰糖雪梨 → 糖 → 唐 → 尙
 - **definition:** still
 - **pinyin:** shàng
@@ -7965,13 +8332,53 @@
 - **definition:** component only
 - **pinyin:** jiōng
 - **components:**
+  - 冂
+    - jiōng
+    - border
   - 口
     - kǒu
     - mouth
 - **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
+### 冰糖雪梨 → 糖 → 唐 → 尙 → 冋 → 冂
+- **definition:** border
+- **pinyin:** jiōng
+- **components:**
+  - 堂
+    - táng
+    - hall
+  - 凵
+    - kǎn
+    - container
+- **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an enclosure with 口 (kǒu, "mouth") inside
-  - **interpretation:** The character 冋 originally depicted an enclosed space, incorporating the symbol for a mouth inside, indicating a sense of enclosing or surrounding something orally or verbally.
+  - **description:**
+    - Depicts three lines representing a territory outside city walls ->
+    - original form of 堂 (táng, "hall") ->
+    - reversed form is 凵 (kǎn, "container")
+  - **interpretation:** The character 冂 (jiōng, "borders") symbolically represents an area extending beyond the boundaries of the urban environment, depicting open countryside. Its association with 堂 (táng, "hall") as an original form suggests its use in depicting enclosed spaces like buildings.
+- **examples:**
+  - 这(這)幅( )画(畫)以( )冂( )为(為)边(邊)框( )。
+    - Zhè fú huà yǐ jiōng wéi biānkuàng.
+    - This painting uses 冂 as its border.
+  - 学(學)校( )大( )门(門)两(兩)旁( )各( )有( )一( )个(個)冂( )装(裝)饰(飾)。
+    - Xuéxiào dàmén liǎng páng gè yǒu yīgè jiōng zhuāngshì.
+    - There is a 冂 decoration on each side of the school gate.
+  - 古( )代( )的( )城( )池( )常( )用( )冂( )来(來)象( )征(徵)国(國)界( )。
+    - Gǔdài de chéngchí cháng yòng jiōng lái xiàngzhēng guójiè.
+    - In ancient times, cities often used 冂 to symbolize national borders.
 ### 冰糖雪梨 → 糖 → 唐 → 尙 → 冋 → 口
 - **definition:** mouth
 - **pinyin:** kǒu
@@ -8070,10 +8477,16 @@
   - 生
     - shēng
     - life
+  - 辶
+    - chuò
+    - walk; movement
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** Semantic: 生 (shēng, "life") + Phonetic: 生 (shēng) duplicated for sound
-  - **interpretation:** The character 甡(shēn) uses the duplication of 生 (shēng, "life") to emphasize or replicate the phonetic sound. This structure is designed to convey the specific pronunciation rather than a literal meaning from the characters, as such configurations often do when components are repeated.
+  - **description:**
+    - 生 (shēng, "life") + 辶 (chuò, "walk; movement") =
+    - phonetic component with a semantic influence suggesting multiplicity ->
+    - final form representing the concept of a broom-like tool made from multiple branches or straws
+  - **interpretation:** The character 甡 (shēn) uses the phonetic 生 and the semantic 辶 to convey the idea of a broom made from multiple parts, possibly alluding to the branching aspect as shown by 生, and movement related to use, indicated by 辶. It suggests an old broom-like object.
 ### 冰糖雪梨 → 雪 → 彗 → 甡 → 生
 - **definition:** life
 - **pinyin:** shēng
@@ -8112,6 +8525,55 @@
   - 草屮初生露尖端。
     - cǎo chè chū shēng lù jiān duān.
     - The grass sprout's tip has just emerged.
+### 冰糖雪梨 → 雪 → 彗 → 甡 → 辶(辵)
+- **traditional:** 辵
+- **definition:** walk; movement
+- **pinyin:** chuò
+- **components:**
+  - 辵
+    - chuò
+    - walk
+- **etymology:**
+  - **type:** combining form
+  - **description:**
+    - Simplified form of 辵 (chuò, "walk") ->
+    - used as a radical in conjunction with other components
+  - **interpretation:** 辶(辵) (chuò, "walk") is derived by simplifying 能(mp) (néng, "self-reliant") structure from the character 辵. This simplified form emphasizes the act of motion or walking and is widely used as a radical in various motion-related characters.
+- **examples:**
+  - 学(學)习(習)汉(漢)字( )时(時)，辶( )作( )为(為)部( )首( )出( )现(現)。
+    - Xuéxí hànzì shí(學習漢字時)，chuò zuòwéi bùshǒu chūxiàn(辶作為部首出現)。
+    - When studying Chinese characters, '辶' appears as a radical.
+  - 许(許)多( )表( )示( )走( )路( )的( )字( )，都( )含( )有( )辶( )这(這)一( )部( )分( )。
+    - Xǔduō biǎoshì zǒulù de zì(許多表示走路的字)，dōu hányǒu chuò zhè yī bùfen(都含有辶這一部分)。
+    - Many characters that denote walking contain the radical '辶'.
+  - 古( )人( )写(寫)字( )时(時)，常( )利( )用( )辶( )表( )达(達)行( )走( )之( )意( )。
+    - Gǔrén xiězì shí(古人寫字時)，cháng lìyòng chuò biǎodá xíngzǒu zhī yì(常利用辶表達行走之意)。
+    - When ancient people wrote characters, they often used '辶' to express the idea of walking.
+### 冰糖雪梨 → 雪 → 彗 → 甡 → 辶(辵) → 辵
+- **definition:** walk
+- **pinyin:** chuò
+- **components:**
+  - 彳
+    - chì
+    - walk
+  - 止
+    - zhǐ
+    - foot
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 彳 (chì, "walk") + 止 (zhǐ, "foot" or "to stop") ->
+    - 𣥆 ->
+    - stylized as 龰 ->
+    - 辵
+  - **interpretation:** The character 辵 combines 彳 (chì, "walk"), which represents movement, with 止 (zhǐ, "foot" or "to stop"), suggesting the concept of stepping or traveling forward. This character represents the idea of movement, particularly the action of walking or traveling, as originally depicted by the more conservative form 𣥆. Over time, the bottom component has been stylized as 龰, forming the current representation.
+- **examples:**
+  - 他( )辵( )在( )乡(鄉)间(間)的( )小( )路( )上( )。
+    - Tā chuò zài xiāngjiān de xiǎolù shàng.
+    - He walks on the rural path.
+  - 晨( )光( )洒(灑)满(滿)大( )地( )，他( )辵( )出( )门(門)开(開)始( )旅( )程( )。
+    - Chén guāng sǎ mǎn dàdì, tā chuò chūmén kāishǐ lǚchéng.
+    - As the morning light fills the earth, he sets out to begin his journey.
 ### 冰糖雪梨 → 雪 → 彗 → 又
 - **definition:** hand
 - **pinyin:** yòu
@@ -8541,8 +9003,8 @@
   - **type:** ideogrammic compound
   - **description:**
     - 大 (dà, "big") + 十 (shí, "ten") =
-    - big ten; combined to form an archaic character
-  - **interpretation:** The character 夲 is composed of 大 (dà, "big") on top of 十 (shí, "ten"), traditionally interpreted as denoting a significant or large number (in multiples of ten). However, it is not directly related to the meaning 'root'.
+    - emphasized foundation of a large whole
+  - **interpretation:** The character 夲 combines 大 (dà, "big") and 十 (shí, "ten") to symbolize the idea of something fundamentally large or foundational, metaphorically related to the concept of a 'root.'
 ### 凑(湊)凑(湊)火( ) → 凑(湊) → 奏 → 夲 → 大
 - **definition:** big
 - **pinyin:** dà
@@ -8819,16 +9281,24 @@
 - **components:**
   - 冂
     - jiōng
-    - open country
+    - border
   - 口
     - kǒu
     - mouth
 - **etymology:**
-  - **type:** pictogram
+  - **type:** ideogrammic compound
   - **description:**
-    - An ancient form of 冂 (jiōng, "open country") with 口 (kǒu, "mouth") contained inside ->
-    - closed area
-  - **interpretation:** The character 冋 represents an enclosure with a mouth inside, suggesting a confined space. It was initially related to concepts of surrounding or enclosure, unlike the open form of 冂 (jiōng, "open country").
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ### 南( )锣(鑼)鼓( )巷( ) → 南 → 冂 → 堂 → 土
 - **definition:** earth
 - **pinyin:** tǔ
@@ -8948,8 +9418,9 @@
   - **type:** pictogram
   - **description:**
     - Depicts a left hand ->
-    - stylized as 又 (yòu, "again") flipped
-  - **interpretation:** The character 𠂇 is a pictogram representing a left hand, which appears as a flipped version of 又 (yòu, "again"). It is visually similar to the top component of 灰, where a left hand shape can also be discerned.
+    - resembles 又 (yòu, 'again') flipped ->
+    - component in 灰 (huī, 'ash')
+  - **interpretation:** The character 𠂇 depicts a left hand, stylized similarly to 又 (yòu, 'again') but flipped, and it is recognizable as part of the character 灰 (huī, 'ash').
 ### 南( )锣(鑼)鼓( )巷( ) → 南 → 𠂇 → 又
 - **definition:** again
 - **pinyin:** yòu
@@ -9196,7 +9667,7 @@
 - **definition:** net
 - **pinyin:** luó
 - **components:**
-  - 𦉎
+  - 网
     - wǎng
     - net
   - 維
@@ -9205,84 +9676,39 @@
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 𦉎 (wǎng, "net") + 維 (wéi, "bird tied with string") =
+    - 网 (wǎng, "net") + 維 (wéi, "bird tied with string") =
     - net for catching birds ->
     - 羅 (luó, "net")
-  - **interpretation:** The character 羅 (luó) originally depicted a net used for catching birds, combining the symbols for a net and a bird tied with string. This visually represents its function as a bird-catching tool.
-  - **simplification:** The simplified form 罗 simplifies 羅 by reducing the complexity of the net component, likely influenced by cursive handwriting styles.
+  - **interpretation:** The character 羅 (luó, "net") is an ideogrammic compound that combines the idea of a net with the concept of a bird tied with a string, visually conveying the purpose of catching birds. This compound reflects its historical usage as a tool in bird catching.
+  - **simplification:** The traditional character 羅 was simplified to 罗 by removing the silk radical 糸.
 - **examples:**
-  - 渔(漁)民( )撒( )下( )罗(羅)，捕( )到( )了( )许(許)多( )鱼(魚)。
-    - Yúmín sā xià luó, bǔ dàole xǔduō yú.
-    - The fisherman cast the net, and caught many fish.
-  - 老( )渔(漁)夫( )修( )补(補)罗(羅)。
-    - Lǎo yúfū xiūbǔ luó.
-    - The old fisherman mended the net.
-### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 𦉎(網)
+  - 渔(漁)夫( )撒( )下( )了( )大( )网(網)，希( )望( )能( )捕( )到( )很( )多( )鱼(魚)。
+    - Yúfū sā xiàle dà wǎng, xīwàng néng bǔ dào hěn duō yú.
+    - The fisherman cast a big net, hoping to catch many fish.
+  - 他( )用( )罗(羅)子( )将柳絮筛干净。
+    - Tā yòng luózi jiāng liǔxù shāi gānjìng.
+    - He used a sieve to clean off the willow catkins.
+  - 迷( )人( )的( )夜( )晚( )如( )同( )一( )张(張)魔( )法( )网(網)，将(將)人( )们(們)笼(籠)罩( )其( )中( )。
+    - Mírén de yèwǎn rútóng yī zhāng mófǎ wǎng, jiāng rénmen lǒngzhào qízhōng.
+    - The enchanting night is like a magical net, enveloping everyone within it.
+### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 网(網)
 - **traditional:** 網
 - **definition:** net
 - **pinyin:** wǎng
-- **components:**
-  - 糸
-    - mì
-    - silk
-  - 罔
-    - wǎng
-    - net
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 糸 (mì, "silk") + 罔 (wǎng, "net") =
-    - a net made of silk fiber ->
-    - net
-  - **interpretation:** The character 網(wǎng, "net") represents a net made from silk, combining the silk radical 糸 (mì, "silk") with the phonetic component 罔 (wǎng, "net") to represent a net used for fishing or trapping, historically constructed from silk or similar materials.
-  - **simplification:** 網 was simplified to 网(網) by removing the 糸 (mì, "silk") radical, keeping the phonetic component 罔 (wǎng) in a simplified form that suggests the same meaning.
-- **examples:**
-  - 船夫用𦉎，撒( )网(網)捕( )鱼(魚)。
-    - Chuánfū yòng wǎng, sā wǎng bǔ yú.
-    - The boatman used a net to cast and catch fish.
-  - 他在池塘边搭了一个𦉎，来(來)捉( )青( )蛙( )。
-    - Tā zài chítáng biān dāle yīgè wǎng, lái zhuō qīngwā.
-    - He set up a net by the pond to catch frogs.
-### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 𦉎(網) → 糸
-- **definition:** silk
-- **pinyin:** mì
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a skein of silk
-  - **interpretation:** The character 糸(mì, "silk; thread") represents a pictorial representation of a skein of silk, visually capturing the concept of thread or fiber.
-- **examples:**
-  - 她( )手( )工( )制(製)作( )了( )一( )条(條)漂( )亮( )的( )丝(絲)巾( )。
-    - Tā shǒugōng zhìzuòle yī tiáo piàoliang de sī jīn.
-    - She handcrafted a beautiful silk scarf.
-  - 这(這)个(個)设(設)计(計)图(圖)必( )须(須)用( )细(細)糸( )画(畫)出( )来(來)。
-    - Zhège shèjìtú bìxū yòng xì mì huà chūlái.
-    - This design drawing must be sketched with fine thread.
-  - 我( )们(們)参(參)观(觀)了( )古( )代( )的( )织(織)布( )技( )术(術)，对(對)丝(絲)绸(綢)制(製)作( )产(產)生( )了( )兴(興)趣( )。
-    - Wǒmen cānguānle gǔdài de zhībù jìshù, duì sīchóu zhìzuò chǎnshēngle xìngqù.
-    - We visited ancient weaving techniques and developed an interest in silk production.
-### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 𦉎(網) → 罔
-- **definition:** net
-- **pinyin:** wǎng
-- **components:**
-  - 網(网)
-    - wǎng
-    - net
-  - 亡
-    - wáng
-    - to flee
-- **etymology:**
-  - **type:** phono-semantic compound
   - **description:**
-    - 網(网) (wǎng, 'net') (semantic) + 亡 (wáng, 'to flee') (phonetic) =
-    - net-related character with phonetic element
-  - **interpretation:** The character 罔(wǎng, 'net') combines the semantic element 網(网) (wǎng, 'net') indicating its relation to nets or a web, with the phonetic component 亡(wáng, 'to flee') providing the pronunciation. This compound form suggests a term related to nets or catching, with a phonetic aid from 亡.
+    - Depicts a net with crossing lines or mesh ->
+    - symbol for 'net'
+  - **interpretation:** The character 网(網) (wǎng, 'net') visually represents a net with lines intersecting to form a grid, making it intuitive as a symbol for a net or mesh.
+  - **simplification:** The simplified character 网 (wǎng) retains the essential visual structure of intersecting lines to depict a net. It conveys the idea of a net through a simplified representation without additional semantic or phonetic elements.
 - **examples:**
-  - 渔(漁)夫( )用( )罔( )捕( )鱼(魚)。
-    - Yúfū yòng wǎng bǔ yú.
-    - The fisherman used a net to catch fish.
-  - 渔(漁)夫( )铺(鋪)开(開)罔( )，捕( )捉( )大( )鱼(魚)。
-    - Yúfū pū kāi wǎng, bǔ zhuō dà yú.
-    - The fisherman spread out the net and caught big fish.
+  - 他( )用( )网(網)捕( )鱼(魚)，快( )乐(樂)满(滿)怀(懷)。
+    - Tā yòng wǎng bǔ yú, kuàilè mǎn huái.
+    - He fishes with a net and is full of joy.
+  - 很( )多( )信( )息( )通( )过(過)网(網)传(傳)播( )，速( )度( )惊(驚)人( )。
+    - Hěn duō xìnxī tōngguò wǎng chuánbō, sùdù jīngrén.
+    - A lot of information spreads through the net with astonishing speed.
 ### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 維
 - **definition:** bird tied with string
 - **pinyin:** wéi
@@ -9308,6 +9734,23 @@
   - 妈(媽)妈(媽)用( )細( )繩( )維( )著( )小( )鳥( )，以防它亂飛。
     - Māmā yòng xìshéng wéi zhe xiǎoniǎo, yǐ fáng tā luàn fēi.
     - Mama ties the bird with a fine rope to prevent it from flying away.
+### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 維 → 糸
+- **definition:** thread
+- **pinyin:** mì
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a skein of silk
+  - **interpretation:** The character 糸(mì, "silk; thread") represents a pictorial representation of a skein of silk, visually capturing the concept of thread or fiber.
+- **examples:**
+  - 她( )手( )工( )制(製)作( )了( )一( )条(條)漂( )亮( )的( )丝(絲)巾( )。
+    - Tā shǒugōng zhìzuòle yī tiáo piàoliang de sī jīn.
+    - She handcrafted a beautiful silk scarf.
+  - 这(這)个(個)设(設)计(計)图(圖)必( )须(須)用( )细(細)糸( )画(畫)出( )来(來)。
+    - Zhège shèjìtú bìxū yòng xì mì huà chūlái.
+    - This design drawing must be sketched with fine thread.
+  - 我( )们(們)参(參)观(觀)了( )古( )代( )的( )织(織)布( )技( )术(術)，对(對)丝(絲)绸(綢)制(製)作( )产(產)生( )了( )兴(興)趣( )。
+    - Wǒmen cānguānle gǔdài de zhībù jìshù, duì sīchóu zhìzuò chǎnshēngle xìngqù.
+    - We visited ancient weaving techniques and developed an interest in silk production.
 ### 南( )锣(鑼)鼓( )巷( ) → 锣(鑼)鼓( ) → 锣(鑼) → 罗(羅) → 維 → 唯
 - **definition:** only
 - **pinyin:** wéi
@@ -9753,30 +10196,31 @@
 - **components:**
   - 攴
     - pū
-    - tap
+    - hand
   - 癹
-    - bá
+    - bā
     - phonetic component
 - **etymology:**
-  - **type:** pictogram
+  - **type:** phono-semantic compound
   - **description:**
-    - Pictogram of a bow firing an arrow; hand (攴 (pū, "tap")) added later ->
-    - evolved into phonetic component 癹 (bá) ->
-    - final form as phono-semantic
-  - **interpretation:** The original depiction of a bow and arrow represents the act of emitting or issuing, like launching an arrow. The hand component implies control, leading to the contemporary concept of issuing or emitting something.
-  - **simplification:** Simplified to 发(發) by merging functions of 髮 (fà, "hair") in the 1956 Chinese Character Simplification Scheme, as both share the pronunciation.
+    - Pictogram of bow shooting an arrow ->
+    - 攴 (hand) added, forming 㢭 ->
+    - phonetic 癹 added ->
+    - final form 發
+  - **interpretation:** The character originally depicted a bow shooting an arrow, symbolizing the idea of sending forth or releasing. The addition of the hand component indicates an action, while the phonetic 癹 contributes to the pronunciation.
+  - **simplification:** 發 was simplified to 发 by removing the hand component 攴 and replacing 癹 with the grass radical 夂, retaining a similar sound.
 - **examples:**
-  - 电(電)台( )发(發)出( )柔( )和( )的( )音( )乐(樂)。
-    - Diàntái fāchū róuhé de yīnyuè。
-    - The radio emits soft music.
-  - 厂(廠)房( )发(發)出( )刺( )鼻( )的( )气(氣)味( )。
-    - Chǎngfáng fāchū cìbí de qìwèi。
-    - The factory emits a pungent odor.
-  - 汽( )车(車)发(發)出( )急( )促( )的( )鸣(鳴)笛( )，警( )告( )行( )人( )靠( )边(邊)行( )走( )。
-    - Qìchē fāchū jí cù de míngdí, jǐnggào xíngrén kào biān xíngzǒu。
-    - The car emits a rapid honk, warning pedestrians to move aside.
+  - 老( )师(師)发(發)了( )作( )业(業)。
+    - Lǎoshī fā le zuòyè.
+    - The teacher issued an assignment.
+  - 他( )生( )气(氣)时(時)就( )会(會)发(發)火( )。
+    - Tā shēngqì shí jiù huì fāhuǒ.
+    - He emits anger when he gets mad.
+  - 公( )司( )发(發)了( )奖(獎)金( )，员(員)工( )都( )很( )高( )兴(興)。
+    - Gōngsī fā le jiǎngjīn, yuángōng dōu hěn gāoxìng.
+    - The company issued a bonus, and all the employees were very happy.
 ### 发(發)呆( ) → 发(發) → 攴
-- **definition:** tap
+- **definition:** hand
 - **pinyin:** pū
 - **components:**
   - 手
@@ -9855,7 +10299,7 @@
     - Ancient people often practiced divination to determine fortune, in order to pursue peace and order.
 ### 发(發)呆( ) → 发(發) → 癹
 - **definition:** phonetic component
-- **pinyin:** bá
+- **pinyin:** bā
 - **components:**
   - 癶
     - bō
@@ -9865,14 +10309,14 @@
     - hand with stick
   - 撥
     - bō
-    - to dial
+    - to poke; to stir
 - **etymology:**
   - **type:** ideogrammic compound and phono-semantic compound
   - **description:**
     - 癶 (bō, "two outstretched feet") + 殳 (shū, "hand with stick") =
-    - action of beating or cutting grass ->
-    - possibly original form of 撥 (bō, "to dial")
-  - **interpretation:** The character 癹(bá) combines the image of two feet 癶 (bō, "two outstretched feet") with a hand holding a stick 殳 (shū, "hand with stick"), to convey actions involving striking or cutting, likely linked to agricultural or martial activities. It may have been used originally in connection with 撥 (bō, "to dial") as a related action form.
+    - beating or cutting grass ->
+    - later evolved into 撥 (bō, "to poke; to stir")
+  - **interpretation:** The character 癹 combines the imagery of feet and a hand with a stick, suggesting the action of moving or cutting grass, which aligns with an early use related to stirring or poking items.
 ### 发(發)呆( ) → 发(發) → 癹 → 癶
 - **definition:** two outstretched feet
 - **pinyin:** bō
@@ -9954,16 +10398,13 @@
 ### 发(發)呆( ) → 发(發) → 癹 → 癶 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint pointing up, originally meaning 'foot'; stylized as 龰 ->
-    - modern characters such as 趾 (zhǐ, 'toe') evolved from this form
-  - **interpretation:** 龰(yù, 'stylized feet') is a pictographic representation of a footprint, emphasizing the upward direction and stylization. It is part of the evolutionary history of characters related to feet, like 趾 (zhǐ, 'toe').
+    - Depicts a stylized footprint pointing up ->
+    - evolved into feet depiction ->
+    - stylized as 龰
+  - **interpretation:** The character 龰 depicts a footprint pointing up and was originally used to represent 'foot'. It was later stylized specifically as 龰 and forms part of certain compound characters representing movement or feet-related concepts.
 ### 发(發)呆( ) → 发(發) → 癹 → 殳
 - **definition:** hand with stick
 - **pinyin:** shū
@@ -9986,7 +10427,7 @@
     - Bīngqì zhǎnlǎn zhōng, shū shǎnyào zhe lìshǐ de guāngmáng.
     - In the arms exhibition, the shū shone with the brilliance of history.
 ### 发(發)呆( ) → 发(發) → 癹 → 撥
-- **definition:** to dial
+- **definition:** to poke; to stir
 - **pinyin:** bō
 - **components:**
   - 手

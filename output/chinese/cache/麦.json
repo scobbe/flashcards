@@ -5,14 +5,14 @@
   "english": "wheat; grain",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "來(來) (lái, \"come\") + 夊(夊) (suī, \"footprint pointing down\") -> Phonetic for wheat and symbolic of wheat's growth -> 麥(麥) (mài, \"wheat\")",
-    "interpretation": "The character 麥(麥) (mài, \"wheat\") uses 來(來) (lái, \"come\") as its phonetic component, emphasizing phonetic similarity when the original meaning 'wheat' was borrowed for 'to come'. The component 夊(夊) (suī, \"footprint pointing down\") suggests wheat's growth. This compound helped differentiate 麥(麥) from 來(來), as the latter came to be used primarily for 'to come'.",
-    "simplification": "The traditional character 麥(麥) was simplified by changing 八(八) (bā, \"eight\") to a horizontal line, leading to 麦(麥). This simplification reflects a common approach to ease of writing."
+    "description": "來(来) (lái, \"come\") phonetic + 夊(夊) (suī, \"footprint pointing down; to walk slowly\") semantic = differentiation from 來 (originally \"wheat\") -> wheat (麥)",
+    "interpretation": "The character 麥(mài, \"wheat\") is a phono-semantic compound where 來(lái, \"come\") contributes the phonetic part, while 夊(suī, \"footprint pointing down; to walk slowly\") adds semantic meaning, possibly representing the growth or origin of wheat. The character evolved to take on the meaning of 'wheat' as 來(lái) took on the meaning of 'come.' This differentiation preserved the word's agricultural significance.",
+    "simplification": "麦(麥): 麥 was reduced by removing the 夊(夊) (suī, \"footprint pointing down; to walk slowly\") component, which streamlined the character to 麦, retaining its pronunciation and meaning."
   },
   "parts": [
     {
       "char": "來",
-      "trad": "來",
+      "trad": "来",
       "pinyin": "lái",
       "english": "come"
     },
@@ -20,20 +20,25 @@
       "char": "夊",
       "trad": "夊",
       "pinyin": "suī",
-      "english": "footprint pointing down"
+      "english": "footprint pointing down; to walk slowly"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "秋风扫过麦田(秋風掃過麥田)。",
-      "pinyin": "Qiū fēng sǎoguò màitián。",
-      "english": "The autumn wind sweeps over the wheat field."
+      "chinese": "农民们正在收割麦子(農民們正在收割麥子)。",
+      "pinyin": "Nóngmínmen zhèngzài shōugē màizi.",
+      "english": "The farmers are harvesting the wheat."
     },
     {
-      "chinese": "农民收割成熟的麦(農民收割成熟的麥)，准备储存粮食(準備儲存糧食)。",
-      "pinyin": "Nóngmín shōugē chéngshú de mài，zhǔnbèi chǔcún liángshí。",
-      "english": "The farmers harvest the ripe wheat and prepare to store the grain."
+      "chinese": "秋天是收获麦子的季节(秋天是收穫麥子的季節)。",
+      "pinyin": "Qiūtiān shì shōuhuò màizi de jìjié.",
+      "english": "Autumn is the season for harvesting wheat."
+    },
+    {
+      "chinese": "麦田在风中摇曳(麥田在風中搖曳)，看起来很漂亮(看起來很漂亮)。",
+      "pinyin": "Màitián zài fēng zhōng yáoyè, kàn qǐlái hěn piàoliang.",
+      "english": "The wheat fields sway in the wind, looking beautiful."
     }
   ]
 }

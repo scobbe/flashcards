@@ -5,8 +5,8 @@
   "english": "traditional tea whisking method",
   "etymology": {
     "type": "compound word",
-    "description": "點(點) (diǎn, \"dot; point; a little\") + 茶(茶) (chá, \"tea\") = the method of preparing tea by whisking it to create a frothy surface, which was a popular practice in Song Dynasty (960–1279) China.",
-    "interpretation": "點(點) (diǎn, \"dot; point\") refers to the action of adding or applying something in small amounts, while 茶(茶) (chá, \"tea\") clearly refers to the beverage. The combination 點茶(點茶) (diǎn chá, \"traditional tea whisking method\") describes the historical technique of preparing tea by skillfully whisking it, emphasizing the cultural importance of tea preparation in the Song Dynasty.",
+    "description": "點(點) (diǎn, \"dot; point; prepare delicately\") + 茶(茶) (chá, \"tea\") refers to the traditional method of preparing tea by whisking it into a frothy mixture.",
+    "interpretation": "點(點) (diǎn, \"dot; point; prepare delicately\") can convey the sense of a delicate and refined process, while 茶(茶) (chá, \"tea\") specifies the substance being prepared. This combination reflects a time-honored technique of whisking powdered tea with water to create a frothy, aromatic drink, a practice prevalent during the Song Dynasty, illustrating the importance of tea in Chinese culture and its artistic presentation.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "点",
       "trad": "點",
       "pinyin": "diǎn",
-      "english": "dot; point; a little"
+      "english": "dot; point; prepare delicately"
     },
     {
       "char": "茶",
@@ -23,6 +23,22 @@
       "english": "tea"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "点茶是一种古老而优雅的茶艺(點茶是一種古老而優雅的茶藝)。",
+      "pinyin": "Diǎn chá shì yī zhǒng gǔlǎo ér yōuyǎ de cháyì.",
+      "english": "Tea whisking is an ancient and elegant tea art."
+    },
+    {
+      "chinese": "在茶室里，我们学习如何点茶(在茶室裏，我們學習如何點茶)。",
+      "pinyin": "Zài cháshì lǐ, wǒmen xuéxí rúhé diǎn chá.",
+      "english": "In the tea room, we learn how to whisk tea."
+    },
+    {
+      "chinese": "点茶的过程要求细心和耐心(點茶的過程要求細心和耐心)。",
+      "pinyin": "Diǎn chá de guòchéng yāoqiú xìxīn hé nàixīn.",
+      "english": "The process of tea whisking requires attentiveness and patience."
+    }
+  ]
 }

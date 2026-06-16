@@ -4,9 +4,9 @@
   "pinyin": "yīn",
   "english": "phonetic",
   "etymology": {
-    "type": "ancient form",
-    "description": "侌 (ancient form) -> 陰 (陰) (yīn, \"shade; hidden\")",
-    "interpretation": "侌 is an ancient form of the character 陰(陰) (yīn, \"shade; hidden\"), primarily serving as the phonetic component in the development of later forms.",
+    "type": "phono-semantic compound",
+    "description": "侌 (ancient form) used phonetically in 陰",
+    "interpretation": "The character 侌 (侌) (yīn, \"phonetic\") serves as a phonetic component in the compound 陰(陰) (yīn, \"shade; feminine principle\") when combined with the semantic 阜(阜) (fù, \"mound; hill\"). It's an ancient form primarily contributing to the phonetic aspect of 陰.",
     "simplification": ""
   },
   "parts": [],

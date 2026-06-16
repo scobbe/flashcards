@@ -5,18 +5,11 @@
   "english": "phonetic component",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 雨(雨) (yǔ, \"rain\") with both smaller drops and larger drops -> conceptualize rain with varied intensity",
-    "interpretation": "The character 霝(líng) visually represents rain, using combinations of different sized droplets to symbolize rain falling in various intensities. It emphasizes the visual aspect of rain's variability within a single character.",
+    "description": "Depicts rain with combination of big and small drops",
+    "interpretation": "The character 霝(líng) is a pictogram symbolizing the varied sizes of raindrops falling from the sky, capturing a natural scene of rainfall.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "雨",
-      "trad": "雨",
-      "pinyin": "yǔ",
-      "english": "rain"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

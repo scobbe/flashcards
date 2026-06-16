@@ -5,15 +5,15 @@
   "english": "to sell; trade",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𡍬 (phonetic) + 貝 (cowry) -> 𧸇 -> 士 and 四 replacing 𡍬 -> final form 𧶠",
-    "interpretation": "The character 𧶠 is a phono-semantic compound where 𡍬 provides the phonetic component while 貝(bèi, \"cowry\") signifies value or trade. Over time, 𡍬 was simplified through reduction into the components 士(shì, \"scholar\") and 四(sì, \"four\") to arrive at the modern form 𧶠, which still retains the semantic meaning of trade or selling.",
+    "description": "𡍬 (phonetic) + 貝 (semantic: cowry) -> original form 𧸇 evolved -> reduced 𡍬 to 士 and 四 -> final form 𧶠",
+    "interpretation": "The character 𧶠 is a phono-semantic compound where 𡍬 serves as the phonetic component while 貝(bèi, \"cowry\") signifies the semantic association with trade. Over time, the phonetic component 𡍬 evolved into 士(shì, \"scholar\") and 四(sì, \"four\"), leading to the current form 𧶠. Although graphically similar to 賣(mài, \"sell\"), they are etymologically distinct.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "𡍬",
       "trad": "𡍬",
-      "pinyin": "mlu",
+      "pinyin": "mluɡ",
       "english": "phonetic component"
     },
     {
@@ -21,18 +21,6 @@
       "trad": "貝",
       "pinyin": "bèi",
       "english": "cowry"
-    },
-    {
-      "char": "士",
-      "trad": "士",
-      "pinyin": "shì",
-      "english": "scholar"
-    },
-    {
-      "char": "四",
-      "trad": "四",
-      "pinyin": "sì",
-      "english": "four"
     }
   ],
   "in_contemporary_usage": false,

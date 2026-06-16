@@ -4,9 +4,9 @@
   "pinyin": "zào",
   "english": "acorn",
   "etymology": {
-    "type": "variant form",
-    "description": "皁 is a variant traditional form of 皂, which is a variant of 早 (zǎo, 'early') originally meaning 'acorn'.",
-    "interpretation": "皁 is an archaic form connected to 皂 (zào, 'acorn') and related to 早 (zǎo, 'early'). Historically, it reflects an early usage of the term for 'acorn,' showing how Chinese characters borrow forms for phonetic or semantic reasons.",
+    "type": "phono-semantic compound",
+    "description": "Original sense 'acorn' related to 早(早) (zǎo, 'early') with phonetic and semantic elements combining",
+    "interpretation": "The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早(早) (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.",
     "simplification": ""
   },
   "parts": [
@@ -17,6 +17,22 @@
       "english": "early"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "孩子们在林间寻找皁(皁)。",
+      "pinyin": "Háizimen zài línjiān xúnzhǎo zào.",
+      "english": "The children searched for acorns in the woods."
+    },
+    {
+      "chinese": "松鼠喜欢储存皁(皁)。",
+      "pinyin": "Sōngshǔ xǐhuān chǔcún zào.",
+      "english": "Squirrels like to store acorns."
+    },
+    {
+      "chinese": "秋天到了(秋天到了)，大树落下许多皁(大樹落下許多皁)。",
+      "pinyin": "Qiūtiān dào le, dà shù luòxià xǔduō zào.",
+      "english": "When autumn arrives, large trees drop many acorns."
+    }
+  ]
 }

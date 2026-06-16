@@ -4,23 +4,17 @@
   "pinyin": "xián",
   "english": "strong",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "臣(臣) (chén, \"subject; minister\") + 意(意) (yì, \"meaning\") = strong sense or principle -> 臤",
-    "interpretation": "The character 臤 (xián, \"strong\") combines elements related to being a subject or servant with meaning or intention, suggesting a sense of inner strength or principle.",
+    "type": "ancient character",
+    "description": "Ancient form of 賢(賢) (xián, \"virtuous\")",
+    "interpretation": "The character 臤 is an ancient form representing the concept of strength, related to 行(行) (xíng, \"to go\") and 賢(賢) (xián, \"virtuous\").",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "臣",
-      "trad": "臣",
-      "pinyin": "chén",
-      "english": "subject; minister"
-    },
-    {
-      "char": "意",
-      "trad": "意",
-      "pinyin": "yì",
-      "english": "meaning"
+      "char": "賢",
+      "trad": "賢",
+      "pinyin": "xián",
+      "english": "virtuous"
     }
   ],
   "in_contemporary_usage": false,

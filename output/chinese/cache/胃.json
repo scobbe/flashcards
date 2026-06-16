@@ -1,0 +1,44 @@
+{
+  "simplified": "胃",
+  "traditional": "胃",
+  "pinyin": "wèi",
+  "english": "stomach",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a stomach with food inside -> two concentric circles representing stomach -> 米(mǐ, \"rice\") added for grains -> small seal script form 𦞅 -> clerical script simplified to 田 for top component",
+    "interpretation": "The character 胃(wèi, \"stomach\") originally depicted a stomach containing food. Over time, a visual component representing grains (米(mǐ, \"rice\")) was added to emphasize content in the stomach. The evolution of character forms led to the simplification of this depiction into the current form, which includes 田(tián, \"field\") as the top component due to practical changes in writing styles.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
+    },
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我的胃很痛(我的胃很痛)。",
+      "pinyin": "Wǒ de wèi hěn tòng.",
+      "english": "My stomach hurts."
+    },
+    {
+      "chinese": "吃得太快会伤害胃(吃得太快會傷害胃)。",
+      "pinyin": "Chī de tài kuài huì shānghài wèi.",
+      "english": "Eating too quickly can harm the stomach."
+    },
+    {
+      "chinese": "妈妈为我煮了胃调好受的粥(媽媽為我煮了胃調好受的粥)。",
+      "pinyin": "Māma wèi wǒ zhǔle wèi tiáo hǎo shòu de zhōu.",
+      "english": "Mom cooked porridge that is easy on the stomach for me."
+    }
+  ]
+}

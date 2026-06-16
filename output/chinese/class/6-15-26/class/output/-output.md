@@ -68,8 +68,8 @@
   - **description:**
     - Depicts leaves growing from a tree ->
     - original form of 葉 (yè, "leaf") ->
-    - later borrowed for "flat"
-  - **interpretation:** 枼 originally depicted leaves on a tree, highlighting its organic association with foliage. It was later phonetically borrowed to represent a concept unrelated to leaves, illustrating the versatility of early Chinese characters in adapting to different meanings.
+    - phonetically borrowed to represent "flat"
+  - **interpretation:** The character originally depicted leaves sprouting from a tree, visually representing the concept of a leaf. It later became the original form of 葉 (yè, "leaf") and was also used to represent the word "flat" due to phonetic borrowing.
 ### 世界 → 世 → 枼 → 葉
 - **definition:** leaf
 - **pinyin:** yè
@@ -429,10 +429,9 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - phonetic: 此 (cǐ, 'this') + semantic: 角 (jiǎo, 'horn') =
-    - component representing a horn-like structure for sound + shape ->
+    - phonetic 此(cǐ, "this") + semantic 角(jiǎo, "horn") ->
     - beak
-  - **interpretation:** The character 觜 combines the sound element 此 (cǐ, 'this') with the semantic element 角 (jiǎo, 'horn'), indicating a structure that resembles a horn in shape and sound, like a beak.
+  - **interpretation:** The character 觜 (zuǐ, "beak") combines the phonetic component 此 (cǐ, "this") with the semantic component 角 (jiǎo, "horn") to convey the idea of a pointed projection, similar to a horn, representing a bird's beak.
 ### 闭(閉)嘴( ) → 嘴 → 觜 → 此
 - **definition:** this
 - **pinyin:** cǐ
@@ -516,12 +515,20 @@
 ### 闭(閉)嘴( ) → 嘴 → 觜 → 此 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
+- **components:**
+  - 止
+    - zhǐ
+    - stop
+  - 爪
+    - zhuǎ
+    - claw
+  - 又
+    - yòu
+    - hand
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a footprint pointing up with original meaning 'foot' ->
-    - stylized as 龰
-  - **interpretation:** 龰(yù, 'stylized feet') is a pictogram depicting a footprint with toes pointing up, distinguishing it from other similar characters where toes point in different directions. It highlights the resemblance between human feet and hands in ancient scripts, often represented with three toes.
+  - **description:** Depicts a stylized foot with three toes pointing up, originally sharing the meaning with 止 (zhǐ, "stop") as a footprint
+  - **interpretation:** 龰(yù, "stylized feet") visually represents a foot with toes, highlighting the original idea of a footprint pointing upwards. The arrangement of toes is akin to other characters that symbolize human limbs or extremities, such as 爪(zhuǎ, "claw") and 又(yòu, "hand").
 ### 闭(閉)嘴( ) → 嘴 → 觜 → 此 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -644,7 +651,7 @@
 - **components:**
   - 炎
     - yán
-    - flame
+    - fire
   - 舛
     - chuǎn
     - feet
@@ -654,11 +661,13 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 大(X, unknown) split into 炎 (yán, "flame") + 舛 (chuǎn, "feet") ->
-    - interpreted and graphically rearranged into unrelated 米 (mǐ, "rice")
-  - **interpretation:** Originally a misinterpreted detachment and rearrangement of symbols, 粦 (lín, "fire") reflects a complex character history where unrelated components from the original were later adapted into what appears in regular script.
+    - 炎 ('fire') + 舛 ('feet') ->
+    - 炎 viewed as unrelated combination in seal script ->
+    - 米 ('rice') and 舛 ->
+    - final form
+  - **interpretation:** Originally used for phonetic value in related characters, 粦 (lín, 'fire') illustration evolved into differing components through script transformation, indicating its complex historical progression into the regular script.
 ### 邻(鄰)居( ) → 邻(鄰) → 粦 → 炎
-- **definition:** flame
+- **definition:** fire
 - **pinyin:** yán
 - **components:**
   - 火
@@ -757,41 +766,19 @@
 - **definition:** foot; part of an ancient form
 - **pinyin:** wěi
 - **components:**
-  - 夸
-    - kuā
-    - boast
   - 足
     - zú
     - foot
+  - 夸
+    - kuā
+    - to brag
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 足 (zú, 'foot') + 夸 (kuā, 'boast') =
-    - depict movement associated with a foot ->
-    - variant of 跨 (kuà, 'stride')
-  - **interpretation:** The character 𡕒 is a variant form of 跨 (kuà, 'stride'), which combines 足 (zú, 'foot') as the semantic component indicating its association with feet, and 夸 (kuā, 'boast') as the phonetic component. This combination reflects the movement or action related to using one's feet.
-### 邻(鄰)居( ) → 邻(鄰) → 粦 → 舛 → 𡕒 → 夸(誇)
-- **traditional:** 誇
-- **definition:** boast
-- **pinyin:** kuā
-- **components:**
-  - 言
-    - yán
-    - words
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 誇: semantic 言 (yán, 'words, language') + phonetic 夸 (kuā, 'boast') ->
-    - 'boastful or exaggerated words'
-  - **interpretation:** In 誇, the element 言 relates to 'words' or 'speech', indicating the act of speaking in a boastful manner; 夸 provides the phonetic component, reinforcing the sound and meaning of boasting.
-  - **simplification:** 夸(誇): In simplified form, 言 ('words') is removed, leaving only 夸 to represent boasting, simplifying by removing the semantic component.
-- **examples:**
-  - 他( )总(總)爱(愛)夸( )自( )己( )会(會)说(說)多( )种(種)语(語)言( )。
-    - Tā zǒng ài kuā zìjǐ huì shuō duō zhǒng yǔyán.
-    - He always loves to boast about his ability to speak multiple languages.
-  - 他( )在( )聚( )会(會)中( )夸( )自( )己( )的( )财(財)富( )，引( )得( )旁( )人( )侧(側)目( )。
-    - Tā zài jùhuì zhōng kuā zìjǐ de cáifù, yǐn de pángrén cèmù.
-    - He boasts about his wealth at the party, drawing sideways glances from others.
+    - 足 (zú, 'foot') + 夸 (kuā, 'to brag') =
+    - foot + phonetic component ->
+    - final meaning related to foot part
+  - **interpretation:** The character 𡕒 is a variant form of 跨, which uses 足 to denote the semantic field of 'foot' and the phonetic 夸 to suggest pronunciation. This combination indicates actions or positions related to the feet.
 ### 邻(鄰)居( ) → 邻(鄰) → 粦 → 舛 → 𡕒 → 足
 - **definition:** foot
 - **pinyin:** zú
@@ -812,6 +799,28 @@
   - 我( )每( )天( )锻(鍛)炼(鍊)足( )部( )。
     - wǒ měitiān duànliàn zúbù。
     - I exercise my foot muscles every day.
+### 邻(鄰)居( ) → 邻(鄰) → 粦 → 舛 → 𡕒 → 夸(誇)
+- **traditional:** 誇
+- **definition:** to brag
+- **pinyin:** kuā
+- **components:**
+  - 言
+    - yán
+    - words
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 誇: semantic 言 (yán, 'words, language') + phonetic 夸 (kuā, 'boast') ->
+    - 'boastful or exaggerated words'
+  - **interpretation:** In 誇, the element 言 relates to 'words' or 'speech', indicating the act of speaking in a boastful manner; 夸 provides the phonetic component, reinforcing the sound and meaning of boasting.
+  - **simplification:** 夸(誇): In simplified form, 言 ('words') is removed, leaving only 夸 to represent boasting, simplifying by removing the semantic component.
+- **examples:**
+  - 他( )总(總)爱(愛)夸( )自( )己( )会(會)说(說)多( )种(種)语(語)言( )。
+    - Tā zǒng ài kuā zìjǐ huì shuō duō zhǒng yǔyán.
+    - He always loves to boast about his ability to speak multiple languages.
+  - 他( )在( )聚( )会(會)中( )夸( )自( )己( )的( )财(財)富( )，引( )得( )旁( )人( )侧(側)目( )。
+    - Tā zài jùhuì zhōng kuā zìjǐ de cáifù, yǐn de pángrén cèmù.
+    - He boasts about his wealth at the party, drawing sideways glances from others.
 ### 邻(鄰)居( ) → 邻(鄰) → 粦 → 米
 - **definition:** rice
 - **pinyin:** mǐ
@@ -1309,11 +1318,8 @@
 - **pinyin:** luó
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a kind of dragon ->
-    - associated with aquatic or hornless dragons in ancient Chinese art ->
-    - final form 𦝠
-  - **interpretation:** The character 𦝠 is a pictogram that represents a specific type of dragon, either an aquatic dragon or a hornless dragon, both of which were commonly used as decorative motifs in ancient Chinese art. It highlights the cultural significance of dragons in traditional Chinese symbolism.
+  - **description:** Depicts a stylized form of dragon, inspired by ancient motifs of Panlong (蟠龍) or Chi (螭) dragons
+  - **interpretation:** The character 𦝠 represents a type of mythical dragon and is used in ancient Chinese art motifs, embodying the distinctive features of these dragons through its pictorial representation.
 ### 赢(贏) → 貝
 - **definition:** cowry; money
 - **pinyin:** bèi
@@ -1534,10 +1540,17 @@
 ### 支持 → 持 → 寺 → 之 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
+- **components:**
+  - 止
+    - zhǐ
+    - foot; stop
 - **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a footprint pointing upwards as stylized form of 足 (zú, "foot")
-  - **interpretation:** 龰 (yù, "stylized feet") originates from a stylized representation of a footprint pointing upwards, highlighting the conceptual link to feet and footprints. The design with the upward orientation distinguishes it from other similar pictograms that depict objects like hands or claws.
+  - **type:** ideogrammic compound
+  - **description:**
+    - 止 (zhǐ, "foot; stop") stylized as 龰 in oracle script ->
+    - depicted with three toes and a sole ->
+    - became stylized as 'stylized feet'
+  - **interpretation:** The character 龰 represents a stylized foot, originating from the pictogram of a footprint depicted as 止 (zhǐ, "foot; stop"). In the oracle script, it was composed of a sole and three toes. Over time, it became more abstract, leading to its use as a component in various characters related to feet and movement.
 ### 支持 → 持 → 寺 → 之 → 一
 - **definition:** the beginning place
 - **pinyin:** yī
@@ -1596,30 +1609,44 @@
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - semantic: 雈 ("owl") + phonetic: 臼 (jiù, "mortar") ->
-    - originally owl ->
-    - borrowed for "old"
-  - **interpretation:** 舊 originally depicted an owl using 雈, with 臼 providing the phonetic element. It was later borrowed for its phonetic sound to represent the meaning 'old' instead. The owl meaning became obsolete as the character evolved.
-  - **simplification:** 舊 was simplified to 旧(舊) by removing the 雈 element and altering 臼 to 旧. This simplification used a homophonic character to maintain the pronunciation while reducing complexity.
+    - 雈 (huán, 'owl') + 臼 (jiù, 'mortar') =
+    - originally an owl ->
+    - phonetically borrowed for 'old'
+  - **interpretation:** 舊 combines the semantic component 雈 representing an owl, and the phonetic component 臼. It was later used for its phonetic value to represent the concept of 'old’ as this word sounded the same as a word meaning 'old'.
+  - **simplification:** 舊 was simplified to 旧(舊) by replacing 雈 (huán, 'owl') with 日 (rì, 'sun'), which is visually simpler and retains some phonetic similarity.
 - **examples:**
-  - 我( )有( )一( )辆(輛)旧(舊)自( )行( )车(車)。
-    - Wǒ yǒu yī liàng jiù zìxíngchē.
-    - I have an old bicycle.
-  - 这(這)个(個)旧(舊)房( )子( )非( )常( )有( )历(歷)史( )。
-    - Zhège jiù fángzi fēicháng yǒu lìshǐ.
-    - This old house is very historical.
-  - 他( )常( )常( )怀(懷)念( )旧(舊)时(時)光( )。
-    - Tā chángcháng huáiniàn jiù shíguāng.
-    - He often reminisces about the old days.
+  - 这(這)个(個)旧(舊)房( )子( )很( )有( )历(歷)史( )。
+    - Zhège jiù fángzi hěn yǒu lìshǐ.
+    - This old house has a lot of history.
+  - 他( )穿( )着(著)旧(舊)鞋( )子( )，走( )了( )很( )长(長)的( )路( )。
+    - Tā chuānzhe jiù xiézi, zǒu le hěn cháng de lù.
+    - He wore old shoes and walked a long way.
+  - 旧(舊)时(時)光( )总(總)是( )让(讓)人( )怀(懷)念( )。
+    - Jiù shíguāng zǒng shì ràng rén huáiniàn.
+    - Old times always bring nostalgia.
 ### 旧(舊) → 雈
 - **definition:** owl
 - **pinyin:** huán
+- **components:**
+  - 雚
+    - guàn
+    - reed
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an owl sitting on a tree
+  - **interpretation:** The character 雈 (huán, "owl") is a pictogram illustrating an owl perched in a tree, conveying the idea visually through its form. The resemblance of 雈 to the related character 雚 (guàn, "reed") illustrates how similar graphical elements can lead to different meanings.
+### 旧(舊) → 雈 → 雚
+- **definition:** reed
+- **pinyin:** guàn
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts an owl ->
-    - simplified to 雚 (guàn, 'bird')
-  - **interpretation:** The character 雈 (huán, 'owl') is a pictogram that originally depicted an owl. Over time, the depiction simplified and resulted in the character 雚 (guàn, 'bird'), which is a more abstract representation. This suggests that 雈 is one of the earlier forms, visually representing the bird.
+    - Originally a pictogram of a stork ->
+    - same character with 雈 (reed) ->
+    - 吅 added for phonetic reasons ->
+    - now resembles 鳥 (bird)
+  - **interpretation:** The character 雚 (guàn, "reed") was originally a pictogram representing a stork, denoting its similarity to another character 雈, symbolizing its original meaning. It evolved by adding 吅 to clarify the phonetic aspect, linking it to the pronunciation while retaining its pictorial essence.
+  - **simplification:** The character is complexified now as 鸛 (guàn, "stork") to differentiate the meanings and to capture the modern representation of the stork.
 ### 旧(舊) → 臼
 - **definition:** mortar
 - **pinyin:** jiù
@@ -1654,9 +1681,9 @@
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 廾 (both hands) + 午 (pestle) + 臼 (mortar) ->
+    - 廾 ("both hands") + 午 ("pestle") + 臼 ("mortar") =
     - using both hands to pound with a mortar and pestle
-  - **interpretation:** The character 舂(chōng, "pound grain") visually combines components representing hands, a pestle, and a mortar to depict the action of pounding grain, emphasizing the traditional method of using both hands.
+  - **interpretation:** The character 舂(chōng, "pound grain") represents the action of pounding grain using both hands with a pestle and mortar, combining elements that depict this specific manual process logically.
 ### 旧(舊) → 臼 → 舂 → 廾
 - **definition:** both hands
 - **pinyin:** gǒng
@@ -2018,27 +2045,29 @@
 - **components:**
   - 門
     - mén
-    - gate
+    - door
+  - 卝
+    - guàn
+    - locked door; two wooden sticks to lock a door
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 门(門) (mén, "gate") around 关 (guān, "to close") =
-    - gate closure mechanism ->
-    - passage control
-  - **interpretation:** The traditional character 關 (guān, "to close") originally incorporates the component 门(門) (mén, "gate") to indicate its relation to controlling a gate or passage, signifying a mechanism through which something is opened or closed. This connection to gates is consistent with the meaning of regulating or securing an area.
-  - **simplification:** To create the simplified form 关, the component 门(門) (mén, "gate") was entirely removed, focusing on the essential closing function represented by 关.
+    - 門 (mén, "door") + 卝 (guàn, "locked door; two wooden sticks to lock a door") ->
+    - Phono-semantic: semantic 門 (mén, "door") + phonetic 𢇅
+  - **interpretation:** The character represents a door locked with two wooden sticks, reflecting the concept of being closed or secured. The phonetic component, originally depicted with rings resembling 幺 (yāo), contributes to the pronunciation.
+  - **simplification:** 关(關): The character was simplified by removing the more complex 卝 component, leaving only the 门(門) (mén, "door") radical.
 - **examples:**
-  - 请(請)关(關)门(門)。
-    - Qǐng guān mén.
+  - 请(請)把( )门(門)关(關)上( )。
+    - Qǐng bǎ mén guān shàng.
     - Please close the door.
-  - 他( )关(關)掉( )手( )机(機)，开(開)始( )专(專)心( )工( )作( )。
-    - Tā guān diào shǒujī, kāishǐ zhuānxīn gōngzuò.
-    - He turns off his phone and begins to focus on his work.
-  - 他( )把( )心( )门(門)关(關)得( )很( )紧(緊)。
-    - Tā bǎ xīn mén guān de hěn jǐn.
-    - He keeps his heart closed tightly.
+  - 我( )关(關)心( )你( )的( )健( )康( )。
+    - Wǒ guānxīn nǐ de jiànkāng.
+    - I care about your health.
+  - 这(這)件( )事( )情( )与(與)你( )无(無)关(關)。
+    - Zhè jiàn shìqíng yǔ nǐ wúguān.
+    - This matter has nothing to do with you.
 ### 关(關) → 門
-- **definition:** gate
+- **definition:** door
 - **pinyin:** mén
 - **etymology:**
   - **type:** pictogram
@@ -2051,6 +2080,13 @@
   - 门(門)轻(輕)轻(輕)打( )开(開)，房( )客( )进(進)来(來)了( )。
     - Mén qīngqīng dǎkāi, fángkè jìn láile.
     - The door opened gently, and the tenant came in.
+### 关(關) → 卝
+- **definition:** locked door; two wooden sticks to lock a door
+- **pinyin:** guàn
+- **etymology:**
+  - **type:** simplified character of 丱
+  - **description:** simplified/variant of 丱
+  - **interpretation:** 卝 is a simplified or variant form and is not commonly used with its own distinct structure. It's generally associated with other forms, primarily 丱, which does not provide a clear etymological insight itself but is also linked to other characters like 礦.
 ---
 ## 关(關)
 ### guān

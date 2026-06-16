@@ -5,8 +5,8 @@
   "english": "virtue",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "直(直) (zhí, \"looking forward\") + 心(心) (xīn, \"heart, mind\") -> represents virtue as a focus of the heart and mind",
-    "interpretation": "The character 惪 combines the sense of forward-looking guidance (直) with the emotional and cognitive engagement (心) to convey the concept of virtue, representing a characteristic that guides one's thoughts and actions efficiently.",
+    "description": "直(直) (zhí, 'looking forward') + 心(心) (xīn, 'heart, mind') = virtue",
+    "interpretation": "The character 惪 combines 直(直) (zhí, 'looking forward') with 心(心) (xīn, 'heart, mind') to represent virtue through a forward-looking heart or mind. This reflects an ideal of internal moral integrity and direction.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "心",
       "trad": "心",
       "pinyin": "xīn",
-      "english": "heart; mind"
+      "english": "heart, mind"
     }
   ],
   "in_contemporary_usage": false,

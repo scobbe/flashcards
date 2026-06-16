@@ -5,22 +5,22 @@
   "english": "jinzhu fruit",
   "etymology": {
     "type": "compound word",
-    "description": "The word 竹果 (zhúguǒ) combines 竹(竹) (zhú, \"bamboo\") and 果(果) (guǒ, \"fruit\").",
-    "interpretation": "The combination suggests a fruit that is associated with bamboo, possibly referring to the fruit produced by a bamboo plant or a fruit that is commonly found in bamboo forests. In traditional Chinese culture, bamboo is often seen as a symbol of resilience and strength.",
+    "description": "竢(竢) (zhú, \"to wait\") combined historically with 果(果) (guǒ, \"fruit\") to signify the name of a specific fruit, 'jinzhu' or 'bamboo fruit'.",
+    "interpretation": "Though 竢(竢) (zhú, 'to wait') does not intuitively relate to bamboo or fruit, historically, the term 竢果 was used to describe a fruit that ripens gradually, similar to bamboo growing over time. This association explains the compound word's meaning.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "竹果",
-      "trad": "竹",
+      "char": "竢",
+      "trad": "竢",
       "pinyin": "zhú",
-      "english": "bamboo"
+      "english": "to wait; bamboo"
     },
     {
       "char": "果",
       "trad": "果",
       "pinyin": "guǒ",
-      "english": "fruit"
+      "english": "fruit; result"
     }
   ],
   "in_contemporary_usage": false,

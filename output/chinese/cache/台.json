@@ -5,35 +5,40 @@
   "english": "platform",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 厶(厶) (sī, \"private\") + phonetic: 旦(旦) (dàn, \"dawn\") = originally platform or raised structure for viewing -> platform",
-    "interpretation": "The character 台(臺) (tái, \"platform\") combines 厶(厶) (sī, \"private\") as a semantic indicator that suggests an enclosed or elevated space, with 旦(旦) (dàn, \"dawn\") serving as the phonetic element. This reflects its original meaning of a raised structure or stage, which is conceptually linked to a centralized or focal point that commands attention, much like a platform does.",
-    "simplification": "台(臺): Simplified by omitting the top element in 臺 and standardizing the form as it sounds and functions similarly to its traditional counterpart."
+    "description": "之(之) (zhī, 'foot') as phonetic + 室(室) (shì, 'building') as semantic -> watch tower -> simplified from 臺",
+    "interpretation": "The character 臺 initially depicted a raised platform or watchtower, combining a phonetic component representing a base ('foot') with a semantic component indicating a structure. Over time, it semantically evolved to represent platforms in general.",
+    "simplification": "台 is a simplification where parts of the character 臺 were reduced and standardized."
   },
   "parts": [
     {
-      "char": "厶",
-      "trad": "厶",
-      "pinyin": "sī",
-      "english": "private"
+      "char": "之",
+      "trad": "之",
+      "pinyin": "zhī",
+      "english": "foot"
     },
     {
-      "char": "旦",
-      "trad": "旦",
-      "pinyin": "dàn",
-      "english": "dawn"
+      "char": "室",
+      "trad": "室",
+      "pinyin": "shì",
+      "english": "building"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他站在讲台上(他站在講台上)，自信地讲话(自信地講話)。",
-      "pinyin": "Tā zhàn zài jiǎngtái shàng, zìxìn de jiǎnghuà.",
-      "english": "He stands on the platform, speaking confidently."
+      "chinese": "舞台上(舞台上)，演员表演得非常精彩(演員表演得非常精彩)。",
+      "pinyin": "Wǔtái shàng, yǎnyuán biǎoyǎn dé fēicháng jīngcǎi.",
+      "english": "On the stage, the actors performed exceptionally well."
     },
     {
-      "chinese": "博物馆的展示台上(博物館的展示台上)，珍贵的文物熠熠生辉(珍貴的文物熠熠生輝)。",
-      "pinyin": "Bówùguǎn de zhǎnshì tái shàng, zhēnguì de wénwù yì yì shēnghuī.",
-      "english": "On the museum's display platform, precious artifacts shine brilliantly."
+      "chinese": "电视台正在播新闻(電視台正在播新聞)。",
+      "pinyin": "Diànshìtái zhèngzài bō xīnwén.",
+      "english": "The TV station is broadcasting the news."
+    },
+    {
+      "chinese": "我们登上观景台(我們登上觀景台)，欣赏城市的全景(欣賞城市的全景)。",
+      "pinyin": "Wǒmen dēng shàng guānjǐngtái, xīnshǎng chéngshì de quánjǐng.",
+      "english": "We went up the observation deck to enjoy the panoramic view of the city."
     }
   ]
 }

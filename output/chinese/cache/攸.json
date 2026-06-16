@@ -5,8 +5,8 @@
   "english": "distant",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"to tap\") = symbolic act of signaling or authority -> original concept related to 修(修) (xiū, \"to repair\") -> later interpreted as ceremonial act involving water on bronzes indicating purification -> related to 滌(滌) (dí, \"to wash\")",
-    "interpretation": "攸 combines the elements of a person and a hand holding a stick, symbolizing authority or an action like a warning or purification. Originally associated with warning and repair, later interpretations on bronzes suggest a connection to ritualistic purification.",
+    "description": "人(人) (rén, \"person\") + 攴(攴) (pū, \"tap; strike\") -> warning or purification action -> evolved to include drops suggesting water for purification -> final form",
+    "interpretation": "攸(攸) (yōu, \"distant\") originally represented either a warning action with authority or a purification involving water, evolving over time from practical gestures to more abstract meanings.",
     "simplification": ""
   },
   "parts": [
@@ -20,19 +20,7 @@
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "to tap"
-    },
-    {
-      "char": "修",
-      "trad": "修",
-      "pinyin": "xiū",
-      "english": "to repair"
-    },
-    {
-      "char": "滌",
-      "trad": "滌",
-      "pinyin": "dí",
-      "english": "to wash"
+      "english": "tap; strike"
     }
   ],
   "in_contemporary_usage": false,

@@ -2,38 +2,37 @@
   "simplified": "从",
   "traditional": "從",
   "pinyin": "cóng",
-  "english": "from",
+  "english": "to follow",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "人(人) (rén, \"person\") duplicated + 辵(辵) (chuò, \"walk\") as semantic = following people walking together -> \"follow\"; phonetic: 从(cong, \"follow\")",
-    "interpretation": "The character 从(cóng, \"from\") visually depicts two people walking in the same direction, symbolizing following someone. In its traditional form, 從(cong, \"follow\") added the \"walk\" radical to reinforce the idea of movement and accompaniment.",
-    "simplification": "从 was retained as a shorthand for 從 by omitting the 辵(辵) (chuò, \"walk\") radical, preserving its original depiction of two people walking."
+    "description": "Original simplified form 从 -> semantic 辵(辵) (chuò, \"walk; movement\") + phonetic 从 (cóng, \"follow\") -> final form 從",
+    "interpretation": "The character 從 is a phono-semantic compound, where the semantic element 辵(辵) (chuò, \"walk; movement\") indicates the action of moving or following, while the phonetic element 从 (cóng, \"follow\") suggests the pronunciation \"cóng.\" The evolution from the simplified form to the traditional involved incorporating the semantic component to emphasize its meaning.",
+    "simplification": "從(從) was simplified to 从 by removing the 辵(辵) (chuò, \"walk; movement\") component, leaving the phonetic 从 (cóng, \"follow\") form."
   },
   "parts": [
-    {
-      "char": "人",
-      "trad": "人",
-      "pinyin": "rén",
-      "english": "person"
-    },
     {
       "char": "辵",
       "trad": "辵",
       "pinyin": "chuò",
-      "english": "walk"
+      "english": "walk; movement"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我从学校回来(我從學校回來)。",
-      "pinyin": "Wǒ cóng xuéxiào huílái.",
-      "english": "I returned from school."
+      "chinese": "我们从小就是好朋友(我們從小就是好朋友)。",
+      "pinyin": "Wǒmen cóng xiǎo jiù shì hǎo péngyǒu.",
+      "english": "We have been good friends since childhood."
     },
     {
-      "chinese": "他从乡村出发(他從鄉村出發)，前往都市(前往都市)。",
-      "pinyin": "Tā cóng xiāngcūn chūfā, qiánwǎng dūshì.",
-      "english": "He set off from the countryside, heading to the city."
+      "chinese": "小猫跟着母亲从灌木丛中走出来(小貓跟著母親從灌木叢中走出來)。",
+      "pinyin": "Xiǎo māo gēnzhe mǔqīn cóng guànmùcóng zhōng zǒuchūlái.",
+      "english": "The kitten followed its mother out of the shrubbery."
+    },
+    {
+      "chinese": "从南方看，风景十分壮丽(從南方看，風景十分壯麗)。",
+      "pinyin": "Cóng nánfāng kàn, fēngjǐng shífēn zhuànglì.",
+      "english": "The scenery is magnificent when viewed from the south."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "broom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 生(生) (shēng, \"life\") + Phonetic: 生(生) (shēng) duplicated for sound",
-    "interpretation": "The character 甡(shēn) uses the duplication of 生(生) (shēng, \"life\") to emphasize or replicate the phonetic sound. This structure is designed to convey the specific pronunciation rather than a literal meaning from the characters, as such configurations often do when components are repeated.",
+    "description": "生(生) (shēng, \"life\") + 辶(辶) (chuò, \"walk; movement\") = phonetic component with a semantic influence suggesting multiplicity -> final form representing the concept of a broom-like tool made from multiple branches or straws",
+    "interpretation": "The character 甡 (shēn) uses the phonetic 生(生) and the semantic 辶(辶) to convey the idea of a broom made from multiple parts, possibly alluding to the branching aspect as shown by 生(生), and movement related to use, indicated by 辶(辶). It suggests an old broom-like object.",
     "simplification": ""
   },
   "parts": [
@@ -15,6 +15,12 @@
       "trad": "生",
       "pinyin": "shēng",
       "english": "life"
+    },
+    {
+      "char": "辶",
+      "trad": "辶",
+      "pinyin": "chuò",
+      "english": "walk; movement"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,16 +5,16 @@
   "english": "kiss",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 辛 (siŋ, \"spicy/chisel\") + semantic 見 (jiàn, \"see\")",
-    "interpretation": "The character 親, in its traditional form, is a phono-semantic compound where 辛 (siŋ, \"spicy/chisel\") provides the phonetic value while 見 (jiàn, \"see\") represents the semantic component. This combination relates to concepts of close observation or personal relation, eventually evolving to mean 'parent' or 'intimate' in a familial or emotional context.",
-    "simplification": "親 was simplified to 亲 by replacing 見 (jiàn, \"see\") with 见 (the simplified form of 見), reducing strokes while retaining the phonetic component 辛 (siŋ, \"spicy/chisel\")."
+    "description": "𣓀 (hazelnut branch) + 見 (see) = use of a hazelnut branch for discipline, phonetic 辛 stylized as 亲 -> 親",
+    "interpretation": "The character 親 (qīn, 'kiss') combines visual elements with phonetic sound to depict a concept related to both vision and sound. The original form used a hazelnut branch, symbolizing a tool for discipline or guidance, phonetic 辛. 親 represents being closely connected, originally stylized with 辛 as 亲 for phonetic use.",
+    "simplification": "The traditional form 親 was simplified to 亲 by reducing the compound elements to streamline its representation, merging 辛 with 见 for phonetic similarity and visual simplicity."
   },
   "parts": [
     {
       "char": "辛",
       "trad": "辛",
       "pinyin": "xīn",
-      "english": "spicy/chisel"
+      "english": "chisel"
     },
     {
       "char": "見",
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "小女孩亲了小猫一下(小女孩親了小貓一下)。",
-      "pinyin": "Xiǎo nǚhái qīn le xiǎo māo yīxià.",
-      "english": "The little girl kissed the kitten."
+      "chinese": "她轻轻亲我一下(她輕輕親我一下)。",
+      "pinyin": "Tā qīngqīng qīn wǒ yíxià.",
+      "english": "She gently gave me a kiss."
     },
     {
-      "chinese": "他亲了她的额头(他親了她的額頭)，表示关心(表示關心)。",
-      "pinyin": "Tā qīn le tā de étóu, biǎoshì guānxīn.",
-      "english": "He kissed her forehead to show he cares."
+      "chinese": "我们在分别时亲了彼此(我們在分別時親了彼此)。",
+      "pinyin": "Wǒmen zài fēnbié shí qīnle bǐcǐ.",
+      "english": "We kissed each other goodbye."
     },
     {
-      "chinese": "分别时(分別時)，他们给了对方一个温柔的亲吻(他們給了對方一個溫柔的親吻)。",
-      "pinyin": "Fēnbié shí, tāmen gěi le duìfāng yī gè wēnróu de qīnwěn.",
-      "english": "At parting, they gave each other a gentle kiss."
+      "chinese": "父母总是亲吻他们的孩子(父母總是親吻他們的孩子)。",
+      "pinyin": "Fùmǔ zǒng shì qīnwěn tāmen de háizi.",
+      "english": "Parents always kiss their children."
     }
   ]
 }

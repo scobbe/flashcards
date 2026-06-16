@@ -4,42 +4,47 @@
   "pinyin": "bié",
   "english": "leave; part; farewell; separate",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "semantic: 刂 (dāo, \"knife\") + phonetic: another part representing 刀 (dāo, \"knife\") -> initial separation meaning; changed to add 彐 (jì, \"snout\") later -> become separate -> final form to express concepts related to separation or differentiation",
-    "interpretation": "The character 别(別) (bié, \"separate\") incorporates 刂(dāo, \"knife\"), symbolizing cutting or dividing, with a phonetic component that originally represented another knife, indicating parting or separating. The addition of 彐(jì, \"snout\") might have been a later addition to clarify pronunciation or sand for the semantic distinction in usage.",
-    "simplification": "别(別): 刂(卩) dropped top to combine two components into a simpler character."
+    "type": "ideogrammic compound",
+    "description": "冎 (bone) + 刂 (knife) = to cut up bone and flesh -> stylized as 別",
+    "interpretation": "The character 別 (bié, \"separate\") originally depicted the action of cutting apart bones, highlighting the idea of separation. It combines the components 冎 (guǎ, \"bone\") and 刂 (dāo, \"knife\") to convey this meaning.",
+    "simplification": "The simplified form 别 is a variation of 別 where the component 冎 (guǎ, \"bone\") is replaced by the simpler 另 (lìng, \"other\"), maintaining the concept of separation."
   },
   "parts": [
     {
+      "char": "冎",
+      "trad": "冎",
+      "pinyin": "guǎ",
+      "english": "bone"
+    },
+    {
       "char": "刂",
-      "trad": "刀",
+      "trad": "刂",
       "pinyin": "dāo",
       "english": "knife"
     },
     {
-      "char": "彐",
-      "trad": "彐",
-      "pinyin": "jì",
-      "english": "snout"
-    },
-    {
-      "char": "卩",
-      "trad": "卩",
-      "pinyin": "jié",
-      "english": "seal"
+      "char": "另",
+      "trad": "另",
+      "pinyin": "lìng",
+      "english": "other"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "别走(別走)，我们以后再见(我們以後再見)。",
-      "pinyin": "Bié zǒu, wǒmen yǐhòu zài jiàn.",
-      "english": "Don't leave, we'll meet again."
+      "chinese": "我们在车站告别(我們在車站告別)。",
+      "pinyin": "Wǒmen zài chēzhàn gàobié.",
+      "english": "We said farewell at the station."
     },
     {
-      "chinese": "在分别时(在別離時)，保持冷静(保持冷靜)。",
-      "pinyin": "Zài fēnbié shí, bǎochí lěngjìng.",
-      "english": "At the time of parting, keep calm."
+      "chinese": "她别着一朵花在头上(她別著一朵花在頭上)。",
+      "pinyin": "Tā bié zhe yī duǒ huā zài tóushàng.",
+      "english": "She pinned a flower on her head."
+    },
+    {
+      "chinese": "请别打扰我(請別打擾我)。",
+      "pinyin": "Qǐng bié dǎrǎo wǒ.",
+      "english": "Please don't disturb me."
     }
   ]
 }

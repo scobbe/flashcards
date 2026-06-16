@@ -5,8 +5,8 @@
   "english": "roots",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"wood\") + 氐(氐) (dǐ, used phonetically) = refers to the roots of a tree -> meaning 'roots'",
-    "interpretation": "The character 柢 intrinsically connects the idea of wood with the phonetic component 氐, signifying something foundational and related to trees, hence 'roots'.",
+    "description": "木(木) (mù, \"tree\") + 氐(氐) (dǐ, \"base\") = tree base -> roots",
+    "interpretation": "The character 柢(dǐ, \"roots\") combines 木(木) (mù, \"tree\"), indicating something related to trees, with 氐(氐) (dǐ, \"base\"), which provides the phonetic component. Together, they form the idea of the base or foundation of a tree, which are its roots.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "木",
       "trad": "木",
       "pinyin": "mù",
-      "english": "wood"
+      "english": "tree"
     },
     {
       "char": "氐",
       "trad": "氐",
       "pinyin": "dǐ",
-      "english": "used phonetically"
+      "english": "base"
     }
   ],
   "in_contemporary_usage": false,

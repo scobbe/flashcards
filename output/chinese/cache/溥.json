@@ -5,8 +5,8 @@
   "english": "widespread",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 氵(水) (shuǐ, \"water\") + phonetic 尃(尃) (fū)",
-    "interpretation": "The character 溥 combines the semantic element 氵(水) (shuǐ, \"water\") indicating a connection to liquid or fluidity, with the phonetic 尃(尃) (fū), suggesting the sound and possibly denoting something widely spread, like water covering a vast area.",
+    "description": "氵(水, 'water') + 尃(尃, 'elaborate') = widespread distribution of water -> widespread",
+    "interpretation": "The character 溥(pǔ, 'widespread') combines the semantic element 氵(水, 'water') with the phonetic element 尃(尃, 'elaborate'). This reflects the idea of something spreading or being distributed extensively, much like water can flow and cover a large area, indicating a broad or widespread scope.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "尃",
       "trad": "尃",
       "pinyin": "fū",
-      "english": "to spread"
+      "english": "elaborate"
     }
   ],
   "in_contemporary_usage": false,

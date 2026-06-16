@@ -1,0 +1,44 @@
+{
+  "simplified": "戍",
+  "traditional": "戍",
+  "pinyin": "shù",
+  "english": "to guard against",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"man\") + 戈(戈) (gē, \"spear\") = a man with a spear -> to guard against",
+    "interpretation": "The character 戍(shù, \"to guard against\") represents the idea of a person carrying a weapon, symbolizing the act of guarding or defending. The combination of 人(人) (rén, \"man\") and 戈(戈) (gē, \"spear\") evokes the image of a soldier or guard standing ready.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "man"
+    },
+    {
+      "char": "戈",
+      "trad": "戈",
+      "pinyin": "gē",
+      "english": "spear"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "为了保护家园(為了保護家園)，他在边境戍守(他在邊境戍守)。",
+      "pinyin": "Wèile bǎohù jiāyuán, tā zài biānjìng shùshǒu.",
+      "english": "To protect the homeland, he guards at the border."
+    },
+    {
+      "chinese": "将士们在长城上戍守(將士們在長城上戍守)，以防敌人入侵(以防敵人入侵)。",
+      "pinyin": "Jiàngshìmen zài Chángchéng shàng shùshǒu, yǐ fáng dírén rùqīn.",
+      "english": "The soldiers guard on the Great Wall to prevent enemy invasions."
+    },
+    {
+      "chinese": "日日夜夜地戍守(日日夜夜地戍守)，卫兵从不松懈(衛兵從不鬆懈)。",
+      "pinyin": "Rìrìyèyè de shùshǒu, wèibīng cóng bù sōngxiè.",
+      "english": "Guarding day and night, the guards never relent."
+    }
+  ]
+}

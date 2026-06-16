@@ -2,12 +2,12 @@
   "simplified": "电",
   "traditional": "電",
   "pinyin": "diàn",
-  "english": "electricity; electric; electrical",
+  "english": "electric",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "雨(雨) (yǔ, \"rain\") + phonetic: 申(申) (shēn) = electrical phenomena during a storm -> electricity",
-    "interpretation": "The character 电(電) (diàn, \"electricity\") combines semantic and phonetic elements to represent natural electric phenomena, like lightning, associated with rainstorms. This reflects how electricity is tied to natural forces.",
-    "simplification": "电(電) was simplified by removing the rain radical 雨(雨) (yǔ, \"rain\") while maintaining the central component 申(申) (shēn) for phonetic representation."
+    "description": "雨(雨) ('rain') + 申(申) ('lightning') = depiction of a thunderstorm -> electric",
+    "interpretation": "The character 電(電) combines 雨(雨) (yǔ, 'rain') as the semantic element suggesting a natural event involving water, with 申(申) (shēn, 'lightning') indicating the associated sound and visual phenomenon of a thunderstorm, representing electric energy.",
+    "simplification": "电(電): The rain radical 雨(雨) (yǔ, 'rain') was simplified to a single horizontal line and reduced with fewer strokes."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "申",
       "trad": "申",
       "pinyin": "shēn",
-      "english": "to extend"
+      "english": "lightning"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "现代科技依赖电(電)。",
-      "pinyin": "Xiàn dài kē jì yī lài diàn(電)。",
-      "english": "Modern technology relies on electricity."
+      "chinese": "商店已经没有电(商店已經沒有電)。",
+      "pinyin": "Shāngdiàn yǐjīng méiyǒu diàn.",
+      "english": "The store is already out of electricity."
     },
     {
-      "chinese": "办公室里的电器都已更新(辦公室裡的電器都已更新)，节约能源效果显著(節約能源效果顯著)。",
-      "pinyin": "Bàn gōng shì lǐ de diàn qì dōu yǐ gēng xīn(辦公室裡的電器都已更新)，jié yuē néng yuán xiào guǒ xiǎn zhù(節約能源效果顯著)。",
-      "english": "The office appliances have all been updated, and the energy-saving results are remarkable."
+      "chinese": "她打开电灯(她打開電燈)，房间瞬间明亮起来(房間瞬間明亮起來)。",
+      "pinyin": "Tā dǎkāi diàndēng, fángjiān shùnjiān míngliàng qǐlái.",
+      "english": "She turned on the light, and the room instantly brightened up."
     },
     {
-      "chinese": "夜晚的城市因电光闪烁(夜晚的城市因電光閃爍)，显得异常璀璨(顯得異常璀璨)。",
-      "pinyin": "Yè wǎn de chéng shì yīn diàn guāng shǎn shuò(夜晚的城市因電光閃爍)，xiǎn de yì cháng cuǐ càn(顯得異常璀璨)。",
-      "english": "The city at night shines with the gleam of electricity, appearing exceptionally dazzling."
+      "chinese": "这些电器都是最新型号(這些電器都是最新型號)。",
+      "pinyin": "Zhèxiē diànqì dōu shì zuìxīn xínghào.",
+      "english": "These electrical appliances are all the latest models."
     }
   ]
 }

@@ -1,2 +1,4 @@
-[币]
-Simplified from 幣 ( 敝 → 丿 )
+[币] simplified/variant form of 幣.
+
+[幣]
+Phono-semantic compound ( 形聲 / 形声 , OC *beds ): phonetic 敝 ( OC *beds, *bed ) + semantic 巾 ( “ cloth ” ) – silk given as a gift or sacrificed.

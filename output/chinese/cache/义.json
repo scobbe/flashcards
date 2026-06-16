@@ -4,35 +4,41 @@
   "pinyin": "yì",
   "english": "righteousness; justice; meaning",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "乂(乂) (yì, \"to govern/cut\") was originally used for its sound -> 刈(刈) (yì, \"to cut\") displaced 乂(乂) -> a stroke was added on top of 乂(乂) to distinguish it for the meaning of righteousness -> final form 义(義)",
-    "interpretation": "Originally, 乂(乂) was used for both its phonetic and semantic meanings but was mainly displaced by 刈(刈). To distinguish the idea of \"righteousness,\" a stroke was added, creating a differentiation that allowed the character to develop its own unique meaning related to justice and propriety.",
-    "simplification": ""
+    "type": "phono-semantic compound",
+    "description": "Phonetic 我 (wǒ, \"I\") + semantic 羊 (yáng, \"good; beautiful; auspicious\") = association with virtue -> righteousness",
+    "interpretation": "The character 義 (yì, \"righteousness\") combines the notion of self from 我 (wǒ, \"I\") with the auspicious connotations of 羊 (yáng, \"good\") to express the idea of personal integrity and virtue.",
+    "simplification": "義(義) was simplified to 义 by removing the phonetic component 我 (wǒ, \"I\") and retaining only 羊 (yáng, \"good\") for ease and speed of writing."
   },
   "parts": [
     {
-      "char": "乂",
-      "trad": "乂",
-      "pinyin": "yì",
-      "english": "to govern/cut"
+      "char": "我",
+      "trad": "我",
+      "pinyin": "wǒ",
+      "english": "I"
+    },
+    {
+      "char": "羊",
+      "trad": "羊",
+      "pinyin": "yáng",
+      "english": "good; beautiful; auspicious"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他行侠仗义(他行俠仗義)，扶危济困(扶危濟困)。",
-      "pinyin": "Tā xíng xiá zhàng yì, fú wēi jì kùn.",
-      "english": "He upholds chivalry and helps those in distress."
+      "chinese": "为了正义(為了正義)，他愿意牺牲自己(他願意犧牲自己)。",
+      "pinyin": "Wèile zhèngyì, tā yuànyì xīshēng zìjǐ.",
+      "english": "For justice, he is willing to sacrifice himself."
     },
     {
-      "chinese": "正义必胜(正義必勝)。",
-      "pinyin": "Zhèng yì bì shèng.",
-      "english": "Justice will surely prevail."
+      "chinese": "朋友之间的友情应该以义为重(朋友之間的友情應該以義為重)。",
+      "pinyin": "Péngyǒu zhījiān de yǒuqíng yīnggāi yǐ yì wéi zhòng.",
+      "english": "The friendship between friends should emphasize righteousness."
     },
     {
-      "chinese": "他始终坚守义(他始終堅守義)，维护公正(維護公正)。",
-      "pinyin": "Tā shǐ zhōng jiān shǒu yì, wèi hù gōng zhèng.",
-      "english": "He always adheres to righteousness and upholds fairness."
+      "chinese": "古代的英雄常被赞为有勇有义(古代的英雄常被讚為有勇有義)。",
+      "pinyin": "Gǔdài de yīngxióng cháng bèi zàn wéi yǒu yǒng yǒu yì.",
+      "english": "Ancient heroes are often praised as being courageous and righteous."
     }
   ]
 }

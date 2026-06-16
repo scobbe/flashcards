@@ -4,41 +4,35 @@
   "pinyin": "qì",
   "english": "air",
   "etymology": {
-    "type": "pictogram",
-    "description": "Clouds flowing through the sky -> altered to avoid confusion with 三(三) (sān, \"three\") -> 乞(乞) (qǐ, \"beg\") as a variant for phonetic borrowing",
-    "interpretation": "The character 气(qì, \"air\") started as a pictogram representing clouds in the sky, which evolved to differentiate from the character for \"three.\" Over time, 乞 was used as a variant for phonetic reasons, specifically for the meaning \"to beg.\" The meanings 'air, flow' were later borrowed from 气.",
-    "simplification": ""
+    "type": "phono-semantic compound",
+    "description": "氣 (phono-semantic: 气 for sound + 米 for meaning) -> originally 'steam from cooked rice' -> later 'air, flow'",
+    "interpretation": "The character 氣 combines 气, representing the sound, with 米 (mǐ, 'rice'), suggesting the original meaning of steam emanating from cooked rice. Over time, the meaning shifted to encompass 'air' or 'flow', capturing the essence of movement or circulation.",
+    "simplification": "气(氣): 气 (qì, 'air') is a cursive shorthand of 氣, retaining the phonetic component but losing the semantic 米 ('rice')."
   },
   "parts": [
     {
-      "char": "三",
-      "trad": "三",
-      "pinyin": "sān",
-      "english": "three"
-    },
-    {
-      "char": "乞",
-      "trad": "乞",
-      "pinyin": "qǐ",
-      "english": "beg"
+      "char": "米",
+      "trad": "米",
+      "pinyin": "mǐ",
+      "english": "rice"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "房间里的气很清新(房間裡的氣很清新)。",
-      "pinyin": "Fángjiān lǐ de qì hěn qīngxīn。",
-      "english": "The air in the room is very fresh."
+      "chinese": "我喜欢清晨的空气(我喜歡清晨的空氣)。",
+      "pinyin": "Wǒ xǐhuān qīngchén de kōngqì.",
+      "english": "I like the morning air."
     },
     {
-      "chinese": "打开窗户(打開窗戶)，让新鲜的气进来(讓新鮮的氣進來)。",
-      "pinyin": "Dǎkāi chuānghù, ràng xīnxiān de qì jìnlái。",
-      "english": "Open the window to let fresh air in."
+      "chinese": "呼吸新鲜空气(呼吸新鮮空氣)会让人精神振奋(會讓人精神振奮)。",
+      "pinyin": "Hūxī xīnxiān kōngqì huì ràng rén jīngshén zhènfèn.",
+      "english": "Breathing fresh air invigorates the spirit."
     },
     {
-      "chinese": "他深吸一口气(他深吸一口氣)，感觉心情舒畅(感覺心情舒暢)。",
-      "pinyin": "Tā shēn xī yīkǒu qì, gǎnjué xīnqíng shūchàng。",
-      "english": "He took a deep breath and felt his mood lift."
+      "chinese": "他对我们发脾气(他對我們發脾氣)，可能是因为工作压力太大(可能是因為工作壓力太大)。",
+      "pinyin": "Tā duì wǒmen fā píqì, kěnéng shì yīnwèi gōngzuò yālì tài dà.",
+      "english": "He got angry with us, possibly because his work pressure is too high."
     }
   ]
 }

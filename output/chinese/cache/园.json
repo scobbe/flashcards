@@ -5,40 +5,40 @@
   "english": "garden",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "囗(囗) (wéi, \"enclosure\") + 袁(袁) (yuán) = enclosed area -> garden",
-    "interpretation": "The character 园(園) (yuán, \"garden\") combines 囗(囗) (wéi, \"enclosure\"), indicating a bounded space, with the phonetic component 袁(袁) (yuán), suggesting the sound. This combination effectively conveys the idea of a 'garden' as an enclosed space for cultivation.",
-    "simplification": "园(園) uses a simplified 囗(囗) (wéi, \"enclosure\") and omits the complex internal structure of 袁(袁), retained only as a phonetic component."
+    "description": "囗(\"fence\") + 袁(\"phonetic cue\") -> enclosure for growing plants",
+    "interpretation": "The character 園(園) (yuán, \"garden\") conveys the idea of an enclosed area, represented by 囗(囗) (wéi, \"fence\"), with 袁(袁) (yuán, \"phonetic cue\") providing the pronunciation. This combines the concepts of an enclosed space and phonetic similarity to suggest a 'garden'.",
+    "simplification": "園(園) was simplified to 园(园) by replacing 袁(袁) with a simpler phonetic element: the upper component from 袁 was removed, leaving only the important semantic enclosure 口(口) (kǒu, \"mouth\") and a component of 袁 for phonetical cue."
   },
   "parts": [
     {
       "char": "囗",
       "trad": "囗",
       "pinyin": "wéi",
-      "english": "enclosure"
+      "english": "fence"
     },
     {
       "char": "袁",
       "trad": "袁",
       "pinyin": "yuán",
-      "english": "phonetic component"
+      "english": "phonetic cue"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "这座园十分宁静(這座園十分寧靜)。",
-      "pinyin": "Zhè zuò yuán shí fēn níng jìng.",
-      "english": "This garden is very peaceful."
+      "chinese": "她在花园里种了很多玫瑰(她在花園裏種了很多玫瑰)。",
+      "pinyin": "Tā zài huāyuán lǐ zhòng le hěn duō méiguī.",
+      "english": "She planted many roses in the garden."
     },
     {
-      "chinese": "孩子们在园玩耍(孩子們在園玩耍)，满园花香四溢(滿園花香四溢)。",
-      "pinyin": "Háizimen zài yuán wán shuǎ, mǎn yuán huā xiāng sì yì.",
-      "english": "Children are playing in the garden, and the whole garden is filled with the fragrance of flowers."
+      "chinese": "这个公园非常适合散步(這個公園非常適合散步)。",
+      "pinyin": "Zhège gōngyuán fēicháng shìhé sànbù.",
+      "english": "This park is very suitable for walking."
     },
     {
-      "chinese": "古人常在园内吟诗(古人常在園內吟詩)，借此寄托情怀(借此寄託情懷)。",
-      "pinyin": "Gǔ rén cháng zài yuán nèi yín shī, jiè cǐ jì tuō qíng huái.",
-      "english": "Ancient scholars often recited poems in the garden, using it to express their sentiments."
+      "chinese": "我们计划在后院建一个小花园(我們計劃在後院建一個小花園)。",
+      "pinyin": "Wǒmen jìhuà zài hòuyuàn jiàn yī gè xiǎo huāyuán.",
+      "english": "We plan to build a small garden in the backyard."
     }
   ]
 }

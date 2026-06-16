@@ -212,7 +212,7 @@
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts a bowl of rice on a stand
-  - **interpretation:** The character 皀(jī, 'food vessel') visually represents a bowl of rice positioned on a stand, signifying its use as a food container or vessel. This depiction is straightforward and illustrative of the character’s meaning.
+  - **interpretation:** The character 皀(jī, "food vessel") visually represents a bowl of rice placed on a stand, indicating its use in ancient Chinese contexts as a pictogram for food vessels.
 ### 跑腿 → 腿 → 退 → 夊
 - **definition:** downward foot
 - **pinyin:** suī
@@ -629,28 +629,25 @@
   - 古( )籍( )记(記)载(載)亼( )符( )号(號)的( )古( )怪( )寓( )意( )，令( )后(後)人( )赞(讚)叹(嘆)不( )已( )。
     - Gǔ jí jì zǎi jī fú hào de gǔ guài yù yì, lìng hòu rén zàn tàn bù yǐ.
     - Ancient texts record the bizarre symbolism of 亼, which inspires endless admiration from later generations.
-### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙(咼)
-- **traditional:** 咼
+### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙
 - **definition:** pot
 - **pinyin:** guō
 - **components:**
   - 冎
-    - guǒ
-    - skeleton
+    - guā
+    - bones
   - 口
     - kǒu
     - mouth
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - phonetic: 冎 (guǒ, "skeleton") + semantic: 口 (kǒu, "mouth") ->
-    - hollow pot with an opening ->
+    - 冎 (phonetic) + 口 (semantic) =
     - pot
-  - **interpretation:** The character 咼 combines 冎 (guǒ, "skeleton") which provides the phonetic component, with 口 (kǒu, "mouth") symbolizing the opening of a pot, illustrating a vessel that can contain or emit sounds, thus relating to its meaning as a pot.
-  - **simplification:** The traditional character 咼 was simplified to 呙 by removing elements while maintaining its phonetic resemblance.
-### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙(咼) → 冎
-- **definition:** skeleton
-- **pinyin:** guǒ
+  - **interpretation:** The character 呙 (guō, 'pot') combines the phonetic component 冎 (guā, 'bones'), implying the sound, with the semantic component 口 (kǒu, 'mouth'), suggesting the meaning related to something that opens, like a pot.
+### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙 → 冎
+- **definition:** bones
+- **pinyin:** guā
 - **components:**
   - 骨
     - gǔ
@@ -671,7 +668,7 @@
   - 冎( )是( )一( )种(種)发(發)音( )提( )示( )符( )。
     - Guǒ shì yī zhǒng fāyīn tíshì fú.
     - Guǒ is a phonetic indicator.
-### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙(咼) → 冎 → 骨
+### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙 → 冎 → 骨
 - **definition:** bone
 - **pinyin:** gǔ
 - **etymology:**
@@ -685,7 +682,7 @@
   - 老( )中( )医(醫)观(觀)察( )骨( )的( )脉(脈)络(絡)，寻(尋)找( )健( )康( )之( )秘( )。
     - Lǎo zhōngyī guānchá gǔ de màiluò, xúnzhǎo jiànkāng zhī mì.
     - The experienced Chinese doctor examines the bone structure to seek the secret of health.
-### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙(咼) → 口
+### 锅(鍋)巴( )饭(飯) → 锅(鍋) → 呙 → 口
 - **definition:** mouth
 - **pinyin:** kǒu
 - **etymology:**
@@ -1189,8 +1186,10 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a stylized representation of exhalation or breath
-  - **interpretation:** The character 丂(kǎo, "breath") is a pictogram representing a stylized depiction of a person's breath or the act of exhaling. It illustrates the concept of air or breath with its design.
+  - **description:**
+    - Depicts a man with a horizontal line through it, representing breath or a sound that comes from the mouth ->
+    - breath; conflation of several characters
+  - **interpretation:** The character 丂 (kǎo, “breath”) visually depicts a person with a line, signifying a vocal sound or breath emitted. It serves as a pictorial representation connected to air or sound produced, often linked to concepts of breath or speech in ancient Chinese writing.
 ### 扬(揚)州( ) → 扬(揚) → 昜 → 彡
 - **definition:** rays of light
 - **pinyin:** xiǎn

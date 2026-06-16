@@ -5,34 +5,34 @@
   "english": "return; repeat",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Top: A representation of a room in a corridor -> Bottom: 夊 (suī, footprint pointing down) -> Original meaning: going back to meet people in a room -> Modern: return; repeat",
-    "interpretation": "The character 复(復) (fù, 'return; repeat') combines a representation of a room in a corridor with 夊(夊) (suī, 'footprint pointing down'), highlighting the meaning of returning or going back, suggesting a movement back to a familiar or designated space.",
-    "simplification": ""
+    "description": "彳(彳) (chì, \"step\") + 复(复) (fù, \"repeat\") = walk back and forth -> return; repeat",
+    "interpretation": "復(復) (fù, \"return; repeat\") incorporates 彳(彳) (chì, \"step\"), indicating movement, with the phonetic 复(复) (fù, \"repeat\"), symbolizing the action of going back and forth or repeating an action.",
+    "simplification": "復(復) was simplified to 复(復) by replacing 彳(彳) (chì, \"step\") with a simpler component."
   },
   "parts": [
     {
-      "char": "夊",
-      "trad": "夊",
-      "pinyin": "suī",
-      "english": "footprint pointing down"
+      "char": "彳",
+      "trad": "彳",
+      "pinyin": "chì",
+      "english": "step"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请复述你的故事(請復述你的故事)。",
-      "pinyin": "qǐng fù shù nǐ de gù shì.",
-      "english": "Please repeat your story."
+      "chinese": "他已经复习功课(他已經複習功課)。",
+      "pinyin": "Tā yǐjīng fùxí gōngkè.",
+      "english": "He has already reviewed his lessons."
     },
     {
-      "chinese": "等你复来时(等你復來時)，我们一起庆祝(我們一起慶祝)。",
-      "pinyin": "děng nǐ fù lái shí, wǒ men yī qǐ qìng zhù.",
-      "english": "When you return, we will celebrate together."
+      "chinese": "明天我们会复返到这里(明天我們會復返到這裡)。",
+      "pinyin": "Míngtiān wǒmen huì fùfǎn dào zhèlǐ.",
+      "english": "We will return here tomorrow."
     },
     {
-      "chinese": "复查后(復查後)，他发现问题依旧(他發現問題依舊)。",
-      "pinyin": "fù chá hòu, tā fā xiàn wèn tí yī jiù.",
-      "english": "After rechecking, he found the problems unchanged."
+      "chinese": "她每天都重复同样的事情(她每天都重複同樣的事情)。",
+      "pinyin": "Tā měitiān dōu chóngfù tóngyàng de shìqíng.",
+      "english": "She repeats the same things every day."
     }
   ]
 }

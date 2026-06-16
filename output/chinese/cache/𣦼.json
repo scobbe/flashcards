@@ -4,9 +4,9 @@
   "pinyin": "cán",
   "english": "phonetic component",
   "etymology": {
-    "type": "variant",
-    "description": "Variant form of 𣦻",
-    "interpretation": "𣦼 is a variant of 𣦻, which serves as a phonetic component, used to represent sounds or ideas in other more complex characters.",
+    "type": "phono-semantic compound",
+    "description": "Phonetic component in compounds with semantic and phonetic roles",
+    "interpretation": "𣦼 (cán) serves as a phonetic component in various characters, contributing to their pronunciation and occasionally hints at their meaning.",
     "simplification": ""
   },
   "parts": [],

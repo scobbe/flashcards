@@ -5,11 +5,22 @@
   "english": "eight",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two grass-like strokes",
-    "interpretation": "丷(bā, 'eight') is a pictogram representing two linear strokes, often associated with the upper part of other characters such as 為(為) (wéi, 'to do'). While it can appear similar to grass blades, its primary function in modern characters is decorative or structural.",
+    "description": "Part of 爲(為) (wéi, 'to do') used as a top component or radical -> simple pictographic component",
+    "interpretation": "While 丷(bā, 'eight') often resembles the top part of certain characters like 爲(為), it stands as a simple graphic element, often used in modern Chinese to signify shared roots with other characters.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我们班上有八(八)名学生。",
+      "pinyin": "Wǒmen bān shàng yǒu bā míng xuéshēng.",
+      "english": "There are eight students in our class."
+    },
+    {
+      "chinese": "在中国，八(八)是一个吉利的数字(數字)。",
+      "pinyin": "Zài Zhōngguó, bā shì yī gè jílì de shùzì.",
+      "english": "In China, eight is considered a lucky number."
+    }
+  ]
 }

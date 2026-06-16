@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 圥 (圥) + semantic 土(土, \"earth; soil\") -> phonetic component",
-    "interpretation": "坴 (lù) combines the component 土(土, \"earth; soil\") for its meaning related to earth, with 圥, which serves as a phonetic component. This form is mostly used historically as a phonetic unit in other characters rather than as a standalone character.",
+    "description": "phonetic 圥(圥) (lù, \"phonetic component\") + semantic 土(土) (tǔ, \"earth; soil\") = earth-related term with phonetic lù",
+    "interpretation": "坴 is a phono-semantic compound where the component 圥(圥) (lù) provides the phonetic value, while 土(土) (tǔ, \"earth; soil\") suggests its relation to earth. The character is primarily a phonetic component used in more complex characters.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "圥",
       "trad": "圥",
       "pinyin": "lù",
-      "english": "phonetic"
+      "english": "phonetic component"
     },
     {
       "char": "土",

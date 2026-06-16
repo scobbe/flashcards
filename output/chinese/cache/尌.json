@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") + 寸(寸) (cùn, \"hand\") = planting a tree -> 豆(豆) (dòu, \"bean\") added phonetically -> modern form combines 木 and 豊 into 壴 which can be misinterpreted as 壴 + 寸",
-    "interpretation": "尌 originally depicted the action of planting a tree with 木(木) (mù, \"tree\") and 寸(寸) (cùn, \"hand\") indicating the placement or planting process. The addition of 豆(豆) (dòu, \"bean\") gave it a phonetic layer, complicating its visual interpretation over time into the form recognized today.",
+    "description": "木(木) (mù, 'tree') + 寸(寸) (cùn, 'hand') = to plant a tree -> 豆(豆) (dòu, used phonetic) added later",
+    "interpretation": "The character 尌 originally depicted planting a tree with a hand, represented by 木(木) (mù, 'tree') and 寸(寸) (cùn, 'hand'). A phonetic component 豆(豆) (dòu) was added later to distinguish its meaning, although in modern forms, 木 and 豆 have visually merged into 壴.",
     "simplification": ""
   },
   "parts": [
@@ -26,7 +26,7 @@
       "char": "豆",
       "trad": "豆",
       "pinyin": "dòu",
-      "english": "bean"
+      "english": "used phonetic"
     }
   ],
   "in_contemporary_usage": false,

@@ -4,47 +4,41 @@
   "pinyin": "lèi",
   "english": "tired",
   "etymology": {
-    "type": "variant form",
-    "description": "糸(糸) (sī, \"silk\") + 田(田) (tián, \"field\") + 衣(衣) (yī, \"clothing\") = layers of tied-up silk over fields and clothing -> connected to repetition or tiring work -> took on meaning of tired as 累",
-    "interpretation": "The traditional character 纍 combines 糸(糸) (sī, \"silk\") with 田(田) (tián, \"field\") and 衣(衣) (yī, \"clothing\"), symbolizing repetitive, tiring work across fields using silk thread, ultimately leading to the sense of 'tired.' The current form 累 evolved as a simplified and variant traditional character maintaining this association.",
-    "simplification": "累 is a simplified version and variant form of 纍, which emphasizes ease of writing by reducing multiple repeated components."
+    "type": "phono-semantic compound",
+    "description": "畾(畾) (lěi, \"stacked fields\") + 糸(糸) (sī, \"silk; thread\") = representation of binding with silk threads -> evolved meaning of 'rope; to bind' -> eventual simplification to 累 (lèi, \"tired\")",
+    "interpretation": "The character 纍 (lěi, \"bind\") originally depicted stacked fields with threads used for binding or tying. The use of 畾(畾) for the fields and 糸(糸) for silk reflects this original purpose. The modern association with 'tired' is a semantic shift away from the original sense of binding, illustrating how meanings evolve over time.",
+    "simplification": "Simplified as 累 (lèi) by reducing the structure of 纍 to the essential phonetic and semantic components."
   },
   "parts": [
+    {
+      "char": "畾",
+      "trad": "畾",
+      "pinyin": "lěi",
+      "english": "stacked fields"
+    },
     {
       "char": "糸",
       "trad": "糸",
       "pinyin": "sī",
-      "english": "silk"
-    },
-    {
-      "char": "田",
-      "trad": "田",
-      "pinyin": "tián",
-      "english": "field"
-    },
-    {
-      "char": "衣",
-      "trad": "衣",
-      "pinyin": "yī",
-      "english": "clothing"
+      "english": "silk; thread"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我累了(我累了)。",
-      "pinyin": "Wǒ lèi le.",
-      "english": "I am tired."
+      "chinese": "工作了一整天(工作了一整天)，我觉得很累(我覺得很累)。",
+      "pinyin": "Gōngzuòle yī zhěng tiān, wǒ juédé hěn lèi.",
+      "english": "After working all day, I feel very tired."
     },
     {
-      "chinese": "我工作了一整天(我工作了一整天)，感到累(感到累)。",
-      "pinyin": "Wǒ gōngzuò le yī zhěng tiān, gǎndào lèi.",
-      "english": "I worked all day and feel tired."
+      "chinese": "孩子们一天的玩耍(孩子們一天的玩耍)，让他们精疲力竭(讓他們精疲力竭)。",
+      "pinyin": "Háizimen yītiān de wánshuǎ, ràng tāmen jīngpílìjié.",
+      "english": "The day's play exhausted the children."
     },
     {
-      "chinese": "经过长时间的学习(經過長時間的學習)，我感到累(我感到累)。",
-      "pinyin": "Jīngguò cháng shíjiān de xuéxí, wǒ gǎndào lèi.",
-      "english": "After studying for a long time, I feel tired."
+      "chinese": "我累了(我累了)，需要休息一下(需要休息一下)。",
+      "pinyin": "Wǒ lèile, xūyào xiūxi yīxià.",
+      "english": "I'm tired and need to rest a bit."
     }
   ]
 }

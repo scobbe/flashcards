@@ -5,11 +5,27 @@
   "english": "hook",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hook or a hooked object",
-    "interpretation": "亅(亅) (jué, \"hook\") is a pictogram representing a simple hooked shape or object, commonly used in writing for components of other characters.",
+    "description": "Depicts a hook",
+    "interpretation": "亅(亅) (jué, \"hook\") is a simple pictographic depiction of a hook, showing the elongated shape and the distinctive curve commonly associated with a hook.",
     "simplification": ""
   },
   "parts": [],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个汉字的撇和亅总是让我困惑(這個漢字的撇和亅總是讓我困惑)。",
+      "pinyin": "Zhège hànzì de piě hé jué zǒng shì ràng wǒ kùnhuò.",
+      "english": "The stroke and hook of this Chinese character always confuse me."
+    },
+    {
+      "chinese": "她用钢笔画了一个带有亅的符号(她用鋼筆畫了一個帶有亅的符號)。",
+      "pinyin": "Tā yòng gāngbǐ huà le yī gè dài yǒu jué de fúhào.",
+      "english": "She drew a symbol with a hook using a pen."
+    },
+    {
+      "chinese": "书法作品中常能看到优美的亅(書法作品中常能看到優美的亅)。",
+      "pinyin": "Shūfǎ zuòpǐn zhōng cháng néng kàn dào yōuměi de jué.",
+      "english": "Elegant hooks are often seen in calligraphy works."
+    }
+  ]
 }

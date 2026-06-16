@@ -1,12 +1,12 @@
 {
   "simplified": "癹",
   "traditional": "癹",
-  "pinyin": "bá",
+  "pinyin": "bā",
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound and phono-semantic compound",
-    "description": "癶(癶) (bō, \"two outstretched feet\") + 殳(殳) (shū, \"hand with stick\") = action of beating or cutting grass -> possibly original form of 撥(撥) (bō, \"to dial\")",
-    "interpretation": "The character 癹(bá) combines the image of two feet 癶(癶) (bō, \"two outstretched feet\") with a hand holding a stick 殳(殳) (shū, \"hand with stick\"), to convey actions involving striking or cutting, likely linked to agricultural or martial activities. It may have been used originally in connection with 撥(撥) (bō, \"to dial\") as a related action form.",
+    "description": "癶(癶) (bō, \"two outstretched feet\") + 殳(殳) (shū, \"hand with stick\") = beating or cutting grass -> later evolved into 撥(撥) (bō, \"to poke; to stir\")",
+    "interpretation": "The character 癹 combines the imagery of feet and a hand with a stick, suggesting the action of moving or cutting grass, which aligns with an early use related to stirring or poking items.",
     "simplification": ""
   },
   "parts": [
@@ -26,7 +26,7 @@
       "char": "撥",
       "trad": "撥",
       "pinyin": "bō",
-      "english": "to dial"
+      "english": "to poke; to stir"
     }
   ],
   "in_contemporary_usage": false,

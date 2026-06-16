@@ -147,9 +147,9 @@
   - **type:** ideogrammic compound
   - **description:**
     - 爪 (zhǎo, "hand") + 又 (yòu, "hand") + 石 (shí, "stone") =
-    - borrowing a stone ->
-    - phonetic, loan usage
-  - **interpretation:** The character 叚 combines two symbols for 'hand' (爪 and 又) with 'stone' (石) to represent the act of borrowing a stone, emphasizing its original association with a loan concept rather than its current phonetic use.
+    - borrowing concept indicated by two hands holding a stone ->
+    - phonetic value for 'jiǎ'
+  - **interpretation:** The character 叚 combines the imagery of two hands, 爪 and 又, with the phonetic element 石, representing the idea of borrowing through handling a stone. This reflects its conceptual origin which relates to lending or borrowing.
 ### 度假 → 假 → 叚 → 爪
 - **definition:** hand
 - **pinyin:** zhǎo
@@ -399,87 +399,10 @@
     - People gain growth along their journey.
 ### 受( )伤(傷)了( ) → 伤(傷) → 𥏻
 - **definition:** phonetic
-- **components:**
-  - 艹
-    - cǎo
-    - grass
-  - 喬
-    - qiáo
-    - tall
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 艹 (cǎo, 'grass') + 喬 (qiáo, 'tall') =
-    - phonetic component derived from 喬, with semantic emphasis on plant or vegetation
-  - **interpretation:** The character 𥏻 combines the semantic component 艹 (cǎo, 'grass') indicating a relationship to plants or herbal medicines with the phonetic component derived from 喬 (qiáo, 'tall'), suggesting a pronunciation. This combination suggests that the original usage was related to tall grasses or vegetation, with the phonetic component guiding pronunciation.
-### 受( )伤(傷)了( ) → 伤(傷) → 𥏻 → 艹
-- **definition:** grass
-- **pinyin:** cǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts blades of grass
-  - **interpretation:** 艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.
-- **examples:**
-  - 他( )写(寫)字( )时(時)用( )艹( )作( )草( )字( )的( )偏( )旁( )。
-    - Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.
-    - He uses '艹' as the radical for grass in his characters.
-  - 春( )天( )到( )来(來)时(時)，艹( )生( )长(長)得( )很( )快( )。
-    - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
-    - When spring arrives, grass grows rapidly.
-### 受( )伤(傷)了( ) → 伤(傷) → 𥏻 → 喬
-- **definition:** tall
-- **pinyin:** qiáo
-- **components:**
-  - 高
-    - gāo
-    - high
-  - 夭
-    - yāo
-    - to bend
-- **etymology:**
-  - **type:** Ideogram
-  - **description:** Originally 高 (gāo, "high") → Differentiated with various components like 屮, 止, 力, 九, or 夭 → Finalized with 夭 for the form of 喬
-  - **interpretation:** The character 喬 (qiáo, "tall, high") differentiates from 高 (gāo, "high") by using additional components like 夭 to indicate a similar meaning. Despite variant interpretations, the use of 夭 stabilizes the character's form, primarily reflecting the idea of height or elevation.
-- **examples:**
-  - 这( )座( )大( )楼( )很( )喬(乔)。
-    - Zhè zuò dàlóu hěn qiáo.
-    - This building is tall.
-  - 那( )棵( )树(樹)看( )起( )来(來)特( )别(別)喬(乔)，映( )衬(襯)着(著)蓝(藍)天( )。
-    - Nà kē shù kàn qǐlái tèbié qiáo, yìngchèn zhe lántiān.
-    - That tree looks especially tall, complementing the blue sky.
-### 受( )伤(傷)了( ) → 伤(傷) → 𥏻 → 喬 → 高
-- **definition:** high
-- **pinyin:** gāo
-- **etymology:**
-  - **type:** Pictogram
-  - **description:** Depicts a tall building
-  - **interpretation:** The character 高(gāo, "high; tall") visually represents a tall structure or building, symbolizing height or elevation. Unlike 京(jīng, "capital"), it is straightforwardly a representation of height.
-- **examples:**
-  - 这(這)座( )山( )高( )。
-    - Zhè zuò shān gāo.
-    - This mountain is high.
-  - 那( )棵( )树(樹)长(長)得( )高( )，比( )其( )他( )树(樹)高( )很( )多( )。
-    - Nà kē shù zhǎng de gāo, bǐ qítā shù gāo hěn duō.
-    - That tree grows tall, much taller than the other trees.
-  - 飞(飛)机(機)在( )高( )空( )飞(飛)行( )。
-    - Fēijī zài gāokōng fēixíng.
-    - The airplane flies in high altitude.
-### 受( )伤(傷)了( ) → 伤(傷) → 𥏻 → 喬 → 夭
-- **definition:** to bend
-- **pinyin:** yāo
-- **etymology:**
-  - **type:** ideogram
-  - **description:**
-    - Depicts a figure leaning forward, presumably running ->
-    - energetic, young
-  - **interpretation:** The character 夭(yāo) ("young") visually represents someone leaning forward in a motion that suggests energy and vitality associated with youthfulness. This imagery aligns with the concept of being lively or young.
-- **examples:**
-  - 他还夭，意( )气(氣)风(風)发(發)。
-    - Tā hái yāo, yìqì fēngfā。
-    - He is still young, full of youthful vigor.
-  - 小女孩还夭，充( )满(滿)无(無)限( )活( )力( )。
-    - Xiǎo nǚhái hái yāo, chōngmǎn wúxiàn huólì。
-    - The little girl is still young, filled with boundless energy.
+  - **description:** Depicts a window
+  - **interpretation:** The character 𥏻 is an ancient pictographic representation of a window with window panes. It is primarily used as a phonetic component in other characters.
 ### 受( )伤(傷)了( ) → 伤(傷) → 力
 - **definition:** strength
 - **pinyin:** lì
@@ -583,10 +506,8 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts air exiting the mouth ->
-    - associated with breath
-  - **interpretation:** The character 丂 (kǎo, 'breath') depicts the motion of air leaving the mouth, which directly relates to its meaning of 'breath.' It is a simple pictogram originally representing this concept, hence no complex decomposition into other semantic or phonetic components.
+  - **description:** Depicts a breath or air flowing upwards
+  - **interpretation:** The character 丂 (kǎo, "breath") is a pictogram representing air or breath rising, suggested by the upward curve.
 ### 受( )伤(傷)了( ) → 伤(傷) → 昜 → 彡
 - **definition:** rays of light
 - **pinyin:** xiǎn
@@ -778,7 +699,7 @@
 - **etymology:**
   - **type:** pictogram
   - **description:** Depicts a bag with a bottom
-  - **interpretation:** The character 𣒚 is a pictogram that visually represents a bag with a firm base, which helps to convey its meaning.
+  - **interpretation:** The character 𣒚 directly represents the image of a bag with a bottom. It visually captures the essence of a sack or container. This pictogram is straightforward, illustrating its meaning through its depiction.
 ### 重要 → 重 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
@@ -1668,8 +1589,8 @@
 - **pinyin:** n/a
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bag with a distinct bottom
-  - **interpretation:** The character 𣒚 is a pictogram representing a bag with a noticeable bottom. The shape captures the essence of an ancient container or sack, emphasizing its structure.
+  - **description:** Depicts a bag with a bottom
+  - **interpretation:** The character is a pictogram that visually represents a bag or container with a distinct bottom. Its structure suggests a vessel or receptacle capable of holding items.
 ### 病得很重 → 重 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
@@ -1838,10 +1759,9 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a tool shape ->
-    - used for marking ->
-    - evolved into 辛 (xīn, 'bitter')
-  - **interpretation:** 䇂 originally depicted a sickle-like or chisel tool used to mark prisoners, indicating its historical function before evolving into 辛 (xīn, 'bitter'), which no longer retains this specific meaning. The transformation involved adding elements for strokes and symbolic representation.
+    - Original version of 辛 (xīn, "bitter") ->
+    - depicts a chisel used to mark prisoners
+  - **interpretation:** The character 䇂 originally depicted a chisel tool, indicating its use in marking. This form evolved into 辛, which retains no functional relation to marking but conveys meanings related to hardship, likely influenced by the history of the chisel's use.
 ### 手臂 → 臂 → 辟 → 䇂 → 辛
 - **definition:** bitter
 - **pinyin:** xīn
@@ -2060,8 +1980,10 @@
 - **pinyin:** jī
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bowl of rice on a stand
-  - **interpretation:** The character 皀(jī, "food vessel") is a pictogram representing a food vessel. It visually depicts a bowl of rice, emphasizing its use in the context of food storage or presentation.
+  - **description:**
+    - Depicts a bowl of rice on a stand ->
+    - represents a food vessel
+  - **interpretation:** The pictogram of 皀(jī, 'food vessel') visually represents a bowl of rice placed on a stand, symbolizing its use as a vessel for holding food.
 ### 大腿 → 腿 → 退 → 夊
 - **definition:** downward foot
 - **pinyin:** suī
@@ -2361,8 +2283,10 @@
 - **pinyin:** jī
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bowl of rice on a stand
-  - **interpretation:** 皀 (jī, 'food vessel') visually represents a bowl of rice placed on a stand, conveying its use as a vessel for food. Its clear depiction as a container for rice shows its relevance in the context of food storage or presentation.
+  - **description:**
+    - Depicts a bowl of rice on a stand ->
+    - represents a food vessel
+  - **interpretation:** The character 皀(jī, 'food vessel') is a pictogram that visualizes a bowl of rice set upon a stand, emphasizing its function as a vessel used for holding food. This depiction is specific to its use and structure, aligning with its meaning.
 ### 小腿 → 腿 → 退 → 夊
 - **definition:** downward foot
 - **pinyin:** suī
@@ -2614,8 +2538,10 @@
     - child
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts an inverted 子 (zǐ, "child") representing a newborn baby upside down + lines for amniotic fluid or hair
-  - **interpretation:** The character 㐬 represents a newborn baby in a depiction of upside-down posture, with lines symbolizing amniotic fluid or hair around the head. This visual portrayal emphasizes the newborn's head, drawing on associations with birth and childrearing.
+  - **description:**
+    - Depicts an upside-down newborn baby, with inverted 子 (zǐ, "child") + three lines representing hair or amniotic fluid ->
+    - newborn
+  - **interpretation:** The character depicts a newborn baby, emphasizing its upside-down position during birth. The inverted form of 子 (zǐ, "child") highlights the depiction of a baby, while the three lines may represent either the baby's hair or amniotic fluid. This visual representation underscores its use as a pictogram of a newborn.
 ### 流行 → 流 → 㐬 → 子
 - **definition:** child
 - **pinyin:** zǐ
@@ -2785,25 +2711,25 @@
     - rain
   - 申
     - shēn
-    - to extend
+    - lightning
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 雨 (yǔ, "rain") + phonetic: 申 (shēn) =
-    - electrical phenomena during a storm ->
-    - electricity
-  - **interpretation:** The character 电(電) (diàn, "electricity") combines semantic and phonetic elements to represent natural electric phenomena, like lightning, associated with rainstorms. This reflects how electricity is tied to natural forces.
-  - **simplification:** 电(電) was simplified by removing the rain radical 雨 (yǔ, "rain") while maintaining the central component 申 (shēn) for phonetic representation.
+    - 雨 ('rain') + 申 ('lightning') =
+    - depiction of a thunderstorm ->
+    - electric
+  - **interpretation:** The character 電 combines 雨 (yǔ, 'rain') as the semantic element suggesting a natural event involving water, with 申 (shēn, 'lightning') indicating the associated sound and visual phenomenon of a thunderstorm, representing electric energy.
+  - **simplification:** 电(電): The rain radical 雨 (yǔ, 'rain') was simplified to a single horizontal line and reduced with fewer strokes.
 - **examples:**
-  - 现代科技依赖电(電)。
-    - Xiàn dài kē jì yī lài diàn(電)。
-    - Modern technology relies on electricity.
-  - 办(辦)公( )室( )里(裡)的( )电(電)器( )都( )已( )更( )新( )，节(節)约(約)能( )源( )效( )果( )显(顯)著( )。
-    - Bàn gōng shì lǐ de diàn qì dōu yǐ gēng xīn(辦公室裡的電器都已更新)，jié yuē néng yuán xiào guǒ xiǎn zhù(節約能源效果顯著)。
-    - The office appliances have all been updated, and the energy-saving results are remarkable.
-  - 夜( )晚( )的( )城( )市( )因( )电(電)光( )闪(閃)烁(爍)，显(顯)得( )异(異)常( )璀( )璨( )。
-    - Yè wǎn de chéng shì yīn diàn guāng shǎn shuò(夜晚的城市因電光閃爍)，xiǎn de yì cháng cuǐ càn(顯得異常璀璨)。
-    - The city at night shines with the gleam of electricity, appearing exceptionally dazzling.
+  - 商( )店( )已( )经(經)没(沒)有( )电(電)。
+    - Shāngdiàn yǐjīng méiyǒu diàn.
+    - The store is already out of electricity.
+  - 她( )打( )开(開)电(電)灯(燈)，房( )间(間)瞬( )间(間)明( )亮( )起( )来(來)。
+    - Tā dǎkāi diàndēng, fángjiān shùnjiān míngliàng qǐlái.
+    - She turned on the light, and the room instantly brightened up.
+  - 这(這)些( )电(電)器( )都( )是( )最( )新( )型( )号(號)。
+    - Zhèxiē diànqì dōu shì zuìxīn xínghào.
+    - These electrical appliances are all the latest models.
 ### 电(電)动(動)车(車) → 电(電) → 雨
 - **definition:** rain
 - **pinyin:** yǔ
@@ -2825,7 +2751,7 @@
     - Xì yǔ rú sī, qīng fú zhe huā bàn.
     - The fine rain falls like silk, gently brushing the petals.
 ### 电(電)动(動)车(車) → 电(電) → 申
-- **definition:** to extend
+- **definition:** lightning
 - **pinyin:** shēn
 - **etymology:**
   - **type:** pictogram
@@ -3007,8 +2933,8 @@
 - **pinyin:** n/a
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a bag with a bottom, emphasizing the structure with an enclosed form
-  - **interpretation:** This character is a pictogram that visually represents a bag with a distinctive base or bottom, reflecting its usage in illustrating this type of container. There are no derived or directly related characters.
+  - **description:** Depicts a bag with a bottom, represented by an enclosure-like shape with an opening at one end
+  - **interpretation:** This character visually represents a container, specifically illustrating one with a clearly defined bottom and an open top, indicating the storage or holding function typical of a bag.
 ### 电(電)动(動)车(車) → 动(動) → 重 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
@@ -3309,13 +3235,17 @@
 ### 买(買)不( )起( ) → 起 → 走 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
+- **components:**
+  - 止
+    - zhǐ
+    - foot
+  - 趾
+    - zhǐ
+    - toe
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a footprint pointing up ->
-    - stylized as 龰 ->
-    - derivative 趾 (zhǐ, "toe") refers to original meaning
-  - **interpretation:** The character 龰 depicts a footprint with stylized feet, suggesting movement or stance, which connects it contextually to various representations of human and animal limbs within Chinese script. The original depiction as part of a footprint emphasizes its role in denoting feet.
+  - **description:** Depicts a footprint pointing up; stylized as 龰
+  - **interpretation:** The character 龰 is a stylized pictogram of a footprint, originally depicting a foot with toes pointing upwards. It is derived from the original 'foot' representation 止 (zhǐ, "foot") and was eventually stylized into the form seen today. This relates to the derivative 趾 (zhǐ, "toe"), which retains the original meaning of a foot with toes.
 ### 买(買)不( )起( ) → 起 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -3555,13 +3485,13 @@
 - **components:**
   - 辛
     - xīn
-    - bitter
+    - chisel tool
 - **etymology:**
   - **type:** pictogram
-  - **description:** Derived from 辛 (xīn, 'bitter/chisel tool')
-  - **interpretation:** The character 丵 represents an ancient tool for digging, derived visually from 辛 (xīn, 'bitter') which was used to depict a chisel-like tool.
+  - **description:** Depicts 辛 (xīn, "chisel tool")
+  - **interpretation:** 丵 (zhuó, "tool for digging") represents a chisel tool, as indicated by its derivation from 辛 (xīn, "chisel tool").
 ### 对(對)来(來)说(說) → 对(對) → 丵 → 辛
-- **definition:** bitter
+- **definition:** chisel tool
 - **pinyin:** xīn
 - **etymology:**
   - **type:** pictogram
@@ -3840,15 +3770,15 @@
 - **definition:** stylized feet
 - **pinyin:** yù
 - **components:**
-  - 趾
+  - 止
     - zhǐ
-    - toe
+    - foot
 - **etymology:**
-  - **type:** pictogram
+  - **type:** ideogram
   - **description:**
-    - Depicts a footprint pointing up, originally meaning "foot" ->
-    - stylized as 龰
-  - **interpretation:** 龰(yù, "stylized feet") is a pictogram representing a footprint pointing upwards. It shows a human foot with three toes and was originally used to symbolize 'foot'. It eventually became stylized in modern script, differentiating from derivatives like 趾 (zhǐ, "toe"), which draw on the same original conceptual basis.
+    - Depicts a footprint stylized as 龰 ->
+    - footprint representation
+  - **interpretation:** 龰(yù, "stylized feet") is derived from the pictogram 止 (zhǐ, "foot") initially showing a footprint pointing up. In its stylized form, 龰 maintains the representation of a footprint.
 ### 对(對)来(來)说(說) → 来(來) → 來 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -4436,9 +4366,9 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up, stylized as 龰 ->
-    - original meaning 'foot'
-  - **interpretation:** The character 龰 is a pictogram representing a footprint, with the toes typically portrayed at the top to signify upward direction, unlike related forms like 夊 and 夂 which face downward. The depiction emphasizes the idea of a foot with its orientation and toe arrangements, similar to the representation of hands in other characters.
+    - Depicts a footprint pointing up ->
+    - stylized as 龰
+  - **interpretation:** 龰 is a pictogram representing a stylized footprint pointing upwards. It is related to 足 (zú, 'foot') and was used to represent a foot-specific detail in Chinese script before abstracting into symbolic components.
 ### 等( )着(著) → 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -4764,16 +4694,16 @@
   - 木
     - mù
     - tree
-  - 考
-    - kǎo
-    - examine
+  - 天
+    - tiān
+    - heaven
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 木 (mù, "tree") + 考 (kǎo, "examine") =
-    - analyze wood ->
-    - distinction between aged trees
-  - **interpretation:** The character 㯥(cáo, "analyze") combines 木 (mù, "tree") to signify something related to trees with 考 (kǎo, "examine") to convey the idea of closely analyzing the condition of wood. It suggests a thought process of scrutinizing or caring for trees or wooden materials, typically distinguishing aged or examined wood.
+    - 木 (mù, "tree") + 天 (tiān, "heaven") =
+    - tree under heaven ->
+    - shade or cover under a tree
+  - **interpretation:** The character 㯥 describes a tree under the open sky, suggesting the broad canopy of a tree that provides shade or cover, aligning with its meaning of protection or covering.
 ### 糟糕 → 糟 → 曹 → 㯥 → 木
 - **definition:** tree
 - **pinyin:** mù
@@ -4788,70 +4718,22 @@
   - 工匠精心雕刻木，制成精美家具。
     - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
     - The craftsman carefully carved the wood, crafting exquisite furniture.
-### 糟糕 → 糟 → 曹 → 㯥 → 考
-- **definition:** examine
-- **pinyin:** kǎo
-- **components:**
-  - 老
-    - lǎo
-    - old
-  - 丂
-    - kǎo
-    - phonetic component
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 老 (lǎo, "old") + 丂 (kǎo, phonetic component) =
-    - old person giving an exam ->
-    - exam, test
-  - **interpretation:** The character 考 (kǎo, "exam") combines the semantic element 老 (lǎo, "old"), hinting at wisdom or authority, with the phonetic component 丂 (kǎo), signifying the act of verifying or testing knowledge.
-- **examples:**
-  - 明天，我( )要( )考( )数(數)学(學)。
-    - Míngtiān, wǒ yào kǎo shùxué.
-    - Tomorrow, I will take a math exam.
-  - 上( )课(課)时(時)，老( )师(師)考( )查( )学(學)生( )作( )业(業)。
-    - Shàngkè shí, lǎoshī kǎo chá xuéshēng zuòyè.
-    - During class, the teacher checks the students' homework.
-  - 政( )府( )考( )核( )公( )务(務)员(員)。
-    - Zhèngfǔ kǎo hé gōngwùyuán.
-    - The government evaluates civil servants.
-### 糟糕 → 糟 → 曹 → 㯥 → 考 → 老
-- **definition:** old
-- **pinyin:** lǎo
-- **components:**
-  - 人
-    - rén
-    - man
-  - 毛
-    - máo
-    - hair
-  - 匕
-    - bǐ
-    - cane
-- **etymology:**
-  - **type:** ideogrammic compound
-  - **description:**
-    - 人 (rén, "man") + 毛 (máo, "hair") + 匕 (bǐ, "cane") =
-    - a man with long hair leaning on a cane ->
-    - old man
-  - **interpretation:** The character 老(lǎo) visually depicts aspects associated with age: a man with long hair and a cane. This combination intuitively suggests the concept of being elderly.
-- **examples:**
-  - 他( )虽(雖)然( )年( )老( )，但( )经(經)验(驗)丰(豐)富( )。
-    - tā suīrán niánlǎo, dàn jīngyàn fēngfù.
-    - He may be old, but he is experienced.
-  - 他( )是( )我( )们(們)班( )的( )老( )老( )师(師)。
-    - tā shì wǒmen bān de lǎo lǎoshī.
-    - He is our class's venerable teacher.
-  - 老( )故( )事( )传(傳)递(遞)智( )慧( )。
-    - lǎo gùshi chuándì zhìhuì.
-    - Old stories convey wisdom.
-### 糟糕 → 糟 → 曹 → 㯥 → 考 → 丂
-- **definition:** phonetic component
-- **pinyin:** kǎo
+### 糟糕 → 糟 → 曹 → 㯥 → 天
+- **definition:** heaven
+- **pinyin:** tiān
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a person exhaling with a puff of air
-  - **interpretation:** The character 丂 depicts a person with air coming out of the mouth, making it an image of exhaling or breathing out. As a pictogram, it visually represents the action and sound of breathing, and it has also served as a phonetic component in other Chinese characters.
+  - **description:**
+    - Horizontal line above 大(dà, "big") to depict sky ->
+    - anthropomorphic man with large head symbolizing heaven
+  - **interpretation:** The character 天(tiān) originally depicts the sky as a horizontal line above a person with outstretched arms, 大(dà, "big"), emphasizing the vastness or domain of heaven. Over time, the character evolved into an anthropomorphic representation of heaven, which later influenced its interpretation in classical texts.
+- **examples:**
+  - 夜( )幕( )降( )临(臨)，天( )边(邊)星( )光( )闪(閃)烁(爍)。
+    - Yèmù jiànglín, tiānbiān xīnguāng shǎnshuò.
+    - As night falls, starlight gleams on the horizon.
+  - 他仰望高空，祈( )求( )天( )佑( )众(眾)生( )。
+    - Tā yǎngwàng gāokōng, qíqiú tiānyòu zhòngshēng.
+    - He gazes up to the sky and prays for heaven's protection over all living beings.
 ### 糟糕 → 糟 → 曹 → 東
 - **definition:** east
 - **pinyin:** dōng
@@ -4925,8 +4807,8 @@
 - **pinyin:** n/a
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a small bag with a bottom
-  - **interpretation:** 𣒚 is a pictogram showing the outline of a small bag with a distinct bottom part, highlighting its function as a container.
+  - **description:** Depicts a bag with a bottom
+  - **interpretation:** The character 𣒚 visually represents a bag or container with a distinct base, emphasizing its use as a receptacle. This depiction is straightforward and reflects its meaning without additional phonetic or semantic components.
 ### 糟糕 → 糟 → 曹 → 東 → 橐 → 石
 - **definition:** stone
 - **pinyin:** shí
@@ -4996,23 +4878,23 @@
   - 囗
     - wéi
     - enclosure
+  - 曰
+    - yuē
+    - speak
   - 甘
     - gān
     - sweet
-  - 曰
-    - yuē
-    - to say
-  - 曹
-    - cáo
-    - office
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 東 (dōng, "east") + 東 (dōng, "east") ->
-    - pair; peer, same kind ->
-    - 囗 (wéi, "enclosure") added, later corrupted to 甘 (gān, "sweet") and 曰 (yuē, "to say") ->
-    - 曹 (cáo, "office")
-  - **interpretation:** 𣍘 is an intermediate form of 曹 (cáo, "office"), born from the ancient character 㯥 representing a pair or peer of similar items. It showcases character evolution where additional and corrupted components marked development.
+    - two bundles 東 (dōng, 'east') ->
+    - pair or peer, same kind ->
+    - 囗 (wéi, 'enclosure') added for distinction, later corrupted to 甘 ->
+    - bronze inscription ->
+    - 曰 (yuē, 'speak') in Seal Script ->
+    - 𣍘 ->
+    - modern 曹 (cáo, 'ministry; a surname')
+  - **interpretation:** 𣍘 is an intermediate form leading to 曹 (cáo, 'ministry; a surname'), developed from the concept of pairing bundles, evolving through the addition and eventual transformation of elements like 囗, 甘, and 曰. This character demonstrates the evolution of form through historical scripts, creating a distinct and recognizable modern entity.
 ### 糟糕 → 糟 → 曹 → 曲
 - **definition:** bent
 - **pinyin:** qū
@@ -5565,17 +5447,12 @@
 ### 过(過) → 辵 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 趾
-    - zhǐ
-    - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint with three toes and a sole ->
-    - stylized as 龰 ->
-    - derivative 趾 (zhǐ, "toe")
-  - **interpretation:** 龰 (yù, "stylized feet") is a pictographic representation of a footprint with toes pointing upward. This character illustrates the concept of feet and is derived to express foot-related meanings like in 趾 (zhǐ, "toe").
+    - Depicts a footprint pointing up ->
+    - stylized as 龰
+  - **interpretation:** 龰(yù, "stylized feet") represents a footprint with three toes pointing upwards, which differentiates it from other similar characters. Historically, this character visually depicts a foot, analogous to how certain hand-related characters show three fingers or claws.
 ### 过(過) → 辵 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5597,37 +5474,21 @@
 - **definition:** phonetic
 - **pinyin:** guō
 - **components:**
+  - 冎
+    - guǒ
+    - bamboo shoot
   - 口
     - kǒu
     - mouth
-  - 冎
-    - guǒ
-    - skeletal part
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - phonetic 冎 (guǒ, "skeletal part") + semantic 口 (kǒu, "mouth") ->
-    - used phonetically
-  - **interpretation:** The character 咼 (guō) combines the phonetic component 冎 (guǒ, "skeletal part") with the semantic component 口 (kǒu, "mouth") to suggest a sound related to the skeletal structure, used primarily in other phonetic iterations.
-### 过(過) → 咼 → 口
-- **definition:** mouth
-- **pinyin:** kǒu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts an open mouth.
-  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
-- **examples:**
-  - 他( )张(張)开(開)口( )，大( )声(聲)喊( )叫( )。
-    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
-    - He opened his mouth and shouted loudly.
-  - 这(這)口( )饭(飯)入( )口( )即( )化( )。
-    - Zhè kǒu fàn rùkǒu jíhuà.
-    - This mouthful of food melts in your mouth.
-  - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
-    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
-    - The little girl took a bite of the apple and smiled sweetly.
+    - Phonetic: 冎 (guǒ, "bamboo shoot") + Semantic: 口 (kǒu, "mouth") ->
+    - related to sounds involving the mouth ->
+    - phonetic usage
+  - **interpretation:** The character 咼 (guō, "phonetic") combines 口 (kǒu, "mouth") because sounds originate from the mouth, with 冎 (guǒ, "bamboo shoot") serving as the phonetic element. This indicates a sound produced with one's mouth.
 ### 过(過) → 咼 → 冎
-- **definition:** skeletal part
+- **definition:** bamboo shoot
 - **pinyin:** guǒ
 - **components:**
   - 骨
@@ -5663,6 +5524,23 @@
   - 老( )中( )医(醫)观(觀)察( )骨( )的( )脉(脈)络(絡)，寻(尋)找( )健( )康( )之( )秘( )。
     - Lǎo zhōngyī guānchá gǔ de màiluò, xúnzhǎo jiànkāng zhī mì.
     - The experienced Chinese doctor examines the bone structure to seek the secret of health.
+### 过(過) → 咼 → 口
+- **definition:** mouth
+- **pinyin:** kǒu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an open mouth.
+  - **interpretation:** The character 口(kǒu, 'mouth') is a straightforward pictogram that visually represents an open mouth. It is a fundamental character in the Chinese language, often used both as an independent word and as a component in more complex characters, lending a semantic association to ideas relating to speech, openings, or enclosures.
+- **examples:**
+  - 他( )张(張)开(開)口( )，大( )声(聲)喊( )叫( )。
+    - Tā zhāngkāi kǒu, dàshēng hǎnjiào.
+    - He opened his mouth and shouted loudly.
+  - 这(這)口( )饭(飯)入( )口( )即( )化( )。
+    - Zhè kǒu fàn rùkǒu jíhuà.
+    - This mouthful of food melts in your mouth.
+  - 小( )女( )孩( )咬( )了( )一( )口( )苹(蘋)果( )，露出甜美的笑容。
+    - Xiǎo nǚhái yǎole yī kǒu píngguǒ, lùchū tiánměi de xiàoróng.
+    - The little girl took a bite of the apple and smiled sweetly.
 ---
 ## 过(過)
 ### guò
@@ -6054,16 +5932,15 @@
   - 目
     - mù
     - eye
-  - 彡
-    - shān
-    - hair
+  - 耳
+    - ěr
+    - ear
 - **etymology:**
-  - **type:** phono-semantic compound
+  - **type:** ideogrammic compound
   - **description:**
-    - 目 (mù, "eye") + 彡 (shān, "hair") =
-    - eye with decorative elements ->
-    - phonetic or decorative usage
-  - **interpretation:** The character 𥏻 combines 目 (mù, "eye") and 彡 (shān, "hair") as a decorative phonetic element, suggesting its function was more to convey sound or specific stylistic nuances than distinct meaning. This character seems to serve a phonetic role with visual components, possibly in specific traditional text forms or contexts.
+    - 目 (mù, "eye") + 耳 (ěr, "ear") =
+    - combines sensory organs for discerning
+  - **interpretation:** The character 𥏻 combines the symbols for 'eye' and 'ear' to represent the idea of perceiving or discerning through multiple senses. It serves as an ideogram to convey the notion of making distinctions or being discerning.
 ### 伤(傷)心( ) → 伤(傷) → 𥏻 → 目
 - **definition:** eye
 - **pinyin:** mù
@@ -6083,22 +5960,20 @@
   - 雄( )鹰(鷹)展( )翅( )，双(雙)目( )炯( )炯( )看( )天( )际(際)。
     - Xióng yīng zhǎn chì, shuāng mù jiǒngjiǒng kàn tiānjì.
     - The eagle spreads its wings, its eyes piercingly gaze at the horizon.
-### 伤(傷)心( ) → 伤(傷) → 𥏻 → 彡
-- **definition:** hair
-- **pinyin:** shān
+### 伤(傷)心( ) → 伤(傷) → 𥏻 → 耳
+- **definition:** ear
+- **pinyin:** ěr
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts three strands of hair ->
-    - used to indicate three light rays in certain contexts
-  - **interpretation:** 彡(shān, "rays") originally depicted strands of hair but also came to represent light rays, reflecting a change in symbolic meaning over time. Its use as a representation of 'ornament' and in characters like 昜 and 參 highlights its versatility in indicating rays or decorative elements.
+  - **description:** Depicts an ear
+  - **interpretation:** The character 耳 (ěr, "ear") is a pictogram that visually represents an ear with its distinctive shape. This straightforward representation made it intuitive for ancient speakers to associate the character directly with the concept of an ear.
 - **examples:**
-  - 天( )空( )洒(灑)下( )金( )色( )的( )彡( )，大( )地( )迎( )来(來)温(溫)暖( )。
-    - Tiānkōng sǎ xià jīnsè de shān, dàdì yíng lái wēnnuǎn.
-    - The sky showers golden rays, and the earth welcomes warmth.
-  - 晨( )曦( )中( )的( )彡( )闪(閃)耀( )着(著)希( )望( )。
-    - Chénxī zhōng de shān shǎnyào zhe xīwàng.
-    - The rays in the morning light shine with hope.
+  - 音( )乐(樂)直( )入( )耳( )。
+    - Yīn yuè zhí rù ěr.
+    - The music goes straight to the ear.
+  - 他( )亲(親)耳( )听(聽)到( )谣(謠)言( )，心( )中( )充( )满(滿)疑( )虑(慮)。
+    - Tā qīn ěr tīng dào yáo yán, xīn zhōng chōng mǎn yí lǜ.
+    - He heard the rumor with his own ears, and his heart was filled with doubt.
 ### 伤(傷)心( ) → 伤(傷) → 力
 - **definition:** strength
 - **pinyin:** lì
@@ -6202,10 +6077,24 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
+  - **description:** Depicts a cloud of breath or vapor
+  - **interpretation:** The character 丂(kǎo, 'breath') represents a visual imagery of breath or exhalation, suggesting vapor or mist rising, which aligns with its meaning related to air or breath.
+### 伤(傷)心( ) → 伤(傷) → 昜 → 彡
+- **definition:** rays of light
+- **pinyin:** xiǎn
+- **etymology:**
+  - **type:** pictogram
   - **description:**
-    - Depicts a bent line suggesting a breath ->
-    - associated with 'breath'
-  - **interpretation:** The character 丂 is a simple pictogram depicting a short, bent line that can be associated with the physical act of breathing or an exhalation, indicating the initial concept of 'breath'.
+    - Depicts three strands of hair ->
+    - used to indicate three light rays in certain contexts
+  - **interpretation:** 彡(shān, "rays") originally depicted strands of hair but also came to represent light rays, reflecting a change in symbolic meaning over time. Its use as a representation of 'ornament' and in characters like 昜 and 參 highlights its versatility in indicating rays or decorative elements.
+- **examples:**
+  - 天( )空( )洒(灑)下( )金( )色( )的( )彡( )，大( )地( )迎( )来(來)温(溫)暖( )。
+    - Tiānkōng sǎ xià jīnsè de shān, dàdì yíng lái wēnnuǎn.
+    - The sky showers golden rays, and the earth welcomes warmth.
+  - 晨( )曦( )中( )的( )彡( )闪(閃)耀( )着(著)希( )望( )。
+    - Chénxī zhōng de shān shǎnyào zhe xīwàng.
+    - The rays in the morning light shine with hope.
 ### 伤(傷)心( ) → 心
 - **definition:** heart
 - **pinyin:** xīn

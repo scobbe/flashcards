@@ -2,11 +2,11 @@
   "simplified": "堇",
   "traditional": "堇",
   "pinyin": "jǐn",
-  "english": "burning",
+  "english": "man burned alive",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "大 (person) + 火 (fire) + 廿 (screaming mouth) = person burning in sacrificial ceremony",
-    "interpretation": "The character 堇(jǐn, 'burning') depicts a person being burned as part of a sacrificial rain-invoking ceremony, with a visible fire and a screaming mouth to emphasize the drastic and intense nature of the act.",
+    "description": "大(person) + 火(fire) below + 廿(open mouth) above = person being burned (sacrificial ceremony) -> invokes rain",
+    "interpretation": "The character 堇(jǐn, \"man burned alive\") visually represents a sacrificial ceremony intended to invoke rain, with the person 大 depicted over the fire 火, and the open mouth 廿 symbolizing the act of screaming or chanting during the ceremony.",
     "simplification": ""
   },
   "parts": [
@@ -26,7 +26,7 @@
       "char": "廿",
       "trad": "廿",
       "pinyin": "niàn",
-      "english": "screaming mouth"
+      "english": "open mouth"
     }
   ],
   "in_contemporary_usage": false,

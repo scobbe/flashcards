@@ -1,28 +1,15 @@
 {
   "simplified": "𢆶",
   "traditional": "𢆶",
-  "pinyin": "",
-  "english": "silk",
+  "pinyin": "n/a",
+  "english": "silk threads; little things",
   "etymology": {
-    "type": "variant form",
-    "description": "𢆶 -> ancient form of 茲(茲) (zī, 'now') -> variant form of 玆(玆) (zī, 'this')",
-    "interpretation": "The character 𢆶 is an ancient form that eventually evolved into or was replaced by the character 茲(茲) (zī, 'now'), which itself is a variant of 玆(玆) (zī, 'this'). The evolution indicates a transition in usage and form while retaining the phonetic value.",
+    "type": "ancient form",
+    "description": "𢆶 is an ancient form of 茲(茲) (zī, \"here; this\"), which is a variant of 玆(玆) (zī, \"here; this\")",
+    "interpretation": "The character 𢆶 is identified as an older, less commonly used version of the character 茲(茲) (zī, \"here; this\") in its historical script. It's primarily relevant for understanding script evolution in ancient contexts rather than contemporary usage.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "茲",
-      "trad": "茲",
-      "pinyin": "zī",
-      "english": "now"
-    },
-    {
-      "char": "玆",
-      "trad": "玆",
-      "pinyin": "zī",
-      "english": "this"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

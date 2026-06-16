@@ -5,15 +5,15 @@
   "english": "travel",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "㫃 (\"flag\") + 子 (\"child\") = a child holding a flag -> to travel",
-    "interpretation": "The character combines the image of a child and a flag, suggesting the notion of traveling, as a banner might be used for guidance or signaling while moving from one place to another.",
+    "description": "㫃 (\"flag\") + 子 (\"child\") = a child holding a flag (to travel)",
+    "interpretation": "The character 斿(斿) (yóu, \"travel\") visually conveys the idea of a child carrying a flag, symbolizing the concept of traveling or moving from place to place. The components work together to create a vivid image of travel.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "㫃",
       "trad": "㫃",
-      "pinyin": "fān",
+      "pinyin": "flag",
       "english": "flag"
     },
     {

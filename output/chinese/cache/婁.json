@@ -2,11 +2,11 @@
   "simplified": "婁",
   "traditional": "婁",
   "pinyin": "lóu",
-  "english": "phonetic component",
+  "english": "bundle",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "爪('hands') + 角 Phonetic ('horn') + 女('woman') -> Later: 母('mother') + 中('middle') + 女('daughter')",
-    "interpretation": "The character 婁 originally combined semantic 爪(爪) (zhǎo, \"hands\") and phonetic 角(角) (jiǎo, \"horn\") with the semantic 女(女) (nǚ, \"woman\") to possibly indicate some aspect of interaction or action involving women. Its later reanalysis as an ideogrammic compound with 母(母) (mǔ, \"mother\") and 女(女) (nǚ, \"daughter\") suggests a familial or generational context. The original meaning remains uncertain but was likely related to these components.",
+    "description": "爪(爪) (zhǎo, \"hands\") + 角(角) (jiǎo, \"horn\") as phonetic + 女(女) (nǚ, \"woman\") = combines hand and woman -> evolved into ideogrammic compound 母(母) (mǔ, \"mother\") + 中(中) (zhōng, \"middle\") + 女(女) (nǚ, \"daughter\")",
+    "interpretation": "Initially, the character 婁(lóu) combined elements representing hands and a woman for an uncertain meaning. It later evolved to symbolically represent familial relationships through the components of mother and daughter.",
     "simplification": ""
   },
   "parts": [
@@ -41,6 +41,22 @@
       "english": "middle"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他把木柴捆成一捆(他把木柴捆成一捆)，像一个大的婁(像一個大的婁)。",
+      "pinyin": "Tā bǎ mùchái kǔn chéng yī kǔn, xiàng yī gè dà de lóu.",
+      "english": "He bundled the firewood into a bundle, like a big bundle."
+    },
+    {
+      "chinese": "这些棉花要编成婁(這些棉花要編成婁)，才方便运输(才方便運輸)。",
+      "pinyin": "Zhèxiē miánhuā yào biān chéng lóu, cái fāngbiàn yùnshū.",
+      "english": "These cottons need to be woven into bundles for easy transportation."
+    },
+    {
+      "chinese": "他手里拿着一个婁(他手裡拿著一個婁)，里面装满了干草(裡面裝滿了乾草)。",
+      "pinyin": "Tā shǒu lǐ názhe yī gè lóu, lǐmiàn zhuāngmǎnle gāncǎo.",
+      "english": "He held a bundle, filled with hay, in his hand."
+    }
+  ]
 }

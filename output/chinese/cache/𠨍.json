@@ -4,9 +4,9 @@
   "pinyin": "two people facing each other",
   "english": "two people facing each other",
   "etymology": {
-    "type": "variant form",
-    "description": "Variant form of 卯(卯) (mǎo, \"fourth earthly branch\")",
-    "interpretation": "𠨍 is a variant form of 卯(卯) (mǎo, \"fourth earthly branch\"), traditionally depicting two interlocking components associated with the fourth earthly branch in the Chinese zodiac cycle.",
+    "type": "variant",
+    "description": "Variant of 卯(卯) (mǎo, \"4th Earthly Branch\")",
+    "interpretation": "The character 𠨍 is a rare variant of 卯(卯) (mǎo, \"4th Earthly Branch\"), reflecting an alternative way of writing the same zodiac branch without significant differences in meaning.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "卯",
       "trad": "卯",
       "pinyin": "mǎo",
-      "english": "fourth earthly branch"
+      "english": "4th Earthly Branch"
     }
   ],
   "in_contemporary_usage": false,

@@ -2,12 +2,12 @@
   "simplified": "药",
   "traditional": "藥",
   "pinyin": "yào",
-  "english": "medicine; remedy",
+  "english": "medicine; drug",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 艹(艹) (cǎo, \"grass\") + phonetic: 樂(樂) (lè, \"music\") = plant-based remedy -> medicine",
-    "interpretation": "藥(藥) (yào, \"medicine\") combines the semantic 艹(艹) (cǎo, \"grass\"), reflecting the use of plants in remedies, with the phonetic 樂(樂) (lè, \"music\"), indicating the sound element of the original character. This construction signifies plant-derived compounds for healing.",
-    "simplification": "藥(藥) was first simplified by the Republic of China as 葯(葯) with intended phonetic alignment, and later as 药(藥) in the People's Republic of China by replacing 樂(樂) with 乐(乐) (lè, \"joy\"), further simplified to 药(藥) using 约(约) (yuē, \"agreement\") for phonetic simplicity."
+    "description": "艹(艹) (cǎo, \"grass\") + 樂(樂) (lè, \"music/joy\") = plant-based substance associated with well-being -> medicine",
+    "interpretation": "The character 藥(yào, \"medicine\") combines the semantic component 艹(艹) (cǎo, \"grass\"), indicating its herbal nature, with the phonetic component 樂(樂) (lè, \"joy/music\"), suggesting a beneficial effect, to convey the idea of medicine or a healing substance.",
+    "simplification": "藥(藥) was simplified to 药(藥) by replacing the phonetic component 樂(樂) with the simpler 丶(丶) element, significantly reducing the number of strokes."
   },
   "parts": [
     {
@@ -20,25 +20,25 @@
       "char": "樂",
       "trad": "樂",
       "pinyin": "lè",
-      "english": "music"
+      "english": "music/joy"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "医生给我开药(醫生給我開藥)。",
-      "pinyin": "Yīshēng gěi wǒ kāi yào。",
-      "english": "The doctor prescribed me medicine."
+      "chinese": "我需要一些感冒药(我需要一些感冒藥)。",
+      "pinyin": "Wǒ xūyào yīxiē gǎnmào yào.",
+      "english": "I need some cold medicine."
     },
     {
-      "chinese": "病人生病了(病人生病了)，需要药治疗(需要藥治療)。",
-      "pinyin": "Bìngrén shēngbìng le， xūyào yào zhìliáo。",
-      "english": "The patient fell ill and needs medicine for treatment."
+      "chinese": "医生给我开了止痛药(醫生給我開了止痛藥)。",
+      "pinyin": "Yīshēng gěi wǒ kāile zhǐtòng yào.",
+      "english": "The doctor prescribed me painkillers."
     },
     {
-      "chinese": "古人常用药(古人常用藥)，以解百病(以解百病)。",
-      "pinyin": "Gǔrén cháng yòng yào， yǐ jiě bǎi bìng。",
-      "english": "Ancient people commonly used medicine to cure all ailments."
+      "chinese": "这种药可以帮助你睡眠(這種藥可以幫助你睡眠)。",
+      "pinyin": "Zhè zhǒng yào kěyǐ bāngzhù nǐ shuìmián.",
+      "english": "This medicine can help you sleep."
     }
   ]
 }

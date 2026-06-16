@@ -4,25 +4,12 @@
   "pinyin": "",
   "english": "phonetic",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, 'grass') + 喬(喬) (qiáo, 'tall') = phonetic component derived from 喬, with semantic emphasis on plant or vegetation",
-    "interpretation": "The character 𥏻 combines the semantic component 艹(艹) (cǎo, 'grass') indicating a relationship to plants or herbal medicines with the phonetic component derived from 喬(喬) (qiáo, 'tall'), suggesting a pronunciation. This combination suggests that the original usage was related to tall grasses or vegetation, with the phonetic component guiding pronunciation.",
+    "type": "pictogram",
+    "description": "Depicts a window",
+    "interpretation": "The character 𥏻 is an ancient pictographic representation of a window with window panes. It is primarily used as a phonetic component in other characters.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "艹",
-      "trad": "艹",
-      "pinyin": "cǎo",
-      "english": "grass"
-    },
-    {
-      "char": "喬",
-      "trad": "喬",
-      "pinyin": "qiáo",
-      "english": "tall"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

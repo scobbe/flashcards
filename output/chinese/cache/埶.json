@@ -5,8 +5,8 @@
   "english": "art",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木, \"tree\") + 丮(丮, \"to hold\") = a kneeling person planting a sapling into soil (土) -> planting -> art",
-    "interpretation": "The character 埶 (yì, \"art\") is an ideogrammic compound that originally depicted a person planting a sapling, symbolizing cultivation or nurturing skills, which is conceptually linked to the idea of \"art.\" It visually combines the concepts of a tree (木) and the action of holding (丮), representing the planting process.",
+    "description": "木(木, \"tree\") + 丮(丮, \"to hold\") -> kneeling person planting a sapling -> 坴(圥, soil) for 土, 木 corrupted to 坴, 丮 changed from 丸 -> 埶",
+    "interpretation": "埶 represents the concept of planting, showing a person holding and planting a sapling into soil. This imagery is appropriate for art as it reflects careful nurturing and creation. The character serves as the original form of 藝, reinforcing its association with cultivated skills.",
     "simplification": ""
   },
   "parts": [
@@ -19,7 +19,7 @@
     {
       "char": "丮",
       "trad": "丮",
-      "pinyin": "jǐ",
+      "pinyin": "jī",
       "english": "to hold"
     }
   ],

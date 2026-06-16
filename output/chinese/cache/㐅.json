@@ -5,11 +5,18 @@
   "english": "rock, mud, stone, or bamboo in the hole",
   "etymology": {
     "type": "pictogram",
-    "description": "㐅 depicts an unclear entity, connected in evolution to 五(五) (wǔ, 'five')",
-    "interpretation": "The character 㐅's original meaning is uncertain, but it forms the basis for characters like 五(五) (wǔ, 'five'), showing its significance in numerals and related contexts.",
+    "description": "㐅 depicts a simple form, potentially an early pictographic representation which later evolved into 五 (wǔ, \"five\") with additional strokes",
+    "interpretation": "The character 㐅 is an ancient pictogram found in the 『說文解字』 (Shuōwén Jiězì) that lacks a clear, singular interpretation. Its significance is seen in its influence on later characters like 五 (wǔ, \"five\"), where it served as a basic structure.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "五",
+      "trad": "五",
+      "pinyin": "wǔ",
+      "english": "five"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

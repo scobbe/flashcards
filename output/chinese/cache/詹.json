@@ -2,11 +2,11 @@
   "simplified": "詹",
   "traditional": "詹",
   "pinyin": "zhān",
-  "english": "prolong",
+  "english": "to carry by hand",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "言(言) (yán, \"words; to speak\") + 八(八) (bā, \"divide; breath coming from the mouth\") + 厃(厃) (wěi, \"danger\") -> speaking too much",
-    "interpretation": "The character 詹(詹) (zhān, \"prolong\") combines 言(言) (yán, \"words; to speak\") with 八(八) (bā, \"breath coming from the mouth\") and 厃(厃) (wěi, \"danger\") to convey the idea of talking extensively or excessively, suggesting that excessive speech might lead to danger or problems.",
+    "description": "言 (\"words, to speak\") + 八 (\"breath coming from the mouth; divide\") + 厃 (\"danger\") = speak too much",
+    "interpretation": "The character combines 言(言) (yán, \"words, to speak\"), 八(八) (bā, \"breath coming from the mouth; divide\"), and 厃 to suggest speaking excessively, perhaps to the point of causing trouble or reaching a dangerous limit.",
     "simplification": ""
   },
   "parts": [
@@ -14,21 +14,37 @@
       "char": "言",
       "trad": "言",
       "pinyin": "yán",
-      "english": "words; to speak"
+      "english": "words, to speak"
     },
     {
       "char": "八",
       "trad": "八",
       "pinyin": "bā",
-      "english": "divide; breath coming from the mouth"
+      "english": "breath coming from the mouth; divide"
     },
     {
       "char": "厃",
       "trad": "厃",
-      "pinyin": "wěi",
+      "pinyin": "",
       "english": "danger"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她用围裙兜着水果(她用圍裙兜著水果)，詹着几个苹果(詹著幾個蘋果)。",
+      "pinyin": "Tā yòng wéiqún dōu zhe shuǐguǒ, zhān zhe jǐ gè píngguǒ.",
+      "english": "She used her apron to hold the fruits, carrying a few apples by hand."
+    },
+    {
+      "chinese": "他小心地詹着水壶(他小心地詹著水壺)，怕洒出来(怕灑出來)。",
+      "pinyin": "Tā xiǎoxīn de zhān zhe shuǐhú, pà sǎ chūlái.",
+      "english": "He carefully carried the kettle by hand, afraid it would spill."
+    },
+    {
+      "chinese": "老人用手帕詹着糖果(老人用手帕詹著糖果)，送给孩子们(送給孩子們)。",
+      "pinyin": "Lǎorén yòng shǒupà zhān zhe tángguǒ, sòng gěi háizimen.",
+      "english": "The old man carried the candies by hand using a handkerchief and gave them to the children."
+    }
+  ]
 }

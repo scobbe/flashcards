@@ -1,0 +1,26 @@
+{
+  "simplified": "五",
+  "traditional": "五",
+  "pinyin": "wǔ",
+  "english": "five",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts palm lines representing five fingers",
+    "interpretation": "The character 五 depicts the palm lines seen when spreading out five fingers, providing a visual representation for the number five.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他每周工作五天(他每週工作五天)。",
+      "pinyin": "Tā měi zhōu gōngzuò wǔ tiān.",
+      "english": "He works five days a week."
+    },
+    {
+      "chinese": "我有五只猫(我有五隻貓)。",
+      "pinyin": "Wǒ yǒu wǔ zhī māo.",
+      "english": "I have five cats."
+    }
+  ]
+}

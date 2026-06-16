@@ -5,8 +5,8 @@
   "english": "ideogrammic compound",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "木(木) (mù, \"tree\") + 考(考) (kǎo, \"examine\") = analyze wood -> distinction between aged trees",
-    "interpretation": "The character 㯥(cáo, \"analyze\") combines 木(木) (mù, \"tree\") to signify something related to trees with 考(考) (kǎo, \"examine\") to convey the idea of closely analyzing the condition of wood. It suggests a thought process of scrutinizing or caring for trees or wooden materials, typically distinguishing aged or examined wood.",
+    "description": "木(木) (mù, \"tree\") + 天(天) (tiān, \"heaven\") = tree under heaven -> shade or cover under a tree",
+    "interpretation": "The character 㯥 describes a tree under the open sky, suggesting the broad canopy of a tree that provides shade or cover, aligning with its meaning of protection or covering.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "tree"
     },
     {
-      "char": "考",
-      "trad": "考",
-      "pinyin": "kǎo",
-      "english": "examine"
+      "char": "天",
+      "trad": "天",
+      "pinyin": "tiān",
+      "english": "heaven"
     }
   ],
   "in_contemporary_usage": false,

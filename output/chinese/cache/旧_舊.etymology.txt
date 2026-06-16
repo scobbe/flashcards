@@ -1,6 +1,4 @@
-[旧]
-Variant of 臼 .
-The reformative usage in simplified Chinese and Japanese that replaced 舊 can be analysed either as from an elimination of 雈 with glyphic alteration from 臼 to 旧 or as using a homophonic character.
+[旧] simplified/variant form of 舊.
 
 [舊]
 Phono-semantic compound ( 形聲 / 形声 , OC *ɡʷɯs ): semantic 雈 ( “ owl ” ) + phonetic 臼 ( OC *ɡuʔ ) .

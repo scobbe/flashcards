@@ -5,18 +5,11 @@
   "english": "partial phonetic",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a kneeling figure turning around with mouth open -> original form of 旡 -> related to 欠(欠) (qiàn, \"yawn\") depicting an open-mouthed figure",
-    "interpretation": "This character is a pictogram representing a person in a kneeling posture with an open mouth, which visually suggests the act of turning around or making a sound. It differs from 欠(欠) (qiàn, \"yawn\") in orientation, implying a backward rather than forward movement.",
+    "description": "Depicts a kneeling figure turning around with mouth open -> ancient form 㒫",
+    "interpretation": "The character 旡(jì, \"partial phonetic\") represents a figure that is kneeling and turning around with an open mouth, suggesting a posture or action of abstaining or being in a state of emptiness. It visually contrasts with 欠(欠) (qiàn, \"owe\"), which depicts an open-mouthed figure in a front-facing position. The depiction implies an action or state of having finished or abstaining, closely linked with this pictographic form's original function in the related compound 既(既) (jì, \"already\").",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "欠",
-      "trad": "欠",
-      "pinyin": "qiàn",
-      "english": "yawn"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

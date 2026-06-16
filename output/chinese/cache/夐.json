@@ -1,12 +1,12 @@
 {
   "simplified": "夐",
   "traditional": "夐",
-  "pinyin": "xuàn",
+  "pinyin": "xiòng",
   "english": "eminent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "穴(穴) (xué, \"cave\") + 目(目) (mù, \"eye\") + 手(手) (shǒu, \"hand\") holding 支(支) (zhī, \"branch\") -> conveying authority with an eye and a hand holding authority",
-    "interpretation": "The character 夐(xuàn, \"eminent\") combines a cave (穴) with an eye (目) and a hand (手) holding a stick (支) to symbolize authority and watchfulness, suggesting one who is in a position of power and eminence.",
+    "description": "穴(穴, \"cave\") + 目(目, \"eye\") + 支(支, \"hand holding a stick\") = authority asserted -> eminent",
+    "interpretation": "The combination of a cave or closed space with an eye suggests observation or vigilance, while the hand holding a stick implies authority or guidance. Together, these motifs imply a sense of prominence or eminence, as a figure who oversees and controls from a place of power.",
     "simplification": ""
   },
   "parts": [
@@ -23,16 +23,10 @@
       "english": "eye"
     },
     {
-      "char": "手",
-      "trad": "手",
-      "pinyin": "shǒu",
-      "english": "hand"
-    },
-    {
       "char": "支",
       "trad": "支",
       "pinyin": "zhī",
-      "english": "branch"
+      "english": "hand holding a stick"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,18 +5,11 @@
   "english": "twist",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts two entangled ropes -> original form of 糾(糾) (jiū, 'entangle')",
-    "interpretation": "丩(丩) (jiū, 'twist') visually represents two ropes intertwined, maintaining the concept of twisting or entangling. Its shape has influenced its derivative form 糾(糾) (jiū, 'entangle'), which reflects the same idea in modern usage.",
+    "description": "Depicts two entangled ropes -> to entangle; to intertwine",
+    "interpretation": "The character 丩(丩) (jiū, \"twist\") visually represents entangled ropes, symbolizing the concept of twisting or intertwining.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "糾",
-      "trad": "糾",
-      "pinyin": "jiū",
-      "english": "entangle"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

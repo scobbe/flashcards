@@ -5,16 +5,16 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 冎 + semantic 口 -> 咼",
-    "interpretation": "The character 咼(咼) (guō) combines the phonetic component 冎(冎) with the semantic component 口(口) (kǒu, \"mouth\") to form a sound-related character, where 冎 provides the sound value while 口 indicates a connection to speech or the mouth. The character functions primarily as a phonetic element in more complex characters.",
+    "description": "Phonetic 冎 (guǒ, 'bone') + Semantic 口 (kǒu, 'mouth') -> phonetic component",
+    "interpretation": "The character 咼 (guō) combines 冎 (guǒ, 'bone') for its phonetic value with 口 (kǒu, 'mouth') for the semantic aspect, forming a phonetic component used in various compounds.",
     "simplification": ""
   },
   "parts": [
     {
       "char": "冎",
       "trad": "冎",
-      "pinyin": "guā",
-      "english": "phonetic component"
+      "pinyin": "guǒ",
+      "english": "bone"
     },
     {
       "char": "口",
@@ -23,6 +23,22 @@
       "english": "mouth"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个字包括一个咼部件(這個字包括一個咼部件)。",
+      "pinyin": "Zhège zì bāokuò yīgè guō bùjiàn.",
+      "english": "This character includes a phonetic component 'guō'."
+    },
+    {
+      "chinese": "在汉字中(在漢字中)，咼是个常见的声旁(咼是個常見的聲旁)。",
+      "pinyin": "Zài hànzì zhōng, guō shì gè chángjiàn de shēngpáng.",
+      "english": "In Chinese characters, 'guō' is a common phonetic component."
+    },
+    {
+      "chinese": "一些古代汉字(一些古代漢字)，使用咼作为发音参考(使用咼作為發音參考)。",
+      "pinyin": "Yīxiē gǔdài hànzì, shǐyòng guō zuòwéi fāyīn cānkǎo.",
+      "english": "Some ancient Chinese characters used 'guō' as a phonetic reference."
+    }
+  ]
 }

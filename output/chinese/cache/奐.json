@@ -5,22 +5,22 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 夐 (eye and stick representing authority) + Semantic 廾 (hands representing abundance) -> abundance, eminence",
-    "interpretation": "The character combines elements that suggest abundance and authority, reflected by the hands and the symbol of governance, which aligns with the meaning of 'numerous' or 'abundant.'",
-    "simplification": "奂 is the simplified form of 奐, retaining the phonetic via reuse of the top component while removing the bottom 廾 (hands) for stroke reduction."
+    "description": "夐 (phonetic, 'eminent') + 廾 (semantic, 'two hands') -> notion of 'numerous, copious, abundant' with influence from oracle bones; borrowed for 'to change, swap'",
+    "interpretation": "奐(奐) (huàn, 'phonetic') combines the phonetic element 夐(夐) to convey ancient pronunciation and meaning, with 廾(廾) symbolizing 'two hands'. This suggests the original idea of abundance, which is reinforced by oracle bone script findings, but later borrowed for other meanings.",
+    "simplification": "奂 is a simplified form of 奐, created by reducing the two hands at the bottom to a single 大."
   },
   "parts": [
     {
       "char": "夐",
       "trad": "夐",
-      "pinyin": "xuàn",
+      "pinyin": "xiòng",
       "english": "eminent"
     },
     {
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
-      "english": "hands"
+      "english": "two hands"
     }
   ],
   "in_contemporary_usage": false,

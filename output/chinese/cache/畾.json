@@ -1,0 +1,22 @@
+{
+  "simplified": "畾",
+  "traditional": "畾",
+  "pinyin": "lěi",
+  "english": "stacked fields",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "田(田) (tián, \"field\") triplicated -> visualization of stacked fields",
+    "interpretation": "The character 畾(lěi, \"stacked fields\") is formed by stacking three 田(田) (tián, \"field\") components, symbolizing the idea of multiple fields piled on top of each other. This represents the concept of abundance or repetition in a spatial arrangement, commonly associated with fields.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

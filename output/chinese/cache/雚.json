@@ -4,18 +4,12 @@
   "pinyin": "guān",
   "english": "cry of waterfowl",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Originally depicted a stork -> same as 雈 -> phonetic 吅 (cry) added early in history -> current form 雚",
-    "interpretation": "The character 雚 began as a pictogram resembling a stork. To convey both its phonetic properties and its meaning related to the cries of waterfowl, the component 吅 was incorporated early on as an additional phonetic marker.",
-    "simplification": "Now written as 鸛(雚) (guàn, \"stork\") with 鸟(鳥) (niǎo, \"bird\") signifying a bird's cry."
+    "type": "pictogram",
+    "description": "Depicts a stork -> 吅(吅) (xuān, \"cry\") was added to reflect the bird's cry -> final form 雚 also used phonetically for crying waterfowl",
+    "interpretation": "The character originally depicted a stork and was later modified by adding 吅(吅) (xuān, \"cry\") to signify the bird's cry. It reflects the sound associated with waterfowl rather than a literal depiction.",
+    "simplification": ""
   },
   "parts": [
-    {
-      "char": "雈",
-      "trad": "雈",
-      "pinyin": "huán",
-      "english": "original form of 雚"
-    },
     {
       "char": "吅",
       "trad": "吅",

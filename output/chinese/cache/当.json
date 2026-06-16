@@ -4,10 +4,10 @@
   "pinyin": "dāng",
   "english": "to be; to work as",
   "etymology": {
-    "type": "Unorthodox variant of 當 / 当 . From cursive script .",
-    "description": "尚(尚) (shàng, \"still\") + 田(田) (tián, \"field\") = fields facing each other -> to face directly; to be",
-    "interpretation": "The character 當(当) (dāng, \"to be\") originated as a phono-semantic compound combining 尚(尚) (shàng, \"still\") for phonetic purposes with 田(田) (tián, \"field\") for semantic clues. The idea of fields facing each other represents facing responsibilities or a position directly. The simplified 当 is based on a cursive script of 當.",
-    "simplification": "当 is a cursive simplification of 當, streamlining the strokes for easier writing."
+    "type": "phono-semantic compound",
+    "description": "phonetic: 尚 (shàng, \"still\") + semantic: 田 (tián, \"field\") -> fields facing each other -> to be; to work as",
+    "interpretation": "The character 當 combines the phonetic element 尚 (shàng, \"still\") with the semantic element 田 (tián, \"field\") to illustrate the concept of facing fields, which extends metaphorically to notions of appropriate positioning or function, as in 'to be' or 'to work as.'",
+    "simplification": "In the simplified form 当, the component 尚 (shàng) is replaced with a simpler structure while maintaining the phonetic and conceptual elements connected with positioning or appropriateness."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他当医生(他當醫生)。",
-      "pinyin": "Tā dāng yīshēng.",
-      "english": "He works as a doctor."
+      "chinese": "他想当医生(他想當醫生)。",
+      "pinyin": "Tā xiǎng dāng yīshēng.",
+      "english": "He wants to be a doctor."
     },
     {
-      "chinese": "她当老师(她當老師)，辅导学生(輔導學生)。",
-      "pinyin": "Tā dāng lǎoshī, fǔdǎo xuéshēng.",
-      "english": "She works as a teacher, tutoring students."
+      "chinese": "她当时很生气(她當時很生氣)，不想和任何人说话(不想和任何人說話)。",
+      "pinyin": "Tā dāngshí hěn shēngqì, bù xiǎng hé rènhé rén shuōhuà.",
+      "english": "She was very angry at that time and didn't want to talk to anyone."
     },
     {
-      "chinese": "我当志愿者(我當志願者)，服务社会(服務社會)。",
-      "pinyin": "Wǒ dāng zhìyuànzhě, fúwù shèhuì.",
-      "english": "I work as a volunteer, serving society."
+      "chinese": "当老师很有挑战性(當老師很有挑戰性)。",
+      "pinyin": "Dāng lǎoshī hěn yǒu tiǎozhàn xìng.",
+      "english": "Being a teacher is very challenging."
     }
   ]
 }

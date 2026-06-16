@@ -5,8 +5,8 @@
   "english": "",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "匃(匃) (gài, \"lack\") + 曰(日) (yuē, \"say\") = phonetic 匃 with semantic meaning of 曰",
-    "interpretation": "The character 曷(hē) combines 匃(匃) (gài, \"lack\") as the phonetic component with 曰(日) (yuē, \"say\") as the semantic element, suggesting an association with speech or expression.",
+    "description": "phonetic 匃(匃) (gài, 'beg') + semantic 曰(曰) (yuē, 'say')",
+    "interpretation": "The character 曷(hē, '') combines 匃(gài, 'beg'), which provides the phonetic component, with 曰(yuē, 'say'), adding a semantic layer related to speaking or questioning. It was used in classical Chinese to indicate 'why' or 'how,' often in the context of questioning.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "匃",
       "trad": "匃",
       "pinyin": "gài",
-      "english": "lack"
+      "english": "beg"
     },
     {
       "char": "曰",

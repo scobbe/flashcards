@@ -5,8 +5,8 @@
   "english": "tool for digging",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts 辛 (xīn, 'chisel tool')",
-    "interpretation": "The character 丵 is a pictogram representing a chisel tool, which is used for digging. It is derived directly from the form of 辛, a character associated with tools and implements.",
+    "description": "Derived from 辛(辛) (xīn, \"bitter\"), stylized as a chisel tool",
+    "interpretation": "The character 丵 (zhuó, \"tool for digging\") is depicted as a chisel, emphasizing its function as a tool related to cutting or digging.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "辛",
       "trad": "辛",
       "pinyin": "xīn",
-      "english": "chisel tool"
+      "english": "bitter"
     }
   ],
   "in_contemporary_usage": false,

@@ -4,9 +4,9 @@
   "pinyin": "jiōng",
   "english": "closed",
   "etymology": {
-    "type": "ancient variant",
-    "description": "Ancient variant of 冂(冂) (jiōng, \"borders\"), depicts enclosure with 口(口) (kǒu, \"mouth\") inside -> closed",
-    "interpretation": "冋(冋) (jiōng, \"closed\") is an ancient variant of 冂(冂), traditionally depicting an enclosed space or area with 口(口) representing an enclosed mouth, symbolizing something that is closed or blocked off.",
+    "type": "ideogrammic compound",
+    "description": "冋 = 冂 (border) + 口 (mouth) -> a space enclosed by borders",
+    "interpretation": "The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "冂",
       "trad": "冂",
       "pinyin": "jiōng",
-      "english": "borders"
+      "english": "border"
     },
     {
       "char": "口",
@@ -23,6 +23,17 @@
       "english": "mouth"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个地方很冋(這個地方很冋)。",
+      "pinyin": "Zhè gè dìfāng hěn jiōng.",
+      "english": "This place is very closed."
+    },
+    {
+      "chinese": "他的眼睛半冋(他的眼睛半冋)，看起来很累(看起來很累)。",
+      "pinyin": "Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.",
+      "english": "His eyes are half-closed, looking very tired."
+    }
+  ]
 }

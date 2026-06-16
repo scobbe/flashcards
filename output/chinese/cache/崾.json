@@ -5,8 +5,8 @@
   "english": "high and steep",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "山(山) (shān, \"mountain\") + 隽(隽) (juàn, \"outstanding\") = semantic mountain + phonetic juàn -> high and steep",
-    "interpretation": "The character 崾 represents the concept of being high and steep by combining the semantic component 山(山) (shān, \"mountain\"), symbolizing elevation, with the phonetic component 隽(隽) (juàn, \"outstanding\") to convey the pronunciation and reinforce the lofty meaning.",
+    "description": "山(山) (shān, \"mountain\") + 幺(幺) (yāo, \"tiny; short\") = mountain with a narrow, lofty height -> high and steep",
+    "interpretation": "崾(崾) (yǎo, \"high and steep\") combines 山(山) (shān, \"mountain\") as the semantic element, representing the landscape, and 幺(幺) (yāo, \"tiny; short\") for its phonetic contribution, suggesting the narrowness or steepness of the terrain. This combination reflects the concept of a high and steep mountain.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "mountain"
     },
     {
-      "char": "隽",
-      "trad": "隽",
-      "pinyin": "juàn",
-      "english": "outstanding"
+      "char": "幺",
+      "trad": "幺",
+      "pinyin": "yāo",
+      "english": "tiny; short"
     }
   ],
   "in_contemporary_usage": false,

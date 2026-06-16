@@ -5,9 +5,9 @@
   "english": "old; past; worn",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 雈 (\"owl\") + phonetic: 臼 (jiù, \"mortar\") -> originally owl -> borrowed for \"old\"",
-    "interpretation": "舊 originally depicted an owl using 雈, with 臼 providing the phonetic element. It was later borrowed for its phonetic sound to represent the meaning 'old' instead. The owl meaning became obsolete as the character evolved.",
-    "simplification": "舊(舊) was simplified to 旧(舊) by removing the 雈 element and altering 臼 to 旧. This simplification used a homophonic character to maintain the pronunciation while reducing complexity."
+    "description": "雈(雈) (huán, 'owl') + 臼(臼) (jiù, 'mortar') = originally an owl -> phonetically borrowed for 'old'",
+    "interpretation": "舊(舊) combines the semantic component 雈(雈) representing an owl, and the phonetic component 臼(臼). It was later used for its phonetic value to represent the concept of 'old’ as this word sounded the same as a word meaning 'old'.",
+    "simplification": "舊(舊) was simplified to 旧(舊) by replacing 雈(雈) (huán, 'owl') with 日(日) (rì, 'sun'), which is visually simpler and retains some phonetic similarity."
   },
   "parts": [
     {
@@ -26,19 +26,19 @@
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "我有一辆旧自行车(我有一輛舊自行車)。",
-      "pinyin": "Wǒ yǒu yī liàng jiù zìxíngchē.",
-      "english": "I have an old bicycle."
+      "chinese": "这个旧房子很有历史(這個舊房子很有歷史)。",
+      "pinyin": "Zhège jiù fángzi hěn yǒu lìshǐ.",
+      "english": "This old house has a lot of history."
     },
     {
-      "chinese": "这个旧房子非常有历史(這個舊房子非常有歷史)。",
-      "pinyin": "Zhège jiù fángzi fēicháng yǒu lìshǐ.",
-      "english": "This old house is very historical."
+      "chinese": "他穿着旧鞋子(他穿著舊鞋子)，走了很长的路(走了很長的路)。",
+      "pinyin": "Tā chuānzhe jiù xiézi, zǒu le hěn cháng de lù.",
+      "english": "He wore old shoes and walked a long way."
     },
     {
-      "chinese": "他常常怀念旧时光(他常常懷念舊時光)。",
-      "pinyin": "Tā chángcháng huáiniàn jiù shíguāng.",
-      "english": "He often reminisces about the old days."
+      "chinese": "旧时光总是让人怀念(舊時光總是讓人懷念)。",
+      "pinyin": "Jiù shíguāng zǒng shì ràng rén huáiniàn.",
+      "english": "Old times always bring nostalgia."
     }
   ]
 }

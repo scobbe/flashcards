@@ -5,40 +5,40 @@
   "english": "skill; technique; method; art",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "行(行) (xíng, 'go') + phonetic: 朮(朮) (shù, 'millet plant') = movement/execution + phonetic cue -> skills or techniques in executing tasks",
-    "interpretation": "術(術) (shù, 'technique') combines the semantics of 行(行) (xíng, 'go') representing action or movement, with the phonetic component 朮(朮) (shù, 'millet plant'), which guides pronunciation. This combination conveys the idea of implementing processes, creating a word for skill or art in performing tasks.",
-    "simplification": "术 is a simplified form where 行(行) (xíng) and 朮(朮) (shù) are condensed to retain essential elements of the original character while reducing complexity."
+    "description": "行(行) (xíng, \"street; path\") as semantic component + 朮(朮) (zhú, \"glutinous millet\") as phonetic -> denotes paths or methods",
+    "interpretation": "The character 術(術) combines the meaning of a path or course, represented by 行(行) (xíng, \"street; path\"), with the phonetic cue from 朮(朮) (zhú, \"glutinous millet\") to convey the concept of methods or techniques like following a path.",
+    "simplification": "The simplified form 术(術) retains the core meaning without including the full representation of 行(行), streamlining the strokes while partially maintaining the phonetic element of 朮(朮)."
   },
   "parts": [
     {
       "char": "行",
       "trad": "行",
       "pinyin": "xíng",
-      "english": "go"
+      "english": "street; path"
     },
     {
       "char": "朮",
       "trad": "朮",
-      "pinyin": "shù",
-      "english": "millet plant"
+      "pinyin": "zhú",
+      "english": "glutinous millet"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他的绘画术独具匠心(他的繪畫術獨具匠心)。",
-      "pinyin": "Tā de huìhuà shù dú jù jiàngxīn.",
-      "english": "His painting technique is uniquely ingenious."
+      "chinese": "他的艺术水平很高(他的藝術水平很高)。",
+      "pinyin": "Tā de yìshù shuǐpíng hěn gāo.",
+      "english": "His artistic skill is very high."
     },
     {
-      "chinese": "现代医学依靠先进的治疗术(現代醫學依靠先進的治療術)，挽救了无数生命(挽救了無數生命)。",
-      "pinyin": "Xiàndài yīxué yīkào xiānjìn de zhìliáo shù, wǎnjiùle wúshù shēngmìng.",
-      "english": "Modern medicine relies on advanced treatment methods to save countless lives."
+      "chinese": "医生采用了新术(醫生採用了新術)，病人很快康复(病人很快康復)。",
+      "pinyin": "Yīshēng cǎiyòngle xīn shù, bìngrén hěn kuài kāngfù.",
+      "english": "The doctor used a new technique, and the patient recovered quickly."
     },
     {
-      "chinese": "她不断钻研烹饪术(她不斷鑽研烹飪術)。",
-      "pinyin": "Tā bùduàn zuānyán pēngrèn shù.",
-      "english": "She continuously studies the art of cooking."
+      "chinese": "学习一种新技能(學習一種新技能)需要时间(需要時間)。",
+      "pinyin": "Xuéxí yī zhǒng xīn jìnéng xūyào shíjiān.",
+      "english": "Learning a new skill takes time."
     }
   ]
 }

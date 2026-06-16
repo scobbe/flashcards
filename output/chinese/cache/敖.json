@@ -2,11 +2,11 @@
   "simplified": "敖",
   "traditional": "敖",
   "pinyin": "áo",
-  "english": "proud",
+  "english": "to go",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𫠤 (depicting a person with a headdress) -> person stylized as 夭 (young man walking) + 攴 (authority) added -> transformed into 𢾍 -> further stylized to incorporate 方",
-    "interpretation": "The character 敖(敖) (áo, \"proud\") evolved from a pictogram depicting a person with a headdress, which over time incorporated elements suggesting movement and authority. The final form integrates these elements to convey a sense of pride or authority in one's bearing.",
+    "description": "Pictogram of 𫠤 (person with headdress) -> stylized as 夭 (young man) -> 攴 (strike) added for authority -> transformed to 𢾍 with 方 (same pronunciation) stylization",
+    "interpretation": "Originally depicting a person, the character evolved to include components illustrating authority and movement, with the combination of symbols suggesting command or walking with purpose.",
     "simplification": ""
   },
   "parts": [
@@ -14,19 +14,19 @@
       "char": "夭",
       "trad": "夭",
       "pinyin": "yāo",
-      "english": "young man"
+      "english": "young"
     },
     {
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "authority"
+      "english": "strike"
     },
     {
       "char": "方",
       "trad": "方",
       "pinyin": "fāng",
-      "english": "square"
+      "english": "direction"
     }
   ],
   "in_contemporary_usage": false,

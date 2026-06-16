@@ -4,28 +4,41 @@
   "pinyin": "jī",
   "english": "small table",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a small table or stand",
-    "interpretation": "The character 几(幾) (jī, \"small table\") is a pictogram that visually represents a small table or a similar piece of furniture. Its form suggests the minimalist shape of such an object, emphasizing its practicality and simplicity.",
-    "simplification": "The simplified 几(幾) retains the basic pictorial representation while eliminating extra strokes found in the traditional form."
+    "type": "ideogrammic compound",
+    "description": "𢆶 (silk threads; little things) + 戍 (to guard against) = watching over the fine details -> meaning related to examination or cautious attention",
+    "interpretation": "The traditional character 幾 combines the ideas of fine, intricate details as represented by 𢆶 (silk threads) with the vigilance implied by 戍 (to guard against), emphasizing careful observation or examination. This reflects the care needed when dealing with small objects or tasks, originally extending to the notion of small tables or subtle quantities.",
+    "simplification": "As a standalone character, 几 simplified 幾 by omitting components, retaining the essence of smallness in its form."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "𢆶",
+      "trad": "𢆶",
+      "pinyin": "n/a",
+      "english": "silk threads; little things"
+    },
+    {
+      "char": "戍",
+      "trad": "戍",
+      "pinyin": "shù",
+      "english": "to guard against"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "请把书放在几上(請把書放在几上)。",
-      "pinyin": "Qǐng bǎ shū fàng zài jī shàng.",
-      "english": "Please put the book on the small table."
+      "chinese": "这个几很适合放在角落(這個几很適合放在角落)。",
+      "pinyin": "Zhège jī hěn shìhé fàng zài jiǎoluò.",
+      "english": "This small table is perfect for placing in the corner."
     },
     {
-      "chinese": "那张几很漂亮(那張几很漂亮)，吸引了许多目光(吸引了許多目光)。",
-      "pinyin": "Nà zhāng jī hěn piàoliang, xīyǐnle xǔduō mùguāng.",
-      "english": "That small table is very beautiful, attracting many gazes."
+      "chinese": "他用几来支撑他的书本(他用几來支撐他的書本)。",
+      "pinyin": "Tā yòng jī lái zhīchēng tā de shūběn.",
+      "english": "He uses the small table to support his books."
     },
     {
-      "chinese": "客厅里的几透露出古典韵味(客廳裡的几透露出古典韻味)，让人感觉舒适(讓人感覺舒適)。",
-      "pinyin": "Kètīng lǐ de jī tòulù chū gǔdiǎn yùnwèi, ràng rén gǎnjué shūshì.",
-      "english": "The small table in the living room exudes a classical charm, making people feel comfortable."
+      "chinese": "几上的花瓶非常精美(几上的花瓶非常精美)。",
+      "pinyin": "Jī shàng de huāpíng fēicháng jīngměi.",
+      "english": "The vase on the small table is very exquisite."
     }
   ]
 }

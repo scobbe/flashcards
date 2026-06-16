@@ -5,11 +5,17 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic 丷 (divide) + phonetic 豕 (shǐ, \"pig\") -> originally related to the concept of complying",
-    "interpretation": "The character 㒸 (suì) combines the phonetic element 豕 (shǐ, \"pig\") with the semantic element 丷 (meaning \"divide\"). While the semantic link is unclear, the phonetic component 豕 (shǐ, \"pig\") provides the foundation for pronunciation in related terms like 遂(遂) (suì, \"comply\").",
+    "description": "丷(丷, semantic 'divide') + 豕(豕, phonetic 'pig') = link to 'comply, follow along' unclear",
+    "interpretation": "The character 㒸 combines the semantic element 丷(丷) (used here without clear semantic contribution) with the phonetic element 豕(豕) (shǐ, 'pig'). This character is an ancestral form sometimes found in the historical lineage of related words like 遂(遂) (suì, 'to follow' or 'to comply').",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "丷",
+      "trad": "丷",
+      "pinyin": "bā",
+      "english": "divide"
+    },
     {
       "char": "豕",
       "trad": "豕",

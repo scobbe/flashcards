@@ -1,20 +1,20 @@
 {
   "simplified": "呙",
-  "traditional": "咼",
+  "traditional": "呙",
   "pinyin": "guō",
   "english": "pot",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic 冎(冎) (guā, \"jawbone\") + semantic 口(口) (kǒu, \"mouth\") = 咼(咼) -> sound with semantic element",
-    "interpretation": "The traditional character 咼(咼) (guō, \"pot\") combines the phonetic element 冎(冎) (guā, \"jawbone\") with the semantic element 口(口) (kǒu, \"mouth\"), suggesting a mouth-like opening of a vessel or pot.",
-    "simplification": "咼(咼) was simplified to 呙(呙) by replacing 冎(冎) (guā, \"jawbone\") with 冂(冂) (jiōng, \"open enclosure\") and changing the internal structure."
+    "description": "phonetic 冎(冎) (guǒ, \"skull\") + semantic 口(口) (kǒu, \"mouth\") -> evokes a container, leading to meaning \"pot\"",
+    "interpretation": "The character 呙(呙) combines the phonetic component 冎(冎) (guǒ, \"skull\") with the semantic element 口(口) (kǒu, \"mouth\") to represent an object that is open and hollow, fitting the meaning of a \"pot.\" This blend of sounds and meanings suggests a container-like object.",
+    "simplification": ""
   },
   "parts": [
     {
       "char": "冎",
       "trad": "冎",
-      "pinyin": "guā",
-      "english": "jawbone"
+      "pinyin": "guǒ",
+      "english": "skull"
     },
     {
       "char": "口",

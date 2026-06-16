@@ -2,14 +2,21 @@
   "simplified": "雈",
   "traditional": "雈",
   "pinyin": "huán",
-  "english": "original form of 雚",
+  "english": "owl",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a bird often in association with 雚(雚) (guàn, \"bittern\")",
-    "interpretation": "The character 雈 is a pictogram representing a bird, possibly reflecting features or behaviors of large wading birds or those dwelling in wetlands, such as the bittern. It serves as an early form closely related to or associated with 雚(雚) (guàn, \"bittern\"), indicating an origin focused on avian imagery.",
+    "description": "Depicts an owl sitting on a tree",
+    "interpretation": "The character 雈 (huán, \"owl\") is a pictogram illustrating an owl perched in a tree, conveying the idea visually through its form. The resemblance of 雈 to the related character 雚 (guàn, \"reed\") illustrates how similar graphical elements can lead to different meanings.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "雚",
+      "trad": "雚",
+      "pinyin": "guàn",
+      "english": "reed"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

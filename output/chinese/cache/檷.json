@@ -5,8 +5,8 @@
   "english": "loom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "木(木) (mù, \"wood\") + phonetic: 兒(兒) (ní) = wooden structure for weaving -> loom",
-    "interpretation": "The character 檷 (nǐ, \"loom\") combines 木(木) (mù, \"wood\"), indicating the material typically associated with looms, with the phonetic component 兒(兒) (ní) to convey the sound.",
+    "description": "木(木) (mù, 'wood') + phonetic 爾(爾) (ěr) = loom",
+    "interpretation": "The character 檷(nǐ, 'loom') combines 木(木) (mù, 'wood'), indicating a wooden structure, with the phonetic component 爾(爾) (ěr) to convey the idea of a loom, an apparatus traditionally made of wood.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "wood"
     },
     {
-      "char": "兒",
-      "trad": "兒",
-      "pinyin": "ní",
-      "english": "child"
+      "char": "爾",
+      "trad": "爾",
+      "pinyin": "ěr",
+      "english": "you"
     }
   ],
   "in_contemporary_usage": false,

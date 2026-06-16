@@ -5,22 +5,16 @@
   "english": "soft (phonetic)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 聿(聿) (yù, 'writing brush') + semantic component 無(無) (wú, 'not') = sound marker for 'soft'",
-    "interpretation": "The character 𦘒 is a phono-semantic compound combining 聿(聿) (yù, 'writing brush') for its phonetic contribution with 無(無) (wú, 'not') providing a semantic element that loosely contributes to the idea of 'softness', although it functions primarily as a phonetic marker in this context.",
+    "description": "⺕ (hand holding a brush, phonetic) + 𦘒 (semantic variant) = related to softness in phonetic approximation",
+    "interpretation": "𦘒 combines a component symbolizing 'hand holding a brush' to convey the phonetic sound, with the rest of the character suggesting softness, likely borrowing phonetic elements from the brush symbolism.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "聿",
+      "char": "⺕",
       "trad": "聿",
       "pinyin": "yù",
-      "english": "writing brush"
-    },
-    {
-      "char": "無",
-      "trad": "無",
-      "pinyin": "wú",
-      "english": "not"
+      "english": "brush"
     }
   ],
   "in_contemporary_usage": false,

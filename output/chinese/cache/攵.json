@@ -1,12 +1,12 @@
 {
   "simplified": "攵",
-  "traditional": "攴",
+  "traditional": "攵",
   "pinyin": "pū",
-  "english": "tap",
+  "english": "action",
   "etymology": {
     "type": "pictogram",
-    "description": "又(又) (yòu, \"hand\") + tool -> hand holding a tool -> stylized as 卜(卜) (bǔ, \"divine\")",
-    "interpretation": "The character 攴 originally depicted a hand holding a tool or weapon, indicating the action of hitting. Over time, the tool part evolved into the stylized form 卜, which serves a phonetic function, but the overall meaning still relates to striking or tapping.",
+    "description": "Depicts a hand 又(又) (yòu, \"hand\") holding a tool, stylized as 卜(卜) (bǔ, \"divination\") -> meaning \"to hit\"",
+    "interpretation": "攵 is a stylized pictogram originally depicting a hand holding a tool or weapon, representing action or hitting. The hand component evolved into a more uniform stylistic form using 卜(卜) while preserving the core meaning.",
     "simplification": ""
   },
   "parts": [
@@ -20,20 +20,20 @@
       "char": "卜",
       "trad": "卜",
       "pinyin": "bǔ",
-      "english": "divine"
+      "english": "divination"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他轻轻攵了门(他輕輕攵了門)。",
-      "pinyin": "Tā qīngqīng pū le mén.",
-      "english": "He tapped the door gently."
+      "chinese": "他埋怨我的方式(他埋怨我的方式)总是冲动而不经过思考(總是衝動而不經過思考)。",
+      "pinyin": "Tā mányuàn wǒ de fāngshì zǒng shì chōngdòng ér bù jīngguò sīkǎo.",
+      "english": "He complains that my actions are always impulsive and thoughtless."
     },
     {
-      "chinese": "当电话响起时(當電話響起時)，他用手指攵了桌子(他用手指攴了桌子)。",
-      "pinyin": "Dāng diànhuà xiǎngqǐ shí, tā yòng shǒuzhǐ pū le zhuōzi.",
-      "english": "When the phone rang, he tapped the table with his finger."
+      "chinese": "需要的不是空谈(需要的不是空談)，而是切实的行动(而是切實的行動)。",
+      "pinyin": "Xūyào de bù shì kōngtán, ér shì qiēshí de xíngdòng.",
+      "english": "What is needed is not empty talk, but concrete action."
     }
   ]
 }

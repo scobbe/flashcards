@@ -1,26 +1,44 @@
 {
   "simplified": "厂",
   "traditional": "廠",
-  "pinyin": "hǎn",
+  "pinyin": "chǎng",
   "english": "cliff",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a cliff or overhang",
-    "interpretation": "The character 厂(hǎn, 'cliff') originally depicts a cliff or overhang, representing the natural landscape feature. This simple depiction efficiently conveys its meaning as a pictograph, illustrating the sloping edge and steepness of a cliff.",
-    "simplification": "厂(hǎn, 'factory') is the simplified form of 廠, where the character was reduced to its more basic pictogram form for modern usage, representing both 'cliff' and 'factory'."
+    "type": "phono-semantic compound",
+    "description": "semantic 广 (guǎng, \"shelter\") + phonetic 敞 (chǎng, \"open; spacious\") -> factory",
+    "interpretation": "The character 廠 (chǎng, \"factory\") combines the semantic element 广 (guǎng, \"shelter\") with the phonetic element 敞 (chǎng, \"open; spacious\"), suggesting a large, open building used for production, akin to a factory.",
+    "simplification": "厂 is a simplified form by removing the phonetic component 敞 while retaining the basic shelter concept from 广, streamlining it to represent 'cliff' or 'factory'."
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "广",
+      "trad": "廣",
+      "pinyin": "guǎng",
+      "english": "shelter"
+    },
+    {
+      "char": "敞",
+      "trad": "敞",
+      "pinyin": "chǎng",
+      "english": "open; spacious"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他站在高厂边(他站在高厂邊)，凝视远处海浪(凝視遠處海浪)。",
-      "pinyin": "Tā zhàn zài gāo hǎn biān, níng shì yuǎn chù hǎi làng.",
-      "english": "He stands at the edge of the high cliff, gazing at the distant waves."
+      "chinese": "在高高的山顶(在高高的山頂)，有一个陡峭的厂(有一個陡峭的廠)。",
+      "pinyin": "Zài gāo gāo de shāndǐng, yǒu yī gè dǒu qiào de chǎng.",
+      "english": "At the top of the tall mountain, there is a steep cliff."
     },
     {
-      "chinese": "我们攀登陡厂壁(我們攀登陡厂壁)，体验大自然壮观(體驗大自然壯觀)。",
-      "pinyin": "Wǒmen pān dēng dǒu hǎn bì, tǐ yàn dà zì rán zhuàng guān.",
-      "english": "We climbed the steep cliff face, experiencing the grandeur of nature."
+      "chinese": "那座厂看起来很壮观(那座廠看起來很壯觀)。",
+      "pinyin": "Nà zuò chǎng kàn qǐ lái hěn zhuàng guān.",
+      "english": "That cliff looks very spectacular."
+    },
+    {
+      "chinese": "悬崖下有一片辽阔的海洋(懸崖下有一片遼闊的海洋)。",
+      "pinyin": "Xuányá xià yǒu yī piàn liáokuò de hǎiyáng.",
+      "english": "Below the cliff lies a vast ocean."
     }
   ]
 }

@@ -5,8 +5,8 @@
   "english": "to speak slowly",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "口(口) (kǒu, \"mouth\") + 壬(壬) (rén, \"ninth heavenly stem\") = mouth speaking slowly",
-    "interpretation": "The character 㕯 combines the element 口(口) (kǒu, \"mouth\") with 壬(壬) (rén, \"ninth heavenly stem\"), suggesting speech that is considered slow or deliberate. The use of these components signifies the control and modulation of speech.",
+    "description": "口 (mouth) + 永 (eternal/perpetual) = speaking slowly and continuously -> to speak slowly",
+    "interpretation": "The character 㕯 combines 口(口) (kǒu, \"mouth\") with 永(永) (yǒng, \"eternal\") to convey the idea of speaking continuously or in a prolonged manner, which aligns with the meaning of speaking slowly.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "mouth"
     },
     {
-      "char": "壬",
-      "trad": "壬",
-      "pinyin": "rén",
-      "english": "ninth heavenly stem"
+      "char": "永",
+      "trad": "永",
+      "pinyin": "yǒng",
+      "english": "eternal"
     }
   ],
   "in_contemporary_usage": false,

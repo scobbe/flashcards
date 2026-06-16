@@ -4,41 +4,41 @@
   "pinyin": "fā",
   "english": "issue; emit",
   "etymology": {
-    "type": "pictogram",
-    "description": "Pictogram of a bow firing an arrow; hand (攴(攴) (pū, \"tap\")) added later -> evolved into phonetic component 癹(癹) (bá) -> final form as phono-semantic",
-    "interpretation": "The original depiction of a bow and arrow represents the act of emitting or issuing, like launching an arrow. The hand component implies control, leading to the contemporary concept of issuing or emitting something.",
-    "simplification": "Simplified to 发(發) by merging functions of 髮(髮) (fà, \"hair\") in the 1956 Chinese Character Simplification Scheme, as both share the pronunciation."
+    "type": "phono-semantic compound",
+    "description": "Pictogram of bow shooting an arrow -> 攴 (hand) added, forming 㢭 -> phonetic 癹 added -> final form 發",
+    "interpretation": "The character originally depicted a bow shooting an arrow, symbolizing the idea of sending forth or releasing. The addition of the hand component indicates an action, while the phonetic 癹 contributes to the pronunciation.",
+    "simplification": "發 was simplified to 发 by removing the hand component 攴 and replacing 癹 with the grass radical 夂, retaining a similar sound."
   },
   "parts": [
     {
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "tap"
+      "english": "hand"
     },
     {
       "char": "癹",
       "trad": "癹",
-      "pinyin": "bá",
+      "pinyin": "bā",
       "english": "phonetic component"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "电台发出柔和的音乐(電台發出柔和的音樂)。",
-      "pinyin": "Diàntái fāchū róuhé de yīnyuè。",
-      "english": "The radio emits soft music."
+      "chinese": "老师发了作业(老師發了作業)。",
+      "pinyin": "Lǎoshī fā le zuòyè.",
+      "english": "The teacher issued an assignment."
     },
     {
-      "chinese": "厂房发出刺鼻的气味(廠房發出刺鼻的氣味)。",
-      "pinyin": "Chǎngfáng fāchū cìbí de qìwèi。",
-      "english": "The factory emits a pungent odor."
+      "chinese": "他生气时就会发火(他生氣時就會發火)。",
+      "pinyin": "Tā shēngqì shí jiù huì fāhuǒ.",
+      "english": "He emits anger when he gets mad."
     },
     {
-      "chinese": "汽车发出急促的鸣笛(汽車發出急促的鳴笛)，警告行人靠边行走(警告行人靠邊行走)。",
-      "pinyin": "Qìchē fāchū jí cù de míngdí, jǐnggào xíngrén kào biān xíngzǒu。",
-      "english": "The car emits a rapid honk, warning pedestrians to move aside."
+      "chinese": "公司发了奖金(公司發了獎金)，员工都很高兴(員工都很高興)。",
+      "pinyin": "Gōngsī fā le jiǎngjīn, yuángōng dōu hěn gāoxìng.",
+      "english": "The company issued a bonus, and all the employees were very happy."
     }
   ]
 }

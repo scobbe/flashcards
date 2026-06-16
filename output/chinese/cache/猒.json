@@ -5,8 +5,8 @@
   "english": "phonetic element",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "犬(犬) (quǎn, \"dog\") + 口(口) (kǒu, \"mouth\") + ⺼(⺼) (ròu, \"meat\") = dog eating meat -> \"satisfied\" -> 口 corrupted into 甘(甘) (gān, \"sweet\") then 日(日) (rì, \"sun\")",
-    "interpretation": "The character depicts a dog eating, symbolizing contentment or satisfaction from a meal. Over time, the components transformed, with 口 evolving into 甘, which ultimately became 日 in its modern form.",
+    "description": "犬(犬) (quǎn, \"dog\") + 口(口) (kǒu, \"mouth\") + ⺼(⺼) (ròu, \"meat\") -> dog eating meat with mouth -> satisfaction",
+    "interpretation": "The character 猒(yàn) originally depicted a dog eating meat with its mouth, conveying the idea of being satisfied. Over time, the component for mouth transformed into 甘(gān, \"sweet\") and later into 日(rì, \"sun\") in the modern form.",
     "simplification": ""
   },
   "parts": [
@@ -27,18 +27,6 @@
       "trad": "⺼",
       "pinyin": "ròu",
       "english": "meat"
-    },
-    {
-      "char": "甘",
-      "trad": "甘",
-      "pinyin": "gān",
-      "english": "sweet"
-    },
-    {
-      "char": "日",
-      "trad": "日",
-      "pinyin": "rì",
-      "english": "sun"
     }
   ],
   "in_contemporary_usage": false,

@@ -2,25 +2,25 @@
   "simplified": "敝",
   "traditional": "敝",
   "pinyin": "bì",
-  "english": "rags",
+  "english": "to damage",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 廾(廾) (gǒng, \"two hands\") + phonetic: 㡀(㡀) (bì, \"cloak\") = hands holding a torn cloak -> rags",
-    "interpretation": "The character 敝(bì, \"rags\") uses the 廾(廾) (gǒng, \"two hands\") as a semantic component to indicate actions done by hands, combined with the phonetic 㡀(㡀) (bì, \"cloak\") to suggest a worn or torn piece of clothing.",
+    "description": "巾(巾) (jīn, \"cloth\") + 攴(攴) (pū, \"rap\") -> cloth with dust/dirt -> final form 敝",
+    "interpretation": "The character 敝 originally combined the phonetic element 巾(巾) (jīn, \"cloth\") with the semantic 攴(攴) (pū, \"rap\"), symbolizing worn or damaged cloth. The left component evolved to emphasize accumulation of dirt or dust, reinforcing the meaning of things being worn or damaged.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "廾",
-      "trad": "廾",
-      "pinyin": "gǒng",
-      "english": "two hands"
+      "char": "巾",
+      "trad": "巾",
+      "pinyin": "jīn",
+      "english": "cloth"
     },
     {
-      "char": "㡀",
-      "trad": "㡀",
-      "pinyin": "bì",
-      "english": "cloak"
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "rap"
     }
   ],
   "in_contemporary_usage": false,

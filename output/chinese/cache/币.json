@@ -4,41 +4,41 @@
   "pinyin": "bì",
   "english": "currency",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "巾(巾) (jīn, \"cloth\") + 戲(戲) (xì, \"play\") = ceremonial cloth bundled for trade or offerings -> currency",
-    "interpretation": "The traditional character 幣 (bì, \"currency\") is composed of 巾(巾) (jīn, \"cloth\") suggesting textiles, a common trade item, combined with 戲(戲) (xì, \"play\") originally meaning a bundle or a certain wrapping. This reflects the original use of cloth for barter or ceremonial exchanges, thus developing the meaning of 'currency'.",
-    "simplification": "币(幣): The character 敝(幣) (bì, \"tattered\") was simplified by replacing the lower component 戲 (xì, \"play\") with a single stroke 丿, simplifying the form significantly while retaining the top 巾(巾) (jīn, \"cloth\")."
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 敝 (bi) + Semantic: 巾 (cloth) = silk given as a gift or sacrificed",
+    "interpretation": "The character depicts silk or cloth, represented by the 巾(巾) (jīn, \"cloth\") component, used as a currency or gift, with the phonetic element 敝(敝) (bì, \"to damage\"), indicating the sound. This reflects the historical practice of presenting cloth or silk as a form of currency.",
+    "simplification": "幣(幣) was simplified to 币(幣) by removing the 巾(巾) (jīn, \"cloth\") radical and retaining only the phonetic component to denote currency in modern script."
   },
   "parts": [
+    {
+      "char": "敝",
+      "trad": "敝",
+      "pinyin": "bì",
+      "english": "to damage"
+    },
     {
       "char": "巾",
       "trad": "巾",
       "pinyin": "jīn",
       "english": "cloth"
-    },
-    {
-      "char": "戲",
-      "trad": "戲",
-      "pinyin": "xì",
-      "english": "play"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "比特币(比特幣)价格波动大(價格波動大)。",
-      "pinyin": "Bǐtè bì jiàgé bōdòng dà.",
-      "english": "Bitcoin prices fluctuate greatly."
+      "chinese": "人民币(人民幣)是中国的法定货币(是中國的法定貨幣)。",
+      "pinyin": "Rénmínbì shì Zhōngguó de fǎdìng huòbì.",
+      "english": "The Renminbi is the official currency of China."
     },
     {
-      "chinese": "在国际市场上(在國際市場上)，电子币(電子幣)交易频繁(交易頻繁)。",
-      "pinyin": "Zài guójì shìchǎng shàng, diànzǐ bì jiāoyì pínfán.",
-      "english": "On the international market, digital currency transactions occur frequently."
+      "chinese": "他收集了很多古代的硬币(他收集了很多古代的硬幣)。",
+      "pinyin": "Tā shōujíle hěn duō gǔdài de yìngbì.",
+      "english": "He collected many ancient coins."
     },
     {
-      "chinese": "古代时(古代時)，实物币(實物幣)为贸易提供便利(為貿易提供便利)。",
-      "pinyin": "Gǔdài shí, shíwù bì wèi màoyì tígōng biànlì.",
-      "english": "In ancient times, commodity currency provided convenience for trade."
+      "chinese": "在市场上(在市場上)，不同的货币有不同的价值(不同的貨幣有不同的價值)。",
+      "pinyin": "Zài shìchǎng shàng, bùtóng de huòbì yǒu bùtóng de jiàzhí.",
+      "english": "In the market, different currencies have different values."
     }
   ]
 }

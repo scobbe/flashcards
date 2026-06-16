@@ -1,2 +1,4 @@
-[电]
-simplified form of 電
+[电] simplified/variant form of 電.
+
+[電]
+Phono-semantic compound ( 形聲 / 形声 , OC *l'iːns ): semantic 雨 ( “ rain ” ) + phonetic 申 ( OC *hlin ) ; also ideogrammic ( 會意 / 会意 ): 雨 + 申 (“lightning”).

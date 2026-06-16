@@ -5,35 +5,40 @@
   "english": "reed; rush; bottle gourd",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艸) (cǎo, \"grass\") + 盧(盧) (lú, \"black\") = grass or plant related -> reed",
-    "interpretation": "The character combines the semantic 艹(艸) (cǎo, \"grass\") indicating it is a type of plant and the phonetic 盧(盧) (lú, \"black\") to suggest its pronunciation. This makes it intuitive as a representation of 'reed.'",
-    "simplification": "蘆(蘆)→芦(蘆): 盧(盧) (lú, \"black\") is replaced with a simplified form to reduce complexity."
+    "description": "艹 ('plant') + 盧 ('phonetic') -> plant with hollow stems ('reed; rush')",
+    "interpretation": "The character 蘆 combines the semantic 艹 (艹, 'plant') with the phonetic component 盧 (盧, 'phonetic') to depict a plant, specifically reeds or rushes, known for their hollow stems.",
+    "simplification": "蘆(蘆) was simplified to 芦(蘆) by retaining 艹 (艹, 'plant') and replacing 盧 (盧) with simpler components representing sound and meaning."
   },
   "parts": [
     {
       "char": "艹",
-      "trad": "艸",
+      "trad": "艹",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "plant"
     },
     {
       "char": "盧",
       "trad": "盧",
       "pinyin": "lú",
-      "english": "black"
+      "english": "phonetic"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "湖边生长着茂盛的芦(蘆)。",
-      "pinyin": "Hú biān shēngzhǎng zhe màoshèng de lú.",
-      "english": "Reeds grow luxuriantly by the lake."
+      "chinese": "湖边长满了芦苇(湖邊長滿了蘆葦)。",
+      "pinyin": "Hú biān zhǎng mǎn le lúwěi.",
+      "english": "The lakeside is full of reeds."
     },
     {
-      "chinese": "河岸上芦(蘆)随风摇曳(隨風搖曳)，发出沙沙声(發出沙沙聲)。",
-      "pinyin": "Hé àn shàng lú suí fēng yáoyè, fāchū shā shā shēng.",
-      "english": "The reeds on the riverbank sway in the wind, producing a rustling sound."
+      "chinese": "他用芦杆(他用蘆杆)做了一个风筝(做了一個風箏)。",
+      "pinyin": "Tā yòng lǔgǎn zuò le yī gè fēngzhēng.",
+      "english": "He made a kite using reed stalks."
+    },
+    {
+      "chinese": "芦笛的声音(蘆笛的聲音)在夜晚很悦耳(在夜晚很悅耳)。",
+      "pinyin": "Lúdí de shēngyīn zài yèwǎn hěn yuè'ěr.",
+      "english": "The sound of the reed flute is very pleasant at night."
     }
   ]
 }

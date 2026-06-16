@@ -1,0 +1,11 @@
+[胃]
+Pictogram ( 象形 ): a stomach with food inside, originally appearing as 𱕻 . A semantic 肉 was added later to differentiate.
+The bronze script form merely consisted of two concentric circles. An inner portion of the character was later added, namely a mutated form of the seal script character of 米 ("rice"), representing grains within the stomach (see also 鬯 ).
+The character looked like 𦞅 in the small seal script. In the clerical script form, the upper component was simplified to the unrelated 田 as an instance of libian simplification.
+The ancient form of the character can be seen within the lower component of 𦳊 .
+
+[胄]
+Diverged from a variant of 冑 ( OC *l'ɯwɢs ). Now a phono-semantic compound ( 形聲 / 形声 , OC *l'ɯwɢs ): semantic 肉 + phonetic 由 ( OC *lɯw ) .
+
+[冑]
+Phono-semantic compound ( 形聲 / 形声 , OC *l'ɯwɢs ): semantic 冃 + phonetic 由 ( OC *lɯw ) .

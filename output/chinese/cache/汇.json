@@ -1,39 +1,50 @@
 {
   "simplified": "汇",
-  "traditional": "匯",
+  "traditional": "彙",
   "pinyin": "huì",
   "english": "collection; to collect",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 氵(氵) (shuǐ, \"water\") + phonetic: 匚(匚) (fāng, \"box\") = water flowing together -> to collect, to converge",
-    "interpretation": "The character 汇(匯) combines the semantic element of water, suggesting flow or gathering, with a phonetic component suggesting containment, which together convey the idea of collecting or converging, much like water pooling together.",
-    "simplification": "汇(匯): The simplified form uses 匚(匚) (fāng, \"box\") as a direct visual and phonetic component, replacing 龠(龠) (yuè, \"flute\") for a more concise representation."
+    "description": "Semantic: 㣇 (silk threads); Phonetic: 胃 (wèi, \"stomach\")",
+    "interpretation": "The character 彙 combines the semantic component 㣇, which indicates a collection or grouping, with the phonetic element 胃 (wèi, \"stomach\"), suggesting a relation to accumulation or gathering. This illustrates the idea of assembling or collecting items, akin to gathering threads.",
+    "simplification": "汇(彙): The simplified form replaces 㣇 with 氵(shuǐ, \"water\"), retaining phonetic similarity while reducing strokes."
   },
   "parts": [
+    {
+      "char": "㣇",
+      "trad": "㣇",
+      "pinyin": "n/a",
+      "english": "silk threads"
+    },
+    {
+      "char": "胃",
+      "trad": "胃",
+      "pinyin": "wèi",
+      "english": "stomach"
+    },
     {
       "char": "氵",
       "trad": "氵",
       "pinyin": "shuǐ",
       "english": "water"
-    },
-    {
-      "char": "匚",
-      "trad": "匚",
-      "pinyin": "fāng",
-      "english": "box"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他每天在图书馆收集文献(他每天在圖書館收集文獻)，汇成一部史诗(彙成一部史詩)。",
-      "pinyin": "Tā měitiān zài túshūguǎn shōují wénxiàn huì chéng yī bù shǐshī.",
-      "english": "He collects documents in the library every day and turns them into an epic."
+      "chinese": "这个计划阶段需要大量的数据汇总(這個計劃階段需要大量的數據彙總)。",
+      "pinyin": "Zhège jìhuà jiēduàn xūyào dàliàng de shùjù huìzǒng.",
+      "english": "This phase of the plan requires a large amount of data collection."
     },
     {
-      "chinese": "邮局每天汇集邮件(郵局每天彙集郵件)，统一分送到各地(統一分送到各地)。",
-      "pinyin": "Yóujú měitiān huìjí yóujiàn, tǒngyī fēnsòng dào gèdì.",
-      "english": "The post office gathers mail every day and uniformly distributes it to various regions."
+      "chinese": "他们在那里进行汇报(他們在那裡進行彙報)。",
+      "pinyin": "Tāmen zài nàlǐ jìnxíng huìbào.",
+      "english": "They are conducting a briefing there."
+    },
+    {
+      "chinese": "这些文件是公司重要的信息汇编(這些文件是公司重要的信息彙編)。",
+      "pinyin": "Zhèxiē wénjiàn shì gōngsī zhòngyào de xìnxī huìbiān.",
+      "english": "These documents are an important compilation of the company's information."
     }
   ]
 }

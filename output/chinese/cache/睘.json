@@ -1,12 +1,12 @@
 {
   "simplified": "睘",
   "traditional": "睘",
-  "pinyin": "qióng",
-  "english": "to see clearly",
+  "pinyin": "jué",
+  "english": "inspect",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "目(目) (mù, \"eye\") + 袁(袁) (yuán, \"long\") = seeing clearly -> to see clearly",
-    "interpretation": "The character 睘(qióng) combines 目(目) (mù, \"eye\") as the semantic component, indicating vision, with 袁(袁) (yuán, \"long\") as the phonetic element, suggesting the clarity of vision. This combination conveys the idea of seeing clearly.",
+    "description": "目(目) (mù, \"eye\") + 袁(袁) (yuán, abbreviation) = the eye component confers meaning, while the phonetic 袁 suggests sound -> inspect",
+    "interpretation": "The character 睘 (jué, \"inspect\") combines 目(目) (mù, \"eye\") as the semantic element indicating observation or viewing with 袁(袁) (yuán), serving as the phonetic component. This combination suggests the act of inspecting or observing carefully, a logical association given the focus on the eye in the character's etymology.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "袁",
       "trad": "袁",
       "pinyin": "yuán",
-      "english": "long"
+      "english": "abbreviation"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,22 +5,22 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "禾(禾) (hé, 'grain') + 工(工) (gōng, 'work') = phonetic 'zōng' -> phonetic component",
-    "interpretation": "The character 㚇 combines 禾(禾) ('grain') with 工(工) ('work') to form a phonetic component 'zōng'. This implies a combination of agriculture and craftsmanship, though the emphasis here is phonetic rather than semantic.",
+    "description": "娄(婁) (lóu, \"lou\") + 用(用) (yòng, \"use\") = phonetic component",
+    "interpretation": "The character 㚇 (zōng) is primarily used as a phonetic component. It combines 娄(婁) (lóu, \"lou\"), which provides the phonetic aspect, with 用(用) (yòng, \"use\") to create the overall character, but not for semantic value. Its usage is predominantly phonetic.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "禾",
-      "trad": "禾",
-      "pinyin": "hé",
-      "english": "grain"
+      "char": "娄",
+      "trad": "婁",
+      "pinyin": "lóu",
+      "english": "lou"
     },
     {
-      "char": "工",
-      "trad": "工",
-      "pinyin": "gōng",
-      "english": "work"
+      "char": "用",
+      "trad": "用",
+      "pinyin": "yòng",
+      "english": "use"
     }
   ],
   "in_contemporary_usage": false,

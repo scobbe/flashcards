@@ -2,14 +2,32 @@
   "simplified": "㞢",
   "traditional": "㞢",
   "pinyin": "zhī",
-  "english": "footstep",
+  "english": "footprint",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Phonetic 又(yòu, \"again\") + semantic inference from ancient form of 有(yǒu, \"to have\")",
-    "interpretation": "The character 㞢 is an ancient variant of 有(yǒu, \"to have\"). As a phono-semantic compound, it combines the phonetic element 又(yòu, \"again\") with a semantic connection to the idea of possession or existence. It highlights how components related to form (又) play a role in shaping meaning by suggesting possession.",
+    "description": "㞢 -> variant of 有 -> phonetic 又 (yòu, \"again\") + semantic 肉/⺼ (ròu, \"meat\") -> original form of 侑 (yòu, \"to urge to eat\") or 醢 (hǎi, \"minced pickled meat\")",
+    "interpretation": "2023",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "有",
+      "trad": "有",
+      "pinyin": "yǒu",
+      "english": "to have"
+    },
+    {
+      "char": "侑",
+      "trad": "侑",
+      "pinyin": "yòu",
+      "english": "to urge to eat"
+    },
+    {
+      "char": "醢",
+      "trad": "醢",
+      "pinyin": "hǎi",
+      "english": "minced pickled meat"
+    },
     {
       "char": "又",
       "trad": "又",
@@ -17,10 +35,10 @@
       "english": "again"
     },
     {
-      "char": "有",
-      "trad": "有",
-      "pinyin": "yǒu",
-      "english": "to have"
+      "char": "肉",
+      "trad": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
     }
   ],
   "in_contemporary_usage": false,

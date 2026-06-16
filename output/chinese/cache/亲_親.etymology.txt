@@ -1,4 +1,4 @@
-[亲] simplified and variant form of 親.
+[亲] simplified/variant form of 親.
 
 [親]
 Bronze script: phono-semantic compound ( 形聲 / 形声 , OC *sʰin, *sʰins ): phonetic 辛 ( OC *siŋ ) + semantic 見 ( “ see ” ) .

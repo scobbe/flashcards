@@ -2,11 +2,11 @@
   "simplified": "匃",
   "traditional": "匃",
   "pinyin": "gài",
-  "english": "lack",
+  "english": "beg",
   "etymology": {
     "type": "variant character",
-    "description": "Originally a variant form of 丐(丐) (gài, \"beggar\")",
-    "interpretation": "The character 匃 serves as an alternative form of 丐(丐) (gài, \"beggar\"), which depicts a person lacking resources, often in a context where help is sought from others.",
+    "description": "Variant form of 丐(丐) (gài, \"beg\")",
+    "interpretation": "This character is a variant of 丐(丐), which is used to represent the concept of begging. There is no unique etymology for 匃 beyond being an alternative representation.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "丐",
       "trad": "丐",
       "pinyin": "gài",
-      "english": "beggar"
+      "english": "beg"
     }
   ],
   "in_contemporary_usage": false,

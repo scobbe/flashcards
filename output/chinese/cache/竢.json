@@ -2,11 +2,11 @@
   "simplified": "竢",
   "traditional": "竢",
   "pinyin": "zhú",
-  "english": "wait",
+  "english": "to wait; bamboo",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "立(立) (lì, \"to stand\") + 矣(矣) (yi, phonetic) = concept of standing still, waiting",
-    "interpretation": "The character 竢(竢) (zhú, \"wait\") represents the idea of waiting through the concept of standing still, with 立(立) (lì, \"to stand\") providing the semantic sense and 矣(矣) (yi) contributing phonetic value.",
+    "description": "立(立) (lì, \"to stand\") provides the meaning + 矣(矣) (yǐ) provides the sound",
+    "interpretation": "The character 竢 incorporates 立(立) (lì, \"to stand\") as the semantic component, implying a sense of remaining in place or waiting, combined with the phonetic component 矣(矣) (yǐ) to suggest its pronunciation.",
     "simplification": ""
   },
   "parts": [
@@ -19,8 +19,8 @@
     {
       "char": "矣",
       "trad": "矣",
-      "pinyin": "yi",
-      "english": "phonetic"
+      "pinyin": "yǐ",
+      "english": "final particle"
     }
   ],
   "in_contemporary_usage": false,

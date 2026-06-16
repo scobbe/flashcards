@@ -5,8 +5,8 @@
   "english": "to cut",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "刀(刀) (dāo, \"knife\") + 糹(糸) (sī, \"silk\") + 卪(卪) (phonetic) -> to cut silk threads -> became 絕",
-    "interpretation": "The character 𢇍 illustrates the act of cutting silk threads using a knife, with the phonetic component 卪 lending its pronunciation. Over time, this form evolved into 絕(絕) (jué, \"cut off\") with the same conceptual meaning but different orthography.",
+    "description": "Semantic 刀(刀) (dāo, 'knife') + semantic 糸(糸) (sī, 'silk; thread') + phonetic 巴(巴) (bā) -> ancient form of 絕 (jué, 'cut; sever')",
+    "interpretation": "The character 𢇍 is an ancient form of 絕 with the same core components, emphasizing the action of cutting or severing through the combination of a knife and silk, suggesting the act of cutting through threads.",
     "simplification": ""
   },
   "parts": [
@@ -20,13 +20,13 @@
       "char": "糸",
       "trad": "糸",
       "pinyin": "sī",
-      "english": "silk"
+      "english": "silk; thread"
     },
     {
-      "char": "卪",
-      "trad": "卪",
-      "pinyin": "",
-      "english": "phonetic component"
+      "char": "巴",
+      "trad": "巴",
+      "pinyin": "bā",
+      "english": "to cling"
     }
   ],
   "in_contemporary_usage": false,

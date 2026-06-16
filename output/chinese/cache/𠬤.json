@@ -5,22 +5,28 @@
   "english": "release",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "𠬤 (handcuffs) + 廾 (hands) facing away -> denote release",
-    "interpretation": "The character 𠬤 is a phono-semantic compound where the elements represent the concept of release, with emphasis on the depiction of hands facing away from handcuffs, indicating freeing or removing restraints. This aligns semantically with 放(放) (fàng, \"release\").",
+    "description": "Depicts handcuff 㚔 with hands 廾/𠬜 ('release' action) -> semantic borrowing for release (釋) -> archaic form 睪 adds 目 ('eye')",
+    "interpretation": "The character 𠬤 visually depicts a handcuff 㚔 with hands 廾/𠬜 positioned in a way that suggests releasing or letting go, which made it suitable for conveying the concept of 'release'. Later, the character evolved to include the component 目 (mù, 'eye'), shown in other forms like 睪 (yì), to relate to actions involving close observation or selection, unified under the broader semantic context of picking or choosing.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "目",
+      "trad": "目",
+      "pinyin": "mù",
+      "english": "eye"
+    },
+    {
+      "char": "㚔",
+      "trad": "㚔",
+      "pinyin": "-",
+      "english": "handcuff"
+    },
     {
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
       "english": "hands"
-    },
-    {
-      "char": "𠬜",
-      "trad": "𠬜",
-      "pinyin": "shì",
-      "english": "to bind; apply handcuffs"
     }
   ],
   "in_contemporary_usage": false,

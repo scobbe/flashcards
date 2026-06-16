@@ -5,8 +5,8 @@
   "english": "pieces of jade",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "玉(玉) (yù, \"jade\") + 玉(玉) (yù, \"jade\") = duplication of jade",
-    "interpretation": "The character 珏 represents two pieces of jade, symbolizing the concept of harmony or a perfect match, as jade is traditionally associated with purity and excellence.",
+    "description": "玉(玉) (yù, \"jade\") + 玉(玉) (yù, \"jade\") = two jade pieces combined -> concept of a pair of jades",
+    "interpretation": "The character 珏 is an ideogrammic compound that represents two jade pieces together, symbolizing their combination. This merging of two jade symbols emphasizes the idea of pairing or duality in jade.",
     "simplification": ""
   },
   "parts": [
@@ -17,6 +17,22 @@
       "english": "jade"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他收藏了两块珍贵的玉珏(他收藏了兩塊珍貴的玉珏)。",
+      "pinyin": "Tā shōucángle liǎng kuài zhēnguì de yù jué.",
+      "english": "He collected two precious pieces of jade."
+    },
+    {
+      "chinese": "这些珏曾属于皇室收藏(這些珏曾屬於皇室收藏)。",
+      "pinyin": "Zhèxiē jué céng shǔyú huángshì shōucáng.",
+      "english": "These pieces of jade were once part of the royal collection."
+    },
+    {
+      "chinese": "专家正在研究这两块珏的历史来源(專家正在研究這兩塊珏的歷史來源)。",
+      "pinyin": "Zhuānjiā zhèngzài yánjiū zhè liǎng kuài jué de lìshǐ láiyuán.",
+      "english": "Experts are studying the historical origin of these two pieces of jade."
+    }
+  ]
 }

@@ -5,16 +5,22 @@
   "english": "look over",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an open space between two things (e.g., mountain walls); the top component 八 suggests separation or a gap, with 口 below representing an open area -> represents looking over or through an unobstructed space",
-    "interpretation": "The character 㕣 (miǎn, 'look over') visually conveys the idea of seeing into an open or unobstructed space, reminiscent of a valley, which aligns with its meaning of 'look over.' The space suggested by 八 and the open area signified by 口 communicate this concept effectively.",
+    "description": "Depicts a valley with 口 (kǒu, 'mouth') representing the enclosed area -> originally a pictorial representation of a valley or ravine",
+    "interpretation": "㕣 originally depicts a valley or ravine, with 口 (kǒu, 'mouth') symbolizing an enclosed area between mountain walls. It captures the visual impression of a narrow space or passage, similar to the concept of looking over such geographical features.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "谷",
-      "trad": "谷",
-      "pinyin": "gǔ",
-      "english": "valley"
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
     }
   ],
   "in_contemporary_usage": false,

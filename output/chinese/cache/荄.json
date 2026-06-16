@@ -5,14 +5,14 @@
   "english": "roots",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艹(艹) (cǎo, \"grass\") + phonetic: 亥(亥) (hài, \"twelfth earthly branch\") = plant roots",
-    "interpretation": "The character 荄 combines 艹(艹) (cǎo, \"grass\") as a semantic component to indicate a connection with plants, with 亥(亥) (hài) as the phonetic component to suggest pronunciation. Together, they convey the meaning of 'roots', emphasizing the plant-related aspect.",
+    "description": "艸(艸) (cǎo, \"grass\") + 亥(亥) (hài, phonetic) = plant roots",
+    "interpretation": "荄(荄) (hài) combines 艸(艸) (cǎo, \"grass\") for its semantic association with plants, and 亥(亥) (hài) for its phonetic contribution to express the idea of plant roots.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "艹",
-      "trad": "艹",
+      "char": "艸",
+      "trad": "艸",
       "pinyin": "cǎo",
       "english": "grass"
     },
@@ -20,7 +20,7 @@
       "char": "亥",
       "trad": "亥",
       "pinyin": "hài",
-      "english": "twelfth earthly branch"
+      "english": "twelveth earthly branch"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "reply",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "艸(艸) (cǎo, \"grass\") + 合(合) (hé, \"combine\") = plant or grass with the pronunciation of 合 -> reply",
-    "interpretation": "The character 荅 (dá, \"reply\") combines 艸(艸) (cǎo, \"grass\") for its semantic component with 合(合) (hé, \"combine\") as a phonetic guide. Originally, it likely referred to a type of plant and was borrowed phonetically for its meaning of 'reply'.",
+    "description": "艸(艸) (cǎo, \"grass; plant\") + 合(合) (hé, \"combine\") = plant-related action with phonetic 合 (hé)",
+    "interpretation": "The character 荅(dá, \"reply\") uses 艸(艸) (cǎo, \"grass; plant\") to indicate a broad category of plant-related words, while 合(合) (hé, \"combine\") provides the phonetic element. This suggests an action related to plants or growth, metaphorically extended to the notion of a 'reply,' akin to the unfolding or coming together of information.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "艸",
       "trad": "艸",
       "pinyin": "cǎo",
-      "english": "grass"
+      "english": "grass; plant"
     },
     {
       "char": "合",

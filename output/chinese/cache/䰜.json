@@ -5,18 +5,11 @@
   "english": "cauldron",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an ancient form of 鬲(鬲) (lì, \"cauldron\")",
-    "interpretation": "䰜(lì) depicts an ancient form of a cauldron or cooking vessel, which was stylized into the character 鬲(鬲) (lì, \"cauldron\") over time. This evolution illustrates the historical adaptation of cooking tools in written forms.",
+    "description": "Depicts a pottery cauldron, related to 鬲(鬲) (lì, \"cauldron\")",
+    "interpretation": "The character 䰜 is an ancient form depicting a pottery cauldron, closely related to 鬲(鬲) (lì, \"cauldron\"), which also represents a cooking vessel. This pictographic representation highlights its function in ancient culinary practices.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "鬲",
-      "trad": "鬲",
-      "pinyin": "lì",
-      "english": "cauldron"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

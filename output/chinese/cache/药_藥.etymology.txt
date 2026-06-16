@@ -1,8 +1,6 @@
-[药]
-Simplified from 藥 , which was originally simplified as 葯 / 药 by the Republic of China ( Kuomintang government) in 1935 and by the People's Republic of China in 1956 before being simplified to its present form.
+[药] simplified/variant form of 藥.
 
 [藥]
 Phono-semantic compound ( 形聲 / 形声 , OC *lawɢ ): semantic 艹 ( “ grass ” ) + phonetic 樂 ( OC *ŋraːwɢs, *raːwɢ, *ŋraːwɢ ) .
 
-[薬]
-variant form of 藥
+[薬] variant form of 藥.

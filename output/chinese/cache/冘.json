@@ -5,11 +5,18 @@
   "english": "sink",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a man carrying an object on their shoulder -> original form of 儋(儋) (dān, \"to carry on the shoulder\")",
-    "interpretation": "The character 冘(yín, \"sink\") is a pictogram that originally represented a person carrying something on the shoulder, which was the original form used for the verb \"to carry on the shoulder.\" Over time, its meaning has evolved.",
+    "description": "Depicts a man carrying an object on their shoulder -> original form of 儋",
+    "interpretation": "The character 冘 depicts a person carrying a load on their shoulder, which is a direct representation of the concept of carrying or sinking under a load. This character later evolved into 儋, which retained the meaning related to carrying.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "儋",
+      "trad": "儋",
+      "pinyin": "dān",
+      "english": "to carry on the shoulder"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

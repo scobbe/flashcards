@@ -5,8 +5,8 @@
   "english": "clever",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "心(心) (xīn, \"heart\") + 囪(囪) (cōng, \"chimney\") forms a composite suggesting intelligence",
-    "interpretation": "The character 悤 (cōng, \"clever\") originally depicted a heart with a distinctive mark indicating a hole, which is a traditional way to convey intelligence. The later form 囪 (cōng, \"chimney\") developed as a patterned evolution of this dot, leading to the character’s association with mental sharpness. The association with speed or hastiness likely emerged later as a cultural adaptation of these ideas.",
+    "description": "心(心) (xīn, \"heart\") + 囱(囱) (cōng) = original form had heart with dot -> evolved to include 囱 pattern -> clever -> preserved in 聰(聰) (cōng, \"intelligent\")",
+    "interpretation": "The character 悤 originally depicted a heart with a dot on top, symbolizing intelligence, and evolved into a patterned shape. The notion of intelligence as holes on the heart is a traditional concept, leading to the character 聰(聰) (cōng, \"intelligent\"). Over time, 悤 acquired meanings associated with fast learning or hasty action.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,16 @@
       "english": "heart"
     },
     {
-      "char": "囪",
-      "trad": "囪",
+      "char": "囱",
+      "trad": "囱",
       "pinyin": "cōng",
-      "english": "chimney"
+      "english": "pattern"
+    },
+    {
+      "char": "聰",
+      "trad": "聰",
+      "pinyin": "cōng",
+      "english": "intelligent"
     }
   ],
   "in_contemporary_usage": false,

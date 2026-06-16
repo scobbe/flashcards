@@ -5,22 +5,22 @@
   "english": "prop up",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Semantic: 牙(牙) (yá, \"tooth\") + Phonetic: 尚(尚) (shàng, \"still\") = prop up",
-    "interpretation": "The character 牚 (chēng, \"prop up\") combines the semantic element 牙(牙) (yá, \"tooth\"), possibly suggesting a supportive or strong element, with the phonetic component 尚(尚) (shàng, \"still\"), which guides pronunciation.",
+    "description": "phonetic: 尚 (shàng, \"esteem\") + semantic: 牙 (yá, \"tooth\") = 牚",
+    "interpretation": "The character 牚 (chēng, \"prop up\") combines 尚 (shàng, \"esteem\") as the phonetic component, suggesting the sound element, with 牙 (yá, \"tooth\") as the semantic component, possibly indicating the action of supporting or propping up with firmness, similar to how teeth act as a support structure.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "尚",
+      "trad": "尚",
+      "pinyin": "shàng",
+      "english": "esteem"
+    },
     {
       "char": "牙",
       "trad": "牙",
       "pinyin": "yá",
       "english": "tooth"
-    },
-    {
-      "char": "尚",
-      "trad": "尚",
-      "pinyin": "shàng",
-      "english": "still"
     }
   ],
   "in_contemporary_usage": false,

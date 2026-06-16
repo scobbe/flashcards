@@ -4,17 +4,23 @@
   "pinyin": "zhā",
   "english": "phonetic component",
   "etymology": {
-    "type": "phono-semantic compound",
-    "description": "Phonetic: 乍(乍) (zhà, \"suddenly\") - Sound-only role",
-    "interpretation": "The character 𣬉 uses 乍(乍) (zhà, \"suddenly\") solely for its phonetic properties without adding semantic meaning.",
+    "type": "ideogrammic compound",
+    "description": "士(士) (shì, \"scholar\") + 冎(冎) (guā, \"bone\") -> bone with ornamentation",
+    "interpretation": "The character 𣬉 features a combination of a bone shape, 冎(冎) (guā, \"bone\"), with a top component resembling a scholar's hat, 士(士) (shì, \"scholar\"), suggesting a decorated or enshrined bone. It's primarily used as a phonetic component in other characters.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "乍",
-      "trad": "乍",
-      "pinyin": "zhà",
-      "english": "suddenly"
+      "char": "士",
+      "trad": "士",
+      "pinyin": "shì",
+      "english": "scholar"
+    },
+    {
+      "char": "冎",
+      "trad": "冎",
+      "pinyin": "guā",
+      "english": "bone"
     }
   ],
   "in_contemporary_usage": false,

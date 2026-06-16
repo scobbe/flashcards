@@ -5,8 +5,8 @@
   "english": "to gaze (phonetic component)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "目(目) (mù, \"eye\") + 㚔 (\"handcuff\") = visual association with the act of gazing or examining",
-    "interpretation": "The character 睪 (zé, \"to gaze\") combines 目(目) (mù, \"eye\") with 㚔 (a handcuff symbol), reinforcing the sense of visually selecting or scrutinizing something closely with the eyes. The connection between viewing and selecting is emphasized through the composition, linking the notion of observing with intent or purpose.",
+    "description": "目(目) (mù, \"eye\") + 㚔 (handcuff) = emphasizes visual action like 'picking with eyes'; evolved from early depictions of handcuffs and hands",
+    "interpretation": "The character 睪 originally involved an eye 目(目) (mù, \"eye\") combined with the symbol for a handcuff, 㚔, to emphasize the act of visually picking or selecting, reflective of its early uses in inscriptions related to choosing and releasing.",
     "simplification": ""
   },
   "parts": [
@@ -19,7 +19,7 @@
     {
       "char": "㚔",
       "trad": "㚔",
-      "pinyin": "",
+      "pinyin": "ze",
       "english": "handcuff"
     }
   ],

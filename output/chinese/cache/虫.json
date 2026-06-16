@@ -4,36 +4,28 @@
   "pinyin": "chóng",
   "english": "insect",
   "etymology": {
-    "type": "pictogram",
-    "description": "Depicts a snake -> borrowed for insects and similar creatures -> 虺(虺) (huǐ, \"snake\") created to reclaim original snake meaning",
-    "interpretation": "The character 虫(蟲) (chóng, \"insect\") initially depicted a snake due to its winding appearance. Over time, it was borrowed to refer to insects and similar small creatures, diverging from its original meaning.",
-    "simplification": "The character was retained in simplified Chinese, simplifying the three worms represented in 蟲 to one in 虫."
+    "type": "ideogrammic compound",
+    "description": "虫(蟲) (chóng, \"insect\") triplicated -> represents various insects",
+    "interpretation": "The traditional character 蟲 (chóng) combines three instances of 虫(蟲) (chóng, \"insect\") to convey the sense of a multitude or variety of insects, highlighting the character's association with small, creeping creatures.",
+    "simplification": "虫(蟲) was simplified by using its basic unit 虫 to represent the broader concept of insects collectively, reducing repetition."
   },
-  "parts": [
-    {
-      "char": "蟲",
-      "trad": "蟲",
-      "pinyin": "chóng",
-      "english": "insect"
-    },
-    {
-      "char": "虺",
-      "trad": "虺",
-      "pinyin": "huǐ",
-      "english": "snake"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "花园里发现了许多虫(花園里發現了許多蟲)。",
-      "pinyin": "Huāyuán lǐ fāxiàn le xǔduō chóng。",
-      "english": "Many insects were discovered in the garden."
+      "chinese": "花园里有很多虫(花園裡有很多蟲)。",
+      "pinyin": "Huāyuán lǐ yǒu hěn duō chóng.",
+      "english": "There are many insects in the garden."
     },
     {
-      "chinese": "一只虫爬上树叶(一隻蟲爬上樹葉)，引起了孩子们的注意(引起了孩子們的注意)。",
-      "pinyin": "Yī zhī chóng pá shàng shùyè, yǐnqǐ le háizimen de zhùyì。",
-      "english": "A bug crawled onto a leaf, attracting the children's attention."
+      "chinese": "夏天的夜晚(夏天的夜晚)，虫鸣声很大(蟲鳴聲很大)。",
+      "pinyin": "Xiàtiān de yèwǎn, chóng míng shēng hěn dà.",
+      "english": "On summer nights, the sound of insects is very loud."
+    },
+    {
+      "chinese": "我在树林里(我在樹林裡)，发现了一只稀有的虫(發現了一隻稀有的蟲)。",
+      "pinyin": "Wǒ zài shùlín lǐ, fāxiànle yī zhī xīyǒu de chóng.",
+      "english": "I discovered a rare insect in the forest."
     }
   ]
 }
