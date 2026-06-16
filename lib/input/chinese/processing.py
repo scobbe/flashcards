@@ -94,6 +94,18 @@ def _process_raw_input(
         progress_thread.join()
         print(f"[./{folder}] [ok] ✅ Parsed {len(quintuples)} entries from {raw_path.name}")
 
+    # Guard against a truncated/short parse silently dropping vocab. Writing a
+    # short parsed CSV here would later cause process_chinese_folder to clear the
+    # output folder and regenerate fewer cards - i.e. silent card loss. Refuse to
+    # proceed so the run halts and can be re-tried instead.
+    expected_lines = sum(1 for ln in text.splitlines() if any(is_cjk_char(c) for c in ln))
+    if len(quintuples) < expected_lines:
+        raise RuntimeError(
+            f"Vocab parse for {raw_path.name} returned {len(quintuples)} entries but the "
+            f"input has {expected_lines} vocab lines. Refusing to write a truncated parse "
+            f"(would drop cards). Re-run to retry."
+        )
+
     # Initialize subword structures
     sub_map: Dict[str, Tuple[str, str, str, str]] = {}
     parent_multi: Dict[str, List[str]] = {}

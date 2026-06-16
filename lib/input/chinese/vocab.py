@@ -5,35 +5,36 @@ from typing import Dict, List, Sequence, Tuple
 from lib.common import OpenAIClient, is_cjk_char, keep_only_cjk, unique_preserve_order, filter_substrings
 
 
-def call_openai_for_vocab_and_forms(
-    text: str, model: str | None = None
-) -> List[Tuple[str, str, str, str, str]]:
-    """Extract vocabulary and forms directly from raw text in one OpenAI call.
-    
-    Returns list of (simplified, traditional, pinyin, english, phrase) tuples.
-    """
-    client = OpenAIClient(model=model)
-    system = (
-        "You are a Chinese vocabulary parser. "
-        "Given numbered vocabulary entries, extract each word/phrase with its forms. "
-        "Return JSON: {\"entries\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P, \"english\": E, \"phrase\": EXAMPLE}, ...]} "
-        "\n\nIMPORTANT PARSING RULES:\n"
-        "1. The VOCABULARY WORD is the FIRST Chinese text on each line (closest to the line number).\n"
-        "2. EXAMPLES appear LATER on the same line - these are usage phrases, NOT the vocabulary word.\n"
-        "3. Lines may be separated by pipes (|) or other delimiters - the vocab word is ALWAYS first.\n"
-        "4. Do NOT confuse examples with the vocabulary word. Examples are longer phrases showing usage.\n"
-        "5. Extract: simplified form, traditional form, pinyin with tone marks, short English definition, and example phrases.\n"
-        "6. ALWAYS provide the correct traditional form (e.g., 酱→醬, 头→頭). Only repeat simplified if genuinely identical (e.g., 的→的).\n"
-        "7. Return entries in the same order as the input, one entry per numbered line.\n"
-        "8. Do NOT censor or filter profanity/vulgarity - include exact definitions for all words.\n"
-        "9. If a line includes an example sentence/phrase, PRESERVE it VERBATIM in the 'phrase' field exactly as written (do NOT translate, paraphrase, or drop it). Leave 'phrase' empty only when the line has no example."
-    )
-    user = "Parse this vocabulary list and return JSON:\n\n" + text
-    data = client.complete_json(system=system, user=user)
+# Max vocab lines to send to OpenAI in a single parse call. Large lists are
+# split into batches so the JSON response never exceeds the model's output
+# token budget (which silently dropped entries and corrupted the parse).
+VOCAB_PARSE_BATCH_SIZE = 40
+
+_VOCAB_PARSER_SYSTEM = (
+    "You are a Chinese vocabulary parser. "
+    "Given numbered vocabulary entries, extract each word/phrase with its forms. "
+    "Return JSON: {\"entries\": [{\"simplified\": S, \"traditional\": T, \"pinyin\": P, \"english\": E, \"phrase\": EXAMPLE}, ...]} "
+    "\n\nIMPORTANT PARSING RULES:\n"
+    "1. The VOCABULARY WORD is the FIRST Chinese text on each line (closest to the line number).\n"
+    "2. EXAMPLES appear LATER on the same line - these are usage phrases, NOT the vocabulary word.\n"
+    "3. Lines may be separated by pipes (|) or other delimiters - the vocab word is ALWAYS first.\n"
+    "4. Do NOT confuse examples with the vocabulary word. Examples are longer phrases showing usage.\n"
+    "5. Extract: simplified form, traditional form, pinyin with tone marks, short English definition, and example phrases.\n"
+    "6. ALWAYS provide the correct traditional form (e.g., 酱→醬, 头→頭). Only repeat simplified if genuinely identical (e.g., 的→的).\n"
+    "7. Return entries in the same order as the input, one entry per input line. Return EVERY line - never omit, merge, or summarize entries.\n"
+    "8. Do NOT censor or filter profanity/vulgarity - include exact definitions for all words.\n"
+    "9. If a line includes an example sentence/phrase, PRESERVE it VERBATIM in the 'phrase' field exactly as written (do NOT translate, paraphrase, or drop it). Leave 'phrase' empty only when the line has no example."
+)
+
+
+def _parse_vocab_lines(lines: Sequence[str], client: OpenAIClient) -> List[Tuple[str, str, str, str, str]]:
+    """Parse a single batch of vocab lines via one OpenAI call."""
+    user = "Parse this vocabulary list and return JSON:\n\n" + "\n".join(lines)
+    data = client.complete_json(system=_VOCAB_PARSER_SYSTEM, user=user)
     entries = data.get("entries") if isinstance(data, dict) else None
     if not isinstance(entries, list):
         return []
-    
+
     results: List[Tuple[str, str, str, str, str]] = []
     for entry in entries:
         if not isinstance(entry, dict):
@@ -49,6 +50,28 @@ def call_openai_for_vocab_and_forms(
         english = str(entry.get("english", "")).strip()
         phrase = str(entry.get("phrase", "")).strip()
         results.append((simp, trad, pinyin, english, phrase))
+    return results
+
+
+def call_openai_for_vocab_and_forms(
+    text: str, model: str | None = None
+) -> List[Tuple[str, str, str, str, str]]:
+    """Extract vocabulary and forms directly from raw text.
+
+    Splits the input into batches of VOCAB_PARSE_BATCH_SIZE vocab lines so a long
+    list never overflows a single response (which silently truncated entries).
+
+    Returns list of (simplified, traditional, pinyin, english, phrase) tuples.
+    """
+    vocab_lines = [ln for ln in text.splitlines() if any(is_cjk_char(c) for c in ln)]
+    if not vocab_lines:
+        return []
+
+    client = OpenAIClient(model=model)
+    results: List[Tuple[str, str, str, str, str]] = []
+    for start in range(0, len(vocab_lines), VOCAB_PARSE_BATCH_SIZE):
+        batch = vocab_lines[start:start + VOCAB_PARSE_BATCH_SIZE]
+        results.extend(_parse_vocab_lines(batch, client))
 
     return results
 
