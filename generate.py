@@ -241,7 +241,25 @@ def process_folder(
         return process_english_folder(output_dir, model=model, verbose=verbose, workers=workers)
     else:
         # Chinese mode (always recursive)
-        return process_chinese_folder(output_dir, model=model, verbose=verbose, workers=workers)
+        result = process_chinese_folder(output_dir, model=model, verbose=verbose, workers=workers)
+        _run_card_audit(output_dir)
+        return result
+
+
+def _run_card_audit(output_dir: Path) -> None:
+    """Final post-generation audit: scan the rendered cards for compliance and
+    vacuous explanations, print a flag report (non-fatal). For the deeper
+    LLM-based vacuousness judge, run `scripts/audit_cards.py --llm`."""
+    try:
+        from lib.output.chinese.audit import audit_output_dir, format_report
+        issues = audit_output_dir(output_dir, repo_root=Path(__file__).parent.resolve())
+        print("\n[audit] " + format_report(issues).replace("\n", "\n[audit] "))
+        errs = [i for i in issues if i.severity == "error"]
+        if errs:
+            print(f"[audit] ⚠ {len(errs)} error(s) — review above. "
+                  f"Run `scripts/audit_cards.py --llm {output_dir}` for a full check.")
+    except Exception as e:  # never let the audit break a successful generation
+        print(f"[audit] skipped (error: {e})")
 
 
 def main(argv: Optional[List[str]] = None) -> int:

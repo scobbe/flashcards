@@ -55,22 +55,25 @@ Ask: **"Is this for class, or not class (general)?"**
 
 Ask the user for the **batch id** (what they call the "class number").
 
-By convention these are dates in `M-D-YY` format (e.g. `1-8-26`), but some general
-batches are numeric (e.g. `1000`). Whatever the user gives, use it verbatim as the
-folder name.
+By convention these are dates in **`YY-MM-DD`** format — year-month-day,
+zero-padded (e.g. `25-12-27` = 27 December 2025) — but some general batches are
+numeric (e.g. `1000`). Whatever the user gives, use it verbatim as the folder name.
 
 ## Step 3 — Suggest the next id
 
-Before the user answers Step 2, **list the existing sibling folders** so they can
-pick the next one, and propose a default:
+Before the user answers Step 2, **list the existing sibling folders sorted by
+ascending date** so they can pick the next one, and propose a default. Use the
+helper (`YY-MM-DD` already sorts chronologically, but the helper also prints each
+date and today's id):
 
-- class → `ls output/chinese/class/`
-- not class → `ls output/chinese/general/daily/`
+- class → `.venv/bin/python scripts/list_batches.py output/chinese/class`
+- not class → `.venv/bin/python scripts/list_batches.py output/chinese/general/daily`
 
-Suggest a sensible next id:
+It prints each id with its resolved date (oldest → newest) and today's id in
+`YY-MM-DD`. Suggest a sensible next id:
 
-- If the existing ids look like `M-D-YY` dates, suggest **today's date** in that
-  format (today is available from the environment; e.g. `2026-06-13` → `6-13-26`).
+- If the existing ids look like dates, suggest **today's date** in `YY-MM-DD`
+  (the helper prints it; e.g. `2026-06-16` → `26-06-16`).
 - If they look numeric, suggest the **max + a round increment**.
 
 Present the existing ids and your suggestion, and let the user confirm or override.
@@ -114,9 +117,14 @@ goes in that subfolder. For **not class**, there is no sub-batch.
    Stream the output. The generator skips existing `.md` files, halts on the first
    BLOCKED item with a reason, and is safe to re-run to resume.
 
-5. When it finishes, report: the target folder, how many cards were written
-   (`ls <.../output>/*.md | wc -l`), and any BLOCKED/skipped items that need a
-   re-run or manual attention.
+5. When it finishes, the generator prints a **post-generation audit** (`[audit]
+   …`) flagging compliance issues (role-word/empty definitions, `(OC *…)` leaks,
+   vacuous/empty interpretations, component-gloss role words, count mismatch).
+   Report: the target folder, how many cards were written
+   (`ls <.../output>/*.md | wc -l`), the audit summary, and any BLOCKED/skipped
+   items. For a deeper vacuousness check run
+   `.venv/bin/python scripts/audit_cards.py --llm <.../output>` (a review list —
+   honest phono-semantic notes and pictograms are fine, don't force a mechanism).
 
 ## Notes
 

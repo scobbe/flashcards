@@ -26,15 +26,21 @@ import requests
 
 API = "https://app.mochi.cards/api"
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 MEDIA = ROOT / "output" / "chinese" / "media"
 _MEDIA_REF = re.compile(r"@media/(\S+?\.png)")
 
 
-def _upload_media(s, card_id, content):
-    """Upload every @media image a card references as a Mochi attachment."""
+def _upload_media(s, card_id, content, existing=()):
+    """Upload every @media image a card references as a Mochi attachment.
+
+    `existing` is the set of attachment file-names already on the card; those are
+    skipped so re-syncing a content change doesn't needlessly re-upload images."""
     if not card_id:
         return
     for fname in dict.fromkeys(_MEDIA_REF.findall(content or "")):
+        if fname in existing:
+            continue
         p = MEDIA / fname
         if not p.exists():
             continue
@@ -45,22 +51,37 @@ def _upload_media(s, card_id, content):
             print(f"      [warn] attach {fname} -> {r.status_code}")
         time.sleep(0.2)
 
-# repo batch dir (relative to repo root) -> Mochi deck id
+# repo batch dir (relative to repo root) -> Mochi deck id.
+# Batch dates are YY-MM-DD (see lib/common/dates); ordered chronologically here.
 DECK_MAP = {
-    "output/chinese/class/1-8-26/book": "JHSrVw54",
-    "output/chinese/class/12-22-25/book": "r5skEi3f",
-    "output/chinese/class/12-22-25/class": "caEyO3Bi",
-    "output/chinese/class/8-12-25/book": "aOwZQ6mv",
-    "output/chinese/class/8-12-25/class": "2EPkK2Tx",
+    "output/chinese/class/25-08-12/book": "aOwZQ6mv",
+    "output/chinese/class/25-08-12/class": "2EPkK2Tx",
+    "output/chinese/class/25-12-22/book": "r5skEi3f",
+    "output/chinese/class/25-12-22/class": "caEyO3Bi",
+    "output/chinese/general/daily/25-12-26": "fhufsYYG",
+    "output/chinese/general/daily/25-12-27": "xhm1819o",
+    "output/chinese/class/26-01-08/book": "JHSrVw54",
+    "output/chinese/general/daily/26-01-08": "3VIUL9uy",
+    "output/chinese/class/26-06-08/book": "pEEsBOAT",
+    "output/chinese/class/26-06-15/book": "aSfC8sE5",
+    "output/chinese/class/26-06-15/class": "sQY3iY3s",
+    "output/chinese/class/26-06-17/book": "oHA8erXe",
     "output/chinese/general/common/10000-phrases/chunks/chunk-001": "AtdObAks",
-    "output/chinese/general/daily/1-8-26": "3VIUL9uy",
-    "output/chinese/general/daily/12-26-25": "fhufsYYG",
-    "output/chinese/general/daily/12-27-25": "xhm1819o",
-    "output/chinese/class/6-15-26/book": "aSfC8sE5",
-    "output/chinese/class/6-15-26/class": "sQY3iY3s",
-    "output/chinese/class/6-17-26/book": "oHA8erXe",
-    "output/chinese/class/6-8-26/book": "pEEsBOAT",
 }
+
+
+def _date_sorted(mapping):
+    """Order batch dirs by ascending real batch date (date id is the path's
+    date segment); non-date / numeric batches sort last."""
+    from lib.common.dates import parse_batch_date
+    far = (9999, 12, 31)
+
+    def key(item):
+        rel = item[0]
+        d = next((parse_batch_date(seg) for seg in rel.split("/") if parse_batch_date(seg)), None)
+        return ((d.year, d.month, d.day) if d else far, rel)
+
+    return dict(sorted(mapping.items(), key=key))
 
 _PARENS = re.compile(r"\([^)]*\)")
 # A glyph-progression image block added on the Mochi side (see glyph_progression.py).
@@ -156,7 +177,8 @@ def plan_deck(s, rel, deck_id):
         card = matches[0]
         effective = preserve_media(content, card.get("content") or "")
         if (card.get("content") or "").strip() != effective.strip():
-            updates.append((card["id"], word, effective))
+            existing = set(card.get("attachments") or {})
+            updates.append((card["id"], word, effective, existing))
         else:
             unchanged.append(word)
 
@@ -169,10 +191,10 @@ def plan_deck(s, rel, deck_id):
 
 def apply_deck(s, plan, trash_orphans):
     did = plan["deck_id"]
-    for cid, word, content in plan["updates"]:
+    for cid, word, content, existing in plan["updates"]:
         r = _req(s, "POST", f"{API}/cards/{cid}", json={"content": content})
         r.raise_for_status()
-        _upload_media(s, cid, content)
+        _upload_media(s, cid, content, existing)
         print(f"    updated {word}")
         time.sleep(0.25)
     for word, content in plan["creates"]:
@@ -204,7 +226,7 @@ def main(argv=None):
         return 2
     s = session(key)
 
-    mapping = dict(DECK_MAP)
+    mapping = _date_sorted(DECK_MAP)
 
     tot_u = tot_c = tot_o = 0
     for rel, did in mapping.items():

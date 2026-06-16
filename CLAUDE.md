@@ -8,10 +8,28 @@ Mochi sync, or the Teams reader — these are the traps that have bitten us.
 - `output/chinese/<class|general>/<id>/<book|class>/` — a batch. `input/` has
   `-config.json` + `-input.raw.txt`; `input-parsed/-input.parsed.csv` is the
   parsed vocab; `output/` has `N.<word>.md` cards + `-output.md`.
-- Class batches: `output/chinese/class/<M-D-YY>/{book,class}/`. Mochi decks
-  mirror this tree: a `<date>` deck with `book` / `class` subdecks.
-- `scripts/` — `mochi_sync.py`, `teams_personal.py`, `glyph_progression.py`.
+- Class batches: `output/chinese/class/<YY-MM-DD>/{book,class}/`. Date ids are
+  **`YY-MM-DD`** (year-month-day, zero-padded; `25-12-27` = 27 Dec 2025) — see
+  `lib/common/dates.py`. This big-endian form sorts chronologically as text, so
+  a plain `ls` is already oldest→newest; `scripts/list_batches.py <dir>` also
+  prints each id's date. Mochi decks mirror this tree: a `<date>` deck with
+  `book` / `class` subdecks.
+- `scripts/` — `mochi_sync.py`, `teams_personal.py`, `glyph_progression.py`,
+  `list_batches.py`, `audit_cards.py`.
 - Use `.venv/bin/python`. `OPENAI_API_KEY` in `.env` (auto-loaded).
+
+## Card audit (`lib/output/chinese/audit.py`, `scripts/audit_cards.py`)
+- A **post-generation audit** runs automatically at the end of `generate.py`
+  (deterministic, no API) and prints a flag report. It scans the rendered cards
+  for: role-word/empty definitions, Old-Chinese `(OC *…)` leaks, empty/vacuous
+  interpretations (high-precision regex), role-word **component glosses** (these
+  aren't cleaned at render, unlike subcard definitions), missing pinyin, and
+  per-batch card-count vs parsed-input mismatch. Errors gate (CLI exits 1).
+- **Vacuous interpretations can't be caught by regex reliably** — run
+  `scripts/audit_cards.py --llm [dir]` for an LLM judge. It is a *review list*
+  (some false positives expected); it is calibrated so honest phono-semantic
+  notes ("semantic radical + a part for sound") and pictograms are GOOD, NOT
+  vacuous — never "fix" those by forcing a mechanism (that invites fabrication).
 
 ## Generation — avoid silent card loss
 - **`generate.py` re-parses the raw input.** Parsing a long list in one OpenAI

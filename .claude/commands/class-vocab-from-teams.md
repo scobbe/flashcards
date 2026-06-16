@@ -1,6 +1,6 @@
 ---
 description: Turn a day's Chinese-class Teams chat into a flashcard batch and generate the cards
-argument-hint: [chat name] [date e.g. 6-15-26]  (both optional)
+argument-hint: [chat name] [date e.g. 26-06-15]  (both optional)
 ---
 
 # Generate class flashcards from a Teams lesson
@@ -60,8 +60,10 @@ Class lessons go in the **`class`** subfolder. Ask to confirm (default `class`;
 `book` is for the textbook vocab covered separately).
 
 ## Step 2 — Batch id (date)
-Ask for the batch id, `M-D-YY` (e.g. `6-15-26`). Default to the lesson date.
-List existing ids so they can confirm: `ls output/chinese/class/`.
+Ask for the batch id in **`YY-MM-DD`** (year-month-day, zero-padded;
+e.g. `26-06-15` = 15 June 2026). Default to the lesson date. List existing ids,
+sorted by ascending date, so they can confirm:
+`.venv/bin/python scripts/list_batches.py output/chinese/class`.
 
 ## Step 3 — Scaffold and generate
 1. Target input folder: `output/chinese/class/<id>/<class|book>/input/`.

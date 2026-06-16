@@ -48,6 +48,12 @@ from lib.common.manifest import (
     init_input_manifest,
     load_input_manifest,
 )
+from lib.common.dates import (
+    parse_batch_date,
+    to_batch_id,
+    today_id,
+    sort_batch_ids,
+)
 from lib.common.openai import OpenAIClient
 from lib.common.cache import (
     sanitize_filename,
@@ -92,6 +98,11 @@ __all__ = [
     "mark_chunk_complete",
     "init_input_manifest",
     "load_input_manifest",
+    # dates
+    "parse_batch_date",
+    "to_batch_id",
+    "today_id",
+    "sort_batch_ids",
     # openai
     "OpenAIClient",
     # cache

@@ -78,7 +78,17 @@ _CJK_RANGES = (
     r"㐀-鿿豈-﫿⺀-⻿⼀-⿟"
     r"\U00020000-\U0002ebef\U00030000-\U0003134f"
 )
-_IDENTICAL_PARENS_RE = re.compile(rf"([{_CJK_RANGES}〇]+)\(([{_CJK_RANGES}〇]+)\)")
+# CJK sentence punctuation that can appear mid-run in a clause-level traditional
+# annotation, e.g. 我们…电影，好吗(我們…電影，好嗎). Including it lets a clause pair
+# that spans a comma be matched and expanded per-character (it otherwise stays a
+# raw, mis-parenthesised clause). Excludes the ASCII "( )" used for the ruby slot.
+_CJK_PUNCT = "，。！？；：、…—·「」『』《》〈〉"
+# Digits/latin can appear inside a clause-level pair (VIP請帶現金, 水的沸點是100度).
+# Each run still must contain ≥1 CJK char, so pure-ASCII parentheticals
+# ("hello(world)", English glosses, pinyin) never match and are left untouched.
+_RUN = rf"[{_CJK_RANGES}〇{_CJK_PUNCT}0-9A-Za-z‘’“”'\"]"
+_IDENTICAL_PARENS_RE = re.compile(
+    rf"({_RUN}*[{_CJK_RANGES}〇]{_RUN}*)\(({_RUN}*[{_CJK_RANGES}〇]{_RUN}*)\)")
 
 
 # Empty ruby slot for a character whose traditional form equals its simplified
@@ -112,7 +122,12 @@ def _minimize_trad_pair(simp: str, trad: str, empty_slots: bool = False) -> str:
     out = [prefix]
     if empty_slots:
         for s_ch, t_ch in zip(s_tail, trad):
-            out.append(f"{s_ch}{_EMPTY_RUBY}" if s_ch == t_ch else f"{s_ch}({t_ch})")
+            if not is_cjk_char(s_ch):       # punctuation (，？…) never gets a ruby slot
+                out.append(s_ch)
+            elif s_ch == t_ch:
+                out.append(f"{s_ch}{_EMPTY_RUBY}")
+            else:
+                out.append(f"{s_ch}({t_ch})")
     else:
         # Drop identical characters, wrapping each maximal differing run together.
         i, n = 0, len(trad)

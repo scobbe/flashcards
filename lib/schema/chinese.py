@@ -71,6 +71,31 @@ COVER_ALL_SENSES = (
 )
 
 # Pin the gloss of commonly-mislabeled components so etymology text stays accurate.
+# Interpretations must explain the INTUITION (the concrete conceptual mechanism),
+# not circularly restate that the parts "combine to produce" the meaning.
+BANNED_VACUOUS_RULE = (
+    "BANNED — vacuous restatement. The interpretation FAILS if it merely says the "
+    "components 'combine' / 'come together' / 'are combined' to 'produce' / 'express' "
+    "/ 'convey' / 'result in' / 'give rise to' the meaning, or '...expresses the idea "
+    "of X, hence its meaning(s)'. That just renames the result without explaining it. "
+    "You MUST give the concrete mechanism: a mental image or short chain of reasoning "
+    "that makes the meaning feel INEVITABLE from the parts (what does the picture "
+    "actually show? why does that lead to this sense?).\n"
+    "- BANNED templates: 'this combination resulted in a character that...', 'combines "
+    "A and B to express/convey/represent...', 'the two parts together suggest...', "
+    "'symbolizing the concept of...'.\n"
+    "- PURE PHONETIC HONESTY: if a part is ONLY phonetic (sound), do NOT manufacture "
+    "meaning from it. Build the intuition from the semantic part (plus any attested "
+    "historical reading). If a sense is a pure sound-loan with no semantic motivation, "
+    "say so plainly ('borrowed only for its sound; the meaning is not built from the "
+    "parts') rather than inventing a story.\n"
+    "- E.g. 是 (\"to be; yes; this; correct\"): the noonday sun (日) directly overhead is "
+    "the natural standard of straightness/uprightness (正 \"straight\"); what is upright "
+    "is what is correct -> 'right, correct' -> what is correct is what 'is so' -> "
+    "affirmation 'yes' and the copula 'to be'. (NOT 'sun + correct combine to express "
+    "correctness, hence to be'.)"
+)
+
 COMPONENT_GLOSS_RULE = (
     "ACCURATE COMPONENT GLOSSES (use these exact meanings, do not invent others):\n"
     "- 糸(糸)/糹/纟 = \"silk; thread\" (NEVER \"rope\")\n"
@@ -172,6 +197,7 @@ CHINESE_PROMPT_FIELDS = [
             "single_char": _join([
                 INTERP_LENGTH_RULE,
                 COVER_ALL_SENSES,
+                BANNED_VACUOUS_RULE,
                 CHAR_REF_RULE,
                 "NEVER include Old Chinese (OC) reconstructions like '(OC *xxx)' in output",
                 "Explain WHY the components from 'parts' field make intuitive sense together",
@@ -187,6 +213,7 @@ CHINESE_PROMPT_FIELDS = [
             "multi_char": _join([
                 INTERP_LENGTH_RULE,
                 COVER_ALL_SENSES,
+                BANNED_VACUOUS_RULE,
                 CHAR_REF_RULE,
                 "Explain WHY this combination makes sense",
                 'E.g. A 馆(館) (guǎn, "building") for 图书(圖書) (túshū, "books") is where you go to read and borrow them.',
@@ -228,6 +255,7 @@ CHINESE_PROMPT_FIELDS = [
             "single_char": _join([
                 "Array of ALL OTHER characters referenced in YOUR description AND interpretation fields [{char, trad, pinyin, english}].",
                 "EVERY part MUST have a non-empty pinyin AND english meaning - give the best-known gloss even for rare/archaic/obscure components (e.g. 𧶠 = \"to sell; trade\"); NEVER leave english blank",
+                "The english is the character's MEANING, never its ROLE. NEVER use 'phonetic', 'semantic', 'phonetic component', 'sound', etc. as a part's english — that belongs in the description. E.g. 堯 = \"a legendary emperor; tall\" (NOT \"phonetic\"); 音 = \"sound; tone\" (NOT \"phonetic component\")",
                 COMPONENT_GLOSS_RULE,
                 "ONLY include characters that YOU wrote in description/interpretation - nothing else",
                 "IGNORE self-references (don't include the character itself in parts)",

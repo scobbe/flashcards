@@ -1,6 +1,7 @@
 """Chinese flashcard content generation and markdown writing."""
 
 import csv
+import re
 import time
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
@@ -24,6 +25,88 @@ from lib.output.chinese.wiktionary import fetch_wiktionary_etymology
 # are referenced from a card as ![](@media/glyph<codepoint>.png); mochi_sync
 # uploads the matching file as a Mochi attachment.
 MEDIA_DIR = Path(__file__).parent.parent.parent.parent / "output" / "chinese" / "media"
+
+
+# A component's definition must be its MEANING, never the ROLE it plays in the
+# parent (a phono-semantic compound). Older cards/caches sometimes stored the
+# role ("phonetic", "phonetic sound", "used phonetic", ...) as the gloss; treat
+# those as no-meaning and fall back to the character's own cached meaning. Keyed
+# on a leading role descriptor so legitimate meanings (响 = "sound") are kept.
+_ROLE_RE = re.compile(
+    r"^(used\s+|the\s+|a\s+|acts?\s+as\s+|serves?\s+as\s+)?"
+    r"(phonetic|semantic|phono-?semantic"
+    r"|sound\s+(component|element|part)"
+    r"|ideographic\s+(component|element))\b",
+    re.IGNORECASE,
+)
+
+
+def _is_role_word(eng: str) -> bool:
+    e = re.sub(r"\([^)]*\)", "", eng or "").strip().strip(".")
+    return not e or bool(_ROLE_RE.match(e))
+
+
+def _clean_definition(simplified: str, english: str) -> str:
+    """Return a real meaning for a component, never a bare role word.
+
+    If `english` is a role word (or empty), fall back to the character's own
+    cached meaning; if that is also unusable, return "" so the definition line
+    is simply omitted rather than showing 'phonetic'."""
+    if english and not _is_role_word(english):
+        return english
+    if len(simplified) == 1 and is_cjk_char(simplified):
+        cached = read_cache(simplified) or {}
+        ce = str(cached.get("english", "")).strip()
+        if ce and not _is_role_word(ce):
+            return ce
+    return ""
+
+
+def _clean_pinyin(simplified: str, pinyin: str) -> str:
+    """A component subcard shows the pinyin passed from the parent's parts, which
+    is sometimes empty even when the character's own card has it; fall back to the
+    cached pinyin."""
+    if pinyin and pinyin.strip():
+        return pinyin
+    if len(simplified) == 1 and is_cjk_char(simplified):
+        cp = str((read_cache(simplified) or {}).get("pinyin", "")).strip()
+        if cp:
+            return cp
+    return pinyin
+
+
+# Old Chinese reconstructions ("(OC *laŋ)", ", OC *m-tʰaːʔ") must never appear in
+# output (the prompt forbids them, but they occasionally leak). Strip at render
+# so a re-render scrubs existing cards.
+def _strip_oc(text: str) -> str:
+    if not text:
+        return text
+    t = re.sub(r"\s*\(\s*OC\b[^)]*\)", "", text)          # standalone "(OC *…)"
+    t = re.sub(r",?\s*\bOC\s*\*[^),;]+", "", t)            # embedded "…, OC *…"
+    return re.sub(r"\s{2,}", " ", t).strip()
+
+
+def _sanitize_etymology(etym):
+    """Strip OC reconstructions from every etymology sub-field."""
+    if not isinstance(etym, dict):
+        return etym
+    return {k: (_strip_oc(v) if isinstance(v, str) else v) for k, v in etym.items()}
+
+
+def _clean_components(comps):
+    """Clean each component's gloss: drop role words (fall back to the char's real
+    meaning) and strip OC reconstructions — the parent's component list isn't
+    cleaned by `_clean_definition` (which only handles a subcard's own definition)."""
+    if not comps:
+        return comps
+    out = []
+    for it in comps:
+        if isinstance(it, (list, tuple)) and len(it) >= 4:
+            gloss = _strip_oc(_clean_definition(str(it[0]), str(it[3])))
+            out.append((it[0], it[1], it[2], gloss, *it[4:]))
+        else:
+            out.append(it)
+    return out
 
 
 def _progression_lines(simplified: str) -> List[str]:
@@ -149,6 +232,9 @@ def generate_card_content(
     Returns (etymology_dict, traditional, components, character_breakdown, examples, in_contemporary_usage, from_cache).
     """
     word = simplified or traditional
+    # A component may arrive glossed by its ROLE ("phonetic") rather than its
+    # meaning; don't feed that into the prompt or persist it to cache.
+    english = _clean_definition(simplified, english)
     cjk_chars = [ch for ch in simplified if is_cjk_char(ch)]
     is_single = len(cjk_chars) == 1
 
@@ -308,6 +394,8 @@ def _write_single_card(
 
     Uses CHINESE_DISPLAY_SCHEMA to control field order and formatting.
     """
+    english = _strip_oc(_clean_definition(simplified, english))
+    pinyin = _clean_pinyin(simplified, pinyin)
     trad_form = traditional if traditional else simplified
     chinese_heading = f"{simplified}({trad_form})"
 
@@ -337,8 +425,8 @@ def _write_single_card(
         "traditional": traditional if (traditional and traditional != simplified) else None,
         "definition": english,
         "pinyin": pinyin,
-        "components": display_components if display_components else None,
-        "etymology": etymology if (etymology and "error" not in etymology) else None,
+        "components": _clean_components(display_components) if display_components else None,
+        "etymology": _sanitize_etymology(etymology) if (etymology and "error" not in etymology) else None,
         "examples": examples if examples else None,
     }
 
