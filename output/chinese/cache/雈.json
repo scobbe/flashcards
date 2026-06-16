@@ -5,8 +5,8 @@
   "english": "owl",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an owl sitting on a tree",
-    "interpretation": "The character 雈 (huán, \"owl\") is a pictogram illustrating an owl perched in a tree, conveying the idea visually through its form. The resemblance of 雈 to the related character 雚 (guàn, \"reed\") illustrates how similar graphical elements can lead to different meanings.",
+    "description": "Depicts an owl, similar to 雚(雚) (guàn, \"type of bird\")",
+    "interpretation": "The character 雈 (huán, \"owl\") is a pictogram depicting the silhouette or characteristics of an owl. Historically, it is visually similar to 雚(雚) (guàn, \"type of bird\"), emphasizing its avian nature. This is a direct representation of the creature it denotes.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "雚",
       "trad": "雚",
       "pinyin": "guàn",
-      "english": "reed"
+      "english": "type of bird"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,8 +5,8 @@
   "english": "unknown",
   "etymology": {
     "type": "pictogram",
-    "description": "亻 (person) + 土 (soil) = person standing on soil -> depicting a person in context of land or territory",
-    "interpretation": "This character visually represents a person engaged with the earth or land underneath them, hinting at territoriality or settlement.",
+    "description": "A human (亻) standing on soil (土).",
+    "interpretation": "The character 𡈼 combines the element of a human depicted by 亻, indicating a person or presence, and 土 (tǔ, 'earth; soil'), possibly suggesting a person standing on the ground or symbolizing stability or presence in a place. This visual combination conveys the idea of being grounded or located on the earth.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "亻",
       "trad": "亻",
       "pinyin": "rén",
-      "english": "person"
+      "english": "human"
     },
     {
       "char": "土",
       "trad": "土",
       "pinyin": "tǔ",
-      "english": "soil"
+      "english": "earth; soil"
     }
   ],
   "in_contemporary_usage": false,

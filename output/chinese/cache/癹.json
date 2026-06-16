@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound and phono-semantic compound",
-    "description": "癶(癶) (bō, \"two outstretched feet\") + 殳(殳) (shū, \"hand with stick\") = beating or cutting grass -> later evolved into 撥(撥) (bō, \"to poke; to stir\")",
-    "interpretation": "The character 癹 combines the imagery of feet and a hand with a stick, suggesting the action of moving or cutting grass, which aligns with an early use related to stirring or poking items.",
+    "description": "癶(癶) (bō, \"two outstretched feet\") + 殳(殳) (shū, \"hand with stick\") = to beat or cut grass -> original form of 撥(撥) (bō, \"to shift\")",
+    "interpretation": "The character 癹 combines the pictogram of two outstretched feet with the image of a hand holding a stick. This represents an action involved in striking or cutting grass, linking it to actions of sorting or moving, hence its relationship to the concept behind 撥(撥) (bō, \"to shift\"). As a phono-semantic compound, 癶 provides the sound and the notion of spreading or stretching, while 殳 emphasizes the action-related meaning.",
     "simplification": ""
   },
   "parts": [
@@ -26,7 +26,7 @@
       "char": "撥",
       "trad": "撥",
       "pinyin": "bō",
-      "english": "to poke; to stir"
+      "english": "to shift"
     }
   ],
   "in_contemporary_usage": false,

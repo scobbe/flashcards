@@ -5,16 +5,22 @@
   "english": "soft (phonetic)",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "⺕ (hand holding a brush, phonetic) + 𦘒 (semantic variant) = related to softness in phonetic approximation",
-    "interpretation": "𦘒 combines a component symbolizing 'hand holding a brush' to convey the phonetic sound, with the rest of the character suggesting softness, likely borrowing phonetic elements from the brush symbolism.",
+    "description": "虫(虫) (huǐ, \"insect\") + 軟(軟) (ruǎn, \"soft\") = soft, without spine or hardness",
+    "interpretation": "The character 𦘒 (ruǎn, \"soft\") combines the semantic component 虫(虫) (huǐ, \"insect\") suggesting something small or malleable, with the phonetic component 軟(軟) (ruǎn, \"soft\") which contributes the sound. Together, they suggest a quality of being easily compressed or lacking rigidity, much like an insect without strength or backbone. Over time, this representation evolved into the abstract concept of 'softness' in both physical and metaphorical senses.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "⺕",
-      "trad": "聿",
-      "pinyin": "yù",
-      "english": "brush"
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "huǐ",
+      "english": "insect"
+    },
+    {
+      "char": "軟",
+      "trad": "軟",
+      "pinyin": "ruǎn",
+      "english": "soft"
     }
   ],
   "in_contemporary_usage": false,

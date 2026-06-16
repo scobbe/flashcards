@@ -2,21 +2,14 @@
   "simplified": "屰",
   "traditional": "屰",
   "pinyin": "nì",
-  "english": "opposite",
+  "english": "disobedient",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts an upside down human figure (大 inverted)",
-    "interpretation": "屰(nì, \"opposite\") illustrates the concept of being upside down or reversed by showing a human figure inverted. This represents the idea of 'opposite' or 'contrary direction'.",
+    "description": "Depicts an inverted 大 (dà, \"big\" or \"person\") -> person upside down -> opposite, backwards, opposing -> original form of 逆(逆) (nì, \"go against\")",
+    "interpretation": "屰 (nì, \"disobedient\") originally depicted a person upside down, representing the idea of being opposite or backwards. This inversion symbolizes opposition or non-compliance, aligning with the meaning of disobedience. It served as the original form of 逆(逆) (nì, \"go against\").",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "大",
-      "trad": "大",
-      "pinyin": "dà",
-      "english": "big"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

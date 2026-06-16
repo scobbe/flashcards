@@ -5,8 +5,8 @@
   "english": "table",
   "etymology": {
     "type": "pictogram",
-    "description": "𠀠 depicts a basket -> 丌 added as a stand to form 𠔝 -> original form of 箕",
-    "interpretation": "丌 (jī, 'table') is an ancient form of 其(其) (qí, 'his'), initially depicting a stand added under a basket in the character's evolution. This provided a visual representation of a stand for the basket, linking it to the notion of support or foundation, aligning with its meaning as ‘table’ or ‘stand.’",
+    "description": "Depicts a support or stand for a basket -> later representation of a table",
+    "interpretation": "The character 丌 (jī, \"table\") originally represents a stand or support and was used as a component under 其(其) (qí, \"his\") to depict a basket on a stand. This association serves as its link to the meaning of 'table', conceptualizing a flat-topped support structure. This character was an ancient form of 其(其) and primarily served as a physical depiction of a supporting stand.",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "其",
       "pinyin": "qí",
       "english": "his"
-    },
-    {
-      "char": "箕",
-      "trad": "箕",
-      "pinyin": "jī",
-      "english": "basket"
     }
   ],
   "in_contemporary_usage": false,

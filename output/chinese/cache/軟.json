@@ -1,0 +1,50 @@
+{
+  "simplified": "軟",
+  "traditional": "軟",
+  "pinyin": "ruǎn",
+  "english": "soft",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "車 (carriage) + phonetic 耎 (turned into 欠) = soft; weak",
+    "interpretation": "軟(軟) (ruǎn, \"soft\") is a phono-semantic compound where 車(車) (chē, \"carriage\") represents the semantic component possibly indicating the state of being worn out or flexible, similar to wood that can be cut (linked to 柔(柔) (róu, \"soft\")), or the fatigue after pulling a heavy load. The phonetic component 耎(耎) evolved into 欠(欠) (qiàn, \"yawn\") over time, visually conveying exhaustion, which reinforces the idea of softness as a state of being tired or weakened.",
+    "simplification": "软(軟): 車(車) (chē, \"carriage\") was simplified to 车(车), and additional strokes were removed to create a similar phonetic look."
+  },
+  "parts": [
+    {
+      "char": "車",
+      "trad": "車",
+      "pinyin": "chē",
+      "english": "carriage"
+    },
+    {
+      "char": "耎",
+      "trad": "耎",
+      "pinyin": "ruǎn",
+      "english": "soft; weak"
+    },
+    {
+      "char": "欠",
+      "trad": "欠",
+      "pinyin": "qiàn",
+      "english": "yawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这张沙发很软(這張沙發很軟)。",
+      "pinyin": "Zhè zhāng shāfā hěn ruǎn.",
+      "english": "This sofa is very soft."
+    },
+    {
+      "chinese": "他习惯了睡软床(他習慣了睡軟床)。",
+      "pinyin": "Tā xíguànle shuì ruǎn chuáng.",
+      "english": "He is used to sleeping on a soft bed."
+    },
+    {
+      "chinese": "她的声音很柔软(她的聲音很柔軟)。",
+      "pinyin": "Tā de shēngyīn hěn róuruǎn.",
+      "english": "Her voice is very soft."
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "simplified": "惪",
   "traditional": "惪",
-  "pinyin": "dí",
+  "pinyin": "dé",
   "english": "virtue",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "直(直) (zhí, 'looking forward') + 心(心) (xīn, 'heart, mind') = virtue",
-    "interpretation": "The character 惪 combines 直(直) (zhí, 'looking forward') with 心(心) (xīn, 'heart, mind') to represent virtue through a forward-looking heart or mind. This reflects an ideal of internal moral integrity and direction.",
+    "description": "直(\"looking forward\") + 心(\"heart, mind\") = combined to express virtue in the mind",
+    "interpretation": "The character 惪 is a phono-semantic compound where the phonetic component 直(直) (zhí, \"looking forward\") expresses anticipation or direction, and the semantic component 心(心) (xīn, \"heart, mind\") indicates the mind or emotional quality. Together, they convey the concept of virtue as a quality that aligns one's thoughts (heart) with forward-looking virtues.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "心",
       "trad": "心",
       "pinyin": "xīn",
-      "english": "heart, mind"
+      "english": "heart; mind"
     }
   ],
   "in_contemporary_usage": false,

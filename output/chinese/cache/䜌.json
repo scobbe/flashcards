@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "絲(絲) (sī, 'silk; thread') + 言(言) (yán, 'speech') = representation of discussion or speaking through shared connections -> phonetic component",
-    "interpretation": "The character 䜌 combines 絲(絲) (sī, 'silk; thread') and 言(言) (yán, 'speech') to symbolize communication or discussion, emphasizing the intertwining nature of conversation.",
+    "description": "絲(縷) (sī, \"silk thread\") + 言(言) (yán, \"speech\") = combination of silk and speech elements",
+    "interpretation": "The character 䜌 combines 絲(糸) (sī, \"silk thread\") and 言(言) (yán, \"speech\") to suggest the idea of language or speech components being woven together. This illustrates its role as a phonetic component, symbolically suggesting the intricate nature of speech or narration.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "絲",
       "trad": "絲",
       "pinyin": "sī",
-      "english": "silk; thread"
+      "english": "silk thread"
     },
     {
       "char": "言",

@@ -5,22 +5,22 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "娄(婁) (lóu, \"lou\") + 用(用) (yòng, \"use\") = phonetic component",
-    "interpretation": "The character 㚇 (zōng) is primarily used as a phonetic component. It combines 娄(婁) (lóu, \"lou\"), which provides the phonetic aspect, with 用(用) (yòng, \"use\") to create the overall character, but not for semantic value. Its usage is predominantly phonetic.",
+    "description": "子(子) (zǐ, \"child\") + 宗(宗) (zōng, \"ancestral\") used for phonetic value",
+    "interpretation": "The character 㚇 combines 子(子) (zǐ, \"child\") with 宗(宗) (zōng, \"ancestral\") to form a phonetic compound primarily used to convey sound. The combination does not assign a unique semantic meaning but serves as a phonetic reference in compounds.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "娄",
-      "trad": "婁",
-      "pinyin": "lóu",
-      "english": "lou"
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
     },
     {
-      "char": "用",
-      "trad": "用",
-      "pinyin": "yòng",
-      "english": "use"
+      "char": "宗",
+      "trad": "宗",
+      "pinyin": "zōng",
+      "english": "ancestral"
     }
   ],
   "in_contemporary_usage": false,

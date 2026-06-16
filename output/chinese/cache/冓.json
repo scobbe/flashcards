@@ -5,22 +5,22 @@
   "english": "the shape of a basket repeatedly woven from bamboo",
   "etymology": {
     "type": "ideogrammic compound",
-    "description": "魚(魚) (yú, \"fish\") facing each other -> original script of 遘(gòu) \"to meet; to encounter\"",
-    "interpretation": "The character 冓(gòu) originally depicted two fish with mouths facing each other, symbolizing the idea of meeting or encountering. This ideogrammic representation connects the visual aspect of the character with its meaning.",
+    "description": "魚(魚) (yú, \"fish\") + 魚(魚) (yú, \"fish\") facing each other = original script of 遘(遘) (gòu, \"to meet\")",
+    "interpretation": "The character 冓 represents two fish facing each other, symbolizing the act of meeting or encountering, which reflects its connection to the meaning of 遘(遘) (gòu, \"to meet\"). This imagery of fish is traditionally associated with gatherings, thus extending the sense of \"meeting\" to the character. The later interpretations that depict accumulation are results of character form corruption after the Western Zhou period, rather than the original conception.",
     "simplification": ""
   },
   "parts": [
+    {
+      "char": "遘",
+      "trad": "遘",
+      "pinyin": "gòu",
+      "english": "to meet"
+    },
     {
       "char": "魚",
       "trad": "魚",
       "pinyin": "yú",
       "english": "fish"
-    },
-    {
-      "char": "遘",
-      "trad": "遘",
-      "pinyin": "gòu",
-      "english": "to meet; to encounter"
     }
   ],
   "in_contemporary_usage": false,

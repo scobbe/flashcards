@@ -4,21 +4,15 @@
   "pinyin": "duō",
   "english": "ancient form of 多",
   "etymology": {
-    "type": "ideogrammic compound",
-    "description": "夕(夕) (xī, \"evening\") duplicated -> many evenings -> ancient form of 多(多) (duō, \"many\")",
-    "interpretation": "The character 夛 consists of two 夕(夕) (xī, \"evening\"), similar to the way duplicative nature gives the meaning of \"many.\" It represents an ancient form, indicating more than one or an abundance, similar to 本(本) (běn, \"root\") and 林(林) (lín, \"forest\") for woods.",
+    "type": "pictogram",
+    "description": "Depicts multiple moon shapes -> symbolic of abundance -> ancient form of 多(夛) (duō, \"many\")",
+    "interpretation": "The character 夛 serves as an ancient form of 多(夛) (duō, \"many\"), using a pictogram that represents multiple symbols resembling moons (夕), reflecting abundance or multiplicity. It is connected in form and meaning to 多(夛), where the recurring shapes suggest 'many' similar to how 林(lín, \"forest\") uses multiple 木(mù, \"tree;\") to denote a collection of trees.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "夕",
-      "trad": "夕",
-      "pinyin": "xī",
-      "english": "evening"
-    },
-    {
       "char": "多",
-      "trad": "多",
+      "trad": "夛",
       "pinyin": "duō",
       "english": "many"
     }

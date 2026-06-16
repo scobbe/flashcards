@@ -2,19 +2,25 @@
   "simplified": "敖",
   "traditional": "敖",
   "pinyin": "áo",
-  "english": "to go",
+  "english": "proud; arrogant",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "Pictogram of 𫠤 (person with headdress) -> stylized as 夭 (young man) -> 攴 (strike) added for authority -> transformed to 𢾍 with 方 (same pronunciation) stylization",
-    "interpretation": "Originally depicting a person, the character evolved to include components illustrating authority and movement, with the combination of symbols suggesting command or walking with purpose.",
+    "description": "人(人) (rén, 'person') with headdress -> stylized as 夭 (young man) -> 攴(攴) 'strike' added -> man stylized as 方 (fāng, 'square') -> 敖 (áo, 'proud; arrogant')",
+    "interpretation": "The original depiction of a person with a headdress symbolized authority or pride, hence 'proud; arrogant'. Over time, the person was stylized as a youthful figure, indicating vigor. The addition of 攴(攴) (pū, 'strike') may suggest authority or control, reinforcing the proud or domineering sense. The stylization into 方 (fāng) further abstracted the form to preserve its phonetic function.",
     "simplification": ""
   },
   "parts": [
     {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
       "char": "夭",
       "trad": "夭",
       "pinyin": "yāo",
-      "english": "young"
+      "english": "young man"
     },
     {
       "char": "攴",
@@ -26,9 +32,25 @@
       "char": "方",
       "trad": "方",
       "pinyin": "fāng",
-      "english": "direction"
+      "english": "square"
     }
   ],
-  "in_contemporary_usage": false,
-  "examples": []
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在比赛中表现得非常骄傲和自信(他在比賽中表現得非常驕傲和自信)。",
+      "pinyin": "Tā zài bǐsài zhōng biǎoxiàn de fēicháng jiāo'ào hé zìxìn.",
+      "english": "He behaved very proudly and confidently in the competition."
+    },
+    {
+      "chinese": "她的成功让她变得更加自豪和骄傲(她的成功讓她變得更加自豪和驕傲)。",
+      "pinyin": "Tā de chénggōng ràng tā biàn de gèng jiā zìháo hé jiāo'ào.",
+      "english": "Her success made her even more proud and arrogant."
+    },
+    {
+      "chinese": "骄傲的人常常忽视他人的意见(驕傲的人常常忽視他人的意見)。",
+      "pinyin": "Jiāo'ào de rén chángcháng hūshì tārén de yìjiàn.",
+      "english": "Proud people often ignore the opinions of others."
+    }
+  ]
 }

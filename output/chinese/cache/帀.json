@@ -4,9 +4,9 @@
   "pinyin": "zā",
   "english": "to surround",
   "etymology": {
-    "type": "uncertain",
-    "description": "Interpreted as inverted 之 (footprint) or roots (柢)",
-    "interpretation": "The character 帀 (zā, 'to surround') is uncertain in its origins. It is traditionally interpreted in Shuowen as an inverted version of 之 (zhī, 'footprint'), originally 㞢, symbolizing encirclement, while another interpretation compares it to roots (柢, 'roots'), suggesting a surrounding network.",
+    "type": "phono-semantic compound",
+    "description": "帀 (zā, \"to surround\") -> inverted 之 (footprint) representing 'surround' sense",
+    "interpretation": "The character 帀 (zā, \"to surround\") is a phono-semantic compound where the component 之, originally written as 㞢, represents a footprint. This indicates the idea of surrounding or encircling with connected steps or pathways, as if forming a boundary or enclosure. This imagery may also allude to the convergence of paths or borders, thus reinforcing the meaning 'to surround.'",
     "simplification": ""
   },
   "parts": [
@@ -15,12 +15,6 @@
       "trad": "之",
       "pinyin": "zhī",
       "english": "footprint"
-    },
-    {
-      "char": "柢",
-      "trad": "柢",
-      "pinyin": "dǐ",
-      "english": "roots"
     }
   ],
   "in_contemporary_usage": false,

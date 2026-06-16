@@ -5,11 +5,18 @@
   "english": "crown",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a hat -> original form of 帽 (mào, \"hat\")",
-    "interpretation": "冃 (mào, \"crown\") is a pictogram depicting a simple hat or crown, serving as the original form for 帽 (mào, \"hat\"). It visually represents the concept of headwear in its simplest form.",
+    "description": "Depicts a hat -> original form of 帽",
+    "interpretation": "The character 冃 (mào, \"crown\") is a pictogram depicting a hat, which serves as the original form for 帽 (mào, \"hat\") where 冃 appears as the component ⺜. The simplicity of its design reflects its function, representing a crown or cap. Over time, as the meaning became more specific, 帽 incorporated additional components like 巾 (jīn, \"cloth\") to emphasize its connection to headwear.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "帽",
+      "trad": "帽",
+      "pinyin": "mào",
+      "english": "hat"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

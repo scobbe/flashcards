@@ -5,8 +5,8 @@
   "english": "phonetic component",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "言(言) (yán, \"speech\") + 敖(敖) (áo, \"to go\") = speech element + phonetic 敖",
-    "interpretation": "The character 謷(謷) (áo) combines 言(言) (yán, \"speech\"), which indicates the category of words related to speech or language, with 敖(敖) (áo, \"to go\"), serving as the phonetic component. It is not commonly used in contemporary Chinese, serving mainly as a phonetic element.",
+    "description": "言(言) (yán, \"speech\") + 敖(敖) (áo, phonetic) = spoken arrogance -> arrogant speech",
+    "interpretation": "The character 謷(謷) combines 言(言) (yán, \"speech\") as the semantic component indicating a relation to speaking or language, with 敖(敖) (áo, \"proud; arrogant\") serving as the phonetic component. This suggests the meaning of 'arrogant speech', relating to its connection to words or expressions that may convey pride or boastfulness.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "敖",
       "trad": "敖",
       "pinyin": "áo",
-      "english": "to go"
+      "english": "proud; arrogant"
     }
   ],
   "in_contemporary_usage": false,

@@ -5,11 +5,18 @@
   "english": "depicts hanging flowers",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts flowers hanging down",
-    "interpretation": "The character 𠂹 is a pictogram representing flowers drooping or hanging down, reflecting its original meaning related to plants.",
+    "description": "Depicts 𠂹 (hanging element) + 土 (earth) = flowers hanging from a plant",
+    "interpretation": "The character 𠂹 is an ancient form of 垂(垂) (chuí, \"hang down\") and depicts the image of flowers hanging from a plant. This visualization is directly related to the idea of something drooping or hanging downward, typically from the earth or ground as part of a plant. The incorporation of 土(土) (tǔ, \"earth\") suggests the grounding context of the flowers.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "土",
+      "trad": "土",
+      "pinyin": "tǔ",
+      "english": "earth"
+    }
+  ],
   "in_contemporary_usage": false,
   "examples": []
 }

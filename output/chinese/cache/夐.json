@@ -5,8 +5,8 @@
   "english": "eminent",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "穴(穴, \"cave\") + 目(目, \"eye\") + 支(支, \"hand holding a stick\") = authority asserted -> eminent",
-    "interpretation": "The combination of a cave or closed space with an eye suggests observation or vigilance, while the hand holding a stick implies authority or guidance. Together, these motifs imply a sense of prominence or eminence, as a figure who oversees and controls from a place of power.",
+    "description": "穴(穴) (xué, 'cave; yurt') with 目(目) (mù, 'eye') + a hand with a stick like 支(支) (zhī, 'to support') indicating authority -> concept of 'eminent'",
+    "interpretation": "The character 夐 combines the elements of a cave or yurt, an eye, and a hand holding a stick. These components collectively symbolize a figure of authority, representing the idea of 'eminent'. The presence of a hand with a stick suggests control or command, reinforcing the leader or prominent person's status.",
     "simplification": ""
   },
   "parts": [
@@ -14,7 +14,7 @@
       "char": "穴",
       "trad": "穴",
       "pinyin": "xué",
-      "english": "cave"
+      "english": "cave; yurt"
     },
     {
       "char": "目",
@@ -26,7 +26,7 @@
       "char": "支",
       "trad": "支",
       "pinyin": "zhī",
-      "english": "hand holding a stick"
+      "english": "to support"
     }
   ],
   "in_contemporary_usage": false,

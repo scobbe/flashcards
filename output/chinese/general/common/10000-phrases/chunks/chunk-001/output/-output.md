@@ -190,16 +190,12 @@
 ### 是的 → 是 → 正 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot; stop
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Footprint pointing up (止) ->
-    - stylized as 龰 to indicate feet
-  - **interpretation:** 龰(yù, "stylized feet") represents a stylized version of an upward-footprint. It is derived from and simplifies the depiction found in 止 (zhǐ, "foot; stop"), which had its various toes and a sole depicted, evolving from oracle script. The representation of three toes in 龰 has parallels in other characters depicting human appendages, emphasizing its anatomical imagery. This character is a more abstract representation specifically focusing on the foot shape.
+    - Depicts footprint pointing up with three toes ->
+    - stylized as 龰
+  - **interpretation:** The character 龰 depicts a footprint with three toes pointing upwards, symbolizing the action or concept related to feet. It's a stylized form derived from the pictogram 止 (zhǐ, 'foot') which highlights the same upward toe orientation and originally represented a foot. This graphic representation connects to similar concepts like the characters 夊 and 夂, which suggest downward pointing toes due to their different evolutionary paths and orientations in ancient script.
 ### 是的 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -354,16 +350,23 @@
 - **definition:** acorn
 - **pinyin:** zào
 - **components:**
-  - 皂
-    - zào
-    - soap
   - 早
     - zǎo
     - early
 - **etymology:**
-  - **type:** variant form
-  - **description:** 皁 is a variant of 皂 retaining the original sense of 早 (acorn)
-  - **interpretation:** 皁 is a historical variant of 皂, itself a variant of 早, keeping the meaning 'acorn'. It shows how Chinese characters can evolve in form while retaining their core meanings across variants.
+  - **type:** phono-semantic compound
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 是的 → 的 → 白 → 皂 → 皁 → 早
 - **definition:** early
 - **pinyin:** zǎo
@@ -759,13 +762,15 @@
   - 木
     - mù
     - wood
-  - 兒
-    - ér
-    - child
+  - 尼
+    - ní
+    - Buddhist nun
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** 木 (mù, "wood") + 兒 (ér, "child") as phonetic
-  - **interpretation:** The character 檷(nǐ, "loom") combines 木 (mù, "wood") for its association with the wooden framework of a loom, with 兒 (ér, "child") serving as a phonetic component. This suggests a connection to weaving, which traditionally involved wooden looms.
+  - **description:**
+    - 木 (mù, "wood") + phonetic 尼 (ní, "Buddhist nun") =
+    - loom component for wooden tools
+  - **interpretation:** The character 檷 (nǐ, "loom") is a phono-semantic compound where 木 (mù, "wood") represents its semantic component, indicating its association with wood, typically how looms were historically constructed. The phonetic component is 尼 (ní, "Buddhist nun"), used for its phonetic value rather than literal meaning. This combination suggests the character relates to a type of wooden tool, specifically a loom.
 ### 你好 → 你 → 尔(爾) → 尒 → 檷 → 木
 - **definition:** wood
 - **pinyin:** mù
@@ -780,24 +785,33 @@
   - 工匠精心雕刻木，制成精美家具。
     - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
     - The craftsman carefully carved the wood, crafting exquisite furniture.
-### 你好 → 你 → 尔(爾) → 尒 → 檷 → 兒
-- **definition:** child
-- **pinyin:** ér
+### 你好 → 你 → 尔(爾) → 尒 → 檷 → 尼
+- **definition:** Buddhist nun
+- **pinyin:** ní
+- **components:**
+  - 尸
+    - shī
+    - corpse
+  - 匕
+    - bǐ
+    - spoon
 - **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts an infant with an imperfect cranium (fontanelle)
-  - **interpretation:** The character 兒 (ér, 'child') visually represents an infant, highlighting the soft spot on a baby's head, known as the fontanelle. This pictogram effectively conveys the idea of a young child through its depiction.
-  - **simplification:** 兒 (ér) was simplified to 儿 (ér) by eliminating 臼 (jiù, 'mortar'), which represented the fontanelle, simplifying the character to represent just the form of a standing person.
+  - **type:** ideogrammic compound
+  - **description:**
+    - 尸 (shī, 'corpse') sitting on or leaning against 匕 (bǐ, 'spoon') ->
+    - 'to stop' or 'close; intimate' ->
+    - later usage as 'nun'
+  - **interpretation:** The character 尼 (ní, 'nun') originated from depicting one person sitting on or leaning against another, symbolizing a close or intimate state. This evolved into meanings related to stopping and intimacy, which by extension came to be associated with the concept of a nun, reflecting a person's commitment to a spiritual life.
 - **examples:**
-  - 这(這)个(個)兒(儿)很( )聪(聰)明( )。
-    - Zhè ge ér hěn cōngmíng.
-    - This child is smart.
-  - 他( )看( )见(見)兒(儿)在( )公( )园(園)玩( )耍( )，心( )里(裡)很( )高( )兴(興)。
-    - Tā kànjiàn ér zài gōngyuán wánshuǎ, xīn lǐ hěn gāoxìng.
-    - He saw the child playing in the park, and his heart was filled with joy.
-  - 父( )亲(親)教( )儿( )学(學)习(習)知( )识(識)。
-    - Fùqīn jiāo ér xuéxí zhīshi.
-    - The father teaches the child knowledge.
+  - 寺( )院( )里(裡)有( )一( )位( )慈( )爱(愛)的( )尼( )。
+    - Sìyuàn lǐ yǒu yī wèi cí'ài de ní.
+    - There is a kind-hearted nun in the temple.
+  - 那( )位( )尼( )每( )天( )诵(誦)经(經)，静(靜)心( )参(參)禅(禪)。
+    - Nà wèi ní měitiān sòngjīng, jìngxīn cānchán.
+    - That nun recites scriptures daily and meditates in tranquility.
+  - 这(這)位( )尼( )身( )穿( )灰( )色( )僧( )袍( )，安( )静(靜)地( )阅(閱)读(讀)经(經)典( )。
+    - Zhè wèi ní shēn chuān huīsè sēngpáo, ānjìng de yuèdú jīngdiǎn.
+    - This nun, wearing a grey robe, reads the classics quietly.
 ### 你好 → 你 → 尔(爾) → 小
 - **definition:** small
 - **pinyin:** xiǎo
@@ -1401,11 +1415,9 @@
     - shǒu
     - head
 - **etymology:**
-  - **type:** ancient form
-  - **description:**
-    - 𩠐 ->
-    - ancient form of 首 (shǒu, "head")
-  - **interpretation:** The character 𩠐 is an ancient version of the modern character 首 (shǒu, "head"), indicating its usage in earlier script styles to represent the same meaning related to 'head.'
+  - **type:** pictogram
+  - **description:** Ancient form depicting a head with a prominent nose and eyes
+  - **interpretation:** The character 𩠐 is an ancient representation of 首 (shǒu, "head"), constructed to visualize key facial features like the nose and eyes. Over time, it evolved into the modern form 首 (shǒu, "head"), but maintains the core visual elements representing a head in its structure.
 ### 我不知道 → 知道 → 道 → 𩠐 → 首
 - **definition:** head
 - **pinyin:** shǒu
@@ -1500,16 +1512,13 @@
 ### 我不知道 → 知道 → 道 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot; stop
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Ancient footprint pointing upwards stylized as 龰 ->
-    - derivative of 止 (zhǐ, 'foot; stop')
-  - **interpretation:** 龰 represents a stylized version of a footprint pointing upwards, originally depicting a foot. Over time, it evolved from 止 (zhǐ, 'foot; stop') and was later stylized in its form.
+    - Depicts stylized feet ->
+    - original form of 止 (zhǐ, "foot") ->
+    - evolved to 龰(yù, "stylized feet")
+  - **interpretation:** 龰(yù, "stylized feet") is a pictogram depicting a footprint pointing upwards, originally meaning "foot". It has three toes and a sole, similar to how human hands are depicted in characters like 爪(zhuǎ, "claw") and 寸(cùn, "inch"). The character evolved to represent the stylized concept of feet.
 ### 我不知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -2401,10 +2410,8 @@
 - **pinyin:** fú
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a mask or face of a ghost/spirit/demon ->
-    - stylized as a mask
-  - **interpretation:** The character 甶 is traditionally interpreted as depicting the head or face of a ghost, spirit, or demon. It may represent a mask used in rituals or ceremonies, reflecting its association with supernatural entities.
+  - **description:** Depicts the face or head of a ghost/spirit/demon, possibly as a mask
+  - **interpretation:** 甶(fú, "ghost head") is depicted as the face or head of a ghost or spirit. The character resembles a mask, suggesting its use in spiritual or ritual contexts. While commonly associated with ghosts or spirits, the depiction as a mask allows for interpretations related to disguise or otherworldly representations.
 ### 喂(餵) → 食
 - **definition:** food
 - **pinyin:** shí
@@ -2809,31 +2816,13 @@
     - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
     - One straight road leads to the distance.
 ### 我知道 → 知道 → 道 → 𩠐
-- **components:**
-  - 首
-    - shǒu
-    - head
 - **etymology:**
   - **type:** pictogram
-  - **description:** An ancient form of 首 (shǒu, "head")
-  - **interpretation:** 𩠐 depicts a form that resembles a head, which was used in ancient scripts to denote the word "head" in a pictographic manner. It was later standardized as 首 in modern usage.
-### 我知道 → 知道 → 道 → 𩠐 → 首
-- **definition:** head
-- **pinyin:** shǒu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a head with the stylized representation of eyes and hair
-  - **interpretation:** The character 首 (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.
-- **examples:**
-  - 他( )昂( )首( )挺( )胸( )走( )上( )领(領)奖(獎)台( )。
-    - Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.
-    - He walked onto the podium with his head held high.
-  - 受( )伤(傷)后(後)，他( )低( )下( )首( )表( )示( )谦(謙)逊(遜)。
-    - Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.
-    - After being injured, he lowered his head to show humility.
-  - 他( )被( )选(選)为(為)公( )司( )的( )首( )席( )执(執)行( )官( )。
-    - Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.
-    - He was elected as the company's chief executive officer.
+  - **description:**
+    - 𩠐 depicts a head with features like eyes and nose ->
+    - stylized as 首 ->
+    - evolved into modern form 首
+  - **interpretation:** 𩠐 is an ancient depiction of a head, capturing essential features such as eyes and nose, which was later standardized as 首 (shǒu, 'head'). This evolution reflects the character's role in representing parts of the body associated with the head, such as the face and skull.
 ### 我知道 → 知道 → 道 → 止
 - **definition:** foot
 - **pinyin:** zhǐ
@@ -2911,17 +2900,12 @@
 ### 我知道 → 知道 → 道 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized foot with toes ->
-    - derivative form of the original footprint shape 止 (zhǐ, "foot") ->
+    - Depicts a footprint pointing up ->
     - stylized as 龰
-  - **interpretation:** The character 龰 represents a stylized interpretation of a foot, originally depicted with an upward pointing footprint in 止 (zhǐ, "foot"). Over time, it became a generalized symbol for feet with a simplified style.
+  - **interpretation:** The character 龰 (yù, "stylized feet") is a pictogram representing a footprint pointing upwards, symbolizing the foot. Over time, it became stylized as 龰, serving as a graphical representation of feet, differentiated from similar characters like 夊 and 夂, which depict feet oriented in different directions. These variations indicate different historical evolutions and usages related to feet.
 ### 我知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -3829,34 +3813,20 @@
 - **definition:** the shape of a basket repeatedly woven from bamboo
 - **pinyin:** gòu
 - **components:**
+  - 遘
+    - gòu
+    - to meet
   - 魚
     - yú
     - fish
-  - 遘
-    - gòu
-    - to meet; to encounter
 - **etymology:**
   - **type:** ideogrammic compound
   - **description:**
-    - 魚 (yú, "fish") facing each other ->
-    - original script of 遘(gòu) "to meet; to encounter"
-  - **interpretation:** The character 冓(gòu) originally depicted two fish with mouths facing each other, symbolizing the idea of meeting or encountering. This ideogrammic representation connects the visual aspect of the character with its meaning.
-### 再( )见(見) → 再 → 冓 → 魚
-- **definition:** fish
-- **pinyin:** yú
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a fish
-  - **interpretation:** The character 魚(yú, 'fish') visually resembles a fish with a head, body, and tail. This depiction makes it easy to relate the character to its meaning.
-- **examples:**
-  - 河中有一尾魚，在陽光下閃著銀光。
-    - hé zhōng yǒu yī wěi yú, zài yángguāng xià shǎn zhe yín guāng。
-    - There is a fish in the river, shimmering under the sunlight.
-  - 海( )里(裡)有( )许(許)多( )魚( )，在( )自( )由( )里(裡)游( )动(動)。
-    - hǎi lǐ yǒu xǔ duō yú, zài zìyóu lǐ yóu dòng。
-    - There are many fish in the sea, swimming freely.
+    - 魚 (yú, "fish") + 魚 (yú, "fish") facing each other =
+    - original script of 遘 (gòu, "to meet")
+  - **interpretation:** The character 冓 represents two fish facing each other, symbolizing the act of meeting or encountering, which reflects its connection to the meaning of 遘 (gòu, "to meet"). This imagery of fish is traditionally associated with gatherings, thus extending the sense of "meeting" to the character. The later interpretations that depict accumulation are results of character form corruption after the Western Zhou period, rather than the original conception.
 ### 再( )见(見) → 再 → 冓 → 遘
-- **definition:** to meet; to encounter
+- **definition:** to meet
 - **pinyin:** gòu
 - **components:**
   - 辵
@@ -3864,14 +3834,13 @@
     - walk; movement
   - 冓
     - gòu
-    - enclosure
+    - phonetic (in 'gòu')
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - semantic 辵 (chuò, "walk; movement") + phonetic 冓 (gòu) =
-    - to encounter while walking ->
-    - to meet; to encounter
-  - **interpretation:** The character 遘(gòu, "to meet; to encounter") combines the semantic component 辵 (chuò, "walk; movement"), representing movement or traveling, with the phonetic component 冓 (gòu), to convey the meaning of meeting or encountering, presumably while on a journey.
+    - 辶(辵) (walk; movement) + 冓 (gòu) =
+    - semantic 'to walk or meet' with phonetic reinforcement from 冓
+  - **interpretation:** 遘 (gòu, "to meet") combines 辶(辵) (chuò, "walk; movement") signaling action or motion, with 冓 (gòu), lending its sound. The character suggests 'coming across or meeting while moving'.
 ### 再( )见(見) → 再 → 冓 → 遘 → 辵
 - **definition:** walk; movement
 - **pinyin:** chuò
@@ -3945,6 +3914,20 @@
   - 他( )走( )路( )时(時)小( )心( )谨(謹)慎( )，因( )为(爲)止( )若( )受( )伤(傷)便( )难(難)前( )行( )。
     - Tā zǒu lù shí xiǎo xīn jǐn shèn, yīn wèi zhǐ ruò shòu shāng biàn nán qián xíng.
     - He walks carefully because if his foot gets injured, it becomes difficult to move forward.
+### 再( )见(見) → 再 → 冓 → 魚
+- **definition:** fish
+- **pinyin:** yú
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a fish
+  - **interpretation:** The character 魚(yú, 'fish') visually resembles a fish with a head, body, and tail. This depiction makes it easy to relate the character to its meaning.
+- **examples:**
+  - 河中有一尾魚，在陽光下閃著銀光。
+    - hé zhōng yǒu yī wěi yú, zài yángguāng xià shǎn zhe yín guāng。
+    - There is a fish in the river, shimmering under the sunlight.
+  - 海( )里(裡)有( )许(許)多( )魚( )，在( )自( )由( )里(裡)游( )动(動)。
+    - hǎi lǐ yǒu xǔ duō yú, zài zìyóu lǐ yóu dòng。
+    - There are many fish in the sea, swimming freely.
 ### 再( )见(見) → 见(見)
 - **traditional:** 見
 - **definition:** see; meet; appear
@@ -4126,18 +4109,26 @@
 - **components:**
   - 冂
     - jiōng
-    - open
+    - border
   - 口
     - kǒu
     - mouth
 - **etymology:**
-  - **type:** ancient variant
+  - **type:** ideogrammic compound
   - **description:**
-    - An ancient variant of 冂 (jiōng, "open") with a 口 (kǒu, "mouth") inside ->
-    - closed space with an opening
-  - **interpretation:** 冋 represents a closed or enclosed space with only an opening represented by 冂 (jiōng, "open") and a closing mouth represented by 口 (kǒu, "mouth"). This ancient variant emphasizes the notion of enclosure.
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ### 当(當)然( ) → 当(當) → 尚 → 冋 → 冂
-- **definition:** open
+- **definition:** border
 - **pinyin:** jiōng
 - **components:**
   - 堂
@@ -4285,8 +4276,9 @@
   - **type:** ideogrammic compound
   - **description:**
     - 肉 (ròu, "meat") + 犬 (quǎn, "dog") =
-    - depiction of a dog and meat
-  - **interpretation:** The character 肰(rán) combines the meanings of 肉 (ròu, "meat") and 犬 (quǎn, "dog"), implying a relationship or action involving meat and dogs, serving as a semantic component.
+    - meat used to feed dogs ->
+    - traditionally used as a phonetic component
+  - **interpretation:** The character 肰 consists of 肉 (ròu, "meat") and 犬 (quǎn, "dog"), combining the concepts of "meat" and "dog" to possibly convey the idea of meat being eaten by or associated with dogs. It primarily serves as a phonetic component in characters such as 然 (rán, "thus").
 ### 当(當)然( ) → 然 → 肰 → 肉
 - **definition:** meat
 - **pinyin:** ròu
@@ -4486,9 +4478,11 @@
 - **definition:** exhaled air
 - **pinyin:** kǎo
 - **etymology:**
-  - **type:** conflation
-  - **description:** Interpreted as a structure symbolizing exhaled breath
-  - **interpretation:** The character 丂 is an abstraction symbolizing an exhalation or breath, representing the flow of air leaving the mouth. It is a conflation of related symbols, not derived from or directly linked with other specific Chinese characters. It maintains its unique standalone presence in the script.
+  - **type:** pictogram
+  - **description:**
+    - Originally depicted a person with air exhaling from the mouth ->
+    - Represents exhaled air
+  - **interpretation:** The character 丂 (kǎo, 'exhaled air') is a pictogram that illustrates the concept of air being exhaled through an open mouth. In its original form, it visually depicted a person exhaling, capturing the essence of breath and air movement.
 ---
 ## 啊
 ### a
@@ -4676,7 +4670,7 @@
   - **description:**
     - Depicts a footprint pointing up ->
     - stylized as 龰
-  - **interpretation:** The character 龰 (yù, "stylized feet") is a pictogram representing a footprint or foot with toes pointing upwards. This stylized depiction was originally meant to convey the idea of a foot, and has since evolved to become stylized in its current form.
+  - **interpretation:** The character 龰 represents a stylized depiction of a foot, tracing back to the original ideogram of a footprint pointing upwards. It emphasizes the foot's shape by including the image of toes much like how the hand is represented in other characters such as 爪 (zhǎo, "claw") and 寸 (cùn, "inch"). It's differentiated from similar characters by its upward orientation, unlike 夊 and 夂 which point down.
 ### 等等 → 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5015,9 +5009,9 @@
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Footprint pointing up ->
-    - stylized as 龰
-  - **interpretation:** The character 龰 is a stylized depiction of a footprint pointing upwards, which originally meant 'foot'. It retains the visual representation of a footprint with three toes and a sole, in contrast to other similar characters like 夂, which points downward.
+    - Originally depicts a footprint pointing up (止 'foot') ->
+    - stylized to represent feet as 龰
+  - **interpretation:** 龰(yù, 'stylized feet') originated as a pictograph of a footprint in the upward direction, symbolizing 'foot'. This character has been stylized to emphasize feet in general, particularly the shape and orientation of toes akin to the depiction of a human hand. Related characters like 趾(zhi, 'toe') carry the specific meaning derived directly from this original pictograph. While the depiction of 龰 captures the essence of feet, similarly oriented character representations of hands or claws are expressed with analogous strokes and structure.
 ### 是( )吗(嗎) → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5395,15 +5389,18 @@
 - **definition:** stylized feet
 - **pinyin:** yù
 - **components:**
+  - 止
+    - zhǐ
+    - foot
   - 趾
     - zhǐ
     - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint pointing up; originally meant 'foot' ->
-    - stylized as 龰; derived to 趾 (zhǐ, 'toe').
-  - **interpretation:** 龰 is a stylized representation of a footprint originally indicating a 'foot,' emphasizing its connection to walking or stepping. The character is derived to 趾 (zhǐ, 'toe'), capturing the original meaning.
+    - Depicts a stylized footprint with toes pointing up ->
+    - used to represent stylized feet in script
+  - **interpretation:** 龰(yù, "stylized feet") is a pictogram derived from 止 (zhǐ, "foot") originally depicting a footprint pointing upwards. This layout evolved to stylize the concept of 'feet' for use in script. Although 趾 (zhǐ, "toe") eventually referred back to the original meaning of foot, 龰 became a stylized representation. The character reflects three toes and a sole, similar to the hand representation found in characters like 爪 (zhǎo, "claw") and 寸 (cùn, "inch") in its earlier form.
 ### 走吧 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -5655,9 +5652,9 @@
 - **definition:** knife
 - **pinyin:** (no pinyin)
 - **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a basic blade or knife shape
-  - **interpretation:** The character 𠂈 is a pictogram illustrating the shape of a knife, represented by a simple blade form.
+  - **type:** variant form
+  - **description:** 𠂈 is a variant form of 𠄍
+  - **interpretation:** 𠂈 is an archaic or variant representation of 𠄍, used when simpler character forms were written. It is not used in modern Chinese as a standalone character.
 ### 真的 → 真 → 貝
 - **definition:** cowry
 - **pinyin:** bèi
@@ -5756,16 +5753,12 @@
   - 其
     - qí
     - his
-  - 𠀠
-    - basket
 - **etymology:**
-  - **type:** phono-semantic compound
+  - **type:** pictogram
   - **description:**
-    - 𠀠 (depicting a basket) + 丌 (table/stand added) =
-    - basket on a stand ->
-    - borrowed for pronoun 其 (qí, 'his') ->
-    - 丌 as an ancient form of 其
-  - **interpretation:** The character 丌 originally represented a stand beneath a basket, which visually supported the basket in form. Despite this morphological purpose, it became associated with the phonetic and semantic properties of 其 (qí, 'his'), and was later independent in classical Chinese inscriptions.
+    - Depicts a support or stand for a basket ->
+    - later representation of a table
+  - **interpretation:** The character 丌 (jī, "table") originally represents a stand or support and was used as a component under 其 (qí, "his") to depict a basket on a stand. This association serves as its link to the meaning of 'table', conceptualizing a flat-topped support structure. This character was an ancient form of 其 and primarily served as a physical depiction of a supporting stand.
 ### 真的 → 真 → 丌 → 其
 - **definition:** his
 - **pinyin:** qí
@@ -5829,24 +5822,6 @@
   - 竹( )子( )在( )风(風)中( )摇(搖)曳( )，发(發)出( )沙( )沙( )的( )声(聲)音( )。
     - Zhúzi zài fēng zhōng yáo yè, fā chū shā shā de shēng yīn.
     - The bamboo sways in the wind, making a rustling sound.
-### 真的 → 真 → 丌 → 𠀠
-- **definition:** basket
-- **components:**
-  - 箕
-    - jī
-    - basket
-  - 竹
-    - zhú
-    - bamboo
-  - 其
-    - qí
-    - his
-- **etymology:**
-  - **type:** phono-semantic compound
-  - **description:**
-    - 竹 (zhú, "bamboo") + 其 (qí, "his") as phonetic =
-    - basket specialization
-  - **interpretation:** The character 𠀠 is a variant of 箕 (jī, "basket"), retaining its bamboo imagery with 竹 and using 其 as a phonetic element to convey sound. This reflects its specialized usage for carrying items, signified by the bamboo material.
 ### 真的 → 的
 - **definition:** of; possessive particle
 - **pinyin:** de
@@ -5984,18 +5959,23 @@
 - **definition:** acorn
 - **pinyin:** zào
 - **components:**
-  - 皂
-    - zào
-    - acorn
   - 早
     - zǎo
     - early
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:**
-    - 皁 (zào, 'acorn') is a variant form of 皂 (zào, 'acorn'), which in turn is a variant of 早 (zǎo, 'early') ->
-    - original sense 'acorn'
-  - **interpretation:** 皁 (zào, 'acorn') evolved from its original association with 早 (zǎo, 'early'), indicating a historical link where earlyness could metaphorically relate to the proliferation of acorns.
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 真的 → 的 → 白 → 皂 → 皁 → 早
 - **definition:** early
 - **pinyin:** zǎo
@@ -6581,12 +6561,55 @@
   - 趾
     - zhǐ
     - toe
+  - 爪
+    - zhǎo
+    - claw
+  - 又
+    - yòu
+    - again
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint stylized as 龰 ->
-    - related to footprint or foot; derivative is 趾 (toe)
-  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram depicting a footprint pointing up. It was originally used to symbolize a foot, and this depiction evolved into the derivative character 趾 (zhǐ, 'toe'). The stylized representation reflects a foot with three toes, paralleling how the human hand is represented in other characters.
+    - Depicts a stylized footprint pointing up ->
+    - originally meant 'foot'; stylized as 龰 ->
+    - derivative of 趾 (zhǐ, 'toe').
+  - **interpretation:** The character 龰 is a stylized depiction of a footprint which originally represented the concept of 'foot'. In its depiction, the character shows a foot with three toes and a sole, similar to the way human hands are rendered in other characters like 爪 (zhǎo, 'claw') and 又 (yòu, 'again'). Although 龰 evolved its own distinct form, it shares its origin with the character 趾 (zhǐ, 'toe'), reflecting its historical connection to depictions of feet.
+### 不是 → 是 → 正 → 止 → 龰 → 爪
+- **definition:** claw
+- **pinyin:** zhǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a hand grabbing from above, resembles a claw ->
+    - stylized to represent claws
+  - **interpretation:** The character 爪 (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
+- **examples:**
+  - 猫(貓)的( )爪( )非( )常( )敏( )捷( )。
+    - Māo de zhǎo fēicháng mǐnjié.
+    - The cat's claws are very agile.
+  - 狗( )的( )爪( )稳(穩)固( )，使( )它( )轻(輕)松(鬆)爬( )山( )。
+    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
+    - The dog's claws are sturdy, allowing it to climb mountains easily.
+  - 鹰(鷹)的( )爪( )锋(鋒)利( )，能( )牢( )牢( )抓( )住( )猎(獵)物( )。
+    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
+    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
+### 不是 → 是 → 正 → 止 → 龰 → 又
+- **definition:** again
+- **pinyin:** yòu
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a right hand
+  - **interpretation:** The character 又 (yòu, "hand") is a pictogram representing a right hand, showing the fingers and palm, which highlights its original meaning related to manual actions.
+- **examples:**
+  - 「又」这个字最早来源于手(「又」這個字最早來源於手)。
+    - 「Yòu」 zhè gè zì zuì zǎo láiyuán yú shǒu。
+    - The character '又' originally comes from the hand.
+  - 很( )多( )汉(漢)字( )含( )有( )又( )部( )首( )，表( )示( )与(與)手( )有( )关(關)的( )动(動)作( )。
+    - Hěn duō hànzì hányǒu Yòu bùshǒu, biǎoshì yǔ shǒu yǒuguān de dòngzuò。
+    - Many Chinese characters include the '又' radical, indicating actions related to the hand.
+  - 古( )人( )用( )又( )描( )绘(繪)手( )的( )形( )态(態)，体(體)现(現)了( )古( )汉(漢)字( )的( )独(獨)特( )魅( )力( )。
+    - Gǔrén yòng Yòu miáohuì shǒu de xíngtài, tǐxiàn le gǔ hànzì de dútè mèilì。
+    - Ancient people used '又' to depict the shape of the hand, showcasing the unique charm of ancient Chinese characters.
 ### 不是 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -6954,16 +6977,15 @@
   - 木
     - mù
     - wood
-  - 尼
+  - 倪
     - ní
-    - Buddhist nun
+    - end; limit
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 木 (mù, "wood") + 尼 (ní, phonetic) =
-    - tool associated with wood ->
+    - 木 (mù, "wood") + 倪 (ní, "end; limit") =
     - loom
-  - **interpretation:** The character 檷(nǐ, "loom") combines the semantic component 木 (mù, "wood"), indicating its relation to wooden tools or structures, with the phonetic component 尼 (ní) to suggest pronunciation. This construction makes intuitive sense as looms are traditionally made of wood.
+  - **interpretation:** 檷 (nǐ, "loom") combines 木 (mù, "wood") to signify the material commonly used in making looms, with 倪 (ní, "end; limit") as a phonetic component providing the pronunciation. The combination depicts the idea of a wooden structure used in weaving, hence the meaning "loom". The character is specific and technical, referring to the tool used in textile production.
 ### 谢(謝)谢(謝)你( ) → 你 → 尔(爾) → 尒 → 檷 → 木
 - **definition:** wood
 - **pinyin:** mù
@@ -6978,33 +7000,33 @@
   - 工匠精心雕刻木，制成精美家具。
     - Gōngjiàng jīngxīn diāo kè mù, zhìchéng jīngměi jiājù.
     - The craftsman carefully carved the wood, crafting exquisite furniture.
-### 谢(謝)谢(謝)你( ) → 你 → 尔(爾) → 尒 → 檷 → 尼
-- **definition:** Buddhist nun
+### 谢(謝)谢(謝)你( ) → 你 → 尔(爾) → 尒 → 檷 → 倪
+- **definition:** end; limit
 - **pinyin:** ní
 - **components:**
-  - 尸
-    - shī
-    - corpse
-  - 匕
-    - bǐ
-    - spoon
+  - 人(亻)
+    - rén
+    - person
+  - 儿(兒)
+    - ér
+    - child
 - **etymology:**
-  - **type:** ideogrammic compound
+  - **type:** phono-semantic compound
   - **description:**
-    - 尸 (shī, 'corpse') sitting on or leaning against 匕 (bǐ, 'spoon') ->
-    - 'to stop' or 'close; intimate' ->
-    - later usage as 'nun'
-  - **interpretation:** The character 尼 (ní, 'nun') originated from depicting one person sitting on or leaning against another, symbolizing a close or intimate state. This evolved into meanings related to stopping and intimacy, which by extension came to be associated with the concept of a nun, reflecting a person's commitment to a spiritual life.
+    - 亻(人, "person") + 兒(儿, "child"/phonetic) =
+    - a figurative extension of limit or boundary ->
+    - referentially associated with limits of a person or actions
+  - **interpretation:** The character 倪(ní) combines 人(亻) (rén, "person") as the semantic component, indicating a relationship to human characteristics or conditions, with 兒(儿) as the phonetic component, suggesting the pronunciation. This combination may metaphorically suggest the limitations inherent to a person or situation.
 - **examples:**
-  - 寺( )院( )里(裡)有( )一( )位( )慈( )爱(愛)的( )尼( )。
-    - Sìyuàn lǐ yǒu yī wèi cí'ài de ní.
-    - There is a kind-hearted nun in the temple.
-  - 那( )位( )尼( )每( )天( )诵(誦)经(經)，静(靜)心( )参(參)禅(禪)。
-    - Nà wèi ní měitiān sòngjīng, jìngxīn cānchán.
-    - That nun recites scriptures daily and meditates in tranquility.
-  - 这(這)位( )尼( )身( )穿( )灰( )色( )僧( )袍( )，安( )静(靜)地( )阅(閱)读(讀)经(經)典( )。
-    - Zhè wèi ní shēn chuān huīsè sēngpáo, ānjìng de yuèdú jīngdiǎn.
-    - This nun, wearing a grey robe, reads the classics quietly.
+  - 他( )发(發)现(現)了( )事( )情( )的( )倪( )端( )。
+    - Tā fāxiàn le shìqíng de ní duān.
+    - He discovered the clue to the situation.
+  - 这(這)问(問)题(題)似( )乎( )没(沒)有( )尽(盡)头(頭)和( )倪( )端( )。
+    - Zhè wèntí sìhū méiyǒu jìntóu hé ní duān.
+    - This problem seems to have no end or limit.
+  - 科( )学(學)的( )进(進)步( )不( )断(斷)超( )越( )极(極)限( )和( )倪( )端( )。
+    - Kēxué de jìnbù bùduàn chāoyuè jíxiàn hé ní duān.
+    - Scientific progress constantly surpasses limits and boundaries.
 ### 谢(謝)谢(謝)你( ) → 你 → 尔(爾) → 小
 - **definition:** small
 - **pinyin:** xiǎo
@@ -7185,10 +7207,8 @@
 - **pinyin:** kǎo
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts exhaled air ->
-    - derivative character unclear from primary sources
-  - **interpretation:** The character 丂 (kǎo, 'exhaled air') is a simple pictogram likely representing a form or action related to emitting air or breath. Its exact derivation or relationship to other characters is not clear, making it a somewhat isolated graphical symbol in early Chinese script.
+  - **description:** Depicts a stylized form resembling an exhaled breath
+  - **interpretation:** The character 丂 (kǎo, "exhaled air") is a pictogram representing the concept of exhalation through a stylized depiction of breath.
 ---
 ## 天啊
 ### tiān a
@@ -7418,19 +7438,12 @@
 ### 来(來)吧( ) → 来(來) → 來 → 止 → 龰
 - **definition:** stylized feet
 - **pinyin:** yù
-- **components:**
-  - 止
-    - zhǐ
-    - foot; stop
-  - 趾
-    - zhǐ
-    - toe; foot
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint ->
-    - represents the concept of feet
-  - **interpretation:** 龰(yù, 'stylized feet') depicts a stylized version of the footprint to represent the concept of feet. It is derived from 止 (zhǐ, 'foot; stop'), emphasizing the shape and orientation of a foot or footprint, typically stylized with toes at the top.
+    - Depicts a footprint pointing up ->
+    - stylized as 龰 with three toes and a sole
+  - **interpretation:** The character 龰 (yù) depicts a footprint with the toes pointing upwards. This character, originally representing a foot, has been stylized with three toes and a sole, similar to the depiction of hands in other pictograms like 爪 (zhǎo, "claw") and 又 (yòu, "again"). Over time, this form evolved into other related characters such as 趾 (zhǐ, "toe"), which retains the original meaning of 'foot'.
 ### 来(來)吧( ) → 来(來) → 來 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -8389,33 +8402,10 @@
     - Yī tiáo zhí lù tōng xiàng yuǎn fāng.
     - One straight road leads to the distance.
 ### 不知道 → 知道 → 道 → 𩠐
-- **components:**
-  - 首
-    - shǒu
-    - head
 - **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a head or top ->
-    - ancient form of 首 (shǒu, "head")
-  - **interpretation:** 𩠐 is an ancient pictorial representation of a head, which later evolved into the character 首 (shǒu, "head"), representing the top or beginning of something.
-### 不知道 → 知道 → 道 → 𩠐 → 首
-- **definition:** head
-- **pinyin:** shǒu
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a head with the stylized representation of eyes and hair
-  - **interpretation:** The character 首 (shǒu, 'head') depicts a head, with the top portion representing hair and a central line suggesting a facial feature, effectively conveying the concept of a head.
-- **examples:**
-  - 他( )昂( )首( )挺( )胸( )走( )上( )领(領)奖(獎)台( )。
-    - Tā áng shǒu tǐng xiōng zǒu shàng lǐng jiǎng tái.
-    - He walked onto the podium with his head held high.
-  - 受( )伤(傷)后(後)，他( )低( )下( )首( )表( )示( )谦(謙)逊(遜)。
-    - Shòu shāng hòu, tā dī xià shǒu biǎo shì qiān xùn.
-    - After being injured, he lowered his head to show humility.
-  - 他( )被( )选(選)为(為)公( )司( )的( )首( )席( )执(執)行( )官( )。
-    - Tā bèi xuǎn wéi gōng sī de shǒu xí zhí xíng guān.
-    - He was elected as the company's chief executive officer.
+  - **type:** ancient form
+  - **description:** An ancient form of 首 (shǒu, "head")
+  - **interpretation:** 𩠐 is a form used in ancient texts that corresponds to the modern character 首 (shǒu, "head"), indicating it was historically a variant or predecessor of the character used today for 'head'.
 ### 不知道 → 知道 → 道 → 止
 - **definition:** foot
 - **pinyin:** zhǐ
@@ -8495,11 +8485,8 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts a foot print pointing up (originally meaning 'foot') ->
-    - stylized as 龰 ->
-    - derivative of foot-related characters
-  - **interpretation:** 龰 is a pictogram depicting a footprint, completed by three toes and a sole. It's stylized differently than similar characters like 夊 or 夂, which depict downward-pointing feet, and serves as a basis for characters like 趾 (zhǐ, 'toe').
+  - **description:** Depicts a stylized footprint originally pointing up, intended to represent a foot
+  - **interpretation:** 龰 (yù, 'stylized feet') is a pictogram representing a footprint oriented upwards, signifying the concept of feet. Derived forms like 趾 (zhǐ, 'toe') have maintained the notion of 'foot'. The pictogram is akin to other body part depictions such as 手 (shǒu, 'hand'), with the commonality of three appendages depicted (toes in this case), reflecting human anatomy. The character is directly related to the oracle script representation wherein it incorporated three toes and a sole, visually grounding its meaning as 'feet'.
 ### 不知道 → 知道 → 道 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -8745,51 +8732,24 @@
 - **definition:** acorn
 - **pinyin:** zào
 - **components:**
-  - 日
-    - rì
-    - sun
-  - 且
-    - qiě
-    - moreover
+  - 早
+    - zǎo
+    - early
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:**
-    - 日 (rì, "sun") + 且 (qiě, "moreover") =
-    - acorn shape under sunlight ->
-    - original meaning 'acorn'
-  - **interpretation:** The character 皁 is a variant form of 早 (zǎo, "early"), with its traditional association being with the word 'acorn'. It combines 日 (rì, "sun") phonetically with 且 (qiě, "moreover") semantically to convey the original sense of an 'acorn'.
-### 好的 → 的 → 白 → 皂 → 皁 → 日
-- **definition:** sun
-- **pinyin:** rì
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts the sun; a dot or line added in the center to distinguish from similar characters e.g. 囗
-  - **interpretation:** As a pictogram, 日(rì, 'sun') directly represents the sun. In ancient times, the added dot helped visually differentiate it from other characters. This is analogous to the astronomical symbol ☉ and Egyptian hieroglyph 𓇳, both depicting the sun.
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
 - **examples:**
-  - 晨( )曦( )来(來)临(臨)时(時)，日( )出( )东(東)方( )。
-    - Chénxī láilín shí, rìchū dōngfāng.
-    - At the break of dawn, the sun rises in the east.
-  - 温(溫)暖( )的( )日( )光( )洒(灑)满(滿)大( )地( )。
-    - Wēnnuǎn de rìguāng sǎ mǎn dàdì.
-    - The warm sunlight spreads over the earth.
-  - 中( )午( )时(時)分( )，日( )高( )挂(掛)天( )。
-    - Zhōngwǔ shífēn, rì gāo guà tiān.
-    - At noon, the sun hangs high in the sky.
-### 好的 → 的 → 白 → 皂 → 皁 → 且
-- **definition:** moreover
-- **pinyin:** qiě
-- **etymology:**
-  - **type:** Pictogram
-  - **description:** Depicts a stone altar or a sacrificial vessel used for chopping and holding meat
-  - **interpretation:** The character 且(qiě, 'further') likely represents a stone altar or a sacrificial vessel from a top-down view, emphasizing its association with rituals or offerings. Its early usage linked it to the concept of ancestor worship or ritual practices, which later evolved to incorporate additional meanings.
-- **examples:**
-  - 他努力工作，且( )不( )断(斷)学(學)习(習)。
-    - Tā nǔlì gōngzuò, qiě bù duàn xuéxí.
-    - He works hard, and further, he keeps learning continuously.
-  - 你( )且( )等( )待( )一( )会(會)儿(兒)，机(機)会(會)即( )将(將)来(來)临(臨)。
-    - Nǐ qiě děngdài yīhuǐr, jīhuì jíjiāng láilín.
-    - Please wait a moment, as further opportunity is about to arrive.
-### 好的 → 的 → 白 → 皂 → 早
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
+### 好的 → 的 → 白 → 皂 → 皁 → 早
 - **definition:** early
 - **pinyin:** zǎo
 - **components:**
@@ -8819,20 +8779,6 @@
   - 他( )喜( )欢(歡)早( )睡( )，早( )起( )的( )习(習)惯(慣)让(讓)他( )精( )力( )充( )沛( )。
     - Tā xǐhuān zǎo shuì, zǎo qǐ de xíguàn ràng tā jīnglì chōngpèi.
     - He likes going to bed early, and his habit of getting up early makes him energetic.
-### 好的 → 的 → 白 → 皂 → 早 → 甲
-- **definition:** first
-- **pinyin:** jiǎ
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts the shape of a suit of armor with overlapping plates
-  - **interpretation:** The character 甲 (jiǎ, 'armor') is a pictogram representing a stylized view of a suit of armor consisting of overlapping plates, suggesting protection and covering.
-- **examples:**
-  - 骑(騎)士( )穿( )戴( )甲( )，保( )卫(衛)国(國)家( )。
-    - Qíshì chuāndài jiǎ, bǎowèi guójiā.
-    - The knight dons the armor, defending the country.
-  - 古代兵士依靠甲，抵( )御(禦)强(強)敌(敵)。
-    - Gǔdài bīngshì yīkào jiǎ, dǐyù qiángdí.
-    - Ancient soldiers relied on armor, repelling formidable enemies.
 ### 好的 → 的 → 勺
 - **definition:** spoon
 - **pinyin:** sháo
@@ -9074,15 +9020,15 @@
 - **definition:** stylized feet
 - **pinyin:** yù
 - **components:**
-  - 趾
+  - 止
     - zhǐ
-    - toe
+    - foot
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a stylized footprint with 3 toes ->
+    - Depicts a stylized pair of feet pointing upwards; original form as 止 (zhǐ, 'foot') ->
     - stylized as 龰
-  - **interpretation:** 龰 (yù, "stylized feet") is a pictogram representing a footprint with three toes. This stylized representation traces its lineage back to earlier forms depicting human feet or footprints. Related characters evolved differently, such as 趾 (zhǐ, "toe") which originally shared the same pictographic roots.
+  - **interpretation:** The character 龰 is a pictogram representing feet or steps, showing a stylized design reflecting footprints pointing upwards. It originates from the character 止 (zhǐ, 'foot') which graphically depicted a footprint.
 ### 等一下 → 等 → 寺 → 之 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -9797,9 +9743,19 @@
     - kǒu
     - mouth
 - **etymology:**
-  - **type:** ancient variant
-  - **description:** 冋 (ancient variant of 冂 ('border') with 口 ('mouth') inside)
-  - **interpretation:** The character 冋 is an ancient variant of 冂 and adds 口 (mouth) within it to represent an enclosed space, suggesting a closed area or space.
+  - **type:** ideogrammic compound
+  - **description:**
+    - 冋 =
+    - 冂 (border) + 口 (mouth) ->
+    - a space enclosed by borders
+  - **interpretation:** The character 冋 (jiōng, 'closed') depicts a mouth 口 (kǒu, 'mouth') within an enclosure represented by 冂 (jiōng, 'border'), symbolizing something that is surrounded or enclosed.
+- **examples:**
+  - 这(這)个(個)地( )方( )很( )冋( )。
+    - Zhè gè dìfāng hěn jiōng.
+    - This place is very closed.
+  - 他的眼睛半冋，看( )起( )来(來)很( )累( )。
+    - Tā de yǎnjīng bàn jiōng, kàn qǐlái hěn lèi.
+    - His eyes are half-closed, looking very tired.
 ---
 ## 呃
 ### è
@@ -10004,7 +9960,7 @@
   - **description:**
     - Depicts a footprint pointing up ->
     - stylized as 龰
-  - **interpretation:** 龰(yù, "stylized feet") represents the footprint shape pointing upward, distinguished from similar pictograms 夊 (suī, "go slowly") and 夂 (zhǐ, "footstep") that depict feet pointing downward. It reflects the stylization of feet in ancient script.
+  - **interpretation:** 龰 (yù, "stylized feet") originally depicted a footprint pointing upwards, highlighting its connection to the concept of 'foot'. It's stylized in its modern form as 龰 to represent feet. This character stems from the depiction of foot shapes and directions in the script's evolution, similar to other characters representing different hand or foot variants in historical scripts.
 ### 是啊 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -10134,9 +10090,9 @@
 - **definition:** exhaled air
 - **pinyin:** kǎo
 - **etymology:**
-  - **type:** conflation of characters
-  - **description:** Initially depicted as an ideogram representing exhaled air; over time, conflated with similar forms and meanings, incorporating aspects of other characters to form the current version.
-  - **interpretation:** The character 丂 originally depicted the concept of exhalation or breath and has undergone historical evolution by merging characteristics from other characters related to airflow or breath, resulting in the current form.
+  - **type:** pictogram
+  - **description:** Depicts exhaled air; breath or vapor
+  - **interpretation:** 丂(kǎo, "exhaled air") is traditionally depicted as the shape of breath or vapor being exhaled, characterizing the concept of air being expelled from the mouth. This led to meanings associated with breath or something that has escaped into the air.
 ---
 ## 是啊
 ### shì a
@@ -10197,13 +10153,14 @@
     - speech
   - 敖
     - áo
-    - to go
+    - proud; arrogant
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 言 (yán, "speech") + 敖 (áo, "to go") =
-    - speech element + phonetic 敖
-  - **interpretation:** The character 謷 (áo) combines 言 (yán, "speech"), which indicates the category of words related to speech or language, with 敖 (áo, "to go"), serving as the phonetic component. It is not commonly used in contemporary Chinese, serving mainly as a phonetic element.
+    - 言 (yán, "speech") + 敖 (áo, phonetic) =
+    - spoken arrogance ->
+    - arrogant speech
+  - **interpretation:** The character 謷 combines 言 (yán, "speech") as the semantic component indicating a relation to speaking or language, with 敖 (áo, "proud; arrogant") serving as the phonetic component. This suggests the meaning of 'arrogant speech', relating to its connection to words or expressions that may convey pride or boastfulness.
 ### 噢 → 謷 → 言
 - **definition:** speech
 - **pinyin:** yán
@@ -10243,28 +10200,61 @@
     - Tā chángshé wújì, jīngcháng xièlòu mìmì.
     - He is talkative and often spills secrets.
 ### 噢 → 謷 → 敖
-- **definition:** to go
+- **definition:** proud; arrogant
 - **pinyin:** áo
 - **components:**
+  - 人
+    - rén
+    - person
   - 夭
     - yāo
-    - young
+    - young man
   - 攴
     - pū
     - strike
   - 方
     - fāng
-    - direction
+    - square
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - Pictogram of 𫠤 (person with headdress) ->
+    - 人 (rén, 'person') with headdress ->
     - stylized as 夭 (young man) ->
-    - 攴 (strike) added for authority ->
-    - transformed to 𢾍 with 方 (same pronunciation) stylization
-  - **interpretation:** Originally depicting a person, the character evolved to include components illustrating authority and movement, with the combination of symbols suggesting command or walking with purpose.
+    - 攴 'strike' added ->
+    - man stylized as 方 (fāng, 'square') ->
+    - 敖 (áo, 'proud; arrogant')
+  - **interpretation:** The original depiction of a person with a headdress symbolized authority or pride, hence 'proud; arrogant'. Over time, the person was stylized as a youthful figure, indicating vigor. The addition of 攴 (pū, 'strike') may suggest authority or control, reinforcing the proud or domineering sense. The stylization into 方 (fāng) further abstracted the form to preserve its phonetic function.
+- **examples:**
+  - 他( )在( )比( )赛(賽)中( )表( )现(現)得( )非( )常( )骄(驕)傲( )和( )自( )信( )。
+    - Tā zài bǐsài zhōng biǎoxiàn de fēicháng jiāo'ào hé zìxìn.
+    - He behaved very proudly and confidently in the competition.
+  - 她( )的( )成( )功( )让(讓)她( )变(變)得( )更( )加( )自( )豪( )和( )骄(驕)傲( )。
+    - Tā de chénggōng ràng tā biàn de gèng jiā zìháo hé jiāo'ào.
+    - Her success made her even more proud and arrogant.
+  - 骄(驕)傲( )的( )人( )常( )常( )忽( )视(視)他( )人( )的( )意( )见(見)。
+    - Jiāo'ào de rén chángcháng hūshì tārén de yìjiàn.
+    - Proud people often ignore the opinions of others.
+### 噢 → 謷 → 敖 → 人
+- **definition:** person
+- **pinyin:** rén
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts side view of a standing man, highlighting an arm and a leg ->
+    - visual representation of a person
+  - **interpretation:** The character 人 (rén, 'person') effectively uses simple lines to depict the essential form of a human, making it immediately recognizable and intuitive as meaning 'person.'
+- **examples:**
+  - 他( )是( )个(個)好( )人( )。
+    - Tā shì gè hǎo rén.
+    - He is a good person.
+  - 每( )个(個)人( )都( )有( )责(責)任( )，为(為)社( )会(會)作( )出( )贡(貢)献(獻)。
+    - Měi gè rén dōu yǒu zérèn, wèi shèhuì zuòchū gòngxiàn.
+    - Every person has a responsibility to contribute to society.
+  - 人在旅途中，心( )灵(靈)获(獲)得( )了( )成( )长(長)。
+    - Rén zài lǚtú zhōng, xīnlíng huòdé le chéngzhǎng.
+    - People gain growth along their journey.
 ### 噢 → 謷 → 敖 → 夭
-- **definition:** young
+- **definition:** young man
 - **pinyin:** yāo
 - **etymology:**
   - **type:** ideogram
@@ -10358,7 +10348,7 @@
     - Gǔdài rén cháng yǐ bǔ wèn jíxiōng, yǐ qiú píng'ān hé shùn.
     - Ancient people often practiced divination to determine fortune, in order to pursue peace and order.
 ### 噢 → 謷 → 敖 → 方
-- **definition:** direction
+- **definition:** square
 - **pinyin:** fāng
 - **components:**
   - 一
@@ -10798,8 +10788,10 @@
 - **pinyin:** yù
 - **etymology:**
   - **type:** pictogram
-  - **description:** Depicts a footprint pointing upwards, stylized as 龰, derived into 趾
-  - **interpretation:** 龰 is a pictogram representing a stylized version of a foot or footprint, originally depicting three toes and a sole as seen in oracle script. It highlights the upward orientation of a foot, which is distinct from other similar characters that depict downwards-facing or differently oriented features.
+  - **description:**
+    - Depicts a footprint pointing up, styled as 龰 with three toes and a sole in earlier script ->
+    - interpreted as stylized feet
+  - **interpretation:** 龰(yù, "stylized feet") is a pictogram depicting a footprint pointing upward. This character has evolved to represent 'stylized feet' and serves as a foundational component in related characters such as 趾 (zhǐ, "toe"), which retains the original meaning of 'foot'.
 ### 是的 → 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -10959,8 +10951,18 @@
     - early
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** Depicts acorn as a variant of 早 (zǎo, "early")
-  - **interpretation:** The character 皁 is a variant form of 皂(皁) (zào, "black") and originally functions as a way to express the concept of "acorn" associated with the early forms of 早 (zǎo, "early"). Its function in historical contexts was related more to its meaning as "acorn" rather than its phonetic or semantic components.
+  - **description:** Original sense 'acorn' related to 早 (zǎo, 'early') with phonetic and semantic elements combining
+  - **interpretation:** The character 皁 (zào, 'acorn') is an older form retaining the original sense of 'acorn'. It shares a phonetic and semantic connection with 早 (zǎo, 'early'), possibly due to the association of morning dew with growth and nature, where acorns are plentiful.
+- **examples:**
+  - 孩子们在林间寻找皁。
+    - Háizimen zài línjiān xúnzhǎo zào.
+    - The children searched for acorns in the woods.
+  - 松鼠喜欢储存皁。
+    - Sōngshǔ xǐhuān chǔcún zào.
+    - Squirrels like to store acorns.
+  - 秋天到了，大( )树(樹)落( )下( )许(許)多( )皁( )。
+    - Qiūtiān dào le, dà shù luòxià xǔduō zào.
+    - When autumn arrives, large trees drop many acorns.
 ### 是的 → 的 → 白 → 皂 → 皁 → 早
 - **definition:** early
 - **pinyin:** zǎo
@@ -11364,37 +11366,20 @@
 - **definition:** mat
 - **pinyin:** yīn
 - **components:**
-  - 衤
+  - 衣
     - yī
     - clothing
   - 因
     - yīn
-    - cause; reason
+    - cause
 - **etymology:**
-  - **type:** phono-semantic compound
-  - **description:** semantic: 衤 (yī, "clothing") + phonetic: 因 (yīn)
-  - **interpretation:** 裀 (yīn, "mat") combines the semantic component 衤 (yī, "clothing") indicating a textile item, with 因 (yīn) providing the phonetic element. The character refers to a cloth mat, suggesting a piece of fabric for a specific use.
-### 嗯 → 恩 → 因 → 裀 → 衤
-- **definition:** clothing
-- **pinyin:** yī
-- **components:**
-  - 衣
-    - yī
-    - clothing
-- **etymology:**
-  - **type:** component
+  - **type:** ideogrammic compound
   - **description:**
-    - Left radical form of 衣 (yī, 'clothing') ->
-    - used as radical for clothing-related characters
-  - **interpretation:** 衤 is a simplified component derived from 衣 (yī, 'clothing'), representing the left radical associated with clothing. It indicates the association with clothing in characters where it appears.
-- **examples:**
-  - 他穿上了一件漂亮的衤(衣)。
-    - Tā chuān shàng le yī jiàn piàoliang de yī.
-    - He put on a beautiful piece of clothing.
-  - 博物馆里展出古代衤(衣)，展( )示( )传(傳)统(統)工( )艺(藝)。
-    - Bówùguǎn lǐ zhǎnchū gǔdài yī, zhǎnshì chuántǒng gōngyì.
-    - The museum displays ancient clothing and exhibits traditional craftsmanship.
-### 嗯 → 恩 → 因 → 裀 → 衤 → 衣
+    - 衣 (yī, "clothing") + 因 (yīn, "cause") =
+    - combination describes a cloth spread out ->
+    - mat
+  - **interpretation:** The character 裀(yīn, "mat") is an ideogrammic compound where 衣 (yī, "clothing") contributes the idea of fabric, and 因 (yīn, "cause") represents the function or use of that fabric as a base or layer. Together they suggest a piece of cloth specifically intended for laying down or sitting upon, i.e., a mat.
+### 嗯 → 恩 → 因 → 裀 → 衣
 - **definition:** clothing
 - **pinyin:** yī
 - **etymology:**
@@ -11594,56 +11579,32 @@
 - **definition:** roots
 - **pinyin:** hài
 - **components:**
-  - 艸
+  - 艹
     - cǎo
     - grass
   - 亥
     - hài
-    - tenth earthly branch
+    - twelfth Earthly Branch
 - **etymology:**
   - **type:** phono-semantic compound
   - **description:**
-    - 艸 (cǎo, "grass") + phonetic: 亥 (hài) =
-    - grass-related meaning with phonetic influence from 亥
-  - **interpretation:** The character 荄 combines 艸 (cǎo, "grass") as a semantic component, indicating its association with plants or grass, and 亥 (hài) as a phonetic component, suggesting its pronunciation. This composition reflects its meaning related to the roots of plants.
-### 该(該)死( ) → 该(該) → 亥 → 荄 → 艸
+    - 艹 (cǎo, "grass") + phonetic: 亥 (hài) =
+    - root of a plant
+  - **interpretation:** The character 荄 combines 艹 (cǎo, "grass"), which often denotes things related to plants or vegetation, with 亥 (hài) for its phonetic value. This combination suggests the meaning of 'roots' as it relates to the vegetation signified by the grass radical.
+### 该(該)死( ) → 该(該) → 亥 → 荄 → 艹
 - **definition:** grass
 - **pinyin:** cǎo
-- **components:**
-  - 屮
-    - chè
-    - grass
 - **etymology:**
   - **type:** pictogram
-  - **description:**
-    - Depicts grass blades ->
-    - duplication of 屮 (chè, 'grass') ->
-    - grass imagery
-  - **interpretation:** The character 艸(cǎo, 'grass') is a pictorial representation of grass blades. It is essentially a duplication of the character 屮 (chè, 'grass'), visually suggesting the appearance of grass tufts through repetition, emphasizing the concept of grass or vegetation.
+  - **description:** Depicts blades of grass
+  - **interpretation:** 艹 is a pictogram representing grass or plants, resembling blades of grass. It is commonly used as a radical in other characters related to grass or vegetation.
 - **examples:**
-  - 公( )园(園)里(裡)绿(綠)艸( )茵( )茵( )。
-    - Gōngyuán lǐ lǜ cǎo yīn yīn.
-    - The park is filled with lush grass.
-  - 晨( )露( )滋( )润(潤)艸( )丛(叢)，微( )风(風)使( )它( )们(們)起( )舞( )。
-    - Chénlù zīrùn cǎo cóng, wēifēng shǐ tāmen qǐwǔ.
-    - The morning dew nourishes the cluster of grass, and the breeze makes them dance.
-  - 秋( )天( )时(時)艸( )变(變)黄(黃)，冬天它又枯萎。
-    - Qiūtiān shí cǎo biàn huáng, dōngtiān tā yòu kūwěi.
-    - In autumn, the grass turns yellow, and in winter, it withers.
-### 该(該)死( ) → 该(該) → 亥 → 荄 → 艸 → 屮
-- **definition:** grass
-- **pinyin:** chè
-- **etymology:**
-  - **type:** pictogram
-  - **description:** Depicts a sprout emerging from the ground
-  - **interpretation:** 屮 (chè, 'sprout') is a pictogram that directly represents a young plant or sprout emerging from the ground. Its visual form captures the essence of new growth, and it historically served as an early representation of plant life or new vegetation.
-- **examples:**
-  - 春( )雨( )滋( )润(潤)后(後)，小( )屮( )冲(沖)破( )泥( )土( )而( )出( )。
-    - chūn yǔ zī rùn hòu, xiǎo chè chōng pò ní tǔ ér chū.
-    - After the spring rain nurtured the earth, the little sprout broke through the soil.
-  - 草屮初生露尖端。
-    - cǎo chè chū shēng lù jiān duān.
-    - The grass sprout's tip has just emerged.
+  - 他( )写(寫)字( )时(時)用( )艹( )作( )草( )字( )的( )偏( )旁( )。
+    - Tā xiězì shí yòng cǎo zuò cǎozì de piānpáng.
+    - He uses '艹' as the radical for grass in his characters.
+  - 春( )天( )到( )来(來)时(時)，艹( )生( )长(長)得( )很( )快( )。
+    - Chūntiān dàolái shí, cǎo shēngzhǎng de hěn kuài.
+    - When spring arrives, grass grows rapidly.
 ### 该(該)死( ) → 该(該) → 亥 → 豕
 - **definition:** pig
 - **pinyin:** shǐ
@@ -11763,8 +11724,11 @@
 - **pinyin:** cán
 - **etymology:**
   - **type:** phono-semantic compound
-  - **description:** Phonetic component in compounds with semantic and phonetic roles
-  - **interpretation:** 𣦼 (cán) serves as a phonetic component in various characters, contributing to their pronunciation and occasionally hints at their meaning.
+  - **description:**
+    - variant form of 𣦻 ->
+    - possibly phonetic or meaning changes within similar structures ->
+    - finalized as 𣦼
+  - **interpretation:** 𣦼 is considered a variant form of 𣦻, indicating that it serves a similar phonetic function or is used in similar contexts, with adjustments in writing potentially for regional or historical preferences.
 ### 该(該)死( ) → 死 → 歹 → 歺 → 餐 → 食
 - **definition:** to eat
 - **pinyin:** shí
@@ -12008,32 +11972,12 @@
 ### 对(對) → 丵
 - **definition:** tool for digging
 - **pinyin:** zhuó
-- **components:**
-  - 辛
-    - xīn
-    - chisel tool
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts 辛 (xīn, "chisel tool") ->
-    - tool for digging
-  - **interpretation:** The character 丵 is derived from 辛 (xīn, "chisel tool"), representing its use as a tool for digging. It visually resembles the shape of a chisel.
-### 对(對) → 丵 → 辛
-- **definition:** chisel tool
-- **pinyin:** xīn
-- **etymology:**
-  - **type:** pictogram
-  - **description:**
-    - Depicts a tool—chisel, awl, spike—used to mark slaves and criminals ->
-    - 辛
-  - **interpretation:** The character 辛(xīn, 'spice'), while meaning 'spice' in contemporary usage, originally depicted a tool used for branding slaves and criminals, indicating its historical connection to marking and intensity.
-- **examples:**
-  - 我( )在( )厨(廚)房( )里(裡)加( )了( )些( )辛( )，使( )得( )菜( )的( )味( )道( )更( )加( )丰(豐)富( )。
-    - Wǒ zài chúfáng lǐ jiā le xiē xīn, shǐdé cài de wèidào gèngjiā fēngfù.
-    - I added some spice in the kitchen, making the dish more flavorful.
-  - 这(這)家( )餐( )馆(館)以( )独(獨)特( )的( )辛( )著( )称(稱)，吸引了很多食客。
-    - Zhè jiā cānguǎn yǐ dútè de xīn zhùchēng, xīyǐn le hěn duō shíkè.
-    - This restaurant is renowned for its unique spice, attracting many diners.
+    - Derived from 辛 (chisel tool) ->
+    - represents a tool for digging
+  - **interpretation:** The character 丵 (zhuó, "tool for digging") is a pictogram that depicts a chisel tool, symbolizing a tool used for digging or cutting. Its form is derived from the character 辛 (xīn, "bitter"), which originally depicted a chisel and was used to convey the sense of carving or cutting through the earth or materials.
 ### 对(對) → 土
 - **definition:** earth
 - **pinyin:** tǔ
@@ -12191,8 +12135,9 @@
     - bitter
 - **etymology:**
   - **type:** pictogram
-  - **description:** Derived from 辛 (xīn, "bitter"), stylized as a chisel tool
-  - **interpretation:** The character 丵 (zhuó, "tool for digging") is depicted as a chisel, emphasizing its function as a tool related to cutting or digging.
+  - **description:** Depicts 辛 (chisel, tool for digging)
+  - **interpretation:** The character 丵 is a pictogram depicting a tool such as a chisel, derived from 辛 (xīn,
+  - **simplification:** 丵 was simplified into 凿 (ض) by integrating other elements conveying the chisel’s use inside a mortar, reflected in its complex historical graphical evolution into simplified forms during modernization efforts.
 ### 对(對)不( )起( ) → 对(對) → 丵 → 辛
 - **definition:** bitter
 - **pinyin:** xīn
@@ -12429,17 +12374,40 @@
 - **definition:** stylized feet
 - **pinyin:** yù
 - **components:**
+  - 止
+    - zhǐ
+    - stop
   - 趾
     - zhǐ
     - toe
+  - 爪
+    - zhǎo
+    - claw
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint ->
-    - stylized as 龰 ->
-    - derivative 趾 (zhǐ, 'toe') reveals 'foot' ->
-    - used as stylized feet
-  - **interpretation:** 龰(yù, 'stylized feet') is primarily a pictogram representing a footprint, emphasizing the visual stylization in characters involving foot-related concepts.
+    - Depicts a footprint pointing up, originally meaning 'foot' ->
+    - stylized as 龰
+  - **interpretation:** 龰 is a pictogram representing a stylized foot with three toes and a sole, analogous to other human features depicted with three elements like the hand in 爪 (zhǎo, 'claw'), 爪, 寸, 九, 又, and 彐. It evolved from the original character 止 (zhǐ, 'stop'), which had a similar depiction of a footprint in the oracle script.
+### 对(對)不( )起( ) → 起 → 走 → 止 → 龰 → 爪
+- **definition:** claw
+- **pinyin:** zhǎo
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a hand grabbing from above, resembles a claw ->
+    - stylized to represent claws
+  - **interpretation:** The character 爪 (zhǎo, "claw") originally depicted a hand grabbing from above, stylized to resemble the form of claws.
+- **examples:**
+  - 猫(貓)的( )爪( )非( )常( )敏( )捷( )。
+    - Māo de zhǎo fēicháng mǐnjié.
+    - The cat's claws are very agile.
+  - 狗( )的( )爪( )稳(穩)固( )，使( )它( )轻(輕)松(鬆)爬( )山( )。
+    - Gǒu de zhǎo wěngù, shǐ tā qīngsōng páshān.
+    - The dog's claws are sturdy, allowing it to climb mountains easily.
+  - 鹰(鷹)的( )爪( )锋(鋒)利( )，能( )牢( )牢( )抓( )住( )猎(獵)物( )。
+    - Yīng de zhǎo fēnglì, néng láoláo zhuā zhù lièwù.
+    - The eagle's claws are sharp, enabling it to firmly grasp its prey.
 ### 对(對)不( )起( ) → 起 → 走 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu
@@ -12680,18 +12648,16 @@
 - **definition:** stylized feet
 - **pinyin:** yù
 - **components:**
-  - 止
-    - zhǐ
-    - foot
   - 趾
     - zhǐ
     - toe
 - **etymology:**
   - **type:** pictogram
   - **description:**
-    - Depicts a footprint pointing up with three toes and a sole ->
-    - stylized as 龰
-  - **interpretation:** 龰 is a stylized representation of a footprint pointing upwards, derived from the original pictorial form 止 (zhǐ, "foot"). This depiction captures the essence of 'feet' and evolved into different related characters, like 趾 (zhǐ, "toe") which retains the original concept of the foot.
+    - Depicts a stylized foot with a footprint pointing up, originally meaning 'foot' ->
+    - stylized as 龰 ->
+    - derivative 趾 refers to original meaning
+  - **interpretation:** The character 龰 (yù, 'stylized feet') represents a footprint pointing upward, originally indicating the concept of a 'foot.' Over time, it became stylized into its current form. The character 趾 (zhǐ, 'toe'), which derives from the same idea, refers back to this original meaning. The depiction includes three toes and a sole similar to other characters representing human limbs with three parts, such as 爪 (zhǎo, 'claw') and 寸 (cùn, 'inch').
 ### 是 → 正 → 止 → 手
 - **definition:** hand
 - **pinyin:** shǒu

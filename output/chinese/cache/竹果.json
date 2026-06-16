@@ -5,22 +5,22 @@
   "english": "jinzhu fruit",
   "etymology": {
     "type": "compound word",
-    "description": "竢(竢) (zhú, \"to wait\") combined historically with 果(果) (guǒ, \"fruit\") to signify the name of a specific fruit, 'jinzhu' or 'bamboo fruit'.",
-    "interpretation": "Though 竢(竢) (zhú, 'to wait') does not intuitively relate to bamboo or fruit, historically, the term 竢果 was used to describe a fruit that ripens gradually, similar to bamboo growing over time. This association explains the compound word's meaning.",
+    "description": "竜(竜) (zhú, \"pipal tree\") + 果(果) (guǒ, \"fruit\") = refers to the fruit known as jinzhu. The word combines the concept of a specific type of tree with the idea of its fruit, indicating a product that comes from the pipal tree, commonly referred to as jinzhu fruit.",
+    "interpretation": "竜(竜) (zhú, \"pipal tree\") represents the type of tree associated with the jinzhu fruit, hinting at its significance or origin. 果(果) (guǒ, \"fruit\") indicates it is the fruit of this particular tree, creating a specific botanical reference.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "竢",
-      "trad": "竢",
+      "char": "竜",
+      "trad": "竜",
       "pinyin": "zhú",
-      "english": "to wait; bamboo"
+      "english": "pipal tree"
     },
     {
       "char": "果",
       "trad": "果",
       "pinyin": "guǒ",
-      "english": "fruit; result"
+      "english": "fruit"
     }
   ],
   "in_contemporary_usage": false,

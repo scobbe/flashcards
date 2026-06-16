@@ -1,0 +1,31 @@
+{
+  "simplified": "竜",
+  "traditional": "竜",
+  "pinyin": "zhú",
+  "english": "pipal tree",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Recorded as an ancient form of 龍 -> standardized as 竜 in Japanese -> used alongside simplified form 龙 in contemporary usage",
+    "interpretation": "The character 竜 was originally recorded as an ancient form of 龍 (lóng, \"dragon\") in early dictionaries. It was formally attested in the Sui dynasty epitaph and has been used as a standard form in Japanese, reflecting earlier shapes and developments seen in the Chinese character 龍, symbolized by a composite creature combining different animal features. The evolution displays a continuity in representing the mythical dragon across cultures, maintaining the imagery of a sacred animal throughout history.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "竜树下(竜樹下)，我们常常聚集(我們常常聚集)。",
+      "pinyin": "Zhú shù xià, wǒmen chángcháng jùjí.",
+      "english": "Under the pipal tree, we often gather."
+    },
+    {
+      "chinese": "庭院中有一棵古老的竜(庭院中有一棵古老的竜)，它见证了很多历史(它見證了很多歷史)。",
+      "pinyin": "Tíngyuàn zhōng yǒu yī kē gǔlǎo de zhú, tā jiànzhèngle hěnduō lìshǐ.",
+      "english": "In the courtyard, there is an ancient pipal tree that has witnessed much history."
+    },
+    {
+      "chinese": "孩子们喜欢在竜的阴影下玩耍(孩子們喜歡在竜的陰影下玩耍)。",
+      "pinyin": "Háizimen xǐhuān zài zhú de yīnyǐng xià wánshuǎ.",
+      "english": "The children like to play under the shade of the pipal tree."
+    }
+  ]
+}

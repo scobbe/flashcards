@@ -5,8 +5,8 @@
   "english": "river",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "phonetic: 羊(羊) (yáng, \"sheep\") + semantic: 永(永) (yǒng, \"eternal; forever\") = combining sound and meaning values",
-    "interpretation": "The character 羕(yàng, \"river\") integrates the sound from 羊(羊) (yáng, \"sheep\") and the visual representation of flowing water from 永(永) (yǒng, \"eternal; forever\") to convey the notion of a large or long-lasting river.",
+    "description": "羊(羊) (yáng, \"sheep\") as phonetic + 永(永) (yǒng, \"eternal; long\") as semantic = phonetic indication plus water influence -> river",
+    "interpretation": "The character 羕 combines 羊(羊) (yáng, \"sheep\") to suggest the sound with 永(永) (yǒng, \"eternal; long\"), which suggests the flowing or ongoing nature of a river. This combination effectively conveys the meaning of a river's uninterrupted flow.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "永",
       "trad": "永",
       "pinyin": "yǒng",
-      "english": "eternal; forever"
+      "english": "eternal; long"
     }
   ],
   "in_contemporary_usage": false,

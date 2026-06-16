@@ -5,18 +5,11 @@
   "english": "",
   "etymology": {
     "type": "ancient form",
-    "description": "𩠐 is an ancient form of 首(首) (shǒu, \"head\")",
-    "interpretation": "𩠐 represents an early depiction linked to the concept of the head, predating the standardized form 首(首).",
+    "description": "An ancient form of 首(首) (shǒu, \"head\")",
+    "interpretation": "𩠐 is a form used in ancient texts that corresponds to the modern character 首(首) (shǒu, \"head\"), indicating it was historically a variant or predecessor of the character used today for 'head'.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "首",
-      "trad": "首",
-      "pinyin": "shǒu",
-      "english": "head"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

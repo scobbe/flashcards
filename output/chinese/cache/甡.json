@@ -5,8 +5,8 @@
   "english": "broom",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "生(生) (shēng, \"life\") + 辶(辶) (chuò, \"walk; movement\") = phonetic component with a semantic influence suggesting multiplicity -> final form representing the concept of a broom-like tool made from multiple branches or straws",
-    "interpretation": "The character 甡 (shēn) uses the phonetic 生(生) and the semantic 辶(辶) to convey the idea of a broom made from multiple parts, possibly alluding to the branching aspect as shown by 生(生), and movement related to use, indicated by 辶(辶). It suggests an old broom-like object.",
+    "description": "生(生) (shēng, \"life; give birth\") + 田(田) (tián, \"field\") = phonetic and semantic elements",
+    "interpretation": "The character 甡(shēn, \"broom\") is a phono-semantic compound that combines 生(生) (shēng, \"life; give birth\") as a phonetic component with 田(田) (tián, \"field\") as a semantic element. The semantic link may relate to the notion of managing or cleaning a field, although the exact reason for its use as \"broom\" isn't explicit. Often, phono-semantic compounds relied on established idiomatic extensions rather than direct visual or conceptual links.",
     "simplification": ""
   },
   "parts": [
@@ -14,13 +14,13 @@
       "char": "生",
       "trad": "生",
       "pinyin": "shēng",
-      "english": "life"
+      "english": "life; give birth"
     },
     {
-      "char": "辶",
-      "trad": "辶",
-      "pinyin": "chuò",
-      "english": "walk; movement"
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
     }
   ],
   "in_contemporary_usage": false,

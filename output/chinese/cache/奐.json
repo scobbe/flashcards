@@ -5,9 +5,9 @@
   "english": "phonetic",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "夐 (phonetic, 'eminent') + 廾 (semantic, 'two hands') -> notion of 'numerous, copious, abundant' with influence from oracle bones; borrowed for 'to change, swap'",
-    "interpretation": "奐(奐) (huàn, 'phonetic') combines the phonetic element 夐(夐) to convey ancient pronunciation and meaning, with 廾(廾) symbolizing 'two hands'. This suggests the original idea of abundance, which is reinforced by oracle bone script findings, but later borrowed for other meanings.",
-    "simplification": "奂 is a simplified form of 奐, created by reducing the two hands at the bottom to a single 大."
+    "description": "夐 (phonetic, indicating 'eminent') + 廾 (hands, 'numerous') -> 'brilliant', 'abundant'",
+    "interpretation": "The character 奐 (huàn, 'eminent; abundant') combines the phonetic element 夐 with the semantic element 廾, representing hands, which implies abundance or copiousness. This idea is further supported by oracle bone scripts where the hands symbolized numerous objects. While it also represented the idea of 'brilliant' due to its ancient context of authority, it was used phonetically in the context of 換 (huàn, 'change'). The ideogrammatic explanation suggests hands opening a yurt to let in sunlight, further linking to 'brilliant'.",
+    "simplification": "Simplified to 奂 by removing strokes for ease of writing."
   },
   "parts": [
     {
@@ -20,7 +20,7 @@
       "char": "廾",
       "trad": "廾",
       "pinyin": "gǒng",
-      "english": "two hands"
+      "english": "hands"
     }
   ],
   "in_contemporary_usage": false,

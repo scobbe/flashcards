@@ -4,19 +4,12 @@
   "pinyin": "yù",
   "english": "jade",
   "etymology": {
-    "type": "variant form",
-    "description": "𤣩 -> variant form of 玉(玉) (yù, \"jade\")",
-    "interpretation": "𤣩 is a variant form of 玉(玉) (yù, \"jade\"), which originally depicted a cong, a type of jade totem. It was used to distinguish the character from 王(王) (wáng, \"king\") by adding a distinguishing dot.",
+    "type": "pictogram",
+    "description": "Depicts a cong (ritual jade totem)",
+    "interpretation": "The character 𤣩 is a variant form of 玉(玉) (yù, \"jade\"), which originally depicted a cong, a type of ritual jade totem. Over time, a dot was added to distinguish it from 王(王) (wáng, \"king\") due to the visual similarity between the two characters. Jade played a significant role in art and rituals, which is why its pictogram was distinctly designed. The character represents the material jade and its cultural significance as a precious and spiritual object.",
     "simplification": ""
   },
-  "parts": [
-    {
-      "char": "玉",
-      "trad": "玉",
-      "pinyin": "yù",
-      "english": "jade"
-    }
-  ],
+  "parts": [],
   "in_contemporary_usage": false,
   "examples": []
 }

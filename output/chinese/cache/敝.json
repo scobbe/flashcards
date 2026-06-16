@@ -5,8 +5,8 @@
   "english": "to damage",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "巾(巾) (jīn, \"cloth\") + 攴(攴) (pū, \"rap\") -> cloth with dust/dirt -> final form 敝",
-    "interpretation": "The character 敝 originally combined the phonetic element 巾(巾) (jīn, \"cloth\") with the semantic 攴(攴) (pū, \"rap\"), symbolizing worn or damaged cloth. The left component evolved to emphasize accumulation of dirt or dust, reinforcing the meaning of things being worn or damaged.",
+    "description": "巾(巾) (jīn, \"cloth\") as phonetic + 攴(攴) (pū, \"tap\") as semantic -> symbolizing breaking or damaging cloth -> later evolved left component into 㡀 (dust/dirt)",
+    "interpretation": "The character 敝(bì, \"to damage\") originates from the combination of 巾(巾) (jīn, \"cloth\") indicating sound and 攴(攴) (pū, \"tap\") signifying the action of striking or inflicting damage. This illustrates the concept of causing harm. Evolving later, the left part transformed to 㡀, adding a sense of dust or dirt, reinforcing the notion of wear or degradation.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "攴",
       "trad": "攴",
       "pinyin": "pū",
-      "english": "rap"
+      "english": "tap"
     }
   ],
   "in_contemporary_usage": false,
