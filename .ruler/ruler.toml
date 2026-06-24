@@ -1,0 +1,12 @@
+default_agents = ["claude", "codex"]
+
+[gitignore]
+enabled = false
+
+[agents.claude]
+enabled = true
+output_path = "CLAUDE.md"
+
+[agents.codex]
+enabled = true
+output_path = "AGENTS.md"
