@@ -1,0 +1,6 @@
+"$schema" = "https://conductor.build/schemas/settings.repo.schema.json"
+
+[scripts]
+# Clone / update the shared general-context submodule to its latest commit when a
+# Conductor workspace is created (git worktrees don't init submodules on their own).
+setup = "git submodule update --init --recursive --remote shared-context"
