@@ -1,0 +1,39 @@
+{
+  "simplified": "地图",
+  "traditional": "地圖",
+  "pinyin": "dìtú",
+  "english": "map",
+  "etymology": {
+    "type": "compound word",
+    "description": "地(地) (dì, \"earth; land\") + 图(圖) (tú, \"diagram; drawing\") = representation of the land -> map",
+    "interpretation": "A 地(地) (dì, \"earth; land\") combined with 图(圖) (tú, \"diagram; drawing\") effectively represents a map, making it a visual depiction of an area of land or geography. Such maps have been essential for navigation, geography, and understanding the physical layout of an environment throughout Chinese history. Maps, whether in ancient times or modern, play a critical role in wayfinding and territorial management.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "地",
+      "trad": "地",
+      "pinyin": "dì",
+      "english": "earth; land"
+    },
+    {
+      "char": "图",
+      "trad": "圖",
+      "pinyin": "tú",
+      "english": "diagram; drawing"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我看地图(我看地圖)。",
+      "pinyin": "Wǒ kàn dìtú.",
+      "english": "I look at the map."
+    },
+    {
+      "chinese": "小明展开地图(小明展開地圖)，规划他的冒险之旅(規劃他的冒險之旅)。",
+      "pinyin": "Xiǎomíng zhǎnkāi dìtú, guīhuà tā de màoxiǎn zhī lǚ.",
+      "english": "Xiaoming unfolds the map, planning his adventure journey."
+    }
+  ]
+}

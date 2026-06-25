@@ -166,7 +166,7 @@ def generate_card_content(
         user = f"Character: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"
         if wiktionary_etymology:
-            user += f"\n\n**MANDATORY RULES:**\n1. Use the TRADITIONAL form's etymology type (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound')\n2. IGNORE any line that says 'simplified form of X' - that is NOT a valid etymology type\n3. If you see '[{traditional}] Phono-semantic compound...' - use 'phono-semantic compound' as the type\n\n**Wiktionary etymology:**\n{wiktionary_etymology}"
+            user += f"\n\n**CRITICAL: BASE YOUR RESPONSE ON THIS WIKTIONARY ETYMOLOGY - DO NOT INVENT OR HALLUCINATE:**\n{wiktionary_etymology}\n\n**MANDATORY RULES:**\n1. Your description MUST match the Wiktionary etymology above - do not make up alternative explanations\n2. Use the TRADITIONAL form's etymology type (e.g. 'phono-semantic compound', 'pictogram', 'ideogrammic compound')\n3. IGNORE any line that says 'simplified form of X' - that is NOT a valid etymology type\n4. If you see '[{traditional}] Phono-semantic compound...' - use 'phono-semantic compound' as the type"
     else:
         user = f"Word: {simplified}"
         user += f"\nPinyin: {pinyin}\nMeaning: {english}"

@@ -1,0 +1,33 @@
+{
+  "simplified": "絲",
+  "traditional": "絲",
+  "pinyin": "sī",
+  "english": "silk",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "糸(糸) (mì, \"silk\") + 糸(糸) (mì, \"silk\") = bundles of silk threads twisted together",
+    "interpretation": "The character 絲 represents a bundle of silk threads. It is formed by repeating the component 糸(糸) (mì, \"silk\"), indicating multiple strands of silk intertwined, which aligns with its meaning of 'silk.'",
+    "simplification": "Simplified to 丝(絲) by adopting 𢇁 as an alternative form, which represents the twisting of silk threads in a more compact form."
+  },
+  "parts": [
+    {
+      "char": "糸",
+      "trad": "糸",
+      "pinyin": "mì",
+      "english": "silk"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她戴着丝巾(她戴著絲巾)。",
+      "pinyin": "Tā dài zhe sī jīn.",
+      "english": "She is wearing a silk scarf."
+    },
+    {
+      "chinese": "这件裙子采用丝缎面料(這件裙子采用絲緞面料)，触感十分细腻(觸感十分細膩)。",
+      "pinyin": "Zhè jiàn qúnzi cǎiyòng sī duàn miànliào, chùgǎn shífēn xì nì.",
+      "english": "This dress uses silk satin fabric, and its texture is very delicate."
+    }
+  ]
+}

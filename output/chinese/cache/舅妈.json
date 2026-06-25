@@ -1,0 +1,44 @@
+{
+  "simplified": "舅妈",
+  "traditional": "舅媽",
+  "pinyin": "jiùmā",
+  "english": "aunt wife of mother’s brother",
+  "etymology": {
+    "type": "compound word",
+    "description": "舅(舅) (jiù, \"mother's brother\") + 妈(媽) (mā, \"mother\")",
+    "interpretation": "The word 舅媽(舅妈) (jiùmā) combines 舅(舅) (jiù, \"mother's brother\") and 妈(媽) (mā, \"mother\") to describe the wife of one's maternal uncle. This reflects the cultural emphasis on familial roles and distinguishes the concept of an aunt specifically as the wife of a maternal uncle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舅",
+      "trad": "舅",
+      "pinyin": "jiù",
+      "english": "mother's brother"
+    },
+    {
+      "char": "妈",
+      "trad": "媽",
+      "pinyin": "mā",
+      "english": "mother"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她舅妈在家做饭(她舅媽在家做飯)。",
+      "pinyin": "Tā jiùmā zài jiā zuò fàn.",
+      "english": "Her aunt (the wife of her mother's brother) cooks at home."
+    },
+    {
+      "chinese": "当我回家时(當我回家時)，我看见她舅妈在厨房忙碌(我看見她舅媽在廚房忙碌)。",
+      "pinyin": "Dāng wǒ huí jiā shí, wǒ kànjiàn tā jiùmā zài chúfáng mánglù.",
+      "english": "When I came home, I saw her aunt busily working in the kitchen."
+    },
+    {
+      "chinese": "有时候(有時候)，舅妈会送来好吃的点心(舅媽會送來好吃的點心)。",
+      "pinyin": "Yǒu shíhòu, jiùmā huì sòng lái hǎochī de diǎnxīn.",
+      "english": "Sometimes, the aunt brings delicious snacks."
+    }
+  ]
+}

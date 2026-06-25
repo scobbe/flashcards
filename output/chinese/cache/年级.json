@@ -1,0 +1,44 @@
+{
+  "simplified": "年级",
+  "traditional": "年級",
+  "pinyin": "niánjí",
+  "english": "grade year",
+  "etymology": {
+    "type": "compound word",
+    "description": "年(年) (nián, \"year\") + 級(級) (jí, \"level; grade\") = refers to a level within an academic year",
+    "interpretation": "In an academic context, 年級(年級) (niánjí) denotes a specific grade or year level within the educational system. It combines the concept of the calendar year with the idea of a hierarchical level of study, designating a student's progression through their education.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "年",
+      "trad": "年",
+      "pinyin": "nián",
+      "english": "year"
+    },
+    {
+      "char": "级",
+      "trad": "級",
+      "pinyin": "jí",
+      "english": "level; grade"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "她上三年级(她上三年級)。",
+      "pinyin": "Tā shàng sān niánjí.",
+      "english": "She is in the third grade."
+    },
+    {
+      "chinese": "考试成绩公布后(考試成績公布後)，他顺利升入高年级(他順利升入高年級)。",
+      "pinyin": "Kǎoshì chéngjī gōngbù hòu, tā shùnlì shēngrù gāo niánjí.",
+      "english": "After the exam scores were released, he was successfully promoted to a higher grade."
+    },
+    {
+      "chinese": "新学期开始后(新學期開始後)，每个年级都有新同学加入(每個年級都有新同學加入)。",
+      "pinyin": "Xīn xuéqī kāishǐ hòu, měi gè niánjí dōu yǒu xīn tóngxué jiārù.",
+      "english": "After the new term began, each grade welcomed new classmates."
+    }
+  ]
+}

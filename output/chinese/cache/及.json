@@ -1,0 +1,39 @@
+{
+  "simplified": "及",
+  "traditional": "及",
+  "pinyin": "jí",
+  "english": "to reach",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "人(人) (rén, \"person\") + 又(又) (yòu, \"hand\") = a hand reaching for a person -> to reach",
+    "interpretation": "The combination of a hand and a person illustrates the concept of reaching or grasping, symbolizing the action of reaching out to another person.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "hand"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "船终于及彼岸时(船終於及彼岸時)，乘客松了一口气(乘客鬆了一口氣)。",
+      "pinyin": "Chuán zhōngyú jí bǐ'àn shí, chéngkè sōngle yī kǒuqì.",
+      "english": "The ship finally reached the other shore, and the passengers sighed in relief."
+    },
+    {
+      "chinese": "当信使及达皇宫时(當信使及達皇宮時)，国王倾听了诏书(國王傾聽了詔書)。",
+      "pinyin": "Dāng xìnshǐ jí dá huánggōng shí, guówáng qīngtīngle zhàoshū.",
+      "english": "When the messenger reached the palace, the king listened to the edict."
+    }
+  ]
+}

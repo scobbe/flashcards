@@ -1,0 +1,44 @@
+{
+  "simplified": "蜃",
+  "traditional": "蜃",
+  "pinyin": "shèn",
+  "english": "large clam",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "辰(辰) (chén, 'agricultural tool') serves as phonetic -> combines with 虫(虫) (chóng, 'insect') as semantic -> 蜃(shèn, 'large clam')",
+    "interpretation": "The character 蜃(shèn) combines 辰(辰) (chén, 'agricultural tool'), which acts as the phonetic component, with 虫(虫) (chóng, 'insect'), serving as the semantic component indicating a creature. The overall meaning relates to a large clam, reflecting the initially specific association with marine life rather than insects.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辰",
+      "trad": "辰",
+      "pinyin": "chén",
+      "english": "agricultural tool"
+    },
+    {
+      "char": "虫",
+      "trad": "虫",
+      "pinyin": "chóng",
+      "english": "insect"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "海边发现了一只蜃(海邊發現了一隻蜃)，它的壳闪闪发光(它的殼閃閃發光)。",
+      "pinyin": "Hǎi biān fāxiàn le yì zhī shèn, tā de ké shǎnshǎn fāguāng.",
+      "english": "By the sea, a giant clam was discovered, and its shell shimmered."
+    },
+    {
+      "chinese": "老渔夫捕捉到一只蜃(老漁夫捕捉到一隻蜃)。",
+      "pinyin": "Lǎo yúfū bǔzhuō dào yì zhī shèn.",
+      "english": "An old fisherman caught a giant clam."
+    },
+    {
+      "chinese": "传说中蜃的出现预示着海洋风暴的来临(傳說中蜃的出現預示著海洋風暴的來臨)。",
+      "pinyin": "Chuánshuō zhōng shèn de chūxiàn yùshì zhe hǎiyáng fēngbào de láilín.",
+      "english": "According to legend, the appearance of a giant clam foretells the coming of an ocean storm."
+    }
+  ]
+}

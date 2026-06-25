@@ -1,0 +1,44 @@
+{
+  "simplified": "男",
+  "traditional": "男",
+  "pinyin": "nán",
+  "english": "male; man",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "田(田) (tián, \"field\") + 力(力) (lì, \"strength\") = man providing the strength for working a field -> male; man",
+    "interpretation": "The character 男(nán, \"male; man\") combines the fields where labor is performed with the strength needed for this work, reflecting traditional male roles in agriculture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "田",
+      "trad": "田",
+      "pinyin": "tián",
+      "english": "field"
+    },
+    {
+      "char": "力",
+      "trad": "力",
+      "pinyin": "lì",
+      "english": "strength"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一位男士(他是一位男士)。",
+      "pinyin": "Tā shì yī wèi nánshì.",
+      "english": "He is a gentleman."
+    },
+    {
+      "chinese": "男孩喜欢玩耍(男孩喜歡玩耍)，男孩努力学习(男孩努力學習)。",
+      "pinyin": "Nánhái xǐhuān wánshuǎ, nánhái nǔlì xuéxí.",
+      "english": "Boys love to play, and boys study hard."
+    },
+    {
+      "chinese": "父母希望生个男(父母希望生個男)。",
+      "pinyin": "Fùmǔ xīwàng shēng gè nán.",
+      "english": "The parents hope to have a son."
+    }
+  ]
+}

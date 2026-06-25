@@ -1,0 +1,50 @@
+{
+  "simplified": "經",
+  "traditional": "經",
+  "pinyin": "jīng",
+  "english": "classic; sacred book; scripture",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糸(糹) (sī, 'silk; thread') + 巠(巠) (jīng, phonetic) -> textile threads metaphorically referring to 'classics' or 'scriptures'",
+    "interpretation": "The character 經(jīng, 'classic; sacred book; scripture') combines the idea of silk threads with the phonetic component 巠 (jīng), representing the weaving of ideas and traditions into a coherent and eternal form, akin to weaving fabric.",
+    "simplification": "In simplified form, 經 was simplified by replacing 巠(巠) (jīng) with 圣(圣) (shèng), which shares a similar sound."
+  },
+  "parts": [
+    {
+      "char": "糹",
+      "trad": "糸",
+      "pinyin": "sī",
+      "english": "silk; thread"
+    },
+    {
+      "char": "巠",
+      "trad": "巠",
+      "pinyin": "jīng",
+      "english": "phonetic component"
+    },
+    {
+      "char": "圣",
+      "trad": "圣",
+      "pinyin": "shèng",
+      "english": "holy"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "《道德经》是中国古代的经典(《道德經》是中國古代的經典)。",
+      "pinyin": "Dào Dé Jīng shì Zhōngguó gǔdài de jīngdiǎn.",
+      "english": "The Dao De Jing is an ancient Chinese classic."
+    },
+    {
+      "chinese": "他每天读经(他每天讀經)，祈求心灵平和(祈求心靈平和)。",
+      "pinyin": "Tā měitiān dú jīng, qíqiú xīnlíng pínghé.",
+      "english": "He reads the scriptures every day, seeking inner peace."
+    },
+    {
+      "chinese": "佛经包含深厚智慧(佛經包含深厚智慧)。",
+      "pinyin": "Fó jīng bāohán shēnhòu zhìhuì.",
+      "english": "The Buddhist scriptures contain profound wisdom."
+    }
+  ]
+}

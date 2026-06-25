@@ -1,0 +1,44 @@
+{
+  "simplified": "农民",
+  "traditional": "農民",
+  "pinyin": "nóngmín",
+  "english": "farmer peasant",
+  "etymology": {
+    "type": "compound word",
+    "description": "農(農) (nóng, \"agriculture\") + 民(民) (mín, \"people\") = people engaged in agriculture -> farmer or peasant",
+    "interpretation": "農民(農民) (nóngmín, \"farmer\") literally means 'people of agriculture,' referring to individuals whose livelihood is based on farming. Historically, peasants played a crucial role in maintaining agricultural productivity, and this term underscores their connection to the land and agricultural practices.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "農",
+      "trad": "農",
+      "pinyin": "nóng",
+      "english": "agriculture"
+    },
+    {
+      "char": "民",
+      "trad": "民",
+      "pinyin": "mín",
+      "english": "people; citizens; folk; nation"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他是一个农民(他是一個農民)。",
+      "pinyin": "Tā shì yī gè nóngmín.",
+      "english": "He is a farmer."
+    },
+    {
+      "chinese": "许多农民住在乡村(許多農民住在鄉村)。",
+      "pinyin": "Xǔduō nóngmín zhù zài xiāngcūn.",
+      "english": "Many farmers live in the countryside."
+    },
+    {
+      "chinese": "春天到来时(春天到來時)，农民开始耕作(農民開始耕作)。",
+      "pinyin": "Chūntiān dàolái shí, nóngmín kāishǐ gēngzuò.",
+      "english": "When spring arrives, farmers begin to plow."
+    }
+  ]
+}

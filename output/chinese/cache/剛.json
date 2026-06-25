@@ -1,0 +1,44 @@
+{
+  "simplified": "剛",
+  "traditional": "剛",
+  "pinyin": "gāng",
+  "english": "hard; firm; unyielding",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "phonetic 岡 (gāng, derived from 岡，meaning \"mound\" or \"ridge\") + semantic 刀 (dāo, \"knife\") = hard, firm, unyielding",
+    "interpretation": "The character 剛(gāng) combines the phonetic element 岡 (gāng) suggesting the sound, with the semantic element 刀 (dāo, \"knife\"), implying hardness and sharpness, to convey the idea of something being hard and firm.",
+    "simplification": "The character 剛 was simplified to 刚 by replacing the phonetic component 岡 (gāng, \"mound\") with 冈."
+  },
+  "parts": [
+    {
+      "char": "岡",
+      "trad": "岡",
+      "pinyin": "gāng",
+      "english": "mound"
+    },
+    {
+      "char": "刀",
+      "trad": "刀",
+      "pinyin": "dāo",
+      "english": "knife"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他的意志剛如鋼鐵(他的意志剛如鋼鐵)。",
+      "pinyin": "Tā de yìzhì gāng rú gāngtiě.",
+      "english": "His will is as hard as steel."
+    },
+    {
+      "chinese": "面對困難時(面對困難時)，他始終保持剛強(他始終保持剛強)。",
+      "pinyin": "Miànduì kùnnán shí, tā shǐzhōng bǎochí gāngqiáng.",
+      "english": "When facing difficulties, he always maintains an unyielding spirit."
+    },
+    {
+      "chinese": "這堵牆的結構剛而穩固(這堵牆的結構剛而穩固)。",
+      "pinyin": "Zhè dǔ qiáng de jiégòu gāng ér wěngù.",
+      "english": "The structure of this wall is firm and stable."
+    }
+  ]
+}

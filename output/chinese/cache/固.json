@@ -1,0 +1,39 @@
+{
+  "simplified": "固",
+  "traditional": "固",
+  "pinyin": "gù",
+  "english": "solid",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 囗(囗) (wéi, \"enclosure\") + phonetic 古(古) (gǔ, \"ancient\") = secured/encased by an enclosure, borrowing the sound to mean \"solid\"",
+    "interpretation": "固(gù, \"solid\") combines the idea of being enclosed or encased, as suggested by 囗(囗) (wéi, \"enclosure\"), with the phonetic component 古(古) (gǔ, \"ancient\"), emphasizing the idea of something being firmly established or long-standing, hence \"solid\".",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "囗",
+      "trad": "囗",
+      "pinyin": "wéi",
+      "english": "enclosure"
+    },
+    {
+      "char": "古",
+      "trad": "古",
+      "pinyin": "gǔ",
+      "english": "ancient"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这座桥很固(這座橋很固)。",
+      "pinyin": "Zhè zuò qiáo hěn gù.",
+      "english": "This bridge is solid."
+    },
+    {
+      "chinese": "他认为友情不应动摇(他認為友情不應動搖)，应固如磐石(應固如磐石)。",
+      "pinyin": "Tā rènwéi yǒuqíng bù yìng dòngyáo, yīng gù rú pánshí.",
+      "english": "He believes that friendship should not waver; it should be as solid as a rock."
+    }
+  ]
+}

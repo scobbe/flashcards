@@ -1,0 +1,44 @@
+{
+  "simplified": "農",
+  "traditional": "農",
+  "pinyin": "nóng",
+  "english": "agriculture",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "曲 (curved) + 辰 (field) = farmer with hands bringing goods from the field -> agriculture",
+    "interpretation": "The character 農(nóng, \"agriculture\") visually represents a person involved in the process of farming, with the curved 曲 elements symbolizing action or movement combined with 辰 indicating a field, thereby encapsulating the concept of bringing farm produce to market.",
+    "simplification": "農 was simplified to 农 by removing 曲 and stylizing the remaining elements."
+  },
+  "parts": [
+    {
+      "char": "曲",
+      "trad": "曲",
+      "pinyin": "qū",
+      "english": "curved"
+    },
+    {
+      "char": "辰",
+      "trad": "辰",
+      "pinyin": "chén",
+      "english": "field"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "政府推广农业(政府推廣農業)，提高农民生活(提高農民生活)。",
+      "pinyin": "Zhèngfǔ tuīguǎng nóngyè, tígāo nóngmín shēnghuó.",
+      "english": "The government promotes agriculture, improving the lives of farmers."
+    },
+    {
+      "chinese": "古时以农为本(古時以農為本)。",
+      "pinyin": "Gǔshí yǐ nóng wéi běn.",
+      "english": "In ancient times, agriculture was the foundation."
+    },
+    {
+      "chinese": "青山绿水孕育了丰收农业(青山綠水孕育了豐收農業)。",
+      "pinyin": "Qīngshān lǜshuǐ yùnyù le fēngshōu nóngyè.",
+      "english": "Verdant mountains and clear waters nurture abundant agriculture."
+    }
+  ]
+}

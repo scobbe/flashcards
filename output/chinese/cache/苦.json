@@ -1,0 +1,44 @@
+{
+  "simplified": "苦",
+  "traditional": "苦",
+  "pinyin": "kǔ",
+  "english": "bitter; hardship",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艸(艸) (cǎo, 'grass') + 古(古) (gǔ, 'ancient') = bitter grass -> bitter",
+    "interpretation": "The character 苦(kǔ) combines the semantic component 艸(艸) (cǎo, 'grass') with the phonetic component 古(古) (gǔ, 'ancient'), implying the taste associated with certain bitter plants or herbs. This reflects the idea of bitterness linked to plants or herbs perceived as harsh or old.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艸",
+      "trad": "艸",
+      "pinyin": "cǎo",
+      "english": "grass"
+    },
+    {
+      "char": "古",
+      "trad": "古",
+      "pinyin": "gǔ",
+      "english": "ancient"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "生活充满苦味(生活充滿苦味)。",
+      "pinyin": "Shēnghuó chōngmǎn kǔwèi.",
+      "english": "Life is full of bitterness."
+    },
+    {
+      "chinese": "他经历了许多苦难(他經歷了許多苦難)，但从未放弃(但從未放棄)。",
+      "pinyin": "Tā jīnglì le xǔduō kǔnàn, dàn cóng wèi fàngqì.",
+      "english": "He experienced many hardships, yet he never gave up."
+    },
+    {
+      "chinese": "这杯茶很苦(這杯茶很苦)。",
+      "pinyin": "Zhè bēi chá hěn kǔ.",
+      "english": "This cup of tea is very bitter."
+    }
+  ]
+}

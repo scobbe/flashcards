@@ -5,8 +5,8 @@
   "english": "opposite",
   "etymology": {
     "type": "pictogram",
-    "description": "Pictogram of an upside-down human figure (inverted 大 (dà, \"big\")) -> emphasizes opposite, backwards",
-    "interpretation": "The character 屰 (nì, \"opposite\") depicts a human figure turned upside down, visually representing the concept of being contrary or reversed, which aligns with its meaning 'opposite.' The addition of a horizontal stroke in later script versions may have been intended to accentuate the inversion, making the meaning clearer.",
+    "description": "Depicts an upside down human figure, 大(大) (dà, \"big\") inverted -> emphasizes an opposing or backward orientation -> original form of 逆(逆) (nì, \"to oppose\")",
+    "interpretation": "屰(nì) represents the concept of 'opposite' or 'backwards' by visually depicting a person in an inverted position, which intuitively conveys reversal or opposition.",
     "simplification": ""
   },
   "parts": [
@@ -20,7 +20,7 @@
       "char": "逆",
       "trad": "逆",
       "pinyin": "nì",
-      "english": "go against"
+      "english": "to oppose"
     }
   ],
   "in_contemporary_usage": false,

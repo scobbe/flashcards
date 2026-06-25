@@ -1,0 +1,44 @@
+{
+  "simplified": "蔬菜",
+  "traditional": "蔬菜",
+  "pinyin": "shūcài",
+  "english": "vegetables",
+  "etymology": {
+    "type": "compound word",
+    "description": "蔬(蔬) (shū, \"vegetables\") refers generally to edible plant parts like stems, leaves, and other non-fruit elements. It was traditionally associated with garden or cultivated plants. 菜(菜) (cài, \"vegetable; dish\") represents both the edible plants themselves and prepared dishes. In ancient China, 菜(菜) often referred to vegetables served as a dish in meals.",
+    "interpretation": "The term 蔬菜(蔬菜) (shūcài, \"vegetables\") combines the notion of edible plants with both their raw form and their role as ingredients in cooking, emphasizing their importance in Chinese culinary tradition.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "蔬",
+      "trad": "蔬",
+      "pinyin": "shū",
+      "english": "vegetables; garden produce; greens"
+    },
+    {
+      "char": "菜",
+      "trad": "菜",
+      "pinyin": "cài",
+      "english": "vegetable; dish; cuisine"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "多吃蔬菜(多吃蔬菜)。",
+      "pinyin": "Duō chī shūcài.",
+      "english": "Eat more vegetables."
+    },
+    {
+      "chinese": "春天到了(春天到了)，花园里的蔬菜长得很快(花園裡的蔬菜長得很快)。",
+      "pinyin": "Chūntiān dàole, huāyuán lǐ de shūcài zhǎng de hěn kuài.",
+      "english": "In spring, the vegetables in the garden grow quickly."
+    },
+    {
+      "chinese": "孩子们应该多吃蔬菜(孩子們應該多吃蔬菜)。",
+      "pinyin": "Háizimen yīnggāi duō chī shūcài.",
+      "english": "Children should eat more vegetables."
+    }
+  ]
+}

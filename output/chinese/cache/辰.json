@@ -2,30 +2,37 @@
   "simplified": "辰",
   "traditional": "辰",
   "pinyin": "chén",
-  "english": "early form of dragon",
+  "english": "field",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a heavenly body or a celestial presence, often associated with dragons in ancient mythology.",
-    "interpretation": "辰(辰) (chén, \"early form of dragon\") originally depicted a celestial body that was believed to influence time and was associated with dragons due to mythological links between dragons and celestial phenomena.",
+    "description": "Depicts an agricultural tool for tilling fields, possibly made from a large clam 蜃(蜃) (shèn, 'large clam')",
+    "interpretation": "辰(辰) (chén, 'field') represents an ancient tool used in agriculture, highlighting its cultural significance in early farming practices.",
     "simplification": ""
   },
-  "parts": [],
+  "parts": [
+    {
+      "char": "蜃",
+      "trad": "蜃",
+      "pinyin": "shèn",
+      "english": "large clam"
+    }
+  ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古代传说中的辰是神秘而强大的生物(古代傳說中的辰是神秘而強大的生物)。",
-      "pinyin": "Gǔdài chuánshuō zhōng de chén shì shénmì ér qiángdà de shēngwù.",
-      "english": "In ancient legends, the chén is a mysterious and powerful creature."
+      "chinese": "他在辰里播种(他在辰裡播種)。",
+      "pinyin": "Tā zài chén lǐ bōzhǒng.",
+      "english": "He sows seeds in the field."
     },
     {
-      "chinese": "东方初升的朝阳映照着辰的鳞光(東方初升的朝陽映照著辰的鱗光)，唤起了古老的神话(喚起了古老的神話)。",
-      "pinyin": "Dōngfāng chūshēng de cháoyáng yìngzhào zhe chén de línguāng, huànqǐ le gǔlǎo de shénhuà.",
-      "english": "The rising morning sun in the east illuminates the scales of the chén, evoking ancient myths."
+      "chinese": "黎明破晓时(黎明破曉時)，农夫已走进辰中(農夫已走進辰中)。",
+      "pinyin": "Límíng pòxiǎo shí, nóngfū yǐ zǒu jìn chén zhōng.",
+      "english": "At daybreak, the farmer has already entered the field."
     },
     {
-      "chinese": "传承了古老智慧的文献记载了辰的奇迹(傳承了古老智慧的文獻記載了辰的奇蹟)，使后人对它充满敬畏(使後人對它充滿敬畏)。",
-      "pinyin": "Chuánchéng le gǔlǎo zhìhuì de wénxiàn jìzǎi le chén de qíjī, shǐ hòurén duì tā chōngmǎn jìngwèi.",
-      "english": "Ancient texts carrying old wisdom recorded the miracles of the chén, filling later generations with awe."
+      "chinese": "暴雨过后(暴雨過後)，辰边生长出新绿(辰邊生長出新綠)。",
+      "pinyin": "Bàoyǔ guòhòu, chén biān shēngzhǎng chū xīn lǜ.",
+      "english": "After the heavy rain, new green grows by the field."
     }
   ]
 }

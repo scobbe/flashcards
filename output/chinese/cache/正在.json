@@ -1,0 +1,44 @@
+{
+  "simplified": "正在",
+  "traditional": "正在",
+  "pinyin": "zhèngzài",
+  "english": "in the process of",
+  "etymology": {
+    "type": "compound word",
+    "description": "正(正) (zhèng, \"just; right\") + 在(在) (zài, \"at; in\") = in the process of",
+    "interpretation": "正在(正在) (zhèngzài, \"in the process of\") combines 正(正) (zhèng, \"just; right\"), which emphasizes immediacy or correctness, with 在(在) (zài, \"at; in\"), indicating location or state. Together, it expresses the ongoing nature of an action, emphasizing that something is happening at the moment. This combination is commonly used to indicate that an action is currently taking place.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "正",
+      "trad": "正",
+      "pinyin": "zhèng",
+      "english": "just; right"
+    },
+    {
+      "char": "在",
+      "trad": "在",
+      "pinyin": "zài",
+      "english": "at; in"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他正在学习(他正在學習)。",
+      "pinyin": "Tā zhèngzài xuéxí.",
+      "english": "He is studying."
+    },
+    {
+      "chinese": "我正在做饭(我正在做飯)，听音乐(聽音樂)。",
+      "pinyin": "Wǒ zhèngzài zuòfàn, tīng yīnyuè.",
+      "english": "I am cooking and listening to music."
+    },
+    {
+      "chinese": "他们正在旅行(他們正在旅行)。",
+      "pinyin": "Tāmen zhèngzài lǚxíng.",
+      "english": "They are traveling."
+    }
+  ]
+}

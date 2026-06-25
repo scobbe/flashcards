@@ -1,0 +1,44 @@
+{
+  "simplified": "妈",
+  "traditional": "媽",
+  "pinyin": "mā",
+  "english": "mother",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "女(女) (nǚ, \"woman\") + 馬(馬) (mǎ, \"horse\") = phonetic \"ma\" sound + female association -> mother",
+    "interpretation": "The character 媽(媽) (mā, \"mother\") is a phono-semantic compound where 女(女) (nǚ, \"woman\") gives the character its female association, and 馬(馬) (mǎ, \"horse\") provides the phonetic pronunciation. This combination results in the meaning 'mother,' capturing both the phonetic element and its connection to femininity.",
+    "simplification": "媽(媽) was simplified to 妈(媽) by replacing 馬(馬) with 马(馬)."
+  },
+  "parts": [
+    {
+      "char": "女",
+      "trad": "女",
+      "pinyin": "nǚ",
+      "english": "woman"
+    },
+    {
+      "char": "馬",
+      "trad": "馬",
+      "pinyin": "mǎ",
+      "english": "horse"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我爱妈(我愛媽)。",
+      "pinyin": "Wǒ ài mā.",
+      "english": "I love mom."
+    },
+    {
+      "chinese": "我想念妈(我想念媽)，她总是在身边(她總是在身邊)。",
+      "pinyin": "Wǒ xiǎngniàn mā, tā zǒng shì zài shēnbiān.",
+      "english": "I miss my mom, she is always by my side."
+    },
+    {
+      "chinese": "我问妈(我問媽)，她总是耐心回答(她總是耐心回答)。",
+      "pinyin": "Wǒ wèn mā, tā zǒng shì nàixīn huídá.",
+      "english": "I ask my mom, she always answers patiently."
+    }
+  ]
+}

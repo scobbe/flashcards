@@ -1,0 +1,44 @@
+{
+  "simplified": "小孩",
+  "traditional": "小孩",
+  "pinyin": "xiǎohái",
+  "english": "child kid",
+  "etymology": {
+    "type": "compound word",
+    "description": "小(小) (xiǎo, \"small\") + 孩(孩) (hái, \"child\") = small child -> kid",
+    "interpretation": "This combination makes sense because 小(小) (xiǎo, \"small\") describes the physical size or age, and 孩(孩) (hái, \"child\") denotes a young person. Together, 小孩(小孩) (xiǎohái, \"child; kid\") is used to refer to a young child, emphasizing smallness and youth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "小",
+      "trad": "小",
+      "pinyin": "xiǎo",
+      "english": "small; little; young"
+    },
+    {
+      "char": "孩",
+      "trad": "孩",
+      "pinyin": "hái",
+      "english": "child; kid; youth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "那个小孩很可爱(那個小孩很可愛)。",
+      "pinyin": "Nàge xiǎohái hěn kě'ài.",
+      "english": "That kid is very cute."
+    },
+    {
+      "chinese": "小孩喜欢听故事(小孩喜歡聽故事)。",
+      "pinyin": "Xiǎohái xǐhuān tīng gùshì.",
+      "english": "Children like to listen to stories."
+    },
+    {
+      "chinese": "公园里有很多小孩(公園裡有很多小孩)，他们在快乐地玩耍(他們在快樂地玩耍)。",
+      "pinyin": "Gōngyuán lǐ yǒu hěn duō xiǎohái, tāmen zài kuàilè de wánshuǎ.",
+      "english": "There are many kids in the park, and they are playing happily."
+    }
+  ]
+}

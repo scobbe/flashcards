@@ -1,0 +1,445 @@
+## 金刚经(金剛經)
+---
+## Diamond Sutra, a key Mahayana Buddhist scripture
+### Jīngāng Jīng
+---
+- **definition:** Diamond Sutra, a key Mahayana Buddhist scripture
+- **pinyin:** Jīngāng Jīng
+- **components:**
+  - 金
+    - jīn
+    - gold; metal
+  - 剛
+    - gāng
+    - hard; firm; unyielding
+  - 經
+    - jīng
+    - classic; sacred book; scripture
+- **etymology:**
+  - **type:** compound word
+  - **description:** The term 金剛經(經) (Jīngāng Jīng, "Diamond Sutra") refers to a key scripture in Mahayana Buddhism. 金(剛) (jīn, "gold") represents hardness or indestructibility, symbolizing the pure strength and clarity of the diamond. 剛(剛) (gāng, "hard") reinforces the notion of unbreakable strength. 經(經) (jīng, "classic"; "scripture") indicates a canonical text of religious significance. The combination implies a text that is as enduring and pure as a diamond, highlighting the Sutra's philosophical depth and importance.
+  - **interpretation:** 金剛經(經) (Jīngāng Jīng, "Diamond Sutra") is a foundational Mahayana Buddhist text, known for its profound teachings on the principles of non-attachment and emptiness. The metaphor of the diamond suggests clarity and indestructibility, emphasizing the Sutra's wisdom.
+- **examples:**
+  - 我阅读金刚经(我閱讀金剛經)，修行悟道(修行悟道)。
+    - Wǒ yuèdú jīngāng jīng, xiūxíng wùdào.
+    - I read the Diamond Sutra and practice the path of enlightenment.
+  - 金刚经启发智慧(金剛經啟發智慧)，佛法指引人生(佛法指引人生)。
+    - Jīngāng jīng qǐfā zhìhuì, fófǎ zhǐyǐn rénshēng.
+    - The Diamond Sutra inspires wisdom, and Buddhist teachings guide life.
+  - 信众细读金刚经(信眾細讀金剛經)，探讨深奥佛理(探討深奧佛理)。
+    - Xìnzhòng xìdú jīngāng jīng, tàntǎo shēn'ào fó lǐ.
+    - Devotees study the Diamond Sutra carefully and discuss profound Buddhist doctrines.
+### 金刚经(金剛經) → 金(金)
+- **definition:** gold; metal
+- **pinyin:** jīn
+- **components:**
+  - 士
+    - shì
+    - upside-down ritual axe perhaps made of precious materials
+  - 呂
+    - lǚ
+    - two blocks of metal
+  - 亼
+    - jī
+    - open mouth flipped upside down
+- **etymology:**
+  - **type:** Phono-semantic compound
+  - **description:**
+    - 士(士) (shì, "upside-down ritual axe perhaps made of precious materials") + 呂(呂) (lǚ, "two blocks of metal") + 亼(亼) (jī, "phonetic: open mouth flipped upside down") ->
+    - original meaning related to copper ->
+    - extended to metal and gold
+  - **interpretation:** The character 金(jīn, "metal") initially indicated copper, reflecting its historical use before the Bronze Age in China. The combination of symbolic components for metal and sound formed the basis for its evolution into a general term for metal and subsequently gold.
+- **examples:**
+  - 金是一种珍贵的金属(金是一種珍貴的金屬)。
+    - Jīn shì yī zhǒng zhēnguì de jīnshǔ.
+    - Metal is a precious metal.
+  - 这座桥的柱子由金铸成(這座橋的柱子由金鑄成)，闪闪发光(閃閃發光)。
+    - Zhè zuò qiáo de zhùzi yóu jīn zhùchéng, shǎnshǎn fāguāng.
+    - The pillars of this bridge are cast from metal, shining brilliantly.
+### 金刚经(金剛經) → 金(金) → 士(士)
+- **definition:** upside-down ritual axe perhaps made of precious materials
+- **pinyin:** shì
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts an upside-down ritual axe ->
+    - later meaning soldier ->
+    - eventually officer or intellectual
+  - **interpretation:** The character 士(士) (shì, 'officer') originally depicted a ritual axe, symbolizing authority and power. Over time, it evolved to signify roles associated with leadership and scholarship.
+- **examples:**
+  - 博物馆今日展出了士(士)，展示古代祭祀器物(展示古代祭祀器物)。
+    - Bówùguǎn jīnrì zhǎnchūle shì(士)，zhǎnshì gǔdài jìsì qìwù(展示古代祭祀器物)。
+    - The museum exhibited the shì today, showcasing ancient sacrificial vessels.
+  - 考古学家在遗址中发现了一把士(士)，被认为是祭祀用的珍贵器物(被認為是祭祀用的珍貴器物)。
+    - Kǎogǔ xuéjiā zài yízhǐ zhōng fāxiànle yī bǎ shì(士)，bèi rènwéi shì jìsì yòng de zhēnguì qìwù(被認為是祭祀用的珍貴器物)。
+    - Archaeologists discovered a shì at the site, which is considered a precious ritual artifact.
+  - 工匠精心打造出的士(士)，在阳光下闪烁着金属光芒(在陽光下閃爍着金屬光芒)。
+    - Gōngjiàng jīngxīn dǎzàochū de shì(士)，zài yángguāng xià shǎnshuò zhe jīnshǔ guāngmáng(在陽光下閃爍着金屬光芒)。
+    - The shì, crafted meticulously by artisans, shimmers under the sunlight with a metallic glow.
+### 金刚经(金剛經) → 金(金) → 呂(呂)
+- **definition:** two blocks of metal
+- **pinyin:** lǚ
+- **components:**
+  - 鋁
+    - lǚ
+    - ingot
+  - 膂
+    - lǚ
+    - spine
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts two blocks of metal ->
+    - original form of 鋁(鋁) (lǚ, 'ingot') ->
+    - borrowed phonetically for 膂(膂) (lǚ, 'spine') and 呂(呂) (lǚ, 'music notes')
+  - **interpretation:** Initially a pictogram illustrating two disconnected metal blocks, the character 呂(呂) (lǚ, 'two blocks of metal') was later adapted by connecting the blocks, becoming stylized as it was repurposed for various meanings including 'spine' and 'music notes'.
+  - **simplification:** 呂(呂) was adapted into 呂(吕) as a simplified form without altering the meaning, simplifying the lines to produce a more cursive appearance.
+- **examples:**
+  - 工匠将呂打造成精美的装饰品(工匠將呂打造成精美的裝飾品)。
+    - Gōngjiàng jiāng Lǚ dǎzào chéng jīngměi de zhuāngshìpǐn.
+    - The artisan forged the two blocks of metal into an exquisite ornament.
+  - 考古学家在古墓中发现了呂(考古學家在古墓中發現了呂)。
+    - Kǎogǔ xuéjiā zài gǔmù zhōng fāxiànle Lǚ.
+    - The archaeologist discovered the two blocks of metal in the ancient tomb.
+### 金刚经(金剛經) → 金(金) → 呂(呂) → 鋁(鋁)
+- **definition:** ingot
+- **pinyin:** lǚ
+- **components:**
+  - 金
+    - jīn
+    - metal
+  - 慮
+    - lǜ
+    - consider
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 金(金) (jīn, "metal; gold") + phonetic 慮(慮) (lǜ) =
+    - related to metal properties ->
+    - ingot
+  - **interpretation:** 鋁(lǚ) ("ingot") combines 金(金) to indicate association with metal and 慮(慮) as a phonetic component, suggesting the importance of careful consideration in metallurgy.
+- **examples:**
+  - 工厂里熔化的铝经过快速冷却后(工廠裡熔化的鋁經過快速冷卻後)，凝固成锭形状(凝固成錠形狀)。
+    - Gōngchǎng lǐ rónghuà de lǚ jīngguò kuàisù lěngquè hòu, nínggù chéng dìng xíngzhuàng.
+    - In the factory, the melted aluminum quickly cooled and solidified into ingot shapes.
+  - 冶炼工匠精心铸造铝为高质量锭(冶煉工匠精心鑄造鋁為高質量錠)。
+    - Yěliàn gōngjiàng jīngxīn zhùzào lǚ wèi gāo zhìliàng dìng.
+    - The metallurgists meticulously cast the aluminum into high-quality ingots.
+### 金刚经(金剛經) → 金(金) → 呂(呂) → 鋁(鋁) → 慮(慮)
+- **definition:** consider
+- **pinyin:** lǜ
+- **components:**
+  - 思
+    - sī
+    - to think
+  - 虍
+    - hū
+    - phonic
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 思(思) (sī, "to think") for meaning + 虍(虍) (hū, phonic) =
+    - thinking deeply ->
+    - consider
+  - **interpretation:** The character 慮(慮) (lǜ, "consider") combines 思(思) (sī, "to think") to emphasize the idea of cognition or consideration, with 虍(虍) (hū), which provides a phonetic cue. This character reflects the thoughtful and deliberative nature of the action it represents.
+  - **simplification:** Simplified to 虑(慮) (lǜ, "consider") by removing the 田(田) (tián, "field") component from 思(思) (sī, "to think") to streamline the character without losing the primary radical.
+- **examples:**
+  - 在做决定前(在做決定前)，他总是仔细慮及各方面因素(他總是仔細慮及各方面因素)。
+    - Zài zuò juédìng qián, tā zǒng shì zǐxì lǜ jí gè fāngmiàn yīnsù。
+    - Before making a decision, he always carefully considers all aspects.
+  - 慎慮是一种智慧(慎慮是一種智慧)。
+    - Shèn lǜ shì yī zhǒng zhìhuì。
+    - Careful consideration is a form of wisdom.
+  - 面临困难时(面臨困難時)，他总会花时间慮处理方案(他總會花時間慮處理方案)。
+    - Miànlín kùnnán shí, tā zǒng huì huā shíjiān lǜ chǔlǐ fāng'àn。
+    - When facing difficulties, he always takes time to consider the solution.
+### 金刚经(金剛經) → 金(金) → 呂(呂) → 鋁(鋁) → 慮(慮) → 思(思)
+- **definition:** to think
+- **pinyin:** sī
+- **components:**
+  - 田
+    - tián
+    - field
+  - 心
+    - xīn
+    - heart
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 心(心) (xīn, "heart") + phonetic: 田(田) (tián) =
+    - the act of the heart dwelling or contemplating ->
+    - to think or consider
+  - **interpretation:** The character 思(sī, "to think") combines 心(心) (xīn, "heart") to represent the mind or emotions, with 田(田) (tián) as the phonetic component, indicating the sound. This suggests a process where thoughts originate or dwell in the heart, metaphorically speaking.
+- **examples:**
+  - 我常常思考未来(我常常思考未來)。
+    - wǒ chángcháng sīkǎo wèilái.
+    - I often contemplate the future.
+  - 她深深思念故乡(她深深思念故鄉)，心中充满温暖(心中充滿溫暖)。
+    - tā shēnshēn sīniàn gùxiāng, xīnzhōng chōngmǎn wēnnuǎn.
+    - She deeply misses her hometown, and her heart is filled with warmth.
+### 金刚经(金剛經) → 金(金) → 呂(呂) → 鋁(鋁) → 慮(慮) → 虍(虍)
+- **definition:** phonic
+- **pinyin:** hū
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a tiger's head
+  - **interpretation:** The character 虍(虍) (hū, 'tiger stripes') represents the head of a tiger, distinguishing it from 虎(虎) (hǔ, 'tiger') which includes the entire body. This imagery emphasizes the distinctive features of a tiger's head, such as its stripes.
+- **examples:**
+  - 艺术家在描绘森林时(藝術家在描繪森林時)，巧妙地运用了虍的虎纹效果(巧妙地運用了虍的虎紋效果)。
+    - Yìshùjiā zài miáohuì sēnlín shí, qiǎomiào de yùnyòngle hū de hǔwén xiàoguǒ.
+    - The artist, while depicting the forest, skillfully applied the effect of tiger stripes.
+  - 他对虍怀着浓厚的研究兴趣(他對虍懷著濃厚的研究興趣)。
+    - Tā duì hū huáizhe nónghòu de yánjiū xìngqù.
+    - He holds a strong interest in studying tiger stripes.
+### 金刚经(金剛經) → 金(金) → 呂(呂) → 膂(膂)
+- **definition:** spine
+- **pinyin:** lǚ
+- **etymology:**
+  - **type:** variant form
+  - **description:** 膂 is a variant form of 呂(呂) (lǚ, "spine")
+  - **interpretation:** Originating as a pictogram depicting two disconnected blocks, 呂(呂) was initially associated with metal and later reinterpreted as vertebrae through the addition of a connecting line, representing 9 (lǚ, "spine"). The character 呂(呂) was phonetically borrowed for this meaning, while 膂 emphasizes its anatomical sense with the addition of the 肉(肉) (ròu, "flesh") radical.
+- **examples:**
+  - 他的膂十分强健(他的膂十分強健)。
+    - Tā de lǚ shífēn qiángjiàn.
+    - His spine is very strong.
+  - 练习瑜伽可以增强膂(練習瑜伽可以增強膂)，保持身体健康(保持身體健康)。
+    - Liànxí yújiā kěyǐ zēngqiáng lǚ, bǎochí shēntǐ jiànkāng.
+    - Practicing yoga can strengthen the spine, helping to maintain a healthy body.
+### 金刚经(金剛經) → 金(金) → 亼(亼)
+- **definition:** open mouth flipped upside down
+- **pinyin:** jī
+- **etymology:**
+  - **type:** ideogrammic compound
+  - **description:**
+    - 入(入) (rù, "enter") + 一(一) (yī, "one") =
+    - gather from three sides
+  - **interpretation:** 9.61
+- **examples:**
+  - 这幅画描绘了亼的独特形状(這幅畫描繪了亼的獨特形狀)。
+    - Zhè fú huà miáohuì le jī de dú tè xíngzhuàng.
+    - This painting depicts the unique shape of 亼, resembling an open mouth flipped upside down.
+  - 古籍记载亼符号的古怪寓意(古籍記載亼符號的古怪寓意)，令后人赞叹不已(令後人讚嘆不已)。
+    - Gǔ jí jì zǎi jī fú hào de gǔ guài yù yì, lìng hòu rén zàn tàn bù yǐ.
+    - Ancient texts record the bizarre symbolism of 亼, which inspires endless admiration from later generations.
+### 金刚经(金剛經) → 剛(剛)
+- **definition:** hard; firm; unyielding
+- **pinyin:** gāng
+- **components:**
+  - 岡
+    - gāng
+    - mound
+  - 刀
+    - dāo
+    - knife
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - phonetic 岡 (gāng, derived from 岡，meaning "mound" or "ridge") + semantic 刀 (dāo, "knife") =
+    - hard, firm, unyielding
+  - **interpretation:** The character 剛(gāng) combines the phonetic element 岡 (gāng) suggesting the sound, with the semantic element 刀 (dāo, "knife"), implying hardness and sharpness, to convey the idea of something being hard and firm.
+  - **simplification:** The character 剛 was simplified to 刚 by replacing the phonetic component 岡 (gāng, "mound") with 冈.
+- **examples:**
+  - 他的意志剛如鋼鐵(他的意志剛如鋼鐵)。
+    - Tā de yìzhì gāng rú gāngtiě.
+    - His will is as hard as steel.
+  - 面對困難時(面對困難時)，他始終保持剛強(他始終保持剛強)。
+    - Miànduì kùnnán shí, tā shǐzhōng bǎochí gāngqiáng.
+    - When facing difficulties, he always maintains an unyielding spirit.
+  - 這堵牆的結構剛而穩固(這堵牆的結構剛而穩固)。
+    - Zhè dǔ qiáng de jiégòu gāng ér wěngù.
+    - The structure of this wall is firm and stable.
+### 金刚经(金剛經) → 剛(剛) → 岡(岡)
+- **definition:** mound
+- **pinyin:** gāng
+- **components:**
+  - 网(網)
+    - wǎng
+    - net
+  - 山
+    - shān
+    - mountain
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 网(網) (wǎng, phonetic) + 山(山) (shān, "mountain") =
+    - ridge
+  - **interpretation:** The character combines the phonetic component 网(網) to suggest pronunciation and the semantic component 山(山) to indicate its meaning related to mountains, forming the concept of a 'ridge'.
+- **examples:**
+  - 远处的山冈全被绿色覆盖(遠處的山岡全被綠色覆蓋)。
+    - Yuǎn chù de shān gāng quán bèi lǜ sè fù gài.
+    - The distant ridge is completely covered in green.
+  - 登上山冈(登上山岡)，你会看到美丽的风光(你會看到美麗的風光)。
+    - Dēng shàng shān gāng, nǐ huì kàn dào měi lì de fēng guāng.
+    - Climb the ridge, and you will see beautiful scenery.
+  - 清晨时分(清晨時分)，雾气缭绕在连绵的山冈上(霧氣繚繞在連綿的山岡上)。
+    - Qīng chén shí fēn, wù qì liáo rào zài lián mián de shān gāng shàng.
+    - In the early morning, mist hovers over the rolling ridges.
+### 金刚经(金剛經) → 剛(剛) → 岡(岡) → 网(網)
+- **definition:** net
+- **pinyin:** wǎng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Depicts a net with crossing lines or mesh ->
+    - symbol for 'net'
+  - **interpretation:** The character 网(網) (wǎng, 'net') visually represents a net with lines intersecting to form a grid, making it intuitive as a symbol for a net or mesh.
+  - **simplification:** The simplified character 网 (wǎng) retains the essential visual structure of intersecting lines to depict a net. It conveys the idea of a net through a simplified representation without additional semantic or phonetic elements.
+- **examples:**
+  - 他用网捕鱼(他用網捕魚)，快乐满怀(快樂滿懷)。
+    - Tā yòng wǎng bǔ yú, kuàilè mǎn huái.
+    - He fishes with a net and is full of joy.
+  - 很多信息通过网传播(很多信息通過網傳播)，速度惊人(速度驚人)。
+    - Hěn duō xìnxī tōngguò wǎng chuánbō, sùdù jīngrén.
+    - A lot of information spreads through the net with astonishing speed.
+### 金刚经(金剛經) → 剛(剛) → 岡(岡) → 山(山)
+- **definition:** mountain
+- **pinyin:** shān
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts three mountain peaks
+  - **interpretation:** The character 山(shān, "mountain") visually represents the concept of a mountain using three vertical lines that suggest peaks. This depiction is consistent with early forms found in Oracle Bone Script, emphasizing the notion of natural elevation associated with mountains.
+- **examples:**
+  - 我们去爬山(我們去爬山)。
+    - Wǒmen qù pá shān.
+    - We go climb the mountain.
+  - 那座大山让人惊叹(那座大山讓人驚嘆)。
+    - Nà zuò dà shān ràng rén jīngtàn.
+    - That mountain astonishes people.
+  - 远处的山隐约在云中(遠處的山隱約在雲中)，令人心旷神怡(令人心曠神怡)。
+    - Yuǎnchù de shān yǐnyuē zài yún zhōng, lìng rén xīnkuàng shényí.
+    - The distant mountain fades into the clouds, leaving one in a state of peace.
+### 金刚经(金剛經) → 剛(剛) → 刀(刀)
+- **definition:** knife
+- **pinyin:** dāo
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a knife
+  - **interpretation:** 刀(刀) (dāo, "knife") is a pictographic representation of a knife or blade, with a sharp edge and a handle, resembling the form of a basic cutting tool.
+- **examples:**
+  - 他用锋利的刀(他用鋒利的刀)，切开蔬菜(切開蔬菜)。
+    - tā yòng fēnglì de dāo, qiē kāi shūcài.
+    - He uses a sharp knife to cut vegetables.
+  - 这把刀(這把刀)非常锋利(非常鋒利)。
+    - zhè bǎ dāo fēicháng fēnglì.
+    - This knife is very sharp.
+  - 厨师小心地持刀(廚師小心地持刀)，为客人切肉(為客人切肉)。
+    - chúshī xiǎoxīn de chí dāo, wèi kèrén qiē ròu.
+    - The chef holds the knife carefully and slices meat for the guest.
+### 金刚经(金剛經) → 經(經)
+- **definition:** classic; sacred book; scripture
+- **pinyin:** jīng
+- **components:**
+  - 糹(糸)
+    - sī
+    - silk; thread
+  - 巠
+    - jīng
+    - phonetic component
+  - 圣
+    - shèng
+    - holy
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 糸(糹) (sī, 'silk; thread') + 巠(巠) (jīng, phonetic) ->
+    - textile threads metaphorically referring to 'classics' or 'scriptures'
+  - **interpretation:** The character 經(jīng, 'classic; sacred book; scripture') combines the idea of silk threads with the phonetic component 巠 (jīng), representing the weaving of ideas and traditions into a coherent and eternal form, akin to weaving fabric.
+  - **simplification:** In simplified form, 經 was simplified by replacing 巠(巠) (jīng) with 圣(圣) (shèng), which shares a similar sound.
+- **examples:**
+  - 《道德经》是中国古代的经典(《道德經》是中國古代的經典)。
+    - Dào Dé Jīng shì Zhōngguó gǔdài de jīngdiǎn.
+    - The Dao De Jing is an ancient Chinese classic.
+  - 他每天读经(他每天讀經)，祈求心灵平和(祈求心靈平和)。
+    - Tā měitiān dú jīng, qíqiú xīnlíng pínghé.
+    - He reads the scriptures every day, seeking inner peace.
+  - 佛经包含深厚智慧(佛經包含深厚智慧)。
+    - Fó jīng bāohán shēnhòu zhìhuì.
+    - The Buddhist scriptures contain profound wisdom.
+### 金刚经(金剛經) → 經(經) → 糹(糹)
+- **definition:** silk; thread
+- **pinyin:** sī
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts threads of silk arranged vertically, representing fine silk
+  - **interpretation:** The character 糹 (mì, "fine silk") visually represents fine strands of silk with vertical lines suggesting the texture and thinness of silk threads.
+  - **simplification:** The traditional form 糹 was simplified to 纟 by retaining only three vertical strokes, capturing the essence of silk threads.
+- **examples:**
+  - 这种糹制作的衣服格外精美(這種糹製作的衣服格外精美)。
+    - Zhè zhǒng mì zhìzuò de yīfú géwài jīngměi。
+    - Clothes made from this fine silk are exceptionally exquisite.
+  - 古代使用糹编织华服(古代使用糹編織華服)，现代依然欣赏糹质的魅力(現代依然欣賞糹質的魅力)。
+    - Gǔdài shǐyòng mì biānzhī huáfú, xiàndài yírán xīnshǎng mì zhì de mèilì。
+    - In ancient times, fine silk was used to weave splendid garments, and even today, its texture is admired.
+### 金刚经(金剛經) → 經(經) → 巠(巠)
+- **definition:** phonetic component
+- **pinyin:** jīng
+- **etymology:**
+  - **type:** pictogram
+  - **description:**
+    - Pictogram of vertical threads passing through the top of a loom ->
+    - ancient form of 經(經) (jīng, "warp, classics")
+  - **interpretation:** 巠(jīng) originally depicts the structure of a loom with threads passing through, symbolizing the concept of abiding or complying, which later evolved into the meaning associated with 經(經) (jīng, "warp, classics").
+### 金刚经(金剛經) → 經(經) → 圣(聖)
+- **definition:** holy
+- **pinyin:** shèng
+- **components:**
+  - 耳
+    - ěr
+    - ear
+  - 王
+    - wáng
+    - king
+- **etymology:**
+  - **type:** phono-semantic compound
+  - **description:**
+    - 耳(耳) (ěr, "ear") + 王(王) (wáng, "king") =
+    - ear of the king ->
+    - sacred
+  - **interpretation:** The character combines 耳(耳) (ěr, "ear") and 王(王) (wáng, "king") in its traditional form, symbolizing the concept of sacredness or holiness by alluding to a ruler who listens attentively.
+  - **simplification:** The traditional character 聖 was simplified to 圣 by removing the components 耳(耳) (ěr, "ear") and modifying the remaining part to retain phonetic and semantic elements in a more concise form.
+- **examples:**
+  - 这座寺庙被视为圣地(這座寺廟被視為聖地)。
+    - Zhè zuò sìmiào bèi shìwéi shèngdì.
+    - This temple is regarded as a sacred place.
+  - 她的微笑让人感受到一种圣洁的温暖(她的微笑讓人感受到一種聖潔的溫暖)。
+    - Tā de wéixiào ràng rén gǎnshòudào yī zhǒng shèngjié de wēnnuǎn.
+    - Her smile evokes a sense of sacred warmth.
+  - 他在祈祷时虔诚地低语(他在祈禱時虔誠地低語)，心中充满圣意(心中充滿聖意)。
+    - Tā zài qídǎo shí qiánchéng de dīyǔ, xīnzhōng chōngmǎn shèngyì.
+    - He whispered devoutly in prayer, his heart full of sacred intent.
+### 金刚经(金剛經) → 經(經) → 圣(聖) → 耳(耳)
+- **definition:** ear
+- **pinyin:** ěr
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts an ear
+  - **interpretation:** The character 耳(耳) (ěr, "ear") is a pictogram that visually represents an ear with its distinctive shape. This straightforward representation made it intuitive for ancient speakers to associate the character directly with the concept of an ear.
+- **examples:**
+  - 音乐直入耳(音樂直入耳)。
+    - Yīn yuè zhí rù ěr.
+    - The music goes straight to the ear.
+  - 他亲耳听到谣言(他親耳聽到謠言)，心中充满疑虑(心中充滿疑慮)。
+    - Tā qīn ěr tīng dào yáo yán, xīn zhōng chōng mǎn yí lǜ.
+    - He heard the rumor with his own ears, and his heart was filled with doubt.
+### 金刚经(金剛經) → 經(經) → 圣(聖) → 王(王)
+- **definition:** king
+- **pinyin:** wáng
+- **etymology:**
+  - **type:** pictogram
+  - **description:** Depicts a ritual axe representing the king's authority
+  - **interpretation:** This character represents the form of a ceremonial axe, which was the symbol of a king's power in ancient China. The structure emphasizes the sacred and authoritative role of the king, separate from the nuanced folk interpretations linking Heaven, Man, and Earth.
+- **examples:**
+  - 他被称为王(他被稱為王)，领导人民(領導人民)。
+    - Tā bèi chēng wéi wáng, lǐngdǎo rénmín.
+    - He is called the king, leading his people.
+  - 古代的君主常被尊称为王(古代的君主常被尊稱為王)。
+    - Gǔdài de jūnzhǔ cháng bèi zūnchēng wéi wáng.
+    - Ancient rulers were often respectfully called kings.
+  - 在祭祀仪式上(在祭祀儀式上)，人们向王致敬(人們向王致敬)。
+    - Zài jìsì yíshì shàng, rénmen xiàng wáng zhìjìng.
+    - During the ceremonial sacrifices, people salute the king.
+---
+## 金刚经(金剛經)
+### Jīngāng Jīng
+---
+## Diamond Sutra, a key Mahayana Buddhist scripture

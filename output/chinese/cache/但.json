@@ -1,0 +1,44 @@
+{
+  "simplified": "但",
+  "traditional": "但",
+  "pinyin": "dàn",
+  "english": "but only; however",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "亻(亻) (rén, \"person\") + 旦(旦) (dàn, \"dawn\") = a person's activity beginning at dawn -> but only",
+    "interpretation": "The character 但(dàn) combines 亻(亻) (rén, \"person\") as the semantic component, suggesting involvement or action by a person, with 旦(旦) (dàn, \"dawn\") as the phonetic component, indicating pronunciation. This suggests the notion of a new beginning or a conditional action, aligning with its use for 'but only' or 'however'.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "亻",
+      "trad": "亻",
+      "pinyin": "rén",
+      "english": "person"
+    },
+    {
+      "char": "旦",
+      "trad": "旦",
+      "pinyin": "dàn",
+      "english": "dawn"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我很喜欢这本书(我很喜歡這本書)，但它太贵了(但它太貴了)。",
+      "pinyin": "Wǒ hěn xǐhuān zhè běn shū, dàn tā tài guì le.",
+      "english": "I really like this book, but it is too expensive."
+    },
+    {
+      "chinese": "他努力学中文(他努力學中文)，但进步不快(但進步不快)。",
+      "pinyin": "Tā nǔlì xué Zhōngwén, dàn jìnbù bù kuài.",
+      "english": "He studies Chinese hard, but his progress is slow."
+    },
+    {
+      "chinese": "天气预报说今天会下雨(天氣預報說今天會下雨)，但我仍然想出去(但我仍然想出去)。",
+      "pinyin": "Tiānqì yùbào shuō jīntiān huì xiàyǔ, dàn wǒ réngrán xiǎng chūqù.",
+      "english": "The weather forecast said it would rain today, but I still want to go out."
+    }
+  ]
+}

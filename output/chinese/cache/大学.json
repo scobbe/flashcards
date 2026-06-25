@@ -1,0 +1,44 @@
+{
+  "simplified": "大学",
+  "traditional": "大學",
+  "pinyin": "dàxué",
+  "english": "university college",
+  "etymology": {
+    "type": "compound word",
+    "description": "大(大) (dà, \"big; great\") + 學(學) (xué, \"study; learning\") = \"university\" or \"college\" as a place of higher education",
+    "interpretation": "The word 大學 (dàxué) refers to a place for advanced learning. The combination implies an institution for large-scale or advanced study and research, reflecting its role in higher education. Historically, 大學 (dàxué) is also a reference to a Confucian text, reinforcing the significance of profound learning and virtue in Chinese culture.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "大",
+      "trad": "大",
+      "pinyin": "dà",
+      "english": "big; great"
+    },
+    {
+      "char": "学",
+      "trad": "學",
+      "pinyin": "xué",
+      "english": "study; learning"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他在大学学习(他在大學學習)。",
+      "pinyin": "Tā zài dàxué xuéxí.",
+      "english": "He studies at the university."
+    },
+    {
+      "chinese": "我梦想进入大学深造(我夢想進入大學深造)。",
+      "pinyin": "Wǒ mèngxiǎng jìnrù dàxué shēnzào.",
+      "english": "I dream of furthering my studies at the university."
+    },
+    {
+      "chinese": "她在大学里结识了很多朋友(她在大學裡結識了很多朋友)。",
+      "pinyin": "Tā zài dàxué lǐ jiéshí le hěn duō péngyǒu.",
+      "english": "She made many friends at the university."
+    }
+  ]
+}

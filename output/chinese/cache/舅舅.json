@@ -1,0 +1,39 @@
+{
+  "simplified": "舅舅",
+  "traditional": "舅舅",
+  "pinyin": "jiùjiu",
+  "english": "uncle mother’s brother",
+  "etymology": {
+    "type": "compound word",
+    "description": "舅(舅) (jiù, \"mother's brother\"); 舅(舅) (jiù, \"mother's brother\")",
+    "interpretation": "The word 舅舅 (jiùjiu) is a reduplication of 舅(舅) (jiù, \"mother's brother\"). In Chinese, reduplication can emphasize a familiar or affectionate tone, especially when referring to family members. This term specifically denotes one's maternal uncle.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "舅",
+      "trad": "舅",
+      "pinyin": "jiù",
+      "english": "mother's brother; uncle"
+    },
+    {
+      "char": "舅",
+      "trad": "舅",
+      "pinyin": "jiù",
+      "english": "mother's brother; uncle"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我舅舅住在北京(我舅舅住在北京)。",
+      "pinyin": "Wǒ jiùjiu zhù zài Běijīng.",
+      "english": "My uncle lives in Beijing."
+    },
+    {
+      "chinese": "每逢暑假(每逢暑假)，我舅舅就会去旅行(我舅舅就會去旅行)。",
+      "pinyin": "Měiféng shǔjià, Wǒ jiùjiu jiù huì qù lǚxíng.",
+      "english": "Every summer vacation, my uncle goes traveling."
+    }
+  ]
+}

@@ -4,16 +4,16 @@
   "pinyin": "gǔ",
   "english": "ancient",
   "etymology": {
-    "type": "Ideogram",
-    "description": "十 (shí, \"shield\") + 口 (kǒu, \"mouth\") = concept of \"strong, firm\" like a shield -> original meaning of 固",
-    "interpretation": "古(gǔ, \"ancient\") combines a shield and a mouth, symbolizing the strength and firmness of traditions carried through speech. This original strong or firm concept eventually extended to refer to something ancient, as traditions tend to become firmly established over time.",
+    "type": "ideogram",
+    "description": "十 (contraction of 盾(盾) (dùn, \"shield\")) + 口(口) (kǒu, \"mouth\") = original form of 固(固) (gù, \"solid\")",
+    "interpretation": "The character 古 (gǔ), meaning 'ancient,' originally combined the concept of a shield represented by 十, contracted from 盾(盾) (dùn, \"shield\"), with 口(口) (kǒu, \"mouth\") to convey the notion of 'strength' or 'firmness.' This relates to its origin as the form of 固(固) (gù, \"solid\").",
     "simplification": ""
   },
   "parts": [
     {
       "char": "十",
-      "trad": "十",
-      "pinyin": "shí",
+      "trad": "盾",
+      "pinyin": "dùn",
       "english": "shield"
     },
     {
@@ -21,24 +21,30 @@
       "trad": "口",
       "pinyin": "kǒu",
       "english": "mouth"
+    },
+    {
+      "char": "固",
+      "trad": "固",
+      "pinyin": "gù",
+      "english": "solid"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "古书记录着智慧(古書記錄著智慧)。",
-      "pinyin": "Gǔ shū jìlù zhe zhìhuì.",
-      "english": "Ancient books record wisdom."
+      "chinese": "古城非常美丽(古城非常美麗)。",
+      "pinyin": "Gǔ chéng fēicháng měilì.",
+      "english": "The ancient city is very beautiful."
     },
     {
-      "chinese": "我们参观了一个古镇(我們參觀了一個古鎮)，体验历史韵味(體驗歷史韻味)。",
-      "pinyin": "Wǒmen cānguān le yīgè gǔ zhèn, tǐyàn lìshǐ yùnwèi.",
-      "english": "We visited an ancient town and experienced its historical charm."
+      "chinese": "他珍藏着一枚古币(他珍藏著一枚古幣)，代表悠久的文化(代表悠久的文化)。",
+      "pinyin": "Tā zhēncángzhe yī méi gǔ bì, dàibiǎo yōujiǔ de wénhuà.",
+      "english": "He treasured an ancient coin, representing a long-standing culture."
     },
     {
-      "chinese": "古建筑诉说着过去(古建築訴說著過去)。",
-      "pinyin": "Gǔ jiànzhú sùshuō zhe guòqù.",
-      "english": "Ancient architecture tells the stories of the past."
+      "chinese": "博物馆里展出许多古文物(博物館裡展出許多古文物)。",
+      "pinyin": "Bówùguǎn lǐ zhǎnchū xǔduō gǔ wénwù.",
+      "english": "The museum displays many ancient relics."
     }
   ]
 }

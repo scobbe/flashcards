@@ -1,0 +1,32 @@
+{
+  "file_status": {
+    "1.舅妈": "complete",
+    "2.舅舅": "complete",
+    "3.农民": "complete",
+    "4.当": "complete",
+    "5.蔬菜": "complete",
+    "6.菜": "complete",
+    "7.正在": "complete",
+    "8.在": "complete",
+    "9.问路": "complete",
+    "10.变化": "complete",
+    "11.不但": "complete",
+    "12.而且": "complete",
+    "13.可不": "complete",
+    "14.小孩": "complete",
+    "15.地图": "complete",
+    "16.向": "complete",
+    "17.像": "complete",
+    "18.上": "complete",
+    "19.年级": "complete",
+    "20.大学": "complete",
+    "21.辛苦": "complete",
+    "22.下雨": "complete",
+    "23.雨": "complete"
+  },
+  "complete": 23,
+  "in_progress": 0,
+  "pending": 0,
+  "error": 0,
+  "complete_contiguous": 23
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "舅",
+  "traditional": "舅",
+  "pinyin": "jiù",
+  "english": "mother's brother; uncle",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "Phonetic: 臼(臼) (jiù, \"mortar\") + Semantic: 男(男) (nán, \"male\") = uncle",
+    "interpretation": "The character 舅 combines the phonetic component 臼(臼) (jiù, \"mortar\"), which suggests the sound of the word, with the semantic component 男(男) (nán, \"male\"), indicating its meaning as a male relative, specifically the mother's brother.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "mortar"
+    },
+    {
+      "char": "男",
+      "trad": "男",
+      "pinyin": "nán",
+      "english": "male"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我舅今天来访(我舅今天來訪)。",
+      "pinyin": "Wǒ jiù jīntiān lái fǎng.",
+      "english": "My uncle visited today."
+    },
+    {
+      "chinese": "我去拜访(我去拜訪)，舅家的人热情招待(舅家的人熱情招待)。",
+      "pinyin": "Wǒ qù bài fǎng, jiù jiā de rén rè qíng zhāo dài.",
+      "english": "I went to visit, and my uncle's family warmly welcomed me."
+    },
+    {
+      "chinese": "舅喜欢讲故事(舅喜歡講故事)。",
+      "pinyin": "Jiù xǐhuān jiǎng gùshì.",
+      "english": "My uncle enjoys telling stories."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "變",
+  "traditional": "變",
+  "pinyin": "biàn",
+  "english": "change; alter; transform; become different",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "䜌(䜌) as phonetic component with meanings of sound and form + 攴(攴) (pū, \"tap\") as semantic component = associated with movement or change -> final meaning \"change; alter; transform\"",
+    "interpretation": "The character 變(biàn, \"change\") is a phono-semantic compound with 䜌(䜌) providing the phonetic cues, while 攴(攴) (pū, \"tap\") suggests the action involved in change, like the act of tapping or altering.",
+    "simplification": "变(變) replaces 䜌(䜌) with 又(又) (yòu, \"again\") for a simpler form while retaining 攴(攴)."
+  },
+  "parts": [
+    {
+      "char": "䜌",
+      "trad": "䜌",
+      "pinyin": "(no pinyin provided in task, original character unrelated to modern meanings)",
+      "english": "(phonetic component)"
+    },
+    {
+      "char": "攴",
+      "trad": "攴",
+      "pinyin": "pū",
+      "english": "tap"
+    },
+    {
+      "char": "又",
+      "trad": "又",
+      "pinyin": "yòu",
+      "english": "again"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "人们的观念不断變(人們的觀念不斷變)。",
+      "pinyin": "Rénmen de guānniàn bùduàn biàn.",
+      "english": "People's views are constantly changing."
+    },
+    {
+      "chinese": "随着历史发展(隨著歷史發展)，社会面貌變化莫测(社會面貌變化莫測)。",
+      "pinyin": "Suízhe lìshǐ fāzhǎn, shèhuì miànmào biànhuà mò cè.",
+      "english": "With historical development, the social landscape becomes unpredictable."
+    }
+  ]
+}

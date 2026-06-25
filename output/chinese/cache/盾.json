@@ -1,0 +1,31 @@
+{
+  "simplified": "盾",
+  "traditional": "盾",
+  "pinyin": "dùn",
+  "english": "shield",
+  "etymology": {
+    "type": "pictogram",
+    "description": "Depicts a shield, originally shown in oracle bone script with a simplified element under 𠂆, distinct from 直 -> current form",
+    "interpretation": "The character 盾(dùn, \"shield\") visually represents a shield, differentiated from similar characters by the unique component beneath 𠂆, which distinguishes it from 直. This pictogram directly illustrates its meaning.",
+    "simplification": ""
+  },
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "战士举盾挡箭(戰士舉盾擋箭)。",
+      "pinyin": "Zhànshì jǔ dùn dǎng jiàn.",
+      "english": "The warrior raises his shield to block arrows."
+    },
+    {
+      "chinese": "骑士挥剑冲锋(騎士揮劍衝鋒)，用盾保卫城堡(用盾保衛城堡)。",
+      "pinyin": "Qíshì huī jiàn chōng fēng, yòng dùn bǎo wèi chéng bǎo.",
+      "english": "The knight charges forward with his sword and defends the castle with his shield."
+    },
+    {
+      "chinese": "将军举盾示勇(將軍舉盾示勇)。",
+      "pinyin": "Jiāngjūn jǔ dùn shì yǒng.",
+      "english": "The general raises his shield to demonstrate courage."
+    }
+  ]
+}

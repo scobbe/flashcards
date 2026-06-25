@@ -1,0 +1,50 @@
+{
+  "simplified": "金刚经",
+  "traditional": "金剛經",
+  "pinyin": "Jīngāng Jīng",
+  "english": "Diamond Sutra, a key Mahayana Buddhist scripture",
+  "etymology": {
+    "type": "compound word",
+    "description": "The term 金剛經(經) (Jīngāng Jīng, \"Diamond Sutra\") refers to a key scripture in Mahayana Buddhism. 金(剛) (jīn, \"gold\") represents hardness or indestructibility, symbolizing the pure strength and clarity of the diamond. 剛(剛) (gāng, \"hard\") reinforces the notion of unbreakable strength. 經(經) (jīng, \"classic\"; \"scripture\") indicates a canonical text of religious significance. The combination implies a text that is as enduring and pure as a diamond, highlighting the Sutra's philosophical depth and importance.",
+    "interpretation": "金剛經(經) (Jīngāng Jīng, \"Diamond Sutra\") is a foundational Mahayana Buddhist text, known for its profound teachings on the principles of non-attachment and emptiness. The metaphor of the diamond suggests clarity and indestructibility, emphasizing the Sutra's wisdom.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "金",
+      "trad": "金",
+      "pinyin": "jīn",
+      "english": "gold; metal"
+    },
+    {
+      "char": "剛",
+      "trad": "剛",
+      "pinyin": "gāng",
+      "english": "hard; firm; unyielding"
+    },
+    {
+      "char": "經",
+      "trad": "經",
+      "pinyin": "jīng",
+      "english": "classic; sacred book; scripture"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我阅读金刚经(我閱讀金剛經)，修行悟道(修行悟道)。",
+      "pinyin": "Wǒ yuèdú jīngāng jīng, xiūxíng wùdào.",
+      "english": "I read the Diamond Sutra and practice the path of enlightenment."
+    },
+    {
+      "chinese": "金刚经启发智慧(金剛經啟發智慧)，佛法指引人生(佛法指引人生)。",
+      "pinyin": "Jīngāng jīng qǐfā zhìhuì, fófǎ zhǐyǐn rénshēng.",
+      "english": "The Diamond Sutra inspires wisdom, and Buddhist teachings guide life."
+    },
+    {
+      "chinese": "信众细读金刚经(信眾細讀金剛經)，探讨深奥佛理(探討深奧佛理)。",
+      "pinyin": "Xìnzhòng xìdú jīngāng jīng, tàntǎo shēn'ào fó lǐ.",
+      "english": "Devotees study the Diamond Sutra carefully and discuss profound Buddhist doctrines."
+    }
+  ]
+}

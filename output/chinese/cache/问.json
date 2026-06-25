@@ -1,0 +1,44 @@
+{
+  "simplified": "问",
+  "traditional": "問",
+  "pinyin": "wèn",
+  "english": "ask",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "門(門) (mén, \"door\") + 口(口) (kǒu, \"mouth\") = speaking at the door -> ask",
+    "interpretation": "The character 問(問) (wèn, \"ask\") combines 門(門) (mén, \"door\") as the phonetic component with 口(口) (kǒu, \"mouth\") as the semantic component, representing the idea of speaking or inquiring through a door, which implies asking.",
+    "simplification": "The traditional component 門(門) (mén, \"door\") was simplified to 门(门) while retaining 口(口) (kǒu, \"mouth\"), reducing stroke count to create 问."
+  },
+  "parts": [
+    {
+      "char": "門",
+      "trad": "門",
+      "pinyin": "mén",
+      "english": "door"
+    },
+    {
+      "char": "口",
+      "trad": "口",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "请问你叫什么名字(請問你叫什麼名字)？",
+      "pinyin": "Qǐngwèn nǐ jiào shénme míngzì?",
+      "english": "May I ask, what is your name?"
+    },
+    {
+      "chinese": "王明问他父亲(王明問他父親)，明天是否有考试(明天是否有考試)。",
+      "pinyin": "Wáng Míng wèn tā fùqīn, míngtiān shìfǒu yǒu kǎoshì.",
+      "english": "Wang Ming asked his father if there would be an exam tomorrow."
+    },
+    {
+      "chinese": "学生问老师(學生問老師)，作业怎么做(作業怎麼做)。",
+      "pinyin": "Xuéshēng wèn lǎoshī, zuòyè zěnme zuò.",
+      "english": "The student asked the teacher how to do the homework."
+    }
+  ]
+}

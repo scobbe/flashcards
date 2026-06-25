@@ -1,0 +1,44 @@
+{
+  "simplified": "路",
+  "traditional": "路",
+  "pinyin": "lù",
+  "english": "road; path",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "足(足) (zú, \"foot\" or \"step\") + 各(各) (gè, \"each\") = path where feet tread -> road or path",
+    "interpretation": "In the character 路(路) (lù, \"road\"), 足(足) (zú, \"foot\" or \"step\") contributes the idea of walking or travel, while 各(各) (gè, \"each\") provides the phonetic element. Together, they form a character that represents a path or road where people travel.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "足",
+      "trad": "足",
+      "pinyin": "zú",
+      "english": "foot"
+    },
+    {
+      "char": "各",
+      "trad": "各",
+      "pinyin": "gè",
+      "english": "each"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "我走在这条路上(我走在這條路上)。",
+      "pinyin": "Wǒ zǒu zài zhè tiáo lù shàng.",
+      "english": "I am walking on this road."
+    },
+    {
+      "chinese": "路边开满了鲜花(路邊開滿了鮮花)，使人心情愉快(使人心情愉快)。",
+      "pinyin": "Lù biān kāi mǎn le xiān huā, shǐ rén xīn qíng yú kuài.",
+      "english": "Flowers bloom along the road, making people feel joyful."
+    },
+    {
+      "chinese": "古老的路(古老的路)，连接着两个小镇(連接著兩個小鎮)。",
+      "pinyin": "Gǔlǎo de lù, liánjiē zhe liǎng gè xiǎo zhèn.",
+      "english": "The ancient road connects two small towns."
+    }
+  ]
+}

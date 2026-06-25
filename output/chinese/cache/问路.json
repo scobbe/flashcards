@@ -1,0 +1,44 @@
+{
+  "simplified": "问路",
+  "traditional": "問路",
+  "pinyin": "wèn lù",
+  "english": "to ask for directions",
+  "etymology": {
+    "type": "compound word",
+    "description": "問(問) (wèn, \"ask\") + 路(路) (lù, \"road; path\") = to ask for directions",
+    "interpretation": "In Chinese, 问(問) (wèn, \"ask\") refers to the action of posing a question, while 路(路) (lù, \"road; path\") refers to the physical pathways one travels on. Combining these characters, 问路(問路) (wèn lù) means to seek guidance or directions regarding the right path to take.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "问",
+      "trad": "問",
+      "pinyin": "wèn",
+      "english": "ask"
+    },
+    {
+      "char": "路",
+      "trad": "路",
+      "pinyin": "lù",
+      "english": "road; path"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他向别人问路(他向別人問路)。",
+      "pinyin": "Tā xiàng biérén wèn lù.",
+      "english": "He asks others for directions."
+    },
+    {
+      "chinese": "在陌生城市迷路时(在陌生城市迷路時)，他向路人问路(他向路人問路)。",
+      "pinyin": "Zài mòshēng chéngshì mílù shí, tā xiàng lùrén wèn lù.",
+      "english": "When lost in an unfamiliar city, he asks passersby for directions."
+    },
+    {
+      "chinese": "出门前(出門前)，他会先问路(他會先問路)。",
+      "pinyin": "Chūmén qián, tā huì xiān wèn lù.",
+      "english": "Before leaving home, he asks for directions first."
+    }
+  ]
+}

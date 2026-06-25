@@ -1,0 +1,44 @@
+{
+  "simplified": "孩",
+  "traditional": "孩",
+  "pinyin": "hái",
+  "english": "child; kid; youth",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "semantic 子(子) (zǐ, \"child\") + phonetic 亥(亥) (hài, \"12th earthly branch\") = phono-semantic representation -> child",
+    "interpretation": "The character combines 子(子) (zǐ, \"child\") for its meaning with 亥(亥) (hài, \"12th earthly branch\") for its phonetic value. This combination captures the idea of a 'child' through the child radical, making it clear in both sound and meaning.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "子",
+      "trad": "子",
+      "pinyin": "zǐ",
+      "english": "child"
+    },
+    {
+      "char": "亥",
+      "trad": "亥",
+      "pinyin": "hài",
+      "english": "12th earthly branch"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "这个孩充满好奇心(這個孩充滿好奇心)。",
+      "pinyin": "Zhège hái chōngmǎn hàoqíxīn。",
+      "english": "This child is full of curiosity."
+    },
+    {
+      "chinese": "那个孩喜欢踢足球(那個孩喜歡踢足球)，他梦想成为冠军(他夢想成為冠軍)。",
+      "pinyin": "Nà ge hái xǐhuān tī zúqiú, tā mèngxiǎng chéngwéi guànjūn。",
+      "english": "That child loves playing soccer, and he dreams of becoming a champion."
+    },
+    {
+      "chinese": "小孩追逐梦想(小孩追逐夢想)，未来无限光明(未來無限光明)。",
+      "pinyin": "Xiǎo hái zhuīzhú mèngxiǎng, wèilái wúxiàn guāngmíng。",
+      "english": "The kid chases dreams, and the future is full of infinite brightness."
+    }
+  ]
+}

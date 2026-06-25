@@ -1,0 +1,34 @@
+{
+  "simplified": "舂",
+  "traditional": "舂",
+  "pinyin": "chōng",
+  "english": "pound grain",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "廾(廾) (gǒng, \"both hands\") + 午(午) (wǔ, \"pestle\") + 臼(臼) (jiù, \"mortar\") = using both hands to pound with a mortar and pestle -> pound grain",
+    "interpretation": "The character 舂(chōng, \"pound grain\") visually represents the action of pounding grain using both hands with a pestle and mortar, reflecting its agricultural context and function.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "廾",
+      "trad": "廾",
+      "pinyin": "gǒng",
+      "english": "both hands"
+    },
+    {
+      "char": "午",
+      "trad": "午",
+      "pinyin": "wǔ",
+      "english": "pestle"
+    },
+    {
+      "char": "臼",
+      "trad": "臼",
+      "pinyin": "jiù",
+      "english": "mortar"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

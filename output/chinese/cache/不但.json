@@ -1,0 +1,39 @@
+{
+  "simplified": "不但",
+  "traditional": "不但",
+  "pinyin": "bùdàn",
+  "english": "not only",
+  "etymology": {
+    "type": "compound word",
+    "description": "不(bù, \"not\") + 但(dàn, \"but only\").",
+    "interpretation": "The word 不但(bùdàn, \"not only\") combines 不(bù, \"not\") and 但(dàn, \"but only\") to express the idea of something not being limited to just one aspect or condition, thereby introducing the first part of a compound statement where additional items or conditions follow.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "不",
+      "trad": "不",
+      "pinyin": "bù",
+      "english": "not"
+    },
+    {
+      "char": "但",
+      "trad": "但",
+      "pinyin": "dàn",
+      "english": "but only; however"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他不但聪明(他不但聰明)，而且勤奋(而且勤奮)。",
+      "pinyin": "tā búdàn cōngmíng, érqiě qínfèn.",
+      "english": "He is not only smart, but also hardworking."
+    },
+    {
+      "chinese": "她不但漂亮(她不但漂亮)，而且善良(而且善良)。",
+      "pinyin": "tā búdàn piàoliang, érqiě shànliáng.",
+      "english": "She is not only pretty, but also kind."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "english": "hair, beard",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "semantic: 髟(髟) (biāo, \"hair\") + phonetic: 耳(耳) (ěr, \"ear\") = hair around the ears -> hair, beard",
-    "interpretation": "The character 髵(髵) (ér, \"hair, beard\") combines the semantic component 髟(髟) (biāo, \"hair\"), which signifies its connection to hair or hair-like features, with the phonetic component 耳(耳) (ěr, \"ear\"), suggesting the specific location of hair around the ears. This compound character effectively conveys the idea of hair or beard near the ears.",
+    "description": "semantic: 髟(髟) (biāo, \"hair\") + phonetic: 而(而) (ér, \"and\") = hair -> beard",
+    "interpretation": "The character 髵(髵) (ér, \"hair, beard\") combines the semantic element 髟(髟) (biāo, \"hair\"), which indicates the general category of hair, with the phonetic element 而(而) (ér, \"and\") to suggest pronunciation. The combination implies something related to hair, specifically referencing a beard or similar facial hair.",
     "simplification": ""
   },
   "parts": [
@@ -17,10 +17,10 @@
       "english": "hair"
     },
     {
-      "char": "耳",
-      "trad": "耳",
-      "pinyin": "ěr",
-      "english": "ear"
+      "char": "而",
+      "trad": "而",
+      "pinyin": "ér",
+      "english": "and"
     }
   ],
   "in_contemporary_usage": false,

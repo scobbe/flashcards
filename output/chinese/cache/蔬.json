@@ -1,0 +1,44 @@
+{
+  "simplified": "蔬",
+  "traditional": "蔬",
+  "pinyin": "shū",
+  "english": "vegetables; garden produce; greens",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "艹(艹) (cǎo, \"grass; plant\") + 疏(疏) (shū, \"疏\") = plant meaning + phonetic value -> vegetables",
+    "interpretation": "The character 蔬(蔬) (shū, \"vegetables\") combines 艹(艹) (cǎo, \"grass; plant\") to indicate a plant-related concept with 疏(疏) (shū) to provide the phonetic value, reflecting its meaning related to garden produce.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "艹",
+      "trad": "艹",
+      "pinyin": "cǎo",
+      "english": "grass; plant"
+    },
+    {
+      "char": "疏",
+      "trad": "疏",
+      "pinyin": "shū",
+      "english": "疏"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "妈妈挑选新鲜蔬(媽媽挑選新鮮蔬)，为家人准备美味料理(為家人準備美味料理)。",
+      "pinyin": "Māmā tiāo xuǎn xīnxiān shū, wèi jiārén zhǔnbèi měiwèi liàolǐ。",
+      "english": "Mom selects fresh vegetables to prepare delicious meals for the family."
+    },
+    {
+      "chinese": "农田中的蔬生长得茂盛(農田中的蔬生長得茂盛)。",
+      "pinyin": "Nóngtián zhōng de shū shēngzhǎng dé màoshèng。",
+      "english": "The vegetables in the farm grow vigorously."
+    },
+    {
+      "chinese": "月下清露滋养蔬(蔬)，诗情画意漫溢庭院(詩情畫意漫溢庭院)。",
+      "pinyin": "Yuèxià qīnglù zīyǎng shū, shīqíng huàyì màn yì tíngyuàn。",
+      "english": "Under the moonlight, dewdrops nurture the greens while poetic charm fills the courtyard."
+    }
+  ]
+}

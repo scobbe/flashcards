@@ -2,38 +2,43 @@
   "simplified": "尚",
   "traditional": "尚",
   "pinyin": "shàng",
-  "english": "esteem",
+  "english": "still",
   "etymology": {
     "type": "phono-semantic compound",
-    "description": "小(小) (xiǎo, \"small\") + 冋(冋) (jiōng, \"closed\") = closed top -> high -> esteem",
-    "interpretation": "The character 尚(尚) (shàng, \"esteem\") combines 小(小) (xiǎo, \"small\") with 冋(冋) (jiōng, \"closed\") to form a pictorial top. This signifies something being elevated or raised, symbolizing esteem or admiration. The closed top connotes positioning at a height or high standing.",
+    "description": "semantic: 八(八) (bā, \"eight\") + phonetic: 向(向) (xiàng, \"toward\") = similar to echoes in a place -> still",
+    "interpretation": "The character 尚(shàng, \"still\") combines the semantic component 八(八) (bā, \"eight\"), which does not contribute directly to the meaning, with the phonetic component 向(向) (xiàng, \"toward\"). This combination suggests reverberation or continuation, aligning with the sense of something persisting or 'still' occurring.",
     "simplification": ""
   },
   "parts": [
     {
-      "char": "小",
-      "trad": "小",
-      "pinyin": "xiǎo",
-      "english": "small"
+      "char": "八",
+      "trad": "八",
+      "pinyin": "bā",
+      "english": "eight"
     },
     {
-      "char": "冋",
-      "trad": "冋",
-      "pinyin": "jiōng",
-      "english": "closed"
+      "char": "向",
+      "trad": "向",
+      "pinyin": "xiàng",
+      "english": "toward"
     }
   ],
   "in_contemporary_usage": true,
   "examples": [
     {
-      "chinese": "他非常尚重传统(他非常尚重傳統)。",
-      "pinyin": "Tā fēicháng shàng zhòng chuántǒng.",
-      "english": "He holds tradition in high esteem."
+      "chinese": "他尚未出发(他尚未出發)。",
+      "pinyin": "Tā shàng wèi chūfā.",
+      "english": "He has not left yet."
     },
     {
-      "chinese": "公司尚人才(公司尚人才)，视员工为家人(視員工為家人)。",
-      "pinyin": "Gōngsī shàng réncái, shì yuángōng wéi jiārén.",
-      "english": "The company esteems talent and regards its employees as family."
+      "chinese": "这件事尚需讨论(這件事尚需討論)。",
+      "pinyin": "Zhè jiàn shì shàng xū tǎolùn.",
+      "english": "This matter still needs to be discussed."
+    },
+    {
+      "chinese": "夜色深沉(夜色深沉)，灯火尚亮(燈火尚亮)。",
+      "pinyin": "Yèsè shēnchén, dēnghuǒ shàng liàng.",
+      "english": "The night is deep, yet the lights are still bright."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "simplified": "变化",
+  "traditional": "變化",
+  "pinyin": "biànhuà",
+  "english": "change",
+  "etymology": {
+    "type": "compound word",
+    "description": "變(變) (biàn, \"change\") + 化(化) (huà, \"transform\") = change; transformation",
+    "interpretation": "The word 變化(變化) (biànhuà, \"change\") combines 變(變) (biàn, \"change\"), which implies an alteration or modification, with 化(化) (huà, \"transform\"), suggesting a transformation or the process of changing. Together, they describe a process or result of change or transformation.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "變",
+      "trad": "變",
+      "pinyin": "biàn",
+      "english": "change; alter; transform; become different"
+    },
+    {
+      "char": "化",
+      "trad": "化",
+      "pinyin": "huà",
+      "english": "transform; change; convert; melt"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "变化很大(變化很大)。",
+      "pinyin": "biànhuà hěn dà.",
+      "english": "The change is significant."
+    },
+    {
+      "chinese": "社会变化很快(社會變化很快)，经济随之调整(經濟隨之調整)。",
+      "pinyin": "shèhuì biànhuà hěn kuài, jīngjì suí zhī tiáozhěng.",
+      "english": "Society changes rapidly, and the economy adjusts accordingly."
+    },
+    {
+      "chinese": "古往今来变化无常(古往今來變化無常)。",
+      "pinyin": "gǔwǎngjīnlái biànhuà wúcháng.",
+      "english": "Change has been unpredictable throughout the ages."
+    }
+  ]
+}

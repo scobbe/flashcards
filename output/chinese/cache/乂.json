@@ -2,21 +2,30 @@
   "simplified": "乂",
   "traditional": "乂",
   "pinyin": "yì",
-  "english": "to govern/cut",
+  "english": "to govern",
   "etymology": {
     "type": "pictogram",
-    "description": "Depicts a tool similar to a knife or possibly a huge pair of scissors",
-    "interpretation": "The character 乂 (yì, \"to govern/cut\") shows a tool, possibly a sickle or large scissors, reflecting its original purpose in cutting or mowing. This meaning influenced its derivative 刈 (yì, \"to mow/cut weed\").",
+    "description": "Depicts a tool similar to a knife or scissors -> tool used for mowing or cutting -> 'to govern' through metaphorical 'cutting' or 'weeding out' unwanted elements",
+    "interpretation": "乂(yì, \"to govern\") originally depicted a tool like a knife or scissors, emphasizing precision and control. Its use in cutting or mowing symbolizes the act of governing by managing and trimming excess or unwanted elements, much like tending a garden.",
     "simplification": ""
   },
-  "parts": [
+  "parts": [],
+  "in_contemporary_usage": true,
+  "examples": [
     {
-      "char": "刈",
-      "trad": "刈",
-      "pinyin": "yì",
-      "english": "mow/cut weed"
+      "chinese": "仁君勤于乂国(仁君勤於乂國)。",
+      "pinyin": "Rén jūn qín yú yì guó.",
+      "english": "A benevolent ruler governs the country diligently."
+    },
+    {
+      "chinese": "强兵外护(強兵外護)，能内乂家国(能內乂家國)。",
+      "pinyin": "Qiáng bīng wài hù, néng nèi yì jiā guó.",
+      "english": "He defends the nation with a strong army and governs his household effectively."
+    },
+    {
+      "chinese": "乱世纷争(亂世紛爭)，智者能乂天下(智者能乂天下)。",
+      "pinyin": "Luàn shì fēnzhēng, zhì zhě néng yì tiān xià.",
+      "english": "In a turbulent era, the wise are capable of governing the realm."
     }
-  ],
-  "in_contemporary_usage": false,
-  "examples": []
+  ]
 }

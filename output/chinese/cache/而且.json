@@ -1,0 +1,44 @@
+{
+  "simplified": "而且",
+  "traditional": "而且",
+  "pinyin": "érqiě",
+  "english": "but also and also",
+  "etymology": {
+    "type": "compound word",
+    "description": "而(而) (ér, \"and\") + 且(且) (qiě, \"moreover\") combine to express continuation or addition in a sentence.",
+    "interpretation": "The word 而且(而且) (érqiě, \"but also; and also\") is used to connect phrases or clauses, emphasizing that what follows is in addition to what has already been stated. This combination nicely conveys the idea of adding more information or context.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "而",
+      "trad": "而",
+      "pinyin": "ér",
+      "english": "and; as well as; but"
+    },
+    {
+      "char": "且",
+      "trad": "且",
+      "pinyin": "qiě",
+      "english": "moreover; furthermore; both"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "他很聪明(他很聰明)，而且很努力(而且很努力)。",
+      "pinyin": "Tā hěn cōngmíng, érqiě hěn nǔlì.",
+      "english": "He is smart, and also works very hard."
+    },
+    {
+      "chinese": "她不仅勤奋(她不僅勤奮)，而且善于交流(而且善於交流)。",
+      "pinyin": "Tā bù jǐn qínfèn, érqiě shànyú jiāoliú.",
+      "english": "Not only is she diligent, but she is also good at communication."
+    },
+    {
+      "chinese": "我们学习认真(我們學習認真)，而且互相帮助(而且互相幫助)。",
+      "pinyin": "Wǒmen xuéxí rènzhēn, érqiě hùxiāng bāngzhù.",
+      "english": "We study diligently, and we help each other."
+    }
+  ]
+}

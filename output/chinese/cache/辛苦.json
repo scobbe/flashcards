@@ -1,0 +1,44 @@
+{
+  "simplified": "辛苦",
+  "traditional": "辛苦",
+  "pinyin": "xīnkǔ",
+  "english": "hard tiring",
+  "etymology": {
+    "type": "compound word",
+    "description": "辛(辛) (xīn, \"bitter; toilsome\") + 苦(苦) (kǔ, \"bitter; hardship\") = The combination of bitterness and hardship conveys the sense of enduring tough, arduous work or conditions.",
+    "interpretation": "The word 辛苦(辛苦) (xīnkǔ, \"hard; tiring\") reflects the experience of enduring hardships and toil, emphasizing the combined effects of physical or mental strain. Both characters imply difficulty and rigor, making the word expressive of laborious and demanding efforts.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "辛",
+      "trad": "辛",
+      "pinyin": "xīn",
+      "english": "bitter; toilsome"
+    },
+    {
+      "char": "苦",
+      "trad": "苦",
+      "pinyin": "kǔ",
+      "english": "bitter; hardship"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "工作很辛苦(工作很辛苦)。",
+      "pinyin": "Gōngzuò hěn xīnkǔ.",
+      "english": "Work is very hard."
+    },
+    {
+      "chinese": "农田耕作很辛苦(農田耕作很辛苦)。",
+      "pinyin": "Nóngtián gēngzuò hěn xīnkǔ.",
+      "english": "Farming is very tiring."
+    },
+    {
+      "chinese": "这位老工人说(這位老工人說)，他年轻时也曾觉得工作很辛苦(他年輕時也曾覺得工作很辛苦)。",
+      "pinyin": "Zhè wèi lǎo gōngrén shuō, tā niánqīng shí yě céng juéde gōngzuò hěn xīnkǔ.",
+      "english": "This old worker said that he also found work very hard when he was young."
+    }
+  ]
+}

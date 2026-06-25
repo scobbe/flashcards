@@ -1,0 +1,28 @@
+{
+  "simplified": "䜌",
+  "traditional": "䜌",
+  "pinyin": "(no pinyin provided in task, original character unrelated to modern meanings)",
+  "english": "(phonetic component)",
+  "etymology": {
+    "type": "ideogrammic compound",
+    "description": "絲(絲) (sī, \"silk\") + 言(言) (yán, \"speech\") = representation of speech related to textiles",
+    "interpretation": "The character 䜌 combines elements of silk and speech, suggesting concepts related to dialogues or narrations involving textiles. It is part of more literary or archaic usage rather than contemporary application.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "絲",
+      "trad": "絲",
+      "pinyin": "sī",
+      "english": "silk"
+    },
+    {
+      "char": "言",
+      "trad": "言",
+      "pinyin": "yán",
+      "english": "speech"
+    }
+  ],
+  "in_contemporary_usage": false,
+  "examples": []
+}

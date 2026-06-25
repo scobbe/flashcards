@@ -1,0 +1,39 @@
+{
+  "simplified": "年",
+  "traditional": "年",
+  "pinyin": "nián",
+  "english": "year",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "禾(禾) (hé, \"wheat; grain\") + 人(人) (rén) = originally 'harvest' -> semantic shift to 'year'",
+    "interpretation": "The character 年 originally combined 禾(禾) (hé, \"wheat; grain\") as a semantic element suggesting 'harvest' with 人(人) (rén) as a phonetic component. This reflects the agricultural foundation of the concept of a 'year,' marking the cyclical nature of harvests. Over time, the original form evolved through various scripts, converging in the clerical script era to its current form with standardization.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "禾",
+      "trad": "禾",
+      "pinyin": "hé",
+      "english": "wheat; grain"
+    },
+    {
+      "char": "人",
+      "trad": "人",
+      "pinyin": "rén",
+      "english": "person"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今年是幸福的一年(今年是幸福的一年)。",
+      "pinyin": "Jīnnián shì xìngfú de yī nián.",
+      "english": "This year is a happy year."
+    },
+    {
+      "chinese": "每一年都有新希望(每一年都有新希望)，我们努力迎接挑战(我們努力迎接挑戰)。",
+      "pinyin": "Měi yī nián dōu yǒu xīn xīwàng, wǒmen nǔlì yíngjiē tiǎozhàn.",
+      "english": "Every year holds new hope, and we strive to embrace challenges."
+    }
+  ]
+}

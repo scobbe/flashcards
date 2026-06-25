@@ -1,0 +1,39 @@
+{
+  "simplified": "下雨",
+  "traditional": "下雨",
+  "pinyin": "xià yǔ",
+  "english": "to rain",
+  "etymology": {
+    "type": "compound word",
+    "description": "下(下) (xià, \"descend\") + 雨(雨) (yǔ, \"rain\") = to rain",
+    "interpretation": "The word 下雨(xià yǔ) means 'to rain' because it describes the action of rain descending from the sky. The word combines 下(xià), meaning 'descend' or 'fall,' and 雨(yǔ), meaning 'rain.' Together, they convey the concept of rain falling down to earth.",
+    "simplification": ""
+  },
+  "parts": [
+    {
+      "char": "下",
+      "trad": "下",
+      "pinyin": "xià",
+      "english": "descend; fall; below; down"
+    },
+    {
+      "char": "雨",
+      "trad": "雨",
+      "pinyin": "yǔ",
+      "english": "rain; raining"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "今天下雨(今天下雨)。",
+      "pinyin": "Jīntiān xià yǔ.",
+      "english": "It is raining today."
+    },
+    {
+      "chinese": "傍晚下雨(傍晚下雨)，路人纷纷打伞(路人紛紛打傘)。",
+      "pinyin": "Bàngwǎn xià yǔ, lùrén fēnfēn dǎ sǎn.",
+      "english": "It rains in the evening, and people quickly open their umbrellas."
+    }
+  ]
+}

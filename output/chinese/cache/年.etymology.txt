@@ -1,0 +1,5 @@
+[年]
+Phono-semantic compound ( 形聲 / 形声 , OC *niːŋ ): semantic 禾 ( “ wheat; grain ” ) + phonetic 人 ( OC *njin ) . Originally meaning "harvest", it later came to mean "year". In the oracle bone script and early bronze inscriptions, it was originally written like 秂 .
+In bronze inscriptions after the Western Zhou period, a stroke was often added to 人 to give 千 ( OC *sn̥ʰiːn ), which still acted as a phonetic component, thus getting ( 秊 ). The current form is inherited from the clerical script, where libian ( 隸變 ) has occurred.
+
+[秊] variant form of 年.

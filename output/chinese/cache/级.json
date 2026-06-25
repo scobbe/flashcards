@@ -1,0 +1,44 @@
+{
+  "simplified": "级",
+  "traditional": "級",
+  "pinyin": "jí",
+  "english": "level; grade",
+  "etymology": {
+    "type": "phono-semantic compound",
+    "description": "糹(糹) (sī, \"thread\") + 及(及) (jí, \"to reach\") = thread sequence -> level, grade",
+    "interpretation": "The traditional character 級(級) is composed of 糹(糹) (sī, \"thread\") indicating a connection or sequence, combined with the phonetic component 及(及) (jí, \"to reach\"), reflecting the sense of progression or a series, much like threads arranged in order. This relates to the concept of a sequence, which evolved to pertain to levels or grades.",
+    "simplification": "Simplified to 级(級) by changing 糹(糹) (sī, \"thread\") to the simpler 纟(糹) radical, reducing strokes while maintaining the phonetic element 及(及) (jí, \"to reach\")."
+  },
+  "parts": [
+    {
+      "char": "糹",
+      "trad": "糹",
+      "pinyin": "sī",
+      "english": "thread"
+    },
+    {
+      "char": "及",
+      "trad": "及",
+      "pinyin": "jí",
+      "english": "to reach"
+    }
+  ],
+  "in_contemporary_usage": true,
+  "examples": [
+    {
+      "chinese": "学生按照年级编排座位(學生按照年級編排座位)。",
+      "pinyin": "Xuéshēng ànzhào niánjí biān pái zuòwèi.",
+      "english": "Students are arranged by their grade levels."
+    },
+    {
+      "chinese": "他的技能已提升到高级(他的技能已提升到高級)，获得了大家的认可(獲得了大家的認可)。",
+      "pinyin": "Tā de jìnéng yǐ tíshēng dào gāojí, huòdéle dàjiā de rènkě.",
+      "english": "His skills have been raised to a high level and earned everyone's recognition."
+    },
+    {
+      "chinese": "学习从基本级开始(學習從基本級開始)，逐步迈向高级(逐步邁向高級)。",
+      "pinyin": "Xuéxí cóng jīběn jí kāishǐ, zhúbù màixiàng gāojí.",
+      "english": "Learning begins at the basic level and gradually advances to a high level."
+    }
+  ]
+}
